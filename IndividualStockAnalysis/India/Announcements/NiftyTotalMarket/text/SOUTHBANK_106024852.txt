@@ -1,0 +1,1349 @@
+ 
+  DEPT.: SECRETARIAL  
+ 
+The South Indian Bank Ltd., Regd. Office: Thrissur, Kerala  
+Head Office: S.I.B . House, T.B . Road, P.B . No: 28, Thrissur - 680001, Kerala  
+(Tel) 0487 -2420 020 , (Fax) 91 487 -244 2021 , e-mail: sibcorporate@sib.co. in  
+CIN: L65191KL 1929PLC001017, Toll Free (India) 1800 -102-9408, 1800 -425-1809 (BSNL)  
+www.southindianbank.com  
+ 
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, 5th Floor,  
+Plot No.C/1, G Block,  
+Bandra -Kurla Complex, Bandra (E),  
+Mumbai – 400 051.  
+SCRIP CODE: SOUTHBANK  BSE Ltd.   
+Department of Corporate Services (Listing),  
+First Floor, New Trading Wing,   
+Rotunda Building, P J Towers,                                                           
+Dalal Street, Fort, Mumbai – 400 001.  
+SCRIP CODE: 532218  
+ 
+Dear Madam/Sir,  
+ 
+Sub: Intimation under Regulation 8(2) of the Securities and Exchange Board of India 
+(Prohibition of Insider Trading) Regulations, 2015.  
+ 
+Pursuant to Regulation 8(2) of the Securities and Exchange Board of India (Prohibition of Insider 
+Trading) Regulations, 2015, we wish to inform you that the Board of Directors of the Bank at their 
+meetin g held on 16th September , 2024  had amended the “Code of Conduct for Prevention of Insider 
+Trading of the Bank” and the same is enclosed herewith.  
+ 
+The aforesaid information is also being hosted on the website of the Bank 
+www.southindianbank.com . 
+ 
+Kindly take the same in your records.  
+ 
+ 
+Yours faithfully,  
+ 
+ 
+ 
+(JIMMY MATHEW)  
+COMPANY SECRETARY  
+ 
+Encl.: a/a  
+ REF. No. :   SEC/ST.EX.STT/ 173/2024 -25   
+DATE      :      October 16, 2024  
+ 
+ 1  
+            
+CODE OF CONDUCT FOR PREVENTION OF  INSIDER TRADING  
+ 
+FOR 
+ 
+THE SOUTH INDIAN BANK LIMITED  
+ 
+  
+         
+Confidential  
+ 
+          Version 6.1          
+ 
+Version  Date  Department  
+Version 3 .0 DBR/SE C/S-111/2021 -22 dated 22 -07-2021  Secretarial Dept.  
+Vers ion 3.1  DBR/SEC/S -324/2021 -22 dated 21-02-2022  Secretarial Dept.  
+Version 4.0  DBR/SEC/S -120/2022 -23 dated 12-07-2022  Secretarial Dept.  
+Version 5.0  DBR/SEC/S -108/2023 -24 dated 31 -07-2023  Secretarial Dept.  
+Version 5.1  DBR/SEC/S -246/2023 -24 dated 14 -12-2023  Secretarial Dept.  
+Version 6.0  DBR/SEC/S - 96/2024 -25 dated 30 -07-2024  Secretarial Dept.  
+Version 6.1   DBR/SEC/S -161/2024 -25 dated 16 -10-2024  Secretarial Dept.  
+ 
+ 
+ 2  
+ 
+INDEX 
+    Chapter 
+No Particulars  Page 
+No 
+1 Objective and Scope  3 
+2 Applicability of the code  of conduct  3 
+3 Definitions  4 
+4 Role of various functionaries  7 
+5 Preservation of “Price Sensitive Information”  10 
+6 Prevention of misuse of “Price Sensitive Information”  11 
+7 Trading Window and Window Closure  14 
+8 Pre-clearance of Trades  15 
+9 Othe r restrictions  15 
+10 Reporting requirement for transactions in the securities of the Company  16 
+11 Disclosure by the Company to the Stock Exchange(s)  17 
+12 Dissemination of Price Sensitive Information  17 
+13 Penalty for contravention of code of conduct  18 
+14 Code of Fair Disclosure  18 
+15 Information to SEBI in case of violation of SEBI (Prohibition of Insider 
+Trading) Regulations,  2015  19 
+16 Protection against retaliation and victimization  20 
+17 Procedure for inquiry in case of leak of UPSI or sus pected leak of UPSI.  20 
+ ANNEXURE 1  22 
+ ANNEXURE 2  23 
+ ANNEXURE 3  24 
+ ANNEXURE 4  25 
+ ANNEXURE 5  26 
+ ANNEXURE 6  28 
+ ANNEXURE 7  29 
+ ANNEXURE 8  31 
+ ANNEXURE 9  33 
+ 
+ 3  
+CODE OF CONDUCT FOR PREVENTION OF  INSIDER TRADING FOR  
+THE SOUTH INDIAN BANK LIMITE D 
+ 
+             
+1. Objective and Scope  
+ 
+This Code of Conduct may be known as “Code of Conduct for Prevention of Insider Trading 
+for  The South Indian Bank Ltd.”, hereinafter referred to as the “Code of Conduct”.  
+ 
+This Code of Conduct has been made pursuant t o Regulation 9 of the SEBI (Prohibition of 
+Insider Trading) Regulation, 2015 [“PIT Regulations”] as amended from time to time.   
+ 
+This Code enables the Bank to create a framework for prohibiting Insider trading by Insiders. It is to be noted that the prescription under Schedule B of Regulation 9(1) is only a minimum standard for formulating an Internal Code of Conduct. The Bank has therefore formulated the Insider Code in a manner that best serves the interests of its stakeholders, investors and participants  in securities market.  
+ 
+The objective of this Code is to create an awareness and obligation on the Insider/s to honor the confidentiality of the UPSI that they possess while dealing with the Bank and to penalize them in case of contraventions. While PIT regulations prohibit trades by Insider/s, it provides mechanisms by which even persons in perpetual possession of UPSI can plan their trades. 
+ 
+Every person who is in possession of UPSI and every Designated Person and the Specified Persons shall be liable fol low the tenets of this Code prudently and sincerely in good faith. A 
+person or entity privy to UPSI, would be automatically entrusted with the responsibility to 
+maintain secrecy of the information and to disseminate it at the right time in consultation with or according to the instruction or advise of the Compliance Officer under the “Insider 
+Code” and Chief Investment Relations Officer [“CIRO”] in accordance with “Fair Disclosure Code” of the Bank as per Regulation 8 of PIT Regulations; and shall not use s uch 
+information for personal monetary gains. 
+  
+The principal governing this code is to ensure investor protection, avoid market manipulation and maintain information symmetry in the market place. SEBI has mandated the need for identifying Designated Person s or Connected Persons to introduce procedures for controlling 
+and monitoring flow of UPSI until UPSI becomes Generally Available Information ( GAI).  
+ 
+2. Applicability of the code of conduct  
+ 
+The Code  of conduct  shall be adhered to by every person/s designate d or acting as an 
+Insider/s, in relation to holding or handling of Unpublished Price Sensitive Information 
+[“UPSI”] pertaining to the Bank, its listed securities or those securities proposed to be issued and listed by the Bank.  This Code of Conduct will be  applicable to Promoters/member of a 
+promoter group/Directors / KMPs/ Officers / Designated Employees and their dependent family members/connected persons and their immediate relatives.   
+ 
+ 
+ 
+ 4 3. Definitions : 
+ 
+For the purpose of this Code of Conduct:  
+ 
+a. “Act” mean s the Securities and Exchange Board of India Act, 1992 (15 of 1992);   
+b. “Companies Act” means the Companies Act, 2013  
+c. “Officer of a company” means any person as defined in clause ( 59) of section 2 of the 
+Companies Act, 2013 including an auditor of the compan y. 
+Explanation: - As per section 2( 59) of the Companies Act, 2013 an "officer" includes any 
+director, manager or secretary, or any person in accordance with whose directions or 
+instructions the Board of directors or any one or more of the directors is or are accustomed 
+to act. 
+d. “Stock Exchange” means a stock exchange which is recognised by the Central Government 
+or SEBI under Section 4 of Securities Contracts (Regulations) Act, 1956.  
+e. “Regulations” means the SEBI (Prohibition of Insider trading) Regulations, 2015 as amended 
+from time to time.  
+f. "Bank" / “Company” means The South Indian Bank Ltd.  
+g. “Board of Directors” means the Board of Directors of the Company - The South Indian Bank 
+Ltd.  
+h. “change in capital structure” may include change in the authorised, issued, subscribed and paid-up share capital; reclassification of the authorised share capital; sub -division of the face 
+value of the shares; reduction of share capital or buy back of shares; change in the capital structure resulting from restructuring; and cha nge in voting rights. However, for the purpose 
+of UPSI change in capital structure should not include change in the paid- up share capital 
+pursuant to exercise of stock options under an ESOP Scheme. 
+i. “Committee” means the Committee constituted by the Company  for the implementation of 
+these Regulations.  
+j. "Compliance Officer" for the purpose of the Insider code shall be the Company Secretary of 
+the Bank, Mr. Jimmy Mathew  or any other person designated by Board from time to time.  
+k. “Chief Investor Relations office r” (CIRO)  for the purpose of this code of conduct shall be the  
+person designated by Board  in this regard or  any other person authorised by the Board to act 
+as Chief Investor Relations officer from time to time . 
+l. "Confidential documents ” means  and includes a ny document s containing Confidential 
+Information  relating to UPSI.  
+ 
+ 5 m. “Connected Person ” means:  
+i) any person who is or has during the six months prior to the concerned act been 
+associated with the Bank , directly or indirectly, in any capacity including by reason of 
+frequent communication with its officers or by being in any contractual, fiduciary or 
+employment relationship or by being a director, officer or an employee of the Bank or holds any position including a professional or business relationship between himself and the Bank whether temporary or permanent, that allows such person, directly or 
+indirectly, access to unpublished price sensitive information or is reasonably expected to 
+allow such access.    
+ii) Without prejudice to the generality of the foregoing, the persons falling within the 
+following categories shall be deemed to be connected persons unless the contrary is 
+established, -    
+a) an immediate relative of connected persons specified in clause (i); or    
+b) a holding company or associate company or subsidi ary company; or   an intermediary 
+as specified in Section 12 of the Act or an employee or director thereof; or    
+c) an investment company, trustee company, asset management company or  
+d) an employee or director thereof; or    
+e) an official of a stock exchange or  of clearing house or corporation; or    
+f) a member of board of trustees of a mutual fund or a member of the board of directors 
+of the asset management company of a mutual fund or is an employee thereof; or    
+g) a member of the Board of directors or an employe e, of a public financial institution as 
+defined in section 2 (72) of the Companies Act, 2013; or    
+h) an official or an employee of a self -regulatory organization recognized  or authorized 
+by the Board; or      
+i) a banker of the Bank; or    
+j) a concern, firm, tru st, Hindu undivided family, company or association of  persons   
+wherein a director of a company or his immediate relative or banker of  the company, 
+has more than ten per cent. of the holding or interest;   
+ 
+n. “Designated Employee” means  –  
+i. Officers comprisin g of the top management of the company (i.e., Executive Directors, 
+Chief General Manger, General Managers and Deputy General Managers working in Head Office and other places wherever situate)    
+ii. All employees, officers in the rank of Mana ger and above work ing in Integrated Risk 
+Management Department and officers in the rank of Assistant Manager and above in 
+CFM Department and Secretarial Department .  
+ 
+ 6 iii. Such employees who may be so specifically designated from time to time for  the purpose 
+of this Code of Conduct who are specifically recommended by Department Head and 
+approved by the Company Secretary ( SEBI Compliance Officer ).  
+o. “Key Managerial Person” means person as defined in Section 2(51) of the Companies Act, 2013. 
+p. "Promoter" shall have the meaning assigned  to it under the Securities and Exchange Board of 
+India (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any modification 
+thereof:  
+q. "promoter group" shall have the meaning assigned to it under the Securities and Exchange Board of India ( Issue of Capital and Disclosure Requirements) Regulations, 2018 or any 
+modification thereof  
+r. “Trading Window” means a trading period for trading in Company’s securities as specified by the Company from time to time.  
+s. “Designated person” means a Director/ KMP s/Officer/Designated employee of the Company 
+and such other person or persons who may be so designated by the Company from time to 
+time for the purpose of this Code of Conduct. 
+t. “Immediate Relative"  means a spouse of a person, and includes parent, sibling, and child of 
+such person or of the spouse, any of whom is either dependent financially on such person, or 
+consults such person in taking decisions relating to trading in securities  
+u. "Generally available Information"  means information that is accessible to the publi c on a 
+non-discriminatory basis .  
+v. “Insider ” means any person who,  
+i. a connected person; or   
+ii. in possession of or having access to unpublished price sensitive information.   
+Explanation: Any person in receipt of UPSI pursuant to a “legitimate purpos e” shall be 
+considered an “insider” for purposes of these regulations and due notice shall be given to such persons to maintain confidentiality of such UPSI in compliance with these regulations  
+w. .“Specified Persons ” means the Directors,  KMPs,  connected pers ons, the insiders, the 
+Designated Employees and the promoters and immediate relatives  are collectively referred to 
+as Specified Persons.   
+x. "Securities" shall have the meaning assigned to it under the Securities Contracts (Regulation) 
+Act, 1956 (42 of 1956)  or any modification thereof: 
+ 
+ 7 y. "Takeover regulations"  means the Securities and Exchange Board of India (Substantial 
+Acquisition of Shares and Takeovers) Regulations, 2011 and any amendments thereto;  
+z. "Trading" means and includes subscribing, redeeming, swit ching, buying, selling, dealing, or 
+agreeing to subscribe, redeem, switch, buy, sell, deal in any securities, and "trade" shall be 
+construed accordingly. 
+aa. "Trading Day"  means a day on which the recognized stock exchanges are open for trading;  
+bb. “Dealing in s ecurities” means an act of subscribing, buying, selling or agreeing to subscribe, 
+buy, sell or deal in any securities by any person either as principal or agent.  
+cc. “Unpublished Price Sensitive Information” means: any information, relating to a Bank  or its 
+securities, directly or indirectly, that is not generally available which upon becoming generally available, is likely to materially affect the price of the securities and shall, 
+ordinarily including but not restricted to, information relating to the following:  
+i) financial results - Declaration of Financial results (quarterly, half yearly and annual);  
+ii) dividends 
+iii) change in capital structure  
+iv) mergers, de- mergers, acquisitions, delistings, disposals and expansion of business and 
+such other transactions;   
+v) changes i n key managerial personnel.  
+vi) any other unpublished price sensitive information  as identified and approved by Board 
+from time to time . 
+Words and expressions used and not defined in these regulations but defined in the Securities and 
+Exchange Board of India Act, 1992 (15 of 1992), the Securities Contracts (Regulation) Act, 1956 (42 of 1956), the Depositories Act, 1996 (22 of 1996) or the Companies Act, 2013 (18 of 2013) and rules and regulations made there  under shall have the meanings respectively assigned to them 
+in those legislation.  
+ 
+4. Role of various functionaries  
+ 
+4.1. Role of Board of Directors  
+ 
+For the purpose of sharing UPSI pertaining to the Bank, the Board of Directors of the Bank shall authorize the Managing Director & Chief Executive Officer [“MD & CE O”] and Compliance 
+Officer of the Bank to decide, how and when persons or entities shall be brought ‘inside’ on 
+sensitive transactions and identify persons or entities with whom UPSI is required to be shared. 
+The board of directors or MD & CEO , shall ensure that a structured digital database is maintained containing the nature of unpublished price sensitive information and the names of such persons who have shared the information and also the names of such persons with whom 
+information is shared under this  regulation along with the Permanent Account Number or any 
+other identifier authorized by law where Permanent Account Number is not available. Such 
+ 
+ 8 database shall not be outsourced and shall be maintained internally with adequate internal 
+controls and checks such as time stamping and audit trails to ensure non- tampering of the 
+database.   
+ 
+       All UPSI movements to be disclosed and captured in the module / database maintained by the 
+Bank in the following manner. 
+ 
+• All Intra departmental movement of UPSI to  be disclosed by the person/ persons who is 
+sharing or receiving such information.   
+• All Inter Departmental movement of UPSI to be disclosed by the Head of the Department and/ or such person/s who is sharing or receiving such information.   
+• All UPSI sharin g to / among top executives of the Bank to be disclosed and captured   
+• Any sharing or receiving of information of UPSI to or with any other designated / connected person (Auditors, consultants etc) to be disclosed by the employee who shares/ receives such UPSI.  
+The board of directors or MD & CEO, shall ensure that the structured digital database is 
+preserved for a period of not less than eight years after completion of the relevant transactions and in the event of receipt of any information from the Board regarding any investigation or enforcement proceedings, the relevant information in the structured digital database shall be preserved till the completion of such proceedings 
+ 
+ 
+4.2. Role of Audit Committee  
+ 
+A. Audit Committee shall review the status of compliance o f PIT regulations every quarter as 
+received from the MD & CEO. The Committee shall verify that the systems for internal control are adequate and are operating effectively.   
+B. The Committee shall receive and review the report submitted by the Compliance Officer to the Chairman of the Committee, once in a quarter.   
+C. The Audit Committee and Board shall ensure that the gap between clearance of accounts/ financial statements by the Committee and Board should be as narrow as possible and preferably on the same day  to avoid leakage of material information. 
+ 
+4.3. Role of MD & CEO  
+ 
+The MD & CEO of the Bank shall be responsible for verification of functioning of systems 
+and processes put in place for ensuring compliance with PIT regulations. MD & CEO shall seek ongoing reports from Compliance Officer to review adherence to the requirements of 
+the Code of conduct and from CIRO under the Fair Disclosure Code formulated as per 
+Regulation 8 on a quarterly basis [or from time to time] to ensure there is no violation of the PIT Re gulations. Further the MD & CEO shall review other aspects with the Compliance 
+Officer and Designated Persons in possession or having access to UPSI. 
+ 
+ 9  
+4.4.  Role of Compliance Officer  
+ 
+A) Compliance Officer shall be responsible for compliance of policies, procedures, maintenance 
+of records, monitoring adherence to the rules for the preservation of unpublished price sensitive information, monitoring of trades and the implementation of the codes specified in these regulations under the overall supervision of the Board of Directors of the Bank.  
+B) The Compliance Officer shall assist any Insider approaching him/her in addressing any clarifications regarding adherence to the compliance or reporting requirements Bank’s Code of Conduct. These queries may include determination of whether a person or entity is an insider or whether an information is a UPSI or what kind of reporting or disclosures does the Insider need to make and so on.  
+C) Compliance Officer shall set forth procedures and formats as required under the PIT Regula tions for obtaining compliances and documents from various types of Insiders as 
+required in this Code.   
+D) The Compliance Officer shall maintain and update from time to time the list of Specified Persons and Designated Persons, in electronic form as part of the database in consultation with MD & CEO.  
+ 
+E) The Compliance Officer shall send a written intimation and Notice to every person or entity who/which shall be designated as an Insider under the Code and being in receipt of UPSI shall be advised to utilize th e same for legitimate purposes or for performance or duties or for 
+statutory requirements only and maintain strict confidentiality of such UPSI.  
+ 
+F) Compliance Officer shall monitor trades by the Designated Persons and Specified Persons, seek disclosures, ver ify and approve or reject trading plans [as per provisions of Regulation 5 
+of PIT Regulations], and grant or reject pre -clearance for dealing in the Bank’s securities. 
+Compliance officer shall notify the trading plan to the stock exchanges and ensure that once approved, the trading plans shall be irrevocable.  
+G) Compliance Officer shall note that preclearance norms, trading window closure norms and restrictions on contra trades shall not be applicable to trades undertaken in accordance with trading plan.  
+H) Com pliance Officer shall obtain reports of Trades from Registrar and Share Transfer Agents 
+for tracking trades and requiring the Insiders to undertake compliances under this Code in case they have not done the same.  
+ 
+I) The Compliance Officer shall report to the  Audit Committee on a quarterly basis the trades 
+executed and reported by Insiders and adequacy of compliance to the PIT Regulations.  
+J) Any violations of the Code shall be reported by the Compliance Officer to the MD & CEO or Audit Committee or Board of Dir ectors, upon becoming aware of the same, based on the 
+materiality and nature of the violation.  
+ 
+ 
+ 10 K) The Compliance Officer shall seek written explanation from the Insider who has been 
+identified for violation of the Code. 
+ 
+L) The Compliance Officer shall make it  a point to notify each and every person to whom this 
+Code applies of the compliance and adherence requirements under this Code including those who have been appointed as Key Managerial Personnel or Director and also to those who are the Promoters or have been newly classified as Promoters or who form part of Promoters Group.  
+ 
+4.5. Role of Chief Investor Relationship Officer [CIRO]  
+ 
+Head Investor Relations shall act as CIRO of the Bank. The role of the CIRO inter alia includes the following:  
+ 
+A. The CIRO shall be responsible for dissemination and public disclosure of UPSI as prescribed under the Code of Practices and Procedures for Fair Disclosure of UPSI formulated for the Bank as per the provisions of Regulation 8 of PIT Regulations.  
+ 
+B. He/ she  shall be completely  responsible for deciding the manner of disclosure and timing of 
+disclosure subject to the provisions of the Insider Code and Fair Disclosure Code governing UPSI.  
+ 
+C. He/she may at any time consult with the Compliance Officer or the MD & CEO of the Bank 
+for d etermining the requirements under this Code or under the Code formulated vide 
+Regulation 8 of PIT Regulations. 
+ 
+D.  He/she shall ensure that the confidential documents are properly tracked and handled only by 
+designated employees  and movement of these doc uments/ information  are properly tracked 
+in the database managed by the Bank in this regard. 
+ 
+5. Preservation of “Price Sensitive Information”  
+ 
+5.1. Designated Persons shall maintain the confidentiality of all Price Sensitive Information and 
+they shall not pass on such information to any person directly or indirectly by way of making a recommendation for the purchase or sale of securities.  
+5.2. No insider shall communicate, provide, or allow access to any unpublished price sensitive information, relating to a company or securities listed or proposed to be listed, to any person including other insiders except where such communication is in furtherance of legitimate purposes, performance of duties or discharge of legal obligations.  
+Unpublished price sensitive information may be communicated, provided, allowed access to 
+or procured, in connection with a transaction which entails:  
+• entail an obligation to make an open offer under the takeover regulations where the 
+Board of Directors of the listed Company is of informed opinion that sharing of such 
+information is in the best interests of the Company; or    
+ 
+ 11 • not attract the obligation to make an open offer under the takeover regulations but 
+where the Board of Directors of the listed Company is of informed opinion that sharing 
+of such information is in the best interests of the Company and the information that constitute unpublished price sensitive information is disseminated to be made generally available at least two trading days prior to the proposed transaction being effected  in 
+such form as the Board of Directors may determine.   
+However, the Board of Directors shall require the parties to execute agreements to contract confidentiality and non -disclosure obligations on the part of such parties and such parties 
+shall keep info rmation so received confidential, except for the limited purpose and shall not 
+otherwise trade in securities of the Company when in possession of unpublished price sensitive information.  
+ 
+5.2.1. The board of directors or MD & CEO shall ensure that a structured di gital database is 
+maintained containing the nature of unpublished price sensitive information and the  
+names of such persons who have shared the information and also the names of such 
+persons  or entities as the case may be with whom information is shared un der this regulation 
+along with the Permanent Account Number or any other identifier authorized by law where Permanent Account Number is not available. Such database shall not be outsourced and  
+shall be maintained internally  with adequate internal controls and checks such as time 
+stamping and audit trails to ensure non- tampering of the database  
+ 
+5.3. Need to know  
+i) “need to know” basis means that Unpublished Price Sensitive Information should be 
+disclosed only to those within the Company who need the information to discharge their 
+duty and whose possession of such information will not give rise to a conflict of interest or 
+appearance of misuse of the information.   
+ii) All non- public information directly received by any employee should immediately be 
+reported to the hea d of the department.   
+5.4. Limited access to confidential information  
+Files containing confidential information shall be kept secure. Computer files must have 
+adequate security of login and password etc.  
+ 
+6. Prevention of misuse of “Price Sensitive Information  
+ 
+”No insider shall trade in securities that are listed or proposed to be listed on a stock exchange 
+when in possession of unpublished price sensitive information. Employees and connected persons designated on the basis of their functional role (“ designated persons ”) in the organization shall 
+be governed by an internal code of conduct governing dealing in securities.  6.1. Trading Plan  
+ 
+ 12 An insider shall be entitling to formulate a trading plan for dealing in securities of the 
+Company and present it to the Compliance Officer for approval and public disclosure pursuant to which trades may be carried out on his behalf in accordance with such plan.  
+6.2. Trading Plan shall: 
+i. not entail commencement of trading on behalf of the insider earlier than one hundred 
+and twenty calendar days from the public disclosure of the plan;  
+ii. not entail overlap of any period for which another trading plan is already in existence;   
+iii. set out following parameters for each trade to be executed:  
+a. either the value of trade to be effected or the number o f securities to be traded;  
+b. nature of the trade;  
+c. either specific date or time period not exceeding five consecutive trading days;   
+d. price limit, that is an upper price limit for a buy trade and a lower price limit for a sell trade, subject to the range as specified below:  
+i. for a buy trade: the upper price limit shall be between the  closing price on the 
+day before submission of the trading plan and upto twenty per cent higher than 
+such closing price;    
+ii. for a sell trade: the lower price limit shall be between  the closing  price on the 
+day before submission of the trading plan and upto twenty per cent lower than 
+such closing price.    
+iv. not entail trading in securities for market abuse.   
+ 
+6.3.  The compliance officer shall review the trading plan to assess whether the plan would have 
+any potential for violation of these regulations and shall be entitled to seek such express undertakings as may be necessary to enable such assessment and to approve and monitor the 
+implementation of the plan.  
+Provided that pre -clearance of trades shall not be required for a trade executed as per an 
+approved trading plan. Provided further that trading window norms shall not be applicable for trades carried out in 
+accordance with an approved trading plan.  
+ 
+6.4. The trading plan once approved sha ll be irrevocable and the insider shall mandatorily have to 
+implement the plan, without being entitled to either execute any trade in the securities outside the scope of the trading plan or to deviate from it except due to permanent incapacity 
+or bankruptcy or operation of law.  
+Provided that the implementation of the trading plan shall not be commenced if any unpublished price sensitive information in possession of the insider at the time of 
+formulation of the plan has not become generally available at the time of the commencement 
+of implementation. 
+ 
+ 
+ 13 Provided further that if the insider has set a price limit for a trade under sub- clause (iv) of 
+clause (v) of sub- regulation 2, the insider shall execute the trade only if the execution price 
+of the security is  within such limit. If price of the security is outside the price limit set by the 
+insider, the trade shall not be executed.  
+6.5. The compliance officer shall approve or reject the trading plan within two trading days of 
+receipt of the trading plan and notify the approved plan to the stock exchanges on which the securities are listed, on the day of approval  
+6.6. Institutional Mechanism for Prevention of Insider trading 
+A. The Chief Executive Officer, Managing Director or such other analogous person of the Bank , interme diary or fiduciary shall put in place adequate and effective system of internal 
+controls to ensure compliance with the requirements given in these regulations to prevent 
+insider trading.  
+B. The internal controls shall include the following:  
+a) all employees who  have access to unpublished price sensitive information are identified as 
+designated employee;    
+b) all the unpublished price sensitive information shall be identified and its confidentiality 
+shall be maintained as per the requirements of these regulations;    
+c) adequate restrictions shall be placed on communication or procurement of unpublished 
+price sensitive information as required by these regulations;    
+d) lists of all employees and other persons with whom unpublished price sensitive information is shared shall be maintained and confidentiality agreements shall be signed or notice shall be served to all such employees and persons;   
+e) all other relevant requirements specified under these regulations shall be complied with;    
+f) periodic process review to evaluate  effectiveness of such internal controls.   
+ 
+C. The board of directors of every listed company and the board of directors or head(s) of the 
+organization of intermediaries and fiduciaries shall ensure that the Chief Executive Officer or the Managing Director or such other analogous person ensures compliance with 
+regulation 9 and sub- regulations (1) and (2) of this regulation. 
+D. The Audit Committee of a listed company or other analogous body for intermediary or 
+fiduciary shall review compliance with the provisions  of these regulations at least once in a 
+financial year and shall verify that the systems for internal control are adequate and are 
+operating effectively.  
+E. The Bank shall formulate written policies and procedures for inquiry in case of leak of 
+unpublished price sensitive information or suspected leak of unpublished price sensitive 
+information, which shall be approved by board of directors of the company and accordingly 
+initiate appropriate inquiries on becoming aware of leak of unpublished price sensitive 
+ 
+ 14 information or suspected leak of unpublished price sensitive information and inform the 
+Board promptly of such leaks, inquiries and results of such inquiries.  
+F. The Bank shall have a whistle -blower policy and make employees aware of such policy to 
+enable emplo yees to report instances of unethical practices such as leak of unpublished price 
+sensitive information.  
+G. If an inquiry has been initiated by the Bank  in case of leak of unpublished price sensitive 
+information or suspected leak of unpublished price sensiti ve information, the relevant 
+intermediaries and fiduciaries shall co -operate with the Bank  in connection with such 
+inquiry conducted by the Bank . 
+7. Trading Window and Window Closure  
+7.1.  
+i. The trading period, i.e. the trading period of the stock exchanges, called ‘trading 
+window”, is available for trading in the Company’s securities.  
+ii. The trading window shall be, inter alia, closed from the end of every quarter   to and 48 hours after the time the unpublished price sensitive information is published. 
+iii. When the trading window is closed, the Specified Persons shall not trade in the Company’s securities in such period.  
+iv. All Specified Persons shall conduct all their dealings in the securities of the Company only in a valid trading window and shall not deal in any transact ion involving the 
+purchase or sale of the Company’s securities during the periods when the trading window is closed, as referred to in Point No. (ii) above or during any other period as may be specified by the Company from time to time.  
+v. In case of ESOPs/ES OS, exercise of option may be allowed in the period when the 
+trading window is closed. However, sale of shares allotted on exercise of ESOPs/ESOS 
+shall not be allowed when trading window is closed. 
+ 
+7.2. The Compliance Officer shall intimate the closure of trad ing window to all the designated 
+employees of the Company when he /she determines that a designated person or class of 
+designated persons can reasonably be expected to have possession of unpublished price 
+sensitive information. Such closure shall be imposed in relation to such securities to which 
+such unpublished price sensitive information relates. 
+7.3. The Compliance Officer after taking into account various factors including the unpublished 
+price sensitive information in question becoming generally available a nd being capable of 
+assimilation by the market, shall decide the timing for re -opening of the trading window, 
+however in any event it shall not be earlier than forty -eight hours after the information 
+becomes generally available.  
+ 
+ 15 7.4. The trading window shall al so be applicable to any person having contractual or fiduciary 
+relation with the Company, such as auditors, accountancy firms, law firms, analysts, 
+consultants etc., assisting or advising the Company.  
+ 
+8. Pre-clearance of Trades  
+ 
+8.1. All Specified Persons, who intend to deal in the securities of the Company when the trading 
+window is opened and if the value of the proposed trades is above Rs. 10 Lakhs (market 
+value), should pre -clear the transaction. However, no designated person shall be entitled to 
+apply for p re-clearance of any proposed trade if such designated person is in possession of 
+unpublished price sensitive information even if the trading window is not closed and hence 
+he/she shall not be allowed to trade. The pre -dealing procedure shall be hereunder:  
+i. An application may be made, in the form provided under annexure – 1, to the 
+Compliance Officer indicating the estimated number of securities that the designated 
+person intends to deal in, the details as to the depository with which he /she has a security 
+account, the details as to the securities in such depository mode and such other details as may be required by any rule made by the company in this behalf.  
+ii. An undertaking (Annexure – 2) shall be executed in favour of the company by such 
+designated person inc orporating, inter alia , the following clauses, as may be applicable:  
+a) That the designated person does not have any access or has not received “Price Sensitive Information” up to the time of signing the undertaking.  
+b) That in case the designated person has access to or receives “Price Sensitive Information” after the signing of the undertaking but before the execution of the transaction he/she shall inform the Compliance Officer of the change in his 
+position and that he/she would completely refrain from dealing  in the securities of 
+the company till the time such information becomes public.  
+c) That he/she has not contravened the code of conduct for prevention of insider 
+trading as notified by the company from time to time.  
+d) That he/she has made a full and true disclo sure in the matter.  
+ 
+9. Other restrictions  
+ 
+9.1. All Specified Persons and them shall execute their order in respect of securities of the 
+Company within one week after the approval of pre -clearance is given. The Specified Person 
+shall file within 2 (two) days of the execution of the deal, the details of such deal with the Compliance Officer in the prescribed form. In case the transaction is not undertaken, a report 
+to that effect shall be filed. (Annexure 4).  
+9.2. If the order is not executed within seven days after the approval is given, the 
+employee/director must pre -clear the transaction again.  
+ 
+ 16 9.3. All Specified Persons who buy or sell any number of shares of the Company shall not enter 
+into an opposite transaction i.e. sell or buy any number of shares during the next si x months 
+following the prior transaction. All Specified Persons shall also not take positions in 
+derivative transactions in the shares of the Company at any time. In case of any contra trade 
+be executed, inadvertently or ot herwise, in violation of such a  restriction, the profits from 
+such trade shall be liable to be disgorged for remittance to the Securities and Exchange Board of India (SEBI) for credit to the Investor Protection and Education Fund administered 
+by SEBI under the Act.  
+In the case of subscri ption in the primary market (initial public offers), the above mentioned 
+entities shall hold their investments for a minimum period of 30 days. The holding period 
+would commence when the securities are actually allotted.  
+9.4. The Compliance Officer may waive of f the holding period in case of sale of securities in 
+personal emergency after recording reasons for the same. However, no such sale will be permitted when the Trading window is closed.  
+9.5. The disclosures to be made by any person under this Code shall includ e those relating to 
+trading by such person's immediate relatives, and by any other person for whom such person takes trading decisions.  
+9.6. The disclosures of trading in securities shall also include trading in derivatives of securities and the traded value o f the derivatives shall be taken into account for purposes of this Code.  
+9.7. The disclosures made under this Code shall be maintained for a period of eight years.  
+ 
+10. Reporting requirement for transactions in the securities of the Company  
+ Initial Disclosure  
+10.1. Every promoter/Member of a promoter group/ Key Managerial Personnel / Director / 
+Officers / Designated Employees of the Company, within thirty days of these regulations taking effect, shall forward to the Company the details of all holdings in securities of t he 
+Company presently held by them including the statement of holdings of dependent family 
+members in the prescribed Form (Annexure 5).  
+10.2. Every person on appointment as a key managerial personnel or a director of the Company or 
+upon becoming a promoter or mem ber of promoter group shall disclose his holding of 
+securities of the Company as on the date of appointment or becoming a promoter, to the 
+Company within seven days of such appointment or becoming a promoter.  
+ 
+Continual Disclosure  
+10.3. Every promoter, or member  of promoter group, designated person and director of the 
+Company shall disclose to the Company the number of such securities acquired or disposed 
+of within two trading days of such transaction if the value of the securities traded, whether in 
+ 
+ 17 one transact ion or a series of transactions over any calendar quarter, aggregates to a traded 
+value in excess of Rupees Ten lakhs.  
+ 
+The disclosure shall be made within 2 working days of:  
+a) the receipt of intimation of allotment of shares, or  
+b) the acquisition or sale of shares or voting rights, as the case may be.  
+The above disclosures shall be made in such form and such manner as may be specified by 
+the Board from time to time. The format of disclosure of transaction is as detailed in ANNEXURE 4)  
+On a periodic basis details of change in holding of Securities of Promoter, Member of the Promoter Group, Designated Person or Director of the Bank and immediate relatives of such persons and other such persons as mentioned in Regulation 6(2) has to be submitted to compliance office in format as attached in the Annexure 8.  
+Further details of trading in securities by other connected persons as identified by the company to be submitted to compliance office in format as attached in the Annexure 9. 
+ 
+11. Disclosure by the Company to the S tock Exchange(s)  
+ 
+11.1. Within 2 days of the receipt of intimation under Clause 10.3, or from becoming aware of such 
+information. the Compliance Officer shall disclose to all Stock Exchanges on which the 
+Company is listed, the information received.  
+11.2. The Compliance officer shall maintain records of all the declarations in the appropriate form 
+given by the Directors / officers / designated employees for a minimum period of eight years.  
+ 
+12. Dissemination of Price Sensitive Information   
+12.1. No information shall be passed by Specified Persons by way of making a recommendation for 
+the purchase or sale of securities of the Company.  
+12.2. Disclosure/dissemination of Price Sensitive Information with special reference to analysts, 
+media persons and institutional investors:  
+The followi ng guidelines shall be followed while dealing with analysts and institutional 
+investors  
+• Only public information to be provided.   
+• At least two Company representatives be present at meetings with analysts, media persons 
+and institutional investors.   
+• Unant icipated questions may be taken on notice and a considered response given later. If 
+the answer includes price sensitive information, a public announcement should be made before responding.  
+  
+  
+ 
+ 
+ 18 13. Penalty for contravention of code of conduct  
+ 
+13.1. Every Specified  Person shall be individually responsible for complying with the provisions of 
+the Code (including to the extent the provisions hereof are applicable to his/her dependents).  
+13.2. Any Specified Person who trades in securities or communicates any information for  trading 
+in securities, in contravention of this Code may be penalized and appropriate action may be 
+taken by the Company.  
+13.3. Specified Persons who violate the Code shall also be subject to disciplinary action by the 
+Company, which may include wage freeze, s uspension, recovery, ineligibility for future 
+participation in employee stock option plans, etc. or other penalty / action taken by SEBI  or 
+other competent authority under this Code. Any amount collected under this clause shall 
+be remitted to the SEBI  for credit to the Investor Protection and Education Fund 
+administered by the SEBI under the Act.  
+13.4. The action by the Company shall not preclude SEBI from taking any action in case of 
+violation of SEBI (Prohibition of Insider Trading) Regulations, 2015.  
+ 
+14. Code of  Fair Disclosure   
+A code of practices and procedures for fair disclosure of unpublished price sensitive information 
+for adhering each of the principles is set out below:  
+ 
+1. Prompt intimation of unpublished price sensitive information that would have a materi al 
+impact on shares/securities of the bank to stock exchanges where the shares are listed Such disclosures would be subject to receipt of internal approvals and made through authorized personnel of the bank, in accordance with applicable laws.  
+2. Uniform and universal dissemination of unpublished price sensitive information to avoid 
+selective disclosure by adopting a common platform, i.e. through stock exchanges  
+3. Designation of a senior officer in the cadres of Asst. General Manager and above as a 
+chief investo r relations officer to deal with dissemination of information and disclosure of 
+unpublished price sensitive information.  
+4. Prompt dissemination of unpublished price sensitive information that gets disclosed selectively, inadvertently or otherwise to make su ch information generally available 
+through stock exchange for public disclosure  
+5. Appropriate and fair response to queries on news reports and requests for verification of market rumors by regulatory authorities to be made by Compliance officer / chief inve stor 
+relations officer subject to internal approvals. 
+6. Ensuring that information shared with analysts and research personnel is not unpublished price sensitive information. In case, it UPSI is disclosed inadvertently to analysts and 
+ 
+ 19 research personnel. it w ould be promptly intimated to stock exchanges also to ensure that 
+such information is generally public.  
+7. This code and amendments there to shall be available on the website of the bank.  
+8. Any information classified as unpublished price sensitive information w ould be dealt by 
+directors and employees on a need -to-know basis.  
+9. The policy on determination of Legitimate purpose which is a part of the code of fair 
+disclosure is given as annexure -7 
+10.  DISCUSSION WITH ANALYSTS/INVESTORS:  
+a) Bank shall, while conducting audi o/video conference with analyst’s/research 
+personnel, ensure to discuss and/or disseminate such information which are not 
+unpublished price sensitive information.  
+b) As a matter of good governance and to ensure confirmation of fair and transparent 
+sharing of  information, Bank will post on its website the transcripts / records of 
+proceedings of the earnings/quarterly calls as stated in Regulation 46 (2) (o a) of SEBI (LODR) regulations., 2015.  
+Chinese ‐walls  
+ Personnel working in concerned departments of the Bank which are handling Unpublished Price Sensitive Information, should not share such Unpublished Price Sensitive Information 
+with personnel of other departments of the Bank or with outsiders except on a need ‐to‐know 
+basis. No Unpublished Price Sensitive Information shall be communicated by such personnel 
+to any person except in furtherance of his/her legitimate purposes, performance of duties or discharge of his/her legal obligations. For sharing o f Unpublished Price Sensitive 
+Information with personnel of other departments of the Bank or with outsiders, the Permission from the Compliance Officer should be obtained through the c oncerned 
+department head.  
+ 
+15. Information to SEBI in case of violation of S EBI (Prohibition of Insider Trading) 
+Regulations, 2015 
+ 
+1. Any violation of this Code of Conduct shall be placed before the Board at the ensuing 
+meeting of the Board, and the Board shall impose such penalty as deemed appropriate against the person who has violated this Code of Conduct, and the decision of the Board in this regard shall be final.  
+2. In case of violation by any member of the Board, the Board excluding the member who has violated the Code shall be the authority to impose any penalty as deemed appropriate.  
+3. In case it is observed by the company/Compliance Officer that there has been a violation of SEBI (Prohibition of Insider Trading) Regulations, 2015, Bank should promptly inform the stock exchange(s) where the concerned securities are traded, in such  form and such 
+manner as may be specified by the SEBI from time to time  
+ 
+ 20 16. Protection against retaliation and victimization  
+ 
+The Bank will provide suitable protection against any discharge, termination, demotion, 
+suspension, threats, harassment, directly or i ndirectly or discrimination against any employee 
+who files a Voluntary Information Disclosure Form, irrespective of whether the information is considered or rejected by the Board or he or she is eligible for a Reward under these regulations, by reason of:  
+i. filing a Voluntary Information Disclosure Form under these regulations;  
+ii. testifying in, participating in, or otherwise assisting or aiding the Board in any investigation, inquiry, audit, examination or proceeding instituted or about to be instituted for a n alleged violation of insider trading laws or in any manner aiding the 
+enforcement action taken by the Board; or 
+iii. breaching any confidentiality agreement or provisions of any terms and conditions of employment or engagement solely to prevent any employee f rom cooperating with the 
+Board in any manner 
+ 
+17. Procedure for inquiry in case of leak of UPSI or suspected leak of UPSI.  
+ 
+1. The Chairman of Audit Committee may on becoming aware suo moto or on receipt of a written intimation of leak or suspected leak of UPSI f rom:  
+i. communication received from regulatory authorities;  
+ii. a written complaint and/ or email received from a whistle -blower; or 
+iii. Company’s own/ internal monitoring, etc., follow the below mentioned procedure in order to inquire and/or investigate the matter  
+2. The Chairman of Audit committee may authorize the Company Secretary and 
+Compliance officer or any other officer of the Bank to conduct preliminary inquiry on the matter.  
+3. The report on the preliminary inquiry to be submitted to the C hairman of Audit 
+Committee by such authorized personnel within 7 working days. 
+4. If in the opinion of Chairman of Audit Committee  the preliminary inquiry report 
+warrants further investigation  the Audit Committee of the Board may constitute an 
+Inquiry committee consisting such offic ers as decided by the Audit Committee. The 
+Company Secretary and Compliance officer shall simultaneously intimate SEBI about such Leak or suspected Leak of UPSI.  
+5. Upon receipt of the report of the preliminary inquiry and all other supporting documents, the Inquiry Committee of the Bank is required to initiate the investigation. The said 
+investigation shall be completed within 15 working days from the date of receipt of report of the preliminary inquiry. The Inquiry Committee’s investigation report shall be submitted to the Audit Committee  for review.  
+6. The Suspect shall -  
+• co-operate with the Inquiry Committee during the investigation process.  
+• have a right to consult with a person or persons of their choice, other than members 
+of Inquiry Committee.  
+• right to be informed of the outcome of the investigation 
+• not to interfere with the investigation.  
+Unless there are compelling reasons not to do so, Suspects will be given the 
+opportunity to respond to material findings contained in investigation report. 
+ 
+ 21 7. The report on investigation must be submitted to the Audit Committee of the Board, 
+which may further placed to the Board with recommendations by the Audit Committee.  
+8. The B oard may take disciplinary action against Suspect, which may include  wage freeze, 
+suspension, recovery, clawback, ineligibility for future participation in the Company’s 
+stock option plans or termination or any other penalty. Any amount collected under this 
+clause shall be remitted to the Board for credit to the Investor Protection and Education Fund a dministered by the SEBI under the Act . 
+9. SEBI or any other appropriate regulatory authority would also be informed of such violation who may take appropriate action against the Suspect. 
+ 
+ 
+I have received and read the Bank’s Code of Conduct and agree to compl y with the same.  
+ 
+ Name:  
+    Signature:  
+  Place & Date:  
+ Please sign and return this form to Board Secretariat.  
+                      
+ 
+ 22 ANNEXURE 1  
+SPECIMEN OF APPLICATION FOR PRE -DEALING APPROVAL  
+ 
+Date:  
+To,   The Compliance Officer,  The South Indian Bank Limited ,  
+Thrissur  
+ Dear Sir/Madam,  
+ 
+Application for Pre -dealing approval in securities of the Company 
+ 
+Pursuant to the SEBI (Prohibition of Insider Trading) Regulations, 2015 and the Company’s Code of 
+Conduct for Prevention of Insider Trading , I seek app roval to purchase / sale / subscription of 
+_________ equity shares of the Company as per details given below:  
+1. Name of the applicant   
+2. Designation   
+3. Number of securities held as on date   
+4. Folio No. / DP ID / Client ID No.)   
+5. The proposal  is for  
+ (a) Purchase of securities  
+(b) Subscription to securities  
+(c) Sale of securities  
+6. Proposed date of dealing in securities   
+7. Estimated number of securities proposed to 
+be acquired/subscribed/sold   
+8. Price at which the transaction is pr oposed   
+9. Current market price (as on date of 
+application)   
+10. Whether the proposed transaction will be 
+through stock exchange or off -market deal   
+11. Folio No. / DP ID / Client ID No. where the 
+securities will be credited / debited   
+ I enclose h erewith the form of Undertaking signed by me. 
+  Yours faithfully,  (Signature of Employee)  
+ 
+ 
+ 23 ANNEXURE 2  
+FORMAT OF UNDERTAKING TO BE ACCOMPANIED WITH THE APPLICATION FOR 
+PRE -CLEARANCE   
+ 
+UNDERTAKING  
+ 
+ 
+To, 
+ 
+The Compliance Officer,  The South Indian Bank Limi ted,  
+Thrissur  
+  
+I, ________________________________, _________________________ of the Company residing 
+at ______________________________________________, am desirous of dealing in ____________ * shares of the Company as mentioned in my application dated ___________ for pre-clearance of the transaction.   I further declare that I am not in possession of or otherwise privy to any unpublished Price Sensitive Information (as defined in the Company’s Code of Conduct for prevention of Insider Trading (the Code) up to the time of signing this Undertaking.   In the event that I have access to or received any information that could be construed as “Price Sensitive Information” as defined in the Code, after the signing of this undertaking but before executing the transaction for which approval is sought, I shall inform the Compliance Officer of the same and shall completely refrain from dealing in the securities of the Company until such information becomes public.   I declare that I have not contravened the provisions of the Code as notified by the Company from time to time.  
+ I undertake to submit the necessary report within four days of execution of the transaction / a ‘Nil’ report if the transaction is not undertaken.   If approval is granted, I shall execute the d eal within 7 days of the receipt of approval failing which I 
+shall seek pre -clearance.  
+ I declare that I have made full and true disclosure in the matter.     Date:           Signature:  _______________  
+   * Indicate number of shares 
+ 
+ 24  
+ANNEXURE 3  
+FORMAT FO R PRE - CLEARANCE ORDER  
+ 
+To,  
+  Name:  ______________  
+ Designation: _________ 
+  
+Place:  ______________ 
+ 
+ This is to inform you that your request for dealing in _____________ (nos) shares of the Company as mentioned in your application dated ____________is approved. Please note that the said transaction must be completed on or before _________ (date) that is within 7 days from today.  
+ In case you do not execute the approved transaction /deal on or before the aforesaid date you would have to seek fresh pre -clearance before executing any transaction/deal in the securities of the 
+Company. Further, you are required to file the details of the executed transactions in the attached format within 2 days from the date of transaction/deal. In case the transaction is not  undertaken a 
+‘Nil’ report shall be necessary.  
+  
+ Yours faithfully,  
+   for THE SOUTH INDIAN BANK LIMITED  
+     COMPLIANCE OFFICER  
+    Date : _______________    Encl: Format for submission of details of transaction  
+ 
+ 25 ANNEXURE 4  
+ 
+FORMAT FOR DISCLOSURE OF TRANSACTIONS  
+(To be submitted within 2 days of transaction / dealing in securities of the Company) 
+ 
+ To, 
+ The Compliance Officer,  The South Indian Bank Limited,  
+Thrissur  
+ 
+ 
+ I hereby inform that I  
+ • have not bought / sold/ subscribed any securities of the Company  • have bought/sold/subscribed to ________ securities as mentioned below on ________ (date)  
+ 
+Name of holder  
+ No. of securities 
+dealt with  
+ Bought/sold/subscribed  
+ DP ID/Client ID 
+/ Folio No  
+ Price (Rs.)  
+ 
+     
+     
+ 
+In connection with the aforesaid transaction(s), I hereby undertake to preserve, for a period of 3 
+years and produce to the Compliance officer / SEBI any of the following documents:   1. Broker’s contract note.  2. Proof of payment to/from brokers.  3. Extract of bank passbook/statement (to be submitted in case of demat transactions).  4. Copy of Delivery instruction slip (applicable in case of sale transaction).   I agree to hold the above securities for a minimum period of six months. In case there is any urgent need to sell these securities within the said period, I shall approach the Compliance Officer for necessary approval. ( applicable in case of purchase / subscription).  
+ I declare that the above information is correct and that no provisions of the Company’s Code and/or applicable laws/regulations have been contravened for effecting the above said transactions(s).  
+  Date : ________________________      Signature : _______________    Name :  
+ 
+Designation: 
+ 
+ 26 ANNEXURE 5  
+FORMAT FOR INITIAL DISCLOSURE OF SECURITIES  
+To, 
+The Compli ance Officer,  
+The South Indian Bank Limited ,  
+Thrissur  
+I, __________________, in my capacity as __________________ of the Company hereby submit the following details of securities held in the Company as on ______________ (date of becoming Specified 
+Person ). 
+FORM B  
+SEBI (Prohibition of Insider Trading) Regulations, 2015 [Regulation 7 (1) (b) read with Regulation 6(2) – Disclosure on becoming a Key Managerial Personnel/Director/Promoter/Member of the 
+promoter group]  
+Name of the company:  
+ISIN of the company:   
+ 
+Details of Securities held on appointment of Key Managerial Personnel (KMP) or Director or upon becoming a Promoter or member of the promoter group of a listed company and immediate 
+relatives of such persons and by other such persons as mentioned in Reg ulation 6(2).  
+ 
+Name,  
+PAN,  
+CIN/DIN  
+ 
+&  
+ 
+Address with contact nos.  Category of Person (KMP /  
+Director or Promoter or member of the 
+promoter group/  
+Immediate relative to/others, etc.)  Date of 
+appointment of 
+KMP/Director / 
+OR Date of 
+becoming 
+Promoter/ member 
+of the promoter 
+group  
+ Securities held at the time of appointment 
+of KMP/Director or upon becoming 
+Promoter or member of the promoter 
+group  % of 
+Shareholding  
+ 
+Type of securities (For eg. 
+– Shares, Warrants,  
+Convertible Debentures, 
+Rights ent itlements, etc.)  No.  
+ 
+1 2 3 4 5 6 
+ 
+ 27  
+ Name:  
+  
+PAN:  
+  
+CIN/DIN:  
+  
+Address 
+with 
+contact nos. 
+       
+Note: “Securities” shall have the meaning as defined under regulation 2(1)(i) of SEBI (Prohibition of Insider Trading) Regulations, 2015.  
+          In case of Options, notional value shall be calculated based on premium plus strike price of options 
+ 
+Details of Open Interest (OI) in derivatives on the securities of the company held on appointment of KMP or Director or upon becoming a Promoter or member of  the promoter group of a listed 
+company and immediate relatives of such persons and by other such persons as mentioned in Regulation 6(2).  
+Open Interest of the Future contracts held at the time of appointment of 
+Director/KMP or upon becoming Promoter/member of the promoter group  Open Interest of the Option Contracts held at the time of appointment of Director/KMP or upon 
+becoming Promoter/member of the promoter group  
+Contract specifications  
+ Number of units 
+(Contract  
+* lot size)  Notional value in Rup ee 
+terms  
+ Contract specifications  
+ Number of units ( ontract  
+* lot size)  Notional value in Rupee 
+terms  
+ 
+7 8 9 10 11 12 
+      
+ Name & Signature:  
+Designation:  
+Date:  
+Place:  
+ 
+ 28 ANNEXURE 6  
+DISCLOSURE OF CHANGE IN SHAREHOLDING  
+ 
+To, 
+ 
+The Compliance Offic er,  
+The South Indian Bank Limited ,  
+Thrissur  
+ 
+I, _________________________, in my capacity as ____________ of the Company hereby submit the 
+following details of change in holding of securities of the Company :  
+Name, PAN 
+No. & 
+address of 
+shareholder  
+ No. of 
+securities 
+held before 
+the 
+transaction  
+ Receipt of 
+allotment 
+advice/ 
+acquisition 
+of /sale of 
+securities  
+ Nature of transaction & 
+quantity  
+ 
+ 
+ 
+ 
+ 
+ Trading 
+member 
+through 
+whom the 
+trade was 
+executed with 
+SEBI 
+Registration 
+No. of the 
+TM  
+ Exchange 
+on whic h 
+the trade 
+was 
+executed  
+ 
+Purchase  
+ 
+ 
+ 
+ 
+ 
+ Sale  
+ 
+ 
+ 
+ 
+ Others  
+ 
+ 
+ 
+ 
+ 
+      
+ 
+Details of change in securities held by dependent family members :  
+Name, PAN 
+No. & 
+address of 
+shareholder  
+ No. of 
+securities 
+held before 
+the 
+transaction  
+ Receipt of 
+allotme nt 
+advice/ 
+acquisition 
+of /sale of 
+securities  
+ Nature of transaction & 
+quantity  
+  
+ 
+ 
+ 
+ Trading 
+member through 
+whom the 
+trade was 
+executed with 
+SEBI 
+Registration 
+No. of the 
+TM  
+ Exchange 
+on which 
+the trade 
+was 
+executed  
+ 
+Purchase  
+ 
+ 
+ 
+ 
+ 
+ Sale  
+ 
+ 
+ 
+ 
+ Othe rs  
+ 
+ 
+ 
+ 
+ 
+      
+I/We declare that I/We have complied with the requirement of the minimum holding period of six months with respect to the securities purchased/sold.  
+ 
+I hereby declare that the above details are true, correct and complete in all respects . 
+ Date :         Signature: ___________________  
+ 
+ 29 ANNEXURE 7  
+POLICY ON DETERMINATION OF LEGITIMATE PURPOSES  
+Preface  
+ 
+This Policy, as a part of Code of Conduct for Prevention of Insider Trading formulated under SEBI (Prohibition of lnsider Trading) Regulations 2015, will be known as "Policy for Determination of Legitimate Purposes” hereinafter refined to as the "Policy”.  
+ 
+Objective  
+ 
+This Policy is prepared in accordance with Regulation 3(2A) of SEBI (Prohibition of lnsider Trading) (Amendment) Regulations, 2018. The objective of this policy is to identify Legitimate Purposes'  for performance of duties or discharge of legal obligations, which will be considered as exception for the purpose of procuring unpublished price sensitive information (UPSI) relating to the Bank or its listed securities or proposed to be listed securities, if any.  
+ 
+Definition  
+ 
+ “Legitimate Purpose” shall include sharing of unpublished price sensitive information in the ordinary course of business by an insider with partners, collaborators, lenders, customers, suppliers, merchant bankers, legal advisors, auditors, insolvency professionals or other advisors or consultants, provided that such sharing has not been carried out to evade or circumvent the prohibitions of these regulations.  Any person in receipt of unpublished price sensitive information pursuant to a “legitimate purpose” 
+shall be considered an “insider” for purposes of these regulations and due notice shall be given to such persons to maintain confidentiality of such unpublished price sensitive information in compliance with these regulations.  
+ 
+Sharing of UPSI  
+ 
+This policy sets out principles of the approach that the Board shall adopt while considering if UPSI 
+ought to be shared, in a particular set of circumstances, so as to ensure responsible treatment of UPSI, in line with the spirit of the Regulations, which shall include:  1. Determining the purpose of sharing of UPSI   Evaluate whether the UPSI is being shared for the  best interests of the Bank, without any intention to ma ke profits/ gains or avoid losses unlawfully or being in furtherance of a genuine business/ 
+corporate purpose, or for enabling the Bank to discharge its legal obligations, etc. Incase if there are multiple purpose for the UPSI sharing each should be evaluated in consonance with the above.    2. Nature of sharing of UPSI  At all times the handling of all unpublished price sensitive information on a need- to-know basis. 
+ 
+ 
+ 30  
+3. Identity of the persons with whom USPI is proposed to be shared.  Sharing of UPSI in the ordinary course of business of the Bank including but not limited to existing or proposed collaborators, lenders, customers, suppliers, merchant bankers, legal advisors, auditors, insolvency professionals or other advisors or consultants etc  Furtheranc e of legitimate purposes, performance of duties or discharge of legal obligations. The 
+insiders should handle UPSI with care and to deal with the information with them when transacting their business strictly on a need-to know basis.  Sharing of UPSI for a ny other genuine or reasonable purpose as may be determined by the 
+Compliance Officer of the Bank as per this code.  
+ 
+ 
+ 31 Annexure 8  
+FORM C  
+SEBI (Prohibition of Insider Trading) Regulations, 2015  
+[Regulation 7 (2) read with Regulation 6(2) – Continual Disclosure]  
+Name of the company:  
+ISIN of the company:  
+Details of change in holding of Securities of Promoter, Member of the Promoter Group, Designated Person or Director of a list ed company and immediate relatives of such persons and other such 
+persons as mentio ned in Regulation 6(2).  
+Name,  
+PAN,  
+CIN/DIN  
+ 
+&  
+ 
+Address with contact nos.  Category of 
+Person 
+(Promoter/
+member of 
+the promoter 
+group/desig
+nated 
+person/  
+Director 
+s/immediate 
+relative 
+to/others 
+etc.)  Securities held 
+prior to 
+acquisition/ 
+disposal  
+  
+ 
+Securities acquired/Disposed  
+  
+ 
+Securities held post 
+acquisition/  
+disposal  Date of 
+allotment advice/ 
+acquisition 
+of shares/  
+disposal of 
+shares,  
+specify  Date of 
+intimation to 
+company  
+ Mode of 
+acquisition 
+/disposal 
+(on market/  
+public/  
+rights/ preferent ial 
+offer/  
+off market/ 
+Inter -se 
+transfer, 
+ESOPs, etc.)  Exchange 
+on which 
+the trade 
+was 
+executed  
+ 
+Type of 
+securitie
+s (For 
+eg.  
+– 
+Shares, 
+Warran
+ts,  
+Convertible 
+Debentu
+res, 
+Rights 
+entitlem
+ents 
+etc.)  No. and 
+% of 
+share 
+holding  
+ Type of 
+securities 
+(For  eg.  
+– 
+Shares, Warrants, 
+Convertible 
+Debentures, 
+Rights 
+entitlement, 
+etc.)  N
+o.  
+ Va
+lue  
+ Transactio
+n Type 
+(Purchase/sale Pledge / 
+Revocation 
+/ 
+Invocation/  
+Others-
+please 
+specify)  Type of 
+securities 
+(For eg.  
+– Shares, 
+Warrants,  
+Converti
+ble 
+Debentu
+res, 
+Rights 
+entitlement, etc.)  No. and 
+% of 
+shareholding  
+ From  To 
+1 2 3 4 5 6 7 8 9 10 11 1
+2 13 14 15 
+ 
+ 32  
+ Name:  
+  
+PAN:  
+  
+DP  
+CIN/DI
+N: 
+  
+Address 
+with 
+contact 
+nos. 
+                
+Note: (i) “Securities” shall have the meaning as defined under regulation 2(1)(i) of SEBI (Prohibition of Insider Trading) Regulations, 2015.  
+(ii) Value of transaction excludes taxes/brokerage/any other charges  
+Details of trading in derivatives on the securities of the company by Promoter, member of the promoter group, design ated person or Director of a listed company and immediate relatives of such 
+persons and other such persons as mentioned in Regulation 6(2).  
+Trading in derivatives (Specify type of contract, Futures or Options etc.)  Exchange on which the 
+trade was executed  
+ Type of contract  
+ Contract 
+specifications  
+ Buy Sell 
+Notional Value  
+ Number of units 
+(contracts * lot size)  
+ Notional Value  
+ Number of units 
+(contracts * lot size)  
+ 
+16 17 18 19 20 21 22 
+       
+Note: In case of Options, notional value shall be calculated based on Premium plus strike price of options.  
+I/We declare that the buy or sale reported above are not opposite transaction entered into within 6 months from the prior tra nsaction. 
+I/We further declare that the above disclosure is true and correct and is in accordance with the previous disclosures given to the company.  
+                                                                                                                                                                                                               
+ 
+Date:                                                                                                                                                                                                         Name & Signature:   
+Place:                                                                                                                                                                                                                   Designation:  
+ 
+ 33 Annexure 9  
+FORM D (Indic ative format)  
+SEBI (Prohibition of Insider Trading) Regulations, 2015  
+Regulation 7(3) – Transactions by Other connected persons as identified by the company  
+ 
+Details of trading in securities by other connected persons as identified by the company  
+Name, PAN , CIN/DIN,  
+& address with contact 
+nos. of other connected 
+persons as identified by 
+the company  Connec
+t ion 
+with 
+compa
+ny  
+ Securities held prior to 
+acquisition/ disposal  
+ Securities acquired/Disposed  
+ Securities held post 
+acquisition/ disposal  Date of 
+allotment advice/ 
+acquisition 
+of shares/  
+disposal of 
+shares,  
+specify  Date of 
+intimation 
+to 
+company  
+ Mode of 
+acquisition 
+/disposal 
+(on market/  
+public/  
+rights/ 
+preferential 
+offer/  
+off market/ 
+Inter -se 
+transfer, 
+ESOPs, 
+etc.)  Exchange 
+on which 
+the trad e 
+was 
+executed  
+ 
+Type of 
+securities 
+(For eg.  
+– Shares, 
+Warrants,  
+Convertible 
+Debentures, 
+Rights 
+entitlements 
+etc.)  No. and 
+% of 
+share 
+holding  
+ Type of 
+securities (For 
+eg.  
+– 
+Shares, Warrants, 
+Convertible 
+Debentures, 
+Rights 
+entitlement, 
+etc.)  N
+o.  
+ Value  
+ Transaction 
+Type (Purchase/sale 
+Pledge / 
+Revocation / 
+Invocation/  
+Others- please 
+specify)  Type of 
+securities (For eg.  
+– Shares, 
+Warrants,  
+Convertible 
+Debentures, 
+Rights 
+entitlement, 
+etc.)  No. and % of 
+share holding  
+ From  To 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+ 
+ 34  
+ Name:  
+  
+PAN:  
+  
+CIN/DIN
+: 
+  
+Address 
+with 
+contact 
+nos. 
+                
+Note: (i) “Securities” shall have the meaning as defined under regulation 2(1)(i) of SEBI (Prohibition of Insider Trading) Regulations, 2015.  
+(ii) Value of tr ansaction excludes taxes/brokerage/any other charges  
+Details of trading in derivatives on the securities of the company by Promoter, member of the promoter group, designated person or Director of a listed company and immediate relatives of such persons and other such persons as mentioned in Regulation 6(2).  
+Trading in derivatives (Specify type of contract, Futures or Options etc.)  Exchange on which 
+the trade was 
+executed  
+ Type of contract  
+ Contract specifications  
+  
+Buy 
+  
+Sell 
+ 
+ 
+Notional Value  
+ Numb er of units 
+(contracts * lot size)  
+ Notional Value  
+ Number of units 
+(contracts * lot size)  
+ 
+16 17 18 19 20 21 22 
+       
+Note: In case of Options, notional value shall be calculated based on Premium plus strike price of options.  
+I/We declare that th e buy or sale reported above are not opposite transaction entered into within 6 months from the prior transaction. 
+I/We further declare that the above disclosure is true and correct and is in accordance with the previous disclosures given t o the company.  
+ Date:                                                                                                                                                                                                         Name & Signat ure:  
+Place  

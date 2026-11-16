@@ -1,0 +1,912 @@
+ 
+  
+ 
+ 
+12
+th November  2024 
+ 
+Corporate Relationship Department  
+M/s. BSE Ltd.  
+Dalal Street, Fort  
+Mumbai – 400 001.  
+Scrip Code: 524816  
+  
+The Manager –  Listing  
+M/s.  National Stock Exchange of India Ltd.  
+Exchange Plaza, Bandra- Kurla Complex  
+Bandra(E), MUMBAI – 400 051.  
+Scrip Code: NATCOPHARM  
+Dear Sir/Madam,  
+                                           Sub:  Outcome of Board Meeting  
+ 
+We would like to inform you that the Board of Directors of the Company at their meeting held today have considered and approved the following along with other items of business:  
+ 1. Unaudited Financial Results (Standalone and Consolidated) for the quarter and half year ended 30
+th 
+September 2024 prepared under Indian Accounting Standards (IND -AS) and as per Regulation 33 of the 
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 as amended from time to time (“Listing Regulations”) along with Limited Review Report of the 
+Statutory Auditors.   Please find enclosed herewith a copy of the same for your information.  
+ 
+2. Declared  second interim  dividend of Rs .1.50 (Rupees one and fifty  paise only)  (75%) each per equity 
+share of Rs.2/ - (Rupees two only) each for the financial year 202 4-25. The date for taking on record of 
+its shareholders eligible for the purpose of payment of second interim  dividend i.e. , record date is fixed 
+as Monday , the 2 5th day of November  2024. The payment of said interim dividend will start from 2nd 
+December  2024 .  
+ 
+A Copy of Press release is also enclosed for your information.  
+ Meeting commenced at 12.45  p.m and concluded at  13.5 5 p.m.  
+ 
+Thanking you  
+ Yours faithfully,  
+For NATCO Pharma Limited  
+ 
+ 
+Ch. Venkat Ramesh  
+Company Secretary &  
+Compliance Officer  
+ Encl: As above  
+   
+ 
+  
+ 
+     
+
+~ 
+NATCO Pharma Limited 
+Regd. Office: Nalco House, Road No. 2, Banjara Hills, Hyderabad , Telangana -500 034. 
+Phone: +91-40-2354 7532, Website: www.natcopharm a.co.in, CIN: L24230TG1981PLC003201 
+STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30-09-2024 
+(fin millions except per share data) 
+Quarter ended Half year ended Year ended 
+S.No. Particula rs 30-09-2024 30-06-2024 30-09-2023 30-09-2024 30-09-2023 31-03-2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Income 
+1 Revenue from operations 13,711 13,626 10,314 27,337 21,719 39,988 
+2 Other income 638 481 294 1,119 491 1,281 
+3 Total income (1+2) 14,349 14,107 10,608 28,456 22,210 41,269 
+4 Expenses 
+Cost of materials consumed 1,432 1,513 1,665 2,945 3,027 5,225 
+Purchases of stock-in-trade 537 325 410 862 836 1,514 
+Changes in inventories of finished goods, work-in-progress and (193) (36) 83 (229) 255 427 stock-in-trade 
+Employee benefits expense 1,515 1,420 1,224 2,935 2,606 5,250 
+Finance costs 41 52 42 93 84 192 
+Depreciation and amortisation expense 458 441 436 899 871 1,868 
+Other expenses 2,377 2,356 2,352 4,733 5,135 10,058 
+Total expenses 6,167 6,071 6,212 12,238 12,814 24,534 
+5 Profit before tax for the period/ year (3-4) 8,182 8,036 4,396 16,218 9,396 16,735 
+6 Tax expense 
+( i) Current tax 1,541 1,436 819 2,977 1,740 3,165 
+(ii) Deferred tax (124) (85) (113) (209) (237) (313) 
+Total tax expense 1,417 1,351 706 2,768 1,503 2,852 
+7 Profit for the period/ year (5-6) 6,765 6,685 3,690 13,450 7,893 13,883 
+8 Other comprehensive income/ (loss) (net of tax) 
+(i). Items that will not be reclassified to profit or loss: 
+Remeasurement of defined benefit liability/(asset ) - - - (20) 
+Tax on remeasurement of defined benefit liability/(asset) - - - 7 
+Fair value changes of Equity investments through OCI 50 26 25 76 76 97 
+Tax impact in Fair value changes on Equity investments through OCI (7) (4) (3) (11) (7) (8) 
+43 22 22 65 69 76 
+(ii). Items that will be reclassified to profit or loss: 
+Exchange differences on translating financial statements of foreign 149 (166) (70) (17) 26 73 
+operations 
+149 (166) (70) (17) 26 73 
+Other comprehensive income/ (loss) for the period/ year, net of 192 (144) (48) 48 95 149 
+tax 
+9 Total comprehensive income for the period/ year (7+8) 6,957 6,541 3,642 13,498 7,988 14,032 
+10 Profit for the period/year attributable to: 
+Owners of the Company 6,773 6,685 3,690 13,458 7,893 13,883 
+Non-controlling interests (8) - - (8) -
+11 Other comprehensive income for the period/ year attributable to: 
+Owners of the Company 192 (144) (48) 48 95 149 
+Non-controlling interests - - - -
+12 Total comprehensive income for the period/ year attributable to: 
+Owners of the Company 6,965 6,541 3,642 13,506 7,988 14,032 
+Non-controlling inlerests (8) - (8) -
+13 Paid-up equity share capital (Face value of f2 each) 358 358 358 358 358 358 
+14 Other equity 58,173 
+15 Earnings per share (not annualised for the quarters) 
+(Face value of f2 each) 
+Basic (inf) 37.81 37.32 20.60 75.14 43.88 77.34 
+Diluted (in ~) 37.81 37.32 20.60 75.14 43.88 77.34 
+See accompanyin g notes to the unaudited consolidated financial results. Continued .. 
+® 
+NATCO Pharma Limited 
+Consolidated Balance Sheet: 
+I Assets 
+(1) Non-current assets 
+(a) Property, plant and equipment 
+(b) Capital work-in-progress 
+(c) Goodwill 
+(d) other intangible assets 
+(e) Financial assets 
+(i) Investments 
+(ii) Other financial assets 
+(f) Deferred tax assets, net 
+(g) Non-current tax assets, net 
+(h) other non-current assets 
+Total non-current assets 
+(2) Current assets 
+(a) Inventories 
+(b) Financial assets 
+(i) Investments 
+(ii) Trade receivables 
+(iii) Cash and cash equivalents 
+(iv) Bank balances other than (iii) above 
+(v) Loans 
+(vi) Other financial assets 
+(c) Other current assets 
+Total current assets 
+Total assets 
+II EQUITY AND LIABILITIES 
+(1) Equity 
+(a) Equity share capital 
+(b) other equity 
+Equity attributable to owners of the Company 
+(c) Non-controll ing interest 
+Total equity 
+(2) Liabilities 
+(A) Non-current liabilities 
+(a) Financial liabilities 
+(ia) Lease liabilities 
+(ii) Other financial liabilities 
+(b) Provisions 
+(c) Deferred tax liabilities (net) 
+Total non-current liabilities 
+(B) Current liabilities 
+(a) Financial liabilities 
+(i) Borrowings 
+(ia) Lease liabilities 
+(ii) Trade payables 
+-Total outstanding dues of micro enterprises and small enterprises; and 
+-Total outstanding dues of creditors other than micro enterprises and 
+small enterprises 
+(iii) Other financial liabilities 
+(b) other current liabilities 
+(c) Provisions 
+{d) Current tax liabilities (net) 
+Total current liabilities 
+Total liabilities 
+Total equity and liabilities As at 
+30-09-2024 
+(Unaudited) 
+23,037 
+2,345 
+562 
+1,814 
+1,686 
+1,993 
+385 
+26 
+584 
+32,432 
+7,746 
+4,744 
+14,357 
+1,046 
+14,575 
+101 
+4,269 
+3,177 
+50,015 
+82,447 
+358 
+71,141 
+71,499 
+69 
+71,568 
+51 
+44 
+695 
+2 
+792 
+2,010 
+23 
+96 
+3,048 
+1,052 
+1,785 
+870 
+1,203 
+10,087 
+10,879 
+82,447 (~ in millions) 
+As at 
+31-03-2024 
+(Audited) 
+22,977 
+1,373 
+560 
+1,371 
+959 
+439 
+194 
+261 
+694 
+28,828 
+7,005 
+4,435 
+11,889 
+704 
+8,825 
+90 
+4,528 
+2,759 
+40,235 
+69,063 
+358 
+58,173 
+58,531 
+58,531 
+53 
+40 
+709 
+2 
+804 
+3,632 
+27 
+41 
+2,314 
+1,021 
+1,341 
+1,029 
+323 
+9,728 
+10,532 
+69,063 
+Continued .. 
+~..,-. nz~ 
+NATCO Pharma Limited 
+Consolidated Statement of Cash Flows: (t' in millions) 
+Half year ended 
+30-09-2024 30-09-2023 
+Unaudited Unaudited 
+Cash flows from operating activities 
+Profit before tax for the period 16,218 9,396 
+Adjustments for 
+Depreciation and amortisation expense 899 871 
+Finance costs 93 84 
+Interest income (783) (378) 
+Provision for impairment of receivables and advances , net . 48 
+Bad debts written off . 42 
+Net Loss/ (gain) on sale of property, plant and equipment and intangible assets 4 (29) 
+Net gain on sale of investments (5) (3) 
+Dividend income on equity investment at fair value through other comprehensive income (2) (2) 
+Change in fair value of financial assets measured at fair value through profit and loss (104) -
+Unrealised foreign exchange gain, net (17 (11 
+Operating profit before working capital changes 16,303 10,018 
+Changes in working capital: 
+(Increase)/ decrease in inventories (741) 331 
+Increase in trade receivables (2,449) (2,719) 
+(Increase) / decrease in other financial assets (3) 18 
+Increase in other assets (415) (666) 
+Increase in trade payables 789 1,023 
+(Decrease)/ increase in provisions (173) 142 
+(Decrease) / increase in other financial liabilities (29) 13 
+Decrease in other liabilities (57 (669) 
+Cash generated from operating activities 13,225 7,491 
+Income-taxes paid, net of refund (1,855 (1,168) 
+Net cash generated from operating activities (A) 11 370 6 323 
+Cash flows from investing activities 
+Purchase of property, plant and equipment (1,690) (1,483) 
+Proceeds from sale of property, plant and equipment 2 52 
+Advance for sale of property, plant and equipment 501 -
+Acquisition of intangible assets (711) (180) 
+Proceeds from sale of intangible assets 201 -
+Repayment of loans by others (11) 13 
+Proceeds from sale of investments 1,768 1,023 
+Purchase of investments (2,560) (886) 
+Deposits with banks (10,982) (5,229) 
+Redemption of bank deposits 5,231 3,218 
+Interest received 733 462 
+Dividend received 2 2 
+Redemption of deposits other than with banks 1,626 2,628 
+Deposits other than with banks (2,927' (3,098) 
+Net cash used in investing activities (B) (8,817) (3,478) 
+Cash flows from financing activities 
+Proceeds from issue of shares by subsidiary 77 -
+Payment on buy-back of shares, including transaction costs and taxes on buy-back - (2,537) 
+Net proceeds / (repayment of) from short-term borrowings (refer note below) (1,624) 741 
+Dividends paid (538) (1,255) 
+Finance cost paid (91) (82) 
+Principal and interest payment of lease liabilities (refer note (c) below) (15 (11' 
+Net cash used in financing activities (C) (2,191) (3,144) 
+Net increase/ (decrease) in cash and cash equivalents (A+B+C) 362 (299) 
+Cash and cash equivalents as at the beginning of the period 704 1,319 
+Effect of currency translation adjustment (20) 20 
+Cash and cash equivalen ts as at the end of the period 1 046 1 040 
+Note: Movement in borrowings and lease liabilities in accordance with Ind AS 7: 
+Current borrowings 
+Opening balance 3,632 1,650 
+Proceeds from/ (repayment of) borrowings , net (1,624) 741 
+Non-cash items (foreign exchange changes) 2 (3 
+2,010 2,388 
+Lease liabilities 
+Opening balance 80 17 
+Cash flow changes (15) (11) 
+Non-cash changes 9 81 
+74 87 
+NATCO Pharma Limited 
+Segment reporting : (t in millions except share data) 
+Quarter ended Half year ended Year ended 
+S.No. Particulars 30-09-2024 30-06-2024 30-09-2023 30-09-2024 30-09-2023 31-03-2024 
+Unaudited Unaudited Unaudite d Unaudited Unaudited Audited 
+1 Segment revenue 
+a. Pharmaceuticals 13,562 13,470 9,796 27,032 20,714 38,905 
+b. Agro chemicals 149 156 518 305 1,005 1,083 
+13,711 13,626 10,314 27,337 21,719 39,988 
+Add: Unallocated - - - - - -
+Total revenue from operations 13,711 13,626 10,314 27,337 21,719 39,988 
+2 Segment results 
+a. Pharmaceutica ls 8,461 8,286 4,397 16,747 9,396 17,523 
+b. Agro chemicals (238) (198) 41 (436) 84 (596) 
+Total segment result 8,223 8,088 4,438 16,311 9,480 16,927 
+Less: 
+a. Finance costs (41) (52) (42) (93) (84) (192) 
+b. Net unallocated (income)/expenditure - - - - - -
+Total profit before tax 8,182 8,036 4,396 16,218 9,396 16,735 
+3 Segment assets 
+a. Pharmaceuticals 51,295 48,882 53,731 51,295 53,731 45,650 
+b. Agro chemicals 4,057 4,165 4,439 4,057 4,439 4,238 
+Total segment assets 55,352 53,047 58,170 55,352 58,170 49,888 
+Add: 
+a. Unallocated 27,095 20,929 4,370 27,095 4,370 19,175 
+Total assets 82,447 73,976 62,540 82,447 62,540 69,063 
+4 Segment liabilities 
+a. Pharmaceut icals 7,072 6,154 6,369 7,072 6,369 5,807 
+b. Agro chemicals 463 461 129 463 129 588 
+Total segment liabilities 7,535 6,615 6,498 7,535 6,498 6,395 
+Add: 
+a. Unallocated 3,344 2,290 3,107 3,344 3,107 4,137 
+Total liabilities 10,879 8,905 9,605 10,879 9,605 10,532 
+(; Continued .. 
+\JC\:I=~~ 
+~ 
+NATCO Pharma Limited 
+Notes to the unaudited consolidated financial results: 
+1) The unaudited consolidated financial results of NATCO Pharma Limited ("the Company") and its subsidiaries (together referred 
+as "the Group") have been prepared in accordance with the Indian Accounting Standards (Ind AS) prescribed under Section 
+133 of the Companies Act, 2013 read with the relevant rules issued thereunder and in terms of Regulation 33 of Securities and 
+Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015. 
+2) The unaudited consolidated financial results for the quarter and half year ended 30-09-2024 have been reviewed by the Audit 
+Committee of the Board and approved by the Board of Directors of the Company at their meetings held on 12-11-2024. 
+3) The unaudited consolidated financial results of the Group for the quarter and half year ended 30-09-2024 , have been reviewed 
+by the statutory auditors and they have issued an unmodified reviewed report on the same. The review report of the statutory 
+auditors is being filed with the National Stock Exchange of India Limited ('NSE') and BSE Limited ('BSE') and is also available 
+on the Company 's website. 
+4) The unaudited consolidated financial results for the quarter and half year ended 30-09-2024 includes financial results of the 
+following subsidiaries/step-down subsidiaries: 
+Sr. No Name of the Entity 
+1 NATCO Pharma Inc., United States of America 
+2 NATCO Pharma USA LLC (Formerly known as Dash Pharmaceutical s LLC), United States of America 
+3 Time Cap Overseas Limited, Mauritius 
+4 NatcoFarma do Brasil Ltda, Brazil (subsidiary of Time Cap Overseas Limited) 
+5 NATCO Pharma (Canada) Inc., Canada 
+6 NATCO Pharma Asia Pte. Ltd., Singapore 
+7 NATCO Pharma Australia PTY Ltd., Australia 
+8 NATCO Lifesciences Philippines Inc., Philippines 
+9 NATCO Pharma UK Limited, United Kingdom incorporated on 04-09-2023 
+10 PT. NATCO Lotus Farma, Indonesia incorporated on 28-08-2023 
+11 NATCO Pharma Colombia SAS, Colombia incorporated on 15-08-2023 
+5) The unaudited standalone financial results, for the quarter and half year ended 30-09-2024 can be viewed on the website of 
+the Company , NSE and BSE at www.natcopharma .co.in, www.nseindia.com , and www.bseindia.com respectively . Information 
+of unaudited standalone financial results of the Company in terms of Regulation 47(1 )(b) of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations , 2015 is as under: 
+(~ in millions) 
+Quarter ended Half year ended Year ended 
+Particulars 30-09-2024 30-06-2024 30-09-2023 30-09-2024 30-09-2023 31-03-2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Total income 13,440 12,767 9,552 26,207 20,181 36,736 
+Profit before tax 7,969 7,580 4,240 15,549 8,992 15,553 
+Net profit for the period/ year 6,611 6,363 3,602 12,974 7,655 13,066 
+Total comprehensive income for the period/ year 6,654 6,385 3,624 13,039 7,724 13,142 
+6) The Board of Directors at their meeting held on 12-11-2024 have approved an interim dividend of~ 1.5/-per equity share oft 2 
+each for the quarter ended 30-09-2024 and at their meeting held on 12-08-2024 had approved interim dividend oft 3/-per 
+equity share oft 2 each for the quarter ended 30-06-2024 . 
+Place: Hyderabad 
+Date: 12 November 2024 By order of the Board 
+For NATCO Pharma Limited 
+Chairman & Managing Director 
+(DIN: 00183315) 
+BS Rand Co 
+Chartered Accountants Salarpuria Knowledge City, Orwell 
+B Wing, 6th Floor, Unit-3, Sy No. 83/1 
+Plot No. 02, Raidurg 
+Hyderabad -500 081, India 
+Telephone + 91 407 182 2000 
+Fax+ 91 407 182 2399 
+Limited Review Report on unaudited consolidated financial results of NATCO 
+Pharma Limited for the quarter ended 30 September 2024 and year to date results for 
+the period from 01 April 2024 to 30 September 2024 pursuant to Regulation 33 of 
+Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended 
+To the Board of Directors of NATCO Pharma Limited 
+1. We have reviewed the accompanying Statement of unaudited consolidated financial results of 
+NATCO Pharma Limited (hereinafter referred to as "the Parent"), and its subsidiaries (the Parent and 
+its subsidiaries together referred to as "the Group") for the quarter ended 30 September 2024 and 
+year to date results for the period from 01 April 2024 to 30 September 2024 ("the Statemen t"), being 
+submitted by the Parent pursuant to the requirements of Regulation 33 of the Securities and 
+Exchange Board of India (Listing Obligations and Disclosure Requirements ) Regulations, 2015, as 
+amended ("Listing Regulations"). 
+2. This Statement, which is the responsibility of the Parent's management and approved by the Parent's 
+Board of Directors , has been prepared in accordance with the recognition and measuremen t 
+principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), 
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally 
+accepted in India and in compliance with Regulation 33 of the Listing Regulations . Our responsibilit y 
+is to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independen t Auditor of the 
+Entity", issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures . A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the Securities and Exchange 
+Board of India under Regulation 33(8) of the Listing Regulations , to the extent applicable . 
+4. The Statement includes the results of the following entities : 
+Name of the entity Relationship 
+NATCO Pharma Limited Parent 
+NATCO Pharma Inc., United States of America ('USA') Subsidiary 
+NATCO Pharma USA LLC, USA (Formerly known as Dash Step-down Subsidiary 
+Pharmaceuticals LLC, USA -name changed w.e.f. 12 April 2023) 
+(Subsidiary of NATCO Pharma Inc.) 
+Time Cap Overseas Limited, Mauritius ('TCOL') Subsidiary 
+Principal Office: 
+14th Floor, Central 8 Wing and North C Wing. Nesco IT Park 4. Nesco Center 
+Western Express Highway. Goregaon (East). Mumbai· 400063 
+Page 1 of 3 
+BS Rand Co 
+Limited Review Report (Continued) 
+NATCO Pharma Limited 
+NatcoFarma do Brasil ltda., Brazil (Subsidiary of TCOL) Step-down Subsidiary 
+NATCO Pharma (Canada) Inc., Canada Subsidiary 
+NATCO Pharma Asia Pte. Ltd., Singapore Subsidiary 
+NATCO Pharma Australia PTY Ltd., Australia Subsidiary 
+NATCO Lifesciences Philippines Inc., Philippines Subsidiary 
+NATCO Pharma UK Limited, United Kingdom Subsidiary 
+PT. NATCO Lotus Farma, Indonesia Subsidiary 
+NATCO Pharma Colombia S.A.S. Subsidiary 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based 
+on the consideration of the review reports of the other auditors referred to in paragraph 6 below, 
+nothing has come to our attention that causes us to believe that the accompanying Statement. 
+prepared in accordance with the recognition and measurement principles laid down in the aforesaid 
+Indian Accounting Standard and other accounting principles generally accepted in India, has not 
+disclosed the information required to be disclosed in terms of Regulation 33 of the Listing Regulations , 
+including the manner in which it is to be disclosed , or that it contains any material misstatement. 
+6. We did not review the interim financial information of ten subsidiaries/ step down subsidiaries included 
+in the Statement, whose interim financial information reflect total assets (before consolidation 
+adjustments) of INR 9,699 million as at 30 September 2024 and total revenues (before consolidation 
+adjustments) of INR 1,077 million and INR 2,791 million, total net profit after tax (before consolidation 
+adjustments) of INR 159 million and INR 465 million and total comprehensive income (before 
+consolidation adjustments) of INR 159 million and INR 465 million for the quarter ended 30 September 
+2024 and for the period from 01 April 2024 to 30 September 2024 respectively , and cash inflows 
+(net) (before consolidation adjustments) of INR 341 million for the period from 01 April 2024 to 30 
+September 2024. as considered in the Statement. These interim financial information has been 
+reviewed by other auditors whose reports have been furnished to us by the Parent's management 
+and our conclusion on the Statement , in so far as it relates to the amounts and disclosures included 
+in respect of these subsidiaries, is based solely on the reports of the other auditors and the procedures 
+performed by us as stated in paragraph 3 above. 
+These subsidiaries/ step down subsidiaries are located outside India whose interim financial 
+information have been prepared in accordance with accounting principles generally accepted in their 
+respective countries and which have been reviewed by other auditors under generally accepted 
+auditing standards applicable in their respective countries. The Parent's management has converted 
+the interim financial information of such subsidiaries/ step down subsidiaries located outside India 
+from accounting principles generally accepted in their respective countries to accounting principles 
+generally accepted in India. We have reviewed these conversion adjustments made by the Parent's 
+managemen t. Our conclusion in so far as it relates to the balances and affairs of such subsidiaries / 
+step down subsidiaries located outside India is based on the reports of other auditors and the 
+conversion adjustments prepared by the management of the Parent and reviewed by us. 
+Our conclusion is not modified in respect of this matter. 
+Page 2 of 3 
+BS Rand Co 
+Limited Review Report (Continued) 
+NATCO Pharma Limited 
+7. The Statement includes the interim financial information of one subsidiary which has not been 
+reviewed, whose interim financial information reflects total assets (before consolidation adjustments) 
+of INR Nil as at 30 September 2024 and total revenues (before consolidation adjustments) of INR Nil 
+and INR Nil, total net profit after tax (before consolidation adjustments) of INR Nil and INR Nil and 
+total comprehens ive income (before consolidation adjustments) of INR Nil and INR Nil, for the quarter 
+ended 30 September 2024 and for the period from 01 April 2024 to 30 September 2024 respectively , 
+and cash flows (net) (before consolidation adjustments) of INR Nil for the period from 01 April 2024 
+to 30 September 2024 as considered in the Statement. According to the information and explanations 
+given to us by the Parent's management , this interim financial information is not material to the Group 
+Our conclusion is not modified in respect of this matter. 
+Hyderabad 
+12 November 2024 For BS Rand Co 
+Chartered Accountants 
+Firm's Registration No.: 12851 OW 
+k~~ 
+Amit Kumar Bajaj 
+Partner 
+Membership No.: 218685 
+UDIN:24218685BKGPQF771 1 
+Page 3 of 3 
+S.No. 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 ~ 
+NATCO Pharma Limited 
+Regd. Office: Natco House, Road No. 2, Banjara Hills, Hyderabad , Telangana -500 034 
+Phone: +91-40-2354 7532, Website : www.natcopharma .co.in, CIN: L24230TG1981PLC003201 
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30-09-2024 
+(fin millions except per share data) 
+Particulars Quarter ended Half year ended Year ended 
+30-09-2024 30-06-2024 30-09-2023 30-09-2024 30-09-2023 31-03-2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Income 
+Revenue from operations 12,926 12,369 9,305 25,295 19,788 35,689 
+Other income 514 398 247 912 393 1,047 
+Total income (1+2) 13,440 12,767 9,552 26,207 20,181 36,736 
+Expenses 
+Cost of materials consumed 1,432 1,513 1,666 2,945 3,027 5,225 
+Purchases of stock-in-trade 133 77 68 210 157 348 
+Changes in inventories of finished goods, work-in-progress (7) (134) 75 (141) 395 172 
+and stock-in-trade 
+Employee benefits expense 1,328 1,202 1,068 2,530 2,260 4,549 
+Finance costs 30 44 30 74 62 145 
+Depreciation and amortisation expense 422 404 400 826 799 1,719 
+Other expenses 2,133 2,081 2,005 4,214 4,489 9,025 
+Total expenses 5,471 5,187 5,312 10,658 11,189 21,183 
+Profit before tax for the period/ year (3-4) 7,969 7,580 4,240 15,549 8,992 15,553 
+Tax expense 
+(i) Current tax 1,478 1,324 753 2,802 1,591 2,848 
+(ii) Deferred tax (120) (107) (115) (227) (254) (361) 
+Total tax expense 1,358 1,217 638 2,575 1,337 2,487 
+Profit for the period/ year (5-6) 6,611 6,363 3,602 12,974 7,655 13,066 
+Other comprehensive income/ (loss) (net of tax) 
+Items that will not be reclassified to profit or loss: 
+Remeasurement of defined benefit liability/(asset) - - - - - (20) 
+Tax on remeasurement of defined benefit liability/(asset) - - - - - 7 
+Fair value changes in Equity investments through OCI 50 26 25 76 76 97 
+Tax impact of Fair value changes in Equity investments through (7) (4) (3) (11) (7) (8) 
+OCI 
+Other comprehensive income/ (loss) for the period/ year, 43 22 22 65 69 76 
+net of tax 
+Total comprehensive income for the period/ year (7+8) 6,654 6,385 3,624 13,039 7,724 13,142 
+Paid-up equity share capital (Face value of t'2 each) 358 358 358 358 358 358 
+Other equity 55,565 
+Earnings per share (not annualised for the quarters) 
+(Face value of t'2 each) 
+Basic (int) 36.91 35.53 20.11 72.44 42.56 72.79 
+Diluted (in~) 36.91 35.53 20.11 72.44 42.56 72.79 
+See accompanying notes to the unaudited standalone financial results. 
+Continued .. 
+Standalone Balance Sheet: 
+I. Assets 
+(1) Non-current assets 
+(a) Property, plant and equipment 
+(b) Capital work-in-progress 
+(c) Other intangible assets 
+(d) Investment in subsidiaries 
+(e) Financial assets 
+(i) Investments 
+(ii) Loans 
+(iii) Other financial assets 
+(f) Deferred tax assets, net 
+(g) Non-current tax assets, net 
+(h) Other non-current assets 
+Total non-current assets 
+(2) Current assets 
+(a) Inventories 
+(b) Financial assets 
+(i) Investments 
+(ii) Trade receivables 
+(iii) Cash and cash equivalents 
+(iv) Bank balances other than (iii) above 
+(v) Loans 
+(vi) Other financial assets 
+(c) Other current assets 
+Total current assets 
+Total assets 
+II. EQUITY AND LIABILITIES 
+(1) Equity 
+(a) Equity share capital 
+(b) Other equity 
+Total equity 
+(2) Liabilities 
+(A) Non-current liabilities 
+(a) Financial liabilities 
+(ia) Lease liabilities 
+(ii) Other financial liabilities 
+(b) Provisions 
+Total non-curren t liabilities 
+(8) Current liabilities 
+(a) Financial liabilities 
+(i) Borrowings 
+(ia) Lease liabilities 
+(ii) Trade payables NATCO Pharma Limited 
+-Total outstanding dues of micro enterprises and small enterprises ; and 
+-Total outstanding dues of creditors other than micro enterprises 
+and small enterprises 
+(iii) Other financial liabilities 
+(b) Other current liabilities 
+(c) Provisions 
+(d) Current tax liabilities (net) 
+Total current liabilities 
+Total liabilities 
+Total eQuitv and liabilities As at 
+30-09-2024 
+(Unaudited) 
+22,799 
+2,303 
+801 
+4,895 
+961 
+5 
+1,987 
+286 
+24 
+584 
+34,645 
+6,640 
+2,223 
+13,164 
+55 
+14,197 
+101 
+4,195 
+2,890 
+43,465 
+78,110 
+358 
+68,067 
+68,425 
+12 
+44 
+695 
+751 
+2,010 
+10 
+96 
+2,272 
+1,011 
+1,491 
+870 
+1,174 
+8,934 
+9,685 
+78,110 ( f in millions) 
+As at 
+31-03-2024 
+(Audited) 
+22,732 
+1,339 
+135 
+4,819 
+959 
+5 
+434 
+71 
+248 
+694 
+31,436 
+5,969 
+1,639 
+10,766 
+55 
+8,594 
+90 
+4,420 
+2,571 
+34,104 
+65,540 
+358 
+55,565 
+55,923 
+12 
+40 
+709 
+761 
+3,632 
+17 
+41 
+1,792 
+991 
+1,039 
+1,029 
+315 
+8,856 
+9,617 
+65,540 
+Continued .. 
+~ 
+NATCO Pharma Limited 
+Standalone Statement of Cash Flows: ( f in millions) 
+Half year ended 
+30-09-2024 30-09-2023 
+(unaudited) (unaudited) 
+Cash flows from operating activities 
+Profit before tax for the period 15,549 8,992 
+Adjustments for 
+Depreciation and amortisation expense 826 799 
+Finance costs 74 62 
+Interest income (683) (309) 
+Provision for impairment of receivables and advances, net - 48 
+Bad debts written off - 42 
+Net Loss/ (gain) on sale of property, plant and equipment 35 (29) 
+(Profit)/ loss on sale of investments (5) 11 
+Guarantee income - (1) 
+Dividend income on equity investment at fair value through other comprehensive income (2) (2) 
+Unrealised foreign exchange loss/(gain), net (17) (11' 
+Operating profit before working capital changes 15,777 9,602 
+Changes in working capital 
+(Increase)/ decrease in inventories (671) 485 
+Increase in trade receivables (2,379) (2,473) 
+(Increase) / decrease in other financial assets (3) 6 
+Increase in other assets (293) (577) 
+Increase in trade payables 535 731 
+(Decrease )/ increase in provisions (173) 142 
+(Decrease )/ increase in other financial liabilities (39) 16 
+Decrease in other liabilities (49) (874) 
+Cash generated from operating activities 12,705 7,058 
+Income-taxes paid, net of refund (1,718 (1,006) 
+Net cash generated from operating activities (A) 10,987 6,052 
+Cash flows from investing activities 
+Purchase of property, plant and equipment (1,704) (1,476) 
+Proceeds from sale of property, plant and equipment 2 52 
+Advance for sale of property, plant and equipment 501 -
+Acquisition of intangible assets (707) (2) 
+Investments in subsidiaries (76) (347) 
+Repayment of loans by others (11) 13 
+Proceeds from sale of investments 1,340 1,022 
+Purchase of investments (1,786) (188) 
+Deposits with banks (10,835) (5,231) 
+Redemption of bank deposits 5,231 3,218 
+Interest received 600 423 
+Dividend received 2 2 
+Redempt ion of deposits other than with banks 1,626 2,627 
+Deposits other than with banks (2,927) (3,098) 
+Net cash used in investing activities (B) (8 7441 (2 985' 
+Cash flows from financing activities 
+Payment on buy-back of shares, including transaction costs and taxes on buy-back - (2,537) 
+Net (repayment of)/ proceeds short-term borrowings (refer note below) (1,624) 792 
+Dividends paid (538) (1,255) 
+Finance cost paid (72) (60) 
+Principal and interest payment of lease liabilities (refer note below) (9) (8) 
+Net cash used in financing activities (C) (2 243' (3,068) 
+Net increase/ (decrease) in cash and cash equivalents (A+B+C) - (1) 
+Cash and cash equivalents as at the beginning of the period 55 69 
+Cash and cash equivalents as at the end of the period 55 68 
+Note: Movement in borrowings and lease liabilities in accordance with Ind AS 7: 
+Current borrowings 
+Opening balance 3,632 1,599 
+(Repayment of)/ Net proceeds from short-term borrowings (1,624) 792 
+Non-cash items (Foreign exchange changes) 2 (3) 
+2,010 2,388 
+Lease liabilities 
+Opening balance 29 12 
+Cash flow changes (9) (8) 
+Non-cash changes 2 28 
+22 32 
+~ 
+NATCO Pharma Limited 
+Notes to the unaudited standalone financial results: 
+1) The unaudited standalone financial results of NATCO Pharma Limited ("the Company") have been prepared in accordance with 
+the Indian Accounting Standards (Ind AS) prescribed under Section 133 of the Companies Act, 2013 read with the relevant 
+rules issued thereunder and in terms of Regulation 33 of Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requiremen ts) Regulations , 2015. 
+2) The unaudited standalone financial results for the quarter and half year ended 30-09-2024 have been reviewed by the Audit 
+Committee of the Board and approved by the Board of Directors of the Company at their meetings held on 12-11-2024. 
+3) The unaudited standalone financial results of the Company for the quarter and half year ended 30-09-2024 , have been reviewed 
+by the statutory auditors and they have issued an unmodified review report on the same. The review report of the statutory 
+auditors is being filed with the National Stock Exchange of India Limited ('NSE') and BSE Limited ('BSE') and is also available 
+on the Company's website. 
+4) Where financial results contain both consolidated and standalone financial results of the parent, segment information is required 
+to be presented only in the consolidated financial results. Accordingly , segment information has been presented in the 
+unaudited consolidated financial results. 
+5) The Board of Directors at their meeting held on 12-11-2024 have approved an interim dividend of t 1.5/-per equity share of ;!' 2 
+each for the quarter ended 30-09-2024 and at their meeting held on 12-08-2024 had approved interim dividend of t 3/-per 
+equity share oft 2 each for the quarter ended 30-06-2024 . 
+Place: Hyderabad 
+Date: 12 November 2024 By order of the Board 
+For NATCO Pharma Limited 
+V C Nannapanem 
+Chairman & Managing Director 
+(DIN: 00183315 ) 
+BS Rand Co 
+Chartered Accountants Salarpuria Knowledge City, Orwell 
+B Wing, 6th Floor, Unit-3, Sy No. 83/1 
+Plot No. 02, Raidurg 
+Hyderabad -500 081, India 
+Telephone+ 91 407 182 2000 
+Fax + 91 407 182 2399 
+Limited Review Report on unaudited standalone financial results of NATCO Pharma 
+Limited for the quarter ended 30 September 2024 and year to date results for the 
+period from 01 April 2024 to 30 September 2024 pursuant to Regulation 33 of 
+Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended 
+To the Board of Directors of NATCO Pharma Limited 
+1. We have reviewed the accompanying Statement of unaudited standalone financial results of NATCO 
+Pharma Limited (hereinafte r referred to as "the Company") for the quarter ended 30 Septembe r 2024 
+and year to date results for the period from 01 April 2024 to 30 Septembe r 2024 ("the Statement") . 
+2. This Statement, which is the responsibility of the Company's management and approved by its Board 
+of Directors, has been prepared in accordance with the recognition and measurement principles laid 
+down in Indian Accounting Standard 34 "Interim Financial Reporting " ("Ind AS 34"), prescribed under 
+Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India 
+and in compliance with Regulation 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing Regulations "). 
+Our responsibility is to issue a report on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity", issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsib le for financial and accountin g 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified 
+in an audit. According ly, we do not express an audit opinion. 
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe 
+that the accompanying Statement , prepared in accordance with the recognition and measuremen t 
+principles laid down in the aforesaid Indian Accounting Standard and other accounting principles 
+generally accepted in India, has not disclosed the information required to be disclosed in terms of 
+Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed , or that it 
+contains any material misstatemen t. 
+Hyderabad 
+12 November 2024 
+Principal Office For B S R and Co 
+Chartered Accountants 
+Firm's Registration No.:128510W 
+¥~~ 
+Amit Kumar Bajaj 
+Partner 
+Membership No.: 218685 
+UDIN:24218685BKGPQE8352 
+14tn Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco Center 
+Western Express Highway, Goregaon (East). Mumbai• 400063 
+Page 1 of 1 
+Natco Pharma Limited  
+Regd. Oﬀ.   
+          
+ 
+NATCO  Pharma Lt d 
+Natco House  
+Road No.2, Banjara Hills  
+Hyderabad -500 034, India  
+ 
+   
+ 
+ 
+Hyderabad, India, November  12th, 2024 : NATCO  Pharma Limited  (BSE:  524816  and NSE: NATCO PHARM) ("NATCO") today 
+announced  results for second quarter of FY2025.    
+ 
+ 
+NATCO  recorded consolidated total revenue of INR 1434.9  Crore for the second quarter of FY202 5 that ended on 30th 
+September 202 4, as against INR 1060.8 Crore for the same period last year, reﬂecting a growth of 35.3%. The net proﬁt for 
+the period, on a consolidated basis, was  INR 676.5 Crore as against INR 369.0 Crore same period last year, showing robust  
+growth  of about 83% . 
+The company has shown continued strong growth during the second quarter driven by exports formulation business and 
+stable domestic pharma business.   
+The Board of Directors has declared second interim dividend of INR 1.50  per equity share, for FY 2024 -25. 
+ 
+ 
+Segment  Q2FY25  Q1FY25  Q2FY24  
+Active Pharmaceutical Ingredients (API)  49.6  39.2  77.8  
+Formulations , Domestic  102.3  102.2  102.5  
+Formulations , Export (Incl. proﬁt share and subs)  1211.3  1210.1  792.3  
+Other operating and non -operating income  57.6  43.6  32.4  
+Crop Health Sciences (CHS)  14.1  15.6  55.8  
+Total  1434.9  1410.7  1060.8  
+ 
+ 
+NATCO Pharma Limited ( www.natcopharma.com ), (NSE:NATCOPHARM, BSE: 524816, Reuters: NATP .NS, Bloomberg: 
+NTCPH,) headquartered at Hyderabad, India, develops, manufactures and distributes generic and branded pharmaceuticals, 
+specialty pharmaceuticals, active pharma ingredients and crop protection products. The Company is a R&D or iented, and a 
+science driven, leading Oncology player in the targeted therapies of domestic market and focuses on limited competition molecule in the US. The Company’s manufacturing facilities are approved by several leading regulatory authorities like US 
+FDA, Brazil ANVISA, Health Canada, WHO and others catering to 50+ global markets. For more info rmation,  please visit us 
+at www.natcopharma.com  or click on LinkedIn or X (formerly Twitter)   
+ 
+  
+Rajeev Menon, Investor Relations      Rajesh Chebiyam, EVP - CHS 
+   r.menon@natcopharma.co.in/investors@natcopharma.co.in   rajesh.chebiyam@natcopharma.co.in  Press Release  
+NATCO records ₹ 1434.9  Crore consolidated revenue and INR 676.5  Crore , proﬁt after tax , for Q2  FY25 
+Segmental Revenue Split (INR Cr)  
+About NATCO Pharma Limited  
+For further information please contact:  

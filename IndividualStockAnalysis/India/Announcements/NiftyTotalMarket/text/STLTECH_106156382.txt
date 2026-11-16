@@ -1,0 +1,730 @@
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India.                                  
+CIN - L31300PN2000PLC202408 
+  
+February 19, 2025 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, G Block, 
+Bandra Kurla Complex, Bandra (East)    
+Mumbai - 400 051. 
+ 
+Scrip ID - STLTECH BSE Limited  
+Phirozee Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001. 
+ 
+ 
+Scrip Code – 532374  
+ 
+Subject: Update under Regulation 30 read with Para A of Part A of Schedule III of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 
+ 
+Dear Sir/Madam, 
+ 
+We wish to hereby inform that, the Scheme of Arrangement by demerger under Section 230 to 232 and other 
+applicable provisions of the Companies Act, 2013 between Sterlite Technologies Limited (demerged company) 
+and STL Networks Limited (Resulting Company) and their respective shareholders and creditors has been 
+approved by the Hon'ble National Company Law Tribunal (‘NCLT’), Mumbai Bench vide order bearing reference 
+number as C.P.(CAA)/193/MB/2024 c/w CA(CAA)/24/MB/2024 dated 14th February 2025. 
+ 
+A copy of the Order, as downloaded from the NCLT Website is attached herewith, certified copy of the Order is 
+awaited. The Company will advise the Effective Date to the Stock Exchanges in due course. 
+ 
+We request you to take the same on record.  
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For Sterlite Technologies Limited 
+ 
+ 
+ 
+Mrunal Asawadekar 
+Company Secretary (ACS 24346) 
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+C.P.(CAA)/ 193/MB/202 4 
+                                                                  c/w C.A.(CAA)/ 24/MB/202 4 
+ 
+ 
+In the matter  of 
+Sections  230 to 232 of the Companies  Act, 2013  
+and other  applicable  provisions  of the Companies  
+Act, 2013  
+AND  
+In the matter  of 
+Scheme  of Arrangement  between  
+ 
+Sterlite Technologies  Limited , 
+[Demerged Company /  
+Petitioner Company 1]  
+ 
+And 
+STL Networks Limited  
+[Resulting Company /  
+Petitioner Company 2 ] 
+ 
+And 
+ their  respective  shareholders  and creditors . 
+Sterlite  Technologies  Limited                … Petitioner  Company -1/ 
+[CIN:  L31300PN2000PLC202408 ]        Demerged  Company  
+                              
+STL Networks Limited        … Petitioner Company -2/ 
+[CIN:  U72900PN2021PLC199875 ]              Resulting  Company  
+ 
+(hereinafter  collectively  referred  to as 'the Petitioner  Companies' ) 
+Order  pronounced  on: 14.02.2025 
+ 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 2 of 17 Coram:  
+Ms. Anu Jagmohan Singh        Mr. Kishore Vemulapalli   
+Hon’ble Member (Technical)        Hon’ble Member (Judicial)  
+ 
+Appearances  (videoconferencing) : 
+For the Petitioners                  :       Mr.  Hemant  Sethi  a/w Ms. Devanshi   
+                                                                          Sethi  i/b Hemant  Sethi,  Advocates.   
+ 
+ 
+For the Regional  Director      :       Mr. Tushar  Wagh , Representative   
+of the Regional  Director,  MCA(WR),  
+                     Mumbai.   
+  
+O R D E R 
+ 
+1. This is a Company Scheme Petition filed under Sections 230 to 232 of the 
+Companies Act, 2013  seeking for sanction of the Scheme of Arrangement 
+between Sterlite Technologies  Limited (Demerged Company/ Petitioner -1) 
+and STL Networks  Limited (Resulting Company/ Petitioner -2) and their 
+respective shareholders  and creditors . 
+ 
+2. The Counsel for the Petitioner Companies submits that the Board of 
+Directors of the First Petitioner Compan y and the Second Petitioner 
+Company  approved the Scheme in their respective Board Meeting s held 
+on 17.05. 2023 .   The appointed date is 01.04.2023.  
+ 
+3. The Counsel for the Petitioner Companies further submits that the 
+present Company Petition has been filed in consonance with the Order s 
+dated  17.04 .2024 passed in C.A.(CAA)/ 24/MB/202 4 by this Tribunal.  
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 3 of 17 4. The Petitioner Companies submit that the First Petitioner  Company is 
+currently engaged in the following businesses:  
+a. Optical Networking - the division of the Demerged Company 
+engaged in manufacture and sale of optical fiber, optical fiber cable, 
+specialty cables and optical interconnect products (hereinafter 
+referred to as “Optical Network Business” or “ONB”).  
+b. Global Ser vices (the demerged undertaking) - the division of the 
+Demerged Company engaged, both directly and through its 
+subsidiaries, in system integration telecom network solutions and 
+laying/developing private network infrastructure on turn -key 
+project contract b asis and provision of related services both in India 
+and overseas, such as, fiber deployment services, managed 
+services, system integrations services, FTTH deployment services, 
+operations and maintenance of fiber and other MPLS based 
+networks (hereinafter referred to as “Global Services Business” or 
+“GSB”).  
+c. Digital & Technology Solutions - the division of the Demerged 
+Company engaged in provision of IT -ITES solutions and services 
+(hereinafter referred to as “Digital Business”).  
+ 
+5. The Learned Counsel for the Petitioner Companies submit that the 
+Second Petitioner  Company is engaged in the business of providing, 
+designing, developing, selling, and servicing of network modernization 
+solutions, telecommunication systems and systems of all kinds for the 
+conveyance by any means of sounds, visual images and signals of all 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 4 of 17 kinds, building networks, providing wired and wireless connectivity, 
+creation of core transport network, interconnected  data center design 
+engineering and end -to-end cyber infrastructure.  
+ 
+6. Rationale for the Scheme :  The Counsel for the Petitioner Companies 
+submits that the circumstances, reasons and grounds that have 
+necessitated / justified the Scheme. Some of the major benefits which 
+would accrue from the Scheme are briefly stated below:  
+ 
+(i) The Global  Services Business and other business verticals of the 
+Demerged Company have been commenced and nurtured over 
+different periods of time. They are currently at different stages of 
+growth and maturity with each having distinct market dynamics, 
+geograph ic focus, strategy, capital requirements and investor 
+interest. The Demerged Undertakings and the Remaining 
+Undertaking have both achieved scale and experience to sustain 
+business independently in terms of profitability, turnover, order 
+book, customer prof ile, talent, etc. Hence, segregation of the 
+Demerged Undertaking into a separate entity would enable 
+focused managements to explore the potential business 
+opportunities more effectively and efficiently in the respective 
+business;  
+a. The nature of opportunitie s, growth areas, risk and competition 
+inherent in the Global Services Business is distinct from the 
+Remaining Undertaking of the Demerged Company, since it is 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 5 of 17 subject to distinct business cycle and market structure, 
+necessitating different management appro aches, focus and it is 
+capable of attracting different set of investors, strategic partners, 
+talent, lenders and other stakeholders.  
+b. Further growth and expansion of the Global Services Business 
+would require a differentiated strategy aligned to its industr y 
+specific risks, market dynamics and growth trajectory. Moreover, 
+the Global Services Business has now reached a meaningful scale 
+and will be able to benefit by becoming independently focused 
+company.  
+c. The Government of India’s commitment to BharatNet phas e 
+three, which is a $10 billion plus program, gives an opportunity 
+to the Demerged Company to grow its core business, i.e. the 
+Optical Network Business and also provides consequent 
+opportunities for the Global Services Business. Similarly, the 
+Demerged Com pany is seeing an acceleration on the 5G 
+deployment front which is driving requirement for fiber roll -out 
+for network. In light of the above, there is a need for the activities 
+of the Global Services Business and the other businesses of the 
+Demerged Compan y to be organized and managed in a distinct 
+way to tap in on the opportunities arising from the growing 
+demand of telecom infrastructure in the country.  
+(ii) Thus, the Demerger is expected to lead to following benefits:  
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 6 of 17 a. allowing respective businesses to create a strong and distinct 
+platform which enables greater flexibility to pursue long‐term 
+objectives;  
+b. better alignment of the respective businesses to its customers and 
+to improve competitiveness, operational efficiencies and 
+strengthen its position in the rele vant marketplace resulting in a 
+more sustainable long -term growth and competitive edge;  
+c. enabling accelerated growth of ONB and allowing the GSB to 
+explore suitable strategies to fund its growth plans;  
+d. creation of an independent company focusing exclusively  on 
+GSB and exploring opportunities in the said sector. The 
+independent company can attract different sets of investors, 
+strategic partners, lenders and other stakeholders having a 
+specific interest in the GSB;  
+e. the Demerger and consequent issue of equity s hares by the 
+Resulting Company are proposed to allow shareholders of the 
+Demerged Company and investors to invest in the distinct key 
+businesses and allow shareholders to unlock the value of their 
+investments.  
+f. dedicated and specialized management focus on the specific 
+needs of the respective businesses.  
+(iii) Pursuant to the Scheme, all the shareholders of Demerged 
+Company will get new shares in the Resulting Company, in the 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 7 of 17 ratio of 1:1 i.e. 1 share of the Resulting Company for 1 share held in 
+the Demerged Compa ny, and there would be no change in the 
+economic interest for any shareholder of Demerged Company pre 
+and post Scheme in the Demerged Undertaking.  
+ 
+7. In pursuance of the order dated 17.04.2024 in CA(CAA)/24/2024, 
+meetings of the Shareholders and the secured Creditors of the Petitioner 
+Company -1 were conducted and the Chairm an submitted his reports 
+stating that the Shareholders and Creditors have approved the Scheme 
+with more than 99% of voting.     
+ 
+8. The Counsel for the Petitioner Companies submits that  the Petitioner 
+Companies have complied with all requirements as per directions of this 
+Tribunal vide order dated 17.04.2024 in CA(CAA)/24/2024 and they have 
+made requisite filings to demonstrate compliance with the order of this 
+Tribunal.  The Affidavit of Service has been filed.  Moreover, the 
+Petitioner Companies undertake to comply with all statutory / regulatory 
+requirements, if and to the extent applicable, as may be required under 
+the Companies Act, 2013 and the Rules made thereunder  to give effect to 
+the Scheme . 
+ 
+9. Consideration :  
+The Petitioners state that upon this Scheme becoming effective and in 
+consideration of vesting of the Demerged Undertaking from the 
+Demerged Company to the Resulting Company in terms of this Scheme, 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 8 of 17 the Resulti ng Company shall, without any further application, act, 
+instrument or deed and without any payment by the shareholders, issue 
+and allot equity shares, credited as fully paid -up, to the shareholders of 
+the Demerged Company, holding fully paid up equity shar es in the 
+Resulting Company and whose names appear in the register of 
+members (including register and index of beneficial owners maintained 
+by a depository under Section 11 of the Depositories Act, 1996) of the 
+Resulting Company on the Record Date or to su ch of their respective 
+heirs, executors, administrators or other legal representative or other 
+successors in title as on the Record Date in the following manner/ratio:  
+ 
+“1 (one) fully paid up equity share of Rs. 2/ - (Rupees Two only) each of the Resulting 
+Company shall be issued and allotted for every 1 (one) fully paid up equity shares of 
+Rs. 2/ - (Rupees Two only) each held in the Demerged Company” (“ Share Entitlement 
+Ratio ”). 
+ 
+10. The Regional Director (Western Region), Ministry of Corporate Affairs, 
+Mumbai, has filed its Report dated 03.12.2024 . In response to the 
+observation s made by the RD  in the said report , the Petitioner Compan ies 
+have given necessary clarification vide their  reply dated 27.01.2025 . The 
+observations made by the RD and the clarifications given by the 
+Petitioner Compan ies are summarized in the table below :- 
+Para  Observation by the Regional 
+Director  Undertaking of the Petitioner 
+Companies  
+2(a)(i)  That on examination of the report of 
+the Registrar of Companies, Pune 
+dated 29.11.2024 (Annexed as The Petitioner Companies state that 
+the observation of Registrar of 
+Companies,  is merely factual in 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 9 of 17 Annexure A -l) for Petitioner 
+Companies falls within the jurisdiction 
+of ROC, Pune. It is submitted that no 
+representation regarding the proposed 
+scheme of Am algamation/ 
+Arrangement has been received 
+against the Petitioner Companies. 
+Further, the Petitioner Companies has 
+filed Financial Statements up to 
+31.03.2023. The ROC, Pune has 
+further submitted in his report dated 
+29.11.2024 which are as under:  
+i. That the R OC Pune in his report 
+dated 29.11.2024 has stated that no 
+Inquiry, Inspection, Investigations 
+and Prosecutions under CA, 2013 
+have been pending against the 
+Petitioner Companies.  nature and no further response is 
+required to that extent.  
+ 
+2(a)(ii)  Further ROC, Pune has mentioned as 
+follows: - 
+1. As per available record, this office 
+had received a complaint against the 
+Demerged Company regarding 
+violation disc losing mandatory 
+disclosure as per applicable laws, 
+particularly             relating to MSME 
+form 1. The complaint has been taken 
+up with the company. Copy of the 
+complaint is enclosed.  
+2.May be decided on its merits.  The Petitioner Companies state that 
+the Demerged Company has filed an 
+appropriate response against the 
+complaint received. Further, any 
+issues arising out the complaint will 
+be met and answered by the 
+Demerged Company in due course 
+which will continue to be in 
+existence.  
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 10 of 17 Hence, the Petitioner Companies shall  
+undertake to submit detailed re -ply 
+against observations as mentioned 
+above by the ROC, Pune.  
+2(b) In compliance of Accounting 
+Standard -14 or IND -AS 103, as may 
+be            applicable, the Resulting 
+company shall pass such accounting 
+entries which are necessary in 
+connection with the scheme to comply 
+with other applicable Accounting 
+Standards including AS -5 or IND AS -8 
+etc. The Petitioner Companies undertake 
+to comply and pass such accounting 
+entries which are necessary to 
+comply with all the applicable 
+Accounting Standards prescribed 
+under Section 133 of the Companies 
+Act, 2013 read with relevant rules 
+issued thereunder and other 
+accounting principles generally 
+accepted in India.  
+2(c) The Hon'ble Tribunal may kindly 
+direct the Petitio ner Companies to file 
+an affidavit to the extent that the 
+Scheme enclosed to the Company 
+Application and Company Petition are 
+one and same and there is no 
+discrepancy, or no change is made.  Petitioner Companies state that the 
+Scheme enclosed to Company 
+Application and Company Petition 
+are one and same and there is no 
+discrepancy and no change is made.  
+2(d) The Petitioner Companies under 
+provisions of section 230(5) of the 
+Companies Act 2013 have to serve 
+notices to concerned authorities which 
+are likely to be affected by the 
+Amalgamation or Arrangement. 
+Further, the approval of the scheme by 
+the Hon'ble Trib unal may not deter 
+such authorities to deal with any of the The Petitioner Companies state that 
+the notices have been  duly served 
+upon all the concerned authorities 
+viz., jurisdictional Income Tax 
+Authorities, juris -dictional Income 
+Tax Nodal Officer, the office of 
+Regional Director (West -ern 
+Region), Registrar of Companies, the 
+jurisdictional GST Authorities, 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 11 of 17 issues arising after giving effect to the 
+scheme. The decision of such 
+authorities shall be binding on the 
+Petitioner Companies concerned.  Bombay Sto ck Exchange, National 
+Stock Exchange, Securities and Ex -
+change Board of India and Ministry 
+of Corporate Affairs. Further the 
+compliance report proving the 
+dispatch of the notices has already 
+been filed with the Tribunal.  
+2(e) As per Definition of the Scheme,  
+"Appointed Date" means the opening 
+business hours on the 1st April, 2023 
+or such other date as the NCLT may 
+direct/ allow;  
+"Effective Date" means the last of the 
+dates on which all the conditions and 
+matters referred to in Clause 28 occur 
+or have b een fulfilled,            obtained 
+or waived, as applicable, in 
+accordance with this Scheme. 
+Reference in this Scheme to the date of 
+"coming into effect of this Scheme" or 
+"effectiveness of this Scheme" shall 
+mean the Effective Date.  
+"Record Date" means th e date to be 
+fixed by the Board of directors of the 
+Resulting Company in consultation 
+with the Demerged Company for the 
+purpose of reckoning names of the 
+equity shareholders of the De -merged 
+Company, who shall be entitled to 
+receive Resulting Company Equit y The Petitioner Companies confirm 
+that the Appointed Date is 1 Ap ril 
+2023 as mentioned in the Scheme 
+which is in compliance with Section 
+232(6) of the Companies Act, 2013 
+and the Scheme shall take effect 
+from such Appoint -ed Date.  The 
+Petitioner Companies undertakes to 
+comply with the requirements 
+clarified vide circul ar 
+No.7/12/2019/CL -I dated 21.08.2019 
+issued by the Ministry of Corporate 
+Affairs.  
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 12 of 17 Shares of the Resulting Company upon 
+coming into effect of this Scheme as 
+specified in Clause 16 of this Scheme.  
+ 
+In this regard, it is submitted that 
+Section 232 (6) of the Companies Act, 
+2013 states that the scheme under this 
+section shall clearly indi cate an 
+appointed date from which it shall be 
+effective and the scheme shall be 
+deemed to be effective from such date 
+and not at a date subsequent to the 
+appointed date.  
+However, this aspect may be decided 
+by the Hon'ble Tribunal taking in -to 
+account its i nherent powers.  
+The Petitioners may be asked to 
+comply with the requirements as 
+clarified vide circular no. F. No. 
+7/12/2019/CL -I dated 21.08.2019 
+issued by the Ministry of Corporate 
+Affairs.  
+2(f) Petitioner Companies shall undertake 
+to comply with the directions of           
+Income tax department & GST 
+Department, if any.  The Petitioner Companies undertake 
+to ensure compliance of all the 
+provisions of the Income tax Act and 
+Rules and Goods and Services Tax 
+Act and Rules pursuant to the 
+Scheme. Further, the approval of the 
+Scheme by this Tribunal may not 
+deter Income -tax aut horities and 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 13 of 17 GST Department to deal with 
+Income -tax related issues and GST 
+related issues, respectively  arising 
+after giving effect to the Scheme and 
+the Petitioner Companies submit that 
+any Income -tax related issues or 
+GST related issues arising out of t he 
+Scheme will be met and answered 
+during the course of regular 
+assessment in accordance with the 
+provisions of the Income -tax Act, 
+1961 and Goods and Services Tax 
+Act, respectively.  
+2(g) The Petitioner Company may be 
+directed to undertake that the presen t 
+scheme is in compliance with Section 
+2(19AA) of the Income Tax Act, 1961.  The Petitioner Companies undertake 
+to ensure compliance with the 
+provisions of Section 2(19AA) of the 
+Income Tax Act, 1961. In this 
+regard, the Petitioner Company shall 
+ensure comp liance of all the 
+provisions of Income Tax Act and 
+Rules thereunder.  
+2(h) The Hon'ble NCLT may kindly direct 
+the Petitioner Demerged Company to 
+comply the Rules Regulation of FEMA 
+/ FERA / RBI as the shares of 
+Petitioner Demerged Company held 
+by foreign s hareholders.  The Petitioner Companies undertake 
+to comply with the rules and             
+regulations, guidelines of FEMA, 
+FERA and RBI, as may be 
+applicable.  
+2(i) Petitioner  Demerged  Company  is 
+Listed  Company  hence  Petitioner  
+Demerged  Company  shall  undertake  The Petitioner  Demerged  Company  
+undertakes  to comply  with the rules  
+& regulations  of BSE,  NSE,  SEBI,  if 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 14 of 17 to comply  with rules  & regulations  of 
+BSE,  NSE,  SEBI,  if any also comply  
+with BSE & NSE observation  letters  
+under  SEBI  (LODR)  Regulations,  
+2015  any also comply  with BSE & NSE  
+observation  letters  under  SEBI  
+(LODR)  Regulations,  2015.  
+2(j) The Hon'ble NCLT may kindly direct 
+the Petitioner Company (De-merged 
+Company) to disclosed the list of 
+Assets & Liabilities to be transferred 
+to Resulting Company to further 
+comment upon the Scheme. However, 
+interest of creditors may be protected.  
+ 
+ The Petitioners have filed Affidavit 
+dated 27th January 2025 and have 
+given details of assets, liabilities, 
+ongoing contracts, participating 
+tenders and other details  which is 
+part of demerged undertaking and are 
+going to be transferred from the 
+Demerged Company to the Resulting 
+Company.  
+Further it i s clarified that interest of 
+Creditors are protected there is no 
+compromise or arrangement with 
+Creditors.  
+2(k) As per financial statements as on 
+31.03.2023 submitted by the Petitioner 
+companies, details of shareholding is 
+as follows: - 
+Sr. No.  1 
+Petitioner 
+Company  STL Networks 
+Limited (Resulting 
+Company)  
+Name of the 
+shareholder  Sterlite  
+Technologies  
+Limited  
+% of shares  100%  The Petitioner Companies state that 
+the Resulting Company tried filing e -
+form BEN -2 with the Registrar of 
+Companies. However, due to 
+technical error with the website of 
+the Ministry of Corporate Affairs 
+(‘MCA’) the form is not being filed. 
+Further, the Resulting Company 
+hereby undertakes to file the e -form 
+BEN -2 with the Regist rar of 
+Companies as and when technical 
+glitches are resolved by MCA.  
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 15 of 17 Held  
+Remark  No Form BEN -2 has 
+been filed by the 
+Petitioner Resulting 
+Company as  per 
+records available  
+at MCA21 Portal  
+ 
+No Form BEN -2 has been filed by any 
+of the Petitioner Companies as per 
+records available at MCA21 Portal, 
+hence Petitioner Companies shall 
+undertake to comply with the 
+provisions of  section 90 of             
+Companies Act, 2013 r/w. Companies 
+(Significant  Beneficial Owners) 
+Amendment Rules, 2019 including 
+Rule 8 of said Rules, thereunder and 
+to file Form BEN -2 for declaring 
+name of the significant beneficial 
+owner with concerned ROC.  
+ 
+11. The observations made by the Regional Director  (RD) , Western Region , 
+Mumbai  are enlisted hereinabove together  with response of the 
+Petitioner Compan ies on the observations of the R D, which is also filed 
+vide affidavit of the Petitioner Compan y dated 28.01.2025 .  Mr. Tushar 
+Wagh , Ld. Authorised Representative of the Regional Director during the 
+course of final hearing submitted that they have no further objection to 
+the Scheme.  
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 16 of 17 12. Heard th e Ld. Counsel for the Petitioner Companies and the 
+Representative of the Regional Director, Western Region, Ministry of 
+Corporate Affairs, Mumbai.   No objector has come before this Tribunal 
+to oppose the Scheme and nor has any party controverted any averm ents 
+made in the Petition to the Scheme.   
+13. The Income Tax Department will be at liberty to examine the aspect of 
+any tax payable as a result of this scheme and in case it is found that the 
+scheme ultimately results in tax avoidance under the provisions of 
+Income Tax Act, it shall be open to the inc ome tax authorities to take 
+necessary action as possible under the Income Tax Law.   
+ 
+14. From the material on record, the Scheme appears to be fair and  
+reasonable and is not violative of any provisions of law and is not  
+contrary to public policy . 
+ 
+15. Since all the requisite statutory compliances have been fulfilled, the 
+Petition vide  C.P.(CAA) /193/MB/202 4 filed by Petitioner Companies is 
+made absolute in terms of prayer clause s of the said Company Scheme 
+Petition .  Therefore,  the Scheme is hereby sanctioned .   This Bench further 
+orders that - 
+ 
+i.  The Appointed Date is fixed as 01.04.2023.   
+ii.  It shall be binding on the Petitioner Companies involved in the 
+Scheme and all concerned including their respective Shareholders, 
+Creditors and Employees.  
+ 
+iii.  The Petitioner Companies are directed to file a certified copy of this 
+IN THE NATIONAL COMPANY LAW TRIBUNAL  
+MUMBAI BENCH  : C-IV 
+ C.P.(CAA)/ 193/MB/202 4 
+c/w C.A.(CAA)/ 24/MB/202 4 
+________________________________________________________________________________________ __ 
+ 
+ 
+Page 17 of 17 order along with a copy of the Scheme with the concerned Registrar 
+of Companies, electronically in E -Form INC -28 within 30 days from 
+the date of receipt of the Order from the Registry.   
+ 
+iv.  The Petitioner Companies are directed to file a certified copy of this 
+order and the Scheme duly authenticated by the Deputy / Assistant 
+Registrar of this Tribunal, with the concerned Superintendent of 
+Stamps, for the purpose of adjudication of stamp duty, payable, if 
+any, within 60 clear working days from the date of receipt of certified 
+copy of the Order from the Registry of this Tribunal.  
+ 
+v.  The Petitioner Companies shall comply with all the undertakings 
+given by them.  
+ 
+vi. The Petitioner Companies sh all take all consequential and statutory 
+steps required under the provisions of the Act in pursuance of the 
+Scheme.  
+ 
+vii. All concerned regulatory authorities shall act on a copy of this Order 
+along with the Scheme duly authenticated by the designated Registrar 
+of this Tribunal.  
+ 
+viii.  Any person or any Authority, whose interest is adversely affected, 
+shall be at liberty to approach appropriate Forum or to take 
+appropriate action as permissible under law.    
+ 
+ 
+16. With the above directions, C.P.(CAA)/ 193/MB/202 4 c/w 
+CA(CAA)/ 24/MB/202 4 is allowed  and disposed  of.   File to be consigned 
+to records.  
+ 
+      Sd/-                                                                           Sd/-   
+Anu  Jagmohan  Singh                                           Kishore  Vemulapalli   
+ Member  (Technical)                                               Member  (Judicial)  
+14.02.2025/pvs/sc 

@@ -1,0 +1,942 @@
+ 
+ 
+ 
+ 
+November 12, 2024 
+ 
+Listing Department       Code: 532321 
+BSE LIMITED  
+P J Towers, Dalal Street, 
+Mumbai-400001 
+ 
+Listing Department                    Code: ZYDUSLIFE  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+Exchange Plaza, C/1, Block G, 
+Bandra Kurla Complex, 
+Bandra (E),  
+Mumbai-400051 
+ 
+Re:  Outcome of Board Meeting 
+ 
+Ref.: Disclosures under SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (“the Listing Regulations”)  
+ 
+Dear Sir / Madam, 
+ 
+The Board of Directors (“the Board”) at their meeting held today i.e. November 12, 2024, 
+based on the recommendations of Audit Committee, approved the unaudited financial 
+results for the quarter / half year ended on September 30, 2024. 
+ 
+In this regard, please find enclosed the following: 
+ 
+1. the unaudited financial results (standalone and consolidated) for the quarter / half 
+year ended on September 30, 2024, reviewed by the Audit Committee and taken on 
+record by the Board pursuant to regulation 33 of the Listing Regulations. 
+ 
+2. the limited review reports of Deloitte Haskins & Sells LLP, Chartered Accountants 
+and the Statutory Auditors of the Company (“ Deloitte”) certifying the limited review 
+of the unaudited financial results (standalone and consolidated) of the Company for 
+the quarter / half year ended on September 30, 2024, pursuant to regulation 33 of 
+the Listing Regulations. 
+ 
+ The Trading Window under SEBI (Prohibition of Insider Trading) Regulations, 2015 
+shall remain closed for trading till Thursday, November 14, 2024, and shall reopen 
+on and from Friday, November 15, 2024, for the Directors and Designated Persons. 
+ 
+ 
+ 
+ 
+ 
+ 
+ The Board meeting commenced at 11:50 a.m. and concluded at 12:30 p.m. 
+ 
+Please receive the disclosures and information in order. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For, ZYDUS LIFESCIENCES LIMITED 
+ 
+ 
+DHAVAL N. SONI 
+COMPANY SECRETARY 
+ 
+Encl.: As above 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+19th floor, Shapath•V 
+S.G. Highway 
+Ahmedabad-380 015 
+Gujarat, India 
+Tel: +91 79 6682 7300 
+Fax: +91 79 6682 7400 
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM STANDALONE 
+FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF 
+ZYDUS LIFESCIE NCES LIMITED 
+1. We have reviewed the accompanying Statement of Standalone Unaudited Financial Results of 
+ZYDUS LIFESCIE NCES LIMITED (''the Company"), for the quarter and half year ended 
+September 30, 2024 ("the Statement"), being submitted by the Company pursuant to the 
+requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended ("the Listing Regulations") . 
+2. This Statement, which is the responsibility of the Company's Management and approved by 
+the Company's Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial 
+Reporting" ("Ind AS 34"), prescribed under Section 133 of the Companies Act, 2013 read with 
+relevant rules issued thereunder and other accounting principles generally accepted in India 
+and in compliance with Regulation 33 of the Listing Regulations. Our responsibility is to express 
+a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 'Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity', issued by the Institute of Chartered Accountants of India 
+(ICAI). A review of interim financial information consists of making inquiries, primarily of the 
+Company's personnel responsible for financial and accounting matters, and applying analytical 
+and other review procedures. A review is substantially less in scope than an audit conducted 
+in accordance with Standards on Auditing specified under section 143(10) of the Companies 
+Act, 2013 and consequently does not enable us to obtain assurance that we would become 
+aware of all significant matters that might be identified in an audit. Accordingly, we do not 
+express an audit opinion. 
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our 
+attention that causes us to believe that the accompanying Statement, prepared in accordance 
+with the recognition and measurement principles laid down in the aforesaid Indian Accounting 
+Stand a rd and other accounting principles generally accepted in India, has not disclosed the 
+information required to be disclosed in terms of Regulation 33 of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, as amended, including the manner in which 
+it is to be disclosed, or that it contains any material misstatement. 
+Place: Ahmedabad 
+Date: November 12, 2024 For DELOITTE HASKINS & SELLS LLP 
+Chartered Accountants 
+(Firm's Registration No. 117366W/W-100018) 
+Kartikeya Raval 
+Partner 
+Membership No. 106189 
+UDIN: 24106189BKFGZC3524 
+Regd. Office: One International Center, Tower 3, 32nd Floor, Senapati Bapat Marg, Elphinstone Road (West), Mumbai-400 013, Maharashtra, ln~age 1 of 1 
+(LLP Identification No_ AAB-8737) 
+f •-d•-•••--- ••-- ---------------- -----------
+1 .. . ' ,; ~ Zydus Lif'esciences Limited 
+P,,grsttc.red Orfrce: Zydu, Corpor,te Park, S(hernc: No. ti3, Survey No. 536, Khoraj (Gandhinagar), 
+I Ne;,r V;>,1sl1t1odevi Circle, S;;rkhe,i Ga,1dhinagar Highway, Ahmedabad -382481 
+I lei "ir,_: (+91·79) 42(}1 OOCO Web,ite· www.zyduslife.com 
+CIN : L24230GJ199SPLC025878 
+~----· Statement of Stand3lone Vnaudit~d Financial Results for the Ouarter and Half Year Ended Septemb er 30 2024 
+Ruoees in Million 
+Corresponding 
+3 Months Year to date Year to date 
+ended figures for figures for 
+3 Months Preceding 3 30/09/2023 in the current tile previous Previous year 
+ended Months ended the previous period ended period ended ended 
+30/09/2024 30/06/2024 year 30/09/2024 30/09/2023 31/03/2024 
+Sr, No. Particulars /Unaudited) /Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited) 
+1 Income 
+a Rever.ue from operations 
+i Sale of products 25,123 40,354 20,500 65,477 49,199 103,176 
+ii Other operating revenues 1063 1 248 1,093 2 331 I 951 5011 
+iii Total revenue from operations 26,206 41,602 21,593 67,608 51,150 108,187 
+b Other income (Refer Note-3) 3 267 1 066 5 345 4 333 6 169 10 848 
+c Total income 29,473 42,668 26,938 72,141 57,319 119,035 
+2 Expenses 
+a Cost of materials consumed 7,048 7,257 7,059 14,305 15,826 30,014 
+b Purchases of stock-in-trade 871 587 995 1,458 1,434 2,832 
+c Changes in inventories of finished goods, work-in-progress and stock-in-trade (1,389) (464) (981) (1,653) (700) {1,317) 
+d En1ployee benefits expense 4,365 4,244 3,777 8,609 7,294 15,075 
+e Finance costs 959 1,154 909 2,113 1,806 3,907 
+f Oeµreciation and amortisation expense 1,337 1,306 1,249 2,643 2,461 5,044 
+g Other expenses 6,435 6,196 5,116 12,631 9,894 21,743 
+h Net (gain)/ toss on foreign currency transactions (546) 53 (867) (493) (502' {747) 
+i Total expenses 19 080 20 333 17 257 39413 37 513 76 551 
+3 Profit before exceptional items and tax (1-2) 10,393 22,335 9,681 32,728 19,606 42,484 
+4 Exceptional item (Refer Note-4) 86 
+5 Profit before tax (3-4) 10,393 22,335 9,681 32,726 19,806 42,398 
+6 Tax expenses (Refer Note-SJ 
+a Current tax 2,486 5,316 1,716 7,802 4,080 9,343 
+b Deferred tax 9 11 /85) 20 /133) (1360) 
+c Total tax expenses 2 495 5 327 1631 7 822 3 947 7 983 
+7 Net Profit for the period/ year (5-6) 7,898 17,008 8,050 24,906 15,859 34,415 
+8 Other Comprehensive Income (OC_I) 
+!terns that will not be reclassified to profit or toss: 
+I Re-measurement {losses)/ gains on post employment defined benefit plans (182) 6 {108) (176) (102) (234) 
+ii Net gain/ (loss) on Fair Value through OC! Equity Securities 32 87 (40) 119 (82) (139) 
+iii Income tax effect on above items 43 (2) 22 41 21 51 
+iv Other Comprehensive Income (net of tax) (107) 91 (126) (16) (163) (322) 
+9 Total Comprehensive Income (7+8) 7,791 17,099 7,924 24,890 15,696 34,093 
+10 Paid-up equity share capital (Face value Re. 1/-) (Refer Note-6) 1,006 1,006 1,012 1,006 1,012 1,006 
+11 Reserves excluding Revaluation Reserve (i.e. Other Equity) 156,159 
+12 Earnings per share (not annualised for the quarter and half year) 
+a Basic (Rs.) 7.85 16.90 7.96 24.75 15.67 34.01 
+b Oiluted (Rs.) 7.85 16.90 7.96 24.75 15.67 34.01 
+Notes: 
+[I) TI1e above financial results were reviewed by the Audit Committee and then approved by the Board of Directors at their meetings held on November 12, 2024. Toe same have been subjected to 
+Limited Review by the Statutory Auditors. 
+[2) The above financial results have been prepared in accordance with the Companies [lndian Accounting Standards] Rules, 2015 [Ind AS] as amended, prescribed under Section 133 of the Companie s 
+Act, 2013, read with relevant rules issued thereunder . 
+[3] Other income includes dividend from subsidiaries and joint ventures, of INR 2,183 Million for the qua,ter and half year ended September 30, 2024. During the previous year, the same was 
+JNR 4,307 Million for the quarter and half year ended September 30, 2023 and INR 6,013 Million for the year ended March 31, 2024. 
+[4] Exceptional item for the year ended March 31, 2024 of INR 86 Millions comprises loss on disposal of investment made in common stock of Zydus Noveltech Inc. [ZN!), a wholly owned subsidiary, 
+on closure of business operations of ZNL 
+[5] Defetred tax expense for the year ended March 31, 2024 includes impact of change in tax rate 011 account of assumption made by the Company to go for option permitted under section 115BM of 
+the Income Tax Act, 1961. Toe final decision with respect to the election of the said option is required to be taken by tl1e Company at the time of filing the income tax return for the year ended 
+Maret, 31, 2024. 
+[6] Toe paid up equity share capital had been reduc~d by !NR 6 Million consequent to completion of buy back of 5,970,149 equity shares of INR 1 each on March 15, 2024. The buy back was at a price of 
+!NR 1,005 per share and the aggregate amount paid for the buy back was !NR 7,250 Million, including tax and related expenses. Accordingly, the paid-up share capital stands reduced to JNn 1,006 Million. 
+[7] Figures of previous reporting periods have been regrouped/ reclassified wherever necessa1y to correspond with the figures of the current reporting period. 
+f81 TI1e Comoanv has one seoment of activitv viz. "Pharmaceuticals" . 
+r Standalone Statement of Assets and Liabilities ~ 
+RUnPPS in Million 
+As at As at 
+30/09/2024 31/03/2024 
+Particulars /Unaudited) fAuditedl 
+A ASSETS 
+1 rJon-current assets 
+a Property, plant and equipment 42,046 43,257 
+b capital work-in-progress 9,775 6,267 
+c Other intangible assets 513 437 
+d Intangible assets under Development 138 72 
+e Financial assets 
+i Investments 70,073 72,830 
+ii Loans 34,706 36,406 
+iii Other Financial Assets 147 144 
+f Other non-current assets 1,359 1,408 
+g Assets for Current tax (Net) 735 669 
+Sub-total • Non-current assets 159 492 161490 
+2 Current assets 
+a Inventories 19,346 16,873 
+b Financial assets 
+i Investments 2,976 
+ii Trade receivables 55,902 47,401 
+iii Cash and cash equivalents 459 1,081 
+iv Bank balance other than cash and cash equivalents 412 3,063 
+v Loans 7,968 1,048 
+vi Other current financial assets 4,058 5,973 
+c Otl1er current assets 3 737 3 674 
+Sub-total -Current assets 94,858 79,113 
+Assets classified as held for sale 245 
+TOTAL • ASSETS 254 350 240 848 
+B EQUITY ANO LIABILITIES 
+1 Equity 
+a Equity share capital 1,006 1,006 
+b Other equity 177 970 156 159 
+Sub-total· Equity 178 976 157 165 
+2 Non-current liabilities 
+a Financial liabilities 
+i Borrowings 27,005 55,554 
+ii Lease liabilities 28 35 
+iii Other financial liabilities 268 246 
+b Provisions 2,383 1,851 
+c Deferred tax liabilities (Net) 603 583 
+Sub-total -Non-current liabilities 30 287 58 269 
+3 Current liabilities 
+a Financial liabilities 
+i Borrowings 20,754 6,181 
+ii Lease liabilities 14 13 
+iii Trade payables 
+-Due to Micro and Small Enterprises 300 161 
+• Due to otl1er than Micro and Small Enterprises 12,614 10,957 
+iv Other financial liabilities 3,730 4,420 
+b Other current liabilities 1,206 1,154 
+c Provisions 1,872 1,054 
+d Current tax liabilities (Net) 4 597 1474 
+Sub-total • Current liabilities 45 087 25 414 
+TOTAL· EQUITY AND UABILITES 254 350 240 848 
+,··-------------------------- -------------------------- ---, 
+Unaudited Standalone Statement of Cash Flows -----------------~===~~=~=~=~~~~-~~-----.----------..--------------------~ 
+Ruoees in Million 
+Half vear ended 
+---.---------------P~ •~rt~i~cu~l~a~rs~--------- -------+-~30~ /~09~/~20~2~4-+-~30~/~09~/~20~2~3--l 
+tash flows from operating activities: 
+Profit before tax 
+Adjustments for: 
+Depreciation and Amortisation exf)€nse 
+Net [Gain] on disposal of Property, Plant. and Equipment 
+FVTPL gain/ profit on sale of investments [Net] 
+Interest income 
+Loss/ [Gain] on valuation of For.\lard Contract value related to investment in a Joint Venture 
+Dividend income 
+Interest expenses 
+Effect of foreign exchange movement 
+Expected credit loss on trade receivables [Net] 
+Allowance for doubtful advances [Net of written back] 
+Provision for employee benefits 
+Provision for probable product expi1y claims and return of goods [Net of written back] 
+Total 
+Operating profit before working capital changes 
+Adjustments for: 
+[Increase]/ Decrease in trade receivables 
+[Increase]/ Decrease in inventories 
+Decrease/ [Increase] in other assets 
+Increase/ [Oecrease] in trade payables 
+[Decrease] in other liabilities 
+Total 
+cash generated from operations 
+Direct taxes paid [Net of refunds] 
+Net cash from operating activities 
+Cash flows from investing activities: 
+Purchase of prope,ty, plant and equipment and intangible assets 
+Proceeds from sale of property, plant and equipment and intangible assets 
+Purchase of non current investrnents in subsidiaries 
+Purchase of non current investments -other than subsidiaries 
+Proceeds from redemption of norl current investments in a subsidiary/ Joint Venture 
+Proceeds from redemption of non current investments in others 
+Change in Bank balances (including fixed deposits) not considered as cash and cash equivalents 
+[Investments in] current investments [Net] 
+Loans to subsidiaries 
+Interest received 
+Dividend received 
+Net cash (used in] investing activities 
+Cash flows from financing activities: 
+Proceeds from non current borrm·-1ings 
+Repayment of non current borrowings 
+Current borrowings [Net -(repayment)] 
+Lease liabilities [Net] 
+Interest paid 
+Dividends paid 
+Net cash [used in] financing activities 
+Net [decrease] in cash and cash equivalents 
+Cash and cash equivalents at the beginning of the period 
+Cash and cash equivalents at the end of the period 
+Additional Information : 
+Summarv of cash and cash ecuivalents Bank balance Liquid Mutual funds and Fixed Deposits more than 12 months: 32,728 
+2,643 
+(387) 
+(72) 
+(1,569) 
+60 
+(2,190) 
+2,102 
+(216) 
+157 
+4 
+283 
+891 
+1,706 
+34,434 
+(8,555) 
+(2,473) 
+2,253 
+1,379 
+(882) 
+(8 278) 
+26,156 
+(4704) 
+21,452 
+(4,687) 
+425 
+(873) 
+(51) 
+3,785 
+100 
+2,651 
+(2,804) 
+(4,378) 
+899 
+2 190 
+(2,743) 
+3,669 
+(11,464) 
+(6,170) 
+(8) 
+(2,330) 
+(3 028) 
+119 331l 
+(622) 
+1,081 
+459 19,806 
+2,461 
+(140) 
+(41) 
+(1,468) 
+(77) 
+(4,317) 
+1,792 
+(16) 
+44 
+208 
+36 
+(1,518) 
+18,288 
+2,369 
+750 
+(228) 
+(1,774) 
+(1000) 
+117 
+18,405 
+(3 644) 
+14,761 
+(3,130) 
+169 
+(8,869) 
+(20) 
+(693) 
+(1,245) 
+963 
+4 317 
+(8,508) 
+12,126 
+(3,059) 
+(9,672) 
+22 
+(1,461) 
+(6072) 
+18 116) 
+(1,863) 
+2,404 
+541 
+Particulars 30/09/2024 30/09/2023 
+a cash and cash equivalents 
+b Bank balance other than cash and cash equivalents 
+c Current Investments 
+d Fixed Deposits more than 12 month's maturity 
+e Total 
+Ahmedabad, November 12, 2024 459 
+412 
+2,976 
+1 
+3,848 541 
+2,597 
+2,750 
+5,888 
+tder of the Board, 
+For Zydu L esciences Limited, 
+rl,4J 
+a 1aging Director 
+DIN: 00131995 
+Deloitte 
+Haskins & Sells LLP Chartered Accountants 
+19th floor, Shapath-V 
+S.G. Highway 
+Ahmedabad -380 015 
+Gujarat, India 
+Tel: +91 79 6682 7300 
+Fax: +91 79 6682 7400 
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM 
+CONSOLIDATED FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF 
+ZYDUS LIFESCIENCES LIMITED 
+1. We have reviewed the accompanying Statement of Consolidated Unaudited Financial 
+Results of ZYDUS LIFESCIENCES LIMITED ("the Parent") and its subsidiaries (the Parent 
+and its subsidiaries together referred to as "the Group"), and its share of the net profit 
+after tax and total comprehensive income of its joint ventures for the quarter and half year 
+ended September 30, 2024 ("the Statement ") being submitted by the Parent pursuant to 
+the requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended ("the Listing Regulations"). 
+2. This Statement, which is the responsibility of the Parent's Management and approved by 
+the Parent's Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial 
+Reporting" ("Ind AS 34"), prescribed under Section 133 of the Companies Act, 2013 read 
+with relevant rules issued thereunder and other accounting principles generally accepted 
+in India and in compliance with Regulation 33 of the Listing Regulations. Our responsibility 
+is to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 "Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity", issued by the Institute of Chartered Accountants of 
+India (ICAI). A review of interim financial information consists of making inquiries, 
+primarily of Parent's personnel responsible for financial and accounting matters, and 
+applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing specified under Section 
+143(10) of the Companies Act, 2013 and consequently does not enable us to obtain 
+assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEBI under 
+Regulation 33(8) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended, to the extent applicable. 
+4. The Statement includes the results of the entities listed in the Annexure to this report. 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above 
+and based on the consideration of the review reports of other auditors referred to in 
+paragraph 6 below, nothing has come to our attention that causes us to believe that the 
+accompanying Statement, prepared in accordance with the recognition and measurement 
+principles laid down in the aforesaid Indian Accounting Standard and other accounting 
+principles generally accepted in India, has not disclosed the information required to be 
+disclosed in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended, including the manner in which it is to be 
+disclosed, or that it contains any material misstatement. 
+Re al Center, Tower 3, 32nd Floor, Senapati Bapat Marg, Elphinstone Road (West), Mumbai-400 013, Mahiish~a•l~f· 4 (LL . -737) g 
+Deloitte 
+Haskins & Sells LLP 
+6. We did not review the interim financial information of 27 subsidiaries included in the 
+consolidated unaudited financial results, whose interim financial information reflect total 
+assets of Rs. 3,07,077 Million as at September 30, 2024, total revenues of Rs. 37,072 
+Million and Rs. 88,321 Million For the quarter and half year ended September 30, 2024 
+respectively, total net loss after tax of Rs. 3,599 Million and Rs. 4,490 Million for the quarter 
+and half year ended September 30, 2024 respectively and total comprehensive loss of Rs. 
+3,603 Million and Rs. 4,493 Million for the quarter and half year ended September 30, 2024 
+respectively and net cash inflows of Rs. 6,381 Million for the half year ended September 
+30, 2024, as considered in the Statement. These interim financial information have been 
+reviewed by other auditors whose reports have been furnished to us by the Management 
+and our conclusion on the Statement, in so far as it relates to the amounts and disclosures 
+included in respect of these subsidiaries is based solely on the reports of the other auditors 
+and the procedures performed by us as stated in paragraph 3 above. 
+Our conclusion on the Statement is not modified in respect of these matters. 
+7. The consolidated unaudited financial results includes the interim financial information of 
+23 subsidiaries which have not been reviewed by their auditors, whose interim financial 
+information reflect total assets of Rs. 55,615 Million as at September 30, 2024, total 
+revenue of Rs. 2,900 Million and Rs. 6,062 Million for the quarter and half year ended 
+September 30, 2024 respectively, total profit after tax of Rs. 236 Million and Rs. 451 Million 
+for the quarter and half year ended September 30, 2024 respectively and . Total 
+comprehensive income of Rs. 236 Million and Rs. 451 Million for the quarter and half year 
+ended September 30, 2024 respectively and net cash inflows of Rs. 657 Million for the half 
+year ended September 30, 2024, as considered in the Statement. The consolidated 
+unaudited financial results also includes the Group's share of profit after tax of Rs. 221 
+Million and Rs. 410 Million for the quarter and half year ended September 30, 2024 
+respectively and total comprehensive income of Rs. 221 Million and Rs. 410 Million for the 
+quarter and half year ended September 30, 2024 respectively, as considered in the 
+Statement, in respect of 5 joint ventures , based on their interim financial information which 
+have not been reviewed by their auditors. According to the information and explanations 
+given to us by the Management, these interim financial information are not material to the 
+Group. 
+Our Conclusion on the Statement is not modified in respect of our reliance on the interim 
+financial information certified by the Management. 
+Place: Ahmedabad 
+Date: November 12, 2024 For DELOITTE HASKINS & SELLS LLP 
+Chartered Accountants 
+(Firm's Registration No. 117366W/W-100018) 
+Sy \ \rl< r-:. ~ 
+I Kartikeya Raval 
+Partner 
+Membership No. 106189 
+UDIN: 24106189BKFGZD6266 
+Page 2 of 4 
+Deloitte 
+Haskins & Sells LLP 
+ANNEXURE TO THE INDEPENDENT AUDITOR'S REPORT: 
+The Parent 
+1. Zydus Lifesciences Limited 
+List of Subsidiaries 
+1. Sentynl Therapeutics Inc 
+2. Zydus Animal Health and Investments Limited 
+3. Zydus Healthcare (USA) LLC 
+4. Zydus Healthcare Limited 
+5. Zydus Healthcare Philippines Inc. 
+6. Zydus International Private Limited 
+7. Zydus (Lanka) Private Limited 
+8. Zydus Pharmaceuticals (USA) Inc. 
+9. Zydus Wellness Limited 
+10. Zydus Worldwide DMCC 
+11. Dialforhealth Greencross Limited 
+12. Dialforhealth Unity Limited 
+13. Zydus Pharmaceuticals Limited 
+14. Zydus Strategic Investments Limited 
+15. Zydus VTEC Limited 
+16. Zynext Ventures PTE. LTD. 
+17. Zydus Pharmaceuticals UK Limited 
+18. Zydus Pharmaceuticals Canada Inc. 
+19. Zydus Lifesciences Global FZE 
+20. Viana Pharmaceuticals Inc., USA 
+21. Violio Healthcare Limited 
+22. Biochem Pharmaceutical Private Limited 
+23. Zydus Medtech Private Limited (w.e.f. May 31, 2024) 
+24. German Remedies Pharmaceuticals Private Limited 
+25. M/s. Recon Pharmaceuticals and Investments 
+26. Zydus Pharmaceuticals Mexico SA De CV 
+27. Zydus Pharmaceuticals Mexico Services Company SA De C.V. 
+28. Nesher Pharmaceuticals (USA) Inc 
+29. ZyVet Animal Health Inc [USA] 
+30. Liva Investment Limited 
+31. Liva Nutritions Limited 
+32. Zydus Wellness Products Limited 
+33. Zydus Wellness International DMCC 
+34. Zydus Wellness BD Private Limited 
+35. Alidac Healthcare Myanmar Limited 
+36. Etna Biotech S.R.L. 
+37. Zydus France SAS 
+38. Zydus Healthcare S.A. (Pty) Ltd. 
+39. Zydus Netherland B.V 
+40. Zydus Therapeutics Inc. 
+41. Script Management Services (Pty) Ltd. 
+42. Alidac Pharmaceuticals SA (Pty) Ltd. (formerly known as Simayla 
+Pharmaceuticals (Pty) Ltd.) 
+Page 3 of 4 
+Deloitte 
+Haskins & Sells LLP 
+43. Laboratorios Combix S.L. 
+44. Zydus Nikkho Farmaceutica Ltda. 
+45. Zynext Ventures USA LLC, USA 
+46. LiqMeds Worldwide Limited 
+47. LiqMeds Limited 
+48. Medsolutions (Europe) Limited 
+49. LiqMeds Lifecare Limited 
+50. LM Manufacturing Limited 
+51. LM Manufacturing India Private Limited 
+List of Joint Ventures 
+1. Bayer Zydus Pharma Private Limited (till May 06, 2024) 
+2. Zydus Hospira Oncology Private Limited 
+3. Zydus Takeda Healthcare Private Limited 
+4. Oncosol Limited 
+5. Sterling Biotech Limited (w.e.f. August 29, 2024) 
+Page 4 of 4 
+-----------· --·-----··-----~-. -----·--------- ·-------------
+. ,. Zydus Lifesciences Limited ,' I ,, 
+,, ,, ·,,. , ·-:gi~te1<,d Office: Zydus Corporate Park, Scheme No. 63, Su,vey No. 536, Khoraj (Ga,1dr,nagarl, 
+Near Vaishnodevi Circle, Sarkhej-Gandhinagar Highway, Ailmedabacl -382481 
+Tel. No.: (+91-79) 4804 0000 Website: www.zyduslife.com 
+CIN : L24230Gl199SPLC025878 ----------····----
+St_~tcrne,,t of Consolidated Unaudited Financial Results for the Ouarter and Half Year Ended Seotember 30 2024 
+Rupees in Million 
+Corresponding 
+3 Months Year to date Year to date 
+ended figures for figures for 
+3 Months Preceding 3 30/09/2023 in the CUITent the previous Previous year 
+ended Months ended the previous period ended period ended ended 
+30/09/2024 30/06/2024 vear 30/09/2024 30/09/2023 31/03/2024 
+Sr, No. Particula rs /Unaudited) /Unaudited\ /Unaudited\ /Unaudited) /Unaudited) /Audited) 
+1 Income 
+a Revenue from op€tations 
+i Sale of products 51,136 60,465 42,586 111,601 93,114 190,215 
+ii Other operating ,evenues I >34 1610 1,102 2 844 1970 5 259 
+iii Total revenue from operations 52,370 62,075 43,688 114,445 95,084 195,474 
+b Other income 682 632 540 1 314 900 2 841 
+c Total income 53,052 62,707 44,228 115,759 95,984 198,315 
+2 Expenses 
+a Cost of materials consumed 10,665 11,155 10,370 21,820 23,070 45,805 
+b Purchases or stock-in-trade 4,839 5,224 4,055 10,063 8,956 18,979 
+c Change; in invent.:mes of finished goods, work-in-progress and stock-in-trade (790) (518) 313 (1,308) (544) (2,502) 
+d Employee benefits expense 8,792 8,835 7,529 17,627 14,833 31,376 
+e Finance costs 251 322 87 573 268 812 
+f Depreciation a11d amortisation expense 2,336 2,153 1,842 4,489 3,640 7,641 
+g Other expen!ies 14,704 16,287 10,782 30,991 22,806 48,783 
+h Net Loss/ (Gain) on foreign currency transactio ns 1454' 252 1822' 1202' 155)) (BIO) 
+i Total expenses 40 343 43 710 34 156 84 053 72,478 150 084 
+3 Profit before exceptional items, tax and share of profit of joint ventures (1·2) 12,709 18,997 10,072 31,706 23,506 48,231 
+4 Exceptional items [Net] (Refer Note-3) 142 142 
+5 Profit before tax and share of profit of joint ventures (3·4) 12,709 18,997 10,072 31,706 23,364 48,089 
+6 Tax expenses (Refer Note-4) 
+a Current tax 3,656 6,538 2,533 10,194 8,780 14,926 
+b Deferred tax 75 12 177' 12691 12 102 (4 355) (5 151) 
+c Total tax expenses 3 731 4 361 2 264 B 092 4 425 9 775 
+7 Profit before share of profit of joint ventures (5-6) 8,978 14,636 7,808 23,614 18,939 38,314 
+8 Share of profit or joint ventures (net o/ tax) 221 189 234 410 449 I 184 
+9 Net profit before non-controlling interests (7+8) 9,199 14,825 8,042 24,024 19,388 39,498 
+10 Non-controlli11g interests 90 626 25 716 492 I 133 
+11 Net Profit for the period/ year from continuing operations (9-10) 9,109 14,199 8,017 23,308 18,896 38,365 
+12 a Profit/ (Loss) before tax from discontinued operations 4 (13) 4 (26) 292 
+b Tax expense -(Charge)/ Credit of discontinued operation s (ll 3 (1\ 6 /62) 
+c Profit/ (Loss) after tax from discontinued operations (Refer Note-SJ 3 (IQ\ 3 120) 230 
+13 Net profit for the period/ year (11+12) 9,112 14,199 8,007 23,311 18,876 38,595 
+14 Other Comprehensive Income (OCI) 
+a It~ms that will not be reclassified to profit or loss: 
+i Re-measureme nt (losses)/ gains 011 post employment defined benefit plans (249) 3 (123) (246) (122) (296) 
+ii Net gain/ (loss) on Fair Value through OCI Equity Securities 36 98 (43) 134 (84) (247) 
+iii Income tax effect on above items 55 12\ 24 53 24 61 
+iv Total (158) 99 (142) (59) (182) (482) 
+b Items that will be reclassified to profit or loss: 
+i Exchange differences on translation of foreign operations 53 (335) (419) (282) (317) (1,516) 
+ii Income tax effect on above items -
+iii Total 53 (335) (419) (282) (317) (1,516) 
+c Share of OCI of joint ventures (net of tax) 13 
+d Other Comprehensive Income {net of tax) before Non-Controlling Interests (105) (236) (561) (341) (499) (2,001) 
+e Non-Controlling Interests 
+f Other Comprehensive Income (net of tax) (105) (236) (561) (341) (499) (2,001) 
+15 Total Comprehensive Income (9+12+14 d) 9,097 14,589 7,471 23,686 18,869 37,727 
+16 Total Comprehensive Income attributable to: 
+Owners of the Company 9,007 13,963 7,446 22,970 18,377 36,594 
+Non-Controlling Interests 90 626 25 716 492 1,133 
+17 Paid-up equity share capital (Face value Re. 1/-) (Rerer Note-6) 1,006 1,006 1,012 1,006 1,012 1,006 
+18 Reserves excluding Revaluation Reserve (i.e. Other Equity) 197,289 
+19 a Earnings per share for continuing operations (not annualised for the quarter and half year) 
+i Basic (Rs.) 9.05 14.11 7.92 23.16 18.67 37.91 
+jj Diluted (Rs.) 9.05 HII 7.92 23.16 18.67 37.91 
+b Earnings per share for discontinued operations (not annualised for the quarter and half year) 
+i Basic (Rs.) 0.01 (0.0l) 0.01 (0.02) 0.23 
+ii Diluted (Rs.) 0.DI (0.01) 0.01 (0.02) 0.23 
+C Earnings per share for continuin9 & discontinu ed oper.:itions (not .:innualised for the qunrter and half year) 
+i Basic (Rs.) 9.06 14.11 7.91 23.17 18.65 38.14 
+ii Diluted (Rs.) 9.06 14.11 7.91 23.17 18.65 38.14 
+r 
+~~_nt Information: 
+Ruoees in Million 
+Corresponding 
+3 Months Year to date Year to date 
+ended figures for figures for 
+3 Months Preceding 3 30/09/2023 in the current the previous Previous year 
+ended Months ended the previous period ended period ended ended 
+30/09/2024 30/06/2024 vear 30/09/2024 30/09/2023 31/03/2024 
+Sr. No. Particulars (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) {Audited) 
+l Segment revenue: 
+a Pha1maceuticals 47,475 53,693 39,322 101,168 83,759 172,354 
+b Consumer Products 4,895 8,382 4,366 13,277 11,325 23,120 
+c Total revenue from operations from continuing operations 52,370 62,075 43,688 114,445 95,084 195,474 
+2 Segment results: 
+a Pharmaceuticals 12,549 17,496 9,986 30,045 22,344 45,568 
+b Consumer Products 160 1,501 86 1,661 1,162 2,663 
+c Total profit before tax before exceptional items from continuing operations 12,709 18,997 10,072 31,706 23,506 48,231 
+3 Segment assets[*]: 
+a Phannaceuticals 254,500 245,502 200,506 254,500 200,506 231,348 
+b Consumer Products 59,959 59,264 58,288 59,959 58,288 61,460 
+c Total assets 314,459 304,766 258,794 314,459 258,794 292,808 
+4 Segment liabilities: 
+a Pharmaceuticals [*] 67,797 64,915 45,242 67,797 45,242 
+b Consumer Products 5,116 4,242 4,143 5,116 4,143 
+C Total liabilities 72,913 69,157 49,385 72,913 49,385 
+(*] includes amounts in respect of discontinued operations and assets held for sale (Refer Note-SJ 
+Notes: 
+(l] TI1e above financial results were reviewed by the Audit Committee and then approved by the Board of Directors at their meetings held on November 12, 2024. The same have been subjected to 
+Limited Review by the Statutory Auditors. 
+(2] n,e above financial results have been prepared in accordance with the Companies [Indian Accounting Standards] Rules, 2015 [Ind AS] as amended, prescribed under Section 133 of the Companies 
+Act, 2013, read with relevant rules issued thereunder . 
+[3] Exceotional items comorise: 
+Ruoees in Million 
+Corresponding 
+3 Months Year to date Year to date 
+ended figures for figures for 65,745 
+6,047 
+71,792 
+3 Months Preceding 3 30/09/2023 in the current the previous Previous year 
+ended MonU1s ended the previous period ended period ended ended 
+30/09/2024 30/06/2024 vear 30/09/2024 30/09/2023 31/03/2024 
+No Particulars {Unaudited) (Unaudited) {Unaudited) {Unaudited) {Unaudited) (Audited) 
+a Expenses incurred in connection with cessation of the operations of one of the manufacturing facilities of 
+Zydus Wellness Products Limited (ZWPL], a subsidiary of the Group 
+b Gain on sale of assets by ZWPL which were classified as "Assets held for sale" from Property, Plant and 
+Equipment in the financial year 2022·23 [as per Ind A5 105] 
+c Total 177 
+(35) 
+142 
+(4] a Deferred tax expense for the year ended March 31, 2024 includes impact of change in tax rate on account of assumption made by the Parent to go for option permitted under section llSBAA 
+of U1e Income Tax Act, 1961. The final decision with respect to the election of the said option is required to be taken by the Parent at t11e time of filing the income tax return for the year ended 
+March 31, 2024. 
+b Pursuant to a change in the method of income tax calculation in USA relating to the timing of recognition of certain sales related chargeback and billback, the subsidiaries based in USA had 
+recognized current tax liability of INR 2,689 Million with a corresponding increase in the deferred tax asset for the half year ended September 30, 2023. 
+c Deferred tax expense for the half year ended September 30, 2023 and year ended March 31, 2024 Includes recognition of Minimum Alternate Tax [MAT] credit entitlement amounting to 
+INR 499 Million and INR 591 Million respectively by two subsidiaries or the Group. 
+(SJ a During the earlier periods, the Group had decided to close the manufacturing facilities of Nesher Pharmaceuticals (USA) LLC (Nesher] and Hereon Pharmaceuticals (USA) LLC [Hereon], both 
+wholly owned subsidiaries. Consequently, both Nesher and Hereon have been considered and disclosed as "Discontinued Operations" as per Ind AS 105 "Non-Current Assets held for Sale and 
+Discontinued Operations". Accordingly, figures relating to these operations have been disclosed separately under the head "Profit/ (Loss) from t11e Discontinued Operations". 
+b During the year ended March 31, 2024, Zydus Wellness Products Limited,a subsidiary of the Group, had decided to sell assets at Sitarganj location in Uttarakhand. The sale is intended to be 
+completed within a period or one year. In accordance with Ind A5 105, such assets are classified as "Assets held for sale" from Property, Plant and Equipment and disclosed separately at the 
+lower of their canying values and fair values less costs to sell. 
+(6] n,e paid up equity share capital had been reduced by INR 6 Million consequent to completion of buy back of 5,970,149 equity shares of INR 1 each on March 15, 2024. The buy back was at a price of 177 
+(35) 
+142 
+JNR 1,005 per share and the aggregate amount paid for t11e buy back was INR 7,250 Million, including tax and related expenses. Accordingly, the paid-up share capital stands reduced to INR 1,006 Million. 
+[7] Pursuant to the Share Purchase and Share Subscription Agreement [SPSSA] entered on August 23, 2024, Zydus Animal Healtl1 and Investments Limited, a wholly owned subsidiary of the Parent, 
+has completed the acquisition of 50% stake or Sterling Biotech Limited [SBL] on August 29, 2024. Consequently, SBL has become a Joint Venture of the Group w.e.f. August 29, 2024. The cost of 
+acquisition was INR s,soo Million subject to certain adjustments with respect to cash and debt (including debt like items] as mentioned in the SPSSA. n,e results for the quarter and half year 
+ended September 30, 2024 include the share of profits of SBL from August 29, 2024. 
+[8] After the end of the reporting period, on October 30, 2024, Zydus Wellness Limited (ZWL], a subsidiary of the Parent, entered into Share Purchase Agreement [SPA] with the Promoters and other 
+Shareholders [the sellers] of Naturell (India) Private Limited (NIPL], for acquisition of the entire share capital of NIPL. n,e cost of acquisition is INR 3,900 Million which comprises of upfront 
+consideration of INR 3,690 Million and earnout consideration of INR 210 Million, which shall be determined upon achieveme nt of agreed milestone for the financial year 2024-25. TI1is acquisition is 
+expected to be completed within a period of sixty days from the date of execution of SPA. 
+(9] Pursuant to the Sale and Purchase Agreement [SPA] entered on October 31, 2023, Zydus Pharmaceuticals UK Limited, United Kingdom, a wholly owned subsidiary of the Parent, had completed the 
+acquisition of 100% stake of LiqMeds Worldwide Limited, LiqMeds Limited, Medsolutions (Europe) Limited, LiqMeds Lifecare Limited and LM Manufacturing Limited [collectively referred as "LiqMeds 
+Group"] on November 6, 2023. TI,e cost of acquisition was GBP 68 Million [equivalent to INR 7,201 Million] as upfront consideration. Over and above upfront consideration, additional amounts will 
+be paid, in tranches, over next three calendar years starting from December 2024, depending on achievement of certain agreed milestones. The results for the period from November 6, 2023 
+include the operations of the LiqMeds Group with provisional purchase price allocation [PPA] figures. n,e PPA figures shall be finalised within the measurement period as provided by Ind AS 103. 
+[ 10] Figures of previous reporting periods/ year have been regrouped/ reclassified wherever necessary to correspond with the figures of the current reporting periods. 
+[11] The detailed standalone results are available on the Company 's website: www.zydus life.com, on the website of BSE [vMw.bseindia.com] and on the website of NSE [www.nseindia.com]. 
+The summarised standalone financial results of the Company are as below: 
+Rupees in Million 
+Corresponding 
+3 Months Year to date Year to date 
+ended figures for figures for . c:ation Pur,o 
+3 Months 
+ended 
+30/09/2024 Preceding 3 30/09/2023 in the current the previous Previous year 
+Revenue from operations 
+Profit before exceptional items and tax 
+Profit before Tax 
+Profit after Tax Particulars ~ 0 
+.P 1, (Unaudited) 
+26,206 
+10,393 
+10,393 
+7,898 Months ended the previous 
+30/06/2024 vear 
+(Unaudited) (Unaudited) 
+41,602 21,S93 
+22,335 9,681 
+22,335 9,681 
+17,008 8,050 period ended period ended ended 
+30/09/2024 30/09/2023 31/03/2024 
+(Unaudited) (Unaudited) {Audited) 
+67,808 51,150 108,187 
+32,728 19,B06 42,484 
+32,728 19,806 42,398 
+24,906 15,859 3'1,415 
+Consolidated Statement of Assets and Liabilities ----·-
+Runees in Million 
+As at As at 
+30/09/202~ 31/03/2024 
+ParticularS (Unaudited) (Audited) 
+A ASSETS 
+1 Non-current assets 
+a Property, plant and equipment 61,020 58,033 
+b Capital work-In-progress 10,511 11,115 
+c Goodwill 52,660 52,660 
+d Other intangible assets 16,169 12,992 
+e Intangible assets under Development 13,190 13,118 
+r Investments in joint ventures 11,074 4,162 
+g Financial assets 
+i Investments 5,871 5,518 
+ii Other Financial Assets 570 577 
+h Oeferred Tax Assets (Net) 18,536 16,442 
+i Other non-current assets 2,051 1,969 
+j Assets for Current tax (Net) 1 238 1 208 
+Sub-tot.al -Non-current assets 192 890 177 794 
+2 Current assets 
+a Inventories 37,169 34,419 
+b Financial assets 
+i Investments 9,014 2,525 
+ii Trade receivables 46,695 52,202 
+iii cash and cash equivalents 10,614 4,130 
+iv Bank balance other than cash and cash equivalents 5,322 6,921 
+v Loans 15 15 
+vi Other current financial assets 5,001 6,573 
+c Other current assets 7 358 7 413 
+Sub-total -Current assets 121188 114 198 
+Assets classified as held for sale (Refer Note-5) 381 816 
+TOTAL -ASSETS 314 459 292 808 
+B EQUITY AND LIABILITTES 
+1 Equity 
+a Equity share capital 1,006 1,006 
+b Other equity 217 240 197 289 
+c Equity attributable to equity holders of the Company 218,246 198,295 
+d Non-Controlling Interest 23 300 22 721 
+Sub-total -Equity 241 546 221 016 
+2 Non-current liabilities 
+a Financial liabilities 
+i Lease liabilities 315 251 
+ii Other financial liabilities 10,937 10,542 
+b Provisions 3,706 3,097 
+c Deferred tax liabilities (Net) 4,428 4,465 
+d Other Non-Current Liabilities 13 18 
+Sub-total -Non-current liabilities 19 399 1B 373 
+3 Current liabilities 
+a Financial liabilities 
+i Borrowings 1,500 7,686 
+ii Lease liabilities 90 105 
+iii Trade payables 
+-Due to Micro and Small Enterprises 612 670 
+-Due to other than Micro and Small Enterprise s 20,656 20,597 
+iv Other financial liabilities 16,489 13,891 
+b Other current liabilities 2,820 2,780 
+c Provisions 4,981 3,948 
+d Current tax liabilities (Net) 6 344 3 720 
+Sub-total -Current liabilities 53 492 53 397 
+Liabilities directly associated with assets classified as held for sale (Refer Note-5) 22 22 
+TOTAL -EQUITY AND UABILITES 314 459 292 808 
+r- Unaudited Consolidated Statement of cash Flows '----------------~===-==========-==~=~-----,----------,---------------------l 
+Ruoees in Million 
+Half vear ended 
+Particulars 30/09/2024 30/09/2023 
+Cash flows from operating activities: 
+Profit before tax and share of profit of joint ventures 
+Continuing operations 
+Discontinued operations [Refer Note-SJ 
+Adjustments for: 
+Depreciation and Amortisation expense 
+Exceptional items [Refer Note-3] 
+Net [Gain] on disposal of Property, Plant and Equipment 
+FVTPL gain/ profit on sale of investments [Net] 
+Interest income 
+Dividend income 
+Loss/ [Gain] on valuation of Forward Contract value related to investment in a Joint Venture 
+Interest expenses 
+Exchange rate fluctuation and other related adjustments arising on Consolidation 
+Expected credit loss on trade receivables [Net] 
+Allowance for doubtful advances [Net of written back] 
+Provision for employee benefits 
+Provision for probable product expiry claims and return of goods [Net of written back] 
+Total 
+Operating profit before working capital changes 
+Adjustments for: 
+Decrease in trade receivables 
+[Increase]/ Decrease in inventories 
+Decrease/ [Increase] in other assets 
+[Decrease] in trade payables 
+Increase In other liabilities 
+Total 
+Cash generated from operations 
+Direct taxes paid [Net of refunds] 
+Net cash from operating activities 
+Cash flows from investing activities: 
+Purchase of property, plant and equipment and intangible assets 
+Proceeds from sale of property, plant and equipment and intangible assets 
+Payment for acquisition of a joint venture 
+Proceeds from sale of non current investments of a joint venture 
+Purchase of non current investments -other than subsidiaries 
+Proceeds from sale of non current investments -other than subsidiaries 
+Change in Bank balances (including fixed deposits) not considered as cash and cash equivalents 
+[Investments in]/ redemption of current investments [Net] 
+Interest received 
+Dividend received 
+Net cash [used in] investing activities 
+Cash flows from financing activities: 
+Repayment of non current borrowings 
+Current borrowings [Net -(repayment)] 
+Lease liabilities [Net] 
+Interest paid 
+Dividends paid 
+Net cash [used in] financing activities 
+Net increase/ [decrease] in cash and cash equivalents 
+Cash and cash equivalents at the beginning of the period 
+Effect of exchange rates on Cash and cash equivalents 
+Cash and cash equivalents at the end of the period 
+Additional Infonmation: 
+summarv of Cash and cash eouivalents Bank balance Liouid Mutual funds and Fixed Deoosits more than 12 months: 31,706 23,364 
+4 (261 
+31,710 23,338 
+~,489 3,640 
+142 
+(387) (137) 
+(332) (184) 
+(600) (470) 
+(JO) (12) 
+60 (77) 
+547 240 
+447 (967) 
+209 63 
+13 
+225 309 
+l 171 73 
+5 832 2 620 
+37,542 25,958 
+5,546 5,342 
+(2,707) 1,265 
+1,055 (211) 
+(387) (5,220) 
+2 287 628 
+5 794 1804 
+43,336 27,762 
+17 5481 IS 6331 
+35,788 22,129 
+(9,740) (4,651) 
+452 199 
+(6,500) 
+185 
+(386) (1,060) 
+100 
+• 1,614 (2,289) 
+(6,057) 253 
+505 443 
+10 12 
+(19,817) (7,093) 
+(827) 
+(6,175) (9,288) 
+31 79 
+(137) (208) 
+13 029) 16 207\ 
+(9,3!0) (16,451) 
+6,661 (1,415) 
+4,130 4,878 
+(177) 
+10,614 3,463 
+Particulars 30/09/2024 30/0912023 
+a Cash and cash equivalents 
+b Bank balance other than cash and cash equivalents 
+c Current Investments 
+d Fixed Deposits more than 12 month's maturity 
+e Total 
+Ahmedabad, November 12, 2024 10,614 
+5,322 
+9,014 
+l 
+24,951 3,463 
+5,608 
+6,124 
+40 
+15,235 
+By Order of the Board, 
+For Zydus L( sciences Limited, 
+,~J) 
+Managing Director 
+DIN: 00131995 

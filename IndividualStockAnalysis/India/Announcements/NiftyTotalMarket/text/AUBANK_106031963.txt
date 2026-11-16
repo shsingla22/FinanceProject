@@ -1,0 +1,422 @@
+   
+ 
+ 
+ 
+Ref. No.: AUSFB/SEC/202 4-25/299 
+Date: October 23, 202 4 
+ 
+To, 
+ 
+National Stock Exchange of India Ltd.  
+Exchange Plaza, C -1, Block G, 
+Bandra Kurla Complex,  
+Bandra (East), Mumbai 400051,  
+Maharashtra.  
+ 
+NSE Symbol: AUBANK  BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai 400001,  
+Maharashtra.  
+ 
+Scrip Code:  540611, 958400, 959025, 974093, 974094, 
+974095, 974914, 974963, 975017 & 975038  
+  
+Dear Sir/Madam,  
+ Sub: Amendment in the Code of Fair Disclosure  and Conduct and P olicy for determination and sharing 
+of information for legitimate purpose  
+ 
+Ref: Regulation 8 (2) of the SEBI (Prohibition of Insider Trading) Regulations,  2015  (“PIT Regulations”)  
+ It is hereby informed that the Board of Directors of the Bank at its Meeting held on October 23, 202 4 has 
+inter -alia, considered and approved amendment in the Bank's code of fair disclosure and conduct and 
+policy for determination and sharing of information for legitimate purpose ("the Code").  
+ 
+The said Code is annexed herewith and may also be accessed on the website of the Bank at the following 
+link: https://www.aubank.in/investors/secretarial- policies .  
+  
+This is for your information and records.  
+ 
+Thanking You,  
+ Yours faithfully,   
+For AU SMALL FINANCE BANK LIMITED  
+ 
+  Manmohan Parnami  
+Company Secretary and Compliance Officer  
+Membership No.: F9999  
+investorrelations@aubank.in  
+ Encl: As above  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ AU SMALL FINANCE BANK LIMITED  
+(SECTION I)  
+CODE OF FAIR DISCLOSURE AND CONDUCT   
+(SECTION II)  
+POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE PURPOSE  
+ 
+ 
+Au Small Finance Bank Lim ited 
+CODE OF FAIR DISCLOSURE AND CONDUCT  (SECTION I)  
+POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE (SECTION II)  2 
+ 
+Table of Contents  
+1. BACKGROUND, OBJECT, SCOPE AND APPLICABILITY  ................................ ...........................  3 
+2. DEFINITIONS  ................................ ................................ ................................ ........................  3 
+3. ADMINISTRATION  ................................ ................................ ................................ ................  4 
+4. POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE  ................................ ................................ ................................ ..............................  6 
+5. LEGITIMATE PURPOSE  ................................ ................................ ................................ .........  6 
+6. ISSUE OF NOTICE TO THE RECIPIENT OF UPSI  ................................ ................................ ..... 6 
+7. MARKET RUMOURS  ................................ ................................ ................................ .............  6 
+8. QUIET/SILENT PERIOD  ................................ ................................ ................................ .........  7 
+9. VOLUNTARY DISCLOSURE  ................................ ................................ ................................ .... 7 
+10. REVIEW OF THE POLICY  ................................ ................................ ................................ .......  7 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Au Small Finance Bank Lim ited 
+CODE OF FAIR DISCLOSURE AND CONDUCT  (SECTION I)  
+POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE (SECTION II)  3 
+ 
+Section -I 
+1. BACKGROUND, OBJECT,  SCOPE AND APPLICABILITY  
+ 
+• Background:  
+ 
+The Securities and Exchange Board of India (SEBI) has promulgated the SEBI (Prohibition of Insider 
+Trading) Regulations, 2015, on 15th January, 2015  and amended from time to time  (hereinafter 
+referred to as the “ PIT Regulations ”), to formulate a stated framework and code for fair disclosure 
+of Unpublished Price Sensitive Information  (hereinafter referred to as the “UPSI”) , events and 
+occurrences  (herein after referred to as the “ Code ”) that could impact price discovery in the 
+market for its securities.  
+ 
+• Objects & Scope:  
+ 
+As per the requirement of Regulation 8 of Chapter IV of the PIT Regulations.  
+ 
+“The board of directors of every company, whose securities are listed on a stock exchange, shall 
+formulate and publish on its official website, a code of practices and procedures for fair disclosure 
+of unpublished price sensitive information that it would follow in order to adhere to each of the 
+principles set out in Schedule A to these regulations, without diluting the provisions of these 
+regulations in any manner .” 
+ 
+The Bank has adopted this Code of Fair Disclosure and Conduct after incorporating the relevant 
+clauses of Regulation 8 & Schedule A  and Schedule B  of the PIT Regulations . The provisions of this 
+Code must  be read along with the PIT Regulations and if there is any inconsistency/contradiction 
+between the two, the provisions of the PIT Regulations shall prevail.  
+ 
+• Applicability  
+ 
+This Code shall  be applicable to all Designated Persons (DPs), immediate relatives of DPs and other 
+connected persons and in relation to disclosure of UPSI by the company. The scope, exceptions as 
+given in PIT Regulations shall be applicable for the purpose of this Code as well.  
+2. DEFINITIONS  
+ 
+I.“Bank /Company ” means  AU Small Finance Bank  Limited . 
+ 
+II.“Chief Investor Relations Officer  (CIRO) ” means the head of Investor Relations  Department of the 
+Bank . 
+ 
+III.“Compliance Officer” for the purpose to administer the code of conduct means the Company 
+Secretary of the Bank or any other senior level employee who shall be directed by the Board of 
+Directors  to act as such and designated as the compliance officer of the Bank and he/she shall be 
+responsible to administer the code of conduc t and other requirements under these regulations.  
+ 
+IV.“Unpublished Price Sensitive Information ” (“UPSI”)  means any information, relating to the 
+Company or its securities, directly or indirectly, that is not generally available which upon 
+becoming generally available, is likely to materially affect the price of the securities and shall, 
+ordinarily including b ut not restricted to, information relating to the following : 
+ 
+a. Declaration of Financial results (quarterly, half yearly and annual);  
+b. Declaration of Dividends (interim and final);  
+c. Change in capital structure;  
+ 
+Au Small Finance Bank Lim ited 
+CODE OF FAIR DISCLOSURE AND CONDUCT  (SECTION I)  
+POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE (SECTION II)  4 
+ 
+d. Mergers, de -mergers, acquisitions, delisting, disposals and expansion of business and such other 
+transactions;  
+e. Change in key managerial personnel;  
+f. Sale or disposal of any material unit(s), division(s) or subsidiary of the listed entity or any other 
+restructuring.  
+g. Issuance/ reissuance or forfeiture of securities, split or consolidation of shares, buyback of 
+securities, any restriction on transferability of securities or alteration in terms or structure of 
+existing securities including forfeiture, reissue of forfeite d securities, alteration of calls, 
+redemption of securities etc.  
+h. The decision with respect to fund raising proposed to be undertaken other than normal course 
+of business.  
+i. Increase in capital by issue of bonus shares through capitalization including the date on which 
+such bonus shares shall be credited/dispatched.  
+j. Agreements (viz. shareholder agreement(s), joint venture agreement(s), family settlement 
+agreement(s) (to the extent that it impacts management and control of the listed entity), 
+agreement(s)/treaty(ies)/contract(s) with media companies) which are binding and not in 
+normal course of business, revision(s) or amendment(s) and termination(s) thereof.  
+k. Disclosure of divergence in the asset classification and provisioning by bank where reporting is 
+required to Stock Exchanges as per applicable guidelines prescribed by Reserve Bank of India as 
+may be amended from time to time.  
+l.    Any Other information which may be considered by the Chief Investor Relations Officer (‘CIRO’) 
+in consultation with Compliance Officer (‘CO’).  
+   
+IV. “Generally Available Information ” means information that is accessible to the public on a non -
+discriminatory basis and shall not include unverified event or information reported in print or 
+electronic media  
+ 
+V. “Legitimate purpose ” shall mean sharing of UPSI  in the ordinary course of business by an insider 
+in performance of their respective obligations/duties with partners, collaborators, lenders, 
+customers, suppliers, merchant bankers, legal advisors, auditors, insolvency professionals or other 
+advisors or c onsultants, subject to the condition that such sharing has not been carried out to 
+evade or circumvent the prohibitions of PIT regulations.  
+ 
+While sharing information for legitimate purpose, the ins ider should consider factors such as, 
+whether the information is being shared for a bona fide business need, the commercial rationale 
+for the sharing of information, whether the information shared is relevant to the purpose/usage 
+of the same, etc.  
+ 
+VI. “Insider”  means any person who is a connected person or in possession of or having access to 
+UPSI . 
+ 
+VII. “Quiet/Silent Period” shall mean the period from the close of last day of any financial period 
+for which results are required to be announced by the Bank till the time of stock exchange filing 
+for the earnings released by the Bank.  
+3. ADMINISTRATION  
+ 
+Principles of Fair Disclosure for purposes of Code of Practices and Procedures for Fair 
+Disclosures of Unpublished Price Sensitive Information : 
+ 
+CIRO to deal with dissemination of information and disclosure of UPSI . The duties of the C IRO 
+shall inclu de, but not limited to the following:  
+ 
+ 
+Au Small Finance Bank Lim ited 
+CODE OF FAIR DISCLOSURE AND CONDUCT  (SECTION I)  
+POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE (SECTION II)  5 
+ 
+i. Prompt public disclosure of UPSI  that would impact price discovery no sooner than credible 
+and concrete information comes into being in order to make such information generally 
+available.  
+ 
+ii. Uniform and universal dissemination of UPSI  to avoid selective disclosure.  
+ 
+iii. Prompt dissemination of UPSI  that gets disclosed selectively, inadvertently or otherwise to 
+make such information generally available.  
+ 
+iv. Appropriate and fair response to queries on news reports and requests for verification of 
+market rumors by regulatory authorities.   
+ 
+v. Ensuring that information shared with analysts and research personnel is not UPSI . 
+ 
+vi. Developing best practices in line with SEBI regulations that transcripts or records of 
+proceedings of meetings with analysts and other investor relations conferences , wherever 
+applicable, being made available on the official website to ensure official confirmation and 
+documentation of disclosures made.   
+ 
+vii. Handling of all UPSI  on a need -to-know basis.  
+ 
+viii. Due notice shall be given to such person in  receipt of UPSI  pursuant to a “ legitimate 
+purpose ” who shall be considered an “ insider ” for purposes of PIT regulations to maintain 
+confidentiality of such UPSI  in compliance with PIT regulations.  
+ 
+  
+ 
+Au Small Finance Bank Lim ited 
+CODE OF FAIR DISCLOSURE AND CONDUCT  (SECTION I)  
+POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE (SECTION II)  6 
+ 
+SECTION II  
+4. POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE  
+ 
+The term ‘legitimate purposes’ includes sharing of Unpublished Price Sensitive Information 
+(“UPSI” ) in the ordinary course of business on a need to know basis,  with Bank’s collaborators, 
+lenders including prospective lenders, customers, suppliers, merchant bankers, legal advisors, 
+auditors, credit rating agencies, insolvency professionals, Registered Valuers  or other advisors, 
+service providers  or consultants, provided that such sharing has not been carried out with a view 
+to evade or circumvent the prohibi tions of the SEBI (Prohibition of Insider Trading) Regulation, 
+2015 and amendment made therein form time to time ( “PIT Regulations” ). 
+5. LEGITIMATE PURPOSE  
+ 
+Legitimate purpose shall mean sharing of UPSI in the ordinary course of business by an insider in 
+performance of their respective obligations/ duties subject to the condition that such sharing has 
+not been carried out to evade or circumvent the prohibitions of PIT Regulations.  
+ 
+While sharing information for legitimate purpose, the insider should consider factors such as:  
+- whether of such UPSI is in the ordinary course of business of the Bank;  
+- whether sharing of such UPSI is in the interests of the Bank or in furtherance of a genuine 
+commercial purpose; and  
+- whether the nature of UPSI being shared is commensurate with the purpose for which access 
+is sought to be provided to the recipient.  
+ 
+Any information that ma y be classified as UPSI would be dealt with b y the Dir ectors and Emplo yees 
+of the Bank on 'Need to Know' basis onl y. The UPSI shall b e shared only in furtherance of 
+"legitimate purposes" which shall include th e following and shall be in compliance with the PIT 
+Regulations and the Code of Fair Disclosure and Conduct of the Bank:  
+ 
+- performance of duties; or  
+- discharge of l egal obligations; or  
+- necessitated b y any regulator y/statutory obligations / orders; or  
+- in the ordinar y cours e of business b y Designated Persons or authorised p erson with the 
+existing or proposed partners , collaborators , lenders , customers, suppliers , merch ant 
+bankers , legal advisors, auditor s, insolvenc y professionals or other ad visors o r consultants,  
+- for any other genuin e or reasonable purpose as ma y be determined  
+6. ISSUE OF NOTICE TO THE RECIPIENT OF UPSI  
+ 
+Any person in receipt of UPSI pursuant to such a ‘legitimate purpose’ would be considered an 
+‘insider’, and due notice (through physical or electronic mode) shall  be given to these ‘insiders’ to 
+maintain confidentiality of such UPSI in compliance with the PIT Regulations. The event of sharing 
+of UPSI for Legitimate Purpose with insiders shall be maintained in Structured Digital Data base. 
+ 
+Additionally, structured digital database of recipients of UPSI shall be maintained by the Bank in 
+compliance with the requirements of the PIT Regulations.  
+7. MARKET RUMOURS  
+ 
+As per Regulation 30(11) of the Listing Regulations, (w.e.f. December 01, 2024), in case of Material 
+Price Movement in the equity shares, the Bank shall confirm, deny or clarify:  
+- any reported event or information in the mainstream media  
+- which is not general in nature and  
+- which indicates that rumour of an impending specific event or information is circulating 
+amongst the investing public.  
+ 
+ 
+Au Small Finance Bank Lim ited 
+CODE OF FAIR DISCLOSURE AND CONDUCT  (SECTION I)  
+POLICY FOR DETERMINATION AND SHARING OF INFORMATION FOR LEGITIMATE 
+PURPOSE (SECTION II)  7 
+ 
+The confirmation/denial/clarification shall be submitted as soon as reasonably possible but in any 
+case not later than twenty four hours from the trigger of material price movement.  
+ 
+If the Bank confirms the reported event or information, it shall also provide the current stage of 
+such event or information.  
+8. QUIET/SILENT PERIOD  
+ 
+During this period, no representative of the Bank shall engage in any formal or informal business 
+discussions with analysts or investors.  
+ 
+Exceptions:  
+ 
+i. answers to fact -based questions via e -mail by Bank representatives to analysts  and investors 
+upon request and data in this regard can be shared with them.  
+ii. the Bank may continue to issue press release for public consumption and communicate with the 
+media regarding its business, products or operations, including release or communications on 
+historical financial information.  
+iii. interactions with regulated entities for Debt/Borrowings (E.g. Lending Institutions, Credit Rating 
+Agencies etc.) are exclud ed from this period.  
+iv. in extraordinary circumstances, exceptions may occur at the Bank’s discretion based on need to 
+discuss rumors or matters already in public domain or otherwise, subject to prior approval from 
+MD&CEO of the Bank.  
+9. VOLUNTARY DISCLOSURE  
+ 
+Pursuant to SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and in terms 
+of Regulation 8 of SEBI (Prohibition of Insider Trading) Regulations, 2015, the Bank shall endeavor 
+to follow the best industry practices around disclosure to  Stock Exchanges of key business 
+parameters after the end of every quarter.  
+10. REVIEW OF THE POLICY  
+ 
+The Board shall review and amend this Policy  annually , pursuant to any amendment to the PIT 
+Regulations or as and when deemed appropriate.  
