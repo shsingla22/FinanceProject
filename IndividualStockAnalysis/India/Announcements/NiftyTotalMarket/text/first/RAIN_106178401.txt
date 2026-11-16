@@ -1,0 +1,185 @@
+ 
+RAIN INDUSTRIES LIMITED 
+Regd. Office: Rain Center 
+34, Srinagar Colony Hyderabad 500073 
+Telangana, India Phone : +91 (40) 40401234 
+Fax: + 91 (40) 40401214 
+Email:secretarial@rain-industires.com 
+Website: www.rain-industries.com 
+CIN:L26942TG1974PLC001693 
+ 
+ 
+ 
+RIL/SEs/2025        March 21, 2025 
+ 
+The General Manager 
+Department of Corporate Services 
+BSE Limited Phiroze Jeejeebhoy Towers 
+Dalal Street, Fort 
+Mumbai-400 001 The Manager 
+Listing Department  
+National Stock Exchange of India Limited Bandra Kurla Complex 
+Bandra East,  
+Mumbai – 400 051 
+ Dear Sir/ Madam, 
+  
+Sub: Transcript of Management Commentary on Annual Audited Financial Results for the 
+Quarter and Financial Year ended on December 31, 2024 – Reg. 
+ 
+Ref : Scrip Code: 500339 (BSE)    &   Scrip code : RAIN (NSE) 
+ 
+With reference to the above stated subject,  please find enclosed herewith the Transcript of Management Commentary on Annual Audited Financial Results (Standalone, Consolidated 
+and Segment) for the Quarter and Financial Year ended on December 31, 2024. 
+ This is for your kind information and record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, for Rain Industries Limited 
+ 
+ 
+ 
+ S. Venkat Ramana Reddy 
+Company Secretary 
+  
+ 
+ 
+Page  1 of 15 Sarang  
+Good  day ladies  and gentlemen.  
+Welcome  to the Rain Industries  Limited  Q&A  session  for the Fourth  
+quarter  of 2024.  My name is Saranga  Pani,  and I serve  as General  
+Manager  of Corporate  Reporting  and Investor  Relations  at Rain Industries  
+Limited.   
+The speakers  for today  are: 
+- Mr. Jagan  Reddy  Nellore  – Vice Chairman  of Rain Industries  Limited.   
+- Mr. Gerard  Sweeney  – President  of Rain Carbon  Inc.; and  
+- Mr. T. Srinivasa  Rao – Chief  Financial  Officer  of Rain Industries  Limited  
+ 
+Following  the Earnings  Presentation  and Management  Commentary  
+released  on 25 February  2025, we have  received  various  questions  from 
+investors  and analysts  concerning  recent  industry  developments  and their 
+potential  impact  on our company’s  performance.  RAIN  Management  will 
+be addressing  these  questions  during  today’s  call. 
+Before  we proceed,  the management  would  like to note that during  this 
+management  discussion,  we may make  forward -looking  statements  that 
+include  various  subjects  such  as outcomes,  trends,  targets,  and strategic  
+directions.  These  statements  rely on our current  projections  and are 
+subject  to risks and uncertainties  that could  cause  actual  results  to vary 
+materially  from those  suggested  by these  forward -looking  statements.  
+There  are certain  risk factors  that could  lead to significant  deviations  from 
+our predictions.   
+ 
+With that, we will now start the discussion  today  with Gerard  Sweeney…  
+Page  2 of 15  
+Sarang:  
+Gerry,  the first question  is regarding  our Carbon  segment ’s calcination  
+business . In the recent  earnings  commentary , management  mentioned  
+that there  has been  a functional  shift in China  for pricing  of both green  
+petroleum  coke  (or, GPC ) raw materials  and the finished  product,  calcined  
+petroleum  coke  (or, CPC ). Can you share  some  color  on this statement ?  
+ 
+Gerard  Sweeney  
+Thank  you for the question . We are observing  a structural  change  in 
+usage  of Green  Petroleum  Coke  as it relates  to its use in the production  
+of Lithium -ion batteries . With evolving  technologies,  Chinese  Battery  
+Anode  Material  (or BAM)  manufacturers  had started  using  ultra-low 
+sulphur , low-metallic  GPC  as a substitute  for natural  and synthetic  
+graphite  as BAM , when  supplies  were  low. Over  the last few years,  they 
+have  increased  their usage  of ultra-low sulphur GPC  and now even  moved  
+into using  medium -sulphur  GPC ’s with lower metallics.  The additional  
+demand  for these  materials  has pressured  the available  supply  of suitable  
+anode  GPC globally,  and driven  up GPC  prices , especially  in the last 
+couple  of quarters . This was obviously  led by China  as by far the largest  
+producer  of BAM  products  in the world . The rise in GPC  prices  has led, 
+albeit  with some  delay,  to corresponding  increases  in CPC  prices.  This 
+dynamic  has proven  advantageous  for RAIN,  given  that the US Gulf 
+region  is a leading  producer  of mid-sulfur  Anode  Grade  GPC.  Notably,  our 
+US Gulf Calciners  are positioned  to leverage  the established  supply  
+chains  and logistical  infrastructure.  This enables  them  to effectively  
+produce  US Gulf CPC,  thereby  supporting  both our direct  CPC  sales  and 
+facilitating  the improved  operation  of our CPC  blending  processes  in India.   
+Page  3 of 15  
+ Sarang:  
+Thanks,  Gerry  and to follow  on the last part of your response,  have  we 
+already  restarted  our CPC  blending  strategy  and, if so, how do you expect  
+it to contribute  going  forward ?  
+ 
+Gerard  Sweeney  
+The relief  received  in October  2024  did provide  us with the ability  to bring  
+non-Indian  CPC  into our Vertical  Shaft  Calciner  plant  in India,  which  is set-
+up in a Special  Economic  Zone . So, after a 6-year pause , we imported  our 
+first CPC  cargo  into India  that arrived  in early  Q1 2025  and have  begun  
+blending  it with our locally  manufactured , shaft  CPC  to meet  stringent  
+customer  specifications  for various  quality  parameters . These blending  
+operations  should  allow  for better capacity -utilization  at our plants  in India  
+and in the US, increasing  the absorption  of our fixed  expenses.  We will be 
+gradually  ramping  up our blending  of CPC  in the coming  quarters  as the 
+market  evolves  with incremental  production  of aluminium  both in India  and 
+in neighboring  markets.   
+ 
+Sarang:  
+Thanks  Gerry.  shifting  now to our Carbon  segment’s  Distillation  business , 
+coal tar supply  continues  to decrease  in Europe . Has this impacted  the 
+spreads  between  coal tar and coal tar pitch  (or, CTP), and where  do you 
+see CTP demand?   
+ 
+Gerard  Sweeney  
+Coal tar supply  continues  to be tight as we saw increased  production  
+outages  in Europe  during  2024.  Geopolitical  conflict  in Europe,  and the 
+Page  4 of 15 push  toward  EAF steel  production  versus  integrated  steel  mills continues  
+to limit the global  supply . While  this has put pressure  on the spreads , this 
+tends  to be a timing  issue . We are working  to build  more  sales  volumes  
+to replace  what  has been  lost in Europe  due to the energy  crisis . Volumes  
+are slowly  coming  back  as smelters  restart  some  idled  capacities.  One of 
+our coal tar supply  headwinds , which  is the shift to electric -arc furnace  
+steel  production , is also a tailwind  for us. You need  CTP made  from coal 
+tar to produce  the graphite  electrodes  used  in electric -arc steel  production.  
+So, this helps  improve  demand  for our CTP in the markets  we serve,  
+primarily  North  America  and Europe.   
+ 
+Sarang  
+Thanks,  Gerry.  Can you share  some  color  on the demand  and pricing  
+trend  for aluminum,  CPC  & CTP during  the quarter,  and how do you see 
+those  each  going  forward ?  
+ 
+ 
+Gerard  Sweeney  
+Aluminum  production  continue s to increase  across  the world, reaching  a 
+new high during  2024.  Despite  increased  production  of aluminum,  there  
+is no increase  in inventory  of aluminum  either  in LME warehouses  or in 
+other  markets . This is bullish  for continued  aluminum  production  growth . 
+In 2024,  most  the aluminum  production  growth  came  once  again  from 
+China . In 2025  however , the aluminum  production  cap stipulated  by the 
+Chinese  Government  will curb further  expansion  of primary  aluminum . 
+Indonesia  is expected  to become  the new location  for aluminum  smelting  
+growth  in the coming  years . One project  is scheduled  to start in 2025.  With 
+healthy  and fairly  stable  LME prices  for aluminum,  we have  seen  that 
+smelters  have  been  able to absorb  cost increases  for other  raw materials,  
+Page  5 of 15 such  as alumina , in recent  quarters.  India  should  also contribute  to 
+increased  aluminum  production  in the next two years.  With continued  
+increase s in production  of primary  aluminum  outside  of China  during  the 
+next couple  of years,  we expect   an increase  in demand  for CPC  and CTP 
+outside  of China.   
+ 
+Sarang  
+Thanks,  Gerry.  What  steps  are we taking  to counter  the changing  
+dynamics  in the demand  for both of our Carbon  segment’s  main  raw 
+materials,  GPC  and Coal Tar?  
+ 
+ 
+Gerard  Sweeney  
+In terms  of CPC,  to meet  the increasing  demand  for CPC  from Asian  
+smelters,  we have  restarted  our CPC  blending  strategy  by producing  CPC  
+at our US calciners , where  supply  of raw materials  is available,  to blend  
+with CPC  produced  at our Indian  calciners . We have  made  the required  
+changes  to our supply  chain s to be in a position  to capitalize  on this aspect  
+during  the course  of 2025.  This measure  should  address  the changing  
+dynamics  in the calcination  industry.   
+In terms  of CTP,  we have  optimize d the operations  between  our North  
+American  facility  and our 2 European  facilities.  This primarily  relates  to 
+strategically  deciding  where  to distill  the in-bound  raw materials  which  we 
+move  in ocean  vessels , and to optimize  the out-bound  logistical  supply  
+chains  to our customers.  Additionally,  we recently  issued  a press  release  
+announc ing an addition  to our CTP capacity  in India , to grow  our global  
+footprint  in that important  market.  
+ 
+ 

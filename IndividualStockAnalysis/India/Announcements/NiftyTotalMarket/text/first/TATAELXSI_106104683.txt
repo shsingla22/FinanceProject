@@ -1,0 +1,87 @@
+The Listing Department  
+National Stock Exchange of India Ltd.  
+Exchange Plaza, Plot No. C -1, Block G  
+Bandra – Kurla Complex Bandra (East) 
+Mumbai – 400 051 
+Scrip Code: TATAELXSI  January 04, 2025 
+DGM – Corporate Relations 
+BSE Ltd.   
+Phiroze Jeejeebhoy Towers       
+Dalal S treet  
+Mumbai – 400 001 
+Scrip Code: 500408   
+Dear S irs, 
+Sub: P ress R elease - Tata Elxsi to Accelerate S DV A doption  for Next Generation  Mobility w ith 
+Qualcomm’s Snapdragon Automotive Platforms   
+Please find enclosed the Press Release titled  “Tata Elxsi to Accelerate SDV Adoption for Next 
+Generation Mobility with Qualcomm’s Snapdragon Automotive Platforms” . 
+This disclosure is made i n compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015. 
+This is for your informatio n and r ecords. 
+Yours faithfully, 
+For Tata Elxsi Limited 
+Cauveri S riram  
+Company S ecretary  & C ompliance Officer 
+Encl.: A s above 
+Tata Elxsi  to Accelerate SDV Adoption for Next Generation Mobility 
+with  Qualcomm’s Snapdragon Automotive Platform s 
+Highlights:  
+•Tata Elxsi aims to collaborate with Qualcomm to  create VSoCs for the Snapdragon Digit al
+C
+hassis , which will be utilized for cloud -native application development .
+•At CES 2025, Tata Elxsi will showcase a live demonstration of the company’s AVENIR ™ SDV
+suite of solutions integrated with Qualcomm Technologies’ Snapdragon Ride Flex SoC that
+implements a cloud- native and virtualized approach to automotive software development.
+Bengaluru, January 3, 2025 - Tata Elxsi,  Inc. has announced its plans to work with Qualcomm 
+Technologies, Inc. to develop and leverage  virtual models of Snapdragon® Digital Chassis ™ solutions 
+for cloud -native application development . Through the intended technology collaboration , which will 
+be demonstrated at the Consumer Electronics Show (CES) 2025,  Tata  Elxsi  will develop  a virtual  
+electronic control unit  (ECU) platform  for automakers  and Tier -1 suppliers  using Snapdragon virtual 
+system -on-chips (VSoCs) for  the next generation of mobility solutions for passenge r, commercial, and 
+oﬀ-highway vehicle segments.   
+Tata Elxsi  aims  to utilize  the S napdragon D igital C hassis  VSoCs  t o h elp  revolutionize  the  Software -
+Deﬁned Vehicle (SDV) development process, enabling R&D teams to accelerate software development 
+and validation. By reducing the dependency on hardware availabilit y, this initiative aims to streamline 
+and speed  up product  development  lifecycles,  ensuring that advanced  mobility  solutions  reach  the 
+market faster and more eﬃcientl y. 
+At CES 2025, Tata Elxsi will showcase this process using the company’s AVENIR ™ SDV suite of solutions 
+integrated with Qualcomm Technologies’ Snapdragon Ride ™ Flex SoC.  The demonstration will highlight 
+real-world use cases, including mixed -critical  workloads  for infotainment  and  advanced  driver 
+assistance systems.  
+“Our planned work  with Qualcomm  Technologies  reﬂects Tata Elxsi ’s leadership and investments in SDV 
+technologies  and the future of cloud- native  automotive  software  development . Tat a Elx si ’s AVE NIR 
+suite  with  Snapdragon Digital  Chassis  solutions  oﬀer  a high  performance, scalable  solution  for 
+automakers to realize next generation o f S DVs . This unique combination of world- class software and 
+system expertise, virtualised models and ready -to-adopt SDV software oﬀers OEMs a compelling and 
+future -ready path to SDVs  and next  generation  mobility,”  said Shaju  S, Vice  President  & Head  of 
+Transportation Business Unit , Tata Elxsi . 
+“Tata  Elxsi’s  demonstration  of enabling  Snapdragon  v irtual S oCs  f or e arly d evelopment i n a  c loud-
+native environment leveraging their AVENIR SDV suite oﬀers the developer community a cost eﬀective, 
+early access to target hardware and reduces time to market for new application development . Access 
+to leading edge , high performance heterogeneous compute environment in the cloud truly enables the 
+future of pre -and post -production approaches  to software development . It also facilitates continuous 
+ 
+updates of new features throughout the lifecycle of the vehicle , enabling our partners to deliver a rich 
+experience to the end consumer and build new business models ,” said Laxmi Rayapudi ,  V P  o f  
+Automotive Software Product Management , Qualcomm  Technologies, Inc.   
+ 
+# # #  
+About Tata Elxsi  
+Incorporated in 1989, Tata Elxsi  is amongst the world’s leading providers of design and technology 
+services in select industries, including Automotive, Media & Telecom, Healthcare, and Transportation. 
+Tata Elxsi  works with leading OEMs and suppliers in the automotive and transportation industries for 
+R&D, design, and product engineering services from architecture to launch and beyond. It combines 
+domain experience across Autonomous, Electric, and Connected vehicl e technologies and Software -
+deﬁned vehicles (SDV). It is supported by a worl dwide network of design studios, development centres, 
+oﬃces, and a global pool of over 13000 engineers and specialists.  
+For more information, visit  www.tataelxsi.com  
+Media Contact  
+Tata Elxsi  
+Hari Balan  
+Corporate Communications  
+Email:  media@tataelxsi.com  
+ 
+Qualcomm and Snapdragon products mentioned within this press release are oﬀered by Qualcomm 
+Technologies, Inc. and/or its subsidiaries.  
+Snapdragon, Snapdragon Ride and Digital Chassis  are trademarks or  registered trademarks of 
+Qualcomm Incorporated.  

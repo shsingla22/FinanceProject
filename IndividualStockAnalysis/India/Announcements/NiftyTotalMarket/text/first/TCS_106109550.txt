@@ -1,0 +1,231 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021 
+Corporate Identity No. (CIN): L22210MH1995PLC084781 
+ 
+TCS/BM/ 243/SE/2024- 25 
+ 
+January  9, 2025  
+ National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza, C -1, Block G,               P. J. Towers,       
+Bandra Kurla Complex, Bandra (East) ,   Dalal Street,  
+Mumbai -  400051                                                              Mumbai -  400001    
+Symbol -  TCS                                                              Scrip Code No. 532540  
+      
+Dear Sirs,  
+ Sub:    Press Release  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are enclosing herewith a copy of a Press Release which will be 
+disseminated shortly. The Press Release is self -explanatory.  
+ 
+The above information is also available on the website of the Company: www.tcs.com    
+ Thanking you, 
+ Yours faithfully,  
+For Tata Consultancy Services Limited   
+   Yashaswin Sheth  
+Company Secretary  
+ Encl: As above  
+ 
+ 
+Page 1 of 14 
+ 
+ 
+Ind-AS & IFRS ₹ 
+ 
+Strong TCV in a seasonally challenging Q3 positions TCS for Long -Term growth  
+- Revenue at ₹ 63,973  crore  | Growth of 5.6% YoY, + 4.5%  in CC  
+- Growth led by Consumer Business Group  (+1.1%),  Energy, Resources and Utilities 
+(+3.4%)  and Regional Markets (+40.9%)  
+- Growth Markets continue to lead: India (+70.2%) , Middle East & Africa (+15.0%),  
+Latin America (+7.0%), Asia Pacific (+5.8%)   
+- Operating Margin at 24.5% ; Net Margin at 19.4%  
+- Strong TCV at US$10.2 Billion, Book to Bill ratio of 1.4  
+MUMBAI, January 9, 2025:  Tata Consultancy Services (BSE: 532540, NSE: TCS) reported its 
+consolidated ﬁnancial results according to Ind AS and IFRS, for the quarter ending December 31, 2024.  
+ 
+Highlights of the Quarter Ended December 31, 2024  
+• Revenue at ₹ 63,973  crore , +5.6% YoY, +4.5% YoY in Constant Currency  
+• Operating Margin at 24.5 %; a decline of 50 bps  YoY*, sequential improvement of 40 bps  
+• Net Income at ₹12,38 0 crore , +5.5%  YoY* | Net Margin at 19.4%  
+• Net Cash from Operations at  ₹13,0 32 crore  i.e. 105. 3% of Net Income  
+• Workforce strength: 607,354 | LTM IT Services attrition rate at 13.0%  
+• Diverse and inclusive workplace: Women in the workforce:  35.3% |152 Nationalities  
+• Dividend per share: ₹ 76.00 including ₹ 66.00 as special dividend  | Record date 17/01/2025 | 
+Payment date 03/0 2/2025 
+*excludes settlement of legal claim  
+ K Krithivasan, Chief Executive Officer and Managing Director, said: “We are pleased with the excellent 
+TCV performance in Q3 which was well -rounded across industries, geographies and service lines 
+lending good visibility to long- term growth. BFSI and CBG returning to growth, continued stellar run of 
+Regional Markets and early signs of revival in discretionary spend in some verticals give us confidence 
+for the future. Our continuing investments in upskilling, AI/Gen AI Innovations and partnerships sets us up to capture the promising opportunities ahead.”  
+ Samir Seksaria, Chief Financial Officer, said: “In a quarter that saw significant cross -currency volatility, 
+TCS’s strong execution, cost management and deft currency risk management helped deliver healthy margin improvement and free cash flows. Disciplined investments in talent and infrastructure should lend good support to long- term business growth.”  TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 2 of 14 
+ 
+ 
+Milind Lakkad, Chief HR Officer,  said:  “We promoted over 25,000 associates this quarter which 
+brought the total promotions this financial year to more than 110,000. We continue to invest in employee upskilling and overall well -being. Our campus hiring for the year is going according to plan 
+and preparations are afoot to onboard a higher number of campus hires next year”.  
+ 
+Q3 FY25 Segment Highlights  
+Growth by Domain  
+Industry  Composition (%)  Y-o-Y 
+CC Growth  
+(%) Q3 FY24  Q3 FY25  
+ BFSI  31.7 30.5  0.9 
+ Consumer Business  15.7 15.3  1.1 
+ Life Sciences & Healthcare  10.9 10.1 - 4.3 
+ Manufacturing  8.7 8.4  0.4 
+ Technology & Services  8.4 8.0 - 0.4 
+ Communication & Media  6.7 5.8 - 10.6 
+ Energy, Resources and Utilities  5.7 5.6  3.4 
+ Regional Markets & Others  12.2 16.4  40.9 
+ Total  100.0  100.0   4.5 
+ 
+Growth by Markets  
+Geography  Composition (%)  Y-o-Y 
+CC 
+Growth 
+(%) Q3 FY24  Q3 FY25  
+ Americas        
+ North America  50.6 47.7 - 2.3 
+ Latin America  2.1 1.9  7.0 
+ Europe        
+ UK  16.4 16.6  4.1 
+ Continental Europe  15.0 13.9 - 1.5 
+ Asia Pacific  7.8 7.8  5.8 
+ India  6.1 9.8  70.2  
+ MEA  2.0 2.3  15.0  
+ Total  100.0 100.0 4.5 TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 3 of 14 
+ 
+ 
+Services:  
+Clients prioritized initiatives that accelerated technology modernization, factory of the future, 
+business transformation, technology simplification and sustainability.  
+Cyber Security, AI.Cloud  and TCS Interactive led the growth this quarter.  
+Win themes across key deals involved manufacturing IT operations, managed services, Operating model transformation, vendor consolidation, CX transformation, legacy modernization, and Gen AI led transformation.  
+With increased regulatory scrutiny and legislative action, responsible AI adoption is top of mind for our clients. We have launched an innovative offering, TCS 5A Framework for Responsible AI with our partner AWS. This is the first of its kind in the industry. It helps identify and mitigate AI risks holistically. 
+• AI.Cloud : Gen AI/AI and Cloud services continued to see significant growth for us this 
+quarter. Clients are investing in Agentic AI adoption, building robust data foundation and taking a value chain -based approach to AI and Gen AI led transformation. We actively 
+engaged with clients on AI/Gen AI led software engineering, legacy modernization and 
+AI.Ops.  We saw an increase in successful production deployment of AI/Gen AI engagements leading to greater business certainty and confidence for our clients. Cloud  services continued 
+to see good traction in legacy Modernization, Data Platform Modernization and Technology Landscape Simplification.  
+• Cyber Security : Cyber Security services and solutions saw strong growth. Growth was led by 
+Technology, Software and Services and BFSI industry units. Clients continued to focus on 
+Identity and Access Management, Governance, Risk & Compliance (GRC), Managed 
+Detection & R esponse (MDR) and Cloud Security. We are also seeing good traction in Secure 
+Gen AI and vulnerability management.  
+• TCS Interactive : TCS interactive services saw good traction this quarter. BFSI and CBG led 
+growth in industry segments.  Businesses and marketers are investing in personalization, data harmonization, marketing operations, and orchestrate the appropriate technology and data foundations. To capitalize on these opportunities, we continue to invest in creative 
+design, content services, leading technology partnerships, Gen AI solutions, and niche talent development to remain future -ready and relevant.  
+• IoT & Digital Engineering: IoT & Digital Engineering continues to see steady investments in Factory of the Future (Smart Manufacturing including Operational technology (OT) modernization), IoT Enabled Connected Services & Assets and Digital Thread. This quarter saw a good number o f large deals for our services. Key services that saw traction included 
+intelligent product engineering design, support and services, Manufacturing IT systems and Industry 4.0. Demand is growing for integrating AI & Gen AI with est ablished services.  
+• Enterprise Solutions : Clients continue to invest in their digital core ERP modernization. They 
+are partnering with TCS in their business and CX transformation journey for solutions in supply chain optimization, claims modernization, sustainability and reimagining sales & serv ice channels. Gen AI is an area of interest across industries. Our transformation 
+approach, contextual knowledge and industry pre -configured solutions including TCS TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 4 of 14 
+ 
+Crystallus ™ are enabling customers to accelerate their growth and transformation journeys. 
+BFSI, TSS and CBG led growth in Industry segments.  
+• Cognitive Business Operations : In this quarter, we saw multiple large wins across end- to-
+end IT IS services, Digital Workplace, Data Center, Network, Customer Experience, HR and 
+Finance. Key themes fueling growth are operating model transformation, Vendor Consolidation, Customer Experience, Gen AI adoption, First time outsourcing and Integrated o p e r a t i o n s .  S o m e  o f  t h e  d e a l s  w o n  w e r e  p r o a c t i v e  w i t h o u t  c o m p e t i t i o n .  C B G  a n d  B F S I  industry segments led growth.  
+ 
+Key Highlights  
+• Partnered with Landis+Gyr  to integrate our award -winning enterprise -level energy and 
+emission management system TCS Clever Energy
+TM with their  advanced smart metering and 
+grid management technologies, creating a comprehensive energy management solution for 
+utilities. The partnership will enable utilities to meet the complex energy demands of their commercial and industrial clients while oﬀering them advanced tools to optimize energy usage 
+and achieve sustainability targets.  
+• Extended partnership with Telenor Denmark (TnDK) , the second largest mobile operator in 
+the Danish market, to provide ITIS managed services, handling TnDK’s IT infrastructure from its delivery centre in Europe over the next ﬁve years , to deliver signiﬁcant operational cost 
+reductions and improved IT infrastructure . 
+• Selected by  Bank of Bhutan to modernize the bank’s digital core for enhanced customer 
+service. TCS will implement its TCS BaNCS ™ Global Banking Platform  to help the bank optimize 
+operations and seamlessly integrate with the various public services within the digital ecosystem of the country.  
+• S
+igned a multi -year deal to help Air France -KLM , to become the most data -centric airline group 
+in the world.  TCS will modernize the airline group's data by moving it to cloud  and this shift 
+will help Air France -KLM exit data centers and harness the strength of the cloud, supporting a 
+sustainable and adaptive aviation industry. The new data architecture will enable the use of data to enhance operations, drive decisions, improve functionality, and gain eﬃciency.  
+• E
+xtended contract with SPARSH , to continue to streamline and enhance pension services for 
+30 Lakh Plus defence pensioners in India . TCS has achiev ed signiﬁcant reductions in pension 
+processing times and implementing the One Rank One Pension (OROP) scheme, beneﬁting 1.8 million pensioners . 
+• Jabil , a leading engineering, manufacturing, and supply chain solutions company has selected 
+TCS as a partner to further solidify its digital transformation agenda. TCS will support the 
+simpliﬁcation of manufacturing IT systems to better rationalize, streamlin e and secure Jabil’s 
+manufacturing applications ecosystem and enterprise architecture for operational eﬃciencies. 
+This project will allow Jabil to focus and invest in its core competencies . 
+• Secured a 15 -year contract with Ireland’s Department of Social Protection (DSP) to implement 
+and support the country’s new Auto Enrolment Retirement Savings Scheme, known as the “My Future Fund.” This initiative will provide a comprehensive, end- to-end digital solution for 
+automatic enrolment of nearly 800,000 workers in Irelan d.   TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 5 of 14 
+ 
+• Selected by Canada’s largest worker compensation board, Workplace Safety and Insurance 
+Board (WSIB) , as a strategic partner to transform the enterprise quality assurance landscape. 
+As part of the expanded partnership, TCS will leverage its expertise in Guidewire services, 
+cloud, data, and AI to help WSIB realize its objective of delivering better, easier, and faster 
+services to workers and businesses in Ontario.  
+• Selected by Postnord Group AB , postal and logistics services company in Nordics as their 
+strategic partner to transform their operating model. TCS team helped establish the roadmap for the transformation and will now embark on the  ﬁrst phase of the journey - centralizing 
+operations in production. This will ensure best -in-class services and  continuous innovation, 
+deliver signiﬁcant productivity gains and superior user experiences.  
+• Entered a multi -year deal with a leading US life and annuities provider  to transform their  
+business operations with TCS’ AI -powered solutions and industry -proven operational 
+eﬃciency levers. As part of the partnership, TCS will leverage its extensive domain knowledge , 
+IP assets from its Cognitive Automation Platform, and a suite of AI/ML solutions, to help the 
+ﬁrm achieve straight through processing, improv e service quality and customer experience.  
+• Selected by global appliances manufacturer  for end -to-end managed services for 
+Applications, Infrastructure, and Cyber Security services globally. TCS will elevate the customer experience by deploying enterprise o bservability, spanning the entire business value chain and 
+automate  the process through the TCS ignio platform.  
+• Chorley Building Society  has partnered with TCS to transform its core banking and front -end 
+digital platform, using TCS BaNCS ™, a digital home lending solution for mortgage origination 
+and a mobile app to enhance user experience , support Chorley’s growth plans and improve 
+operational eﬃciency.  
+• TCS has been chosen by a leading Malaysian telecommunications provider  to transform their 
+wireline Enterprise and Wholesale Business Support Systems (BSS) to support their strategic business growth objectives, using a cloud -native platform powered by TCS HOBS and TCS 
+TwinX's AI -driven business simulation capabilities. This partnership  aims to enhance customer 
+experience, accelerate time- to-m a r k e t  f o r  n e w  p r o d u c t s  a n d  s e rv i c e s ,  o p ti m i z e  o p e r a ti o n s ,  
+and strengthen the provider's market share in Malaysia.  
+• A US-based telecom major  has entered a 5 -year strategic relationship with TCS to provide 
+managed services for speciﬁc solutions. We will leverage our investments in next gen AI 
+technologies and platform -based operations , including pre -conﬁgured and integrated 
+AI/GenAI solutions to drive Operating Model Transformation , enhance customer experience 
+and business agility for business customers across industries.  
+• Selected by a large UK-based investment platform provider  to enhance and manage the ir 
+digital platform for advisors and customers.  As part of the multi -year partnership, TCS will 
+implement a next -generation engineering-led operating model designed to enhance and 
+optimize digital platform capabilities to cater to the evolving business need s and elevate user 
+experiences. By leveraging advanced AI solutions, TCS will ensure proactive monitoring of the system health and enable self -healing. The expanded partne rship reﬂects TCS’ commitment to 
+delivering cutting- edge solutions to help the ﬁrm drive operational excellence, innovation, and 
+customer satisfaction. TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 

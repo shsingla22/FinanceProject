@@ -1,0 +1,119 @@
+ 
+ 
+Internal to Wipro  
+  
+ 
+ 
+March 24, 2025  
+ The Manager - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+  
+The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  
+ Dear Sir/Madam,  
+ 
+Sub: Press Release  
+ 
+Please find attached herewith copy of the Press Release which is being released today.  
+ Thanking you,  
+ 
+For Wipro Limited  
+ 
+ 
+ 
+ 
+M Sanaulla Khan  
+Company Secretary  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wipro Announces AI Agent Solutions Across the Healthcare Industry 
+Powered by Agentforce  
+ 
+Wipro’s agents for Agentforce will elevate efficiency and customer satisfaction at  
+healthcare companies   
+EAST BRUNSWICK, N.J. | BENGALURU, India – March 24 , 2025 : Wipro Limited (NYSE: WIT, 
+BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today 
+introduced innovative AI -driven autonomous agents for Agentforce. Wipro’s agents aim to 
+revolutionize experiences for patients, providers, payers, and healthcare companies while easing the heavy administrative burden across the industry. 
+Agentforce is the agentic layer of the Salesforce Platform for deploying autonomous AI agents 
+across any business function. Agentforce includes a set of tools to create and customize agents, 
+as well as a library of pre- built skills for any use case across sales, service, marketing and 
+commerce, MuleSoft, Tableau, Slack, partners and more.  
+Customers can now leverage Wipro’s deep expertise in Salesforce modernization capabilities to 
+address the business challenges of the healthcare industry by using Agentforce for:  
+• Simplifying onboarding and credentialing processes for healthcare provider networks, 
+significantly reducing delays and enhancing end- user experiences.  
+• Automating the verification of NPI (National Provider Identifier), CAQH ID (Council for 
+Affordable Quality Healthcare), Specialty, and Specialty Roles to create and update provider 
+records without manual intervention for lower operational costs, improved efficiencies, and 
+reduced errors in credentialing.  
+Additionally, Wipro's solutions for Agentforce address cross -industry use cases, such as customer 
+service and project management, offering comprehensive client summaries and  streamlined 
+project management tasks.  
+“Artificial intelligence is fundamentally reshaping the landscape of patient interactions, support, 
+and customer experience across the healthcare industry,” said Ziva Hallaji, Head of Salesforce 
+Practice, Wipro Limited . “The integration of Agentforce marks a pivotal shift in how organizations 
+function and build a cohesive strategy across their enterprise applications. Wipro, with its deep 
+Salesforce capabilities, offers the  foundation of trustworthy data and robust infrastructure for 
+simplifying processes, streamlining operations, and elevating patient experiences.”  
+“Wipro’s latest innovations are a demonstration of the company’s commitment to empowering 
+customers and solving individual business challenges, helping them to deliver customer 
+success,” said Steve Corfield, EVP & GM, Global Alliances, Channels & Emerging Products, Salesforce . “With Agentforce constantly evolving and expanding, we are excited to see what 
+Wipro’s customers can achieve on their journey as they realize the value of Agentforce.”  
+For more information on Wipro’s Agentforce recognition and solutions, please visit our partner 
+page here
+. 
+Salesforce, Agentforce, AppExchange, and others are among the trademarks of Salesforce, Inc.  
+ 
+ 
+ 
+ 
+  
+About Wipro Limited  
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and 
+consulting company focused on building innovative solutions that address clients’ most complex 
+digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, 
+engineering, and operations, we help clients realize their boldest ambitions and build future- ready, 
+sustainable businesses. With over 230,000 employees and business partners across 65 countries, we deliver on the promise of helping our clients, colleagues, and communities thrive in 
+an ever -changing world. For additional information, visit us at  www.wipro.com .
+ 
+Media Contact:  
+Wipro Media Relations  
+media- relations@wipro.com    
+Forward -Looking Statements  
+The forward- looking statements contained herein represent Wipro’s beliefs regarding future events, many 
+of which are by their nature, inherently uncertain and outside Wipro’s control. Such statements include, but 
+are not limited to, statements regarding Wipro’s growth prospects, its future financial operating results, and its plans, expectations and intentions. Wipro cautions readers that the forward looking statements contained herein are subject to risks and uncertainties that could cause actual results to differ materially from the results anticipated by such statements. Such risks and uncertainties  include, but are not limited to, risks and uncertainties regarding fluctuations in our earnings, revenue  and profits, our ability to generate and manage growth, complete proposed corporate actions, intense  competition in IT services, our ability to 
+maintain our cost advantage, wage increases in India, our ability  to attract and retain highly skilled 
+professionals, time and cost overruns on fixed- price, fixe d-time frame  contracts, client concentration, 
+restrictions on immigration, our ability to manage our international  operations, reduced demand for technology in our key focus areas, disruptions in telecommunication  networks, our ability to successfully complete and integrate potential acquisitions, liability for damages  on our service contracts, the success 
+of the companies in which we make strategic investments,  withdrawal of fiscal governmental incentives, political instability, war, legal restriction s on raising capital  or acquiring companies outside India, 
+unauthorized use of our intellectual property and general  economic conditions affecting our business and industry.  
+Additional risks that could affect our future operating results are more fully described in our filings with the United States Securities and Exchange Commission, including, but not limited to, Annual Reports on Form 20-F. These filings are available at www.sec.gov . We may, from time to time, make additional written and 
+oral forward- looking statements, including statements contained in the company’s filings with the Securities 
+and Exchange Commission and our reports to shareholders. We do not undertake to update any  forward-
+looking statement that may be made from time to time by us or on our behalf.  
+ 
+ 

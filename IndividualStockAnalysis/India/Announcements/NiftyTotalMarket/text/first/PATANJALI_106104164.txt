@@ -1,0 +1,103 @@
+ 
+ 
+ 
+ 
+ 
+Regd. Office : 616, Tulsiani Chambers, Nariman Point, Mumbai – 400021, Maharashtra  
+Phone : 022 22828172/69061600, E -mail : corporate@patanjalifoods.co.in, www.patanjalifoods.com  
+ 
+ 
+PFL/202 5                             January  03, 202 5 
+ 
+To 
+BSE Ltd.                                National Stock Exchange of India Ltd.,  
+Floor No. 25,                               Exchange Plaza,  
+Phiroze Jeejeebhoy Tower,                             Bandra -Kurla Complex,  
+Dalal Street,                               Bandra (E),  
+Mumbai – 400 001                              Mumbai – 400 051  
+ 
+BSE Scrip Code: 500368                             NSE Symbol: PATANJALI  
+ 
+ 
+Sub.: Details of Equity Shares De -materialized during the month of December , 2024  
+ 
+Dear Sir/Madam,  
+ 
+Kindly find enclosed herewith the detail s of equity shares dematerialized with National 
+Securities Depository Limited (NSDL)  and Central De pository Services  (India) Limited  (CDSL)  
+during the month of December , 2024, for your records.  
+ 
+ 
+Thanking you,  
+ 
+For Patanjali Foods Limited  
+ 
+ 
+ 
+Ramji Lal Gupta  
+Company Secretary  
+ 
+Encl.:  As above  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+PATANJALI FOODS LIMITED                                                                                            DATE : 03/01/2025
+REGISTER OF DEMAT REQUESTS (NSDL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO.  MEET.DATE         DRN NO.  DP ID.  CLIENT ID   QTY-RECD S.NO. FOLIO  CERTIFICATE NUMBERS     DISTINCTIVE NUMBERS   QTY-DEMT
+  S.NO.  RECT.DATE         DR DATE  FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    321 06/12/2024  10000000336396  IN303028 76991212         10     1                        302        2355-       2364         10
+      1 29/11/2024      28/11/2024  00000339
+                                    MARIA DE SOUZA
+------------------------------------------------------------------------------------------------------------------------------------
+    322 13/12/2024  10000000337752  IN303028 76994640          4     1                       1943      116785-     116788          4
+      2 13/12/2024      11/12/2024  00002054
+                                    MR SUBHASH  DHAUNDIYAL
+                                    SHANTI HIRAMANI DHAUNDIYAL
+------------------------------------------------------------------------------------------------------------------------------------
+    323 27/12/2024  10000000035733  IN301098 10837522          5     1                       3163      112620-     112624          5
+      3 26/12/2024      23/12/2024  00001433
+                                    HIRABAI MADHAVRAO PATIL
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :              3
+                                  No. of Inward Certificates        :              3
+                                  Shr/Deb in Deed                   :             19
+                                  Shr/Deb in Cert Entered           :             19
+====================================================================================================================================
+PATANJALI FOODS LIMITED                                                                                            DATE : 03/01/2025
+REGISTER OF DEMAT REQUESTS (CDSL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO. MEET.DATE     DRN NO.   DP ID CLIENT ID         QTY-RECD  S.NO. FOLIO    CERTIFICATE NUMBERS   DISTINCTIVE NUMBERS  QTY-DEMT
+  S.NO. RECT.DATE     DR DATE         FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    187 06/12/2024   11380284   41400 1304140011096041        15      1                1545             114100-     114114        15
+      1 04/12/2024 29/11/2024         00002574
+                                      LOPA DEVANG BHATT
+                                      DEVANG VASUDEV BHATT
+------------------------------------------------------------------------------------------------------------------------------------
+    188 06/12/2024   11380705   10600 1201060006153087         9      1                 499              91623-      91631         9
+      2 05/12/2024 30/11/2024         00000551
+                                      MRS ABAN JEREER KALYANIWALLA
+                                      VISTASP B SOPARIWALLA
+                                      BURJOR B SOPARIWALLA
+------------------------------------------------------------------------------------------------------------------------------------
+    189 13/12/2024   11386747   10900 1201090037250643         3      1                2032             117354-     117356         3
+      3 10/12/2024 05/12/2024         00002149
+                                      MR SUNIL SANTOSH KHANDELWAL
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :            3
+                                  No. of Inward Certificates        :            3
+                                  Shr/Deb in Deed                   :           27
+                                  Shr/Deb in Cert Entered           :           27

@@ -1,0 +1,136 @@
+ 
+ 
+  
+CAN FIN HOMES LIMITED  
+Registered Office No. 29/1, 1st Floor,  
+Sir M N Krishna Rao Road  
+Near Lalbagh West Gate, Basavanagudi  
+ Bengaluru – 560 004  
+     Tel: 080 -48536192; Fax: 26565746  
+e-mail: compsec@canfinhomes.com  
+Web: www.canfinhomes.com  
+CIN – L85110KA1987PLC008699  
+CFHRO SE CS LODR  56/2025  
+February 21, 2025                                                             
+ONLINE SUBMISSION  
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G  
+Bandra Kurla Complex  
+Bandra East  
+Mumbai – 400 051  
+ 
+NSE Scrip Code: CANFINHOME  
+ BSE Limited  
+Corporate Relationship Department  
+25th Floor, P J Towers  
+Dalal Street, Fort,  
+Mumbai – 400 001  
+ 
+BSE Scrip Code: 511196  
+ 
+Dear Sir /Madam , 
+ 
+Sub:  Selection  of System Integrator for Supply, Implementation and Maintenance of 
+Core Business  Solution, Infrastructure and Security Solution at Can Fin Homes 
+Limited  
+Ref:  
+ Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements )  
+Regulations, 2015.  
+ 
+--------------  
+ 
+With reference to the captioned subject, we wish to inform that the Board of Directors 
+approved the proposal for Selection of M/s IBM India Private Limited as System 
+Integrator for Supply, Implementation  and Maintenance of Core Business Solution, 
+Infrastru cture and Security Solution at Can Fin Homes Limited  through Circular 
+Resolution on 20/02/2025 . 
+ 
+Further, the details as required under Annexure 18 of SEBI Master Circular no. 
+SEBI/HO/CFD/PoD2/CIR/P/0155  dated November 11, 2024 read with  SEBI Circular 
+SEBI/HO/CFD/CFD -PoD-2/CIR/P/2024/185 dated December 31, 2024  is given below:  
+ 
+1.  Name of the entity to which 
+order(s)/contract(s) is awarded;  M/s IBM India Private Limited  
+2.  Whether order(s) / contract(s) is 
+awarded to domestic/international 
+entity   Indian Company .  
+3.  significant terms and conditions of  
+order(s)/contract(s) awarded, in 
+brief;  M/s IBM should deliver and manage the 
+Lending Solution (Loan Origination System 
+(LOS), Loan Management System (LMS) 
+including Collections), Document 
+Management System (DMS), Accounting, 
+Borrowing & Investment, Deposits, Risk 
+Management & Asset Liability Ma nagement 
+(ALM), Aadhaar Data Vault, Human 
+Resources Management System (HRMS), 
+Reporting Requirements   and underlying IT 
+infrastructure on Cloud (public and/or 
+private) with proper Data Centre /Disaster 
+Recovery setup and all environments 
+covering Developme nt, Testing including 
+System Integration Testing (SIT) , User 
+
+Acceptance Testing (UAT), Pre Production 
+and Production, Data Architecture, Cyber 
+Security, Desktop Management System 
+(DMS), Security information and event 
+management (SIEM), Security Operations  
+Center (SOC), Network Operations Center 
+(NOC), Software -Defined Wide Area 
+Network (SD -WAN), Directory 
+Services/Solution Integration with 
+enterprise -wide Privilege Identity & Access 
+Management (PIM, PAM) and enterprise -
+wide Database Access management 
+(DAM) , Ticketing, Change Management & 
+Project Management tool, API Manager, 
+Data Loss Prevention (DLP), Hardware 
+Security Module (HSM), DR drill activity as 
+required by CFHL, provisioning of required 
+number of Virtual Machines and Virtual 
+Network & load balance rs and all 
+applications/technology specified in the 
+scope of work as mentioned in the RFP.  
+4.  time period, if any, associated with 
+the order(s)/contract(s)  As per terms and conditions of the R equest 
+For Proposal (RFP) , the contract period is 7 
+years which consists of 12 months of 
+Implementation followed by 3 months of 
+warranty and 5 years & 9 months of 
+support and maintenance services and also 
+an optional period of 2 years (if 
+contracted).    
+5.  broad commercial consideration or 
+size of the order(s)/con tract(s);  Rs. 296.95 Crore for entire contract period 
+of 7 Years  as referred in point 4 above.  
+ 
+6.  whether the promoter/ promoter 
+group/group companies have any 
+interest in that entity to whom the 
+order(s)/contract(s) is awarded? If 
+Yes, nature of interest and details 
+thereof;   No 
+7.  whether the  same  would  fall  
+within  the related  party  
+transactio ns?  If  yes, whether the 
+same is done at “arm’s length”.  No 
+ 
+The above intimation is also being uploaded on the website of the Company 
+www.canfinhomes.com   
+ 
+This is for your kind information and  record.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Can Fin Homes limited  
+ 
+ 
+ 
+Suresh S Iyer  
+Managing Director & CEO  
+(DIN: 10054487)  
+ 
+ 

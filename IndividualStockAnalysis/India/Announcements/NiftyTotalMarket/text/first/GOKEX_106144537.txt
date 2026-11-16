@@ -1,0 +1,401 @@
+ 
+ 
+GEL/SEC/2024-25/80 
+     
+February 10, 2025                                                                    
+                    
+BSE Limited                                                                       National Stock Exchange of India Limited 
+Phiroze Jeejeebhoy Towers                                           The Exchange Plaza 
+   25th Floor, Dalal Street,                                                   Bandra-Kurla Complex, Bandra (E), 
+Mumbai – 400 001                                                           Mumbai – 400 051  
+ Scrip Code – 532630                                                        Scrip Code: GOKEX 
+ 
+             Dear Sir / Madam, 
+ 
+ Sub: Integrated Filing (Financials) for the quarter and nine months ended December 31, 2024 
+ 
+ Pursuant to SEBI Circular No. SEBI/HO/CFD/ CFD-PoD-2/CIR/P/2024/185 dated December 31 
+2024, read with BSE Circular No. 20250102-4  and NSE Circular No. NSE/CML/2025/02 dated 
+January 2, 2025, we are submitting herewith the Integrated Filing (Financials) for the quarter 
+and nine months ended December 31, 2024.  
+  Since the XBRL is not available, only pdf is being filed.  
+ 
+Please take this in to your records. 
+  
+Thanking you,  
+Yours truly, For Gokaldas Exports Limited 
+  
+ Gourish Hegde 
+Company Secretary & Compliance Officer   
+ Encl: as above 
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+gokaldas exports ltd 
+E-mail : gokex@gokaldasexports .com WEBSITE : www.gokaldasexports .com 
+Statement of consolidated unaudited financial results for the quarter and nine months ended December 31, 2024 
+(in Rs. lakhs, except earnings per share) 
+s. Particulars Quarter ended 
+No. Dec 31, 2024 Sep 30, 2024 Dec 31, 2023 
+Unaudited Unaudited Unaudited 
+I Income 
+(a) Revenue from operations 98,776.76 92,900.48 55,156.93 
+(b) Other income 
+(i) Income from bank deposits and investment in mutual funds 772.97 870 06 740.00 
+(ii) Others 528.10 41109 80.69 
+Total Income 1,00,077.83 94,181.63 55,977.62 
+JI Expenses 
+(a) Cost of materials consumed 50,374.12 47,915.41 29,022.38 
+(b) Purchases of stock-in-trade 10.76 146.65 23.88 
+(c) Changes in inventories of work-in-progress and finished goods (4,516.15) 258.35 (4,598.17) 
+(d) Employee benefits expense 33,372.73 28,576.21 19,497.66 
+(e) Finance costs 1,916.53 1,798.40 546.42 
+(f) Depreciat ion and amortisation expense 3,043.26 2,878.03 2,149.84 
+(g) Job work charges 737.55 862.75 379.68 
+(h) Net (gain)/loss on foreign exchange transaction and translation (579.02) (34146) 21.15 
+(i) Other expenses 8,985.85 8,527.42 4,579.97 
+Total expenses 93,345.63 90,621.76 51,622.81 
+III Profit before tax (I -JI) 6,732.20 3,559.87 4,354.81 
+IV Tax expenses 
+(a) Current tax 1,553.70 952.30 1,477.98 
+(b) Adjustment of tax relating to earlier years (4.62) - (27.21) 
+(c) Deferred tax (credit)/charge 149.10 (208.54) (138.27) 
+Total tax expenses 1,698.18 743.76 1,312.50 
+V Net profit for the period/ year (JII-IV) 5,034.02 2,816.11 3,042.31 
+VI Other Comprehensive Income (net of tax) 
+(a) Items that will not to be reclassified to profit or loss: 
+Re-measurement gain/{loss) on defined benefit plan 103.46 (31.29) 90.30 
+(b) Items that will be reclassified to profit or loss: 
+Exchange differences on translation of foreign operations 1,383.3 I (144.57) -
+The effective portion of gain and loss on hedging instruments in a (2,605.18) (654.86) 619.00 
+cash flow hedge (net) 
+Total Other Comprehensive income/(loss) for the period/ year (1,118.41) (830.72) 709.30 
+VII Total Comprehen sive Income for the period/ year (V+VI) 3,915.61 1,985.39 3,751.61 
+VII I Paid-up equity share capital 3,573.33 3,570.42 3,032.58 
+(face value Rs. 5 each, fully paid up) 
+IX Other equity as per Balance Sheet 
+X Earnings per equity share (EPS) 
+(a) Basic (Rs.) 
+(b) Diluted (Rs.) 7 04 3.94 5.02 
+6.75 3.78 4.77 
+Regd. Office:# 25, 2nd Cross, 3rd Main, 
+Industrial Suburb, Yeshwanthpur, Bangalore 560 022. 
+Tel: +91 80 68951000, Fax: +91 80 68951001 Nine months ended 
+Dec 31, 2024 Dec 31, 2023 
+Unaudited Unaudited 
+2,84,890.4 1 1,56,646.60 
+2,291.57 2,277.64 
+1,050.68 177.41 
+2,88,232. 66 1,59,101.65 
+1,46,043.50 72,510.47 
+172.67 79.67 
+(3,697.91) 882.45 
+91,114.09 53,557.57 
+5,594.64 1,669.34 
+8,688.01 6,133.55 
+2,030.10 486.15 
+(896.34) (14.95) 
+25,281.52 12,191.49 
+2, 74,330.28 1,47,495.74 
+13,902.38 11,605.91 
+3,695.21 3,673.03 
+(4.62) (27.21) 
+(356.30) (708.82) 
+3,334.29 2,937.00 
+10,568.09 8,668.91 
+153.32 230.86 
+1,267.00 -
+(3,127.92) 1,886.73 
+(1,707.60) 2,117.59 
+8,860.49 10,786.50 
+3,573.33 3,032.58 
+14.94 14.30 
+14.31 13.59 
+E-Mail : info@gokaldasexports.com CIN : L 18101 KA2004PLC033475 Year ended 
+Mar 31, 2024 
+Audited 
+2,37,888.47 
+2,779.01 
+231.23 
+2,40,898. 71 
+1,24,286.25 
+100.44 
+( I 0,874.42) 
+77,759.44 
+3,634.01 
+8,877.44 
+822.29 
+(140.63) 
+20,534.47 
+2,24,999.29 
+15,899.42 
+4,438.45 
+(27.21) 
+(1,609.02) 
+2,802.22 
+13,097.20 
+41.41 
+(650.60) 
+1,746.22 
+1,137.03 
+14,234.23 
+3,169.15 
+1,25,964.85 
+21.55 
+20.51 
+014 
+gokaldas exports ltd 
+Notes to the consolidated unaudited financial results of Gokaldas Exports Limited for the quarter and nine 
+months ended December 31, 2024 
+1 The consolidated unaudited financial results of Gokaldas Exports Limited (the Company) and its subsidiaries 
+(cumulatively referred to as 'Group') for the quarter and nine months ended December 31, 2024 can be viewed on 
+the Company's website www.gokaldasexports.com or on the website of NSE (www.nse-india.com) and BSE 
+(www.bseindia.com). 
+2 The above financial results of the Group have been prepared in accordance with Indian Accounting Standards -
+Ind AS 34 on 'Interim Financial Reporting' as prescribed under Section 133 of the Companies Act, 2013 read 
+with Rule 3 of the Companies (Indian Accounting Standard) Rules 2015 and SEBI Circular No. 
+CIR/CFD /FAC/62/2016 dated 5 July 2016. 
+3 The Group's operating segments are established in the manner consistent with the products of the Group that are 
+evaluated regularly by the Chief Operating Decision Maker as defined in Ind AS 108 -'Operating Segments'. 
+The Group is engaged primarily in the business of 'manufacture and sale of garments' and there are no separate 
+reportable segments as per Ind AS 108. 
+4 On April 23, 2024, the Company had raised money by way of Qualified Institutional Placement ('QIP') and 
+allotted 77,41,935 equity shares of face value Rs 5/-each to the eligible qualified institutional buyers ('QIB') at a 
+price of Rs 775 /-per share (including a premium of Rs 770 per share) aggregating to Rs 60,000 lakhs. This issue 
+was made in accordance with SEBI (Issue of Capital and Disclosure Requirements) Regulation, 2018. 
+As per the QIP placement document , the Company has appropriate ly adjusted the expenses from Securities 
+Premium account. As of December 31, 2024, the Company has utilised 100% of the QIP proceeds towards the 
+purpose for which the funds were raised as per the QIP placement document. 
+5 As approved by the Board of Directors in their meeting held on June 19, 2024, Company entered into Investment 
+Agreement and Securities Subscription Agreement with BRFL Textiles Private Limited ("BTPL") for 
+Subscription of Optionally Convertible Debentures (OCDs). Upto the period ended December 31, 2024, the 
+Company has subscribed to multiple tranches aggregating to 11,00,000 OCDs (Face value of Rs. 1,000 each, 
+with a cumulative coupon rate of 20.35% per annum compounded annually) for a consideration of Rs. 11,000 
+lakhs. Additionally, the terms of the agreements provide certain rights and commitments on the Company 
+towards acquiring securities from existing shareholders of BTPL subject to certain conditions . Accordingly , the 
+Company has recognised the investment of Rs. 11,000 lakhs as on December 31, 2024. 
+The Company has also recognised derivative financial asset and liability against the call and put option as on 
+December 31, 2024 based on the investment agreement entered between the Company and BTPL. 
+6 During the period ended December 31, 2024, pursuant to approval of the board of directors of the Company, the 
+Company has provided corporate guarantees to financial institutions on behalf of BTPL amounting to Rs. 100 
+crores for securing the loans availed by BTPL. 
+7 At the meeting held on 7 February 2025, the Board of the Directors of the Company have approved the 
+acquisition of9,37,69,382 Equity shares and 1,57,89,474 Non-Cumu lative Compulsorily Convertible Preference 
+Shares ofBTPL, constituting 13.30% shareholding ofBTPL on a fully diluted basis, pursuant to the Investment 
+Agreement dated June 19, 2024 entered by the Company with BTPL and the existing shareholders ofBTPL. The 
+said transaction does not have any impact on the unaudited consolidated financial results of the Company for the 
+quruter and nine-month ended December 31, 2024. y,'1-POrfs 
+~ <.,.. 
+'t:, :?, -"n"\o{e -· 
+Regd. Office:# 25, 2nd Cross, 3rd Main, 
+Industrial Suburb, Yeshwanthpur, Bangalore 560 022. 
+Tel: +91 80 68951000, Fax: +91 80 68951001 ro 13a .. ,,,0 ;-,t Q. 
+0 
+E-Mail : info@gokaldasexports .com CIN : L 18101 KA2004PLC033475 
+gokaldas exports ltd 
+8 During the period ended December 31, 2024, the Company has subscribed to one equity share of USO 1,000 
+each, full paid up, of Gokaldas Exports Corporation (a wholly owned subsidiary of Gokaldas Exports Limited). 
+9 During the period ended December 31, 2024, employees exercised stock options aggregating to 341,666 equity 
+shares in accordance with the Company 's stock option scheme as approved by the Nomination and Remuneration 
+Committee. The Company has allotted 341,666 equity shares of Rs. 5 each, fully paid-up, during the period April 
+to December 2024. 
+10 The Company's wholly-owned subsidia°ry ("GokaldasExports Acharpura Private Limited") commissioned a new 
+manufacturing unit in the State of Madhya Pradesh during FY 2021-22. After commencing commercial 
+production, the subsidiary is eligible for certain capital-related government incentives in line with the 
+Government Order. As of December 31, 2024, the subsidiary company has filed the necessary 
+documents/information about the project with the concerned authorities for which approval is awaited. The 
+subsidiary shall recognize the eligible capital-related government incentives upon receipt of necessary approval 
+from the concerned authorities. Accordingly, the Group has not given the effect of the said government 
+incentives in the financial results for the period ending December 31, 2024. 
+11 For the period/ days of the respective covid lockdowns imposed by the government during FY 2020-21, the 
+Group had evaluated the various directions, circulars and orders issued by relevant government authorities 
+regarding payment of wages to employees , accordingly had paid certain ex-gratia amount to eligible employees. 
+Management evaluated further directions, orders issued by relevant government authorities and understand that 
+the matter should be settled based on mutual discussion between relevant stakeholders. Pending conclusion of 
+such matter, management believes that the Group continues to be in compliance with the directives and will 
+reassess this periodically. 
+12 The Indian Parliament had approved the Code on Social Security, 2020. The Ministry of Labour and 
+Employment has notified the draft rules under the Code on Social Security, 2020 on November 13, 2020 inviting 
+objections and suggestions, if any, from the stakeholders. The draft rules provide for operationalization of 
+provisions in the Code on Social Security, 2020 relating to Employees' Provident Fund, Employees' State 
+Insurance Corporation , Gratuity, Maternity Benefit, Social Security and Cess in respect of Building and Other 
+Construction Workers, Social Security for Unorganised Workers, Gig Workers and Platform Workers. The 
+Group will assess the impact and will give appropriate accounting treatment in its financial statements in the 
+period in which the Code on Social Security, 2020 (including the related rules framed thereunder) becomes 
+effective. 
+13 During the period ended December 31, 2024, an overseas customer of the Group's subsidiary company, filed a 
+plan for reorganisation of its business and creditors in the court ('reorganisation plan'). The Company has 
+aggregate outstanding receivable of Rs. 1,401.90 lakhs outstanding as of March 31, 2024. Upto the period ended 
+December 31, 2024, overseas customer has acknowledged and settled Rs. 142.46 lakhs as priority claim. The 
+subsidiary has adequate coverage from Export Credit Guarantee Corporation (ECGC) for this customer and on 
+July 19, 2024, subsidiary has filed a claim for the balances recoverable with ECGC. Based on assessment of 
+expected recovery the Group is carrying a provision on account of expected credit loss amounting to Rs. 140 
+lakhs. Management is confident ofrecovery of the outstanding balance as at December 31, 2024. 
+Regd. Office:# 25, 2nd Cross, 3rd Main, 
+Industrial Suburb, Yeshwanthpur, Bangalore 560 022. 
+Tel: +91 80 68951000, Fax: +91 80 68951001 
+E-Mail: info@gokaldasexports.com CIN: Ll 8101 KA2004PLC033475 ~ ...... ,~ .,,,,. .. -.,,;;. ·-· ·-· ~~:;TM 
+lntertek 
+gokaldas exports ltd 
+14 During the year ended March 31, 2024, the Group has acquired 'ATRACO Group' for an aggregate cash 
+considerat ion of Rs 45,815 lakhs (USD 55 million), in accordance with Ind AS 103, Business Combination 
+which resulted in recognition of Goodwill and other intangible assets in aggregate amounting to Rs 23,003 lakhs. 
+The acquisition was completed on January 3, 2024, through its wholly owned subsidiaries Gokaldas Exports 
+FZCO and Nava Apparels L.L.C. -FZ acquiring control of ATRACO Group entities in Dubai, Kenya and 
+Ethiopia through acquisition of shares and related assets. 
+15 During the year ended March 3 1, 2024, the Holding Company has acquired 100% shareholding in Matrix Design 
+and Industries Private Limited ("MDIL") for a consideration of Rs. 32,306 lakhs settled through a combination 
+of cash consideration of Rs. 7,557 lakhs and preferential allotment of 27,31,266 equity shares of Gokaldas 
+Exports Limited at a price of 906.14 per share to the sellers. The acquisition resulted in transfer of control w.e.f. 
+March 13, 2024 and was accounted for in accordance with Ind AS 103, Business Combination , resulting in 
+recognition of Goodwill and other intangible assets amounting to Rs 35,630 lakhs. 
+16 During the year ended March 31, 2024, the Company had executed certain agreements with Clean Max Enviro 
+Energy Solutions Private limited and Clean Max Celeste Private Limited (SPV), including a share purchase 
+agreement for investment in a renewable Captive Generating Plant. This involved an investment in a Special 
+Purpose Vehicle (SPV), a private limited company through an acquisition of26% stake through an investment of 
+Rs. 315 lakhs by way of an equity share capital contribution in the SPV, the arrangement also involves certain 
+power purchase arrangements, basis the evaluation of the terms of the aforementioned agreements, the Company 
+has assessed and classified this as an investment. 
+17 The statement of unaudited consolidated financial results for the quarter and nine months ended December 31, 
+2024, have been reviewed by the Audit Committee in their meeting on February 07, 2025, and approved by the 
+Board of Directors in their meeting held on February 07, 2025. 
+18 The Statutory Auditors have carried out a limited review of unaudited consolidated financial results for the 
+quarter and nine months ended December 31, 2024, in terms of Regulation 33 of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended. 
+19 Previous period/year's figures have been regrouped / reclassified, wherever necessary to confirm to the current 
+period/year's classification. 
+Foe Gokaltt"' Lim;ted 
+Sivarama~an Ganapathi 
+Vice Chairman and Managing Director 
+DIN: 07954560 
+Date: February 07, 2025 
+Place: Bengaluru 
+Regd. Office:# 25, 2nd Cross, 3rd Main, 
+Industrial Suburb, Yeshwanthpur, Bangalore 560 022. 
+Tel : +91 80 68951000, Fax: +91 80 68951001 
+E-Mail : info@gokaldasexports .com CIN : L 18101 KA2004PLC033475 014 
+s. 
+No. 
+I 
+II 
+III 
+IV 
+V 
+VI 
+VII 
+VIII 
+IX 
+X gokaldas exports ltd 
+E-mail : gokex/algokaldasexports.com WEBSITE : www.gokaldasexports.com 
+Statement of standalone unaudited financial results for the quarter and nine months ended December 31, 2024 
+(in Rs. lakhs, except earnings per share) 
+Particulars Quarter ended Nine months ended 
+Dec 31, 2024 Sep 30, 2024 Dec 31, 2023 Dec 31, 2024 
+Unaudited Unaudited Unaudited Unaudited 
+Income 
+(a) Revenue from operations 62,522.48 63,234.48 54,490.31 1,82, 151.80 
+(b) Other income 
+(i) Income from bank deposits and investment in mutual funds 771.74 868.59 739.77 2,287.89 
+(ii) Others 1,779.34 1,586.80 508.60 4,414.64 
+Total Income 65,073.56 65,689.87 55,738.68 1,88,854.33 
+Expenses 
+(a) Cost of materials consumed 33,123.98 29,834.74 28,676.11 91,241.52 
+(b) Purchases of stock-in-trade . 124.49 . 124.49 
+(c) Changes in inventories of work-in-progress and finished goods (4,251.30) 1,352.32 (4,435.93) (4,805.64) 
+(d) Employee benefits expense 22,392.87 20,094.64 18,910.14 62,400.35 
+(e) Finance costs 526.20 405.77 525.23 1,516.15 
+(f) Depreciation and amortisation expense 2,018.17 1,907.39 2,010.08 5,738.24 
+(g) Job work charges 134.12 528.16 376.75 747.39 
+(h) Net (gain)/loss on foreign exchange transaction and translation (5 I 0.41) (137.70) 20.26 (636.39) 
+(i) Other expenses 5,149.02 5,539.63 4,396.61 15,519.47 
+Total expenses 58,582.65 59,649.44 50,479.25 1, 71,845.58 
+Profit before tax (I -10 6,490.91 6,040.43 5,259.43 17,008.75 
+Tax expenses 
+(a) Current tax 1,243.70 827.65 1,477.97 3,075.21 
+(b) Adjustment of tax relating to earlier years (4.62) . (27.21) (4.62) 
+(c) Deferred tax (credit)/charge 310.63 (50.28) (98.75) 85.92 
+Total tax expenses 1,549.71 777.37 1,352.01 3,156.51 
+Net profit for the period / year (III-IV) 4,941.20 5,263.06 3,907.42 13,852.24 
+Other Comprehensive Income (net of tax) 
+(a) Items that will not to be reclassified to profit or loss: 
+Re-measurement gain/(loss) on defined benefit plan 90.00 (67.13) 90.00 112.87 
+(b) Items that will be reclassified to profit or loss: 
+The effective portion of gain and loss on hedging instruments (2,168 60) (610.49) 618.96 (2,646.97) 
+in a cash flow hedge (net) 
+Total Other Comprehensive income/(loss) for the period/ year (2,078.60) (677.62) 708.96 (2,534.10) 
+Total Comprehensive Income for the period/ year (V+Vl) 2,862.60 4,585.44 4,616.38 11,318.14 
+Paid-up equity share capital 3,573.33 3,570.42 3,032.58 3,573.33 
+(face value Rs. 5 each, fully paid up) 
+Other equity as per Balance Sheet 
+Earnings per equity share (EPS) 
+(a) Basic (Rs.) 6.91 7.37 6.44 19.59 
+(b) Diluted (Rs.) 6.62 7.06 6.12 18.76 
+Regd. Office:# 25, 2nd Cross, 3rd Main, 
+Industrial Suburb, Yeshwanthpur, Bangalore 560 022. 
+Tel: +91 80 68951000, Fax: +91 80 68951001 
+E-Mail: info@gokaldasexports.com CIN: L 18101 KA2004PLC033475 Dec 31, 2023 
+Unaudited 
+1,55,628.0 I 
+2,277.16 
+1,262.76 
+1,59,167.93 
+72,121.26 
+. 
+1,133.85 
+52,465.31 
+1,602.86 
+5,781.57 
+479.20 
+(15.89) 
+11,794.66 
+1 ,45,362.82 
+13,805.11 
+3,673.03 
+(27.21) 
+(406.99) 
+3,238.83 
+10,566.28 
+229.43 
+1,900.51 
+2,129.94 
+12,696.22 
+3,032.58 
+17.43 
+16.57 Year ended 
+Mar 31, 2024 
+Audited 
+2, 13,906.28 
+2,777.90 
+1,696.77 
+2,18,380.95 
+1,02, 772.41 
+. 
+(3,000.23) 
+70,638.29 
+2,416.43 
+7,879.38 
+711.46 
+(76.93) 
+17,344.25 
+1,98,685.06 
+19,695.89 
+4,438.45 
+(27.21) 
+(1,131.24) 
+3,280.00 
+16,415.89 
+I 19.76 
+1,756.21 
+1,875.97 
+18,291.86 
+3,169.15 
+1,30,987.6 1 
+27.01 
+25.70 

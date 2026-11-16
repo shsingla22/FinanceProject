@@ -1,0 +1,154 @@
+ 
+ 
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411 016, Maharashtra, India   
+CIN - L72300PN1990PLC056696  
+Tel:  +91 (20) 670 3 5555  | Fax - +91 (20) 6703 6003 | E-mail - info@persistent.com  | Website - www.persistent.com   
+ 
+ 
+NSE & BSE / 202 4-25 / 220 
+ 
+January 15, 202 5 
+ 
+The Manager  
+Corporate Services  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (E), Mumbai 400 051  
+ 
+Ref: Symbol: PERSISTENT  The Manager  
+Corporate Services  
+BSE Limited  
+14th Floor, P J Towers, Dalal Street,  
+Mumbai 400 001  
+ 
+Ref: Scrip Code: 533179  
+ 
+Dear Sir/Madam,  
+ 
+Sub:  Press Release titled ‘Persistent Launches Contract AssIst Using Microsoft 365 Copilot to 
+Streamline Contract Management ’ 
+ 
+We wish to inform you that the Company has made a press release dated January 15, 202 5, titled 
+‘Persistent Launches Contract AssIst Using Microsoft 365 Copilot to Streamline Contract Management ’. 
+ 
+A copy of the Press Release is enclosed for your reference.  
+ 
+This is for your information and records.  
+ 
+Please acknowledge the receipt.  
+ 
+Thanking you,  
+ 
+Yours Sincerely,  
+For Persistent Systems Limited  
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.: A20507  
+ 
+Encl.: As above  
+ 
+© 2025  Persistent Systems Ltd. All rights reserved.  1  
+Persistent Launches Contract AssIst Using 
+Microsoft 365 Co pilot to Streamline Contract 
+Management  
+Leverages AI  for end -to-end transparency and insights  
+ 
+January  15, 202 5 
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE: 533179 and NSE: PERSISTENT), a global leader in Digital 
+Engineering and Enterprise Modernization, today announced the launch of Contract AssIst, an 
+AI-driven  contract management solution developed in collaboration with Microsoft. Powered by 
+Microsoft Azure, M icrosoft 365 Copilot , Microsoft Teams , and advanced AI technologies, 
+Contract AssIst simplifies workflows, enhances collaboration, and reduces operational 
+complexity, enabling enterprises to achieve greater efficiency and optimize costs .  
+Many enterprises struggle with tracking and managing their high volume of contracts from 
+various vendors, leading to inefficiencies and lost productivity. Contract AssIst leverages 
+Microsoft’s robust technology ecosystem to deliver  advanced contract  management capabilities . 
+Built on Azure AI, the solution ensures secure data handlin g, advanced search capabilities, and 
+seamless compliance. It integrates with M icrosoft 365 Copilot  and Microsoft Teams , providing 
+teams with real -time collaboration tools and AI -enabled  decision support, while advanced 
+models like GPT -3.5 and GPT -4 through Azure Open AI Service enhance contract analysis with 
+natural language processing. Observability tools  like Elastic and App lication  Insights ensure 
+scalability and transparency, making Contract AssIst a holistic  contract management  solution for 
+enterprise needs.   
+Addressing key challenges, Contract AssIst consolidate s workflows into a centralized dashboard  
+within Microsoft Teams . Its AI-powered chatbot enables conversational  queries and offers 
+intelligent  suggestions  within group chats , reducing delays  and optimizing  processes. Additional 
+
+ 
+© 2025  Persistent Systems Ltd. All rights reserved.  2 
+features include real -time version tracking, contract comparison, instant notifications, and 
+approval summaries.  
+Unlike other solutions on the market, which often rely on limited automation or standalone tools, 
+Contract AssIst distinguishes itself through its deep integration with Microsoft technologies and 
+its ability to deliver meaningful,  timely  intelligence . Its transparent and auditable workflows 
+enhance  internal  contract  management  compliance, mitigating risks and ensuring that  
+enterprises can optimize operations and make confident, data -driven decisions.  Additional k ey 
+benefits of Contract AssIst include:  
+\ Reduc tion in  communication overhead with up to a 95% decrease in email communication  
+\ Enhanced productivity, saving 20 –25 minutes per user daily through streamlined navigation 
+and workflows  
+\ Significant cost savings, reducing annual licensing expenses  
+Sandeep Kalra, Chief Executive Officer and Executive Director, Persistent  
+“At Persistent, our AI -led, platform -driven approach is central to solving complex  enterprise 
+challenges  with practical, scalable solutions.  ContractAss Ist, developed in collaboration with 
+Microsoft, exemplifies how we leverage innovative  technologies  to reimagine heavily manual 
+tasks with AI, such as contract management. This solution  is a result of our deep  partnership 
+with Microsoft and our shared vision of driving AI adoption to deliver measurable efficiencies 
+and tangible outcomes for our clients .” 
+Sangita Singh, G eneral Manager , ITES, Microsoft  India and South Asia  
+“Our collaboration with Persistent leverages the transformative power of AI to drive innovation 
+across industries, including contract management. ContractAssIst, built on Microsoft Azure and 
+powered by Microsoft 365 Copilot and Microsoft Teams, integrates M icrosoft's technology with 
+Persistent’s platform -driven approach to deliver intelligent, secure, and efficient solutions. 
+Together, we are empowering businesses across the globe to modernize operations, improve 
+collaboration, and achieve operational excel lence.”  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2025  Persistent Systems Ltd. All rights reserved.  3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Persistent  
+Persistent Systems (BSE & NSE: PERSISTENT) is a global services and solutions company delivering Digital Engineering and 
+Enterprise Modernization to businesses across industries. With over 23,200 employees located in 19 countries, the Company is 
+committed to innovation and client success. Persistent offers a comprehensive suite of services, including AI -enabled software 
+engineering, product development, data and analytics, CX transformation, cloud computing, and intelligent automation. The Com pany 
+has been recognized as the “Most Promising Company” of the Year by CNBC -TV18 at the 2023 India Business Leader Awards. 
+Persistent has achieved carbon neutrality, reinforcing its commitment to sustainability and responsible business practices. A s a 
+participant of th e United Nations Global Compact, the Company is committed to aligning strategies and operations with universal 
+principles on human rights, labor, environment, and anti -corruption, as well as take actions that advance societal goals. With 327% 
+growth in bra nd value since 2020, Persistent is the fastest -growing IT services brand in the 2024 Brand Finance India 100 Report.  
+www.persistent.com   
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+Media Contacts  
+Aarti Somaiya  Emma Handler  
+Persistent Systems (Global)  Persistent Systems (Global)  
++91 93237 42377  +1 617 633 1635  
+aarti_somaiya@persistent.com   emma_handler@persistent.com  

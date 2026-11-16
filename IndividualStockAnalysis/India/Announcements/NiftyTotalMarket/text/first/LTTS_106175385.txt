@@ -1,0 +1,163 @@
+ 
+Registered Office: L&T House, N. M. Marg, Ballard Estate, Mumbai - 400 001. INDIA                  CIN : L72900MH2012PLC232169  
+     Tel: +91 22 68925257  Fax: +91 2267525858  
+     L&T Technology Services is a subsidiary of Larsen & Toubro Limited  
+ 
+L&T Technology Services Limited  
+A.M. Naik Tower,6th Floor, L&T  Campus, 
+Gate No.3, Jogeshwari -Vikhroli Link Road,  
+Powai, Mumbai -400072.  
+www. ltts.com 
+ 
+           
+   
+   March 19, 2025 
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza, Bandra -Kurla Complex  Phiroze Jeejeebhoy Towers,  
+Bandra (East), Mumbai — 400 051.  Dalal Street, Mumbai  – 400001  
+NSE Symbol:  LTTS  BSE script Code:  540115  
+  
+ 
+ 
+ 
+Subject: Press Release  
+ 
+Dear Sir/Madam,  
+ 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are sending herewith a copy  of the Press Release titled  “L&T Technology 
+Services to Transform Railway Safety with AI -Powered TrackEi ™” which is self -explanatory.  
+ 
+This is for your information and record s. 
+ 
+ 
+Thanking You,  
+ 
+Yours sincerely,  
+ 
+For L&T Technology Services Limited  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prasad Shanbhag  
+Company Secretary & Compliance Officer  
+(M. No. A 30254 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                     IN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services   
+L&T Technology Services to Transform Railway Safety with AI -
+Powered TrackEi ™ 
+ 
+TrackEiTM to revolutionize track inspections in the Mobility segment with NVIDIA 
+JetsonTM - Powered AI for Real -Time Defect Detection  
+Santa Clara (CA, US), Bengaluru (India), March 19, 2025  –– L&T Technology Services Limited 
+(BSE: 540115, NSE: LTTS) , a global leader in engineering and technology services, today 
+announced the launch of TrackEi™, an AI -powered railway track inspection solution. Designed as 
+part of LTTS’ growing mobility portfolio, TrackEi ™ leverages the NVIDIA Jetson ™ platform for edge 
+AI and robotics  — to deliver real -time defect detection and, support predictive maintenance, 
+enhancing safety for rail networks worldwide.  
+The latest development follows a series of accolades recognizing LTTS’ leadership in rail innovation, 
+including winning the Etihad Rail Innovation Award  for its “Innovative Way to Detect Visible Rail 
+Defects in Real -Time.” TrackEi ™ will be showcased at the NVIDIA GTC 2025  AI Conference , 
+highlighting LTTS’ ongoing commitment to AI -driven transformation in transportation infrastructure.  
+Traditionally, rail inspection involved manual processes or slow -moving trolleys, which are time 
+consuming and sometimes fail to detect critical flaws in time to prevent derailments. TrackEi ™ 
+addresses this challenge by automating high -speed inspections at over 60 Miles Per Hour , utilizing 
+high-resolution cameras and laser profiling to identify issues such as broken rails, cracks, track 
+misalignments, and other structural defects . By integrating deep learning algorithms  powered  by 
+NVIDIA accelerated computi ng, TrackEi ™ delivers immediate actionable intelligence and 
+continuously improves detection accuracy over time.  
+The NVIDIA JetsonTM platform delivers high performance AI compute and sensor processing 
+capability for autonomous machines and robotics, accelerating deep learning inference  capabilities 
+and enabling TrackEi ™ to: 
+● Process massive amounts of high -speed image data  on the fly, reducing reliance on 
+cloud connectivity  
+● Perform complex machine vision tasks  with high accuracy via stroboscopic lights, thus 
+nullifying impact of variable lighting and weather conditions  
+● Continuously learn and adapt  from real -world data, ensuring sustained performance 
+improvement  
+Key Product Differentiators  
+1. Real -Time Defect Detection:  AI-driven algorithms analyze video feeds and sensor data in 
+milliseconds, enabling immediate alerts for anomalies.  
+2. Predictive Maintenance:  By aggregating inspection data over time, TrackEi ™ helps MoW 
+and operators have an intelligent prediction of when and where maintenance is needed, 
+minimizing downtime.  
+3. Scalable, Edge -Based Architecture:  Built on NVIDIA Jetson ™, TrackEi ™ operates at the 
+network edge, reducing latency and bandwidth requirements while ensuring high reliability . 
+
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                     IN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services  4. Seamless Integration:  The system can be retrofitted onto existing rolling stock/locomotive/ 
+inspection vehicles and easily integrated into standard railway management systems, 
+enabling faster adoption and return on investment.  
+5. Enhanced Safety & Sustainability:  By detecting defects early and optimizing maintenance 
+schedules, TrackEi ™ contributes to safer journeys, reduced fuel consumption, and lower 
+emissions.  
+“At LTTS, we are redefining railway safety by combining AI, machine vision, and edge computing to 
+create an intelligent, scalable inspection solution,” said Alind Saxena , Executive Director & 
+President - Mobility & Tech at L&T Technology Services . “With TrackEiTM running on the 
+powerful NVIDIA JetsonTM platform, rail operators can detect defects with unparalleled accuracy 
+while optimizing maintenance schedules and reducing downtime.”  
+The launch of TrackEi ™ builds on LTTS’ deep collaboration with NVIDIA, which recently included 
+the unveiling of a cutting -edge AI Experience Zone  at LTTS. This ongoing partnership underscores 
+LTTS’ commitment to driving innovation across industries by leveraging advanced AI technologies.  
+Accelerated by the NVIDIA JetsonTM platform, LTTS’ TrackEi ™ solution, having gone through  initial 
+trial at our Class -I Railroad customers in different variants, is currently undergoing testing and 
+evaluation at MxV Rail in Pueblo, CO, under the supervision of Dr. Anish Poudel, Scientist  
+(Research & Innovation ) and his research  team. MxV Rail is a wholly owned subsidiary of the 
+Association of American Railroads.  
+About L&T Technology Services Ltd  
+L&T Technology Services (LTTS) is a global leader in engineering and technology services. A listed 
+subsidiary of  Larsen & Toubro (L&T), we offer design, development, testing, and sustenance 
+services across products and processes.  
+ 
+Purposeful. Agile. Innovation.  is how we drive growth across the Mobility, Sustainability, and Tech 
+segments. Our customer base includes 69 Fortune 500 companies and 57 top ER&D companies 
+across industrial products, medical devices, transportation, telecom & hi -tech, and process 
+industr ies. Headquartered in India, we have over 23,460 employees across 22 global design centers, 
+30 global sales offices, and 108 innovation labs, as of December 31, 2024.  
+For additional information about L&T Technology Services log on  http://www.ltts.com/  
+ 
+Media Contact:  
+Aniruddha Basu                                                     
+L&T Technology Services Limited                        
+E: Aniruddha.Basu@LTTS.com  
+ 
+ 

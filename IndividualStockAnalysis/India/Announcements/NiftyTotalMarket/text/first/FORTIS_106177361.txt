@@ -1,0 +1,206 @@
+ 
+ 
+  
+ 
+ 
+ 
+FORTIS HEALTHCARE LIMITED  
+Regd. Office : Fortis Hospital, Sector 62, Phase – VIII, Mohali – 160062 
+Tel : 0172-5096001, Fax : 0172-5096221, CIN : L85110PB1996PLC045933  Fortis Healthcare Limited  
+Tower-A, Unitech Business Park, Block-F, 
+South City 1, Sector – 41, Gurgaon, 
+Haryana – 122 001 (India) 
+Tel   : 0124 492 1033 
+Fax  : 0124 492 1041 
+Emergency : 105010  
+Email  : secretarial@fortishealthcare.com 
+Website : www.fortishealthcare.com  
+  
+March 20, 2025 
+ 
+FHL/SEC/2024-25 
+ 
+The National Stock Exchange of India Ltd.  
+Scrip Symbol: FORTIS  BSE Limited 
+Scrip Code:532843  
+ 
+Sub: Proceedings and Voting Result under SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015. 
+ 
+Dear Madam/Sir, 
+ 
+We refer to our letter dated February 18, 2025, pertaining to the Postal Ballot Notice dated February 7, 
+2025, following resolutions have been approved with requisite majority through e-voting: 
+ 
+1. Approval of appointment of Mr. Leo Puri (DIN:01764813) as Director (an Independent & Non-
+Executive Director) of the Company.  
+ 
+2. To Recommend Payment of Commission/Remuneration to Chairman (Independent Director) 
+Till March 31, 2027. 
+ 
+3. To consider Amendment in the Articles of Association of the Company.  
+ 
+4. Proposal for acquisition of Shrimann Hospital at Jalandhar City and transactions in relation 
+thereto to be entered into by Fortis Hospotel Limited, Wholly Owned Subsidiary Company. 
+ 
+5. To consider raising debt through Fortis Hospotel Limited (“FHTL”), a wholly owned subsidiary 
+of the Company for meeting funding requirements, largely to finance the acquisition of 
+Shrimann Hospital and for its future growth/ capex requirements and to pledge, mortgage, 
+hypothecate and/or create charge on any assets / properties of FHTL. 
+ 
+6. To consider amendment in the Articles of Association of Agilus Diagnostics Limited 
+ 
+Please find enclosed Scrutinizer’s Report along with result of postal ballot in prescribed format.  
+ 
+This is for your information and records. 
+ 
+Thanking you, 
+ 
+Yours Sincerely, 
+For Fortis Healthcare Limited      
+ 
+ 
+ 
+Satyendra Chauhan 
+Company Secretary & Compliance Officer   
+ICSI Membership: A14783 
+ 
+1.
+2.
+3.
+4.
+5.
+6.
+1 General Info
+2 Scrutinizer Details
+3 Voting Results
+4 Resolutions3. Make sure that you have downloaded the latest Excel Utility from BSE Website to your local system.                                      XBRL Excel Utility
+Overview
+Before you begin
+Index
+Fill up the data in excel utility
+1. Overview
+The excel utility can be used for creating the XBRL/XML file for efiling of Voting Result
+XBRL filling consists of two processes. Firstly generation of XBRL/XML file and upload of generated XBRL/XML
+file to BSE Listing Center Website (www.listing.bseindia.com) .
+ 2.  Before you begin
+1. The version of Microsoft Excel in your system should be Microsoft Office Excel 2007 and above.
+2. The system should have a file compression software to unzip excel utility file.Import XBRL file
+Steps for Filing Voting Result
+5. Steps for Filing Voting Result
+I. Fill up the data: Navigate to each field of every section in the sheet to provide applicable data in correct
+format.  (Formats will get reflected while filling data.)  
+   - Use paste special command to paste data from other sheet.
+   - Use "Home" button (cntrl + H) to toggle between the sheets.
+II. Validating Sheets: Click on the ''Validate " button to ensure that the sheet has been properly filled and
+also data has been furnished in proper format. If there are some errors on the sheet, excel utility will prompt
+you about the same.
+III. Validate All Sheets: Click on the ''Home" button. And then click on "Validate All Sheet" button to ensure
+that all sheets has been properly filled and validated successfully. If there are some errors on the sheet, excel
+utility will prompt you about the same and stop validation at the same time. After correction, once again follow
+the same procedure to validate all sheets.4. Make sure that you have downloaded the Chrome Browser to view report generated from Excel utility
+5. Please enable the Macros (if disabled) as per instructions given in manual, so that all the functionalities of
+Excel Utility works fine. Please first go through Enable Macro - Manual attached with zip file.
+3. Index 
+Details of general information about company
+Voting Result By Companies
+Voting Result Format 
+4. Import XBRL file
+1. Now you can import and view previously generated XBRL files by clicking Import XBRL button on Genenral
+information sheet. 6. Kindly use this file in local system instead of OneDrive/shared drive.
+Because it may gives an error "Run-time error '52' : Bad file name or number" While clicking on textblock 
+button if files saved on OneDrive/shared drive.
+Scrutinizer Details
+7. Adding Notes:  Click on "Add Notes" button to add notes Excel Utility will not allow you to generate XBRL/XML until you rectify all errors. 
+IV. Generate XML : Excel Utility will not allow you to generate XBRL/XML unless successful validation of all
+sheet is completed. Now click on 'Generate XML'' to generate XBRL/XML file. 
+    - Save the XBRL/XML file in your desired folder in local system. 
+V. Generate Report : Excel Utility will allow you to generate Report. Now click on 'Generate Report'' to
+generate html report.   
+     - Save the HTML Report file in your desired folder in local system.     
+     - To view HTML Report open "Chrome Web Browser" . 
+     - To print report in PDF Format, Click on print button and save as PDF. 
+VI. Upload XML file to BSE Listing Center: For uploading the XBRL/XML file generated through Utility, login
+to BSE Listing Center and upload generated xml file. On Upload screen provide the required information and
+browse to select XML file and submit the XML.
+6. Fill up the data in excel utility
+1. Cells with red fonts indicate mandatory fields. 
+2. If mandatory field is left empty, then Utility will not allow you to proceed further for generating XML.
+3. You are not allowed to enter data in the Grey Cells.
+4. If fields are not applicable to your company then leave it blank. Do not insert Zero unless it is a mandatory
+field.
+5. Data provided must be in correct format, otherwise Utility will not allow you to proceed further for generating
+XML.
+6. Select data from "Dropdown list" wherever applicable. 
+
+Scrip code 532843
+NSE Symbol FORTIS
+MSEI Symbol NOTLISTED
+ISIN INE061F01013
+Name of the company Fortis Healthcare Limited
+Type of meeting Postal Ballot
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)20-03-2025
+Start time of the meeting
+End time of the meetingGeneral information about companyHome Validate
+ Import  XML
+Name of the Scrutinizer Mr. Mukesh Agarwal
+Firms Name M/s Mukesh Agarwal & Co.
+Qualification CS
+Membership Number F5991
+Date of Board Meeting in which appointed 18-02-2025
+Date of Issuance of Report to the company 20-03-2025Scrutinizer DetailsHome Validate
+
+Record date 14-02-2025
+Total number of shareholders on record date 239497
+a) Promoters and Promoter group
+b) Public
+a) Promoters and Promoter group
+b) Public
+No. of resolution passed in the meeting 6
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 235294117 100.0000 235294117 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 235294117 235294117 100.0000 235294117 0 100.0000 0.0000
+E-Voting 371288775 86.5412 370964864 323911 99.9128 0.0872
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 9000000 2.0977 9000000 0 100.0000 0.0000
+Total 429031205 380288775 88.6390 379964864 323911 99.9148 0.0852
+E-Voting 38940309 42.9649 38936967 3342 99.9914 0.0086
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 90632826 38940309 42.9649 38936967 3342 99.9914 0.0086
+Total Total 754958148 654523201 86.6966 654195948 327253 99.9500 0.0500
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions90632826Resolution (1)
+Resolution required: (Ordinary / Special) Special
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredApproval of appointment of Mr. Leo Puri (DIN:01764813) as Director (an Independent & Non-
+Executive Director) of the Company.
+Promoter and 
+Promoter Group235294117
+Public- 
+Institutions429031205
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes

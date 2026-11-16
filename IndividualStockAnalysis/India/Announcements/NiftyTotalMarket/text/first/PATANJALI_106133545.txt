@@ -1,0 +1,90 @@
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+PFL/202 5                           February  01, 202 5 
+ 
+To 
+BSE Ltd.                            National Stock Exchange of India Ltd.,  
+Floor No. 25,                           Exchange Plaza,  
+Phiroze Jeejeebhoy Tower,                         Bandra -Kurla Complex,  
+Dalal Street,                           Bandra (E),  
+Mumbai – 400 001                          Mumbai – 400 051  
+ 
+BSE Scrip Code: 500368                         NSE Symbol: PATANJALI  
+ 
+ 
+Sub.: Details of Equity Shares De -materialized during the month of January , 202 5 
+ 
+Dear Sir/Madam,  
+ 
+Kindly find enclosed herewith the detail s of equity shares dematerialized with National 
+Securities Depository Limited (NSDL)  and Central Depository Services (India) Limited (CDSL)  
+during the month of January , 202 5, for your records.  
+ 
+ 
+Thanking you,  
+ 
+For Patanjali Foods Limited  
+ 
+ 
+ 
+Ramji Lal Gupta  
+Company Secretary  
+ 
+Encl.:  As above  
+ 
+PATANJALI FOODS LIMITED                                                                                            DATE : 01/02/2025
+REGISTER OF DEMAT REQUESTS (NSDL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO.  MEET.DATE         DRN NO.  DP ID.  CLIENT ID   QTY-RECD S.NO. FOLIO  CERTIFICATE NUMBERS     DISTINCTIVE NUMBERS   QTY-DEMT
+  S.NO.  RECT.DATE         DR DATE  FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    324 07/01/2025  10000000306278  IN300214 73308871          5     1                       3162      110816-     110820          5
+      1 01/01/2025      26/12/2024  00001176
+                                    KAILASH GUPTA
+------------------------------------------------------------------------------------------------------------------------------------
+    325 07/01/2025  10000000683764  IN301549 17210685          1     1                       2030      117348-     117348          1
+      2 02/01/2025      31/12/2024  00002146
+                                    MR SHREE RAM KEDIA
+------------------------------------------------------------------------------------------------------------------------------------
+    326 24/01/2025  10000000076789  IN301143 11803674          1     1                       2266      118921-     118921          1
+      3 20/01/2025      17/01/2025  00002391
+                                    VIJAY P AGARWAL
+------------------------------------------------------------------------------------------------------------------------------------
+    327 24/01/2025  10000000082803  IN301604 13412917          2     1                        798      108762-     108763          2
+      4 23/01/2025      17/01/2025  00000862
+                                    MR DINESHCHANDRA C GANDHI
+                                    SHARDABEN D GANDHI
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :              4
+                                  No. of Inward Certificates        :              4
+                                  Shr/Deb in Deed                   :              9
+                                  Shr/Deb in Cert Entered           :              9
+====================================================================================================================================
+PATANJALI FOODS LIMITED                                                                                            DATE : 01/02/2025
+REGISTER OF DEMAT REQUESTS (CDSL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO. MEET.DATE     DRN NO.   DP ID CLIENT ID         QTY-RECD  S.NO. FOLIO    CERTIFICATE NUMBERS   DISTINCTIVE NUMBERS  QTY-DEMT
+  S.NO. RECT.DATE     DR DATE         FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    190 16/01/2025   11422282   29800 1202980000493612         9      1                2086             117657-     117665         9
+      1 13/01/2025 09/01/2025         00002205
+                                      MR S NAVANEETH PRABHU
+                                      JAGADISH S PRABHU
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :            1
+                                  No. of Inward Certificates        :            1
+                                  Shr/Deb in Deed                   :            9
+                                  Shr/Deb in Cert Entered           :            9
+====================================================================================================================================
