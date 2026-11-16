@@ -611,6 +611,46 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     assert (snap / "run.json").exists() and (snap / "SPINOFF_REPORT.md").exists()
 
 
+def test_backtest_runs_list_only_as_of_a_date_into_its_own_folder(tmp_path, monkeypatch):
+    import backtest as BT
+    rows = _rows()
+    texts = {"3": SCHEME}
+    monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
+    monkeypatch.setattr(SO, "load_filings", lambda path=None: rows)
+    monkeypatch.setattr(SO, "load_text", lambda r: texts.get(r["ann_id"], ""))
+    monkeypatch.setattr(SO, "concall_text", lambda sym: CALLS if sym == "ALPHA" else "")
+    monkeypatch.setattr(FA, "universe", lambda: {"ALPHA": "Alpha Industries Ltd.", "BETA": "Beta"})
+    monkeypatch.setattr(AZ, "_ai_available", lambda: False)
+    for name in ("OUT_DIR", "REPORT", "LATEST", "SITUATIONS", "MENTIONS", "HISTORY", "COVERAGE", "OFFERINGS"):
+        monkeypatch.setattr(AZ, name, tmp_path / "prod" / name)        # the production paths must stay untouched
+    monkeypatch.setattr(FN, "PNL", tmp_path / "pnl")
+    monkeypatch.setattr(FN, "CASH", tmp_path / "cash")
+    monkeypatch.setattr(FN, "PPT_DIR", tmp_path / "ppt")
+    monkeypatch.setattr(FN, "AR_DIR", tmp_path / "ar")
+    monkeypatch.setattr(FN, "LINKS", tmp_path / "ppt" / "_concall_links.csv")
+    monkeypatch.setattr(FN, "CONCALLS", tmp_path / "cc")
+    gt = tmp_path / "gt.csv"
+    gt.write_text("date,symbol,company,purpose,source,detail,isin,register_symbol,in_universe\n"
+                  "2026-09-15,ALPHA,Alpha Industries Ltd.,Demerger,bc,,,ALPHA,yes\n"
+                  "2026-11-20,ZETA,Zeta Ltd,Demerger,bc,,,ZETA,yes\n")                  # after the as-of date: unseen
+    monkeypatch.setattr(BT, "GT", gt)
+    monkeypatch.setattr(BT, "BACKTESTS", tmp_path / "bt")
+    r = BT.run_backtest(dt.date(2026, 1, 1), TODAY, "TEST", workers=2, quick=True)
+    folder = tmp_path / "bt" / "TEST"
+    assert r["folder"] == str(folder)
+    assert (folder / "SPINOFF_REPORT.md").exists() and (folder / "spinoff_latest.json").exists()
+    assert (folder / "SPINOFF_GROUND_TRUTH_CHECK.md").exists() and (folder / "BACKTEST_SUMMARY.md").exists()
+    assert not (tmp_path / "prod").exists()
+    sits = r["record"]["situations"]
+    assert sits[0]["symbol"] == "ALPHA" and "parent_financials" not in sits[0]   # list-only: no numbers
+    md = (folder / "SPINOFF_REPORT.md").read_text()
+    assert "## Confirmed demergers" in md and "### The parent, last three fiscal years" not in md
+    s = r["check"]["summary"]
+    assert s["register_demergers"] == 1 and s["captured"] == 1 and s["false_positives"] == 0   # ZETA is after the as-of date
+    summ = (folder / "BACKTEST_SUMMARY.md").read_text()
+    assert "# Backtest TEST" in summ and "| **ALPHA** |" in summ and "- none" in summ
+
+
 def test_call_only_scan_finds_indications_without_filings(monkeypatch):
     monkeypatch.setattr(SO, "concall_text", lambda sym: CALLS if sym == "GAMMA" else "")
     c = AZ.call_only_scan(["GAMMA", "DELTA"], exclude=set(), today=TODAY)

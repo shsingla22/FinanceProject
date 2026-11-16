@@ -502,7 +502,7 @@ def render_company(s: dict, heavy: bool) -> list[str]:
         links = s.get("call_links", {})
         A += ["*Calls read (36 months):* " + ", ".join(
             f"[{c}]({links[c]})" if links.get(c) else c for c in calls), ""]
-    if not heavy:
+    if not heavy or "parent_financials" not in s:       # a list-only run has no numbers
         return A + render_light_tail(s)
     # ---- the parent's numbers
     fin = s["parent_financials"]
@@ -944,9 +944,9 @@ def coverage_rows(sits: list[dict]) -> list[dict]:
         docs = s.get("docs", {})
         out.append({"symbol": s["symbol"], "confidence": s["confidence"][0],
                     "listing": s["listing"]["state"],
-                    "parent_pnl": "yes" if s["parent_financials"].get("available") else "no",
-                    "cash_flow": "yes" if s["cash_flows"].get("available") else "no",
-                    "pe": "yes" if s["pe"].get("pe") is not None else "no",
+                    "parent_pnl": "yes" if (s.get("parent_financials") or {}).get("available") else "no",
+                    "cash_flow": "yes" if (s.get("cash_flows") or {}).get("available") else "no",
+                    "pe": "yes" if (s.get("pe") or {}).get("pe") is not None else "no",
                     "annual_reports": len(docs.get("annual_reports", [])),
                     "presentations": len(docs.get("presentations", [])),
                     "segment_numbers_found": st.get("found_numbers", 0),
