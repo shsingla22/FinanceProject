@@ -425,6 +425,18 @@ def test_judge_cache_keeps_several_readings_per_key(tmp_path, monkeypatch):
     assert AZ._ask("L", "s1", "p", True, runner=runner)["what_is_spun"] == "old" and len(calls) == 2
 
 
+def test_extra_members_join_the_universe_and_its_isins(tmp_path, monkeypatch):
+    import demerger_ground_truth as GT
+    extra = tmp_path / "_extra_members.csv"
+    extra.write_text("symbol,company,isin,why\nRAYMOND,Raymond Ltd.,INE301A01014,parent of a member\n")
+    monkeypatch.setattr(FA, "EXTRA_MEMBERS", extra)
+    m = FA.universe()
+    assert m["RAYMOND"] == "Raymond Ltd." and len(m) >= 750
+    assert GT.universe_isins()["INE301A01014"] == "RAYMOND"
+    monkeypatch.setattr(FA, "EXTRA_MEMBERS", tmp_path / "missing.csv")
+    assert "RAYMOND" not in FA.universe()
+
+
 def test_corporate_actions_file_with_a_ragged_row_still_parses(tmp_path):
     import zipfile
     import demerger_ground_truth as GT

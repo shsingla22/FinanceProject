@@ -180,15 +180,33 @@ def classify(category: str, headline: str) -> tuple[str, list[str]]:
 
 # --------------------------------------------------------------- universe
 
+EXTRA_MEMBERS = OUT_DIR / "_extra_members.csv"
+
+
+def extra_members() -> list[dict]:
+    """Companies followed beside the index list — the PARENTS whose spun
+    entity is a member today but who left the index themselves after the
+    demerger (Raymond Ltd, Sanofi India). Without them a backtest over
+    the year of their demerger would judge the skill against record dates
+    for companies it was never shown. Columns: symbol, company, isin, why."""
+    if not EXTRA_MEMBERS.exists():
+        return []
+    with open(EXTRA_MEMBERS) as fh:
+        return [r for r in csv.DictReader(fh) if r.get("symbol")]
+
+
 def universe() -> dict[str, str]:
     """{symbol: company_name} for the official NiftyTotalMarket members
-    (the index list, not the wider size list the Darvas screen adds)."""
+    (the index list, not the wider size list the Darvas screen adds), plus
+    the extra members (see extra_members)."""
     out = {}
     with open(CONSTITUENTS) as fh:
         for r in csv.DictReader(fh):
             src = r.get("source") or "official"
             if src in ("official", "both"):
                 out[r["nse_symbol"]] = r.get("company_name") or r["nse_symbol"]
+    for r in extra_members():
+        out.setdefault(r["symbol"].strip(), (r.get("company") or r["symbol"]).strip())
     return out
 
 

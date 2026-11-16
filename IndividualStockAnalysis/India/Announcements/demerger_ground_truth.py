@@ -156,6 +156,9 @@ def universe_isins(path: Path = FA.CONSTITUENTS) -> dict[str, str]:
             for r in csv.DictReader(fh):
                 if r.get("isin") and r.get("nse_symbol"):
                     out[r["isin"].strip()] = r["nse_symbol"].strip()
+    for r in FA.extra_members():
+        if r.get("isin"):
+            out.setdefault(r["isin"].strip(), r["symbol"].strip())
     return out
 
 
