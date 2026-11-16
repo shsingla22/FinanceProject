@@ -1,0 +1,200 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE  
+ 
+April 23, 2024  
+Dear Sir/ Madam,  
+Sub: Transcripts of the press conference an d earnings call conducted after the Meeting of 
+ Board of directors on April 18, 2024  
+ 
+Please find enclosed the transcripts of the press c onference and earnings call conducted after the Board 
+meeting held on April 18, 2024, for your information and records.  This information will also be host ed on the Company’s website, at 
+https://www.infosys.com/investors/reports-f ilings/quarterly-resu lts/2023-2024/q4.html.   
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at  https://www.infosys.com/investors/r eports-filings/quarterly-results/2023-
+2024/q4.html  .  
+This is for your information and records.  
+Yours Sincerely,  
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary  
+ 
+ 
+ 
+External Document © 2024 Infosys Limited  1    
+                         
+Infosys Limited  
+Press Conference Call  
+April 18, 2024   
+  
+CORPORATE PARTICIPANTS:  
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director  
+ 
+Jayesh Sanghrajka Chief Financial Officer  
+ 
+Rishi Basu 
+Corporate Communications 
+ 
+JOURNALISTS  
+ 
+Ritu Singh 
+CNBC TV18  
+ 
+Chandra R. Srikanth Moneycontrol  
+ 
+Shilpa Phadnis 
+The Times of India 
+ Ayushman Baruah Business Standard  
+ 
+Sai Ishwarbharath 
+Reuters  
+ 
+Sameer Ranjan Bakshi 
+The Economic Times  
+ 
+Jas Bardia 
+Mint 
+ Haripriya Sureban 
+The Hindu BusinessLine  
+ 
+Uma Kannan 
+The New Indian Express  
+ 
+Rukmini Rao 
+Fortune India 
+ Padmini Dhruvaraj Financial Express  
+ 
+ 
+External Document © 2024 Infosys Limited  2   
+Rishi Basu  
+A very good evening, everyone and thank you for joini ng Infosys' Fourth Quarter Financial Results. 
+My name is Rishi, and on behalf of Infosys, I would like to welcome all of you today. As always, we 
+request one question from each media house to accommodate everyone over the next hour. 
+With that, let me invite our Chief Executive Offi cer, Mr. Salil Parekh, for his opening remarks. Over 
+to you, Salil. 
+Salil Parekh  
+Thanks, Rishi. Good afternoon and thank you all for being here. For the Financial Year '24, our 
+revenue growth was at 1.4% in constant currency terms. Our operating margin for the full year was 
+20.7%. For large deals, we had an excellent year and th e fourth quarter; for the full year, it was at 
+$17.7 bn in large deals, comprising of 90 deals. For Q4, we had $4.5 bn in large deals. This is the 
+highest ever large deal value in a financial year for us. 
+For Q4, our year-on-year revenue growth was flat in constant currency and declined by 2.2% QoQ. 
+Our operating margin for Q4 was at 20.1%. We are seeing excellent traction with our clients for 
+Generative AI work. We are working on projects across software engineering,  process optimization, 
+customer support, advisory services, and sales and ma rketing. We are working with market-leading 
+open access and closed large language models. 
+As an example, in software development, we have generated over 3 mn lines of code, using one of 
+the Generative AI large language models in the public domain. In several situations, we have trained 
+the large language models with client-specific data wi thin our projects. We have put Generative AI 
+in our services, and developed playbooks for each of our offerings. 
+We are committed to ethical and responsible use of artificial intelligence. We became the first IT 
+services company, globally, to  achieve the ISO 42001:2023 certification, testifying to our 
+commitment to excellence in AI management. All of th is work in AI is part of our Topaz offering and 
+capability. 
+We are delighted to announce the strategic acquisi tion of a company in the engineering services 
+space today. We continue to focus on our marg in program. We saw good impact during this financial 
+year that we have seen in our results. As we look  at the start of FY25, we see the discretionary 
+spending and digital transformation work at the same level. We see the focus on cost efficiency and 
+consolidation continuing. 
+ 
+ 
+External Document © 2024 Infosys Limited  3  Our large deal wins in FY24, will help us in FY 25. With that, our revenue growth guidance for the 
+FY25 is growth of 1% to 3% in constant curr ency terms. Our operating margin guidance for the FY25 
+is 20% to 22%. 
+With that, let us open it up for questions. 
+Rishi Basu  
+Thank you, Salil. Joining Salil is Mr. Jayesh Sanghrajka, Chief Financial Officer, Infosys.  
+With that, we have the first question from Ritu Singh from CNBC TV18.  
+Ritu Singh  
+Hi, Salil. Hi, Jayesh. First, just on your revenue guidance, on the lower end, you have actually lowered 
+the guidance compared to the previous year, now at 1% to 3%. Give us a sense of what you have 
+built into it - when you say deal wins have been the highest ever in FY24? What you expect, what your conversation with clients has been,  what the pipeline is looking like? 
+And earlier, you had highlighted verticals like Hi-T ech, BFSI, etc., showing some weakness. Are you 
+seeing some improvement there? Also, I think now for the fifth quarter in a row, the headcount has 
+been coming down. Any outlook you could give us there as well?  
+And under your project Maximus, you have been wo rking on expansion of your margins, yet we are 
+seeing in terms of guidance a similar range as the prev ious year. Tell us if this is a conservative 
+estimate, both in the revenue and guidance? 
+Salil Parekh  
+So, I will start with the revenue. Jayesh will comm ent on a couple of the other points. On the revenue, 
+what we are seeing is the environment, in terms of discretionary and digital work, is similar to what 
+we have ended in this year. We also had good traction in large deals, some of which will flow through 
+in the next year, given the duration of those deals. 
+Keeping that in mind, our growth guidance for next ye ar is, as a band, higher than where we finished 
+for this year. While the difference is  small, it is still higher from w here we finished this year. As we 
+go into the industries, we see, for example, financial services to see a better outlook in the next year 
+compared to the past year. We see, for example, manuf acturing, while it will st ill grow next year, will 
+have a slightly lower or slower growth than this y ear. So, there are some puts and takes in terms of 
+different industries, and given the outlook with discretionary spend and digital work remaining same, 
+and more focus on cost efficiency and consolidati on, we have created that revenue growth guidance. 
+ 
+ 
+External Document © 2024 Infosys Limited  4  Jayesh Sanghrajka  
+Yes, so on the net headcount increases, if you look at it, when we started the year, we were at 77% 
+utilization, including trainees. The gr owth environment also was different at that point in time. We 
+had guided differently. 
+So, we had to realign some of those factors as the growth environment changed. Our utilization has 
+now gone up to 82%, including trainees, 83.5% excl uding trainees. That is one of the tracks under 
+Maximus as well. 
+Our attrition has also come down significantly. So  that is the reason why you see a net headcount 
+reduction. As we go forward, we always plan looking at what we are exiting in terms of utilization. 
+We are still at 82% - 83% utilization, depending on whet her you are looking at it including or excluding 
+trainees. So that still gives us some headroom because we have always said 85% is achievable 
+utilization. So that is the headroom that we have. We look into guidance that we give, so that we bake in that. Attrition still remains very contained at 12.6%. So, we have that headroom.  
+And we also have changed in the last few years our  hiring model significantly. So, we no more hire 
+all the freshers from campus. We hire less than ha lf of them from campus and the rest we hire off- 
+campuses. So, we have that agile model. So, we wi ll look at hiring as the year goes through. We do 
+not have a number to give at this point in time. 
+Ritu Singh  
+The question, sorry, on what the deal pipeline is l ooking like. You said some of the deal wins from 
+last year will flow into this year. But the new  deal wins, what sort of visibility do you have? 
+Salil Parekh  
+So, the deal pipeline, again, remains good. As you have seen in this past financial year, we did 90 
+deals at $17.7 bn. We have a good pipeline. The deals are more on cost and efficiency, and 
+consolidation. That is the theme in our large deals pipeline. 
+Rishi Basu  
+Thank you. The next question is from  Chandra Srikanth from Moneycontrol. 
+ 
+ 
+ 
+ 
+External Document © 2024 Infosys Limited  5  Chandra Srikanth  
+Hi, Salil. I just want to understand why is there a divergence between your TCV numbers and the 
+revenue growth numbers, not just for this year but al so for the next fiscal? Because if you are talking 
+about record deal wins, why is it not translating to revenue growth? Is there a runoff in existing 
+discretionary programs, which is why the revenues  are getting impacted? If you can give us some 
+color on that. Also, the guidance, I think it is going to disappoint analysts because a lot of brokerages 
+were expecting between 2% to 6%. So, are you starting conservatively? Will you kind of review this 
+every quarter? Do you expect the second half to be better? 
+Jayesh, just wanted to ask you on the pricing as well. At least the TCS management said that one 
+of the levers that they hope to use is pricing because they see some opportunities there, because 
+there has not been a price hike in a while. Is that something that you are hopeful of as well? And this 
+is also the first time your headcount has declined on a full year basis in at least 20 years. So, what 
+can we expect with respect to  fresher hiring in FY25? Thanks. 
+Salil Parekh  
+Let me start off on the guidance with the large deal wins. There what we have seen is, there has 
+been a good traction with the cost and efficiency  and the consolidation nature of large deals. 
+Whereas we see that digital program s or some discretionary work is still not as visible within the 
+work we are seeing. 
+So, when we combine those two trends or those tw o views, we get the guidance that we have come 
+with, which is the guidance as we start the year of  1% to 3%. So, from our perspective, we want to 
+make sure that we reflect what we are seeing in t he market today. Now typically, at this time of the 
+year, we have a good sense of the early part of the year. 
+And the second part of the year, we have a set of es timates that we work off on. We will see how 
+that develops, because the macro environment is still got a mixed outlook at this stage. We are very 
+comfortable with where we see our large deals a nd the way we are winning those because we think 
+we are benefiting from the consolidation. But there is the other side where digital or discretionary is 
+still a bit slower. 
+Jayesh Sanghrajka  
+On the pricing, if you look at the Project Maximu s, one of the pillars that Salil had explained in the 
+earlier calls is the value-based selling. And that  track has done well. We are seeing encouraging 
+results. 

@@ -1,0 +1,235 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Regd. Office: Marathon Futurex, A Wing, 25th Floor, 
+Mafatlal Mills Compound, N M Joshi Marg, Lower Parel (E), Mumbai - 400 013. 
+Phone: 91-22-2302 3333 • Fax: 91-22-2300 2036 • CIN:  L67120MH1997PLC112443 
+Website: www.cdslindia.com 
+Central Depository Services (India) Limited  
+CDSL/CS/NSE/JB/2024/88                                                                                        April 25, 2024 
+  
+The Manager, 
+Listing Compliance Department, 
+National Stock Exchange of India Ltd, 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (East), Mumbai – 400051. 
+ 
+Symbol: CDSL 
+ISIN: INE736A01011  
+ 
+Sub: Media Release - Joint Press Release by all KYC Registration Agencies (KRAs) on the 
+recent KYC changes. 
+ 
+ 
+Dear Sir/Madam, 
+ 
+We are pleased to inform you about the joint press release by all KYC Registration Agencies 
+(KRAs) on the recent changes in the Know Your Customer (KYC) framework. Enclosed 
+herewith is the media release for the same. 
+ 
+The above information is also available on the website of the Company: www.cdslindia.com . 
+ 
+This is for your information and records. 
+ 
+Thanking you, 
+Yours faithfully, 
+ 
+ 
+For Central Depository Services (India) Limited 
+ 
+ 
+ 
+ 
+Nilay Shah 
+Company Secretary & Head Legal 
+Encld: As above  
+ 
+ 
+ 
+ 
+ 
+Media Release  
+ 
+Joint Press Release by all KYC Registration Agencies ( KRAs ) on the recent KYC 
+changes  
+ 
+Mumbai, April 25 , 2024:  Know Your Customer (KYC) is an important aspect of all 
+financial markets and “ Prevention  of Money Laundering Act” (PMLA) and respective 
+sectoral regulations define elaborate mechanism to ensure robust KYC frameworks. At 
+the same time, constant  developments have been made to ensure “Ease of Services” to 
+the investors and “Ease of Offerings” to the financial service providers so that financial 
+markets can expand in a secure and convenient manner.  
+ 
+KYC Registration Agencies (KRAs ) is a unique centralized KYC framework  developed and 
+operated by Institutional  & SEBI Registered  entities unde r the SEBI KRA Regulations 
+2011 which ensures a central storage of updated and verified  KYC  information and 
+documents of every investor so that  
+ 
+1) Uniform KYC information can be used by any intermediary with investor consent to 
+onboard the investor without asking for  the same  KYC data / documents again  
+2) if investor information is updated at any intermediary touchpoint,  the same is 
+updated across all his / her accounts / relationships in securities’ markets such as 
+demat accounts / trading accounts / mutual fund folios etc.  
+ 
+There are 5 KRAs registered with SEBI namely, CDSL Ventures Limited, NSDL Database 
+Management Limited, CAMS, Karvy and Dotex ( NSE ). These  KRA s facilitates Inter -
+Operable KRA services in securities markets since 2011 , which has obviated the need for 
+intermediaries to register with all 5 KRA . All KRAs put together hold KYC records of 10.83  
+cr. investors and facilitate storage, modification seamlessly for 13 years now. Out of 
+which, 73% of KYC records are under ‘KYC validated’ status, 15% of KYC records under  
+‘KYC Registered ’ status  and balance 12% are under ‘KYC On -Hold’ status.  
+ 
+ 
+ 
+ 
+In order to further strengthen the KYC risk framework and reap the benefits of emerging 
+technology to serve the markets, SEBI has taken  great  efforts. Since November 2022 KRAs 
+have performed extended  independent  verification, re -verification of KYC records on 
+following additional aspects in a phase wise manner:  
+ 
+a) Validation of PAN, its operational status from Income Tax database including PAN -
+Aadhaar linking status.  
+b) Source validation of KYC data (Name and address) from the Aadhaar records 
+wherever Aadhaar is used as a Proof of Identity or Address (POI / POA). This is done 
+using the digitally signed data provided by UIDAI / DigiLocker to the investor on his 
+/ her request.  
+c) Verification of Email and Mobile as maintained in KYC records of the investor by 
+sending Email/SMS intimation . 
+ 
+KRAs have done the  mammoth exercise and resulted in lot of review and quality 
+improvement and updation in KYC records. This exercise has been completed in March 
+2024 through  the process of further modifications to update the investor’s data will 
+continue.  
+ 
+KYC Status  Description  Action required by the investor  
+KYC 
+validated  The records which meet all the 
+above verifications / the 
+documents  and KYC information  
+submitted by the investor have 
+been authenticated with the 
+database of the issuing authority. 
+Currently, only PAN and Aadhaar 
+can be validated directly from the 
+issuing database. Email and/or 
+Mobile are also validated . No impact or action required.  
+Investor can seamlessly  transact in 
+securities market without the need 
+for resubmission of KYC documents.  
+ 
+ 
+ 
+KYC 
+Registered  This denotes that the KYC 
+documents / information 
+provided by the investor  cannot 
+be directly  verified with the 
+issuing authority  and KRA 
+verification is based on 
+documents provided , but Email 
+and/or Mobile are validated . No impact to the investor with  his / 
+her existing intermediaries and they 
+can seamlessly transact  including 
+continuity of the existing SIPs 
+registered with MFs already .  
+ 
+If the investor wishes to open a new 
+account or a new folio with a new MF  
+/ SEBI Registered Intermediary , 
+fresh set of KYC  documents to be 
+collected afresh to onboard the 
+investor.  
+ 
+These investors can undergo a re -
+KYC process by submitting PAN / 
+Aadhaar have the KYC status 
+updated as Validated , to ensure  
+uninterrupted investment across 
+various mutual fund houses or for 
+opening a new broking or demat 
+account.  
+ 
+It is mentioned that based on type of 
+OVD submitted, KYC record is NOT 
+placed into “On Hold” category.  
+KYC On -Hold  There are KYC records where 
+above verification could not be 
+successful, primarily PAN -
+Aadhaar Seeding not done /failed  
+or Email and/or Mobile validation 
+has failed. Complete ‘PAN -Aadhaar Seeding ’ in 
+Income Tax records to make his / her 
+PAN operational. ITD has issued 
+detailed guidelines on this process.  
+ 
+ 
+ 
+ 
+Share his / her updated Email / 
+Mobile with any of his / her 
+intermediaries (DP / Broker / MF 
+AMC) to update the same in their 
+records and lodge modification 
+request with KRA; Once KRA 
+receives the latest information it will 
+verify /validate  the same and update 
+the KYC record status  accordingly . 
+ 
+As of March 31, 2024, All KRAs put together hold KYC records of 10.83 cr. investors and 
+facilitate storage, modification seamlessly for 13 years now. Out of which, 73% of KYC 
+records are under ‘KYC validated’ status, 15% of KYC records under ‘KYC Registered’ 
+status and balance 12% are under ‘KYC On -Hold’ status.  
+ 
+Investors can verify their KYC status through anyone of the KRA websites (details 
+provided below) under KYC Inquiry and initiate action, (if any required) as per the 
+information mentioned on the website .  Investors can easily submit their re -KYC ( KYC 
+modification) via their intermediary’s or Mutual fund’s website which are integrated with 
+the KRAs. Thereafter, the back -end interoperability function of KRAs will seamlessly 
+update the KYC records of the inve stor at the respective KRA.  
+ 
+KRAs also have dedicated helpdesks  and call centres where investors can call for any 
+assistance or guidance. MF AMCs and RTAs are also helping investors to update their KYC 
+as needed.  
+ 
+KRAs have also been sending communications to intermediaries to update them about 
+progress on KYC status verification exercise. KRAs also send communication to investors 
+on any access / modification to their KYC record.  
+ 
+ 
+ 
+ 
+KRA 
+Name  Website  HelpDesk 
+Number  Email  
+CVLKRA  www.cvlkra.com   080 -
+69144848  cvlhelpdesk@cvlindia.com  
+NDMLKRA  https://kra.ndml.in/kra -
+web/  022 -4914 
+2600 / 01 / 
+02 / 04 / 05 / 
+06  Info.kra@nsdl.com   
+CAMSKRA  www.camskra.com  18005726558  
+(Toll free )   enq_kyc@camskra.com  
+DOTEXT 
+KRA  www.nsekra.com   022 - 2659 
+8182 \ 8407   dotex_kraops@nse.co.in  
+KARVY 
+KRA  www.karvykra.com   040 233 
+12454   abraham.kra@karvy.com  
+ 
+About CDSL Ventures Limited (CVL):  
+ 
+CVL  is  a  wholly  owned  subsidiary  of  CDSL  and  the  1st and  largest  KYC Registration  
+Agency  (KRA).  CVL  conceptualised,  designed  and implemented the KRA system in 
+association with AMFI for all mutual funds in 2008. Currently, CVL has over 7 crore fully 
+digitised KYC records which are  uploaded  and  acce ssed  by  over  2700  intermediaries  
+spread  across the  country.  CVL  also  provides  services  relating  to  Registrar  &  Share 
+Transfer  Agent  (RTA),  GST  Suvida  Provider  (GSP),  Academic  Depository and 
+performing de -duplication of claims of Pra dhan Mantri J eevan Jyoti Bhima Yojna.  
+ 
+Media Contacts  
+Sandhya Dubey       Shaurya Rathore  
+sandhyad@cdslindia.com      shaurya.rathore@adfactorspr.com   
