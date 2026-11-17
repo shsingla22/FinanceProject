@@ -70,6 +70,8 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
     conf = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "confirmed"]
     prob = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "probable"]
     ind = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "indicated"]
+    part = [s for s in sits if s["kind"] == "subsidiary_listing" and s["confidence"][0] == "confirmed"]
+    not_listing = [s for s in sits if s["kind"] == "subsidiary_listing" and s["confidence"][0] == "other"]
     s = res["summary"]
     A = [f"# Backtest {label} — the demerger skill as of {to}, filings {frm} → {to}", "",
          f"*List-only run: the judge classified each situation from the complete filings and calls up to {to}; "
@@ -84,6 +86,8 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
          f"| …verified by a record date that came AFTER {to} (the register up to today) | {s.get('verified_later', 0)} |",
          f"| …pending (no record date to date) | {s['pending']} |",
          f"| …FALSE POSITIVES | {s['false_positives']} |",
+         f"| Partial spin-offs (subsidiary IPOs, announced or listed) | {len(part)} |",
+         f"| …flagged as a subsidiary listing and found not to be one (excluded) | {len(not_listing)} |",
          f"| Probable demergers | {len(prob)} |", f"| Indicated demergers | {len(ind)} |",
          f"| Situations in all | {len(sits)} |", ""]
     A += ["## Every register demerger in the window", "",
@@ -97,6 +101,12 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
     pv = {r["symbol"]: r["verdict"] for r in res["precision"]}
     for c in conf:
         A.append(f"| **{c['symbol']}** | {c['stage']} | {c['listing']['short']} | {pv.get(c['symbol'], '')} |")
+    A += ["", "## Partial spin-offs as of the run", "",
+          "| Company | Subsidiary | IPO stage | Listed on | Source of the date |", "|---|---|---|---|---|"]
+    for p in sorted(part, key=lambda s: (s["stage"] != "listed", s["symbol"])):
+        f = p["facts"]
+        A.append(f"| **{p['symbol']}** | {f.get('subsidiary', '')[:60]} | {f.get('ipo_stage', '')} | "
+                 f"{p.get('listed_on') or ''} | {f.get('subsidiary_listing_source', '')} |")
     A += ["", "## Misses, with what the skill held", ""]
     if res["misses"]:
         for m in res["misses"]:

@@ -403,6 +403,50 @@ def calls_text_for(symbol: str, months: int, today: dt.date, budget: int = CALLS
     return note + "\n\n".join(out) if out else ""
 
 
+def listing_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
+    return (
+        f"The filings of {sit['company']} ({sit['symbol']}) were flagged as a possible LISTING OF A "
+        f"SUBSIDIARY (an IPO / DRHP / listing of a subsidiary, associate or joint venture in which "
+        f"the company holds a significant stake). Read the complete documents below and decide what "
+        f"is really there. Answer STRICT JSON only, every field from the documents — never from "
+        f"memory; write \"not stated\" when they do not say:\n"
+        '{"what_it_is": one of '
+        '"subsidiary_ipo_announced" (a subsidiary / associate / JV of THIS company is to be listed by IPO or '
+        'offer for sale and is not listed yet: board approval, DRHP, SEBI observations, offer open), '
+        '"subsidiary_already_listed" (such an entity has completed its IPO and trades), '
+        '"subsidiary_ipo_withdrawn" (the IPO was withdrawn or shelved), '
+        '"stake_sale_in_other_ipo" (the company only sells shares it holds, as a minority financial investor, '
+        'in some OTHER company\'s IPO — e.g. a bank selling its stake in an exchange), '
+        '"sale_or_transfer" (a sale, slump sale, stake purchase or transfer of a business or subsidiary; nothing is listed), '
+        '"merger" (a merger / amalgamation; nothing new is listed), '
+        '"own_ipo" (the listing discussed is this company\'s OWN recent IPO), '
+        '"no_event" (none of these: ESOP notices, policies, results that merely mention a subsidiary), '
+        '"subsidiary": "<the full legal name of the entity being listed, or not stated>", '
+        '"relation": "subsidiary"|"associate"|"joint venture"|"not stated", '
+        '"parent_stake_before": "<the company\'s holding before the IPO, e.g. 94.5%, or not stated>", '
+        '"parent_stake_after": "<its holding after, or not stated>", '
+        '"ipo_stage": "board approval"|"DRHP filed"|"SEBI observations"|"offer open"|"listed"|"not stated", '
+        '"listing_date": "<YYYY-MM-DD when the entity listed, or not stated>", '
+        '"exchange": "<where it lists or listed, or not stated>", '
+        '"timeline": "<when the listing is expected, in the documents\' words with their date; or not stated>", '
+        '"quote": "<one verbatim sentence from the documents that settles your answer>"}\n\n'
+        f"THE COMPANY'S FILINGS, COMPLETE (newest first):\n{scheme_text}\n\n"
+        f"THE COMPANY'S EARNINGS CALLS, COMPLETE (last 12 months, newest first):\n"
+        f"{calls_text or '(no transcripts on file)'}"
+    )
+
+
+def judge_listing(sit: dict, scheme_text: str, calls_text: str,
+                  allow_ai: bool = True, runner=None) -> dict:
+    """One pointed, forced-choice question for a subsidiary-listing
+    situation: is it a partial spin-off (announced or already listed), or
+    something else that only looked like one?"""
+    if len(scheme_text) < 300 and len(calls_text) < 300:
+        return {"status": "no documents", "note": "nothing on file to read"}
+    stamp = hashlib.md5((scheme_text + calls_text + MODEL + PROMPT_VERSION + "listing").encode()).hexdigest()
+    return _ask(f"{sit['symbol']}::listing", stamp, listing_prompt(sit, scheme_text, calls_text), allow_ai, runner)
+
+
 def rationale_section_of(scheme_text: str) -> str:
     """The part of the scheme that explains itself, if it has one."""
     m = re.search(r"rationale", scheme_text, re.I)
@@ -451,6 +495,17 @@ def render_company(s: dict, heavy: bool) -> list[str]:
     if s["stage_dates"]:
         A += ["**The stages, as filed:** " + " → ".join(f"{k} ({v})" for k, v in s["stage_dates"].items()), ""]
     f = s["facts"]
+    if f.get("partial_spin"):
+        res = s.get("listing_resolution") or {}
+        bits = [f"**{f.get('subsidiary', '—')}**" + (f" ({res['relation']})" if res.get("relation") not in (None, "", "not stated") else ""),
+                f"parent's stake {f['parent_stake_before']}" + (f" → {f['parent_stake_after']}" if f.get("parent_stake_after") else "")
+                if f.get("parent_stake_before") else (f"parent's stake after: {f['parent_stake_after']}" if f.get("parent_stake_after") else ""),
+                f"IPO stage: {f['ipo_stage']}" if f.get("ipo_stage") else "",
+                f"exchange: {f['listing_exchange']}" if f.get("listing_exchange") else "",
+                f"NSE symbol {f['subsidiary_symbol']}" if f.get("subsidiary_symbol") else "",
+                f"timeline: {f['ipo_timeline']}" if f.get("ipo_timeline") else ""]
+        A += ["**The partial spin-off:** " + "; ".join(b for b in bits if b) + ".",
+              "", f"> “{f.get('listing_quote', '')}”", ""]
     facts = [x for x in (
         f"resulting company **{f['resulting_company']}**" if f.get("resulting_company") else "",
         f"demerged undertaking: {f['demerged_undertaking']}" if f.get("demerged_undertaking") else "",
@@ -788,13 +843,19 @@ def render_report(record: dict, idx: dict | None = None) -> str:
     others = [s for s in sits if (s["kind"] not in SO.SPIN_KINDS and s["kind"] not in SO.OFFERING_KINDS)
               or (s["kind"] in SO.SPIN_KINDS and s["confidence"][0] == "other")]
     conf = {s["symbol"]: s["confidence"][0] for s in spins}
-    confirmed = [s for s in spins if conf[s["symbol"]] == "confirmed"]
+    all_confirmed = [s for s in spins if conf[s["symbol"]] == "confirmed"]
+    # partial spin-offs — a subsidiary listed, or being listed, by IPO while
+    # the parent keeps a stake — sit in the confirmed list below the demergers
+    partial = [s for s in all_confirmed if s["kind"] == "subsidiary_listing"]
+    partial.sort(key=lambda s: (s["stage"] != "listed", -(s["verdict"].get("score") or 0), s["symbol"]))
+    confirmed = [s for s in all_confirmed if s["kind"] != "subsidiary_listing"]
     probable = [s for s in spins if conf[s["symbol"]] == "probable"]
     indicated = [s for s in spins if conf[s["symbol"]] == "indicated"]
     A = ["# Spin-offs and demergers — NiftyTotalMarket", "",
          f"*Run {m['run_date']} · filings window {m['window_from']} → {m['window_to']} · "
          f"{m['filings']} restructuring filings across {m['companies']} companies · "
-         f"{len(confirmed)} confirmed demergers, {len(probable)} probable, {len(indicated)} indicated, "
+         f"{len(confirmed)} confirmed demergers, {len(partial)} partial spin-offs (subsidiary IPOs), "
+         f"{len(probable)} probable, {len(indicated)} indicated, "
          f"{len(offs)} rights / preferential offerings, {len(others)} other restructurings · judge: {m['judge']}.*", "",
          "**The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: "
          "the new stock is sold by holders who never chose it for about a year, the parent is "
@@ -813,6 +874,25 @@ def render_report(record: dict, idx: dict | None = None) -> str:
                  f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} | {s['verdict']['label'].split(' — ')[0]} |")
     if not confirmed:
         A.append("| — | | | | | |")
+    A += ["", "### Partial spin-offs — a subsidiary listed, or being listed, by IPO", "",
+          "The parent keeps a stake and the piece gets its own price (the notes' Sears case: once the piece trades, "
+          "the parent's stub can be valued). Already listed first, then IPOs in motion. A listing date marked "
+          "*NSE* is from the exchange's equity list; otherwise it is the date the filings give.", "",
+          "| Company | Subsidiary | Relation · parent's stake | IPO stage | Listing | Score | Verdict | Evidence |",
+          "|---|---|---|---|---|---:|---|---|"]
+    for s in partial:
+        f = s["facts"]
+        res = s.get("listing_resolution") or {}
+        stake = " → ".join(x for x in (f.get("parent_stake_before"), f.get("parent_stake_after")) if x) or "not stated"
+        rel = res.get("relation") if res.get("relation") not in (None, "", "not stated") else "subsidiary"
+        when = (f"{s['listed_on']} ({'NSE' if f.get('subsidiary_listing_source') == 'NSE equity list' else 'filings'})"
+                if s.get("listed_on") else ("listed; date not stated" if s["stage"] == "listed"
+                                             else (f.get("ipo_timeline") or "date not fixed")[:90]))
+        A.append(f"| **{s['symbol']}** | {f.get('subsidiary', '—')[:60]} | {rel} · {stake[:40]} | "
+                 f"{f.get('ipo_stage', '—')} | {when} | {s['verdict']['score']} | "
+                 f"{s['verdict']['label'].split(' — ')[0]} | “{(f.get('listing_quote') or '')[:160]}” |")
+    if not partial:
+        A.append("| — | | | | | | | |")
     # demergers first, then subsidiary listings, then schemes of unclear
     # nature; probable before indicated; then by score
     probable.sort(key=probable_order)
@@ -839,6 +919,9 @@ def render_report(record: dict, idx: dict | None = None) -> str:
         A += ["", "</details>", ""]
     A += ["---", "", "# Confirmed demergers — in full", ""]
     for s in confirmed:
+        A += render_company(s, heavy=True)
+    A += ["---", "", "# Partial spin-offs (subsidiary IPOs) — in full", ""]
+    for s in partial:
         A += render_company(s, heavy=True)
     A += ["---", "", "# Probable spin-offs and listings", ""]
     for s in probable:
@@ -905,6 +988,8 @@ def situation_rows(sits: list[dict]) -> list[dict]:
                     "listed_on": s.get("listed_on") or "", "n_filings": s["n_filings"],
                     "score": s["verdict"]["score"], "verdict": s["verdict"]["label"],
                     "resulting_company": f.get("resulting_company", ""),
+                    "subsidiary": f.get("subsidiary", ""), "ipo_stage": f.get("ipo_stage", ""),
+                    "listing_resolution": f.get("listing_resolution", ""),
                     "entitlement_ratio": f.get("entitlement_ratio", ""),
                     "record_date": f.get("record_date", ""),
                     "reasons": "; ".join(r["reason"] for r in s["reasons"]),
@@ -1003,6 +1088,13 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
             s["confidence"] = conf
         if stage:
             s["stage"], s["listed_on"], s["days_since_listing"] = stage, None, None
+            s["verdict"] = SO.verdict(s, s["checklist"])
+    # a subsidiary listing is resolved with one pointed question: a partial
+    # spin-off (announced or already listed) joins the confirmed list below
+    # the demergers; anything else leaves the confirmed and probable lists
+    if s["kind"] == "subsidiary_listing" and s["confidence"][0] == "probable":
+        s["listing_resolution"] = judge_listing(s, scheme, calls12, allow_ai=ai, runner=runner)
+        if SO.resolve_subsidiary_listing(s, s["listing_resolution"], today) != "unresolved":
             s["verdict"] = SO.verdict(s, s["checklist"])
     s["listing"] = SO.listing_status(s, s["judge"], today)
     if list_only:
@@ -1142,9 +1234,10 @@ def cmd_run(args, runner=None) -> dict:
         if p.exists():
             shutil.copy(p, snap / p.name)
     (snap / "run.json").write_text(json.dumps(record, indent=1, default=str))
-    n_conf = sum(1 for s in sits if s.get("confidence", ("",))[0] == "confirmed")
+    n_conf = sum(1 for s in sits if s.get("confidence", ("",))[0] == "confirmed" and s["kind"] != "subsidiary_listing")
+    n_part = sum(1 for s in sits if s.get("confidence", ("",))[0] == "confirmed" and s["kind"] == "subsidiary_listing")
     print(f"wrote {REPORT} ({len(md.splitlines())} lines); {len(sits)} situations, "
-          f"{n_conf} confirmed demergers, {len(call_only)} call-only indications", file=sys.stderr)
+          f"{n_conf} confirmed demergers, {n_part} partial spin-offs, {len(call_only)} call-only indications", file=sys.stderr)
     return record
 
 

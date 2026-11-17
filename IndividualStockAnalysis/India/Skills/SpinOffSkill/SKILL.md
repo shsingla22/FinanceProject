@@ -124,6 +124,24 @@ largest gains came not in the first year but in the second.
    `confirmed`, stage LISTED from the exchange's own listing date, with
    the parent named; past two years it is marked mature. The report puts
    confirmed demergers first and gives them the full treatment.
+3b. **Subsidiary listings are resolved, not left probable.** A filing that
+   pairs IPO / DRHP / listing with a subsidiary is asked one pointed,
+   forced-choice question of the complete documents
+   (`analyze.judge_listing`): is a subsidiary, associate or joint venture
+   of this company being listed by IPO (`subsidiary_ipo_announced`), has
+   it already listed (`subsidiary_already_listed`), was the IPO
+   withdrawn — or is it something that only looked like one: the company
+   selling shares it holds in another company's IPO, a sale or slump
+   sale, a merger, the company's own IPO, or no event at all. The first
+   two are PARTIAL SPIN-OFFS (the notes' Sears case): `confirmed`, shown
+   in the confirmed list directly BELOW the demergers with the
+   subsidiary, the parent's stake before and after, the IPO stage, and
+   the listing date — from NSE's equity list when the subsidiary is found
+   there, else the date the filings give — and a verbatim quote. Listed
+   first, then IPOs in motion; one listed more than two years ago is
+   past the window and dropped. Everything else leaves BOTH the confirmed
+   and the probable lists and is kept, with its reason, among the other
+   restructurings. Without a judge answer the row stays probable.
 4. **Listing status** — for every spin-off: LISTED since (record date),
    RECORD DATE set and listing pending (with the typical 4–10 week gap
    stated as typical, not forecast), NOT YET with the timeline the
@@ -235,7 +253,7 @@ python3 scripts/validate_demergers.py                              # the list ag
 python3 ../../Announcements/fetch_announcements.py --days 960      # extend the store back (for a backtest)
 python3 scripts/backtest.py --from 2024-04-01 --to 2025-03-31 --label FY2024-25   # the skill as of a past date, list-only, own folder
 python3 scripts/backtest.py --from 2024-04-01 --label 2024-04_to_today
-python3 -m pytest scripts/test_skill.py -q                         # 57 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 70 tests, offline
 ```
 
 ## Outputs

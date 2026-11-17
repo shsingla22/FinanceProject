@@ -1106,6 +1106,15 @@ def verdict(sit: dict, items: list[dict]) -> dict:
         label = "WITHDRAWN — the proposal was pulled; watch for a return"
     elif st == "rumoured":
         label = "RUMOURED — news verification / denial only; no scheme filed"
+    elif k == "subsidiary_listing" and sit.get("facts", {}).get("partial_spin"):
+        d = sit.get("days_since_listing")
+        if st != "listed":
+            label = "PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades"
+        elif d is None:
+            label = "PARTIAL SPIN-OFF, LISTED — price the parent's stub against the listed piece"
+        else:
+            label = ("PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece" if d < 365
+                     else "PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year")
     elif st in ("announced", "exchange_noc", "meetings", "nclt_sanction"):
         label = "PRE-SPIN — study the parent; the pieces do not trade yet"
     elif st in ("effective", "record_date") and (sit.get("days_since_listing") or 0) < LISTING_LAG_DAYS:
@@ -1198,6 +1207,94 @@ def confidence(sit: dict) -> tuple[str, str]:
 CONFIDENCE_ORDER = {"confirmed": 0, "probable": 1, "indicated": 2, "other": 3}
 LISTING_LAG_NOTE = "resulting companies have typically listed 4–10 weeks after the record date"
 
+# What a 'subsidiary listing' filing turns out to be once the documents are
+# read with one pointed question (analyze.judge_listing). The first two are
+# PARTIAL SPIN-OFFS — a piece of the company gets its own listing while the
+# parent keeps a stake (the notes' Sears case) — and join the confirmed list
+# below the demergers. The rest are not spin-offs at all and leave both the
+# confirmed and the probable lists.
+LISTING_YES = ("subsidiary_ipo_announced", "subsidiary_already_listed")
+LISTING_NO = {
+    "stake_sale_in_other_ipo": "the company is only selling shares it holds in another company's IPO",
+    "sale_or_transfer": "a sale, slump sale or transfer of a business or subsidiary; nothing is listed",
+    "merger": "a merger or amalgamation; nothing new is listed",
+    "own_ipo": "the company's own IPO / listing, not a subsidiary's",
+    "no_event": "no subsidiary listing is described in the documents",
+}
+
+
+def _iso_date(s: str) -> str | None:
+    m = re.search(r"\b(20\d\d)-(\d\d)-(\d\d)\b", s or "")
+    if not m:
+        return None
+    try:
+        return dt.date(int(m.group(1)), int(m.group(2)), int(m.group(3))).isoformat()
+    except ValueError:
+        return None
+
+
+def resolve_subsidiary_listing(sit: dict, res: dict, today: dt.date | None = None) -> str:
+    """Apply the judge's forced-choice answer to a subsidiary-listing
+    situation. Returns 'partial' (a partial spin-off: confirmed, with the
+    subsidiary, the IPO stage and — when listed — the date, taken from NSE's
+    equity list when the subsidiary is found there, else from the filings),
+    'not' (not a subsidiary listing: confidence 'other', out of both
+    lists), 'withdrawn', or 'unresolved' (no judge answer: stays probable)."""
+    today = today or dt.date.today()
+    if sit.get("kind") != "subsidiary_listing" or res.get("status") not in ("judged", "cached"):
+        return "unresolved"
+    what = str(res.get("what_it_is") or "").strip().lower()
+    f = sit.setdefault("facts", {})
+    quote = str(res.get("quote") or "")[:200]
+    sub = str(res.get("subsidiary") or "").strip()
+    if what == "subsidiary_ipo_withdrawn":
+        f["listing_resolution"] = what
+        sit["stage"] = "withdrawn"
+        sit["confidence"] = ("indicated", f"the subsidiary's IPO was withdrawn — {quote}")
+        return "withdrawn"
+    if what in LISTING_YES and sub and not re.match(r"not stated|none|n/?a", sub, re.I):
+        f["partial_spin"], f["subsidiary"], f["listing_resolution"] = True, sub, what
+        for k_out, k_in in (("ipo_stage", "ipo_stage"), ("ipo_timeline", "timeline"),
+                            ("parent_stake_before", "parent_stake_before"),
+                            ("parent_stake_after", "parent_stake_after"), ("listing_exchange", "exchange")):
+            v = str(res.get(k_in) or "").strip()
+            if v and not re.match(r"not stated", v, re.I):
+                f[k_out] = v[:160]
+        f["listing_quote"] = quote
+        sit["family"] = "partial spin-off (subsidiary IPO)"
+        dates, names = equity_list()
+        sym = names.get(_norm_name(sub))
+        listed = dates.get(sym) if sym else None
+        if listed and listed > today.isoformat():
+            listed = None                                   # an as-of run must not know a later listing
+        if listed:
+            f["subsidiary_symbol"], f["subsidiary_listing_source"] = sym, "NSE equity list"
+        elif what == "subsidiary_already_listed":
+            listed = _iso_date(str(res.get("listing_date") or ""))
+            if listed and listed > today.isoformat():
+                listed = None
+            if listed:
+                f["subsidiary_listing_source"] = "per the filings"
+        if listed or what == "subsidiary_already_listed":
+            sit["stage"] = "listed"
+            sit["listed_on"] = listed
+            sit["days_since_listing"] = (today - dt.date.fromisoformat(listed)).days if listed else None
+            if listed and sit["days_since_listing"] > MATURE_DAYS:
+                f["mature"] = True
+                sit["confidence"] = ("other", f"partial spin-off completed — {sub} listed on {listed}, "
+                                              f"more than two years ago; past the notes' second year")
+                return "not"
+            sit["confidence"] = ("confirmed", f"partial spin-off — {sub} is listed" + (f" since {listed}" if listed else ""))
+        else:
+            sit["confidence"] = ("confirmed", f"partial spin-off — the IPO of {sub} is in motion "
+                                              f"({f.get('ipo_stage', 'announced')})")
+        return "partial"
+    why = LISTING_NO.get(what, LISTING_NO["no_event"])
+    f["listing_resolution"] = what if what in LISTING_NO else "no_event"
+    sit["family"] = "not a subsidiary listing (" + f["listing_resolution"].replace("_", " ") + ")"
+    sit["confidence"] = ("other", f"not a subsidiary listing — {why}" + (f": “{quote}”" if quote else ""))
+    return "not"
+
 
 def listing_status(sit: dict, judge: dict | None = None,
                    today: dt.date | None = None) -> dict:
@@ -1227,6 +1324,20 @@ def listing_status(sit: dict, judge: dict | None = None,
     if st == "rumoured":
         return {"state": "no_scheme", "short": "no scheme filed",
                 "text": "no scheme filed; listing not in prospect" + (f" — on the calls: {tl}" if tl else "")}
+    if sit["kind"] == "subsidiary_listing" and f.get("partial_spin"):
+        sub = f.get("subsidiary") or "the subsidiary"
+        if st == "listed" and sit.get("listed_on"):
+            return {"state": "listed", "short": f"LISTED {sit['listed_on']} — {sub}"[:70],
+                    "text": f"PARTIAL SPIN-OFF, LISTED — {sub} trades since {sit['listed_on']} "
+                            f"({f.get('subsidiary_listing_source', 'per the filings')}); the parent keeps "
+                            f"{f.get('parent_stake_after') or 'its remaining stake'}"}
+        if st == "listed":
+            return {"state": "listed", "short": f"LISTED (date not stated) — {sub}"[:70],
+                    "text": f"PARTIAL SPIN-OFF, LISTED — {sub} is listed; the filings do not give the date"}
+        stage_txt = f.get("ipo_stage") or "announced"
+        when = f.get("ipo_timeline") or ""
+        return {"state": "subsidiary_ipo", "short": f"IPO {stage_txt} — {sub}"[:70],
+                "text": f"PARTIAL SPIN-OFF, IPO {stage_txt.upper()} — {sub}" + (f"; {when}" if when else "; date not fixed")}
     if sit["kind"] == "subsidiary_listing":
         return {"state": "subsidiary_ipo", "short": f"IPO in motion since {sit['first_filing']}",
                 "text": f"IPO / listing of the subsidiary in motion since {sit['first_filing']}; "

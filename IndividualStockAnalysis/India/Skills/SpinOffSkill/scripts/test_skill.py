@@ -1253,6 +1253,107 @@ def test_sebi_listing_disclosure_aliases_and_renames_from_the_fy25_backtest():
     assert SO.judge_override({**base, "company": "Kitex Garments Ltd."}, jk)[0] == "other"
 
 
+def _listing_sit(sym="HDFCBANK", company="HDFC Bank Ltd."):
+    return {"symbol": sym, "company": company, "kind": "subsidiary_listing", "stage": "announced", "facts": {},
+            "confidence": ("probable", "a subsidiary's listing is in motion"), "family": "partial spin-off / listing",
+            "first_filing": "2026-01-17", "latest_filing": "2026-01-17", "listed_on": None, "days_since_listing": None,
+            "stage_dates": {}, "headlines": [], "n_filings": 2, "sources": ["NSE"]}
+
+
+def test_subsidiary_listing_is_resolved_into_partial_spin_off_or_dropped(monkeypatch):
+    today = dt.date(2026, 11, 16)
+    monkeypatch.setattr(SO, "_EQUITY", ({"HDBFS": "2025-07-02", "OLDCO": "2021-03-01"},
+                                        {SO._norm_name("HDB Financial Services Limited"): "HDBFS",
+                                         SO._norm_name("Old Subsidiary Limited"): "OLDCO"}))
+    ok = {"status": "judged"}
+    # already listed: the date comes from NSE's equity list, not the judge
+    s = _listing_sit()
+    r = SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_already_listed", "subsidiary": "HDB Financial Services Limited",
+                                          "relation": "subsidiary", "parent_stake_before": "94.3%", "parent_stake_after": "74.2%",
+                                          "ipo_stage": "listed", "listing_date": "2025-06-30", "quote": "HDBFS launched its IPO"}, today)
+    assert r == "partial" and s["confidence"][0] == "confirmed" and s["stage"] == "listed"
+    assert s["listed_on"] == "2025-07-02" and s["facts"]["subsidiary_listing_source"] == "NSE equity list"
+    assert s["facts"]["subsidiary_symbol"] == "HDBFS" and s["family"] == "partial spin-off (subsidiary IPO)"
+    assert SO.verdict(s, [])["label"].startswith("PARTIAL SPIN-OFF, LISTED 1–2Y")
+    st = SO.listing_status(s, {}, today)
+    assert st["state"] == "listed" and "HDB Financial Services" in st["text"] and "74.2%" in st["text"]
+    # announced: confirmed, IPO in motion, nothing listed
+    s = _listing_sit("AMBER", "Amber Enterprises India Ltd.")
+    r = SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_ipo_announced", "subsidiary": "IL JIN Electronics (India) Limited",
+                                          "ipo_stage": "DRHP filed", "timeline": "DRHP dated 6 November 2026 filed with SEBI",
+                                          "listing_date": "not stated", "quote": "IL JIN filed the DRHP"}, today)
+    assert r == "partial" and s["confidence"][0] == "confirmed" and s["stage"] == "announced" and s["listed_on"] is None
+    assert SO.verdict(s, [])["label"].startswith("PARTIAL SPIN-OFF, IPO IN MOTION")
+    assert SO.listing_status(s, {}, today)["short"].startswith("IPO DRHP filed — IL JIN")
+    # listed per the filings when NSE's list does not carry the name (a foreign listing)
+    s = _listing_sit("KPIL", "Kalpataru Projects International Ltd.")
+    SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_already_listed", "subsidiary": "Linjemontage i Grastorp AB",
+                                      "listing_date": "2026-09-28", "quote": "listed on Nasdaq Stockholm"}, today)
+    assert s["listed_on"] == "2026-09-28" and s["facts"]["subsidiary_listing_source"] == "per the filings"
+    # an as-of run must not know a later listing
+    s = _listing_sit()
+    SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_ipo_announced", "subsidiary": "HDB Financial Services Limited",
+                                      "ipo_stage": "DRHP filed", "quote": "q"}, dt.date(2025, 3, 31))
+    assert s["stage"] == "announced" and s["listed_on"] is None and s["confidence"][0] == "confirmed"
+    # the noise: each leaves both lists with its reason
+    for what, word in (("stake_sale_in_other_ipo", "another company's IPO"), ("sale_or_transfer", "sale"), ("merger", "merger"),
+                       ("own_ipo", "own IPO"), ("no_event", "no subsidiary listing"), ("something_else", "no subsidiary listing")):
+        s = _listing_sit("X", "X Ltd")
+        assert SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": what, "subsidiary": "not stated", "quote": "the quote"}, today) == "not"
+        assert s["confidence"][0] == "other" and word in s["confidence"][1] and s["family"].startswith("not a subsidiary listing")
+    # 'yes' without a named subsidiary is not a yes
+    s = _listing_sit("X", "X Ltd")
+    assert SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_ipo_announced", "subsidiary": "not stated"}, today) == "not"
+    # listed more than two years ago: past the notes' window, out of the list
+    s = _listing_sit("X", "X Ltd")
+    assert SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_already_listed", "subsidiary": "Old Subsidiary Limited"}, today) == "not"
+    assert s["confidence"][0] == "other" and "two years" in s["confidence"][1]
+    # withdrawn; and no judge answer leaves it probable
+    s = _listing_sit("X", "X Ltd")
+    assert SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_ipo_withdrawn", "subsidiary": "Sub Ltd", "quote": "DRHP withdrawn"}, today) == "withdrawn"
+    assert s["confidence"][0] == "indicated" and s["stage"] == "withdrawn"
+    s = _listing_sit("X", "X Ltd")
+    assert SO.resolve_subsidiary_listing(s, {"status": "not assessed"}, today) == "unresolved" and s["confidence"][0] == "probable"
+
+
+def test_report_puts_partial_spin_offs_below_the_demergers_and_drops_the_noise(tmp_path, monkeypatch):
+    monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
+    monkeypatch.setattr(SO, "_EQUITY", ({"HDBFS": "2025-07-02"}, {SO._norm_name("HDB Financial Services Limited"): "HDBFS"}))
+    today = dt.date(2026, 11, 16)
+    docs = "HDFC Bank informs the Exchange that its subsidiary HDB Financial Services Limited has completed its IPO. " * 10
+    asked = []
+    def runner(prompt):
+        asked.append(prompt)
+        if "possible LISTING OF A SUBSIDIARY" in prompt:
+            if "Bank of Noise" in prompt:
+                return json.dumps({"what_it_is": "stake_sale_in_other_ipo", "subsidiary": "not stated", "quote": "sold NSE shares"})
+            return json.dumps({"what_it_is": "subsidiary_already_listed", "subsidiary": "HDB Financial Services Limited",
+                               "relation": "subsidiary", "parent_stake_after": "74.2%", "ipo_stage": "listed",
+                               "listing_date": "2025-07-02", "quote": "HDBFS completed its IPO"})
+        return json.dumps({"what_is_spun": "HDB Financial Services", "parent_or_spin": "parent", "selling_pressure": "unclear"})
+    monkeypatch.setattr(AZ, "scheme_text_for", lambda s, rows, budget=AZ.FILINGS_CHARS: docs)
+    monkeypatch.setattr(AZ, "calls_text_for", lambda sym, months, today, budget=AZ.CALLS_CHARS: "")
+    good, noise = _listing_sit(), _listing_sit("NOISE", "Bank of Noise")
+    for s in (good, noise):
+        s.update({"checklist": [], "verdict": {"label": "x", "score": 3.0}, "reasons": [], "concall_mentions": []})
+        AZ.enrich(s, [], True, today, {}, runner=runner, list_only=True)
+    assert good["confidence"][0] == "confirmed" and good["facts"]["partial_spin"] and good["listed_on"] == "2025-07-02"
+    assert noise["confidence"][0] == "other" and "another company's IPO" in noise["confidence"][1]
+    assert sum("possible LISTING OF A SUBSIDIARY" in p for p in asked) == 2
+    record = {"meta": {"run_date": "2026-11-16", "window_from": "2025-10-12", "window_to": "2026-11-15", "filings": 2,
+                       "companies": 2, "universe": 750, "judge": "test"}, "situations": [good, noise], "call_only": []}
+    md = AZ.render_report(record)
+    assert "0 confirmed demergers, 1 partial spin-offs (subsidiary IPOs), 0 probable" in md
+    top = md.split("## Probable and indicated")[0]
+    assert top.index("## Confirmed demergers") < top.index("### Partial spin-offs") < top.index("| **HDFCBANK** | HDB Financial Services Limited |")
+    assert "2025-07-02 (NSE)" in top and "PARTIAL SPIN-OFF, LISTED 1–2Y" in top
+    prob = md.split("## Probable and indicated")[1].split("<details>")[0]
+    assert "HDFCBANK" not in prob and "NOISE" not in prob                 # neither is in the probable list
+    assert "**NOISE**" not in top                                         # and the noise is not in the confirmed list
+    assert "| NOISE | not a subsidiary listing (stake sale in other ipo) |" in md      # kept, with its reason, among the others
+    assert "# Partial spin-offs (subsidiary IPOs) — in full" in md and "**The partial spin-off:** **HDB Financial Services Limited**" in md
+
+
 def test_rules_from_the_long_backtests_unverified_list(monkeypatch):
     base = {"symbol": "X", "company": "X Ltd", "kind": "demerger", "stage": "announced", "facts": {}, "headlines": [],
             "first_filing": "2024-06-26", "confidence": ("confirmed", "")}
