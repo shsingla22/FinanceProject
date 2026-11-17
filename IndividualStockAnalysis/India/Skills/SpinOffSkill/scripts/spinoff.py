@@ -1300,8 +1300,14 @@ def resolve_subsidiary_listing(sit: dict, res: dict, today: dt.date | None = Non
                 sit["confidence"] = ("other", f"partial spin-off completed — {sub} listed on {listed}, "
                                               f"more than two years ago; past the notes' second year")
                 return "not"
+            f["ipo_stage"] = "listed"
             sit["confidence"] = ("confirmed", f"partial spin-off — {sub} is listed" + (f" since {listed}" if listed else ""))
         else:
+            # an IPO in motion has no listing date yet, whatever a dividend or
+            # offer-for-sale record date in the same filings suggested
+            sit["listed_on"], sit["days_since_listing"] = None, None
+            if sit.get("stage") in ("record_date", "listed", "effective"):
+                sit["stage"] = "announced"
             sit["confidence"] = ("confirmed", f"partial spin-off — the IPO of {sub} is in motion "
                                               f"({f.get('ipo_stage', 'announced')})")
         return "partial"

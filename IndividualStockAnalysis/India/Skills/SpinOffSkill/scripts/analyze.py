@@ -894,7 +894,7 @@ def render_report(record: dict, idx: dict | None = None) -> str:
         rel = res.get("relation") if res.get("relation") not in (None, "", "not stated") else "subsidiary"
         when = (f"{s['listed_on']} ({'NSE' if f.get('subsidiary_listing_source') == 'NSE equity list' else 'filings'})"
                 if s.get("listed_on") else ("listed; date not stated" if s["stage"] == "listed"
-                                             else (f.get("ipo_timeline") or "date not fixed")[:90]))
+                                             else _short(f.get("ipo_timeline") or "date not fixed", 110)))
         more = f"; also {', '.join(f['other_subsidiaries'])}"[:70] if f.get("other_subsidiaries") else ""
         A.append(f"| **{s['symbol']}** | {f.get('subsidiary', '—')[:60]}{more} | {rel} · {stake[:40]} | "
                  f"{f.get('ipo_stage', '—')} | {when} | {s['verdict']['score']} | "
@@ -1266,6 +1266,19 @@ def cmd_render(args) -> None:
     """Re-render the report from the saved run (spinoff_latest.json) — a
     presentation change needs no re-judging."""
     record = json.loads(LATEST.read_text())
+    # re-derive what is derived: a saved subsidiary-listing answer is applied
+    # again, so a change to how answers are applied needs no re-judging
+    as_of = dt.date.fromisoformat(record["meta"]["run_date"])
+    for s in record["situations"]:
+        res = s.get("listing_resolution")
+        if s.get("kind") == "subsidiary_listing" and isinstance(res, dict) and res.get("status") in ("judged", "cached"):
+            if SO.resolve_subsidiary_listing(s, res, as_of) != "unresolved":
+                s["confidence"] = tuple(s["confidence"])
+                s["verdict"] = SO.verdict(s, s.get("checklist") or [])
+                s["listing"] = SO.listing_status(s, s.get("judge") or {}, as_of)
+    LATEST.write_text(json.dumps(record, indent=1, default=str))
+    srows = situation_rows(record["situations"])
+    FA.write_csv(SITUATIONS, srows, list(srows[0].keys()) if srows else ["symbol"])
     md = render_report(record, rows_index(SO.load_filings()))
     REPORT.write_text(md)
     snap = HISTORY / record["meta"]["run_date"]

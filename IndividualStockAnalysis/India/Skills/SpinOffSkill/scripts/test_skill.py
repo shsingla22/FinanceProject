@@ -1285,6 +1285,11 @@ def test_subsidiary_listing_is_resolved_into_partial_spin_off_or_dropped(monkeyp
     assert r == "partial" and s["confidence"][0] == "confirmed" and s["stage"] == "announced" and s["listed_on"] is None
     assert SO.verdict(s, [])["label"].startswith("PARTIAL SPIN-OFF, IPO IN MOTION")
     assert SO.listing_status(s, {}, today)["short"].startswith("IPO DRHP filed — IL JIN")
+    # an offer-for-sale 'record date' in the filings is not a listing date for an IPO in motion
+    s = {**_listing_sit("NLCINDIA", "NLC India Ltd."), "stage": "record_date", "listed_on": "2026-11-04", "days_since_listing": 12}
+    SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_ipo_announced", "subsidiary": "NLC India Renewables Limited (NIRL)",
+                                      "ipo_stage": "board approval", "quote": "q"}, today)
+    assert s["stage"] == "announced" and s["listed_on"] is None and s["facts"]["subsidiary"] == "NLC India Renewables Limited"
     # listed per the filings when NSE's list does not carry the name (a foreign listing)
     s = _listing_sit("KPIL", "Kalpataru Projects International Ltd.")
     SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_already_listed", "subsidiary": "Linjemontage i Grastorp AB",

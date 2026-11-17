@@ -1,6 +1,6 @@
 # Demerger list checked against NSE's register
 
-*Skill run 2026-11-16 · register from the daily bhavcopy bundles' corporate-actions file and NSE's corporate-actions API · 8 universe demerger record dates in the window.*
+*Skill run 2026-11-17 · register from the daily bhavcopy bundles' corporate-actions file and NSE's corporate-actions API · 8 universe demerger record dates in the window.*
 
 | | Count |
 |---|---:|
