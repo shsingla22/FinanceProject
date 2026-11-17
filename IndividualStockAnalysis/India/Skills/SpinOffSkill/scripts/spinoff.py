@@ -1215,12 +1215,21 @@ LISTING_LAG_NOTE = "resulting companies have typically listed 4–10 weeks after
 # confirmed and the probable lists.
 LISTING_YES = ("subsidiary_ipo_announced", "subsidiary_already_listed")
 LISTING_NO = {
+    "listed_entity_acquired_or_long_listed": "the listed entity was acquired already listed, or has been listed for years; no IPO in the period",
     "stake_sale_in_other_ipo": "the company is only selling shares it holds in another company's IPO",
     "sale_or_transfer": "a sale, slump sale or transfer of a business or subsidiary; nothing is listed",
     "merger": "a merger or amalgamation; nothing new is listed",
     "own_ipo": "the company's own IPO / listing, not a subsidiary's",
     "no_event": "no subsidiary listing is described in the documents",
 }
+
+
+def clean_entity(name: str) -> str:
+    """A legal name without the brackets judges and filings add: '(MCL)',
+    '(formerly known as …)', '(publ)'; '(India)' inside a name stays."""
+    n = re.sub(r"\s*\((?:formerly|earlier|erstwhile|previously|f\.?k\.?a)\b.*$", "", name or "", flags=re.I | re.S)
+    n = re.sub(r"\s*\((?!India\))[A-Za-z0-9&. ]{1,12}\)\s*$", "", n.strip())
+    return re.sub(r"\s+", " ", n).strip(" ,;")
 
 
 def _iso_date(s: str) -> str | None:
@@ -1246,7 +1255,7 @@ def resolve_subsidiary_listing(sit: dict, res: dict, today: dt.date | None = Non
     what = str(res.get("what_it_is") or "").strip().lower()
     f = sit.setdefault("facts", {})
     quote = str(res.get("quote") or "")[:200]
-    sub = str(res.get("subsidiary") or "").strip()
+    sub = clean_entity(str(res.get("subsidiary") or ""))
     if what == "subsidiary_ipo_withdrawn":
         f["listing_resolution"] = what
         sit["stage"] = "withdrawn"
@@ -1275,7 +1284,14 @@ def resolve_subsidiary_listing(sit: dict, res: dict, today: dt.date | None = Non
                 listed = None
             if listed:
                 f["subsidiary_listing_source"] = "per the filings"
-        if listed or what == "subsidiary_already_listed":
+        others = [clean_entity(str(x)) for x in (res.get("other_subsidiaries") or []) if isinstance(x, str) and x.strip()]
+        others = [x for x in others if x and x != sub and not re.match(r"not stated|none", x, re.I)]
+        if others:
+            f["other_subsidiaries"] = others[:4]
+        # 'already listed' needs a date, or the judge's own stage 'listed':
+        # an offer still open is an IPO in motion
+        said_listed = what == "subsidiary_already_listed" and str(res.get("ipo_stage") or "").strip().lower() == "listed"
+        if listed or said_listed:
             sit["stage"] = "listed"
             sit["listed_on"] = listed
             sit["days_since_listing"] = (today - dt.date.fromisoformat(listed)).days if listed else None

@@ -76155,5 +76155,37 @@
     "quote": "As you all know, Orkla India got listed on BSE and NSE on 6th of November."
    }
   }
+ },
+ "TRAVELFOOD::listing": {
+  "stamps": {
+   "9a27900b7ba7a7f292228051b639c3c6": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Please note that the Board of Directors of the Company, at its meeting held on Thursday, August 13, 2026, had, inter alia , considered and approved the Un-audited Financial Results (Standalone and Consolidated) for the quarter ended June 30, 2026."
+   }
+  }
+ },
+ "TRENT::listing": {
+  "stamps": {
+   "03f678d6300e38f8b1d5473c0853c210": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Netria Property Holdings Limited",
+    "relation": "subsidiary",
+    "parent_stake_before": "100% (Netria is a wholly owned subsidiary of Nahar Retail Trading Services Limited, itself a wholly owned subsidiary of the Company)",
+    "parent_stake_after": "not stated (\"Upon completion of the proposed transfer, Netria shall cease to be a subsidiary of Nahar and, consequently, of the Company\")",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "Per the filing dated 23rd October 2026: \"The transaction is expected to be completed following the completion of the initial public offer of the proposed first scheme of the Trust and satisfaction of the conditions precedent under the definitive transaction documents.\"",
+    "quote": "Nahar Retail Trading Services Limited (\"Nahar\"), a wholly owned subsidiary of the Company, has entered into a binding term sheet dated 22nd October 2026 with TreBits Investment Trust, a Small and Medium Real Estate Investment Trust registered with the Securities and Exchange Board of India (the \"Trust\"), in relation to the proposed divestment of its entire shareholding (100%) in its wholly owned subsidiary, Netria Property Holdings Limited."
+   }
+  }
  }
 }

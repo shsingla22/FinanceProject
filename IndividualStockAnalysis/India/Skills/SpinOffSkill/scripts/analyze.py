@@ -99,6 +99,7 @@ SEGMENT_CHARS = 115_000       # segment pages are tables; they must arrive whole
 FILINGS_CHARS = 320_000
 CALLS_CHARS = 360_000
 PROMPT_VERSION = "v2"
+LISTING_PROMPT_VERSION = "listing-v2"      # the subsidiary-listing resolution question
 
 
 # ------------------------------------------------------------- the judge
@@ -413,7 +414,11 @@ def listing_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
         '{"what_it_is": one of '
         '"subsidiary_ipo_announced" (a subsidiary / associate / JV of THIS company is to be listed by IPO or '
         'offer for sale and is not listed yet: board approval, DRHP, SEBI observations, offer open), '
-        '"subsidiary_already_listed" (such an entity has completed its IPO and trades), '
+        '"subsidiary_already_listed" (such an entity completed its IPO in the period these documents cover and '
+        'now trades; if the offer is open or allotment is pending and trading has not begun, answer '
+        'subsidiary_ipo_announced with ipo_stage "offer open"), '
+        '"listed_entity_acquired_or_long_listed" (the listed entity was ACQUIRED by this company already listed, '
+        'or has been listed for years — no IPO of it in the period), '
         '"subsidiary_ipo_withdrawn" (the IPO was withdrawn or shelved), '
         '"stake_sale_in_other_ipo" (the company only sells shares it holds, as a minority financial investor, '
         'in some OTHER company\'s IPO — e.g. a bank selling its stake in an exchange), '
@@ -421,7 +426,9 @@ def listing_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
         '"merger" (a merger / amalgamation; nothing new is listed), '
         '"own_ipo" (the listing discussed is this company\'s OWN recent IPO), '
         '"no_event" (none of these: ESOP notices, policies, results that merely mention a subsidiary), '
-        '"subsidiary": "<the full legal name of the entity being listed, or not stated>", '
+        '"subsidiary": "<the full legal name of the entity being listed, with no bracketed abbreviation or '
+        'former name; when several, the main one; or not stated>", '
+        '"other_subsidiaries": ["<any further entities being listed>"], '
         '"relation": "subsidiary"|"associate"|"joint venture"|"not stated", '
         '"parent_stake_before": "<the company\'s holding before the IPO, e.g. 94.5%, or not stated>", '
         '"parent_stake_after": "<its holding after, or not stated>", '
@@ -443,7 +450,7 @@ def judge_listing(sit: dict, scheme_text: str, calls_text: str,
     something else that only looked like one?"""
     if len(scheme_text) < 300 and len(calls_text) < 300:
         return {"status": "no documents", "note": "nothing on file to read"}
-    stamp = hashlib.md5((scheme_text + calls_text + MODEL + PROMPT_VERSION + "listing").encode()).hexdigest()
+    stamp = hashlib.md5((scheme_text + calls_text + MODEL + PROMPT_VERSION + LISTING_PROMPT_VERSION).encode()).hexdigest()
     return _ask(f"{sit['symbol']}::listing", stamp, listing_prompt(sit, scheme_text, calls_text), allow_ai, runner)
 
 
@@ -888,7 +895,8 @@ def render_report(record: dict, idx: dict | None = None) -> str:
         when = (f"{s['listed_on']} ({'NSE' if f.get('subsidiary_listing_source') == 'NSE equity list' else 'filings'})"
                 if s.get("listed_on") else ("listed; date not stated" if s["stage"] == "listed"
                                              else (f.get("ipo_timeline") or "date not fixed")[:90]))
-        A.append(f"| **{s['symbol']}** | {f.get('subsidiary', '—')[:60]} | {rel} · {stake[:40]} | "
+        more = f"; also {', '.join(f['other_subsidiaries'])}"[:70] if f.get("other_subsidiaries") else ""
+        A.append(f"| **{s['symbol']}** | {f.get('subsidiary', '—')[:60]}{more} | {rel} · {stake[:40]} | "
                  f"{f.get('ipo_stage', '—')} | {when} | {s['verdict']['score']} | "
                  f"{s['verdict']['label'].split(' — ')[0]} | “{(f.get('listing_quote') or '')[:160]}” |")
     if not partial:

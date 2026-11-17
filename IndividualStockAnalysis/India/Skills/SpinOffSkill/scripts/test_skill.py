@@ -1308,6 +1308,25 @@ def test_subsidiary_listing_is_resolved_into_partial_spin_off_or_dropped(monkeyp
     s = _listing_sit("X", "X Ltd")
     assert SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_already_listed", "subsidiary": "Old Subsidiary Limited"}, today) == "not"
     assert s["confidence"][0] == "other" and "two years" in s["confidence"][1]
+    # bracketed abbreviations and former names do not break the name or the exchange lookup
+    assert SO.clean_entity("Mahanadi Coalfields Limited (MCL)") == "Mahanadi Coalfields Limited"
+    assert SO.clean_entity("IL JIN Electronics (India) Limited (formerly known as IL JIN Electronics (India) Private Limited)") == "IL JIN Electronics (India) Limited"
+    assert SO.clean_entity("Linjemontage i Grästorp AB (publ)") == "Linjemontage i Grästorp AB"
+    s = _listing_sit()
+    SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_already_listed", "subsidiary": "HDB Financial Services Limited (HDBFS)",
+                                      "ipo_stage": "listed", "other_subsidiaries": ["Second Sub Limited (SSL)", "not stated"], "quote": "q"}, today)
+    assert s["facts"]["subsidiary"] == "HDB Financial Services Limited" and s["listed_on"] == "2025-07-02"
+    assert s["facts"]["other_subsidiaries"] == ["Second Sub Limited"]
+    # 'already listed' with the offer still open and no date anywhere is an IPO in motion
+    s = _listing_sit("SBIN", "State Bank of India")
+    SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_already_listed", "subsidiary": "SBI Funds Management Limited",
+                                      "ipo_stage": "offer open", "listing_date": "not stated", "quote": "q"}, today)
+    assert s["confidence"][0] == "confirmed" and s["stage"] == "announced" and s["listed_on"] is None
+    # an already-listed company that was acquired is not a partial spin-off
+    s = _listing_sit("BAJAJ-AUTO", "Bajaj Auto Ltd.")
+    assert SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "listed_entity_acquired_or_long_listed",
+                                             "subsidiary": "Bajaj Mobility AG", "quote": "q"}, today) == "not"
+    assert "acquired already listed" in s["confidence"][1]
     # withdrawn; and no judge answer leaves it probable
     s = _listing_sit("X", "X Ltd")
     assert SO.resolve_subsidiary_listing(s, {**ok, "what_it_is": "subsidiary_ipo_withdrawn", "subsidiary": "Sub Ltd", "quote": "DRHP withdrawn"}, today) == "withdrawn"
