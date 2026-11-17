@@ -1,6 +1,6 @@
 # Spin-offs and demergers — NiftyTotalMarket
 
-*Run 2026-11-16 · filings window 2024-04-01 → 2026-11-15 · 9944 restructuring filings across 682 companies · 39 confirmed demergers, 141 probable, 18 indicated, 825 rights / preferential offerings, 1159 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
+*Run 2026-11-16 · filings window 2024-04-01 → 2026-11-15 · 9944 restructuring filings across 682 companies · 39 confirmed demergers, 16 partial spin-offs (subsidiary IPOs), 88 probable, 20 indicated, 825 rights / preferential offerings, 1194 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
 
 **The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: the new stock is sold by holders who never chose it for about a year, the parent is often the better buy before the split, insiders tell you what they think through the stock and options they take in the new entity, and a pro-forma statement plus the peer P/E prices what the market is ignoring. This report puts the CONFIRMED demergers first — a demerger scheme on the exchange record — each with when the new entity lists, why management is doing it (three years of calls, with the transcript each point came from), the parent's last three years with charts, P/E and cash flows, and the separated business's own numbers from the annual reports and presentations, page-cited. Probable and indicated cases follow, then every other restructuring on file.
 
@@ -47,6 +47,29 @@
 | **MAHSEAMLES** | MSL Seamless Tubes Limited | announced | NOT YET (announced); timeline stated | 4.2 | PRE-SPIN |
 | **TEXRAIL** | Belgharia Engineering Udyog Private Limited | effective | RECORD DATE set; listing pending | 3.3 | SPINNING |
 | **NYKAA** | The e-B2B beauty distribution business (Superstore by Nykaa) moved fro… | nclt_sanction | NOT YET (nclt_sanction) | 2.5 | PRE-SPIN |
+
+### Partial spin-offs — a subsidiary listed, or being listed, by IPO
+
+The parent keeps a stake and the piece gets its own price (the notes' Sears case: once the piece trades, the parent's stub can be valued). Already listed first, then IPOs in motion. A listing date marked *NSE* is from the exchange's equity list; otherwise it is the date the filings give.
+
+| Company | Subsidiary | Relation · parent's stake | IPO stage | Listing | Score | Verdict | Evidence |
+|---|---|---|---|---|---:|---|---|
+| **SBIN** | SBI Funds Management Limited | subsidiary · not stated | listed | 2026-07-21 (NSE) | 6.2 | PARTIAL SPIN-OFF, LISTED <1Y | “This is in relation to the initial public offering of SBI Funds Management Limited (“SBIFM”), a subsidiary company of State Bank of India (“Offer”) and in furth” |
+| **KPIL** | Linjemontage i Grästorp Aktiebolag | subsidiary · 96.12% → 66.45% | listed | 2026-09-25 (filings) | 5.7 | PARTIAL SPIN-OFF, LISTED <1Y | “In accordance with Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)” |
+| **AEGISLOG** | Aegis Vopak Terminals Limited | subsidiary · 50.10% → 44% | listed | 2025-06-02 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED 1–2Y | “This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity share” |
+| **ICICIBANK** | ICICI Prudential Asset Management Company Limited | subsidiary · 53.0% | listed | 2025-12-19 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED <1Y | “Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.” |
+| **NTPC** | NTPC Green Energy Limited | subsidiary · 100.00% | listed | 2024-11-27 (NSE) | 4.4 | PARTIAL SPIN-OFF, LISTED 1–2Y | “We wish to inform you that NTPC Green Energy Limited (NGEL), a subsidiary of NTPC Limited, has filed a draft red herring prospectus ("DRHP") dated 18th Septembe” |
+| **BRIGADE** | Brigade Hotel Ventures Limited | subsidiary · 95.26% → 74.09% | listed | 2025-07-31 (NSE) | 4.3 | PARTIAL SPIN-OFF, LISTED 1–2Y | “Brigade Hotel Ventures Limited, subsidiary of Brigade Enterprises Limited came out with an Initial Public Offering (IPO) of ₹ 885.60 crores (including pre -IPO ” |
+| **CANBK** | Canara HSBC Life Insurance Company Limited; also Canara Robeco Asset Management Company Limited | subsidiary · 51% → 36.50% | listed | 2025-10-17 (NSE) | 3.6 | PARTIAL SPIN-OFF, LISTED 1–2Y | “In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Lif” |
+| **EDELWEISS** | EAAA India Alternatives Limited | subsidiary · 83.88% | listed | 2026-11-02 (NSE) | 2.9 | PARTIAL SPIN-OFF, LISTED <1Y | “In continuation of our earlier intimations made in connection with the Initial Public Offering (“IPO”) of EAAA India Alternatives Limited (“EAAA”), a subsidiary” |
+| **JSWSTEEL** | JSW One Platforms Limited | joint venture · about 61% equity stake on a fully dilute | board approval | Completion date of the proposed IPO is not available as on date. (filing dated July 17, 2026) | 5.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meetin” |
+| **FIRSTCRY** | Swara Baby Products Limited | subsidiary · 76.59% | DRHP filed | date not fixed | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “In this connection, we wish to inform you that Swara Baby has filed a DRHP dated July 02, 2026 with the Securities and Exchange Board of India, BSE Limited and ” |
+| **JSWCEMENT** | JSW One Platforms Limited | joint venture · not stated | board approval | Per the August 13, 2026 filing: "Completion date of the proposed IPO is not available as on date." | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meetin” |
+| **COALINDIA** | Mahanadi Coalfields Limited; also South Eastern Coalfields Limited | subsidiary · 100% (wholly owned subsidiary of Coal In | SEBI observations | Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete s… | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “The RHP filing pertains to the proposed initial public offering ("IPO") of MCL comprising an offer for sale of up to 661,836,300 equity shares by Coal India Lim” |
+| **MUTHOOTFIN** | Belstar Microfinance Limited | subsidiary · 66.13% | SEBI observations | "The IPO will be subject to market conditions, receipt of applicable approvals, if any, and other considerati… | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “In continuation of our letter dated May 05, 2024, we wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has informed us that it has rec” |
+| **GAIL** | GAIL Gas Limited | subsidiary · wholly owned subsidiary of GAIL (100%) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly ” |
+| **IEX** | Indian Gas Exchange Limited | associate · 47.3% → 25% | DRHP filed | July 24, 2026 analyst meet: "the good part is that they filed the DRHP in this month and hopefully (would be)… | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “In furtherance of our intimation dated December 03, 2025, and in terms of Regulation 30 of the SEBI Listing Regulations, we wish to inform that the Indian Gas E” |
+| **NLCINDIA** | NLC India Renewables Limited | subsidiary · 100% (Wholly Owned Subsidiary) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Who” |
 
 ## Probable and indicated
 
@@ -101,90 +124,10 @@ Demergers first, then subsidiary listings, then schemes whose nature the documen
 | **STYRENIX** | spin-off | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 2.9 | 2025-11 call · **carve out** · STYRENIX.pdf page 131 · “has been from the Far East. I won't na me specific countries, but there have been imports coming in from everywhere. And in spite of that, we have been able to carve out our niche position, and that will remain the case” |
 | **SURYAROSNI** | spin-off | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 2.9 | 2026-06 call · **demerger** · SURYAROSNI.pdf page 145 · “ta from Countercyclical Investments. Please go ahead. Love Gupta: Thank you for the opportunity, sir. So, I wanted to understand if there is any update on the demerger of the Lighting and Consumer Durable business and w”<br>2026-02 call · **Demerger** · SURYAROSNI.pdf page 138 · “payout at the company level because the company does not need so much money. Raju Bista : No, you are absolutely right. We will keep both your points in mind. Demerger is also a valid suggestion of yours. And subsequent” |
 | **MOTILALOFS** | spin-off | indicated — proposal withdrawn on 2025-01-28 | withdrawn | WITHDRAWN 2025-01-28 | 2.5 | [2025-01-28 Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/MOTILALOFS_28012025165411_MOFSL_Outcome_BM_28012025.pdf) · **Demerged** · [text line 75](../../../../Announcements/NiftyTotalMarket/text/MOTILALOFS_106127256.txt#L75) · “he Company") and Glide Tech Inves tment Adv isory Private Limi ted ("the Transferee Compan y" or "Glide") ( currentl y known as 'Motilal Oswal Broking and Distribution Limited') and Motilal Oswal Wealth Limited ("the Demerged Company" or "MOWL!) and their resp”<br>[2025-01-28 Integrated Filing- Financial](https://nsearchives.nseindia.in/corporate/MOTILALOFS_28012025200638_MOFSL_Integrated_Outcome_BM_28012025.pdf) · **Integrated Filing- Financial** · headline · “Please find enclosed herewith the Integrated Filing (Financial) for the quarter and nine months ended December 31, 2024.”<br>[2025-01-28 Financial Result Updates](https://nsearchives.nseindia.in/corporate/MOFSL_Outcome_BM_28012025_28012025165031.pdf) · **Demerged** · [text line 75](../../../../Announcements/NiftyTotalMarket/text/MOTILALOFS_168700.txt#L75) · “he Company") and Glide Tech Inves tment Adv isory Private Limi ted ("the Transferee Compan y" or "Glide") ( currentl y known as 'Motilal Oswal Broking and Distribution Limited') and Motilal Oswal Wealth Limited ("the Demerged Company" or "MOWL!) and their resp” |
-| **SBIN** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-03-19 | 6.2 | [2026-07-17 General Updates](https://nsearchives.nseindia.com/corporate/SBIN_17072026102320_BSE_NSE_SBIFunds_17072026.pdf) · **General Updates** · headline · “State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited”<br>[2026-07-16 General Updates](https://nsearchives.nseindia.com/corporate/SBIN_16072026225141_BSE_NSE_SBIFunds_16072026.pdf) · **General Updates** · headline · “State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited”<br>[2026-07-11 General Updates](https://nsearchives.nseindia.com/corporate/SBIN_11072026192423_BSE_NSE_RHP_11072026.pdf) · **subsidiary of the listed entity, sale of stake in the associate company of 
-the listed** · [text line 83](../../../../Announcements/NiftyTotalMarket/text/SBIN_106694948.txt#L83) · “division(s), whole or substantially the whole of the undertaking(s) or subsidiary of the listed entity, sale of stake in the associate company of the listed entity Sr”<br>+7 more documents |
-| **KPIL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-10-09 | 5.7 | [2026-10-24 General Updates](https://nsearchives.nseindia.com/corporate/KALPATPOWR_24102026134331_SEIntimationLMG24102026.pdf) · **General Updates** · headline · “Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage i Grastorp AB, a first level step down material subsidiary of the Comp”<br>[2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/KALPATPOWR_25092026085505_KPILSEIntimation25092026.pdf) · **General Updates** · headline · “Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage i Grästorp AB, a first level step down material subsidiary of the Comp”<br>[2026-09-16 General Updates](https://nsearchives.nseindia.com/corporate/KALPATPOWR_16092026165446_SEIntimationReg30LMG16092026mergedFINAL.pdf) · **subsidiary or associatecompany of the listed** · [text line 112](../../../../Announcements/NiftyTotalMarket/text/KPIL_106782005.txt#L112) · “The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associatecompany of the listed entity during the last financial yearGross Consolidated Turnover of LMG for F.Y”<br>+4 more documents |
-| **JSWSTEEL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | nclt_sanction | IPO in motion since 2024-10-04 | 5.6 | [2026-07-17 Disclosure of material issue](https://nsearchives.nseindia.com/corporate/jessydenny_17072026144838_Offering_for_Sale.pdf) · **subsidiary or associate company of the listed** · [text line 61](../../../../Announcements/NiftyTotalMarket/text/JSWSTEEL_106701411.txt#L61) · “List of events required to be di sclosed Information of such event(s) 1 Amount and percenta ge of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity durin ”<br>[2026-10-17 Amalgamation/Merger](https://nsearchives.nseindia.com/corporate/DivyaMascarenhas_17102026105940_JSWSLSEIntimationforOrdersanctioningPSLMergerOct2026.pdf) · **Amalgamation/Merger** · headline · “JSW Steel Limited has informed the Exchange about Order ofHon ble National Company Law Tribunal sanctioning the Scheme of Amalgamation of Piombino Steel Limited with JSW Steel Limited and theirrespect”<br>[2026-08-01 General Updates](https://nsearchives.nseindia.com/corporate/jessydenny_01082026141540_SE_Intimation_merger.pdf) · **General Updates** · headline · “Effectiveness of the Scheme of Amalgamation of Amba River Coke Limited and Monnet Cement Limited and JSW Retail and Distribution Limited with JSW Steel Limited and their respective shareholders.”<br>+6 more documents |
-| **AEGISLOG** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2024-10-28 | 5.0 | [2026-08-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/AEGISCHEM_07082026165718_ALL_SE_69AGM_Proceedings_Signed.pdf) · **subsidiaries, Aegis Vopak Terminals 
-Limited (AVTL), with successfully listing** · [text line 137](../../../../Announcements/NiftyTotalMarket/text/AEGISLOG_106731486.txt#L137) · “This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity shares on BSE Limited and the National Stock Exchange of India Limited with effect from June 2, 2025, rai”<br>[2025-08-08 Updates](https://nsearchives.nseindia.in/corporate/AEGISCHEM_08082025172704_ALL_Board_Comments_Fine_S.pdf) · **IPO”) of its material subsidiary** · [text line 47](../../../../Announcements/NiftyTotalMarket/text/AEGISLOG_106332548.txt#L47) · “The Board noted that the delay was on account of the consolidation of the Company’s financial results which was being impacted by the ongoing Initial Public Offering (“IPO”) of its material subsidiary, Aegis Vopak Terminals Limited (“AVTL”)”<br>[2025-07-21 General Updates](https://nsearchives.nseindia.in/corporate/AEGISCHEM_21072025192002_ALL_BRSR_2024-25_S.pdf) · **Subsidiary/ 
-Associate/ 
-Joint Venture% of 
-shares 
-held by 
-listed** · [text line 177](../../../../Announcements/NiftyTotalMarket/text/AEGISLOG_106306659.txt#L177) · “No.Name of the holding/subsidiary/ associate companies/ joint ventures (A)Indicate whether Holding/ Subsidiary/ Associate/ Joint Venture% of shares held by listed entityDoes the entity indicated at column A, participate in the Business Responsibility initiativ”<br>+6 more documents |
-| **BLACKBUCK** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2025-03-24 | 5.0 | [2026-08-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ZINKA2015_25082026222544_Intimation_AGM_notice_and_Annual_Report.pdf) · **Subsidiary 
-BlackBuck Finserve 
-Private Limited
-Listed** · [text line 168](../../../../Announcements/NiftyTotalMarket/text/BLACKBUCK_106756524.txt#L168) · “unlock growth”Snapshot of FY26++++++Growth Businesses Core Businesses Annual Report 2025-2 6 02 Corporate Overview Statutory Report Finan cial Statements 03 Incorporation of the Company2015Received NBFC License for Subsidiary BlackBuck Finserve Private Limited”<br>[2025-12-15 General Updates](https://nsearchives.nseindia.com/corporate/ZINKA2015_15122025191251_Intimation_Right_Issue_in_Subsidiary_signed.pdf) · **General Updates** · headline · “BLACKBUCK LIMITED has informed the Exchange about General Updates”<br>[2025-03-24 General Updates](https://nsearchives.nseindia.in/corporate/ZINKA2015_24032025191239_Intimation_investment_in_wos.pdf) · **subsidiary of the Company  
- 
-In furtherance to the Objects of th e Initial Public Offer** · [text line 22](../../../../Announcements/NiftyTotalMarket/text/BLACKBUCK_106180166.txt#L22) · “ecurities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Intimation of investment through Rights Issue in Blackbuck Finserve Private Limited (“BFPL”), a wholly owned subsidiary of the Company In furtherance to”<br>+1 more documents |
-| **ICICIBANK** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | record_date | IPO in motion since 2024-04-28 | 5.0 | [2025-12-19 General Updates](https://nsearchives.nseindia.com/corporate/ICICI2022_19122025113528_NSEBSE_19122025.pdf) · **General Updates** · headline · “ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015”<br>[2025-12-17 General Updates](https://nsearchives.nseindia.com/corporate/ICICI2022_17122025105720_NSEBSE_17122025.pdf) · **General Updates** · headline · “ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015”<br>[2025-12-09 General Updates](https://nsearchives.nseindia.com/corporate/ICICI2022_09122025221929_NSEBSE_09122025.pdf) · **IPO share capital of our subsidiary** · [text line 25](../../../../Announcements/NiftyTotalMarket/text/ICICIBANK_106464503.txt#L25) · “imited (“the Bank”) on December 8, 2025 with regard to execution of the share purchase agreement (“SPA”) with Prudential Corporation Holdings Limited (“PCHL”) for the acquisition of up to 2% of the fully diluted pre-IPO share capital of our subsidiary, ICICI P”<br>+15 more documents |
-| **NTPC** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-09-19 | 4.4 | [2024-09-19 Updates](https://nsearchives.nseindia.in/corporate/NTPC_19092024120246_NTPCDRHPJSA.pdf) · **draft red herring** · [text line 29](../../../../Announcements/NiftyTotalMarket/text/NTPC_105992640.txt#L29) · “NTPC ISIN: INE733E01010 Sub.: Disclosure under Regulation 30 of Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, NTPC Green Energy Limited - Filing of draft red herring prospectus Dear Sir/Madam, We wish t” |
-| **PREMIERENE** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-08-06 | 4.4 | [2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_06082026171835_SE_Intimation_Outcome_of_BM_signed.pdf) · **subsidiaries and associates listed** · [text line 213](../../../../Announcements/NiftyTotalMarket/text/PREMIERENE_106729018.txt#L213) · “The Statement includes the results of the subsidiaries and associates listed in Annexure I”<br>[2026-08-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PEL2024_06082026172521_SE_Intimation_Outcome_of_BM_signed.pdf) · **subsidiaries and associates listed** · [text line 213](../../../../Announcements/NiftyTotalMarket/text/PREMIERENE_106729042.txt#L213) · “The Statement includes the results of the subsidiaries and associates listed in Annexure I” |
-| **SAATVIKGL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-02-04 | 4.4 | [2026-02-04 Acquisition](https://nsearchives.nseindia.com/corporate/SAATVIK_04022026204802_Intimation_of_Acquisition_signed_-.pdf) · **Subsidiary of the Company  
- 
-In furtherance to the Objects of the Initial Public Offer (“IPO** · [text line 21](../../../../Announcements/NiftyTotalMarket/text/SAATVIKGL_106520464.txt#L21) · “0001 Complex Bandra (E), Mumbai – 400 051 Scrip Code: 544526 Symbol: SAATVIKGL Dear Sir/Madam, Sub: Intimation of investment through Rights Issue in Saatvik Solar Industries Private Limited , Wholly Owned Subsidiary of the Company In furtherance to the Objects”<br>[2026-02 call transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=96e61630-6cb7-4fcd-b518-35c31125a0aa.pdf) · **value unlocking** · SAATVIKGL.pdf page 30 · “it's maybe around 3% -4% of our monthly sales. Gaurav: Fair enough. Prashant Mathur: Yes, that's what in the earlier answer I was saying that with Saatvik the value unlocking is around the corner and that is because sin” |
-| **TRAVELFOOD** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-08-13 | 4.4 | [2026-08-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/TRAVELFOOD_13082026180405_TFSLoutcomeofBM13082026N.pdf) · **Subsidiary 
-5 TFS Gurgaon Aipo** · [text line 164](../../../../Announcements/NiftyTotalMarket/text/TRAVELFOOD_106742354.txt#L164) · “Technology and Services Private Limited {formerly Subsidiary known as TFS Yamuna Airport Services Private Limited and formerly TFS (R&R Works) Private Limited) 4 QMT Lifestyle and Technology Services Private Limited Subsidiary 5 TFS Gurgaon Aiport Services Pri” |
-| **BHEL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-07-31 | 4.3 | [2024-08-01 Updates](https://nsearchives.nseindia.in/corporate/BHEL_01082024173958_BHELINFORMATION.pdf) · **Updates** · headline · “Bharat Heavy Electricals Limited has informed the Exchange regarding 'BHEL Q1 FY25 Supplementary Information UPDATED'.”<br>[2024-07-31 Updates](https://nsearchives.nseindia.in/corporate/BHEL_31072024171158_BHELInformation.pdf) · **Updates** · headline · “Bharat Heavy Electricals Limited has informed the Exchange regarding 'BHEL Q1 FY25 Supplementary Information'.” |
-| **BLS** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-14 | 4.3 | [2024-05-14 Press Release](https://nsearchives.nseindia.in/corporate/BLS_14052024164124_Intimation_Press_release.pdf) · **Press Release** · headline · “BLS International Services Limited has informed the Exchange regarding a press release dated May 14, 2024, titled "Press Release with respect to Audited Consolidated and Standalone Financial Results f”<br>[2025-11-11 Sale or disposal](https://nsearchives.nseindia.com/corporate/BLS_11112025225534_Intimation_of_Strikeoff.pdf) · **Sale or disposal** · headline · “BLS International Services Limited has informed the Exchange about closure/ strike off of Reired BLS International Services Private Limited (Wholly owned Subsidiary of the Company)” |
-| **BRIGADE** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-10 | 4.3 | [2025-09-26 General Updates](https://nsearchives.nseindia.in/corporate/BRIGADE_26092025192837_Intimation30saleofland.pdf) · **General Updates** · headline · “Brigade Enterprises Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015”<br>[2025-08-13 Press Release](https://nsearchives.nseindia.in/corporate/BRIGADE_13082025175901_PressReleaseQ12026.pdf) · **subsidiary, cam e out with its Initial Public Offering and got listed** · [text line 72](../../../../Announcements/NiftyTotalMarket/text/BRIGADE_106339586.txt#L72) · “Brigade Hotel Ventures Limited, our subsidiary, cam e out with its Initial Public Offering and got listed on the stock exchanges in July 2025, marking a major milestone in our journey”<br>[2025-07-30 General Updates](https://nsearchives.nseindia.in/corporate/BRIGADE_30072025231913_IntimationReg30AllomentofsharesbyBHVL.pdf) · **IPO) by Subsidiary** · [text line 19](../../../../Announcements/NiftyTotalMarket/text/BRIGADE_106318449.txt#L19) · “de: 532929 Dear Sir/ Madam, Sub: Intimation under Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)- Intimation regarding Initial Public Offering (IPO) by Subsidiary Company: This is in furtheranc”<br>+2 more documents |
-| **EMMVEE** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2025-12-02 | 4.3 | [2025-12-02 Shareholders meeting](https://nsearchives.nseindia.com/corporate/EMMVEE_02122025180020_EPPL_Postal_Ballot.pdf) · **Shareholders meeting** · headline · “Emmvee Photovoltaic Power Limited has informed the Exchange regarding Notice of Postal Ballot” |
-| **ENTERO** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2024-08-02 | 4.3 | [2024-08-06 Corrigendum](https://nsearchives.nseindia.in/corporate/ENTERO_06082024142040_Corrigendumfinal.pdf) · **Corrigendum** · headline · “Entero Healthcare Solutions Limited has informed the Exchange regarding Corrigendum to Notice of Annual General Meeting”<br>[2024-08-02 Shareholders meeting](https://nsearchives.nseindia.in/corporate/ENTERO_02082024213756_AGMNotice.pdf) · **Shareholders meeting** · headline · “Entero Healthcare Solutions Limited has informed the Exchange regarding Notice of 06th Annual General Meeting to be held on August 28, 2024” |
-| **FIRSTCRY** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2025-02-08 | 4.3 | [2026-08-29 Shareholders meeting](https://nsearchives.nseindia.com/corporate/BRAINBEES_29082026232500_IntimationofAGMNotice.pdf) · **subsidiaries )
-RESOLVED FURTHER THAT the variation in the objects of the IPO** · [text line 341](../../../../Announcements/NiftyTotalMarket/text/FIRSTCRY_106761714.txt#L341) · “sidiary, Globalbees Brands towards acquisition of additional stake in any of our existing step-down Subsidiaries (Note: Through this amendment, the object is now covering investment in any of the existing step-down subsidiaries ) RESOLVED FURTHER THAT the vari”<br>[2026-07-02 General Updates](https://nsearchives.nseindia.com/corporate/BRAINBEES_02072026151519_DisclosureunderRegulation30DRHPStage.pdf) · **Draft Red Herring** · [text line 20](../../../../Announcements/NiftyTotalMarket/text/FIRSTCRY_106684478.txt#L20) · “change Plaza, C – 1, Block G, Bandra -Kurla Complex, Bandra (E), Mumbai -400051 Symbol: FIRSTCRY BSE Limited Phiroze Jeejeebhoy Towers, Dalal Street, Mumbai -400001 Scrip Code: 544226 Sub: Filing of Draft Red Herring Prospectus (“DRHP”) by Swara Baby Products ”<br>[2026-07-01 General Updates](https://nsearchives.nseindia.com/corporate/BRAINBEES_01072026193848_DraftDisclosureunderRegulation30OFSParticipation.pdf) · **General Updates** · headline · “Brainbees Solutions Limited has informed the Exchange about an intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Participation in Offer f”<br>+14 more documents |
-| **JSWCEMENT** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | nclt_sanction | IPO in motion since 2025-11-17 | 4.3 | [2026-08-13 Disclosure of material issue](https://nsearchives.nseindia.com/corporate/JSWCL_13082026193636_JSW_One_Platforms_dsc.pdf) · **subsidiary or associate 
-company of the listed** · [text line 119](../../../../Announcements/NiftyTotalMarket/text/JSWCEMENT_106742852.txt#L119) · “List of events required to be disclosed Information of such event(s) 1 amount and percentage of the turnover or revenue or income and net worth cont ributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during ”<br>[2026-07-17 General Updates](https://nsearchives.nseindia.com/corporate/JSWCL_17072026195210_Stock_Exchange_Intimation.pdf) · **subsidiary or associate company of the listed** · [text line 130](../../../../Announcements/NiftyTotalMarket/text/JSWCEMENT_106702070.txt#L130) · “List of events required to be di sclosed Information of such event(s) 1 Amount and percenta ge of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity durin ”<br>[2026-05-21 Press Release](https://nsearchives.nseindia.com/corporate/JSWCL_21052026130017_upload.pdf) · **Press Release** · headline · “Please find attached the Press Release.”<br>+6 more documents |
-| **MANAPPURAM** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2025-03-20 | 4.3 | [2025-03-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/MANAPPURAM_20032025190309_Project_Aurum_Regulation_30_disclosure_Outcome.pdf) · **draft red herring** · [text line 223](../../../../Announcements/NiftyTotalMarket/text/MANAPPURAM_106177146.txt#L223) · “In addition to the above and further to the disclosure dated October 5, 2023 made by the Company inter alia informing that its subsidiary namely, Asirvad Micro Finance Limited (“AMFL ”), had ﬁled a draft red herring prospectus dated October 4, 2023 (“ DRHP ”) ” |
-| **ORKLAINDIA** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2026-07-25 | 4.3 | [2026-07-25 Shareholders meeting](https://nsearchives.nseindia.com/corporate/ORKLA2025_25072026175146_SIGNEDIntimationNoticeofAGM.pdf) · **Shareholders meeting** · headline · “Orkla India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 19, 2026” |
-| **ADANIPORTS** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | effective | IPO in motion since 2024-05-31 | 3.6 | [2026-05-12 Updates](https://nsearchives.nseindia.com/corporate/rkbhagia_12052026160738_SEINTIMATION.pdf) · **Updates** · headline · “Adani Ports and Special Economic Zone Limited has informed the Exchange regarding 'Media Release regarding APSEZ s marine arm, AstroOffshore in contract with Oceaneering International Inc., for Europe”<br>[2026-04-21 Updates](https://nsearchives.nseindia.com/corporate/rkbhagia_21042026190429_IntimationforSchemeEffective.pdf) · **Updates** · headline · “Adani Ports and Special Economic Zone Limited has informed the Exchange regarding 'Intimation of Effective Date of Scheme of Amalgamation of Adani Harbour Services Limited, wholly owned subsidiary of ”<br>[2025-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/rkbhagia_04112025130037_OutcomeofBoardMeeting.pdf) · **subsidiaries") as a whole ("the Group") in respect of its 49,854 Listed** · [text line 1307](../../../../Announcements/NiftyTotalMarket/text/ADANIPORTS_106426030.txt#L1307) · “s Management Service Limited and Adani Logistics Limited ("the subsidiaries company") and also Step down subsidiaries namely Adani Forwarding Agent Limited, Shankheshwar Buildwell Limited and NRC Limited ("Step down subsidiaries") as a whole ("the Group") in r”<br>+3 more documents |
-| **ANTHEM** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2025-08-13 | 3.6 | [2025-08-13 Shareholders meeting](https://nsearchives.nseindia.in/corporate/COMPLIANCE_ABL1_13082025220155_PBNoticeIntimationSigned.pdf) · **Shareholders meeting** · headline · “Anthem Biosciences Limited has informed the Exchange regarding Notice of Postal Ballot” |
-| **BAJAJ-AUTO** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2025-12-02 | 3.6 | [2026-06-23 Updates](https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_23062026174005_NCD_Listing_500cr_BACL.pdf) · **Updates** · headline · “Bajaj Auto Limited has informed the Exchange regarding ' issuance, allotment and listing of Non-convertible Debentures by Bajaj Auto Credit Limited, a wholly owned subsidiary of Bajaj Auto Limited.'”<br>[2025-12-02 General Updates](https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_02122025114217_SE_-_BACL_NCD_Listing.pdf) · **General Updates** · headline · “Bajaj Auto Limited has informed the Exchange about issuance, allotment and listing of Non-convertible Debentures by Bajaj Auto Credit Limited, a wholly owned subsidiary of Bajaj Auto Limited.” |
-| **BAJFINANCE** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-06-03 | 3.6 | [2024-09-13 Diversification/Disinvestmen](https://nsearchives.nseindia.in/corporate/BAJFINANCE_13092024182552_BFL_BHFLCessationasWOS.pdf) · **subsidiary or 
-associate company of the listed** · [text line 132](../../../../Announcements/NiftyTotalMarket/text/BAJFINANCE_105988139.txt#L132) · “Disclosure requirements Details a) The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year; Name of ”<br>[2024-08-31 Updates](https://nsearchives.nseindia.in/corporate/BAJFINANCE_31082024175728_BHFLRHPIPOINTIMATIONBSENSE.pdf) · **Draft Red Herring** · [text line 29](../../../../Announcements/NiftyTotalMarket/text/BAJFINANCE_105972805.txt#L29) · “ts) Regulatio ns, 2015 We refer to our earlier intimation dated June 8, 2024, vide which it was informed inter alia that Bajaj Housing Finance Limited (“BHFL”), a subsidiary of Bajaj Finance Limited, has filed its Draft Red Herring Prospectus (“ DRHP”) with th”<br>[2024-07-23 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/BAJFINANCE_23072024153814_BSENSEOUTCOMEJULY2024.pdf) · **subsidiary , BHFL, aggregating to ' 3,000 crore pursuant to the initial public offer** · [text line 171](../../../../Announcements/NiftyTotalMarket/text/BAJFINANCE_105922865.txt#L171) · “3 The Board of Directors of the Company at its meeting held on 7 June 2024 considered and approved the offer for sale of up to such number of equity shares of face value of' 1 o each of its wholly owned subsidiary , BHFL, aggregating to ' 3,000 crore pursuant ”<br>+3 more documents |
-| **BANKBARODA** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-10-03 | 3.6 | [2026-09-08 General Updates](https://nsearchives.nseindia.com/corporate/BANKBARODA_08092026180634_SEINTIMATION.pdf) · **subsidiary 
-or associate company of the listed** · [text line 77](../../../../Announcements/NiftyTotalMarket/text/BANKBARODA_106775037.txt#L77) · “No Particulars Details a) The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year; Dividend received”<br>[2024-10-03 General Updates](https://nsearchives.nseindia.in/corporate/BANKBARODA_03102024150014_SEOMAN.pdf) · **General Updates** · headline · “Bank Of Baroda has informed the Exchange about General Updates” |
-| **BIOCON** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-04-02 | 3.6 | [2025-11-14 Rumour Verification - Regula](https://nsearchives.nseindia.com/corporate/Biocon2_14112025082957_Rumour_verification.pdf) · **subsidiary of the Company , IPO** · [text line 38](../../../../Announcements/NiftyTotalMarket/text/BIOCON_106443385.txt#L38) · “Biocon Limited (BL) considering merging Biocon Biologics Limited (BBL) , an unlisted subsidiary of the Company , IPO and share swap options”<br>[2024-04-02 Updates](https://nsearchives.nseindia.in/corporate/BIOCON_02042024180048_Intimation_Reg30_020424_signed.pdf) · **subsidiary or associate company of 
-the listed** · [text line 60](../../../../Announcements/NiftyTotalMarket/text/BIOCON_105803787.txt#L60) · “The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year Revenue of the businesses for FY 2022 -23 wa” |
-| **CANBK** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-31 | 3.6 | [2025-10-17 Updates](https://nsearchives.nseindia.in/corporate/CANBK_17102025163235_LettertoSE17102025Sd.pdf) · **Subsidiary through Initial Public Offer** · [text line 31](../../../../Announcements/NiftyTotalMarket/text/CANBK_106411322.txt#L31) · “Dear Sir/Madam, In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.”<br>[2025-10-16 Updates](https://nsearchives.nseindia.in/corporate/CANBK_16102025190221_LettertoSE16102025Sd.pdf) · **Subsidiary through Initial Public Offer** · [text line 33](../../../../Announcements/NiftyTotalMarket/text/CANBK_106410070.txt#L33) · “Dear Sir/Madam, In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara Robeco Asset Management Company Limited, Subsidiary through Initial Public Offer from 51% to”<br>[2025-10-03 Updates](https://nsearchives.nseindia.in/corporate/CANBK_03102025113839_LettertoSE03102025Sd.pdf) · **Updates** · headline · “Canara Bank has informed the Exchange regarding 'information on subsidiaries'.”<br>+5 more documents |
-| **CAPLIPOINT** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-04-16 | 3.6 | [2026-05-14 Press Release](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_14052026190828_Press_Release_sd.pdf) · **Subsidiary Company of Caplin Point 
-Laboratories Limited  (BSE: CAPPL (524742), NSE: CAPLIPO** · [text line 51](../../../../Announcements/NiftyTotalMarket/text/CAPLIPOINT_106623229.txt#L51) · “Press Release 1 CAPLIN STERILES GETS USFDA APPROVAL FOR FOSCARNET SODIUM INJECTION Chennai, May 14th, 202 6: Caplin Steriles Limited (C SL), a Subsidiary Company of Caplin Point Laboratories Limited (BSE: CAPPL (524742), NSE: CAPLIPOINT) , has been granted fin”<br>[2026-05-05 Press Release](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_05052026124214_Press_Release.pdf) · **Subsidiary Company of Caplin Point 
-Laboratories Limited  (BSE: CAPPL (524742), NSE: CAPLIPO** · [text line 51](../../../../Announcements/NiftyTotalMarket/text/CAPLIPOINT_106609313.txt#L51) · “Press Release 1 CAPLIN STERILES GETS USFDA APPROVAL FOR CALCIUM GLUCONATE INJECTION Chennai, May 05th, 202 6: Caplin Steriles Limited ( CSL), a Subsidiary Company of Caplin Point Laboratories Limited (BSE: CAPPL (524742), NSE: CAPLIPOINT) , has been granted fi”<br>[2026-03-13 Press Release](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_13032026120230_Press_Release__sd.pdf) · **Subsidiary Company of Caplin Point 
-Laboratories Limited  (BSE: CAPPL (524742), NSE: CAPLIPO** · [text line 51](../../../../Announcements/NiftyTotalMarket/text/CAPLIPOINT_106556709.txt#L51) · “Press Release 1 CAPLIN STERILES GETS USFDA APPROVAL FOR POTASSIUM PHOSPHATES INJECTION Chennai, March 13th, 202 6: Caplin Steriles Limited ( CSL), a Subsidiary Company of Caplin Point Laboratories Limited (BSE: CAPPL (524742), NSE: CAPLIPOINT) , has been grant”<br>+17 more documents |
-| **COALINDIA** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2025-05-20 | 3.6 | [2026-11-14 General Updates](https://nsearchives.nseindia.in/corporate/COALINDIA_14112026072625_rhp.pdf) · **General Updates** · headline · “Filing of RHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL, with SEBI”<br>[2026-11-02 General Updates](https://nsearchives.nseindia.com/corporate/COALINDIA_02112026120108_SECL.pdf) · **DRHP** · [text line 16](../../../../Announcements/NiftyTotalMarket/text/COALINDIA_106839219.txt#L16) · “Ref: ISIN – INE522F01014 Subject: Disclosure under Regulation 30 of SEBI LODR, 2015 - Filing of DRHP of South Eastern Coalfields Limited (SECL), a wholly owned Subsidiary of CIL, with SEBI”<br>[2026-09-02 General Updates](https://nsearchives.nseindia.com/corporate/COALINDIA_02092026103250_Draft_letter_to_stock_exchange_DRHP_MCL_signed.pdf) · **DRHP** · [text line 39](../../../../Announcements/NiftyTotalMarket/text/COALINDIA_106765555.txt#L39) · “Ref: ISIN – INE522F01014 Subject: Disclosure under Regulation 30 of SEBI LODR , 2015 – Filing of DRHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL”<br>+11 more documents |
-| **GPIL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-06-01 | 3.6 | [2026-11-13 Acquisition](https://nsearchives.nseindia.in/corporate/GPIL_13112026213113_GPILNSEBSEGNEPL50CR13112026.pdf) · **Acquisition** · headline · “Godawari Power And Ispat limited has informed the Exchange regarding allotment of 5,00,00,000 Preference shares aggregating Rs. 50.00 Cr by Godawari New Energy Private Limited, A wholly owned Subsidia”<br>[2026-10-17 Acquisition](https://nsearchives.nseindia.com/corporate/GPIL_17102026163829_GPILNSEBSENEWINCORPORATIONGESPL17102026.pdf) · **Subsidiary of Godawari Power and Ispat Limited
-Pursuant  to  Regulation  30   of  SEBI  (Listing** · [text line 17](../../../../Announcements/NiftyTotalMarket/text/GPIL_106821190.txt#L17) · “f India Limited Exchange Plaza, C/1, Block G, Bandra Kurla Complex, Bandra (East), Mumbai-400051. Scrip Code: GPIL • Dear Sirs/ Madam, Sub.: Incorporation of Godawari Energy So]utions Private Limited, A Wholly Owned Subsidiary of Godawari Power and Ispat Limit”<br>[2026-10-01 Acquisition](https://nsearchives.nseindia.com/corporate/GPIL_01102026170529_GPILNSEBSEREG30INCORPORATIONOFCOMPANY01102026.pdf) · **Acquisition** · headline · “Godawari Power And Ispat limited has informed the Exchange about Proposed incorporation of Godawari Energy Solutions Private Limited as Wholly Owned Subsidiary Company of Godawari power and Ispat Limi”<br>+4 more documents |
-| **GREAVESCOT** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-08 | 3.6 | [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GREAVESCOT_29102026143831_GCL_Interimoutcomesd.pdf) · **Outcome of Board Meeting** · headline · “Greaves Cotton Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.”<br>[2024-12-23 General Updates](https://nsearchives.nseindia.in/corporate/GREAVESCOT_23122024224409_Greavescot_23122024.pdf) · **initial public offering by a material subsidiary** · [text line 15](../../../../Announcements/NiftyTotalMarket/text/GREAVESCOT_106092504.txt#L15) · “Dear Sir/Madam, Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI LODR Regulations”) Re: Proposed initial public offering by a material subsidiary of”<br>[2024-12-11 General Updates](https://nsearchives.nseindia.in/corporate/GREAVESCOT_11122024155618_Greaves_11122024.pdf) · **General Updates** · headline · “Greaves Cotton Limited has informed the Exchange about General Updates”<br>+2 more documents |
-| **HINDALCO** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-14 | 3.6 | [2024-06-05 Press Release](https://nsearchives.nseindia.in/corporate/HINDALCO_05062024064649_Novelis_Cancel_IPO_PR_signed.pdf) · **subsidiary of the Company has  announced the postponement of its initial public offer** · [text line 20](../../../../Announcements/NiftyTotalMarket/text/HINDALCO_105874208.txt#L20) · “Our Intimations dated February 20, 2024 , May 14, 2024 & May 28, 2024 Pursuant to the above referred, please note that Novelis Inc., a wholly owned subsidiary of the Company has announced the postponement of its initial public offering due to market conditions”<br>[2024-05-28 Press Release](https://nsearchives.nseindia.in/corporate/HINDALCO_28052024165517_Novelis_roadshow_PR_signed.pdf) · **subsidiary of  the 
-Company  has announced that it has launched a roadshow for the initial public offer** · [text line 21](../../../../Announcements/NiftyTotalMarket/text/HINDALCO_105864671.txt#L21) · “Our Intimations dated February 20, 2024 & May 14, 2024 Pursuant to the above re ferred , please note that Novelis Inc., a wholly owned subsidiary of the Company has announced that it has launched a roadshow for the initial public offering (IPO) of 45,000,000 o”<br>[2024-05-14 Press Release](https://nsearchives.nseindia.in/corporate/HINDALCO_14052024035641_Reg_30_Novelis_Revised_Signed.pdf) · **Press Release** · headline · “Hindalco Industries Limited has informed the Exchange regarding a press release dated May 14, 2024, titled "Novelis Files Registration Statement for Proposed InitialPublic Offering".”<br>+1 more documents |
-| **INDGN** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2025-07-11 | 3.6 | [2025-07-11 Shareholders meeting](https://nsearchives.nseindia.in/corporate/INDEGENE_11072025124305_Intimation_of_Postal_Ballot_Notice.pdf) · **Shareholders meeting** · headline · “Indegene Limited has informed the Exchange regarding Notice of Postal Ballot” |
-| **INDIAMART** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-07-30 | 3.6 | [2025-05-19 General Updates](https://nsearchives.nseindia.in/corporate/INDIAMART_19052025154012_Publication_of_Advertisement_19052025.pdf) · **DRHP** · [text line 245](../../../../Announcements/NiftyTotalMarket/text/INDIAMART_106237863.txt#L245) · “see "History and Cerl~in Corporate Matters-Other disclosures -Scheme of Arrange,mm l" on pago 168 of tho Drah Red Herring P1ospectusdated July 7, 2023 ("DRHP" or "Draft Red Herring Prospectus")”<br>[2025-01-21 Integrated Filing- Financial](https://nsearchives.nseindia.in/corporate/INDIAMART_21012025165146_Integrated_Filing_Financials_Q3.pdf) · **Integrated Filing- Financial** · headline · “Integrated Filing (Financials) for the quarter and nine months ended December 31, 2024”<br>[2024-07-30 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/INDIAMART_30072024151751_OutcomeofBoardMeetingJuly302024Final.pdf) · **Outcome of Board Meeting** · headline · “Indiamart Intermesh Limited has informed the Exchange regarding Board meeting held on July 30, 2024.”<br>+1 more documents |
-| **MUTHOOTFIN** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-05 | 3.6 | [2024-09-03 Updates](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_03092024084747_BelstarDRHPSd.pdf) · **Draft Red Herring** · [text line 32](../../../../Announcements/NiftyTotalMarket/text/MUTHOOTFIN_105974956.txt#L32) · “Regulation 30, read with other applicable regulations of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the “Listing Regulations”) Re: Draft Red Herring Prospectus filed by Belstar Mi”<br>[2024-05-05 Updates](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_05052024111724_BelstarDRHPSigned.pdf) · **Draft Red Herring** · [text line 27](../../../../Announcements/NiftyTotalMarket/text/MUTHOOTFIN_105834816.txt#L27) · “n 30, read with other applicable regulations of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the “Listing Regulations”) Re: Filing of Draft Red Herring Prospectus by Belstar Microfi”<br>[2024-05-18 Updates](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_18052024112907_Link_Intime_Acquisition_signed.pdf) · **Updates** · headline · “Muthoot Finance Limited has informed the Exchange regarding 'Intimation from RTA'.” |
-| **ONGC** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-20 | 3.6 | [2024-05-20 Press Release](https://nsearchives.nseindia.in/corporate/ONGC_20052024224853_PR200524.pdf) · **Press Release** · headline · “Oil & Natural Gas Corporation Limited has informed the Exchange regarding a press release dated May 20, 2024, titled "Press Release dated 20.05.2024".” |
-| **PAYTM** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-08-26 | 3.6 | [2024-08-26 News Verification](-) · **News Verification** · headline · “The Exchange has sought clarification from One 97 Communications Limited with respect to recent news item captioned Vijay Shekhar Sharma, Paytm directors face Sebi show-cause notices over IPO breaches”<br>[2024-08-26 News Verification](https://nsearchives.nseindia.in/corporate/PAYTM_26082024180633_SEDisclosureClarificationonnews26082024.pdf) · **News Verification** · headline · “The Exchange has sought clarification from One 97 Communications Limited with respect to recent news item captioned Vijay Shekhar Sharma, Paytm directors face Sebi show-cause notices over IPO breaches”<br>[2026-04-25 Sale or disposal](https://nsearchives.nseindia.com/corporate/PAYTM_25042026200212_SEDisclosurePPBL.pdf) · **Sale or disposal** · headline · “One 97 Communications Limited has informed the Exchange about Voluntary winding up of Paytm Payments Bank Limited, an associate company of the Company.”<br>+1 more documents |
-| **PFC** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | exchange_noc | IPO in motion since 2024-11-12 | 3.6 | [2026-11-04 General Updates](https://nsearchives.nseindia.com/corporate/PFC2023_04112026171347_Intimation04112026namechangeSigned.pdf) · **subsidiary of Power Finance Corporation Limited)- W AHIPO** · [text line 19](../../../../Announcements/NiftyTotalMarket/text/PFC_106844768.txt#L19) · “¢-400001 Sub: Name change of wholly owned Subsidiary of PFC Consulting Limited (a wholly owned subsidiary of Power Finance Corporation Limited)- W AHIPORA AND SALLAR TRANSMISSION LIMITED Madam/Sir, This is to inform that the name of the following Special Purpo”<br>[2024-11-12 General Updates](https://nsearchives.nseindia.in/corporate/PFC_12112024162450_intimation12112024SIGNED.pdf) · **subsidiary of Power Finance Corporation Limited) -Wahipo** · [text line 24](../../../../Announcements/NiftyTotalMarket/text/PFC_106055234.txt#L24) · “¢-400001 Sub: Incorporation of a wholly owned Subsidiary of PFC Consulting Limited (a wholly owned subsidiary of Power Finance Corporation Limited) -Wahipora and Sa liar Transmission Limited”<br>[2026-10-19 Amalgamation/Merger](https://nsearchives.nseindia.com/corporate/PFC2023_19102026223732_IntimationNoCNSEBSE19102026signed.pdf) · **Amalgamation/Merger** · headline · “Intimation of receipt of No Objection letters from BSE Limited and National Stock Exchange of India Limited in relation to proposed scheme of merger of REC Limited ( Transferor Company ) with and into”<br>+1 more documents |
-| **ADANIPOWER** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-06-03 | 2.9 | [2026-08-27 General Updates](https://nsearchives.nseindia.com/corporate/ADANIPOWER_27082026173638_APLSPACIPL27082026.pdf) · **subsidiary or associate company of 
-the listed** · [text line 39](../../../../Announcements/NiftyTotalMarket/text/ADANIPOWER_106759189.txt#L39) · “Particulars Details 1 The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year; CIPL is yet to commen”<br>[2026-02-24 Updates](https://nsearchives.nseindia.com/corporate/ADANIPOWER_24022026083037_APLPressReleasereceiptofLoA24022026.pdf) · **Updates** · headline · “Adani Power Limited has informed the Exchange regarding 'Press Release'.”<br>[2024-09-27 Updates](https://nsearchives.nseindia.in/corporate/ADANIPOWER_27092024210117_APLATEMPLbecomingsubsidiary27092024.pdf) · **Updates** · headline · “Adani Power Limited has informed the Exchange regarding 'Anuppur Thermal Energy (MP) Private Limited Becoming Subsidiary Of The Company'.”<br>+3 more documents |
-| **AKUMS** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2025-02-06 | 2.9 | [2025-02-14 Shareholders meeting](https://nsearchives.nseindia.in/corporate/NSEAKUMS10_14022025125717_Intimation_Postalballotsigned.pdf) · **Shareholders meeting** · headline · “Akums Drugs and Pharmaceuticals Limited has informed the Exchange regarding Notice of Postal Ballot”<br>[2025-02-06 Integrated Filing- Financial](https://nsearchives.nseindia.in/corporate/NSEAKUMS10_06022025190332_AKUMSINTEGRATEDFILINGSIGNED.pdf) · **subsidiaries, which was part of object clause of the IPO** · [text line 227](../../../../Announcements/NiftyTotalMarket/text/AKUMS_106140505.txt#L227) · “However, the management las exercised necessary diligence to ensure that the financial results for this quarter and nine months provide a true and fir view of the Company's affairs In order to repay the loans of the subsidiaries, which was part of object claus” |
-| **AVALON** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-05-16 | 2.9 | [2024-05-16 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/AVALON_16052024211341_OutcomeoftheBM.pdf) · **Outcome of Board Meeting** · headline · “Avalon Technologies Limited has informed the Exchange regarding Board meeting held on May 16, 2024.”<br>[2024-05-16 Allotment of Securities](https://nsearchives.nseindia.in/corporate/AVALON_16052024212638_OutcomeoftheBM.pdf) · **Allotment of Securities** · headline · “Avalon Technologies Limited has informed the Exchange regarding allotment of 50987 securities pursuant to ESOP/ESPS at its meeting held on May 16, 2024”<br>[2024-05-16 Financial Result Updates](https://nsearchives.nseindia.in/corporate/FinancialResultsReg33_16052024212247.pdf) · **Financial Result Updates** · headline · “Avalon Technologies Limited has submitted to the Exchange, the financial results for the period ended March 31, 2024.” |
-| **CAPILLARY** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2026-02-10 | 2.9 | [2026-02-10 Shareholders meeting](https://nsearchives.nseindia.com/corporate/CAPILLARY12_10022026161429_Intimation_Postal_Ballot_Notice.pdf) · **Shareholders meeting** · headline · “Capillary Technologies India Limited has informed the Exchange regarding Notice of Postal Ballot” |
-| **EDELWEISS** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-12-05 | 2.9 | [2026-11-02 Updates](https://nsearchives.nseindia.com/corporate/EDELWEISS_02112026134336_EFSLExchangedisclosureforEAAAListingFinal.pdf) · **Updates** · headline · “Edelweiss Financial Services Limited has informed the Exchange regarding Disclosure under the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 ”<br>[2026-10-20 Updates](https://nsearchives.nseindia.com/corporate/EDELWEISS_20102026105739_EFSLExchange_IntimationRHP.pdf) · **Updates** · headline · “Edelweiss Financial Services Limited has informed the Exchange regarding 'Disclosure under the Securities and Exchange Board of India (Listing Obligations andDisclosure Requirements) Regulations 2015 ”<br>[2026-10-20 Updates](https://nsearchives.nseindia.com/corporate/EDELWEISS_20102026144319_EFSLExchangeIntimationPriceband.pdf) · **subsidiary of the Company, has informed the Company that  the 
-price band for the initial public offer** · [text line 23](../../../../Announcements/NiftyTotalMarket/text/EDELWEISS_106822744.txt#L23) · “f the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (the Listing Regulations), we would like to inform you that EAAA India Alternatives Limited (“EAAA”), a subsidiary of the Company, has informed the ”<br>+4 more documents |
-| **EXIDEIND** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | record_date | IPO in motion since 2025-04-30 | 2.9 | [2025-04-30 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/EXIDEIND_30042025134149_sdFINALBMOUTCOME1.pdf) · **Outcome of Board Meeting** · headline · “Exide Industries Limited has informed the Exchange regarding Outcome of Board Meeting held on April 30, 2025.”<br>[2025-04-30 Press Release](https://nsearchives.nseindia.in/corporate/EXIDEIND_30042025135501_sdFINALBMOUTCOME1.pdf) · **Press Release** · headline · “Exide Industries Limited has informed the Exchange regarding a press release dated April 30, 2025, titled "For the fourth quarter of the financial year 2024-25, sales grew by 8.1% on a sequentialbasis”<br>[2025-04-30 Record Date](https://nsearchives.nseindia.in/corporate/EXIDEIND_30042025141520_sdFINALBMOUTCOME1.pdf) · **Record Date** · headline · “Exide Industries Limited has informed the Exchange that Record date for the purpose of Dividend is 19-Jul-2025.” |
-| **GAIL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-07-31 | 2.9 | [2026-10-30 General Updates](https://nsearchives.nseindia.com/corporate/DEVIKA_30102026145647_GAIL_Gas_Listing.pdf) · **subsidiary 
-of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO** · [text line 24](../../../../Announcements/NiftyTotalMarket/text/GAIL_106836356.txt#L24) · “30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL’s equity in GGL upto 25%”<br>[2026-07-31 Scheme of Arrangement](https://nsearchives.nseindia.com/corporate/DEVIKA_31072026140652_KLL_Signed.pdf) · **Scheme of Arrangement** · headline · “GAIL (India) Limited has informed the Exchange about Scheme of Arrangement” |
-| **IEX** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-07-15 | 2.9 | [2026-07-15 Updates](https://nsearchives.nseindia.com/corporate/IEX_15072026114919_Signed_IEX_Intimation_IGX_DRHP_14_07_2026.pdf) · **DRHP** · [text line 22](../../../../Announcements/NiftyTotalMarket/text/IEX_106698276.txt#L22) · “Symbol: IEX Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 , (“SEBI Listing Regulations”) Filling of DRHP of Indian Gas Exchange Limited Dear Sir / Madam” |
-| **JYOTICNC** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2024-08-10 | 2.9 | [2025-02-10 Integrated Filing- Financial](https://nsearchives.nseindia.in/corporate/JYOTICNC_NSE_10022025115235_BSEnseQuarterlyIntegratedFilingFinancialResultsJCAL31122024.pdf) · **Integrated Filing- Financial** · headline · “Integrated Filing (Financial) for the quarter/ nine months ended on December 31, 2024”<br>[2025-02-08 Financial Result Updates](https://nsearchives.nseindia.in/corporate/BSEnseBMoutcomeIntimationJCAL08022025_08022025140603.pdf) · **Financial Result Updates** · headline · “Jyoti CNC Automation Limited has submitted to the Exchange, the financial results for the period ended December 31, 2024.”<br>[2024-08-10 Financial Result Updates](https://nsearchives.nseindia.in/corporate/StockExchangeIntimationRESULTsJCALJune2024_Signed_10082024134627.pdf) · **Financial Result Updates** · headline · “Jyoti CNC Automation Limited has submitted to the Exchange, the financial results for the period ended June 30, 2024.” |
-| **NIACL** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-09-09 | 2.9 | [2026-09-09 General Updates](https://nsearchives.nseindia.com/corporate/NIACL_09092026131744_Reg_30_OFS_NSE.pdf) · **subsidiary or associate company of the
-listed** · [text line 44](../../../../Announcements/NiftyTotalMarket/text/NIACL_106776231.txt#L44) · “MUMBAT(H.O.) Annexure SL No.Particulars Details IThe amount and percentage of the turnover or revenue o( income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial ” |
-| **NLCINDIA** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | record_date | IPO in motion since 2026-11-04 | 2.9 | [2026-11-04 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026135958_573_BM_-_Outcome_04112026_Signed.pdf) · **Subsidiary, as part of the proposed  Initial Public Offering (IPO** · [text line 48](../../../../Announcements/NiftyTotalMarket/text/NLCINDIA_106844013.txt#L48) · “CIN : L93090TN1956GOI003507, Website: www.nlcindia.in email: cosec@nlcindia.in Phone: 044-28369139 Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL, subject to compliance with the applicable provisions of the SEBI (Issue of Capit”<br>[2026-11-04 Record Date](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026140709_573_BM_-_Outcome_04112026_Signed.pdf) · **Subsidiary, as part of the proposed  Initial Public Offering (IPO** · [text line 48](../../../../Announcements/NiftyTotalMarket/text/NLCINDIA_106844023.txt#L48) · “CIN : L93090TN1956GOI003507, Website: www.nlcindia.in email: cosec@nlcindia.in Phone: 044-28369139 Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL, subject to compliance with the applicable provisions of the SEBI (Issue of Capit”<br>[2026-11-04 Updates](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026142212_573_BM_-_Outcome_04112026_Signed.pdf) · **Subsidiary, as part of the proposed  Initial Public Offering (IPO** · [text line 48](../../../../Announcements/NiftyTotalMarket/text/NLCINDIA_106844072.txt#L48) · “CIN : L93090TN1956GOI003507, Website: www.nlcindia.in email: cosec@nlcindia.in Phone: 044-28369139 Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL, subject to compliance with the applicable provisions of the SEBI (Issue of Capit” |
-| **NTPCGREEN** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2025-05-21 | 2.9 | [2025-07-31 Updates](https://nsearchives.nseindia.in/corporate/jkalita01_31072025161905_Updated_Financial_Results.pdf) · **Updates** · headline · “NTPC Green Energy Limited has informed the Exchange regarding ''Submission of updated financial results for the period ended 30.06.2025"”<br>[2025-07-28 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/jkalita01_28072025175332_NGEL_QFR_30062025.pdf) · **Outcome of Board Meeting** · headline · “NTPC Green Energy Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2025.”<br>[2025-05-21 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/nitinjaiswal01_21052025150751_NGEL_AFR_31032025__1_.pdf) · **Outcome of Board Meeting** · headline · “NTPC Green Energy Limited has submitted to the Exchange, the financial results for the period ended March 31, 2025.” |
-| **OSWALPUMPS** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2025-11-13 | 2.9 | [2026-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_07022026182126_SELetterOutcomeOPL07022026.pdf) · **Outcome of Board Meeting** · headline · “Oswal Pumps Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025.”<br>[2025-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_13112025192318_SELetterOutcomeOPL13112025.pdf) · **Outcome of Board Meeting** · headline · “Oswal Pumps Limited has submitted to the Exchange, the financial results for the period ended September 30, 2025.” |
-| **TRENT** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-10-23 | 2.9 | [2026-10-23 Sale or disposal](https://nsearchives.nseindia.com/corporate/TRENT_23102026194710_Reg30DivestmentofstepdownsubsidiaryofNahar.pdf) · **subsidiary 
-or associate company of the listed** · [text line 65](../../../../Announcements/NiftyTotalMarket/text/TRENT_106826976.txt#L65) · “The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year Not applicable, as Netria Property Holdings ” |
-| **VIKRAMSOLR** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | meetings | IPO in motion since 2025-09-15 | 2.9 | [2025-09-15 Shareholders meeting](https://nsearchives.nseindia.in/corporate/VSLCS_15092025202314_VSLPBintimation15092025.pdf) · **Shareholders meeting** · headline · “Vikram Solar Limited has informed the Exchange regarding Notice of Postal Ballot” |
-| **BLUESTONE** | partial spin-off / listing | probable — a subsidiary's listing is in motion (DRHP / board approval) | announced | IPO in motion since 2026-09-02 | 2.1 | [2026-09-02 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/BLUESTONE_02092026120931_Outcome_of_BM.pdf) · **Outcome of Board Meeting** · headline · “BlueStone Jewellery and Lifestyle Limited has informed the Exchange regarding Outcome of Board Meeting held on September 02, 2026.”<br>[2026-09-02 Change in Company Secretary/](https://nsearchives.nseindia.com/corporate/BLUESTONE_02092026122420_Appointment_of_CS.pdf) · **Change in Company Secretary/Compliance Officer** · headline · “BlueStone Jewellery and Lifestyle Limited has informed the Exchange about Change in Company Secretary/Compliance Officer” |
 | **SJVN** | partial spin-off / listing | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 3.8 | 2025-11 call · **list our subsidiary** · SJVN.pdf page 120 · “e and if you consider around 25% of PLF, you can calculate how many this million units will be there. Paras Chheda: And sir, this last query, we were trying to list our subsidiary with SJVN Green Energy, is there any pr” |
+| **GREAVESCOT** | partial spin-off / listing | indicated — the subsidiary's IPO was withdrawn — Accordingly, in view of | withdrawn | WITHDRAWN  | 3.6 | [2026-10-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/GREAVESCOT_29102026143831_GCL_Interimoutcomesd.pdf) · **Outcome of Board Meeting** · headline · “Greaves Cotton Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026.”<br>[2024-12-23 General Updates](https://nsearchives.nseindia.in/corporate/GREAVESCOT_23122024224409_Greavescot_23122024.pdf) · **initial public offering by a material subsidiary** · [text line 15](../../../../Announcements/NiftyTotalMarket/text/GREAVESCOT_106092504.txt#L15) · “Dear Sir/Madam, Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI LODR Regulations”) Re: Proposed initial public offering by a material subsidiary of”<br>[2024-12-11 General Updates](https://nsearchives.nseindia.in/corporate/GREAVESCOT_11122024155618_Greaves_11122024.pdf) · **General Updates** · headline · “Greaves Cotton Limited has informed the Exchange about General Updates”<br>+2 more documents |
+| **HINDALCO** | partial spin-off / listing | indicated — the subsidiary's IPO was withdrawn — Pursuant to the above r | withdrawn | WITHDRAWN  | 3.6 | [2024-06-05 Press Release](https://nsearchives.nseindia.in/corporate/HINDALCO_05062024064649_Novelis_Cancel_IPO_PR_signed.pdf) · **subsidiary of the Company has  announced the postponement of its initial public offer** · [text line 20](../../../../Announcements/NiftyTotalMarket/text/HINDALCO_105874208.txt#L20) · “Our Intimations dated February 20, 2024 , May 14, 2024 & May 28, 2024 Pursuant to the above referred, please note that Novelis Inc., a wholly owned subsidiary of the Company has announced the postponement of its initial public offering due to market conditions”<br>[2024-05-28 Press Release](https://nsearchives.nseindia.in/corporate/HINDALCO_28052024165517_Novelis_roadshow_PR_signed.pdf) · **subsidiary of  the 
+Company  has announced that it has launched a roadshow for the initial public offer** · [text line 21](../../../../Announcements/NiftyTotalMarket/text/HINDALCO_105864671.txt#L21) · “Our Intimations dated February 20, 2024 & May 14, 2024 Pursuant to the above re ferred , please note that Novelis Inc., a wholly owned subsidiary of the Company has announced that it has launched a roadshow for the initial public offering (IPO) of 45,000,000 o”<br>[2024-05-14 Press Release](https://nsearchives.nseindia.in/corporate/HINDALCO_14052024035641_Reg_30_Novelis_Revised_Signed.pdf) · **Press Release** · headline · “Hindalco Industries Limited has informed the Exchange regarding a press release dated May 14, 2024, titled "Novelis Files Registration Statement for Proposed InitialPublic Offering".”<br>+1 more documents |
 | **PRESTIGE** | partial spin-off / listing | indicated — proposal withdrawn on 2026-09-25 | withdrawn | WITHDRAWN 2026-09-25 | 2.9 | [2026-09-25 General Updates](https://nsearchives.nseindia.com/corporate/PRESTIGE_25092026182037_Emerald_-_PEPL_DRHP_Withdrawal_Intimaiton.pdf) · **Draft Red Herring** · [text line 28](../../../../Announcements/NiftyTotalMarket/text/PRESTIGE_106794560.txt#L28) · “We wish to inform you that our subsidiary, Prestige Hospitality Ventures Limited ( “PHVL ”), filed a Draft Red Herring Prospectus dated April 24, 2025 (“DRHP ”) with the Securities and Exchange Board of India (“SEBI ”), the National Stock Exchange of India Lim”<br>[2026-07-29 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/PRESTIGE_29072026195356_OutcomeQ1FY27.pdf) · **Draft Red Herring** · [text line 204](../../../../Announcements/NiftyTotalMarket/text/PRESTIGE_106716091.txt#L204) · “7 In April 2025, Prestige Hospitality Ventures Limited ('PHVL'), a wholly owned subsidiary of the Company, has filed Draft Red Herring Prospectus with Securities and Exchange Board of India for proposed Initial Public Offering, comprising of an offer for sale ”<br>[2025-08-05 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/PRESTIGE_05082025194653_ResultsQ1FY26.pdf) · **Draft Red Herring** · [text line 220](../../../../Announcements/NiftyTotalMarket/text/PRESTIGE_106326481.txt#L220) · “8 In April 2025, Prestige Hospitality Ventures Limited ('PHVL'), a wholly owned subsidiary of the Company, has filed Draft Red Herring Prospectus with Securities and Exchange Board of India for proposed Initial Public Offering, comprising of an offer for sale ” |
 | **POLYMED** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | announced | NOT YET (announced) | 6.7 | [2026-11-05 Updates](https://nsearchives.nseindia.com/corporate/POLYMED_05112026171522_Intimation_of_update_in_Policies_Signed.pdf) · **scheme of arrangement** · [text line 215](../../../../Announcements/NiftyTotalMarket/text/POLYMED_106847700.txt#L215) · “idiaries) to less than or equal to fifty percent or cease the exercise of control over the subsidiary without passing a special resolution in its General Meeting except in cases where such divestment is made under a scheme of arrangement duly approved by a Cou” |
 | **ASHOKLEY** | scheme (nature unclear) | probable — a scheme of arrangement whose nature the documents on file d | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 5.8 | [2026-11-05 Acquisition](https://nsearchives.nseindia.com/corporate/ASHOKLEYLAND_05112026180822_44ALupdatesonHLFL.pdf) · **Scheme of Arrangement** · [text line 57](../../../../Announcements/NiftyTotalMarket/text/ASHOKLEY_106848106.txt#L57) · “Yours faithfully, for ASHOK LEYLAND LIMITED N Ramanathan Company Secretary Annexure-A - Acquisition of Subsidiary due to Scheme of Arrangement S”<br>[2026-11-05 Other Restructuring](https://nsearchives.nseindia.com/corporate/ASHOKLEYLAND_05112026180926_44ALupdatesonHLFL.pdf) · **Scheme of Arrangement** · [text line 57](../../../../Announcements/NiftyTotalMarket/text/ASHOKLEY_106848107.txt#L57) · “Yours faithfully, for ASHOK LEYLAND LIMITED N Ramanathan Company Secretary Annexure-A - Acquisition of Subsidiary due to Scheme of Arrangement S”<br>[2026-05-20 General Updates](https://nsearchives.nseindia.com/corporate/ASHOKLEYLAND_20052026191822_6ALupdatesonHLFLIntimation.pdf) · **Scheme of Arrangement** · [text line 60](../../../../Announcements/NiftyTotalMarket/text/ASHOKLEY_106632258.txt#L60) · “Sub: Scheme of Merger by Absorption of Hinduia Leyland Finance Limited into NDL Ventyres Limited We refer to your application for Scheme of Arrangement to merge and consolidate the businesses of Hinduja Leyland Finance Limited ("Transferor Companyl HLFL") into” |
@@ -244,7 +187,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | **JAINREC** | scheme (nature unclear) | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 3.6 | 2026-02 call · **value unlock** · JAINREC.pdf page 5 · “tself, lead -acid battery scrap contains valuable byproducts such as tin and antimony. Tin extraction is alr eady implemented and scaling up steadily. The next value unlock is antimony extraction. We have now secured ac” |
 | **OLAELEC** | scheme (nature unclear) | indicated — news verification / denial only — no scheme filed | rumoured | no scheme filed | 2.5 | [2026-07-07 News Verification](-) · **News Verification** · headline · “The Exchange has sought clarification from Ola Electric Mobility Limited with respect to recent news item captioned Ola Electric Shares Slip 5% Amid Reports Of Two Suppliers Moving NCLT Over Dues.. Th” |
 
-<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 1159</summary>
+<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 1194</summary>
 
 | Company | What | Stage | First filing | Filings |
 |---|---|---|---|---:|
@@ -266,6 +209,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | AXISCADES | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2026-05-26 | 1 |
 | BELRISE | not a spin-off for this company's holders (inbound demerger — the scheme names Belrise Industries Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…ents) Regulation, 2015 – Scheme of Amalgamation between H-One India Private Limited (Transferor Company) and Belrise Industries Limited (Transferee Company) an")) | exchange_noc | 2025-11-11 | 4 |
 | BHARTIARTL | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | announced | 2024-04-18 | 3 |
+| BLACKBUCK | not a subsidiary listing (sale or transfer) | meetings | 2025-03-24 | 5 |
 | CIEINDIA | not a spin-off for this company's holders (the judge read the complete documents: nothing is separated) | announced | 2026-09-25 | 1 |
 | COCHINSHIP | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2026-09-09 | 1 |
 | DABUR | not a spin-off for this company's holders (inbound demerger — the scheme names Dabur India Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…26, 2025 w.r.t. the Scheme of Amalgamation of Sesa Care Private Limited ("Transferor Company") with and into Dabur India Limited ("Company" or "Transferee Comp")) | nclt_sanction | 2025-12-05 | 13 |
@@ -280,9 +224,18 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | RAYMONDLSL | not a spin-off for this company's holders (inbound demerger — the scheme names Raymond Lifestyle Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…ACCOUNT OF THE COMPOSITE SCHEME OF ARRANGEMENT BETWEEN RAYMOND LIMITED (THE 'DEMERGED COMPANY' OR 'RL') AND RAYMOND LIFESTYLE LIMITED (THE 'RESULTING COMPANY' ")) | announced | 2025-01-30 | 6 |
 | RBLBANK | not a spin-off for this company's holders (the judge read the complete documents: no spin-off reaches this company's shareholders) | announced | 2026-05-29 | 1 |
 | SANOFICONR | not a spin-off for this company's holders (inbound demerger — the scheme names Sanofi Consumer Healthcare India Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…in the books of accounts of SIL on the close of business hours as on May 10, 2023 (Incorporation Date), was demerged, transferred and vested into the Company w")) | announced | 2024-09-18 | 11 |
+| PREMIERENE | not a subsidiary listing (sale or transfer) | announced | 2026-08-06 | 2 |
+| SAATVIKGL | not a subsidiary listing (own ipo) | announced | 2026-02-04 | 3 |
+| TRAVELFOOD | not a subsidiary listing (own ipo) | announced | 2026-08-13 | 1 |
 | BAJAJELEC | not a spin-off for this company's holders (the resulting company Bajel Projects Limited was listed on 2023-12-19, before these filings) | announced | 2024-07-09 | 8 |
+| BHEL | not a subsidiary listing (sale or transfer) | announced | 2024-07-31 | 2 |
+| BLS | partial spin-off (subsidiary IPO) | listed | 2024-05-14 | 2 |
+| EMMVEE | not a subsidiary listing (own ipo) | meetings | 2025-12-02 | 1 |
+| ENTERO | not a subsidiary listing (sale or transfer) | meetings | 2024-08-02 | 2 |
 | FORTIS | not a spin-off for this company's holders (the judge read the complete documents: nothing is separated) | effective | 2025-07-31 | 7 |
 | JMFINANCIL | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2025-03-17 | 8 |
+| MANAPPURAM | not a subsidiary listing (no event) | announced | 2025-03-20 | 1 |
+| ORKLAINDIA | not a subsidiary listing (own ipo) | meetings | 2026-07-25 | 1 |
 | ADANIENSOL | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2024-05-16 | 1 |
 | AMBER | not a spin-off for this company's holders (inbound demerger — the scheme names Amber Enterprises India Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…Private Limited (“AmberPR”/ “Transferor Company”), the Wholly Owned Subsidiary of the Company with and into Amber Enterprises India Limited (“Amber” / “Transfe")) | effective | 2024-09-07 | 10 |
 | ANGELONE | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | record_date | 2024-07-15 | 10 |
@@ -298,11 +251,24 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | THERMAX | not a spin-off for this company's holders (inbound demerger — the scheme names Thermax Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…A) Scheme of Merger by Absorption of Buildtech Products India Private Limited (“Transferor Company”) with Thermax Limited (“Transferee Company”) and their resp")) | nclt_sanction | 2025-04-03 | 12 |
 | TRITURBINE | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2025-08-04 | 2 |
 | ULTRACEMCO | not a spin-off for this company's holders (inbound demerger — the scheme names UltraTech Cement Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…other applicable provisions of the Companies Act, 2013 ("Scheme"). The Scheme, inter alia, provides for: (a) demerger of the Cement Business of Kesoram into th")) | nclt_sanction | 2024-04-29 | 15 |
+| ADANIPORTS | not a subsidiary listing (sale or transfer) | effective | 2024-05-31 | 6 |
+| ANTHEM | not a subsidiary listing (own ipo) | meetings | 2025-08-13 | 1 |
 | ANURAS | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | indicated_on_calls | 2026-05-01 | 1 |
+| BAJAJ-AUTO | not a subsidiary listing (listed entity acquired or long listed) | announced | 2025-12-02 | 2 |
+| BAJFINANCE | partial spin-off (subsidiary IPO) | listed | 2024-06-03 | 6 |
+| BANKBARODA | not a subsidiary listing (stake sale in other ipo) | announced | 2024-10-03 | 2 |
+| BIOCON | not a subsidiary listing (sale or transfer) | announced | 2024-04-02 | 2 |
+| CAPLIPOINT | not a subsidiary listing (no event) | announced | 2024-04-16 | 20 |
+| GPIL | not a subsidiary listing (sale or transfer) | announced | 2024-06-01 | 7 |
 | GROWW | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | indicated_on_calls | 2026-04-01 | 1 |
 | HFCL | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2025-09-01 | 8 |
+| INDGN | not a subsidiary listing (merger) | meetings | 2025-07-11 | 1 |
+| INDIAMART | not a subsidiary listing (merger) | announced | 2024-07-30 | 4 |
 | KEC | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2024-11-04 | 2 |
 | NUVAMA | not a spin-off for this company's holders (inbound demerger — the scheme names Nuvama Wealth Management Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…section 230 to 232 read with applicable provisions of the Companies Act, 2013, which, inter-a lia, envisaged demerger of Wealth Man agement Business Undertakin")) | nclt_sanction | 2025-01-31 | 1 |
+| ONGC | not a subsidiary listing (sale or transfer) | announced | 2024-05-20 | 1 |
+| PAYTM | not a subsidiary listing (sale or transfer) | announced | 2024-08-26 | 4 |
+| PFC | not a subsidiary listing (merger) | exchange_noc | 2024-11-12 | 4 |
 | PHOENIXLTD | not a spin-off for this company's holders (the judge read the complete documents: nothing is separated) | nclt_sanction | 2024-11-29 | 4 |
 | AIIL | not a spin-off for this company's holders (inbound demerger — the scheme names Authum Investment & Infrastructure Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…ence : Scheme of Arrangement between Reliance Commercial Finance Limited (“RCFL” or “Demerged Company”) and Authum Investment & Infrastructure Limited (“AIIL” ")) | effective | 2024-05-10 | 12 |
 | BAJAJFINSV | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2025-08-26 | 1 |
@@ -324,7 +290,18 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | WELSPUNLIV | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | nclt_sanction | 2024-04-09 | 6 |
 | WIPRO | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | nclt_sanction | 2025-06-11 | 1 |
 | ZYDUSWELL | not a spin-off for this company's holders (the judge read the complete documents: nothing is separated) | announced | 2025-06-24 | 2 |
+| ADANIPOWER | not a subsidiary listing (listed entity acquired or long listed) | announced | 2024-06-03 | 6 |
+| AKUMS | not a subsidiary listing (own ipo) | meetings | 2025-02-06 | 2 |
+| AVALON | not a subsidiary listing (own ipo) | announced | 2024-05-16 | 4 |
+| CAPILLARY | not a subsidiary listing (own ipo) | meetings | 2026-02-10 | 1 |
+| EXIDEIND | not a subsidiary listing (no event) | record_date | 2025-04-30 | 3 |
+| JYOTICNC | not a subsidiary listing (own ipo) | announced | 2024-08-10 | 3 |
+| NIACL | not a subsidiary listing (stake sale in other ipo) | announced | 2026-09-09 | 1 |
+| NTPCGREEN | not a subsidiary listing (own ipo) | announced | 2025-05-21 | 3 |
+| OSWALPUMPS | not a subsidiary listing (own ipo) | announced | 2025-11-13 | 2 |
 | SUDARSCHEM | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2025-12-30 | 3 |
+| TRENT | not a subsidiary listing (sale or transfer) | announced | 2026-10-23 | 1 |
+| VIKRAMSOLR | not a subsidiary listing (own ipo) | meetings | 2025-09-15 | 1 |
 | AARTIIND | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2024-09-30 | 2 |
 | AARTIPHARM | not a spin-off for this company's holders (inbound demerger — the scheme names Aarti Pharmalabs Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…f stamp duty on the Scheme of Arrangement (Demerger) between Aarti Industries Limited (Demerged Company) and Aarti Pharmalabs Limited (Resulting Company) sanct")) | announced | 2024-05-13 | 5 |
 | ASAHIINDIA | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2026-03-24 | 2 |
@@ -349,6 +326,7 @@ or associate company of the listed** · [text line 65](../../../../Announcements
 | RITES | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2026-08-19 | 1 |
 | TORNTPOWER | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | nclt_sanction | 2024-05-16 | 12 |
 | URBANCO | not a spin-off for this company's holders (the judge read the listing question as answered no: “No listing) | announced | 2025-11-01 | 1 |
+| BLUESTONE | not a subsidiary listing (no event) | announced | 2026-09-02 | 2 |
 | 360ONE | not a spin-off for this company's holders (the judge read the complete documents: nothing is separated) | nclt_sanction | 2025-09-23 | 1 |
 | AWFIS | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | announced | 2026-01-05 | 3 |
 | BBOX | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | nclt_sanction | 2024-06-27 | 1 |
@@ -4227,6 +4205,852 @@ No rationale on file: no call passages and no scheme rationale text.
 
 ---
 
+# Partial spin-offs (subsidiary IPOs) — in full
+
+## SBIN — State Bank of India
+
+**CONFIRMED** (partial spin-off — SBI Funds Management Limited is listed since 2026-07-21) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 6.2/10 · partial spin-off (subsidiary IPO) · 12 filing(s) from CALLS, NSE · first 2026-03-19, latest 2026-07-17
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — SBI Funds Management Limited trades since 2026-07-21 (NSE equity list); the parent keeps its remaining stake
+
+**The partial spin-off:** **SBI Funds Management Limited** (subsidiary); IPO stage: listed; NSE symbol SBIFUNDS; timeline: Allotment is expected to take place on or about July 18, 2026 (filing dated 11.07.2026); IPO opened for subscription on Tuesday, July 14, 2026 and closed on Thu.
+
+> “This is in relation to the initial public offering of SBI Funds Management Limited (“SBIFM”), a subsidiary company of State Bank of India (“Offer”) and in furtherance to our letter no. CC/S&B/AND/2026”
+
+**Stated in the filings:** size hint: 0.7% of income.
+
+**What is being separated, as the documents put it:** SBI Funds Management Limited, the group's mutual fund asset management subsidiary, part-sold through an IPO offer for sale — class `value_unlocking`.
+
+- *Insiders:* SBI offers only 4.8851% (revised down from 6.3007%), Amundi India Holding 3.5082%; SBI stays majority owner, "not fully exiting"; eligible employees got Rs 54/share discount, and employees exercised ESOPs pre-IPO.
+- *What it reveals:* A small but high-quality unit: SBIFM income Rs 4,969.09 crore (0.70% of group income), reserves Rs 3,533.09 crore (0.59%). Listing marks unlisted strategic stakes to market and augments CET-1 — same hidden-reserve logic as the group's 7.3% NSE holding.
+- *Selling pressure:* unlikely — Book-built IPO sold to willing buyers, not distributed to SBI holders; only 8.3933% of SBIFM, 0.70% of group income.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* SBIFM Prospectus dated July 16, 2026 — AUM, profit and implied valuation at the Rs 574 offer price.
+- *In their words:* “We are also seriously, as you are aware, we have embarked on listing SBI AMC and hopefully in this financial year we will be able to complete, which will result in capital augmentation, CET-1.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some value unlocking and, more importantly, value recognition for the industry. We would soon be working on that. It is also impor…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | value unlocking for shareholders — “…several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some value unlocking and, more importantly, value recognition for the industry. We would soon be working on that. I” |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 0.7% of income |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 10.9 on Mar 2026 profit vs industry median 24.6 (97 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 242 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 4 mention(s) in the last 12 months of calls — “…e results better than expected because I have been present and looking at the transcript, saw it as a knee jerk reaction but with your clarification and lot of value unlocking hopefully your direction towards that shoul” |
+
+**On the calls (last 12 months):**
+
+- *Nov 2025* (forward) — “…we definitely would be looking at, as I mentioned several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some value unlocking and, more importantly, value recognition for the industry. We would soon be working on that. It is also important that SBI conglomerate is leveraging One SBI v…”
+- *May 2026* (forward) — “…ng year and despite of that, over 25,000 crores in this type of environment is really wonderful , and a couple of important points. Now everybody is looking at value unlocking, and we have over 10% in National Stock Exchange. SEBI chairman has said it should get listed soon. So, what's the thought process on value unlocking? I see pa…”
+- *May 2026* (forward) — “…ooking at value unlocking, and we have over 10% in National Stock Exchange. SEBI chairman has said it should get listed soon. So, what's the thought process on value unlocking? I see page number 55 which talks about total reserve and surplus INR 5,95,000 crores. Now we'll get valua tion, fair market valuation on the balance sheet. Ap…”
+- *May 2026* (forward) — “…e results better than expected because I have been present and looking at the transcript, saw it as a knee jerk reaction but with your clarification and lot of value unlocking hopefully your direction towards that should help in creating greater value year to year. All the best to the board and the team. Mr. C.S. Setty – Chairman, St…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-11-01 | Earnings call Nov 2025 | …we definitely would be looking at, as I mentioned several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some  | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad15487a-d1a9-4e33-90e9-624255749750.pdf) |
+| 2026-03-19 | General Updates | State Bank of India has informed the Exchange about Updates on Sale of Stake in SBI Funds Management Limited through IPO | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_19032026213213_BSE_NSE_SBIMF_DRHP1_19032026.pdf) |
+| 2026-05-01 | Earnings call May 2026 | …ng year and despite of that, over 25,000 crores in this type of environment is really wonderful , and a couple of important points. Now everybody is looking at | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf) |
+| 2026-05-01 | Earnings call May 2026 | …ooking at value unlocking, and we have over 10% in National Stock Exchange. SEBI chairman has said it should get listed soon. So, what's the thought process on | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf) |
+| 2026-05-01 | Earnings call May 2026 | …e results better than expected because I have been present and looking at the transcript, saw it as a knee jerk reaction but with your clarification and lot of | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf) |
+| 2026-07-08 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_08072026202646_BSE_NSE_SBIFML_08072026.pdf) |
+| 2026-07-08 | General Updates | State Bank Of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_08072026235933_BSE_NSE_SBIMF2.pdf) |
+| 2026-07-09 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_09072026230311_merged.pdf) |
+| 2026-07-10 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_10072026222453_BSE_NSE_10072026.pdf) |
+| 2026-07-11 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_11072026192423_BSE_NSE_RHP_11072026.pdf) |
+| 2026-07-16 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_16072026225141_BSE_NSE_SBIFunds_16072026.pdf) |
+| 2026-07-17 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_17072026102320_BSE_NSE_SBIFunds_17072026.pdf) |
+
+</details>
+
+## KPIL — Kalpataru Projects International Ltd.
+
+**CONFIRMED** (partial spin-off — Linjemontage i Grästorp Aktiebolag is listed since 2026-09-25) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 5.7/10 · partial spin-off (subsidiary IPO) · 7 filing(s) from NSE · first 2024-10-09, latest 2026-10-24
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — Linjemontage i Grästorp Aktiebolag trades since 2026-09-25 (per the filings); the parent keeps 66.45%
+
+**The partial spin-off:** **Linjemontage i Grästorp Aktiebolag** (subsidiary); parent's stake 96.12% → 66.45%; IPO stage: listed; exchange: Nasdaq Stockholm; timeline: "Depending on market conditions, the Listing on Nasdaq Stockholm is expected to be completed by the end of September 2026" (09th September, 2026); first day of .
+
+> “In accordance with Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("LODR Regulations"),”
+
+**Stated in the filings:** size hint: 0.43% of net worth.
+
+**What is being separated, as the documents put it:** Linjemontage (LMG), Swedish pure-play EPC provider within power infrastructure — substations and transmission/distribution networks in Sweden and Norway — class `value_unlocking`.
+
+- *Insiders:* KPTS (KPIL wholly owned) holds 66.45% post green-shoe, down from 96.12%; identified LMG employees/directors bought 3.45% at SEK 5,190.48 plus 0.45% options; 360-day lock-up on Kalpataru Sweden, board, management.
+- *What it reveals:* A high-return business inside an EPC parent: FY25/26 net sales SEK 3,225m (~11.14% of KPIL revenue) but only ~4.5% of net worth, adjusted EBITA 7.6%, R.O.C.E. 48.1%, net cash SEK 172.1m, IPO valuation SEK 2,356,557,000 (~INR 2,324 crores).
+- *Selling pressure:* unlikely — Offer for sale to Swedish public, institutions and cornerstone investors; 360-day lock-up on Kalpataru Sweden, board and management; stabilisation support at SEK 46.
+- *Parent or spin:* parent · *option pricing date:* 05th August, 2025 (exercise price SEK 5,190.48 per share set on grant; options vest on or before 30th June 2026; consideration in tranches on or before 30th March, 2027)
+- *Read next:* LMG's prospectus on www.linjemontage.com — full terms, Q1 FY26/27 figures and Selling Shareholder details behind the SEK 46 offer price.
+- *In their words:* “Becoming a publicly listed company will also provide greater transparency and a platform for long-term value creation, while diversifying the shareholder base.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…ure. Becoming a publicly listed company will also provide greater transparency and a platform for long -term value creation, while 1 Engineering, procurement and construction 2 Includes members of management, the Board of Director…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | value unlocking for shareholders — “…ure. Becoming a publicly listed company will also provide greater transparency and a platform for long -term value creation, while 1 Engineering, procurement and construction 2 Includes members of management, the Board ” |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 0.43% of net worth |
+| Insider ownership and incentives aligned | partly | option pricing mentioned: …anches, on or before, 30 th March, 2027. Further, the exercise price of the stock options granted is SEK 5,190.48 per share with a quota value of SEK 1 (post-split) and the subscription price will be received based on the vesting of the options. e. Brief details of bu… *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 3,543 cr (Mar 2026) = 0.16× market cap; P/E 21.4 on Mar 2026 profit vs industry median 25.2 (12 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 768 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-10-09 | Diversification/Disinvestment | Kalpataru Projects International Limited has informed the Exchange about Diversification/Disinvestment | [pdf](https://nsearchives.nseindia.in/corporate/KPIL_09102024102044_DisclosureSEVEPL092024.pdf) |
+| 2025-08-05 | Sale or disposal | Kalpataru Projects International Limited has informed the Exchange about Sale or disposal | [pdf](https://nsearchives.nseindia.in/corporate/KALPATPOWER_05082025211605_ESOPSharesaleSEDisclosure05082025.pdf) |
+| 2026-01-16 | Diversification/Disinvestment | Kalpataru Projects International Limited has informed the Exchange about Diversification/Disinvestment | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_16012026195629_DisclosureSEVEPL16012026.pdf) |
+| 2026-09-09 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing O | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_09092026113613_SEIntimationReg30LMG092026_892026.pdf) |
+| 2026-09-16 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage I Grastorp AB, a (96.12%) firs | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_16092026165446_SEIntimationReg30LMG16092026mergedFINAL.pdf) |
+| 2026-09-25 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage i Grästorp AB, a first level s | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_25092026085505_KPILSEIntimation25092026.pdf) |
+| 2026-10-24 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage i Grastorp AB, a first level s | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_24102026134331_SEIntimationLMG24102026.pdf) |
+
+</details>
+
+## AEGISLOG — Aegis Logistics Ltd.
+
+**CONFIRMED** (partial spin-off — Aegis Vopak Terminals Limited is listed since 2025-06-02) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 5.0/10 · partial spin-off (subsidiary IPO) · 9 filing(s) from NSE · first 2024-10-28, latest 2026-08-07
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — Aegis Vopak Terminals Limited trades since 2025-06-02 (NSE equity list); the parent keeps 44%
+
+**The stages, as filed:** meetings (2024-12-11)
+
+**The partial spin-off:** **Aegis Vopak Terminals Limited** (subsidiary); parent's stake 50.10% → 44%; IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol AEGISVOPAK.
+
+> “This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity shares on BSE Limited and the National Stock ”
+
+**Stated in the filings:** size hint: 0.65% of turnover.
+
+**What is being separated, as the documents put it:** Aegis Vopak Terminals Limited, the group's storage and terminalling subsidiary, separately listed via its own IPO — class `value_unlocking`.
+
+- *Insiders:* Parent keeps management control and consolidates AVTL though holding falls below 50%; AVTL allotted 10,63,830 shares at INR 225 premium to Mr. Sudhir Malhotra, parent's CEO
+- *What it reveals:* Parent retains control and consolidation while banking cash: INR 5,939 crores cash, debt/equity 0.04, no net debt; it builds terminals and sells them to AVTL at roughly 25% margin (INR 428.4, 671.3 and 525 crores BTAs)
+- *Selling pressure:* unlikely — IPO was a fresh issue to new investors; no AVTL shares were distributed to parent shareholders, so no forced selling
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* AVTL's Prospectus dated May 28, 2025, and the ~25% infrastructure-development margin Aegis books on terminal transfers
+- *In their words:* “Pursuant to the aforesaid Issue, AVTL will ceases to be subsidiary of the Company resulting in the dilution of the Company's shareholding in the Material Subsidiary to less than fifty percent (50%).”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…and provide an annual declaration of their compliance. The Code covers all aspects of functioning, including anti-trust behaviour, information security, insider trading rules, professional engagements, use of Company assets and…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…and provide an annual declaration of their compliance. The Code covers all aspects of functioning, including anti-trust behaviour, information security, insider trading rules, professional engagements, use of Company as” |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 0.65% of turnover |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 4,150 cr (Mar 2026) = 0.09× market cap; P/E 40.6 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 749 days since the first filing, stage meetings |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-10-28 | Updates | Aegis Logistics Limited has informed the Exchange regarding 'Disclosure pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of | [pdf](https://nsearchives.nseindia.in/corporate/AEGISLOG_28102024172418_ALL_IPO_SIGNED.pdf) |
+| 2024-11-19 | General Updates | Aegis Logistics Limited has informed the Exchange about General Updates- Filing ofDraft Red Herring Prospectus (DRHP) in relation to the Proposed initial public | [pdf](https://nsearchives.nseindia.in/corporate/AEGISLOG_19112024171948_ALL_Reg30_DRHP_Signed.pdf) |
+| 2024-12-11 | Shareholders meeting | Aegis Logistics Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.in/corporate/AEGISLOG_11122024183053_ALL-Postalballot_Final_S.pdf) |
+| 2025-05-20 | General Updates | Aegis Logistics Limited has informed the Exchange about Filing of Red Herring Prospectus (RHP) in relation to the Proposed initial public offering ( IPO ) of Ae | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_20052025235037_ALL_RHP_Filing_Signed.pdf) |
+| 2025-05-29 | Reasons for Delayed/Non-submission of Fi | Aegis Logistics Limited has informed the Exchange about reasons for Delayed/Non-submission of Financial Results (Standalone and Consolidated) for the quarter an | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_29052025014853_ALL_Intimation_Delay_in_Financial_Results_S.pdf) |
+| 2025-05-29 | General Updates | Aegis Logistics Limited has informed the Exchange about Filing of Prospectus in relation to the Proposed initial public offering ( IPO ) of Aegis Vopak Terminal | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_29052025233717_ALL_Prospectus_Filing_S.pdf) |
+| 2025-07-21 | General Updates | Aegis Logistics Limited has informed the Exchange regarding Business Responsibility and Sustainability Report for Financial Year 2024- 25. | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_21072025192002_ALL_BRSR_2024-25_S.pdf) |
+| 2025-08-08 | Updates | Aegis Logistics Limited has informed the Exchange regarding 'Intimation of Board of Director s comments on late Submission of Financial Results for quarter ende | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_08082025172704_ALL_Board_Comments_Fine_S.pdf) |
+| 2026-08-07 | Shareholders meeting | Aegis Logistics Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 07, 2026 | [pdf](https://nsearchives.nseindia.com/corporate/AEGISCHEM_07082026165718_ALL_SE_69AGM_Proceedings_Signed.pdf) |
+
+</details>
+
+## ICICIBANK — ICICI Bank Ltd.
+
+**CONFIRMED** (partial spin-off — ICICI Prudential Asset Management Company Limited is listed since 2025-12-19) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 5.0/10 · partial spin-off (subsidiary IPO) · 18 filing(s) from NSE · first 2024-04-28, latest 2025-12-19
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — ICICI Prudential Asset Management Company Limited trades since 2025-12-19 (NSE equity list); the parent keeps 53.0%
+
+**The stages, as filed:** record_date (2025-06-27)
+
+**The partial spin-off:** **ICICI Prudential Asset Management Company Limited** (subsidiary); parent's stake after: 53.0%; IPO stage: listed; exchange: Bombay Stock Exchange and National Stock Exchange; NSE symbol ICICIAMC.
+
+> “Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.”
+
+**What is being separated, as the documents put it:** The asset management business: ICICI Prudential Asset Management Company Limited, listed via partner PCHL's partial stake divestment — class `not stated`.
+
+- *Insiders:* Bank held 53.0% and PCHL 34.6% at March 31, 2026; Bank bought 2.0% more from PCHL to keep majority shareholding if it grants stock-based compensation.
+- *What it reveals:* A listed price now exists for a fast-growing fee business the Bank still consolidates: ICICI AMC net profit rose to Rs. 33.0 billion in fiscal 2026 from Rs. 26.5 billion in fiscal 2025, with the Bank retaining 53.0%.
+- *Selling pressure:* unlikely — No shares distributed to Bank shareholders; listing followed PCHL's partial divestment of its own stake, Bank retains 53.0%.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* ICICI AMC's fiscal 2026 profit after tax of Rs. 33.0 billion against the Bank's 53.0% retained stake and its listed market value.
+- *In their words:* “Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…e Company. e. Brief details of any governmental or regulatory approvals required for the acquisition RBI approval is required f. Indicative time period for completion of the acquisition The Bank will purchase additional sharehold…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…e Company. e. Brief details of any governmental or regulatory approvals required for the acquisition RBI approval is required f. Indicative time period for completion of the acquisition The Bank will purchase additional” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 17.8 on Mar 2026 profit vs industry median 24.6 (97 peers) |
+| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | yes | 507 days since listing/record date; second year since listing — where the notes found the largest gains |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-04-28 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under Reguation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_28042024165216_NSEBSE_28042024.pdf) |
+| 2024-06-06 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Di | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_06062024163938_NSEBSE_SEBI_Letter.pdf) |
+| 2024-08-22 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'. | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_22082024171542_NSEBSE.pdf) |
+| 2024-09-13 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under the SEBI (Listing Obligations and Disclosure Requirements)Regulations, 2015'. | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_13092024185450_NSEBSE.pdf) |
+| 2024-11-30 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_30112024154048_NSEBSE.pdf) |
+| 2025-03-10 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK11_10032025193655_NSEBSE.pdf) |
+| 2025-03-11 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_11032025170841_NSEBSE_11032025.pdf) |
+| 2025-03-24 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_24032025201734_NSEBSE_24032025.pdf) |
+| 2025-03-26 | Committee Meeting Updates | ICICI Bank Limited has informed the Exchange regarding Outcome of Committee Meeting held on March 26, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_26032025093431_NSEBSE.pdf) |
+| 2025-06-27 | Outcome of Board Meeting | ICICI Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on June 27, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025120055_NSEBSE_27062025.pdf) |
+| 2025-06-27 | Record Date | ICICI Bank Limited has informed the Exchange that Record date for the purpose of Dividend is 12-Aug-2025. | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025120445_NSEBSE_27062025.pdf) |
+| 2025-06-27 | General Updates | ICICI Bank Limited has informed the Exchange about Appointment of Secretarial Auditor | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025120913_NSEBSE_27062025.pdf) |
+| 2025-06-27 | General Updates | ICICI Bank Limited has informed the Exchange that the Board of Directors of the Bank at its meeting held today, approved acquisition of additional stake in ICIC | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025121537_NSEBSE_27062025.pdf) |
+| 2025-07-09 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_09072025010827_NSEBSE_09072025.pdf) |
+| 2025-12-06 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_06122025141444_NSEBSE_PriceBand.pdf) |
+| 2025-12-09 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_09122025221929_NSEBSE_09122025.pdf) |
+| 2025-12-17 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_17122025105720_NSEBSE_17122025.pdf) |
+| 2025-12-19 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_19122025113528_NSEBSE_19122025.pdf) |
+
+</details>
+
+## NTPC — NTPC Ltd.
+
+**CONFIRMED** (partial spin-off — NTPC Green Energy Limited is listed since 2024-11-27) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 4.4/10 · partial spin-off (subsidiary IPO) · 1 filing(s) from NSE · first 2024-09-19, latest 2024-09-19
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — NTPC Green Energy Limited trades since 2024-11-27 (NSE equity list); the parent keeps its remaining stake
+
+**The partial spin-off:** **NTPC Green Energy Limited** (subsidiary); parent's stake 100.00%; IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol NTPCGREEN; timeline: DRHP dated 18th September, 2024 filed with SEBI; IPO "subject to receipt of requisite approvals, market conditions and other considerations" (filing dated 19.09.
+
+> “We wish to inform you that NTPC Green Energy Limited (NGEL), a subsidiary of NTPC Limited, has filed a draft red herring prospectus ("DRHP") dated 18th September, 2024, with the Securities and Exchang”
+
+**What is being separated, as the documents put it:** NTPC Green Energy Limited, NTPC's renewable energy subsidiary, being separately listed through an initial public offer — class `not stated`.
+
+- *Insiders:* NTPC Limited holds 100.00% of NGEL; IPO reserves subscription for eligible NTPC shareholders and employees of NTPC and NGEL subsidiaries; NTPC's Director (Finance) serves both companies.
+- *What it reveals:* Separation shows a fast-growing renewable arm: FY26 revenue Rs.2,858 crore (+29%), operating EBITDA margin 87%, generation 14.6 BU versus 6.8 BU, 12,068 MW installed, targeting 60 GW by FY32 within a cost-plus thermal parent.
+- *Selling pressure:* unlikely — IPO is a fresh issue of shares subscribed by investors, not a distribution of shares to NTPC's existing holders.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* NGEL's draft red herring prospectus dated 18th September 2024 — use of the Rs.100,000 million fresh issue proceeds.
+- *In their words:* “NGEL is proposing to undertake an IPO of its equity shares of face value of Rs.10/- each (Equity Shares), comprising a fresh issue of Equity Shares aggregating up to Rs. 100,000.00 million.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 271,005 cr (Mar 2026) = 0.80× market cap; P/E 12.2 on Mar 2026 profit vs industry median 31.1 (15 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 788 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…s, Mauritius. Some of the other key developments include business transfer agreement for transfer of coal mines from NTPC to NTPC Mining Limited was signed for hiving off coal mining business at an estimated value of ■1” |
+
+**On the calls (last 12 months):**
+
+- *Nov 2025* (backward) — “…s, Mauritius. Some of the other key developments include business transfer agreement for transfer of coal mines from NTPC to NTPC Mining Limited was signed for hiving off coal mining business at an estimated value of ■10,503 crore and Chatti Bariatu and Badam mines have been transferred. We expect to complete transfer of all the…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-09-19 | Updates | Disclosure under Regulation 30 of Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, NTPC Green Energy Limi | [pdf](https://nsearchives.nseindia.in/corporate/NTPC_19092024120246_NTPCDRHPJSA.pdf) |
+
+</details>
+
+## BRIGADE — Brigade Enterprises Ltd.
+
+**CONFIRMED** (partial spin-off — Brigade Hotel Ventures Limited is listed since 2025-07-31) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 4.3/10 · partial spin-off (subsidiary IPO) · 5 filing(s) from NSE · first 2024-05-10, latest 2025-09-26
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — Brigade Hotel Ventures Limited trades since 2025-07-31 (NSE equity list); the parent keeps 74.09%
+
+**The partial spin-off:** **Brigade Hotel Ventures Limited** (subsidiary); parent's stake 95.26% → 74.09%; IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol BRIGHOTEL; timeline: Shares were listed on the Stock Exchanges with effect from 31st July, 2025 (press release dated August 13, 2025).
+
+> “Brigade Hotel Ventures Limited, subsidiary of Brigade Enterprises Limited came out with an Initial Public Offering (IPO) of ₹ 885.60 crores (including pre -IPO placement of ₹ 126 crores). Shares were ”
+
+**Stated in the filings:** size hint: 8% of net worth.
+
+**What is being separated, as the documents put it:** Brigade's hospitality business — running and operating hotels in India — held in subsidiary Brigade Hotel Ventures Limited — class `not stated`.
+
+- *Insiders:* BEL's stake diluted from 95.26% to 74.09% through the fresh issue (no shares sold by BEL); "No promoter/ promoter group/group companies have participated in the initial public offering." Management incentives in BHVL not stated.
+- *What it reveals:* Hotels contributed only 8% of BEL's consolidated turnover (Rs. 40,122 lakhs) with negative net worth of Rs. (20,210) lakhs, yet FY26 hospitality revenue was INR604 crores, EBITDA INR207 crores, with 1,700 keys across 9 hotels being built.
+- *Selling pressure:* unlikely — Fresh issue to bidders who chose to buy; no BHVL shares were distributed to BEL shareholders, so no forced-seller base created.
+- *Parent or spin:* parent · *option pricing date:* July 14, 2026 — relevant date for pricing promoter-group warrants at Rs. 526 (issue withdrawn July 17, 2026); BHVL option pricing not stated
+- *Read next:* BHVL prospectus dated July 28, 2025 — IPO objects and BHVL's negative net worth of Rs. (20,210) lakhs
+- *In their words:* “Shares were listed on the Stock Exchanges with effect from 31st July, 2025 under the ticker BRIGHOTEL.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 8% of net worth |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 6,344 cr (Mar 2026) = 0.34× market cap; P/E 26.1 on Mar 2026 profit vs industry median 40.0 (8 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 920 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-05-10 | Updates | Brigade Enterprises Limited has informed the Exchange regarding 'Disclosure under Regulation 30 od SEBI (LODR) Regulations, 2015'. | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_10052024182316_IntimationtoSE10052024.pdf) |
+| 2024-11-13 | Press Release | Brigade Enterprises Limited has informed the Exchange regarding a press release dated November 13, 2024, titled "Brigade Group s Q2 FY25 Real Estate Sales stand | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_13112024184902_PressRelease13112024.pdf) |
+| 2025-07-30 | General Updates | Brigade Enterprises Limited has informed the Exchange regarding Initial Public Offering (IPO) by Brigade Hotel Ventures Limited (BHVL), Subsidiary Company | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_30072025231913_IntimationReg30AllomentofsharesbyBHVL.pdf) |
+| 2025-08-13 | Press Release | Brigade Enterprises Limited has informed the Exchange regarding a press release dated August 13, 2025, titled " Brigade Group Reports Revenue Growth of 20%, PAT | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_13082025175901_PressReleaseQ12026.pdf) |
+| 2025-09-26 | General Updates | Brigade Enterprises Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulati | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_26092025192837_Intimation30saleofland.pdf) |
+
+</details>
+
+## CANBK — Canara Bank
+
+**CONFIRMED** (partial spin-off — Canara HSBC Life Insurance Company Limited is listed since 2025-10-17) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 3.6/10 · partial spin-off (subsidiary IPO) · 8 filing(s) from NSE · first 2024-05-31, latest 2025-10-17
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — Canara HSBC Life Insurance Company Limited trades since 2025-10-17 (NSE equity list); the parent keeps 36.50%
+
+**The partial spin-off:** **Canara HSBC Life Insurance Company Limited** (subsidiary); parent's stake 51% → 36.50%; IPO stage: listed; exchange: National Stock Exchange of India Limited and BSE Limited; NSE symbol CANHLIFE.
+
+> “In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary ”
+
+**What is being separated, as the documents put it:** Minority stakes in two subsidiaries — Canara HSBC Life Insurance and Canara Robeco Asset Management — listed via IPO — class `value_unlocking`.
+
+- *Insiders:* Canara Bank, the promoter, retains 36.50% of Canara HSBC Life and 38% of Canara Robeco; keeps arm's-length boards, earns agency commission as distributor, absorbed ~Rs.80 crore IPO charges; 'further dilution we don't foresee'.
+- *What it reveals:* Two high-value businesses sat inside the bank: the 14.5% and 13% dilutions alone yielded Rs.1,930-2,006 crore of listing gains, with ~Rs.320 crore subsidiary profit to parent, ~Rs.500 crore cross-sell income, and stakes management says have appreciated.
+- *Selling pressure:* unlikely — IPO/offer-for-sale to new investors, not a demerger distribution to parent shareholders; both listed on NSE and BSE, shares appreciated.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* Canara HSBC Life and Canara Robeco standalone results versus Canara Bank's retained 36.50%/38% carrying value.
+- *In their words:* “In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.50%.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 5.8 on Mar 2026 profit vs industry median 24.6 (97 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 899 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-05-31 | Updates | Canara Bank has informed the Exchange regarding 'Disclosure with regard to Subsidiary Company'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_31052024162920_CANHSBC3105SIGN.pdf) |
+| 2024-12-23 | Updates | Canara Bank has informed the Exchange regarding 'Disclosure with Regard to Subsidiary Company'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_23122024195416_CBTL231224PRASHsign.pdf) |
+| 2025-09-23 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_23092025120925_IntimationtoSERobeco.pdf) |
+| 2025-09-26 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_26092025114621_Intimationsehsbc.pdf) |
+| 2025-09-30 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_30092025120930_IntimationtoSERobeco.pdf) |
+| 2025-10-03 | Updates | Canara Bank has informed the Exchange regarding 'information on subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_03102025113839_LettertoSE03102025Sd.pdf) |
+| 2025-10-16 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_16102025190221_LettertoSE16102025Sd.pdf) |
+| 2025-10-17 | Updates | Canara Bank has informed the Exchange regarding 'Information on subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_17102025163235_LettertoSE17102025Sd.pdf) |
+
+</details>
+
+## EDELWEISS — Edelweiss Financial Services Ltd.
+
+**CONFIRMED** (partial spin-off — EAAA India Alternatives Limited is listed since 2026-11-02) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 2.9/10 · partial spin-off (subsidiary IPO) · 7 filing(s) from NSE · first 2024-12-05, latest 2026-11-02
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — EAAA India Alternatives Limited trades since 2026-11-02 (NSE equity list); the parent keeps 83.88%
+
+**The partial spin-off:** **EAAA India Alternatives Limited** (subsidiary); parent's stake after: 83.88%; IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol EDELALTS; timeline: The offer period in relation to the IPO was closed on October 28, 2026. The shares were allotted to the investors on October 29, 2026 and admitted for listing a.
+
+> “In continuation of our earlier intimations made in connection with the Initial Public Offering (“IPO”) of EAAA India Alternatives Limited (“EAAA”), a subsidiary of the Company and in accordance with t”
+
+**Stated in the filings:** size hint: 2.6% of net worth.
+
+**What is being separated, as the documents put it:** EAAA India Alternatives Limited, the alternative asset management (investment manager to alternate-asset funds) business, listed via IPO offer for sale — class `value_unlocking`.
+
+- *Insiders:* ESIPL, a wholly owned subsidiary, is holding company and one of EAAA's promoters; post-IPO ESIPL holds 78.43%, and EFSL through all subsidiaries holds 83.88%. Management incentives not stated.
+- *What it reveals:* Alternatives segment made PBT of INR 241.40 Cr in nine months on capital employed of INR 989.53 Cr, FPAUM INR 41,920 Cr; IPO priced EAAA at Rs 1,665/share against EAAA net worth Rs 1,075.54 Cr and EFSL net worth INR 5,866 Cr.
+- *Selling pressure:* unlikely — No shares distributed to EFSL shareholders; shares sold through book-built IPO to investors, and parent retains 83.88%.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* EAAA's Red Herring Prospectus dated October 19, 2026 — promoter shareholding, EAAA standalone financials and post-IPO capital structure.
+- *In their words:* “We are pleased to share that we have filed EAAA's DRHP for IPO in January and are on track for the listing, marking the first step towards building EAAA as a standalone institutionalized platform.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 2.6% of net worth |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 711 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-12-05 | General Updates | Edelweiss Financial Services Limited has informed the Exchange about Disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/EDELWEISS_05122024235444_ExchangeIntimation_EFSL.pdf) |
+| 2025-08-22 | General Updates | Edelweiss Financial Services Limited has informed the Exchange regarding investment by WestBridge Capital in Edelweiss Asset Management | [pdf](https://nsearchives.nseindia.in/corporate/EDELWEISS_22082025124626_ExchangeIntimation.pdf) |
+| 2026-01-20 | General Updates | EDELWEISS: Disclosure under the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_20012026185911_EFSLExchangeIntimation.pdf) |
+| 2026-04-24 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding 'Disclosure under the Securities and Exchange Board of India (Listing Obligations and D | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_24042026084616_ExchangeIntimationEAAA.pdf) |
+| 2026-10-20 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding 'Disclosure under the Securities and Exchange Board of India (Listing Obligations andDi | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_20102026105739_EFSLExchange_IntimationRHP.pdf) |
+| 2026-10-20 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding 'Disclosure under the Securities and Exchange Board of India (Listing Obligations and D | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_20102026144319_EFSLExchangeIntimationPriceband.pdf) |
+| 2026-11-02 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding Disclosure under the Securities and Exchange Board of India (Listing Obligations and Di | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_02112026134336_EFSLExchangedisclosureforEAAAListingFinal.pdf) |
+
+</details>
+
+## JSWSTEEL — JSW Steel Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of JSW One Platforms Limited is in motion (board approval)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 5.6/10 · partial spin-off (subsidiary IPO) · 9 filing(s) from NSE · first 2024-10-04, latest 2026-10-17
+
+> **Listing:** PARTIAL SPIN-OFF, IPO BOARD APPROVAL — JSW One Platforms Limited; Completion date of the proposed IPO is not available as on date. (filing dated July 17, 2026)
+
+**The stages, as filed:** nclt_sanction (2024-10-04)
+
+**The partial spin-off:** **JSW One Platforms Limited** (joint venture); parent's stake about 61% equity stake on a fully diluted basis; IPO stage: board approval; timeline: Completion date of the proposed IPO is not available as on date. (filing dated July 17, 2026).
+
+> “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meeting held today i.e. July 17, 2026, inter a”
+
+**What is being separated, as the documents put it:** JSW One Platforms Limited, the group's online platform business, partly sold via IPO offer for sale — class `not stated`.
+
+- *Insiders:* JSW Steel holds about 61% equity stake in JOPL on a fully diluted basis and sells shares aggregating up to Rs 811 crores as Promoter Selling Shareholder.
+- *What it reveals:* JOPL is immaterial to the parent: FY26 share of loss Rs 90 crores (0.35% of consolidated PAT), net worth impact Rs 68 crores (0.06%), yet it turned profitable in Q4 FY26 with GMV Rs 6,200 crores, up 57% YoY.
+- *Selling pressure:* unlikely — IPO offer for sale, not a distribution to parent shareholders; no index exclusion stated; JOPL is 0.06% of parent net worth.
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* JSW One Platforms' IPO offer document for its standalone financials, offer size split and price band.
+- *In their words:* “The price and other details of the proposed IPO will be determined in due course by the competent body, in compliance with applicable law including the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…ties between the two steel producers. An association with POSCO Co., Ltd will enable the Company to form a strategic partnership for access to technology and manufacturing of high-grade steel products for automotive and other appli…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…ties between the two steel producers. An association with POSCO Co., Ltd will enable the Company to form a strategic partnership for access to technology and manufacturing of high-grade steel products for automotive and” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 99,310 cr (Mar 2026) = 0.32× market cap; P/E 12.2 on Mar 2026 profit vs industry median 19.4 (16 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 773 days since the first filing, stage nclt_sanction |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…at Rs.19,243 crores. It is important to note that there was an exceptional gai n of Rs.17,888 crores in Quarter 4. This incl udes a gain of Rs.18,051 crores on slump sale of BPSL steel undertaking and Rs.163 crores exce” |
+
+**On the calls (last 12 months):**
+
+- *May 2026* (backward) — “…at Rs.19,243 crores. It is important to note that there was an exceptional gai n of Rs.17,888 crores in Quarter 4. This incl udes a gain of Rs.18,051 crores on slump sale of BPSL steel undertaking and Rs.163 crores exceptional charge on implementation of new labor code. The normali sed PAT, excluding exceptionals for the quarter…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-10-04 | Amalgamation/Merger | Filing of the Orders of the National Company Law Tribunal, Mumbai Bench sanctioning the Scheme of Amalgamation of National Steel and Agro Industries Limited ( N | [pdf](https://nsearchives.nseindia.in/corporate/JSWSTEEL_04102024224459_NationalNCLTorder.pdf) |
+| 2025-10-17 | Scheme of Arrangement | JSW Steel Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.in/corporate/Supriya_17102025145406_Merger.pdf) |
+| 2026-04-17 | Arrangements for strategic, technical, m | JSW Steel Limited has informed the Exchange about Joint Venture Agreement between JSW Steel Limited and POSCO Group through which Saffron Resources Private Limi | [pdf](https://nsearchives.nseindia.com/corporate/Supriya_17042026135142_Stock_Exchange_Intimation.pdf) |
+| 2026-04-17 | Sale or disposal | JSW Steel Limited has informed the Exchange about Sale or disposal - Joint Venture Agreement between JSW Steel Limited and POSCO Group through whichSaffron Reso | [pdf](https://nsearchives.nseindia.com/corporate/Supriya_17042026135325_Stock_Exchange_Intimation.pdf) |
+| 2026-05-14 | Scheme of Arrangement | JSW Steel Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/Snigdha_14052026153825_Scheme.pdf) |
+| 2026-07-03 | Amalgamation/Merger | Receipt of final order issued by Hon ble National Company Law Tribunal in respect of Scheme of Amalgamation of ARCL and MCL and JRDL with JSW Steel Limited. | [pdf](https://nsearchives.nseindia.com/corporate/jessydenny_03072026104440_Merger_approval.pdf) |
+| 2026-07-17 | Disclosure of material issue | The Board has approved participation in the Company in the proposed initial public offering of JSW One Platforms Limited as a Promoter Selling Shareholder by of | [pdf](https://nsearchives.nseindia.com/corporate/jessydenny_17072026144838_Offering_for_Sale.pdf) |
+| 2026-08-01 | General Updates | Effectiveness of the Scheme of Amalgamation of Amba River Coke Limited and Monnet Cement Limited and JSW Retail and Distribution Limited with JSW Steel Limited  | [pdf](https://nsearchives.nseindia.com/corporate/jessydenny_01082026141540_SE_Intimation_merger.pdf) |
+| 2026-10-17 | Amalgamation/Merger | JSW Steel Limited has informed the Exchange about Order ofHon ble National Company Law Tribunal sanctioning the Scheme of Amalgamation of Piombino Steel Limited | [pdf](https://nsearchives.nseindia.com/corporate/DivyaMascarenhas_17102026105940_JSWSLSEIntimationforOrdersanctioningPSLMergerOct2026.pdf) |
+
+</details>
+
+## FIRSTCRY — Brainbees Solutions Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of Swara Baby Products Limited is in motion (DRHP filed)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 4.3/10 · partial spin-off (subsidiary IPO) · 17 filing(s) from NSE · first 2025-02-08, latest 2026-10-07
+
+> **Listing:** PARTIAL SPIN-OFF, IPO DRHP FILED — Swara Baby Products Limited; date not fixed
+
+**The stages, as filed:** meetings (2026-08-29)
+
+**The partial spin-off:** **Swara Baby Products Limited** (subsidiary); parent's stake 76.59%; IPO stage: DRHP filed; exchange: BSE Limited and National Stock Exchange of India Limited.
+
+> “In this connection, we wish to inform you that Swara Baby has filed a DRHP dated July 02, 2026 with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited”
+
+**What is being separated, as the documents put it:** Swara Baby, contract manufacturer of disposable hygiene products (baby/adult diapers, sanitary napkins), separately listed via its own IPO — class `unrelated`.
+
+- *Insiders:* Brainbees holds 76.59%, is Promoter of Swara Baby and stays invested; operations run wholly by Mr. Alok Birla and son Mr. Udit Birla; Supam Maheshwari and Gautam Sharma are non-executive directors; Brainbees OFS up to Rs. 3,000 million
+- *What it reveals:* A profitable manufacturer buried in the parent: FY26 revenue Rs. 11,639 million, EBITDA Rs. 1,927.70 million, "largest contract manufacturer by value in Fiscal 2025" in Indian hygiene; Rs. 1,445.7 million of its EBITDA sits inside parent's India multi-channel adjusted EBITDA of ~Rs. 5,050 million
+- *Selling pressure:* unlikely — IPO with fresh issue plus parent OFS, not a share distribution to Brainbees shareholders; Swara Baby "will continue to remain as Subsidiary Company of Brainbees"
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* Swara Baby DRHP dated July 02, 2026 — Risk Factor No. 2 (pages 23-24) on Brainbees revenue dependence and restated P&L on page 75
+- *In their words:* “With this expansive and global vision in contract manufacturing of disposable hygiene products with different capex and working capital needs, we decided to initiate the process of separately listing this business so that they can follow their independent journey.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: a weak or capital-heavy business carved away — “…down subsidiary (subsidiarie(s) of globalbees) has written off current assets including inventories from its non-core business amounting to Rs 278.18 million and Rs 355. 71 million during quarter and year ended March 31 2026 r…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | a weak or capital-heavy business carved away — “…down subsidiary (subsidiarie(s) of globalbees) has written off current assets including inventories from its non-core business amounting to Rs 278.18 million and Rs 355. 71 million during quarter and year ended March 31” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 1,594 cr (Mar 2026) = 0.14× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 646 days since the first filing, stage meetings |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-02-08 | Outcome of Board Meeting | Brainbees Solutions Limited has informed the Exchange regarding Board meeting held on February 08, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_08022025174905_Finalsigned.pdf) |
+| 2025-02-08 | Acquisition | Brainbees Solutions Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_08022025181519_Regulation30-Acquisition.pdf) |
+| 2025-02-08 | Financial Result Updates | Brainbees Solutions Limited has submitted to the Exchange, the financial results for the period ended December 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/Finalsigned_08022025175049.pdf) |
+| 2025-08-13 | Outcome of Board Meeting | Brainbees Solutions Limited has informed the Exchange regarding Outcome of Board Meeting held on August 13, 2025 | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_13082025171648_BMOutcomeofBoardMeetingAugust132025signed.pdf) |
+| 2025-08-13 | Acquisition | Brainbees Solutions Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_13082025173803_BMOutcomeofBoardMeetingAugust132025signed.pdf) |
+| 2025-08-13 | Outcome of Board Meeting | Brainbees Solutions Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_13082025200544_BMOutcomeofBoardMeetingAugust132025signed.pdf) |
+| 2025-12-26 | Outcome of Board Meeting | Brainbees Solutions Limited has informed the Exchange regarding Outcome of Board Meeting held on December 26, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025184313_Disclosureunderregulation30OutcomeofBM26122025.pdf) |
+| 2025-12-26 | Change in Company Secretary/Compliance O | Brainbees Solutions Limited has informed the Exchange about Change in Company Secretary/Compliance Officer | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025185228_Disclosureunderregulation30OutcomeofBM26122025.pdf) |
+| 2025-12-26 | Acquisition | Brainbees Solutions Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025190047_Disclosureunderregulation30OutcomeofBM26122025_.pdf) |
+| 2025-12-26 | Sale or disposal | Brainbees Solutions Limited has informed the Exchange about Sale or disposal | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025190355_Disclosureunderregulation30OutcomeofBM26122025_.pdf) |
+| 2026-05-26 | Outcome of Board Meeting | Brainbees Solutions Limited has submitted the outcome of Board Meeting held on May 26, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26052026173216_Boardmeetingoutcome_March26.pdf) |
+| 2026-05-26 | Acquisition | Brainbees Solutions Limited has informed the Exchange about acquisition in Firstcry Management DWC LLC. | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26052026180538_Boardmeetingoutcome_March26.pdf) |
+| 2026-06-30 | Acquisition | Brainbees Solutions Limited has informed the Exchange about the extension in the timeline of further investment in Firstcry Management DWC LLC, a wholly owned s | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_30062026165703_Disclosureunderregulation30UpdateFCManagementsigned.pdf) |
+| 2026-07-01 | General Updates | Brainbees Solutions Limited has informed the Exchange about an intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regu | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_01072026193848_DraftDisclosureunderRegulation30OFSParticipation.pdf) |
+| 2026-07-02 | General Updates | Brainbees Solutions Limited has informed the Exchange about filing of Draft Red Herring Prospectus by Swara Baby Products Limited, a Subsidiary of Brainbees Sol | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_02072026151519_DisclosureunderRegulation30DRHPStage.pdf) |
+| 2026-08-29 | Shareholders meeting | Brainbees Solutions Limited has informed the Exchange regarding Notice of 16th Annual General Meeting of the Members of the Company to be held through Video Con | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_29082026232500_IntimationofAGMNotice.pdf) |
+| 2026-10-07 | Sale or disposal | Brainbees Solutions Limited has informed the Exchange about Execution of Memorandum of Understanding by GlobalBees Brands Private Limited ("Globalbees") , a Sub | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_07102026192542_Disclosureunderregulation30_MOUtosellMush.pdf) |
+
+</details>
+
+## JSWCEMENT — JSW Cement Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of JSW One Platforms Limited is in motion (board approval)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 4.3/10 · partial spin-off (subsidiary IPO) · 10 filing(s) from BSE-screener, NSE, NSE-deep · first 2025-11-17, latest 2026-10-27
+
+> **Listing:** PARTIAL SPIN-OFF, IPO BOARD APPROVAL — JSW One Platforms Limited; Per the August 13, 2026 filing: "Completion date of the proposed IPO is not available as on date."
+
+**The stages, as filed:** nclt_sanction (2026-09-29)
+
+**The partial spin-off:** **JSW One Platforms Limited** (joint venture); IPO stage: board approval; timeline: Per the August 13, 2026 filing: "Completion date of the proposed IPO is not available as on date.".
+
+> “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meeting held today i.e. August 13, 2026, inter”
+
+**Stated in the filings:** entitlement **5 for every 41**.
+
+**What is being separated, as the documents put it:** Nothing separated — Shiva Cement, the listed clinker subsidiary, is amalgamated into parent JSW Cement — class `value_unlocking`.
+
+- *Insiders:* JCL holds 66.23% of SCL equity and all its OCCRPS; JSW Cement promoter group goes 72.02% to 71.39% post-merger; Shiva promoter group held 66.50%
+- *What it reveals:* Shiva is a loss-maker: standalone net worth (30.08) crore, retained-earnings debit (133.92) crore written off against securities premium; its 1.32 mtpa clinker becomes captive raw material, cutting third-party purchases and mark-ups
+- *Selling pressure:* unlikely — Only ~1.21 crore new shares on a 136.34 crore base; same industry, larger and more liquid entity, no index exit
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* The valuation/share exchange ratio report and fairness opinions supporting the 5:41 ratio
+- *In their words:* “Transferor Company shall cease to exist upon effectiveness of the Scheme without being wound up.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: attracting different investors / capital — “…pany, which has a higher traded equity share base, greater market liquidity, and a diversified institutional investor base, thereby providing shareholders with enhanced liquidity, broader market participation, and improved opportu…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | attracting different investors / capital — “…pany, which has a higher traded equity share base, greater market liquidity, and a diversified institutional investor base, thereby providing shareholders with enhanced liquidity, broader market participation, and impro” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 4,464 cr (Mar 2026) = 0.25× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 364 days since the first filing, stage nclt_sanction |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-11-17 | General Updates | This is in furtherance to the intimation done by the Company on 7th November, 2025. This is to inform you that the Company has today signed a Securities Purchas | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_17112025235832_SEIntimationVadrajSIgn.pdf) |
+| 2026-05-21 | Press Release | Please find attached the Press Release. | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_21052026130017_upload.pdf) |
+| 2026-07-17 | General Updates | Please find enclosed herewith intimation under Regulation 30 of the Securities Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulat | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_17072026195210_Stock_Exchange_Intimation.pdf) |
+| 2026-08-13 | Disclosure of material issue | The Board has approved participation in the Company in the proposed initial public offering of JSW One Platforms Limited as a Promoter Selling Shareholder by of | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_13082026193636_JSW_One_Platforms_dsc.pdf) |
+| 2026-09-29 | Outcome of Board Meeting | Outcome of the Board Meeting of JSW Cement held on September 29, 2026 - Approving | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026191654_JCL_Post_BM_Intimation_signed.pdf) |
+| 2026-09-29 | Outcome of Board Meeting | JSW Cement Limited has informed the Exchange regarding Outcome of Board Meeting held on September 29, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026191654_JCL_Post_BM_Intimation_signed.pdf) |
+| 2026-09-29 | Scheme of Arrangement | JSW Cement Limited (the "Company") at its meeting held on September 29, 2026, has ,inter alia, subject to approval of the shareholders of the Company, considere | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026192108_JCL_Post_BM_Intimation_signed.pdf) |
+| 2026-09-29 | Press Release | In continuation of our disclosure dated September 29, 2026, we submit herewith a Press Release on the Outcome of the Board Meeting of JSW Cement held on Septemb | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026210016_Press_Release_Upload.pdf) |
+| 2026-09-29 | Announcement under Regulation 30 (LODR)- | Board approved merger of Shiva Cement into JSW Cement; 5:41 share swap, subject to shareholder and NCLT approvals. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c683658f-e10d-47ea-948e-4599b15073bd.pdf) |
+| 2026-10-27 | Press Release | JSW Cement Limited has informed the Exchange regarding a press release dated October 27, 2026, titled "Please find attached Press Release dated 27th October, 20 | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_27102026195531_Press_Release.pdf) |
+
+</details>
+
+## COALINDIA — Coal India Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of Mahanadi Coalfields Limited is in motion (SEBI observations)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 3.6/10 · partial spin-off (subsidiary IPO) · 14 filing(s) from NSE · first 2025-05-20, latest 2026-11-14
+
+> **Listing:** PARTIAL SPIN-OFF, IPO SEBI OBSERVATIONS — Mahanadi Coalfields Limited; Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete steps to ensure further listing of subsidiaries name
+
+**The stages, as filed:** announced (2025-12-23)
+
+**The partial spin-off:** **Mahanadi Coalfields Limited** (subsidiary); parent's stake 100% (wholly owned subsidiary of Coal India Limited); IPO stage: SEBI observations; exchange: BSE and NSE; timeline: Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete steps to ensure further listing of subsidiaries name.
+
+> “The RHP filing pertains to the proposed initial public offering ("IPO") of MCL comprising an offer for sale of up to 661,836,300 equity shares by Coal India Limited, which remains subject to receipt o”
+
+**What is being separated, as the documents put it:** Minority stakes in CIL's wholly owned coal mining and mine-planning subsidiaries, sold via offer-for-sale IPOs — class `regulatory_strategic`.
+
+- *Insiders:* Not stated. Documents only show CIL's stake falling to 90% in BCCL and 85% in CMPDIL post-IPO; no promoter or management incentive details in the new entities.
+- *What it reveals:* Listings put market prices on subsidiaries previously buried in CIL: BCCL 465,700,000 shares at Rs 23 and CMPDIL 107,100,000 shares at Rs 172, with MCL (661,836,300 shares) and SECL (668,056,100 shares) still pending.
+- *Selling pressure:* unlikely — Shares reached willing buyers through priced offers for sale, not distributed free to CIL shareholders; CIL retains 85-90% control.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* MCL's RHP dated 13 November 2026 - its financials, reserves and the offer price band
+- *In their words:* “Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 14,072 cr (Mar 2026) = 0.06× market cap; P/E 8.2 on Mar 2026 profit vs industry median 12.9 (16 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 545 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-05-20 | Rumour Verification - Regulation 30(11) | Coal India Limited has informed the Exchange about Rumour Verification - Regulation 30(11)- Intimation under Regulation 30(11) of SEBI (Listing Obligations & Di | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_20052025170928_Market_rumour_200525.pdf) |
+| 2025-05-27 | General Updates | Coal India Limited has informed the Exchange about General Updates- Filing of DRHP of Central Mine Planning & Design Institute Limited (CMPDIL), a wholly owned  | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_27052025143857_cmpdil_drhp.pdf) |
+| 2025-05-31 | General Updates | Coal India Limited has informed the Exchange about General Updates- Disclosure under Regulation 30 of SEBI LODR, 2015 Filing of DRHP of Bharat Coking Coal Limit | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_31052025221137_drhp_bccl.pdf) |
+| 2025-12-23 | General Updates | Coal India Limited has informed the Exchange about General Updates-In-principle approval of Listing of Mahanadi Coalfields Limited (MCL) a Wholly owned subsidia | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_23122025170458_MCLsigned.pdf) |
+| 2025-12-23 | General Updates | Coal India Limited has informed the Exchange about General Updates-In-principle approval of Listing of South Eastern Coalfields Limited (SECL), a Wholly owned s | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_23122025170609_SECLsigned.pdf) |
+| 2026-01-03 | General Updates | Coal India Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_03012026145853_RHPf.pdf) |
+| 2026-01-14 | General Updates | Filing of Prospectus of Bharat Coking Coal Limited (BCCL) , A Wholly Owned Subsidiary of Coal India Limited, With the Registrar of Companies, Jharkhand at Ranch | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_14012026115033_BCCLProspectus.pdf) |
+| 2026-01-19 | General Updates | Listing of Bharat Coking Coal Limited, a subsidiary of Coal India Limited | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_19012026111242_listingbccl.pdf) |
+| 2026-03-13 | Updates | Coal India Limited has informed the Exchange regarding 'Filing of Red Herring Prospectus(RHP) of Central Mine Planning and Design Institute Limited (CMPDIL), a  | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_13032026144405_RHP.pdf) |
+| 2026-03-25 | Updates | Coal India Limited has informed the Exchange regarding ''.Initial Public Offering ( IPO ) Of Equity Shares of Face Value Rs. 2 Each ( Equity Shares ) Of Central | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_25032026161724_prospectus_CMPDIL.pdf) |
+| 2026-03-30 | General Updates | Coal India Limited has informed the Exchange about General Updates-Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_30032026173416_siged.pdf) |
+| 2026-09-02 | General Updates | Disclosure under Regulation 30 of SEBI LODR, 2015 Filing of DRHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL. | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_02092026103250_Draft_letter_to_stock_exchange_DRHP_MCL_signed.pdf) |
+| 2026-11-02 | General Updates | Disclosure under Regulation 30 of SEBI LODR, 2015 - Filing of DRHP of South Eastern Coalfields Limited (SECL), a wholly owned Subsidiary of CIL, with SEBI | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_02112026120108_SECL.pdf) |
+| 2026-11-14 | General Updates | Filing of RHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL, with SEBI | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_14112026072625_rhp.pdf) |
+
+</details>
+
+## MUTHOOTFIN — Muthoot Finance Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of Belstar Microfinance Limited is in motion (SEBI observations)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 3.6/10 · partial spin-off (subsidiary IPO) · 3 filing(s) from NSE · first 2024-05-05, latest 2024-09-03
+
+> **Listing:** PARTIAL SPIN-OFF, IPO SEBI OBSERVATIONS — Belstar Microfinance Limited; "The IPO will be subject to market conditions, receipt of applicable approvals, if any, and other considerations." (filing dated September 03, 2024); no expecte
+
+**The partial spin-off:** **Belstar Microfinance Limited** (subsidiary); parent's stake 66.13%; IPO stage: SEBI observations; timeline: "The IPO will be subject to market conditions, receipt of applicable approvals, if any, and other considerations." (filing dated September 03, 2024); no expecte.
+
+> “In continuation of our letter dated May 05, 2024, we wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has informed us that it has received final observations on the Draft Re”
+
+**What is being separated, as the documents put it:** Belstar Microfinance Limited, Muthoot Finance's RBI-registered microfinance NBFC subsidiary, being separately listed through a proposed initial public offering — class `not stated`.
+
+- *Insiders:* Muthoot Finance holds 66.13% of Belstar's equity share capital; the offer for sale is by "certain of its existing non-promoter shareholders", so the promoter parent is not selling.
+- *What it reveals:* Belstar stands alone in the filings: H1 FY27 AUM Rs. 7,876 crores, PAT Rs. 144 crores against a Rs. 160 crores loss, net worth Rs. 1,939 crores, GNPA 3.26% from 4.58%, 1,362 branches, 163 new gold-loan branches.
+- *Selling pressure:* unlikely — An IPO of fresh issue plus non-promoter offer for sale; no shares are distributed to Muthoot Finance's own shareholders.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* Belstar's DRHP dated May 3, 2024 — whether SEBI's final observations have lapsed, and the IPO valuation
+- *In their words:* “We wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has filed a draft red herring prospectus dated May 3, 2024 with the Securities and Exchange Board of India, for a proposed IPO, comprising a fresh issue of equity shares of face value of ₹10 each ("Equity Shares") for an amount aggregating up to ₹10,000 million, and an offer for sale of Equity Shares for an amount aggregating up to ₹3,000 million by certain of its existing non-promoter shareholders ("Offer").”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 11.8 on Mar 2026 profit vs industry median 24.6 (97 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 925 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-05-05 | Updates | Muthoot Finance Limited has informed the Exchange regarding 'Filing of DRHP by Belstar Microfinance Limited'., a subsidiary of Muthoot Finance Limited | [pdf](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_05052024111724_BelstarDRHPSigned.pdf) |
+| 2024-05-18 | Updates | Muthoot Finance Limited has informed the Exchange regarding 'Intimation from RTA'. | [pdf](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_18052024112907_Link_Intime_Acquisition_signed.pdf) |
+| 2024-09-03 | Updates | Muthoot Finance Limited has informed the Exchange regarding 'Final Observations On DRHP Filed By Belstar Microfinance Limited'. | [pdf](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_03092024084747_BelstarDRHPSd.pdf) |
+
+</details>
+
+## GAIL — GAIL (India) Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of GAIL Gas Limited is in motion (board approval)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 2.9/10 · partial spin-off (subsidiary IPO) · 2 filing(s) from NSE · first 2026-07-31, latest 2026-10-30
+
+> **Listing:** PARTIAL SPIN-OFF, IPO BOARD APPROVAL — GAIL Gas Limited; date not fixed
+
+**The partial spin-off:** **GAIL Gas Limited** (subsidiary); parent's stake wholly owned subsidiary of GAIL (100%); IPO stage: board approval; exchange: Indian stock exchanges.
+
+> “This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the I”
+
+**What is being separated, as the documents put it:** GAIL Gas Limited, GAIL's wholly owned city gas distribution subsidiary, partly listed via IPO — class `not stated`.
+
+- *Insiders:* GGL is a wholly owned subsidiary of GAIL; GAIL dilutes up to 25% and retains the rest. No management stake or incentive stated.
+- *What it reveals:* A separately priced CGD business: GGL Q3 FY26 turnover Rs.3,292 crore, PBT Rs.143 crore, 7.8 MMSCMD, 12,46,000 DPNG connections and 674 CNG stations, plus six CGD areas transferred from 01.01.2027.
+- *Selling pressure:* unlikely — IPO dilution, not a share distribution to GAIL holders; no index exclusion or forced selling described in documents.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* GGL's final IPO proposal: BRLM valuation, price band and final extent of dilution approved by GAIL Board
+- *In their words:* “This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 24,831 cr (Mar 2026) = 0.21× market cap; P/E 15.7 on Mar 2026 profit vs industry median 12.5 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 108 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-07-31 | Scheme of Arrangement | GAIL (India) Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/DEVIKA_31072026140652_KLL_Signed.pdf) |
+| 2026-10-30 | General Updates | GAIL (India) Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/DEVIKA_30102026145647_GAIL_Gas_Listing.pdf) |
+
+</details>
+
+## IEX — Indian Energy Exchange Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of Indian Gas Exchange Limited is in motion (DRHP filed)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 2.9/10 · partial spin-off (subsidiary IPO) · 1 filing(s) from NSE · first 2026-07-15, latest 2026-07-15
+
+> **Listing:** PARTIAL SPIN-OFF, IPO DRHP FILED — Indian Gas Exchange Limited; July 24, 2026 analyst meet: "the good part is that they filed the DRHP in this month and hopefully (would be) getting listed soon"; PNGRB extension to bring hol
+
+**The partial spin-off:** **Indian Gas Exchange Limited** (associate); parent's stake 47.3% → 25%; IPO stage: DRHP filed; timeline: July 24, 2026 analyst meet: "the good part is that they filed the DRHP in this month and hopefully (would be) getting listed soon"; PNGRB extension to bring hol.
+
+> “In furtherance of our intimation dated December 03, 2025, and in terms of Regulation 30 of the SEBI Listing Regulations, we wish to inform that the Indian Gas Exchange Limited ("IGX"), an associate co”
+
+**What is being separated, as the documents put it:** Indian Gas Exchange Limited (IGX), IEX's associate company and India's only natural gas exchange, partly sold via IPO offer-for-sale — class `regulatory_strategic`.
+
+- *Insiders:* IEX today holds 47.3% (earlier stated 47.5%) and offers up to 16,710,000 shares to sell 22.3%, retaining 25%; no IGX reservation for IEX shareholders; no management stake stated
+- *What it reveals:* IGX: only natural gas exchange in India, ~3% of gas consumption and 20% of spot market, 50+ participants, FY26 volume 76.8 million MMBtu, PAT Rs 42 crore (+28-35%), inside IEX's Rs 492-493 crore consolidated PAT and 42-44% ROE
+- *Selling pressure:* likely — IEX is a forced seller against the PNGRB 31 December 2026 deadline; no shares distributed to IEX shareholders, so no index-driven dumping
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* IGX's DRHP dated July 14, 2026 — offer price/valuation, IGX standalone financials and risk factors
+- *In their words:* “As per PNGRB (Petroleum and Natural Gas Board) regulati ons, we have to bring this down to 25% within 5 years.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 11 cr (Mar 2026) = 0.00× market cap; P/E 23.9 on Mar 2026 profit vs industry median 24.6 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 124 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-07-15 | Updates | Indian Energy Exchange Limited has informed the Exchange regarding 'Filing of DRHP of Indian Gas Exchange Limited , An Associate Company of Indian Energy Exchan | [pdf](https://nsearchives.nseindia.com/corporate/IEX_15072026114919_Signed_IEX_Intimation_IGX_DRHP_14_07_2026.pdf) |
+
+</details>
+
+## NLCINDIA — NLC India Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of NLC India Renewables Limited is in motion (board approval)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 2.9/10 · partial spin-off (subsidiary IPO) · 3 filing(s) from NSE · first 2026-11-04, latest 2026-11-04
+
+> **Listing:** PARTIAL SPIN-OFF, IPO BOARD APPROVAL — NLC India Renewables Limited; date not fixed
+
+**The stages, as filed:** announced (2026-11-04) → record_date (2026-11-04)
+
+**The partial spin-off:** **NLC India Renewables Limited** (subsidiary); parent's stake 100% (Wholly Owned Subsidiary); IPO stage: board approval.
+
+> “Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Wholly Owned Subsidiary, as part of the pro”
+
+**What is being separated, as the documents put it:** NLCIL's renewable energy assets (1,430 MW) housed in NLC India Renewables Limited, to be IPO'd — class `regulatory_strategic`.
+
+- *Insiders:* NIRL is a 100% subsidiary of NLCIL ('Navratna' Government of India Enterprise); NLCIL invested Rs 2,000 crore on 12.10.2026, total investment Rs 5,119.75 crore. Management stake/incentives not stated.
+- *What it reveals:* Renewables segment carries Rs 10,881.76 crore assets vs only Rs 462.27 crore H1 revenue and Rs 237.08 crore segment result; parent's NIRL investment Rs 5,119.75 crore; consolidated debt-equity 1.20 vs standalone 0.44 — leverage sits in subsidiaries.
+- *Selling pressure:* unlikely — Separation is via IPO/Offer for Sale of up to 10 crore shares by the parent, not a distribution of shares to NLCIL shareholders.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* NIRL's DRHP / standalone financials — the ten subsidiaries' Rs 40,136.62 crore assets vs Rs 144.73 crore half-year profit
+- *In their words:* “In line with the National Monetization Pipeline and in consultation with the Ministry of Coal, NLCIL executed a Business Transfer Agreement (BTA) with NLC India Renewables Limited on 31st October 2025 for transferring 1,430 MW of renewable energy assets.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 27,892 cr (Mar 2026) = 0.68× market cap; P/E 11.0 on Mar 2026 profit vs industry median 31.1 (15 peers) |
+| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | 12 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2026-11-04 | Outcome of Board Meeting | NLC India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026135958_573_BM_-_Outcome_04112026_Signed.pdf) |
+| 2026-11-04 | Record Date | NLC India Limited has informed the Exchange that Record date for the purpose of Dividend is 12-Nov-2026. | [pdf](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026140709_573_BM_-_Outcome_04112026_Signed.pdf) |
+| 2026-11-04 | Updates | NLC India Limited has informed the Exchange regarding 'Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value ofRs.10 each held by t | [pdf](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026142212_573_BM_-_Outcome_04112026_Signed.pdf) |
+
+</details>
+
+---
+
 # Probable spin-offs and listings
 
 ## CYIENT — Cyient Ltd.
@@ -5748,2366 +6572,6 @@ No rationale on file: no call passages and no scheme rationale text.
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2024-04-02 | Updates | The South Indian Bank Limited has informed the Exchange regarding 'Intimation as per Regulation 92 of Securities and Exchange Board of India (Issue of Capital a | [pdf](https://nsearchives.nseindia.in/corporate/SOUTHBANK_02042024152658_STT_NEWSPAPER_BASISOFALLOTMENT.pdf) |
-
-</details>
-
-## SBIN — State Bank of India
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 6.2/10 · partial spin-off / listing · 12 filing(s) from CALLS, NSE · first 2026-03-19, latest 2026-07-17
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-03-19; date not fixed — On 08.05.2026 the Chairman said "we have embarked on listing SBI AMC and hopefully in this financial year we will be able to complete"; the 08.07.2026 filing says the "IPO will be open for subscription by the public on Tuesday, July 14, 2026 and shall close on Thursday, July 16, 2026"; the 11.07.2026 filing says "Allotment is expected to take place on or about July 18, 2026"; the Prospectus dated July 16, 2026 was filed with the RoC (intimated 17.07.2026).
-
-**Stated in the filings:** size hint: 0.7% of income.
-
-**What is being separated, as the documents put it:** SBI Funds Management Limited, the group's mutual fund asset management subsidiary, part-sold through an IPO offer for sale — class `value_unlocking`.
-
-- *Insiders:* SBI offers only 4.8851% (revised down from 6.3007%), Amundi India Holding 3.5082%; SBI stays majority owner, "not fully exiting"; eligible employees got Rs 54/share discount, and employees exercised ESOPs pre-IPO.
-- *What it reveals:* A small but high-quality unit: SBIFM income Rs 4,969.09 crore (0.70% of group income), reserves Rs 3,533.09 crore (0.59%). Listing marks unlisted strategic stakes to market and augments CET-1 — same hidden-reserve logic as the group's 7.3% NSE holding.
-- *Selling pressure:* unlikely — Book-built IPO sold to willing buyers, not distributed to SBI holders; only 8.3933% of SBIFM, 0.70% of group income.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* SBIFM Prospectus dated July 16, 2026 — AUM, profit and implied valuation at the Rs 574 offer price.
-- *In their words:* “We are also seriously, as you are aware, we have embarked on listing SBI AMC and hopefully in this financial year we will be able to complete, which will result in capital augmentation, CET-1.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some value unlocking and, more importantly, value recognition for the industry. We would soon be working on that. It is also impor…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders — “…several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some value unlocking and, more importantly, value recognition for the industry. We would soon be working on that. I” |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 0.7% of income |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 10.9 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 242 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 4 mention(s) in the last 12 months of calls — “…e results better than expected because I have been present and looking at the transcript, saw it as a knee jerk reaction but with your clarification and lot of value unlocking hopefully your direction towards that shoul” |
-
-**On the calls (last 12 months):**
-
-- *Nov 2025* (forward) — “…we definitely would be looking at, as I mentioned several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some value unlocking and, more importantly, value recognition for the industry. We would soon be working on that. It is also important that SBI conglomerate is leveraging One SBI v…”
-- *May 2026* (forward) — “…ng year and despite of that, over 25,000 crores in this type of environment is really wonderful , and a couple of important points. Now everybody is looking at value unlocking, and we have over 10% in National Stock Exchange. SEBI chairman has said it should get listed soon. So, what's the thought process on value unlocking? I see pa…”
-- *May 2026* (forward) — “…ooking at value unlocking, and we have over 10% in National Stock Exchange. SEBI chairman has said it should get listed soon. So, what's the thought process on value unlocking? I see page number 55 which talks about total reserve and surplus INR 5,95,000 crores. Now we'll get valua tion, fair market valuation on the balance sheet. Ap…”
-- *May 2026* (forward) — “…e results better than expected because I have been present and looking at the transcript, saw it as a knee jerk reaction but with your clarification and lot of value unlocking hopefully your direction towards that should help in creating greater value year to year. All the best to the board and the team. Mr. C.S. Setty – Chairman, St…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-11-01 | Earnings call Nov 2025 | …we definitely would be looking at, as I mentioned several times, SBI AMC and SBI General are right candidates for listing in our stable. It also provides some  | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad15487a-d1a9-4e33-90e9-624255749750.pdf) |
-| 2026-03-19 | General Updates | State Bank of India has informed the Exchange about Updates on Sale of Stake in SBI Funds Management Limited through IPO | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_19032026213213_BSE_NSE_SBIMF_DRHP1_19032026.pdf) |
-| 2026-05-01 | Earnings call May 2026 | …ng year and despite of that, over 25,000 crores in this type of environment is really wonderful , and a couple of important points. Now everybody is looking at | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf) |
-| 2026-05-01 | Earnings call May 2026 | …ooking at value unlocking, and we have over 10% in National Stock Exchange. SEBI chairman has said it should get listed soon. So, what's the thought process on | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf) |
-| 2026-05-01 | Earnings call May 2026 | …e results better than expected because I have been present and looking at the transcript, saw it as a knee jerk reaction but with your clarification and lot of | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf) |
-| 2026-07-08 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_08072026202646_BSE_NSE_SBIFML_08072026.pdf) |
-| 2026-07-08 | General Updates | State Bank Of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_08072026235933_BSE_NSE_SBIMF2.pdf) |
-| 2026-07-09 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_09072026230311_merged.pdf) |
-| 2026-07-10 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_10072026222453_BSE_NSE_10072026.pdf) |
-| 2026-07-11 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_11072026192423_BSE_NSE_RHP_11072026.pdf) |
-| 2026-07-16 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_16072026225141_BSE_NSE_SBIFunds_16072026.pdf) |
-| 2026-07-17 | General Updates | State Bank of India has informed the Exchange about Update on IPO of SBI Funds Management Limited | [pdf](https://nsearchives.nseindia.com/corporate/SBIN_17072026102320_BSE_NSE_SBIFunds_17072026.pdf) |
-
-</details>
-
-## KPIL — Kalpataru Projects International Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.7/10 · partial spin-off / listing · 7 filing(s) from NSE · first 2024-10-09, latest 2026-10-24
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-10-09; date not fixed — On 09 September 2026: "the Listing on Nasdaq Stockholm is expected to be completed by the end of September 2026"; on 16 September 2026: "The first day of trading on Nasdaq Stockholm is expected to commence on 25 September 2026"; filing of 25 September 2026 confirms admission for trading "effective today, 25th September, 2026".
-
-**Stated in the filings:** size hint: 0.43% of net worth.
-
-**What is being separated, as the documents put it:** Linjemontage (LMG), Swedish pure-play EPC provider within power infrastructure — substations and transmission/distribution networks in Sweden and Norway — class `value_unlocking`.
-
-- *Insiders:* KPTS (KPIL wholly owned) holds 66.45% post green-shoe, down from 96.12%; identified LMG employees/directors bought 3.45% at SEK 5,190.48 plus 0.45% options; 360-day lock-up on Kalpataru Sweden, board, management.
-- *What it reveals:* A high-return business inside an EPC parent: FY25/26 net sales SEK 3,225m (~11.14% of KPIL revenue) but only ~4.5% of net worth, adjusted EBITA 7.6%, R.O.C.E. 48.1%, net cash SEK 172.1m, IPO valuation SEK 2,356,557,000 (~INR 2,324 crores).
-- *Selling pressure:* unlikely — Offer for sale to Swedish public, institutions and cornerstone investors; 360-day lock-up on Kalpataru Sweden, board and management; stabilisation support at SEK 46.
-- *Parent or spin:* parent · *option pricing date:* 05th August, 2025 (exercise price SEK 5,190.48 per share set on grant; options vest on or before 30th June 2026; consideration in tranches on or before 30th March, 2027)
-- *Read next:* LMG's prospectus on www.linjemontage.com — full terms, Q1 FY26/27 figures and Selling Shareholder details behind the SEK 46 offer price.
-- *In their words:* “Becoming a publicly listed company will also provide greater transparency and a platform for long-term value creation, while diversifying the shareholder base.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…ure. Becoming a publicly listed company will also provide greater transparency and a platform for long -term value creation, while 1 Engineering, procurement and construction 2 Includes members of management, the Board of Director…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders — “…ure. Becoming a publicly listed company will also provide greater transparency and a platform for long -term value creation, while 1 Engineering, procurement and construction 2 Includes members of management, the Board ” |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 0.43% of net worth |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …anches, on or before, 30 th March, 2027. Further, the exercise price of the stock options granted is SEK 5,190.48 per share with a quota value of SEK 1 (post-split) and the subscription price will be received based on the vesting of the options. e. Brief details of bu… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 3,543 cr (Mar 2026) = 0.16× market cap; P/E 21.4 on Mar 2026 profit vs industry median 25.2 (12 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 768 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-10-09 | Diversification/Disinvestment | Kalpataru Projects International Limited has informed the Exchange about Diversification/Disinvestment | [pdf](https://nsearchives.nseindia.in/corporate/KPIL_09102024102044_DisclosureSEVEPL092024.pdf) |
-| 2025-08-05 | Sale or disposal | Kalpataru Projects International Limited has informed the Exchange about Sale or disposal | [pdf](https://nsearchives.nseindia.in/corporate/KALPATPOWER_05082025211605_ESOPSharesaleSEDisclosure05082025.pdf) |
-| 2026-01-16 | Diversification/Disinvestment | Kalpataru Projects International Limited has informed the Exchange about Diversification/Disinvestment | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_16012026195629_DisclosureSEVEPL16012026.pdf) |
-| 2026-09-09 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing O | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_09092026113613_SEIntimationReg30LMG092026_892026.pdf) |
-| 2026-09-16 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage I Grastorp AB, a (96.12%) firs | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_16092026165446_SEIntimationReg30LMG16092026mergedFINAL.pdf) |
-| 2026-09-25 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage i Grästorp AB, a first level s | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_25092026085505_KPILSEIntimation25092026.pdf) |
-| 2026-10-24 | General Updates | Kalpataru Projects International Limited has informed the Exchange about Initial public offering of equity shares of Linjemontage i Grastorp AB, a first level s | [pdf](https://nsearchives.nseindia.com/corporate/KALPATPOWR_24102026134331_SEIntimationLMG24102026.pdf) |
-
-</details>
-
-## JSWSTEEL — JSW Steel Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.6/10 · partial spin-off / listing · 9 filing(s) from NSE · first 2024-10-04, latest 2026-10-17
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-10-04; date not fixed — "Completion date of the proposed IPO is not available as on date." (stated July 17, 2026)
-
-**The stages, as filed:** nclt_sanction (2024-10-04)
-
-**What is being separated, as the documents put it:** JSW One Platforms Limited, the group's online platform business, partly sold via IPO offer for sale — class `not stated`.
-
-- *Insiders:* JSW Steel holds about 61% equity stake in JOPL on a fully diluted basis and sells shares aggregating up to Rs 811 crores as Promoter Selling Shareholder.
-- *What it reveals:* JOPL is immaterial to the parent: FY26 share of loss Rs 90 crores (0.35% of consolidated PAT), net worth impact Rs 68 crores (0.06%), yet it turned profitable in Q4 FY26 with GMV Rs 6,200 crores, up 57% YoY.
-- *Selling pressure:* unlikely — IPO offer for sale, not a distribution to parent shareholders; no index exclusion stated; JOPL is 0.06% of parent net worth.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* JSW One Platforms' IPO offer document for its standalone financials, offer size split and price band.
-- *In their words:* “The price and other details of the proposed IPO will be determined in due course by the competent body, in compliance with applicable law including the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018, as amended.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…ties between the two steel producers. An association with POSCO Co., Ltd will enable the Company to form a strategic partnership for access to technology and manufacturing of high-grade steel products for automotive and other appli…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…ties between the two steel producers. An association with POSCO Co., Ltd will enable the Company to form a strategic partnership for access to technology and manufacturing of high-grade steel products for automotive and” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 99,310 cr (Mar 2026) = 0.32× market cap; P/E 12.2 on Mar 2026 profit vs industry median 19.4 (16 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 773 days since the first filing, stage nclt_sanction |
-| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…at Rs.19,243 crores. It is important to note that there was an exceptional gai n of Rs.17,888 crores in Quarter 4. This incl udes a gain of Rs.18,051 crores on slump sale of BPSL steel undertaking and Rs.163 crores exce” |
-
-**On the calls (last 12 months):**
-
-- *May 2026* (backward) — “…at Rs.19,243 crores. It is important to note that there was an exceptional gai n of Rs.17,888 crores in Quarter 4. This incl udes a gain of Rs.18,051 crores on slump sale of BPSL steel undertaking and Rs.163 crores exceptional charge on implementation of new labor code. The normali sed PAT, excluding exceptionals for the quarter…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-10-04 | Amalgamation/Merger | Filing of the Orders of the National Company Law Tribunal, Mumbai Bench sanctioning the Scheme of Amalgamation of National Steel and Agro Industries Limited ( N | [pdf](https://nsearchives.nseindia.in/corporate/JSWSTEEL_04102024224459_NationalNCLTorder.pdf) |
-| 2025-10-17 | Scheme of Arrangement | JSW Steel Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.in/corporate/Supriya_17102025145406_Merger.pdf) |
-| 2026-04-17 | Arrangements for strategic, technical, m | JSW Steel Limited has informed the Exchange about Joint Venture Agreement between JSW Steel Limited and POSCO Group through which Saffron Resources Private Limi | [pdf](https://nsearchives.nseindia.com/corporate/Supriya_17042026135142_Stock_Exchange_Intimation.pdf) |
-| 2026-04-17 | Sale or disposal | JSW Steel Limited has informed the Exchange about Sale or disposal - Joint Venture Agreement between JSW Steel Limited and POSCO Group through whichSaffron Reso | [pdf](https://nsearchives.nseindia.com/corporate/Supriya_17042026135325_Stock_Exchange_Intimation.pdf) |
-| 2026-05-14 | Scheme of Arrangement | JSW Steel Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/Snigdha_14052026153825_Scheme.pdf) |
-| 2026-07-03 | Amalgamation/Merger | Receipt of final order issued by Hon ble National Company Law Tribunal in respect of Scheme of Amalgamation of ARCL and MCL and JRDL with JSW Steel Limited. | [pdf](https://nsearchives.nseindia.com/corporate/jessydenny_03072026104440_Merger_approval.pdf) |
-| 2026-07-17 | Disclosure of material issue | The Board has approved participation in the Company in the proposed initial public offering of JSW One Platforms Limited as a Promoter Selling Shareholder by of | [pdf](https://nsearchives.nseindia.com/corporate/jessydenny_17072026144838_Offering_for_Sale.pdf) |
-| 2026-08-01 | General Updates | Effectiveness of the Scheme of Amalgamation of Amba River Coke Limited and Monnet Cement Limited and JSW Retail and Distribution Limited with JSW Steel Limited  | [pdf](https://nsearchives.nseindia.com/corporate/jessydenny_01082026141540_SE_Intimation_merger.pdf) |
-| 2026-10-17 | Amalgamation/Merger | JSW Steel Limited has informed the Exchange about Order ofHon ble National Company Law Tribunal sanctioning the Scheme of Amalgamation of Piombino Steel Limited | [pdf](https://nsearchives.nseindia.com/corporate/DivyaMascarenhas_17102026105940_JSWSLSEIntimationforOrdersanctioningPSLMergerOct2026.pdf) |
-
-</details>
-
-## AEGISLOG — Aegis Logistics Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · partial spin-off / listing · 9 filing(s) from NSE · first 2024-10-28, latest 2026-08-07
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-10-28; date not fixed — Equity shares of AVTL were listed on BSE Ltd. and NSE on June 02, 2025 (stated in the BRSR filed July 21, 2025); the Chairman on August 07, 2026 said listing was "with effect from June 2, 2025" raising INR 2,800 crore
-
-**The stages, as filed:** meetings (2024-12-11)
-
-**Stated in the filings:** size hint: 0.65% of turnover.
-
-**What is being separated, as the documents put it:** Aegis Vopak Terminals Limited, the group's storage and terminalling subsidiary, separately listed via its own IPO — class `value_unlocking`.
-
-- *Insiders:* Parent keeps management control and consolidates AVTL though holding falls below 50%; AVTL allotted 10,63,830 shares at INR 225 premium to Mr. Sudhir Malhotra, parent's CEO
-- *What it reveals:* Parent retains control and consolidation while banking cash: INR 5,939 crores cash, debt/equity 0.04, no net debt; it builds terminals and sells them to AVTL at roughly 25% margin (INR 428.4, 671.3 and 525 crores BTAs)
-- *Selling pressure:* unlikely — IPO was a fresh issue to new investors; no AVTL shares were distributed to parent shareholders, so no forced selling
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* AVTL's Prospectus dated May 28, 2025, and the ~25% infrastructure-development margin Aegis books on terminal transfers
-- *In their words:* “Pursuant to the aforesaid Issue, AVTL will ceases to be subsidiary of the Company resulting in the dilution of the Company's shareholding in the Material Subsidiary to less than fifty percent (50%).”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…and provide an annual declaration of their compliance. The Code covers all aspects of functioning, including anti-trust behaviour, information security, insider trading rules, professional engagements, use of Company assets and…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…and provide an annual declaration of their compliance. The Code covers all aspects of functioning, including anti-trust behaviour, information security, insider trading rules, professional engagements, use of Company as” |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 0.65% of turnover |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 4,150 cr (Mar 2026) = 0.09× market cap; P/E 40.6 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 749 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-10-28 | Updates | Aegis Logistics Limited has informed the Exchange regarding 'Disclosure pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of | [pdf](https://nsearchives.nseindia.in/corporate/AEGISLOG_28102024172418_ALL_IPO_SIGNED.pdf) |
-| 2024-11-19 | General Updates | Aegis Logistics Limited has informed the Exchange about General Updates- Filing ofDraft Red Herring Prospectus (DRHP) in relation to the Proposed initial public | [pdf](https://nsearchives.nseindia.in/corporate/AEGISLOG_19112024171948_ALL_Reg30_DRHP_Signed.pdf) |
-| 2024-12-11 | Shareholders meeting | Aegis Logistics Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.in/corporate/AEGISLOG_11122024183053_ALL-Postalballot_Final_S.pdf) |
-| 2025-05-20 | General Updates | Aegis Logistics Limited has informed the Exchange about Filing of Red Herring Prospectus (RHP) in relation to the Proposed initial public offering ( IPO ) of Ae | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_20052025235037_ALL_RHP_Filing_Signed.pdf) |
-| 2025-05-29 | Reasons for Delayed/Non-submission of Fi | Aegis Logistics Limited has informed the Exchange about reasons for Delayed/Non-submission of Financial Results (Standalone and Consolidated) for the quarter an | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_29052025014853_ALL_Intimation_Delay_in_Financial_Results_S.pdf) |
-| 2025-05-29 | General Updates | Aegis Logistics Limited has informed the Exchange about Filing of Prospectus in relation to the Proposed initial public offering ( IPO ) of Aegis Vopak Terminal | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_29052025233717_ALL_Prospectus_Filing_S.pdf) |
-| 2025-07-21 | General Updates | Aegis Logistics Limited has informed the Exchange regarding Business Responsibility and Sustainability Report for Financial Year 2024- 25. | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_21072025192002_ALL_BRSR_2024-25_S.pdf) |
-| 2025-08-08 | Updates | Aegis Logistics Limited has informed the Exchange regarding 'Intimation of Board of Director s comments on late Submission of Financial Results for quarter ende | [pdf](https://nsearchives.nseindia.in/corporate/AEGISCHEM_08082025172704_ALL_Board_Comments_Fine_S.pdf) |
-| 2026-08-07 | Shareholders meeting | Aegis Logistics Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on August 07, 2026 | [pdf](https://nsearchives.nseindia.com/corporate/AEGISCHEM_07082026165718_ALL_SE_69AGM_Proceedings_Signed.pdf) |
-
-</details>
-
-## BLACKBUCK — Blackbuck Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 5.0/10 · partial spin-off / listing · 5 filing(s) from NSE, NSE-deep · first 2025-03-24, latest 2026-10-12
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-03-24; date not fixed
-
-**The stages, as filed:** meetings (2026-08-25)
-
-**Stated in the filings:** size hint: 12.6% of income.
-
-**What is being separated, as the documents put it:** Loads Business Undertaking transferred as a going concern to wholly owned subsidiary BTSPL on a slump sale basis — class `regulatory_strategic`.
-
-- *Insiders:* Buyer is a wholly owned subsidiary; "Buyer does not belong to the promoter/ promoter group"; no change in the Company's shareholding pattern. Promoters sold 36 lakh parent shares on 18.11.2025.
-- *What it reveals:* Loads undertaking earned INR 887.43 Million revenue, 12.6% of standalone total income, on net worth of only INR 9.88 Million (0.07%); consideration is NAV/book value, so the growth business carries negligible book value.
-- *Selling pressure:* unlikely — No shares issued or distributed; buyer is a wholly owned subsidiary and shareholding pattern of the listed entity is unchanged.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The business transfer agreement (BTA), to be executed, for the NAV-based consideration of the Loads undertaking
-- *In their words:* “Revenue of the Transferred Business Undertaking for FY 2025-2026 is INR 887.43 Million, representing 12.6% of the Total Income of the Company on a standalone basis.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…neurial vision, industry expertise and professional management supports disciplined execution and long-term value creation. Asset-light model with no ownership of trucks or inventory Recurring revenue streams acros s key offerings…”; regulatory / strategic knot — “…lar compliance reviews Diversified Partnerships: Reduce dependency on key partners by onboarding multiple strategic partners with improved commercial terms Financial Controls: Strengthen internal financial controls and risk asses…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders; regulatory / strategic knot — “…neurial vision, industry expertise and professional management supports disciplined execution and long-term value creation. Asset-light model with no ownership of trucks or inventory Recurring revenue streams acros s ke” |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 12.6% of income |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …loyee Stock Option Scheme 2016” and “Zinka Logistics Solutions Limited Employee Stock Option Scheme 2019” to “BlackBuck Limited Employee Stock Option Scheme 2016” and “BlackBuck Limited Employee Stock Option Scheme 2019 ” respectively. EXERCISE PRICE: During FY26, ESOP options were exercised under the ESOP 2016 and ESOP 2019 at… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 602 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-03-24 | General Updates | Zinka Logistics Solutions Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/ZINKA2015_24032025191239_Intimation_investment_in_wos.pdf) |
-| 2025-12-15 | General Updates | BLACKBUCK LIMITED has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/ZINKA2015_15122025191251_Intimation_Right_Issue_in_Subsidiary_signed.pdf) |
-| 2026-08-25 | Shareholders meeting | BLACKBUCK LIMITED has informed the Exchange regarding Notice of Annual General Meeting to be held on September 18, 2026 | [pdf](https://nsearchives.nseindia.com/corporate/ZINKA2015_25082026222544_Intimation_AGM_notice_and_Annual_Report.pdf) |
-| 2026-10-12 | Outcome of Board Meeting | Outcome of Board Meeting held on October 12 , 2026 in terms of Regulation 30 of the Securities and Exchange Board of | [pdf](https://nsearchives.nseindia.com/corporate/ZINKA2015_12102026155433_Announcement_under_Regulation_30.pdf) |
-| 2026-10-12 | Outcome of Board Meeting | BLACKBUCK LIMITED has informed the Exchange regarding Outcome of Board Meeting held on October 12, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/ZINKA2015_12102026155433_Announcement_under_Regulation_30.pdf) |
-
-</details>
-
-## ICICIBANK — ICICI Bank Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **LISTED 1–2Y — the second-year window** · score 5.0/10 · partial spin-off / listing · 18 filing(s) from NSE · first 2024-04-28, latest 2025-12-19
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-04-28; date not fixed — In the Annual Securities Report filed September 18, 2026: 'Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.' Earlier, 'In February 2025, the Bank's joint venture partner, PCHL, made an announcement regarding a potential listing and partial divestment of its stake'.
-
-**The stages, as filed:** record_date (2025-06-27)
-
-**What is being separated, as the documents put it:** The asset management business: ICICI Prudential Asset Management Company Limited, listed via partner PCHL's partial stake divestment — class `not stated`.
-
-- *Insiders:* Bank held 53.0% and PCHL 34.6% at March 31, 2026; Bank bought 2.0% more from PCHL to keep majority shareholding if it grants stock-based compensation.
-- *What it reveals:* A listed price now exists for a fast-growing fee business the Bank still consolidates: ICICI AMC net profit rose to Rs. 33.0 billion in fiscal 2026 from Rs. 26.5 billion in fiscal 2025, with the Bank retaining 53.0%.
-- *Selling pressure:* unlikely — No shares distributed to Bank shareholders; listing followed PCHL's partial divestment of its own stake, Bank retains 53.0%.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* ICICI AMC's fiscal 2026 profit after tax of Rs. 33.0 billion against the Bank's 53.0% retained stake and its listed market value.
-- *In their words:* “Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…e Company. e. Brief details of any governmental or regulatory approvals required for the acquisition RBI approval is required f. Indicative time period for completion of the acquisition The Bank will purchase additional sharehold…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…e Company. e. Brief details of any governmental or regulatory approvals required for the acquisition RBI approval is required f. Indicative time period for completion of the acquisition The Bank will purchase additional” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 17.8 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | yes | 507 days since listing/record date; second year since listing — where the notes found the largest gains |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-04-28 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under Reguation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_28042024165216_NSEBSE_28042024.pdf) |
-| 2024-06-06 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Di | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_06062024163938_NSEBSE_SEBI_Letter.pdf) |
-| 2024-08-22 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'. | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_22082024171542_NSEBSE.pdf) |
-| 2024-09-13 | Updates | ICICI Bank Limited has informed the Exchange regarding 'Disclosure under the SEBI (Listing Obligations and Disclosure Requirements)Regulations, 2015'. | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_13092024185450_NSEBSE.pdf) |
-| 2024-11-30 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK_30112024154048_NSEBSE.pdf) |
-| 2025-03-10 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICIBANK11_10032025193655_NSEBSE.pdf) |
-| 2025-03-11 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_11032025170841_NSEBSE_11032025.pdf) |
-| 2025-03-24 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_24032025201734_NSEBSE_24032025.pdf) |
-| 2025-03-26 | Committee Meeting Updates | ICICI Bank Limited has informed the Exchange regarding Outcome of Committee Meeting held on March 26, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_26032025093431_NSEBSE.pdf) |
-| 2025-06-27 | Outcome of Board Meeting | ICICI Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on June 27, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025120055_NSEBSE_27062025.pdf) |
-| 2025-06-27 | Record Date | ICICI Bank Limited has informed the Exchange that Record date for the purpose of Dividend is 12-Aug-2025. | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025120445_NSEBSE_27062025.pdf) |
-| 2025-06-27 | General Updates | ICICI Bank Limited has informed the Exchange about Appointment of Secretarial Auditor | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025120913_NSEBSE_27062025.pdf) |
-| 2025-06-27 | General Updates | ICICI Bank Limited has informed the Exchange that the Board of Directors of the Bank at its meeting held today, approved acquisition of additional stake in ICIC | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025121537_NSEBSE_27062025.pdf) |
-| 2025-07-09 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.in/corporate/ICICI2022_09072025010827_NSEBSE_09072025.pdf) |
-| 2025-12-06 | General Updates | ICICI Bank Limited has informed the Exchange about Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_06122025141444_NSEBSE_PriceBand.pdf) |
-| 2025-12-09 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_09122025221929_NSEBSE_09122025.pdf) |
-| 2025-12-17 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_17122025105720_NSEBSE_17122025.pdf) |
-| 2025-12-19 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_19122025113528_NSEBSE_19122025.pdf) |
-
-</details>
-
-## NTPC — NTPC Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.4/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2024-09-19, latest 2024-09-19
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-09-19; date not fixed — Per the 19.09.2024 filing, NGEL filed its DRHP dated 18th September 2024 for a 'proposed initial public offer (IPO) of equity shares, subject to receipt of requisite approvals, market conditions and other considerations'; no listing date stated. Later calls (Nov 2025-Aug 2026) report NGEL results filed separately with the exchanges and NGEL NCD issuance.
-
-**What is being separated, as the documents put it:** NTPC Green Energy Limited, NTPC's renewable energy subsidiary, being separately listed through an initial public offer — class `not stated`.
-
-- *Insiders:* NTPC Limited holds 100.00% of NGEL; IPO reserves subscription for eligible NTPC shareholders and employees of NTPC and NGEL subsidiaries; NTPC's Director (Finance) serves both companies.
-- *What it reveals:* Separation shows a fast-growing renewable arm: FY26 revenue Rs.2,858 crore (+29%), operating EBITDA margin 87%, generation 14.6 BU versus 6.8 BU, 12,068 MW installed, targeting 60 GW by FY32 within a cost-plus thermal parent.
-- *Selling pressure:* unlikely — IPO is a fresh issue of shares subscribed by investors, not a distribution of shares to NTPC's existing holders.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* NGEL's draft red herring prospectus dated 18th September 2024 — use of the Rs.100,000 million fresh issue proceeds.
-- *In their words:* “NGEL is proposing to undertake an IPO of its equity shares of face value of Rs.10/- each (Equity Shares), comprising a fresh issue of Equity Shares aggregating up to Rs. 100,000.00 million.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 271,005 cr (Mar 2026) = 0.80× market cap; P/E 12.2 on Mar 2026 profit vs industry median 31.1 (15 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 788 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…s, Mauritius. Some of the other key developments include business transfer agreement for transfer of coal mines from NTPC to NTPC Mining Limited was signed for hiving off coal mining business at an estimated value of ■1” |
-
-**On the calls (last 12 months):**
-
-- *Nov 2025* (backward) — “…s, Mauritius. Some of the other key developments include business transfer agreement for transfer of coal mines from NTPC to NTPC Mining Limited was signed for hiving off coal mining business at an estimated value of ■10,503 crore and Chatti Bariatu and Badam mines have been transferred. We expect to complete transfer of all the…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-09-19 | Updates | Disclosure under Regulation 30 of Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, NTPC Green Energy Limi | [pdf](https://nsearchives.nseindia.in/corporate/NTPC_19092024120246_NTPCDRHPJSA.pdf) |
-
-</details>
-
-## PREMIERENE — Premier Energies Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.4/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2026-08-06, latest 2026-08-06
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-08-06; date not fixed
-
-**What is being separated, as the documents put it:** not stated — the documents disclose no demerger, spin-off or subsidiary listing — class `not stated`.
-
-- *Insiders:* Chiranjeev Singh Saluja (MD, Promoter) holds 25,96,12,382 shares (57.31%); Surenderpal Singh Saluja 1,500 shares (0.00%); Sudhir Moola 1,35,41,459 shares (2.98%) — all in Premier Energies Limited, not a new entity
-- *What it reveals:* No separation disclosed; instead the Transcon Ind Limited acquisition (51%, effective April 3, 2026) created a new reportable segment, Power Transmission & Distribution Equipment, with Q1 FY27 revenue of ₹1,064.68 million and segment result ₹240.79 million
-- *Selling pressure:* unclear — No demerger, record date, share-entitlement ratio or index treatment is mentioned anywhere in the documents
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Annual Report FY2025-26 and any Regulation 37A / Scheme of Arrangement filing, to confirm no separation exists
-- *In their words:* “Consequently, Transcon Ind Limited has become a subsidiary of the Company with effect from April 3, 2026.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 3,707 cr (Mar 2026) = 0.08× market cap; P/E 30.7 on Mar 2026 profit vs industry median 48.1 (59 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 102 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…anjeev Saluja: Yes. So, that is, I think, yes, I understand now, Mohit. You are talking about the partnership firm which Transcon was running, which was in the slump sale was done to Transcon Unlimited, and there is no ” |
-
-**On the calls (last 12 months):**
-
-- *Nov 2025* (backward) — “…anjeev Saluja: Yes. So, that is, I think, yes, I understand now, Mohit. You are talking about the partnership firm which Transcon was running, which was in the slump sale was done to Transcon Unlimited, and there is no connection with those companies anymore. They do come under related party, but if any related party transaction…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-08-06 | Outcome of Board Meeting | Premier Energies Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/PEL2024_06082026171835_SE_Intimation_Outcome_of_BM_signed.pdf) |
-| 2026-08-06 | Outcome of Board Meeting | Premier Energies Limited has informed the Exchange regarding Outcome of Board Meeting held on August 06, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/PEL2024_06082026172521_SE_Intimation_Outcome_of_BM_signed.pdf) |
-
-</details>
-
-## SAATVIKGL — Saatvik Green Energy Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.4/10 · partial spin-off / listing · 3 filing(s) from CALLS, NSE · first 2026-02-04, latest 2026-02-04
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-02-04; date not fixed
-
-**What is being separated, as the documents put it:** not stated — documents describe only a rights-issue investment into a wholly owned subsidiary, no separation — class `not stated`.
-
-- *Insiders:* not stated for a new entity; filing says there will be no change in the Company's shareholding in SSIPL, which continues as a wholly owned subsidiary.
-- *What it reveals:* SSIPL turnover jumped from ₹35.95 mn (FY24) to ₹11,852.52 mn (FY25), carries a 15% preferred tax rate versus 25% at the parent, and houses the 4 GW Odisha module plus cell capacity driving DCR margins.
-- *Selling pressure:* unlikely — No share distribution or separate listing contemplated; SSIPL remains 100% held, so no index exclusion or forced selling.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Prospectus dated September 23, 2025 — IPO objects and SSIPL's standalone financials and funding schedule.
-- *In their words:* “Yes, that's what in the earlier answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…urav: Fair enough. Prashant Mathur: Yes, that's what in the earlier answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin. And so the value unl…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders — “…urav: Fair enough. Prashant Mathur: Yes, that's what in the earlier answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin. And ” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 285 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 2 mention(s) in the last 12 months of calls — “…r answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin. And so the value unlocking from cell manufacturing and DCR is going to” |
-
-**On the calls (last 12 months):**
-
-- *Feb 2026* (forward) — “…it's maybe around 3% -4% of our monthly sales. Gaurav: Fair enough. Prashant Mathur: Yes, that's what in the earlier answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin. And so the value unlocking from cell manufacturing and DCR is going to…”
-- *Feb 2026* (forward) — “…r answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin. And so the value unlocking from cell manufacturing and DCR is going to come in the year next year. Gaurav: Fair enough. Just last question sir, what is the capex that we are planning for…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-02-01 | Earnings call Feb 2026 | …it's maybe around 3% -4% of our monthly sales. Gaurav: Fair enough. Prashant Mathur: Yes, that's what in the earlier answer I was saying that with Saatvik the  | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=96e61630-6cb7-4fcd-b518-35c31125a0aa.pdf) |
-| 2026-02-01 | Earnings call Feb 2026 | …r answer I was saying that with Saatvik the value unlocking is around the corner and that is because since our cell manufacturing is about to begin. And so the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=96e61630-6cb7-4fcd-b518-35c31125a0aa.pdf) |
-| 2026-02-04 | Acquisition | Saatvik Green Energy Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.com/corporate/SAATVIK_04022026204802_Intimation_of_Acquisition_signed_-.pdf) |
-
-</details>
-
-## TRAVELFOOD — Travel Food Services Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.4/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-08-13, latest 2026-08-13
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-08-13; date not fixed
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* not stated
-- *What it reveals:* not stated
-- *Selling pressure:* unclear — Documents describe no separation, demerger or new listing, so no size or index effect is stated.
-- *Parent or spin:* neither · *option pricing date:* not stated
-- *Read next:* Outcome of the open Delhi T3 tender; its licence expires 30 September 2026 and the 60% SPV's fate is undecided.
-- *In their words:* “Travel Food Services (Delhi Terminal 3) Private Limited ("Delhi T3" or "the Subsidiary"), a material subsidiary of the Company in which the Company holds a 60% equity interest, was awarded a licence agreement for a period of ten years with effect from 6 February 2010.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 245 cr (Mar 2026) = 0.01× market cap; P/E 38.0 on Mar 2026 profit vs industry median 54.1 (17 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 95 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…nded to 83.9% compared to 82.1% in the same period last year. This margin expansion was supported by efficient procurement practices, lower cost inflation, and value unlock of our lounge aggregation business, which toge” |
-
-**On the calls (last 12 months):**
-
-- *Feb 2026* (backward) — “…nded to 83.9% compared to 82.1% in the same period last year. This margin expansion was supported by efficient procurement practices, lower cost inflation, and value unlock of our lounge aggregation business, which together contributed to the improvement in gross profitability. We have continued to manage our employe e cost effici…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-08-13 | Outcome of Board Meeting | Travel Food Services Limited has submitted to the Exchange, the Un-audited Financial Results for the quarter ended June 30, 2026 | [pdf](https://nsearchives.nseindia.com/corporate/TRAVELFOOD_13082026180405_TFSLoutcomeofBM13082026N.pdf) |
-
-</details>
-
-## BHEL — Bharat Heavy Electricals Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2024-07-31, latest 2024-08-01
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-07-31; date not fixed
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* No demerged entity named; documents state BHEL holds 49% and Coal India Limited 51% of JV BCGCL, equity invested at face value by both Promoter Companies at arm's length.
-- *What it reveals:* Documents disclose no separation or subsidiary listing. They cover a 49% JV (BCGCL, turnover Nil, Rs. 3064.46 Crore equity over four years), a proposed Titagarh JV, and internal plant mergers (HEEP/CFFP, HPEP/PE&SD) effective 1 April 2026.
-- *Selling pressure:* unclear — No separation, share entitlement ratio, size or index treatment stated anywhere in the documents.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Board/NCLT scheme or Reg. 30 filing naming the demerged undertaking and share entitlement ratio; also DIPAM clearance for Titagarh JV.
-- *In their words:* “BCGCL is a Joint Venture Company of BHEL and Coal India Limited with equity shareholding of 49% and 51% respectively.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…greement with Bhabha Atomic Research Centre (BARC) –50kW alkaline electrolyser system forHydrogen production ▪Strategic Partnership Agreement with M/s HIMA Middle East FZE*, Dubai forRailway signaling business Technology Transfer Agreeme…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…greement with Bhabha Atomic Research Centre (BARC) –50kW alkaline electrolyser system forHydrogen production ▪Strategic Partnership Agreement with M/s HIMA Middle East FZE*, Dubai forRailway signaling business Technolog” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 8,187 cr (Mar 2026) = 0.06× market cap; P/E 88.6 on Mar 2026 profit vs industry median 47.9 (59 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 838 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-07-31 | Updates | Bharat Heavy Electricals Limited has informed the Exchange regarding 'BHEL Q1 FY25 Supplementary Information'. | [pdf](https://nsearchives.nseindia.in/corporate/BHEL_31072024171158_BHELInformation.pdf) |
-| 2024-08-01 | Updates | Bharat Heavy Electricals Limited has informed the Exchange regarding 'BHEL Q1 FY25 Supplementary Information UPDATED'. | [pdf](https://nsearchives.nseindia.in/corporate/BHEL_01082024173958_BHELINFORMATION.pdf) |
-
-</details>
-
-## BLS — BLS International Services Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2024-05-14, latest 2025-11-11
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-14; date not fixed — Already listed before the first filing: press release dated May 14, 2024 says "we celebrated the successful IPO of our subsidiary, BLS E-Services Limited" during FY2023-24.
-
-**Stated in the filings:** size hint: 10.6% of ebitda.
-
-**What is being separated, as the documents put it:** BLS E-Services Limited, the group's digital services subsidiary (BC banking, loan distribution, e-governance), listed via IPO — class `value_unlocking`.
-
-- *Insiders:* not stated
-- *What it reveals:* Parent keeps the high-margin Visa & Consular business (FY26 EBITDA margin 40.1%, Rs 738 cr) plus Rs 1,434 cr net cash, while Digital earns only Rs 81 cr EBITDA on Rs 1,158 cr revenue (7-8% margin, Aadifidelis 3-5%).
-- *Selling pressure:* unlikely — Listed by fresh-capital IPO, not distributed to parent shareholders; documents state no change in listed entity's shareholding.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* BLS E-Services standalone results and Digital segment EBITDA margin trend (7-8% vs Visa 40%).
-- *In their words:* “Additionally, we celebrated the successful IPO of our subsidiary, BLS E-Services Limited., raising over Rs. 300 Crore to fuel its continued growth and expansion.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 10.6% of ebitda |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 431 cr (Mar 2026) = 0.04× market cap; P/E 13.6 on Mar 2026 profit vs industry median 54.1 (17 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 916 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-14 | Press Release | BLS International Services Limited has informed the Exchange regarding a press release dated May 14, 2024, titled "Press Release with respect to Audited Consoli | [pdf](https://nsearchives.nseindia.in/corporate/BLS_14052024164124_Intimation_Press_release.pdf) |
-| 2025-11-11 | Sale or disposal | BLS International Services Limited has informed the Exchange about closure/ strike off of Reired BLS International Services Private Limited (Wholly owned Subsid | [pdf](https://nsearchives.nseindia.com/corporate/BLS_11112025225534_Intimation_of_Strikeoff.pdf) |
-
-</details>
-
-## BRIGADE — Brigade Enterprises Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 5 filing(s) from NSE · first 2024-05-10, latest 2025-09-26
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-10; date not fixed — Allotment of 84,412,565 equity shares on July 29, 2025 (filing dated July 30, 2025); "Shares were listed on the Stock Exchanges with effect from 31st July, 2025 under the ticker BRIGHOTEL" (press release August 13, 2025)
-
-**Stated in the filings:** size hint: 8% of net worth.
-
-**What is being separated, as the documents put it:** Brigade's hospitality business — running and operating hotels in India — held in subsidiary Brigade Hotel Ventures Limited — class `not stated`.
-
-- *Insiders:* BEL's stake diluted from 95.26% to 74.09% through the fresh issue (no shares sold by BEL); "No promoter/ promoter group/group companies have participated in the initial public offering." Management incentives in BHVL not stated.
-- *What it reveals:* Hotels contributed only 8% of BEL's consolidated turnover (Rs. 40,122 lakhs) with negative net worth of Rs. (20,210) lakhs, yet FY26 hospitality revenue was INR604 crores, EBITDA INR207 crores, with 1,700 keys across 9 hotels being built.
-- *Selling pressure:* unlikely — Fresh issue to bidders who chose to buy; no BHVL shares were distributed to BEL shareholders, so no forced-seller base created.
-- *Parent or spin:* parent · *option pricing date:* July 14, 2026 — relevant date for pricing promoter-group warrants at Rs. 526 (issue withdrawn July 17, 2026); BHVL option pricing not stated
-- *Read next:* BHVL prospectus dated July 28, 2025 — IPO objects and BHVL's negative net worth of Rs. (20,210) lakhs
-- *In their words:* “Shares were listed on the Stock Exchanges with effect from 31st July, 2025 under the ticker BRIGHOTEL.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 8% of net worth |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 6,344 cr (Mar 2026) = 0.34× market cap; P/E 26.1 on Mar 2026 profit vs industry median 40.0 (8 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 920 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-10 | Updates | Brigade Enterprises Limited has informed the Exchange regarding 'Disclosure under Regulation 30 od SEBI (LODR) Regulations, 2015'. | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_10052024182316_IntimationtoSE10052024.pdf) |
-| 2024-11-13 | Press Release | Brigade Enterprises Limited has informed the Exchange regarding a press release dated November 13, 2024, titled "Brigade Group s Q2 FY25 Real Estate Sales stand | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_13112024184902_PressRelease13112024.pdf) |
-| 2025-07-30 | General Updates | Brigade Enterprises Limited has informed the Exchange regarding Initial Public Offering (IPO) by Brigade Hotel Ventures Limited (BHVL), Subsidiary Company | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_30072025231913_IntimationReg30AllomentofsharesbyBHVL.pdf) |
-| 2025-08-13 | Press Release | Brigade Enterprises Limited has informed the Exchange regarding a press release dated August 13, 2025, titled " Brigade Group Reports Revenue Growth of 20%, PAT | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_13082025175901_PressReleaseQ12026.pdf) |
-| 2025-09-26 | General Updates | Brigade Enterprises Limited has informed the Exchange about Intimation under Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulati | [pdf](https://nsearchives.nseindia.in/corporate/BRIGADE_26092025192837_Intimation30saleofland.pdf) |
-
-</details>
-
-## EMMVEE — Emmvee Photovoltaic Power Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2025-12-02, latest 2025-12-02
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-12-02; date not fixed — No demerged entity stated; the Company itself: "The equity shares of the Company were listed on the National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) on November 18, 2025" (said December 2, 2025)
-
-**The stages, as filed:** meetings (2025-12-02)
-
-**What is being separated, as the documents put it:** Nothing; documents disclose no demerger or spin-off, only ESOS 2025 ratification by postal ballot — class `not stated`.
-
-- *Insiders:* Promoters and promoter group employees, and directors holding over 10% of equity, are excluded from ESOS 2025; no director/KMP interest beyond shareholding or options grantable.
-- *What it reveals:* not stated
-- *Selling pressure:* unclear — No separation disclosed; only potential dilution of 35,00,000 equity shares of Rs.2 face value under ESOS 2025.
-- *Parent or spin:* neither · *option pricing date:* not stated
-- *Read next:* ESOS 2025 scheme document and postal ballot results due on or before Monday, January 05, 2026
-- *In their words:* “The equity shares of the Company were listed on the National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) on November 18, 2025.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …ssue, or reissue not exceeding 35,00,000 (Thirty Five Lakhs) Options under ESOS 2025 , exercisable into 35,00,000 (Thirty Five Lakhs) equity shares of face value of R s.2/- each of the Company, at such price, in one or more tranches, from time to time, to the eligible employees of the… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 360 cr (Mar 2026) = 0.02× market cap; P/E 20.3 on Mar 2026 profit vs industry median 48.1 (59 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 349 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-12-02 | Shareholders meeting | Emmvee Photovoltaic Power Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.com/corporate/EMMVEE_02122025180020_EPPL_Postal_Ballot.pdf) |
-
-</details>
-
-## ENTERO — Entero Healthcare Solutions Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2024-08-02, latest 2024-08-06
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-08-02; date not fixed
-
-**The stages, as filed:** meetings (2024-08-02)
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* not stated; documents say only that promoter/promoter group has no interest in acquired entities, and ESOP 2023 options/shares go to eligible employees of the Company
-- *What it reveals:* not stated
-- *Selling pressure:* unclear — No separation, new listing, size, index exclusion or industry change is stated in the documents
-- *Parent or spin:* neither · *option pricing date:* May 25, 2026 (grant of 7,300 options at exercise price INR 804; allotment of 7,240 shares at Rs. 804 per equity share)
-- *Read next:* Notice of the 8th AGM and FY26 Annual Report, to be submitted in due course, for ESOP 2023 pricing and structure resolutions
-- *In their words:* “On the Scheme becoming effective, the Transferor Companies shall stand dissolved without being wound -up or without any further act, instrument or deed as provided in Section 233(8) of the Act.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…in case of Shares held in dematerialised form and RTA/Company, in case of Shares held in physical form, as directed by SEBI. 12. UPDATION OF MANDATORY KYC DETAILS: I. Shares held in physical form: SEBI vide its Circular No. SEBI/…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…in case of Shares held in dematerialised form and RTA/Company, in case of Shares held in physical form, as directed by SEBI. 12. UPDATION OF MANDATORY KYC DETAILS: I. Shares held in physical form: SEBI vide its Circular” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …Hundred Ninety Only) equity shares of the Company, under the “Entero Employee Stock Option 2023” (“ESOP 2023” / “Plan”)” and, at such price as may be fixed or determined by the Board in accordance with the Act and oth… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 836 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-08-02 | Shareholders meeting | Entero Healthcare Solutions Limited has informed the Exchange regarding Notice of 06th Annual General Meeting to be held on August 28, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/ENTERO_02082024213756_AGMNotice.pdf) |
-| 2024-08-06 | Corrigendum | Entero Healthcare Solutions Limited has informed the Exchange regarding Corrigendum to Notice of Annual General Meeting | [pdf](https://nsearchives.nseindia.in/corporate/ENTERO_06082024142040_Corrigendumfinal.pdf) |
-
-</details>
-
-## FIRSTCRY — Brainbees Solutions Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 17 filing(s) from NSE · first 2025-02-08, latest 2026-10-07
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-02-08; date not fixed — DRHP dated July 02, 2026 filed for an IPO aggregating up to Rs. 10,000 million (Rs. 5,000 million fresh issue, Rs. 5,000 million OFS), "which shall be subject to market conditions, requisite approvals and other relevant considerations"; no listing date stated in filings up to October 7, 2026
-
-**The stages, as filed:** meetings (2026-08-29)
-
-**What is being separated, as the documents put it:** Swara Baby, contract manufacturer of disposable hygiene products (baby/adult diapers, sanitary napkins), separately listed via its own IPO — class `unrelated`.
-
-- *Insiders:* Brainbees holds 76.59%, is Promoter of Swara Baby and stays invested; operations run wholly by Mr. Alok Birla and son Mr. Udit Birla; Supam Maheshwari and Gautam Sharma are non-executive directors; Brainbees OFS up to Rs. 3,000 million
-- *What it reveals:* A profitable manufacturer buried in the parent: FY26 revenue Rs. 11,639 million, EBITDA Rs. 1,927.70 million, "largest contract manufacturer by value in Fiscal 2025" in Indian hygiene; Rs. 1,445.7 million of its EBITDA sits inside parent's India multi-channel adjusted EBITDA of ~Rs. 5,050 million
-- *Selling pressure:* unlikely — IPO with fresh issue plus parent OFS, not a share distribution to Brainbees shareholders; Swara Baby "will continue to remain as Subsidiary Company of Brainbees"
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Swara Baby DRHP dated July 02, 2026 — Risk Factor No. 2 (pages 23-24) on Brainbees revenue dependence and restated P&L on page 75
-- *In their words:* “With this expansive and global vision in contract manufacturing of disposable hygiene products with different capex and working capital needs, we decided to initiate the process of separately listing this business so that they can follow their independent journey.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: a weak or capital-heavy business carved away — “…down subsidiary (subsidiarie(s) of globalbees) has written off current assets including inventories from its non-core business amounting to Rs 278.18 million and Rs 355. 71 million during quarter and year ended March 31 2026 r…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | a weak or capital-heavy business carved away — “…down subsidiary (subsidiarie(s) of globalbees) has written off current assets including inventories from its non-core business amounting to Rs 278.18 million and Rs 355. 71 million during quarter and year ended March 31” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 1,594 cr (Mar 2026) = 0.14× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 646 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-02-08 | Outcome of Board Meeting | Brainbees Solutions Limited has informed the Exchange regarding Board meeting held on February 08, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_08022025174905_Finalsigned.pdf) |
-| 2025-02-08 | Acquisition | Brainbees Solutions Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_08022025181519_Regulation30-Acquisition.pdf) |
-| 2025-02-08 | Financial Result Updates | Brainbees Solutions Limited has submitted to the Exchange, the financial results for the period ended December 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/Finalsigned_08022025175049.pdf) |
-| 2025-08-13 | Outcome of Board Meeting | Brainbees Solutions Limited has informed the Exchange regarding Outcome of Board Meeting held on August 13, 2025 | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_13082025171648_BMOutcomeofBoardMeetingAugust132025signed.pdf) |
-| 2025-08-13 | Acquisition | Brainbees Solutions Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_13082025173803_BMOutcomeofBoardMeetingAugust132025signed.pdf) |
-| 2025-08-13 | Outcome of Board Meeting | Brainbees Solutions Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/BRAINBEES_13082025200544_BMOutcomeofBoardMeetingAugust132025signed.pdf) |
-| 2025-12-26 | Outcome of Board Meeting | Brainbees Solutions Limited has informed the Exchange regarding Outcome of Board Meeting held on December 26, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025184313_Disclosureunderregulation30OutcomeofBM26122025.pdf) |
-| 2025-12-26 | Change in Company Secretary/Compliance O | Brainbees Solutions Limited has informed the Exchange about Change in Company Secretary/Compliance Officer | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025185228_Disclosureunderregulation30OutcomeofBM26122025.pdf) |
-| 2025-12-26 | Acquisition | Brainbees Solutions Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025190047_Disclosureunderregulation30OutcomeofBM26122025_.pdf) |
-| 2025-12-26 | Sale or disposal | Brainbees Solutions Limited has informed the Exchange about Sale or disposal | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26122025190355_Disclosureunderregulation30OutcomeofBM26122025_.pdf) |
-| 2026-05-26 | Outcome of Board Meeting | Brainbees Solutions Limited has submitted the outcome of Board Meeting held on May 26, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26052026173216_Boardmeetingoutcome_March26.pdf) |
-| 2026-05-26 | Acquisition | Brainbees Solutions Limited has informed the Exchange about acquisition in Firstcry Management DWC LLC. | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_26052026180538_Boardmeetingoutcome_March26.pdf) |
-| 2026-06-30 | Acquisition | Brainbees Solutions Limited has informed the Exchange about the extension in the timeline of further investment in Firstcry Management DWC LLC, a wholly owned s | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_30062026165703_Disclosureunderregulation30UpdateFCManagementsigned.pdf) |
-| 2026-07-01 | General Updates | Brainbees Solutions Limited has informed the Exchange about an intimation under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regu | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_01072026193848_DraftDisclosureunderRegulation30OFSParticipation.pdf) |
-| 2026-07-02 | General Updates | Brainbees Solutions Limited has informed the Exchange about filing of Draft Red Herring Prospectus by Swara Baby Products Limited, a Subsidiary of Brainbees Sol | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_02072026151519_DisclosureunderRegulation30DRHPStage.pdf) |
-| 2026-08-29 | Shareholders meeting | Brainbees Solutions Limited has informed the Exchange regarding Notice of 16th Annual General Meeting of the Members of the Company to be held through Video Con | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_29082026232500_IntimationofAGMNotice.pdf) |
-| 2026-10-07 | Sale or disposal | Brainbees Solutions Limited has informed the Exchange about Execution of Memorandum of Understanding by GlobalBees Brands Private Limited ("Globalbees") , a Sub | [pdf](https://nsearchives.nseindia.com/corporate/BRAINBEES_07102026192542_Disclosureunderregulation30_MOUtosellMush.pdf) |
-
-</details>
-
-## JSWCEMENT — JSW Cement Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 10 filing(s) from BSE-screener, NSE, NSE-deep · first 2025-11-17, latest 2026-10-27
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-11-17; date not fixed — No new listing; Shiva ceases to exist. "The transaction is expected to be completed within 12-14 months, subject to timely receipt of regulatory approvals" (said September 29, 2026 and repeated October 27, 2026)
-
-**The stages, as filed:** nclt_sanction (2026-09-29)
-
-**Stated in the filings:** entitlement **5 for every 41**.
-
-**What is being separated, as the documents put it:** Nothing separated — Shiva Cement, the listed clinker subsidiary, is amalgamated into parent JSW Cement — class `value_unlocking`.
-
-- *Insiders:* JCL holds 66.23% of SCL equity and all its OCCRPS; JSW Cement promoter group goes 72.02% to 71.39% post-merger; Shiva promoter group held 66.50%
-- *What it reveals:* Shiva is a loss-maker: standalone net worth (30.08) crore, retained-earnings debit (133.92) crore written off against securities premium; its 1.32 mtpa clinker becomes captive raw material, cutting third-party purchases and mark-ups
-- *Selling pressure:* unlikely — Only ~1.21 crore new shares on a 136.34 crore base; same industry, larger and more liquid entity, no index exit
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The valuation/share exchange ratio report and fairness opinions supporting the 5:41 ratio
-- *In their words:* “Transferor Company shall cease to exist upon effectiveness of the Scheme without being wound up.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: attracting different investors / capital — “…pany, which has a higher traded equity share base, greater market liquidity, and a diversified institutional investor base, thereby providing shareholders with enhanced liquidity, broader market participation, and improved opportu…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | attracting different investors / capital — “…pany, which has a higher traded equity share base, greater market liquidity, and a diversified institutional investor base, thereby providing shareholders with enhanced liquidity, broader market participation, and impro” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 4,464 cr (Mar 2026) = 0.25× market cap *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage nclt_sanction — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 364 days since the first filing, stage nclt_sanction |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-11-17 | General Updates | This is in furtherance to the intimation done by the Company on 7th November, 2025. This is to inform you that the Company has today signed a Securities Purchas | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_17112025235832_SEIntimationVadrajSIgn.pdf) |
-| 2026-05-21 | Press Release | Please find attached the Press Release. | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_21052026130017_upload.pdf) |
-| 2026-07-17 | General Updates | Please find enclosed herewith intimation under Regulation 30 of the Securities Exchange Board Of India (Listing Obligations And Disclosure Requirements) Regulat | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_17072026195210_Stock_Exchange_Intimation.pdf) |
-| 2026-08-13 | Disclosure of material issue | The Board has approved participation in the Company in the proposed initial public offering of JSW One Platforms Limited as a Promoter Selling Shareholder by of | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_13082026193636_JSW_One_Platforms_dsc.pdf) |
-| 2026-09-29 | Outcome of Board Meeting | Outcome of the Board Meeting of JSW Cement held on September 29, 2026 - Approving | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026191654_JCL_Post_BM_Intimation_signed.pdf) |
-| 2026-09-29 | Outcome of Board Meeting | JSW Cement Limited has informed the Exchange regarding Outcome of Board Meeting held on September 29, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026191654_JCL_Post_BM_Intimation_signed.pdf) |
-| 2026-09-29 | Scheme of Arrangement | JSW Cement Limited (the "Company") at its meeting held on September 29, 2026, has ,inter alia, subject to approval of the shareholders of the Company, considere | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026192108_JCL_Post_BM_Intimation_signed.pdf) |
-| 2026-09-29 | Press Release | In continuation of our disclosure dated September 29, 2026, we submit herewith a Press Release on the Outcome of the Board Meeting of JSW Cement held on Septemb | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026210016_Press_Release_Upload.pdf) |
-| 2026-09-29 | Announcement under Regulation 30 (LODR)- | Board approved merger of Shiva Cement into JSW Cement; 5:41 share swap, subject to shareholder and NCLT approvals. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c683658f-e10d-47ea-948e-4599b15073bd.pdf) |
-| 2026-10-27 | Press Release | JSW Cement Limited has informed the Exchange regarding a press release dated October 27, 2026, titled "Please find attached Press Release dated 27th October, 20 | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_27102026195531_Press_Release.pdf) |
-
-</details>
-
-## MANAPPURAM — Manappuram Finance Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2025-03-20, latest 2025-03-20
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-03-20; date not fixed — Filing dated March 27, 2026: "The Subscription Shares and the equity shares of the Company issued upon conversion of the Subscription Warrants so issued will be listed on the BSE Limited and the National Stock Exchange of India Limited, in accordance with applicable law." No demerged entity listing date is stated.
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* Existing promoters V.P. Nandakumar and Sushama Nandakumar continue above 28%; BC Asia Investments XXV holds 9.89% equity, XIV holds 9,29,01,373 warrants (18.00% fully diluted), to be classified promoters jointly.
-- *What it reveals:* No separation is described. Filings describe Bain Capital's preferential issue at INR 236 per share/warrant plus open offer for 26%, with gold loans at 80% of consolidated AUM and microfinance subsidiary Asirvad loss-making.
-- *Selling pressure:* unclear — Documents describe no demerger or distribution of shares to existing shareholders, so no size or index effect is stated.
-- *Parent or spin:* unclear · *option pricing date:* Warrants priced at INR 236 each, allotted March 27, 2026; ESOP 2025 grant of 428,568 options approved June 23, 2026
-- *Read next:* Letter of offer dated March 25, 2026 — open offer tendering period, acceptance and payment with 10% interest
-- *In their words:* “The Subscription Shares and the equity shares of the Company issued upon conversion of the Subscription Warrants so issued will be listed on the BSE Limited and the National Stock Exchange of India Limited, in accordance with applicable law.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…icable statutory authorities, as may be required including but not limited to the Reserve Bank of India and Competition Commission of India , the Board has approved to create, oﬀer, issue and allot the following securities to Investor 1 (…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…icable statutory authorities, as may be required including but not limited to the Reserve Bank of India and Competition Commission of India , the Board has approved to create, oﬀer, issue and allot the following securit” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | P/E 35.2 on Mar 2026 profit vs industry median 24.4 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 606 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-03-20 | Outcome of Board Meeting | Manappuram Finance Limited has informed the Exchange regarding Board meeting held on March 20, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/MANAPPURAM_20032025190309_Project_Aurum_Regulation_30_disclosure_Outcome.pdf) |
-
-</details>
-
-## ORKLAINDIA — Orkla India Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-07-25, latest 2026-07-25
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-07-25; date not fixed — Already listed: "Orkla India got listed on BSE and NSE on 6th of November" (Q2 FY26 call, November 13, 2025); ESOP/MSOP resolutions refer to listing "consequent to the Initial Public Offer"
-
-**The stages, as filed:** meetings (2026-07-25)
-
-**What is being separated, as the documents put it:** Nothing demerged; Orkla ASA's Indian food business (MTR, Eastern spices and convenience foods) separately listed via IPO — class `not stated`.
-
-- *Insiders:* Holding company Orkla ASA; promoter stake not stated. ESOP 2025 up to 27,39,784 options (2% of capital), MSOP 2025 4,70,000 (0.34%), extended to holding/subsidiary employees; management incentive "aligned to shareholder value creation"
-- *What it reveals:* A cash-generative branded food business: FY26 revenue INR 2,493 crores (+5.7%), EBITDA INR 424 crores at 16.9% margin, ROCE 27.7%, INR 600 crores cash surplus, no debt mentioned; margins below MDH/Everest peers per analyst question
-- *Selling pressure:* unclear — Documents describe an IPO listing on BSE/NSE, not a share distribution; no float, shareholding pattern or index details stated
-- *Parent or spin:* spin · *option pricing date:* not stated; exercise price is specified in each Award Letter and shall not be less than face value (plans approved by Board May 12, 2025 and shareholders May 16, 2025, ratification sought at AGM August 19, 2026)
-- *Read next:* FY2025-26 Annual Report shareholding pattern — Orkla ASA's post-IPO promoter stake and public float
-- *In their words:* “As you all know, Orkla India got listed on BSE and NSE on 6th of November.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…ompanies(ies), and its holding company, as applicable. The objective of ESOP 2025 is: a) To promote long-term value creation, b) to align interest with the Shareholders, and c) to incentivize great performance.The “Management Stock Op…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders — “…ompanies(ies), and its holding company, as applicable. The objective of ESOP 2025 is: a) To promote long-term value creation, b) to align interest with the Shareholders, and c) to incentivize great performance.The “Mana” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …approved at any time to or for the benefit of the eligible employees under the ESOP 2025, and to grant the ESOPs to the eligible employees on such terms and conditions as provided i… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 114 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-07-25 | Shareholders meeting | Orkla India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 19, 2026 | [pdf](https://nsearchives.nseindia.com/corporate/ORKLA2025_25072026175146_SIGNEDIntimationNoticeofAGM.pdf) |
-
-</details>
-
-## ADANIPORTS — Adani Ports and Special Economic Zone Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **SPINNING — record date set; the new entity lists soon** · score 3.6/10 · partial spin-off / listing · 6 filing(s) from NSE · first 2024-05-31, latest 2026-06-30
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-31; date not fixed
-
-**The stages, as filed:** effective (2026-04-21)
-
-**Stated in the filings:** resulting company **Special Economic Zone Limited**.
-
-**What is being separated, as the documents put it:** Not stated: no demerger in documents; nearest separation is 49% of Adani Vizhinjam Port Private Limited — class `value_unlocking`.
-
-- *Insiders:* No new entity. APSEZ retains 51% of AVPPL, holds majority of board seats, continues consolidating it. Buyer Mundi Limited/TiL 'does not belong to promoter/ promoter group/group companies'.
-- *What it reveals:* A wholly-owned subsidiary is valued at USD 2.85bn total deal value against AVPPL income of Rs 843.19 crore and net worth Rs 2,813.98 crore at 31.03.26; Vizhinjam crossed 2 million TEUs within 18 months, with capacity expanding 3.5x to 5.7 million TEUs by December 2028.
-- *Selling pressure:* unlikely — No shares are issued, distributed or listed; this is a 49% cash-equivalent stake sale with APSEZ staying listed and consolidating AVPPL.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* APSEZ FY26 annual report and the AVPPL completion filing — confirm no SEZ demerger exists and receipt of tranche 1 (USD 539mn)
-- *In their words:* “APSEZ will retain 51% of equity, hold majority of board seats, and will continue to consolidate AVPPL as a subsidiary company”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…to AIPH. 5. Brief details of any governmental or regulatory approvals required for the acquisition Fair Competition Commission (FCC) Approval, Tanzania 6. Indicative time period for completion of the acquisition The transaction is…”; a weak or capital-heavy business carved away — “…rial zone5.6 million TEUs Salalah port, Oman •Optimal for express transshipment on East -West route •Fastest turnaround in Middle East region •Preferred rerouting hub during disruptions3.8 million TEUs Vizhinjam is fast emerging…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot; a weak or capital-heavy business carved away — “…to AIPH. 5. Brief details of any governmental or regulatory approvals required for the acquisition Fair Competition Commission (FCC) Approval, Tanzania 6. Indicative time period for completion of the acquisition The tra” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 63,566 cr (Mar 2026) = 0.16× market cap; P/E 30.6 on Mar 2026 profit vs industry median 26.8 (10 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 899 days since the first filing, stage effective |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-31 | Updates | Adani Ports and Special Economic Zone Limited has informed the Exchange regarding 'Adani Ports through its subsidiary entered into a concession to operate Conta | [pdf](https://nsearchives.nseindia.in/corporate/ADANIPORTS_31052024174809_APSEZSEIntimation.pdf) |
-| 2024-09-20 | Press Release | Adani Ports and Special Economic Zone Limited has informed the Exchange regarding a press release dated September 20, 2024, titled "Rorix Holdings and AdaniPort | [pdf](https://nsearchives.nseindia.in/corporate/ADANIPORTS_20092024144632_SEintimation.pdf) |
-| 2025-11-04 | Outcome of Board Meeting | Adani Ports and Special Economic Zone Limited has submitted to the Exchange, the financial results for the period ended September 30, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/rkbhagia_04112025130037_OutcomeofBoardMeeting.pdf) |
-| 2026-04-21 | Updates | Adani Ports and Special Economic Zone Limited has informed the Exchange regarding 'Intimation of Effective Date of Scheme of Amalgamation of Adani Harbour Servi | [pdf](https://nsearchives.nseindia.com/corporate/rkbhagia_21042026190429_IntimationforSchemeEffective.pdf) |
-| 2026-05-12 | Updates | Adani Ports and Special Economic Zone Limited has informed the Exchange regarding 'Media Release regarding APSEZ s marine arm, AstroOffshore in contract with Oc | [pdf](https://nsearchives.nseindia.com/corporate/rkbhagia_12052026160738_SEINTIMATION.pdf) |
-| 2026-06-30 | Agreements | Adani Ports and Special Economic Zone Limited has informed the Exchange that, the Company has entered into Share Purchase and Subscription Agreement on June 29, | [pdf](https://nsearchives.nseindia.com/corporate/rkbhagia_30062026080124_SEINTIMATION.pdf) |
-
-</details>
-
-## ANTHEM — Anthem Biosciences Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2025-08-13, latest 2025-08-13
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-08-13; date not fixed — No demerged entity; the postal ballot dated August 13, 2025 states "The Company got listed in the National Stock Exchange (NSE) and Bombay Stock Exchange Limited (BSE) on July 21, 2025"
-
-**The stages, as filed:** meetings (2025-08-13)
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* ESOP 2024 excludes promoters and promoter group; up to 11,409,700 options for employees of the Company and its subsidiaries; promoter group abstains from related-party remuneration vote.
-- *What it reveals:* not stated
-- *Selling pressure:* unclear — Documents disclose no separation or new listing; only ESOP ratification after the Company's own July 21, 2025 listing.
-- *Parent or spin:* neither · *option pricing date:* not stated; exercise price is "the maximum Fair Market Value of the Share as on the date of Grant", intimated in the Grant Letter
-- *Read next:* Neo Anthem (Unit 3) subsidiary results — Q1 FY27 call says it should turn break-even this year.
-- *In their words:* “The Company got listed in the National Stock Exchange (NSE) and Bombay Stock Exchange Limited (BSE) on July 21, 2025, pursuant to which the ESOP 2024 is sought to be ratified in line with SEBI (SBEB & SE) Regulations.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …approved at any time to or for the benefit of the eligible employees under the ESOP 2024, and to grant the ESOPs to the eligible employees on such terms and conditions as provided in… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 54 cr (Mar 2026) = 0.00× market cap; P/E 77.0 on Mar 2026 profit vs industry median 52.6 (45 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 460 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-08-13 | Shareholders meeting | Anthem Biosciences Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.in/corporate/COMPLIANCE_ABL1_13082025220155_PBNoticeIntimationSigned.pdf) |
-
-</details>
-
-## BAJAJ-AUTO — Bajaj Auto Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2025-12-02, latest 2026-06-23
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-12-02; date not fixed
-
-**What is being separated, as the documents put it:** not stated — documents disclose a share buyback and KTM/Bajaj Mobility acquisition, no separation or demerger — class `not stated`.
-
-- *Insiders:* Not stated for any new entity; in Bajaj Auto itself Promoters and Promoter Group hold 15,37,56,828 shares (55.01%) and declined to participate in the buyback
-- *What it reveals:* not stated
-- *Selling pressure:* unclear — No separation, size or index event described in the documents
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Bajaj Mobility AG / KTM AG own exchange disclosures, and BAIHAG segment assets in consolidated results
-- *In their words:* “BMAG, is listed on the SIX Swiss Exchange and on the Vienna Stock Exchange (Official Market).”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 22,713 cr (Mar 2026) = 0.07× market cap; P/E 29.9 on Mar 2026 profit vs industry median 41.6 (35 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 349 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-12-02 | General Updates | Bajaj Auto Limited has informed the Exchange about issuance, allotment and listing of Non-convertible Debentures by Bajaj Auto Credit Limited, a wholly owned su | [pdf](https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_02122025114217_SE_-_BACL_NCD_Listing.pdf) |
-| 2026-06-23 | Updates | Bajaj Auto Limited has informed the Exchange regarding ' issuance, allotment and listing of Non-convertible Debentures by Bajaj Auto Credit Limited, a wholly ow | [pdf](https://nsearchives.nseindia.com/corporate/lkwalimbe_bajajauto_co_in_23062026174005_NCD_Listing_500cr_BACL.pdf) |
-
-</details>
-
-## BAJFINANCE — Bajaj Finance Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 6 filing(s) from NSE · first 2024-06-03, latest 2024-09-13
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-06-03; date not fixed — BHFL allotted IPO shares on 12 September 2024 and, per the 29 January 2025 filing, 'On 13 September 2024, BHFL, a subsidiary of the Company, has concluded its Initial Public Offer of ₹ 6,560 crore'
-
-**Stated in the filings:** size hint: 21% of assets.
-
-**What is being separated, as the documents put it:** Bajaj Housing Finance Limited, the mortgage/housing finance subsidiary, listed separately via IPO (fresh issue plus parent's offer for sale) — class `regulatory_strategic`.
-
-- *Insiders:* BFL's stake fell from 100% to 88.75% at the IPO, then 86.7032% after the 2 December 2025 bulk deal; no Directors, KMP or Senior Management subscribed; part of dilution shared as dividend
-- *What it reveals:* A low-risk mortgage franchise: AUM ₹158,205 crore, GNPA 0.29%, PAT ₹1,472 crore in H1 FY27; it contributed 13.66% of consolidated turnover but 18.03% of net worth, and the OFS produced a ₹2,544.11 crore gain
-- *Selling pressure:* likely — Parent still holds 86.7032% and keeps selling in open-market bulk deals as steps towards Minimum Public Shareholding in BHFL
-- *Parent or spin:* parent · *option pricing date:* Relevant Date for the warrant preferential issue: Thursday, 1 October 2026; issue price of ₹1,010 per warrant approved 10 November 2026
-- *Read next:* BHFL's prospectus dated 11 September 2024 and its standalone results, against the market value of BFL's remaining 86.7032% stake
-- *In their words:* “In this connection, we wish to inform you that on 24 April 2024, the board of directors of BHFL evaluated various options to meet the mandatory listing requirements applicable to BHFL due to its classification as an NBFC – Upper Layer by the Reserve Bank of India, including through a potential initial public offer ("IPO").”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 21% of assets |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | P/E 36.8 on Mar 2026 profit vs industry median 24.4 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 896 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-06-03 | Rumour Verification - Regulation 30(11) | Intimation under Regulation 30(11) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/BAJFINANCE_03062024232639_BFLSEIntimationrumour.pdf) |
-| 2024-07-23 | Outcome of Board Meeting | Bajaj Finance Limited has informed the Exchange regarding Board meeting held on July 23, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BAJFINANCE_23072024153814_BSENSEOUTCOMEJULY2024.pdf) |
-| 2024-07-23 | Outcome of Board Meeting | Bajaj Finance Limited has informed the Exchange regarding Outcome of Board Meeting held on July 23, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BAJFINANCE_23072024154112_BSENSEOUTCOMEJULY2024.pdf) |
-| 2024-07-23 | Financial Result Updates | Bajaj Finance Limited has submitted to the Exchange, the financial results for the period ended June 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BSENSEOUTCOMEJULY2024_23072024153517.pdf) |
-| 2024-08-31 | Updates | Bajaj Finance Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulati | [pdf](https://nsearchives.nseindia.in/corporate/BAJFINANCE_31082024175728_BHFLRHPIPOINTIMATIONBSENSE.pdf) |
-| 2024-09-13 | Diversification/Disinvestment | Bajaj Finance Limited has informed the Exchange about Diversification/Disinvestment - Offer for sale (Cessation of wholly-owned subsidiary) | [pdf](https://nsearchives.nseindia.in/corporate/BAJFINANCE_13092024182552_BFL_BHFLCessationasWOS.pdf) |
-
-</details>
-
-## BANKBARODA — Bank of Baroda
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2024-10-03, latest 2026-09-08
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-10-03; date not fixed
-
-**What is being separated, as the documents put it:** Bank of Baroda's Oman territory banking business, sold to Bank Dhofar on a going concern basis — class `not stated`.
-
-- *Insiders:* not stated; documents only say buyer Bank Dhofar does not belong to promoter/promoter group, and Government of India holds 63.97% of Bank of Baroda
-- *What it reveals:* Reveals the unit's size only: Total Business OMR 113.35 Mn and Net Worth OMR 25.54 Mn as on 31 March 2024 — immaterial beside the Bank's total assets of ₹1,997,171 crore; consideration "Yet to be decided"
-- *Selling pressure:* unlikely — Cash/business transfer of one overseas branch to a third party; no shares issued or distributed to shareholders, no index change, unit immaterial
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The disclosure stating consideration received and completion of the Oman transfer to Bank Dhofar
-- *In their words:* “This is to inform that Bank has accorded approval for accepting the offer for acquisition of banking business of Bank's Oman territory operations by Bank Dhofar on a going concern basis, subject to approval from concerned regulatory authorities.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 6.3 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 774 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-10-03 | General Updates | Bank Of Baroda has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/BANKBARODA_03102024150014_SEOMAN.pdf) |
-| 2026-09-08 | General Updates | Bank Of Baroda has informed the Exchange about Disclosure under Regulation 30 | [pdf](https://nsearchives.nseindia.com/corporate/BANKBARODA_08092026180634_SEINTIMATION.pdf) |
-
-</details>
-
-## BIOCON — Biocon Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2024-04-02, latest 2025-11-14
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-04-02; date not fixed
-
-**Stated in the filings:** size hint: 3.7% of revenue.
-
-**What is being separated, as the documents put it:** Not stated - documents instead describe Biocon Biologics (biosimilars) being fully integrated into Biocon as a wholly owned subsidiary — class `value_unlocking`.
-
-- *Insiders:* Promoters 44.91% pre-issue, 44.68% post; Kiran Mazumdar-Shaw 29.90% plus 14.63% via Glentec. CEO Shreehas Tambe received 20,33,429 Biocon shares for BBL shares, Rs 18 crore pay cap, Rs 10 crore LTI
-- *What it reveals:* Integration valued Biocon Biologics at USD 5.5 billion; BBL minority bought for Rs 330.73 crore at swap 0.76159 (Biocon Rs 376.41). Biosimilars segment Q1 FY27 revenue Rs 28,556 million, PBT Rs 1,714 million, capital employed Rs 2,71,639 million; net debt ~$1.1 billion
-- *Selling pressure:* unlikely — No demerged entity listed; the 87,86,362 preferential shares (1.99% of post-issue capital) are locked in under SEBI ICDR Regulations
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* December 6, 2025 board outcome and December 31, 2025 EGM notice on BBL integration, among the 23 omitted older filings
-- *In their words:* “The swap of Equity Shares is being undertaken to enable BBL to become a wholly-owned subsidiary of the Company.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 3.7% of revenue |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 15,434 cr (Mar 2026) = 0.22× market cap; P/E 188.0 on Mar 2026 profit vs industry median 52.6 (45 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 958 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-04-02 | Updates | Biocon Limited has informed the Exchange regarding 'Biocon Biologics Limited, subsidiary of Biocon Limited, has completed the transaction of transfer of its bra | [pdf](https://nsearchives.nseindia.in/corporate/BIOCON_02042024180048_Intimation_Reg30_020424_signed.pdf) |
-| 2025-11-14 | Rumour Verification - Regulation 30(11) | Biocon Limited has informed the Exchange about Rumour Verification - Regulation 30(11) | [pdf](https://nsearchives.nseindia.com/corporate/Biocon2_14112025082957_Rumour_verification.pdf) |
-
-</details>
-
-## CANBK — Canara Bank
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 8 filing(s) from NSE · first 2024-05-31, latest 2025-10-17
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-31; date not fixed — Canara Robeco 'got listed today (16.10.2025)' per filing dated 16.10.2025; Canara HSBC Life 'got listed today (17.10.2025)' per filing dated 17.10.2025; earlier filings record UDRHP SEBI approvals on 29.09.2025 and 02.10.2025.
-
-**What is being separated, as the documents put it:** Minority stakes in two subsidiaries — Canara HSBC Life Insurance and Canara Robeco Asset Management — listed via IPO — class `value_unlocking`.
-
-- *Insiders:* Canara Bank, the promoter, retains 36.50% of Canara HSBC Life and 38% of Canara Robeco; keeps arm's-length boards, earns agency commission as distributor, absorbed ~Rs.80 crore IPO charges; 'further dilution we don't foresee'.
-- *What it reveals:* Two high-value businesses sat inside the bank: the 14.5% and 13% dilutions alone yielded Rs.1,930-2,006 crore of listing gains, with ~Rs.320 crore subsidiary profit to parent, ~Rs.500 crore cross-sell income, and stakes management says have appreciated.
-- *Selling pressure:* unlikely — IPO/offer-for-sale to new investors, not a demerger distribution to parent shareholders; both listed on NSE and BSE, shares appreciated.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Canara HSBC Life and Canara Robeco standalone results versus Canara Bank's retained 36.50%/38% carrying value.
-- *In their words:* “In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.50%.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 5.8 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 899 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-31 | Updates | Canara Bank has informed the Exchange regarding 'Disclosure with regard to Subsidiary Company'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_31052024162920_CANHSBC3105SIGN.pdf) |
-| 2024-12-23 | Updates | Canara Bank has informed the Exchange regarding 'Disclosure with Regard to Subsidiary Company'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_23122024195416_CBTL231224PRASHsign.pdf) |
-| 2025-09-23 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_23092025120925_IntimationtoSERobeco.pdf) |
-| 2025-09-26 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_26092025114621_Intimationsehsbc.pdf) |
-| 2025-09-30 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_30092025120930_IntimationtoSERobeco.pdf) |
-| 2025-10-03 | Updates | Canara Bank has informed the Exchange regarding 'information on subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_03102025113839_LettertoSE03102025Sd.pdf) |
-| 2025-10-16 | Updates | Canara Bank has informed the Exchange regarding 'Information on Subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_16102025190221_LettertoSE16102025Sd.pdf) |
-| 2025-10-17 | Updates | Canara Bank has informed the Exchange regarding 'Information on subsidiaries'. | [pdf](https://nsearchives.nseindia.in/corporate/CANBK_17102025163235_LettertoSE17102025Sd.pdf) |
-
-</details>
-
-## CAPLIPOINT — Caplin Point Laboratories Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 20 filing(s) from NSE · first 2024-04-16, latest 2026-05-14
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-04-16; date not fixed
-
-**What is being separated, as the documents put it:** not stated — filings describe Caplin Steriles as a subsidiary; no separation, demerger or listing is announced — class `not stated`.
-
-- *Insiders:* Not stated for any new entity. Vice Chairman on parent: "as a family, we own around 71%"; Chairman's sons Vivek and Ashok Partheeban are Vice-Chairmen.
-- *What it reveals:* Documents reveal subsidiary-level economics: CSL FY26 EBITDA INR 142 crores (30% margin) vs INR 102 crores (27.9%); 60 ANDAs; own US label near INR 100 crores; parent debt-free with INR 1,471 crores cash.
-- *Selling pressure:* unclear — No separation, share-entitlement ratio, record date or index change is disclosed in any filing or earnings call.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Caplin Steriles Limited standalone accounts and any board resolution or scheme on a CSL listing; FY26 annual report segment note.
-- *In their words:* “The EBITDA of CSL for the financial year 2025 -26 is INR 142 crores, which is 30%, as compared to INR 102 crores last year, which is 27.9%.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 5 cr (Mar 2026) = 0.00× market cap; P/E 35.4 on Mar 2026 profit vs industry median 52.7 (45 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 944 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-04-16 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated April 16, 2024, titled "Press Release on USFDA approval on Ofloxacin | [pdf](https://nsearchives.nseindia.in/corporate/CAPLIPOINT_16042024103959_Press_Release_Ofloxacin_ophthalmic_ANDA_Approval.pdf) |
-| 2024-05-24 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated May 24, 2024, titled "Press Release for Grant of USFDA Approval". | [pdf](https://nsearchives.nseindia.in/corporate/CAPLIPOINT_24052024110748_CSL_Phenyephrine_ophthalmic_ANDA_Approval_Press_Release.pdf) |
-| 2024-07-19 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated July 19, 2024, titled "Press Release for Grant of USFDA Approval". | [pdf](https://nsearchives.nseindia.in/corporate/CAPLIPOINT_19072024105611_CSL_Ephedrine_sulfate_inj_ANDA_Approval_Press_Release_final.pdf) |
-| 2024-08-08 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated August 08, 2024, titled "Press Release for Grant of USFDA Approval". | [pdf](https://nsearchives.nseindia.in/corporate/CAPLIPOINT_08082024105526_CSL_Timolol_Ophthalmic_ANDA_Approval_Press_Release_sd.pdf) |
-| 2024-12-16 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated December 16, 2024, titled "Press Release for grant of USFDA Approval | [pdf](https://nsearchives.nseindia.in/corporate/CAPLIPOINT_16122024122817_Caplin_Point_Difluprednate_Ophthalmic_Emulsion_ANDA_Approval_sd.pdf) |
-| 2025-01-17 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated January 17, 2025, titled "Press Release for receipt of USFDA Approva | [pdf](https://nsearchives.nseindia.in/corporate/CAPLINPOINT_17012025121639_Press_Release__sd.pdf) |
-| 2025-02-05 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated February 05, 2025, titled "Press Release regarding receipt of USFDA  | [pdf](https://nsearchives.nseindia.in/corporate/CAPLINPOINT_05022025111704_Press_Release__sd.pdf) |
-| 2025-02-26 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated February 26, 2025, titled "Press Release regarding receipt of USFDA  | [pdf](https://nsearchives.nseindia.in/corporate/CAPLINPOINT_26022025105156_Press_Release_sd.pdf) |
-| 2025-04-23 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated April 23, 2025, titled "Press Release regarding receipt of USFDA App | [pdf](https://nsearchives.nseindia.in/corporate/CAPLINPOINT_23042025105024_Press_Release_sd.pdf) |
-| 2025-05-14 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated May 14, 2025, titled "Press Release regarding receipt of USFDA Appro | [pdf](https://nsearchives.nseindia.in/corporate/CAPLINPOINT_14052025111024_Press_Release_SD.pdf) |
-| 2025-09-03 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated September 03, 2025, titled "Press Release - Receipt of USFDA approva | [pdf](https://nsearchives.nseindia.in/corporate/CAPLINPOINT_03092025140054_Press_Release__sd.pdf) |
-| 2025-10-23 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated October 23, 2025, titled "CAPLIN STERILES GETS USFDA APPROVAL FOR NI | [pdf](https://nsearchives.nseindia.in/corporate/CAPLINPOINT_23102025145103_Press_Release__sd.pdf) |
-| 2025-12-08 | Updates | Caplin Point Laboratories Limited has informed the Exchange regarding receipt of USFDA approval by its Subsidiary Caplin Steriles Limited for Acetaminophen Inje | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_08122025152421_Press_Release_Acetominophen.pdf) |
-| 2025-12-09 | Updates | Caplin Point Laboratories Limited has informed the Exchange regarding 'Press Release' on its Subsidiary, Caplin Steriles Limited, receiving USFDA approval for i | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_09122025134636_Press_Release_Linezolid.pdf) |
-| 2026-01-27 | Press Release | The Company has informed the Exchange regarding receipt of final approval by our Subsidiary, Caplin Steriles Limited, from the USFDA for the ANDA Methylpredniso | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_27012026155646_Press_Release_2701.pdf) |
-| 2026-02-24 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated February 24, 2026, titled "Receipt of final approval by our Subsidia | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_24022026123910_Press_release_sd.pdf) |
-| 2026-02-28 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated February 28, 2026, titled "Receipt of final approval by our Subsidia | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_28022026115405_Press_Release_28-02-26_sd.pdf) |
-| 2026-03-13 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated March 13, 2026, titled "Receipt of final approval by our Subsidiary, | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_13032026120230_Press_Release__sd.pdf) |
-| 2026-05-05 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated May 05, 2026, titled "Receipt of final approval by our Subsidiary, C | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_05052026124214_Press_Release.pdf) |
-| 2026-05-14 | Press Release | Caplin Point Laboratories Limited has informed the Exchange regarding a press release dated May 14, 2026, titled "Receipt of final approval by our subsidiary, C | [pdf](https://nsearchives.nseindia.com/corporate/CAPLINPOINT_14052026190828_Press_Release_sd.pdf) |
-
-</details>
-
-## COALINDIA — Coal India Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 14 filing(s) from NSE · first 2025-05-20, latest 2026-11-14
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-05-20; date not fixed — BCCL "has been listed on BSE Limited and National Stock Exchange of India Limited effective January 19, 2026" (filing 19.01.2026); CMPDIL "listed on BSE Limited and National Stock Exchange of India Limited effective March 30th, 2026" (filing 30.03.2026); MCL RHP dated 13th November, 2026 filed, IPO "subject to receipt of applicable approvals, market conditions" (filing 14.11.2026); SECL DRHP dated 01st November, 2026 filed (filing 02.11.2026); MoC memorandum dated 16.12.2025 advised listing MCL and SECL "in the upcoming financial year"
-
-**The stages, as filed:** announced (2025-12-23)
-
-**What is being separated, as the documents put it:** Minority stakes in CIL's wholly owned coal mining and mine-planning subsidiaries, sold via offer-for-sale IPOs — class `regulatory_strategic`.
-
-- *Insiders:* Not stated. Documents only show CIL's stake falling to 90% in BCCL and 85% in CMPDIL post-IPO; no promoter or management incentive details in the new entities.
-- *What it reveals:* Listings put market prices on subsidiaries previously buried in CIL: BCCL 465,700,000 shares at Rs 23 and CMPDIL 107,100,000 shares at Rs 172, with MCL (661,836,300 shares) and SECL (668,056,100 shares) still pending.
-- *Selling pressure:* unlikely — Shares reached willing buyers through priced offers for sale, not distributed free to CIL shareholders; CIL retains 85-90% control.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* MCL's RHP dated 13 November 2026 - its financials, reserves and the offer price band
-- *In their words:* “Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 14,072 cr (Mar 2026) = 0.06× market cap; P/E 8.2 on Mar 2026 profit vs industry median 12.9 (16 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 545 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-05-20 | Rumour Verification - Regulation 30(11) | Coal India Limited has informed the Exchange about Rumour Verification - Regulation 30(11)- Intimation under Regulation 30(11) of SEBI (Listing Obligations & Di | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_20052025170928_Market_rumour_200525.pdf) |
-| 2025-05-27 | General Updates | Coal India Limited has informed the Exchange about General Updates- Filing of DRHP of Central Mine Planning & Design Institute Limited (CMPDIL), a wholly owned  | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_27052025143857_cmpdil_drhp.pdf) |
-| 2025-05-31 | General Updates | Coal India Limited has informed the Exchange about General Updates- Disclosure under Regulation 30 of SEBI LODR, 2015 Filing of DRHP of Bharat Coking Coal Limit | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_31052025221137_drhp_bccl.pdf) |
-| 2025-12-23 | General Updates | Coal India Limited has informed the Exchange about General Updates-In-principle approval of Listing of Mahanadi Coalfields Limited (MCL) a Wholly owned subsidia | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_23122025170458_MCLsigned.pdf) |
-| 2025-12-23 | General Updates | Coal India Limited has informed the Exchange about General Updates-In-principle approval of Listing of South Eastern Coalfields Limited (SECL), a Wholly owned s | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_23122025170609_SECLsigned.pdf) |
-| 2026-01-03 | General Updates | Coal India Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_03012026145853_RHPf.pdf) |
-| 2026-01-14 | General Updates | Filing of Prospectus of Bharat Coking Coal Limited (BCCL) , A Wholly Owned Subsidiary of Coal India Limited, With the Registrar of Companies, Jharkhand at Ranch | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_14012026115033_BCCLProspectus.pdf) |
-| 2026-01-19 | General Updates | Listing of Bharat Coking Coal Limited, a subsidiary of Coal India Limited | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_19012026111242_listingbccl.pdf) |
-| 2026-03-13 | Updates | Coal India Limited has informed the Exchange regarding 'Filing of Red Herring Prospectus(RHP) of Central Mine Planning and Design Institute Limited (CMPDIL), a  | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_13032026144405_RHP.pdf) |
-| 2026-03-25 | Updates | Coal India Limited has informed the Exchange regarding ''.Initial Public Offering ( IPO ) Of Equity Shares of Face Value Rs. 2 Each ( Equity Shares ) Of Central | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_25032026161724_prospectus_CMPDIL.pdf) |
-| 2026-03-30 | General Updates | Coal India Limited has informed the Exchange about General Updates-Disclosure under Regulation 30 of Securities and Exchange Board of India (Listing Obligations | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_30032026173416_siged.pdf) |
-| 2026-09-02 | General Updates | Disclosure under Regulation 30 of SEBI LODR, 2015 Filing of DRHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL. | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_02092026103250_Draft_letter_to_stock_exchange_DRHP_MCL_signed.pdf) |
-| 2026-11-02 | General Updates | Disclosure under Regulation 30 of SEBI LODR, 2015 - Filing of DRHP of South Eastern Coalfields Limited (SECL), a wholly owned Subsidiary of CIL, with SEBI | [pdf](https://nsearchives.nseindia.com/corporate/COALINDIA_02112026120108_SECL.pdf) |
-| 2026-11-14 | General Updates | Filing of RHP of Mahanadi Coalfields Limited (MCL), a wholly owned Subsidiary of CIL, with SEBI | [pdf](https://nsearchives.nseindia.in/corporate/COALINDIA_14112026072625_rhp.pdf) |
-
-</details>
-
-## GPIL — Godawari Power & Ispat Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 7 filing(s) from NSE · first 2024-06-01, latest 2026-11-13
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-06-01; date not fixed
-
-**The stages, as filed:** announced (2024-06-01)
-
-**What is being separated, as the documents put it:** not stated - no demerger or subsidiary listing disclosed; BESS sits inside wholly-owned Godawari New Energy Pvt Ltd — class `not stated`.
-
-- *Insiders:* not stated for any spin. Filings say promoter/promoter group have no interest in GNEPL except via GPIL; promoters took 97,96,200 of 2,04,08,220 warrants at Rs.245.
-- *What it reveals:* Not a separation. BESS is held in wholly-owned GNEPL: incorporated 25.06.2025, turnover NIL, net worth Rs.598 crores at 30.09.2026, Rs.700 crores total investment approved, inside a parent with Rs.837 crores cash.
-- *Selling pressure:* unclear — No demerger, record date, share entitlement or index change disclosed in any filing.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Any Scheme of Arrangement or Regulation 37A demerger filing for GNEPL; none appears in these documents.
-- *In their words:* “The funds invested by GPIL, will be utilized by GNEPL to meet proposed capex and working capital requirements for setting up Battery Energy Storage System Plant.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 443 cr (Mar 2026) = 0.03× market cap; P/E 20.3 on Mar 2026 profit vs industry median 48.1 (59 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 898 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-06-01 | Scheme of Arrangement | Godawari Power And Ispat limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.in/corporate/GPIL_01062024160246_GPILNSEBSE01062024.pdf) |
-| 2025-06-11 | Incorporation | Godawari Power And Ispat limited has informed the Exchange about Incorporation | [pdf](https://nsearchives.nseindia.in/corporate/GPIL_11062025164117_GPILNSEBSEREG3011062025.pdf) |
-| 2026-07-24 | Outcome of Board Meeting | Godawari Power And Ispat limited has informed the Exchange regarding Outcome of Board Meeting held on July 24, 2026 for partial divestment of investment in Jamm | [pdf](https://nsearchives.nseindia.com/corporate/GPIL_24072026135336_GPILNSEBSEOUTCOMEOFBM24072026.pdf) |
-| 2026-07-24 | Sale or disposal | Godawari Power And Ispat limited has informed the Exchange about partial divestment of investment in Jammu Pigments Limited. | [pdf](https://nsearchives.nseindia.com/corporate/GPIL_24072026135605_GPILNSEBSEOUTCOMEOFBM24072026.pdf) |
-| 2026-10-01 | Acquisition | Godawari Power And Ispat limited has informed the Exchange about Proposed incorporation of Godawari Energy Solutions Private Limited as Wholly Owned Subsidiary  | [pdf](https://nsearchives.nseindia.com/corporate/GPIL_01102026170529_GPILNSEBSEREG30INCORPORATIONOFCOMPANY01102026.pdf) |
-| 2026-10-17 | Acquisition | Godawari Power And Ispat limited has informed the Exchange intimation regarding incorporation of Godawari Energy Solutions Private Limited, a wholly owned subsi | [pdf](https://nsearchives.nseindia.com/corporate/GPIL_17102026163829_GPILNSEBSENEWINCORPORATIONGESPL17102026.pdf) |
-| 2026-11-13 | Acquisition | Godawari Power And Ispat limited has informed the Exchange regarding allotment of 5,00,00,000 Preference shares aggregating Rs. 50.00 Cr by Godawari New Energy  | [pdf](https://nsearchives.nseindia.in/corporate/GPIL_13112026213113_GPILNSEBSEGNEPL50CR13112026.pdf) |
-
-</details>
-
-## GREAVESCOT — Greaves Cotton Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 5 filing(s) from NSE · first 2024-05-08, latest 2026-10-29
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-08; date not fixed — DRHP filed December 23, 2024; SEBI final observations dated May 8, 2025 required the Offer to open within 12 months, i.e., May 7, 2026; on July 31, 2026 the company did not avail the extension to September 30, 2026, the observations lapsed and it 'will not be proceeding with the Offer'; on August 3, 2026 it 'remains committed to pursuing a public listing at an appropriate time'
-
-**What is being separated, as the documents put it:** Greaves Electric Mobility Limited, the electric two- and three-wheeler business of Greaves Cotton, via a subsidiary IPO listing — class `value_unlocking`.
-
-- *Insiders:* Greaves Cotton holds 62.48% of GEML, unchanged after the Rs 530 crore rights issue (GCL Rs 331.12 crore, ALJ Green Mobility Rs 198.87 crore); post-IPO intended below 51% but remaining a significant large shareholder
-- *What it reveals:* Core Engines and Engineering Products earned Rs 416.52 crore segment profit in FY26 while Electric Mobility lost Rs 182.01 crore; standalone PAT Rs 200.07 crore versus consolidated owners' profit Rs 107.14 crore. GEML net worth only Rs 117.75 crore
-- *Selling pressure:* unlikely — Offer withdrawn; no shares distributed to Greaves Cotton shareholders, so no index exclusion or industry-mismatch forced selling
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* GEML's own financials: Electric Mobility segment losses, Rs 117.75 crore net worth, and whether the lapsed DRHP is refiled
-- *In their words:* “While GEML has presently decided not to avail itself of the SEBI extension for the proposed Offer, it remains committed to pursuing a public listing at an appropriate time, subject to market conditions, regulatory approvals and other relevant considerations.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…did not avail the one-time extension of SEBI observations , considering the proposed rights issue and related regulatory restrictions. Consequently , I PO-related expenses of Rs 1. 72 crore have been recognized in the Statemen t of Profit and…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…did not avail the one-time extension of SEBI observations , considering the proposed rights issue and related regulatory restrictions. Consequently , I PO-related expenses of Rs 1. 72 crore have been recognized in the S” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 922 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-08 | Updates | Greaves Cotton Limited has informed the Exchange regarding 'Update on Board Meeting held today i.e., 08th May, 2024'. | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_08052024145743_SignedGREAVESCOT08052024Fundraising.pdf) |
-| 2024-12-01 | General Updates | Greaves Cotton Limited has informed the Exchange about the proposed Initial Public Offering by a material subsidiary of the Company, Greaves Electric Mobility L | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_01122024153601_GREAVES01122024.pdf) |
-| 2024-12-11 | General Updates | Greaves Cotton Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_11122024155618_Greaves_11122024.pdf) |
-| 2024-12-23 | General Updates | Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_23122024224409_Greavescot_23122024.pdf) |
-| 2026-10-29 | Outcome of Board Meeting | Greaves Cotton Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/GREAVESCOT_29102026143831_GCL_Interimoutcomesd.pdf) |
-
-</details>
-
-## HINDALCO — Hindalco Industries Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 4 filing(s) from NSE · first 2024-05-14, latest 2026-06-22
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-14; date not fixed — May 14, 2024: "Novelis expects to complete the public offering after the SEC completes its review process, subject to market and other conditions"; May 28, 2024: roadshow launched, applied to list on NYSE under "NVL"; June 5, 2024: postponed due to market conditions, "Novelis will continue to evaluate the timing of the offering in the future" — no listing in any later filing.
-
-**What is being separated, as the documents put it:** Novelis Inc., Hindalco's wholly owned global aluminium rolling and recycling subsidiary, via NYSE IPO of minority stake — class `value_unlocking`.
-
-- *Insiders:* Selling shareholder is A V Minerals (Netherlands) N.V., a wholly owned Hindalco subsidiary; post-IPO a Hindalco subsidiary retains 555,000,000 shares, 92.5% (91.4% if over-allotment exercised). Other incentives not stated.
-- *What it reveals:* Reveals Novelis as the group's largest business: FY24 segment revenue ₹134,175 crore and segment result ₹15,507 crore of ₹215,962 crore / ₹27,829 crore consolidated; IPO range $18–21 on ~600m shares. Later calls show Novelis carrying the group's leverage (gross debt ₹75,000 crore) while India is net-cash.
-- *Selling pressure:* unlikely — A 45,000,000-share (7.5%) cash IPO to new buyers, not a distribution to Hindalco holders; no index exclusion stated; offering postponed.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Novelis Inc.'s Form F-1 registration statement filed with the SEC (announced May 13–14, 2024).
-- *In their words:* “After the completion of the IPO, a wholly owned subsidiary of Hindalco will own 555,000,000 shares of Novelis' common shares, representing 92.5% of Novelis' total outstanding common shares (or 91.4% if the underwriters exercise in full their over-allotment option).”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 99,165 cr (Mar 2026) = 0.45× market cap; P/E 16.4 on Mar 2026 profit vs industry median 22.9 (16 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 916 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-14 | Press Release | Hindalco Industries Limited has informed the Exchange regarding a press release dated May 14, 2024, titled "Novelis Files Registration Statement for Proposed In | [pdf](https://nsearchives.nseindia.in/corporate/HINDALCO_14052024035641_Reg_30_Novelis_Revised_Signed.pdf) |
-| 2024-05-28 | Press Release | Hindalco Industries Limited has informed the Exchange regarding a press release dated May 28, 2024, titled "Novelis Announces Launch of Initial PublicOffering R | [pdf](https://nsearchives.nseindia.in/corporate/HINDALCO_28052024165517_Novelis_roadshow_PR_signed.pdf) |
-| 2024-06-05 | Press Release | Hindalco Industries Limited has informed the Exchange regarding a press release dated Jun 05, 2024, titled "Novelis Announces Postponement of Initial Public Off | [pdf](https://nsearchives.nseindia.in/corporate/HINDALCO_05062024064649_Novelis_Cancel_IPO_PR_signed.pdf) |
-| 2026-06-22 | General Updates | Hindalco Industries Limited has informed the Exchange about Strike Off of Wholly Owned Subsidiary | [pdf](https://nsearchives.nseindia.com/corporate/HINDALCOIND_22062026222143_Strike_off_intimation_signed.pdf) |
-
-</details>
-
-## INDGN — Indegene Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2025-07-11, latest 2025-07-11
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-07-11; date not fixed
-
-**The stages, as filed:** meetings (2025-07-11)
-
-**What is being separated, as the documents put it:** not stated — filings describe only internal mergers of indirect/step-down wholly owned subsidiaries, no business separated — class `not stated`.
-
-- *Insiders:* not stated
-- *What it reveals:* not stated — no separation disclosed; documents state the mergers have no material impact on business operations, shareholding pattern or financial position
-- *Selling pressure:* unclear — No separation or new listing disclosed; mergers of wholly owned subsidiaries cause no change in shareholding pattern
-- *Parent or spin:* neither · *option pricing date:* not stated
-- *Read next:* Postal ballot result (due on or before August 14, 2025) and FY26 annual report subsidiary list
-- *In their words:* “The aforesaid merger forms part of an internal reorganization of the Company's indirect wholly owned subsidiaries in Germany and does not have any material impact on the business operations, shareholding pattern, or financial position of Indegene Limited.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 144 cr (Mar 2026) = 0.01× market cap; P/E 31.0 on Mar 2026 profit vs industry median 52.7 (45 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 493 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-07-11 | Shareholders meeting | Indegene Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.in/corporate/INDEGENE_11072025124305_Intimation_of_Postal_Ballot_Notice.pdf) |
-
-</details>
-
-## INDIAMART — Indiamart Intermesh Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 4 filing(s) from NSE · first 2024-07-30, latest 2025-05-19
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-07-30; date not fixed
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* not stated
-- *What it reveals:* not stated
-- *Selling pressure:* unclear — Documents disclose no separation, demerger or new listing; only amalgamation of three wholly owned non-material subsidiaries and a 26% associate stake sale.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Annual Report FY2024-25 and 26th AGM Notice on investor.indiamart.com for any demerger or subsidiary-listing resolution.
-- *In their words:* “Accordingly, the said restructuring will not have any signiϐicant impact on consolidated or standalone ϐinancial position of the Company.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 23 cr (Mar 2026) = 0.00× market cap; P/E 22.8 on Mar 2026 profit vs industry median 54.1 (17 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 839 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-07-30 | Outcome of Board Meeting | Indiamart Intermesh Limited has informed the Exchange regarding Board meeting held on July 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/INDIAMART_30072024151751_OutcomeofBoardMeetingJuly302024Final.pdf) |
-| 2024-07-30 | Financial Result Updates | Indiamart Intermesh Limited has submitted to the Exchange, the financial results for the period ended June 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/OutcomeofBoardMeetingJuly302024Final_30072024151918.pdf) |
-| 2025-01-21 | Integrated Filing- Financial | Integrated Filing (Financials) for the quarter and nine months ended December 31, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/INDIAMART_21012025165146_Integrated_Filing_Financials_Q3.pdf) |
-| 2025-05-19 | General Updates | Indiamart Intermesh Limited has informed the Exchange about Publication of information regarding 26th Annual General Meeting of the Company | [pdf](https://nsearchives.nseindia.in/corporate/INDIAMART_19052025154012_Publication_of_Advertisement_19052025.pdf) |
-
-</details>
-
-## MUTHOOTFIN — Muthoot Finance Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 3 filing(s) from NSE · first 2024-05-05, latest 2024-09-03
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-05; date not fixed
-
-**What is being separated, as the documents put it:** Belstar Microfinance Limited, Muthoot Finance's RBI-registered microfinance NBFC subsidiary, being separately listed through a proposed initial public offering — class `not stated`.
-
-- *Insiders:* Muthoot Finance holds 66.13% of Belstar's equity share capital; the offer for sale is by "certain of its existing non-promoter shareholders", so the promoter parent is not selling.
-- *What it reveals:* Belstar stands alone in the filings: H1 FY27 AUM Rs. 7,876 crores, PAT Rs. 144 crores against a Rs. 160 crores loss, net worth Rs. 1,939 crores, GNPA 3.26% from 4.58%, 1,362 branches, 163 new gold-loan branches.
-- *Selling pressure:* unlikely — An IPO of fresh issue plus non-promoter offer for sale; no shares are distributed to Muthoot Finance's own shareholders.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* Belstar's DRHP dated May 3, 2024 — whether SEBI's final observations have lapsed, and the IPO valuation
-- *In their words:* “We wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has filed a draft red herring prospectus dated May 3, 2024 with the Securities and Exchange Board of India, for a proposed IPO, comprising a fresh issue of equity shares of face value of ₹10 each ("Equity Shares") for an amount aggregating up to ₹10,000 million, and an offer for sale of Equity Shares for an amount aggregating up to ₹3,000 million by certain of its existing non-promoter shareholders ("Offer").”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 11.8 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 925 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-05 | Updates | Muthoot Finance Limited has informed the Exchange regarding 'Filing of DRHP by Belstar Microfinance Limited'., a subsidiary of Muthoot Finance Limited | [pdf](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_05052024111724_BelstarDRHPSigned.pdf) |
-| 2024-05-18 | Updates | Muthoot Finance Limited has informed the Exchange regarding 'Intimation from RTA'. | [pdf](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_18052024112907_Link_Intime_Acquisition_signed.pdf) |
-| 2024-09-03 | Updates | Muthoot Finance Limited has informed the Exchange regarding 'Final Observations On DRHP Filed By Belstar Microfinance Limited'. | [pdf](https://nsearchives.nseindia.in/corporate/MUTHOOTFIN_03092024084747_BelstarDRHPSd.pdf) |
-
-</details>
-
-## ONGC — Oil & Natural Gas Corporation Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2024-05-20, latest 2024-05-20
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-20; date not fixed
-
-**What is being separated, as the documents put it:** not stated — documents show ONGC absorbing OPaL stake upward, no business separated or demerged — class `not stated`.
-
-- *Insiders:* ONGC's OPaL stake rose 49.36%→81.28%→91.16%→94.04%→94.57%→95.69% via GoI-approved warrants, CCD buy-back and rights issues; OPaL is a Government company. Management incentives not stated.
-- *What it reveals:* Reverse of a spin-off: OPaL needed ₹10,501 crore fresh equity plus ₹7,778 crore CCD buy-back "to ensure viability", feedstock support up to 3.2 MMSCMD, with turnover falling ₹16,065→₹14,628→₹14,323 crore — a cash-absorbing, leveraged petrochemical unit.
-- *Selling pressure:* unclear — No listing, demerger ratio or record date in the documents, so no distributed shares that could be sold.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* OPaL standalone accounts / ONGC annual report: OPaL net worth, debt and losses after the ₹18,000+ crore infusion.
-- *In their words:* “This is in alignment with objective of vertical integration of ONGC to downstream Petrochemicals.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 174,316 cr (Mar 2026) = 0.57× market cap; P/E 6.1 on Mar 2026 profit vs industry median 12.9 (16 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 910 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-20 | Press Release | Oil & Natural Gas Corporation Limited has informed the Exchange regarding a press release dated May 20, 2024, titled "Press Release dated 20.05.2024". | [pdf](https://nsearchives.nseindia.in/corporate/ONGC_20052024224853_PR200524.pdf) |
-
-</details>
-
-## PAYTM — One 97 Communications Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 4 filing(s) from NSE · first 2024-08-26, latest 2026-04-25
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-08-26; date not fixed
-
-**Stated in the filings:** size hint: 7.45% of net worth.
-
-**What is being separated, as the documents put it:** Offline Merchants Payment Business — offline merchants serviced through QR, soundbox, EDC machine payments — slump-sold to wholly owned subsidiary PPSL — class `regulatory_strategic`.
-
-- *Insiders:* OCL "is a professionally managed company and does not have any identified promoter"; PPSL remains 100% owned by OCL; SMPs Ripunjai Gaur (COO-Offline Payments) and Deependra Singh Rathore (CTO-Payments) transferred to PPSL.
-- *What it reveals:* The separated undertaking generated approximately INR 2,580 crore, about 47% of OCL's standalone FY2024-25 revenue, yet carries only INR 960 crore book value (7.45% of net worth); OCL then subscribed up to INR 2,250 crore of fresh PPSL equity.
-- *Selling pressure:* unlikely — Transfer to a wholly owned subsidiary; documents state "Brief details of change in shareholding pattern (if any) of listed entity: No Change".
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* PPSL standalone financials and its final RBI certificate of authorisation status after the SAR submitted September 13, 2025.
-- *In their words:* “Net-worth of the Transferred Undertaking as on March 31, 2025, is approximately INR 960 Crores (Indian Rupees Nine Hundred Sixty Crores) representing 7.45% of net worth of the Company on a standalone basis.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 7.45% of net worth |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 194 cr (Mar 2026) = 0.00× market cap; P/E 155.9 on Mar 2026 profit vs industry median 24.4 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 812 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-08-26 | News Verification | The Exchange has sought clarification from One 97 Communications Limited with respect to recent news item captioned Vijay Shekhar Sharma, Paytm directors face S | [pdf](-) |
-| 2024-08-26 | News Verification | The Exchange has sought clarification from One 97 Communications Limited with respect to recent news item captioned Vijay Shekhar Sharma, Paytm directors face S | [pdf](https://nsearchives.nseindia.in/corporate/PAYTM_26082024180633_SEDisclosureClarificationonnews26082024.pdf) |
-| 2025-10-15 | Sale or disposal | One 97 Communications Limited has informed the Exchange about Transfer of Offline Merchant Payments Business to Paytm Payments Services Limited (Wholly-Owned Su | [pdf](https://nsearchives.nseindia.in/corporate/PAYTM_15102025123603_Reg30_Disclosure_Sale_of_Offline_PA_Business_to_PPSL_Oct2025_sd.pdf) |
-| 2026-04-25 | Sale or disposal | One 97 Communications Limited has informed the Exchange about Voluntary winding up of Paytm Payments Bank Limited, an associate company of the Company. | [pdf](https://nsearchives.nseindia.com/corporate/PAYTM_25042026200212_SEDisclosurePPBL.pdf) |
-
-</details>
-
-## PFC — Power Finance Corporation Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 3.6/10 · partial spin-off / listing · 4 filing(s) from NSE, NSE-BM · first 2024-11-12, latest 2026-11-04
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-11-12; date not fixed — No new listing; on May 13, 2026 management said "We are targeting for the merged entity to come into existence by 1st of April 2027"; NSE observation letter dated October 19, 2026 is valid six months, within which the Scheme must be submitted to NCLT
-
-**The stages, as filed:** announced (2026-06-28) → exchange_noc (2026-10-19)
-
-**What is being separated, as the documents put it:** Nothing separated; documents describe the reverse — REC Limited merged by absorption into PFC, REC dissolved without winding up — class `regulatory_strategic`.
-
-- *Insiders:* Government of India is promoter; plain swap takes GoI stake below 50% (analyst: 41-42%), but Government committed to retain 'Government Company' status via capital infusion/issuance of securities
-- *What it reveals:* Reveals a large, profitable parent: consolidated loan book INR 11.64 lakh crore, consolidated PAT INR 33,625 crore, PFC standalone PAT INR 20,051 crore, net worth above INR 1 lakh crore, net NPA 0.13%; dividend base widens beyond PFC standalone
-- *Selling pressure:* unclear — Documents give share exchange ratio (88 PFC per 100 REC) but say nothing on index treatment, flowback or REC minority holders selling
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The draft Scheme's Para 25(1) pre-conditions, the registered valuer's share-swap report, and the RBI no-objection conditions dated October 15, 2026
-- *In their words:* “Based on consolidated metrics, the merged entity would be positioned as the largest power sector financer in India.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 4.2 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage exchange_noc — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 734 days since the first filing, stage exchange_noc |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-11-12 | General Updates | Power Finance Corporation Limited has informed the Exchange about Incorporation of a wholly owned Subsidiary of PFC Consulting Limited (a wholly owned subsidiar | [pdf](https://nsearchives.nseindia.in/corporate/PFC_12112024162450_intimation12112024SIGNED.pdf) |
-| 2026-06-28 | Board Meeting (purpose) | Board Meeting Intimation POWER FINANCE CORPORATION LIMITED has informed the Exchange about Board Meeting to be held on 28-Jun-2026 to consider Scheme of arrange | [pdf](https://nsearchives.nseindia.in/corporate/xbrl/PIBM_532810_2462026172057_PRIOR_INTIMATION_WebXMLFile_20260624_172203415.xml) |
-| 2026-10-19 | Amalgamation/Merger | Intimation of receipt of No Objection letters from BSE Limited and National Stock Exchange of India Limited in relation to proposed scheme of merger of REC Limi | [pdf](https://nsearchives.nseindia.com/corporate/PFC2023_19102026223732_IntimationNoCNSEBSE19102026signed.pdf) |
-| 2026-11-04 | General Updates | Name change of wholly owned Subsidiary of PFC Consulting Limited (a wholly owned subsidiary of Power Finance Corporation Limited)- WAHIPORA AND SALLAR TRANSMISS | [pdf](https://nsearchives.nseindia.com/corporate/PFC2023_04112026171347_Intimation04112026namechangeSigned.pdf) |
-
-</details>
-
-## ADANIPOWER — Adani Power Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 6 filing(s) from NSE · first 2024-06-03, latest 2026-08-27
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-06-03; date not fixed
-
-**Stated in the filings:** appointed date 2024-04-01.
-
-**What is being separated, as the documents put it:** not stated — no business is being separated; the documents describe amalgamations into Adani Power — class `not stated`.
-
-- *Insiders:* not stated — no new entity exists. ROC report in the April 4, 2025 filing records S.B. Adani Family Trust holding 36.43% of Adani Power Limited
-- *What it reveals:* not stated — direction is consolidation, not separation: ten wholly owned subsidiaries (incl. Vidarbha/Butibori, Dahej, Korba, Mahan Fuel) amalgamated into APL effective September 25, 2026, shares cancelled with no allotment
-- *Selling pressure:* unclear — not stated — no separation, index exclusion or new share distribution is described in the documents
-- *Parent or spin:* neither · *option pricing date:* not stated
-- *Read next:* The October 30, 2025 scheme intimation and the June 3, 2024 letter — confirm both are mergers into APL, not a demerger
-- *In their words:* “Accordingly, the Scheme has become effective today, i.e., September 25, 2026 ("Effective Date") and consequently, the above mentioned ten wholly owned subsidiaries stand amalgamated with Adani Power Limited and dissolved without being wound up.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 54,670 cr (Mar 2026) = 0.13× market cap; P/E 31.4 on Mar 2026 profit vs industry median 31.1 (15 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 896 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-06-03 | Updates | Adani Power Limited has informed the Exchange regarding 'Scheme of amalgamation of Stratatech Mineral Resources Private Limited, a wholly owned subsidiary of Ad | [pdf](https://nsearchives.nseindia.in/corporate/ADANIPOWER_03062024182722_APLschemeamalgamationSMRPL03062024.pdf) |
-| 2024-06-05 | Updates | Adani Power Limited has informed the Exchange regarding 'Intimation for Mirzapur Thermal Energy U.P. Private Limited becoming subsidiary of the Company upon all | [pdf](https://nsearchives.nseindia.in/corporate/ADANIPOWER_05062024210719_APLMTEUPPL05062024.pdf) |
-| 2024-09-27 | Updates | Adani Power Limited has informed the Exchange regarding 'Anuppur Thermal Energy (MP) Private Limited Becoming Subsidiary Of The Company'. | [pdf](https://nsearchives.nseindia.in/corporate/ADANIPOWER_27092024210117_APLATEMPLbecomingsubsidiary27092024.pdf) |
-| 2025-04-04 | General Updates | Adani Power Limited has informed the Exchange about Sanction Of The Scheme Of Amalgamation Of Adani Power (Jharkhand) Limited With Adani Power Limited By Hon'bl | [pdf](https://nsearchives.nseindia.in/corporate/ADANIPOWER_04042025211322_APLAPJLNCLTorder04042025.pdf) |
-| 2026-02-24 | Updates | Adani Power Limited has informed the Exchange regarding 'Press Release'. | [pdf](https://nsearchives.nseindia.com/corporate/ADANIPOWER_24022026083037_APLPressReleasereceiptofLoA24022026.pdf) |
-| 2026-08-27 | General Updates | Adani Power Limited has informed the Exchange about Signing of Agreement for sale of a Subsidiary | [pdf](https://nsearchives.nseindia.com/corporate/ADANIPOWER_27082026173638_APLSPACIPL27082026.pdf) |
-
-</details>
-
-## AKUMS — Akums Drugs and Pharmaceuticals Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2025-02-06, latest 2025-02-14
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-02-06; date not fixed
-
-**The stages, as filed:** meetings (2025-02-14)
-
-**What is being separated, as the documents put it:** No demerger disclosed; only three subsidiaries noted as hived off w.e.f. 01 April 2024 — class `not stated`.
-
-- *Insiders:* not stated for any separated entity; promoters are Mr. Sandeep Jain and Mr. Sanjeev Jain, both Managing Directors; ESOP 2022 excludes promoters and promoter group from eligibility
-- *What it reveals:* not stated; the only related balance-sheet reveal is the put option liability of Rs 13,615.12 million reclassified from financial liabilities to other equity on 29 May 2024, thereby increasing net worth
-- *Selling pressure:* unclear — Documents give no size, shareholding, index or distribution detail for the hived-off entities
-- *Parent or spin:* unclear · *option pricing date:* not stated; exercise price is based on Fair Market Value as on date of Grant of Options
-- *Read next:* FY25 annual report / scheme note on the three entities hived off w.e.f. 01 April 2024 — terms, consideration, transferee
-- *In their words:* “*Hived off w.e.f. 01 April 2024”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …rs of the Company to transfer from Akums Employee Benefit Trust upto 42,91,930 ESOP exercisable into 42,91,930 equity shares of face value of Rs 2/- each of the Company, at such price, in one or more tranches, from time to time, to the eligible employees of the C… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 648 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-02-06 | Integrated Filing- Financial | Integrated Filing | [pdf](https://nsearchives.nseindia.in/corporate/NSEAKUMS10_06022025190332_AKUMSINTEGRATEDFILINGSIGNED.pdf) |
-| 2025-02-14 | Shareholders meeting | Akums Drugs and Pharmaceuticals Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.in/corporate/NSEAKUMS10_14022025125717_Intimation_Postalballotsigned.pdf) |
-
-</details>
-
-## AVALON — Avalon Technologies Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 4 filing(s) from NSE · first 2024-05-16, latest 2024-05-16
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-05-16; date not fixed
-
-**What is being separated, as the documents put it:** not stated — no demerger, spin-off or subsidiary listing appears anywhere in these documents — class `not stated`.
-
-- *Insiders:* No new entity. Promoters hold 38.35% pre-issue; promoter Bhaskar Srinivasan and family trusts sold 40,08,705 shares (6.00%) on September 30, 2026; no promoter subscribes to warrants.
-- *What it reveals:* Nothing separated. Disclosed instead: India manufacturing at 16.7% EBITDA, 12.2% PAT vs US manufacturing losses ~INR5 crore; Zollner Elektronik AG buying INR425 crore of warrants at Rs.2,193.20, ~2.82% non-promoter stake.
-- *Selling pressure:* unclear — No spun entity exists; promoters did sell 6% via block deals, and warrant conversion adds 19,37,808 shares.
-- *Parent or spin:* neither · *option pricing date:* May 16, 2024
-- *Read next:* Zollner joint-venture agreement terms and the semiconductor-equipment vertical Avalon says it will split out in 2-3 years.
-- *In their words:* “Consequent to the proposed Preferential Issue of Warrants / resulting Equity Shares, there shall not be any change in control or change in management of the Company.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …allotted 50,987 equity shares to the employees pursuant to exercise of their ESOPs, at an exercise price of Rs. 20/ - as determined under the “ AVALON - Employee Stock Option Plan 202… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 914 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-16 | Outcome of Board Meeting | Avalon Technologies Limited has informed the Exchange regarding Board meeting held on May 16, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/AVALON_16052024211341_OutcomeoftheBM.pdf) |
-| 2024-05-16 | Allotment of Securities | Avalon Technologies Limited has informed the Exchange regarding allotment of 50987 securities pursuant to ESOP/ESPS at its meeting held on May 16, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/AVALON_16052024212638_OutcomeoftheBM.pdf) |
-| 2024-05-16 | Publish Audited Results | Avalon Technologies Limited has informed the Exchange about Publish Audited Results | [pdf](https://nsearchives.nseindia.in/corporate/AVALON_16052024212638_OutcomeoftheBM.pdf) |
-| 2024-05-16 | Financial Result Updates | Avalon Technologies Limited has submitted to the Exchange, the financial results for the period ended March 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/FinancialResultsReg33_16052024212247.pdf) |
-
-</details>
-
-## CAPILLARY — Capillary Technologies India Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-02-10, latest 2026-02-10
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-02-10; date not fixed
-
-**The stages, as filed:** meetings (2026-02-10)
-
-**What is being separated, as the documents put it:** Nothing spun off; closure and deregistration of non-operative step-down subsidiary Capillary Technologies (Shanghai) Co., Ltd. — class `bad_business`.
-
-- *Insiders:* No new entity exists. ESOP 2021 (72,91,000 options, Rs. 2 face value) extends to subsidiary employees; promoters, promoter group and independent directors are excluded from grants.
-- *What it reveals:* Nothing material revealed: the deregistered subsidiary had Revenue: Nil and Net worth: 0.50 million for FY ended March 31, 2026, and the Company states cessation has no impact on operations, revenue or financial position.
-- *Selling pressure:* unlikely — Dormant shell deregistered; no shares issued or distributed, nil revenue, not a material subsidiary, no stated index or shareholder impact.
-- *Parent or spin:* neither · *option pricing date:* not stated (ESOP exercise price "at such price as may be fixed or determined by the Board"; Board approved ratification February 06, 2026)
-- *Read next:* Red Herring Prospectus dated November 18, 2025, which disclosed the proposed China closure and pre-IPO grant of 29,61,948 options.
-- *In their words:* “Capillary Shanghai was not carrying on any business operations, and its proposed closure was disclosed in the RHP.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …SOPs”) exercisable into equity shares of the Company not exceeding 72,91,000 ESOPs exercisable into 72,91,000 equity shares of face value of R s. 2/- each of the Company under the ESOP 2021 , at such price as may be fixed or determined by the Board in accordance with the Act and othe… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 279 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-02-10 | Shareholders meeting | Capillary Technologies India Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.com/corporate/CAPILLARY12_10022026161429_Intimation_Postal_Ballot_Notice.pdf) |
-
-</details>
-
-## EDELWEISS — Edelweiss Financial Services Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 7 filing(s) from NSE · first 2024-12-05, latest 2026-11-02
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-12-05; date not fixed — Per the November 2, 2026 filing: "The offer period in relation to the IPO was closed on October 28, 2026. The shares were allotted to the investors on October 29, 2026 and admitted for listing and trading with effect from November 2, 2026." Earlier, April 24, 2026: SEBI observation letter "enables EAAA to proceed with IPO in next 12 months"; February 10, 2026: "on track for the listing".
-
-**Stated in the filings:** size hint: 2.6% of net worth.
-
-**What is being separated, as the documents put it:** EAAA India Alternatives Limited, the alternative asset management (investment manager to alternate-asset funds) business, listed via IPO offer for sale — class `value_unlocking`.
-
-- *Insiders:* ESIPL, a wholly owned subsidiary, is holding company and one of EAAA's promoters; post-IPO ESIPL holds 78.43%, and EFSL through all subsidiaries holds 83.88%. Management incentives not stated.
-- *What it reveals:* Alternatives segment made PBT of INR 241.40 Cr in nine months on capital employed of INR 989.53 Cr, FPAUM INR 41,920 Cr; IPO priced EAAA at Rs 1,665/share against EAAA net worth Rs 1,075.54 Cr and EFSL net worth INR 5,866 Cr.
-- *Selling pressure:* unlikely — No shares distributed to EFSL shareholders; shares sold through book-built IPO to investors, and parent retains 83.88%.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* EAAA's Red Herring Prospectus dated October 19, 2026 — promoter shareholding, EAAA standalone financials and post-IPO capital structure.
-- *In their words:* “We are pleased to share that we have filed EAAA's DRHP for IPO in January and are on track for the listing, marking the first step towards building EAAA as a standalone institutionalized platform.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 2.6% of net worth |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 711 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-12-05 | General Updates | Edelweiss Financial Services Limited has informed the Exchange about Disclosure under SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/EDELWEISS_05122024235444_ExchangeIntimation_EFSL.pdf) |
-| 2025-08-22 | General Updates | Edelweiss Financial Services Limited has informed the Exchange regarding investment by WestBridge Capital in Edelweiss Asset Management | [pdf](https://nsearchives.nseindia.in/corporate/EDELWEISS_22082025124626_ExchangeIntimation.pdf) |
-| 2026-01-20 | General Updates | EDELWEISS: Disclosure under the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_20012026185911_EFSLExchangeIntimation.pdf) |
-| 2026-04-24 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding 'Disclosure under the Securities and Exchange Board of India (Listing Obligations and D | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_24042026084616_ExchangeIntimationEAAA.pdf) |
-| 2026-10-20 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding 'Disclosure under the Securities and Exchange Board of India (Listing Obligations andDi | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_20102026105739_EFSLExchange_IntimationRHP.pdf) |
-| 2026-10-20 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding 'Disclosure under the Securities and Exchange Board of India (Listing Obligations and D | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_20102026144319_EFSLExchangeIntimationPriceband.pdf) |
-| 2026-11-02 | Updates | Edelweiss Financial Services Limited has informed the Exchange regarding Disclosure under the Securities and Exchange Board of India (Listing Obligations and Di | [pdf](https://nsearchives.nseindia.com/corporate/EDELWEISS_02112026134336_EFSLExchangedisclosureforEAAAListingFinal.pdf) |
-
-</details>
-
-## EXIDEIND — Exide Industries Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **LISTED 1–2Y — the second-year window** · score 2.9/10 · partial spin-off / listing · 3 filing(s) from NSE · first 2025-04-30, latest 2025-04-30
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-04-30; date not fixed
-
-**The stages, as filed:** record_date (2025-04-30)
-
-**Stated in the filings:** record date 2025-04-30.
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* EESL is a wholly owned subsidiary; EIL shareholding remains unchanged at 100%; promoter/promoter group/group companies have no interest in the transaction.
-- *What it reveals:* Lithium-ion cell business carried at cost inside the parent: Rs 4,802 crore equity invested to date, Rs 1,400 crore more planned FY27, FY24 loss Rs 149.45 crore; parent zero debt, HDFC Life shares marked through OCI.
-- *Selling pressure:* unclear — No listing, share-allotment ratio, index treatment or entity size for any separated company is stated in the documents.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* EESL standalone financials and the Board's Rs 1,400 crore FY27 funding approval; check for any scheme of arrangement filing.
-- *In their words:* “There is no change in the shareholding percentage of the Company in EESL pursuant to such an acquisition.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 1,575 cr (Mar 2026) = 0.04× market cap; P/E 44.5 on Mar 2026 profit vs industry median 41.6 (35 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | yes | 565 days since listing/record date; second year since listing — where the notes found the largest gains |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-04-30 | Outcome of Board Meeting | Exide Industries Limited has informed the Exchange regarding Outcome of Board Meeting held on April 30, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/EXIDEIND_30042025134149_sdFINALBMOUTCOME1.pdf) |
-| 2025-04-30 | Press Release | Exide Industries Limited has informed the Exchange regarding a press release dated April 30, 2025, titled "For the fourth quarter of the financial year 2024-25, | [pdf](https://nsearchives.nseindia.in/corporate/EXIDEIND_30042025135501_sdFINALBMOUTCOME1.pdf) |
-| 2025-04-30 | Record Date | Exide Industries Limited has informed the Exchange that Record date for the purpose of Dividend is 19-Jul-2025. | [pdf](https://nsearchives.nseindia.in/corporate/EXIDEIND_30042025141520_sdFINALBMOUTCOME1.pdf) |
-
-</details>
-
-## GAIL — GAIL (India) Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2026-07-31, latest 2026-10-30
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-07-31; date not fixed
-
-**What is being separated, as the documents put it:** GAIL Gas Limited, GAIL's wholly owned city gas distribution subsidiary, partly listed via IPO — class `not stated`.
-
-- *Insiders:* GGL is a wholly owned subsidiary of GAIL; GAIL dilutes up to 25% and retains the rest. No management stake or incentive stated.
-- *What it reveals:* A separately priced CGD business: GGL Q3 FY26 turnover Rs.3,292 crore, PBT Rs.143 crore, 7.8 MMSCMD, 12,46,000 DPNG connections and 674 CNG stations, plus six CGD areas transferred from 01.01.2027.
-- *Selling pressure:* unlikely — IPO dilution, not a share distribution to GAIL holders; no index exclusion or forced selling described in documents.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* GGL's final IPO proposal: BRLM valuation, price band and final extent of dilution approved by GAIL Board
-- *In their words:* “This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 24,831 cr (Mar 2026) = 0.21× market cap; P/E 15.7 on Mar 2026 profit vs industry median 12.5 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 108 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-07-31 | Scheme of Arrangement | GAIL (India) Limited has informed the Exchange about Scheme of Arrangement | [pdf](https://nsearchives.nseindia.com/corporate/DEVIKA_31072026140652_KLL_Signed.pdf) |
-| 2026-10-30 | General Updates | GAIL (India) Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/DEVIKA_30102026145647_GAIL_Gas_Listing.pdf) |
-
-</details>
-
-## IEX — Indian Energy Exchange Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-07-15, latest 2026-07-15
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-07-15; date not fixed — DRHP dated July 14, 2026 filed with SEBI and BSE on July 14, 2026 (intimation July 15, 2026); at the July 24, 2026 Analyst Meet: "they filed the DRHP in this month and hopefully (would be) getting listed soon"; PNGRB stake-reduction deadline 31 December 2026
-
-**What is being separated, as the documents put it:** Indian Gas Exchange Limited (IGX), IEX's associate company and India's only natural gas exchange, partly sold via IPO offer-for-sale — class `regulatory_strategic`.
-
-- *Insiders:* IEX today holds 47.3% (earlier stated 47.5%) and offers up to 16,710,000 shares to sell 22.3%, retaining 25%; no IGX reservation for IEX shareholders; no management stake stated
-- *What it reveals:* IGX: only natural gas exchange in India, ~3% of gas consumption and 20% of spot market, 50+ participants, FY26 volume 76.8 million MMBtu, PAT Rs 42 crore (+28-35%), inside IEX's Rs 492-493 crore consolidated PAT and 42-44% ROE
-- *Selling pressure:* likely — IEX is a forced seller against the PNGRB 31 December 2026 deadline; no shares distributed to IEX shareholders, so no index-driven dumping
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* IGX's DRHP dated July 14, 2026 — offer price/valuation, IGX standalone financials and risk factors
-- *In their words:* “As per PNGRB (Petroleum and Natural Gas Board) regulati ons, we have to bring this down to 25% within 5 years.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 11 cr (Mar 2026) = 0.00× market cap; P/E 23.9 on Mar 2026 profit vs industry median 24.6 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 124 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-07-15 | Updates | Indian Energy Exchange Limited has informed the Exchange regarding 'Filing of DRHP of Indian Gas Exchange Limited , An Associate Company of Indian Energy Exchan | [pdf](https://nsearchives.nseindia.com/corporate/IEX_15072026114919_Signed_IEX_Intimation_IGX_DRHP_14_07_2026.pdf) |
-
-</details>
-
-## JYOTICNC — Jyoti CNC Automation Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 3 filing(s) from NSE · first 2024-08-10, latest 2025-02-10
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2024-08-10; date not fixed
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* not stated
-- *What it reveals:* not stated as a separation; documents instead show a loss-making foreign subsidiary (Jyoti SAS, France) with eroded net worth carried without impairment, and management refusing to sell Huron.
-- *Selling pressure:* unclear — No demerger, spin-off or subsidiary listing is disclosed; no size, index-exclusion or industry-difference facts are stated.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Note 4 on subsidiary net-worth erosion and no impairment, plus the Huron export-control investigation disclosure
-- *In their words:* “This subsidiary including step down subsidiary is making losses over certain years which has resulted in the erosion of networth of company's subsidiary.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 853 cr (Mar 2026) = 0.05× market cap; P/E 54.7 on Mar 2026 profit vs industry median 47.9 (59 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 828 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-08-10 | Financial Result Updates | Jyoti CNC Automation Limited has submitted to the Exchange, the financial results for the period ended June 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/StockExchangeIntimationRESULTsJCALJune2024_Signed_10082024134627.pdf) |
-| 2025-02-08 | Financial Result Updates | Jyoti CNC Automation Limited has submitted to the Exchange, the financial results for the period ended December 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BSEnseBMoutcomeIntimationJCAL08022025_08022025140603.pdf) |
-| 2025-02-10 | Integrated Filing- Financial | Integrated Filing (Financial) for the quarter/ nine months ended on December 31, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/JYOTICNC_NSE_10022025115235_BSEnseQuarterlyIntegratedFilingFinancialResultsJCAL31122024.pdf) |
-
-</details>
-
-## NIACL — The New India Assurance Company Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-09-09, latest 2026-09-09
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-09-09; date not fixed — Filing of 9 September 2026: shares transferred to the "Escrow Account" on 08th September 2026; "The expected date of completion of sale/disposal: End of September 2026 (As indicated by NSE)"
-
-**What is being separated, as the documents put it:** No business is separated; NIACL sells 1,05,00,000 equity shares of National Stock Exchange of India Ltd via offer for sale — class `not stated`.
-
-- *Insiders:* not stated
-- *What it reveals:* NIACL's NSEIL holding paid Rs 123,20,00,000 dividend in FY2025-26; the IPO puts a market price on the stake, of which only 29.83% is tendered, leaving roughly 70% held and still unpriced on NIACL's books.
-- *Selling pressure:* unlikely — No shares distributed to NIACL holders; stake monetised for cash through an offer for sale in NSE's IPO
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* NSE IPO prospectus/price band, to value the 70% NSEIL stake NIACL retains
-- *In their words:* “Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that The New India Assurance Co. Ltd. proposes to divest 1,05,00,000 equity shares of the National Stock Exchange of India Ltd. (NSEIL).”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 0 cr (Mar 2026) = 0.00× market cap; P/E 20.2 on Mar 2026 profit vs industry median 24.4 (97 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 68 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-09-09 | General Updates | The New India Assurance Company Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.com/corporate/NIACL_09092026131744_Reg_30_OFS_NSE.pdf) |
-
-</details>
-
-## NLCINDIA — NLC India Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **SPINNING — record date set; the new entity lists soon** · score 2.9/10 · partial spin-off / listing · 3 filing(s) from NSE · first 2026-11-04, latest 2026-11-04
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-11-04; date not fixed
-
-**The stages, as filed:** announced (2026-11-04) → record_date (2026-11-04)
-
-**What is being separated, as the documents put it:** NLCIL's renewable energy assets (1,430 MW) housed in NLC India Renewables Limited, to be IPO'd — class `regulatory_strategic`.
-
-- *Insiders:* NIRL is a 100% subsidiary of NLCIL ('Navratna' Government of India Enterprise); NLCIL invested Rs 2,000 crore on 12.10.2026, total investment Rs 5,119.75 crore. Management stake/incentives not stated.
-- *What it reveals:* Renewables segment carries Rs 10,881.76 crore assets vs only Rs 462.27 crore H1 revenue and Rs 237.08 crore segment result; parent's NIRL investment Rs 5,119.75 crore; consolidated debt-equity 1.20 vs standalone 0.44 — leverage sits in subsidiaries.
-- *Selling pressure:* unlikely — Separation is via IPO/Offer for Sale of up to 10 crore shares by the parent, not a distribution of shares to NLCIL shareholders.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* NIRL's DRHP / standalone financials — the ten subsidiaries' Rs 40,136.62 crore assets vs Rs 144.73 crore half-year profit
-- *In their words:* “In line with the National Monetization Pipeline and in consultation with the Ministry of Coal, NLCIL executed a Business Transfer Agreement (BTA) with NLC India Renewables Limited on 31st October 2025 for transferring 1,430 MW of renewable energy assets.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 27,892 cr (Mar 2026) = 0.68× market cap; P/E 11.0 on Mar 2026 profit vs industry median 31.1 (15 peers) |
-| Parent before the spin (clean parent, takeover prelude) | no | stage record_date — the pieces trade separately now |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | 12 days since listing/record date; first year since listing — the selling-pressure window; watch, size the entry |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-11-04 | Outcome of Board Meeting | NLC India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026135958_573_BM_-_Outcome_04112026_Signed.pdf) |
-| 2026-11-04 | Record Date | NLC India Limited has informed the Exchange that Record date for the purpose of Dividend is 12-Nov-2026. | [pdf](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026140709_573_BM_-_Outcome_04112026_Signed.pdf) |
-| 2026-11-04 | Updates | NLC India Limited has informed the Exchange regarding 'Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value ofRs.10 each held by t | [pdf](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026142212_573_BM_-_Outcome_04112026_Signed.pdf) |
-
-</details>
-
-## NTPCGREEN — NTPC Green Energy Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 3 filing(s) from NSE · first 2025-05-21, latest 2025-07-31
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-05-21; date not fixed — "the Company's equity shares were subsequently listed on the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE) on November 27, 2024" — stated in filings dated 25 January 2025, 21 May 2025 and 28 July 2025
-
-**What is being separated, as the documents put it:** NTPC's renewable energy power generation business, housed in NTPC Green Energy Limited, listed via IPO — class `not stated`.
-
-- *Insiders:* Documents describe NGEL only as "A Subsidiary of NTPC Limited"; no promoter stake percentage given. 87,20,910 shares went to eligible employees at a discounted ₹103 vs ₹108 issue price.
-- *What it reveals:* IPO raised ₹10,000 crore, ₹7,500 crore earmarked to repay NTPC REL borrowings (₹4,150 crore used, ₹3,350 crore still in bank deposits); heavy leverage (₹17,301 crore non-current borrowings) and ₹13,983 crore consolidated CWIP against only ₹474 crore FY25 consolidated profit.
-- *Selling pressure:* unclear — Documents record a fresh-issue IPO listing, not a share distribution to parent holders; no index or holder-dispersal facts stated.
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* The IPO prospectus / shareholding pattern for NTPC Limited's residual promoter stake, and CWIP-to-capacity conversion schedule.
-- *In their words:* “The Company is engaged primarily in the business of power generation from renewable energy sources and, as such, does not have any separate reportable segments in accordance with IND AS 108, "Operating Segments."”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 31,716 cr (Mar 2026) = 0.42× market cap; P/E 145.6 on Mar 2026 profit vs industry median 28.6 (15 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 544 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-05-21 | Outcome of Board Meeting | NTPC Green Energy Limited has submitted to the Exchange, the financial results for the period ended March 31, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/nitinjaiswal01_21052025150751_NGEL_AFR_31032025__1_.pdf) |
-| 2025-07-28 | Outcome of Board Meeting | NTPC Green Energy Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/jkalita01_28072025175332_NGEL_QFR_30062025.pdf) |
-| 2025-07-31 | Updates | NTPC Green Energy Limited has informed the Exchange regarding ''Submission of updated financial results for the period ended 30.06.2025" | [pdf](https://nsearchives.nseindia.in/corporate/jkalita01_31072025161905_Updated_Financial_Results.pdf) |
-
-</details>
-
-## OSWALPUMPS — Oswal Pumps Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2025-11-13, latest 2026-02-07
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-11-13; date not fixed
-
-**What is being separated, as the documents put it:** not stated — no demerger, spin-off or subsidiary listing is disclosed in these documents — class `not stated`.
-
-- *Insiders:* Oswal Solar Energy is wholly owned; promoter group member Mr Narinder Nath Goela holds 4.30% of Walso Solar; COO granted ESOPs worth ₹3 millions
-- *What it reveals:* No separation disclosed; filings instead reveal vertical integration — Oswal Solar (FY25 turnover INR 4,522.46 mn), Walso Solar (FY26 turnover INR 1,702.65 mn), and a proposed 1.2 GW captive solar cell plant costing Rs. 4,558.50 million
-- *Selling pressure:* unclear — No demerger or subsidiary listing is on file; documents describe only acquisitions, capex and a new line of business
-- *Parent or spin:* neither · *option pricing date:* November 13, 2025
-- *Read next:* The postal ballot notice on the IPO-objects variation and the 1.2 GW solar cell plant's funding detail
-- *In their words:* “The Board on November 13, 2025, based on the recommendations of the Nomination and Remuneration Committee, approved the grant of ESOPs to Mr Avadesh K. Singh (President and Chief Operating Officer) having a market value of ₹ 3 millions as on the date of grant under the Employee Stock Option Plan 2024 in accordance with the terms of his employment agreement.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …mmendations of the Nomination and Remuneration Committee, approved the grant of ESOPs to Mr Avadesh K. Singh (President and Chief Operating Officer) having a market value of� 3 millions as on the date of grant under the Employee Stock Option Plan 2024 in accordance with the terms of his… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 368 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-11-13 | Outcome of Board Meeting | Oswal Pumps Limited has submitted to the Exchange, the financial results for the period ended September 30, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_13112025192318_SELetterOutcomeOPL13112025.pdf) |
-| 2026-02-07 | Outcome of Board Meeting | Oswal Pumps Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/OSWALPUMPS_07022026182126_SELetterOutcomeOPL07022026.pdf) |
-
-</details>
-
-## TRENT — Trent Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2026-10-23, latest 2026-10-23
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-10-23; date not fixed — Stated 23rd October 2026: acquisition is "subject to the execution of the definitive transaction documents and completion of the initial public offer of the proposed first scheme of the Trust"; completion "expected to be completed following the completion of the initial public offer of the proposed first scheme of the Trust and satisfaction of the conditions precedent" — no date given.
-
-**What is being separated, as the documents put it:** Netria Property Holdings Limited, the group's property-holding subsidiary owning premises occupied by Trent, sold into an SM REIT — class `not stated`.
-
-- *Insiders:* not stated for the new entity; documents only say the buyers do not belong to the promoter/promoter group/group companies and the transaction is not a related party transaction.
-- *What it reveals:* Separation reveals owned real estate inside a retailer: Netria, incorporated 4th September 2025, carries loans of about ₹171.91 crore, is sold at Rs 11.25 per equity share, and Trent plans to lease back the same premises.
-- *Selling pressure:* unlikely — Cash sale of shares to a trust ahead of its IPO; no shares distributed to Trent shareholders, so no forced selling.
-- *Parent or spin:* parent · *option pricing date:* 15th April 2026 (ESOP 2026 exercise price Rs. 3,978, basis NSE closing price on date of NRC meeting approving the Plan)
-- *Read next:* The Share Purchase Agreement when executed, plus Netria's share count behind the Rs 11.25 per share consideration.
-- *In their words:* “Upon completion of the proposed transfer, Netria shall cease to be a subsidiary of Nahar and, consequently, of the Company.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 2,561 cr (Mar 2026) = 0.02× market cap; P/E 93.1 on Mar 2026 profit vs industry median 38.9 (17 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 24 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-10-23 | Sale or disposal | Trent Limited has informed the Exchange about Nahar Retail Trading Services Limited ( Nahar ), a wholly owned subsidiary of the Company, has entered into a bind | [pdf](https://nsearchives.nseindia.com/corporate/TRENT_23102026194710_Reg30DivestmentofstepdownsubsidiaryofNahar.pdf) |
-
-</details>
-
-## VIKRAMSOLR — Vikram Solar Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · partial spin-off / listing · 1 filing(s) from NSE · first 2025-09-15, latest 2025-09-15
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2025-09-15; date not fixed
-
-**The stages, as filed:** meetings (2025-09-15)
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* No new entity disclosed; ESOP 2021 excludes promoters and promoter-group employees; directors interested only to extent of shareholding or options granted.
-- *What it reveals:* not stated — no separation disclosed; the only value item is dilution of up to 1,30,00,000 equity shares, 5.02% of diluted capital, under ESOP 2021.
-- *Selling pressure:* unclear — Documents disclose no demerger, spin-off or subsidiary listing — only ESOP 2021 ratification and delivery-fee resolutions.
-- *Parent or spin:* neither · *option pricing date:* not stated
-- *Read next:* The ESOP-2021 scheme document at vikramsolar.com/investors/employees-stock-option-scheme-2021 for the exercise-price formula.
-- *In their words:* “The equity shares of the Company were listed on the National Stock Exchange of India Limited and BSE Limited on August 26, 2025.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …ommittee (“NRC”), to create, offer, issue, re-issue, grant and allot employee stock options (“Options”) to eligible employees on such terms and conditions as provided in the ESOP - 2021 including the price or prices as may be determined by the Board in accordance with the ESOP - 2021… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 427 days since the first filing, stage meetings |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-09-15 | Shareholders meeting | Vikram Solar Limited has informed the Exchange regarding Notice of Postal Ballot | [pdf](https://nsearchives.nseindia.in/corporate/VSLCS_15092025202314_VSLPBintimation15092025.pdf) |
-
-</details>
-
-## BLUESTONE — BlueStone Jewellery and Lifestyle Ltd.
-
-**PROBABLE** (a subsidiary's listing is in motion (DRHP / board approval)) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.1/10 · partial spin-off / listing · 2 filing(s) from NSE · first 2026-09-02, latest 2026-09-02
-
-> **Listing:** IPO / listing of the subsidiary in motion since 2026-09-02; date not fixed
-
-**What is being separated, as the documents put it:** not stated — class `not stated`.
-
-- *Insiders:* not stated for any new entity; documents say Ethereal, a subsidiary, is 74% held by BlueStone with the rest with founders Nitesh and Sharad
-- *What it reveals:* not stated
-- *Selling pressure:* unclear — No separation disclosed; 360 ONE funds sold 35,13,672 shares (2.30%) in open market, unrelated to any listing
-- *Parent or spin:* unclear · *option pricing date:* not stated
-- *Read next:* Board outcome or scheme filing announcing the subsidiary listing; none of these filings mentions any demerger or separation
-- *In their words:* “This is to inform you that the Company has received a disclosure dated September 28, 2026 from 360 One Alternates Asset Management Limited Shareholder of the Company pursuant to Regulation 29 (2) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 in respect of sale of 35,13,672 Equity Shares of the Company through the open Market on September 24, 2026.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
-| Timing (first year sells, second year gains) | partly | not yet listed — 75 days since the first filing, stage announced |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2026-09-02 | Outcome of Board Meeting | BlueStone Jewellery and Lifestyle Limited has informed the Exchange regarding Outcome of Board Meeting held on September 02, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/BLUESTONE_02092026120931_Outcome_of_BM.pdf) |
-| 2026-09-02 | Change in Company Secretary/Compliance O | BlueStone Jewellery and Lifestyle Limited has informed the Exchange about Change in Company Secretary/Compliance Officer | [pdf](https://nsearchives.nseindia.com/corporate/BLUESTONE_02092026122420_Appointment_of_CS.pdf) |
 
 </details>
 
@@ -10995,6 +9459,91 @@ No rationale on file: no call passages and no scheme rationale text.
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2025-11-01 | Earnings call Nov 2025 | …e and if you consider around 25% of PLF, you can calculate how many this million units will be there. Paras Chheda: And sir, this last query, we were trying to |  |
+
+</details>
+
+## GREAVESCOT — Greaves Cotton Ltd.
+
+**INDICATED** (the subsidiary's IPO was withdrawn — Accordingly, in view of the proposed rights issue and the restrictions under the SEBI ICDR Regulations in relation to further issuances, our Company does not propose to avail the one time relaxation g) · **WITHDRAWN — the proposal was pulled; watch for a return** · score 3.6/10 · partial spin-off / listing · 5 filing(s) from NSE · first 2024-05-08, latest 2026-10-29
+
+> **Listing:** WITHDRAWN on  — the proposal was pulled; no listing
+
+**What is being separated, as the documents put it:** Greaves Electric Mobility Limited, the electric two- and three-wheeler business of Greaves Cotton, via a subsidiary IPO listing — class `value_unlocking`.
+
+- *Insiders:* Greaves Cotton holds 62.48% of GEML, unchanged after the Rs 530 crore rights issue (GCL Rs 331.12 crore, ALJ Green Mobility Rs 198.87 crore); post-IPO intended below 51% but remaining a significant large shareholder
+- *What it reveals:* Core Engines and Engineering Products earned Rs 416.52 crore segment profit in FY26 while Electric Mobility lost Rs 182.01 crore; standalone PAT Rs 200.07 crore versus consolidated owners' profit Rs 107.14 crore. GEML net worth only Rs 117.75 crore
+- *Selling pressure:* unlikely — Offer withdrawn; no shares distributed to Greaves Cotton shareholders, so no index exclusion or industry-mismatch forced selling
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* GEML's own financials: Electric Mobility segment losses, Rs 117.75 crore net worth, and whether the lapsed DRHP is refiled
+- *In their words:* “While GEML has presently decided not to avail itself of the SEBI extension for the proposed Offer, it remains committed to pursuing a public listing at an appropriate time, subject to market conditions, regulatory approvals and other relevant considerations.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…did not avail the one-time extension of SEBI observations , considering the proposed rights issue and related regulatory restrictions. Consequently , I PO-related expenses of Rs 1. 72 crore have been recognized in the Statemen t of Profit and…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…did not avail the one-time extension of SEBI observations , considering the proposed rights issue and related regulatory restrictions. Consequently , I PO-related expenses of Rs 1. 72 crore have been recognized in the S” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 922 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-05-08 | Updates | Greaves Cotton Limited has informed the Exchange regarding 'Update on Board Meeting held today i.e., 08th May, 2024'. | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_08052024145743_SignedGREAVESCOT08052024Fundraising.pdf) |
+| 2024-12-01 | General Updates | Greaves Cotton Limited has informed the Exchange about the proposed Initial Public Offering by a material subsidiary of the Company, Greaves Electric Mobility L | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_01122024153601_GREAVES01122024.pdf) |
+| 2024-12-11 | General Updates | Greaves Cotton Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_11122024155618_Greaves_11122024.pdf) |
+| 2024-12-23 | General Updates | Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_23122024224409_Greavescot_23122024.pdf) |
+| 2026-10-29 | Outcome of Board Meeting | Greaves Cotton Limited has submitted to the Exchange, the financial results for the quarter and half year ended September 30, 2026. | [pdf](https://nsearchives.nseindia.com/corporate/GREAVESCOT_29102026143831_GCL_Interimoutcomesd.pdf) |
+
+</details>
+
+## HINDALCO — Hindalco Industries Ltd.
+
+**INDICATED** (the subsidiary's IPO was withdrawn — Pursuant to the above referred, please note that Novelis Inc., a wholly owned subsidiary of the Company has announced the postponement of its initial public offering due to market conditions.) · **WITHDRAWN — the proposal was pulled; watch for a return** · score 3.6/10 · partial spin-off / listing · 4 filing(s) from NSE · first 2024-05-14, latest 2026-06-22
+
+> **Listing:** WITHDRAWN on  — the proposal was pulled; no listing
+
+**What is being separated, as the documents put it:** Novelis Inc., Hindalco's wholly owned global aluminium rolling and recycling subsidiary, via NYSE IPO of minority stake — class `value_unlocking`.
+
+- *Insiders:* Selling shareholder is A V Minerals (Netherlands) N.V., a wholly owned Hindalco subsidiary; post-IPO a Hindalco subsidiary retains 555,000,000 shares, 92.5% (91.4% if over-allotment exercised). Other incentives not stated.
+- *What it reveals:* Reveals Novelis as the group's largest business: FY24 segment revenue ₹134,175 crore and segment result ₹15,507 crore of ₹215,962 crore / ₹27,829 crore consolidated; IPO range $18–21 on ~600m shares. Later calls show Novelis carrying the group's leverage (gross debt ₹75,000 crore) while India is net-cash.
+- *Selling pressure:* unlikely — A 45,000,000-share (7.5%) cash IPO to new buyers, not a distribution to Hindalco holders; no index exclusion stated; offering postponed.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* Novelis Inc.'s Form F-1 registration statement filed with the SEC (announced May 13–14, 2024).
+- *In their words:* “After the completion of the IPO, a wholly owned subsidiary of Hindalco will own 555,000,000 shares of Novelis' common shares, representing 92.5% of Novelis' total outstanding common shares (or 91.4% if the underwriters exercise in full their over-allotment option).”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 99,165 cr (Mar 2026) = 0.45× market cap; P/E 16.4 on Mar 2026 profit vs industry median 22.9 (16 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Partial spin-off: price the stub from the listed piece | partly | a subsidiary is being listed; once it trades, stub = parent price − (stake value ÷ parent shares) *(next: stub_value(parent price, parent shares, [(sub price, shares held)]))* |
+| Timing (first year sells, second year gains) | partly | not yet listed — 916 days since the first filing, stage announced |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-05-14 | Press Release | Hindalco Industries Limited has informed the Exchange regarding a press release dated May 14, 2024, titled "Novelis Files Registration Statement for Proposed In | [pdf](https://nsearchives.nseindia.in/corporate/HINDALCO_14052024035641_Reg_30_Novelis_Revised_Signed.pdf) |
+| 2024-05-28 | Press Release | Hindalco Industries Limited has informed the Exchange regarding a press release dated May 28, 2024, titled "Novelis Announces Launch of Initial PublicOffering R | [pdf](https://nsearchives.nseindia.in/corporate/HINDALCO_28052024165517_Novelis_roadshow_PR_signed.pdf) |
+| 2024-06-05 | Press Release | Hindalco Industries Limited has informed the Exchange regarding a press release dated Jun 05, 2024, titled "Novelis Announces Postponement of Initial Public Off | [pdf](https://nsearchives.nseindia.in/corporate/HINDALCO_05062024064649_Novelis_Cancel_IPO_PR_signed.pdf) |
+| 2026-06-22 | General Updates | Hindalco Industries Limited has informed the Exchange about Strike Off of Wholly Owned Subsidiary | [pdf](https://nsearchives.nseindia.com/corporate/HINDALCOIND_22062026222143_Strike_off_intimation_signed.pdf) |
 
 </details>
 

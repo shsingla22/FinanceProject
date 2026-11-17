@@ -14,6 +14,8 @@
 | …verified by a record date that came AFTER 2025-03-31 (the register up to today) | 9 |
 | …pending (no record date to date) | 1 |
 | …FALSE POSITIVES | 0 |
+| Partial spin-offs (subsidiary IPOs, announced or listed) | 6 |
+| …flagged as a subsidiary listing and found not to be one (excluded) | 12 |
 | Probable demergers | 26 |
 | Indicated demergers | 21 |
 | Situations in all | 1380 |
@@ -52,6 +54,17 @@
 | **DBREALTY** | nclt_sanction | NOT YET (nclt_sanction); timeline stated | verified by a later record date (2025-07-18) |
 | **SANOFI** | record_date | LISTED since ~2024-06-13 | verified by the register |
 | **SANOFICONR** | listed | THIS IS THE SPIN-OFF — listed 2024-09-13 | verified by NSE's equity list — this company is the listed resulting company (listed 2024-09-13) |
+
+## Partial spin-offs as of the run
+
+| Company | Subsidiary | IPO stage | Listed on | Source of the date |
+|---|---|---|---|---|
+| **BAJFINANCE** | Bajaj Housing Finance Limited | listed | 2024-09-16 | NSE equity list |
+| **AEGISLOG** | Aegis Vopak Terminals Limited | DRHP filed |  |  |
+| **BRIGADE** | Brigade Hotel Ventures Limited | DRHP filed |  |  |
+| **CANBK** | Canara HSBC Life Insurance Company Ltd | board approval |  |  |
+| **EDELWEISS** | EAAA India Alternatives Limited | DRHP filed |  |  |
+| **MUTHOOTFIN** | Belstar Microfinance Limited | SEBI observations |  |  |
 
 ## Misses, with what the skill held
 

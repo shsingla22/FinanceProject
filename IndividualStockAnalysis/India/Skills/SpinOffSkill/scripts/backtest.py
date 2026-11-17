@@ -71,6 +71,7 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
     prob = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "probable"]
     ind = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "indicated"]
     part = [s for s in sits if s["kind"] == "subsidiary_listing" and s["confidence"][0] == "confirmed"]
+    part += [s["also_partial"] for s in sits if s.get("also_partial")]
     not_listing = [s for s in sits if s["kind"] == "subsidiary_listing" and s["confidence"][0] == "other"]
     s = res["summary"]
     A = [f"# Backtest {label} — the demerger skill as of {to}, filings {frm} → {to}", "",

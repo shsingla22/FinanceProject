@@ -1378,6 +1378,45 @@ def test_report_puts_partial_spin_offs_below_the_demergers_and_drops_the_noise(t
     assert "# Partial spin-offs (subsidiary IPOs) — in full" in md and "**The partial spin-off:** **HDB Financial Services Limited**" in md
 
 
+def test_a_subsidiary_ipo_hidden_behind_a_demerger_situation_is_found(tmp_path, monkeypatch):
+    monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
+    monkeypatch.setattr(SO, "_EQUITY", ({"HDBFS": "2025-07-02"}, {SO._norm_name("HDB Financial Services Limited"): "HDBFS"}))
+    today = dt.date(2026, 11, 16)
+    def runner(prompt):
+        if "possible LISTING OF A SUBSIDIARY" in prompt:
+            return json.dumps({"what_it_is": "subsidiary_already_listed", "subsidiary": "HDB Financial Services Limited",
+                               "ipo_stage": "listed", "quote": "HDBFS completed its IPO"})
+        return json.dumps({"what_is_spun": "the ice cream business", "parent_or_spin": "parent", "selling_pressure": "likely"})
+    monkeypatch.setattr(AZ, "scheme_text_for", lambda s, rows, budget=AZ.FILINGS_CHARS: "filings " * 100)
+    monkeypatch.setattr(AZ, "calls_text_for", lambda sym, months, today, budget=AZ.CALLS_CHARS: "")
+    heads = [{"date": "2025-07-03", "category": "Updates", "kind": "subsidiary_listing", "headline": "IPO of subsidiary", "attachment": ""},
+             {"date": "2025-10-18", "category": "Outcome of Board Meeting", "kind": "demerger", "headline": "financial results", "attachment": ""}]
+    def base(conf_facts):
+        return {**_listing_sit(), "kind": "demerger", "family": "spin-off", "headlines": heads, "checklist": [],
+                "verdict": {"label": "x", "score": 3.0}, "reasons": [], "concall_mentions": [], **conf_facts}
+    # a text-only (probable) demerger: the company becomes the partial spin-off it really is
+    s = base({})
+    monkeypatch.setattr(SO, "confidence", lambda sit: ("probable", "text-only"))
+    AZ.enrich(s, [], True, today, {}, runner=runner, list_only=True)
+    assert s["kind"] == "subsidiary_listing" and s["confidence"][0] == "confirmed" and s["listed_on"] == "2025-07-02"
+    assert s["facts"]["previously_held_as"] == "demerger / probable" and "also_partial" not in s
+    # a demerger the register records stays a demerger, and is ALSO shown as a partial spin-off
+    s = base({"facts": {"record_date": "2025-12-05", "record_date_source": "NSE corporate-actions register"}})
+    monkeypatch.setattr(SO, "confidence", lambda sit: ("confirmed", "a demerger scheme is on the exchange record"))
+    AZ.enrich(s, [], True, today, {}, runner=runner, list_only=True)
+    assert s["kind"] == "demerger" and s["confidence"][0] == "confirmed"
+    assert s["also_partial"]["facts"]["subsidiary"] == "HDB Financial Services Limited" and s["also_partial"]["stage"] == "listed"
+    record = {"meta": {"run_date": "2026-11-16", "window_from": "a", "window_to": "b", "filings": 1, "companies": 1,
+                       "universe": 750, "judge": "t"}, "situations": [s], "call_only": []}
+    md = AZ.render_report(record)
+    assert "1 confirmed demergers, 1 partial spin-offs" in md and "*(the company also has a demerger on file)*" in md
+    # no subsidiary-listing filing among the headlines: the question is not asked
+    asked = []
+    s = base({"headlines": heads[1:]})
+    AZ.enrich(s, [], True, today, {}, runner=lambda p: asked.append(p) or runner(p), list_only=True)
+    assert not any("possible LISTING OF A SUBSIDIARY" in p for p in asked) and s["kind"] == "demerger"
+
+
 def test_rules_from_the_long_backtests_unverified_list(monkeypatch):
     base = {"symbol": "X", "company": "X Ltd", "kind": "demerger", "stage": "announced", "facts": {}, "headlines": [],
             "first_filing": "2024-06-26", "confidence": ("confirmed", "")}

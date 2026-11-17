@@ -75670,6 +75670,32 @@
     "exchange": "BSE Limited and National Stock Exchange of India Limited",
     "timeline": "not stated",
     "quote": "In this connection, we wish to inform you that Swara Baby has filed a DRHP dated July 02, 2026 with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited for an IPO aggregating up to Rs. 10,000 million, comprising of a Fresh Issue of such number of Equity Shares of face value of Rs. 2/- each, aggregating up to Rs. 5,000 million and an OFS of such number of Equity Shares of face value of Rs. 2/- each, aggregating to Rs. 5,000 million"
+   },
+   "2e0337a2f51246e23cc134a1d9973f98": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Swara Baby Products Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "76.59%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "In this connection, we wish to inform you that Swara Baby has filed a DRHP dated July 02, 2026 with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited for an IPO aggregating up to Rs. 10,000 million, comprising of a Fresh Issue of such number of Equity Shares of face value of Rs. 2/- each, aggregating up to Rs. 5,000 million and an OFS of such number of Equity Shares of face value of Rs. 2/- each, aggregating to Rs. 5,000 million"
+   },
+   "e1a031988b565402ac3050147be5df3f": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "National Stock Exchange of India Limited and BSE Limited",
+    "timeline": "not stated",
+    "quote": "The Company received net proceeds of INR 16,017.35 million from the issuance of 35,834,699 shares through Its Initial Public Offering (\"IPO\")."
    }
   }
  },
@@ -75703,6 +75729,21 @@
     "exchange": "BSE and NSE (RHP filed with RoC, SEBI, BSE and NSE)",
     "timeline": "Filing dated 23.12.2025: Ministry of Coal Office Memorandum I/37811/2025 dated 16.12.2025 \"had advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year\"; RHP of MCL dated 13th November, 2026 filed",
     "quote": "The RHP filing pertains to the proposed initial public offering (\u201cIPO\u201d) of MCL comprising an offer for sale of up to 661,836,300 equity shares by Coal India Limited, which remains subject to receipt of applicable approvals, market conditions, and other relevant considerations."
+   },
+   "cbf1ee18aa8094b9ceab73d7706ec57e": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Mahanadi Coalfields Limited",
+    "other_subsidiaries": [
+     "South Eastern Coalfields Limited"
+    ],
+    "relation": "subsidiary",
+    "parent_stake_before": "100% (wholly owned subsidiary of Coal India Limited)",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "SEBI observations",
+    "listing_date": "not stated",
+    "exchange": "BSE and NSE",
+    "timeline": "Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year (filing dated 23.12.2025)",
+    "quote": "The RHP filing pertains to the proposed initial public offering (\"IPO\") of MCL comprising an offer for sale of up to 661,836,300 equity shares by Coal India Limited, which remains subject to receipt of applicable approvals, market conditions, and other relevant considerations."
    }
   }
  },
@@ -75732,6 +75773,19 @@
     "exchange": "not stated",
     "timeline": "Allotment is expected to take place on or about July 18, 2026 (per the annexure to the letter dated July 11, 2026); the IPO was open for subscription by the public on Tuesday, July 14, 2026 and closed on Thursday, July 16, 2026",
     "quote": "We have been informed by SBIFM that it has filed a red herring prospectus dated July 8, 2026 with the Registrar of Companies, Mumbai \u2013 I at Mumbai (\"RHP\"), in relation to the proposed initial public offering of its equity shares of Rs. 1 (one) each (\"Equity Shares\")."
+   },
+   "6e6ca018fe9ad27270668aa917951aab": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "SBI Funds Management Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "offer open",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "Allotment is expected to take place on or about July 18, 2026 (filing dated 11.07.2026); IPO opened for subscription on Tuesday, July 14, 2026 and closed on Thursday, July 16, 2026",
+    "quote": "This is in relation to the initial public offering of SBI Funds Management Limited (\u201cSBIFM\u201d), a subsidiary company of State Bank of India (\u201cOffer\u201d) and in furtherance to our letter no. CC/S&B/AND/2026 -27/280 dated July 8, 2026 with regards to filing of the red herring prospectus dated July 8, 2026 with the Registrar of Companies, Mumbai \u2013 I at Mumbai by SBIFM in relation to the Offer (\u201cRHP\u201d)"
    }
   }
  },
@@ -75761,6 +75815,32 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "Attaching herewith a Press Release regarding receipt of final approval by our Subsidiary , Caplin Steriles Limited , from the United States Food and Drug Administration (USFDA) for the Abbreviated New Drug Application (ANDA) Foscarnet Sodium Injection , (6000 mg/250 mL Infusion Bag )"
+   },
+   "d7a125be7ab4eb8725779aab651d472e": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Attaching herewith a Press Release regarding receipt of final approval by our Subsidiary , Caplin Steriles Limited , from the United States Food and Drug Administration (USFDA) for the  Abbreviated New Drug Application (ANDA) Foscarnet Sodium Injection , (6000 mg/250 mL Infusion Bag ), a generic therapeutic equivalent version of the Reference Listed Drug (RLD) Foscavir Injection  from  Clinigen Healthcare Ltd  (NDA 020068 )."
+   },
+   "f0242f4c537827cb81874c6de02b2c57": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Yes. That, of course, we haven't discussed, and they are also happy."
    }
   }
  },
@@ -75819,6 +75899,19 @@
     "exchange": "not stated",
     "timeline": "Per the July 17, 2026 filing: \"Completion date of the proposed IPO is not available as on date.\"",
     "quote": "Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meeting held today i.e. July 17, 2026, inter alia, considered and approved the participation of the Company in the proposed initial public offering (\u201cIPO\u201d) of JSW One Platforms Limited (\u201cJOPL\u201d) as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 811 Crores (Rupees Eight Hundred Eleven Crores Only) held by the Company (\u201cSale Shares\u201d) in JOPL"
+   },
+   "460dacd78bf8761cfd1eca0f3c31cb23": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "JSW One Platforms Limited",
+    "other_subsidiaries": [],
+    "relation": "joint venture",
+    "parent_stake_before": "about 61% equity stake on a fully diluted basis",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "board approval",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "Completion date of the proposed IPO is not available as on date. (filing dated July 17, 2026)",
+    "quote": "Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meeting held today i.e. July 17, 2026, inter alia, considered and approved the participation of the Company in the proposed initial public offering (\"IPO\") of JSW One Platforms Limited (\"JOPL\") as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 811 Crores (Rupees Eight Hundred Eleven Crores Only) held by the Company (\"Sale Shares\") in JOPL"
    }
   }
  },
@@ -75848,6 +75941,32 @@
     "exchange": "BSE Limited and National Stock Exchange of India Limited",
     "timeline": "The offer period in relation to the IPO was closed on October 28, 2026. The shares were allotted to the investors on October 29, 2026 and admitted for listing and trading with effect from November 2, 2026.",
     "quote": "In continuation of our earlier intimations made in connection with the Initial Public Offering (\"IPO\") of EAAA India Alternatives Limited (\"EAAA\"), a subsidiary of the Company and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (the Listing Regulations), we would like to inform you that EAAA has successfully completed its IPO."
+   },
+   "0954b384b698cd9575dd5cb7ccb5c48f": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "EAAA India Alternatives Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "83.88%",
+    "ipo_stage": "listed",
+    "listing_date": "2026-11-02",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "The offer period in relation to the IPO was closed on October 28, 2026. The shares were allotted to the investors on October 29, 2026 and admitted for listing and trading with effect from November 2, 2026.",
+    "quote": "In continuation of our earlier intimations made in connection with the Initial Public Offering (\u201cIPO\u201d) of EAAA India Alternatives Limited (\u201cEAAA\u201d), a subsidiary of the Company and in accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (the Listing Regulations), we would like to inform you that EAAA has successfully completed its IPO."
+   },
+   "9d812428730b38f620ea8df1c5a96df8": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "EAAA India Alternatives Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (the Listing Regulations), we would like to inform you that EAAA India Alternatives Limited (\"EAAA\"), a wholly owned subsidiary of the Company, has informed the Company that it has filed a draft red herring prospectus dated December 5, 2024 with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited in connection with a proposed initial public offering of its equity shares of the face value of Rs. 5 each (\"IPO/Issue\")."
    }
   }
  },
@@ -75876,6 +75995,19 @@
     "listing_date": "2026-09-25",
     "exchange": "Nasdaq Stockholm",
     "timeline": "\"The first day of trading on Nasdaq Stockholm is expected to commence on 25 September 2026 and the shares will trade under the trading symbol \"LMGAB\".\" (press release 16 September 2026); earlier intimation dated 09th September, 2026 said \"The initial public offering is expected to be completed by the end of September 2026.\"",
+    "quote": "In accordance with Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"LODR Regulations\"), as amended from time to time, and in furtherance to our earlier intimation(s) dated 09th September, 2026 and 16th September, 2026 submitted to the stock exchanges, this is to further update that the Board of Directors of LMG on 24th September, 2026, has, inter-alia, considered and approved the offer for sale (Offering) by existing shareholders and admission of LMG's equity shares for trading on Nasdaq Stockholm, effective today, 25th September, 2026."
+   },
+   "235bf0592f784293e949187ae2ff7114": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "Linjemontage i Gr\u00e4storp Aktiebolag",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "96.12%",
+    "parent_stake_after": "66.45%",
+    "ipo_stage": "listed",
+    "listing_date": "2026-09-25",
+    "exchange": "Nasdaq Stockholm",
+    "timeline": "\"Depending on market conditions, the Listing on Nasdaq Stockholm is expected to be completed by the end of September 2026\" (09th September, 2026); first day of trading 25 September 2026",
     "quote": "In accordance with Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"LODR Regulations\"), as amended from time to time, and in furtherance to our earlier intimation(s) dated 09th September, 2026 and 16th September, 2026 submitted to the stock exchanges, this is to further update that the Board of Directors of LMG on 24th September, 2026, has, inter-alia, considered and approved the offer for sale (Offering) by existing shareholders and admission of LMG's equity shares for trading on Nasdaq Stockholm, effective today, 25th September, 2026."
    }
   }
@@ -75909,6 +76041,22 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "Subsequent  upon  conclusion  of this transacti.on,  the  holding of the  company  in JPL shall  be  reduced from 85,69,762 (43.96%) to 68,94,762  (35.36%)."
+   },
+   "02d123332f2ea1ff3d6153a5dc3dc324": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Jammu Pigments Limited",
+    "other_subsidiaries": [
+     "Ardent Steel Limited",
+     "Godawari Energy Limited"
+    ],
+    "relation": "associate",
+    "parent_stake_before": "85,69,762 (43.96%)",
+    "parent_stake_after": "68,94,762 (35.36%)",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Subsequent upon conclusion of this transacti.on, the holding of the company in JPL shall be reduced from 85,69,762 (43.96%) to 68,94,762 (35.36%)."
    }
   }
  },
@@ -75967,6 +76115,32 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "With reference to the captio ned subject, we would like to inform you that, the Company has entered into Share Purchase  and Subscription Agreement on June 29, 2026 with Mundi Limited (\u201cMundi\u201d), pursuant to which Mundi will invest for 49% interest in Adani Vizhinjam Port Private Limited (\u201cAVPPL\u201d)."
+   },
+   "1f47a24c2c94e4a6455e5e45bb82fe04": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Adani Vizhinjam Port Private Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100%",
+    "parent_stake_after": "51%",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "the Company has entered into Share Purchase  and Subscription Agreement on June 29, 2026 with Mundi Limited (\"Mundi\"), pursuant to which Mundi will invest for 49% interest in Adani Vizhinjam Port Private Limited (\"AVPPL\")."
+   },
+   "eba58bbcbb354df3d4ee8a22b4820e8f": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Further, East Africa Gateway Limited (EAGL), a joint venture entity of AIPH, AD Ports Group and East Harbour Terminals Limited (EHTL) have entered into a Share Purchase Agreement on May 31, 2024, to acquire 95% stake of Tanzania International Container Terminal Services Limited (TICTS) from Hutchison Port Holdings Limited (and its affiliate Hutchison Port Investments Limited) and Harbours Investment Limited for an amount of USD 39.5 million ."
    }
   }
  },
@@ -75996,6 +76170,32 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "Pursuant to Regulation 30 and other applicable provisions of SEBI Listing Regulations, we wish to inform you that, the Board of Directors of BlackBuck Limited (Formerly known as Zinka Logistics Solutions Limited) (\"Company\"), at its meeting held today i.e. Monday, October 12, 2026, inter-alia, on recommendation of the Audit Committee, have considered and approved the transfer of Loads Business Undertaking (\"Transferred Business Undertaking\") as a going concern to BlackBuck Transport Services Private Limited, Wholly Owned Subsidiary (\"BTSPL\") on a slump sale basis."
+   },
+   "e9ca6b51d15a63ada372543e52227ff7": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "BlackBuck Transport Services Private Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "the Board of Directors of BlackBuck Limited (Formerly known as Zinka Logistics Solutions Limited) (\"Company\"), at its meeting held today i.e. Monday, October 12, 2026, inter-alia, on recommendation of the Audit Committee, have considered and approved the transfer of Loads Business Undertaking (\"Transferred Business Undertaking\") as a going concern to BlackBuck Transport Services Private Limited, Wholly Owned Subsidiary (\"BTSPL\") on a slump sale basis."
+   },
+   "98e4ee5afeb9720a5148394e717aae39": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "National Stock Exchange of India Ltd. and BSE Limited",
+    "timeline": "not stated",
+    "quote": "In furtherance to the Objects of the Initial Public Offer (\"IPO\") as per the prospectus of the Company dated November 18, 2024 and pursuant to Regulation 30 read with Schedule III Part A Para A (1) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, we would like to inform you that the Company has invested \u20b9 40,00,00,000/- (Rupees Forty Crore only) in the equity shares of Blackbuck Finserve Private Limited (\"BFPL\"), a wholly owned subsidiary of the Company by way of subscription to Right Issue."
    }
   }
  },
@@ -76025,6 +76225,19 @@
     "exchange": "Bombay Stock Exchange and National Stock Exchange",
     "timeline": "not stated",
     "quote": "Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange."
+   },
+   "236e6fa2836555bf12834b4c121923b2": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "ICICI Prudential Asset Management Company Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "53.0%",
+    "ipo_stage": "listed",
+    "listing_date": "2025-12-19",
+    "exchange": "Bombay Stock Exchange and National Stock Exchange",
+    "timeline": "not stated",
+    "quote": "Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange."
    }
   }
  },
@@ -76043,6 +76256,19 @@
     "quote": "Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewabl es Limited (NIRL), Wholly Owned Subsidiary, as part of the proposed  Initial Public Offering (IPO) of NIRL, subject to compliance with the applicable provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, and other applicable statutory and regulatory requirements."
    },
    "73a0068977a2cd3b13a3746abc868103": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "NLC India Renewables Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100% (Wholly Owned Subsidiary)",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "board approval",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Wholly Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL, subject to compliance with the applicable provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018, and other applicable statutory and regulatory requirements."
+   },
+   "23823678edfe6eae240cf9c8d75735f2": {
     "what_it_is": "subsidiary_ipo_announced",
     "subsidiary": "NLC India Renewables Limited",
     "other_subsidiaries": [],
@@ -76083,6 +76309,40 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "Upon the merger being duly approved under applicable law and being made effective, all the assets and liabilities of REC shall be transferred to PFC, and REC shall stand dissolved in accordance with the provisions of Sections 230-232 of the Companies Act, 2013."
+   },
+   "a33db07fdde9dc22ba1452c59fb7cabc": {
+    "what_it_is": "merger",
+    "subsidiary": "REC Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "52.63%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "The Scheme, mter-al,a, provides for the merger by absorption of REC into PFC with effect from lhe Appointed Date (as delincd under the Scheme) on a going concern basis and the consequent: (J) dissolution of REC without being wound up; and (II) issuance of Consideration Shares (as delincd under the Scheme) to the Eligible Shareholders (as defined under the Scheme) of REC, as on the Record Date (as defined under the Scheme), in accordance with the share exchange ratio, i.e., 88 equity shares of PFC of INR I 0/-each fully paid up for every 100 equity shares of REC of INR I 0/-each fully paid up"
+   },
+   "e0e4c8b0f437710a77ec104c6edd5ed0": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Kurnool III PS RE Transmission Limited",
+    "other_subsidiaries": [
+     "Fatehgarh II and Barmer I PS Transmission Limited",
+     "Chitradurga Bellary REZ Transmission Limited",
+     "Mundra I Transmission Limited",
+     "Kudankulam ISTS Transmission Limited",
+     "Paradeep Transmission Limited",
+     "Jam Khambhaliya Transmission Limited",
+     "South Olpad Transmission Limited"
+    ],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "This is to inform that Kumool III PS RE Transmission Limited, a wholly owned subsidiary of PFC Consulting Limited (a wholly owned subsidiary of Power Finance Corporation Limited) has been transferred to Power Grid Corporation of India Limited, the successful bidder on 27th March, 2025."
    }
   }
  },
@@ -76141,6 +76401,35 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "Share Purchase Agreement for acquisition of 24% shares of Jaiprakash Power Ventures Limited (a listed entity), held by JAL"
+   },
+   "c25356597d6b11eeea5005c75bb9283a": {
+    "what_it_is": "listed_entity_acquired_or_long_listed",
+    "subsidiary": "Jaiprakash Power Ventures Limited",
+    "other_subsidiaries": [],
+    "relation": "associate",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "24%",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Share Purchase Agreement for acquisition of 24% shares of Jaiprakash Power Ventures Limited (a listed entity), held by JAL; and"
+   },
+   "17ac851216170e848be166de352f8ff4": {
+    "what_it_is": "merger",
+    "subsidiary": "Adani Power (Jharkhand) Limited",
+    "other_subsidiaries": [
+     "Stratatech Mineral Resources Private Limited",
+     "Coastal Energen Private Limited"
+    ],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "During the current quarter, the Board of Directors of the Company at its meeting held on 28th October, 2024 has approved the scheme of amalgamation of wholly owned subsidiary, viz, Adani Power (Jharkhand) Limited with the Company, with appointed date of 1st April. 2024, under section 230 to 232 and other applicable provisions of the Companies Act, 2013."
    }
   }
  },
@@ -76172,6 +76461,36 @@
     "exchange": "National Stock Exchange of India Limited and BSE Limited",
     "timeline": "Filing dated 17.10.2025: \"Canara HSBC Life Insurance Company Limited got listed today (17.10.2025)\"; Canara Robeco Asset Management Company Limited got listed on 16.10.2025",
     "quote": "In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.50%."
+   },
+   "f1aef266e1d09ea8c61a2bda2164159f": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "Canara HSBC Life Insurance Company Limited",
+    "other_subsidiaries": [
+     "Canara Robeco Asset Management Company Limited"
+    ],
+    "relation": "subsidiary",
+    "parent_stake_before": "51%",
+    "parent_stake_after": "36.50%",
+    "ipo_stage": "listed",
+    "listing_date": "2025-10-17",
+    "exchange": "National Stock Exchange of India Limited and BSE Limited",
+    "timeline": "not stated",
+    "quote": "In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Life Insurance Company Limited, Subsidiary through Initial Public Offer from 51% to 36.50%."
+   },
+   "a3097a1429d5c3733e849efca1a15307": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Canara HSBC Life Insurance Company Ltd",
+    "other_subsidiaries": [
+     "Canara Robeco Mutual Fund"
+    ],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "board approval",
+    "listing_date": "not stated",
+    "exchange": "BSE/NSE",
+    "timeline": "On the Q3 FY25 call of 27.01.2025 the MD said: \"we are expecting that both the companies we may come for the IPOs in the next financial year\"; on the Q2 FY25 call of 29.10.2024 the indicative timeline for the Canara Robeco AMC IPO was \"As on date it is scheduled in the 4th Quarter\"",
+    "quote": "Canara Bank has accorded approval for initiating the process of diluting 14.50% stake of the Bank in its subsidiary M/s Canara HSBC Life Insurance Company Ltd by listing the Company in Stock Exchanges (BSE/NSE) through Initial Public Offer (IPO)."
    }
   }
  },
@@ -76196,6 +76515,19 @@
     "relation": "subsidiary",
     "parent_stake_before": "49.9% stake in Bajaj Auto International Holdings AG (erstwhile associate), equating to a 37% holding in Pierer Mobility AG",
     "parent_stake_after": "100% stake in BAIHAG, which in turn holds ~74.9% stake in Bajaj Mobility AG",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "SIX Swiss Exchange and Vienna Stock Exchange (Official Market)",
+    "timeline": "not stated",
+    "quote": "Effectively, Bajaj Auto, through its subsidiary BAIHBV now holds 100% stake in BAIHAG, which inturn holds -74.9% stake in Bajaj Mobility AG (\"BMAG\") and KTM AG (a step-down subsidiary of BMAG). BMAG, is listed on lhe SIX Swiss Exchange and on the Vienna Stock Exchange (Official Market)."
+   },
+   "0c486790e09b541fa7a316ad4ac4ebc1": {
+    "what_it_is": "listed_entity_acquired_or_long_listed",
+    "subsidiary": "Bajaj Mobility AG",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "49.9% stake in Bajaj Auto International Holdings AG (erstwhile Pierer Bajaj AG), the holding company of Bajaj Mobility AG",
+    "parent_stake_after": "100% stake in Bajaj Auto International Holdings AG, which in turn holds ~74.9% stake in Bajaj Mobility AG",
     "ipo_stage": "listed",
     "listing_date": "not stated",
     "exchange": "SIX Swiss Exchange and Vienna Stock Exchange (Official Market)",
@@ -76259,6 +76591,19 @@
     "exchange": "Indian stock exchanges",
     "timeline": "not stated",
     "quote": "This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%."
+   },
+   "8d529921a2b65c8c1bc3f34b81a4c40b": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "GAIL Gas Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "wholly owned subsidiary of GAIL (100%)",
+    "parent_stake_after": "not stated (dilution of GAIL's equity in GGL upto 25%)",
+    "ipo_stage": "board approval",
+    "listing_date": "not stated",
+    "exchange": "Indian stock exchanges",
+    "timeline": "not stated",
+    "quote": "This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%."
    }
   }
  },
@@ -76317,6 +76662,19 @@
     "exchange": "National Stock Exchange of India Limited (NSE) and BSE Limited (BSE)",
     "timeline": "not stated",
     "quote": "The Company has completed its IPO of 22,595,114 equity shares of face value a! 1 each at an issue price of a! 614 per share (including a share premium of a! 613 per share) and as a result the equity shares of the Company were listed on National Stock E:x:change of India Limited (NSE) and BSE Limited (BSE:) on June 20, 2025."
+   },
+   "ecc8fb8bbb49210171e569aa821f1d25": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2025-06-20",
+    "exchange": "National Stock Exchange of India Limited (NSE) and BSE Limited (BSE)",
+    "timeline": "not stated",
+    "quote": "The Company has completed its IPO of 22,595,114 equity shares of face value \u20b9 1 each at an issue price of \u20b9 614 per share (including a share premium of \u20b9 613 per share) and as a result the equity shares of the Company were listed on National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) on June 20, 2025."
    }
   }
  },
@@ -76344,6 +76702,19 @@
     "relation": "subsidiary",
     "parent_stake_before": "34.21% of equity share capital (acquired December 26, 2025, held as an associate as at March 31, 2026)",
     "parent_stake_after": "51% of the paid-up equity share capital of the Target Company",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Consequently, Transcon Ind Limited has become a subsidiary of the Company with effect from April 3, 2026."
+   },
+   "569db86b3e945cb4fdc3c8a2a29561ed": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Transcon Ind Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "34.21%",
+    "parent_stake_after": "51%",
     "ipo_stage": "not stated",
     "listing_date": "not stated",
     "exchange": "not stated",
@@ -76378,6 +76749,32 @@
     "exchange": "BSE Limited and the National Stock Exchange of India Limited",
     "timeline": "listing of equity shares \"with effect from June 2, 2025\" (Chairman's speech at the 69th AGM, August 07, 2026)",
     "quote": "This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity shares on BSE Limited and the National Stock Exchange of India Limited with effect from June 2, 2025, raised INR 2,800 crore through a primary issuance."
+   },
+   "e1e858f3c90efd613f933ac0a83e2344": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "Aegis Vopak Terminals Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "50.10%",
+    "parent_stake_after": "44%",
+    "ipo_stage": "listed",
+    "listing_date": "2025-06-02",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity shares on BSE Limited and the National Stock Exchange of India Limited with effect from June 2, 2025, raised INR 2,800 crore through a primary issuance."
+   },
+   "8ed4f2029342e1b8017d454dbcc743f1": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Aegis Vopak Terminals Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "50.10%",
+    "parent_stake_after": "less than fifty percent (50%)",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "\"The AVTL intends to undertake the Issue and list the Equity Shares at an opportune time in consultation with the book running lead managers (\u201cBRLMs\u201d) and other advisors in relation to the Issue and subject to Applicable Laws and regulatory approvals.\" (Postal Ballot Notice dated December 10, 2024)",
+    "quote": "In view of the same, AVTL has filed the draft red herring prospectus dated 18th November, 2024 (\u201cDRHP\u201d) with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited on 19th November, 2024."
    }
   }
  },
@@ -76406,6 +76803,19 @@
     "listing_date": "not stated",
     "exchange": "not stated",
     "timeline": "Filing dated 08.09.2026: \"The expected date of completion of sale/disposal - End of September 2026 (As indicated by NSE)\"",
+    "quote": "Pursuant to Regulation 30 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we advise that the Bank of Baroda is proposing to divest upto 76,90,375 equity shares, being equivalent to 35% of the shares held by the Bank in National Stock Exchange of India Limited (NSE), by way of Offer for Sale through Initial Public Offering, subject to all regulatory approvals."
+   },
+   "879654c2f2cde82a4104da774bc48eb5": {
+    "what_it_is": "stake_sale_in_other_ipo",
+    "subsidiary": "National Stock Exchange of India Limited",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "offer open",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "\"The expected date of completion of sale/disposal - End of September 2026 (As indicated by NSE)\" (filing dated 08.09.2026)",
     "quote": "Pursuant to Regulation 30 and other applicable provisions of SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we advise that the Bank of Baroda is proposing to divest upto 76,90,375 equity shares, being equivalent to 35% of the shares held by the Bank in National Stock Exchange of India Limited (NSE), by way of Offer for Sale through Initial Public Offering, subject to all regulatory approvals."
    }
   }
@@ -76494,6 +76904,19 @@
     "exchange": "BSE Limited and National Stock Exchange of India Limited",
     "timeline": "Press release dated 03rd August, 2026: \"While GEML has presently decided not to avail itself of the SEBI extension for the proposed Offer, it remains committed to pursuing a public listing at an appropriate time, subject to market conditions, regulatory approvals and other relevant considerations.\"",
     "quote": "Accordingly, in view of the proposed rights issue and the restrictions under the SEBI ICDR Regulations in relation to further issuances, our Company does not propose to avail the one time relaxation granted pursuant to the SEBI circular no. H 0/4911 III I (123 )2026-CFD- RA C-DIL2/I/87 60/2026 dated A pri I 7, 2026 which perm its extension of validity of all observation letters issued by the SEBI, and expiring between April 1, 2026 and September 30, 2026 till September 30, 2026, and accordingly, the validity of the SEBI Final Observations has lapsed. Consequently, the Company will not be proceeding with the Offer."
+   },
+   "e126c8b401f9858536a1e8bf56c30264": {
+    "what_it_is": "subsidiary_ipo_withdrawn",
+    "subsidiary": "Greaves Electric Mobility Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "62.48%",
+    "parent_stake_after": "62.48%",
+    "ipo_stage": "SEBI observations",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "Press release dated 03rd August, 2026: \"While GEML has presently decided not to avail itself of the SEBI extension for the proposed Offer, it remains committed to pursuing a public listing at an appropriate time, subject to market conditions, regulatory approvals and other relevant considerations.\"",
+    "quote": "Accordingly, in view of the proposed rights issue and the restrictions under the SEBI ICDR Regulations in relation to further issuances, our Company does not propose to avail the one time relaxation granted pursuant to the SEBI circular no. HO/49/11/11(123)2026-CFD-RAC-DIL2/I/8760/2026 dated April 7, 2026 which permits extension of validity of all observation letters issued by the SEBI, and expiring between April 1, 2026 and September 30, 2026 till September 30, 2026, and accordingly, the validity of the SEBI Final Observations has lapsed. Consequently, the Company will not be proceeding with the Offer."
    }
   }
  },
@@ -76522,6 +76945,19 @@
     "listing_date": "not stated",
     "exchange": "BSE Limited",
     "timeline": "At the IEX Analyst Meet held July 24, 2026 the CFO said \"the good part is that they filed the DRHP in this month and hopefully (would be) getting listed soon\"; the PNGRB extension to bring IEX's holding down to 25% runs \"up to 31st of December 2026\"",
+    "quote": "In furtherance of our intimation dated December 03, 2025, and in terms of Regulation 30 of the SEBI Listing Regulations, we wish to inform that the Indian Gas Exchange Limited (\"IGX\"), an associate company of the Indian Energy Exchange Limited (\"IEX\"), has filed a draft red herring prospectus dated July 14, 2026 (\"DRHP\"), with the Securities and Exchange Board of India and BSE Limited on July 14, 2026, in connection with the proposed initial public offer of equity shares of IGX (\"Offer\")."
+   },
+   "9a13ed28fbe0bb349835bc58fe6ed0bb": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Indian Gas Exchange Limited",
+    "other_subsidiaries": [],
+    "relation": "associate",
+    "parent_stake_before": "47.3%",
+    "parent_stake_after": "25%",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "July 24, 2026 analyst meet: \"the good part is that they filed the DRHP in this month and hopefully (would be) getting listed soon\"; PNGRB extension to bring holding to 25% runs \"up to 31st of December 2026\"",
     "quote": "In furtherance of our intimation dated December 03, 2025, and in terms of Regulation 30 of the SEBI Listing Regulations, we wish to inform that the Indian Gas Exchange Limited (\"IGX\"), an associate company of the Indian Energy Exchange Limited (\"IEX\"), has filed a draft red herring prospectus dated July 14, 2026 (\"DRHP\"), with the Securities and Exchange Board of India and BSE Limited on July 14, 2026, in connection with the proposed initial public offer of equity shares of IGX (\"Offer\")."
    }
   }
@@ -76639,6 +77075,519 @@
     "exchange": "not stated",
     "timeline": "In the 23rd October 2026 filing: \"The transaction is expected to be completed following the completion of the initial public offer of the proposed first scheme of the Trust and satisfaction of the conditions precedent under the definitive transaction documents.\"",
     "quote": "Nahar Retail Trading Services Limited (\u201cNahar\u201d), a wholly owned subsidiary of the Company, has entered into a binding term sheet dated 22nd October 2026 with TreBits Investment Trust, a Small and Medium Real Estate Investment Trust registered with the Securities and Exchange Board of India (the \u201cTrust\u201d), in relation to the proposed divestment of its entire shareholding (100%) in its wholly owned subsidiary, Netria Property Holdings Limited."
+   },
+   "4888007c941ae156c3e8273344900dc2": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Netria Property Holdings Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100%",
+    "parent_stake_after": "0% (Netria shall cease to be a subsidiary of Nahar and, consequently, of the Company)",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "Per the 23rd October 2026 disclosure: \"The transaction is expected to be completed following the completion of the initial public offer of the proposed first scheme of the Trust and satisfaction of the conditions precedent under the definitive transaction documents.\"",
+    "quote": "Nahar Retail Trading Services Limited (\u201cNahar\u201d), a wholly owned subsidiary of the Company, has entered into a binding term sheet dated 22nd October 2026 with TreBits Investment Trust, a Small and Medium Real Estate Investment Trust registered with the Securities and Exchange Board of India (the \u201cTrust\u201d), in relation to the proposed divestment of its entire shareholding (100%) in its wholly owned subsidiary, Netria Property Holdings Limited."
+   }
+  }
+ },
+ "BAJFINANCE::listing": {
+  "stamps": {
+   "7de2de063165ca40cc1989dfa07b8afb": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "Bajaj Housing Finance Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100%",
+    "parent_stake_after": "88.75%",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "On 13 September 2024, BHFL, a subsidiary of the Company, has concluded its Initial Public Offer of ~ 6,560 crore, details of which are given below:"
+   },
+   "18b73b1e2d6de7dd6def1108b50fceab": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "Bajaj Housing Finance Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100%",
+    "parent_stake_after": "88.75%",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "reduced from 100% to 88.75% effective 13 September 2024 consequent to allotment of equity shares pursuant to Initial Public Offer (IPO)."
+   }
+  }
+ },
+ "BRIGADE::listing": {
+  "stamps": {
+   "da826d78a3dbe789b71591711502bcff": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "Brigade Hotel Ventures Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "95.26%",
+    "parent_stake_after": "74.09%",
+    "ipo_stage": "listed",
+    "listing_date": "2025-07-31",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "Shares were listed on the Stock Exchanges with effect from 31st July, 2025 (press release dated August 13, 2025)",
+    "quote": "Brigade Hotel Ventures Limited, subsidiary of Brigade Enterprises Limited came out with an Initial Public Offering (IPO) of \u20b9 885.60 crores (including pre -IPO placement of \u20b9 126 crores). Shares were listed on the Stock Exchanges with effect from 31st July, 2025 under the ticker BRIGHOTEL."
+   },
+   "c46be61a233daae4a78295466d8262ee": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Brigade Hotel Ventures Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100% (wholly owned subsidiary)",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Brigade Hotel Ventures Limited, wholly owned subsidiary is proposing, subject to receipt of requisite approvals, market conditions and other considerations, an initial public offering of its equity shares and has filed a draft red herring prospectus dated October 30th 2024, with the Securities and Exchange Board of India and the relevant stock exchanges."
+   }
+  }
+ },
+ "AVALON::listing": {
+  "stamps": {
+   "b6fc78b487b12ab38186eacc19500f31": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2023-04-18",
+    "exchange": "National Stock Exchange of India Limited (NSE) and BSE Limited (BSE)",
+    "timeline": "not stated",
+    "quote": "The equity shares of the Company were listed on the National Stock Exchange of India Limited (NSE) and BSE Limited (BSE) w.e.f April 18, 2023."
+   },
+   "ca99ea1b9137273204ac3831e5558bdd": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2023-04-18",
+    "exchange": "National Stock Exchange of India Limited (NSE) and BSE Limited (BSE)",
+    "timeline": "not stated",
+    "quote": "The Company has completed the Initial Public Offering of 19,839,446 equity shares of face value of \u20b92 each at an issue price of \u20b9436 per equity share, consisting of a fresh issue of 7,339,449 equity shares aggregating to \u20b93,200 Million and an offer for sale of 12,499,997 equity shares aggregating to \u20b95,450 Million."
+   }
+  }
+ },
+ "HINDALCO::listing": {
+  "stamps": {
+   "6bdc5c95b3a64a17a91fbeec87de1fe8": {
+    "what_it_is": "subsidiary_ipo_withdrawn",
+    "subsidiary": "Novelis Inc.",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100% (Novelis Inc. described as a wholly owned subsidiary of the Company; its sole shareholder being A.V. Minerals (Netherlands) N.V., a wholly owned subsidiary of Hindalco)",
+    "parent_stake_after": "92.5% was expected after completion of the IPO (91.4% if underwriters exercised the over-allotment option in full), but the IPO was postponed, so the holding remained wholly owned",
+    "ipo_stage": "offer open",
+    "listing_date": "not stated",
+    "exchange": "New York Stock Exchange under the symbol \"NVL\"",
+    "timeline": "Press release dated June 4, 2024 (filed June 5, 2024): \"Novelis will continue to evaluate the timing of the offering in the future.\" No date given.",
+    "quote": "Pursuant to the above referred, please note that Novelis Inc., a wholly owned subsidiary of the Company has announced the postponement of its initial public offering due to market conditions."
+   },
+   "6c4cbb14e74daa41c7a1366fab69a7b0": {
+    "what_it_is": "subsidiary_ipo_withdrawn",
+    "subsidiary": "Novelis Inc.",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "wholly owned (Novelis' sole shareholder i.e A.V Minerals (Netherlands) N.V., a wholly owned subsidiary of the Company)",
+    "parent_stake_after": "92.5% (or 91.4% if the underwriters exercise in full their over-allotment option) \u2014 stated as the expected post-IPO holding; the IPO was postponed",
+    "ipo_stage": "offer open",
+    "listing_date": "not stated",
+    "exchange": "New York Stock Exchange under the symbol \"NVL\"",
+    "timeline": "June 5, 2024 filing: \"Novelis will continue to evaluate the timing of the offering in the future.\" In the Aug 13, 2024 call: \"it will be fair to say that we would only list Novelis when we get the valuation we want.\"",
+    "quote": "Pursuant to the above referred, please note that Novelis Inc., a wholly owned subsidiary of the Company has announced the postponement of its initial public offering due to market conditions."
+   }
+  }
+ },
+ "INDIAMART::listing": {
+  "stamps": {
+   "2adbe321aee343fbae7027248ac51264": {
+    "what_it_is": "merger",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\u201cListing Regulations\u201d), we wish to inform that, the Scheme amongst three (3) wholly owned non material subsidiaries of the Company was approved by the NCLT vide order dated January 17, 2025 and the certi\u03d0ied true copy of the said order is received by the company today i.e. on February 12, 2025."
+   }
+  }
+ },
+ "PAYTM::listing": {
+  "stamps": {
+   "3e0ba15727981227b3d919391b38dfe1": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "The transfer of the Transferred Undertaking, will be implemented through a slump sale on a going concern basis, subject to approval of the shareholders of the Company."
+   }
+  }
+ },
+ "EXIDEIND::listing": {
+  "stamps": {
+   "27d93f851f71f98499537afd541530bf": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "There is no change in the shareholding percentage of the Company in EESL pursuant to such an acquisition."
+   }
+  }
+ },
+ "JYOTICNC::listing": {
+  "stamps": {
+   "21eddf629e6717fa1b43efa3bf6d9f4f": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Ltd",
+    "timeline": "not stated",
+    "quote": "During the financial year ended on March 31, 2024, the company completed its Initial Public offer (IPO) of 30,218,649 equity shares of face value of Rs. 2/-each and raised sum of Rs. 9,999.99 million."
+   },
+   "23d43553458e1d2d6df08dc9ba8d4f47": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2024-01-16",
+    "exchange": "BSE Limited, Mumbai and National Stock Exchange of India Ltd, Mumbai",
+    "timeline": "not stated",
+    "quote": "During the financial year ended on March 31, 2024, the company completed its Initial Public offer (IPO) of 30,218,649 equity shares of face value of Rs. 2/-each and raised sum of Rs. 9,999.99 million."
+   }
+  }
+ },
+ "NTPCGREEN::listing": {
+  "stamps": {
+   "91c4c808a4ed71241442f14662a8b2cf": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2024-11-27",
+    "exchange": "National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE)",
+    "timeline": "not stated",
+    "quote": "The IPO raised a total of ?10,000.00 Crore and the Company's equity shares were subsequently listed on the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE) on November 27, 2024."
+   }
+  }
+ },
+ "MUTHOOTFIN::listing": {
+  "stamps": {
+   "785b8cfb419862d8fbacee2a8d25d6ae": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Belstar Microfinance Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "66.13%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "SEBI observations",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "\"The IPO will be subject to market conditions, receipt of applicable approvals, if any, and other considerations.\" (filing dated September 03, 2024); no expected listing date is given",
+    "quote": "In continuation of our letter dated May 05, 2024, we wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has informed us that it has received final observations on the Draft Red Herring Prospectus dated May 3, 2024 filed with the Securities and Exchange Board of India, for the proposed Initial Public Offering (\"IPO\")."
+   },
+   "c52f528569c1bf11169cbf4361e3b12d": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Belstar Microfinance Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "SEBI observations",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "In continuation of our letter dated May 05, 2024, we wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has informed us that it has received final observations on the Draft Red Herring Prospectus dated May 3, 2024 filed with the Securities and Exchange Board of India, for the proposed Initial Public Offering (\"IPO\")."
+   }
+  }
+ },
+ "AKUMS::listing": {
+  "stamps": {
+   "25568a51f9a97e69c9130739d1790e29": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2024-08-06",
+    "exchange": "National Stock exchange of India Limited (NSE) and BSE Limited (BSE)",
+    "timeline": "not stated",
+    "quote": "The Company has completed its Initial Public Offer (IPO) of 27,368,143 cquity sharcs of facc valuc of 2 2 each at an issuc price of Z 679 per share (including sharc premium of 2 677 per share) and as a result the cquity shares of the Company has been listed on National Stock exchange of India Limited (NSE) and BSE Limited (BSE) on 6 August 2024."
+   },
+   "5e3ac30f1035e7820b6a540e12643665": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2024-08-06",
+    "exchange": "National Stock Exchange of India Limited (NSE) and BSE Limited (BSE)",
+    "timeline": "not stated",
+    "quote": "The Company has completed its Initial Public Offer (IPO) of 27,368,143 cquity sharcs of facc valuc of 2 2 each at an issuc price of Z 679 per share (including sharc premium of 2 677 per share) and as a result the cquity shares of the Company has been listed on National Stock exchange of India Limited (NSE) and BSE Limited (BSE) on 6 August 2024."
+   }
+  }
+ },
+ "BHEL::listing": {
+  "stamps": {
+   "d06e29a30c29fb96de8de5891ce5692d": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Bharat Coal Gasification and Chemicals Limited",
+    "other_subsidiaries": [],
+    "relation": "joint venture",
+    "parent_stake_before": "49%",
+    "parent_stake_after": "49%",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Investment of Rs. 3064.46 Crore as BHEL's equity contribu\u019fon (spread over four years) in Bharat Coal Gasifica\u0275on and Chemicals Limited (BCGCL), BHEL's JV with Coal India Limited."
+   },
+   "6659839bef3e127e7134e3a95288c4e8": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Incorporated Joint Venture company \u2013\u201cBharat Coal Gasification and Chemicals Limited\u201d with CIL.BHEL holds 49%equity inJVC"
+   }
+  }
+ },
+ "BIOCON::listing": {
+  "stamps": {
+   "e536e9eff0edc09ab92e23a5b363a34e": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Biocon Biologics Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "~99% of the paid-up equity share capital of BBL on a fully diluted basis",
+    "parent_stake_after": "100% (wholly-owned subsidiary w.e.f. June 29, 2026)",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Post the aforesaid acquisition of 1,15,36,956 equity shares of BBL by the Company, BBL has become a wholly -owned subsidiary of the Company w.e.f. June 29, 2026."
+   }
+  }
+ },
+ "BLS::listing": {
+  "stamps": {
+   "86ba283dd570a407171c2e794278cffa": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "BLS E-Services Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Additionally, we celebrated the successful IPO of our subsidiary, BLS E-Services Limited., raising over Rs. 300 Crore to fuel its continued growth and expansion."
+   }
+  }
+ },
+ "ENTERO::listing": {
+  "stamps": {
+   "12d24eacf23079c159a142d32f4161c3": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "7) Acquisition of Vishal Surgicals and Vishal Surgicals & Medicals, a Partnership Firm, through its subsidiary company Sai Pharma Distributors Private Limited through Slump Sale / Business Transfer Agreement (BTA)."
+   },
+   "93396ebb6738346c1a61768b10f3e3de": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "85%",
+    "parent_stake_after": "100%",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Based on recommendation of Audit Committee meeting held on even date, the Board has approved the transfer of the 100% of issued and outstanding equity share capital held by the Company as on the date of transfer, of two of its wholly owned subsidiaries viz., Chethana Pharma Distributors Private Limited ('CPDPL') and CPD Pharma Private Limited ('CPD Pharma'), to its another wholly owned subsidiary, being Rada Medisolutions Private Limited ('Rada')."
+   }
+  }
+ },
+ "ANTHEM::listing": {
+  "stamps": {
+   "33cdb22a1f5a7302e6aeb8da77f53829": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2025-07-21",
+    "exchange": "National Stock Exchange (NSE) and Bombay Stock Exchange Limited (BSE)",
+    "timeline": "not stated",
+    "quote": "The Company got listed in the National Stock Exchange (NSE) and Bombay Stock Exchange Limited (BSE) on July 21, 2025, pursuant to which the ESOP 2024 is sought to be ratified in line with SEBI (SBEB & SE) Regulations."
+   }
+  }
+ },
+ "INDGN::listing": {
+  "stamps": {
+   "53ecdbd0fa5d5e63016e65fe3dc4bf53": {
+    "what_it_is": "merger",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "The aforesaid merger forms part of an internal reorganization of the Company's indirect wholly owned subsidiaries in Germany and does not have any material impact on the business operations, shareholding pattern, or financial position of Indegene Limited."
+   }
+  }
+ },
+ "MANAPPURAM::listing": {
+  "stamps": {
+   "f27b826cc70c3189d11e371d9c445fc3": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "The Subscription Shares and the equity shares of the Company issued upon conversion of the Subscription Warrants so issued will be listed on the BSE Limited and the National Stock Exchange of India Limited, in accordance with applicable law."
+   },
+   "0d8154fa610671b14d802278b59ef6f1": {
+    "what_it_is": "subsidiary_ipo_withdrawn",
+    "subsidiary": "Asirvad Micro Finance Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "We now wish to inform you that the board of directors of AMFL, on March 20, 2025, approved the withdrawal of the DRHP."
+   }
+  }
+ },
+ "ONGC::listing": {
+  "stamps": {
+   "77d280d45141790c6a4c64d06e45da09": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "ONGC Petro additions Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Upon the said allotment, shareholding of the Company in OPaL has increased from 94.57 % to 95.69 %."
+   },
+   "c2f15719ee737455df74f3d2a2991a94": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "ONGC Petro additions Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "It is informed that the Company has been allotted 490,62,03,065  nos. of equity shares of \u20b910/- each by OPaL by way of subscription of shares on right basis."
+   }
+  }
+ },
+ "NTPC::listing": {
+  "stamps": {
+   "c0812a80117fcf79ff891aeec8d16e2e": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "NTPC Green Energy Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100.00%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "DRHP dated 18th September, 2024 filed with SEBI; IPO \"subject to receipt of requisite approvals, market conditions and other considerations\" (filing dated 19.09.2024) \u2014 no expected listing date stated",
+    "quote": "We wish to inform you that NTPC Green Energy Limited (NGEL), a subsidiary of NTPC Limited, has filed a draft red herring prospectus (\"DRHP\") dated 18th September, 2024, with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited in respect of its proposed initial public offer (IPO) of equity shares, subject to receipt of requisite approvals, market conditions and other considerations."
+   }
+  }
+ },
+ "VIKRAMSOLR::listing": {
+  "stamps": {
+   "890e10b6820408fbfbc84c6ad82a7672": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2025-08-26",
+    "exchange": "National Stock Exchange of India Limited and BSE Limited",
+    "timeline": "not stated",
+    "quote": "The equity shares of the Company were listed on the National Stock Exchange of India Limited and BSE Limited on August 26, 2025."
    }
   }
  }

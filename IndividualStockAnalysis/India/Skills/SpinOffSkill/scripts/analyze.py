@@ -854,6 +854,7 @@ def render_report(record: dict, idx: dict | None = None) -> str:
     # partial spin-offs — a subsidiary listed, or being listed, by IPO while
     # the parent keeps a stake — sit in the confirmed list below the demergers
     partial = [s for s in all_confirmed if s["kind"] == "subsidiary_listing"]
+    partial += [s["also_partial"] for s in sits if s.get("also_partial")]      # also a demerger, shown above or among the others
     partial.sort(key=lambda s: (s["stage"] != "listed", -(s["verdict"].get("score") or 0), s["symbol"]))
     confirmed = [s for s in all_confirmed if s["kind"] != "subsidiary_listing"]
     probable = [s for s in spins if conf[s["symbol"]] == "probable"]
@@ -887,6 +888,7 @@ def render_report(record: dict, idx: dict | None = None) -> str:
           "*NSE* is from the exchange's equity list; otherwise it is the date the filings give.", "",
           "| Company | Subsidiary | Relation · parent's stake | IPO stage | Listing | Score | Verdict | Evidence |",
           "|---|---|---|---|---|---:|---|---|"]
+    also = {s["symbol"] for s in sits if s.get("also_partial")}
     for s in partial:
         f = s["facts"]
         res = s.get("listing_resolution") or {}
@@ -896,6 +898,8 @@ def render_report(record: dict, idx: dict | None = None) -> str:
                 if s.get("listed_on") else ("listed; date not stated" if s["stage"] == "listed"
                                              else _short(f.get("ipo_timeline") or "date not fixed", 110)))
         more = f"; also {', '.join(f['other_subsidiaries'])}"[:70] if f.get("other_subsidiaries") else ""
+        if s["symbol"] in also:
+            more += " *(the company also has a demerger on file)*"
         A.append(f"| **{s['symbol']}** | {f.get('subsidiary', '—')[:60]}{more} | {rel} · {stake[:40]} | "
                  f"{f.get('ipo_stage', '—')} | {when} | {s['verdict']['score']} | "
                  f"{s['verdict']['label'].split(' — ')[0]} | “{(f.get('listing_quote') or '')[:160]}” |")
@@ -930,7 +934,8 @@ def render_report(record: dict, idx: dict | None = None) -> str:
         A += render_company(s, heavy=True)
     A += ["---", "", "# Partial spin-offs (subsidiary IPOs) — in full", ""]
     for s in partial:
-        A += render_company(s, heavy=True)
+        if s["symbol"] not in also:                 # those are written up once, under their demerger
+            A += render_company(s, heavy=True)
     A += ["---", "", "# Probable spin-offs and listings", ""]
     for s in probable:
         A += render_company(s, heavy=True)
@@ -1104,6 +1109,32 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
         s["listing_resolution"] = judge_listing(s, scheme, calls12, allow_ai=ai, runner=runner)
         if SO.resolve_subsidiary_listing(s, s["listing_resolution"], today) != "unresolved":
             s["verdict"] = SO.verdict(s, s["checklist"])
+    elif s["kind"] in ("demerger", "scheme_other") and any(
+            h["kind"] == "subsidiary_listing" and not h["category"].startswith("Earnings call") for h in s["headlines"]):
+        # a company is one spin situation, and a demerger tag outranks a
+        # subsidiary-listing tag — so HDFC Bank's HDB Financial IPO sat hidden
+        # behind a text-only 'demerger'. Ask the listing question here too.
+        res = judge_listing(s, scheme, calls12, allow_ai=ai, runner=runner)
+        shadow = {**s, "kind": "subsidiary_listing", "facts": dict(s["facts"]),
+                  "stage_dates": dict(s.get("stage_dates") or {}), "confidence": ("probable", "")}
+        if SO.resolve_subsidiary_listing(shadow, res, today) == "partial":
+            shadow["listing_resolution"] = res
+            shadow["verdict"] = SO.verdict(shadow, s["checklist"])
+            shadow["listing"] = SO.listing_status(shadow, s["judge"], today)
+            if s["kind"] == "demerger" and (s["confidence"][0] == "confirmed"
+                                             or str(s["facts"].get("record_date_source", "")).startswith("NSE")):
+                # a confirmed (or register-recorded) demerger AND a partial
+                # spin-off: it stays a demerger and is shown in the partial
+                # table as well
+                s["also_partial"] = {k: shadow[k] for k in ("symbol", "company", "kind", "facts", "stage", "listed_on",
+                                                            "days_since_listing", "confidence", "verdict", "listing",
+                                                            "listing_resolution", "family")}
+            else:
+                was = f"{s['kind']} / {s['confidence'][0]}"
+                for k in ("kind", "facts", "stage", "listed_on", "days_since_listing", "confidence", "verdict", "family"):
+                    s[k] = shadow[k]
+                s["listing_resolution"] = res
+                s["facts"]["previously_held_as"] = was
     s["listing"] = SO.listing_status(s, s["judge"], today)
     if list_only:
         if s["kind"] in SO.OFFERING_KINDS:
@@ -1243,7 +1274,8 @@ def cmd_run(args, runner=None) -> dict:
             shutil.copy(p, snap / p.name)
     (snap / "run.json").write_text(json.dumps(record, indent=1, default=str))
     n_conf = sum(1 for s in sits if s.get("confidence", ("",))[0] == "confirmed" and s["kind"] != "subsidiary_listing")
-    n_part = sum(1 for s in sits if s.get("confidence", ("",))[0] == "confirmed" and s["kind"] == "subsidiary_listing")
+    n_part = sum(1 for s in sits if (s.get("confidence", ("",))[0] == "confirmed" and s["kind"] == "subsidiary_listing")
+                 or s.get("also_partial"))
     print(f"wrote {REPORT} ({len(md.splitlines())} lines); {len(sits)} situations, "
           f"{n_conf} confirmed demergers, {n_part} partial spin-offs, {len(call_only)} call-only indications", file=sys.stderr)
     return record

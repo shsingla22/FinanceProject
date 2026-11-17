@@ -141,7 +141,12 @@ largest gains came not in the first year but in the second.
    first, then IPOs in motion; one listed more than two years ago is
    past the window and dropped. Everything else leaves BOTH the confirmed
    and the probable lists and is kept, with its reason, among the other
-   restructurings. Without a judge answer the row stays probable.
+   restructurings. Without a judge answer the row stays probable. The
+   question is also asked of a demerger or scheme situation that carries
+   subsidiary-listing filings (a company is one spin situation, and a
+   demerger tag outranks a listing tag): a partial spin-off found there
+   replaces a text-only demerger, and is shown BESIDE a confirmed or
+   register-recorded demerger, which stays a demerger.
 4. **Listing status** — for every spin-off: LISTED since (record date),
    RECORD DATE set and listing pending (with the typical 4–10 week gap
    stated as typical, not forecast), NOT YET with the timeline the
@@ -253,7 +258,7 @@ python3 scripts/validate_demergers.py                              # the list ag
 python3 ../../Announcements/fetch_announcements.py --days 960      # extend the store back (for a backtest)
 python3 scripts/backtest.py --from 2024-04-01 --to 2025-03-31 --label FY2024-25   # the skill as of a past date, list-only, own folder
 python3 scripts/backtest.py --from 2024-04-01 --label 2024-04_to_today
-python3 -m pytest scripts/test_skill.py -q                         # 70 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 71 tests, offline
 ```
 
 ## Outputs
