@@ -1,6 +1,6 @@
 # Spin-offs and demergers — NiftyTotalMarket
 
-*Run 2026-11-17 · filings window 2024-06-13 → 2026-11-15 · 4736 restructuring filings across 559 companies · 32 confirmed demergers, 15 partial spin-offs (subsidiary IPOs), 55 probable, 27 indicated, 473 rights / preferential offerings, 838 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
+*Run 2026-11-17 · filings window 2024-06-13 → 2026-11-15 · 4736 restructuring filings across 559 companies · 32 confirmed demergers, 18 partial spin-offs (subsidiary IPOs), 54 probable, 27 indicated, 473 rights / preferential offerings, 838 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
 
 **The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: the new stock is sold by holders who never chose it for about a year, the parent is often the better buy before the split, insiders tell you what they think through the stock and options they take in the new entity, and a pro-forma statement plus the peer P/E prices what the market is ignoring. This report puts the CONFIRMED demergers first — a demerger scheme on the exchange record — each with when the new entity lists, why management is doing it (three years of calls, with the transcript each point came from), the parent's last three years with charts, P/E and cash flows, and the separated business's own numbers from the annual reports and presentations, page-cited. Probable and indicated cases follow, then every other restructuring on file.
 
@@ -50,10 +50,12 @@ The parent keeps a stake and the piece gets its own price (the notes' Sears case
 | **SBIN** | SBI Funds Management Limited | subsidiary · not stated | listed | 2026-07-21 (NSE) | 6.2 | PARTIAL SPIN-OFF, LISTED <1Y | “We have been informed by SBIFM that it has filed a red herring prospectus dated July 8, 2026 with the Registrar of Companies, Mumbai – I at Mumbai ("RHP"), in r” |
 | **HDFCBANK** | HDB Financial Services Limited | subsidiary · 74.1% | listed | 2025-07-02 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED 1–2Y | “On June 25, 2025, the Bank's subsidiary company, HDB Financial Services Limited ("HDBFS") launched its initial public offering ("IPO"), comprised of a fresh iss” |
 | **KPIL** | Linjemontage i Grästorp Aktiebolag | subsidiary · 96.12% (49,240,500 shares) held by Kalpa | listed | 2026-09-25 (filings) | 5.0 | PARTIAL SPIN-OFF, LISTED <1Y | “In accordance with Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)” |
+| **RELIANCE** | Jio Platforms Limited | subsidiary · not stated | listed | 2026-10-28 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED <1Y | “JPL has today finalised the Issue Price (including the anchor investor issue price) at ₹1,119 per Equity Share of face value of ₹10 each and has also filed the ” |
 | **CANBK** | Canara HSBC Life Insurance Company Limited; also Canara Robeco Asset Management Company Limited | subsidiary · 51% → 36.50% | listed | 2025-10-17 (NSE) | 3.6 | PARTIAL SPIN-OFF, LISTED 1–2Y | “In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Lif” |
 | **ICICIBANK** | ICICI Prudential Asset Management Company Limited | joint venture · 53.0% | listed | 2025-12-19 (NSE) | 3.6 | PARTIAL SPIN-OFF, LISTED <1Y | “Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.” |
 | **AEGISLOG** | Aegis Vopak Terminals Limited | subsidiary · 44% | listed | 2025-06-02 (NSE) | 2.9 | PARTIAL SPIN-OFF, LISTED 1–2Y | “This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity share” |
 | **EDELWEISS** | EAAA India Alternatives Limited | subsidiary · 83.88% held by the Company through all i | listed | 2026-11-02 (NSE) | 2.1 | PARTIAL SPIN-OFF, LISTED <1Y | “In continuation of our earlier intimations made in connection with the Initial Public Offering ("IPO") of EAAA India Alternatives Limited ("EAAA"), a subsidiary” |
+| **UPL** | Advanta Enterprises Limited; also UPL Global Sustainable Agri Solutions Limited *(the company also has a demerger on file)* | subsidiary · not stated | DRHP filed | date not fixed | 7.1 | PARTIAL SPIN-OFF, IPO IN MOTION | “In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (“SEBI Listin” |
 | **JSWSTEEL** | JSW One Platforms Limited | joint venture · about 61% equity stake on a fully dilute | board approval | Per the July 17, 2026 filing: "Completion date of the proposed IPO is not available as on date." | 5.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meetin” |
 | **AMBER** | IL JIN Electronics (India) Limited | subsidiary · 89.72% | DRHP filed | date not fixed | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “IL JIN Electronics (India) Limited (formerly known as IL JIN Electronics (India) Private Limited), a material subsidiary of the Company, has filed the Draft Red” |
 | **FIRSTCRY** | Swara Baby Products Limited | subsidiary · 76.59% | DRHP filed | date not fixed | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “In this connection, we wish to inform you that Swara Baby has filed a DRHP dated July 02, 2026 with the Securities and Exchange Board of India, BSE Limited and ” |
@@ -62,6 +64,7 @@ The parent keeps a stake and the piece gets its own price (the notes' Sears case
 | **GAIL** | GAIL Gas Limited | subsidiary · 100% (wholly owned subsidiary of GAIL) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly ” |
 | **IEX** | Indian Gas Exchange Limited | associate · 47.3% → 25% | DRHP filed | At the IEX Analyst Meet held July 24, 2026 the CFO said "the good part is that they filed the DRHP in this mo… | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “In furtherance of our intimation dated December 03, 2025, and in terms of Regulation 30 of the SEBI Listing Regulations, we wish to inform that the Indian Gas E” |
 | **NLCINDIA** | NLC India Renewables Limited | subsidiary · 100% (Wholly Owned Subsidiary) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Who” |
+| **CCAVENUE** | Rediff.com India Limited *(the company also has a demerger on file)* | subsidiary · not stated | DRHP filed | date not fixed | 0.0 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, (“Listing Regulatio” |
 
 ## Probable and indicated
 
@@ -74,7 +77,6 @@ Demergers first, then subsidiary listings, then schemes whose nature the documen
 | **REFEX** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | nclt_sanction | NOT YET (nclt_sanction) | 5.7 | [2026-10-28 Press Release](https://nsearchives.nseindia.com/corporate/REFEX2002_28102026140611_Press_release_Q2.pdf) · **demerger** · [text line 71](../../../Announcements/NiftyTotalMarket/text/REFEX_106831980.txt#L71) · “Y27 and ₹499 crore in H1FY27. •RGML Business - •Revenue of ₹ 36 crs & ₹ 69 crs in Q2FY27 & H1FY27 respectively •NCLT hearings are underway for approval to convene stakeholder meetings under the proposed demerger scheme, with the next hearing scheduled for 28 O”<br>[2026-08-07 Shareholders meeting](https://nsearchives.nseindia.com/corporate/REFEX2002_07082026175813_RIL-NCLT_Convened_meeting_Scrutinizers_Report.pdf) · **Demerged** · [text line 54](../../../Announcements/NiftyTotalMarket/text/REFEX_106731818.txt#L54) · “rdingly, voting by equity shareholders on Composite Scheme of Amalgamation and Arrangement amongst Refex Green Mobility Limited (“ Transferor Company” or “ RGML ”), Refex Industries Limited (“Transferee Company” or “Demerged Company” or “ RIL”) and Refex Mobil”<br>[2026-08-05 Shareholders meeting](https://nsearchives.nseindia.com/corporate/REFEX2002_05082026230439_RIL.pdf) · **Demerged** · [text line 47](../../../Announcements/NiftyTotalMarket/text/REFEX_106727700.txt#L47) · “to consider and , approve the Composite Scheme of Amalgamation and Arrangement amongst Refex Green Mobility Limited (“ Transferor Company ” or “RGML ”), Refex Industries Limited (“ Transferee Company ” or “Demerged Company” or “ RIL”) and Refex Mobility Limite”<br>+17 more documents |
 | **NMDC** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 5.0 | [2026-08-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NMDC_14082026183152_NMDCSE14082026-1.pdf) · **demerger** · [text line 113](../../../Announcements/NiftyTotalMarket/text/NMDC_106745117.txt#L113) · “4 regarding recoverability of dues from NMDC Steel Limited ("NSL"), consisting of an amount of INR 1,601.39 crores arising from demerger and INR 4,846.56 crores of trade and other receivables” |
 | **POWERINDIA** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings) | 5.0 | [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HitachiEnergy_31072026140328_AGMNOTICE.pdf) · **Demerger** · [text line 465](../../../Announcements/NiftyTotalMarket/text/POWERINDIA_106718950.txt#L465) · “Pursuant to the Scheme of Arrangement (Demerger), 1,07,421 equity shares were allotted directly to the IEPF account” |
-| **RELIANCE** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 5.0 | [2026-01-16 Press Release](https://nsearchives.nseindia.com/corporate/kavinavora_16012026192013_MR_file.pdf) · **demerger** · [text line 123](../../../Announcements/NiftyTotalMarket/text/RELIANCE_106499466.txt#L123) · “Distribution of festive buying between 2Q and 3Q, impact of consumer products division demerger and GST rationalization constrained top-line growth”<br>[2026-01 call transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) · **demerger** · RELIANCE.pdf page 308 · “y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL demerger and from the next quarter it will be entirely ther”<br>[2026-10-24 General Updates](https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf) · **General Updates** · headline · “Initial Public Offer of Jio Platforms Limited”<br>+6 more documents |
 | **SCI** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 5.0 | [2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026200458_Binder1sd.pdf) · **demerger** · [text line 133](../../../Announcements/NiftyTotalMarket/text/SCI_106524440.txt#L133) · “8 regarding MCA’a approval in FY 22-23 for demerger between The Shipping Corporation of India Limited (“Demerged Company”) and The Shipping corporation of India Limited Land and Assets Limited (“Resulting Company”) and consequently, transfer of non-core assets”<br>[2026-02-06 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SCI_06022026203220_Binder1sd.pdf) · **demerger** · [text line 133](../../../Announcements/NiftyTotalMarket/text/SCI_106524482.txt#L133) · “8 regarding MCA’a approval in FY 22-23 for demerger between The Shipping Corporation of India Limited (“Demerged Company”) and The Shipping corporation of India Limited Land and Assets Limited (“Resulting Company”) and consequently, transfer of non-core assets”<br>[2026-02-06 Record Date](https://nsearchives.nseindia.com/corporate/SCI_06022026204044_Binder1sd.pdf) · **demerger** · [text line 133](../../../Announcements/NiftyTotalMarket/text/SCI_106524497.txt#L133) · “8 regarding MCA’a approval in FY 22-23 for demerger between The Shipping Corporation of India Limited (“Demerged Company”) and The Shipping corporation of India Limited Land and Assets Limited (“Resulting Company”) and consequently, transfer of non-core assets” |
 | **EMBDL** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 4.3 | [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/IBREL_09022026191610_EDL_InvestorUpdate_09022026.pdf) · **demerger** · [text line 82](../../../Announcements/NiftyTotalMarket/text/EMBDL_106526895.txt#L82) · “The matter traces back to facilities availed by Sinnar Thermal Power Limited (STPL) in 2011, a power generation entity that was historically part of the erstwhile Indiabulls group. In FY 2010 –11, a court -approved demerger reorganised the group’s businesses, ”<br>[2026-04-12 General Updates](https://nsearchives.nseindia.com/corporate/EMBDL_12042026091738_EDL_Intimation_Jodhpur_Mall.pdf) · **General Updates** · headline · “Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Sale of Subsidiary Company”<br>[2026-01-29 General Updates](https://nsearchives.nseindia.com/corporate/IBREL_29012026194031_EDL_Intimation_Strike-off_Subsi.pdf) · **General Updates** · headline · “Embassy Developments Limited has informed the Exchange about Voluntary strike-off of non-operational wholly owned subsidiaries of the Company.” |
 | **JSWDULUX** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 4.3 | [2025-11-13 General Updates](https://nsearchives.nseindia.com/corporate/AKZOINDIA_13112025133240_AkzoIndiaReg30ADisclosure13Nov25_Sep.pdf) · **demerger** · [text line 190](../../../Announcements/NiftyTotalMarket/text/JSWDULUX_106441449.txt#L190) · “in parameters or conditions as set out in the DTD and/ or with the consent of the Debenture Trustee and / or as may be permitted in accordance with the terms of the DTD (namely: (i) entering into any amalgamation, demerger, merger, consolidation, spin-off, reo”<br>[2025-11 call transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6b74639b-f3ea-48b9-9112-e3db0cc5ea5f.pdf) · **carve-out** · JSWDULUX.pdf page 146 · “our Board members , when you look at the P&L that one needs to understand certain intricacies. Otherwise, wrong deductions will be taken, particularly with the carve-out of the businesses and also because of a onetime g”<br>[2025-12-19 General Updates](https://nsearchives.nseindia.com/corporate/AKZOINDIA_19122025133732_AkzoIndiaRegulation30Disclosure-ImperialShareSale19Dec2025.pdf) · **General Updates** · headline · “Akzo Nobel India Limited has informed the Exchange about sale of shares by the erstwhile promoter.” |
@@ -6275,6 +6277,168 @@ xychart-beta
 
 </details>
 
+## RELIANCE — Reliance Industries Ltd.
+
+**CONFIRMED** (partial spin-off — Jio Platforms Limited is listed since 2026-10-28) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 5.0/10 · partial spin-off (subsidiary IPO) · 12 filing(s) from CALLS, NSE · first 2025-12-01, latest 2026-10-24
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — Jio Platforms Limited trades since 2026-10-28 (NSE equity list); the parent keeps its remaining stake
+
+**The stages, as filed:** exchange_noc (2026-08-28) → effective (2025-12-01)
+
+**The partial spin-off:** **Jio Platforms Limited** (subsidiary); IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol JPL; timeline: per the October 14, 2026 filing, "The Anchor Investor Bidding Date is Monday, October 19, 2026. The IPO will open for subscription on Wednesday, October 21, 202.
+
+> “JPL has today finalised the Issue Price (including the anchor investor issue price) at ₹1,119 per Equity Share of face value of ₹10 each and has also filed the Prospectus dated October 24, 2026 with t”
+
+**Stated in the filings:** size hint: 16.4% of ebitda.
+
+**What is being separated, as the documents put it:** Consumer Brands (FMCG) business undertaking demerged from Reliance Retail Ventures Ltd into Tira Beauty Ltd, renamed Reliance Consumer Products Ltd — class `value_unlocking`.
+
+- *Insiders:* Promoter holding not stated. New RCPL becomes an 83.56% direct subsidiary of RIL; RRVL shareholders get 1 New RCPL share per 2 RRVL shares. Ketan Mody is Executive Director, RCPL.
+- *What it reveals:* A fast-scaling FMCG business previously buried in Retail: FY26 revenue Rs.22,000 crore (2x Y-o-Y), Q1 FY27 Rs.8,600 crore, Campa Rs.4,700 crore, Independence Rs.2,600 crore — but only 'breakeven on EBITDA terms', with a Rs.1 lakh crore FY2030 target.
+- *Selling pressure:* unlikely — No listing stated; shares allotted to shareholders of unlisted RRVL, with RIL retaining 83.56% — no index exclusion mechanism disclosed.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* RCPL standalone EBITDA split that Dinesh Taluja deferred ('we will have to wait for the next quarter') and the composite scheme document
+- *In their words:* “Further, in terms of the Scheme, as consideration for the demerger of the Consumer Brands Business Undertaking from RRVL to New RCPL, New RCPL will allot 1 (one) fully paid-up equity share of Rs. 10 (Rupees ten only) each for every 2 (two) fully paid-up equity shares of Rs. 10 (Rupees ten only) each of RRVL, to the shareholders of RRVL.”
+
+### Why the demerger — three years of calls and the scheme
+
+The business being separated is Reliance's FMCG/consumer-brands arm, Reliance Consumer Products Ltd (RCPL) — Campa, Independence, Good Life, Ravalgaon/Toffeeman/Lotus, Velvette, Glimmer, Enzo, SIL, Maliban, Alan's, plus acquisitions Udhaiyam, Manna, Sosyo, Goodness Group and the Toni & Guy/Brylcreem/Badedas/Matey brands — which was carved out of Reliance Retail Ventures Ltd (RRVL) under a composite scheme effective 1 December 2025: the 'Consumer Brands Business Undertaking' was demerged from RRVL into Tira Beauty Ltd (renamed RCPL), the old RCPL was dissolved, RRVL shareholders received 1 new RCPL share for every 2 RRVL shares, and the new entity became an 83.56% direct subsidiary of RIL rather than a retail subsidiary. The only rationale management actually articulates is in the Chairman's 16 January 2026 statement: the consumer products vertical is 'progressing on its accelerated growth trajectory with a focused organizational structure' — i.e. a dedicated, directly-held vehicle for a business scaling far faster than retail (Q3 FY26 Rs 5,000 crore, +60% Y-o-Y; 9M FY26 Rs 15,000 crore; FY26 Rs 22,000 crore, 2x Y-o-Y; Q4 FY26 Rs 7,350 crore; Q1 FY27 Rs 8,600 crore, 2x; Campa Rs 4,700 crore and India's 4th largest CSD brand; Independence Rs 2,600 crore; beverages over Rs 6,000 crore; 3rd largest packaged water player; 5,000+ distributors, 3 million outlets, 40 export markets; target Rs 1 lakh crore by FY2030). The problem it visibly solves, though never stated as the reason, is mixing an only-breakeven, capex-hungry FMCG build-out (12 plants, integrated food parks, Kurnool and 'one of the largest beverage plants in Asia', edible-oil facility in West Bengal) into Reliance Retail's P&L: on every call since, management has had to strip RCPL out to show the underlying retail trend — Q3 FY26 8.1% reported, Q4 FY26 11% reported vs ~14% adjusted, Q1 FY27 7.4% reported vs 11.6% adjusted — while Ketan Mody confirms RCPL itself is only 'breakeven on EBITDA terms'. Two parallel separations run alongside it: the Jio Platforms IPO (DRHP 19 June 2026 for a fresh issue of up to 27 crore shares of Rs 10, SEBI observation 28 August 2026, RHP 14 October 2026, priced at Rs 1,119 on 24 October 2026, with Rs 500 crore reserved for employees and Rs 2,500 crore for individual/HUF RIL shareholders), and the carve-out of AI/data-centre activity into 'Reliance Intelligence'/RIL so that JPL stays asset-light — capex at RIL or Reliance Intelligence, service provision and products accessed by Jio under long-term leases. No investor, lender or partner is recorded as having asked for any of this; analysts' only questions on the demerger were for like-for-like revenue and EBITDA adjustments, and management expressly deferred the EBITDA impact to the next quarter.
+
+**How it evolved:** On the Oct 2024 call the consumer-brands business was still just a bullet inside Dinesh Taluja's retail section (general-trade revenue '250% plus' Y-o-Y) with no hint of separation. The 1 Dec 2025 scheme filings made it real — RCPL demerged out of RRVL into a directly held 83.56% RIL subsidiary — and on the 16 Jan 2026 call (Q3 FY26) RCPL got its own speaker (Ketan Mody), its own Rs 5,000 crore quarter, and the Chairman's 'focused organizational structure' line, while analysts (Investec's Harit Kapoor, CLSA's Vikash Jain) could only extract 'we will have to wait for the next quarter' on the margin impact. By 24 Apr 2026 RCPL presented through its own CFO (Ashutosh Goyal, FY26 Rs 22,000 crore) and retail growth was being quoted both reported and ex-demerger; by 17 Jul 2026 an RCPL Executive Director gave a Rs 1 lakh crore FY2030 ambition and admitted EBITDA breakeven. Over the same window the separation theme widened: AI data centres were explicitly moved out of JPL into Reliance Intelligence (Jan/Apr 2026 calls) and the JPL IPO moved from 'imminent' (Apr 2026) to DRHP (19 Jun 2026) to pricing at Rs 1,119 (24 Oct 2026).
+
+**What management expects from it:** RCPL: a focused structure for accelerated growth to Rs 1 lakh crore by FY2030, with EBITDA rising from breakeven as capacity, food parks and supply chain scale. Retail: cleaner double-digit underlying growth plus ~8% margins, free to fund hyperlocal/digital commerce and double EBITDA in three years. RIL shareholders: direct 83.56%-held ownership and 1-for-2 shares; Jio stays asset-light with capex in Reliance Intelligence.
+
+**Point by point, with the source:**
+
+- *Scheme* — The 1 Dec 2025 composite scheme demerged the Consumer Brands Business Undertaking from RRVL into Tira Beauty Ltd (renamed RCPL), dissolved the old RCPL, and paid RRVL shareholders 1 new RCPL share for every 2 RRVL shares. “in terms of the Scheme, as consideration for the demerger of the Consumer Brands Business Undertaking from RRVL to New RCPL, New RCPL will allot 1 (one) fully paid-up equity share of Rs. 10 (Rupees ten only) each for every 2 (two) fully paid-up equity shares of Rs. 10 (Rupees ten only) each of RRVL, to the shareholders of RRVL.”
+- *Scheme* — The structural outcome: FMCG stops being a retail subsidiary and becomes a business RIL owns directly at 83.56%, with the pre-scheme RRVL-held capital of the new entity cancelled. “Accordingly, New RCPL will become 83.56% direct subsidiary of the Company.”
+- *FILING 2026-01-16* — The only stated rationale anywhere in these documents: the Chairman frames the demerger as giving the consumer products vertical a focused organisational structure to support accelerated growth. “The demerger of consumer products business came into effect this quarter. With a broad and diverse product basket ranging from classic Indian brands to new age labels, the consumer products vertical is progressing on its accelerated growth trajectory with a focused organizational structure.”
+- *CALL Jan 2026* — CFO V Srikanth confirmed the 1 December effective date and sized the separated business at over Rs 5,000 crore of quarterly turnover, growing 60% Y-o-Y — the growth differential versus retail's 8%. “On the FMCG side, the demerger happened on 1st December. And we are at more than 5,000 Crores of turnover, and this is 60% up on a year-on-year basis.”
+- *CALL Jan 2026* — Ketan Mody opened RCPL's first post-demerger section by stating the new ownership line (direct subsidiary of RIL, not of Reliance Retail), with 9M revenue of Rs 15,000 crore and four brands above Rs 1,000 crore. “So RCPL became the direct subsidiary of RIL from 1st December 2025.”
+- *CALL Jan 2026* — Asked by CLSA and Investec to quantify the EBITDA that left Reliance Retail with the demerger, Dinesh Taluja declined to give the number — the separation's margin arithmetic was never explained on the call. “We will have to wait for the next quarter.”
+- *CALL Apr 2026* — From Q4 FY26 the demerger became a permanent adjustment in retail's reported growth: 11% reported, ~14% ex-RCPL for the quarter and 12% for the year. “Now, if you recollect, RCPL business was demerged out in the last quarter adjusted for that, the growth is almost 14%, for the full year the growth is 12% and if you exclude RCPL demerger the growth would be even higher.”
+- *CALL Apr 2026* — RCPL began reporting through its own CFO with full-year scale figures — Rs 22,000 crore FY26 revenue (2x), Campa Rs 4,700 crore as India's 4th largest CSD brand, Independence Rs 2,600 crore, 12 plants, 5,000 distributors, 3 million outlets, 40 countries. “From an FMCG business perspective, we closed our revenue of Rs.22,000 Crores in 2026 and for the Q4 alone, we delivered a revenue of Rs.7350 Crores, both these are two times growth on the similar period for the last year.”
+- *CALL Jul 2026* — A full year of the demerger now creates a ~4 percentage point gap between retail's reported and underlying growth, the clearest evidence of the optics the separation changes. “In terms of topline growth, as you would recollect, RCPL business was demerged out on 1st of December. So Q1 had the full revenue. Adjusted for that, the underlying revenue growth is 11.6%. On a reported basis, the growth is 7.4%.”
+- *CALL Jul 2026* — The separated entity's own target is Rs 1 lakh crore of revenue by FY2030, with Q1 FY27 revenue of Rs 8,600 crore (2x) — but it is still only at EBITDA breakeven, with margins to come from scale and supply chain. “So, like we have announced, the target continues to kind of grow leadership in all categories and we have anyway announced the target is to kind of take this to Rs.1 lakh Crores on FY2030.”
+- *CALL Jul 2026* — Ketan Mody conceded RCPL earns essentially nothing today — i.e. a breakeven, market-share-focused business was removed from a retail P&L running at ~8% EBITDA margin. “EBITDA, I would put it across since the concentration there, yes, we are breakeven on EBITDA terms, but EBITDA will improve as a scale and all the supply chain is kind of put it across but yes, right now the concentration more on the market share”
+- *CALL Oct 2024* — Baseline before the separation: the same brands (Campa, Independence, Maliban, Ravalgaon) were reported as one line inside Reliance Retail, with no mention of any demerger or separate entity. “Consumer brands business continues to scale up very nicely. We are expanding our distribution network. The general trade revenues are growing at 250% plus on Y-o-Y basis.”
+
+*Not explained on the calls:* No stated reason for separating rather than retaining RCPL, no RCPL margin, capex, funding or listing plan, no EBITDA quantification, no synergy loss, tax or governance discussion.
+
+*Calls read (36 months):* [Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf), [Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf), [Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a33049-ed9e-4544-ace5-a92e5f984f23.pdf), [Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf)
+
+### The parent, last three fiscal years (consolidated)
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 899,041 | 962,820 | 1,055,780 |
+| Sales growth (%) | +2.6% | +7.1% | +9.7% |
+| Operating profit (₹ cr) | 162,498 | 165,598 | 179,065 |
+| Operating profit growth (%) | +14.2% | +1.9% | +8.1% |
+| Operating margin (%) | 18.1 | 17.2 | 17.0 |
+| PAT (₹ cr) | 79,020 | 81,309 | 95,754 |
+| PAT growth (%) | +6.7% | +2.9% | +17.8% |
+| PAT margin (%) | 8.8 | 8.4 | 9.1 |
+| EPS (₹) | 51.5 | 51.5 | 59.7 |
+
+*Source: ProfitStatement/NiftyTotalMarket/RELIANCE.csv (consolidated, screener.in); growth and margins computed here.*
+
+```mermaid
+xychart-beta
+    title "Sales, operating profit and PAT (₹ cr)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "₹ crore"
+    bar [899041, 962820, 1.05578e+06]
+    bar [162498, 165598, 179065]
+    bar [79020, 81309, 95754]
+```
+*Series in order: Sales, Operating profit, PAT.*
+
+```mermaid
+xychart-beta
+    title "Margins (%)"
+    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
+    y-axis "%"
+    line [18.1, 17.2, 17]
+    line [8.8, 8.4, 9.1]
+```
+*Series in order: Operating margin, PAT margin.*
+
+**P/E:** 23.7 — live market file (screener.in), trailing (price ₹1,308.00 as of 2026-08-02).
+
+**Cash flows (₹ cr):**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Cash from operations (₹ cr) | 158,788 | 178,703 | 192,113 |
+| Cash from investing (₹ cr) | -113,581 | -137,535 | -101,089 |
+| Cash from financing (₹ cr) | -16,646 | -31,891 | -51,549 |
+| Net cash flow (₹ cr) | 28,561 | 9,277 | 39,475 |
+| Free cash flow (₹ cr) | 21,212 | 41,079 | 70,023 |
+
+*Source: CashFlow/NiftyTotalMarket/RELIANCE.csv (consolidated, screener.in).*
+
+### The business being separated — its own numbers
+
+**Reliance Consumer Products Limited (RCPL) — consumer brands / FMCG business (reported within the 'Others' segment; demerged from RRVL, a direct RIL subsidiary from Dec 01, 2025)** · unit ₹ crore · No profit line is disclosed for this business anywhere in the tagged pages — FMCG sits inside the 'Others' segment of RIL's segment reporting (Others EBITDA/segment result also includes Media, Real Estate, treasury income and unallocable expenses), so no RCPL-only segment result, EBITDA, PBT or PAT exists. Revenue shown is 'Gross Revenue' as labelled in the quarterly presentations (gross, i.e. before netting of GST/discounts, not the segment 'external turnover' line); FY26 gross revenue explicitly includes RCPL sales before the de-merger from RRVL.
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ crore) | — | — | 22,000 |
+| Revenue growth (%) | — | — | — |
+| Operating profit (₹ crore) | — | — | — |
+| Operating profit growth (%) | — | — | — |
+| Operating margin (%) | — | — | — |
+| PAT (₹ crore) | — | — | — |
+| PAT growth (%) | — | — | — |
+
+*Sources:* not disclosed in tagged pages; Presentation Apr 2026 — page 32
+
+*Latest quarter (Q2 FY27):* revenue 8266, operating profit None — Presentation Nov 2026 — page 36
+
+*Not in the pages read:* No EBITDA/EBIT/PBT/PAT for RCPL in any year or quarter; no FY2024 or FY2025 revenue (FY26 given only as '₹22,000 Cr, 2x YoY'); FMCG not a separate reportable segment.
+
+*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/468b09a3-a212-4066-bbaa-4b0ba524d2ce.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d473280d-1c2b-4037-8ff9-dfbb82aa2c7e.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0dc8ebe7-5e2d-4946-85ee-1e536c461a71.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01d1656c-cf53-4d52-94c3-7ed0edd50271.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5145c56f-ff81-4812-9663-f9b2461c4b2c.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0e06e07-5a3e-4bc0-a6a6-76635bc53238.pdf); [Presentation Oct 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a050d55-ad53-4d57-8735-cbcf20bb412b.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49a01d99-854c-4c3a-b62c-e1fb3619029f.pdf)
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | value unlocking for shareholders — “…balance sheet strength have been recognized by international rating - Reliance is entering a new phase of value creation with its initiatives in the AI and New Energy domains. I am confident that Reliance will play a pi” |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 16.4% of ebitda |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 402,962 cr (Mar 2026) = 0.23× market cap; P/E 18.5 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
+| Timing (first year sells, second year gains) | partly | not yet listed — 351 days since the first filing, stage effective |
+| Management discussing it on the calls | yes | 13 mention(s) in the last 12 months of calls — “…etail platform. So, these are customers who shopped across at least one of the platforms. In terms of topline growth, as you would recollect, RCPL business was demerged out on 1 st of December. So Q1 had the full revenu” |
+
+**On the calls (last 12 months):**
+
+- *Jan 2026* (neutral) — “…e fact that we have now 1.6 million orders run rate that is what we are doing, and very much on track to be the second largest QC player. On the FMCG side, the demerger happened on 1st December. And we are at more than 5,000 Crores of turnover, and this is 60% up on a year -on-year basis. A lot of purchases of brands that we h…”
+- *Jan 2026* (backward) — “…in Q3. So , if you remember, we had a very strong Q2 growth. Some of the sales, which was built in Q3 last year was in Q2. And then the third part is the RCPL demerger, which was effective during the quarter. So RCPL's entire revenue was included in Q2. Now that reve nue has gone out of retail business. EBITDA came in at 6,91…”
+- *Jan 2026* (forward) — “…y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL demerger and from the next quarter it will be entirely there , so if you could just give us a sense of ex the merger what the like -to-like growth would be for the reta…”
+- *Jan 2026* (forward) — “…uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the demerger have from next quarter we start looking at the numbers ? Company Speaker ( Dinesh Taluja ) From a revenue perspective, there is a month of revenue which has go…”
+- *Jan 2026* (neutral) — “…xtreme and more so in the context of fairly valid set of explanations because it is a combination of things unique you do not have this Q2 and Q3 and some RCPL demerger and something to do with GST coming at the same time and accelerating from an EBITDA standpoint, accelerating on quick commerce, lots of things , so you have t…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2025-12-01 | Other Restructuring | Merger of Star Television Productions Limited, a subsidiary of the Company with Star India Private Limited (now known as Jiostar India Private Limited), another | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_01122025174049_RIL_011225.pdf) |
+| 2025-12-01 | Other Restructuring | Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 is attached. | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_01122025224807_RIL_SE_Letter_RCPL.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-16 | Press Release | Reliance Industries Limited has informed the Exchange regarding a press release dated January 16, 2026, titled "In continuation of our letter of today's date on | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_16012026192013_MR_file.pdf) |
+| 2026-06-14 | Updates | Please find attached a media release by Jio Platforms Limited, a subsidiary of the Company, titled Jio Platforms Surges into Global Top 20 in latest WIPO Patent | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14062026155341_SE_14062026.pdf) |
+| 2026-06-19 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_19062026142004_SE_19062026_signed.pdf) |
+| 2026-08-28 | Updates | Observation Letter on the Draft Red Herring Prospectus for the proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_28082026183323_RIL_SE_28082026.pdf) |
+| 2026-10-14 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited - filing of the Red Herring Prospectus. | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf) |
+| 2026-10-24 | General Updates | Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf) |
+
+</details>
+
 ## CANBK — Canara Bank
 
 **CONFIRMED** (partial spin-off — Canara HSBC Life Insurance Company Limited is listed since 2025-10-17) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 3.6/10 · partial spin-off (subsidiary IPO) · 2 filing(s) from NSE · first 2025-10-16, latest 2025-10-17
@@ -8663,164 +8827,6 @@ The segment pages read (3 annual report(s) and 13 presentation(s) on file) do no
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2026-07-31 | Shareholders meeting | Hitachi Energy India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 28, 2026 | [pdf](https://nsearchives.nseindia.com/corporate/HitachiEnergy_31072026140328_AGMNOTICE.pdf) |
-
-</details>
-
-## RELIANCE — Reliance Industries Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **SPINNING — record date set; the new entity lists soon** · score 5.0/10 · spin-off · 12 filing(s) from CALLS, NSE · first 2025-12-01, latest 2026-10-24
-
-> **Listing:** RECORD DATE set; the resulting company not yet listed — resulting companies have typically listed 4–10 weeks after the record date
-
-**The stages, as filed:** exchange_noc (2026-08-28) → effective (2025-12-01)
-
-**Stated in the filings:** size hint: 16.4% of ebitda.
-
-**What is being separated, as the documents put it:** Consumer Brands (FMCG) business undertaking demerged from Reliance Retail Ventures Ltd into Tira Beauty Ltd, renamed Reliance Consumer Products Ltd — class `value_unlocking`.
-
-- *Insiders:* Promoter holding not stated. New RCPL becomes an 83.56% direct subsidiary of RIL; RRVL shareholders get 1 New RCPL share per 2 RRVL shares. Ketan Mody is Executive Director, RCPL.
-- *What it reveals:* A fast-scaling FMCG business previously buried in Retail: FY26 revenue Rs.22,000 crore (2x Y-o-Y), Q1 FY27 Rs.8,600 crore, Campa Rs.4,700 crore, Independence Rs.2,600 crore — but only 'breakeven on EBITDA terms', with a Rs.1 lakh crore FY2030 target.
-- *Selling pressure:* unlikely — No listing stated; shares allotted to shareholders of unlisted RRVL, with RIL retaining 83.56% — no index exclusion mechanism disclosed.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* RCPL standalone EBITDA split that Dinesh Taluja deferred ('we will have to wait for the next quarter') and the composite scheme document
-- *In their words:* “Further, in terms of the Scheme, as consideration for the demerger of the Consumer Brands Business Undertaking from RRVL to New RCPL, New RCPL will allot 1 (one) fully paid-up equity share of Rs. 10 (Rupees ten only) each for every 2 (two) fully paid-up equity shares of Rs. 10 (Rupees ten only) each of RRVL, to the shareholders of RRVL.”
-
-### Why the demerger — three years of calls and the scheme
-
-The business being separated is Reliance's FMCG/consumer-brands arm, Reliance Consumer Products Ltd (RCPL) — Campa, Independence, Good Life, Ravalgaon/Toffeeman/Lotus, Velvette, Glimmer, Enzo, SIL, Maliban, Alan's, plus acquisitions Udhaiyam, Manna, Sosyo, Goodness Group and the Toni & Guy/Brylcreem/Badedas/Matey brands — which was carved out of Reliance Retail Ventures Ltd (RRVL) under a composite scheme effective 1 December 2025: the 'Consumer Brands Business Undertaking' was demerged from RRVL into Tira Beauty Ltd (renamed RCPL), the old RCPL was dissolved, RRVL shareholders received 1 new RCPL share for every 2 RRVL shares, and the new entity became an 83.56% direct subsidiary of RIL rather than a retail subsidiary. The only rationale management actually articulates is in the Chairman's 16 January 2026 statement: the consumer products vertical is 'progressing on its accelerated growth trajectory with a focused organizational structure' — i.e. a dedicated, directly-held vehicle for a business scaling far faster than retail (Q3 FY26 Rs 5,000 crore, +60% Y-o-Y; 9M FY26 Rs 15,000 crore; FY26 Rs 22,000 crore, 2x Y-o-Y; Q4 FY26 Rs 7,350 crore; Q1 FY27 Rs 8,600 crore, 2x; Campa Rs 4,700 crore and India's 4th largest CSD brand; Independence Rs 2,600 crore; beverages over Rs 6,000 crore; 3rd largest packaged water player; 5,000+ distributors, 3 million outlets, 40 export markets; target Rs 1 lakh crore by FY2030). The problem it visibly solves, though never stated as the reason, is mixing an only-breakeven, capex-hungry FMCG build-out (12 plants, integrated food parks, Kurnool and 'one of the largest beverage plants in Asia', edible-oil facility in West Bengal) into Reliance Retail's P&L: on every call since, management has had to strip RCPL out to show the underlying retail trend — Q3 FY26 8.1% reported, Q4 FY26 11% reported vs ~14% adjusted, Q1 FY27 7.4% reported vs 11.6% adjusted — while Ketan Mody confirms RCPL itself is only 'breakeven on EBITDA terms'. Two parallel separations run alongside it: the Jio Platforms IPO (DRHP 19 June 2026 for a fresh issue of up to 27 crore shares of Rs 10, SEBI observation 28 August 2026, RHP 14 October 2026, priced at Rs 1,119 on 24 October 2026, with Rs 500 crore reserved for employees and Rs 2,500 crore for individual/HUF RIL shareholders), and the carve-out of AI/data-centre activity into 'Reliance Intelligence'/RIL so that JPL stays asset-light — capex at RIL or Reliance Intelligence, service provision and products accessed by Jio under long-term leases. No investor, lender or partner is recorded as having asked for any of this; analysts' only questions on the demerger were for like-for-like revenue and EBITDA adjustments, and management expressly deferred the EBITDA impact to the next quarter.
-
-**How it evolved:** On the Oct 2024 call the consumer-brands business was still just a bullet inside Dinesh Taluja's retail section (general-trade revenue '250% plus' Y-o-Y) with no hint of separation. The 1 Dec 2025 scheme filings made it real — RCPL demerged out of RRVL into a directly held 83.56% RIL subsidiary — and on the 16 Jan 2026 call (Q3 FY26) RCPL got its own speaker (Ketan Mody), its own Rs 5,000 crore quarter, and the Chairman's 'focused organizational structure' line, while analysts (Investec's Harit Kapoor, CLSA's Vikash Jain) could only extract 'we will have to wait for the next quarter' on the margin impact. By 24 Apr 2026 RCPL presented through its own CFO (Ashutosh Goyal, FY26 Rs 22,000 crore) and retail growth was being quoted both reported and ex-demerger; by 17 Jul 2026 an RCPL Executive Director gave a Rs 1 lakh crore FY2030 ambition and admitted EBITDA breakeven. Over the same window the separation theme widened: AI data centres were explicitly moved out of JPL into Reliance Intelligence (Jan/Apr 2026 calls) and the JPL IPO moved from 'imminent' (Apr 2026) to DRHP (19 Jun 2026) to pricing at Rs 1,119 (24 Oct 2026).
-
-**What management expects from it:** RCPL: a focused structure for accelerated growth to Rs 1 lakh crore by FY2030, with EBITDA rising from breakeven as capacity, food parks and supply chain scale. Retail: cleaner double-digit underlying growth plus ~8% margins, free to fund hyperlocal/digital commerce and double EBITDA in three years. RIL shareholders: direct 83.56%-held ownership and 1-for-2 shares; Jio stays asset-light with capex in Reliance Intelligence.
-
-**Point by point, with the source:**
-
-- *Scheme* — The 1 Dec 2025 composite scheme demerged the Consumer Brands Business Undertaking from RRVL into Tira Beauty Ltd (renamed RCPL), dissolved the old RCPL, and paid RRVL shareholders 1 new RCPL share for every 2 RRVL shares. “in terms of the Scheme, as consideration for the demerger of the Consumer Brands Business Undertaking from RRVL to New RCPL, New RCPL will allot 1 (one) fully paid-up equity share of Rs. 10 (Rupees ten only) each for every 2 (two) fully paid-up equity shares of Rs. 10 (Rupees ten only) each of RRVL, to the shareholders of RRVL.”
-- *Scheme* — The structural outcome: FMCG stops being a retail subsidiary and becomes a business RIL owns directly at 83.56%, with the pre-scheme RRVL-held capital of the new entity cancelled. “Accordingly, New RCPL will become 83.56% direct subsidiary of the Company.”
-- *FILING 2026-01-16* — The only stated rationale anywhere in these documents: the Chairman frames the demerger as giving the consumer products vertical a focused organisational structure to support accelerated growth. “The demerger of consumer products business came into effect this quarter. With a broad and diverse product basket ranging from classic Indian brands to new age labels, the consumer products vertical is progressing on its accelerated growth trajectory with a focused organizational structure.”
-- *CALL Jan 2026* — CFO V Srikanth confirmed the 1 December effective date and sized the separated business at over Rs 5,000 crore of quarterly turnover, growing 60% Y-o-Y — the growth differential versus retail's 8%. “On the FMCG side, the demerger happened on 1st December. And we are at more than 5,000 Crores of turnover, and this is 60% up on a year-on-year basis.”
-- *CALL Jan 2026* — Ketan Mody opened RCPL's first post-demerger section by stating the new ownership line (direct subsidiary of RIL, not of Reliance Retail), with 9M revenue of Rs 15,000 crore and four brands above Rs 1,000 crore. “So RCPL became the direct subsidiary of RIL from 1st December 2025.”
-- *CALL Jan 2026* — Asked by CLSA and Investec to quantify the EBITDA that left Reliance Retail with the demerger, Dinesh Taluja declined to give the number — the separation's margin arithmetic was never explained on the call. “We will have to wait for the next quarter.”
-- *CALL Apr 2026* — From Q4 FY26 the demerger became a permanent adjustment in retail's reported growth: 11% reported, ~14% ex-RCPL for the quarter and 12% for the year. “Now, if you recollect, RCPL business was demerged out in the last quarter adjusted for that, the growth is almost 14%, for the full year the growth is 12% and if you exclude RCPL demerger the growth would be even higher.”
-- *CALL Apr 2026* — RCPL began reporting through its own CFO with full-year scale figures — Rs 22,000 crore FY26 revenue (2x), Campa Rs 4,700 crore as India's 4th largest CSD brand, Independence Rs 2,600 crore, 12 plants, 5,000 distributors, 3 million outlets, 40 countries. “From an FMCG business perspective, we closed our revenue of Rs.22,000 Crores in 2026 and for the Q4 alone, we delivered a revenue of Rs.7350 Crores, both these are two times growth on the similar period for the last year.”
-- *CALL Jul 2026* — A full year of the demerger now creates a ~4 percentage point gap between retail's reported and underlying growth, the clearest evidence of the optics the separation changes. “In terms of topline growth, as you would recollect, RCPL business was demerged out on 1st of December. So Q1 had the full revenue. Adjusted for that, the underlying revenue growth is 11.6%. On a reported basis, the growth is 7.4%.”
-- *CALL Jul 2026* — The separated entity's own target is Rs 1 lakh crore of revenue by FY2030, with Q1 FY27 revenue of Rs 8,600 crore (2x) — but it is still only at EBITDA breakeven, with margins to come from scale and supply chain. “So, like we have announced, the target continues to kind of grow leadership in all categories and we have anyway announced the target is to kind of take this to Rs.1 lakh Crores on FY2030.”
-- *CALL Jul 2026* — Ketan Mody conceded RCPL earns essentially nothing today — i.e. a breakeven, market-share-focused business was removed from a retail P&L running at ~8% EBITDA margin. “EBITDA, I would put it across since the concentration there, yes, we are breakeven on EBITDA terms, but EBITDA will improve as a scale and all the supply chain is kind of put it across but yes, right now the concentration more on the market share”
-- *CALL Oct 2024* — Baseline before the separation: the same brands (Campa, Independence, Maliban, Ravalgaon) were reported as one line inside Reliance Retail, with no mention of any demerger or separate entity. “Consumer brands business continues to scale up very nicely. We are expanding our distribution network. The general trade revenues are growing at 250% plus on Y-o-Y basis.”
-
-*Not explained on the calls:* No stated reason for separating rather than retaining RCPL, no RCPL margin, capex, funding or listing plan, no EBITDA quantification, no synergy loss, tax or governance discussion.
-
-*Calls read (36 months):* [Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf), [Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf), [Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a33049-ed9e-4544-ace5-a92e5f984f23.pdf), [Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf)
-
-### The parent, last three fiscal years (consolidated)
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 899,041 | 962,820 | 1,055,780 |
-| Sales growth (%) | +2.6% | +7.1% | +9.7% |
-| Operating profit (₹ cr) | 162,498 | 165,598 | 179,065 |
-| Operating profit growth (%) | +14.2% | +1.9% | +8.1% |
-| Operating margin (%) | 18.1 | 17.2 | 17.0 |
-| PAT (₹ cr) | 79,020 | 81,309 | 95,754 |
-| PAT growth (%) | +6.7% | +2.9% | +17.8% |
-| PAT margin (%) | 8.8 | 8.4 | 9.1 |
-| EPS (₹) | 51.5 | 51.5 | 59.7 |
-
-*Source: ProfitStatement/NiftyTotalMarket/RELIANCE.csv (consolidated, screener.in); growth and margins computed here.*
-
-```mermaid
-xychart-beta
-    title "Sales, operating profit and PAT (₹ cr)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "₹ crore"
-    bar [899041, 962820, 1.05578e+06]
-    bar [162498, 165598, 179065]
-    bar [79020, 81309, 95754]
-```
-*Series in order: Sales, Operating profit, PAT.*
-
-```mermaid
-xychart-beta
-    title "Margins (%)"
-    x-axis ["Mar 2024", "Mar 2025", "Mar 2026"]
-    y-axis "%"
-    line [18.1, 17.2, 17]
-    line [8.8, 8.4, 9.1]
-```
-*Series in order: Operating margin, PAT margin.*
-
-**P/E:** 23.7 — live market file (screener.in), trailing (price ₹1,308.00 as of 2026-08-02).
-
-**Cash flows (₹ cr):**
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Cash from operations (₹ cr) | 158,788 | 178,703 | 192,113 |
-| Cash from investing (₹ cr) | -113,581 | -137,535 | -101,089 |
-| Cash from financing (₹ cr) | -16,646 | -31,891 | -51,549 |
-| Net cash flow (₹ cr) | 28,561 | 9,277 | 39,475 |
-| Free cash flow (₹ cr) | 21,212 | 41,079 | 70,023 |
-
-*Source: CashFlow/NiftyTotalMarket/RELIANCE.csv (consolidated, screener.in).*
-
-### The business being separated — its own numbers
-
-**Reliance Consumer Products Limited (RCPL) — consumer brands / FMCG business (reported within the 'Others' segment; demerged from RRVL, a direct RIL subsidiary from Dec 01, 2025)** · unit ₹ crore · No profit line is disclosed for this business anywhere in the tagged pages — FMCG sits inside the 'Others' segment of RIL's segment reporting (Others EBITDA/segment result also includes Media, Real Estate, treasury income and unallocable expenses), so no RCPL-only segment result, EBITDA, PBT or PAT exists. Revenue shown is 'Gross Revenue' as labelled in the quarterly presentations (gross, i.e. before netting of GST/discounts, not the segment 'external turnover' line); FY26 gross revenue explicitly includes RCPL sales before the de-merger from RRVL.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ crore) | — | — | 22,000 |
-| Revenue growth (%) | — | — | — |
-| Operating profit (₹ crore) | — | — | — |
-| Operating profit growth (%) | — | — | — |
-| Operating margin (%) | — | — | — |
-| PAT (₹ crore) | — | — | — |
-| PAT growth (%) | — | — | — |
-
-*Sources:* not disclosed in tagged pages; Presentation Apr 2026 — page 32
-
-*Latest quarter (Q2 FY27):* revenue 8266, operating profit None — Presentation Nov 2026 — page 36
-
-*Not in the pages read:* No EBITDA/EBIT/PBT/PAT for RCPL in any year or quarter; no FY2024 or FY2025 revenue (FY26 given only as '₹22,000 Cr, 2x YoY'); FMCG not a separate reportable segment.
-
-*Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/468b09a3-a212-4066-bbaa-4b0ba524d2ce.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d473280d-1c2b-4037-8ff9-dfbb82aa2c7e.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0dc8ebe7-5e2d-4946-85ee-1e536c461a71.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01d1656c-cf53-4d52-94c3-7ed0edd50271.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5145c56f-ff81-4812-9663-f9b2461c4b2c.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0e06e07-5a3e-4bc0-a6a6-76635bc53238.pdf); [Presentation Oct 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a050d55-ad53-4d57-8735-cbcf20bb412b.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49a01d99-854c-4c3a-b62c-e1fb3619029f.pdf)
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders — “…balance sheet strength have been recognized by international rating - Reliance is entering a new phase of value creation with its initiatives in the AI and New Energy domains. I am confident that Reliance will play a pi” |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 16.4% of ebitda |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 402,962 cr (Mar 2026) = 0.23× market cap; P/E 18.5 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | not yet listed — 351 days since the first filing, stage effective |
-| Management discussing it on the calls | yes | 13 mention(s) in the last 12 months of calls — “…etail platform. So, these are customers who shopped across at least one of the platforms. In terms of topline growth, as you would recollect, RCPL business was demerged out on 1 st of December. So Q1 had the full revenu” |
-
-**On the calls (last 12 months):**
-
-- *Jan 2026* (neutral) — “…e fact that we have now 1.6 million orders run rate that is what we are doing, and very much on track to be the second largest QC player. On the FMCG side, the demerger happened on 1st December. And we are at more than 5,000 Crores of turnover, and this is 60% up on a year -on-year basis. A lot of purchases of brands that we h…”
-- *Jan 2026* (backward) — “…in Q3. So , if you remember, we had a very strong Q2 growth. Some of the sales, which was built in Q3 last year was in Q2. And then the third part is the RCPL demerger, which was effective during the quarter. So RCPL's entire revenue was included in Q2. Now that reve nue has gone out of retail business. EBITDA came in at 6,91…”
-- *Jan 2026* (forward) — “…y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL demerger and from the next quarter it will be entirely there , so if you could just give us a sense of ex the merger what the like -to-like growth would be for the reta…”
-- *Jan 2026* (forward) — “…uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the demerger have from next quarter we start looking at the numbers ? Company Speaker ( Dinesh Taluja ) From a revenue perspective, there is a month of revenue which has go…”
-- *Jan 2026* (neutral) — “…xtreme and more so in the context of fairly valid set of explanations because it is a combination of things unique you do not have this Q2 and Q3 and some RCPL demerger and something to do with GST coming at the same time and accelerating from an EBITDA standpoint, accelerating on quick commerce, lots of things , so you have t…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2025-12-01 | Other Restructuring | Merger of Star Television Productions Limited, a subsidiary of the Company with Star India Private Limited (now known as Jiostar India Private Limited), another | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_01122025174049_RIL_011225.pdf) |
-| 2025-12-01 | Other Restructuring | Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 is attached. | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_01122025224807_RIL_SE_Letter_RCPL.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-16 | Press Release | Reliance Industries Limited has informed the Exchange regarding a press release dated January 16, 2026, titled "In continuation of our letter of today's date on | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_16012026192013_MR_file.pdf) |
-| 2026-06-14 | Updates | Please find attached a media release by Jio Platforms Limited, a subsidiary of the Company, titled Jio Platforms Surges into Global Top 20 in latest WIPO Patent | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14062026155341_SE_14062026.pdf) |
-| 2026-06-19 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_19062026142004_SE_19062026_signed.pdf) |
-| 2026-08-28 | Updates | Observation Letter on the Draft Red Herring Prospectus for the proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_28082026183323_RIL_SE_28082026.pdf) |
-| 2026-10-14 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited - filing of the Red Herring Prospectus. | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf) |
-| 2026-10-24 | General Updates | Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf) |
 
 </details>
 

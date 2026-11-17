@@ -72,6 +72,30 @@ Enterprises, Mahindra Seamless. Four are doubtful and left for the next pass: SC
 already moved in 2024), M&M (last-mile mobility into an unlisted subsidiary), Texmaco Rail and
 Nykaa (internal moves whose listing the documents do not state).
 
+## Partial spin-offs (subsidiary IPOs), added 2026-11-17
+
+Filings flagged as a subsidiary listing are now resolved with one forced-choice question of the
+complete documents. A subsidiary, associate or JV listed, or being listed, by IPO is a partial
+spin-off and sits in the confirmed list below the demergers; everything else leaves both the
+confirmed and the probable lists.
+
+| | FY2024-25 as of 2025-03-31 | April 2024 → today |
+|---|---:|---:|
+| Partial spin-offs | 11 | 21 |
+| …already listed | 4 | 10 |
+| …IPO in motion | 7 | 11 |
+| Flagged as a subsidiary listing, found not to be one | 12 | 35 |
+
+The FY2024-25 run tests the "IPO in motion" calls: of the seven flagged on 31 March 2025, five
+have since listed (Aegis Vopak Terminals, Brigade Hotel Ventures, Canara HSBC Life, EAAA India
+Alternatives, HDB Financial Services), one was shelved (Greaves Electric Mobility) and one is
+still pending (Belstar Microfinance). The register check is unchanged in both windows: every
+register demerger captured, no false positives.
+
+The backtests also showed a subsidiary IPO hiding behind a demerger mention (HDFC Bank's HDB
+Financial, Amber's IL JIN): a company is one situation and a demerger tag outranked a listing tag.
+The listing question is now asked there too.
+
 ## What the backtests taught, now in the skill
 
 Every change below came from a named case in one of the two windows; each has a test.

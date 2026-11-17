@@ -1,6 +1,6 @@
 # Spin-offs and demergers — NiftyTotalMarket
 
-*Run 2026-11-16 · filings window 2024-04-01 → 2026-11-15 · 9944 restructuring filings across 682 companies · 39 confirmed demergers, 16 partial spin-offs (subsidiary IPOs), 88 probable, 20 indicated, 825 rights / preferential offerings, 1194 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
+*Run 2026-11-16 · filings window 2024-04-01 → 2026-11-15 · 9944 restructuring filings across 682 companies · 39 confirmed demergers, 21 partial spin-offs (subsidiary IPOs), 86 probable, 20 indicated, 825 rights / preferential offerings, 1193 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
 
 **The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: the new stock is sold by holders who never chose it for about a year, the parent is often the better buy before the split, insiders tell you what they think through the stock and options they take in the new entity, and a pro-forma statement plus the peer P/E prices what the market is ignoring. This report puts the CONFIRMED demergers first — a demerger scheme on the exchange record — each with when the new entity lists, why management is doing it (three years of calls, with the transcript each point came from), the parent's last three years with charts, P/E and cash flows, and the separated business's own numbers from the annual reports and presentations, page-cited. Probable and indicated cases follow, then every other restructuring on file.
 
@@ -57,16 +57,21 @@ The parent keeps a stake and the piece gets its own price (the notes' Sears case
 | **SBIN** | SBI Funds Management Limited | subsidiary · not stated | listed | 2026-07-21 (NSE) | 6.2 | PARTIAL SPIN-OFF, LISTED <1Y | “This is in relation to the initial public offering of SBI Funds Management Limited (“SBIFM”), a subsidiary company of State Bank of India (“Offer”) and in furth” |
 | **KPIL** | Linjemontage i Grästorp Aktiebolag | subsidiary · 96.12% → 66.45% | listed | 2026-09-25 (filings) | 5.7 | PARTIAL SPIN-OFF, LISTED <1Y | “In accordance with Regulation 30 and other applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)” |
 | **AEGISLOG** | Aegis Vopak Terminals Limited | subsidiary · 50.10% → 44% | listed | 2025-06-02 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED 1–2Y | “This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity share” |
+| **HDFCBANK** | HDB Financial Services Limited | subsidiary · 74.19% | listed | 2025-07-02 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED 1–2Y | “The shares were allotted to investors on June 30, 2025, which were admitted for listing and trading with effect from July 2, 2025.” |
 | **ICICIBANK** | ICICI Prudential Asset Management Company Limited | subsidiary · 53.0% | listed | 2025-12-19 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED <1Y | “Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.” |
+| **RELIANCE** | Jio Platforms Limited | subsidiary · not stated | listed | 2026-10-28 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED <1Y | “JPL has today finalised the Issue Price (including the anchor investor issue price) at ₹1,119 per Equity Share of face value of ₹10 each and has also filed the ” |
 | **NTPC** | NTPC Green Energy Limited | subsidiary · 100.00% | listed | 2024-11-27 (NSE) | 4.4 | PARTIAL SPIN-OFF, LISTED 1–2Y | “We wish to inform you that NTPC Green Energy Limited (NGEL), a subsidiary of NTPC Limited, has filed a draft red herring prospectus ("DRHP") dated 18th Septembe” |
 | **BRIGADE** | Brigade Hotel Ventures Limited | subsidiary · 95.26% → 74.09% | listed | 2025-07-31 (NSE) | 4.3 | PARTIAL SPIN-OFF, LISTED 1–2Y | “Brigade Hotel Ventures Limited, subsidiary of Brigade Enterprises Limited came out with an Initial Public Offering (IPO) of ₹ 885.60 crores (including pre -IPO ” |
 | **CANBK** | Canara HSBC Life Insurance Company Limited; also Canara Robeco Asset Management Company Limited | subsidiary · 51% → 36.50% | listed | 2025-10-17 (NSE) | 3.6 | PARTIAL SPIN-OFF, LISTED 1–2Y | “In furtherance to our above referred letter on the captioned subject, Stock Exchanges are hereby informed that Canara Bank divested its stake in Canara HSBC Lif” |
 | **EDELWEISS** | EAAA India Alternatives Limited | subsidiary · 83.88% | listed | 2026-11-02 (NSE) | 2.9 | PARTIAL SPIN-OFF, LISTED <1Y | “In continuation of our earlier intimations made in connection with the Initial Public Offering (“IPO”) of EAAA India Alternatives Limited (“EAAA”), a subsidiary” |
+| **UPL** | Advanta Enterprises Limited; also UPL Global Sustainable Agri Solutions Limited *(the company also has a demerger on file)* | subsidiary · not stated | DRHP filed | date not fixed | 7.1 | PARTIAL SPIN-OFF, IPO IN MOTION | “In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 ("SEBI Listin” |
 | **JSWSTEEL** | JSW One Platforms Limited | joint venture · about 61% equity stake on a fully dilute | board approval | Completion date of the proposed IPO is not available as on date. (filing dated July 17, 2026) | 5.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meetin” |
 | **FIRSTCRY** | Swara Baby Products Limited | subsidiary · 76.59% | DRHP filed | date not fixed | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “In this connection, we wish to inform you that Swara Baby has filed a DRHP dated July 02, 2026 with the Securities and Exchange Board of India, BSE Limited and ” |
 | **JSWCEMENT** | JSW One Platforms Limited | joint venture · not stated | board approval | Per the August 13, 2026 filing: "Completion date of the proposed IPO is not available as on date." | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meetin” |
+| **AMBER** | IL JIN Electronics (India) Limited | subsidiary · 89.72% | DRHP filed | date not fixed | 4.2 | PARTIAL SPIN-OFF, IPO IN MOTION | “In furtherance to our earlier intimation dated 11th July 2026 and pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of India” |
 | **COALINDIA** | Mahanadi Coalfields Limited; also South Eastern Coalfields Limited | subsidiary · 100% (wholly owned subsidiary of Coal In | SEBI observations | Ministry of Coal, vide its Office Memorandum I/37811/2025 dated 16.12.2025 had advised CIL to take concrete s… | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “The RHP filing pertains to the proposed initial public offering ("IPO") of MCL comprising an offer for sale of up to 661,836,300 equity shares by Coal India Lim” |
 | **MUTHOOTFIN** | Belstar Microfinance Limited | subsidiary · 66.13% | SEBI observations | "The IPO will be subject to market conditions, receipt of applicable approvals, if any, and other considerati… | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “In continuation of our letter dated May 05, 2024, we wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has informed us that it has rec” |
+| **CCAVENUE** | Rediff.com India Limited *(the company also has a demerger on file)* | subsidiary · not stated | DRHP filed | date not fixed | 3.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, ("Listing Regulatio” |
 | **GAIL** | GAIL Gas Limited | subsidiary · wholly owned subsidiary of GAIL (100%) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly ” |
 | **IEX** | Indian Gas Exchange Limited | associate · 47.3% → 25% | DRHP filed | July 24, 2026 analyst meet: "the good part is that they filed the DRHP in this month and hopefully (would be)… | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “In furtherance of our intimation dated December 03, 2025, and in terms of Regulation 30 of the SEBI Listing Regulations, we wish to inform that the Indian Gas E” |
 | **NLCINDIA** | NLC India Renewables Limited | subsidiary · 100% (Wholly Owned Subsidiary) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Who” |
@@ -80,10 +85,8 @@ Demergers first, then subsidiary listings, then schemes whose nature the documen
 | **CYIENT** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings); timeline stated | 6.4 | 2026-07 call · **demerger** · CYIENT.pdf page 233 · “portunity. I had a question regarding our current group structure. So, as things stand, DLM is a partly owned subsidiary for us and is there a plan for a clean demerger given how things have shaped up over the past few”<br>[2025-04-24 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CYIENT_24042025162550_24042025CLOutcomeSigned.pdf) · **carveout** · [text line 292](../../../../Announcements/NiftyTotalMarket/text/CYIENT_106210667.txt#L292) · “2 During the year ended March 31, 2025, the Company has initiated the launch and carveout of its semiconductor business as a fully owned subsidiary Cyient Semiconductors Private Limited (CSPL), with the focused objective to explore and exploit the significant ”<br>[2025-03-31 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CYIENT_31032025190611_Disclosures31032025Signed.pdf) · **carveout** · [text line 250](../../../../Announcements/NiftyTotalMarket/text/CYIENT_106190212.txt#L250) · “(d) RaƟonale for slump sale The slump sale is being undertaken as part of a large group restructuring to carveout the semiconductor business of the Company into Cyient Semicon India and enable dedicated focus and growth of this business”<br>+6 more documents |
 | **IIFL** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 6.4 | 2026-05 call · **demerger** · IIFL.pdf page 182 · “Jain: So, I think if they remain here , we should see AUM growth of around 20% to 25%. Yash: Right. And is there anything happening with IIFL Home Finance . a demerger because we've been talking about this since 2 years”<br>2026-05 call · **demerger** · IIFL.pdf · “alone business and the home finance business separately, right? Samasta will stay as it is? Nirmal Jain: No, even Samasta can get separated, so there will be demerger, there will be three entities. Yash: Okay. Okay. So”<br>2026-05 call · **demerger** · IIFL.pdf page 183 · “s it is? Nirmal Jain: No, even Samasta can get separated, so there will be demerger, there will be three entities. Yash: Okay. Okay. So just to clarify, if you demerge, you'll demerge into three entities, right? Nirmal”<br>+1 more documents |
 | **ABB** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced); timeline stated | 5.0 | [2026-11-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/ABB_13112026174803_Reg33QuartelryResultsQ32026signed.pdf) · **Demerger** · [text line 361](../../../../Announcements/NiftyTotalMarket/text/ABB_106859256.txt#L361) · “On March 5, 2019, the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company's Power Grids business to HEIL (“”<br>[2026-07-31 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABB_31072026171634_Reg33QuartelryResultsQ22026.pdf) · **Demerger** · [text line 333](../../../../Announcements/NiftyTotalMarket/text/ABB_106719466.txt#L333) · “On March 5, 2019, the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company’s Power Grids business to HEIL (“”<br>[2026-05-08 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/ABB_08052026171529_Reg33QuartelryResultsQ12026.pdf) · **Demerger** · [text line 341](../../../../Announcements/NiftyTotalMarket/text/ABB_106614853.txt#L341) · “On March 5, 2019, the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company’s Power Grids business to HEIL (“”<br>+10 more documents |
-| **HDFCBANK** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 5.0 | [2024-06-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/HDFCBANK_20062024185648_SEintimationOutcome20jun2024.pdf) · **Demergers** · [text line 158](../../../../Announcements/NiftyTotalMarket/text/HDFCBANK_105887074.txt#L158) · “Merger & Amalgamations, Demergers, Hiving off business or units BNP has a team of competent professionals and is dedicated to render quality professional services to its esteemed clients”<br>[2026-01-17 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/HDFCBANK_17012026143925_SEResultReg3017012026.pdf) · **Outcome of Board Meeting** · headline · “HDFC Bank Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025.”<br>[2026-01-17 Press Release](https://nsearchives.nseindia.com/corporate/HDFCBANK_17012026150829_SEResultReg3017012026.pdf) · **Press Release** · headline · “HDFC Bank Limited has informed the Exchange regarding a press release dated January 17, 2026, titled FINANCIAL RESULTS (INDIAN GAAP) FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2025 .”<br>+9 more documents |
 | **NMDC** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 5.0 | [2026-08-14 Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NMDC_14082026183152_NMDCSE14082026-1.pdf) · **demerger** · [text line 113](../../../../Announcements/NiftyTotalMarket/text/NMDC_106745117.txt#L113) · “4 regarding recoverability of dues from NMDC Steel Limited ("NSL"), consisting of an amount of INR 1,601.39 crores arising from demerger and INR 4,846.56 crores of trade and other receivables” |
 | **POWERINDIA** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings); timeline stated | 5.0 | [2026-07-31 Shareholders meeting](https://nsearchives.nseindia.com/corporate/HitachiEnergy_31072026140328_AGMNOTICE.pdf) · **Demerger** · [text line 465](../../../../Announcements/NiftyTotalMarket/text/POWERINDIA_106718950.txt#L465) · “Pursuant to the Scheme of Arrangement (Demerger), 1,07,421 equity shares were allotted directly to the IEPF account”<br>[2024-09-25 Loss of Share Certificates](https://nsearchives.nseindia.in/corporate/POWERINDIA_25092024190625_LossofShareCertificateSEIntimation2509.pdf) · **Loss of Share Certificates** · headline · “POWERINDIA: Hitachi Energy India Limited has informed the Exchange about Loss of Share Certificate.” |
-| **RELIANCE** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 5.0 | [2026-01-16 Press Release](https://nsearchives.nseindia.com/corporate/kavinavora_16012026192013_MR_file.pdf) · **demerger** · [text line 123](../../../../Announcements/NiftyTotalMarket/text/RELIANCE_106499466.txt#L123) · “Distribution of festive buying between 2Q and 3Q, impact of consumer products division demerger and GST rationalization constrained top-line growth”<br>[2026-01 call transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) · **demerger** · RELIANCE.pdf page 308 · “y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL demerger and from the next quarter it will be entirely ther”<br>[2026-10-24 General Updates](https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf) · **General Updates** · headline · “Initial Public Offer of Jio Platforms Limited”<br>+9 more documents |
 | **SHRIRAMFIN** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 5.0 | [2025-03-24 Updates](https://nsearchives.nseindia.in/corporate/Mathew_24032025173549_NSBSEcodeforfairdiclosureofUPSI.pdf) · **demergers** · [text line 76](../../../../Announcements/NiftyTotalMarket/text/SHRIRAMFIN_106179941.txt#L76) · “tion need to be made by the Company under the SEBI(PIT) Regulations with regard to the ideas or proposals or potential transactions at preliminary or nascent stage pertaining to the following matters: (i) Mergers, demergers, amalgamation, re -organization of c”<br>[2024-05-13 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/SHRIRAMFIN_13052024185148_outcomeofBM13524.pdf) · **Outcome of Board Meeting** · headline · “Shriram Finance Limited has informed the Exchange regarding Board meeting held on May 13, 2024.”<br>[2024-05-13 Press Release](https://nsearchives.nseindia.in/corporate/SHRIRAMFIN_13052024191029_outcomeofBM13524.pdf) · **Press Release** · headline · “Shriram Finance Limited has informed the Exchange regarding a press release dated May 13, 2024, titled "Shriram Finance Limited Announces Sale Of Its Housing SubsidiaryShriram Housing Finance To Warbu”<br>+1 more documents |
 | **EMBDL** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 4.3 | [2026-02-09 General Updates](https://nsearchives.nseindia.com/corporate/IBREL_09022026191610_EDL_InvestorUpdate_09022026.pdf) · **demerger** · [text line 82](../../../../Announcements/NiftyTotalMarket/text/EMBDL_106526895.txt#L82) · “The matter traces back to facilities availed by Sinnar Thermal Power Limited (STPL) in 2011, a power generation entity that was historically part of the erstwhile Indiabulls group. In FY 2010 –11, a court -approved demerger reorganised the group’s businesses, ”<br>[2026-04-12 General Updates](https://nsearchives.nseindia.com/corporate/EMBDL_12042026091738_EDL_Intimation_Jodhpur_Mall.pdf) · **General Updates** · headline · “Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 - Sale of Subsidiary Company”<br>[2026-01-29 General Updates](https://nsearchives.nseindia.com/corporate/IBREL_29012026194031_EDL_Intimation_Strike-off_Subsi.pdf) · **General Updates** · headline · “Embassy Developments Limited has informed the Exchange about Voluntary strike-off of non-operational wholly owned subsidiaries of the Company.”<br>+1 more documents |
 | **SAGILITY** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 4.3 | [2026-01-28 Press Release](https://nsearchives.nseindia.com/corporate/SAGILITY_28012026190241_PressReleaseQ3FY26signed.pdf) · **carveout** · [text line 137](../../../../Announcements/NiftyTotalMarket/text/SAGILITY_106510152.txt#L137) · “for amortisation of intangible assets that got created due to carveout of healthcare business from HGS & exceptional items (represents adjustment for labour codes) *** Voluntary attrition ( considering employees who were employees for more than 90 days) on an ” |
@@ -187,7 +190,7 @@ Company  has announced that it has launched a roadshow for the initial public of
 | **JAINREC** | scheme (nature unclear) | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 3.6 | 2026-02 call · **value unlock** · JAINREC.pdf page 5 · “tself, lead -acid battery scrap contains valuable byproducts such as tin and antimony. Tin extraction is alr eady implemented and scaling up steadily. The next value unlock is antimony extraction. We have now secured ac” |
 | **OLAELEC** | scheme (nature unclear) | indicated — news verification / denial only — no scheme filed | rumoured | no scheme filed | 2.5 | [2026-07-07 News Verification](-) · **News Verification** · headline · “The Exchange has sought clarification from Ola Electric Mobility Limited with respect to recent news item captioned Ola Electric Shares Slip 5% Amid Reports Of Two Suppliers Moving NCLT Over Dues.. Th” |
 
-<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 1194</summary>
+<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 1193</summary>
 
 | Company | What | Stage | First filing | Filings |
 |---|---|---|---|---:|
@@ -237,7 +240,6 @@ Company  has announced that it has launched a roadshow for the initial public of
 | MANAPPURAM | not a subsidiary listing (no event) | announced | 2025-03-20 | 1 |
 | ORKLAINDIA | not a subsidiary listing (own ipo) | meetings | 2026-07-25 | 1 |
 | ADANIENSOL | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | announced | 2024-05-16 | 1 |
-| AMBER | not a spin-off for this company's holders (inbound demerger — the scheme names Amber Enterprises India Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…Private Limited (“AmberPR”/ “Transferor Company”), the Wholly Owned Subsidiary of the Company with and into Amber Enterprises India Limited (“Amber” / “Transfe")) | effective | 2024-09-07 | 10 |
 | ANGELONE | not a spin-off for this company's holders (the judge read a slump sale / business transfer) | record_date | 2024-07-15 | 10 |
 | ARVIND | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | effective | 2024-05-06 | 14 |
 | DRREDDY | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2024-04-13 | 3 |
@@ -4377,6 +4379,61 @@ Mechanical read only (judge not run). Stated reasons: regulatory / strategic kno
 
 </details>
 
+## HDFCBANK — HDFC Bank Ltd.
+
+**CONFIRMED** (partial spin-off — HDB Financial Services Limited is listed since 2025-07-02) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 5.0/10 · partial spin-off (subsidiary IPO) · 12 filing(s) from NSE · first 2024-06-20, latest 2026-01-17
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — HDB Financial Services Limited trades since 2025-07-02 (NSE equity list); the parent keeps 74.19%
+
+**The stages, as filed:** effective (2024-10-23)
+
+**The partial spin-off:** **HDB Financial Services Limited** (subsidiary); parent's stake after: 74.19%; IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol HDBFS; timeline: Filing dated July 2, 2025: "The offer period in relation to the IPO was closed on June 27, 2025. The shares were allotted to investors on June 30, 2025, which w.
+
+> “The shares were allotted to investors on June 30, 2025, which were admitted for listing and trading with effect from July 2, 2025.”
+
+**What is being separated, as the documents put it:** HDB Financial Services, the Bank's non-deposit-taking upper-layer NBFC lending subsidiary, separated via IPO listing — class `regulatory_strategic`.
+
+- *Insiders:* Bank has no promoter/promoter group company. Post-IPO it retained 74.19% of HDBFS (74.1% at December 2025), so HDBFS remains a subsidiary. HDBFS amended its 2014, 2017 and 2022 Employee Stock Option Schemes for regulatory compliance.
+- *What it reveals:* IPO priced HDBFS at Rs 740/share: Rs 10,000 crore for 13,51,35,135 shares gave the Bank a Rs 9,179.40 crore standalone pre-tax gain (Rs 7,000.27 crore consolidated), far above carrying value. HDBFS FY2024-25 revenue Rs 16,300.28 crore, net worth Rs 15,819.75 crore.
+- *Selling pressure:* unlikely — Book-built IPO at Rs 740 to bidding investors; no shares distributed to bank shareholders, and the Bank retained 74.19%.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* HDBFS Draft Red Herring Prospectus dated October 30, 2024, and HDBFS Stage 3 loans at 2.81% of gross loans.
+- *In their words:* “Please note that even post the aforesaid sale, HDBFS continues to be a subsidiary company of the Bank.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit, Chartered Accountants,…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | partly | option pricing mentioned: …ncies (1144.95) 160.97 Dividend from subsidiaries (1547.48) (675.29) Employee Stock Options / Units expense 940.39 597.68 48966.91 42457.65 Adjustments for: Increase in investments (17434.47) (73484.35) Increase in advances (1712… *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 14.5 on Mar 2026 profit vs industry median 24.6 (97 peers) |
+| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
+| Timing (first year sells, second year gains) | partly | not yet listed — 879 days since the first filing, stage effective |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-06-20 | Outcome of Board Meeting | HDFC Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 20, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20062024185648_SEintimationOutcome20jun2024.pdf) |
+| 2024-09-20 | Updates | HDFC Bank Limited has informed the Exchange regarding 'Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Dis | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20092024160834_SE_intimation_final_20092024.pdf) |
+| 2024-10-18 | Sale or disposal | HDFC Bank Limited has informed the Exchange about Sale of shares of HDFC Education and Development Services Private Limited ( HDFC Edu ) by HDFC Bank Limited | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_18102024192949_HEADS_Disclsoure.pdf) |
+| 2024-10-19 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_19102024175013_SEintimation_OFSinHDB_IPO.pdf) |
+| 2024-10-23 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and half-year ended Septembe | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_23102024153625_SEResultSept2024MRF.pdf) |
+| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024091913_SE_Intimation_final.pdf) |
+| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024121712_St_Ex_Intimation_final.pdf) |
+| 2025-01-28 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and nine months ended Decemb | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_28012025211711_SE_Intimation-_MRF.pdf) |
+| 2025-04-19 | Outcome of Board Meeting | HDFC Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on April 19, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_19042025150107_SERsultMRF31032025.pdf) |
+| 2025-07-02 | Updates | HDFC Bank Limited has informed the Exchange regarding 'Sale of shares of HDB Financial Services Limited in its Initial Public Offering'. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_02072025222143_HDBFS_-_sale_of_shares_-_detailed.pdf) |
+| 2026-01-17 | Outcome of Board Meeting | HDFC Bank Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/HDFCBANK_17012026143925_SEResultReg3017012026.pdf) |
+| 2026-01-17 | Press Release | HDFC Bank Limited has informed the Exchange regarding a press release dated January 17, 2026, titled FINANCIAL RESULTS (INDIAN GAAP) FOR THE QUARTER AND NINE MO | [pdf](https://nsearchives.nseindia.com/corporate/HDFCBANK_17012026150829_SEResultReg3017012026.pdf) |
+
+</details>
+
 ## ICICIBANK — ICICI Bank Ltd.
 
 **CONFIRMED** (partial spin-off — ICICI Prudential Asset Management Company Limited is listed since 2025-12-19) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 5.0/10 · partial spin-off (subsidiary IPO) · 18 filing(s) from NSE · first 2024-04-28, latest 2025-12-19
@@ -4436,6 +4493,75 @@ Mechanical read only (judge not run). Stated reasons: regulatory / strategic kno
 | 2025-12-09 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_09122025221929_NSEBSE_09122025.pdf) |
 | 2025-12-17 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 201 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_17122025105720_NSEBSE_17122025.pdf) |
 | 2025-12-19 | General Updates | ICICI Bank Limited has informed the Exchange about disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulation, 2015 | [pdf](https://nsearchives.nseindia.com/corporate/ICICI2022_19122025113528_NSEBSE_19122025.pdf) |
+
+</details>
+
+## RELIANCE — Reliance Industries Ltd.
+
+**CONFIRMED** (partial spin-off — Jio Platforms Limited is listed since 2026-10-28) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 5.0/10 · partial spin-off (subsidiary IPO) · 15 filing(s) from CALLS, NSE · first 2024-08-30, latest 2026-10-24
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — Jio Platforms Limited trades since 2026-10-28 (NSE equity list); the parent keeps its remaining stake
+
+**The stages, as filed:** exchange_noc (2026-08-28) → nclt_sanction (2024-08-30) → effective (2025-12-01)
+
+**The partial spin-off:** **Jio Platforms Limited** (subsidiary); IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol JPL; timeline: Per the filing dated October 14, 2026: "The Anchor Investor Bidding Date is Monday, October 19, 2026. The IPO will open for subscription on Wednesday, October 2.
+
+> “JPL has today finalised the Issue Price (including the anchor investor issue price) at ₹1,119 per Equity Share of face value of ₹10 each and has also filed the Prospectus dated October 24, 2026 with t”
+
+**Stated in the filings:** size hint: 16.4% of ebitda.
+
+**What is being separated, as the documents put it:** Consumer Brands (FMCG/consumer products) business undertaking demerged from Reliance Retail Ventures into Tira Beauty, renamed Reliance Consumer Products Limited — class `value_unlocking`.
+
+- *Insiders:* New RCPL becomes 83.56% direct subsidiary of the Company; RRVL shareholders get 1 share per 2 RRVL shares; RRVL's pre-scheme holding cancelled. Promoter/management stake and incentives in new entity not stated.
+- *What it reveals:* Separates a fast-scaling FMCG arm: FY26 revenue Rs.22,000 crore (2x Y-o-Y), Campa Rs.4,700 crore, Q1 FY27 Rs.8,600 crore, only breakeven on EBITDA, targeting Rs.1 lakh crore by FY2030 — while retail's reported growth now screens lower.
+- *Selling pressure:* unclear — New RCPL unlisted, 83.56% held by RIL, shares allotted to RRVL shareholders; documents state no listing date or index event.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* New RCPL standalone financials — FMCG EBITDA (said to be only at breakeven) and capex behind the Rs.1 lakh crore FY2030 target.
+- *In their words:* “Further, in terms of the Scheme, as consideration for the demerger of the Consumer Brands Business Undertaking from RRVL to New RCPL, New RCPL will allot 1 (one) fully paid-up equity share of Rs. 10 (Rupees ten only) each for every 2 (two) fully paid-up equity shares of Rs. 10 (Rupees ten only) each of RRVL, to the shareholders of RRVL.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…balance sheet strength have been recognized by international rating - Reliance is entering a new phase of value creation with its initiatives in the AI and New Energy domains. I am confident that Reliance will play a pioneering r…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | value unlocking for shareholders — “…balance sheet strength have been recognized by international rating - Reliance is entering a new phase of value creation with its initiatives in the AI and New Energy domains. I am confident that Reliance will play a pi” |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 16.4% of ebitda |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 402,962 cr (Mar 2026) = 0.23× market cap; P/E 18.5 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
+| Timing (first year sells, second year gains) | partly | not yet listed — 808 days since the first filing, stage effective |
+| Management discussing it on the calls | yes | 13 mention(s) in the last 12 months of calls — “…etail platform. So, these are customers who shopped across at least one of the platforms. In terms of topline growth, as you would recollect, RCPL business was demerged out on 1 st of December. So Q1 had the full revenu” |
+
+**On the calls (last 12 months):**
+
+- *Jan 2026* (neutral) — “…e fact that we have now 1.6 million orders run rate that is what we are doing, and very much on track to be the second largest QC player. On the FMCG side, the demerger happened on 1st December. And we are at more than 5,000 Crores of turnover, and this is 60% up on a year -on-year basis. A lot of purchases of brands that we h…”
+- *Jan 2026* (backward) — “…in Q3. So , if you remember, we had a very strong Q2 growth. Some of the sales, which was built in Q3 last year was in Q2. And then the third part is the RCPL demerger, which was effective during the quarter. So RCPL's entire revenue was included in Q2. Now that reve nue has gone out of retail business. EBITDA came in at 6,91…”
+- *Jan 2026* (forward) — “…y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL demerger and from the next quarter it will be entirely there , so if you could just give us a sense of ex the merger what the like -to-like growth would be for the reta…”
+- *Jan 2026* (forward) — “…uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the demerger have from next quarter we start looking at the numbers ? Company Speaker ( Dinesh Taluja ) From a revenue perspective, there is a month of revenue which has go…”
+- *Jan 2026* (neutral) — “…xtreme and more so in the context of fairly valid set of explanations because it is a combination of things unique you do not have this Q2 and Q3 and some RCPL demerger and something to do with GST coming at the same time and accelerating from an EBITDA standpoint, accelerating on quick commerce, lots of things , so you have t…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-08-30 | Updates | Update to Media Release filed on February 28, 2024 and disclosure dated August 28, 2024, is attached. | [pdf](https://nsearchives.nseindia.in/corporate/RELIANCE_30082024192852_SE_30082024.pdf) |
+| 2024-11-14 | Acquisition | The Company has today acquired shares representing 63.16% of Star Television Productions Limited ("STPL") from the existing Disney shareholder of STPL, for a co | [pdf](https://nsearchives.nseindia.in/corporate/RELIANCE_14112024213118_SE_14112024.pdf) |
+| 2024-11-14 | General Updates | Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/RELIANCE_14112024213500_SE_14112024.pdf) |
+| 2025-12-01 | Other Restructuring | Merger of Star Television Productions Limited, a subsidiary of the Company with Star India Private Limited (now known as Jiostar India Private Limited), another | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_01122025174049_RIL_011225.pdf) |
+| 2025-12-01 | Other Restructuring | Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 is attached. | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_01122025224807_RIL_SE_Letter_RCPL.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| 2026-01-16 | Press Release | Reliance Industries Limited has informed the Exchange regarding a press release dated January 16, 2026, titled "In continuation of our letter of today's date on | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_16012026192013_MR_file.pdf) |
+| 2026-06-14 | Updates | Please find attached a media release by Jio Platforms Limited, a subsidiary of the Company, titled Jio Platforms Surges into Global Top 20 in latest WIPO Patent | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14062026155341_SE_14062026.pdf) |
+| 2026-06-19 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_19062026142004_SE_19062026_signed.pdf) |
+| 2026-08-28 | Updates | Observation Letter on the Draft Red Herring Prospectus for the proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_28082026183323_RIL_SE_28082026.pdf) |
+| 2026-10-14 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited - filing of the Red Herring Prospectus. | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf) |
+| 2026-10-24 | General Updates | Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf) |
 
 </details>
 
@@ -4809,6 +4935,61 @@ Mechanical read only (judge not run). Stated reasons: attracting different inves
 | 2026-09-29 | Press Release | In continuation of our disclosure dated September 29, 2026, we submit herewith a Press Release on the Outcome of the Board Meeting of JSW Cement held on Septemb | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_29092026210016_Press_Release_Upload.pdf) |
 | 2026-09-29 | Announcement under Regulation 30 (LODR)- | Board approved merger of Shiva Cement into JSW Cement; 5:41 share swap, subject to shareholder and NCLT approvals. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/c683658f-e10d-47ea-948e-4599b15073bd.pdf) |
 | 2026-10-27 | Press Release | JSW Cement Limited has informed the Exchange regarding a press release dated October 27, 2026, titled "Please find attached Press Release dated 27th October, 20 | [pdf](https://nsearchives.nseindia.com/corporate/JSWCL_27102026195531_Press_Release.pdf) |
+
+</details>
+
+## AMBER — Amber Enterprises India Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of IL JIN Electronics (India) Limited is in motion (DRHP filed)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 4.2/10 · partial spin-off (subsidiary IPO) · 10 filing(s) from BSE-screener, NSE · first 2024-09-07, latest 2026-11-07
+
+> **Listing:** PARTIAL SPIN-OFF, IPO DRHP FILED — IL JIN Electronics (India) Limited; date not fixed
+
+**The stages, as filed:** announced (2026-04-30) → exchange_noc (2026-10-01) → nclt_sanction (2025-05-30) → effective (2025-08-04)
+
+**The partial spin-off:** **IL JIN Electronics (India) Limited** (subsidiary); parent's stake 89.72%; IPO stage: DRHP filed; exchange: BSE Limited and National Stock Exchange of India Limited.
+
+> “In furtherance to our earlier intimation dated 11th July 2026 and pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Req”
+
+**Stated in the filings:** appointed date 2023-04-01; size hint: 23.57% of turnover.
+
+**What is being separated, as the documents put it:** No demerger in documents: Ever Electronics was amalgamated into IL JIN; IL JIN electronics subsidiary now proposed for IPO — class `regulatory_strategic`.
+
+- *Insiders:* Companies "ultimately held by common promoters"; promoters Jasbir Singh and Daljit Singh are directors on IL JIN's board; Amber held 89.58%, rising to 89.72% after subscribing Rs 296.02 crore to IL JIN's rights issue
+- *What it reveals:* IL JIN turnover rose from Rs 88,039 lakh (FY23) to Rs 1,46,001 lakh (FY25); it raised Rs 1,750 crore from marquee investors, issued 25:1 bonus shares, converted to a public company and filed a DRHP — surfacing the electronics arm's value inside Amber
+- *Selling pressure:* unlikely — No shares distributed to Amber shareholders; the schemes involved no share issuance and no change in shareholding pattern; IL JIN would list via IPO
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* IL JIN's DRHP dated 6 November 2026 — standalone revenue, margins and post-IPO shareholding of the electronics subsidiary
+- *In their words:* “In order to capitalize on the potential synergies between the businesses and streamline operations, it is proposed to merge both the Companies by merging Transferor Company with and into Transferee Company.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…horised signatory of the Applicant Companies, stating that the proposed merger does not require approval of Competition Commission of India are annexed as Annexure- T(colly) with the Application. (i) The Scheme does not provide for any co…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…horised signatory of the Applicant Companies, stating that the proposed merger does not require approval of Competition Commission of India are annexed as Annexure- T(colly) with the Application. (i) The Scheme does not” |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 23.57% of turnover |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 2,702 cr (Mar 2026) = 0.10× market cap; P/E 116.1 on Mar 2026 profit vs industry median 53.1 (15 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
+| Timing (first year sells, second year gains) | partly | not yet listed — 800 days since the first filing, stage effective |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-09-07 | Restructuring | Amber Enterprises India Limited has informed the Exchange about Restructuring | [pdf](https://nsearchives.nseindia.in/corporate/AMBER_07092024180325_SlumpSale.pdf) |
+| 2024-09-07 | Acquisition | Amber Enterprises India Limited has informed the Exchange about Acquisition | [pdf](https://nsearchives.nseindia.in/corporate/AMBER_07092024180411_SlumpSale.pdf) |
+| 2024-12-24 | News Verification | The Exchange has sought clarification from Amber Enterprises India Limited with respect to recent news item captioned Amber Enterprises looking to demerge elect | [pdf](-) |
+| 2024-12-26 | News Verification | The Exchange has sought clarification from Amber Enterprises India Limited with respect to recent news item captioned Amber Enterprises looking to demerge elect | [pdf](https://nsearchives.nseindia.in/corporate/AMBER_24122024183522_NSE.pdf) |
+| 2025-05-30 | Amalgamation/Merger | Amber Enterprises India Limited has informed the Exchange about Amalgamation/Merger of Ever Electronics Private Limited, the subsidiary of the Company with and  | [pdf](https://nsearchives.nseindia.in/corporate/AMBER_30052025213249_Order_Intimation_Ever_ILJIN_merged.pdf) |
+| 2025-08-04 | Amalgamation/Merger | Amber Enterprises India Limited has informed the Exchange about Amalgamation/Merger involving IL JIN Electronics (India) Private Limited ( IL JIN / Transferee ) | [pdf](https://nsearchives.nseindia.in/corporate/AMBER_04082025185722_Intimation_Prouncement_of_Order_04082025_signed.pdf) |
+| 2026-04-30 | Scheme of Arrangement | Amber Enterprises India Limited has informed the Exchange that Merger & Amalgamation Committee of the Board of Directors of the Company has approved the change  | [pdf](https://nsearchives.nseindia.com/corporate/AMBER_30042026193549_Intimation_Amberpr_Amber_Scheme_Update_30042026.pdf) |
+| 2026-06-08 | Scheme of Arrangement | Pursuant to Regulation 30 of SEBI LODR Regulations, we hereby inform the exchange that the Company has received an Order dated 5th June 2026 on 8th June 2026, p | [pdf](https://nsearchives.nseindia.com/corporate/AMBER_08062026190432_SE_Intimation_Scheme_of_Arrangement_Amber_08062026.pdf) |
+| 2026-10-01 | Announcement under Regulation 30 (LODR)- | NCLT noted no objections from Income Tax and OL on AmberPR merger; next hearing on 23 October 2026. | [pdf](https://www.bseindia.com/xml-data/corpfiling/AttachLive/8c3498cb-dcec-4256-9438-b81116fa0e7d.pdf) |
+| 2026-11-07 | Updates | In furtherance to our earlier intimation dated 11th July 2026 and pursuant to Regulation 30 of SEBI LODR Regulations, IL JIN Electronics (India) Limited (former | [pdf](https://nsearchives.nseindia.com/corporate/AMBER_07112026112953_StockExchangeIntimations_ILJINDRHPFiling.pdf) |
 
 </details>
 
@@ -5231,57 +5412,6 @@ Mechanical read only (judge not run). Stated reasons: value unlocking for shareh
 
 </details>
 
-## HDFCBANK — HDFC Bank Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **SPINNING — record date set; the new entity lists soon** · score 5.0/10 · spin-off · 12 filing(s) from NSE · first 2024-06-20, latest 2026-01-17
-
-> **Listing:** RECORD DATE set; the resulting company not yet listed — resulting companies have typically listed 4–10 weeks after the record date; filings/calls say: Said in the filing dated July 2, 2025: "The offer period in relation to the IPO was closed on June 27, 2025. The shares were allotted to investors on June 30, 2025, which were admitted for listing and trading with effect from July 2, 2025."
-
-**The stages, as filed:** effective (2024-10-23)
-
-**What is being separated, as the documents put it:** HDB Financial Services, the Bank's non-deposit-taking upper-layer NBFC lending subsidiary, separated via IPO listing — class `regulatory_strategic`.
-
-- *Insiders:* Bank has no promoter/promoter group company. Post-IPO it retained 74.19% of HDBFS (74.1% at December 2025), so HDBFS remains a subsidiary. HDBFS amended its 2014, 2017 and 2022 Employee Stock Option Schemes for regulatory compliance.
-- *What it reveals:* IPO priced HDBFS at Rs 740/share: Rs 10,000 crore for 13,51,35,135 shares gave the Bank a Rs 9,179.40 crore standalone pre-tax gain (Rs 7,000.27 crore consolidated), far above carrying value. HDBFS FY2024-25 revenue Rs 16,300.28 crore, net worth Rs 15,819.75 crore.
-- *Selling pressure:* unlikely — Book-built IPO at Rs 740 to bidding investors; no shares distributed to bank shareholders, and the Bank retained 74.19%.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* HDBFS Draft Red Herring Prospectus dated October 30, 2024, and HDBFS Stage 3 loans at 2.81% of gross loans.
-- *In their words:* “Please note that even post the aforesaid sale, HDBFS continues to be a subsidiary company of the Bank.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit, Chartered Accountants,…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …ncies (1144.95) 160.97 Dividend from subsidiaries (1547.48) (675.29) Employee Stock Options / Units expense 940.39 597.68 48966.91 42457.65 Adjustments for: Increase in investments (17434.47) (73484.35) Increase in advances (1712… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 14.5 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | not yet listed — 879 days since the first filing, stage effective |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-06-20 | Outcome of Board Meeting | HDFC Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 20, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20062024185648_SEintimationOutcome20jun2024.pdf) |
-| 2024-09-20 | Updates | HDFC Bank Limited has informed the Exchange regarding 'Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Dis | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20092024160834_SE_intimation_final_20092024.pdf) |
-| 2024-10-18 | Sale or disposal | HDFC Bank Limited has informed the Exchange about Sale of shares of HDFC Education and Development Services Private Limited ( HDFC Edu ) by HDFC Bank Limited | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_18102024192949_HEADS_Disclsoure.pdf) |
-| 2024-10-19 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_19102024175013_SEintimation_OFSinHDB_IPO.pdf) |
-| 2024-10-23 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and half-year ended Septembe | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_23102024153625_SEResultSept2024MRF.pdf) |
-| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024091913_SE_Intimation_final.pdf) |
-| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024121712_St_Ex_Intimation_final.pdf) |
-| 2025-01-28 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and nine months ended Decemb | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_28012025211711_SE_Intimation-_MRF.pdf) |
-| 2025-04-19 | Outcome of Board Meeting | HDFC Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on April 19, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_19042025150107_SERsultMRF31032025.pdf) |
-| 2025-07-02 | Updates | HDFC Bank Limited has informed the Exchange regarding 'Sale of shares of HDB Financial Services Limited in its Initial Public Offering'. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_02072025222143_HDBFS_-_sale_of_shares_-_detailed.pdf) |
-| 2026-01-17 | Outcome of Board Meeting | HDFC Bank Limited has submitted to the Exchange, the financial results for the period ended December 31, 2025. | [pdf](https://nsearchives.nseindia.com/corporate/HDFCBANK_17012026143925_SEResultReg3017012026.pdf) |
-| 2026-01-17 | Press Release | HDFC Bank Limited has informed the Exchange regarding a press release dated January 17, 2026, titled FINANCIAL RESULTS (INDIAN GAAP) FOR THE QUARTER AND NINE MO | [pdf](https://nsearchives.nseindia.com/corporate/HDFCBANK_17012026150829_SEResultReg3017012026.pdf) |
-
-</details>
-
 ## NMDC — NMDC Ltd.
 
 **PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **SPINNING — record date set; the new entity lists soon** · score 5.0/10 · spin-off · 1 filing(s) from NSE · first 2026-08-14, latest 2026-08-14
@@ -5367,71 +5497,6 @@ Mechanical read only (judge not run). Stated reasons: value unlocking for shareh
 |---|---|---|---|
 | 2024-09-25 | Loss of Share Certificates | POWERINDIA: Hitachi Energy India Limited has informed the Exchange about Loss of Share Certificate. | [pdf](https://nsearchives.nseindia.in/corporate/POWERINDIA_25092024190625_LossofShareCertificateSEIntimation2509.pdf) |
 | 2026-07-31 | Shareholders meeting | Hitachi Energy India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on August 28, 2026 | [pdf](https://nsearchives.nseindia.com/corporate/HitachiEnergy_31072026140328_AGMNOTICE.pdf) |
-
-</details>
-
-## RELIANCE — Reliance Industries Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **SPINNING — record date set; the new entity lists soon** · score 5.0/10 · spin-off · 15 filing(s) from CALLS, NSE · first 2024-08-30, latest 2026-10-24
-
-> **Listing:** RECORD DATE set; the resulting company not yet listed — resulting companies have typically listed 4–10 weeks after the record date
-
-**The stages, as filed:** exchange_noc (2026-08-28) → nclt_sanction (2024-08-30) → effective (2025-12-01)
-
-**Stated in the filings:** size hint: 16.4% of ebitda.
-
-**What is being separated, as the documents put it:** Consumer Brands (FMCG/consumer products) business undertaking demerged from Reliance Retail Ventures into Tira Beauty, renamed Reliance Consumer Products Limited — class `value_unlocking`.
-
-- *Insiders:* New RCPL becomes 83.56% direct subsidiary of the Company; RRVL shareholders get 1 share per 2 RRVL shares; RRVL's pre-scheme holding cancelled. Promoter/management stake and incentives in new entity not stated.
-- *What it reveals:* Separates a fast-scaling FMCG arm: FY26 revenue Rs.22,000 crore (2x Y-o-Y), Campa Rs.4,700 crore, Q1 FY27 Rs.8,600 crore, only breakeven on EBITDA, targeting Rs.1 lakh crore by FY2030 — while retail's reported growth now screens lower.
-- *Selling pressure:* unclear — New RCPL unlisted, 83.56% held by RIL, shares allotted to RRVL shareholders; documents state no listing date or index event.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* New RCPL standalone financials — FMCG EBITDA (said to be only at breakeven) and capex behind the Rs.1 lakh crore FY2030 target.
-- *In their words:* “Further, in terms of the Scheme, as consideration for the demerger of the Consumer Brands Business Undertaking from RRVL to New RCPL, New RCPL will allot 1 (one) fully paid-up equity share of Rs. 10 (Rupees ten only) each for every 2 (two) fully paid-up equity shares of Rs. 10 (Rupees ten only) each of RRVL, to the shareholders of RRVL.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: value unlocking for shareholders — “…balance sheet strength have been recognized by international rating - Reliance is entering a new phase of value creation with its initiatives in the AI and New Energy domains. I am confident that Reliance will play a pioneering r…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | value unlocking for shareholders — “…balance sheet strength have been recognized by international rating - Reliance is entering a new phase of value creation with its initiatives in the AI and New Energy domains. I am confident that Reliance will play a pi” |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 16.4% of ebitda |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | partly | borrowings 402,962 cr (Mar 2026) = 0.23× market cap; P/E 18.5 on Mar 2026 profit vs industry median 11.7 (16 peers) *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | not yet listed — 808 days since the first filing, stage effective |
-| Management discussing it on the calls | yes | 13 mention(s) in the last 12 months of calls — “…etail platform. So, these are customers who shopped across at least one of the platforms. In terms of topline growth, as you would recollect, RCPL business was demerged out on 1 st of December. So Q1 had the full revenu” |
-
-**On the calls (last 12 months):**
-
-- *Jan 2026* (neutral) — “…e fact that we have now 1.6 million orders run rate that is what we are doing, and very much on track to be the second largest QC player. On the FMCG side, the demerger happened on 1st December. And we are at more than 5,000 Crores of turnover, and this is 60% up on a year -on-year basis. A lot of purchases of brands that we h…”
-- *Jan 2026* (backward) — “…in Q3. So , if you remember, we had a very strong Q2 growth. Some of the sales, which was built in Q3 last year was in Q2. And then the third part is the RCPL demerger, which was effective during the quarter. So RCPL's entire revenue was included in Q2. Now that reve nue has gone out of retail business. EBITDA came in at 6,91…”
-- *Jan 2026* (forward) — “…y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL demerger and from the next quarter it will be entirely there , so if you could just give us a sense of ex the merger what the like -to-like growth would be for the reta…”
-- *Jan 2026* (forward) — “…uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the demerger have from next quarter we start looking at the numbers ? Company Speaker ( Dinesh Taluja ) From a revenue perspective, there is a month of revenue which has go…”
-- *Jan 2026* (neutral) — “…xtreme and more so in the context of fairly valid set of explanations because it is a combination of things unique you do not have this Q2 and Q3 and some RCPL demerger and something to do with GST coming at the same time and accelerating from an EBITDA standpoint, accelerating on quick commerce, lots of things , so you have t…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-08-30 | Updates | Update to Media Release filed on February 28, 2024 and disclosure dated August 28, 2024, is attached. | [pdf](https://nsearchives.nseindia.in/corporate/RELIANCE_30082024192852_SE_30082024.pdf) |
-| 2024-11-14 | Acquisition | The Company has today acquired shares representing 63.16% of Star Television Productions Limited ("STPL") from the existing Disney shareholder of STPL, for a co | [pdf](https://nsearchives.nseindia.in/corporate/RELIANCE_14112024213118_SE_14112024.pdf) |
-| 2024-11-14 | General Updates | Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 | [pdf](https://nsearchives.nseindia.in/corporate/RELIANCE_14112024213500_SE_14112024.pdf) |
-| 2025-12-01 | Other Restructuring | Merger of Star Television Productions Limited, a subsidiary of the Company with Star India Private Limited (now known as Jiostar India Private Limited), another | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_01122025174049_RIL_011225.pdf) |
-| 2025-12-01 | Other Restructuring | Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 is attached. | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_01122025224807_RIL_SE_Letter_RCPL.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …y bottomline , it is accretive for me. Ques tioner ( Harit Kapoor ) Good evening, this is Harit from Investec. This is the first quarter where there is an RCPL | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-01 | Earnings call Jan 2026 | …uld want to kind of know from you, especially because it comes fully in the quarter and more so on the margins as well, h ow much of a margin impact woul d the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| 2026-01-16 | Press Release | Reliance Industries Limited has informed the Exchange regarding a press release dated January 16, 2026, titled "In continuation of our letter of today's date on | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_16012026192013_MR_file.pdf) |
-| 2026-06-14 | Updates | Please find attached a media release by Jio Platforms Limited, a subsidiary of the Company, titled Jio Platforms Surges into Global Top 20 in latest WIPO Patent | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14062026155341_SE_14062026.pdf) |
-| 2026-06-19 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_19062026142004_SE_19062026_signed.pdf) |
-| 2026-08-28 | Updates | Observation Letter on the Draft Red Herring Prospectus for the proposed Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_28082026183323_RIL_SE_28082026.pdf) |
-| 2026-10-14 | General Updates | Proposed Initial Public Offer of Jio Platforms Limited - filing of the Red Herring Prospectus. | [pdf](https://nsearchives.nseindia.com/corporate/kavinavora_14102026183404_RIL_SE14102026.pdf) |
-| 2026-10-24 | General Updates | Initial Public Offer of Jio Platforms Limited | [pdf](https://nsearchives.nseindia.com/corporate/PVIVINMA_24102026214355_RIL_SE_241026.pdf) |
 
 </details>
 

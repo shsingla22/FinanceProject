@@ -14,9 +14,9 @@
 | …verified by a record date that came AFTER 2026-11-16 (the register up to today) | 0 |
 | …pending (no record date to date) | 18 |
 | …FALSE POSITIVES | 0 |
-| Partial spin-offs (subsidiary IPOs, announced or listed) | 16 |
+| Partial spin-offs (subsidiary IPOs, announced or listed) | 21 |
 | …flagged as a subsidiary listing and found not to be one (excluded) | 35 |
-| Probable demergers | 34 |
+| Probable demergers | 32 |
 | Indicated demergers | 13 |
 | Situations in all | 2182 |
 
@@ -95,10 +95,14 @@
 | **BRIGADE** | Brigade Hotel Ventures Limited | listed | 2025-07-31 | NSE equity list |
 | **CANBK** | Canara HSBC Life Insurance Company Limited | listed | 2025-10-17 | NSE equity list |
 | **EDELWEISS** | EAAA India Alternatives Limited | listed | 2026-11-02 | NSE equity list |
+| **HDFCBANK** | HDB Financial Services Limited | listed | 2025-07-02 | NSE equity list |
 | **ICICIBANK** | ICICI Prudential Asset Management Company Limited | listed | 2025-12-19 | NSE equity list |
 | **KPIL** | Linjemontage i Grästorp Aktiebolag | listed | 2026-09-25 | per the filings |
 | **NTPC** | NTPC Green Energy Limited | listed | 2024-11-27 | NSE equity list |
+| **RELIANCE** | Jio Platforms Limited | listed | 2026-10-28 | NSE equity list |
 | **SBIN** | SBI Funds Management Limited | listed | 2026-07-21 | NSE equity list |
+| **AMBER** | IL JIN Electronics (India) Limited | DRHP filed |  |  |
+| **CCAVENUE** | Rediff.com India Limited | DRHP filed |  |  |
 | **COALINDIA** | Mahanadi Coalfields Limited | SEBI observations |  |  |
 | **FIRSTCRY** | Swara Baby Products Limited | DRHP filed |  |  |
 | **GAIL** | GAIL Gas Limited | board approval |  |  |
@@ -107,6 +111,7 @@
 | **JSWSTEEL** | JSW One Platforms Limited | board approval |  |  |
 | **MUTHOOTFIN** | Belstar Microfinance Limited | SEBI observations |  |  |
 | **NLCINDIA** | NLC India Renewables Limited | board approval |  |  |
+| **UPL** | Advanta Enterprises Limited | DRHP filed |  |  |
 
 ## Misses, with what the skill held
 

@@ -14,9 +14,9 @@
 | …verified by a record date that came AFTER 2025-03-31 (the register up to today) | 9 |
 | …pending (no record date to date) | 1 |
 | …FALSE POSITIVES | 0 |
-| Partial spin-offs (subsidiary IPOs, announced or listed) | 6 |
+| Partial spin-offs (subsidiary IPOs, announced or listed) | 11 |
 | …flagged as a subsidiary listing and found not to be one (excluded) | 12 |
-| Probable demergers | 26 |
+| Probable demergers | 22 |
 | Indicated demergers | 21 |
 | Situations in all | 1380 |
 
@@ -60,10 +60,15 @@
 | Company | Subsidiary | IPO stage | Listed on | Source of the date |
 |---|---|---|---|---|
 | **BAJFINANCE** | Bajaj Housing Finance Limited | listed | 2024-09-16 | NSE equity list |
+| **BLS** | BLS E-Services Limited | listed | 2024-02-06 | NSE equity list |
+| **CYIENT** | Cyient DLM Limited | listed | 2023-07-10 | NSE equity list |
+| **NTPC** | NTPC Green Energy Limited | listed | 2024-11-27 | NSE equity list |
 | **AEGISLOG** | Aegis Vopak Terminals Limited | DRHP filed |  |  |
 | **BRIGADE** | Brigade Hotel Ventures Limited | DRHP filed |  |  |
 | **CANBK** | Canara HSBC Life Insurance Company Ltd | board approval |  |  |
 | **EDELWEISS** | EAAA India Alternatives Limited | DRHP filed |  |  |
+| **GREAVESCOT** | Greaves Electric Mobility Limited | DRHP filed |  |  |
+| **HDFCBANK** | HDB Financial Services Limited | DRHP filed |  |  |
 | **MUTHOOTFIN** | Belstar Microfinance Limited | SEBI observations |  |  |
 
 ## Misses, with what the skill held

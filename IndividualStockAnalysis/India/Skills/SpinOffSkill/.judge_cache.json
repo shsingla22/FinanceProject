@@ -76086,6 +76086,19 @@
     "exchange": "BSE Limited and National Stock Exchange of India Limited",
     "timeline": "not stated",
     "quote": "IL JIN Electronics (India) Limited (formerly known as IL JIN Electronics (India) Private Limited), a material subsidiary of the Company, has filed the Draft Red Herring Prospectus dated 6th November 2026 (\u201cDRHP\u201d), on 7th November 2026 with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited in connection with its proposed Initial Public Offer (\u201cIPO\u201d)."
+   },
+   "24063c0e81078796240c902ba9b479f0": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "IL JIN Electronics (India) Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "89.72%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "In furtherance to our earlier intimation dated 11th July 2026 and pursuant to Regulation 30 read with Schedule III of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"SEBI LODR Regulations\"), as amended from time to time, IL JIN Electronics (India) Limited (formerly known as IL JIN Electronics (India) Private Limited), a material subsidiary of the Company, has filed the Draft Red Herring Prospectus dated 6th November 2026 (\"DRHP\"), on 7th November 2026 with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited in connection with its proposed Initial Public Offer (\"IPO\")."
    }
   }
  },
@@ -76633,6 +76646,32 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "On June 25, 2025, the Bank's subsidiary company, HDB Financial Services Limited (\"HDBFS\") launched its initial public offering (\"IPO\"), comprised of a fresh issuance of equity shares aggregating to ? 2,500.00 crore and an offer for sale (\"OFS\") of equity shares by the Bank, aggregating to ? 10,000.00 crore."
+   },
+   "8565e511ab1610ff401ac06f6971048c": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "HDB Financial Services Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "74.19%",
+    "ipo_stage": "listed",
+    "listing_date": "2025-07-02",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "Filing dated July 2, 2025: \"The offer period in relation to the IPO was closed on June 27, 2025. The shares were allotted to investors on June 30, 2025, which were admitted for listing and trading with effect from July 2, 2025.\"",
+    "quote": "The shares were allotted to investors on June 30, 2025, which were admitted for listing and trading with effect from July 2, 2025."
+   },
+   "f1939edd1cbdaf51008d7fc177752751": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "HDB Financial Services Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "94.5%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "Oct 19, 2024 earnings call: \"The circular for the upper tier came that requires HDB to be listed by September '25.\"",
+    "quote": "Pursuant to approvals by the Boards of the directors of the Bank and its subsidiary company HDB Financial services Limited (\"HDBFS\"), HDBFS filed Draft Red Herring Prospectus dated October 30, 2024 with SEBI, BSE Limited and National Stock Exchange of India Limited, in connection with an Initial Public Offering (\"IPO\") of equity shares of face value of \u20b9 10/- each of HDBFS."
    }
   }
  },
@@ -76917,6 +76956,19 @@
     "exchange": "BSE Limited and National Stock Exchange of India Limited",
     "timeline": "Press release dated 03rd August, 2026: \"While GEML has presently decided not to avail itself of the SEBI extension for the proposed Offer, it remains committed to pursuing a public listing at an appropriate time, subject to market conditions, regulatory approvals and other relevant considerations.\"",
     "quote": "Accordingly, in view of the proposed rights issue and the restrictions under the SEBI ICDR Regulations in relation to further issuances, our Company does not propose to avail the one time relaxation granted pursuant to the SEBI circular no. HO/49/11/11(123)2026-CFD-RAC-DIL2/I/8760/2026 dated April 7, 2026 which permits extension of validity of all observation letters issued by the SEBI, and expiring between April 1, 2026 and September 30, 2026 till September 30, 2026, and accordingly, the validity of the SEBI Final Observations has lapsed. Consequently, the Company will not be proceeding with the Offer."
+   },
+   "6819111c0f704d7f9dc9be4823b414e4": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Greaves Electric Mobility Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "62.48%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "In continuation to our earlier intimations dated December 1, 2024 and December 11, 2024 on the captioned subject matter, we wish to inform you that GEML has informed the Company that it has filed a Draft Red Herring Prospectus (\"DRHP\") dated December 23, 2024 with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited in connection with its initial public offering (\"IPO\") of equity shares with a face value of Re 1 each (\"Equity Shares\"), comprising a fresh issue of such number of Equity Shares aggregating up to \u20b9 10,000 million and an offer for sale of up to 51,000,000 Equity Shares by our Company and up to 138,398,200 Equity Shares by Abdul Latif Jameel Green Mobility Solutions DMCC (collectively, referred to as the \"Offer\")."
    }
   }
  },
@@ -77430,6 +77482,19 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "Additionally, we celebrated the successful IPO of our subsidiary, BLS E-Services Limited., raising over Rs. 300 Crore to fuel its continued growth and expansion."
+   },
+   "27b3409dfe160920b197b5aa2687c2ce": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "BLS E-Services Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "In the digital service domain, we have witnessed commendable growth in both revenue and profitability, highlighted by the successful completion of the INR 300 crores IPO of BLS E -Services Limited."
    }
   }
  },
@@ -77571,6 +77636,19 @@
     "exchange": "BSE Limited and National Stock Exchange of India Limited",
     "timeline": "DRHP dated 18th September, 2024 filed with SEBI; IPO \"subject to receipt of requisite approvals, market conditions and other considerations\" (filing dated 19.09.2024) \u2014 no expected listing date stated",
     "quote": "We wish to inform you that NTPC Green Energy Limited (NGEL), a subsidiary of NTPC Limited, has filed a draft red herring prospectus (\"DRHP\") dated 18th September, 2024, with the Securities and Exchange Board of India, BSE Limited and National Stock Exchange of India Limited in respect of its proposed initial public offer (IPO) of equity shares, subject to receipt of requisite approvals, market conditions and other considerations."
+   },
+   "c8d85cf7254a686e82527788cd617b1b": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "NTPC Green Energy Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100.00%",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2024-11-27",
+    "exchange": "not stated",
+    "timeline": "In the Q4 FY24 call of 24 May 2024: \"we are going ahead with the IPO plans. This would be tentatively around October or November.\"",
+    "quote": "With its successful listing on 27 November 2024, NGEL has positioned itself as a key player in India's renewable energy sector."
    }
   }
  },
@@ -77588,6 +77666,207 @@
     "exchange": "National Stock Exchange of India Limited and BSE Limited",
     "timeline": "not stated",
     "quote": "The equity shares of the Company were listed on the National Stock Exchange of India Limited and BSE Limited on August 26, 2025."
+   }
+  }
+ },
+ "RELIANCE::listing": {
+  "stamps": {
+   "6f2a4b8084b9165c6964e584a24fcc71": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Jio Platforms Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "offer open",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "per the October 14, 2026 filing, \"The Anchor Investor Bidding Date is Monday, October 19, 2026. The IPO will open for subscription on Wednesday, October 21, 2026 and shall close on Friday, October 23, 2026\"; the October 24, 2026 filing states the IPO closed on October 23, 2026 and the Issue Price was finalised and Prospectus filed on October 24, 2026",
+    "quote": "JPL has today finalised the Issue Price (including the anchor investor issue price) at \u20b91,119 per Equity Share of face value of \u20b910 each and has also filed the Prospectus dated October 24, 2026 with the Registrar of Companies, Gujarat at Ahmedabad."
+   },
+   "51b0c39f191cbabfdf58af3732a1de0b": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Jio Platforms Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "offer open",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and National Stock Exchange of India Limited",
+    "timeline": "Per the filing dated October 14, 2026: \"The Anchor Investor Bidding Date is Monday, October 19, 2026. The IPO will open for subscription on Wednesday, October 21, 2026 and shall close on Friday, October 23, 2026.\"",
+    "quote": "JPL has today finalised the Issue Price (including the anchor investor issue price) at \u20b91,119 per Equity Share of face value of \u20b910 each and has also filed the Prospectus dated October 24, 2026 with the Registrar of Companies, Gujarat at Ahmedabad."
+   }
+  }
+ },
+ "UPL::listing": {
+  "stamps": {
+   "e9fc68a3fa4160fcf42bf1534c1d6992": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Advanta Enterprises Limited",
+    "other_subsidiaries": [
+     "UPL Global Sustainable Agri Solutions Limited"
+    ],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and the National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (\u201cSEBI Listing Regulations\u201d), we hereby inform you that Advanta Enterprises Limited (\u201cAdvanta\u201d), a subsidiary of our Company, has informed us that it has filed a draft red herring prospectus (DRHP) dated January 19, 2026, with the Securities and Exchange Board of India (\u201cSEBI\u201d), BSE Limited (\u201cBSE\u201d) and the National Stock Exchange of India Limited (\u201cNSE\u201d along with BSE, the \u201cStock Exchanges\u201d) in connection with a proposed initial public offering of its equity shares of face value of \u20b9 1 each."
+   },
+   "a1df64c26892bdf23fcdcd890f14046a": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Advanta Enterprises Limited",
+    "other_subsidiaries": [
+     "UPL Global Sustainable Agri Solutions Limited"
+    ],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and the National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (\"SEBI Listing Regulations\"), we hereby inform you that Advanta Enterprises Limited (\"Advanta\"), a subsidiary of our Company, has informed us that it has filed a draft red herring prospectus (DRHP) dated January 19, 2026, with the Securities and Exchange Board of India (\"SEBI\"), BSE Limited (\"BSE\") and the National Stock Exchange of India Limited (\"NSE\" along with BSE, the \"Stock Exchanges\") in connection with a proposed initial public offering of its equity shares of face value of \u20b9 1 each (the \"Equity Shares\", and the initial public offering by Advanta as the \"IPO/Offer\")."
+   }
+  }
+ },
+ "ASTRAL::listing": {
+  "stamps": {
+   "57e169cc5e878bb88a980f28a7859cb6": {
+    "what_it_is": "subsidiary_ipo_withdrawn",
+    "subsidiary": "Astral Chemie Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100.00%",
+    "parent_stake_after": "nil \u2014 the existing equity shares of the Resulting Company held by the Demerged Company shall stand cancelled and reduced (post-Scheme: Promoters and Promoter Group 54.22%, Public 45.78%)",
+    "ipo_stage": "board approval",
+    "listing_date": "not stated",
+    "exchange": "The National Stock Exchange of India Limited and BSE Limited",
+    "timeline": "not stated",
+    "quote": "Accordingly, the Board has decided to withdraw the Composite Scheme of Arrangement now, and no further steps will be undertaken in relation to the proposed the Com posite Scheme of Arrangement ."
+   },
+   "49c6582af30aad521147e06e04a5521a": {
+    "what_it_is": "subsidiary_ipo_withdrawn",
+    "subsidiary": "Astral Chemie Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100.00%",
+    "parent_stake_after": "nil - \"the existing equity shares of the Resulting Company held by the Demerged Company shall stand cancelled and reduced, without any consideration by operation of law\"",
+    "ipo_stage": "board approval",
+    "listing_date": "not stated",
+    "exchange": "The National Stock Exchange of India Limited and BSE Limited",
+    "timeline": "not stated",
+    "quote": "Accordingly, the Board has decided to withdraw the Composite Scheme of Arrangement now, and no further steps will be undertaken in relation to the proposed the Composite Scheme of Arrangement."
+   }
+  }
+ },
+ "CYIENT::listing": {
+  "stamps": {
+   "55374f5e8fe8f4bd02028bdfd66a6647": {
+    "what_it_is": "listed_entity_acquired_or_long_listed",
+    "subsidiary": "Cyient DLM Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "As you know, Cyient DLM is also a publicly traded company."
+   },
+   "2ee81b24d91643d482ff15f56edd1d9c": {
+    "what_it_is": "listed_entity_acquired_or_long_listed",
+    "subsidiary": "Cyient DLM Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "As you know, Cyient DLM is also a publicly traded company."
+   },
+   "143425f0a204ba2400185c1c00bb754a": {
+    "what_it_is": "subsidiary_already_listed",
+    "subsidiary": "Cyient DLM Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "52.16% (after the August 2024 sale of approximately 14.50% through the block deal window)",
+    "ipo_stage": "listed",
+    "listing_date": "2023-07-10",
+    "exchange": "National Stock Exchange of India Limited and BSE Limited",
+    "timeline": "not stated",
+    "quote": "In line with the Board of Directors approval, the Company's subsidiary \"Cyient DLM Limited\"(formerly Cyient DLM Private Limited) has completed its Initial Public Offering (\"IPO\") by way of fresh issue of 22,364,653 equity shares of face value of 10 each for at an issue price of 265 per equity share aggregating to 5,920 Mn. The equity shares of Cyient DLM Limited were listed on National Stock Exchange of India Limited and BSE Limited on July 10, 2023."
+   }
+  }
+ },
+ "MEESHO::listing": {
+  "stamps": {
+   "ae5943abddd84b4797d1c49bd4e3488f": {
+    "what_it_is": "own_ipo",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "listed",
+    "listing_date": "2025-12-10",
+    "exchange": "National Stock Exchange of India Limited (NSE) and BSE Limited (BSE)",
+    "timeline": "not stated",
+    "quote": "During the year ended March 31, 2026, the Company had completed its Initial Public Offering (IPO) of 488,396,721 equity shares of face value of Re. 1 each at an issue price of Rs. 111 per share (including a share premium of Rs. 110 per share)."
+   }
+  }
+ },
+ "CCAVENUE::listing": {
+  "stamps": {
+   "5c4ff9fe1c872adb56f776cad7dacdfe": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Rediff.com India Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and the National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, (\u201cListing Regulations\u201d), as amended and in furtherance to our earlier intimation dated March 31, 2026, we wish to inform you that Rediff.com India Limited (\u201cRediff\u201d), a Subsidiary of AvenuesAI Limited (\u201cCompany\u201d), has today, i.e., November 14, 2026, filed the Updated Draft Red Herring Prospectus -I (\u201cUDRHP -I\u201d) with the Securities and Exchange Board of India, the BSE Limited and the National Stock Exchange of India Limited in relation to the proposed Initial Public Offer of Rediff (\u201cIPO\u201d)."
+   },
+   "0162d3fddbd8fc0e72a3a05a22b0a24b": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Rediff.com India Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "DRHP filed",
+    "listing_date": "not stated",
+    "exchange": "BSE Limited and the National Stock Exchange of India Limited",
+    "timeline": "not stated",
+    "quote": "Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, (\"Listing Regulations\"), as amended and in furtherance to our earlier intimation dated March 31, 2026, we wish to inform you that Rediff.com India Limited (\"Rediff\"), a Subsidiary of AvenuesAI Limited (\"Company\"), has today, i.e., November 14, 2026, filed the Updated Draft Red Herring Prospectus -I (\"UDRHP -I\") with the Securities and Exchange Board of India, the BSE Limited and the National Stock Exchange of India Limited in relation to the proposed Initial Public Offer of Rediff (\"IPO\")."
+   }
+  }
+ },
+ "CENTURYPLY::listing": {
+  "stamps": {
+   "1195f0449d0886801cf27c6c84140084": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "A copy of Notice convening the 44th Annual General Meeting on Thursday, 18th September, 2025 at 11: 30 A.M. through Video Conferencing (\u201cVC\u201d) / Other Audio Visual Means (\u201cOAVM\u201d) is also attached herewith."
    }
   }
  }

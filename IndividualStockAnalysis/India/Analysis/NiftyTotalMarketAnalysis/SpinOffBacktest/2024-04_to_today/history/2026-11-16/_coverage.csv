@@ -25,10 +25,12 @@ ABLBL,confirmed,listed,no,no,no,0,0,0,,0,,0
 AEGISLOG,confirmed,listed,no,no,no,0,0,0,,0,,0
 ANANTRAJ,confirmed,not_yet,no,no,no,0,0,0,,0,,0
 DBREALTY,confirmed,listed,no,no,no,0,0,0,,0,,0
+HDFCBANK,confirmed,listed,no,no,no,0,0,0,,0,,0
 HEGAM,confirmed,listed,no,no,no,0,0,0,,0,,0
 ICICIBANK,confirmed,listed,no,no,no,0,0,0,,0,,0
 INOXGREEN,confirmed,listed,no,no,no,0,0,0,,0,,0
 PRICOLLTD,confirmed,not_yet,no,no,no,0,0,0,,0,,0
+RELIANCE,confirmed,listed,no,no,no,0,0,0,,0,,0
 SCI,confirmed,not_yet,no,no,no,0,0,0,,0,,0
 SKFINDUS,confirmed,listed,no,no,no,0,0,0,,0,,0
 STAR,confirmed,listed,no,no,no,0,0,0,,0,,0
@@ -42,6 +44,7 @@ INDIAGLYCO,confirmed,listed,no,no,no,0,0,0,,0,,0
 JSWCEMENT,confirmed,subsidiary_ipo,no,no,no,0,0,0,,0,,0
 PICCADIL,confirmed,not_yet,no,no,no,0,0,0,,0,,0
 THOMASCOOK,confirmed,not_yet,no,no,no,0,0,0,,0,,0
+AMBER,confirmed,subsidiary_ipo,no,no,no,0,0,0,,0,,0
 LLOYDSENT,confirmed,not_yet,no,no,no,0,0,0,,0,,0
 M&M,confirmed,pending_record_date_set,no,no,no,0,0,0,,0,,0
 MAHSEAMLES,confirmed,not_yet,no,no,no,0,0,0,,0,,0
@@ -61,11 +64,9 @@ ASHOKLEY,probable,not_yet,no,no,no,0,0,0,,0,,0
 ENRIN,probable,not_yet,no,no,no,0,0,0,,0,,0
 ABB,probable,not_yet,no,no,no,0,0,0,,0,,0
 GRASIM,probable,not_yet,no,no,no,0,0,0,,0,,0
-HDFCBANK,probable,pending_record_date_set,no,no,no,0,0,0,,0,,0
 NMDC,probable,pending_record_date_set,no,no,no,0,0,0,,0,,0
 PIIND,probable,not_yet,no,no,no,0,0,0,,0,,0
 POWERINDIA,probable,not_yet,no,no,no,0,0,0,,0,,0
-RELIANCE,probable,pending_record_date_set,no,no,no,0,0,0,,0,,0
 SHRIRAMFIN,probable,not_yet,no,no,no,0,0,0,,0,,0
 UNITDSPR,probable,not_yet,no,no,no,0,0,0,,0,,0
 DALBHARAT,probable,not_yet,no,no,no,0,0,0,,0,,0

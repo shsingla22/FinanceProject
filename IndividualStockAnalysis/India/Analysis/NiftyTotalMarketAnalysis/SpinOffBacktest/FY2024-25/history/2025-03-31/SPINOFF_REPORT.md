@@ -1,6 +1,6 @@
 # Spin-offs and demergers — NiftyTotalMarket
 
-*Run 2025-03-31 · filings window 2024-03-01 → 2025-03-31 · 3820 restructuring filings across 546 companies · 20 confirmed demergers, 6 partial spin-offs (subsidiary IPOs), 58 probable, 28 indicated, 579 rights / preferential offerings, 689 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
+*Run 2025-03-31 · filings window 2024-03-01 → 2025-03-31 · 3820 restructuring filings across 546 companies · 20 confirmed demergers, 11 partial spin-offs (subsidiary IPOs), 54 probable, 28 indicated, 579 rights / preferential offerings, 688 other restructurings · judge: claude-opus-5 read the schemes, three years of calls and the segment pages.*
 
 **The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: the new stock is sold by holders who never chose it for about a year, the parent is often the better buy before the split, insiders tell you what they think through the stock and options they take in the new entity, and a pro-forma statement plus the peer P/E prices what the market is ignoring. This report puts the CONFIRMED demergers first — a demerger scheme on the exchange record — each with when the new entity lists, why management is doing it (three years of calls, with the transcript each point came from), the parent's last three years with charts, P/E and cash flows, and the separated business's own numbers from the annual reports and presentations, page-cited. Probable and indicated cases follow, then every other restructuring on file.
 
@@ -35,11 +35,16 @@ The parent keeps a stake and the piece gets its own price (the notes' Sears case
 
 | Company | Subsidiary | Relation · parent's stake | IPO stage | Listing | Score | Verdict | Evidence |
 |---|---|---|---|---|---:|---|---|
+| **CYIENT** | Cyient DLM Limited | subsidiary · 52.16% (after the August 2024 sale of ap | listed | 2023-07-10 (NSE) | 6.4 | PARTIAL SPIN-OFF, LISTED 1–2Y | “In line with the Board of Directors approval, the Company's subsidiary "Cyient DLM Limited"(formerly Cyient DLM Private Limited) has completed its Initial Publi” |
+| **BLS** | BLS E-Services Limited | subsidiary · not stated | listed | 2024-02-06 (NSE) | 5.0 | PARTIAL SPIN-OFF, LISTED 1–2Y | “In the digital service domain, we have witnessed commendable growth in both revenue and profitability, highlighted by the successful completion of the INR 300 c” |
+| **NTPC** | NTPC Green Energy Limited | subsidiary · 100.00% | listed | 2024-11-27 (NSE) | 4.3 | PARTIAL SPIN-OFF, LISTED <1Y | “With its successful listing on 27 November 2024, NGEL has positioned itself as a key player in India's renewable energy sector.” |
 | **BAJFINANCE** | Bajaj Housing Finance Limited | subsidiary · 100% → 88.75% | listed | 2024-09-16 (NSE) | 3.6 | PARTIAL SPIN-OFF, LISTED <1Y | “reduced from 100% to 88.75% effective 13 September 2024 consequent to allotment of equity shares pursuant to Initial Public Offer (IPO).” |
+| **HDFCBANK** | HDB Financial Services Limited | subsidiary · 94.5% | DRHP filed | Oct 19, 2024 earnings call: "The circular for the upper tier came that requires HDB to be listed by September… | 5.0 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to approvals by the Boards of the directors of the Bank and its subsidiary company HDB Financial services Limited ("HDBFS"), HDBFS filed Draft Red Herr” |
 | **BRIGADE** | Brigade Hotel Ventures Limited | subsidiary · 100% (wholly owned subsidiary) | DRHP filed | date not fixed | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “Brigade Hotel Ventures Limited, wholly owned subsidiary is proposing, subject to receipt of requisite approvals, market conditions and other considerations, an ” |
 | **CANBK** | Canara HSBC Life Insurance Company Ltd; also Canara Robeco Mutual Fund | subsidiary · not stated | board approval | On the Q3 FY25 call of 27.01.2025 the MD said: "we are expecting that both the companies we may come for the … | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “Canara Bank has accorded approval for initiating the process of diluting 14.50% stake of the Bank in its subsidiary M/s Canara HSBC Life Insurance Company Ltd b” |
 | **MUTHOOTFIN** | Belstar Microfinance Limited | subsidiary · not stated | SEBI observations | date not fixed | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “In continuation of our letter dated May 05, 2024, we wish to inform you that our Subsidiary, i.e., Belstar Microfinance Limited, has informed us that it has rec” |
 | **AEGISLOG** | Aegis Vopak Terminals Limited | subsidiary · 50.10% → less than fifty percent (50%) | DRHP filed | "The AVTL intends to undertake the Issue and list the Equity Shares at an opportune time in consultation with… | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “In view of the same, AVTL has filed the draft red herring prospectus dated 18th November, 2024 (“DRHP”) with the Securities and Exchange Board of India, BSE Lim” |
+| **GREAVESCOT** | Greaves Electric Mobility Limited | subsidiary · 62.48% | DRHP filed | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “In continuation to our earlier intimations dated December 1, 2024 and December 11, 2024 on the captioned subject matter, we wish to inform you that GEML has inf” |
 | **EDELWEISS** | EAAA India Alternatives Limited | subsidiary · not stated | DRHP filed | date not fixed | 2.1 | PARTIAL SPIN-OFF, IPO IN MOTION | “In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (the Listing ” |
 
 ## Probable and indicated
@@ -48,21 +53,17 @@ Demergers first, then subsidiary listings, then schemes whose nature the documen
 
 | Company | What | Confidence | Stage | Listing | Score | Sources & evidence |
 |---|---|---|---|---|---:|---|
-| **CYIENT** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings) | 6.4 | [2025-03-31 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CYIENT_31032025190611_Disclosures31032025Signed.pdf) · **carveout** · [text line 250](../../../../Announcements/NiftyTotalMarket/text/CYIENT_106190212.txt#L250) · “(d) RaƟonale for slump sale The slump sale is being undertaken as part of a large group restructuring to carveout the semiconductor business of the Company into Cyient Semicon India and enable dedicated focus and growth of this business”<br>[2025-02 call transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a27009a9-8bb7-4a12-818d-3ac6d0ed1a94.pdf) · **carve out** · CYIENT.pdf page 143 · “g previously , especially as we move towards the selling of technology in a cons ultative model. Our team will now help the sales leaders and sales managers to carve out larger deals from the current proportions we are”<br>[2024-08-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/CYIENT_20082024173653_20092024BM.pdf) · **Outcome of Board Meeting** · headline · “Cyient Limited has informed the Exchange regarding Board meeting held on August 20, 2024.”<br>+4 more documents |
 | **IIFL** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 6.4 | 2025-02 call · **demerger** · IIFL.pdf page 130 · “om here and this will improve significantly as we go forward. Varinder Bansal: Sir, my last question, if permitted. We also hear that ADIA has been pushing for demerger of the home finance business. Any update on that?”<br>2025-02 call · **demerger** · IIFL.pdf page 131 · “s of their own investment horizon. So it will be done strategically whenever it's appropriate time. So I don't think there's any push or pull from anywhere for demerger or otherwise. Moderator: The next question is from”<br>2024-10 call · **demerger** · IIFL.pdf page 120 · “xit or liquidate , but there is no rush or no hurry. But when we do this , whatever we have discussed , the preferred option what we have done for the group is demerger of the businesses, so that without any further dil”<br>+1 more documents |
-| **HDFCBANK** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | effective | RECORD DATE set; listing pending | 5.0 | [2024-06-20 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/HDFCBANK_20062024185648_SEintimationOutcome20jun2024.pdf) · **Demergers** · [text line 158](../../../../Announcements/NiftyTotalMarket/text/HDFCBANK_105887074.txt#L158) · “Merger & Amalgamations, Demergers, Hiving off business or units BNP has a team of competent professionals and is dedicated to render quality professional services to its esteemed clients”<br>[2025-01-28 Updates](https://nsearchives.nseindia.in/corporate/HDFCBANK_28012025211711_SE_Intimation-_MRF.pdf) · **Updates** · headline · “HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and nine months ended December 31, 2024 in machine-readable form.”<br>[2024-10-31 General Updates](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024091913_SE_Intimation_final.pdf) · **General Updates** · headline · “HDFC Bank Limited has informed the Exchange about General Updates”<br>+5 more documents |
 | **LLOYDSME** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 5.0 | [2025-03-12 General Updates](https://nsearchives.nseindia.in/corporate/LLOYDSME_12032025194531_20250312_Disclosure_under_Regulation_30_LMEL.pdf) · **demerger** · [text line 36](../../../../Announcements/NiftyTotalMarket/text/LLOYDSME_106171438.txt#L36) · “the 9.5% redeemable preference shares (“RPS ”) from the Promoter Shareholders or infuse funds in Thriveni Earthmovers and Infra Private Limited (“TEIL”) for mandatory redemption of RPS by TEIL, subj ect to scheme of demerger in relation to the mine development”<br>2025-02 call · **demerger** · LLOYDSME.pdf page 41 · “e savings play out? What is the timeline for the same? Riyaz Shaikh: See, the NCLT process is going on. The company has to first go on through the NCLT for the demerger. So, the business, as we have already mentioned th”<br>[2024-12-18 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/LLOYDSME_18122024194201_20241218_Outcome_of_Board_Meeting.pdf) · **demerger** · [text line 58](../../../../Announcements/NiftyTotalMarket/text/LLOYDSME_106088895.txt#L58) · “right to require the Company to mandatorily acquire the 9.5% redeemable preference shares (“ RPS”) from the Promoter Shareholders or infuse funds in TEIL for mandatory redemption of RPS by TEIL, subject to scheme of demerger in relation to the mine development”<br>+1 more documents |
 | **PPLPHARMA** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings) | 5.0 | [2024-07-02 Shareholders meeting](https://nsearchives.nseindia.in/corporate/PPLPHARMA_02072024151519_NoticeandARSEintimation.pdf) · **demerged** · [text line 67](../../../../Announcements/NiftyTotalMarket/text/PPLPHARMA_105901055.txt#L67) · “The Company was originally a part of Piramal Enterprises Limited and got demerged and listed as an independent healthcare company on BSE and NSE on October 19, 2022. Piramal Pharma is a part of the Piramal Group, a global business conglomerate with diverse int”<br>[2025-01-27 Updates](https://nsearchives.nseindia.in/corporate/PIRAMALPHARMA_27012025200941_SE_Intimation_Tax_Order.pdf) · **demerger** · [text line 29](../../../../Announcements/NiftyTotalMarket/text/PPLPHARMA_106126136.txt#L29) · “We further inform that the Order has been received in the name of Piramal Enterprises Limited (‘PEL’) as it pertain to periods prior to demerger of PEL and the Company, which was effected by way of a Composite Scheme of Arrangement sanctioned by the National C”<br>[2024-07-08 Updates](https://nsearchives.nseindia.in/corporate/PPLPHARMA_08072024171055_SEIntimationTaxOrders07072024finalsd.pdf) · **demerger** · [text line 39](../../../../Announcements/NiftyTotalMarket/text/PPLPHARMA_105907169.txt#L39) · “that this is subject to higher rate of GST (collectively ‘Orders’) ; We further inform that the Orders have been received in the name of Piramal Enterprises Limited (‘PEL’ ) as they pertain to periods prior to demerger of the Pithampur Factory from PEL to the ” |
 | **SCI** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 5.0 | [2025-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/SCI1_07022025190948_Outcomefinalsigned.pdf) · **demerger** · [text line 115](../../../../Announcements/NiftyTotalMarket/text/SCI_106142471.txt#L115) · “11 regarding MCA'a approval in FY 22-23 for demerger between The Shipping Corporation of India Limited ("Demerged Company") and The Shipping corporation of India Limited Land and Assets Limited ("Resulting Company") and consequently, transfer of non-core asset”<br>[2025-02-07 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/SCI1_07022025191547_Outcomefinalsigned.pdf) · **demerger** · [text line 115](../../../../Announcements/NiftyTotalMarket/text/SCI_106142509.txt#L115) · “11 regarding MCA'a approval in FY 22-23 for demerger between The Shipping Corporation of India Limited ("Demerged Company") and The Shipping corporation of India Limited Land and Assets Limited ("Resulting Company") and consequently, transfer of non-core asset”<br>[2025-02-07 Financial Result Updates](https://nsearchives.nseindia.in/corporate/Outcomefinalsigned_07022025190049.pdf) · **demerger** · [text line 115](../../../../Announcements/NiftyTotalMarket/text/SCI_169423.txt#L115) · “11 regarding MCA'a approval in FY 22-23 for demerger between The Shipping Corporation of India Limited ("Demerged Company") and The Shipping corporation of India Limited Land and Assets Limited ("Resulting Company") and consequently, transfer of non-core asset”<br>+7 more documents |
 | **HCC** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings); timeline stated | 4.3 | [2025-02-19 Shareholders meeting](https://nsearchives.nseindia.in/corporate/HCC_19022025200541_Exchange.pdf) · **hive-off** · [text line 78](../../../../Announcements/NiftyTotalMarket/text/HCC_106156571.txt#L78) · “he Company (hereinafter referred to as the “Board”) (which term shall be deemed to include any duly authorized Committee thereof, for the time being exercising the powers conferred on the Board), to sell, transfer, hive-off, assign, dispose-off or otherwise tr”<br>[2024-12-20 General Updates](https://nsearchives.nseindia.in/corporate/HCC_20122024174035_Exchange.pdf) · **General Updates** · headline · “Hindustan Construction Company Limited has informed the Exchange about General Updates” |
-| **NTPC** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced); timeline stated | 4.3 | 2024-07 call · **demerger** · NTPC.pdf page 60 · “NTPC Green IPO, just at the back. CMD : Who is that? Atul Mehra: Atul Mehra from Motilal Oswal Asset Management, sir. Would you be considering a full - fledged demerger of the business of NTPC Green, or it will continue”<br>[2024-09-19 Updates](https://nsearchives.nseindia.in/corporate/NTPC_19092024120246_NTPCDRHPJSA.pdf) · **Updates** · headline · “Disclosure under Regulation 30 of Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, NTPC Green Energy Limited - Filing of draft red herring prospe” |
 | **AURIONPRO** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings) | 4.2 | [2024-09-04 Shareholders meeting](https://nsearchives.nseindia.in/corporate/AURIONPRO_04092024194731_ASL_AGM_Notice_AnnualReport_2023_24.pdf) · **carve out** · [text line 157](../../../../Announcements/NiftyTotalMarket/text/AURIONPRO_105977946.txt#L157) · “I am confident AuroPay will carve out a strong niche for itself in the payment world in the time to come. As we set about expanding the business, Ashish and the team have worked diligently hard to ensure that our internal systems and processes align with o”<br>[2024-09-04 Book Closure](https://nsearchives.nseindia.in/corporate/AURIONPRO_04092024195039_ASL_AGM_Notice_AnnualReport_2023_24.pdf) · **carve out** · [text line 157](../../../../Announcements/NiftyTotalMarket/text/AURIONPRO_105977951.txt#L157) · “I am confident AuroPay will carve out a strong niche for itself in the payment world in the time to come. As we set about expanding the business, Ashish and the team have worked diligently hard to ensure that our internal systems and processes align with o”<br>[2024-09-04 Record Date](https://nsearchives.nseindia.in/corporate/AURIONPRO_04092024195233_ASL_AGM_Notice_AnnualReport_2023_24.pdf) · **carve out** · [text line 157](../../../../Announcements/NiftyTotalMarket/text/AURIONPRO_105977955.txt#L157) · “I am confident AuroPay will carve out a strong niche for itself in the payment world in the time to come. As we set about expanding the business, Ashish and the team have worked diligently hard to ensure that our internal systems and processes align with o” |
 | **SAREGAMA** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 4.2 | [2024-05-23 Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/SAREGAMA_23052024121119_outcomeupload.pdf) · **demerger** · [text line 341](../../../../Announcements/NiftyTotalMarket/text/SAREGAMA_105858122.txt#L341) · “The year to date figures up to the end of third quarter of the relevant financial year were subject to Limited Review.Pursuant to the Scheme of Arrangement (the ‘Scheme") for demerger of its E-commerce Distribution Business along with identified non-core asset”<br>[2024-05-23 Financial Result Updates](https://nsearchives.nseindia.in/corporate/outcomeupload_23052024121309.pdf) · **demerger** · [text line 341](../../../../Announcements/NiftyTotalMarket/text/SAREGAMA_162250.txt#L341) · “The year to date figures up to the end of third quarter of the relevant financial year were subject to Limited Review.Pursuant to the Scheme of Arrangement (the ‘Scheme") for demerger of its E-commerce Distribution Business along with identified non-core asset” |
 | **JIOFIN** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | meetings | NOT YET (meetings); timeline stated | 3.6 | [2024-09-01 Shareholders meeting](https://nsearchives.nseindia.in/corporate/JIOFIN_01092024161024_JFSLVotingResults.pdf) · **Demerged** · [text line 277](../../../../Announcements/NiftyTotalMarket/text/JIOFIN_105973319.txt#L277) · “crow Demat Account and shares held by Investor Education and Protection Fund (IEPF) Authority, shares held by the Trustees in JFSL TRUST - PPS (RIL) for the benefit of the shareholders of Reliance Industries Limited ("Demerged Company") holding partly paid-up ”<br>[2024-06-24 Shareholders meeting](https://nsearchives.nseindia.in/corporate/JIOFIN_24062024230235_JFSLVotingresults.pdf) · **Demerged** · [text line 225](../../../../Announcements/NiftyTotalMarket/text/JIOFIN_105890053.txt#L225) · “crow Demat Account and shares held by Investor Education and Protection Fund (IEPF) Authority, shares held by the Trustees in JFSL TRUST - PPS (RIL) for the benefit of the shareholders of Reliance Industries Limited ("Demerged Company") holding partly paid-up ”<br>2024-04 call · **demerger** · JIOFIN.pdf page 8 · “ance. We also continue to build on our technology and management capabilities across various businesses. On the regulatory front, in line with the terms of our scheme of arrangement for demerger from Reliance Industries” |
 | **KPITTECH** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced); timeline stated | 3.6 | [2024-08-07 Updates](https://nsearchives.nseindia.in/corporate/KPITTECH_07082024162814_CoverAugust7_Signed.pdf) · **demerger** · [text line 70](../../../../Announcements/NiftyTotalMarket/text/KPITTECH_105943334.txt#L70) · “The new KPIT was incorporated in 2018, and the ‘merger and demerger’ was effective as on January 2019, which effectively was the da te of the start of operations for the new KPIT”<br>2024-05 call · **demerger** · KPITTECH.pdf page 83 · “we started with and where we have reached. So, you would all remember the kind of an unusual decision that we took 5 years ago when we went through the merger, demerger process. You would recollect at that time, we were” |
 | **AMBER** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 3.3 | [2024-12-26 News Verification](https://nsearchives.nseindia.in/corporate/AMBER_24122024183522_NSE.pdf) · **demerge** · headline · “The Exchange has sought clarification from Amber Enterprises India Limited with respect to recent news item captioned Amber Enterprises looking to demerge electronics division, says CNBC-TV18; stock h”<br>[2024-12-24 News Verification](-) · **demerge** · headline · “The Exchange has sought clarification from Amber Enterprises India Limited with respect to recent news item captioned Amber Enterprises looking to demerge electronics division, says CNBC-TV18; stock h”<br>[2024-09-07 Restructuring](https://nsearchives.nseindia.in/corporate/AMBER_07092024180325_SlumpSale.pdf) · **Restructuring** · headline · “Amber Enterprises India Limited has informed the Exchange about Restructuring”<br>+1 more documents |
 | **CREDITACC** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 3.3 | [2024-07-19 Code of Conduct under SEBI(P](https://nsearchives.nseindia.in/corporate/CREDITACC_19072024172610_CAGL_COC_PIT_19072024.pdf) · **de-mergers** · [text line 203](../../../../Announcements/NiftyTotalMarket/text/CREDITACC_105919809.txt#L203) · “mergers, de-mergers, acquisitions, de-listings, disposals and expansion of business and such other transactions; and v” |
-| **GREAVESCOT** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced); timeline stated | 2.9 | 2024-11 call · **demerger** · GREAVESCOT.pdf page 99 · “oncerned that we may continue to lose market share. Could you please address how we are planning to regain market share? Second, are we considering an IPO or a demerger of the EV mobility business? Will such a move help”<br>[2024-12-23 General Updates](https://nsearchives.nseindia.in/corporate/GREAVESCOT_23122024224409_Greavescot_23122024.pdf) · **General Updates** · headline · “Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI LODR Regulations )Re: Proposed initial ”<br>[2024-12-11 General Updates](https://nsearchives.nseindia.in/corporate/GREAVESCOT_11122024155618_Greaves_11122024.pdf) · **General Updates** · headline · “Greaves Cotton Limited has informed the Exchange about General Updates”<br>+1 more documents |
 | **ABB** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.5 | [2025-02-17 Integrated Filing- Financial](https://nsearchives.nseindia.in/corporate/ABB_17022025225822_Integrated_filing_Financials_Q4_2024.pdf) · **Demerger** · [text line 189](../../../../Announcements/NiftyTotalMarket/text/ABB_106154660.txt#L189) · “On March 5, 2019, the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company's Power Grids business to HEIL (‘”<br>[2025-02-17 Financial Result Updates](https://nsearchives.nseindia.in/corporate/Financial_Statement_17022025195330.pdf) · **Demerger** · [text line 154](../../../../Announcements/NiftyTotalMarket/text/ABB_170453.txt#L154) · “On March 5, 2019, the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company's Power Grids business to HEIL (‘”<br>[2024-11-04 Financial Result Updates](https://nsearchives.nseindia.in/corporate/ABBFSQ32024_04112024175023.pdf) · **Demerger** · [text line 236](../../../../Announcements/NiftyTotalMarket/text/ABB_166440.txt#L236) · “the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company s Power Grids business to HEIL (■Demerger) and the ”<br>+2 more documents |
 | **BEML** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.5 | [2024-05-12 Financial Result Updates](https://nsearchives.nseindia.in/corporate/BSENSEFINALFS_12052024172315.pdf) · **demerger** · [text line 109](../../../../Announcements/NiftyTotalMarket/text/BEML_161652.txt#L109) · “15 13 15 13 (iii) Other financial assets 89 88 89 88 (f) Deferred tax assets (net) 11,348 10,828 11,348 10,828 (c) Non-Current Assets held for demerger - - 4,248 4,266 (g) Other non-current assets” |
 | **BRITANNIA** | spin-off | probable — a filing's text names a demerger; no scheme filing names it  | announced | NOT YET (announced) | 2.5 | [2024-07-09 Updates](https://nsearchives.nseindia.in/corporate/BRITANNIA_09072024233843_Intimation_signedf.pdf) · **carve out** · [text line 96](../../../../Announcements/NiftyTotalMarket/text/BRITANNIA_105909106.txt#L96) · “specified fund defined under clause (c) of the Explanation to section 10(4D), subject to carve outs)” |
@@ -136,7 +137,7 @@ Company  has announced that it has launched a roadshow for the initial public of
 | **DBL** | scheme (nature unclear) | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 4.3 | 2025-02 call · **value unlocking** · DBL.pdf page 114 · “l be made at the Board level, whether we feel what is in the best interest of our shareholders. And if a situation arises where we feel there is a significan t value unlocking that will happen with putting it into a sep” |
 | **MOIL** | scheme (nature unclear) | indicated — management spoke of it on the calls; nothing filed yet | indicated_on_calls | indicated on calls; nothing filed | 4.3 | [2024-08 call transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cf6ed79-a7d8-4855-b8e7-5b9b9a10a623.pdf) · **value unlocking** · MOIL.pdf page 31 · “rotect our environment by planting trees and going green. In the last three years, this is the movement of our share price. There is a significant potential of value unlocking in MOIL share from the current market posit” |
 
-<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 689</summary>
+<details><summary>Other restructurings on file (mergers, slump sales, rights, capital actions) — 688</summary>
 
 | Company | What | Stage | First filing | Filings |
 |---|---|---|---|---:|
@@ -150,7 +151,6 @@ Company  has announced that it has launched a roadshow for the initial public of
 | ARVIND | not a spin-off for this company's holders (the judge read a slump sale / business transfer to a wholly-owned subsidiary) | announced | 2024-05-06 | 6 |
 | AUROPHARMA | not a spin-off for this company's holders (the business goes to a wholly-owned subsidiary and no listing is stated) | effective | 2024-05-06 | 11 |
 | BAJAJELEC | not a spin-off for this company's holders (the resulting company Bajel Projects Limited was listed on 2023-12-19, before these filings) | announced | 2024-07-09 | 9 |
-| BLS | not a spin-off for this company's holders (the judge found no demerger of this company in the filed scheme) | announced | 2024-05-14 | 2 |
 | CELLO | not a spin-off for this company's holders (inbound demerger — the scheme names Cello World Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…ity The Company is considered as the resulting entity under the provisions of the Income Tax Act, 1961. The equity shares issued by the Company as consideratio")) | announced | 2024-11-12 | 6 |
 | FLUOROCHEM | not a spin-off for this company's holders (inbound demerger — the scheme names Gujarat Fluorochemicals Ltd. as the Resulting Company: a business is demerged INTO it and its own shareholders receive no new listing ("…’), Inox Holdings and Investments Limited , proposed to be incorporated (‘IHIL’ or ‘ Resulting Company ’), Gujarat Fluorochemicals Limited (‘ GFCL ’ or ‘ Trans")) | announced | 2024-05-06 | 9 |
 | MOTHERSON | not a spin-off for this company's holders (no listing will be sought for the resulting entity — the company's own SEBI disclosure says so (no: “Not Applicable ANNEXURE A2 Brief Details of Amalgamation of Samvardhana Motherson Auto System Private Limited with the Company S. No. P)) | announced | 2024-06-29 | 3 |
@@ -2204,6 +2204,164 @@ No rationale on file: no call passages and no scheme rationale text.
 
 # Partial spin-offs (subsidiary IPOs) — in full
 
+## CYIENT — Cyient Ltd.
+
+**CONFIRMED** (partial spin-off — Cyient DLM Limited is listed since 2023-07-10) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 6.4/10 · partial spin-off (subsidiary IPO) · 7 filing(s) from CALLS, NSE · first 2024-04-25, latest 2025-03-31
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — Cyient DLM Limited trades since 2023-07-10 (NSE equity list); the parent keeps 52.16% (after the August 2024 sale of approximately 14.50% through the block deal window)
+
+**The stages, as filed:** announced (2025-03-31) → meetings (2024-07-01)
+
+**The partial spin-off:** **Cyient DLM Limited** (subsidiary); parent's stake after: 52.16% (after the August 2024 sale of approximately 14.50% through the block deal window); IPO stage: listed; exchange: National Stock Exchange of India Limited and BSE Limited; NSE symbol CYIENTDLM.
+
+> “In line with the Board of Directors approval, the Company's subsidiary "Cyient DLM Limited"(formerly Cyient DLM Private Limited) has completed its Initial Public Offering ("IPO") by way of fresh issue”
+
+**Stated in the filings:** size hint: 17% of revenue.
+
+**What is being separated, as the documents put it:** The global end-to-end semiconductor business — turnkey ASIC design and fabless chip sales — carved into a wholly owned subsidiary — class `value_unlocking`.
+
+- *Insiders:* No separate promoter stake stated: wholly owned subsidiary, "no change in shareholding pattern", "no other benefit to the promoter/promoter group/group companies". Unit reports to Krishna Bodanapu, who says he wants to manage these parts himself.
+- *What it reveals:* A small, capital-starved unit: India semicon was 1.5% of FY24 consolidated revenue, 0.8% of net worth, yet global transfers price it at ~INR 3,136 Mn. Parent is zero long-term debt with $134 Mn cash; ~$100 Mn DLM proceeds earmarked for semicon.
+- *Selling pressure:* unlikely — No shares distributed to shareholders — stays a wholly owned subsidiary; only a capital raise is being explored, no listing.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* The independent valuer's valuation report behind the INR 608 Mn slump-sale price, and Cyient Semicon India's first audited financials.
+- *In their words:* “The slump sale is being undertaken as part of a large group restructuring to carveout the semiconductor business of the Company into Cyient Semicon India and enable dedicated focus and growth of this business.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…income' in the standalone financial results. 4 Exceptional items: In earlier periods, a civil class action antitrust lawsuit was filed in a U.S. District Court (consolidating multiple civil lawsuits filed in the previous year)…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…income' in the standalone financial results. 4 Exceptional items: In earlier periods, a civil class action antitrust lawsuit was filed in a U.S. District Court (consolidating multiple civil lawsuits filed in the previou” |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 17% of revenue |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 431 cr (Mar 2026) = 0.05× market cap; P/E 20.3 on Mar 2026 profit vs industry median 26.3 (25 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 340 days since the first filing, stage meetings |
+| Management discussing it on the calls | yes | 4 mention(s) in the last 12 months of calls — “…also probably it is a little bit early to take it as a trend but also is a good reflection of the focus that we were able to bring into that discipline and to carve out larger deals than what we were doing before. Krish” |
+
+**On the calls (last 12 months):**
+
+- *Aug 2024* (forward) — “…ent to provide an end to end service offering for these turnkey chip design and now we believe that there is a significant opportunity along the lines with the value unlock of Cyient DLM to actually create a separate business that can exclusively and dedicatedly focus on turnkey ASIC . This decision marks a significant leap forwar…”
+- *Feb 2025* (neutral) — “…also is relatively specific to that portfolio to that industry , like for aerospace or for communications or for energy what have you. But at the same time to carve out a la rge deal is also a structured exercise. We now have a large steel team working supporting the current sales leaders and sales managers to construct a deal…”
+- *Feb 2025* (forward) — “…g previously , especially as we move towards the selling of technology in a cons ultative model. Our team will now help the sales leaders and sales managers to carve out larger deals from the current proportions we are currently tabling to the customers. It's also being done. That's one of the 7 things that I didn't talk com pl…”
+- *Feb 2025* (backward) — “…also probably it is a little bit early to take it as a trend but also is a good reflection of the focus that we were able to bring into that discipline and to carve out larger deals than what we were doing before. Krishna Bodanapu: I will just add one thing that while we have always tried to push on how we are selling , sell…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-04-25 | Updates | Cyient Limited has informed the Exchange regarding 'Financial Results for the quarter and year ended 31 March 2024' | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_25042024170434_f_cyient.pdf) |
+| 2024-04-25 | Financial Result Updates | Cyient Limited has submitted to the Exchange, the financial results for the period ended March 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/FinancialsFinalSigned_25042024161401.pdf) |
+| 2024-07-01 | Shareholders meeting | Cyient Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 01, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_01072024164150_AGMOutcomeSigned1.pdf) |
+| 2024-08-01 | Earnings call Aug 2024 | …ent to provide an end to end service offering for these turnkey chip design and now we believe that there is a significant opportunity along the lines with the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed316a53-ed1f-43d1-a1da-9bfd34ba741f.pdf) |
+| 2024-08-20 | Outcome of Board Meeting | Cyient Limited has informed the Exchange regarding Board meeting held on August 20, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_20082024173653_20092024BM.pdf) |
+| 2025-02-01 | Earnings call Feb 2025 | …g previously , especially as we move towards the selling of technology in a cons ultative model. Our team will now help the sales leaders and sales managers to | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a27009a9-8bb7-4a12-818d-3ac6d0ed1a94.pdf) |
+| 2025-03-31 | Outcome of Board Meeting | Cyient Limited has informed the Exchange regarding Board meeting held on March 31, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_31032025190611_Disclosures31032025Signed.pdf) |
+
+</details>
+
+## BLS — BLS International Services Ltd.
+
+**CONFIRMED** (partial spin-off — BLS E-Services Limited is listed since 2024-02-06) · **PARTIAL SPIN-OFF, LISTED 1–2Y — the stub against the piece, second year** · score 5.0/10 · partial spin-off (subsidiary IPO) · 2 filing(s) from CALLS, NSE · first 2024-05-14, latest 2024-05-14
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — BLS E-Services Limited trades since 2024-02-06 (NSE equity list); the parent keeps its remaining stake
+
+**The partial spin-off:** **BLS E-Services Limited** (subsidiary); IPO stage: listed; NSE symbol BLSE.
+
+> “In the digital service domain, we have witnessed commendable growth in both revenue and profitability, highlighted by the successful completion of the INR 300 crores IPO of BLS E -Services Limited.”
+
+**Stated in the filings:** size hint: 10.6% of ebitda.
+
+**What is being separated, as the documents put it:** No demerger stated; only the earlier IPO carve-out of subsidiary BLS E-Services Limited (digital services) is described — class `regulatory_strategic`.
+
+- *Insiders:* not stated — documents only say the digital business/BLS E-Services is a subsidiary of BLS International, which held it before and after its IPO
+- *What it reveals:* Separation lines show a high-margin Visa & Consular business (Q3 FY25 EBITDA margin 37.4%) versus digital at 12.9%, plus INR 690 crores net cash as of December 31, 2024 and heavy acquisition spend of over INR 1,000 crores
+- *Selling pressure:* unclear — No demerger, record date or listing is announced in these documents, so no share-distribution-driven selling can be assessed
+- *Parent or spin:* unclear · *option pricing date:* not stated
+- *Read next:* BLS E-Services Limited's own filings and shareholding pattern — promoter stake and whether any demerger scheme exists
+- *In their words:* “Is there any plan to spin off Digital business into a separate entity, like what you have done with E -Services?”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | partly | the demerged piece is 10.6% of ebitda |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 431 cr (Mar 2026) = 0.04× market cap; P/E 13.6 on Mar 2026 profit vs industry median 54.1 (17 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 321 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…37%. Gopal Krishnan: Okay. And then, my second question is regarding this Digital business. This seems to be a drag on our total business. Is there any plan to spin off Digital business into a separate entity, like what” |
+
+**On the calls (last 12 months):**
+
+- *Feb 2025* (forward) — “…37%. Gopal Krishnan: Okay. And then, my second question is regarding this Digital business. This seems to be a drag on our total business. Is there any plan to spin off Digital business into a separate entity, like what you have done with E -Services? Page 14of16 BLS International Services Limited February 12, 2025 Shikhar Agg…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-05-14 | Press Release | BLS International Services Limited has informed the Exchange regarding a press release dated May 14, 2024, titled "Press Release with respect to Audited Consoli | [pdf](https://nsearchives.nseindia.in/corporate/BLS_14052024164124_Intimation_Press_release.pdf) |
+| 2025-02-01 | Earnings call Feb 2025 | …37%. Gopal Krishnan: Okay. And then, my second question is regarding this Digital business. This seems to be a drag on our total business. Is there any plan to | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5efc2822-1ef3-4b96-8b71-2f09af9d9281.pdf) |
+
+</details>
+
+## NTPC — NTPC Ltd.
+
+**CONFIRMED** (partial spin-off — NTPC Green Energy Limited is listed since 2024-11-27) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 4.3/10 · partial spin-off (subsidiary IPO) · 2 filing(s) from CALLS, NSE · first 2024-09-19, latest 2024-09-19
+
+> **Listing:** PARTIAL SPIN-OFF, LISTED — NTPC Green Energy Limited trades since 2024-11-27 (NSE equity list); the parent keeps its remaining stake
+
+**The partial spin-off:** **NTPC Green Energy Limited** (subsidiary); parent's stake 100.00%; IPO stage: listed; NSE symbol NTPCGREEN; timeline: In the Q4 FY24 call of 24 May 2024: "we are going ahead with the IPO plans. This would be tentatively around October or November.".
+
+> “With its successful listing on 27 November 2024, NGEL has positioned itself as a key player in India's renewable energy sector.”
+
+**What is being separated, as the documents put it:** NTPC's renewable energy business held in subsidiary NTPC Green Energy Limited; separated by IPO fresh issue, not demerger — class `value_unlocking`.
+
+- *Insiders:* NTPC remains holding company; NGEL stays a subsidiary post-IPO (fresh issue only). IPO reserves shares for eligible NTPC shareholders and employees. Same directors (Finance, Projects) serve NTPC and NGEL.
+- *What it reveals:* A fast-growing green platform: 3,475 MW commercial (31 Dec 2024), 13,921 MW contracted/awarded (+63% YoY), 9M FY25 EBITDA Rs.1,483 crore on income Rs.1,714 crore, AAA rating equal to parent, ~12.5% IRR bids, 60 GW target by 2032.
+- *Selling pressure:* unlikely — Fresh issue up to Rs.100,000 million; no shares distributed to NTPC holders; parent retains control; reservation for NTPC shareholders/employees.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* NGEL's DRHP dated 18 September 2024 — project-wise PPA status for the ~11.5 GW pipeline lacking signed PPAs.
+- *In their words:* “I would like to place on record that we have annulled the process of identifying a strategic investor for NTPC Green Energy Limited due to certain issues and are now working on the strategies for the IPO which will unlock further value.”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 271,005 cr (Mar 2026) = 0.80× market cap; P/E 12.2 on Mar 2026 profit vs industry median 31.1 (15 peers) |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 193 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…NTPC Green IPO, just at the back. CMD : Who is that? Atul Mehra: Atul Mehra from Motilal Oswal Asset Management, sir. Would you be considering a full - fledged demerger of the business of NTPC Green, or it will continue” |
+
+**On the calls (last 12 months):**
+
+- *Jul 2024* (forward) — “…NTPC Green IPO, just at the back. CMD : Who is that? Atul Mehra: Atul Mehra from Motilal Oswal Asset Management, sir. Would you be considering a full - fledged demerger of the business of NTPC Green, or it will continue to remain substant ially held by NTPC Limited and there will be some minority which will be offloaded in the…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-07-01 | Earnings call Jul 2024 | …NTPC Green IPO, just at the back. CMD : Who is that? Atul Mehra: Atul Mehra from Motilal Oswal Asset Management, sir. Would you be considering a full - fledged |  |
+| 2024-09-19 | Updates | Disclosure under Regulation 30 of Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, NTPC Green Energy Limi | [pdf](https://nsearchives.nseindia.in/corporate/NTPC_19092024120246_NTPCDRHPJSA.pdf) |
+
+</details>
+
 ## BAJFINANCE — Bajaj Finance Ltd.
 
 **CONFIRMED** (partial spin-off — Bajaj Housing Finance Limited is listed since 2024-09-16) · **PARTIAL SPIN-OFF, LISTED <1Y — price the parent's stub against the listed piece** · score 3.6/10 · partial spin-off (subsidiary IPO) · 6 filing(s) from NSE · first 2024-06-03, latest 2024-09-13
@@ -2251,6 +2409,57 @@ No rationale on file: no call passages and no scheme rationale text.
 | 2024-07-23 | Financial Result Updates | Bajaj Finance Limited has submitted to the Exchange, the financial results for the period ended June 30, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/BSENSEOUTCOMEJULY2024_23072024153517.pdf) |
 | 2024-08-31 | Updates | Bajaj Finance Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulati | [pdf](https://nsearchives.nseindia.in/corporate/BAJFINANCE_31082024175728_BHFLRHPIPOINTIMATIONBSENSE.pdf) |
 | 2024-09-13 | Diversification/Disinvestment | Bajaj Finance Limited has informed the Exchange about Diversification/Disinvestment - Offer for sale (Cessation of wholly-owned subsidiary) | [pdf](https://nsearchives.nseindia.in/corporate/BAJFINANCE_13092024182552_BFL_BHFLCessationasWOS.pdf) |
+
+</details>
+
+## HDFCBANK — HDFC Bank Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of HDB Financial Services Limited is in motion (DRHP filed)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 5.0/10 · partial spin-off (subsidiary IPO) · 8 filing(s) from NSE · first 2024-06-20, latest 2025-01-28
+
+> **Listing:** PARTIAL SPIN-OFF, IPO DRHP FILED — HDB Financial Services Limited; Oct 19, 2024 earnings call: "The circular for the upper tier came that requires HDB to be listed by September '25."
+
+**The stages, as filed:** effective (2024-10-23)
+
+**The partial spin-off:** **HDB Financial Services Limited** (subsidiary); parent's stake 94.5%; IPO stage: DRHP filed; exchange: BSE Limited and National Stock Exchange of India Limited; timeline: Oct 19, 2024 earnings call: "The circular for the upper tier came that requires HDB to be listed by September '25.".
+
+> “Pursuant to approvals by the Boards of the directors of the Bank and its subsidiary company HDB Financial services Limited ("HDBFS"), HDBFS filed Draft Red Herring Prospectus dated October 30, 2024 wi”
+
+**What is being separated, as the documents put it:** HDB Financial Services Limited, the Bank's non-deposit-taking NBFC lending subsidiary, being separately listed via IPO — class `regulatory_strategic`.
+
+- *Insiders:* Bank holds 94.5% of HDBFS and sells up to Rs 10,000 crore via offer for sale; post-IPO HDBFS continues to be a subsidiary. HDBFS amended its 2014/2017/2022 ESOP schemes; HDB Employee Welfare Trust consolidated.
+- *What it reveals:* A sizeable NBFC inside the bank: loan book Rs 986 billion, Q2FY25 PAT Rs 5.9 billion, Stage 3 at 2.10%, total CAR 19.3% (Tier-I 14.6%); IPO sized up to Rs 12,500 crore. HDB credit costs rose and management overlays were taken.
+- *Selling pressure:* unlikely — IPO (fresh issue plus offer for sale), not a share distribution to HDFC Bank holders, so no index-exclusion or forced selling is described.
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* HDBFS Draft Red Herring Prospectus dated October 30, 2024 — Stage 3 loans, credit cost and ESOP/shareholding terms.
+- *In their words:* “We wish to inform you that with respect to mandatory listing requirement of HDB Financial Services Limited ("HDBFS") (subsidiary of HDFC Bank Limited) being an Upper Layer NBFC pursuant to the circular issued by the Reserve Bank of India in October 2022, the Board of Directors of the Bank at its meeting today provided an in-principle approval to initiate the process of listing of HDBFS through a potential initial public offer and seek necessary approvals from the regulatory authority(ies) in this regard.”
+
+### Why the demerger — three years of calls and the scheme
+
+Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit, Chartered Accountants,…”
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | yes | regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit” |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | partly | option pricing mentioned: …ncies (1144.95) 160.97 Dividend from subsidiaries (1547.48) (675.29) Employee Stock Options / Units expense 940.39 597.68 48966.91 42457.65 Adjustments for: Increase in investments (17434.47) (73484.35) Increase in advances (1712… *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 14.5 on Mar 2026 profit vs industry median 24.6 (97 peers) |
+| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
+| Timing (first year sells, second year gains) | partly | not yet listed — 284 days since the first filing, stage effective |
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-06-20 | Outcome of Board Meeting | HDFC Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 20, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20062024185648_SEintimationOutcome20jun2024.pdf) |
+| 2024-09-20 | Updates | HDFC Bank Limited has informed the Exchange regarding 'Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Dis | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20092024160834_SE_intimation_final_20092024.pdf) |
+| 2024-10-18 | Sale or disposal | HDFC Bank Limited has informed the Exchange about Sale of shares of HDFC Education and Development Services Private Limited ( HDFC Edu ) by HDFC Bank Limited | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_18102024192949_HEADS_Disclsoure.pdf) |
+| 2024-10-19 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_19102024175013_SEintimation_OFSinHDB_IPO.pdf) |
+| 2024-10-23 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and half-year ended Septembe | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_23102024153625_SEResultSept2024MRF.pdf) |
+| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024091913_SE_Intimation_final.pdf) |
+| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024121712_St_Ex_Intimation_final.pdf) |
+| 2025-01-28 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and nine months ended Decemb | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_28012025211711_SE_Intimation-_MRF.pdf) |
 
 </details>
 
@@ -2434,6 +2643,58 @@ No rationale on file: no call passages and no scheme rationale text.
 
 </details>
 
+## GREAVESCOT — Greaves Cotton Ltd.
+
+**CONFIRMED** (partial spin-off — the IPO of Greaves Electric Mobility Limited is in motion (DRHP filed)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 2.9/10 · partial spin-off (subsidiary IPO) · 5 filing(s) from CALLS, NSE · first 2024-05-08, latest 2024-12-23
+
+> **Listing:** PARTIAL SPIN-OFF, IPO DRHP FILED — Greaves Electric Mobility Limited; date not fixed
+
+**The partial spin-off:** **Greaves Electric Mobility Limited** (subsidiary); parent's stake 62.48%; IPO stage: DRHP filed; exchange: BSE Limited and National Stock Exchange of India Limited.
+
+> “In continuation to our earlier intimations dated December 1, 2024 and December 11, 2024 on the captioned subject matter, we wish to inform you that GEML has informed the Company that it has filed a Dr”
+
+**What is being separated, as the documents put it:** Greaves Electric Mobility Limited — electric two- and three-wheeler business (Ampere brand) — separated via IPO, not demerger — class `value_unlocking`.
+
+- *Insiders:* Parent holds 62.48% of GEML; offers for sale up to 51,000,000 shares (parent) and 138,398,200 (Abdul Latif Jameel Green Mobility Solutions DMCC); parent stays significant shareholder
+- *What it reveals:* Separation isolates loss-making EV unit (9M segment loss Rs 153.39 crore) from profitable Engines (9M result Rs 211.61 crore on Rs 1,271.66 crore) and Cables; parent near zero debt, Rs 503 crore cash
+- *Selling pressure:* unlikely — Shares sold to new investors via fresh issue and offer for sale; no distribution to existing holders or index exclusion stated
+- *Parent or spin:* parent · *option pricing date:* not stated
+- *Read next:* GEML's draft Red Herring Prospectus dated December 23, 2024 — GEML standalone financials and final OFS quantum
+- *In their words:* “Please note that , post the proposed IPO, while the Company would continue to be a significant shareholder of GEML , whether GEML would continue to be a subsidiary of the Company  would be contingent on the final quantum of the OFS and the size of the IPO , which along with the price and other details of the proposed IPO, will be determined in due course by the competent body  based on provisions of applicable law, market conditions and other considerations (such as the valuation of GEML ).”
+
+### Why the demerger — three years of calls and the scheme
+
+No rationale on file: no call passages and no scheme rationale text.
+
+**The checklist:**
+
+| Item | Status | Evidence |
+|---|---|---|
+| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
+| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
+| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
+| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
+| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
+| Timing (first year sells, second year gains) | partly | not yet listed — 327 days since the first filing, stage announced |
+| Management discussing it on the calls | yes | 2 mention(s) in the last 12 months of calls — “…oncerned that we may continue to lose market share. Could you please address how we are planning to regain market share? Second, are we considering an IPO or a demerger of the EV mobility business? Will such a move help” |
+
+**On the calls (last 12 months):**
+
+- *Aug 2024* (backward) — “…one question. For any of the businesses that Grea ves Cotton has, let's say retail, finance technologies across all the businesses, do you have any plans for a demerge of any of the businesses in the future, particularly fo r the e-mobility since you are very bullish on the whole market and the growth prosp ects? So, any thou…”
+- *Nov 2024* (forward) — “…oncerned that we may continue to lose market share. Could you please address how we are planning to regain market share? Second, are we considering an IPO or a demerger of the EV mobility business? Will such a move help us focus better and establish the right parameters for growth? N Basavanhalli: So, I will ask Vijaya Kumar…”
+
+<details><summary>The filings</summary>
+
+| Date | Category | Headline | Attachment |
+|---|---|---|---|
+| 2024-05-08 | Updates | Greaves Cotton Limited has informed the Exchange regarding 'Update on Board Meeting held today i.e., 08th May, 2024'. | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_08052024145743_SignedGREAVESCOT08052024Fundraising.pdf) |
+| 2024-11-01 | Earnings call Nov 2024 | …oncerned that we may continue to lose market share. Could you please address how we are planning to regain market share? Second, are we considering an IPO or a |  |
+| 2024-12-01 | General Updates | Greaves Cotton Limited has informed the Exchange about the proposed Initial Public Offering by a material subsidiary of the Company, Greaves Electric Mobility L | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_01122024153601_GREAVES01122024.pdf) |
+| 2024-12-11 | General Updates | Greaves Cotton Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_11122024155618_Greaves_11122024.pdf) |
+| 2024-12-23 | General Updates | Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_23122024224409_Greavescot_23122024.pdf) |
+
+</details>
+
 ## EDELWEISS — Edelweiss Financial Services Ltd.
 
 **CONFIRMED** (partial spin-off — the IPO of EAAA India Alternatives Limited is in motion (DRHP filed)) · **PARTIAL SPIN-OFF, IPO IN MOTION — the parent's stub is priced once the piece trades** · score 2.1/10 · partial spin-off (subsidiary IPO) · 1 filing(s) from NSE · first 2024-12-05, latest 2024-12-05
@@ -2480,62 +2741,6 @@ No rationale on file: no call passages and no scheme rationale text.
 ---
 
 # Probable spin-offs and listings
-
-## CYIENT — Cyient Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 6.4/10 · spin-off · 7 filing(s) from CALLS, NSE · first 2024-04-25, latest 2025-03-31
-
-> **Listing:** NOT YET — scheme at 'meetings' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; no listing timeline stated
-
-**The stages, as filed:** announced (2025-03-31) → meetings (2024-07-01)
-
-**Stated in the filings:** size hint: 17% of revenue.
-
-**What is being separated, as the documents put it:** The global end-to-end semiconductor business — turnkey ASIC design and fabless chip sales — carved into a wholly owned subsidiary — class `value_unlocking`.
-
-- *Insiders:* No separate promoter stake stated: wholly owned subsidiary, "no change in shareholding pattern", "no other benefit to the promoter/promoter group/group companies". Unit reports to Krishna Bodanapu, who says he wants to manage these parts himself.
-- *What it reveals:* A small, capital-starved unit: India semicon was 1.5% of FY24 consolidated revenue, 0.8% of net worth, yet global transfers price it at ~INR 3,136 Mn. Parent is zero long-term debt with $134 Mn cash; ~$100 Mn DLM proceeds earmarked for semicon.
-- *Selling pressure:* unlikely — No shares distributed to shareholders — stays a wholly owned subsidiary; only a capital raise is being explored, no listing.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* The independent valuer's valuation report behind the INR 608 Mn slump-sale price, and Cyient Semicon India's first audited financials.
-- *In their words:* “The slump sale is being undertaken as part of a large group restructuring to carveout the semiconductor business of the Company into Cyient Semicon India and enable dedicated focus and growth of this business.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…income' in the standalone financial results. 4 Exceptional items: In earlier periods, a civil class action antitrust lawsuit was filed in a U.S. District Court (consolidating multiple civil lawsuits filed in the previous year)…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…income' in the standalone financial results. 4 Exceptional items: In earlier periods, a civil class action antitrust lawsuit was filed in a U.S. District Court (consolidating multiple civil lawsuits filed in the previou” |
-| Institutional selling likely (small / different business) | partly | the demerged piece is 17% of revenue |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 431 cr (Mar 2026) = 0.05× market cap; P/E 20.3 on Mar 2026 profit vs industry median 26.3 (25 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage meetings — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 340 days since the first filing, stage meetings |
-| Management discussing it on the calls | yes | 4 mention(s) in the last 12 months of calls — “…also probably it is a little bit early to take it as a trend but also is a good reflection of the focus that we were able to bring into that discipline and to carve out larger deals than what we were doing before. Krish” |
-
-**On the calls (last 12 months):**
-
-- *Aug 2024* (forward) — “…ent to provide an end to end service offering for these turnkey chip design and now we believe that there is a significant opportunity along the lines with the value unlock of Cyient DLM to actually create a separate business that can exclusively and dedicatedly focus on turnkey ASIC . This decision marks a significant leap forwar…”
-- *Feb 2025* (neutral) — “…also is relatively specific to that portfolio to that industry , like for aerospace or for communications or for energy what have you. But at the same time to carve out a la rge deal is also a structured exercise. We now have a large steel team working supporting the current sales leaders and sales managers to construct a deal…”
-- *Feb 2025* (forward) — “…g previously , especially as we move towards the selling of technology in a cons ultative model. Our team will now help the sales leaders and sales managers to carve out larger deals from the current proportions we are currently tabling to the customers. It's also being done. That's one of the 7 things that I didn't talk com pl…”
-- *Feb 2025* (backward) — “…also probably it is a little bit early to take it as a trend but also is a good reflection of the focus that we were able to bring into that discipline and to carve out larger deals than what we were doing before. Krishna Bodanapu: I will just add one thing that while we have always tried to push on how we are selling , sell…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-04-25 | Updates | Cyient Limited has informed the Exchange regarding 'Financial Results for the quarter and year ended 31 March 2024' | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_25042024170434_f_cyient.pdf) |
-| 2024-04-25 | Financial Result Updates | Cyient Limited has submitted to the Exchange, the financial results for the period ended March 31, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/FinancialsFinalSigned_25042024161401.pdf) |
-| 2024-07-01 | Shareholders meeting | Cyient Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 01, 2024 | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_01072024164150_AGMOutcomeSigned1.pdf) |
-| 2024-08-01 | Earnings call Aug 2024 | …ent to provide an end to end service offering for these turnkey chip design and now we believe that there is a significant opportunity along the lines with the | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ed316a53-ed1f-43d1-a1da-9bfd34ba741f.pdf) |
-| 2024-08-20 | Outcome of Board Meeting | Cyient Limited has informed the Exchange regarding Board meeting held on August 20, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_20082024173653_20092024BM.pdf) |
-| 2025-02-01 | Earnings call Feb 2025 | …g previously , especially as we move towards the selling of technology in a cons ultative model. Our team will now help the sales leaders and sales managers to | [pdf](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a27009a9-8bb7-4a12-818d-3ac6d0ed1a94.pdf) |
-| 2025-03-31 | Outcome of Board Meeting | Cyient Limited has informed the Exchange regarding Board meeting held on March 31, 2025. | [pdf](https://nsearchives.nseindia.in/corporate/CYIENT_31032025190611_Disclosures31032025Signed.pdf) |
-
-</details>
 
 ## IIFL — IIFL Finance Ltd.
 
@@ -2589,53 +2794,6 @@ Mechanical read only (judge not run). Stated reasons: regulatory / strategic kno
 | 2025-02-01 | Earnings call Feb 2025 | …om here and this will improve significantly as we go forward. Varinder Bansal: Sir, my last question, if permitted. We also hear that ADIA has been pushing for |  |
 | 2025-02-01 | Earnings call Feb 2025 | …s of their own investment horizon. So it will be done strategically whenever it's appropriate time. So I don't think there's any push or pull from anywhere for |  |
 | 2025-02-12 | Press Release | IIFL Finance Limited has informed the Exchange regarding a press release dated February 12, 2025, titled "Press Release on the unaudited standalone and consolid | [pdf](https://nsearchives.nseindia.in/corporate/IIFL_12022025211105_SE_PR_P_Final.pdf) |
-
-</details>
-
-## HDFCBANK — HDFC Bank Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **SPINNING — record date set; the new entity lists soon** · score 5.0/10 · spin-off · 8 filing(s) from NSE · first 2024-06-20, latest 2025-01-28
-
-> **Listing:** RECORD DATE set; the resulting company not yet listed — resulting companies have typically listed 4–10 weeks after the record date; filings/calls say: Said on October 19, 2024 call: "The circular for the upper tier came that requires HDB to be listed by September '25." DRHP dated October 30, 2024 filed with SEBI, BSE and NSE; IPO subject to approvals and market conditions (no listing date given).
-
-**The stages, as filed:** effective (2024-10-23)
-
-**What is being separated, as the documents put it:** HDB Financial Services Limited, the Bank's non-deposit-taking NBFC lending subsidiary, being separately listed via IPO — class `regulatory_strategic`.
-
-- *Insiders:* Bank holds 94.5% of HDBFS and sells up to Rs 10,000 crore via offer for sale; post-IPO HDBFS continues to be a subsidiary. HDBFS amended its 2014/2017/2022 ESOP schemes; HDB Employee Welfare Trust consolidated.
-- *What it reveals:* A sizeable NBFC inside the bank: loan book Rs 986 billion, Q2FY25 PAT Rs 5.9 billion, Stage 3 at 2.10%, total CAR 19.3% (Tier-I 14.6%); IPO sized up to Rs 12,500 crore. HDB credit costs rose and management overlays were taken.
-- *Selling pressure:* unlikely — IPO (fresh issue plus offer for sale), not a share distribution to HDFC Bank holders, so no index-exclusion or forced selling is described.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* HDBFS Draft Red Herring Prospectus dated October 30, 2024 — Stage 3 loans, credit cost and ESOP/shareholding terms.
-- *In their words:* “We wish to inform you that with respect to mandatory listing requirement of HDB Financial Services Limited ("HDBFS") (subsidiary of HDFC Bank Limited) being an Upper Layer NBFC pursuant to the circular issued by the Reserve Bank of India in October 2022, the Board of Directors of the Bank at its meeting today provided an in-principle approval to initiate the process of listing of HDBFS through a potential initial public offer and seek necessary approvals from the regulatory authority(ies) in this regard.”
-
-### Why the demerger — three years of calls and the scheme
-
-Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit, Chartered Accountants,…”
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | yes | regulatory / strategic knot — “…d on the recommendations of the Audit Committee and the approval received from the Reserve Bank of India (“RBI”) , the Board of Directors of the Bank has considered and approved the appointment of M/s Batliboi & Purohit” |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | partly | option pricing mentioned: …ncies (1144.95) 160.97 Dividend from subsidiaries (1547.48) (675.29) Employee Stock Options / Units expense 940.39 597.68 48966.91 42457.65 Adjustments for: Increase in investments (17434.47) (73484.35) Increase in advances (1712… *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | P/E 14.5 on Mar 2026 profit vs industry median 24.6 (97 peers) |
-| Parent before the spin (clean parent, takeover prelude) | no | stage effective — the pieces trade separately now |
-| Timing (first year sells, second year gains) | partly | not yet listed — 284 days since the first filing, stage effective |
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-06-20 | Outcome of Board Meeting | HDFC Bank Limited has informed the Exchange regarding Outcome of Board Meeting held on Jun 20, 2024. | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20062024185648_SEintimationOutcome20jun2024.pdf) |
-| 2024-09-20 | Updates | HDFC Bank Limited has informed the Exchange regarding 'Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Dis | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_20092024160834_SE_intimation_final_20092024.pdf) |
-| 2024-10-18 | Sale or disposal | HDFC Bank Limited has informed the Exchange about Sale of shares of HDFC Education and Development Services Private Limited ( HDFC Edu ) by HDFC Bank Limited | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_18102024192949_HEADS_Disclsoure.pdf) |
-| 2024-10-19 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_19102024175013_SEintimation_OFSinHDB_IPO.pdf) |
-| 2024-10-23 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and half-year ended Septembe | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_23102024153625_SEResultSept2024MRF.pdf) |
-| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024091913_SE_Intimation_final.pdf) |
-| 2024-10-31 | General Updates | HDFC Bank Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_31102024121712_St_Ex_Intimation_final.pdf) |
-| 2025-01-28 | Updates | HDFC Bank Limited has informed the Exchange regarding Unaudited Financial Results of HDFC Bank Limited ("the Bank") for the quarter and nine months ended Decemb | [pdf](https://nsearchives.nseindia.in/corporate/HDFCBANK_28012025211711_SE_Intimation-_MRF.pdf) |
 
 </details>
 
@@ -2828,50 +2986,6 @@ Mechanical read only (judge not run). Stated reasons: a weak or capital-heavy bu
 |---|---|---|---|
 | 2024-12-20 | General Updates | Hindustan Construction Company Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/HCC_20122024174035_Exchange.pdf) |
 | 2025-02-19 | Shareholders meeting | Hindustan Construction Company Limited has informed the Exchange regarding Notice of Extraordinary General Meeting to be held on March 13, 2025 | [pdf](https://nsearchives.nseindia.in/corporate/HCC_19022025200541_Exchange.pdf) |
-
-</details>
-
-## NTPC — NTPC Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 4.3/10 · spin-off · 2 filing(s) from CALLS, NSE · first 2024-09-19, latest 2024-09-19
-
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: On 24 May 2024: IPO "tentatively around October or November"; on 25 October 2024: concluded "Q3, hopefully"; on 25 January 2025: "With its successful listing on 27 November 2024".
-
-**What is being separated, as the documents put it:** NTPC's renewable energy business held in subsidiary NTPC Green Energy Limited; separated by IPO fresh issue, not demerger — class `value_unlocking`.
-
-- *Insiders:* NTPC remains holding company; NGEL stays a subsidiary post-IPO (fresh issue only). IPO reserves shares for eligible NTPC shareholders and employees. Same directors (Finance, Projects) serve NTPC and NGEL.
-- *What it reveals:* A fast-growing green platform: 3,475 MW commercial (31 Dec 2024), 13,921 MW contracted/awarded (+63% YoY), 9M FY25 EBITDA Rs.1,483 crore on income Rs.1,714 crore, AAA rating equal to parent, ~12.5% IRR bids, 60 GW target by 2032.
-- *Selling pressure:* unlikely — Fresh issue up to Rs.100,000 million; no shares distributed to NTPC holders; parent retains control; reservation for NTPC shareholders/employees.
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* NGEL's DRHP dated 18 September 2024 — project-wise PPA status for the ~11.5 GW pipeline lacking signed PPAs.
-- *In their words:* “I would like to place on record that we have annulled the process of identifying a strategic investor for NTPC Green Energy Limited due to certain issues and are now working on the strategies for the IPO which will unlock further value.”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | yes | borrowings 271,005 cr (Mar 2026) = 0.80× market cap; P/E 12.2 on Mar 2026 profit vs industry median 31.1 (15 peers) |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 193 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 1 mention(s) in the last 12 months of calls — “…NTPC Green IPO, just at the back. CMD : Who is that? Atul Mehra: Atul Mehra from Motilal Oswal Asset Management, sir. Would you be considering a full - fledged demerger of the business of NTPC Green, or it will continue” |
-
-**On the calls (last 12 months):**
-
-- *Jul 2024* (forward) — “…NTPC Green IPO, just at the back. CMD : Who is that? Atul Mehra: Atul Mehra from Motilal Oswal Asset Management, sir. Would you be considering a full - fledged demerger of the business of NTPC Green, or it will continue to remain substant ially held by NTPC Limited and there will be some minority which will be offloaded in the…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-07-01 | Earnings call Jul 2024 | …NTPC Green IPO, just at the back. CMD : Who is that? Atul Mehra: Atul Mehra from Motilal Oswal Asset Management, sir. Would you be considering a full - fledged |  |
-| 2024-09-19 | Updates | Disclosure under Regulation 30 of Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, NTPC Green Energy Limi | [pdf](https://nsearchives.nseindia.in/corporate/NTPC_19092024120246_NTPCDRHPJSA.pdf) |
 
 </details>
 
@@ -3136,54 +3250,6 @@ No rationale on file: no call passages and no scheme rationale text.
 | Date | Category | Headline | Attachment |
 |---|---|---|---|
 | 2024-07-19 | Code of Conduct under SEBI(PIT) Reg., 20 | CREDITACCESS GRAMEEN LIMITED has informed the Exchange about Code of Conduct under SEBI(PIT) Reg., 2015 | [pdf](https://nsearchives.nseindia.in/corporate/CREDITACC_19072024172610_CAGL_COC_PIT_19072024.pdf) |
-
-</details>
-
-## GREAVESCOT — Greaves Cotton Ltd.
-
-**PROBABLE** (a filing's text names a demerger; no scheme filing names it yet) · **PRE-SPIN — study the parent; the pieces do not trade yet** · score 2.9/10 · spin-off · 5 filing(s) from CALLS, NSE · first 2024-05-08, latest 2024-12-23
-
-> **Listing:** NOT YET — scheme at 'announced' stage; the resulting company will list only after NCLT sanction, effectiveness and a record date; indicated timeline: On January 23, 2025 the company said GEML "has filed its draft Red Hearing Prospectus with Securities Exchange Board of India, Bombay Stock Exchange Limited and National Stock Exchange of India Limited on December 23, 2024 and is in the process of taking the necessary steps to complete the IPO on receipt of the necessary approvals from the relevant regulatory authorities"; no listing date stated
-
-**What is being separated, as the documents put it:** Greaves Electric Mobility Limited — electric two- and three-wheeler business (Ampere brand) — separated via IPO, not demerger — class `value_unlocking`.
-
-- *Insiders:* Parent holds 62.48% of GEML; offers for sale up to 51,000,000 shares (parent) and 138,398,200 (Abdul Latif Jameel Green Mobility Solutions DMCC); parent stays significant shareholder
-- *What it reveals:* Separation isolates loss-making EV unit (9M segment loss Rs 153.39 crore) from profitable Engines (9M result Rs 211.61 crore on Rs 1,271.66 crore) and Cables; parent near zero debt, Rs 503 crore cash
-- *Selling pressure:* unlikely — Shares sold to new investors via fresh issue and offer for sale; no distribution to existing holders or index exclusion stated
-- *Parent or spin:* parent · *option pricing date:* not stated
-- *Read next:* GEML's draft Red Herring Prospectus dated December 23, 2024 — GEML standalone financials and final OFS quantum
-- *In their words:* “Please note that , post the proposed IPO, while the Company would continue to be a significant shareholder of GEML , whether GEML would continue to be a subsidiary of the Company  would be contingent on the final quantum of the OFS and the size of the IPO , which along with the price and other details of the proposed IPO, will be determined in due course by the competent body  based on provisions of applicable law, market conditions and other considerations (such as the valuation of GEML ).”
-
-### Why the demerger — three years of calls and the scheme
-
-No rationale on file: no call passages and no scheme rationale text.
-
-**The checklist:**
-
-| Item | Status | Evidence |
-|---|---|---|
-| Why the spin-off | unknown | no stated rationale in the filings on file *(next: read the scheme's rationale section / the board's press release)* |
-| Institutional selling likely (small / different business) | unknown | size of the demerged piece not stated *(next: pro-forma statements: revenue / assets of the demerged undertaking vs the parent)* |
-| Insider ownership and incentives aligned | unknown | no promoter-continuity or option-pricing language found *(next: the date the management options are priced; promoter holding in the resulting company)* |
-| A hidden value revealed (pro-forma, leverage, comparables) | unknown | no pro-forma or market data on file *(next: pro-forma P&L of each piece × the peer P/E of its own industry)* |
-| Parent before the spin (clean parent, takeover prelude) | partly | stage announced — the spin has not happened; the parent can still be bought whole |
-| Timing (first year sells, second year gains) | partly | not yet listed — 327 days since the first filing, stage announced |
-| Management discussing it on the calls | yes | 2 mention(s) in the last 12 months of calls — “…oncerned that we may continue to lose market share. Could you please address how we are planning to regain market share? Second, are we considering an IPO or a demerger of the EV mobility business? Will such a move help” |
-
-**On the calls (last 12 months):**
-
-- *Aug 2024* (backward) — “…one question. For any of the businesses that Grea ves Cotton has, let's say retail, finance technologies across all the businesses, do you have any plans for a demerge of any of the businesses in the future, particularly fo r the e-mobility since you are very bullish on the whole market and the growth prosp ects? So, any thou…”
-- *Nov 2024* (forward) — “…oncerned that we may continue to lose market share. Could you please address how we are planning to regain market share? Second, are we considering an IPO or a demerger of the EV mobility business? Will such a move help us focus better and establish the right parameters for growth? N Basavanhalli: So, I will ask Vijaya Kumar…”
-
-<details><summary>The filings</summary>
-
-| Date | Category | Headline | Attachment |
-|---|---|---|---|
-| 2024-05-08 | Updates | Greaves Cotton Limited has informed the Exchange regarding 'Update on Board Meeting held today i.e., 08th May, 2024'. | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_08052024145743_SignedGREAVESCOT08052024Fundraising.pdf) |
-| 2024-11-01 | Earnings call Nov 2024 | …oncerned that we may continue to lose market share. Could you please address how we are planning to regain market share? Second, are we considering an IPO or a |  |
-| 2024-12-01 | General Updates | Greaves Cotton Limited has informed the Exchange about the proposed Initial Public Offering by a material subsidiary of the Company, Greaves Electric Mobility L | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_01122024153601_GREAVES01122024.pdf) |
-| 2024-12-11 | General Updates | Greaves Cotton Limited has informed the Exchange about General Updates | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_11122024155618_Greaves_11122024.pdf) |
-| 2024-12-23 | General Updates | Subject: Intimation under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI | [pdf](https://nsearchives.nseindia.in/corporate/GREAVESCOT_23122024224409_Greavescot_23122024.pdf) |
 
 </details>
 
