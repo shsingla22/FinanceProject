@@ -1390,9 +1390,12 @@ def resolve_probable(sit: dict, res: dict, today: dt.date | None = None) -> str:
         sit["confidence"] = ("confirmed", "demerger in progress — read from the filings' text (no scheme-category "
                                           f"filing names it): “{quote[:150]}”")
         return "in_progress"
-    if what == "demerger_completed" and named:
+    if what == "demerger_completed":
         role = str(res.get("role") or "").strip().lower()
         role = "resulting company" if role.startswith("result") else "demerged company"
+        if not named:                      # a resulting company is itself the business that was spun out
+            business = "the company itself — it is the business that was demerged" if role == "resulting company" \
+                else "not stated in the documents"
         rc = clean_entity(str(res.get("resulting_company") or ""))
         said = str(res.get("completed_date") or "").strip()
         said = "" if re.match(r"not stated", said, re.I) else said

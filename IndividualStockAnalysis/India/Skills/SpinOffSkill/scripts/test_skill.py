@@ -1463,6 +1463,11 @@ def test_probable_rows_are_resolved_in_progress_completed_indicated_or_discarded
     SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "power business", "role": "demerged company",
                             "resulting_company": "not stated", "completed_date": "FY 2010-11", "quote": "q"}, today)
     assert s["facts"]["completed_date"] == "FY 2010-11" and s["facts"]["completed_date_source"] == "per the filings"
+    # a resulting company with no separate 'business' named is still a completed demerger
+    s = _prob_sit("TRITURBINE", "Triveni Turbine Ltd.")
+    assert SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "not stated", "role": "resulting company",
+                                   "completed_date": "2010", "quote": "It was demerged from its parent in 2010"}, today) == "completed"
+    assert s["facts"]["demerged_business"].startswith("the company itself")
     # the register's record date outranks every other date
     s = _prob_sit("SANOFI", "Sanofi India Ltd.")
     SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "consumer healthcare", "completed_date": "2024", "quote": "q"}, today)

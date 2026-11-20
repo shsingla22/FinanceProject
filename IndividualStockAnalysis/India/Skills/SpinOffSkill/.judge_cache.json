@@ -1896,30 +1896,6 @@
  },
  "TMPV": {
   "stamps": {
-   "ee706e4016df176bf46596c16e6393c7": {
-    "what_is_spun": "Tata Motors' Commercial Vehicles Business, with its related investments, demerged into TML Commercial Vehicles Limited (later renamed Tata Motors Limited)",
-    "demerged_business_names": [
-     "Commercial Vehicles Business",
-     "CV business undertaking",
-     "Demerged Undertaking",
-     "TML Commercial Vehicles Limited",
-     "TMLCV",
-     "Resulting Company",
-     "Tata Motors Limited (renamed)",
-     "Tata Motors Commercial Vehicles"
-    ],
-    "reason": "Distinctive profiles and business models of the CV and PV businesses suit separately listed entities: sharper strategic focus, better control, greater agility, accountability, clear capital allocation, and value unlocked through price-discovery.",
-    "reason_class": "value_unlocking",
-    "insiders": "Promoters hold 100% of TMLCV pre-scheme, 41.22% indicative post-scheme; shareholding mirrors TML with common promoters (Tata Sons). No cash consideration. AGM approved Share-based Long Term Incentive Scheme 2024.",
-    "hidden_value": "CV business carried ~99% of TML standalone total income (Rs.73,116.64 crore FY24) yet ~60% of assets; residual TMPV keeps PV, EV (TPEM) and JLR investments. CV posted ROCE ~38-40% and double-digit EBITDA.",
-    "selling_pressure": "unlikely",
-    "selling_pressure_why": "1:1 mirror shareholding, both entities listed on BSE and NSE; CV is ~99% of standalone income and ~60% of assets, not a small spin.",
-    "parent_or_spin": "both",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "Scheme 'subject to all the necessary shareholder, creditor and regulatory approvals which can take around 12-15 months to complete' (August 1, 2024); appointed date 'opening of business hours of July 01, 2025'; on January 29, 2025 management said 'we are expecting to have the appointed date as July 1st... and effective date is likely to be more like October this year'",
-    "read_next": "The Composite Scheme of Arrangement itself \u2014 the Demerged Undertaking definition and the 60:40 CV:PV asset split at appointed date.",
-    "quote": "The effectiveness of the Scheme would result in creation of two listed companies with mirror shareholding with the Resulting Company housing the Commercial Vehicles Business and the Amalgamated Company housing the Passenger Vehicles Business."
-   },
    "ac3d07989739a6944c4c0d6effad9335": {
     "what_is_spun": "The Commercial Vehicles Business of Tata Motors Limited, demerged on a going concern basis into TML Commercial Vehicles Limited",
     "demerged_business_names": [
@@ -2001,6 +1977,28 @@
     "listing_timeline": "Aug 1, 2024: approvals \"can take around 12-15 months to complete\"; appointed date \"opening of business hours of July 01, 2025\"; Jan 29, 2025 call: \"expecting to have the appointed date as July 1st\u2026 effective date is likely to be more like October this year\"; listing on BSE and NSE sought, subject to exchange approvals.",
     "read_next": "The composite scheme itself \u2014 PwC share entitlement report, the 60:40 CV:PV asset split, and the still-unfixed demerger record date.",
     "quote": "The effectiveness of the Scheme would result in creation of two listed companies with mirror shareholding with the Resulting Company housing the Commercial Vehicles Business and the Amalgamated Company housing the Passenger Vehicles Business."
+   },
+   "163021ba3394e85fe97f80521f6a9458": {
+    "what_is_spun": "The Commercial Vehicles business of Tata Motors Limited, demerged into a separate listed entity",
+    "demerged_business_names": [
+     "Commercial Vehicles Business",
+     "demerged undertaking (i.e., undertaking relating to Commercial Vehicles Business)",
+     "TML Commercial Vehicles Limited (TMLCVL / TMLCV / TMCV)",
+     "Tata Motors Limited (formerly TML Commercial Vehicles Limited)",
+     "Resulting Company",
+     "CV segment / CV undertaking"
+    ],
+    "reason": "Scheme housed CV and PV businesses in two separate entities; stated objective of the amalgamation limb was \"consolidating the Passenger Vehicles Business with TML\". No further rationale stated.",
+    "reason_class": "regulatory_strategic",
+    "insiders": "Promoter and promoter group held 1,565,402,703 of 3,682,582,902 shares (~42.5%), receiving 1:1 shares in the Resulting Company. MD Shailesh Chandra holds 1,50,029 shares plus PSUs under Scheme 2024, subject to Scheme Clause 9.",
+    "hidden_value": "Cost apportionment implies 68.85% of value in TMPV versus 31.15% in CV. Parent keeps JLR plus India PV/EV: FY26 consolidated net debt Rs 30,000 Cr sits almost entirely at JLR (Rs 33,000 Cr) while India PV is cash positive Rs 7,000 Cr.",
+    "selling_pressure": "likely",
+    "selling_pressure_why": "1:1 shares pushed to all 64,60,243-shareholder base of a large parent; commercial vehicles is a different business from cars/SUVs.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "On November 10, 2025 the Company said TMCV \"has received approval from BSE Limited and National Stock Exchange of India Limited for listing and trading of its equity shares, effective November 12, 2025\"; on November 1, 2025 it had said \"The process for listing is currently underway.\"",
+    "read_next": "Tata Motors Limited (formerly TML Commercial Vehicles) standalone results and its Rs 4 dividend \u2014 the spin's own profitability.",
+    "quote": "In this regard, we wish to inform that TMCV has intimated the Company today that it has received approval from BSE Limited and National Stock Exchange of India Limited for listing and trading of its equity shares, effective November 12, 2025."
    }
   }
  },
@@ -2078,29 +2076,6 @@
  },
  "EMBDL": {
   "stamps": {
-   "3b97e76fd85b9b4c11dff0bb9ac82d71": {
-    "what_is_spun": "Sinnar Thermal Power Limited, the power generation business of the erstwhile Indiabulls group, separated from the real estate business",
-    "demerged_business_names": [
-     "Sinnar Thermal Power Limited",
-     "STPL",
-     "power generation business",
-     "power business",
-     "Rattan India Group (STPL's owner since 2011)",
-     "Rattan India Power Limited",
-     "Rattan India Enterprises Limited"
-    ],
-    "reason": "No management rationale stated; documents say only that 'a court-approved demerger reorganised the group's businesses, pursuant to which the power business was separated from the real estate business' in FY2010-11",
-    "reason_class": "unrelated",
-    "insiders": "None retained: 'Post demerger STPL was not under the control of the Company and was managed by a separate promoter entity not related to the Company viz Rattan India Power Limited and Rattan India Enterprises Limited'",
-    "hidden_value": "Not value-unlocking: the demerger left the parent a contingent corporate guarantee (equity-infusion undertaking) on STPL's Rs 1,444 million facilities, which produced a Rs 372 crore Section 7 claim and CIRP admission; NCLAT set that aside on May 04, 2026",
-    "selling_pressure": "unclear",
-    "selling_pressure_why": "Demerger completed FY2010-11 into an unrelated third-party entity; documents mention no share distribution, listing or index exclusion",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "not stated; documents say only 'Subsequently in the financial year 2010-2011 STPL was demerged into a third party entity' (August 10, 2026 results notes) and that 'Following the demerger, STPL has been part of the Rattan India Group since 2011' (February 09, 2026 investor update)",
-    "read_next": "NCLAT order dated May 04, 2026, and the 11 January 2011 substituted corporate guarantee limiting any equity-infusion obligation",
-    "quote": "In FY 2010\u201311, a court-approved demerger reorganised the group's businesses, pursuant to which the power business was separated from the real estate business."
-   },
    "71e4ec23ed0cd810c27d14086b44f5bf": {
     "what_is_spun": "not stated \u2014 documents describe amalgamation of NAM Estates into the Company; no business is separated or demerged",
     "demerged_business_names": [
@@ -2163,6 +2138,30 @@
     "listing_timeline": "not stated",
     "read_next": "NCLAT's May 4, 2026 order and STPL audited financials showing Rs 3,026 crore equity infused vs Rs 2,454 crore required.",
     "quote": "In FY 2010 \u201311, a court -approved demerger reorganised  the group's businesses, pursuant to which the power business was separated from the real estate business."
+   },
+   "707dcb1fac37b82f67a008c9f1094d68": {
+    "what_is_spun": "Sinnar Thermal Power Limited (STPL) \u2014 the power generation business \u2014 separated from the erstwhile Indiabulls real estate business",
+    "demerged_business_names": [
+     "Sinnar Thermal Power Limited",
+     "STPL",
+     "power generation business",
+     "the power business",
+     "Rattan India Group",
+     "Rattan India Power Limited",
+     "Rattan India Enterprises Limited",
+     "the New Promoters"
+    ],
+    "reason": "Documents state only that \"a court-approved demerger reorganised the group's businesses, pursuant to which the power business was separated from the real estate business\"; no further management rationale given.",
+    "reason_class": "unrelated",
+    "insiders": "No promoter/management stake stated in the demerged entity: post-demerger STPL \"was not under the control of the Company and was managed by a separate promoter entity not related to the Company\" (Rattan India).",
+    "hidden_value": "The separation left the real estate parent carrying a contingent corporate guarantee \u2014 Canara Bank's \u20b9372 crore Section 7 claim, NCLT CIRP admission (Dec 9, 2025), NCLAT stay, dismissal May 4, 2026. STPL's own equity infusion ran \u20b93,026 crore against \u20b92,454 crore required.",
+    "selling_pressure": "unclear",
+    "selling_pressure_why": "Documents describe STPL being \"demerged into a third party entity\"; no share distribution to shareholders, listing or index event is stated.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated",
+    "read_next": "NCLAT judgement dated May 04, 2026 allowing the appeal and dismissing the Section 7 application",
+    "quote": "In FY 2010 \u201311, a court -approved demerger reorganised  the group\u2019s businesses, pursuant to which the power business was separated from the real estate business."
    }
   }
  },
@@ -2423,30 +2422,6 @@
  },
  "SKFINDIA": {
   "stamps": {
-   "414b2a0e499324bd4cd6a95c7f3c48d3": {
-    "what_is_spun": "The Industrial business (Demerged Undertaking) \u2014 bearings for infrastructure, manufacturing, railways, energy \u2014 into SKF India (Industrial) Limited",
-    "demerged_business_names": [
-     "Industrial",
-     "Industrial Business",
-     "Demerged Undertaking",
-     "SKF India (Industrial) Limited",
-     "SKF Industrial",
-     "SKF India Industrial Limited",
-     "SIIL",
-     "Resulting Company"
-    ],
-    "reason": "Both businesses have different market dynamics, distinct customer needs; demerger enables focused capital allocation, faster decision making and independent growth strategies, giving strategic clarity to sharpen priorities and unlock greater value for all stakeholders",
-    "reason_class": "value_unlocking",
-    "insiders": "Mirror-image demerger: 1 SKF Industrial share per SKF India share; Resulting Company's shareholding pattern mirrors the parent on the record date, so no valuation was carried out. Management incentives in the new entity not stated",
-    "hidden_value": "Industrial carries 53.12% of the cost base versus 46.88% automotive, so the spun half is larger. Retained automotive guides only 11-12% PBT, 15.3% EBITDA, below Schaeffler/Timken ~20%; management says industrial is a little higher margin business than automotive",
-    "selling_pressure": "likely",
-    "selling_pressure_why": "New separate listing of the larger half; every automotive-focused shareholder automatically received industrial shares in a different end-market",
-    "parent_or_spin": "spin",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "NCLT Mumbai sanctioned the Scheme by Order dated 26th September 2025; per NSE observation 18, SKF India (Industrial) Limited \"shall ensure that steps for listing of specified securities are completed and trading in securities commences within sixty days of receipt of the order of the Hon'ble High Court/NCLT\", which the Company said it \"shall endeavour to comply\" with (letter dated November 28, 2025); Information Memorandum advertisement published 27 November 2025, and by the 6 February 2026 press release the restructuring \"has resulted in two independently focused entities\"",
-    "read_next": "SKF India (Industrial) Limited's Information Memorandum and its own results \u2014 industrial margins and the inter-company trading/rent arrangement",
-    "quote": "The demerger gives us the strategic clarity to sharpen our priorities, accelerate growth, and unlock greater value for all stakeholders."
-   },
    "27fbbafee8cb2326fa887fe328600848": {
     "what_is_spun": "SKF India's Industrial Business \u2014 rolling bearings, seals, rotating shaft services, lubrication systems for industrial sector",
     "demerged_business_names": [
@@ -2514,6 +2489,29 @@
     "option_pricing_date": "not stated",
     "listing_timeline": "Shares allotted 17th October 2025 remain frozen till listing permission; per NSE observation (company letter 28 November 2025) listing and trading must commence \"within sixty days of receipt of the order of the Hon'ble High Court/NCLT\" (NCLT order 26th September 2025); Industrial's own AGM was held 13 August 2026",
     "read_next": "SKF India (Industrial) Limited's Information Memorandum and standalone results \u2014 test the claim Industrial is the higher-margin business",
+    "quote": "The demerger gives us the strategic clarity to sharpen our priorities, accelerate growth, and unlock greater value for all stakeholders."
+   },
+   "1c0e6742e16d2501f9d06698c66f5f2b": {
+    "what_is_spun": "The Industrial business (Demerged Undertaking) \u2014 bearings for infrastructure, railways, renewables, cement, heavy engineering \u2014 into SKF India (Industrial) Limited",
+    "demerged_business_names": [
+     "Industrial Business",
+     "Demerged Undertaking",
+     "SKF India (Industrial) Limited",
+     "SKF Industrial",
+     "Resulting Company",
+     "SIIL",
+     "SKF Industrial (industrial-heavy industries, railway)"
+    ],
+    "reason": "Different market dynamics, distinct customer needs, focused capital allocation, faster decision making, independent growth strategies; demerger gives strategic clarity to sharpen priorities, accelerate growth and unlock greater value for all stakeholders.",
+    "reason_class": "value_unlocking",
+    "insiders": "Mirror-image demerger: one SKF Industrial share per SKF India share, 4,94,37,963 shares allotted; shareholding pattern mirrors the Demerged Company. Promoter stake percentages and management incentives in the new entity not stated.",
+    "hidden_value": "Cost-of-acquisition apportionment gives Industrial 53.12% versus automotive 46.88%, so the departing half is the larger one. Remaining automotive PBT margin fell to 12.3% against pre-demerger talk of 16-19% EBITDA; management calls the one-offs transitory, loading exceeds 90%, INR 500 crore capex to 2028.",
+    "selling_pressure": "likely",
+    "selling_pressure_why": "Every SKF India holder received industrial shares 1:1 in a different industry; shares remained frozen in depositories until listing permission.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "NCLT sanctioned the Scheme 26 September 2025; allotment approved 17 October 2025 with shares \"frozen till the time listing / trading permission is granted\"; NSE required trading to commence \"within sixty days of receipt of the order\" and on 28 November 2025 the company said the Resulting Company \"shall endeavour to comply\"; by the May 2026 call industrial results were published separately and it held its own AGM before 14 August 2026.",
+    "read_next": "SKF India (Industrial) Limited Information Memorandum and its standalone results \u2014 margins of the 53.12% cost-apportioned half.",
     "quote": "The demerger gives us the strategic clarity to sharpen our priorities, accelerate growth, and unlock greater value for all stakeholders."
    }
   }
@@ -3456,23 +3454,6 @@
  },
  "PARADEEP": {
   "stamps": {
-   "b606d22cb6eb421f5026bdc8825e957a": {
-    "what_is_spun": "Nothing is spun off; this is an amalgamation of Mangalore Chemicals & Fertilizers Limited into Paradeep Phosphates",
-    "demerged_business_names": [
-     "not stated"
-    ],
-    "reason": "Merger \"positions PPL as a truly pan-India fertilizer company, broadening our southern market presence, strengthening customer access and unlocking synergies in procurement logistics and product mix\" (Nov 2025 call)",
-    "reason_class": "value_unlocking",
-    "insiders": "Promoter stake not stated. Management continuity: N. Suresh Krishnan, past MD & CEO of MCFL and Zuari, re-appointed PPL MD from 16.02.2026; K.K. Rajeev Nambiar made Joint MD from 01.04.2026.",
-    "hidden_value": "Combination reveals scale and backward-integration value: FY26 revenue Rs.21,826 cr, EBITDA Rs.2,259 cr, PAT Rs.1,000 cr, but leverage and working capital strain \u2014 FY26 operating cash outflow Rs.1,012 cr, current borrowings Rs.8,849 cr at Sept 2026, subsidy receivable Rs.3,800 cr.",
-    "selling_pressure": "likely",
-    "selling_pressure_why": "22,16,23,331 new PPL shares (about 21% of enlarged 103.80 crore capital) issued to ex-MCFL holders, traded from December 30, 2025.",
-    "parent_or_spin": "neither",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "Already listed: on December 31, 2025 the company said it \"has received the trading approval for 22,16,23,331 Equity Shares of Rs. 10/- each ... from National Stock Exchange of India Limited and BSE Limited on December 30, 2025\"; earlier, on 3rd December 2025, shares \"shall be listed ... after receiving the necessary approvals\".",
-    "read_next": "Composite Scheme of Arrangement; and FY26 results excluding the scheme \u2014 revenue Rs.19,974.50 cr, PBT Rs.1,154.03 cr.",
-    "quote": "Accordingly, as of 16.10.2025, i.e., Effective Date 2 (as defined in the Scheme) the Transferor Company has merged with and into the Company in accordance with Part II of the Scheme and the Transferor Company stands dissolved without being wound up, without any further act or deed."
-   },
    "2adec0bfaa9c1b8d6044320e3164a41b": {
     "what_is_spun": "Nothing is spun off; Mangalore Chemicals & Fertilizers is amalgamated into Paradeep Phosphates by merger",
     "demerged_business_names": [
@@ -3535,6 +3516,27 @@
     "listing_timeline": "Filing dated December 31, 2025: trading approval for the 22,16,23,331 equity shares received from NSE and BSE on December 30, 2025; shares were allotted on December 03, 2025",
     "read_next": "The October 13, 2025 filing on Part III of the Composite Scheme, which took effect separately from the merger",
     "quote": "The successful merger with Mangalore Chemicals & Fertilizers Ltd (MCFL) expanded PPL's capacity by 23% to 3.7 million MT, unlocking new markets in South India and driving economies of scale, procurement efficiency, and product-mix synergies."
+   },
+   "03246542fbbd8909dbe2eeed1f19ca65": {
+    "what_is_spun": "Nothing is separated; Mangalore Chemicals & Fertilizers was amalgamated into Paradeep Phosphates, which absorbed it entirely",
+    "demerged_business_names": [
+     "Mangalore Chemicals & Fertilizers Limited",
+     "MCFL",
+     "the Transferor Company",
+     "Mangalore site",
+     "Jai Kisaan Mangala"
+    ],
+    "reason": "Merger expands capacity 23% to 3.7 million MT, unlocks new markets in South India, drives economies of scale, procurement efficiency and product-mix synergies; makes PPL pan-India",
+    "reason_class": "value_unlocking",
+    "insiders": "Zuari Maroc Phosphates Pvt. Ltd. held 57.2% of PPL at 30 September 2025; capital rose 81.63 to 103.80 crore shares. Akshay Poddar became Vice Chairman; ex-MCFL MD Krishnan leads PPL",
+    "hidden_value": "Restated results isolate MCFL: FY26 revenue Rs 21,826 cr versus Rs 19,974 cr excluding the scheme; PBT Rs 1,328 cr versus Rs 1,154 cr. Goodwill Rs 141.34 cr; net debt-to-equity 0.66x",
+    "selling_pressure": "unclear",
+    "selling_pressure_why": "22.16 crore shares (~21% of enlarged capital) issued to former MCFL holders, but same industry; documents say nothing on index treatment",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "Filing dated December 31, 2025: \"the Company has received the trading approval for 22,16,23,331 Equity Shares of Rs. 10/- each... from National Stock Exchange of India Limited and BSE Limited on December 30, 2025\"",
+    "read_next": "Part III of the Composite Scheme, effective October 13, 2025 \u2014 never described in any filing here",
+    "quote": "Accordingly, as of today, i.e., Effective Date 2 (as defined in the Scheme) the Transferor Company has merged with and into the Company in accordance with Part II of the Scheme and the Transferor Company stands dissolved without being wound up, without any further act or deed."
    }
   }
  },
@@ -8251,6 +8253,41 @@
      "source": null
     },
     "not_found": "No segment-level PAT, EBITDA, tax, depreciation or interest for Green Mobility; no quarterly Green Mobility revenue or profit \u2014 the Q1/Q2 FY27 and Q2/Q3 FY26 presentation pages give only company-level standalone figures."
+   },
+   "911b9a364a005b09f69a07464d4aa1b1": {
+    "segment_name": "Green Mobility (reported as \"Electric Vehicle\" in FY2024\u2013FY2025 and \"Green mobility\" in FY2026) \u2014 Refex Green Mobility Limited / Refex EV Fleet Services Pvt Ltd",
+    "unit": "\u20b9 lakhs",
+    "measure_notes": "Operating profit = consolidated 'Segment Results' (EBIT before other income and exceptional items, stated pre-finance-cost and pre-tax), from the Ind AS 108 operating-segment note. Segment revenue is 'Segment Revenue (Net Sales/Income)' as disclosed; no inter-segment split is given, so inter-segment elimination cannot be verified. Segment-level PAT is never disclosed \u2014 the FY2026 discontinuing-operations note (standalone, AR2026 p.285) covers only Refrigerants and Power Trading, not Green Mobility. Figures are from consolidated notes because the EV/Green Mobility segment does not appear in the standalone segment note.",
+    "years": [
+     {
+      "fy": "FY2024",
+      "revenue": 1231.25,
+      "operating_profit": -737.15,
+      "pat": null,
+      "source": "Annual Report 2024 \u2014 page 317 (consolidated segment note); confirmed Annual Report 2025 \u2014 page 324"
+     },
+     {
+      "fy": "FY2025",
+      "revenue": 3764.69,
+      "operating_profit": -2683.55,
+      "pat": null,
+      "source": "Annual Report 2025 \u2014 page 324 (consolidated segment note); also Annual Report 2025 \u2014 page 82"
+     },
+     {
+      "fy": "FY2026",
+      "revenue": 9951.53,
+      "operating_profit": -3823.51,
+      "pat": null,
+      "source": "Annual Report 2026 \u2014 page 361 (consolidated segment note); revenue also Annual Report 2026 \u2014 page 79"
+     }
+    ],
+    "latest_quarter": {
+     "period": null,
+     "revenue": null,
+     "operating_profit": null,
+     "source": null
+    },
+    "not_found": "No segment PAT, depreciation, EBITDA or tax for any year; no quarterly Green Mobility revenue or profit \u2014 the Q1/Q2 FY27 and Q2/Q3 FY26 presentation pages give only company-level standalone figures."
    }
   }
  },
@@ -9234,6 +9271,144 @@
     ],
     "what_management_expects": "Two fit-for-purpose, independently world-class companies: sharper management focus, tailored innovation and capital allocation, higher manufacturing efficiency (big-batch automation in auto, fast-changeover flexibility in industrial), faster decisions and capacity expansion, separate investor visibility attracting differently-aligned investors, and accelerated growth with margin expansion from FY28 \u2014 automotive 10\u201312% growth, industrial 8\u201310% rising later as localisation reaches ~70%.",
     "gaps": "No quantified total demerger cost or benefit, no explanation why post-split automotive margin is 11\u201312% PBT versus the 16\u201319% promised, and no segment-level disclosure after separation."
+   },
+   "a8b00b9d2f10a0727f298fd1132671a3": {
+    "rationale": "Management framed the separation as a group-level, mirror-image reverse carve-out in which the Industrial undertaking was hived off into SKF India (Industrial) Limited and the listed SKF India Limited was left as the pure automotive company, with shareholders getting one new INR 10 share for every share held (PwC share-entitlement report 24 Dec 2024, Saffron Capital fairness opinion 25 Dec 2024). The stated logic rested on three differences management repeated at every call: macro drivers (automotive = BS-VII/CAFE and emission norms, a 30% EV penetration target by 2030, premiumisation/SUVs, last-mile commercial vehicles; industrial = infrastructure spend, Make in India/PLI/NIP, China-plus-one, railways/metro/Vande Bharat, renewables capacity doubling by 2030), customer needs (a handful of auto OEMs wanting application-specific, long-cycle engineered parts \u2014 60-65% engineered-to-order \u2014 versus thousands of small industrial customers across verticals needing uptime, service and 2-3 new products a year), and manufacturing philosophy (auto: large batch, small/medium bearings, automation, cycle-time efficiency; industrial: small batches, wide assortment, medium/large bearings, fast changeovers, plus traded product). On that base it promised independent management focus, tailored capital deployment, manufacturing efficiency, agility, tailored innovation and separate financial visibility to attract investors aligned to each business. The problem it solved was that the two were 'so deeply integrated' that neither could be run or funded on its own terms: at the time of the split Industrial was ~52-53% of INR ~4,900-5,000 crore revenue, Automotive ~39-40% and exports ~8%, auto was >90-95% localised while industrial was only ~30-35% (ISEA ~50%, target 70%) and capacity-constrained in both \u2014 so capex was raised from INR 130-150 crore a year to ~INR 250 crore and ~INR 1,200 crore over five years, including a brand-new industrial-only plant in Pune by 2028 (INR 450-500 crore) plus INR 350-450 crore of line expansion, and INR 500-600 crore for automotive capacity to 2030. The physical split was spelled out: Bangalore 10 lines (7 auto / 3 industrial, the 3 moving to Pune so Bangalore becomes 100% auto), Pune 22 lines (12 auto / 10 industrial), Haridwar 4 lines all auto; land 85:15 Bangalore, 52:48 Pune, 100% Haridwar; manpower 55-60% auto / 40-45% industrial. Carve-out economics shown were FY24 EBITDA ~18% automotive and ~17% industrial with PBT ~16% for both, and guidance of 10-12% auto and 8-10% industrial growth to FY28 at 17-19% margins. It was driven by SKF AB's own global automotive/industrial split (Kerstin Enochsson, President Automotive, sat on the India board) and endorsed by shareholders on 14 July 2025 and by investors such as Ravi Purohit, who 'wholeheartedly supported this demerger initiative'; no lender or JV-partner demand was ever cited, and SKF India bore the demerger costs \u2014 INR 184 million in Q1 FY26 alone, mostly SAP/IT separation and consultants, guided to cost 1.5-2% of margin into H1 FY27, plus stamp duty and registration on asset transfers landing in the industrial entity.",
+    "evolution": "The process began in Q4 CY2024 and was first explained in full on the dedicated demerger update call of 9 April 2025 (rationale, pro-forma FY24 carve-out financials, 12-15 month timeline), then detailed operationally on 19 May 2025 (which plants go where, a new industrial-only Pune plant) and on 30 June 2025, when management first disclosed segment-level revenue mixes and gave FY28 guidance of 10-12% auto / 8-10% industrial growth at 17-19% margins. At the NCLT-convened meeting of 14 July 2025 shareholders approved the scheme 1:1 while pressing on why India would end up with three SKF entities and on the capex jump from ~INR 150 crore to ~INR 350-400 crore a year; the 6 August 2025 AGM called it 'unlocking the power of two' and the 7 August 2025 Q1 FY26 call put hard numbers on the split (lines, land, 55-60% manpower) and on costs (INR 184 million in the quarter, 530 bps margin drop, 1.5-2% drag into H1 FY27). NCLT Mumbai sanctioned the scheme on 26 September 2025, it took effect 1 October 2025, the record date was 15 October and 4,94,37,963 industrial shares were allotted on 17 October 2025, with cost of acquisition apportioned 46.88% auto / 53.12% industrial. By the 21 May 2026 Q4 FY26 call the story had shifted from value unlock to transition pain \u2014 sustainable PBT guidance cut to 11-12% against the 16-19% communicated pre-demerger, FY26 EBITDA 15.3%, continued trading from the industrial entity because auto is capacity-short, and sustained investor complaints that disclosure had 'dropped substantially'; the 14 August 2026 AGM then rebranded the automotive entity SKF Vertevo.",
+    "points": [
+     {
+      "call": "Apr 2025",
+      "point": "The dedicated demerger call set out the single purpose: two 'fit-for-purpose' independent companies able to accelerate growth and profitability separately.",
+      "quote": "The intention of this demerger is to create 2 fit-for-purposes independent companies, which will accelerate both growth and profitability of both companies."
+     },
+     {
+      "call": "Apr 2025",
+      "point": "Management named the three structural differences that justified separation \u2014 industry dynamics, customer needs and manufacturing philosophy.",
+      "quote": "The reason is, first, there is -- the dynamics of the industries are fundamentally different. Second, the customer needs themselves are different in the Automotive and Industrial. Third, the manufacturing philosophy and how we should manufacture is also different in Automotive and Industrial."
+     },
+     {
+      "call": "Apr 2025",
+      "point": "CFO Ashish Saraf confirmed shareholders are not diluted: a mirror shareholding with one industrial share per SKF India share, to be listed on both exchanges.",
+      "quote": "The new company will mirror the shareholding of the existing listed company with each shareholder of SKF India receiving one share of SKF Industrial as a consideration of the demerger."
+     },
+     {
+      "call": "May 2025",
+      "point": "The physical split was clarified: Haridwar 100% automotive, Bangalore ~80-85% automotive, Pune split with a brand-new industrial-only factory to be built alongside the automotive plant.",
+      "quote": "So there will actually be a new factory setup for just industrial, next to the current automotive one."
+     },
+     {
+      "call": "May 2025",
+      "point": "First carve-out profitability disclosed \u2014 FY24 EBITDA ~18% for automotive and ~17% for industrial, PBT ~16% for both, expected to repeat in FY25.",
+      "quote": "So if you look at FY '24, our EBITDA margins for automotive was around 18%. And industrial was around 17%."
+     },
+     {
+      "call": "Jul 2025",
+      "point": "At the June investor meet management guided to automotive growing faster than industrial through FY28, because industrial localisation and the new Pune plant only come online in late '27/'28.",
+      "quote": "Next 3 years till '28, we expect growth in automotive to be in the 10 % to 12% range, industrial to be a little lower, 8% to 10% range."
+     },
+     {
+      "call": "Jul 2025",
+      "point": "Margin guidance for the pre-split combined entity was 17-19% for three years, with expansion only after FY28 once localisation and capex benefits land.",
+      "quote": "Margins , we continue to over the next 3 years, we will continue to maintain a strong 17 % to 19 % profile."
+     },
+     {
+      "call": "Jul 2025",
+      "point": "Industrial capex was quantified as roughly INR 350-450 crore of added lines in Pune plus a new INR 450-500 crore plant completed by 2028, after which Bangalore becomes wholly automotive.",
+      "quote": "So over the next 5 years, we expect to spend Rs. 350 to Rs. 450 crores on just channel expansion or lines, additional lines in Pune, but also setting up the new plant, which is another Rs. 450 to Rs. 500 crores, which will be done by 2028."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "At the NCLT-convened shareholders' meeting, the company secretary explained the complexity driver \u2014 the two businesses were deeply intertwined \u2014 and said the total demerger cost was still not quantified.",
+      "quote": "As you know, it's a complex project primarily because the businesses both automotive and industrial, they are so deeply integrated that having two independent businesses is a complex pr ocess."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "Asked by Ravindra Purohit whether three Indian SKF entities make sense when the group is simplifying, management declined to commit to any later merger.",
+      "quote": "Any future decisions on merging entities will be made at a lat er date once the demerger process is completed."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "Mukund Vasudevan tied the capex step-up (INR ~150 crore to ~INR 400 crore a year) to capacity shortfalls plus the dedicated industrial factory from FY28.",
+      "quote": "The second is that we are building a second factory for the industrial business and that itself will involve a little bit of... Starting 27 -28 will increase the amount of CAPEX."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "Q1 FY26 quantified the one-time separation cost \u2014 INR 184 million, mostly SAP/IT separation, separate data infrastructure and consultants \u2014 running until H1 FY27.",
+      "quote": "So if you look at our current quarter, cost of demerger was around INR184 million."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "CFO sized the margin drag from the separation and flagged additional stamp duty and registration costs on asset transfer hitting the industrial entity.",
+      "quote": "And this demerger cost is going to impact around 1.5% to 2% on the margins."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "The Q1 FY26 call gave the asset and people split: Bangalore 7 of 10 lines to auto, Pune 12 of 22 to auto, Haridwar all four, with manpower 55-60% to automotive.",
+      "quote": "In manufacturing lines in Bangalore, where we have 10 lines totally, 7 will go to Automotive, 3 will remain with Industrial. In Pune, where we have 22 lines, 12 will remain with Automotive and 10 will go to Industrial."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "Chairman Gopal Subramanyam framed the demerger at the AGM as strategic repositioning for sharper focus, execution agility and deeper customer alignment.",
+      "quote": "This move is designed to sharpen our business focus, improve execution agility and enable deeper customer alignment across both the segments."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "At the AGM the MD branded it 'unlocking the power of two' \u2014 e-mobility leadership and faster launches for auto, vertical-tailored solutions and faster growth for industrial.",
+      "quote": "this is about unlocking the power of two; building two high growth highly profitable companies."
+     },
+     {
+      "call": "Scheme",
+      "point": "The NCLT scheme under Sections 230-232 transferred the industrial undertaking out of SKF India into SKF India (Industrial) Limited on a going-concern basis, cancelling the resulting company's pre-scheme capital.",
+      "quote": "Demerger includes transfer and vesting of the demerged undertaking i.e. industrial business from SKF India L imited , the demerged company, into the SKF India (Industrial ) Limited ., the resulting company, on a going concern basis"
+     },
+     {
+      "call": "Scheme",
+      "point": "The share entitlement was 1:1 on a PwC report dated 24 December 2024, with Saffron Capital Advisers opining it fair; PwC did no valuation because the mirror demerger does not alter economic interest.",
+      "quote": "The resulting company will issue one fully paid -up equity share of Rs. 10/- each for every one fully paid -up equity share of Rs. 10/- held in the demerged company."
+     },
+     {
+      "call": "Scheme",
+      "point": "Post-completion filings fixed the mechanics: NCLT order 26 September 2025, record date 15 October 2025, 4,94,37,963 industrial shares allotted 17 October 2025, cost of acquisition split 46.88% auto / 53.12% industrial.",
+      "quote": "the Board of Directors of the Resulting Company today i.e., 17th October 2025, has approved the allotment of 4,94,37,963 (Four Crores Ninety Four Lakhs Thirty Seven Thousand Nine Hundred and Sixty Three) fully paid -up equity shares"
+     },
+     {
+      "call": "Scheme",
+      "point": "The post-demerger press release set separate investment envelopes to 2030 \u2014 industrial INR 8,000-9,500 million including a new Pune plant by 2028, automotive INR 4,100-5,100 million across Haridwar, Pune and Bangalore.",
+      "quote": "SKF Automotive will concentrate on supporting India's evolving mobility ecosystem, with \u20b94,100 \u20135,100 million earmarked by 2030 to expand capacities across EV, two -wheeler, and wheel -end bearing segments in Haridwar, Pune, and Bangalore."
+     },
+     {
+      "call": "May 2026",
+      "point": "MD Shailesh Sharma clarified the India structure is the inverse of the group's: industrial was carved out and the listed SKF India remains the automotive division (auto ~34-35% of Indian revenue vs ~30% globally).",
+      "quote": "But in India, it is a reverse carve -out where industrial has gone out. So SKF India Limited remains as automotive division."
+     },
+     {
+      "call": "May 2026",
+      "point": "Closing the first post-demerger year, management still presented the split as a value unlock while conceding restructuring costs hit profitability.",
+      "quote": "The demerger positions us to unlock greater value by enabling sharper focus and agility in our business."
+     },
+     {
+      "call": "May 2026",
+      "point": "Sustainable margin guidance for standalone automotive was cut to 11-12% PBT, far below the 16-19% communicated pre-demerger; FY26 EBITDA came in at 15.3%.",
+      "quote": "Now talking about the sustainable margin, we could be looking at 11 -12% kind of margin in the near future, while obviously in long term, the focus would be on improving it further, but the sustainable margin will be that."
+     },
+     {
+      "call": "May 2026",
+      "point": "Investor Ravi Purohit attacked the post-split outcome \u2014 worse disclosure, margins 200-500 bps below Schaeffler and Timken and a 50-70% valuation discount \u2014 and asked whether royalty or transfer pricing had changed; management denied any royalty change.",
+      "quote": "Increasingly, our post demerger, what we are realizing is that the investor communication and the disclosures have dropped substantially ."
+     },
+     {
+      "call": "May 2026",
+      "point": "Management conceded the separation left automotive buying traded bearings (medium DGBB, tapered roller) from the industrial entity because auto capacity is short, and paying/receiving rent and service charges on the shared Pune plant it still owns.",
+      "quote": "The capacity is a little higher side or I must say the demand and capacity point of view, we are short of , in automotive, we are short of little capaci ty. So, we are buying from Industrial."
+     },
+     {
+      "call": "May 2026",
+      "point": "A defence of the lost benchmark: after the split there is no listed pure-play automotive or industrial bearing comparable, since Schaeffler and Timken remain combined.",
+      "quote": "Even if you want to compare, there is not a single listed company, which is bearing purely for automotive."
+     }
+    ],
+    "what_management_expects": "Two fit-for-purpose, independently listed companies with their own boards, sales, manufacturing and capital allocation: automotive to lead e-mobility, launch faster, grow 10-12% and hold 16-19% EBITDA from FY28 (near-term guidance since cut to 11-12% PBT); industrial to grow 8-10%, then faster once a dedicated Pune plant lifts localisation from ~30% to ~70%; sharper investor visibility, better valuation, 1:1 shareholding preserved.",
+    "gaps": "No total demerger cost, no bridge from promised 16-19% auto margins to actual 11-12%, no quantified industrial trading/rent/service-charge terms, gross-block split, or three-entity simplification plan."
    }
   }
  },
@@ -9308,6 +9483,41 @@
      "source": "not disclosed; Presentation Aug 2025 \u2014 page 8 gives only Industrial mix (53%) and growth (13% YoY), and the May/Nov 2026 decks cover the retained Automotive entity"
     },
     "not_found": "No Industrial-only FY2026 revenue, EBITDA or PAT; no Industrial quarterly revenue or profit levels (only mix % and growth %); no external-vs-inter-segment revenue split."
+   },
+   "797155f7073941f71ec0a9d921c2975d": {
+    "segment_name": "Industrial (Industrial Business / Demerged Undertaking transferred to SKF India (Industrial) Limited)",
+    "unit": "\u20b9 million (MINR)",
+    "measure_notes": "Operating profit line is EBITDA as disclosed in the segment-wise financial performance slide (Industrial EBITDA margins 18%/22%/17%/16% for FY2022-FY2025); PAT is the segment profit after tax shown on the same slide (margins 13%/15%/12%/11%). Segment revenue is as presented per business line and sums with Automotive to the company's total Revenue from Operations (FY2024: 16,722 + 28,979 = 45,701.3; FY2025: 17,290 + 31,909 = 49,199.2), so it is effectively external revenue with no separate inter-segment disclosure. Segment EBITDA and PAT likewise sum to company totals (FY2025 EBITDA 8,469; FY2025 PAT 5,658). Statutory notes state the Company reports only one business segment ('Bearings'), so these business-line figures come from the demerger investor presentation, prepared on a combined/carve-out management basis.",
+    "years": [
+     {
+      "fy": "FY2024",
+      "revenue": 28979,
+      "operating_profit": 4987,
+      "pat": 3524,
+      "source": "Presentation Jul 2025 \u2014 page 8"
+     },
+     {
+      "fy": "FY2025",
+      "revenue": 31909,
+      "operating_profit": 5173,
+      "pat": 3607,
+      "source": "Presentation Jul 2025 \u2014 page 8"
+     },
+     {
+      "fy": "FY2026",
+      "revenue": null,
+      "operating_profit": null,
+      "pat": null,
+      "source": null
+     }
+    ],
+    "latest_quarter": {
+     "period": null,
+     "revenue": null,
+     "operating_profit": null,
+     "source": null
+    },
+    "not_found": "No FY2026 Industrial revenue/EBITDA/PAT. AR2026 shows only discontinued-operations PAT 1,487.9 Mn (part-year to 30 Sep 2025, standalone). No standalone Industrial quarterly data; post-demerger decks cover Automotive only."
    }
   }
  },
@@ -10822,6 +11032,41 @@
      "source": "Presentation Aug 2026 \u2014 page 8"
     },
     "not_found": "No segment-level PAT, tax or interest for Ennature Biopharma; interest and tax are reported only company-wide. Quarterly figures are in \u20b9 crore, not \u20b9 lakh."
+   },
+   "5643cbb4d7eaf5c67052bd28caff6eb9": {
+    "segment_name": "Ennature Biopharma (EB) / Ennature Bio Pharma Limited \u2014 the Bio Pharma (nutraceuticals, plant-based APIs) undertaking of India Glycols Ltd.",
+    "unit": "\u20b9 crore",
+    "measure_notes": "Revenue is EB's external net revenue (no inter-segment); operating profit is segment EBITDA as labelled in the investor presentations (Sep 2026 p8 bar chart; Nov 2026 p7 for FY26). PAT is not disclosed for the division \u2014 interest and tax are reported only at company level. Cross-check from audited standalone segment reporting (\u20b9 Lakh, gross segment revenue from external customers / Segment Result = PBIT): FY2024 revenue 20,514.85 and PBIT 3,860.16 (AR2024 p146); FY2025 revenue 21,937.15 and PBIT 2,076.48 (AR2025 p150); FY2026 revenue 20,777.15 and PBIT 723.43 (AR2026 p152) \u2014 identical in the consolidated segment notes. Demerger slide (Presentation Jun 2026 p23) shows Ennature Bio Pharma Limited post-restructuring gross = net sales of \u20b9247 Cr for FY2025-26 (including Bio Polymers) vs \u20b9258 Cr for FY2024-25 (Presentation Nov 2025 p24).",
+    "years": [
+     {
+      "fy": "FY2024",
+      "revenue": 250,
+      "operating_profit": 60,
+      "pat": null,
+      "source": "Presentation Sep 2026 \u2014 page 8"
+     },
+     {
+      "fy": "FY2025",
+      "revenue": 257,
+      "operating_profit": 41,
+      "pat": null,
+      "source": "Presentation Sep 2026 \u2014 page 8"
+     },
+     {
+      "fy": "FY2026",
+      "revenue": 246,
+      "operating_profit": 29,
+      "pat": null,
+      "source": "Presentation Sep 2026 \u2014 page 8; Presentation Nov 2026 \u2014 page 7 (Revenue \u20b9246 Cr, EBITDA \u20b929 Cr, margin 11.9%)"
+     }
+    ],
+    "latest_quarter": {
+     "period": "Q3 FY26",
+     "revenue": 50,
+     "operating_profit": null,
+     "source": "Presentation Feb 2026 \u2014 page 14 (EB net revenue \u20b950 Cr, EBIT margin 4.1%; 9MFY26 \u20b9144 Cr at 2.9% \u2014 Presentation Feb 2026 page 15)"
+    },
+    "not_found": "No division-level PAT, interest or tax in any year; no absolute quarterly EBIT/EBITDA (margins % only); no Q4 FY26 or any FY27 quarter for EB \u2014 post-demerger decks exclude it."
    }
   }
  },
@@ -12267,6 +12512,64 @@
     ],
     "what_management_expects": "Nothing margin- or valuation-specific was promised for the separation itself. The only expectations stated: the PV entity consolidates India PV, EV (TPEM) and JLR in one listed company with an India business that is net cash, giving flex to fund a heavy product cycle; JLR funds GBP 18bn of investment from its own cash flows; and combined dividends across the two companies rose to Rs. 7 from Rs. 6.",
     "gaps": "No strategic 'why': no focus, re-rating, capital-allocation or conglomerate-discount argument; no investor, lender or partner demand named; no separation-cost or dis-synergy quantification beyond stamp duty."
+   },
+   "dda795a42ca5befe77cf9a547405a632": {
+    "rationale": "The business being separated is the Commercial Vehicles (CV) business of the erstwhile Tata Motors Limited, carved out under a Composite Scheme of Arrangement into TML Commercial Vehicles Limited (since renamed Tata Motors Limited), while the listed parent was renamed Tata Motors Passenger Vehicles Limited (TMPV) and simultaneously absorbed its wholly-owned subsidiary Tata Motors Passenger Vehicles Limited by amalgamation \u2014 the Scheme's stated purpose there being 'consolidating the Passenger Vehicles Business with TML'. The net effect, as the Scheme describes it, is that 'the Commercial Vehicle and Passenger Vehicle businesses of the Company are housed in two separate entities' from October 1, 2025, leaving TMPV with India PV, EV (Tata Passenger Electric Mobility) and JLR, plus Tata Technologies and Tata Motors Holdings Singapore in 'others'; segment reporting was recast accordingly and prior-period balance sheets declared non-comparable. Critically, across all six transcripts management never articulates a strategic reason for the split \u2014 no dis-synergy, focus, capital-allocation or value-unlock argument is given; the demerger appears only as a corporate action with dates, approvals, accounting and costs. The economics disclosed are: CV was valued at about Rs 94,000 Cr by third-party agencies against a transferred book value of about Rs 11,000 Cr, producing a Rs 83,000 Cr accounting profit on disposal of the CV undertaking that is 'only a notional gain' because of an equal contra deemed-dividend entry, so there is 'absolutely no impact on either distributable reserves or on our net worth'. Shareholders got one CV share for every one share held (1:1), the split is Section 2(19AA)-compliant so it is not a transfer in shareholders' hands, and cost of acquisition was apportioned 31.15% to CV and 68.85% to TMPV. Costs cited were a Rs 400 Cr stamp duty provision in Q3 FY26 (within Rs 1,600 Cr of exceptionals) rolling into the Rs 4,100 Cr of FY26 exceptionals alongside cyber and labour-code charges. Governance was split too \u2014 separate boards and KMP, Shailesh Chandra as MD & CEO of TMPV, P B Balaji moving to CEO of JLR \u2014 and capital structures now report separately (India PV net cash ~Rs 5,000 Cr at Q3 FY26 and ~Rs 7,000 Cr at year-end versus JLR net debt of ~Rs 33,000\u201339,000 Cr). No investor, lender or partner is named as having asked for the separation; the only constituency cited is shareholders, who approved it with 'overwhelming votes in our favor', plus SEBI/stock exchange NOCs and NCLT sanction.",
+    "evolution": "In the Feb 2025 (Jan 29, 2025) call the demerger appears only as a corporate-action status item \u2014 filings done, NOC from the exchanges and SEBI awaited, appointed date July 1 and effective date around October 1, 2025 \u2014 and by the Jun 2025 (May 13, 2025) call management reports 'overwhelming votes' from shareholders and reaffirms those dates. In the Aug 2025 (Aug 8, 2025) call the NCLT final hearing had concluded that same day with judgment reserved, with the October 1 effective date still 'on plan'; the Nov 2025 (Nov 14, 2025) call is the first reported as a post-demerger listed entity, dominated by mechanics: segment recast, non-comparable balance sheets, and the Rs 83,000 Cr notional disposal gain against the Rs 94,000 Cr valuation and Rs 11,000 Cr book value. Thereafter it shrinks to a cost line \u2014 a Rs 400 Cr stamp duty provision in Feb 2026 (Feb 5, 2026) and stamp duty inside Rs 4,100 Cr of FY26 exceptionals in Jun 2026 (May 14, 2026), where the only forward-looking framing offered is that TMPV's Rs 3 dividend plus TMLCV's Rs 4 equals Rs 7 against Rs 6 paid by erstwhile Tata Motors. At no point in that sequence does the stated rationale evolve, because none is ever stated.",
+    "points": [
+     {
+      "call": "Feb 2025",
+      "point": "The demerger is reported purely as a process milestone: regulatory no-objections from the exchanges and SEBI awaited, operational separation work advanced, appointed date July 1 and effective date around October 1, 2025.",
+      "quote": "We are expecting the NOC from the Stock Exchange and SEBI any time now, all filed and done."
+     },
+     {
+      "call": "Jun 2025",
+      "point": "Shareholder approval is confirmed as emphatic and the timetable reaffirmed; the only related substantive disclosure is that the Tata Capital stake goes with the CV business.",
+      "quote": "The demerger update: we had overwhelming votes in our favor and therefore we are on track for an appointed date of July 1st and an effective date of October 1st 2025."
+     },
+     {
+      "call": "Aug 2025",
+      "point": "The NCLT final hearing concluded on the day of the call with judgment reserved, and management still guided to an October 1 effective date, expecting completion within the quarter.",
+      "quote": "We had the NCLT final hearing today and it has been concluded and the judgment is reserved."
+     },
+     {
+      "call": "Nov 2025",
+      "point": "First results as the post-demerger listed entity: CV is out of segment reporting, the automotive segment is now JLR plus Tata Passenger Vehicles, others is mainly Tata Technologies and Tata Motors Holdings Singapore, and prior-period balance sheets still include CV so are not comparable.",
+      "quote": "It's a pleasure speaking to you as we report our first quarterly earnings as a listed entity."
+     },
+     {
+      "call": "Nov 2025",
+      "point": "The accounting: CV was independently valued at about Rs 94,000 Cr versus about Rs 11,000 Cr of net assets transferred, giving a Rs 83,000 Cr disposal profit that is purely notional because of an offsetting Rs 83,000 Cr deemed dividend.",
+      "quote": "As part of demerger accounting entries, we have recorded a profit of ~Rs. 83,000 Cr on disposal of the CV undertaking, which is essentially the fair value of the CV assets, less the book value of net assets transferred."
+     },
+     {
+      "call": "Nov 2025",
+      "point": "Capital structures are now shown standalone \u2014 auto net debt moved from net cash to ~Rs 20,000 Cr (all at JLR) while India PV is net cash, which is the one place management links the standalone balance sheet to funding its product cycle.",
+      "quote": "Domestic India business is net cash which gives a lot of flex to fund the rich product investment cycle that will be coming through in the years."
+     },
+     {
+      "call": "Feb 2026",
+      "point": "The demerger is now only a reporting and cost item: CV permanently out of segments, and a Rs 400 Cr stamp duty provision taken within Rs 1,600 Cr of quarterly exceptionals alongside Rs 800 Cr of cyber costs and a Rs 400 Cr wage-bill charge.",
+      "quote": "I would like to call out that this excludes exceptional for Rs. 1,600 Cr: Rs. 800 Cr at JLR - additional impact because of the cyber incident, Rs. 400 Cr one-time Wage bill impact for India business, and another Rs.400 Cr provision we have taken for the stamp duty impact."
+     },
+     {
+      "call": "Jun 2026",
+      "point": "FY26 PBT of Rs 2,500 Cr is stated before Rs 4,100 Cr of exceptionals that include the demerger stamp duty, and the two entities' dividends are presented together as evidence shareholders are better off post-split.",
+      "quote": "So this actually represents a total dividend of Rs. 7 in the year when the demerger was undertaken and an increase over the Rs. 6 that we have paid for the last two years."
+     },
+     {
+      "call": "Scheme",
+      "point": "The Scheme has two legs: the CV undertaking demerges out of Tata Motors into TML Commercial Vehicles Limited on a going-concern basis, and the PV subsidiary amalgamates into the parent so that the passenger business is consolidated in one listed company, with the subsidiary dissolved.",
+      "quote": "Amalgamation of TMLPV with TML with an objective of consolidating the Passenger Vehicles Business with TML and consequent dissolution of TMLPV without being wound up."
+     },
+     {
+      "call": "Scheme",
+      "point": "Shareholders received 1 CV share for every 1 share held, the demerger is Section 2(19AA)-compliant so not a transfer in their hands, and cost of acquisition splits 31.15% to the new Tata Motors (CV) and 68.85% to TMPV; separate boards and KMP were constituted for both entities, with CV shares listed from November 12, 2025.",
+      "quote": "the Commercial Vehicle and Passenger Vehicle businesses of the Company are housed in two separate entities"
+     }
+    ],
+    "what_management_expects": "Little quantified. Post-separation TMPV holds PV, EV and JLR only; segments recast to automotive plus others. India PV stays net cash (~Rs 5,000\u20137,000 Cr), giving 'flex' to fund its product cycle toward double-digit EBITDA; CV lists separately with its own board and dividend. Combined dividend rose to Rs 7 from Rs 6; net worth unchanged.",
+    "gaps": "Calls never state the strategic rationale, value-unlock or synergy numbers, who asked for the split, total transaction costs beyond stamp duty, or post-demerger capital-allocation, margin and valuation targets."
    }
   }
  },
@@ -15573,6 +15876,41 @@
      "source": "Presentation Aug 2026 \u2014 page 31 (Q1 FY27 segment table shows only JLR, Tata Passenger Vehicles and Others; no CV)"
     },
     "not_found": "CV PAT/PBT for all years; CV revenue and EBIT for FY2026 and for any quarter from Q1 FY27 onward (CV deconsolidated after the October 1, 2025 demerger)."
+   },
+   "2c9a1cfdc706d5c63cbdb047eac2d721": {
+    "segment_name": "Tata Commercial Vehicles (Commercial vehicle sub-segment of Automotive, 'Tata and other brand vehicle') \u2014 the demerged Commercial Vehicles Business / TML Commercial Vehicles",
+    "unit": "\u20b9 crore",
+    "measure_notes": "Operating profit = segment result as reported in segment reporting: 'Earnings before other income (excluding incentives), finance costs, foreign exchange gain/(loss) (net), exceptional items and tax' \u2014 i.e. segment EBIT, before depreciation is added back (so not EBITDA) and before interest/tax/exceptionals. Revenue reported is Total revenues (external plus inter-segment/intra-segment); external-only revenue was \u20b976,961.19 cr in FY2024 and \u20b974,049 cr in FY2025. No PAT is disclosed for the CV segment \u2014 segment disclosure stops at segment result, with tax only at consolidated level.",
+    "years": [
+     {
+      "fy": "FY2024",
+      "revenue": 78791.21,
+      "operating_profit": 6483.46,
+      "pat": null,
+      "source": "Annual Report 2024 \u2014 page 372"
+     },
+     {
+      "fy": "FY2025",
+      "revenue": 75055,
+      "operating_profit": 6814,
+      "pat": null,
+      "source": "Annual Report 2025 \u2014 page 408"
+     },
+     {
+      "fy": "FY2026",
+      "revenue": null,
+      "operating_profit": null,
+      "pat": null,
+      "source": null
+     }
+    ],
+    "latest_quarter": {
+     "period": null,
+     "revenue": null,
+     "operating_profit": null,
+     "source": null
+    },
+    "not_found": "No CV PAT/tax in any year; no FY2026 CV figures (segment dropped after Oct 1, 2025 demerger \u2014 AR2026 and all quarterly decks show only PV, JLR, Others); no CV quarterly data."
    }
   }
  },
@@ -19271,6 +19609,63 @@
     "purpose": "not stated",
     "stage": "converted",
     "quote": "Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 and our earlier disclosure dated 14.11.2025 wherein we informed you that the Company had allotted 2,04,08,220 convertible warrants to Promoter, members of the Promoter Group of the Company and other identified non-promoters by way of preferential issue on a private placement basis."
+   },
+   "9f44f3b62743b6cebd3180153e635253": {
+    "instrument": "warrants",
+    "securities": "2,04,08,220 convertible warrants",
+    "issue_price": "Rs. 245/- per warrant",
+    "total_amount": "not stated",
+    "pricing_basis": "not stated",
+    "allottees": [
+     {
+      "name": "Mrs. Sarita Devi Agrawal",
+      "category": "promoter group",
+      "securities": "41,63,300",
+      "amount": "not stated"
+     },
+     {
+      "name": "Mr. Dinesh Agrawal",
+      "category": "promoter",
+      "securities": "12,24,500",
+      "amount": "not stated"
+     },
+     {
+      "name": "Mr. Kumar Agrawal",
+      "category": "promoter group",
+      "securities": "22,04,200",
+      "amount": "not stated"
+     },
+     {
+      "name": "Hanuman Prasad Agrawal (HUF)",
+      "category": "promoter group",
+      "securities": "22,04,200",
+      "amount": "not stated"
+     },
+     {
+      "name": "Mrs. Meena Gupta",
+      "category": "non-promoter",
+      "securities": "4,08,150",
+      "amount": "not stated"
+     },
+     {
+      "name": "Shree Nakoda Pipe Impex Private Limited",
+      "category": "non-promoter",
+      "securities": "20,40,770",
+      "amount": "not stated"
+     },
+     {
+      "name": "Meridien Realtech Private Limited",
+      "category": "non-promoter",
+      "securities": "81,63,100",
+      "amount": "not stated"
+     }
+    ],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "not stated",
+    "upfront_paid": "Rs. 61.25 per warrant (25% of issue price) received as initial subscription amount at the time of allotment; balance 75% (Rs. 183.75 per warrant) payable on conversion; tenure not stated",
+    "purpose": "not stated",
+    "stage": "converted",
+    "quote": "Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 and our earlier disclosure dated 14.11.2025 wherein we informed you that the Company had allotted 2,04,08,220 convertible warrants to Promoter, members of the Promoter Group of the Company and other identified non-promoters by way of preferential issue on a private placement basis."
    }
   }
  },
@@ -19426,6 +19821,27 @@
     "purpose": "not stated",
     "stage": "converted",
     "quote": "The Company had, on October 12, 2026, allotted 3,25,18,900 convertible warrants (\"Warrants\"), on a preferential basis to EPDPL, a member of the Promoter Group, under Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 (\"ICDR Regulations\")."
+   },
+   "aa464517ed886012d0906fb409025dd2": {
+    "instrument": "warrants",
+    "securities": "3,25,18,900 unlisted convertible warrants (allotted October 12, 2026; all converted into 3,25,18,900 equity shares of face value INR 2/- each)",
+    "issue_price": "INR 111.51 per warrant/equity share (including premium of INR 109.51)",
+    "total_amount": "approximately \u20b9362.62 crore infused in aggregate on full conversion (\u20b991,99,57,500 + \u20b91,02,03,16,500 + \u20b977,93,62,904.25 as balance 75% consideration, plus 25% upfront)",
+    "pricing_basis": "Preferential basis under Chapter V of the SEBI ICDR Regulations, 2018; exercise price of INR 111.51 including premium of INR 109.51 on face value of INR 2/-. Discount/premium to market not stated.",
+    "allottees": [
+     {
+      "name": "Embassy Property Developments Private Limited (EPDPL)",
+      "category": "promoter group",
+      "securities": "3,25,18,900 warrants, converted into 3,25,18,900 equity shares (1,10,00,000 on October 23, 2026; 1,22,00,000 on October 27, 2026; 93,18,900 on October 30, 2026)",
+      "amount": "approximately \u20b9362.62 crore"
+     }
+    ],
+    "promoter_share_of_issue": "100% \u2014 \"Number of investors under the present allotment is 1 (one)\", being a member of the Promoter and Promoter Group",
+    "promoter_intent": "\"The Promoter Group has voluntarily committed to exercise and convert all the Warrants within a period not exceeding 6 (six) months from the date of allotment.\" All warrants were in fact converted well ahead of tenure (tenure ran to April 11, 2027), raising Promoter and Promoter Group holding from 42.68% to 43.99%.",
+    "upfront_paid": "25% of the Exercise Price paid upfront on allotment; balance 75% payable within 6 (six) months from the date of allotment, in one or more tranches (tenure to April 11, 2027) \u2014 fully paid and converted by October 30, 2026",
+    "purpose": "not stated",
+    "stage": "converted",
+    "quote": "Names of the investors \u2014 Embassy Property Developments Private Limited, a member of the Promoter and Promoter Group of the Company."
    }
   }
  },
@@ -20375,6 +20791,63 @@
     "purpose": "not stated",
     "stage": "converted",
     "quote": "The Company had allotted 2,04,08,220 convertible warrants to Promoter, members of the Promoter Group of the Company and other identified non-promoters by way of preferential issue on a private placement basis."
+   },
+   "9f44f3b62743b6cebd3180153e635253": {
+    "instrument": "warrants",
+    "securities": "2,04,08,220 convertible warrants",
+    "issue_price": "Rs. 245/- per warrant (convertible into equal number of equity shares of Re.1/- each at a premium of Rs. 244/- per share)",
+    "total_amount": "not stated",
+    "pricing_basis": "not stated",
+    "allottees": [
+     {
+      "name": "Mrs. Sarita Devi Agrawal",
+      "category": "promoter group",
+      "securities": "41,63,300",
+      "amount": "not stated"
+     },
+     {
+      "name": "Mr. Dinesh Agrawal",
+      "category": "promoter",
+      "securities": "12,24,500",
+      "amount": "not stated"
+     },
+     {
+      "name": "Mr. Kumar Agrawal",
+      "category": "promoter group",
+      "securities": "22,04,200",
+      "amount": "not stated"
+     },
+     {
+      "name": "Hanuman Prasad Agrawal (HUF)",
+      "category": "promoter group",
+      "securities": "22,04,200",
+      "amount": "not stated"
+     },
+     {
+      "name": "Mrs. Meena Gupta",
+      "category": "non-promoter",
+      "securities": "4,08,150",
+      "amount": "not stated"
+     },
+     {
+      "name": "Shree Nakoda Pipe Impex Private Limited",
+      "category": "non-promoter",
+      "securities": "20,40,770",
+      "amount": "not stated"
+     },
+     {
+      "name": "Meridien Realtech Private Limited",
+      "category": "non-promoter",
+      "securities": "81,63,100",
+      "amount": "not stated"
+     }
+    ],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "not stated",
+    "upfront_paid": "Rs. 61.25 per warrant (being 25% of the issue price) received as the initial subscription amount at the time of allotment; balance 75% (Rs. 183.75 per warrant) payable on conversion; tenure to convert not stated",
+    "purpose": "not stated",
+    "stage": "allotted",
+    "quote": "the Company had allotted 2,04,08,220 convertible warrants to Promoter, members of the Promoter Group of the Company and other identified non-promoters by way of preferential issue on a private placement basis."
    }
   }
  },
@@ -20558,6 +21031,20 @@
     "promoter_intent": "not stated",
     "upfront_paid": "not stated",
     "purpose": "not stated",
+    "stage": "not stated",
+    "quote": "not stated"
+   },
+   "d18931e4f2e0854ea5df5a18e31b76ae": {
+    "instrument": "other",
+    "securities": "not stated",
+    "issue_price": "not stated",
+    "total_amount": "not stated",
+    "pricing_basis": "not stated",
+    "allottees": [],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "not stated",
+    "upfront_paid": "not stated",
+    "purpose": "not stated - filings cover a 1:10 equity share sub-division and the promoter JSW Paints' debenture trust deed; no rights offering is disclosed",
     "stage": "not stated",
     "quote": "not stated"
    }
@@ -22164,6 +22651,99 @@
     "purpose": "\"To capitalise on upcoming opportunities, we are in the process of raising finances of INR 1,000 Crores through a preferential issue of warrants via private placement, including to the promoter group\"",
     "stage": "allotted",
     "quote": "In this regard, kindly note that the Allotment Committee of the Board of Directors, at its meeting held today, i.e., Monday, December 01, 2025, has, pursuant to the receipt of Rs. 2,49,99,99,994/- (Rupees Two Hundred Forty-Nine Crore Ninety-Nine Lakh Ninety-Nine Thousand Nine Hundred Ninety-Four Only), being 25% of the aggregate consideration payable towards subscription of the warrants by all allottees, considered and approved the allotment of 1,90,47,619 (One Crore Ninety Lakh Forty-Seven Thousand Six Hundred Nineteen) convertible warrants to persons belonging to the Promoter and Non-Promoter Category as detailed in \"Annexure-A1\"."
+   },
+   "ed46fa7d7723a8d93fdfe479bc709b44": {
+    "instrument": "warrants",
+    "securities": "1,90,47,619 (One Crore Ninety Lakh Forty-Seven Thousand Six Hundred Nineteen) convertible warrants",
+    "issue_price": "Rs. 525/- (Rupees Five Hundred and Twenty-Five Only) including premium of Rs. 515/- per warrant, face value Rs. 10/-",
+    "total_amount": "Rs. 9,99,99,99,975 [not exceeding Rs. 1,000 Crore (Rupees One Thousand Crore Only)]",
+    "pricing_basis": "not stated",
+    "allottees": [
+     {
+      "name": "Welspun Group Master Trust, through its Trustee Balkrishan Goenka",
+      "category": "promoter",
+      "securities": "71,23,809",
+      "amount": "Rs. 93,49,99,931 (25% upfront); pre-allotment holding 6,82,78,571 shares / 49.33%, post-allotment 7,54,02,380 / 47.89%"
+     },
+     {
+      "name": "Authum Investment and Infrastructure Limited",
+      "category": "non-promoter",
+      "securities": "57,14,286",
+      "amount": "Rs. 75,00,00,038 (25% upfront); pre 48,16,359 / 3.48%, post 1,05,30,645 / 6.69%"
+     },
+     {
+      "name": "Aryavardhan Trading LLP",
+      "category": "non-promoter",
+      "securities": "19,04,762",
+      "amount": "Rs. 25,00,00,013 (25% upfront); post 19,04,762 / 1.21%"
+     },
+     {
+      "name": "Garnet Shelters Private Limited",
+      "category": "non-promoter",
+      "securities": "9,52,381",
+      "amount": "Rs. 12,50,00,006 (25% upfront); post 9,52,381 / 0.60%"
+     },
+     {
+      "name": "Winro Commercial (India) Limited",
+      "category": "non-promoter",
+      "securities": "6,66,667",
+      "amount": "Rs. 8,75,00,044 (25% upfront); post 6,66,667 / 0.42%"
+     },
+     {
+      "name": "Aarti Bhatia",
+      "category": "non-promoter",
+      "securities": "6,66,667",
+      "amount": "Rs. 8,75,00,044 (25% upfront); post 6,66,667 / 0.42%"
+     },
+     {
+      "name": "Shri Tirupati Trading Co., Partnership Firm, through its Partner Ravi Goenka",
+      "category": "non-promoter",
+      "securities": "5,71,429",
+      "amount": "Rs. 7,50,00,056 (25% upfront); post 5,71,429 / 0.36%"
+     },
+     {
+      "name": "Nirmal Kumar Gangwal",
+      "category": "non-promoter",
+      "securities": "3,80,952",
+      "amount": "Rs. 4,99,99,950 (25% upfront); post 3,80,952 / 0.24%"
+     },
+     {
+      "name": "Tarun Jain",
+      "category": "non-promoter",
+      "securities": "2,85,714",
+      "amount": "Rs. 3,74,99,963 (25% upfront); pre 25,000 / 0.02%, post 3,10,714 / 0.20%"
+     },
+     {
+      "name": "Geecee Ventures Limited",
+      "category": "non-promoter",
+      "securities": "2,85,714",
+      "amount": "Rs. 3,74,99,963 (25% upfront); post 2,85,714 / 0.18%"
+     },
+     {
+      "name": "Avira Investment Private Limited",
+      "category": "non-promoter",
+      "securities": "2,85,714",
+      "amount": "Rs. 3,74,99,963 (25% upfront); pre 58,403 / 0.04%, post 3,44,117 / 0.22%"
+     },
+     {
+      "name": "Vijay Mohanlal Parekh",
+      "category": "non-promoter",
+      "securities": "1,04,762",
+      "amount": "Rs. 1,37,50,013 (25% upfront); post 1,04,762 / 0.07%"
+     },
+     {
+      "name": "Paresh Mohanlal Parekh",
+      "category": "non-promoter",
+      "securities": "1,04,762",
+      "amount": "Rs. 1,37,50,013 (25% upfront); post 1,04,762 / 0.07%"
+     }
+    ],
+    "promoter_share_of_issue": "not stated as a percentage; one promoter allottee (Welspun Group Master Trust) takes 71,23,809 of 1,90,47,619 warrants, i.e. ~37.4% of the issue, Rs. 93,49,99,931 of the Rs. 2,49,99,99,994 upfront received",
+    "promoter_intent": "not stated",
+    "upfront_paid": "25% of the aggregate consideration paid upfront (Rs. 2,49,99,99,994 received being 25% of the aggregate consideration payable by all allottees); convertible into 1 equity share each at any time on or before expiry of 18 months from allotment i.e. December 01, 2025, in one or more tranches; warrants unconverted after 18 months shall lapse and amounts paid stand forfeited",
+    "purpose": "\"To capitalise on upcoming opportunities, we are in the process of raising finances of INR 1,000 Crores through a preferential issue of warrants via private placement, including to the promoter group\"",
+    "stage": "allotted",
+    "quote": "In this regard, kindly note that the Allotment Committee of the Board of Directors, at its meeting held today, i.e., Monday, December 01, 2025, has, pursuant to the receipt of Rs. 2,49,99,99,994/- (Rupees Two Hundred Forty-Nine Crore Ninety-Nine Lakh Ninety-Nine Thousand Nine Hundred Ninety-Four Only), being 25% of the aggregate consideration payable towards subscription of the warrants by all allottees, considered and approved the allotment of 1,90,47,619 (One Crore Ninety Lakh Forty-Seven Thousand Six Hundred Nineteen) convertible warrants to persons belonging to the Promoter and Non-Promoter Category as detailed in \"Annexure-A1\"."
    }
   }
  },
@@ -23197,6 +23777,27 @@
     "purpose": "not stated",
     "stage": "converted",
     "quote": "The Company had, on October 12, 2026, allotted 3,25,18,900 convertible warrants (\u201cWarrants\u201d), on a preferential basis to EPDPL, a member of the Promoter Group, under Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 (\u201cICDR Regulations\u201d)."
+   },
+   "aa464517ed886012d0906fb409025dd2": {
+    "instrument": "warrants",
+    "securities": "3,25,18,900",
+    "issue_price": "INR 111.51 (including the premium of INR 109.51) per Equity Share",
+    "total_amount": "approximately \u20b9362.62 crore",
+    "pricing_basis": "not stated",
+    "allottees": [
+     {
+      "name": "Embassy Property Developments Private Limited (EPDPL)",
+      "category": "promoter group",
+      "securities": "3,25,18,900",
+      "amount": "approximately \u20b9362.62 crore (upfront 25% + balance consideration of INR 91,99,57,500 on 23-Oct-2026, INR 1,02,03,16,500 on 27-Oct-2026 and INR 77,93,62,904.25 on 30-Oct-2026)"
+     }
+    ],
+    "promoter_share_of_issue": "100% \u2014 \"Number of investors under the present allotment is 1 (one)\", being a member of the Promoter and Promoter Group",
+    "promoter_intent": "not a rights issue; preferential allotment \u2014 \"The Promoter Group has voluntarily committed to exercise and convert all the Warrants within a period not exceeding 6 (six) months from the date of allotment.\"",
+    "upfront_paid": "25% of the Exercise Price paid upfront on allotment (12-Oct-2026); balance 75% payable within 6 months, convertible on or before April 11, 2027 \u2014 all Warrants in fact converted by 30-Oct-2026, well ahead of tenure",
+    "purpose": "not stated",
+    "stage": "converted",
+    "quote": "The Company had, on October 12, 2026, allotted 3,25,18,900 convertible warrants (\u201cWarrants\u201d), on a preferential basis to EPDPL, a member of the Promoter Group, under Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 (\u201cICDR Regulations\u201d)."
    }
   }
  },
@@ -23651,6 +24252,20 @@
     "quote": "not stated"
    },
    "80d7a86f57a29c66cbef383bca47c202": {
+    "instrument": "other",
+    "securities": "not stated",
+    "issue_price": "not stated",
+    "total_amount": "not stated",
+    "pricing_basis": "not stated",
+    "allottees": [],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "not stated",
+    "upfront_paid": "not stated",
+    "purpose": "not stated",
+    "stage": "not stated",
+    "quote": "not stated"
+   },
+   "8fd85865eb0b51121f01d72cde9ba868": {
     "instrument": "other",
     "securities": "not stated",
     "issue_price": "not stated",
@@ -24387,6 +25002,27 @@
     "purpose": "To strengthen PPSL's net worth, pay for acquisition of offline merchant payment business, fund working capital needs, and support its continued leadership in merchant payments.",
     "stage": "board approved",
     "quote": "Additional investments by the Company by way of subscription to the Right Issue of equity shares of its wholly owned subsidiary, namely Paytm Payments Services Limited (\"PPSL\"), for an amount upto INR 2,250 Crores (Indian Rupees Two Thousand two Hundred and Fifty Crores only), subject to necessary approvals, as applicable."
+   },
+   "e3e90e4b0252348333338f172fe5a57d": {
+    "instrument": "rights equity shares",
+    "securities": "not stated",
+    "issue_price": "not stated",
+    "total_amount": "upto INR 2,250 Crores (Indian Rupees Two Thousand two Hundred and Fifty Crores only)",
+    "pricing_basis": "not stated",
+    "allottees": [
+     {
+      "name": "One 97 Communications Limited (the Company), subscribing to the rights issue of its wholly owned subsidiary Paytm Payments Services Limited (PPSL)",
+      "category": "promoter",
+      "securities": "not stated",
+      "amount": "upto INR 2,250 Crores"
+     }
+    ],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "\"Additional investments by the Company by way of subscription to the Right Issue of equity shares of its wholly owned subsidiary, namely Paytm Payments Services Limited (\u201cPPSL\u201d), for an amount upto INR 2,250 Crores\"",
+    "upfront_paid": "not stated",
+    "purpose": "To strengthen PPSL's net worth, pay for acquisition of offline merchant payment business, fund working capital needs, and support its continued leadership in merchant payments business.",
+    "stage": "board approved",
+    "quote": "Additional investments by the Company by way of subscription to the Right Issue of  equity shares of its wholly owned subsidiary, namely Paytm Payments Services Limited (\u201cPPSL\u201d), for an amount upto INR 2,250 Crores (Indian Rupees Two Thousand two Hundred and Fifty Crores only), subject to necessary approvals, as applicable."
    }
   }
  },
@@ -25145,6 +25781,27 @@
     "promoter_intent": "promoters will not subscribe: 'in terms of Chapter VI of SEBI ICDR Regulations, the promoters, member of the promoter group, directors and key managerial personnel of the Company will not subscribe to the QIP'",
     "upfront_paid": "not stated",
     "purpose": "not stated; proceeds utilisation left to Board's absolute discretion",
+    "stage": "board approved",
+    "quote": "The allotment of Securities shall only be made to qualified institutional buyers as defined under SEBI ICDR Regulations (\u201cQIBs\u201d);"
+   },
+   "b4e7f200ba4e5fdf50b5c64d76842306": {
+    "instrument": "other",
+    "securities": "not stated",
+    "issue_price": "not stated",
+    "total_amount": "\u20b9,1500 crore (Rupees One Thousand Five Hundred crore only)",
+    "pricing_basis": "For a QIP: \"at such price which is not less than the price determined in accordance with Regulation 176(1) under Chapter VI of the SEBI ICDR Regulations (\u201cQIP Floor Price\u201d)\", with Board discretion to issue \"at a discount of not more than five percent\" to the QIP Floor Price; generally \"at a discount or premium to market price or prices, as permitted under applicable laws\"",
+    "allottees": [
+     {
+      "name": "qualified institutional buyers (QIBs) as defined under SEBI ICDR Regulations; more broadly \"foreign/resident investors (whether institutions, incorporated bodies, mutual funds, individuals or otherwise)\" - no named allottee",
+      "category": "institution",
+      "securities": "not stated",
+      "amount": "not stated"
+     }
+    ],
+    "promoter_share_of_issue": "not stated; for a QIP the notice bars promoters - \"No allotment shall be made, either directly or indirectly, to any QIB who is a promoter, or any person related to the promoters of the Company\"",
+    "promoter_intent": "not stated (this is an enabling fund-raising resolution, not a rights issue with promoter subscription intent; the only promoter reference is the QIP bar on allotment to promoters or persons related to them)",
+    "upfront_paid": "not stated (warrants are among the permitted instruments; tenure of convertible/exchangeable eligible securities under a QIP \"shall not exceed sixty months from the date of allotment\")",
+    "purpose": "not stated - resolution only authorises \"raising of funds through issuance of securities\"; Board given discretion over \"utilisation of the issue proceeds\"",
     "stage": "board approved",
     "quote": "The allotment of Securities shall only be made to qualified institutional buyers as defined under SEBI ICDR Regulations (\u201cQIBs\u201d);"
    }
@@ -31751,24 +32408,6 @@
  },
  "GPIL": {
   "stamps": {
-   "6e3b124e6181fd8fc8986d3c9f240f23": {
-    "what_is_spun": "No demerger or subsidiary listing; only a partial divestment of GPIL's stake in associate Jammu Pigments Limited",
-    "demerged_business_names": [
-     "Jammu Pigments Limited",
-     "JPL"
-    ],
-    "reason": "not stated",
-    "reason_class": "not stated",
-    "insiders": "Buyers are Promoters of Jammu Pigments Limited and/or their relatives or affiliates; buyer does not belong to GPIL's promoter/promoter group; no new entity, no insider stake stated",
-    "hidden_value": "JPL contributed Rs.1536.21 Lakhs profit/income (1.92%) and Rs.27381.90 Lakhs net worth (4.68%) on a consolidated basis in FY ended 31.03.2026; 16,75,000 shares sold at Rs.298.45 fair value aggregating Rs.49.99 Crores",
-    "selling_pressure": "unlikely",
-    "selling_pressure_why": "Private transfer of 16,75,000 shares to JPL promoters; no shares distributed to GPIL shareholders and no new listing",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "not stated; the 24.07.2026 filing gives only 'The expected date of completion of sale/ disposal ... On or before 30.08.2026'",
-    "read_next": "The definitive agreement with the Proposed Buyer and the Independent Valuer's fair value report for JPL",
-    "quote": "The Company shall enter into a definitive agreement with the Proposed Buyer."
-   },
    "5b6af5898dca7eb59bfab661f5016e73": {
     "what_is_spun": "Nothing separated; the scheme was an amalgamation of subsidiary Godawari Energy Limited into GPIL, now withdrawn",
     "demerged_business_names": [
@@ -31820,6 +32459,24 @@
     "listing_timeline": "not stated; the 24.07.2026 filing gives only expected completion of sale/disposal 'On or before 30.08.2026'",
     "read_next": "The definitive agreement with the proposed buyer and the Independent Valuer's fair value determination for the 16,75,000 JPL shares.",
     "quote": "The Company shall enter into a definitive agreement with the Proposed Buyer."
+   },
+   "f9570a4d117bd644e9344ae6a26521a1": {
+    "what_is_spun": "Partial divestment of GPIL's minority stake in associate Jammu Pigments Limited (16,75,000 equity shares)",
+    "demerged_business_names": [
+     "Jammu Pigments Limited",
+     "JPL"
+    ],
+    "reason": "not stated",
+    "reason_class": "not stated",
+    "insiders": "Buyers are Promoters of Jammu Pigments Limited and/or their relatives or affiliates; buyer does not belong to GPIL's promoter/promoter group; not a related party transaction.",
+    "hidden_value": "JPL, an associate, contributed Rs.1536.21 Lakhs profit/income (1.92%) and Rs.27381.90 Lakhs (4.68%) of consolidated net worth in FY ended 31.03.2026; fair value Rs.298.45 per share values the retained 35.36% holding.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "Cash sale of an unlisted associate stake to its promoters; no shares distributed to GPIL shareholders, no index event.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated; documents state only expected completion of sale/disposal 'On or before 30.08.2026' (filing dated 24.07.2026)",
+    "read_next": "The definitive agreement with the Proposed Buyer and the Independent Valuer's fair value, plus completion confirmation by 30.08.2026.",
+    "quote": "Subsequent upon conclusion of this transaction, the holding of the company in JPL shall be reduced from 85,69,762 (43.96%) to 68,94,762 (35.36%)."
    }
   }
  },
@@ -35766,27 +36423,6 @@
  },
  "JSWDULUX": {
   "stamps": {
-   "def4c5a457253124cfae2fcb7711e3c4": {
-    "what_is_spun": "Powder Coatings business division and the International Research Center (IRC) division, separated by slump sale on 1 July 2025",
-    "demerged_business_names": [
-     "Powder Coatings business division",
-     "Powder Coatings",
-     "International Research Center division",
-     "International Research Centre (IRC)",
-     "AkzoNobel Powder Coatings India private limited"
-    ],
-    "reason": "Not stated beyond acceptance of AkzoNobel NV's binding offer (February 2025) for the Powder Coatings business and International Research Centre, following AkzoNobel NV's portfolio review; shareholders approved by postal ballot.",
-    "reason_class": "not stated",
-    "insiders": "No insider stake disclosed in the divested divisions (cash slump sale to unlisted AkzoNobel entity). In the listed company, promoter JSW Paints holds 61.20%; retention incentive \u20b9138 million.",
-    "hidden_value": "Slump sale fetched pre-tax profit of INR 18,925 million (tax INR 2,704 million) on a business the parent retained; remaining listed entity is pure paints with \u20b9200\u2013225 crore free cash, while promoter JSW Paints carries up to \u20b93,300 crore and \u20b92,950 crore of NCDs.",
-    "selling_pressure": "unlikely",
-    "selling_pressure_why": "No shares were distributed to shareholders; the divisions were sold for cash to an unlisted buyer, so no new listed security exists.",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "not stated \u2014 no listing of the separated business; the slump sales 'were concluded on 1st of July 2025' (said 7 November 2025)",
-    "read_next": "JSW Paints' 4 November 2026 debenture trust deed covenants restricting JDL's debt, disposals and restructuring; and use of slump-sale proceeds.",
-    "quote": "Both these slump sale transactions were undertaken through separate business transfer agreements and were concluded on 1st of July 2025."
-   },
    "c8bf4ac9113123f7fbf8bebd0b1f586c": {
     "what_is_spun": "Powder Coatings business and the Bangalore International Research Centre (R&D) lab, sold on slump sale to parent's new Indian subsidiary",
     "demerged_business_names": [
@@ -35855,6 +36491,26 @@
     "listing_timeline": "not stated \u2014 the divisions were transferred by slump sale to an unlisted company; the November 2025 call said both \"transactions were undertaken through separate business transfer agreements and were concluded on 1st of July 2025\"",
     "read_next": "FY2025-26 annual report: how the INR 21,922 million slump-sale proceeds and restated ex-Powder-Coatings base were deployed",
     "quote": "Profit from slump sale of Powder Coatings business division and the International Research Center division (net of directly attributable expenses) amounting to INR 18,925 million."
+   },
+   "179281c156714d5579048aea76b93fd8": {
+    "what_is_spun": "Powder Coatings business division and International Research Center division, carved out by slump sale to AkzoNobel's unlisted India entity",
+    "demerged_business_names": [
+     "Powder Coatings business division",
+     "International Research Center division",
+     "IRC",
+     "AkzoNobel Powder Coatings India Private Limited"
+    ],
+    "reason": "Documents cite only AkzoNobel N.V.'s portfolio review: the Board accepted a binding offer from Akzo Nobel N.V. for purchase of the Powder Coatings and International Research Center divisions; no further rationale stated.",
+    "reason_class": "regulatory_strategic",
+    "insiders": "No stake stated in the divested business; it went to the ex-parent. In the listed parent, JSW Paints holds 27,87,17,230 shares, 61.20% fully diluted; Parth Jindal is Chairman.",
+    "hidden_value": "Slump sale yielded INR 18,925 mn exceptional profit and Rs 21,922 mn proceeds, plus Rs 11,520 mn Dulux IPR purchase ending ~Rs 60-65 crore decorative royalty; residual listed co is a single-segment Paints business with Rs 200-225 crore free cash.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "Cash slump sale to an unlisted ex-parent entity; no shares distributed to shareholders, so no new listed stock to be dumped.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated; the divested divisions were not listed \u2014 the slump sales 'were concluded on 1st of July 2025' (Nov 7, 2025 earnings call)",
+    "read_next": "The postal-ballot/business transfer agreement disclosures for the slump sale, and FY26 annual report use of Rs 21,922 mn proceeds.",
+    "quote": "Both these slump sale transactions were undertaken through separate business transfer agreements and were concluded on 1st of July 2025."
    }
   }
  },
@@ -38120,6 +38776,41 @@
      "source": "Presentation Aug 2026 \u2014 page 14"
     },
     "not_found": "FY2024 renewable segment revenue/result (segment split began FY2026); segment-level PAT, tax, interest, EBITDA and NIRL standalone financials are not disclosed on these pages."
+   },
+   "602935a393d128f58e0730dbf943000d": {
+    "segment_name": "Power - Renewable (quarterly statements label it \"Power - Renewables\"); the entity being separated is NLC India Renewables Limited (NIRL), a wholly owned subsidiary incorporated 14.06.2023 to take over existing operational renewable assets (1,420 MW, NBV \u20b95,107 crore as on 31.03.2024) under Asset Monetization",
+    "unit": "\u20b9 crore",
+    "measure_notes": "Revenue = 'External Sales' for the Power - Renewable segment (consolidated Ind AS 108 segment note); the segment has no inter-segment sales, so External Sales = Total Revenue. Operating_profit = 'Segment Result', defined in the quarterly statement as Profit(+)/Loss(-) before tax and interest from each segment (i.e. segment EBIT before finance cost, other income and unallocable corporate expenses) \u2014 it is NOT EBITDA and NOT PBT. The 'Operating Profit' line in the segment note (FY2026 \u20b93,747.90 cr; FY2025 \u20b93,732.56 cr) is group-level after other income and unallocable expenses, not segment-level. No segment-level PAT is disclosed.",
+    "years": [
+     {
+      "fy": "FY2024",
+      "revenue": null,
+      "operating_profit": null,
+      "pat": null,
+      "source": "Annual Report 2024 \u2014 page 232 (only two reportable segments, Mining and Power Generation; renewables not reported separately); Annual Report 2025 \u2014 page 249"
+     },
+     {
+      "fy": "FY2025",
+      "revenue": 701.61,
+      "operating_profit": 379.53,
+      "pat": null,
+      "source": "Annual Report 2026 \u2014 page 260 (comparative column, year ended March 31, 2025)"
+     },
+     {
+      "fy": "FY2026",
+      "revenue": 726.06,
+      "operating_profit": 322.47,
+      "pat": null,
+      "source": "Annual Report 2026 \u2014 page 260 (also Presentation Aug 2026 \u2014 page 14, year ended 31-03-2026)"
+     }
+    ],
+    "latest_quarter": {
+     "period": "Q1 FY27 (quarter ended 30-06-2026)",
+     "revenue": 220.01,
+     "operating_profit": 104.47,
+     "source": "Presentation Aug 2026 \u2014 page 14"
+    },
+    "not_found": "No segment PAT, EBITDA, depreciation-inclusive profit or tax for renewables in any year; FY2024 renewable revenue/result absent (segment split began FY2026); no standalone NIRL financials."
    }
   }
  },
@@ -52935,24 +53626,6 @@
  },
  "PAYTM": {
   "stamps": {
-   "45b19dcae1861e573d2630fd6fdf03f9": {
-    "what_is_spun": "Paytm Payments Bank Limited, an associate company, separating from the Company via voluntary winding up",
-    "demerged_business_names": [
-     "Paytm Payments Bank Limited",
-     "PPBL"
-    ],
-    "reason": "In view of cancellation of its banking licence by the RBI w.e.f. April 24, 2026, PPBL's Board and Shareholders approved resolutions to enable winding-up, as instructed by the RBI, or voluntarily with RBI permission.",
-    "reason_class": "regulatory_strategic",
-    "insiders": "Not stated for any new entity; filings state One 97 Communications Limited 'is a professionally managed company and does not have any identified promoter.'",
-    "hidden_value": "PPBL contributed Nil turnover, revenue, income and net worth last financial year, and the Company has no exposure or material business arrangements with it \u2014 so the separation removes a regulatory overhang without giving up earnings; all Paytm services continue uninterrupted.",
-    "selling_pressure": "unlikely",
-    "selling_pressure_why": "No shares distributed or listed \u2014 PPBL is being wound up and contributed nil revenue and net worth; no index exclusion arises.",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "not stated",
-    "listing_timeline": "not stated; the April 25, 2026 filing says only that the expected date of completion is 'Not determinable at this stage, as the winding-up process is subject to applicable regulatory and legal proceedings.'",
-    "read_next": "The winding-up order of the appropriate court or authority, which determines any consideration receivable by the Company.",
-    "quote": "The Company wishes to assure its shareholders and investors that the winding-up of PPBL and the consequential cessation of the associate relationship are not expected to have any material impact on the business, operations, or financial condition of the Company."
-   },
    "4c8eaefde602085306ba8f01d4595847": {
     "what_is_spun": "Entertainment ticketing business \u2014 movies, sports and events ticketing \u2014 carved into two subsidiaries and sold to Zomato Limited",
     "demerged_business_names": [
@@ -53025,6 +53698,24 @@
     "listing_timeline": "not stated \u2014 PPSL is a wholly owned subsidiary and no listing is mentioned; the transfer 'shall be effective from midnight of November 30, 2025' (filing dated November 28, 2025)",
     "read_next": "PPSL's final RBI certificate of authorisation and the actual lump-sum consideration versus the INR 960 crore March 31, 2025 book value",
     "quote": "The proposed transfer will result in consolidation of the group's Online and Offline Merchant Payments Businesses under PPSL which has in-principle approval from RBI to carry out PA-O (Payment Aggregator Online) business."
+   },
+   "c27a86cfb9061f36206d6d011e774424": {
+    "what_is_spun": "Paytm Payments Bank Limited, an associate company, being wound up and ceasing to be an associate",
+    "demerged_business_names": [
+     "Paytm Payments Bank Limited",
+     "PPBL"
+    ],
+    "reason": "RBI cancelled PPBL's banking licence w.e.f. April 24, 2026; its Board and Shareholders approved resolutions to enable winding-up as instructed by RBI, or voluntarily with RBI permission.",
+    "reason_class": "regulatory_strategic",
+    "insiders": "Not stated for any new entity; filings state One 97 Communications Limited \"is a professionally managed company and does not have any identified promoter\"; buyers/promoter-group involvement \"Not Applicable\".",
+    "hidden_value": "Separation reveals PPBL was already worthless to the parent: it contributed \"Nil\" turnover, revenue, income and net worth last financial year, the Company has no exposure or material business arrangements, and all Paytm services continue uninterrupted.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "No shares distributed to shareholders; PPBL contributed Nil revenue and net worth; no new listed entity created.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "not stated",
+    "listing_timeline": "not stated; the April 25, 2026 filing says the expected date of completion is \"Not determinable at this stage, as the winding-up process is subject to applicable regulatory and legal proceedings.\"",
+    "read_next": "The winding-up order of the appropriate court or authority, which determines any consideration receivable by the Company.",
+    "quote": "Upon the winding-up order becoming effective, PPBL shall cease to be an associate company of the Company within the meaning of the Companies Act, 2013 and the applicable provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015."
    }
   }
  },
@@ -57291,27 +57982,6 @@
  },
  "WELENT": {
   "stamps": {
-   "e4c2a4b4bc00bb4168afe9e0c05e8c37": {
-    "what_is_spun": "Welspun Aunta-Simaria Project Private Limited, the NHAI Aunta-Simaria Ganga bridge HAM concessionaire in Bihar \u2014 sold for cash, not demerged",
-    "demerged_business_names": [
-     "Welspun Aunta-Simaria Project Private Limited",
-     "WASPPL",
-     "Aunta Simaria Ganga River Bridge Highway Project",
-     "Aunta\u2013Simaria Ganga Bridge Project",
-     "Aunta-Simaria Road project"
-    ],
-    "reason": "\"asset-light strategy of developing high-quality infrastructure and monetising them at an appropriate stage\"; proceeds to recycle capital into transportation, water, wastewater and tunnelling growth while keeping balance-sheet flexibility",
-    "reason_class": "value_unlocking",
-    "insiders": "Not stated for the sold entity; buyer BIIF Infrastructure II \"does not belong to the promoter/ promoter group\". In parent, Welspun Group Master Trust held 49.33% and took 71,23,809 warrants at Rs. 525.",
-    "hidden_value": "Rs. ~1,000 crore enterprise value for a subsidiary contributing only Rs. 196.77 crore income (5.44%) and Rs. 55.49 crore net worth (1.90%); ~Rs. 800 crore debt expected to move off balance sheet; management expects better than 1.5x equity invested.",
-    "selling_pressure": "unlikely",
-    "selling_pressure_why": "Cash sale to a SEBI-registered fund; no shares distributed to shareholders, no new listing, no index exclusion event",
-    "parent_or_spin": "parent",
-    "option_pricing_date": "December 01, 2025 \u2014 allotment of 1,90,47,619 convertible warrants at Rs. 525 per share (promoter and non-promoter)",
-    "listing_timeline": "not stated \u2014 no listing of a demerged entity contemplated; the July 29, 2026 filing says the sale \"is expected to be completed on or before September 30, 2026\", and on May 15, 2026 management targeted monetisation \"within H1 FY27\"",
-    "read_next": "Completion intimation for WASPPL \u2014 NHAI/lender approvals and final EV adjustments for carry interest, net current assets, pass-through receivables",
-    "quote": "The proposed divestment reflects our asset -light strategy of developing high- quality infrastructure and monetising them at an appropriate stage."
-   },
    "1b1f4cd4ad160c0058b3475d6f5ef2cf": {
     "what_is_spun": "Entire stake in two non-operative wholly owned subsidiaries, Kim Mandvi Corridor and Buildtech Projects & Infra",
     "demerged_business_names": [
@@ -57374,6 +58044,28 @@
     "listing_timeline": "not stated \u2014 no listing contemplated; the July 29, 2026 filing says the transaction 'is expected to be completed on or before September 30, 2026 or any other date as may be mutually agreed between the parties'",
     "read_next": "NHAI and lender approvals plus the completion intimation for WASPPL, and final consideration after carry interest and net-current-asset adjustments.",
     "quote": "The proposed divestment reflects our asset -light strategy of developing high- quality infrastructure and monetising them at an appropriate stage."
+   },
+   "f8a50bbf56b2dfa109da995fab93de87": {
+    "what_is_spun": "Welspun Aunta-Simaria Project Private Limited, the HAM concessionaire for the Aunta-Simaria Ganga River Bridge highway in Bihar",
+    "demerged_business_names": [
+     "Welspun Aunta-Simaria Project Private Limited",
+     "WASPPL",
+     "Aunta Simaria Ganga River Bridge Highway Project",
+     "Aunta\u2013Simaria Ganga Bridge Project",
+     "Aunta-Simaria Road Project",
+     "Transportation segment"
+    ],
+    "reason": "Asset-light strategy of developing high-quality infrastructure and monetising it at an appropriate stage, recycling capital into transportation, water, wastewater and tunnelling while keeping balance-sheet strength and flexibility.",
+    "reason_class": "value_unlocking",
+    "insiders": "Buyer BIIF Infrastructure II does not belong to promoter/promoter group; no promoter stake stated in it. Promoter Welspun Group Master Trust instead subscribed Rs 374 crore of parent warrants at Rs 525.",
+    "hidden_value": "Rs ~1,000 crore enterprise value for an asset giving only Rs 196.77 crore (5.44%) of consolidated income and Rs 55.49 crore (1.90%) of net worth; ~Rs 800 crore debt moves off balance sheet; management expects better than 1.5x equity invested.",
+    "selling_pressure": "unlikely",
+    "selling_pressure_why": "Cash sale of a subsidiary to a private AIF-backed buyer; no shares distributed to shareholders, no new listing, no index change.",
+    "parent_or_spin": "parent",
+    "option_pricing_date": "October 08, 2025 \u2014 \"Relevant Date\" fixed for the floor price of the convertible warrants (promoter allotment at Rs 525); warrants allotted December 01, 2025",
+    "listing_timeline": "not stated \u2014 no listing of WASPPL is contemplated; it is a share sale after which \"WASPPL shall cease to be a subsidiary of the Company\", \"expected to be completed on or before September 30, 2026\" (July 29, 2026), with management on May 15, 2026 saying monetisation is targeted \"within H1 FY27\"",
+    "read_next": "Any Reg 30 intimation on NHAI/lender approval and completion of the WASPPL sale, with final adjusted consideration.",
+    "quote": "The proposed divestment reflects our asset-light strategy of developing high-quality infrastructure and monetising them at an appropriate stage."
    }
   }
  },
@@ -59307,6 +59999,20 @@
     "purpose": "not stated",
     "stage": "not stated",
     "quote": "not stated"
+   },
+   "8fd85865eb0b51121f01d72cde9ba868": {
+    "instrument": "other",
+    "securities": "not stated",
+    "issue_price": "not stated",
+    "total_amount": "not stated",
+    "pricing_basis": "not stated",
+    "allottees": [],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "not stated",
+    "upfront_paid": "not stated",
+    "purpose": "not stated",
+    "stage": "not stated",
+    "quote": "not stated"
    }
   }
  },
@@ -60053,6 +60759,20 @@
     "quote": "not stated"
    },
    "d8dbb90497ecf792ca35aa71691e273e": {
+    "instrument": "not stated",
+    "securities": "not stated",
+    "issue_price": "not stated",
+    "total_amount": "not stated",
+    "pricing_basis": "not stated",
+    "allottees": [],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "not stated",
+    "upfront_paid": "not stated",
+    "purpose": "not stated",
+    "stage": "not stated",
+    "quote": "not stated"
+   },
+   "b647e41658a3b4073356b9f3ca18c355": {
     "instrument": "not stated",
     "securities": "not stated",
     "issue_price": "not stated",
@@ -64585,6 +65305,20 @@
     "promoter_intent": "not stated",
     "upfront_paid": "not stated",
     "purpose": "not stated",
+    "stage": "not stated",
+    "quote": "not stated"
+   },
+   "d18931e4f2e0854ea5df5a18e31b76ae": {
+    "instrument": "equity shares",
+    "securities": "1,26,69,00,000",
+    "issue_price": "not stated",
+    "total_amount": "not stated",
+    "pricing_basis": "not stated",
+    "allottees": [],
+    "promoter_share_of_issue": "not stated",
+    "promoter_intent": "not stated",
+    "upfront_paid": "not stated",
+    "purpose": "not stated; the 1,26,69,00,000 equity shares of Re. 1/- each are the Company's authorised capital after a 1:10 sub-division/split, not an issue of securities to any allottee",
     "stage": "not stated",
     "quote": "not stated"
    }
@@ -76057,6 +76791,19 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "Subsequent upon conclusion of this transacti.on, the holding of the company in JPL shall be reduced from 85,69,762 (43.96%) to 68,94,762 (35.36%)."
+   },
+   "fcfb1c3cb89a5cc82d855e7f7fa65f9c": {
+    "what_it_is": "sale_or_transfer",
+    "subsidiary": "Jammu Pigments Limited",
+    "other_subsidiaries": [],
+    "relation": "associate",
+    "parent_stake_before": "43.96%",
+    "parent_stake_after": "35.36%",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "Subsequent upon conclusion of this transaction, the holding of the company in JPL shall be reduced from 85,69,762 (43.96%) to 68,94,762 (35.36%)."
    }
   }
  },
@@ -77867,6 +78614,1161 @@
     "exchange": "not stated",
     "timeline": "not stated",
     "quote": "A copy of Notice convening the 44th Annual General Meeting on Thursday, 18th September, 2025 at 11: 30 A.M. through Video Conferencing (\u201cVC\u201d) / Other Audio Visual Means (\u201cOAVM\u201d) is also attached herewith."
+   }
+  }
+ },
+ "REFEX::resolution": {
+  "stamps": {
+   "b530b96253fca05ee492bd3f5a66a2f9": {
+    "what_it_is": "demerger_in_progress",
+    "business": "Green Mobility Business Undertaking of RIL (EV/cleaner-fuel passenger transport and mobility services, vested in RIL on merger of RGML)",
+    "role": "demerged company",
+    "resulting_company": "Refex Mobility Limited",
+    "stage": "shareholder meeting",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "Q2 FY27 press release (28 October 2026): \"NCLT hearings are underway for approval to convene stakeholder meetings under the proposed demerger scheme, with the next hearing scheduled for 28 October 2026\"; Q4 FY26 call (27 May 2026): \"if we put a time line, another 60 to 75 days, this should get completed\"",
+    "quote": "Demerger of the Green Mobility Business Undertaking of RIL (vested in RIL pursuant to amalgamation of RGML with RIL) into Refex Mobility Limited ('Resulting Company' or 'RML');"
+   }
+  }
+ },
+ "INOXWIND::resolution": {
+  "stamps": {
+   "43009e290c04e915b0b01704e5197456": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Power Evacuation (substation) business of subsidiary Inox Green Energy Services Limited, demerged into Inox Renewable Solutions Limited",
+    "role": "not stated",
+    "resulting_company": "Inox Renewable Solutions Limited",
+    "stage": "effective",
+    "completed_date": "2026-05-04",
+    "listing_sought": "yes",
+    "timeline": "Feb 13, 2026 call: \"Post receiving of the NCLT approval, it is 1 to 1-1/2 month process for the listing of the company. So yes, in all likelihood, if everything goes well, within 3-odd months, 2-3 months, it should get on the process\"",
+    "quote": "The lnox Green Energy Services Limited (Demerged Company ) at its meeting held on 13th November 2024 has, subject to necessary approvals/consents/sanctions, considered and approved demerger of Power Evacuation business under a scheme of arrangement amongst Demerged Company and lnox Renewable Solutions Limited (Earlier known as Resco Global Wind Services Limited) (Resulting Company) and their respective shareholders and creditors under sections 230-232 and other applicable provision of the Companies Act, 2013 (the scheme)."
+   }
+  }
+ },
+ "MANKIND::resolution": {
+  "stamps": {
+   "3c7416429cdcfeff32fc2e1af29ca18b": {
+    "what_it_is": "internal_reorganisation",
+    "business": "BSV branded generic (prescription) business transferred within the group by slump sale; restructured prescription portfolio transitioned to Mankind effective November 1, 2025",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "2025-11-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "This decrease is attributable to exceptional items comprising of New Labour Code adoption, stamp duty on slump sale of BSV branded generic business within the group, and impairment of some noncurrent surplus assets."
+   }
+  }
+ },
+ "ASTERDM::resolution": {
+  "stamps": {
+   "d51bd634e2730d8081e3f181b9c6c4c0": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Consequently , QCIL stands am algamated into and with Company and dissolved without being wound up as of July 1, 2026."
+   }
+  }
+ },
+ "IIFL::resolution": {
+  "stamps": {
+   "8ad793cef5616fbac0240b839af01708": {
+    "what_it_is": "management_indication",
+    "business": "Subsidiaries IIFL Home Finance and IIFL Samasta Finance to be separated into independent listed entities",
+    "role": "demerged company",
+    "resulting_company": "IIFL Home Finance Limited and IIFL Samasta Finance Limited",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "No, even Samasta can get separated, so there will be demerger, there will be three entities."
+   }
+  }
+ },
+ "CYIENT::resolution": {
+  "stamps": {
+   "376b3e533eed0fc72a90ee9d834d81f6": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Global semiconductor business restructured under wholly-owned subsidiary Cyient Semiconductors Private Limited, its subsidiaries and an associate",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Effective April 01, 2025, the Group has reorganised its business structure by restructuring its global semiconductor business under Cyient Semiconductors Private Limited, its subsidiaries and an associate."
+   }
+  }
+ },
+ "NAUKRI::resolution": {
+  "stamps": {
+   "abf2786b599c5390b80dee582bd24864": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Board of Directors in their meeting held on August 09, 2024 approved the Scheme of Amalgamation between Info Edge (India) Limited (\"Transferee Company\") and Axilly Labs Private Limited (\"Transferor Company 1\"), Diphda Internet Services Limited (\"Transferor Company 2\") & Zwayam Digital Private Limited (\"Transferor Company 3\"), the wholly owned subsidiaries of the Transferee Company, and their respective shareholders and creditors."
+   }
+  }
+ },
+ "HFCL::resolution": {
+  "stamps": {
+   "8e1dbd1ac13d2a71c6b1e30748f5b5c8": {
+    "what_it_is": "management_indication",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "But a restructuring committee has been formed precisely to look into such aspects, whether it is efficient to demerge the businesses into the specialized areas so that some strategic tie-up or even if that kind of thing is required, can be done."
+   }
+  }
+ },
+ "GODREJAGRO::resolution": {
+  "stamps": {
+   "e570d2bf67acad3bac40046e69711bad": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Regarding whether there will be a demerger or whether value unlock, I think those are pieces which are right now maybe premature to call."
+   }
+  }
+ },
+ "ENRIN::resolution": {
+  "stamps": {
+   "a97032a2f46818e5bd77589eefc1d9e4": {
+    "what_it_is": "demerger_completed",
+    "business": "Siemens Limited's Energy Business (power generation and power transmission), transferred to and now operated by this company",
+    "role": "resulting company",
+    "resulting_company": "Siemens Limited",
+    "stage": "effective",
+    "completed_date": "2025-03-25",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "The key achievement was the successful demerger of Siemens Limited's Energy Business into SEIL and subsequent listing of SEIL on BSE and NSE."
+   }
+  }
+ },
+ "JMFINANCIL::resolution": {
+  "stamps": {
+   "d182fbc26ca8bc607fe00beefc747468": {
+    "what_it_is": "management_indication",
+    "business": "Wealth management business (in principle), i.e. certain of its businesses demerged from the JM Financial parent",
+    "role": "demerged company",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "\"nothing that we are going to do in the next 6 months to 18 months\" (Q2 FY26 call, November 7, 2025); in the June 1, 2026 call: \"We will come to liquidity in these units and reward for shareholders maybe after a year or 2 years.\"",
+    "quote": "In the last quarter, I said at the appropriate time, we may consider a demerger of certain of our businesses from the overall JM Financial parent, but we have to keep a few things in mind."
+   }
+  }
+ },
+ "TATACOMM::resolution": {
+  "stamps": {
+   "f93bb75a8fe6976fca93682d83aca098": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Solutions Infini Technologies (India) Private Limited's Non-licensed Business undertaking",
+    "role": "not stated",
+    "resulting_company": "Novamesh Limited",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ('Listing Regulations'), Tata Communications Limited has been informed that a composite scheme of arrangement for the demerger of Solutions Infini Technologies (India) Private Limited's ('Transferor Company') Non-licensed Business undertaking into Novamesh Limited ('Transferee Company') and the subsequent amalgamation of the Transferor Company into Tata Communications Collaboration Services Private Limited ('Surviving Company') ('Scheme') has been approved by the respective board of directors of all the entities involved in the Scheme."
+   }
+  }
+ },
+ "DBL::resolution": {
+  "stamps": {
+   "3d8ac63befc0ca1804de558879fe1b41": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Currently, we have no such agenda to apprise the market of."
+   }
+  }
+ },
+ "M&M::resolution": {
+  "stamps": {
+   "42af1b3e866658545af7649accd65813": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Truck & Bus Division (\"MTBD Business Undertaking\") - light, intermediate and heavy commercial trucks and buses, sold on a slump sale basis to SML Mahindra Limited",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "Slump Sale of MTBD Business Undertaking is proposed to be consummated on or before 31st January 2027; \"Transaction is expected to be completed during FY2027\"",
+    "quote": "Since the transaction involves only the slump sale of MTBD Business Undertaking, the shareholding pattern of the Company will not be changed due to this transaction."
+   }
+  }
+ },
+ "ZEEL::resolution": {
+  "stamps": {
+   "c97ab5d044b33785abe42729fbb485e0": {
+    "what_it_is": "management_indication",
+    "business": "Zee Music Company \u2014 the music business (demerger to a separate entity with a strategic partner)",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "No. As I mentioned in my opening remarks and in the earlier question somebody asked me that if I get the right offer, why would I not be open to considering and demerging Zee Music from ZEE to a separate entity and bringing in a strategic partner there."
+   }
+  }
+ },
+ "ASHOKLEY::resolution": {
+  "stamps": {
+   "1eb23731521c1d91de86f878956e6323": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "Per the May 28, 2026 Q4 FY26 earnings call: \"Reverse merger of HLF with NBL Ventures is progressing as per plan and should get consummated within this or the next quarter.\"",
+    "quote": "The Scheme provides for the merger of HLFL into NDL with the objective of creating a stronger listed financial services platform, achieving operational synergies and efficiencies and enhancing stakeholder value."
+   }
+  }
+ },
+ "IIFLCAPS::resolution": {
+  "stamps": {
+   "d0872b83837544f76962f8ac72ac0151": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "resulting company",
+    "resulting_company": "IIFL Holdings Limited (now known as IIFL Finance Limited)",
+    "stage": "effective",
+    "completed_date": "2019-05-13",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Subsequently, pursuant to the Scheme of Demerger undertaken by IIFL Holdings ( now known as IIFL Finance Limited ) with effect from May 13, 2019, IIFL Holdings was demerged into three resultant entities, namely, IIFL Finance Limited, the Target Company and IIFL Wealth Management Limited."
+   }
+  }
+ },
+ "NAM-INDIA::resolution": {
+  "stamps": {
+   "19eb5b66f5bc4f0fbecfcf8fd6da4b67": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The proposed transaction is expected to be completed within 12 months from the execution of the Agreement Date (\u201cLong Stop Date\u201d) or such other date mutually agreed between the Parties (agreement executed March 14, 2026)",
+    "quote": "After the said issuance of equity shares , NAIF will cease to be a wholly owned subsidiary of the Company and it would continue to remain as a subsidiary."
+   }
+  }
+ },
+ "NSLNISP::resolution": {
+  "stamps": {
+   "9a2b1098cc9940b3105986840da4444f": {
+    "what_it_is": "demerger_completed",
+    "business": "NISP (NMDC Iron & Steel Plant, Nagarnar) \u2014 iron and steel manufacturing, demerged from NMDC Ltd",
+    "role": "resulting company",
+    "resulting_company": "NMDC Limited",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "As the matter pertains to the pre-demerger period, NMDC Ltd, is filing the appeals as per the demerger scheme."
+   }
+  }
+ },
+ "JSWDULUX::resolution": {
+  "stamps": {
+   "ce6d2df5bc4d82e40d344cc5b77714eb": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Powder Coatings business division and the International Research Center (IRC) division, sold by slump sale",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Both these slump sale transactions were undertaken through separate business transfer agreements and were concluded on 1st of July 2025."
+   }
+  }
+ },
+ "EMBDL::resolution": {
+  "stamps": {
+   "d05f09b280816ce03718f0abf4b0b0dc": {
+    "what_it_is": "demerger_completed",
+    "business": "power generation business, carried on by wholly owned subsidiary Sinnar Thermal Power Limited (STPL)",
+    "role": "demerged company",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "FY 2010-2011",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "In FY 2010 \u201311, a court -approved demerger reorganised  the group's businesses, pursuant to which the power business was separated from the real estate business."
+   }
+  }
+ },
+ "PINELABS::resolution": {
+  "stamps": {
+   "1e786fd3e49e266b1d0f46c52d4ab167": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Board of Directors of Pine Labs Limited (formerly known as Pine Labs Private Limited) (hereinafter referred to as \"Transferee Company\") and Erstwhile Pine Labs Limited, Singapore (erstwhile holding company) (hereinafter referred to as \"Transferor Company\") on 08 February 2024 and 13 December 2023 (modification of the Scheme approved on 07 February 2024) respectively, had approved the draft Scheme of Arrangement ('Scheme') among Transferor Company, Transferee Company and their respective shareholders under section 210 read with section 212 of the Companies Act 1967 of Singapore, sections 230 to 232, read with section 234 of the Companies Act, 2013 of India and other applicable provisions of the Companies act 1967 of Singapore, the Companies Act, 2013 of India and rules thereunder to effect an amalgamation between Transferor Company and Transferee Company."
+   }
+  }
+ },
+ "SCI::resolution": {
+  "stamps": {
+   "6eacbaa172095b20d8bc68ae3300e8b2": {
+    "what_it_is": "demerger_completed",
+    "business": "192 non-core assets (land and non-core assets) of the Company",
+    "role": "demerged company",
+    "resulting_company": "Shipping Corporation of India Land and Assets Limited (SCILAL)",
+    "stage": "effective",
+    "completed_date": "2021-04-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to approval of demerger scheme by MCA vide its order dated 22.02.2023, 192 non-core assets were transferred from the Company (Demerged Company) to Shipping Corporation of India Land and Assets Limited (Resulting Company) (hereinafter referred to as SCILAL) w.e.f. 01 April 2021 and 185 non-core assets are leased back to the demerged company, has been treated as short term lease, pending execution of final agreement and disinvestment process as detailed in note no. 7."
+   }
+  }
+ },
+ "SUNTV::resolution": {
+  "stamps": {
+   "f3bc6de73f13d871d06aa891d79216d8": {
+    "what_it_is": "news_report_only",
+    "business": "Sun TV's sports division",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The aforesaid news item is a rumour and the Company cannot comment on market rumours."
+   }
+  }
+ },
+ "SUDARSCHEM::resolution": {
+  "stamps": {
+   "84fdf606a0c7e3aaea4978803ea4161b": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "As a key member of the leadership team, he played a central role in shaping the company's strategic transformation through mergers, demergers, acquisitions, and capital-raising initiatives."
+   }
+  }
+ },
+ "TATACONSUM::resolution": {
+  "stamps": {
+   "d78ad29152bbaebce32423bfe7ba022f": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Profit alter tax at Rs 285 Crores is higher by 28%, previous year had one-time tax credit of Rs 74 Crores on merger of wholly owned subsidiaries."
+   }
+  }
+ },
+ "THYROCARE::resolution": {
+  "stamps": {
+   "cd119474b61ad96bf30654f7f3a1f7de": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Radiology business undertaking of Nueclear Healthcare Limited (radiology and diagnostic imaging, PET-CT/CT, nuclear medicine, radiopharmaceuticals)",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "On or before November 30, 2026, or such other date as agreed between the parties to the SPA, and subject to satisfaction of the conditions precedent and receipt of applicable approvals.",
+    "quote": "The Board of Directors of the Company, at its meeting held today, i.e., Thursday, July 23, 2026 discussed and in-principle approved the evaluation of a proposed demerger of NHL's radiology business undertaking to outside the group, by way of a scheme of arrangement or slump sale or business transfer or any other appropriate structure or mode, as may be evaluated, subject to requisite regulatory and statutory approvals (\"Proposed Restructuring\")."
+   }
+  }
+ },
+ "ARVIND::resolution": {
+  "stamps": {
+   "16502b66b57e653b41f1d7efe610f71c": {
+    "what_it_is": "internal_reorganisation",
+    "business": "the Advanced Material Undertaking (human protection, composites, industrials, automotive fabrics)",
+    "role": "not stated",
+    "resulting_company": "Arvind Advanced Materials Limited",
+    "stage": "effective",
+    "completed_date": "2025-09-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The National Company Law Tribunal (\"NCLT\") vide its order dated August 07, 2025, has sanctioned the Scheme of Arrangement (\"Scheme\") for transfer and vesting of \"the Advanced Material Undertaking\" of the Company to Arvind Advanced Materials Limited (\"AAML\"), a wholly owned subsidiary of the Company, on a going concern basis by way of slump sale with effect from the appointed date i.e. April 01, 2024 under sections 230 to 232 and other applicable provisions of the Companies Act, 2013."
+   }
+  }
+ },
+ "UNITDSPR::resolution": {
+  "stamps": {
+   "b1d637b9c2722127b5366b8f88886d70": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "\"the completion of the Proposed Transaction is expected to occur within 6 months from the date hereof\" (SPA dated March 24, 2026)",
+    "quote": "Sale of 100% shares of RCSPL held by USL (itself and through its nominee shareholders) to the Buyers, pursuant to and in accordance with the terms of the SPA (\u201c Proposed Transaction \u201d)."
+   }
+  }
+ },
+ "BLUESTARCO::resolution": {
+  "stamps": {
+   "d729a27aa7f7209602280b8caa7baf10": {
+    "what_it_is": "internal_reorganisation",
+    "business": "MedTech division of Blue Star E&E: high-end medical diagnostic equipment and services, sold as going concern on slump sale basis",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "\"Slump Sale of MedTech division of Blue Star E&E is proposed to be completed by March 31, 2027\"; business actually transferred effective September 1, 2026, with final consideration tranche payable on March 31, 2027",
+    "quote": "In connection therewith, we hereby inform you that Medtech business of Blue Star E&E has been transferred to Cyrix effective September 1, 2026."
+   }
+  }
+ },
+ "DCMSHRIRAM::resolution": {
+  "stamps": {
+   "cf3b7782991cc5680c99228ab76b1678": {
+    "what_it_is": "management_indication",
+    "business": "Consumer-facing products business; Fenesta Building Systems referenced as part of the separation",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "Q3 FY26 call (23rd January 2026): \"If all goes well, maybe next 3 months , 4 months we should be there.\"",
+    "quote": "And the idea is when we separate the companies, there should not be any inter linkages."
+   }
+  }
+ },
+ "DEEPAKFERT::resolution": {
+  "stamps": {
+   "ac6c893dd885392111d5d61ef328522f": {
+    "what_it_is": "management_indication",
+    "business": "Mining chemicals / mining solutions business, housed in the separate entity DMSL",
+    "role": "not stated",
+    "resulting_company": "DMSL",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "\"No, not immediately\" \u2014 timing of subsidiary listing/demerger yet to be decided (Q4 FY26 call, 29 May 2026)",
+    "quote": "In fact, we yet to take a call in terms of form and shape and timing of subsidiary listing and demerger or listing, I call it, not demerger, how and when it has to happen."
+   }
+  }
+ },
+ "HCLTECH::resolution": {
+  "stamps": {
+   "1541cbc75abee00391e48e4c118a8d89": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "On 18 December 2025, the Group has signed a definitive agreement to carve-out and acquire Telco Solutions Business from HPE for 'r 1,438 crores ($160 million), including 'r 135 crores ($15 million) incentive payable based on performance."
+   }
+  }
+ },
+ "GODREJIND::resolution": {
+  "stamps": {
+   "2875bc6338e690015e29340733d64425": {
+    "what_it_is": "internal_reorganisation",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We would also like to inform you that the Company has completed the divestment and transfer of its entire Equity Stake held in Godrej Capital Limited, Subsidiary Company (\"GCL\"), to Godrej Investment Limited on January 28, 2026."
+   }
+  }
+ },
+ "KRBL::resolution": {
+  "stamps": {
+   "88e3c741ed6e64a3e9a19166133c48dd": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Real estate business (land acquisition/development), proposed to be shifted into a 100% subsidiary of KRBL",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We are articulating within the management to form another company as a 100% subsidiary of KRBL. If agreed, the whole real estate business will be shifted into that subsidiary company."
+   }
+  }
+ },
+ "GMRAIRPORT::resolution": {
+  "stamps": {
+   "01608a849eee89795495185866a9dc0b": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "2024-07-25",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "This is in context of the Composite Scheme of Amalgamation & Arrangement amongst erstwhile GMR Airports Ltd, erstwhile GMR Infra Developers Limited and the Company, which became effective from July 25, 2024."
+   }
+  }
+ },
+ "SURYAROSNI::resolution": {
+  "stamps": {
+   "709b9073bc52f2713ed279340a25a16e": {
+    "what_it_is": "management_indication",
+    "business": "Lighting and Consumer Durable business",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "\"once this crisis ends, hopefully by the next board meeting\" (Q4 FY26 call, May 25, 2026)",
+    "quote": "No, I think once this crisis ends, hopefully by the next board meeting, we will be in a position to talk to the board and tell the shareholders."
+   }
+  }
+ },
+ "TATATECH::resolution": {
+  "stamps": {
+   "2478bf0053cecc16254fc549078a83a8": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Tata Motors' Commercial Vehicle (CV) business undertaking, demerged into TML Commercial Vehicles Limited",
+    "role": "not stated",
+    "resulting_company": "TML Commercial Vehicles Limited",
+    "stage": "effective",
+    "completed_date": "2025-10-01",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "Pursuant to the Composite Scheme of Arrangement approved by the Hon'ble National Company Law Tribunal, Mumbai Bench, effective October 1, 2025, Tata Motors Passenger Vehicle Limited (formerly Tata Motors Limited) is the Holding Company of Tata Technologies Ltd."
+   }
+  }
+ },
+ "TRIDENT::resolution": {
+  "stamps": {
+   "1fe07f32b2730abb6a830daf29d37744": {
+    "what_it_is": "internal_reorganisation",
+    "business": "New wholly owned subsidiary for brand-building, selling and marketing of Trident products overseas; plus sale of MYTRIDENT.COM Limited stake",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Incorporation of a New Domestic Wholly Owned Subsidiary (DWOS), to enhance brand presence, brand-building initiatives, selling and marketing for Trident products in overseas markets, with a special emphasis on the U.S. market."
+   }
+  }
+ },
+ "ABDL::resolution": {
+  "stamps": {
+   "1ca3f8525b4335c6a17a9a7b54f64606": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Scheme provides for the amalgamation of Deccan Star Distilleries India Private Limited (Transferor Company 1) and Sarthak Blenders & Bottlers Private Limited (Transferor Company 2) with Allied Blenders and Distillers Limited (Transferee Company) under Sections 230 to 232 of the Companies Act, 2013."
+   }
+  }
+ },
+ "ANURAS::resolution": {
+  "stamps": {
+   "e94d1862f41ac364cf253942d2117915": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "I don't see that we need to bring it into a same corporate entity because the plants will be separate."
+   }
+  }
+ },
+ "AXISCADES::resolution": {
+  "stamps": {
+   "f62593d0fb2d0ca25bc45b8224666cda": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Engineering Services in Heavy Engineering, Automotive and Energy industries; and Engineering Services in the Aerospace industry",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "The Business Transfers are proposed to be completed on or before November 30, 2026",
+    "quote": "The transaction does not form part of any Scheme of Arrangement."
+   }
+  }
+ },
+ "BHARTIARTL::resolution": {
+  "stamps": {
+   "1b7c91082120ea553ddfa03c88745503": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Board of Directors ('Board') of Bharti Airtel Limited ('Company' / 'Airtel India'), in its meeting held today i.e. Wednesday, May 13, 2026, has approved the issuance of upto 146,761,335 fully paid-up equity shares of the Company to Indian Continent Investment Limited ('ICIL'), on a preferential basis against swap of upto 16.31% shareholding (Upto 595,204,251 shares) held by ICIL, in Airtel Africa plc ('Airtel Africa'), a UK listed subsidiary."
+   }
+  }
+ },
+ "BORORENEW::resolution": {
+  "stamps": {
+   "31b14d13f8dbcb112005553e865b4dd7": {
+    "what_it_is": "demerger_completed",
+    "business": "Consumer and scientific & industrial product business of the Company",
+    "role": "demerged company",
+    "resulting_company": "Borosil Limited",
+    "stage": "effective",
+    "completed_date": "2020-01-15",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "In terms of the Composite Sheme of Amagalmation and Arrangement approved by Hon'ble National Company Law Tribunal (NCLT), Mumbai, on January 15, 2020, inter-alia, Gujarat Borosil Limited (producer of solar glass) had been amalgamated with the Company, and the consumer and scientific & industrial product business of the Company had been transferred by way of demerger to Borosil Limited (\"Scheme 1\")."
+   }
+  }
+ },
+ "DATAMATICS::resolution": {
+  "stamps": {
+   "7440509b96f484eadfcb69a885203627": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Board approved the Scheme of Amalgamation between Dextara Digital Private Limited, Datamatics Cloud Solutions Private Limited, wholly owned subsidiaries of the Company and Datamatics Global Services Limited and their respective shareholders and creditors (\"Scheme\") under Sections 230 to 232 of the Companies Act, 2013 read with the rules made thereunder and other applicable laws as amended from time to time."
+   }
+  }
+ },
+ "ENDURANCE::resolution": {
+  "stamps": {
+   "24737c64184b108b695d43344a921909": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Yes. There is no corporate restructuring or any other event where a scheme of arrangement needs to be filed."
+   }
+  }
+ },
+ "GICRE::resolution": {
+  "stamps": {
+   "1a00ccbe08efef6dfa74851a651fb417": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "And I think when we are looking at the stock performances or basically the valuation that weighs a little more when it comes to the value unlocking for the company."
+   }
+  }
+ },
+ "GMDCLTD::resolution": {
+  "stamps": {
+   "5168fc6996016c66141cbbbc4430521c": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Gas transmission undertaking of Gujarat Energy Limited (GEL), demerged into GSPL Transmission Limited; GMDC is only a shareholder receiving shares",
+    "role": "not stated",
+    "resulting_company": "GSPL Transmission Limited (GTL) (also written as GPL Transmission Limited)",
+    "stage": "effective",
+    "completed_date": "2026-05-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Further, pursuant to demerger of gas transmission undertaking, the Company shall receive 1 equity share of R10/- each of GPL Transmission Limited (GTL) for every 3 shares held in GEL."
+   }
+  }
+ },
+ "GMMPFAUDLR::resolution": {
+  "stamps": {
+   "44e70ce3ef4fdeb18c616bd7e9dbf3ba": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Company has executed an agreement to sell on December 16, 2025 , in respect of its Hyderabad property, which was reclassified as an \"Asset held for sale\" in FY25."
+   }
+  }
+ },
+ "HDBFS::resolution": {
+  "stamps": {
+   "37531b11ec8ef733a3fd13b44a82d668": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Whatever it takes, we will make sure we will carve out for the business to grow."
+   }
+  }
+ },
+ "HCG::resolution": {
+  "stamps": {
+   "e2b6347eb94a4ddd892544bf44e832fe": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Milann fertility and reproductive healthcare business, held through wholly owned subsidiary BACC Health Care Private Limited, sold to Inviga Healthcare Fund I",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "The completion of the Proposed Transaction is expected to occur within 4-5 weeks from the date hereof (May 19, 2026); the call of May 20, 2026 said it \"is expected to close within Q1 of FY27\"",
+    "quote": "In line with this, the board has approved the sale of Milann, our fertility business, to Inviga Healthcare Fund."
+   }
+  }
+ },
+ "HINDALCO::resolution": {
+  "stamps": {
+   "0833fabe7f750f7f837e6f628736d313": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Not Applicable, as the said transaction does not pertain to the sale, lease or disposal of the undertaking of Hindalco Industries Limited."
+   }
+  }
+ },
+ "HINDZINC::resolution": {
+  "stamps": {
+   "907326603dbb49033cd18e867d724d61": {
+    "what_it_is": "other_companys_demerger",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "And secondly, is there any change in the dividend policy after the demerger happened at Vedanta."
+   }
+  }
+ },
+ "INTELLECT::resolution": {
+  "stamps": {
+   "7cee796f45e4b50e8420d24d7eee02df": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Purple Fabric (purplefabric.ai) business, an Open Business Impact AI / Enterprise Intelligence Operating System platform",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Intellect Design Arena Ltd., a global leader in AI-first, enterprise-grade financial technology powering the world's leading banks, credit unions, and insurance companies, today announced a major strategic milestone with the carve-out of its Purple Fabric (purplefabric.ai) business into an independent Line of Business (LoB)."
+   }
+  }
+ },
+ "INDUSTOWER::resolution": {
+  "stamps": {
+   "345be28453153f292fda807f444e8a97": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Q4 of last year also included accounting impact of towers acquired from Airtel amounting to INR 1.7 billion towards operating expenses and depreciation."
+   }
+  }
+ },
+ "JUBLFOOD::resolution": {
+  "stamps": {
+   "5dd78133876151a84c15b4e5926671b5": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "This is further to various disclosures made by Jubilant FoodWorks Limited ('Company') regarding discontinuance of business operations of Hashtag Loyalty Private Limited ('Hashtag'), an associate company. Accordingly and pursuant to Regulation 30 of the Listing Regulations, it is hereby informed that the Company has executed a Share Purchase Agreement dated December 29, 2025 inter-alia with Mr. Karan Chechani, one of the founder of Hashtag for sale of its entire stake (31.66%) in Hashtag."
+   }
+  }
+ },
+ "JAINREC::resolution": {
+  "stamps": {
+   "572e153a1260d962ba8e4075fc330b70": {
+    "what_it_is": "internal_reorganisation",
+    "business": "New line of business: telecommunication and communication cables, optical fibre cables, power cables, and telecom infrastructure/EPC services added to objects",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we wish to inform you that the Board of Directors in their meeting held on Wednesday, July 8 , 2026 have approved the alteration of object clause of the Memorandum of Association of the company subject to the approval of shareholders of the company."
+   }
+  }
+ },
+ "KSB::resolution": {
+  "stamps": {
+   "d74bc648f0fb7e85ad039181295e1768": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations Not applicable."
+   }
+  }
+ },
+ "MAXHEALTH::resolution": {
+  "stamps": {
+   "8f783eb51c45c1b803225fdbfa2f117a": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Post approval of Scheme of Amalgamation, two WoS i.e.,CRL and JHL, have amalgamated effective December 15,2025 and thename ofamalgamated entity hasbeen changed toCrosslay Remedies Limited"
+   }
+  }
+ },
+ "MOIL::resolution": {
+  "stamps": {
+   "b1e04f00f1c0cf808dbeb14fc1d05ad5": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "As per NSE uniform carve out policy, one of the grounds for waiver of the fines is Board unable to approve compliances due to Position not filled as approval pending from Regulator / Ministry or any authority whose approval is necessary for filling up the position."
+   }
+  }
+ },
+ "NMDC::resolution": {
+  "stamps": {
+   "d26edebddda959d86497bbbc8b534802": {
+    "what_it_is": "demerger_completed",
+    "business": "NMDC Iron & Steel Plant (NISP), the 3 MTPA integrated steel plant at Nagarnar",
+    "role": "demerged company",
+    "resulting_company": "NMDC Steel Limited",
+    "stage": "effective",
+    "completed_date": "2022-10-13",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Scheme of Arrangement for the demerger of NMDC Iron & Steel Plant (NISP) from NMDC Limited (NMDC) into NMDC Steel Limited (NSL), along with their respective shareholders and creditors, was sanctioned by the Ministry of Corporate Affairs (MCA) on October 6, 2022. The Scheme became effective on October 13, 2022, upon filing with the Registrar of Companies, with an Appointed Date of April 1, 2021."
+   }
+  }
+ },
+ "PNCINFRA::resolution": {
+  "stamps": {
+   "d97a6f430c6eefb4253c3fcbaef77365": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Entire stake in twelve road SPVs, last being PNC Challakere (Karnataka) Highways Private Limited, sold to Vertis Infrastructure Trust (InvIT)",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Now, the Company has completed transfer of all the twelve identified Special Purpose Vehicles (\"SPVs\") pursuant to the Share Purchase Agreement (\"SPA') dated January 15,2024 (as amended from time to time)."
+   }
+  }
+ },
+ "POLYMED::resolution": {
+  "stamps": {
+   "1cb658fbf72ac2b159c0e0e6b6b9dc4b": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Acquisition(s) (including agreement to acquire), Scheme of Arrangement (amalgamation/ merger/ demerger/restructuring), sale or disposal of any unit(s), division(s), whole or substantially the whole of the undertaking(s) or subsidiary of the listed entity, sale of stake in the associate company of the listed entity or any other restructuring."
+   }
+  }
+ },
+ "PAYTM::resolution": {
+  "stamps": {
+   "f49c0781091989e2fc8037c1d5e674bc": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Offline Merchants Payment Business - offline merchants serviced through QR, Soundbox, EDC machine payments - transferred to wholly-owned subsidiary Paytm Payments Services Limited on slump sale basis",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "the said transfer shall be effective from midnight of November 30, 2025",
+    "quote": "The proposed transfer will not have any impact on the economic interest of the shareholders of the Company since the proposed transfer is to a wholly owned subsidiary of the Company."
+   }
+  }
+ },
+ "POWERINDIA::resolution": {
+  "stamps": {
+   "47169ab81686a6270411c9d0088e2431": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "resulting company",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to the Scheme of Arrangement (Demerger), 1,07,421 equity shares were allotted directly to the IEPF account."
+   }
+  }
+ },
+ "PTC::resolution": {
+  "stamps": {
+   "d6d6d1ed0589b49dda34cc3155d58a5d": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "So till sometime back you have heard us say that the issue of divestment or otherwise of PFS was before our board and for a period of time the board had said let's pause the process and there was some advisory input that we were waiting for."
+   }
+  }
+ },
+ "PWL::resolution": {
+  "stamps": {
+   "18086c21bb7522f4632f626a33c3cb27": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "RESOLVED FURTHER THAT in case of any corporate action(s) such as rights issues, bonus issues, amalgamation/merger and sale of division or other re-organisation, split or consolidation of shares, change in capital structure of the Company, as applicable from time to time, if any additional Options are granted or equity shares are issued by the Company to the grantees for the purpose of making a fair and reasonable adjustment to the Options granted earlier, shall be in accordance with Plan 2025."
+   }
+  }
+ },
+ "SAGILITY::resolution": {
+  "stamps": {
+   "f3a9a7421fd7027b7992d0dee45a34c9": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Healthcare business carved out from HGS, acquired/received by this company (intangible assets created from that carveout)",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "**Adjusted PAT includes adjustments to the EBITDA and adj. for amortisation of intangible assets that got created due to carveout of healthcare business from HGS & exceptional items (represents adjustment for labour codes)"
+   }
+  }
+ },
+ "SBILIFE::resolution": {
+  "stamps": {
+   "dc15bccc569199da101953f0db23effb": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "How has been the growth in credit protect given carve out GTI, if you can have that number."
+   }
+  }
+ },
+ "SHILPAMED::resolution": {
+  "stamps": {
+   "aa55fe38d4132b2e0546b67c7e8d0729": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "That the present Scheme is filed for amalgamation of wholly owned subsidiary company with its holding company."
+   }
+  }
+ },
+ "SOLARINDS::resolution": {
+  "stamps": {
+   "ea3f0fb87d1d22673d3071cac2e35851": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to SEBI (Listing Obligation and Disclosure Requirement) Regulations, 2015, please find enclosed the clippings of notices given to shareholders regarding transfer of equity shares to the Investor Education and Protection Fund (IEPF) published today in Business Standard (All India Edition) and Loksatta (Nagpur Edition) newspapers."
+   }
+  }
+ },
+ "STYRENIX::resolution": {
+  "stamps": {
+   "78452faa654ac90960d55c7028621cc1": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "And in spite of that, we have been able to carve out our niche position, and that will remain the case."
+   }
+  }
+ },
+ "TATACAP::resolution": {
+  "stamps": {
+   "d6a44d987395fede2fb22c647010351e": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Commercial Vehicles Business of Tata Motors Limited, demerged into TML Commercial Vehicles Limited",
+    "role": "not stated",
+    "resulting_company": "TML Commercial Vehicles Limited (now Tata Motors Limited)",
+    "stage": "effective",
+    "completed_date": "2025-10-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to the said Scheme, the Commercial Vehicles Business (\u201c Demerged undertaking \u201d) of Tata Motors Limited had been demerged, transferred and vested into TML Commercial Vehicles Limited on a going concern basis."
+   }
+  }
+ },
+ "TBOTEK::resolution": {
+  "stamps": {
+   "58fe3662c14f5b60d205fa5cbf0f0c4a": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "But yes, if you were to carve out one region out and say that, okay let's look at our cost structures and our growth ex of it, we would see impro ving margins, absolutely."
+   }
+  }
+ },
+ "UBL::resolution": {
+  "stamps": {
+   "1368efe40055e85cddb43834333d6ce7": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Acquisition, Merger, Demerger, Amalgamation, Restructuring, Scheme of arrangement or takeovers , award or termination of order/contracts not in the normal course of business] and such other transactions;"
+   }
+  }
+ },
+ "TRITURBINE::resolution": {
+  "stamps": {
+   "63991217d662a432672d77f33580be20": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "resulting company",
+    "resulting_company": "Triveni Engineering and Industries Limited (TEIL)",
+    "stage": "effective",
+    "completed_date": "2010",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "It was demerged from its parent Company, Triveni Engineering and Industries Limited (TEIL) in 2010."
+   }
+  }
+ },
+ "WELENT::resolution": {
+  "stamps": {
+   "eb0e004af67fb3b3c9d3341b04ed8fe1": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "So right now, there is no such visibility about the splitting of the company into verticals or verticals into companies."
    }
   }
  }
