@@ -3,8 +3,6 @@ recall,HEG Ltd,,DEMERGER; Demerger,2026-09-07,,,HEG Graphite Limited,confirmed,c
 recall,Hindustan Unilever Ltd,,DEMERGER; Demerger,2025-12-05,,,,confirmed,demerger/merger/preferential_issue/rights_issue/slump_sale,listed,HINDUNILVR,captured,
 recall,India Glycols Ltd,,DEMERGER; Demerger,2026-09-02,,ENNATURE (2026-11-04),Ennature Bio Pharma Limited,confirmed,demerger/merger/preferential_issue,listed,INDIAGLYCO,captured,
 recall,Inox Green Energy Ser Ltd,,DEMERGER; Demerger,2026-08-01,,,Inox Renewable Solutions Limited,confirmed,demerger/merger/preferential_issue/slump_sale,record_date,INOXGREEN,captured,
-recall,SKF India Limited,,DEMERGER; Demerger,2025-10-15,,SKFINDUS (2025-12-05),,confirmed,demerger/merger,listed,SKFINDIA,captured,
-recall,Tata Motors Limited,,DEMERGER; Demerger,2025-10-14,,TMCV (2025-11-12),,confirmed,demerger/merger,record_date,TMPV,captured,
 recall,Triveni Engineering & Ind,,DEMERGER; Demerger,2026-07-22,,,Triveni Power Transmission Limited,confirmed,demerger/merger/preferential_issue/rights_issue,listed,TRIVENI,captured,
 recall,Vedanta Limited,,DEMERGER; Demerger,2026-05-01,,"VAML (2026-06-15), VEDPOWER (2026-06-15), VISL (2026-06-15), VOGL (2026-06-15)",Talwandi Sabo Power Limited,confirmed,demerger/merger/preferential_issue/slump_sale,record_date,VEDL,captured,
 precision,Aditya Birla Fashion and Retail Ltd.,2025-05-22,,,2025-05-22,,,,,record_date,ABFRL,verified by the register,"Madura Fashion & Lifestyle Business, demerged from ABFRL into wholly owned subsidiary Aditya Birla L"
@@ -26,15 +24,16 @@ precision,Piccadily Agro Industries Ltd.,,,,,,,,,exchange_noc,PICCADIL,pending �
 precision,Pricol Ltd.,,,,,,,,,announced,PRICOLLTD,pending — not yet verifiable (no record date yet),"Driver Information & Connected Vehicle Solutions (DICVS) business — instrument clusters, telematics,"
 precision,Quess Corp Ltd.,2025-04-15,,,2025-04-15,,,,,record_date,QUESS,verified by the register,Digitide Solutions (technology/BPM) and Bluspring Enterprises (industrial/facility services) separat
 precision,Raymond Ltd.,2025-05-14,,,2024-07-11; 2025-05-14,,,,,record_date,RAYMOND,verified by the register,"Real estate/realty business, demerged into Raymond Realty Limited; lifestyle business earlier demerg"
+precision,Refex Industries Ltd.,,,,,,,,,nclt_sanction,REFEX,pending — not yet verifiable (no record date yet),Green Mobility Business Undertaking — cleaner-fuel/EV passenger transport and corporate fleet servic
 precision,Religare Enterprises Ltd.,,,,,,,,,exchange_noc,RELIGARE,pending — not yet verifiable (no record date yet),"REL's financial services business — lending, broking, investment activities and ancillary support se"
 precision,Siemens Ltd.,2025-04-07,,,2025-04-07,,,,,record_date,SIEMENS,verified by the register,"The Energy business of Siemens Limited, transferred to Siemens Energy India Limited under a Scheme o"
-precision,SKF India Ltd.,2025-10-17,,,2025-10-15,,,,,listed,SKFINDIA,verified by the register,"The Industrial business — bearings, seals, motion technologies for railways, defence, wind energy, m"
+precision,SKF India Ltd.,2025-10-17,,,2025-10-15,,,,,listed,SKFINDIA,verified by the register,"The Industrial business (Demerged Undertaking) — bearings for infrastructure, railways, renewables, "
 precision,SKF India (Industrial) Ltd.,2025-12-05,,,,,,,,listed,SKFINDUS,verified by NSE's equity list — this company is the listed resulting company (listed 2025-12-05),"SKF India's Industrial Undertaking — bearings and units, condition monitoring and services for indus"
 precision,Strides Pharma Science Ltd.,2024-12-06,,,2024-12-06,,,,,record_date,STAR,verified by the register,"Arco Lab's Life Sciences and Digital Innovation businesses, carved out into Pivot Path Private Limit"
 precision,Sterlite Technologies Ltd.,2025-04-24,,,2025-04-24,,,,,record_date,STLTECH,verified by the register,"STL's Global Services Business (system integration / services arm), demerged out of Sterlite Technol"
 precision,Thomas Cook (India) Ltd.,,,,,,,,,nclt_sanction,THOMASCOOK,pending — not yet verifiable (no record date yet),TCIL's Resorts and Resort Management business — 6 Nature Trails resorts — transferred to Sterling Ho
 precision,Tata Motors Ltd.,2025-11-12,,,,,,,,listed,TMCV,verified by NSE's equity list — this company is the listed resulting company (listed 2025-11-12),"Tata Motors' commercial vehicle business (trucks, buses, pick-ups, vans), demerged into TML Commerci"
-precision,Tata Motors Passenger Vehicles Ltd.,2025-10-14,,,2025-10-14,,,,,record_date,TMPV,verified by the register,"The Commercial Vehicles business of Tata Motors Limited, demerged into TML Commercial Vehicles Limit"
+precision,Tata Motors Passenger Vehicles Ltd.,2025-10-14,,,2025-10-14,,,,,record_date,TMPV,verified by the register,"The Commercial Vehicles business of Tata Motors Limited, demerged into a separate listed entity"
 precision,Triveni Engineering & Industries Ltd.,2026-10-09,,,2026-07-22,,,,,listed,TRIVENI,verified by the register,"Power Transmission Business: high-speed and niche low-speed gearboxes, gear internals, defence produ"
 precision,TVS Motor Company Ltd.,,,,,,,,,nclt_sanction,TVSMOTOR,pending — not yet verifiable (no record date yet),"TVS Motor's consumer finance and related business — lending, investment, leasing and ancillary servi"
 precision,UPL Ltd.,,,,,,,,,exchange_noc,UPL,pending — not yet verifiable (no record date yet),"India Crop Protection Business demerged into UPL 2, then combined with UPL's international (global) "
