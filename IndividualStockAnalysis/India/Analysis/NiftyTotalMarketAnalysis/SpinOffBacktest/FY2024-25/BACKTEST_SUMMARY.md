@@ -14,10 +14,13 @@
 | …verified by a record date that came AFTER 2025-03-31 (the register up to today) | 9 |
 | …pending (no record date to date) | 1 |
 | …FALSE POSITIVES | 0 |
-| Partial spin-offs (subsidiary IPOs, announced or listed) | 11 |
-| …flagged as a subsidiary listing and found not to be one (excluded) | 12 |
-| Probable demergers | 22 |
-| Indicated demergers | 21 |
+| Partial spin-offs (subsidiary IPOs, announced or listed) | 12 |
+| …flagged as a subsidiary listing and found not to be one (excluded) | 13 |
+| …of the confirmed, read as in progress from the filings' text | 0 |
+| Completed demergers (dated) | 16 |
+| Probable / indicated rows discarded on reading | 55 |
+| Probable rows left (no judge answer) | 0 |
+| Indicated demergers | 6 |
 | Situations in all | 1380 |
 
 ## Every register demerger in the window
@@ -70,6 +73,28 @@
 | **GREAVESCOT** | Greaves Electric Mobility Limited | DRHP filed |  |  |
 | **HDFCBANK** | HDB Financial Services Limited | DRHP filed |  |  |
 | **MUTHOOTFIN** | Belstar Microfinance Limited | SEBI observations |  |  |
+| **PRESTIGE** | Prestige Hospitality Ventures Limited | board approval |  |  |
+
+## Completed demergers as of the run
+
+| Company | Role | Completed | Source of the date |
+|---|---|---|---|
+| **JIOFIN** | resulting company | 2023-08-21 | NSE equity list (this company's listing) |
+| **RELIANCE** | demerged company | 2023-08-21 | NSE equity list (JIOFIN listed) |
+| **REDTAPE** | resulting company | 2023-08-11 | NSE equity list (this company's listing) |
+| **GHCL** | demerged company | 2023-06-12 | NSE equity list (GHCLTEXTIL listed) |
+| **BEML** | demerged company | 2023-04-19 | NSE equity list (BLAL listed) |
+| **PPLPHARMA** | resulting company | 2022-10-19 | NSE equity list (this company's listing) |
+| **SAREGAMA** | demerged company | 2022-04-01 | per the filings |
+| **SCI** | demerged company | 2021-04-01 | per the filings |
+| **EMCURE** | demerged company | 2021 | per the filings |
+| **ABB** | demerged company | 2020-03-30 | NSE equity list (POWERINDIA listed) |
+| **POWERINDIA** | resulting company | 2020-03-30 | NSE equity list (this company's listing) |
+| **IIFL** | demerged company | 2019-05 | per the filings |
+| **KPITTECH** | resulting company | 2019-04-22 | NSE equity list (this company's listing) |
+| **ANUP** | resulting company | 2019-03-01 | NSE equity list (this company's listing) |
+| **TSFINV** | resulting company | 2018-03-26 | NSE equity list (this company's listing) |
+| **CROMPTON** | demerged company | not stated | NSE register (record date) |
 
 ## Misses, with what the skill held
 

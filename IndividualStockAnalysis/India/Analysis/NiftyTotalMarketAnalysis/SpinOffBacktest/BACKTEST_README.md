@@ -96,6 +96,29 @@ The backtests also showed a subsidiary IPO hiding behind a demerger mention (HDF
 Financial, Amber's IL JIN): a company is one situation and a demerger tag outranked a listing tag.
 The listing question is now asked there too.
 
+## Probable and indicated rows resolved, added 2026-11-20
+
+Every probable or indicated demerger / scheme row is now asked one forced-choice question of the
+complete documents. A demerger in progress joins the confirmed demergers (listed last, marked †);
+a completed demerger goes to a dated "Completed demergers" list below the partial spin-offs;
+management's own indication and withdrawals stay indicated; everything else is discarded.
+
+| | FY2024-25 as of 2025-03-31 | April 2024 → today |
+|---|---:|---:|
+| Register demergers captured / missed / false positives | 5 / 0 / 0 | 18 / 0 / 0 |
+| Confirmed demergers | 20 | 39 |
+| Partial spin-offs | 12 | 21 |
+| Completed demergers (dated) | 16 | 15 |
+| Rows discarded on reading (demerger, scheme and listing rows) | 68 | 119 |
+| Probable rows left | 0 | 0 |
+| Indicated demergers | 6 | 5 |
+
+**Did the discards lose anything?** The FY2024-25 run answers it. Of the 68 rows discarded as of
+31 March 2025, none reached a demerger record date afterwards. One, Natco Pharma, is a confirmed
+demerger today: its crop-health scheme was announced after the as-of date, and the two filings then
+on file (November 2024) did not describe one. The six rows it kept as management's own indications
+included Mahindra Seamless, whose scheme was filed in May 2026.
+
 ## What the backtests taught, now in the skill
 
 Every change below came from a named case in one of the two windows; each has a test.

@@ -16,8 +16,11 @@
 | …FALSE POSITIVES | 0 |
 | Partial spin-offs (subsidiary IPOs, announced or listed) | 21 |
 | …flagged as a subsidiary listing and found not to be one (excluded) | 35 |
-| Probable demergers | 32 |
-| Indicated demergers | 13 |
+| …of the confirmed, read as in progress from the filings' text | 0 |
+| Completed demergers (dated) | 15 |
+| Probable / indicated rows discarded on reading | 84 |
+| Probable rows left (no judge answer) | 0 |
+| Indicated demergers | 5 |
 | Situations in all | 2182 |
 
 ## Every register demerger in the window
@@ -112,6 +115,26 @@
 | **MUTHOOTFIN** | Belstar Microfinance Limited | SEBI observations |  |  |
 | **NLCINDIA** | NLC India Renewables Limited | board approval |  |  |
 | **UPL** | Advanta Enterprises Limited | DRHP filed |  |  |
+
+## Completed demergers as of the run
+
+| Company | Role | Completed | Source of the date |
+|---|---|---|---|
+| **ENRIN** | resulting company | 2025-06-19 | NSE equity list (this company's listing) |
+| **CCAVENUE** | demerged company | 2024-09-11 | NSE register (record date) |
+| **SANOFI** | demerged company | 2024-06-13 | NSE register (record date) |
+| **JIOFIN** | resulting company | 2023-08-21 | NSE equity list (this company's listing) |
+| **REDTAPE** | resulting company | 2023-08-11 | NSE equity list (this company's listing) |
+| **BEML** | demerged company | 2023-04-19 | NSE equity list (BLAL listed) |
+| **NMDC** | demerged company | 2023-02-20 | NSE equity list (NSLNISP listed) |
+| **SAREGAMA** | demerged company | 2022-04-01 | per the filings |
+| **BORORENEW** | demerged company | 2020-07-22 | NSE equity list (BOROLTD listed) |
+| **ABB** | demerged company | 2020-03-30 | NSE equity list (POWERINDIA listed) |
+| **POWERINDIA** | resulting company | 2020-03-30 | NSE equity list (this company's listing) |
+| **TATACHEM** | demerged company | 2019 | per the filings |
+| **TSFINV** | resulting company | 2018-03-26 | NSE equity list (this company's listing) |
+| **EMBDL** | demerged company | FY 2010-11 | per the filings |
+| **CROMPTON** | demerged company | not stated | NSE register (record date) |
 
 ## Misses, with what the skill held
 

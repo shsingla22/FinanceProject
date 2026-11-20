@@ -78674,6 +78674,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Consequently , QCIL stands am algamated into and with Company and dissolved without being wound up as of July 1, 2026."
+   },
+   "f4878df01bce12546f7282f58bfd42a4": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Aster DM Quality Care Limited is one of India's leading integrated healthcare providers, formed through the merger of Aster DM Healthcare Limited and Quality Care India Limited."
    }
   }
  },
@@ -78689,6 +78700,28 @@
     "listing_sought": "yes",
     "timeline": "not stated",
     "quote": "No, even Samasta can get separated, so there will be demerger, there will be three entities."
+   },
+   "7590f7b34c9e6bcbfbe62032438a1c43": {
+    "what_it_is": "management_indication",
+    "business": "Housing finance subsidiary IIFL Home Finance and microfinance subsidiary IIFL Samasta Finance, to be separated into three entities",
+    "role": "demerged company",
+    "resulting_company": "IIFL Home Finance Limited; IIFL Samasta Finance Limited",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "Obviously, they need to exit, and there will be the most elegant way to get it listed separately and give exit to private equity investor is through a demerger ."
+   },
+   "d860483462220e96128be983d27e409d": {
+    "what_it_is": "demerger_completed",
+    "business": "Asset and wealth management, retail and institutional broking, financial products distribution and investment banking businesses, separated under the Composite Scheme of Arrangement",
+    "role": "demerged company",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "2019-05",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Prior to the Composite Scheme of Arrangement (effective May 2019), IIFL Finance Limited (Erstwhile \"IIFL Holdings Limited\") (Bloomberg Code: IIFL IN, NSE: IIFL, BSE: IIFL) was engaged in the business of financing, asset and wealth management, retail and institutional broking, financial products distribution and investment banking through its various subsidiaries."
    }
   }
  },
@@ -78697,6 +78730,17 @@
    "376b3e533eed0fc72a90ee9d834d81f6": {
     "what_it_is": "internal_reorganisation",
     "business": "Global semiconductor business restructured under wholly-owned subsidiary Cyient Semiconductors Private Limited, its subsidiaries and an associate",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Effective April 01, 2025, the Group has reorganised its business structure by restructuring its global semiconductor business under Cyient Semiconductors Private Limited, its subsidiaries and an associate."
+   },
+   "dbf431f38b0196fe50949dbc63b05072": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Global semiconductor business restructured under subsidiary Cyient Semiconductors Private Limited; business transferred to subsidiary, nothing distributed to shareholders",
     "role": "not stated",
     "resulting_company": "not stated",
     "stage": "not stated",
@@ -78749,6 +78793,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Regarding whether there will be a demerger or whether value unlock, I think those are pieces which are right now maybe premature to call."
+   },
+   "b0abe5782893f655ac619b4fb45c2523": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Regarding whether there will be a demerger or whether value unlock, I think those are pieces which are right now maybe premature to call."
    }
   }
  },
@@ -78757,6 +78812,17 @@
    "a97032a2f46818e5bd77589eefc1d9e4": {
     "what_it_is": "demerger_completed",
     "business": "Siemens Limited's Energy Business (power generation and power transmission), transferred to and now operated by this company",
+    "role": "resulting company",
+    "resulting_company": "Siemens Limited",
+    "stage": "effective",
+    "completed_date": "2025-03-25",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "The key achievement was the successful demerger of Siemens Limited's Energy Business into SEIL and subsequent listing of SEIL on BSE and NSE."
+   },
+   "f2c48a76eb02471dab462dd6fd82dcb2": {
+    "what_it_is": "demerger_completed",
+    "business": "Siemens Limited's Energy Business (power generation and power transmission)",
     "role": "resulting company",
     "resulting_company": "Siemens Limited",
     "stage": "effective",
@@ -78809,6 +78875,28 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Currently, we have no such agenda to apprise the market of."
+   },
+   "fbaee399dbb8f41fcddc2c1d9b8edd88": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Currently, we have no such agenda to apprise the market of."
+   },
+   "b08669d1a89eeb0b654aa42abf98a1b5": {
+    "what_it_is": "subsidiary_ipo",
+    "business": "Hybrid Annuity Model (HAM) road assets \u2014 18 HAM project SPVs to be transferred to the DBL-Alpha public listed InvIT",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "\"We have received JB approval for forming the public listed InvIT, and we are hopeful of concluding that in the first quarter of this coming year\" (Feb 15, 2025 call); earlier Nov 14, 2024 call: \"six months or so\"",
+    "quote": "Our InvIT formation process is also progressing well. We have received JB approval for forming the public listed InvIT, and we are hopeful of concluding that in the first quarter of this coming year."
    }
   }
  },
@@ -78854,6 +78942,28 @@
     "listing_sought": "yes",
     "timeline": "Per the May 28, 2026 Q4 FY26 earnings call: \"Reverse merger of HLF with NBL Ventures is progressing as per plan and should get consummated within this or the next quarter.\"",
     "quote": "The Scheme provides for the merger of HLFL into NDL with the objective of creating a stronger listed financial services platform, achieving operational synergies and efficiencies and enhancing stakeholder value."
+   },
+   "65797e17f3eef1db167e2aff95419afc": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "\"Reverse merger of HLF with NBL Ventures is progressing as per plan and should get consummated within this or the next quarter\" (Q4 FY26 call, May 28, 2026); NCLT sanctioned the Scheme on November 3, 2026 and \"The Scheme shall become effective upon filing of the certified copy of the NCLT order with the Registrar of Companies and completion of other formalities prescribed under the Scheme.\"",
+    "quote": "Further to our intimations on the subject, we write to inform you that the National Company Law Tribunal, Mumbai Bench, vide its Order dated November 3, 2026 has sanctioned the Scheme of Arrangement (\"the Scheme\") by Absorption of M/s. Hinduja Leyland Finance Limited (\"HLFL\" or the \"Transferor Company\"), a Material Subsidiary of the Company, into NDL Ventures Limited (\"NDL\" or the \"Transferee Company), under Section 230 to 232 and other applicable provisions of the Companies Act, 2013."
+   },
+   "fb8567b371e171de983ae10199ce4b10": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "As mentioned earlier, this is likely to be concluded by the end of Q1 FY26 (call of February 12, 2025)",
+    "quote": "The reverse merger of Hinduja Leyland Finance with NDL Ventures is on track."
    }
   }
  },
@@ -78883,6 +78993,17 @@
     "completed_date": "not stated",
     "listing_sought": "not stated",
     "timeline": "The proposed transaction is expected to be completed within 12 months from the execution of the Agreement Date (\u201cLong Stop Date\u201d) or such other date mutually agreed between the Parties (agreement executed March 14, 2026)",
+    "quote": "After the said issuance of equity shares , NAIF will cease to be a wholly owned subsidiary of the Company and it would continue to remain as a subsidiary."
+   },
+   "6e47fccca846075724d3d78cff9833c2": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The proposed transaction is expected to be completed within 12 months from the execution of the Agreement Date (\"Long Stop Date\") or such other date mutually agreed between the Parties, subject to receipt of regulatory approvals from SEBI and Competition Commission of India",
     "quote": "After the said issuance of equity shares , NAIF will cease to be a wholly owned subsidiary of the Company and it would continue to remain as a subsidiary."
    }
   }
@@ -78929,6 +79050,28 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "In FY 2010 \u201311, a court -approved demerger reorganised  the group's businesses, pursuant to which the power business was separated from the real estate business."
+   },
+   "e99c1a7a65cba9e44ff04312bb1871f1": {
+    "what_it_is": "demerger_completed",
+    "business": "Power generation business carried on through wholly owned subsidiary Sinnar Thermal Power Limited, separated from the real estate business",
+    "role": "demerged company",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "FY 2010-11",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "In FY 2010 \u201311, a court -approved demerger reorganised  the group's businesses, pursuant to which the power business was separated from the real estate business."
+   },
+   "51217d221ca70ef7a9cb043bf9d0d8b9": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "NAM Estates, being Amalgamating Company 1, stands transferred and merged with the Company with effect from the Appointed Date/Effective Date 1, being January 24, 2025 (\"Merger\")"
    }
   }
  },
@@ -78959,6 +79102,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Pursuant to approval of demerger scheme by MCA vide its order dated 22.02.2023, 192 non-core assets were transferred from the Company (Demerged Company) to Shipping Corporation of India Land and Assets Limited (Resulting Company) (hereinafter referred to as SCILAL) w.e.f. 01 April 2021 and 185 non-core assets are leased back to the demerged company, has been treated as short term lease, pending execution of final agreement and disinvestment process as detailed in note no. 7."
+   },
+   "5059803e6cb3f186135f414cd8000fd6": {
+    "what_it_is": "demerger_completed",
+    "business": "192 non-core assets (land and assets), subsequently leased back to SCI",
+    "role": "demerged company",
+    "resulting_company": "Shipping Corporation of India Land and Assets Limited (SCILAL)",
+    "stage": "effective",
+    "completed_date": "2021-04-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to approval of demerger scheme by MCA vide its order dated 22.02.2023, 192 non-core assets were transferred from the Company (Demerged Company) to Shipping Corporation of India Land and Assets Limited (Resulting Company) (hereinafter referred to as SCILAL) w.e.f. 01 April 2021 and lease back of the same to the company has been treated as short term lease, pending execution of final agreement and disinvestment process as detailed in note no. 10."
    }
   }
  },
@@ -79004,6 +79158,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Profit alter tax at Rs 285 Crores is higher by 28%, previous year had one-time tax credit of Rs 74 Crores on merger of wholly owned subsidiaries."
+   },
+   "c746831d56da884a43fc8d8b263dd454": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "This Scheme provides for amalgamation of three wholly owned subsidiaries, being NourishCo Beverages Limited, Tata Smartfoodz Limited and Tata Consumer Soulful! Private Limited, with their holding company, being Tata Consumer Products Limited, with effect from April 1, 2024 (Appointed Date)."
    }
   }
  },
@@ -79018,6 +79183,17 @@
     "completed_date": "not stated",
     "listing_sought": "not stated",
     "timeline": "On or before November 30, 2026, or such other date as agreed between the parties to the SPA, and subject to satisfaction of the conditions precedent and receipt of applicable approvals.",
+    "quote": "The Board of Directors of the Company, at its meeting held today, i.e., Thursday, July 23, 2026 discussed and in-principle approved the evaluation of a proposed demerger of NHL's radiology business undertaking to outside the group, by way of a scheme of arrangement or slump sale or business transfer or any other appropriate structure or mode, as may be evaluated, subject to requisite regulatory and statutory approvals (\"Proposed Restructuring\")."
+   },
+   "85f823041c7bf84979b9b2d3bc9af753": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Radiology business undertaking of Nueclear Healthcare Limited, a wholly owned subsidiary: radiology and diagnostic imaging, PET-CT/CT centres, nuclear medicine",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The expected date of completion of sale/disposal: On or before November 30, 2026, or such other date as agreed between the parties to the SPA",
     "quote": "The Board of Directors of the Company, at its meeting held today, i.e., Thursday, July 23, 2026 discussed and in-principle approved the evaluation of a proposed demerger of NHL's radiology business undertaking to outside the group, by way of a scheme of arrangement or slump sale or business transfer or any other appropriate structure or mode, as may be evaluated, subject to requisite regulatory and statutory approvals (\"Proposed Restructuring\")."
    }
   }
@@ -79049,6 +79225,17 @@
     "listing_sought": "not stated",
     "timeline": "\"the completion of the Proposed Transaction is expected to occur within 6 months from the date hereof\" (SPA dated March 24, 2026)",
     "quote": "Sale of 100% shares of RCSPL held by USL (itself and through its nominee shareholders) to the Buyers, pursuant to and in accordance with the terms of the SPA (\u201c Proposed Transaction \u201d)."
+   },
+   "cd95e667c9e9bca81280ea27069e7718": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Sale of 100% equity stake in wholly owned subsidiary Royal Challengers Sports Private Limited, which owns the RCB IPL and WPL franchises",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "\"the completion of the Proposed Transaction is expected to occur within 6 months from the date hereof\" (March 24, 2026)",
+    "quote": "Sale of 100% shares of RCSPL held by USL (itself and through its nominee shareholders) to the Buyers, pursuant to and in accordance with the terms of the SPA (\u201cProposed Transaction\u201d)."
    }
   }
  },
@@ -79078,6 +79265,17 @@
     "completed_date": "not stated",
     "listing_sought": "not stated",
     "timeline": "Q3 FY26 call (23rd January 2026): \"If all goes well, maybe next 3 months , 4 months we should be there.\"",
+    "quote": "And the idea is when we separate the companies, there should not be any inter linkages."
+   },
+   "d5652987568403871b9d10ee2ee0a482": {
+    "what_it_is": "management_indication",
+    "business": "Consumer-facing business, referred to as consumer facing products, including the Fenesta Building Systems business",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "Jan 2026 call: \"If all goes well, maybe next 3 months , 4 months we should be there\"",
     "quote": "And the idea is when we separate the companies, there should not be any inter linkages."
    }
   }
@@ -79109,6 +79307,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "On 18 December 2025, the Group has signed a definitive agreement to carve-out and acquire Telco Solutions Business from HPE for 'r 1,438 crores ($160 million), including 'r 135 crores ($15 million) incentive payable based on performance."
+   },
+   "958a02b568dc790bd9f79941224cfdcc": {
+    "what_it_is": "other_companys_demerger",
+    "business": "HPE's Communications Technology Group (CTG) assets, carved out of HPE and acquired by HCLTech",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Yes, right now, we have not assumed any contribution from HPE CTG carve out ."
    }
   }
  },
@@ -79124,6 +79333,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "We would also like to inform you that the Company has completed the divestment and transfer of its entire Equity Stake held in Godrej Capital Limited, Subsidiary Company (\"GCL\"), to Godrej Investment Limited on January 28, 2026."
+   },
+   "46da6fc20d4c6c6de53a1a33df6e003a": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Entire equity stake in Godrej Capital Limited (financial services / NBFC-CIC) transferred to wholly owned subsidiary Godrej Investment Limited",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "the Company has completed the divestment and transfer of its entire Equity Stake held in Godrej Capital Limited, Subsidiary Company (\"GCL\") , to Godrej Investment Limited on January 28, 2026."
    }
   }
  },
@@ -79169,6 +79389,28 @@
     "listing_sought": "not stated",
     "timeline": "\"once this crisis ends, hopefully by the next board meeting\" (Q4 FY26 call, May 25, 2026)",
     "quote": "No, I think once this crisis ends, hopefully by the next board meeting, we will be in a position to talk to the board and tell the shareholders."
+   },
+   "f09cab84c2e53bea652fd44fa97efcc3": {
+    "what_it_is": "management_indication",
+    "business": "Lighting and Consumer Durable business",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "\"once this crisis ends, hopefully by the next board meeting, we will be in a position to talk to the board and tell the shareholders\" (Q4 FY26 call, May 25, 2026)",
+    "quote": "No, I think once this crisis ends, hopefully by the next board meeting, we will be in a position to talk to the board and tell the shareholders."
+   },
+   "eb991dfa7ffc9cd37886c6517d584287": {
+    "what_it_is": "management_indication",
+    "business": "Separation of the company's two segments \u2014 Steel Pipes & Strips and Lighting & Consumer Durables; MD says a demerger would cover both businesses",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "On your behalf again, I will keep this in front of board, and I think board is definitely thinking about it."
    }
   }
  },
@@ -79214,6 +79456,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "The Scheme provides for the amalgamation of Deccan Star Distilleries India Private Limited (Transferor Company 1) and Sarthak Blenders & Bottlers Private Limited (Transferor Company 2) with Allied Blenders and Distillers Limited (Transferee Company) under Sections 230 to 232 of the Companies Act, 2013."
+   },
+   "dae57ee28b5a543e4b3c104afa06d2bc": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "\"The Scheme will become effective upon filling of the certified copy with the Registrar of Companies\" (certified copy of the final order received August 3, 2026)",
+    "quote": "Pursuant to Regulations 30 and other applicable Regulations of the SEBI Listing Regulations, we wish to inform you that the Board of Directors of the Company at its Meeting held today i.e. November 4, 2025 has considered and approved the Scheme of Amalgamation (Merger by Absorption) of Deccan Star Distilleries India Private Limited (\"DDPL\"/\"Transferor Company 1\") and Sarthak Blenders & Bottlers Private Limited (\"SBBPL\"/\"Transferor Company 2\") (hereinafter collectively referred to as the \"Transferor Companies\"), Wholly-Owned Subsidiaries of the Company, with and into Allied Blenders and Distillers Limited (hereinafter referred to as the \"Transferee Company\" or the \"Company\" or \"ABDL\") (\"Scheme\") under Section 230 to 232 of the Companies Act, 2013."
    }
   }
  },
@@ -79259,6 +79512,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "The Board of Directors ('Board') of Bharti Airtel Limited ('Company' / 'Airtel India'), in its meeting held today i.e. Wednesday, May 13, 2026, has approved the issuance of upto 146,761,335 fully paid-up equity shares of the Company to Indian Continent Investment Limited ('ICIL'), on a preferential basis against swap of upto 16.31% shareholding (Upto 595,204,251 shares) held by ICIL, in Airtel Africa plc ('Airtel Africa'), a UK listed subsidiary."
+   },
+   "f697a85a962834164653a05d67df1840": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Passive Infrastructure Business Undertaking comprising approx. 12,700 mobile/wireless telecom towers and related infrastructure",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The proposed transfer of Passive Infrastructure Business Undertaking to Indus Towers, is expected to be completed by March 31, 2025.",
+    "quote": "The Company proposes to transfer its Passive Infrastructure Business Undertaking as 'going concern' by way of a slump sale [as defined under Section 2(42C) of Income Tax Act, 1961] to Indus Towers, at a consideration upto INR 21,746 Mn."
    }
   }
  },
@@ -79274,6 +79538,17 @@
     "listing_sought": "yes",
     "timeline": "not stated",
     "quote": "In terms of the Composite Sheme of Amagalmation and Arrangement approved by Hon'ble National Company Law Tribunal (NCLT), Mumbai, on January 15, 2020, inter-alia, Gujarat Borosil Limited (producer of solar glass) had been amalgamated with the Company, and the consumer and scientific & industrial product business of the Company had been transferred by way of demerger to Borosil Limited (\"Scheme 1\")."
+   },
+   "5c49dc163ec231d0eee60d374797a612": {
+    "what_it_is": "demerger_completed",
+    "business": "Consumer and scientific & industrial product business of the Company",
+    "role": "demerged company",
+    "resulting_company": "Borosil Limited",
+    "stage": "effective",
+    "completed_date": "2020-01-15",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "In terms of the Composite Sheme of Amagalmation and Arrangement  approved by Hon'ble National Company Law Tribunal ( NCLT ), Mumbai, on January 15, 2020,  inter -alia, Gujarat Borosil Limited (producer of solar glass) had been amalgamated with the Company , and the consumer and scientific & industrial product business of the Company had been transferred by way of  demerger to Borosil Limited (\"Scheme 1\")."
    }
   }
  },
@@ -79289,12 +79564,45 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "The Board approved the Scheme of Amalgamation between Dextara Digital Private Limited, Datamatics Cloud Solutions Private Limited, wholly owned subsidiaries of the Company and Datamatics Global Services Limited and their respective shareholders and creditors (\"Scheme\") under Sections 230 to 232 of the Companies Act, 2013 read with the rules made thereunder and other applicable laws as amended from time to time."
+   },
+   "14427fe7411140983a426cf8b6032ae2": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Board approved the Scheme of Amalgamation between Dextara Digital Private Limited, Datamatics Cloud Solutions Private Limited, wholly owned subsidiaries of the Company and Datamatics Global Services Limited and their respective shareholders and creditors (\u201cScheme\u201d) under Sections 230 to 232 of the Companies Act, 2013 read with the rules made thereunder and other applicable laws as amended from time to time."
+   },
+   "802554e3a1854bc3ca70ab8a3fd52d3c": {
+    "what_it_is": "other_companys_demerger",
+    "business": "pre-press publishing services, design services, software development and software maintenance services to international journal and book publishers",
+    "role": "not stated",
+    "resulting_company": "TNQ Tech Private Limited",
+    "stage": "effective",
+    "completed_date": "2023-10-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Regional Director at Chennai vide its order dated 12th December 2023, approved scheme of arrangement between TNQ Technologies Pvt Ltd (Demerged Company) and TNQ Tech Pvt Ltd (Resulting Company) with appointed date effective from 1st October 2023."
    }
   }
  },
  "ENDURANCE::resolution": {
   "stamps": {
    "24737c64184b108b695d43344a921909": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Yes. There is no corporate restructuring or any other event where a scheme of arrangement needs to be filed."
+   },
+   "0179874d0661e7b42f315ccf525541bd": {
     "what_it_is": "no_event",
     "business": "not stated",
     "role": "not stated",
@@ -79319,6 +79627,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "And I think when we are looking at the stock performances or basically the valuation that weighs a little more when it comes to the value unlocking for the company."
+   },
+   "0c2c0074a28fe2310ca6bca7c3b697c6": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "And I think when we are looking at the stock performances or basically the valuation that weighs a little more when it comes to the value unlocking for the company."
    }
   }
  },
@@ -79329,6 +79648,17 @@
     "business": "Gas transmission undertaking of Gujarat Energy Limited (GEL), demerged into GSPL Transmission Limited; GMDC is only a shareholder receiving shares",
     "role": "not stated",
     "resulting_company": "GSPL Transmission Limited (GTL) (also written as GPL Transmission Limited)",
+    "stage": "effective",
+    "completed_date": "2026-05-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Further, pursuant to demerger of gas transmission undertaking, the Company shall receive 1 equity share of R10/- each of GPL Transmission Limited (GTL) for every 3 shares held in GEL."
+   },
+   "a9a3d298b9f1de268fd12a7e09bc2803": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Gas transmission undertaking of Gujarat Energy Limited (GEL), under a Composite Scheme of Amalgamation and Arrangement involving GSPC",
+    "role": "not stated",
+    "resulting_company": "GSPL Transmission Limited (GTL)",
     "stage": "effective",
     "completed_date": "2026-05-01",
     "listing_sought": "not stated",
@@ -79379,6 +79709,17 @@
     "listing_sought": "no",
     "timeline": "The completion of the Proposed Transaction is expected to occur within 4-5 weeks from the date hereof (May 19, 2026); the call of May 20, 2026 said it \"is expected to close within Q1 of FY27\"",
     "quote": "In line with this, the board has approved the sale of Milann, our fertility business, to Inviga Healthcare Fund."
+   },
+   "9d5be76a26827c440481beabcfcb5b45": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Triesta diagnostics and Chennai PET-CT & Cyclotron business to wholly owned subsidiary; Nagpur oncology hospital business to the Company, by slump sale",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "The Company through the BTA would acquire the oncology business of the Seller located at Nagpur, on a slump sale basis."
    }
   }
  },
@@ -79409,6 +79750,28 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "And secondly, is there any change in the dividend policy after the demerger happened at Vedanta."
+   },
+   "628d043fb779752badb45267e75ed384": {
+    "what_it_is": "other_companys_demerger",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "And secondly, is there any change in the dividend policy after the demerger happened at Vedanta."
+   },
+   "98c5926ce469432a938de1d7b99e53b6": {
+    "what_it_is": "management_indication",
+    "business": "proposed separation of zinc (metal), silver and recycling businesses into separate entities, with silver as a separate entity",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "However, looking at the rally of zinc prices, we have spoken to government and we feel that this is the right time for government to disinvest and also help us to demerge these entities and create a silver as a separate entity because we continuously believe that it will unlock another $3 to $4 billion on the market cap."
    }
   }
  },
@@ -79439,6 +79802,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Q4 of last year also included accounting impact of towers acquired from Airtel amounting to INR 1.7 billion towards operating expenses and depreciation."
+   },
+   "20f12dd67d81aa7659cecf87e897e0a5": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Passive infrastructure business undertaking of approx. 16,100 telecom towers and related infrastructure purchased from Bharti Airtel and Bharti Hexacom by slump sale",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The Proposed Acquisition of Passive Infrastructure Business Undertaking from Bharti Airtel is expected to be completed by March 31, 2025, subject to the conditions as specified above.",
+    "quote": "The transaction comprises acquisition of passive infrastructure assets/ Telecom Towers including associated assets which includes Macro Sites, Ultra Lean Sites (ULS) and Cell on Wheels (COW) from Bharti Airtel Limited ('Bharti Airtel') and Bharti Hexacom Limited ('Bharti Hexacom') by way of slump sale."
    }
   }
  },
@@ -79499,6 +79873,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Post approval of Scheme of Amalgamation, two WoS i.e.,CRL and JHL, have amalgamated effective December 15,2025 and thename ofamalgamated entity hasbeen changed toCrosslay Remedies Limited"
+   },
+   "cf49b0977ddad5564c867c54c3578a81": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Healthcare undertaking of Radiant Life Care Private Limited (\"Radiant\") and residual business of erstwhile Max India Limited merged into Max Healthcare Institute Limited (\"MHIL\" or \"the Company\") through an NCLT approved Composite Scheme of Amalgamation and Arrangement on June 1, 2020."
    }
   }
  },
@@ -79514,6 +79899,28 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "As per NSE uniform carve out policy, one of the grounds for waiver of the fines is Board unable to approve compliances due to Position not filled as approval pending from Regulator / Ministry or any authority whose approval is necessary for filling up the position."
+   },
+   "eed89e0f909eddffd679d48fa2008684": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "As per N SE uniform carve out  policy, one of the grounds for waiver of the fines is Board unable to approve compliances due to Position not filled as approval pending from Regulator / Ministry or any authority whose approval is necessary for filling up the position."
+   },
+   "a02210be0c17b3599c0ed0d2ac60e145": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "MOIL has no subsidiary/associate/joint venture company as on 31st December ,2024."
    }
   }
  },
@@ -79529,6 +79936,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "The Scheme of Arrangement for the demerger of NMDC Iron & Steel Plant (NISP) from NMDC Limited (NMDC) into NMDC Steel Limited (NSL), along with their respective shareholders and creditors, was sanctioned by the Ministry of Corporate Affairs (MCA) on October 6, 2022. The Scheme became effective on October 13, 2022, upon filing with the Registrar of Companies, with an Appointed Date of April 1, 2021."
+   },
+   "7aac9b5316a638d8211b7cd1ec0669a6": {
+    "what_it_is": "demerger_completed",
+    "business": "NMDC Iron & Steel Plant (NISP)",
+    "role": "demerged company",
+    "resulting_company": "NMDC Steel Limited",
+    "stage": "effective",
+    "completed_date": "2022-10-13",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Scheme of Arrangement for the demerger of NMDC Iron & Steel Plant (NISP) from NMDC Limited (NMDC) into NMDC Steel Limited (NSL), along with their respective shareholders and creditors, was sanctioned by the Ministry of Corporate Affairs (MCA) on October 6, 2022."
    }
   }
  },
@@ -79544,6 +79962,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Now, the Company has completed transfer of all the twelve identified Special Purpose Vehicles (\"SPVs\") pursuant to the Share Purchase Agreement (\"SPA') dated January 15,2024 (as amended from time to time)."
+   },
+   "c903bf2637e1e3f2336d6ecbf6e259ce": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Advisory and providing various professional services in Corporate Restructuring viz. Mergers, Amalgamations, Demergers, Fast Track mergers, Slump sale etc."
    }
   }
  },
@@ -79589,6 +80018,28 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Pursuant to the Scheme of Arrangement (Demerger), 1,07,421 equity shares were allotted directly to the IEPF account."
+   },
+   "52f4eea149eeaf935bfbaf7217b4a89c": {
+    "what_it_is": "demerger_completed",
+    "business": "Power Grids Business of ABB India Limited (INABB), demerged into this company as the Demerged Undertaking",
+    "role": "resulting company",
+    "resulting_company": "ABB India Limited",
+    "stage": "effective",
+    "completed_date": "2019-11",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "Firstly, the Scheme of Arrangement (\u201cScheme\u201d) between (i) ABB India Limited (\u201cINABB\u201d/\u201cTransferor\u201d) and (ii) Hitachi Energy India Limited (\u201cCompany\u201d/\u201cTransferee\u201d) and their respective Shareholders and creditors, pursuant to the provisions of Section 230 to 232 and other applicable provisions of the Companies Act, 2013, (\u201cAct\u201d) which provided for inter alia the Demerger of the Power Grids Business of INABB (\u201cDemerged Undertaking\u201d) and the consequent issuance of equity shares by the Company to the Shareholders of INABB as per the share entitlement ratio, which was approved by the National Company Law Tribunal, Bengaluru Bench (\u201cNCLT\u201d) on November 27, 2019, allowed Hitachi Energy India Limited to concentrate its resources on its core business areas, enhance operational efficiency, and maximize value for its stakeholders."
+   },
+   "663b4651e8a22e1b2a8e19585c95977e": {
+    "what_it_is": "demerger_completed",
+    "business": "Power Grids Business of ABB India Limited (INABB), demerged into Hitachi Energy India Limited (erstwhile ABB Power Products and Systems India Limited)",
+    "role": "resulting company",
+    "resulting_company": "ABB India Limited",
+    "stage": "effective",
+    "completed_date": "2019-11",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "Firstly, the Scheme of Arrangement (\u201cScheme\u201d) between (i) ABB India Limited (\u201cINABB\u201d/\u201cTransferor\u201d) and (ii) Hitachi Energy India Limited (\u201cCompany\u201d/\u201cTransferee\u201d) and their respective Shareholders and creditors, pursuant to the provisions of Section 230 to 232 and other applicable provisions of the Companies Act, 2013, (\u201cAct\u201d) which provided for inter alia the Demerger of the Power Grids Business of INABB (\u201cDemerged Undertaking\u201d) and the consequent issuance of equity shares by the Company to the Shareholders of INABB as per the share entitlement ratio, which was approved by the National Company Law Tribunal, Bengaluru Bench (\u201cNCLT\u201d) on November 27, 2019, allowed Hitachi Energy India Limited to concentrate its resources on its core business areas, enhance operational efficiency, and maximize value for its stakeholders."
    }
   }
  },
@@ -79604,6 +80055,28 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "So till sometime back you have heard us say that the issue of divestment or otherwise of PFS was before our board and for a period of time the board had said let's pause the process and there was some advisory input that we were waiting for."
+   },
+   "6808ab23c995d88d07a72e38d1ab5aaa": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "100% equity stake in wholly-owned subsidiary PTC Energy Limited (wind assets) sold to ONGC Green Limited for Rs. 1,179 crores",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Upon receipt of total consideration of Rs. 1,179 Crores (Rupees One Thousand One Hundred Seventy-Nine Crores only), including consideration of Rs. 925 crores received on 04th March, 2025, from ONGC Green Limited (OGL), the company announces the completion of transaction of divestment of 100% stake of PTC Energy Limited to OGL on 19th March, 2025."
+   },
+   "9a9ae7ef5ec0a50f023ecfc79b8b770f": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "100% equity stake in PTC Energy Limited (PEL), a wholly owned subsidiary, divested to ONGC Green Limited for Rs 1,179 crores",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "2025-03-19",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "Upon receipt of total consideration of Rs. 1,179 Crores (Rupees One Thousand One Hundred Seventy-Nine Crores only), including consideration of Rs. 925 crores received on 04th March, 2025, from ONGC Green Limited (OGL), the company announces the completion of transaction of divestment of 100% stake of PTC Energy Limited to OGL on 19th March, 2025."
    }
   }
  },
@@ -79664,6 +80137,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "That the present Scheme is filed for amalgamation of wholly owned subsidiary company with its holding company."
+   },
+   "6995f31e15aa9487c9e5e3dc969b718f": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "That the present Scheme is filed for amalgamation of wholly owned subsidiary company with its holding company."
    }
   }
  },
@@ -79679,6 +80163,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Pursuant to SEBI (Listing Obligation and Disclosure Requirement) Regulations, 2015, please find enclosed the clippings of notices given to shareholders regarding transfer of equity shares to the Investor Education and Protection Fund (IEPF) published today in Business Standard (All India Edition) and Loksatta (Nagpur Edition) newspapers."
+   },
+   "ddde11820840d9feb9408ae948f21e8d": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "We wish to inform you that, pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the Scheme of Amalgamation involving merger of Rajasthan Explosives and Chemicals Limited (\"RECL\") (\"Transferor Company\") with one of the wholly owned subsidiaries of Solar Industries India Limited i.e. Emul tek Private Limited (\"the Company\") (\"Transferee Company\") with pursuant to Section 230-232 and other applicable provisions of the Companies Act, 2013 read with Rules made thereunder has been approved by the Hon'ble National Company Law Tribunal (\"NCLT\") Mumbai Bench."
    }
   }
  },
@@ -79694,6 +80189,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "And in spite of that, we have been able to carve out our niche position, and that will remain the case."
+   },
+   "2ef5d6446134c46ccffcaa4c21b95b82": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "Merger of step-down subsidiary Styrenix Polymers (Thailand) Co., Ltd. into Styrenix Performance Materials (Thailand) Limited, engineering polymers; group structure consolidation",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "In this regard, we wish to inform that the requisite regulatory approval s pertaining to  said merger (being a \u201creverse merger\u201d) have been duly received and merger has been  completed  effective  June 26, 2025 ."
    }
   }
  },
@@ -79724,6 +80230,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "But yes, if you were to carve out one region out and say that, okay let's look at our cost structures and our growth ex of it, we would see impro ving margins, absolutely."
+   },
+   "23e29abaf415fb9493c36acb5d6c5781": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "TBO LLC has  recently  acquire d Classic Vacations , LLC (\"Target\" ), a US based company founded in 2005  (\"Acquisition \") for a consideration of  USD 125,000,000 (one hundred twenty -five million dollars)  subject to closing adjustments  and such other terms and conditions  as set out in the Securities Purchase Agreement ."
    }
   }
  },
@@ -79739,6 +80256,17 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "Acquisition, Merger, Demerger, Amalgamation, Restructuring, Scheme of arrangement or takeovers , award or termination of order/contracts not in the normal course of business] and such other transactions;"
+   },
+   "be4d575d367a957d71d3d17fa0017117": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Acquisition, Merger, Demerger,  Amalgamation,  Restructuring,  Scheme of arrangement or takeovers , award or termination of order/contracts not in the normal course of business] and such other transactions;"
    }
   }
  },
@@ -79769,6 +80297,1673 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "So right now, there is no such visibility about the splitting of the company into verticals or verticals into companies."
+   },
+   "f7c467ee5bd16980369096aa8dae325b": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations.  Not applicable"
+   }
+  }
+ },
+ "PFOCUS::resolution": {
+  "stamps": {
+   "71c2616ec7ac0ce02f4050f3f6d16d4a": {
+    "what_it_is": "internal_reorganisation",
+    "business": "TCS business and Restoration business, and proprietary software / AI-Technology business consolidated under the \"Brahma\" vertical, moved between step-down subsidiaries",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Transfer of TCS business and Restoration business as a going concern by means of a \"slump sale\" from Brahma AI Services India Limited (formerly Prime Focus Technologies Limited) to DNEG India Media Services Limited (both are step-down subsidiaries of the Company)."
+   },
+   "89b051a48ec0669fab8a212a6bccf1a0": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "Re.: Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended \u2014 Order passed by the Hon'ble National Company Law Tribunal, Mumbai, sanctioning the Scheme of Amalgamation of Prime Focus Academy of Media and Entertainment Studies Private limited (\"PFAMESPL\" or \"Transferor Company\") with DNEG India Media Services Limited (\"DIMSL\" or \"Transferee Company\") and their respective shareholders (\"the Scheme\")"
+   }
+  }
+ },
+ "ABB::resolution": {
+  "stamps": {
+   "b1b94979c601ae1bcdcd406fd3195a51": {
+    "what_it_is": "demerger_completed",
+    "business": "Power Grids business",
+    "role": "demerged company",
+    "resulting_company": "Hitachi Energy India Limited (formerly ABB Power Products and Systems India Limited)",
+    "stage": "effective",
+    "completed_date": "2019-12-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "On March 5, 2019, the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company's Power Grids business to HEIL (\"Demerger\") and the Appointed date for the Demerger was April 1, 2019."
+   },
+   "6b652e1ae4a4ac38b4a0cefc5db94822": {
+    "what_it_is": "demerger_completed",
+    "business": "Power Grids business",
+    "role": "demerged company",
+    "resulting_company": "Hitachi Energy India Limited (formerly ABB Power Products and Systems India Limited)",
+    "stage": "effective",
+    "completed_date": "2019-12-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "On March 5, 2019, the Board of Directors of Company approved the Scheme of Arrangement amongst the Company and Hitachi Energy India Limited (HEIL) (formerly ABB Power Products and Systems India Limited) for Demerger of Company's Power Grids business to HEIL (\"Demerger\") and the Appointed date for the Demerger was April 1, 2019."
+   }
+  }
+ },
+ "BIKAJI::resolution": {
+  "stamps": {
+   "f3e4fb3e390f45eeebbebeb0df4d9bdd": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Board of Directors of the Company, at its meeting held on July 24, 2024, approved the merger of Vindhyawasini Sales Private Limited (\"VSPL\" or the \"Transferor Company\") with the Company pursuant to a composite scheme of amalgamation (\"the Scheme\")."
+   }
+  }
+ },
+ "ARE&M::resolution": {
+  "stamps": {
+   "cd40d4fa2be798ce2ffcf8c81ae95563": {
+    "what_it_is": "other_companys_demerger",
+    "business": "plastic component for battery business ('Demerged Undertaking') of Mangal Industries Limited, transferred to this Company",
+    "role": "resulting company",
+    "resulting_company": "Mangal Industries Limited",
+    "stage": "effective",
+    "completed_date": "2024-02-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Scheme, inter-alia, provides for demerger of the plastic component for battery business ('Demerged Undertaking') from the demerged company to the Company."
+   }
+  }
+ },
+ "GHCL::resolution": {
+  "stamps": {
+   "13b7cbd243acfbcd91d7aabbd173f3d9": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "there is no pendency of any scheme of amalgamation or compromise or arrangement pursuant to the provisions of the Act, as on date;"
+   },
+   "f6bd8c46c5ce09ec81bd865aa5c05cdd": {
+    "what_it_is": "demerger_completed",
+    "business": "Spinning division",
+    "role": "demerged company",
+    "resulting_company": "GHCL Textiles Limited",
+    "stage": "effective",
+    "completed_date": "2023-04-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "As per the Scheme, the accounting has bem carried out on the April 01, 2023 being the Appointed date and effective date i.e. the date on which the Compmy filed the Certified True Copy of the NCLT order along with the sanctioned Scheme with the ROC."
+   }
+  }
+ },
+ "CRAFTSMAN::resolution": {
+  "stamps": {
+   "d0667650fab5fa8d3ea950c9dc7104d8": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Aluminium Products business - internal restructuring/consolidation of the aluminium products business of the Company and its wholly owned subsidiaries at a single wholly owned subsidiary level",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Not applicable. The Company is not a party to the proposed Scheme, and the shareholding pattern of the Company will not be affected by the proposed Scheme."
+   }
+  }
+ },
+ "LLOYDSME::resolution": {
+  "stamps": {
+   "7d7713ef4f3dab150bf4cf9b97015680": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Mining Development and Operations (MDO) business of Thriveni Earthmovers Private Limited, demerged into Thriveni Earthmovers and Infra Private Limited",
+    "role": "not stated",
+    "resulting_company": "Thriveni Earthmovers and Infra Private Limited",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "As mentioned in our letter dated 18th December 2024, the said subscription was subject to the approval of the Competition Commission of India (\"CCI\") for the demerger of the Mining Development and Operations (\"MDO\") business from Thriveni Earthmovers Private Limited (\"TEMPL\") into TEIL."
+   },
+   "8c068659dfba8c694cf117499f961d82": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Mine development and operation (MDO) business of Thriveni Earthmovers Private Limited, together with its associated assets and liabilities",
+    "role": "not stated",
+    "resulting_company": "Thriveni Earthmovers and Infra Private Limited",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "that demerger is currently being heard at NCLT Chennai and it is expected to complete in 6 to 8 months (19 December 2024 update call); demerged business assets to be transferred to TEIL with effect from the appointed date of 1 April 2025",
+    "quote": "The MDO business of TEMPL  is currently in the process of demerger to TEIL, which is currently pending approval from NCLT, Chennai."
+   }
+  }
+ },
+ "PIIND::resolution": {
+  "stamps": {
+   "628f0279c595c4a76cc2f531a151752d": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "With effectiveness of the Scheme, the Target has become wholly owned subsidary of PI LLC and a step down subsidiary of the Company , on and from August 20, 2024 ."
+   },
+   "76f1deeab0b603074dcea7dd4bab9560": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "With effectiveness of the Scheme, the Target has become wholly owned subsidary of PI LLC and a step down subsidiary of the Company, on and from August 20, 2024."
+   }
+  }
+ },
+ "HEXT::resolution": {
+  "stamps": {
+   "b55f843e02e64fc4e9b6229e64014dbf": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Tech SMC Square India Private Limited's business operations and assets (software development and business support services), transferred by slump sale between wholly owned subsidiaries",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The transaction is expected to be completed on or before June 30, 2027, subject to receipt of approvals/consents as may be necessary from the regulatory/statutory authorities and other concerned parties, if any.",
+    "quote": "Pursuant to entity rationalization, the Board of Directors have approved Slump Sale of Tech SMC Square India Pvt Ltd from Hexaware Technologies Inc, USA to Tech SMC Squared (GCC) India Private Limited, all being wholly owned subsidiaries /step down wholly owned subsidiary of the Company."
+   }
+  }
+ },
+ "KPITTECH::resolution": {
+  "stamps": {
+   "f708853e1dba812248540ebe03f606b3": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Approval of Scheme of Merger of PathPartner Technology Private Limited (\"Transferor Company\") with the KPIT Technologies Limited (\"Transferee Company\") and their respective shareholders and creditors."
+   },
+   "ca37276aa6852fbd880d76ec7fbed64d": {
+    "what_it_is": "demerger_completed",
+    "business": "the general-purpose IT business was separated via merger/demerger, leaving a company sharply focused on automotive and mobility software",
+    "role": "resulting company",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "Q4 FY2019",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "So, you would all remember the kind of an unusual decision that we took 5 years ago when we went through the merger, demerger process."
+   }
+  }
+ },
+ "CENTURYPLY::resolution": {
+  "stamps": {
+   "aeb31de0e8be536dc3b63bbaf7485940": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "There has not been any change in the nature of the business of the Company during the FY ended 31st March, 2025."
+   }
+  }
+ },
+ "ERIS::resolution": {
+  "stamps": {
+   "812c81bf9866349ec19aeba03a37f7f4": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Business of Eris Oaknet Healthcare Private Limited, the company's wholly owned dermatology subsidiary, transferred into Eris Lifesciences",
+    "role": "resulting company",
+    "resulting_company": "Eris Oaknet Healthcare Private Limited",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "Not applicable. No shares will be issued by the Resulting Company to the shareholders of the Demerged Company pursuant to this Scheme since the Resulting Company is 100% shareholder of the Demerged Company, i.e., the Demerged Company is a wholly owned subsidiary of the Resulting Company."
+   }
+  }
+ },
+ "INDHOTEL::resolution": {
+  "stamps": {
+   "7544ff506844ba901b10d0b6c0d4c9ea": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "\"completion targeted in the second half of FY2028 and Appointed Date of April 1, 2027\"",
+    "quote": "The Indian Hotels Company Limited (IHCL), India's largest hospitality company, today announces that Oriental Hotels Limited (OHL) will be merged with IHCL through a Scheme of Arrangement."
+   }
+  }
+ },
+ "JSLL::resolution": {
+  "stamps": {
+   "a577c5b22627a41768a6e323c8c58e00": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The proposed transaction is not part of any Scheme of Arrangement."
+   }
+  }
+ },
+ "JIOFIN::resolution": {
+  "stamps": {
+   "ff7f296ae779df68334db1951a99968a": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "resulting company",
+    "resulting_company": "Reliance Industries Limited",
+    "stage": "effective",
+    "completed_date": "2023-08-21",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "Thereafter, pursuant to a scheme of demerger with Reliance Industries Limited, the name of the Company was further changed to 'Jio Financial Services Limited' and a fresh certificate of incorporation was issued on July 25, 2023."
+   },
+   "3725604155b5b57643c140d2420487e2": {
+    "what_it_is": "demerger_completed",
+    "business": "Financial services business of Reliance Industries Limited, comprising JFSL as holding company and four customer-facing entities: an NBFC, payment bank, payment aggregator and insurance broking entity",
+    "role": "resulting company",
+    "resulting_company": "Reliance Industries Limited",
+    "stage": "effective",
+    "completed_date": "2023-08",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "The demerger of JFS from Reliance Industries Limited, which was announced in November 2022, culminated in the listing of JFS on BSE and NSE in August, 2023."
+   }
+  }
+ },
+ "SHRIRAMFIN::resolution": {
+  "stamps": {
+   "6b1db048aae83c2bb91ac03ded6e8679": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Lending / credit business of promoter Shriram Capital Private Limited, to be separated from its other business interests",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We hereby  inform you that the  Company was informed by its promoter, SCPL, that SCPL's Board has in its meeting held on December 18, 2025 , recorded, on an in -principle basis, its intent to explore and evaluate certain restructuring options relating to the separation or reorganisation of the lending / credit business of SCPL from its other business interests (\"Possible Restructuring\")."
+   }
+  }
+ },
+ "AURIONPRO::resolution": {
+  "stamps": {
+   "da9982480d30ca0a3d8d7eea56a1439a": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We wish to inform you that the Board of Directors of Aurionpro Solutions Limited (\"Company\"), at its meeting held on 31st October, 2026, has considered and approved the Scheme of Amalgamation of its three wholly owned subsidiaries, namely, Aurofidel Outsourcing Limited, Intellvisions Solutions Private Limited and Skanan Hardware Private Limited (\"Transferor Companies\"), with and into Aurionpro Solutions Limited, pursuant to Sections 230 to 232 and other applicable provisions of the Companies Act, 2013, read with the rules made thereunder."
+   },
+   "a122dc552058d1ab7fbc9b67fade202d": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to the approval of the Board of Directors dated 19/04/2024, the Company acquired majority stake (67%) in Arya.ai operated under legal entity Lithasa Technologies Private Ltd for an aggregate cash consideration of INR 135.20 Crores."
+   }
+  }
+ },
+ "CROMPTON::resolution": {
+  "stamps": {
+   "201709ca504e32e4354cd2e5766b6722": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Liabilities pertaining to pre-demerger period in line with the scheme of demerger"
+   },
+   "d5a208af0939043f83a1295f1095a372": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Liabilities pertaining to pre-demerger period in line with the scheme of demerger"
+   }
+  }
+ },
+ "IRB::resolution": {
+  "stamps": {
+   "4a32bee2ff6bafc94213370fb61010b8": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "Since the Transferor Companies are wholly -owned subsidiaries of IRBIDL , no consideration shall be payable and no shares shall be issued by the IRBDIL  pursuant to the Scheme."
+   },
+   "124431e1acc0a051cf82cd6a8f4ad445": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Ganga Expressway Project \u2014 41% of equity shares and debentures of SPV Meerut Budaun Expressway Limited transferred to IRB Infrastructure Trust",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "The expected date of completion of sale/ disposal: On or prior to December 31, 2024",
+    "quote": "The Board has now approved the implementation of the rest of Project through the Company's Associate viz. Private InvIT, and authorized arrangements in this regard, including amendments to certain previously executed agreements and other ancillary documents with affiliates of GIC Singapore, Cintra entities, IRB Infrastructure Trust (the \"Private InvIT\") and MBEL."
+   }
+  }
+ },
+ "NEOGEN::resolution": {
+  "stamps": {
+   "27220987ae56168fe51d3be6ef0ae0d5": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Lithium-ion electrolyte salt (including LiPF6) undertaking transferred from Neogen Ionics Ltd to step-down subsidiary Neogen Morita New Materials Ltd",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "Likely to be completed on or before March 31, 2027.",
+    "quote": "The transfer of the undertaking is part of Neogen's strategic initiative to consolidate its Electrolyte Salt (LiPF6) businesses under NML."
+   }
+  }
+ },
+ "REDTAPE::resolution": {
+  "stamps": {
+   "3e6b8e80343308ce8e52367b902bd258": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "resulting company",
+    "resulting_company": "Mirza International Limited",
+    "stage": "effective",
+    "completed_date": "2023",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "With RedTape after demerger in 2023 , a very humble beginning with INR468 crores in 2023, INR1,831 crores in 2024, and INR218 crores in 2025 has grown to become a leading player in the fashion and footwear industry , with multiple product connections, new launches, especially in the accessories over the medium -term."
+   },
+   "8c5eb710592859f4df9c7a237d138aa1": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "resulting company",
+    "resulting_company": "Mirza International Limited",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "Shareholders whose shares has been transferred to IEPF in pursuant to the Composite Scheme of Arrangement between RTS Fashion Pvt. Ltd. to Mirza International Limited and REDTAPE Limited may claim refund from IEPF in accordance with provisions of Companies Act, 2013 and rules made thereunder."
+   }
+  }
+ },
+ "SWSOLAR::resolution": {
+  "stamps": {
+   "dd224ca5f23f3336e511ef6eb1c55857": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations. Not Applicable"
+   }
+  }
+ },
+ "BRITANNIA::resolution": {
+  "stamps": {
+   "605a708ce49466e5156b691efc69c549": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "AIF Category III: Located in any IFSC, which is regulated under applicable SEBI regulations or IFSC regulations, of which all the units are held by non-residents other than unit held by a sponsor or manager.(i.e. specified fund defined under clause (c) of the Explanation to section 10(4D), subject to carve outs)."
+   },
+   "72610e017f0a8c5632c04a2319128df0": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The last condition is subject to prescribed carve outs."
+   }
+  }
+ },
+ "CUMMINSIND::resolution": {
+  "stamps": {
+   "f3b535d4e16fbcb7b66c90a1daf5066c": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We wish to inform that the Board of Directors of the Company, at their meeting held today i.e., on February 07, 2025, has approved the sale of 100% stake in its wholly owned subsidiary, namely, Cummins Sales & Service Private Limited (\u201cCSSPL\u201d), to PAL SVAM Power Solutions Private Limited (the \u201cBuyer\u201d) for a total sale consideration of INR 56,50,00,000 (Indian Rupees Fifty-Six Crores and Fifty Lakhs Only)."
+   }
+  }
+ },
+ "DALBHARAT::resolution": {
+  "stamps": {
+   "09e71c557c6cfaca4f80183008490073": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Cement and mining business operation undertaking of Vinay Cement Limited, a subsidiary",
+    "role": "not stated",
+    "resulting_company": "Dalmia Cement (North East) Limited",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "The Scheme will be effective upon completion of legal formalities including filing of the certified true copy of the Order by Transferor & Transferee companies with the Registrar of Companies, Guwahati.",
+    "quote": "The Company is not a party to the Scheme and no shares are proposed to be issued by/ to the Company."
+   },
+   "ab8ded2484ef1410b721a4c10a95a3aa": {
+    "what_it_is": "other_companys_demerger",
+    "business": "cement and mining business operation undertaking of Vinay Cement Limited",
+    "role": "not stated",
+    "resulting_company": "Dalmia Cement (North East) Limited",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "The Scheme will be effective upon completion of legal formalities including filing of the certified true copy of the Order by Transferor & Transferee companies with the Registrar of Companies, Guwahati (Order dated February 21, 2025; appointed date March 31, 2023)",
+    "quote": "The Company is not a party to the Scheme and no shares are proposed to be issued by/ to the Company."
+   }
+  }
+ },
+ "ELGIEQUIP::resolution": {
+  "stamps": {
+   "93bb6340d5c24795040252eb94413cf2": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We would like to inform you that, ELGI Compressors USA Inc., a wholly owned subsidiary of the Company, has divested its entire stake in Gentex Air Solutions LLC, to the existing joint venture partner, for the purpose of release of exclusivity, in certain counties of Texas, USA."
+   }
+  }
+ },
+ "JLHL::resolution": {
+  "stamps": {
+   "e1243c316648f2eda0ddc48eb900d795": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to Regulation 30 read with Para A (1) of Part A of Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (\"Listing Regulations\"), we hereby inform you that the Board of Directors of the Company at its meeting held on May 09, 2025, has, inter alia, approved the Scheme of Amalgamation of Medulla Healthcare Private Limited (\"Transferor Company\") which is wholly-owned subsidiaries of the Jupiter Life Line Hospitals Limited (\"Transferee/Company\") under Sections 230 to 232 and other applicable provisions of the Companies Act, 2013 read with relevant rules & regulations framed thereunder."
+   }
+  }
+ },
+ "SBFC::resolution": {
+  "stamps": {
+   "4a95a4f4604cb230c23a2e6f734f8c29": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Acquisition, merger, de- merger, amalgamation, restructuring, scheme of arrangement, expansion of business, delisting, disposals, takeovers and such other transcations;"
+   }
+  }
+ },
+ "SAREGAMA::resolution": {
+  "stamps": {
+   "9bff6af1f0fdf37f4336511833f5e7c0": {
+    "what_it_is": "demerger_completed",
+    "business": "E-commerce Distribution Business along with identified non-core assets (the \"Demerged undertaking\")",
+    "role": "demerged company",
+    "resulting_company": "Digidrive Distributors Limited",
+    "stage": "effective",
+    "completed_date": "2022-04-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to the Scheme of Arrangement (the 'Scheme\") for demerger of its E-commerce Distribution Business along with identified non-core assets (collectively referred to as \"Demerged undertaking\") from the Company, duly sanctioned by the National Company Law Tribunal (NCLT), Kolkata Bench vide Order dated 22 June 2023 (\"Order\"), with effect from the Appointed Date i.e., 1 April 2022, the E-commerce Distribution Business along with identified non-core assets ('the demerged undertaking') of the Company (\"Demerged Company\") stands transferred into the \"Digidrive Distributors Limited\" ('the resulting company')."
+   },
+   "ea21defc3f3ead016fc10957014deaf7": {
+    "what_it_is": "demerger_completed",
+    "business": "E-commerce Distribution Business along with identified non-core assets",
+    "role": "demerged company",
+    "resulting_company": "Digidrive Distributors Limited",
+    "stage": "effective",
+    "completed_date": "2022-04-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to the Scheme of Arrangement (the \u2018Scheme\") for demerger of its E-commerce Distribution Business along with identified non-core assets (collectively referred to as \u201cDemerged undertaking\u201d) from the Company, duly sanctioned by the National Company Law Tribunal (NCLT), Kolkata Bench vide Order dated 22 June 2023 (\u201dOrder\u201d), with effect from the Appointed Date i.e., 1 April 2022, the E-commerce Distribution Business along with identified non-core assets (\u2018the demerged undertaking\u2019) of the Company (\"Demerged Company\") stands transferred into the \u201cDigidrive Distributors Limited\u201d (\u2018the resulting company\u2019)."
+   }
+  }
+ },
+ "SWIGGY::resolution": {
+  "stamps": {
+   "8c1c744a2a3e29c938ce119f7e65f02c": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Quick commerce business under the brand name 'Instamart', with related assets, liabilities, permits, IP, employees and contracts",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The completion of the sale is expected after the expiry of the third quarter of FY 2025\u201326, as may be determined by the Board.",
+    "quote": "The Proposed Transfer will not have any impact on the Company's existing business or on the economic interest of the shareholders since the Proposed Transfer is with an indirect wholly owned subsidiary Company."
+   }
+  }
+ },
+ "AFCONS::resolution": {
+  "stamps": {
+   "9f152aa189265f0614da9436877d1f82": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations. Not Applicable"
+   },
+   "3f0a20dcc93ceaed3bc24c6d34b30c14": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations. Not Applicable"
+   }
+  }
+ },
+ "TSFINV::resolution": {
+  "stamps": {
+   "6f3d010dc8be5ce0801deec78a48d3f1": {
+    "what_it_is": "demerger_completed",
+    "business": "Investments of Sundaram Finance Limited in several automotive and manufacturing businesses",
+    "role": "resulting company",
+    "resulting_company": "Sundaram Finance Limited",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to the sanctioning of the Composite Scheme of Arrangement and Amalgamation by the Hon'ble NCLT, the investments of Sundaram Finance Limited in several automotive and manufacturing businesses, which also includes 2,52,896 shares held in M/s Delphi TVS Technologies Limited, have been demerged into our Company."
+   },
+   "405ba47a4427830c11487447450e29d9": {
+    "what_it_is": "demerger_completed",
+    "business": "Investments of Sundaram Finance Limited in several automotive and manufacturing businesses",
+    "role": "resulting company",
+    "resulting_company": "Sundaram Finance Limited",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to the sanctioning of the Composite Scheme of Arrangement and Amalgamation by the Hon\u2019ble NCLT, the investments of Sundaram Finance Limited in several automotive and manufacturing businesses, which also includes 2,52,896 shares held in M/s Delphi TVS Technologies Limited, have been demerged into our Company."
+   }
+  }
+ },
+ "ANANDRATHI::resolution": {
+  "stamps": {
+   "7fe6ad729fbec7ebdd93aeda121bdb32": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The sale of shares of Freedom Wealth Solutions Private Limited is outside the Scheme of Arrangement."
+   }
+  }
+ },
+ "AVANTIFEED::resolution": {
+  "stamps": {
+   "fd3e8e1a50a5220e1b7bdbbca2a5c990": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations. Not Applicable"
+   }
+  }
+ },
+ "BAJAJHLDNG::resolution": {
+  "stamps": {
+   "663c8e8c2e00246bdfa4001a1b83fb17": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "This is a block deal . There is no sale, lease or disposal of undertaking. Hence Regulation 37A  of LODR Regulations  not applicable"
+   }
+  }
+ },
+ "BEML::resolution": {
+  "stamps": {
+   "e44ca31a9e3feebffb4f9e03260435c8": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "demerged company",
+    "resulting_company": "BEML Land Assets Ltd",
+    "stage": "effective",
+    "completed_date": "2022-08-25",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "BEML Land Assets Ltd-( ceased to be a subsidiary w.e.f. 25.08.2022)- applicable figures consolidated."
+   },
+   "05b1d6e26e713e68d4b09d54ec948359": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "demerged company",
+    "resulting_company": "BEML Land Assets Ltd",
+    "stage": "effective",
+    "completed_date": "2022-08-25",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "3, BEML Land Assets Ltd-( ceased to be a subsidiary w.e.f. 25.08.2022)- applicable figures consolidated."
+   }
+  }
+ },
+ "CDSL::resolution": {
+  "stamps": {
+   "d6d1db76c5136cbe62ecfe8847ec2c25": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Separate KYC Registration Agency business unit of wholly-owned subsidiary CDSL Ventures Limited (CVL) to be set up in GIFT-IFSC",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The proposed business unit will be established at the International Financial Services Centre (IFSC) and registered with the International Financial Services Centres Authority (IFSCA) as a KYC Registration Agency."
+   }
+  }
+ },
+ "CGCL::resolution": {
+  "stamps": {
+   "9e2c53e33468ee060e033f6a2de113f0": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "in the event of merger, amalgamation, takeover or any other re-organization, restructuring or any such corporate action, the number of Equity Shares, the price and the time period as aforesaid shall be suitably adjusted, if and to the extent required under applicable laws;"
+   }
+  }
+ },
+ "CREDITACC::resolution": {
+  "stamps": {
+   "2627827a27d6064b9981144bffb9c3e6": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Any material acquisition, merger, de -merger, amalgamation, restructuring, scheme of arrangement, spin off or selling of any material divisions of the Company."
+   },
+   "dce0c1df02c2200c0f646855e9dbdc86": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Any material acquisition, merger, de -merger, amalgamation, restructuring, scheme of arrangement, spin off or selling of any material divisions of the Company."
+   }
+  }
+ },
+ "GVT&D::resolution": {
+  "stamps": {
+   "2145f20bbf63215a004a0e4a75336464": {
+    "what_it_is": "other_companys_demerger",
+    "business": "The energy business of General Electric Company (GEC), spun off under GE Vernova Inc.; GEC split into GE Aerospace and GE Vernova",
+    "role": "not stated",
+    "resulting_company": "GE Vernova Inc.",
+    "stage": "effective",
+    "completed_date": "2024-04-02",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Consequent, to the same the energy business of GEC will be spun off under GE Vernova Inc. w.e.f. April 2, 2024 (Spin-off)."
+   },
+   "2a236c5f60721f4252229f1755aaa752": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Energy business of General Electric Company (GEC), spun off under GE Vernova Inc.",
+    "role": "not stated",
+    "resulting_company": "GE Vernova Inc.",
+    "stage": "effective",
+    "completed_date": "2024-04-02",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Consequent, to the same the energy business of GEC will be spun off under GE Vernova Inc. w.e.f. April 2, 2024 (Spin-off)."
+   }
+  }
+ },
+ "EQUITASBNK::resolution": {
+  "stamps": {
+   "93c2b182b39064fb1ec250403a6bb7d2": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We draw your attention to our earlier communications wherein we had intimated about allotment of 78,95,35,166 (Seventy eight crores ninety five lakhs thirty five thousand one hundred and sixty six) fully paid equity shares of Rs.10/- each of the Bank in demat mode to the eligible equity shareholders of Equitas Holdings Limited (EHL) as on the Record date in pursuance of the approved Scheme of Amalgamation of Equitas Holdings Limited, Equitas Small Finance Bank Limited and their respective Shareholders of which 2,10,902 (Two Lakh Ten Thousand Nine hundred and two) fully paid-up equity shares of the Bank were transferred to a Suspense demat account, held on behalf of the Physical shareholders of EHL as on record date."
+   },
+   "627aaa212ff42feb929f79b0ceefb8c7": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We draw your attention to our earlier communications wherein we had intimated about allotment of 78,95,35,166 (Seventy eight crores ninety five lakhs thirty five thousand one hundred and sixty six) fully paid equity shares of Rs.10/- each of the Bank in demat mode to the eligible equity shareholders of Equitas Holdings Limited (EHL) as on the Record date in pursuance of the approved Scheme of Amalgamation of Equitas Holdings Limited, Equitas Small Finance Bank Limited and their respective Shareholders"
+   }
+  }
+ },
+ "GRASIM::resolution": {
+  "stamps": {
+   "81cd656672887724c193d9d13181ccc5": {
+    "what_it_is": "internal_reorganisation",
+    "business": "EMIL's renewable energy undertaking transferred on slump sale basis to Aditya Birla Renewables Limited, plus amalgamation of ERPL and EPC companies into ABReN",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "transfer and vesting of the EMIL Renewable Energy Undertaking from EMIL to the Transferee Company, as a going concern, on a slump sale basis, without values being assigned to individual assets and liabilities, in accordance with Section 2(42C) and other applicable provisions of the Income Tax Act, 1961"
+   }
+  }
+ },
+ "JAYNECOIND::resolution": {
+  "stamps": {
+   "94507febaaf3af924489532b1c79fd75": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Mitsubishi UFJ Trust & Banking Corporation (the Trust Bank), a consolidated subsidiary of Mitsubishi UFJ Financial Group, Inc. (MUFG), acquired 100% shareholding of Link Group by way of scheme of arrangement with necessary approvals from all concerned regulators including SEBI."
+   }
+  }
+ },
+ "ICICIGI::resolution": {
+  "stamps": {
+   "b4dd607624858e3393375772dd961ba5": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "As an integral part of the Scheme of Arrangement between ICICI Lombard General Insurance Company Limited Company (\"the Company\") and Bharti AXA General Insurance Company Limited (\"Bharti AXA\"), 10.5%, 350 unsecured, subordinated, fully paid-up, listed, redeemable and non-convertible debentures, each having a face value of \u20b91,000,000 issued on April 30, 2019 (deemed date of allotment) (\"the Debentures\") of Bharti AXA were transferred in the name of the Company on the existing terms and conditions."
+   }
+  }
+ },
+ "KTKBANK::resolution": {
+  "stamps": {
+   "75f63333541d00a74ad6f51b36bbb7a3": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The Scheme of arrangement for amalgamation of BMW Iron & Steel Industries Limited (BMWISIL) and Nippon Cryo Private Limited (NCPL), wholly owned subsidiaries with the Company1vith effect from 1s1Apnl, 2024 is pending before National Company Law Tribunal (NCLT) and is subject to necessary approvals."
+   }
+  }
+ },
+ "OLAELEC::resolution": {
+  "stamps": {
+   "fc0555f66e30a68ef22ed9ee93966443": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "But we will do that when we raise capital in the subsidiary and that will be in due course."
+   }
+  }
+ },
+ "REDINGTON::resolution": {
+  "stamps": {
+   "b75af1c68a0f0dfef86d25e4f2f29b33": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "And these resources are focused on things like migration, modernization, spinoffs, DevOps, a range of services."
+   },
+   "991b02e7559181b6450fc462fa106afe": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Intra-group transfer of 100% equity of overseas step-down subsidiary ProConnect Supply Chain Logistics LLC, Dubai, from Redington Gulf FZE to ProConnect Holding Limited",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Further to the above, the regulatory approvals with respect to the transfer of shares of Proconnect Supply Chain Logistics LLC has been completed on April 3, 2024."
+   }
+  }
+ },
+ "SANSERA::resolution": {
+  "stamps": {
+   "a6ee6d806065e4feb786a26762b14b65": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Mitsubishi UFJ Trust & Banking Corporation (the Trust Bank), a consolidated subsidiary of Mitsubishi UFJ Financial Group, Inc. (MUFG), acquired 100% shareholding of Link Group by way of scheme of arrangement with necessary approvals from all concerned regulators including SEBI."
+   }
+  }
+ },
+ "ROUTE::resolution": {
+  "stamps": {
+   "9aeaf7fdfab042b5c589171f704747c4": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We wish to inform you that all the condition precedent s stipulated under the BTA have been duly fulfilled  or waived as the case may be , and accordingly, the acquisition of the AI -led Omnichannel Business Undertaking has been successfully completed on July 2 9, 2026."
+   }
+  }
+ },
+ "SOUTHBANK::resolution": {
+  "stamps": {
+   "325682a8422b146c842b98982d57f91a": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "mergers, de-mergers, acquisitions, delistings, disposals and expansion of business and such other transactions;"
+   },
+   "aeccddda872ab66dbbb0e6526daad764": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "mergers, de-mergers, acquisitions, delistings, disposals and expansion of business and such other transactions;"
+   }
+  }
+ },
+ "SONACOMS::resolution": {
+  "stamps": {
+   "9805bb2740f7bbb388adb993e14e8a3d": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Electric Vehicle Business: air-cooled traction motors and generators, traction inverters, eAxles for electric/hybrid 2 & 3 wheelers",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "The transaction is proposed to be completed on or before 31st March, 2027, unless further extended by a period as may be agreed between parties.",
+    "quote": "The Board approved the carve-out and transfer of the Company's Electric Vehicle (\"EV\") Business to Sona Comstar eDrive Private Limited (\"Sona eDrive\" and/or \"JV1\"), currently a wholly owned subsidiary of the Company, on a going concern basis by way of slump sale."
+   }
+  }
+ },
+ "SUBROS::resolution": {
+  "stamps": {
+   "5ae85aac0f36beb5f3e696a8c2780028": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Now, the leasehold rights in respect of the Sanand land is surrendered to the Lessor i.e Tata Motors Limited ."
+   }
+  }
+ },
+ "TATACHEM::resolution": {
+  "stamps": {
+   "e387fb504f25731595791cb4b4c969fb": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "2019",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "I know in 2019 during the time of demerger we had mentioned, has there been any change in the agreement since then and what are we currently making on related party transactions?"
+   }
+  }
+ },
+ "ZENTEC::resolution": {
+  "stamps": {
+   "0e80e4729130ed367ed509ccd89ef0fc": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations. Not Applicable"
+   }
+  }
+ },
+ "ZYDUSLIFE::resolution": {
+  "stamps": {
+   "f7f09bc1f4af783f783e533ba96e41b8": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "there is no pendency of any scheme of amalgamation or compromise or arrangement involving the Company pursuant to the provisions of the Companies Act, as on date;"
+   }
+  }
+ },
+ "HINDPETRO::resolution": {
+  "stamps": {
+   "342a908c4b5d7657d8d73b04b05f0e67": {
+    "what_it_is": "management_indication",
+    "business": "Lubricant business",
+    "role": "demerged company",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "Jan 2025 call: \"We are already seeking approval from the government for carve out, and as on date, we are yet to get the approvals. But the moment we get it, it will take another nine months for us to do the carve out.\" (Oct 2024 call: \"The moment we get the approval, it may take another six to eight months after that for the entire process to complete.\")",
+    "quote": "We have already taken up with the Government of India as regards the demerger is concerned."
+   }
+  }
+ },
+ "RECLTD::resolution": {
+  "stamps": {
+   "5a44320d351c85ce6633e029214f4a83": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The proposal for sale and transfer of Mahan Transmission  Limited, to the successful bidder as per details given in Point no. 5 above is not in the nature of slump sale."
+   }
+  }
+ },
+ "DELHIVERY::resolution": {
+  "stamps": {
+   "b4d06b5fa45938a1fb371a9ba185d9ca": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "The scheme of amalgamation was approved by the NCLT vide its order dated November 27, 2019 with an appointed date of August 30, 2018 and a certified copy bas been filed by the transferee Company with the Registrar of Companies, Gujarat, on January 10, 2020."
+   }
+  }
+ },
+ "AMBER::resolution": {
+  "stamps": {
+   "9ad3efcac05bc777896dec36a39fca96": {
+    "what_it_is": "news_report_only",
+    "business": "electronics (news item captioned \"Amber Enterprises looking to demerge elect...\"; company did not confirm any demerger)",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "As on date, there is no such event that triggers the disclosure obligations under Regulation 30 of SEBI LODR Regulations."
+   }
+  }
+ },
+ "HAPPSTMNDS::resolution": {
+  "stamps": {
+   "f3a3bad372811f167dca05b1973dc29a": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Pursuant to Regulation 30 read with Para A of Part A of Schedule III of the Listing Regulations, we wish to inform that the Board of Directors at its meeting held on February 04, 2025, has approved the Composite Scheme of Arrangement of PureSoftware Technologies Private Limited (Wholly Owned Subsidiary \u2013 Transferor Company) with Happiest Minds Technologies Limited (Holding Company - Transferee Company) and their respective Shareholders and Creditors, as per Section 230 to 232 and other relevant provisions of the Companies Act, 2013, subject to the statutory and regulatory approvals under applicable laws, including approval of the National Company Law Tribunal."
+   }
+  }
+ },
+ "WELSPUNLIV::resolution": {
+  "stamps": {
+   "37869014e87d38c6fd7bd965fed99e1c": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "In terms of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you that the Board of Directors of the Company (\"Board\") at its meeting held on December 05, 2024 took note of approval accorded by the Board of Directors of Welspun Home Solutions Limited and the Board of Directors of Welspun Advanced Materials (India) Limited and have considered and approved the Scheme of Amalgamation of Welspun Home Solutions Limited (\"the Transferor Company\") with Welspun Advanced Materials (India) Limited (\"the Transferee Company\") and their respective shareholders (the \"Scheme\") pursuant to Sections 230 - 232 of the Companies Act, 2013 and other applicable regulatory requirements."
+   }
+  }
+ },
+ "IPCALAB::resolution": {
+  "stamps": {
+   "6c0d3e0728ef136731dfa1b0a9bb34f1": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Tarapur formulations manufacturing facility sold on slump sale basis; Bayshore's US generic formulations marketing/distribution business and 9 ANDAs transferred to Unichem entities",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "Tarapur slump sale: \"On or before 30th June, 2025 or such other date as may be mutually agreed\"; Bayshore transfer \"Expected to be completed within 30 days after the signing of the agreement\"",
+    "quote": "Sale of all generic formulations marketing / distribution business of Bayshore in the US market as a going concern through slump sale/transfer of entire business (debt free) and all goodwill associated with the business through business sale agreement for US Dollar Ten Millions ($10,000,000) to Unichem USA."
+   }
+  }
+ },
+ "PPLPHARMA::resolution": {
+  "stamps": {
+   "b2fe8386ecea7e9a4958fa22e9bab97d": {
+    "what_it_is": "demerger_completed",
+    "business": "The Pithampur Factory (pharmaceutical business) demerged from Piramal Enterprises Limited to the Company",
+    "role": "resulting company",
+    "resulting_company": "Piramal Enterprises Limited",
+    "stage": "effective",
+    "completed_date": "2022-08-12",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We further inform that the Orders have been received in the name of Piramal Enterprises Limited ('PEL' ) as they pertain to periods prior to demerger of the  Pithampur Factory from PEL to the Company, which was effected by way of a Composite Scheme of Arrangement sanctioned by the National Company Law Tribunal vide order dated 12th August, 2022 ('Scheme')."
+   }
+  }
+ },
+ "RELIANCE::resolution": {
+  "stamps": {
+   "e14694a0a123a462208bfa0c4755d7f0": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "demerged company",
+    "resulting_company": "Jio Financial Services Limited",
+    "stage": "effective",
+    "completed_date": "2023-07",
+    "listing_sought": "yes",
+    "timeline": "not stated",
+    "quote": "In July 2023, Jio Financial Services Limited was demerged, which is valued 35% higher today from its listing."
+   }
+  }
+ },
+ "PRESTIGE::resolution": {
+  "stamps": {
+   "8b7e5c9ed2e4804b0ef8c480789b362e": {
+    "what_it_is": "subsidiary_ipo",
+    "business": "Hospitality segment assets, consolidated under Prestige Hospitality Ventures Limited, the Company's wholly owned subsidiary (hotels and resorts)",
+    "role": "not stated",
+    "resulting_company": "Prestige Hospitality Ventures Limited",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "yes",
+    "timeline": "\"Yes, we'll try and finish it in 2025 itself. There's no need to procrastinate. Hopefully, the team will work on it and make sure it happens in the next couple of quarters.\" (May 29, 2024 call); Oct 30, 2024 call: \"we are in the midst of working on it\"",
+    "quote": "To monetize assets of the Hospitality segment through Prestige Hospitality Ventures Limited, wholly owned subsidiary of the Company by way of issue of shares (through primary or secondary or both) subject to approval of shareholders, market conditions and receipt of applicable approvals."
+   }
+  }
+ },
+ "PRESTIGE::listing": {
+  "stamps": {
+   "d380fed80fe415611b61a9c8b3b6e16b": {
+    "what_it_is": "subsidiary_ipo_announced",
+    "subsidiary": "Prestige Hospitality Ventures Limited",
+    "other_subsidiaries": [],
+    "relation": "subsidiary",
+    "parent_stake_before": "100% (wholly owned subsidiary of the Company)",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "board approval",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "Q4 FY24 earnings call, May 29, 2024: \"Yes, we'll try and finish it in 2025 itself. There's no need to procrastinate. Hopefully, the team will work on it and make sure it happens in the next couple of quarters.\" (Q2 FY25 call, October 30, 2024, on IPO of the hospitality business: \"Yes. The work in progress. We will keep you informed as we go along.\")",
+    "quote": "To monetize assets of the Hospitality segment through Prestige Hospitality Ventures Limited, wholly owned subsidiary of the Company by way of issue of shares (through primary or secondary or both) subject to approval of shareholders, market conditions and receipt of applicable approvals."
+   }
+  }
+ },
+ "ANUP::resolution": {
+  "stamps": {
+   "68483b352dad268ab199d54cf7a2b631": {
+    "what_it_is": "demerger_completed",
+    "business": "not stated",
+    "role": "resulting company",
+    "resulting_company": "Arvind",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "These are the refunds which are pertaining to the aspects of certain claims we know as a demerger of Anup from Arvind originally."
+   }
+  }
+ },
+ "KFINTECH::resolution": {
+  "stamps": {
+   "9dbeb31d8dc3047f54ab8743cd223ea6": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "About 20% plus would be the corporate actions related item, you know, which I explained to you, would be content and merger -demerger activities, buybacks, so on and so forth."
+   }
+  }
+ },
+ "HCC::resolution": {
+  "stamps": {
+   "2f827304e545c77a864e207d277eb6a7": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Scheme of arrangement of Steiner AG, Switzerland, a material step-down wholly owned subsidiary: bifurcation of its construction receivables and real estate development business",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "2024-12-20",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "In line with HCC's strategy to focus on in its core EPC operations and pursuant to a Court-approved Scheme of Arrangement , HCC's stake in Steiner AG (SAG) (held via its wholly owned subsidiaries, HCC Mauritius Investment Limited (HMIL) and HCC Mauritius Enterprises Limited (HMEL)) has been sold to Uniresolv SA, an affiliate of m3 lmmobilier Holding SA (m3), a prominent player in Geneva's real estate and finance sectors."
+   }
+  }
+ },
+ "NATCOPHARM::resolution": {
+  "stamps": {
+   "be816bebc682fd1389e6134608738e6c": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Whether the sale, lease or disposal of the undertaking is outside Scheme of Arrangement? If yes, details of the same including compliance with regulation 37A of LODR Regulations  No"
+   }
+  }
+ },
+ "PNBHOUSING::resolution": {
+  "stamps": {
+   "2d9c36da09f86b368ba4fe0db73e21b6": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "So, we carved out 50 branches."
+   }
+  }
+ },
+ "PRSMJOHNSN::resolution": {
+  "stamps": {
+   "c3b3d47293c9324972b38d7492fb30d3": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Received NCLT approval for the Composite Scheme of Arrangement and Amalgamation amongst the Company and some of its wholly -owned subsidiaries"
+   }
+  }
+ },
+ "SUNPHARMA::resolution": {
+  "stamps": {
+   "aa785028c6189e68b405b4a048602987": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Parent, Merger Sub and the Company intend to effect a merger of Merger Sub with and into the Company (the  Merger) in accordance with this Agreement and the DGCL."
+   }
+  }
+ },
+ "SHRIPISTON::resolution": {
+  "stamps": {
+   "165ed50b6fd4b6192e9ea352c8e1f6eb": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We just started the overall acquisition story, and we don't have immediately any plans of demerger because we feel that we will need to grow these businesses and create more value and we will look at it at the right time."
+   }
+  }
+ },
+ "AAVAS::resolution": {
+  "stamps": {
+   "860f59898b33f6d293f8cf93a3f3cd92": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "During the last 3 years, the Target Company has not undertaken any activities with respect to a merger/demerger and spin off."
+   }
+  }
+ },
+ "ADANIENSOL::resolution": {
+  "stamps": {
+   "7673a81736337eca4bd6f48c422b9e43": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Adani Dahanu Thermal Power Station (ADTPS), a 500 MW coal-based thermal power plant held by Adani Electricity Mumbai Limited",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "BTA records terms and conditions of carving out ADTPS of AEML to NMPL by way of a slump sale on a going concern basis."
+   }
+  }
+ },
+ "ASTRAL::resolution": {
+  "stamps": {
+   "3106bef0dd550bbd529851eccf87e850": {
+    "what_it_is": "other_companys_demerger",
+    "business": "Operating Paints Business of Gem Paints Private Limited",
+    "role": "not stated",
+    "resulting_company": "Esha Paints Private Limited (later renamed Gem Paints Private Limited, now Astral Coatings Private Limited)",
+    "stage": "effective",
+    "completed_date": "2023-08-01",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "NCLT, through its Order dated July 17, 2023, approved the Scheme of arrangement wherein the Operating Paints Business of Gem Paints Private Limited i.e. demerged Company has been transferred to its subsidiary, namely, Esha Paints Private Limited i.e. Resultant Company (later, renamed as Gem Paints Private Limited and now known as Astral Coatings Private Limited) with the appointed date April 1, 2022, which was filed with Registrar of Companies on August 1, 2023 i.e. effective date."
+   }
+  }
+ },
+ "AVL::resolution": {
+  "stamps": {
+   "291c6c2bf3ad26201b78bf246c8cca08": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "So, at any point in time if you can just carve out what kind of operating losses we are seeing or investments we are seeing in new businesses every quarter, that would be helpful for everyone participating to understand that operating leverage in the rest of the stores is paying out."
+   }
+  }
+ },
+ "BOSCHLTD::resolution": {
+  "stamps": {
+   "7aa4fe102eade6872958e07fd821ae87": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Building Technologies product businesses: \"Video Systems\", \"Access and Intrusion systems\", \"Communication systems\"",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "Closing of transaction is expected to be closed not later than June 01, 2025 (closing date)",
+    "quote": "On January 28, 2025, the Board of Directors of the Company approved to execute the Business Transfer Agreement with Keenfinity India Private Limited (\"the Purchaser\") for transfer of its \"Video solutions, Access and Intrusions and Communication systems\" Business (Specified Business) with carrying value of net assets of Rs. 461 million as at September 30, 2024, by way of slump sale for the agreed purchase consideration of Rs. 5,950 million (along with a purchase price adjustment)."
+   }
+  }
+ },
+ "CASTROLIND::resolution": {
+  "stamps": {
+   "ea2c8678192376cb0b2b923a5151463a": {
+    "what_it_is": "other_companys_demerger",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "TASL Automobile Solutions Private Limited",
+    "stage": "NCLT sanction",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "We would like to further update that ki Mobility has undergone corporate restructuring through a Composite Scheme of Arrangement (Demerger) and Amalgamation (\"Restructuring Scheme\") involving TVS Automobile Solutions Private Limited (Transferee Company and erstwhile Holding Company of ki Mobility), TASL Automobile Solutions Private Limited (Resulting Company and erstwhile subsidiary of TVS Automobile Solutions Private Limited) and ki Mobility Solutions Private Limited (Transferor Company), and their respective shareholders."
+   }
+  }
+ },
+ "EMCURE::resolution": {
+  "stamps": {
+   "be640a8a6ca661d439354f9335703954": {
+    "what_it_is": "demerger_completed",
+    "business": "U.S. business (US generics operations), kept out of Emcure due to volatility, low predictability and high capital intensity",
+    "role": "demerged company",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "2021",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "I also want to address up front one question, which will come up, which is on U.S. business which we demerged 3 years back."
+   }
+  }
+ },
+ "GSFC::resolution": {
+  "stamps": {
+   "ec92ca8004bce5286befb68f75089e4d": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "This would be giving -- there should be a good opportunity to carve out the right value, the right intrinsic value for investors at large."
+   }
+  }
+ },
+ "DBL::listing": {
+  "stamps": {
+   "32b419430012a194572a0539cd575cbd": {
+    "what_it_is": "no_event",
+    "subsidiary": "not stated",
+    "other_subsidiaries": [],
+    "relation": "not stated",
+    "parent_stake_before": "not stated",
+    "parent_stake_after": "not stated",
+    "ipo_stage": "not stated",
+    "listing_date": "not stated",
+    "exchange": "not stated",
+    "timeline": "not stated",
+    "quote": "We have received JB approval for forming the public listed InvIT, and we are hopeful of concluding that in the first quarter of this coming year."
+   }
+  }
+ },
+ "MAHSEAMLES::resolution": {
+  "stamps": {
+   "f85fb14b12ae0f4e79b1719466c8acba": {
+    "what_it_is": "management_indication",
+    "business": "the rig business (drilling rig chartered out to a group company), which is not the company's core business",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "We will let you know in the month of May when suitable Board approvals are received",
+    "quote": "It is something which we want to do, but it is subject to Board approval."
+   }
+  }
+ },
+ "KPIL::resolution": {
+  "stamps": {
+   "f276bb07940d82ef319ea38a00a290ea": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "d. mergers, de-mergers, acquisitions, delistings, disposals and expansion of business and such other transactions;"
+   }
+  }
+ },
+ "MAPMYINDIA::resolution": {
+  "stamps": {
+   "92deda518648d2ad5d204295ff1c3179": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Consumer (B2C) business - Mappls brand, Mappls app and Mappls gadgets direct-to-consumer business - moved to a new company outside MapmyIndia",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "board approval",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "Rohan Verma: \"from April 1, there won't be any. And from December 31 also, there wouldn't be any\"; Rakesh Verma: \"So from Q4, there won't be any\" (call of December 02, 2024)",
+    "quote": "So this was the rationale on which we decided to let the new company do the B2C business."
+   }
+  }
+ },
+ "PERSISTENT::resolution": {
+  "stamps": {
+   "179a2d35a0da7afe26eb67f87d5b2bd8": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Business of the UK Branch of the Company, transferred to wholly-owned subsidiary Persistent Systems UK Limited",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The business of the UK Branch shall be gradually transferred to the Subsidiary in UK effective from April 1, 2024",
+    "quote": "The agreement is executed for transfer of business of the UK Branch of the Company to the Subsidiary in UK and hence, it does not fall under the purview of the Scheme of Arrangement."
+   }
+  }
+ },
+ "POWERGRID::resolution": {
+  "stamps": {
+   "46b5283240b0184a3ae6a9d215765bf8": {
+    "what_it_is": "internal_reorganisation",
+    "business": "Telecommunications Business of the company, transferred to Powergrid Teleservices Limited, a wholly owned subsidiary",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "The Board of directors in their meeting held on 14 July 2023 has approved the proposal for transfer of Telecommunications Business of the company to Powergrid Teleservices Limited (PTL), a wholly owned subsidiary of the company."
+   }
+  }
+ },
+ "KIRLOSENG::resolution": {
+  "stamps": {
+   "c7c49feb50e6aabd6d9166e44fe3e959": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "effective",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "The Board of Directors of Optiqua Pipes and Electricals Private Limited (OPEPL/Transferor Company, a step-down subsidiary of the Company) and La-Gajjar Machineries Private Limited (LGM/Transferee Company, a wholly-owned subsidiary of the Company). at their respective meetings held on 3rd July 2023, have given consent for the Scheme of Amalgamation between OPE PL and LGM under Section 233 and other applicable provisions of the Companies Act, 2013."
+   }
+  }
+ },
+ "SCHNEIDER::resolution": {
+  "stamps": {
+   "13b77bcf21fcb02a9f56b7a6394a0ab5": {
+    "what_it_is": "no_event",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "So cell manufacturing, EV is going to carve out the future for India."
+   }
+  }
+ },
+ "SAMMAANCAP::resolution": {
+  "stamps": {
+   "008f700483370963a5115be0953692f0": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "shareholder meeting",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "The Appointed Date of the Scheme is April 1, 2025",
+    "quote": "As required under the letter dated June 28, 2024, issued by the Reserve Bank of India, a scheme of arrangement for amalgamation of the Company's six wholly-owned subsidiaries, namely, Indiabulls Collection Agency Limited, Ibulls Sales Limited, Nilgiri Investmart Services Limited, Indiabulls Capital Services Limited, Indiabulls Advisory Services Limited and Indiabulls Insurance Advisors Limited (\"Transferor Companies\"), with the Company under the provisions of Sections 230 to 232 of the Companies Act, 2013 (\"Scheme\")."
+   }
+  }
+ },
+ "TECHM::resolution": {
+  "stamps": {
+   "ddeeeb9cf0eea2f6b73d266ffe1c8aa1": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "no",
+    "timeline": "not stated",
+    "quote": "In furtherance to our earlier intimations referred above and in compliance with Regulation 30 of the SEBI Listing Regulations, this is to inform you that the Scheme of Merger by Absorption of Perigord Premedia (India) Private Limited (\"PPIPL\"), Perigord Data Solutions (India) Private Limited (\"PDSIPL), Tech Mahindra Cerium Private Limited (\"TMCPL\") and Thirdware Solution Limited (\"TSL\"), wholly-owned subsidiaries of the Company (\"Transferor Companies\") with the Company (\"Transferee Company\") and their respective shareholders approved by the National Company Law Tribunal, Mumbai Bench has been made effective today viz. January 23, 2025."
+   }
+  }
+ },
+ "TVSSCS::resolution": {
+  "stamps": {
+   "b3ee8cbe32e191b1059c09022d0d9fe8": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "exchange NOC",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "Sub: Receipt of Observation Letter with 'No Objection' from National Stock Exchange of India Limited ('NSE') in relation to the draft Scheme of Amalgamation of Mahogany Logistics Services Private Limited (formerly known as DRSR Logistics Services Private Limited) (\"First Transferor Company\"), TVS SCS Global Freight Solutions Limited (\"Second Transferor Company\"), White Date Systems Private Limited (\"Third Transferor Company\"), SPC international (India) Private Limited (\"Fourth Transferor Company\") and FLEXOL Packaging (India) Limited (\"Fifth Transferor Company\") with and into TVS Supply Chain Solutions Limited (\"Transferee Company\") and their respective shareholders is presented under Sections 230 - 232 of the Companies Act, 2013."
+   }
+  }
+ },
+ "UNOMINDA::resolution": {
+  "stamps": {
+   "62dbf648a693a816944a41199b373764": {
+    "what_it_is": "merger_or_acquisition",
+    "business": "not stated",
+    "role": "not stated",
+    "resulting_company": "not stated",
+    "stage": "not stated",
+    "completed_date": "not stated",
+    "listing_sought": "not stated",
+    "timeline": "not stated",
+    "quote": "This is in continuation to our earlier communication dated December 19, 2024 regarding the subject matter cited above, wherein we had informed you that the Scheme of Amalgamation of Kosei Minda Aluminum Company Private Limited (\"Transferor Company No.1\"), Kosei Minda Mould Private Limited (\"Transferor Company No. 2\"), Minda Kosei Aluminum Wheel Private Limited (\"Transferor Company No. 3\") (Transferor Company No. 1, Transferor Company No. 2 and Transferor Company No. 3 are collectively referred to as \"Transferor Companies\") with Uno Minda Limited (formerly known as Minda Industries Ltd.) (\"Transferee Company\") and their respective Shareholders and Creditors (the \"Scheme\"), has been sanctioned by the Hon'ble National Company Law Tribunal, Court VI, New Delhi ('NCLT') vide its Order dated December 18, 2024."
    }
   }
  }
