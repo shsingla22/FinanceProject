@@ -1,0 +1,287 @@
+ 
+KPIT Technologies L imited   
+Registered & Corporate Office: Plot No. 17, Rajiv Gandhi Infotech Park, MIDC -SEZ, 
+Phase -III, Maan, Taluka -Mulshi, Hinjawadi, Pune -411057, India.  
+CIN: L 74999PN2018PLC174192  
+O   +91 20 6770 6000  
+E    info@kpit.com  
+W   kpit.com  August 5, 2026  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+ 
+Scrip ID: KPITTECH  
+Scrip Code: 542651  
+ 
+Kind Attn: The Manager,  
+Department of Corporate Services  National Stock Exchange of India Ltd.,  
+Exchange  Plaza, C/1, G Block,  
+Bandra - Kurla Complex, Bandra (E),  
+Mumbai – 400051.  
+ 
+Symbol:  KPITTECH  
+Series:  EQ 
+ 
+Kind Attn:  The Manager,  
+Listing Department  
+Dear Sir / Madam,  
+ 
+Subject: -   Business Responsibility and Sustainability Report for FY 202 5-26. 
+ 
+Pursuant to Regulation 34(2)  of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we are submitting herewith the Business 
+Responsibility and Sustainability Report for the FY 202 5-26, which also forms part 
+of the Annual Report for FY 202 5-26 and the same is available on the website of 
+the Company at www.kpit.com . 
+ 
+Kindly take the same on your records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For KPIT Technologies Limited  
+ 
+ 
+ 
+ 
+Ashish Malhotra  
+General Counsel & Company Secretary  
+ 
+Encl: as above  
+ 
+Statutory ReportsAnnual Report 2025-26 1TABLE OF CONTENT
+Section A General disclosures
+Section A provides a broad overview of the business, its offerings, business and operations 
+footprint, employees, related parties, CSR and transparency.
+Section B Management and process disclosures
+Section B covers management and process disclosures related to the businesses aimed 
+at demonstrating the structures, policies and processes put in place towards adopting the 
+NGRBC Principles and Core Elements.
+Section C Principle-wise performance disclosures
+Section C provides indicator-wise disclosures mapped to the nine principles of NGRBC which 
+are listed at the start of Section B.
+Principle 1  Businesses should conduct and govern themselves with integrity, and in a manner 
+that is ethical, transparent, and accountable.
+Principle 2  Businesses should provide goods and services in a manner that is sustainable 
+and safe.
+Principle 3  Businesses should respect and promote the well-being of all employees, including 
+those in their value chains.
+Principle 4  Businesses should respect the interests of and be responsive to all their 
+stakeholders.
+Principle 5  Businesses should respect and promote human rights.
+Principle 6  Businesses should respect and make efforts to protect and restore the 
+environment.
+Principle 7  Businesses when engaging in influencing public and regulatory policy should do 
+so in a manner that is responsible and transparent.
+Principle 8 Businesses should promote inclusive growth and equitable development.
+Principle 9  Businesses should engage with and provide value to their consumers in a 
+responsible manner.BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT  
+(BRSR) 2025-26
+Business Responsibility & Sustainability Report (Contd.)Statutory Reports2 Annual Report 2025-26KPIT Technologies Limited (hereinafter referred to as ‘the Company’ or ‘KPIT’) is a leading independent software development 
+and integration partner, dedicated to advancing mobility transitions towards a cleaner, smarter, and safer future. Comprising 
+a workforce of over 13,000 specialized professionals globally, the Company focuses on embedded software, artificial 
+intelligence, and digital solutions. It accelerates clients’ adoption of next-generation technologies pivotal to future mobility 
+frameworks. With engineering centers strategically located in Europe, the United States, Brazil, Japan, China, Thailand, 
+and India, the Company collaborates with leading entities in the automotive and mobility sectors, positioning itself at the 
+forefront of ecosystem transformation.
+SECTION A: GENERAL DISCLOSURES
+KPIT is pleased to present the fourth edition of its Business Responsibility & Sustainability Report (BRSR) for the financial 
+year ended March 31, 2026. This report has been prepared in accordance with the National Guidelines on Responsible 
+Business Conduct (NGRBC) and comprehensively includes both financial and non-financial disclosures, emphasizing 
+Environment, Social, and Governance (ESG) factors, as mandated by the Securities and Exchange Board of India (SEBI). The 
+Company has commissioned an independent assurance provider to conduct reasonable assurance on BRSR Core KPIs as 
+per SEBIs Assessment or Assurance requirement. The detailed reasonable assurance report can be found on page no. 173.
+The Company’s business activities are strategically aligned with the United Nations Sustainable Development Goals 
+(UNSDGs). To understand the Company’s impact on environment, KPIT has initiated a comprehensive greenhouse gas (GHG) 
+inventorization for carbon accounting and is in the process of identifying decarbonization levers to generate a greater 
+positive impact on the environment and society.
+To further promote shared value creation through sustainable growth, this report provides a comprehensive disclosure of 
+KPIT’s initiatives and performance concerning business, environmental, social, and governance aspects. The Company’s 
+ongoing efforts to enhance its sustainability disclosures reflect its strategic approach to managing external environmental 
+risks and generating enduring value for its stakeholders.
+I. Details of the Listed Entity
+1.Corporate Identity Number (CIN) of the Listed 
+EntityL74999PN2018PLC174192
+2.Name of the Listed Entity KPIT Technologies Limited
+3. Year of incorporation 2018
+4.Registered office address Plot No. 17, Rajiv Gandhi Infotech Park, MIDC-SEZ, Phase-III, 
+Maan, Taluka - Mulshi, Hinjawadi, Pune-411057.
+5. Corporate Address Plot No. 17, Rajiv Gandhi Infotech Park, MIDC-SEZ, Phase-III, 
+Maan, Taluka - Mulshi, Hinjawadi, Pune-411057.
+6. E-mail grievances@kpit.com
+7. Telephone +91 20 6770 6000
+8. Website www.kpit.com
+9.Financial year for which reporting is being done FY 2025-26 (April 1, 2025 - March 31, 2026)
+10.Name of the Stock Exchange(s) where shares 
+are listedBSE Limited (BSE) and National Stock Exchange of India 
+Limited (NSE)
+11. Paid-up capital ₹ 274.143 Crores
+12.Name and contact details (telephone, email 
+address) of the person who may be contacted 
+in case of any queries on the BRSR reportMr. Sachin Tikekar
+President & Joint Managing Director
+Ms. Manasi Patil
+Associate Vice President – Human Resources
+Mr. Ashish Malhotra
+General Counsel & Company Secretary
++91 20 6770 6000
+grievances@kpit.com 
+Business Responsibility & Sustainability Report (Contd.)Statutory ReportsAnnual Report 2025-26 313.Reporting boundary - Are the disclosures 
+under this report made on a standalone basis 
+(i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities 
+which form a part of its consolidated financial 
+statements, taken together). The disclosures made in this report are on a Standalone basis.
+14. Name of assessment or assurance provider C N K & Associates LLP
+(Firm registration no. 101961 W/W – 100036)
+15. Type of assessment or assurance obtained Reasonable assurance on BRSR Core KPIs. For further details 
+refer to the Reasonable Assurance Report on page no. 173. 
+II. Products/Services
+ 16. Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.Description of the Main Activity Description of the Business Activity % of turnover 
+the entity
+1.Professional, Scientific, and Technical Architecture, engineering activities, 
+technical testing, and analysis activities94.24%
+ 17. Products/services sold by the entity (accounting for 90% of the entity’s turnover):
+Sr. 
+No. Product/Service NIC Code % of total Turnover 
+contributed
+1.Architectural and engineering activities and related technical consultancy 711 94.24%
+2.Technical testing and analysis 712
+III. Operations
+	 18.	 Number 	of	locations	 where	plants	and/or 	operations/offices	of 	the	entity 	are	situated:
+Location Number of Plants Number 	of	offices Total
+National Not applicable 10 10
+International Not applicable 17 17
+ 19. Markets served by the entity:
+  a. Number of locations 
+Locations Number
+National (No. of states) Pan India 
+International (No. of countries) 17
+   Note - KPIT is serving clients through offices in Pune, Bengaluru, Kochi, Chennai.
+   KPIT is serving clients across 14 countries – United States of America, Brazil, Germany, France, United Kingdom, 
+Sweden, Spain, Netherlands, Switzerland, Italy, Mexico, Tunisia, Egypt, Thailand, Japan, South Korea, China, 
+and Vietnam.
+  b. What is the contribution of exports as a percentage of the total turnover of the entity?
+   9 0 %
+  c. A brief on types of customers: 
+   KPIT Technologies is a leading independent partner specializing in software development and integration, 
+committed to bringing the vision of software-defined vehicles to life. It serves a wide range of clients, including 
+leading mobility and automotive companies such as Original Equipment Manufacturers (OEMs), suppliers, and 
+other ecosystem participants across the globe. KPIT continues to play a pivotal role in driving innovation within 
+the automotive industry.
+Business Responsibility & Sustainability Report (Contd.)Statutory Reports4 Annual Report 2025-26   In collaboration with major automotive players, KPIT provides advanced technology solutions and services 
+across multiple domains, including Electric and Conventional Powertrains, Advanced Driver Assistance Systems 
+(ADAS) and Autonomous Driving, Digital and Connected Vehicles, Vehicle Networks, AUTOSAR and Middleware, 
+next-generation Vehicle Engineering and Design, as well as Vehicle Diagnostics and Aftersales services. 
+The Company is also in the process of operationalizing and commercializing its breakthrough Sodium-ion 
+technology for applications in mobility and energy storage, along with sustainable electric commercial vehicles 
+(e-CVs).
+IV. Employees
+ 20. Details as at the end of Financial Year: 
+	 	 a.	 Employees	and	 workers	(including	differently 	abled):
+Sr. 
+No.Particulars Total  
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Employees
+1Permanent (D) 8,969 6,223 69% 2746 31%
+2Other than permanent (E) 718 499 69% 219 31%
+3 Total employees (D + E) 9,687 6,722 69% 2965 31%
+Workers
+4Permanent (F) - - - - -
+5Other than permanent (G) 308 235 76% 73 24%
+6 Total workers (F + G) 308 235 76% 73 24%
+	 	 b.	 Differently 	abled	employees	and	 workers:
+Sr. 
+No.Particulars Total
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Differently 	abled	employees
+1Permanent (D) - - - - -
+2Other than permanent (E) - - - - -
+3 Total employees (D + E) - - - - -
+Differently 	abled	workers
+4Permanent (F) - - - - -
+5Other than permanent (G) - - - - -
+6 Total employees (F + G) - - - - -
+ 21. Participation/inclusion/representation of women 
+Total (A) No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 14* 1 7.14%
+Key Management Personnel 3 1 33.33%
+  * Includes late Mr. S. B. (Ravi) Pandit ceased to a director with effect from May 8, 2026. 
+ 22. Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2025-26 
+(Turnover rate  
+in current FY)FY 2024-25 
+(Turnover rate  
+in previous FY)FY 2023-24 
+(Turnover rate in the year 
+prior to the previous FY)
+Male Female Total Male Female Total Male Female Total
+Permanent employee 27% 24% 26% 23% 17% 20% 25% 21% 24%
+Permanent worker Not applicable as KPIT does not have any permanent workers.
+Business Responsibility & Sustainability Report (Contd.)Statutory ReportsAnnual Report 2025-26 5V. Holding, subsidiary and associate companies (including joint ventures)
+ 23. (a) Names of holding / subsidiary / associate companies / joint ventures
+Sr. 
+No.Name of the holding / 
+subsidiary / associate 
+companies / joint ventures (A)Indicate whether Holdings/ 
+subsidiary/ associate/ joint 
+venture% of shares 
+held by 
+listed 
+entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1KPIT Technologies (UK) Limited Subsidiary 100% No
+2KPIT Technologies Netherlands 
+B. V.Subsidiary 100% No
+3KPIT Technologies Holding Inc. Subsidiary 100% No
+4KPIT Technologias Ltda Subsidiary (refer note (i) 
+below)100% No
+5KPIT (Shanghai) Software 
+Technology Co. LimitedSubsidiary 100% No
+6KPIT Technologies GK Subsidiary 100% No
+7KPIT Technologies GmbH. Subsidiary of KPIT 
+Technologies (UK) Limited 
+(refer note (ii) below)100% No
+8KPIT Tech (Thailand) Co., 
+LimitedSubsidiary of KPIT 
+Technologies (UK) Limited 
+(refer note (iii) below)100% No
+9 MicroFuzzy Industrie-Elektronic 
+GmbHWholly-owned subsidiary 
+of KPIT Technologies GmbH100% No
+10KPIT Technologies Inc. Wholly-owned subsidiary 
+of KPIT Technologies 
+Holding Inc.100% No
+11PathPartner Technology Private 
+LimitedSubsidiary 100% No
+12PathPartner Technology Inc. Wholly-owned Subsidiary 
+of PathPartner Technology 
+Private Limited100% No
+13SOMIT Solutions Limited Wholly-owned Subsidiary 
+of KPIT Technologies (UK) 
+Limited100% No
+14SOMIT Solutions Inc. Wholly-owned Subsidiary 
+of SOMIT Solutions Limited100% No
+15Technica Engineering Inc. Wholly-owned subsidiary 
+of KPIT Technologies Inc.100% No
+16Technica Engineering GmbH Wholly-owned subsidiary 
+of KPIT Technologies GmbH100% No
+17 Technica Electronics Barcelona 
+S.L.Wholly-owned subsidiary 
+of KPIT Technologies GmbH100% No
+18Technica Engineering Spain S.L. Wholly-owned subsidiary 
+of KPIT Technologies GmbH100% No
+19KPIT Technologies S.A.S. Wholly-owned Subsidiary 
+of KPIT Technologies 
+Netherlands B. V.100% No

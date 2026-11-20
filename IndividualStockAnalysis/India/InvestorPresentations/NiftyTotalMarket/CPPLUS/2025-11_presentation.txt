@@ -1,0 +1,630 @@
+
+=== page 1 ===
+ 
+ 
+November 1 2, 2025  
+ 
+To,  
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza       Phiroze Jeejeebhoy Towers  
+Plot no. C/1, G Block      Dalal Street  
+Bandra Kurla Complex, Bandra (E)    Mumbai 400 001  
+Mumbai 400 051       
+ 
+Symbol: CPPLUS      Scrip Code: 544466  
+ISIN: INE819V01029      ISIN: INE819V01029  
+ 
+ 
+Dear Sir / Madam,  
+ 
+Sub.: Disclosure  under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015  – Investor Presentation - Financial Results for the quarter  and half year  ended 
+September  30, 2025  
+ 
+Pursuant to provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (“SEBI Listing Regulations"), as amended, please find enclosed herewith the I nvestor s 
+Presentation on the unaudited financial results (standalone & consolidated) of the Company for the 
+quarter  and half year  ended September  30, 2025.  
+ 
+The investor s presentation  will also be hosted on the Company's website viz. 
+https://www.adityagroup.com/  
+ 
+Kindly take the same on record.  
+ 
+For and on behalf of Aditya Infotech Limited   
+ 
+ 
+ 
+Roshni Tandon  
+Company Secretary & Compliance Officer  
+Membership Number: A21150  
+ 
+Encl:  As above  
+=== page 2 ===
+ADITYA INFOTECH LIMITED
+Investor Presentation November -2025
+=== page 3 ===
+Safe Harbour
+This presentation has been prepared byand isthe sole responsibility ofAditya Infotech Limited (the “Company”) .Byaccessing this
+presentation, you areagreeing tobebound bythetrailing restrictions .
+This presentation does not constitute orform part ofany offer orinvitation orinducement tosell orissue, orany solicitation ofany offer or
+recommendation topurchase orsubscribe for,any securities ofthe Company, nor shall itorany part ofitorthe fact ofitsdistribution form
+the basis of,orberelied oninconnection with, any contract orcommitment thereof .Inparticular, this presentation isnot intended tobea
+prospectus oroffer document under the applicable laws ofany jurisdiction, including India .Norepresentation orwarranty, express or
+implied, ismade asto,and noreliance should beplaced on, the fairness, accuracy, completeness orcorrectness ofthe information or
+opinions contained inthis presentation .Such information and opinions areinallevents not current after the date ofthis presentation .There
+isnoobligation toupdate, modify oramend this communication ortootherwise notify the recipient ifthe information, opinion, projection,
+forecast orestimate setforth herein, changes orsubsequently becomes inaccurate .
+Certain statements contained inthis presentation that arenot statements ofhistorical fact constitute “forward -looking statements .”You can
+generally identify forward looking statements byterminology such as“aim”, “anticipate”, “believe”, “continue”, “could”, “estimate”, “expect”,
+“intend”, “may”, “objective”, “goal”, “plan”, “potential”, “project”, “pursue”, “shall”, “should”, “will”, “would”, orother words orphrases ofsimilar
+import .These forward -looking statements involve known and unknown risks, uncertainties, assumptions and other factors that may cause
+theCompany’s actual results, performance orachievements tobematerially different from any future results, performance orachievements
+expressed orimplied bysuch forward -looking statements orother projections .Important factors that could cause actual results,
+performance orachievements todiffer materially include, among others :(a)our ability tosuccessfully implement our strategy, (b)our
+growth and expansion plans, (c)changes inregulatory norms applicable tothe Company, (d)technological changes, (e)investment income,
+(f)cash flow projections, and (g)other risks .
+This presentation isforgeneral information purposes only, without regard toany specific objectives, financial situations orinformational
+needs ofany particular person .The Company may alter, modify orotherwise change inany manner thecontent ofthis presentation, without
+obligation tonotify any person ofsuch change orchanges .
+2
+=== page 4 ===
+3
+Table of Contents
+Financial Highlights Q2 & H1 FY26
+Business Updates
+About Aditya Infotech Ltd.
+Industry Overview
+Business Strategy
+1
+2
+3
+4
+5
+=== page 5 ===
+Management Commentary
+Commenting on the Results, Mr. Aditya Khemka, Managing Director said:
+”Q2FY26marks another strong quarter forAditya Infotech, reflecting ourability toexecute ongrowth priorities and
+capture market share .Revenue grew 37.5%YoYtoINR919.6crore, supported byrobust demand forCPPLUS -branded
+IPcameras and ourextensive STQC -certified portfolio .EBITDA surged 157.6%YoY toINR 111.1crore with margins
+accretion by560bpsYoY to12.0%,driven byafavourable product mix, higher localization, and operating leverage .
+Adjusted Profit After Taxincreased 239.1%YoYtoINR70.0crores .
+ForH1FY26,revenue grew 27.2%YoY toINR 1,659.7crores, while EBITDA rose 102.0%YoY toINR 176.0crores, with
+margins expansion by390bpsYoYto10.6%.Adjusted Profit After TaxforH1FY26stood atINR102.8crores, representing
+anincrease of138.4%YoY.
+The strategic utilization ofIPO proceeds fordebt repayment has significantly strengthened ourbalance sheet,
+reducing ourdebt position from ~INR 466 crores inJune 2025 to~INR 68crores inSept 2025 .This disciplined
+deleveraging approach has delivered substantial interest cost savings, which will further enhance our overall
+profitability and create ample financial flexibility tosupport future growth initiatives .
+Our leadership intheIndian video surveillance market continues tostrengthen, with CPPLUS contributing 86%of
+revenue and IPproducts forming nearly 70%oftheportfolio .Strategic initiatives such ascapacity expansion to2
+million units permonth, thelaunch ofnew brands EYRA and NEXIVIEW, and ourpartnership with L&TSemiconductor
+Technologies forVision AISoC-powered cameras position usforsustained growth .
+With strong industry tailwinds and disciplined execution, weremain confident ofachieving FY26guidance of25-30%
+revenue growth and 10-11%EBITDA margins, creating long-term value forallstakeholders .”Aditya Khemka
+Managing Director
+4
+=== page 6 ===
+Financial Highlights Q2 & H1 FY26 
+
+=== page 7 ===
+ADITYA INFOTECH LIMITED
+Q2 & H1 FY26 FINANCIAL 
+PERFORMANCEINR 919.6 CROREREVENUE
+37.5% YoY GROWTH
+INR 111.1 CROREEBITDA
+157.6% YoY GROWTH
+INR 70.0 CROREPROFIT AFTER TAX
+239.1 % YoY GROWTHQ2 FY26
+INR 1,659.7 CROREREVENUE
+27.2% YoY GROWTH
+INR 176.0 CROREEBITDA
+102.0% YoY GROWTH
+INR 102.8 CROREPROFIT AFTER TAX
+138.4% YoY GROWTHH1 FY26
+
+=== page 8 ===
+Consolidated Profit & Loss Statement
+Rs. in Crore
+7Particulars Q2 FY26 Q2 FY25 YoY (%) H1 FY26 H1 FY25 YoY (%)
+Revenue from Operations 919.6 668.9 37.5% 1,659.7 1,304.9 27.2%
+COGS 645.6 532.7 1,217.7 1,061.2
+Gross Profit 274.0 136.2 101.1% 442.0 243.7 81.3%
+Gross Margin % 29.8% 20.4% 26.6% 18.7%
+Total Expenses 165.5 96.9 272.5 163.6
+Other Income 2.6 3.7 6.6 7.0
+EBITDA 111.1 43.1 157.6% 176.0 87.1 102.0%
+EBITDA Margin % 12.0% 6.4% 10.6% 6.6%
+Depreciation 10.6 5.5 21.0 10.0
+EBIT 100.4 37.6 167.1% 155.0 77.2 100.9%
+EBIT Margin 10.9% 5.6% 9.3% 5.9%
+Finance Costs 6.9 9.7 17.4 18.8
+Profit before Exceptional Items and Tax 93.5 27.9 235.2% 137.6 58.3 135.8%
+Profit before Exceptional Items and Tax (%) 10.1% 4.1% 8.3% 4.4%
+Exceptional Items 0.0 -248.6 0.0 -248.6
+Tax expenses 23.6 42.8 34.7 50.8
+Profit After Exceptional Item and Tax 70.0 233.7 102.8 256.2
+Profit After Exceptional Item and Tax (%) 7.6% 34.7% 6.2% 19.5%
+Exceptional Item2(Net of Deferred Tax) 0.0 -213.1 0.0 -213.1
+Adjusted Profit after Tax3 70.0 20.6 239.1% 102.8 43.1 138.4%
+Adjusted Profit after Tax (%) 7.6% 3.1% 6.2% 3.3%
+EPS 6.24 22.68 9.17 24.87
+1.Margins arecalculated onTotal Income (Revenue from Operations+ Other income)
+2.The exceptional item ofRs248.6Crisrelated totheGain onaccount offairvaluation ofpreviously held equity interest injoint venture AILDixon asatthedate ofacquisition
+3.Adjusted profit after taxforQ2&H1FY25isbefore consideration ofthe exceptional item(net ofDeferred Tax) ofRs213.1Crwhich isrelated tothe Gain onaccount offairvaluation
+ofpreviously held equity interest injoint venture AILDixon asatthedate ofacquisition .
+=== page 9 ===
+Guidance for FY26
+▪ The revenue guidance isdriven by:
+•The overall security industry isexpected togrow ata
+healthy pace of16–17%,providing astrong market
+backdrop
+•The IPsegment isprojected toexpand more rapidly at
+25%+,offering higher -value growth opportunities
+•We expect further market share gains ,strengthening
+ourpositioning and accelerating revenue momentum
+•EBITDA and PAT guidance isdriven by:
+•Strong EBITDA growth supported by brand mix
+improvement and margin expansion inthe CPPlus
+business
+▪ Cost savings from retiring debt using IPO proceeds will
+improve profitability
+▪ Full consolidation ofAIL Dixon (100%from earlier 50%)
+willadd tooperating earnings
+▪ Scaling efficiencies from overall plant operations,
+localization &further backward integration will further
+enhance marginsFY26 Guidance
+Estimated Revenue growth in FY26 ---YoY growth: 25 -30%
+Estimated EBITDA growth in FY26 ---YoY growth: 50%+
+Estimated PAT growth in FY26 ---YoY growth: 75%+
+8Rs in Cr
+Particulars
+(in INR Crore)Actual 
+FY25H1
+FY26Guidance
+FY26E
+REVENUE 3,112 1,660 3,900 -4,100 Cr
+EBITDA 258 176
+EBITDA (%) 8.3% 10.6% 10-11 %
+Adjusted PAT1138 103
+Adjusted PAT (%) 4.4% 6.2% 6-7%
+1.Adjusted profit after taxforFY25isbefore consideration ofthe exceptional item(net ofDeferred Tax) ofRs213.1Crwhich isrelated tothe Gain onaccount
+offairvaluation ofpreviously held equity interest injoint venture AILDixon asatthedate ofacquisition .
+=== page 10 ===
+Business Updates
+
+=== page 11 ===
+Market Trends
+01Limited STQC Certified Brands with limited supplies
+03 Shortages Leading to Further Consolidation Resulting in 
+Further Tailwinds02Chips, Sensors, Storage –Global Supply Chain shortages
+04Price Rise expected across the board in the next few Qtrs.Significant market 
+share gains as per 
+Frost & Sullivan -CP 
+PLUS at 31.4% market 
+share in Q1 FY 26 
+IP Products Market 
+Shares at around 70% 
+
+=== page 12 ===
+Production Capacity Targets for FY -2026
+OPL | Kaizen | Process Audit 
+5S | New MESFactory Automation  & Digitalization1.6 Mn/MonthFY-26 Projection 
+1.8 Mn/Month
+2Mn/Month
+Qtr-2 (A) Qtr-3(E) Qtr-4 (E) 
+
+=== page 13 ===
+Highlights
+Multiple SMT and FA lines added, 
+additions to shed ready for production, 
+capacity to increase 
+Lens and PTZ Module 
+manufacturing set -up made and 
+starting in Q4 FY26
+Molding Plant kick off initiated, commercial 
+operation to start by end of Quarter
+Production Capacity 
+Targets for FY -2026
+=== page 14 ===
+Multi Brand Strategy: 
+Launching in IFSEC 
+Dec’25
+SERIES
+CP PLUS Multi -Series Strategy:
+=== page 15 ===
+Participation in EXPOS & EVENTS
+11TH–13THDEC 2025
+LARGEST EVER 
+SPACE AT
+SQM1000
+PRESENCE IN INDIAN CRICKET FOR THE 
+ENTIRE SEASON BOTH GROUND AND DIGITAL
+TITLE SPONSORSHIP OF
+26THFEB –1STMAR 2025
+
+=== page 16 ===
+Presence in Indian Cricket & at Major Airports
+DELHI  |  MUMBAI   |  KOLKATA   |   AHMEDABAD  |  LUCKNOW   |   JAIPUR   |  UDAIPUR   |   HYDERABAD    |   ASSAM
+
+=== page 17 ===
+Aditya Infotech Limited | Copyright © 20251
+6
+Aditya Infotech Limited
+
+=== page 18 ===
+BOARD OF 
+DIRECTORSHari Shanker Khemka
+Chairman & Whole -time Director
+~30 years of experience in the information technology & 
+electronic video surveillance sector
+Aditya Khemka
+Managing Director
+~30 years of experience in the information technology & 
+electronic video surveillance sector
+Ananmay Khemka
+Whole -time Director
+4+ years of experience in the internet of things sector
+Atul Behari Lall
+Non -Executive Director
+30+ years of experience in the electronic 
+manufacturing services industry sector 
+Vice chairman & managing director on 
+the board of Dixon Technologies (India) 
+Ltd.
+ Ambika Sharma
+Independent Director
+~37 years of experience in the international relations in India’s apex industry 
+body & in a bilateral international organization sector.
+Chetan Kajaria
+Independent Director
+24+ years of experience in the manufacturing sector Currently 
+serving as joint managing director in Kajaria Ceramics Ltd.
+Manish Sharma
+Independent Director
+19+ years of experience in the consumer electronics, 
+manufacturing & technology sector Chairman at 
+Panasonic Life Solutions India Private Limited. 
+Himanshu Baid
+Independent Director
+30 years of experience, Himanshu is the Managing Director of Poly Medicure 
+Limited (POLYMED).
+Board of Directors, Backed by Experienced 
+Management Team
+17
+=== page 19 ===
+23.7% Revenue
+CAGR FY22 -25
+Largest 
+Manufacturer
+of Surveillance 
+Products
+Comprehensive 
+portfolio of electronic 
+security and 
+surveillance products , 
+solution & services, 
+providing end -to-end 
+solution across vertical
+Entrenched 
+Relationships
+Augmenting 
+Technology 
+CompetenciesExperienced 
+Management 
+Team Backed 
+By A Committed 
+Employee Base
+31.4% Market 
+Share of The 
+Video Surveillance 
+Industry In India 1
+2,900+ SKUs 
+Across Varied 
+Price Points
+48 Branch 
+Offices & 13 
+RMA Centers
+800+ Pan 
+India Network -
+Distributors 
+in 500+ Cities 
+including in Tier 
+I, II & III  –Catering 
+to a diversified 
+customer base
+Ranked among 
+the top video 
+security & 
+surveillance
+brands in Asia 1
+CP PLUS World 
+Experience 
+Centers
+Advanced 
+Manufacturing With 
+Research & 
+Development 
+Capabilities
+1. Source: F&S Report; 2. largest manufacturer outside China; 3. for the security & 
+surveillance industry in India; 4. largest manufacturer in terms of units manufactured in 
+FY24 5. Market share in terms of revenue; Note: All data as of FY24Our Core Strengths
+18
+
+=== page 20 ===
+Comprehensive Portfolio, Providing End to End Security 
+Solutions Across Verticals 
+19Smart Home IoT Cloud Cameras
+Upto 4MP Resolution, Full Color, 
+Night Vision Modes, Active 
+Deterrent, 4G Cameras, 
+Floodlight Cameras
+HD Analog Solutions
+Full Color Cameras, 
+Built -In Mic, Higher 
+Resolution, DVRs
+Intelligent Network Cameras
+Upto 12MP, Motorized Zoom, IVS 
+Functions, Smart Codec, SMD, 
+Audio -I/O, Alarm -I/O, Long -Range 
+IR
+Body -Worn Cameras 
+(BWC) 
+Upto 4K Resolution, 
+Online & offline BWC, 
+Support upto 512GB
+Thermal Cameras and long -range 
+IR cameras 
+Smoke/ Fire/Motion Detection, 
+Cold/Hot Spot Tracking, Stainless 
+Steel Housing, IP68
+AI-Powered Cameras & Solution
+AI, ANPR, FR, People
+Counting, Heat map
+Network Video
+Recorders 
+Upto 256Ch. -Upto 24 SATA,
+RAID Supported, Power 
+Redundancy, IVS Supported
+Mobile/ Onboard Surveillance 
+Mobile NVR/DVR Solution,
+Advanced AI -System Supported
+Time -Attendance & Biometric 
+Products 
+Fingerprint and face recognition
+biometric solution powered by 
+AMS (workforce management 
+tool)
+Integrated Central Command & 
+Control Solution 
+Video Wall solution, Storage 
+solutions, EVMS Pro -Integrated 
+VMS platform, Joystick
+Interactive
+Displays
+Upto 86" Interactve Display, OPS 
+Support, Android Platform, 
+Feature rich whiteboard
+Wi-Fi 4G
+Routers
+4G Sim Card support,
+Wi-Fi-802.11b/g/n Support
+Door Lock
+Digital Door Lock with Smart 
+Keypad, Fingerprint Detection, 
+Face Recognition
+Dashcams
+CarKam, CarKam GPS, CarKam 
+with SD Card, CarKam GPS with 
+SD Card
+PoE Switches and other 
+Accessories & Products 
+Monitors, Power Supplies,
+Hard Disks, Cabling, Racks, Electromagnetic Locks, Housing, IR -illuminators
+4G Cameras 
+Wireless, High -Performance 4G 
+Outdoor Cameras, solar Powered 
+Cameras
+
+=== page 21 ===
+Manufacturer of
+Surveillance 
+Products 3rd Largest
+Globally in terms of units 
+manufactured FY 2024 12900+ 
+Employees
+at the Plant
+Reliability
+& Testing Labs SMT linesHigh -speed
+Advanced Manufacturing &
+Research & Development 
+Capabilities with Focus on 
+QUALITY
+1. Source: F&S Report
+=== page 22 ===
+Strategic PartnersCore Tech Partnerships 
+21Dixon Technologies  |  VVDN Technologies  |  L&T Semiconductor Technologies (LTSCT)
+=== page 23 ===
+Industry Overview
+
+=== page 24 ===
+New Government Policies & Impact
+CRO/BIS –Compulsory 
+Registration Order For BIS Govt. Policies
+Standardization Testing & 
+Quality Certification (STQC)
+Public Procurement Order 
+For Govt. Purchases
+PPO
+Largest range of Govt -
+Approved, Cyber -Secured, 
+STQC -Certified Products STQC Update
+Largest range of Govt -Approved, Cyber -
+Secured, STQC -Certified Products 
+=== page 25 ===
+Business Strategy
+
+=== page 26 ===
+
+=== page 27 ===
+CP PLUS IntelliServe –1-
+stop Customer Service & 
+Support CenterNetwork of 48 
+Branch Offices & 13 
+RMA CentersPickup & Drop 
+Services
+Technical Support
+Dealer Meet & 
+Training ProgramWorkshops
+WebinarsMission Tech Certification 
+Training ProgramSERVICE SUPPORTTRAINING & 
+EDUCATIONDistribution & Reach 
+26
+
+=== page 28 ===
+Technology & 
+Innovation 
+DSIR Approved 
+In-house R&D Lab
+Boosting R&D in 
+Hardware, Software 
+& Platform
+CP PLUS AI -Powered 
+Solutions for video analytics
+New R&D Center in 
+Ahmedabad & Setup 
+under progress in Taiwan
+Product portfolio 
+covering Home Products 
+and more
+Integrated platform & 
+mobile app
+27
+
+=== page 29 ===
+CTC
+28
+
+=== page 30 ===
+Awards & 
+Accolades
+Excellence Award for 
+Trusted Brand in 
+Electronics Security & 
+Surveillance
+India’s Leading 
+Security & 
+Surveillance 
+Solutions Provider 
+Best Surveillance 
+Solutions Company 
+of the Year 
+CMO 
+of the Year 
+Business 
+Excellence 
+Award
+Innovative 
+Security Product 
+of the Year Award Most Effective 
+Use of Digital 
+Analytics 
+Brand of the 
+Year Award 2023 
+–2024
+Customer 
+Service CEO of 
+the Year Award 
+Best B2B 
+Customer 
+Experience Award 
+Outstanding 
+Police/
+Law Enforcement 
+Initiative Award 
+Outstanding New 
+Security Product 
+Award 
+Most 
+Admired Brand
+Most Trusted 
+Brand of the Year 
+Award 
+Most 
+Admired BrandCustomer 
+Experience Award
+Leading 
+Surveillance 
+Brand
+Emerging Global 
+Organization of 
+the Year Award
+Customer Service 
+Excellence Award 
+Most Admired 
+Brand 2022
+
+=== page 31 ===
+Awards & Accolades
+YEAR 2025
+NDTV Best 
+Surveillance Brand 
+Award –2025Best Surveillance 
+Brand of the Year at 
+the Business World 
+Security World 
+Awards 2025Business Excellence 
+Award at the 50th 
+ELCINA Awards for 
+Excellence 2025AI-Powered Cyber 
+Security Leader 
+Award at the World AI 
+Awards 2025Product of the Year at 
+the FIST Awards 2025
+Made -in-India 
+Innovation -Security 
+Product of the Year 
+Award at the Secure 
+India Summit 2025CP PLUS Recognized 
+for Excellence in 
+Strategic Electronics 
+Manufacturing by 
+ELCINAUrban Infra CCTV 
+Security Leader of the 
+Year -Urban Infra 
+Awards 2025Mr. Aditya Khemka Honored 
+with the “Pioneer in 
+Surveillance Industry Award 
+2025” -Viksit Delhi Summit & 
+Awards
+Visionary in Surveillance 
+Excellence –Mr. Aditya 
+Khemka ( ITVoice Summit & 
+Awards 2025)Leading Surveillance 
+Brand of the Year –
+ITVoice Summit & 
+Awards 2025Atmanirbhar Bharat 
+Award –DT Partner 
+Excellence Awards 2025Predictive Intelligence 
+Solution of the Year Award at 
+the World AI Awards 2025
+Mr. Aditya Khemka 
+Wins the CX Leader of 
+the Year Award 2025CP PLUS Wins the CX 
+Best Customer 
+Experience Award 
+2025Research & Development 
+Award at the 50th ELCINA 
+Awards for Excellence
+=== page 32 ===
+THANK YOUCompany: Aditya Infotech Limited
+CIN: U74899DL1995PLC066784
+Ms. Dipika Dubey
+ir@adityagroup.com
+www .adityagroup.comInvestor Relations: Strategic Growth Advisors (SGA)
+CIN: U74899DL1995PLC066784
+Mr. Karan Thakker / Mr. Nitin Agarwal
+karan.thakker@sgapl.net
+nitin.agarwal@sgapl.net
++91 81699 62562 / +91 83038 79589
+www.sgapl.net

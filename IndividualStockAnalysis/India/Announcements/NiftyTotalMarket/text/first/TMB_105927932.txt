@@ -1,0 +1,78 @@
+Secretarial Section  
+Head Office, 57 - V.E. Road,  
+Thoothukudi – 628 002.  
+☏: 0461 -2325136  
+e-mail  : secretarial@tmbank.in  
+CIN: L65110TN1921PLC001908   
+ 
+Ref.No.TMB.SE. 79/2024-25            
+                               26.07.2024   
+The Manager,  
+National Stock Exchange of India Ltd,  
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+'G' Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai - 400 051.  The Manager,  
+Bombay Stock Exchange limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street.  
+Mumbai – 400 001.  
+ 
+Ref: Symbol: TMB / Scrip Code: 543596  
+ 
+Dear Sir/Madam,  
+Sub: Intimat ion regarding loss of share certificate s 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, this is to inform you that, our Bank has received intimation from our 
+Registrar and Share Transfer Agent (“RTA”), M/s.  Link Intime  India Private Limited (enclosed 
+herewith) on  26.07.2024 , regardi ng loss of share certificate/s from our shareholder/s , for 
+issue of duplicate share certificate(s) in lieu thereof . The details  are given below:  
+ 
+Name of the Shareholder  Folio 
+No. Certificate  
+No. No of 
+Shares  Distinctive Nos.  
+From  To 
+SIVAJI.S.  8018  11595  1 152488  152488  
+53213  500 24768955  24769454  
+RAMESH.T.  27815  31478  6 235211  235216  
+MARIA JOHNSON.S.  3846  50903  500 21566955  21567454  
+  
+The claim for issue of duplicate share certificate will be considered by the  Committee of 
+Executives, subject to receipt of requisite  documents from the shareholder, which needs to 
+be in order and only after compliance of all the regulatory  formalities.   
+ 
+Kindly take the same on record .  
+ 
+Yours faithfully,  
+For Tamilnad Mercantile Bank Limited  
+ 
+Swapnil Yelgaonkar        
+Company Secretary & Compliance Officer  
+Membership No: ACS 21877  
+
+FROM TO
+26/07/2024 11595 
+26/07/2024 53213 
+26/07/2024 31478 
+26/07/2024 50903 STOP TRAN 
+NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   Tamilnad Mercantile Bank Limited
+STOP TRANSFER REGISTER AS ON 26/07/2024
+From: 26/07/2024 To: 26/07/2024
+---------------------------------------------------------------------------------------------------------------------------
+DISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+152488 1 Duplicate cum 
+Transmission---------------------------------------------------------------------------------------------------------------------------
+ST801616 8018 SIVAJI.S. 11595 152488 
+ST801617 8018 SIVAJI.S. 53213 24768955 
+235216 6 Lost By Holder500 Duplicate cum 
+Transmission24769454 
+ST801620 27815 RAMESH.T. 31478 235211 
+Lost By Holder
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 1007 
+---------------------------------------------------------------------------------------------------------------------------ST801621 3846 MARIA JOHNSON.S. 50903 21566955 21567454 500 

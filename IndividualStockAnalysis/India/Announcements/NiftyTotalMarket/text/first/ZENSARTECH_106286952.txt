@@ -1,0 +1,434 @@
+  
+ 
+ 
+ Zensar Technologies Limited, Zensar Knowledge 
+Park, Plot No. 4, MIDC Kharadi, Off Nagar Road, 
+Pune 411014  www.zensar.com  
+investor @zensar.com  CIN: L72200PN1963PLC 012621  
++(20) 6607 4000, 2700 4000  
++(20) 6605 7888  
+July 1,  2025 
+ 
+BSE Limited  
+Corporate Service Department,  
+01st Floor, P. J. Towers,  
+Dalal Street,  
+Mumbai 400 001  
+ 
+Scrip Code: 504067  National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (E),    
+Mumbai 400 051  
+ 
+ 
+Symbol: ZENSARTECH  
+ 
+ 
+Sub: Business Responsibility and Sustainability Reporting (“BRSR”)  
+ 
+Dear Sir /Madam , 
+ 
+In compliance with Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and  
+Disclosure Requirements) Regulations, 2015, please find enclose d herewith the Business Responsibility and  
+Sustainability Report (‘BRSR’) for  the Financial Year 2024 -25, along with an Independent Practitioners’  
+Reasonable Assurance Report on the sustainability disclosures in the BRSR Core Format (‘Statement’),  issued  
+by Forvis Mazars L LP. The BRSR and Statement both form an  integral part of the Integrated Annual Report of 
+the Company for the Financial Year 2024 -25. 
+ 
+This is for your information and records . 
+ 
+Thanking you,  
+ 
+Yours sincerely,  
+For Zensar Technologies Limited  
+ 
+ 
+   
+Anand Daga  
+Company Secretary  
+  
+Encl.: As above  
+
+Integrated Annual Report 2024-25 1
+Statutory ReportsSection A: General disclosures
+I. Details of the listed entity
+1.Corporate Identity Number (CIN) of the Listed Entity L72200PN1963PLC012621
+2.Name of the Entity ZENSAR TECHNOLOGIES LIMITED
+3.Year of Incorporation 29/03/1963
+4.Registered office address Zensar Knowledge Park, Kharadi, Plot No. 4, MIDC, Off Nagar 
+Road, Pune, 411014, Maharashtra, India
+5.Corporate address Zensar Knowledge Park, Kharadi, Plot No. 4, MIDC, Off Nagar 
+Road, Pune, 411014, Maharashtra, India
+6.E-mail CompanySecretarial@zensar.com
+7.Telephone 020-66057500
+8.Website www.zensar.com
+9.Financial year for which reporting is being done 2024-25
+10.Name of the Stock Exchange(s) where shares are listed National Stock Exchange of India Limited and BSE Limited
+11.Paid-up Capital ` 454,218,824
+12.Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR reportMs. Shubha Kumar
+Contact details: 020-66325090
+Email: sustainability@zensar.com
+13. Reporting boundary
+Are the disclosures under this report made on a 
+standalone basis (i.e., only for the entity) or on a 
+consolidated basis (i.e., for the entity and all the 
+entities which form a part of its consolidated financial 
+statements, taken together).Disclosures made in this report are on consolidated basis 
+unless otherwise stated.
+One of the non-operational entities, i.e., Afore LLC, USA, has 
+not been considered in the reporting boundary
+14.Name of assessment or assurance provider FORVIS MAZARS LLP
+15.Type of assessment or assurance obtained BRSR Core: Reasonable Assurance
+II. Products/services
+16.	 Details	of	business	activities	(accounting	for	90%	of	the	turnover):
+SL. 
+No.Description of Main 
+ActivityDescription of Business Activity%	Of	Turnover	of	the	
+Entity	(FY	2024-25)
+1.IT Services The Company is engaged in providing a complete range of IT Services 
+and Solutions. The Company’s industry expertise spans across 
+Manufacturing, Retail, Media, Banking, Insurance, Healthcare, Technology 
+and Telecommunication. The Company earns revenue primarily from 
+software development, maintenance of software/hardware and related 
+services, and sale of software licenses.100%
+17.	 Products/Services	sold	by	the	entity	(accounting	for	90%	of	the	entity’s	Turnover)
+SL. 
+No.Product/Service NIC Code%	Of	Total	Turnover	
+Contributed
+1Digital Application Services 62013 80%
+2Cloud Infrastructure and Security 20%
+III.	 Operations
+18.	 Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:
+Location Number	of	plants Number	of	offices Total
+National - 10 10
+International - 26 26Annexure	D	to	the	Board’s	Report
+Business	Responsibility	&	Sustainability	Reporting	(BRSR)
+Zensar Technologies Limited 2
+19.	 Markets	served	by	the	entity:
+	 a.	 Number	of	locations
+Locations Number
+National (No. of States) 5
+International (No. of Countries) 16
+	 b.	 What	is	the	contribution	of	exports	as	a	percentage	of	the	total	turnover	of	the	entity?
+  89%
+  Note: The contribution provided is specific to Indian entity only.
+	 c.	 A	brief	on	types	of	customers
+   Zensar is a renowned technology solutions company serving more than 166 clients across the globe. We work 
+with esteemed Fortune 2000 firms across industries such as banking and financial services, insurance, hi-tech, 
+manufacturing, retail, and healthcare. To enhance customer experience, reduce cost of operations and advance 
+digital transformation, these customers often have complex IT infrastructures and require specialized services. 
+Additionally, we collaborate with mid-sized businesses that need scalable, affordable solutions for areas like application 
+development and maintenance, infrastructure management, and data analytics.
+   We partner with technology companies, including Independent Software Vendors (ISVs), hyperscalers, and product 
+development firms for new solutions and technologies. We also work with public sector organizations, including 
+government agencies, to deliver IT solutions and services that help streamline operations, improve citizen services, 
+and enhance data security.
+   We have a global presence and serve customers across different regions, including North America, Europe and South 
+Africa. Overall, our customer base is diverse, spanning across industries and geographies. The company focuses on 
+understanding each customer’s unique needs and delivering tailored IT solutions and services.
+IV.	 Employees
+20.		Details	as	at	the	end	of	Financial	Year:
+i.	 Employees	and	workers	(including	differently	abled):
+S. 
+No.ParticularsTotal	(A) Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+Employees
+1.Permanent (D) 9,975 6,991 70.09% 2,984 29.91%
+2.Other than Permanent (E) 727 538 74.01% 189 25.99%
+3.Total	employees	(D	+	E) 10,702 7,529 70.35% 3,173 29.65%
+Workers
+4.Permanent (F)
+Not Applicable 5.Other than Permanent (G)
+6.Total	employees	(F	+	G)
+ii.		 Differently	abled	Employees	and	workers:
+S. 
+No.ParticularsTotal	(A) Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+Differently	abled	Employees
+1.Permanent (D) 41 35 85.37% 6 14.63%
+2.Other than Permanent (E) 0 0 0 0 0
+3.Total	employees	(D	+	E) 41 35 85.37% 6 14.63%
+Differently	abled	Workers
+1.Permanent (D)
+Not Applicable 2.Other than Permanent (E) 
+3.Total	employees	(D	+	E)
+Note: The data provided pertains to Indian entity only.
+Integrated Annual Report 2024-25 3
+Statutory Reports21.	 Participation/Inclusion/Representation	of	women	
+CategoryTotal	(A) No.	and	percentage	of	
+Females
+No.	(B) %	(B	/	A)
+Board of Directors 9 1 11.11%
+Key Management Personnel (KMP) 3 - -
+  Key Managerial Personnel (KMP) includes the Managing Director (who also serves as CEO), Chief Financial Officer (CFO), 
+and Company Secretary (CS). As the Managing Director & CEO is part of both the Board of Directors (BOD) and the KMP, 
+the Managing Director & CEO is counted under both categories.
+22.		Turnover	rate	for	permanent	employees	and	workers
+CategoryFY24-25
+(Turnover	rate	in	current	FY)FY23-24
+(Turnover	rate	in	previous	
+FY)FY22-23
+(Turnover	rate	in	the	year	
+prior	to	the	previous	FY)
+MaleFemale Total MaleFemale Total MaleFemale Total
+Permanent Employees 24.40% 26.10% 24.90% 25% 24.10% 24.70% 39.20% 37.40% 38.70%
+Permanent Workers Not Applicable
+  Note: Calculation methodology was revised based on SEBI guidelines leading to changes in numbers of Previous 
+Financial years
+V.	 Holding,	Subsidiary	and	Associate	Companies	(including	joint	ventures)
+23.	 (a)	 Names	of	holding	/	subsidiary	/	associate	companies	/	joint	ventures
+S. 
+No.Name	of	the	holding	/	subsidiary	/
+associate	companies	/	joint	ventures	
+(A)Indicate	whether	
+holding/	Subsidiary/	
+Associate/ Joint 
+Venture%	of	shares	
+held	by	
+listed entityDoes the entity indicated at 
+column	A,	participate	in	the	
+Business	Responsibility	initiatives	
+of	the	listed	entity?	(Yes/No)
+1.Zensar Technologies Inc, USA Subsidiary 100 No
+2.Zensar Technologies (UK) Limited, 
+United KingdomSubsidiary 100 No
+3.Zensar (Africa) Holdings Proprietary 
+Limited, South AfricaSubsidiary 75 No
+4.Zensar (South Africa) Proprietary 
+Limited, South AfricaSubsidiary 100 No
+5.Zensar Technologies (Singapore) Pte 
+Limited, Singapore*Subsidiary 100 No
+6.Foolproof Limited, United Kingdom Subsidiary 100 No
+7.Keystone Logic Mexico, S. DE R.L. DE 
+C.V, MexicoSubsidiary 100 No
+8.Zensar Technologies Gmbh, Germany Subsidiary 100 No
+9.Zensar Technologies (Canada) Inc., 
+CanadaSubsidiary 100 No
+10.Zensar Information Technologies B.V., 
+NetherlandsSubsidiary 100 No
+11.Zensar Colombia S A S, Colombia Subsidiary 100 No
+12.M3BI LLC, USA Subsidiary 100 No
+13.M3BI India Private Limited, India Subsidiary 100 No
+14.BridgeView Life Sciences LLC, USA 
+(Acquired on July 24, 2024)Subsidiary 100 No
+15.Afore LLC, USA (inoperative subsidiary 
+of BridgeView Life Sciences LLC, USA)Subsidiary 100 No
+*Foolproof (SG) Pte. Limited has been merged with Zensar Technologies (Singapore) Pte. Limited, w.e.f. April 1, 2024.
+Zensar Technologies Limited 4
+VI.	 Corporate	Social	Responsibility	(CSR)	Details
+24. (i)  Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) – Yes
+ (ii)  Turnover (in `) – 22,261 Mn
+ (iii)  Net worth (in `) – 30,981 Mn
+VII.	 Transparency	and	Disclosures	Compliances
+23.		Complaints/Grievances	 on	any	of	the	principles	 (Principles	 1	to	9)	under	the	National	 Guidelines	 on	Responsible	
+Business Conduct:
+Stakeholder	
+group	from	
+whom	
+complaint	is	
+receivedGrievance	Redressal	
+Mechanism	in	place	(Yes/
+No) (If	Yes,	then	provide	
+web-link	for	grievance	
+redress	policy)FY	2024-25 FY	2023-24
+Number	of	
+complaints	
+filed	during	
+the yearNumber	of	
+complaints	
+pending	
+resolution 
+at close of 
+the yearRemarks Number	of	
+complaints	
+filed	during	
+the yearNumber	of	
+complaints	
+pending	
+resolution 
+at close of 
+the yearRemarks
+Communities Yes
+Grievance Redressal policy: 
+https://www.zensar.com/
+sites/default/files/investor/
+policies-reports-fillings/
+Grievance-Redressal-Policy.
+pdf0 0 - 0 0 -
+Investors 
+(other than 
+shareholders)Yes
+Grievance Redressal policy: 
+https://www.zensar.com/
+sites/default/files/investor/
+policies-reports-fillings/
+Grievance-Redressal-Policy.
+pdf0 0 - 0 0 -
+Shareholders Yes
+Grievance Redressal policy: 
+https://www.zensar.com/
+sites/default/files/investor/
+policies-reports-fillings/
+Grievance-Redressal-Policy.
+pdf6 0 - 0 0 -
+Employees & 
+workersYes
+Grievance Redressal policy: 
+https://www.zensar.com/
+sites/default/files/investor/
+policies-reports-fillings/
+Grievance-Redressal-Policy.
+pdf2 0 - 5 0 -
+Customers Yes
+Grievance Redressal policy: 
+https://www.zensar.com/
+sites/default/files/investor/
+policies-reports-fillings/
+Grievance-Redressal-Policy.
+pdf0 0 - 0 0 -
+Value Chain 
+Partners 
+(Vendors)Yes
+Grievance Redressal policy: 
+https://www.zensar.com/
+sites/default/files/investor/
+policies-reports-fillings/
+Grievance-Redressal-Policy.
+pdf0 0 - 0 0 -
+Integrated Annual Report 2024-25 5
+Statutory Reports24.	 Overview	of	the	entity’s	material	responsible	business	conduct	issues
+  Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+  We conducted a materiality assessment during the year, uncovering three new material aspects: Talent and Skill 
+Management, Diversity and Equal Opportunity, and Supply Chain Management.
+Sr. 
+No.Material 
+issues 
+identifiedIndicate 
+whether	risk	
+or opportunity 
+(R/O)Rationale	for	identifying
+the	risk	/	opportunityIn	case	of	risk,	approach	to	
+adapt	or	mitigateFinancial	implication	of	
+the	risk	or	opportunity	
+(Indicate	positive/	negative	
+implications)
+1.Energy and 
+Emission 
+ManagementOpportunity Efficient energy management 
+presents an opportunity to 
+maximize resource utilization 
+while minimizing environmental 
+repercussions. To this end, 
+our initiatives encompass 
+closely monitoring energy 
+consumption in real-time and 
+identifying ways of reducing 
+energy waste across operations. 
+Concurrently, our focus extends 
+to emissions reduction by 
+augmenting the utilization of 
+green energy sources within our 
+global electricity consumption 
+framework.
+To foster a culture of awareness 
+and innovation, the company is 
+strengthening engagement and 
+communication with employees 
+and partners, highlighting the 
+significance of responsible 
+resource management, and 
+promoting collaborative 
+solutions.Not Applicable Positive: Well-planned 
+energy and emission 
+management strategies help 
+decrease long-term costs 
+while ensuring increasingly 
+sustainable operations 
+for our business and 
+stakeholders. By reducing 
+energy consumption 
+through the deployment of 
+energy-efficient equipment 
+and supporting policies 
+and processes, we foster 
+a culture of sustainability 
+across our organization. 
+These efforts strengthen 
+our market position by 
+adapting to evolving client 
+expectations. By leveraging 
+our expertise in sustainability, 
+low-carbon transformation, 
+and digital/IT solutions, we 
+empower clients to transition 
+to more sustainable practices 
+and reduce their carbon 
+footprints.
+2. Water 
+ManagementRisk Limited water availability poses 
+a significant risk to operational 
+efficiency by restricting 
+access to essential water 
+resources needed for routine 
+functions. These constraints 
+can lead to interruptions in 
+daily processes and diminish 
+overall productivity. As climate 
+patterns shift and drought 
+conditions become more 
+severe, water scarcity emerges 
+as an increasingly critical risk 
+across various regions.Zensar has implemented 
+a comprehensive water 
+management program to 
+address water scarcity risks:
+Wastewater	Treatment	
+and	Reuse: Our in-house 
+sewage treatment plant (STP) 
+recycles 85% of daily water 
+consumption, enabling the 
+reuse of treated water for 
+flushing and gardening.
+Water	Conservation	
+Measures: We have 
+implemented various 
+measures, including 
+groundwater recharge, drip 
+irrigation, and sensor-based 
+taps in restrooms, to optimize 
+water usage and enhance 
+efficiency.
+Rainwater	Harvesting:	
+By employing rainwater 
+harvesting techniques 
+and developing watershed 
+structures, we further reduce 
+water consumption and 
+promote sustainability.Negative: Operations 
+are vulnerable if there is 
+disruption in continuous 
+water availability. Rising 
+water stress could impact 
+local communities and 
+disrupt productivity, 
+potential regulatory scrutiny 
+towards rules and financial 
+consequences.
+By implementing water-
+saving and conservation 
+initiatives, we can enhance 
+resource efficiency across 
+both our operations and the 
+surrounding communities. 
+These efforts help safeguard 
+water availability and 
+support long-term resilience 
+against future demand 
+pressures. Through our water 
+conservation initiatives, we 
+have successfully harvested 
+25,743 KL of water in FY25.

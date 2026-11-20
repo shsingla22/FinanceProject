@@ -1,0 +1,144 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA– 201304, UP, India  
+t: +91 120 4306000  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India 
+ 
+ 
+ 
+ 
+February 20, 2026 
+ 
+ 
+ 
+The General Manager 
+BSE Limited 
+Listing Department 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai- 400 001 
+ 
+ 
+BSE Scrip Code: 532281 The Manager 
+National Stock Exchange of India Limited 
+Listing Department 
+Exchange Plaza 
+5th Floor, Plot No. C-1, Block-G 
+Bandra-Kurla Complex, Bandra(E) 
+Mumbai-400 051 
+ 
+NSE Scrip Code: HCLTECH 
+ 
+ 
+Subject: Release – “HCLTech unveils VisionX 2.0, a next-gen multi-modal AI Edge Platform with 
+NVIDIA” 
+ 
+ 
+Dear Sir/Madam, 
+ 
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+ 
+ 
+This is for your information and records. 
+ 
+ 
+Yours faithfully, 
+For HCL Technologies Limited 
+ 
+ 
+ 
+Manish Anand 
+Company Secretary 
+ 
+ 
+Encl.:a/a 
+ 
+  
+ 
+1 
+ 
+HCLTech unveils VisionX 2.0, a next-gen multi-modal AI Edge Platform with NVIDIA  
+ 
+Noida, India, February 20, 2026 —  HCLTech , a leading global technology company, today 
+unveiled VisionX 2.0, an upgraded version of its multi-modal AI edge platform. This platform 
+delivers real-time intelligence, enhanced safety and operational efficiency at scale for mission-
+critical industrial environments.   
+ 
+VisionX 2.0 builds on HCLTech's award-winning Intelligent Secure Edge capabilities , integrating 
+advanced computer vision, vision language models (VLMs), multi-modal fusion and edge-
+optimized generative AI. It harnesses the NVIDIA physical AI computing stack, including  NVIDIA 
+Blueprint for video search and summarization (VSS) , NVIDIA DeepStream , NVIDIA Cosmos 
+Reason VLM and NVIDIA TAO for post-training vision models for unparalleled pe ęormance.  
+ 
+Purpose-built for demanding industrial use cases, VisionX 2.0 introduces several innovations:  
+● On-Prem Edge AI Pe ęormance : Real-time inference at the edge via NVIDIA Jetson , 
+NVIDIA RTX  PRO 6000 Blackwell  GPUs, and Dell NativeEdge deployments. This 
+eliminates bandwidth bo ělenecks, safeguards data  privacy, and suppo Ěs sensitive 
+industrial operations.  
+● Multi-Modal AIoT Engine : Analyzes video, audio, images, LiDAR, stereo cameras, and IoT 
+telemetry streams to detect events, anomalies, safety violations, and risks with superior 
+accuracy.  
+● VSS Event Reviewer for Reliable Verification : Select computer vision clips are sent to 
+Cosmos Reason to detect false positives, engage in additional NLP based reasoning to 
+deliver scene-level insights, and boost decision-making confidence.  
+● Zero-Trust Edge Security : Features Zero-Trust architecture and Zero-Touch  Provisioning 
+on Dell NativeEdge OS for secure, scalable rollouts across distributed sites.  
+● Seamless Integration : Compatible with existing cameras, Video Management Systems 
+(VMS), and sensors via a robust, flexible Integration layer  
+ 
+“With VisionX 2.0, HCLTech is redefining how intelligence is delivered at the industrial edge,” 
+said Vijay Guntur, CTO and Head of Ecosystems at HCLTech. “By combining our deep expe Ěise 
+in secure edge engineering with NVIDIA AI infrastructure and AI models, we are enabling 
+enterprises to move from reactive monitoring to real-time, trusted decision-making agents, 
+where milliseconds ma ěer. VisionX 2.0 empowers organizations to achieve safer operations, 
+higher efficiency and scalable AI outcomes without compromising on security or pe ęormance.”  
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+“The next wave of industrial transformation is being driven by Physical AI—real-time, multi-
+modal intelligence that elevates pe ęormance, safety, and autonomy across global operations,” 
+said Deepu Talla, vice president, Robotics and Edge AI at NVIDIA. “By leveraging NVIDIA 
+Metropolis and NVIDIA Omniverse, HCLTech’s VisionX 2.0 platform provides enterprises with a 
+trusted, scalable foundation to deploy high-pe ęormance AI at the industrial edge.”  
+ 
+HCLTech’s Physical AI  poĚfolio brings together the power of Kinetic AI (Cognitive Robotics), 
+Autonomous Systems and Edge AI to drive productivity, resilience and sustainability in real-
+world environments.  
+ 
+About HCLTech  
+HCLTech  is a global technology company, home to more than 226,300 people across 60 
+countries, delivering industry-leading capabilities centered around AI, digital, engineering, 
+cloud and software, powered by a broad po Ěfolio of technology services and products. We 
+work with clients across all major ve Ěicals, providing industry solutions for Financial Services, 
+Manufacturing, Life Sciences and Healthcare, High Tech, Semiconductor, Telecom and Media, 
+Retail and CPG, Mobility and Public Services. Consolidated revenues as of 12 months ending 
+December 2025 totaled $14.5 billion. To learn how we can supercharge progress for you, 
+visit hcltech.com . 
+ 
+For fuĚher details, please contact:  
+ 
+HCLTech  
+ 
+Meredith Bucaro, Americas  
+meredith-bucaro@hcltech.com  
+ 
+Elka Ghudial, Europe  
+elka.ghudial@hcltech.com  
+ 
+James Galvin, APAC  
+james.galvin@hcltech.com  
+ 
+Nitin Shukla, India, Middle East and Africa  
+nitin-shukla@hcltech.com  
+ 
+ 

@@ -1,0 +1,245 @@
+ 
+ 
+Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India  
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai –  400 001 
+Tel: 91 92289  18171 email: investor.relations@tatacommunications.com  
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com  
+HQ/CS/CL.24B/184 72 
+July 22, 202 6  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Mumbai – 400 051  
+SYMBOL: TATACOMM  BSE Limited  
+P.J. Towers, Dalal Street,  
+Mumbai – 400 001 
+Scrip Code: 500483  
+ 
+Dear Sir / Madam,  
+ 
+Sub:  Outcome of Board Meeting held on July 22, 2026 . 
+ 
+Pursuant to Regulation s 30, 33, 51 and 52 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015  we enclose herewith the Unaudited Standalone and 
+Consolidated Financial Results of the Company for the quarter ended June  30, 2026 , which have 
+been approved and taken on record at the meeting of the Board of Directors of the Company held 
+today (Attachment A).  
+ 
+We would like to state that M/s. S.R. Batliboi & Associates, LLP, Statutory Auditors of the 
+Company, have issued a Limited Review Report with an unmodified opinion on the above-
+mentioned financial results (Attachment B).  
+ 
+A press release in this regard is also enclosed (Attachment C) .  
+  
+The aforesaid documents are also placed on the website of the Company at 
+www.tatacommunications.com/investors/results .  
+ The meeting of the Board of Directors commenced at 1 0:30 AM IST and concluded at 1:0 0 PM 
+IST. 
+ 
+This is for your information and records. 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Communications Limited  
+  
+    
+Zubin Adil Patel  
+Company Secretary and Compliance Officer   
+ 
+Encl: As Above 
+Page 1of 11
+TATA COMMUNICATIONS LIMITED
+REGD. OFFICE:  VSB, M.G. ROAD, FORT, MUMBAI-400001.
+                    
+                 ( in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER 
+ENDED JUNE 30, 2026
+ParticularsFor the quarter endedFor the year 
+ended
+(refer note 6)
+June 30
+2026March 31
+2026June 30
+2025March 31 
+2026
+(Refer notes below) (Unaudited) (Refer note 2) (Unaudited) (Audited)
+1 Income from operations 6,582.82 6,554.15 5,959.85 24,802.72
+2Other income, net 12.94 42.58 17.10 301.73
+3 Total income (1 + 2) 6,595.76 6,596.73 5,976.95 25,104.45
+4 Expenses
+a. Network and transmission expenses 3,144.09 3,081.10 2,729.07 11,361.83
+b. Employee benefits expenses 1,239.73 1,240.10 1,217.77 4,938.93
+c. Finance costs 185.90 181.69 176.53 761.60
+d. Depreciation and amortisation expenses 739.44 730.99 665.69 2,826.74
+e. Other expenses 968.86 949.02 876.20 3,679.50
+Total expenses (4a to 4e) 6,278.02 6,182.90 5,665.26 23,568.60
+5Profit before exceptional items, tax & share in profit 
+of associates (3 - 4)317.74 413.83 311.69 1,535.85
+6 Exceptional items gain/ (loss) (Refer note 3) (106.36) 20.26 (20.44) (97.96)
+7Profit before tax and share in profit of associates 
+(5 + 6)211.38 434.09 291.25 1,437.89
+8Tax expense/(benefit): (Refer notes 8)
+  a. Current tax 116.06 192.21 120.40 612.24
+  b. Deferred tax (30.05) (8.94) (54.97) (180.62)
+9 Profit before share in profit of associates (7 - 8) 125.37 250.82 225.82 1,006.27
+10 Share in profit of associates 4.35 8.45 6.51 32.77
+11Profit after tax for the period/year from continuing 
+operations (9 + 10)129.72 259.27 232.33 1,039.04
+12 Loss on sale of subsidiary (refer note 6) - - (42.19) (42.19)
+13 Loss after tax from discontinued operations - - (42.19) (42.19)
+14 Profit for the period /year (11+13) 129.72 259.27 190.14 996.85
+Attributable to:
+Equity holders of the parent 134.23 263.25 189.98 1,001.57
+Non-controlling interest (4.51) (3.98) 0.16 (4.72)
+Page 2of 11
+                (in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER 
+ENDED JUNE 30, 2026
+ParticularsFor the quarter endedFor the year 
+ended
+(refer note 6)
+June 30
+2026March 31
+2026June 30
+2025March 31
+2026
+(Refer notes below) (Unaudited) (Refer note 2) (Unaudited) (Audited)
+15Other Comprehensive Income/(loss) (net of tax) 
+(refer note 7)(36.55) (132.24) 60.38 102.24
+Attributable to:
+Equity holders of the parent (37.94) (141.26) 60.36 91.79
+Non-controlling interest 1.39 9.02 0.02 10.45
+16Total Comprehensive income for the period/year 
+(14+15)93.17 127.03 250.52 1,099.09
+Attributable to:
+Equity holders of the parent 96.29 121.99 250.34 1,093.36
+Non-controlling interest (3.12) 5.04 0.18 5.73
+17Paid up equity share capital (Face value of 10 per 
+share)285.02 285.00 285.00 285.00
+18 Reserves excluding Revaluation reserve 2,955.98
+19Earnings per share (of 10/-each) (not annualised)
+Continuing operations
+(i) Basic () 4.71 9.24 8.15 36.62
+(ii) Diluted earnings per share () 4.70 9.22 8.13 36.56
+Discontinued operations
+(i) Basic () - - (1.48) (1.48)
+(ii) Diluted earnings per share () - - (1.48) (1.48)
+Continuing and Discontinued operations
+(i) Basic () 4.71 9.24 6.67 35.14
+(ii) Diluted earnings per share () 4.70 9.22 6.65 35.08
+      
+Page 3of 11
+B. Consolidated Business Segment Information:
+i. Consolidated Segment wise revenue and results:                                                                                               
+                                                                                                                                                                                                                                        ( in crores)
+ParticularsFor the quarter endedFor the year ended
+(refer note 6)
+June 30 2026 March 31 2026 June 302025 March 31 2026
+(Unaudited) (Refer note 2) (Unaudited) (Audited)
+Income from operations
+Voice Solutions 381.95 387.56 394.54 1,561.23
+Data Services 5,703.58 5,704.61 5,151.72 21,440.61
+Transformation Services 194.59 225.72 224.01 959.34
+Real Estate 51.99 51.45 52.04 207.38
+Campaign Registry 258.70 235.31 189.38 844.30
+Less: Inter Segment Revenue (7.99) (50.50) (51.84) (210.14)
+Total 6,582.82 6,554.15 5,959.85 24,802.72
+Segment result
+Voice Solutions 20.61 17.76 37.38 116.16
+Data Services 250.56 346.87 239.29 1,180.51
+Transformation Services 44.38 39.49 43.28 170.37
+Real Estate 28.01 23.54 28.24 105.92
+Campaign Registry 147.14 125.28 122.93 422.76
+Total 490.70 552.94 471.12 1,995.72
+Less: 
+(i) Finance Costs 185.90 181.69 176.53 761.60
+(ii) Other un-allocable (income) net of un-
+allocable expenditure93.42 (62.84) 3.34 (203.77)
+Profit before tax and share in profit of 
+associates from continuing operations211.38 434.09 291.25 1,437.89
+Page 4of 11
+ii.Consolidated Segment Assets and Liabilities:
+                                                                                                                                                                                                   (in crores)
+ParticularsAs at
+June 30
+2026March 31
+2026June 30
+2025
+(Unaudited) (Audited) (Unaudited)
+Segment Assets
+Voice Solutions 279.06 264.35 256.21
+Data Services 20,973.28 20,305.91 19,287.65
+Transformation Services 320.30 294.18 432.00
+Real Estate 228.13 225.09 233.09
+Campaign Registry 976.83 975.22 914.67
+22,777.60 22,064.75 21,123.62
+Unallocated Assets 6,049.69 6,339.19 6,004.53
+Total Segment Assets 28,827.29 28,403.94 27,128.15
+Segment Liabilities
+Voice Solutions 325.69 349.95 320.46
+Data Services 11,195.17 11,509.38 10,354.42
+Transformation Services 183.54 221.81 251.63
+Real Estate 69.84 67.77 74.85
+Campaign Registry 140.19 175.31 44.51
+11,914.43 12,324.22 11,045.87
+Unallocated Liabilities 13,171.99 12,428.62 12,795.74
+Total Segment Liabilities 25,086.42 24,752.84 23,841.61
+iii. Notes to Segments:  
+comprise of Voice Solutions, Data Services, Transformation services, Real Estate & Campaign Registry. The 
+composition of the operating segments is as follows:
+Voice Solutions includes International and National Long Distance Voice services.
+Data Services includes Core connectivity services and Digital platforms & connected services. (Refer note 6).
+Transformation Services includes the business of providing telecommunication network management and 
+Communications Transformation Services Limited and its subsidiaries. 
+Campaign Registry includes the business of collecting robotically driven campaign information and processing 
+and sharing that information with mobile operators and the messaging ecosystem to reduce spam. These services 
+are carried out by the wholly owned indirect subsidiary of the Company.
+Real Estate segment comprises lease rentals for premises given on lease.
+Page 5of 11
+C. Notes to consolidated financial results:
+1.The above consolidated unaudited financial results of the Group for the quarter ended June 30, 2026 have 
+been subjected to a limited review by the statutory auditors. These results have been reviewed by the audit 
+committee and taken on record and approved by the Board of Directors at their meeting held on July 22, 
+2026.
+2.The figures of the quarter ended March 31, 2026 are the balancing figures between the audited figures in 
+respect of the full financial year,and the published figures of nine months ended December 31, 2025, which 
+were subjected to limited review by the statutory auditors.
+3.Details of exceptional items are listed below:
+                                                                                                                                     (in crores)
+ParticularsFor the quarter endedFor the year 
+ended
+June 30
+2026March 31
+2026June 30
+2025March 31 
+2026
+1. Staff cost optimization (Refer note a) (44.78) 19.86 (20.44) (114.64)
+2. Refer note b) - - - 77.26
+3. Statutory impact of new Labour Codes (Refer note c) 18.52 0.40 - (60.58)
+4. Accidental damages (Refer note d) (30.10) - - -
+5. Provision for contractual obligation (Refer note e) (50.00) - - -
+Total (106.36) 20.26 (20.44) (97.96)
+a) As part of its initiative to enhance the long-term efficiency of the business, the Group is undertaking 
+organisational changes to align its current and prospective business requirements in a phased manner. 
+These changes involves certain positions in the Group becoming redundant and accordingly, the Group 
+has incurred a one-time charge with respect to staff cost optimization.
+b) During the year ended March 31, 2026, the Group concluded the sale of few of its properties, the gain 
+from which is disclosed under exceptional items.
+c) On November 21, 2025, the Government of India has implemented four new Labour Codes (the " Labour 
+best information available, the Group carried out the actuarial valuation of gratuity and long-term 
+compensated absences and recorded a provision of 60.58 crores primarily arising from the change in 
+During the quarter ended June 30, 2026, based on 
+discussions with experts, the Group has revised its estimates and performed an actuarial assessmentwhich 
+resulted into reversal of the provision by 18.52 crores.
+d) During the quarter ended June 30, 2026, the Group recognized a provision for losses arising from a fire 
+incidentat a co-located third party data centre premise basis the available information/estimate.
+e) During the quarter ended June 30, 2026, the Group has made provision towards certain amounts based 
+on management's assessment of their recoverability under the contractual obligations.
+4.As -
+7,844.57 crores for financial years 
+(FY) ranging from FY 2005-06 to FY 2024-25 which have been revised over a period of time. These demand 
+notices include 276.68 crores towards disallowance of deductions claimed by the Company on payment 
+basis for FY 2010-11 under ISP license and FY 2006-07 & FY 2009-10 under NLD license ( three years ).
+The Company has existing appeals relating to its ILD, NLD & ISP licenses which were filed in the past and 

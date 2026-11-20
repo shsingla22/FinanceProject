@@ -1,0 +1,256 @@
+  
+TSF INVESTMENTS LIMITED  
+(formerly known as Sundaram Finance Holdings Limited)  
+ 
+Regd. Office: 21, Patullos Road, Chennai – 600 002, India CIN: L65100TN1993PLC025996  
+Ph: +91 44 2888 1311  www.tsfinvestments.com  
+ SEC: 003:26-27/TS/19.05.2026  
+National Stock Exchange of India Limited  
+Listing Department Exchange Plaza,  
+5th Floor, Plot no. C/1, G- Block,  
+Bandra-Kurla Complex,  
+Mumbai – 400 051.  
+ 
+NSE SYMBOL: TSFINV  
+Dear Sir/Madam,  
+ 
+Sub:  Disclosure under Reg. 30 and 33 read with Sch. III of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 
+ 
+Re:  Submission of Audited financial results for the year ended 31st March 
+2026 
+ 
+We have pleasure in enclosing the Audited Standalone and Consolidated financial 
+results for the year ended 31st March 2026, prepared in accordance with the formats 
+prescribed in Sch. III to the Companies Act, 2013, as approved at the Board Meeting 
+held today, together with the following: 
+ 
+1. A statement of Assets and Liabilities as on 31st March 2026;  
+2. Segment information in respect of Consolidated Accounts for the year ended 
+31st March 2026;  
+3. Copies of the Statutory Auditors’ Reports on the Standalone and Consolidated 
+Financial Results.  
+As required under Proviso 2 to Reg. 33(3)(d) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, the Company hereby declares that the 
+Statutory Auditors have expressed an unmodified opinion on the Standalone and 
+Consolidated financial results for the year ended 31.03.2026. 
+ 
+We have also made arrangements for publishing the extract of the audited financial 
+results in ‘Financial Express’ and ‘Makkal Kural’ on 20th May 2026. 
+ 
+The meeting commenced at 05:00 p.m. and concluded at 07:40 p.m.  
+ 
+Thanking you, 
+ 
+Yours truly, 
+For TSF Investments Limited 
+ 
+S. Kalyanaraman 
+Secretary & Compliance Officer § INVESTMENTS 
+§ INVESTMENTS TSF INVESTMENTS LIMITED 
+(FORMERLY KNOWN AS SUNDARAM FINANCE HOLDINGS LIMITED) 
+STATEMENT OF AUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED 31ST MARCH 2026 
+{'( in lakhs) 
+QUARTER ENDED YEAR ENDED 
+SI. Particulars 31.03.2026 31.03.2025 31.12.2025 31.03.2026 31.03.2025 No. (Audited) (Audited) 
+(Refer Note 5) (UnAudited) (Refer Note S) (Audited) (Audited) 
+1 Revenue from Operations 
+-Interest Income 22.25 - - 22.25 118.99 
+-Dividend Income 4,779.26 3,355.09 6,115.59 20,767.25 20,952.25 
+-Net Fair value gain/{loss) on financial instruments through FVTPL 1,754.03 2,090.11 1,781.90 8,052.97 6,204.84 
+-Gain on derecognition of financial instruments under amortised cost - - 2.29 
+-Sale of services 5.07 - 319.12 
+2 Other Income 68.49 70.12 75.81 284.22 269.76 
+3 Total Income 6,624.03 5,515.32 7,978.37 29,126.69 27,867.25 
+4 EXPENSES : 
+a) Finance cost - 1.44 
+b) Loss on derecognition of financial instruments under amortised cost - 2.00 -
+c) Employee benefits expense 41.98 53.52 57.84 180.29 382.55 
+d) Depreciation and Amortisation 5.24 5.32 5.39 21.38 34.86 
+e) Administrative and Other Expenses 119.05 141.82 199.15 868.69 570.90 
+Total Expenses 166.27 200.66 262.38 1,072.36 989.75 
+5 Profit before exceptional items and tax 6,457.76 5,314.66 7,715.99 28,054.33 26,877.50 
+6 Exceptional items -
+7 Profit before tax 6,457.76 5,314.66 7,715.99 28,054.33 26,877.50 
+8 Tax Expense 
+-Current tax {403.75) 361.98 1,185.36 1,467.00 2,857.23 
+-Deferred tax (56.78) 505.17 361.31 1,023.64 419. 75 
+9 Profit after Tax 6,918.29 4,447.51 6,169.32 25,563.69 23,600.52 
+10 Other Comprehensive Income 
+A {i) Items that will not be reclassified to profit or loss {76,535.73) 440.61 (1,33,413.81) 55,915.72 40,101.47 
+{ii) Income tax relating to items that will not be reclassified to 
+profit or loss {10,432.85) 815.08 {19,088.10) 9,754.62 {22,658.14) 
+B {I) Items that will be reclassified to profit or loss . . {17.57) 
+{ii) Income tax relating to items that will be reclassified to 
+profit or loss . {4.42) 
+Total Other Comprehensive lncome/{Loss) (66,102.88) (374.47) (1,14,325. 71) 46,161.10 62,746.46 
+11 Total Comprehen sive lncome/{Lo ss) for the period {59,184.59) 4,073.04 {1,08,156.39) 71,724.79 86,346.98 
+12 Basic and Diluted Earnings per Equity Share{'() 3.11 2.00 2.78 11.51 10.63 
+{not annualised for the quarterly periods) 
+8 INVESTMENTS TSF INVESTMENTS LIMITED 
+(FORMERLY KNOWN AS SUNDARAM FINANCE HOLDINGS LIMITED) 
+STATEMENT OF AUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED 31ST MARCH 2026 
+Notes: 
+1 As required under Proviso 2 to Regulation 33(3)(d) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015,the statutory auditors have 
+expressed an unmodified opinion on the standalone financial results. 
+2 The above results were reviewed by the Audit Committee and approved by the Board of Directors at the respective meetings held on May 19, 2026. 
+3 The Board of Directors has recommended a final dividend of Rs.4.45/- per share (89%). This together with an Interim dividend of Rs.6.70/- per share (134%) 
+paid during the month of February 2026 aggregates to a total dividend of Rs.11.15/-per share (223%) for the finan_cial year 202S-26. 
+4 On November 21, 2025, the Government of India notified four new Labour Codes. The incremental impact of these changes, based on actuarial valuation and 
+the management's best estimate, has been recognised in the standalone financial results of the Company for the year ended March 31, 2026 and is not 
+material. 
+5 The figures for the quarter ended March 31, 2026 and March 31, 2025 are the balancing figures between the audited figures for the respective financial years 
+and the published unaudited year-to-date figures up to the third quarter of the relevant financial years. 
+f;_L 
+Chairman 
+Chennai 
+May 19,2026 
+TSF Investments Limited (Formerly known as Sundaram Finance Holdings Limited) 
+CIN:L65100TN1993PLC025996 
+Regd. Office: 21, Patullas Raad, Chennai 600 002 
+Tel: 044 2852 1181, Fax: 044 2858 6641 
+Email: investorservices@tsf investments.com 
+www.tsfinvestments .com 
+§ INVESTMEN TS 
+TSF INVESTMENTS LIMITED 
+{FORMERLY KNOWN AS SUNDARAM FINANCE HOLDINGS LIMITED) 
+STATEMENT OF AUDITED STANDALONE ASSETS AND LIABILITIES 
+(" in lakhs) 
+As at 
+Particulars 31.03.2026 31.03.202S 
+(Audited) (Audited) 
+ASSETS 
+{1) Financial Assets 
+(a) Cash and cash equivalents 27.40 20.81 
+(b) Bank Balances other than (a) above 211.92 109.03 
+(cl Receivables - 0.64 
+(d) Loans 0.06 2.06 
+(e) Investments 7,62,087.06 7,33,756.80 
+(f) Other financial assets 18.69 1,178.48 
+(2) Non-financial Assets 
+(a) Current Tax Assets (Net) 237.68 214.97 
+(b) Investment property 2,076.98 1,917.87 
+(c) Property, plant and equipment 143.75 169.83 
+(d) Capital work-in-progress 54.26 -
+(e) Other non-financial assets 138.56 20.86 
+Total Assets 7,64,996.36 7,37,391.35 
+LIABILITIES AND EQUITY 
+LIABILITIES 
+(1) Financial liabilities 
+(a) Payables 
+Trade Payables 
+(i) Total outstanding dues of micro enterprises and small 
+enterprises - 6.27 
+(ii) Total outstanding dues of creditors other than micro 
+enterprises and small enterprises - 2.61 
+(b) Other financial liabilities 251.53 251.92 
+(2) Non-Financial liabilities 
+(a) Provisions 98.41 149.57 
+(b) Deferred tax liabilities (Net) 70,259.86 69,340.55 
+(c) Other non-financial liabilities 11.06 17.65 
+(3) Equity 
+(a) Equity share capital 11,105.19 11,105.19 
+(b) Other equity 6,83,270.31 6,56,517.59 
+Total Liabilities and Equity 7,64,996.36 7,37,391.35 
+8 INVESTMENTS 
+TSF INVESTMENTS LIMITED 
+(FORMERLY KNOWN AS SUNDARAM FINANCE HOLDINGS LIMITED) 
+AUDITED STANDALONE CASH FLOW STATEMENT 
+(~ in lakhs) 
+For the Year For the Year 
+Particulars ended ended 
+31 Mar 2026 31 Mar 202S 
+Cash flow from operating activities 
+Profit before tax 28,0S4.33 26,877.50 
+Adjustments to reconcile profit before tax to net cash used in operating 
+activities 
+Depreciation and Amortisation 21.38 34.86 
+lmpairment/(Reversal of Impairment) on Financial Instruments - (2.44) 
+Fair value change in financial instruments (8,052.97) (6,204.84) 
+Interest income from Investments (22.25) (118.99) 
+(Gain)/Loss on sale/scrap of property, plant and equipment 4.85 (1.07) 
+ESOP contribution scheme of Parent company - 0.57 
+Fina nee costs pa id - 1.44 
+Dividend Received/(Receivable) 1,162.93 (1,162.93) 
+(Gain)/Loss on derecognition of financial instrument 2.00 (2.29) 
+Net Actuarial gain/(loss) on defined benefit plan - 4.91 
+Gain on lease modification - (5.09) 
+21,170.27 19,421.63 
+Working capital adjustments 
+(lncrease)/Decrea se in Trade and other receivables 0.64 92.15 
+(lncrease)/Decrease in Loans - (0.92) 
+{lncrease)/Decrease in Other financial assets 15.85 7.49 
+(lncrease)/Decrea se in Other non-financial assets (117.70) 13.14 
+(lncrease)/Decrease in Bank Balances other than cash and (102.89) cash equivalents -
+lncrease/(Decrease) in Trade and other payables (8.88) (4.52) 
+lncrease/(Decrease) in Financial liabilities (0.39) 86.50 
+lncrease/(Decrease) in Non-financial liabilities and provisions (50.47) (64.67) 
+20,906.43 19,550.80 
+Income Tax paid (504.57) {3,020.69) 
+Net cash flows from operating activities 20,401.86 16,530.11 
+Cash flow from investing activities 
+Purchase and construction of property, plant and equipment (220.79) (31.93) 
+(Purchase)/Sale of Mutual funds and Alternative Investment Funds (net) (31,082.81) (18,441.22) 
+(Purchase)/Sale of other investments (net) 37,173.85 7,310.08 
+Proceeds from sale of property, plant and equipment 7.28 1.22 
+Interest received 3.25 177.21 
+5,880.78 {10,984.64) 
+Income Tax paid (6,619.86) (923.33) 
+Net cash flows from investing activities (739.08) (11,907.97) 
+Cash flow from financing activities 
+Dividend Paid (19,656.19) (20,877.76) 
+Lease Liability Principal paid - {9.58) 
+Lease Liability Interest paid - {1.44) 
+Net cash flows from financing activities (19,656.19) {20,888.78) 
+Net increase/(decrease) in cash and cash equivalents 6.59 (16,266.64) 
+Cash and cash equivalents at the beginning of the year 20.81 16,287.45 
+Cash and cash equivalents at the end of the year 27.40 20.81 
+§ INVESTMENTS TSF INVESTMENTS LIMITED 
+(FORMERLY KNOWN AS SUNDARAM FINANCE HOLDINGS LIMITED) 
+STATEMENT OF AUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED 31ST MARCH 2026 
+(~ in lakhs) 
+QUARTER ENDED YEAR ENDED 
+SI. Particulars 31.03.2026 31.03.2025 
+(Audited) 31.12.2025 31.03.2026 31.03.2025 No. (UnAudited) (Audited) (Audited) (Audited) (Refer Note 7) (Refer Note 7) 
+1 Revenue from Operations 
+-Interest Income 160.55 152.60 67.98 546.35 321.59 
+-Dividend Income 281.35 - 1,557.69 281.35 2,869.03 
+-Fair value gain/(loss) on financial instruments through FVTPL 1,775.99 2,131.57 1,820.82 8,290.80 6,319.81 
+-Gain on derecognition of financial instruments under amortised cost - - 2.29 
+-Sale of Products 23,480.70 20,060.46 - 75,909.74 
+-Sale of services 2,739.82 2,493.94 1,488.68 9,443.34 5,946.24 
+-Other Operating Revenue 1,318.57 1,008.28 - 4,017.45 -
+2 Other income 945.65 239.74 187.39 1,855.61 543.79 
+3 Total Income 30,702.63 26,086.59 5,122.56 1,00,344.64 16,002.75 
+4 EXPENSES : 
+Finance cost 693.55 681.65 24.65 2,521.61 109.00 
+Loss on derecognition of financial instruments under amortised cost - 2.00 
+Cost of Materials Consumed 13,368.67 11,962.61 - 44,736.00 
+Changes in Inventories of finished goods and work-in-progress 1,933.96 726.00 - 3,267.47 
+Employee benefits expense 3,331.46 3,567.29 709.70 12,394.80 2,527.45 
+Depreciation and Amortisation 429.85 430.00 76.16 1,601.43 300.29 
+Administrative and Other Expenses 5,391.02 4,737.17 499.84 17,774.70 1,353.77 
+Total Expenses 25,148.51 22,104.72 1,310.35 82,298.01 4,290.51 
+5 Profit/ (Loss) before exceptional items,share of profit from 5,554.12 3,981.87 3,812.21 18,046.63 11,712.24 associates and tax 
+6 Exceptional items - - -
+7 Profit/ (Loss) before tax 5,554.12 3,981.87 3,812.21 18,046.63 11,712.24 
+8 Tax Expense 
+-Current tax 569.82 1,082.51 1,322.90 4,625.71 3,581.18 
+-Deferred tax (77.53) 405.15 364.09 921.92 415.92 
+9 Profit/(Loss) after Tax 5,061.83 2,494.21 2,125.22 12,499.00 7,715.14 
+10 Share of profit from associates (net) 11,361.37 7,978.54 8,587.24 36,423.04 33,493.54 
+11 Gain/(Loss) from fair valuation of previously held equity interest on - - 4,098.73 -account of business combination 
+12 Profit after Tax and share of profit from associates 16,423.20 10,472.75 10,712.46 53,020.77 41,208.68 
+13 Total Other Comprehensive lncome/(Loss) (net of tax) (7,890.90) 8,504.03 (23,271.01) 6,954.84 61,025.72 
+14 Total Comprehen sive lncome/(Lo ss) for the period 8,532.30 18,976.78 (12,558.55) 59,975.61 1,02,234.40 
+15 Net Profit/(Loss) attributable to 
+Owners of the company 16,107.15 10,304.55 10,714.07 52,177.68 41,210.29 
+Non-controlling Interest 316.05 168.20 (1.61) 843.09 (1.61) 
+16 Other comprehens ive income attributable to 
+Owners of the company (7,882.48) 8,509.05 (23,270.82) 6,968.94 61,025.91 
+Non-contro lling Interest (8.42) (5.02) (0.19) (14.10) (0.19) 
+17 Total Comprehensive income attributable to 
+Owners of the company 8,224.67 18,813.60 (12,556.75) 59,146.62 1,02,236.20 
+Non-controlling Interest 307.63 163.18 (1.80) 828.99 (1.80) 
+18 Basic and Diluted Earnings per Equity Share(~) 7.25 4.64 4.82 23.49 18.55 
+(not annualised for the quarterly periods) 

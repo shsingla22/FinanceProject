@@ -1,0 +1,132 @@
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411  016, Maharashtra, India    
+CIN - L72300PN1990PLC 056696  
+Tel:  +91 (20) 6703  5555 | Fax  - +91 (20) 6703 6003 | E-mail - info@persistent.com  | Website  - www.persistent.com     
+     
+ NSE & BSE / 2026-27 / 002 
+ 
+      April 9, 202 6 
+ 
+The Manager,   
+Corporate  Services,  
+National Stock Exchange of India Limited          
+Exchange Plaza, Bandra Kurla Complex,   
+    Bandra  (E),  
+Mumbai 400  051 
+ 
+Ref: Symbol:  PERSISTENT  The Manager , 
+Corporate Services,  
+BSE Limited  
+P J Towers, Dalal Street,  
+Mumbai 400 001  
+ 
+  
+ Ref: Scrip  Code:  533179  
+ 
+Dear Sir/Madam,  
+ 
+Sub.:  Press Release titled ‘Persistent Launches Merchant Risk Management Solution  Powered 
+by Databricks AI ’ 
+ 
+We wish to inform you that Persistent Systems Limited (the ‘Company’) has made a Press Release dated  
+April 9, 2026, titled ‘ Persistent Launches Merchant Risk Management Solution Powered by Databricks AI ’. 
+ 
+A copy of the Press Release is enclosed for your reference.   
+ 
+This is for your information and records.  
+ 
+Please acknowledge the receipt.  
+ 
+Thanking  you, 
+ 
+Yours sincerely,  
+  
+For Persistent  Systems  Limited   
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.:  ACS 20507  
+ 
+Encl: As above  
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  1   
+ 
+Persistent Launches  Merchant Risk 
+Management Solution Powered by  Databricks  
+AI 
+Enables proactive merchant risk detection and fraud prevention 
+using real -time intelligence and workflows  
+ 
+April 9, 2026 
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE: 533179 and NSE: PERSISTENT), a global Digital Engineering and 
+Enterprise Modernization leader,  today announced the launch  of its Merchant Risk Management 
+and Fraud Detection solution  powered by  Databricks Data Intelligence platform . The solution  
+helps financial institutions reduce fraud losses, improve detection accuracy and lower manual 
+review effort through real -time, intelligence -driven decisions . 
+ 
+As digital payments scale , financial institutions , payment service providers, digital platforms and 
+their end customers face rising fraud, regulatory scrutiny and reputational risk . Traditional 
+approaches rely  on static rules  and post -transaction analysis , limiting early detection . Persistent 
+shifts merchant risk management upstream to enable early detection, continuous monitoring 
+and AI -driven action before  losses  occur . 
+Built on the  Databricks Data Intelligence platform, the solution uses Agentic AI to  perform multi -
+signal merchant vetting during onboarding, analyzing business profiles, compliance history, 
+transaction patterns and external indicators to assess risk before transactions begin. Once live, 
+it continuously monitors transactions, chargebacks and third -party signals in real time to detect 
+emerging fraud or compliance risks.  
+When risk signals are detected, the system triggers configurable actions , such as enhanced 
+monitoring, watch listing  or transaction restrictions  with full  auditability and governance . 
+Designed as a Databricks accelerator, it unifies  batch and streaming data, merchant profiles 
+
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  2 
+and external risk signals into a governed, real -time intelligence layer , enabling faster time -to-
+value . 
+The solution is expected to deliver measurable business impact , including  
+\ 20–40% reduction in chargeback and fraud losses through earlier risk detection  
+\ 30–60% improvement in fraud detection accuracy using multi -signal intelligence  
+\ 50–70% reduction in manual review effort, freeing teams for  higher -value investigations  
+\ 10–20% reduction  in risk management costs through automation and streamlined workflows  
+Persistent is a Databricks Global Systems Integrator partner with 900+ Databricks  certified  
+professionals and more than eight accelerators on the Databricks platform.  The solution is 
+available now and can be deployed as a Databricks -based accelerator for banks, acquirers and 
+payment service providers globally.  
+Barath Narayanan, Global BFSI and Europe Geo Head, Persistent  
+“Merchant risk has become one of the most complex challenges for financial institutions , 
+payment service providers and digital platforms as transaction volumes grow and regulatory 
+scrutiny intensifies. Effective risk management now depends on the ability to transform data into 
+intelligence and respond in real time. Our work with Databricks enables us to combi ne scalable 
+data processing with AI to help financial institutions identify emerging risk earlier, improve 
+decision  making and strengthen merchant over sight across the entire lifecycle. ”  
+Josh Meyer , Global Head of Partner Solutions and Industry GTM , Databricks  
+“As payment ecosystems grow and regulatory scrutiny increases, merchant risk management is 
+becoming an intelligence -driven challenge. Databricks, together with Persistent, helps financial 
+institutions, payment providers, and digital platforms  unify data at scale to gain real -time visibility 
+across the merchant lifecycle. This approach enables earlier risk detection, sharper decision -
+making, and stronger, more resilient compliance in a rapidly evolving payments landscape. ” 
+ 
+About Persistent  
+Persistent Systems (BSE:  533179 and NSE: PERSISTENT) is a global services and solutions company delivering AI -led, platform -driven 
+Digital Engineering and Enterprise Modernization to businesses across industries. With over 2 6,500 employees located in 18 countries, the 
+Company is committed to innovation and client success. Persistent offers a comprehensive suite of services, including softwar e 
+engineering, product development, data and analytics, CX transformation, cloud computin g, and intelligent automation . The Company is 
+part of the MSCI India Index and is included in key indices of the National Stock Exchange of India, including the Nifty Midc ap 50, Nifty IT, 
+and Nifty MidCap Liquid 15, as well as several on the BSE such as the S&P BSE 100 and S&P BSE SEN SEX Next 50. Persistent is also a 
+constituent of the Dow Jones Sustainability World Index. The Company has achieved carbon neutrality, reinforcing its commitme nt to 
+sustainability and responsible business practices. Persistent has also been named one of Am erica’s Greatest Workplaces for Inclusion & 
+Diversity 2025 by Newsweek and Plant A Insights Group. As a participant of the United Nations Global Compact, the Company is 
+committed to aligning strategies and operations with universal principles on human righ ts, labor, environment, and anti -corruption, as well 
+as take actions that advance societal goals. With 468% growth in brand value since 2020, Persistent is the fastest -growing IT services 
+brand in ‘Brand Finance India 100’ 2025 Report.  
+www.persistent.com  
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+For Media Queries: media@persistent.com  
+ 
+ 

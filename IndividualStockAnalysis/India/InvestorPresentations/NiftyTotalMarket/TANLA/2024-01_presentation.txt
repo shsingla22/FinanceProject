@@ -1,0 +1,1074 @@
+
+=== page 1 ===
+Tanla Platforms Limited    T: +91 -40-40099999  
+(Formerly known as Tanla Solutions Limited)   info@tanla.com  
+Tanla Technology Center     www.tanla.com  
+Hi-tech city Road, Madhapur,     
+Hyderabad, India - 500081  
+CIN:  L72200TG1995PLC021262  
+ 
+ 
+Date: January 23, 2024  
+ 
+To, 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+Scrip Code: 532790  National Stock Exchange of India Ltd.  
+“Exchange Plaza ” 
+Bandra -Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Madam/Sir,  
+ 
+Sub: Investor Update for the quarter and nine months  ended December  31, 2023 . 
+ 
+With reference to the above cited  subject , we are enclosing herewith the Investor Update for the 
+quarter and nine months  ended December  31, 2023 . 
+ 
+Request you to take the same on record and oblige.  
+ 
+Thanking you  
+ 
+Yours faithfully,  
+For Tanla Platforms Limited  
+ 
+ 
+ 
+Seshanuradha Chava  
+General Counsel and Company Secretary  
+ACS -15519  
+=== page 2 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is strictly prohibited23 January 2024Q3 FY24Investor Update
+
+=== page 3 ===
+2Safe Harbor and Other Information
+© 2023 Tanla Platforms Limited. All Rights Reserved. The CPaaS business is evolving at a fast pace in India with very little information available in the public domain on the overall  market. The financial community has always sought a response on the 
+total market size, key drivers of the industry and the competitive landscape in this space. In order to provide more transpar ency and to help understand our business better, we are providing indicative 
+data around the market size and our relative share (assuming the indicative data). This indicative data has been arrived at b asis our detailed internal analysis. This is being done with an intent to 
+provide an indicative picture of the industry and address queries about the CPaaS space. This must not be seen as a positioni ng statement of the company, and one should not rely on the company’s 
+disclosure for their assessment of the market size or the relevant share of any participants in the market.
+This presentati on contains statements that include information concerning our possible or assumed strategy, future operations, financing plans, operating model, financial position, future revenues, 
+projected costs, competitive position, industry environment, potential growth opportunities, potential market opportunities, plans and objectives of management, as well as assump tions relati ng to the 
+foregoing that involve substantial risks and uncertainties. All statements other than statements of historical fact could be deemed forward -looking in nature. Such statements are inherently subject to 
+risks and uncertainties, some of which cannot be predicted or quanti fied. In some cases, although not all forward ‐looking statements contain these identifying words, you can identi fy forward -looking 
+statements by terminology such as “expect,” “anti cipate,” “should,” “believe,” “hope,” “target,” “project,” “plan,” “PROPOSED,”  “goals,” “es timate,” “potenti al,” “predict,” “may,” “will,” “might,” “could,” 
+“intend,” “shall,” and varia tions of these terms or the negati ve of these terms and similar or derivate expressions. The forwa rd-looking statements involve known and unknown risks, uncertainties and 
+other factors that may cause our actual results, performance or achievements to be materially different from any future resul ts, performance or achievements, expressed or implied by the forward -
+looking statements. It is advisable not to place excessive reliance on any of the forward -looking statements. Forward -looking st atements should not be read as a guarantee of future performance or 
+results and will not necessarily be accurate indicati ons of the times at, or by, which such performance or results will be ach ieved, if at all. Additionally, these forward -looking statements, involve risk, 
+uncertainties and assumptions based on information available to us as of 18/01/24, including those related to the continued i mpacts of COVID -19 on our business, future financial performance and 
+global economic conditions. Many of these assumptions relate to matters that are beyond our control and changing rapidly, inc luding, but not limited to, the timeframes for and severity of social 
+distancing and other mitigation requirements, the timing of headwinds from COVID -19, the availability of vaccinations, the conti nued impact of COVID -19 on new or existing customers, business 
+decisions and the length of our sales cycles, renewal timing or billings terms, particularly for customers in certain industr ies highly affected by COVID -19.
+If the risks or uncertainties ever materialize or the assumpti ons prove incorrect, our results may differ materially from those  expressed or implied by such forward -looking statements. We assume no 
+obligati on and do not intend to update these forward -looking statements or to conform these statements to actual results or to changes in our expectations, except as required by law.
+This presenta tion contains sta tistical data, es timates and forecasts that are based on independent industry publica tions or  other publicly available informati on wherever possible, as well as other 
+informa tion based on our internal sources. This informa tion involves many assump tions and limitati ons, and you are cauti oned not to place excessive weightage to these es timates. We have not 
+independently verified the accuracy or completeness of the data contained in these industry publica tions and other publicly ava ilable informati on, wherever referred. Certain statements that might or 
+might not be forward -looking statements represent our management’s beliefs and assumptions only as of the date of this presentat ion. Accordingly, we make no representati ons as to the accuracy or 
+completeness of that data nor do we undertake to update such data after the date of this presenta tion. 
+By receiving this presentati on you acknowledge that you will be solely responsible for your own assessment of the market and ou r market positi on and that you will conduct your own analysis and be 
+solely responsible for forming your own view of the potenti al future performance of our business. Any logos or trademarks other  than Tanla, Karix, ValueFirst, Gamooga, Trubloq & Wisely included 
+herein are the property of the owners thereof and are used for reference purposes only.
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 4 ===
+3
+Q3 FY24 Results: Snapshot
+FCF EBITDA Gross Profit
+₹6,162  Mn ₹10.42 ₹1,401 Mn
+Increased by ₹712 Mn QoQ 14.0% Margin Cash EPS PAT₹640 Mn ₹1,928 Mn ₹2,699 Mn ₹10,026  Mn
+46% of PAT 19.2% Margin 24.5%  Growth 15.3%  Growth Revenue
+© 2024 Tanla Platforms Limited. All Rights Reserved. 
+21.5%  Growth 
+
+=== page 5 ===
+4We have had a remarkable journey over last 5 years
+ We’re shaping the world of trusted digital experiences to empower consumers and enable companies
+We touch 1 Bn lives daily
+—Delivered OTP messages to enable 100 Cr + vaccinations
+—Facilitated outreach to ~9 Cr farm families
+Our focus is no scam, no spam, yes security & yes privacy
+Our strategy has  ESG at the heart of all our operations 
+A. We lead 
+with purpose
+ Greenfield innovations leveraging cutting edge technology like NLP, CNN, deep learning, Web of 
+trust,  etc.
+Global leader in blockchain , AI/ML led spam and scam prevention etc. with 4+ patentsB. We are a 
+tech innovator 
+ We have undisputed market leadership in India (35% CPaaS market share) 
+Top player of choice for 2000+ enterprises in India 
+International presence across 4 regions – North America, Europe, SEA & Middle East  – serving marquee 
+tech giants and large Indian enterprisesC. Our 
+customers 
+love us
+ We have a 300+ strong pool of world class talent across product and technology talent; which we 
+continue to cultivate leveraging Tanla Academy
+Focused recruitment from leading universities and marquee SaaS companies of India and beyond.D. We are a 
+talent magnet
+We’ve continued to deliver over the last 5 years 
+—4x Revenue growth – at ₹ 33,546 Mn
+—9x EBITDA growth – at ₹ 5,879 Mn
+—23x PAT – at ₹ 4,476 Mn
+ E. We have a 
+great financial 
+track record
+ Detailed ahead in appendix
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 6 ===
+5
+We lead with purpose !
+“Shaping the world 
+of trusted digital 
+experiences to 
+empower consumers 
+and enable companies”T= EC2
+All our focus is securing the digital 
+citizens of India and beyond:
+No Scam, No Spam, Yes Security,  
+Yes PrivacyOur purpose ESG at the heart of all our operations
+Awards & recognition
+Global HR 
+Excellence 
+Award 2022Recognized as Visionary 
+in CPaaS  Magic 
+Quadrant -2023Awarded Growth 
+Partner of the year Won in the Enterprise 
+Communication 
+category 
+We are environment 
+friendlyWe empower our 
+customers, partners, 
+employees & society Our platform of 
+platforms stand for 
+governance and trust
+•Achieve  Net Carbon 
+Neutrality by 2025
+•LEED gold certification 
+for our new office is in 
+progress•Upskilled 50% of 
+platform workforce in last 
+1 year
+•Positively impacted  
+1,542 lives through 
+various CSR initiatives •Developed Trubloq - World's 
+largest blockchain platform to 
+prevent spam, trusted by 50K+ 
+enterprises
+•Improved voluntary disclosures. 
+Released first tax transparency 
+report and sustainability report.
+Delivered OTP messages 
+to enable 100 Cr + 
+vaccinations
+Facilitated outreach to ~9 
+Cr farm families
+© 2024 Tanla Platforms Limited. All rights reservedWe have secured a score of 68 in the S&P Globe ESG score , up from 32 in the previous 
+year
+=== page 7 ===
+6Today, Tanla focuses on two synergistic businesses  -Digital 
+Platforms & Enterprise Communications
+Deeply embedded
+NRR of 125%Undisputed market 
+leadership
+~45%  SMS market share in 
+India
+E2E omnichannel
+presence
+SMS, Voice, OTT (WhatsApp, 
+TrueCaller), other advanced 
+messaging channels, chatbot etc.
+Agility & rapid 
+customer service
+10k+  APIs deployed across 
+enterprises to enable full suite 
+of omni -channel communicationMonetizable at scale
+100%  of revenue from 
+SaaS business modelsPredictable growth 
+20%+  growth in gross profit for 
+14 consecutive quarters
+Digital 
+Platforms
+(Innovation Engine)Enterprise 
+Communications
+(Scale with enterprise)
+Innovation at scale
+This indicative data on market size has been arrived at basis our internal analysis. This is our assessment and merely indica tive in nature and should not be relied upon
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 8 ===
+7
+A. 
+Business 
+Highlights
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 9 ===
+8Expanding customer relationships 
+© 2024 Tanla Platforms Limited. All Rights Reserved. 335  customers 
+contributing > ₹ 10 Mn 
+annual revenue, number of 
+customers  up by 6% YoY
+Q2 FY242366217
+64
+25417315335
+Q3 FY24
+>₹500 Mn >₹100 Mn - < ₹500 Mn >₹10 Mn -<₹100 MnCount of customers 
+1. Customer segments are arrived at on a quarterly annualized basis (quarter revenue multiplied by four)
+2. Customer segments on YoY basis are not comparable since ValueFirst  was one of the large customers before the acquisition. 
+=== page 10 ===
+9Customer segments 
+Product penetration at 2.11  
+in Q3 on a larger customer 
+base, driven by growing 
+adoption of WhatsApp and 
+other newer channels
+1,8683,2944,475
+3,724
+2,0513,8899,6379,664
+Q2 FY24 Q3 FY24
+>₹500 Mn >₹100 Mn - < ₹500 Mn >₹10 Mn -<₹100 Mn
+© 2024 Tanla Platforms Limited. All Rights Reserved. 1. Customer segments are arrived at on a quarterly annualized basis (quarter revenue multiplied by four)
+2. Customer segments on YoY basis are not comparable since ValueFirst  was one of the large customers before the acquisition. 
+Revenue from customers (₹ Million)
+=== page 11 ===
+10
+Customer concentration 
+© 2024 Tanla Platforms Limited. All Rights Reserved. Revenue from top 20 customers (₹ Million)4,714
+Q2 FY24 Q3 FY244,23916
+out of 20 customers of last 
+quarter continue to be in Top 20, 17 
+remain in Top 3047% 42%
+1. Customer segments are arrived at on a quarterly annualized basis (quarter revenue multiplied by four)
+2. Customer segments on YoY basis are not comparable since ValueFirst  was one of the large customers before the acquisition. 
+=== page 12 ===
+11
+Winning new logos 
+© 2024 Tanla Platforms Limited. All Rights Reserved. 1.New customers include every unique contracting entity added during the yearRevenue from new customers (₹ Million)322
+9M FY23 9M FY2477335%
+New customers added on 
+WA
+x Count of customers 210300
+
+=== page 13 ===
+12Serving enterprise needs | Impact case studies
+Customer Use Case
+Consumer conversations 
+on loyalty -based 
+programs and driving 
+awareness on 
+promotional events
+Dynamic customer 
+experience on customer 
+channels
+Enhancing lead 
+generation and boosting 
+customer engagement
+© 2024 Tanla Platforms Limited. All rights reservedLeading B2B seller 
+of consumer goodsPioneering quick -
+commerce playerTop consumer 
+electronics retailerImpact
+30% higher repeat rates on 
+engagement programs for 
+coupons
+34x revenue boost with 14.5% 
+coupon redemption rate
+9M users with read rates of 
+65%, ~36% engagement rates
+600% uptake on promos via 
+WhatsApp  vs 250% on other channels
+38% dormant user reactivation
+40% higher engagement vs 
+cold calling
+Lower operational costs and 
+manpower needs
+
+=== page 14 ===
+13
+B. 
+Financial 
+Highlights
+© 2024 Tanla Platforms Limited. All rights reserved`
+=== page 15 ===
+14
+Revenue growth led by ValueFirst acquisition
+© 2024 Tanla Platforms Limited. All Rights Reserved. Q3 FY23 Q4 FY23 Q2 FY24 Q1 FY248,6968,33510,086
+9,111Y-o-Y growth  (₹ Million)(2%) (2%) 14%19%
+Organic revenue grew by 
+5% YoYRevenue grew by 15% YoY  
+Digital platforms grew by 
+22% YoY 
+10,02615%
+Q3 FY24
+=== page 16 ===
+15Digital Platform & Enterprise Communications 
+revenue growth
+© 2024 Tanla Platforms Limited. All Rights Reserved.  (₹ Million)Digital Platform Enterprise Communications
+Q3 FY23 Q3 FY2422%
+782
+Q3 FY24 Q3 FY2315%
+7,9149,068
+ 958x YoY growth
+=== page 17 ===
+16
+Gross profit profile
+Digital Platform gross profit grew 
+by 24% YoY driven by Wisely -
+OTT
+Enterprise communications gross 
+profit grew by 24% YoY , led by  
+WhatsAppGross profit grew by 24% on YoY 
+basis. Gross profit % increased 
+by 199 bps to 26.9%
+2,1682,2892,762
+2,413
+Q3 FY23 Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY24Margin%  (₹ Million)24.926.527.5 27.426.9
+© 2024 Tanla Platforms Limited. All Rights Reserved. 
+2,699
+=== page 18 ===
+17
+Gross margin profile
+Enterprise 
+businessOverall marginPlatform 
+businessB
+C96% 96% 97% 98% 98%
+Q3
+FY23Q4
+FY23Q1 
+FY24Q2
+FY24Q3
+FY24
+18% 20% 19% 19% 20%
+Q3
+FY23Q4
+FY23Q1
+FY24Q2
+FY24Q3
+FY24A
+Q3 
+FY23Q4 
+FY23Q1 
+FY24Q2 
+FY24Q3 
+FY2425% 27% 26%27%27%
+35% 34% 35% 34% 35%Contribution by platformAIncrease in gross 
+margin by 199 bps 
+YoY, decreased by 
+46 bps QoQ 
+BDigital Platform 
+gross margin 
+contribution to total 
+at 35%
+Enterprise 
+communications 
+gross margin at 
+19.5% in Q3C
+© 2024 Tanla Platforms Limited. All Rights Reserved. 
+=== page 19 ===
+18
+Efficiency metrics
+EBITDA to Gross profit 
+conversion improved by 163 bps 
+at 71% in Q3, on back of increase 
+in absolute gross profit
+On a sequential basis, there was an 
+increase in sales and marketing 
+expenses which was offset by 
+reduction in overheads and forex 
+gains1,5132,168
+1,9282,699
+Q3 FY23 Q3 FY24 (₹ Million)70%71%
+EBITDA Gross Profit EBITDA to Gross Profit conversion x
+© 2024 Tanla Platforms Limited. All Rights Reserved. 
+=== page 20 ===
+19EBIT profile
+ (₹ Million)
+EBITDigital Platform
+Gross Profit73.2%Enterprise Communication
+Gross Profit701934
+EBIT9931,76511.0%
+© 2024 Tanla Platforms Limited. All Rights Reserved. x EBIT %
+=== page 21 ===
+20
+Q3 FY23 Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY241,3921,5151,7421,658Q3 FY23 Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY241,5131,6611,8221,928 1,968
+EBITEBITDA
+EBITDA margin was at 
+19.2%  in Q3, up 183 bps YoY 
+(seq drop by 28 bps)
+ (₹ Million)
+© 2024 Tanla Platforms Limited. All Rights Reserved. Operating income 
+ (₹ Million)
+1,694
+Amortization  on intangible 
+assets due to acquisition 
+was at ₹28 Mn 
+=== page 22 ===
+21
+(867)1,472
+869
+Q3 FY23 Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY24 (₹ Million )DSO up by 2 days  to 77 in Q3. 
+Capital expenditure for the 
+quarter was at ₹ 442 Mn mainly 
+spent towards our platforms 
+© 2024 Tanla Platforms Limited. All Rights Reserved. 640Strong cash flow generation
+Tax payouts remain consistent1,310
+=== page 23 ===
+22
+Net income and EPS 
+Q3 FY23 Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY248.588.8810.6010.07Q3 FY23 Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY241,165 1,2021,4261,353
+EPSPAT
+Profit after tax  grew by 20% 
+YoY
+ (₹ Million)
+© 2024 Tanla Platforms Limited. All Rights Reserved. 
+ (₹)Effective tax rate for Q3 at 
+19%
+EPS grew by 21.5% YoY, led 
+by profit expansion and 
+benefited by buyback1,401
+10.42
+=== page 24 ===
+23
+Return on capital employed 
+51%
+excluding CCE as against 
+74% last year
+Q3 FY23 Q4 FY23 Q1 FY24 Q3 FY24 Q2 FY2431%34%38%
+35%38%
+© 2024 Tanla Platforms Limited. All Rights Reserved. ROCE - Return on capital employed; CCE - Cash & cash equivalents
+
+=== page 25 ===
+24
+© 2024 Tanla Platforms Limited. All Rights Reserved. ₹18,904 Mn
+Strong Equity and Reserves₹6,162 Mn
+Cash & cash equivalents 51%
+ROCE (excluding cash & 
+cash equivalents)
+Debt FreeStrong balance sheet
+=== page 26 ===
+25Appendix I –Detailed FS
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 27 ===
+26Profit & Loss 
+Q3 FY24In ₹ Million, unless otherwise stated
+Revenue from operations
+Cost of services
+Gross profit
+Operating expenses
+EBITDA
+Depreciation & amortization
+EBIT
+Finance cost
+Other income
+Profit before taxes
+Tax expense (including deferred tax)
+Profit after tax
+Earning per share
+Weighted average shares outstandingQ3 FY24
+10,026
+(7,327 )
+2,699
+(771)
+1,928
+(234)
+1,694
+(17)
+51
+1,728
+(327)    
+1,401
+10.42
+134Q3 FY23
+8,696
+(6,528)
+2,168
+(655)
+1,513
+(122)
+1,391
+(2)
+61
+1,450
+(285)
+1,165
+8.58
+136∆ %
+15
+12
+24
+18
+27
+92
+22
+704
+(16)
+19
+15
+20
+22
+-Q2 FY24
+10,086
+(7,324)
+2,762
+(794)
+1,968
+(226)
+1,742
+(18)
+63
+1,787
+(362)
+1,425
+10.60
+134
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 28 ===
+27Unaudited Balance Sheet Dec 31, 2023
+In ₹ Millions, unless 
+otherwise statedMar 31,
+2023In ₹ crores, unless 
+otherwise stated
+ASSETS
+Non-current assets
+Property, plant and equipment 1,659
+Platforms 874
+Customer Relationships 133
+Tradename 2                          
+Technology & Software 0
+Non-Compete 25
+Intangible assets underdevelopment 566
+Goodwill 1,346
+Right -of-use-lease assets 797
+Capital work in progress 78
+Financial assets 149
+Deferred tax assets (net) 363
+Other non -current assets 786
+Total non -current assets 6,777
+Trade receivables 5,700
+Cash and bank balances 7,116
+Other Financial assets 4,203
+Other current assets 330
+Total current assets 17,348
+TOTAL ASSETSDec 31, 
+2023
+2,122
+                                722
+388
+41
+290
+21
+971
+2,639
+665
+135
+283
+414
+838
+9,529
+9,191
+6,162
+5,445
+487
+21,285
+30,814 24,126Equity share capital
+Other equity
+Total equity
+Financial liabilities
+Lease liabilities
+Other financial liabilities
+Provisions
+Other non -current liabilities
+Total Non -current Liabilities
+Current liabilities
+Trade payables
+Lease liabilities
+Other financial liabilities
+Other current liabilities
+Short term provisions
+Liabilities for current tax (net)
+Total Current liabilitiesEQUITY AND LIABILITIES
+TOTAL EQUITY AND LIABILITIES134
+18,770
+18,904
+0
+602
+9
+18
+7
+636
+7,178
+148
+3,525
+43
+86
+293
+11,274
+30,814Dec 31, 
+2023
+134
+15,041
+15,175
+732
+8
+18
+6
+764
+5,386
+94
+2,443
+203
+13
+48
+8,187
+24,126Mar 31, 
+2023
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 29 ===
+28Condensed 
+Cash flow Q3 FY24 Q2 FY24 In ₹ Millions, unless otherwise stated
+1,945 2,055 Cash flow before changes in working capital
+(677) (161) Changes in working capital
+1,268 1,894 Cash generated from operations 
+(186) (291) Taxes
+1,082 1,603 Cash flow from operating activities
+(442) (292) Net investments in tangible and intangible assets
+44 48 Interest and other income 
+- (3,737) Investment in subsidiary
+(398) (3,981) Cash flow from investing activities s
+- (33) Borrowings
+- (538) Dividend paid
+(3) (90) Interest paid on lease liabilities 
+(3) (661) Cash flow from financing activities
+681 (3,039) Cash flow for the period
+5,451 8,039 Cash and cash equivalents at the beginning of period
+Forex Fluctuations 30 (55)
+Cash Acquired on ValueFirst  Acquisition - 506
+Cash and cash equivalents closing balance 6,162 5,451
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 30 ===
+29In ₹ Million, unless 
+otherwise statedQ2 
+FY24Q3 
+FY24Q3 
+FY23 ∆ %
+Operating cash flow 1,601 1,082 (608) 278
+Capital expenditure (292) (442) (259) 71
+Free cash flow 1,310 640 (867) 174
+Free cash flow in percent 
+of total revenue13% 6% (5%) -
+Free cash flow as % of PAT 46% (38%) - 93%
+Free 
+cash flow 
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 31 ===
+30Appendix II –About us
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 32 ===
+31
+3: Protect
+ 1. Engage
+ 2. Communicate
+ 4: ExperienceWe continue to disrupt the market through tech led greenfield 
+innovations
+Our platforms of 
+pride!Multiple cutting -edge technologies leveraged across our 
+platforms
+Developed world’s largest 
+blockchain based platform to 
+prevent spam
+Serving 3 out 4 large telcos in 
+India and both telcos in UAE
+First of its kind AI/ML platform  
+for curbing smishing
+First closure of 
+commercial contract with 
+a bank in India
+AI enabled 
+customer insights  
+to acquire customers
+Big data and 
+AI/ML 
+capabilities to 
+enable personalization at 
+scale
+Predictive AI & 
+recommendation 
+engine to ensure 
+targeted propositions for 
+increased customer 
+stickiness
+4 proprietary AI/ML 
+engines  leveraging Web 
+of Trust, 
+Convolutional 
+Neural Network, 
+NLP, and deep 
+learning  resulting in a 
+False positive rate of <0.5% 
+and latency of <20 m/s
+Usage of cognitive 
+computing, honey -
+pots, AI & ML to 
+eliminate unregistered 
+telemarketers
+Single API   
+for seamless 
+omni -channel 
+experience 
+across all forms of 
+communications 
+(SMS, voice, OTT 
+and advanced 
+channels etc.)
+End to end secure  
+dual encryption 
+standard using 
+cryptographic algorithms 
+(ciphered text)
+Blockchain built 
+using 
+Hyperledger 
+Fabric 1.4 to provide 
+Single Source of Truth 
+(SSOT) for all 
+communication 
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 33 ===
+32
+Great 
+Financial 
+Track Record
+We continue 
+to deliver 
+over the last 5 
+yearsAll figures in ₹ Mn
+7,916
+Revenues 201833,546
+Revenues 2023
+~4x
+652 
+EBITDA 20185,879
+EBITDA 2023
+~9x
+191
+PAT 20184,476
+PAT 2023
+~23x
+32
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 34 ===
+33Wisely is our platform of platforms across all 4 parts of the value 
+chain addressing needs of multiple C -suite buying centers
+1. Currently TRUBLOQ comes under ComplyPrimary buying center Secondary buying center
+3: Protect
+Chief Marketing OfficerChief Digital Officer CISO; Chief Risk officerAI enabled solutions to curb phishing and 
+leakages
+•Wisely Anti -Phishing Technology   
+Platform
+•Wisely Network
+1: Engage
+Chief Marketing Officer Chief Digital OfficerIntelligence led promo solutions for 
+sharper customer targeting 
+   Wisely Engage
+1
+ 2
+3
+ 4Platform of Platforms
+with in -built Reports, Recommendation 
+engine, Network, Blockchain, AI/ML, 
+SSOT, and Cryptography
+2: Communicate
+Blockchain based omni -channel CPaaS 
+platform; DLT scrubbing
+•Wisely Communicate
+•Wisely Trubloq
+Chief Technology Officer
+Chief Marketing Officer 
+Customer Service headCISO; Chief Risk officer
+Chief Operating Officer
+4: Experience
+Omni -channel solutions to deliver 
+differentiated experience and customer 
+value
+•Wisely OTT
+Chief Marketing Officer Chief Operating Officer
+6 platforms currently  and more to 
+come
+a
+ b
+c
+d
+e
+f
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 35 ===
+34Total addressable market (CY’23 to 27, USD Bn)
+Source: Tanla internal team analysis and estimates, Industry expertsThese platforms represent a large and growing TAM opportunity
+0.3
+2027 with new platforms (India)1.7-1.90.4-0.5
+1.3-1.4
+2023 (India)2.5-2.70.41.2-1.3
+4.1-4.53.7-3.93.5-3.9
+0.7-0.8
+2027 with new platforms 
+(Global - India+SEA+MENA)2-35-611-13Engage Communicate Experience Protect
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 36 ===
+35Wisely ATP -first of its kind anti -smishing platform
+AI/ML led solution to identify SMS phishing in real time, prevent  the message from being delivered, 
+eliminate  the root cause
+Success Markers
+Success tested with TRAI;  demonstrated solution 
+prowess during 3-month regulatory sandbox
+•99%+ identification and prevention of smishing 
+attacks targeted at users
+2
+POC’s successfully completed with 3 leading private 
+banks:
+3Showcased to 5 regulators globally
+1
+First closure of commercial contract with a bank in 
+India
+•Accelerating our GTM with other enterprises
+4D. 99% Gold 
+standard efficacyB. Scalable
+1 trillion + 
+Potential processing capacity 
+over a year
+C. Cutting edge tech
+AI/ML, NLP, deep learning, 
+WOT, CNN etc.A. Real time
+<20ms 
+Regulatory 
+acceptance
+Customer 
+adoption
+1. From eight weeks POC with one of the largest publicly listed banks in India
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 37 ===
+36Tanla is now at its next inflection point
+Big foray into 
+voice, SMS 
+services Trubloq Launch –
+World’s first 
+blockchain enabled 
+communication 
+stack (largest blockchain 
+use case)Introduced Wisely ATP –
+World’s first AI/ML led 
+solution to identify  SMS 
+phishing in real time, prevent 
+message delivery, eliminate  
+root causeFounded 
+Tanla -
+expertise in 
+messaging 
+services
+Tanla’s first SMSC 
+(telco grade), 
+fundamentally a SaaS 
+based modelFirst enterprise 
+grade CPaaS 
+stack for domestic & 
+international at 
+VodafoneAcquired Karix -
+Largest CPaaS 
+player with 1300+ 
+enterpriseLaunched Wisely - a 
+single platform of 
+platforms for digital 
+interactions with E2E 
+encryption built on 
+blockchainAcquired 
+ValueFirst –  
+Strengthening market 
+leadership & 
+accelerating 
+international expansion
+Acquired 
+Gamooga to expand 
+Big data and AI/ML 
+capabilities & 
+personlaisation at scale 
+capablites
+20022008 2019 2019 2023
+2014
+ 2019 2021 20231999
+Era 1 Era 2 Era 3
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 38 ===
+37Our digital platforms are deeply embedded across the digital 
+interaction value chain
+(xx)Year of acquisition/launch
+Source: Tanla estimatesUsers
+ Enterprises
+Ensuring user privacy and spam 
+prevention along with adherence 
+to local and global laws for all 
+communications e.g., TCCCPR, 
+GDPROmnichannel interactions 
+across multiple channels and 
+partners End-to-end encrypted network 
+scalable on demand with highly 
+reliable deliveryEngageCommunicate Experience
+ Protect
+across customer lifecycle
+Acquire
+Engage
+Retain
+1
+2
+3
+(2019) Deep network 
+integration(2015) (2022)
+Single API for all normal & 
+advance channel of 
+communicationsOTT
+Developed World’s 
+largest blockchain  
+based platform to prevent 
+spam
+Serving 3 out 4 large telcos 
+in India and both telcos in 
+UAEUnique  solution: 
+Integrated AI  based firewall, 
+deeply embedded network 
+elements 
+6 SMSC deployments with 
+20k TPS capacity
+(2019) Engage:
+Big data and AI/ML capabilities: 
+Personalization at scale
+(2022)Retain:  Predictive AI
+& recommendation engine1
+Targeted propositions for 
+customer stickiness and loyalty
+Single platform of platform 
+for E2E solving all of 
+enterprise needsWorld’s first AI/ML led 
+solution to identify and 
+prevent  SMS phishing in real 
+time & eliminate  root causeCommunicate ATP
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 39 ===
+38
+Trubloq | Game changing innovation –Blockchain powered 
+communication stack
+1. Telecom Commercial Communication Customer Preference RegulationWorld’s first blockchain -enabled 
+communication stack
+Tanla’s Solution
+DLT system (Distributed Ledger 
+Technology)  to arrest Spam
+Usage of cognitive computing, 
+honey -pots, AI & ML to eliminate 
+unregistered telemarketers
+Engineered for universal 
+compatibility with both legacy and 
+ledger -based blockchain protocols
+Impact
+Financial Impact
+95%+  gross margin 15% CAGR
+over past three years100%              of UAE 
+UAE traffic
+Business Impact
+90 Bn+
+Volume in Q33 
+Out of 4 Indian top  telcos  served 
+50K+ enterprisesUser Impact
+1 bn+ users touched
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 40 ===
+39We are a platform company operating at above Rule of 60 
+Characteristics
+Rule of 60
+22% 
+YoY revenue growth
+73%  
+EBIT margin 
+We are currently 
+operating at close to 
+rule of 100Evidence Outcome
+High margin 
+profileIP led platforms – 
+80%+ Gross Margin and 60%+ EBIT
+Deeply embedded 
+with customersAddress needs of multiple buying centres
+125% of NRR
+Monetization at 
+Scale100% of our platform revenue operates 
+at SaaS business models : 
+per user, per transaction or subscription 
+Revenue 
+predictability20%+ YoY growth in gross profit for 14 
+consecutive quarters
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 41 ===
+40Our customers love us in India and beyond
+~45% 
+NLD market share
+of total revenues contributed by 
+50 of our top 100 customers , 
+retained for more than 5 years50%+
+2000+       
+Customers across segmentsPlayer of choice 
+in India across industries leaders… and serve global giants 
+in 4 regionsWe are the player of choice in India…
+7/10 top insurance
+9/10 top banks  served
+8/10top financial 
+services
+7/10 top social media
+marquee govt. projects
+This indicative data on market size has been arrived at basis our internal analysis. This is our assessment and merely indica tive in nature and should not be relied upon
+USA & 
+Europe
+SEA
+Middle 
+East
+Global Tech giants
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 42 ===
+41Our market leadership in enterprise communication (1/2)
+Undisputed market leadership High Customer Stickiness
+Unmatched scale with 35% CPaaS market 
+share
+‐5% increase post ValueFirst acquisition 
+‐~45% share in SMS NLD market50 of Top 100 accounts > 5 years 
+‐Double digit growth in every customer cohort 
+since inception
+‐100+ API’s integrations within a single 
+enterprises  across different ecosystems
+Customized to serve enterprise needs
+‐Deeply integrated, with all major CRM systems 
+across verticals to enable omnichannel 
+communication
+‐10,000 customized APIs to integrate with 
+customers
+‐1000+ bank -specific use cases supportedLargest government partner
+‐Multiple campaigns supportedPlayer of choice across industry
+‐2000+ customers across industries
+‐8 of Top 10 brands served across banking, 
+Insurance, Retail, E -Comm, Travel & Digital Natives
+This indicative data on market size has been arrived at basis our internal analysis. This is our assessment and merely indica tive in nature and should not be relied upon
+© 2024 Tanla Platforms Limited. All rights reserved
+=== page 43 ===
+42Our market leadership in enterprise communication (2/2)
+Tech. backed use cases Newer Channels
+AI/ML based solutions developed for 
+a leading bank
+‐Impact: 
+2X increase in loyalty (offers availed) for the 
+bank
+Context
+‐Automated relevant promotional 
+messages based on user card swipe activity
+‐In house  ML capabilities leveraged to 
+trigger targeted offer to users basis 
+transaction amount, location, and card typeTurbo charging our growth 
+‐~4X  YoY growth in Q 3 from WhatsApp
+Serving enterprise curated needs 
+‐Commerce on WhatsApp : Enabled  
+cab booking over WhatsApp for a seamless 
+consumer journey
+© 2024 Tanla Platforms Limited. All rights reserved

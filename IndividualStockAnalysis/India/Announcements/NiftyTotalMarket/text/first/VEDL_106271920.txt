@@ -1,0 +1,366 @@
+ 
+ VEDL/Sec./SE/2 5-26/51                              June  18, 2025 
+ 
+BSE Limited                           National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers            “Exchange Plaza”  5th Floor Plot No., C/l, G Block  
+Dalal Street, Fort            Bandra -Kurla Complex, Bandra (East),  
+Mumbai – 400 001            Mumbai – 400 051 
+  
+Scrip Code: 500295         Scrip Code: VEDL  
+ 
+Sub:  Business Responsibility and Sustainability Report ( “BRSR” ) for the Financial Year 202 4-25 
+ Dear Sir/Madam,  
+ Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India ( “SEBI” ) (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015  and relevant circulars issued by SEBI in 
+this regard , as amended from time to time , please find enclosed herewith the Business Responsibility  
+and Sus tainability Report ( “BRSR ”) for the Financial Year 202 4-25, along with Independent Auditors’ 
+Assurance Report provided by M/s. S.R. Batliboi & Co. LLP . 
+ The BRSR forms the part of the Integrated Report and Annual Accounts for the Financial Year 202 4-
+25, submitted to the stock exchange( s) vide letter no. VEDL/Sec./SE/2 5-26/50 dated June 18, 202 5 
+and has been also made available on the website of the Company at www.vedantalimited.com . 
+ We request you to please take the above on record.  
+  
+Thanking you . 
+ 
+Yours faithfully,  
+For Vedanta Limited  
+ 
+  Prerna Halwasiya  
+Company Secretary and Compliance Officer  
+ACS: 20856  Enclosed: As above   
+BUSINESS RESPONSIBILITY & 
+SUSTAINABILITY REPORT
+I. Details of the listed entity:
+1 Corporate Identity Number (CIN)  
+of the Listed EntityL13209MH1965PLC291394
+2 Name of the Listed Entity Vedanta Limited
+3 Year of incorporation 1965
+4 Registered office address 1st Floor, ‘C’ Wing, Unit 103, Corporate Avenue, Atul Projects, Chakala, Andheri (East), 
+Mumbai, Maharashtra – 400 093, India
+5 Corporate address Core-6, 3rd Floor, Scope Complex 7, Lodhi Road, New Delhi - 110 003
+6 E-mail comp.sect@vedanta.co.in
+7 Telephone +91 22 6643 4500
+8 Website www.vedantalimited.com
+9 Financial year for which reporting is being 
+doneFY 2024-25  
+From 01-04-2024 to 31-03-2025
+10 Name of the Stock Exchange(s) where 
+shares are listedBSE Limited (BSE) 
+National Stock Exchange of India Limited (NSE)
+11 Paid-up Capital ` 3,91,06,86,689
+12 Name and contact details (telephone, 
+email address) of the person who may be 
+contacted in case of any queries on the 
+BRSR reportMr. Gaurav Sarup
+Deputy Head HSE & Chief Sustainability Officer
+Tel: +91 294 660 4053
+Email: esg@vedanta.co.in
+13 Reporting boundary: Are the disclosures 
+under this report made on a standalone 
+basis (i.e. only for the entity) or on a 
+consolidated basis (i.e. for the entity and 
+all the entities which form a part of its 
+consolidated financial statements, taken 
+together).The disclosures under this report are made on a consolidated basis. Vedanta Group 
+comprises of Vedanta Limited, its Subsidiaries, Associates and Joint Ventures, the 
+details of which are given in point No. 23 of Section A of Business Responsibility 
+and Sustainability Report (BRSR) and on page 349 of the Integrated Report and 
+Annual Accounts FY 2024-25. All these entities are considered for the purpose of 
+Financial Consolidation of the Group; however, for the purpose of reporting data 
+and information in BRSR, the following categories of Entities/Sites have not been 
+considered for the purpose of this report:
+ •Newly incorporated Entities or Entities/Sites operational for less than 12 months;
+ •Non-operational/ intermittent operational Entities/Sites; and entities/sites 
+discontinued or outsourced.
+ •Further, the GHG footprint, Water footprint, Energy footprint and details of the 
+Waste Management with respect to the following have not been considered, 
+based on our assessment of being immaterial to the Group’s reporting:
+ •The Corporate Offices with respect to the Entities as considered under the 
+Reporting Boundary.
+ •Guesthouses and Colonies being owned and maintained by the Group.
+ •Furthermore, for the purpose of BRSR reporting, following methodology has 
+been used:
+ •The financial numbers used in some of the indicators of the BRSR are extracted 
+from the Integrated Report and Annual Accounts FY 2024-25.
+ •While the financial numbers related to certain entities include inter-company 
+consolidation adjustments as per the applicable financial reporting framework 
+(net figures), the nonfinancial data used in some of the indicators of the BRSR 
+related to these entities are given without adjustments (gross figures). Further, 
+some of the Entities/ Sites are considered for the purpose of said financial 
+numbers, which may have been excluded from the Reporting Boundary.
+ •Some of the Entities are considered for the purpose of preparation of the BRSR 
+on full consolidation method, without adjusting for minority interest in the relevant 
+group entity, based on operational control, as per our assessment
+14 Name of assurance provider S.R. Batliboi & Co. LLP
+15 Type of assurance obtained BRSR Core: Reasonable 
+BRSR (Rest of indicators): LimitedSECTION A: GENERAL DISCLOSURES
+346
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2024-25
+
+II.  Products/services
+ 16. Details of business activities (accounting for 90% of the turnover):
+Sr.  
+No.Description of  
+Main ActivityDescription of Business Activity% of Turnover of 
+the Entity
+1 Manufacturing Metal and Metal products 83.28
+2 Oil and Gas Upstream Oil and Gas Production 7.22
+3 Mining and quarrying Mining of Metal Ores 2.07
+ 17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. No. Product/Services NIC Code % of Turnover Contributed by the Product
+1 Aluminium Products 24202 36.59%
+2 Zinc Metal 24203  16.87%
+3 Copper Products 24201 14.62%
+4 Oil 0610 5.43%
+5 Silver Metals and Bars 24205/07295 4.09%
+6 Steel Products 2410/24311 3.93%
+7 Power 35102 3.86%
+8 Lead Metal  24203 3.04%
+9 Gas 0620  1.82%
+10 Iron Ore 07100 1.56%
+III. Operations
+ 18. Number of locations where plants and/or operations/offices of the entity are situated:
+Sr. No. Locations No. of Plants No. of Offices Total
+1 National 96 15 111
+2 International 7 16 23
+    a) This number does not include warehouses operated by Vedanta and its business entities 
+    b) This number includes all international entities under Vedanta Group
+    c) This number is notwithstanding the reporting boundary described in Section A-13
+ 19. Markets served by the entity:
+ a. Number of locations
+Sr. No. Locations Number
+1 National (No. of States) 29
+2 International (No. of Countries) 61
+ b. What is the contribution of exports as a percentage of the total turnover of the entity?
+  The contribution of exports is 32.91% of the total turnover of Vedanta Limited.
+ c. A brief on types of customers
+   Vedanta Limited operates in the mining and manufacturing sectors, focussing on the extraction and processing of 
+metal ores, metals, and metal products. The Company is also engaged in oil and gas exploration and production, 
+along with power generation and sales. Its diverse product portfolio includes aluminium, copper, iron ore, zinc, silver, 
+and lead, catering to a wide range of industrial consumers. Vedanta primarily serves industries such as automotive, 
+steel, power generation, infrastructure, battery manufacturing, and oil, reinforcing its role as a key supplier in the 
+global commodities market.
+STATUTORY REPORTS CO FS
+347
+Business Responsibility & Sustainability Report
+Integrated Report and Annual Accounts 2024-25
+
+IV.  Employees
+ 20. Details as of 31 March 2025
+ a. Employees and workers (including differently abled): 
+Sr. 
+No.Type Total (A)No. of Males 
+(B)% of Males 
+(B/A)No. of 
+Females ( C)% of Females 
+(C/A)No. of 
+Others (D)% of Others 
+(D/A)
+Employees
+1 Permanent (D) 13,723 10,779 78.55 2,941 21.43 3 0.02 
+2 Other than Permanent (E) 241 185 76.76 56 23.24 0 -   
+3 Total Employees (D + E) 13,964 10,964 78.62 2,997 21.46 3 0.02
+Workers
+4 Permanent (F) 3,609 3,464 95.98 145 4.02 0 0.00
+5 Other than Permanent (G) 99,688 97,355 97.66 2,293 2.30 40 0.04
+6 Total Workers (F + G) 1,03,297 1,00,819 97.60 2,438 2.36 40 0.04
+ b. Differently abled employees and workers: 
+Sr.  
+NoType Total (A)No. of Males 
+(B)% of Males 
+(B/A)No. of 
+Females ( C)% of Females 
+(C/A)No. of 
+Others (D)% of Others 
+(D/A)
+Employees
+1 Permanent (D) 13 10 76.92% 3 23.08% 0 0.00%
+2 Other than Permanent (E) 0 0 - 0 - 0 -
+3 Total Employees (D + E) 13 10 76.92% 3 23.08% 0 0.00%
+Workers
+4 Permanent (F) 12 11 91.67% 1 8.33% 0 0.00%
+5 Other than Permanent (G) 31 29 93.55% 2 6.45% 0 0.00%
+6 Total Workers (F + G) 43 40 93.02% 3 6.98% 0 0.00%
+ 21. Participation/Inclusion/Representation of women
+Sr. No. Particulars Total (A)No. of 
+Females (B)% of Females 
+(B/A)
+1 Board of Directors 8 2 25%
+2 Key Management Personnel 4* 1 25%
+	 			*The	definition 	of	Key	Managerial	Personnel	(KMP)	is	as	per	the	Section	2(51)	of	Companies	Act,	2013.	 The	term	Key	Managerial	Personnel	
+(KMP)	mentioned	above	includes	two	members	of	the	Board	of	Directors.
+ 22. Turnover rate for permanent employees and workers
+ 
+CategoryFY 2024-25  
+(Turnover rate in current FY)FY 2023-24  
+(Turnover rate in previous FY)FY 2022-23  
+(Turnover rate in the year  
+prior to previous FY)
+Male Female Total Male Female Total Male Female Total
+Permanent Employees  15.3%  17.23%  15.84% 14% 17% 14% 11% 15% 12%
+Permanent Workers*  6.29%  8.57%  6.38% 7% 8% 7% - - -
+	 			Note:	 Turnover	rate	is	calculated 	as	per	Full	 Time	Equivalents	(FTEs)	(includes	both	Permanent	Employees	and	Permanent	Worker
+	 			*	Turnover	Rate	for	Permanent	Workers	was	not	monitored	in	FY	2022-23	hence	not	reported
+348
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2024-25
+
+V.  Holding, Subsidiary and Associate Companies (including joint ventures)
+ 23. (a) Names of holding / subsidiary / associate companies / joint ventures(b) (As on 31 March 2025)
+   As on 31 March 2025, the Company has 49 subsidiaries, 6 Associates and Joint Venture entities. Please see the 
+table below for further details:
+Sr. 
+No.Name of the holding/ subsidiary/  
+associate/ companies/ joint ventures (A)Indicate whether holding/ 
+subsidiary/ associate/ 
+companies/ joint ventures% of shares 
+held by 
+listed entityDoes the entity indicated at 
+column A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1 Vedanta Incorporated (formerly known as 
+Volcan Investments Limited)(a)Ultimate Holding Company 56.38%  Yes
+2 Thalanga Copper Mines Pty Limited (TCM) Subsidiary 56% No
+3 Bharat Aluminium Company Limited (“BALCO”) Subsidiary 51.00% Yes
+4 Desai Cement Company Private Limited Subsidiary 100.00% No
+5 ESL Steels Limited Subsidiary 95.00% Yes
+6 Ferro Alloy Corporation Limited (“FACOR”) Subsidiary 100.00% Yes
+7 Hindustan Zinc Alloys Private Limited Subsidiary 63% Yes
+8 Hindustan Zinc fertilisers private Limited Subsidiary 63% No
+9 Hindustan Zinc Limited (“HZL ”) Subsidiary 63% Yes
+10 MALCO Energy Limited (“MEL ”) Subsidiary 100.00% Yes
+11 Sesa Mining Corporation Limited Subsidiary 100.00% No
+12 Sesa Iron and Steel Limited Subsidiary 100.00% No
+13 Sesa Resources Limited (“SRL ”) Subsidiary 100.00% No
+14 Talwandi Sabo Power Limited (“TSPL ”) Subsidiary 100.00% Yes
+15 Vedanta Zinc Football and Sports Foundation Subsidiary 63% No
+16 Vedanta Aluminium Metal Limited Subsidiary 100.00% No
+17 Vizag General Cargo Berth Private Limited Subsidiary 100.00% Yes
+18 Zinc India Foundation Subsidiary 63% Yes
+19 AvanStrate Inc. (‘’ASI’’) Subsidiary 98.20% No
+20 Cairn India Holdings Limited Subsidiary 100.00% Yes
+21 Western Cluster Limited Subsidiary 100.00% No
+22 Bloom Fountain Limited Subsidiary 100.00% No
+23 Amica Guesthouse (Proprietary) Limited Subsidiary 100.00% No
+24 Namzinc (Proprietary) Limited Subsidiary 100.00% No
+25 Skorpion Mining Company (Proprietary) 
+Limited (NZ)Subsidiary 100.00% No
+26 Skorpion Zinc (Proprietary) Limited (SZPL) Subsidiary 100.00% No
+27 THL Zinc Namibia Holdings (Proprietary) 
+Limited (“VNHL ”)Subsidiary 100.00% No
+28 THL Zinc Ltd Subsidiary 100.00% No
+29 Killoran Lisheen Mining Limited Subsidiary 100.00% No
+30 Lisheen Milling Limited Subsidiary 100.00% No
+31 Lisheen Mine Partnership Subsidiary 100.00% No
+32 Vedanta Lisheen Mining Limited Subsidiary 100.00% No
+33 Cairn Energy Hydrocarbons Limited Subsidiary 100.00% Yes
+34 Black Mountain Mining (Proprietary) Limited Subsidiary 74.00% Yes
+35 Cairn Lanka Private Limited Subsidiary 100.00% No
+36 AvanStrate Korea Inc Subsidiary 98.2% No
+37 Gaurav Overseas Private Limited Associate 50.00% No
+38 Madanpur South Coal Company Limited Joint Venture 18.00% No
+39 Goa Maritime Private Limited Joint Venture 50.00% No
+40 Rosh Pinah Health Care (Proprietary) Limited Joint Venture 69.00% No
+41 Gergarub Exploration and Mining (Pty) Limited Joint Venture 51.00% No
+42 Roshskor Township (Pty) Limited Associate 50.00% No
+43 Meenakshi Energy Limited Subsidiary 100.00% Yes
+44 Hindmetal Exploration Services Private Limited Subsidiary 63% No 
+STATUTORY REPORTS CO FS
+349
+Business Responsibility & Sustainability Report
+Integrated Report and Annual Accounts 2024-25
+
+Sr. 
+No.Name of the holding/ subsidiary/  
+associate/ companies/ joint ventures (A)Indicate whether holding/ 
+subsidiary/ associate/ 
+companies/ joint ventures% of shares 
+held by 
+listed entityDoes the entity indicated at 
+column A, participate in the 
+Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+45 Vedanta Base Metals Limited Subsidiary 100.00% No
+46 Vedanta Displays Limited Subsidiary 100.00% No
+47 Vedanta Iron and Steel Limited Subsidiary 100.00% No
+48 Vedanta Semiconductors Private Limited Subsidiary 100.00% No
+49 THL Zinc Ventures Ltd Subsidiary 100.00% No
+50 Vedanta Copper International VCI  
+Company Limited Subsidiary 100.00% No
+51 Monte Cello BV (“MCBV”) Subsidiary 100.00% No
+52 THL Zinc Holding BV Subsidiary 100.00% No
+53 Fujairah Gold FZC Subsidiary 100.00% Yes
+54 Vedanta ESOS Trust Subsidiary 100.00% No
+55 Vedanta Lisheen Holdings Limited Subsidiary 100.00% No
+56 AvanStrate Taiwan Inc Subsidiary 98.2% No
+	 	 	 (a)		Vedanta	Incorporated	holds	56.38%	shares	in	Vedanta	Limited
+	 	 	 (b)		 This	number	includes	all	entities	in	Vedanta	Group,	notwithstanding	the	reporting	boundary	described	in	Section	A-13
+VI. CSR Details
+ 24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: 
+   Yes
+(ii)   Turnover (in ` crore)Standalone ` 74,295 crore
+Consolidated ` 1,52,968 crore
+(iii)   Net worth (in ` crore)Standalone ` 75,399 crore
+Consolidated ` 53,753 crore
+VII. Transparency and Disclosures Compliances
+ 25.  Complaints/ Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct (NGRBC):
+Sr.  
+No.Stakeholder 
+Group from Whom 
+Complaint is 
+ReceivedGrievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No)(If yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+1 Communities Yes  Link 194 20 246 9  
+2 Investors (Other 
+than Shareholders)Yes  Link 0 0 0 0  
+3 Shareholders Yes  Link 285 3 476 0  
+4 Employees and 
+workersYes  Link 514 26 1,229 60  
+5 Customers Yes  Link 275 14 300 21  
+6 Value Chain 
+PartnersYes  Link  9 1 759 46  
+7 Other  
+(please specify) NA   - - - -  
+ 26. Overview of the entity’s material responsible business conduct issues
+   In this reporting cycle, we carried out a renewed double materiality assessment with support from an external 
+partner. This year’s assessment has built further upon our materiality assessment in FY 2022-23. We adopted 
+the principles of double materiality established by the EU Corporate Sustainability Reporting Directive (CSRD) to 
+identify and prioritise issues that are financially material to our business operations while also having significant 
+environmental and social impacts on our stakeholders. The key focus of our materiality assessment in this cycle 
+was to identify impacts (positive and negative), risks, and opportunities associated with the material topics. This 
+approach allowed us to dissect and understand material topics at a deeper level.  This analysis will enable us to 
+align our sustainability strategy and disclosures with stakeholder expectations in a way that creates and preserves 
+long-term value for Vedanta Group. 
+350
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2024-25

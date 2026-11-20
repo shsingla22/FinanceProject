@@ -1,0 +1,111 @@
+ 
+Ref No.: ICIL/27/2024-25                                        June 15, 2024  
+ 
+National Stock Exchange of India Ltd.  
+Listing Department 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400 051. 
+ 
+Company Symbol : ICIL  BSE Limited  
+Department of Corporate Services 
+Floor 25, Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai – 400 001. 
+ 
+Scrip Code No. :  521016 
+ 
+Dear Sir/Madam, 
+ 
+Sub.: Intimation for issue of Duplicate Share Certificate under Regulation 39(3) of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, this is to inform that the Company has issued Duplicate Share Certificate in lieu of the original 
+share certificate to the following Shareholders on  June 15, 2024 : 
+ 
+Sr. 
+No. Folio 
+No. Name of Shareholder(s) New 
+Certificate 
+No. Distinctive Nos. No. of Shares 
+of face value 
+of Rs. 2/- 
+each From To 
+1. 0066449  Ram Avtar Singhal  22630 4287991  4288490  500 
+2. 0051533  Rupam Rajbanshi  22631 2877261  2877410  150 
+3. 0066035  Shashi Diwen  22632 4259831  4260330  500 
+4. 0089183  S Deepak Kumar  22633 4864266  4865265  1000 
+5. 0006918  Harshida B Parmar  22634 327481 328130 650 
+ 
+The aforesaid Duplicate Share Certificate has been issued on receipt of proper documentation from the 
+Shareholder and pursuant to the approval accorded by the Share Transfer Committee on June 15, 2024 . 
+ 
+Further, Register of Duplicate Share Certificate sent by Link Intime India Private Limited (“RTA”) on June 
+15, 2024, enclosed for your ready reference. However, the Company / RTA will follow the procedure as 
+per SEBI Circular no. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 dated 25th January, 2022 for 
+issuance of duplicate shares in dematerialized form. 
+ 
+Kindly take the above information on record.  
+ 
+Thanking you, 
+ 
+For Indo Count Industries Limited  
+ 
+ 
+ 
+ 
+Satnam Saini 
+Company Secretary & GM- Legal 
+ 
+Encl.: A/a 
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5249TO: TN5245FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5245 0066449
+RAM AVTAR SINGHAL 15/06/2024
+DUP 2.00OLD 500  4288490  4287991  500  8935  8935 
+ 500 ---------------
+ 2.00NEW 500  4288490  4287991  500  22630  22630 
+ 500 ---------------
+TN5246 0051533
+RUPAM RAJBANSHI 15/06/2024
+DUP 2.00OLD 150  2877410  2877261  150  6259  6259 
+ 150 ---------------
+ 2.00NEW 150  2877410  2877261  150  22631  22631 
+ 150 ---------------
+TN5247 0066035
+SHASHI DIWEN 15/06/2024
+DUP 2.00OLD 500  4260330  4259831  500  8874  8874 
+ 500 ---------------
+ 2.00NEW 500  4260330  4259831  500  22632  22632 
+ 500 ---------------
+TN5248 0089183
+S DEEPAK KUMAR 15/06/2024
+DUP 2.00OLD 1000  4865265  4864266  1000  11804  11805 
+ 1000 ---------------
+ 2.00NEW 1000  4865265  4864266  1000  22633  22633 
+ 1000 ---------------
+15/06/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5249TO: TN5245FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5249 0006918
+HARSHIDA B PARMAR 15/06/2024
+DUP 2.00OLD 650  328130  327481  650  807  807 
+ 650 ---------------
+ 2.00NEW 650  328130  327481  650  22634  22634 
+ 650 ---------------
+15/06/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

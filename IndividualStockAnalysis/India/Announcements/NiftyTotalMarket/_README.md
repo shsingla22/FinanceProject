@@ -1,0 +1,41 @@
+# NiftyTotalMarket — restructuring filings (spin-offs, demergers, schemes)
+
+**Generated:** 2026-11-16 13:15 UTC
+**Window:** the 960 days to 2026-11-16 · **Universe:** 2 official
+NiftyTotalMarket constituents · **Rows:** 9712 filings across 679 companies
+
+## What is here
+- `_announcements_restructuring.csv` — one row per exchange filing that
+  classifies as a restructuring event: `date, symbol, company, source
+  (NSE | BSE-RSS | BSE-screener), category, kind, tags, headline,
+  attachment, ann_id, file_size, text_file`.
+- `text/` — the attachment's extracted text, `{SYMBOL}_{ann_id}.txt`.
+- `_bse_codes.csv` — symbol → BSE scrip code and screener id.
+- `_bse_rss_snapshots.csv` — BSE's daily RSS, accumulated run over run.
+- `_fetch_log.csv` — what each run did.
+
+## Kinds (first matching tag wins; all tags kept in `tags`)
+- `merger`: 2104
+- `rights_issue`: 2104
+- `preferential_issue`: 1645
+- `slump_sale`: 1500
+- `demerger`: 882
+- `capital_reduction`: 752
+- `scheme_other`: 512
+- `subsidiary_listing`: 213
+
+## Sources, honestly
+NSE's corporate-announcements API is read month by month for the whole
+exchange and filtered to the universe — this is the complete one-year
+record, since every member is NSE-listed and Regulation 30 disclosures
+go to both exchanges. Two more NSE sources close the headline blind spot:
+the board-meeting PURPOSES feed (`source` NSE-BM — "to consider a scheme
+of arrangement (demerger)" is often the first word), and a DEEP SCAN of
+every bare "Outcome of Board Meeting" filing (`source` NSE-deep): its
+first pages are read and the filing kept when they describe a
+restructuring. BSE's announcement API refuses this environment
+(Akamai), so BSE is covered by its daily RSS feed (accumulating forward
+from the first run) and by the BSE-sourced per-company lists on
+screener.in; BSE attachment PDFs download normally.
+
+Re-run: `python3 ../fetch_announcements.py` (adds, never duplicates).

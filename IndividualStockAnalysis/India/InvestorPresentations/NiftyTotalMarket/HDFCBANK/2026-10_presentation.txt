@@ -1,0 +1,782 @@
+
+=== page 1 ===
+Classification -ConfidentialClassification -Confidential
+Q2FY27 Earnings
+October 17, 2026Presentation
+=== page 2 ===
+HDFC Bank Presentation Q2 FY2027
+ 2Key performance metrics for Q2 FY27
+➢Deposits; average YoY ↑ ₹ 4.56 tn (16.8%) ; EOP YoY ↑ ₹ 5.26 tn (18.8%)
+✓Average deposits QoQ ↑ ₹ 1.55 tn (5.1%) ; EOP QoQ ↑ ₹ 1.57 tn (4.9% )
+✓Average CASA QoQ ↑ ₹ 0.14 tn (1.5%) ; EOP QoQ ↑ ₹ 0.27 tn (2.6% )
+✓Average time deposits QoQ ↑ ₹ 1.41 tn (6.9% ) ; EOP QoQ ↑ ₹ 1.30 tn (6.1%)
+➢AUM; average YoY ↑ ₹ 3.93 tn (14.1%) ; EOP YoY ↑ ₹ 4.39 tn  (15.3% )
+✓Average AUM; QoQ ↑ ₹ 1.49 tn (4.9%) ; EOP QoQ ↑ ₹ 1.80 tn (5.8%)
+➢Gross Advances;  average YoY  ↑ ₹ 4.35 tn  (16.2% ) ; EOP YoY ↑ ₹ 4.50 tn  (16.3% )
+✓Average Gross Advances; QoQ ↑ ₹ 1.54 tn (5.2%) ; EOP QoQ ↑ ₹ 1.59 tn (5.2%)
+➢Asset quality continues to remain stable; GNPA ratio at 1.11%; ex -agri at 0.87%
+➢PAT for the quarter ₹ 195 bn; RoA of 1.78%; RoE of 1 3.5%; Standalone EPS ₹ 12.7 for the quarter
+=== page 3 ===
+HDFC Bank Presentation Q2 FY2027
+ 3Key financial parameters for Q2 FY27
+Average deposits at ₹ 31,664 bn,
+ ↑16.8%  YoY ; ↑5.1%  QoQ
+Average advances  under 
+management at ₹ 31,872 bn, 
+↑14.1%  YoY ; ↑4.9%  QoQ
+Net interest margin of 3.16% ^
+Net interest margin (IEA) of 3.32%*
+Core cost -to-income ratio of 39.1%Gross NPA at 1.11%, ex -agri
+0.87%Profit after tax of ₹ 195 bn, EPS
+for the quarter ₹ 12.7
+Return on assets of 1.78%
+Capital adequacy ratio at 18.9% 
+of which CET1 at 17.1%
+Standalone Indian GAAP figures ( bn = Billion); ₹ =Rupees;  ^based on total assets, *based on interest earning assets
+STANDALONE
+
+=== page 4 ===
+HDFC Bank Presentation Q2 FY2027
+ 4STANDALONE
+Income statement
+Certain figures reported above will not add -up due to rounding  
+P&L (₹ bn) Q2 FY26 Q1 FY27 Q2 FY27 QoQ YoY
+Net interest income 315.5 335.3 346.2 3.2% 9.7%
+Non-interest income 143.5 128.2 138.3 7.9% (3.6%)
+Net revenue 459.0 463.6 484.5 4.5% 5.6%
+Operating expenses 179.8 181.9 189.7 4.3% 5.5%
+Provisions 35.0 30.6 35.7 16.8% 2.1%
+Profit before tax 244.2 251.1 259.1 3.2% 6.1%
+Profit after tax 186.4 190.6 195.1 2.4% 4.7%
+Profit after tax
+(Excl. Treasury Trading gains)168.1 187.4 189.3 1.0% 12.6%
+=== page 5 ===
+HDFC Bank Presentation Q2 FY2027
+ 5STANDALONE
+Abridged balance sheet
+Certain figures reported above will not add -up due to rounding  
+Balance sheet (₹ bn) Sep'25 Jun'26 Sep'26 QoQ YoY
+Net Advances 27,464 30,373 31,956 1,583 4,492
+Investments 8,743 9,194 9,240 46 497
+Government & debt securities 8,533 8,979 9,019 40 486
+Equity & other securities 210 215 221 6 11
+Cash & equivalent 1,652 2,236 2,503 267 851
+Fixed & other assets 2,171 2,172 2,079 (93) (92)
+Total assets 40,030 43,975 45,778 1,803 5,748
+Deposits 28,018 31,708 33,274 1,566 5,256
+Borrowings 5,096 4,618 4,890 272 (206)
+Equity & reserves 5,224 5,831 5,843 12 619
+Other liabilities 1,692 1,818 1,771 (47) 79
+Total liabilities & equity 40,030 43,975 45,778 1,803 5,748
+=== page 6 ===
+HDFC Bank Presentation Q2 FY2027
+ 6
+118%115% 115% 118% 119% 118%
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+NSFR
+124%120%116% 114% 115% 113%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Average LCRCapital and liquidity metrics
+Capital adequacy Liquidity ratios
+19.9% 20.0% 19.9% 19.7% 19.6%18.9%
+17.8% 17.9% 17.8% 17.7% 17.8%17.2%
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Total Capital Tier 1 Capital
+=== page 7 ===
+HDFC Bank Presentation Q2 FY2027
+ 7
+27,641 28,018 28,601 31,053 31,708 33,274 
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26BUSINESS GROWTH
+Growth in deposits
+EOP Deposits Average Deposits
+₹ bn ₹ bn
+18.8%
+4.9% 
+26,576 27,105 27,524 28,511 30,115 31,664 
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'2616.8%
+5.1%
+=== page 8 ===
+HDFC Bank Presentation Q2 FY2027
+ 8
+27,820 28,688 29,460 30,573 31,272 33,074 
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+27,423 27,946 28,641 29,644 30,386 31,872 
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26BUSINESS GROWTH
+Growth in advances
+EOP advances under management Average advances under management
+₹ bn ₹ bn
+15.3%
+5.8% 4.9 %14.1%
+=== page 9 ===
+HDFC Bank Presentation Q2 FY2027
+ 9
+2,980 2,964 2,995 3,545 3,245 3,356 6,390 6,527 6,617 7,058 7,008 7,163 
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+CA SA
+82% 83% 83% 82% 80% 80%18% 17% 17% 18% 20% 20%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Retail branch WholesaleHIGH QUALITY DEPOSIT FRANCHISE
+Retail branch driving deposits
+Average Retail / Wholesale Proportion of CASA deposits
+₹ bn
+CASA % 34% 34% 34% 34% 32% 32%
+Time deposits EOP ; QoQ ↑ ₹ 1.30 tn (6.1% ) : YoY ↑ ₹ 4.23 tn (22.8%)10.8%
+Retail branch Wholesale
+2.6%
+=== page 10 ===
+HDFC Bank Presentation Q2 FY2027
+ 10
+Advances Mix (new format)
+Description
+PL
+AL/TW
+Payments
+Agri
+Other retail28%
+22%
+15%16%19%
+PL AL/TW Payments Agri Other retailLOAN BOOK
+Mix across segments
+Advances mix Composition of retail assets
+Certain figures reported above will not add -up due to rounding  
+Figures of the previous periods have been regrouped / reclassified wherever necessary to conform to current period's classifi cation.Sep’26
+Loans (₹ bn) Sep'25 Jun'26 Sep'26 QoQ YoY
+Retail 15,554 16,315 17,378 6.5% 11.7%
+    Mortgage 8,565 9,005 9,205 2.2% 7.5%
+    Retail Assets 6,989 7,310 8,173 11.8% 16.9%
+Small and mid-market 5,718 6,556 7,061 7.7% 23.5%
+    Business Banking 4,107 4,823 5,259 9.0% 28.1%
+    Commercial Transportation 1,612 1,733 1,802 4.0% 11.8%
+Corporate & other wholesale 7,416 8,401 8,635 2.8% 16.4%
+Advances under management 28,688 31,272 33,074 5.8% 15.3%
+    IBPC/BRDS/Securitisation (997) (664) (879) 32.3% (11.8%)
+Gross Advances 27,692 30,608 32,195 5.2% 16.3%
+Retail AUM Mix 54% 52% 53%
+*
+*Q2 FY27 Retail Assets include FCNR leverage loans of ₹ 548 bn, excluding which the growth would be 9.1% YoY & 4.3% QoQ
+=== page 11 ===
+HDFC Bank Presentation Q2 FY2027
+ 11
+7.9%7.1% 7.4%9.1%11.3%
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26LOAN BOOK
+Retail Assets and Business Banking YoY growth
+Figures of the previous periods have been regrouped / reclassified wherever necessary to conform to current period's classifi cation.Retail Assets
+(excluding Agri, Payments and FCNR Leverage Loans)
+Accelerating Year on Year growthBusiness Banking
+19.4% 19.8% 20.0%22.3%28.1%
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+=== page 12 ===
+HDFC Bank Presentation Q2 FY2027
+ 12BUILDING FRANCHISE STRENGTH
+Branch expansion and vintage
+Branch network Branch vintage mix
+Distribution strength enables reach for customer engagement #s
+Certain figures reported above will not add -up due to rounding  
+YoY
+QoQ
+28% 28% 29% 29% 29% 29%21% 21% 21% 21% 21% 21%34% 33% 33% 33% 33% 33%17% 17% 17% 17% 17% 17%9,499 9,545 9,616 9,689 9,694 9,706 
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Metro Urban Semi-Urban Rural
+YoY 648 453 473 234 195 161
+QoQ 44 46 71 73 5 12
+19%23%
+12%24%
+22%
+0-3 years 3-5 years 5-10 years 10-15 years 15 years and
+aboveSep’26
+=== page 13 ===
+HDFC Bank Presentation Q2 FY2027
+ 13
+71% 69% 71% 71% 72% 71%29% 31% 29% 29% 28% 29%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Net Interest Income Non Interest Income
+YoY
+QoQ
+532
+459 459 463 464485
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26STANDALONE
+Net revenues
+Net revenue Net revenue mix
+₹ bn
+YoY 31% 10% 9% 5% (13%) 6%
+QoQ 21% (14%) (0%) 1% 0% 5%
+^excluding prior year transaction gains (HDBFS), certain provisions and tax credit, YoY growth is 5%
+* excluding transaction gains, YoY growth is 9% & QoQ growth is flat*#
+# excluding transaction gains^
+=== page 14 ===
+HDFC Bank Presentation Q2 FY2027
+ 14
+3.4%
+3.3%3.4%3.4%
+3.3%3.2%3.5%
+3.4%3.5% 3.5%
+3.4%
+3.3%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+NIM NIM (IEA)
+YoY
+QoQ
+314 316326331335346
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26STANDALONE
+Net interest income Net interest margin (NIM)Net interest income
+IEA: Interest Earning Assets₹ bn
+YoY 5% 5% 6% 3% 7% 10%
+QoQ (2%) 0% 3% 1% 1% 3%
+3.16%
+Certain figures reported above will not add -up due to rounding  
+=== page 15 ===
+HDFC Bank Presentation Q2 FY2027
+ 15STANDALONE
+Yield on assets and cost of funds
+Yield on assets and cost of funds Key Balance Sheet Mix
+Certain figures reported above will not add -up due to rounding  
+Figures of the previous periods have been regrouped / reclassified wherever necessary to conform to current period's classifi cation.
+8.1%7.8% 7.8% 7.8% 7.7% 7.6%
+4.8%4.6% 4.5%4.4% 4.4% 4.4%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Yield on Assets Cost of Funds (incl. Shareholders' Funds)
+Particulars Sep'23 Mar'24 Mar'25 Mar'26 Jun'26 Sep'26
+AUM Mix
+Retail 53% 54% 55% 53% 52% 53%
+    Mortgage 29% 30% 30% 29% 29% 28%
+    Retail Assets 24% 24% 25% 24% 23% 25%
+Small and mid-market 17% 18% 19% 21% 21% 21%
+    Business Banking 12% 12% 13% 15% 15% 16%
+    Commercial Transportation 5% 5% 6% 6% 6% 5%
+Corporate & other wholesale 30% 28% 26% 26% 27% 26%
+CASA ratio 38% 38% 35% 34% 32% 32%
+Borrowings as a %  of Total 
+Liabilities21% 18% 14% 11% 11% 11%
+=== page 16 ===
+HDFC Bank Presentation Q2 FY2027
+ 16
+76 88 92 92 85 97 16 16 14 15 13 16 101 
+24 9 8 
+4 8 24 
+15 
+17 17 27 18 217 
+144 
+133 132 128 138 
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Fees & Commissions FX & Derivative income
+Treasury Trading gains Other Miscellaneous incomeSTANDALONE
+Other income
+Other income Fee income mix
+₹ bn
+Certain figures reported above will not add -up due to rounding  ^ excluding prior year transaction gains (HDBFS),YoY growth is 2%
+* excluding transaction gains, YoY growth is 18% & QoQ growth is 5%
+YoY 104% 25% 16% 10% (41%) (4%)
+QoQ 81% (34%) (8%) (0%) (3%) 8%
+22% 24% 23% 25%21% 24%19%19% 19%20%20%21%36% 34% 35% 32%36%32%17% 16% 17% 17% 16% 15%6% 7% 6% 6% 7% 8%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Third Party Products Retail / Small and mid-market
+Payments Retail liabilities
+Wholesale*
+^
+=== page 17 ===
+HDFC Bank Presentation Q2 FY2027
+ 17
+1.9% 1.9% 1.9% 1.9% 1.8% 1.7%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Cost to assetsSTANDALONE
+Operating expenses
+Operating expenses Cost efficiency
+₹ bn
+# including transa ction gains  cost to income would be 32.8%^
+Certain figures reported above will not add -up due to rounding  
+39.6% 39.2% 39.2% 39.9% 39.2% 39.1%
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Cost to income ratio#
+Q3 Dec’25 excludes estimated impact of employee benefits under new labour code
+62 65 64 63 64 68 113 115 116 122 118 122 174 180 180 185 182 190 
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Staff costs Other operating expenses
+=== page 18 ===
+HDFC Bank Presentation Q2 FY2027
+ 18
+1.0%1.2% 1.2%
+1.2% 1.2%1.1%
+0.4% 0.4%0.4%0.4%0.4%
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+GNPA NNPARISK MANAGEMENT
+Resilient asset quality
+Gross NPA and Net NPA GNPA by Segment
+Stable asset quality across segments
+Certain figures reported above will not add -up due to rounding  
+1.2%
+1.1%
+0.7%0.6%1.1% 1.1%
+Jun'26 Sep'26
+Retail Retail (ex-Agri) Others
+1.0% 1.0% 0.9% 0.9% 0.9%GNPA (ex-agri)
+=== page 19 ===
+HDFC Bank Presentation Q2 FY2027
+ 19
+358 61 37 
+24 
+358 
+GNPA as on Jun'26 Slippages Upgrades & Recoveries Write offs GNPA as on Sep'26
+358 80 40 23 
+341 
+GNPA as on Mar'26 Slippages Upgrades & Recoveries Write offs GNPA as on Jun'26RISK MANAGEMENT
+Movement of NPAs
+₹ bn
+₹ bn
+Certain figures reported above will not add -up due to rounding  (Ex-agri : 61 bn)(Ex-agri 91 bps)115 bps117 bps117 bps 111 bps (Ex-agri 91 bps)
+(Ex-agri : 54 bn)(Ex-agri 87 bps)
+(Ex-agri 91 bps)
+=== page 20 ===
+HDFC Bank Presentation Q2 FY2027
+ 20
+67% 66% 67% 66% 67%
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Specific PCR
+51 bps 55 bps 
+35 bps 40 bps 44 bps 
+37 bps41 bps
+21 bps29 bps32 bps
+Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Credit cost Credit cost (net of recoveries)
+228 232 229 235 240 167 157 157 156 154 214 214 214 214 214 113 115 115 119 127 722 718 715 724 735 
+Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+Specific Contingent Floating General
+35 3826 3136
+Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Credit cost₹ bnRISK MANAGEMENT
+Credit cost and stock of provisions
+Stock of provisions Credit cost
+₹ bn
+Certain figures reported above will not add -up due to rounding  *Q3 Dec’25 - excludes release of provision in respect of large borrower group on fulfilment of condition 
+ex-agri 70% 70% 71% 70% 70%#
+*
+*
+# after release of provision in respect of large borrower group on fulfilment of condition
+=== page 21 ===
+HDFC Bank Presentation Q2 FY2027
+ 21Profitability
+Earnings per share*
+₹ bn ₹ 
+* for the quarterStandalone profit after tax
+# bn
+YoY 12% 11% 12% 9% 5% 5%
+YoY
+182 186 187 192 191 195 
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+11.9 12.1 12.1 12.5 12.4 12.7 
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+EPS Standalone
+15.32 15.35 15.38 15.39 15.40 15.41 
+Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+Average number of shares
+^ excluding  prior year transaction gains (HDBFS), certain provisions and tax credit, YoY growth is 10%
+* EPS for the periods prior to Q2 Sep’25 are adjusted for bonus share issuance
+Average number of shares for periods prior to Q2 Sep’25 are adjusted for bonus share issuance^
+=== page 22 ===
+HDFC Bank Presentation Q2 FY2027
+ 22GROUP COMPANIES
+Stake held in key subsidiary entities – September 30, 2026
+EntityInvestment 
+Amount 
+(₹ bn)Total shares 
+outstanding 
+by entity ( mn)% Stake 
+held by 
+HDFC BankPAT of the 
+company 
+(FTQ) (₹ bn)Book value 
+per share
+(₹)EPS (FTQ)
+(₹)
+HDB Financial Services 29 830.8 74.08% 7.8 266.7 9.4
+HDFC Life Insurance 66 2,172.6 50.53% 5.1 89.3 2.3
+HDFC AMC 2 429.1 52.29% 7.5 200.9 17.5
+HDFC ERGO General Insurance 28 727.1 50.24% 1.6 81.3 2.3
+HDFC Securities 13 17.9 93.93% 2.7 2,098.0 148.4
+All others 4 0.7
+Total 142
+PAT (profit after tax), Book value per share and EPS of the entities are in accordance with GAAP as applicable to the respect ive entities
+=== page 23 ===
+HDFC Bank Presentation Q2 FY2027
+ 23GROUP COMPANIES
+Subsidiaries – Q2FY27 update – HDB Financial Services
+•74.08% stake held by the Bank as of September 30, 2026
+•24.8 million customers serviced through a network of 1,701 branches across 1,156 cities/towns
+‒Incrementally, 0.9 million customers have been added during Q2 FY27
+•Q2FY27 performance highlights
+ – Loan book of ₹ 1,245 bn up by 11.7% YoY and 2.2% sequentially
+ – Gross Stage 3 assets at 2.43% significant lower than prior year
+ – Net interest margin of 8.2% improved year -on-year by 28 bps
+ – Net profit of ₹ 7.8 bn, up 34% YoY and almost flat QoQ
+ – RoA of 2.4%; EPS of ₹ 9.4; Book value per share at ₹ 266.7
+ – RoE of 14.4%; Capital adequacy ratio at 21.4%
+=== page 24 ===
+HDFC Bank Presentation Q2 FY2027
+ 24GROUP COMPANIES
+Subsidiaries – Q2FY27 update – HDFC Life Insurance
+•50.53% stake held by the Bank as of September 30, 2026
+•339k individual policies sold and overall 10.8 mn lives insured during the quarter
+•Individual weighted received premium market share of 16.2% for Q2FY27
+•Q2FY27 performance highlights
+ – Premium earned of ₹ 224 bn, grew 16% over prior year and AUM at ₹ 4.1 tr up by 14% YoY 
+ – New Business Premium of ₹ 110 bn with new business margin at 24.5%
+ – Value of new business for the quarter ₹ 11.6 bn
+ – PAT of ₹ 5.1 bn up by 14% YoY
+ – Solvency Ratio at 180% as of September 30, 2026
+ – Embedded value at ₹ 665 bn improved 12% YoY
+=== page 25 ===
+HDFC Bank Presentation Q2 FY2027
+ 25GROUP COMPANIES
+Subsidiaries – Q2FY27 update – HDFC AMC
+•52.29% stake held by the Bank as of September 30, 2026
+•Quarterly average AUM of ₹ 9.7 trillion; 11.1% market share
+•67% of quarterly average AUM is equity oriented with 63% in actively managed equity oriented
+•17.7 million unique investors; 28% penetration in the Mutual Fund industry
+•Q2FY27 performance highlights
+ – Total income of ₹ 12.4 bn, grew 11% over prior year
+ – Net profit of ₹ 7.5 bn, grew 4% over prior year
+ – EPS of ₹ 17.5
+=== page 26 ===
+HDFC Bank Presentation Q2 FY2027
+ 26GROUP COMPANIES
+Subsidiaries – Q2FY27  update – HDFC ERGO General Insurance
+•50.24% stake held by the Bank as of September 30, 2026
+•Q2FY27 Gross direct premium market share of 5.2% in overall industry and 7.7% amongst private sector insurers
+•Retail mix in business 58% for the quarter ended September 30, 2026
+•Distribution network of 189 branches and 714 digital offices
+•Q2FY27 performance highlights
+ – Gross written premium of ₹ 52.6 bn; grew 31% YoY
+ – Net profit after tax of ₹ 1.6 bn; lower by 10% YoY
+ – EPS of ₹ 2.26
+ – Solvency Ratio at 211% as of September 30, 2026
+=== page 27 ===
+HDFC Bank Presentation Q2 FY2027
+ 27GROUP COMPANIES
+Subsidiaries – Q2FY27 update – HDFC Securities Limited
+•93.93% stake held by the Bank as of September 30, 2026
+•8.3 million customers serviced through a network of 126 branches across 99 cities
+•Around 97% of the active clients utilized the services offered through company’s digital platforms.
+•Q2FY27 performance highlights   
+ – Net revenue of ₹ 9.6 bn; grew 37.3% YoY
+ – Net profit of ₹ 2.7 bn; grew by 26.1% YoY 
+ – EPS of ₹ 148.4
+ – Book value per share at ₹ 2,098 as of 30th September, 2026
+=== page 28 ===
+HDFC Bank Presentation Q2 FY2027
+ 28CONSOLIDATED
+Consolidated income statement
+Certain figures reported above will not add -up due to rounding  
+P&L (₹ bn) Q2 FY26 Q1 FY27 Q2 FY27 QoQ YoY
+Net revenue 718.2 854.8 786.9 (7.9%) 9.6%
+Operating expenses 408.8 544.9 458.2 (15.9%) 12.1%
+Provisions 42.8 38.0 42.1 10.7% (1.7%)
+Profit before tax 266.6 271.9 286.6 5.4% 7.5%
+Consolidated profit 196.1 192.4 207.0 7.6% 5.6%
+=== page 29 ===
+HDFC Bank Presentation Q2 FY2027
+ 29ESG at HDFC Bank
+Ratings & Indices
+ESG Score: 74/100S&P Corporate 
+Sustainability 
+Assessment
+(82nd percentile)Environmental
+•Target to be carbon neutral by 
+FY32
+•Board approved Environmental 
+Policy focusing on enhanced 
+environmental targets and 
+Sustainable Procurement 
+•Board approved Sustainable 
+Finance Framework, along with 
+a second party opinion
+•Increased Sustainable Finance 
+portfolio to 27.8% in FY26 
+•Enhanced assessment and 
+disclosure of F inanced 
+Emissions
+•Increased Renewable Energy 
+mix to 15.9% in FY 26 
+compared to 3.2% in the 
+previous yearSocial
+•Leading responsibly
+•Banking the unbanked through 
+inclusive banking initiatives;
+•Supporting businesses;
+•Enabling smart banking;
+•Empowering communities
+•Gender diversity  target 27% by 
+FY27
+•CSR initiatives cumulatively 
+impacted over 107 
+mnbeneficiaries
+•People and work culture:
+Nurture, Care & Collaborate
+•2-tiered governance structure for 
+Diversity, Equity & Inclusion – at 
+the corporate & regional levelGovernance
+•Commitment to principles of 
+independence, accountability, 
+responsibility, transparency 
+and fair & timely disclosures
+•Diversified and skilled board
+•CSR & ESG Committee of 
+Board oversees the ESG 
+strategy along with the ESG 
+Apex Council 
+•Highest governance score of 1 
+by ISS, 2026
+•ET Awards: 
+Selected as the ‘Conscious 
+Corporate of the Year’ for its 
+work in CSR & ESG
+FTSE4GOOD 
+Emerging 
+Indices
+Sept 30, 2026
+=== page 30 ===
+HDFC Bank Presentation Q2 FY2027
+ 30
+12.8 12.2 14.9 16.4 16.9 16.7 16.4 16.3 17.2 17.3 17.4 17.118.0 18.2 16.3 16.8 16.6 16.9 17.4 16.1 14.6 14.3 13.8 13.5
+ - 5.0 10.0 15.0 20.0
+FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY26 Q1 Jun'26 Q2 Sep'26
+CET1 % RoE %COMPOUNDING VALUE
+Balance sheet and capital productivity
+CET1 capital as per Basel IIIGrowth in assets and RoA
+Healthy capital position and RoE
+HDFC Limited merged with HDFC Bank effective July 1, 2023. Prior period numbers are not comparable.
+1.9 1.9 1.9 2.0 2.0 2.0 2.1 2.0 1.9 1.9 1.9 1.8
+ - 10,000 20,000 30,000 40,000 50,000
+FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY26 Q1 Jun'26 Q2 Sep'26
+Assets ROA %
+=== page 31 ===
+HDFC Bank Presentation Q2 FY2027
+ 31
+277 288 301 313 316 329 341 354 354 367 381 394 395
+Q2 Sep'23 Q3 Dec'23 Q4 Mar'24 Q1 Jun'24 Q2 Sep'24 Q3 Dec'24 Q4 Mar'25 Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26
+267 278 290 301 304 316 328 341 340 353 366 379 379
+Q2 Sep'23 Q3 Dec'23 Q4 Mar'24 Q1 Jun'24 Q2 Sep'24 Q3 Dec'24 Q4 Mar'25 Q1 Jun'25 Q2 Sep'25 Q3 Dec'25 Q4 Mar'26 Q1 Jun'26 Q2 Sep'26₹ ₹ COMPOUNDING VALUE
+Book value performance
+Standalone book value per share*
+Consolidated book value per share*
+* Book value per share for period prior to Q2 Sep’25 are adjusted for bonus share issuance
+=== page 32 ===
+HDFC Bank Presentation Q2 FY2027
+ 32APPENDIX
+=== page 33 ===
+HDFC Bank Presentation Q2 FY2027
+ 33Industry -wise distribution*CONSOLIDATED
+*As per Pillar 3 Disclosure
+Certain figures reported above will not add -up due to rounding  
+Industry (₹ bn)Total 
+Outstanding
+(FB + NFB)As a (%) Industry (₹ bn)Total 
+Outstanding
+(FB + NFB)As a (%)
+Consumer Loans 10,043 25.6% Housing Finance Companies 508 1.3%
+NBFC 2,186 5.6% Capital Market Intermediaries 506 1.3%
+Business Services 1,564 4.0% Chemical and Products 393 1.0%
+Real Estate & Property Services 1,417 3.6% Telecom 309 0.8%
+Retail Trade 1,404 3.6% Financial Intermediaries 308 0.8%
+Consumer Services 1,315 3.3% Mining and Minerals 304 0.8%
+Infrastructure Development 1,138 2.9% Non-ferrous Metals 268 0.7%
+Financial Institutions 1,133 2.9% Consumer Durables 266 0.7%
+Power 1,039 2.6% Gems and Jewellery 260 0.7%
+Road Transportation 1,018 2.6% Agri Production - Non food 226 0.6%
+Wholesale Trade - Non Industrial 965 2.5% Drugs and Pharmaceuticals 206 0.5%
+Wholesale Trade - Industrial 928 2.4% Agri Produce Trade 192 0.5%
+Food and Beverage 922 2.3% Paper, Printing and Stationery 182 0.5%
+Engineering 888 2.3% Plastic & Products 179 0.5%
+Iron and Steel 880 2.2% Cement & Products 166 0.4%
+Textiles & Garments 735 1.9% Fertilisers & Pesticides 150 0.4%
+Agri-Allied 718 1.8% Information Technology 132 0.3%
+Automobile & Auto Ancillary 696 1.8% Other Non-metalic Mineral Products 130 0.3%
+Banks 611 1.6% Animal Husbandry 109 0.3%
+Coal & Petroleum Products 637 1.6% FMCG & Personal Care 107 0.3%
+Agri Production - Food 561 1.4% Other Industries 3,605 9.2%
+Total 39,304 100.0%
+=== page 34 ===
+HDFC Bank Presentation Q2 FY2027
+ 34Top 20 borrower exposure as a % of total exposure
+9.7% 9.4% 9.2% 9.4%10.2%9.5%
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+=== page 35 ===
+HDFC Bank Presentation Q2 FY2027
+ 35
+65% 65% 66%64%65% 65%
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26
+69% 70% 70%68%69% 69%
+Jun'25 Sep'25 Dec'25 Mar'26 Jun'26 Sep'26Risk Weighted Assets
+* Risk Weight Density = RWA / (FB + NFB (post CCF)) RWA to Total Assets Risk Weight Density*
+=== page 36 ===
+HDFC Bank Presentation Q2 FY2027
+ 36Corporate rating mix – September’26
+Certain figures reported above will not add -up due to rounding  Rating mix % of externally rated wholesale book (corporate & mid corporate)
+77.1%
+12.0%7.0% 3.9%
+AA and above A BBB BB and below
+=== page 37 ===
+HDFC Bank Presentation Q2 FY2027
+ 37HDFC Bank: 6 years in perspective
+Sep-20 to Sep -26
+=== page 38 ===
+HDFC Bank Presentation Q2 FY2027
+ 38
+1,17,0822,10,109
+Sep'20 Sep'26 Employee count
+2.33 3.46 
+Sep'20 Sep'26 Deposit per Avg. branch
+50.1% 50.1%49.9% 49.9%
+Sep'20 Sep'26
+SURU Metro/Urban
+5,4309,706
+Sep'20 Sep'26 Branch countDistribution : expanding foundational pillars, sustained productivity gains
+Enhanced investment in distribution
+HDFC Bank Branch Share 3.6%
+5.7% Balanced growth across geographies
+Productivity gains – Investments in place to 
+drive future growthEmployee addition to aid deeper engagement
+₹ bn
+SURU : Semi Urban & Rural
+*HDFC Bank Branches shares in system wide branches based on last reported RBI data as of June’26*#s
+#s
+=== page 39 ===
+HDFC Bank Presentation Q2 FY2027
+ 39
+58.6 103.6 
+Sep'20 Sep'26 Customers (mn)
+20.3 47.5 
+Sep'20 Sep'26Brand value
+(USD bn)Brand value significantly enhanced; we own the brand since Jul’23
+63rd globally ranked brand and 
+Only Indian Bank in Top 100 globally ranked brands
+HDFC Bank top ranked Indian bank brand
+Kantar BrandZ  Most Valuable Global Brands 2026
+Strong customer base aided by brand & distribution
+Sep’20 data corresponds to Kantar 2020 BrandZ
+  Top 75 Most Valuable Indian Brand survey
+Sep’26 data corresponds to Kantar BrandZ  Top 100 Most Valuable Global Brands 2026 survey
+=== page 40 ===
+HDFC Bank Presentation Q2 FY2027
+ 40
+61,8871,00,942
+Sep'20 Jun'26
+5,11510,519
+Sep'20 Sep'26
+1,47,5942,88,405
+Sep'20 Sep'26
+12,29333,274
+Sep'20 Sep'26Deposits: significant growth and market share gains
+₹ bn ₹ bn
+₹ bn ₹ bnRobust deposit growth; faster than system System Deposits
+HDFCB Share 8.3%
+11.5%
+CASA growth consistently higher than system System CASA Deposits*
+HDFCB Share 8.3%
+10.2%
+*System CASA deposits growth & market share based on last reported RBI data as of June’26
+=== page 41 ===
+HDFC Bank Presentation Q2 FY2027
+ 41
+1 adjusted for rounding-off
+11%28%35%25%17%21%37%26%
+Sep'20 Sep'26
+Retail Mortgage Retail Non-Mortgage Small/mid Market Corporate
+80% 80%20% 20%
+Sep'20 Sep'26 Retail branch Wholesale
+1,05,0132,30,360
+Sep'20 Sep'26
+10,47832,195
+Sep'20 Sep'26 Gross AdvancesAdvances growth strong; Balance Sheet is granular
+₹ bn ₹ bnStrong broad based loan growth System advances growth
+HDFCB Share 10.0%
+14.0%
+Average Deposits granularity key strength Mortgage in the mix now
+=== page 42 ===
+HDFC Bank Presentation Q2 FY2027
+ 42
+15 214 
+52 154 
+47 127 
+107 240 
+Sep'20Sep'26
+Floating Contingent General Specific220735
+0.35%0.37%
+Sep'20 Sep'26
+1.37%
+1.11%
+Sep'20 Sep'26
+17.0% 17.1%19.1% 18.9%
+Sep'20 Sep'26 CET 1 Total CARCapital and Risk Metrics: remains strong, built further resiliency
+Maintained strong capital ratios Low GNPA ratio; further improved post merger
+Low and stable Net NPA Strengthened Stock of Provisions
+₹ bn
+Post merger Sep’23 GNPA ratio at 1.34%
+Provision stock and GNPA & NNPA ratios for Sep’20 are based on proforma NPA classification approach.
+This considers impact of continuing NPA recognition post 31st Aug’20 including inputs from analytical models.Proforma
+ProformaProforma
+=== page 43 ===
+HDFC Bank Presentation Q2 FY2027
+ 43
+26 50 
+Sep'20 Sep'26 EPS (TTM)
+285764
+Sep'20 Sep'26 PAT (TTM)
+73% 72%27% 28%
+Sep'20 Sep'26 NII (TTM) Non-NII (TTM)
+8371,870
+Sep'20 Sep'26 Net Revenue (TTM)Healthy profit growth; revenues primarily driven by NII
+₹ bnStrong revenue growth Revenue mix stable
+Consistently healthy profit growth Steady growth in earnings
+₹ bn ₹ 
+TTM = Trailing twelve months
+=== page 44 ===
+HDFC Bank Presentation Q2 FY2027
+ 44
+2.1%
+1.8%
+Sep'20 Sep'26 Cost to Assets (TTM)
+4.2% 4.1%
+Sep'20
+TTMSep'21
+TTMSep'22
+TTMDec-22 to
+Jun-233.4% 3.3%
+Q2FY24 Sep'24 TTM Sep'25 TTM Sep'26 TTM
+1.1%
+0.4%
+Sep'20 TTM Sep'26 TTMCredit cost to
+EOP loans*
+2.0%1.9%
+Sep'20 Sep'26 ROA (TTM)Profitability metrics maintained, ROA in historical range
+Tech cost^^~6% ~11%
+TTM = Trailing twelve months
+^^Tech cost represents tech spends as a % of total operating expenses for FY21 & FY26 respectively
+*Credit cost for Sep’20 TTM excludes contingent build on account of Covid; reported credit cost to loans is 1.38%Pre-merger Post -merger
+Stable RoACost efficiencies achieved while increasing 
+investments
+Credit remains our key strengthNIM stable
+=== page 45 ===
+HDFC Bank Presentation Q2 FY2027
+ 45Safe harbour statement
+We have  included  statements  in this report  which  contain  words  or phrases  such  as “will”,  “aim”,  “will likely  result”,  “believe”,  “expect”,  “will continue”,  “anticipate”,  “estimate”,  
+“intend”,  “plan”,  “contemplate”,  “seek  to”, “future”,  “objective”,  “goal”,  “project”,  “should”,  “will pursue”  and similar  expressions  or variations  of these  expressions,  that are “forward -
+looking  statements” . Actual  results  may differ  materially  from those  suggested  by the forward -looking  statements  due to certain  risks or uncertainties  associated  with our 
+expectations  with respect  to, but not limited  to, our ability  to implement  our strategy  successfully,  the market  acceptance  of and demand  for various  banking  services,  our ability  
+to realize  all of the anticipated  benefits  of the Transaction,  future  levels  of our non-performing/  impaired  assets,  our growth  and expansion,  the adequacy  of our management  of 
+credit  risks and our provision/allowance  for credit  and investment  losses,  technological  changes,  the adequacy  of our information  technology  and telecommunication  systems,  
+including  against  cybersecurity  threats,  negative  publicity,  volatility  in investment  income,  our ability  to market  new products,  cash  flow projections,  the outcome  of any legal,  tax 
+or regulatory  proceedings  in India  and in other  jurisdictions  we are or become  a party  to, the future  impact  of new accounting  standards,  our ability  to pay dividends,  the impact  
+of changes  in banking  regulations  and other  regulatory  changes  on us in India  and other  jurisdictions,  our ability  to roll over our short  term funding  sources  and our exposure  to 
+market  and operational  risks. By their nature,  certain  of the market  risk disclosures  are only estimates  and could  be materially  different  from what  may actually  occur  in the 
+future . As a result,  actual  future  gains,  losses  or impact  on net income  could  materially  differ  from those  that have  been  estimated .
+In addition,  other  factors  that could  cause  actual  results  to differ  materially  from those  estimated  by the forward -looking  statements  contained  in this document  include,  but 
+are not limited  to: the war in Iran, involving  the United  States,  Israel  and some  neighbouring  countries,  and the geopolitical  conflict  between  Israel  and Hamas,  which  have  
+complicated  the geopolitical  landscape  and contributed  to significant  volatility  in oil and energy  prices ; geopolitical  tensions  between  India  and Pakistan,  with a lingering  risk of 
+sudden  escalation  in military  conflict ; geopolitical  tensions  between  India  and China ; general  economic  and political  conditions ; instability  or uncertainty  in India  and the other  
+countries  which  have  an impact  on our business  activities  or investments  caused  by any factor,  including  terrorist  attacks  in India,  the United  States  or elsewhere,  anti-terrorist  or 
+other  attacks  by the United  States,  a United  States -led coalition  or any other  country,  such  as the joint strike  launched  by the United  States  and the United  Kingdom  in Yemen  
+following  the Houthis  group’s  attack  on international  ships  in the Red Sea; the ongoing warbetween  Russia  and Ukraine ; military  armament  or social  unrest  in any part of India ; 
+the monetary  and interest  rate policies  of the RBI; natural  calamities,  pandemics,  inflation,  deflation,  unanticipated  turbulence  in interest  rates,  foreign  exchange  rates,  equity  
+prices  or other  rates  or prices ; the performance  of the financial  markets  in India  and globally ; compliance  with and changes  in Indian  and foreign  laws and regulations,  including  
+tax, accounting,  banking  regulations,  insurance  regulations  and securities  regulations ; changes  in competition  and the pricing  environment  in India ; regional  or general  changes  
+in asset  valuations ; and uncertainties  arising  out of foreign  trade  and tariff policies  followed  by major  global  economies,  such  as the United  States  and China .

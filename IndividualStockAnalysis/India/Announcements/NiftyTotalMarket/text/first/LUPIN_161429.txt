@@ -1,0 +1,272 @@
+
+L U P I N
+( in million)
+Particulars 3 Months 3 Months 3 Months Year Year
+Ended Ended Ended Ended Ended
+31/03/2024 31/12/2023 31/03/2023 31/03/2024 31/03/2023
+(Audited) (Unaudited) (Audited) (Audited) (Audited)
+(Refer note 11) (Refer note 11)
+1)Revenue from operations
+a)  Sales / income from operations (Refer note 5) 33,317.2        39,994.7        27,445.6        143,164.3      110,430.7      
+b)  Other operating income 641.6             1,162.8          917.1             3,500.7          2,157.6          
+Total Revenue from operations 33,958.8        41,157.5        28,362.7        146,665.0      112,588.3      
+2) Other income 313.4             231.6             553.0             1,067.3          912.6             
+3)Total income (1+2) 34,272.2        41,389.1        28,915.7        147,732.3      113,500.9      
+4)Expenses
+ a) Cost of materials consumed 8,848.1          8,369.7          7,885.8          34,073.0        31,512.0        
+b) Purchases of stock-in-trade 3,445.6          3,644.7          3,238.5          16,338.6        15,257.0        
+c) Changes in inventories of finished goods, (108.1)            1,324.7          819.1             (159.3)            1,207.9          
+work-in-progress and stock-in-trade [(increase)/decrease]
+d) Employee benefits expense 5,170.7          5,224.7          4,621.3          20,955.1        19,341.4        
+e) Finance cost 134.9             113.6             294.4             563.5             984.4             
+f) Depreciation, amortisation and impairment expense (Refer note 4) 2,900.4          1,451.8          1,462.0          7,247.5          5,483.4          
+g) Other expenses 9,666.5          10,374.4        8,972.8          40,954.8        35,631.0        
+h) Net (gain) / loss on foreign currency transactions (67.5)              45.9               203.4             (87.8)              (1,187.6)         
+Total expenses 29,990.6        30,549.5        27,497.3        119,885.4      108,229.5      
+5)Profit / (Loss) before tax (3-4) 4,281.6          10,839.6        1,418.4          27,846.9        5,271.4          
+6) Tax expense
+Current tax (net) 690.6             1,846.1          254.2             4,840.5          958.9             
+Deferred tax (net) (Refer note 6) (249.8)            (170.9)            (25.9)              (254.5)            60.4               
+Total tax expense 440.8             1,675.2          228.3             4,586.0          1,019.3          
+7)Net Profit / (Loss) after tax (5-6) 3,840.8          9,164.4          1,190.1          23,260.9        4,252.1          
+8) Other comprehensive income / (loss)
+(a) (i) Items that will not be reclassified subsequently to 20.8               (71.7)              (113.4)            (135.1)            (21.4)              
+profit or loss
+(ii) Income tax relating to items that will not be reclassified (7.3)                25.1               39.6               47.2               7.5                 
+subsequently to profit or loss
+(b) (i) Items that will be reclassified subsequently to profit or (0.3)                13.5               162.6             52.7               (295.5)            
+loss
+(ii) Income tax relating to items that will be reclassified to 0.2                 (3.0)                (37.1)              (11.7)              70.2               
+profit or loss
+Total other comprehensive income / (loss) 13.4              (36.1)              51.7               (46.9)              (239.2)            
+9) Total comprehensive income / (loss), net of tax (7+8) 3,854.2          9,128.3          1,241.8          23,214.0        4,012.9          
+ 
+10) 911.4            910.7             910.0             911.4             910.0             
+11) Other equity 205,119.5      183,208.6      
+12)Earnings per share (of  2/- each)
+(Not annualised for the quarters)
+a) Basic (in 8.43              20.14             2.62               51.10             9.35               
+b) Diluted (in ) 8.40              20.05             2.59               50.87             9.31               
+See accompanying notes to the standalone financial results.
+                                        continued on Page 2..LUPIN LIMITED
+Registered Office: Kalpataru Inspire, 3rd Floor, Off Western Express Highway, Santacruz (East), Mumbai 400 055.
+Tel: (91-22) 6640 2323           E-mail: info@lupin.com           Website: www.lupin.comCorporate Identity Number: L24100MH1983PLC029442
+STATEMENT OF AUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED MARCH 31, 2024
+
+NOTES:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8. Standalone Balance Sheet:
+   ( in million)
+As at 31/03/2024 As at 31/03/2023
+(Audited) (Audited)
+A. ASSETS
+1. Non-Current Assets
+a. Property, Plant and Equipment 33,264.9                34,613.5                
+b. Capital Work-in-Progress 4,111.2                  7,379.9                  
+c. Goodwill 158.6                     158.6                     
+d. Intangible Assets 5,990.9                  3,282.5                  
+e. Right-of-use-Assets 1,717.3                  2,164.7                  
+f. Intangible Assets Under Development 347.1                     1,886.0                  
+g. Financial Assets
+(i) Non-Current Investments
+- In Subsidiaries 105,753.9              94,919.6                
+- In Others 1,964.3                  426.0                     
+(ii) Non-Current Loans 35.7                       40.4                       
+(iii) Other Non-Current Financial Assets 1,035.8                  900.6                     
+h. Non-Current Tax Assets (Net) 1,057.1                  3,766.1                  
+i.Other Non-Current Assets 913.1                     1,589.6                  
+Sub-total - Non-Current Assets 156,349.9             151,127.5              
+2. Current Assets
+a. Inventories 29,693.1                30,194.7                
+b. Financial Assets
+(i)Current Investments 8,088.5                  4,397.7                  
+(ii) Trade Receivables 38,421.5                26,744.2                
+(iii) Cash and Cash Equivalents 1,237.0                  856.6                     
+(iv) Other Bank Balances 149.4                     153.1                     
+(v) Current Loans 24.7                       20.6                       
+(vi) Other Current Financial Assets 5,802.6                  3,693.1                  
+c. Other Current Assets 7,985.0                  9,649.2                  
+d. Assets included in disposal group held for sale 1,476.9                  -                        
+Sub-total - Current Assets 92,878.7                75,709.2                
+TOTAL - ASSETS 249,228.6              226,836.7              
+B. EQUITY AND LIABILITIES
+1. Equity
+a. Equity Share Capital 911.4                     910.0                     
+b. Other Equity 205,119.5              183,208.6              
+Sub-total - Equity 206,030.9             184,118.6              
+Liabilities
+2. Non-Current Liabilities
+a. Financial Liabilities
+(i) Lease Liabilities 429.3                     651.0                     
+(ii) Other Non-Current Financial Liabilities 434.9                     284.1                     
+b. Non-Current Provisions 3,297.6                  3,163.3                  
+c. Deferred Tax Liabilities (Net) 1,560.1                  1,850.2                  
+d. Other Non-Current Liabilities 536.4                     491.0                     
+Sub-total - Non-Current Liabilities 6,258.3                  6,439.6                  
+3 Current Liabilities
+a. Financial Liabilities
+(i) Current Borrowings 181.3                     6,134.6                  
+(ii) Lease Liabilities 438.7                     699.5                     
+(iii) Trade Payables
+- Total outstanding dues of Micro Enterprises and Small Enterprises 751.2                     736.5                     
+- Total outstanding dues of other than Micro Enterprises and Small Enterprises 19,611.5                14,926.4                
+     
+(iv) Other Current Financial Liabilities 3,278.1                  2,575.9                  
+b. Other Current Liabilities 3,723.4                  3,085.2                  
+c. Current Provisions 4,954.3                  4,886.1                  
+d. Current Tax Liabilities (Net) 3,525.7                  3,234.3                  
+e. Liabilities included in disposal group held for sale 475.2                     -                        
+Sub-total - Current Liabilities 36,939.4                36,278.5                
+TOTAL - EQUITY AND LIABILITIES 249,228.6              226,836.7              
+                                        continued on Page 3..ParticularsThe above Standalone Financial Results were reviewed by the Audit Committee and thereafter approved and taken on record by the Board of
+Directors at their meeting held on May 06, 2024.
+During the quarter, 352,358 (year-to-date 697,573) equity shares of 2/- each, fully paid-up, were allotted upon exercise of the vested stock
+options pursuant to the Lupin Employees Stock Option Plans (ESOPs), resulting in an increase in the paid-up share capital by 0.7 million (year-
+Sales / Income from operations for the quarter ended June 30, 2023 includes milestone income of 2,052.5 million (USD 25.0 million) from
+AbbVie for successful achievement of key milestone for its Phase 1 clinical stage MALT1 inhibitor program.
+Upon execution of the Business Transfer Agreement, the Company on November 01, 2023 had transferred Active Pharmaceutical Ingredients
+manufacturing sites at Dabhasa and Visakhapatnam and select R&D operations to its wholly owned subsidiary Lupin Manufacturing Solutions
+Limited, as a going concern on slump sale basis for a consideration of 7,222.3 million. This has resulted in a deferred tax credit of 409.0
+million during the previous quarter.The Board of Directors have, at its meeting held on May 06, 2024 recommended a dividend of 8/- per equity share of the face value of 2/-
+each aggregating 3,646.0 million. The recommended dividend is subject to the approval of the shareholders at the ensuing Annual General
+Meeting.
+Pursuant to the meeting of the Board of Directors held on March 22, 2024, the Company has agreed to transfer its generic business in India to its
+wholly owned subsidiary Lupin Life Sciences Limited (formerly known as Lupin Atharva Ability Limited), as a going concern on slump sale basis for
+a consideration in a range of 1,000.0 million - 1,200.0 million and subject to working capital adjustments. The Company expects to execute
+Business Transfer Agreement by Q1 FY25. As on March 31, 2024, the Company has disclosed all assets and liabilities related to the generic
+business as disposal group held for sale.commercialised intangibles and certain intangibles under development.
+9. Standalone Statement of Cash Flows:
+Particulars For the Current For the Previous
+year ended year ended
+31/03/2024 31/03/2023
+(Audited) (Audited)
+A. Cash Flow from Operating Activities
+Profit / (Loss) before Tax 27,846.9               5,271.4                 
+Adjustments for:
+Depreciation, Amortisation and Impairment Expense 7,247.5 5,483.4
+Loss / (Profit) on Sale / Write-off of Property, Plant and Equipment / Intangible Assets 2.4                        (61.7)
+Profit on Divestment of Business undertaking (6.4) -                       
+Gain on sale of Mutual Fund Investments (283.8)                   (117.1)                   
+Finance Cost 563.5 984.4
+Interest on Deposits with Banks and Others (61.5) (71.1)                    
+Interest on Income Tax Refund (373.6)                   3.1                        
+Unrealised Loss / (Gain) on Mutual Fund Investments (53.8)                     (14.1)                     
+Unrealised Loss / (Gain) on Non-Current Investment 570.8                    (349.3)                   
+Doubtful Trade Receivables / Advances provided 168.5                    106.8                    
+Bad Trade Receivables / Advances written off 0.2                        6.8                        
+Share Based Payments Expense 149.2                    205.6                    
+Unrealised Exchange loss / (gain) on revaluation (210.0)                   (338.9)                   
+Operating Cash Flows before Working Capital Changes 35,559.9 11,109.3
+Changes in working capital:
+Adjustments for (increase) / decrease in operating assets:
+Inventories (1,582.1) 1,576.7
+Trade Receivables (13,114.5) 728.6
+Current Loans (4.1) 2.1
+Non-Current Loans 4.7 (38.3)
+Other Current Financial Assets (2,208.8) 2,264.9
+Other Current Assets 735.7 830.8
+Other Non-Current Assets 16.4                      107.5                    
+Other Non-Current Financial Assets 175.5                    (182.3)                   
+Adjustments for increase / (decrease) in operating liabilities:
+Trade Payables 5,374.1 2,147.7
+Other Current Financial liabilities 654.3 28.1
+Other Current liabilities 638.7 213.6
+Other Non-Current liabilities 45.4 233.3
+Other Non-Current Financial liabilities 242.0 47.3
+Current Provisions 18.2 296.3
+Non-Current Provisions (47.6) (157.7)
+Cash Generated from Operations 26,507.8 19,207.9
+Net Income tax paid (1,466.5) (1,268.0)
+Net Cash Flow generated from / (used in) Operating Activities 25,041.3 17,939.9
+B. Cash Flow from Investing Activities
+Payment for acquisition of business (86.8) (2,910.0)
+Payment for acquisition of Property, Plant and Equipment / Intangible Assets, including capital advances (6,985.4) (5,751.3)
+Proceeds from sale of Property, Plant and Equipments / Intangible Assets 89.2 144.8
+Proceeds from disposal of Business Undertaking net of cash and cash equivalent 7,221.1 -                        
+Purchase of Non-Current Investment (12,944.4)              (8,109.4)                
+Purchase of Current Investments (108,493.3)            (116,222.1)            
+Proceeds from sale of Current Investment 105,140.1             120,179.6             
+Bank balances not considered as Cash and Cash Equivalents (net) 7.8                        (94.4)                     
+Interest on Deposits with Banks and others 61.5                      71.1                      
+Net Cash Flow generated from / (used in) Investing Activities (15,990.2)              (12,691.7)              
+C. Cash Flow from Financing Activities
+Proceeds from / (Repayment of) Current Borrowings (5,953.3)                (1,770.1)                
+Proceeds from issue of equity shares (ESOPs) and Share application money 2.2                        1.0                        
+Securities Premium received (ESOPs) 143.3                    18.4                      
+Payment of Lease liabilities (net off interest) (742.2) (680.6)
+Finance Costs (292.7) (726.3)
+Dividend paid (1,828.0) (1,825.0)
+Net Cash Flow generated from / (used in) Financing Activities (8,670.7) (4,982.6)
+Net Increase / (Decrease) in Cash and Cash Equivalents 380.4 265.6
+Cash and Cash Equivalents as at the beginning of the year 856.6                    591.0                    
+Unrealised loss / (gain) on foreign currency Cash and Cash Equivalents -                        -                        
+Cash and Cash Equivalents as at end of the period 1,237.0 856.6                    
+continued on Page 4..
+10.The Company operates in one reportable business segment i.e. "Pharmaceuticals".
+11.
+By Order of the Board
+For Lupin Limited
+Nilesh D. Gupta
+Place : Mumbai Managing Director
+Date   : May 06, 2024 DIN: 01734642The figures for the quarter ended March 31, 2024 and March 31, 2023 are the balancing figures between audited figures in respect of the full
+financial year and the unaudited published year-to-date figures up to the third quarter ended December 31, 2023 and December 31, 2022
+respectively.
+B S R & Co. LLP
+Chartered Accountants14th Floor, Central B Wing and North C Wing
+Nesco IT Park 4, Nesco Center
+Western Express Highway
+Goregaon (East), Mumbai – 400 063, India
+Telephone: +91 (22) 6257 1000
+Fax: +91 (22) 6257 1010
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 201314th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 3’ Independent Auditors Report
+To the Board of Directors of Lupin Limited
+Report on the audit of the Standalone Annual Financial Results
+Opinion
+We have audited the accompanying standalone annual financial results of Lupin Limited (hereinafter 
+referred to as the “Company”) for the year ended 31 March 2024, attached herewith, being submitted by 
+the Company pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing 
+Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the 
+aforesaid standalone annual financial results:
+a. are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this 
+regard; and
+b. give a true and fair view in conformity with the recognition and measurement principles laid down in 
+the applicable Indian Accounting Standards, and other accounting principles generally accepted in 
+India, of the net profit and other comprehensive income and other financial information for the year 
+ended 31 March 2024.
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section 
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described 
+in the Auditor’s Responsibilities for the Audit of the Standalone Annual  Financial Results  section of our 
+report. We are independent of the Company, in accordance with the Code of Ethics issued by the Institute 
+of Chartered Accountants of India together with the ethical requirements that are relevant to our audit of 
+the financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled 
+our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We 
+believe that the audit evidence obtained by us, is sufficient and appropriate to provide a basis for our 
+opinion on the standalone annual financial results.
+Management’s and Board of Directors’ Responsibilities for the Standalone Annual Financial 
+Results
+These standalone annual financial results have been prepared on the basis of the standalone annual 
+financial statements.
+The Company’s Management and the Board of Directors are responsible for the preparation and 
+presentation of these standalone annual financial results that give a true and fair view of the net profit/ 
+loss and other comprehensive income and other financial information in accordance with the recognition 
+and measurement principles laid down in Indian Accounting Standards prescribed under Section 133 of 
+the Act and other accounting principles generally accepted in India and in compliance with Regulation 33 
+of the Listing Regulations. This responsibility also includes maintenance of adequate accounting records 
+in accordance with the provisions of the Act for safeguarding of the assets of the Company and for 
+preventing and detecting frauds and other irregularities; selection and application of appropriate 
+accounting policies; making judgments and estimates that are reasonable and prudent; and the design, 
+implementation and maintenance of adequate internal financial controls, that were operating effectively 
+for ensuring accuracy and completeness of the accounting records, relevant to the preparation and 

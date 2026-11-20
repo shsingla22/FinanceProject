@@ -1,0 +1,1122 @@
+                            
+LTIM/SE/STAT/2023-24/19               April 24, 2024 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+MUMBAI - 400 051 
+ 
+NSE Symbol:  LTIM  
+The BSE Limited, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+MUMBAI - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Sub:  Submission of Auditor’s report with UDIN 
+ 
+In continuation to our intimation bearing reference no. LTIM/SE/STAT/2023-24/16 submitted to 
+the stock exchanges today, we hereby submit the results (consolidated and standalone)  and 
+Auditor’s report with Unique Document Identification Number (UDIN) for your records. 
+ 
+Kindly take the above intimation on record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For LTIMindtree Limited  
+ 
+ 
+ 
+Angna Arora 
+Company Secretary and Compliance Officer 
+ 
+Encl. As above 
+ 
+ 
+ 
+I Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP Chartered Accountants 
+19th floor, Shapath- V 
+S.G. Highway 
+Ahmedabad-380 015 
+Gujarat, India 
+Tel: +91 796 682 7300 
+Fax: +91 796 682 7400 
+INDEPENDENT AUDITOR'S REPORT ON AUDIT OF ANNUAL CONSOLIDATED FINANCIAL 
+RESULTS AND REVIEW OF QUARTERLY FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF 
+LTIMINDTREE LIMITED (Formerly known as Larsen & Toubro Infotech Limited) 
+Opinion and Conclusion 
+We have (a) audited the Consolidated Financial Results for the year ended March 31, 2024 and (b) 
+reviewed the Consolidated Financial Results for the quarter ended March 31, 2024 (refer 'Other 
+Matters' section below), which were subject to limited review by us, both included in the 
+accompanying "Statement of Consolidated Financial Results for the Quarter and Year Ended March 
+31, 2024" of LTIMindtree Limited ("the Parent") and its subsidiaries (the Parent and its 
+subsidiaries together referred to as "the Group"), ("the Statement") being submitted by the Parent 
+pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended ("the Listing Regulations"). 
+(a) Opinion on Annual Consolidated Financial Results 
+In our opinion and to the best of our information and according to the explanations given to us, 
+and based on the consideration of the audit reports of the other auditors on separate financial 
+statements of the subsidiaries referred to in Other Matters section below, the Consolidated 
+Financial Results for the year ended March 31, 2024: 
+(i) includes the results of the subsidiaries as given in the Annexure to this report. 
+(ii) is presented in accordance with the requirements of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended; and 
+(iii) gives a true and fair view in conformity with the recognition and measurement principles 
+laid down in the Indian Accounting Standards and other accounting principles generally 
+accepted in India of the consolidated net profit and consolidated total comprehensive 
+income and other financial information of the Group for the year ended March 31, 2024. 
+(b) Conclusion on Unaudited Consolidated Financial Results for the quarter ended March 
+31, 2024 
+With respect to the Consolidated Financial Results for the quarter ended March 31, 2024, based 
+on our review conducted and procedures performed as stated in paragraph (b) of Auditor's 
+Responsibilities section below and based on the consideration of the review reports of the other 
+auditors referred to in Other Matters section below, nothing has come to our attention that 
+causes us to believe that the Consolidated Financial Results for the quarter ended March 31, 
+2024, prepared in accordance with the recognition and measurement principles laid down in the 
+Indian Accounting Standards and other accounting principles generally accepted in India, has 
+not disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended, including 
+the manner in which it is to be disclosed, or that it contains any material misstatement. 
+Basis for Opinion on the Audited Consolidated Financial Results for the year ended March 
+31, 2024 
+We conducted our audit in accordance with the Standards on Auditing ("SAs") specified under Section 
+143(10) of the Companies Act, 2013 ("the Act"). Our responsibilities under those Standards are 
+further described in paragraph (a) of Auditor's Responsibilities section below. We are independent 
+of the Group in accordance with the Code of Ethics issued by the Institute of Chartered Accountants 
+of India ("the !CAI") together with the ethical requirements that are relevant to our audit of the 
+Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP 
+Consolidated Financial Results for the year ended March 31, 2024 under the provisions of the Act 
+and the Rules thereunder, and we have fulfilled our other ethical responsibilities in accordance with 
+these requirements and the ICAI's Code of Ethics. We believe that the audit evidence obtained by 
+us and the audit evidence obtained by the other auditors in terms of their reports referred to in 
+Other Matters section below, is sufficient and appropriate to provide a basis for our audit opinion. 
+Management's Responsibilities for the Statement 
+This Statement, which includes the Consolidated Financial Results is the responsibility of the Parent's 
+Board of Directors and has been approved by them for the issuance. The Consolidated Financial 
+Results for the year ended March 31, 2024, has been compiled from the related audited consolidated 
+financial statements. This responsibility includes the preparation and presentation of the 
+Consolidated Financial Results for the quarter and year ended March 31, 2024 that give a true and 
+fair view of the consolidated net profit and consolidated other comprehensive income and other 
+financial information of the Group in accordance with the recognition and measurement principles 
+laid down in the Indian Accounting Standards, prescribed under Section 133 of the Act, read with 
+relevant rules issued thereunder and other accounting principles generally accepted in India and in 
+compliance with Regulation 33 of the Listing Regulations. 
+The respective Board of Directors of the companies included in the Group are responsible for 
+maintenance of adequate accounting records in accordance with the provisions of the Act for 
+safeguarding the assets of the Group and for preventing and detecting frauds and other 
+irregularities; selection and application of appropriate accounting policies; making judgments and 
+estimates that are reasonable and prudent; and the design, implementation and maintenance of 
+adequate internal financial controls, that were operating effectively for ensuring the accuracy and 
+completeness of the accounting records, relevant to the preparation and presentation of the 
+respective financial results that give a true and fair view and are free from material misstatement, 
+whether due to fraud or error, which have been used for the purpose of preparation of this 
+Consolidated Financial Results by the Directors of the Parent, as aforesaid. 
+In preparing the Consolidated Financial Results, the respective Board of Directors of the companies 
+included in the Group are responsible for assessing the ability of the respective entities to continue 
+as a going concern, disclosing, as applicable, matters related to going concern and using the going 
+concern basis of accounting unless the respective Board of Directors either intends to liquidate their 
+respective entities or to cease operations, or has no realistic alternative but to do so. 
+The respective Board of Directors of the companies included in the Group are responsible for 
+overseeing the financial reporting process of the Group. 
+Auditor's Responsibilities 
+(a) Audit of the Consolidated Financial Results for the year ended March 31, 2024 
+Our objectives are to obtain reasonable assurance about whether the Consolidated Financial 
+Results for the year ended March 31, 2024 as a whole are free from material misstatement, 
+whether due to fraud or error, and to issue an auditor's report that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit 
+conducted in accordance with SAs will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in 
+the aggregate, they could reasonably be expected to influence the economic decisions of users 
+taken on the basis of this Consolidated Financial Results. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also: 
+• Identify and assess the risks of material misstatement of the Annual Consolidated 
+Financial Results, whether due to fraud or error, design and perform audit procedures 
+responsive to those risks, and obtain audit evidence that is sufficient and appropriate to 
+provide a basis for our opinion. The risk of not detecting a material misstatement resulting 
+Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP 
+from fraud is higher than for one resulting from error, as fraud may involve collusion, 
+forgery, intentional omissions, misrepresentations, or the override of internal control. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of 
+expressing an opinion on the effectiveness of such controls. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates made by the Board of Directors. 
+• Evaluate the appropriateness and reasonableness of disclosures made by the Board of 
+Directors in terms of the requirements specified under Regulation 33 of the Listing 
+Regulations. 
+• Conclude on the appropriateness of the Board of Directors' use of the going concern basis 
+of accounting and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the ability of the 
+Group to continue as a going concern. If we conclude that a material uncertainty exists, 
+we are required to draw attention in our auditor's report to the related disclosures in the 
+Consolidated Financial Results or, if such disclosures are inadequate, to modify our 
+opinion. Our conclusions are based on the audit evidence obtained up to the date of our 
+auditor's report. However, future events or conditions may cause the Group to cease to 
+continue as a going concern. 
+• Evaluate the overall presentation, structure and content of the Annual Consolidated 
+Financial Results, including the disclosures, and whether the Annual Consolidated 
+Financial Results represent the underlying transactions and events in a manner that 
+achieves fair presentation. 
+• Obtain sufficient appropriate audit evidence regarding the Annual Standalone Financial 
+Results of the entities within the Group to express an opinion on the Annual Consolidated 
+Financial Results. 
+Materiality is the magnitude of misstatements in the Annual Consolidated Financial Results 
+that, individually or in aggregate, makes it probable that the economic decisions of a 
+reasonably knowledgeable user of the Annual Consolidated Financial Results may be 
+influenced. We consider quantitative materiality and qualitative factors in (i) planning the 
+scope of our audit work and in evaluating the results of our work; and (ii) to evaluate the 
+effect of any identified misstatements in the Annual Consolidated Financial Results. 
+We communicate with those charged with governance of the Parent and such other entities 
+included in the Consolidated Financial Results of which we are the independent auditors 
+regarding, among other matters, the planned scope and timing of the audit and significant 
+audit findings including any significant deficiencies in internal control that we identify during 
+our audit. 
+We also provide those charged with governance with a statement that we have complied with 
+relevant ethical requirements regarding independence, and to communicate with them all 
+relationships and other matters that may reasonably be thought to bear on our independence, 
+and where applicable, related safeguards. 
+(b) Review of the Consolidated Financial Results for the quarter ended March 31, 2024 
+We conducted our review of the Consolidated Financial Results for the quarter ended March 
+31, 2024 in accordance with the Standard on Review Engagements (SRE) 2410 'Review of 
+Interim Financial Information Performed by the Independent Auditor of the Entity', issued by 
+the !CAI. A review of interim financial information consists of making inquiries, primarily of 
+the Company's personnel responsible for financial and accounting matters, and applying 
+analytical and other review procedures. A review is substantially less in scope than an audit 
+conducted in accordance with SAs specified under section 143(10) of the Act and consequently 
+does not enable us to obtain assurance that we would become aware of all significant matters 
+that might be identified in an audit. Accordingly, we do not express an audit opinion. 
+The Statement includes the results of the entities as listed under paragraph (a)(i) of Opinion 
+and Conclusion section above. 
+Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP 
+Other Matters 
+• The Statement includes the results for the Quarter ended March 31, 2024 being the balancing 
+figure between audited figures in respect of the full financial year and the published year to date 
+figures up to the third quarter of the current financial year which were subject to limited review 
+by us. Our report is not modified in respect of this matter. 
+• We did not audit the financial statements of 11 subsidiaries included in the consolidated financial 
+results, whose financial statements reflect total assets of Rs. 19,301 million as at March 31, 2024 
+and total revenues of Rs 6,508 million and Rs. 24,663 million for the quarter and year ended 
+March 31, 2024 respectively, total net profit after tax of Rs 447 million and Rs. 1,932 million for 
+the quarter and year ended March 31, 2024 respectively and total comprehensive income of Rs 
+447 million and Rs. 1,932 million for the quarter and year ended March 31, 2024 respectively and 
+net cash outflows of Rs. 171 million for the year ended March 31, 2024, as considered in the 
+Statement. These financial statements have been audited by other auditors whose reports have 
+been furnished to us by the Management and our opinion and conclusion on the Statement, in so 
+far as it relates to the amounts and disclosures included in respect of these subsidiaries is based 
+solely on the reports of the other auditors and the procedures performed by us as stated under 
+Auditor's Responsibilities section above. 
+Our report on the Statement is not modified in respect of the above matters with respect to our 
+reliance on the work done and the reports of the other auditors. 
+• The consolidated financial results includes the unaudited financial information of 10 subsidiaries, 
+whose financial information reflect total assets of Rs. 4,844 million as at March 31, 2024 and total 
+revenues of Rs. 1,062 million and Rs. 5,547 million for the quarter and year ended March 31, 
+2024 respectively, total net loss after tax of Rs. 365 million and Rs.932 million for the quarter 
+and year ended March 31, 2024 respectively and total comprehensive loss of Rs.365 million and 
+Rs. 932 million for the quarter and year ended March 31, 2024 respectively and net cash outflows 
+of Rs. 307 million for the year ended March 31, 2024, as considered in the Statement. These 
+financial information are unaudited and have been furnished to us by the Management and our 
+opinion and conclusion on the Statement, in so far as it relates to the amounts and disclosures 
+included in respect of these subsidiaries is based solely on such unaudited financial 
+statements/financial information. In our opinion and according to the information and explanations 
+given to us by the Board of Directors, these financial information are not material to the Group. 
+Our report on the Statement is not modified in respect of the above matter with respect to our 
+reliance on the financial information certified by the Board of the Directors. 
+Place: Mumbai 
+Date: April 24, 2024 For Deloitte Haskins & Sells Chartered Accountants LLP 
+Chartered Accountants 
+(Fi,m', 7 " No. 117364W/W-100739) 
+; 
+Gurvinder Singh 
+Partner 
+Membership No. 110128 
+(UDIN: 24110128BKBGWS1002) 
+Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP 
+Annexure to Auditors' Report 
+Sr No Name of Entities 
+1 LT!Mindtree GmbH 
+2 LT!Mindtree Canada Limited 
+3 LT!Mindtree LLC 
+4 LTIMindtree Financial Services Technoloqies Inc. 
+5 L T!Mindtree South Africa ( Pty) Limited 
+6 LTIMindtree Information Technoloqy Services (Shanqhai) Co. Ltd. 
+7 LTIMindtree Spain, S.L. 
+8 LTIMindtree Sociedad De Responsabilidad Limitada De Caoital Variable 
+9 LTIMindtree S.A. 
+10 LT!Mindtree PSF S.A. 
+11 Svncordis Limited, UK 
+12 Syncordis SARL France 
+13 LTIMindtree Norge AS 
+14 Nielsen + Partner Unternehmensberater GmbH 
+15 LT!Mindtree Switzerland AG 
+16 Nielsen + Partner PTE. Ltd. 
+17 Nielsen & Partner PTY Ltd. 
+18 LTIMindtree (Thailand) Limited 
+19 LTIMindtree USA Inc. 
+20 LT!Mindtree UK Limited 
+21 LT!Mindtree Middle East FZ-LLC 
+22 Lvmbvc Solutions Private Ltd. (amalgamated with Parent w.e.f April 1 2023) 
+23 Powerupcloud Technologies Private Limited (amalgamated with Parent w.e.f April 1, 
+2023) 
+24 Cueloqic Technoloqies Inc. (Liquidated w.e.f April 26 20230 
+25 Cueloqic Technologies Private Ltd. (amalgamated with Parent w.e.f April 1, 2023) 
+26 Mindtree Software (Shanqhai) Co., Ltd (Liquidated w.e.f Auqust 26, 2023) 
+I 
+SI. 
+No 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 e LT/Mindtree 
+LTIMlndtree Limited 
+(Formerlv Larsen & Toubro lnfotech Limited) 
+Registered office: L& T House, Ballard Estate, Mumbai -400 001 
+CIN: L72900MH1996PLC104693 
+Statement of Consolidated Financial Results for the quarter and vear ended March 31, 2024 
+Quarter ended 
+Particulars March 31, December 31, March 31, 
+2024 2023 2023 
+(Unaudited) (Unaudited) (Unaudited) 
+Income 
+Revenue from operations 88,929 90,166 86,910 
+Other income 2,076 2,195 664 
+Total Income 91005 92,361 87,574 
+Expenses 
+a) Employee benefits expense 58,201 56,327 55,807 
+b) Sub-contracting expenses 5,955 6,515 6,702 
+c) Finance costs 680 607 436 
+d) Depreciation and amortization expense 2,270 1,990 1,823 
+e) Other expenses 9.416 11,475 8,364 
+Total expenses 76522 76,914 73,132 
+Profit before tax (1-2) 14,483 15,447 14,442 
+Tax expense 
+a) Current tax 3,110 3,861 3,455 
+b) Deferred tax 366 (107) (154) 
+Total tax expense 3,476 3,754 3,301 
+Net profit after tax (3-4) 11007 11,693 11,141 
+Other comprehensive lncome/(loss) 
+a) Items that will not be reclassified to profit or loss (net of tax) (7) 60 (27) 
+b) Items that will be reclassified to profit or loss (net of tax) 1,611 698 1,968 
+Total other comprehensive lncome/(loss) 1,604 758 1,941 
+Total comprehensive In.come (5+6) 12611 12,451 13,082 
+Profit for the period attributable to: 
+Shareholders of the Company 10,999 11,689 11,137 
+Non-controllinll interests 8 4 4 
+Total comprehensive Income attrtbutable to: 
+Shareholders of the Company 12,605 12,446 13,081 
+Non-controlline interests 6 , l 
+Paid-up equity share capital 
+(Face value: f 1 per share) 296 296 296 
+Other equity [Including Non-controllin R interests} 199,968 187,ll!ll 165,696 
+Earnfnss per share (Refer note 6): 
+a) Basic {in ,) 37.16 39.50 37.6S 
+b) Diluted {in tl 37.06 39.4Q 37.57 f in mlllJon e-"Cept pot share data 
+Year ended 
+March 31, March 31, 
+2024 2023 
+(Audited) (Audited) 
+355,170 331,830 
+7,019 5,569 
+362,189 337,399 
+227,323 208,799 
+25,599 28,286 
+2,217 1,504 
+8,189 7,227 
+38,374 33,668 
+301,702 279,484 
+60,487 57,915 
+14,600 14,391 
+41 (579) 
+14,641 13,812 
+45846 44,103 
+223 117 
+4,696 {6,668) 
+4,919 (6,551) 
+50,765 37,552 
+45,821 44,083 
+25 20 
+50,744 37,538 
+21 14 
+296 296 
+199,968 165.696 
+154.85 149.07 
+154.48 148,83 
+Consolidated Segment Information for the quarter and year ended March 31, 2024 
+"in million 
+Quarter ended Year ended 
+Particulars March 31, December 31, March 31, March 31, March 31, 
+2024 2023 2023 2024 2023 
+[Unaudited) (Unaudited) (Unaudited) (Audited) (Audited) 
+Segment revenue 
+Banking, Financial Services & Insurance 31,218 32,067 32,992 128,406 122,494 
+Technology , Media & Communications (Refer note II) 21,628 20,605 19,988 83,987 80,661 
+Manufacturing & Resources 16,534 18,336 15,231 65,875 56,110 
+Consumer Business (Refer note II) 13,427 13,283 13,346 53,560 51,123 
+Healthcare, Life Sciences & Public Services 6,122 5,875 5,353 23 342 21,442 
+Revenue from operations 88,929 90,166 86,910 355,170 331,830 
+Segment results 
+Banking, Financial Services & Insurance 4,877 5,465 5,880 21,621 21,754 
+Technology , Media & Communications (Refer note II) 4,367 4,497 4,103 18,703 17,228 
+Manufacturing & Resources 2,586 2,482 2,685 10,154 8,902 
+Consumer Business (Refer note II) 2,426 2,458 2,608 10,031 10,035 
+Healthcare , Life Sciences & Public Services 1,101 947 761 3,365 3,158 
+Segment results 15,357 15,849 16,037 63,874 s1,on 
+Add: 
+Other income 2,076 2,195 664 7,019 5,569 
+Less: 
+Finance costs 680 607 436 2,217 1,504 
+Depreciation and amortization expense 2,270 1,990 1,823 8,189 7,227 
+Profit before tax 14,483 15,447 14,442 60,487 57,915 
+Segments have been identified in accordance with the Indian Accounting Standard ('Ind AS') 108 on Operating Segments, considering the risk or return profiles of the 
+business, As required under Ind AS 108, the Chief Operating Decision Maker evaluates the performance of and allocates resources to segments based on analysis of various 
+performance indicators. Accordingly, information has been presented for the Group's operating segments. 
+II. The Group has changed the nomenclature of its two segments to provide a better understanding of customer business. Erstwhile Hi-Tech, Media and Entertainment has 
+been renamed as Technology, Media & Communications and erstwhile Retail, CPG, Travel, Transport & Hospitality has been renamed as Consumer Business. 
+Ill. Other income and finance costs relate to the Group as a whole and are not identifiable with/allocable to segments 
+IV. Assets and liabilities used in the Group's business are not identified to any of the reportable segment as these are used interchangeably . 
+Consolidated Statement of Assets and Liabilities as at March 31, 2024 
+~ in million 
+As at Asat 
+Particulars March 31, 2024 March 31, 2023 
+(Audited) (Audited) 
+ASSETS 
+Non-current assets 
+(a) Property, plant and equipment 16,555 9,697 
+(b) Right-of-use assets 19,013 12,539 
+(c) Capital work-in-progress 4,669 8,126 
+(d) Goodwill 11,927 11,892 
+(e) Other intangible assets 2,313 2,663 
+(f) Intangible assets under development 838 897 
+(g) Financial assets 
+(i) Investments 19,902 7,165 
+(ii) Trade receivables 66 39 
+(iii) Other financial assets 4,715 1,924 
+(h) Deferred tax assets (net) 2,250 3,809 
+(i) Income tax assets (net) 2,970 2,334 
+(j) Other non-current assets 1,948 2,018 
+Total non-current assets 87,166 63,103 
+Current assets 
+(a) Inventories 30 33 
+(b) Financial assets 
+(i) Investments 67,534 47,418 
+(ii) Trade receivables 57,060 56,234 
+(iii) Unbilled revenue 13,261 16,011 
+(iv) Cash and cash equivalents 18,200 23,389 
+(v) Other bank balances 9,960 5,931 
+(vi) Other financial assets 2,635 1,830 
+(c) Income tax assets (net) 251 0 
+(d) Other current assets 19,533 21,012 
+Total current assets 188,464 171,858 
+TOTAL ASSETS 275,630 234,961 
+EQUllY AND LIABILITIES 
+Equity 
+(a) Equity share capital 296 296 
+(b) Other equity 
+(i) Other reserves 16,956 11,124 
+(ii) Retained earnings 182,919 154,501 
+(iii) Share application money pending allotment 1 0 
+Non-controlling interests 92 71 
+Total equity 200,264 165,992 
+Liabilities 
+Non-current liabilities 
+(a) Financial liabilities 
+(i) Lease Liabilities 17,272 11,872 
+(ii) Other financial liabilities 318 1,774 
+(b) Deferred tax liabilities (net) 187 147 
+(c) Provisions 157 350 
+Total non-current liabilities 17,934 14,143 
+Current liabilities 
+(a) Financial liabilities 
+(i) Borrowings 407 1,253 
+(ii) Trade payables 
+Due to micro and small enterprises 118 154 
+Due to creditors other than micro and small enterprises 14,821 12,784 
+(iii) Lease liabilities 3,027 2,287 
+(iv) Other financial liabilities 14,887 16,437 
+(b) Other current liabilities 14,126 12,070 
+(c) Provisions 8,486 8,134 
+(d) Income tax liabilities (net) 1,560 1,707 
+Total current liabilities 57,432 54,826 
+TOTAL EQUllY AND LIABILITIES 275,630 234,961 ~~otree <,,,,· 
+59~ 
+* L TIA, 'indtree 
+~ 
+Consolidated Statement of Cash flows for the year ended March 31, 2024 
+Particulars 
+A. Cash flow from operating activities 
+Net profit after tax 
+Adjustments to reconcile net profit to net cash provided by operating activities: 
+Depreciation and amortization expense 
+Income tax expense 
+Expense recognised in respect of equity settled stock option 
+Income from investment 
+Interest income 
+Finance costs 
+Allowance for expected credit loss 
+Unrealised foreign exchange loss/(gain) (net) 
+Change in fair value of contingent consideration 
+Gain from modification in leases 
+Net gain on sale of property, plant and equipment 
+Operating profit before working capital changes 
+Changes in working capital 
+Decrease in inventories 
+Decrease/(lncrease) in trade receivables and unbilled revenue 
+Increase in other assets 
+Increase in trade and other liabilities 
+Decrease/(lncrease) in working capital 
+Cash generated from operations 
+Income taxes paid (net) 
+Net cash generated from operating activities 
+B. Cash flow from investing activities 
+Purchase of property, plant and equipment 
+Sale of property, plant and equipment 
+Purchase of investments 
+Sale of investments 
+Payment towards contingent consideration pertaining to acquisition of business 
+Payment towards transfer of business under common control (net of cash) 
+Interest received 
+Net cash used in investing activities 
+C. Cash flow from financing activities 
+Proceeds from issue of share capital 
+Share issue expenses paid 
+Net (repayment of)/proceeds from short term borrowings 
+Deposit under credit support agreement received/(paid) 
+Payment towards lease liabilities (net) 
+Interest paid on lease liabilities 
+Interest paid 
+Dividend paid 
+Net cash used in financing activities 
+D. Net (decrease)/increase in cash and cash equivalents (A+B+C) 
+E. Cash and cash equivalents at the beginning of the year 
+F. Effect of exchange differences on translation of foreign currency cash and cash equivalents 
+G. Cash and cash equivalents at the end of the year (D+E+F) 
+H. Book overdrafts used for cash management purpose 
+I. Cash and cash equivalents as per Statement of assets and liabilities (G+H) ~ in million 
+Year ended 
+Ma~h3L Ma~h3L 
+2024 2023 
+(Audited) (Audited) 
+45,846 
+8,189 
+14,641 
+1,244 
+(3,140) 
+(3,014) 
+2,217 
+765 
+263 
+(513) 
+(71) 
+66,427 
+3 
+5,046 
+(3,297) 
+4,223 
+5,975 
+72,402 
+(15,707) 
+56,695 
+{8,432) 
+102 
+(319,970) 
+286,665 
+(59) 
+2,573 
+(39,1211 
+12 
+(866) 
+586 
+(2,478) 
+(1,283) 
+(906) 
+(17,753 
+(22,688) 
+(5,114) 
+23,377 
+{63) 
+18,200 
+0 
+18,200 44,103 
+7,227 
+13,812 
+1,136 
+(1,670) 
+(1,736) 
+1,504 
+695 
+(606) 
+(556) 
+(83) 
+(18} 
+63,808 
+8 
+{19,690) 
+(2,085) 
+4,122 
+(17,645) 
+46,163 
+(15,217) 
+30,946 
+(9,393) 
+47 
+(200,128) 
+206,385 
+(496) 
+(990) 
+1,266 
+(3,309) 
+12 
+(10) 
+665 
+(594) 
+(2,271) 
+(1,117) 
+(375) 
+(15,627) 
+(19,317 
+8,320 
+14,462 
+595 
+23,377 
+12 
+23,389 
+Select explanatory notes to the Statement of Consolidated Financial Results for the quarter and year ended March 31, 2024 
+1. The consolidated financial results of LTIMindtree Limited ('the Company') for the quarter and year ended March 31, 2024 have been reviewed by the Audit Committee of the Board 
+and approved by the Board of Directors at its meeting held on April 24, 2024. 
+2. Results for the quarter and year ended March 31, 2024 are in compliance with the Indian Accounting Standards (Ind AS) notified by the Ministry of Corporate Affairs as prescribed 
+under section 133 of the Companies Act, 2013. 
+3. The standalone financials results are available on Company's website viz www.ltimindtree.com, on the websites of BSE (www.bseindia .com) and NSE (www.nseindia.com). The 
+specified items of the standalone financials results of the Company for the quarter and year ended March 31, 2024 are given below: 
+tin million 
+Quarter ended Year ended 
+Particulars March 31, December 31, March 31, March 31, March 31, 
+2024 2023 2023 2024 2023 
+(Unaudited) (Unaudited) (Unaudited) (Audited) (Audited) 
+Total income 88,141 89,191 84,34S 349,633 324,771 
+Profit before tax 14,208 14,887 14,015 SS,794 55,786 
+Profit after tax 10,936 11,353 10,892 44,859 42,482 
+4. During the quarter ended June 30, 2023, the Scheme of Arrangement ("the Scheme") for amalgamation between Powerupcloud Technologies Private Limited, Lymbyc Solutions 
+Private Limited and Cuelogic Technologies Private Limited ('Transferor Companies'), wholly owned subsidiaries , with the Company ('Transferee Company') was approved by the 
+Mumbai Bench of National Company Law Tribunal and the Company received the certified true copy of the order on July 06, 2023, The Company has filed the same with Registrar of 
+Companies , Mumbai on July 11, 2023 which is the effective date of amalgamation . The appointed date of the Scheme is April 01, 2023. 
+The amalgamation has been accounted under the 'pooling of interests' method in accordance with Appendix C of Ind AS 103 'Business Combinations' and comparatives in the 
+Standalone Financial Results have been restated to give effect of the amalgamation from the beginning of the previous year. The said transaction has no impact in the Consolidated 
+Financial Results of the Company. 
+5. The Board of Directors at its meeting held on April 24, 2024 has declared a final dividend of~ 45/-per equity share of par value, 1/-each. 
+6. Earnings per share for the interim periods are not annualised. 
+7. Figures for the earlier period(s) have been regrouped, wherever necessary . 
+Mumbai, India 
+April 24, 2024 For LTfMlndtree Limited 
+Chief Executive Officer & Managing Director 
+f Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP Chartered Accountants 
+19th floor, Shapath-V 
+S.G. Highway 
+Ahmedabad-38 0 015 
+Gujarat, India 
+Tel: +91 796 682 7300 
+Fax: +91 796 682 7400 
+INDEPENDENT AUDITOR'S REPORT ON AUDIT OF ANNUAL STANDALONE FINANCIAL 
+RESULTS AND REVIEW OF QUARTERLY FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF 
+LTIMINDTREE LIMITED (Formerly known as Larsen & Toubro Infotech Limited) 
+Opinion and Conclusion 
+We have (a) audited the Standalone Financial Results for the year ended March 31, 2024 and (b) 
+reviewed the Standalone Financial Results for the quarter ended March 31, 2024 (refer 'other 
+Matters' section below), which were subject to limited review by us, both included in the 
+accompanying "Statement of Standalone Financial Results for the Quarter and Year Ended March 31, 
+2024" of L TIMindtree Limited ("the Company"), ("the Statement"), being submitted by the 
+Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended ("the Listing Regulations"). 
+(a) Opinion on Annual Standalone Financial Results 
+In our opinion and to the best of our information and according to the explanations given to us, 
+the Standalone Financial Results for the year ended March 31, 2024: 
+i. is presented in accordance with the requirements of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended; and 
+ii. gives a true and fair view in conformity with the recognition and measurement principles laid 
+down in the Indian Accounting Standards and other accounting principles generally accepted 
+in India of the net profit and total comprehensive income and other financial information of 
+the Company for the year then ended. 
+(b) Conclusion on Unaudited Standalone Financial Results for the quarter ended March 
+31, 2024 
+With respect to the Standalone Financial Results for the quarter ended March 31, 2024, based 
+on our review conducted as stated in paragraph (b) of Auditor's Responsibilities section below, 
+nothing has come to our attention that causes us to believe that the Standalone Financial Results 
+for the quarter ended March 31, 2024, prepared in accordance with the recognition and 
+measurement principles laid down in the Indian Accounting Standards and other accounting 
+principles generally accepted in India, has not disclosed the information required to be disclosed 
+in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended, including the manner in which it is to be disclosed , or that it 
+contains any material misstatement. 
+Basis for Opinion on the Audited Standalone Financial Results for the year ended March 
+31, 2024 
+We conducted our audit in accordance with the Standards on Auditing ("SAs") specified under Section 
+143(10) of the Companies Act, 2013 ("the Act"). Our responsibilities under those Standards are 
+further described in paragraph (a) of Auditor's Responsibilities section below. We are independent 
+of the Company in accordance with the Code of Ethics issued by the Institute of Chartered 
+Accountants of India ("the ICAI") together with the ethical requirements that are relevant to our 
+audit of the Standalone Financial Results for the year ended March 31, 2024 under the provisions of 
+the Act and the Rules thereunder, and we have fulfilled our other ethical responsibilities in 
+accordance with these requirements and the ICAI's Code of Ethics. We believe that the audit 
+evidence obtained by us is sufficient and appropriate to provide a basis for our audit opinion. 
+Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP 
+Management's Responsibilities for the Statement 
+This Statement which includes the Standalone Financial Results is the responsibility of the Company's 
+Board of Directors and has been approved by them for the issuance. The Standalone Financial Results 
+for the year ended March 31, 2024 has been compiled from the related audited standalone financial 
+statements. This responsibility includes the preparation and presentation of the Standalone Financial 
+Results for the quarter and year ended March 31, 2024 that give a true and fair view of the net 
+profit/loss and other comprehensive income and other financial information in accordance with the 
+recognition and measurement principles laid down in the Indian Accounting Standards prescribed 
+under Section 133 of the Act read with relevant rules issued thereunder and other accounting 
+principles generally accepted in India and in compliance with Regulation 33 of the Listing 
+Regulations. This responsibility also includes maintenance of adequate accounting records in 
+accordance with the provisions of the Act for safeguarding the assets of the Company and for 
+preventing and detecting frauds and other irregularities; selection and application of appropriate 
+accounting policies; making judgments and estimates that are reasonable and prudent; and the 
+design, implementation and maintenance of adequate internal financial controls that were operating 
+effectively for ensuring the accuracy and completeness of the accounting records, relevant to the 
+preparation and presentation of the Standalone Financial Results that give a true and fair view and 
+is free from material misstatement, whether due to fraud or error. 
+In preparing the Standalone Financial Results, the Board of Directors are responsible for assessing 
+the Company's ability, to continue as a going concern, disclosing, as applicable, matters related to 
+going concern and using the going concern basis of accounting unless the Board of Directors either 
+intends to liquidate the Company or to cease operations, or has no realistic alternative but to do so. 
+The Board of Directors are also responsible for overseeing the financial reporting process of the 
+Company. 
+Auditor's Responsibilities 
+(a) Audit of the Standalone Financial Results for the year ended March 31, 2024 
+Our objectives are to obtain reasonable assurance about whether the Standalone Financial 
+Results for the year ended March 31, 2024 as a whole is free from material misstatement, 
+whether due to fraud or error, and to issue an auditor's report that includes our opinion. 
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit 
+conducted in accordance with SAs will always detect a material misstatement when it exists. 
+Misstatements can arise from fraud or error and are considered material if, individually or in 
+the aggregate, they could reasonably be expected to influence the economic decisions of users 
+taken on the basis of this Standalone Financial Results. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also: 
+• Identify and assess the risks of material misstatement of the Annual Standalone Financial 
+Results, whether due to fraud or error, design and perform audit procedures responsive to 
+those risks, and obtain audit evidence that is sufficient and appropriate to provide a basis 
+for our opinion. The risk of not detecting a material misstatement resulting from fraud is 
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional 
+omissions, misrepresentations, or the override of internal control. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances, but not for the purpose of expressing 
+an opinion on the effectiveness of the Company's internal control. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates made by the Board of Directors. 
+• Evaluate the appropriateness and reasonableness of disclosures made by the Board of 
+Directors in terms of the requirements specified under Regulation 33 of the Listing 
+Regulations. 
+Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP 
+• Conclude on the appropriateness of the Board of Directors ' use of the going concern basis 
+of accounting and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the ability of the 
+Company to continue as a going concern. If we conclude that a material uncertainty exists, 
+we are required to draw attention in our auditor's report to the related disclosures in the 
+Statement or, if such disclosures are inadequate, to modify our opinion. Our conclusions 
+are based on the audit evidence obtained up to the date of our auditor's report. However, 
+future events or conditions may cause the Company to cease to continue as a going 
+concern. 
+• Evaluate the overall presentation, structure and content of the Annual Standalone Financial 
+Results, including the disclosures, and whether the Annual Standalone Financial Results 
+represent the underlying transactions and events in a manner that achieves fair 
+presentation. 
+Materiality is the magnitude of misstatements in the Annual Standalone Financial Results that, 
+individually or in aggregate, makes it probable that the economic decisions of a reasonably 
+knowledgeable user of the Annual Standalone Financial Results may be influenced . We 
+consider quantitative materiality and qualitative factors in (i) planning the scope of our audit 
+work and in evaluating the results of our work; and (ii) to evaluate the effect of any identified 
+misstatements in the Annual Standalone Financial Results. 
+We communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit and significant audit findings including any significant 
+deficiencies in internal control that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with 
+relevant ethical requirements regarding independence, and to communicate with them all 
+relationships and other matters that may reasonably be thought to bear on our independence, 
+and where applicable, related safeguards. 
+(b) Review of the Standalone Financial Results for the quarter ended March 31, 2024 
+We conducted our review of the Standalone Financial Results for the quarter ended March 31, 
+2024 in accordance with the Standard on Review Engagements ("SRE") 2410 'Review of 
+Interim Financial Information Performed by the Independent Auditor of the Entity', issued by 
+the !CAI. A review of interim financial information consists of making inquiries, primarily of 
+the Company's personnel responsible for financial and accounting matters, and applying 
+analytical and other review procedures. A review is substantially less in scope than an audit 
+conducted in accordance with SAs specified under section 143(10) of the Act and consequently 
+does not enable us to obtain assurance that we would become aware of all significant matters 
+that might be identified in an audit. Accordingly, we do not express an audit opinion. 
+Other Matters 
+• The Statement includes the results for the Quarter ended March 31, 2024 being the balancing 
+figure between audited figures in respect of the full financial year and the published year to 
+date figures up to the third quarter of the current financial year which were subject to limited 
+review by us. 
+Deloitte 
+Haskins & Sells 
+Chartered Accountants LLP 
+• The financial information of the Company for the quarter and year ended March 31, 2023 have 
+been restated to comply with Ind AS 103 Appendix C for Business combinations of entities under 
+common control referred to in note 3 included in this Statement. 
+Our report on the Statement is not modified in respect of these matters. 
+Place: Mumbai 
+Date: April 24, 2024 For Deloitte Haskins & Sells Chartered Accountants LLP 
+Chartered Accountants 
+(Firm's Registration No. 117364W/W-100739) 
+Gurvinder Singh 
+Partner 
+Membership No. 110128 
+(UDIN: 24110128BKBGWU7705) 
+fi) LT/Mindtree 
+LTIMindtree Limited 
+(Formerly Larsen & Toubro lnfotech Limited) 
+Registered office: L& T House, Ballard Estate, Mumbai -400 001 
+CIN: L72900MH1996PLC104693 
+Statement of Standalone Financial Results for the quarter and year ended March 31, 2024 
+"in million, except per share data 
+Quarter ended Year ended 
+SI. Pa rticu la rs March 31, December 31, March 31, March 31, March 31, 
+No 2024 2023 2023• 2024 2023* 
+(Unaudited) (Unaudited) (Unaudited) (Audited) (Audited) 
+1 Income 
+Revenue from operations 86,039 87,010 83,625 342,534 319,755 
+Other income 2,102 2,181 720 7,099 5,016 
+Total income 88,141 89,191 84,345 349,633 324,771 
+2 Expenses 
+a) Employee benefits expense 53,945 52,153 51,872 210,490 194,274 
+b) Sub-contracting expenses 7,794 8,252 8,267 32,349 33,422 
+c) Finance costs 634 565 416 2,071 1;441 
+d) Depreciation and amortization expenses 2,116 1,842 1,679 7,604 6,486 
+e) Other expenses 9,444 11,492 8,096 38,325 33,362 
+Total expenses 73,933 74,304 70,330 290,839 268,985 
+3 Profit before tax (1-2) 14,208 14,887 14,015 58,794 55,786 
+4 Tax expense 
+a) Current tax 2,895 3,698 3,289 13,917 13,828 
+b) Deferred tax 377 (164) (166) 18 (524) 
+Total tax expense 3,272 3,534 3,123 13,935 13,304 
+5 Net profit after tax (3-4) 10,936 11,353 10,892 44,859 42,482 
+6 Other comprehensive income/(loss) 
+a) Items that will not be reclassified to profit or loss (net of tax) (7) 60 (27) 223 117 
+b) Items that will be reclassified to profit or loss (net of tax) 2,006 277 1,958 4,626 (6,951) 
+Total other comprehensive income/(loss) 1,999 337 1,931 4,849 (6,834) 
+7 Total comprehensive income (5+6) 12,935 11,690 12,823 49,708 35,648 
+8 Paid up equity share capital 
+(Face value:" 1 per share) 296 296 296 296 296 
+9 Other equity 192,689 179,583 159,474 192,689 159,474 
+10 Earnings per share (Refer note 5): 
+a) Basic (in ") 36.95 38.36 36.83 151.60 143.66 
+b) Diluted (in") 36.85 38.26 36.75 151.24 143.43 
+• Refer note 3 
+~ ~88(.. 
+✓~-8 t 
+/f../indtree * Audited Standalone Statement of Assets and Liabilities as at March 31, 2024 
+Asat 
+Particulars March 31, 2024 
+(Audited) 
+ASSETS 
+Non-current assets 
+(a) Property, plant and equipment 16,248 
+(b) Right-of-use assets 18,199 
+(c) Capital work-in-progress 4,642 
+(d) Goodwill 6,286 
+(e) Other intangible assets 1,463 
+(f) Intangible assets under development 127 
+(g) Financial assets 
+(i) Investments 24,499 
+(ii) Trade receivables 66 
+(iii) Other financial assets 4,528 
+(h) Deferred tax assets (net) 2,014 
+(i) Income tax assets (net) 2,881 
+(j) Other non-current assets 1,808 
+Total non-current assets 82,761 
+Current assets 
+(a) Inventories 30 
+(b) Financial assets 
+(i) Investments 67,534 
+(ii) Trade receivables 53,721 
+(iii) Unbilled revenue 12,902 
+(iv) Cash and cash equivalents 15,947 
+(v) Other bank balances 9,960 
+(vi) Loans 456 
+(vii) Other financial assets 2,628 
+(c) Income tax assets (net) 249 
+(d) Other current assets 18,389 
+Total current assets 181,816 
+TOTAL ASSETS 264,577 
+EQUITY AND LIABILITIES 
+Equity 
+(a) Equity share capital 296 
+(b) Other equity 
+(i) Other reserves 14,266 
+(ii) Retained earnings 178,422 
+(iii) Share application money pending allotment 1 
+Total equity 192,985 
+Liabilities 
+Non-current liabilities 
+(a) Financial liabilities 
+(i) Lease liabilities 16,425 
+(ii) Other financial liabilities 318 
+(b) Deferred tax liabilities (net) -
+(c) Provisions 157 
+Total non-current liabilities 16,900 
+Current liabilities 
+(a) Financial liabilities 
+(i) Trade payables 
+Due to micro & small enterprises 118 
+Due to creditors other than micro & small enterprises 14,927 
+(ii) Lease liabilities 2,894 
+(iii) Other financial liabilities 14,371 
+(b) Other current liabilities 13,105 
+( c) Provisions 7,954 
+(d) Income tax liabilities (net) 1,323 
+Total current llabilities 54,692 
+TOTAL EQUITY AND LIABILITIES 264,577 
+* Refer note 3 "in million 
+Asat 
+March 31, 2023"' 
+(Audited) 
+9,422 
+12,061 
+8,126 
+6,290 
+1,536 
+434 
+11,776 
+39 
+1,748 
+3,614 
+2,212 
+1,848 
+59,106 
+33 
+47,418 
+53,185 
+15,566 
+20,630 
+5,931 
+794 
+1,807 
+-
+19,900 
+165,264 
+224,370 
+296 
+8,508 
+150,966 
+0 
+159,770 
+11,401 
+1,774 
+26 
+350 
+13,551 
+154 
+12,668 
+2,190 
+15,890 
+10,901 
+7,696 
+1,550 
+51,049 
+224,370 
+Audited Standalone Statement of Cash Flows for the year ended March 31, 2024 
+Particulars 
+A. Cash flow from operating activities 
+Net profit after tax 
+Adjustments to reconcile net profit to net cash provided by operating activities: 
+Depreciation and amortization expense 
+Income tax expense 
+Expense recognised in respect of equity settled stock option 
+Income from investment 
+Interest income 
+Finance costs 
+Allowance for expected credit loss 
+Unrealised foreign exchange loss/(gain) (net) 
+Gain on liquidation of subsidiaries 
+Change in fair value of contingent consideration 
+Gain from modifications in leases 
+Net gain on sale of property, plant and equipment 
+Operating profit before working capital changes 
+Changes in working capital 
+Decrease in inventories 
+Decrease/(lncrease) in trade receivables and unbilled revenue 
+Increase in other assets 
+Increase in trade and other liabilities 
+Decrease/(lncrease) in working capital 
+Cash generated from operations 
+Income taxes paid (net) 
+Net cash generated from operating activities 
+B. Cash flow from investing activities 
+Purchase of property, plant and equipment 
+Sale of property, plant and equipment 
+Loan repaid by subsidiaries 
+Liquidation proceeds from subsidiaries 
+Purchase of investments 
+Sale of investments 
+Payment towards contingent consideration pertaining to acquisition of business 
+Payment towards transfer of business under common control (net of cash) 
+Interest received 
+Net cash used in investing activities 
+C. Cash flow from financing activities 
+Proceeds from issue of Share Capital 
+Share issue expenses paid 
+Deposit under credit support agreement received/(paid) 
+Payment towards lease liabilities (net) 
+Interest paid on lease liabilities 
+Interest paid 
+Dividends paid 
+Net cash used in financing activities 
+D. Net (decrease)/increase in cash and cash equivalents (A+B+C) 
+E. Cash and cash equivalents at the beginning of the period 
+F. Effect of exchange differences on translation of foreign currency cash and cash equivalents 
+G. Cash and cash equivalents at the end of the period (D+E+F) 
+H. Book overdrafts used for cash management purpose 
+I. Cash and cash equivalents as per Statement of assets and liabilities (G+H) 
+* Refer note 3 a: in million 
+Year ended 
+March 31, 2024 
+(Audited) 
+44,859 
+7,604 
+13,935 
+1,244 
+(3,140) 
+(2,964) 
+2,071 
+726 
+191 
+(9) 
+(513) 
+(71) 
+63,933 
+3 
+5,252 
+(3,285) 
+4,530 
+6,500 
+70,433 
+(15,137) 
+55,296 
+(7,961) 
+102 
+350 
+26 
+(319,970) 
+286,665 
+(59) 
+2,522 
+(38,325) 
+12 
+586 
+(2,427) 
+(1,235) 
+(809) 
+(17,753) 
+(21,626) 
+(4,655) 
+20,618 
+(16) 
+15,947 
+0 
+15,947 March 31, 
+2023* 
+(Audited) 
+42,482 
+6,486 
+13,304 
+1,136 
+(1,670) 
+(1,760) 
+1,441 
+770 
+(646) 
+(45) 
+(83) 
+(18) 
+61,397 
+8 
+(19,308) 
+(2,156) 
+3,622 
+(17,834) 
+43,563 
+(14,698) 
+28,865 
+(9,055) 
+63 
+446 
+(200,128) 
+206,385 
+(501) 
+(990) 
+1,292 
+(2,488) 
+12 
+(10) 
+(594) 
+(2,152) 
+(1,082) 
+(349) 
+(15,627) 
+(19,802) 
+6,575 
+13,420 
+623 
+20,618 
+12 
+20,630 
+Select explanatory notes to the Statement of Standalone Financial Results for the quarter and year ended March 31, 2024 
+1. The standalone financial results of LTIMindtree Limited ('the Company') for the quarter and year ended March 31, 2024 have been reviewed by the Audit 
+Committee of the Board and approved by the Board of Directors at its meeting held on April 24, 2024. 
+2. Results for the quarter and year ended March 31, 2024 are in compliance with the Indian Accounting Standards (Ind AS) notified by the Ministry of Corporate 
+Affairs as prescribed under section 133 of the Companies Act, 2013. 
+3. During the quarter ended June 30, 2023, the Scheme of Arrangement ("the Scheme") for amalgamation between Powerupcloud Technologies Private Limited, 
+Lymbyc Solutions Private Limited and Cuelogic Technologies Private Limited ('Transferor Companies'), wholly owned subsidiaries, with the Company ('Transferee 
+Company') was approved by the Mumbai Bench of National Company Law Tribunal and the Company received the certified true copy of the order on July 06, 2023. 
+The Company has filed the same with Registrar of Companies, Mumbai on July 11, 2023 which is the effective date of amalgamation. The appointed date of the 
+Scheme is April 01, 2023. 
+The amalgamation has been accounted under the 'pooling of interests' method in accordance with Appendix C of Ind AS 103 'Business Combinations' at the 
+carrying value of the assets and liabilities of the Transferor Companies as included in the consolidated balance sheet of the Company as at the beginning of the 
+previous year. Accordingly, comparatives have been restated to give effect of the amalgamation from the beginning of the previous year and goodwill of ~ 1,531 
+million has been recognised in the standalone balance sheet of the Company. 
+4. The Board of Directors at its meeting held on April 24, 2024 has declared a final dividend of~ 45/-per equity share of par value~ 1/-each. 
+5 Earnings per share for the interim periods are not annualised. 
+6 In accordance with Ind AS 108 'Operating Segment', the Company has disclosed Segment information on consolidated basis for the quarter and year ended March 
+31, 2024 which is available as part of the consolidated financial results of the Company on its website (www.ltimindtree.com), on the websites of BSE 
+(www.bseindia.com) and NSE (www.nseindia.com). 
+7 Figures for the earlier period(s) have been regrouped, wherever necessary . 
+Mumbai, India 
+April 24, 2024 For LTIMindtree Limited 
+o,~ 
+Chief Executive Officer & Managing Director 
+~~-
+,.__ ~ '<o 
+..J '-..0 0. * L TIA.'indtree * 

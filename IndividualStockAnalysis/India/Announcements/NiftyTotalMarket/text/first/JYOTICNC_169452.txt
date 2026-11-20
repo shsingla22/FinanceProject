@@ -1,0 +1,272 @@
+JYOTI CNC AUTOMATION LIMITED 
+CIN: L29221GJ1991PLC014914 
+Regd. Off.: G – 506, Lodhika GIDC, Kalawad Road, 
+Metoda, Rajkot – 360 021. 
+  
+Date: February 08, 2025 
+ 
+To,      To, 
+The Department of Corporate Services, The Listing Compliance Dept. 
+BSE Limited, Mumbai    National Stock Exchange of India Ltd, Mumbai 
+ 
+BSE Script Code: 544081   NSE Script Symbol: JYOTICNC 
+ 
+Dear Sir/ Madam, 
+ 
+SUB: OUTCOME OF BOARD MEETING HELD ON FEBRUARY 08, 2025 AND SUBMISSION OF 
+UNAUDITED STANDALONE AND CONSOLIDATED FINANCIAL RESULTS FOR THE 
+QUARTER / NINE MONTHS ENDED ON DECEMBER 31, 2024 
+ 
+This is to herewith inform that the Board of Directors of Jyoti CNC Automation Limited at its meeting 
+held today i.e. Saturday, February 08, 2025 inter-alia considered and approved Standalone and 
+Consolidated Unaudited Financial Results for the quarter / nine months ended on December 31, 
+2024. 
+ 
+In this respect, we submit below documents enclosed herewith: 
+ 
+1. Standalone and Consolidated Unaudited Financial Results for the quarter /nine months ended on 
+December 31, 2024. 
+ 
+2. Limited Review Report issued by Auditor of the Company i.e. M/s. G.K. Choksi & Co., on the above 
+Results.  
+ 
+The meeting of Board of Directors of the Company commenced at 11.34 A.M. and ended at 11.50 
+A.M.. 
+ 
+Thanking You, 
+For, Jyoti CNC Automation Limited 
+ 
+ 
+ 
+____________________________ 
+Maulik B. Gandhi  
+Company Secretary and Compliance Officer 
+Membership No.: F8819 | A23849 
+ 
+ 
+Encl.: Stated as above.  
+ 
+708/709, Raheja Chambers, Free Press Journal Road, Nariman Point. Mumbai -400 021. 
+Suburb : Office No. 1 & 2, Ground Floor, Laxmi Villa CHS. Ltd., Tagore Road, Santacruz [WJ, Mumbai 400 054. 
+Email: gkcmumba1@gmail.com Dial: 3513 8325/26/27 /6338 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Standalone 
+Financial Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations , 2015, as amended 
+To 
+The Board of Directors of Jyoti CNC Automation Limited 
+We have reviewed the accompanying Statement of Unaudited Standalone Financial Results of Jyoti CNC 
+Automation Limited (the "Company") for the quarter ended December 31, 2024 and year to date results for 
+the period from 1st April, 2024 to 31st December, 2024 together with notes thereon (the "Statement"), being 
+submitted by the Company pursuant to Regulation 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations , 2015, as amended (the "Listing Regulations"), 
+including relevant circulars issued by the SEBI from time to time. 
+This Statement which is the responsibility of the Company's Management and approved by the Board of 
+Directors has been prepared in accordance with the recognition and measurement principles laid down in 
+Indian Accounting Standard 34 ("Ind AS 34") "Interim Financial Reporting", prescribed under Section 133 of 
+the Companies Act, 2013 as amended, read with the relevant rules issued thereunder and other accounting 
+principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations . The 
+Statement has been approved by the Company's Board of Directors. Our responsibility is to express a 
+conclusion on the Statement based on our review. 
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 
+2410 "Review of Interim Financial Information Performed by the Independent Auditor of the Entity", issued by 
+the Institute of Chartered Accountants of India. This Standard requires that we plan and perform the review 
+to obtain moderate assurance as to whether the Statement is free of material misstatement. A review of interim 
+financial information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope than an 
+audit conducted in accordance with Standards on Auditing and consequently does not enable us to obtain 
+assurance that we would become aware of all significant matters that might be identified in an audit. 
+Accordingly , we do not express an audit opinion. 
+Based on our review conducted as above, nothing has come to our attention that causes us to believe that 
+the accompanying Statement, prepared in accordance with the recognition and measurement principles laid 
+down in the aforesaid Ind AS 34 prescribed under section 133 of the Companies Act, 2013 as amended, read 
+with relevant rules issued thereunder and other accounting principles generally accepted in India, has not 
+disclosed information required to disclose in terms of the Listing Regulations, including the manner in which 
+it is to be disclosed, or that it contains any material misstatement. 
+Place: Rajkot 
+Date: 8th February,2025 For G.K. Choksi & Co. 
+Chartered Accountants 
+Firm Registration No.: 125442W 
+(Himanshu C Vora) 
+Partner 
+Membership No.: 103203 
+UDIN: 25103203BMIVRQ8157 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 JYOTI CI\IC AUTOMATIOI\I LIMITED 
+GIN: L29221GJ 1991PLC014914 
+G-506, Lodhika GIDC, Viii. Metoda, Dist. Rajkot-360 021, India 
+Tel.: +91-2827-235100 , 235101, Fax: +91-2827-235141 
+E-mail : lnfo@jyotl.co.ln Web : Jyoti.co.in 
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER ENDED DECEMBER 31, 2024 
+(t in Millions) 
+Quarter ended Nine Month Ended For the year 
+ended 
+31-Dec-24 30-Sep-24 31-Dec-23 31-Dec-24 31-Dec-23 31-Mar-24 
+Particulars (Unaudited) (Unaudited) (Unaudited) (Unaudited ) (Unaudited) (Audited) 
+Revenue from operations 4,000.17 3,755.42 3,532.15 10,859.32 7,959.86 11,897.24 
+Other Income (26.08) 77.92 51.02 88.20 50.58 78.58 
+Total Revenue 3,974.09 3,833.34 3,583.17 10,947.52 8,010.44 11,975.82 
+Expenses 
+a) Cost of material consumed 1,476.38 1,588.15 3,121.52 4,502.19 4,072.02 6,059.30 
+b) Changes in inventories of finished goods and 
+work-in progress 613.53 410.80 (1,272.86) 1,222.92 228.43 614.27 
+c) Employees Cost 403.16 427.68 340.14 1,200.10 877.78 1,249.97 
+d) Finance Costs 41.70 23.07 188.51 112.24 556.82 657,76 
+e) Depreciat ion and Amortisation Expenses 75.29 80.34 69.49 229.84 199.19 272.25 
+f) Other Expenditure 388.13 375.43 376.43 1,112.42 1,073.57 1,253.04 
+Total expenses 2,998.19 2,905.47 2,823.23 8,379.71 7,007.81 10,106.59 
+Profit/(Loss) before exceptional / Extraordinary 
+it.,ms and Tax/3-41 975.90 927.87 759.94 2,567.81 1,002.63 1,869.23 
+Exceptional/ Extraordinary Items - - - 90.71 - -
+Profit/(loss) before Tax (5-6) 975.90 927.87 759.94 2,477.10 1,002.63 1,869.23 
+Tax Expense 
+Current Tax 199.55 228.79 186.22 588.89 256.22 464.00 
+Deferred Tax 3.04 2.69 5.13 6.69 4.82 5.29 
+Tax Adjustment for earlier vears 
+Total Tax Expenses 202.59 231.48 191.35 595.58 261.04 469.29 
+Net Profit/(loss) After Tax (7-8) 773.31 696.39 568.59 1,881.52 741.59 1,399.94 
+Other comprehensive Income 
+Items that will not be reclassified subsequently to profit 
+or loss (Net of Tax) (5.54) (8.26) 0.84 (16.63) 2.51 (11.41) 
+Items that will be reclassified to profit or loss 
+Total Comprehen sive Income/ (loss) for the period (5.54) (8.26) 0.84 (16.63) 2.51 (11.41) 
+Total Comprehensive Income for the period after 
+Tax (9+10) 767.77 688.13 569.43 1,864.89 744.10 1,388.53 
+Paid-up Equity Share Capital (Face value of" 2/-each) 454.85 454.85 394.41 454.85 394.41 454.85 
+Other Equity 17,110.52 
+Earnings per Share (weighted average) (Not Annualised 
+for all Quarter/9 Months) 
+Basic • (** Not Annualised) 3.40** 3.06** 2.90** 8.27** 4.11 •• 7.32 
+Diluted • (** Not Annualised) 3.40** 3.06** 2.90** 8.27** 4.11 •• 7.32 
+JYOTI 
+Notes: JYOTI CI\IC AUTOMATIDI\I LIMITED 
+GIN: L29221GJ1991PLC014914 
+G-506, Lodhika GIDC, Viii. Metoda, Dist. Rajkot-360 021, India 
+Tel.: +91-2827-235100, 235101, Fax: +91-2827-235141 
+E-mail : info@jyoti.co. in Web : jyoti.co.in 
+1 These financial results have been prepared in accordance with Indian Accounting Standards ('Ind AS') prescribed under Section 133 of the Companies Act.2013 and 
+other accounting principles generally accepted in India and in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015. 
+2 The above standalone financial results for the quarter and nine month ended 31 December 2024 in respect of Jyoti CNC Automation Limited (the company) have 
+been reviewed by the Audit Committee and approved by the Board of Directors of the Company at their respective meetings held on 08 February 2025. The above 
+results have been subject to limited review by the Statutory auditor of the company. 
+3 During the financial year ended on March 31, 2024, the company completed its Initial Public offer (IPO) of 30,218,649 equity shares of face value of Rs. 2/-each 'and 
+raised sum of Rs. 9,999.99 million. 
+Details of Utilization of IPO Proceeds: (1' in Millions) 
+Amount Utilization Unutilized 
+Sr. proposed in upto Amount as at 
+No. Objects oftbe Issue 
+Offer December 31, December 31, 
+Documents 2024 2024 
+1 Reoavment of Debt 4,750.00 4,750.00 
+2 Long-Term Working Canital 3,600.00 3,600.00 -
+3 General Coroorate Purpose* 1,159.14 1,159.14 -
+' Includes net off IPO expenses as estimated in offer documents of Rs. 14.60 million beinq short incurred aqainst estimated IPO expenses. 
+4 The Company has made investment over the years in its subsidiary which in turn was further invested in its operating Step Down Subsidiary, The company also has 
+certain other receivables from the subsidiary and its step down subsidiary. This subsidiary including step down subsidiary is making losses over certain years which 
+has resulted in the erosion of networth of company's subsidiary . The Company 's management, in view of the expected recovery in near future of the business of the 
+operating step down subsidiary and in view of the strategic nature of investment in subsidiary is of the opinion that no impairment is warranted. 
+5 The Company's business falls within single business segment of Machine & Tool Industries. Hence, disclosures under Ind AS 108-Operating Segments are not 
+reoorted separatelv. 
+6 Exceptional Item of ~ 90.71 Millions, represents the payment of compounding charges paid in consequence of final compound ing order passed by CCIT (TDS) , 
+Ahemdabad on 10th June 2024 oertainina to AY. 2013-14 to A.Y. 2016-17 and A.Y. 2018-19 to A.Y. 2022-23. 
+7 Till December 31, 2024, Company had incurred expenditure of"' 975.14 millions towards infrastructure development, streamlining of manufact uring operation and 
+expansion of manufacturing facilities. 
+Place: Rajkot 
+Dated: February 08, 2025 1:t,.~ 
+Parakramsinh G. Jadeja 
+Chairman & Managing Director 
+DIN No:-00125050 
+708/709, Raheja Chambers, Free Press Journal Road, Nariman Point. Mumbai -400 021. 
+Suburb : Office No. 1 & 2, Ground Floor, Laxmi Villa CHS. Ltd., Tagore Road, Santacruz [W), Mumbai 400 054. 
+Email: gkcmumbai@gmai l.com Dial: 3513 8325/26/27/6338 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Consolidated 
+Financial Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended 
+To 
+The Board of Directors of Jyoti CNC Automation Limited 
+1. We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of Jyoti 
+CNC Automation Limited (the "Holding Company") and its subsidiaries [the Holding Company and its 
+subsidiaries (including step down subsidiary) hereinafter referred to as the "Group"] (refer Para 4 below) 
+for the quarter ended December 31, 2024, and year to date from April 1, 2024 to December 31, 2024 
+together with notes thereon (the "Statement"), being submitted by the Holding Company pursuant to 
+Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended (the "Listing Regulations"), including relevant circulars 
+issued by the SEBI from time to time. 
+2. This Statement which is the responsibility of the Holding Company's Management and approved by the 
+Holding Company's Board of Directors has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34 ("Ind AS 34") "Interim Financial 
+Reporting", prescribed under Section 133 of the Companies Act, 2013 as amended, read with the 
+relevant rules issued thereunder and other accounting principles generally accepted in India and in 
+compliance with Regulation 33 of the Listing Regulations . The Statement has been approved by the 
+Holding Company's Board of Directors. Our responsibility is to express a conclusion on the Statement 
+based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the Entity", 
+issued by the Institute of Chartered Accountants of India. This Standard requires that we plan and 
+perform the review to obtain moderate assurance as to whether the Statement is free of material 
+misstatement. A review of interim financial information consists of making inquiries, primarily of persons 
+responsible for financial and accounting matters, and applying analytical and other review procedures. 
+A review is substantially less in scope than an audit conducted in accordance with Standards on Auditing 
+and consequen tly does not enable us to obtain assurance that we would become aware of all significant 
+matters that might be identified in an audit. Accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the SEBI Circular CIR/CFD/CMD1/44/2019 dated 
+March 29, 2019, issued by the SEBI under Regulation 33(8) of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations , 2015 (as amended), to the extent applicable. 
+4. The Statement includes the results of the following entities: 
+a) Subsidiary 
+(i) Jyoti SAS, France 
+b) Step Down Subsidiaries 
+(i) Huron Graffenstaden S.A.S. 
+(ii) Huron Frasmaschinen GmbH 
+(iii) Huron Canada 
+(iv) Huron Makina Servis Ve Dis Ticaret Limited Sirketi 
+The subsidiary including step down subsidiaries located outside India whose interim financial information 
+has been prepared in accordance with the accounting principles generally accepted in their respective 
+country and which has been reviewed by other auditor and independent report of the same is issued. An 
+independent chartered accountant has converted the said interim financial information of such subsidiary 
+and its step-down subsidiaries located outside India to accounting principles generally accepted in India 
+and issued a review report on the same. Our conclusion on the Statement, in so far as it relates to the 
+interim financial information of the subsidiaries, located outside India is based on the reports of other 
+auditor and the Independent Chartered Accountant as referred above. Our conclusion is not modified in 
+respect of the above matter. 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 and based on the 
+consideration of the review reports of other auditors referred to in paragraph 4 above, nothing has come 
+to our attention that causes us to believe that the accompanying Statement, prepared in accordance with 
+the recognition and measurement principles laid down in the aforesaid Ind AS 34, prescribed under 
+section 133 of the Companies Act, 2013, as amended, read with relevant rules issued thereunder and 
+other accounting principles generally accepted in India, has not disclosed the information required to be 
+disclosed in terms of the Listing Regulations, including the manner in which it is to be disclosed, or that 
+it contains any material misstatement. 
+6. The accompanying Statement includes the unaudited interim financial results and other financial 
+information in respect of subsidiary and step-down subsidiaries whose unaudited interim financial results 
+reflect total revenue of t 641.67 million and ~ 2,042.92 million, total net profit after tax of t 29.13 
+million and~ 185.68 million, total comprehensive income oft 29.13 million and t 185.68 million for the 
+Quarter ended December 31, 2024 and for the period from April 1, 2024 to December 31, 2024 
+respectively, as considered in the statement which have been reviewed by their respective auditors. 
+The independent auditors report on interim financial results/statements and other financial information 
+of these entities referred to above have been furnished to us by the Management and our conclusion on 
+the statement, in so far as it relates to the amounts and disclosures in respect of these subsidiaries 
+(including step down subsidiaries) is based solely on the report of such auditors and procedures 
+performed by us as stated above. 
+Our conclusion on the statement is not modified in respect of this matter. 
+Place: Rajkot 
+Date: 8th February, 2025 FOR G. K. CHOKSI & CO. 
+(Chartered Accountants) 
+Firm Registration Number: 125442W 
+~ 
+(Himanshu C Vora) 
+(Partner) 
+(Membership Number 103203) 
+UDIN:25103203BMIVRR1412 

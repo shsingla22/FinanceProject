@@ -1,0 +1,125 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 74/2025-26 
+ 
+March 17, 2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS launches Rapid Outcome 
+AI platform powered by NVIDIA ” which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 2 
+ 
+TCS launches Rapid Outcome AI platform powered by 
+NVIDIA  
+SAN JOSE  | MUMBAI,  March 17, 202 6: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global 
+leader in IT services, consulting, and business solutions,  today launch ed, a new enterprise platform designed 
+to help organizations accelerate their journey from AI experimentation to production deployment  powered 
+by NVIDIA.  By leveraging predictive analytics, generative AI, computer vision, and agentic and Physical AI 
+blueprints tailored for industry -specific processes, TCS  and NVIDIA will help enterprises  achieve higher levels 
+of autonomy across their enterprise workflows.  
+TCS Rapid  Outcome AI  enables organizations  across sectors  such as manufacturing, telecommunications, 
+banking, retail, life sciences, and engineering services to run  AI applications  at scale . These applications help 
+automate decisions, increase operational visibility, reduce manual interventions, and improve productivity 
+across enterprise processes and operational environments . 
+John Fanelli, Vice President, Enterprise Software, NVIDIA,  said,  “AI is transforming how enterprises operate 
+across industries —from manufacturing and telecom to banking and retail . The combination of TCS Rapid  
+Outcome AI integrated with the full -stack NVIDIA AI platform alongside  TCS’ deep industry expertise , enables  
+organizations to accelerate  the development and deployment of AI applications that deliver new levels of 
+automation and tangible business outcomes.”  
+Amit Kapur, Chief AI and Services Transformation Officer, TCS, said , “TCS Rapid  Outcome AI combines our 
+contextual knowledge of industry domains and NVIDIA’s advanced AI infrastructure  to drive business 
+outcomes for our customers. The platform delivers operational intelligence and persona -based experience 
+driving AI at scale. We are excited about the scale of impact this creates, and the value we deliver together. ” 
+Built leveraging NVIDIA AI infrastructure  and combining industry -specific AI blueprints with NVIDIA 
+accelerated computing, the platform enables enterprises to integrate AI capabilities into enterprise 
+workflows and operational environments with speed, governance, and scalability. Through TCS’ ded icated 
+NVIDIA Business Unit and joint go -to-market initiatives, the two companies will help global enterprises 
+accelerate the deployment of sector -focused AI solutions, combining NVIDIA’s AI technologies with TCS’ 
+contextual industry expertise to deliver real -world business outcomes.  
+AI Applications Driv ing Business Outcomes  
+AI at Scale  
+NVIDIA accelerated computing  powers  the platform , enabling  enterprises to simulate, test, and refine  
+operational decisions before real -world deployment. Using NVIDIA Omniverse  libraries and OpenUSD -based 
+simulation environments, telecom infrastructure and operational scenarios can be modeled and visualized as 
+digital twins to evaluate safety, efficiency, and planning  strategies. AI models deployed through  NVIDIA NIM 
+microservices support analytics, automation, and operational insights within these environme nts. 
+Operational Intelligence  
+The platform uses  NVIDIA Metropolis  to build  vision  AI agents that deliver  operational intelligence at scale. It 
+supports  real-time monitoring  across factory floors, warehouses, retail stores,  telecom edge infrastructure,  
+and other operational  environments , enabling industrial autonomy through Physical AI , by detecting safety 
+violations, identifying quality issues early, and generating actionable alerts.  
+Persona -based Enterprise AI  
+Using NVIDIA NIM microservices, the platform enables persona -based enterprise AI to support  enterprise  
+ 
+Page 2 of 2 
+ 
+functions such as customer service, IT operations, engineering, and decision support. These AI assistants help 
+employees access enterprise knowledge, troubleshoot issues faster, and improve productivity across 
+enterprise workflows.  
+TCS continues to expand its partnership  with NVIDIA to help enterprises deploy AI technologies across 
+business operations. TCS Rapid  Outcome AI will be showcased at NVIDIA GTC 2026, where TCS is presenting 
+its AI at Scale vision and demonstrating how enterprises can operationalize AI applications across 
+industries.  
+ 
+TCS provides a range of  AI-driven  solutions tailored to various  industries and manages  Centers of Excellence 
+dedicated to fostering  innovation with  NVIDIA technologies. Additionally, TCS is committed to enhancing  its 
+workforce’s AI expertise by offering  training on platforms , large language models, and advanced AI 
+development frameworks.  
+ 
+About Tata Consultancy Services (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service . 
+It has set an aspiration to become the world ’s largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 55 
+countries and 202 service delivery centers acro ss the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long term partnerships with its clients – helping them emerge as perpetually adaptive ent erprises. Many 
+of these relationships have endured into decades and navigated every technology cycle, from mainframes in 
+the 1970s to artificial intelligence today.  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025. For 
+more information, visit  www.tcs.com  
+Follow TCS on  LinkedIn  | Instagram  | YouTube  | X 
+TCS Media Contacts:  
+Corporate Communications & 
+India   Email: corporate.communications@tcs.com   
+Email: santosh.castelino@tcs.com  | Phone: +91 22 67789098   
+ 
+### 

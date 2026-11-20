@@ -1,0 +1,1179 @@
+Reliance Power Limited   
+CIN: L40101MH1995PLC084687   
+Dhirubhai Ambani Knowledge City  
+Thane Belapur Road , 
+Koparkhairane ,  
+Navi Mumbai  400 710  
+Tel:  +91 22 4 303 1000  
+Fax: +91 22 4 303 3166  
+www.reliancepower.co.in  Registered Office:   
+Reliance Centre, Ground Floor,  
+19, Walchand  Hirachand Marg, Ballard 
+Estate, Mumbai - 400 001  
+  
+  
+ 
+December  04, 2024  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street, Fort , 
+Mumbai 400 001  
+BSE Scrip Code : 532939  National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor,  
+Plot C/1, G Block Bandra -Kurla Complex,  
+Bandra (East) , Mumbai 400 051  
+NSE Symbol:   RPOWER  
+Dear Sir(s),  
+ 
+Sub.:  Update-  Machine Readable Form / Legible copy of Unaudited Financial Results 
+for the quarter and half year ended September 30, 2024  
+ 
+We wish to inform that the Company has received an email from National Stock Exchange of 
+India Limited (NSE) dated December 03, 202 4 drawing attention to NSE Circular No.: 
+NSE/CML/2018/02  dated January 16, 2018 wherein NSE has directed all listed companies to 
+submit all the corporate announcem ents to the Exchange in a machine- readable and 
+searchable form and further asked the Company in its aforesaid email to submit the financial 
+results for the period ended September 30,  2024  in Machine Readable Form / Legible copy.  
+ 
+In accordance with above, w e herewith enclose the Unaudited Financial  Results (both 
+Consolidated and Stand- alone) for the quarter and half year ended September  30, 2024 along 
+with the Limited Review Reports by the Statutory  Auditors of the Company  as approved in the 
+Board M eeting of the Company held on November 12, 2024  in Machine Readable Form  / 
+Legible Copy . 
+ 
+Kindly take the same on record.  
+ 
+Thanking you.  
+ Yours faithfully,  
+ 
+For Reliance Power Limited  
+ 
+ Ramandeep Kaur  
+Company Secretary  
+ Encl.: As Above  
+ 
+RELIANCE POWER LIMITED 
+CIN: L40101MH1995PLC084687 
+Registered Office: Reliance Centre, Ground Floor, 19, Walchand Hirachand Marg, Ballard Estate, Mumbai -400 001 
+Tel: +91 22 43031000 Fax : +91 22 43033166 Website: www.reliancepower.co.in 
+Email : reliancepower investors@relianceada.com 
+Statement of Consolidated Financial Results for the Quarter and Half Year Ended September 30, 2024 
+Rupees in lakhs 
+Sr. Particulars Quarter Ended Half Year Ended Year Ended 
+No September June September September September March 
+30, 2024 30, 2024 30, 2023 30, 2024 30, 2023 31 2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+1 Revenue from Operations 1,75,981 1,99,223 2,03,780 3,75,203 3,95,212 7,89,260 
+2 Other Income 20,296 7,695 7,857 27 991 11,547 36,763 
+Tofl!I Income 1,96,277 2,06,918 2,11,637 4,03,194 4,06,759 8,26,023 
+3 Expor,sos 
+(a) Cost of fuel consumed 99,936 1,01,730 1,00,036 2,01,666 1,94,950 3,83,135 
+(bl Employee benefits expense 5,219 4,542 5,135 9,761 9,635 18,424 
+(·C) Finance costs 56,216 55,063 71,633 1,11,279 1,33,276 2,45, 129 
+(d) Depreciation and amortization expense 24,347 25,030 25,876 49,378 51,594 1,06,175 
+(e) Generation, administration and other expenses 33,243 27,886 26,626 61,129 57,115 2,71,970 
+Toi.II expenses 2,18,961 2,14,251 2,29,306 4,33,213 4,46,570 10,24,833 
+4 Profit/ (Loss) before exceptional items and tax (1+2-3) (22,684) (7,333) (17,669) (30,019) (39,811) (1,98,810) 
+5 Exceptional Items 
+Impairment of property, plant and equipments & capital work-in-progress . -- - (1,92,635) 
+Liabilities written back . . - 1,88,630 
+Gain on deconsolidation of subsidiary (Refer note 5) 3,23,042 - 3,23,042 . 
+3,23,042 -- 3,23,042 (4,005) 
+6 Profit/ (Loss) before tax (4+5) 3,00,358 (7,333) (17,669) 2,93,023 (39,811) (2,02,815) 
+7 Income tax expenses 
+(a) Current tax 2,408 2,345 3,150 4,753 5,583 1,813 
+(b) Deferred tax 10,135 150 6,800 10,285 11,600 19,590 
+Total tax expenses 12,543 2,495 9,950 15,038 17,183 21,403 
+8 Proli!/ (Loss) from continuing operations after tax (6-7) 2,87 815 (9,828) (27,619 2,77,985 (56,994) (2,24,218) 
+9 Profit/ (Loss) from discontinuing operations before tax @ 43 3,843 43 3,586 17,380 
+10 lncomn tax expense of discontlnuinQ operations -. 
+11 Profit/ (Loss) from discontinuing operations after tax (9-10) [@ 43 3,843 43 3,586 17,380 
+12 Share of net profits/ (loss) of investment accounted for using equity method - - --
+13 Profit I (Loss) for the period/ year before Non-controlling interest (8+11+12) 2,87,815 (9,785 (23,776) 2,78,028 (53,408) (2,06,838) 
+14 Non-controlling interest . - . 
+15 Profit/ (Loss) for the period/ year (13-14) 2,87,815 (9,785) (23.776) 2,78,028 (53,408) (2.06,838) 
+16 Other Comprehensive Income I (loss) 
+a Items that will not be reclassified lo profit or loss 
+(i) Remeasurements of net defined benefit plans . (100) 
+b Item that will be reclassified to profit or loss -currency translation (loss)lgains (56) (31) (255) (87) 218 416 
+Other Comprehensive lncomel(Loss) for the period/ year (66) (31) (255) (87) 218 316 
+17 Total Comprehensive lncome/(Loss) for the period/ year (15+16) 2,87,769 (9,816) (24,031) 2,77,941 (53,190) (2,06,522) 
+18 lncome/(Loss) attributable to: 
+(a) Owners of the parent 2,87,812 (9,785) (23,776) 2,78,028 (53,407) (2,06,838) 
+(b) Non-controlling interests --- - . 
+2,87,812 (9,785) (23.776) 2,78,028 (53,407) (2.06,838) 
+19 Ol.hor Comprehensive lncome/(Loss) attributable to: 
+(ol Owners of the parent (56) (31) (255) (87) 218 316 
+(b) Non-controlling interests -- . -
+(561 131 1255 1871 218 316 
+20 Total Comprehensive lncome/(Loss) attributable to: (18+19) 
+(a) Owners of the parent 2,87,757 (9,816) (24,031) 2,77,941 (53,189) (2,06,522) 
+(b) Non-controlling interests . - - -
+2,87,757 (9,816) (24,031) 2,77,941 (53,189) (2,06,522) 
+?.1 Pald up Ettully Shere Capiral 4,01,698 4,01 ,698 3,81,118 4,01,698 3,81,118 4,01,698 
+22 Other Equity 7,59,688 
+23 Earnings per equity share: (Face value of Rs. 10 each) 
+For Continuing operations 
+Basic (Rupees) 7.165 (0 245) (0 735) 6.920 (1 521) (5 917) 
+Diluted (Rupees) 7.165 (0 245) (0 735) 6.920 (1 521) (5 917) 
+For Discontinuing operations 
+Basic (Rupees) 0 001 0102 0.001 0 096 0 459 
+Diluted (Rupees) - 0 001 0 102 0,001 0096 0 459 
+For Continuing and discontinuing operations ~ -Basic (Rupees) ,(.,-~f.y..0-& Ass. 7.165 (0244) (0 633) 6,921 (1 425) (5 458) 
+Diluted(Rupees) • ·•-.~r',.....-."'"'~0~ ~~ ~ 7.165 (0 244) (0 633) 6.921 (1 425) (5 458) 
+(EPS for the quarter is nol annualised) _.• ( '\,-
+•• {• .,1r.w., l l'f\ 1!1LJ!1) @ Amount is below the rounding off norm s~op1<1(l rt, -~/~,f Q;,:i Cll 
+(f ~ V / Jf:: 
+~,:. I.. .) "t> t . , • \,.. ..J * 
+,,~..,;/'I<. ""'--J ~~ 
+Reliance Power Limited 
+Statement of Consolidated Assets and Liabilities as at September 30, 2024 
+Particulars 
+ASSETS 
+Non-current assets 
+Property, plant and equipment 
+Capital work-in-progress 
+Goodwill on consolidation 
+Other Intangible assets 
+Financial assets: 
+-Investments 
+-Finance lease receivables 
+-Other financial assets 
+Non-current tax assets 
+Other non-current assets 
+Total Non-Current Assets 
+Current assets 
+Inventories 
+Financial assets: 
+-Investments 
+-Trade receivables 
+-Cash and cash equivalents 
+-Bank balances other than cash and cash equivalents 
+-Loans 
+-Finance lease receivables 
+-Other financial assets 
+Current tax assets (net) 
+Other current assets 
+Total Current Assets 
+Assets classified as held for sale and discontinued operations 
+Total Assets 
+EQUITY AND LIABILITIES 
+Equity 
+Equity share capital 
+Other equity 
+Total equity 
+Liabilities 
+Non-current liabilities 
+Financial liabilities: 
+-Borrowings 
+-Other financial liabilities 
+Provisions 
+Deferred tax liabilities (net) 
+Other non-current liabilities 
+Total Non-Current Liabilities 
+Current liabilities 
+Financial liabilities: 
+-Borrowings 
+-Trade payables 
+-total outstanding dues of micro enterprises and small enterprises 
+-total outstanding dues of creditors other than micro enterprises and small enterprises 
+-Other financial liabilities 
+Other current liabilities 
+Provisions 
+Total Current Liabilities 
+Liabilities directly associated with assets classified as held for sale and discontinued 
+operations 
+Total Equity and Liabilities b;,-:;-;, ;:-,........_ As at 
+September 30, 2024 
+Unaudited 
+31, 15,753 
+1,31,758 
+1,127 
+2,107 
+17,257 
+3,26,329 
+23,191 
+6,341 
+50,283 
+36,74,146 
+84,528 
+3,792 
+1,83,484 
+31,861 
+52,806 
+16,619 
+11,669 
+6,662 
+168 
+28,970 
+4,20,559 
+9,329 
+41,04,034 
+4,01,698 
+10,37,630 
+14,39,328 
+8,58,580 
+96,375 
+8,870 
+2,53,343 
+1,56,655 
+13,73,823 
+6,31,703 
+1,362 
+20,072 
+4,78,941 
+1,57,873 
+929 
+12,90,880 
+3 
+41,04,034 Rupees in lakhs 
+As at 
+March 31, 2024 
+Audited 
+33,54,318 
+1,29,341 
+1,411 
+2,633 
+17,277 
+3,30,793 
+4,233 
+9,062 
+50,599 
+38,99,667 
+96,117 
+3,658 
+1,65,041 
+48,615 
+43,145 
+48,326 
+16,916 
+9,006 
+136 
+22,252 
+4,53,212 
+22,922 
+43,75,801 
+4,01 ,698 
+7,59,688 
+11,61,386 
+9,40,948 
+73,542 
+8,356 
+2,43,058 
+1,59,317 
+14,25,221 
+9,35,635 
+3,996 
+41,690 
+6,42,426 
+1,63,217 
+1,030 
+17,87,994 
+1,200 
+43,75,801 
+RELIANCE POWER LIMITED 
+CIN : L40101MH1995PLC084687 
+Registered Office: Reliance Centre, Ground Floor, 19, Walchand Hirachand Marg, Ballard Estate, Mumbai -400 001. 
+Tel: +91 22 43031000 Fax: +91 22 43033166 Website: www.reliancepower.co.in 
+Email : reliancepower.investors@relianceada .com 
+Consolidated Statement of Cash Flows for the Half Year Ended September 30, 2024 
+Particulars 
+(A) Cash flow from operating activities 
+ProfiU (Loss) before tax 
+Adjusted for: 
+Gain arising on mutual fund investmenl mandatorily measured at fair value 
+Depreciation / amortisation 
+Finance cost including (gain) / loss on derivative 
+Impairment of goodwill 
+Fair value of investment measured at FVTPL 
+Interest income 
+Gain / (loss) on foreign exchange fluctuations (net) 
+Liabilities written-back 
+Government grant 
+Loss on sale of property, plant and equipment 
+Provisions made during the year/ impairment of assets/ amount written-off 
+Loss on revaluation of inventories 
+Provision for leave encashment and gratuity 
+Gain on deconsolidation of subsidiary 
+Operating profit before working capital changes 
+Changes In operating assets and liabilities: 
+Decrease/ (increase) in inventories 
+Increase in trade receivables 
+Decrease in other financial assets 
+Increase in other current assets 
+(Decrease)/ Increase in other liabilities and provisions 
+Decrease in trade payables 
+Increase in other financial liabilities 
+Taxes paid net 
+Net cash generated from operating activities -Continuing Operations 
+Net cash (used in)/ generated from operating activities -Discontinuing Operations 
+Net cash generated from operating activities -Continuing and Discontinuing Operations 
+(B) Cash flow from Investing activities 
+Property, plant and equipment's including capital advance and capital creditors (net) 
+Loan given to employees -received/ (given) (net) 
+Interest received on bank and others 
+Inter corporate deposits received/ (given) (net) 
+Investment in fixed deposits/ margin money deposits having original maturity more than three 
+months 
+Net cash generated from/ (used In) investing activities -Continuing Operations 
+Net cash generated from investing activities -Discontinuing Operations 
+Net cash generated from I (used In) investing activities -Continuing and Discontinuing 
+Operations 
+(C) Cash flow from financing activities 
+Proceeds from long term borrowings 
+Repayment of long term borrowings 
+Proceeds/ (Repayments) from short term borrowings (net) 
+Interest and finance charges paid 
+Inter corporate deposits repaid 
+Proceeds from issue of equity share warrants 
+Net cash used in financing activities -Continuing Operations 
+Net cash used in financing activities -Discontinuing Operations 
+Net cash used in financing activities -Continuing and Discontinuing Operations 
+Net (decrease)/ increase in cash and cash equivalents (A+B+C) 
+Opening balance of cash and cash equivalents 
+Cash on deconsolidatlon of subsidiary 
+Closing balance of cash and cash equivalents Half Year ended 
+September 30 202.4 
+Unaudited 
+2,93,023 
+(134) 
+58,215 
+1,11,279 
+284 
+(8,284) 
+1,222 
+(1,552) 
+(2,654) 
+1 
+8,931 
+768 
+13 23,042) 
+1,38,057 
+5,313 
+(18,715) 
+10,040 
+(7,772) 
+(5,850) 
+(7,787) 
+23 501 
+(1,270) 
+12 0661 
+1,34 721 
+18131 
+1,33,908 
+11,883 
+46 
+8,278 
+29,965 
+(29,513) 
+20 659 
+13,240 
+33,899 
+40,000 
+(1,47,202) 
+(6,372) 
+(70,709) 
+. 
+(1,84,283) . 
+(1,84,283) 
+(16,476) 
+48,615 
+1278) 
+31,861 RUPOOS In lakhs 
+Year ended 
+Marcil 31 2024 
+Audited 
+(2,02,815) 
+(246) 
+1,25,675 
+2.45, 129 
+(16,770) 
+{5,381) 
+(103) 
+(1,90,395) 
+(5,307) 
+258 
+3,62,036 
+248 
+1,265 
+-
+3, 13,594 
+(3,832) 
+(4,102) 
+18,661 
+(11,534) 
+4,148 
+(5,793) 
+7,782 
+5,330 
+(3.404) 
+3 15 520 
+1,877 
+3,17,397 
+5,146 
+(12) 
+4,505 
+(42,571) 
+(3,220) 
+(36,152) 
+16,925 
+(19,227) 
+-
+(1,30.411) 
+(6,617) 
+(1.44,988) 
+(1,962) 
+24,000 
+(2,59,978) 
+(13,442) 
+(2,73.420) 
+24,750 
+23,865 
+-
+48,615 
+Notes: 
+1. The aforesaid Consolidated Financial Results of Reliance Power Limited ("the Parent Company") 
+together with all its subsidiaries ("the Group") and associates were reviewed by the Audit Committee of 
+the Board and subsequently approved by the Board of Directors of the Parent Company at its meeting 
+held on November 12, 2024. 
+2. The Consolidated Financial Results of the Group have been prepared in accordance with the 
+Companies (Indian Accounting Standards) Rules, 2015 (Ind AS) prescribed under section 133 of the 
+Companies Act, 2013. 
+3. The Group is engaged in only one Segment viz. 'Generation of Power' and hence, there is no separate 
+reportable segment as per Ind AS-108 'Operating Segments '. The Group's operation is predominantly 
+confined to India. 
+4. Financial results of Reliance Power Limited (Standalone) are as under: 
+(Rs. in lakhs) 
+Quarter ended Half year ended Year ended 
+(Unaudited) (Unaudited) (Audited) Particulars 
+September June 30, September September September March 31, 
+30, 2024 30, 30, 30, 2024 
+2024 2023 2024 2023 
+Revenue from 
+Operations for -- - - - -
+the period/ year 
+Profit/ (loss) 
+before tax for 487 206 609 693 (1,105) 4,895 
+the period/ year 
+Profit/ (loss) 
+after tax for the 487 206 609 693 (1,105) 4,895 
+period/ year 
+Total 
+Comprehensive 
+Income I (loss) 3,041 206 (4,891) 3,247 (6,605) 13,967 
+for the period/ 
+year 
+5. During the quarter ended September 30, 2024, pledge over 1,49, 16,260 shares representing 100% 
+equity share capital of Vidarbha Industries Power Limited (VIPL), created by the Parent Company and 
+its subsidiary Rosa Power Supply Company Limited, was enforced by Axis Trustee Services Limited as 
+trustee for CFM Asset Reconstruction Private Limited and Axis Bank Limited, the lenders of VIPL (the 
+"Lenders") on September 17, 2024, whereby all voting rights in respect of the shares of VIPL shall be 
+solely exercised by them along with takeover of the management and control of VIPL. Accordingly, 
+VIPL cease to be a subsidiary of the Parent Company w.e.f. September 17, 2024. Pursuant to the 
+settlement agreement entered between the above parties, the entire obligations of the Parent Company 
+as a Guarantor on behalf of VIPL stands fully settled resulting in release and discharge of Corporate 
+Guarantee, undertakings and all obligations and claims thereunder in relation to the outstanding debt 
+of VIPL amounting to Rs 3,87,204 lakhs. Further, Section 7 of the Insolvency and Bankruptcy Code, 
+2016, application filed by the CFM Asset Reconstruction Private Limited stands dismissed as the 
+application is withdrawn on September 25, 2024. 
+As per Ind AS 110 "Consolidated Financial Statements", VIPL's income and expenses is recognized in 
+the Group's consolidated financials upto September 17, 2024. Notably, the Group had derecognized its 
+share in VIPL's net liabilities on September 30, 2024, recognizing a gain of Rs. 3,23,042 lakhs as an 
+exceptional item. 
+6. Rajasthan Sun Technique Energy Private Limited (RSTEPL) has defaulted in repayment of dues to 
+the lenders, incurred losses during the period ended September 30, 2024 and in earlier years. The 
+management had initiated discussions with the lenders towards achieving the debt resolution . 
+Furthermore, on July 26, 2022, Ld. Appellate Tribunal for Electricity (APTEL) allowed appeal filed by 
+RSTEPL and directed Hon'ble Central Electricity Regulatory Commission (CERC) to formulate a 
+suitable mechanism to compensate RSTEPL against the reduction in DNI (i.e., Direct Normal 
+lrradiance, a measure of solar radiation useful for Solar Thermal Projects) and steep Foreign Exchange 
+Rate Variation. Punjab State Power Corporation Limited has challenged the APTEL order in Hon'ble 
+Supreme Court which is currently pending adjudication. In view of the above, the accounts of RSTEPL 
+have been prepared on a going concern basis. Notwithstanding the foregoing, the Parent Company 
+remains unaffected by RSTEPL's defaults. 
+Further as stated above, the consequential impact of these events or conditions indicates that a 
+material uncertainty exists that may cast significant doubt on the Group's ability, particularly in relation 
+to RSTEPL, to continue as a going concern. The Group remains positive to meet its liabilities in the 
+ordinary course of business and through time-bound monetization of gas-based power plants and other 
+assets of the subsidiaries . 
+7. The Board of Directors of the Parent Company, at its meeting held on October 3, 2024, approved the 
+issuance of Foreign Currency Convertible Bonds (FCCBs) up to USO 500 million (Rs. 4,20,000 lakhs). 
+The FCCBs will have an ultra-low interest rate of 5% per annum, will be unsecured, and will have a 
+tenure of 10 years. The FCCBs will be issued on a private placement basis to affiliates of Varde 
+Investment Partners, LP. This issuance was approved by the shareholders at the Annual General 
+Meeting held on August 3, 2024. 
+8. Subsequent to the quarter ended September 30, 2024, the members of the Parent Company have 
+approved issue of upto 46,20,00,000 warrants convertible into equity shares through preferential 
+allotment having face value of Rs 10 each at the issue price of Rs. 33 each, in terms of Securities and 
+Exchange Board of India (SEBI) (Issue of Capital and Disclosure Requirements) Regulations, 2018. 
+The Parent Company has received requisite in principle approval from BSE Limited, National Stock 
+Exchange of India Limited on October 24, 2024 for preferential issue. Accordingly, the Parent Company 
+has allotted 46,20,00,000 warrants and the sum of Rs. 49,409 lakhs is received and an amount of Rs. 
+15,106 lakhs has been converted / appropriated with the existing outstanding debt. 
+9. Subsequent to the quarter ended September 30, 2024, the members of the Parent Company has 
+approved 'Reliance Power Employee Stock Option Scheme 2024' ("the Scheme") in terms of SEBI 
+(Share Based Employee Benefits and Sweat Equity) Regulations 2021. The Scheme contemplates 
+grant of stock options upto 22,00,00,000 fully paid-up equity shares each of face value of Rs. 10 each 
+to the eligible employees of the Parent Company and its group companies including its subsidiaries , 
+associates and holding company (present and future, if any). The Nomination and Remuneration 
+Committee of the Parent Company, acting as the Compensation Committee shall implement, administer 
+and monitor the Scheme. 
+:E( MUMBAI 
+,,*1.. I 
+\ (l. \. • 
+10. Discontinuing operations represent Chitrangi Power Project, MEGL Shahapur Power Project, Wind 
+Project and Dadri Project of the Parent Company. Details of discontinuing operations are as under: 
+Rs. in Lakhs 
+Quarter ended Half Year Half Year Year ended 
+Particulars (Unaudited ended ended (Audited) 
+September June 30, September 30, September September March 31, 
+30,2024 2024 2023 30, 2024 30, 2023 2024 
+Income - 72 5,339 72 6,088 19,727 
+Expenses (ci) 29 1.495 29 2,502 (2,347) 
+Profit I @ 43 3,843 43 3,586 17,380 
+(loss) 
+before tax 
+Tax - - - - - -
+expense 
+Profit I @ 43 3,843 43 3,586 17,380 
+(loss) after 
+tax 
+As at As at 
+Particulars September 30, 2024 March 31, 2024 
+(Unaudited) (Audited) 
+Assets 9,329 22,922 
+Liabilities 3 1,200 
+@ amount is lower than the rounding off norms adopted by the Group. 
+11. The Parent Company has opted to publish the consolidated financial results, pursuant to option made 
+available as per Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015. The standalone financial results of the Parent Company for the quarter ended 
+September 30, 2024 are available on the websites viz. www.reliancepower.co.in and on the website of 
+BSE www.bseindia.com and NSE www.nseindia.com . 
+12. The figures for the corresponding previous period have been re-grouped / re-classified wherever 
+necessary, to make them comparable. 
+For and on behalf of the Board of Directors 
+Ashok Kumar Pal 
+Date: November 12, 2024 Executive Director and Chief Financial Offic 
+Pathak H.D. &'.Associates LLP 
+Chartered Accountants 
+Limited Review Report on Consolidated Unaudited Financial Results of Reliance Power 
+Limited for the quarter and half year ended September 30, 2024 pursuant to Regulation 33 
+of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+To Board of Directors of Reliance Power Limited 
+1. We have reviewed the accompanying Statement of Consolidated Unaudited Financial 
+Results of Reliance Power Limited ('the Parent Company') and its subsidiaries (the Parent 
+Company and its subsidiaries together referred to as the 'Group') and its associates for the 
+quarter and half year ended September 30, 2024 ("the Statement") attached herewith, being 
+submitted by the Parent Company pursuant to the requirements of Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 as amended. 
+2. This Statement which is the responsibility of the Parent Company's Management and 
+approved by the Parent's Board of Directors in their meeting held on November 12, 2024, 
+has been prepared in accordance with the recognition and measurement principles laid down 
+in Ind AS 34 "Interim Financial Reporting" prescribed under section 133 of the Companies 
+Act, 2013 ("the Act") and other accounting principles generally accepted in India. Our 
+responsibility is to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, 'Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity' issued by Institute of Chartered Accountants of India. A 
+review of interim financial information consists of making inquiries, primarily of persons 
+responsible for financial and accounting matters, and applying analytical and other review 
+procedures. A review is substantially less in scope than an audit conducted in accordance 
+with the Standards on Auditing and consequently does not enable us to obtain assurance that 
+we would become aware of all significant matters that might be identified in an audit. 
+Accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by SEBI under 
+Regulation 33 (8) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015, as amended to the extent applicable. 
+4. The Statement includes the results of the following entities: 
+A. Subsidiaries (Including step-down subsidiaries) 
+Sr. No. Name of the Com an 
+1. Sasan Power Limited 
+2. 
+3. Vidarbha Industries Power Limited (ceased w.e.f Se tember 17, 2024 
+4. Dhursar Solar Power Private Limited 
+Regd. Office: 71, 7th Floor, Plot No. 228, Mittal Chamber, Barrister Rajani Patel Road, Nariman Point, Mumbai -400021. Tel.: +91 22 4603 2839 to 41 
+URL: www.phd.ind.in 
+Pathak H.D. &'Associates LLP 
+Ct1artered Accountants 
+Sr.No. Name of the Company 
+5. Samalkot Power Limited 
+6. Raiasthan Sun Technique Enern:v Private Limited 
+7. Reliance Natural Resources (Singapore) Pte Limited 
+8. Coastal Andhra Power Limited 
+9. Reliance NU BESS Limited (formerly known as Maharashtra Energy Generation 
+Limited) 
+10. Reliance NU PSP Private Limited (formerly known as Chitrangi Power Private 
+Limited) 
+11. Reliance NU Suntech Private Limited (formerly known as Siyom Hydro Power 
+Private Limited) 
+12. Tata Hydro Power Private Limited 
+13. Reliance NU BESS One Private Limited (formerly known as Kalai Power Private 
+Limited) 
+14. Urthing Sabia Hydro Power Private Limited 
+15. Reliance NU FDRE One Private Limited (formerly known as Teling Hydro Power 
+Private Limited) 
+16. Reliance NU FDRE Private Limited (formerly known as Shangling Hydro Power 
+Private Limited) 
+17. Reliance Coal Resources Private Limited 
+18. Reliance CleanGen Limited 
+19. Reliance NU PSP One Limited (formerly known as Coastal Andhra Power 
+Infrastructure Limited) 
+20. Reliance Prima Limited 
+21. Reliance NU Energies Private Limited (formerly known as Atos Trading Private 
+Limited) 
+22. Tiyara Power Private Limited 
+23. Reliance Natural Resources Limited 
+24. Reliance Neo Energies Private Limited 
+25. Reliance Green Energies Private Limited 
+26. Reliance GAH2 Limited 
+27. Reliance GH2 Private Limited 
+28. Reliance NU Wind Private Limited (formerly known as Reliance Wind Power 
+Private Limited) 
+29. Reliance Power Netherlands BV 
+30. PT Heramba Coal Resources 
+31. PT A vaneesh Coal Resources 
+32. PT Brayan Bintang Tiga Energi 
+33. PT Sriwiiiva Bintang Tiga Energi 
+34. PT Sumukha Coal Services 
+35. Reliance Power Holding (FZC) 
+36. Reliance Chittagong Power Company Limited 
+Pathak H.D. &AssociatesLLP 
+Chartered Accountants 
+B. Associates 
+Sr. No. Name of the Company 
+I. RPL Photon Private Limited (struck off w.e.f June 28, 2024) 
+2. RPL Sun Technique Private Limited (struck off w.e.f June 28, 2024) 
+3. RPL Sun Power Private Limited (struck off w.e.f June 28, 2024) 
+5. Based on our review conducted and procedures as stated in paragraph 3 above and based on the 
+consideration of the review reports of other auditors referred to in paragraph 6 (c) below, 
+nothing has come to our attention that causes us to believe that the accompanying Statement, 
+prepared in accordance with the recognition and measurement principles laid down in Indian 
+Accounting Standards ('Ind AS') prescribed under Section 133 of the Act read with relevant 
+rules issued thereunder and other accounting principles generally accepted in India, has not 
+disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 as amended including the manner 
+in which it is to be disclosed, or that it contains any material misstatement. 
+6. (a) We draw attention to Note no. 6 of the Statement wherein the auditors of Rajasthan Sun 
+Technique Energy Private Limited (RSTEPL) have highlighted material uncertainty related 
+to going concern of RSTEPL. However, the accounts of RSTEPL have been prepared on a 
+Going concern basis for the reasons stated in the aforesaid note. Our conclusion on the 
+Statement is not modified in respect of this matter. 
+As stated above the consequential impact of these events or conditions indicate that a 
+material uncertainty exists that may cast significant doubt on the Group's ability, 
+particularly in relation to RSTEPL, to continue as a going concern. However, the Group is 
+confident to meet its liabilities in the ordinary course of business and through time bound 
+monetization of gas-based power plants and other assets of the subsidiaries. Accordingly, 
+the consolidated unaudited financial results of the Group have been prepared on a going 
+concern basis, and our conclusion on the Statement is not modified in respect of this matter. 
+(b) We draw attention to Note no. 5 of the statement wherein Vidarbha Industries Power 
+Limited (VIPL) ceased to be a subsidiary w.e.f September 17, 2024, pursuant to invocation 
+of pledged shares by the lenders, consequently, all voting rights in respect of the shares of 
+VIPL have been solely exercised by them along with takeover of the management and 
+control of VIPL. Accordingly, VIPL has been deconsolidated and the impact on 
+deconsolidation has been shown as an exceptional item in the consolidated financial results. 
+Our conclusion on the Statement is not modified in respect of this matter. 
+(c) We did not review the financial information of 33 subsidiaries included in the consolidated 
+unaudited financial results, whose financial information reflect total assets of Rs. 4,45,326 
+Lakhs as at September 30, 2024, total revenues of Rs. 4,473 Lakhs and Rs. 9,715 Lakhs, 
+total net profit after tax of Rs. 2,77,971 Lakhs and Rs. 2,69,149 Lakhs and total 
+comprehensive profit of Rs. 2,77,971 Lakhs and Rs. 2,69,149 Lakhs for the quarter and half 
+year ended September 30, 2024 respectively and net cash inflow of Rs. 1,331 lakhs for the 
+half year ended September 30, 2024, as considered in the consolidated unaudited financial 
+Pathak H.D. &~ssociatesLLP 
+Chartered Accountants 
+results whose financial information has not been reviewed by us. These financial 
+information have been reviewed by other auditors whose reports have been furnished to us 
+by the Management and our conclusion on the Statement, in so far it relates to amounts and 
+disclosures included in respect of these subsidiaries, is solely based on the reports of the 
+other auditors and the procedures performed by us as stated in paragraph 3 above. Our 
+conclusion on the Statement is not modified in respect of this matter. 
+For Pathak H. D. & Associates LLP 
+Chartered Accountants 
+Firm's Registration No: 107783W/W100593 
+Jigar T. Shah 
+Partner 
+Membership No.: 161851 
+UDIN: 24161851BKBHQK2306 
+Date: November 12, 2024 
+Place: Mumbai 
+RELIANCE POWER LIMITED 
+CIN: l4D101MH1995PLC0B4 687 
+Registered Office: Reliance Centre, Ground Floor, 19, Walchand Hirachand Marg, Ballard Estate, Mumbai -400 001. 
+Tel: 22 43031000 Fax: 22 43033166 Website: www.reliancepower .co.in 
+Email : reliancepower.investors@relianceada.com 
+Statement of Standalone Financial Results for the Quarter and Half Year Ended September 30, 2024 
+Sr. Particulars Quarter Ended Half Year Ended 
+No September June September September September 
+30, 2024 30, 2024 30. 2023 30, 2024 30, 2023 
+Unaudited Unaudned Unaudned Unaudited Unaudited 
+1 Revenue from Operations - --
+2 Other Income 3.090 2.544 3.340 5.634 6.329 
+Total Income 3.090 2 544 3.340 5 634 6.329 
+3 EXl>Elnses 
+(a) Emplovee benefits expense 47 42 53 89 132 
+(bl Finance costs 1.865 1,851 2.230 3,716 6.254 
+(cl Depreciation and amortization expense @ @ @ @ @ 
+(d) Generation. administraLion and other expenses 691 488 399 1.179 742 
+Total expenses 2.603 2 381 2.682 4.984 7.128 
+4 Profit/ (Loss) before exceptional items and tax (1+2-3) 487 163 658 650 (799) 
+5 Exceptional items 
+Impairment of property. plant and equipment . -. -
+Liabilities written back - . . 
+6 Profit/ (Loss) before tax (4+5) 487 163 658 650 /799) 
+7 Income tax expense 
+(a) Current tax . 
+(b) Deferred tax . 
+Total tax expenses . . - . 
+8 Profit/ (Loss) from Continuinq Operations 16-7) 487 163 658 650 1799) 
+9 Profit/ (Loss) from Discontinuinq Operations before tax - 43 (49) 43 (306) 
+1 O Income tax expense of Discontinuinq Operations 
+(a) Current tax - - -
+(b) Deferred tax . . -
+Total tax expenses of Discontinuinq Operations . - . . 
+11 Profit/ (Loss) from Discontinuinq Operations (9-10) - 43 149) 43 (306) 
+12 Profit l(Losslfor the period/ year (8+11) 487 206 609 693 (1105) 
+13 Other Comprehensive Income 
+Items that will not be reclassified to profit or loss 
+(i) Remeasurements of net defined benefit plans - -
+(ii) Changes in fair value of equity instruments 2,554 . (6.440) 2.554 (6.440) 
+(iii) Gains from investments in equity instruments designated at fair value through - - 940 . 940 
+other comprehensive income 
+Other Comprehensive Income/ (Loss) for the period/ year 2.554 - 15.500) 2.554 (5.500 
+14 Total Comprehensive Income/ (Loss) for the period/ year (12+13) 3041 206 /4.891\ 3.247 /6.605) 
+15 Paid up Equity Share Capnal 4,01,698 4,01,698 3,81.118 4,01,698 3.81,118 
+16 Other Equity 
+Earnings per equity share: {Face value of Rs. 10 each) 
+For Continuing operations 
+Basic (Rupees) 0.012 0.004 0.018 0.016 (0,021) 
+Diluted (Rupees) 0.012 0.004 0.017 0.016 (0.021) 
+For Discontinuin!I operations 
+Basic (Rupees) . 0.001 (0.001) 0.001 (0.008) 
+Diluted (Rupees) - 0.001 (0.001) 0.001 (0.008) 
+For Continuing and discontinuing operations 
+Basic (Rupees) 0.012 0.005 0.017 0.017 (0,029) 
+Diluted (Rupees) 0.012 0.005 0.016 0.017 (0.029) 
+IEPS for the ouarter is not annualised ) Rucees in lakhs 
+Year Ended 
+March 
+31, 2024 
+Audited 
+. 
+10.963 
+10.963 
+240 
+9.849 
+1 
+7.529 
+17,619 
+(6,656) 
+(8.775) 
+19.849 
+4.418 
+-
+4.418 
+477 
+--
+-
+477 
+4.895 
+(12) 
+8.144 
+940 
+9.072 
+13.967 
+4.01,698 
+5,38,017 
+0.117 
+0111 
+0.013 
+0012 
+0130 
+0.123 
+Reliance Power Limited 
+Statement of Standalone Assets and Liabilities as at September 30, 2024 
+Particulars 
+ASSETS 
+Non-current assets 
+Property, plant and equipment 
+Financial assets: 
+-Investments 
+-Loans 
+-Other financial assets 
+Non-current tax assets 
+Total Non-Current Assets 
+Current assets 
+Financial assets: 
+-Cash and cash equivalents 
+-Bank balances other than cash and cash equivalents 
+-Loans 
+-Other financial assets 
+Other current assets 
+Total Current Assets 
+Assets classified as held for sale and discontinued operations 
+EQUITY AND LIABILITIES 
+Equity 
+Equlty share capital 
+Other equity 
+Liabilities 
+Non-current liabilities 
+Financial liabilities: 
+-Borrowings 
+Provisions Total Assets 
+Total Equity 
+Total Non-Current Liabilities 
+Current liabilities 
+Financial liabilities: 
+-Borrowings 
+-Trade payables 
+-total outstanding dues of micro enterprises and small enterprises 
+-total outstanding dues of creditors other than micro enterprises and 
+small enterprises 
+-Other financial liabilities 
+Other current liabilities 
+Provisions 
+Total Current Liabilities 
+Liabilities directly associated with assets classified as held for sale and 
+discontinued operations 
+Total Equity and Liabilities As at 
+September 30, 2024 
+Unaudited 
+2 
+13,17,875 
+-
+282 
+2,907 
+13,21,066 
+618 
+3 
+1,22,588 
+40,535 
+234 
+1,63,978 
+-Rupees in lakhs 
+As at 
+March 31, 2024 
+Audited 
+3 
+13,15,321 
+97 
+352 
+2,894 
+13, 18,667 
+1,271 
+3 
+1,08,605 
+38,500 
+28 
+1,48,407 
+13,593 
+t==============l=== ==========oi 14,85,044 14,80,667 
+l .. 4,01,698 
+5,41,264 
+9,42,962 
+29,995 
+122 
+30,117 
+3,92,431 
+-
+169 
+1, 19,285 
+78 
+2 
+5,11,965 
+-
+14,85,044 
+MUM 
+....._. 
+·i:D-'.C 4,01,698 
+5,38,017 
+9,39,715 
+28,407 
+122 
+28,529 
+3,91,576 
+-
+163 
+1,19,355 
+131 
+2 
+5,11,227 
+1,196 
+14,80,667 
+Reliance Power Limited 
+Statement of Cash flow for the half year ended September 30, 2024 
+Particulars 
+(A) Cash flow from operating activities 
+Profit/ (loss) before t;;x 
+Adjusted for : 
+Depreciation and amortisation 
+Finance costs 
+Interest income 
+Loss on sale of property, plant and equipment 
+Provision made during the year/ amount written off 
+Liabilities written back 
+Provision/ (reversal) for leave encashment and gratuity 
+lmapairment of investment in associates 
+Operating profit before working capital changes 
+Changes in operating assets and liabilities: 
+(Increase) in other financial assets 
+{Increase) / decrease in other current assets 
+Increase/ (decrease) in other financial liabilities 
+(Decrease) I increase in other current liabilities 
+(Decrease) in provisions 
+Increase in trade payables 
+Taxes (paid) (Net) 
+Net cash generated from operating activities -continuing operations 
+Net cash (used in) / generated from operating activities -discontinuing operations 
+Net cash (used in) / generated from operating activities -continuing and discontinuing 
+Operations 
+(B) Cash flow from investing activities 
+Interest on bank and other deposits (net) 
+Inter corporate deposits given to subsidiaries / related parties (net) 
+Other advances to subsidiaries (net) 
+Loan to employees 
+Investment of fixed deposit/ margin money deposit having original maturity of more than three 
+month 
+Net cash used in investing activities -continuing operations 
+Net cash generated from investing activities -discontinuing operations 
+Net cash generated from / (used in) from investing activities -continuing and 
+discontinuing operations 
+(CJ Cash flow from financing activities 
+Inter corporate deposits from subsidiaries (net) 
+Proceeds from issue of equity share warrants 
+Interest and finance charges 
+Repayment of borrowings 
+Net cash (used in)/ generated from financing activities -continuing operations 
+Net cash used in financing activities -discontinuing operations 
+Net cash used in financing activities -continuing and discontinuing Operations 
+Net (decrease)/ increase in cash and cash equivalents (A+B+C) 
+Opening balance of cash and cash equivalents 
+Closina balance of cash and cash =uivalents Haff Year Ended 
+Sentember 30, 2024 
+,0. 
+*'-Unaudited 
+650 
+@ 
+3,716 
+{1,782) 
+321 
+{2,343) 
+2 
+564 
+-
+(274) 
+245 
+(77) 
+-
+7 
+(99) 
+-
+465 
+(815) 
+(350) 
+-
+(526) 
+(945) 
+-
+(7) 
+(1,478) 
+13,240 
+11,762 
+997 
+-
+(76) 
+(12,986) 
+(12,065) 
+-
+(12,065) 
+(653) 
+1,271 
+618 
+MUMBAI 
+.I ~'-'- ../ Rupees in Lakhs 
+Yearended 
+March 31, 2024 
+Audited 
+4,418 
+1 
+9,849 
+(4,753) 
+30 
+14,765 
+(20,258) 
+(117) 
+3,935 
+(1,273) 
+1 
+(211) 
+42 
+(12) 
+-
+(1,453) 
+(13) 
+2,469 
+1,880 
+4,349 
+75 
+(1,588) 
+746 
+@ 
+(343) 
+(1,110) 
+-
+(1,110) 
+366 
+24,000 
+(562) 
+(12,722) 
+11,082 
+(13,259) 
+(2,177) 
+1,062 
+209 
+1,271 
+Notes: 
+1. The aforesaid standalone financial results of Reliance Power Limited ("the Company") were reviewed 
+by the Audit Committee of the Board and subsequently approved by the Board of Directors of the 
+Company at its meeting held on November 12, 2024. 
+2. The standalone financial results of the Company have been prepared in accordance with the 
+Companies (Indian Accounting Standards) Rules, 2015 (Ind AS) prescribed under section 133 of the 
+Companies Act, 2013. 
+3. The Company is engaged in only one Segment viz. 'Generation of Power' and as such there is no 
+separate reportable segment as per Ind AS -108 'Operating Segments'. The Company's operation 
+is predominantly confined to India. 
+4. Pursuant to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+information pertaining to debt securities issued by the Company as on September 30, 2024 is Series 
+Ill (2017) Rated, Listed, Redeemable Non-Convertible Debentures aggregating to Rs. 25,000 Lakhs 
+which are outstanding and are secured by the Pledge of shares of subsidiary company owned by 
+the Company. The Company has sufficient asset cover to discharge the principal amount. 
+5. Disclosures pursuant to Regulation 52(4) of the Securities and Exchange Board of India (Listing 
+Obligation and Disclosure Requirements) Regulations, 2015 for the quarter ended September 30, 
+2024 are as under: 
+Quarter Ended Half Year Ended Year 
+Sr Particulars Ended (Unaudited) (Unaudited) (Audited) 
+September June September September September March 
+30,2024 30,2024 30, 2023 30, 2024 30,2023 31,2024 
+A Debenture Redemption Reserve (Rs in 4,683 4,683 4,683 4,683 4,683 4,683 lakhs) 
+B Capital Redemption Reserve (Rs in lakhs) -- - - --
+C Net Worth excluding Revaluation Reserve 13,65,407 13,76,029 13,38,665 13,65,407 13,38,665 13,76,667 (Rs in lakhs) 
+D Debt Service Coverage Ratio 1.43 0.35 1.27 0.61 0.82 0.32 
+E Interest Service Coverage ratio 1.43 1.11 1.27 1.27 0.82 1.14 
+F Debt Equity Ratio 0.31 0.31 0.39 0.31 0.39 0.31 
+G Current Ratio 0.32 0.32 0.20 0.32 0.20 0.29 
+H Basic EPS (Rupees) 0.012 0.005 0.017 0.017 (0.029) 0.130 
+I Diluted EPS Ratio (Rupees) 0.012 0.005 0.016 0.017 (0.029) 0.123 
+J Net profiU (loss) after tax (After exceptional 487 206 609 693 (1,105) 4,895 item) (Rs in lakhs) 
+K Long Term debt to Working Capital Ratio (0.09) (0.08) (0.07) (0.09) (0.07) (0.08) 
+L Bad Debts to Account Receivable Ratio -- - - - -
+M Current Liability Ratio 0.94 0.95 0.95 0.94 0.95 0.95 
+N Total Debts to Total Assets Ratio 0.28 0.28 0.33 0.28 0.33 0.28 
+0 Debtors Turnover Ratio --- - --
+p Inventory Turnover Ratio -- - - - -
+Q Operating Margin - - - - - -
+R Net Profit Margin 16% 8% 18% 12% (17%) (56%) 
+(Ratio for the quarter is not annualised) 
+Ratios have been computed as under: 
+• Debt Service Coverage Ratio = Earnings before interest, tax, depreciation, other non-cash 
+operating expenses and exceptional items/ (Interest on Long Term and Short-term Debt for the 
+period/year+ Principal Repayment of Long -term Debt for the period/ year). 
+• Interest Service Coverage Ratio = Earnings before interest, tax, depreciation, other non-cash 
+operating expenses and exceptional items/ Interest on Long Term and Short-term Debt for the 
+period/year. 
+• Debt Equity Ratio = Total Debt / Equity excluding Revaluation Reserve 
+• Current Ratio = Current Assets/Current Liabilities 
+• Long-term Debts to Working Capital = non-current borrowing including current maturities/working 
+capital excluding current maturities of non-current borrowings 
+• Bad debts to Account Receivable ratio= Bad debts/Average Trade Receivable 
+• Current Liability Ratio= Total Current Liabilities/Total Liabilities 
+• Total Debts to Total Assets= Total Debts/Total Assets 
+• Debtors Turnover Ratio = Revenue from Operation/Average Trade Receivable 
+• Operating margin= Operating Profit/(Loss) / Revenue from operation 
+• Net profit margin= Profit/(Loss) after tax (excluding exceptional items)/Total Income 
+• Basic EPS = Profit after tax/ Weighted average No's of equity shares 
+• Diluted EPS = Profit after tax/ (Weighted average No's of equity shares + outstanding share 
+warrants) 
+6. During the quarter ended September 30, 2024, pledge over 1,49, 16,260 shares representing 100% 
+equity share capital of Vidarbha Industries Power Limited (VIPL), created by the Company and its 
+subsidiary Rosa Power Supply Company Limited, was enforced by Axis Trustee Services Limited as 
+trustee for CFM Asset Reconstruction Private Limited and Axis Bank Limited, the lenders of VIPL 
+(the "Lenders") on September 17, 2024, whereby all voting rights in respect of the shares of VIPL 
+shall be solely exercised by them along with takeover of the management and control of VIPL. 
+Pursuant to the settlement agreement entered between the above parties, the entire obligations of 
+the Company as a Guarantor on behalf of VIPL stands fully settled resulting in release and discharge 
+of Corporate Guarantee, undertakings and all obligations and claims thereunder in relatior to the 
+outstanding debt of VIPL amounting to Rs 3,87,204 lakhs. Further, Section 7 of the Insolvency and 
+Bankruptcy Code, 2016, application filed by the CFM Asset Reconstruction Private Limited stands 
+dismissed as the application is withdrawn on September 25, 2024. 
+7. The Board of Directors of the Company, at its meeting held on October 3, 2024, approved the 
+issuance of Foreign Currency Convertible Bonds (FCCBs) up to USD 500 million (Rs. 4,20,000 
+lakhs). The FCCBs will have an ultra-low interest rate of 5% per annum, will be unsecured, and will 
+have a tenure of 10 years. The FCCBs will be issued on a private placement basis to affiliates of 
+Varde Investment Partners, LP. This issuance was approved by the shareholders at the Annual 
+General Meeting held on August 3, 2024. 
+8. Subsequent to the quarter ended September 30, 2024, the members of the Company have approved 
+issue of upto 46,20,00,000 warrants convertible into equity shares through preferential allotment 
+having face value of Rs 1 O each at the issue price of Rs. 33 each, in terms of Securities and 
+Exchange Board of India (SEBI) (Issue of Capital and Disclosure Requirements) Regulations, 2018. 
+The Company has received requisite in principle approval from BSE Limited, National Stock 
+Exchange of India Limited on October 24, 2024 for preferential issue. Accordingly, the Company has 
+allotted 46,20,00,000 warrants and the sum of Rs. 49,409 lakhs is received and an amount of Rs. 
+15, 105 lakhs has been converted / appropriated with the existing outstanding debt. 
+9. Subsequent to the quarter ended September 30, 2024, the members of the Company has approved 
+'Reliance Power Employee Stock Option Scheme 2024' ("the Scheme") in terms of SEBI (Share 
+Based Employee Benefits and Sweat Equity) Regulations 2021. The Scheme contemplates grant of 
+stock options upto 22,00,00,000 fully paid-up equity shares each of face value of Rs. 10 each to the 
+eligible employees of the Company and its group companies including its subsidiaries, associates 
+and holding company (present and future, if any). The Nomination and Remuneration Committee of 
+the Company , acting as the Compensation Committee shall implement , administer and monitor the 
+Scheme. 
+10. The figures for the corresponding previous period have been re-grouped / re-classified wherever 
+necessary , to make them comparable . 
+Date: November 12, 2024 For and on behalf of the Board of Directors 
+~ 
+Ashok Kumar Pal 
+Executive Director and Chief Financial 
+Pathak H.D. &~ssociatesLLP 
+Chartered Accountants 
+Limited Review Report on Standalone Unaudited Financial Results of Reliance Power Limited for 
+the quarter and half year ended September 30, 2024 pursuant to Regulation 33 and Regulation 52 
+read with Regulation 63(2) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 
+To Board of Directors of Reliance Power Limited 
+1. We have reviewed the accompanying statement of standalone unaudited financial results of 
+Reliance Power Limited ('the Company') for the quarter and half year ended September 30, 2024 
+('the Statement') attached herewith, being submitted by the Company pursuant to the requirements 
+of Regulation 33 and Regulation 52 read with Regulation 63(2) of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 as amended. 
+2. This Statement is the responsibility of the Company's Management and has been approved by the 
+Board of Directors in their meeting held on November 12, 2024, has been prepared in accordance 
+with the recognition and measurement principles laid down in Ind AS 34 "Interim Financial 
+Reporting" prescribed under section 133 of the Companies Act, 2013 ("the Act") and other 
+accounting principles generally accepted in India. Our responsibility is to express a conclusion on 
+the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 'Review of Interim Financial Information Performed by the Independent 
+Auditor of the Entity' issued by the Institute of Chartered Accountants of India. This Standard 
+requires that we plan and perform the review to obtain moderate assurance as to whether the 
+Statement is free of material misstatement. A review is limited primarily to inquiries of the 
+Company personnel and analytical procedures applied to financial data and thus provides less 
+assurance than an audit. We have not performed an audit and accordingly, we do not express an 
+audit opinion. 
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe 
+that the accompanying Statement of standalone unaudited financial results prepared in accordance 
+with applicable Accounting Standards i.e. Indian Accounting Standards ('Ind AS') prescribed under 
+Section 133 of the Act read with relevant rules issued thereunder and other recognized accounting 
+practices and policies has not disclosed the information required to be disclosed in terms of 
+Regulation 33 and Regulation 52 read with Regulation 63(2) of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 as amended including the manner in which it is to be 
+disclosed, or that it contains any material misstatement. 
+For Pathak H. D. & Associates LLP 
+Chartered Accountants 
+Finn's ~ation No:107783W/W100593 
+:1~ 
+Jigar T. Shah 
+Partner 
+Membership No.: 161851 
+UDIN: 24161851BKBHQJ3305 
+Date: November 12, 2024 
+Place: Mumbai 

@@ -1,0 +1,217 @@
+ 
+ 
+ 
+ 
+           August 7, 2025 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street,  
+Mumbai 400 001 
+ 
+Scrip Code: 521070  
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, G Block, 
+Bandra-Kurla Complex, Bandra (East), 
+Mumbai 400 051 
+ 
+Symbol: ALOKINDS  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Annual Report for the financial year 2024-25 including notice of Annual General                      
+Meeting 
+ 
+The Annual Report of the Company for the financial year 2024-25, including the Notice 
+convening Annual General Meeting (“Notice”) , being sent through electronic mode to all the 
+Members whose e-mail address is registered with the Company / Company's Share Transfer 
+Agent / Depository Participant(s) / Depositories is attached. 
+ 
+The Annual Report including Notice is also uploaded on the Company’s website at: 
+https://www.alokind.com/assets/pdf/investor-relations/annual-
+reports/Annual_Report_for_the_year_2024_25.pdf . 
+ 
+Further, pursuant to Regulation 36(1)(b) of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, a letter providing the web-link of 
+the Annual Report, being sent to those Members(s) who have not registered their e-mail 
+addresses is also attached and available on the website of the Company: 
+https://www.alokind.com/assets/pdf/investor-relations/general-meetings/2024-
+25/Letter_to_Shareholders.pdf . 
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours faithfully, 
+For Alok Industries Limited 
+ 
+ 
+ 
+Anshul Kumar Jain 
+Company Secretary & Compliance Officer 
+   
+Encl.: As above 
+ 
+ 
+ 
+Copy to: 
+ 
+ 
+Central Depository Services (India) 
+Limited 
+Marathon Futurex, A- Wing, 25th Floor, 
+N.M. Joshi Marg, Lower Parel,  
+Mumbai - 400 013  
+  
+National Securities Depository Limited  
+3rd Floor, Naman Chamber, Plot C-32,  
+G-Block, Bandra Kurla Complex,  
+Bandra East,  
+Mumbai - 400051  
+ 
+MUFG Intime India Private Limited,  
+C-101, 247 Park, LBS Marg,  
+Vikhroli (West), Mumbai - 400 083  
+  
+ 
+ 
+ 
+38th ANNUAL REPORT
+2024-25
+Contents
+CORPORATE OVERVIEW
+Board of Directors and Corporate Information 1
+STATUTORY REPORTS
+Board’s Report 2
+Management Discussion and Analysis 20
+Corporate Governance Report 47
+FINANCIAL STATEMENTS
+Standalone
+Independent Auditor’s Report on Standalone Financial Statements 75
+Balance Sheet 86
+Statement of Profit and Loss Account 87
+Statement of Change in Equity 88
+Cash Flow Statement 89
+Notes to Standalone Financial Statements 91
+Consolidated
+Independent Auditor’s Report on Consolidated Financial Statements 157
+Consolidated Balance Sheet 166
+Consolidated Statement of Profit and Loss Account 167
+Consolidated Statement of Change in Equity 168
+Consolidated Cash Flow Statement 169
+Notes to Consolidated Financial Statements 171
+Notice  239
+ANNUAL GENERAL MEETING
+Thirty-Eight Annual General Meeting on Thursday, September 4, 2025 at 4:00 p.m. (IST) through Video Conferencing 
+(“VC”). To attend the Annual General Meeting, please login through https://jioevents.jio.com/alokagm
+NOTICE FINANCIAL REPORT38TH ANNUAL REPORT 2024-25 PB 38TH ANNUAL REPORT 2024-25 1
+STATUTORY REPORT
+BOARD OF DIRECTORS AND CORPORATE INFORMATION
+Board of Directors
+Achuthan Siddharth
+(Independent Director and Chairman of the Board)
+Mumtaz Bandukwala
+(Independent Director)
+Rahul Dutt
+(Independent Director)
+Hemant Desai
+(Nominee Director (Non-Executive) representing Reliance Industries Limited)
+Anil Kumar Rajbanshi
+(Nominee Director (Non-Executive) representing Reliance Industries Limited)
+V. Ramachandran
+(Nominee Director (Non-Executive) representing Reliance Industries Limited)
+Nirav Parekh
+(Nominee Director (Non-Executive) representing JM Financial Asset Reconstruction Company Limited)
+Chief Executive Officer
+Harsh BapnaChief Operating Officer
+Biji ChackoChief Financial Officer
+Jinendra Kumar Jain 
+Company Secretary
+Anshul Kumar JainStatutory Auditors
+S R BC & CO LLP
+Chartered AccountantsCost Auditors
+B.J.D. Nanabhoy & Co. 
+Cost Accountants
+Secretarial Auditors
+Virendra G. Bhatt
+Practicing Company
+SecretaryBankers
+Axis Bank Limited
+State Bank of IndiaLegal Advisors
+Dentons Link Legal
+Registered Office
+17/5/1, 521/1, Village Rakholi/Saily, 
+Silvassa - 396 230
+Union Territory of Dadra and 
+Nagar HaveIi and Daman and Diu
+Tel No.: +91 260 6637000/7001
+Website: www.alokind.com
+Email: investor.relations@alokind.comCorporate Office
+Dhirubhai Ambani Knowledge City, (DAKC), 
+Building No.24, 5th & 6th Floor, 
+MIDC Plot No.2, TTC Industrial Area, 
+Kopar Khairane, Navi Mumbai – 400 710
+Tel: +91 22 31220500/600Registrar & Share Transfer Agent
+MUFG lntime India Private Limited  
+C 101, 247 Park, LBS Marg,
+Vikhroli (West),
+Mumbai – 400 083
+Tel: +91 8108116767
+Email: rnt.helpdesk@in.mpms.mufg.com
+Corporate Identity Number
+L17110DN1986PLC000334ISIN for Equity Shares
+INE270A01029Listing & Code/Symbol
+BSE Limited (521070)
+National Stock Exchange of India 
+Limited (ALOKINDS)CORPORATE OVERVIEW
+38TH ANNUAL REPORT 2024-25 2 38TH ANNUAL REPORT 2024-25 3
+BOARD'S REPORTBOARD'S REPORT
+To the Members,
+The Board of Directors present this 38th Annual Report of the Company, along with the financial statements for the  
+financial year ended 31st March, 2025, in compliance with the provisions of the Companies Act, 2013, the rules and regulations 
+framed thereunder  (“Act”)  and the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements), 
+Regulations 2015  (“Listing Regulations”) .
+FINANCIAL RESULTS:
+The Company’s performance (Standalone and Consolidated) for the financial year ended 31st March, 2025, is summarized 
+below:
+ (` in crore)
+Particulars Standalone Consolidated
+31.03.2025 31.03.2024 31.03.2025 31.03.2024
+Revenue from operations 3,556.59  5,356.35 3,708.78 5,509.59
+Operating Profit / (Loss) before Interest, 
+Depreciation and Taxes42.55  84.89 21.68 71.91
+Minority Interest and Share in Profit of Associates -  -  (0.96)  (0.96)
+Profit / (Loss) before Tax and exceptional items (862.95) (813.71) (905.55)  (849.74)
+Exceptional items 94.14 - 94.14 -
+Profit / (Loss) before Tax (768.81)  (813.71) (811.41)  (849.74)
+Tax Expenses (including Deferred Tax) -  - 5.02  (2.92)
+Profit / (Loss) after Tax (768.81)  (813.71) (816.43)  (846.82)
+Other Comprehensive Income 0.79  (0.41)  (37.82)  (28.62)
+Total Comprehensive Income (768.02)  (814.12) (854.25)  (875.44)
+TRANSFER TO RESERVES:
+No amount is proposed to be transferred to Reserves.
+DIVIDEND:
+On account of the Loss After Tax reported by the Company 
+during the financial year 2024-25, the Board of Directors do 
+not recommend any dividend (previous year Nil).
+The Dividend Distribution Policy of the Company approved 
+by the Board of Directors of the Company is in line with the 
+requirements of Listing Regulations. The Policy is available 
+on the Company’s website and can be accessed through 
+the link: https://www.alokind.com/assets/pdf/investor-
+relations/policies/Dividend_Distribution_Policy.pdf
+There has been no change in the policy during the year 
+under review.RESULTS OF OPERATIONS AND THE STATE OF COMPANY’S 
+AFFAIRS:
+(a) The Highlights of the Company’s Performance 
+(Standalone) for the Financial Year Ended 31st March, 
+2025, are as under:
+ Total sales of the Company decreased by 33.60% to  
+` 3,556.59 crore from ` 5,356.35 crore in the previous 
+year.
+ Domestic sales decreased by 36.15% to ` 2,712.72 crore 
+from ` 4,248.42 crore  in the previous year.
+ Export sales decreased by 23.83 % to ` 843.87 crore 
+from ` 1,107.93 crore in previous year.
+ Operating EBITDA was ` 42.55 crore as compared to 
+EBITDA of ` 84.89 crore in the previous year.

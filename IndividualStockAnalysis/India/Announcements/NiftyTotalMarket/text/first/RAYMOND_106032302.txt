@@ -1,0 +1,215 @@
+ 
+ 
+RL/SE/2 4-25/162 
+ 
+October  23, 2024  
+ 
+To 
+The Department of Corporate Services - CRD  
+BSE Limited  
+P.J. Towers, Dalal Street  
+Mumbai - 400 001                                            
+Fax No. 022 -22721919  
+Scrip Code: 500330  
+ The National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Bandra -Kurla Complex  
+Bandra (East), Mumbai - 400 051                              
+Fax No. (022) 26598120  
+Symbol: RAYMOND  
+ 
+Dear Sir/Madam , 
+ 
+Sub: Raymond Limited: Intimation under Regulation 39(3) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)  
+ 
+Pursuant to Regulation 39(3) of Listing Regulations, please find enclosed the intimation for issuance 
+of duplicate share certificates to shareholder(s) as detailed in the “Register of New Share Certificates 
+Issued  on Duplication”.  
+ 
+Please take the above information on record.  
+ 
+Thanking you . 
+ 
+Yours faithfully , 
+For Raymond Limited  
+ 
+ 
+ 
+Rakesh Darji  
+Company Secretary  
+ 
+Encl.: a/a  
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN18896TO: TN18886FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN18886 00175615
+JAYANTILAL MOHANLAL AMIN
+RASILABEN JAYANTILAL AMIN21/10/2024
+DUP 10.00OLD 10  29777573  29777564  10  175203  175203 
+ 10.00OLD 13  50702475  50702463  13  5041701  5041701 
+ 23 ---------------
+ 10.00NEW 10  29777573  29777564  10  1073644  1073644  1033  1033 
+ 10.00NEW 13  50702475  50702463  13  1073644  1073644  1033  1033 
+ 23 ---------------
+TN18887 Z0009400
+RASILABEN JAYANTILAL AMIN
+JAYANTILAL MOHANLAL AMIN21/10/2024
+DUP 10.00OLD 83  56921731  56921649  83  5232205  5232206 
+ 83 ---------------
+ 10.00NEW 83  56921731  56921649  83  1073645  1073645  1034  1034 
+ 83 ---------------
+TN18888 Z0082279
+VIJAY H THACKER
+SONA V THACKER21/10/2024
+DUP 10.00OLD 50  10257480  10257431  50  3910576  3910576 
+ 50 ---------------
+ 10.00NEW 50  10257480  10257431  50  1073646  1073646  1035  1035 
+ 50 ---------------
+TN18889 00209918
+SHRIKUMAR SITARAM PASARI 21/10/2024
+DUP 10.00OLD 5  9959045  9959041  5  3356126  3356126 
+ 10.00OLD 5  21812550  21812546  5  3717960  3717960 
+ 10.00OLD 5  51006538  51006534  5  5061613  5061613 
+ 15 ---------------
+ 10.00NEW 5  9959045  9959041  5  1073647  1073647  1036  1036 
+21/10/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN18896TO: TN18886FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+ 10.00NEW 5  21812550  21812546  5  1073647  1073647  1036  1036 
+ 10.00NEW 5  51006538  51006534  5  1073647  1073647  1036  1036 
+ 15 ---------------
+TN18890 00196162
+PURNIMA SHANGHVI
+SURESH SHANGHVI21/10/2024
+DUP 10.00OLD 20  29922675  29922656  20  185007  185007 
+ 10.00OLD 10  9838345  9838336  10  3331985  3331986 
+ 30 ---------------
+ 10.00NEW 10  9838345  9838336  10  1073648  1073648  1038  1038 
+ 10.00NEW 20  29922675  29922656  20  1073648  1073648  1038  1038 
+ 30 ---------------
+TN18891 00193300
+CHETAN PORECHA
+PURNIMA PORECHA21/10/2024
+DUP 10.00OLD 13  29905137  29905125  13  183771  183771 
+ 10.00OLD 5  9813390  9813386  5  3326995  3326995 
+ 10.00OLD 5  21696473  21696469  5  3705283  3705283 
+ 10.00OLD 15  50864858  50864844  15  5051988  5051988 
+ 10.00OLD 8  41254738  41254731  8  6025521  6025521 
+ 46 ---------------
+ 10.00NEW 5  9813390  9813386  5  1073649  1073649  1039  1039 
+ 10.00NEW 5  21696473  21696469  5  1073649  1073649  1039  1039 
+ 10.00NEW 13  29905137  29905125  13  1073649  1073649  1039  1039 
+ 10.00NEW 8  41254738  41254731  8  1073649  1073649  1039  1039 
+ 10.00NEW 15  50864858  50864844  15  1073649  1073649  1039  1039 
+ 46 ---------------
+TN18892 00199237
+FIROZ ABDUUL MOAIYAD 
+RANGWALA
+ABDULMOAIYAD MOHAMEDALI21/10/2024
+DUP 10.00OLD 17  41269025  41269009  17  6027041  6027041 
+ 17 ---------------
+21/10/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN18896TO: TN18886FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+ 10.00NEW 17  41269025  41269009  17  1073650  1073650  1040  1040 
+ 17 ---------------
+TN18893 K0002938
+KEKI DARA VANDRIWALA 21/10/2024
+DUP 10.00OLD 11  4245698  4245688  11  3018551  3018551 
+ 10.00OLD 11  15473979  15473969  11  3550659  3550659 
+ 10.00OLD 11  55053824  55053814  11  5170787  5170787 
+ 33 ---------------
+ 10.00NEW 11  4245698  4245688  11  1073651  1073651  1041  1041 
+ 10.00NEW 11  15473979  15473969  11  1073651  1073651  1041  1041 
+ 10.00NEW 11  55053824  55053814  11  1073651  1073651  1041  1041 
+ 33 ---------------
+TN18894 Z0084240
+NATUBHAI RAMBHAI PATEL 21/10/2024
+DUP 10.00OLD 50  15651103  15651054  50  3554558  3554558 
+ 10.00OLD 50  16906940  16906891  50  3562764  3562764 
+ 10.00OLD 25  24807550  24807526  25  3817545  3817545 
+ 10.00OLD 25  26029920  26029896  25  3817545  3817545 
+ 150 ---------------
+ 10.00NEW 50  15651103  15651054  50  1073652  1073652  1042  1042 
+ 10.00NEW 50  16906940  16906891  50  1073652  1073652  1042  1042 
+ 10.00NEW 25  24807550  24807526  25  1073652  1073652  1042  1042 
+ 10.00NEW 25  26029920  26029896  25  1073652  1073652  1042  1042 
+ 150 ---------------
+TN18895 00172534
+ARUNA PRIYAKANT JAVERI
+PRIYAKANT MANSUKHLAL JAVERI21/10/2024
+DUP 10.00OLD 10  50670964  50670955  10  5039781  5039781 
+ 10 ---------------
+ 10.00NEW 10  50670964  50670955  10  1073653  1073653 
+21/10/2024 3 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN18896TO: TN18886FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+ 10 ---------------
+TN18896 D0002286
+DHAIRYAKANT NARMADASHANKER 
+MEHTA21/10/2024
+DUP 10.00OLD 11  4142291  4142281  11  3009508  3009508 
+ 10.00OLD 6  4694062  4694057  6  3059988  3059988 
+ 10.00OLD 17  11804043  11804027  17  3535200  3535200 
+ 10.00OLD 17  54524734  54524718  17  5156708  5156708 
+ 51 ---------------
+ 10.00NEW 11  4142291  4142281  11  1073654  1073654 
+ 10.00NEW 6  4694062  4694057  6  1073654  1073654 
+ 10.00NEW 17  11804043  11804027  17  1073654  1073654 
+ 10.00NEW 17  54524734  54524718  17  1073654  1073654 
+ 51 ---------------
+21/10/2024 4 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        11 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                5 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 508 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN18896TO: TN18886 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Raymond Limited
+ 27 
+ 0 
+ 0  28 
+ 28 
+21/10/2024 5 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,826 @@
+symbol,company,kind,instrument,securities,issue_price,total_amount,allottees,promoters_buying,promoter_share_of_issue,promoter_intent,purpose,stage,first_filing,latest_filing,n_filings,judge_status
+INOXWIND,Inox Wind Ltd.,rights_issue,equity shares,"97,78,45,488",13.50,"₹1,250 Crores",the Promoter; fund working capital,yes,,,,record_date,2024-04-25,2026-08-07,13,not assessed
+ADANIENT,Adani Enterprises Ltd.,rights_issue,equity shares,"1,41,79,608","2,962",₹845.76 crores,the terms of the Debenture Trust,yes,,,,record_date,2024-05-28,2026-09-30,28,not assessed
+GABRIEL,Gabriel India Ltd.,preferential_issue,equity shares,"48,134,427",463.50,"₹18,810 million",Asia Investments; Promoters; the promoter,yes,,,,meetings,2026-07-21,2026-11-04,12,not assessed
+HCG,Healthcare Global Enterprises Ltd.,rights_issue,equity shares,"7,70,33,755",504.41,"₹42,468.18 Lakhs",the capital; KFin Technologies Limited,yes,,,,listed,2025-02-23,2026-11-05,25,not assessed
+IIFL,IIFL Finance Ltd.,preferential_issue,equity shares,"2,37,199",602,₹200 crore,adjustments for capital; Promoter; the Promoter; the Promoters,yes,,,,meetings,2024-05-26,2026-11-12,12,not assessed
+INFY,Infosys Ltd.,rights_issue,equity shares,"10,00,00,000","1,800","₹18,000 Crore",the Offer KFin Technologies Limited,yes,,,,meetings,2025-09-11,2025-12-12,7,not assessed
+OLAELEC,Ola Electric Mobility Ltd.,rights_issue,equity shares,"4,62,84,08,313",27,"₹1,500 crore",qualified institutional; mutual fund; the qualified institutional,yes,,,,record_date,2025-10-07,2026-11-02,33,not assessed
+CYIENT,Cyient Ltd.,rights_issue,equity shares,"64,00,000","1,125","₹9,408 Mn",,yes,,,,record_date,2026-05-11,2026-07-16,7,not assessed
+IIFL,IIFL Finance Ltd.,rights_issue,equity shares,"4,23,94,270",602,₹1271.83 crore,adjustments for capital; Promoter; the Promoter; the Promoters,yes,,,,record_date,2024-04-17,2026-11-10,13,not assessed
+STLTECH,Sterlite Technologies Ltd.,rights_issue,equity shares,"88,456,435",113.05,₹912 Crores,Twin Star Overseas Limited; raise fund; the Promoter,yes,,,,meetings,2025-05-16,2026-05-15,5,not assessed
+UPL,UPL Ltd.,rights_issue,equity shares,"9,38,25,955",360,"₹3,377.74 crore",the Issue and BSE Limited,,,,,record_date,2024-10-18,2026-02-19,20,not assessed
+ZEEL,Zee Entertainment Enterprises Ltd.,rights_issue,warrants,"16,95,03,400",33,₹2000 crore,Altilis Technologies Private Limited,yes,,,,meetings,2024-06-14,2026-11-13,10,not assessed
+ASTERDM,Aster DM Quality Care Ltd.,preferential_issue,equity shares,"1,90,46,028",456.33,,eligible shareholders of Quality Care India Limited,yes,,,,record_date,2024-11-29,2026-06-23,25,not assessed
+BIOCON,Biocon Ltd.,preferential_issue,equity shares,"1,25,00,00,000",330,"₹4,500 crores",Qualified Institutional; Mutual Fund; the promoters; promoters,yes,,,,meetings,2025-04-23,2026-08-05,23,not assessed
+MRF,MRF Ltd.,rights_issue,,,,,,,,,,meetings,2025-02-06,2026-04-08,2,not assessed
+MRF,MRF Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+PIRAMALFIN,Piramal Finance Ltd.,preferential_issue,warrants,"82,94,000","2,110","₹15,000 crore",qualified institutional,yes,,,,meetings,2026-03-27,2026-10-19,19,not assessed
+TARIL,Transformers And Rectifiers (India) Ltd.,preferential_issue,equity shares,7518796,665,₹500 Crore,,,,,,announced,2024-06-14,2025-02-14,4,not assessed
+ADANIPOWER,Adani Power Ltd.,rights_issue,,,,"₹15,000 crore",mutual fund; promoters,yes,,,,meetings,2025-02-01,2026-07-22,2,not assessed
+AMBUJACEM,Ambuja Cements Ltd.,preferential_issue,warrants,"477,478,249",418.87,₹189.52 Crore,Harmonia Trade and Investment Limited,yes,,,,announced,2024-04-17,2025-01-29,5,not assessed
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,preferential_issue,equity shares,"21,56,770",,"₹3,999.99 million",Rasmeli Limited,,,,,announced,2024-08-13,2025-02-10,6,not assessed
+BAJAJ-AUTO,Bajaj Auto Ltd.,rights_issue,equity shares,"6,40,351","12,000","₹5,633 crores",the Bajaj Auto ESOP Trust; Bajaj Auto ESO P Trust,yes,,,,meetings,2024-07-16,2026-07-24,8,not assessed
+BHARTIARTL,Bharti Airtel Ltd.,preferential_issue,equity shares,"595,204,251","1,923",,Indian Continent Investment Limited,yes,,,,meetings,2026-05-13,2026-06-23,9,not assessed
+BIOCON,Biocon Ltd.,rights_issue,equity shares,"1,25,00,00,000",330,"₹4,500 crores",Qualified Institutional; Mutual Fund; the promoters; promoters,yes,,,,meetings,2025-04-23,2026-01-14,7,not assessed
+CCAVENUE,AvenuesAI Ltd.,rights_issue,equity shares,"2,78,94,95,346",10,"₹69,998.57 LAKHS",be filed with BSE Limited,yes,,,,record_date,2025-05-09,2026-11-06,43,not assessed
+COROMANDEL,Coromandel International Ltd.,rights_issue,equity shares,"5,24,62,320",76.70,₹250 Crores,the public shareholders of NACL Industries Limited,yes,,,,announced,2025-03-13,2026-01-29,9,not assessed
+DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,rights_issue,,,,,,,,,,announced,2025-01-29,2025-01-29,1,not assessed
+DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-29,2025-01-29,1,not assessed
+FORTIS,Fortis Healthcare Ltd.,preferential_issue,equity shares,"5,970,149","58,",₹2 lakh,infuse fund,yes,,,,announced,2024-04-18,2026-09-29,19,not assessed
+FORTIS,Fortis Healthcare Ltd.,rights_issue,,,,₹2 lakh,infuse fund,yes,,,,announced,2025-05-20,2026-01-06,4,not assessed
+GMRAIRPORT,GMR Airports Ltd.,preferential_issue,,,,"₹5,000 Crore",,,,,,meetings,2025-09-05,2026-08-27,2,not assessed
+GRANULES,Granules India Ltd.,rights_issue,warrants,"2,50,00,000",,,the non-promoter,yes,,,,meetings,2025-12-31,2026-09-16,2,not assessed
+JSWDULUX,JSW Dulux Ltd.,rights_issue,equity shares,"12,50,000","3,231.77","₹9,403.21 crore",the Public Shareholders of Akzo Nobel India Ltd,,,,,announced,2025-03-31,2026-08-11,6,not assessed
+JSWSTEEL,JSW Steel Ltd.,rights_issue,,,,,,,,,,announced,2025-07-03,2025-07-03,1,not assessed
+KAJARIACER,Kajaria Ceramics Ltd.,rights_issue,equity shares,"21,50,000",1380,₹45 crores,,yes,,,,meetings,2026-04-30,2026-07-22,8,not assessed
+LEMONTREE,Lemon Tree Hotels Ltd.,preferential_issue,equity shares,"49,872",,,,,,,,nclt_sanction,2025-02-04,2026-01-10,5,not assessed
+LLOYDSENGG,Lloyds Engineering Works Ltd.,rights_issue,equity shares,"120,00,00,000",9.5,"₹98,725.59 LAKHS",the Company ICICI Bank and HDFC Bank Limited,,,,,record_date,2024-07-30,2026-09-25,27,not assessed
+LLOYDSENT,Lloyds Enterprises Ltd.,rights_issue,equity shares,"127,21,26,621",39,"₹99,225.88 LAKHS",BSE Limited,yes,,,,record_date,2025-07-21,2026-07-09,25,not assessed
+LLOYDSME,Lloyds Metals And Energy Ltd.,rights_issue,equity shares,"19,57,458",740,"₹5,000 Crore",Promoters,yes,,,,meetings,2024-07-04,2026-11-03,10,not assessed
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,rights_issue,equity shares,"61,77,64,960",194,₹500 Crores,BSE Limited,yes,,,,record_date,2024-09-23,2026-04-23,23,not assessed
+MANAPPURAM,Manappuram Finance Ltd.,rights_issue,warrants,"9,29,01,373",236,₹500 crores,the Debenture Trust,,,,,announced,2025-02-14,2026-08-17,9,not assessed
+PIRAMALFIN,Piramal Finance Ltd.,rights_issue,warrants,"82,94,000","2,110","₹15,000 crore",qualified institutional,yes,,,,meetings,2026-03-27,2026-08-24,10,not assessed
+STLTECH,Sterlite Technologies Ltd.,preferential_issue,equity shares,"88,456,435",113.05,₹912 Crores,Twin Star Overseas Limited,yes,,,,meetings,2025-05-16,2026-10-23,12,not assessed
+VEDL,Vedanta Ltd.,rights_issue,equity shares,"19,31,81,818",440,"₹2,500 Crores",the share capital,yes,,,,meetings,2024-04-04,2025-02-11,12,not assessed
+WIPRO,Wipro Ltd.,rights_issue,equity shares,"60,00,00,000",250,,Holders of Wipro Limited,yes,,,,announced,2026-05-25,2026-06-30,3,not assessed
+ZEEL,Zee Entertainment Enterprises Ltd.,preferential_issue,warrants,"16,95,03,400",160.20,₹2000 crore,Altilis Technologies Private Limited,yes,,,,meetings,2024-06-06,2026-08-31,21,not assessed
+HFCL,HFCL Ltd.,rights_issue,warrants,"7,50,00,000",74,₹700 crores,Promoter,yes,,,,meetings,2025-07-25,2026-04-01,6,not assessed
+NATCOPHARM,NATCO Pharma Ltd.,rights_issue,equity shares,"19,61,67,952",750,"₹13,000 MILLION",the promoters,yes,,,,record_date,2026-08-14,2026-10-23,17,not assessed
+RELIGARE,Religare Enterprises Ltd.,rights_issue,equity shares,"2,91,250",235.00,"₹11,860 lakhs",Oscar Investments; RHC Finance Pvt. Limited,yes,,,,announced,2024-08-13,2026-08-25,14,not assessed
+SUDARSCHEM,Sudarshan Chemical Industries Ltd.,rights_issue,equity shares,"6,001,268","1,019.7","₹1,000 Crores",Qualified Institutional; mutual fund; promoters; increase the Authorised Share Capital; raise fund; warrants would be within the authorised share capital,yes,,,,meetings,2024-10-16,2026-06-10,10,not assessed
+360ONE,360 ONE WAM Ltd.,preferential_issue,equity shares,"35,90,000",779.93,₹450 cr,acquire entire paid -up equity share capital; be made to Times Internet Limited; the promoter; retain primary control while ensuring the trust,yes,,,,record_date,2024-06-12,2026-10-22,57,not assessed
+AADHARHFC,Aadhar Housing Finance Ltd.,rights_issue,equity shares,"11,35,25,761",469.97,,SEBI FOR A LIMITED; the promoters,yes,,,,announced,2026-01-25,2026-02-19,13,not assessed
+ABCAPITAL,Aditya Birla Capital Ltd.,preferential_issue,equity shares,"6,20,11,600",80.63,₹5 billion,the promoter,yes,,,,meetings,2024-05-31,2026-06-23,7,not assessed
+ACUTAAS,Acutaas Chemicals Ltd.,preferential_issue,equity shares,"7,99,193","1,240",₹3000 million,mutual fund; the promoters; raise fund,yes,,,,meetings,2024-04-13,2026-07-24,17,not assessed
+ADANIGREEN,Adani Green Energy Ltd.,rights_issue,warrants,"6,31,43,677","1,480.75",,the share capital,yes,,,,announced,2025-01-27,2026-04-10,19,not assessed
+ADANIGREEN,Adani Green Energy Ltd.,preferential_issue,warrants,"6,31,43,677","1,480.75",,the promoter,yes,,,,announced,2024-07-29,2025-07-18,14,not assessed
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,rights_issue,equity shares,034182,182.90,,issue shares to Carmichael Rail and Port Singapore Holdings; promoter,yes,,,,meetings,2025-04-22,2025-04-22,1,not assessed
+ADANIPOWER,Adani Power Ltd.,preferential_issue,equity shares,"50,00,000",,"₹15,000 crore",Adani Power Limited,yes,,,,meetings,2024-06-05,2026-07-22,6,not assessed
+AIAENG,AIA Engineering Ltd.,rights_issue,equity shares,"4,77,661","5,000",₹500 Crore,the Buyer Broker who in turn will transfer the fund,yes,,,,announced,2024-04-27,2024-09-18,5,not assessed
+AJANTPHARM,Ajanta Pharmaceuticals Ltd.,rights_issue,equity shares,"10,28,881","2,770",,the Buyback i.e. Link Intime India Private Limited,yes,,,,announced,2024-05-06,2025-02-05,5,not assessed
+ANURAS,Anupam Rasayan India Ltd.,rights_issue,warrants,"39,14,886",945.11,₹160 Crores,the public shareholders of Bliss GVS Pharma Limited,yes,,,,announced,2025-07-15,2026-09-29,7,not assessed
+AUBANK,AU Small Finance Bank Ltd.,rights_issue,,,,"₹1,500 crores",,,,,,announced,2025-03-07,2025-03-07,1,not assessed
+BAJAJFINSV,Bajaj Finserv Ltd.,preferential_issue,warrants,"15,50,000","1,010",,be issued by Bajaj Finance Limited,yes,,,,announced,2025-03-26,2026-11-10,4,not assessed
+BALRAMCHIN,Balrampur Chini Mills Ltd.,preferential_issue,equity shares,153126,483,₹200 Crores,shareholders approval. The capital,yes,,,,listed,2025-02-07,2026-11-04,20,not assessed
+BBOX,Black Box Ltd.,preferential_issue,equity shares,"3,90,480",417,₹3.70 Cr,qualified institutional; the promoters,yes,,,,nclt_sanction,2024-09-02,2026-05-26,28,not assessed
+BELRISE,Belrise Industries Ltd.,rights_issue,,,,"₹20,000.00 million",promoters; Mutual Fund; Qualified Institutional; meet the Capital,yes,,,,meetings,2026-05-30,2026-05-30,1,not assessed
+BHARATFORG,Bharat Forge Ltd.,rights_issue,equity shares,"48,000,000",,"₹20,000 million",mutual fund,yes,,,,meetings,2024-08-08,2026-10-30,15,not assessed
+BHARATFORG,Bharat Forge Ltd.,preferential_issue,equity shares,"12,500,000",,"₹20,000 million",mutual fund,yes,,,,meetings,2024-08-08,2026-09-29,11,not assessed
+BORORENEW,Borosil Renewables Ltd.,preferential_issue,equity shares,"18,86,793",530,₹2.44 cr,the Promoter,yes,,,,meetings,2024-12-18,2026-10-30,34,not assessed
+CANFINHOME,Can Fin Homes Ltd.,preferential_issue,,,,,enable the Company to access the capital,,,,,meetings,2024-07-12,2024-07-12,1,not assessed
+CEMPRO,Cemindia Projects Ltd.,rights_issue,equity shares,"4,46,64,772",571.68,"₹5,000 crore",ITD Cementation India Limited,yes,,,,meetings,2024-10-25,2026-10-19,27,not assessed
+CENTRALBK,Central Bank of India,rights_issue,,,,₹5000 crore,Qualified Institutional,yes,,,,meetings,2024-06-20,2026-08-01,8,not assessed
+CGPOWER,CG Power and Industrial Solutions Ltd.,rights_issue,equity shares,145622,660,"₹3,500 Crores",Mutual Fund,yes,,,,meetings,2024-10-21,2025-07-04,5,not assessed
+CHOICEIN,Choice International Ltd.,preferential_issue,warrants,"2,31,21,000",300,₹69.36 crores,the Capital,yes,,,,meetings,2024-04-23,2025-12-05,15,not assessed
+CHOICEIN,Choice International Ltd.,rights_issue,warrants,"2,31,21,000",,₹130.50 Crores,,,,,,announced,2025-06-04,2026-11-02,5,not assessed
+COFORGE,Coforge Ltd.,preferential_issue,equity shares,"38,50,00,000","1,815.91",,restrict any change in capital,yes,,,,meetings,2025-12-26,2026-05-23,21,not assessed
+COFORGE,Coforge Ltd.,rights_issue,equity shares,"71,62,210","1,415",,the public shareholders of Cigniti Technologies Limited,yes,,,,announced,2024-05-03,2024-10-22,6,not assessed
+DRREDDY,Dr. Reddy's Laboratories Ltd.,rights_issue,,,,,,,,,,announced,2024-07-02,2024-07-02,1,not assessed
+DYNAMATECH,Dynamatic Technologies Ltd.,preferential_issue,equity shares,"89,90,000",,,,,,,,announced,2026-10-24,2026-10-24,1,not assessed
+EMBDL,Embassy Developments Ltd.,preferential_issue,warrants,"259,369,201",111.51,"₹3,910.93 crore",restrict any change in capital,yes,,,,meetings,2024-04-05,2026-11-11,41,not assessed
+ESCORTS,Escorts Kubota Ltd.,preferential_issue,,,,,,,,,,announced,2024-08-16,2026-08-19,3,not assessed
+ETHOSLTD,Ethos Ltd.,rights_issue,equity shares,"20,00,000","1,800.00",₹2 Crore,the Rights Issue of Ethos Lifestyle Private Limited,yes,,,,record_date,2025-02-05,2026-08-03,15,not assessed
+FEDERALBNK,Federal Bank Ltd.,preferential_issue,warrants,"27,29,74,043",227,"₹6,000 crores",Asia II Topco XIII Pte. Ltd,yes,,,,meetings,2025-06-30,2026-02-16,10,not assessed
+FIVESTAR,Five-Star Business Finance Ltd.,preferential_issue,equity shares,"4,10,000",770.00,₹8000 crores,promoters,yes,,,,meetings,2024-08-17,2026-04-24,15,not assessed
+GPIL,Godawari Power & Ispat Ltd.,rights_issue,equity shares,"37,79,220",1400,₹21 Crores,be made by its Subsidiary Company namely Alok Ferro Alloys Limited,yes,,,,record_date,2024-06-15,2026-10-08,13,not assessed
+GRANULES,Granules India Ltd.,preferential_issue,warrants,"2,50,00,000",585,₹300 crores,Non-Promoter,yes,,,,meetings,2025-12-31,2026-11-02,10,not assessed
+GRASIM,Grasim Industries Ltd.,preferential_issue,equity shares,"1,87,070",10.15,₹500 crore,inform that the Board of Directors of Grasim Industries Limited,yes,,,,announced,2025-12-09,2026-09-23,7,not assessed
+HDFCBANK,HDFC Bank Ltd.,rights_issue,equity shares,"16,13,176",,,,,,,,effective,2024-10-23,2025-04-19,2,not assessed
+HFCL,HFCL Ltd.,preferential_issue,warrants,"00,000",74,₹10.20 Crores,Promoter,yes,,,,meetings,2024-04-11,2026-09-14,16,not assessed
+HINDUNILVR,Hindustan Unilever Ltd.,rights_issue,equity shares,"2,34,95,91,262",,,,,,,,listed,2026-02-13,2026-06-02,2,not assessed
+HOMEFIRST,Home First Finance Company India Ltd.,rights_issue,equity shares,"11,63,580",,"₹1,250 Crores",Qualified Institutional; mutual fund; promoters; maintain a minimum capital,yes,,,,meetings,2025-01-29,2025-02-11,2,not assessed
+INDIANB,Indian Bank,rights_issue,,,,₹5000 Crore,,,,,,meetings,2024-05-22,2024-06-15,2,not assessed
+INOXGREEN,Inox Green Energy Services Ltd.,preferential_issue,equity shares,"4,16,66,666",1381,"₹1,050 Crore",qualified institutional,yes,,,,meetings,2024-06-26,2026-07-22,21,not assessed
+IOB,Indian Overseas Bank,rights_issue,,,,₹5000 crores,,,,,,meetings,2024-04-16,2026-07-08,12,not assessed
+IOB,Indian Overseas Bank,preferential_issue,,,,"₹4,000 crores",,,,,,meetings,2024-04-16,2026-07-08,9,not assessed
+ITC,ITC Ltd.,rights_issue,equity shares,"3,36,61,700",,,,,,,,announced,2026-08-31,2026-08-31,1,not assessed
+JBMA,JBM Auto Ltd.,preferential_issue,equity shares,"2,98,355",,"₹1,000 CroreS",qualified institutional,yes,,,,meetings,2024-08-21,2026-08-25,7,not assessed
+JKTYRE,JK Tyre & Industries Ltd.,preferential_issue,equity shares,13296398,,,,,,,,meetings,2024-09-16,2025-02-04,4,not assessed
+JSWINFRA,JSW Infrastructure Ltd.,rights_issue,equity shares,"25,00,00,000",,,qualified institutional; the promoters; fund the capital,yes,,,,meetings,2026-02-20,2026-02-20,3,not assessed
+KFINTECH,Kfin Technologies Ltd.,preferential_issue,equity shares,"17,59,80,000",,,,,,,,announced,2025-06-24,2025-06-24,1,not assessed
+LENSKART,Lenskart Solutions Ltd.,rights_issue,equity shares,"72,80,431",,,the trust,,,,,meetings,2026-02-11,2026-02-17,4,not assessed
+LICHSGFIN,LIC Housing Finance Ltd.,rights_issue,,,,,,,,,,meetings,2025-01-31,2025-09-03,2,not assessed
+LLOYDSME,Lloyds Metals And Energy Ltd.,preferential_issue,warrants,"4,00,00,000",740,"₹2,960 Crores",Promoters,yes,,,,meetings,2024-07-04,2026-10-28,54,not assessed
+LT,Larsen & Toubro Ltd.,preferential_issue,equity shares,"41,71,410",,₹500 crore,,,,,,announced,2024-11-05,2026-09-09,4,not assessed
+MEESHO,Meesho Ltd.,rights_issue,equity shares,"1,31,06,57,596",111,"₹28,900 million",ordinary shares of Kirana Club Pte. Ltd; share capital,,,,,announced,2025-12-10,2026-11-03,10,not assessed
+MUTHOOTFIN,Muthoot Finance Ltd.,rights_issue,,,,₹144 crores,Muthoot Finance Limited,,,,,announced,2026-09-09,2026-10-31,3,not assessed
+NAVA,Nava Ltd.,rights_issue,equity shares,"72,00,000",500.00,₹360 Crores,inform you that Nava Limited,yes,,,,announced,2025-02-19,2025-03-27,6,not assessed
+NAZARA,Nazara Technologies Ltd.,preferential_issue,equity shares,"25,07,146",954.27,₹831.51 crores,identified investors,yes,,,,meetings,2024-09-12,2026-10-12,45,not assessed
+NESTLEIND,Nestle India Ltd.,rights_issue,equity shares,"49,000",,,,,,,,announced,2024-08-01,2026-02-12,4,not assessed
+NETWEB,Netweb Technologies India Ltd.,rights_issue,,,,,Qualified Institutional; the promoters; promoters,yes,,,,meetings,2025-01-18,2026-07-02,4,not assessed
+ONESOURCE,Onesource Specialty Pharma Ltd.,rights_issue,,,,,,,,,,announced,2025-06-10,2025-06-10,1,not assessed
+OPTIEMUS,Optiemus Infracom Ltd.,rights_issue,equity shares,"2,90,50,000",10,₹447 Crores,the right issue of B harat Innovative Glass Technologies Private Limited,yes,,,,meetings,2024-05-14,2026-08-27,21,not assessed
+ORIENTCEM,Orient Cement Ltd.,rights_issue,equity shares,"5,34,19,567",395.40,,the Public Shareholders of the Company issued by Ambuja Cements Limited; inform you that Orient Cement Limited; Gujarat Ambuja Cements Limited; Ambuja Cements Limited,,,,,announced,2024-10-22,2025-06-19,11,not assessed
+PNBHOUSING,PNB Housing Finance Ltd.,rights_issue,equity shares,"42,708",,,,,,,,announced,2024-04-29,2025-11-20,6,not assessed
+POWERINDIA,Hitachi Energy India Ltd.,rights_issue,equity shares,"3,17,86,256",,"₹4,200 Crores",mutual fund; promoters,yes,,,,meetings,2025-01-18,2025-03-13,7,not assessed
+RBLBANK,RBL Bank Ltd.,rights_issue,equity shares,"1,000,000,000",280.00,,SEBI FOR A LIMITED,,,,,exchange_noc,2025-10-28,2026-06-19,22,not assessed
+RBLBANK,RBL Bank Ltd.,preferential_issue,equity shares,"959,045,636",280.00,₹3500 crore,the increase in the authorized share capital; increase the quantum of the authorized share capital,yes,,,,meetings,2025-10-18,2026-07-17,17,not assessed
+REFEX,Refex Industries Ltd.,preferential_issue,warrants,"1,25,75,000",125,₹927.81 Crore,the promoter,yes,,,,record_date,2024-04-11,2026-07-31,33,not assessed
+RELIANCE,Reliance Industries Ltd.,rights_issue,,,,,,,,,,announced,2024-09-05,2024-09-06,2,not assessed
+RELIGARE,Religare Enterprises Ltd.,preferential_issue,equity shares,"2,91,250",235,"₹11,860 lakhs",Oscar Investments; RHC Finance Pvt. Limited,yes,,,,meetings,2024-08-13,2026-08-06,15,not assessed
+RKFORGE,Ramkrishna Forgings Ltd.,preferential_issue,warrants,"46,00,000","2,100",₹204.75 Crores,Promoter,yes,,,,record_date,2025-01-18,2026-10-30,20,not assessed
+RPOWER,Reliance Power Ltd.,preferential_issue,equity shares,"3,73,52,05,966",33,"₹1,524.60 crore",promoters; the qualified institutional; Qualified Institutional; the capital; VFSI Holdings,yes,,,,nclt_sanction,2024-07-11,2026-04-28,20,not assessed
+RPOWER,Reliance Power Ltd.,rights_issue,equity shares,"3,73,52,05,966",51,"₹3,76,000 lakhs",promoters; the qualified institutional; Qualified Institutional; the capital; VFSI Holdings,yes,,,,nclt_sanction,2024-07-11,2025-11-18,6,not assessed
+SAMMAANCAP,Sammaan Capital Ltd.,preferential_issue,equity shares,"33,00,00,111",187.25,₹1500 Crore,Avenir Investment RSC Ltd,yes,,,,meetings,2024-05-24,2026-11-14,22,not assessed
+SHYAMMETL,Shyam Metalics and Energy Ltd.,preferential_issue,equity shares,"278,223,162",,"₹4,500 crore",mutual fund; promoters; approve raising of fund; the qualified institutional,yes,,,,record_date,2025-01-28,2026-08-03,17,not assessed
+SOBHA,Sobha Ltd.,rights_issue,equity shares,"94,845,853","1,651","₹2,000 crore",utilize the Net Proceeds from the Issue towards fund,yes,,,,record_date,2024-06-12,2026-10-19,19,not assessed
+SUDARSCHEM,Sudarshan Chemical Industries Ltd.,preferential_issue,warrants,"9,80,000","1,019.7","₹1,000 Crores",Qualified Institutional; mutual fund; promoters; increase the Authorised Share Capital; raise fund; warrants would be within the authorised share capital,yes,,,,meetings,2024-10-16,2026-11-06,31,not assessed
+THANGAMAYL,Thangamayil Jewellery Ltd.,rights_issue,equity shares,"12,75,000","1,400",₹510 crore,the Issue and BSE Limited,,,,,record_date,2024-09-26,2026-05-15,16,not assessed
+TMPV,Tata Motors Passenger Vehicles Ltd.,rights_issue,,,,"₹2,000 crore",,,,,,effective,2024-08-02,2025-05-02,6,not assessed
+UNIONBANK,Union Bank of India,preferential_issue,,,,,,,,,,announced,2024-06-11,2026-05-26,8,not assessed
+UNIONBANK,Union Bank of India,rights_issue,,,,,,,,,,announced,2024-06-11,2026-05-26,7,not assessed
+WELSPUNLIV,Welspun Living Ltd.,rights_issue,equity shares,"88,97,984",220,,Promoters,yes,,,,announced,2024-07-26,2026-06-19,6,not assessed
+ZYDUSLIFE,Zydus Lifesciences Ltd.,preferential_issue,equity shares,"5,970,149","1,150",₹164 Million,qualified institutional; Mutual Fund; the promoters; promoters,yes,,,,meetings,2025-02-05,2026-05-19,5,not assessed
+ABFRL,Aditya Birla Fashion and Retail Ltd.,rights_issue,equity shares,"66,736",110,"₹2,500 crore",the Promoter; Qualified Institutional,yes,,,,effective,2024-08-07,2026-08-08,9,not assessed
+CRAFTSMAN,Craftsman Automation Ltd.,rights_issue,equity shares,"27,27,272",8700,₹10 Crores,mutual fund; Promoter; Qualified Institutional; Promoters; long-term institutional capital,yes,,,,meetings,2024-04-27,2026-06-25,14,not assessed
+DEVYANI,Devyani International Ltd.,rights_issue,equity shares,"2,37,19,187",176.78,₹419.31 crore,,yes,,,,announced,2025-04-24,2026-02-04,6,not assessed
+EMBDL,Embassy Developments Ltd.,rights_issue,warrants,"100,000,050",111.51,₹120 crores,restrict any change in capital,yes,,,,meetings,2024-04-05,2026-10-30,34,not assessed
+360ONE,360 ONE WAM Ltd.,rights_issue,equity shares,"28,33,000","1,030","₹2,250 Crores",Mu tual Fund; qualified institutional,,,,,meetings,2024-09-20,2026-10-22,4,not assessed
+AARTIIND,Aarti Industries Ltd.,rights_issue,,,,"₹1,000 Crores",qualified institutional; promoters; Mutual Fund,yes,,,,meetings,2026-10-01,2026-10-31,3,not assessed
+AAVAS,Aavas Financiers Ltd.,rights_issue,equity shares,"12,346,641","1,766.69",,prepare audited or limited,,,,,listed,2024-08-11,2025-06-30,17,not assessed
+ABFRL,Aditya Birla Fashion and Retail Ltd.,preferential_issue,equity shares,"3,96,97,838",317.45,"₹2,500 crore",Promoter; Qualified Institutional,yes,,,,effective,2024-04-05,2025-08-13,17,not assessed
+ADANIENT,Adani Enterprises Ltd.,preferential_issue,equity shares,"1,41,79,608","2,883.00",₹845.76 crores,the terms of the Debenture Trust,,,,,record_date,2024-05-28,2026-07-07,12,not assessed
+AMBUJACEM,Ambuja Cements Ltd.,rights_issue,warrants,"477,478,249",418.87,,Harmonia Trade and Investment Limited,yes,,,,announced,2024-04-17,2024-04-17,1,not assessed
+ANANDRATHI,Anand Rathi Wealth Ltd.,rights_issue,equity shares,"3,70,000","4,450",₹164.65 Crores,,yes,,,,meetings,2024-04-12,2026-09-02,7,not assessed
+ANURAS,Anupam Rasayan India Ltd.,preferential_issue,warrants,"39,14,886",945.11,"₹1,800.00 million",the promoter,yes,,,,announced,2024-11-14,2026-09-21,10,not assessed
+APARINDS,Apar Industries Ltd.,rights_issue,equity shares,"23,572",,"₹2,500.00 crores",qualified institutional; mutual fund; the qualified institutional,yes,,,,meetings,2025-01-28,2026-07-06,8,not assessed
+BHARTIARTL,Bharti Airtel Ltd.,rights_issue,,,"1,923",,,,,,,announced,2025-12-18,2026-11-03,9,not assessed
+BOSCHLTD,Bosch Ltd.,rights_issue,equity shares,"1,230",35200,"₹20,000 Cr",,yes,,,,meetings,2026-04-08,2026-04-08,1,not assessed
+CHALET,Chalet Hotels Ltd.,preferential_issue,,,,₹75.08 crore,,,,,,announced,2025-03-25,2026-09-29,5,not assessed
+CMSINFO,CMS Info Systems Ltd.,rights_issue,equity shares,"49,39,126",110,₹25.025 crores,the scheme of arrangement between CMS Computers Limited; the restated and amended trust,,,,,announced,2025-10-07,2026-08-10,4,not assessed
+CRAFTSMAN,Craftsman Automation Ltd.,preferential_issue,equity shares,"27,27,272","4,400",₹10 Crores,mutual fund; Promoter; Qualified Institutional; Promoters,yes,,,,meetings,2024-04-27,2026-06-25,22,not assessed
+DALBHARAT,Dalmia Bharat Ltd.,preferential_issue,,,,,,,,,,record_date,2025-05-30,2026-05-23,6,not assessed
+GHCL,GHCL Ltd.,rights_issue,equity shares,"30,800",725,₹31.05 Crores,the Buyback Offer i.e. MUFG Intime India Private Limited,yes,,,,announced,2025-05-08,2026-10-31,8,not assessed
+GICRE,General Insurance Corporation of India,preferential_issue,,,,,,,,,,announced,2025-02-04,2025-02-04,1,not assessed
+GRAVITA,Gravita India Ltd.,rights_issue,equity shares,"2,63,99,789","2,096.20","₹1,000 Crores",Qualified Institutional; mutual fund; the promoters; be allotted would be listed on the BSE Limited,yes,,,,meetings,2024-10-04,2026-10-17,6,not assessed
+HINDZINC,Hindustan Zinc Ltd.,rights_issue,,,,₹500 Crore,,,,,,announced,2025-03-10,2026-01-23,5,not assessed
+HINDZINC,Hindustan Zinc Ltd.,preferential_issue,,,,₹500 Crore,,,,,,announced,2025-03-10,2026-01-23,5,not assessed
+INDIAGLYCO,India Glycols Ltd.,preferential_issue,equity shares,"51,03,765",915,₹466.99 Crore,augment the fund,yes,,,,nclt_sanction,2025-10-16,2026-02-10,8,not assessed
+INOXWIND,Inox Wind Ltd.,preferential_issue,equity shares,"97,78,45,488",13.50,"₹1,250 Crores",,yes,,,,announced,2024-04-25,2025-07-17,4,not assessed
+JMFINANCIL,JM Financial Ltd.,rights_issue,equity shares,"16,25,85,928",,,,,,,,announced,2024-08-06,2026-09-28,4,not assessed
+JSWDULUX,JSW Dulux Ltd.,preferential_issue,equity shares,"1,26,69,00,000",,,,,,,,announced,2026-08-11,2026-08-11,3,not assessed
+M&M,Mahindra & Mahindra Ltd.,rights_issue,equity shares,"64,43,99,987",194,"₹3,000 Crore",primarily maintain a strong capital,,,,,announced,2024-09-10,2026-11-06,20,not assessed
+NTPC,NTPC Ltd.,rights_issue,,,,,,,,,,announced,2026-03-28,2026-03-28,2,not assessed
+ORIENTCEM,Orient Cement Ltd.,preferential_issue,equity shares,"5,34,19,567",,,exercise of employee stock options under the Orient Cement Limited,,,,,announced,2025-01-24,2025-06-19,4,not assessed
+PREMIERENE,Premier Energies Ltd.,preferential_issue,equity shares,"62,909,200",,₹3 lakhs,PEL ESOP Trust,yes,,,,meetings,2026-03-03,2026-08-29,8,not assessed
+PREMIERENE,Premier Energies Ltd.,rights_issue,equity shares,"6,75,000",,,support the capital,,,,,announced,2025-06-19,2025-06-19,1,not assessed
+PVRINOX,PVR INOX Ltd.,rights_issue,equity shares,"1,108","1,450",,,yes,,,,announced,2026-08-31,2026-10-05,4,not assessed
+SBIN,State Bank of India,rights_issue,equity shares,"42,47,500",817.00,,,,,,,announced,2025-05-03,2026-08-21,5,not assessed
+SBIN,State Bank of India,preferential_issue,equity shares,"42,47,500",817.00,,,,,,,announced,2025-07-11,2025-07-21,2,not assessed
+SHYAMMETL,Shyam Metalics and Energy Ltd.,rights_issue,,,,"₹4,500 crore",mutual fund; promoters; approve raising of fund; the qualified institutional,yes,,,,record_date,2025-01-28,2026-08-03,16,not assessed
+SKYGOLD,SKY GOLD AND DIAMONDS Ltd.,rights_issue,equity shares,"19,800",,₹15 Crores,Qualified Institutional; Mutual Fund,yes,,,,meetings,2024-07-06,2026-10-27,9,not assessed
+TANLA,Tanla Platforms Ltd.,rights_issue,equity shares,"20,00,000",875,₹100 crore,,yes,,,,record_date,2025-07-17,2025-08-20,4,not assessed
+TDPOWERSYS,TD Power Systems Ltd.,rights_issue,,,,,Promoters,yes,,,,meetings,2026-08-14,2026-08-17,3,not assessed
+TI,Tilaknagar Industries Ltd.,preferential_issue,equity shares,"2,546",382,"₹1,080.53 Crores",BSE Limited,yes,,,,meetings,2025-02-04,2025-12-01,13,not assessed
+TI,Tilaknagar Industries Ltd.,rights_issue,equity shares,"2,546",,"₹2,500 crores",,,,,,announced,2025-02-04,2025-07-23,2,not assessed
+TITAGARH,Titagarh Rail Systems Ltd.,rights_issue,equity shares,"20,00,000",860,₹2 crores,the Promoter,yes,,,,meetings,2025-02-13,2026-05-14,11,not assessed
+UTLSOLAR,Fujiyama Power Systems Ltd.,rights_issue,equity shares,"4,11,587",398.39,,Qualified Institutional; mutual fund; the promoters; promoters,yes,,,,meetings,2026-10-15,2026-10-21,2,not assessed
+VEDL,Vedanta Ltd.,preferential_issue,,,,"₹8,500 Crores",the share capital,,,,,announced,2024-05-13,2026-09-18,10,not assessed
+ZYDUSLIFE,Zydus Lifesciences Ltd.,rights_issue,equity shares,"5,970,149","1,150",₹164 Million,qualified institutional; Mutual Fund; the promoters; promoters,yes,,,,record_date,2025-02-05,2026-06-01,9,not assessed
+AARTIIND,Aarti Industries Ltd.,preferential_issue,,,,"₹1,000 Crores",long-term institutional capital,,,,,meetings,2026-10-01,2026-10-31,2,not assessed
+ADANIENSOL,Adani Energy Solutions Ltd.,rights_issue,equity shares,"8,57,89,959",976,"₹8,373.10 Crore",,,,,,announced,2024-05-27,2026-07-30,10,not assessed
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,preferential_issue,equity shares,"14,38,20,153",182.90,,issue shares to Carmichael Rail and Port Singapore Holdings; promoter,yes,,,,meetings,2025-04-17,2025-12-23,4,not assessed
+AGARWALEYE,Dr. Agarwal's Health Care Ltd.,preferential_issue,equity shares,"7,462,686",402,,,,,,,announced,2025-02-14,2025-08-27,3,not assessed
+AIIL,Authum Investment & Infrastructure Ltd.,rights_issue,equity shares,"58,00,00,000",1000,"₹2,450 Crores",BSE Ltd; meet its capital,yes,,,,announced,2024-09-03,2026-08-18,9,not assessed
+ANANTRAJ,Anant Raj Ltd.,preferential_issue,warrants,"1,785,714",730,₹100 Crores,Gagandeep Credit Capital; Shri Ashok Sarin Anant Raj LLP,yes,,,,meetings,2024-06-26,2025-04-21,15,not assessed
+ASAHIINDIA,Asahi India Glass Ltd.,preferential_issue,,,,"₹1,000 Crores",mutual fund; the Promoters,yes,,,,nclt_sanction,2025-01-29,2025-07-30,5,not assessed
+BAJAJHFL,Bajaj Housing Finance Ltd.,rights_issue,equity shares,"10,74,19,709",,,,,,,,announced,2025-01-27,2025-01-27,4,not assessed
+BAJFINANCE,Bajaj Finance Ltd.,preferential_issue,warrants,"15,50,000","7,670","₹1,200 crore",Bajaj Finserv Limited,yes,,,,record_date,2024-04-25,2026-11-10,18,not assessed
+BANDHANBNK,Bandhan Bank Ltd.,rights_issue,,,,,the trust,,,,,meetings,2026-01-30,2026-01-30,1,not assessed
+BOSCHLTD,Bosch Ltd.,preferential_issue,equity shares,"2,080","35,200","₹20,000 Cr",promoters,yes,,,,listed,2026-04-08,2026-07-20,9,not assessed
+CASTROLIND,Castrol India Ltd.,rights_issue,equity shares,"98,91,22,384",194.04,,,,,,,announced,2025-12-24,2025-12-24,2,not assessed
+CEMPRO,Cemindia Projects Ltd.,preferential_issue,equity shares,"1,26,35,379","1,108.00","₹5,000 crore",mutual fund; promoters; mutua l fund,yes,,,,meetings,2026-07-23,2026-10-19,4,not assessed
+CREDITACC,CreditAccess Grameen Ltd.,rights_issue,,,,,BSE Limited; be created in favour of the debenture trust,,,,,announced,2025-02-10,2026-10-01,5,not assessed
+CREDITACC,CreditAccess Grameen Ltd.,preferential_issue,,,,,BSE Limited; be created in favour of the debenture trust,,,,,announced,2025-02-10,2026-10-01,5,not assessed
+CUPID,Cupid Ltd.,preferential_issue,equity shares,"11,00,000",328.25,,,,,,,announced,2025-09-10,2026-11-11,35,not assessed
+EMCURE,Emcure Pharmaceuticals Ltd.,preferential_issue,equity shares,"94,54,917",,₹91.25 million,,,,,,meetings,2024-12-24,2025-02-06,2,not assessed
+FEDERALBNK,Federal Bank Ltd.,rights_issue,equity shares,875000,,"₹6,000 Crores",,,,,,meetings,2024-08-09,2025-06-30,2,not assessed
+GODREJPROP,Godrej Properties Ltd.,rights_issue,equity shares,"27,80,62,112",,"₹6,000 crore",promoters; secure the necessary fund,yes,,,,meetings,2024-10-01,2024-12-03,4,not assessed
+GODREJPROP,Godrej Properties Ltd.,preferential_issue,,,,"₹6,000 crore",promoters; secure the necessary fund,yes,,,,meetings,2024-10-01,2024-10-01,3,not assessed
+GRAVITA,Gravita India Ltd.,preferential_issue,equity shares,"2,63,99,789",,"₹1,000 Crores",Qualified Institutional; mutual fund; the promoters; be allotted would be listed on the BSE Limited,yes,,,,meetings,2024-10-04,2026-09-30,3,not assessed
+HINDALCO,Hindalco Industries Ltd.,rights_issue,,,,,,,,,,announced,2025-02-13,2025-02-13,1,not assessed
+HINDALCO,Hindalco Industries Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-13,2025-02-13,1,not assessed
+HINDPETRO,Hindustan Petroleum Corporation Ltd.,rights_issue,equity shares,"74,172",,"₹10,000 Crores",,,,,,record_date,2025-05-06,2026-07-22,4,not assessed
+IDEA,Vodafone Idea Ltd.,rights_issue,equity shares,"1,755,319,148",11.28,₹1980 Crores,Omeg a Telecom Holdings,yes,,,,meetings,2024-12-09,2026-08-04,4,not assessed
+IDFCFIRSTB,IDFC First Bank Ltd.,preferential_issue,equity shares,"7,07,72,76,843",80.63,"₹3,200 crore",strengthen the capital; the Preferential Issue would be within the authorized share capital,yes,,,,record_date,2024-05-30,2025-10-27,21,not assessed
+IDFCFIRSTB,IDFC First Bank Ltd.,rights_issue,equity shares,"12,96,20,00,000",60.00,"₹14,000 crore",facilitate the raising of fund,,,,,meetings,2024-08-07,2025-10-27,5,not assessed
+IFCI,IFCI Ltd.,preferential_issue,equity shares,123977188,,₹500 crore,the share capital,yes,,,,meetings,2024-04-18,2026-01-29,17,not assessed
+IFCI,IFCI Ltd.,rights_issue,equity shares,123977188,,,the share capital,,,,,announced,2024-08-08,2025-08-08,7,not assessed
+IIFLCAPS,IIFL Capital Services Ltd.,preferential_issue,equity shares,"778,695",350,,FIH Mauritius Investments; restrict any change in capital,yes,,,,meetings,2025-02-11,2026-11-04,12,not assessed
+INDIACEM,India Cements Ltd.,rights_issue,equity shares,"30,98,97,201",390.00,₹142.69 Crores,the Open Offer on behalf of UltraTech Cement Limited,,,,,exchange_noc,2024-07-28,2025-02-05,5,not assessed
+INDIACEM,India Cements Ltd.,preferential_issue,,,,₹142.69 Crores,,,,,,announced,2025-01-22,2025-01-22,1,not assessed
+IRB,IRB Infrastructure Developers Ltd.,preferential_issue,,,62.95,"₹20,000 million",be undertaken by IRB InvIT Fund; units in preferential issue of the Trust,,,,,announced,2024-10-09,2026-09-29,7,not assessed
+IXIGO,Le Travenues Technology Ltd.,preferential_issue,equity shares,"46,270,092",280,₹323.89 Crores,MIH Investments,yes,,,,meetings,2025-10-10,2026-02-15,10,not assessed
+JKCEMENT,J.K. Cement Ltd.,rights_issue,,,,,the Scheme of amalgamation of Toshali Cements Private Limited,,,,,announced,2025-11-01,2026-10-24,12,not assessed
+JKCEMENT,J.K. Cement Ltd.,preferential_issue,,,,,the Scheme of amalgamation of Toshali Cements Private Limited,,,,,announced,2025-11-01,2026-07-18,11,not assessed
+JSFB,Jana Small Finance Bank Ltd.,preferential_issue,warrants,"88,43,000",464.82,₹250 crores,GWC Family Fund; Singularity Large Value Fund; ICM Finance Private Limited; Capri Global Ventures Private Limited; promoter,yes,,,,meetings,2025-02-11,2026-06-24,7,not assessed
+JWL,Jupiter Wagons Ltd.,preferential_issue,warrants,"28,72,340",470,"₹1,000 Crores",the promoters; mutual fund; promoters; qualified institutional,yes,,,,meetings,2024-05-19,2026-06-01,9,not assessed
+KALYANKJIL,Kalyan Jewellers India Ltd.,rights_issue,equity shares,"17,50,000",,₹440.04 million,,,,,,announced,2025-01-30,2026-09-19,2,not assessed
+KALYANKJIL,Kalyan Jewellers India Ltd.,preferential_issue,,,,₹440.04 million,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+LUMAXTECH,Lumax Auto Technologies Ltd.,rights_issue,equity shares,"1,29,18,113",,,,,,,,meetings,2025-02-13,2026-08-01,2,not assessed
+MANAPPURAM,Manappuram Finance Ltd.,preferential_issue,equity shares,"148,00,00,000",236,"₹,150 crores",the Debenture Trust,yes,,,,record_date,2025-02-14,2026-08-17,22,not assessed
+MFSL,Max Financial Services Ltd.,preferential_issue,equity shares,"14,25,79,161",,"₹1,612 crores",Axis Bank Limited,yes,,,,meetings,2024-04-12,2026-06-01,12,not assessed
+NAM-INDIA,Nippon Life India Asset Management Ltd.,preferential_issue,equity shares,"3,40,000",,,the promoter,yes,,,,announced,2024-06-27,2026-03-14,4,not assessed
+NETWEB,Netweb Technologies India Ltd.,preferential_issue,,,,,Qualified Institutional; the promoters; promoters,yes,,,,meetings,2026-07-01,2026-07-02,3,not assessed
+OBEROIRLTY,Oberoi Realty Ltd.,rights_issue,,,400,,Qualified Institutional,,,,,meetings,2024-10-10,2026-05-08,5,not assessed
+OBEROIRLTY,Oberoi Realty Ltd.,preferential_issue,,,400,,,,,,,announced,2024-10-10,2026-05-08,4,not assessed
+OPTIEMUS,Optiemus Infracom Ltd.,preferential_issue,equity shares,"25,81,000",310,₹447 Crores,subscribe to the Equity Shares of Optiemus Electronics Limited; the Equity Shares of GDN Enterprises Private Limited; the Equity Shares of Optiemus Unmanned Systems Private Limited,yes,,,,meetings,2024-08-13,2026-11-05,30,not assessed
+PAYTM,One 97 Communications Ltd.,rights_issue,,,,₹61 Cr,,,,,,announced,2025-08-25,2026-09-25,7,not assessed
+POLYCAB,Polycab India Ltd.,rights_issue,,,,,,,,,,announced,2024-06-22,2024-06-22,1,not assessed
+POONAWALLA,Poonawalla Fincorp Ltd.,preferential_issue,equity shares,"904,838",452.51,"₹1,875,00,00,000 Crore",be listed on BSE Limited,yes,,,,meetings,2024-09-02,2026-11-13,40,not assessed
+POWERINDIA,Hitachi Energy India Ltd.,preferential_issue,equity shares,"3,17,86,256",,"₹4,200 Crores",mutual fund; promoters,yes,,,,meetings,2025-01-18,2025-03-13,7,not assessed
+RAMCOCEM,The Ramco Cements Ltd.,rights_issue,,,,₹38.88 Crores,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+RAYMOND,Raymond Ltd.,preferential_issue,warrants,"66,57,373",497,₹330.88 Crore,the Promoter; the Promoters; PROMOTERS; raise fund; Promoter,yes,,,,meetings,2026-05-25,2026-11-06,18,not assessed
+RBA,Restaurant Brands Asia Ltd.,preferential_issue,equity shares,"70,00,00,000",70,₹2 lakhs,the Trust,yes,,,,meetings,2024-12-20,2026-07-16,16,not assessed
+RBA,Restaurant Brands Asia Ltd.,rights_issue,equity shares,"8,33,33,333",62.32,"₹5,000 million",the Trust,,,,,announced,2024-12-20,2026-07-16,10,not assessed
+SHAILY,Shaily Engineering Plastics Ltd.,rights_issue,equity shares,"85,167",,,,,,,,meetings,2025-02-08,2026-09-04,7,not assessed
+SHAILY,Shaily Engineering Plastics Ltd.,preferential_issue,equity shares,"85,167",,,,,,,,meetings,2025-02-08,2026-09-04,7,not assessed
+SHRIRAMFIN,Shriram Finance Ltd.,preferential_issue,equity shares,"308,111,107",193.55,,MUFG Bank Ltd; the Investor represents a capital,yes,,,,listed,2025-01-24,2026-04-10,14,not assessed
+SHRIRAMFIN,Shriram Finance Ltd.,rights_issue,equity shares,"308,111,107",193.55,₹500 crores,,,,,,announced,2025-01-24,2025-09-26,3,not assessed
+SKYGOLD,SKY GOLD AND DIAMONDS Ltd.,preferential_issue,equity shares,"2,00,00,000","1,197",₹15 Crores,the PROMOTER; BSE Ltd,yes,,,,meetings,2024-06-20,2026-10-27,36,not assessed
+SPARC,Sun Pharma Advanced Research Company Ltd.,preferential_issue,warrants,"3,85,10,000",155.80,,Shanghvi Finance Private Limited; Promoter; Shanghvi Finance Pvt. Ltd,yes,,,,meetings,2024-08-12,2026-11-02,13,not assessed
+SUNTECK,Sunteck Realty Ltd.,preferential_issue,equity shares,"10,000",425,"₹2,250 Crores",eligible person including but not limited; the capital,yes,,,,meetings,2024-05-30,2026-07-21,10,not assessed
+TECHM,Tech Mahindra Ltd.,rights_issue,equity shares,"98,02,05,040",,"₹12,304 million",,,,,,record_date,2026-10-15,2026-10-15,4,not assessed
+TEGA,Tega Industries Ltd.,rights_issue,equity shares,"100,33,090",1994,₹2000.60 Crores,AP Jupiter Holdings,,,,,announced,2025-09-13,2026-08-22,7,not assessed
+THERMAX,Thermax Ltd.,rights_issue,equity shares,"1,30,00,000",,₹400 crores,,,,,,announced,2025-02-04,2026-02-02,7,not assessed
+TITAGARH,Titagarh Rail Systems Ltd.,preferential_issue,warrants,"21,16,402",945,₹199.99 Crores,the Promoter,yes,,,,meetings,2025-07-09,2026-05-14,9,not assessed
+TTML,Tata Teleservices (Maharashtra) Ltd.,rights_issue,,,,,,,,,,announced,2025-05-05,2025-05-05,1,not assessed
+UBL,United Breweries Ltd.,preferential_issue,,,,"₹16,795 Lakhs",,,,,,announced,2025-02-13,2025-02-13,1,not assessed
+VBL,Varun Beverages Ltd.,rights_issue,,,,,promoters; Mutual Fund; Qualified Institutional; meet the Capital,yes,,,,meetings,2024-10-09,2024-10-09,1,not assessed
+WAAREEENER,Waaree Energies Ltd.,rights_issue,equity shares,"10,000",,₹300 crores,,,,,,announced,2025-09-24,2026-04-29,5,not assessed
+WAAREEENER,Waaree Energies Ltd.,preferential_issue,equity shares,"10,000",,,,,,,,announced,2026-04-29,2026-04-29,4,not assessed
+YATHARTH,Yatharth Hospital & Trauma Care Services Ltd.,preferential_issue,equity shares,"11,50,00,000",985.17,₹700 crore,mutual fund; promoters; give Loans or Invest Fund; qualified institutional; the qualified institutional,yes,,,,meetings,2024-11-07,2026-11-12,9,not assessed
+INOXGREEN,Inox Green Energy Services Ltd.,rights_issue,equity shares,"4,16,66,666",1381,"₹1,050 Crore",,yes,,,,announced,2024-06-26,2024-06-26,2,not assessed
+TRIVENI,Triveni Engineering & Industries Ltd.,rights_issue,equity shares,"13,65,000",262.15,₹3.56 crore,the Offer KFin Technologies Limited; acquire substantial Voting Share Capital,,,,,listed,2024-07-26,2026-10-09,7,not assessed
+ABDL,Allied Blenders and Distillers Ltd.,rights_issue,equity shares,"55,00,000",,₹1600 Crores,,,,,,meetings,2025-07-08,2026-09-24,3,not assessed
+ABDL,Allied Blenders and Distillers Ltd.,preferential_issue,,,,,,,,,,meetings,2025-07-08,2025-07-08,1,not assessed
+ACUTAAS,Acutaas Chemicals Ltd.,rights_issue,equity shares,"7,99,193","1,240",₹49.99 crores,raise fund,yes,,,,meetings,2024-04-27,2026-05-19,5,not assessed
+AFFLE,Affle 3i Ltd.,rights_issue,equity shares,"1,153,845",1,"₹5,906.90 million",Gamnat Pte. Ltd,yes,,,,meetings,2025-02-08,2026-10-21,7,not assessed
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,rights_issue,equity shares,"35,12,107",294,,,,,,,announced,2024-07-06,2024-07-08,3,not assessed
+AUROPHARMA,Aurobindo Pharma Ltd.,rights_issue,equity shares,"51,36,986","1,460",,,yes,,,,record_date,2024-07-18,2026-05-15,9,not assessed
+AZAD,Azad Engineering Ltd.,rights_issue,equity shares,"1,73,430",,"₹1,000 crore",mutual fund; promoters; qualified institutional; the qualified institutional,yes,,,,meetings,2025-01-03,2025-01-06,2,not assessed
+BAJFINANCE,Bajaj Finance Ltd.,rights_issue,,,,,Bajaj Finserv Limited; be made to the Bajaj Finserv Limited,yes,,,,meetings,2024-04-03,2026-10-09,4,not assessed
+BELRISE,Belrise Industries Ltd.,preferential_issue,,,,"₹20,000.00 Million",,,,,,announced,2026-05-24,2026-05-24,1,not assessed
+CIEINDIA,CIE Automotive India Ltd.,rights_issue,equity shares,"69,40,000",,,,,,,,announced,2026-09-04,2026-09-04,1,not assessed
+DALBHARAT,Dalmia Bharat Ltd.,rights_issue,,,,,,,,,,record_date,2026-05-23,2026-05-23,4,not assessed
+DBL,Dilip Buildcon Ltd.,preferential_issue,warrants,"1,62,29,862",328.05,"₹20,847.00 lakhs",Alpha Alternatives Financial Services Private Limited; BSE Limited,,,,,announced,2024-08-13,2025-06-18,6,not assessed
+DEVYANI,Devyani International Ltd.,preferential_issue,equity shares,"2,37,19,187",176.78,₹419.31 crore,,yes,,,,nclt_sanction,2025-04-24,2026-07-29,16,not assessed
+DIACABS,Diamond Power Infrastructure Ltd.,rights_issue,equity shares,52697106,227,"₹1,000 Crore",promoters; Mutual Fund; Qualified Institutional; meet the Capital,yes,,,,meetings,2024-10-15,2026-07-29,13,not assessed
+GABRIEL,Gabriel India Ltd.,rights_issue,equity shares,"11,05,954",,₹133.46 million,be listed on BSE Limited,,,,,nclt_sanction,2026-05-27,2026-09-10,2,not assessed
+GODREJAGRO,Godrej Agrovet Ltd.,rights_issue,equity shares,"29,990",890,,,,,,,announced,2025-08-06,2025-11-05,4,not assessed
+GREAVESCOT,Greaves Cotton Ltd.,rights_issue,equity shares,"4,81,617",,₹120 crores,the shares offered through right issue in Greaves Finance Limited; the paid-up share capital,,,,,exchange_noc,2024-08-08,2026-10-29,24,not assessed
+HINDUNILVR,Hindustan Unilever Ltd.,preferential_issue,equity shares,"2,34,95,91,262",,,,,,,,listed,2026-02-13,2026-02-13,1,not assessed
+IIFLCAPS,IIFL Capital Services Ltd.,rights_issue,equity shares,"778,695",350,,FIH Mauritius Investments; restrict any change in capital,,,,,announced,2024-05-16,2026-11-12,14,not assessed
+INDUSTOWER,Indus Towers Ltd.,rights_issue,equity shares,"3,550,000,000",465,"₹2,640 Crore",,yes,,,,record_date,2024-07-30,2024-09-05,5,not assessed
+JAINREC,Jain Resource Recycling Ltd.,rights_issue,,,,,,yes,,,,announced,2025-12-20,2025-12-20,1,not assessed
+JAINREC,Jain Resource Recycling Ltd.,preferential_issue,,,,,,,,,,announced,2026-07-08,2026-07-08,1,not assessed
+JYOTHYLAB,Jyothy Labs Ltd.,rights_issue,equity shares,"68,37,210",240,,you as an Eligible Shareholder of Jyothy Labs Limited,yes,,,,record_date,2026-11-04,2026-11-13,5,not assessed
+KEC,Kec International Ltd.,rights_issue,equity shares,"91,11,630",955,"₹4,500 Crore",the paid -up share capital,,,,,meetings,2024-07-26,2024-12-30,4,not assessed
+KEC,Kec International Ltd.,preferential_issue,,,,"₹4,500 Crore",,,,,,meetings,2024-07-26,2024-07-26,2,not assessed
+KFINTECH,Kfin Technologies Ltd.,rights_issue,,,,,,,,,,announced,2025-01-23,2025-01-23,1,not assessed
+KIRLOSENG,Kirloskar Oil Eng Ltd.,rights_issue,equity shares,"1,02,910",,₹42 crores,,,,,,announced,2024-08-07,2025-11-11,5,not assessed
+LT,Larsen & Toubro Ltd.,rights_issue,,,,₹500 crore,,,,,,announced,2026-09-09,2026-09-09,1,not assessed
+MANKIND,Mankind Pharma Ltd.,rights_issue,equity shares,"1,19,04,761","2,520",,,,,,,announced,2024-12-20,2025-01-08,4,not assessed
+MAXHEALTH,Max Healthcare Institute Ltd.,rights_issue,,,,₹150 Crore,rights issue of Starlit Medical Centre Private Limited,,,,,announced,2024-08-01,2026-10-30,5,not assessed
+NATCOPHARM,NATCO Pharma Ltd.,preferential_issue,,,,,,,,,,record_date,2026-08-14,2026-09-30,5,not assessed
+NEOGEN,NEOGEN CHEMICALS LTD.,rights_issue,equity shares,"49,00,000","1,610","₹1,250 Crores",the rights issue of Equity Shares by Neogen Ionics Limited,yes,,,,record_date,2024-04-30,2026-07-30,19,not assessed
+NUVAMA,Nuvama Wealth Management Ltd.,rights_issue,equity shares,"25,00,000",,₹200 Crores,the Rights Issue of Nuvama Wealth Finance Limited,,,,,record_date,2025-11-04,2026-04-02,5,not assessed
+ONGC,Oil & Natural Gas Corporation Ltd.,rights_issue,equity shares,"5,59,47,96,935",,,,,,,,announced,2024-10-15,2024-12-03,2,not assessed
+PERSISTENT,Persistent Systems Ltd.,preferential_issue,equity shares,"158,150,000","5,550.00","₹42,646.09 million",,,,,,announced,2026-09-02,2026-10-26,4,not assessed
+PHOENIXLTD,Phoenix Mills Ltd.,rights_issue,equity shares,"37,50,00,000",28.50,,,,,,,meetings,2024-07-31,2026-08-10,4,not assessed
+PHOENIXLTD,Phoenix Mills Ltd.,preferential_issue,equity shares,"37,50,00,000",,,,,,,,meetings,2024-07-31,2024-09-14,3,not assessed
+PRSMJOHNSN,Prism Johnson Ltd.,rights_issue,equity shares,"1,36,07,482",,,qualified institutional; mutual fund,yes,,,,meetings,2024-07-02,2026-05-14,11,not assessed
+RELIANCE,Reliance Industries Ltd.,preferential_issue,,,,,,yes,,,,announced,2024-11-18,2024-11-18,1,not assessed
+RKFORGE,Ramkrishna Forgings Ltd.,rights_issue,warrants,"46,00,000",80,₹204.75 Crores,Ramkrishna Forgings Limited; the RKFL ESOP Trust,yes,,,,record_date,2024-10-24,2026-05-01,17,not assessed
+SAMMAANCAP,Sammaan Capital Ltd.,rights_issue,equity shares,"33,00,00,111",187.25,"₹3,500 crores",qualified institutional; promoters,yes,,,,record_date,2024-05-24,2026-10-30,30,not assessed
+SANSERA,Sansera Engineering Ltd.,rights_issue,equity shares,"6,25,00,000",,"₹1,200.00 crores",mutual fund; Promoter; Promoters,yes,,,,meetings,2024-08-13,2024-09-03,4,not assessed
+SMLMAH,SML Mahindra Ltd.,rights_issue,equity shares,"63,62,306","1,554.60",,the open offer made by Mahindra & Mahindra Limited; M&M ESOP trust,,,,,record_date,2025-02-07,2026-11-06,8,not assessed
+TATACHEM,Tata Chemicals Ltd.,rights_issue,,,,"₹1,700 crore",,,,,,announced,2024-08-09,2025-12-10,2,not assessed
+TIPSMUSIC,Tips Music Ltd.,rights_issue,equity shares,"5,95,000",625,,Promoters; Pasha Finance Pvt. Ltd; Inga Management & Invests Pvt. Ltd,yes,,,,announced,2024-04-24,2025-01-22,2,not assessed
+AAVAS,Aavas Financiers Ltd.,preferential_issue,equity shares,"1,200",,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+AJANTPHARM,Ajanta Pharmaceuticals Ltd.,preferential_issue,equity shares,"25,325",,,,,,,,announced,2025-02-05,2025-02-05,1,not assessed
+ALKEM,Alkem Laboratories Ltd.,preferential_issue,,,468.60,,F-Prime Capital,,,,,announced,2025-02-07,2026-02-13,2,not assessed
+ALKEM,Alkem Laboratories Ltd.,rights_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+APARINDS,Apar Industries Ltd.,preferential_issue,equity shares,"23,572",,"₹2,500.00 crores",qualified institutional; mutual fund; the qualified institutional,yes,,,,meetings,2025-01-28,2026-07-06,8,not assessed
+APOLLOTYRE,Apollo Tyres Ltd.,rights_issue,,,,,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+APOLLOTYRE,Apollo Tyres Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+ARVIND,Arvind Ltd.,preferential_issue,equity shares,"2013,",,,the promoters; raise the required fund; promoters,yes,,,,meetings,2025-01-29,2026-07-03,4,not assessed
+ASHOKA,Ashoka Buildcon Ltd.,preferential_issue,,,,,raise growth capital,yes,,,,announced,2026-06-12,2026-06-12,1,not assessed
+ASHOKLEY,Ashok Leyland Ltd.,preferential_issue,,,,₹300 crores,Debenture Trust,,,,,announced,2025-02-12,2026-08-10,3,not assessed
+ASHOKLEY,Ashok Leyland Ltd.,rights_issue,,,,₹300 crores,Debenture Trust,,,,,announced,2025-02-12,2026-08-10,2,not assessed
+ATHERENERG,Ather Energy Ltd.,preferential_issue,warrants,"79,36,507","1,230","₹2,500 Crores",India-Japan Fund,yes,,,,meetings,2026-06-12,2026-10-26,15,not assessed
+AUBANK,AU Small Finance Bank Ltd.,preferential_issue,equity shares,"37,36,590",,"₹1,500 crores",,,,,,record_date,2024-06-27,2026-04-27,9,not assessed
+AUROPHARMA,Aurobindo Pharma Ltd.,preferential_issue,equity shares,"2,041",11.02,,,,,,,announced,2024-12-11,2025-03-21,2,not assessed
+AXISBANK,Axis Bank Ltd.,preferential_issue,equity shares,"19,09,600",,,,,,,,announced,2024-04-24,2026-07-14,5,not assessed
+AXISBANK,Axis Bank Ltd.,rights_issue,,,,,,,,,,announced,2026-03-18,2026-03-18,1,not assessed
+BAJAJ-AUTO,Bajaj Auto Ltd.,preferential_issue,,,,,,,,,,announced,2026-07-24,2026-07-24,1,not assessed
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,preferential_issue,,,,,,,,,,announced,2026-09-01,2026-09-01,1,not assessed
+BALRAMCHIN,Balrampur Chini Mills Ltd.,rights_issue,equity shares,153126,483,₹200 Crores,,yes,,,,announced,2025-02-07,2026-04-23,7,not assessed
+BANKINDIA,Bank of India,rights_issue,,,,,,,,,,announced,2024-11-11,2025-05-13,2,not assessed
+BANKINDIA,Bank of India,preferential_issue,,,,,,,,,,announced,2024-11-11,2025-05-13,2,not assessed
+BECTORFOOD,Mrs. Bectors Food Specialities Ltd.,preferential_issue,,,,"₹4,000 million",mutual fund; the promoters; qualified institutional,yes,,,,meetings,2024-06-21,2024-06-25,2,not assessed
+BLS,BLS International Services Ltd.,rights_issue,,,,,,,,,,announced,2024-08-05,2024-08-05,1,not assessed
+BLS,BLS International Services Ltd.,preferential_issue,,,,,,,,,,announced,2024-08-05,2024-08-05,1,not assessed
+BPCL,Bharat Petroleum Corporation Ltd.,rights_issue,,,,₹88.10 Crores,improved internal generation of fund,,,,,announced,2024-10-25,2026-10-23,3,not assessed
+BPCL,Bharat Petroleum Corporation Ltd.,preferential_issue,,,,₹88.10 Crores,,,,,,announced,2026-05-19,2026-10-23,2,not assessed
+BRIGADE,Brigade Enterprises Ltd.,rights_issue,equity shares,"1,30,43,478","1,150",₹1500 crores,,yes,,,,record_date,2024-09-06,2026-07-15,8,not assessed
+BRIGADE,Brigade Enterprises Ltd.,preferential_issue,warrants,"34,23,000",,₹1500 crores,the Promoter,yes,,,,record_date,2026-07-15,2026-07-17,5,not assessed
+BSOFT,Birlasoft Ltd.,rights_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,3,not assessed
+CANFINHOME,Can Fin Homes Ltd.,rights_issue,,,,,enable the Company to access the capital,,,,,record_date,2024-06-06,2025-06-25,11,not assessed
+CAPLIPOINT,Caplin Point Laboratories Ltd.,preferential_issue,equity shares,"8,57,09,957",,,,,,,,announced,2024-09-19,2025-02-07,2,not assessed
+CAPLIPOINT,Caplin Point Laboratories Ltd.,rights_issue,equity shares,"8,57,09,957",,,,,,,,announced,2024-09-19,2024-09-19,1,not assessed
+CEATLTD,Ceat Ltd.,rights_issue,equity shares,"23,840",,₹355 Lakhs,,,,,,announced,2024-06-28,2026-07-08,9,not assessed
+CESC,CESC Ltd.,rights_issue,,,,₹300 crore,,,,,,announced,2025-02-11,2026-09-22,4,not assessed
+CESC,CESC Ltd.,preferential_issue,,,,₹250 crore,,,,,,announced,2025-02-11,2026-09-22,3,not assessed
+CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,rights_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+COALINDIA,Coal India Ltd.,rights_issue,equity shares,"1,06,75,06,771",,,,,,,,announced,2025-06-27,2026-07-27,2,not assessed
+DCBBANK,DCB Bank Ltd.,preferential_issue,equity shares,"60,58,394",137,,Aga Khan Fund,yes,,,,announced,2025-09-29,2025-10-10,2,not assessed
+EDELWEISS,Edelweiss Financial Services Ltd.,preferential_issue,equity shares,"3,83,021",,₹56.18 crore,,,,,,announced,2026-02-10,2026-09-25,2,not assessed
+EIDPARRY,E.I.D. Parry (India) Ltd.,rights_issue,equity shares,"1,96,68,019",,,,,,,,announced,2026-11-14,2026-11-14,1,not assessed
+EMCURE,Emcure Pharmaceuticals Ltd.,rights_issue,,,,₹91.25 million,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+ENGINERSIN,Engineers India Ltd.,rights_issue,equity shares,"1,25,73,627",,₹34.58 Cr.,,,,,,announced,2024-12-06,2025-06-02,4,not assessed
+ENGINERSIN,Engineers India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,2,not assessed
+ERIS,Eris Lifesciences Ltd.,preferential_issue,equity shares,"1,43,13,418","1,835.35",₹51.43 Crores,BSE Limited,yes,,,,meetings,2025-02-04,2026-01-16,10,not assessed
+ERIS,Eris Lifesciences Ltd.,rights_issue,equity shares,"1,43,13,418",,₹51.43 Crores,,,,,,announced,2025-02-04,2025-02-04,1,not assessed
+ESCORTS,Escorts Kubota Ltd.,rights_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+FEDFINA,Fedbank Financial Services Ltd.,preferential_issue,equity shares,"12,700",,₹200 crores,,,,,,announced,2024-08-22,2026-08-25,11,not assessed
+FEDFINA,Fedbank Financial Services Ltd.,rights_issue,equity shares,"12,700",,₹200 crores,,,,,,announced,2026-01-06,2026-08-25,9,not assessed
+FIVESTAR,Five-Star Business Finance Ltd.,rights_issue,warrants,"4,10,000",770,"₹3,157.00 lakhs",,,,,,announced,2025-01-31,2026-04-24,2,not assessed
+FORCEMOT,Force Motors Ltd.,rights_issue,,,,,,,,,,announced,2025-02-10,2026-10-28,7,not assessed
+FORCEMOT,Force Motors Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-10,2026-10-28,7,not assessed
+GHCL,GHCL Ltd.,preferential_issue,equity shares,"30,800",725,₹31.05 Crores,,yes,,,,announced,2025-05-08,2026-10-31,7,not assessed
+GMRP&UI,GMR Power and Urban Infra Ltd.,preferential_issue,equity shares,"45,266",120.88,₹3000 Crore,the promoter,yes,,,,meetings,2024-08-24,2026-01-28,12,not assessed
+GODREJIND,Godrej Industries Ltd.,rights_issue,equity shares,"2,600",,₹10 Crore,,,,,,announced,2024-12-12,2026-01-28,4,not assessed
+GPIL,Godawari Power & Ispat Ltd.,preferential_issue,warrants,"2,04,08,220",245,₹300 Crores,the Promoters,yes,,,,record_date,2025-09-18,2026-10-08,28,not assessed
+GRASIM,Grasim Industries Ltd.,rights_issue,equity shares,"2,20,70,910","1,812",,Qualified Institutional,yes,,,,record_date,2024-05-22,2026-10-25,22,not assessed
+HBLENGINE,HBL Engineering Ltd.,rights_issue,,,,,,,,,,announced,2025-02-10,2026-05-23,5,not assessed
+HCC,Hindustan Construction Co. Ltd.,preferential_issue,equity shares,"390,00,00,000",,,,,,,,meetings,2024-08-05,2026-08-18,7,not assessed
+HDFCBANK,HDFC Bank Ltd.,preferential_issue,,,,,,,,,,announced,2026-04-16,2026-04-16,1,not assessed
+HERITGFOOD,Heritage Foods Ltd.,rights_issue,,,,,,,,,,announced,2024-05-29,2025-05-16,2,not assessed
+HEROMOTOCO,Hero MotoCorp Ltd.,preferential_issue,equity shares,"89,095","1,260",₹5.15 crore,,,,,,record_date,2024-05-08,2026-08-25,7,not assessed
+HEXT,Hexaware Technologies Ltd.,rights_issue,equity shares,"150,000",,,the Trust,,,,,meetings,2025-03-07,2026-09-09,3,not assessed
+HINDPETRO,Hindustan Petroleum Corporation Ltd.,preferential_issue,equity shares,"74,172",,"₹2,500 Crores",,,,,,record_date,2024-08-28,2026-07-22,5,not assessed
+IDBI,IDBI Bank Ltd.,rights_issue,,,,,,,,,,announced,2025-08-23,2025-08-23,1,not assessed
+IDEA,Vodafone Idea Ltd.,preferential_issue,equity shares,"27,034",14.87,₹2075 crores,the promoter,yes,,,,meetings,2024-04-03,2026-06-22,31,not assessed
+INDUSTOWER,Indus Towers Ltd.,preferential_issue,,,,₹19.1 Bn,,,,,,announced,2025-01-10,2025-01-10,1,not assessed
+IOC,Indian Oil Corporation Ltd.,rights_issue,,,,,,yes,,,,meetings,2024-08-09,2026-07-31,6,not assessed
+IOC,Indian Oil Corporation Ltd.,preferential_issue,,,,,,,,,,announced,2025-04-30,2026-05-18,2,not assessed
+IPCALAB,Ipca Laboratories Ltd.,preferential_issue,,,,,,,,,,announced,2024-04-17,2024-04-17,1,not assessed
+IREDA,Indian Renewable Energy Development Agency Ltd.,preferential_issue,,,,₹4500 Crore,,,,,,announced,2024-08-29,2026-02-06,5,not assessed
+IREDA,Indian Renewable Energy Development Agency Ltd.,rights_issue,,,,₹4500 Crore,,,,,,announced,2024-08-29,2024-09-18,2,not assessed
+JINDALSAW,Jindal Saw Ltd.,preferential_issue,,,,,shareholders of Jindal Quality Tubular Limited,,,,,announced,2024-07-29,2024-07-29,1,not assessed
+JSFB,Jana Small Finance Bank Ltd.,rights_issue,,,,₹250 crores,,,,,,announced,2025-02-11,2025-10-09,3,not assessed
+JUBLPHARMA,Jubilant Pharmova Ltd.,rights_issue,,,,₹800 crore,,,,,,announced,2026-10-12,2026-10-12,2,not assessed
+JUBLPHARMA,Jubilant Pharmova Ltd.,preferential_issue,,,,₹800 crore,,,,,,announced,2026-10-12,2026-10-12,2,not assessed
+KARURVYSYA,Karur Vysya Bank Ltd.,rights_issue,equity shares,"58,320",,,,,,,,announced,2024-11-28,2024-11-28,1,not assessed
+KAYNES,Kaynes Technology India Ltd.,preferential_issue,equity shares,"77,561","5,569.50","₹16,000 million",qualified institutional; the promoters; mutual fund,yes,,,,record_date,2025-01-22,2025-07-30,6,not assessed
+KAYNES,Kaynes Technology India Ltd.,rights_issue,equity shares,"77,561",587,₹348.99 million,,,,,,announced,2025-01-22,2025-07-30,3,not assessed
+KIMS,Krishna Institute of Medical Sciences Ltd.,preferential_issue,equity shares,"2,500",779.00,"₹15,000 million",be listed on the National Stock Exchange of India Limited,yes,,,,meetings,2025-06-05,2026-08-20,13,not assessed
+KITEX,Kitex Garments Ltd.,rights_issue,,,,"₹3,000 Crores",Qualified Institutional; promoter; mutual fund; time. The proposed issue of capital,yes,,,,meetings,2026-08-14,2026-09-03,4,not assessed
+LICHSGFIN,LIC Housing Finance Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-31,2025-01-31,1,not assessed
+LICI,Life Insurance Corporation of India,preferential_issue,,,,,,,,,,announced,2024-07-04,2024-07-04,1,not assessed
+LICI,Life Insurance Corporation of India,rights_issue,,,,,,,,,,announced,2025-08-24,2025-08-24,1,not assessed
+LLOYDSENGG,Lloyds Engineering Works Ltd.,preferential_issue,equity shares,"120,00,00,000",9.5,₹2 lakhs,the promoters,yes,,,,record_date,2024-07-30,2026-08-17,30,not assessed
+LLOYDSENT,Lloyds Enterprises Ltd.,preferential_issue,equity shares,"25,44,25,324",39,,,,,,,announced,2025-07-21,2026-06-18,6,not assessed
+MAHABANK,Bank of Maharashtra,rights_issue,,,,₹7500 crore,,,,,,record_date,2024-04-26,2025-06-30,5,not assessed
+MARUTI,Maruti Suzuki India Ltd.,preferential_issue,equity shares,"12,322,514","10,420.85","₹39,300 million",,,,,,announced,2024-04-26,2024-07-31,2,not assessed
+NATIONALUM,National Aluminium Co. Ltd.,rights_issue,,,,,,,,,,announced,2024-12-01,2025-02-10,2,not assessed
+NATIONALUM,National Aluminium Co. Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+NAVINFLUOR,Navin Fluorine International Ltd.,preferential_issue,equity shares,"5,275",,₹0.37 crore,Qualified Institutional; promoters; mutual fund,yes,,,,record_date,2024-06-29,2026-03-24,9,not assessed
+NHPC,NHPC Ltd.,rights_issue,,,,,,,,,,meetings,2024-08-28,2024-08-28,1,not assessed
+NLCINDIA,NLC India Ltd.,rights_issue,equity shares,"12,27,05,983",,₹2.65 crore,be submitted to SBICAP Trust; be submitted to IDBI Trust,,,,,record_date,2024-10-25,2025-02-03,7,not assessed
+OIL,Oil India Ltd.,rights_issue,,,,,,,,,,record_date,2024-12-06,2026-11-12,11,not assessed
+OIL,Oil India Ltd.,preferential_issue,,,,,,,,,,record_date,2025-02-07,2026-11-12,7,not assessed
+PATANJALI,Patanjali Foods Ltd.,rights_issue,,,,,,,,,,announced,2025-02-10,2026-06-19,3,not assessed
+PATANJALI,Patanjali Foods Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+PCJEWELLER,PC Jeweller Ltd.,preferential_issue,equity shares,"50,00,00,000",56.20,"₹1,500 Crore",Non-Promoter,yes,,,,meetings,2024-04-16,2026-10-07,58,not assessed
+PNBHOUSING,PNB Housing Finance Ltd.,preferential_issue,equity shares,"2,08,872",,,,,,,,announced,2025-04-28,2025-07-21,4,not assessed
+PRSMJOHNSN,Prism Johnson Ltd.,preferential_issue,,,,₹18.72 Crores,qualified institutional; mutual fund,yes,,,,meetings,2024-08-22,2026-05-14,7,not assessed
+PURVA,Puravankara Ltd.,preferential_issue,,,,₹120 crores,mutual fund; the promoters; Pune Projects LLP,yes,,,,meetings,2024-06-14,2024-06-14,1,not assessed
+RAYMOND,Raymond Ltd.,rights_issue,,,,₹330.88 crore,PROMOTERS; invest the Issue Proceeds in fixed deposit and debt mutual fund,yes,,,,meetings,2026-06-10,2026-06-10,1,not assessed
+RECLTD,REC Ltd.,rights_issue,,,,,,,,,,announced,2024-09-24,2024-09-24,1,not assessed
+RECLTD,REC Ltd.,preferential_issue,,,,,,,,,,announced,2024-09-24,2024-09-24,1,not assessed
+RENUKA,Shree Renuka Sugars Ltd.,rights_issue,equity shares,"2,49,122",,₹573.65 Mn,,,,,,announced,2024-12-24,2025-11-06,2,not assessed
+SAMHI,Samhi Hotels Ltd.,rights_issue,equity shares,"2,05,00,000",,,equity shares of Ascent Hotels Private Limited,,,,,announced,2025-01-21,2026-08-03,5,not assessed
+SAMHI,Samhi Hotels Ltd.,preferential_issue,equity shares,"25,00,00,000",,,approve increase in the authorized share capital; mutual fund; increase its authorized share capital; Qualified Institutional,,,,,meetings,2026-08-03,2026-08-07,4,not assessed
+SANSERA,Sansera Engineering Ltd.,preferential_issue,equity shares,"6,25,00,000",,"₹1,200.00 crores",mutual fund; Promoter; Promoters,yes,,,,meetings,2024-08-20,2024-09-03,3,not assessed
+SARDAEN,Sarda Energy and Minerals Ltd.,rights_issue,equity shares,"83,693",,,,,,,,announced,2025-02-08,2025-12-24,2,not assessed
+SARDAEN,Sarda Energy and Minerals Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-08,2025-02-08,1,not assessed
+SKIPPER,Skipper Ltd.,preferential_issue,equity shares,"92,23,402",470,₹600 crore,mutual fund; promoters; the qualified institutional,yes,,,,record_date,2024-10-30,2026-08-11,11,not assessed
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,preferential_issue,,,,,,,,,,announced,2024-05-30,2024-05-30,1,not assessed
+TARIL,Transformers And Rectifiers (India) Ltd.,rights_issue,equity shares,7518796,665,₹500 Crore,,,,,,announced,2024-06-14,2025-02-14,3,not assessed
+TEGA,Tega Industries Ltd.,preferential_issue,equity shares,"100,33,090",1994,₹2000.60 Crores,promoters; Qualified Institutional; Mutual Fund,yes,,,,listed,2025-09-13,2026-10-15,24,not assessed
+TEXRAIL,Texmaco Rail & Eng. Ltd.,preferential_issue,warrants,7772020,129.11,₹750.00 crore,ascertain utilizat ion of fund,yes,,,,nclt_sanction,2024-04-09,2026-08-03,17,not assessed
+THELEELA,Leela Palaces Hotels & Resorts Ltd.,rights_issue,equity shares,"67,48,650",100,,,,,,,announced,2025-07-25,2026-03-16,3,not assessed
+TSFINV,TSF Investments Ltd.,preferential_issue,equity shares,"10,57,827",1418,"₹20,000 Crore",,,,,,meetings,2026-08-19,2026-09-21,4,not assessed
+UTLSOLAR,Fujiyama Power Systems Ltd.,preferential_issue,equity shares,"4,11,587",398.39,,Qualified Institutional; mutual fund; the promoters; promoters,yes,,,,meetings,2026-10-15,2026-10-21,2,not assessed
+VIPIND,V.I.P. Industries Ltd.,rights_issue,equity shares,"83,90,076",388.00,,,,,,,announced,2025-07-14,2026-09-18,3,not assessed
+VIPIND,V.I.P. Industries Ltd.,preferential_issue,,,,,,,,,,announced,2026-09-18,2026-09-18,1,not assessed
+VTL,Vardhman Textiles Ltd.,rights_issue,,,,,,,,,,announced,2025-05-03,2025-05-03,1,not assessed
+WELCORP,Welspun Corp Ltd.,rights_issue,equity shares,"1,900",,₹250 crore,,,,,,announced,2025-02-05,2025-03-26,4,not assessed
+ZENSARTECH,Zensar Technolgies Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-22,2025-01-22,1,not assessed
+SHAREINDIA,Share India Securities Ltd.,rights_issue,equity shares,"20,288",,₹30 Crores,the share capital,,,,,record_date,2024-04-05,2026-10-26,28,not assessed
+THOMASCOOK,Thomas Cook (India) Ltd.,rights_issue,equity shares,"60,000",,,,,,,,announced,2024-07-31,2026-09-07,6,not assessed
+AEQUS,Aequs Ltd.,rights_issue,equity shares,"24,17,800",51.19,,Mellwood Trust; compliance with applicable law. The fund; be aligned with deployment of fund,yes,,,,meetings,2026-01-21,2026-11-05,16,not assessed
+AETHER,Aether Industries Ltd.,rights_issue,,,,"₹13,000 Million",increase the subscribed capital,yes,,,,meetings,2024-07-19,2024-08-16,4,not assessed
+AMBER,Amber Enterprises India Ltd.,rights_issue,equity shares,"65,00,000",,,,,,,,announced,2026-03-19,2026-07-11,5,not assessed
+ASTERDM,Aster DM Quality Care Ltd.,rights_issue,,,,,,,,,,announced,2026-01-29,2026-01-29,1,not assessed
+ASTRAMICRO,Astra Microwave Products Ltd.,preferential_issue,warrants,"20,13,885",864,₹43.49 Cr,the person belonging to Promoter,yes,,,,meetings,2025-05-20,2026-02-12,12,not assessed
+AVALON,Avalon Technologies Ltd.,rights_issue,equity shares,"6,64,95,647","2,193.20",₹105.00 crores,the paid -up share capital; non-promoter; the non-promoter,yes,,,,meetings,2025-06-25,2026-10-28,3,not assessed
+AXISCADES,AXISCADES Technologies Ltd.,rights_issue,,,,₹200 crores,,,,,,announced,2026-09-05,2026-09-05,2,not assessed
+AXISCADES,AXISCADES Technologies Ltd.,preferential_issue,,,,₹200 crores,,,,,,announced,2026-09-05,2026-09-05,2,not assessed
+CELLO,Cello World Ltd.,rights_issue,equity shares,"86,54,000",,,,,,,,announced,2024-05-29,2026-08-07,3,not assessed
+CELLO,Cello World Ltd.,preferential_issue,equity shares,"86,54,000",,,,,,,,announced,2024-05-29,2024-05-29,1,not assessed
+CGCL,Capri Global Capital Ltd.,rights_issue,equity shares,"8,840",274,₹2000 crore,the Board of Directors of Capri Global Capital,,,,,announced,2024-08-03,2026-10-27,11,not assessed
+DATAMATICS,Datamatics Global Services Ltd.,rights_issue,,,,₹10.21 crores,,,,,,nclt_sanction,2025-01-29,2025-01-29,3,not assessed
+DATAMATICS,Datamatics Global Services Ltd.,preferential_issue,,,,₹10.21 crores,,,,,,nclt_sanction,2025-01-29,2025-01-29,3,not assessed
+DBL,Dilip Buildcon Ltd.,rights_issue,warrants,"1,62,29,862",328.05,,Alpha Alternatives Financial Services Private Limited; BSE Limited,,,,,announced,2025-06-13,2025-06-18,2,not assessed
+ECLERX,eClerx Services Ltd.,rights_issue,equity shares,"1,375,000","2,800","₹3,850 MILLION",,yes,,,,record_date,2024-05-24,2025-12-18,9,not assessed
+GMRP&UI,GMR Power and Urban Infra Ltd.,rights_issue,warrants,"3,30,90,668",120.88,₹800 crore,the promoter; Hyderabad Jabilli Properties Private Limited,yes,,,,announced,2025-12-17,2025-12-17,3,not assessed
+HAPPSTMNDS,Happiest Minds Technologies Ltd.,rights_issue,,,,,,,,,,announced,2024-11-14,2025-02-04,2,not assessed
+HAPPSTMNDS,Happiest Minds Technologies Ltd.,preferential_issue,,,,,,,,,,announced,2024-11-14,2025-02-04,2,not assessed
+HCC,Hindustan Construction Co. Ltd.,rights_issue,equity shares,"166,666,666",12.50,₹999.99 Crore,Jadeja Investments,,,,,record_date,2024-04-05,2026-08-18,22,not assessed
+KPIL,Kalpataru Projects International Ltd.,rights_issue,equity shares,"3,99,90,258",25,"₹1,000 Crores",Rights iss ue of Shree Shubham Logistics Limited; additional equity share capital,yes,,,,meetings,2024-05-08,2025-02-13,12,not assessed
+MINDACORP,Minda Corporation Ltd.,rights_issue,equity shares,"1,50,00,000",,₹500 crore,,,,,,announced,2024-09-12,2026-10-05,11,not assessed
+MOTILALOFS,Motilal Oswal Financial Services Ltd.,rights_issue,,,,₹500 Crore,,,,,,announced,2024-05-09,2025-10-30,2,not assessed
+PCJEWELLER,PC Jeweller Ltd.,rights_issue,equity shares,"50,00,00,000",56.20,"₹1,500 Crore",Non-Promoter,yes,,,,meetings,2024-04-16,2025-09-18,9,not assessed
+POONAWALLA,Poonawalla Fincorp Ltd.,rights_issue,equity shares,"812,817,658",390.26,"₹1,875,00,00,000 Crore",be listed on BSE Limited,,,,,announced,2024-04-03,2026-11-13,30,not assessed
+QPOWER,QUALITY POWER ELECTRICAL EQUIPMENTS Ltd.,rights_issue,equity shares,"10,17,123","1,460.00",₹272.34 Crores,Promoters; the promoters; mutual fund,yes,,,,meetings,2026-09-23,2026-09-26,2,not assessed
+REFEX,Refex Industries Ltd.,rights_issue,warrants,"70,000",268,₹927.81 Crore,inform you that Venwind Refex Power Limited,yes,,,,announced,2024-10-03,2026-04-26,4,not assessed
+ROUTE,Route Mobile Ltd.,rights_issue,equity shares,"336,920","1,626.40",,the Public Shareholdersof Route Mobile Limited,,,,,announced,2024-04-04,2025-06-19,12,not assessed
+ROUTE,Route Mobile Ltd.,preferential_issue,equity shares,"209,050",,,,,,,,announced,2025-01-28,2025-01-28,1,not assessed
+SAATVIKGL,Saatvik Green Energy Ltd.,rights_issue,equity shares,"85,00,000",,,,,,,,announced,2026-02-04,2026-02-04,1,not assessed
+SANOFICONR,Sanofi Consumer Healthcare India Ltd.,rights_issue,equity shares,"1,39,04,722",,,,,,,,announced,2025-02-20,2025-05-12,13,not assessed
+SANOFICONR,Sanofi Consumer Healthcare India Ltd.,preferential_issue,equity shares,"139,09,587",,,,,,,,announced,2025-02-20,2025-06-13,2,not assessed
+SKFINDIA,SKF India Ltd.,preferential_issue,,,,,,,,,,announced,2025-10-06,2025-10-06,1,not assessed
+SKIPPER,Skipper Ltd.,rights_issue,equity shares,19977,194,₹600 crore,implement the proposed fund,yes,,,,record_date,2024-08-27,2026-10-30,23,not assessed
+STAR,Strides Pharma Science Ltd.,rights_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+STAR,Strides Pharma Science Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+STARCEMENT,Star Cement Ltd.,rights_issue,,,,"₹,1500 crore",qualified institutional; the promoters,yes,,,,meetings,2025-10-14,2025-11-04,4,not assessed
+SURYAROSNI,Surya Roshni Ltd.,rights_issue,equity shares,"53,834",,,,,,,,announced,2025-02-06,2025-02-06,3,not assessed
+THOMASCOOK,Thomas Cook (India) Ltd.,preferential_issue,equity shares,"6,60,000",,,,,,,,announced,2024-11-06,2026-03-27,6,not assessed
+YATHARTH,Yatharth Hospital & Trauma Care Services Ltd.,rights_issue,,,,₹700 crore,mutual fund; promoters; give Loans or Invest Fund; qualified institutional; the qualified institutional,yes,,,,meetings,2024-11-13,2024-11-13,1,not assessed
+ABB,ABB India Ltd.,rights_issue,,,,,,,,,,announced,2025-02-17,2025-02-17,1,not assessed
+ABB,ABB India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-17,2025-02-17,1,not assessed
+ABCAPITAL,Aditya Birla Capital Ltd.,rights_issue,,,,,,,,,,announced,2025-10-29,2026-07-17,2,not assessed
+ADANIENSOL,Adani Energy Solutions Ltd.,preferential_issue,equity shares,"8,57,89,959",976,"₹8,373.10 Crore",,,,,,announced,2024-05-27,2026-07-30,6,not assessed
+AEGISLOG,Aegis Logistics Ltd.,preferential_issue,equity shares,"95,37,00,000",,₹800 Crore,,,,,,announced,2024-08-28,2026-09-28,7,not assessed
+AEGISLOG,Aegis Logistics Ltd.,rights_issue,equity shares,"95,37,00,000",,"₹6,000 Crores",,,,,,announced,2024-08-28,2026-09-28,4,not assessed
+AEGISVOPAK,Aegis Vopak Terminals Ltd.,rights_issue,,,,,,,,,,announced,2025-12-26,2025-12-26,1,not assessed
+AFFLE,Affle 3i Ltd.,preferential_issue,equity shares,"1,153,845","1,487","₹5,906.90 million",Gamnat Pte. Ltd,yes,,,,meetings,2024-08-03,2026-10-21,17,not assessed
+AGARWALEYE,Dr. Agarwal's Health Care Ltd.,rights_issue,equity shares,"7,462,686",402,,,,,,,announced,2025-02-14,2025-02-14,1,not assessed
+AIIL,Authum Investment & Infrastructure Ltd.,preferential_issue,equity shares,"11,25,00,000",1000,"₹2,450 Crores",acquisition of Equity Shares of MIRC Electronics Limited,yes,,,,announced,2024-08-07,2025-12-31,13,not assessed
+AMBER,Amber Enterprises India Ltd.,preferential_issue,equity shares,1257861,"7,950.00","₹99,999.95 lakhs",Qualified Institutions Placement at the meeting of the fund,,,,,announced,2025-09-22,2026-07-11,3,not assessed
+ANANDRATHI,Anand Rathi Wealth Ltd.,preferential_issue,equity shares,"10,00,00,000",,,,,,,,announced,2025-01-13,2025-01-13,2,not assessed
+ANANTRAJ,Anant Raj Ltd.,rights_issue,warrants,"13,69,863",730,,the Shri Ashok Sarin Anant Raj LLP,,,,,announced,2024-07-27,2026-07-20,5,not assessed
+ANGELONE,Angel One Ltd.,rights_issue,,,,,,,,,,announced,2026-02-03,2026-02-03,2,not assessed
+ANGELONE,Angel One Ltd.,preferential_issue,,,,₹50 Crore,,,,,,announced,2026-02-24,2026-02-24,1,not assessed
+APOLLO,Apollo Micro Systems Ltd.,preferential_issue,warrants,"98,85,070",186.00,₹1500 Crores,the Promoters; Promoters,yes,,,,listed,2024-05-03,2026-11-03,55,not assessed
+ASAHIINDIA,Asahi India Glass Ltd.,rights_issue,,,,"₹1,000 Crores",,,,,,nclt_sanction,2025-01-29,2025-07-30,3,not assessed
+ASTRAL,Astral Ltd.,rights_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+ASTRAL,Astral Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+ATGL,Adani Total Gas Ltd.,rights_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+ATGL,Adani Total Gas Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+ATHERENERG,Ather Energy Ltd.,rights_issue,warrants,"79,36,507","1,230","₹2,500 Crores",India-Japan Fund,yes,,,,announced,2026-06-12,2026-08-25,8,not assessed
+AURIONPRO,Aurionpro Solution Ltd.,preferential_issue,equity shares,"9,02,935","2,215","₹1,840.74 lakhs",ASL ESPS Trust,yes,,,,meetings,2024-05-14,2025-12-19,6,not assessed
+AVALON,Avalon Technologies Ltd.,preferential_issue,equity shares,"6,64,95,647","2,193.20",₹105.00 crores,the paid -up share capital; non-promoter; the non-promoter,yes,,,,meetings,2025-06-25,2026-11-12,5,not assessed
+AZAD,Azad Engineering Ltd.,preferential_issue,equity shares,"1,73,430",,"₹1,000 crore",mutual fund; promoters; qualified institutional; the qualified institutional,yes,,,,meetings,2025-01-03,2025-01-06,2,not assessed
+BALKRISIND,Balkrishna Industries Ltd.,preferential_issue,,,,₹550 crores,,,,,,announced,2026-03-24,2026-09-03,3,not assessed
+BALKRISIND,Balkrishna Industries Ltd.,rights_issue,,,,₹550 crores,,,,,,announced,2026-08-18,2026-09-03,2,not assessed
+BIKAJI,Bikaji Foods International Ltd.,rights_issue,equity shares,"25,30,000",,,,,,,,announced,2025-05-15,2025-05-15,4,not assessed
+BLUEJET,Blue Jet Healthcare Ltd.,preferential_issue,,,,"₹15,000 million",,,,,,announced,2025-05-14,2026-05-25,5,not assessed
+BLUEJET,Blue Jet Healthcare Ltd.,rights_issue,,,,,,,,,,announced,2025-01-29,2025-01-29,1,not assessed
+BLUESTARCO,Blue Star Ltd.,rights_issue,equity shares,"9,44,00,000",,,,,,,,announced,2024-07-18,2024-07-18,1,not assessed
+BSE,BSE Ltd.,rights_issue,equity shares,"27,46,52,718",,,,,,,,announced,2025-03-30,2026-09-10,4,not assessed
+CAMS,Computer Age Management Services Ltd.,rights_issue,,,,,the subsidiary for its short -term working capital,,,,,announced,2025-06-25,2025-06-25,1,not assessed
+CDSL,Central Depository Services (India) Ltd.,rights_issue,equity shares,"10,00,00,000",,,,,,,,announced,2026-08-01,2026-09-10,2,not assessed
+CGCL,Capri Global Capital Ltd.,preferential_issue,equity shares,"13,65,18,770",146.50,₹2000 crore,qualified institutional,,,,,meetings,2024-08-03,2026-10-16,10,not assessed
+CGPOWER,CG Power and Industrial Solutions Ltd.,preferential_issue,equity shares,145622,,"₹3,500 Crores",,,,,,announced,2024-10-21,2024-10-21,3,not assessed
+CHENNPETRO,Chennai Petroleum Corporation Ltd.,rights_issue,,,,₹15.94 Cr.,,,,,,record_date,2025-10-27,2026-10-22,6,not assessed
+CHENNPETRO,Chennai Petroleum Corporation Ltd.,preferential_issue,,,,₹15.94 Cr.,,,,,,record_date,2025-10-27,2026-10-22,6,not assessed
+CLEAN,Clean Science and Technology Ltd.,rights_issue,equity shares,"8,36,121",,,the rights issue of Clean Fino-Chem Limited; the rights issue of Clean Fino -Chem Limited; the equity share capital,,,,,announced,2024-04-05,2026-09-23,10,not assessed
+CONCOR,Container Corporation of India Ltd.,rights_issue,,,,,,,,,,announced,2024-09-09,2025-01-22,2,not assessed
+CONCOR,Container Corporation of India Ltd.,preferential_issue,,,,,,,,,,announced,2024-09-09,2025-01-22,2,not assessed
+CONCORDBIO,Concord Biotech Ltd.,rights_issue,equity shares,"10,000",,,,,,,,announced,2025-03-04,2026-09-23,2,not assessed
+COROMANDEL,Coromandel International Ltd.,preferential_issue,equity shares,"11,09,00,741",13.50,₹149.72 Crores,the Offer Skyline Financial Services Private Limited,,,,,announced,2024-09-28,2025-11-01,2,not assessed
+CPPLUS,Aditya Infotech Ltd.,rights_issue,,,,,,,,,,announced,2026-08-19,2026-08-19,1,not assessed
+CPPLUS,Aditya Infotech Ltd.,preferential_issue,,,,,,,,,,announced,2026-08-19,2026-08-19,1,not assessed
+DATAPATTNS,Data Patterns (India) Ltd.,rights_issue,,,,,,,,,,announced,2025-02-05,2025-02-05,1,not assessed
+DATAPATTNS,Data Patterns (India) Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-05,2025-02-05,1,not assessed
+DMART,Avenue Supermarts Ltd.,rights_issue,,,,,,,,,,announced,2024-05-04,2024-05-04,1,not assessed
+DMART,Avenue Supermarts Ltd.,preferential_issue,equity shares,"4,67,78,000",37.41,,,,,,,announced,2025-03-19,2025-03-19,1,not assessed
+EIEL,Enviro Infra Engineers Ltd.,rights_issue,,,,,,,,,,announced,2025-11-25,2026-01-02,3,not assessed
+ETERNAL,Eternal Ltd.,preferential_issue,equity shares,"33,64,73,755",252.62,"₹8,500 crore",Qualified Institution Placement at its fund,,,,,announced,2024-11-29,2024-11-29,1,not assessed
+EXIDEIND,Exide Industries Ltd.,rights_issue,,,,,,,,,,announced,2024-05-14,2024-10-10,7,not assessed
+GAIL,GAIL (India) Ltd.,rights_issue,equity shares,"1,06,75,06,771",,,,,,,,announced,2025-01-30,2025-06-27,4,not assessed
+GAIL,GAIL (India) Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,3,not assessed
+GILLETTE,Gillette India Ltd.,rights_issue,,,,,,,,,,announced,2025-02-18,2025-02-18,2,not assessed
+GMDCLTD,Gujarat Mineral Development Corporation Ltd.,rights_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+GMDCLTD,Gujarat Mineral Development Corporation Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+GODREJCP,Godrej Consumer Products Ltd.,rights_issue,,,,₹200 Crore,,,,,,announced,2024-09-05,2026-07-22,3,not assessed
+GRAPHITE,Graphite India Ltd.,rights_issue,,,,,,,,,,announced,2025-08-26,2025-08-26,1,not assessed
+GRSE,Garden Reach Shipbuilders & Engineers Ltd.,rights_issue,,,,,,,,,,announced,2025-02-03,2025-02-03,1,not assessed
+GRSE,Garden Reach Shipbuilders & Engineers Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-03,2025-02-03,1,not assessed
+HDFCAMC,HDFC Asset Management Company Ltd.,rights_issue,equity shares,"60,00,00,000",,,,,,,,record_date,2025-10-15,2025-10-15,3,not assessed
+HDFCLIFE,HDFC Life Insurance Company Ltd.,preferential_issue,equity shares,"1,45,23,906",688.52,₹2 Lakh,HDFC Bank Limited; infuse capital,yes,,,,meetings,2026-04-16,2026-06-16,4,not assessed
+HEXT,Hexaware Technologies Ltd.,preferential_issue,equity shares,"150,000",,,,,,,,announced,2025-03-07,2025-04-28,2,not assessed
+HOMEFIRST,Home First Finance Company India Ltd.,preferential_issue,equity shares,"11,63,580",,,be listed on the wholesale debt market segment of BSE Limited,,,,,announced,2025-01-29,2026-08-21,2,not assessed
+HONAUT,Honeywell Automation India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+HSCL,Himadri Speciality Chemical Ltd.,preferential_issue,warrants,10817000,316,₹13.81 cr,the Promoters,yes,,,,meetings,2024-04-20,2026-01-16,25,not assessed
+HSCL,Himadri Speciality Chemical Ltd.,rights_issue,equity shares,"493,681,224",,,,,,,,announced,2024-12-30,2025-02-04,3,not assessed
+INDHOTEL,Indian Hotels Co. Ltd.,rights_issue,equity shares,"49,99,99,998",5000,,,,,,,announced,2024-10-24,2025-09-23,3,not assessed
+INDUSINDBK,IndusInd Bank Ltd.,rights_issue,,,,,,,,,,announced,2026-03-31,2026-03-31,1,not assessed
+INDUSINDBK,IndusInd Bank Ltd.,preferential_issue,,,,,,,,,,announced,2026-03-31,2026-03-31,1,not assessed
+IRB,IRB Infrastructure Developers Ltd.,rights_issue,,,293.6511986,₹17149.23 million,Eligible Unitholders of the Trust,,,,,announced,2024-12-16,2024-12-20,2,not assessed
+ITI,ITI Ltd.,preferential_issue,equity shares,"19,65,029",,,Promoters,yes,,,,announced,2025-05-27,2026-06-11,3,not assessed
+JBMA,JBM Auto Ltd.,rights_issue,,,,,,,,,,announced,2026-07-30,2026-07-30,3,not assessed
+JIOFIN,Jio Financial Services Ltd.,preferential_issue,warrants,"50,00,00,000",,,,yes,,,,announced,2025-07-30,2026-10-30,5,not assessed
+JIOFIN,Jio Financial Services Ltd.,rights_issue,,,,₹93.50 crore,,,,,,announced,2025-12-10,2025-12-10,1,not assessed
+JSL,Jindal Stainless Ltd.,preferential_issue,equity shares,"3,35,000","10,00,000",,the promoters; mutual fund,yes,,,,meetings,2024-06-27,2026-09-28,8,not assessed
+JSL,Jindal Stainless Ltd.,rights_issue,equity shares,"3,35,000",,,JSL Employee Welfare Trust; the ESOP Trust; ESOP Trust,,,,,announced,2024-11-28,2024-11-28,1,not assessed
+JSWENERGY,JSW Energy Ltd.,preferential_issue,equity shares,"92,783",525,"₹10,000 crore",JTPM Metal Traders Limited; the JTPM Metal Traders Limited,yes,,,,listed,2025-05-15,2026-09-28,24,not assessed
+KEI,KEI Industries Ltd.,preferential_issue,equity shares,"48,000",,,such fund,,,,,announced,2024-10-15,2024-10-15,4,not assessed
+KIMS,Krishna Institute of Medical Sciences Ltd.,rights_issue,warrants,"77,02,182",779.00,"₹15,000 million",be listed on the National Stock Exchange of India Limited,yes,,,,announced,2026-03-11,2026-06-19,4,not assessed
+KPIL,Kalpataru Projects International Ltd.,preferential_issue,equity shares,"83,26,394","1,201","₹1,000 Crores",,,,,,announced,2024-10-28,2025-02-13,7,not assessed
+KPITTECH,KPIT Technologies Ltd.,preferential_issue,,,,"₹2,880 crores",the promoters; mutual fund,yes,,,,meetings,2024-10-23,2024-11-19,5,not assessed
+KPITTECH,KPIT Technologies Ltd.,rights_issue,,,,"₹2,880 crores",,,,,,announced,2024-10-23,2024-10-23,4,not assessed
+KPRMILL,K.P.R. Mill Ltd.,rights_issue,,,,,,,,,,announced,2025-02-03,2025-02-03,1,not assessed
+KPRMILL,K.P.R. Mill Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-03,2025-02-03,1,not assessed
+KRN,KRN HEAT EXCHANGER AND REFRIGERATION Ltd.,rights_issue,equity shares,"1,17,87,830",200.00,₹235.76 crores,restrict any change in capital,,,,,announced,2024-11-25,2026-06-11,9,not assessed
+LATENTVIEW,Latent View Analytics Ltd.,rights_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+LATENTVIEW,Latent View Analytics Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+LAURUSLABS,Laurus Labs Ltd.,rights_issue,equity shares,"7,600",,,,,,,,announced,2024-04-25,2026-10-14,8,not assessed
+LAURUSLABS,Laurus Labs Ltd.,preferential_issue,,,,,,,,,,announced,2025-12-23,2025-12-23,1,not assessed
+MFSL,Max Financial Services Ltd.,rights_issue,equity shares,"35,00,00,000",,,,,,,,announced,2026-03-12,2026-03-12,4,not assessed
+MINDACORP,Minda Corporation Ltd.,preferential_issue,warrants,"76,50,000",550,₹500 crore,Minda Capital; raise fund,yes,,,,announced,2024-09-12,2026-09-24,16,not assessed
+MOTHERSON,Samvardhana Motherson International Ltd.,preferential_issue,,,,₹200 crore,,,,,,announced,2024-08-02,2026-05-20,3,not assessed
+MOTILALOFS,Motilal Oswal Financial Services Ltd.,preferential_issue,,,,₹500 Crore,,,,,,announced,2024-05-09,2024-05-09,1,not assessed
+MPHASIS,MphasiS Ltd.,preferential_issue,,,,,,,,,,announced,2025-04-15,2025-04-15,1,not assessed
+MSUMI,Motherson Sumi Wiring India Ltd.,rights_issue,,,,,,,,,,announced,2025-02-06,2025-05-29,2,not assessed
+MSUMI,Motherson Sumi Wiring India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+NAZARA,Nazara Technologies Ltd.,rights_issue,equity shares,"68,92,420",990.00,,the equity shareholders of Nazara Technologies Limited; Axana Estates LLP,,,,,announced,2025-01-20,2025-08-13,5,not assessed
+NEOGEN,NEOGEN CHEMICALS LTD.,preferential_issue,equity shares,"13,38,250","1,610",₹200 crores,provide limited,yes,,,,listed,2025-02-01,2026-09-26,30,not assessed
+NLCINDIA,NLC India Ltd.,preferential_issue,equity shares,"10,00,00,000",,"₹2,500 Crore",be submitted to SBICAP Trust; be submitted to IDBI Trust,,,,,record_date,2026-11-04,2026-11-04,3,not assessed
+NTPCGREEN,NTPC Green Energy Ltd.,rights_issue,equity shares,"92,63,29,669",,,,,,,,announced,2025-01-25,2025-01-25,3,not assessed
+NUVOCO,Nuvoco Vistas Corporation Ltd.,preferential_issue,,,,₹600 crores,,,,,,announced,2025-11-14,2026-03-20,2,not assessed
+NYKAA,FSN E-Commerce Ventures Ltd.,rights_issue,equity shares,"20,000,000",,₹200 million,,,,,,announced,2024-05-22,2024-05-22,1,not assessed
+OLAELEC,Ola Electric Mobility Ltd.,preferential_issue,,,,"₹1,500 crore",,,,,,announced,2025-05-22,2026-09-28,10,not assessed
+PAGEIND,Page Industries Ltd.,rights_issue,,,,,,,,,,announced,2025-02-05,2025-02-05,1,not assessed
+PCBL,PCBL Chemical Ltd.,preferential_issue,warrants,"1,60,00,000",280,₹700 crores,Rainbow Investments,yes,,,,meetings,2024-04-10,2025-12-12,12,not assessed
+PCBL,PCBL Chemical Ltd.,rights_issue,warrants,"1,36,00,000",280,₹700 crores,Rainbow Investments,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+PETRONET,Petronet LNG Ltd.,rights_issue,,,,₹360.94 crore,,,,,,announced,2025-02-10,2026-11-02,11,not assessed
+PETRONET,Petronet LNG Ltd.,preferential_issue,,,,₹360.94 crore,,,,,,announced,2025-02-10,2026-11-02,9,not assessed
+PFIZER,Pfizer Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-01,2025-02-01,1,not assessed
+PFOCUS,Prime Focus Ltd.,preferential_issue,equity shares,"20,52,190",120,₹400 Crore,Promoter; promoters,yes,,,,listed,2024-04-29,2026-09-30,35,not assessed
+PGEL,PG Electroplast Ltd.,rights_issue,equity shares,"13,71,990",,,,,,,,announced,2025-05-12,2025-05-12,1,not assessed
+PGEL,PG Electroplast Ltd.,preferential_issue,equity shares,"13,71,990",,,,,,,,announced,2025-05-12,2025-05-12,1,not assessed
+PINELABS,Pine Labs Ltd.,rights_issue,equity shares,"4,83,01,886",,,,,,,,announced,2026-01-23,2026-10-21,4,not assessed
+PPLPHARMA,Piramal Pharma Ltd.,rights_issue,equity shares,"12,96,29,630",81,₹32.27 Crores,,,,,,announced,2024-07-26,2024-07-26,3,not assessed
+PRESTIGE,Prestige Estates Projects Ltd.,rights_issue,equity shares,"2,98,68,578","1,674","₹5,000 crores",,,,,,announced,2024-06-21,2025-03-28,4,not assessed
+PRESTIGE,Prestige Estates Projects Ltd.,preferential_issue,,,,"₹5,000 crores",,,,,,announced,2024-06-21,2024-06-21,3,not assessed
+PRUDENT,Prudent Corporate Advisory Services Ltd.,rights_issue,equity shares,"1,73,74,593","2,632",,,,,,,meetings,2025-07-04,2026-10-28,3,not assessed
+PTCIL,PTC Industries Ltd.,preferential_issue,,,,₹2000 Crores,,,,,,announced,2026-06-27,2026-06-27,1,not assessed
+PVRINOX,PVR INOX Ltd.,preferential_issue,equity shares,"20,68,965",1450,,,,,,,announced,2026-09-02,2026-09-02,1,not assessed
+RADICO,Radico Khaitan Ltd,rights_issue,equity shares,"24,828",,,,,,,,announced,2025-01-29,2025-01-29,2,not assessed
+RADICO,Radico Khaitan Ltd,preferential_issue,equity shares,"24,828",,,,,,,,announced,2025-01-29,2025-01-29,2,not assessed
+RCF,Rashtriya Chemicals & Fertilizers Ltd.,rights_issue,equity shares,"9,66,66,466",,₹113.60 crore,the JV partners,,,,,record_date,2024-05-17,2026-11-12,19,not assessed
+RHIM,RHI MAGNESITA INDIA LTD.,rights_issue,equity shares,"98,00,000",",","₹6,184.75 lakhs",Qualified Institutional,,,,,announced,2025-02-11,2026-02-13,9,not assessed
+RHIM,RHI MAGNESITA INDIA LTD.,preferential_issue,equity shares,"98,00,000",",","₹6,184.75 lakhs",Qualified Institutional,,,,,announced,2025-02-11,2025-02-11,3,not assessed
+RTNINDIA,RattanIndia Enterprises Ltd.,rights_issue,,,76.20,"₹3,500 million",,,,,,announced,2024-11-12,2026-05-29,5,not assessed
+SAREGAMA,Saregama India Ltd,rights_issue,equity shares,"25,975",,,,,,,,announced,2024-11-25,2025-02-11,3,not assessed
+SBFC,SBFC Finance Ltd.,preferential_issue,,,"1,00,000",₹200 Crore,,,,,,announced,2025-03-20,2026-09-18,3,not assessed
+SBFC,SBFC Finance Ltd.,rights_issue,,,,,,,,,,announced,2025-03-20,2025-03-20,1,not assessed
+SBICARD,SBI Cards and Payment Services Ltd.,rights_issue,equity shares,"85,180",,,,,,,,announced,2025-01-28,2025-04-24,3,not assessed
+SBICARD,SBI Cards and Payment Services Ltd.,preferential_issue,equity shares,"85,180",,,,,,,,announced,2025-01-28,2025-04-24,3,not assessed
+SCHNEIDER,Schneider Electric Infrastructure Ltd.,rights_issue,,,,,,,,,,announced,2025-02-11,2025-08-07,5,not assessed
+SCHNEIDER,Schneider Electric Infrastructure Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-11,2025-08-07,4,not assessed
+SHILPAMED,Shilpa Medicare Ltd.,rights_issue,equity shares,"1,09,89,010",455.00,,Shilpa Medicare Limited,,,,,announced,2024-07-08,2025-02-10,7,not assessed
+SONACOMS,Sona BLW Precision Forgings Ltd.,preferential_issue,,,,"₹2,400 crores",be decided by the Fund,yes,,,,meetings,2024-07-24,2024-07-31,5,not assessed
+SPARC,Sun Pharma Advanced Research Company Ltd.,rights_issue,warrants,"3,85,10,000",155.80,,,yes,,,,announced,2026-01-14,2026-01-14,2,not assessed
+SPLPETRO,Supreme Petrochem Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-27,2025-01-27,1,not assessed
+SUMICHEM,Sumitomo Chemical India Ltd.,rights_issue,,,,₹598.97 million,,,,,,announced,2025-05-26,2026-10-26,9,not assessed
+SWANCORP,Swan Corp Ltd.,rights_issue,equity shares,"48,07,695",,,the share Capital,,,,,announced,2024-11-05,2025-02-14,2,not assessed
+SWANCORP,Swan Corp Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-14,2025-02-14,1,not assessed
+SWIGGY,Swiggy Ltd.,rights_issue,equity shares,"290,494,914",,₹1350 crores,,,,,,announced,2024-12-03,2025-02-21,3,not assessed
+SWIGGY,Swiggy Ltd.,preferential_issue,,,,"₹10,000 crores",,,,,,announced,2025-11-07,2025-11-07,1,not assessed
+SYRMA,Syrma SGS Technology Ltd.,preferential_issue,,,,,qualified Institutional,yes,,,,meetings,2025-09-26,2026-08-26,4,not assessed
+SYRMA,Syrma SGS Technology Ltd.,rights_issue,,,,,,,,,,announced,2025-08-12,2025-08-12,1,not assessed
+TATACAP,Tata Capital Ltd.,rights_issue,,,,,,,,,,announced,2026-06-17,2026-06-17,1,not assessed
+TATACOMM,Tata Communications Ltd.,preferential_issue,,,,"₹1,000 crores",,,,,,announced,2025-08-07,2025-08-07,1,not assessed
+TATACONSUM,Tata Consumer Products Ltd.,rights_issue,equity shares,"98,94,82,308",818,"₹2,997.77 crore",inform that the meeting of the Capital,,,,,record_date,2024-07-23,2025-11-03,10,not assessed
+TATAELXSI,Tata Elxsi Ltd.,preferential_issue,,,,,,,,,,announced,2025-06-18,2025-06-18,1,not assessed
+TATAINVEST,Tata Investment Corporation Ltd.,rights_issue,equity shares,50595796,,,,,,,,announced,2025-08-04,2025-10-16,3,not assessed
+TATAPOWER,Tata Power Co. Ltd.,rights_issue,,,,₹2000 crore,,,,,,announced,2025-12-12,2026-07-05,2,not assessed
+TATASTEEL,Tata Steel Ltd.,preferential_issue,equity shares,"18,73,493",427.01,"₹3,000 crore",,,,,,announced,2024-05-09,2025-02-14,3,not assessed
+TATASTEEL,Tata Steel Ltd.,rights_issue,,,,"₹3,000 crore",,,,,,announced,2025-02-14,2025-02-14,2,not assessed
+TDPOWERSYS,TD Power Systems Ltd.,preferential_issue,equity shares,"12,50,000",600,,Promoters,yes,,,,listed,2026-08-14,2026-10-07,8,not assessed
+TECHM,Tech Mahindra Ltd.,preferential_issue,equity shares,"16,50,000",,,Mahindra Knowledge Trust,,,,,announced,2025-12-26,2025-12-26,1,not assessed
+THERMAX,Thermax Ltd.,preferential_issue,,,,₹400 crores,,,,,,announced,2025-02-04,2025-02-04,3,not assessed
+TIMKEN,Timken India Ltd.,rights_issue,,,,,,,,,,announced,2025-02-05,2025-02-05,1,not assessed
+TIMKEN,Timken India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-05,2025-02-05,1,not assessed
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,preferential_issue,,,,"₹12,500 Crores",,,,,,announced,2026-01-05,2026-01-19,3,not assessed
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,rights_issue,,,,,,,,,,announced,2026-01-19,2026-01-19,1,not assessed
+TORNTPOWER,Torrent Power Ltd.,rights_issue,equity shares,"2,32,86,759",1503,,inform you that the Fund,,,,,announced,2024-12-06,2024-12-06,1,not assessed
+TORNTPOWER,Torrent Power Ltd.,preferential_issue,equity shares,"2,32,86,759",1503,,inform you that the Fund,,,,,announced,2024-12-06,2024-12-06,1,not assessed
+TRENT,Trent Ltd.,rights_issue,equity shares,"140,000",7506,,,,,,,announced,2024-08-09,2026-11-13,7,not assessed
+TTML,Tata Teleservices (Maharashtra) Ltd.,preferential_issue,,,,"₹2,018 Crores",Tata Teleservices Limited,,,,,announced,2024-07-24,2025-01-23,3,not assessed
+TVSMOTOR,TVS Motor Company Ltd.,preferential_issue,,,,,,,,,,announced,2026-07-20,2026-07-20,1,not assessed
+TVSMOTOR,TVS Motor Company Ltd.,rights_issue,,,,,,,,,,announced,2026-08-10,2026-08-10,1,not assessed
+UNOMINDA,UNO Minda Ltd.,preferential_issue,equity shares,"23,33,000",,,,,,,,meetings,2024-08-02,2025-07-14,2,not assessed
+URBANCO,Urban Company Ltd.,preferential_issue,equity shares,"11,561",,"₹2,500.00 crore",mutual fund,,,,,meetings,2026-10-16,2026-10-16,3,not assessed
+VBL,Varun Beverages Ltd.,preferential_issue,,,,,,,,,,announced,2024-10-09,2024-10-09,1,not assessed
+VIJAYA,Vijaya Diagnostic Centre Ltd.,preferential_issue,equity shares,"100,987",,,,,,,,announced,2026-11-03,2026-11-03,1,not assessed
+WELENT,Welspun Enterprises Ltd.,preferential_issue,warrants,"1,90,47,619",525,"₹1,000 Crore",bring in the balance amount shall be refund; further strengthen its capital,yes,,,,meetings,2024-09-05,2025-12-01,13,not assessed
+WOCKPHARMA,Wockhardt Ltd.,preferential_issue,equity shares,"14,300","1,105",₹48 cr,inform you that the Capital,,,,,meetings,2024-05-28,2026-05-04,9,not assessed
+WOCKPHARMA,Wockhardt Ltd.,rights_issue,,,,,,,,,,announced,2026-11-02,2026-11-02,1,not assessed
+YESBANK,Yes Bank Ltd.,rights_issue,equity shares,"127,98,80,909",14.82,₹148.71 Crores,CA Basque Investments,,,,,announced,2024-04-21,2025-06-04,5,not assessed
+YESBANK,Yes Bank Ltd.,preferential_issue,equity shares,"127,98,80,909",14.82,,CA Basque Investments,,,,,announced,2024-04-21,2026-06-29,5,not assessed
+ZAGGLE,Zaggle Prepaid Ocean Services Ltd.,preferential_issue,equity shares,"11,369,282",567,₹59.99 crores,,yes,,,,meetings,2024-10-30,2026-07-23,12,not assessed
+ZAGGLE,Zaggle Prepaid Ocean Services Ltd.,rights_issue,equity shares,"11,369,282",,,,,,,,announced,2024-10-30,2026-04-02,4,not assessed
+ZENTEC,Zen Technologies Ltd.,rights_issue,equity shares,"9,000",1601,"₹1,000.00 Crore",,,,,,announced,2025-02-15,2025-02-15,1,not assessed
+ZENTEC,Zen Technologies Ltd.,preferential_issue,equity shares,"9,000",1601,"₹1,000.00 Crore",,,,,,announced,2025-02-15,2025-02-15,1,not assessed
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,preferential_issue,equity shares,"18,967,584",,,Reconciliation of Share Capital,,,,,announced,2024-11-28,2025-06-06,4,not assessed
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,rights_issue,equity shares,"18,967,584",,,,,,,,announced,2025-06-06,2025-06-06,1,not assessed
+ZYDUSWELL,Zydus Wellness Ltd.,rights_issue,,,,,,,,,,announced,2025-02-04,2025-02-04,1,not assessed
+ZYDUSWELL,Zydus Wellness Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-04,2025-02-04,1,not assessed
+CERA,Cera Sanitaryware Ltd,rights_issue,equity shares,108333,12000,,BDAM Capital,yes,,,,record_date,2024-08-05,2025-02-11,8,not assessed
+GSFC,Gujarat State Fertilizers & Chemicals Ltd.,rights_issue,equity shares,"1,44,00,000",,₹28.85 crore,,,,,,announced,2025-03-07,2026-11-02,2,not assessed
+PFOCUS,Prime Focus Ltd.,rights_issue,equity shares,"85,00,00,000",90,,,,,,,announced,2024-11-14,2026-09-04,8,not assessed
+PICCADIL,Piccadily Agro Industries Ltd.,preferential_issue,warrants,672041,744,,Non-Promoters,yes,,,,listed,2025-07-17,2025-12-26,9,not assessed
+RATNAMANI,Ratnamani Metals & Tubes Ltd.,rights_issue,equity shares,"41,22,000",100,,restrict any change in capital,,,,,announced,2025-09-18,2025-09-18,2,not assessed
+SOUTHBANK,South Indian Bank Ltd.,rights_issue,equity shares,"52,31,85,254",,₹750.00 Crore,the promoters; mutual fund,yes,,,,listed,2024-04-02,2026-07-23,6,not assessed
+THYROCARE,Thyrocare Technologies Ltd.,rights_issue,equity shares,"1,75,00,000",,,,,,,,announced,2026-08-13,2026-08-17,2,not assessed
+TRIVENI,Triveni Engineering & Industries Ltd.,preferential_issue,equity shares,"10,47,54,338",,₹700 crore,,,,,,listed,2025-02-04,2026-10-09,6,not assessed
+3MINDIA,3M India Ltd.,rights_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+3MINDIA,3M India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+AARTIDRUGS,Aarti Drugs Ltd.,rights_issue,equity shares,"6,65,000",900,"₹5,985 lakhs",you as a registered Equity Shareholder of Aarti Drugs Limited,yes,,,,announced,2024-09-09,2026-03-07,4,not assessed
+AARTIDRUGS,Aarti Drugs Ltd.,preferential_issue,equity shares,"9,12,70,000",,,,,,,,announced,2025-01-29,2025-01-29,1,not assessed
+ACI,Archean Chemical Industries Ltd.,rights_issue,,,,,,,,,,announced,2025-02-07,2026-07-30,4,not assessed
+ACI,Archean Chemical Industries Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,2,not assessed
+ADVENZYMES,Advanced Enzyme Tech Ltd.,rights_issue,equity shares,"2,50,000",,,,,,,,announced,2026-06-06,2026-06-06,1,not assessed
+ADVENZYMES,Advanced Enzyme Tech Ltd.,preferential_issue,,,,,,,,,,announced,2026-08-11,2026-08-11,1,not assessed
+AEQUS,Aequs Ltd.,preferential_issue,warrants,"2,80,71,690",231.55,,the promoter,yes,,,,meetings,2026-09-25,2026-11-05,10,not assessed
+AETHER,Aether Industries Ltd.,preferential_issue,,,,,,,,,,announced,2024-07-19,2024-07-19,1,not assessed
+ALIVUS,Alivus Life Sciences Ltd.,rights_issue,,,,,,,,,,announced,2025-01-23,2025-01-23,1,not assessed
+ALIVUS,Alivus Life Sciences Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-23,2025-01-23,1,not assessed
+ALKYLAMINE,Alkyl Amines Chemicals Ltd.,rights_issue,,,,,,,,,,announced,2025-01-24,2025-01-24,1,not assessed
+ALKYLAMINE,Alkyl Amines Chemicals Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-24,2025-01-24,1,not assessed
+APOLLO,Apollo Micro Systems Ltd.,rights_issue,warrants,"2,45,00,700",108,₹1500 Crores,divide or consolidate or cancel the shares in the capital,yes,,,,announced,2024-07-23,2026-10-05,13,not assessed
+ARVIND,Arvind Ltd.,rights_issue,,,,,,,,,,announced,2025-01-29,2026-07-03,3,not assessed
+ARVINDFASN,Arvind Fashions Ltd.,preferential_issue,equity shares,"1,82,21,574",27.44,,,,,,,announced,2025-02-06,2026-10-01,2,not assessed
+ARVINDFASN,Arvind Fashions Ltd.,rights_issue,,,,,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+ASHAPURMIN,Ashapura Minechem Ltd.,preferential_issue,equity shares,"40,40,000",95.96,,Ashapura Industrial Finance Limited; the share capital; the promoter,yes,,,,announced,2024-08-13,2025-02-14,2,not assessed
+ASHAPURMIN,Ashapura Minechem Ltd.,rights_issue,,,,,,,,,,announced,2025-02-14,2025-02-14,1,not assessed
+ASHOKA,Ashoka Buildcon Ltd.,rights_issue,equity shares,"40,02,250",,₹4.02 Crore,the Company by Viva Infrastructure Limited,,,,,announced,2025-01-05,2026-04-29,4,not assessed
+ASKAUTOLTD,ASK Automotive Ltd.,rights_issue,equity shares,"5,10,000",,,,,,,,announced,2025-01-24,2025-01-24,1,not assessed
+ATLANTAELE,Atlanta Electricals Ltd.,preferential_issue,,,,,,,,,,announced,2026-11-06,2026-11-06,3,not assessed
+AVL,Aditya Vision Ltd.,rights_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+AVL,Aditya Vision Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+BALUFORGE,Balu Forge Industries Ltd.,preferential_issue,warrants,"23,50,000",183.60,₹2 lakhs,the promoter,yes,,,,meetings,2024-07-05,2026-11-14,22,not assessed
+BALUFORGE,Balu Forge Industries Ltd.,rights_issue,warrants,"23,50,000",183.60,,the Non-Promoter,yes,,,,meetings,2024-07-05,2026-08-13,12,not assessed
+BIRLACORPN,Birla Corporation Ltd.,rights_issue,,,,₹250 crore,,,,,,announced,2024-08-08,2026-10-31,5,not assessed
+BIRLACORPN,Birla Corporation Ltd.,preferential_issue,,,,₹250 crore,,,,,,announced,2024-08-08,2026-10-31,5,not assessed
+BLACKBUCK,Blackbuck Ltd.,rights_issue,equity shares,"50,00,000",,,National Stock Exchange of India Ltd,,,,,announced,2025-03-24,2026-10-29,8,not assessed
+BLACKBUCK,Blackbuck Ltd.,preferential_issue,equity shares,"177,406,667",,,,,,,,announced,2025-06-05,2025-11-19,3,not assessed
+BLUESTONE,BlueStone Jewellery and Lifestyle Ltd.,rights_issue,equity shares,"35,13,672",,,,,,,,announced,2026-09-29,2026-09-29,1,not assessed
+BLUESTONE,BlueStone Jewellery and Lifestyle Ltd.,preferential_issue,equity shares,"35,13,672",,,,,,,,announced,2026-09-29,2026-09-29,1,not assessed
+BORORENEW,Borosil Renewables Ltd.,rights_issue,equity shares,"18,86,793",530,₹450 crores,the Promoter,yes,,,,announced,2024-06-07,2026-03-31,8,not assessed
+CAMPUS,Campus Activewear Ltd.,rights_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+CAMPUS,Campus Activewear Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+CERA,Cera Sanitaryware Ltd,preferential_issue,equity shares,"1,08,333","12,000",,,yes,,,,announced,2024-08-07,2025-02-11,3,not assessed
+CUPID,Cupid Ltd.,rights_issue,equity shares,"21,00,000",,,,,,,,announced,2025-02-14,2026-09-28,16,not assessed
+DBREALTY,VALOR ESTATE Ltd.,preferential_issue,,,201.63,,,yes,,,,announced,2025-12-08,2025-12-08,1,not assessed
+DIACABS,Diamond Power Infrastructure Ltd.,preferential_issue,equity shares,"7,11,00,000",227,"₹1,61,397.00 lakhs",,,,,,announced,2024-10-15,2026-07-29,8,not assessed
+DYNAMATECH,Dynamatic Technologies Ltd.,rights_issue,equity shares,"25,000",,,,,,,,announced,2026-03-27,2026-03-27,1,not assessed
+EDELWEISS,Edelweiss Financial Services Ltd.,rights_issue,equity shares,"5,03,97,600",,,,,,,,announced,2024-07-20,2024-07-20,1,not assessed
+ENTERO,Entero Healthcare Solutions Ltd.,rights_issue,equity shares,"12,00,000",804,₹8 Crores,,,,,,announced,2025-03-21,2026-05-25,9,not assessed
+EPL,EPL Ltd.,rights_issue,equity shares,"46,048",,₹42 million,,,,,,announced,2024-11-12,2025-02-11,2,not assessed
+EPL,EPL Ltd.,preferential_issue,equity shares,"170,898",,₹42 million,,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+EQUITASBNK,Equitas Small Finance Bank Ltd.,rights_issue,,,,₹500 crore,,,,,,announced,2024-12-05,2026-09-25,7,not assessed
+EQUITASBNK,Equitas Small Finance Bank Ltd.,preferential_issue,,,,₹500 crore,,,,,,announced,2024-12-05,2026-09-25,4,not assessed
+ETHOSLTD,Ethos Ltd.,preferential_issue,,,,,promoters,yes,,,,announced,2025-06-03,2025-08-13,4,not assessed
+FIEMIND,Fiem Industries Ltd,rights_issue,equity shares,"1,31,59,830",,,,,,,,announced,2025-02-12,2025-02-12,1,not assessed
+FIEMIND,Fiem Industries Ltd,preferential_issue,equity shares,"1,31,59,830",,,,,,,,announced,2025-02-12,2025-02-12,1,not assessed
+GOKEX,Gokaldas Exports Ltd.,preferential_issue,equity shares,"27,31,266",775,"₹23,003 lakhs",,,,,,announced,2024-05-26,2025-02-10,5,not assessed
+GOKULAGRO,Gokul Agro Resources Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+GREAVESCOT,Greaves Cotton Ltd.,preferential_issue,,,,,,,,,,announced,2024-05-08,2024-05-08,1,not assessed
+GRWRHITECH,Garware Hi-Tech Films Ltd.,rights_issue,,,,,,,,,,announced,2025-02-07,2025-08-08,3,not assessed
+GRWRHITECH,Garware Hi-Tech Films Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-07,2025-08-08,3,not assessed
+GSFC,Gujarat State Fertilizers & Chemicals Ltd.,preferential_issue,equity shares,"19,82,378",2271,,Gujarat State Fertili zers & chemicals Limited,yes,,,,announced,2025-03-29,2025-04-25,2,not assessed
+GVT&D,GE Vernova T&D India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-05,2025-02-05,1,not assessed
+HEGAM,HEG Advanced Materials Ltd.,preferential_issue,equity shares,"9,90,000",,,,,,,,announced,2025-05-19,2025-05-19,1,not assessed
+HERITGFOOD,Heritage Foods Ltd.,preferential_issue,,,,,,,,,,announced,2025-05-16,2025-05-16,1,not assessed
+HGINFRA,H.G. Infra Engineering Ltd.,rights_issue,equity shares,"28,40,000",875,,,,,,,announced,2024-12-23,2026-08-06,21,not assessed
+ICIL,Indo Count Industries Ltd.,rights_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,1,not assessed
+INDIGOPNTS,Indigo Paints Ltd.,rights_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+INDIGOPNTS,Indigo Paints Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+J&KBANK,Jammu & Kashmir Bank Ltd.,rights_issue,,,,₹750 crore,promoters; Mutual Fund,yes,,,,meetings,2025-01-02,2026-08-29,3,not assessed
+J&KBANK,Jammu & Kashmir Bank Ltd.,preferential_issue,,,,,,,,,,announced,2026-01-20,2026-05-05,2,not assessed
+JAIBALAJI,JAI BALAJI INDUSTRIES Ltd.,preferential_issue,warrants,"88,00,000",45,,,yes,,,,nclt_sanction,2024-04-10,2024-07-29,5,not assessed
+JAIBALAJI,JAI BALAJI INDUSTRIES Ltd.,rights_issue,warrants,"88,00,000",45,,,yes,,,,announced,2024-04-10,2024-07-11,3,not assessed
+JAMNAAUTO,Jamna Auto Industries Ltd.,rights_issue,,,,,,,,,,announced,2025-02-14,2025-02-14,1,not assessed
+JAMNAAUTO,Jamna Auto Industries Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-14,2025-02-14,1,not assessed
+JAYNECOIND,Jayaswal Neco Industries Ltd.,preferential_issue,warrants,"2,24,39,134",89.13,,the promoter,yes,,,,nclt_sanction,2025-01-23,2026-10-01,7,not assessed
+JAYNECOIND,Jayaswal Neco Industries Ltd.,rights_issue,,,,,,,,,,nclt_sanction,2025-01-23,2025-12-12,3,not assessed
+JKLAKSHMI,JK Lakshmi Cement Ltd.,rights_issue,,,,,,,,,,announced,2024-05-23,2025-05-27,6,not assessed
+JSLL,Jeena Sikho Lifecare Ltd.,preferential_issue,warrants,"18,00,000",234,₹42.12 crores,,,,,,announced,2025-10-13,2026-09-30,3,not assessed
+JSLL,Jeena Sikho Lifecare Ltd.,rights_issue,equity shares,"5,000",,,,,,,,announced,2026-09-29,2026-09-30,2,not assessed
+JUSTDIAL,Justdial Ltd.,preferential_issue,,,,,fund capital,,,,,announced,2025-01-11,2025-01-11,1,not assessed
+KIRLOSBROS,Kirloskar Brothers Ltd.,rights_issue,,,,,,,,,,announced,2025-02-12,2025-02-12,2,not assessed
+KPIGREEN,KPI Green Energy Ltd.,preferential_issue,equity shares,"26,00,00,000",470.30,,promoter,yes,,,,meetings,2024-11-14,2026-02-18,10,not assessed
+KPIGREEN,KPI Green Energy Ltd.,rights_issue,equity shares,"26,00,00,000",,,,,,,,announced,2024-11-14,2024-11-14,1,not assessed
+KRN,KRN HEAT EXCHANGER AND REFRIGERATION Ltd.,preferential_issue,equity shares,"33,01,886","1,114.05",₹500 Crore,,,,,,announced,2026-03-13,2026-06-01,3,not assessed
+KSB,KSB Ltd.,rights_issue,equity shares,"17,40,39,220",,,,,,,,announced,2025-02-27,2025-02-27,1,not assessed
+KSB,KSB Ltd.,preferential_issue,equity shares,"17,40,39,220",,,,,,,,announced,2025-02-27,2025-02-27,1,not assessed
+KTKBANK,Karnataka Bank Ltd.,rights_issue,equity shares,"86,000",,,the provisions of Investor Education and Protection Fund,,,,,announced,2026-06-04,2026-06-04,1,not assessed
+LOTUSDEV,SRI LOTUS DEVELOPERS AND REALTY Ltd.,rights_issue,,,,,,,,,,announced,2026-07-03,2026-07-04,2,not assessed
+LUMAXTECH,Lumax Auto Technologies Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-13,2025-02-13,1,not assessed
+LXCHEM,Laxmi Organic Industries Ltd.,preferential_issue,,,,,,,,,,announced,2026-10-15,2026-10-15,1,not assessed
+M&M,Mahindra & Mahindra Ltd.,preferential_issue,equity shares,"10,53,877",,,,,,,,announced,2025-11-28,2026-04-09,2,not assessed
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,preferential_issue,,,,₹500 Crores,BSE Limited,,,,,announced,2024-05-28,2026-04-23,4,not assessed
+MAHABANK,Bank of Maharashtra,preferential_issue,,,,₹7500 crore,,,,,,record_date,2024-04-26,2025-06-30,4,not assessed
+MAHSCOOTER,Maharashtra Scooters Ltd.,rights_issue,,,,,,,,,,announced,2025-01-15,2025-01-15,1,not assessed
+MAHSCOOTER,Maharashtra Scooters Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-15,2025-01-15,1,not assessed
+MANORAMA,Manorama Industries Ltd.,rights_issue,equity shares,"34,01,360",,,,,,,,announced,2026-03-12,2026-07-02,2,not assessed
+MANORAMA,Manorama Industries Ltd.,preferential_issue,equity shares,"34,01,360",,,,,,,,announced,2026-03-12,2026-07-02,2,not assessed
+MASTEK,Mastek Ltd.,rights_issue,equity shares,"3,08,69,260",,,,,,,,announced,2024-09-09,2024-09-10,2,not assessed
+MASTEK,Mastek Ltd.,preferential_issue,equity shares,"3,08,69,260",,,,,,,,announced,2024-09-09,2024-09-10,2,not assessed
+MEDPLUS,Medplus Health Services Ltd.,rights_issue,equity shares,"11,95,47,156",,,,,,,,announced,2024-11-25,2024-11-25,1,not assessed
+MEDPLUS,Medplus Health Services Ltd.,preferential_issue,equity shares,"11,95,47,156",,,,,,,,announced,2024-11-25,2024-11-25,1,not assessed
+METROPOLIS,Metropolis Healthcare Ltd.,preferential_issue,equity shares,"4,87,39,331","2,140.5403",,the acquisition of the entire issued and paid -up share capital; the National Stock Exchange of India Limited,yes,,,,meetings,2024-12-09,2025-03-22,6,not assessed
+MOIL,MOIL Ltd.,rights_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,2,not assessed
+MOIL,MOIL Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-11,2025-02-11,2,not assessed
+OSWALPUMPS,Oswal Pumps Ltd.,rights_issue,equity shares,"5,23,72,121",28,"₹3,037.58 million",,,,,,announced,2025-07-22,2026-10-10,3,not assessed
+PARAS,Paras Defence and Space Technologies Ltd.,preferential_issue,,,,,,,,,,announced,2025-05-20,2025-05-20,1,not assessed
+PGIL,Pearl Global Industries Ltd.,rights_issue,equity shares,"4,59,35,167",,,,,,,,announced,2025-03-21,2025-03-21,1,not assessed
+PNCINFRA,PNC Infratech Ltd.,preferential_issue,,,,,,,,,,meetings,2025-09-29,2025-09-29,2,not assessed
+PNGJL,P N Gadgil Jewellers Ltd.,rights_issue,,,,"₹10,000 Million",,,,,,announced,2025-07-03,2025-07-03,2,not assessed
+PNGJL,P N Gadgil Jewellers Ltd.,preferential_issue,,,,"₹10,000 Million",,,,,,announced,2025-07-03,2025-07-03,2,not assessed
+POWERMECH,Power Mech Projects Ltd.,rights_issue,,,,₹350 crore,,,,,,announced,2024-11-11,2025-02-11,5,not assessed
+POWERMECH,Power Mech Projects Ltd.,preferential_issue,,,,,,,,,,announced,2024-09-25,2025-02-10,3,not assessed
+PRAJIND,Praj Industries Ltd.,rights_issue,equity shares,"13,088",,,,yes,,,,announced,2025-01-30,2025-12-10,2,not assessed
+PRAJIND,Praj Industries Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+PRICOLLTD,Pricol Ltd.,rights_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+PRICOLLTD,Pricol Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+PRIVISCL,Privi Speciality Chemicals Ltd.,preferential_issue,,,14.00,₹1000 Crores,mutual fund; promoters; the qualified institutional,yes,,,,meetings,2024-05-02,2026-03-26,3,not assessed
+PRUDENT,Prudent Corporate Advisory Services Ltd.,preferential_issue,equity shares,612400,,,,,,,,announced,2024-08-20,2024-08-20,1,not assessed
+RAIN,Rain Industries Ltd,rights_issue,equity shares,"14,000",,,,,,,,announced,2025-02-25,2026-03-28,14,not assessed
+RAIN,Rain Industries Ltd,preferential_issue,,,,,,,,,,announced,2025-02-25,2025-05-08,3,not assessed
+RALLIS,Rallis India Ltd.,rights_issue,,,,,,,,,,announced,2025-01-17,2025-01-17,1,not assessed
+RALLIS,Rallis India Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-17,2025-01-17,1,not assessed
+RATNAMANI,Ratnamani Metals & Tubes Ltd.,preferential_issue,equity shares,"41,22,000",100,,restrict any change in capital,,,,,announced,2025-09-18,2025-09-18,2,not assessed
+RELAXO,Relaxo Footwears Ltd.,rights_issue,,,,,,,,,,announced,2025-01-31,2025-01-31,1,not assessed
+RELAXO,Relaxo Footwears Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-31,2025-01-31,1,not assessed
+SAFARI,Safari Industries (India) Ltd.,preferential_issue,equity shares,"11,300",,,,,,,,announced,2024-05-14,2024-05-14,1,not assessed
+SANDUMA,Sandur Manganese & Iron Ores Ltd.,rights_issue,equity shares,"19,836",,,be listed on BSE Limited,,,,,announced,2024-09-06,2025-02-14,6,not assessed
+SANDUMA,Sandur Manganese & Iron Ores Ltd.,preferential_issue,equity shares,"19,836",,,,,,,,announced,2024-09-16,2025-02-14,3,not assessed
+SANOFI,Sanofi India Ltd.,rights_issue,,,,,,,,,,announced,2025-02-28,2025-02-28,1,not assessed
+SANOFI,Sanofi India Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-28,2025-02-28,1,not assessed
+SAPPHIRE,Sapphire Foods India Ltd.,rights_issue,,,,,,,,,,effective,2025-02-06,2025-02-06,2,not assessed
+SAPPHIRE,Sapphire Foods India Ltd.,preferential_issue,,,,,,,,,,effective,2025-02-06,2025-02-06,2,not assessed
+SENCO,Senco Gold Ltd.,preferential_issue,equity shares,"40,80,000",,,,,,,,announced,2024-10-04,2024-12-13,3,not assessed
+SFL,Sheela Foam Ltd.,rights_issue,warrants,"56,00,995",,₹107 Crores,,,,,,announced,2024-10-08,2024-10-29,4,not assessed
+SHAKTIPUMP,Shakti Pumps (India) Ltd.,preferential_issue,equity shares,"31,87,365",918,,,,,,,announced,2024-09-03,2025-07-05,4,not assessed
+SHAKTIPUMP,Shakti Pumps (India) Ltd.,rights_issue,,,,,,,,,,announced,2025-01-07,2025-01-07,1,not assessed
+SHILPAMED,Shilpa Medicare Ltd.,preferential_issue,equity shares,"1,09,89,010",455.00,,Shilpa Medicare Limited,,,,,announced,2025-02-10,2025-02-10,4,not assessed
+SHRIPISTON,SPR Auto Technologies Ltd.,preferential_issue,,,,"₹10,000 Million",equity share capital,,,,,record_date,2025-02-03,2026-08-17,5,not assessed
+SHRIPISTON,SPR Auto Technologies Ltd.,rights_issue,equity shares,"4,63,86,272","4,280.00","₹10,000 Million",,,,,,announced,2026-05-11,2026-08-20,5,not assessed
+SMLMAH,SML Mahindra Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-07,2025-02-07,1,not assessed
+STARCEMENT,Star Cement Ltd.,preferential_issue,,,,,,,,,,announced,2025-10-14,2025-10-14,2,not assessed
+SUNTECK,Sunteck Realty Ltd.,rights_issue,equity shares,"10,000",425,"₹2,250 Crores",Promoter,yes,,,,announced,2024-05-30,2026-07-21,6,not assessed
+SUPRIYA,Supriya Lifescience Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-24,2025-01-24,1,not assessed
+TARC,TARC Ltd.,preferential_issue,,,,₹2.21 lakhs,,,,,,announced,2024-11-20,2025-03-18,5,not assessed
+TARC,TARC Ltd.,rights_issue,,,,₹2.21 lakhs,,,,,,announced,2025-02-06,2025-02-06,1,not assessed
+TIMETECHNO,Time Technoplast Ltd.,rights_issue,,,,,,,,,,announced,2024-10-25,2024-10-25,1,not assessed
+TIMETECHNO,Time Technoplast Ltd.,preferential_issue,,,,,,,,,,announced,2024-10-25,2024-10-25,1,not assessed
+TIPSMUSIC,Tips Music Ltd.,preferential_issue,,,,,,,,,,announced,2025-01-22,2025-01-22,1,not assessed
+TSFINV,TSF Investments Ltd.,rights_issue,,,,,rights issue of Sundaram Composite Structures Private Limited,,,,,announced,2024-05-21,2024-05-21,1,not assessed
+TVSSCS,TVS Supply Chain Solutions Ltd.,rights_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+TVSSCS,TVS Supply Chain Solutions Ltd.,preferential_issue,,,,,,,,,,announced,2025-02-10,2025-02-10,1,not assessed
+UJJIVANSFB,Ujjivan Small Finance Bank Ltd.,preferential_issue,equity shares,"3,84,73,561",64.73,₹2000 Crore,strengthen the capital,yes,,,,meetings,2026-05-08,2026-11-13,7,not assessed
+UJJIVANSFB,Ujjivan Small Finance Bank Ltd.,rights_issue,equity shares,"3,84,73,561",64.73,,,,,,,announced,2026-10-16,2026-10-16,1,not assessed
+V2RETAIL,V2 Retail Ltd.,rights_issue,,,,,,,,,,announced,2025-07-30,2025-07-30,1,not assessed
+V2RETAIL,V2 Retail Ltd.,preferential_issue,,,,,,,,,,announced,2025-07-30,2025-07-30,1,not assessed
+VARROC,Varroc Engineering Ltd.,rights_issue,,,,₹629 million,,,,,,nclt_sanction,2024-10-01,2026-11-04,3,not assessed
+VARROC,Varroc Engineering Ltd.,preferential_issue,,,,₹629 million,,,,,,nclt_sanction,2025-02-12,2025-02-12,1,not assessed
+VIYASH,Viyash Scientific Ltd.,rights_issue,equity shares,"10,30,775",101,,,yes,,,,effective,2026-08-11,2026-11-13,3,not assessed
+VIYASH,Viyash Scientific Ltd.,preferential_issue,equity shares,"25,41,12,649",,,,,,,,announced,2025-12-16,2025-12-16,2,not assessed
+VMART,V-Mart Retail Ltd.,preferential_issue,,,,,,,,,,announced,2025-05-02,2025-05-02,4,not assessed
+VOLTAMP,Voltamp Transformers Ltd,rights_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+VOLTAMP,Voltamp Transformers Ltd,preferential_issue,,,,,,,,,,announced,2025-01-30,2025-01-30,1,not assessed
+WEBELSOLAR,Websol Energy System Ltd.,preferential_issue,warrants,"12,10,000",530,₹64.13 Crore,the promoter,yes,,,,meetings,2024-04-11,2026-03-13,9,not assessed
+WEBELSOLAR,Websol Energy System Ltd.,rights_issue,warrants,"12,10,000",530,,,yes,,,,announced,2024-04-12,2024-04-12,1,not assessed
+DOMS,DOMS Industries Ltd.,rights_issue,equity shares,"5,10,000",,,meet its working capital,,,,,record_date,2024-08-12,2024-08-12,6,not assessed
+PRIVISCL,Privi Speciality Chemicals Ltd.,rights_issue,,,14.00,₹1000 Crores,mutual fund; promoters; the qualified institutional,yes,,,,record_date,2024-05-02,2024-08-13,8,not assessed
+SHAREINDIA,Share India Securities Ltd.,preferential_issue,equity shares,"20,288",,₹30 Crores,the share capital,,,,,record_date,2024-04-05,2026-10-26,27,not assessed
+BDL,Bharat Dynamics Ltd.,rights_issue,,,,,,,,,,record_date,2025-02-06,2025-02-07,3,not assessed
+BDL,Bharat Dynamics Ltd.,preferential_issue,,,,,,,,,,record_date,2025-02-06,2025-02-07,3,not assessed
+HCG,Healthcare Global Enterprises Ltd.,preferential_issue,equity shares,"82,94,566",512,,,,,,,record_date,2026-02-17,2026-03-27,5,not assessed
+MOTHERSON,Samvardhana Motherson International Ltd.,rights_issue,,,"1,500",,,,,,,listed,2024-08-02,2026-05-20,7,not assessed
+QPOWER,QUALITY POWER ELECTRICAL EQUIPMENTS Ltd.,preferential_issue,equity shares,"10,17,123","1,460.00",₹272.34 Crores,the shareholders of Winwin Speciality Insulators Limited,yes,,,,record_date,2026-08-09,2026-10-31,13,not assessed
+RCF,Rashtriya Chemicals & Fertilizers Ltd.,preferential_issue,equity shares,"2,50,000",,₹395.00 Crore,the JV partners,,,,,record_date,2025-08-12,2026-11-12,16,not assessed
+TRANSRAILL,Transrail Lighting Ltd.,preferential_issue,equity shares,"15,300",,₹600 Crore,,,,,,record_date,2026-07-28,2026-07-28,2,not assessed
+ELECTCAST,Electrosteel Castings Ltd.,preferential_issue,warrants,23579344,,,the promoters,yes,,,,listed,2024-08-07,2024-09-05,3,not assessed
+SOUTHBANK,South Indian Bank Ltd.,preferential_issue,equity shares,"2,61,80,66,063",,₹750.00 Crore,,,,,,record_date,2024-07-30,2026-07-23,4,not assessed

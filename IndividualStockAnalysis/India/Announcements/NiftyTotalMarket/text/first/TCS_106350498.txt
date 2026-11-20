@@ -1,0 +1,116 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 24/2025-26 
+ 
+August 25, 2025  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ TCS enables  ICICI Lombard 
+to Deliver a Fully Automated Multi -Region Disaster Recovery on AWS  Cloud ” which 
+will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 2 
+ 
+TCS enables  ICICI Lombard to Deliver a Fully Automated Multi -
+Region Disaster Recovery on AWS  Cloud  
+ICICI Lombard has achieved a fully automated and seamless AWS multi -region disaster recovery switchover 
+leveraging cloud native automation solution enabled  by TCS.   
+ 
+MUMBAI , August  25, 2025: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS)  a global leader in IT 
+services, consulting, and business solutions,  has successfully enabled  ICICI Lombard to achieve fully 
+automated AWS multi -region Disaster Recovery (DR) switchover . This establishes ICICI Lombard  as one of the  
+first insurance companies in India to achieve fully automated  multi -region resilience on the Amazon Web 
+Services (AWS) Cloud.  
+The innovative DR solution —designed to ensure business continuity in the face of unexpected disruptions —
+leverages automation -first, infrastructure -as-code approach. It leverages AWS -native technologies to enable 
+intelligent, automated failover for key syst ems with minimal downtime or manual effort. With TCS as its 
+growth partner, ICICI Lombard has been operating on AWS Cloud since 2021. To strengthen business 
+continuity and achieve geographical redundancy, TCS helped the insurer establish a robust, scalable  and fully 
+automated DR setup.  
+Girish Nayak, Chief  – Technology and Health  (Underwriting & Claims ), ICICI Lombard, said,  “With resilience 
+at the core of our digital operating model, and TCS as our strategic  technology  partner, we’ve been able to 
+transform our disaster recover y capabilities into a truly agile, automated and cloud -native setup. This not only 
+enhances our readiness for unexpected infrastructure disruptions but also reinforces our commitment to 
+uninterrupted service to our customers.  I would like to thank and congratulate TCS for enabling  this 
+automated disaster recovery solution by leveraging their cloud experti se in the insurance domain .” 
+TCS brought on board its deep domain expertise in the insurance industry and used its contextual knowledge  
+of ICICI Lombard’s systems  to deliver a best -in-class DR solution. The automation solution was built using 
+highly  performant  data driven  serverless architecture designed  for large scale  orchestration . This 
+implementation not only improves operational resilience and reduces recovery time but  also sets a new 
+industry benchmark for automated disaster recovery in the BFSI sector.  
+Ujjwal Mathur,  President & Country Head – India  Business, TCS , said, “This engagement highlights our 
+commitment to helping clients achieve next -generation resilience through cloud -native innovation. This 
+intelligent, automation -led DR solution sets a new benchmark for BFSI organizations by enabling seamless, 
+fast and scalable disaster recovery with zero touch. We are proud to partner with ICICI Lombard to reimagine 
+infrastructure resilience in this digita l era.”  
+TCS has been ICICI Lombard ’s strategic IT partner since 200 6 and has been manag ing their datacenter 
+operations since 2013 . TCS ha s been instrumental in seamlessly migrating all the ICICI Lombard applications 
+to public cloud  in 2021 and has since been supporting the ICICI Lombard cloud environment. It is now 
+modernizing the insurer’s  systems  – Project Orion – with TCS BaNCS ™ Insurance  being deployed as part of 
+the program. TCS is a leading player in the BFSI sector, partnering with top banks, leading insurance firms, 
+prominent capital market entities, major investment banks, and wealth management companies globally. 
+TCS BaNCS ™ for Insurance is a comprehensive offering suite, supporting a range of insurance products and 
+functions, including customer management, product definition, plan management, policy administration, 
+claims management, insur ance accounting and reinsurance, along with a digital suite that can be tailored 
+based on persona, among several options.  
+ 
+ 
+Page 2 of 2 
+ 
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner 
+of choice for industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest 
+standards of innovation, engineering excellence and customer service.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce of  over  6,00,000  
+employee s in 55 countries and 202 service delivery centres  across the world, the company has been 
+recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, 
+the company has built long term partnerships with its clients – helping them emerge as perpetua lly adaptive 
+enterprises. Many of these relationships have endured into decades and navigated every technology cycle, 
+from mainframes in the 1970s to Artificial Intelligence today.  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025. For 
+more information, visit  www.tcs.com  
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS media contacts:  
+Corporate Communications & 
+India  Email: corporate.communications@tcs.com  
+Email:  saxena.kritika@tcs.com | Phone: +91 22 6778 9999  
+Email:  santosh.castelino@tcs.com  | Phone: +91 22 67789098  
+ 
+ 
+### 

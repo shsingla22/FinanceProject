@@ -1,0 +1,153 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 20/2026-27 
+ 
+July 15, 2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS Launches Industrial AI 
+Solutions Lab in Bengaluru Powered by NVIDIA ” which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+TCS Launches Industrial AI Solutions Lab in Bengaluru Powered 
+by NVIDIA  
+New Physical AI facility at TCS Global Axis Campus will accelerate AI -led mobility and industrial solutions 
+using NVIDIA AI Infrastructure  
+BENGALURU | MUMBAI, Ju ly 15, 2026:  Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global 
+leader in IT services, consulting, and business solutions, today announced the launch of the TCS Autonomous 
+Engineering Lab Powered by NVIDIA at its Global Axis campus in Bengaluru.  The new facility will serve as a 
+physical AI hub to accelerate the development and real -world deployment of AI -led solutions across mobility 
+and manufacturing using NVIDIA AI Infrastructure.  
+The lab, which is the first of its kind, will help enterprises move from pilots to production scale deployment 
+to design, test and validate Industrial AI solutions.  It will enable customers to leverage TCS’ domain expertise 
+and accelerators to rapidly pro totype and simulate use cases across a wide range of industries before 
+deploying them in real -world mobility, manufacturing and industrial operations.  
+Sreenivasa Chakravarti, Global Head & Vice President of Industrial Autonomy and Engineering, TCS, said, 
+“Bengaluru has long been the engine of India’s economy, and this lab harnesses that energy to reimagine 
+what’s possible with AI. By combining NVIDIA’s powerful AI platform with TCS’ Industrial Autonomy & 
+Engineering capabilities, we are creating a space wh ere ideas move rapidly from concept to real -world impact, 
+shaping the future of mobility and industrial systems. As we move forward into our next phase and deepen 
+our collaboration, we will build on this momentum into scaled deployment and enterprise -wide 
+transformation for more customers, with confidence and speed.”  
+Alvin DaCosta, Vice President, AI Consulting Partners organization, NVIDIA,  said, “As enterprises push to 
+operationalize AI across physical operations, they require specialized infrastructure to bridge the gap between 
+simulation and real -world deployment. Through this collaboration, the TCS Industrial Autonomy & 
+Engineering Lab leverage s the full stack NVIDIA AI platform to offer customers a scalable pathway for 
+validating and implementing their next -generation industrial solutions.”  
+The lab will support enterprises in reimagining products, operations and business models by embedding 
+intelligence across the engineering and manufacturing lifecycle. Through TCS’ Industrial Autonomy & 
+Engineering (IA&E) capabilities, customers will be abl e to integrate AI into products, plants and operational 
+systems to enable intelligent, software -defined, and autonomous enterprises.   
+The lab features a comprehensive suite of solutions across mobility and industrial domains, including:  
+• TCS DriveSphere ™ 
+A connected, AI -led mobility platform enabling software -defined vehicles through digital twins, 
+real-time data ingestion, predictive analytics, and over -the-air lifecycle management.  
+ 
+● AI-led Mobility & Autonomous Systems Solutions  
+Built on full stack NVIDIA AI infrastructure, these solutions enable advanced driver assistance 
+systems (ADAS), autonomous driving capabilities, perception systems, and intelligent decision -
+making.  
+ 
+Page 2 of 3 
+ 
+● Physical AI & Smart Manufacturing Use Cases  
+AI embedded into machines, plants, and industrial systems to enable predictive maintenance, 
+automated quality inspection, and real -time process optimization.  
+● Agentic AI & Vision AI Solutions  
+Advanced AI systems capable of contextual decision -making across engineering, manufacturing, 
+and service operations —enabling higher levels of autonomy.  
+● Digital Twin & Simulation Environments  
+High -fidelity simulations, supported by blueprints of Industrial Autonomy for vehicles, factories, 
+and operations powered by NVIDIA technologies to accelerate design validation, scenario testing, 
+and lifecycle optimization.  
+The lab will also help teams move from idea to execution faster by enabling rapid prototyping and validation. 
+It provides a controlled environment for testing solutions before rollout , reducing deployment risks and 
+improving time -to-market. Through this lab, enterprises will also gain access to NVIDIA’s ecosystem and 
+computing capabilities.  
+ 
+This initiative builds on the longstanding collaboration between TCS and NVIDIA across AI, accelerated 
+computing, and industry -specific solutions. The new lab represents a significant expansion of this 
+collaboration moving beyond technology integration to deeper capability building, client engagement, and 
+solution development.  
+ 
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service . 
+It has set an aspiration to become the world's largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 56 
+countries and 194 service delivery centers  across the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long term partnerships with its clients – helping them emerge as perpetually adaptiv e enterprises. Many 
+of these relationships have endured into decades and navigated every technology cycle, from mainframes in 
+the 1970s to artificial intelligence today.  
+TCS sponsors 13 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon, Tata Mumbai Marathon, and TCS Sydney Marathon with a focus 
+on promoting health, sustainability, and community emp owerment.  
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2026.   
+ 
+Page 3 of 3 
+ 
+For more information, visit www.tcs.com  
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS Media Contacts:  
+  
+ 
+Corporate Communication & India   Email:  corporate.communications@tcs.com  
+Email:  santosh.castelino@tcs.com | Phone: 
++91 22 6778 9999  
+ 
+Asia Pacific   Email: y.tham@tcs.com  | Phone: +65 9270 
+4560  
+Australia and New Zealand   Email:  Francesca.Newby@tcs.com   |  +61 
+414 902 440  
+Canada    Email:  tiffany.fisher@tcs.com  | Phone: +1 
+416 456 7650   
+Europe   Email:  roland.bagen@tcs.com  | Phone: +46 
+70 3178024  
+Middle East & Africa   Email:  pragya.priyadarshini@tcs.com 
+| Phone: +971 528656700   
+Japan   Email:  douglas.foote@tcs.com  | Phone: +81 
+80-2115 -0989   
+Latin America   Email: alma.leal@tcs.com  | Phone: 
++525579808714  
+UK priyanka.mehta@tcs.com  
++44 7921493382  
+USA   Email:  andrew.corcione@tcs.com  | Phone: 
++1 646 617 8221  
+ 

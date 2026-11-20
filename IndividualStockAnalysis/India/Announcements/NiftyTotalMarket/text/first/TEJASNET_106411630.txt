@@ -1,0 +1,463 @@
+October  17, 202 5 
+The Secretary  
+National Stock Exchange of India Ltd 
+Exchange Plaza, C/1, Block G,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai – 400 051  
+NSE Symbol: TEJASNET  The Secretary  
+BSE Limited  
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+BSE Scrip Code: 540595  
+Dear Sir/Madam,  
+Re: Outcome of the Board Meeting 
+We would  like to inform  you  that  the Board  of Directors  of Tejas  Networks  Limited 
+(‘the Company’)  at their meeting  held today  i.e., October  17, 2025,  has considered  and 
+approved  the Unaudited  Financial  Results  (Standalone  and Consolidated)  for the quarter 
+and half year  ended September  30, 2025.  The Financial  Results  together  with  the Limited 
+Review Report issued by the Statutory Auditors, is enclosed as Annexure.  
+The Meeting started at 12.4 5 P.M. (IST) and concluded at 4.00 P.M. (IST). 
+The above informatio n is also being mad e availabl e on the websit e of the C ompany at 
+www.tejasnetworks.com .   
+This is for your kind information and records. 
+Thanking you, 
+Your s sincerely 
+For Tejas Networks Limited 
+Anantha Murthy N 
+Company Secret ary & Compliance Officer 
+Encl: as above Tejas Networks Ltd. 
+Regd. Office: Plot No. 25, 5th Floor 
+J.P. Software Park, Electronic City Phase 1 
+Hosur Road, Bengaluru 560 100, India 
+Tel: +91-80-4179 4600/700/800 
+Fax: +91-80-2852 0201 TEJAS® 
+Email: corporate@tejasnetworks.com CIN: L72900KA2000PLC026980 www.tejasnetworks.com 
+Price Waterhouse Chartered Accountants LLP 
+Independent Auditors' Review Report on the Statement of Unaudited Standalone Financial 
+Results 
+To 
+The Board of Directors 
+Tejas Networks Limited 
+5th Floor, J P Software Park 
+Plot No. 25, Sy, No 13, 14, 17 and 18 
+Konnapana Agrahara Village 
+Begur Hobli, Bengaluru -560 100 
+1. We ha e reviewed the Unaudited Standalone Financial Results ofTejas Networks Limited (the 
+"Company ) for the quarter and ix months period ended September 30 2025, whi.ch are included in 
+the accompanying 'Statement of Unaudited Standalone Financial Results' for the quarter and six 
+months period ended September 30, 2025, the 'Unaudited Standalone Statement of Assets and 
+Liabilities' as on that date and the 'Unaudited Standalone Statement of Cash Flows' for the six months 
+period ended on that date (together the "Standalone Statement "). The Standalone Statement has 
+been prepared by the Company pursuant to Regulation 33 of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (the "Listing 
+Regulations, 2015"), which has been initialled by us for identification purposes. 
+2. This Standalone Statement, which is the responsibility of the Company's Management and approved 
+by the Board of Directors, has been prepared in accordanc e with the recognition and mea urement 
+principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind 34"'), 
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generall,y 
+accepted in India. Our responsibility is to express a conclusion on the tandalone Statement based on 
+our review. 
+3. We conducted our review of the Standalone Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 "Review of Interim Financial Information Pe1formed by the Independent 
+Auditor of the Entity", issued by the Institute of Chartered Accountants of India. This Standard 
+requires that we plan and perform the review to obtain moderate assurance as to whether the 
+Standalone Statement is free of material misstatement. A review of interim financial information 
+consists of making inquiries, primarily of persons responsible for financial and accounting matters, 
+and applying analytical and other review procedures. A review is substantially less in scope than an 
+audit conducted in accordance with Standards on Auditing and consequently does not enable us to 
+obtain assurance that we would become aware of all significant matters that might be identified in an 
+audit. Accordingly, we do not express an audit opinion. 
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that 
+causes us to believe that the Standalon e Statement has not been prepared in all material re pect in 
+accordanc e with foe recognition and measurement principles laid down in the aforesaid rndian 
+Accounting Standard mid other accounting principles generally accepted in India and ha not 
+disclosed the information required to be disc.losed in terms of Regulation 33 of the Listing 
+Regulations, 2015 including the manner in which it is to be disclosed or that it contains any material 
+misstatement. 
+Place: Bengaluru 
+Dates: October 17, 2025 For Price Waterhouse Chartered Accountants LLP 
+Firm Registration Number: 012754N/N500016 
+.,.~q L~ 1~.~ •• 
+Partner 
+Membership Number: 206477 
+UDIN: 25206477BMWRE9022 
+Price Waterhouse Chartered Accountants LLP, 5th Floor, Tower 'D', The Millenia, 1 & 2 Murphy Road, Ulsoor 
+Bengaluru -560 008 
+T: +91 (80) 40794190 
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi -110002 
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN MC-5001) 
+with etlect from July 25, 2014. Post its conversion to Price Waterhouse Charte~ Accountants LLP, its ICAI registration number is 012754N/N500016 (ICAI registration 
+number before conversion was 012754N) 
+II 
+Ill 
+IV 
+V 
+VI 
+VII 
+VIII 
+IX 
+X 
+XI 
+XII 0!~!0 TEJAS' 
+NETWORI( . 
+Tejas Networks Limited 
+Registered Office: J.P. Software Park, Plot No, 25, Sy. No, 13, 14, 17 and 18, 
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, t<arnataka, India. 
+Corporate Identity Number: L72900KA2000PLC026980 
+Tel: +9180 4179 4600; Fax: +9180 2852 0201 
+E-mail: corporate@tejasnetworks .com; Website: www.tejasnetworks ,com 
+Statement of Unaudited Standalone Financial Results for the quarter and six months period ended September 30, 2025 
+Particulars 
+Revenue from operations 
+(a} Revenue from sale of goods and rendering of services 
+(b) Other operating revenue 
+Total Revenue from operations 
+Other income 
+Total income (I+ II) 
+EXPENSES 
+(a) Cost of materials consumed (Refer note-3) 
+(b) Purchases of stock-in-trade 
+(c) Changes in inventories of stock-in-trade, work-in-progress and 
+finished goods 
+(d) Employee benefit expense 
+(e) Finance costs 
+(!) Depreciation and amortization expense 
+(g) Allowance for expected credit loss 
+(h) Other expenses (Refer note-4) 
+Total expenses (IV) 
+Profit/(loss) before tax (Ill -IV) 
+Income tax expense/(benefitJ 
+(1) Current tax expense/(benefit) 
+(2) Deferred tax expense/(benefit) 
+Total tax expense/(benefit) 
+Profit/(Loss) after tax (V -VII 
+Other comprehensive income/(loss) 
+Items that will not be reclassified to profit or loss 
+Remeasurements of the post-employment benefit obligation 
+(expense)/benefit 
+Income tax relating to above 
+Items that may be reclassified to profit or loss 
+Gains/(losses) in cash flow hedges 
+Income tax relating to above 
+Total comprehensive income/(loss) for the period (VII+ VIII) 
+Equity share capital (Face value of Rs. 10/-each) 
+Reserves (excluding Revaluation reserve) as shown in the Audited 
+Balance Sheet 
+Earnings/(LossJ per equity share 
+Equity shares of par value Rs. 10 each 
+(1) Basic 
+(2) Diluted 
+0121s";;rl/NSOQO \ 
+llt•u •aluru * Quarter ended Quarter ended 
+September 30, June 30, 
+2025 2025 
+Unaudited Unaudited 
+256,22 201.93 
+5,15 
+261.37 201.93 
+6.01 9.55 
+267.38 211.48 
+246.22 123.10 
+2.85 20.02 
+20.58 (26,84) 
+91,09 92.75 
+84.26 74.69 
+100.98 96.46 
+15.58 18.18 
+178.85 110.50 
+740.41 508.86 
+(473.03) (297.38) 
+(165 86) (103.47) 
+(165.86) (103.47} 
+(307.17) (193.911 
+2 23 0.56 
+2 82 4.39 
+(302.12) (188.96) 
+180.14 179.89 
+(17.38) (10.99) 
+(17.38) (10.99) (Rs in crore except per share data) 
+Quarter ended Six months ended Six months ended Year ended 
+September 30, September 30, September 30, March 31, 
+2024 2025 2024 2025 
+Unaudited Unaudited Unaudited Audited 
+2,654.04 458.15 4,149 37 8,447 48 
+156.10 5.15 222.80 468 25 
+2,810.14 463.30 4,372.17 8,915.73 
+10.60 15.56 23.63 45.43 
+2,820.74 478.86 4,395.80 8,961.16 
+2,001.62 369.32 3,098.91 6,425.47 
+40.09 22.87 71.77 94.15 
+(71.06) (6.26) (76.85) (2.96) 
+118 42 183.84 213.38 436 49 
+59.92 158,95 113.34 247.46 
+73.80 197.44 138.75 353.19 
+(4.59) 33.76 (3.70) 35 90 
+191.26 289.35 304.53 660.03 
+2,409.46 1,249.27 3,860.13 8,249.73 
+411.28 (770.41) 535.67 711.43 
+76.55 100.02 147.07 
+68.55 (269.33) 88.40 113.70 
+145.10 (269.33) 188.42 260.77 
+266.18 (501.08) 347.25 450.66 
+(0,99) 2.79 (1.66) (9.93) 
+0.18 0.14 1.58 
+0 24 7.21 (0.42) (5 40) 
+(DOS) 0.07 0.94 
+265.56 (491.08) 345.38 437.85 
+174.53 180 14 174.53 179,59 
+3,675.75 
+15.53 (28.37) 20.30 25,99 
+15.23 (28 37) 19.91 25.62 
+Tejas Networks Limited 
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No. 13, 14, 17 and 18, 
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India. 
+Corporate Identity Number: l72900KA2000PLC0Z6980 
+Tel: +9180 4179 4600; Fax: +9180 2852 0201 
+E-mail: corporate@tejasnetworks.com; Website: www.tejasnetworks .com 
+Unaudited Standalone Statement of Assets and Liabilities 
+Particulars 
+Assets 
+Non-current assets 
+Property, plant and equipment 
+Capital work-in-progress 
+Right-of-use assets 
+Goodwill 
+Other intangible assets 
+Intangible assets under development 
+Financial assets 
+(i) Investments 
+(ii) Trade receivables 
+(iii) Other financial assets 
+Current tax assets (net) 
+Deferred tax assets (net) 
+Other non-current assets 
+Total non-current assets 
+Current assets 
+Inventories 
+Financial assets 
+(i) Investments 
+(ii) Trade receivables 
+(iii) Cash and cash equivalents 
+(iv) Bank balances other than (iii) above 
+(v) Other financial assets 
+Other current assets 
+Total current assets 
+Total assets 
+Equity and Liabilities 
+Equity 
+Equity share capital 
+other equity 
+Total equity 
+Liabilities 
+Non-current liabilities 
+Financial liabilities 
+(i) Borrowings 
+(ii) Lease liabilities 
+Provisions 
+Deferred tax liabilities (net) 
+Total non-current liabilities 
+Current liabilities 
+Financial liabilities 
+(ii Borrowings 
+(ii) Lease liabilities 
+(iii) Trade payables 
+(a) Total outstanding dues of micro enterprises and small enterprises 
+(b) Total outstanding dues of creditors other than micro enterprises and small enterprises 
+(iv) Other financial liabilities 
+Provisions 
+Current tax liabilities (net) 
+Other current liabilities 
+Total current liabilities 
+Total liabilities 
+Total equity and liabilities 
+~~ 
+' ~~ !Rs. in crore) 
+As at As at 
+September 30, March 31, 
+2025 2025 
+Unaudited Audited 
+437.70 397.83 
+0.60 0.80 
+115 93 116.59 
+211.81 211.81 
+355.83 420.32 
+820.78 403,69 
+17.81 17 81 
+199 47 440.14 
+18.89 17.05 
+18.52 13 21 
+189 47 
+1300 26 60 
+2,399.81 2,065.85 
+2,381.56 2,366.08 
+350 82 482 32 
+3,826 81 4,443.58 
+48.74 325.48 
+5.25 7.76 
+287.09 327.39 
+589.53 452.45 
+7,489.80 8,405.06 
+9,889.61 10,470.91 
+180.14 179.59 
+3,149.71 3,675.75 
+3,329.85 3,855.34 
+462,18 118.15 
+127-63 127.18 
+83,76 61.30 
+79.86 
+673.57 386.49 
+3,693.63 3,150.90 
+12.78 10.64 
+36,09 66.41 
+325.37 1,124.68 
+164.14 210,07 
+134 80 105 77 
+15 28 
+1,519.38 1,545 33 
+5,886.19 6,229.08 
+6,559.76 6,615.57 
+9,889.61 10,470.91 
+y 
+0!!!" TEJAS. 
+N'l:T\\'OltK.S 
+Tejas Networks Limited 
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No.13, 14, 17 and 18, 
+Konnapana Agrahara Village, Begur Hobli, Bengaluru 560 100, Karnataka, India. 
+Corporate Identity Number: L72900KA2000PLC026980 
+Tel: +9180 4179 4600; Fax: +9180 2852 0201 
+E·mail: corporate@tejasnetworks.com; Website: www,tejasnetworks.com 
+Unaudited Standalone Statement of Cash Flows 
+Particulars 
+Cash flows from operating activities 
+Profit/{Loss) before tax 
+Adjustments to reconcile net profit to net cash generated from operating activities: 
+Depreciation and amortization expense 
+Allowance for expected credit loss 
+Interest income 
+Unwinding of discount on fair valuation of financials assets 
+Gain/{loss) on current investments carried at FVTPL 
+Gain on sale of current investments carried at FVTPL 
+Finance costs 
+Unrealized exchange difference on cash held in foreign currencies 
+Unrealised exchange difference {net) 
+Profit/{Loss) on disposal of property, plant and equipment• 
+Expense recognized in respect of equity-settled share-based payments 
+Movements in working capital: 
+(lncrease)/decrease in inventories 
+{lncrease)/decrease in trade receivables 
+(lncrease)/decrease in other financial assets 
+{lncrease)/decrease in other assets 
+lncrease/{decrease) in trade and other payables 
+lncrease/(decrease) in provisions 
+lncrease/(decrease) in other financial liabilities 
+lncrease/{decrease) in other liabilities 
+Cash used in operations 
+Income taxes paid 
+Net cash used in operating activities (A) 
+Cash flows from investing activities 
+Payment for purchase of property, plant and equipment 
+Payment for intangible assets {including under development) 
+Proceeds from disposal of property, plant and equipment* 
+Investments in deposits with banks 
+Withdrawals of deposits from banks 
+Payments for purchase of investments in liquid mutual funds 
+Proceeds from redemption of investments in liquid mutual funds 
+Interest received 
+Net cash used in investing activities {B) 
+Cash flows from financing activities 
+Proceeds from exercise of restricted stock units/employee stock options 
+Dividend paid 
+Proceeds from borrowings -non-current 
+Proceeds from borrowings -current 
+Repayment of borrowings -current 
+Principal payment on lease liabilities 
+Interest payment on lease liabilities 
+Interest on non-current borrowings 
+Interest on current borrowings 
+Other finance cost 
+Net cash generated from financing activities (CJ 
+Net decrease in cash and cash equivalents {A+B+C) 
+Cash and cash equivalents at the beginning of the period 
+Effects of exchange rate changes on the balance of cash held in foreign currencies 
+Cash and cash equivalents at the end of the period 
+Non-cash investing and financing activities 
+Acquisition of right-of-use assets 
+• Amount below the rounding off norm adopted by the Company Rs. in crore 
+Six months ended Six months ended 
+September 30, September 30, 
+2025 2024 
+Unaudited Unaudited 
+{770.41) 535.67 
+197 44 138 75 
+33.76 {3.70) 
+{0,97) {2.43) 
+{0.37) {0.34) 
+2.91 {0.96) 
+(17.01) {19.19) 
+158 95 113 34 
+{0.72) 0.24 
+32 19 (4,17) 
+0,01 0.00 
+2.19 32.87 
+(362.03) 790.08 
+{15.48) 327.72 
+823.90 {2,295.88) 
+69.96 {189.78) 
+{121.47) 206.94 
+{832.85) {56,75) 
+48.86 80.78 
+{75.68) {5.85) 
+{25.95) 485.52 
+(490.74) (657.22) 
+{20.59) {26.06) 
+(511.33) (683.28) 
+{116.19) {146.34) 
+{430.73) {162.38) 
+0.26 0.00 
+{12.79) (212.21) 
+15.30 313 67 
+{1,214.00) {2,434.00) 
+1,359.61 2,337.25 
+0.67 2.90 
+(397.871 (301.11) 
+141 0,92 
+{44.15) 
+344.03 
+5,146.00 3,203.91 
+{4,621.46) {2,197.77) 
+{5.41) {2.76) 
+{6 68) {7.05) 
+{20.03) 
+{161 08) {86.11) 
+(0.89) (0.88) 
+631.74 910.26 
+(277.46) (74.13) 
+325 48 187.72 
+0,72 {0.24) 
+48.74 113.35 
+7 96 5.22 
+Notes Tejas Networks limited 
+Registered Office: J.P. Software Park, Plot No. 25, Sy. No. 13, 14, 17 and 18, 
+Konnapana Agrahara Village, Begur Hobll, Bengaluru 560 100, Karnataka, India. 
+Corporate Identity Number: L72900KA2000PLC026980 
+Tel: +9180 4179 4600; Fax: +9180 2852 0201 
+£-mall: corporate@tejasnetworks.com; Website: www.tejasnetworks.com 
+1 This Statement of Unaudited Standalone Financial Results for the quarter and six months period ended September 30, 2025, Unaudited Standalone Statement of Assets and Liabilities as 
+at September 30, 2025 and Unaudited Standalone Statment of Cash Flows for the period then ended have been prepared in accordance with the recognition and measurement principles 
+laid down in Ind AS 34 "Interim Financial Reporting" under Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India, read with the relevant 
+rules issued thereunder and in terms of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing Regulations, 
+2015"). 
+2 The Company has identified "telecom and data networking related products and services" as its only reportable segment in accordance with the requirements of Ind AS 108 "Operating 
+Segments" and hence no segment information has been provided, 
+3 Cost of materials consumed include provision for inventory obsolescence/ write-down amounting to Rs. 145.43 crore for the quarter ended September 30, 2025 (Rs 11.65 crore for 
+quarter ended June 30, 2025 and Rs. 7.32 crore for the quarter ended September 30, 2024) primarily on account of contract manufacturing process losses, design changes and other 
+related matters. 
+4 other expenses for the quarter and six months period ended September 30, 2025 include provision for warranty expenses amounting to Rs 44.44 crore determined based on potential 
+fault rates, repair requirements and anticipated warranty claims. 
+5 The above Statement of Unaudited Standalone Financial Results for the quarter and six months period ended September 30, 2025, Unaudited Standalone Statement of Assets and 
+Liabilities as at September 30, 2025 and Unaudited Standalone Statment of Cash Flows for the period then ended were reviewed and recommended by the Audit Committee of the Board 
+and subsequently approved by the Board of Directors at their respective meetings held on October 17, 2025 
+Place: Bengaluru 
+Date: October 17, 2025 Executive Director and COO 
+(DIN: 03176672) 

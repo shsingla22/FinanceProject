@@ -1,0 +1,903 @@
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                                CIN: L72200TG1991PLC013134 
+                            Units Layout, Madhapur                                        www.cyient.com  
+                            Hyderabad -500 081                                               Company.secretary@cyient.com  
+                            India                                                                        T +91 40 6764 1000  
+                                                                                                             F +91 40 2311 0352 
+ 25 April 2024 
+ 
+ 
+BSE Limited                                                                            National Stock Exchange of India Ltd                                                                                                                                                                    
+PJ Towers, 25th Floor,              Exchange Plaza,                                                                                                                                                              
+Dalal Street                 Bandra -Kurla Complex, Bandra (E) 
+Mumbai 400001.               Mumbai -400 051.  
+Scrip Code: 532175            Scrip Code: CYIENT  
+ 
+ Dear Sir,  
+ 
+Sub: Financial Results for the quarter and year ended 3 1 March 2024 
+ 
+Pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the Audited Standalone and Consolidated Financial Results for the quarter and year ended 31 March 2024. 
+ We  further   declare that  the Statutory  Auditors   of the  Company ,  S R Batilboi & Associates LLP (FRN:   
+101049W/E300004) have issued an Audit Report with unmodified opinion on the annual Audited    Financial Results of the Company (Standalone & Consolidated) f or the year ended 31 March 2024 
+pursuant to Regulation 33 (3)(d) of SEBI ( Listing Obligation and Disclosure Requirements)  Regulations, 
+2015.  
+ The Meeting of Board of Directors of the Company commenced at 10. 30 A.M. IST and concluded at  
+03.45 P.M IST  
+ The above announcement will be made available on the Company’s website www.cyient.com   
+  Thanking you  
+For Cyient Limited  
+ 
+ 
+ Sudheendhra Putty  
+Company Secretary  
+ CYI l:NT • 
+• • 
+SI.No 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 CYIENT LIMITED 
+(CIN No.: L72200TG1991PLC013134} 
+Regd office: 4th Floor, "A" Wing, Plot No.11, Software Units Layout, lnfocity, Madhapur , Hyderabad~ 500 081, lndiil 
+Statement of Audited Consolidated and Standalone l=inancial Results for the Quarter and Year Ended March 31, 2024 
+Consolidated results 
+OuaTter Ended Year Ended 
+Particulars 31-Mar-24 31-Dec-23 31-Mar-23 31-Mar-24 31-Mar-23 31-Mar-24 
+Aurtited Unaudited Audited Audited Audited Audited 
+(refer note 8) r refer note 81 (refer note 8) 
+Income 
+(a) Revenue from contract with customers 18,608 18,214 17,514 71,472 60,159 6,118 
+(bl Other income [refer note 3) 234 !BB 5 659 814 151 
+Total income 18,842 18,402 17,519 72,131 60,973 6,269 
+Expenses 
+(•) Employee benefits expense 8,906 8,96q 8,414 35,120 30,260 3,341 
+(b) Cost of materials consumed 2,806 2,689 2,278 9,893 6,839 
+(c) Changes in inventories of finished goods, stock-in-trade and work-in-progress 59 (100) 31 (235) 125 
+(d) Finance costs 324 288 262 1,160 1,000 62 
+(e) Depreciation and amortisat ion expense 672 661 726 2,667 2,566 248 
+(f) Other expenses 3,484 3,395 3,571 13,666 12,904 1,074 
+Total expenses 16,251 15,902 15,282 62,271 53,694 4,725 
+Profit before share of profit/(loss) from joint venture, exceptional items and tax (1 ·Z} 2.591 2,500 2,237 9,860 7,279 1,544 
+Share of profitj(toss) from joint venture 
+Profit before exceptional items aud tax (3+4} 2,591 2,500 2,237 9,860 7,279 1,544 
+Exceptional items (refer note 4) 503 162 676 467 
+Pro6t before tax (5-6) 2,591 1,997 2,075 9,184 6,812 1,544 
+Tax expense 
+(a) Current tax 663 558 503 2,390 2,016 393 
+(b) Deferred tax (411 (93) 160) (234) (348) 
+Total tax expense 622 46S 443 Z,156 1,668 393 
+Net Profit for the period/year (7-8) 1,969 1,532 1,632 7,028 5,144 1,151 
+Attributab le to: 
+Shareholders of the Company 1,892 1,472 1,632 6,828 5,144 1,151 
+NonwControlling interest 77 60 200 
+Other comprehensive income 
+(a) Other comprehensive income not to be reclassified to profit or loss in subsequent periods: 
+(i) Re•measurement loss on de tined benefit plans (20) (26) (46) (52) (56) (22) 
+Income tax effect on above 6 6 ll 14 14 b 
+(ii) Fair value change on financial instruments (233) (1) (233) [1) 
+[b) Other comprehensive income to be reclassified to profit or loss in subsequent periods: 
+(i) Exchange differences in translating the financial statements of foreign operacions {221) 464 296 65 854 
+(ii) Effective portion of gain/(loss) on designated portion of hedging instruments in a cash tlow hedge (3) (75) 156 125 (305) (2) 
+Income tax effect on above I 19 (33) (31) 96 1 
+r4101 388 383 (1121 602 [171 
+Attributable to: 
+Shareholders of the Company (391} 388 383 (33) 602 (17] 
+Non-controHing interests ~~ /791 (79) 
+Total comprehensive lncon1e [9+10) /~ 1,499 1,920 2,015 6,916 5,746 1,134 
+Attributable to: 
+Shareholders or the Companv 1,501 1,860 2,015 6,795 5,746 1,134 
+Non-controlling interests tuJ}--) ,, r21 60 121 
+Paid up equity share capital (Face Value of f 5 per share) 555 553 -~tJ1, I Other equity -& 42,026 34,114 
+Earhings Per Share fF'ace Value of t S per s!iareJ• 
+(a) Basic (in~) 17.22 13.41 14.91 62.24 47.03 10.48 
+fb) Diluted [in ~1 17.07 13.29 14 79 61.71 46.71 10.38 
+,._ EPS for the quarterly periods are not annualised . (fin Millions} 
+Standalone results 
+Ouarter Ended Year Ended 
+31-Dec-23 31-Mar-23 31-Mar-24 31-Mar-23 
+Unaudited Audited Audited frefer note 81 Audited 
+5,976 5,972 24,614 22.279 
+478 176 751 822 
+6,454 6,148 25,365 23,101 
+3,346 3,080 13,261 11,964 
+-
+74 50 220 166 
+236 283 948 1,135 
+1,043 1,341 4,386 5,213 
+4,699 4,754 18,815 18,478 
+1,755 1,394 6,550 4,623 
+1,755 1,394 6,550 4,623 
+-
+1,755 1,394 6,550 4,623 
+402 246 1,607 1,099 
+(21) 29 (30) (24) 
+381 275 1,577 1,075 
+1,374 1,119 4,973 3,548 
+1,374 1,119 4,973 3,548 
+(22) (55) (48) (64) 
+5 14 12 16 
+(1) (1) 
+(76) 156 125 (305) 
+19 (33) (31) 96 
+(741 81 58 (2581 
+(74} 81 58 (ZS8) 
+1,300 1,200 5,031 3,290 
+1,300 1,200 5,031 3,290 
+555 553 
+28,788 26,476 
+12.52 10.22 45.33 32.44 
+12.40 10.14 44.94 32.22 
+{Page 1of6) 
+Balance sheet: 
+('tin Millions) 
+Consolidated Standalone 
+Particulars Asat Asat 
+31-Mar-2024 31-Mar-2023 31-Mar-2024 31-Mar-2023 
+Audited Audited Audited Audited 
+ASSETS 
+Non-current assets 
+Property, plant and equipment 4,462 4,481 2,409 2,453 
+Ri1,tht-of-use assets 3,271 2,770 1,358 1,405 
+Capital work-in-progress 16 27 7 2 
+Goodwill 16,692 16,363 110 110 
+Other intangible assets 3,839 4,632 657 775 
+Intangible assets under development 558 418 
+Financial assets 
+[a) Investments 3,598 3,463 13,820 13,376 
+(b) Loans - 747 1,196 
+(c) Other financial assets 347 249 203 177 
+Deferred tax assets [net) 752 482 328 339 
+Income tax assets [net) 732 321 321 238 
+Other non-current assets 178 362 41 153 
+Total non-current assets 34,445 33,568 20,001 20,224 
+Current assets 
+Inventories 4,676 4,358 - -
+Financial assets 
+(a) Investments 758 1,718 668 1,718 
+(bl Trade receivables 12,617 11,271 9,398 7,075 
+(c) Cash and cash equivalents 4,848 6,215 1,881 1,152 
+(d] Bank balances other than cash and cash equivalents 4,987 979 2 1 
+(e) Loans - - 589 543 
+(f) Other financial assets 4,775 4,527 2,478 2,146 
+Other current assets 2,930 2,845 1,350 1,120 
+Total current assets 35,591 31,913 16 366 13,755 
+TOTAL ASSETS 70036 65481 36 367 33 979 
+EQUITY AND LIABILITIES 
+Equity 
+Equity share capital 555 553 555 553 
+Other equity 42,026 34,114 28,788 26,476 
+Equity attributable to equity holders of the parent 42,581 34,667 29,343 27,029 
+Non-controlling interests 2,988 (32) - -
+Total equity 45569 34635 29,343 27029 
+LIABILITIES 
+Non-current liabilities 
+Financial liab ii ities 
+(al Borrowings 2,783 4,939 - -
+(b) Lease liabilities 2,465 1,960 957 1,026 
+[ c) Other financial liabilities 4 1,270 4 2 
+Provisions 1,795 1,616 1,209 1,004 
+Deferred tax liabilities (net) 839 830 - -
+Total non-current liabillties 7,886 10615 2,170 2,032 
+Current liabilities 
+Financial liabilities 
+{a) Borrowings 1,743 4,397 -
+(b) Lease liabilities 885 882 365 337 
+(c) Trade payables 
+[i) Total outstanding dues of micro enterprises and small enterprises 106 89 27 8 
+(ii) Total outstanding dues of creditors other than micro enterprises 6,772 7,053 3,425 3,114 and small enterprise s 
+(d) Other financial liabilities 2,568 2,038 128 253 
+Income tax liabilities (net) 562 570 22 134 
+Provisions 1,144 1,137 387 409 
+Other current liabilities 2,801 4 065 500 663 
+Total current liabilities 16,581 20,231 4,854 4,918 
+Total liabilities 24,467 30,846 7024 6950 
+TOTAL EQUITY AND LIABILITIES 70036 65481 36367 33 979 
+(Page 2 of6) 
+NOTES: 
+1 The above statement of audited consolidated and standalone financial results of Cyient Limited (the "Holding Company" or the "Company"), its subsidiaries (the Holding Company and its subsidiaries together referred to as the 
+''Group") and its joint venture, which have been prepared in accordance with the Indian Accounting Standards ('Ind AS') prescribed under Section 133 of the Companies Act, 2013 ["the Act") read with relevant rules issued 
+thereunder, other accounting principles generally accepted in India and guidelines issued by the Securities and Exchange Board of India ("SEBl"J. These results were reviewed and recommended by the Audit Committee and 
+approved by the Board ofDirectors at their meetings held on April 24, 2024 and April 25, 2024 respectivel y. The Statutory Auditors have expressed an umodified opinion on the consolidated and standalone financial results. 
+Consolidated and standalone audited statement of cash flows are attached in Annexure 1(A) and Annexure l(B) respectively. 
+2 In line with the Board of Directors approval, the Company's subsidiary "Cyient DLM Limited"(formerl y Cyient DLM Private Limited) has completed its Initial Public Offering ("IPO") by way of fresh issue of 22,364,653 equity 
+shares of face value of~ 10 each for at an issue price of~ 265 per equity share aggregating to~ 5,920 Mn. The equity shares of Cyient DLM Limited were [jsted on National Stock Exchange of India Limited and BSE Limited on 
+July 10, 2023. Further, Cyient DLM Limited has undertaken a pre-lPO placement by way of private placement of 4,075,471 equity shares aggregating to'{ 1,080 Mn at an issue price on 265 per equity share on June 6, 2023. 
+3 Other income includes: (;fin Millions) 
+Particulars Quarter ended Year ended 
+i. Net foreign exchange gain/(loss) 31-Mar-241 31-Dec-23 I 31-Mar-23 31-Mar-24 I 31-Mar-23 
+Standalone results s1 I 160 I r21 l 93 I 223 
+Consolidated results s I 1481 [184) 1161 229 
+ii. During the year ended March 31, 2024, the Company received a dividend of'{ 223 Mn from its subsidiari es namely Citec Engineering India Private Limited and Cyient KK, which is recognised as 'Other income' in the 
+standalone financial results. 
+4 Exceptional items: 
+In earlier periods, a civil class action antitrust lawsuit was filed in a U.S. District Court (consolidating multiple civil lawsuits filed in the previous year), against one of the Company's US subsidiaries, Cyient Inc. amongst various 
+other companies. It is alleged in the suits that the defendants agreed to restrict the employment of individuals. During the quarter ended June 2023, a criminal lawsuit against the individual defendants was dismissed by the 
+Court. 
+On January 20, 2024, Cyient Inc. entered into an agreement to settle, and dismiss with prejudice, the said civil class action antitrust lawsuit for an amount of$ 7.4 Mn. Cyient Inc. will utilize the insurance amounts available to it 
+towards payment of the aforesaid settlement amount. The settlement is without admission of any liability and the plaintiffs have agreed to release and discharge all claims associated with this lawsuit against Cyient Inc. and its 
+affiliates. The settlement is subject to approval by the presiding judge and the timing of this process is at the discretion of the court 
+The Company has recognized a net amount of'!' 676 Mn ($ 8.1 Mn) for the year ended March 31, 2024 respectively for this lawsuit. Based on the information available to date, we do not believe that the aforesaid matter will 
+have any material adverse effect on the Company's operations, financial condition or liquidity. 
+5 During the quarter and year ended March 31, 2024, the Company has allotted 79,136 and 314,806 equity shares on 5 each respectively, consequent to the exercise of the stock options by the associates of the Company under 
+the Associate Stock Option Plan. 
+6 The Board of Directors at their meeting held on October 19, 2023 had declared an interim dividend of { 12 per share on face value of { 5 each, aggregating to ~ 1,329 Mn and at their meeting held on April 25, 2024 have 
+recommended final dividend of { 18 per share on face value an S each, aggregating to'{ 1,996 Mn. 
+(Page 3 of6] 
+7 SEGMENT REPORTING· ~ in Millions} 
+Quarter Ended Year Ended 
+Particulars 31-Mar-Z4 31-Dec-23 31-Mar-23 31-Mar-Z4 31-Mar-23 
+Audited Unaudited Audited Audited Audited (refer note 8) (refer note BJ 
+Segment revenue 
+Digital, Engineering & Technology 14,892 14,914 14,545 59,114 51,138 
+Design Led Manufacturing 3,619 3,210 2,774 11,919 8,320 
+Olhers 104 103 201 473 728 
+Total 18,615 18,227 17,520 71,506 60,186 
+Less: Inter segmenl..revenu e 7 13 6 34 27 
+Revenue from contract w'ith customers 18,608 18214 17,514 71,472 60,159 
+Segment results 
+Digital, Engineer ing & Technology 2,442 2,243 2,193 9,425 6,768 
+Design Led Manufacturing 342 237 271 911 688 
+Others (23) (251 16 [64) 48 
+Total 2,761 2,455 2,480 10,272 7,504 
+Lt::SS: 
+Finance costs 324 288 262 l,160 1,000 
+Exceptional items {refe1· note 4) 503 162 676 467 
+Add: 
+Other unallocable mcome (net of unallocable expenditurn ) 154 333 19 748 775 
+Share of profit/ (loss] From joint venture 
+Profit before tax 2,591 1,997 2,075 9184 6,812 
+Asat 
+31-Mar-24 31-Dec-23 31-Mar-23 
+Audited Unaudited Audited 
+Capital employed (Segment assets -Segment liabilities) 
+Segment assets 
+Digital, Engineering & Technology 41,313 41,546 40,592 
+Design Led Manufacturing 12,220 13,083 10,906 
+Others 588 642 661 
+Unallocable 15,915 16,620 13,322 
+Total Segment Assets 70,036 71,891 65,481 
+Segment liabilities 
+rngital. Engineering & Technology 11,087 10,998 12,257 
+Design Led Manufactu ring 3,806 3,809 4,613 
+Others 44 45 139 
+Unallocable 9,530 13,053 13,837 
+Total Se,ment Liabilities 24467 27,905 30,846 
+Notes· 
+Segment information is presented for the ''consolidated financial resultsn ais permitted under the Ind AS 108 "Operating Segments". The Chief Operating Decision Maker ("CODM") 
+reviews the business as three operating segments -"Digital, Engineering & Technology" (hitherto referred to as "Services"), "Design led Manufact uring" (OLM) and "Others•·. 
+Effective April 1, 2023, considering the lPO of Cylent DLM Limited, the Group has re·organised Its business units. Consequent to such change, the Aerospace Parts division ofCyient 
+Defense Services Inc., USA, which hitherto was reported in the OLM segment is now included in the Digital. Engineering & Technology segment and Cyiont Solulions and Systems Private 
+Limited and Aerospace Tooling division of Cyient Defe11se Services Inc., USA, which hitherto were reported in the DLM segment are now included in the Others, consistent to the 
+manner in wh.ich tile CODM reviews the business. 
+The Digital, Engineering & Technology segment includes TransporraL lon, Connectivity, Sustainability and NGA (New Growth Areas such as Hffech, Automotive, Semicon and Medical 
+Technologies] while the Digital, Embedded Solutions are across all the Business Units, 
+The OLM segment includes Cyient OLM Li1nited. The OLM segment is engaged in the business of manufacturing and providing "Electroni c Manufacturing Services" . 
+Others include Cylent Solutions and Systems Private Limited and Aerospace Tooling division of Cyient Defense Services Inc., USA. 
+The Company has re·presenled the information relating to all comparative periods in line with this revised segmental classification. 
+8 The figures for the quarteJ" ended March 31, 2024 and March 31, 2023 are the balancing figures between the audited figures in respect of the full financial year ended March 31, 2024 
+and March 31, 2023, respectivel y and published year to date figures t1pto third <.1uarter December 31, 2023 and December 31, 2022, respectively which were subjected to a limited 
+review. 
+Current year numbers may not be strictly comparable with comparitive numbers due ~o the aqulfitiq-ns::~n: , the previous year ended March 31, 2023. 
+Place : Hyderabad 
+Date: April 25, 2024 Executive 
+Commlidated statement of cash flows· 
+Particulars For the year ci:nded 
+March 31, 2024 
+Audited 
+A. CASH FLOW FROM OPERA TING ACTIVITIES 
+Profit for the yeal" 7,028 
+Adjustments (pr_· 
+Tax expense 2.156 
+Depredation and amortisation expense 2;667 
+Loss/(proflt) on sa)e of property, plant and equipment (net) 6 
+Gain on termination ofleases rnet) [15] 
+Finance costs 1,160 
+interest incorn~ (522) 
+Prorit CJn sale of mutual funds (SO) 
+Liabilities no longer required wdtten back 
+Loss: on fair valuation of financial assets and fin.ancial !iabilltic.s: 135 
+Share-based payments to emph)yccs 241 
+Provision for expected credit Joss [net cf write-oftl 7 
+FaJr value changes in liability towards acquisition of business 
+Gain on fair valuation of equity ir,struments 
+Unrealised forexgain rnet) (1711 
+Operating profit before working capital changes 12,642 
+Cbanq~s in npgrqtfng assets and liahilith!s · 
+llcHtt~tments £or [iucu_gs.~I I.. decregse in: 011.em.tiaa '1.§.Se~: 
+Trade receivables [1,187] 
+Other financial assets [303] 
+Jnvcntorir:s [317) 
+Other assets 140 
+ddiu~.tments for increg~e t. ldJu;.a:.asel in ouer9tim1 Uab.ilities: 
+Trade payables [Z6Bl 
+Other financial liabilities 475 
+Other liabi1itit"s [1.274) 
+Provisions 128 
+Cash generated from operations 10,036 
+Net jncomc: taxes paid (2.775) 
+Net cash flow from operating activities (A) 7,261 
+B. CASH FLOW FROM INVESTING ACTIVITIES 
+Paymem towards purchase of properly, plant aod equipment and intangible assets (853) 
+Ptocced.s from sale of property, plant and equipment 71 
+Investmen ts in 
+• mutual funds [8,583) 
+-bonds [3.555) 
+-commr::rcial paper (250) 
+-othrirs (128) 
+Proceeds from sale of inv!:'!stmcnts in 
+• mutual fundl;i'. 9,221 
+• bond5 3,656 
+• commcrcfaJ paper 300 
+Jnterest received 352 
+rnvidend received from mutual funds 
+Payment lowards acquisition of business (refer riote (ii) below) [1.550) 
+Investment in other bank balances (4.579) 
+Proceeds from other bank balances 571 
+Net cash flows uS"ed in invosting activities (Bl rs,327) 
+C. CASH FLOW FROM FINANCING ACTIVITIES 
+Proceeds from shares issued on exercise of associate srnck options (includes share 
+application money) 146 
+Prucl;'cd.s from jssue of shares to non-controlling interests 7,000 
+Tr,:ms<1ction cost on issue of sharc;s tr:i non-control1ing interests (306] 
+Proceeds from faL"toring arrangements (on behalf of banks) 201 
+I ntcrest paid (930) 
+Proceeds from non-rurn:-nt borrowings• 
+Repayment of non-current borrowings (1,724) 
+Movement in current bottowfngs (net)* [2,734] 
+Payment of principal portion of lease liabilities (1,025] 
+Payment of interest portion of lease liabiUties (219) 
+Repayment of s<Jlc and lc:.ascback of assets (13] 
+Dividends paid to equity share holders of the parent {indudt•s tran.sfer to investor 
+education and protection fund) (3,058) 
+Net cash flow used in finandn2 activities (C) [Z,662' 
+Net decrease in cash and cash equivalents (A+B+Cl (728) 
+Ca~h and cash equivalrmts at the beginnin_g of the year 5,502 
+Effect of exchange diffcr['nccs on translation of foreign currency cash and ca:;:h 
+eouivaknts r441 
+Cash and cash e-auivalents at the end of the vear fRefer note below"l 4,730 
+Notes: 
+fi) Cash. and cash equivalents comprises of 
+BalancC!S with banks 
+-in current accounts 4,457 
+-in deposits with banks original maturities less than 3 months 361 
+Cheques on hand 
+R~mittances in transit 
+Unoaid dividcnt.l. accounts 30 
+Total cash and cash ec:iuivalents 4,84B 
+Lc:<is: Bank overdrafts account balances [118) 
+Net cash and cash equivalents for cash flow statement 4,730 
+(ii) Net c.ish outnow on acquisition of busihC'is · 
+Particnlars For the year ended 
+March 31, 2024 
+Consideration paid in cash 1,550 
+Less: Cash and ca.sh equivalent bal,rnces acquired an the acquisitio11 
+Net cash outflow on acquisition ofbuS'iness 1,550 . Durmg the year March 3t, 2023. the Group has converted short-term borrowmgs to lon.g-tcrm borrowings amountm,i: to f 3,076 Mn. Annexure l(A) 
+(~ in Millions] 
+[ior the year ended 
+March 31, 2023 
+Audited 
+5,144 
+1,668 
+2,566 
+(11 
+(68] 
+1,000 
+(289) 
+(31) 
+(1] 
+16 
+307 
+336 
+22 
+[59] 
+(298) 
+10,312 
+[2,274) 
+(1,064] 
+[1,560) 
+[634) 
+560 
+' 
+1,037 
+450 
+6,827 
+[1,288] 
+5,539 
+(675] 
+23 
+(5,767) 
+(1,153) 
+(294) 
+(102) 
+5,535 
+1.121 
+413 
+31 
+(8,989) 
+(2,414) 
+1,944 
+fl0,3271 
+79 
+(658) 
+1,797 
+(315) 
+2,029 
+[1.1541 
+(215] 
+1261 
+(2.630) 
+[1,093) 
+(S,881) 
+11,118 
+265 
+5,502 
+s.zoo 
+347 
+22 
+618 
+28 
+6,215 
+(7131 
+5 502 
+For the year ended 
+March 31, 2023 
+11,323 
+(2,334) 
+8,989 
+(Page 5 of 6) 
+Annexure 1(B) 
+Standalone statement of cash flows: ('I: in Millions) 
+Far the year ended Far the year ended 
+Particulars March 31, 2 024 March 31, 2023 
+Audited Audited 
+A. CASH FLOW FROM OPERA TING ACTIVITIES 
+Profit for the year 4,973 3,548 
+Adjustments far: 
+Tax expense 1,577 1,075 
+Dividend from subsidiaries (223) -
+Depreciation and amortisation expense 948 1,135 
+Loss/(profit) on sale of property, plant and equipment [net) 2 (14) 
+Gain on termination of leases (net) (24] [111) 
+Finance costs 220 166 
+Interest income (300) [334) 
+Profit on sale of mutual funds [49) [31} 
+Loss on fair valuation of financial assets 2 1 
+Share-based payment to employees 118 212 
+Provision for expected credit loss (net of write-off] 13 164 
+Gain on sale of equity investment - (7) 
+Unrealised foreK loss, net 43 22 
+Operating profit before working capital changes 7,300 5,826 
+Chanqes in operatinq assets and Jiahilitie~i" 
+Adtus.tments (or increase iu 20.eruting assets; 
+Trade receivables (2,462) (2,472) 
+Other financial assets (12S] [640) 
+Other assets (116) [48) 
+,1,dfustments £or i!lccease {_ {decrease 1 in Df!.eraling liallilities: 
+Trade payables 303 307 
+Other liabilities (168) 156 
+Provision s 135 79 
+Cash generated from operations 4,867 3,ZOB 
+Net income taxes paid (1,780] [554] 
+Net cash flow from operating activities (A) 3,087 2,654 
+B. CASH FLOW FROM INVESTING ACTIVITIES 
+Payment towards purchase of property, plant and equipment and intangible assets [301) (3201 
+Proceeds from sale of property, plant and equipment 51 22 
+lnvestments in 
+-subsidiaries (1,124) [5,608] 
+-mutual funds (8,500] (5,767] 
+-bonds (3,555) [1,153) 
+~ commercia l paper (250) (294] 
+Proceeds from sale of investments in 
+-mutual funds 9,221 5,535 
+-bonds 3,656 1,121 
+-commercial paper 300 
+Proceeds from sale of equity investments 905 892 
+Loans given to subsidiaries (210] [298) 
+Loans repaid by subsidiaries 610 213 
+Interest received 198 395 
+Dividend received from mutual funds - 31 
+Dividend received from subsidiary 223 
+Payment towards acquisition of business - [1,747] 
+Movement in other bank balances [net) 1 
+Net cash Hows generated from/[used in) investing activities (BJ 1,Z25 [6,978} 
+C. CASH FLOW FROM FINANCING ACTIVITIES 
+Proceeds from shares issued on exercise of associate stock options (includes share 146 79 application money) 
+Proceeds from factoring arrangements [on behalf of banks) 13 -
+Interest paid [93] [26] 
+Payment of principal portion of lease liability [45S] [589] 
+Payment of interest portion of lease liability (126) [140] 
+Repayment of sale and leaseback of assets [12) (261 
+Dividends paid to equity share holders of the parent (includes transfer to investor (2,630) education and protection fund) (3,058) 
+Net cash flow used in financing activities [C} {3,585} [3,332) 
+Net increase/(decrease) in cash and cash equivalents (A+B+C} 727 [7,656) 
+Cash and cash equivalents at the beginning of the year 1,152 8,748 
+Effect of exchange differences on translation of foreign currency cash and cash 2 60 equivalents 
+Cash and cash equivalents at the end of the vear [refer note below] 1,881 1,152 
+Note: 
+Cash and cash equivalent s comprises of 
+-in current accounts 1,601 756 
+-in deposits with banks original maturitie s less than 3 months 250 28S 
+Remittances in transit 83 
+Unpaid dividend accounts 30 28 
+Total cash and cash equivalents 1,881 1,152 ., 
+(Page 6 of 6] 
+CYIENT 
+25 April 2024 
+Declaration pursuant to Regulation 33(3)(d) of SEBI {Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 
+In terms of the provisions of the Regulation 33(3)(d) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations 2015, I, hereby state that the Statutory Auditors of the Company, S. R. Batliboi 
+& Associates LLP, (ICAI Firm Registration Number 101049W/E300004), have issued an Audit Report with 
+an unmodified opinion on the Audited Standalone and Consolidated Financial Results of the Company for 
+the quarter and year ended 31 March 2024. 
+Thanking you 
+For Cyient Limited 
+fu.__ 
+Prabhakar Atla 
+Chief Financial Officer 
+Cyientltd. 
+• 4 ~ Floor, 'I>. Wing, Plot No.11 
+Software Units layout, Madhapur 
+Hyderabad -500 081 
+India Clh.l72200T G1991PLC01 3134 
+www.cyient.com 
+Company .Secretary®cyient.com 
+T +9140 6764 1000 
+F 1-914023110352 • 
+• 
+L 
+Chartered Accountants "(ASSOCIATES LLP 12th Floor, The Ruby 
+29 Senapati Bapat Marg 
+Dadar (West) 
+Mumbai -400 028, India 
+Tel: +91 22 6819 8000 
+Independent Auditor's Report on the Quarterly and Year to Date Consolidated Financial 
+Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, as amended 
+To 
+The Board of Directors of 
+Cyient Limited 
+Report on the Audit of the Consolidated Financial Results 
+Opinion 
+We have audited the accompanying statement of quarterly and year to date consolidated 
+financial results of Cyient Limited ("Holding Company") and its subsidiaries (the Holding 
+Company and its subsidiaries together referred to as "the Group") and its joint venture for the 
+quarter and year ended March 31, 2024 ("Statement"), attached herewith, being submitted by 
+the Holding Company pursuant to the requirement of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing 
+Regulations"). 
+In our opinion and to the best of our information and according to the explanations given to us, 
+the Statement: 
+i. includes the results of the following entities: 
+Holding Company: 
+Cyient Limited 
+Subsidiaries: 
+1. Cyient Inc., United States of America 
+2. Cyient Canada Inc., Canada 
+3. Cyient Defense Services Inc., United States of America 
+4. Cyient Insights Private Limited, India 
+5. Cyient Europe Limited, United Kingdom 
+6. Cyient Benelux BV, Netherlands 
+7. Cyient Schweiz GmbH, Switzerland 
+8. Cyient SRO, Czech Republic 
+9. Cyient NV, Belgium 
+10. Cyient GmbH, Germany 
+11. Cyient AB, Sweden 
+12. Cyient KK, Japan 
+13. Cyient DLM Limited, India 
+14. Cyient Singapore Private Limited, Singapore 
+15. Cyient Israel India Limited, Israel 
+16. Cyient Solutions and Systems Private Limited, India 
+"(ASSOCIATES LLP 
+Chartered Accountants 
+17. Cyient Australia Pty Limited, Australia 
+18. Integrated Global Partners Pty Limited, Australia 
+19. Integrated Global Partners Pte Ltd, Singapore 
+20. IG Partners South Africa Pty Ltd, South Africa 
+21. Integrated Global Partners SpA, Chile 
+22. Work Force Delta Pty Ltd, Australia 
+23. Grit Consulting Pte Ltd, Singapore 
+24. Celfinet -Consultoria EM Telecomunica9oes, S.A, Portugal 
+25. Metemesonip, Unipessoal Lda, Portugal 
+26. Celfinet UK Telecommunica tions Consulting Services Ltd, United Kingdom 
+27. Celfinet Espana -Consultoria en Telecomunicaciones S.L, Spain 
+28. Celfinet (Brasil)- Consultoria em Telecomunica9oes , Ltda, Brazil 
+29. Cel:finet Mozambique -Consultoria em Telecomunica9oes, Limitada, Mozambique 
+30. Celfinet Mexico -Consultoria de Telecomunicaciones AS, Mexico 
+31. Celfinet Germany -Telecommunications Consulting Services GmbH, Germany 
+32. Sentiec Oyj, Finland 
+33. Citec Group Oy Ab, Finland 
+34. Cyient Oy Ab (formerly known as Citec Oy Ab), Finland 
+35. Citec Engineering France Sarl, France 
+36. Cyient Engineering AB (formerly known as Citec AB), Sweden 
+37. Cyient Engineering & Information GmbH (formerly known as Citec Information & 
+Engineering GmbH), Germany 
+38. Cyient Group France SAS (formerly known as Citec Group France SAS), France 
+39. Akilea Overseas Ltd., France 
+40. Cyient Norway AS, Norway (formerly known as Citec Norway AS) 
+41. Citec Engineering India Private Limited, India 
+42. Cyient Global Captive Solutions Private Limited (incorporated w.e.f. February 27, 
+2024), India 
+43. Cyient DLM Inc (incorporated w.e.f. March 05, 2024), United States of America 
+Joint venture entity: 
+Infotech HAL Limited, India 
+11. are presented in accordance with the requirements of the Listing Regulations in this regard; 
+and 
+111. gives a true and fair view in conformity with the applicable accounting standards, and other 
+accounting principles generally accepted in India, of the consolidated net profit and other 
+comprehensive loss and other financial information of the Group for the quarter and year 
+ended March 31, 2024. 
+Basis for Opinion 
+We conducted our audit in accordance with the Standards on Auditing (SAs), as specified under 
+Section 143(10) of the Companies Act, 2013, as amended ("the Act"). Our responsibilities 
+under those Standards are further described in the "Auditor's Responsibilities for the Audit of 
+the Consolidated Financial Results" section of our report. We are independent of the Group, 
+S.R. Batlibol & Associates LLP, a Umited Liability Partnership wltfl LLP Identity No. AAB-4295 
+Regd, Office: 22, Camar: Street, Block 'B', 3rd FJoor, Kolkata-700 016 
+c n n ·-. ~ n(ASSOCIATES LLP 
+Chartered Accountants 
+and its joint venture in accordance with the 'Code of Ethics' issued by the Institute of Chartered 
+Accountants of India together with the ethical requirements that are relevant to our audit of the 
+financial statements under the provisions of the Act and the Rules thereunder, and we have 
+fulfilled our other ethical responsibilities in accordance with these requirements and the Code 
+of Ethics. We believe that the audit evidence obtained by us is sufficient and appropriate to 
+provide a basis for our opinion. 
+Management's Responsibilities for the Consolidated Financial Results 
+The Statement has been prepared on the basis of the consolidated annual financial statements. 
+The Holding Company's Board of Directors are responsible for the preparation and 
+presentation of the Statement that give a true and fair view of the net profit and other 
+comprehensive loss and other financial information of the Group including its joint venture in 
+accordance with the applicable accounting standards prescribed under section 133 of the Act 
+read with relevant rules issued thereunder and other accounting principles generally accepted 
+in India and in compliance with Regulation 33 of the Listing Regulations. The respective Board 
+of Directors of the companies included in the Group and its joint venture are responsible for 
+maintenance of adequate accounting records in accordance with the provisions of the Act for 
+safeguarding of the assets of their respective companies and for preventing and detecting frauds 
+and other irregularities; selection and application of appropriate accounting policies; making 
+judgments and estimates that are reasonable and prudent; and the design, implementation and 
+maintenance of adequate internal financial controls, that were operating effectively for 
+ensuring the accuracy and completeness of the accounting records, relevant to the preparation 
+and presentation of the Statement that give a true and fair view and are free from material 
+misstatement, whether due to fraud or error, which have been used for the purpose of 
+preparation of the Statement by the Directors of the Holding Company, as aforesaid. 
+In preparing the Statement, the respective Board of Directors of the companies included in the 
+Group and its joint venture are responsible for assessing the ability of their respective 
+companies to continue as a going concern, disclosing, as applicable, matters related to going 
+concern and using the going concern basis of accounting unless the respective Board of 
+Directors either intends to liquidate the Group or to cease operations, or has no realistic 
+alternative but to do so. 
+The respective Board of Directors of the companies included in the Group and its joint venture 
+are also responsible for overseeing the financial reporting process of their respective 
+companies. 
+Auditor's Responsibilities for the Audit of the Consolidated Financial Results 
+Our objectives are to obtain reasonable assurance about whether the Statement as a whole is 
+free from material misstatement, whether due to fraud or error, and to issue an auditor's report 
+that includes our opinion. Reasonable assurance is a high level of assurance, but is not a 
+guarantee that an audit conducted in accordance with SAs will always detect a material 
+misstatement when it exists. Misstatements can arise from fraud or error and are considered 
+material if, individually or in the aggregate, they could reasonably be expected to influence the 
+economic decisions of users taken on the basis of the Statement. 
+S.R. Batlibol & Associates LLP, a Limited Liability Partnership with LLP Jdentity No . .AAB-4295 
+Reqd. Office; 22, Carnac street, Block 'B', 3rd Floor, Kolkata~700 016 
+r ....,. "ASSOCIATES LLP 
+Chartered Accountants 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also: 
+• Identify and assess the risks of material misstatement of the Statement, whether due to 
+fraud or error, design and perform audit procedures responsive to those risks, and obtain 
+audit evidence that is sufficient and appropriate to provide a basis for our opinion. The 
+risk of not detecting a material misstatement resulting from fraud is higher than for one 
+resulting from error, as fraud may involve collusion, forgery, intentional omissions, 
+misrepresentations, or the override of internal control. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances. Under Section 143(3)(i) of the 
+Act, we are also responsible for expressing our opinion on whether the company has 
+adequate internal financial controls with reference to financial statements in place and 
+the operating effectiveness of such controls. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates and related disclosures made by the Board of Directors. 
+• Conclude on the appropriateness of the Board of Directors' use of the going concern 
+basis of accounting and, based on the audit evidence obtained, whether a material 
+uncertainty exists related to events or conditions that may cast significant doubt on the 
+ability of the Group and its joint venture to continue as a going concern. If we conclude 
+that a material uncertainty exists, we are required to draw attention in our auditor's 
+report to the related disclosures in the Statement or, if such disclosures are inadequate, 
+to modify our opinion. Our conclusions are based on the audit evidence obtained up to 
+the date of our auditor's report. However, future events or conditions may cause the 
+Group and its joint venture to cease to continue as a going concern. 
+• Evaluate the overall presentation , structure and content of the Statement , including the 
+disclosures, and whether the Statement represent the underlying transactions and events 
+in a manner that achieves fair presentation. 
+• Obtain sufficient appropriate audit evidence regarding the financial results/financial 
+information of the entities within the Group of which we are the independent auditors 
+and whose financial information we have audited, to express an opinion on the 
+Statement. We are responsible for the direction, supervision and performance of the 
+audit of the financial information of such entities included in the Statement of which 
+we are the independent auditors. We remain solely responsible for our audit opinion. 
+We communicate with those charged with governance of the Holding Company and such other 
+entities included in the Statement of which we are the independent auditors regarding, among 
+other matters, the planned scope and timing of the audit and significant audit findings, including 
+any significant deficiencie s in internal control that we identify during our audit. We also 
+provide those charged with governance with a statement that we have complied with relevant 
+ethical requirements regarding independence, and to communicate with them all relationships 
+and other matters that may reasonably be thought to bear on our independenc e, and where 
+applicable , related safeguards. 
+We also performed procedures in accordance with the Master Circular issued by the Securities 
+Exchange Board of India under Regulation 33 (8) of the Listing Regulations , to the extent 
+applicable. 
+S.R. Batlibol & Associates LLP, a Limited Uability Partnership with LLP lde-ntity No. AA8~4295 
+Re-gd. Office: 22. C.tmac Street, Block 'B', 3rd Floor, Kolkata·700 016 
+C /0 
+n( ASSOCIATES LLP 
+Chartered Accountants 
+Other Matter 
+1. The accompanying Statement includes unaudited financial results and other unaudited 
+financial information , in respect of a joint venture, whose financial results includes the 
+Group's share of net loss of Rs. Nil and Rs. Nil and Group's share of total 
+comprehensive loss of Rs. Nil and Rs. Nil for the quarter and for the year ended 
+March 31, 2024 respectively, as considered in the Statement whose financial results and 
+other financial information have not been audited by its auditor. These unaudited 
+financial results and other unaudited financial information have been approved and 
+furnished to us by the Management and our opinion on the Statement, in so far as it 
+relates to the amounts and disclosures included in respect ofthis joint venture, is based 
+solely on such unaudited financial results and other unaudited financial information. In 
+our opinion and according to the information and explanations given to us by the 
+Management, these financial results are not material to the Group. Our opinion on the 
+Statement is not modified in respect of the above matters with respect to our reliance 
+on the financial results/financial information certified by the Management. 
+2. The Statement includes the results for the quarter ended March 31, 2024 being the 
+balancing figures between the audited figures in respect of the full financial year ended 
+March 31, 2024 and the published unaudited year-to-date figures up to the end of the 
+third quarter of the current financial year, which were subjected to a limited review by 
+us, as required under the Listing Regulations. 
+For S.R. Batliboi & Associates LLP 
+Chartered Accountants 
+m Registration Num:;::~~;:: 9W ffi300004 
+.._""' . .' \'u•j, ~-': ,~ \ 
+• • ;,\ MUMBP..I)" per V1kas Pansan •• ·': .. ,. /,i/ 
+Partner •. .__. ,t.,'/, 
+• f, ~1/ Membership No.: 093649 -,:~;;.~-
+UD IN: .:l 4-CYl 2 GL\Ll Bl<<qf>~A 5ge, I 
+Place: Mumbai 
+Date: April 25, 2024 
+S.R. Batliboi & Associates LLP, a Limited Liability Partnership with LLP ldentity No. AAB-4295 
+Regd. Office: 22, Camac Street, Block 18', 3rd floor, Kolkata-700 016 
+r 0
+( ASSOCIATES LLP 
+Chartered Accountants 12th Floor, The Ruby 
+29 Senapati Bapat Marg 
+Dadar (West) 
+Mumbai -400 028, India 
+Tel: +91 22 6819 8000 
+Independent Auditor's Report on the Quarterly and Year to Date Audited Standalone 
+Financial Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended 
+To 
+The Board of Directors of 
+Cyient Limited 
+Report on the Audit of the Standalone Financial Results 
+Opinion 
+We have audited the accompanying statement of quarterly and year to date standalone financial 
+results of Cyient Limited (the "Company") for the quarter and year ended March 31, 2024 
+("Statement"), attached herewith, being submitted by the Company pursuant to the requirement 
+of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, as amended (the "Listing Regulations"). 
+In our opinion and to the best of our information and according to the explanations given to us, 
+the Statement: 
+1. is presented in accordance with the requirements of the Listing Regulations in this regard; 
+and 
+11. gives a true and fair view in conformity with the applicable accounting standards and other 
+accounting principles generally accepted in India, of the net profit and other 
+comprehensive income and other financial information of the Company for the quarter and 
+year ended March 31, 2024. 
+Basis for Opinion 
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under 
+section 143(10) of the Companies Act, 2013, as amended ("the Act"). Our responsibilities 
+under those Standards are further described in the "Auditor's Responsibilities for the Audit of 
+the Standalone Financial Results" section of our report. We are independent of the Company 
+in accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India 
+together with the ethical requirements that are relevant to our audit of the financial statements 
+under the provisions of the Act and the Rules thereunder, and we have fulfilled our other ethical 
+responsibilities in accordance with these requirements and the Code of Ethics. We believe that 
+the audit evidence obtained by us is sufficient and appropriate to provide a basis for our 
+opinion. 
+Management's Responsibilities for the Standalone Financial Results 
+The Statement has been prepared on the basis of the standalone annual financial statements. 
+The Board of Directors of the Company are responsible for the preparation and presentation of 
+the Statement that gives a true and fair view of the net profit and other comprehensive income 
+of the Company and other financial information in accordance with the applicable accounting 
+standards prescribed under Section 133 of the Act read with relevant rules issued thereunder 
+"·--• ~-( ASSOCIATES LLP 
+Chartered Accountants 
+and other accounting principles generally accepted in India and in compliance with Regulation 
+33 of the Listing Regulations. This responsibility also includes maintenance of adequate 
+accounting records in accordance with the provisions of the Act for safeguarding of the assets 
+of the Company and for preventing and detecting frauds and other irregularities; selection and 
+application of appropriate accounting policies; making judgments and estimates that are 
+reasonable and prudent; and the design, implementation and maintenance of adequate internal 
+financial controls, that were operating effectively for ensuring the accuracy and completeness 
+of the accounting records, relevant to the preparation and presentation of the Statement that 
+give a true and fair view and are free from material misstatement, whether due to fraud or error. 
+In preparing the Statement , the Board of Directors are responsible for assessing the Company's 
+ability to continue as a going concern, disclosing , as applicable, matters related to going 
+concern and using the going concern basis of accounting unless the Board of Directors either 
+intends to liquidate the Company or to cease operations, or has no realistic alternative but to 
+do so. 
+The Board of Directors are also responsibl e for overseeing the Company's financial reporting 
+process. 
+Auditor's Responsibilities for the Audit of the Standalone Financial Results 
+Our objectives are to obtain reasonable assurance about whether the Statement as a whole is 
+free from material misstatement, whether due to fraud or error, and to issue an auditor's report 
+that includes our opinion. Reasonable assurance is a high level of assurance but is not a 
+guarantee that an audit conducted in accordance with SAs will always detect a material 
+misstatement when it exists. Misstatements can arise from fraud or error and are considered 
+material if, individually or in the aggregate, they could reasonably be expected to influence the 
+economic decisions of users taken on the basis of the Statement. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain 
+professional skepticism throughout the audit. We also: 
+• Identify and assess the risks of material misstatement of the Statement , whether due to 
+fraud or error, design and perform audit procedures responsive to those risks, and obtain 
+audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk 
+of not detecting a material misstatement resulting from fraud is higher than for one 
+resulting from error, as fraud may involve collusion, forgery, intentional omissions , 
+misrepresentations , or the override of internal control. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit 
+procedures that are appropriate in the circumstances. Under Section 143(3)(i) of the Act, 
+we are also responsible for expressing our opinion on whether the company has adequate 
+internal financial controls with reference to financial statements in place and the operating 
+effectiveness of such controls. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of 
+accounting estimates and related disclosures made by the Board of Directors. 
+• Conclude on the appropriateness of the Board of Directors ' use of the going concern basis 
+of accounting and, based on the audit evidence obtained, whether a material uncertainty 
+exists related to events or conditions that may cast significant doubt on the Company 's 
+S.R. Batliboi & Associates LLP, a Limited Liability Partnership with LLP Identity No. AA8·4295 
+Regd. Office : 22, Camac Stn~et, Block 'B', 3rd Floor, Kolkata-700 016 
+,r 
+-• ---· n ASSOCIATE5 LLP 
+Chartered Accountants 
+ability to continue as a going concern. If we conclude that a material uncertainty exists, 
+we are required to draw attention in our auditor's report to the related disclosures in the 
+financial results or, if such disclosures are inadequate, to modify our opinion. Our 
+conclusions are based on the audit evidence obtained up to the date of our auditor's report. 
+However, future events or conditions may cause the Company to cease to continue as a 
+going concern. 
+• Evaluate the overall presentation, structure and content of the Statement, including the 
+disclosures, and whether the Statement represents the underlying transactions and events 
+in a manner that achieves fair presentation. 
+We communicate with those charged with governance regarding, among other matters, the 
+planned scope and timing of the audit and significant audit findings, including any significant 
+deficiencies in internal control that we identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with 
+relevant ethical requirements regarding independence, and to communicate with them all 
+relationships and other matters that may reasonably be thought to bear on our independence, 
+and where applicable, related safeguards. 
+Other Matter 
+The Statement includes the results for the quarter ended March 31, 2024 being the balancing 
+figure between the audited figures in respect of the full financial year ended March 31, 2024 
+and the published unaudited year-to-date figures up to the third quarter of the current financial 
+year, which were subjected to a limited review by us, as required under the Listing Regulations. 
+For S.R. BA TLIBOI & ASSOCIATES LLP 
+Chartered Accountants 
+m Registration Num~::~::49W /E300004 
+.. .,,, ... ,,,,..·,'-
+~~ 1 .·11·/'Ml'?ABAl\t\)', 
+V•ka p • :.fl , I ., ' '' / per I s ansan • ·•·-:-\ /.i : 
+Partner .-__ .,,t.,1/.-
+b . N 9 6 '·OA•C~"/ Mem ership o.: 0 3 49 ··--::..9 
+UDIN: Jlf--OG136'4-9 B~ PQB3::f-OO 
+Place: Mumbai 
+Date: April 25, 2024 
+S.R. BatuboJ & Associates LLP, a Limited Uabllity Partnership wlth LLP Identity No. AAB-4295 
+Regd. Office: 22, Camac Street, Block 'B', 3rd Floor, Kolkata-700 016 

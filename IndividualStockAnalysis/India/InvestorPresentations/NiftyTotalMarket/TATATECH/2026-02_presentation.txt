@@ -1,0 +1,764 @@
+
+=== page 1 ===
+ 
+ 
+ 
+Tata Technologies Limited  
+Plot No 25, Rajiv Gandhi Infotech Park | Hinjawadi, Pune 411057 | India 
+Tel: +91 20 6652 9090 | Fax: +91 20 6652 9035 
+CIN L72200PN1994PLC013313  
+Email: investor@tatatechnologies.com  
+Website: www.tatatechnologies.com 
+Ref. No.: TTL/COSEC/SE/2025-26/91 
+ 
+February 25, 2026       
+ 
+Dear Sir / Madam, 
+ 
+Subject: Analyst / Institutional Investor Meetings - Presentation 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, and in continuation of our letters dated February 20, 2026 informing the 
+exchange regarding the schedule of Analyst/Institutional Investor Meetings/Conference with the 
+management of the Company to be held on February 26 and February 27, 2026, please find 
+enclosed the copy of the presentation to be made to the investor(s) / analyst(s) during the 
+meetings. 
+ 
+This is for your information and records.  
+ 
+For Tata Technologies Limited 
+ 
+ 
+ 
+_____________ 
+Warren Harris 
+CEO and Managing Director 
+DIN: 02098548  BSE Limited                                  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai- 400001, India 
+Scrip Code: 544028 National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051, India 
+Trading symbol: TATATECH 
+=== page 2 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Classification: Public
+Tata Technologies
+Investor Presentation
+Feb 2026
+Scrip: BSE 544028, NSE: TATATECH
+#EngineeringASoftwareDefinedFuture
+=== page 3 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+Disclaimer 
+2This release may include opinions and assumptions about future performance which could be considered 
+forward -looking statements. Forward -looking statements intrinsically cover several risks and uncertainties, 
+which may lead to a  material difference between actual results and the statements themselves. Such 
+statements comprise the company’s current visibility on market movements, client discussions, and related 
+factors. Tata Technologies Limited does not assume an obligation to update or revise any forward -looking 
+statements.
+Certain analysis undertaken and represented in this document may constitute an estimate from the 
+Company and may differ from the actual underlying results.
+=== page 4 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+3# Topic
+01 Section 1 –The Market Is Turning Again                                                                                          Slides 4 - 7
+02 Section 2 – Using The Slowdown To Build A More Resilient Core                                                    Slides 8 – 15
+03 Section 3 – Why We Are Structurally Different                                                                                 Slides 16 – 19
+04 Section 4 - Why AI Reinforces, Not Replaces, This Advantage                                                     Slides 20 – 23  
+05 Section 5 - Entering the Upcycle Structurally Stronger                                                                Slides 24 – 30  
+06 Section 6 – The Way Ahead                                                                                                       Slides 31 – 35 
+07 About Tata Technologies                                                                                                      Slides 36 – 37 Index
+=== page 5 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+4THE MARKET IS TURNING AGAIN
+=== page 6 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Last 12 – 18 months: A pause in decisions, not in demand
+5Manufacturing Paused Decisions - Not Ambition
+The automotive ER&D market has experienced delays rather 
+than cancellations of key projects.Factors Driving Delays
+Geopolitical uncertainty, tariff fluctuations, and changing 
+propulsion strategies have caused program delays.
+1.41.52.5Global enterprise ER&D spending (US$ Tn)
+CAGR  8.0 - 9.0%
+Source: NASSCOM7382135Global enterprise ER&D outsourcing (US$ Bn)
+CAGR  8.5 - 9.5%
+Despite recent slowdowns from macro headwinds, Global ER&D outsourcing and spending is set for strong long -term growth2022 2024 2030E 2022 2024 2030E
+=== page 7 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Why manufacturing rebounds differently
+/Global ER&D spend shows that manufacturing investment follows new product, platform, and propulsion decisions -
+not sales cycles.
+/To stay competitive and gain market share, both traditional and new players must boost R&D, launch products, and 
+cut prices.
+/When platform and propulsion decisions restart, engineering spend follows. This creates step -ups, not gradual 
+recoveries.
+63201200Automotive Software and Electronics Market 
+(US$Bn )
+Source: BCG  , NASSCOM report; Industry (% share in ER&D spend in 2024)Automotive  ( 13-14%) Aerospace & Defense (5-6%)
+Growth 
+Drivers/SDVs and ADAS
+/AI-driven cost optimization and 
+services
+/Shift towards hybrid and fuel cell
+/Powertrains/Fleet expansion and space 
+investment
+/Sustainable aviation technologies
+/MRO modernization and 
+workforce digitization 
+Engineering 
+priorities/Electrification and battery R&D
+/SDVs, SDV middleware and 
+connectivity
+/Manufacturing automation and 
+EV BMS
+/AI integration in design and 
+autonomy
+/Supply chain localization
+/AUTOSAR safety, ADAS validation/AI-driven maintenance and 
+operations
+/Supply chain visibility and 
+resilience
+/Workforce upskilling (digital and 
+AI) and talent pipeline
+2024 2035E
+=== page 8 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Why this inflection matters for Tata Technologies
+7System -Level Ownership
+At Tata Technologies, we take full accountability for entire 
+vehicle systems and outcomes - not just discrete 
+deliverables.Scale & Program Execution
+We possess the ability to resource and run large, complex, 
+multi -year programs with consistency, governance & 
+measurable results.
+Engineering –Manufacturing Continuity
+We carry work seamlessly across the product digital 
+thread - from engineering design through to 
+manufacturing execution.Beyond Modular Delivery
+We shifted from fragmented, task -based models toward 
+integrated, outcome -driven engagements that drive real 
+competitive advantage.2024 2030EGlobal ER&D services market addressed by
+Indian service providers (US$ Bn)
+Disrupted growth Baseline growth Accelerated growth20-2131-3238-3946-47Accelerated growth 
++14-15% CAGR
+Disrupted growth
++7-8% CAGRSource: NASSCOM
+The evolving  landscape  favors  partners  
+equipped  with differentiated,  end -to-end  
+capabilities  - not just task execution . OEMs  
+are raising  the bar on what  they  expect  from  
+strategic  partners .
+2030EBaseline growth
++11-12% CAGR
+=== page 9 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+8USING THE SLOWDOWN TO BUILD A MORE RESILIENT CORE
+=== page 10 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Margins  Compressed Anchor  Softness  Surfaced
+/We observed  softer  anchor  sentiment  during  the period,  
+stemming  from  temporary  operational  challenges  after  a 
+cybersecurity  event . 
+/While  the event  created  near -term  hesitancy,  our 
+underlying  engagement  model  and long-term  
+partnerships  remain  robust .
+9Q4 FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26 Q4 FY26ETata Technologies Reported EBITDA Margin %
+But Customer  Relevance  Held,  Particularly  Anchors
+/Increased  strategic  conversations  spanning  SDV,  
+connected  experiences,  ADAS,  digital  twins,  and end-to-
+end digital  engineering .
+/Deep  operational  embeddedness  continues  to amplify  
+with key customers . 
+/Expanding  OEM  footprint  that complements  anchors  
+(de-risks  concentration  without  diluting  relevance) .Q4 FY26EThe model was stress -tested…
+Note: Numerical values redacted; charts remain representative of actual data
+=== page 11 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Diversification  Advanced
+Diversification  continues  to advance,  supported  by the 
+addition  of marquee  global  OEMs  such  as BMW  and 
+Volkswagen,  further  strengthening  our customer  portfolio  
+and expanding  our presence  across  key mobility  segments .Portfolio  Mix Improved
+10
+FY23 FY24 FY25 FY26E+60.7%
+Embedded RevenueOur focus  on Embedded  Software  and Services  has 
+improved  our Portfolio  mix and we are now uniquely  
+positioned  to address  the Mechanical,  Digital  and 
+Embedded  requirements  of our customers .
+CAGR
+Engagement  with BMW  spans  across  
+Germany  and in India  through  BMW  
+TechWorks  India  (BTI)We enabled growth in new -age areas 
+within VW through the acquisition of 
+ES-Tec Group, Germany…Yet it sustained and scaled
+Note: Numerical values redacted; charts remain representative of actual data
+=== page 12 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Our solutions continued to deliver excellent customer experience
+11Designing, manufacturing, and 
+commissioning of advanced 
+Docking Systems for a leading 
+APAC airline
+38
+2564 61
+NPS - 2024 NPS - 2025
+Competition TTL - ServicesTTL overall NPS seen to be in the 
+Top 10%ile among global 
+technology services players
+Gen AI Powered Sales Assistant  for 
+enhanced customer experienceComplete vehicle engineering 
+including CAE and CFD Virtual 
+Validation, and System Engg.
+Full vehicle HIL lab for testing 
+and validation at our European 
+UK headquarterImplemented Integrated Digital 
+Ecosystem for JLR Chennai Plant
+=== page 13 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+What  held  up through  the downturn?
+1214.6%15.0%16.2%16.6% 16.7%18.5%19.9%
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26Non-Auto Revenue as a % of Overall ServicesRevenue  Contribution  From  Non -Auto  Increased Services  Momentum  Stabilized
+118.1119.9 119.9
+118.1
+112.5115.6118.6##
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26 Q4 FY26ETata Tech Services Revenue (USD mn)
+Q4 FY26EOur  resilience  has been  demonstrated  through  recovery  in services  and  portfolio  diversification
+##: Targeting c.10% QoQ sequential growth in Q4FY26
+=== page 14 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Enhancements we drove while the market slowed (1 of 3)
+13Tata Technologies acquired Germany -based ES -Tec Group for up to €75 million 
+in late 2025, strengthening its presence in the German automotive market.
+/The deal expands capabilities in ADAS, connected mobility, digital engineering, and 
+Software -Defined Vehicles (SDV).
+/Over 300 skilled engineers join Tata Technologies, enhancing its talent pool 
+      and supporting key clients like Volkswagen.
+/ES-Tec’s established presence in Germany -one of the world’s most 
+     advanced automotive innovation hubs.
+/It provides us with a strategic platform to scale ER&D operations, 
+      access top -tier engineering talent, and deepen our engagement with 
+      marquee OEMs.
+Test Track in Morocco
+Robot HIL Testing
+=== page 15 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+14Ramp -up 
+∕Ramped up significantly with over 1,500+ team 
+members onboarded by December 2025 
+∕BTI will likely exceed the budgeted HC for FY26 
+∕Intense FG transition exercise successfully 
+concluded 
+Headcount OnboardedDelivery Excellence 
+∕While managing the complexity team delivered 90%+ 
+Delivery Reliability, 95%+ performance in Delivery 
+Operations,  and strong CSAT scores 
+TISAX 
+∕Achieved TISAX AL2 certification: underscoring 
+commitment to security and compliance 
+People and Culture 
+∕Diversity ratio of 25% 
+∕High employee advocacy reflecting high engagement 
+and satisfaction 
+∕Referrals is a major source of Recruitment confirming 
+higher employee satisfaction
+Enhancements we drove while the market slowed (2 of 3)
+Note: Numerical values redacted; charts remain representative of actual data
+=== page 16 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+15Product engineering Manufacturing engineering After market
+AI for product 
+design 
+Automated 
+BOM generation
+Automating tech manuals 
+with generative AIVisual quality 
+inspection  
+systemAI-driven inventory  
+management
+ML-based warranty 
+processingCustomer 
+retention modelGen AI virtual assistant 
+for productivity
+Factory 
+co-pilot
+Framework for rapid domain -based 
+AI/ML application deploymentWe integrated  AI to optimize  processes,  enhance  user  experience,  and  drive  competitivenessEnhancements we drove while the market slowed (3 of 3)
+=== page 17 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+16WHY WE ARE STRUCTURALLY DIFFERENT
+=== page 18 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Turnkey Research, Engineering, and Development (TREaD) 
+Digital thread enablement across processes & enterprise applicationsTurnkey Vehicle Development Capabilities: From Concept to Launch
+Over the years, we have successfully developed all types of vehicles, right from high volume to luxury & xEV to performance c ars. Our deep engineering 
+expertise in turnkey vehicle development programs makes us the preferred one -stop engineering service provider for our clients.
+Homologation 
+& Vehicle 
+launchMarket Definition & 
+Product StrategyTesting & Validation 
+(Simulation & Test -
+car)Vehicle Engineering & 
+Architecture & 
+Concept DesignProcess & Resource 
+Planning and  
+IndustrializationDetail Design & 
+Engineering
+Our  program  covers  the complete  spectrum  of solutions  around  full vehicle  program  with  improved  time -to-market . 
+17
+=== page 19 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+18Full Vehicle Program (FVP) Delivery Capability
+Full Vehicle 
+Programs 
+(FVPs)35+
+Mid Cycle 
+Facelift (MCF) 
+programs12+
+Green Energy 
+Programs 
+(BEVs)15+
+Vehicle 
+Programs 
+delivered over 
+30 years250+
+New energy 
+vehicle (NEV) 
+platform 
+engineering5+
+Body 
+Structures
+Light 
+Weighting
+Door 
+Systems 
+&
+Closures
+Exterior
+Trim
+Lightin
+g
+Seating
+Body
+Mechanic
+s
+Interior
+Trim & 
+Cabin
+SourcingValue 
+EngineeringSafetySurface 
+DesignChassis
+DesignEmbedde
+d 
+SoftwarePowertrai
+n
+SystemsVehicle 
+Engineerin
+g
+Die & Mold
+Tool 
+DesignMetal & Plastic 
+formabilityJig & 
+Fixture 
+DesignRobotics 
+& CNC
+Process 
+Design & 
+Digital 
+Mfg.
+Design
+Studio
+CubingShow
+VehiclesPrototypin
+gVehicle
+TestingElectrical
+& 
+Electroni
+csMANUFACTURINGENGINEERINGPRODUCTENGINEERING
+PRODUCTENGINEERING/ESPs from India to deliver full turnkey vehicle program for 
+global automotive OEM.
+/ESPs to build body assembly line for an Indian OEM.
+/ESPs to manufacture tooling for an Indian OEM.Amongst 
+the  
+1st 
+=== page 20 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+19While  most  global  ER&D  players  typically  focus  on 
+discrete  domains,  subsystems,  or component -level  
+engineering  …
+OEM  captive  centers  are often  constrained  by their  
+internal  structures,  legacy  processes  & program -specific  
+silos  …
+We integrate across the vehicle
+We function with flexibility, scale & 
+Cross -Program LearningWe operate with Vehicle -level accountability
+
+=== page 21 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+20WHY AI REINFORCES, NOT REPLACES, THIS ADVANTAGE
+=== page 22 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+21AI : Unbearable disruption for some, unprecedented opportunity for others
+Software Development is having its existential crisis moment. Engineering is not.
+=== page 23 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+22We are taking an integrated approach across Digital Thread, Agentic AI, and 
+MBSE to accelerate product lifecycles: applicable to Auto, IHM, Aero ++
+The Problem
+xOEMs face increasing complexity due 
+to SDV, regulatory pressures, and 
+volatile supply chains. 
+xTraditional document -centric 
+engineering workflows are slow, 
+fragmented, and prone to late -stage 
+rework. 
+xSupply chains remain reactive, and 
+manufacturing quality issues often 
+surface too late, leading to cost 
+overruns and delayed launches.The Solution – Establish continuous digital thread across engineering, 
+supply chain, manufacturing and quality operations.
+✓Generative Engineering with MBSE validation
+✓Agentic orchestration and simulation
+✓Predictive analytics and optimization
+✓AI assistants for traceability and compliance
+AI proposes designs and decisions, MBSE validates them, 
+and humans retain final approval authority .The End State
+➢Faster time -to-market for new vehicle 
+programs
+➢Reduced engineering and validation 
+costs
+➢Improved quality and compliance 
+confidence
+➢Enhanced resilience to supply chain 
+disruptions
+➢Scalable, AI -augmented engineering 
+capacityObjective: To transform product lifecycles by integrating Agentic AI with MBSE, enabling faster concept -to-production 
+cycles, right -first-time engineering, and scalable cost structures -while preserving safety, quality, and human 
+accountability. 
+From Systems of Record (Traditional PLM)   →   
+a System of Intelligence
+=== page 24 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+23We have established clarity around focus areas to incorporate AI into the 
+Automotive New Product Introduction (NPI) value chain
+Product Definition Product Engineering Manufacturing & Process Engg. Operations & Production Sales, Service & Warranty
+0Product Plan
+& Concept
+1Concept Final
+Development Start
+3Product Release
+& Process Design
+5Prod. & Process 
+Verified 
+6Prod. Certified
+& Start Production
+7Mass Prod.
+Delivery
+2Product
+Validation
+4Process
+ValidationProject
+Kick-off
+KOEnd of 
+Production
+8End of 
+Project
+9
+NPI
+ENGINEERING MANUFACTURING & SUPPLY CHAIN ENGINEERING MANUFACTURING & SUPPLY CHAIN AFTER MARKET
+GUse of Generative AI AI for Product Design 
+AI in Software Engineering
+AI in Software Engineering
+Technical Component Manual Automation 
+with Gen AI
+Gen AI styling solutions for design studioFactory  Co-Pilot 
+AI driven Intelligent Inventory Management  AI driven Visual Quality Inspection system to 
+improve the product Quality   
+Gen AI Powered Warranty vehicle analysis   Reduction in customer churn by enabling 
+Customer Retention modelIdentification of upselling opportunities with 
+the help of AI 
+Virtual sales Assistant powered by Gen AI 
+for Productivity improvement 
+Virtual Assistant for Field Service Engineer Enabling higher production through 
+Predictive Maintenance 
+GGG
+GG
+G
+=== page 25 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+24A STRUCTURALLY STRONGER COMPANY 
+ENTERING THE UPCYCLE
+=== page 26 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+/ Software -defined vehicles  driving embedded, cloud, 
+and cybersecurity complexity
+/ EV transition requiring new architectures and large -
+scale outsourced engineering
+/Shift toward highly connected, intelligent, and 
+safety -driven vehicle architectures
+/ Industry 4.0:  Digital twins, IT/OT convergence
+/Tighter regulations increasing simulation & validation 
+needs
+/ Margin pressures  on OEMs increasing structural 
+outsourcing
+25Automotive remains the core, and the opportunity is expanding
+/ End -to-end vehicle engineering DNA
+/ Turnkey capability  = strategic partner, not vendor
+/ Deep OEM Relationships: Trusted partner to leading 
+global automakers.
+/ Proven EV & Digital Capabilities: Strong track record in 
+electrification, connected vehicles, and digital twins.
+/ Scalable Global Talent:  Engineering hubs aligned with 
+automotive innovation clusters.
+/ Resilient Delivery Model: Ability to manage cost, quality, 
+and speed across programs.
+TTL is engineered for complexity.
+Our automotive MOAT only strengthens as the industry transforms.The  engineering  required  to bring  a modern  vehicle  to market  has skyrocketed  - and  we are built  to capture  every  layer  
+of that  complexity .
+Our Moat The Complexity Matrix
+
+=== page 27 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+26Operating at “China Speed, China Cost, Western Quality” - Enabling “China for 
+China” and “China for the World”
+Tata Technologies is uniquely positioned as the 
+critical bridge - connecting the strength of China’s ecosystem with global clients and markets./Established delivery presence in China to 
+support global OEMs and JVs.
+/Access to competitive engineering and 
+manufacturing ecosystems within China.
+/Blended global delivery model (India –China–
+Europe -US) optimizing total program cost.
+/On-ground teams enabling proximity -driven 
+collaboration while maintaining IP -secure 
+global governance./Ability to execute at the pace of China’s 
+high-velocity manufacturing environment.
+/Rapid engineering change management 
+aligned with local supply chains and 
+production systems.
+/Real-time collaboration with customers’ 
+China operations, reducing iteration cycles 
+and approval delays.
+/Faster industrialization support from design 
+to production ramp -up./Strong delivery footprint in NA and EU 
+supporting our customers across verticals.
+/Adherence to stringent regulatory standards.
+/Deep capabilities in safety -critical systems, 
+certification, and validation.
+/Mature program governance and 
+documentation rigor embedded across 
+global teams.China Cost China Speed Western Quality
+
+=== page 28 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+27Aerospace offerings spread across Airframes, Propulsion, MRO, Industrialization 
+& Aviation Services - Enabling End -to-End Digital Transformation
+Designing,  manufacturing,  and  commissioning  of advanced  
+Docking  Systems  for a leading  APAC  airline .
+Strategic  partner  for EMES 3 – Engineering,  Manufacturing  
+Engineering . Customer  services  strategic  supplier .
+Delivered  end -to-end  airframe  design,  from  concept  development  
+to detailed  engineering  for a European  aerospace  Company .
+Optimized  aircraft  seating  systems  design  for manufacturability  
+and production  readiness  in Europe .
+Enabled  engine  manufacturing  using  digital  engineering  and  twin  
+technologies  for a UK-based  customer .
+Deployed  Cobot  to enable  smart  aerospace  manufacturing  for a 
+European  OEM .
+Enhanced  performance  through  resolution  of landing  gear  non -
+conformities  for a European  customer .
+Enabled  part  refurbishment  support  to an airline  company  in APAC .
+Aerospace revenues grew  8x 
+over four fiscal years
+Note: Numerical values redacted; charts remain representative of actual data
+
+=== page 29 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+28Tata Group: recent developments strongly indicate tailwinds for a multi -year, 
+structural growth runway for our company 
+1JLR + Tata Motors BEV/SDV Shift = Multi Year Engineering & 
+Software Demand
+TTL is positioned for BEV cost -out, MBSE, feature 
+industrialization, OTA/DevOps, validation acceleration , and 
+common EV software stacks  across JLR + TML
+2Agratas  Gigafactories (UK + India) = Vehicle –Battery 
+Integration Opportunity
+TTL can scale via pack engineering, BMS V&V, MES/MOM, 
+ramp digital twins, FPY/OEE analytics , and closed -loop 
+battery -vehicle telemetry  for TML/JLR
+3Air India Vihaan.AI Transformation = Aviation Engineering & 
+Digital Ops Window
+TTL can grow in cabin retrofit engineering, reliability 
+analytics, MRO digital twins , and process optimization to 
+support the airline’s scaling4Tata Power’s Renewable & Storage Investment Wave = 
+Electrified Mobility & Industrial Energy Use Cases
+TTL can scale through fleet electrification (e -bus/e -CV 
+depots), micro -grids, DER controls, plant energy 
+optimization , and digital field -operations systems
+5Tata Steel (Port Talbot) Green Steel Transition = Industrial 
+Digital Play
+TTL can expand in industrial digital twins, PdM , energy & 
+quality analytics , and automation consulting
+6Tata Motors × IVECO: A New Global CV Platform = Massive 
+Engineering Adjacency for TTL* 
+Integration requires platform harmonization, modularization, 
+VAVE, regulatory engineering, digital PLM/ALM , and 
+connected uptime  solutions -all core TTL capabilitiesIllustrative; not exhaustive
+Across Commercial Vehicles, Passenger EVs, Batteries, Green Energy, Green Steel, and Aviation, the Tata Group is executing on ce in a decade transformations. 
+Each demands product engineering, digital thread build out, software acceleration, industrial analytics, and systems integrat ion-TTL’s core strengths.
+*Contingent on transaction completion
+=== page 30 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Capability diversification creates leverage
+29Tata Technologies has systematically expanded beyond its mechanical engineering roots. Embedded systems, software, and 
+AI are now integrated across the full product lifecycle - enabling scalable delivery and margin recovery.
+Deep domain expertise in vehicle 
+engineering & product developmentElectronics, ADAS & software - 
+defined vehicle capabilitiesAI-driven tools deployed across 
+design, validation & delivery workflowsFrom  mechanical  to full-stack  engineering . Same  foundation,  more  leverage .
+Mechanical Core Embedded & Software AI Integration
+
+=== page 31 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Entering the upcycle structurally stronger
+30
+China - Faster Learning
+Exposure  to China's  accelerated  EV 
+and software -defined  vehicle  cadence  
+builds  capability  applicable  globally .Automotive Core: Intact & Expanding
+Deepened  relationships  with marquee  
+OEM  clients . Full-vehicle  programs  
+extending  the breadth  of engagement  
+across  platforms .Broader Industries & Capabilities
+Aerospace,  industrial  & off-highway  
+verticals  provide  revenue  diversification  
+and cross -pollinate  engineering  talent .
+The downturn became a proving ground for Tata Technologies - emerging stronger, broader, and more resilient, 
+with an expanded automotive core, accelerated learning from China, and a diversified base of clients and capabilities.
+
+=== page 32 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+31THE WAY AHEAD
+=== page 33 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Clarity. Accountability. Confidence.
+32
+DownturnFrozen 
+DecisionsInflectionReboundRe-
+AccelerationThe Setup Is in Place
+/Client decision -making is restarting.
+/Portfolio positioned for strong rebound.
+/Market conditions are reversing favorably.
+/Precisely at the inflection point for opportunity.
+Sustainable Growth Velocity
+/Building durable, compounding momentum.
+/Diversified portfolio enhances resilience.
+/Structured for long -term outperformance.
+/Resilient against single -point disruptions.
+=== page 34 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Margin recovery: clear and time -bound
+33Our Margin 
+Commitments
+~16.0%
+exit margin in 
+Q4 FY26Volume 
+Recovery: 
+Utilization 
+improvement as 
+client programs 
+resumeHigher -value 
+software and AI 
+work increasing 
+as a share of 
+revenueFull-Vehicle 
+Leverage:
+End-to-end 
+program 
+ownershipInternal AI tools 
+reducing 
+delivery cost 
+per unit of 
+outputMargin  pressure  was  driven  by volume  softness  and  one -off costs  - both  transitional . 
+Recovery  is anchored  on four  concrete  levers .
+34
+2
+15
+=== page 35 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+What remains a risk
+34
+Geopolitical 
+Disruption
+Macro VolatilityEV Demand 
+Uncertainty
+PreparednessResilience
+Execution DisciplineWe cannot  eliminate  macro  uncertainty  – but we can ensure  our response  to it is disciplined,  deliberate,  and  
+decisive . The  risks  below  are real . What  separates  us is how  we are positioned  to absorb  and  navigate  each  one .
+External - Not ControllableInternal - Fully Controllable
+We don't control the cycle - we control readiness.
+=== page 36 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Confidential Classification: Public
+Tata Technologies is a diversified, global product 
+engineering and digital engineering partner with 
+full-vehicle development capabilities, entering 
+the next upcycle structurally stronger, with 
+clearer growth and margin visibility .
+35
+
+=== page 37 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Classification: Public
+About Tata Technologies 
+Tata Technologies (BSE: 544028, NSE: TATATECH) is a global product 
+engineering and digital services company focused on fulfilling Its 
+mission of helping the world drive, fly, build, and farm by enabling Its 
+customers to realize better products and deliver better experiences. 
+Tata Technologies is the strategic engineering partner businesses 
+turn to when they aspire to be better. Manufacturing companies rely 
+on Tata Technologies to enable them to conceptualize, develop and 
+realize better products that are safer, cleaner, and improve the 
+quality of life for all the stakeholders, helping us achieve our vision of 
+#EngineeringABetterWorld. 
+For more, visit us at https ://www.tatatechnologies.com/ or learn more 
+here . Follow us on Instagram , LinkedIn , Twitter , Facebook , and 
+YouTube  for the latest updates.
+36
+=== page 38 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Classification: Public
+Contact Us
+Email: ir@tatatechnologies.com
+Desk Phone: +91 20 66529090Name: Vijay LohiaFor investor queries
+37Email: Nikita.Crasta@adfactorspr.com
+Desk Phone: +91 22 67574600Name: Nikita CrastaFor media queries
+
+=== page 39 ===
+ASIA PACIFIC 
+25Rajiv Gandhi Infotech Park
+Hinjawadi, Pune
+India
+411057
+Tel:+91 206652 9090
+EUROPE 
+The European Innovation
+and Development Centre (EIDC)
+Olympus Avenue
+Tachbrook Park
+Warwick, UK
+CV34 6RJ
+Tel:+44 (0)8443 759 685
+NORTH AMERICA
+6001 Cass Avenue
+Suite 600
+Detroit MI
+USA 48202
+Tel:+1248 426 1482/TataTechnologies 
+@tatatechnologies
+/TataTech_News
+/TataTechnologies
+/TataTechnologies
+tatatechnologies.com
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Classification: Public

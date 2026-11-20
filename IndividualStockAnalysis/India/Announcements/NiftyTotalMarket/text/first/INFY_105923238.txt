@@ -1,0 +1,195 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE  
+ 
+July 23, 2024  
+Dear Sir/ Madam,  
+Sub: Transcripts of the press conference an d earnings call conducted after the Meeting of 
+ Board of directors on July 18, 2024  
+ 
+Please find enclosed the transcripts of the press c onference and earnings call conducted after the Board 
+meeting held on July 18, 2024, for your information and records.  This information will also be host ed on the Company’s website, at 
+https://www.infosys.com/investors/reports -filings/quarterly-re sults/2024-2025/q1.html .   
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at  https://www.infosys.com/investors/r eports-filings/quarterly-results/2024-
+2025/q1.html.  
+This is for your information and records.  
+Yours Sincerely,  
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary 
+ACS-21918  
+ 
+ 
+ 
+ 
+External Document © 2024 Infosys Limited  1     
+                                                 
+                                                           Infosys Limited  
+Media Conference Call  
+July 18, 2024    
+   
+CORPORATE PARTICIPANTS:  
+   
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director  
+ 
+Jayesh Sanghrajka Chief Financial Officer  
+ 
+Rishi Basu 
+Corporate Communications 
+  
+JOURNALISTS   
+ 
+Ritu Singh  
+CNBC TV18 
+ 
+Haripriya Sureban NDTV Profit  
+Veena Mani 
+Times of India 
+ 
+Chandra R. Srikanth Moneycontrol 
+ 
+Sameer Bakshi  
+Economic Times 
+ Beena Parmar  Economic Times 
+ 
+Padmini Dhruvaraj 
+The Financial Express 
+ 
+Haripriya Suresh 
+Reuters 
+ 
+Jas Bardia 
+The Mint 
+ 
+ 
+ 
+ 
+External Document © 2024 Infosys Limited  2    
+Sanjana B 
+The Hindu Business Line 
+ 
+Sonal Choudhary 
+Deccan Herald  
+ 
+  
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+External Document © 2024 Infosys Limited  3     
+Rishi Basu 
+A very good evening, everyone and thank you for joini ng Infosys' First Quarter Financial Results. My 
+name is Rishi and on behalf of Infosys, I would like to  welcome all of you. As I always do, I request 
+one question from each media house to ac commodate everyone over the next hour. 
+And with that, let me invite our Chief Executive Officer, Mr. Salil Parekh, for his opening remarks. 
+Over to you, Salil. 
+Salil Parekh 
+Thanks, Rishi. Good afternoon and thank you all for be ing here with us today. We started the financial 
+year with a strong performance in Q1 across mu ltiple dimensions, including broad-based revenue 
+growth, expansion in operating margin, strong large deal wins and strong cash generation. 
+Our revenues for the quarter grew 3.6% sequentially and 2.5% YoY in constant currency terms. I am 
+particularly pleased with 7.9% growth in the fi nancial services segment, where we are seeing 
+improvement in client spend in North America.  All geographies and most industry groups grew 
+sequentially. 
+Volume growth turned positive after several quar ters. We had another strong quarter of large deal 
+wins with 34 large deals at a total contract value of $4.1bn. Our clients see us as a preferred partner 
+of choice in consolidation, cost takeout and effici ency opportunities. This is also a reflection of our 
+leadership strength.  
+With the mobilization of our margin program, we  see positive impact on operating metrics. This 
+resulted in our margin expanding by 1 (percentage)  point sequentially. Free cash flow was highest 
+ever at $1.1bn. We continue to see strong trac tion from our clients fo r Generative AI programs 
+delivered through Topaz. Enterprise s are focused on their own datasets that can be used in 
+Generative AI large language models that create huge impact for them. 
+Along with our overall robust performance in Q1 and strong opportunity pipeline, we are seeing early 
+signs of improvement in financial se rvices vertical in the U.S. Whil e discretionary spends continue to 
+be under pressure, our highly differentiated offeri ngs around driving efficiencies at scale and the 
+transformation capabilities around Generative AI have positioned us well in this market. 
+ 
+ 
+ 
+External Document © 2024 Infosys Limited  4   With respect to our recent acquisition of in-t ech, we have received the required approvals and have 
+closed the acquisition transaction. Given our strong performance in Q1 and our current outlook, we 
+have revised our revenue growth guidance for the full fi nancial year to 3% to 4% growth in constant 
+currency terms. Our operating margin guidance for the financial year remains at 20% to 22%.  
+With that, let us go ahead with the questions. Thank you. 
+Rishi Basu 
+Thank you, Salil. We will now open the floor for ques tions. Joining Salil is Mr. Jayesh Sanghrajka, 
+Chief Financial Officer, Infosys. With that, the first question is from Ritu Singh from CNBC-TV18. 
+Ritu Singh 
+Hi. Ritu from CNBC. Thank you for the question. A huge upgrade in the constant currency revenue 
+guidance, 3% to 4%. So firstly, while you highlighted in financial services in the U.S., you are seeing 
+some signs of a pickup. Overall, what is your sense on discretionary spend coming back? Where are the verticals, you continue to see weakness? 
+And was all of this upgrade organic or have some  of your past acquisitions that you have now 
+completed had some role to play in this upgrade t hat we are seeing? Also, your margins are up about 
+100 basis points over the previous quarter. I just wanted to understand, is there headroom for further 
+growth when you are expecting to take the wage hikes, etc.? 
+And just one more question, if I may on your headcount. As we have been asking you for the past 
+several quarters, its now six quarters, it is been coming down. What are your hiring plans for the 
+year, if you could just throw some light on that? 
+Salil Parekh  
+Thanks for your question. Let me start with the fi rst one. On the guidance, the way we see what is 
+going on in the market and our guidance. First, we had a strong performance in Q1 on volumes, as 
+well as the point that we made on financial services in the U.S. 
+Second, we had a very strong perform ance on large deals in Q1, which gives us more visibility into 
+this financial year. And third, we completed the in-tech acquisition, which also helps us in this 
+guidance. And Jayesh will give some color on the specifics with in-tech as well. On the margins, 
+Jayesh, will you? 
+ 
+ 
+ 
+External Document © 2024 Infosys Limited  5   Jayesh Sanghrajka  
+Yes, so if you look at this quarter's margins, we have already expanded our margins by 100 basis 
+points. If you look at the put-and-takes of that, almost 100 basis points came from last quarter's 
+normalization. Last quarter, we had one-off, which im pacted our margins. We had 80 basis points 
+coming from Project Maximus, which is our margin  expansion program, on the back of better pricing, 
+which is value-based selling, better benefits from our e fficiency pyramid, which is utilization, etc., and 
+40 basis points came from one-off benefit that we got in this quarter from one of the clients on 
+revenue side. So those were the positives. On  the headwinds, we had 1.2% coming from better 
+variable pay and higher leave and other costs, resu lting in almost 1% margin expansion for the 
+quarter. The Project Maximus as you know, we are working on it for the last couple of quarters and 
+it has started showing results. Our long-term – m edium-term objective on that is to expand margins 
+from where we are. This year's guid ance continues to remain 20% to 22%. 
+Coming back to your last question on the headcount, as you know last multiple quarters, we have 
+moved to the agile hiring base. That basically means  we hire freshers both from the campus and off 
+the campus. This quarter we had a 2,000 person net decline, which is lower than the previous 
+quarters. Our utilization is already at 85%, so we  have a little headroom now left. So, as we start 
+seeing growth, we will look at hiring. We are lo oking at hiring 15,000 to 20,000 freshers this year, 
+depending on how we see the growth. 
+Ritu Singh  
+On the first question, when you say the in-tech acqu isition also played a role in you upping your 
+guidance, could you give us a clear breakup, how much of it is coming organically and how much 
+inorganically? 
+Jayesh Sanghrajka  
+So, we do not break up guidance, first of all, betw een acquisition and non-acquisition. But if you look 
+at the disclosure that we made when we acquired in-tech, the annual revenue of in-tech was around €170 mn. So you can in a way, back calculate. But we do not really break up how much of guidance 
+is between organic and inorganic. 
+Rishi Basu  
+Thanks, Ritu. The next question is from Haripriya Sureban from NDTV Profit. 

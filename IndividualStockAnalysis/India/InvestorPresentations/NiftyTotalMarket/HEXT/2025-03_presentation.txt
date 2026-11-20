@@ -1,0 +1,816 @@
+
+=== page 1 ===
+ 
+HEXAWARE TECHNOLOGIES LIMITED 
+Regd. Office: Bldg. No. 152, Millennium Business Park, Sector – III, ‘A’ Block, TTC Industrial Area,  
+Mahape, Navi Mumbai - 400 710 (INDIA)  |  Tel: +91 022 3326 8585  |  Email: investori@hexaware.com  
+CIN: U72900MH1992PLC069662  |  URL: www.hexaware.com 
+ 
+HEXT/SE/2025/16  
+Date: March 07, 2025  
+ 
+To,  
+The Manager                      
+The General Manager                     
+LisƟng Department   Department of Corporate Services  
+NaƟonal Stock Exchange of India Limited  BSE Limited  
+ 
+Exchange Plaza,  Bandra-Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East), Mumbai - 400 051  Dalal Street, Mumbai - 400 001   
+Symbol: HEXT  Scrip Code:544362  
+ 
+ 
+Dear Sir/ Madam,   
+ 
+Subject: Investor Presenta Ɵon for the quarter and year ended December 31, 2024.  
+This is with reference to and in con ƟnuaƟon of our le Ʃer dated March 04, 2025, wherein we have 
+inƟmated that Company will be hos Ɵng conference call with investor/ Analyst on March 07,2025 at 
+8.00 am for discussion on the ﬁnancial results of the Company for the quarter and year ended 
+December 31, 2024.   
+In this regard, we have enclosed the presenta Ɵon and fact sheet to be made to investor/Analysts 
+during the conference call on the ﬁnancial results and performance of the Company for the quarter 
+and year ended December 31, 2024.  
+This is also being made available at the website of the Company i.e www.hexaware.com . 
+ 
+Yours faithfully,  
+For Hexaware Technologies Limited   
+ 
+ 
+Gunjan Methi  
+Company Secretary and Compliance Oﬃcer  
+ 
+ 
+ 
+=== page 2 ===
+Investor Presentation –Q4CY24
+March 2025
+© 2025 Hexaware Technologies
+=== page 3 ===
+2
+ © Hexaware Technologies. Confidential briefing. Certain statements in this presentation concerning our future growth prospects are forward -looking statements, which involve a n umber of risks, and 
+uncertainties that could cause actual results to differ materially from those in such forward -looking statements. The risks and uncertainties relating to 
+these statements include, but are not limited to, risks and uncertainties regarding fluctuations in earnings, our ability to man age growth, intense 
+competition in IT services including those factors which may affect our cost advantage, wage increases, our ability to attrac t and retain highly skilled 
+professionals, time and cost overruns on fixed -price, fixed -time frame contracts, client concentration, restrictions on immigrat ion, our ability to 
+manage our international operations, reduced demand for technology in our key focus areas, disruptions in telecommunication n etworks, our ability to 
+successfully complete and integrate potential acquisitions, liability for damages on our service contracts, the success of th e companies in which 
+Hexaware has made strategic investments, withdrawal of governmental fiscal incentives, political instability, legal restricti ons on raising capital or 
+acquiring companies, and unauthorized use of our intellectual property and general economic conditions affecting our industry . The Company may, 
+from time to time, make additional written and oral forward statements. We do not undertake to update any forward statements that may be made 
+from time to time by us or on our behalf unless required under the law. 
+Use of Non -GAAP Financials
+Hexaware has included certain non -GAAP financial measures in this presentation to supplement Hexaware’s consolidated financial s tatements 
+presented on a GAAP basis. These non -GAAP financial measures may have limitations as analytical tools, and these measures should  not be considered 
+in isolation or as a substitute for analysis of Hexaware’s results as reported under GAAP . 
+The non -GAAP financial information that we provide also may differ from the non -GAAP information provided by other companies. We  compensate for 
+the limitations on our use of these non -GAAP financial measures by relying primarily on our GAAP financial statements and using non-GAAP financial 
+measures only supplementally. We have provided reconciliations of non -GAAP earnings to the most directly comparable GAAP earning s, and we 
+encourage investors to review those reconciliations carefully. 
+We believe that providing these non -GAAP financial measures in addition to the related GAAP measures provides investors with gre ater transparency. 
+We further believe that providing this information better enables investors to understand Hexaware’s operating performance an d financial condition.
+Rounding off
+Certain amounts and percentage figures included in this presentation have been subject to rounding adjustments. Accordingly, figures shown as totals 
+in certain tables may not be an arithmetic aggregation of the figures preceding them.Safe Harbor Statement / Forward -looking and Cautionary Statement / Disclaimer
+=== page 4 ===
+3 © 2025 Hexaware Technologies
+Key Financial and Business Highlights
+Revenue:
+•Q4CY24: USD 372 Mn | INR 31,544 Mn
+oUSD   : (0.5%) QoQ; 18.5% YoY
+oINR  : +0.6%  QoQ; +20.6% YoY
+oConstant Currency  : +0.2% QoQ;  +18.8% YoY
+•CY24: USD 1,429 Mn | INR 119,744 Mn
+oUSD   : +13.7% YoY
+oINR  : +15.4% YoY  
+oConstant Currency  : +13.5% YoY
+Profitability:
+•EBITDA:
+oQ4CY24: 16.3% | +2.3% QoQ & +50.7% YoY in absolute terms | +28 bps QoQ & +326 bps 
+YoY in % terms
+oCY24: 15.9% | +19.8% YoY in absolute terms | +59 bps YoY in % terms
+•Basic EPS: 
+oQ4CY24:  INR 5.25| +5.4% QoQ & +65.1% YoY
+oCY24:  INR 19.37 | +17.8% YoYKey People Metrics:
+•Closing Headcount: 32,309, Net added 4,017 in CY24
+•Voluntary Attrition for IT(1): 10.8%
+•Q4CY24 Utilization Rate for IT(2): 81.6%
+Key Customer Metrics:
+•1 customer has annual revenue USD 100 Mn+
+•Added 4 customers in USD 20 Mn+ category : 15 in CY24 vs 11 in CY23
+•Top 10 customers revenue concentration: 35.8% in CY24
+Other Recent Developments:
+•Recognized among the World’s Top 25 Most Valuable IT Services Brands globally according to 
+the Brand Finance IT Services 25, 2025 report 
+•Ranked first in “general satisfaction” according to a study from Whitelane(4) — highlighting 
+our client -centric innovation and value -driven service delivery Financial Highlights Business Highlights
+Notes: (1) Voluntary attrition rate for the IT service line is calculated as the total number of IT business professionals an d support function professionals who left the company voluntarily during a period, divided by the average number of IT business professionals and support function professionals during the period, computed on a trailing twelve -month 
+basis. (2) Utilization rate for IT is calculated as the total hours IT business professionals spend on customer -billed assignmen ts, divided by the total available base hours. IT business professionals designated as Mavericks (campus hires) are included in the utilization computation after the completion of an initial training period of up to four months. (3) 
+Excludes restricted cash balance (4) Source: Whitelane  Research 2024/2025 IT Sourcing Study for EuropeClosing cash balance as of 31st December 2024(3) : INR 1,977 Cr
+=== page 5 ===
+4 © 2025 Hexaware Technologies
+Diverse Presence Across Verticals and Geographies
+Q4CY24 CY24
+Growth (%)(1)QoQ YoY YoY
+Financial Services 3.5% 25.0% 19.1% 
+Healthcare & Insurance (2.4%) 16.0% 10.9% 
+Manufacturing & Consumer (6.9%) (0.8%) 4.5% 
+High Tech & Professional Services 1.4% 38.4% 22.5% 
+Banking 6.4% 15.0% 7.6% 
+Travel & Transportation (7.6%) 11.2% 13.3% Q4CY24 CY24
+Growth (%)(1)QoQ YoY YoY
+Americas 2.3% 24.1% 17.7% 
+Europe (9.7%) 2.7% 3.0% 
+Asia Pacific (4.0%) 8.3% 6.5% Vertical Split (%) Geographic Split (%)
+29%
+21%15%18%9%8%
+USD 372 Mn
+Q4CY24
+Revenue
+76%18%6%
+USD 372 Mn
+Q4CY24
+Revenue
+Note: (!) In USD terms
+=== page 6 ===
+5 © 2025 Hexaware Technologies
+26.5% 36.6% 48.4% 
+25.0% 35.5% 48.7% 
+25.7% 35.8% 49.7% 
+Top 5 customers Top 10 customers Top 20 customers
+CY22 CY23 CY24Diverse Clientele with Strong Partnerships
+Client Pyramid (# of Active Clients)
+186>$75
+>$50
+>$20
+>$10
+>$5
+>$12
+3
+113
+29
+54
+171CY23
+3
+15
+31
+61CY24 USD Mn(1)Revenue Contribution by Customer Group (%)
+•1 customer has annual revenue USD 100 Mn+
+•Added 4 customers in the USD 20 Mn plus category : 15 in CY24 vs 11 in CY23
+Note: (1) Represents revenue earned from customers.
+=== page 7 ===
+6 © 2025 Hexaware Technologies
+Winning Across Domains: Key Successful Deals
+Large secondary mortgage provider in 
+the US
+Modernizing workflows and user interfaces by 
+replacing Appian with AWS cloud -native solutions 
++ 
+ServiceNow ITSM implementation and catalog  
+transformationMajor airline in the US
+GenAI -based legacy modernization project using 
+our proprietary GenAI  model to extract business 
+rules and blueprint the application to a new 
+technology stackGlobal supply chain management and logistics 
+services company in the US
+Infrastructure operations with an AI -first transition 
+to mitigate operational risks, providing swift aid 
+and integrating service quality squads with 
+automation and AI squads for programmatic 
+operations
+Large bank in Southeast Asia
+Digital banking implementation 
+and maintenanceUK-based global provider of financial markets 
+data and infrastructure
+Cyber security services Global leader in eDiscovery, document review, 
+risk management, and legal consulting services
+Redesigning and rebuilding the client’s eDiscovery 
+platform and workflow, leveraging our AI -driven 
+platform engineering and product road -mapping 
+expertise
+=== page 8 ===
+7 © 2025 Hexaware Technologies
+Q4CY24 Financial Highlights
+Revenue (USD Mn)
+Revenue (INR Mn)Reported  EBITDA (USD Mn)
+Reported Profit (USD Mn)5.1% 18.5% 16.7%
+(2.0%) (0.5%) 6.3%YoY (%)
+QoQ (%)
+$372  $374  
+$314  
+Q4CY24 Q3CY24 Q4CY23Margin (%) 16.3% 16.0% 13.0%
+$61  $60  
+$41  
+Q4CY24 Q3CY24 Q4CY23
+6.3% 20.6% 18.3%
+(1.3%) 0.6% 6.8%YoY (%)
+QoQ (%)
+31,544  31,357  
+26,160  
+Q4CY24 Q3CY24 Q4CY23Margin (%) 10.2% 9.6% 7.4%
+$38  $36  
+$23  
+Q4CY24 Q3CY24 Q4CY23•Reported EBITDA +48.0% YoY growth (325 bps)
+•Reported Net Profit +64.5% YoY growth (285 
+bps)
+•ERP implementation cost is the only non -
+recurring expense left. Will reduce to zero by 
+H2CY25.
+=== page 9 ===
+8 © 2025 Hexaware Technologies
+CY24 Financial Highlights
+Revenue (USD Mn)
+Revenue (INR Mn)Reported  EBITDA (USD Mn)
+Reported Profit (USD Mn)20.0% 13.7% 7.8% YoY (%)
+$1,429  
+$1,256  $1,165  
+CY24 CY23 CY2215.9% 15.3% 15.2% Margin (%)
+$227  
+$192  $177  
+CY24 CY23 CY22
+28.2% 15.4% 12.8% YoY (%)
+119,744  
+103,803  
+91,996  
+CY24 CY23 CY229.8% 9.6% 9.6% Margin (%)
+$140  
+$121  $112  
+CY24 CY23 CY22
+•EBITDA +18.1% YoY growth (59 bps)
+•Net Profit +16.2% YoY growth (21 bps)
+=== page 10 ===
+9 © 2025 Hexaware Technologies
+81.6% 82.9% 82.4% 82.4% 81.6% 
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY2310.8% 11.3% 12.0% 13.3% 14.7% 
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY23Enhancing Operational Efficiency Through Revenue Optimization and Talent Management
+Revenue Mix – Onshore & Offshore (%)(1) Total Headcount (#)
+Voluntary Attrition Rates (%)(2)
+IT Business Professionals Utilization Rates (%)(3)
+IT Business Professionals 
+Notes: (1) For IT Services (2) Voluntary attrition rate for the IT service line is calculated as the total number of IT busin ess professionals and support function professionals who left the company voluntarily during a period, divided by the average num ber of IT business professionals and support function professionals during the period, computed on a 
+trailing twelve -month basis. (3) Utilization rate for IT is calculated as the total hours IT business professionals spend on cus tomer -billed assignments, divided by the total available base hours. IT business professionals designated as Mavericks (campus h ires) are included in the utilization computation after the completion of an initial training period of up 
+to four months. 56.3% 56.4% 56.2% 56.6% 56.4%43.7% 43.6% 43.8% 43.4% 43.6% 
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY23Onshore IT Services (%) Offshore IT Services (%)32,309  32,536  31,870  30,135  28,292  
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY23
+=== page 11 ===
+10 © 2025 Hexaware Technologies
+Cash Flow, ETR, and EPS Metrics
+DSO (Days) (1) LTM OCF / Adj. EBITDA – Adjusted Cash Conversion (%)
+Effective Tax Rate (%) Basic EPS (INR)
+Notes: DSO: Days Sales Outstanding; OCF: Operating Cashflows; EPS: Earnings Per Share. (1) DSO is computed based on trailing 3 months of USD revenue38  40  42  40  49  27  32  29  28  18  65  72  71  68  67  
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY23DSO - Billed DSO - Unbilled
+74.5% 74.9% 81.0% 91.1% 89.9% 
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY23
+23.1% 26.2% 27.7% 
+22.0% 
+19.6% 
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY235.3  5.0  
+4.5  4.6  
+3.2  
+Q4CY24 Q3CY24 Q2CY24 Q1CY24 Q4CY23
+=== page 12 ===
+11 © 2025 Hexaware Technologies
+CY25 View
+•Typical patterns in most years:
+oQ1 and Q4 are seasonally low quarters, and Q2 and Q3 have best 
+sequential performance 
+oYoY for quarter and FY are the best measure to account for seasonality
+oQ3 is the wage hike quarter
+•H2 CY24 YoY rates are elevated due to the weak performance in H2 CY23, which 
+is secular for the industry
+•Our Q4 exit is strong at >4%
+•Macros have trended marginally negative in the last few weeks.  However, we 
+expect CY25 performance to be resilient to modest macro changes
+o2 of our top 3 customers are going through consolidation, which we have 
+won. We expect some ramp -up in Q2 and the majority in Q3
+o2 more significant consolidation deals are in progress, with a ramp -up 
+expected in H2/Q4 if we win
+•EBIDTA
+oERP implementation cost is the only non -recurring expense left. Will 
+reduce to zero by H2CY25.
+11
+
+=== page 13 ===
+Appendix
+=== page 14 ===
+13 © 2025 Hexaware Technologies
+Reconciliation of Adj. EBITDA and Adj. Profit – Q4CY24 and CY24
+EBITDA Profit
+Q4CY24 CY24 Q4CY24 CY24
+Reported Margin 16.3% 15.9% 10.2% 9.8% 
+Add: ESOP compensation cost 0.4% 0.3% -  -  
+Add: Non -recurring employee benefits and severance costs - 0.4% -  0.4% 
+Add: ERP transformation cost(1)0.7% 0.7% 0.7% 0.7% 
+Add: Specific provisions for customers and onerous vendor contracts - 0.1% -  0.1% 
+Add: Acquisition related costs(2)0.0% 0.3% 0.0% 0.3% 
+Add: IPO related costs - 0.0% -  0.0% 
+Add: Regulatory fees(3)- 0.1% -  0.1% 
+Less: Other income (excluding exchange rate difference (net)) (0.3%) (0.5%) -  -  
+Add: Amortization of intangible assets acquired in business combination - - 0.7% 0.6% 
+Less: Tax Impact on above(4)- - (0.3%) (0.6%)
+Adjusted Margin 17.1% 17.3% 11.3% 11.5% 
+Note: (1) ERP transformation cost consists of professional fees, travel costs, license costs, and the cost of employees worki ng on the implementation of new ERP software (2) Acquisition -related costs consist of professional fees incurred in relation to M&A  activities (3) Regulatory fees represents the amount paid in respect of compounding order (4) Tax 
+impact for a period/year is computed using the consolidated effective tax rate for the period/year % of Revenue
+=== page 15 ===
+14 © 2025 Hexaware Technologies
+Awards and Recognition
+Hexaware Named a Leader in Data Modernization Services– Midsize in ISG Provider Lens™ Advanced Analytics and AI Services  2024 US Quadrant Report
+Hexaware Named a Leader in Data 
+Modernization Services – Midsize in 
+ISG Provider Lens
+  Advanced 
+Analytics and AI Services  2024 
+USQuadrant Report
+Hexaware Named a Leader in Managed Services for Azure in ISG Provider Lens™ Microsoft Cloud Ecosystem 2024 US Quadrant Report
+Hexaware Named a Leader in 
+Managed Services for Azure in ISG 
+Provider Lens
+  Microsoft Cloud 
+Ecosystem 2024 US Quadrant 
+ReportHexaware recognized in the 2025 Gartner® Report “Emerging Tech: Adoption Trends for Generative AI,” Published: 28 January 2025, ID: G00809924, Analysts: Vibha Chitkara, Ethan Cai, et al.
+Hexaware recognized in the 2025 Gartner® 
+Report “Emerging Tech: Adoption Trends for 
+Generative AI,” Published: 28 January 2025, 
+ID: G00809924, Analysts: Vibha Chitkara, 
+Ethan Cai, et al.
+Hexaware Named a Leader in Strategy and Consulting Services- Midsize in ISG Provider Lens™ Generative AI Services 2024 US Quadrant Report
+Hexaware Named a Leader in Strategy 
+and Consulting Services - Midsize in ISG 
+Provider Lens
+  Generative AI 
+Services 2024 US Quadrant ReportNamed AI Implementer of the Year at The AIconics Awards 2024
+Named AI Implementer of the 
+Year at The AIconics Awards 2024
+Hexaware Named a Leader in Platform and Application Services in ISG Provider Lens™ Digital Engineering Services 2024 US Quadrant Report
+Hexaware Named a Leader in Platform 
+and Application Services in ISG 
+Provider Lens
+  Digital Engineering 
+Services 2024 US Quadrant ReportHexaware Named a Leader in Data Modernization Services– Midsize in ISG Provider Lens™ Advanced Analytics and AI Services  2024 US Quadrant Report
+Hexaware Named a Leader in Data 
+Modernization Services – Midsize in 
+ISG Provider Lens
+  Advanced 
+Analytics and AI Services  2024 
+USQuadrant Report
+Hexaware Recognized in Forrester’s Landscape Report: The Application Modernization And Multicloud Managed Services Landscape, Q4 2024, Published October 24th, 2024, Analysts: Bill Martorelli, et al.
+Hexaware Recognized in 
+Forrester’s Landscape Report: The 
+Application Modernization And Multicloud  
+Managed Services Landscape, Q4 2024, 
+Published October 24th, 2024, Analysts: Bill 
+Martorelli, et al.Hexaware recognized in the 2025 Gartner® Report “Midmarket Context for Europe: ‘Magic Quadrant for Outsourced Digital Workplace Services’”, Published: 24 January 2025, ID: G00798262, Analysts: William Maurer, et al.
+Hexaware recognized in the 2025 Gartner® 
+Report “Midmarket Context for Europe: 
+‘Magic Quadrant for Outsourced Digital 
+Workplace Services’”, Published: 24 January 
+2025, ID: G00798262, Analysts: William 
+Maurer, et al.
+Hexaware Named a Leader in Development and Deployment Services - Midsize in ISG Provider Lens™ Generative AI Services 2024 US Quadrant Report
+Hexaware Named a Leader in 
+Development and Deployment 
+Services - Midsize in ISG Provider 
+Lens
+  Generative AI Services 2024 
+USQuadrant Report
+Hexaware Named a Leader in Agile Application Development Projects in ISG Provider Lens™ Next-Gen ADM Services 2024 US Quadrant Report
+Hexaware Named a Leader in Agile 
+Application Development Projects 
+in ISG Provider Lens
+  Next -Gen 
+ADM Services 2024 US Quadrant 
+ReportAchieved Silver Rating from EcoVadis in 2024 for improved ESG and sustainability practices
+Achieved Silver Rating from 
+EcoVadis in 2024 for improved 
+ESG and sustainability practices
+Recognized as one of the Best Organizations for Women 2024 for the second consecutive year by ET Now
+Recognized as one of the Best 
+Organizations for Women 2024 
+for the second consecutive year 
+by ET Now
+Hexaware Wins 2024 ISG Star of Excellence™ Universal (Global) Region Award with 86.7 CX Score
+Hexaware Wins 2024 ISG Star of 
+Excellence
+  Universal (Global) 
+Region Award with 86.7 CX Score
+Recognized among the World’s Top 25 Most Valuable IT Services Brands globally Brand Finance 25,  2025 report
+Recognized among the World’s 
+Top 25 Most Valuable IT Services 
+Brands globally Brand Finance 25,  
+2025 reportNamed among the Best Tech Brands of 2024 by ET Edge for the second consecutive year
+Named among the Best Tech 
+Brands of 2024 by ET Edge for the 
+second consecutive year
+Won Bronze Stevie Award at the 2024 American Business Awards
+Won Bronze Stevie Award at the  
+2024 American Business Awards
+Best Practices in CSR award at the 10th Annual CSR Summit and Awards
+Best Practices in CSR award at 
+the 10th Annual CSR Summit and 
+Awards
+Ranked #1 in General Satisfaction in the Whitelane IT Sourcing Study for Europe  2024/25
+Ranked #1 in General Satisfaction 
+in the Whitelane IT Sourcing 
+Study for Europe  2024/25Won five awards at the 2024 Brandon Hall Group™ HCM Excellence Awards®
+Won five awards at the 2024 
+Brandon Hall Group
+  HCM 
+Excellence Awards®
+CEO R Srikrishna recognized at the Asian Business Leaders Conclave by ET
+CEO R Srikrishna recognized at 
+the Asian Business Leaders 
+Conclave by ET
+*Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technolog y users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the  opinions of Gartner’s research organization and should not be construed as statements of fact. 
+Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantab ility or fitness for a particular purpose.
+=== page 16 ===
+15 © 2025 Hexaware Technologies
+Creating Meaningful Impact Beyond Business
+Bringing Smiles to the Planet and Communities We Live In
+•Achieve net zero greenhouse gas (GHG) emissions (Scope 1 and 2) by 2040
+•Transition 70% of campus electricity usage to renewable sources by 2030
+•Achieve water neutrality for owned operations by 2030 and zero waste to landfill at 
+owned facilities by 2025•Increased electricity usage from renewable energy across all India locations from 39.7% in 
+2023 to 57.5% in 2024
+•Increased our renewable energy usage from 59% in 2023 to 71% in 2024 at our campuses 
+in Chennai, Pune, and Nagpur
+93,746 Lives Benefitted Through Our CSR Efforts
+Educational Initiatives and 
+Skill DevelopmentHealthcare 
+InitiativesEnvironmental 
+StewardshipWomen’s 
+EmpowermentSports InitiativesESG and Sustainability Awards
+• Ecovadis  Assessment: Hexaware is in the top 15% globally, awarded a silver medal with a score of 70, placing in the 92nd percentile worldwide
+• Net Zero Summit – UBS Forums 2024: Won the “Sustainable Organization of the Year 2024” award
+Adopting Global Best Practices
+• Committed to near -term, long -term, and Net Zero targets approved by the Science Based Targets Initiative (SBTi)
+• Aligned with the frameworks of TCFD, GRI, and UN SDGs
+• Submit an annual “Communication on Progress (CoP)” to the United Nations Global Compact (UNGC)
+=== page 17 ===
+Thank You
+Please direct all inquiries to
+Investorrelations@hexaware.com
+=== page 18 ===
+March 2025Investor Factsheet –
+Q4CY24
+© 2025 Hexaware Technologies
+=== page 19 ===
+2 © 2025 Hexaware Technologies
+Quarterly MetricsChange
+In INR million unless stated otherwiseQ4CY24 Q3CY24 Q4CY23 QoQ (%) YoY (%)
+Revenue (USD Mn) 372.3  374.2  314.1  (0.5%) 18.5% 
+Revenue – Constant Currency (CC) - - - 0.2% 18.8%
+Revenue (INR Mn) 31,544  31,357  26,160  0.6% 20.6% 
+Profitability
+Reported EBITDA 5,140  5,023  3,411  2.3% 50.7% 
+Reported EBITDA Margin (%) 16.3% 16.0% 13.0% 28 bps 326 bps
+Adjusted EBITDA 5,380  5,476  4,045  (1.8%) 33.0% 
+Adjusted EBITDA Margin (%) 17.1% 17.5% 15.5% (41 bps) 159 bps
+Reported Profit 3,207  2,997  1,928  7.0% 66.3% 
+Reported Profit Margin (%) 10.2% 9.6% 7.4% 61 bps 280 bps
+Adjusted Profit 3,567  3,504  2,738  1.8% 30.3% 
+Adjusted Profit Margin (%) 11.3% 11.2% 10.5% 13 bps 84 bps
+Basic EPS (INR) 5.25 4.98 3.18 5.4% 65.1% 
+Adjusted EPS (INR) 5.84 5.81 4.51 0.5% 29.5% 
+Cash Flow
+Operating Cash Flows (OCF) 15,480  14,550  15,156  6.4% 2.1% 
+LTM OCF to Adjusted EBITDA (%) 74.5% 74.9% 89.9% - -Key Financial Metrics
+=== page 20 ===
+3 © 2025 Hexaware Technologies
+Annual MetricsChange
+In INR million unless stated otherwiseCY24 CY23 YoY (%)
+Revenue (USD Mn) 1,428.9  1,256.4  13.7% 
+Revenue – Constant Currency (CC) - - 13.5%
+Revenue (INR Mn) 1,19,744  1,03,803  15.4% 
+Profitability
+Reported EBITDA 19,051  15,899  19.8% 
+Reported EBITDA Margin (%) 15.9% 15.3% 59 bps
+Adjusted EBITDA 20,765  16,852  23.2% 
+Adjusted EBITDA Margin (%) 17.3% 16.2% 111 bps
+Reported Profit 11,740  9,976  17.7% 
+Reported Profit Margin (%) 9.8% 9.6% 19 bps
+Adjusted Profit 13,744  11,326  21.3% 
+Adjusted Profit Margin (%) 11.5% 10.9% 57 bps
+Basic EPS (INR) 19.37  16.45 17.8% 
+Adjusted EPS (INR) 22.67 18.68 21.4% 
+Cash Flow
+Operating Cash Flows (OCF) 15,480  15,156  2.1% 
+OCF to Adjusted EBITDA (%) 74.5% 89.9% -Key Financial Metrics (Cont’d)
+=== page 21 ===
+4 © 2025 Hexaware Technologies
+Revenue by Vertical
+In INR million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+Financial Services 9,182 29.1% 8,780 28.0% 7,221 27.6%
+Healthcare and Insurance 6,645 21.1% 6,729 21.5% 5,625 21.5%
+Manufacturing and Consumer 4,681 14.8% 4,972 15.9% 4,638 17.7%
+High Tech and Professional Services 5,772 18.3% 5,636 18.0% 4,106 15.7%
+Banking 2,776 8.8% 2,579 8.2% 2,372 9.1%
+Travel and Transportation 2,488 7.9% 2,661 8.5% 2,198 8.4%
+Total Revenue 31,544 100.0% 31,357 100.0% 26,160 100.0%
+Revenue by Geography
+In INR million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+Americas 23,856 75.6% 23,064 73.6% 18,896 72.2% 
+Europe 5,864 18.6% 6,414 20.5% 5,608 21.4% 
+Asia Pacific 1,824 5.8% 1,879 6.0% 1,656 6.3% 
+Total Revenue 31,544 100.0% 31,357 100.0% 26,160 100.0% 
+Revenue by IT, BPS, and Others
+In INR million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+IT Services 26,592 84.3% 26,632 84.9% 22,365 85.5% 
+BPS 4,084 12.9% 3,830 12.2% 3,362 12.9% 
+Others 868 2.8% 895 2.9% 433 1.7% 
+Total Revenue 31,544 100.0% 31,357 100.0% 26,160 100.0% 
+Revenue by Onshore, Offshore IT Services
+In INR million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+Onshore IT Services 14,969 56.3% 15,012 56.4% 12,623 56.4% 
+Offshore IT Services 11,623 43.7% 11,620 43.6% 9,742 43.6% 
+Total Revenue 26,592 100.0% 26,632 100.0% 22,365 100.0% Key Revenue Metrics – Q4CY24
+=== page 22 ===
+5 © 2025 Hexaware Technologies
+Revenue by Vertical
+In INR million CY24 % of Revenue CY23 % of Revenue
+Financial Services 34,131 28.5% 28,264 27.2% 
+Healthcare and Insurance 25,341 21.2% 22,516 21.7% 
+Manufacturing and Consumer 19,650 16.4% 18,548 17.9% 
+High Tech and Professional Services 20,672 17.3% 16,638 16.0% 
+Banking 10,305 8.6% 9,445 9.1% 
+Travel and Transportation 9,645 8.1% 8,392 8.1% 
+Total Revenue 1,19,744 100.0% 1,03,803 100.0% 
+Revenue by Geography
+In INR million CY24 % of Revenue CY23 % of Revenue
+Americas 88,567 74.0% 74,191 71.5% 
+Europe 23,922 20.0% 22,897 22.1% 
+Asia Pacific 7,255 6.1% 6,715 6.5% 
+Total Revenue 1,19,744 100.0% 1,03,803 100.0% 
+Revenue by IT, BPS, and Others
+In INR million CY24 % of Revenue CY23 % of Revenue
+IT Services 1,01,038 84.4% 88,261 85.0% 
+BPS 15,044 12.6% 13,091 12.6% 
+Others 3,662 3.1% 2,451 2.4% 
+Total Revenue 1,19,744 100.0% 1,03,803 100.0% 
+Revenue by Onshore, Offshore IT Services
+In INR million CY24 % of Revenue CY23 % of Revenue
+Onshore IT Services 56,968 56.4% 50,180 56.9% 
+Offshore IT Services 44,070 43.6% 38,081 43.1% 
+Total Revenue 1,01,038 100.0% 88,261 100.0% Key Revenue Metrics – CY24
+=== page 23 ===
+6 © 2025 Hexaware Technologies
+Revenue by Vertical
+In USD million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+Financial Services 108 29.1% 105 28.0% 87 27.6% 
+Healthcare and Insurance 78 21.0% 80 21.5% 68 21.5% 
+Manufacturing and Consumer 55 14.8% 59 15.9% 56 17.7% 
+High Tech and Professional Services 68 18.3% 67 18.0% 49 15.7% 
+Banking 33 8.8% 31 8.2% 28 9.1% 
+Travel and Transportation 29 7.9% 32 8.5% 26 8.4% 
+Total Revenue 372 100.0% 374 100.0% 314 100.0% 
+Revenue by Geography
+In USD million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+Americas 282 75.6% 275 73.6% 227 72.2% 
+Europe 69 18.6% 77 20.5% 67 21.4% 
+Asia Pacific 22 5.8% 22 6.0% 20 6.3% 
+Total Revenue 372 100.0% 374 100.0% 314 100.0% 
+Revenue by IT, BPS, and Others
+In USD million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+IT Services 314 84.3% 318 84.9% 269 85.5% 
+BPS 48 12.9% 46 12.2% 40 12.9% 
+Others 10 2.7% 11 2.9% 5 1.7% 
+Total Revenue 372 100.0% 374 100.0% 314 100.0% 
+Revenue by Onshore, Offshore IT Services
+In USD million Q4CY24% of 
+RevenueQ3CY24% of 
+RevenueQ4CY23% of 
+Revenue
+Onshore IT Services 177 56.3% 179 56.4% 152 56.4% 
+Offshore IT Services 137 43.7% 139 43.6% 117 43.6% 
+Total Revenue 314 100.0% 318 100.0% 269 100.0% Key Revenue Metrics – Q4CY24
+=== page 24 ===
+7 © 2025 Hexaware Technologies
+Revenue by Vertical
+In USD million CY24 % of Revenue CY23 % of Revenue
+Financial Services 407 28.5% 342 27.2% 
+Healthcare and Insurance 302 21.2% 273 21.7% 
+Manufacturing and Consumer 235 16.4% 225 17.9% 
+High Tech and Professional Services 247 17.3% 201 16.0% 
+Banking 123 8.6% 114 9.1% 
+Travel and Transportation 115 8.1% 102 8.1% 
+Total Revenue 1,429 100.0% 1,256 100.0% 
+Revenue by Geography
+In USD million CY24 % of Revenue CY23 % of Revenue
+Americas 1,057 74.0% 898 71.5% 
+Europe 285 20.0% 277 22.1% 
+Asia Pacific 87 6.1% 81 6.5% 
+Total Revenue 1,429 100.0% 1,256 100.0% 
+Revenue by IT, BPS, and Others
+In USD million CY24 % of Revenue CY23 % of Revenue
+IT Services 1,206 84.4% 1,068 85.0% 
+BPS 179 12.6% 158 12.6% 
+Others 44 3.1% 30 2.4% 
+Total Revenue 1,429 100.0% 1,256 100.0% 
+Revenue by Onshore, Offshore IT Services
+In USD million CY24 % of Revenue CY23 % of Revenue
+Onshore IT Services 680 56.4% 607 56.9% 
+Offshore IT Services 526 43.6% 461 43.1% 
+Total Revenue 1,206 100.0% 1,068 100.0% Key Revenue Metrics – CY24
+=== page 25 ===
+8 © 2025 Hexaware Technologies
+Q4CY24 Q3CY24 Q4CY23 CY24 CY23
+# of IT business 
+professionals20,475 20,149 18,007 20,475 18,007
+# of BPS business 
+professionals11,834 12,387 10,285 11,834 10,285
+Total Headcount 32,309 32,536 28,292 32,309 28,292
+Voluntary Attrition rate for 
+IT service line(3) 10.8% 11.3% 14.7% 10.8% 14.7% 
+Utilization rate for IT(4)81.6% 82.9% 81.6% 82.3% 79.7% Customer Concentration(1)
+Q4CY24 Q3CY24 Q4CY23 CY24 CY23
+Top 5 customers 25.7% 25.8% 25.0% 25.7% 25.0% 
+Top 10 customers 35.8% 35.7% 35.5% 35.8% 35.5% 
+Top 20 customers 49.7% 49.4% 48.7% 49.7% 48.7% 
+Client Pyramid(2)
+Q4CY24 Q3CY24 Q4CY23 CY24 CY23
+$75 million + 3  3  2  3  2  
+$50 million + 3  3  3  3  3  
+$20 million + 15  15  11  15  11  
+$10 million + 31  31  29  31  29  
+$5 million + 61  59  54  61  54  
+$1 million + 186  186  171  186  171  Key Client and Operational Metrics
+Key Employee Metrics
+Notes: (1) Revenue by customer group (top 5, top 10 and top 20) is revenue derived by our Company from these customer groups on TTM basis preceding the relevant 
+date. (2) Client Pyramid is calculated as number of active clients for respective period based on the revenue earned from the se customers in the last twelve months 
+preceding the relevant date. (3) Total number of IT business professionals and support function professionals who left the co mpa ny voluntarily during a period divided by 
+average number of IT business professionals and support function professionals during the period computed on TTM basis. (4) T otal hours spent by IT business 
+professionals on customer billed assignments divided by the total available base hours. IT business professionals designated as Mavericks (campus hires) are included in 
+the utilization computation after completion of an initial period of training of up to four months.
+=== page 26 ===
+9 © 2025 Hexaware Technologies
+Other Key Metrics
+Days Sales Outstanding (DSO)
+# of Days Q4CY24 Q3CY24 Q4CY23 CY24 CY23
+DSO - Billed 38  40  49  39 49  
+DSO - Unbilled 27  32  18  29  18  
+USD / INR Exchange Rate
+Q4CY24 Q3CY24 Q4CY23 CY24 CY23
+Period Closing Rate 85.62  83.80  83.21  85.62  83.21  
+Period Average Rate 84.73  83.80  83.29  83.77 82.61  
+=== page 27 ===
+10 © 2025 Hexaware Technologies
+Change
+In INR million unless stated otherwise Q4CY24 Q3CY24 Q4CY23 QoQ  (%) YoY (%)
+Revenue (USD Mn) 372.3  374.2  314.1  (0.5%) 18.5% 
+Revenue – Constant Currency 0.2% 18.8%
+Revenue (INR Mn) 31,544  31,357  26,160  0.6% 20.6%
+Other Income 236  112  100  110.7% 136.0%
+Total Income 31,780  31,469  26,260  1.0% 21.0%
+(-) Employee Benefits Expense 18,196  18,091  15,725  0.6% 15.7% 
+(-) Other Expenses 8,444  8,355  7,124  1.1% 18.5% 
+EBITDA 5,140  5,023  3,411  2.3% 50.7% 
+EBITDA Margin (%) 16.3% 16.0% 13.0% 28 bps 326 bps
+(-) / + Adjustments 240  453  634  (47.0%) (62.1%)
+Adjusted EBITDA 5,380  5,476  4,045  (1.8%) 33.0% 
+Adjusted EBITDA Margin (%) 17.1% 17.5% 15.5% (41 bps) 159 bps
+(-) D&A 763  738  939  3.4% (18.7%)
+EBIT 4,377  4,285  2,472  2.1% 77.1% 
+EBIT Margin (%) 13.9% 13.7% 9.4% 21 bps 443 bps
+(-) Finance Costs 207  226  72  (8.4%) 187.5% 
+Profit before Tax 4,170  4,059  2,400  2.7% 73.8% 
+Total Tax Expense 963  1,062  472  (9.3%) 104.0% 
+Reported Profit 3,207  2,997  1,928  7.0% 66.3% 
+Reported Profit Margin (%) 10.2% 9.6% 7.4% 61 bps 280 bps
+Adjusted Profit 3,567  3,504  2,738  1.8% 30.3% 
+Adjusted Profit Margin (%) 11.3% 11.2% 10.5% 13 bps 84 bps
+Basic EPS (INR) 5.25 4.98 3.18 5.4% 65.1%
+Adjusted EPS (INR) 5.84 5.81 4.51 0.5% 29.5% Summary of Consolidated Statement of Profit and Loss
+=== page 28 ===
+11 © 2025 Hexaware Technologies
+In INR million unless stated otherwise CY24 CY23 YoY (%)
+Revenue (USD Mn) 1,428.9  1,256.4  13.7% 
+Revenue – Constant Currency 13.5%
+Revenue (INR Mn) 119,744  103,803  15.4% 
+Other Income 749  88  751.1% 
+Total Income 120,493  103,891  16.0% 
+(-) Employee Benefits Expense 69,649  61,282  13.7% 
+(-) Other Expenses 31,793  26,710  19.0% 
+EBITDA 19,051  15,899  19.8% 
+EBITDA Margin (%) 15.9% 15.3% 59 bps
+(-) / + Adjustments 1,714  953  79.9% 
+Adjusted EBITDA 20,765  16,852  23.2% 
+Adjusted EBITDA Margin (%) 17.3% 16.2% 111 bps
+(-) D&A 2,788  2,836  (1.7%)
+EBIT 16,263  13,063  24.5% 
+EBIT Margin (%) 13.6% 12.6% 100 bps
+(-) Finance Costs 660  378  74.6% 
+Profit before Tax 15,603  12,685  23.0% 
+Total Tax Expense 3,863  2,709  42.6% 
+Reported Profit 11,740  9,976  17.7% 
+Reported Profit Margin (%) 9.8% 9.6% 19 bps
+Adjusted Profit 13,744  11,326  21.3% 
+Adjusted Profit Margin (%) 11.5% 10.9% 57 bps
+Basic EPS (INR) 19.37 16.45 17.8%
+Adjusted EPS (INR) 22.67  18.68  21.4% Summary of Consolidated Statement of Profit and Loss
+=== page 29 ===
+12 © 2025 Hexaware Technologies
+As of period ending
+In INR million Dec-24 Sep-24 Dec-23
+Assets
+Property, plant and equipment and intangible 8,128 8,370 6,484
+Right -of-use assets 5,596 5,038 3,761 
+Goodwill 23,871 23,366 14,290 
+Capital work -in-progress 1,308 1,106 552 
+Deferred tax assets (net) 2,682 3,032 2,727 
+Other non -current assets & investments in associates 2,338 2,130 2,130 
+Trade receivables and unbilled revenue 22,531 24,394 19,101 
+Other current assets 3,568 3,376 2,573 
+Cash and cash equivalents (inc. restricted) 19,923 15,130 20,403 
+Total Assets 89,945 85,942 72,021 
+Equity and Liabilities 
+Equity 608 607 607 
+Other Equity and reserves 52,961 52,205 45,745 
+Non-controlling Interests (23) (42) -   
+Total Equity 53,546 52,770 46,352 
+Non-current liabilities 228 183 69 
+Deferred tax liabilities (net) 0.0 0.0 -   
+Lease liabilities 5,742 5,175 3,936 
+Trade payables 9,140 7,876 6,595 
+Other current liabilities 13,981 12,406 11,597 
+Deferred consideration 4,140 4,216 391 
+Provisions 3,168 3,316 3,081 
+Total Liabilities 36,399 33,172 25,669 
+Total Equity and Liabilities 89,945 85,942 72,021 Summary of Consolidated Balance Sheet
+=== page 30 ===
+13 © 2025 Hexaware Technologies
+In INR million unless stated otherwise CY24 CY23
+Profit before tax 15,603 12,685
+D&A, ESOP cost, Finance cost & other items 3,627 3,827
+Changes in working capital (628) 1,223
+Taxes (3,122) (2,579)
+Cashflow from operation (OCF) 15,480 15,156
+Capex (1,312) (634)
+Investment in MFs and Interest on Fixed Deposits 2,890 (2,362)
+Business acquisition (8,268) -
+Cash used in investing activities (6,690) (2,996)
+Proceeds from issue of shares 1 3
+Borrowings and lease payments (1,506) (2,006)
+Dividend (5,314) (5,308)
+RSU one -time cash settlement - (190)
+Cash used in financing activities (6,819) (7,501)
+Net cash flow 1,971 4,659Summary of Consolidated Cash Flow Statement
+=== page 31 ===
+14 © 2025 Hexaware Technologies
+About Hexaware Technologies
+We are a global digital and technology services company with artificial intelligence (“AI”) at its core. 
+We leverage technology to deliver innovative solutions that help our customers in their digital 
+transformation journey and subsequent operations. 
+We embed AI into every aspect of our solutions and have created a suite of platforms and tools 
+that allow our customers to adapt, innovate and optimize in this AI -first era. We serve a diverse 
+range of customers, including 31 of the Fortune 500 organizations. 
+With a team of 32,309 employees in 28 countries, our presence is spread across major countries, 
+nationalities, languages, time zones and regulatory zones. For more information, please visit 
+https://hexaware.com/
+Contact
+Investor Relations: 
+Niraj Khemka, Head of Investor Relations
+Investorrelations@hexaware.com
+Registered Office:
+152, Millennium Business Park, 
+Sector III ‘A’ Block, TTC Industrial Area Mahape,
+Navi Mumbai - 400 710,
+Maharashtra, India 
+CIN: U72900MH1992PLC069662
+https://hexaware.com/Disclaimer
+Use of Non -GAAP Financials
+Hexaware has included certain non -GAAP financial measures in this presentation to supplement Hexaware’s 
+consolidated financial statements presented on a GAAP basis. These non -GAAP financial measures may have limitations 
+as analytical tools, and these measures should not be considered in isolation or as a substitute for analysis of 
+Hexaware’s results as reported under GAAP. 
+The non -GAAP financial information that we provide also may differ from the non -GAAP information provided by other 
+companies. We compensate for the limitations on our use of these non -GAAP financial measures by relying primarily 
+on our GAAP financial statements and using non -GAAP financial measures only supplementally. We have provided 
+reconciliations of non -GAAP earnings to the most directly comparable GAAP earnings, and we encourage investors to 
+review those reconciliations carefully. 
+We believe that providing these non -GAAP financial measures in addition to the related GAAP measures provides 
+investors with greater transparency. We further believe that providing this information better enables investors to 
+understand Hexaware’s operating performance and financial condition.
+Rounding off
+Certain amounts and percentage figures included in this presentation have been subject to rounding adjustments. 
+Accordingly, figures shown as totals in certain tables may not be an arithmetic aggregation of the figures preceding 
+them.
+=== page 32 ===

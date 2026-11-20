@@ -1,0 +1,92 @@
+ 
+ Ref No:  RML/202 5-26/567 
+ 
+Date:  April 8 , 2025  
+ 
+To,  
+BSE Limited                                        National Stock Exchange of India Limited  
+Scrip Code: 543228                         Symbol: ROUTE  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Announcement under Regulation 30 - Press Release  
+ 
+Please find enclosed Press Release  titled “Proximus Global launches new AI -powered SMS spam and 
+fraud protection solution: 365guard ” issued by Proximus Global through its messaging specialist 
+365squared  Ltd ( Wholly owned subsidiary of Route Mobile Limited ). 
+ 
+You are requested to take the above information on record.  
+ 
+The same is also uploaded on the Company’s website at www.routemobile.com  
+ 
+ 
+Thanking you,  
+Yours truly,  
+For Route Mobile Limited  
+ 
+ 
+ 
+ 
+______________________________________________________________________ ____ 
+Rathindra Das  
+Group Head - Legal, Company Secretary & Compliance Of ficer  
+Membership No: F12663  
+ 
+Encl : as above  Registered & Corporate Office: 
+Route Mobile Limited 
+San Raj Corporate Park -4th Dimension, 3rd floor, 
+Mind Space, Malad (West), Mumbai -400 064, India 
++91 22 4033 7676m-99 I Fax: +91 22 4033 76S0 
+info@routemobi le.com I www.routemob ile.com 
+CIN No: L72900MH2004PLC146323 
+ 
+ 
+Confidential - Not for you? Notify the sender and delete.  Proximus Global launches new  AI-powered  
+SMS spam and fraud protection solution: 
+365guard    
+The new  solution protects consumers by blocking millions of unwanted 
+messages daily.  
+Brussels – 8 April 2025  – Proximus Global, through its messaging specialist 365squared , has unveiled 
+365guard, an innovative AI -powered solution designed to shield mobile network operators (MNOs) and 
+their users from SMS spam, fraud, and smishing attacks.   
+The scale of the SMS spam problem is staggering. According to Global Anti -Scam Alliance , scammers 
+stole US$1.03 trillion from global consumers in 2024 alone. SMS, alongside phone calls, has emerged as 
+a leading delivery method for scams. In many digitally developing markets such as Brazil, Kenya and the 
+Philippines, SMS surpasses voice calls a s the most prevalent scam delivery method. Tactics like smishing 
+– phishing style scams delivered via SMS – are on the rise, with devastating financial consequences. 
+Proximus Global, through its international connectivity enabler, BICS, counted 331 million smishing 
+messages worldwide  in 2024. According to the IC3, each victim of a smishing at tack suffers an average 
+loss of $800 .   
+Proximus Global  offers a game -changing solution for this escalating issue. By leveraging cutting -edge AI -
+powered analytics, the platform provides a smarter alternative to outdated, static detection systems. Its 
+dynamic threat detection engine continuously learns and evol ves to counter region -specific spam 
+campaigns and increasingly sophisticated cyberattacks.   
+Tonio Ellul, Chief Executive Officer  at 365squared said:  “SMS spam is a growing threat that must be 
+addressed at industry level. It’s not something consumers should be left to deal with on their own. 
+365guard offers operators an efficient, fully managed solution to shield their customers, comply with 
+regulations, and prevent network congestion. Our system is live and proven, blocking millions  of fraudulent 
+messages every day. Its AI engine grows smarter with time, enhancing protection for everyone.”    
+365guard deploys AI -powered analytics and threat detection, offering a smarter alternative to static, rule -
+based legacy systems. Its dynamic detection engine continuously learns and adapts to regional threats. 
+This is crucial in an environment where fraud regulations evolve and vary between regions and AI -driven 
+attacks continue to grow in scale and complexity. The solution works in three stages: logging  suspicious 
+activity, alerting the MNO, and taking preventive action. Depending on the operator’s preferences, it can 
+block suspected spam outright or append warning prefixes to alert consumers of suspected fraud.   prox1mus 
+Global 
+Proximus Global launches new AI -powered SMS spam and fraud protection solution: 365guard  
+ 
+365guard also complements existing security offerings in the Proximus Global portfolio, which includes 
+products from Proximus Global companies Telesign and BICS. This unified approach provides mobile 
+operators and enterprises with a flexible suite of tools  to defend both P2P (person -to-person) and A2P 
+(application -to-person) communication channels.    
+Rajdipkumar Gupta, Business Lead, Proximus Global, underscored the solution's importance : "Telecom 
+fraud is an existential threat to the mobile industry. Left unchecked, it can erode trust in SMS and mobile 
+communications. 365guard is a powerful tool for MNOs to reduce SMS fraud effectively and bolster secure 
+communication globally. It perfectl y complements Proximus Global’s cloud -based solutions, providing 
+operators with on -premises or cloud deployment options for comprehensive protection."    
+Global adoption of AI -driven security tools like 365guard is critical as regulations evolve and fraudsters 
+continue to deploy cutting -edge AI for malicious purposes. Proximus Global, which unites Route Mobile, 
+Telesign, and BICS under a single umbrella, is  leading the charge in shaping the secure communication 
+landscape of tomorrow.   
+  
+ 

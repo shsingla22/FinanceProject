@@ -1,0 +1,108 @@
+ 
+Mastek Limited  
+804/805, President House, Opp. C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad – 380 006  
+Tel: +91 -79-2656 -4337 | Email: info@mastek.com  | Web: www.mastek.com  | CIN: L74140GJ1982PLC005215   
+SEC/ 063/2026-27                                                                                                      October  05, 202 6  
+  
+Listing Department  
+BSE Limited  
+25th Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort,  
+Mumbai -400 001  
+SCRIP CODE: 523704  Listing Department  
+The National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051  
+SYMBOL: MASTEK  
+ISIN: INE759A01021  
+ 
+Dear  Sir(s)/Ma’am(s),  
+ 
+Sub: Press Release  
+ 
+Ref: Regulation 30 of S EBI (Listing Obligations and Disclosure Requirements), Regulations, 
+2015  
+ 
+Please find enclosed herewith a Press Release titled  “Mastek Reimagines Enterprise Software with 
+AI-Native Services as Software (SaS) ”, which is being issued by the Company.  
+The same is also uploaded on the Company's website at  www.mastek.com .  
+ 
+You are requested to take the same on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Mastek Limited  
+ 
+ 
+ 
+ 
+Reena Raje  
+Company Secretary & Compliance Officer  
+Membership No.: A21440  
+ 
+Encl: AA  
+
+ 
+Mastek Reimagines Enterprise Software with AI -Native Services as Software (SaS)  
+Mastek Introduces Services as Software with AI -native solution s that deliver better business outcomes while 
+significantly reducing software subscription costs  
+Mumbai, India – Oct 05, 2026:  Mastek (NSE: MASTEK; BSE: 523704), a trusted AI -first digital engineering and cloud 
+transformation partner, today announced a major milestone in its Services as Software (SaS)  strategy, redefining how 
+enterprises achieve intelligent transformation . By combining deep domain expertise, AI, data, and engineering, Mastek is 
+enabling organizations to move beyond traditional enterprise software toward AI -native services that deliver measurable 
+business outcomes, simplify technology landscapes, and signifi cantly reduce software subscription costs. The company is 
+applying this approach across its focused industry verticals, helping clients accelerate business transformation with AI at 
+the core.   
+Mastek's Service as Software vision is built  on three  core principles : 
+1. Deliver  Tangible Business Results : Technology investments should deliver measurable business outcomes, not 
+just usage metrics or deployment milestones.  
+2. Transform  System of Record to System of Intelligence : Traditional enterprise platforms capture, organize, and 
+report historical information . Systems of intelligence go further by connecting enterprise knowledge and 
+delivering the right insight to the right person at the right time.   
+3. Sell Outcomes and Reduce the Cost of Software : Industry studies estimate that enterprises actively use only 
+around one -third of the SaaS applications they license, leaving significant investments underused while adding 
+complexity to daily operations . Mastek addresses this by assessing actual software usage, retaining only the 
+workflows that create business value, and replacing unnecessary complexity with AI -native experiences.  
+As the first proof point of this vision, Mastek developed a CRM  solution , an AI -native platform that has replaced its legacy 
+CRM  environment. Designed and built at the Mastek AI Center of Excellence, the solution was deployed, stress -tested, 
+and refined using the company's Customer Zero  approach, supporting all global sales and marketing teams in live 
+production. This internal deployment validated the platform's scalability, usability, and business impact before making it 
+available to customers . Mastek aim s to deliver a 10% improvement in its win probability using contextual data to 
+transform the CRM from a system of records to a system of intelligence and execution.  
+Speaking on the subject Umang Nahata , CEO of Mastek  said “Our learning is that applying AI to just speed up old ways 
+of working will only give a good use case for AI to deliver a tangible business benefit . Organizations must  reimagine their 
+process es and reskill their talent. We had to also ensure that frontier models are combined  with contextual data of 
+Mastek to generate Mastek -specific intelligence. Finally,  adoption  of the solution needs working with sales teams and 
+leaders on the ground to understand the grassroot details. Unless the solutions are made f or the specific nua nces of an 
+orga nization , it’s hard to get tang ible benefits.”  
+“We reimagined our data and buil t Mastek Hub, the company’s centralized knowledge platform . MastekCRM combines 
+customer case studies, project experience, proposal assets, and business intelligence to enable AI -driven decision -making. 
+The platform helps sales teams prepare for client meetings, improve forecasting, automatically capture institutional 
+knowledge, and surface rel evant recommendations in real time .” said Ritwik Batabyal, CTIO at Mastek . 
+ 
+ 
+Building on this foundation, Mastek is extending the same AI -native SaS approach  across additional enterprise functions. 
+Mastek ’s has developed an  AI native Intelligent Document Processing  solution which is being used to replace its legacy 
+SAP Procurement, Accounts Payable & Expense Management applications. These new solutions are focused on delivering 
+the business goal of faster and simpler process es and tangible cost optimization.  
+Together, these solutions demonstrate how enterprises can progressively replace conventional enterprise software with 
+intelligent, AI -powered business capabilities . 
+Umang also  highlighted , “Mastek's strategy is not about becoming a software product company. Instead, we are 
+representing a  new services -led model where deep domain expertise, AI, data, and engineering converge to deliver 
+continuously evolving business capabilities. ” 
+Press Contact  
+David Marcelline  | david.marcelline@mastek.com   
+About Mastek  
+Mastek (NSE: MASTEK; BSE: 523704) is a global provider of enterprise AI, digital, and cloud services, enabling clients to 
+achieve measurable and sustainable returns on their technology investments. The company has a presence in over 40 
+countries and a skil led workforce of close to 5,000 employees. Through its “Lead with AI” approach, Mastek integrates 
+intelligence across its solutions and operations, enabling organizations to accelerate transformation using ethical, 
+scalable, and domain -driven AI adoption. Mastek partners with industry leaders such as Oracle, Salesforce, Microsoft, 
+AWS, Snowflake, and Databricks, serving key sectors such as Public Sector, Healthcare, Retail, Manufacturing, Higher 
+Education, and Financial Services. Mastek is committed to driv ing innovation by developing a strong ecosystem of start -
+ups, academia, and IPs. With its core values of trust, value, and velocity, the company empowers 400+ active customers 
+to transform their business in the evolving tech landscape. Mastek has always be en a solutions -focused and relationship -
+centric company, valuing both employees and clients. With its humane approach, Mastek fosters growth through 
+sustainable goals, high ethical standards, and responsible governance.  

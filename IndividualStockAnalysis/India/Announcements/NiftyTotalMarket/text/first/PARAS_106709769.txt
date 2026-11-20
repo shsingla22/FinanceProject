@@ -1,0 +1,319 @@
+ 
+ 
+ 
+ 
+July 24, 2026  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Fort, Mumbai – 400 001  
+Scrip Code: 543367  National Stock Exchange of India Limited  
+Exchange Plaza, Plot C/1, G Block,  
+Bandra – Kurla Complex,  
+Bandra – (East), Mumbai – 400 051  
+Trading Symbol:  PARAS  
+ 
+Dear Sir/Madam,  
+ 
+Subject: Amendment to Code for Prohibition of Insider Trading and Fair Disclosure of Unpublished 
+Price Sensitive Information  (UPSI)  of the Company . 
+ 
+Pursuant to the provisions of Regulations 8 and 9 read with Schedules A and B of the SEBI (Prohibition of 
+Insider Trading) Regulations, 2015, as amended, we wish to inform you that the Board of Directors of the 
+Company, at its meeting held on July 24, 202 6, has approved amendments to Code for Prohibition of Insider 
+Trading and Fair Disclosure of Unpublished Price Sensitive Information of the Company (“the PIT Code”) . 
+ 
+The amended policy has been formulated in accordance with the SEBI (Prohibition of Insider Trading) 
+Regulations, 2015 , as amended from time to time.  
+ 
+A copy of the amended Policy is enclosed herewith. The same has also been uploaded on the Company’s 
+website at the link  https://parasdefence.com/investors  
+ 
+You are requested to disseminate the above information on your respective websites.  
+ 
+Thanking you,  
+ 
+For Paras Defence and Space Technologies Limited  
+ 
+ 
+ 
+ 
+______________  
+Minal Bhate  
+Company Secretary and Compliance Officer  
+Membership No.: A20188  
+ 
+Encl.: As above   
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CODE FOR PROHIBITION OF INSIDER TRADING AND FAIR DISCLOSURE OF 
+UNPUBLISHED PRICE SENSITIVE INFORMATION (UPSI) IN THE SECURITIES  
+OF  
+PARAS DEFENCE AND SPACE TECHNOLOGIES LIMITED  
+comprising  
+PART B: “Code of Conduct for Regulating, Monitoring and Reporting of Trading by 
+Designated Persons and their Immediate Relatives”  
+(framed under Regulation 9(1) of the SEBI (Prohibition of Insider Trading) Regulations, 2015)  
+ 
+and 
+PART C: “Code of Practices and Procedures for Fair Disclosure of Unpublished Price 
+Sensitive Information (UPSI)”  
+(framed under Regulation 8(1) of the SEBI (Prohibition of Insider Trading) Regulations, 2015)  
+ 
+ 
+Document Control  
+Document Title  Code for Prohibition of Insider Trading  and Fair 
+Disclosure of UPSI in the Securities of Paras 
+Defence and Space Technologies Limited  
+Version  3.0 
+Effective Date   07th March, 2020  
+Amendment  Date  24th July, 202 6 
+Document Owner  Secretarial and Compliance  
+Document Approv er Board of Directors  
+ 
+ 
+
+ 
+ 
+ 
+Page 2 of 37 
+ 
+CODE FOR PROHIBITION OF INSIDER TRADING AND FAIR DISCLOSURE OF UNPUBLISHED PRICE 
+SENSITIVE INFORMATION (UPSI)  
+ 
+PART A - GENERAL PROVISIONS  
+A1. PREAMBLE  
+This Code, titled the “Code  for Prohibition of Insider Trading and Fair Disclosure of UPSI in the 
+Securities of Paras  Defence and Space Technologies Limited ” (the "Code")  is formulated under  the 
+Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015  (the 
+“SEBI PIT Regulation ”), as amended from time to time . 
+ 
+Pursuant to regulation 8(1) and 9(1) of the SEBI PIT Regulations, the Company hereby adopts  this 
+Code , comprising Pa rt B (Code of Conduct for Regulating, Monitoring and Reporting of Trading by 
+Designated Persons and their Immediate Relatives, framed under Regulation 9(1)) and Part C 
+(Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information, 
+framed under Regulation 8(1)), together with this Part A containing provisions of general application 
+to both Part B and Part C.  
+A2. APPLICABILITY  & OBJECTIVE  
+This Code shall be applicable to Connected Persons,  Insiders, Designated  Persons  and their 
+Immediate Relatives and  includes any person in possession  of or having intermittent access to 
+UPSI . 
+ 
+This Code aims to  preserve the strict confidentiality of all inside corporate records, to enforce 
+uniform, non -selective public disclosure of market -moving events, to prohibit unfair market abuse, 
+short -swing trading, and illicit insider transactions  and to regulate, monitor and report trading by 
+Connected Persons, Insiders, Designated Persons and their Immediate Relatives  to comply with 
+SEBI PIT Regulation s, as amended from time to time.   
+A3. DEFINITIONS  
+(i). “Act”  means the Securities and Exchange Board of India Act, 1992.  
+ 
+(ii). “Board ” mean s the Board of Directors of the Company.  
+ 
+(iii). “CODE” shall mean this Code , comprising Part B (Code of Conduct for Regulating, 
+Monitoring and Reporting of Trading by Designated Persons and their Immediate Relatives, 
+framed under Regulation 9(1) of the SEBI PIT Regulations) and Part C (Code of Practices 
+and Procedures for Fair Disclosure of UPSI, framed under Regulation 8(1) of the SEBI PIT 
+Regulations), read together with this Part A.  
+ 
+(iv). “Company ” or “PARAS”  mean s Paras Defence and Space Technologies Limited . 
+ 
+(v).  “Compliance Officer ” mean s any senior officer , designated so and reporting to the Board  
+of Directors , who is financially literate and is capable of appreciating requirements for legal 
+and regulatory compliance under the Insider Trading Regulations,  and who shall be 
+responsible for compliance of policies, procedures, maintenance of records, monitoring 
+adherence to the rules of preservation of Unpublished Price Sensitive Information, monitoring 
+of trades and the implementation of the codes specified under the Insider Trading 
+Regulations under the overall supervision of the Board.  
+ 
+(vi). “Connected Person ” means:  
+ 
+ 
+ 
+ 
+Page 3 of 37 
+ 
+a) any person who is or has during the six months prior to  the concerned act been 
+associated with the Company, directly or indirectly, in any capacity including by reason of 
+frequent communication with its officers or by being in any contractual, fiduciary or 
+employment relationship or by being a director, officer or an employee of  the  Company  
+or  holds  any position  including  a  professional  or  business  relationship  between  
+himself   and  the Company whether temporary or permanent, that allows such person, 
+directly or indirectly, access to Unpublished Price Sensitive Information  or is reasonably 
+expected to allow such access.  
+ 
+b) Without prejudice to the generality of the foregoing, the persons falling within the 
+following categories shall be deemed to be connected persons unless the contrary is 
+established - 
+ 
+▪ a Relative of Connected Persons specified in clause ( a) above ; or 
+▪ a holding company or associate company or subsidiary company; or  
+▪ an intermediary as specified in Section 12 of the  Securities and Exchange Board of 
+India  Act, 1992 , as amended  or an employee or director thereof;  or 
+▪ an investment company, trustee company, asset management company or an 
+employee or director thereof; or  
+▪ An official of a stock exchange or of clearing house or corporation; or  
+▪ A member of board of trustees of a mutual fund or a member of the board of directors 
+of the asset management company of a mutual fund or is an employee thereof; or  
+▪ A member of the board of directors or an employee, of a public financial institution as 
+defined in section 2 (72) of the Companies Act, 2013 , as amended ; or 
+▪ An official and/or employee of a self -regulatory organization recognized or authorized 
+by the Board;  
+▪ A banker of the Company; or 
+▪ A concern, firm, trust, Hindu undivided family, company or association of persons 
+wherein a director of the Company or his relative or banker of the Company, has 
+more than ten per cent, of the holding or interest.  
+▪ a firm or its partner or its employee in which a connected person specified in clause 
+(a) above . 
+▪ a person sharing household or residence with a connected person specified in clause 
+(a) above.  
+ 
+Provided that the onus of establishing that a Connected Person was not in possession of 
+Unpublished Price Sensitive Information shall rest entirely on such Connected Person  
+ 
+(vii). “Designated Person ” shall mean and include the following categories of persons, specified 
+by the Board of Directors in consultation with the Compliance Officer on the basis of their 
+functional role and access to UPSI :  
+ 
+a) the Promoters , Members of the Promoter group and a ll Directors of the Company 
+(Executive, Non -Executive and Independent , whether Whole -Time or not);  
+ 
+b) the Chief Executive Officer (CEO), Managing Director (MD), Key Managerial Personnel  
+(KMP)  and all employees upto  two levels below CEO/MD, irrespective of their functional  
+role in the Company or ability  to have access  to Unpublished Price Sensitive Information;  
+ 
+c) every employee in the Finance, Accounts, Secretarial/Legal, Corporate Communications, 
+and Information Technology (IT) departments who ha s access to or is in possession of 
+Unpublished Price Sensitive Information ; 
+ 
+d) Executive Assistants, Personal Secretaries, or support staff to Directors, KMPs, and the 
+executive leadership ; and  
+ 
+ 
+ 
+Page 4 of 37 
+ 
+ 
+e) any other employee, intermediary, or fiduciary identified  by the Compliance Officer from 
+time to time , within the categories and criteria approved by the Board of Directors under 
+this clause , based on their functional role and access to specific transac tional UPSI.  
+ 
+(viii).  “Employee ” mean s every employee of the Company , including the Directors in the 
+employment of the Company.  
+ 
+(ix). “Fiduciaries” collectively to be referred as professional firms such as auditors, accountancy 
+firms, law firms, analysts, insolvency professional entities, consultants, banks etc., assisting 
+or advising to the Company.  
+ 
+(x). “Financially literate ” means a person who has the ability to read and understand basic 
+financial statements, i.e. balance sheet, profit and loss account, and statement of cash flows.  
+ 
+(xi). “Generally Available Information ” means information that is accessible to the public on a 
+non- discriminatory basis  and shall not include unverified event or information reported in 
+print or electronic media  
+ 
+(xii). “Immediate Relative ” means a spouse of a person, and includes parent, sibling, and child 
+of such person or of the spouse, any of whom is either dependent financially on such person 
+or consults such person in taking decisions relating to trading in securities.  
+ 
+Explanation: For the avoidance of doubt, a spouse is always an Immediate Relative under 
+this Code, regardless of financial independence or separate income streams. For parents, 
+siblings, and children, if they routinely consult or align with the Designated Person (DP) 
+before executing any stock market trade, they must be declared as an Immediate Relative, 
+even if they are entirely financially self -sufficient.  
+ 
+(xiii).  “Informant” means an individual(s), who voluntarily submits to the Board a Voluntary 
+Information Disclosure Form relating to an alleged violation of insider trading laws that has 
+occurred, is occurring or has a reasonable belief that it is about to occur, in a manner 
+provided under Insider Trading , regardless of whether such individual(s) satisfies the 
+requirements, procedures and conditions to qualify for a reward.  
+ 
+(xiv).   “Insider ” means any person who  is:  
+ 
+a) a Connected Person ; or 
+b) in possession of or having access to Unpublished Price Sensitive Information .  
+ 
+(xv). “Key Managerial Personnel ” means key managerial personnel as defined under the 
+Companies Act, 2013 , as amended,  and includes : 
+ 
+a) Chief Executive Officer or the Managing Director or the Manager of the Company ; 
+b) the Company Secretary of the Company ; 
+c) the Whole -Time Director  of the Company ; 
+d) the Chief Financial Officer of the Company ;  
+e) such other officer, not more than one level below the Directors who is in whole -time 
+employment, designated as Key Managerial Personnel by the Board; and  
+f) such other officer as may be prescribed under the Securities and Exchange Board of 
+India Act, 1992 , as amended . 
+ 
+(xvi).  “Legitimate Purpose”  shall include sharing of unpublished price sensitive information in the 
+ordinary course of business by an insider with partners, collaborators, lenders, customers, 
+suppliers, merchant bankers, legal advisors, auditors, insolvency professionals or other 
+ 
+ 
+ 
+Page 5 of 37 
+ 
+advisors or consultants, provided that such sharing has not been carried out to evade or 
+circumvent the prohibitions of SEBI PIT Regulations . 
+ 
+(xvii).  "Material Financial Relationship " shall mean a relationship in which one person is a 
+recipient of any kind of payment such as by way of a loan or gift from a designated person 
+during the immediately preceding twelve months, equivalent to at least 25% of the annual 
+income of such designated person but shall exclude relationships in which the payment is 
+based on arm’s length transactions.  
+ 
+(xviii).  “Promoter ” or “Promoter Group”  shall have the meaning assigned to it under the 
+Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) 
+Regulations, 2018 , as amended , or the Companies Act, 2013, as amended , or any 
+modification thereof . 
+ 
+(xix).  “Relati ve” shall mean the following:  
+ 
+a) spouse of the person;  
+b) parent of the person and parent of its spouse;  
+c) sibling of the person and sibling of its spouse;  
+d) child of the person and child of its spouse;  
+e) spouse of the person listed at clause (c)  here; and  
+f) spouse of the person listed at clause (d) here  
+ 
+(xx). “Reward”  means any gratuitous monetary amount for which an Informant is declared eligible 
+as per the provisions of the SEBI Insider Trading Regulations .  
+ 
+(xxi).  “SEBI PIT Regulation”  means the Securities and Exchange Board of India (Prohibition of 
+Insider Trading) Regulations, 2015, as amended.  
+ 
+(xxii).  “Securities ” shall have the meaning assigned to it under the Securities Contracts 
+(Regulation) Act, 1956 , as amended  except units of a mutual fund . 
+ 
+(xxiii).  “Takeover  Regulations ” means  the Securities  and Exchange  Board  India (Substantial 
+Acquisition of Shares and Takeovers) Regulations, 2011 , or any modification thereof . 
+ 
+(xxiv).  “Trading ” means and includes subscribing,  redeeming, switching,  buying, selling, dealing, 
+or agreeing to subscribe, redeem, switch, buy, sell, deal in any securities, and "trade " shall 
+be construed accordingly . 
+ 
+(xxv).  “Trading Day ” means a day on which the recognized stock exchanges are open for trading;  
+ 
+(xxvi).  “Trading Window” means a trading period in which the Company’s  securities can be traded  
+as prescribed in Clause B7 of Part B . 
+ 
+(xxvii).  “Stock Exchange ” mean s a recognised  Stock Exchange as defined under clause (f) of 
+Section 2 of the Securities Contracts ( Regulation) Act, 1956 , as amended . 
+ 
+(xxviii).  “Unpublished Price Sensitive Information ” means any information , relating to a Company 
+or its securities, directly or indirectly, that is not generally available  which upon becoming 
+generally available,  is likely to materially affect the price of the securities and shall, ordinarily , 
+including but not restricted to , information relating to the following:  
+ 
+a) Financial Results ; 
+b) Dividends ; 
+c) Change in Capital Structure  

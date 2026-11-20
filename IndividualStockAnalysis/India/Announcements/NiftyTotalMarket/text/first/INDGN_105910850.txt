@@ -1,0 +1,104 @@
+Indegene Limited (Formerly Indegene Private Limited), 
+Third Floor, Aspen G -4 Block, Manyata Embassy 
+Business Park (SEZ), Outer Ring Road, Nagawara, 
+Bengaluru - 560 045, Karnataka, India  
+Phone: +91 80 4674 4567, +91 80 4644 7777 
+www.indegene.com   
+CIN: U73100KA1998PLC102040  
+INDGN/SE/2024-25/1 7
+July 11, 2024
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001, India.  
+Scrip Code: 544172  National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051, India.  
+Trading symbol: INDGN  
+Dear Sir / Madam,  
+Sub: Press Release  titled ‘Indegene Announces Strategic Collaboration with Microsoft to Help Life Sciences Companies 
+Scale Up Generative AI Adoption and Accelerate Business Impact’  
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+enclosed herewith is a press release dated July 11, 2024, titled ‘Indegene Announces Strategic Collaboration with 
+Microsoft to Help Life Sciences Companies Scale Up Generative AI Adoption and Accelerate Business Impact’  
+The above information will be made available on the websi te of the Compan y: https://www.indegene.com/  
+A copy of the Press Release is enclosed for your reference. 
+This is for your information and records. 
+For Indegene Limited  
+(Formerly known as Indegene Priva te Limited)  
+Srishti Ramesh Kaushik 
+Company Secretary and Compliance officer 
+ 
+ 
+ 
+ 
+Princeton, NJ , and Bengaluru, KA,  July 11, 2024:  Indegene today announced a strategic  collaboration  
+with Microsoft to  empower  global life sciences companies to scale up the ad option of purpose -built, 
+enterprise -grade Generative AI (GenAI) s ervice s, thereby driving faster innovation at scale.  
+Indegene  and Microsoft have committed to developing resources in  highly specialized and skilled 
+medical and tech nology  tools to  co-innovate  generative AI services  and workflows across commercial, 
+medical, regulatory, and clinical  functions.   
+”GenAI presents a once -in-a-decade opportunity for life sciences companies to modernize business 
+processes and  reimagine the effectiveness and efficiency of their operations  throughout the value 
+chain. Using GenAI, w e’re closely working with many of our clients  to solve specific business problems , 
+with nearly 50  real-world  use cases already in an advanced pilot stage ”, said Tarun Mathur, CTO, 
+Indegene.  “As we double down on efforts to strengthen our innovation prowess, w e will  keep  exploring 
+opportunities for greater collaboration with key  technology providers. W e remain focused on  helping 
+our clients harness the potential of GenAI with targeted solutions to  address some  of their most 
+pressing operational  challenges  and make their business future -ready.”  
+Alok Lall, Chief Operating Officer, Microsoft India  & South Asia , said, “Generative AI is profoundly 
+shaping every industry, including life sciences, by offering unprecedented avenues for healthcare 
+technology advancements. According to a Microsoft -commissioned study conducted by IDCi, a 
+staggering 79% of healthcare organizations have now embraced AI. This demonstrates that the 
+tangible business value of this transformation is indisputable. By seamlessly integrating Indegene's 
+domain knowledge with Microsoft Azure OpenAI Service and Mi crosoft Copilot, we stand at the 
+forefront of advancing generative AI within the life sciences sector. This collaborative effort empowers 
+life sciences companies to fully harness AI's capabilities, fostering innovation and scalability within the industry.”  
+Some of the key use cases the strategic collaboration focuses on in the first phase, include : 
+• Content Super App: Using  Azure OpenAI  Service, the  modular content value chain  simplifies 
+content creation and tagging for life  sciences companies . This integrated approach  offers a 
+holistic view of the content value chain, enabling greater velocity, personaliz ed content , and 
+adoption  of new conversation form factors. It also streamlines creative and video 
+transformation while effectively engaging healthcare professionals (HCPs), patients and 
+payers  
+• Future-ready medical content value chain: G enerative A I capabilities  are revolutionizing the  
+medical content value chain.  From sourcing  content from relevant literature articles to 
+authoring core documents such as Clinical Study Reports (CSRs)  and Protocols, Indegene’s 
+solutions accelerate  authoring processes and  help ensure  compliance across clinical and 
+regulatory domains  
+• Data Management and Analytics for Clinical Trials:  Using  Microsoft Fabri c, Indegene’s 
+solutions  enhance the process of data ingestion and refinement, facilitate effortless reporting, 
+and guarantee governance. This leads to proficient analytics, adherence to compliance, and nimbleness in business operations. It revolutionizes the way sales users work and provides a 
+competitive advantage in the marketplace  
+Press release   
+ 
+Indegene Announce s Strategic  Collaboration  with Microsoft to Help  Life Sciences 
+Companies  Scale Up Generative AI Adoption and Accelerate Business Impact  
+Indegene counts 20 of the world’s top 20 biopharma companies among its clients. The company brings 
+a practitioner’s perspective to enable organizations to become AI -powered companies. With patients 
+and their health outcomes being the key, Indegene powers clients' ambition wi th a practitioner’s 
+expertise in leveraging GenAI, at scale . “With a focus on the right use cases, a responsible and 
+compliant approach to scaling up, and shared learnings , we put  generative AI to work for our clients ”, 
+added Tarun . 
+To develop a future -ready workforce , Indegene has also instituted the ‘GenAI @ Work’ initiative, where 
+all its 5 ,000+ employees will be trained on various facets of GenAI to enhance automation and 
+productivity, allowing its employees to focus on higher- value tasks . As part of this initiative, Indegene 
+has deployed Microsoft Copilot in several of its core business processes  and has already started seeing 
+significant productivity improvements .  
+About Indegene  
+Indegene Limited (BSE: 544172, NSE: INDGN)  is a digital -first, life sciences commercialization 
+company.  It helps biopharmaceutical, emerging biotech , and medical device companies develop 
+products, get them to the market, and grow their impact through the life cycle in a more effective, 
+efficient, and modern way . Indegene  brings together healthcare domain expertise, fit- for-purpose 
+technology,  and an  agile operating model to provide a diverse range of solutions. These aim to deliver, 
+amongst other outcomes, a personalized, scalable, and omnichannel experience for patients and 
+physicians. It’s what drives Indegene’s team and their purpose to enable healthcare organizations to 
+be future -ready. To learn more, please visit  www.indegene.com  
+For media inquiries, please contact:  
+Indegene | Yadunandan K V |  yadunandan.kv@indegene.com  
+ 
+ 
+i The Business Opportunity of AI | Microsoft AI - IDC InfoBrief, sponsored by Microsoft, The Business Opportunity of AI: How 
+Leading Organizations Around the World Are Using AI to Drive Impact Across Every Industry, IDC #US51364223, Nov. 2023.  
+ 

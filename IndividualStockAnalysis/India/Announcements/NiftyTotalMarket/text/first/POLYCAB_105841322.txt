@@ -1,0 +1,396 @@
+ 
+ 
+ 
+ 
+Registered Office:  
+Unit 4, Plot No 105, Halol Vadodara Road 
+Village Nurpura, Taluka Halol, 
+Panchamahal, Panch Mahals, Gujarat  
+389 350  
+Tel: 2676 - 227600 / 227700  
+Corporate Office:  
+Polycab India Limited  
+CIN : L31300GJ1996PLC114183  
+#29, The Ruby, 21st Floor, Senapati Bapat Marg,  
+Tulsi Pipe Road , Dadar (West), Mumbai 400 028  
+Tel: +91 22 2432 7070-74   
+  Email: shares@polycab.com  Web: www.polycab.com  
+Date: 10th May 2024  
+ 
+To 
+Department of Corporate Services  
+BSE Limited  
+Phiroze Jeejeebhoy Towers, Dalal Street  
+Mumbai – 400 001  To 
+Listing Department  
+National Stock Exchange of India Limited  
+C-1, G-Block, Bandra-Kurla Complex  
+Bandra (E), Mumbai – 400 051  
+ 
+Scrip Code: 542652       Scrip Symbol: Polycab  
+ISIN :- INE455K01017  
+ 
+Dear Sir / Madam  
+ 
+Subject: Submission of Audited (Standalone and Consolidated) Financial Statements for the quarter 
+and year ended 31st March 2024.  
+ 
+With reference to the captioned subject, please find enclosed herewith the Audited (Standalone and 
+Consolidated) Financial Statements of the Company along with Auditors Report for the quarter and year 
+ended 31st March 2024 as approved by the Board of Directors at its meeting held today i.e. 10th May 2024.  
+ 
+Kindly take the same on your record.  
+ 
+Thanking you  
+ 
+Yours Faithfully  
+For Polycab India Limited  
+ 
+ 
+ 
+ 
+________________________ 
+Manita Carmen A. Gonsalves 
+Company Secretary & Head Legal 
+Membership No.: A18321 
+Address: #29, The Ruby, 21st Floor 
+Senapati Bapat Marg, Tulsi Pipe Road 
+Dadar(W), Mumbai-400028 
+ 
+Encl: as above  
+ 
+ 
+ 
+Audited Consolidated  
+Financial Statement s 
+FY 2023 -24 
+Page No.
+Balance Sheet 1
+Statement of Profit and Loss 2
+Statement of Changes in Equity 3
+Statement of Cash Flows 4
+Overview and notes to the financial statements
+A Overview
+1 Corporate Information 5
+2A Basis of preparation 5
+2B Use of estimates and judgements 8
+2C Changes in material accounting policy information 9
+2D New and amended standards 9
+2E Recent Indian Accounting Standards (Ind AS) issued not yet effective 11
+2F Material accounting policy information disclosed in subsequent notes 11
+B Notes to financial statements
+3Property, plant and equipment 10
+4Investment Property Under Construction 12
+5Right of use assets 13
+6Other intangible assets 14
+7Investment 16
+8Trade receivables 18
+9Cash and cash equivalents 19
+10 Bank balance other than cash and cash equivalents 19
+11 Loans 19
+12 Other financial assets 20
+13 Income Tax 20
+14 Other assets 22
+15 Inventories 22
+16 Equity share capital 23
+17 Other equity 26
+18 Non-controlling interests 27
+19 Borrowings 28
+20 Lease liabilities 29
+21 Acceptances 29
+22 Trade payables 30
+23 Other financial liabilities 31
+24 Other liabilities 31
+25 Provisions 32
+26 Revenue from operations 33
+27 Other income 35
+28 Cost of materials consumed 36
+29 Purchases of stock-in-trade 36
+30 Changes in inventories of finished goods, stock-in-trade and work-in-progress 36
+31 Project bought outs and subcontracting cost 36
+32 Employee benefits expense 37
+33 Finance cost 41
+34 Depreciation and amortisation expense 41
+35 Other expenses 41
+36 Earnings per share 42
+37 Contingent liabilities and commitments 43
+38 Related party disclosure 44
+39 Segment Reporting 46
+40 48
+41 Financial Instruments and Fair Value Measurement 49
+42 Financial Risk Management Objectives And Policies 54
+43 Hedging activity and derivatives 56
+44 Financial performance ratios 58
+45 Struck off company 58
+46 Capital management 59
+47 Environmental, Social and Governance (ESG) 59
+48 Scheme of Amalgamation 59
+49 Income Tax 59
+50 Events after the reporting period 59
+51 Others 59Information for Consolidated Financial Statement pursuant to Schedule III of the Companies Act, 2013Polycab India Limited
+Audited Consolidated Financial Statements for the year ended 31 March 2024
+Index
+
+Polycab India Limited
+Consolidated Balance Sheet as at 31 March 2024
+(₹ million)
+ As at  As at 
+ 31 Mar 24  31 Mar 23 
+(Audited) (Audited Restated)
+ASSETS
+Non-current assets
+Property, plant and equipment 3 21,677.57                       20,104.28                 
+Capital work-in-progress 3 5,784.46                         2,507.67                   
+Investment Property under Construction 4 762.98                            -                            
+Right of use assets 5 728.26                            361.82                      
+Goodwill 6A 46.22                              46.22                        
+Other intangible assets 6B 160.17                            157.08                      
+Investments accounted for using the equity method 7A -                                 -                            
+Financial assets
+(a)Trade receivables 8 1,190.70                         526.37                      
+(b)Other financial assets 12A 311.34                            70.40                        
+Non-current tax assets (net) 13D 297.08                            251.89                      
+Deferred tax assets (net) 13F 128.69                            13.44                        
+Other non-current assets 14A 2,561.76                         1,128.10                   
+33,649.23                       25,167.27                 
+Current assets
+Inventories 15 36,751.14                       29,513.84                 
+Financial assets
+(a)Investments 7B 18,224.17                       13,504.95                 
+(b)Trade receivables 8 20,471.17                       12,465.96                 
+(c)Cash and cash equivalents 9 3,070.31                         1,527.52                   
+(d)Bank balance other than cash and cash equivalents 10 953.27                            5,424.91                   
+(e)Loans 11 106.26                            103.47                      
+(f)Other financial assets 12B 335.52                            295.91                      
+Other current assets 14B 7,227.77                         6,250.93                   
+87,139.61                       69,087.49                 
+Total assets 1,20,788.84                    94,254.76                 
+EQUITY AND LIABILITIES
+Equity
+(a)Equity share capital 16 1,502.36                         1,497.65                   
+(b)Other equity 17 80,368.98                       64,874.42                 
+81,871.34                       66,372.07                 
+Non-controlling interests 18 562.07                            373.77                      
+82,433.41                       66,745.84                 
+Liabilities
+Non-current liabilities
+Financial liabilities
+(a)Borrowings 19A 226.04                            42.08                        
+(b)Lease liabilities 20A 244.96                            224.33                      
+(c)Other financial liabilities 23A 537.66                            -                            
+Provisions 25A 601.25                        449.74                   
+Deferred tax liabilities (net) 13F 543.71                            422.68                      
+Other non-current liabilities 24A 422.86                            165.18                      
+2,576.48                         1,304.01                   
+Current liabilities
+Financial liabilities
+(a)Borrowings 19B 671.70                            688.10                      
+(b)Lease liabilities 20B 468.23                            138.96                      
+(c)Acceptances 21 18,619.66                       12,257.56                 
+(d)Trade payables 22
+Total outstanding dues of micro enterprises and small enterprises 748.27                            732.45                      
+9,265.32                         7,336.43                   
+(e)Other financial liabilities 23B 2,420.84                         1,677.91                   
+Other current liabilities 24B 3,145.03                         2,817.76                   
+Provisions 25B 314.46                        267.57                   
+Current tax liabilities (net) 13D 125.44                            288.17                      
+35,778.95                       26,204.91                 
+Total equity and liabilities 1,20,788.84                    94,254.76                 
+Corporate information and summary of material accounting policy information 1 & 2
+Contingent liabilities and commitments 37
+Other notes to accounts 38 to 51
+The accompanying notes are an integral part of the consolidated financial statements.
+As per our report of even date 
+For B S R & Co. LLP 
+Chartered Accountants 
+ICAI Firm Registration No. 101248W/W-100022
+sd/-
+Bhavesh Dhupelia
+Partner
+Membership No. 042070
+Place: Mumbai
+Date: 10 May 2024Notes
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+For and on behalf of the Board of Directors of
+Polycab India Limited
+CIN : L31300GJ1996PLC114183
+sd/- sd/- sd/-
+Inder T. Jaisinghani 
+Chairman & Managing Director
+DIN : 00309108
+sd/- sd/- sd/-
+Gandharv Tongia Place:  Mumbai Manita Gonsalves
+Executive Director & CFO Date: 10 May 2024 Company Secretary
+DIN : 09038711 Membership No. A18321Nikhil R. Jaisinghani Bharat A. Jaisinghani 
+Whole Time Director Whole Time Director
+DIN : 00742771 DIN : 00742995
+1
+Polycab India Limited
+Consolidated Statement of Profit & Loss for the year ended 31 March 2024
+(₹ million)
+Notes Year ended Year ended
+31 Mar 24 31 Mar 23
+(Audited) (Audited
+Restated) 
+INCOME
+Revenue from operations 26 1,80,394.44           1,41,077.78           
+Other income 27 2,208.75                1,333.26                
+Total income 1,82,603.19           1,42,411.04           
+EXPENSES
+Cost of materials consumed 28 1,26,615.96           97,711.55              
+Purchases of stock-in-trade 29 5,658.67                5,699.12                
+30 (4,215.09)              346.76                   
+Project bought outs and subcontracting cost 31 4,743.47                1,351.53                
+Employee benefits expense 32 6,095.42                4,567.72                
+Finance costs 33 1,083.40                597.57                   
+Depreciation and amortisation expense 34 2,450.40                2,091.64                
+Other expenses 35 16,577.96              12,879.96              
+Total expenses 1,59,010.19           1,25,245.85           
+Profit before share of Profit / (Loss) of joint venture 23,593.00              17,165.19              
+Share of loss of joint venture (net of tax) (refer note 7A(ii)) 7 -                        (92.63)                   
+Profit before tax 23,593.00              17,072.56              
+Tax expenses 13
+Current tax 5,535.25                4,060.50                
+Deferred tax charge 28.58                     181.20                   
+Total tax expenses 5,563.83                4,241.70                
+Profit for the year 18,029.17              12,830.86              
+Other comprehensive income
+Items that will not be reclassified to profit or loss
+Re-measurement (loss) / gain on defined benefit plans 32 (90.63)                   35.05                     
+Tax relating to items that will not be reclassified to profit or loss 13 22.80                     (8.81)                     
+Items that will be reclassified to profit or loss
+Exchange difference on translation of foreign operations (34.66)                   7.88                       
+Effective portion of losses on hedging instrument in cash flow hedges -                        (0.58)                     
+Tax relating to items that will be reclassified to profit or loss 13 -                        0.15                       
+Other comprehensive income for the year, net of tax (102.49)                 33.69                     
+Total comprehensive income for the year, net of tax 17,926.68              12,864.55              
+Profit for the year attributable to:
+Equity shareholders of parent company 17,840.45              12,707.83              
+Non controlling interests 188.72                   123.03                   
+18,029.17              12,830.86              
+Other comprehensive Income attributable to:
+Equity shareholders of parent company (102.32)                 33.65                     
+Non controlling interests (0.17)                     0.04                       
+(102.49)                 33.69                     
+Total comprehensive Income attributable to:
+Equity shareholders of parent company 17,738.13              12,741.48              
+Non controlling interests 188.55                   123.07                   
+17,926.68              12,864.55              
+Earnings per share 36
+Basic (Face value ₹ 10 each) 118.93                   84.93                     
+Diluted (Face value ₹ 10 each) 118.49                   84.66                     
+Weighted average equity shares used in computing earnings per equity share
+Basic 15,00,14,272        14,96,31,506        
+Diluted 15,05,66,475        15,00,99,705        
+Corporate information and summary of material accounting policy information 1 & 2
+Contingent liabilities and commitments 37
+Other notes to accounts 38 to 51
+The accompanying notes are an integral part of the consolidated financial statements.
+As per our report of even date 
+For B S R & Co. LLP 
+Chartered Accountants 
+ICAI Firm Registration No. 101248W/W-100022
+sd/-
+Bhavesh Dhupelia
+Partner
+Membership No. 042070
+Place: Mumbai
+Date: 10 May 2024Changes in inventories of finished goods, stock-in-trade and work-in-progress
+For and on behalf of the Board of Directors of
+Polycab India Limited
+CIN : L31300GJ1996PLC114183
+sd/- sd/- sd/-
+Inder T. Jaisinghani 
+Chairman & Managing Director
+DIN : 00309108
+sd/- sd/- sd/-
+Gandharv Tongia Place:  Mumbai Manita Gonsalves
+Executive Director & CFO Date: 10 May 2024 Company Secretary
+DIN : 09038711 Membership No. A18321Nikhil R. Jaisinghani Bharat A. Jaisinghani 
+Whole Time Director Whole Time Director
+DIN : 00742771 DIN : 00742995
+2
+Polycab India Limited
+Consolidated Statement of Changes in Equity for year ended 31 March 2024
+A) Equity Share Capital (₹ million)
+31 Mar 24 31 Mar 23
+Balance at the beginning of the year 1,497.65     1,494.43        
+Issue of equity shares on exercise of employee stock options 4.71             3.22                
+Balance at the end of the year 1,502.36     1,497.65        
+B) Other Equity (₹ million)
+ Securities 
+Premium  General 
+Reserve  ESOP 
+outstandin
+g  Retained 
+Earnings  Effective 
+portion of 
+Cash Flow 
+Hedges  Foreign 
+Currency 
+translation 
+reserve 
+As at 1 April 2022 7.98                      7,554.95   615.00   343.54       45,433.29   0.43                (12.21)            53,942.98        250.70              54,193.68      
+Acquired on account of merger with Silvan Innovation Labs Private Limited (Refer note 48) -                        -             -          -              52.37           -                  -                 52.37                -                    52.37              
+Profit after tax for the year ended -                        -             -          -              12,707.83   -                  -                 12,707.83        123.03              12,830.86      
+Items of OCI for the year ended, net of tax
+Re-measurement gains / (losses) on defined benefit plans -                        -             -          -              26.24           -                  -                 26.24                0.04                  26.28              
+Exchange difference on translation of foreign operations -                        -             -          -              -               -                  7.88               7.88                  -                    7.88                
+Effective portion of gains/ (losses) on hedging instrument in cash flow hedges -                        -             -          -              -               (0.43)               -                 (0.43)                 -                    (0.43)               
+Final equity dividend -                        -             -          -              (2,094.49)    -                  -                 (2,094.49)          -                    (2,094.49)       
+Share-based payments to employees -                        -             -          107.61       -               -                  -                 107.61              -                    107.61            
+Exercise of employee stock option 137.98                  -             -          (137.98)      -               -                  -                 -                    -                    -                  
+Amount received on exercise of employee stock options 127.65                  -             -          -              -               -                  -                 127.65              -                    127.65            
+Issue of equity shares on exercise of employee stock options (270.83)                 267.61      -          -              -               -                  -                 (3.22)                 -                    (3.22)               
+As at 31 March 2023 (Restated) 2.78                      7,822.56   615.00   313.17       56,125.24   -                  (4.33)              64,874.42        373.77              65,248.19      
+Profit after tax for the year ended -                        -             -          -              17,840.45   -                  -                 17,840.45        188.72              18,029.17      
+Items of OCI for the year ended, net of tax
+Re-measurement gains / (losses) on defined benefit plans -                        -             -          -              (67.66)          -                  -                 (67.66)               (0.17)                 (67.83)             
+Exchange difference on translation of foreign operations -                        -             -          -              -               -                  (34.66)            (34.66)               -                    (34.66)             
+Final equity dividend -                        -             -          -              (2,997.30)    -                  -                 (2,997.30)          -                    (2,997.30)       
+Share-based payments to employees -                        -             -          564.24       -               -                  -                 564.24              -                    564.24            
+Transfer on account of employee stock options not exercised -                        -             2.02       (2.02)           -               -                  -                 -                    -                    -                  
+Exercise of employee stock option 181.13                  -             -          (181.13)      -               -                  -                 -                    -                    -                  
+Amount received on exercise of employee stock options 193.95                  -             -          -              -               -                  -                 193.95              -                    193.95            
+Acquisition of non-controlling interest -                        -             -          -              0.25             -                  -                 0.25                  (0.25)                 -                  
+Issue of equity shares on exercise of employee stock options (369.15)                 364.44      -          -              -               -                  -                 (4.71)                 -                    (4.71)               
+As at 31 March 2024 8.71                      8,187.00   617.02   694.26       70,900.98   -                  (38.99)            80,368.98        562.07              80,931.05      
+Refer note 17 for nature and purpose of reserves. 
+The accompanying notes are an integral part of the consolidated financial statements.
+As per our report of even date 
+For B S R & Co. LLP 
+Chartered Accountants 
+ICAI Firm Registration No. 101248W/W-100022
+sd/-
+Bhavesh Dhupelia
+Partner
+Membership No. 042070
+Place: Mumbai
+Date: 10 May 2024Attributable to owners of the Company
+ Attributable to 
+Non 
+Controlling 
+Interest  Total Other 
+Equity  Share 
+application 
+money pending 
+allotment  Reserves & Surplus  Total
+attributable
+to owners
+of the
+Company  Other Comprehensive 
+Income 
+For and on behalf of the Board of Directors of
+Polycab India Limited
+CIN : L31300GJ1996PLC114183
+sd/- sd/- sd/-
+Inder T. Jaisinghani 
+Chairman & Managing Director
+DIN : 00309108
+sd/- sd/- sd/-
+Gandharv Tongia Place:  Mumbai Manita Gonsalves
+Executive Director & CFO Date: 10 May 2024 Company Secretary
+DIN : 09038711 Membership No. A18321Nikhil R. Jaisinghani Bharat A. Jaisinghani 
+Whole Time Director Whole Time Director
+DIN : 00742771 DIN : 00742995
+3

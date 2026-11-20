@@ -1,0 +1,96 @@
+  
+ 
+30th January, 2026  
+ 
+The Manager,                 The General Manager,  
+Listing Department,                Department of Corporate Services,  
+National Stock Exchange of India Ltd,                                   BSE Ltd.,  
+Exchange Plaza,                           1st Floor, New Trading Ring,  
+Plot No. – C – 1, G Block,               Rotunda Building,  
+Bandra – Kurla Complex,               P.J. Towers,  
+Bandra (East),                 Dalal Street, Fort,  
+Mumbai – 400051                Mumbai – 400001  
+ 
+NSE Code :- PCBL               BSE Scrip Code (Equity) :- 506590  
+                         BSE Scrip Code (Debt): - 975353  
+ 
+Sub: Disclosure under Regulation 57  of SEBI (LODR) 2015 Regulations in the format as prescribed in 
+SEBI  Master Circular SEBI/HO/DDHS/DDHS -PoD-1/P/CIR/2025/0000000103 dated July 11, 2025.  
+ 
+Pursuant to the provisions of Regulation 57 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations  2015, (referred to as the “SEBI Listing Regulations”) read with other provisions, rules and 
+regulations, as applicable, we  furnish herewith the details of the same as given below:  
+ 
+a) Whether Interest payment/ redemption payment made  (yes/ no): Yes  
+b) Details of interest payments:  
+ 
+Sr. No.  Particulars  Details  
+1)  ISIN  INE602A07020  
+2)  Issue Size  Rs. 7,00,00,00,000  
+3)  Interest Amount to be paid on due date  Rs. 50,00,30,141.00  
+4)  Frequency – quarterly / monthly / yearly  Yearly  
+5)  Change in frequency of payment (if any)  Not applicable  
+6)  Details of such change  Not applicable  
+7)  Interest payment record date  13/01/2026  
+8)  Due date for interest payment (DD/MM/YYYY)  29/01/202 6 
+9)  Actual date for interest payment (DD/MM/YYYY)  29/01/202 6 
+10)  Amount of interest paid  Rs. 50,00,30,141.00  
+11)  Date of last interest payment  29/01/2025  
+12)  Reason for non -payment / delay in payment  Not applicable  
+ 
+c) Details of redemption payments  
+ 
+Sr. No.  Particulars  Details  
+ 
+1) ISIN  INE602A07020  
+2) Type of Redemption (Full / partial)  Partial  
+3) If partial redemption, then   
+ a. By face value redemption  Yes 
+ b. By quantity redemption  Not applicable  
+  
+ 
+4) If redemption is based on quantity, specify, whether 
+on:  
+a. Lot basis  
+b. Pro -rata basis  
+ Not applicable  
+5) Reason for redemption (call, put, premature 
+redemption, maturity, buyback, conversion, others 
+(if any))  
+ Others  
+As per Terms & Conditions  
+6) Redemption date due to put option (if any)  
+ Not applicable  
+7) Redemption date due to call option (if any)  
+ Not applicable  
+8) Quantity redeemed (no. of NCDs)  
+ Not applicable  
+9) Due date for redemption/ maturity  
+ 29/01/2026  
+10) Actual date for redemption (DD/MM/YYYY)  
+ 29/01/2026  
+11) Amount redeemed  
+ Rs. 1,05,00,00,000.00  
+ 
+12) Outstanding amount (Rs.)  
+ Rs. 4,90,00,00,000.00  
+13) Date of last Interest payment  
+ 29/01/2025  
+14) Reason for non -payment/ delay in payment  
+ Not applicable  
+ 
+Please also be informed that NCDs are listed in BSE Limited only. We request you to take the above information 
+in record and oblige.  
+ 
+ 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For PCBL Chemical Limited   
+ 
+ 
+ 
+ 
+K. Mukherjee  
+Company Secretary and Chief Legal Officer   

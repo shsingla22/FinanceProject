@@ -1,0 +1,678 @@
+
+=== page 1 ===
+ 
+ 
+AXISCADES Technologies Limited  
+(formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru -560024, Karnataka, INDIA  
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com  
+November  13, 202 6 
+ 
+The Manager      The Manager  
+Listing Department     Listing Department  
+BSE Limited      National Stock Exchange of India Limited  
+Phirozee Jeejeebhoy Tower,    Exchange Plaza, 5 Floor, Plot C/1, G Block  
+Dalal Street      Bandra – Kurla Complex, Bandra(E),  
+Mumbai 400 001     Mumbai 400 051  
+BSE Scrip Code: 532395    NSE Symbol: AXISCADES  
+       
+Dear Sir/Madam,  
+Sub: Q 2 & H1  FY27 Result Presentation  
+Please find enclosed Investor presentation by the Company on the financial results for the 
+quarter and half year ended September  30, 2026.  
+The above announcement will be made available on the Company’s website at 
+www.axiscades.com   
+This is for your information and records.  
+Yours faithfully,  
+For AXISCADES Technologies Limited  
+ 
+Sonal Dudani  
+Company Secretary & Compliance Officer  
+ 
+Encl: A/a  
+ 
+=== page 2 ===
+AXISCADES TECHNOLOGIES LIMITED
+Q2 & H1 FY27 Results
+Phase 1 of the strategic divestment is completed and its first -tranche consideration received. The retained 
+business continues to scale. The Power 930 plan remains on course.
+H1 retained revenue ₹378.9 Cr, +55% YoY  ·  Q2 retained revenue +30% YoY
+Quarter and half year ended 30 September 2026  
+NSE: AXISCADES  ·  BSE: 532395
+Investor Presentation filed with NSE and BSE under SEBI (LODR) Regulations, 2015.01
+=== page 3 ===
+Safe Harbour
+This presentation and theaccompanying slides (the “Presentation”), which have been prepared byAXISCADES Technologies Limited (the “Company”), have been
+prepared solely forinformation purposes anddonotconstitute anyoffer, recommendation orinvitation topurchase orsubscribe foranysecurities, andshall notform the
+basis orberelied oninconnection with anycontract orbinding commitment whatsoever .Nooffering ofsecurities oftheCompany willbemade except bymeans ofa
+statutory offering document containing detailed information about theCompany .
+This Presentation hasbeen prepared bytheCompany based oninformation anddata which theCompany considers reliable, buttheCompany makes norepresentation
+orwarranty, express orimplied, whatsoever, andnoreliance shall beplaced on,thetruth, accuracy, completeness, fairness andreasonableness ofthecontents ofthis
+Presentation .This Presentation may notbeallinclusive andmay notcontain alloftheinformation thatyoumay consider material .Anyliability inrespect ofthecontents
+of,oranyomission from, thisPresentation isexpressly excluded .
+Certain matters discussed inthisPresentation may contain statements regarding theCompany’s market opportunity andbusiness prospects thatareindividually and
+collectively forward -looking statements .Such forward -looking statements arenotguarantees offuture performance and aresubject toknown and unknown risks,
+uncertainties andassumptions thataredifficult topredict .These risks anduncertainties include, butarenotlimited to,theperformance oftheIndian economy andofthe
+economies ofvarious international markets, theperformance oftheindustry inIndia andworld -wide, competition, theCompany’s ability tosuccessfully implement its
+strategy, theCompany’s future levels ofgrowth andexpansion, technological implementation, changes andadvancements, changes inrevenue, income orcashflows, the
+Company’s market preferences anditsexposure tomarket risks, aswellasother risks.TheCompany’s actual results, levels ofactivity, performance orachievements
+could differ materially and adversely from results expressed inorimplied bythisPresentation .The Company assumes noobligation toupdate anyforward -looking
+information contained inthisPresentation .Any forward -looking statements andprojections made bythird parties included inthisPresentation arenotadopted bythe
+Company andtheCompany isnotresponsible forsuch third-party statements andprojections .
+Q1FY27and FY26comparatives areasrestated inthecontinuing /discontinued presentation oftheQ2FY27financial results .Figures in₹crore unless stated .
+Reported =Reg 33consolidated results (continuing plus discontinued operations) .
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202602
+=== page 4 ===
+Message from the Chairman
+Dr. Sampath Ravi Narayanan
+Founder, Chairman & Managing DirectorTwo years ago, AXISCADES was a collection of businesses: 
+some core, some sub -scale, and some simply not ours to 
+run. Today, we are becoming a focused, technology -led 
+company built on four pillars: Defence , XIDA, Aerospace and 
+Space.
+Getting here required hard decisions. This half, we 
+completed Phase 1 of our strategic divestment on time, 
+giving us the balance sheet to invest in what matters. We 
+also chose to confront the past rather than carry it. Two 
+legacy, non -core acquisitions made before the current 
+leadership, Add Solutions and Epcogen , have been 
+addressed decisively and in one go. These are one -time, 
+non-cash charges that do not touch our customers, orders or 
+cash, and they will not recur. We would rather show a clean 
+picture than a comfortable one.
+Our core is growing fast. In the first half, Defence  grew 
+46% and XIDA grew 55%. Aerospace Manufacturing 
+delivered an impressive ₹23.1 Cr of revenue in H1, with 
+Cloud Wave earning an EBITDA margin above 20%. Our 
+retained business also grew 55% and, for the first time, is the 
+majority of Group revenue. The company we are building is 
+already larger than the company we are leaving behind.
+India’s defence  moment is real, and we are at its heart.  
+Since our last results, we have won 16 new defence  orders. 
+We have the projects won, the people to execute them and 
+the platforms to deliver.Our infrastructure is ready for this growth. DAL is fully in 
+place. At DAC, Phase 1, which houses our defence  units and 
+the XIDA expansion, will be completed by Q2 FY28. In 
+Aerospace, Cloud Wave was earnings -accretive from its first 
+quarter. In Space, our partnerships are in place and we 
+remain on track for first revenue in FY28.
+We recognize the questions on investors’ minds. Q2 
+operating margins were lower because of non-cash  ESOP 
+charge  booked in one quarter. We also incurred 
+transformation -related legal and advisory costs, and carried a 
+corporate structure ahead of revenue. Each eases from Q3, 
+and the underlying business remains healthy and profitable. 
+On execution, most of our commitments are delivered or on 
+course. Where a timeline has moved, such as the divestment 
+Phase 2 closing, we are keeping you informed. With our cost 
+base largely in place, growth now flows through. Our order 
+momentum supports a stronger second half, and Power 930 
+remains on course.
+The hardest part is behind us. Our business is simpler, our 
+finances are stronger and our focus is clearer. I invite you to 
+stay invested and to stay with us on this journey. Trust our 
+direction and hold us to our promises. Together, we will build 
+an AXISCADES that India and the world see as a leader in 
+defence , aerospace and advanced technology.
+My sincere thanks to our employees, customers, Board 
+colleagues and shareholders for their commitment, 
+confidence, counsel and belief.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026
+03
+=== page 5 ===
+Message from the Group CFO
+Shashidhar SK
+Group Chief Financial Officer
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026
+A second record quarter
+Q2was oursecond consecutive record quarter,
+with revenue of₹359.1Crand the retained
+business growing 30%year onyear.We are
+investing ahead oftherevenue curve bydesign
+aswepivot from services tomanufacturing .
+With thefirst phase oftheAkkodis divestment
+closed, wehave themeans toreduce debt, align
+costs with thenew portfolio and convert the
+capacity we have built into earnings .We
+completed the acquisition ofCloud Wave,
+consolidated from Q2,andXIDA iscompleting its
+acquisition oftheITSJ business .
+First half
+Allthree business units, Defence, XIDA and
+Aerospace, were profitable inthehalf, andCloud
+Wave contributed earnings from itsfirstquarter .
+Theconsolidated result isheld back bythelisted
+parent’s corporate cost base, which will be
+absorbed asrevenue scales upinthecoming
+quarters .Q2 earnings
+Q2PAT of₹47.3Crincludes ₹95.4Crfrom
+discontinued operations, ledbythegain onthe
+Phase 1disposal, andisstated after aone-time,
+non-cash impairment of₹38.4Cr.EBITDA before
+the₹12.0CrESOP charge was ₹23.4Cr.Our
+priority istoalign thecost base with thenew
+portfolio andliftGroup margins .
+Divestment andtheroad ahead
+The first phase oftheUS$237 million Akkodis
+transaction iscomplete, andthesecond phase is
+expected toclose byFebruary 2027 .Inthehalf
+year, we invested ₹129.8Cr, net ofcash
+acquired, inacquiring Cloud Wave .The
+divestment proceeds give usthemeans toreduce
+debt and fund thenext phase without diluting
+equity .
+Our focus now istoscale Defence, XIDA,
+Aerospace andSpace intosustained earnings .Revenue
+₹359.1 Cr Q2
+₹705.7 Cr H1Retained growth
++30% Q2 YoY
++55% H1 YoY
+Pre-ESOP EBITDA
+₹23.4 Cr Q2
+₹51.3 Cr H1Reported PAT
+₹47.3 Cr Q2
+₹32.5 Cr H1Q2 and H1 FY27 at a glance04
+=== page 6 ===
+Biting the Bullet: Legacy Non -Core Assets Written Off 
+A bold, one -time decision —two legacy acquisitions cleaned out in a single quarter, so the Company moves forward on a clean bal ance sheet
+Add Solutions
+A legacy, non -core acquisition. Voluntary dissolution has been initiated 
+and the investment has been written off.
+Impairment: ₹38.4 Cr (Add Solutions and legacy holdings)Epcogen Private Limited
+Acquired on 1 December 2023, providing engineering design and 
+solutions for the energy sector. The business transferred with the 
+divested engineering services business on 30 September 2026, at the 
+Phase 1 closing. Goodwill of ₹7.98 Cr was impaired in FY26; the 
+remaining goodwill of ₹19.9 Cr has been written off in Q2 FY27.
+Why we took the hit now
+Both were legacy, non -core acquisitions. Rather than carry them forward, we chose to take the full hit now, decisively and in a single quarter. The 
+write -offs are exceptional items —non-cash and below EBITDA; operating revenue and EBITDA are unaffected —and are absorbed by the 
+exceptional gain recognised in Q2 FY27. Total exceptional write -offs in Q2 FY27: ~₹58.3 Cr (₹38.4 Cr impairment in continuing op erations plus ₹19.9 
+Cr Epcogen in discontinued operations). Exceptional gain in Q2 FY27: ₹140.84 Cr on the Phase 1 disposal, including ₹20.94 Cr FCTR recycled and 
+after the Epcogen write -off, less ₹11.54 Cr of transaction costs; net discontinued exceptional gain ₹129.30 Cr.
+One clean break: the past is written off once, and the balance sheet and management attention are now fully on Defence, XIDA,
+Aerospace and Space.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202605
+=== page 7 ===
+H1 Snapshot: Defence, XIDA and Aerospace Growing
+Four pillars —Defence and XIDA growing strongly, Cloud Wave profitable from the start, Space on track for FY28
+Defence and XIDA grew H1 revenue by 46% and 55%. Aerospace, a new business, delivered ₹23.1 Cr of revenue in H1, with 
+Cloud Wave profitable from its first quarter. The corporate cost base sits in the listed parent —see the next slide. Space is o n 
+track for revenue in FY28.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026DEFENCE GROWING
++46%
+H1 revenue growth, YoY
+• H1 revenue ₹252.7 Cr, up from 
+₹173 Cr.
+• Q2 revenue +12% YoY; Q2 
+EBITDA ₹22.5 Cr at a 17.6% 
+margin.
+• 16 new orders, ₹80.3 Cr, since the 
+Q1 results.XIDA GROWING
++55%
+H1 revenue growth, YoY
+• H1 revenue ₹97.9 Cr, up from ₹63 
+Cr.
+• Q2 revenue +47% YoY; H1 
+EBITDA ₹27.0 Cr at a 27.6% 
+margin.
+• Restructuring completes in Q3 
+FY27.AEROSPACE GROWING
+₹23.1 Cr
+Aerospace H1 revenue, reported
+• Cloud Wave profitable from its 
+first quarter: ₹16.5 Cr revenue in 
+Q2 at 42% gross margin  and 20.3% 
+EBITDA margin.
+• A new business — no year -on-
+year comparison.
+• Pro forma: With Cloud Wave for 
+the full half year, H1 revenue 
+would have been ₹81.9 Cr, at ₹17.8 
+Cr EBITDA (21.7%).SPACE ON TRACK
+FY28
+First revenue expected
+• On track for revenue in FY28.
+Aerospace H1 = Cloud Wave ₹16.5 Cr (from acquisition) + organic ₹6.6 Cr (slide 10). Pro forma: Cloud Wave standalone accounts, unaudited.06
+=== page 8 ===
+Why the Group Still Shows a Loss —and How It Recovers
+The three business units are profitable; the corporate cost base, one -time charges and non -cash write -offs carried the consolida ted result in Q2 FY27
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026What weighed on Q2 FY27 ₹ Cr How it recovers from Q3 FY27
+Corporate cost base in the listed parent — built for scale, carried 
+ahead of the revenue it will support14.8Cost reset ahead of the Phase 2 closing; corporate overheads of ~₹12 Cr a 
+quarter, absorbed as revenue grows
+ESOP — the full charge booked in Q2 (non-cash) 12.0 Runs at ~₹6 Cr a quarter from Q3 FY27
+Legal and professional charges — largely one -time: divestment, 
+Add Solutions winding -up, acquisitions (Q1: ₹12.5 Cr)14.5Normal run -rate ₹4 –5 Cr a quarter; down by at least ₹5 Cr a quarter as the work 
+completes
+Exceptional write -offs below EBITDA — ₹38.4 Cr impairment and 
+₹19.9 Cr Epcogen goodwill (non -cash)58.3One-time; will not recur. No effect on revenue, EBITDA, customers or the order 
+book
+Before ESOP and one -time items, Q2 FY27 was profitable: EBITDA before ESOP ₹23.4 Cr and normalised PBT ₹3.7 Cr, while revenue 
+grew 20% and the retained business 30%.
+With all three business units profitable, recovery comes from a lower corporate cost base, the ESOP charge halving, legal cos ts 
+normalising, and revenue scaling on a cost base already built.
+Corporate cost base = the listed parent’s ₹26.8 Cr Q2 cost less the ₹12.0 Cr ESOP charge. Legal and professional charges are group-wide and partly sit within the parent’s cost base. 07
+=== page 9 ===
+Defence: H1 FY27 Revenue Up 46% Year on Year
+DRDO/PSU and MoD/OEM programmes —H1 and Q2 FY27 against the same periods of FY26
+H1 REVENUE, YoY
++46.1%
+₹173 Cr in H1 FY26 → ₹252.7 CrQ2 REVENUE, YoY
++12.4%
+₹113.6 Cr in Q2 FY26 → ₹127.7 CrQ2 EBITDA
+₹22.5 Cr
+17.6% margin on ₹127.7 Cr revenue
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026DEFENCE — Q2 AND H1, FY27 vs FY26
+₹ Cr Q2 FY26 Q2 FY27 H1 FY26 H1 FY27
+Revenue 113.6 127.7 173.0 252.7
+EBITDA — 22.5 — 26.7
+EBITDA margin — 17.6% — 10.6%
+Defence = DRDO/PSU + MoD/OEM. FY26 revenue as reported in the Q2 & H1 FY26 
+results; FY26 EBITDA was not reported by vertical. H1 FY27 EBITDA is after ₹8.7 Cr of 
+one-time Q1 provisions.DEFENCE REVENUE BY SOURCE — H1 FY27 (₹ CR)
+Source Q1 FY27 Q2 FY27 H1 FY27
+DRDO / PSU business 72.6 75.0 147.6
+MoD / OEM programmes 52.5 52.7 105.2
+Defence 125.0 127.7 252.7
+ORDER WINS — Q1 FY27 AND SINCE THE Q1 RESULTS
+Q1 FY27 (REPORTED AT Q1)
+8 programme wins
+In-quarter and post -balance -sheet; +₹332 Cr to assured forecast visibilitySINCE THE Q1 RESULTS (13 AUGUST)
+₹80.3 Cr — 16 orders
+~₹730 Cr of customer -indicated production potential 08
+=== page 10 ===
+XIDA: H1 FY27 Revenue Up 55% Year on Year
+The established book is stable, new accounts are contributing, and the platform is being established as a standalone structur e
+H1 REVENUE, YoY
++55.4%
+₹63 Cr (ESAI) in H1 FY26 → ₹97.9 CrQ2 REVENUE, YoY
++47.1%
+₹32.9 Cr in Q2 FY26 → ₹48.4 CrH1 EBITDA
+₹27.0 Cr
+27.6% margin on ₹97.9 Cr revenue
+Restructuring remains on course
+The US platform is operational and XIDA DeepTech India has been 
+incorporated, with ~300 engineers transferring into the entity. The restructuring 
+is scheduled to complete in Q3 FY27.
+New customer wins
+New accounts won in the half are contributing alongside a stable established 
+book, lifting Q2 FY27 revenue 47% year on year.
+Inorganic platform development
+XIDA intends to strengthen its AI -infrastructure platform through selective 
+acquisitions in physical AI and semiconductors. Any transaction will be 
+announced on signing.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026XIDA (FORMERLY ESAI) — Q2 AND H1, FY27 vs FY26
+₹ Cr Q2 FY26 Q2 FY27 H1 FY26 H1 FY27
+Revenue 32.9 48.4 63.0 97.9
+EBITDA — 10.8 — 27.0
+EBITDA margin — 22.3% — 27.6%
+FY26 is the ESAI vertical as reported in the Q2 & H1 FY26 results; FY26 EBITDA was not 
+reported by vertical.
+INDIA ENTITY
+Incorporated
+XIDA DeepTech India; ~300 
+engineers movingRESTRUCTURING
+Q3 FY27
+To complete this quarter09
+=== page 11 ===
+Aerospace: Cloud Wave Earnings -Accretive in Its First Quarter
+₹16.5 Cr of revenue at a 20.3% EBITDA margin in Q2 FY27, towards a single integrated manufacturing campus
+AEROSPACE H1
+₹23.1 Cr
+Cloud Wave Q2 + organicCLOUD WAVE Q2
+₹16.5 Cr
+90% stake, consolidated from Q2GROSS MARGIN
+42%
+Cloud Wave, first quarterEBITDA MARGIN
+20.3%
+Cloud Wave, first quarter
+Customers —broadening and deepening
+New customers were added in the half. The EEA design -to-
+manufacturing programme is progressing, and relationships with 
+existing customers continue to deepen. Prospective customers 
+visited the facility.CAM —one integrated campus
+The Center for Advanced Manufacturing will be one integrated 
+240,000 sq ft quad -use facility at Devanahalli. Land allocation is in 
+process. The facility is expected to be ready by Q4 FY28, when 
+aerospace manufacturing is intended to consolidate there. This is a 
+forward -looking statement and is not guidance.
+The foundation is in place: an acquisition that was earnings -accretive in its first quarter at an EBITDA margin of 20.3%, a broa dening 
+customer base, and a single campus intended to house the platform as it scales.
+Aerospace H1 FY27 = Cloud Wave ₹16.5 Cr (Q2 FY27) + organic ₹6.6 Cr. Cloud Wave figures are for Q2 FY27, its first quarter of consolidation.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202610
+=== page 12 ===
+Consolidated H1 FY27 Highlights
+Half year ended 30 September 2026 —every figure on this slide is for H1 FY27
+H1 FY27 REVENUE
+₹705.7 Cr
++30.0% YoYH1 FY27 RETAINED
+₹378.9 Cr
++55.0% YoY  ·  54% of revenueH1 FY27 EBITDA
+₹39.3 Cr
+5.6% reported  ·  ₹51.3 Cr / 7.3% 
+before ESOPH1 FY27 PBT
+~₹70.8 Cr
++10.1% YoYH1 FY27 PAT
+~₹32.5 Cr
+After ~₹38.2 Cr of tax
+H1 FY27 Defence and XIDA
+H1 FY27 Defence revenue was ₹252.7 Cr, up 46% year on year, and H1 FY27 XIDA 
+revenue was ₹97.9 Cr, up 55% year on year —the two businesses at the centre of the 
+retained portfolio.DRDO/PSU and XIDA contribution
+In H1 FY27, the DRDO/PSU and XIDA businesses grew revenue 35% to ₹245.5 Cr 
+and EBITDA 27% to ₹46.4 Cr.
+H1 FY27 cash
+H1 FY27 operating cash flow was ₹(57.7) Cr (H1 FY26: ₹13.6 Cr), as working capital 
+absorbed ₹86.5 Cr; net borrowing of ₹310.0 Cr funded Cloud Wave and capex.Phase 1 closed at the end of H1 FY27
+The US$237 million Phase 1 divestment closed on 30 September 2026. A ₹140.84 Cr 
+gain (incl. ₹20.9 Cr FCTR recycled) is recognised in Q2 FY27; ₹129.30 Cr net of 
+transaction costs. 
+H1 FY27 retained revenue is now 54% of the group (H1 FY26: 45%) and grew 55% year on year.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202611
+=== page 13 ===
+Q2 FY27 Highlights
+Every figure on this slide is for Q2 FY27 —headline results, year -on-year and sequential growth, and a walk to reported PAT
+Q2 FY27 REVENUE
+₹359.1 Cr
++20.1% YoY, +3.6% QoQ. 
+Retained ₹195.6 Cr, +30% YoY, 
++7% QoQQ2 FY27 EBITDA
+₹11.4 Cr
+Reported, 3.2% margin, versus 
+₹27.9 Cr in Q1 FY27Q2 FY27 EBITDA BEFORE ESOP
+₹23.4 Cr
+6.5% margin; retained business 
+9.3%Q2 FY27 NORMALISED PBT
+₹3.7 Cr
+Reported Q2 FY27 PBT ~₹82.6 Cr
+COMPOSITION OF REPORTED PAT OF ~₹47.3 CR —Q2 FY27
+Also since the Q1 results: 16 new defence orders of ₹80.3 Cr (~₹730 Cr production potential). In Q2 FY27: Cloud Wave revenue of ₹16.5 Cr at a 20.3% EBITDA margin; and 
+DRDO/PSU and XIDA EBITDA of ₹28.7 Cr at 23.3%. Normalised PBT of ₹3.7 Cr excludes the ESOP charge (₹12.0 Cr), the impairment (₹38.4 Cr), the Epcogen goodwill write -off 
+(₹19.9 Cr) and the Phase 1 gain before that write -off (₹149.2 Cr, incl. ₹20.9 Cr FCTR recycled). 
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026Reported PAT, including exceptional items ~₹47. 3 Cr About double the ₹23.1 Cr of Q2 FY26; Q1 FY27 was a loss of ₹(14.8) Cr.
+Exceptional, one -time: Phase 1 gain + ₹149.2 Cr₹140.84 Cr gain (incl. ₹20.9 Cr FCTR recycled) less ₹11.54 Cr Q2 transaction costs, 
+before the ₹19.9 Cr Epcogen write -off
+Exceptional, one -time: impairment – ₹38.4 CrNon-cash write -down: ₹14.2 Cr in respect of Add Solutions (under voluntary 
+dissolution) and ₹24.2 Cr in respect of legacy overseas holdings. This will not recur.
+Exceptional, one -time: Epcogen goodwill write -off – ₹19.9 CrRemaining goodwill of ₹19.9 Cr written off in Q2 FY27, in discontinued operations; 
+no tax credit taken. Non -cash; will not recur.
+Non-cash: ESOP charge – ₹12.0 Cr Charge of ₹12 Cr recognised in Q2 FY27 ; about ₹6 Cr a quarter from Q3 FY27.
+Operations before these items, after ₹35.3 Cr tax – ₹31.6 Cr12
+=== page 14 ===
+H1 FY27 —Revenue +30%, Retained Revenue +55%, PBT +10%
+Half year ended 30 September —₹ crore unless stated
+Particulars (₹ Cr) H1 FY27 H1 FY26 YoY %
+Revenue 705.7 542.8 +30.0%
+of which retained business 378.9 244.5 +55.0%
+of which discontinued operations 326.8 298.2 +9.6%
+Total operating expenses 666.4 461.6 +44.4%
+of which employee benefits (ex -ESOP) 321.5 264.3 +21.7%
+of which ESOP charge (share -based payment) 12.0 3.0 +300.0%
+EBITDA —reported (after ESOP) 39.3 81.2 (51.5)%
+EBITDA margin —reported 5.6% 15.0% (940) bps
+Normalised EBITDA (before ESOP) 51.3 84.2 (39.0)%
+EBITDA margin —before ESOP 7.3% 15.5% (820) bps
+Finance costs 21.9 13.9 +57.9%
+Depreciation & amortisation 24.2 19.6 +23.7%
+Exceptional items, net 69.1 – —
+Other income & share of associate 8.4 16.5 (49.1)%
+Profit before tax 70.8 64.2 +10.1%
+Tax expense 38.2 20.3 +88.7%
+Profit after tax 32.5 44.0 (26.0)%READING H1 FY27
+Revenue grew 30% to ₹705.7 Cr. Retained revenue 
+grew 55% to ₹378.9 Cr and now represents 54% of 
+the total (H1 FY26: 45%).
+Defence and XIDA led the portfolio. The DRDO/PSU 
+and XIDA businesses grew revenue 35% to ₹245.5 Cr 
+and EBITDA 27% to ₹46.4 Cr.
+Acquisitions contributed scale. ACAT, consolidated 
+for the full half, contributed ₹105.2 Cr (H1 FY26: 
+₹54.3 Cr). Cloud Wave added ₹16.5 Cr at a 20.3% 
+EBITDA margin in its first quarter.
+PBT was ₹70.8 Cr, up 10.1%. Operating cash flow 
+was ₹(57.7) Cr (H1 FY26: ₹13.6 Cr), after ₹86.5 Cr of 
+working capital.
+Phase 1 supports the transition. PAT of ₹32.5 Cr is 
+after ₹38.2 Cr of tax, of which ₹4.3 Cr sits in the 
+Phase 1 block.
+EBITDA reflects the new structure. After the 
+divestment, the listed entity carries the corporate 
+costs, including senior leadership, ahead of the 
+revenue now being built. The ₹12.0 Cr ESOP charge, 
+₹13.5 Cr of receivable provisions (₹9.6 Cr of them 
+one-time Q1 FY27 items) and a more material -
+intensive mix account for the remainder.
+H1 FY26 comparatives are the restated continuing / discontinued columns of the Q2 FY27 results. ESOP is shown separately from employee benefits expense; normalised EBITDA is 
+reported EBITDA before the ESOP charge. 
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202613
+=== page 15 ===
+Q2 FY27 Consolidated Performance: Reported PAT of ~₹47.3 Cr
+Consolidated P&L by segment, continuing (retained) and discontinued operations —₹ crore
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026₹ CrDiscontinued
+Q2 FY27Retained
+Q2 FY27Total
+Q2 FY27Total
+Q1 FY27Total
+Q2 FY26QoQ % YoY %
+Revenue from operations 163.51 195.60 359.11 346.60 299.06 +3.6% +20.1%
+Cost of materials consumed – 100.80 100.80 96.73 71.10 +4.2% +41.8%
+Employee benefits expense (ex -ESOP) 114.49 54.01 168.51 152.99 136.57 +10.1% +23.4%
+ESOP charge (share -based payment) – 12.00 12.00 – 1.50 n.m. n.m.
+Loss allowance / ECL on receivables 3.20 0.65 3.86 9.62 0.69 (59.9)% +456.8%
+Legal & professional charges 9.51 4.96 14.47 12.49 5.91 +15.9% +144.7%
+Other operating expenses 31.15 16.89 48.04 46.88 36.20 +2.5% +32.7%
+Total operating expenses 158.36 189.32 347.68 318.70 251.97 +9.1% +38.0%
+EBITDA — reported (after ESOP) 5.15 6.27 11.43 27.91 47.09 (59.1)% (75.7)%
+EBITDA margin % — reported 3.2% 3.2% 3.2% 8.1% 15.7% (4.9)pp (12.6)pp
+Normalised EBITDA (before ESOP charge) 5.15 18.27 23.43 27.91 48.59 (16.1)% (51.8)%
+EBITDA margin % — normalised 3.2% 9.3% 6.5% 8.1% 16.2% (1.5)pp (9.7)pp
+Finance costs 0.37 11.82 12.18 9.72 6.55 +25.3% +85.9%
+Depreciation & amortisation – 12.13 12.13 12.08 10.21 +0.4% +18.8%
+PBT before other income & exceptional 4.79 (17.67) (12.88) 6.11 30.32 n.m. n.m.
+Exceptional items, net 129.30 (38.39) 90.91 (21.81) – n.m. n.m.
+Other income & share of associate 0.78 3.80 4.59 3.84 5.94 +19.5% (22.8)%
+Profit before tax 134.87 (52.26) 82.61 (11.87) 36.26 n.m. +127.8%
+Tax expense / (credit) 39.44 (4.13) 35.31 2.89 13.13 +1120.3% +168.9%
+Profit after tax 95.43 (48.12) 47.30 (14.76) 23.13 n.m. +104.5%
+Exceptional items in Q2 FY27: discontinued operations +₹129.30 Cr (gain on disposal ₹140.84 Cr, including ₹20.94 Cr FCTR recy cled and after the ₹19.87 Cr Epcogen goodwill write -
+off, less ₹11.54 Cr of Q2 transaction costs); continuing operations ₹(38.39) Cr impairment of goodwill and intangibles. Total exceptional write -offs ~₹58.3 Cr. 
+14
+=== page 16 ===
+H1 FY27 P&L by Segment —Retained Revenue +55%
+Half year ended 30 September, continuing (retained) and discontinued operations —₹ crore
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026₹ CrDiscont.
+H1 FY27Retained
+H1 FY27Total
+H1 FY27Discont.
+H1 FY26Retained
+H1 FY26Total
+H1 FY26YoY %
+TotalYoY %
+Retained
+Revenue from operations 326.76 378.95 705.71 298.23 244.53 542.76 +30.0% +55.0%
+Cost of materials consumed 0.04 197.49 197.53 0.09 108.86 108.95 +81.3% +81.4%
+Employee benefits expense (ex -ESOP) 219.17 102.32 321.49 185.13 79.12 264.25 +21.7% +29.3%
+ESOP charge (share -based payment) – 12.00 12.00 – 3.00 3.00 +300.0% +300.0%
+Loss allowance / ECL on receivables 3.20 10.27 13.48 n.a. n.a. 1.23 +992.4%
+Legal & professional charges 17.34 9.62 26.96 n.a. n.a. 12.05 +123.8%
+Other operating expenses 62.63 32.29 94.92 58.59 26.83 72.13 +31.6% +20.4%
+Total operating expenses 302.39 363.98 666.38 243.81 217.81 461.62 +44.4% +67.1%
+EBITDA — reported (after ESOP) 24.37 14.96 39.33 54.43 26.72 81.15 (51.5)% (44.0)%
+EBITDA margin % — reported 7.5% 3.9% 5.6% 18.2% 10.9% 15.0% (9.4)pp (7.0)pp
+Normalised EBITDA (before ESOP charge) 24.37 26.96 51.33 54.43 29.72 84.15 (39.0)% (9.3)%
+EBITDA margin % — normalised 7.5% 7.1% 7.3% 18.2% 12.2% 15.5% (8.2)pp (5.0)pp
+Finance costs 1.22 20.69 21.90 1.44 12.43 13.87 +57.9% +66.4%
+Depreciation & amortisation 3.33 20.88 24.21 9.26 10.31 19.57 +23.7% +102.6%
+PBT before other income & exceptional 19.83 (26.60) (6.78) 43.73 3.98 47.71 n.m. n.m.
+Exceptional items, net 107.49 (38.39) 69.10 – – – n.m. n.m.
+Other income & share of associate 2.13 6.29 8.42 8.46 8.07 16.53 (49.1)% (22.1)%
+Profit before tax 129.45 (58.70) 70.75 52.19 12.05 64.24 +10.1% n.m.
+Tax expense / (credit) 41.73 (3.52) 38.21 7.23 13.02 20.25 +88.7% n.m.
+Profit after tax 87.72 (55.18) 32.54 44.96 (0.97) 43.99 (26.0)% n.m.
+H1 FY26 comparatives are the restated continuing / discontinued columns of the Q2 FY27 Regulation 33 statement. ECL and legal costs are not split by segment for H1 FY26 (n.a.) and 
+are included in other operating expenses. Normalised EBITDA is reported EBITDA before the ESOP charge. H1 FY27 reported PBT o f ₹70.75 Cr and PAT of ~₹32.5 Cr reflect the 
+₹20.94 Cr FCTR recycled on disposal and the Epcogen goodwill write -off of ₹19.87 Cr, shown in discontinued operations. 
+15
+=== page 17 ===
+Balance Sheet: Assets Up 42% to ₹2,079.7 Cr
+Consolidated balance sheet as at 30 September 2026 vs 31 March 2026 —₹ crore
+Assets (₹ Cr) 31-Mar-26 30-Sep-26
+Non-current assets
+Property, plant and equipment 91.5 174.1
+Capital work in progress 44.2 36.5
+Right -of-use assets 178.2 181.4
+Goodwill 150.5 211.3
+Other intangible assets* 48.3 130.9
+Other non -current assets** 122.5 91.0
+Total non -current assets 635.2 825.1
+Current assets
+Inventories 79.0 112.3
+Current investments 4.3 –
+Trade receivables 411.3 348.1
+Cash and cash equivalents 17.8 50.0
+Other bank balances 27.6 17.4
+Other current assets*** 290.9 520.7
+Assets held for sale (divesting business) – 206.0
+Total current assets 831.0 1,254.6
+Total assets 1,466.2 2,079.7Equity and liabilities (₹ Cr) 31-Mar-26 30-Sep-26
+Equity
+Equity share capital 21.3 21.8
+Other equity 706.3 733.1
+Non-controlling interests 6.9 7.1
+Total equity 734.4 762.0
+Non-current liabilities
+Borrowings 75.2 255.8
+Lease liabilities 93.0 62.4
+Other non -current liabilities† 20.9 64.1
+Total non -current liabilities 189.2 382.3
+Current liabilities
+Borrowings 201.2 368.6
+Trade payables 143.4 213.6
+Lease liabilities 18.6 11.3
+Other current liabilities‡ 179.4 295.8
+Liabilities held for sale (divesting business) – 46.2
+Total current liabilities 542.6 935.4
+Total equity and liabilities 1,466.2 2,079.7
+* Incl. intangibles under development. ** Associate, investments, other financial and tax assets. *** Other financial and oth er current assets. † Incl. ₹31.6 Cr Cloud Wave NCI put liability, provisions and deferred tax. 
+‡ Other financial liabilities, provisions and current tax. The Phase 2 business is held for sale (Ind AS 105). Source: Reg 33 consolidated balance sheet (30 -Sep-26 unaudited; 31 -Mar-26 audited). Totals may not add 
+due to rounding.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202616
+=== page 18 ===
+Retained Business: Now the Majority of Group Revenue
+Continuing (retained) vs discontinued —₹ crore
+150183196
+Q2 FY26 Q1 FY27 Q2 FY27
+Retained revenue, ₹ Cr —+30% YoY, +7% QoQQ2 FY27 (₹ Cr) Retained Discontinued Total
+Revenue 195.6 163.5 359.1
+Share of revenue 54% 46% 100%
+EBITDA 6.3 5.2 11.4
+EBITDA before ESOP 18.3 5.2 23.4
+EBITDA margin (before ESOP) 9.3% 3.2% 6.5%
+PAT (48.1) 95.4 47.3
+The retained business —Defence, Aerospace Manufacturing, XIDA and Space —
+now represents 54% of revenue and grew 30% year on year. Its reported loss is 
+concentrated in the parent's transition cost base, the one -quarter ESOP charge and 
+a ₹38.4 Cr non -cash impairment. Before ESOP, retained EBITDA margin is 9.3%. 
+Discontinued operations include the Phase 1 gain, net of the ₹19.9 Cr Epcogen 
+write -off, and will close out with Phase 2, with proceeds expected in February 2027. 
+Group reported PAT is ~₹47.3 Cr.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202617
+=== page 19 ===
+Retained Business by Entity
+Q2 FY27, carve -out basis —₹ crore. The parent carries the transition cost.
+₹ Cr Aero Organic* MoD/OEM DRDO/PSU XIDA Add Sol.** Cloud Wave Retained
+Revenue 0.5 52.7 75.0 48.4 2.5 16.5 195.6
+EBITDA (26.3) 4.6 17.9 10.8 (4.1) 3.4 6.3
+EBITDA margin — 8.7% 23.9% 22.3% — 20.3% 3.2%
+PAT (49.7) 1.3 10.0 5.9 (17.8) 2.1 (48.1)
+DRDO/PSU and XIDA —the principal profit contributors
+Q2 FY27 revenue was ₹75.0 Cr (DRDO/PSU) and ₹48.4 Cr (XIDA). Together these 
+businesses generated ₹28.7 Cr of EBITDA at a margin of 23.3%; H1 FY27 EBITDA 
+was ₹46.4 Cr. This is the defence -electronics and XIDA core from which the Company 
+intends to scale.Cloud Wave —earnings -accretive in the first quarter
+First quarter in the Group: ₹16.5 Cr of revenue, a 42% gross margin and a 20.3% 
+EBITDA margin. The first acquisition on the aerospace platform was earnings -
+accretive in the period.
+ACAT —recovering
+EBITDA returned to ₹4.6 Cr after the Q1 FY27 provisions. Cost of goods sold at 77% 
+of revenue reflects the tank -trailer mix; non -tank-trailer orders carry a normal cost of 
+goods sold of ~48%.Parent —a time -bound transition
+EBITDA of ₹(26.3) Cr includes the ₹12.0 Cr one -quarter ESOP charge and the cost 
+base established for Power 930. A cost reset is under way ahead of the Phase 2 
+closing. Add Solutions is already under voluntary dissolution.
+* Aero Organic = retained parent incl. overseas pieces and eliminations; includes the ₹12.0 Cr Q2 ESOP charge, ₹24.2 Cr of im pairment and a ₹7.5 Cr tax credit.
+** Add Solutions: under voluntary dissolution; presented in continuing operations. Shown for technical consolidation reasons —one-time, will not recur.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202618
+=== page 20 ===
+Space: Continuity and Status —On Track for Revenue in FY28
+A four -pillar strategy, with partnerships in place and the space facility being prepared
+PARTNERSHIPS
+In place
+U-Space (Toulouse) and AldoriaREVENUE FROM
+Q2 FY28
+As the first programmes go live
+THE FOUR PILLARS
+1
+Satellite MAIT
+Nano -and micro -satellite buses 
+manufactured, assembled, integrated 
+and tested in India, with U -Space, for 
+EO, SIGINT and SSA missions.2
+Space situational awareness
+Tracking and monitoring of objects in 
+orbit with Aldoria, strengthening 
+India’s sovereign space situational 
+awareness capability.3
+Space supply chain
+Manufacturing and integration of 
+space -grade subsystems for the 
+industry4
+On-board data computing
+Space -hardened on -board computers 
+and data handling, built on our 
+defence -electronics heritage.
+Status: the space facility at DAC is being prepared and the partnerships are in place. Revenue is expected to build from Q2 F Y28.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026COST
+₹2 Cr per quarter
+part of corporate overheads19
+=== page 21 ===
+Scorecard: Commitments and Power 930
+Commitments set out at the Q1 FY27 results, and status at H1 FY27, including Power 930
+#Commitment Status Where it stands
+1Close Phase 1 of the divestment DELIVEREDClosed 30 September 2026; ₹140.8 Cr gain recognised (₹129.3 Cr net of transaction costs); Tranche 1 
+consideration received in Oct –Nov 2026.
+2Close Phase 2 of the divestment REVISEDProceeds expected in February 2027 (previously end -November). NewCo incorporation and customer 
+novations are in process. Planned acquisitions may be delayed by ~3 months; interim funding will be 
+arranged if required.
+3Realise FY26 deferred revenue ON COURSE Realisation to be completed by Q4 FY27.
+4Convert Defence AFVs ON COURSE 16 new orders, ₹80.3 Cr, since Q1 results; ~₹730 Cr production potential added.
+5Complete XIDA formation and 
+restructuringON COURSEUS platform operational; XIDA DeepTech India incorporated, ~300 engineers moving; restructuring 
+completes in Q3; new customers acquired.
+6Conclude Indian aerospace acquisition DELIVEREDCloud Wave (90% stake) closed and consolidated from Q2 FY27, and was earnings -accretive in its first 
+quarter.
+7Realise the Add Solutions exit DELIVEREDUnder voluntary dissolution; presented in continuing operations. Included in Q2 FY27 for technical 
+consolidation reasons —one-time and will not recur.
+8Sign Space partnerships DELIVEREDPartnerships in place with U -Space (satellite buses) and Aldoria (space situational awareness); 
+programmes being built with both.
+9Replace the divested revenue ON COURSE FY27 revenue is intended to equal or exceed FY26 revenue.
+Of nine commitments, four delivered and four on course —and one has been revised. Power 930 remains on course. No commitment ha s been withdrawn.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 2026POWER 930 —ON COURSE
+Internal long -term aspiration: ₹9,000 Cr of revenue and ₹960 Cr of PAT by FY2030. These are forward -looking statements and are n ot guidance. Phase 1 has closed and Phase 2 
+is in closing. Sixteen new defence orders have been booked since August, with ~₹730 Cr of production potential. XIDA, Defence and Aerospace are each planned to run at ~20% 
+EBITDA margin at division level from Q3 FY27. The leadership, finance and facility base required to support the plan through FY28 is in place.20
+=== page 22 ===
+Contacts
+AXISCADES Technologies Limited
+CIN: L72200KA1990PLC084435
+Investor Relations
+investor.relations@axiscades.in
+IR Advisors
+Ms. Shankhini Saha —axiscades@dickensonworld.com
+www.axiscades.com
+Stock listings:  NSE: AXISCADES  |  BSE: 532395
+Investor Presentation filed with NSE and BSE under SEBI (LODR) Regulations, 2015.
+AXISCADES Technologies Limited  |  Q2 & H1 FY27 Results  |  13 November 202621

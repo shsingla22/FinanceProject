@@ -1,0 +1,117 @@
+ 
+  
+ 
+October  01, 202 6 CS&G/STX/ DQ2026/01 
+1) National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+Scrip Symbol: KFINTECH  2) BSE  Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 543720 
+ 
+Sub.  : Press Release  
+Ref. : Regulation 30 of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)  
+Dear Sir / Madam,  
+Pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, please find 
+enclosed herewith the Press Release titled “ KFintech and APMI Launch InPro, an Industry Wide 
+AML Platform for India’s PMS Indust ry”. 
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For KFin Technologies Limited  
+Alpana Kundu  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: F10191 
+Encl.: a/a  
+ 
+KFintech and APMI Launch InPro, an Industry Wide AML Platform for India ’s 
+PMS Industry  
+ Launched by Shri Tuhin Kanta Pandey, Chairman, SEBI, at APMI ’s 3rd Annual Conference  
+ InPro  brings continuous AML screening, workﬂow led case management and audit ready 
+compliance to APMI members  
+Mumbai, October  01, 2026:  KFin Technologies Limited (KFintech) and the Association of Portfolio 
+Managers in India (APMI) today announced the launch of InPro , an intelligent Anti Money Laundering 
+(AML) and compliance operations platform designed to strengthen AML screening and ongoing 
+monitoring across India ’s Portfolio Management Services (PMS) industry. APMI has adopted InPro as 
+the central AML compl iance platform for its members , providing portfolio managers across the 
+industry access to a common technology infrastructure for screening, reviewing and managing AML 
+alerts.  
+The platform was launched by Shri Tuhin Kanta Pandey, Chairman, Securities and E xchange Board of 
+India (SEBI) , at APMI ’s 3rd Annual Conference at the Jio World Convention Centre, Mumbai.  
+AML compliance is increasingly moving beyond point in time onboarding checks, as investor proﬁles 
+and risk indicators can change throughout the cust omer lifecycle. A new sanctions listing, a change in 
+customer information, a politically exposed person (PEP) connection or adverse media development 
+can introduce new risk signals after onboarding. This makes continuous monitoring, timely review and 
+the a bility to demonstrate the basis for compliance decisions increasingly important.  
+Creating a common technology backbone for AML compliance  
+Through InPro, APMI members can access a uniﬁed platform that brings together AML screening, 
+continuous monitoring, c ase management and audit trails  within a single operating environment.  
+The platform enables PMS providers to screen investor proﬁles against global sanctions lists, Indian 
+debarment lists, PEP databases, regulatory watchlists and adverse media sources . Screening can be 
+undertaken during onboarding and subsequently when key customer information or other relevant risk indicators change.  
+Potential matches are routed through a structured Maker Checker workﬂow , allowing compliance 
+teams to review alerts, resol ve potential false positives, escalate cases and record the basis for their 
+decisions. InPro maintains historical visibility into screening activity, alerts, review actions and 
+decisions, providing an audit ready record for regulatory and internal reviews.  
+The platform also supports near real time decisioning and downstream action enablement , helping 
+institutions move from identifying a potential risk to taking appropriate operational action through 
+system integrations.  
+Making robust AML infrastructure accessible across the PMS ecosystem  
+AML and Countering the Financing of Terrorism (CFT) obligations apply to SEBI registered portfolio managers irrespective of their size. However, the ability to independently invest in technology, screening infrastructure  and operational resources can vary across ﬁrms.  
+ 
+APMI ’s industry level adoption of InPro enables members to leverage common infrastructure and 
+economies of scale. This allows portfolio managers, including emerging and boutique ﬁrms, to access 
+structured AML screening and monitoring capabilities without having to independently build and 
+maintain the entire technology infrastructure.  
+The initiative also supports greater consistency in how AML alerts can be screened, reviewed, 
+documented and escalated across  the PMS ecosystem. The working document speciﬁcally identiﬁes 
+shared infrastructure, cost eﬃciency, common compliance standards and accessibility for smaller and 
+mid sized ﬁrms as key beneﬁts of the APMI adoption model.  
+Sreekanth Nadella, Managing Director & CEO, KFin Technologies Limited, said , "The next phase of 
+ﬁnancial market infrastructure will be deﬁned not only by how eﬃciently transactions are processed, but also by how eﬀectively trust and compliance are embedded into the ecosystem. AM L cannot remain 
+a point in time check when investor proﬁles and risk signals can change throughout the customer 
+lifecycle. Through InPro, we are bringing screening, continuous monitoring, case management and 
+decision trails together on a single technology  platform. Our partnership with APMI takes this a step 
+further by making this infrastructure accessible across the PMS ecosystem, including ﬁrms that may 
+not otherwise invest in building such capabilities independently."  
+Vikas Khemani , Chairman , Associati on of Portfolio Managers in India (APMI), said , "As the PMS 
+industry continues to mature, strong governance and robust compliance infrastructure are fundamental to building a resilient and investor centric ecosystem. APMI ’s adoption of InPro is aimed 
+at ma king technology enabled AML capabilities more accessible to portfolio managers across the 
+industry, irrespective of their scale. By creating access to a common platform for screening, monitoring and documentation, this initiative strengthens the compliance  framework available to our members 
+while supporting the broader objective of maintaining investor trust and market integrity."  
+With InPro, KFintech and APMI are bringing together technology, compliance workﬂows and industry 
+level adoption to support a more consistent and technology enabled approach to AML operations 
+across the PMS industry.  
+About KFin Technologies Limited (www.kﬁntech.com/; BSE: 543720; NSE: KFINTECH):  
+KFin Technologies Limited (“ KFintech ”) is a leading technology driven ﬁnancial ser vices platform 
+providing comprehensive services and solutions to the capital markets ecosystem including asset 
+managers and corporate issuers across asset classes in India and provide comprehensive investor 
+solutions including transfer agency, fund adminis tration, fund accounting, data analytics, digital 
+onboarding, transaction origination and processing for alternate investments, mutual funds, private 
+market funds, digital assets, unit trusts, insurance investments, and private retirement schemes to 
+global  a s s e t  m a n a g e r s  a c r o s s  1 8  j u r i s d i c ti o n s .  I n  I n d i a ,  K F i n t e c h  i s  t h e  l a r g e s t  i n v e s t o r  s o l u ti o n s  
+provider to Indian mutual funds, based on number of AMCs serviced as on June 30, 2026, and the largest issuer solutions provider based on number of clients servic ed as on June 30, 2026. KFintech is 
+the only investor and issuer solutions provider in India that oﬀers services to asset managers such as 
+mutual funds, alternative investment funds, wealth managers and pension as well as corporate issuers 
+and is one of the three operating central record keeping agencies for the National Pension System in 
+India. KFintech is listed on the National Stock Exchange of India Limited and BSE Limited. General 
+ 
+Atlantic Singapore Fund Pte Ltd (“GASF ”), a leading global private equi ty investor , is the promoter of 
+the company.  
+About APMI  
+The Association of Portfolio Managers in India (APMI)  is the industry body representing SEBI 
+registered portfolio managers. Incorporated on December 31, 2021, and operational since May 1, 
+2022, APMI works as a brid ge betw een the r egulator  and the industry . It pr omotes bes t pr actices, strengthens governance and self regulation, and fosters a transparent and investor centric PMS 
+ecosystem.  
+For Media Queries:  
+Hanisha Vadlamani  
+Email: hanisha.vadlamani@kﬁntech.com
+ 
+Sailee Nayak  
+Email: sailee.nayak@adfactorspr.com   
+ 
+ 

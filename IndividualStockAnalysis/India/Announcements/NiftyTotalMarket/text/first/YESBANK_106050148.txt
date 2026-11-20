@@ -1,0 +1,541 @@
+ 
+  
+YBL/CS/2024-25/130 
+ 
+November 08, 2024 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, 
+Plot no. C/1, G Block, 
+Bandra - Kurla Complex 
+Bandra (E), Mumbai - 400 051 
+NSE Symbol: YESBANK  
+ 
+ 
+ 
+ 
+ 
+ 
+Dear Sir/Madam, 
+ 
+Sub.: Submission of Machine Readable copy of Financial Results 
+Ref.:   Email from NSE dated November 07, 2024 for Machine Readable copy of Financial 
+Results  
+With reference to the email from NSE, as required attached is the machine readable copy of 
+the financial results which was declared on October 26, 2024 for the quarter and half year 
+ended on September 30, 2024.  
+Please note that there is no change in the financial results as submitted on October 26, 2024 by 
+the Bank. 
+You are requested to take the same on record and acknowledge the receipt.  
+Yours faithfully, 
+ 
+For YES BANK LIMITED 
+ 
+  
+ 
+Shivanand R. Shettigar 
+Company Secretary 
+ 
+Encl.: As above  
+ 
+G.M. Kapadia & Co.
+Chartered Accountants
+1007, Raheja Chambers
+213, Nariman Point,
+Mumbai 400 021C N K & Associates LLP 
+Chartered Accountants 
+3rd Floor, Mistry Bhavan, 
+Dinshaw Vachha Road, 
+Churchgate, Mumbai 400 020 
+INDEPENDENT AUDITORS' LIMITED REVIEW REPORT ON UNAUDITED STANDALONE 
+FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2024 
+OF YES BANK LIMITED PURSUANT TO THE REGULA TIO NS 33 AND 52 READ WITH 63(2) 
+OF THE SEBI (LISTING OBLIGATIONS AND DISCLOSURE .REQUIREMENTS) 
+REGULA TIO NS, 2015 AS AMENDED 
+To 
+The Board of Directors 
+YES BANK Limited 
+Mumbai 
+I.We have reviewed the accompanying Statement of Unaudited Standalone Financial Results of
+YES BANK Limited (hereinafter referred to as "the Bank") for the quarter and half year ended
+September 30, 2024 ("the Statement"), being submitted by the Bank pursuant to the
+requirements of Regulations 33 arid 52 read with 63(2) of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations 2015, as amended ("Listing Regulations").
+2.This Statement, which is the responsibility of the Bank's Management and approved by the
+Bank's Board of Directors, has been prepared in accordance with recognition and measurement
+principles laid down in Accounting Standard 25 "Interim Financial Reporting", as prescribed
+under section 133 of the Companies Act, 2013 read with relevant rules issued thereunder, the
+relevant provisions of the Banking Regulation Act, 1949, the circulars, guidelines and
+directions issued by the Reserve Bank oflndia ("RBI") in respect of income recognition, asset
+classification, provisioning and other related matters from time to time ("RBI Guidelines") and
+other accounting principles generally accepted in India and in compliance with the Listing
+Regulations. Our responsibility is to issue a conclusion on the Statement based on our review.
+3.We conducted our review of the Statement in accordance with the Standard on Review
+Engagements (SRE) 2410 "Review of Interim Financial Infonnation Perfonned by the
+Independent Auditor of the Entity", issued by the Institute of Chartered Accountants oflndia.
+This standard requires that we plan and perform the review to obtain moderate assurance as to
+whether the Statement is free of material misstatement. A review is limited pri,marily to
+inquiries of Bank's personnel and analytical procedures applied to financial data and thus
+provides less assurance than an audit conducted in accordance with the Standards on Auditing
+specified under section 143(10) of the Companies Act, 2013. We have not perfonned an audit
+and accordingly, we do not express an audit opinion.
+4.Based on our review conducted as stated in paragraph 3 above, nothing has come to our
+attention that causes us to believe that the accompanying Statement of Unaudited Standalone
+Financial Results read with notes thereon has not been prepared in accordance with the
+G.M. Kapadia & Co.
+Chartered AccountantsC N K & Associates LLP 
+Chartered Accountants 
+the Companies Act, 2013 read with relevant rules issued thereunder, RBI Guidelines and other 
+accounting principles generally accepted in India and has not disclosed the information 
+required to be disclosed in terms of the Listing Regulations including the manner in which it is 
+to be disclosed or that it contains ariy material misstatement or that it has not been prepared in 
+accordance with the relevant prudential norms issued by the RBI in respect of income 
+recognition, asset classification, provisioning and other related matters. 
+Other Matter 
+5.The financial results of the Bank for the earlier periods/year have been reviewed/audited by
+one of the continuing joint statutory auditors and the predecessor auditor, and their reports
+expressed an unmodified conclusion/opinion as per the details given below:
+Standalone Financial Results Limited Review/Audit Report 
+Quarter ended 30/06/2024 Unmodified conclusion as per Limited 
+Review Report dated 20/07 /2024 
+Quarter and half year ended 30/09/2023 Unmodified conclusion as per the Limited 
+Review Report dated 21/10/2023 
+. Financial year ended 31/03/2024 Unmodified opinion as per the ,Audit Report 
+dated 27/04/2024 
+Our conclusion is not modified in respect of this matter. 
+For G.M.Kapadia & Co. 
+Chartered Accountants 
+(Registration No. 104767W) 
+-
+Atul Shah 
+Partner 
+(Membership No. 039569) 
+UDIN: 24039569BKAUXL9483 
+Place: Mumbai 
+Date:· October 26, 2024 For C N K & Associates LLP 
+Place: Mumbai 
+Date: October 26, 2024 
+?. 
+Sr 
+No. 
+1 
+(a) 
+(b) 
+(c) 
+(d) 
+2 
+3 
+4 
+5 
+(i) 
+(ii) 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+(a) 
+(b) 
+(c) 
+(d) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) �YES BANK 
+YES BANK Limited 
+Regd. Office: YES BANK House, Off Western Express Highway, Santacruz East, Mumbai -400055, India 
+Website: www.yesbank.in Email Id: shareholders@yesbank.in 
+UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2024 
+Quarter ended 
+PARTICULARS 30.09.2024 30.06.2024 
+(Unaudited) (Unaudited) 
+Interest earned (a)+(b)+(c)+(d) 773,049 771,915 
+Interest/ discount on advances/bills 584,006 571,912 
+Income on investments 144,353 149,455 
+Interest on balances with Reserve Bank of India and 
+other inter-bank funds 5,111 11,981 
+Others 39,579 38,567 
+Other Income (Note 8) 140,660 119,899 
+TOTAL INCOME (1+2) 913,709 891,814 
+Interest Expended 553,005 547,511 
+Operating Expenses (i)+(ii) 263,177 255,774 
+Payments to and provisions for employees 100,763 98,009 
+Other ooeratine: exoenses 162.414 157,765 
+TOTAL EXPENDITURE (4+5) (excluding provisions 
+and contingencies) 816,182 803,285 
+Operating Profit (before Provisions and 
+Contingencies) (3-6) 97,527 88,529 
+Provisions (other than T� expense) and Contingencies 
+(net) 29,710 21,177 
+Exceptional Items - -
+Profit from ordinary activities before tax (7-8-9) 67,817 67,352 
+Tax Expense 12,513 17,109 
+Net profit from Ordinary Activities after tax (10-11) 55,304 50,243 
+Extraprdinary Items (Net of tax) - -
+NET PROFIT (12-13) 55,304 50,243 
+Paid-up equity Share Capital (Face value of � 2 each) 626,938 626,713 
+Reserves & Surplus excluding revaluation reserves 
+Analytical ratios 
+Percentage of Shares held by Government of India Nil Nil 
+Capital Adequacy ratio -Basel III 15.6% 16.3% 
+Earnings per share for the period (not annualized) / 
+year (annualized) before and after extraordinary items 
+-Basic � 0.18 0.16 
+-Diluted � 0.18 0.16 
+NPA ratios (Note 9) 
+GrossNPA 388,943 384,490 
+NetNPA 116,802 124,603 
+% of Gross NP A 1.6% 1.7% 
+% ofNetNPA 0.5% 0.5% 
+Return on assets (average) (annualized) (Note 10) 0.5% 0.5% 
+Net worth* 4,640,683 4,564,904 
+Outstanding redeemable preference shares --
+Capital redemption reserve - -
+Debt Service Coverage Ratio NA NA 
+Interest Service Coverage Ratio NA NA 
+Debt-equity ratio$ 0.98 1.01 
+Total debts to total asseti 18.7% 19.7% 30.09.2023 
+(Unaudited) 
+671,070 
+512,288 
+114,297 
+21,178 
+23,307 
+120,998 
+792,068 
+478,561 
+233,374 
+89,174 
+144,200 
+711,935 
+80,133 
+50,038 
+-
+30,095 
+7,574 
+22,521 -
+22,521 
+575,160 
+Nil 
+17.1% 
+0.08 
+0.08 
+431,903 
+188,519 
+2.0% 
+0.9% 
+0.2% 
+4,144,343 -
+-
+NA 
+NA 
+1.01 
+19.4% HaH Year ended 
+•30.09 •. 2024 30.09.2023 
+(Unaudited) (Unaudited) 
+1,544,964 1,315,392 
+1,155,918 1,009,476 
+293,808 230,792 
+17,092 30,996 
+78,146 44,128 
+260,559 235,110 
+1,805,523 1,550,502 
+1,100,516 922,920 
+518,951 465,608 
+198,772 183,742 
+320,179 281,866 
+1,619,467 1,388,528 
+186,056 161,974 
+50,887 86,068 
+- -
+135,169 75,906 
+29,622 19,133 
+105,547 56,773 - -
+105,547 56,773 
+626,938 575,160 
+Nil Nil 
+15.6% 17.1% 
+0.34 0.20 
+0.34 0.20 
+388,943 431,903 
+116,802 188,519 
+1.6% 2.0% 
+0.5% 0.9% 
+0.5% 0.3% 
+4,640,683 4,144,343 -
+-
+NA NA 
+NA NA 
+0.98 1.01 
+18.7% "19.4% � in Lllkhs) 
+Year ended 
+31.03.2024 
+(Audited) 
+2,758,594 
+2,108,749 
+495,826 
+45,840 
+108,179 
+511,430 
+3,270,024 
+1,949,132 
+982,266 
+377,428 
+604,838 
+2,931,398 
+338,626 
+188,628 
+-
+149,998 
+24,890 
+125,108 -
+125,108 
+575,358 
+3,544,342 
+Nil 
+15.4% 
+0.44 
+0.43 
+398,256 
+132,973 
+1.7% 
+0.6% 
+0.3% 
+4,214,539 -
+-
+NA 
+NA 
+1.14 
+19.7% 
+�YES BANK 
+STANDALONE SEGMENTAL RESULTS 
+({ in Lakhs) 
+Quarter ended· Half Yeaf ended Year ended 
+Sr PARTICULARS 30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+No (Unaudited) (Unaudited) (Unaudited) (Unaudited) · (Unaudited) (Audited) 
+1 Segment revenue 
+(a) Treasury 187,535 187,790 169,017 375,325 358,856 755,239 
+(b) Corporate Banking 300,391 291,662 231,297 592,053 471,185 1,017,095 
+(c) Retail Banking 372,185 368,824 354,574 741,009 684,650 1,415,329 
+i.Digital Banking 6 8 6 14 8 24 
+ii.Other Retail Banking 372,179 368,816 354,568 740,995 684,642 1,415,305 
+(d)Other Banking Operations 27,251 20,086 23,115 47,337 41,681 95,246 
+(e)Unallocated 1,084 (24) 611 1,060 1,015 12,560 
+Total 888,446 868,338 778,614 1,756,784 1,557,387 3,295,469 
+Add/ (Less): Inter Segment Revenue 25,263 23,476 13,454 48,739 (6,885) (25,445) 
+Income from Operations 913,709 891,814 792,068 1,805,523 1,550,502 3,270,024 
+2 Segmental Results 
+(a)Treasury 38,307 46,542 52,640 84,849 66,731 136,284 
+(b) Corporate Banking 71,580 54,652 24,383 126,232 59,205 137,799 
+(c)Retail Banking (50,291) (37,518) (33,863) (87,809) (19,632) (97,257) 
+i.Digital Banking (10) (13) (12) (23) (23) (47) 
+ii.Other Retail Banking (50,281) (37,505) (33,851) (87,786) (19,609) (97,210) 
+(d)Other Banking Operations 22,033 15,451 15,313 37,484 22,610 58,454 
+(e)Unallocated (13,812) (11,775) (28,378) (25,587) (53,008) (85,282) 
+Profit before Tax 67,817 67,352 30,095 135,169 75,906 149,998 
+3 Segment Assets 
+(a)Treasury 16,445,495 16,082,832 13,897,035 16,445,495 13,897,035 16,015,707 
+(b) Corporate Banking 11,363,346 10,895,410 9,654,331 11,363,346 9,654,331 10,727,323 
+(c) Retail Banking 12,858,541 12,671,413 11,819,537 12,858,541 11,819,537 12,649,249 
+i.Digital Banking 152 169 130 152 130 146 
+ii.Other Retail Banking 12,858,389 12,671,244 11,819,407 12,858,389 11,819,407 12,649,103 
+(d) Other Banking Operations 32,596 27,876 27,513 32,596 27,513 31,000 
+(e) Unallocated 1,109,186 1,092,171 1,123,881 1,109,186 1,123,881 1,126,020 
+Total 41,809,164 40,769,702 36,522,297 41,809,164 36,522,297 40,549,299 
+4 Segment Liabilities 
+(a) Treasury 8,487,097 8,794,986 8,026,210 8,487,097 8,026,210 8,751,049 
+(b) Corporate Banking 13,606,556 13,413,523 10,386,536 13,606,556 10,386,536 11,982,207 
+(c) Retail Banking 15,005,011 13,935,550 13,896,202 15,005,011 13,896,202 15,536,445 
+i.Digital Banking 155 231 234 155 234 241 
+ii.Other Retail Banking 15,004,856 13,935,319 13,895,968 15,004,856 13,895,968 15,536,204 
+(d) Other Banking Operations 9,214 7,802 8,333 9,214 8,333 8,386 
+(e) Unallocated 60,603 52,937 60,673 60,603 60,673 56,673 
+Capital and Reserves 4,640,683 4,564,904 4,144,343 4,640,683 4,144,343 4,214,539 
+Total 41,809,164 40,769,702 36,522,297 41,809,164 36,522,297 40,549,299 
+. Segment-wise principal activities:
+Treasury includes investments, all financial market activities undertaken on behalf of the customers, proprietary trading, maintenance of reserve 
+requirements and resource mobilisation from other banks and financial institutions. 
+Corporate Banking includes lending, deposit taking and other services offered to corporate customers. 
+Retail Banking includes lending, deposit taking and other services offered to retail customers. Sub-segment 'Digital Banking' represents segment 
+results pertaining to a Digital Banking Unit ('the DBU') of the Bank. 
+Other Banking Operations include para banking activities like third party product distribution, merchant banking etc. 
+As the business of the Bank is concentrated in India; there are no separate reportable geographical segments. 
+Notes: 
+1 STANDALONE STATEMENT OF ASSETS AND LIABILITIES 
+PARTICULARS 
+CAPITAL AND LIABILITIES 
+Capital 
+Share warrants subscription money 
+Reserves and surplus 
+Deposits 
+Borrowings 
+Other liabilities and provisions 
+Total 
+ASSETS 
+Cash and balances with Reserve Bank of India 
+Balances with banks and money at call and short notice 
+Investments 
+Advances 
+Fixed assets 
+Other assets 
+Total 
+2 STANDALONE CASH FLOW STATEMENT 
+PARTICULARS 
+Cash flow from Operating Activities 
+Net profit before taxes 
+Adjustments for: 
+ESOP Compensation Expense 
+Depreciation for the period 
+Amortization/ (accretion) of premium/ (discount) on investments (net) 
+Provision for / revaluation of investments 
+Provision for standard advances 
+Provision/ write off of non performing advances 
+Other provisions 
+Difference of purchase consideration and value of net assets acquired charged oH to P&L 
+(Profit)/Loss on sale of land, building & other assets 
+Adjustments for : 
+Increase / (Decrease) in Deposits 
+Increase/ (Decrease) in Other Liabilities 
+(Increase)/Decrease in Investments 
+(lncrease)/Decrease in Advances 
+(Increase)/Decrease in Other assets 
+Payment of direct taxes 
+Net cash generated from/ (used in) operating activities (A) 
+Cash flow from investing activities 
+Purchase of fixed assets 
+Proceeds from sale of fixed assets 
+Investment in equity shares of the subsidiary company (i) 
+(ii) 
+(iii) 
+(i+ii+iii) 
+Difference of purchase consideration and value of net assets acquired charged off to P&L 
+Investment in equity shares of Asset Reconstruction Company 
+(lncrease)/Dec_rease in Held To Maturity (HTM) securities 
+Net cash generated/ (used in) from investing activities (B) �YES BANK 
+As at Asat 
+30.09.2024 30.09.2023 
+(Unaudited) (Unaudited) 
+626,938 575,160 - 94,839 
+4,013,745 3,474,344 
+27,721,433 23,435,962 
+7,830,998 7,072,614 
+1,616,050 1,869,378 
+41,809,164 36,522,297 
+2,282,156 1,544,325 
+575,745 761,392 
+8,559,927 7,620,380 
+23,511,696 20,910,602 
+296,823 264,207 
+6,582,817 5,421,391 
+41,809,164 36,522,297 
+Half year ended 
+30.09.2024 
+(Ynaudited) 
+135,169 
+2,566 
+22,765 
+(20,750) 
+(13,176) 
+(13,795) 
+139,803 
+1,053 
+341 
+253,976 
+1,084,216 
+(104,258) 
+(574,883) 
+(871,552) 
+(26,409) 
+(492,887) 
+122 
+(238,789) 
+(35,550) 
+· 1,273
+1,114,517 
+1,080,240 30.09.2023 
+(Unaudited) 
+75,906 
+1,673 
+25,604 
+21,294 
+(18,546) 
+(11,043) 
+122,690 
+3,506 
+2 
+221,086 
+1,685,776 
+(38,404) 
+30,460 
+(706,349) 
+(122,177) 
+849,306 
+(8,296) 
+1,062,096 
+(45,823) 
+486 
+(10,000) 
+45,242 
+(10,095) ({ in Lakhs) 
+Asat 
+31.03.2024 
+(Audited) 
+575,358 
+94,839 
+3,544,342 
+26,637,217 
+7,994,088 
+1,703,455 
+40,549,299 
+1,813,924 
+79,040 
+9,023,513 
+22,779,947 
+285,652 
+6,567,223 
+40,549,299 
+(� in Lakhs) 
+Year ended 
+31.03.2024 
+(Audited) 
+149,998 
+3,126 
+54,104 
+41,059 
+3,518 
+(10,115) 
+276,427 
+9,428 
+97 
+206 
+527,848 
+4,887,031 
+(217,193) 
+(232,352) 
+(2,729,430) 
+(1,238,644) 
+469,413 
+(37,661) 
+959,600 
+(97,363) 
+1,877 
+(10,000) 
+(97) 
+(7,314) 
+(1,129,594) 
+(1,242,491) 

@@ -1,0 +1,115 @@
+ 
+ 
+ 
+eClerx/SECD/SE/202 5/006  
+ 
+January 29, 2025  
+ 
+BSE Limited  
+Corporate Relationship Department,  
+Phiroze Jeejeebhoy Towers,  
+25th Floor, Dalal Street,  
+Fort, Mumbai - 400 001  National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1,  
+Block G, Bandra - Kurla Complex   
+Bandra (East),  
+Mumbai – 400 051  
+ 
+Dear Sir/Madam,   
+ 
+Sub:  Earnings Presentation  and Press release w.r.t Consolidated and Standalone Un-audited Financial   
+Results for the quarter /period  ended  December 31, 202 4 
+ 
+Scrip  Code:  BSE - 532927  
+  NSE – ECLERX  
+ 
+Further to our letter number eClerx/SECD/SE/202 5/005 dated January 29, 2025 , please find attached the 
+earnings presentation and press release  w.r.t Consolidated and Standalone Un-audited Financial Results 
+for the quarter/period  ended December  31, 202 4 for your records.  
+ 
+Since Stock Exchange(s) portal for online submissions does not accept excel documents, we have made 
+the “Investor Sheet” avail able on our website under the “Investor Relations” section.  
+ 
+Thanking you,  
+ 
+Yours faithfully  
+For eClerx Services Limited  
+ 
+ 
+ 
+ 
+Pratik Bhanushali  
+VP-Legal & Company Secretary  
+F8538  
+ 
+Encl: as above  
+J A N  2 0 2 5
+INVESTOR RELATIONS
+FINANCIAL PERFORMANCE –Q3 FY25
+JAN 29, 2025
+1 w w w . e c l e r x . c o m
+ CONFIDENTIALFinancial Summary
+Metrics FY25 Q3 Q-o-Q YTD FY25 Y-o-Y
+Revenue OPG revenue (USD mm) 100.7 1.8% 292.7 11.7%
+OPG revenue (INR mm) 8,538 2.6% 24,676 14.3%
+Total revenue (INR mm) 8,752 3.6% 25,230 14.6%
+ProfitEBITDA (INR mm) 2,281 -0.3% 6,441 3.6%
+EBIT (INR mm)* 1,923 -1.9% 5,439 2.7%
+Net profit (INR mm) 1,371 -2.3% 3,889 2.1%
+MarginEBITDA (%) 26.1% -103 bps 25.5% -272 bps
+EBIT (%) 22.0% -123 bps 21.6% -250 bps
+Net profit (%) 15.7% -94 bps 15.4% -189 bps
+* EBIT includes other income and excludes rental interest under IND AS116
+•Q3 YoY Constant currency (CC) growth by 11.7%; QoQ CC growth by 2.2 %
+2 w w w . e c l e r x . c o m
+ CONFIDENTIALOther Income 
+* Gain / Loss regrouped as other income/expenses based on profit or loss position in the press release financials
+•Increase in Revaluation Income on account of USD appreciation against INR.
+•Q1 others included one -time reimbursement
+•Revaluation and Realised Gain 
+-USD/INR FY25 Q3 Exit: 85.57 vs. FY25 Q2 Exit: 83.77
+-EUR/INR FY25 Q3 Exit: 88.80 vs. FY25 Q2 Exit: 93.49
+-GBP/INR FY25 Q3 Exit: 107.22 vs. FY25 Q2 Exit: 112.37 Other Income FY25 Q3 FY25 Q2 FY25 Q1 FY24 Q4 FY24 Q3
+Investment Income 86.0 88.1 147.3 133.8 108.5
+Revaluation Income* 106.0 1.4 6.8 -7.8 -17.0
+Others 22.1 38.9 58.1 104.3 116.4
+Total 214.1 128.3 212.2 230.3 207.8Figures in INR millions.
+3 w w w . e c l e r x . c o m
+ CONFIDENTIAL19.424.422.635.7
+19.622.9
+18.321.6
+18.229.3
+24.4
+19.026.828.933.3
+Q1'FY22 Q2'FY22 Q3'FY22 Q4'FY22 Q1'FY23 Q2'FY23 Q3'FY23 Q4'FY23 Q1'FY24 Q2'FY24 Q3'FY24 Q4'FY24 Q1'FY25 Q2'FY25 Q3'FY25ACV of new deals (excludes CLX)BPaaS , A&A and ACV Amounts in $ mm
+102.1 MM 82.4 MM 91.0 MM21.4 19.821.119.921.919.222.2
+FY22 FY23 FY24 FY25 YTDBPaaS
+16.1 17.216.219.117.220.817.2
+FY22 FY23 FY24 FY25 YTDA&A
+$72.7$83.2$86.6
+$66.7$71.2
+$61.0
+$58.9$57.1
+4 w w w . e c l e r x . c o m
+ CONFIDENTIALHedge Updates
+Current Hedge Status
+•Total outstanding hedges now $242.4 mm at average INR 85.86/$; 100% forwards
+Contract Year Currency Amount (mm) Avg. Rate (INR) 
+Matured ForwardsFY24 Q3 $45.0 82.96
+FY24 Q4 $45.0 83.65
+Total FY24 USD $173.4 82.35
+FY25 Q1 $47.7 84.23
+FY25 Q2 $47.7 84.38
+FY25 Q3 $49.8 84.66
+Outstanding ForwardsFY25 Q4 $49.8 84.86
+Total FY25 USD $49.8 84.86
+FY26 Q1 $52.8 85.25
+FY26 Q2 $41.4 85.56
+FY26 Q3 $41.4 86.19
+FY26 Q4 $26.4 86.74
+Total FY26 USD $162.0 85.81
+FY27 Q1 $18.0 87.34
+FY27 Q2 $8.4 88.14
+FY27 Q3 $4.2 88.80
+Total FY27 USD $30.6 87.76
+Total Outstanding USD $242.4 85.86

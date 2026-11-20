@@ -1,0 +1,152 @@
+R
+egd. Office & Works : 8, Electronics Complex, Chambaghat, Solan- 173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466  
+HFCL/SEC/24-25 
+September 12 , 202 4 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com 
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+Subject: Press R elease: Accelerating UK 's Fibre Expansion, H FCL Showcases High -density Advanced 
+Fibre Solution s at t he Connected Britain 2024 ev ent. 
+Dear Sir(s)/ Madam, 
+We are pleased to announce to all our stakeholders that the Company has showcased its latest range of 
+innovative high -density blown fibre  solutions at the Connected Britain 2024 event. These new additions, further 
+expa nd HFCL’s extensive optical fibre  solution portfolio, paving  the way for advanced fibre  infrastructure and 
+faster broadband rollouts in the UK, targeting Building Digital UK (BDUK) initiative.  
+The C ompany has c onsciously imp lemented eco- friendly m easures i n the ma nufacturing o f this cable, o ffering 
+sustainable b enefits b y min imizing the u se of plastics an d ge l per fibre kilometre an d utilizing r ecyclable r eels . 
+We are enclosing herewith a P ress R elease in this regard . 
+We request to take the a bove information on your record s and disseminat e the same on your r espective 
+websites. 
+Thanking y ou. 
+Yours f aithfully, 
+For HFCL Limited 
+(Manoj Baid) 
+President &  Company S ecretary 
+Encl .: Press R elease. 
+ 
+Press Release  
+For immediate Release  
+ 
+Accelerating UK's Fibre Expansion, HFCL Showcase s High-d ensity  Advanced 
+Fibre Solutions  
+ 
+• High -fibr e density cables  designed to accelerate gigabit -capable network builds and reduce costs by 
+minimi sing the need for additional duct installations, ideal for ambitious projects like Building Digital UK 
+(BDUK)  
+• Innovative cable design  increases fibr e count by 50% within the same 2.4mm diameter used for 24F 
+cables, driving higher efficiency  
+• New aerial cable technology  approved by Openreach's Physical Infrastructure Access (PIA), enabling 
+seamless connectivity even in extremely dense environments  
+• HFCL’s UK offices and warehousing facilities along with  local expertise  deliver industry -leading 
+service, ensuring sustainable full -fibre  deployment and unparalleled customer support  
+ 
+London, September 12, 2024:  HFCL, one of the leading technology enterprise s and integrated next -gen 
+communications  product and solution provider s, yesterday  showcased its latest  range  of innovative  high -
+density blown fibre solutions  at the  Connected Britain 2024  event.   
+ 
+The solutions include a comprehensive  range of products including – a Compact Fibre Units (CFU) with 
+capacities of up to 12 fibres, available in sizes between 1.1mm and 1.6mm  diameter . A 36F Fibre Blown 
+Nano family cable with a 2.4mm diameter. A nd a  new Openreach’s PIA approved 1F Aerial Drop Cable , with 
+a 1mm diameter,  has also been introduced. Together, these offerings will enable UK operators to connect 
+customers more quickly, cost- effectively, and sustainably.  
+  
+These new additions,  further expand HFCL’s extensive  optical fibre solution portfolio, paving the way for 
+advanced fibre infrastructure and fast er broadband rollouts in the UK, targeting Building Digital UK (BDUK) 
+initiative . 
+ 
+To accelerate digital connectivity in the UK, HFCL has unveiled a tailored portfolio of 1F -12F compact fibre  
+units (CFUs). These CFUs  feature a low -friction HDPE  (High- Density  Polyethylene)  jacket, designed for 
+efficient, long -distance installations in microducts. Capable of being jetted up to 1km at speeds exceeding 
+80 meters per minute, they deliver exceptiona l performance. The 12F and 6F units are ideal for low -fibre  
+count distribution networks using small microducts, such as FTTA networks, while the 1F, 2F, and 4F units 
+are perfect for final access even in the smallest microducts.  Available in recyclable card board pans or 
+reusable/  recyclable spools, with lengths up to 6km, these ultra -compact fibre  units also lower 
+transportation costs per fibre -kilometre , reducing environmental impact and the carbon footprint 
+associated with network construction.  
+ 
+Another new component of HFCL’s end -to-end fibre solution is the addition of a 36 F version to its already 
+successful 2 -24 Fibre Blown Nano family , with a diameter range of 2mm - 2.4mm. This new version 
+maintains the same 2.4mm diameter as the 24F  cable, incorporat ing customised low -friction jacketing and 
+HFCL’s world -class 200 -micron single -mode optical fibre . This cable is uniquely designed to is e fibre  count 
+in the smallest microducts, increasing the maximum available fibre count in a 2.4mm unit by 50%.  
+ 
+The increased fibre  density enables operators to maximis e capacity within existing duct networks, avoiding  
+the need for costly civil works to install new ducts. This higher packing density is also advantageous for 
+operators leasing duct space, as it allows  costs to be distributed across a larger number of fibres.  HFCL has 
+consciously implemented eco- friendly measures in the manufacturing of this cable, offering sustainable 
+benefits by minimis ing the use of plastics and gel per fibre -kilometre and utilis ing recyclable reels . 
+ 
+ 
+The PIA approved 3.5mm 1F aerial drop cable brings a cost effective and high -quality solution to customers. 
+With Openreach's PIA approval, telecom providers can leverage existing infrastructure  to install this 1F 
+aerial drop cable. It is  compatible with two leading clamps and works seamlessly with top Aerial Subscriber 
+Nodes  (ASN) . An ASN is a crucial component in network infrastructure that enables last- mile connectivity, 
+typically in rural or hard -to-reach areas. Mounted on aerial cable poles, it facilitates high -speed internet 
+access by connecting subscribers to the main fibre  optic network or wireless network.  
+ 
+Speaking on the launch of the  fibre solutions , Mr. Harsh Pagay, Executive President, OF & OFC, HFCL , 
+said, “ With over 35 years  of experience, HFCL has emerged as a  market  leader in providing telecom 
+infrastructure, enabling leading telecom operators and ISPs  in their digital transformation journeys. W ith our 
+end-to-end optical solution offerings from fibre, fibre cables, and opti cal interconnect kits , we are a partner of 
+choice by our customers world over for years. With the UK government investing in nationwide  infrastructure  
+upgrad e, the UK market holds huge potential for HFCL in supporting the growing appetite of 5G networks and 
+single -build FTTH deployments. Our unwavering commitment towards innovation, customer -centricity, and 
+building future -ready infrastructure,  positions us a trusted partner in reshaping the future and making 
+significant contributions to the UK’s digital landscape .” 
+ 
+Rob Gilbert, VP - UK & Ireland, HFCL,  said, “ We are excited to launch our innovative, next -gen Compact 
+Fibre Unit s and extended Nano cable range in  the UK, one of the leading global economies and a priority 
+market for HFCL. We aim to share our expertise, resources, and technolog y (directly or via our trusted 
+partners) to help telecom operators in the UK extend the reach of their network infrastructur e and digital 
+services to remote and underserved areas. Our experienced UK -based team, along with local offices and 
+warehousing facilities, is focused on developing eco -friendly solutions, underscoring our commitment to 
+supporting full fibre, yet sustainab le, deployment in the UK .” 
+ 
+For FY 2024 -25, Building Digital UK (BDUK) is focused on expanding gigabit- capable connectivity to hard-
+to-reach areas across the UK. This initiative supports the government's goal of achieving at least 85% 
+gigabit coverage by 2 025, through a mix of commercial builds and subsidis ed projects. BDUK also aims to 
+extend gigabit- capable broadband nationwide by 2030.  
+ 
+This solution range launched by HFCL is designed to meet the network requirements of telcos and multiple 
+system operators (MSOs) deploying FTTx services in microducts, targeting markets in the UK, Europe, and 
+North America. HFCL's innovative approach and focus on sustainability set these products apart from 
+competitors, offering superior performance with unmatched customer service.  
+ 
+About HFCL  
+HFCL is a leading technology company specializing in creating digital networks for telcos, enterprises, and 
+governm ents. Over the years, HFCL has emerged as a trusted partner offering sustainable high -tech 
+solutions with a commitment to providing the latest technology products to its customers. HFCL’s strong R&D expertise coupled with its global system integration services and decades of experience in fibre  optics 
+enable it to deliver innovative digital network solutions required for the most advanced networks.  
+The Company’s in- house R&D Centres  located in India at Gurgaon, Bengaluru and Hyderabad along with 
+invested R&D houses and other R&D collaborators at different locations in India and abroad, innovate a futuristic range of technology products and solutions. HFCL has developed capabilities to provide premium 
+quality Optical Fibre  and Optical Fibre  Cables, state - of-the-art telecom products including 5G Radio Access 
+Network (RAN) products, 5G Transport Products, Wi- Fi Systems (Wi -Fi 6, Wi -Fi 7), Unlicensed Band 
+Radios, Switches, Routers and Defence electronics products.  
+The Company has state -of-the-art Optical Fibre and Optical Fib re Cable manufacturing plants in Hyderabad, 
+and Optical Fib re Cable manufacturing plants in Goa and at its subsidiary HTL Limited in Chennai.  
+ 
+HFCL is a partner of choice for its customers across India, UK,  Europe, Asia Pacific, the Middle East, Africa, 
+and North America. HFCL’s commitment to quality and environmental sustainability inspires it to innovate 
+solutions for the ever- e volving customer needs. 
+Visit www.hfcl.com and https://hfcl.com/ofc/en-g b/ for more information. 
+For f urther d etails, p lease c ontact: 
+HFCL  Limited  
+Manoj  Baid  | Amit  Agarwal | Alok  Chander  
+Email: manoj.baid@hfcl.com  
+amit.agarwal@hfcl.com  
+alok@hfcl.com  
+Contact:  011  35209400  Adfactors  PR 
+Snigdha Nair  | Vasundhra  Sethi  | Akshataa Acharya  
+Email:  snigdha.nair@adfactorspr.com  
+vasundhra.sethi@adfactorspr.com  
+akshataa.acharya@adfactorspr.com  
+Contact:  9920481191  | 7428508927  | 9148730795  

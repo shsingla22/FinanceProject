@@ -1,0 +1,121 @@
+ 
+Netweb Technologies India Limited  
+Plot No. H -1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, 
+Haryana 121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E-mail : complianceofficer@netwebindia.com  
+ 
+CIN : L72100HR1999PLC103911  
+Date: 29.04.2026  
+To,   
+The Manager    
+Listing Department    
+BSE Limited    
+Phiroze Jeejeebhoy Towers Dalal Street   
+Mumbai - 400001    
+Scrip Code: 543945    To,  
+The Manager    
+Listing Department    
+National Stock Exchange of India Limited    
+Exchange Plaza, Bandra Kurla Complex   
+Bandra East, Mumbai - 400051   
+Scrip Code: NETWEB    
+ 
+SUBJECT: INTIMATION OF PRESS RELEASE  
+Dear Sir/ Madam,  
+Please find enclosed herewith the Press Release dated April 29, 2026 , regarding Netweb 
+Technologies Introduces Tyrone ParallelStor Velox — A Unified Data Platform Powering AI, 
+HPC, and Enterprise Infrastructure  issued by the Company.  
+Kindly take the same on record.  
+Thanking you,  
+For Netweb Technologies India Limited  
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+Netweb Technologies Introduces Tyrone ParallelStor Velox — A Unified Data Platform 
+Powering AI, HPC, and Enterprise Infrastructure  
+New Delhi, India – April  29, 202 6 – Netweb Technologies today announced Tyrone ParallelStor 
+Velox, a Unified Data Platform with parallel file system capabilities, designed to address one of 
+the most critical challenges in modern computing: the data bottleneck in AI infrastructure.  
+ 
+As organizations scale AI workloads and deploy increasingly powerful GPU clusters, a 
+fundamental constraint has emerged, while compute performance has advanced rapidly, data 
+infrastructure has not kept pace.  
+ 
+AI performance is no longer limited by compute ;  it is limited by data.  
+ 
+Fragmented storage environments, duplicated datasets, and inconsistent access models are slowing 
+down AI pipelines, underutilizing expensive compute resources, and increasing operational 
+complexity. ParallelStor Velox is built to solve this problem.  
+A Data Backbone for AI -Scale Infrastructure  
+ 
+Velox acts as a high -performance data backbone for AI, HPC, and enterprise workloads, ensuring 
+that data can be accessed, moved, and processed at the speed modern compute demands.  
+ 
+By unifying data across flash, disk, tape, and cloud into a single global namespace, Velox 
+eliminates silos and enables seamless, high -speed access across environments.  
+ 
+This allows AI pipelines, analytics frameworks, and enterprise applications to operate on a single, 
+consistent data layer — without duplication or delays.  
+Designed to Eliminate the Data Bottleneck  
+ 
+Traditional storage architectures were built for capacity. Velox is engineered for data velocity and 
+scale.  
+ 
+To further accelerate AI data pipelines, Velox supports advanced data path optimization 
+technologies.:  
+ 
+• High -throughput data pipelines to feed GPU clusters efficiently  
+• Concurrent access at scale for AI training, simulation, and analytics  
+• Consistent performance across distributed environments  
+• Elimination of redundant data copies across file and object workloads  
+• Support for NVIDIA GPUDirect Storage, enabling direct data transfer between storage and 
+GPU memory, bypassing CPU overhead and significantly reducing latency for AI/ML 
+workloads  
+The result is higher GPU utilization, faster model training, and improved infrastructure efficiency.  
+ 
+Unified Data Across Hybrid and Distributed Environments  
+Modern enterprises operate across data centers, edge locations, and multi -cloud environments. This 
+fragmentation introduces inefficiencies, increases storage costs, and limits agility.  
+ 
+Velox addresses this by providing:  
+• A single unified data platform across on -prem and cloud environments  
+• Multi -protocol access (POSIX, NFS, SMB, S3/Swift, Hadoop) on the same dataset  
+• Policy -driven data lifecycle management, aligning performance and cost with data usage  
+ 
+Data is automatically placed on the appropriate tier — from high -performance flash to cost -efficient 
+object storage or tape — without changing how users and applications access it.  
+ 
+Built for Sovereign and Mission -Critical Infrastructure  
+ParallelStor Velox is designed for data -intensive, high -growth sectors, including:  
+ 
+• AI & HPC / Research – powering model training, simulations, and advanced analytics  
+• Government & Public Sector – enabling sovereign data infrastructure with unified control and 
+compliance  
+• BFSI – supporting real -time analytics, risk modeling, and regulatory data environments  
+ 
+Built in India, Velox aligns with the growing need for sovereign AI infrastructure, offering 
+organizations greater control, security, and scalability over their data environments.  
+ 
+Leadership Perspective  
+“AI infrastructure is only as effective as the data layer behind it. Without high -performance data 
+pipelines, even the most advanced compute systems remain underutilized,” said Swastik 
+Chakraborty, VP, Netweb Technologies.   
+ 
+“With Tyrone ParallelStor Velox, we are enabling organizations to move beyond fragmented 
+storage and adopt a unified data platform that can keep pace with AI, HPC, and enterprise 
+workloads at scale.”  
+Key Capabilities  
+• AI-Ready Data Backbone – Optimized for high -throughput, low -latency access  
+• Unified Data Platform – Single global namespace across storage tiers  
+• Parallel Performance at Scale – High IOPS and throughput with scalability  
+• Multi -Protocol Access – POSIX, NFS, SMB, S3/Swift, Hadoop  
+• Intelligent Data Lifecycle Management – Automated tiering  
+• Enterprise -Grade Security & Resilience – Built -in protection and governance   
+About Netweb Technologies  
+Netweb is India’s leading high -end computing solutions (HCS) provider, with fully integrated 
+design and manufacturing capabilities. Netweb’s HCS offering comprises HPC, Private cloud and 
+HCI, AI Systems, High performance storage (HPS) and Data Centre Servers. Founded in 1999, and 
+headed by Mr. Sanjay Lodha, Chairman and Managing Director, Netweb has helped many 
+companies globally by following a customer centric approach. Netweb has manufac turing facility 
+in Delhi - NCR and 18 offices across India. Netweb got listed at NSE and BSE in July 2023   

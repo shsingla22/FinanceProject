@@ -1,0 +1,380 @@
+ 
+ 
+                      Indegene Limited   
+                                                                                                                                                                    Third Floor, Aspen G -4 Block, Manyata Embassy  
+Business Park (SEZ), Outer Ring Road, Nagawara, Bengaluru - 
+560 045, Karnataka, India  
+Phone: +91 80 4674 4567, +91 80 4644 7777  
+compliance.officer@indegene.com   
+www.indegene.com  
+CIN: L73100KA1998PLC102040   
+  
+INDGN/SE/2026 -27/31 
+ 
+17 July 2026  
+ 
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001, India.  
+Scrip Code: 544172  National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051, India.  
+Trading symbol: INDGN  
+ 
+Dear Sir / Madam,  
+ 
+Subject: Business Responsibility and Sustainability Report for Financial Year 202 5-26 
+ 
+Pursuant to Regulations 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations & Disclosure 
+Requirements) Regulations 2015 (“ SEBI Listing Regulations”), please find enclosed t he Business Responsibility and 
+Sustainability Report (“BRSR”) for financial year 202 5-26,  
+ 
+The BRSR also forms an integral part of the Annual Report of Indegene  Limited for financial year 202 5-26.  
+ 
+The above information will be made available on the website of the Company: https://www.indegene.com/    
+ 
+We request you to kindly take the same on record.  
+ 
+Thanking You  
+ 
+Yours Sincerely,  
+For Indegene Limited  
+ 
+ 
+ 
+ 
+Srishti Ramesh Kaushik  
+Company Secretary and Compliance Officer  
+M. No. A21609  
+Encl: A/a 
+ 
+BUSINESS RESPONSIBILITY &  
+SUSTAINABILITY REPORT
+At Indegene, sustainability and responsible business practices continue to remain integral to the way we operate and create 
+value. Over the past year, we have strengthened our commitment to building a future-ready healthcare ecosystem by further 
+embedding Environmental, Social, and Governance (“ESG”) considerations into our strategic priorities, operational processes, 
+and decision-making frameworks. As a tech-native, life sciences specialist, we remain focused on orchestrating the path from 
+commercialization strategy through activation while ensuring that our growth is responsible, inclusive, and aligned with long-
+term sustainability objectives.
+Following the publication of our first Business Responsibility and Sustainability Report (“BRSR”) for FY 2024–25, we are 
+pleased to present our subsequent disclosure for FY 2025–26. This report reflects our continued commitment to transparency, 
+consistency, and accountability in ESG reporting. It builds upon the foundations established in the previous year, with enhanced 
+disclosures, strengthened internal processes, and improved alignment of ESG priorities with business strategy.
+Structured in accordance with the nine principles of the National Guidelines on Responsible Business Conduct (“NGRBC”) 
+and compliant with Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this 
+report provides a comprehensive overview of our ESG performance and progress. It highlights how we are operationalising 
+our commitments across governance, environmental stewardship, and social responsibility, while also responding to evolving 
+stakeholder expectations and regulatory developments.
+Through this BRSR, we aim to offer our stakeholders a clear and credible view of our sustainability journey, demonstrating not 
+only continuity in our commitments but also measurable progress in key areas. As we move forward, we remain committed 
+to strengthening our ESG practices, driving innovation in sustainable healthcare delivery, and creating enduring value for all 
+our stakeholders.
+SECTION A: GENERAL DISCLOSURES
+I. Details of the Listed Entity
+1Corporate Identity Number (CIN) of the Listed Entity L73100KA1998PLC102040
+2Name of the Listed Entity Indegene Limited (“the Company”)
+3Year of incorporation 1998
+4Registered office address Aspen G4, 3rd Floor, Manyata Embassy Business Park 
+Outer Ring Road, Nagavara, Bangalore, Karnataka, 
+India – 560 045
+5Corporate address Aspen G4, 3rd Floor, Manyata Embassy Business Park 
+Outer Ring Road, Nagavara, Bangalore, Karnataka, 
+India – 560 045
+6E-mail compliance.officer@indegene.com
+7Telephone +91 8046744567, +91 8046447777
+8Website https://www.indegene.com  
+9Financial year for which reporting is being done FY 2025 – 2026
+10Name of the Stock Exchange(s) where shares are listed National Stock Exchange of India Limited (“NSE”) and 
+BSE Limited (“BSE”)
+11Paid-up Capital INR 481802708
+12Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSRSrishti Ramesh Kaushik
+compliance.officer@indegene.com
++91 8046744567, +91 8046447777
+13Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together)Disclosures made in this report are on a standalone 
+basis and pertain only to Indegene Limited
+14Name of assurance provider TÜV SÜD South Asia Pvt. Ltd.
+15Type of assurance obtained Reasonable Assurance as per ISAE 3000
+Indegene Limited
+01
+
+II. Products/Services
+16. Details of business activities (accounting for 90% of the turnover):
+S. No. Description of Main Activity Description of Business Activity % of Turnover of the entity
+1 Other Professional, Scientific & 
+Technical activitiesOther Professional, Scientific & 
+Technical activities100%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No. Product/Service NIC Code % of total Turnover contributed
+1 Service M 749 100%
+III. Operations
+18.	 Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:
+Location Number of plants Number	of	offices Total
+National 0 6 27
+International 0 21
+19. Markets served by the entity:
+a. Number of locations
+Locations Number
+National (No. of States) 5
+International (No. of Countries) 58
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+The contribution of exports as a percentage of the total turnover of the Company is:
+FY 2025-2026 FY 2024-2025 Remarks
+98.47% 98.27% (Including Inter-Company revenue)
+c. A brief on types of customers
+The Company provides AI-embedded commercialization services for the life sciences industry, which includes biopharmaceutical, 
+emerging biotech, and medical devices companies. Biopharmaceutical segment comprises companies that discover, develop, 
+manufacture, and sell drugs (chemical and biological-based) to treat, vaccinate, or alleviate symptoms of medical conditions 
+or diseases. Medical devices segment comprises companies involved in the research, development, production, and sale of 
+systems and devices of medical applications, i.e., to treat or diagnose diseases or medical conditions. Emerging biotech segment 
+comprises companies that derive their products from the extraction or manipulation of living organisms and are in the process 
+of developing products and technologies that improve our lives and the health of our planet.
+Indegene Limited Annual Report  2025-26
+02
+IV. Employees
+20. Details as of 31 March 2026:
+a. Employees and workers* (including differently abled):
+S. 
+No.Particulars Total (A) Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Employees
+1 Permanent (D) 4679  2598  55.52%  2081  44.48% 
+2 Other than Permanent (E) 488  299  61.27%  189  38.73% 
+3 Total Employees (D+E) 5167  2897  56.07%  2270  43.93% 
+Differently abled Employees No. (B) % (B / A) No. (C) % (C / A)
+1 Permanent (D) 8 5 62.50% 3 37.50%
+2 Other than Permanent (E) 0 0 0.00% 0 0.00%
+3 Total Employees (D+E) 8 5 62.50% 3 37.50%
+• *All our workforce is categorized as ‘Employees’, and none as ‘Workers’.
+• Total Employees (D+E) includes differently abled employees.
+• Trainees and Interns are considered as Permanent Employees.
+21. Participation/Inclusion/Representation of women
+Particulars Total (A) No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 11 2 18.18%
+Key Management Personnel 4 1 25.00%
+22. Turnover rate for permanent employees and workers
+FY 2025-2026 FY 2024-2025 FY 2023-2024
+Male Female Total Male Female Total Male Female Total
+Permanent Employees* 16.10% 16.68% 16.35% 16.72% 17.69% 17.13% 13.09% 20.33% 16.16%
+*Turnover rate for permanent employees records only voluntary attrition.
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. a. Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No. Name of the holding/ 
+subsidiary/ associate 
+companies/ joint 
+ventures (A)Indicate whether 
+holding/ subsidiary/ 
+associate companies/ 
+joint ventures% of shares held by the 
+listed entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+1 Indegene Limited Holding NA Yes
+2 ILSL Holdings, Inc. Subsidiary 100% Yes
+3 Indegene Healthcare 
+Mexico S DE RL DE CVSubsidiary 100% Yes
+4 Indegene Ireland Limited Subsidiary 100% Yes
+5 Indegene, Inc. Subsidiary 100% Yes
+6 Cult Health LLC Subsidiary 100% Yes
+7 BioPharma Parent 
+Holding, Inc.Subsidiary 100% Yes
+8 DT Associates Research 
+and Consulting Services, 
+Inc.Subsidiary 100% Yes
+Indegene Limited
+03
+
+S. 
+No. Name of the holding/ 
+subsidiary/ associate 
+companies/ joint 
+ventures (A)Indicate whether 
+holding/ subsidiary/ 
+associate companies/ 
+joint ventures% of shares held by the 
+listed entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No)
+9 Cake Kommunications 
+Holding GmbHSubsidiary 100% Yes
+10 Indegene Japan Godo 
+KaishaSubsidiary 100% Yes
+11 Indegene Healthcare 
+Germany GmbHSubsidiary 100% Yes
+12 Indegene Europe LLC, 
+SwitzerlandSubsidiary 100% Yes
+13 Indegene Fareast Pte. 
+LimitedSubsidiary 100% Yes
+14 MJL Communications 
+Group LimitedSubsidiary 100% Yes
+15 Indegene Lifesystems 
+Consulting (Shanghai) Co., 
+LimitedSubsidiary 100% Yes
+16 Indegene Healthcare UK 
+LimitedSubsidiary 100% Yes
+17 Warn and Co Limited Subsidiary 100% Yes
+18 Indegene Spain S.L.U Subsidiary 100% Yes
+19 Trilogy Writing and 
+Consulting GmbHSubsidiary 100% Yes
+20 Indegene Healthcare 
+Canada, Inc.Subsidiary 100% Yes
+21 BioPharma 
+Communications LLCSubsidiary 100% Yes
+22 Addressable Health LLC Subsidiary 100% Yes
+23 Cake Kommunications 
+GmbH (DE)Subsidiary 100% Yes
+24 Cake Kommunikations AG Subsidiary 100% Yes
+25 Cake Kommunikations 
+GmbH (AT)Subsidiary 100% Yes
+26 MJL Advertising Limited Subsidiary 100% Yes
+27 Trilogy Writing and 
+Consulting Limited (UK)Subsidiary 100% Yes
+28 DT Associates Research 
+and Consulting Services 
+LimitedSubsidiary 100% Yes
+29 Trilogy Writing and 
+Consulting, Inc. (US)Subsidiary 100% Yes
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+ (ii) Turnover (in ₹): ₹12,206 Mn
+ (iii) Net Worth (in ₹):  ₹20,804 Mn
+Indegene Limited Annual Report  2025-26
+04
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder group 
+from whom complaint 
+is receivedGrievance 
+Redressal 
+Mechanism in Place 
+(Yes/No) (If yes, 
+then provide web-
+link for grievance 
+redressal policyFY 2025-26 FY 2024-25
+Number of
+complaints
+filed	
+during
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks Number of
+complaints
+filed	
+during
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities & NGOs
+Yes 
+(whistleblower@
+indegene.com  and 
+investor.grievance@
+indegene.com )Nil Nil Nil Nil Nil NA
+Investors (other than
+shareholders)Nil Nil Nil Nil Nil NA
+Shareholders 10 Nil NA 4387 Nil NA
+Employees and workers Nil Nil Nil Nil Nil NA
+Customers Nil Nil Nil Nil Nil NA
+Value chain partners Nil Nil Nil Nil Nil NA
+Other (please specify) Nil Nil Nil Nil Nil NA
+26. Overview of the entity’s material responsible business conduct issues. Please indicate material responsible business 
+conduct and sustainability issues pertaining to environmental and social matters that present a risk or an opportunity 
+to	your	business,	rationale	for	identifying 	the	same,	approach	to	adapt	or	mitigate	the	risk	along-with 	its	financial	
+implications, as per the following format
+S. 
+No.Material issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for identifying 
+the risk / opportunityIn case of risk, approach 
+to adapt or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1 Climate 
+Change 
+and GHG 
+emissionsImpact Material ESG impact associated 
+with Climate Change and GHG 
+emissions. As a digital-first life 
+sciences commercialisation 
+and healthcare technology 
+services company, Indegene 
+has a comparatively lower 
+direct emissions footprint than 
+manufacturing-led companies. 
+However, climate change and 
+GHG emissions remain relevant 
+due to office operations, 
+purchased electricity, business 
+travel, cloud/data centre usage 
+and increasing climate-related 
+expectations from global 
+life sciences clients. The 
+topic presents a risk where 
+failure to monitor and reduce 
+emissions could affect client 
+expectations, ESG ratings and 
+regulatory preparedness. It 
+also presents an opportunity to 
+improve operational efficiency, 
+strengthen ESG positioning 
+and align with clients’ 
+decarbonisation priorities.Establish and maintain 
+a GHG inventory 
+covering Scope 1, Scope 
+2 and relevant Scope 
+3 categories; monitor 
+electricity and business 
+travel emissions; engage 
+with cloud/data centre and 
+key service providers on 
+emissions performance; 
+strengthen energy 
+efficiency and renewable 
+energy procurement; 
+and integrate climate-
+related considerations 
+into enterprise risk 
+management and 
+business continuity 
+planning.Positive: Improved 
+ESG positioning, better 
+alignment with client 
+sustainability requirements 
+and potential reduction in 
+energy-related operating 
+costs.
+Negative: Inadequate 
+emissions management 
+may lead to higher 
+compliance costs, 
+reputational risk, reduced 
+competitiveness in ESG-
+sensitive client bids and 
+increased exposure to 
+future climate disclosure 
+expectations.
+Indegene Limited
+05

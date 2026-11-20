@@ -1,0 +1,119 @@
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+TCS/PR/SE/ 04/2026-27 
+April 28, 2026  
+National Stock Exchange of India Limited     BSE Limited  
+Exchange Plaza, C -1, Block G,  P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)  Dalal Street,  
+Mumbai - 400051  Mumbai - 400001  
+Symbol - TCS   Scrip Code No. - 532540  
+Dear Sirs,  
+Sub: Press Release  
+We are sending herewith copy of the Press Release titled  “TCS and Australian Securities 
+Exchange (ASX) go -live with CHESS Release 1 for cash clearing & settlement ” which 
+will be disseminated shortly.
+The Press release is self -explanatory.  
+Thanking you,  
+Yours faithfully,  
+For Tata Consultancy Services Limited  
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+Encl: as above  
+Page 1 of 3 
+TCS and Australian Securities Exchange (ASX) go -live with CHESS 
+Release 1 for cash clearing & settlement  
+The deployment on TCS BaNCS for Market Infrastructure and Quartz solutions provides the ASX with  a 
+modern, high performance, scalable and resilient cloud solution  
+SYDNEY  | MUMBAI , April  28, 202 6: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global leader 
+in IT services, consulting, and business solutions , has successful ly contributed  to Release 1 of ASX’s Clearing 
+House Electronic Subregister System (CHESS) program , marking an important milestone in the modernisation 
+of Australia’s critical financial market infrastructure . This is a key step i n ASX’s digital transformation journey 
+in partnership with TCS.  
+CHESS is the system used to facilitate the clearing and settlement of trades in eligible financial product s. It 
+facilitates the transfer of legal title to securities through the CHESS sub -register and enables delivery -verses -
+payment settlement by transferring securities and cash between buyers and sellers . Release -1 of the CHESS 
+Project delivers the new clearing component.   
+As part of the ASX CHESS  Project , TCS implemented its flagship TCS BaNCS for Market Infrastructure and 
+Quartz Gateway solutions. Together, they deliver a high -performance, scalable and resilient CCP clearing 
+solution for multiple asset classes. The solution supports real -time trade novat ion and netting and is 
+compliant with industry standards. It provides connectivity to multiple Australian exchanges and supports 
+ISO 15022, ISO 20022 and FIX messaging standards. The solution is hosted in the cloud and has been 
+benchmarked to process more than 20 million trades per day, supporting ASX’s future growth with improved 
+resilience and scalability.  
+Tim Whiteley, Chief Information Officer, ASX, said “Release 1 of the CHESS Project marks a significant 
+milestone in the modernisation of Australia’s critical market infrastructure supporting post -trade clearing and 
+settlement services. With CHESS Release 1 in production, ASX is very proud of the outcomes ac hieved with TCS 
+as our technology partner having deployed a modern, secure, resilient and scalable solution for the Australian 
+market. Leveraging the expertise of TCS and their experience with markets inf rastructure in other jurisdictions 
+has enabled us to confidently put Release 1 into production and we are progressing with Release 2, targeted 
+to go -live 2029. ”  
+R Vivekan and, President BFSI Products and Platforms, TCS, said “We are proud to have partnered with ASX 
+on their modernization strategy and the successful Go -Live of CHESS Release -1.  Together, we have smoothly 
+implemented a world class platform that sets a strong foundation to drive  the future growth and development 
+of Australian financial market s. The rich functionality and straight through processing  capabilities  of TCS 
+BaNCS and Quartz establishes our next -generation platform as a leader in the post -trade landscape. We now 
+look forward to working with ASX on a similar seamless execution in Release -2.” 
+ASX is delivering the CHESS Replacement Project  in two releases, a staged approach developed in close 
+consultation with industry to manage change and reduce implementation risk for critical market 
+infrastructure  systems . With the successful completion of Release -1, TCS and ASX along with industry 
+participants have commenced work for Release -2 of the CHESS Replacement Program.  
+ 
+Page 2 of 3 
+ 
+TCS BaNCS for Market Infrastructure caters to the evolving business needs of Exchange s, CCPs and CSDs, 
+supporting their end -to-end operations across multiple asset classes, ranging from issuance, clearing, risk 
+management, depository and registry functions, to cross -border settlement, pledge, collateral management, 
+repo and securities lendi ng and borrowing. It support s both omnibus and end -investor accounting along with 
+support for multiple settlement models  and settlement optimization to help manage liquid ity across both 
+securities and cash.  
+It is complemented by TCS’ Quartz solutions providing standards -based  industry integration and the ability 
+to provide  services including  decentralized settlement  and tokenisation  based on distributed technology . Its 
+co-existence approach for supporting both ISO 15022 and ISO 20022 standards enables a seamless and 
+efficient transition to ISO 20022.  
+TCS has been strengthening its presence in Australia for over 35 years and serves as a partner to most of the 
+top 10 listed companies in the region. The company has operations in five locations across the country  and 
+has also been recogni sed among LinkedIn’s Top 25 companies to work for and as a top employer in the region 
+by the Top Employers Institute.    
+ 
+About Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service . 
+  
+It has set an aspiration to become the world's largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 55 
+countries and 202 service delivery centres  across the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long term partnerships with its client s. Many of these relationships have endured into de cades and 
+navigated every technology cycle, from mainframes in the 1970s to artificial intelligence today.  
+  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  
+  
+TCS generated  consolidated  revenues of over US $30 billion in the fiscal year ended March 31, 2026.   
+  
+For more information, visit www.tcs.com   
+  
+Follow TCS on LinkedIn | Instagram  | YouTube | X 
+ 
+  
+ 
+Page 3 of 3 
+ 
+TCS Media Contacts:  
+ 
+Corporate 
+Communication 
+& India   Email:  corporate.communications@tcs.com   
+Email:  santosh.castelino@tcs.com  | Phone: +91 22 6778 9999  
+Australia and 
+New Zealand   Email:  Francesca.Newby@tcs.com  | Phone: +61 414 902 440  
+ 
+### 

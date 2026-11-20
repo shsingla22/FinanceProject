@@ -1,0 +1,709 @@
+ 
+ VEDL/Sec./SE/2 4-25/71                              June  18, 2024 
+ 
+BSE Limited                           National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers            “Exchange Plaza”  5th Floor Plot No., C/l, G Block  
+Dalal Street, Fort            Bandra -Kurla Complex, Bandra (East),  
+Mumbai - 400 001            Mumbai – 400 051 
+  
+Scrip Code: 500295         Scrip Code: VEDL  
+ 
+Sub:  Business Responsibility and Sustainability Report ( “BRSR” ) for the Financial Year 202 3-24 
+ Dear Sir/Madam,  
+ Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended from time to time , please find enclosed 
+herewith the BRSR for the Financial Year 2023 -24, along with Independent Auditors’ Reasonable 
+Assurance Report provided by M/s. Mazars Advisory LLP . 
+ The BRSR forms the part of the Integrated Annual Report for the Financial Year 2023 -24, submitted to 
+the stock exchange( s) vide letter no. VEDL/Sec./SE/24 -25/70 dated June 18, 2024  and has been also 
+made available on the website of the Company at www.vedantalimited.com . 
+ We request you to please take the above on record.  
+  
+Thanking you . 
+ 
+Yours faithfully,  
+For Vedanta Limited  
+ 
+  Prerna Halwasiya  
+Company Secretary and Compliance Officer  
+ACS: 20856 
+ 
+Enclosed: As above   
+BUSINESS RESPONSIBILITY &  
+SUSTAINABILITY REPORT
+I. Details of the listed entity.
+1. Corporate Identity Number (CIN)  
+of the Listed EntityL13209MH1965PLC291394
+2. Name of the Listed Entity Vedanta Limited
+3. Year of incorporation 1965
+4. Registered office address 1st Floor, C wing, Unit 103, Corporate Avenue Atul Projects, Chakala, Andheri (East), Mumbai, 
+Maharashtra – 400 093, India
+5. Corporate address Core-6, 3rd Floor, Scope Complex 7, Lodhi Road, New Delhi - 110 003
+6. E-mail comp.sect@vedanta.co.in
+7. Telephone +91 22 6643 4500
+8. Website www.vedantalimited.com
+9. Financial year for which reporting is 
+being doneFY 2023-24 
+From 01-04-2023 to 31-03-2024
+10. Name of the Stock Exchange(s) 
+where shares are listedBSE Limited (BSE) 
+National Stock Exchange of India Limited (NSE)
+11. Paid-up capital ` 3,71,75,04,871
+12. Name and contact details of the 
+person who may be contacted in 
+case of any queries on the BRSR 
+reportMr. Rajinder Ahuja
+Group Head – HSE and Sustainability,
+Tel: +91 294 660 4054
+Email: esg@vedanta.co.in
+13. Reporting boundary The disclosures under this report are made on a consolidated basis. Vedanta Group comprises 
+of Vedanta Limited, its Subsidiaries, Associates and Joint Ventures, the details of which are 
+given in point No. 23 of Section A of Business Responsibility and Sustainability Report (BRSR) 
+and on page 323 of the Integrated Report and Annual Accounts FY 2023-24. All these entities 
+are considered for the purpose of Financial Consolidation of the Group; however, for the 
+purpose of reporting data and information in BRSR, we have considered Vedanta Limited, its 
+10 Subsidiaries and 38 sites based on the management’s assessment of materiality, the list 
+of which are given as appendix to BRSR. The following categories of Entities/Sites have not 
+been considered for the purpose of this report:
+• Newly incorporated Entities or Entities/Sites operational for less than 12 months;
+• Non-operational/ intermittent operational Entities/Sites; and entities/sites discontinued 
+or outsourced.
+Further, the GHG footprint, Water footprint, Energy footprint and details of the Waste 
+Management with respect to the following have not been considered, based on our 
+assessment of being immaterial to the Group’s reporting:
+• The Corporate Offices with respect to the Entities as considered under the Reporting 
+Boundary.
+• Guesthouses and Colonies being owned and maintained by the Group.
+Furthermore, for the purpose of BRSR reporting, following methodology has been used:
+• The financial numbers used in some of the indicators of the BRSR are extracted from the 
+Integrated Report and Annual Accounts FY 2023-24.
+• While the financial numbers related to certain entities include inter-company consolidation 
+adjustments as per the applicable financial reporting framework (net figures), the non-
+financial data used in some of the indicators of the BRSR related to these entities are given 
+without adjustments (gross figures). Further, some of the Entities/ Sites are considered for 
+the purpose of said financial numbers, which may have been excluded from the Reporting 
+Boundary.
+• Some of the Entities are considered for the purpose of preparation of the BRSR on full 
+consolidation method, without adjusting for minority interest in the relevant group entity, 
+based on operational control, as per our assessment.
+• In certain newly incorporated indicators, previous year figures have not been provided.
+14. Name of Assurance Provider Mazars Advisory LLP
+15. Type of Assurance obtained BRSR Core: Reasonable
+BRSR (Rest of indicators): LimitedII Products/Services
+ 16. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main Activity Description of Business Activity % of Turnover of the entity
+1. Manufacturing  Metal and metal products 52.64%
+2. Mining and quarrying Mining of Metal Ores 25.2 %
+3. Oil and Gas Upstream Oil and gas Production 12.39%
+ 17.  Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No. Product/Service NIC Code % of total Turnover contributed
+1 Aluminum Products 24202 32.66%
+2 Zinc Metal 27204 14.95%
+3 Copper Cathode 24201 13.45%
+4 Oil 0610 10.35%
+5 Steel Products 2410 4.48%
+6 Silver Metals 27205 3.83%
+7 Iron Ore 0710 3.76%
+8 Lead Metal 27209 3.40%
+9 Power 3510 3.18%
+10 Gas 0620 2.01%
+III.  Operations
+ 18.  Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants Number of offices Total#
+National 93 15 108*
+International 11 13 24**
+ * This number does not include warehouses operated by Vedanta and its business entities 
+ ** This number includes all international entities under Vedanta Ltd.
+ # This number is notwithstanding the reporting boundary described in Section A-13
+ 19.  Markets served by the entity:
+ a. Number of locations
+Locations Number
+National (No. of States) 28 
+International (No. of Countries) 131*
+  * May include overlap of countries that may serve as a market for more than one of Vedanta’s business/products
+ b. What is the contribution of exports as a percentage of the total turnover of the entity?
+  The contribution of exports is 35.24% of the total turnover of Vedanta Limited.
+ c. A brief on types of customers
+   Vedanta Limited operates in the mining and manufacturing sectors, specialising in the extraction and processing of 
+metal ores, metal and metal products. Additionally, the company is involved in oil and gas exploration and production, 
+as well as power generation and sales. Vedanta’s product portfolio includes a range of minerals and metals such as 
+aluminium, copper, iron ore, zinc, silver, and lead. The company’s primary customers include industrial consumers in 
+sectors such as automotive, steel, power generation, infrastructure, battery manufacturing and oil.SECTION A: GENERAL DISCLOSURES
+320
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL STATEMENT
+ 321
+Business Responsibility & 
+Sustainability Report
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2023-24
+
+IV.  Employees
+ 20. Details as at the end of Financial Year: 
+ a. Employees and workers (including differently abled):
+S. No. Particulars Total
+(A)Male Female Other
+No. (B) % (B/A) No. (C) % (C/A) No. (D) %(D/A)
+EMPLOYEES
+1. Permanent (D) 12,766 10,170 80% 2,596 20%
+2. Other than
+Permanent (E)279 198 71% 81 29%
+3. Total employees (D + E) 13,045 10,368 79% 2,677 21%
+WORKERS
+4. Permanent (F) 4,760 4,555 96% 205 4%
+5. Other than Permanent (G) 79,210 76,828 97% 2,346 3% 36 0.05%
+6. Total workers (F + G) 83,970 81,383 97% 2,551 3% 36 0.04%
+ b. Differently abled Employees and workers:
+S.
+No.Particulars Total
+(A)Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+DIFFERENTL Y ABLED EMPLOYEES
+1. Permanent (D) 10 7 70% 3 30%
+2. Other than Permanent (E) 1 0 0% 1 100%
+3. Total differently abled 
+employees (D + E)11 7 64% 4 36%
+DIFFERENTL Y ABLED WORKERS
+4. Permanent (F) 9 9 100% 0 0%
+5. Other than permanent (G) 19 19 100% 0 0%
+6. Total differently abled 
+workers (F + G)28 28 100% 0 0%
+ 21.  Participation/Inclusion/Representation of women
+Total (A) Number and percentage of Females
+No. (B) % (B/A)
+Board of Directors 8 2 25%
+Key Management Personnel 4* 1 25%
+*  The definition of Key Managerial Personnel (KMP) is as per the Section 2(51) of Companies Act,2013.The term Key Managerial 
+Personnel (KMP) mentioned above includes two members of the Board of Directors.
+ 22. Turnover rate for permanent employees and workers
+FY 2024 * FY 2023 ** FY 2022 **
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 14% 17% 14% 11% 15% 12% 15% 22% 16%
+Permanent Workers *** 7% 8% 7% - - - - - -
+ Note: Turnover rate is calculated as per Full Time Equivalents (FTEs) (includes both Permanent Employees and Permanent Workers)
+* For FY 2023-24, permanent employee headcount is the average of the headcount as on 1 April 2023 and 31 March 2024 
+**  FY 2022-23 and FY 2021-22 the permanent employee headcount is the number of employees as on 31 March of the respective 
+financial years. 
+*** Turnover Rate for Permanent Workers was not monitored in FY 2022-23 and FY 2021-22, hence not reported.V.  Holding, Subsidiary and Associate Companies (including joint ventures)
+ 23.  (a) Names of holding / subsidiary / associate companies / joint ventures*
+   As on 31 March 2024, the Company had 49 subsidiaries, 6 Associates/Joint Venture entities. Please see the table 
+below for further details.
+S. 
+NoName of the holding / subsidiary / 
+associate companies / joint ventures (A)Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture% Of  
+shares held 
+by listed 
+entity Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the 
+listed entity? (Yes/No)
+1. Vedanta Incorporated (formerly known as 
+Volcan Investments Limited)Ultimate Holding 
+Company61.95% Yes
+2. Thalanga Copper Mines Pty Limited (TCM) Subsidiary 100% Yes
+3. Bharat Aluminium Company Limited 
+("BALCO")Subsidiary 51% Yes
+4. Desai Cement Company Private Limited Subsidiary 100% Yes
+5. ESL Steels Limited Subsidiary 95% Yes
+6. Ferro Alloy Corporation Limited ("FACOR") Subsidiary 100% Yes
+7. Hindustan Zinc Alloys Private Limited Subsidiary 100% Yes
+8. Hindustan Zinc fertilisers private Limited Subsidiary 100% No
+9. Hindustan Zinc Limited ("HZL") Subsidiary 65% Yes
+10. MALCO Energy Limited ("MEL") Subsidiary 100% Yes
+11. Sesa Mining Corporation Limited Subsidiary 100% Yes
+12. Sesa Iron and Steel Limited Subsidiary 100% Yes
+13. Sesa Resources Limited ("SRL") Subsidiary 100% Yes
+14. Talwandi Sabo Power Limited ("TSPL") Subsidiary 100% Yes
+15. Vedanta Zinc Football and Sports 
+FoundationSubsidiary 100% Yes
+16. Vedanta Aluminium Metal Limited Subsidiary 100% Yes
+17. Vizag General Cargo Berth Private Limited Subsidiary 100% Yes
+18. Zinc India Foundation Subsidiary 100% Yes
+19. AvanStrate Inc. (''ASI'') Subsidiary 51.63% Yes
+20. Cairn India Holdings Limited Subsidiary 100% Yes
+21. Western Cluster Limited Subsidiary 100% Yes
+22. Bloom Fountain Limited Subsidiary 100% Yes
+23. Amica Guesthouse (Proprietary) Limited Subsidiary 100% Yes
+24. Namzinc (Proprietary) Limited Subsidiary 100% Yes
+25. Skorpion Mining Company (Proprietary) 
+Limited (NZ)Subsidiary 100% Yes
+26. Skorpion Zinc (Proprietary) Limited (SZPL) Subsidiary 100% Yes
+27. THL Zinc Namibia Holdings (Proprietary) 
+Limited (“VNHL”)Subsidiary 100% Yes
+28. THL Zinc Ltd Subsidiary 100% Yes
+29. Killoran Lisheen Mining Limited Subsidiary 100% Yes
+30. Lisheen Milling Limited Subsidiary 100% Yes
+31. Lisheen Mine Partnership Subsidiary 100% Yes
+32. Vedanta Lisheen Mining Limited Subsidiary 100% Yes
+33. Cairn Energy Hydrocarbons Limited Subsidiary 100% Yes
+34. Black Mountain Mining (Proprietary) Limited Subsidiary 74% Yes
+35. Cairn Lanka Private Limited ** Subsidiary 100% No
+36. AvanStrate Korea Inc Subsidiary 100% Yes
+322
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL STATEMENT
+ 323
+Business Responsibility & 
+Sustainability Report
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2023-24
+
+S. 
+NoName of the holding / subsidiary / 
+associate companies / joint ventures (A)Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint Venture% Of  
+shares held 
+by listed 
+entity Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the 
+listed entity? (Yes/No)
+37. Gaurav Overseas Private Limited Associate/ Joint Venture 50% No
+38. Madanpur South Coal Company Limited Associate/ Joint Venture 18% No
+39. Goa Maritime Private Limited Associate/ Joint Venture 50% No
+40. Rosh Pinah Health Care (Proprietary) 
+LimitedAssociate/ Joint Venture 69% No
+41. Gergarub Exploration and Mining (Pty) 
+LimitedAssociate/ Joint Venture 51% No
+42. Roshskor Township (Pty) Limited Associate/ Joint Venture 50% No
+43. Meenakshi Energy Limited Subsidiary 100% Yes
+44. Hindmetal Exploration Services Private 
+Limited Subsidiary 100% No 
+45. Vedanta Base Metals Limited Subsidiary 100% No
+46. Vedanta Displays Limited Subsidiary 100% No
+47. Vedanta Iron and Steel Limited Subsidiary 100% No
+48. Vedanta Semiconductors Private Limited Subsidiary 100% No
+49. THL Zinc Ventures Ltd Subsidiary 100% Yes
+50. Vedanta Copper International VCI Company 
+Limited Subsidiary 100% No
+51. Monte Cello BV (“MCBV”) Subsidiary 100% No
+52. THL Zinc Holding BV Subsidiary 100% No
+53. Fujairah Gold FZC Subsidiary 100% Yes
+54. Vedanta ESOS Trust Subsidiary 100% No
+55. Vedanta Lisheen Holdings Limited Subsidiary 100% No
+56. AvanStrate Taiwan Inc Subsidiary 100% No
+  * This number includes all entities under Vedanta Limited, notwithstanding the reporting boundary described in Section A-13
+  ** This entity is in in liquidation process
+VI. CSR Details
+ 24.  (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: 
+   Yes.
+(ii) Particulars Standalone Consolidated
+Turnover (` in crore) 70, 757 1,43,727
+Net worth ( ` in crore) 65,536 42,069VII. Transparency and Disclosures Compliances
+ 25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place  
+(Yes/No)FY 2024 FY 2023
+(If yes, then provide  
+web-link for grievance 
+redressal policy)Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the yearRemarks Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the yearRemarks
+Communities Yes
+Grievance Mechanism: 
+https://www.vedantalimited.
+com/Media/VSFDocuments/
+Technical%20Standard%20
+V-one/TS%204_
+Grievance%20Mechanisms.
+pdf
+https://www.vedantalimited.
+com/Media/VSFDocuments/
+Social%20Performace%20
+Standards/Social%20
+Performance%20
+Standard%20-%20
+Grievance%20Mechanism.
+pdf246 9 - 24 13 -
+Investors 
+(other than 
+shareholders)Yes
+https://www.vedantalimited.
+com/eng/investor-relations-
+contact.php0 0 - - - -
+Shareholders Yes
+Contact Us | Queries, 
+Concerns and Inquiries 
+or Feedback - Vedanta 
+(vedantalimited.com)476 0 - 387* 0 - 
+Employees 
+and workersYes
+Code of Business Conduct 
+and Ethics: 
+https://www.vedantalimited.
+com/CorporateGovernance/
+Code%20of%20
+Business%20Conduct%20
+and%20Ethics.pdf1,229 60 - 407 60 -
+Customers Yes
+https://vedantametalbazaar.
+moglix.com/#/login300 21 - 94 - -
+Value Chain 
+PartnersYes
+https://www.vedantalimited.
+com/Media/VSFDocuments/
+Technical%20Standard%20
+V-one/TS%204_
+Grievance%20Mechanisms.
+pdf759 46 - Data not consolidated at Group Level
+Other (please 
+specify)Nil
+*This number is restated from last year
+324
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL STATEMENT
+ 325
+Business Responsibility & 
+Sustainability Report
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2023-24
+
+S. 
+NoMaterial issue  
+identifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the risk/ opportunity In case of risk, approach to adapt or mitigate Financial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+1 Climate Change  
+and 
+DecarbonisationRisk and 
+OpportunityRisk:
+Vedanta’s operations are likely to be affected by rising regulatory 
+changes and investor demands aimed at limiting or reducing 
+GHG emissions. This will lead to higher costs for fossil fuels, 
+penalties for emissions exceeding permitted limits and increased 
+administrative costs for compliance monitoring and reporting. 
+For instance, the Carbon Border Adjustment Mechanism will be 
+applicable to our Aluminium as well as Iron and Steel business. 
+The Company would need to potentially pay additional taxes for 
+imports into countries implementing CBAM. Also, CBAM could 
+increase the Company’s risk exposure due to decreased market 
+access. 
+Opportunity:
+Vedanta recognises that transition towards a low carbon 
+economy has resulted in increased demand for low/ zero carbon 
+metals. Vedanta can leverage its expertise and resources to 
+tap into these opportunities while at the same time reducing its 
+carbon footprint.Vedanta’s strategies for mitigating these risks include:
+•  Being a Net Zero carbon business by 2050. Our climate targets 
+are aligned with SBTi’s 2-degree scenario.
+•  GHG emissions intensity of our metal businesses by 20% by  
+FY 2024-25 from a FY 2020-21 baseline.
+• Track long-term tier 1 suppliers’ GHG reduction strategies.
+•  Implement decarbonisation projects to offset emissions from 
+growth pProjects.
+• Launch/Develop low carbon products.
+•  Vedanta plans to dDevelop a Scope 3 emissions reduction 
+roadmap in FY 2024-25.Negative and Positive
+2 Workplace Health 
+and SafetyRisk Risk:
+Neglecting the health and safety of Vedanta’s employees 
+can have significant consequences for the Company. Injuries 
+or illnesses due to unsafe working conditions can result in 
+decreased productivity and efficiency, as affected employees are 
+unable to perform their duties. 
+Additionally, workforce morale can be severely impacted by a 
+lack of focus on health and safety.
+Failing to prioritise health and safety can also lead to increased 
+litigation costs, as accidents or injuries may result in lawsuits 
+seeking compensation for damages, medical expenses, and 
+loss of income. Repeated safety violations or, in extreme cases, 
+fatalities can trigger stringent consequence management for 
+management teams.
+Furthermore, regulatory bodies, industry watchdogs, and 
+stakeholders may impose penalties, fines, or legal action against 
+the Company.The Company has taken some of the following measures to ensure 
+a safe and healthy workplace:
+•  Implementation of Critical Risk Management (CRM) Program 
+across Vedanta sites to identify the root causes of accidents and 
+implementing systemic corrections.
+•  Improving safety infrastructure by deploying engineering 
+solutions.
+•  Regular employee and tier 1 supplier training and senior 
+leadership sessions to reinforce the importance of working safely 
+and stopping work in case of any unsafe situation on the ground.
+• External audit and certifications such as ISO 4500:2018.Negative 26.  Overview of the entity’s material responsible business conduct issues
+   Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format
+Vedanta reviewed its material topics in FY 2023-24 as part of its annual process. In FY 2022-23, Vedanta Limited 
+undertook a detailed evaluation to identify sustainability/ESG issues that are of material importance to execute its 
+business strategy and growth plan. Furthermore, three of our businesses - namely Vedanta Aluminium, Cairn India 
+and Hindustan Zinc Limited conducted independent assessments of ESG topics impacting their businesses.
+The overall assessment approach played a crucial role in appraising the risks and opportunities that Vedanta and its 
+businesses may face as well as in refining our ESG strategy. The comprehensive assessment attempted to follow the 
+principles of double materiality, which involved assessing the impact of Vedanta’s operations on stakeholders (impact 
+materiality), as well as, in some cases, evaluating the reciprocal impact of society and the environment on Vedanta 
+(financial materiality).
+The assessment procedure involved the following steps:
+1.  Identification of an initial list of material topics:  By considering leading standards such as International Council 
+for Metals and Mining (ICMM) and Sustainability Accounting Standar ds Board (SASB), as well as analysing peer 
+company priorities, a total of 26 material topics were identified.
+2.  Stakeholder consultations and impact assessment: The topics were prioritised after assessing the intensity 
+of impact on a wide spectrum of stakeholders (both internal and external). This was done by consulting 1,933 
+stakeholders using multiple engagement channels such as interviews, focus group discussions, surveys, and 
+site visits.
+3.  Risk and opportunity assessment:  An in-depth analysis of identified material topics was conducted to 
+determine the potential impact of these topics on our ability to ex ecute the 'Transforming for Good' strategy 
+with a specific focus on topics that could have significant financial implications. Topics were then assessed 
+against the risk threshold as defined in Vedanta's Enterprise Risk Management matrix. The assessment 
+allowed us to evaluate the level of risk associated with each topic and inform the development of appropriate 
+mitigation strategies.
+4.  Prioritising material topics:  A scoring methodology was employed to evaluate the severity and likelihood of 
+each issue using the inputs from stakeholders as well as risk assessment. Based on this analysis, the material issues 
+were classified as high, medium, and low priority.
+5.  Preparation of the materiality matrix: Matrix was prepared by deploying two axes to evaluate the material 
+issues, with the X-axis depicting the impact on Vedanta’s business, and the Y-axis depicting impact on 
+stakeholders. The issue with highest significance for both stakeholders and business were identified as Top 
+material topics. This classification allows for focussed attention and tailor ed strategies to address the identified 
+material issues effectively.
+6.  Finalisation of the materiality matrix:  In the validation phase, the results of the materiality assessment 
+underwent a thorough review by Vedanta's senior management team and was signed off by the ESG ManCom 
+chaired by the Executive Director. This critical step ensured the relevance, accuracy and completeness of the 
+materiality matrix.
+326
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL STATEMENT
+ 327
+Business Responsibility & 
+Sustainability Report
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2023-24
+
+S. 
+No.Material issue 
+identifiedIndicate 
+whether risk     
+or opportunity 
+(R/O)Rationale for identifying the risk/ opportunity In case of risk, approach to adapt or mitigate Financial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+3 Water 
+ManagementRisk and 
+OpportunityRisk:
+With many of Vedanta’s operations in both water-stressed areas and 
+areas prone to flooding, change in water availability is a material risk for 
+businesses such as BALCO, Hindustan Zinc Ltd., and Cairn Oil & Gas. 
+Additionally, there could be water-related stakeholder conflicts. 
+The impacts are as follows:
+a)   Decrease in the capacity utilisation of operation resulting in 
+productivity losses. 
+b)   Legal conflicts resulting in loss of credibility and reputation of the 
+Company. 
+c)  Higher financial burdens and increase in water costs.•  Water stewardship initiative to reduce freshwater withdrawal and 
+maximise both reuse and recycle of water.
+• A zero-discharge philosophy.
+• Site-specific roadmaps to achieve water positivity.
+•  Technology deployment across our sites for process improvement 
+and recycling of wastewater.
+•  Integrated Watershed Management Initiatives (IWMI) such as  
+rainwater harvesting and groundwater recharging projects for 
+communities to improve freshwater availability. Negative and 
+Positive
+4 Community 
+Engagement 
+and 
+developmentRisk and 
+opportunityRisk:
+Not involving community members in decision-making processes, 
+can create conflicts with the community leading to delays in project 
+implementations. The conflict may lead to stoppage of work at the site, 
+leading to production and revenue loss.
+Opportunity:
+Maintaining a harmonious relationship with the communities in which 
+the Company operates is crucial for obtaining and retaining the social 
+licence to operate.
+It helps create a positive outlook towards the expansion of the business, 
+and facilitates the growth of the local economy by providing direct and 
+indirect employment opportunities•  Social Performance Manager (SPM), at each site to drive the 
+implementation of social performance principles.
+•  A robust grievance mechanism for effective resolution of social 
+incidents. 
+•  Regular Community group meetings and village council meetings 
+to understand expectations and manage perceptions.
+•  Community development programs at each site location to build 
+confidence in the communities and ensure inclusive development. Negative and 
+Positive
+5 Air Emissions 
+& ManagementRisk Risk: 
+Air quality management and emissions control pose significant 
+challenges affecting environment and stakeholders, necessitating 
+stringent oversight and consistent monitoring. 
+Failure to comply could incur fines, penalties, and legal repercussions, 
+disrupting regular operations. Hence, stringent air emissions 
+management is imperative due to the significant operational and 
+reputational risks involved.•  Real-time monitoring of suspended particulate matter, sulfur 
+oxides (SOx), and nitrogen oxides (NOx) as integral components 
+of our ambient air quality monitoring protocol. 
+•  Installation of Control Devices to reduce harmful effects of air 
+emissions arising from processing of metals. 
+• Dust suppression activities at our mining operations.   This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+The National Guidelines for Responsible Business Conduct (NGRBC) as prescribed by the Ministry of Corporate Affairs 
+advocates nine principles referred as P1-P9 as given below:
+P1  Businesses should conduct and govern themselves with integrity in a manner that is ethical, transparent, 
+and accountable
+P2 Businesses should provide goods and services in a manner that is sustainable and safe
+P3 Businesses should respect and promote the well-being of all employees, including those in their value chains
+P4 Businesses should respect the interests of and be responsive towards all its stakeholders
+P5 Businesses should respect and promote human rights
+P6 Businesses should respect, protect, and make efforts to restore the environment
+P7  Businesses when engaging in influencing public and regulatory policy, should do so in a manner that is responsible 
+and transparent
+P8 Businesses should promote inclusive growth and equitable development
+P9 Businesses should engage with and provide value to their consumers in a responsible manner
+P1 P2 P3 P4 P5 P6 P7 P8 P9
+Policy and management processes
+1. a.   Whether 
+your 
+entity’s 
+policy/
+policies 
+cover each 
+principle 
+and its core 
+elements 
+of the 
+NGRBCs. 
+(Yes/No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+b.   Has the 
+policy been 
+approved by 
+the Board? 
+(Yes/No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+c.   Web Link of 
+the Policies, if 
+availableCode of Business 
+Conduct and 
+Ethics
+Supplier Code of 
+Conduct
+Code of Practice 
+and Fair Disclosure 
+of unpublished 
+sensitive 
+information:
+Dividend 
+Distribution Policy:
+Policy for 
+determining 
+material 
+subsidiaries:
+Nomination and 
+Remuneration 
+Policy:
+Policy on Board 
+Diversity:
+Familiarisation 
+Program for 
+Independent 
+Directors:
+Policy on Risk 
+Management:Environmental 
+Policy:
+Supplier 
+Sustainability 
+Management 
+Policy
+Climate Change 
+Policy:
+Information 
+Security Policy:Social 
+Performance 
+Policy:
+Supplier and 
+Business Partner 
+Sustainability 
+Management 
+Policy
+Climate Change 
+Policy:
+Social 
+Performance 
+Policy:
+Human Rights 
+Policy:
+Anti-harassment 
+Policy:
+POSH Policy:
+Diversity and 
+Inclusion Policy:
+Diversity and 
+Inclusion Policy:
+Remuneration 
+Policy:
+Anti Harrassment 
+and Anti-
+Discrimination:
+Social 
+Performance 
+Policy:
+POSH Policy:Supplier 
+Sustainability 
+Management 
+Policy: 
+Grievance 
+Redressal 
+Mechanism:
+Social 
+Performance 
+Policy:
+Environmental 
+Policy:Human Rights 
+Policy: 
+Social 
+Performance 
+Policy:
+Anti 
+Harrassment 
+and Anti-
+Discrimination:
+POSH Policy:Environmental 
+Policy:
+Energy and climate 
+Change Policy: 
+Biodiversity Policy:
+Tailing 
+Management 
+Policy:
+Supplier Code of 
+Conduct:Code of 
+Business 
+Conduct and 
+Ethics: Social 
+Performance 
+Policy: 
+Corporate 
+Social 
+::Responsibility 
+PolicCode of Conduct
+Information Security 
+PolicySECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+328
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL STATEMENT
+ 329
+Business Responsibility & 
+Sustainability Report
+VEDANTA LIMITED
+Integrated Report and Annual Accounts 2023-24

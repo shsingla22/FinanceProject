@@ -1,0 +1,89 @@
+Secretarial Section  
+Head Office, 57 - V.E. Road,  
+Thoothukudi – 628 002.  
+☏: 0461 -2325136  
+e-mail  : secretarial@tmbank.in  
+CIN: L65110TN1921PLC001908   
+ 
+Ref.No.TMB.SE. 120/2024-25            
+                               04.10 .2024   
+The Manager,  
+National Stock Exchange of India Ltd,  
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+'G' Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai - 400 051.  The Manager,  
+Bombay Stock Exchange limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street.  
+Mumbai – 400 001.  
+ 
+Ref: Symbol: TMB / Scrip Code: 543596  
+ 
+Dear Sir/Madam,  
+Sub: Intimat ion regarding loss of share certificate s 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, this is to inform you that, our Bank has received intimation from our Registrar and Share 
+Transfer Agent (“RTA”), M/s.  Link Intime  India Private Limited (enclosed herewith) on  04.10 .2024 , 
+regardi ng loss of share certificate/s from our shareholder/s , for issue of duplicate share certificate(s) 
+in lieu thereof . The details  are given below:  
+ 
+Name of the Shareholder  Folio 
+No. Certificate  
+No. No of 
+Shares  Distinctive Nos.  
+From  To 
+THANGAMANI GANESH.N.  18180  58511  500 32183955  32184454  
+SUNDARI.K.  25588  29220  2 35111  35112  
+KAMALA HARAN.V.A.  25587  29219  2 35109  35110  
+PERUMAL RAJA.T.  23889  27521  1 142667  142667  
+CHENTHILKUMAR.N.  18179  58510  500 32183455  32183954  
+MAHESHWARI.N.  18173  58505  500 32180955  32181454  
+SIVAKUMAR.N.  18177  58509  500 32182955  32183454  
+MEENAKSHI.N.  18174  58506  500 32181455  32181954  
+  
+The claim for issue of duplicate share certificate will be considered by the  Committee of Executives, 
+subject to receipt of requisite  documents from the shareholder, which needs to be in order and only 
+after compliance of all the regulatory  formalities.   
+ 
+Kindly take the same on record .  
+ 
+Yours faithfully,  
+For Tamilnad Mercantile Bank Limited  
+ 
+Swapnil Yelgaonkar        
+Company Secretary & Compliance Officer  
+Membership No: ACS 21877  
+
+FROM TO
+04/10/2024 58511 
+04/10/2024 29220 
+04/10/2024 29219 
+04/10/2024 27521 
+04/10/2024 58510 
+04/10/2024 58505 
+04/10/2024 58509 
+04/10/2024 58506 STOP TRAN 
+NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   Tamilnad Mercantile Bank Limited
+STOP TRANSFER REGISTER AS ON 04/10/2024
+From: 04/10/2024 To: 04/10/2024
+---------------------------------------------------------------------------------------------------------------------------
+DISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+---------------------------------------------------------------------------------------------------------------------------
+ST801698 18180 THANGAMANI 
+GANESH.N.58511 32183955 32184454 500 Lost By Holder
+2 Lost By Holder
+ST801700 25587 KAMALA HARAN.V.A. 29219 35109 35110 2 Lost By HolderST801699 25588 SUNDARI.K. 29220 35111 35112 
+1 Duplicate cum 
+Transmission
+ST801702 18179 CHENTHILKUMAR.N. 58510 32183455 32183954 500 Lost By HolderST801701 23889 PERUMAL RAJA.T. 27521 142667 142667 
+500 Lost By Holder
+ST801704 18177 SIVAKUMAR.N. 58509 32182955 32183454 500 Lost By HolderST801703 18173 MAHESHWARI.N. 58505 32180955 32181454 
+Lost By Holder
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 2505 
+---------------------------------------------------------------------------------------------------------------------------ST801705 18174 MEENAKSHI.N. 58506 32181455 32181954 500 

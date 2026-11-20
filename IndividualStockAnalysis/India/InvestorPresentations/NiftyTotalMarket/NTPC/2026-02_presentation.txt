@@ -1,0 +1,401 @@
+
+=== page 1 ===
+Operational & Financial 
+Snapshot
+   (Q3/9M FY26)
+
+=== page 2 ===
+Presentation Outline
+2
+Operational Performance
+ 1
+Financial Performance
+ 2
+Key Growth Pointers
+ 3
+=== page 3 ===
+33DescriptionAs on
+31-Dec-25 31-Dec-24 Change
+Installed & Commercial Capacity 
+(NTPC Group)85637 76598 9039
+Installed & Commercial Capacity 
+(NTPC Standalone)60796 59168 1628Increase in Installed & Commercial Capacity (MW)
+748 2120 2868 880 4536 755 6171 
+010002000300040005000600070008000900010000
+NTPC NGEL THDC & Others TotalThermal Capacity Renewable Capacity
+16284536
+28759039
+=== page 4 ===
+4Generation* (in BUs) 
+DescriptionQ3 FY26 Q3 FY25Change              
+(Q3-o-
+Q3)%Change               
+(Q3-o-Q3) Q2 FY26Change                  
+(Q3-o-Q2)%Change             
+(Q3-o-Q2)9MFY26 9MFY25Change              
+(Y-o-Y)% 
+Change               
+(Y-o-Y)
+Gross Generation 87.259 91.250 (3.991) (4.37) 83.161 (4.098) (4.93) 261.737 277.598 (15.861) (5.71)
+Commercial  
+Generation87.251 91.250 (3.999) (4.38) 83.159 (4.092) (4.92) 261.479 277.598 (16.119) (5.81)
+Energy  Sent Out 80.995 85.055 (4.060) (4.77) 77.097 3.898 5.06 242.683 258.599 (15.916) (6.15)87.259
+91.25
+83.16187.251
+91.25
+83.15980.995
+85.055
+77.097
+0102030405060708090100
+Q3 FY26 Q3 FY25 Q2 FY26Gross Generation Commercial Generation Energy Sent Out
+261.737 261.479 
+242.683 277.598 277.598 
+258.599 
+ - 50.000 100.000 150.000 200.000 250.000 300.000
+Gross Generation Commercial Generation Energy Sent Out9MFY26 9MFY25* Standalone
+=== page 5 ===
+5PLF Data* (in %)
+Description Q3 FY26 Q3 FY25Change              
+(Q3-o-Q3)Q2 FY26Change                  
+(Q3-o-Q2)9MFY26 9MFY25Change              
+(Y-o-Y)
+PLF Coal (All India)# -   -   - -   - 63.45 69.47 (6.02)
+PLF (NTPC)  – COAL 71.03 75.98 (4.95) A66.01 5.02 70.69 76.20 (5.51) A  
+PLF (NTPC)  - GAS 4.46 3.42 1.04 6.81 (2.35)B7.44 11.28 (3.84)B
+PLF (NTPC)  - SOLAR 21.16 20.26 0.90 22.84 (1.68)C 23.23 20.73 2.50
+PLF (NTPC)  - HYDRO 27.21 22.11 5.10 104.60 (77.39) D63.79 58.95 4.84 
+#Source: - CEA
+A - Lower generation due to Grid Restrictions
+B - Gas stations running as per Grid demand 
+C - Due to seasonal variation
+D - Low available water head due to seasonal variation * Standalone
+=== page 6 ===
+6Plant Availability Factor* (PAF) (in %)
+Description Q3 FY26 Q3 FY25Change              
+(Q3-o-Q3)Q2 FY26Change                  
+(Q3-o-Q2)9MFY26 9MFY25Change                  
+(Y-o-Y)
+PAF - COAL 90.80 89.58 1.22 84.39 6.41 89.53 89.11 0.42
+PAF - GAS 94.40 96.14 (1.74) 93.40 1.00 92.38 93.08 (0.70)
+PAF - HYDRO 98.96 88.37 10.59 109.45 (10.49) 104.07 98.13 5.94
+90.80 89.58 
+84.39 89.53 89.11
+Q3FY26 Q3FY25 Q2FY26 9MFY26 9MFY25Plant Availability Factor (in %) - Coal
+94.40 96.14 93.40 92.38 93.08
+Q3FY26 Q3FY25 Q2FY26 9MFY26 9MFY25Plant Availability Factor (in %) - Gas
+98.96 
+88.37 109.45 104.07
+98.13
+Q3FY26 Q3FY25 Q2FY26 9MFY26 9MFY25Plant Availability Factor (in %) - Hydro    * Standalone
+=== page 7 ===
+7Description 9MFY26 9MFY25 Change (Y-o-Y)% Change (Y-o-Y)
+Average Tariff 4.89 4.68 0.21 4.49 Average Tariff*  ( ₹/kWh)
+1.88 1.682.812.820.200.18
+9M FY 26 9M FY 25Fixed Charges Variable Charges Others
+4.894.68▪Fixed Charges (per unit) increased due to:
+✓Lower  Generation
+✓New capacities  having  higher  fixed  
+charges* Standalone
+Average Tariff ( ₹/kWh)
+=== page 8 ===
+8Coal Supply Position*  (in MMT) 
+Description Q3 FY26 Q3 FY25Change              
+(Q3-o-Q3)% Change               
+(Q3-o-Q3)Q2 FY26Change                  
+(Q3-o-Q2)% Change             
+(Q3-o-Q2)9MFY26 9MFY25Change              
+(Y-o-Y)% Change               
+(Y-o-Y)
+Domestic 
+Coal59.91 65.51 (5.60) (8.55) 53.10 6.81 12.82 174.82 182.89 (8.07) (4.41) 
+Imported 
+coal- 0.24 (0.24) (100)  - - - - 2.26 (2.26) (100)
+Total 59.91 65.75 (5.84) (8.88) 53.10 6.81 12.82 174.82 185.15 (10.33) (5.58) 
+* Standalone
+59.91 65.51 53.10 
+-   0.24 -   
+Q3FY26 Q3FY25 Q2FY26COAL SUPPLY POSITION (Q3)
+Domestic Coal Imported coal
+174.82 182.89 
+-   2.26 
+9MFY26 9MFY25COAL SUPPLY POSITION (9M)
+Domestic Coal Imported coal
+=== page 9 ===
+Financial Performance
+9
+=== page 10 ===
+10Financial Snapshot - Standalone Profit (in ₹ Crore)
+Particulars Q3FY26 Q3FY25Change              
+(Q3-o-Q3)% Change               
+(Q3-o-Q3)Q2FY26Change                  
+(Q3-o-Q2)% Change             
+(Q3-o-Q2)9MFY26 9MFY25Change              
+(Y-o-Y)% 
+Change               
+(Y-o-Y)
+Profit for the 
+period4987 4711 276 5.86 4653 334 7.18 14415 13871 544 3.92
+Particulars  Q3FY26 Q3FY25 Change Q2 FY26Change
+(Q3-o-Q2)9MFY26 9MFY25Change              
+(Y-o-Y)
+Incentive 132 255 -123 91 41 478 762 -284
+Disincentive 171 238 -67 -488 659 -455 -468 13
+Dividend Income 630 546 84 1167 -537 1915 1318 597
+Surcharge Income 255 71 184 58 197 367 248 119
+Rebate -218 -145 -73 -235 17 -708 -468 -240Key Financial InformationParticulars Q3FY26 Q3FY25 Change Q2 FY26Change
+(Q3-o-Q2)9MFY26 9MFY25Change
+ (Y-o-Y)
+Adjusted Profit 4653 4618 35 4518 135 13585 13015 570
+=== page 11 ===
+11Profit Bridge - Standalone to Consolidated (in ₹ Crore) 
+(₹ crore) 
+Description Q3FY26 Q3FY25 Q2FY26 9MFY26 9MFY25 FY25
+Standalone profit 4987 4711 4653 14415 13871 19649
+Profit from Subsidiaries 636 546 1149 2441 1908 4139
+Share of profit from JVs 612 457 582 1670 1581 2214
+Provision/Reversal of impairment - - - 314 - 47
+Dividend from Subsidiaries -219 -37 -433 -689 -389 -681
+Dividend from JVs -411 -510 -726 -1212 -920 -1411
+Other adjustments -8 2 0 -9 5 -4
+Consolidated Profit 5597 5170 5225 16931 16056 23953
+=== page 12 ===
+12
+Profit of Subsidiaries (Y -o-Y) (in ₹ Crore)
+Sl.
+No.Subsidiary 9MFY26 9MFY25 Remarks
+1THDC India Ltd. 846 545 COD of Khurja  & Tehri PSP
+2NTPC Green Energy Ltd. 322 242 Capacity addition and Other income
+3Bhartiya Rail Bijlee Company Ltd. 345 248 Increase in Annual Fixed Charges Accounting  Estimates
+4NTPC Vidyut Vyapar Nigam Ltd. 146 169 Decrease in Surcharge Income
+5North -Eastern Electric Power Corporation Ltd. 619 383 Increase due to Higher Generation
+6Ratnagiri Gas & Power Private Ltd. 132 320 Decrease due to lower generation
+7Patratu  Vidyut Urja Nigam Limited 28 0 COD of Unit #1(800 MW)
+8Others 3 1
+Total 2,441 1,908
+=== page 13 ===
+13
+Share of Profit of joint Ventures (Y -o-Y) (in ₹ Crore)
+Sl.
+No.JV 9MFY26 9MFY25 Remarks
+1Hindustan Urvarak  and Rasayan  Ltd. 617 260Due to Volume Growth and Gas Efficiency
+2NTPC Tamil Nadu Energy Company Ltd. 184 143Increase in AFC due to CERC Tariff Order
+3Bangladesh -India Friendship Power Co. Pvt. Ltd. 297 369Due to Provision for Workman Profit Participation 
+Fund
+4NTPC -SAIL Power Company Ltd. 156 139
+5Aravali Power Company Private Ltd. 255 272Decrease in Surcharge Income
+6Jhabua  Power Ltd. 98 80Capital overhauling in previous year
+7Energy Efficiency Services Ltd. -214 -207
+8Meja Urja Nigam Private Ltd. 268 517CERC Tariff order accounted for during FY25
+9Others 9 8
+Total 1670 1581
+=== page 14 ===
+14Other Key Financial Information (in ₹ crore, unless stated otherwise)
+DescriptionAs at 
+31.12.2025As at 
+31.12.2024As at 
+31.12.2025As at 
+31.12.2024
+Standalone Consolidated
+Regulated  Equity 94,415 90,289 118,970 105,854
+Gross  Fixed  Assets 332,051 307,495 454,223 386,900
+CWIP 46,061 51,949 82,471 101,701
+Investments  in Subsidiaries  & JVs 36,262 34,478 19,949 15,720
+Long-term debt (inc. current  maturity) 164,250 163,915 232,741 215,608
+Short-term debt 21,965 18,180 25,466 21,086
+Total Equity 170,193 158,243 202,596 185,585
+Non-controlling  interests  in total eq. - - 7,687 5,744
+Debt Equity  Ratio 1.09 1.15 1.32 1.32
+Book Value  per Share  (₹) 175.52 163.19 208.93 185.47
+=== page 15 ===
+Key Growth Pointers
+15
+=== page 16 ===
+16Group Portfolio (Operation + Under Construction Capacity) (in MW)
+Capacity  as on 31 December  2025 Operation Construction Portfolio
+Coal 54730 12520 67250
+Gas 4017 - 4017
+Hydro 808 811 1619
+Solar 1241 245 1486
+NTPC  Standalone 60796 13576 74372
+Coal (Subsidiaries) 3120 1600 4720
+Coal (JVs) 7344 2400 9744
+Gas (Subsidiaries) 2494 - 2494
+Hydro  (Subsidiaries) 2949 870 3819
+PSP (THDC)  (Subsidiary) 750 250 1000
+Solar  (NEEPCO,  THDC  & NSPCL) 60 321 381
+Wind  (THDC)  (Subsidiary) 113 - 113
+Solar  (NGEL  & NREL)  (Subsidiaries) 5191 7810 13001
+Wind  (NGEL  & NREL)  (Subsidiaries) 196 3176 3372
+Solar  (NGEL  JVs) 2103 1985 4088
+Wind  (NGEL  JVs) 521 970 1491
+NTPC  Group 85637 32958 118595Coal
+81714
+69%Gas
+6511
+6%Hydro
+6438
+5%Solar
+18956
+16%Wind
+4976
+4%Portfolio Capacity - 118595 MWCoal
+65194
+76%Gas
+6511
+8%Hydro
+4507
+5%Solar
+8595
+10%Wind
+830
+1%Under Operation - 85637 MW
+Coal
+16520
+50%
+Hydro
+1931
+6%Solar
+10361
+31%Wind
+4146
+13%Under Construction - 32958 MW
+=== page 17 ===
+17Capacity Under Construction (in MW) (as on 31 Dec, 2025)
+Coal Project Capacity 
+Talcher  Thermal 1320
+Singrauli 1600
+Lara 1600
+Darlipalli 800
+Sipat 800
+Nabinagar 2400
+Gadarwara 1600
+Telangana 2400
+NTPC  Standalone 12520
+Patratu,  PVUNL  (Subs.-74%) 1600
+Meja II 2400
+NTPC  Group  Coal Total 16520  Hydro  Project Capacity 
+Tapovan  Vishnugad 520
+Rammam 120
+Lata Tapovan 171
+NTPC  Standalone 811
+THDC  Hydro  (Subsidiary) 444
+NEEPCO  Hydro  (Subsidiary) 426
+THDC  PSP (Subsidiary) 250
+NTPC  Group  1931Renewable  Projects Capacity 
+NTPC  Standalone  - Solar 245
+NEEPCO/THDC/NSPCL  – Solar 321
+NGEL  Group
+NREL - Solar  (Subs .-100%) 7810
+NREL - Wind  (Subs .-100%) 3176
+GVREL  - Solar  (Subs .-51%) 310
+INGEL  - Solar  (JV-50%) 800
+INGEL  - Wind  (JV-50%) 340
+ONGPL  - Solar  (JV-50%) 875
+ONGPL  - Wind  (JV-50%) 630
+NGEL  Group  - Solar 9795
+NGEL  Group  - Wind 4146
+NGEL  Group  Total 13941
+NTPC  Group  RE Total  14507Grand  Total Capacity 
+Coal 16520
+Hydro 1931
+Renewables 14507
+NTPC  Group  Total 32958   
+=== page 18 ===
+New Frontiers - Nuclear and PSP
+Nuclear
+18▪Mahi  Banswara  Atomic  Power  Project  (MBRAPP)  under  ASHVINI  (JV Company  
+with NPCIL)  of 2800  MW capacity  (4 units of 700 MW each) . Project  received  
+Siting  Consent  and Environmental  Clearance  (EC) in May 2025 .Hon’ble  Prime  
+Minister  laid the foundation  stone of MBRAPP  on 25 September  2025 .
+▪Established  a wholly  owned  subsidiary,  NTPC  Parmanu  Urja Nigam  Limited  
+(NPUNL ) in FY25 with Focus  on Advanced  Nuclear  Technologies .
+▪Identified  potential  sites in multiple  states  and signed  MOUs  with Madhya  
+Pradesh  and Chhattisgarh .
+▪NDAs  (Non-Disclosure  Agreements)  are being  signed  with the technology  
+providers . Permission  from DAE (Department  of Atomic  Energy)  has been sought  
+to sign these NDAs . 
+▪Request  for authorization  of NPUNL  to build,  own & operate  NPPs has been 
+submitted  to DAE in August  2025 .
+▪The Nuclear  Training  Centre  at PMI, Noida  commenced  its first nuclear  training  
+in September  2025 , strengthening  nuclear  energy  capabilities .Pumped Storage Project (PSP)
+▪NTPC  Group  is strategically  positioned  with an impressive  
+18 GW pumped  storage  portfolio .
+▪COD for 3 PSP Units of 250 MW each of THDC   (TEHRI  
+PSP  U#1, U#2 and U#3 ) declared  on 7 June 2025 , 10 
+July 2025  and 1 December  2025  respectively . Another  
+250 MW is scheduled  to be commissioned  through  Tehri PSP 
+in current  fiscal.
+▪Completed  Preliminary  Feasibility  Reports  for 21 projects  
+and Detailed  Project  Reports  for 4 projects  are in an 
+advanced  stage .
+=== page 19 ===
+New Frontiers - BESS
+19Total FGD Planned – 69.9 GW
+BESS at Thermal Power Stations
+▪5000  MWh  Battery  Energy  Storage  System  (BESS)  capacity  has been allocated  to NTPC  under  the Viability  Gap Funding  (VGF)  
+scheme  of the Power  System  Development  Fund (PSDF)  to optimize  the utilization  of existing  thermal  generation  and transmission  
+infrastructure  and to ensure  reliable  and economical  power  supply  during  non-solar hours. 
+▪The allocated  capacity  is planned  across  14 NTPC  thermal  power  stations  based  on the availability  of Unrequisitioned  Surplus  
+(URS)  power . 
+▪The project  is being  implemented  under  Section  62 of the Electricity  Act, with the Techno -Economic  Sub-Group  (TESG)  
+recommending  VGF support  for the initiative .
+▪The integration  of BESS with thermal  plants  will reduce  cycling,  enable  operation  near optimal  efficiency,  lower  maintenance  and 
+O&M  costs, and enhance  overall  plant life.
+▪CERC  has issued  draft regulations  allowing  the installation  of Battery  Energy  Storage  Systems  at thermal  generating  stations . This 
+enables  coal-based  plants  to remain  online  and support  peak demand  by supplying  additional  power  through  BESS during  peak 
+hours. 
+=== page 20 ===
+20
+Balancing payouts with Growth
+▪Committed to deliver sustainable value to 
+shareholders
+▪Balancing payout with deployment for 
+growth plans
+▪Highest ever dividend on cash basis paid in 
+FY25
+▪First Interim Dividend @  ₹2.75 per share 
+paid for FY26 ( ₹2,667 crore) 
+▪Second Interim Dividend declared @  ₹2.75 
+per share for FY26 ( ₹2,667 crore) 35,623 33,982 35,719 35,204 35,385 44,636 
+FY20 FY21 FY22 FY23 FY24 FY25Amount in ₹ Crore
+(on Consolidated basis)
+2,36,104 2,72,694 3,08,125 3,38,436 3,73,696 4,04,210 
+FY20 FY21 FY22 FY23 FY24 FY25Growing Group Capex
+CAGR
+11.35%Growing Gross Fixed AssetsROE Expansion with Balanced Payouts
+6,9967,8069,49410,16710,56411,553
+02,0004,0006,0008,00010,00012,00014,00016,00018,00020,000
+FY20 FY21 FY22 FY23 FY24 FY25Payout %, Dividend Retained  Earnings
+10,11313,76916,28217,19718,07919,650▪Gross Fixed Assets
+   31.12.2025 - ₹ 4,54,223 Crore      
+   31.12.2024 - ₹ 3,86,900 Crore 
+▪Group Capex incurred during   
+9MFY26 - ₹33,466 Crore 
+    9MFY25 - ₹30,779 Crore 
+=== page 21 ===
+Thank You
+Disclaimer
+▪This document  is issued  by NTPC  Limited  (the “Company”)  for general  information  purposes  only and does not constitute  any recommendation  or form part of any offer or invitation  or inducement  to sell or issue, or any solicitation  of any offer to purchase  or subscribe  for, any securities  
+of the Company,  nor shall it or any part of it or the fact of its distribution  form the basis of, or be relied  on in connection  with, any contract  or commitment  thereof . This document  does not solicit  any action  based  on the material  contained  herein . Nothing  in this document  is intended  by 
+the Company  to be construed  as legal,  accounting  or tax advice
+▪This document  has not been approved  and will not be reviewed  or approved  by any statutory  or regulatory  authority  in India or by any Stock  Exchange  in India. 
+▪This document  may include  statements  which  may constitute  forward -looking  statements  relating  to the business,  financial  performance,  strategy  and results  of the Company  and/or  the industry  in which  it operates . Forward -looking  statements  are statements  concerning  future  
+circumstances  and results,  and any other statements  that are not historical  facts,  sometimes  identified  by the words  "believes",  "expects",  "predicts",  "intends",  "projects",  "plans",  "estimates",  "aims",  "foresees",  "anticipates",  "targets",  and similar  expressions . The forward -looking  
+statements,  including  those cited from third party sources,  contained  in this document  are based  on numerous  assumptions  and are uncertain  and subject  to risks. A multitude  of factors  including,  but not limited  to, changes  in demand,  competition  and technology,  can cause  actual  events,  
+performance  or results  to differ  significantly  from any anticipated  development . Neither  the Company  nor its Directors,  Promoter,  affiliates  or advisors  or representatives  nor any of its or their parent  or subsidiary  undertakings  or any such person's  officers  or employees  gives any 
+assurance  that the assumptions  underlying  such forward -looking  statements  are free from errors  nor do any of them accept  any responsibility  for the future  accuracy  of the forward -looking  statements  contained  in this Presentation  or the actual  occurrence  of the forecasted  developments . 
+Forward -looking  statements  speak  only as of the date of this document . The Company  expressly  disclaims  any obligation  or undertaking  to release  any update  or revisions  to any forward -looking  statements  in this document  as a result of any change  in expectations  or any change  in 
+events,  conditions,  assumptions  or circumstances  on which  these forward -looking  statements  are based . 
+▪The information  contained  in this document  has not been independently  verified . None of the Company,  its Directors,  Promoter  or affiliates,  nor any of its or their respective  employees,  advisers  or representatives  or any other person  accepts  any responsibility  or liability  whatsoever,  
+whether  arising  in tort, contract  or otherwise,  for any errors,  omissions  or inaccuracies  in such information  or opinions  or for any loss, cost or damage  suffered  or incurred  howsoever  arising,  directly  or indirectly,  from any use of this document  or its contents  or otherwise  in connection  
+with this document,  and makes  no representation  or warranty,  express  or implied,  for the contents  of this document  including  its accuracy,  fairness,  completeness  or verification  or for any other statement  made  or purported  to be made  by or on behalf  of any of them,  and nothing  in this 
+document  may be relied  upon as a promise  or representation  in any respect . Past performance  is not a guide  for future  performance . The Company  undertakes  no obligation  to update  or revise  any information  in this document  as a result of new information,  future  events  or otherwise . 
+Any person  or party intending  to provide  finance  or to invest  in the securities  or businesses  of the Company  should  do so after seeking  their own professional  advice  and after carrying  out their own due diligence  and conducting  their own analysis  of the Company  and its market  position .
+▪This document  may not be copied  or disseminated,  in whole  or in part, and in any manner  or for any purpose . No person  is authorized  to give any information  or to make any representation  not contained  in or inconsistent  with this document  and if given  or made,  such information  or 
+representation  must not be relied  upon as having  been authorized  by any person . Failure  to comply  with this restriction  may constitute  a violation  of applicable  securities  laws. Neither  this document  nor any part or copy of it may be distributed,  directly  or indirectly,  or published  in the 
+United  States . The distribution  of this document  in other jurisdictions  may be restricted  by law and persons  in to whose  possession  this document  comes  should  inform  themselves  about  and observe  any such restrictions . By reviewing  this document,  you agree  to be bound  by the foregoing  
+limitations . You further  represent  and agree  that (i) you are located  outside  the United  States  and you are permitted  under  the laws of your jurisdiction  to receive  this document  or (ii) you are located  in the United  States  and are a “qualified  institutional  buyer”  (as defined  in Rule 144A 
+under  the Securities  Act of 1933 , as amended  (the “Securities  Act”).
+▪This document  is not an offer to sell or a solicitation  of any offer to buy the securities  of the Company  in the United  States  or in any other jurisdiction  where  such offer or sale would  be unlawful . Securities  may not be offered,  sold, resold,  pledged,  delivered,  distributed  or transferred,  
+directly  or indirectly,  into or within  the United  States  absent  registration  under  the Securities  Act, except  pursuant  to an exemption  from,  or in a transaction  not subject  to, the registration  requirements  of the Securities  Act and in compliance  with the applicable  securities  laws of any state 
+or other jurisdiction  of the United  States . 

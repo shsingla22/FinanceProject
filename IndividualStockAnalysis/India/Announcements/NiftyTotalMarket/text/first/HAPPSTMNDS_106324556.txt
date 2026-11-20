@@ -1,0 +1,228 @@
+ Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala,  
+Bengal uru- 560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+ A
+ugust 0 4, 2025 
+Listing Compliance & Legal Regulatory   
+BSE Limited  
+Phiroze Jeejeebhoy Towers   
+Dalal Street,  Mumbai  400 001 
+Stock  Code:  543227,  974820  & 975101 Listing  & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex   
+Bandra East,  Mumbai  400 051 
+Stock  Code:  HAPPSTMNDS  
+Dear  Sir/Madam,  
+Sub:  Transcript of Earnings Call held on July 30 , 2025 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,  2015 
+read with Para A of P art A of Schedule III , please find enclosed the transcript of the Earnings Call held 
+on July 30 , 202 5, post announcement of financial results of the Company for the quarter  ended as on 
+June 30 , 202 5. The transcript is also uploaded on the Company’s website  
+(https://www.happiestminds.com/investors ). 
+T
+his is for your information and records .  
+Thanking you,  
+Yours  faithfully,  
+For Happiest  Minds  Technologies  Limited  
+P
+raveen Kumar Darshankar  
+Company Secretary & Compliance  Officer 
+Membership No. F6706   
+
+Page 1 of 15 
+  
+ 
+“Happiest Minds Technologies Limited 
+Q1 FY '26 Earnings Conference Call” 
+July 30, 2025 
+ 
+ 
+ 
+            
+ 
+Management : Mr. Ashok Soota  – Chairman & Chief Mentor  
+Mr. Joseph Anantharaju  – Co-Chairman & CEO  
+Mr. Venkatraman Narayanan  – Managing Director   
+Mr. Rajiv Shah – Executive Director 
+Mr. Ram Mohan  – Chief Executive Officer – Infrastructure 
+Management and Security Services (IMSS) 
+Mr. Sridhar Mantha  – Chief Executive Officer, Generative 
+AI Business Services (GBS) 
+Mr. Anand Balakrishnan  – Chief Financial Officer 
+Ms. Priyanka Sharma  – Head of Investor Relations   
+   
+Moderator : Ms. Aditi Patil  – ICICI Securities  
+
+ Happiest Minds Technologies Limited  
+  July 30, 2025 
+ 
+Page 2 of 15 
+ 
+Moderator: Ladies and gentlemen, good day, and welcome to Happiest Minds Limited Q1 FY '26 Earnings 
+Conference Call hosted by ICICI Securities. As a reminder, all participant lines will be in the 
+listen-only mode and there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call, please signal an operator by 
+pressing star then zero on your touchtone phone. Please note that this call is being recorded. 
+ With this, I now hand the conference over to Ms. Aditi Patil from ICICI Securities. Thank you, 
+and over to you, ma'am. 
+Aditi Patil: Thank you, Samiya. Good morning, ladies and gentlemen. Thank you for joining us today on 
+Q1 FY '26 Earnings Call of Happiest Minds Technologies Limited. On behalf of ICICI 
+Securities, I would like to thank the management of Happiest Minds for giving us the opportunity 
+to host this earnings call. 
+ Today, we have with us Mr. Ashok Soota, Chairman and Chief Mentor, Mr. Joseph Anantharaju, 
+Co-Chairman and CEO; Mr. Venkatraman Narayanan, Managing Director; Mr. Rajiv Shah, 
+Executive Director; Mr. Ram Mohan, CEO, Infrastructure Management and Security Services; 
+Mr. Sridhar Mantha; CEO, Generative AI Business Services; Mr. Anand Balakrishnan, CFO, 
+and Ms. Priyanka Sharma, Head, Investor Relations. 
+ I will hand it over to Priyanka for safe harbor statement and to take the proceedings forward. 
+Thank you, and over to you, Priyanka. 
+Priyanka Sharma: Good morning to all participants in the call. Welcome to this conference call to discuss the 
+financial results for the first quarter ended June 30, 2025. I'm Priyanka, Head of Investor 
+Relations. We hope you have had an opportunity to review the earnings release we issued 
+yesterday. 
+ Let me quickly outline the agenda for today's call. Ashok will begin the call by sharing his 
+perspectives on the business environment and our results. Joseph and Venkat will then speak 
+about our financial performance and operational highlights, after which we'll have the floor open 
+for Q&A. 
+ Before I hand over, let me begin with the safe harbour statement. During the call, we could make 
+forward-looking statements. These statements consider the environment we see as of today and 
+carry a risk in terms of uncertainty because of which the actual results could be different. We do 
+not undertake to update those statements periodically. 
+ Let me now pass it on to Ashok. Ashok, over to you. 
+Ashok Soota: Thank you, Priyanka. Good morning, everyone. It is truly a pleasure to have you with us today 
+as we step confidently into a new fiscal year. In Q1 FY '26, Happiest Minds has powered ahead, 
+delivering 17.5% year-on-year growth in constant currency and maintaining a robust margin of 
+21.4%, firmly within our guided range. 
+ Happiest Minds Technologies Limited  
+  July 30, 2025 
+ 
+Page 3 of 15 
+ 
+ Our EBITDA this quarter stood at ₹ 124 crores, achieving a standout 12.9% sequential growth, 
+well ahead of most peers and industry trends. In a quarter where most reported muted or single-
+digit growth, our strong profitability and disciplined execution clearly sets us apart. 
+ What makes this milestone even more significant is that we achieved it while continuing to 
+invest deeply in our future, strengthening our delivery ecosystem, scaling our platforms, driving 
+innovation across our focused verticals and making sustained investments in the GenAI business 
+unit and in the Net New sales unit. 
+ Friends, as shared in our last call, over the past two years, we have launched ten transformational 
+initiatives, and it is gratifying to see them now taking root and delivering tangible results. These 
+initiatives are helping us not only to grow but also broaden our horizons, unlock new 
+opportunities and shape the digital landscape ahead. 
+ We are proud to have delivered another quarter of double-digit growth, backed by a superior 
+margin profile, which has been sustained for 20 consecutive quarters, earning our customers' 
+trust as their advisors and co-creators in shaping their digital journeys. 
+ Last quarter, we announced that Joseph has become the Co-Chairman and CEO as a part of our 
+planned succession. Joseph brings his steady vision and deep commitment to drive profitable 
+growth and strategic strength. Let me touch upon the four most prominent strategic 
+transformations that have touched and shaped this quarter's performance and will continue to 
+drive value in the years ahead. 
+ Through our acquisitions in the previous financial year, we have significantly deepened our 
+capabilities in BFSI and accelerated our leadership in AI-driven digital transformation. These 
+entities are now fully integrated into the Happiest Minds fabric, delivering innovation across 13 
+countries and powering performance that is well above industry benchmarks. 
+ Three other significant transformational changes were introduced in the second half of FY '25, 
+and we had shared that the impact would become visible in FY '26. We are seeing exactly that 
+unfold this quarter and will continue hereafter. 
+ Reorganizing Happiest Minds on six industry verticals basis was one of these changes. We are 
+noticing that this verticalization strategy is already fuelling accelerated growth in Travel, Media 
+& Entertainment and Manufacturing. BFSI has become our largest vertical, and Healthcare, our 
+third largest, is also gaining strong momentum. 
+ At the same time, our focused investments in the GenAI business unit under Sridhar Mantha's 
+leadership, and the Net New sales engine under Maninder Singh are not only advancing this 
+quarter's growth but have also built a strong foundation for sustained high-quality growth in the 
+quarters ahead. 
+ Friends, as you are aware, the global IT industry continues to face its own set of challenges with 
+many peers reporting flat or subdued performance. Our 10 strategic transformation and focused 
+investments have enabled us to navigate this environment with clarity and conviction, driving 
+growth ahead of industry levels. 
+ Happiest Minds Technologies Limited  
+  July 30, 2025 
+ 
+Page 4 of 15 
+ 
+ We believe the impact of these transformational changes will continue to drive strong 
+momentum through the coming quarters this year and even more so in FY '27. We are confident 
+that this momentum will help us deliver double-digit growth over a three-year cycle that began 
+last year and will carry through FY '27. 
+ On that note of confidence and progress, I will now hand it over to our Co-Chairman and CEO, 
+Joseph, who will bring these strategies to life with stories from the ground, recent wins across 
+our business and updates on the other key initiatives. 
+Joseph Anantharaju: Thank you, Ashok, and good morning to everyone on the call. I'm delighted to share that this 
+quarter has been another period of solid growth and outstanding performance for Happiest Minds 
+across all fronts. 
+ Leveraging the strong foundation we have built and the 10 transformational initiatives 
+underway, we are seeing momentum accelerate across our key business units and geographies, 
+translating into strong double-digit YoY growth of 17.5% in Constant Currency and healthy 
+profitability. 
+ Active customers have grown from 281 to 285 and million $ customers have increased from 57 
+to 59, showing how we are deepening relationships and converting early engagements into 
+multimillion-dollar partnerships. Repeat business remains strong at 94%, a consistent metric that 
+reflects both customer loyalty and the stable growth engine. 
+ Let me briefly touch upon the demand environment. The global IT industry continues to face a 
+mixed environment marked by macroeconomic and geopolitical uncertainty. At the same time, 
+customers need to execute on their digital and AI strategies to remain competitive and deliver 
+growth. 
+ Demand remains resilient in key verticals such as BFSI and Healthcare, while Technology, 
+Media and Entertainment and Manufacturing are beginning to show early signs of renewed 
+investment. Against this backdrop, Happiest Minds has delivered a standout quarter. 
+ In an environment where customers are seeking partners to help them achieve more with less, 
+modernize data and adopt AI, GenAI for greater efficiency and resilience, our continued 
+investments in these areas are clearly paying off. These focused investments have translated into 
+strong results across our portfolio. 
+ Our GenAI business unit led the way this quarter with 14.5% sequential and 89.8% year-on-year 
+growth while showing significant traction with multiple pilots scaling into long-term 
+engagements and utilization improving sharply from 34.3% to 40.8%. 
+ IMSS is driving growth with stronger realizations and three new global clients added this quarter, 
+and both IMSS and PDES delivered healthy year-on-year gains, underscoring the broad-based 
+momentum we are building. 
+ I'm also delighted to share that our annual flagship tech event Blitz 2025 concluded successfully 
+on 24th July. Under the theme Generate and Innovate, our teams showcased how we drive 
+ Happiest Minds Technologies Limited  
+  July 30, 2025 
+ 
+Page 5 of 15 
+ 
+disruption, innovation and acceleration, highlighting our commitment to building future-ready 
+solutions and platforms. Many of the solutions and concepts showcased in Blitz hold huge 
+potential and should contribute to our growth in the coming years. 
+ When I look at this quarter, I see our three pillars of unifying strengths, igniting innovation and 
+cultivating enduring partnerships coming alive in tangible ways. When I stepped into this role, 
+I carried a clear vision to build Happiest Minds into an organization that integrates seamlessly, 
+innovates relentlessly and forges partnerships that stand the test of time. This quarter, that vision 
+is translating into action and measurable results. 
+ We are unifying strength by integrating our acquired entities, harmonizing processes, platforms 
+and talent to build a stronger, better and bigger organization. We're igniting innovation by 
+investing in next-generation solutions advancing cloud, AI and GenAI offerings and leveraging 
+domain expertise to power client transformations. 
+ Third, we are cultivating enduring partnerships with some of the leading technology companies, 
+deepening engagements, co-creating on priorities and earning long-term trust. Let me share a 
+few stories from the ground. 
+ A leading U.S. airport chose us to reimagine their customer interaction platform, not as a proof 
+of concept, but as a full production-grade GenAI deployment, transforming passenger 
+experiences in the airport. In BFSI, an insurance major entrusted us to automate critical 
+workflows using Microsoft's Power platform. 
+ In Australia, a mining services company engaged us to overhaul IT infrastructure and 
+cybersecurity at a time when operational resilience is a Boardroom priority. We're also working 
+with a global home improvement retail chain on custom finance and IT solutions and with a 
+multinational logistics company to embed GenAI into the operations. These are some of the 
+many wins powered by our investments in Net New sales, combined with a proven land-and-
+expand approach. 
+ Our industry group verticalization strategy is also showing results. We are seeing strong 
+momentum in Technology, Media and Entertainment and in Industrial & Manufacturing with 
+the resurgence in discretionary spending. BFSI, our largest vertical, contributing 26% to 
+revenues, and Healthcare, our third largest vertical, continue to build on their momentum. 
+ We're also witnessing strong traction in global capability centers or GCCs and within the private 
+equity ecosystems. We continue to support the PE portfolio companies in their post-acquisition 
+journeys, unlocking synergies while enabling GCCs to modernize operations and deliver greater 
+value. These initiatives are gaining momentum, and we expect them to drive meaningful results 
+and growth in the coming quarters. 
+ Our product-led SaaS strategy is another important driver. Arttha, our flagship unified banking 
+platform, is showing encouraging signs of expansion. In BFSI, our Insurance-in-a-Box is 
+replacing fragmented systems with a unified low-code solution that streamlines insurance 
+operations, accelerates product launches, lowers costs and ensures compliance. Together, these 
+efforts are enabling insurers and UMAs to operate smarter, faster and at scale. 

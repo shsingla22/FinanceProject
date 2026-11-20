@@ -1,0 +1,379 @@
+ 
+Biocon Limited  
+20th KM, Hosur Road  
+Electronic City  
+Bangalore 560 100, India  
+T: 91 80 2808 2808  
+F: 91 80 2852 3423  
+ 
+CIN:  L24234KA1978PLC003417  
+ 
+www.biocon.com  
+BIO/SECL/ SG/202 4-25/114 
+ 
+October  30, 2024 
+ 
+To,                                                         
+The Manager  
+BSE Limited  
+Department of Corporate Services  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400 001  To,                                                         
+The Manager  
+National Stock Exchange of India Limited  
+Corporate Communication Department  
+Exchange Plaza, Bandra Kurla Complex  
+Mumbai – 400 050  
+Scrip Code – 532523  Scrip Symbol – Biocon  
+ 
+Dear Sir/Madam,  
+Subject: Outcome of the Board Meeting  
+ 
+Pursuant to Regulation 30 and 33 of the Securities and Exchange Board of India  (Listing Obligation s and 
+Disclosure Requirements) Regulations 2015, (‘SEBI Listing Regulations’) , we wish to inform you that the 
+Board of Directors at its meeting held today, i.e. on Wednesday , October  30, 202 4, inter alia, has considered  
+and approved  the Un-audited financial results (standalone  and consolidated ) of the Company prepared as 
+per Indian Accounting Standard (Ind -AS) along with Limited Review Report thereon for the quarter and half -
+year ended September  30, 202 4.  
+ 
+A copy of the un-audited financial results along with the Limited Review Report is  enclosed herewith . 
+ 
+The above information will also be available on the website of the Company at www.biocon.com .  
+ 
+Further, the Board Meeting commenced at 04:15 P.M. and concluded at 5:15 P.M.  
+ 
+Kindly take the above information on record and acknowledge.  
+ 
+Thanking You,  
+ 
+Yours faithfully,  
+ 
+For Biocon Limited  
+ 
+ 
+ 
+__________ ______ 
+Mayank Verma  
+Company Secretary and Compliance Officer  
+Membership No.: ACS 18776  
+ 
+Encl: as above   
+(Rs. in Million, except per equity share data)
+ (Unaudited)  (Unaudited)  (Unaudited)  (Unaudited)  (Unaudited)  (Audited) 
+1Income
+Revenue from operations 5,254                            5,106                            5,187                            10,360                          10,319                         21,273                         
+Other income 735                               419                               696                               1,154                            1,056                           1,930                           
+Total income 5,989                            5,525                            5,883                            11,514                          11,375                         23,203                         
+2Expenses
+a) Cost of materials consumed 2,630                            2,232                            2,915                            4,862                            5,512                           10,333                         
+b) Purchases of stock-in-trade -                                -                                3                                    -                                3                                   5                                   
+c) Changes in inventories of finished goods, work-in-progress and (260)                              (97)                                (756)                              (357)                              (1,148)                          (991)                             
+     stock-in-trade
+d) Employee benefits expense 1,254                            1,197                            1,125                            2,451                            2,179                           4,523                           
+e) Finance costs 597                               552                               550                               1,149                            1,033                           1,988                           
+f) Depreciation and amortisation expense 305                               305                               306                               610                               604                               1,211                           
+g) Other expenses 1,298                            1,350                            1,247                            2,648                            2,403                           4,876                           
+5,824                            5,539                            5,390                            11,363                          10,586                         21,945                         
+Less: Recovery of cost from co-development partners (net) (44)                                (25)                                (19)                                (69)                                (22)                                (100)                             
+Total expenses 5,780                            5,514                            5,371                            11,294                          10,564                         21,845                         
+3Profit before tax and exceptional items (1-2) 209                               11                                 512                               220                               811                              1,358                           
+4Exceptional items [refer note 14] -                                -                                (52)                                -                                145                               145                               
+5Profit before tax (3 + 4) 209                               11                                 460                               220                               956                              1,503                           
+6Tax expense 
+Current tax (67)                                24                                 82                                 (43)                                121                               151                               
+Deferred tax 45                                 (22)                                31                                 23                                 22                                 159                               
+ Tax expense on removal of indexation benefit [refer note 10] 199                               -                                -                                199                               -                                -                                
+7Net Profit for the period/ year (5-6) 32                                 9                                   347                               41                                 813                              1,193                           
+8Other comprehensive income/ (loss)
+A (i) Items that will not be reclassified to profit or loss 108                               (15)                                (11)                                93                                 (30)                                (28)                                
+   (ii) Income tax relating to items that will not be reclassified to profit or loss (42)                                2                                    3                                    (40)                                8                                   8                                   
+B (i) Items that will be reclassified to profit or loss (66)                                (13)                                (26)                                (79)                                42                                 16                                 
+   (ii) Income tax relating to items that will be reclassified to profit or loss 17                                 3                                    6                                    20                                 (11)                                (3)                                  
+Other comprehensive income/ (loss), net of taxes 17                                 (23)                                (28)                                (6)                                  9                                   (7)                                 
+9Total comprehensive income/ (loss) for the period/ year (7+8) 49                                 (14)                                319                               35                                 822                              1,186                           
+10 Paid-up equity share capital (Face value of Rs. 5 each) 6,003                            6,003                            6,003                            6,003                            6,003                           6,003                           
+11 Reserves i.e. Other equity 1,03,120                      
+12Earnings per share (Face vaue of Rs. 5 each) (not annualised) (not annualised) (not annualised) (not annualised) (not annualised) (annualised)
+ (a) Basic 0.03                               0.01                               0.29                               0.03                               0.68                              1.00                              
+ (b) Diluted 0.03                               0.01                               0.29                               0.03                               0.68                              1.00                              
+ See accompanying notes to the financial resultsPrevious Year ended 
+31.03.2024BIOCON LIMITED
+CIN: L24234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20th KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE - 560 100
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2024
+Sl. No. Particulars3 months  ended 
+30.09.20243 months  ended 
+30.06.20246 months  ended 
+30.09.20243 months  ended 
+30.09.20236 months  ended 
+30.09.2023
+ As at 
+September 30, 2024  As at 
+March 31, 2024 
+(unaudited) (Audited)
+AASSETS 
+1Non-current assets
+(a) Property, plant and equipment 9,909                               8,463                         
+(b) Capital work-in-progress 5,786                               5,450                         
+(c) Investment property 560                                   580                            
+(d) Right-of-use asset 385                                   391                            
+(e) Other intangible assets 141                                   150                            
+(f) Intangible assets under development 146                                   146                            
+(g) Financial assets
+Investments 1,00,381                          92,556                       
+Other financial assets 237                                   282                            
+(h) Income tax asset, net 1,474                               1,267                         
+(i) Deferred tax asset, net [refer note 10] -                                    74                               
+(j) Other non-current assets 876                                   723                            
+Total non-current assets 1,19,895                          1,10,082                   
+2Current assets
+(a) Inventories 7,920                               6,647                         
+(b) Financial assets
+Investments 277                                   629                            
+Trade receivables 9,557                               10,481                       
+Cash and cash equivalents 1,400                               1,223                         
+Other bank balances 789                                   4,634                         
+Other financial assets 110                                   2,549                         
+(c) Other current assets 1,753                               1,437                         
+Total current assets 21,806                             27,600                       
+TOTAL ASSETS 1,41,701                          1,37,682                   
+BEQUITY AND LIABILITIES
+1Equity
+(a) Equity share capital 6,003                               6,003                         
+(b) Other equity 1,02,896                          1,03,120                   
+Total Equity 1,08,899                          1,09,123                   
+2  Non-current liabilities
+(a) Financial liabilities
+Borrowings 21,310                             20,408                       
+Lease liabilities 3                                       7                                 
+Other financial liabilities 223                                   221                            
+(b) Deferred tax liability, net [refer note 10] 168                                   -                             
+(c) Other non-current liabilities 619                                   728                            
+(d) Provisions 318                                   283                            
+Total non-current liabilities 22,641                             21,647                       
+3  Current liabilities
+(a) Financial liabilities
+Borrowings 524                                   -                             
+Lease liabilities 10                                     13                               
+Trade payables
+          - Total outstanding dues of micro enterprises and small enterprises; and 533                                   428                            
+          - Total outstanding dues of creditors other than micro enterprises 
+          and small enterprises      5,588                               4,048                         
+Other financial liabilities 1,718                               779                            
+(b) Other current liabilities 410                                   313                            
+(c) Provisions 354                                   321                            
+(d) Current tax liabilities, net 1,024                               1,010                         
+Total current liabilities 10,161                             6,912                         
+TOTAL EQUITY AND LIABILITIES 1,41,701                          1,37,682                   BIOCON LIMITED
+CIN: L24234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20th KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE - 560 100
+STANDALONE BALANCE SHEET
+(Rs. in Million)
+Year ended
+September 30, 2024 September 30, 2023 March 31, 2024
+(Unaudited) (Unaudited) (Audited)
+ICash flows from operating activities 
+Profit for the period/ year 41                                      813                                  1,193                        
+Adjustments for:
+Depreciation and amortisation expense 610                                   604                                  1,211                        
+Unrealised foreign exchange loss (net) 7                                       10                                    40                              
+Share based compensation expense 231                                   61                                    171                           
+Provision for/ (reversal of) doubtful debts, (net) (2)                                      (256)                                 (370)                          
+Interest expense 1,149                               1,033                               1,988                        
+Interest income (43)                                    (390)                                 (657)                          
+Gain on loss of significant influence -                                    -                                   (123)                          
+Net (gain)/ loss on financial instruments measured at fair value through profit or loss (702)                                 (293)                                 (713)                          
+Net (gain)/ loss on derivative liability measured at fair value through profit or loss -                                    -                                   71                              
+Loss on property, plant and equipment sold, (net) 10                                     2                                       11                              
+Net gain on sale of investments (47)                                    (33)                                   (35)                            
+Dividend received (302)                                 (274)                                 (274)                          
+Profit on sale of investment in subsidiary -                                    (197)                                 (197)                          
+Tax expense [refer note 10] 179                                   143                                  310                           
+Operating profit before changes in operating assets and liabilities 1,131                                1,223                               2,626                        
+Movement in operating assets and liabilities
+Increase in inventories (1,273)                              (2,129)                             (1,046)                       
+Decrease/(increase) in trade receivables 932                                   (2,402)                             (3,556)                       
+Decrease/(increase) in other assets (131)                                 836                                  1,022                        
+Increase/ (decrease) in trade payable, other liabilities and provisions 1,868                               783                                  (3)                               
+Cash generated from / (used in) operations 2,527                               (1,689)                             (957)                          
+Income taxes paid (net of refunds) (150)                                 (164)                                 (275)                          
+Net cash flow generated from/ (used in) operating activities 2,377                               (1,853)                             (1,232)                      
+IICash flows from investing activities
+(1,401)                              (1,563)                             (3,017)                       
+(18)                                    (19)                                   (53)                            
+-                                    16                                    13                              
+Loan given to subsidiaries (725)                                 (691)                                 (1,367)                       
+Purchase of current investments (8,389)                              (5,010)                             (6,732)                       
+Proceeds from sale of current investments 8,797                               6,298                               7,646                        
+Investment in subsidiary (6,250)                              (5,000)                             (5,000)                       
+Investments made in other companies (20)                                    (91)                                   (91)                            
+Proceeds from sale of investments in subsidiary -                                    234                                  234                           
+Investment in bank deposits and inter corporate deposits (563)                                 (820)                                 (2,680)                       
+Redemption/maturity of bank deposits and inter corporate deposits 6,213                               3,562                               7,392                        
+Interest received 432                                   167                                  417                           
+Dividend received 302                                   274                                  274                           
+Net cash flow used in investing activities (1,622)                              (2,643)                             (2,964)                      
+III Cash flows from financing activities 
+Proceeds from exercise of share options 68                                     252                                  307                           
+Proceeds from long-term borrowings -                                    5,000                               5,000                        
+Payment of lease liabilities (9)                                      (7)                                     (13)                            
+Interest paid (40)                                    (23)                                   (57)                            
+Dividend paid (600)                                 (1,801)                             (1,801)                       
+Net cash flow generated from financing activities (581)                                 3,421                               3,436                        
+IV Net increase/ (decrease) in cash and cash equivalents (I + II + III) 174                                   (1,075)                             (760)                          
+V Effect of exchange differences on cash and cash equivalents held in foreign currency 3                                        11                                    17                              
+VI Cash and cash equivalents at the beginning of the year 1,223                                1,966                               1,966                        
+VIICash and cash equivalents at the end of the period/ year (IV + V + VI) 1,400                                902                                   1,223                         
+Reconciliation of cash and cash equivalents as per statement of cash flow 
+Cash and cash equivalents 
+Balances with banks - on current accounts 975                                   897                                  769                           
+Balances with Banks  - on unpaid dividend accounts 5                                        5                                       5                                
+Balances with Banks  - deposit with original maturity of less than 3 months 420                                   -                                   449                           
+Balance as per standalone statement of cash flows 1,400                                902                                  1,223                        Expenditure on property, plant and equipment
+Expenditure on other intangible assets
+Proceeds from sale of property, plant and equipmentBIOCON LIMITED
+CIN: L24234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20th KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE - 560 100
+STANDALONE STATEMENT OF CASH FLOWS
+(Rs. in Million)
+Six months ended
+(Rs. in Million, except per equity share data)
+ (Unaudited)  (Unaudited)  (Unaudited)  (Unaudited)  (Unaudited)  (Audited) 
+1Income
+Revenue from operations
+Sale of products 26,807                         26,134                         25,087                      52,941                     49,199                           1,05,880                  
+Sale of services [refer note 6] 8,643                           7,627                           8,839                        16,270                     18,634                           36,078                      
+Other operating revenue [refer note 5(A)] 454                              568                              697                           1,022                       1,016                             5,599                         
+35,904                         34,329                         34,623                     70,233                     68,849                          1,47,557                  
+Other income [refer note 4 and note 5(B)] 325                              11,345                         1,579                        11,365                     2,514                             8,655                         
+Total income 36,229                         45,674                         36,202                     81,598                     71,363                          1,56,212                  
+2Expenses
+a) Cost of materials consumed [refer note 13] 10,094                         8,601                           11,660                      18,695                     21,916                           50,719                      
+b) Purchases of stock-in-trade 491                              4,085                           3,720                        4,576                       6,495                             6,827                         
+c) Changes in inventories of finished goods, work-in-progress and 1,241                           (859)                             (4,110)                       382                          (5,045)                            (8,567)                       
+     stock-in-trade [refer note 13]
+d) Employee benefits expense 7,896                           7,554                           6,224                        15,450                     12,017                           26,641                      
+e) Finance costs 2,256                           2,360                           2,477                        4,616                       4,807                             9,744                         
+f) Depreciation and amortisation expense 4,199                           4,054                           3,893                        8,253                       7,473                             15,688                      
+g) Other expenses 9,772                           9,065                           9,752                        18,532                     18,994                           39,788                      
+35,949                         34,860                         33,616                     70,504                     66,657                          1,40,840                  
+Less: Recovery of cost from co-development partners (net) (444)                             (321)                             (39)                            (765)                         (88)                                 (838)                           
+Total expenses 35,505                         34,539                         33,577                     69,739                     66,569                          1,40,002                  
+3Profit before share of profit of joint venture and associates, exceptional items and 
+tax (1-2)724                              11,135                         2,625                        11,859                     4,794                             16,210                      
+4Share of loss of joint venture and associates, net [refer note 4] -                               -                               (242)                          -                           (574)                               (842)                           
+5Profit before exceptional items and tax (3+4) 724                              11,135                         2,383                        11,859                     4,220                             15,368                      
+6Exceptional items (net) [refer note 14] 260                              320                              (240)                          580                          (240)                               (116)                           
+7Profit before tax (5 + 6) 984                              11,455                         2,143                        12,439                     3,980                             15,252                      
+8Tax expense [refer note 10 and note 14]
+Current tax 243                              2,253                           523                           2,496                       957                                3,143                         
+Deferred tax 271                              584                              (107)                          855                          (193)                               (869)                           
+    Tax expense on removal of indexation benefit [refer note 10] 199                              -                               -                            199                          -                                 -                             
+9Profit for the period/year (7 - 8) 271                              8,618                           1,727                        8,889                       3,216                             12,978                      
+10Other comprehensive income/ (loss)
+A (i) Items that will not be reclassified to profit or loss [refer note 4] 5,846                           (318)                             (87)                            5,528                       (74)                                 136                            
+   (ii) Income tax relating to items that will not be reclassified to profit or loss (12)                               26                                 27                              14                             23                                   30                              
+B (i) Items that will be reclassified to profit or loss (566)                             787                              1,862                        221                          3,891                             4,396                         
+   (ii) Income tax relating to items that will be reclassified to profit or loss (45)                               (79)                               101                           (124)                         (228)                               (695)                           
+Other comprehensive income for the period / year, net of taxes 5,223                           416                              1,903                        5,639                       3,612                             3,867                        
+11Total comprehensive income for the period / year (9 + 10) 5,494                           9,034                           3,630                        14,528                     6,828                             16,845                      
+Profit/ (loss) attributable to:
+Shareholders of the Company (160)                             6,597                           1,256                        6,437                       2,270                             10,225                      
+Non-controlling interest 431                              2,021                           471                           2,452                       946                                2,753                         
+Profit for the period/ year 271                              8,618                           1,727                        8,889                       3,216                             12,978                      
+Other comprehensive income/ (loss) attributable to:
+Shareholders of the Company 5,351                           240                              1,482                        5,591                       2,584                             2,688                         
+Non-controlling interest (128)                             176                              421                           48                             1,028                             1,179                         
+Other comprehensive income for the period/ year 5,223                           416                              1,903                        5,639                       3,612                             3,867                        
+Total comprehensive income attributable to:
+Shareholders of the Company 5,191                           6,837                           2,738                        12,028                     4,854                             12,913                      
+Non-controlling interest 303                              2,197                           892                           2,500                       1,974                             3,932                         
+Total comprehensive income for the period/ year 5,494                           9,034                           3,630                        14,528                     6,828                             16,845                      
+12Paid-up equity share capital (Face value of Rs. 5 each) 6,003                           6,003                           6,003                        6,003                       6,003                             6,003                         
+13Reserves i.e. Other equity 1,91,834                  
+14Earnings per share (Face vaue of Rs. 5 each) (not annualised) (not annualised) (not annualised) (not annualised) (not annualised) (annualised)
+(a) Basic (0.13) 5.51                              1.05                           5.38                          1.90                                8.55                            
+(b) Diluted (0.13) 5.51                              1.05                           5.37                          1.90                                8.54                            
+See accompanying notes to the financial results Previous Year               
+ended 31.03.2024  6 months 
+ended
+30.09.2023 BIOCON LIMITED
+CIN: L24234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20th KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE - 560 100
+STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2024
+Sl. No. Particulars  3 months 
+ended
+30.09.2024  3 months  ended 
+30.09.2023  6 months 
+ended
+30.09.2024  3 months 
+ended
+30.06.2024 
+ As at 
+September 30, 2024 As at 
+March 31, 2024
+(Unaudited) (Audited)
+AASSETS 
+1Non-current assets
+(a) Property, plant and equipment 74,624                            74,181                               
+(b) Capital work-in-progress 43,542                            39,852                               
+(c) Right-of-use assets 6,368                              5,745                                 
+(d) Goodwill 1,64,673                         1,63,724                            
+(e) Other intangible assets 60,244                            62,786                               
+(f) Intangible assets under development 42,007                            40,081                               
+(g) Financial assets
+Investments 12,527                            6,841                                 
+Derivative assets 1,709                              2,657                                 
+Other financial assets 1,785                              1,466                                 
+(h) Income tax asset, net 4,577                              4,129                                 
+(i) Deferred tax asset, net [refer note 10] 2,214                              3,173                                 
+(j) Other non-current assets 5,474                              4,280                                 
+Non-current assets 4,19,744                         4,08,915                            
+2Current assets
+(a) Inventories 49,651                            49,439                               
+(b) Financial assets
+Investments 5,559                              3,156                                 
+Trade receivables 61,292                            62,306                               
+Cash and cash equivalents 16,877                            12,336                               
+Other bank balances 4,067                              10,251                               
+Derivative assets 1,379                              1,384                                 
+Other financial assets 4,669                              5,769                                 
+(c) Other current assets 8,041                              7,151                                 
+Current assets 1,51,535                         1,51,792                            
+TOTAL ASSETS 5,71,279                         5,60,707                            
+BEQUITY AND LIABILITIES
+1Equity
+(a) Equity share capital 6,003                              6,003                                 
+(b) Other equity 2,03,929                         1,91,834                            
+Equity attributable to owners of the Company 2,09,932                         1,97,837                            
+Non-controlling interests 57,268                            54,911                               
+Total Equity 2,67,200                         2,52,748                            
+2  Non-current liabilities
+(a) Financial liabilities
+Borrowings [refer note 11] 1,19,815                         1,29,324                            
+Lease liabilities 5,198                              4,924                                 
+Derivative liabilities 189                                  -                                     
+Other financial liabilities 11,575                            10,725                               
+(b) Other non-current liabilities 3,084                              3,107                                 
+(c) Provisions 2,260                              2,376                                 
+(d) Deferred tax liability, net 3,907                              3,915                                 
+Non-current liabilities 1,46,028                         1,54,371                            
+3  Current liabilities
+(a) Financial liabilities
+Borrowings [refer note 11 and 12] 41,683                            27,972                               
+Lease liabilities 1,012                              547                                    
+Trade payables
+          - Total outstanding dues of micro enterprises and small enterprises; and 1,273                              958                                    
+          - Total outstanding dues of creditors other than micro enterprises 
+         and small enterprises      62,416                            61,762                               
+Derivative liabilities 18                                    12                                       
+Other financial liabilities 42,150                            50,005                               
+(b) Other current liabilities 4,742                              7,768                                 
+(c) Provisions 2,076                              1,795                                 
+(d) Current tax liabilities, net 2,681                              2,769                                 
+Current liabilities 1,58,051                         1,53,588                            
+TOTAL EQUITY AND LIABILITIES 5,71,279                         5,60,707                            BIOCON LIMITED
+CIN: L24234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20th KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE - 560 100
+CONSOLIDATED BALANCE SHEET
+(Rs. in Million)

@@ -1,0 +1,360 @@
+                              
+            
+  
+ June 0 3, 2025 
+The Secretary  
+National Stock Exchange of India Ltd  
+Exchange Plaza, C/1, Block G,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai – 400 051  
+NSE Symbol: TEJASNET  The Secretary  
+BSE Limited  
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+BSE Scrip Code: 540595  
+ Dear Sir/Madam,  
+Re: Business Responsibility and Sustainability Report for the Financial Year 202 4-25 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing  
+Obligations and Disclosure Requirements) Regulations, 2015, as amended, we are enclosing  
+herewith the Business Responsibility and Sustainability Report for the Financial Year 202 4-25, 
+which forms an integral part of the Annual Report for the Financial Year  2024-25. 
+ 
+Kindly take the above information on record.  
+ 
+ Yours sincerely  
+ For Tejas Networks Limited  
+   
+ 
+ 
+ 
+ Anantha Murthy N  
+ Company Secretary & Compliance Officer  
+ ACS - 17134  
+ 
+Business Responsibility and Sustainability Report
+SECTION A : General Disclosures  
+I. Details of the listed entity 
+1 Corporate Identity Number (CIN) of the Listed Entity L72900KA2000PLC026980
+ 2 Name of the Listed Entity Tejas Networks Limited
+3 Year of incorporation 24-04-2000
+4 Registered office address J P Software Park, Plot No 25, Sy. No 13, 14, 17, 18 Konnapana 
+Agrahara Village, Begur Hobli, Bengaluru - 560100, Karnataka.
+5 Corporate office addressJ P Software Park, Plot No 25, Sy. No 13, 14, 17, 18 Konnapana 
+Agrahara Village, Begur Hobli, Bengaluru - 560100, Karnataka.
+6 E-mail corporate@tejasnetworks.com
+7 Telephone 080 41794600
+8 Website  www.tejasnetworks.com
+9 Financial year for which reporting is being done 01-04-2024 to 31-03-2025
+10 Name of the Stock Exchange(s) where shares are listed1. BSE Limited
+2. The National Stock Exchange of India Limited
+11 Paid-up Capital ` 176,32,24,400/-
+12Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on the 
+BRSR report
+Name of Contact PersonN R Ravikrishnan
+General Counsel, Chief Compliance Officer and Company 
+Secretary (upto May 31, 2025)
+Anantha Murthy N
+Company Secretary and Compliance Officer  
+(w.e.f. June 1, 2025)
+Contact Number of Contact Person +91 80 41794608
+Email Of Contact Personravikrishnanr@tejasnetworks.com 
+ananthmurthy@tejasnetworks.com
+13Reporting boundary - Are the disclosures under this report 
+made on a standalone basis (i.e. only for the entity) or on 
+a consolidated basis (i.e. for the entity and all the entities 
+which form a part of its consolidated financial statements, 
+taken, together).The disclosures under this report are made on a consolidated 
+basis, unless otherwise specified
+14 Name of assurance provider -
+15 Type of assurance obtained -
+Business Responsibility and Sustainability Report
+Annual Report 2024-25
+Business Responsibility and Sustainability ReportII. Products/services
+16. Details of business activities (accounting for 90% of the entity's Turnover):
+Sl. 
+No.Description of 
+Main 
+ActivityDescription of Business Activity% of Turnover of 
+the entity
+ 1Communication 
+Equipments and 
+SoftwareThe company designs, develops and manufactures leading-edge wireless 
+and wireline equipment used predominantly by telecom service providers, 
+utilities, defence and government agencies worldwide. The company has 
+commercialized a wide range of technologies and products for building 
+end-to-end telecom networks that includes 4G/5G mobile broadband,  
+multi-gigabit fiber broadband, terabit-scale optical transmission and high-
+capacity packet switches. 
+The company designs and develops software products that enable remote 
+configuration, monitoring, provisioning and management of its products 
+from a central, web-enabled platform. The company's software products can 
+be either hosted on dedicated servers or on the public cloud.96.92
+2Support Services 
+towards 
+Communication 
+equipment and 
+ServicesThe company offers a comprehensive portfolio of network services to its 
+customers that includes installation and commissioning of its products, 
+post-sale support, maintenance, upgrades and repair, product training, and 
+network design advisory, audit and optimization services.2.11
+17. Products/Services sold by the entity (accounting for 90% of the entity's Turnover):
+Sl. No. Product/Service NIC Code% of total 
+Turnover 
+contributed
+1 Manufacture of Communication Equipments and Software 263 96.92
+2 Support Services towards Communication equipments and Services 263 2.11
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated: 
+Location Number of plants Number of offices Total
+National 1 9 10
+International Nil 10 10
+19. Markets served by the entity: 
+a. Number of locations
+Locations Number
+National (No. of States) 28
+International (No. of Countries) 75
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+3% (excluding other operating revenue)
+c. A brief on types of customers 
+The Company's customers include leading telecom operators, Internet Service Providers (ISP) and Utilities (Power, Railway, Oil 
+& Gas, Smart Cities).
+Annual Report 2024-25
+IV. Employees
+20. Details as at the end of Financial Year: 2024-2025
+a. Employees and workers (including differently abled): 
+Sl. 
+No. Particulars Total 
+(A) Male Female 
+No. (B) % (B / A) No. (C) % (C / A) 
+Employees  
+1. Permanent (D) 2,370 2,032 86 338 14
+2. Other than Permanent* (E) 2,115  2,021 96     94 4
+3. Total employees (D + E) 4,485 4,053 90   432 10
+Workers  
+4. Permanent (F) 
+Not Applicable 5. Other than Permanent (G) 
+6. Total workers (F + G) 
+*Tejas Networks categorises its entire workforce as ‘Employees’. Employees consist of Permanent Employees across its global 
+locations. (i.e., those who are on the Company’s, its subsidiaries’ payroll) and Other than Permanent Employees (i.e., contractual 
+employees who are on an external party’s payroll). There are no categories identified as ‘workers’ at Tejas Networks. Hence, no 
+details relating to sub-categorisation for workers is provided in this report.
+b. Differently abled Employees and workers:
+Sl. 
+No Particulars Total 
+(A) Male Female 
+No. (B) % (B / A) No. (C) % (C / A) 
+Differently abled Employees  
+1. Permanent (D) 
+Not Applicable, please refer the below notes2. Other than Permanent (E) 
+3. Total differently abled 
+employees (D + E)
+Differently abled Workers  
+4. Permanent (F) 
+Not Applicable, please refer the below notes5. Other than permanent (G) 
+6. Total differently abled 
+workers (F + G) 
+Note: Tejas Networks is an equal opportunity employer. We do not unfairly discriminate on any grounds, including race, caste, 
+religion, colour, ancestry, marital status, gender, sexual orientation, age, nationality, ethnic origin, including disability or any 
+other category protected by applicable law. Currently, the Company does not track statistics with respect to differently abled 
+employees.
+21. Participation/Inclusion/Representation of women 
+ Category Total (A) No. and percentage of Females 
+No. (B) % (B / A) 
+Board of Directors 6 1 17
+Key Management 
+Personnel 4 0 0
+Note:  At Tejas Networks, Key Managerial Personnel includes MD & CEO, Executive Director & COO, CFO and Company Secretary.
+Business Responsibility and Sustainability Report
+Annual Report 2024-25
+Business Responsibility and Sustainability Report22. Turnover rate for permanent employees and workers
+(Disclose trends for the past 3 years)
+FY 2024-25 (Turnover rate in  
+current FY) [values in %]FY 2023-24 (Turnover rate in 
+previous FY) [values in %]FY 2022-23 (Turnover rate in the  
+year prior to the previous FY)  
+[values in %]
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees9.5 15.2 10.3 6.7 6.0 6.6 17.9 19.1 18.0
+Permanent 
+WorkersNot Applicable
+Note: The employee turnover rate includes both voluntary and involuntary resignations, as well as fatalities, among permanent 
+employees of Tejas Networks Ltd.
+V. Holding, Subsidiary and Associate Companies (including Joint Ventures)
+Yes. The Company has one holding and three subsidiaries (including one step-down subsidiary) as on March 31, 2025. Refer to 
+Form AOC-1 provided as Annexure -1 in Board's Report.
+23. (a) Names of Holding / Subsidiary / Associate Companies / Joint Ventures
+Sl. No. 
+ Name of the Holding / Subsidiary 
+/ Associate Companies / Joint 
+Ventures (A) Indicate whether 
+Holding/ Subsidiary/ 
+Associate/ Joint 
+Venture % of shares held by 
+listed entity Does the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Yes/No) 
+1 Panatone Finvest Limited Holding 53.83 Yes
+2 Tejas Communication Pte. Limited Subsidiary 100 Yes
+3Tejas Communications (Nigeria) 
+LimitedStep-down subsidiary 100 Yes
+4 Saankhya Labs Inc. Subsidiary 100 Yes
+VI. CSR Details
+24. Corporate Social Responsibility (as per standalone financials)
+(i) Whether CSR is applicable as per Section 135 of Companies Act, 2013 Yes
+(ii) Turnover (in Rs.) 8,915.73 cr
+(iii) Net worth (in Rs.) 3,572.79 cr
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedif Yes, then provide web-link for 
+grievance redress policy Grievance 
+Redressal Mechanism in Place 
+(Yes/No)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communitieshttps://www.tejasnetworks.com/
+main-control/download/Whistle-
+blower-Policy.pdf0 0 0 0
+Investors 
+(other than 
+shareholders)https://www.tejasnetworks.com/
+main-control/download/Whistle-
+blower-Policy.pdf0 0 0 0
+Annual Report 2024-25
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedif Yes, then provide web-link for 
+grievance redress policy Grievance 
+Redressal Mechanism in Place 
+(Yes/No)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Shareholdershttps://scores.sebi.gov.in/scores-
+home0 0 0 0
+Employees 
+and workershttps://www.tejasnetworks.com/
+main-control/download/Whistle-
+blower-Policy.pdf0 0 0 0
+Customershttps://www.tejasnetworks.com/
+main-control/download/Whistle-
+blower-Policy.pdf0 0 0 0
+Value Chain 
+Partnershttps://www.tejasnetworks.com/
+main-control/download/Whistle-
+blower-Policy.pdf0 0 0 0
+Other (please 
+specify)
+26. Overview of the entity’s material responsible business conduct issues 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social matters 
+that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or mitigate the risk 
+along-with its financial implications, as per the following format:
+Sl. 
+No.Material issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for identifying the risk 
+opportunityIn case of risk, approach 
+to adapt or mitigateFinancial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1Product 
+And Service 
+ResponsibilityOContribution towards a 
+sustainable ecosystemNot ApplicablePositive 
+Implications
+2Talent 
+ManagementRThe Company's R&D requires 
+constant upgradation of 
+high-end skills and research 
+capabilitiesEnhanced investment 
+in tools, system and 
+content towards 
+capability development.Negative 
+Implications
+3Data Privacy 
+And SecurityRSafeguarding of the enterprise 
+data and also to fulfil the 
+contractual responsibility to 
+customers. The increasing 
+landscape of data privacy laws 
+across the globe also possess a risk 
+of penalties on non-compliances 
+and reputational lossEnhanced cyber security 
+measures like robust 
+processes, policies, 
+and awareness and 
+sensitization programs.Negative 
+Implications
+4Ethical And 
+Transparent 
+Business 
+ConductREthical behavior is critical for the 
+success of all companies and 
+any such unethical behavior 
+will be risks, which can result in 
+reputation loss and damage to 
+stakeholder trust and business 
+disruption.Periodical internal 
+reviews, audit and 
+presentations on 
+changes introduced by 
+regulators.Positive 
+Implications
+5GHG Emissions 
+And Energy 
+ManagementRClimate change is a threat to 
+the Company's infrastructure 
+that may disrupt operations and 
+potentially impact the safety 
+and well-being of employeesBusiness continuity policy 
+and emergency response 
+plans are in placeNegative 
+Implications
+Business Responsibility and Sustainability Report
+Annual Report 2024-25

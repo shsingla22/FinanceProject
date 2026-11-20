@@ -1,0 +1,298 @@
+Coforge Limited    Registered office:   www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A       8, Balaj i Estate, Third Floor, Guru Ravi Das Marg  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India   Kalkaji, New Delhi -110019, India       CIN: L72100DL19 92PLC048753  
+T: +91 120 4592300 | F: +91 120 4592 301       T: +91 11 41029 297| F: +91 11 2641 4900    Email: Secretarial@coforge.com  Date: May 27, 2024  
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001  
+BSE Scrip code : 532541  
+Equity ISIN INE591G01017  
+Non-Convertible Bond ISIN INE591G08012 The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited 
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Symbol:  COFORGE  
+Dear Madam / Sir  
+Sub: Proposed Qualified Institutions Placement of equity shares of face value ₹ 10 each (“Equity Shares”) 
+(such placement, the “Issue”) by Coforge  Limited  (the “Company”) under Chapter VI of the 
+Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 
+2018, as amended (the “SEBI ICDR Regulations”) and Sections 42 and 62 of the Companies Act, 2013 , 
+as amended  
+Please refer to our letter dated May 21, 2024 intimating you about the meeting of the Fund Raising Committee 
+(“Committee”) to be held on May 27, 2024 (which commenced at 09:00 pm and concluded at 09:32 pm) in 
+respect of the Issue.  
+The Issue was opened on May 21, 2024 and the same was intimated to you vide our letter dated May 21, 2024 . 
+We wish to inform you that the Committee at its meeting held today i.e. May 27, 2024 has, inter alia, passed the 
+following resolutions: 
+a.Approved the closure of the Issue today (i.e. May 27, 2024 ) pursuant to the receipt of application forms and
+the funds in the escrow account from the eligible qualified institutional buyers in accordance with the terms
+of the Issue ;
+b.Determined and approved , in accordance with the SEBI ICDR Regulations , the allocation of up to 48,69,565
+Equity Shares at an Issue price of ₹ 4,600  per Equity Share  (including a premium of ₹ 4,590  per Equity
+Share) upon the closure of the Issue, determined according to the formula prescribed under Regulation 176 (1)
+of the SEBI ICDR Regulations, as amended, for the Equity Shares to be allotted to the eligible qualified
+institutional buyers in the Issue;
+c.Approved  and finalized  the confirmation of allocation note to be sent to eligible qualified institutional buyers ,
+intimating them of the allocation of Equity Shares  pursuant to the Issue ;
+d.Approval of the updated Unaudited Pro Forma Condensed Combined Financial Stateme nts, due to a change
+in the disclosure of impact in earnings per share.  The changes made are related to and on account of
+actualisation of Issue Price, being ₹4,600 per Equity Share as opposed to the Floor Price, being ₹4,531.4.
+The total consideration for  acquisition  of Cigniti  has been considered at ₹22,400  million, resulting in
+issuance of  4,869,565 Equity Shares  (“Updated Unaudited Pro Forma Condensed Combined Financial
+Statements ”); and
+e.Approved and adopted the placement document dated May 27 , 2024 , in connection with the Issue.
+f.Copy of this intimation is being also made available on the website of the Company at
+https://www.coforge.com/investors/disclosure -under -listing -regulations .
+A copy of the Updated Unaudited Pro Forma Condensed Combined Financial Statements is enclosed herewith.  
+We request you to kindly take this on records, and the same be treated as compliance under Regulation 30 and 
+other applicable regulations of the Securities and Exchange Board of India (Listing Obligations Disclosure 
+Requirements) Regulations, 2015, as amended.  
+Thank ing you 
+Yours faithfully  
+For Coforge Limited  
+Barkha Sharma  
+Company Secretary 
+ACS: 24060  
+Encl .: As above  
+UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL STATEMENTS
+FOR THE YEAR ENDED MARCH 31, 2024
+Coforge Limited (the “Company”) is a global enterprise information technology solutions and services company
+offering its clients comprehensive capabilities in product engineering services, intelligent automation services,
+data and integration services, cloud and infrastructure management services, software engineering services and
+business process management services.
+Cigniti Technologies Limited (“Cigniti”) is an Indian company headquartered in Hyderabad, India and through a
+mix of on-shore and off-shore capabilities Cigniti offers (i) quality engineering services, (ii) digital engineering
+services, and (iii) digital assurance services. Cigniti also offers advisory and transformation consultancy, and these
+offerings include test tooling advisory, test benchmarking, automation advisory, maturity advisory, development
+operational consulting services, AI strategizing, data architecture advisory, among others.
+On May 2, 2024, our Company entered into: (i) a share purchase agreement with Cigniti and the promoters of
+Cigniti (" Cigniti Promoters ") to acquire 8,945,295 equity shares (" Cigniti Promoter Shares "), constituting
+32.77% of the paid up share capital of Cigniti and 32.47% of the expanded voting share capital of Cigniti (" SPA
+1"); and (ii) a share purchase agreement with certain identified public shareholders of Cigniti (" Identified Public
+Shareholders ") to acquire 4,884,796 equity shares (" Identified Public Shareholder Shares ") constituting
+17.89% of the paid up share capital of Cigniti and 17.73% of the expended voting share capital of Cigniti (" SPA
+2", and together with SPA 1, the " SPAs "). Our Company has agreed to acquire 14,875,358 equity shares of Cigniti
+("Cigniti Equity Shares ") at ₹ 1,415 per Cigniti Equity Share. The completion of the acquisition of Cigniti
+("Acquisition ") is subject to the satisfaction of certain conditions precedent, including the receipt of prior written
+approvals from/ under: (i) the Competition Commission of India, and (ii) the Hart-Scott-Rodino Antitrust
+Improvements Act of 1976 (" Mandatory Statutory Approvals ").
+Pursuant to the execution of SPAs to acquire in excess of 25% of the Cigniti Equity Shares and control over
+Cigniti, our Company is required to make an open offer to the public shareholders of Cigniti in terms of Regulation
+3(1) and 4 of the Takeover Regulations (" Open Offer "). The total consideration for the Open Offer, assuming
+full acceptance, is ₹ 10,134,527,150 (“ Maximum Consideration ”). Our Company has opened an escrow account
+with an escrow bank and the escrow bank has provided a bank guarantee of ₹ 1,773 million and our Company has
+made a cash deposit of ₹ 101million, being 1% of the Maximum Consideration. In terms of Regulation 22(2) and
+the proviso to Regulation 22(2A) of the Takeover Regulations, subject to our Company depositing in the open
+offer escrow account, cash of an amount equal to 100% of the Maximum Consideration, our Company may, after
+the expiry of 21 days from date of the DPS, subject to fulfilment or waiver of the conditions set forth in the SPAs,
+complete the Initial Promoter Closing and the closing under SPA 2 and appoint its directors on the board of Cigniti
+pursuant to the SPAs.
+Upon (a) the receipt of the Mandatory Statutory Approvals and the completion of the conditions precedent under
+the SPAs, (b) the completion of 21 workings days, as defined in the SPA, from the date of the detailed public
+statement in terms of Regulations 3(1) and 4 read with Regulations 13(4), 14(3), 15(2) and other applicable
+regulations of the Takeover Code to the public shareholders of Cigniti (" DPS") pursuant to the Open Offer, and
+(c) subject to the completion of the qualified institutional placement of equity shares of our Company, our
+Company will complete the acquisition of 10% of the expanded voting share capital from the Cigniti Promoters
+(“Initial Tranche Closing ”).
+Upon completion of the Open Offer, if the shareholding of our Company in Cigniti does not exceed 54.00% of
+the expanded voting share capital and 54.49% of the paid up share capital of Cigniti, our Company will acquire
+such further number of Cigniti Equity Shares from the Cigniti Promoters, such that the shareholding of our
+Company does not exceed 54.00% of the expanded voting share capital and 54.49% of the paid up share capital
+of Cigniti (“ Final Tranche Closing ”).
+The Company proposes to undertake the Acquisition in two tranches – initially, the Company will acquire
+2,754,696 equity shares of Cigniti, representing 10.00% of the share capital of Cigniti, as the initial acquisition
+tranche, at a price of ₹ 1,415/- per equity share, aggregating to ₹ 3,897.89 million from the promoters of Cigniti.
+Subsequently, and subject to the shareholding of our Company not reaching 54% of the share capital of Cigniti
+following an Open Offer, the Company will purchase the remaining of the equity shares from the members of the
+promoter and promoter group of Cigniti. While the Company has announced the Acquisition and has entered into
+the SPAs, the consummation of the Acquisition remains subject to completion of customary conditions and receipt
+of approvals.
+In terms of SPA 1, our Company and Cigniti have agreed in principle for a potential merger of Cigniti into our
+Company (“ Merger ”). Towards this end, our Company and Cigniti have agreed to convene a meeting of their
+board of directors within 45 business days of the Open Offer closing date or the Final Tranche Closing to consider
+the Merger.
+The unaudited pro forma combined financial statements are based on the respective historical consolidated
+financial statements of the Company and Cigniti as adjusted to give effect to the acquisition and merger and the
+related changes to equity. The unaudited pro forma condensed combined statements of profit and loss is for the
+year ended March 31, 2024 to give effect to these transactions as if they had occurred on April 1, 2023. The
+unaudited pro forma condensed combined balance sheet as of March 31, 2024 gives effect to these transactions
+as if they had occurred on March 31, 2024.
+The assumptions and estimates underlying the unaudited adjustments to the pro forma condensed combined
+financial statements are described in the accompanying notes, which should be read together with the pro forma
+condensed combined financial statements. The unaudited pro forma combined financial statements should be read
+together the historical consolidated financial statements of the Company and Cigniti in the placement document.
+Proforma Condensed Combined Balance Sheet Amount in Rs Million
+Particulars Consolidated balance
+sheet of Coforge Limited
+as on March 31, 2024
+Historical Consolidated
+balance sheet of
+Cigniti Technologies
+Limited as on March
+31, 2024
+Historical Proforma
+Adjustments Proforma
+Adjustments
+on account of
+Reclassificati
+on Notes Proforma
+Condensed
+Combined Balance
+Sheet of Coforge
+Limited
+A B C D E=A+B+C+D
+ASSETS
+Non-current assets
+Property, plant and equipment 4,470 230 - 4,700
+Right-of-use assets 2,927 175 - 3,102
+Capital work-in-progress 232 - - 232
+Goodwill 11,738 740 26,075 3 38,553
+Other intangible assets 4,395 68 8,179 4 12,642
+Financial assets -
+Investments - 28 - 28
+Trade receivables 1,464 - - 1,464
+Other financial assets 590 96 - 686
+Income tax assets (net of provisions) 285 91 - 376
+Deferred tax assets (net) 5,583 91 - 5,674
+Other non-current assets 3,368 - - 3,368
+Total non-current assets 35,052 1,519 34,254 - 70,825
+Current assets
+Inventories - - -
+Contract assets 1,791 - 1,791
+Financial assets
+Investments - 2,471 - 2,471
+Trade receivables 18,039 3,186 - 21,225
+Cash and cash equivalents 3,213 1,040 1,309 (3) 1, 11 (a) 5,559
+Other bank balances 139 565 - 3 1, 11 (a) 707
+Other financial assets 178 1,048 - 1,226
+Other current assets 2,665 230 - 2,895
+Total current assets 26,025 8,540 1,309 - 35,874
+TOTAL ASSETS 61,077 10,059 35,563 - 106,699
+EQUITY AND LIABILITIES
+Equity
+Equity share capital 618 273 (190) 1 701
+Other equity 35,648 7,108 32,783 1 75,539
+Equity attributable to owners of Coforge Limited 36,266 7,381 32,593 - 76,240
+Non-controlling interests (''NCI'') 1,003 - - - 1 1,003
+TOTAL EQUITY 37,269 7,381 32,593 - 77,243
+Liabilities
+Non-current liabilities
+Financial liabilities
+Borrowings 3,399 - 3,399
+Lease liabilities 2,317 86 - 2,403
+Trade payables 627 - 627
+Other financial liabilities 253 - 563 1 816
+Employee benefit obligations 1,304 241 - 1,545
+Deferred tax liabilities 466 2,051 4 2,517
+Other non-current liabilities 127 - 127
+Total non- current liabilities 8,493 327 2,614 - 11,434
+Current liabilities
+Financial liabilities
+Borrowings 967 349 - 1,316
+Lease liabilities 577 137 - 714
+Trade payables 8,062 1,139 - (272) 11 (b) 8,929
+Other financial liabilities 2,375 80 355 272 7, 11 (b) 3,082
+Employee benefit obligations 417 189 - 606
+Other current liabilities 2,917 299 - 3,216
+Current tax liabilities (net) - 158 - 158
+Total current liabilities 15,315 2,351 355 - 18,021
+TOTAL LIABILITIES 23,808 2,678 2,969 - 29,455
+TOTAL EQUITY AND LIABILITIES 61,077 10,059 35,562 - 106,698
+Proforma Condensed Combined Statement of  Profit and Loss Amount in Rs Million, unless otherwise stated
+ Particulars Consolidated statement of
+profit and loss of Coforge
+Limited for the year ended
+March 31, 2024
+Historical Consolidated statement
+of profit and loss of
+Cigniti Technologies
+Limited for the year
+ended March 31, 2024
+Historical Proforma
+Adjustments Proforma
+Adjustment
+s on
+account of
+Reclassific
+ation Notes Proforma
+Condensed
+Combined
+statement of profit
+and loss for the
+year ended March
+31, 2024
+ A  B  C  D  E=A+B+C+D
+Revenue from operations 91,790 18,150 - 109,940
+Other income 614 331 - 945
+Total income 92,404 18,481 - - 110,885
+Expenses
+Purchases of stock-in-trade / contract cost 94 - - 94
+Employee benefits expense 55,069 11,242 - 66,311
+Hired contractors costs - 2,861 - (2,861) 11 (c) -
+Finance costs 1,256 41 - 1,297
+Depreciation and amortisation expense 3,186 303 901 4 4,390
+Other expenses 22,350 1,830 945 2,861 8,11(c) 27,986
+Total expenses 81,955 16,277 1,846 - 100,078
+Profit before exceptional items and tax 10,449 2,204 (1,846) - 10,807
+Exceptional items - - - -
+Profit before tax 10,449 2,204 (1,846) - 10,807
+Income tax expense:
+Current tax 2,493 580 - 3,073
+Deferred tax (400) (32) (224) 4 (656)
+Total tax expense 2,093 548 (224) - 2,417
+Profit for the year 8,356 1,656 (1,622) - 8,390
+Profit is attributable to:
+Owners of Coforge Limited 8,080 1,656 (1,622) 8,114
+Non-controlling interests 276 - - 276
+8,356 1,656 (1,622) - 8,390
+Earnings per equity share (of Rs 10 each) attributable to owners of Coforge Limited
+Basic earnings per share (Rs.) 131.6 60.7 116.4
+Diluted earnings per share (Rs.) 129.6 60.4 114.9
+Coforge Limited
+Notes to the unaudited pro forma condensed consolidated financial statements as at and for the year
+ended March 31, 2024
+(All amounts in INR million, unless otherwise stated)
+Basis of Preparation
+The historical consolidated financial statements have been adjusted in the pro forma condensed combined
+financial statements to give effect to pro forma events that (a) are directly attributable to the Merger and (b) are
+factually supportable.
+Historical financial information as stated in condensed consolidated financial position as at March 31, 2024 and
+condensed consolidated statement of profit and loss for the year then ended, has been prepared based on audited
+consolidated financial statement of the respective companies prepared in accordance with Indian Accounting
+Standards (Ind AS) notified under the companies (Indian Accounting Standards) Rules, 2015.
+The historical financial of Cigniti has been adjusted to match the classification of the historical financial
+information of the Company, as at and for the year ended March 31, 2024.
+The combined pro forma financial information has been prepared by the management of the Company considering
+the acquisition method as per the principles of Ind AS 103 – Business combination. Accordingly, we have
+provisionally allocated the purchase consideration and fair value of non controlling interest to the estimated fair
+value of assets acquired and liabilities assumed and recognised the difference between aggregate of purchase
+consideration and fair value of non controlling interest vis-a-viz net assets as goodwill in the proforma
+consolidated combined balance sheet as at March 31, 2024.
+The combined pro forma financial information does not reflect the adjustment arising on account of any expected
+cost savings or other synergies from the acquisition of Cigniti and other planned cost savings initiatives following
+the completion of the business combination.
+The adjustments made to the proforma financial statement are included in the following sections.
+The proforma financial statement is based on:
+a)the consolidated Balance Sheet and consolidated Statement of Profit and Loss of the Company as at and
+for the year ended March 31, 2024; and
+b)the consolidated Balance Sheet and consolidated Statement of Profit and Loss of Cigniti as at and for the
+year ended March 31, 2024
+c)Acquisition related adjustments
+d)Inter group elimination / reclassification adjustments
+e)Adjustment to recognise the impact of allocation of PC paid/payable
+The assumptions and estimates underlying the unaudited adjustments to the unaudited proforma financial
+statement are described in the accompanying notes, which should be read together with the unaudited proforma
+financial statement. The unaudited proforma financial statement should be read together with the historical audited
+consolidated financial statements of the Company and Cigniti in the Placement Document.
+These pro forma financial statements are not in accordance with article 11 of the SEC regulations.
+Proforma adjustments
+The proforma adjustments are based on our preliminary estimates and assumptions that are subject to change:
+Acquisition related adjustments:
+The acquisitions have been recorded on the basis of Ind AS 103 Business Combinations.
+1.The purchase price of INR 21,091 as on the date of acquisition had been allocated to the acquired assets
+and liabilities based on purchase price allocation ("PPA") available with the Company as at March 31,
+2024 assessed on a provisional basis as follows:

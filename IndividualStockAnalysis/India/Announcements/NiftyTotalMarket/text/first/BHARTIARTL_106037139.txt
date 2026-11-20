@@ -1,0 +1,350 @@
+bharti 
+October 28, 2024 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Sandra Kurla Complex, Sandra (E) 
+Mumbai -400051, India 
+Symbol: BHARTIARTL/ AIRTELPP 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai -400001, India 
+Scrip Code: 532454/ 890157 
+Sub: Quarterly report for the second quarter (Q2) and six months ended September 
+30,2024 
+Dear Sir/ Madam, 
+Pursuant to Regulation 30 and other applicable provisions of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, we are enclosing herewith the quarterly 
+report for the second quarter (Q2) and six months ended September 30, 2024 being 
+released by the Company. 
+Kindly take the same on record. 
+Thanking you, 
+Sincerely yours, 
+For Bharti Airtel L"mited 
+\.A.,\.A.., ~---· Roh1t r1s an uri 
+Joint Company Secretary ---~ e Officer 
+Bharti Airtel Limited 
+(a Bharti Enterprise) 
+Regd. Office: Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram -122015, India 
+Corporate Office: Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase 11, New Delhi -110 070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email id:compliance.officer@bharti.in, www.airtel.in 
+CIN: L74899HR1995PLC095967 
+
+                                                                                                                                             
+ 
+ 
+Page 1 of 58  
+ 
+Supplemental Disclosures  
+ 
+ 
+Safe Harbor : - Some information in this report may contain forward-looking 
+statements. We have based these forward-looking statements on our current 
+beliefs, expectations and intentions as to facts, actions and events that will or 
+may occur in the future. Such statements generally are identified by forward-
+looking words such as “believe,” “plan,” “anticipate,” “continue,” “estimate,” 
+“expect,” “may,” “will” or other similar words. 
+ 
+A forward-looking statement may include a statement of the assumptions or 
+basis underlying the forward-looking statement. We have chosen these 
+assumptions or basis in good faith, and we believe that they are reasonable 
+in all material respects. However, we caution you that forward-looking 
+statements and assumed facts or basis almost always vary from actual results, 
+and the differences between the results implied by the forward-looking 
+statements and assumed facts or basis and actual results can be material, 
+depending on the circumstances. You should also keep in mind that any 
+forward-looking statement made by us in this report or elsewhere speaks only 
+as of the date on which we made it. New risks and uncertainties come up from 
+time to time, and it is impossible for us to predict these events or how they 
+may affect us. We have no duty to, and do not intend to, update or revise the 
+forward-looking statements in this report after the date hereof. In light of these 
+risks and uncertainties, any forward-looking statement made in this report or 
+elsewhere may or may not occur and has to be understood and read along 
+with this supplemental disclosure. 
+ 
+General Risk : - Investment in equity and equity related securities involve a 
+degree of risk and investors should not invest any funds in this Company 
+without necessary diligence and relying on their own examination of Bharti 
+Airtel, along with the equity investment risk which doesn't guarantee capital 
+protection.  
+ 
+Convenience translation : - We publish our financial statements in Indian 
+Rupees. All references herein to “Indian Rupees” and “Rs” are to Indian 
+Rupees and all references herein to “US dollars” and “US$” are to United 
+States dollars. Translation of income statement items have been made from 
+Indian Rupees to United States dollars (unless otherwise indicated) using the 
+respective quarter average rate. Translation of Statement of financial position 
+items have been made from Indian Rupees to United States dollars (unless 
+otherwise indicated) using the closing rate. The rates announced by the 
+Reserve Bank of India are being used as the Reference rate for respective 
+translations. All amounts translated into United States dollars as described 
+above are provided solely for the convenience of the reader, and no 
+representation is made that the Indian Rupees or United States dollar amounts 
+referred to herein could have been or could be converted into United States 
+dollars or Indian Rupees respectively, as the case may be, at any particular 
+rate, the above rates or at all. Any discrepancies in any table between totals 
+and sums of the amounts listed are due to rounding off. 
+ 
+Functional Translation : - Africa financials reported in the quarterly report are 
+in its functional currency i.e. US$ (Refer “Section 10 Key Accounting Policies 
+as per Ind-AS”). South Asia financials reported in the quarterly report are in its 
+presentation currency i.e. Rs. 
+ 
+Use of Certain Non-GAAP measures : - This result announcement contains 
+certain information on the Company’s results of operations and cash flows that 
+have been derived from amounts calculated in accordance with Indian 
+Accounting Standards (Ind-AS), but are not in themselves Ind-AS measures. 
+They should not be viewed in isolation as alternatives to the equivalent Ind-
+AS measures and should be read in conjunction with the equivalent Ind-AS 
+measures.  
+ 
+Further, disclosures are also provided under “7.3 Use of Non - GAAP 
+Financial Information” on page 36 
+Others: In this report, the terms “we”, “us”, “our”, “Bharti”, or “the Company”, 
+unless otherwise specified or the context otherwise implies, refer to Bharti 
+Airtel Limited (“Bharti Airtel”) and its subsidiaries, joint venture and associates 
+Bharti Airtel Services Limited, Bharti Hexacom Limited, Bharti Telemedia 
+Limited, Airtel Limited, Nxtra Data Limited, Xtelify Limited (formerly known as 
+Airtel Digital Limited), Indo Teleports Limited (formerly known as Bharti 
+Teleports Limited), OneWeb Telecommunications India Private Limited, Bharti 
+Airtel (France) SAS, Bharti Airtel (Hong Kong) Limited, Bharti Airtel (UK) 
+Limited , Bharti Airtel (USA) Limited, Bharti Airtel International (Mauritius) 
+Limited , Bharti Airtel International (Netherlands) B.V., Bharti International 
+(Singapore) Pte Ltd , Network i2i Limited., Airtel (Seychelles) Limited, Airtel Congo S.A, Airtel Gabon S.A., Airtel Madagascar S.A., Airtel Malawi Public 
+Limited Company, Airtel Mobile Commerce B.V., Airtel Mobile Commerce 
+Holdings B.V., Airtel Mobile Commerce (Kenya) Limited, Airtel Mobile 
+Commerce Limited, Airtel Mobile Commerce Madagascar S.A., Airtel Mobile 
+Commerce (Rwanda) Limited, A`irtel Mobile Commerce (Seychelles) Limited, 
+Airtel Mobile Commerce(Tanzania )Limited, Airtel Mobile Commerce Tchad 
+S.A, Airtel Mobile Commerce Uganda Limited, Airtel Mobile Commerce 
+Zambia Limited , Airtel Money (RDC) S.A., Airtel Money Niger S.A., Airtel 
+Money S.A. , Airtel Networks Kenya Limited, Airtel Networks Limited, Airtel 
+Networks Zambia plc, Airtel Rwanda Limited, Airtel Tanzania Public Limited 
+Company, Airtel Tchad S.A., Airtel Uganda Limited, Bharti Airtel Africa B.V., 
+Bharti Airtel Chad Holdings B.V. , Bharti Airtel Congo Holdings B.V., Bharti 
+Airtel Developers Forum Limited, Bharti Airtel Gabon Holdings B.V. , Bharti 
+Airtel Kenya B.V., Bharti Airtel Madagascar Holdings B.V. , Bharti Airtel Malawi 
+Holdings B.V. , Bharti Airtel Mali Holdings B.V., Bharti Airtel Niger Holdings 
+B.V. , Bharti Airtel Nigeria B.V. , Bharti Airtel RDC Holdings B.V. , Bharti Airtel 
+Services B.V. , Bharti Airtel Tanzania B.V., Bharti Airtel Uganda Holdings B.V., 
+Bharti Airtel Zambia Holdings B.V., Celtel (Mauritius) Holdings Limited, Airtel 
+Congo (RDC) S.A., Celtel Niger S.A., Channel Sea Management Company 
+(Mauritius) Limited, Congo RDC Towers S.A., Gabon Towers S.A. Indian 
+Ocean Telecom Limited, Madagascar Towers S.A., Malawi Towers Limited, 
+Mobile Commerce Congo S.A., Montana International, Partnership 
+Investments Sarlu, Bharti Airtel Rwanda Holdings Limited , Airtel Money 
+Transfer Limited, Airtel Money Tanzania Limited , Airtel Mobile Commerce 
+(Nigeria) Limited , Bharti Airtel International (Mauritius) Investments Limited , 
+Airtel Africa Mauritius Limited, Bharti Airtel Holding (Mauritius) Limited, Bharti 
+Airtel Overseas (Mauritius) Limited, Airtel Africa Plc, Airtel Mobile Commerce 
+Nigeria B.V., Bharti Airtel Employees Welfare Trust, Airtel Mobile Commerce 
+(Seychelles) B.V. , Airtel Mobile Commerce Congo B.V., Airtel Mobile 
+Commerce Kenya B.V., Airtel Mobile Commerce Madagascar B.V., Airtel 
+Mobile Commerce Malawi B.V. , Airtel Mobile Commerce Rwanda B.V. , Airtel 
+Mobile Commerce Tchad B.V., Airtel Mobile Commerce Uganda B.V. , Airtel 
+Mobile Commerce Zambia B.V., Airtel International LLP , Network I2I (Kenya) 
+Limited, Airtel Mobile Commerce DRC B.V. Airtel Mobile Commerce Gabon 
+B.V., Airtel Mobile Commerce Niger B.V., Airtel Money Kenya Limited, 
+Network I2I (UK) Limited,  The Airtel Africa Employee Benefit Trust, Airtel 
+Africa Services (UK) Limited, Airtel Mobile Commerce Services Limited, 
+SmartCash Payment Service Bank Limited, Airtel Africa Telesonic Holdings 
+Limited, Airtel Africa Telesonic Limited, Airtel Congo Telesonic Holdings (UK) 
+Limited, Airtel DRC Telesonic Holdings (UK) Limited , Airtel Gabon Telesonic 
+Holdings (UK) Limited , Airtel Kenya Telesonic Holdings (UK) Limited , Airtel 
+Madagascar Telesonic Holdings (UK) Limited, Airtel (M) Telesonic Holdings 
+(UK) Limited , Airtel Niger Telesonic Holdings (UK) Limited , Airtel Nigeria 
+Telesonic Holdings (UK) Limited, Airtel Rwanda Telesonic Holdings (UK) 
+Limited , Airtel Seychelles Telesonic Holdings (UK) Limited , Airtel Tanzania 
+Telesonic Holdings (UK) Limited, Airtel Uganda Telesonic Holdings (UK) 
+Limited , Airtel Zambia Telesonic Holdings (UK) Limited , Airtel Tchad 
+Telesonic Holdings (UK) Limited, Airtel (M) Telesonic Limited, Airtel Kenya 
+Telesonic Limited,  Airtel Nigeria Telesonic Limited,  Airtel Rwanda Telesonic 
+Limited, Airtel Telesonic Uganda Limited, Airtel Zambia Telesonic Limited, 
+Airtel (Seychelles) Telesonic Limited,  Nxtra Africa Data Holdings Limited,  
+Nxtra Congo Data Holdings (UK) Limited,  Nxtra DRC Data Holdings (UK) 
+Limited, Nxtra Gabon Data Holdings (UK) Limited,  Nxtra Kenya Data Holdings 
+(UK) Limited, Airtel Mobile Commerce Tanzania B.V.,  Nxtra Nigeria Data 
+Holdings (UK) Limited, Airtel Congo RDC Telesonic S.A.U., Nxtra Africa Data 
+(Nigeria) Limited, Mawezi RDC S.A., Hughes Global Education India Private 
+Limited, HCIL Comtel Private Limited, Airtel Gabon Telesonic S.A., Nxtra 
+Africa Data (Kenya) Limited, Airtel Money Trust Fund , The Registered 
+Trustees of Airtel Money Trust Fund, Nxtra Africa Data (Nigeria) FZE Beetel 
+Teletech Limited, Beetel Teletech Singapore Private Limited, Dixon Electro 
+Appliances Private Limited, Robi Axiata PLC, Reddot Digital Limited, 
+Rventures PLC, SmartPay Limited, AxEnTec PLC, The Airtel Africa 
+Foundation 
+ 
+Disclaimer:  - This communication does not constitute an offer of securities 
+for sale in the United States. Securities may not be sold in the United States 
+absent registration or an exemption from registration under the U.S. 
+Securities Act of 1933, as amended.  Any public offering of securities to be 
+made in the United States will be made by means of a prospectus and will 
+contain detailed information about the Company and its management, as 
+well as financial statements
+        
+ 
+ 
+Page 2 of 58  
+ 
+ 
+ 
+TABLE OF CONTENTS  
+ 
+  
+Section 1  Bharti Airtel – Performance at a glance  3 
+Section 2  Bharti Airtel - An Introduction  6 
+Section 3  Financial Highlights as per Ind -AS  
+3.1 Consolidated - Summary of Consolidated Financial Statements 7 
+3.2 Region wise  - Summary of Statement of Operations 9 
+3.3 Segment wise  - Summary of Statement of Operations 12 
+3.4 Region wise & Segment wise  - Investment & Contribution 14 
+Section 4  Operating Highlights  16 
+Section 5  Management Discussion & Analysis   19 
+5.1 India & SA 19 
+5.2 Africa 23 
+5.3 Share of Associates / Joint Ventures 24 
+5.4 Result of Operation 25 
+5.5 Three Line Graph 28 
+Section 6  Stock Market Highlights  29 
+Section 7  Detailed Financial and Related Information  31 
+Section 8  Region wise Cost Schedules  37 
+Section 9 
+Section 10 
+Section 11 Trends and Ratio  Analysis  
+Key Accounting Policies as per Ind-AS 
+Glossary 39 
+50 
+54 
+   
+ 
+  
+        
+ 
+ 
+Page 3 of 58  
+ 
+ 
+SECTION 1 
+PERFORMANCE AT A GLANCE 
+Consolidated 
+ 
+Full Year Ended Quarter Ended
+2022 2023 2024 Sep-23 Dec-23 Mar-24 Jun-24 Sep-24
+Operating Highlights
+Total Customer Base 000’s 489,729 518,446 561,970 540,161 551,193 561,970 567,561 563,170
+Total Minutes on Network Mn Min 4,515,214 4,818,734 5,199,438 1,280,559 1,296,713 1,346,760 1,336,203 1,343,073
+Network Towers Nos 268,848 309,054 355,150 330,907 343,889 355,150 362,160 365,504
+Total Employees Nos 18,817 21,575 23,628 22,178 23,571 23,628 24,137 24,893
+No. of countries of operation Nos 17 17 17 17 17 17 17 17
+Population Covered Bn 2 2 2 2 2 2 2 2
+Consolidated Financials (Rs Mn)
+Total revenues Rs Mn 1,165,469 1,391,448 1,499,824 370,438 378,995 375,991 385,064 414,733
+EBITDA Rs Mn 581,103 717,330 790,458 196,650 200,443 195,905 199,442 220,209
+EBIT Rs Mn 248,531 352,229 392,757 99,294 98,442 94,231 93,550 109,961
+Cash profit from operations before 
+Derivative & Exchange FluctuationsRs Mn 423,645 553,596 607,739 152,374 154,365 148,405 151,189 167,823
+Profit before tax Rs Mn 107,845 172,305 202,513 55,100 42,386 52,335 52,903 67,511
+Net income Rs Mn 42,549 83,459 74,670 13,407 24,422 20,716 41,599 35,932
+Capex Rs Mn 256,616 341,947 394,821 92,061 92,740 105,163 80,070 76,749
+Operating Free Cash Flow (EBITDA - Capex) Rs Mn 324,487 375,384 395,636 104,589 107,703 90,742 119,372 143,460
+Net Debt Rs Mn 1,603,073 2,131,264 2,046,461 2,070,158 2,020,702 2,046,461 2,025,803 2,202,386
+Shareholder's Equity Rs Mn 665,543 775,629 820,188 774,843 790,854 820,188 883,067 870,974
+Consolidated Financials (US$ Mn)
+Total Revenue 1US$ Mn 15,673 17,313 18,127 4,491 4,554 4,525 4,619 4,953
+EBITDA 1US$ Mn 7,815 8,925 9,553 2,384 2,409 2,358 2,393 2,630
+EBIT 1US$ Mn 3,342 4,383 4,747 1,204 1,183 1,134 1,122 1,313
+Cash profit from operations before 
+Derivative & Exchange Fluctuations 1US$ Mn 5,697 6,888 7,345 1,847 1,855 1,786 1,814 2,004
+Profit before Tax 1US$ Mn 1,450 2,144 2,448 668 509 630 635 806
+Net income 1US$ Mn 572 1,038 902 163 293 249 499 429
+Capex 1US$ Mn 3,451 4,255 4,772 1,116 1,114 1,266 961 917
+Operating Free Cash Flow (EBITDA - Capex) US$ Mn 4,364 4,671 4,782 1,268 1,294 1,092 1,432 1,713
+Net Debt 2US$ Mn 21,117 25,896 24,546 24,918 24,312 24,546 24,275 26,323
+Shareholder's Equity 2US$ Mn 8,767 9,424 9,837 9,327 9,515 9,837 10,582 10,410
+Key Ratios
+EBITDA Margin % 49.9% 51.6% 52.7% 53.1% 52.9% 52.1% 51.8% 53.1%
+EBIT Margin % 21.3% 25.3% 26.2% 26.8% 26.0% 25.1% 24.3% 26.5%
+Net Profit Margin % 3.7% 6.0% 5.0% 3.6% 6.4% 5.5% 10.8% 8.7%
+Net Debt to Funded Equity Ratio Times 2.41 2.75 2.50 2.67 2.56 2.50 2.29 2.53
+Net Debt to EBITDA (Annualised) Times 2.76 2.97 2.59 2.63 2.52 2.61 2.54 2.50
+Interest Coverage ratio Times 4.36 5.01 4.96 5.04 4.97 4.84 4.72 4.92
+Return on Shareholder's Equity (Post Tax) % 6.8% 11.6% 9.4% 9.8% 10.7% 9.3% 11.8% 14.0%
+Return on Shareholder's Equity (Pre Tax) % 14.4% 16.7% 12.0% 14.0% 14.4% 12.1% 15.5% 16.9%
+Return on Capital employed (Annualised) % 10.3% 12.3% 12.5% 12.8% 12.8% 12.2% 12.0% 13.6%
+Valuation Indicators
+Market Capitalization Rs Bn 4,303 4,320 7,273 5,402 6,086 7,273 8,634 10,250
+Market Capitalization US$ Bn 56.7 52.5 87.2 65.0 73.2 87.2 103.5 122.5
+Enterprise Value Rs Bn 5,906 6,451 9,319 7,472 8,107 9,319 10,660 12,452
+EV / EBITDA Times 10.16 8.99 11.79 9.50 10.11 11.89 13.36 14.14
+PE Ratio Times 95.33 48.92 91.89 67.66 68.45 91.89 81.33 79.07Particulars Unit
+*Sri Lanka operations are sold to Dialog Axiata effective June 26, 2024. Therefore, all the financials and KPI’s reflected in the report related to Sri Lanka entity are 
+till the date of the transaction. 
+ 
+ Note 1: Average exchange rates used for Rupee conversion to US$ is  (a) Rs 74.36 for the financial year ended March 31, 2022 (b) Rs 80.37 for the financial year ended March 31, 2023 (c) 
+Rs 82.74 for the financial year ended March 31, 2024  (d) Rs 82.49  for the quarter ended September 30, 2023 (e) Rs 83.22  for the quarter ended December 31, 2023  (f) Rs 83.10  for the 
+quarter ended March 31, 2024 (g) Rs 83.36  for the quarter ended June 30, 2024  (h) Rs 83.73  for the quarter ended September 30, 2024  based on the RBI Reference rate.  
+Note 2: Closing exchange rates used for Rupee conversion to US$ is (a) Rs 75.92 for the financial year ended March 31, 2022 (b) Rs 82.30 for the financial year ended March 31, 2023 (c) Rs  
+83.37 for the financial year ended March 31, 2024  (d) Rs 83.08  for the quarter ended September 30 ,2023 (e) Rs 83.12  for the quarter ended December 31 ,2023  (f) Rs 83.37  for the quarter 
+ended March 31, 2024  (g) Rs 83.45  for the quarter ended June 30, 2024  (h) Rs 83.67  for the quarter ended September 30, 2024  being the RBI Reference rate. 
+        
+ 
+ 
+Page 4 of 58  
+ 
+ 
+ 
+India SA 
+ 
+Full Year Ended Quarter Ended
+2022 2023 2024 Sep-23 Dec-23 Mar-24 Jun-24 Sep-24
+Operating Highlights
+Total Customer Base 000’s 361,301 378,398 409,252 392,495 400,023 409,252 412,145 406,528
+Total Minutes on Network Mn Min 4,136,547 4,379,611 4,694,994 1,154,816 1,167,884 1,216,550 1,201,993 1,203,317
+Network Towers Nos 240,051 277,508 320,616 297,763 310,109 320,616 326,944 329,543
+Total Employees Nos 15,060 17,575 19,496 18,097 19,473 19,496 19,963 20,719
+No. of countries of operation Nos 3 3 3 3 3 3 3 3
+India SA Financials (Rs Mn)
+Total revenues Rs Mn 824,877 981,192 1,100,263 270,772 278,940 285,984 291,306 315,607
+EBITDA Rs Mn 409,117 510,052 589,442 145,492 149,852 152,668 155,825 172,950
+EBIT Rs Mn 132,030 210,976 257,130 64,396 64,441 65,420 65,618 78,944
+Cash profit from operations before 
+Derivative & Exchange FluctuationsRs Mn 281,655 386,081 452,994 115,525 117,692 114,086 117,899 138,689
+Profit before tax Rs Mn 22,260 80,700 146,934 38,666 40,067 35,260 36,593 55,572
+Net income Rs Mn 18,450 50,038 87,655 11,867 28,256 24,882 40,876 40,547
+Capex Rs Mn 207,725 281,547 333,793 77,873 77,594 84,971 67,816 62,599
+Operating Free Cash Flow (EBITDA - Capex) Rs Mn 201,391 228,505 255,649 67,619 72,258 67,697 88,009 110,351
+Net Debt Rs Mn 1,370,589 1,841,125 1,754,421 1,793,825 1,748,184 1,754,421 1,714,436 1,770,917
+Shareholder's Equity Rs Mn 679,259 774,900 876,452 801,548 833,138 876,452 938,183 932,747
+India SA Financials (US$ Mn)
+Total Revenue 1US$ Mn 11,093 12,208 13,298 3,283 3,352 3,442 3,495 3,769
+EBITDA 1US$ Mn 5,502 6,346 7,124 1,764 1,801 1,837 1,869 2,066
+EBIT 1US$ Mn 1,776 2,625 3,108 781 774 787 787 943
+Cash profit from operations before 
+Derivative & Exchange Fluctuations 1US$ Mn 3,788 4,804 5,475 1,401 1,414 1,373 1,414 1,656
+Profit before Tax 1US$ Mn 299 1,004 1,776 469 481 424 439 664
+Net income 1US$ Mn 248 623 1,059 144 340 299 490 484
+Capex 1US$ Mn 2,794 3,503 4,034 944 932 1,023 814 748
+Operating Free Cash Flow (EBITDA - Capex) US$ Mn 2,708 2,843 3,090 820 868 815 1,056 1,318
+Net Debt 2US$ Mn 18,054 22,371 21,123 21,592 21,033 21,123 20,544 21,166
+Shareholder's Equity 2US$ Mn 8,948 9,415 10,512 9,648 10,024 10,512 11,242 11,148
+Key Ratios
+EBITDA Margin % 49.6% 52.0% 53.6% 53.7% 53.7% 53.4% 53.5% 54.8%
+EBIT Margin % 16.0% 21.5% 23.4% 23.8% 23.1% 22.9% 22.5% 25.0%
+Net Profit Margin % 2.2% 5.1% 8.0% 4.4% 10.1% 8.7% 14.0% 12.8%
+Net Debt to EBITDA (Annualised) Times 3.35 3.61 2.98 3.08 2.92 2.87 2.75 2.56
+Interest Coverage ratio Times 3.71 4.47 4.78 4.78 4.83 4.92 4.93 5.20
+Return on Shareholder's Equity (Post Tax) % 2.8% 6.9% 10.6% 8.3% 10.3% 10.3% 11.7% 14.4%
+Return on Shareholder's Equity (Pre Tax) % 4.5% 8.6% 13.6% 10.8% 13.2% 13.2% 14.5% 17.1%
+Return on Capital employed (Annualised) % 6.4% 8.5% 9.3% 9.4% 9.4% 9.5% 9.4% 11.2%Particulars Unit
+ 
+*Sri Lanka operations are sold to Dialog Axiata effective June 26, 2024. Therefore, all the financials and KPI’s reflected in the report related to Sri Lanka entity are 
+till the date of the transaction. 
+ 
+Note 1: Average exchange rates used for Rupee conversion to US$ is  (a) Rs 74.36 for the financial year ended March 31, 2022 (b) Rs 80.37 for the financial year ended March 31, 2023 (c) 
+Rs 82.74 for the financial year ended March 31, 2024  (d) Rs 82.49  for the quarter ended September 30, 2023 (e) Rs 83.22  for the quarter ended December 31, 2023  (f) Rs 83.10  for the 
+quarter ended March 31, 2024 (g) Rs 83.36  for the quarter ended June 30, 2024  (h) Rs 83.73  for the quarter ended September 30, 2024  based on the RBI Reference rate.  
+Note 2: Closing exchange rates used for Rupee conversion to US$ is (a) Rs 75.92 for the financial year ended March 31, 2022 (b) Rs 82.30 for the financial year ended March 31, 2023 (c) Rs  
+83.37 for the financial year ended March 31, 2024  (d) Rs 83.08  for the quarter ended September 30 ,2023 (e) Rs 83.12  for the quarter ended December 31 ,2023  (f) Rs 83.37  for the quarter 
+ended March 31, 2024  (g) Rs 83.45  for the quarter ended June 30, 2024  (h) Rs 83.67  for the quarter ended September 30, 2024  being the RBI Reference rate. 
+ 
+ 
+ 

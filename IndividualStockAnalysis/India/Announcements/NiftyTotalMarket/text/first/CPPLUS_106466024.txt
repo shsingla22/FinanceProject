@@ -1,0 +1,164 @@
+ 
+ 
+December  11, 2025  
+ 
+To,  
+Listing Department   Listing Department  
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza       Phiroze Jeejeebhoy Towers  
+Plot no. C/1, G Block      Dalal Street  
+Bandra Kurla Complex, Bandra (E)    Mumbai 400 001  
+Mumbai 400 051       
+ 
+Symbol: CPPLUS      Scrip Code: 544466  
+ISIN: INE819V01029      ISIN: INE819V01029  
+ 
+Dear Sir / Madam,  
+ 
+Sub.:  Press Release  
+ 
+In Compliance of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we enclosed herewith the copy of p ress release titled “ CP PLUS and Qualcomm Announce First -of-
+Its-Kind Collaboration to Usher in a New Era of AI -Enabled Video Intelligence in India ”.  
+ 
+This Disclosure will also be hosted on our Company's website viz. https://www.adityagroup.com/   
+ 
+Kindy take the same on record.  
+ 
+For and on behalf of Aditya Infotech Limited   
+ 
+ 
+ 
+ 
+Roshni Tandon  
+Company Secretary & Compliance Officer  
+Membership Number: A21150  
+ 
+ 
+                                                                                                      
+ 
+CP PLUS and Qualcomm Announce First -of-Its-Kind  Collaboration  to Usher in a New Era of AI -
+Enabled Video Intelligence  in India  
+ 
+The alliance combines CP PLUS’ nationwide reach with Qualcomm 's AI innovation to deliver 
+scalable, efficient video management and real -time actionable insights  
+New Delhi, 11 December:  CP PLUS, India’s number one video security brand,  and Qualcomm 
+Technologies, a leading supplier of edge compute and AI technologies, today announced a  first -of-
+its-kind  collaboration  to introduce a new generation of AI -enabled , insight -driven video security 
+solutions  tailored  for India ’s rapidly evolving industrial and public safety landscape . This 
+collaboration  brings together CP PLUS’  robust  product ecosystem and distribution network  with the 
+advanced on -device AI and edge -processing capabilities of Qualcomm Dragonwing processors, 
+along with  the Qualcomm® Insight Platform  to accelerate the adoption of intelligent, real -time and 
+actionable video analytics.  This  scalable, actionable and one -stop -solution  enabled through  edge 
+boxes  in the Video Management System ( VMS ), addresses safety -focused  use cases  across, 
+enterprises, industry, home , institutional and public infrastructure  and sets  new benchmarks for 
+video security  industries  worldwide .   
+Abhishek Singh, DG NIC & Additional Secretary -MeitY & CEO -India AI Mission , said  "The 
+collaboration  between Qualcomm and CP PLUS represents an important development in integrating 
+advanced AI and edge -processing capabilities within India’s security sector. By combining 
+Qualcomm’s technology expertise with CP PLUS’ extensive market presence, this collabo ration has 
+the potential to support Indian OEMs and contribute to the broader goals of the India's AI journey .” 
+Talking about the collaboration , Mr. Aditya Khemka, Managing Director, CP PLUS. said, “AI is 
+redefining the future of security, moving video security  from passive recording to intelligent, real -time 
+decision support. As India’s leading video security  brand, we have a responsibility to shape this 
+transition with solutions that are reliable, scalable and built for the needs of a rapidly evolving 
+market. Our collaboration  with Qualcomm Technologies strengthens this commitment by combining 
+CP PLUS’s deep industry  leadership with cutting -edge on-device AI technology. Together, we are 
+building the next generation of video intelligen ce designed in India and ready for the world.”  
+ 
+“This collaboration  enables us to drive innovation and build cutting -edge -AI video intelligence  
+solutions that unlock new possibilities for operational and industrial sectors ,” stated Nakul Duggal, 
+EVP & Group General Manager, Automotive , Industrial & Embedded IoT  and Robotics,  Qualcomm 
+Technologies, “ By combining Qualcomm’s Insight Platforms with CP PLUS’ deep industry  footprint 
+in India, we are enabling solutions that deliver real -time, actionable insights and elevate video 
+security capabilities from traditional monitoring to intelligent, insight driven video management. ” 
+ 
+“As India transforms its industrial and public infrastructure systems, advanced video security  and 
+edge AI are becoming essential enablers of scale, efficiency and resilience. Through this 
+collaboration , CP PLUS and Qualcomm Technologies are delivering solutions built for India and in  
+ 
+ 
+ 
+                                                                                                      
+ 
+India - strengthening real -time visibility, improving consistency across critical operations, and 
+enabling faster, data -driven decision -making,” stated  Savi Soin, Sr. Vice President & President, 
+Qualcomm India. “ Powered by Qualcomm  Technologies ’ leading innovation in edge AI, the 
+collaboration brings future -ready, intelligent video capabilities into the heart of India’s video 
+intelligence  and safety ecosystem.”   
+With the option to  process video on -premises through edge AI, the solution keeps  sensitive data on 
+site, reducing exposure to external networks. This air -gapped architecture delivers resilience  critical 
+for India’s industrial and public safety environmen t 
+Qualcomm Insight Platform brings a fundamental shift from traditional video security  to intelligent, 
+insight -driven video management. By combining advanced edge AI solutions with CP PLUS ’ 
+extensive camera ecosystem, the platform delivers cloud /air-gapped on-site video intelligence that 
+reduces latency, minimizes server dependen cy and unlocks real -time alerts and notifications with 
+immediately actionable insights . With an LLM -based Gen  AI Assistant built natively into  the platform, 
+Insight provides an intuitive  natural  language -based approach to users to query, understand, and 
+interact with time -sensitive and complex events.  The integrated solution enhances security visibility 
+and efficiency across environments from workforce and logistics management to access, perimeter 
+and facility safety. Engineered for India’s dynamic, high -volume environment, the technology 
+supports  speed, responsiveness, and resilience, enabling more reliable insights where they matter 
+most.  
+These  capabilities unlock meaningful, real -world impact across industries. From  identifying blocked 
+pathways in public spaces  to monitoring personal protective equipment ( PPE ) compliance in 
+industrial sites , estimating crowd density at large venues and enabling quicker response during high -
+risk situation s. The technology empowers organizations through advanced detection capabilities, 
+enabling them to move from “just observing” to “knowing, anticipating, and acting.”  
+  
+Beyond safety, the collaboration aims to deliver solutions that will  strengthen operational efficiency 
+and business intelligence  at scale . Retailers can analy ze footfall patterns;  to optimi ze store layouts, 
+public venues can manage  visitor flow  more efficiently , and enterprises can automate routine audits 
+through capabilities such as  Merlin . AI-driven video search and summari zation surface key events in 
+seconds , while generative AI transforms raw footage into clear context -rich insights that helps team 
+make faster and  more accurate decision s. 
+Together, these capabilities signal a clear behavioral shift with an industry -wide impact , helping 
+businesses Protect people and assets more effectively, Control operations with greater consistency, 
+Grow efficiency through data -led insights and ultimately Transform decision -making with advanced 
+AI.  The CP PLUS and Qualcomm Technologies collaboration  lays the foundation for India’s next 
+phase of AI -driven video intelligence - scalable, accessible, and help  to meet the needs of 
+enterprises, institutions, and the country’s expanding digital infrastructure.  
+ 
+This collaboration  underscores CP PLUS’  commitment to leading India’s AI -driven security 
+transformation, where every camera becomes an intelligent partner in creating safer, more efficient  
+ 
+ 
+ 
+                                                                                                      
+ 
+and future -ready environments.  Commercial availability is expected in the first quarter of 2026. For 
+more information, please visit https://www.cpplusworld.com .  
+About Aditya Infotech Limited:  
+Aditya Infotech Limited (BSE: 544466 | NSE: CPPLUS) offers a comprehensive range of advanced 
+video security and surveillance products, technologies and solutions for enterprise and consumer 
+segments under the CP PLUS brand. In addition, we provide solution s and services including fully 
+integrated security systems and Security -as-a-Service directly and through our distribution network 
+to address the requirements of end -customers across a broad range of sectors. With India’s largest 
+integrated manufacturing f acility at Kadapa, Andhra Pradesh and the largest portfolio of STQC 
+certified products, CP PLUS is leading the “Make in India” and Atmanirbhar Bharat initiatives.  
+ 
+For more information, visit https://www.cpplusworld.com  
+ 
+Media Contact:   
+Anupam Sah  
+Sr. GM Marketing        
+anupam_s@adityagroup.com  
+ 
+About Qualcomm  
+ 
+Qualcomm is enabling a world where everyone and everything can be intelligently connected. Our 
+one technology roadmap allows us to efficiently scale the technologies that launched the mobile 
+revolution – including advanced connectivity, high -performance, l ow-power compute, on -device 
+intelligence and more – to the next generation of connected smart devices across industries. 
+Innovations from Qualcomm and our family of Snapdragon platforms will help enable cloud -edge 
+convergence, transform industries, acceler ate the digital economy, and revolutionize how we 
+experience the world, for the greater good.  
+ 
+Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent 
+portfolio. Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along 
+with its subsidiaries, substantially all of our engineering, rese arch and development functions, and 
+substantially all of our products and services businesses, including our QCT semiconductor 
+business. Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, 
+Inc. and/or its subsidiaries. Qualcomm patented technologies are licensed by Qualcomm 
+Incorporated.  
+ 

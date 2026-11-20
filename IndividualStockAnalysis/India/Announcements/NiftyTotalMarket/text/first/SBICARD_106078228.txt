@@ -1,0 +1,352 @@
+December 05, 2024 
+The BSE Limited 
+Corporate Relationship Department. 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai -400 001 
+SCRIP CODE: 543066 
+SECURITY: Equity Shares/Debentures 
+Dear Sirs, MAKING LIFE SIMPLE 
+The National Stock Exchange of India 
+Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra-Kurla Complex. 
+Bandra (E), Mumbai -400 051 
+SYMBOL: SBICARD 
+SECURITY: Equity Shares 
+Re: Intimation under Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 -ESG Rating 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure 
+Requirem ents) Regulations, 2015, we wish to inform you that MSC! ESG Ratings and 
+Research Private Limited (a SEBI Registered ESG Rating Provider), vide its report dated 
+December 5, 2024, has assigned an Environmental, Social & Governance rating as "A" 
+for SBI Cards and Payments Services Limited. The said report is attached herewith. 
+This is also made available on the website of the company at www.sbicard.com . 
+Kindly take the same on record. 
+Thanking you, 
+Yours faithfully, 
+For SBI Cards and Payment Services Limited 
+Payal Mittal Chhabra 
+Chief Compliance Officer and Company Secretary 
+Date & Time of Event: -December 05, 2024 at around 4.04 PM 
+Enclosed: As above 
+SBI Cards and Payment Services Ltd. 
+DLF Infinity Towers, Tower C, 
+12th Floor, Block 2, Building 3, 
+DLF Cyber City, Gurugram • 122002. 
+Haryana, India Tel.: 0124·4589803 
+Email: customercare@sbicard .com 
+Website: sbicard.com Registered Office: 
+Unit 401 & 402, 4th Floor. Aggarwal Millennium Tower. 
+E 1,2,3, Netaji Subhash Place, Wazirpur, New Delhi -110034 
+CIN -L65999DL 1998PLC093849 
+SBI CARDS AND PAYMENT SERVICES
+LIMITED (SBICARD)
+Consumer Finance | IN
+Continues to lead peers in data privacy initiatives; lagging
+corporate governance framework
+RA RATING A TING AC CTION D TION DA ATE: TE: December 03, 2024
+L LAST REPORAST REPORT UPD T UPDA ATE: TE: December 05, 2024
+Score attribution by key issue
+This chart highlights the company's positioning relative to the industry average for each Key Issue that contributed
+to its ESG Rating as of December 05, 2024.
+Human CapitalDevelopment Governance Access to Finance Carbon Emissions Privacy & Data
+SecurityConsumer Financial
+Protection
+Last ESG Rating action
+Rating action date: December 03, 2024Rating action date: December 03, 2024
+SBI CARDS' rating is unchanged at 'A'.
+SBI Cards handles customers’ personal data as part of its credit card issuance business, and is domiciled
+solely in India, where data privacy regulations are moderately stringent, per our model. It thus may face
+regulatory and reputational risks tied to data breaches. It continues to lead peers in adopting data privacy
+initiatives; for instance, it deploys access control mechanisms and is accredited with PCI-DSS and ISO
+27001. However, it lags most global peers in corporate governance practices.
+Analysts: Analysts: Tanya Nandini, Sai PattnaikPositive
+Industr Industry y
+A Av ver erage age
+Negative
+Retail operations entail exposure to the risk of mis-selling of financial products, per our model. It
+leads peers in consumer protection framework: it has an ombudsman mechanism for complaint
+redressal. We note its customer complaints declined ~51% YoY in FY 2023.◥
+SBI Cards is controlled by State Bank of India (SBI, ~69% of voting power), with related-party
+transactions with SBI accounting for ~11% of expenses in FY 2023. That said, its board is majority
+independent, which may help protect investor interests. Its business ethics framework is average
+relative to global peers and includes audits of all operations. However, it appears to lack a detailed
+anti-corruption policy.◥
+SBI Cards relies on skilled staff for its operations, and thus may face recruitment and retention
+challenges, per our model. It lags peers in adopting staff management programs: we found
+limited evidence of initiatives to develop talent pools. Moreover, its three-year average (FY
+2021–23) staff turnover rate of ~24% was higher than the industry average.◥ESG Rating history
+ESG Rating distribution
+Universe: MSCI ACWI Index constituents, Consumer Finance, n=13
+Key scores
+W Weight eight Scor Score (0-10) e (0-10)
+Industry-Adjusted Score
+(Last Updated: December 03, 2024)(Last Updated: December 03, 2024)7.0 7.0
+◤Weighted-Average Key Issue Score
+(Last updated: December 03, 2024)(Last updated: December 03, 2024)5.3
+◤Environmental Pillar Score 5% 8.7
+◤Social Pillar Score 62% 5.7
+◤Governance Pillar Score 33% 4.0
+Report table of contents
+ESG Rating tearsheetESG Rating tearsheet Data r Data repor eport t
+Rating model details P02 P02 Corporate governance
+dataP09 P09
+Recent developments P03 P03 Key issue details P34 P34
+Corporate governance
+summaryP04 P04 Appendix P53 P53
+ESG Rating drill down P05 P05 Glossary P68 P68
+What is an ESG Rating?What is an ESG Rating? MSCI ESG Ratings aim to measure a
+company's resilience to long-term ESG risks. Companies are
+scored on an industry-relative AAA-CCC scale across the most
+relevant Key Issues based on a company's business model.
+ESG Rating history shows five most recent rating actions
+Page 1 1 of 71 71 ©2024 MSCI Inc. All rights reserved.MSCI 
+ESG RATINGS • I CCC I B I BB I BBB I Q j AA I AAA I 
+AAA 
+AA 
+A ~ A 
+~ ~ [m' BBB e . . BB 
+B -·:: -----------(§) 
+CCC 
+Jul-21 Dec-22 Dec-23 Dec-24 
+i 
+46% 
+23% 23% 
+8% 
+0% 0% 0% 
+CCC B BB BBB A AA AAA 
+MSCl8 
+ESG Rating scorecard
+KEY ISSUE WEIGHT INDUSTRY
+AVERAGESCORE
+(0-10)CHANGE EXPLANATION
+Weighted-Average Key Issue
+Score5.1 5.3
+ENVIRONMENT 5% 8.3 8.7
+Carbon Emissions 5% 8.4 8.7 ●Limited evidence of management practices to address carbon emissions
+with no disclosed carbon reduction targets
+SOCIAL 62% 4.1 5.7 ▲ ▲0.1
+Consumer Financial Protection 23% 3.3 7.3 ▲1.1 ●Customer complaint mechanism's performance in line with most of the
+peers
+Human Capital Development 18% 4.9 3.1 ▼1.0 ●Lagging efforts to attract and retain talent relative to peers
+Privacy & Data Security 13% 5.2 8.5 ●Low proportion of operations that handle substantial quantities of sensitive
+personal information relative to peers
+●Evidence of extensive data protection processes, including certification to
+external information security management standards and robust
+compliance programs (e.g.. system audits and employee trainings)
+Access to Finance 8% 2.8 2.3 ▼0.5 ●Lags peers in capitalizing on access to finance opportunities
+GOVERNANCE 33% 5.3 4.0 ▼ ▼0.3
+Corporate Governance 6.1 4.4 ▼0.3 ●The company falls into the lower scoring range relative to global peers,
+reflecting key areas of concern related to the board and ownership
+structure.
+Corporate Behavior 5.7 5.9 ●Involved in moderate controversy
+●All operations audited for compliance with ethics and anti-corruption
+policies at least once every three years
+* denotes company-specific Key Issue
+This table shows the Key Issue scores and weights contributing to the company's ESG Rating and any changes to those scores since the last ESG Rating action. The range of possible scores is
+0-10, where 10 is best and 0 is worst.As of December 05, 2024
+Rating model details
+SBI CARDS was rated based on a standard version of the Consumer Consumer
+Finance Finance Industry ESG Rating Model.
+MODEL VERSION: 4.3.2MODEL VERSION: 4.3.2
+Represents the MSCI ESG Ratings model version used to assess the
+company. Please refer to the “ESG Ratings Methodology” document for more
+details on the model versions.Company Data Feedback response
+No
+N/A
+This section only captures inputs provided by companies through our online issuer portal that may have an
+impact on the weighted Key Issues for the company
+Key documents used for updates, as of December 05, 2024
+Company Company
+Filing FilingFiscal Fiscal
+Y Year earFiling ReleaseFiling Release
+Date DateIncorpor Incorporated in data and ated in data and
+scor scores esIncorpor Incorporated in ESG ated in ESG
+Rating Rating
+AR Filing FY-2024 18 Jul. 2024 Fully Incorporated 03 Dec. 2024
+CSR Filing FY-2024 18 Jul. 2024 Fully Incorporated 03 Dec. 2024
+AR Filing FY-2023 14 Jul. 2023 Fully Incorporated 15 Dec. 2023
+CSR Filing FY-2023 10 Aug. 2023 Fully Incorporated 15 Dec. 2023
+Key document types reflected here include Annual Reports (AR), CSR, Sustainability or ESG reports. Partially
+Incorporated = some but not all of the underlying data and related scores reflect the latest filing; Pending =
+Not yet incorporated; Fully Incorporated = All relevant data from filing has been incorporated into the
+underlying data and scores. Updates related to Carbon data are not included here. Please refer to "Recent
+developments affecting ESG scores" for more information.Data feedback in last 12 months?
+Date of last feedbackSBI CARDS AND PAYMENT SERVICES
+LIMITED (SBICARD)
+RA RATING A TING AC CTION D TION DA ATE: December 03, 2024 TE: December 03, 2024
+L LAST REPORAST REPORT UPD T UPDA ATE: December 05, 2024 TE: December 05, 2024
+Page 2 2 of 71 71 ©2024 MSCI Inc. All rights reserved.MSCI • 
+ESG RATINGS 
+I CCC I B I BB I BBB W·W AA I AAA I 
+> 
+> 
+> 
+MSCl8 
+Recent developments affecting ESG scores
+This table shows the last 10 score changes* and rating actions that have occurred in the past 12 months.
+Date ▲Date ▲ T Type ype Scor Score (0-10) e (0-10) Change Change Explanation Explanation
+Curr Current W ent Weighted-A eighted-Av ver erage K age Ke ey Issue y Issue
+Scor Score e5.3 5.3
+Dec 03, 2024 ESG Rating action 5.3 5.3 ▲0.1 SBI CARDS' rating is unchanged at 'A'.
+Oct 11, 2024 Data Update: Corporate Governance ▼0.1 Flags AddedFlags Added: Audit Board/ Committee Independence,
+Overboarded Audit Committee Members, Pay Committee
+Independence
+Flags RemoFlags Remov ved ed: Audit Committee Industry Expert, Say on Pay
+Policy
+Sep 13, 2024 Data Update: Corporate Governance ▲0.2 Flags RemoFlags Remov ved ed: Board Attendance Failures, Board Majority
+Independent of Management, Board Majority Independent of
+Other Interests
+Feb 23, 2024 Data Update: Corporate Governance ▼0.2 Flags AddedFlags Added: Board Majority Independent of Management, Board
+Majority Independent of Other Interests, Leadership Concerns
+Dec 15, 2023 ESG Rating action 5.3 5.3 ▲0.4 SBI CARDS has been upgraded to 'A' from 'BBB'.
+Sep 01, 2023 Data Update: Corporate Governance ▲0.1 Flags RemoFlags Remov ved ed: Audit Board/ Committee Independence, Pay
+Committee Independence
+Aug 11, 2023 Data Update: Corporate Governance ▼0.1 Flags AddedFlags Added: Audit Board/ Committee Independence, Pay
+Committee Independence
+Flags RemoFlags Remov ved ed: Auditor Report Concerns
+Go Gov vernance Scorernance Score changed e changed based on the listed Key Metric(s):
+Auditor Tenure, Related Party Transactions
+Jun 09, 2023 Data Update: Corporate Governance ▲0.2 Flags RemoFlags Remov ved ed: Overboarded Non-Exec Directors
+Dec 23, 2022 ESG Rating action 4.7 4.7 ▲0.4 SBI CARDS' rating is unchanged at 'BBB'.
+Aug 26, 2022 Data Update: Corporate Governance ▼0.2 Flags AddedFlags Added: Board Attendance Failures
+Go Gov vernance Scorernance Score changed e changed based on the listed Key Metric(s):
+Auditor Report Concerns, Related Party Transactions
+This table outlines the latest changes to specific data points that have occurred, the trigger for change (e.g. issuer feedback, data update or methodology enhancements) and the overall impact
+on the company's Weighted Average Key Issue Score.
+View additional rView additional recent de ecent dev velopments aff elopments affecting the ESG scor ecting the ESG score e
+Most recent controversies
+There are no recent new controversies or updates to ongoing controversies for this company.SBI CARDS AND PAYMENT SERVICES
+LIMITED (SBICARD)
+RA RATING A TING AC CTION D TION DA ATE: December 03, 2024 TE: December 03, 2024
+L LAST REPORAST REPORT UPD T UPDA ATE: December 05, 2024 TE: December 05, 2024
+Page 3 3 of 71 71 ©2024 MSCI Inc. All rights reserved.MSCI • 
+ESG RATINGS 
+I CCC I B I BB I BBB W·W AA I AAA I 
+MSCl8 
+Corporate governance summary
+*CEO pay figures are sourced from listed company annual reports and proxy filings. When a new CEO is named the pay figures for the previous CEO will be displayed until this information has
+been updated for the new CEOBoar Board of dir d of direct ectors ors
+Board type: Unitary Board
+62.5% 25% 12.5%
+Male
+ FemaleBoard diversity
+87.5% 12.5%16th 16th global per global percentile centile
+16th 16th home mark home market per et percentile centile
+● Non-executive and
+independent of
+management● Non-executive with
+links to
+management● ExecutiveOwnership summarOwnership summary y
+CEO CEOCapital Capital
+structur structure eSingle Equity Class;
+Foreign
+shareholder
+restrictions
+Ownership Ownership
+classificationclassificationControlling
+Shareholder
+K Ke ey Owner T y Owner Types ypes State Owned;
+Subsidiary
+Complex Complex
+Ownership Ownership
+Structur Structures esControlled via
+Stock PyramidT Top shar op shareholders eholders
+Promoter and Promoter
+Group- 68.62% (State Bank of
+India - 68.62% )
+Name: Name: Abhijit Chakravorty
+T Tenur enure: e: 1 YearT Total r otal realiz ealized pa ed pay*: y*:
+USD 102,723.05
+T Total summarotal summary pa y pay*: y*:
+USD 103,161.55
+Peer benchmarking
+Carbon Carbon
+Emissions EmissionsAccess t Access to o
+Finance FinanceHuman CapitalHuman Capital
+De Dev velopment elopmentPriv Privacy & Data acy & Data
+Security SecurityConsumer FinancialConsumer Financial
+Pr Protection otectionCorpor Corporate ate
+Go Gov vernance ernanceCorpor Corporate ate
+Beha Behaviour viourRating & Rating &
+T Tr rend end
+MAHINDRA AND MAHINDRA FINANCIAL
+SERVICES LIMITED● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● AA◄ ►
+SBI CARDS AND PAYMENT SERVICES
+LIMITED● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● A A◄ ►
+SUNDARAM FINANCE LIMITED ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● A◄ ►
+CHOLAMANDALAM INVESTMENT AND
+FINANCE COMPANY LIMITED● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● BBB◄ ►
+CHOLAMANDALAM FINANCIAL HOLDINGS
+LIMITED● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● BB▼
+MUTHOOT FINANCE LIMITED ● ● ● ● ● ● ● ● ● ● ● ● ● ● CCC◄ ►
+QUARTILE KEY : Bottom Quartile ● Top Quartile ● ● ● ●
+RATING TREND KEY : Maintain ◄ ► Upgrade ▲ Upgrade by two or more notches ▲▲ Downgrade ▼ Downgrade by two or more notches ▼▼
+The five industry peers are companies in the Consumer Finance ESG Rating Industry, as of December 05, 2024, selected based on similarities in four attributes (ESG Key Issue weights, industry
+classification, region, and size), sorted by ESG Rating (best to worst).SBI CARDS AND PAYMENT SERVICES
+LIMITED (SBICARD)
+RA RATING A TING AC CTION D TION DA ATE: December 03, 2024 TE: December 03, 2024
+L LAST REPORAST REPORT UPD T UPDA ATE: December 05, 2024 TE: December 05, 2024
+Page 4 4 of 71 71 ©2024 MSCI Inc. All rights reserved.MSCI • 
+ESG RATINGS 
+I CCC I B I BB I BBB W·W AA I AAA I 
+--
+• • ' . 
+MSCl8 
+ESG Rating drill down
+As of prior rating action date:
+Dec 15, 2023As of last rating action date:
+Dec 03, 2024As of last report update date:
+Dec 05, 2024Difference
+Description Score Weight Score Weight Score Weight Score Weight
+ESG Rating Letter GrESG Rating Letter Grade ade A A A A A A - - - -
+Industr Industry Adjusted Scor y Adjusted Score e 7.0 7.0 7.0 7.0 7.0 7.0 - - - -
+Industr Industry Minimum Scor y Minimum Score e 3.2 3.2 3.2 3.2 3.2 3.2 - - - -
+Industr Industry Maximum Scor y Maximum Score e 6.2 6.2 6.2 6.2 6.2 6.2 - - - -
+W Weighted A eighted Av ver erage K age Ke ey Issue Scor y Issue Score e 5.3 5.3 5.3 5.3 5.3 5.3 - - - -
+Envir Environmental Pillar Scor onmental Pillar Score e 8.7 8.7 5.0% 5.0% 8.7 8.7 5.0% 5.0% 8.7 8.7 5.0% 5.0% - - - -
+Carbon Emissions KCarbon Emissions Ke ey Issue Scor y Issue Score e 8.7 8.7 5.0% 5.0% 8.7 8.7 5.0% 5.0% 8.7 8.7 5.0% 5.0% - - - -
+Exposure Score 0.8 0.8 0.8 - -
+Business Segment Exposure Score 0.9 0.9 0.9 - -
+Geographic Exposure Score 4.7 4.7 4.7 - -
+Management Score 3.7 3.7 3.7 - -
+Management Score - Excluding
+Controversies3.7 3.7 3.7 - -
+Practices Score 3.0 3.0 3.0 - -
+Performance Score 5.0 5.0 5.0 - -
+Social Pillar ScorSocial Pillar Score e 5.6 5.6 62.0% 62.0% 5.7 5.7 62.0% 62.0% 5.7 5.7 62.0% 62.0% - - - -
+Human Capital DeHuman Capital Dev velopment K elopment Ke ey Issue Scor y Issue Score e 4.1 4.1 18.0% 18.0% 3.1 3.1 18.0% 18.0% 3.1 3.1 18.0% 18.0% - - - -
+Exposure Score 6.3 6.3 6.3 - -
+Business Segment Exposure Score 6.3 6.3 6.3 - -
+Company-Specific Exposure Score 0.0 0.0 0.0 - -
+Management Score 3.4 2.4 2.4 - -
+Management Score - Excluding
+Controversies3.4 2.4 2.4 - -
+Practices Score 5.1 3.7 3.7 - -
+Performance Score 0.0 0.0 0.0 - -
+Controversy Deduction 0.0 0.0 0.0 - -
+Priv Privacy & Data Security Kacy & Data Security Ke ey Issue Scor y Issue Score e 8.5 8.5 13.0% 13.0% 8.5 8.5 13.0% 13.0% 8.5 8.5 13.0% 13.0% - - - -
+Exposure Score 5.5 5.5 5.5 - -
+Business Segment Exposure Score 5.2 5.2 5.2 - -
+Geographic Exposure Score 5.6 5.6 5.6 - -
+Management Score 7.0 7.0 7.0 - -
+Management Score - Excluding
+Controversies7.0 7.0 7.0 - -
+Practices Score 7.0 7.0 7.0 - -
+Controversy Deduction 0.0 0.0 0.0 - -
+Access t Access to Finance K o Finance Ke ey Issue Scor y Issue Score e 2.8 2.8 8.0% 8.0% 2.3 2.3 8.0% 8.0% 2.3 2.3 8.0% 8.0% - - - -
+Exposure Score 7.4 7.4 7.4 - -
+Business Segment Exposure Score 7.0 7.0 7.0 - -
+Geographic Exposure Score 5.6 5.6 5.6 - -
+Management Score 2.5 1.9 1.9 - -
+Management Score - Excluding
+Controversies2.5 1.9 1.9 - -
+Practices Score 2.7 1.8 1.8 - -SBI CARDS AND PAYMENT SERVICES
+LIMITED (SBICARD)
+RA RATING A TING AC CTION D TION DA ATE: December 03, 2024 TE: December 03, 2024
+L LAST REPORAST REPORT UPD T UPDA ATE: December 05, 2024 TE: December 05, 2024
+Page 5 5 of 71 71 ©2024 MSCI Inc. All rights reserved.MSCI • 
+ESG RATINGS 
+I CCC I B I BB I BBB W·W AA I AAA I 
+MSCl8 

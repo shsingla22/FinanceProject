@@ -1,0 +1,654 @@
+
+=== page 1 ===
+ 
+Sagility India  Limited  
+(Formerly Sagility India Private Limited; earlier Berkmeer India Private Limited)  
+Registered Office - No. 23 & 24, AMR Tech Park, Building 2A,  First Floor Hongasandara Village, Off Hosur Road, 
+Bommanahalli, Bengaluru – 560068  Karnataka  India  
+Corporate Identity Number:  U72900KA2021PL C150054  
+Tel. No. : 080-71251500 , Website:  www.SagilityHealth.com  
+Date: 27 November, 2024  
+ 
+To,  
+The Manager        
+Listing Department       
+National Stock Exchange (NSE)     
+Exchange Plaza, 5th Floor      
+Plot No. C/1, G -Block       
+Bandra -Kurla Complex       
+Bandra  (E), Mumbai - 400 051     
+Symbol: SAGILITY  To, 
+The Manager  
+Listing Department  
+Bombay Stock Exchange (BSE)  
+Phiroze Jeejeebhoy Towers  
+Dalal Street Mumbai - 400 001  
+Scrip Code:544282  
+ 
+Dear Sir/Ma’am,   
+ 
+Subject: Submission of Investor Presentation to be made to invest ors on November  27, 2024 , 
+pursuant to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015  
+ 
+In continuation to our letter dated November 22 , 2024 , we are enclosing herewith the presentation to be 
+made to Investors on the Financial Results of Sagility India Limited for the quarter and half -year ended 
+September 30, 2024  scheduled on Wednesday, 27th November 2024 at 4:00PM (IST).  
+ 
+The details are also being made available on the Company’s website www.sagilityhealth.com     
+ 
+This is for your kind information and record . 
+ 
+Thanking You,  
+ 
+For Sagility India Limited  
+ 
+ 
+ 
+Satishkumar Sakharayapattana Seetharamaiah      
+Company Secretary & Compliance Officer      
+Membership No: A 16008   
+ 
+Encl:  a/a 
+=== page 2 ===
+Investor Deck 
+ –
+Q2 FY25Nov 27, 2024
+=== page 3 ===
+Safe Harbour
+Certain statements in this release concerning Sagility’ future growth prospects may be seen as forward -
+looking statements, which involve a number of risks and uncertainties that could cause the actuals to differ 
+materially from such statements. Sagility does not undertake to update any such statement that may have 
+been made from time to time by or on behalf of the company..
+2
+=== page 4 ===
+We are one of the largest pure -play Healthcare Services and 
+Solutions provider
+Broad and deep domain expertise 
+in medical, pharmacy, and dental Insurance business  
+segments
+Service Portfolio 
+Covers  payer and provider value chain inclusive of 
+both  admin istrative and clinical  workflows
+Tech -led & Transformative
+Applications, point solutions, RPA, Analytics and AI
+45
+Healthcare Clients Groups5
+Of The Top 10 Payers 
+Served3
+Of top 6 PBMs by claims 
+volume17
+Average tenure in years of 
+Top 5 clients4
+Large national IDN, 
+Laboratory, DME and 
+Radiology Provider clients
+38000+
+Employees
+(60% women)5
+Geographies
+(32 Sites)~ 94%
+Headcount 
+Offshore & 
+Nearshore105M
+Claims processed
+75M+
+Interactions
+Supported by Talented workforce with expertise in  claims,  clinical  and  coding across  multiple  geographies
+►Leader in Healthcare Payer Operations PEAK 
+Matrix - 2023
+►Major Contender in Clinical and Care Mgmt. Ops 
+Services & RCM Ops PEAK Matrix - 2023
+►Leader  in Clinical Services 
+Business Process 
+Transformation - 2023►Leader in GenAI  Service 
+Provider - 2024
+►‘Employer of 
+Choice’ award 
+(JAM)►Employer of the Year 
+Bronze Stevie(R) 
+Award (US)
+►Best Employer for 
+Women , Ind
+Economic Times ►Recognized by 
+LinkedIn as  15 best 
+workplaces to grow a 
+career in PHL 
+►Best HR Strategy In 
+Line With Business, 
+World HRD Congress 
+IND
+~ 2000 
+Clinicians100% 
+US Healthcare focusedTenured Leadership & 
+Board with Healthcare 
+Expertise24 
+Years of experience in 
+Healthcare Multi -shore, scalable 
+and flexible delivery 
+platform showcasing 
+strong certificationsDiverse and Broad 
+client portfolio 
+Payers, PBMs, TPAs, 
+Workers CompMarquee Provider 
+clients powering 
+expansion
+24.64%
+Adjusted 
+EBITDA Margin 
+(FY24)12.40%
+Adjusted 
+PAT Margin 
+(FY24)87.2%
+OCF to EBITDA 
+(FY24)
+Revenue in Million
+12.7%
+3
+=== page 5 ===
+USHealthcare spending ishighest among the leading economies
+and is expected tocontinue increasing
+Source: Industry research, OECD, IMF, WHO, CMS.
+Note: 1. Currency conversion isbased ontheexchange rateofUS$1 =INR 83.4982 asof16thApril 2024. 2.Current prices andPPP converted.
+3.Calculated by multiplying outsourcing payer penetration average rate (%) of 22.0 -24.0% to overall payer TAM ($) of $138.2bn for CY23. 
+4.Calculated by multiplying outsourcing provider penetration average rate (%) of 19.5 -21.5% to overall provider TAM ($) of $62.9 bn for CY23▪ Healthcare forms anintegral segment oftheUSeconomy,
+contributing 17.1% tothenominal GDP at$4.7tn spend in2023Health expenditure as%ofUSGDP atcurrent prices
+27.428.829.831.032.333.6
+17.1%17.0%17.4%17.6%17.9% 18.2%
+2023A 2024F 2025F 2026F2027F 2028FUSGDP atCurrent Prices ($tn)
+Healthcare Expenditure as % of US GDPUS Healthcare  Expenditure  to reach  18.2%  
+of US GDP  by 2028US is the Highest  Healthcare  Spender  
+among  Leading  EconomiesUS Healthcare Outsourcing Potential
+Healthcare expenditure percapita vs.GDP percapita
+(2022)2
+▪ USeconomy isthehighest healthcare spender among
+leading economies with percapita healthcare
+expenditure (PPP Basis) at$12,555.3 inCY22
+• +1.6x tothesecond -highest spender, Switzerland
+•India’s healthcare market, incomparison, isunderdeveloped
+with 2021 estimates forhealth
+spending percapita at$74.0
+Payer
+ Provider
+ Total
+CY23
+Overall 
+TAM ($)Outsourcing 
+Penetration (%)Outsourcing 
+Penetration ($)
+$138.2bn22.0 -24.0%
+of $138.2bn~$32bn+3
+$62.9bn19.5 -21.5%
+of $62.9bn~$13bn4
+$201.1bn ~$45.0bnPayers form 68.7% & Providers form 31.3% of the overall TAM 
+(CY23)
+US Healthcare Outsourcing market growth is faster than the overall market driven by multiple tailwinds
+4
+=== page 6 ===
+Sagility exhibits end -to-end coverage across Payer and Provider 
+space…
+Payment
+IntegrityClaims
+ManagementClinical
+Management
+Intake, Indexing and Imaging
+Adjudication
+Post Adjudication
+Grievance & AppealsOthers
+Artificial Intelligence, Advanced Analytics & Business IntelligencePre-Pay
+Post -PayEnrolment
+Plan Building
+Premium Billing
+Provider Data Management & 
+Credentialing
+Payer: 
+89.2% revenues1Revenue Cycle 
+Management
+Provider:
+10.8% revenues1Chronic & Complex Case 
+Management
+Utilization Management
+Population Health 
+Management
+Note: DME:  Durable Medical Equipment. 1. For H1 FY25.Patient Engagement Services 
+Claims and Coding Services
+Revenue Management
+Clinical and Coding Denials
+Patient Care, Quality & 
+Outcome Services
+DME* & Lab Provider Order 
+Specialty Services
+Member Engagement & Provider Engagement
+ISO9001:2000
+ ISO27001 HIPAA NCQA SISA PCIDSS URACUS Healthcare has a strong regulatory framework with high compliance requirements
+SOC2
+ SOC1
+5
+=== page 7 ===
+…Offering domain -led and digitally -enabled solutionsObjectives
+ Case Studies
+Functional Products &
+Services2
+✓ Providing end-to-end workflow 
+solutions:
+Provider data management*
+Credentialing*
+LPI*
+Concierge services
+Patient self-pay
+✓ Transformed provider data 
+management operation ata 
+mid-sized Blues Plan
+✓ Created anintelligent workflow 
+foraTop-10Health Plan to reduce
+their late payment interest
+Specialized High -Impact
+End -to-End Program
+✓ Building holistic, end-to-end in-
+house programs and service 
+platforms:
+Utilization Management
+Aging -in-place*
+Payment integrity*1
+✓ Providing care management 
+services toLTC insurance 
+policy holders ataNational 
+LTC carrier
+✓ Perform payment integrity 
+audits forcase completion, 
+correctness and clinical / 
+financial findings
+Digital Services4
+✓ Utilizing data, analytics and AI
+services capabilities todeliver
+increased efficiencies :
+Intelligent Content 
+Processing (ICP)*
+Intelligent Interaction 
+Analytics Platform (IIAP)*
+Business intelligence
+Speech Analytics*
+✓ Use AI-based solutions to 
+optimize inbound document 
+management
+✓ Built asmart and interactive 
+speech analytics solution for 
+member and provider contact 
+center foraleading Blue Plan
+Process Optimization
+&Transformation
+3
+✓ Leveraging best -of-breed tools to
+provide operational value -add to
+clients:
+RPA
+Process Mining
+✓ Delivered process optimization 
+across multiple functions fora 
+National payer
+Integrated Tech -Led
+Solutions (BPaaS)
+✓ Working with partners to
+deliver integrated, tech+
+service offerings :
+Contact center as-a-service
+Claims BPaaS
+Digital Intake
+RCM as-a-service5
+✓ Deliver adigital document 
+management solutions fora 
+top5National payer
+✓ Deliver RCM services fortop5 
+National health systemHealthcare Domain -Led Solutions Digitally -Enabled Solutions
+Deep Domain Expertise, Process Re-engineering and Transformation
+Note: LPI:Late Payment Interest, RPA: Robotic Process Automation, BPaaS :Business Process -as-a-Service, TAT:Turn Around Time, TPA:Third Party administrator, RCM :Revenue Cycle Management, LTC:Long Term Care.
+*In-house /Home -grown Technology. 6
+=== page 8 ===
+Multiple GenAI Case studies across the enterprise
+BirchAI’s proprietary technology uses Healthcare specific models from Speech -To-Text toLLMs
+Note: AHT :Average Handle Time, PI:Payment Integrity, RCM :Revenue Cycle Management, EOB :Explanation OfBenefits, EOR :Explanation OfReview, UM: Utilization Management, G&A :Grievance and Appeals.•G&A Optimization: Identifies appeals 
+automatically tohelp resolve faster
+•Letter Generation forappeals, EOB and EOR
+•Optimize Knowledge Retrieval &Searching:
+Helps agents resolve customer queries faster
+•Fraud, Waste &Abuse Identification: Helps save
+cost forclients
+•Clinical Summary and Documentation: 
+Summarises medical records tohelp nurses
+infaster resolution
+•Coding Audits: Helps coders audit 
+efficiently and suggests alternate codes 
+where applicable
+•Adherence toClinical Guideline: Aids 
+compliance•Pre-Agent (Automate): Routine calls 
+resolved without human agent involvement
+•OnCall: Keep agents ontask, recommends 
+Next Best Actions and reduce AHT
+•After Call (Wrap time): Automate 
+documentation and classification
+•Audit &Analysis: Identify customer trends
+real-time, improve agent performance
+•Training optimization: Creating 
+relevant training content and 
+digitization oftraining delivery
+•Improving speed toproficiency of
+agents
+Sagility AIteam will leverage BirchAI’s expertise todrive client transformation use cases
+ENHANCE 
+ENGAGEMENT
+Front Office
+OPERATIONAL 
+PROFICIENCY
+Technology / 
+Shared ServicesOPTIMIZE 
+BACK OFFICE
+Claims, PI,RCM
+CLINICIAN 
+EXCELLENCE
+UM, PI
+7
+=== page 9 ===
+Focused growth strategy anchored on deepening existing relationships, winning new 
+clients, expanding tech capabilities and acquisitions
+Clients Services Strategic Acquisitions and CollaborationsStrategic 
+Acquisitions and 
+Collaborations
+Identify suitable targets, and 
+effectively evaluate and execute 
+potential opportunities 
+⚫Pursue acquisitions to expand 
+portfolio of services in Payer and 
+Provider segments and other 
+adjacent segments
+⚫Add to the technology solutions 
+portfolio
+Enhance 
+Technology Tools 
+& Platforms
+New Clients 
+Addition
+Establish new client relationships 
+across categories 
+⚫Payers: Continued focus on other 
+large national & blue plans as well as 
+other regional plans
+⚫Providers: Expand RCM services to 
+hospitals, health systems and other 
+adjacent markets
+Existing Clients 
+Growth
+Strengthen relationships with existing 
+clients, expand offerings and increase 
+share of wallets
+⚫Aim to leverage opportunities to up -
+sell and cross -sell by introducing 
+clients to the entire spectrum of 
+solutions 
+⚫Actively invest in capabilities to 
+expand service lines across clients
+Using analytics and tools for process 
+optimization and efficiency
+⚫Cognitive computing 
+̶Artificial Intelligence (AI)
+̶Machine Learning (ML)
+̶Generative AI ( GenAI )
+⚫Cloud computing
+⚫Create capabilities across payment 
+integrity, clinical management and 
+utilization management
+8
+=== page 10 ===
+Key Highlights
+►Revenue in Q2 at ₹13,250 million,  grew by ₹2,309 million Y -o-Y 
+(corresponding to 21.1% growth Y -o-Y )
+►Adjusted EBITDA at ₹3,378 million,  grew by ₹615 million Y -o-Y 
+(corresponding to 22.2% growth Y -o-Y )
+►Adjusted PAT at ₹1,636 million, grew by ₹ 383 million Y -o-Y 
+(corresponding to 30.5% growth Y -o-Y )►Revenue in H1 at ₹ 25,484 million  grew by ₹3,382 million Y -o-Y 
+(corresponding to 15.3% growth Y -o-Y )
+►Adjusted EBITDA at ₹6,538 million, grew by ₹741 million Y -o-Y 
+(corresponding to 12.8% growth Y -o-Y )
+►Adjusted PAT at ₹3083 million, grew by ₹405 million Y -o-Y 
+(corresponding to 15.1% growth Y -o-Y )
+►Robust expansion among existing clients driven by deep client relationships demonstrated by Client NPS of 53
+►Strategic focus on small and mid -market segment payers and in widening presence with provider clients.
+►Expansion in tech use -cases with multiple GenAI  initiatives gathering momentum and pilots/ deployments underway; significant 
+enhancement in Automation and Analytics footprint .
+►M&A continues to be a core pillar of our future growth.
+►Strong performance driven by operational efficiencies
+► People: Global headcount stands at 38,380 as of September 2024.
+►2,522 employees added during Q2 FY25 (7% Q -o-Q growth in headcount). 
+►Attrition low at 25.8%*Key Business Highlights
+* Voluntary attrition considering employees who were employees for more than 90 days (%) on an annualized basisQ2 FY25 Highlights H1 FY25 Highlights
+9
+=== page 11 ===
+KPIs
+*considering employees who were employees for more than 90 days (%) on an annualized basisKPI Q2 FY25 Q1 FY25 Q2 FY24 Y-o-Y % H1'25 H1'24 Y-o-Y %
+Revenue from Operation (in INR Million) 13,250 12,233 10,941 21.1% 25,484 22,102 15.3%
+Revenue by Vertical split
+By Payer (in INR Million) 11,824 10,901 9,788 20.8% 22,725 19,773 14.9%
+By Provider (in INR Million) 1,426 1,332 1,153 23.7% 2,758 2,329 18.4%
+Growth in revenue from Operation (%) 21.1% 9.6% 15.3%
+Adjusted EBITDA (in INR Million) 3,378 3.160 2,763 22.2% 6,538 5,797 12.8%
+Adjusted EBITDA % 25.5% 25.8% 25.3% 25.7% 26.2%
+Adjusted PAT (in INR Million) 1,636 1,447 1,254 30.5% 3,083 2,678 15.1%
+Adjusted PAT % 12.3% 11.8% 11.5% 12.1% 12.1%
+Total Number of Employees 38,380 35,858 36,525 5.1% 38,380 36,525 5.1%
+Voluntary attrition rate* (%) 25.8% 27.3% 26.1% 26.2% 26.7%
+10
+=== page 12 ===
+Financial Highlights
+=== page 13 ===
+Highlights
+Q2 FY25 Financial Highlights
+►Q2 FY25 revenue stood at ₹13,250 Million ($157.9 M)
+►21.1% growth Y -o-Y (19.8% at constant currency )
+►8.3% growth Q -o-Q (7.7% at constant currency)
+►Adjusted EBITDA at ₹ 3,378 Million ($40.3 M) 
+►Adjusted EBITDA Margin : 25.5%
+►22.2% growth Y -o-Y; 6.9% growth Q -o-Q
+►Adjusted PAT at ₹1,636 Million ($19.5 M)
+►Adjusted PAT Margin: 12.3%
+►30.5% growth Y -o-Y; 13.1% growth Q -o-Q
+►OCF ₹2,391 Million ($ 28.4 M)
+►75.5% of EBITDA►H1 FY25 revenue stood at ₹25,484 Million ($304.5 M)
+►15.3% growth Y -o-Y (13.8% at constant currency )
+►Adjusted EBITDA at ₹ 6,538 Million ($78.1 M)
+►Adjusted EBITDA Margin : 25.7%
+►12.8% growth Y -o-Y
+►Adjusted PAT at ₹3,083 Million ($36.8 M)
+►Adjusted PAT Margin : 12.1 %
+►15.1% growth Y -o-Y
+►OCF ₹6,089 Million ($72.8 M)
+►113.8% of EBITDAStrong Q2 and H1 FY25 Performance
+H1 FY25 Financial Highlights
+12
+=== page 14 ===
+Financial performance snapshot – Q2 FY25
+Revenue 
+(INR Million) Y-o-Y Q-o-Q
+21.1% 8.3%Adjusted EBITDA 
+(INR Million)Y-o-Y Q-o-Q
+22.2% 6.9%Adjusted PAT
+(INR Million)Y-o-Y Q-o-Q
+30.5% 13.1%
+Revenue ($M) Y-o-Y Q-o-Q
+19.8% 7.7%Adjusted EBITDA 
+($M)Y-o-Y Q-o-Q
+20.9% 6.3%Adjusted PAT
+($M)Y-o-Y Q-o-Q
+29.1% 12.5%₹2,763₹3,160₹3,378
+Q2'24 Q1'25 Q2'25₹1,254₹1,447₹1,636
+Q2'24 Q1'25 Q2'25₹10,941₹12,233₹13,250
+Q2'24 Q1'25 Q2'25
+$131.9$146.6$157.9
+Q2'24 Q1'25 Q2'25$33.3$37.9$40.3
+Q2'24 Q1'25 Q2'25$15.1$17.3$19.5
+Q2'24 Q1'25 Q2'25
+13
+=== page 15 ===
+Financial performance snapshot – Long Term
+Revenue 
+(INR Million) FY24  Y-o-YH1’25 Y-o-Y
+12.7% 15.3%Adjusted EBITDA 
+(INR Million)FY24  Y-o-YH1’25 Y-o-Y
+12.1% 12.8%Adjusted PAT
+(INR Million)FY24  Y-o-YH1’25 Y-o-Y
+29.4% 15.1%
+Revenue ($M) FY24  Y-o-YH1’25 Y-o-Y
+10.5% 13.8%Adjusted EBITDA 
+($M)FY24  Y-o-YH1’25 Y-o-Y
+10.0% 11.3%Adjusted PAT
+($M)FY24  Y-o-YH1’25 Y-o-Y
+26.9% 13.6%₹10,449₹11,715
+₹5,797₹6,538
+FY23 FY24 H1 FY24 H1 FY25₹4,556₹5,896
+₹2,678₹3,083
+FY23 FY24 H1 FY24 H1 FY25
+$518.2$572.9
+$267.6$304.5
+FY23 FY24 H1 FY24 H1 FY25$128.4$141.2
+$70.2$78.1
+FY23 FY24 H1 FY24 H1 FY25$56.0$71.1
+$32.4$36.8
+FY23 FY24 H1 FY24 H1 FY25₹42,184₹47,536
+₹22,102₹25,484
+FY23 FY24 H1 FY24 H1 FY25
+14
+=== page 16 ===
+Financial Indicators
+1.06 1.38 1.43 
+FY23 FY24 TTM Sep24Adjusted EPS (in INR)
+82.0%87.2%113.8%
+68.2% 70.8%101.1%
+FY23 FY24 H1 FY 25Cash Conversion (%)
+OCF FCF
+Adjusted EPS is Adjusted PAT divided by weighted average number of equity shares
+Adjusted ROCE is Adjusted PAT plus Interest cost divided by capital employed (Assets excluding goodwill and intangibles less current liabilities)
+Net Debt is Borrowing plus lease liabilities less Cash and Cash equivalent. Borrowing doesn’t include accrued interest₹22,863₹21,678
+₹9,7362.19x
+1.85x
+0.78x
+Mar-23 Mar-24 TTM Sep24Net Debt
+Net Debt (INR million) Net Debt to Adjusted EBITDA41.6%47.0%
+45.1%
+FY23 FY24 TTM Sep24Adjusted ROCE
+15
+=== page 17 ===
+Q2 & H1 FY25 Consolidated Financials 
+Amt in INR M
+Particulars Q2'25 Q1'25 Q2'24 QoQ% YoY% H1'25 H1'24 YoY%
+Revenue from Operation 13,250 12,233 10,941 8.3% 21.1% 25,484 22,102 15.3%
+Other Income 153 244 291 189 405 
+Employee benefits expense 8,124 8,504 6,805 16,628 13,399 
+Other expenses 2,115 1,790 1,795 3,696 3,725 
+Reported EBITDA 3,165 2,184 2,632 44.9% 20.3% 5,349 5,383 -0.6%
+Adjusted EBITDA 3,378 3,160 2,763 6.9% 22.2% 6,538 5,797 12.8%
+Adjusted EBITDA % 25.5% 25.8% 25.3% 25.7% 26.2%
+Finance costs 297 374 483 671 954 
+Depreciation and amortisation expenses 1,264 1,100 1,715 2,363 3,376 
+Profit Before Tax 1,604 710 434 125.9% 269.8% 2,314 1,053 119.8%
+Tax Expenses 431 487 84 918 278 
+Reported Profit After Tax 1,173 223 350 426.3% 235.6% 1,396 775 80.3%
+Adjusted PAT 1,636 1,447 1,254 13.1% 30.5% 3,083 2,678 15.1%
+Adjusted PAT % 12.3% 11.8% 11.5% 12.1% 12.1%
+Adjusted EPS (Basic and Diluted) (Rs) 0.35 0.33 0.29 6.9% 19.5% 0.64 0.62 2.3%
+* Financials for Q2FY25, H1’25 and H1’24 are unaudited. Financials for Q1’25 are audited 16
+=== page 18 ===
+                      
+                          
+                
+            Adjustments on EBITDA and PAT
+Adj EBITDA Bridge: H1 FY25 Adj EBITDA Bridge: Q2 FY25
+                    
+                                  
+                                                   
+                             
+                                
+                        
+                          
+                    
+            Reported 
+PATAdj A Adj B Adjusted 
+PATAdj C
+Adj A - Earnouts under acquisition agreements and for PAT it is adjusted for tax
+Adj B - Share based payment awards and for PAT it is adjusted for tax
+Adj C - Intangible assets Amortization is amortization of intangible assets acquired pursuant to business combinations and for P AT it is adjusted of taxReported 
+PATAdj A Adj B Adjusted 
+PATAdj CAdj PAT Bridge: H1 FY25 Adj PAT Bridge: Q2 FY25Reported 
+EBITDAAdj A Adj B Adjusted 
+EBITDAReported 
+EBITDAAdj A Adj B Adjusted 
+EBITDA
+INR MillionINR Million INR Million
+INR Million
+17
+=== page 19 ===
+Go Forward Positions
+Amt in INR Million
+Particulars FY'25 FY'26 FY'27 FY'28 FY'29
+Closing Debt position 8,020 5,670 - - - 
+Debt Repayment 2,490 2,350 5,670 
+Interest Payment 746 535 285
+Share based payment awards 1,088 215 131 71 34
+Earnouts Cost - DCI / Birch 479 343 - - - 
+Intangibles Amortisation 1,387 1,396 1,396 1,396 1,396
+* Numbers are based on the current visibility of management and are subject to change. Factors such as new loans, acquisition s, foreign exchange rate or changes in our share -based payment 
+award plan could impact the final figures
+18
+=== page 20 ===
+Balance Sheet
+Amt in INR Million
+Particulars Sep'24 Mar'24
+Property, plant and equipment 3,869 3,832 
+Capital -work -in-progress - 57 
+Right -of-use assets 5,244 5,665 
+Goodwill 57,088 57,096 
+Other intangible assets 19,365 20,078 
+Trade receivables 10,578 11,813 
+Cash and cash equivalents 5,068 3,441 
+Deferred tax assets (net) 1,315 1,354 
+Other Assets 3,776 3,305 
+Total assets 106,303 106,642 
+Equity 78,159 64,431 
+Borrowings 9,441 19,335 
+Lease liabilities 5,540 5,982 
+Trade payables 2,706 2,593 
+Other financial liabilities 2,643 6,587 
+Deferred tax liabilities (net) 4,605 4,710 
+Other Liabilities 3,209 3,004 
+Total Liabilities 106,303 106,642 
+* Financials for Sept’24 are unaudited. Financials for Mar’24 are Audited19
+=== page 21 ===
+Consolidated Cash Flow – H1 FY25 
+20Amt in INR Million
+Particulars H1'25 FY'24
+Profit before tax for the period/ year 2,314 2,417 
+Adjustment for Non -Operating and Non -Cash 4,033 8,693 
+Adjustment for working capital 522 (114)
+Income taxes paid (net of refunds) (781) (1,263)
+Net cash flows generated from operating activities (A) – OCF 6,089 9,733 
+Acquisition of property, plant and equipment and other intangible assets (682) (1,827)
+Free Cash Flows (FCF) 5,407 7,905
+Payment for business combination, net of cash acquired (3,756) (3,010)
+Others 82 147 
+Net cash flows (used in) investing activities (B) (4,356) (4,691)
+Proceeds from issue of shares by subsidiaries in a related party transaction 3,708 
+Share issue expense paid (5) (72)
+Repayment of borrowings (2,427) (4,281)
+Repayment of lease liabilities (782) (1,265)
+Interest on repayment of lease liabilities (130) (412)
+Interest paid on borrowings (473) (1,483)
+Net cash flows (used in) financing activities (C) (109) (7,513)
+Net increase/ (decrease) in cash and cash equivalents (A+B+C) 1,624 (2,471)
+Cash and cash equivalents at the beginning of the year/period 3,441 5,853 
+Effect of movement in exchange rates on cash and cash equivalents 3 60 
+Cash and cash equivalents at the end of the year/ period 5,068 3,441 
+Net cash flows generated from operating activities % (OCF on EBITDA) 113.8% 87.2%
+Free Cash flow % (FCF on EBITDA) 101.1% 70.8%
+•Financials for Sept’24 are unaudited. Financials for Mar’24 are Audited
+•Others in investing activities include Proceeds from sale of property, plant and equipment and other intangible assets and Pr oceeds from 
+maturity of derivative assets/liabilities, (net) and Interest received
+ 
+=== page 22 ===
+Thank You

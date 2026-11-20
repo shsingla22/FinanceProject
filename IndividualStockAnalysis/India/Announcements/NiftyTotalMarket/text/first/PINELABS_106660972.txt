@@ -1,0 +1,161 @@
+ 
+ 
+Date: June 11, 2026  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606    
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+ 
+Dear Sir/Ma’am,  
+ 
+Subject: Press Release - The AI Agent Can Now Pay. Pine Labs Launches P3P - India’s First Agentic 
+Payment Protocol Built on UPI . 
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith press release  titled “The AI Agent Can Now Pay. Pine Labs Launches P3P - 
+India’s First Agentic Payment Protocol Built on UPI ”. 
+ 
+The above information will also be available on the website of the Company 
+at https://www.pinelabs.com/investor -relations . 
+  
+You are requested to take the same on record.  
+  
+Thank You.  
+ 
+For Pine Labs Limited  
+ 
+  
+ 
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl:  a/a 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+The AI Agent Can Now Pay. Pine Labs Launches P3P — India’s First Agentic 
+Payment Protocol Built on UPI  
+Delivers India’s First Autonomous Agentic Payment  
+ 
+Bengaluru, 11th June 2026 — AI agents can browse, recommend, and decide. But at the moment of 
+payment, every agent in India hits the same wall — a human authentication step, an MPIN, designed for 
+humans, not machines. The transaction fails. The commerce journey stops.  
+Today, Pine Labs, India’s leading merchant commerce platform, announces the Pine Labs Payment 
+Protocol (P3P)  — and for the first time in India, an AI agent can complete a UPI payment without human 
+authentication. Pine Labs is India’s first payment company to close this gap.  Live in production today.  
+The Problem  
+UPI processes over 2 3 billion transactions a month (NPCI, May 2026) — the most widely adopted real -
+time payment network in the world. But it was built for humans. Every transaction assumed a person 
+approving at the other end.  
+In agentic commerce — where AI acts on a user’s behalf — there is no person at that moment. The agent 
+reaches checkout. The authentication screen appears. The transaction fails. No payment company in 
+India had solved this.  
+How P3P Works  
+The Pine Labs Payment Protocol (P3P) extends UPI’s existing mandate framework  — already proven 
+through UPI One Time Mandates and Reserve Pay — into payments triggered by AI agents. The consumer 
+authorises once, upfront.  After that, the agent browses, selects, negotiates, and pays. No human 
+authentication. No interruption. No friction.  
+P3P provides the payment and settlement rails for autonomous commerce. Grantex provides verifiable 
+identity, delegated authorization, spend controls, and auditability. HTTP 402 — an open web standard for 
+machine -readable payment requests — provides a stand ardised protocol for discovering and requesting 
+payment. Together, they enable trusted, secure, and auditable agent -to-agent transactions on behalf of 
+merchants without requiring human intervention.  
+Grantex allows the consumer to be in absolute control — checking agent identity, enforcing pre -approved 
+spending limits, and creating a full audit trail for every payment. The consumer can revoke or update the 
+mandate at any time. Compliance is not an afterthought — it is built into the protocol layer. No 
+guardrails, no payment.  
+Real Commerce, Live Today  
+     
+ 
+ 
+ 
+ 
+Gullak,  India’s leading digital gold savings platform, is live on P3P today. A Gullak user sets a simple rule 
+— “Buy ₹500 of gold if the price drops below ₹16,000 per gram” — and approves a UPI mandate once. 
+Gullak’s AI agent follows to do the rest. The consumer gets a confirmation, not a request for permission.  
+“Gold is deeply cultural, but timing the market takes attention most people simply don’t have,”  says 
+Manthan Shah, Co -founder, Gullak . “With P3P, we are moving from manual savings to autonomous 
+wealth creation.  Pine Labs has built the infrastructure to make this possible.”  
+Deployments are underway across retail, fintech, travel, and beyond. Further partner announcements will 
+follow.  
+Vijay Sales  — one of India’s most trusted electronics retail chains with over 150 stores nationwide — is in 
+active proof of concept with P3P.  
+“Electronics buyers in India are highly value -conscious — they are always waiting for the right deal or the 
+right price drop,” says Karan Gupta, Managing Director, Vijay Sales . “P3P fundamentally alters this 
+dynamic. Instead of a customer constantly checking back for discounts on a smartphone or refrigerator, 
+they can now deploy an AI agent to secure that product the moment it hits their target price. It’s like giving 
+every cus tomer a personal shopper who never misses a deal. ” 
+What It Means for India  
+India does not follow the global agentic commerce wave.  It leads it. The global agentic commerce market 
+is projected to reach $65.47 billion by 2033 , growing at a CAGR of 35.7%  (Grand View Research, 2025). 
+India — with a rising UPI user  base  and P3P now live — is positioned at the centre of that growth.  
+UPI’s Single Block Multiple Debit (SBMD)  and One Time Mandate (OTM)  framework s are built for exactly 
+this — letting consumers “block now, debit on event” with near -instant settlement. By anchoring P3P 
+onto this architecture, Pine Labs keeps the consumer in absolute control — authorising a single mandate 
+upfront, with Grantex ensur ing the AI stays within its bounds.  
+“We have always built by asking what existing infrastructure already makes possible — then building the 
+layer that was missing. In India, UPI’s mandate framework was already architected for agentic commerce. 
+P3P is that layer. An agent securing a flash sal e the moment it goes live. A down payment locked in before 
+inventory disappears. A savings trigger at the right price. These are new behaviours, native to how India 
+transacts. Pine Labs is building the commerce infrastructure for that world. Not catching u p to anyone. 
+Building ahead.”  — Amrish Rau, CEO, Pine Labs  
+Built for UPI. Expanding to Every Rail.  
+P3P is live on UPI today. Pine Labs is working with major card networks to extend P3P’s mandate -based 
+authorization to card transactions — making the Pine Labs Payment Protocol the payment foundation 
+for all agentic commerce in India.  
+For merchants and developers: pinelabs.com/docs/online -payments/ai/p3p  
+     
+ 
+ 
+ 
+ 
+### 
+ 
+ 
+ 
+About Pine Labs Limited  
+ 
+Pine Labs  Limited is a technology company digitising commerce, through digital payments and issuing 
+solutions in India and across the globe. We have built an advanced technology infrastructure to help 
+accelerate the digitisation journey of merchants, consumer brand s, enterprises, and financial institutions. 
+We operate in India and a growing number of international markets including Malaysia, Philippines, UAE, 
+Singapore, Australia, USA, and Africa.  
+ 
+Our digital payments business represents a one -stop software solution across channels, including online 
+payments designed to deliver secure and smooth online payment experiences to the end user, powered 
+by a tech stack. We also provide integrated affordabi lity solutions for merchants and consumer brands 
+and enterprises, and Fintech infrastructure solutions for financial institutions.  
+ 
+Our issuing business offers a full -stack, end -to-end technology service solution in physical prepaid 
+instruments, gift cards, and sales/ distribution space, with a presence in multiple countries and with 
+brands and customers from the retail, hospitality an d travel industries. We offer prepaid instruments 
+primarily in India, Middle East, Southeast Asia, Australia and the United States and we presently offer 
+Credit+ in India, Sri Lanka, Middle East, Africa, and Southeast Asia.  
+ 
+To know more, please visit www.pinelabs.com  
+ 
+ 
+Media Contact : 
+Ruder Finn  
+Tanya Singh  
+tanya.singh@ruderfinn.com  
++91 8527996144  
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,95 @@
+ 
+Netweb Technologies India Limited  
+Plot No. H -1, Block -H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, Haryana 
+121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E -mail : complianceofficer@netwebindia.com  
+CIN : L72100HR1999PLC103911  
+Date: 09.10.2025 
+To,   
+The Manager    
+Listing Department    
+BSE Limited    
+Phiroze Jeejeebhoy Towers Dalal Street   
+Mumbai - 400001    
+Scrip Code: 543945    To,  
+The Manager    
+Listing Department    
+National Stock Exchange of India Limited    
+Exchange Plaza, Bandra Kurla Complex   
+Bandra East, Mumbai - 400051   
+Scrip Code: NETWEB    
+ 
+SUBJECT: INTIMATION OF PRESS RELEASE  
+Dear Sir/ Madam,  
+Please find enclosed herewith the Press Release dated October 09, 202 5, titled Netweb Technologies 
+and Bud Ecosystem Partners to Enable Affordable AI Infrastructure  for India  issued by the 
+Company.  
+ 
+Kindly take the same on record.  
+Thanking you,  
+For Netweb Technologies India Limited  
+ 
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+M.NO A36610  
+ 
+
+Netweb Technologies and Bud Ecosystem Partner s to Enable Affordable AI 
+Infrastructure for India  
+Faridabad/ Delhi / Bengaluru, October 09, 2025:  
+Netweb Technologies  India Limited (Netweb) , India ’s leading Make in India manufacturer of 
+high -end computing solutions  (HCS) , has entered into a partnership with Bud Ecosystem  
+(Bud) , a Bengaluru -based AI research and product company, to jointly develop affordable, 
+localized AI infrastructure solutions for India.  
+The collaboration brings together Netweb’s expertise in scalable, high -performance, and 
+energy -efficient , enterprise -grade  computing systems with Bud’s AI foundry software stack 
+to create ready -to-deploy AI solutions designed for India’s diverse sectors including 
+education, healthcare, retail, agriculture, and small businesses.  
+Under this partnership, the two companies will co -develop AI -in-a-Box pre-configured 
+systems integrating optimized hardware and software to deliver AI capabilities in 
+environments with limited connectivity or technical resources. The solutions are designed to 
+be modular and scalable, allowing customers to start with CPU -base d systems and upgrade 
+seamlessly to advanced GPU or accelerator -based configurations as needs evolve.  
+This initiative seeks  to bridge India’s AI accessibility gap by tackling key challenges such as 
+high infrastructure cost, connectivity limitations, and data privacy concerns. The joint 
+offering will enable localized deployment, offline functionality, and data sovereignty, 
+empowering organizations to adopt AI cost -effectively  as well as seamlessly . The offering will 
+include  plug -and-play edge AI systems pre -built with custom developed LLMs and SLMs, 
+multilingual AI models like HEX1, domain -specific custom AI agents and efficient inference 
+engines, and  a comprehensive  end-to-end AI foundry layer ; all designed to simplify and scale 
+AI adoption across sectors in India . 
+Swastik Chakraborty  VP Technology, from  Netweb Technologies said, “Our collaboration 
+with Bud Ecosystem reinforces our vision of building trusted, scalable, and inclusive compute 
+infrastructure for India’s digital growth. Together, we are making AI accessible where it 
+matters most ; across communities, institutions, and enterprises.”  
+ 
+Linson Joseph Chief Strategy Officer (CSO) from Bud Ecosystem added,  “This partnership 
+brings together Bud Ecosystem ’s deep expertise in AI software with Netweb ’s proven 
+strengths in hardware and middleware engineering. Our shared mission is to make advanced 
+AI truly deployable —anywhere and everywhere —from metropolitan hubs to the most remote 
+corners of rural India. Together, we aim to simplify and localise AI for every sector that stands 
+to benefit from it. ” 
+ 
+The partnership underscores both the companies’ commitment to democratizing access to AI 
+infrastructure and supporting India’s mission to build a sovereign, inclusive, and innovation -
+driven digital economy.  
+About Netweb Technologies  
+Netweb is a leading Indian origin, owned, and controlled OEM specializing in High -end 
+Computing Solutions (HCS). The company designs, manufactures, and deploys advanced 
+computing infrastructure including AI systems, High -Performance Computing (HPC) cluster s, 
+private cloud and HCI platforms, high -performance storage, and data center servers. With 
+deep -rooted indigenous R&D and complete in -house manufacturing, Netweb serves mission -
+critical workloads across sectors such as research, education, defense, health care, 
+manufacturing, and financial services. Its capabilities make it a key partner in building 
+sovereign AI and compute infrastructure under transformative national initiatives like 
+IndiaAI and Make -in-India . 
+About Bud Ecosystem  
+Bud Ecosystem is a Bengaluru -based AI  research and product company specializing in multi -
+modal Generative AI. Its mission is to simplify AI and break down the technical and financial 
+barriers that prevent enterprises and individuals from accessing it. Bud has open -sourced 
+more than 20 models,  including large language models, diffusion models, small language 
+models, and CodeGen models.  
+ 
+ 

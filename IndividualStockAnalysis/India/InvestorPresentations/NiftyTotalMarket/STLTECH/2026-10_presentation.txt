@@ -1,0 +1,2666 @@
+
+=== page 1 ===
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+  
+October  23, 2026  
+ 
+To, 
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor,  
+Plot No. C -1, G Block,  
+Bandra Kurla Complex, Bandra (East)    Mumbai - 400 051.  
+ Scrip ID -  STLTECH  
+ BSE Limited  
+Phiroze  Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001.  
+ Scrip Code – 532374  
+Scrip Code – 973103  
+ 
+Sub.: Outcome of Board Meeting -  Disclosure  under Regulations 30, 33, 51, 52 and other 
+applicable provisions of the Securities and Exchange Board of India  (Listing Obligatio ns and 
+Disclosure Requirements) Regulations, 2015, as amended (the “Listing Regulations”)  
+ 
+Dear Sir/  Madam,  
+ 
+With reference to our letter dated October 06 and 13, 2026, we wish to inform you that the Board of 
+Directors of Sterlite Technologies Limited (the “Company”), at its meeting held today i.e. on October  23, 
+2026, has approved,  inter alia, the Unaudited Consolidated and Standalone Financial Results  of the 
+Company for the quarter and half year ended September  30, 2026 , along with Limited Review of the Statutory 
+Auditors of the Company . 
+ 
+In this regard, please find enclosed herewith:   
+ 
+i. Press Release  on the Unaudited Financial Results ; 
+ii. Investors Presentation on the Unaudited Financial Results;  
+iii. Unaudited Consolidated and Standalone Financial Results;  
+iv. Limited Review Report on the Unaudited Consolidated and Standalone Financial Results;  
+v. Disclosure pursuant to Integrated Financial Results pursuant to SEBI Master Circular HO/49/14/14(7)  
+2025- CFD-POD2/I/3762/2026 dated January 30, 2026,  read with relevant circulars issued by stock 
+exchanges  enclosed as Annexure I ; 
+vi. Statement of Utilization of issue proceeds raised through Preferential Issue of Warrants and 
+Statement of Material Deviation under Regulation 32(1) of the Listing Regulations  and as required 
+under  SEBI Master Circular No. SEBI/HO/49/14/14(7)2025- CFDPOD2/I/3762/2026 dated January 
+30, 2026 – Enclosed as Annexure II ; 
+vii. Statement of Utilization of issue proceeds raised through Qualified Institutional Placement  of equity 
+shares  and Statement of Material Deviation under Regulation 32(1) of the Listing Regulations and 
+as required under  SEBI Master Circular No. SEBI/HO/49/14/14(7)2025- CFDPOD2/I/3762/2026 dated 
+January 30, 2026 – Enclosed as Annexure III;  
+viii. Statement of Utilization of issue proceeds of Non- Convertible Debentures and Statement of Material 
+Deviation pursuant to Regulation 52(7) and Regulation 52(7A) respectively of the Listing Regulations  
+and SEBI Master Circular SEBI/HO/DDHS/DDHS -PoD1/P/CIR/2025/0000000103 dated July 11, 
+2025, confirming Nil deviation(s) for the quarter ended September  30, 2026;  
+ix. The details of security cover for the quarter ended September 30, 2026,  along with the certificate of 
+the Statutory Auditors of the Company pursuant to Regulation 54(3) of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 read with SEBI Master Circular SEBI/HO/DDHS -
+PoD-1/P/CIR/2025/117 dated August  13, 2025,  is enclosed herewith.  
+=== page 2 ===
+ 
+www.stl.tech
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, In dia.      
+CIN - L31300PN2000PLC202408  The meeting commenced at 10:00 am and concluded at 12.40 pm . 
+We request you to take the aforesaid on records. Thank you. 
+Yours faithfully, 
+For Sterlite Technologies Limited  
+Mrunal Asawadekar 
+Company Secretary & Compliance Officer 
+Membership No.: A 24346 
+Encl.: As abov e 
+=== page 3 ===
+       
+ 
+www.stl.tech  
+Sterlite Technologies Limited Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                 CIN - L31300PN2000PLC202408   PRESS RELEASE                                              STL achieves record Q2 FY’27, with highest-ever revenue, EBITDA and open order book • Record order book of INR 35,274 Cr and highest-ever revenue of INR 2,529 Cr  • Signed multi-year long-term supply agreements (LTSAs) with hyperscalers and telecom operators Mumbai, 23/October/2026: STL [NSE: STLTECH], a leading connectivity solutions provider for AI-ready digital infrastructure, today announced its financial results for the quarter ended 30 September 2026. For Q2 FY’27, the Company reported the highest-ever revenue of INR 2,529 Cr and EBITDA of INR 846 Cr, a YoY growth of ~145% and ~500%, respectively. The open order book stands at INR 35,274 Cr at the end of the quarter.  This record revenue reflects the convergence of several factors. Demand for AI-ready digital infrastructure continues to accelerate, with hyperscalers building out data centers that need far more fibre per rack than earlier cloud architectures. A growing share of the business now comes from integrated optical connectivity solutions, with the optical connectivity attach rate reaching an all-time high of 24% during H1 FY’27. Large multi-year agreements with hyperscalers and telecom operators supported strong order intake and steady execution through the quarter. STL also reported a net debt-free balance sheet this quarter, with PAT at INR 517 Cr, driven by strong revenue growth, margin expansion and a one-time tariff refund gain.  Key order wins in H1 FY’27: STL’s diversified order wins during H1 reflect growing demand for high-performance optical connectivity solutions from hyperscalers and telecom operators globally: • A US$ 1.2 Bn (~INR 11,500 Cr) multi-year long-term agreement with a hyperscaler to supply optical connectivity products from CY26 to CY30. • A US$ 1.11 Bn (~INR 10,500 Cr) Product Award Letter from a hyperscaler to supply optical connectivity products from FY27 to FY29. • A $288 Mn (~INR 2,700 Cr) deal with a hyperscaler for  high-density optical fibre cable products from CY27 to CY29. • A US$ 210 Mn (~INR 2,000 Cr) deal for a leading telecom infrastructure company for high-density optical fibre cables from CY27 to CY29. • A multi-year optical cable supply agreement worth INR 960 Cr with a leading Indian telecom operator. Innovation STL continued to strengthen its portfolio of next-generation optical products in line with the needs of AI-ready digital infrastructure, taking its total patent count to 800+: • Expanded the STL Neuralis portfolio with Pre-Terminated Fibre Trunk Assemblies (48F–6,912F), designed to power hyperscale data centres. • Launched a plenum-rated fibre trunk for AI data centre connectivity. • Launched a new advanced FTTH solution, CONCAT, after successfully completing field trials on the networks of one of the largest telecom service providers in the US. “Q2 FY’27 is our best quarter yet, with the highest revenue and EBITDA in STL’s history. It reflects the strength of demand for AI-ready digital infrastructure” said Ankit Agarwal, MD, STL. “The large multi-year agreements we secured this 
+=== page 4 ===
+       
+ 
+www.stl.tech  
+Sterlite Technologies Limited Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                 CIN - L31300PN2000PLC202408  quarter, along with an open order book of INR 35,274 Cr, give us strong visibility as hyperscalers and telecom operators scale their digital infrastructure and networks.” Financials*  (INR Cr) Q2 FY’27 Q1 FY’27 Q2 FY’26 Revenue 2,529 1,910 1,034 EBITDA 846** 397 141 PAT 517 197 4  *All financials are from continued operations **Includes one-time net gain of US tariff refund worth INR 161 Cr.  About STL (Sterlite Technologies Ltd.): STL is a global leader in advanced connectivity solutions, providing end-to-end solutions for building AI-ready infrastructure, FTTx, rural, enterprise and data center networks. With manufacturing facilities in North America, Europe and Asia, we deliver our solutions in more than 100 countries. Data center & Cloud companies, telecom operators, Internet service providers and large enterprises collaborate with STL to build their future-ready digital infrastructure. STL’s business goals are driven by customer-centricity, R&D and sustainability. Read more, Contact us, stl.tech | Twitter | LinkedIn| YouTube For more information, contact:  Media Relations Shaily Rai Sinha Phone: +91 22 30450450               +1 (803)-403-2258 stl.communications@stl.tech Investor Relations Rahul Darak Phone: +91 22 30514000 investor@stl.tech   
+=== page 5 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colors
+© 2022 -2023 Sterlite Technologies LimitedEarnings
+Presentation
+Earnings Call Q 2FY27 & H1FY27
+23 October 2026
+=== page 6 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsSafe Harbour
+2Certain  words  and statements  in this communication  concerning  Sterlite  Technologies  Limited  (“the Company ”) and its prospects,  and other  statements  
+relating  to  the Company ’s expected  financial  position,  business  strategy,  the future  development  of the Company ’s operations  and the general  economy  
+in India  & global   markets,  are forward  looking  statements .
+Such  statements  involve  known  and unknown  risks,  uncertainties  and other  factors,  which  may cause  actual  results,  performance  or achievements  of the 
+Company,  or  industry  results,  to differ  materially  from those  expressed  or implied  by such  forward -looking  statements .
+Such  forward -looking  statements  are based  on numerous  assumptions  regarding  the Company ’s present  and future  business  strategies  and the 
+environment  in which   the Company  will operate  in the future .
+The important  factors  that could  cause  actual  results,  performance  or achievements  to differ  materially  from such  forward -looking  statements  include,  
+among  others,   changes  in government  policies  or regulations  of India  and, in particular,  changes  relating  to the administration  of the Company ’s industry,  
+and changes  in general   economic,  business  and credit  conditions  in India .
+The information  contained  in this presentation  is only current  as of its date and has not been  independently  verified . No express  or implied  representation  
+or  warranty  is made  as to, and no reliance  should  be placed  on, the accuracy,  fairness  or completeness  of the information  presented  or contained  in this 
+presentation .  None  of the Company  or any of its affiliates,  advisers  or representatives  accepts  any liability  whatsoever  for any loss howsoever  arising  
+from any information   presented  or contained  in this presentation . Please  note that the past performance  of the Company  is not, and should  not be 
+considered  as, indicative  of future   results . Furthermore,  no person  is authorized  to give any information  or make  any representation  which  is not 
+contained  in, or is inconsistent  with, this presentation .  Any such  extraneous  or inconsistent  information  or representation,  if given  or made,  should  not be 
+relied  upon  as having  been  authorized  by or on behalf  of the  Company .
+The Company  may alter,  modify  or otherwise  change  in any manner  the contents  of this presentation,  without  obligation  to notify  any person  of such  
+revision  or changes .
+Persons  should  consult  their own financial  or tax adviser  if in doubt  about  the treatment  of the transaction  for themselves
+These  materials  are confidential,  are being  given  solely  for your information  and for your use, and may not be copied,  reproduced  or redistributed  to any 
+other  person   in any manner . The distribution  of this presentation  in certain  jurisdictions  may be restricted  by law. Accordingly,  any persons  in possession  
+of this presentation  should   inform  themselves  about  and observe  any such  restrictions
+© 2026 -2027 Sterlite Technologies LimitedSTl! 
+=== page 7 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsManaging DirectorAnkit Agarwal
+A believer  in purpose -led organizations,  Ankit  has been  
+leading  STL’s growth  journey  as it transforms  billions  of lives 
+by connecting  the world . He holds  sustainability  very close  to 
+his heart  and is leading  the company ’s ambitious  Net-Zero 
+by 2030  target,  from the front.
+Ankit  is extremely  passionate  about  improvement  in health,  
+education  and the environment  through  digital  inclusion . 
+Recognized  as a 40 under  40 leader,  Ankit  is a strong  
+supporter  of young  and entrepreneurial  talent . He is a fitness  
+enthusiast,  an athlete,  and a long-distance  runner  and 
+encourages  his teams  to work  towards  solid all-round  growth  
+at work  and in life.
+© 2026 -2027 Sterlite Technologies LimitedST\! 
+=== page 8 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsSTL is a Leading Player in Global Digital Connectivity Infrastructure
+4 © 2026 -2027 Sterlite Technologies LimitedOfferings#1
+End-to-end optical manufacturer in India
+9%
+35+
+Years of industry leadership
+805+
+Global patents filed and granted* 
+10+
+Advanced manufacturing facilities with 
+ZERO waste to landfill & Liquid DischargeTelcos DC and Cloud Citizen Networks Large Enterprises Global Market Share in OFC (Ex-China) Customer Segments
+Optical  Fibre
+Optical  Fibre  Cables  Specialty  Cables
+Optical  Connectivity  
+*patent count excludes 8 patents subject to transfer to InveniaST\! 
+8 
+I, ~-~ ~ 
+~ ,., bl p5-
+=== page 9 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsGlass to Gigabit Connectivity – Presence Across Value Chain
+© 2026 -2027 Sterlite Technologies Limited5Breakthrough Innovations across the chain
+FIBRE
+Stellar bend -
+insensitive fibre
+Minimal signal loss in tight, 
+dense data -centre routingFIBRE
+Multiverse multi -core 
+fibre
+4–7x data capacity in the 
+same footprint; QKD -readyCABLE
+Celesta IBR ribbon 
+cable
+Up to 6,912 fibres; compact, 
+faster hyperscale installsCONNECTIVITY
+OptoBlaze plug -‘n’-
+play
+Pre-connectorised, tool -free 
+FTTH installationCONNECTIVITY
+CONCAT
+CONCAT spliceless 
+system
+Factory -assembled FTTH; 
+up to 71% lower labour costDATA CENTRE
+Neuralis
+Neuralis AI -DC 
+portfolio
+Pre-terminated trunks 48F–
+6,912 F for AI racksSTl! 
+stellar multiverse celesta OptoBlaze 
+TM 
+=== page 10 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsStrategic Priorities for FY 27
+612 3 4Strategic 
+Priorities 
+for FY 27Industry  Tailwinds & 
+Market OpportunityBusiness 
+Performance UpdateFinancial 
+Performance Update
+© 2026 -2027 Sterlite Technologies Limited
+=== page 11 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsStrategic Priorities for FY 27
+7
+© 2026 -2027 Sterlite Technologies LimitedGrowth Roadmap FY 27–29
+Lakshya
+To be among the top 5 players globally in 
+optical connectivity solutions
+₹20,000 Cr*
+Revenue in FY 29
+FY27  ·  Year one of Lakshya
+*To be read in conjunction with the Safe Harbour Statement and Risks & AssumptionsBUILDING THE FOUNDATION IN FY 27
+Fivepriorities that put Lakshya into action
+Lakshya Presentation: Link01Grow revenue share of integrated connectivity 
+solutions
+02 Scale ‘Data Centre ’segment ’s revenue contribution
+03Technology leadership in next -gen optical platforms 
+(Investing ~2% of annual revenue in R&D)
+04Drive margin expansion through relentless focus on 
+operational & cost efficiencies and enhanced value 
+proposition to customers
+05Expansion  ofexisting preform, fiber & cable capacities 
+by 50%and a greenfield facility for pre -term  
+solutions (Capex of  INR 1,000 Cr each year, FY 27-29)ST\! 
+9 ....__... 
+=== page 12 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsIndustry Tailwinds & Market Opportunity
+8Strategic 
+Priorities for 
+FY271 2Industry Tailwinds 
+& Market 
+Opportunity3 4Business 
+Performance UpdateFinancial 
+Performance Update
+© 2026 -2027 Sterlite Technologies Limited
+=== page 13 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsGrowth Momentum with all Three Investment Cycles Coinciding
+Years are Calendar Years ,* - CAGR,  S ource : Goldman Sach,Jefferies  , FTTH Council Europe, Industry News,GSA , Deloitee  & CRU), GRAND VIEW RESEARCHMulti -year network build cycle
+>140 Mn US homes await FTTHFTTx  in NA in M fkm
+US demand to more than double from 31 
+GW in 2025 to 66 GW in 2027Installed Data Centre Capacity (GW)North America5G / 6G FTTx Data Centres
+Subscribers in India (Mn)
+~US$ 60 Bn investments till 2031 (Morgan Stanley )Installed Data Centre Capacity ( GW)Global
+India
+© 2026 -2027 Sterlite Technologies Limited 989%CRU upgrad es projected global 
+optical cable demand growth 
+from data centres to 89% y/y in 
+2026 from 63%.
+RystadCRUGlobal FTTx  deployments – OFC mfkm
+Indian FTTH Market (US$ Mn)157 166
+2025 2030 P
+414752586367
+2025 2026 2027 2028 2028 2030+10%
+CAGR
+4,1689,040
+CY24 CY30+14% 
+CAGRis the forecasted milestone for 
+global 6G subscriptions by the 
+close of 2031 .180
+Mn
+570
+1604301,100
+FY25 FY31P5G
+4G1,0001,260Ericsson Mobility ReportGlobal 5G subscriptions by 
+2031 , making up 67% of total 
+mobile subscriptions6.4
+Bn
+India ’s 5G subscriptions to reach > 1.1 billion by the end of 2031current 5G market penetration - 
+positioning North America as the 
+global leader and an expected 
+early adopter for 6G.79%projected 5G/6G subscriptions in 
+North America by 2031 , up from 
+370 million at the end of 2025 .460 
+Mn
+1.810.5
+2026 203163126
+2025 2030 P14.8%
+ CAGR
+Ericsson Mobility ReportEricsson Mobility ReportSupported by:
+•Morgan Stanley now expect 
+hyperscaler  and neocloud 
+capex of $978billion in 2026 
+and $ 1.5 trillion in 2027Investment by Hyperscalers
+•U.S. Broadband Funding 
+(~$97B incl. BEAD) all state 
+grant agreements approved  
+and first BEAD -funded 
+connections are live; fibre  
+constitutes ~ 63% of total 
+technology  for planned 
+locations
+•BharatNet  (₹1.39Tn) Phase 
+III targets fibre to 1.5 crore 
+rural homes , driving the next 
+stage of broadband 
+expansion.Government Programs 
+Driving ConnectivitySTl! 
+-----o .. 
+=== page 14 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsEstimated global data centre capacity 
+demand, gigawatts
+© 2026 -2027 Sterlite Technologies Limited446283102124156
+384045505664
+2025 2026 2027 2028 2029 203082103128153181219
+Non-AI Workload AI Workload
+10Source: Mckinsey
+5004,00012,00016,000
+Cloud
+(<2023 )32 GPU 
+(2023 –24)72 GPU 
+(2025 –26)144–288 GPU 
+(Future)Make in India for the World
+End to end portfolio for DCsOpportunity Size
+70% of demand for AI -specific infrastructure by 
+2030STL’s AI-DC Portfolio TAM Levers in AI Architecture
+SCALE UP More connectivity per GPU
+Scaling AI compute by replacing copper with optics, significantly 
+increasing optical content per GPU.SCALE OUT More nodes, more fibre
+Expanding AI servers and GPU nodes increases inter -node fiber links 
+and in -rack fiber density.
+SCALE ACROSS Cluster -to-campus DCI growth
+Interconnecting AI clusters, facilities, and data centers to run as a 
+unified infrastructure scale.
+Scale Up: Evolving GPU Architecture
+400G
+Standard (Netflix -
+scale)800G
+Current AI sweet spot1.6T
+Upcoming "super -
+highway"
+As AI nodes scale, copper hits its limits –fibre 
+takes overScale Out : The Density Journey
+More AI = denser fibre per rack
+AI racks are becoming fibre -dense: higher 
+compute per rack needs many more fibresScale Across: Fibre explosion in DCI
+2 DCs
+→ 1 DCI3 DCs
+→ 3 DCIs4 DCs
+→ 6 DCIs5 DCs
+→ 8 DCIs6 DCs
+→ 15 DCIs
+More AI data centres mean more interconnects –each new site multiplies 
+DCI demand
+*Source: JLL, McKinsey, MarketsandMarkets , Bharatnet.in, Economic Times, press releases, STL AnalysisAI Revolution and Data Centre Expansion  Presenting Unprecedented  
+Opportunity STl! 
+• • 
+=== page 15 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colors
+© 2026 -2027 Sterlite Technologies LimitedIndia Data Centre Expansion – A Structural Optical Fibre Tailwind
+Source: CRU, Morgan Stanley, Savills India (H 1 2026 ), company announcements, CFO.com (The Economic Times)✓DCI Links ✓Metro Fibre ✓Long -Haul BackboneHigher DC Capex = Higher Fibre Intensity Across:Strategic Announcements
+Fuelling Investment SurgePolicy Tailwinds
+Power Benefits
+India ’s grid has reached 552 
+GW, with 54% (300 GW) from 
+non-fossil sources . 
+State Incentives
+Offering  stamp duty waivers, 
+10-20 year electricity -duty 
+exemptions, and power subsidies
+Tax Holidays till 2047
+Long -term income tax 
+exemptions
+India DC Capacity Expansion
+Multi -Year DC Capex Boom Driving 
+Fibre Demand1.8 
+GW10.5 
+GW
+024681012
+2026 2031
+115 GW+ I $ 30 Bn
+3 GW Raigad campus3 GW Jamnagar
+Meta 168 MW AI DC~3GW I $ 21Bn
+Hyderabad$15Bn I Vizag &
+across India
+~2GW I $ 17.5Bn
+Across India1GW+
+Across India60MW
+Kolkata50MW
+VizagMulti -GW AI -rack mfg.
+$100 Bn I 5 GW by 2035240 MW (+ 240 MW option) I Navi Mumbai I mid -2028
+Neocloud to deploy NVIDIA Vera Rubin platform in the data 
+centreIndia ’s live DC capacity reached ~ 1.8 GW, after a record 258 MW addition in H 1FY27STl! 
+adani 
+-- -VI CoreWeave ada:-,i 
+JABIL 
+• a aws Google • Reliance '.._,,;I 
+lndu•1rWIIIJmi1NI 
+1■ Microsoft CtrlS srfy" 
+=== page 16 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsFiber Remains  the Backbone of all Digital  Infrastructure
+5G, FTTH, AI -DC all bank on the DNA that is optical fiber
+Source: Newspaper Reports, Investor Decks & Insights 12© 2026 -2027 Sterlite Technologies LimitedAirtel accelerating fibre  rollout to power broadband growth
+We are future -proofing  our network  with  accelerated  fibre  deployment  
+reflected  in over  1,30,000 kilometres  fibre  rollout  in the last three  years . 
+We continue  to expand  fibre  home  passes  for our broadband  
+businesses  along  with  FWA  rollout  across  2,500 cities .“AWS has built over nine million kilometers of network 
+infrastructure, so vast it could reach from Earth to the 
+Moon and back more than 11 times”
+“Hollow -core fiber provides the advanced data speeds 
+necessary to solve AI latency and scalability challenges. ”John Stankey, Chairman and chief executive at AT&T, 
+commented: 
+“Fiber remains the gold standard for superior internet 
+connectivity … [Its] speed, reliability, and capacity remain 
+unmatched for any home or business. ”
+Allison Kirkby, CEO at BT commented:
+“BT continues to deliver on its strategy - building and 
+connecting the UK to the best next -generation full fibre  
+network at scale, setting up the country for long -term 
+growth and competitiveness."Jensen  Huang,  Founder  & CEO of NVIDIA  stated  :
+The next  generation  of artificial  intelligence  infrastructure  
+will require  a substantial  amount  of optical  connectivity  
+because  computing  demands  are growing  so rapidly  that  
+copper  wiring  can no longer  meet  the requirementsST\! 
+.. 
+YAT&T 
+aws 
+'f) 
+airtel 
+Microsoft 
+=== page 17 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsA Clear Multi -year Upcycle in Global Fibre Demand from CY 25 
+13STL’s focus markets North America expected to lead demand growth, 
+with CRU projecting a 20% CAGR through 2030 .OFC Demand ( Mn Fkm)
+Source:  CRU Optical Fibre & Cable Market Outlook, Aug  2026 ; STL AnalysisReflections
+As per CRU ;
+•Demand outlook upgraded again:  Global 
+optical cable demand upgraded to ~ 851 Mn 
+fkm by 2031 , reflecting an ~7.5% CAGR (2025 -
+31). 
+•Supply –demand tightness intensifying:  AI-
+led demand continues to outpace fibre and 
+preform availability, keeping utilisation  high and 
+lead times long across key markets.
+Future  Outlook
+As per CRU , this growth  is driven  by;
+•Growth  to be increasingly  concentrated  in 
+North  America  and APAC  ex-China : Driven  by 
+AI-led data centres , DCI and broadband  rollouts  in 
+North  America,  with India  and Southeast  Asia 
+driving  incremental  growth  in APAC  ex-China .
+•AI Data  Centers  (AIDC)  to capture  one third  
+volume  share  by 2030  (ex-china  market)Calendar Year
+© 2026 -2027 Sterlite Technologies LimitedN.America  
+& Europe 
+(Mn Fkm)173 195 244 297 333 370
+15.7% CA GR4050100200300400500600700800900
+2024 2025 2026 2027 2028 2029 2030 2031529554596688734773812851
+China ROW APAC (Ex China, India) India Europe N. America
+438.-1 
+I 
+I 
+I STl! 
+• • • • • • -------------------------------------- -. I 
+I 
+I 
+I ~---------------------------------------~ 
+=== page 18 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsExecution Excellence & Competitive Differentiation 
+14 © 2026 -2027 Sterlite Technologies LimitedStrategic 
+Priorities for 
+FY271Industry  Tailwinds & 
+Market Opportunity 34Business 
+Performance 
+UpdateFinancial 
+Performance Update2
+=== page 19 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsStrong Order Momentum with Multi -Year LTSAs Positioning STL to 
+Outpace Market Growth
+15 © 2026 -2027 Sterlite Technologies Limited✓NEW: $ 1.2B Multi -Year Hyperscaler  Order Win (CY 26-30)
+Secured ~₹ 11,500 + Cr long -term agreement with an another 
+global hyperscaler  for AI -ready optical solutions.
+✓Landmark $ 1.11 Billion Product Award Letter (FY 27-29) 
+Secured ~₹ 10,500 + Cr from a hyperscaler  to supply optical 
+connectivity products from FY 27 to FY 29 for next -gen AI data 
+centers
+✓North American Telco LTSA Win ($ 210 Mn)
+International telco order expanding optical interconnect footprint 
+across CY 27-29 (~₹2,000 Cr).
+✓Domestic Telecom Anchor Win
+Bagged a ₹960 Crore  multi -year optical cable supply 
+agreement with a leading Indian telecom operator.Key Strategic Wins: 
+7,68732,026
+FY26 H1FY274.2xOrder Intake (INR Cr.)Lets wait 
+for data, 
+keet the 
+standardSTl! 
+=== page 20 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colors
+16Global (ex -China) OFC market share
+H1FY26 H1FY277%9%Optical connectivity attach rate
+Attach rate = Optical connectivity revenue / OFC revenueMarket Share = STL Sales Volume / Total Market Demand
+Increased OFC market share 
+across focus marketsMarket Share and Optical Connectivity Attach Rate 
+© 2026 -2027 Sterlite Technologies LimitedWill be 
+updated 
+after data 
+is 
+received
+H1FY26 H1FY2720%24%
+Record High : Attach rate reached 
+an all -time high of 24%STl! 
+=== page 21 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsDriving Innovation Leadership - Technology Update
+KEY DEVELOPMENTS 
+THIS QUARTER
+Strengthened  Neuralis  portfolio with Pre-
+Terminated Fiber Trunk Assemblies to power 
+hyperscale data centers
+Launched  Plenum -rated Fiber Trunk for AI 
+Data Center Connectivity
+Patent Dispute Win in Europe
+Victory removes commercial barriers, clearing 
+the runway for accelerated growth across the 
+IBR cable family.
+Hollow -Core Fiber : Transitioned HCF cable 
+into its first commercial pilot phase.
+17Needs to 
+be 
+updated 
+and 
+checked 
+once data 
+is 
+received
+FIRST IN THE WORLD / INDIA
+100% Green Power: Transitioning optical 
+manufacturing to 100% renewable energy with 
+~80% lower carbon emission
+India ’s First Quantum -Secured Network
+Breakthrough enabled by Multi -Core Fibre .
+160-Micron Fibre
+World ’s slimmest optical fibre.BUILDING NEXT -GEN CAPABILITY
+Hollow -Core Fibre (HCF)
+Pioneering low -latency, low -loss 
+communications for future networks.
+STL and Microscan  partner to deploy 
+Sensron  Standard networks transformed 
+into real -time, AI -powered smart city sensor 
+grids.
+Hybrid Cable Architecture
+Engineered combining HCF, G. 654.E, and 
+NOVA fibers to power AI Data Centre 
+connectivity.STL recognized in IAM ’s Asia IP 
+Elite 2026
+Breakthrough Glass
+Chemistry & Connectivity
+Voice & Data Special Jury 
+Award for Make in India 
+Initiative 2025Lightwave Diamond Tech 
+Review Award: STL Aerial 
+FDHCII’s Industrial Innovation Awards 
+2025
+Outstanding innovation capabilities
+© 2026 -2027 Sterlite Technologies LimitedST\! 
+=== page 22 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsTWO MISSION -CRITICAL PILLARS
+Ultra -high-density MMC / 
+MPO cabling 
+Factory termination for faster 
+deployment 
+Scales to support massive 
+GPU clusters 1AI WHITESPACE
+Internal Connectivity
+Campus -edge interconnect
+Petabyte -scale data 
+movement
+Celesta IBR up to 6,912  
+fibres2HIGH -SPEED DCI
+External ConnectivityFEATURED PRODUCT PORTFOLIO
+3Celesta IBR Cables1MMC Connectivity
+4Fiber Enclosures & Panels2Fiber Array Cords & Assemblies
+3x cabling density vs. traditional MPO Ultra -high-density backbone cable
+Optimized for
+400G / 800G networksMaximize rack density and simplify 
+management
+STL Neuralis: AI -Era Data Center Portfolio
+© 2026 -2027 Sterlite Technologies LimitedSTL Neuralis  emerges as the “central nervous system ” for modern data centers —
+built to power AI workloads with speed, scale and simplicity.
+From North -
+South to East -
+West architecture Built for AI. 
+Ready for what ’s 
+next. Infrastructure 
+that scales with 
+intelligence
+18NEW: PRE -TERMINATED TRUNK ASSEMBLIES
+US CONEC CERTIFIEDNEW  ·  LAUNCHED SEP 2026
+Factory -built. Plug & play.
+Ready for AI -scale data centres
+100% factory
+testedPlug -and-play
+installMMC, MPO
+& LC ready• ~ ~ eoo 000 000 • 
+• STl! 
+• sn: 
+• 
+=== page 23 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsNext -Generation Fiber Portfolio Engineered for the AI -DC Era
+G.654.E
+•30% lower signal loss
+•50% larger core area
+•Handles extreme power of next -gen lasers used in AI -
+driven networks
+Applications:
+•Long -haul terrestrial & backbone
+•High -capacity DWDM ( 400G/800G+)
+•Data Center Interconnect (DCI)
+•Subsea landing links
+G.654.E Fiber Moves from NPD to Successful 
+CommercializationHollow Core Fiber
+•Light travels through an air -filled core, not solid silica
+•~30–47% lower latency
+•Broader spectrum support: 800G–1.6T and beyond
+Applications:
+•Data Centre Interconnect (DCI)
+•Sensing & high -power laser delivery
+•Quantum communications
+Transitioned HCF cable into its first commercial 
+pilot phase.Multi -Core Fibre
+•4–7x higher data capacity vs. single -core fibre
+•Same physical size — full space efficiency
+•Reduces deployment & infrastructure costs
+Applications:
+•AI-driven data centres
+•Long -haul 5G networks
+•High -performance interconnects
+•Quantum -safe networks (QKD -ready)
+Field -tested with Colt technology 
+services in the UK
+MCF Deployment Milestones: India's first QKD experiment with C -DOT ( 100km real -world trial) • India's first MCF testbed at IIT Madras 
+(5+ km, aerial + underground) — STL now leading global standards in MCF design and testing.
+Sources: STL Press Releases — C-DOT, IIT Madras, Colt Technologies (UK) 19 © 2026 -2027 Sterlite Technologies LimitedQ2 FY27 UPDATEST'! 
+=== page 24 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsChief Financial OfficerAjay Jhanjhari
+Ajay is Chartered  Accountant  and  has a rich experience  of 
+nearly  15 years  bring  a deep  expertise  in the areas  of  
+fundraising,  capital  allocation,  merger  & acquisition,  treasury  
+management,  and Business  partnering .
+As the Chief  Financial  Officer  at STL,  his vision  is to bolster  the 
+company's  strategy  to deliver  consistent  shareholder  value  and 
+profitable  growth .
+He joined  STL as a Management  Trainee  and has held various  
+leadership  positions  within  the company  before  becoming  CFO  
+for Optical  Networking  Business  last year.To 
+change 
+ajay’s 
+picture
+© 2026 -2027 Sterlite Technologies LimitedST\! 
+=== page 25 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsFocus on Maintaining Operating  Profitability  
+& Reducing Debt
+211Strategic 
+Priorities for 
+FY272Industry  Tailwinds & 
+Market Opportunity3Business 
+Performance Update 4Financial 
+Performance Update
+© 2026 -2027 Sterlite Technologies Limited
+=== page 26 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colors
+22Financial Performance: Delivering Highest -Ever Quarterly Results
+EBITDA % EBITDA (INR Crs)
+PAT* (INR Crs)Revenue* (INR Crs)
+1,2571,4411,910
+Q3FY26Q4FY26Q1FY272,0544,439
+H1FY26 H1FY27
+* from continued operations4517
+Q2FY26 Q2FY27-1759197
+Q3FY26 Q4FY26 Q1FY27129218397
+Q3FY26Q4FY26Q1FY272811,082
+H1FY26 H1FY27Will be 
+updated 
+after data 
+is 
+received
+© 2026 -2027 Sterlite Technologies Limited1,0342,529
+Q2FY26 Q2FY27
+14714
+H1FY26 H1FY27#Operational EBITDA - Excludes one time gain of  US tariff refund worth INR ~ 161 Cr10%15%21%
+14%27%
+14%24%
+##
+Q2 FY27 Revenue: INR 2,529 Cr 
+~145% Y-o-Y growth; ~ 32% Q-o-Q growth
+Q2 FY27 EBITDA Margin: 27.1%
+Significant Q-o-Q expansion of624 bps
+Q2 FY27 PAT: INR 517 Crores
+Driven by strong revenue growth, margin 
+expansion and one time tariff refund gain141685
+Q2FY26Q2FY27STl! • • 
+I l 
+□ 
+I l 
+=== page 27 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsDiversified Revenue Mix
+Geographical distribution
+Revenues*  (INR Cr.)
+23 * from continued operations25%18%42%
+21%33%
+61%
+H1FY26 H1FY272,054 4,439Large order wins in 
+Q3 FY26Segment  distribution
+Revenues*  (INR Cr.)
+75%
+53%25%
+14%33%
+H1FY26 H1FY272,054 4,439
+North America Europe ROW DC & Cloud Large Enterprise Telecom & Citizen NetworksWill be 
+updated 
+after data 
+is 
+received
+© 2026 -2027 Sterlite Technologies LimitedSTl! 
+• □ □ □ □ • 
+=== page 28 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsRecord  Order Book  Drives Multi -Year Revenue Visibility
+24Open order book / Backlog (INR Cr.) Order book spread / Backlog Schedule (INR Cr.)
+© 2026 -2027 Sterlite Technologies Limited7,68735,274
+FY26 H1FY274.6x
+3,02132,253
+Q3FY27 Q4FY27 & BeyondWill be 
+updated 
+after data 
+is 
+receivedSTl! 
+=== page 29 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsConsolidated Financials: Abridged Version
+P&L (INR Cr.) Q1 FY27 Q2 FY26 Q2 FY27
+Revenue 1,910 1,034 2,529
+EBITDA 397 141 846*
+EBITDA % 20.8% 13.6% 33.5%
+Depreciation (85) (80) (109)
+EBIT 312 61 737
+Finance Costs (55) (55) (63)
+PBT
+(Before  share of Associates and JV )257 6 674
+Tax (60) (2) (157)
+Net Profit*
+(After minority Interest & share of JV )197 4 517
+© 2026 -2027 Sterlite Technologies Limited25#Includes  restricted cash items: ~ 396 Crs for a legal matter related to the US entityH1 FY26H1 FY27
+2,054 4,439
+281 1,243 *
+13.7% 28.0%
+(157) (194)
+124 1,049
+(105) (118)
+19 931
+(5) (217)
+14 714Credit Profile Strengthened: 
+CRISIL further upgrades long-term rating 
+to 'AA/Stable' (from AA -) and reaffirms 
+A1+ (Short -Term).
+*Q2FY27 & H1FY27 EBITDA includes one time gain of  US tariff refund worth INR ~ 161 CrKey Updates#
+•Net Debt -Free  balance sheet
+•Net cash balance stands at INR 703 Cr
+•Disciplined Capital Allocation: Capacity 
+expansion anchored by contracted 
+customer demandST\! 
+=== page 30 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsSTL’s Growth Roadmap Lakshya FY 27-29
+© 2026 -2027 Sterlite Technologies Limited 26▲ Margin upgraded from > 27% to > 30%
+FY26 FY27 FY28 FY29~₹4,750 Cr
+~13% EBITDA₹20,000 Cr
+>30% EBITDA
+4x
+revenue, FY 26 → FY29
+To be read in conjunction with the Safe Harbour Statement and Risks & AssumptionsSTC 
+r 
+=== page 31 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsTransforming Lives Through Social Responsibility Initiatives
+27 © 2026 -2027 Sterlite Technologies LimitedSwashthya  Suraksha: Hybrid healthcare programs across 
+Aurangabad  & Silvassa , impacting 27 lakh lives.ESG Excellence: 4.5 MWp solar installed, 2.69 million m ³ water replenished 
+across 53 villages, and 4+ lakh saplings planted.  Jeewan  Jyoti:  Empowering underprivileged women by training them in 
+vocational skills. Benefitted 6,500 + women. RoboEdge : Empowering students with NextGen skills & focus on Robotics.
+Covered 12 schools and benefitted 10,000 + students.ST\! 
+=== page 32 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colorsCommitted to Net -Zero Emissions - Progress with Purpose
+Synesgy  “A” Rating
+Source : 1 Cumulative till FY27, SDG – Sustainable Development Goals290,000 + MT 
+Waste diverted from landfills (FY 19 – Q2FY27)
+47,000 + tCO2e 
+Reduced through energy efficiency initiatives      
+(FY21 – Q2FY27)
+119,700,0 + m3 
+of water recycled (FY 19 – Q2FY27)
+32.00% 
+Procurement (by value) done locally (FY 26)
+The green hydrogen and oxygen plant 
+has been commissioned and has 
+successfully started supply Eco-labelled products 
+16
+Aligned with 16 of the 17 SDGs 
+920,000 +
+Lives benefitted through STL ’s ed-tech & women 
+empowerment programmes (FY 19 – Q2FY27)
+2.7 mn+
+Lives benefitted through STL ’s healthcare 
+programmes  (FY19 – Q2FY27)
+4,523 kWp
+Solar panels installed; reducing carbon footprintStrong internal governance
+Two of the Big Four 
+as statutory & internal auditors
+Executive and Management committees 
+in placeCommitted to the UN SDGs1
+100+ ESG awards won 
+(FY19 – Q2FY27)
+28ENVIRONMENTALLY  
+SUSTAINABLEGOVERNED  
+WITH CARESOCIALLY
+RESPONSIBLE
+Zero liquid discharge certified & zero 
+waste to landfill certified
+© 2026 -2027 Sterlite Technologies LimitedChhatrapati Sambhaji  Nagar Factories  
+transitioned to 100% green energyReduced the carbon footprint of our 
+core optical fibre  product by over 80%.STl! 
+;,:_,;~ ~. / =-
+. '."( 
+=== page 33 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colors
+Lets answer your queries!
+© 2026 -2027 Sterlite Technologies Limited29
+=== page 34 ===
+Text 
+colorBrand 
+color
+Complimentar
+y
+colors
+Text 
+colorBrand 
+color
+Complimentar
+y
+colors
+30beyond tomorrow
+Registered Office
+Rahul Darak
+Head - Investor Relations ,
+email: rahul.darak@stl.techGodrej Millenium, 9, 
+Koregaon Road, Pune 
+Maharashtra
+Phone: + 91 2030514000 .Lakshmi Iyer
+Chief   M&A, IR  & Capital 
+Market Strategy
+email: lakshmi.iyer@stl.tech> 
+=== page 35 ===
+ September 26
+(Unaudited)  June 26
+(Unaudited)  September 25
+(Unaudited)  September 26
+(Unaudited)  September 25
+(Unaudited)  March 26
+(Audited) 
+Revenue from operations 2,529                  1,910                  1,034                  4,439                  2,054                  4,745                  
+Other income 34                       12                       12                       45                       20                       59                       
+Total income 2,563                  1,922                  1,046                  4,484                  2,074                  4,804                  
+Total expenditure 1,717                  1,525                  905                     3,241                  1,793                  4,176                  
+Cost of materials and components consumed 986                     805                     545                     1,790                  1,099                  2,461                  
+Purchase of stock-in-trade -                      -                      0                         -                      0                         0                         
+(Increase) / decrease in inventories of finished goods, work in progress 
+and stock-in-trade47                       158                     (48)                      205                     (89)                      (76)                      
+Employee benefits expense 206                     195                     156                     401                     312                     659                     
+Net impairment losses on financial and contract assets 39                       -                      -                      39                       -                      17                       
+Other expenses 439                     367                     252                     806                     471                     1,115                  
+Earnings before exceptional item, interest, tax, depreciation and 
+amortisation (EBITDA)846                     397                     141                     1,243                  281                     628                     
+Finance costs 63                       55                       55                       118                     105                     224                     
+Depreciation and amortisation / impairment expense (refer note 10) 109                     85                       80                       194                     157                     313                     
+Profit/(loss) before exceptional item and tax 674                     257                     6                         931                     19                       91                       
+Exceptional items (Refer note 8) -                      -                      -                      -                      -                      16                       
+Profit/(loss) before tax 674                     257                     6                         931                     19                       107                     
+Tax expense/(credit) : 157                     60                       2                         217                     5                         51                       
+Current tax 142                     34                       12                       176                     20                       32                       
+Deferred tax (Refer note 9) 15                       26                       (10)                      41                       (15)                      19                       
+Net profit/(loss) for the period / year 517                     197                     4                         714                     14                       56                       
+Other comprehensive income/(loss)
+A.      i) Items that will be reclassified to profit or loss 17                       66                       27                       83                       47                       90                       
+  ii) Income tax relating to these items (1)                        (14)                      (1)                        (15)                      1                         (1)                        
+B.      i) Items that will not be reclassified to profit or loss (2)                        1                         2                         (1)                        2                         6                         
+  ii) Income tax relating to these items 0                         (0)                        (0)                        0                         (0)                        (2)                        
+Total other comprehensive income / (loss) for the period / year 14                       53                       28                       67                       50                       93                       
+Total comprehensive income / (loss) for the period / year 531                     250                     32                       781                     64                       149                     
+Net profit/(loss) attributable to:
+Owners of the company 517                     197                     4                         714                     14                       56                       
+Other comprehensive income / (loss) attributable to:
+Owners of the company 14                       53                       28                       67                       50                       93                       
+Total comprehensive income / (loss) attributable to:
+Owners of the company 531                     250                     32                       781                     64                       149                     
+Paid-up equity share capital (face value of ₹ 2 per share fully paid-up) 103                     98                       98                       103                     98                       98                       
+Other Equity 2,170                  
+Earnings per equity share (EPS) (not annualised)
+Basic EPS (₹) 10.32                  4.03                    0.08                    14.25                  0.28                    1.15                    
+Diluted EPS (₹) 9.36                    3.71                    0.08                    12.93                  0.28                    1.11                    
+Amount appearing as "0" is below rounding off norm followed by the Group.ParticularsQuarter ended Year endedSTERLITE TECHNOLOGIES LIMITED
+(CIN : L31300PN2000PLC202408)
+(₹ in crores except earnings per share)CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026
+Half Year ended
+Q2 FY26-27 Financial Results 1 of 14 Sterlite Technologies LimitedSTl! 
+=== page 36 ===
+(₹ in crores)
+ September 26
+(Unaudited)  June 26
+(Unaudited)  September 25
+(Unaudited)  September 26
+(Unaudited)  September 25
+(Unaudited)  March 26
+(Audited) 
+1. Segment revenue
+Optical networking business 2,461                  1,842                  980                      4,302                  1,941                  4,486                  
+Digital and technology solutions 86                        72                        65                        159                      129                      284                      
+Inter segment elimination (18)                       (4)                         (11)                       (22)                       (16)                       (25)                       
+Revenue from operations 2,529                  1,910                  1,034                  4,439                  2,054                  4,745                  
+2. Segment Results (EBITDA)
+Optical networking business 851                      401                      136                      1,252                  273                      606                      
+Digital and technology solutions 2                          2                          1                          4                          2                          3                          
+Total segment results 853                      403                      137                      1,256                  275                      609                      
+Net unallocated income / (expense) (7)                         (6)                         4                          (13)                       6                          19                        
+Total EBITDA 846                      397                      141                      1,243                  281                      628                      
+Finance cost 63                        55                        55                        118                      105                      224                      
+Depreciation and amortisation expense 109                      85                        80                        194                      157                      313                      
+Profit/(loss) before exceptional item and tax 674                      257                      6                          931                      19                        91                        
+Exceptional items (Refer note 8) -                       -                       -                       -                       -                       16                        
+Profit/(Loss) before tax 674                      257                      6                          931                      19                        107                      
+3. Segment assets
+Optical networking business 6,218                  5,947                  4,703                  6,218                  4,703                  5,399                  
+Digital and technology solutions 213                      174                      182                      213                      182                      185                      
+Total segment assets 6,431                  6,121                  4,885                  6,431                  4,885                  5,584                  
+Inter segment elimination (2)                         (2)                         (2)                         (2)                         (2)                         (2)                         
+Unallocated assets 1,601                  2,450                  949                      1,601                  949                      764                      
+Total assets 8,030                  8,569                  5,832                  8,030                  5,832                  6,346                  
+4. Segment Liabilities
+Optical networking business 2,190                  2,271                  1,635                  2,190                  1,635                  1,969                  
+Digital and technology solutions 255                      197                      172                      255                      172                      195                      
+Total segment liabilities 2,445                  2,468                  1,807                  2,445                  1,807                  2,164                  
+Inter segment elimination (2)                         (2)                         (2)                         (2)                         (2)                         (2)                         
+Unallocated liabilities 1,044                  2,108                  1,973                  1,044                  1,973                  1,916                  
+Total liabilities 3,487                  4,574                  3,778                  3,487                  3,778                  4,078                  ParticularsThe Group’s operations primarily relate tomanufacturing and supply oftelecom / data center products and providing digital and technology solutions. The
+segment information is provided to and reviewed by Chief Operating Decision Maker (CODM). The Group's segments consist of : 
+1. Optical networking business - Design and Manufacturing of optical fibre, cables and optical interconnect products
+2. Digital and technology solutions - Enabling digital transformation of telcos and enterprises.STERLITE TECHNOLOGIES LIMITED
+(CIN : L31300PN2000PLC202408)
+CONSOLIDATED SEGMENT-WISE REVENUE, RESULTS, ASSETS AND LIABILITIES FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026
+Quarter ended Year ended Half Year ended
+Q2 FY26-27 Financial Results 2 of 14 Sterlite Technologies LimitedSTl! 
+=== page 37 ===
+(₹ in crores)
+ (Unaudited)  (Audited) 
+Assets
+I. Non-current assets
+(a) Property plant & equipment 2,665                            2,693                            
+(b) Capital work-in-progress 175                               19                                 
+(c) Investment Property 3                                    3                                    
+(d) Goodwill 196                               194                               
+(e) Other intangible assets 75                                 81                                 
+(f) Deferred tax assets (net) 105                               97                                 
+(g) Financial assets
+(i) Investments 494                               463                               
+(ii) Other non-current financial assets 6                                    31                                 
+(h) Non-current tax assets (net) 117                               54                                 
+(i) Other non-current assets 85                                 48                                 
+Total non-current assets 3,921                            3,683                            
+II. Current assets
+(a) Inventories 850                               906                               
+(b) Financial assets
+(i) Investments 534                               4                                    
+(ii) Trade receivables 1,606                            1,066                            
+(iii) Cash and cash equivalents 528                               298                               
+(iv) Other bank balances 110                               25                                 
+(v) Loans 1                                    23                                 
+(vi) Other current financial assets 162                               115                               
+(c) Contract assets 28                                 27                                 
+(d) Other current assets 290                               199                               
+Total current assets 4,109                            2,663                            
+Total assets 8,030                            6,346                            
+Equity and liabilities
+Equity
+  Equity share capital 103                               98                                 
+  Other equity 4,440                            2,170                            
+Total equity 4,543                            2,268                            
+Liabilities
+I. Non-current liabilities
+(a) Financial liabilities
+(i) Borrowings 547                               1,155                            
+(ii) Lease liabilities 99                                 94                                 
+(iii) Other non-current financial liabilities 1                                    13                                 
+(b) Employee benefit obligations 40                                 38                                 
+(c) Provisions 21                                 -                                
+(d) Deferred tax liabilities (net) 128                               58                                 
+Total non-current liabilities 836                               1,358                            
+II. Current liabilities
+   (a) Financial liabilities
+(i) Borrowings 317                               672                               
+(ii) Lease liabilities 26                                 21                                 
+(iii) Advances under advance payment and sales agreement (APSA) 169                               167                               
+(iv) Acceptances 293                               271                               
+(v) Trade payables
+(A) total outstanding dues of micro and small enterprises 59                                 33                                 
+(B) total outstanding dues of creditors other than micro and small enterprises 923                               1,032                            
+(vi) Other current financial liabilities 248                               189                               
+(b) Contract liabilities 290                               193                               
+(c) Other current liabilities 158                               106                               
+(d) Employee benefit obligations 35                                 31                                 
+(e) Provisions 51                                 0                                    
+(f) Current tax liabilities (Net) 82                                 5                                    
+Total current liabilities 2,651                            2,720                            
+Total liabilities 3,487                            4,078                            
+Total equity & liabilities 8,030                            6,346                            
+Amount appearing as "0" is below rounding off norm followed by the Group.(CIN : L31300PN2000PLC202408)
+ParticularsCONSOLIDATED BALANCE SHEET AS AT SEPTEMBER 30, 2026STERLITE TECHNOLOGIES LIMITED
+ 30 September 2026  31 March 2026 
+Q2 FY26-27 Financial Results 3 of 14 Sterlite Technologies LimitedSTl! 
+=== page 38 ===
+(₹ in crores)
+ Half year ended  Half year ended 
+ 30 September 2026  30 September 2025 
+(Unaudited) (Unaudited)
+A. Operating activities
+Profit/(Loss) before tax 931                               19                                 
+Adjustments to reconcile profit before tax to net cash flows
+Depreciation and amortisation / impairment expense 194                               157                               
+Impairment losses on financial and contract assets 39                                 (2)                                  
+Liabilities no longer required written back -                                (3)                                  
+(Profit) / loss on sale of property, plant and equipment (net) (3)                                  (2)                                  
+Bad debts / advances written off 3                                    -                                
+Provision for doubtful loans and advances 17                                 -                                
+Rental income (0)                                  (0)                                  
+Dividend Income (7)                                  -                                
+Employee stock option expenses 17                                 (1)                                  
+Finance costs (including interest pertaining to Ind AS 116) 118                               105                               
+Gain / Loss on investment measured at FVTPL (10)                                (2)                                  
+Finance income (forming part of other income) (14)                                (5)                                  
+Unrealized exchange difference (net) 2                                    3                                    
+356                               250                               
+Operating profit before working capital changes 1,287                            269                               
+Working capital adjustments:
+Increase / (decrease) in acceptances 21                                 (49)                                
+Increase/(decrease) in trade payables (101)                              126                               
+Increase/(decrease) in long-term provisions 21                                 (0)                                  
+Increase/(decrease) in short-term provisions 51                                 (4)                                  
+Increase/(decrease) in other current liabilities 27                                 38                                 
+Increase/(decrease) in contract liabilities 99                                 38                                 
+Increase/(decrease) in other current financial liabilities 38                                 45                                 
+Increase/(decrease) in other non-current financial liabilities (9)                                  -                                
+Increase/(decrease) in current employee benefit obligations 2                                    (18)                                
+Increase/(decrease) in non-current employee benefit obligations 2                                    0                                    
+Decrease/(increase) in current trade receivable (568)                              98                                 
+Decrease/(increase) in inventories 62                                 (150)                              
+Decrease/(increase) in other current financial assets (37)                                (37)                                
+Decrease/(increase) in other non-current financial assets 25                                 (6)                                  
+Decrease/(increase) in other current assets (86)                                (74)                                
+Decrease/(increase) in contract assets (1)                                  5                                    
+Decrease/(increase) in other non-current assets 13                                 4                                    
+Changes in working capital (441)                              16                                 
+Cash generated from / (used in) operating activities 846                               285                               
+Income tax paid (net of refunds) (154)                              (17)                                
+Net cash flow from / (used in) operating activities 692                               268                               STERLITE TECHNOLOGIES LIMITED
+(CIN : L31300PN2000PLC202408)
+CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED SEPTEMBER 30, 2026
+Particulars
+Q2 FY26-27 Financial Results 4 of 14 Sterlite Technologies LimitedSTl! 
+=== page 39 ===
+(₹ in crores)
+ Half year ended  Half year ended 
+ 30 September 2026  30 September 2025 
+(Unaudited) (Unaudited)STERLITE TECHNOLOGIES LIMITED
+(CIN : L31300PN2000PLC202408)
+CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED SEPTEMBER 30, 2026
+Particulars
+B. Investing activities*
+Purchase of property, plant and equipment (257)                              (81)                                
+Purchase of intangible assets -                                (0)                                  
+Proceeds from sale of property, plant and equipment 18                                 8                                    
+Purchase of current investments (520)                              (121)                              
+Loans given to related parties -                                (11)                                
+Net movement in other bank balances (85)                                (20)                                
+Repayment of loan from related parties 21                                 -                                
+Earmarked Investments (Non-Current) (30)                                -                                
+Rental income 0                                    0                                    
+Interest received (finance income) 15                                 0                                    
+Net cash flow / (used in) investing activities                              (838) (225)                              
+C. Financing activities*
+Proceeds from long term borrowings 48                                 -                                
+Repayment of long term borrowings (716)                              (121)                              
+Proceeds/(repayment) from/of short term borrowings (net) (308)                              68                                 
+Proceeds from issue of shares (net of share issue expenses) 1,477                            0                                    
+Interest paid (including interest pertaining to Ind AS 116) (110)                              (105)                              
+Principal elements of leases payments (16)                                (14)                                
+Net cash flow from / (used in) financing activities 375                               (172)                              
+Net increase/(decrease) in cash and cash equivalents 229                               (129)                              
+Foreign exchange relating to cash and cash equivalents of foreign operations 3                                    14                                 
+Cash and cash equivalents as at the beginning of year 298                               396                               
+(2)                                  -                                
+Cash and cash equivalents as at the period end 528                               281                               
+Components of cash and cash equivalents:
+Balances with banks
+In current account 328                               281                               
+Deposit with original maturity of less than 3 months 200                               -                                
+Cash in hand 0                                    0                                    
+Total cash and cash equivalents 528                               281                               
+Amount appearing as "0" is below rounding off norm followed by the Group.*Non-cash financing and investing activities during theyear pertain toacquisition / (derecognition) ofright touse assets of₹21crores (30 September
+2025 : Nil) 
+Less: Adjustment on account of initial application of Ind AS 109 amendment on April 01, 2026
+Notes:
+The above consolidated statement of cashflows is prepared as per indirect method in accordance with Ind-AS 7 on Statement of Cash Flows.
+Q2 FY26-27 Financial Results 5 of 14 Sterlite Technologies LimitedSTl! 
+=== page 40 ===
+STERLITE TECHNOLOGIES LIMITED
+Notes to consolidated financial results :
+# Interest has been paid on the due dates. 
+*The listed Secured, Redeemable, Non-Convertible Debentures ofthe Company aggregating toRs.290 crores asonSeptember 30, 2026, are secured byway of
+hypothecation on specified movable fixed assets at Shendra plants (both present and future).
+The Company has maintained hundred percent security cover sufficient todischarge theprincipal amount ofthesaid debentures interms ofRegulation 54oftheSEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, asamended. The Credit rating byCRISIL forSecured Redeemable Non-Convertible Debentures
+issued by the Company is "AA / Stable" as on September 30, 2026.1.The aforesaid consolidated financiaI results ofSterlite Technologies Limited (the "Company") were reviewed byAudit Committee and subsequently approved bythe
+Board ofDirectors atits meeting held onOctober 23, 2026. The Statutory auditors have carried out a limited review oftheconsolidated resuIts fortheperiod ended
+September 30, 2026, and expressed an unmodified conclusion on the aforesaid results. 
+2.The above consolidated financial results have been prepared inaccordance with theCompanies (Indian Accounting Standards) Rules, 2015 (as amended) (Ind-AS)
+prescribed under section 133 of the Companies Act, 2013 and other recognised accounting practices and policies to the extent applicable.
+3.During theperiod ended September 30, 2026, theCompany has allotted 25,728,500 equity shares offace value Rs. 2 each at an issue price ofRs.583.01 per equity
+share aggregating toRs. 1,500 crores pursuant toQualified Institutions Placement (QIP) under theprovisions ofChapter VIoftheSecurities and Exchange Board ofIndia
+(Issue ofCapital and Disclosure Requirements) Regulations, 2018, asamended (the "SEBI ICDR Regulations"), and section 42and 62ofthe Companies Act, 2013,
+including therules made thereunder, each asamended. Pursuant to the QIP issue promoter's shareholding intheCompany has been reduced from 44.44% asonMarch
+31, 2026 to42.29%. The management does not expect any material impact onaccount ofthechange inthepromoter's shareholding. The proceeds from theissue have
+been utilised for(i) repayment, infullorpart, ofcertain outstanding borrowings availed bytheCompany and its Subsidiaries; (ii) general corporate purposes and (iii)
+toward share issues expenses except for Rs. 2.68 crores which is lying in QIP escrow account.
+4.During theperiod ended September 30, 2026, theCompany allotted 1,96,395 equity shares ofRs. 2 each fully paid up,upon theexercise ofEmployee Stock Options.
+Post this allotment, thepaid-up equity share capital oftheCompany stands increased from Rs. 103 crores divided into 513,861,038 equity shares ofRs. 2 each toRs.
+103 crores divided into 514,057,433 equity shares of Rs. 2 each.
+5. Details of Secured, Redeemable, Non-Convertible Debentures as at September 30, 2026 are as follows:
+6.Prysmian Cables and Systems USA, LLC(Prysmian) filed a complaint intheU.S. District Court fortheDistrict ofSouth Carolina, Columbia Division, against Stephen
+Szymanski, ("Szymanski") anemployee ofSterlite Technologies Limited's (STL) U.S. subsidiary, Sterlite Technologies Inc. (“STI”), aswell asagainst STI, alleging inter alia
+that Szymanski violated certain non-compete and confidentiality agreements with thePlaintiff and subsequently divulged such confidential information toSTI, which
+Plaintiff further alleges provided STI with anunjust competitive advantage. Szymanski and STI asserted affirmative and meritorious defenses to the allegations. STL is
+not a party to this dispute neither are any claims being made against it.
+OnAugust 9, 2024, attheconclusion ofthetrial, which commenced onJuly 22, 2024, theJury returned its verdict against Szymanski for$0.2million and against STI for
+anamount of$96.5 million. OnSeptember 11, 2024, STI filed post-judgement motions requesting different types ofpost-triaI relief. OnAugust 29, 2025, theCourt
+subsequently confirmed the verdict, with the total award amounting to $ 101.25 million including attorneys’ fees and costs of $ 4.75 million.
+STI believes thejudgment isunsupported bythetestimony and evidence presented attrial and has filed anappeal with theUnited States Court ofAppeals forthe
+Fourth Circuit and deposited a Bond of $ 41.53 million. The ultimate financial implications, if any, cannot be ascertained at this stage.
+(Rs. in crores)
+Principal InterestNext 
+Principal 
+Installment 
+DatePrincipal 
+AmountInterest 
+DateInterest 
+Amount
+8.50% Secured, Redeemable, Non-Convertible 
+Debentures*NA March 25, 
+2026March 24, 
+202872.50             March 24, 
+202724.65             Next Due Date
+ParticularsPrevious Due Date #
+Q2 FY26-27 Financial Results 6 of 14 Sterlite Technologies LimitedSTl! 
+=== page 41 ===
+STERLITE TECHNOLOGIES LIMITED
+Notes to consolidated financial results :
+Year ended
+September 26
+(Unaudited)June 26
+(Unaudited)September 25
+(Unaudited)September 26
+(Unaudited)September 25
+(Unaudited)March 26
+(Audited)
+Debt equity ratio 
+[{Total borrowings (including lease liabilities) (-) cash and cash 
+equivalents (including unencumbered other bank balances) and 
+current investments} / total equity]                       -                      0.39                    0.70                        -                      0.70                    0.71 
+Debt service coverage ratio (not annualised)
+[Profit before interest, depreciation, amortisation and after tax  and 
+exceptional items / (finance cost + principal long term loan 
+repayment)]                   1.17                    1.41                    1.12                    1.24                    1.52                    0.96 
+Interest service coverage ratio (not annualised)
+(Profit before interest, depreciation, amortisation and after tax and 
+exceptional items / finance cost)                 10.97                    6.07                    2.55                    8.68                    2.64                    2.51 
+Current ratio 
+[current assets / current liabilities]                   1.55                    1.38                    0.90                    1.55                    0.90                    0.98 
+Long term debt to working capital 
+[Long term debt (Borrowings) / working capital]                   0.42                    0.71                 17.25                    0.42                 17.25                    6.82 
+Bad debt to accounts receivable ratio
+[(Bad debts + provision for doubtful debts) / trade receivables]                   0.02                    0.00                        -                      0.03                  (0.01)                    0.01 
+Current liability ratio 
+[Current liabilities / total liabilities]                   0.76                    0.76                    0.76                    0.76                    0.76                    0.67 
+Total debt to total assets 
+[Total debts (including lease liabilities)/ total assets]                   0.12                    0.24                    0.33                    0.12                    0.33                    0.31 
+Asset coverage ratio - NCD 8.50%
+[Written down value of secured asset mortgaged, hypothecated / 
+outstanding amount of borrowing]                   2.91                    2.78                    2.72                    2.91                    2.72                    1.84 
+Asset coverage ratio - NCD 9.35%
+[Written down value of secured asset mortgaged, hypothecated / 
+outstanding amount of borrowing]                       -                          -                      1.85                        -                      1.85                        -   
+Trade receivables turnover ratio
+[Annualised revenue from operations / closing current trade 
+receivables]                    6.30                    5.34                    5.41                    5.53                    5.37                    4.45 
+Inventory turnover ratio
+[Annualised cost of goods sold / closing inventory]                   4.86                    4.40                    2.17                    4.70                    2.21                    2.63 
+Operating margin (%)
+[Profit before interest and tax and after exceptional items / revenue 
+from operations]29% 16% 6% 24% 6% 7%
+Net Profit Margin (%)
+[Net profit after tax and exceptional items / revenue from operations]20% 10% 0% 16% 1% 1%
+Capital redemption reserve (₹ in crores)                         2                         2                         2                         2                         2                         2 
+Net worth (₹ in crores)                 4,174                 2,166                 1,920                 4,174                 1,920                 1,966 7.The disclosures required aspertheprovisions ofRegulation 52(4) and 54(2) ofSEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, asamended,
+are given below: 
+Ratios Quarter ended
+8. Exceptional items in the financial results includes:
+(i)OnNovember 21, 2025, theGovernment ofIndia notified four Labour Codes - theCode onWages, 2019, theIndustrial Relations Code, 2020, theCode onSocial
+Security, 2020, and the Occupational Safety, Health and Working Conditions Code, 2020 - consolidating 29existing labour laws. The Group had assessed the
+incremental impact ofthese changes and considering the materiality and regulatory-driven, non-recurring nature ofthis impact, the Group had presented such
+incremental impact as"Statutory impact ofnew Labour Codes" under "Exceptional Items" intheconsolidated financial results fortheyear ended March 31, 2026. The
+incremental impact consisting ofgratuity ofRs.12crores and long-term compensated absences ofRs. 3 crores primarily arises due tochange inwages definition. The
+Group continues tomonitor thefinalisation ofall applicable Rules and clarifications from theGovernment onother aspects oftheLabour Code and would provide
+appropriate accounting effect on the basis of such developments as needed
+(ii) Reversal ofimpairment charge ofRs.31crores during theyear ended March 31, 2026 relating toassets ofJiangsu Sterlite Fiber Technology Co. Ltd (awholly owned
+subsidiary of the Company) based on assessment of recoverable value of assets performed by management.Half-Year ended
+Q2 FY26-27 Financial Results 7 of 14 Sterlite Technologies LimitedSTl! 
+=== page 42 ===
+STERLITE TECHNOLOGIES LIMITED
+Notes to consolidated financial results :
+Place: Mumbai For and on behalf of the Board of Directors of 
+Date: October 23, 2026 Sterlite Technologies Limited
+Ankit Agarwal
+Managing Director
+DIN : 03344202
+www.stl.tech Telephone : +91 20 30514000  Fax: +91 20 30514113  Registered office: Sterlite Technologies Limited, 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 41100112.These consolidated financial results are available ontheCompany's website viz. https://stl.tech/investor/ and onthewebsites ofBSE (www.bseindia.com) and NSE
+(www.nseindia.com). 9.STL Digital Limited, a wholly owned subsidiary oftheCompany, had assessed therecoverability ofits deferred taxassets (including oncarryforward business losses)
+as at March 31, 2026 and based on such assessment, deferred tax assets to the extent of Rs. 41 crores were written-down during the year ended March 31, 2026.
+10.Depreciation and amortisation / impairment expense forthequarter ended September 30, 2026, includes animpairment charge ofRs.22crores based onthe
+assessment of recoverable value of certain property, plant and equipment performed by the Management. 
+11.The Company’s wholly owned subsidiaries, Sterlite Technologies Inc. and Sterlite Optical Connectivity NALLC, received refund ofimport tariffs from U.S. Customs
+and Border Protection (CBP) during thequarter ended September 30, 2026 which was previously paid oncertain goods imported into United States ofAmerica under
+theInternational Emergency Economic Powers Act (IEEPA) and was then expensed toStatement ofProfit and Loss. Therefore, theprofit before taxforthecurrent
+quarter is higher by Rs. 161 crores (net) due to recognition of such refund received and resultant obligation arising therefrom.
+Q2 FY26-27 Financial Results 8 of 14 Sterlite Technologies Limited
+Ankit 
+AgarwalDigitally signed 
+by Ankit Agarwal Date: 2026.10.23 12:01:15 +05'30'
+SACHIN 
+RAJNIKANT PAREKHDigitally signed by 
+SACHIN RAJNIKANT PAREKH Date: 2026.10.23 12:19:17 +05'30'STl! 
+=== page 43 ===
+Year ended
+ September 26
+(Unaudited)  June 26
+(Unaudited)  September 25
+(Unaudited)  September 26
+(Unaudited)  September 25
+(Unaudited)  March 26
+(Audited) 
+Revenue from operations 1,399                  929                     559                     2,328                  1,102                  2,446                  
+Other income 70                       49                       39                       119                     77                       179                     
+Total income 1,469                  978                    598                     2,447                  1,179                  2,625                  
+Total expenditure 930                     727                    524                     1,657                  1,026                  2,293                  
+Cost of materials and components consumed 459                     386                     290                     845                     532                     1,098                  
+Purchase of stock-in-trade 55                       58                       50                       113                     112                     283                     
+(Increase) / decrease in inventories of finished goods, work in progress 
+and stock-in-trade85                       9                         (28)                      94                       (31)                      (28)                      
+Employee benefits expense 70                       53                       35                       123                     77                       170                     
+Net impairment losses on financial and contract assets 34                       4                         4                         38                       4                         24                       
+Other expenses 227                     217                     173                     444                     332                     746                     
+Earnings before exceptional item, interest, tax, depreciation and 
+amortisation (EBITDA)539                     251                    74                       790                     153                     332                     
+Finance costs 50                       36                       35                       86                       69                       152                     
+Depreciation and amortisation / impairment expense (refer note 10) 64                       46                       42                       110                     84                       167                     
+Profit/(loss) before exceptional item and tax425                     169                    (3)                        594                     (0)                        13                       
+Exceptional items  (refer note 9) -                      -                     -                      -                      -                      (10)                      
+Profit/(loss) before tax 425                     169                    (3)                        594                     (0)                        3                         
+Tax expense/(credit) : 106                     44                       (1)                        150                     (0)                        1                         
+Current tax 65                       1                         -                      66                       -                      4                         
+Deferred tax 41                       43                       (1)                        84                       (0)                        (3)                        
+Net profit/(loss) for the period / year 319                     125                    (2)                        444                     0                         2                         
+Other comprehensive income/(loss)
+A.     i) Items that will be reclassified to profit or loss 12                       48                       3                         60                       (16)                      (38)                      
+ ii) Income tax relating to these items (2)                        (12)                     (0)                        (14)                      5                         9                         
+B.     i) Items that will not be reclassified to profit or loss (2)                        1                         2                         (1)                        2                         6                         
+ ii) Income tax relating to these items 0                         (0)                        (0)                        0                         (0)                        (2)                        
+Total other comprehensive income/ (loss) for the period / year 8                         37                       5                         45                       (9)                        (25)                      
+Total comprehensive income/(loss) for the period / year 327                     162                    3                         489                     (9)                        (23)                      
+Paid-up equity share capital (face value ₹ 2 per share fully paid-up) 103                     98                       98                       103                     98                       98                       
+Other Equity 1,428                  
+Earnings per equity share (EPS) (not annualised)
+Basic EPS (₹) 6.37                    2.56                    (0.05)                   8.86                    0.00                    0.04                    
+Diluted EPS (₹) 5.77                    2.36                    (0.05)                   8.04                    0.00                    0.04                    
+Amount appearing as "0" is below rounding off norm followed by the Company.ParticularsSTERLITE TECHNOLOGIES LIMITED
+(CIN : L31300PN2000PLC202408)
+STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2026
+(₹ in crores except earnings per share)
+Quarter ended Half Year ended
+Q2 FY26-27 Financial Results 9 of 14 Sterlite Technologies LimitedSTl! 
+=== page 44 ===
+(₹ in crores)
+(Unaudited) (Audited)
+Assets
+I. Non-current assets
+(a) Property plant & equipment 1,557                            1,582                            
+(b) Capital work in progress 159                               16                                 
+(c) Investment Property 3                                    3                                    
+(d) Other intangible assets 13                                 15                                 
+ (e) Financial assets 
+(i) Investments 303                               303                               
+(ii) Loans 288                               219                               
+(iii) Other non-current financial assets 4                                    26                                 
+(f) Deferred tax assets (net) -                                29                                 
+(g) Non-current tax assets (net) 42                                 28                                 
+(h) Other non-current assets 76                                 26                                 
+Total non-current assets 2,445                            2,247                            
+II. Current assets
+(a) Inventories 404                               389                               
+(b) Financial assets
+(i) Investments 528                               4                                    
+(i) Trade receivables 968                               559                               
+(ii) Cash and cash equivalents 272                               166                               
+(iii) Other bank balances 109                               11                                 
+(iv) Loans 338                               416                               
+(v) Other current financial assets 151                               108                               
+(c) Contract assets 2                                    1                                    
+(d) Other current assets 258                               111                               
+Total current assets 3,030                            1,765                            
+Total assets 5,475                            4,012                            
+Equity and liabilities
+Equity
+Equity share capital 103                               98                                 
+Other equity 3,405                            1,428                            
+Total equity 3,508                            1,526                            
+Liabilities
+I. Non-current liabilities
+(a) Financial liabilities
+(i) Borrowings 338                               867                               
+(ii) Lease liabilities 28                                 35                                 
+(iii) Other non-current financial liabilities 1                                    13                                 
+(b) Employee benefit obligations 20                                 19                                 
+(c) Provisions 10                                 -                                
+(d) Deferred tax liabilities (net) 71                                 -                                
+Total non-current liabilities 468                               934                               
+II. Current liabilities
+(a) Financial liabilities
+(i) Borrowings 109 308                               
+(ii) Advances under advance payment and sales agreement (APSA) 169 167                               
+(iii) Lease liabilities 12 9                                    
+(iv) Acceptances 271 264                               
+(v) Trade payables
+(A) total outstanding dues of micro and small enterprises 47                                 25                                 
+(B) total outstanding dues of creditors other than micro and small enterprises 626                               574                               
+(vi) Other current financial liabilities 174                               117                               
+(b) Contract liabilities 18                                 48                                 
+(c) Other current liabilities 26                                 21                                 
+(d) Employee benefit obligations 18                                 15                                 
+(e) Provisions 24                                 0                                    
+(f) Current tax liabilities (net) 5                                    4                                    
+Total current liabilities 1,499                            1,552                            
+Total liabilities 1,967                            2,486                            
+Total equity & liabilities 5,475                            4,012                            
+Amount appearing as "0" is below rounding off norm followed by the Company.STANDALONE BALANCE SHEET AS AT SEPTEMBER 30, 2026
+Particulars(CIN : L31300PN2000PLC202408)STERLITE TECHNOLOGIES LIMITED
+30 September 2026 31 March 2026
+Q2 FY26-27 Financial Results 10 of 14 Sterlite Technologies LimitedSTl! 
+=== page 45 ===
+(₹ in crores)
+Half year ended Half year ended
+30 September 2026 30 September 2025
+(Unaudited) (Unaudited)
+A. Operating activities
+Profit/(Loss) before tax 594 (0)
+Adjustments to reconcile profit before tax to net cash flows for continuing and discontinued operations :
+Depreciation and amortisation / impairment expense 110                               83                                 
+Impairment losses on financial and contract assets 38                                 4                                    
+Liabilities no longer required written back -                                (3)                                  
+Bad debts / advances written off 2                                    -                                
+(Profit) / Loss on sale of property, plant and equipment (net) (0)                                  (2)                                  
+Impairment provision for investment in subsidiaries -                                2                                    
+Rental income (1)                                  (0)                                  
+Employee stock option expenses 17                                 (0)                                  
+Finance costs (including interest pertaining to Ind AS 116) 86                                 69                                 
+Finance income (forming part of other income) (38)                                (23)                                
+Gain / Loss on investment measured at FVTPL (9)                                  (1)                                  
+Unrealized exchange difference (net) 1                                    (7)                                  
+206                               123                               
+Operating profit before working capital changes 800                               123                               
+Working capital adjustments:
+Increase/(decrease) in acceptances 7                                    (47)                                
+Increase/(decrease) in trade payables 72                                 (147)                              
+Increase/(decrease) in long-term provisions 10                                 (0)                                  
+Increase/(decrease) in short-term provisions 23                                 (2)                                  
+Increase/(decrease) in other current liabilities (16)                                (6)                                  
+Increase/(decrease) in other current financial liabilities 38                                 4                                    
+Increase/(decrease) in contract liabilities (28)                                26                                 
+Increase/(decrease) in other non-current financial liabilities (9)                                  (0)                                  
+Increase/(decrease) in non current employee benefits obligations 1                                    1                                    
+Increase/(decrease) in current employee benefits obligations 2                                    (1)                                  
+Decrease /(increase) in trade receivables (434)                              343                               
+Decrease /(increase) in inventories (15)                                (64)                                
+Decrease/(increase) in other current financial assets (35)                                (22)                                
+Decrease/(increase) in contract assets (2)                                  0                                    
+Decrease /(increase) in other non-current financial assets 18                                 (8)                                  
+Decrease /(increase) in other current assets (147)                              12                                 
+Decrease/(increase) in other non-current assets 13                                 (0)                                  
+Changes in working capital (502)                              89                                 
+Cash generated from / (used in) operating activities 298                               212                               
+Income tax paid (net of refunds) (78)                                (20)                                
+Net cash flow from / (used in) operating activities 220                               192                               ParticularsSTANDALONE STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED SEPTEMBER 30, 2026(CIN : L31300PN2000PLC202408)STERLITE TECHNOLOGIES LIMITED
+Q2 FY26-27 Financial Results 11 of 14 Sterlite Technologies LimitedSTl! 
+=== page 46 ===
+(₹ in crores)
+Half year ended Half year ended
+30 September 2026 30 September 2025
+(Unaudited) (Unaudited)ParticularsSTANDALONE STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED SEPTEMBER 30, 2026(CIN : L31300PN2000PLC202408)STERLITE TECHNOLOGIES LIMITED
+B. Investing activities*
+Payment for property, plant and equipment (220)                              (60)                                
+Purchase of intangible assets -                                (0)                                  
+Proceeds from sale of property, plant and equipment 15                                 8                                    
+Sale / (Purchase) of current investment (net) (515)                              (122)                              
+Loans given to related parties (217)                              (66)                                
+Repayment of loans by related parties 247                               50                                 
+Net movement in other bank balances (98)                                (21)                                
+Rental income 1                                    0                                    
+Interest received 9                                    6                                    
+Net cash flow from / (used in) investing activities (778)                              (205)                              
+C. Financing activities*
+Repayment of long - term borrowings (480)                              (2)                                  
+Proceeds/(repayment) from/of short - term borrowings (net) (247)                              (53)                                
+Proceeds from issue of shares (net of share issue expenses) 1,477                            0                                    
+Interest paid (including interest pertaining to Ind AS 116) (78)                                (60)                                
+Principal elements of lease payments (6)                                  (6)                                  
+Net cash flow from / (used in) financing activities 666                               (121)                              
+Net increase/(decrease) in cash and cash equivalents 108                               (134)                              
+Cash and cash equivalents as at the beginning of year 166                               204                               
+Less: Adjustment on account of initial application of Ind AS 109 amendment on April 01, 2026 (2)                                  -                                
+Cash and cash equivalents as at the period end 272                               70                                 
+Components of cash and cash equivalents:
+Balances with banks:
+In current account 72                                 70                                 
+Deposit with original maturity of less than 3 months 200                               -                                
+Cash in hand 0 0                                    
+Total cash and cash equivalents 272                               70                                 
+Amount appearing as "0" is below rounding off norm followed by the Company.Notes:
+The above standalone statement of cashflows is prepared as per indirect method in accordance with Ind-AS 7 on Statement of Cash Flows.*Non-cash financing and investing activities during theyear pertain toacquisition / (derecognition) ofright touse assets of₹1 crore (30 September 2025 :
+Nil).
+Q2 FY26-27 Financial Results 12 of 14 Sterlite Technologies LimitedSTl! 
+=== page 47 ===
+STERLITE TECHNOLOGIES LIMITED
+Notes to standalone financial results :
+7.Prysmian Cables and Systems USA, LLC(Prysmian) filed a complaint intheU.S. District Court fortheDistrict ofSouth Carolina, Columbia Division, against Stephen
+Szymanski, ("Szymanski") anemployee ofSterlite Technologies Limited's (STL) U.S. subsidiary, Sterlite Technologies Inc. (“STI”), aswell asagainst STI, alleging inter alia
+that Szymanski violated certain non-compete and confidentiality agreements with thePlaintiff and subsequently divulged such confidential information toSTI, which
+Plaintiff further alleges provided STI with anunjust competitive advantage. Szymanski and STI asserted affirmative and meritorious defenses to the allegations. STL is
+not a party to this dispute neither are any claims being made against it.
+OnAugust 9, 2024, attheconclusion ofthetrial, which commenced onJuly 22, 2024, theJury returned its verdict against Szymanski for$0.2million and against STI for
+anamount of$96.5 million. OnSeptember 11, 2024, STI filed post-judgement motions requesting different types ofpost-triaI relief. OnAugust 29, 2025, theCourt
+subsequently confirmed the verdict, with the total award amounting to $ 101.25 million including attorneys’ fees and costs of $ 4.75 million.
+STI believes thejudgment isunsupported bythetestimony and evidence presented attrial and has filed anappeal with theUnited States Court ofAppeals forthe
+Fourth Circuit and deposited a Bond of $ 41.53 million. The ultimate financial implications, if any, cannot be ascertained at this stage.6.  Details of Secured, Redeemable, Non-Convertible Debentures as at September 30, 2026 are as follows:1.The aforesaid standalone financiaI results ofSterlite Technologies Limited (the "Company") were reviewed byAudit Committee and subsequently approved bythe
+Board ofDirectors atits meeting held onOctober 23, 2026. The Statutory auditors have carried out a limited review ofthestandalone resuIts fortheperiod ended
+September 30, 2026, and expressed an unmodified conclusion on the aforesaid results.
+2.Since thesegment information asper Ind AS108 - Operating Segments isprovided onthebasis ofconsolidated financial results, thesame isnot provided separately
+in standalone financial results. 
+3.During theperiod ended September 30, 2026, theCompany has allotted 25,728,500 equity shares offace value Rs. 2 each at an issue price ofRs.583.01 per equity
+share aggregating toRs. 1,500 crores pursuant toQualified Institutions Placement (QIP) under theprovisions ofChapter VIoftheSecurities and Exchange Board ofIndia
+(Issue ofCapital and Disclosure Requirements) Regulations, 2018, asamended (the "SEBI ICDR Regulations"), and section 42and 62ofthe Companies Act, 2013,
+including therules made thereunder, each asamended. Pursuant to the QIP issue promoter's shareholding intheCompany has been reduced from 44.44% asonMarch
+31, 2026 to42.29%. The management does not expect any material impact onaccount ofthechange inthepromoter's shareholding. The proceeds from theissue have
+been utilised for(i) repayment, infullorpart, ofcertain outstanding borrowings availed bytheCompany and its Subsidiaries; (ii) general corporate purposes and (iii)
+toward share issues expenses except for Rs. 2.68 crores which is lying in QIP escrow account.
+4.The above statement have been prepared inaccordance with theCompanies (Indian Accounting Standards) Rules, 2015 (Ind-AS) prescribed under section 133 ofthe
+Companies Act, 2013 and other recognised accounting practices and policies to the extent applicable.
+# Interest has been paid on the due dates. 
+*The listed Secured, Redeemable, Non-Convertible Debentures ofthe Company aggregating toRs.290 crores asonSeptember 30, 2026, are secured byway of
+hypothecation on specified movable fixed assets at Shendra plants (both present and future).
+The Company has maintained hundred percent security cover sufficient todischarge theprincipal amount ofthesaid debentures interms ofRegulation 54oftheSEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, asamended. The Credit rating byCRISIL forSecured Redeemable Non-Convertible Debentures
+issued by the Company is "AA / Stable" as on September 30, 2026.5.During theperiod ended September 30, 2026, theCompany allotted 1,96,395 equity shares ofRs. 2 each fully paid up,upon theexercise ofEmployee Stock Options.
+Post this allotment, thepaid-up equity share capital oftheCompany stands increased from Rs. 103 crores divided into 513,861,038 equity shares ofRs. 2 each toRs.
+103 crores divided into 514,057,433 equity shares of Rs. 2 each.
+(Rs. in crores)
+Principal InterestNext 
+Principal 
+Installment 
+DatePrincipal 
+AmountInterest 
+DateInterest 
+Amount
+8.50% Secured, Redeemable, Non-Convertible 
+Debentures*NA March 25, 
+2026March 24, 
+202872.50             March 24, 
+202724.65             Next Due Date
+ParticularsPrevious Due Date #
+Q2 FY26-27 Financial Results 13 of 14 Sterlite Technologies LimitedSTl! 
+=== page 48 ===
+STERLITE TECHNOLOGIES LIMITED
+Notes to standalone financial results :
+Year ended
+September 26
+(Unaudited)June 26
+(Unaudited)September 25
+(Unaudited)September 26
+(Unaudited)September 25
+(Unaudited)March 26
+(Audited)
+Debt equity ratio
+[{Total borrowings (including lease liabilities) (-) cash and cash 
+equivalents (including unencumbered other bank balances) and 
+current investments} / total equity]                       -                      0.34                    0.62                        -                      0.62                    0.68 
+Debt service coverage ratio (not annualised) 
+[Profit before interest, depreciation, amortisation and after tax and 
+exceptional items / (finance cost + principal long term loan 
+repayment)]                   0.92                    1.04                    2.09                    0.96                    2.15                    1.25 
+Interest service coverage ratio (not annualised)
+[Profit before interest, depreciation, amortisation and after tax and 
+exceptional items / finance cost]                    8.74                    5.68                    2.15                    7.44                    2.21                    2.11 
+Current ratio 
+[current assets / current liabilities]                   2.02                    1.75                    0.67                    2.02                    0.67                    1.14 
+Long term debt to working capital
+[Long term debt (Borrowings) / working capital]                   0.22                    0.45                  (0.87)                    0.22                  (0.87)                    3.51 
+Bad debt to accounts receivable ratio
+[(Bad debts + provision for doubtful debts) / trade receivables]                   0.04                    0.01                    0.00                    0.04                    0.00                    0.04 
+Current liability ratio 
+[Current liabilities / total liabilities]                   0.76                    0.74                    0.84                    0.76                    0.84                    0.62 
+Total debt to total assets 
+[Total debts (including lease liabilities)/ total assets]                   0.09                    0.23                    0.30                    0.09                    0.30                    0.30 
+Asset coverage ratio - NCD 8.50%
+(Written down value of secured asset mortgaged, hypothecated / 
+outstanding amount of borrowing )                    2.91                    2.78                    2.72                    2.91                    2.72                    1.84 
+Asset coverage ratio - NCD 9.35%
+(Written down value of secured asset mortgaged, hypothecated / 
+outstanding amount of borrowing )                        -                          -                      1.85                        -                      1.85                        -   
+Trade receivables turnover ratio
+(Annualised revenue from operations / closing current trade 
+receivables)                   5.78                    4.63                    4.90                    4.81                    4.83                    4.37 
+Inventory turnover ratio
+(Annualised cost of goods sold / closing inventory)                   5.94                    4.10                    3.25                    5.21                    3.19                    3.48 
+Operating margin (%)
+(Profit before interest and tax and after exceptional items / revenue 
+from operations)34% 22% 6% 29% 6% 6%
+Net Profit Margin (%)
+(Net profit after tax and exceptional items / revenue from operations)23% 13% 0% 19% 0% 0%
+Capital redemption reserve (₹ in crores)                         2                         2                         2                         2                         2                         2 
+Net worth (₹ in crores)                 3,398                 1,589                 1,452                 3,398                 1,452                 1,460 
+Place: Mumbai For and on behalf of the Board of Directors of 
+Date: October 23, 2026 Sterlite Technologies Limited
+Ankit Agarwal
+Managing Director
+DIN : 03344202
+www.stl.tech   Telephone : +91 20 30514000  Fax: +91 20 30514113  11.These standalone financial results are available ontheCompany's website viz. https://stl.tech/investor/ and onthewebsites ofBSE (www.bseindia.com) and NSE
+(www.nseindia.com). 
+Registered office: Sterlite Technologies Limited, 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 4110018.The disclosure required asper the provisions ofRegulation 52(4) and 54(2) ofSEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 isgiven
+below:
+Ratios
+9.OnNovember 21, 2025, theGovernment ofIndia notified four Labour Codes - theCode onWages, 2019, theIndustrial Relations Code, 2020, theCode onSocial
+Security, 2020, and the Occupational Safety, Health and Working Conditions Code, 2020 - consolidating 29existing labour laws. The Group had assessed the
+incremental impact ofthese changes and considering the materiality and regulatory-driven, non-recurring nature ofthis impact, the Group had presented such
+incremental impact as"Statutory impact ofnew Labour Codes" under "Exceptional Items" inthestandalone financial results fortheyear ended March 31, 2026. The
+incremental impact consisting ofgratuity ofRs. 8 crores and long-term compensated absences ofRs. 2 crores primarily arises due tochange inwages definition. The
+Company continues tomonitor thefinalisation ofall applicable Rules and clarifications from theGovernment onother aspects oftheLabour Code and would provide
+appropriate accounting effect on the basis of such developments as needed.Quarter ended Half-Year ended
+10.Depreciation and amortisation / impairment expense forthequarter ended September 30, 2026, includes animpairment charge ofRs.16crores based onthe
+assessment of recoverable value of certain property, plant and equipment performed by the Management. 
+Q2 FY26-27 Financial Results 14 of 14 Sterlite Technologies Limited
+Ankit 
+AgarwalDigitally signed by 
+Ankit Agarwal Date: 2026.10.23 12:02:14 +05'30'
+SACHIN 
+RAJNIKANT PAREKHDigitally signed by SACHIN 
+RAJNIKANT PAREKH Date: 2026.10.23 12:19:45 +05'30'STl! 
+=== page 49 ===
+Price Waterhouse Chartered Accountants LLP  
+Price Waterhouse Chartered Accountants LLP, Nesco IT Building III, 8th Floor, Nesco IT Park, Nesco Complex, 
+Gate No. 3 Western Express Highway, Goregaon East, Mumbai 400 063  
+T: +91 (22) 61197810 
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002  
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP 
+identity no: LLPIN AAC-5001) with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI 
+registration number is 012754N/N500016 (ICAI registration number before conversion was 012754N)  Review Report 
+ 
+To 
+The Board of Directors 
+Sterlite Technologies Limited, 
+4th Floor, Godrej Millennium, 
+Koregaon Road 9, STS 12/1, 
+Pune, Maharashtra - 411001 
+ 
+1. We have reviewed the unaudited consolidated financial results of Sterlite Technologies Limited 
+(the “Holding Company”) and its subsidiaries (the Holding Company and its subsidiaries 
+hereinafter referred to as the “Group”) (refer paragraph 4 below) for the quarter ended September 
+30, 2026 and the year to date results for the period April 01, 2026 to September 30, 2026 which 
+are included in the accompanying Consolidated Financial Results for the Quarter and Half Year 
+Ended September 30, 2026, the Consolidated Balance Sheet as on date and the Consolidated 
+Statement of Cash Flows for the half-year ended on that date, together with the notes thereon (the 
+“Statement”). The Statement is being submitted by the Holding Company pursuant to the 
+requirement of Regulation 33 and Regulation 52 read with Regulation 63 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (the “Listing 
+Regulations, 2015”), which has been digitally signed by us for identification purposes.  
+ 
+2. This Statement, which is the responsibility of the Holding Company’s Management and has been 
+approved by the Holding Company’s Board of Directors, has been prepared in accordance with 
+the recognition and measurement principles laid down in Indian Accounting Standard 34 
+“Interim Financial Reporting”, prescribed under Section 133 of the Companies Act, 2013, and 
+other accounting principles generally accepted in India. Our responsibility is to express a 
+conclusion on the Statement based on our review. 
+ 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (‘SRE’) 2410 “Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity” , issued by the Institute of Chartered Accountants of India. 
+This Standard requires that we plan and perform the review to obtain moderate assurance as to 
+whether the Statement is free of material misstatement. A review of interim financial information 
+consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in 
+scope than an audit conducted in accordance with Standards on Auditing and consequently does 
+not enable us to obtain assurance that we would become aware of all significant matters that 
+might be identified in an audit. Accordingly, we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEBI under 
+Regulation 33 (8) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, as amended, to the extent applicable.  
+ 
+=== page 50 ===
+Price Waterhouse Chartered Accountants LLP  
+ 
+ 
+4. The Statement includes the results of the Holding Company and following entities:  
+Sr. No. Name of the entity Relationship 
+1 Sterlite Global Ventures (Mauritius) Limited Subsidiary 
+2 Speedon Network Limited Subsidiary 
+3 Elitecore Technologies SDN BHD. (Malaysia) Subsidiary 
+4 Sterlite (Shanghai) Trading Company Limited  Subsidiary 
+5 Sterlite Tech Holding Inc. (USA) Subsidiary 
+6 Metallurgica Bresciana S.p.A Subsidiary 
+7 STL Digital Limited Subsidiary 
+8 Sterlite Tech Cables Solutions Limited Subsidiary 
+9 Sterlite Technologies Pty Ltd. Subsidiary 
+10 Sterlite Technologies DMCC Subsidiary 
+11 STL Tech Solutions Limited, UK Subsidiary 
+12 Jiangsu Sterlite Fiber Technology Co. Ltd. Step down subsidiary  
+13 Elitecore Technologies (Mauritius) Limited Step down subsidiary  
+14 Sterlite Technologies Inc. (South Carolina) Step down subsidiary  
+15 Optotec S.p.A Step down subsidiary  
+16 Optotec International S.A Step down subsidiary  
+17 STL Digital Inc. (USA) Step down subsidiary  
+18 STL Optical Connectivity NA, LLC Step down subsidiary  
+19 STL Solutions Germany GmbH Step down subsidiary  
+20 STL Digital UK Limited Step down subsidiary  
+ 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and 
+based on the consideration of the review reports of the other auditors referred to in paragraph 7 
+below, nothing has come to our attention that causes us to believe that the accompanying 
+Statement has not been prepared in all material respects in accordance with the recognition and 
+measurement principles laid down in the aforesaid Indian Accounting Standard and other 
+accounting principles generally accepted in India and has not disclosed the information required 
+to be disclosed in terms of Regulation 33 and Regulation 52 read with Regulation 63 of the Listing 
+Regulations, 2015 including the manner in which it is to be disclosed, or that it contains any 
+material misstatement.  
+ 
+6. We draw attention to Note 6 of the unaudited consolidated financial results, which describes the 
+status of a litigation against Sterlite Technologies Inc., USA, a subsidiary incorporated outside 
+India, by another USA based entity. Management is pursuing legal remedies and has filed an 
+appeal with the United States Court of Appeals for the Fourth Circuit, and the possible financial 
+impact of the litigation is currently not determinable. Our conclusion is not modified in respect of 
+this matter. 
+ 
+=== page 51 ===
+Price Waterhouse Chartered Accountants LLP  
+ 
+ 
+7. The interim financial information of four subsidiaries reflect total assets of Rs. 1,976 crores and 
+net assets of Rs. 625 crores as at September 30, 2026 and total revenue of Rs. 595 crores and Rs. 
+1,173 crores, total net profit/(loss) after tax of Rs. (9) crores and Rs. 33 crores and total 
+comprehensive income/(loss) of Rs. (9) crores and Rs. 33 crores, for the quarter ended September 
+30, 2026 and for the period from April 01, 2026 to September 30, 2026, respectively, and cash 
+outflow (net) of Rs. 11 crores for the period from April 01, 2026 to September 30, 2026, as 
+considered in the consolidated unaudited financial results. These interim financial information 
+have been reviewed by other auditors in accordance with SRE 2400 “Engagements to Review 
+Historical Financial Statements” and their reports, vide which they have issued an unmodified 
+conclusion, have been furnished to us by the other auditors and our conclusion on the Statement, 
+in so far as it relates to the amounts and disclosures included in respect of these subsidiaries, is 
+based on the reports of the other auditors and the procedures performed by us as stated in 
+paragraph 3 above. Our conclusion on the Statement is not modified in respect of this matter. 
+ 
+8. The consolidated unaudited financial results include the interim financial information of twelve 
+subsidiaries which have not been reviewed by their auditors, whose interim financial information 
+reflect total assets of Rs. 695 crores and net assets of Rs. 470 crores as at September 30, 2026 and 
+total revenue of Rs. 94 crores and Rs. 188 crores, total net loss after tax of Rs. 7 crores and Rs. 6 
+crores and total comprehensive loss of Rs. 7 crores and Rs. 6 crores for the quarter ended 
+September 30, 2026 and for the period from April 01, 2026 to September 30, 2026, respectively, 
+and cash inflows (net) of Rs. 8 crores for the period from April 01, 2026 to September 30, 2026, 
+as considered in the consolidated unaudited financial results. According to the information and 
+explanations given to us by the Management, these interim financial information are not material 
+to the Group. Our conclusion on the Statement is not modified in respect of this matter. 
+ 
+ 
+For Price Waterhouse Chartered Accountants LLP 
+Firm Registration Number: 012754N/N500016 
+ 
+ 
+ 
+ 
+Sachin Parekh 
+Partner 
+Membership Number: 107038 
+UDIN: 26107038HKIKVQ6949 
+Place: Mumbai 
+Date: October 23, 2026  
+SACHIN 
+RAJNIKANT PAREKHDigitally signed by SACHIN 
+RAJNIKANT PAREKH Date: 2026.10.23 12:20:42 +05'30'
+y 
+=== page 52 ===
+Price Waterhouse Chartered Accountants LLP  
+Price Waterhouse Chartered Accountants LLP, Nesco IT Building III, 8th Floor, Nesco IT Park, Nesco Complex, 
+Gate No. 3 Western Express Highway, Goregaon East, Mumbai 400 063  
+T: +91 (22) 61197810 
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002  
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP 
+identity no: LLPIN AAC-5001) with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI 
+registration number is 012754N/N500016 (ICAI registration number before conversion was 012754N)  
+  
+Review Report  
+ 
+ 
+To 
+The Board of Directors 
+Sterlite Technologies Limited, 
+4th Floor, Godrej Millennium, 
+Koregaon Road 9, STS 12/1, 
+Pune, Maharashtra - 411001 
+ 
+ 
+1. We have reviewed the unaudited standalone financial results of Sterlite Technologies Limited 
+(the “Company”) for the quarter ended September 30, 2026 and the year to date results for the 
+period April 01, 2026 to September 30, 2026, which are included in the accompanying 
+Standalone Financial Results for the Quarter and Half Year Ended September 30, 2026, the 
+Standalone Balance Sheet as on that date and the Standalone Statement of Cash Flows for the 
+half-year ended on that date, together with the notes thereon (the “Statement”). The Statement 
+has been prepared by the Company pursuant to Regulation 33 and Regulation 52 read with 
+Regulation 63 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+as amended (the “Listing Regulations, 2015”), which has been digitally signed by us for 
+identification purposes.  
+ 
+2. This Statement, which is the responsibility of the Company’s Management and approved by the 
+Board of Directors, has been prepared in accordance with the recognition and measurement 
+principles laid down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 
+34”), prescribed under Section 133 of the Companies Act, 2013, and other accounting principles 
+generally accepted in India. Our responsibility is to express a conclusion on the Statement based 
+on our review.  
+ 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 “Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity”, issued by the Institute of Chartered Accountants of India. 
+This Standard requires that we plan and perform the review to obtain moderate assurance as to 
+whether the Statement is free of material misstatement. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is 
+substantially less in scope than an audit conducted in accordance with Standards on Auditing 
+and consequently does not enable us to obtain assurance that we would become aware of all 
+significant matters that might be identified in an audit. Accordingly, we do not express an audit 
+opinion. 
+ 
+4. Based on our review conducted as above, nothing has come to our attention that causes us to 
+believe that the Statement has not been prepared in all material respects in accordance with the 
+recognition and measurement principles laid down in the aforesaid Indian Accounting Standard 
+and other accounting principles generally accepted in India and has not disclosed the 
+information required to be disclosed in terms of Regulation 33 and Regulation 52 read with 
+Regulation 63 of the Listing Regulations, 2015 including the manner in which it is to be 
+disclosed, or that it contains any material misstatement.  
+ 
+ 
+=== page 53 ===
+Price Waterhouse Chartered Accountants LLP  
+  
+ 
+5. We draw attention to Note 7 of the unaudited standalone financial results, which describes the 
+status of a litigation against Sterlite Technologies Inc, USA, a subsidiary incorporated outside 
+India, by another USA based entity. Management is pursuing legal remedies and has filed an 
+appeal with the United States Court of Appeals for the Fourth Circuit, and the possible financial 
+impact of the litigation is currently not determinable. Our conclusion is not modified in respect 
+of the above matter. 
+ 
+ 
+ 
+For Price Waterhouse Chartered Accountants LLP 
+Firm Registration Number: 012754N/N500016 
+ 
+ 
+ 
+ 
+ 
+ 
+Sachin Parekh 
+Partner 
+Membership Number: 107038 
+UDIN: 26107038JHLGNR6378 
+Place: Mumbai 
+Date: October 23, 2026 
+ 
+SACHIN 
+RAJNIKANT PAREKHDigitally signed by SACHIN 
+RAJNIKANT PAREKH Date: 2026.10.23 12:20:13 +05'30'A 
+=== page 54 ===
+ 
+ 
+  
+   
+ www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ Annexure I - Integrated Filing (Financials)  
+ 
+ 
+A. Unaudited Consolidated and Standalone Financial Results of the Company for the Quarter ended 
+September  30, 202 6 – Attached  
+ 
+B. Statement on deviation or variation for proceeds of public issue, rights issue, preferential issue, qualified institutions placement etc. – Attached as Annexure II  for Preferential Issue and 
+Annexure III for Qualified Institutional Placement  
+ 
+C. Disclosure of outstanding default on loans and debt securities – No default, hence Not Applicable  
+ 
+D. Disclosure of related party transactions (applicable only for half -yearly filings i.e., 2nd and 4th quarter) 
+– will be filed along with XBRL for financial results. 
+  
+E. Statement on impact of audit qualifications (for audit report with modified opinion) submitted along-with annual audited financial results (standalone and consolidated separately) (applicable only for 
+annual filing i.e., 4th quarter) – Not applicable  
+  
+ STl! 
+=== page 55 ===
+ 
+ 
+  
+   
+ www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ Annexure II 
+ 
+Statement of Deviation/ Variation in utilisation of funds raised  
+ 
+Name of listed entity  
+ Sterlite Technologies Limited  
+Mode of Fund Raising  
+ Warrants convertible into Equity Shares on 
+Preferential Basis  
+Date of Raising Funds  
+ March 30, 2026 (Being date of allotment)  
+Amount Raised  
+ Rs. 1,24,57,50,000 (25% of the price at which the 
+warrants are issued)  
+Report filed for Quarter ended  
+ September  30, 2026  
+Monitoring Agency  
+ Applicable  
+Monitoring Agency Name, if applicable  
+ CARE Ratings Limited  
+Is there a Deviation / Variation in use of funds 
+raised  
+ No 
+If yes, whether the same is pursuant to change 
+in terms of a contract or objects, which was 
+approved by the shareholders  
+ Not Applicable  
+If Yes, Date of shareholder Approval  
+ Not Applicable  
+Explanation for the Deviation / Variation  
+ Not Applicable  
+Comments of the Audit Committee after review  
+ Nil 
+Comments of the auditors, if any  
+ Nil 
+ 
+Objects for which funds have been raised and where there has been a deviation/ variation, in the 
+following table:  
+ 
+Original Object  
+ Modified 
+Object, if 
+any 
+ Original 
+Allocation  
+ Modified 
+allocation, 
+if any  
+ Funds  
+Utilised*  Amount of  
+Deviation/ 
+Variation for 
+the quarter 
+according to 
+applicable 
+object  Rema rks, if any  
+Repayment/ Servicing 
+of financial facilities 
+availed by the 
+Company  Not 
+Applicable  373.73 
+Crores Not 
+Applicable  113.3  
+Crores 
+ Not Applicable  - 
+General Corporate 
+Purposes  Not 
+Applicable  124.57 
+Crores  Not 
+Applicable  13.28  
+Crores  Not Applicable  - 
+ 
+*The Company has received Rs. 124.58 crore s i.e., 25% of the Warrant Issue Price (Rs.110/ -per 
+Warrant) at the time of subscription in Q4FY26, i.e. till March 31, 2026. No funds were  received during 
+Q2FY27.  
+ .. 
+--
+~ 
+.,,, 
+=== page 56 ===
+ 
+ 
+  
+   
+ www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ Amount mentioned under 'Fund utilized' is overall utilization of funds till quarter ended September  30, 
+2026. And no amount was utilized during the current quarter  ended September  30, 2026.   
+ 
+Deviation or variation could mean:  
+(a) Deviation in the objects or purposes for which the funds have been raised or  
+(b) Deviation in the amount of funds actually utilized as against what was originally disclosed or  
+(c) Change in terms of a contract referred to in the fund raising document i.e. prospectus, letter of offer, etc.   
+  
+ STl! 
+=== page 57 ===
+ 
+ 
+  
+   
+ www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ Annexure III 
+ 
+Statement of Deviation/ Variation in utilisation of funds raised  
+ 
+Name of listed entity  
+ Sterlite Technologies Limited  
+Mode of Fund Raising  
+ Qualified Institutional Placement  
+Date of Raising Funds  
+ July 01, 2026 (Being date of allotment)  
+Amount Raised  
+ Rs. 1500 Crores  
+Report filed for Quarter ended  
+ September  30, 2026  
+Monitoring Agency  
+ Applicable  
+Monitoring Agency Name, if applicable  
+ CARE Ratings Limited  
+Is there a Deviation/ Variation in use of funds 
+raised  
+ No 
+If yes, whether the same is pursuant to change 
+in terms of a contract or objects, which was 
+approved by the shareholders  
+ Not Applicable  
+If Yes, Date of shareholder Approval  
+ Not Applicable  
+Explanation for the Deviation/ Variation  
+ Not Applicable  
+Comments of the Audit Committee after review  
+ Nil 
+Comments of the auditors, if any  
+ Nil 
+ 
+ 
+Objects for which funds have been raised and where there has been a deviation/ variation, in the 
+following table:  
+ 
+Original Object  
+ Modified 
+Object, if 
+any 
+ Original 
+Allocation  
+(Rs. In 
+Crore)  
+ Modified 
+allocation, 
+if any  
+ Funds  
+Utilised  
+(Rs. In 
+Crore)  
+ Funds 
+Unutilised*  
+(Rs. In 
+Crore)  
+ Amount of  
+Deviation/ 
+Variation for 
+the quarter 
+according to 
+applicable 
+object  Remarks, if 
+any 
+Repayment/ pre -
+payment, in part or 
+in full, of certain 
+outstanding 
+borrowings availed 
+by the Company 
+and certain 
+Subsidiaries  Not 
+Applicable  1,103.77  Not 
+Applicable  1,103.77  - Not 
+Applicable  - 
+  -
+. .. 
+~ -
+·' ~ 
+=== page 58 ===
+ 
+ 
+  
+   
+ www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ General Corporate 
+Purposes  Not 
+Applicable  367.92  Not 
+Applicable  371.43  - 
+ Savings in 
+issue 
+expenses 
+has been 
+utilized 
+towards 
+General 
+Corporate Purposes  as 
+per the 
+approval of 
+board  of the 
+company.  Issue Expenses  Not 
+Applicable  28.31  Not 
+Applicable  22.12  2.68*  
+*The Company has  transferred unutilised funds of 2.68 crores in the escrow account.  
+ 
+Deviation or variation could mean:  (a) Deviation in the objects or purposes for which the funds have been raised or  
+(b) Deviation in the amount of funds actually utilized as against what was originally disclosed or  
+(c) Change in terms of a contract referred to in the fund raising document i.e. prospectus, letter of offer, etc.   
+  
+ 
+ 
+=== page 59 ===
+Price Waterhouse Chartered Accountants LLP  
+Price Waterhouse Chartered Accountants LLP, 7th Floor, Tower A - Wing 1, Business Bay, Airport Road, 
+Yerwada  
+Pune - 411 006  
+T: +91 (20) 69050570  
+Registered office and Head office: 11-A, Vishnu Digamber Marg, Sucheta Bhawan, New Delhi - 110002  
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP 
+identity no: LLPIN AAC-5001) with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI 
+registration number is 012754N/N500016 (ICAI registration number before conversion was 012754N)  
+ To, 
+The Board of Directors 
+Sterlite Technologies Limited, 
+4th Floor, Godrej Millennium, 
+Koregaon Road 9, STS 12/1, 
+Pune, Maharashtra, 
+India- 411001 
+ 
+ 
+Auditors’ Report on book values of assets included in the statement of security cover as 
+per Debenture Trust Deed as on September 30, 2026 
+ 
+1. This report is issued in accordance with the terms of our engagement letter dated July 23, 
+2026. 
+ 
+2. The accompanying Statement of Security Cover for the quarter ended September 30, 2026 
+(the “Statement”) of Sterlite Technologies Limited (the “Company”), containing information 
+and calculation of Security cover ratio in the format prescribed by Securities and Exchange 
+Board of India (‘SEBI’) vide Master Circular No. HO/17/11/12(2)2026-DDHS-
+POD1/I/22420/2026 dated September 28, 2026 (the ‘SEBI Circular’)  as mentioned in 
+Debenture Trust Deed dated March 18, 2021 has been prepared by the Management of the 
+Company pursuant to the requirement of Debenture Trust Deed dated March 18, 2021 (the 
+‘Agreement’) between the Company and the Axis Trustee Services Limited (the ‘Debenture 
+Trustee’), and Regulation 56(1)(d) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, (as amended from time to time) (the “Listing Regulations, 2015”) read with 
+the SEBI Circular (together referred to as the “SEBI Requirements”). Our examination of the 
+Statement is at the request received from the Company vide their email dated July 03, 2026 
+(the “Company’s Request”). We have digitally signed the Statement for identification purposes 
+only. 
+ 
+Management’s Responsibility for the Statement 
+ 
+3. The preparation of the Statement is the responsibility of the Management of the Company 
+including the creation and maintenance of all accounting and other records supporting its 
+contents. This responsibility includes the design, implementation and maintenance of internal 
+controls relevant to the preparation and presentation of the Statement and applying an 
+appropriate basis of preparation. 
+ 
+4. The Management is also responsible for ensuring that the Company complies with the SEBI 
+Requirements and the requirements of the Agreement, and that it provides all relevant, 
+complete  and accurate information as required therein. 
+ 
+ 
+ 
+ 
+=== page 60 ===
+Price Waterhouse Chartered Accountants LLP  
+ Auditors’ Responsibility  
+ 
+5. Pursuant to the SEBI Requirements and at the Company’s Request, it is our responsibility to 
+examine the Statement and provide a limited assurance in the form of a conclusion on whether 
+anything has come to our attention that causes us to believe that the book values of the assets 
+specified in columns A to H of Part A and Part B of the Statement are not in agreement with 
+the underlying unaudited books of account and relevant records of the Company as at 
+September 30, 2026, as produced to us by the Management during the course of our 
+examination. 
+ 
+6. The financial statements of the Company for the year ending on March 31, 2027, relating to 
+the books of account and records referred to in paragraph 5 above, are subject to our audit 
+pursuant to the requirements of the Companies Act, 2013. 
+ 
+7. We conducted our examination of the Statement, on a test check basis, in accordance with the 
+‘Guidance Note on Reports or Certificates for Special Purposes’ (the ‘Guidance Note’) issued 
+by the Institute of Chartered Accountants of India (the ‘ICAI’). The Guidance Note requires 
+that we comply with the ethical requirements of the Code of Ethics issued by the ICAI. 
+ 
+8. We have complied with the relevant applicable requirements of the Standard on Quality 
+Control (SQC) 1, ‘Quality Control for Firms that Perform Audits and Reviews of Historical 
+Financial Information, and Other Assurance and Related Services Engagements’. 
+ 
+9. A limited assurance engagement includes performing procedures to obtain 
+sufficient appropriate evidence on the reporting criteria mentioned in paragraph 5 above. The 
+procedures performed vary in the nature and timing from and are less in extent than for a 
+reasonable assurance and consequently, the level of assurance obtained is substantially 
+lower than the assurance that would have been obtained had a reasonable assurance 
+engagement been performed. 
+ 
+10. In carrying out our examination as described in paragraph 7 above, we have carried out the 
+following procedures: 
+ 
+● Traced the financial information contained in column A to column H of Part A and 
+Part B of the Statement with the underlying unaudited books and records of the 
+Company as at September 30, 2026. 
+● Verified that the calculation of Security Cover ratio in the Statement is prepared in 
+accordance with the method of computation as prescribed by Securities and Exchange 
+Board of India (SEBI) vide circular No. HO/17/11/12(2)2026-DDHS-
+POD1/I/22420/2026 dated September 28, 2026. 
+● Verified the mathematical accuracy of the computation presented in the statement. 
+ 
+11. For avoidance of doubt, we clarify that we were not required to, and have not performed any 
+procedures on the information included in column I to Column O of Part A and Part B of the 
+accompanying Statement and the same is furnished by the management of the Company. 
+Further, we were not required to comment on the calculations included in the Statement. 
+ 
+ 
+=== page 61 ===
+Price Waterhouse Chartered Accountants LLP  
+ Conclusion 
+ 
+12. Based on our examination as described in paragraph 7 and procedures performed as described 
+in paragraph 10 above, and according to the information and explanations given to us, nothing 
+has come to our attention that causes us to believe that the book values of the assets specified 
+in columns A to H of Part A and Part B of the Statement prepared by the company are not in 
+agreement with the underlying unaudited books of account and relevant records of the 
+Company as at September 30, 2026 as produced to us by the Management during the course 
+of our examination. 
+ 
+Restriction on Use 
+ 
+13. Our obligations in respect of this report are separate from, and are not amended, increased, 
+or otherwise affected by any other role we have or may have had as auditor of the Company or 
+otherwise. Nothing in the report, nor anything said or done in the course of or in connection 
+with the services that are the subject of the report, will extend any duty of care we have or may 
+have had in our capacity as auditor of the Company. 
+14. This report has been issued at the request of the Board of Directors of the Company to whom 
+it is addressed solely for submission to Debenture Trustee and the Stock Exchanges to enable 
+the Company to comply with its obligation under Listing Regulations, 2015. Our report should 
+not be used by any other person or for any other purpose. Price Waterhouse Chartered 
+Accountants LLP does not accept or assume any liability or duty of care for any other purpose 
+or to any person other than the Company. 
+ 
+For Price Waterhouse Chartered Accountants LLP 
+Firm Registration Number: 012754N/N500016 
+ 
+ 
+ 
+ 
+Pawankumar Somani 
+Partner 
+Membership Number: 137654 
+UDIN: 26137654NVFPYF8083 
+Place: Pune 
+Date: October 23, 2026 
+ 
+PAWANKUMAR 
+RADHESHYAM SOMANIDigitally signed by 
+PAWANKUMAR RADHESHYAM SOMANI 
+Date: 2026.10.23 
+11:54:17 +05'30'
+=== page 62 ===
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  41001, India.                                 
+CIN - L31300PN2000PLC202408 
+  
+ 
+ 
+ 
+ 
+ Part A - Statement at Standalone Financial Position
+ Column A  Column B Column C Column D Column E Column F Column G  Column I Column J Column K Column L Column M Column N Column O
+Exclusive
+Charge
+ Other Pari-Passu 
+Secured Debt 
+ Other assets on 
+which there is pari- 
+Passu charge 
+(excluding items 
+covered in column 
+F) 
+Book Value Book Value Yes/ No Book Value Book Value
+ ASSETS 
+ Property, Plant and 
+Equipment  Value of movable and 
+immovable properties of the 
+Company                229                      793 -                                              496               1,518                                      793               793 
+ Capital Work-in-Progress                        90 -                        69                                         159                                        90                 90 
+ Right of Use Assets 13                  29                                           42 
+ Goodwill -                     -                        -                                          -   
+ Intangible Assets 13                                            13 
+ Intangible Assets under 
+Development -                     -                        -                                          -   
+ Investments 528                        303                                       831 
+ Loans 338                        287                                      625 
+ Inventories 404                                       404 
+ Trade Receivables 968                                       968 
+ Cash and Cash 
+Equivalents 272                                         272 
+ Bank Balances other than 
+Cash and Cash 
+Equivalents 109                                         109 
+ Others 411                         123                                       534 
+ Total -                     242             -              883                   3,030                 1,320                -            5,475            Debt not 
+backed by 
+any assets 
+offerred as 
+security  Elimination 
+(amount in 
+negative)  (Total C to H) Related to only those items covered by this certificate
+ debt amount 
+considered 
+more than 
+once (due to 
+exclusive 
+plus, 
+paripassu 
+charge)  Market 
+Value for 
+Assets 
+charged 
+on 
+Exclusive 
+basis  Carrying /book 
+value for exclusive 
+charge assets where 
+market value is not 
+ascertainable or 
+applicable  Market 
+Value for 
+Pari Passu 
+charge 
+assets  Carrying value/book value 
+for paripassu charge assets 
+where market value is not 
+ascertainable or applicable  Total Value 
+(=K+L+M+N) 
+Relating to Column F                                  Sterlite Technologies Limited 
+Statement of Security Cover for the quarter ended September 30, 2026
+In accordance with format prescribed by Circular HO/17/11/12(2)2026-DDHS-POD1/I/22420/2026 dated September 28, 2026, we give below the computation of Security Cover ratio in respect of 2,900 Secured, listed, rated, non-cumulative, non-convertible, redeemable debentures of face value Rs. 290 crores.
+ Column H 
+ Particulars 
+ Description of asset for which 
+this certificate relate  Exclusive  Charge  Pari-Passu 
+Charge  Pari-Passu 
+Charge  Pari-Passu Charge 
+ Debt for which this 
+certificate being 
+issued  Other 
+Secured Debt  Debt for 
+which this 
+certificate 
+being issued  Assets shared by 
+Paripassu debt 
+holder (includes 
+debt for which this 
+certificate is 
+issued & other 
+debt with 
+paripassu charge)  Assets not offered 
+as Security 
+=== page 63 ===
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  41001, India.                                 
+CIN - L31300PN2000PLC202408 
+  
+ 
+ 
+ 
+ 
+ 
+  LIABILITIES 
+ Debt Securities to which 
+this certificate pertains 
+(including Interest 
+accrued) Yes 303                                     303 
+ Other debt sharing pari-
+passu charge with above 
+debt -                     -                                            -   
+ Other Debt 48                 109                        -                               157 
+ Subordinated debt                     -   
+ Borrowings                     -   
+ Bank                     -   
+ Debt Securities                     -   
+ Others 440                             440 
+ Trade payables 673                               673 
+ Lease Liabilities 40                                  40 
+ Provisions 34                                   34 
+ Others 320                              320 
+ Total -                     48               -              303                   109                      1,507         -            1,967           -      -        883                                   883            
+ Cover on Book Value 2.91                          
+ Cover on Market Value 2.91                          
+Pari-Passu Security Cover Ratio 
+(For ISIN INE089C07109 )
+Notes:
+1                                                                  
+2                                                                  
+3                                                                  
+4                                                                  We have considered the book value of the movable assets, as the market value of these assets is not applicable as per the debenture trust deed.
+For and on behalf of Sterlite Technologies Limited
+Ajay Jhanjhari
+(Chief Financial Officer)The financial information contained in the Statement are in agreement with underlying unaudited books and records of the Company for the quarter ended September 30, 2026.
+The calculation of the Security cover ratio in the Statement is computed in accordance with the method of computation as prescribed in the SEBI Circular.
+Statutory Auditors' of the company have digitally signed this Statement for identification purposes only and this statement 
+should be read in conjunction with "Auditors’ Report on book values of assets included in the statement of security cover as 
+per Debenture Trust Deed as on September 30, 2026”The Statement is prepared by the management of the Company, for submitting along with other documents pursuant to Regulation 56 (1) (d) of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, dated September 2, 2015 to be read with, Circular HO/17/11/12(2)2026-DDHS-
+POD1/I/22420/2026 dated September 28, 2026 (‘SEBI Circular’) , (collectively referred as the “Listing Regulations, 2015”).Not to be filled
+Ajay 
+JhanjhariDigitally signed 
+by Ajay Jhanjhari Date: 2026.10.23 11:12:43 +05'30'
+PAWANKUMAR 
+RADHESHYAM 
+SOMANIDigitally signed by 
+PAWANKUMAR RADHESHYAM SOMANI 
+Date: 2026.10.23 
+11:54:54 +05'30'
+=== page 64 ===
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  41001, India.                                 
+CIN - L31300PN2000PLC202408 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ Part B - Statement at Consolidated Financial Position
+Column A Column B Column C Column D Column E Column F Column G Column I Column J Column K Column L Column M Column N Column O
+Exclusive
+Charge
+Other Pari-Passu 
+Secured Debt
+Other assets on 
+which there is pari- 
+Passu charge 
+(excluding items 
+covered in column 
+F)
+Book Value Book Value Yes/ No Book Value Book Value
+ASSETS
+Property, Plant and 
+EquipmentValue of movable and 
+immovable properties of the 
+Company                          762                                   793                         -                        1,021                        (9)         2,567                         -                                        793               793 
+Capital Work-in-
+Progress12                                                                 90 -                                               73            175                         -                                          90                 90 
+Right of Use Assets 31                             70                                     101 
+Goodwill                         196 196           
+Intangible Assets                           75 75             
+Intangible Assets under 
+Development-                                      -   
+Investments 528                     1,086                     (586)                           1,028 
+Loans 338                     498                       (835)                                   1 
+Inventories 404                     698                       (252)                             850 
+Trade Receivables 968                     2,162                     (1,524)                       1,606 
+Cash and Cash 
+Equivalents272                      256                                   528 
+Bank Balances other 
+than Cash and Cash 
+Equivalents109                     1                                        110 
+Others 411                      570                        (188)                              793 
+Total -                    805                        -                              883                                3,030               6,706                  (3,394)             8,030    Carrying value/book value 
+for paripassu charge assets 
+where market value is not 
+ascertainable or applicableTotal Value 
+(=K+L+M+N)
+Relating to Column Fdebt amount 
+considered more 
+than once (due to 
+exclusive plus, 
+paripassu charge)Market Value 
+for Assets 
+charged on 
+Exclusive basisCarrying /book value for 
+exclusive charge assets 
+where market value is not 
+ascertainable or 
+applicableMarket Value for 
+Pari Passu charge 
+assetsDebt for which 
+this certificate 
+being issuedOther Secured DebtDebt for which this 
+certificate being issuedAssets shared by Paripassu 
+debt holder (includes debt 
+for which this certificate is 
+issued & other debt with 
+paripassu charge)Related to only those items covered by this certificate                                 Sterlite Technologies Limited
+Statement of Security Cover for the quarter ended September 30, 2026
+In accordance with format prescribed by Circular HO/17/11/12(2)2026-DDHS-POD1/I/22420/2026 dated September 28, 2026, we give below the computation of Security Cover ratio in respect of 2,900 Secured, listed, rated, non-cumulative, non-convertible, redeemable debentures of face value Rs. 290 crores:
+Column H
+Particulars
+Description of asset for which 
+this certificate relateExclusive  Charge Pari-Passu Charge Pari-Passu Charge Pari-Passu ChargeAssets not offered as 
+SecurityDebt not 
+backed by 
+any assets 
+offerred as 
+securityElimination 
+(amount in 
+negative)(Total C to 
+H)
+=== page 65 ===
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  41001, India.                                 
+CIN - L31300PN2000PLC202408 
+  
+ LIABILITIES
+Debt Securities to 
+which this certificate 
+pertains (including 
+Interest accrued)Yes 303                                            303 
+Other debt sharing pari-
+passu charge with 
+above debt-                                                -   
+Other Debt 348                          109                     987              (869)                              575 
+Subordinated debt               -   
+Borrowings               -   
+Bank               -   
+Debt Securities               -   
+Others 462                        462 
+Trade payables 2,650          (1,668)                          982 
+Lease Liabilities 125                         125 
+Provisions 72                             72 
+Others 1,091           (123)                              968 
+Total -                    348                        -                              303                                109                   -                      5,387        (2,660)            3,487     -                               -                    883                                   883            
+Cover on Book Value 2.91                                         
+Cover on Market Value
+Exclusive Security Cover Ratio Pari-Passu Security Cover Ratio 
+(For ISIN INE089C07117) (For ISIN INE089C07109 )
+Notes:
+1
+2
+3 The calculation of the Security cover ratio in the Statement is computed in accordance with the method of computation as prescribed in the SEBI Circular.
+4 We have considered the book value of the movable assets, as the market value of these assets is not applicable.
+For and on behalf of Sterlite Technologies Limited
+Ajay Jhanjhari
+(Chief Financial Officer) Statutory Auditors' of the company have digitally signed this Statement for identification purposes only and this statement should be read in 
+conjunction with "Auditors’ Report on book values of assets included in the statement of security cover as per Debenture Trust Deed as on 
+September 30, 2026”Not to be filled
+The Statement is prepared by the management of the Company, for submitting along with other documents pursuant to Regulation 56 (1) (d) of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, dated September 2, 2015 to be read with, Circular HO/17/11/12(2)2026-DDHS-POD1/I/22420/2026 dated September 28, 2026 
+(‘SEBI Circular’) , (collectively referred as the “Listing Regulations, 2015”).
+The financial information contained in the Statement are in agreement with underlying unaudited books and records of the Company for the quarter ended September 30, 2026.
+Ajay 
+JhanjhariDigitally signed by 
+Ajay Jhanjhari 
+Date: 2026.10.23 11:13:28 +05'30'
+PAWANKUMAR 
+RADHESHYAM 
+SOMANIDigitally signed by 
+PAWANKUMAR RADHESHYAM SOMANI 
+Date: 2026.10.23 11:54:38 
++05'30'

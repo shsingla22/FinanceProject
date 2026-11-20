@@ -1,0 +1,380 @@
+bharti 
+February 06, 2025 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Sandra Kurla Complex, Sandra (E) 
+Mumbai -400051, India 
+Symbol: BHARTIARTU AIRTELPP 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai -400001, India 
+ScripCode:532454/890157 
+Sub: Financial results for the third quarter (Q3) and nine months ended December 
+31,2024 
+Dear Sir/ Madam, 
+In compliance with Regulations 30 and 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we are enclosing herewith 
+the following for the third quarter (Q3) and nine months ended December 31, 2024: 
+►Audited consolidated financial results as per Ind AS
+►Audited standalone financial results as per Ind AS
+►Auditor's reports on the aforesaid financial results
+The above financial results have been reviewed by the Audit Committee in its meeting 
+held on Thursday,  February 06, 2025 and based on its recommendation,  approved by the 
+Board of Directors at its meeting held o n Thursday, February 06, 2025. 
+The Board meeting commenc ed at 1ST 1230 Hrs. and concluded at 1ST 1620 Hrs. 
+Kindly take the same on record. 
+Thanking you, 
+Sincerely yours, 
+For Bharti Airtel Limited I 
+Ro �AIH'l--tJ-ttrn---.
+Joint Company Secretary e Officer 
+Bharti Airtel Limited 
+(a Bharti Enterprise) 
+Regd. Office: Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram -122015, India 
+Corporate Office: Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi-110070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email: compliance.officer@bhartl.in, Website: www.airtel.in 
+CIN: L74899HR1995PLC095967 
+~ 
+airtel Bharti Airtel Limited 
+CIN: L74899HR1995PLC095967 
+Registered Office: Airtel Center, Plot no. 16, Udyog Vihar, Phase IV, Gurugram -122015, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email id: compliance .officer@bharti.in 
+Statement of Audited Consolidated Financial Results for the quarter and nine months ended December 31, 2024 
+/Rs. in Mllllcns; exce~ l per share data 
+Quarter ended Nile months ended PrevlollS 
+vearended 
+Particulars December September December December December March 
+31. 2024 30, 2024 31. 2023 31., 2024 31, 2023 31. 2024 
+Audited Aualted Audited Aualted Audited Auruted 
+Income 
+Revenue from operations 451,293 414,733 378,995 1,251,090 l,U3,833 1,499,824 
+Other income 4,697 2.547 4,398 10,879 11,185 14.354 
+455,990 417,280 383,393 1,261,969 1,135,018 1,514,178 
+Expenses 
+Networlc ope@Ung expenses 86,267 80,115 75,926 243,988 224,202 300,188 
+Access charges 19,636 18,211 18,568 56,931 56,684 75,185 
+License fee / Spectrum charges 35,698 34,658 30,205 101,920 89,251 120,358 
+Employee benefits expense 16,082 14,966 13,230 44,n6 39,592 53,231 
+Sales and marlceting expenses 29,261 28,824 27,253 85,242 80,813 107,882 
+Other expenses 18,383 19,497 15,665 56,729 44,021 60,062 
+205,327 196,271 180,847 589,586 534,.563 716,906 
+Profit before depreciation , amortisation, finance costs, share or profit/ (kiss) of 250,663 221.,009 202,546 672,383 600,455 797,272 associates and joint ventures, exceptional items and tax 
+Depredation and amortisation expenses 117,042 110,000 100,743 332,443 294,624 395,376 
+Rnance costs 56,755 54,237 66,449 162,516 174,444 226,◄n 
+Share of profit of associates and joint venlllres (net) /16,5971 /10,739' /7,0321 (36 4531 (18,7911 (27,094 
+Profit before exceptional items and tax 93,4ti3 67,511 42,386 213,sn 150,178 202,513 
+Exceptional items (net) /75.4561 8,537 1,302 (74,269\ 51,168 75,723 
+Profit before lax 168,919 58,974 41,084 288,146 99,010 126,7911 
+Tax expense / ( c:red"d:) 
+CurrentllDI: 11,336 8,491 7,506 27,710 34,404 41,498 
+Deferred llDI: (3,763 8,949 4,814 10,381 /292) (288' 
+7,573 17,440 12,320 38,091 34,112 41,210 
+Profit for the period /year 161.,346 41,534 28764 250,055 64,898 85,580 
+Other comprehensive ilcome ('OCl') 
+nems to be reclassified to profit or loss : 
+-Net gain/ (loss) due ID foreign currency translation differences 17,527 (277) (26,665) 17,727 {79,794) (93,619) 
+-Net loss on net investment hedge {1,256) (820) (1,487) (2,661) {7,913) {9,235) 
+-Tax credit on above 289 m 513 757 2,516 2,937 
+nems not ID be reclassified ID profit or loss : 
+-Re-measurement gain/ (loss) on defined benefit plans 126 (57) 41 (216) (149) (157) 
+-Tax (charge)/ credit on above (43) 9 (13) 39 23 21 
+-Share of other comprehensive (loss)/ income of associates and joint ventures (net) (65) 32 17 {28) 15 75 
+-Gain / (loss) on investment at fair value through OCI n4 {118) 656 --
+Other comprehensive income/ (loss) for the period / year 17,352 1954 127,594 16,274 185,302' (99 978 
+Total comprehen,tjve income / (Joss) for the period / year 178,698 40,58D 1,170 266329 (20,404) (14,398 
+Profit for the period / year attributable to : 161.,346 41.,534 28,764 250,055 64,898 85,580 
+Owners of the Parent 147,812 35,932 24,422 225,343 53,954 74,670 
+Non-controlling interests 13,534 5,602 4,342 24,712 10,944 10,910 
+Other comprehensive income/ (loss) for the period / year attributable to: 17,352 (954) (27,594) 16,274 (85,302) (99,978) 
+owners of the Parent 5,815 (843) (14,618) 4,593 (48,007) {56,342) 
+Non-controlling interests 11,537 (111) (12,976) 11,681 (37,295) {43,636) 
+Total comprehensive income/ (loss) for the period / year attributable to : 178,698 40,580 1,170 266,329 (20,404) (14,398) 
+owners of the Parent 153,627 35,089 9,804 229,936 5,947 18,328 
+Non-controlling interests 25,071 5,491 (8,634) 36,393 {26,351) (32,726) 
+Eamilg.!i per share" 
+(Face vaue : Rs. 5 each) 
+Basic 25.54 6.21 4.27 38.97 9.48 13.09 
+Diluted 24.65 6.00 4.17 37.66 9,28 12.80 
+Paid-up equity share capital (Face value : Rs, S each) 28,970 28,956 28,615 28,970 28,615 28,766 
+Other equity -1,006,105 842,018 762,239 1,006,105 762,239 _ 791,422 
+• Earnings per share are not annualised far the periods _ p,.:,rte/ (~ ~~sk•n.s~ 
+I 'f?'®J~ Q)~t/ µ') ltJ -·, !: fl•rtered ~ .c ,..,. I O c ~ou_ntantc ~ 
+tO ai:el ~ "e ..? .... o l' - • --
+Audited Consolidated Segment-wise Revenue, Results, Assets and Liabilities as of and for the quarter and nine months 
+ended December 31, 2024 
+Quarter ended / As of mne months ended / As of 
+Particulars 
+December September December December December 
+31, 2024 30 2024 31, 2023 31, 2024 31, 2023 
+Audited Audited Audited Audited Audited 
+1. Segment Revenue 
+-Mobile Services India 262,687 248,371 216,386 736,332 629,831 
+-Mobile Services Africa" 107,032 101,631 102,972 305,032 318,908 
+-Mobile Services South Asia@ . . 945 941 2,812 
+• Airtel Business 56,460 56,555 51,948 167,780 153,593 
+-Passive Infrastructure Services5 35,290 -. 35,290 
+-Homes Services 15,092 14,321 12,718 43,083 36,546 
+• Digital TV Services 7,607 7,586 7,837 22,964 22,755 
+• Others 873 898 496 2,587 1,097 
+Total segment revenue 485,041 429,362 393,302 1,314,009 1,165,542 
+Less: Inter-seament eliminations 33,748 14,629 14,307 62,919 41,709 
+Total revenue 451,293 414 733 378,995 1,251,090 1,123,833 
+2. Segment Results " 
+Profit / 0oss) before finance costs (net), charity and donation, exceptional 
+items (net) and tax 
+• Mobile Services India 74,980 61,892 47,945 185,285 139,909 
+• Mobile Services Africa" 31,760 31,113 34,139 90,837 106,994 
+• Mobile Services South Asia@ . . (645) (503) (1,636) 
+• Airtel Business 13,828 14,392 15,007 42,957 45,211 
+• Passive Infrastructure Services5 27,843 10,304 6,674 46,726 18,110 
+-Homes Services 3,293 3,383 2,997 10,159 8,727 
+-Digital TV Services 313 12 909 1,158 2,304 
+-Others 694 516 376 1,505 619 
+Total 1.52,711 121,612 107,402 378,124 320,238 
+-Unallocated (456) (494) (458) (1,449) (1,244) 
+-Inter-segment eliminations (3,903) (170) (212) (4,219) (274) 
+Total segment results 148,352 120,948 106,732 372,456 318,720 
+Less: 
+(i) Finance costs (net)'" 54,396 53,189 63,089 157,348 167,140 
+(ii) Charity and donation 493 248 1,257 1,231 1,402 
+iii) Exceotional items (net) (75,456' 8,537 1,302 (74,269) 51,168 
+Profit before tax 168,919 58,974 41.084 288,146 99,010 
+3. Segment Assets " 
+-Mobile Services India 2,823,706 2,857,693 2,801,080 2,823,706 2,801,080 
+• Mobile Services Africa* 921,821 836,499 756,143 921,821 756,143 
+-Mobile Services South Asia@ . 7,925 7,925 
+• Airtel Business 289,112 281,019 257,054 289,112 257,054 
+• Passive Infrastructure Services5 973,055 303,299 267,924 973,055 267,924 
+• Homes Services 96,132 88,815 69,593 96,132 69,593 
+-Digital TV Services 53,288 54,441 52,360 53,288 52,360 
+• Others 46,259 45,491 42,473 46,259 42,473 
+Total segment assets 5,203,373 4,467,257 4,2.54,552 5,203,373 4,2.54,552 
+• Unallocated 241,941 204,235 268,418 241,941 268,418 
+-Inter-seQment eliminations (436,6781 (61,671) (66,043) (436,678) (66,043) 
+Total assets 5,008,636 4,609,821 4,456,927 5,008,636 4,456,927 
+4. Segment IJabilities 
+-Mobile Services India 1,353,344 1,238,070 1,174,471 1,353,344 1,174,471 
+• Mobile Services Africa* 529,553 502,624 360,454 529,553 360,454 
+-Mobile Services South Asia@ - 5,428 . 5,428 
+-Airtel Business 141,747 145,654 134,077 141,747 134,077 
+• Passive Infrastructure Services5 263,676 - - 263,676 . 
+-Homes Services 72,897 68,145 54,754 72,897 54,754 
+• Digital TV Services 66,122 66,618 63,584 66,122 63,584 
+• Others 3,440 2,820 1,333 3,440 1,333 
+Total segment liabilities 2,430,n9 2,023,931 1,794,101 2,430,ng 1,794,101 
+• Unallocated % 1,543,363 1,549,521 1,705,493 1,543,363 1,705,493 
+-Inter·seQment eliminations (479,829) (66,661' (78,136) (479,829) (78,136) 
+Total 6abi&ties 3,494,313 3,506,791 3,421,458 3,494,313 3,421,458 
+• Including Mobile Money Services. 
+@ Mobile Services South Asia segment has been disposed, effective June 26, 2024. 
+s Passive Infrastructure services (earlier Tower Infrastructure) represe Ions of Indus Towers (refer note 6) 
+A Includes share of results / net assets of associates and joint ven !I ( t e 
+• This is net of dividend income, interest income, income on F" IIMjiilm~~~~ aln / loss (net) on derivative financial instrumen ts. 
+,. Mainly includes borrowings (including deferred payment llabil ai;)­
+l.. 
+ro 
+.s::. 
+o) -Rs. In Millions) 
+Previous 
+year ended/ 
+Asof 
+March 
+31, 2024 
+Audited 
+850,488 
+411,841 
+3,773 
+208,209 
+. 
+49,701 
+30,448 
+1,875 
+1,556,335 
+56,511 
+1,499,824 
+188,195 
+135,823 
+(2,258) 
+60,415 
+26,304 
+11,972 
+2,939 
+996 
+424,386 
+(1,780) 
+(429) 
+422,ln 
+217,339 
+2,325 
+75,723 
+126,790 
+2,796,078 
+768,749 
+8,256 
+263,824 
+276,010 
+75,901 
+48,413 
+43,566 
+4,280,797 
+226,057 
+(61,544) 
+4,445,310 
+1,174,043 
+398,117 
+5,855 
+132,076 
+. 
+54,070 
+61,521 
+1,835 
+1,827,517 
+1,641,379 
+(79,225' 
+3,389,671 
+Notes to the Audited Consolidated Financial Results 
+1. The Audited Consolidated Financial Results for the quarter and nine months ended December 31, 2024 have been reviewed 
+by the Audit Committee and approved by the Board of Directors at their respective meetings held on February 06, 2025. 
+2. These Audited Consolidated Financial Results are compiled from the Audited Interim Condensed Consolidated Financial 
+Statements for the quarter and nine months ended December 31, 2024, Audited Interim Condensed Consolidated Financial 
+Statements for the quarter and six months ended September 30, 2024 and Audited Consolidated Financial Statements for 
+the year ended March 31, 2024. The Audited Interim Condensed Consolidated Financial Statements for the quarter and 
+nine months ended December 31, 2024 have been prepared in accordance with Indian Accounting Standard ('Ind AS') 34 
+'Interim Financial Reporting ' as prescribed under Section 133 of the Companies Act, 2013 read together with Rule 3 of the 
+Companies (Indian Accounting Standards) Rules, 2015 (as amended from time to time) and other accounting principles 
+generally accepted in India. The said Audited Consolidated Financial Results represent results of the Group, and its share 
+in the results of associates and joint ventures. 
+3. The Group has changed the classification of distribution costs relating to its Africa mobile money business to better reflect 
+the nature of these costs effective April 1, 2024, accordingly the costs previously included in other operating expenses in 
+the comparative periods are reclassified to the sales and marketing expenses in the Interim Condensed Consolidated 
+Statement of Profit and Loss and Consolidated Financial Results. 
+4. During the quarter ended December 31, 2024, the Company has, in accordance with the terms of the Offering Circular dated 
+January 14, 2020 w.r.t. USO 1,000 million 1.50% Convertible Bonds due 2025 ('FCCBs'), allotted 2,678,535 equity shares 
+of the face value of Rs. 5 each fully paid up, against the conversion request of FCCBs of USO 19.15 million. Subsequent to 
+the quarter ended December 31, 2024, the Company has further allotted 3,328,592 equity shares of the face value of Rs. 5 
+each fully paid up, against the conversion request of FCCBs of USO 23.8 million. 
+5. During the quarter ended December 31, 2024, net exceptional gain of Rs. 75,456 million comprises of gain of Rs. 143,225 
+million arising from business combination of Indus (comprising of gain on fair valuation of group's existing stake in Indus of 
+Rs. 107,025 million, and on account of reversal of right to use assets and lease liabilities related to Indus); gain of Rs. 1,285 
+million on account of reversal of provision created for input tax credit on passive infrastructure services; net foreign exchange 
+gain of Rs. 11,936 million due to currency appreciation in group subsidiaries; charge of Rs. 63,586 million on regulatory 
+levies and charge of Rs. 17,404 million on account of impairment of intangible assets. 
+The net tax benefit of Rs. 21,217 million comprises of benefit of Rs. 26,599 million on account of recognition of deferred tax 
+asset on unrecognized losses and charge of Rs. 5,382 million on above exceptional items, is included under tax expense/ 
+(credit). 
+The net benefit allocated to non-controlling interest on the above exceptional items is Rs. 4,003 million 
+6. Consequent to the change in composition of Board of Directors of Indus Towers Limited ('Indus') with effect from closure of 
+business hours on November 18, 2024, Indus is controlled by the Group in terms of section 2(27) of the Companies Act, 
+2013 and Ind AS 110 'Consolidated Financial Statements'. Indus has been consolidated with effect from November 19, 2024 
+and accordingly previous period numbers are not comparable . 
+In accordance with Ind AS 103 'Business Combinations ', the identified total assets and liabilities assumed ('total net assets') 
+of Indus have been fair valued at Rs. 435,377 million on a provisional basis. The excess of, i) fair value of group's existing 
+stake of Rs. 426,303 million and ii) fair value of non-controll ing interest (measured on the basis of proportionate stake of 
+non-controlling interest in total net assets of Indus) amounting to Rs. 217,667 million, over the fair value of total net assets 
+of Indus of Rs. 435,377 million has been recognised as goodwill amounting to Rs. 208,593 million. 
+7. Indus in its audited consolidated financial results for the quarter ended December 31, 2024, reported financial and funding 
+status relating to one of its large customer ('customer') . The said customer accounts for substantial part of revenue from 
+operations for the quarter ended December 31, 2024, and constitutes a significant part of trade receivables outstanding and 
+unbilled revenue as at December 31, 2024. Necessary provisioning has been done against the amount outstanding . 
+Further, Indus reported that it will continue to monitor the financial condition of the said customer . Considering the 
+development relating to funding, Indus believes that it will realise the carrying amount of receivable (including unbilled 
+revenue) and property, plant and equipment associated with the said customer . 
+8. During the quarter ended December 31, 2024, the Company has paid Rs. 36,263 million to the Department of 
+Telecommunications , Government of India. With this, the Company has fully pre-paid all deferred liabilities pertaining to 
+spectrum acquired in auction of ye 
+9. During the quarter ended December 31, 2024, Airtel Africa pie ('Airtel Africa'), a subsidiary of the Group completed its 
+previously announced share buy-back programme for USO 100 million, announced on March 01, 2024. As part of this 
+programme, Airtel Africa bought back an additional USO 12 million worth of shares during the quarter, bringing the total buy 
+back to USO 100 million. This resulted in an increase in the Group's effective shareholding in Airtel Africa from 56.93% to 
+57.06%. 
+Subsequently, Airtel Africa announced the commencement of second share buy-back programme for USO 100 million over 
+two tranches of USO 50 million each. The first tranche commenced on December 23, 2024 and expected to end on or before 
+April 24, 2025. As of December 31, 2024, Airtel Africa bought back USO 2.6 million worth of shares under this programme , 
+further increasing the Group's effective shareholding in Airtel Africa from 57.06% to 57.09%. 
+10. In view of consumer price index (CPI) issued by the International Monetary Fund, which management has determined to be 
+most appropriate inflation index to reflect the change in purchasing power, Malawi met the criteria to be designated as a 
+hyperinflationary economy under Ind AS 29 'Financial Reporting in Hyperinflationary Economies' . The Group has therefore 
+applied hyperinflationary accounting at its Malawi operations whose functional currency is the Malawian Kwacha for the 
+reporting period commencing April 1, 2024. 
+The application of hyperinflationary accounting has resulted in net decrease of profit after tax by Rs. 838 million in the quarter 
+ended December 31, 2024. On the balance sheet, non-monetary net assets and correspondingly equity has increased by 
+Rs. 34,712 million, out of which Rs. 25,659 million has been accounted as opening balance sheet adjustment as of April 1, 
+2024 and the difference has been recognised through other comprehensive income. 
+11. The disclosure required as per the provisions of Regulation 52(4) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 is given below: 
+Quarter ended Nine months ended 
+December September December December December 
+s.no. Particutars* 31, 2024 30, 2024 31, 2023 31, 2024 31, 2023 
+Aud'rted Aucfited Aucfrted Aucfrted Audited 
+(i) Debt-equity @lio -[no. of times] 0.89 1.28 1.43 0.89 1.43 
+(ii) Net worth -[Rs. Million] 1,016,848 852,747 770,In 1,016,848 770,177 
+(iii) Current @tio -[no, of times] 0.42 0.36 D.48 0.42 0.48 
+(iv} Long term debt to working capltlll -[no. of timesjA {1.22} {1.18} {2.06} (1.22} (2.06) 
+(v) Current liability @tio -[no. of times] 0.46 0.44 0.39 0,46 0.39 
+(vi) Total deblli to total asselli-[no. of times] 0.41 0.49 0.49 0.41 0.49 
+{vii} Debtors turnover· [no. of days] 16 12 13 17 12 
+{viii} Debt service coverage ratio CDSCR1 -[no. of times] 3.04 2.54 2.77 2.20 2.48 
+{ix} Interest service coverage ratio ('1SCR1 -[no. of times] 5.54 4.93 5.01 5.08 5.04 
+(x) Bad deblli to account receivable ratio (%) 0.1% 0.1% 0.1% 0.3% 0.1% 
+(xi) Operating margin(%} 28.6% 26.2% 25.7% 26.3% 26.2% 
+(xii} Net profit margin(%} 35.8% 10.0% 7.6% 20.0% 5.8% 
+(xiii} Debenture redemption reserve -[Rs. Million] N.A. N.A. 2,450 N,A. 2,450 
+(xiv) Capital redemption reserve -[Rs. Million] N.A. N.A. N.A. N.A. N.A. 
+(xv) Oullitanding redeemable preference shares -[Rs. Million] N.A. N.A. N.A. N,A, N.A. 
+* As the principal activities of the Group are in the nature of services, hence inventory turnover ratio is not relevant. 
+A Net working capital is negative 
+The basis of computation of above parameters is provided in the table below: Year ended 
+March 
+31, 2024 
+Aud'rted 
+1.34 
+800,561 
+0.42 
+(1.63) 
+0.41 
+0.48 
+11 
+2.45 
+5.00 
+9.5% 
+25.8% 
+5.7% 
+1,400 
+N.A. 
+N.A. 
+{i) Debt -equity ratio# (Non-current borrowings(+) current borrowings(-) cash and cash equivalents 
+(-) term deposits with bank)/ equity 
+• excludin lease liabilities 
+(ii) Net worth Basis Section 2(57) of the Companies Act, 2013 and does not include capital 
+reserve, debenture redemption reserve and non-controlling interests. 
+(iii) Current ratio Current assets/ current liabilities 
+(iv) Long term debt to working Non-current borrowings I (current assets(-) current liabilities) 
+capital 
+(v) Current liability ratio Current liabilities / total liabilities 
+(vi) Total debts to total assets (Non-current borrowings(+) current borrowings(+) lease liabilities)/ total assets 
+(vii) Debtors turnover Average trade receivables/ (revenue from operations/ no. of days for the periods) 
+(viii) DSCR Profit before depreciation , amortisation , finance costs, share of profit / (loss) of 
+associates and joint ventures, exceptional items and tax / (interest expenses (+) 
+principal repayments of long-term debt (excluding pre-payment of deferred payment 
+liabilities)(+) payment of lease liabilities) 
+(ix) ISCR Profit before depreciation , amortisation, finance costs, share of profit / (loss) of 
+associates and joint ventures, exceptional items and tax/ interest expenses 
+(x) Bad debts to account Bad debts written off I average trade receivable (gross of allowances for doubtful 
+receivable receivables) 
+(xi) Operating margin (Profit before depreciation, amortisation , finance costs, share of profit / (loss) of 
+associates and joint ventures, exceptional items and tax (-) depreciation and 
+amortisation expenses (-) other income)/ revenue from operations 
+(xii) Net profit margin Profit after tax/ revenue from operations 
+12. All the amounts included in the Audited Consolidated Financial Results are rounded off to the nearest million, except per 
+share data and unless stated otherwise . 
+For harti Airtel Limited 
+\ 
+G 
+V n & Managing Director 
+DI . 8 
+New Delhi 
+February 06, 2025 
+Notes: 
+a) 'Bharti Airtel' or 'Company ' stands for Bharti Airtel Limited 
+b) 'Group' or 'Consolidated' stands for Bharti Airtel Limited together with its subsidiaries 
+c) For more details on the Audited Consolidated Financial Results, please visit our website 'www.airtel.in' 

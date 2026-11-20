@@ -1,0 +1,641 @@
+
+=== page 1 ===
+ 
+ 
+ 
+Letter of  
+to 
+Our reference  Siemens L imited  
+Management: Sunil Mathur   
+CIN: L28920MH1957PLC010839  Birla Aurora, Level 21, Plot No. 1080, 
+Dr. Annie Besant Road, Worli, 
+Mumbai – 400030  
+India  Tel.: +91 22 6251 7000  
+Website: www.siemens.co.in  
+E-mail: Corporate -
+Secretariat.in@siemens.com  
+Registered Office: Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai – 400030 . Telephone +91 22 6251  7000. Fax +91 22 24362403 . 
+Sales Offices: Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Coimbatore, Gurgaon, Hyderabad, Jaipur, Jamshedpur, Kolkata, Lucknow, 
+Kochi, Mumbai, Nagpur, Navi Mumbai, New Delhi, Puducherry, Pune, Vadodara, Visakhapatnam . 
+ 
+ 
+ 
+14th May, 202 4 
+ 
+National Stock Exchange of India L imited  
+BSE L imited  
+ 
+ 
+Scrip Code – 
+ 
+National Stock Exchange of India L imited : SIEMENS EQ  
+BSE L imited : 500550  
+ 
+Information pursuant to the SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015  (“Listing Regulations’)  
+ 
+Dear Sir / Madam,  
+ 
+Pursuant to Regulation 30, 46 and other applicable provisions of the Listing Regulations, please 
+find enclosed the presentation made at  the Analysts / Institutional Investors call held today i.e. 
+14th May, 2024 .  
+ 
+The said presentation is also available on the website  of the Company at: 
+https://new.siemens.com/in/en/company/investor -relations/analyst -meet.html   
+ 
+ 
+Kindly take the  above information on record.  
+ 
+ 
+Yours faithfully,  
+ 
+For Siemens Limited  
+ 
+ 
+ 
+ 
+Ketan Thaker  
+Company Secretary  
+ 
+ 
+=== page 2 ===
+Analyst Call | Mumbai | 14.05.2024Welcome to Siemens
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 1
+=== page 3 ===
+Disclaimer
+This presentation  has been  prepared  solely  for use at the investor/analyst  call. By attending  the call where  this presentation  is made,  or by 
+reading  the presentation  slides,  you agree  to be bound  by the following  limitations : 
+a.Siemens  Limited  ("Siemens"  or "Company")  cannot  give assurance  to the correctness  of such  information  and statements . These  forward -
+looking  information  and statements  can generally  be identified  by the fact that they do not relate  only to historical  or current  facts . Forward -
+looking  statements  sometimes  use terminology  such  as "targets",  "believes",  "expects",  "aims",  "assumes",  "intends",  "plans",  "seeks",  
+"will",  "may",  "anticipates",  "would",  "could",  "continues",  "estimate",  "milestone"  or other  words  of similar  meaning  and similar  expressions  
+or the negatives  thereof ; 
+b.By their nature,  forward -looking  information  and statements  involve  known  and unknown  risks,  uncertainties  and other  important  factors  
+that could  cause  the actual  results,  performance  or achievements  of the Company  to differ  materially  from any future  results,  performance  
+or achievements  that may be expressed  or implied  by the forward -looking  information  and statements  in this presentation . Should  one or 
+more  of these  risks or uncertainties  materialize,  or should  any underlying  assumptions  prove  to be incorrect,  the Company's  actual  
+financial  condition  or results  of operations  could  differ  materially  from that or those  described  herein  as anticipated,  believed,  estimated  or 
+expected ; 
+c.Given  the aforementioned  uncertainties,  prospective  or present  investors  are cautioned  not to place  undue  reliance  on any of these  
+forward -looking  statements ; 
+d.No part of this presentation,  nor the fact of its distribution,  should  form the basis  of, or be relied  on in connection  with, any contract  or 
+commitment  or investments  decision  whatsoever . Investor/prospective  investor  must  seek  advice  on specific  situation  from well-informed  
+legal,  investment,  tax, financial,  and management  professionals ; 
+e.This presentation  and its contents  must  not be distributed,  published  or reproduced . This presentation  does  not constitute  a 
+recommendation  regarding  the securities  of the Company . 
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 2
+=== page 4 ===
+Unrestricted | © Siemens 2024 | 2024 -05-14 | FY24 Analyst Meet Page 3❑Global Economy recovering well 
+❑Indian Economy
+• Maintains strong performance and growth momentum
+•GDP growth (FY25 - 7%) 1, IIP (147.2) 2, Manufacturing PMI (59.12) 3
+•Stable inflation: 4.9% 3, interest rates: 6.5% 3 
+•Capacity utilization of manufacturing industry steadily improving
+•Prospects of broad -based private capex rising
+1) RBI forecast 3) Mar 2024 2) Feb 2024Resilience in Global economy; India maintains growth momentum
+=== page 5 ===
+Unrestricted | © Siemens 2024 | 2024 -05-14 | FY24 Analyst Meet Page 4
+Siemens’ Key Markets growing
+❑ Strong Vertical market indicators:
+•Core Verticals:  Data Centers, Power Utilities (T&D), Metals, Cement, Automotive, 
+E-Vehicles, Pharma
+•Railways  continue ordering Rolling Stock, Signaling and Electrification projects
+•Emerging Verticals:  Semiconductors, Batteries, Electronics, Green hydrogen
+❑ Some large Government projects deferred
+❑ Slowdown in ordering of industrial automation products due to normalization of demand 
+following shorter delivery cycles
+We strongly believe that India is really taking off. The last years 
+have shown that the growth rates are amazing. 
+You are attracting more high -quality products, more complex products 
+are manufactured in India
+Roland Busch
+President and CEO, Siemens AG
+
+=== page 6 ===
+Strong revenue growth with high profitability
+Profit after Tax
+(% of revenue)New Orders
+(y-o-y)
+-83.4%Revenue
+(y-o-y)
++19.3%
+Profit before Tax
+(% of revenue)
++22.2%          +17.1%EBITDA 
+(% of revenue)
++15.0%
+Earnings per Share
+(in INR)
+₹ 25.2
+Q2 FY 24:
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 5
+=== page 7 ===
+Cash from 
+Operations  (in billion INR)
+₹4.3Strong performance with profitability above 12%, book -to-bill > 1, 
+cash improved
+Profit after Tax
+(% of revenue)New Orders
+(y-o-y)
+-69.5%Revenue
+(y-o-y)
++20.6%
+Profit before Tax
+(% of revenue)
++18.5%          +14.1%EBITDA 
+(% of revenue)
++13.6%
+H1 FY 24:
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 6
+=== page 8 ===
+•
+Localization, Sustainability, 
+technology upgradation!
+•
+Capacity expansion
+•
+Investment: 
+ ~ INR 3.3 billion 
+•
+Go Live: Dec ’26Siemens is investing: Expansion of the GIS Factory (SI) in Goa
+Unrestricted | © Siemens 2024 | 2024 -05-14 | FY24 Analyst Meet Page 7
+=== page 9 ===
+Siemens is investing: Metro train manufacturing in MO, Aurangabad
+•
+A global hub: will serve Australia, ME, Asia 
+•
+Investment: 
+ ~ INR 
+ 1.9 billion
+•
+Go Live: FY 27
+Unrestricted | © Siemens 2024 | 2024 -05-14 | FY24 Analyst Meet Page 8
+=== page 10 ===
+Proposed Demerger of Energy Business
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 9
+=== page 11 ===
+Siemens Limited – An Overview
+Proposed Demerger of Energy Business
+Energy Business Highlights
+Other Business Segments Highlights
+Financial Overview
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 10
+=== page 12 ===
+Siemens Limited | FY 2023 – An Overview 
+Digital Industries Smart Infrastructure   Businesses
+Mobility Energy
+Proposed to be demerged
+INR 47.5 Bn
+INR 43.4 Bn
+14.8%
+New Orders
+Sales
+EBITDA MarginINR 65.6 Bn
+INR 54.0 Bn
+13.6%INR 283 Bn
+INR 19.7 Bn
+3.5%INR 67.7 Bn
+INR 59.9 Bn
+12.7%
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 11
+=== page 13 ===
+Siemens Limited – An Overview
+Proposed Demerger of Energy Business
+Energy Business Highlights
+Other Business Segments Highlights
+Financial Overview
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 12
+=== page 14 ===
+•Identical  shareholding  of both companies  post demerger  
+•Entire  process  expected  to be completed  within  CY 2025Transaction Overview
+Transaction Structure
+ Structure Post Demerger
+Siemens Limited (“SL”) to demerge its Energy Business into a separately listed entity, Siemens Energy India Limited (“SEIL”)
+100%
+Transfer of Energy 
+Business via 
+demerger1
+Allotment of SEIL 
+shares to SL 
+shareholders2Public
+Siemens Limited 
+(SL)Siemens Energy 
+India Limited 
+(SEIL)25.0% 6.0% 69.0%Public
+Siemens Limited 
+(SL)25.0% 6.0% 69.0%
+Listing of SEIL 
+at the stock 
+exchanges3Siemens Energy 
+India Limited 
+(SEIL)Public
+25.0% 6.0% 69.0%
+Shareholders of Siemens Ltd will get 1 (one) share of SEIL each for 
+every 1 (one) share each held in SL
+Share Entitlement Ratio12
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 13
+=== page 15 ===
+The proposed demerger will create two strong, independent companies, focusing on their 
+core activities, portfolios and capital allocationBusiness Focus
+Market Focus
+Unlock Shareholder 
+ValueBoth companies will be able to execute their own strategy, with a tailored go -to-market 
+and operational approach to leverage the full potential of the Indian and export marketsStrategic Rationale
+▪Aims  to become  the most  valued  energy  technology  company
+▪Supporting  customers  in transitioning  to a more  sustainable  
+world▪A leading  technology -focused  company  in Industry,  
+Infrastructure  and Mobility
+▪Empowering  customers  to transform  their industries  and 
+markets  
+▪Combining  the real and the digital  worldsSiemens Limited Siemens Energy India LimitedTwo strong and independent companies
+The proposed demerger will unlock the value of both businesses for shareholders
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 14
+=== page 16 ===
+SL expects to complete the demerger and listing in CY 2025Key Milestones and Indicative Timelines
+Board Approval
+Stock 
+Exchange / 
+SEBI 
+ApprovalsNCLT Petition &
+Regulatory
+Approvals
+Listing & 
+Trading  
+Approvals 
+NCLT Application
+    & Shareholder /
+Creditor
+Approvals
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 15
+=== page 17 ===
+Siemens Limited – An Overview
+Proposed Demerger of Energy Business
+Energy Business Highlights
+Other Business Segments Highlights
+Financial Overview
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 16
+=== page 18 ===
+Energy | Investment Highlights
+Siemens 
+Energy 
+India 
+LimitedHighly attractive growth opportunities in sustainable technology solutions 2
+Technology leadership and comprehensive product portfolio 3
+Prudent capital allocation to fuel growth 4India: Strong macros and mega reforms shaping the energy market 1
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 17
+=== page 19 ===
+India: Strong macros and mega reforms shaping the energy market 
+Economy​
+7.0% 
+FY25 GDP forecast  
+(Feb’24) 
+5.1% 
+Inflation
+1)
+ 
+in Feb’24
+6.1
+% 
+y
+-
+o
+-
+y growth (Apr
+ -
+Dec)
+IIP
+2)
+ 
+in Dec’23
+Manufacturing index grew 5.6% y
+ -
+o
+-
+y 
+(Apr
+–
+Dec)
+Source : RBI, MOSPI, Economic Times  
+5
+th
+ 
+largest economy, expected to become 
+the 3
+rd
+ 
+largest economy in the world, with 
+a GDP of USD 5 Tn in next 3 yearsNational Infrastructure pipeline 
+~INR 110 Tn capex until 2025, 24% allotted to energy 
+Gati Shakti  
+Speed up Infrastructure projects, 11 industrial corridors
+Production Linked Incentive Scheme 
+~INR 2 Tn  outlay across 13 sectors
+incl. BESS, Solar PV, EV, etc. to strengthen local mfg. 
+National Hydrogen Mission3) 
+Cabinet approved ~INR 197 Bn  for production capacity of min.~5MMT of green hydrogen by 2030 
+India’s COP27 Strategy submitted to UNFCCC4) reiterating COP26 five pledges5)  & 
+Transmission plan 2030 was also released by CEA for creating transmission 
+infrastructure to evacuate 537 GW of RE  
+Mega Reforms Shaping the Energy Market
+1) Consumer Price Inflation; 2) Index of Industrial Production;  3 ) Published on 4th Jan’23; 4) United Nations Framework Convention on Climate Change; 5)  COP26 pledges: by 2030: 500GW RE, 
+meet 50% of energy requirement by RE, reduce 1BT CO2, reduce carbon intensity of its economy by <45%; and by 2070: achieve Net Zero1
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 18BESS – Battery Energy Storage System; Solar PV: Solar Photovoltaic: EV: Electric Vehicles; RE: Renewable energy
+=== page 20 ===
+Highly attractive growth opportunities in sustainable technology solutions
+25210 214235266151181329500
+257258252129393428610820
+9%
+14%
+3%
+1) CEA, IMF, Global Data Report; 2) CEA; 3) Post COP26 announcement; 4) Ministry of Power; 5) Draft NEP of CEA, Dec 2023SE India opportunities until 2030
+CAGR
+21-30RE Coal + Lignite Gas Others
+2021 2023 2027 2030RE – 500 GW
+Wind – 140GW
+PV – 280GW
+Green Hydrogen – 5 MMTPA
+BESS – 208GWh 3)
+Industrial 
+turbines – 16GW2
+India Energy Market Outlook1) (in GW)
+$5 trillion by 2026 -27Economy 
+$3.94 trillion 
+        GDPPeak Demand 
+243 GW 
+Peak Demand deficit 
+1.4% (2023 -24)Generation
+428 GW install ed 
+grow to ~ 820 GW by 2030Transmission
+1,251  GVA 4)
+grow by +576 GVA 
+to 1,827 GVA  by 2026 -27 5) 
+RE Transmission2) 
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 19Installed Capacity in GW
+GW: GigaWatt ; MMTPA: Million metric tonnes  per annum; GVA: Giga -Volt Ampere
+=== page 21 ===
+Grid Technologies, 66 kV -800 kV Transformation of Industry Gas Services Project Management Hub
+1) Gas Insulated  Switchgear 2) Air Insulated  SwitchgearHigh Voltage  
+GIS1)
+Electrification, Automation &  
+Digitalization solutionsServices
+GasTurbinesGeneration, Transmission &  
+Industrial projects
+High Voltage
+Power transformers
+High Voltage Substations, AC &DCIndustrial Steam Turbines
+ Modification &Upgradation
+Steam Turbines
+High Voltage  
+AIS2)
+Technology leadership and comprehensive product portfolio3
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 20
+=== page 22 ===
+Prudent capital allocation to fuel growth
+FY23 FY25E15,00030,000
+2x
+Capacity in MVAAnnounced Capex
+Q2 Key ProjectsQ1 Key Projects
+Leading power producer 
+400 KV GIS 
+EPC project for construction of S/s
+Leading oil explorer and producer
+SGT A
+ -
+20 turbines
+Modernization & Upgradation of Gas turbinesEnergy business plans to double its power transformer 
+production capacity at a cost of INR 3,600 Mn4
+Leading oil company 
+220 KV GIS 
+EPC project for construction of S/s
+Power Company outside India 
+400 KV GIS 
+Supply of product
+Order Book for Energy Business 
+ a
+s of March 31, 2024 stood at 
+ INR 97.4 Bn
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 21MVA: Mega -Volt Ampere; GIS: Gas Insulated  Switchgear; S/s: Substations
+=== page 23 ===
+Siemens Limited – An Overview
+Proposed Demerger of Energy Business
+Energy Business Highlights
+Other Business Segments Highlights
+Financial Overview
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 22
+=== page 24 ===
+Siemens Limited | Business Overview
+Consulting and supporting customers 
+from the discrete and process 
+industries in their digital 
+transformation.Shaping connected mobility for rail 
+and road, enabling mobility operators 
+worldwide to make infrastructure 
+intelligent and increase value 
+sustainably.Intelligently connects energy systems, 
+buildings and industries, enhancing 
+the way we live and work to 
+significantly improve efficiency and 
+sustainability. 
+3-Year 
+Revenue CAGR 1)
+3-Year Average 
+EBITDA % of Revenue 2)32.9%
+11.6%
+28.1%
+11.3%
+32.9%
+7.3%Digital Industries Smart Infrastructure Mobility
+1) FY20 to FY23; 2) Average of FY21, FY22 and FY23
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 23
+=== page 25 ===
+Siemens Limited | Product spectrum and Opportunities across businesses 
+accelerating growth
+Factory
+Automation
+Process
+Automation
+Customer
+Services
+Motion
+ControlOpportunities:
+•Announced outlay by GoI of ~INR 2 trillion for 
+implementing PLI Schemes for 14 key manufacturing 
+sectors 
+•Industry 4.0  adoption
+•High-end machine building and  digitalizationDigital Industries
+Smart Infrastructure
+Electrification
+and
+AutomationElectrical
+ProductsRegional  
+Solutions and  
+ServicesBuilding
+ProductsGrid
+SoftwareeMobility
+Opportunities:
+•Investments in Data Centers, Commercial buildings
+•Industrial infrastructure; growth in Metals, Cement, 
+O&G, E -Mobility
+•Upgradation of distribution utilities
+Mobility
+Opportunities:
+▪E-locomotives
+▪Propulsion systems
+▪Trainsets
+▪Metro projects
+▪Bogies
+Rail
+InfrastructureRolling
+StockCustomer
+ServicesTurnkey
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 24
+=== page 26 ===
+Siemens India will drive Digitalization of Industrial business via Siemens Xcelerator
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 25108x Use cases across enterprises & verticals
+Ecosystem PartnersBy combining the real 
+and the digital worlds, 
+we support our customers 
+along key impact areas.
+OTIT
+Field devices, sensors …
+Cloud
+Edge Computing
+Applications & Software
+Open
+Flexible
+Interoperable
+As a service
+Cybersecure
+Easy FastScalableReal Digital10Water
+9
+Pharmaceuticals
+10
+Machine Tools7Food &
+Beverages6Chemical1Batteries
+43
+2Water
+8Power Utilities
+7Pharmaceuticals
+5Higher Education
+9
+Healthcare9
+Datacenters25Commercial
+ Buildings
+65Smart InfrastructureDigital Industries
+
+=== page 27 ===
+Siemens Limited – An Overview
+Proposed Demerger of Energy Business
+Energy Business Highlights
+Other Business Segments Highlights
+Financial Overview
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 26
+=== page 28 ===
+Energy: Robust financial performance
+Q2
+FY23Q3
+FY23Q4
+FY23Q1
+FY24Q2
+FY24Q2
+FY23Q3
+FY23Q4
+FY23Q1
+FY24Q2
+FY2462.367.7
+53.059.917.4
+11.720.3
+15.3 14.918.3
++12.6% +11.9%+13.0%figures in billion INRNew Orders
+RevenueFY22 FY23
++9%
+FY22 FY23+12.7%+11.9%
++13%
++12%
++6%
+― xx.x% EBITDA % of revenue
+Unrestricted | © Siemens 2024 Page 2728.2
+19.6
+11.416.3
++12.4%+15.0%•Book -to-bill at 1.20
+•Double digit growth in orders  
+for Q2 FY 24 due to growth in 
+Grid Technologies and Gas 
+services
+•Stable Revenue growth and  
+improved profitability on 
+account of stringent Order 
+backlog execution and lower 
+NCC
+=== page 29 ===
+Financial Overview  | Digital Industries, Smart Infrastructure and Mobility
+--xx.x% EBITDA % of revenuefigures in billion INR
+45.9 47.5New Orders Revenue
+34.943.4
++24%52.665.6
+33.4283.0
++746%
+45.0 54.0
++20%
+12.819.7
++53%
+-26%
+29.9 34.3 263.4
+21.1 24.2
+7.9
++29%
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 2822.2
+24.336.4
+31.2FY 22 FY 23 H1 FY 23 H1 FY 24
+FY 22 FY 23 H1 FY 23 H1 FY 24+11.1% +14.8% +18.3% +14.4%FY 22 FY 23 H1 FY 23 H1 FY 24
+FY 22 FY 23 H1 FY 23 H1 FY 24FY 22 FY 23 H1 FY 23 H1 FY 24
+FY 22 FY 23 H1 FY 23 H1 FY 24+10.4% +13.6% +13.5% +15.0% +6.7% +3.5% +4.4% +7.6%5.2
+13.3
++68%*
++4%
++6%
+ +25%
+ -98%
++15%
+* Including Portfolio Companies
+=== page 30 ===
+Carve -Out Financials | SL (ex -Energy Business) and Energy Business for H1FY24
+ParticularsSiemens Ltd. 
+(Pre-Demerger)
+FY23 H1 FY24
+Order Book 455.2 469.8
+New Orders 463.8 111.5
+Revenue 177.0 96.4
+EBITDA 22.4 13.1
+EBITDA Margin % 12.7% 13.6%
+Net worth 130.2 139.1figures in billion INR
+ParticularsSEIL / Energy 
+Business 
+(Post -Demerger)SL excl. Energy 
+Business
+(Post -Demerger)
+FY23 H1 FY24 FY23 H1 FY24
+Order Book 77.2 97.4 378.0 372.4
+New Orders 67.7 47.8 396.1 63.7
+Revenue 59.9 27.7 117.1 68.7
+EBITDA 7.6 3.9 14.8 9.2
+EBITDA Margin % 12.7% 14.1% 12.6% 13.4%
+Net worth 28.7 28.3 101.5 110.8
+Order Book refers to Total Outstanding Orders as of the respective period
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 29
+=== page 31 ===
+In summary … 
+•Global economy recovering; Indian economy robust ; Vertical markets on growth path with major 
+investment by large players
+•Base effect in new orders due to Mega Project in H1 FY23; Year end Order Income growth plans intact
+•Robust revenue and profitability in H1 FY24
+•CAPEX ofover INR 10 Billion
+•Proposed Energy Business Demerger
+oWill create two strong, independent companies, focusing on their core activities, portfolios and 
+capital allocation
+oBoth companies will be able to execute their own strategy, with a tailored go -to-market and 
+operational approach to leverage the full potential of the Indian and export markets
+oConsequently, the proposed demerger will unlock the value of both businesses for shareholders
+Unrestricted | © Siemens 2024 | 2024 -05-14 | FY24 Analyst Meet Page 30
+=== page 32 ===
+Unrestricted | © Siemens 2024 | 2024 -05-14 | Analyst Call Page 31

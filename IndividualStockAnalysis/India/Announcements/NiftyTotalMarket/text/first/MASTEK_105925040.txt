@@ -1,0 +1,237 @@
+ 
+Mastek Limited  
+804/805, President House, Opp. C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad –  380 006  
+Tel: +91 -79-2656 -4337 | Email: info@mastek.com  | Web: www.mastek.com  | CIN: L74140GJ1982PLC005215   
+ 
+SEC/ 44/2024- 25                                                                                                                July 24, 2024  
+  
+ 
+Listing Department  
+BSE Limited  
+25th Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort,  
+Mumbai -400 001 
+SCRIP CODE: 523704  Listing Department  
+The National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G, 
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051 
+SYMBOL: MASTEK  
+ISIN: INE759A01021  
+ 
+ Dear Sir(s) / Ma'am(s),  
+ 
+Sub: Transcript of the earnings conference call held on the financial performance for the Quarter 
+ended June 30, 2024 
+ Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed the transcript of the earnings conference call held on the financial performance for the quarter ended June 30, 2024, conducted on July 18, 2024, for your information and records.  
+ The Transcript  of the conference call can also be accessed  from  the website  of the Company at 
+https://www.mastek.com/investor -financial -information/  
+ 
+  Thanking you, 
+ Yours  faithfully,  
+For Mastek Limited     Dinesh Kalani  
+SVP – Group Company Secretary  
+ Encl:  A/A 
+ 
+
+ 
+Page 1 of 15 
+   
+“Mastek Limited  
+ 
+Q1 FY'2 5 Earnings Conference Call ” 
+July 18, 202 4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                   
+ 
+ 
+MANAGEMENT : MR. HIRAL  CHANDRANA  – CHIEF EXECUTIVE  
+OFFICE R, MASTEK LIMITED   
+ MR. ARUN AGARWAL  – CHIEF FINANCIAL OFFICER , 
+MASTEK LIMITED  
+  
+MODERATOR : MS. ASHA GUPTA  – E&Y  INVESTOR RELATION  
+ 
+
+  Mastek  Limited  
+  July 18, 202 4 
+ 
+Page 2 of 15 
+ 
+Moderator:  Ladies and gentlemen good day and welcome to the Mastek Limited Earnings Conference Call. 
+As a reminder, all part icipant  lines will be in the listen -only mode  and there will be an 
+opportunity for you to ask questions after the presentation concludes. Should you need assistance 
+during th e conference call, please signal an operator by pressing star  and then zero on your 
+touch tone phone.  Please note that thi s conference is being recorded.  
+ I now hand over the call to Ms. Asha Gupta. Thank you and over to you, Ms. Asha Gupta.  
+Asha Gupta : Good evening to all of you.  Welcome to the Q1 FY '25 Earnings Call of Mastek Limited. The 
+results and presentation have already been mailed to you and you can also view them on the 
+website at www.mastek.com . 
+To take us through the results today and to answer your que stions, we have the top management 
+of Mastek, represented by Mr. Hiral Chandrana  - Global CEO,  and Mr. Arun Agarwal  - Global 
+CFO. Hiral will start the call with a business update, which will be then followed by Arun 
+providing the financial update for the q uarter.  
+ As usual, I would like to remind you that anything that is said on this call that reflects any outlook 
+for the future or which can be construed as forward -looking statements must be viewed in 
+conjunction with the risks and uncertainties that we face. These risks and uncertainties are 
+included, but not limited to what we have mentioned in the prospectus filed with the SEBI and 
+subsequent annual report that you can find on our website.  
+ Having said that, I will now hand over the call to Hiral Chand rana. Over to you, Hiral.  
+Hiral Chandrana : Thank you Asha. Good evening, everybody. Hope everyone is doing well. I will cover the 
+highlights of the quarter, followed by an update on key strategic priorities and then also give 
+some commentary on the outlook  where we see the industry and market going forward. As we've 
+reported our results, our revenue quarter -on-quarter increased by 4.3% on INR terms. Year -on-
+year is 12.1% on an INR basis. We are pleased with the revenue uptick and the momentum on 
+the top lin e. Our 12 months order book backlog, while it was flat quarter -on-quarter, increased 
+23% year -on-year. Q1 is typically a slower start to the order book, but we see some really good 
+deal momentum in pipeline building and confident about the deals in the fut ure quarters.  
+ Our operating EBITDA was a disappointment. We had some onetime hits which we'll talk about 
+in the subsequent discussion. But there were a couple of provisions that we had to make, and it 
+was at 15.2%. We had some fairly unique and differenti ated wins across multiple geographies 
+and multiple offerings. I'll just mention a few of them. One particular U.K. department, which 
+handles immigration and law enforcement, we've been working with them on our digital 
+operational dashboards and asylum and refugee management through the case working platform 
+that we have built,  and we continue to enhance that and modernize those platforms as more and 
+more volume flows through those case management systems.  
+ For a U.S. Health care client, we are modernizing their claims management platform powered by 
+Salesforce, where this particular regional health plan is looking at how to optimize and automate 
+  Mastek  Limited  
+  July 18, 202 4 
+ 
+Page 3 of 15 
+ 
+some of their claims processing. For a USD 7 billion retail recreational vehicle manufacturing 
+and distributor co mpany in U.S., we've taken over 2 digital engineering pods and won a customer 
+loyalty program, which is an account we opened 6 months back and is showing some amazing 
+traction. For one of the central banks in U.K., we have won data and analytics platform d eal, a 
+great example of synergy from our BizAnalytica acquisition where our teams work together to 
+win that against some stiff competition. We're just scratching the surface there and we see great 
+potential in building on this initial pilot going forward.  
+ These are some of the examples, but what I'm really excited here is, as we look at our top 
+strategic priorities, which we have continued to reinforce last few quarters, our Health care 
+business continues to grow, particularly in U.S. Our secure government services business, which 
+is our central government business in U.K., continues to have good pipeline. Elections were 
+moved ahead, as you know, in the U.K., so some of the uncertainty around the , the election 
+period is now behind us  and so we see a lot more clarity on the new Labour Party executing on 
+their manifesto, particularly on the NHS and health programs, the defence  programs, some of 
+which we are focused on.  
+ Account mining has been a key focus for us. We've communicated in t he past to our investors 
+and analyst community about our top 30 accounts, which roughly forms about 57% of our 
+revenue and we continue to see growing momentum on cross -selling service lines across those 
+accounts. And as you'll notice and as we have communi cated, we want to continue to grow top 
+line, not necessarily by growing number of accounts. In fact, by conscious design, we've 
+continued to reduce the number of accounts, particularly in our AMEA geography from 250 
+accounts to 175 accounts over the last 2  quarters while of course, growing top line.  So, this is an 
+example where you'll see deeper account mining, which is leading to deeper relationships as 
+well as more USD 1 million, more  USD  3 million, more  USD  5 million accounts.  
+  In the data and AI space, which is our fourth key priority, we continue to see some great 
+examples of wins, but we are particularly excited about some marquee partnerships with 
+NVIDIA, with Microsoft, with AWS that we've announced over the last few quarter s. The recent 
+one with NVIDIA is a very differentiated partnership where we are leveraging the NVIDIA 
+inference and interface micro services API to channel into multiple large language models where 
+we have built our experience, insights and correlation eng ine so that we can drive industry -
+specific use cases.  Some of the industries that we are focused on include sub -verticals in 
+manufacturing, fraud analytics within the financial services and also benefit verification use 
+cases in the Health care sector. We believe that this is truly differentiated. It's initial stages, as 
+we expand on this momentum, we will see a lot more larger deals in the coming quarters through 
+this partnership.  
+As we look ahead, there are continued macroeconomic uncertainties and  deal delays, which we 
+see in the market. So customers are still cautious when it comes to cost preservation as well as 
+high scrutiny on some of the deals and the approvals. However, we are engaged in some fairly 
+marquee programs, which are very strategic in nature.  The kinds of conversations that we're 
+having with cloud implementations, with some of the new digital engineering programs as well 
+  Mastek  Limited  
+  July 18, 202 4 
+ 
+Page 4 of 15 
+ 
+as in data engineering and data modernization programs are very differentiated. U.S., in 
+particular, the Health care momentum powered by Oracle Cloud, has really kicked into high gear 
+and we see continued momentum there with providers, with senior living facilities as well as 
+with regional health plan. We also have kicked off an internal transformation, which we're 
+calling Project Nucleus.  And this is looking at the entire order -to-cash life cycle, some of which 
+we had been doing some groundwork, but this is important to further streamline processes, 
+automate certain inefficiencies and then hopefully, we can generate  enough savings to repurpose 
+in future investment areas, but also help with improved productivity and efficiencies internally.  
+ Coupled with our Gen AI internal AI Amigo platform, which we are driving to automate multiple 
+functional areas, including financ e, marketing, HR as well. As we look at AI and Gen AI in an 
+overall sense, we're starting to see some interesting pilots and proof of concepts moving into 
+slightly larger programs, but we believe it will still take a couple of quarters for customers to 
+truly see some of those ROIs coming from the investments that we have made. We are looking 
+at this very strategically in multiple pillars. There's AI that is getting infused in our key platforms 
+like Oracle, like Salesforce, like Microsoft, AWS and Snowflake.  There is a nonlinear set of 
+initiatives that we have embarked on about 18 months back, which is starting to come together 
+for example, in the connected enterprise areas.  And then there are some of these newer 
+partnerships like NVIDIA that I talked about. So it's coming together well in a nice way for us 
+where a lot of the data engineering and data foundation will be built on as customers look at 
+much more ROI from the AI investment.  
+I had given 3 specific areas in our last quarter's commentary around our U.S. geography. So I 
+want to address that, again, very transparently. There was one particular customer where we had 
+a challenge when it comes to delivery. We have now recovered through that program. We made 
+the right investments in people and are out of t he woods out there and engaged in now some new 
+discussions with that program. It was a financial services customer in the East Coast.  There was 
+a second program that we had talked about where a large engagement had moved from on -site 
+to offshore. So that o bviously is getting executed. There's no change in that. And there was a 
+third area where there were three  deals, in particular, two that we talked about, but three  deals, 
+which had been delayed in terms of closures. So , I want to report that two out of those three  
+deals have closed, although it did take us longer than anticipated.  This was in a particular pocket 
+within some of our Salesforce business in the US And because those deals got delayed, we 
+continue to keep those resources and we made a tough call to handle and keep those resources, 
+rightly so because now we've been able to deploy them and actually ramp them up in the projects 
+that are now commenced, but it did impact our EBITDA for Q1.  Arun will talk about some of 
+the aged receivables in Middle East, which we had an impact also because of the holiday period 
+in Middle East, but we are confident of recovering from that and coming back to our original 
+margin levels in the coming quarters.  
+So with that, I think overall business momentum continues to be strong. While I said there will 
+continue to be some level of caution, there's more optimism compared to 3 -4 quarters back, 
+particularly as it looks to the second half of the year.  And we are co nfident that we'll continue 
+the growth momentum on the top line while coming back on the EBITDA front.  
+  Mastek  Limited  
+  July 18, 202 4 
+ 
+Page 5 of 15 
+ 
+With that, I'll pass it over to Arun, and I look forward to answering questions after that.  
+Arun Agarwal : Thanks, Hiral. A very warm welcome to everyone on the call. I hope all of you have seen the 
+detailed presentation, which was shared. Hence, I will focus more on the financial metrics. We 
+reported revenue of INR 813 crores for the quarter, which is up 12.1% year -on-year and 4.3% 
+quarter -on-quarter in th e INR terms. This reflects into constant currency growth of 4.1% quarter -
+on-quarter.  While macro challenges and delay in decision -making continues, as Hiral alluded to, 
+however, we are witnessing good deal momentum in line with our strategic investment and  the 
+same is reflected in our order backlog, which has improved 23% year -on-year in INR terms. We 
+added 13 new customers during the quarter and increased Fortune 1000 customer base from 34 
+to 36 in the current quarter. So we're continuously seeing the upti ck in the average revenue per 
+customer and also the quality of customers, which we are on  boarding.  
+Operating EBITDA for the quarter was at 15.2%, a decline of 80 bps quarter -on-quarter. This 
+has been led because of two critical reasons which has happened in the quarter. One is cost of 
+ramp associated with delayed project commencement, specifically in the Salesforce business, 
+which Hiral alluded to, but we are really confident that the growth is coming back,  and we are 
+seeing these resources getting deploye d, which will reflect in our margin profile in the coming 
+quarters.  And also, we had onetime impact, including PDD in our Middle East region. Because 
+of holidays, the re were delay s in collection and because of the aging, you have to provide for it. 
+We don' t see any risk into those collections; however, from a timing perspective, those 
+provisions was required to be made as per accounting rules.  
+Profit after tax for the quarter was at INR 17.5 crores revenue, 8.8% of revenue; however, our 
+profit for tax quart er-on-quarter has gone down. If you recollect, I had mentioned in the last 
+quarter, we had onetime tax credit associated with deferred tax and which led to increase in our 
+PAT due to reduction of tax expense. This quarter, the tax is on a normalized basis,  in line with 
+what we anticipate to incur on an ongoing basis.  
+Our gross cas h as of June end was INR 383 crores. It is reduced from INR 473 crores in the 
+March. I would like to highlight that in the current quarter, we have paid annual bonuses and 
+variable payout to all the employees across Mastek, which led to a reduction in operating cash 
+for the quarter. And our DSOs, as I mentioned, for the PDD reason, has gone to 92 days versus 
+89 days.  As I mentioned, we believe this is more timing gap and thi ngs will improve as we move 
+to the coming quarters.  
+Our overall borrowings stood at INR 455 crores. It has reduced quarter -on-quarter as we have 
+paid one more installment as it was due during the quarter. Our closing headcount has increased 
+to 5,546 headcount, a marginal increase quarter -on-quarter.  Utilization is flat at 86.5% without 
+considering the lease impact. So broadly, we feel good momentum is building up. Our revenue 
+continue to grow. Order book further gives us confidence. And margin, we are  focusing to 
+improve and bring it back to the levels we were operating at.  

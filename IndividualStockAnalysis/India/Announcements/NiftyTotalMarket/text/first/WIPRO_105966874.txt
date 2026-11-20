@@ -1,0 +1,159 @@
+ 
+ 
+Internal to Wipro  
+  
+ 
+ 
+August 27, 202 4 
+ 
+The Manager  - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager  - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+  
+The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Press Release  
+ 
+Please find attached herewith copy of the Press Release which is being released today.  
+ 
+Thanking you,  
+ 
+For Wipro Limited  
+ 
+ 
+ 
+ 
+G Kothandaraman  
+General Manager - Finance  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Wipro Forms New Partnership to Strengthen Its Enterprise AI -Ready 
+Platform  
+   
+Wipro’s Enterprise AI -Ready platform, powered by the Dell AI Factory with NVIDIA, will 
+leverage Dell Validated Designs  
+  
+The collaboration will provide enterprises with access to best -in-class technology and 
+the latest in chip designs  
+     
+EAST BRUNSWICK, N.J. | BENGALURU, India – Aug 2 7, 2024 : Wipro Limited (NYSE: WIT, 
+BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today 
+announced that it is expanding its collaboration with Dell Technologies to bring the Dell AI Factory 
+to Wipro’s Enterprise AI -Ready Platform . The collaboration will allow enhanced cost control and 
+risk mitigation while providing enterprises with access to the best -in-class technology, 
+accelerating the adoption of AI across cloud, data center and edge environments.   
+   
+Wipro’s Enterprise AI -Ready Platform will leverage the Dell AI Factory  with NVIDIA , including Dell 
+Validated Designs for Generative AI, bringing GenAI processing power to data without extensive 
+upfront investment. The platform is supported by the NVIDIA AI Enterprise  software platform, 
+underpinned by NVIDIA  H100 Tensor Core GPUs , and the NVIDIA Spectrum -X™ Ethernet 
+networking platform .  
+   
+The Wipro AI Control Center , an advanced orchestration layer that resides on the Wipro 
+Enterprise AI -Ready platform and enables a seamless infusion of AI for IT and business, will now 
+provide enhanced throughput from the Dell infrastructure. The Intelligent Control Center will 
+ensure seamless integration of use case blueprints across the entire AI life cycle, from pilot to 
+production and support the safe, responsible, and sustainable adoption of AI by offering robust 
+governance, observability, and automation c apabilities.  
+   
+“Enterprises are keen to utilize their own data and business context to train, fine -tune, and deploy 
+AI on Dell solutions. This approach effectively and efficiently integrates advanced AI into their 
+core business processes, bringing AI to the data rather t han moving data to AI,” said Jo 
+Debecker, Managing Partner & Global Head, Wipro FullStride Cloud. “The solutions we have 
+created as part of this collaboration will help enterprises achieve new levels of flexibility when 
+building their enterprise -specific A I ecosystems. Our goal is to make AI consumption as efficient, 
+agile, reliable, and sustainable as possible - ultimately helping advance the adoption of enterprise -
+level AI.”  
+   
+“As the market demand for AI enabled solutions continues to climb, Dell is innovating at every 
+level of the AI technology stack to deliver future -proof data centers,” said Denise Millard, Chief 
+Partner Officer, Dell Technologies . “By leveraging the Dell AI Factory in Wipro’s Enterprise AI -
+Ready Platform, we’re providing customers with a comprehensive collection of products, solutions 
+and services to accelerate their AI initiatives.”  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+The Dell AI Factory with NVIDIA brings together AI -optimized technologies, validated and 
+integrated solutions, expert services and best practices to help customers achieve AI outcomes 
+faster. Access to the industry’s broadest AI portfolio provides customer s with targeted and 
+repeatable success for deploying AI by considering both technical and business requirements.  
+   
+The Dell solution is available for clients to experience at Wipro’s FullStride Cloud Studio in 
+Bengaluru.  
+   
+For more information, please visit Wipro and Dell Global Partnership - Dell Alliance - Partner 
+Ecosystem  
+  
+About Wipro Limited  
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting 
+company focused on building innovative solutions that address clients’ most complex digital transformation 
+needs. Leveraging our holistic portfolio of capabi lities in consulting, design, engineering, and operations, 
+we help clients realize their boldest ambitions and build future -ready, sustainable businesses. With over 
+230,000 employees and business partners across 65 countries, we deliver on the promise of h elping our 
+customers, colleagues, and communities thrive in an ever -changing world. For additional information, visit 
+us at www.wipro.com . 
+  
+Media Contact:  
+Wipro Media Relations  
+media -relations@wipro.com  
+  
+Forward -Looking Statements  
+The forward -looking statements contained herein represent Wipro’s beliefs regarding  future events, many 
+of which are by their nature, inherently uncertain and outside Wipro’s control. Such statements include, but 
+are not limited to, statements regarding Wipro’s growth prospects, its future financial operating results, and 
+its plans, expe ctations and intentions. Wipro cautions readers that the forward -looking statements 
+contained herein are subject to risks and uncertainties that could cause actual results to differ materially 
+from the results anticipated by such statements. Such risks and  uncertainties include, but are not limited 
+to, risks and uncertainties regarding fluctuations in our earnings, revenue and profits, our ability to generate 
+and manage growth, complete proposed corporate actions, intense competition in IT services, our abi lity to 
+maintain our cost advantage, wage increases in India, our ability to attract and retain highly skilled 
+professionals, time and cost overruns on fixed -price, fixed -time frame contracts, client concentration, 
+restrictions on immigration, our ability to manage our international operations, reduced demand for 
+technology in our key focus areas, disruptions in telecommunication networks, our ability to successfully 
+complete and integrate potential acquisitions, liability for damages on our service contrac ts, the success of 
+the companies in which we make strategic investments, withdrawal of fiscal governmental incentives, 
+political instability, war, legal restrictions on raising capital or acquiring companies outside India, 
+unauthorized use of our intellect ual property and general economic conditions affecting our business and 
+industry.  
+  
+Additional risks that could affect our future operating results are more fully described in our filings with the 
+United States Securities and Exchange Commission, including, but not limited to, Annual Reports on Form 
+20-F. These filings are available at www.sec.gov . We may, from time to time, make additional written and 
+oral forward -looking statements, including statements contained in the company’s filings with the Securities 
+and Exchange Commission and our reports to shareholders. We do not undertake to update any  forward -
+looking statement that may be made from time to time by us or on our behalf.  
+ 
+ 
+ 

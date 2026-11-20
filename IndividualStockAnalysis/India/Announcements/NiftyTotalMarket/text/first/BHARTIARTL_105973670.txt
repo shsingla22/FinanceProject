@@ -1,0 +1,120 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise) 
+Regd. Office:  Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram – 122015, India 
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110 070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email id: compliance.officer@bharti.in, www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+ 
+September 02, 2024 
+  
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India 
+Symbol: BHARTIARTL/ AIRTELPP 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400001, India 
+Scrip Code: 532454/ 890157 
+ 
+Sub: Press Release  
+ 
+Dear Sir/ Ma’am, 
+ 
+We are enclosing herewith a press release dated September 02, 2024 titled ‘Airtel, 
+Nokia and MediaTek successfully complete trials combining the efficient use of TDD 
+and FDD bands for Uplink on the latest generation chipset’  being issued by the 
+Company.  
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+Sincerely yours, 
+ 
+For Bharti Airtel Limited 
+ 
+ 
+ 
+Rohit Krishan Puri 
+Joint Company Secretary & Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Airtel, Nokia and MediaTek successfully complete trials combining the efficient 
+use of TDD and FDD bands for Uplink on the latest generation chipset 
+- Achieve highest uplink speed on 5G network with Advanced Uplink Functionality 
+New Delhi, September 02, 2024:  Airtel, MediaTek and Nokia today announced the successful 
+completion of trials that efficiently combine TDD and FDD mid-band spectrum on a time basis 
+utilising the latest generation chipset. The trial aimed at maximising the uplink performance was 
+conducted at Airtel’s tech lab and achieved uplink speeds of 300 Mbps, setting a new benchmark 
+in 5G network performance. It underscores Airtel’s commitment to providing innovative 
+solutions that meet the ever-growing demands of a connected world. 
+The trial enhanced UL speeds by aggregating frequency bands of 3.5 Ghz (n78) and 2.1 Ghz (n1), 
+a groundbreaking innovation that significantly improves the uplink performance for demanding 
+use cases by dynamically switching the uplink transmission across two carriers in TDD and FDD 
+spectrum more efficiently. The innovative UL Tx switching promises faster connectivity, 
+enhanced user experience, and improved network efficiency, catering to high-demand use cases 
+such as video conferencing, live streaming and large file uploads.  
+Randeep Sekhon, Chief Technology Officer, Bharti Airtel  said, “At Airtel, continuous innovation 
+remains the bedrock of all our product and service offerings. This trial not only stands testament 
+to our philosophy of enhancing our state-of-the-art network infrastructure and delivering an 
+unmatched 5G user experience but will also greatly enhance our network's uplink performance, 
+resulting in faster data speeds and improved connectivity”. 
+Dr. Ho-Chi Hwang, General Manager of Wireless Communication Systems and Partnerships at 
+MediaTek , said: “We are thrilled to collaborate with Bharti Airtel and Nokia on this 
+groundbreaking trial in India where our Dimensity 5G mobile platform played a crucial role in 
+achieving the highest uplink speeds on Airtel’s 5G network. This partnership underscores our 
+commitment to delivering cutting-edge technology that enhances the connectivity experience 
+for users” 
+Tarun Chhabra, Country Manager and Head of Mobile Networks Business at Nokia, 
+India, said: “We are proud to partner with our long-term partner Airtel on this ground-breaking 
+project. Uplink Tx switching will pave the way for superior 5G networks, enabling seamless data 
+transfer in mobile devices and driving demand for data-intensive applications like XR. We 
+congratulate Bharti Airtel for achieving this milestone and pushing the boundaries of connectivity 
+to new realms.” 
+For this advanced trial, Airtel used equipment from Nokia’s next-generation 5G AirScale radio 
+portfolio while MediaTek provided its Dimensity 5G mobile platform as the user equipment. 
+ 
+ 
+ 
+
+About Bharti Airtel Limited  
+Headquartered in India, Airtel is a global communications solutions provider with over 550 million customers in 17 countries across South Asia 
+and Africa. The Company ranks amongst the top three mobile operators globally and its networks cover over two billion people. Airtel is India’s 
+largest integrated communications solutions provider and the second largest mobile operator in Africa. Airtel’s retail portfolio includes high speed 
+4G/5G mobile broadband, Airtel Xstream Fiber that promises speeds up to 1 Gbps with convergence across linear and on-demand entertainment, 
+streaming services spanning music and video, digital payments and financial services. For enterprise customers, Airtel offers a gamut of solutions 
+that includes secure connectivity, cloud and data centre services, cyber security, IoT, Ad Tech and cloud based communication. For more details 
+visit www.airtel.in   
+ 
+About Nokia  
+At Nokia, we create technology that helps the world act together. 
+As a B2B technology innovation leader, we are pioneering networks that sense, think and act by leveraging our work across mobile, fixed and 
+cloud networks. In addition, we create value with intellectual property and long-term research, led by the award-winning Nokia Bell Labs.  
+Service providers, enterprises and partners worldwide trust Nokia to deliver secure, reliable and sustainable networks today – and work with us 
+to create the digital services and applications of the future. 
+About MediaTek Inc. 
+MediaTek Incorporated (TWSE: 2454) is a global fabless semiconductor company that enables nearly 2 billion connected devices a year. We are 
+a market leader in developing innovative systems-on-chip (SoC) for mobile, home entertainment, connectivity and IoT products. Our dedication 
+to innovation has positioned us as a driving market force in several key technology areas, including highly power-efficient mobile technologies, 
+automotive solutions and a broad range of advanced multimedia products such as smartphones, tablets, digital televisions, 5G, Voice Assistant 
+Devices (VAD) and wearables. MediaTek empowers and inspires people to expand their horizons and achieve their goals through smart 
+technology, more easily and efficiently than ever before. We work with the brands you love to make great technology accessible to everyone, 
+and it drives everything we do. Visit www.mediatek.com for more information.  
+ 
+ 
+ 

@@ -1,0 +1,131 @@
+ 
+  
+ 
+TATA Consultancy Services Limited  
+9th Floor Nirmal Building Nariman  Point Mumbai  400 021  
+Tel. 91 22 6778 9595 Fax 91 22 6778 9660 e -mail corporate.office@tcs.com   website www.tcs.com   
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021.  
+Corporate identification No. (CIN): L22210MH1995PLC084781  
+ 
+ 
+ 
+TCS/PR/SE -08/2024-25 
+ 
+June 7, 2024  
+ 
+ 
+National Stock Exchange of India Limited    BSE Limited  
+Exchange Plaza, Bandra Kurla Complex,    P. J. Towers, Dalal Street,  
+Mumbai -400051                                                                    Mumbai -400001  
+Symbol: TCS                                                                         Scrip Code No. 532540  
+ 
+ 
+Dear Sirs,  
+ 
+ 
+We are sending herewith copy  of the Press Release titled “TCS Launches  
+WisdomNextTM, an industry -first GenAI Aggregat ion Platform ” which  will be 
+disseminated shortly.  
+ 
+The Press release is self -explanatory.  
+ 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Consultancy Services Limited  
+ 
+ 
+ 
+ 
+Pradeep Manohar Gaitonde  
+Company Secretary  
+ 
+ 
+Page 1 of 2 
+ 
+TCS Launches  WisdomNextTM, an industry -first GenAI 
+Aggregat ion Platform  
+TCS AI  WisdomNextTM platform provides unique capabilities to compare GenAI models and tools across 
+cloud services in a single unified interface  allowing clients to accelerate AI adoption at scale  
+It also offers ready -to-deploy  business solution  blueprints  with built -in guardrails, making it simpler  for large 
+organizations to adopt GenAI solutions  quickly  
+MUMBAI, June 07, 202 4: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS) , a global leader in IT 
+services, consulting, and business solutions,  has launch ed TCS AI WisdomNextTM, a platform that aggregates 
+multiple Generative Artificial  Intelligence (GenAI)  services into a single interface  and enables organizations 
+to rapidly adopt next -gen technologies  at scale , lower costs  and within regulatory frameworks . The industry -
+leading platform  is designed to remove barriers for customers to develop and launch business solutions , 
+allowing for real -time experimentation across vendor, inte rnal, and open -source LLM models.  
+AI and GenAI have far -reaching applications across the value chain for businesses. However, solution 
+designers around the world find it difficult to select, experiment and decide on the right foundational models 
+to use . Foundational models are constantly evolving,  and e ach model offer s different capabilities in terms of 
+mode of usage, cost,  and effectiveness . TCS’ AI for Business Study , a comprehensive survey on the impact of 
+AI on businesses, found that while business e xecutives are generally positive about the impact of AI, they are  
+less certain about the path to transformation . TCS AI WisdomNext helps businesses choose the right models 
+and simplify the design of new business solutions  using GenAI tools.  It also enables businesses to  reuse pre -
+existing components to accelerate the design.  
+Siva Ganesan, Head, AI.Cloud Unit, TCS,  said, “TCS AI WisdomNext helps our customers take advantage of 
+GenAI to unlock the full potential of their data, drive greater business innovation and efficiency, and gain a 
+competitive edge. Customers appreciate the newly  launched  platform’s ability to help navigate a diverse and 
+quickly evolving AI marketplace and rapidly compose 'art -of-the-possible' solutions. We are solving business 
+problems and helping our customers redefine what it means to harness the power of GenAI.  The r apid 
+adoption of GenAI and experiencing what it means in terms of business outcomes is something our customers 
+find very exciting.”  
+In the initial testing phase, TCS has already leveraged this powerful tool for many of its largest customers to 
+create value for them and build prototypes. Examples includ e fast-track ing sales for a n outdoor advertising 
+company in the U S, with real -time inventory availability and quote generation with maps Integration; 
+enhanc ing productivity and efficiency across the application migration and modernization lifecycle  for a 
+leading American insurance provider ; and enhanc ing customer experience through a smart mortgage -
+assistant for a leading bank in the UK. 
+Scott Kessler, Executive Vice President, Chief Information Officer, Northeast Shared Services , said, “GenAI 
+presents us with the chance to elevate the value of our knowledge capital across multiple dimensions. Through 
+access to the TCS AI WisdomNextTM platform, we can amplify our enterprise knowledge, orchestrating a 
+seamless integration of data and insights to enhance the efficiency, innovation, and customer -centric focus 
+of our grocery organization, thereby incrementing value at every turn.”  
+TCS AI WisdomNext is an integrated enterprise  AI orchestration platform  with features including:   
+ 
+Page 2 of 2 
+ 
+• Preconfigured industry solution blueprints  
+• Intelligent ‘evaluator bots’, which enable organizations to compare available GenAI models  and 
+related technology stack choices, helping them to make more informed decisions  
+• Scenarios to optimize  GenAI running costs using the platform’s native intelligence  
+• Centralized governance with in -built guardrails to ensure compliance with local regulations and best 
+practices  
+• Seamless portability feature across cloud platforms and GenAI ecosystems  
+• Build hyper -personalized experiences, paving the way for  higher customer satisfaction.  
+R “Ray” Wang, CEO and Principal Analyst at Constellation Research , said, “Customers seek an innovative 
+GenAI platform that has a powerful combination of prefabricated industry blueprints, cutting -edge 
+technologies, and orchestration capability to help businesses succeed in their future adoption strategies and 
+innovation on GenAI. The service providers that thoughtfully make investments in GenAI and help clients 
+transform, navigate, and experience the world of GenAI with security and ethical guardrails at its core will be 
+the technology partners that customers will trust to deliver on the promises of GenAI. These AI -first technology 
+partners can deliver on what customers seek - a new multi -model, multi -modal and multi -cloud platform.”   
+The AI.Cloud unit brings together TCS’ capabilities in cloud computing and artificial intelligence to cater to 
+the contemporary needs of customers. The comprehensive portfolio of GenAI services and solutions includ es 
+consulting and advisory, solution design and prototyping, large language model training and fine -tuning, 
+guardrail agent design, project delivery, and ongoing maintenance as well as a responsible AI framework to 
+help enterprises navigate the ethical and s afe uses of AI.  With over 300,000  associ ates trained on the 
+founda tional skills of AI / ML , including GenAI , TCS is also set to build one of the largest AI -ready workforces 
+in the world . TCS AI WisdomNext is available to customers now. For more information, please visit 
+https://on.tcs.com/TCS -AI-WisdomNext  
+ 
+About  Tata  Consultancy  Services  (TCS)  
+Tata Consultancy Services is an IT services, consulting and business solutions organization that has been 
+partnering with many of the world’s largest businesses in their transformation journeys for over 56 years. Its 
+consulting -led, cognitive powered, portfolio  of business, technology and engineering services and solutions 
+is delivered through its unique Location Independent Agile ™ delivery model, recognized as a benchmark of 
+excellence in software development.  
+A part of the Tata group, India's largest multinational business group, TCS has over 601,000 of the world’s 
+best -trained consultants in 55 countries. The company generated consolidated revenues of US $29 billion in 
+the fiscal year ended March 31, 2024, and  is listed on the BSE and the NSE in India. TCS' proactive stance on 
+climate change and award -winning work with communities across the world have earned it a place in leading 
+sustainability indices such as the MSCI Global Sustainability Index and the FTSE4 Good Emerging Index. For 
+more information, visit  www.tcs.com    
+TCS media contacts:  
+Corporate Communications & 
+India  Email: corporate.communications@tcs.com  
+Email:  saxena.kritika@tcs.com | Phone: +91 22 6778 9999  
+Email:  vanshika.sood@tcs.com  | Phone: +91 22 67789098  
+ 
+### 

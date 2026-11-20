@@ -1,0 +1,13 @@
+symbol,kind,label,url,file,text_file,pages,status,fetched
+SUZLON,presentation,Aug 2026,https://www.suzlon.com/pdf/investor/financial-reports-presentations/2026-27/2026-07-28_SEL_Financial_Reports_Q1_FY27_Investor_Presentation_FY27.pdf,2026-08_presentation.pdf,2026-08_presentation.txt,30,ok,2026-10-12
+SUZLON,presentation,Jun 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1b1b9fbb-55f9-4f1d-a70b-32f4ebdf2d7a.pdf,2026-06_presentation.pdf,2026-06_presentation.txt,63,ok,2026-10-12
+SUZLON,presentation,May 2026,https://www.suzlon.com//NewPdf/Financial_Reports_&_Presentations/2025-26/Q4_FY26_Investor_Presentation_Print_25052026.pdf,,,,failed:http200,2026-10-12
+SUZLON,presentation,Feb 2026,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9bc7c4a5-1c9d-4490-8585-9e4bd7a30c44.pdf,2026-02_presentation.pdf,2026-02_presentation.txt,44,ok,2026-10-12
+SUZLON,presentation,Nov 2025,https://www.suzlon.com//NewPdf/Financial_Reports_&_Presentations/2025-26/Q2_FY26_Investor_Presentation.pdf,,,,failed:http200,2026-10-12
+SUZLON,presentation,Aug 2025,https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2025-26/IR_Presentation-Q1-FY26-pdf.pdf,,,,failed:http200,2026-10-12
+SUZLON,presentation,Jun 2025,https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR_Presentation-Q4-FY25.pdf,,,,failed:http200,2026-10-12
+SUZLON,presentation,Feb 2025,https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR-Presentation-Q3-FY25.pdf,,,,failed:http200,2026-10-12
+SUZLON,presentation,Nov 2024,https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR_Presentation_Q2FY25_Print_Final.pdf,,,,failed:http200,2026-10-12
+SUZLON,presentation,Jul 2024,https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70be6b2d-08b6-4550-a472-b2f289a17585.pdf,2024-07_presentation.pdf,2024-07_presentation.txt,40,ok,2026-10-12
+SUZLON,presentation,Jun 2024,https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2024-25/IR-Presentation-Q1-FY25.pdf,,,,failed:http200,2026-10-12
+SUZLON,presentation,May 2024,https://www.suzlon.com/NewPdf/Financial_Reports_&_Presentations/2023-24/IR-Presentation-Q4-FY24.pdf,,,,failed:http200,2026-10-12

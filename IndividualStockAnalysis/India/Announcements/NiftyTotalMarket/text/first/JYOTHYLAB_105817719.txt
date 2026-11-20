@@ -1,0 +1,113 @@
+ 
+ 
+ 
+April 17, 2024 
+ 
+To, 
+              
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai – 400 023 
+Security Code: 532926  National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (East), Mumbai – 400 051 
+Symbol: JYOTHYLAB  
+ 
+Sub: Intimation under Regulation 39(3) of the SEBI (Listing Obligations and Disclo sure Requirements) 
+Regulations, 2015 
+Dear Sir/ Madam, 
+Pursuant to Regulation 39(3) of the SEBI (Listing Obligations and Disclosure Req uirements) Regulations, 2015, 
+we wish to inform you that M/s. Link Intime India Private Limited, the Regis trar and Share Transfer Agent (RTA) 
+has intimated the Company on April 16, 2024 regarding issue of duplicate share certificate to the shareholder 
+details of which is given below: 
+Name of the 
+Shareholder(s) Folio No. Certificate No. Distinctive No. 
+(both inclusive) No. of 
+Shares 
+ADISHWAR KUMAR JAIN 0017242 112448 (Old) 162047311 – 162047387 77 
+172374 (New/ Duplicate) 
+SHRINIKETY VASANT 
+BAPAT 0006207 101572 (Old) 161517120 – 161517158 39 
+172375 (New/ Duplicate) 
+SRI VIVEKANAND JHA 0016320 111540/ 159138 (Old) 161992632 – 161992706 
+182408760 – 182408834 75 
+75 172376 (New/ Duplicate) 
+SMITA R PAREKH 
+RAJENDRA PAREKH 0018824 114011 (Old) 162119257 – 162119281 25 
+172377 (New/ Duplicate) 
+RAMACHANDRAN P 
+VASUDEVAN V 0002211 97619 (Old) 161357661 – 161357710 50 
+172378 (New/ Duplicate) 
+KAMAL KUMAR 0000842 96268 (Old) 161299212 – 161299261 50 
+172379 (New/ Duplicate) 
+This is for your information and record. 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For JYOTHY LABS LIMITED 
+ 
+ 
+ 
+Shreyas Trivedi 
+Head – Legal & Company Secretary 
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN9453TO: TN9448FROM:Jyothy Labs Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN9448 0017242
+ADISHWAR KUMAR JAIN 16/04/2024
+DUP  1.00 OLD  77  162047387  162047311  77  112448  112448 
+ 77 ---------------
+ 1.00 NEW  77  162047387  162047311  77  172374  172374 
+ 77 ---------------
+TN9449 0006207
+SHRINIKETY VASANT BAPAT 16/04/2024
+DUP  1.00 OLD  39  161517158  161517120  39  101572  101572 
+ 39 ---------------
+ 1.00 NEW  39  161517158  161517120  39  172375  172375 
+ 39 ---------------
+TN9450 0016320
+SRI VIVEKANAND JHA 16/04/2024
+DUP  1.00 OLD  75  161992706  161992632  75  111540  111540 
+ 1.00 OLD  75  182408834  182408760  75 BONUS  159138  159138 
+ 150 ---------------
+ 1.00 NEW  75  161992706  161992632  75  172376  172376 
+ 1.00 NEW  75  182408834  182408760  75  172376  172376 
+ 150 ---------------
+TN9451 0018824
+SMITA R PAREKH
+RAJENDRA PAREKH16/04/2024
+DUP  1.00 OLD  25  162119281  162119257  25  114011  114011 
+ 25 ---------------
+ 1.00 NEW  25  162119281  162119257  25  172377  172377 
+ 25 ---------------
+16/04/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN9453TO: TN9448FROM:Jyothy Labs Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN9452 0002211
+RAMACHANDRAN P
+VASUDEVAN V16/04/2024
+DUP  1.00 OLD  50  161357710  161357661  50  97619  97619 
+ 50 ---------------
+ 1.00 NEW  50  161357710  161357661  50  172378  172378 
+ 50 ---------------
+TN9453 0000842
+KAMAL KUMAR 16/04/2024
+DUP  1.00 OLD  50  161299261  161299212  50  96268  96268 
+ 50 ---------------
+ 1.00 NEW  50  161299261  161299212  50  172379  172379 
+ 50 ---------------
+16/04/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

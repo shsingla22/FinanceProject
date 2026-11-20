@@ -1,0 +1,105 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 92402 97500  
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/80                                                                                                  September 9, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+We are attaching herewith copy of the Press Release titled “LTM Collaborates with IBM and Red Hat 
+on Lightwell to Advance AI-Driven Open-Source Software Remediation” which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl. As above. 
+ 
+ 
+LTM Collaborates with IBM and Red Hat on Lightwell to Advance AI-Driven Open-Source 
+Software Remediation 
+Strengthens software supply chains by helping enterprises transform vulnerability discovery into scalable 
+remediation outcomes 
+Mumbai, India, Sept 9, 2026:  LTM, the Business Creativity partner to the world's largest enterprises, today 
+announced that it has collaborated with IBM and Red Hat on Lightwell  to help enterprises safeguard the open-
+source software supply chain through AI-driven vulnerability remediation.    
+As AI accelerates the discovery of software vulnerabilities, organizations must move beyond detection-focused 
+approaches and adopt enterprise-scale remediation strategies that enable rapid risk mitigation without 
+disrupting business-critical applications.  
+Lightwell’s approach of delivering validated fixes for production environments aligns with LTM's aim of helping 
+customers build secure, resilient, and operationally efficient software supply chains. By combining AI-powered 
+remediation capabilities with enterprise-grade validation and deployment support, Lightwell aims to help 
+organizations address security challenges across increasingly complex open-source ecosystems. 
+Building on its long-standing status as an IBM Platinum Partner, LTM will help enterprises transform AI-driven 
+vulnerability discovery into measurable remediation outcomes by leveraging Lightwell for open-source software 
+dependencies. LTM plans to offer a comprehensive portfolio of services spanning remediation strategy, 
+dependency analysis, risk-based prioritization, remediation program management, DevSecOps integration, 
+testing and validation, and large-scale deployment support. 
+"As AI accelerates software development and vulnerability discovery, enterprises need a faster and more 
+scalable approach to remediation. Lightwell represents a significant advancement in securing the open-source 
+software supply chain by bringing AI-driven remediation and trusted software maintenance into the enterprise. 
+Through our collaboration with IBM, LTM will help organisations strengthen their cyber resilience at scale," said 
+Chandan Pani , Chief Information Security Officer, LTM .  
+Organizations across industries increasingly rely on open-source software as a foundation for digital innovation, 
+making effective vulnerability remediation a critical component of cybersecurity and operational resilience. 
+LTM’s expertise in application modernization, cloud, cybersecurity, and DevSecOps positions it to help 
+enterprises integrate remediation strategies into their software engineering and security operations. 
+"Addressing today's software supply chain challenges requires a collective defense," said Sandip Patel, 
+Managing Director, IBM India and South Asia . “As AI accelerates vulnerability discovery, collaboration across 
+the ecosystem becomes increasingly important. Bringing LTM's engineering and transformation expertise to 
+Lightwell can help enterprises mitigate risk and build more resilient software supply chains." 
+“AI-driven discovery has pressed the demand for speed and patch delivery far beyond the means of any one 
+single vendor. A challenge of this magnitude requires an expert ecosystem, highlighted by partners like LTM, 
+with the specialized skills and experience to not simply acknowledge a vulnerability, but to help customers of 
+Lightwell via LTM's complementary services to accelerate delivery of Lightwell remediations into the customer's 
+environment quickly to help prevent a zero-day exploit or production downtime,” said Ryan King, Vice 
+President, AI and Infrastructure Partners, Red Hat.  
+LTM and IBM are committed to helping clients accelerate open-source innovation while reducing the operational 
+burden of managing vulnerabilities across complex open-source environments, enabling organizations to 
+innovate with confidence in an increasingly AI-driven world. 
+ 
+About LTM 
+LTM — a Larsen & Toubro Group company — is an AI-centric global technology services company and the Business Creativity 
+partner to the world's largest enterprises. We bring human insights and intelligent systems together to help clients create 
+greater value at the intersection of technology and domain expertise. Our capabilities span integrated operations, 
+transformation, and Business AI—enabling new ways of working, new productivity paradigms, and new roads to value. 
+Together with over 87,000 employees across 40 countries and our global network of partners, LTM owns outcomes for 
+clients, helping them not just outperform the market, but Outcreate it. Read more at LTM.com. 
+ 
+About IBM 
+IBM is a leading provider of global hybrid cloud and AI, and consulting expertise. We help clients in more than 175 countries 
+capitalize on insights from their data, streamline business processes, reduce costs and gain the competitive edge in their 
+industries. Thousands of government and corporate entities in critical infrastructure areas such as financial services, 
+telecommunications and healthcare rely on IBM's hybrid cloud platform and Red Hat OpenShift to affect their digital 
+transformations quickly, efficiently and securely. IBM's breakthrough innovations in AI, quantum computing, industry-
+specific cloud solutions and consulting deliver open and flexible options to our clients. All of this is backed by IBM's long-
+standing commitment to trust, transparency, responsibility, inclusivity and service.  Visit www.ibm.com  for more 
+information. 
+Media Contact 
+Gitanjali Sreepal, gitanjali.sreepal@ltm.com , Global Media Relations, LTM  

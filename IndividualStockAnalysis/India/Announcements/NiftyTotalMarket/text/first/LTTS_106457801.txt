@@ -1,0 +1,148 @@
+ 
+Registered Office: L&T House, N. M. Marg, Ballard Estate, Mumbai - 400 001. INDIA                  CIN : L72900MH2012PLC232169  
+     Tel: +91 22 68925257  Fax: +91 2267525858  
+     L&T Technology Services is a subsidiary of Larsen & Toubro Limited  
+ 
+L&T Technology Services Limited  
+A.M. Naik Tower,6th Floor, L&T  Campus, 
+Gate No.3, Jogeshwari -Vikhroli Link Road,  
+Powai, Mumbai -400072.  
+www. ltts.com 
+ 
+           
+   
+   December  1, 2025 
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza,  C-1, Block G,  
+Bandra -Kurla Complex  Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400001  
+Bandra (East), Mumbai — 400 051  
+   
+NSE Symbol:  LTTS  BSE script Code:  540115  
+  
+ 
+ 
+ 
+Subject: Press Release  
+ 
+Dear Sir/Madam,  
+ 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are sending herewith a copy  of the Press Release titled  “L&T Technology 
+Services Transforms Respiratory Diagnostics with NVIDIA AI -Powered Digital Twin Technology ” 
+which is self -explanatory.  
+ 
+This is for your information and record s. 
+ 
+ 
+Thanking You,  
+ 
+Yours sincerely,  
+ 
+For L&T Technology Services Limited  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Prasad Shanbhag  
+Company Secretary & Compliance Officer  
+(M. No. A 30254 ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                CIN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services   
+L&T Technology Services  Transforms Respiratory Diagnostics 
+with NVIDIA AI -Powered Digital Twin Technology  
+ 
+Collaboration brings together LTTS’ expertise in MedTech and NVIDIA  AI 
+infrastructure  to deliver precision  diagnostics and enhance patient care  
+ 
+Chicago (Illinois, USA), December 01, 2025 : L&T Technology Services (BSE: 540115, NSE: 
+LTTS), a global leader in AI, Digital & R&D Consulting Services, today announced the development 
+of a next -gen AI -powered digital twin platform for r espiratory diagnostics and lung navigation.  
+Combining LTTS’ expertise in platform engineering, AI -driven diagnostics, connected health systems 
+and advanced imaging and visualization with cutt ing edge NVIDIA AI infrastructure , LTTS aims to 
+deliver scalable, low -latency solutions that enhance diagnostic precision and improve accessibility for 
+healthcare providers worldwide.  
+To be unveiled at the Radiological Society of North America (RSNA) 2025 , the LTTS solution 
+integrates with CT imaging and leverages deep learning models to create a 3D digital twin of lung 
+anatomy, providing visualization of airways, blood vessels, lung lobes and lesions . Powered by NVIDIA  
+MONAI  for medical image segmentation  and NVIDIA TensorRT  for optimized AI inference , the 
+biological digital twin enables interactive visualization, precise path planning and navigation support 
+for bronchoscopy, helping clinicians navigate complex procedures with greater efficiency.  
+LTTS’ deep domain engineering expertise in medical imaging and proprietary navigation systems 
+ensures the platform transforms the snapshots taken into living breathing models that evolve with the 
+patient, delivering intuitive, clinically meaningful simulat ions that mirror real -world anatomy. This helps 
+transform surgical planning and advancing care for serious conditions such as lung cancer, COPD 
+and infectious diseases.  
+“AI is reshaping what’s possible in diagnostics and medical technology,” said Alind Saxena, 
+Executive Director and President of Mobility and Tech at L&T Technology Services . “Our 
+collaboration with NVIDIA combines LTTS’ expertise in AI -driven diagnostics and predictive analytics, 
+with NVIDIA’s powerful, modeling and visualization platform. This lets us engineer a digital twin 
+platform that not only enhances diagnostic accuracy  but also gives clinicians an immersive, real -time 
+planning tool ultimately helping deliver better outcomes for patients around the world.”  
+“Working with LTTS to accelerate the development of AI -enabled medical technology demonstrates 
+how NVIDIA is empowering the healthcare industry with accelerated computing and AI innovation ,” 
+said David Niewolny, Director of Business Development for Healthcare/ Medical at NVIDIA .  
+“LTTS is enabling transformative solutions that bring the vision of real -time AI and biological digital 
+twins powered by NVIDIA to clinical practice  - delivering interactive, real -time visualization and 
+intelligent guidance to help clinicians provide higher -quality care and achieve better outcomes for 
+patients.”  
+ 
+  
+
+  
+REGISTERED OFFICE: L&T House, N.M. Marg, Ballard Estate, Mumbai - 400 001                                                                CIN: L72900MH2012PLC232169  
+ 
+www.LTTS.com                                                                      info@LTTS.com                                                                     Copyright © L&T Technology Services  About L&T Technology Services Ltd  
+L&T Technology Services (LTTS) is a global leader in AI, Digital & ER&D Consulting Services. A listed subsidiary 
+of Larsen & Toubro (L&T), we offer design, development, testing, and sustenance services across products and 
+processes.  
+ 
+Purposeful. Agile. Innovation.  is how we drive growth across the Mobility, Sustainability and Tech segments. 
+Our customer base includes 69 Fortune 500 companies and 57 top ER&D companies across industrial products, 
+medical devices, transportation, telecom & hi -tech, and process industr ies. Headquartered in India, we have 
+over 23,670 employees across 23 global design centers, 30 global sales offices, and 105 innovation labs, as of 
+September 30, 2025.  
+ 
+For more information, please visit https://www.LTTS.com/  
+ 
+Media Contact:  
+Aniruddha Basu       
+L&T Technology Services Limited     
+E: Aniruddha.Basu@LTTS.com  
+ 

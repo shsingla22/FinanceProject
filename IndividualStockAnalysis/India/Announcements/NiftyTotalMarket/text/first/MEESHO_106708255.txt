@@ -1,0 +1,50 @@
+ (Formerly known as  “Meesho Private Limited ” and “Fashnear Technologies Private Limited ”) 
+ 
+CIN:  L74900KA2015PLC082263   
+Registered  Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, 
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103  
+T: +91 9108021923 | E: cs@meesho.com  | W: www.meesho.com   
+ MEESHO LIMITED  
+July 23 , 2026  
+ 
+To,  To, 
+Listing Department   Department of Corporate Services  
+National Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza, Bandra -Kurla Complex,  
+Bandra (East), Mumbai - 400 051  Phiroze Jeejeebhoy Towers, Dalal Street,  
+Mumbai - 400 001    
+Symbol: MEESHO  Scrip Code: 544632  
+ 
+Dear Sir / Madam,  
+ 
+Subject: Shareholders’ Letter dated July 23 , 2026 . 
+ 
+Ref.: Disclosure under Regulation 30 of the Securities and Exchange Board of India  (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 as amended (“SEBI Listing Regulations”)  
+ 
+Pursuant to Regulation 30 of the SEBI Listing Regulations , please find enclosed Shareholders’ Letter  for Q 1 FY 
+2026-27 dated July 23 , 2026 . 
+ 
+This information will also be made available on the Company’s website at: www.meesho.com   
+ 
+You are requested to take the above information on record.  
+ 
+Thanking you,  
+ 
+For Meesho Limited  
+(Formerly known as Meesho Private Limited and Fashnear Technologies Private Limited)  
+ 
+ 
+Rahul Bhardwaj  
+Company Secretary and Compliance Officer  
+Membership No.: A41649  
+Encl.: As above  
+ 
+ 
+
+Our Vision: Democratising Internet Commerce for Everyone In this letter, we cover our Q1 FY27 financial performance, continued investments in AI-led TAM expansion and productivity, progress across logistics, Meesho Mall, and Content Commerce, our recent Kirana Club acquisition, and the capital allocation discipline guiding our growth. Key Metrics Metrics Q4 FY2026 Q1 FY2027 Annual Transacting Users 264 Mn YoY 33% 274 Mn YoY 29% LTM Frequency 10.1 YoY 9% 10.3 YoY 9% Quarterly Placed Orders 717 Mn YoY 43% 725 Mn YoY 29% Net Merchandise Value ₹11,371 Cr YoY 43% ₹11,614 Cr YoY 34% Contribution Margin  as % of NMV 4.0% 4.6% Last Twelve Months (LTM) Free Cash Flow: Marketplace (₹561Cr) (₹447Cr) Last Twelve Months (LTM) Free Cash Flow: New initiatives (₹72Cr) (₹90Cr) Last Twelve Months (LTM) Free Cash Flow: Group (₹633Cr) (₹537Cr) LTM Free Cash Flow  to Equity: Group (₹264Cr) (₹164Cr) Cash balance ₹6,750 Cr ₹6,521 Cr 
+Key takeaways  ● Annual Transacting Users grew 29% YoY to 274 million; LTM frequency improved to 10.3 as earlier cohorts deepened engagement.  ● Annual Transacting Sellers grew by 81% YoY to 1.04 million sellers particularly through acquiring MSME sellers through targeted campaigns and improved word-of-mouth referrals. This was further supported by seller success initiatives such as AI-powered cataloguing, demand intelligence, Gen AI voice agents supporting local languages, and product improvements that help new sellers gain visibility faster on the platform.  ● Placed Orders grew 29% YoY to 725 million in Q1 FY27, while NMV increased 34% YoY to ₹11,614 Cr, supported by sustained new user onboarding and deeper engagement from existing users. NMV growth outpaced order growth for the quarter supported by lower Cancellations and Return-to-Origin (RTO) rates due to enhancements to ‘TrustMesh’ algorithms filtering out high-risk orders. ● Contribution Margin expanded to 4.6% in Q1 FY27, supported by continued logistics cost efficiencies, and improved platform monetization. Last Twelve Months (LTM) Free Cash Flow stood at (₹537) crores and LTM Free Cash Flow to Equity stood at (₹164) crores; with cash balance of ₹6,521 crores.  ● We made significant progress this quarter towards an autonomous SDLC. We shifted code authorship, testing, and documentation to AI agents, while enabling engineers to focus on specifications, reviews, and outcomes. This has already delivered more than 2x productivity gains across our engineering organization.  Our assessment of the quarter Net Merchandise Value – Marketplace  UoM Q1 FY’26 Q2 FY’26 Q3 FY’26 Q4 FY’26 Q1 FY’27 ATUs # million 213 234 251 264 274 LTM Frequency #  9.49 9.70 9.78 10.10 10.33 Placed Orders # million 562 699 690 717 725 YoY Growth%  50% 55% 36% 43% 29% GMV – Marketplace ₹ crores 15,134 18,349 18,285 18,941 19,054 NMV – Marketplace ₹ crores 8,679 10,515 10,995 11,371 11,614 YoY Growth%  36% 51% 26% 43% 34% ● NMV grew 34% YoY to ₹11,614 crores, driven by more active users, existing users transacting more frequently, a wider category mix and rising contributions from Meesho Mall, our branded marketplace, and Content Commerce, our creator-led discovery channel. Continued improvements in PRISM (Personalised Ranking and Intent Signal Module), our recommendation system, lifted conversion by driving better discovery, personalisation and relevance.  
+● Annual Transacting Users (ATUs) scaled to 274 million, a 29% YoY increase, with transaction frequency climbing to 10.3x per consumer annually. This reflects our continued confidence in the depth of the market opportunity, as we unlock rural geographies and categories that remain underpenetrated.  ● Placed Orders also grew 29% on a YoY basis for the quarter and prepaid orders as a percentage of shipped orders reached c.37% driven by increasing consumer trust in our platform and product initiatives such as shareable UPI, Pay Before Delivery and multiple payment offers from various partners.  ● We also witnessed benefits in lower RTOs (Return to Origin) and cancellations YoY driven by our investments in predictive routing models. Meesho Mall ● Meesho Mall, now home to over ~1,200 brands, grew NMV approximately 93% YoY in Q1 FY27 as transacting consumers rose 88% YoY. Meesho Mall continued its expansion this quarter, adding national brands across categories that are close to the hearts of Indian consumers, spanning beauty and personal care, baby care, health and wellness, grocery, and fashion.  ● Meesho Mall is widening assortment and brand choice across pack sizes and price points, while opening new distribution channels for both established and emerging brands to reach Bharat consumers. ● Looking ahead, we will widen choice and accessibility for our consumers by bringing  more branded products at affordable price points, and expanding into new categories, capturing a larger share of what our consumers spend. Content Commerce ● Content Commerce NMV grew 141% YoY in Q1 FY2027, with active order-generating content pieces growing 143% YoY to 1.7mn. Every stage of the creator flywheel got stronger this quarter.  We are reaching the right creators earlier with a simplified onboarding experience. Our AI-enabled creator toolkit provides insights on content performance, highlights high-performing SKUs and guides creators towards producing high quality and revenue generating content. Contribution Margin - Marketplace          
+
+Contribution Margin continued to recover in Q1 FY27 to 4.6% of NMV (+54bps QoQ), driven by the following levers: ● Revenue Growth: Q1FY27 Revenue from Operations (marketplace) came in at ₹3,707 crores, a 48% YoY driven by improved delivery conversion through lower Cancellations, Return-to-Origin (RTO) rates and higher platform monetization. ● Logistics Costs: We continue to optimize logistics costs by strengthening network design and route optimization while also growing our prepaid share mix. During Q1 FY27, we faced cost headwinds from fuel price escalation and an increase in minimum wages in certain states. We passed this cost inflation through to the ecosystem, as we view these increases are structural rather than transient. ● Part of our logistics arm, Valmo Transportation Private Limited (VTPL), a wholly owned subsidiary, operates as an aggregator of middle-mile and last-mile services procured from multiple third-party logistics vendors registered on the platform. In the course of these operations, VTPL is classified as a Goods Transport Agency (GTA) under applicable GST law, and the associated GST treatment applies to freight recovered through this arrangement.   LTM Free Cash Flow  
+        UoM Q1 FY’26 Q2 FY’26 Q3 FY’26 Q4 FY’26 Q1 FY’27 Contribution Margin – Marketplace ₹ crores 384 349 251 459 531 Contribution Margin – Marketplace % % 4.4% 3.3% 2.3% 4.0% 4.6% Adjusted EBITDA – Marketplace ₹ crores (148) (371) (460) (198) (139) Adjusted EBITDA – Marketplace % % (1.7%) (3.5%) (4.2%) (1.7%) (1.2%) Adjusted EBITDA – New Initiatives ₹ crores (17) (13) (19) (21) (39) LTM FCF ₹ crores 229 581 56 (633) (537) 

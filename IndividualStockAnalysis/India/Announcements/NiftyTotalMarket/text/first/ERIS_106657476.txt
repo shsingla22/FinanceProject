@@ -1,0 +1,61 @@
+Date: 08 June 2026
+To
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai- 400001To
+National Stock Exchange of India Limited
+Exchange Plaza
+Bandra Kurla Complex
+Bandra (E)
+Mumbai-400051
+Security Code: 540596 Symbol: ERIS
+SUBJECT: ROUTINE INTIMATION OF INTEREST SERVICING AGAINST O/S DEBENTURES FORMING
+PART OF OUR OUTSTANDING DEBT
+REF: REGULATION 57 OF THE SEBI (LISTING OBLIGATIONS AND DISCLOSURE REQUIREMENTS)
+REGULATIONS, 2015
+Dear Sir/Madam,
+In compliance with Regulation 57 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, read with Chapter XI of SEBI Master Circular bearing reference no. SEBI/HO/DDHS/DDHS
+PoD/P/CIR/2025/0000000137 dated October 15, 2025, kindly note that the Company has made the payment of
+interest to the holders of Non-convertible Debentures ("NCDs") which forms part of our routine interest servicing
+against our o/s debt.
+In this regard, the following details should be taken on record:
+a. Whether Interest payment/ redemption payment made: Yes
+b. Details of interest payments:
+Sl. No. Particulars Details
+1. ISIN INE406M08029
+2. Issue size (Rs. In crore) 625
+3. Interest Amount to be paid on due date (Rs. In crore) 54.56
+4. Frequency -quarterly/ monthly Annual
+5. Change in frequency of payment (if any) NA
+6. Details of such change NA
+7. Interest payment record date 24-05-2026
+8. Due date for interest payment 08-06-2026
+9. Actual date for interest payment 08-06-2026
+10. Amount of interest paid (Rs. In crore) Gross TDS Net
+54.56 1.98 52.58
+11. Date of last interest payment NA
+12. Reason for non-payment/ delay in payment NA
+Sl. No. Particulars Details
+1. ISIN INE406M08011
+2. Issue size (Rs. In crore) 625
+3. Interest Amount to be paid on due date (Rs. In crore) 54.56
+4. Frequency -quarterly/ monthly Annual
+5. Change in frequency of payment (if any) NA
+6. Details of such change NA
+7. Interest payment record date 24-05-2026
+8. Due date for interest payment 08-06-2026
+9. Actual date for interest payment 08-06-2026
+10. Amount of interest paid (Rs. In crore) Gross TDS Net
+54.56 1.15 53.41
+11. Date of last interest payment NA
+12. Reason for non-payment/ delay in payment NA
+c. Details of redemption payments: NA
+Kindly take the above on record.
+Thanking You,
+For Eris Lifesciences Limited
+_________________________
+Milind Talegaonkar
+Company Secretary & Compliance Officer
+Membership No: A26493

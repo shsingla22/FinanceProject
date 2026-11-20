@@ -1,0 +1,165 @@
+31st August, 2026 
+ 
+The Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai 400 001 BSE SCRIP Code: 543425 The Listing Department  
+National Stock Exchange of India Limited 
+Exchange Plaza   
+Bandra Kurla Complex, Bandra (East)  
+Mumbai 400 051 NSE Symbol: MAPMYINDIA  
+ 
+Subject: Submission of Press Release.  
+Ref.: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015  Dear Madam / Sir,  
+ Please find attached the press release issued by C.E. Info Systems Limited announcing the MapmyIndia Mappls partner ing with ClarityX to launch ‘Geo -FI’ 
+India’s First Comprehensive Geo-Intelligence Stack for Lending.   Kindly acknowledge the receipt of the same.  
+ Thanking you.  Yours faithfully, For C.E. Info Systems Limited      Saurabh Surendra Somani  
+Company Secretary & Compliance Officer  
+ Encl:  
+Press Release  
+  MAPP LS® 
+C.E. INFO SYSTEMS LIMITED 
+(Previously known as C.E. Info Systems Pvt Ltd) 
+237, Okhla Industrial Estate, Phase-Ill, New Delhi-110020, Mappls Pin: mappls.com /mmi000, e-Mail: contact@mapmyindia.com / contact@mappls.com 
+Website:www.mapmyindia.com / www.mappls.com, Phone: +91-011-4600 9900, CIN: L74899DL 1995PLC065551, A CMMl-3 & ISO Certified Company 
+                                                                                                                                                                                                                                                                                                                                                                                                                                          
+MapmyIndia  Mappls  partners with ClarityX to l aunch ‘Geo-FI’ 
+India’s First Comprehensive Geo -Intelligence Stack for Lending  
+ 
+New Delhi, August 31 , 2026:  MapmyIndia Mappls, India’s leading advanced digital maps and deep -tech 
+products and platforms company  in partnership with ClarityX, an AI -driven data analytics and decision 
+intelligence  company today announced the launch of Geo -FI, India’s First Comprehensive Geo -Intelligence 
+Stack for Lending . Integrating spatial insights into the lending journey for the first time in India, Geo -FI 
+platform empowers BFSI companies a truly comprehensive view of borrower risk and opportunity.  
+ 
+“Over the last decade, lending process in India has transformed  from  paper -heavy, branch -led workflows 
+to digital, data -driven, ecosystem -based lending. And yet seemingly  crucial  part of the due diligence , 
+location context has remained elusive  as a source of intelligence  and as a strategic decision -making tool. 
+Geo-FI is designed to bridge this gap by adding a Geo Intelligence layer for the lending lifecycle in a secure 
+way. Rather than asking institutions to replace their existing technology, Geo-FI enables users to make 
+better decisions by integrating into the systems users already trust. A result of MapmyIndia Mappls’ 
+comprehensive digital maps, location tech stack and more than three decades experience of working with 
+several of India’s leading na tional -scale institutions across taxation, financial regulation, banking and 
+digital payments, delivering technology solutions for some of the country’s most critical public digital 
+infrastructure  and ClarityX’s analytics  capabilities  and AI engine  Geo-FI will substantially de -risk and 
+transform the way lending is done in India ,” says  Rohan Verma, Joint Managing Director, MapmyIndia 
+Mappls   
+ 
+"Geo-FI represents the convergence of spatial intelligence and lending technology stacks. While location 
+has always been present in lending, it has rarely been used as a strategic decision variable. L everaging 
+MapmyIndia’s vast and comprehensive Maps data and Location insights, ClarityX  brings together domain 
+expertise, contextual data, advanced analytics and AI to help lenders unlock the intelligence hidden within 
+geography. By transforming spatial context into actionable insights , Geo-FI will enable smarter growth, 
+risk and collections  decisions across the lending lifecycle ," says Rakhi Prasad, Co -Founder, ClarityX  
+ 
+Come experience the Geo -Fi platform at the Mappls Pavillion ( F12, F14 ) at the upcoming Global Fintech 
+Fest 2026 (Sept 9 -11) at the Jio Convention Centre, Mumbai.  
+ 
+Geo-FI is a plug -and-play Geo -Intelligence Stack  designed to augment existing lending technology. 
+Seamlessly integrating with LOS, LMS, CRM and collections platforms, it adds a powerful layer of spatial 
+intelligence across expansion , underwriting and collections wit hout disrupting existing workflows. It 
+integrates directly through APIs, spatial visualization tools  and SDKs. Flexible deployment options —on-
+premises, hybrid or cloud —enable institutions to meet their security and compliance requirements while 
+leveraging a common location intelligence layer across the lending lifecycle.  
+ 
+A Lending Stack that learns through continuous AI intelligence loop, Geo-FI powers every stage of the 
+lending journey —from identifying high -potential markets and strengthening underwriting  through 
+location verification to optimizing collections using geo -tagged field intelligence and delinquency 
+heatmaps. Every customer interaction continuously enriches the platform through geo -tagged visits, field 
+feedback, verification outcomes and on -ground intelligence. Powered by AI -driven workflows, Geo -FI 
+identifies emerging risk clusters, recommends collection priorities and improves location intelligence over 
+time, enabling a lending ecosystem that becomes smarter with every decision.  
+ 
+Geo-FI represents a shared vision between MapmyIndia Mappls and ClarityX —to make geography a 
+strategic input into lending decisions, rather than simply a field in an application form and a point on a 
+map - As lending becomes more digital, contextual intelligence  will become increasingly important. 
+                                                                                                                                                                                                                                                                                                                                                                                                                                          
+Knowing who  the customer is will always matter, but understanding where  they are, what surrounds 
+them and how that location influences credit decisioning  will become equally critical. Geo-FI has been 
+built with that vi sion—to help India's lenders move beyond static addresses and administrative 
+boundaries towards precise, data -driven smarter decisions across the lending lifecycle. Geo-FI helps 
+lenders transform that context into actionable intelligence that augments expa nsion , underwriting and 
+collections decisions across the lending lifecycle.  
+ 
+How Geo-FI Strengthens the current Lending Lifecycle Ecosystem  
+1. Geo-Analyse – Risk Aware Expansion   
+• Objective:  Identify high -potential and underserved markets  
+ 
+• Geo-Analyse Solution:  Combines lender’s data, geocoding, address intelligence, POIs, affluence, 
+demographics and micro -geography  to identify high -potential expansion  opportunities  and 
+underserved, creditworthy markets.  
+ 
+• Benefit:   Increase applications with precision location targeting. By understanding the context around 
+every location —not just the customer —lenders can expand into underserved yet creditworthy 
+markets while improving acquisition quality and outreach efforts.  
+ 
+• Metrics:  % of pin -codes opened up, number of new geographies activated  
+ 
+2. Geo-Check - Confident Underwriting  
+• Objective : Assess risk with richer location context  
+ 
+• Solution:  
+o Geo-Check transforms incomplete or unstructured customer addresses into precise geographic 
+coordinates, validates address sufficiency  
+o Strengthens Customer Profile Verification (CPV) through dual verification using GPS coordinates 
+and address matching.  
+o It further enriches underwriting with granular geo -fenced negative areas, enabling lenders to 
+assess risk at a street or locality level rather than excluding entire PIN codes.  
+ 
+• Benefit:  The result is better risk management without sacrificing growth opportunities.  
+ 
+• Metrics:  % applications geocoded, number of applications sourced from previously blocked pincodes, 
+CPV exception rate  
+ 
+3. Geo-Collect - Intelligent Collections  
+• Objective:  Prioritize and recover more intelligently  
+ 
+• Solution:  Geo-Collect enables geo -tagged field visits, on -ground feedback capture, delinquency 
+heatmaps, honeycomb spatial analytics and AI -assisted collection intelligence. Institutions gain a 
+dynamic understanding of repayment behaviour across locations, optimise collection routes, and 
+prioritise field efforts.  
+ 
+• Benefit:  Conti nuously improve recovery strategies using real -time spatial intelligence.  
+ 
+• Metrics:  % collection cases geo -tagged, Visit success rate, Field productivity uplift  
+ 
+*** 
+ 
+About MapmyIndia & Mappls (C.E. Info Systems Ltd) www.mapmyindia.com  & www.mappls.com  
+C.E. Info Systems Ltd (NSE: MAPMYINDIA; BSE: 543425) is India’s leading advanced digital maps  and deep -tech 
+company, popularly known in India as MapmyIndia and globally as Mappls. The company offers proprietary digital 
+                                                                                                                                                                                                                                                                                                                                                                                                                                          
+maps as a service ("MaaS"), software as a service ("SaaS") and platform as a service ("PaaS"), including its advanced 
+digital map data, software products, platforms, application programming interfaces (“APIs”), IoT and solutions to 
+new -age tech companies, large businesses, automotive OEMs, government organisations, developers and 
+consumers. MapmyIndia Maps - India’s most comprehensiv e, accurate, feature -rich and continuously updated 
+digital map data down to address level, built are helping build not just 2D maps, but also 3D (with landmarks, terrains 
+and city models), 4D (updating in near real -time), HD (high -definition and high -accur acy), RealView (geo -tagged 360 -
+degree panoramas, videos and photos representing actual ground reality), and hyper -local geo -demographics data -
+rich maps, to continuously evolve its AI -powered Digital Metaverse Twin of the Real World. The company’s platform 
+provides an ever -expanding set of use cases, including mapping, location and navigation, geospatial data analytics, 
+GIS (geospatial information systems) and AI, GPS tracking and IoT -based fleet management, logistics optimisation 
+and workforce management, d rone -based solutions, developer APIs, N -CASE solution suite (for Navigation, 
+Connected vehicle telematics and services, ADAS safety i.e. advanced driving assistance systems, Shared and Electric) 
+for Automotive & Mobility Tech (A&M), and Consumer tech and E nterprise digital transformation solution suite 
+(C&E).The company is also building digital maps for other regions in the world and has integrated global maps for 
+over 200 countries into its Mappls platform.  
+ 
+About ClarityX - www.clarityx.ai  
+ClarityX is an AI -driven data analytics and decision intelligence company. Combining geospatial intelligence, 
+contextual datasets, advanced analytics and AI, ClarityX helps organizations transform compl ex real -world data into 
+actionable business intelligence. The company's solutions enable enterprises to identify growth opportunities, 
+optimize operations, manage risk and make smarter decisions across industries including BFSI, retail, logistics and 
+publi c infrastructure. The company's proprietary indices, predictive models and AI -powered decision frameworks 
+leverage the combined strengths of ClarityX's analytics capabilities and multi -partner comprehensive datasets to 
+deliver insights that are both granul ar and sca lable.  
+ 
+For further information, please contact:  
+C.E. Info Systems Ltd (MapmyIndia & Mappls)  
+Email:pr@mapmyindia.com  
+www.mapmyindia.com ; www.mappls.com  ClarityX Anal ytics Pvt Ltd   
+Email: contact@clarityx.ai ,  
+www.clarityx.ai  
+White Fish Communications: Anil Nagwani - +91 9811268046 anil@wfc.in  
+ 

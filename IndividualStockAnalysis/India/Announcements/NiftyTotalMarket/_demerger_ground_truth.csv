@@ -1,0 +1,98 @@
+date,symbol,company,purpose,source,detail,isin,register_symbol,in_universe
+2024-04-19,MHLXMIRU,Mahalaxmi Rubtech Limited,DEMERGER,bc,ex 2024-04-19; series BE; file PR150424.zip,,MHLXMIRU,
+2024-04-19,MHLXMIRU,Mahalaxmi Rubtech Limited,Demerger,api,ex 2024-04-19,INE112D01035,MHLXMIRU,
+2024-05-03,SEMAC,Revathi Equipment Ltd,DEMERGER,bc,ex 2024-05-03; series BE; file PR300424.zip,,SEMAC,
+2024-05-03,SEMAC,Semac Construction Limited,Demerger,api,ex 2024-05-03,INE617A01013,SEMAC,
+2024-05-22,UEL,Ujaas Energy Limited,DEMERGER,bc,ex 2024-05-22; series BE; file PR170524.zip,,UEL,
+2024-05-22,UEL,Ujaas Energy Limited,Demerger,api,ex 2024-05-22,INE899L01030,UEL,
+2024-06-13,SANOFI,Aventis Pharma Limited,DEMERGER,bc,ex 2024-06-13; series BE; file PR050624.zip,,SANOFI,yes
+2024-06-13,SANOFI,Sanofi India Limited,Demerger,api,ex 2024-06-13,INE058A01010,SANOFI,yes
+2024-07-01,OCCL,Oriental Carbn & Chem Ltd,DEMERGER,bc,ex 2024-07-01; series BE; file PR250624.zip,,OCCL,
+2024-07-01,OCCL,Oriental Carbon & Chemicals Limited,Demerger,api,ex 2024-07-01,INE321D01016,OCCL,
+2024-07-11,RAYMOND,RAYMOND-depo,DEMERGER,bc,ex 2024-07-11; series BE; file PR040724.zip,,RAYMOND,yes
+2024-07-11,RAYMOND,Raymond Limited,Demerger,api,ex 2024-07-11,INE301A01014,RAYMOND,yes
+2024-08-02,AJMERA,Ajmera Realty & Inf I Ltd,DEMERGER,bc,ex 2024-08-02; series BE; file PR300724.zip,,AJMERA,
+2024-08-02,AJMERA,Ajmera Realty & Infra India Limited,Demerger,api,ex 2024-08-02,INE298G01027,AJMERA,
+2024-09-11,CCAVENUE,AvenuesAI Limited,Demerger,api,ex 2024-09-11,INE483S01020,CCAVENUE,yes
+2024-09-11,INFIBEAM,Infibeam Avenues Limited,DEMERGER,bc,ex 2024-09-11; series BE; file PR060924.zip,,INFIBEAM,
+2024-09-20,ROSSELLIND,Rossell India Limited,DEMERGER,bc,ex 2024-09-20; series BE; file PR190924.zip,,ROSSELLIND,
+2024-09-20,ROSSELLIND,Rossell India Limited,Demerger,api,ex 2024-09-20,INE847C01020,ROSSELLIND,
+2024-10-11,HERCULES,Hercules Hoists Limited,DEMERGER,bc,ex 2024-10-11; series BE; file PR041024.zip,,HERCULES,
+2024-10-11,HERCULES,HERCULES INVESTMENTS LIMITED,Demerger,api,ex 2024-10-11,INE688E01024,HERCULES,
+2024-12-04,EMKAYTOOLS,Emkay Tap & Cut. Tool Ltd,DEMERGER,bc,ex 2024-12-04; series SM; file PR261124.zip,,EMKAYTOOLS,
+2024-12-06,STAR,Strides Pharma ScienceLtd,DEMERGER,bc,ex 2024-12-06; series BE; file PR021224.zip,,STAR,yes
+2024-12-06,STAR,Strides Pharma Science Limited,Demerger,api,ex 2024-12-06,INE939A01011,STAR,yes
+2025-01-06,ITC,ITC LTD,DEMERGER,bc,ex 2025-01-06; series BE; file PR261224.zip,,ITC,yes
+2025-01-06,ITC,ITC Limited,Demerger,api,ex 2025-01-06,INE154A01025,ITC,yes
+2025-03-10,KESORAMIND,KESORAM INDUSTRIES LTD,DEMERGER,bc,ex 2025-03-10; series BE; file PR040325.zip,,KESORAMIND,
+2025-03-10,KESORAMIND,Kesoram Industries Limited,Demerger,api,ex 2025-03-10,INE087A01019,KESORAMIND,
+2025-04-07,SIEMENS,SIEMENS LTD - DEPO SETT.,DEMERGER,bc,ex 2025-04-07; series BE; file PR270325.zip,,SIEMENS,yes
+2025-04-07,SIEMENS,Siemens Limited,Demerger,api,ex 2025-04-07,INE003A01024,SIEMENS,yes
+2025-04-15,QUESS,Quess Corp Limited,DEMERGER,bc,ex 2025-04-15; series BE; file PR040425.zip,,QUESS,yes
+2025-04-15,QUESS,Quess Corp Limited,Demerger,api,ex 2025-04-15,INE615P01015,QUESS,yes
+2025-04-24,STLTECH,Sterlite Technologies Ltd,DEMERGER,bc,ex 2025-04-24; series BE; file PR210425.zip,,STLTECH,yes
+2025-04-24,STLTECH,Sterlite Technologies Limited,Demerger,api,ex 2025-04-24,INE089C01029,STLTECH,yes
+2025-05-09,CHEMBOND,Chembond Chemicals Ltd,DEMERGER,bc,ex 2025-05-09; series BE; file PR070525.zip,,CHEMBOND,
+2025-05-09,CHEMBOND,Chembond Material Technologies Limited,Demerger,api,ex 2025-05-09,INE995D01025,CHEMBOND,
+2025-05-09,CPCAP,Career Point Limited,DEMERGER,bc,ex 2025-05-09; series BE; file PR020525.zip,,CPCAP,
+2025-05-09,CPCAP,CP Capital Limited,Demerger,api,ex 2025-05-09,INE521J01018,CPCAP,
+2025-05-14,RAYMOND,RAYMOND-depo,DEMERGER,bc,ex 2025-05-14; series BE; file PR050525.zip,,RAYMOND,yes
+2025-05-14,RAYMOND,Raymond Limited,Demerger,api,ex 2025-05-14,INE301A01014,RAYMOND,yes
+2025-05-22,ABFRL,Aditya Birla Fas & Rt Ltd,DEMERGER,bc,ex 2025-05-22; series BE; file PR130525.zip,,ABFRL,yes
+2025-05-22,ABFRL,Aditya Birla Fashion and Retail Limited,Demerger,api,ex 2025-05-22,INE647O01011,ABFRL,yes
+2025-06-07,KHADIM,Khadim India Limited,DEMERGER,bc,ex 2025-06-06; series BE; file PR040625.zip,,KHADIM,
+2025-06-07,KHADIM,Khadim India Limited,Demerger,api,ex 2025-06-06,INE834I01025,KHADIM,
+2025-06-27,UMANGDAIRY,Umang Dairies Limited,DEMERGER,bc,ex 2025-06-27; series BE; file PR200625.zip,,UMANGDAIRY,
+2025-06-27,UMANGDAIRY,Umang Dairies Limited,MERGER/DEMERGER,bc,ex 2025-06-27; series BE; file PR250625.zip,,UMANGDAIRY,
+2025-07-18,DBREALTY,Valor Estate Limited,DEMERGER,bc,ex 2025-07-18; series BE; file PR140725.zip,,DBREALTY,yes
+2025-07-18,DBREALTY,Valor Estate Limited,Demerger,api,ex 2025-07-18,INE879I01012,DBREALTY,yes
+2025-08-25,TVSMOTOR,TVS Motor Company Limited,Scheme Of Arrangement - Bonus Ncrps 4:1,api,ex 2025-08-25,INE494B01015,TVSMOTOR,yes
+2025-09-23,905PEL26,Sec Re NCD 9.05% Sr II,SCHME OF ARRANGEMENT,bc,ex ; series N1; file PR220925.zip,,905PEL26,
+2025-09-23,912PEL27,PEL 9.12% 2027,SCHME OF ARRANGEMENT,bc,ex ; series N0; file PR220925.zip,,912PEL27,
+2025-09-23,919PEL28,PEL 9.19% 2028,SCHME OF ARRANGEMENT,bc,ex ; series N0; file PR220925.zip,,919PEL28,
+2025-09-23,91PEL35,PEL 9.10% 2035,SCHME OF ARRANGEMENT,bc,ex ; series N0; file PR220925.zip,,91PEL35,
+2025-09-23,920PEL28,Sec Re NCD 9.20% Sr III,SCHME OF ARRANGEMENT,bc,ex ; series N2; file PR220925.zip,,920PEL28,
+2025-09-23,930PEL29,PEL 9.30% 2029,SCHME OF ARRANGEMENT,bc,ex ; series N0; file PR220925.zip,,930PEL29,
+2025-09-23,935PEL26,PEL 9.35% 2026,SCHME OF ARRANGEMENT,bc,ex ; series N4; file PR220925.zip,,935PEL26,
+2025-09-23,935PEL33,Sec Re NCD 9.35% Sr IV,SCHME OF ARRANGEMENT,bc,ex ; series N3; file PR220925.zip,,935PEL33,
+2025-09-23,95PEL34,PEL 9.50% 2034,SCHME OF ARRANGEMENT,bc,ex ; series N0; file PR220925.zip,,95PEL34,
+2025-09-23,9PEL25,Sec Re NCD 9.00% Sr I,SCHME OF ARRANGEMENT,bc,ex ; series N0; file PR220925.zip,,9PEL25,
+2025-09-24,SHANKARA,Shankara Bldg Product Ltd,DEMERGER,bc,ex 2025-09-24; series BE; file PR180925.zip,,SHANKARA,
+2025-09-24,SHANKARA,Shankara Building Products Limited,Demerger,api,ex 2025-09-24,INE274V01019,SHANKARA,
+2025-10-14,TMPV,Tata Motors Limited,DEMERGER,bc,ex 2025-10-14; series BE; file PR061025.zip,INE155A01022,TATAMOTORS,yes
+2025-10-14,TMPV,Tata Motors Passenger Vehicles Limited,Demerger,api,ex 2025-10-14,INE155A01022,TMPV,yes
+2025-10-15,SKFINDIA,SKF India Limited,DEMERGER,bc,ex 2025-10-15; series BE; file PR061025.zip,,SKFINDIA,yes
+2025-10-15,SKFINDIA,SKF India Limited,Demerger,api,ex 2025-10-15,INE640A01023,SKFINDIA,yes
+2025-10-31,DALMIASUG,Dalmia Bharat Sugar and Industries Limited,Demerger,api,ex 2025-10-31,INE495A01022,DALMIASUG,
+2025-11-12,ALLCARGO,Allcargo Logistics Ltd,DEMERGER,bc,ex 2025-11-12; series BE; file PR071125.zip,,ALLCARGO,
+2025-11-12,ALLCARGO,Allcargo Logistics Limited,Demerger,api,ex 2025-11-12,INE418H01029,ALLCARGO,
+2025-12-05,HINDUNILVR,Hindustan Unilever Ltd,DEMERGER,bc,ex 2025-12-05; series BE; file PR201125.zip,,HINDUNILVR,yes
+2025-12-05,HINDUNILVR,Hindustan Unilever Limited,Demerger,api,ex 2025-12-05,INE030A01027,HINDUNILVR,yes
+2025-12-19,DCMSRIND,DCM Shriram Ind Ltd,DEMERGER,bc,ex 2025-12-19; series BE; file PR161225.zip,,DCMSRIND,
+2025-12-26,DCMSRIND,DCM Shriram Ind Ltd,DEMERGER,bc,ex 2025-12-26; series BE; file PR191225.zip,,DCMSRIND,
+2025-12-26,DCMSRIND,DCM Shriram Industries Limited,Demerger,api,ex 2025-12-26,INE843D01027,DCMSRIND,
+2026-02-06,GENUSPOWER,GENUS POWER INFRASTRU LTD,DEMERGER,bc,ex 2026-02-06; series BE; file PR270126.zip,,GENUSPOWER,
+2026-02-06,GENUSPOWER,Genus Power Infrastructures Limited,Demerger,api,ex 2026-02-06,INE955D01011,GENUSPOWER,
+2026-05-01,VEDL,Vedanta Limited,DEMERGER,bc,ex 2026-04-30; series BE; file PR210426.zip,,VEDL,yes
+2026-05-01,VEDL,Vedanta Limited,Demerger,api,ex 2026-04-30,INE205A01025,VEDL,yes
+2026-06-09,WIMPLAST,Wim Plast Ltd.,MERGER DEMERGER,bc,ex ; series BE; file PR080626.zip,,WIMPLAST,
+2026-07-02,GUJENERGY,GUJARAT ENERGY LIMITED,DEMERGER,bc,ex 2026-07-02; series BE; file PR010726.zip,,GUJENERGY,
+2026-07-02,GUJENERGY,GUJARAT ENERGY LIMITED,Demerger,api,ex 2026-07-02,INE844O01030,GUJENERGY,
+2026-07-02,GUJGASLTD,Gujarat Gas Limited,DEMERGER,bc,ex 2026-07-02; series BE; file PR230626.zip,,GUJGASLTD,
+2026-07-22,TRIVENI,Triveni Engineering & Ind,DEMERGER,bc,ex 2026-07-22; series BE; file PR150726.zip,,TRIVENI,yes
+2026-07-22,TRIVENI,Triveni Engineering & Industries Limited,Demerger,api,ex 2026-07-22,INE256C01024,TRIVENI,yes
+2026-08-01,INOXGREEN,Inox Green Energy Ser Ltd,DEMERGER,bc,ex 2026-07-31; series BE; file PR230726.zip,,INOXGREEN,yes
+2026-08-01,INOXGREEN,Inox Green Energy Services Limited,Demerger,api,ex 2026-07-31,INE510W01014,INOXGREEN,yes
+2026-08-22,SIYSIL,Siyaram Silk Mills Limited,Scheme Of Arrangement - Bonus Ncrps 4:1,api,ex 2026-08-21,INE076B01010,SIYSIL,
+2026-08-22,SIYSIL,Siyaram Silk Mills Limited,Scheme Of Arrangement - Bonus Ncrps 3:1,api,ex 2026-08-21,INE076B01010,SIYSIL,
+2026-09-02,INDIAGLYCO,India Glycols Ltd,DEMERGER,bc,ex 2026-09-02; series BE; file PR260826.zip,,INDIAGLYCO,yes
+2026-09-02,INDIAGLYCO,India Glycols Limited,Demerger,api,ex 2026-09-02,INE560A01015,INDIAGLYCO,yes
+2026-09-07,HEGAM,HEG Ltd,DEMERGER,bc,ex 2026-09-07; series BE; file PR260826.zip,INE545A01024,HEG,yes
+2026-09-07,HEGAM,HEG Advanced Materials Limited,Demerger,api,ex 2026-09-07,INE545A01024,HEGAM,yes
+2026-09-08,TVSHLTD,TVS Holdings Limited,Scheme Of Arrangement - Bonus Ncrps 46:1,api,ex 2026-09-08,INE105A01035,TVSHLTD,
+2026-10-02,KMSUGAR,K.M.Sugar Mills Limited,DEMERGER,bc,ex 2026-10-01; series BE; file PR280926.zip,,KMSUGAR,
+2026-10-02,KMSUGAR,K.M.Sugar Mills Limited,Demerger,api,ex 2026-10-01,INE157H01023,KMSUGAR,
+2026-10-06,VERANDA,Veranda Learning Sol Ltd,DEMERGER,bc,ex 2026-10-06; series BE; file PR240926.zip,,VERANDA,
+2026-10-06,VERANDA,Veranda Learning Solutions Limited,Demerger,api,ex 2026-10-06,INE0IQ001011,VERANDA,
+2026-10-08,BHAGYANGR,Bhagyanagar India Limited,DEMERGER,bc,ex 2026-10-08; series BE; file PR011026.zip,,BHAGYANGR,
+2026-10-08,BHAGYANGR,Bhagyanagar India Limited,Demerger,api,ex 2026-10-08,INE458B01036,BHAGYANGR,

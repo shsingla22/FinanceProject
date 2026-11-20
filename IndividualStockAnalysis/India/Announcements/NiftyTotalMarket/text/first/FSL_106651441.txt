@@ -1,0 +1,153 @@
+ 
+ 
+Firstsource Solutions Ltd  
+1st Floor, Athena Towers, Mindspace Malad, Goregaon (W), Mumbai – 400 063 India  
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 0887 | Web: www.firstsource.com  
+  
+                                                      (CIN: L64202MH2001PLC134147 ) 
+ 
+ 
+1st June  2026 
+ 
+To: 
+ 
+National Stock Exchange of India 
+Limited (Scrip Code: FSL)  
+Exchange Plaza,  
+Plot no. C/1, G Block,  
+Bandra -Kurla Complex  
+Bandra (East),  
+Mumbai - 400 051   
+BSE Limited (Scrip Code: 532809)  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+ 
+ 
+Dear Madam/ Sir,  
+ 
+Sub: Press Release  
+ 
+This is to inform that a Press Release titled  – “Firstsource and AppliedAI Report Real -World 
+Results from Strategic Partnership ” is attached along with this letter . 
+ 
+You are kindly requested to take the same on record and oblige.  
+ 
+Thanking you,  
+ 
+ 
+For Firstsource  Solutions Limited  
+ 
+ 
+ 
+ 
+Pooja Nambiar  
+Company Secretary  
+Encl.:  A/a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRESS RELEASE  
+ © Firstsource Solutions Limited  1  
+ 
+Firstsource and AppliedAI Report Real -World Results from Strategic 
+Partnership  
+Six months after its strategic investment, Firstsource announces proven outcomes from live deployments 
+in healthcare and education , with processing times cut by over 95% and throughput increased up to 10x  
+Mumbai, India | June  1, 2026: Firstsource Solutions Limited  (NSE:FSL, BSE:532809),  a global intelligence partner and an RP -Sanjiv 
+Goenka Group company  today announced the first measurable outcomes from its strategic partnership with AppliedAI — the 
+enterprise AI workflow automation company in which Firstsource made a strategic equity investment in November 2025.  
+ 
+The results mark a decisive shift from commitment to proof. In the six months since the investment was announced, Firstsource  
+and AppliedAI have moved from pilot to production, deploying joint solutions across two document -intensive, compliance -heavy 
+process domains in enterprise operations: healthcare provider data management and education  admissions . Both deployments 
+are live with clients, and the outcomes are  measurable . 
+ 
+From Commitment to Outcomes  
+When Firstsource announced its investment in AppliedAI  in November 2025, the thesis was clear: the future of enterprise 
+operations lies not in applying AI as a point solution, but in rebuilding workflows from the ground up — with compliance, human 
+oversight, and measurable ROI built in from the start. Applied AI's Opus platform and its Large Work Model were identified as the 
+right foundation for that vision.  
+ 
+“Enterprises today don’t need more automation tools — they need outcomes. Our partnership with AppliedAI is fundamentally 
+changing how work gets done across both  regulated and unregulated industries. What these deployments prove is that when you 
+rebuild the workflow rather than bolt AI on top of it, the gains aren’t incremental — they’re transformational. This is what 
+Intelligence That Operates looks like in practice,” shared  Ritesh Idnani, CEO & Managing Director, Firstsource.  
+ 
+“The pilot era of enterprise AI is over. Every enterprise has run experiments; what separates the leaders is whether those 
+experiments have become operations. What we have built with Firstsource is a repeatable model: deep domain expertise from 
+Firstsource , workflow automation infrastructure from Opus, and outcomes that land in weeks, not years. The results in provider 
+data and admissions workflow automation are not edge cases — they are proof that this works, and a template for what comes 
+next,”  said Arya Bolurfrushan, Founder & CEO, AppliedAI.  
+ 
+What the last six months have demonstrated is that this approach works in production . 
+ 
+Healthcare: Provider Data Management  
+Provider data management remains one of the most fragmented and error -prone processes for healthcare payers. A provider's 
+information — from licensure and credentials to network status and contact details — must be ingested, validated, and kept 
+current acr oss systems, often drawn from dozens of disparate source formats submitted by thousands of individual providers.  
+ 
+Results from live deployments of the joint Firstsource –AppliedAI solution:  
+• Up to 93% reduction in processing time , from approximately 15 minutes per record to under one minute  
+• Reduction in data entry errors , with full auditability and human review at every critical decision point  
+ 
+Education: Admissions Workflow Automation  
+Admissions processing involves manual review of applications, credential verification, document completeness checks, and rubr ic-
+based evaluation. These steps are inherently repetitive and well -suited for intelligent automation, provided compliance, 
+consist ency, and audit requirements are maintained.  
+ 
+Results from live deployments of the joint  Firstsource -AppliedAI  solution:  
+• 5–10x increase in throughput, from approximately 8 minutes per application to ~2 minutes  
+• Up to 90% reduction in manual processing effort  
+ 
+ 
+PRESS RELEASE  
+ © Firstsource Solutions Limited  2  
+ 
+This collaboration moves beyond experimentation with AI to operationalizing it at scale , embedding intelligence directly into 
+workflows to deliver measurable business outcomes. Together, Firstsource and AppliedAI are building and deploying industry -
+specific, repeatable use cases that re -architect how complex, compliance -heavy processes are exe cuted.  
+ 
+The competitive advantage will belong to enterprises that can operationalize AI inside live workflows —not as copilots, but as 
+accountable systems of execution.  Through this partnership, Firstsource and AppliedAI are setting a new benchmark for enterprise 
+AI adoption , bringing Intelligence That Operates into live enterprise workflows at scale, with domain expertise, compliance, and 
+measurable  outcomes  at the core . 
+ 
+---- 
+ 
+ 
+ 
+ 
+About Firstsource  
+Firstsource Solutions Limited, an RP -Sanjiv Goenka Group company (NSE: FSL, BSE: 532809), is a global intelligence partner to enterprises acros s 
+healthcare, banking and financial services, communications, media, technology, retail, and utilities. Its inch -wide, mile -deep practitioners work 
+collaboratively to reimagine business process management. With operations across the US, UK, India, Philippines, Mexico, Roma nia, Trinida d & 
+Tobago, South Africa, and Australia, Firstsource combines over twenty -five years  of domain expertise with an agent -first delivery model to 
+design, build, and operate intelligent enterprise operations. Through its Intelligence That Operates promise —powered by Kairos, the operating 
+system that makes it real —the company unifies consultin g, implementation, and operations into a single full -stack engagement and underwrites 
+outcomes, not effort, turning deep domain intelligence into a compounding operational advantage for the world’s most regulate d industries .  
+(www.firstsource.com ) 
+ 
+About AppliedAI  
+AppliedAI, the world's "most boring AI" company, delivers measurable enterprise outcomes. The UAE's recognised national AI -champion, 
+headquartered in Abu Dhabi, partners with institutions across healthcare, insurance, financial services and government enti ties to redesign, 
+integrate, and evolve mission -critical workflows.  With an expanding global presence, the company recently launched its APAC operations , 
+establishing a regional hub in Kuala Lumpur and offices in Singapore and Hong Kong. Its flagship platf orm, Opus, turns regulated processes into 
+AI-powered workflows and builds a Digital Twin:  a living model of your automated enterprise. As the first APX -driven platform, Opus defines the 
+category standard with compliance, human oversight, and ROI at scale. It guides organisations through the full lifecycle: Dis cover, Build, Run, 
+and Optimise Co ntinuously. Unlike tools that simply automate what already exists, Opus reimagines processes AI first. Humans stay where they  
+matter most. Everything else runs on agen ts. (https://www.opus.com/ ) 
+ 
+ 
+ 
+ 
+Media Contact s:  
+ 
+Madhavi Behl  
+Firstsource  
+Madhavi.behl@firstsource.com  

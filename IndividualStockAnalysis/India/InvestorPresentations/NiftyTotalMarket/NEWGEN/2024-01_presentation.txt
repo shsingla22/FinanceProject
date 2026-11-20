@@ -1,0 +1,931 @@
+
+=== page 1 ===
+                                                                    
+Newgen Software Technologies Limited  
+CIN: L 72200DL 1992PLC049074, Registered Office: E-44/13, Okhla Phase II, New Delhi 110020, India  
+Tel: +91 11 46533200, 26384060, 26384146   Fax:+91 11 26383963  
+ 
+                                                                  
+Date:  16th January 2024  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  
+ National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400051  
+ 
+Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+Scrip Code – 540900  Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+ 
+ 
+   Sub. : Investor Presentation and Press Release on Unaudited  Financial Results for the 3rd quarter  
+and nine months ended  31st December 2023 
+ 
+Dear Sir/ Ma'am,  
+ 
+Pursuant to the above -mentioned subject, we are hereby enclosing the following:  
+ 
+1) Investor Presentation; and  
+2) Press Release on Unaudited Financial Results.  
+This is for your kind information and record.  
+ 
+Thanking you.  
+ 
+For Newgen Software Technologies Limited  
+ 
+ 
+Aman Mourya  
+Company Secretary  
+ 
+  Encl. : a/a 
+ 
+=== page 2 ===
+1 |  Newgen Software. Privileged and Confidential Information. Copyright ©2021. All rights reserved.
+Newgen Software 
+Technologies Ltd.
+Q3 FY’24 Investor Presentation 
+
+=== page 3 ===
+Newgen –Business Highlights (FY’23)
+(1) Customers billed in last 12 months 
+All Figures as of March 31, 2023Established in 1992 
+one world, one workplace
+Direct presence 
+in 7 countries
+Partner with leading 
+GSIs
+44 patents filed, 
+23 approved
+Consistently recognized by 
+Gartner and ForresterOver 520+ active customers (1)
+17 verticals 
+Major Verticals including~3,800 Personnel
+(with ~570 personnel in R&D
+~330 personnel in S&M)
+(Customers across 74 countries)
+Banking & FS, Insurance, Government
+27% increase in average deal sizes:
+51 customers over Rs 50mn billing
+
+=== page 4 ===
+Newgen –Financial Snapshot (FY’23)
+Rs 10,080 Million 
+Total Income
+(25% YoY Growth) 
+Rs 3,227 Million
+Subscription Revenues*
+(31% YoY Growth) 
+with over Rs 1,000Mn SaaS revenues
+Rs 1,763 Million
+PAT
+(18% PAT Margin)Rs 9,768 Million
+Networth
+Rs 1,366 Million
+Cash Flow from Operations
+Rs 12,905 Million(3)
+Total Bookings**
+(29% YoY Growth)
+(Billing growth at 29% YoY)
+* Subscription revenues comprise of ATS/AMC and Cloud/ Subscription License revenue streams. SaaS revenues comprise Cloud/ Subscription License Revenues
+**Total Bookings  (include more than 1 year for subscription license and cloud)
+All Figures as of March 31, 2023, reported figures pre -mergerRs 2,122 Million
+EBITDA
+(22% EBITDA Margin)
+=== page 5 ===
+Deliver contextual content 
+for smarter decision making 
+and improved collaborationCommunicate Process & Adapt Digitize
+Manage complex business 
+information and extract 
+intelligent insightsDigitize end-to-end customer 
+and employee journeys with 
+low code
+Deliver personalized 
+communications across 
+channels at scale
+Contextual Content 
+Services (ECM) 
+OmniDocsLow Code Process 
+Automation (BPM)
+iBPSOmnichannel 
+Customer 
+Engagement (CCM)
+OmniOMSNewgen: Enterprise-wide unified digital transformation platform provider
+Data Science
+Enable intelligent decision-
+making by infusing AI into 
+business processes
+Artificial 
+Intelligence Cloud
+
+=== page 6 ===
+Holistic Transformation with —NewgenONE
+Data Science and AI
+Model training, Visualization
+Analytics-based Process insights
+Taxonomy Management
+Content Classification and AnalyticsContextual Content and Communications 
+Content Services
+Intelligent Document Processing
+Records Management 
+Contextual and Personalized Communications
+Integration
+Catalogue of reusable Services
+Pre-integrated Connectors
+Integration frameworks
+Microservices
+DevOpsLow Code Application Development
+No Code/Low Code 
+Portal Interface Development
+Mobile App Development
+Business Rules Management
+Back-office App and Desktop DevelopmentProcess Automation
+Business Process Management 
+Journey Orchestration
+RPA
+Business Operations Dashboard
+Process Optimization 
+Master Data Management
+Governance and Security
+Privacy and Access Control 
+Audit Trails
+Data Encryption
+Regulatory Compliance
+
+=== page 7 ===
+Business Applications Range in Complexity of Process & Information
+NewgenONE digital 
+transformation platform
+is a comprehensive,unified
+platform with native
+process automation, 
+content services, and 
+communication 
+management capabilities
+Simple, Departmental 
+Business ProcessesComplex, Enterprise-wide 
+Business ProcessesSimple Information
+Complex InformationPure-play Low Code 
+Application PlatformsTraditionally Strong 
+Content Management 
+PlatformsTraditionally Strong 
+Process Automation 
+PlatformsComprehensive Digital 
+Transformation Platforms
+
+=== page 8 ===
+Global SI partnerships for 
+reach and scaleGlobal SI partnerships for 
+reach and scaleDomain expertise packaged 
+as composable componentsDomain expertise packaged 
+as composable componentsFocused on professional IT 
+developers for agility and 
+productivityFocused on professional IT 
+developers for agility and 
+productivityA natively-built, unified, hyperautomationplatform for complex, content-driven, and customer-
+engaging business applicationsA natively-built, unified, hyperautomationplatform for complex, content-driven, and customer-
+engaging business applicationsWhat Makes NewgenONE Stand Out!
+30 years of low code philosophy and methodology
+Software platform domain and expertise since 1992
+=== page 9 ===
+Social Web Portal
+ Mobile
+ E-mail
+CaptureCapture ProcessProcess StoreStore ExtendExtendChannels of 
+EngagementChannels of 
+Engagement Scan Office
+Professional 
+ScanningProfessional 
+ScanningDocument 
+Quality 
+AnalyzerDocument 
+Quality 
+Analyzer
+Web 
+ScanningWeb 
+ScanningIntelligent 
+ExtractionIntelligent 
+Extraction
+Multiple 
+FormatsMultiple 
+FormatsSmart 
+IndexingSmart 
+IndexingActiveScript 
+AutomationActiveScript 
+AutomationContent 
+AnalyticsContent 
+Analytics
+RPARPA Content
+CollaborationContent
+CollaborationContent 
+ManagementContent 
+Management
+Security and 
+ComplianceSecurity and 
+ComplianceCloud 
+Storage & 
+RepositoriesCloud 
+Storage & 
+Repositories
+Customer 
+CommunicationCustomer 
+CommunicationIndustry 
+ApplicationsIndustry 
+Applications
+Enterprise 
+ConnectorsEnterprise 
+ConnectorsContent 
+MicroservicesContent 
+MicroservicesProductivity 
+ApplicationsProductivity 
+ApplicationsAutomated 
+ClassificationAutomated 
+ClassificationContent 
+WorkflowsContent 
+Workflows
+Content 
+DiscoveryContent 
+DiscoveryRemote 
+ImagingRemote 
+ImagingRecords 
+ManagementRecords 
+ManagementDigitize Workplace with Contextual Automation, Compliance, and Intelligence –On Cloud 
+Contextual Content ServicesContextual Content Services Cloud/On-premisesCloud/On-premises IntegrationIntegrationNewgenONE With Contextual Content Services Capability…
+=== page 10 ===
+Web Portal
+ Mobile
+ Web/Message/Scan
+ In-Person
+ Social
+Government 
+/PSU Entities
+Insurance 
+Companies
+Shared Services 
+and BPOs
+Other 
+Industries
+Financial 
+InstitutionsBusiness ApplicationsBusiness Applications
+IntegrationIntegration Cloud/On-premisesCloud/On-premises Low Code Process AutomationLow Code Process AutomationLow Code 
+DevelopmentLow Code 
+DevelopmentProcess 
+ModelingProcess 
+Modeling
+Business 
+RulesBusiness 
+RulesProcess 
+SimulationProcess 
+SimulationContent 
+ManagementContent 
+ManagementResponsive 
+FormsResponsive 
+FormsAI/MLAI/ML DevOpsDevOpsAnalytics and 
+Process InsightsAnalytics and 
+Process InsightsRPARPAData 
+ModelingData 
+ModelingCase 
+ManagementCase 
+ManagementRapid Application Development for Deep and Complex Business Applications –Across DevicesNewgenONE With Low Code Process Automation Capability…
+=== page 11 ===
+DesignDesign GenerateGenerate TrackTrack EngageEngage
+User-defined RulesUser-defined RulesMultiple Format 
+OutputMultiple Format 
+OutputComprehensive 
+ReportingComprehensive 
+ReportingConditional RoutingConditional RoutingPDF/MS Word 
+ImportPDF/MS Word 
+ImportApproval WorkflowsApproval Workflows Response TrackingResponse TrackingNatural Language 
+Processing (AI/ML)Natural Language 
+Processing (AI/ML)
+Version ControlVersion Control Active XMLActive XML Audit LogsAudit LogsContextual 
+ResponseContextual 
+ResponseTemplate LibraryTemplate LibraryCommunication 
+SchedulingCommunication 
+SchedulingSocial ListeningSocial ListeningProduction 
+MonitoringProduction 
+MonitoringIntegration 
+EcosystemIntegration 
+EcosystemOutput 
+ChannelsOutput 
+Channels
+Web SMSPrinter Email
+ArchiveSocial FTPEnterprise Use CasesEnterprise Use Cases
+Branding and 
+PersonalizationIndustry 
+ComplianceBatch 
+Communication
+Multi-Lingual 
+CommunicationWorkflow-driven 
+Communication
+Whitespace 
+MarketingOne-to-One 
+CorrespondenceOn-Demand
+Response
+Customer and 
+Employee-facing 
+Applications
+Data Formats 
+and Sources
+Omnichannel Customer EngagementOmnichannel Customer EngagementUse the Business Data and Manage the Communication Output –Personalized and at ScaleNewgenONE With Personalized Customer Engagement Capability…
+=== page 12 ===
+Newgen AI Cloud –A unified platform for all data science needs 
+
+=== page 13 ===
+A Strong Performer in The Forrester Wave
+ : Digital Process 
+Automation Software, Q4 2023
+A “Leader” in The Forrester Wave
+ : Content Platforms, Q1 
+2023
+A “Strong Performer” in Forrester Wave
+ : Robotic Process 
+Automation, Q1 2023 Report
+Recognized as a Notable Vendor in Forrester’s ‘The Digital 
+Process Automation Landscape, Q2 2023’ on 2nd June 2023
+Recognized as a Notable Vendor in Forrester’s ‘The Accounts 
+Payable Invoice Automation Landscape, Q4 2023’ on 11th 
+December 2023
+Mentioned in Forrester’s Trends Report ‘The State Of Digital 
+Lending In India, 2023’ on 16th October 2023
+Recognized as a Notable Vendor in Forrester’s ‘The Low-Code 
+Development Platforms For Professional Developers 
+Landscape, Q1 2023’ on 7th February 2023A Strong Performer in The Forrester Wave
+ : Digital Process 
+Automation Software, Q4 2023
+A “Leader” in The Forrester Wave
+ : Content Platforms, Q1 
+2023
+A “Strong Performer” in Forrester Wave
+ : Robotic Process 
+Automation, Q1 2023 Report
+Recognized as a Notable Vendor in Forrester’s ‘The Digital 
+Process Automation Landscape, Q2 2023’ on 2nd June 2023
+Recognized as a Notable Vendor in Forrester’s ‘The Accounts 
+Payable Invoice Automation Landscape, Q4 2023’ on 11th 
+December 2023
+Mentioned in Forrester’s Trends Report ‘The State Of Digital 
+Lending In India, 2023’ on 16th October 2023
+Recognized as a Notable Vendor in Forrester’s ‘The Low-Code 
+Development Platforms For Professional Developers 
+Landscape, Q1 2023’ on 7th February 2023
+Trusted by Leading Analysts
+Source: https://newgensoft.com/company/recognition/A “Niche Player” in Gartner® Magic Quadrant
+ for Enterprise Low-Code 
+Application Platforms, October 2023, published on 17th October 2023, et al.
+Recognized as a Representative Vendor in Gartner® Market Guide for 
+Commercial Loan Origination Solutions on 6th Nov 2023.
+Recognized as a Representative Vendor in Gartner® Market Guide for 
+Commercial Banking Cash Management and Trade Finance Solutions on 
+26th Oct 2023.
+Recognized as a Representative Vendor in Recognized in Gartner® Market 
+Guide for Business Process Automation Tools on 23rd October 2023.
+Recognized in Gartner® Critical Capabilities for Enterprise Low-Code 
+Application Platforms on 18th Oct 2023.
+Recognized in Gartner® Market Guide for Accounts Payable Invoice 
+Automation Solutions published on 7th August 2023 by Micky Keck
+Recognized in Gartner® Market Guide for U.S. Healthcare Payers’ Provider 
+Network Management Applications, published on 13th Feb 2023, Connie 
+Salgy
+Recognized in Gartner® Market Guide for Content Services Platforms 2023, 
+published on 9th Jan 2023, Marko Sillanpaa et al.A “Niche Player” in Gartner® Magic Quadrant
+ for Enterprise Low-Code 
+Application Platforms, October 2023, published on 17th October 2023, et al.
+Recognized as a Representative Vendor in Gartner® Market Guide for 
+Commercial Loan Origination Solutions on 6th Nov 2023.
+Recognized as a Representative Vendor in Gartner® Market Guide for 
+Commercial Banking Cash Management and Trade Finance Solutions on 
+26th Oct 2023.
+Recognized as a Representative Vendor in Recognized in Gartner® Market 
+Guide for Business Process Automation Tools on 23rd October 2023.
+Recognized in Gartner® Critical Capabilities for Enterprise Low-Code 
+Application Platforms on 18th Oct 2023.
+Recognized in Gartner® Market Guide for Accounts Payable Invoice 
+Automation Solutions published on 7th August 2023 by Micky Keck
+Recognized in Gartner® Market Guide for U.S. Healthcare Payers’ Provider 
+Network Management Applications, published on 13th Feb 2023, Connie 
+Salgy
+Recognized in Gartner® Market Guide for Content Services Platforms 2023, 
+published on 9th Jan 2023, Marko Sillanpaa et al.
+
+=== page 14 ===
+Resilient Business Model in Place
+(1) Annuity comprises ATS/AMC, Cloud/ Subscription License and Support revenuesSale of Services Sale of Products61% 18% 21%
+Annuity Revenues(1) Large annuity revenues streams
+InsuranceGovt.66% 9%8%
+Banking & FS7%
+Health Mission critical solutions across  key verticalsFY23 Revenue Split by Segment
+USA India32% 31%24%
+EMEA13%
+APAC Diversification across geographies
+FY23 Revenue Split by Geography3%
+BPO7%
+Others
+FY23 Revenue Split by Segment
+=== page 15 ===
+Innovation at the Core
+Investment of 10% of revenues in R&D initiatives in FY’23
+44 patents filings, 23 granted till date
+NewgenONE platform (new generation) backed with a cloud-native, multi-
+persona AI/ML data science platform, enhanced document classification and 
+extraction capabilities, integrated process and Robotic Process Automation 
+capabilities, and strengthened DevOps for easy application deployment/update 
+Deep domains solution offerings released including Low code Trade Finance 
+Platform
+
+=== page 16 ===
+Our Go-to-market
+~380* Employees in Sales & Marketing/ Solutioning 
+supported by a large network of 300+ channel 
+partners 
+Focus on Tier-1 customers in five core verticals in 
+India, APAC, and Middle East & Africa Region. Strong 
+emphasis on Banking sector in traditional markets 
+Focus on larger size banks and credit unions in the 
+mature markets with higher mining ability
+Differentiated 'land and expand' model through sale 
+of complete functionality with initial purchase, 
+facilitating seamless creation of new applicationsIncreasing traction in the developed markets of US, 
+Europe and APAC –with focus on sales through  
+Global System Integrators (GSIs)
+Aggressive investments in enhancing visibility and 
+brand awareness through various initiatives -digital 
+events, analyst and consultant engagements, 
+increased digital presence and outreach
+Newgen products well-accepted by some of the 
+largest GSIs and their customers.
+Continuous support to partners in pre-sales, sales, 
+marketing initiatives and provision of trainings, 
+certification programs, partner portal, technical 
+assistance etc. Strategy Across Regions and Verticals is Based on Direct 
+Presence Supported by Partner EcosystemStrategy Across Regions and Verticals is Based on Direct 
+Presence Supported by Partner EcosystemSystem Integrators-led go-to-market Targeting
+Fortune 2000 Enterprises in Mature MarketsSystem Integrators-led go-to-market Targeting
+Fortune 2000 Enterprises in Mature Markets
+* Regrouped
+=== page 17 ===
+961
+1,275
+1,686
+2,002
+2,461
+3,227
+FY'18 FY'19 FY'20 FY'21 FY'22 FY'232,209
+3,030
+3,686
+3,871
+4,565
+5,945
+FY'18 FY'19 FY'20 FY'21 FY'22 FY'23Strong Acceleration in Annuity and Subscription Revenues 
+Subscription Revenues (INR Mn)Subscription Revenues (INR Mn)
+(INRm)Annuity Revenues (INR Mn)Annuity Revenues (INR Mn)
+(INRm)
+(1) Subscription revenues comprise of ATS/AMC and Cloud/ Subscription License  revenue streams
+(2) Annuity Revenues comprise of ATS/AMC, Cloud/ Subscription License and Support revenue streams
+(3)SaaS revenues comprise Cloud/ Subscription License Revenues22%
+(FY’18-23 CAGR) 27%
+(FY’18-23 CAGR) 
+114
+239
+383
+496
+618
+998
+FY'18FY'19FY'20FY'21FY'22FY'23SaaS Revenues (INR Mn)SaaS Revenues (INR Mn)
+(INRm)
+54%
+(FY’18-23 CAGR) 
+=== page 18 ===
+Growing Large Customer Base with low client concentration
+51 38 26
+FY’21 FY’22 FY’23Increasing base of customers with over 
+Rs 50Mn billing Increasing base of customers with over 
+Rs 50Mn billing Low Client ConcentrationLow Client Concentration
+15%22%34%
+15%24%34%
+17%26%35%
+0%10%20%30%40%
+Top 5 Top 10 Top 20
+FY'21 FY'22 FY'23
+=== page 19 ===
+Board of Directors
+Kaushik Dutta
+Independent 
+Director
+Saurabh Srivastava
+Independent 
+DirectorSubramaniam 
+Ramnath Iyer
+Independent Director
+Padmaja Krishnan
+Independent
+Director
+Diwakar Nigam
+Chairman and 
+Managing Director
+T.S. Varadarajan
+Whole 
+Time Director
+Priyadarshini Nigam
+Whole 
+Time Director
+
+=== page 20 ===
+Leadership Team
+Diwakar Nigam
+Chairman and Managing Director
+Tarun Nandwani
+Chief Operating Officer
+Anand Raman
+EVP & COO -Newgen Software Inc. 
+Rajvinder Singh Kohli
+Sr. VP –Global GSI Sales
+Virender Jeet
+Chief Executive Officer
+Dr. S.J. Raj
+EVP –Global Business Strategy and HR
+Arun Kumar Gupta
+Chief Financial Officer
+
+=== page 21 ===
+Leadership Team
+Sunil Pandita
+VP –Sales (India)
+Vivek Bhatnagar
+VP –Sales (EMEA)
+R. Krishna Kumar
+VP –Sales 
+(Australia)
+Ashok Kapoor
+VP –Customer 
+Experience
+ManojitMajumdar
+VP –Channel Sales
+Vivek Mani 
+Tripathi
+VP –HRD & 
+Operations
+Pramod Kumar
+VP –Sales (APAC)
+Anurag Kumar Shah
+VP –Product & 
+Solutions (Americas)Arpan Bansal
+VP –Marketing 
+(Govt. & GSI 
+Initiatives)
+Nikhil Sawhney
+VP –Customer 
+Relations (EMEA, APAC)
+Prashant Sahai
+VP –Sales  
+(Middle East)
+Ritesh Varma
+VP –Product & 
+Solutions (India, 
+EMEA, APAC) 
+Mukesh Bhatnagar
+VP –International 
+Operations
+Shikha Bhatt
+VP –Delivery 
+(India)
+Atin Kumar
+Head-Global 
+Delivery
+Sandeep Hinduja 
+VP –Sales (US)
+Nitin Gupta
+VP –Customer 
+Success (Americas)
+Sanjay Pandey
+VP –EngineeringVarun Goswami
+VP –Product 
+Management
+RunkiGoswami
+VP –Marketing
+
+=== page 22 ===
+Q3 FY’24 Results
+=== page 23 ===
+Financial Summary (Consolidated)
+9MFY’24v/s9MFY’23
+Strong growth trajectory with revenue growth of 30% YoY driven by broad based growth especially in the traditional
+markets.
+ProfitafterTaxwitnessedagrowthof51%YoYwithPATmarginsat17%
+YoY 
+Growth9M FY23 
+(Unaudited) 9M FY24 
+(Unaudited) QoQ 
+Growth Q2FY24 
+(Unaudited) YoY 
+GrowthQ3FY23 
+(Unaudited) Q3FY24 
+(Unaudited) Particulars 
+29.8% 6,689 8,686 10.4% 2,932 27.0% 2,549 3,237 Revenue from 
+operationsRevenue 
+(INR Mn) 26.4% 261 330 19.5%93 18.8%94 112 Other Income
+29.7% 6,950 9,016 10.7% 3,026 26.7% 2,643 3,348 Total Income
+43.2% 1,158 1,658 35.3% 569 30.8% 589 770 EBITDA (adjusted 
+for other income)Profits 
+(INR 
+Mn) 50.8% 971 1,463 43.0% 478 44.5% 473 683 Profit after tax
+17.3% 19.1% 19.4% 23.1% 23.8%EBITDA(adjusted 
+for other income)Margin 
+(%) 
+14.5% 16.8% 16.3% 18.6% 21.1%Profit after tax (on 
+revenue)
+50.5% 6.97 10.50 42.9% 3.43 44.2% 3.40 4.90 Basic EPS 
+(INR) 47.1% 6.94 10.21 40.8% 3.36 39.9% 3.38 4.73 Diluted
+=== page 24 ===
+Revenues Across Verticals and Geographies
+Q3 FY’24 Revenue Split by VerticalQ3 FY’24 Revenue Split by Vertical Q3 FY’24 Revenue Split by GeographyQ3 FY’24 Revenue Split by Geography Q3 FY’24 Revenue Split by SegmentQ3 FY’24 Revenue Split by Segment
+Banking
+65%Govt/ 
+PSUs
+11%BPO/IT
+2%Insurance
+10%Healthcare
+7%Others
+5% India
+34%
+EMEA
+31%USA
+22%APAC (Ex-India)
+13%Sale of 
+Products
+17%
+SaaS
+11%
+ATS/AMC
+19%Support
+29%Implementation 
+& other services
+24%
+=== page 25 ===
+Key Business Highlights
+Recognized as a ‘Strong Performer’ in The Forrester Wave
+ : Digital Process Automation Software (DPA), 
+Q4 2023*
+NewgenpositionedasaLeaderinEverestGroup'sLow-codeTechnologyProvidersinInsurance–Products
+PEAKMatrix®Assessment2023
+Recognized as a “Niche Player” Gartner® Magic Quadrant
+ for Enterprise Low-Code Application
+Platforms fourthtimeinarow,inOctober2023*
+11newcustomerlogoadditions inthequarter,38newlogoadditions in9monthsending31Dec23.
+Partnered with Duck Creek Technologies, a leading provider of comprehensive Property & Casualty (P&C)
+insurance software and services for insurers, to offer NewgenONE OmniDocs Contexual Content Services
+platformtoinsurers
+IssueofBonusSharesintheratioof1:1
+*https://newgensoft.com/company/recognition/
+=== page 26 ===
+Key Business Highlights
+KeyCustomerOrders:
+oFurther strengthened the collaboration with an Indian public sector bank by providing the 
+crucial Trade Finance and Supply Chain Finance solution . The total order value is Rs 18 crores. 
+oContinuing with the strong order momentum in India, won an order from a leading player in the 
+financial services industry offering asset and liability product solutions, for providing Loan 
+Origination System platform including accelerators , for Rs 14 crores.
+oIn the APAC region, won an order of Rs 9 crores from an existing customer -one of the leading 
+universal banks in the Philippines
+oWon additional business from a leading global multinational bank in the Singapore region, one 
+of the leading banks in Philippines and a leading healthcare company in USA. 
+=== page 27 ===
+Debtors Days
+Debtor Days (Based on Net Debtors)
+Note: The business is seasonal in nature with proportionately higher revenues and debtor days in the year end period (March) 102111 115 145
+126
+105 106
+020406080100120140160
+Q1 FY'23 Q2 FY'23 Q3 FY'23 Q4 FY'23 Q1 FY'24 Q2 FY'24 Q3 FY'24
+=== page 28 ===
+Disclaimer
+This presentation may contain certain forward-looking 
+statements concerning Newgen Software Technologies’ 
+future business prospects and business profitability, which 
+are subject to several risks and uncertainties and the actual 
+results could materially differ from those in such 
+forward-looking statements. 
+The risks and uncertainties relating to these statements 
+include, but are not limited to, risks and uncertainties 
+regarding fluctuations in earnings, our ability to manage 
+growth and new business opportunities, competition (both 
+domestic and international), economic growth in India and 
+the target countries for business, ability to attract and retain 
+highly skilled professionals, time and cost over runs on 
+projects, our ability to manage our international operations, 
+government policies, interest and other fiscal costs generally 
+prevailing in the economy and general economic conditions 
+affecting the industry. Past performance may not be
+indicative of future performance. 
+The company does not undertake to make any 
+announcement in case any of these forward-looking 
+statements become materially incorrect in future or update 
+any forward-looking statements made from time to time by
+or on behalf of the company. For any investor queries, please contact:
+Deepti Mehra Chugh
+Head –Investor Relations
+Phone: +91 1146 533 200
+Mail : deepti.chugh@newgensoft.com     www.newgensoft.comFor any investor queries, please contact:
+Deepti Mehra Chugh
+Head –Investor Relations
+Phone: +91 1146 533 200
+Mail : deepti.chugh@newgensoft.com     www.newgensoft.com
+India Offices include Mumbai, Chennai, Bengaluru, Kolkata, Hyderabad, Noida, New Delhi!
+Mississauga, ON
+Tampa, FL
+McLean, VALondon, UK
+Dubai, AENew Delhi, IN
+Mumbai, IN
+Bengaluru, INChennai, IN
+Singapore, SGSydney, AU
+Global Offices
+San Francisco, CANew York, NYRiyadh, KSA
+=== page 29 ===
+P&L Statement
+Q2 FY 2024 Q3 FY 2023 Q3 FY 2024(All amounts in INR Mn, except per share data and 
+unless otherwise stated) 
+Revenue 
+2,932.4 2,549.2 3,236.5 Revenue from operations 
+93.4 93.9 111.5 Other income 
+3,025.7 2,643.0 3,348.1 Total revenue 
+Expenses 
+1,566.3 1,304.1 1,584.8 Employee benefits 
+8.2 10.8 13.1 Finance costs 
+68.6 61.6 69.0 Depreciation and amortization 
+796.7 655.8 881.3 Other expenses 
+2,439.7 2,032.3 2,548.2 Total expenses 
+586.0 610.7 799.9 Profit before tax 
+Tax expenses 
+110.9 109.5 174.7 Current tax / Tax expense for earlier years
+-2.7 28.1 -58.3 Deferred tax (credit)/charge
+477.9 473.1 683.5 Profit after tax for the year 
+1.9 37.3 12.2 Other comprehensive income/(loss) for the year, net of income tax
+479.7 510.4 695.7 Total comprehensive income for the year
+Earnings per equity share (face value of Rs. 10 per share) 
+3.43 3.40 4.90 Basic earning per share 
+3.36 3.38 4.73 Diluted earning per share 
+=== page 30 ===
+Your Trusted Digital Transformation Partner
+info@newgensoft.com www.newgensoft.com
+
+=== page 31 ===
+ 
+PRESS RELEASE 
+ 
+Revenues at Rs 869 cr in 9M FY’24, up 30% YoY; Profit after Tax at Rs 146 
+cr, up 51% YoY  
+New Delhi, India – January 16, 2024 
+The management of Newgen Software Technologies Ltd. announced results for the quarter ended 
+December 31, 2023 at its Board Meeting held on January 16, 2024. 
+Key Highlights- Q3 FY’24 v/s Q3 FY’23 
+ 
+ 
+ 
+Speaking about the results, Diwakar Nigam, Chairman & Managing Director, 
+Newgen Software Technologies Ltd. said – “In the nine month period ending 
+December 2023, Newgen has demonstrated strong growth in revenues led by India 
+and EMEA. We are witnessing tremendous opportunities in the Lending and Trade 
+Finance space. We have also maintained robust profitability  and strong cash flow 
+generation highlighting the financial strength and resilience of our operations. 
+Through our investments in innovation, people and customer-centric approach, we 
+have been nurturing and expanding our existing customer relationships; along with 
+adding 38 new logos in 9M FY’24”  
+“We are extremely delighted with the response our products are getting from 
+customers across different geographies. We continue to innovate and drive over 
+products through AI-led capabilities. With the launch of NewgenONE Marvin we 
+are excited to bring generative AI capabilities to our customers. NewgenONE 
+Marvin is set to further accelerate low code capabilities with faster and smarter 
+application development, automation of customer journeys as well as help in 
+building better customer engagement frameworks.” said Virender Jeet, CEO, 
+Newgen Software. Revenue 
+Rs  324 Cr 
+ (27% Q3 YoY growth)  
+ PAT 
+Rs 68 Cr 
+(45% Q3 YoY growth) 
+ New Logo Wins 
+ 
+11  
+ 
+=== page 32 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Key Business Highlights (Q3 FY’24) 
+o  
+ Recognized as a  ‘Strong Performer’ in The Forrester Wave ™: Digital Process Automation 
+Software (DPA), Q4 2023* 
+ 
+ Newgen positioned as a  Leader in Everest Group's Low-code Technology Providers in 
+Insurance – Products PEAK Matrix® Assessment 2023 
+ 
+ Recognized as a “Niche Player” Gartner® Magic Quadrant ™ for Enterprise Low-Code 
+Application Platforms fourth time in a row, in October 2023*  
+ 
+ 11 new customer logo additions in the quarter , 38 new logo additions in 9 months ending 
+31 Dec 23.  
+ Partnered with Duck Creek Technologies,  a leading provider of comprehensive Property & 
+Casualty (P&C) insurance software and services for insurers , to offer NewgenONE 
+OmniDocs Contexual Content Services platform to insurers 
+ Issue of Bonus Shares in the ratio of 1:1 Key Consolidated Financial Highlights (Q3 FY’24)   
+Revenue from operations (consolidated) at Rs 324 crores  as compared to Rs 255 crores in  Q3 
+FY’23, up 27% Q3 YoY driven by strong growth in banking and financial services across geographies. 
+ Total annuity revenue streams (ATS/AMC, support, cloud/SaaS and subscription license) 
+at Rs 191 crores, with strong growth in Support revenues. Subscription revenues 
+(ATS/AMC, cloud and subscription license) were at Rs 96 crores.  
+ Revenue from implementation grew by 66% Q3 YoY to reach Rs 69 crores. 
+Profit after tax at Rs 68 crores up 45% from Rs 47 crores in Q3 FY’23. Key Consolidated Financial Highlights (9M FY’24) 
+Revenue from operations (consolidated) witnessed a strong growth at Rs 869 crore  as compared 
+to Rs 669 crore in 9M FY’23 (up 30% YoY).  
+Profit after tax stood at Rs 146 crore in the first nine months of the year, up 51% YoY compared 
+to Rs 97 crore in 9M FY’23. 
+Net Cash from Operating activities at Rs 193 crores  for the nine-month period ending December 
+31, 2023.  
+*https://newgensoft.com/company/recognition/ 
+=== page 33 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Newgen 
+Newgen is the leading provider of a unified digital transformation platform with native process 
+automation , content services , communication management , and AI/ML capabilities. Globally, successful 
+enterprises rely on Newgen’s industry-recognized low code application platform to develop and deploy 
+complex, content-driven, and customer-engaging business applications on the cloud. From onboarding to 
+service requests, lending to underwriting, and for many more use cases across industries, Newgen unlocks 
+simple with speed and agility. 
+For more details, visit www.newgensoft.com  
+Disclaimer  
+This press release may contain certain forward looking statements concerning Newgen Software 
+Technologies’ future business prospects and business profitability, which are subject to a number of risks 
+and uncertainties and the actual results could materially differ from those in such forward looking 
+statements. The risks and uncertainties relating to these statements include, but are not limited to, risks 
+and uncertainties regarding fluctuations in earnings, our ability to manage growth and new business 
+opportunities, competition (both domestic and international), economic growth in India and the target 
+countries for business, ability to attract and retain highly skilled professionals, time and cost over runs on 
+projects, our ability to manage our international operations, government policies, interest and other fiscal 
+costs generally prevailing in the economy. Past performance may not be indicative of future performance. 
+The company does not undertake to make any announcement in case any of these forward looking 
+statements become materially incorrect in future or update any forward looking statements made from 
+time to time by or on behalf of the company.  
+Media Contact:  Investor Contact:  
+Runki Goswami  
+runki.goswami@newgensoft.com  Deepti Mehra Chugh  
+deepti.chugh@newgensoft.com  
+  Key Customer Orders 
+o Further strengthened the collaboration with an Indian public sector bank by providing 
+the crucial Trade Finance and Supply Chain Finance solution . The total order value is 
+Rs 18 crores.  
+o Continuing with the strong order momentum in India, won an order from a leading 
+player in the financial services industry offering asset and liability product solutions, 
+for providing Loan Origination System platform including accelerators , for Rs 14 
+crores. 
+o In the APAC region, won an order of Rs 9 crores from one of the leading universal 
+banks in the Philippines 
+o Won additional business from a leading global multinational bank in the Singapore 
+region, one of the leading banks in Philippines and a leading healthcare company in 
+USA.  

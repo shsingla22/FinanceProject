@@ -1,0 +1,338 @@
+Coforge Limited       Registered office:           www.coforge.com
+Special Economic Zone, Plot No. TZ-2& 2A              8, Balaji Estate, Third Floor, Guru Ravi Das Marg          Secretarial@coforge.com
+Sector - Tech Zone, Greater Noida (UP) - 201308, India            Kalkaji, New Delhi -110019, India       
+T: +91 120 4592300 | F: +91 120 4592 301            T: +91 11 41029 297     CIN: L72100DL1992PLC048753   
+January 23, 2025 
+The Manager,
+Department of Corporate Servi ces 
+BSE Limited 
+Floor 25, P.J. Towers, 
+Dalal St reet, Mumbai – 400 001  
+BSE Scrip code – 532541 
+Equity I SIN I NE591G01017 The General Manager,
+Department of Corporate Services
+The National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051 
+NSE Symbol – COFORGE
+Dear Sir/Ma’am,
+Subject: Integrated Filing (Financial) for quarter and nine months ended December 31, 2024 
+Pursuant to SEBI Circular No. SEBI/HO/CFD/ CFD-PoD-2/CIR/P/2024 /185 dated December 31, 2024, read 
+with BSE Circular No. 20250102-4 and NSE Circular No. NSE/CML/2025/02 both dated January 02, 2025, 
+we are submitting herewith the Integrated Filing (Financial) for the quarter and nine months ended December 
+31, 2024. 
+The above documents are also being made available on the Company's website www.coforge.com . 
+Thanking you.  
+Yours faithfully,  For Coforge Limited 
+Barkha Sharma
+Company Secretary 
+ACS No. 24060
+Encl: as above
+S.R. BATLIBOI & ASSOCIATES LLP 
+Chartered Accountants 67, Institutional Area 
+Sector 44, Gurugram -122 003 
+Haryana, India 
+Tel: +91 124 681 6000 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited 
+Consolidated Financial Results of the Company Pursuant to the Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended 
+Review Report to 
+The Board of Directors 
+Coforge Limited 
+1. We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of 
+Coforge Limited (the "Holding Company") and its subsidiaries (the Holding Company and its 
+subsidiaries together referred to as "the Group"), for the quarter ended December 31, 2024 and year 
+to date from April 01, 2024 to December 31, 2024 (the "Statement ") attached herewith, being 
+submitted by the Holding Company pursuant to the requirements of Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations , 2015, as amended (the "Listing 
+Regulations"). 
+2. The Holding Company's Management is responsible for the preparation of the Statement in 
+accordance with the recognition and measurement principles laid down in Indian Accounting 
+Standard 34, (Ind AS 34) "Interim Financial Reporting" prescribed under Section I 33 of the 
+Companies Act, 2013 as amended , read with relevant rules issued thereunder and other accounting 
+principles generally accepted in India and in compliance with Regulation 33 of the Listing 
+Regulations. The Statement has been approved by the Holding Company's Board of Directors. Our 
+responsibility is to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, "Review of Interim Financial Information Performed by the Independent 
+Auditor of the Entity" issued by the Institute of Chartered Accountants of India. This standard 
+requires that we plan and perform the review to obtain moderate assurance as to whether the 
+Statement is free of material misstatement . A review of interim financial information consists of 
+making inquiries, primarily of persons responsible for financial and accounting matters, and 
+applying analytical and other review procedures . A review is substantially less in scope than an 
+audit conducted in accordance with Standards on Auditing and consequently does not enable us to 
+obtain assurance that we would become aware of all significant matters that might be identified in 
+an audit. Accordingly , we do not express an audit opinion. 
+We also performed procedures in accordance with the Master Circular issued by the Securities and 
+Exchange Board of India under Regulation 33(8) of the Listing Regulations, to the extent 
+applicable. 
+4. The Statement includes the results of the following entities: 
+S.No. 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. Name of the Entity 
+Coforge Limited 
+Coforge SmartServe Limited 
+Coforge Services Ltd. 
+Coforge DPA Private Limited 
+Coforge SF Private Limited 
+Coforge Business Process Solutions Private Limited 
+Coforge Solutions Private Limited 
+Coforge Inc. USA 
+Coforge Pte Ltd. 
+Coforge U.K. Ltd. 
+S.R. Batliboi & Associates LLP, a Limited Liability Partnership with LLP Identity No. AAB-4295 
+Regd. Office: 22, Camac Street, Block 'B', 3rd Floor, Kolkata-700 016                                          QUARTERLY INTEGRATED FILING (FINANCIAL)
+A. FINANCIAL RESULTS
+S.R. BATL/801 & ASSOCIATES LLP 
+Chartered Accountants 
+S.No. Name of the Entity 
+11. Coforge GmbH 
+12. Coforge FZ LLC 
+13. Coforge Airline Technologies GmbH 
+14. Coforge DPA UK Ltd. 
+15. Coforge DPA Australia Pty Ltd. 
+16. Coforge DPA NA Inc. 
+17. Coforge DPA Ireland Limited 
+18. Coforge BPM Inc. 
+19. Coforge Healthcare Digital Automation LLC 
+20. Coforge Technologies (Australia) Pty Ltd. 
+21. Coforge Limited 
+22. Coforge BV 
+23. Coforge Advantage Go 
+24. Coforge S.A. 
+25. Coforge SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA 
+26. Coforge SDN. BHD 
+27. Coforge S.R.L. 
+28. Coforge A.B. 
+29. Coforge SpA 
+30. Coforge SF Limited, UK 
+31. Coforge BPS Philippines INC 
+32. Coforge BPS America Inc. 
+33. Coforge BPS North Carolina LLC 
+34. Coforge Japan G K 
+35. COFORGE, S.A. de C.V. 
+36. Coforge Limited -Company One Person 
+37. PT. Coforge Indonesia Services 
+38. Cigniti Technologies Limited 
+39. Cigniti Technologies Inc 
+40. Cigniti Technologies UK Ltd 
+41. Cigniti Technologies (Canada) Inc 
+42. Cigniti Technologies (Australia) Ptv Ltd 
+43. Aparaa Digital Private Limited 
+44. Cigniti Technologies (CZ) Limited 
+45. Cigniti Technologies (SG) Pte. Ltd 
+46. Gallop Solutions Private Limited 
+47. Cigniti Technologies CR Limitada 
+48. RoundSqr Ptv Ltd. 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based 
+on the consideration of the review of other auditors referred to in paragraph 6 below, nothing has 
+come to our attention that causes us to believe that the accompanying Statement, prepared in 
+accordance with recognition and measurement principles laid down in the aforesaid Indian 
+Accounting Standards ('Ind AS') specified under Section 133 of the Companies Act, 2013, as 
+amended, read with relevant rules issued thereunder and other accounting principles generally 
+accepted in India, has not disclosed the information required to be disclosed in terms of the Listing 
+Regulations, including the manner in which it is to be disclosed, or that it contains any material 
+mis statement. 
+S.R. BATL/80/ & ASSOCIATES LLP 
+Chartered Accountants 
+6. The accompanying Statement includes the unaudited interim financial information , in respect of 
+seven subsidiaries, whose unaudited interim financial results include total revenues of Rs. 2,982 
+million and Rs. 8,554 million, total net profit/(loss) after tax of Rs. (60) million and Rs. 143 million, 
+total comprehensive income/(loss) of Rs. (61) million and Rs. 156 million, for the quarter ended 
+December 31, 2024 and the period ended on that date respectively , as considered in the Statement 
+which have been reviewed by their respective independent auditors. 
+The independent auditor's reports on interim financial information of these entities have been 
+furnished to us by the Management and our conclusion on the Statement , in so far as it relates to 
+the amounts and disclosures in respect of these subsidiaries is based solely on the report of such 
+auditors and procedures performed by us as stated in paragraph 3 above. 
+7. The accompanying Statement includes unaudited interim financial information in respect of sixteen 
+subsidiaries, whose interim financial information reflect total revenues of Rs. 321 million and Rs. 
+882 million, total net profit after tax of Rs. 19 million and Rs. 49 million, total comprehensive 
+income of Rs. 19 million and Rs. 49 million, for the quarter ended December 31, 2024 and the 
+period ended on that date respectively. 
+The unaudited interim financial information financial information of the these subsidiaries have not 
+been reviewed by any auditor and have been approved and furnished to us by the Management and 
+our conclusion on the Statement, in so far as it relates to the affairs of these subsidiaries, is based 
+solely on such unaudited interim financial information. According to the information and 
+explanations given to us by the Management , these interim financial information are not material 
+to the Group. 
+Our conclusion on the Statement in respect of matters stated in para 6, and 7 above is not modified 
+with respect to our reliance on the work done and the reports of the other auditors and the financial 
+information certified by the Management. 
+For S.R. Batliboi & Associates LLP 
+Chartered Accountants 
+ICAI Firm registration number: 101049W /E300004 
+k per~a 
+Partner 
+Membership No.: 212230 
+UDIN: 25212230BMKORU3799 
+Place: Gurugram 
+Date: January 22, 2025 
+I 
+II 
+Ill 
+IV 
+V 
+VI 
+Vil 
+VIII 
+IX 
+X 
+XI 
+XII 
+XIII Coforge Limited 
+Regd Office :8, Balajl Estate, Thin! Floor, Guru Ravldas Marg, K1lk1JI, New Delhl-110019. 
+Ph: 91 (11) 41029297 Website: h1tp•:llwww.colorge.com 
+Email: lnvestora@cororge.com . CIN L72100DL1992PLC048753 
+Statement of Unaudited Flnanclal Results ror the quarter and pertod ended December 31, 2024 
+cons~mateCI Fln1nc1a1 Reaulta 
+Year to date 
+Quarter ended Preceding Quarter Conespondlng figures lor the 
+Quarter ended current pertod 
+Particulars December 31, ended September December ended 2024 30, 2024 31,2023 December ........ 
+I Unaudited I I Unaudited I I Unaudited\ I Unaudited I 
+111 (21 131 141 151 
+Income 
+Revenue from opetations 33.182 30.623 23.233 87.813 
+Other income 596 563 5(1 1.413 
+Total 33na 31186 23 383 89 226 
+Expenditure 
+Purchases a stoci<-ir>-irade 21 33 9 76 
+Employee benefils expense 19.877 19,107 13.458 53.204 
+Finance costs 325 304 346 954 
+OepteeiaHon and amatization expense 1.268 1-2'43 811 3.326 
+Other expensas 8.854 7,384 5.815 23.051 
+Total 30 345 28 051 20439 80611 
+Profl1 before exceotlonal Items and lax 1111-IVI 3433 3135 2.944 8815 
+Exceplional ~ems (Refer note 6 ) . . 
+Prom before tu IV-VII 3433 3135 2.944 8.815 
+Tax expense 
+-C16renltax 1.038 1.012 42(1 2.863 
+-Deferred tax (184) (213, 8l' (536) 
+Total tax exoense 874 799 518 2.327 
+Profl1 for the period/ year rrom operations 2,569 2,338 2,428 S,288 
+(VII-Vllll 
+Profit all/ibuleble to owners of Calorge Limited 2.155 2.022 2,390 5,509 
+Ptolit atlnbulable lo nor>-controllino interests 404 3}4 48 779 
+Other Comprehensive Income/ (loss) 
+A. I/ems lhal will be reclassified to p,om or loss 
+Defetred gains/ (loss) on cash flow hedges 253 (5131 ,(216) (218) 
+Exchange Diffetences on Translation ol Foreign (287) 476 3'I 131 Operations 
+Income tax n,iating to items lhat will be (62) reclassified to prof~ or loss 132 54 59 
+B. Items that will no1 be 19Cfassilied lo pro/ii or loss 
+Remeas...-emenl of post. employment beoefit 42 53 6 102 obligations (expenses>/ income 
+Income tax relating to items thal wil not be (12) (7) (1) (20) reclassified to prof~ or loss 
+Total 1811 141 184 64 
+Total comprehensive Income for the pertod 
+(Comprtslng Profll and other comprehensive 2,493 2,477 2,612 6,342 
+Income for the period) 
+Altrtbut ■ble lo : 
+Owners Of Cotorge Limited 2.064 2.122 2.561 5.503 
+Non-Controllir1<1 interests 429 355 51 839 
+Paid up EquHy Share Capital 669 667 618 669 (Face Value of Rs 10 each, l~ly paidl 
+Otheteoui,V 
+Earnings Per Share of Rs. 10/-each) 
+Basic 32 26 3032 38.63 83.83 
+Dil'-"ed 3194 30 14 38.06 83.21 Rs In Mn 
+Year to date 
+flgure• for the PNIYIOUI year previous period 
+ended ended March 
+December 31,2024 .. ,,.,, 
+I Unaudited I I Audited I 
+111 f71 
+68,205 91 790 
+399 498 
+11604 92.288 
+85 94 
+41.40 .069 
+886 ,256 
+2.340 l,186 
+16.299 2Z.350 
+61 011 81955 
+7593 10 333 . (116) 
+7593 10 449 
+t,859 2,493 
+(3301• l400) 
+1529 2.093 
+6,084 8,356 
+5,843 8-080 
+221 276 
+122 279 
+269 125 
+j29) (68) 
+7 147 
+(5) (37) 
+384 446 
+6,428 1,102 
+6.203 8.516 
+225 286 
+618 618 
+35848 
+9533 131.56 
+93.45 129.59 
+Selected explanatory notes to the Conaolldated Financial Results for the Quarter and Nine Months ended December 31, 2024 
+1 The above resufls were teviewed and recommended by lhe Audil Commtttee at the meeting held on January 22, 2025 and approved by the Board 01 Dileclors al thew 
+meeting held on the same date. 
+2 The financial resuts have been p,epa-ed in accordance with applicable ndian Accounting Standards as prescribed under Section 133 of the Companies Acl. 2013 
+,ead with Rue 3 of the Companies (Indian Accoonting Standards) Rues 2015 and Amended Rues 2016. 
+3 DLfing the quarter ended December 31, 2024, pursuant lo Employees Stock Option Plan 2005 165,607 options we,e exercised and 16,530 options were lapsed from 
+various Granls and 1,842,919 options were ourstanding as on December 31, 2024 issued on various dates. 
+4 Other expenses includes professional charges and other production expenses (incl third par1y license cosl) 
+5 Seomenl information at Consolidated level Ra. In Mn 
+Year to date Year to date 
+Quarter ended Pr.ceding Quarter Corresponding figures for the figures for the Previous year Quarter ended current period previous period December 31, ended September December ended ended ended Man:h 
+2024 30, 2024 31,2023 December December 31,2024 ~· ...... •• •M• 
+r Unaudited I r Unaudited I I Unaudited I r Unaudited I I Unaudlledl I Audited I 
+Revenue from Operations 
+Amencas 18,574 16874 10_8,s 47,427 33,094 44,350 
+E'-"'Pe, Middle East anc1 Africa 11333 10345 9 300 30,964 26,713 36,160 
+Asia Pacific 2,085 2335 1,608 6,252 4,783 8,360 
+India 1,190 1069 1,506 3,170 3,615 4,920 
+Total 33182 30123 23233 87 813 68 205 91790 
+Adjusted earning before Interest, Tax, Depreciation and Amortization ( EBITDA) 
+Americas 3,048 2828 2,101 7,790 5,752 7 969 
+Europe, Milldle East and Africa 2022 1670 1,998 4,ilfiS 5,126 7,053 
+Asia Pacific 94 188 120 282 375 481 
+India (136) (113) (20T, (3251 (616) (8281 
+Total 8028 4161 4012 12713 1D4137 1467' 
+Depreciation and AmorllZation 1268 1243 811 3326 2.340 3,186 
+Other Income (net) (327) (1731 (251) (772) 47041 j1,1561 
+Prolll Befon, Tax (befot11 exceptional ltemal 3,433 3,135 2,944 8,815 7,593 10,333 
+Excaplional rtems - (118) 
+Prolll Belon, Tax 3,433 3,135 2,944 8,615 7,593 10,449 
+Provision lo, lax 874 799 518 2,327 1,529 2,093 
+Prolllafterta. 2.559 2.336 2.428 6.288 1084 8358 
+NOies to segment information (al The Ct-ief Operating Decision Maker 1.e, lhe Ctief ExecU11ve Offlcar (CEO), primarily uses a measure of revenue and adjusted 
+Eamngs before Interest Tax, DBj)reciation and Amortization (Adjusted EBITDA) to assess the performance of the operating segments . Earnings before lnlerest. Tax. 
+Dapreciation and Amorlization is adjusted wilh other income and foreign exchange differences to anive at Adjusted EBITOA. Assets and liabilities used in the grOtJp's 
+business are no! identified to any of lhe reportable segments, as lhese ere used nlerchangeably belween segments . Accordingly, lhe CEO does not ,eview assets and 
+liabilities at reportable segmenls tavet 
+(b) As per Ind AS 108 on 'Operating Segments·, the Company has disclosed the segment inlormation only as part of the consolidated financial results. 
+6 In previoos year, exceptional items represenls IWROUnts recorded on Companies rs-assessment of cartain prov,1ions. 
+7 On May 2, 2024, Ille Compaiy entered into a share pll'chase agreement wtth the promoters and select public shareholders of Cigriti TBCMOtogies mited ("Cigniti") to 
+acquire up to 54% of lhe expanded share capital 01 Cigniti slbjec! lo completion of certain closing conditions and identified condrtions precedent. Upon execution of 
+Share Purchase Agreements, the Company initiated a mandatory open offer to the public shateholdel's 01 Cigri!i in lerms of the SEBI (Substartial Acquisitoo 01 Shares 
+and Takeoversj Regulations, 2011 as amended from time to time. 
+On Juy 5, 2024, lhe Group acqured 27 73% of expanded equty shares in Cigniti, with additional 4.65% acquired p,.rsuant 10 completion of the open offer on 
+November 20, 2024. Fur1her, on December 20, 2024, the Company through an off-marl<et transaction purchased additional eql.i!y shares 1n C,gniti amounting to 
+21 62% of eXl)anded share capital, resuhing into acquisition of 54% of the expanded share capilal of Cigniti. 
+The Board of Directors, based on the ,ecommendalion 01 the Audtt Commrttee and the Independent Directors, at rts meeling held on December 27 2024, considered 
+and approved lhe Scheme of Amalgamation 01 Cigniti wilh and into the Company and their respective sharehOlders and creditors. Pursuanl lo the proposed Scheme 
+One eq10ty share 01 the Company of tNR 10/, each fully paid up shall be issued to the shareholders of Cigriti ror every 5 eqlity shares of INR 10/-each Uy paid up 
+held by thetn The Scheme is subjecl to lhe receipt of necessary statutory and regulatory approvals . 
+8 The Board of Directors at its meeting held on January 22, 2025 has declared an interim dividend of Rs.19 per equty share, 
+9 Previous year/ period figll'es have been reclassdied to conform to curenl year/ periods classification Further, as explained in note 7 above, the resLJts for the 
+Cllrent quar1et ended December 31, 2024 and year to date current penod ended December 31 2024 are not comparable with the corresponding quar1er ended 
+Decembet 31, 2023 and year lo date previous penod ended December 31, 2023 # 
+B order or the Board 
+Co~gel1m1 i::L~ c~. 
+Placa Pnnceton, New Jersey udhir Singh Saurabh Gael 
+Date. January 22. 2025 cutive Director Chier Fina1C1al Officer 

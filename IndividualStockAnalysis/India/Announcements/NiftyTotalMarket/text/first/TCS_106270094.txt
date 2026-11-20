@@ -1,0 +1,144 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 16/2025-26 
+ 
+June 16, 2025  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ Council of Europe 
+Development Bank Partners with TCS to Transform Reconciliation Processes ” 
+which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+Council of Europe Development Bank Partners with TCS to 
+Transform Reconciliation Processes  
+Through this partnership TCS will deploy its flagship p roduct , TCS BaNCSTM for Reconciliations, to  
+help the bank manage complex transactions and streamline processes using AI and automation  
+PARIS | MUMBAI, JUNE  16: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS) , a global leader in 
+IT services, consulting, and business solutions,  has partnered with the Council of Europe Development 
+Bank  (CEB) , to modernize its operations and drive greater efficiency. As part of this collaboration, TCS 
+will deploy  TCS BaNCSTM for Reconciliations  to help the bank streamline complex transactions and 
+automate key reconciliation processes using artificial intelligence and automation.  
+With the implementation of TCS BaNCS for Reconciliations , the CEB will be able to automate the entire 
+reconciliation lifecycle —from transaction matching and exception handling to investigation and 
+reporting. The product  will provide real -time visibility and greater transparency, while reducing manual 
+effort and turnaround times. Its integration with the bank’s core systems will allow for better control 
+and faster daily reconciliations. The Bank will also be equipped with the tools needed to automate 
+critical tasks such as file loading, extraction of PDF statements, and reconciliations for unmatched 
+entries.  
+Headquartered in Paris,  the CEB is a social development bank that promotes social inclusion in its 43 
+member states across Europe. The CEB finances investment  and provides technical assistance  in social 
+sectors, including education, health and affordable housing, with a focus on the needs of vulnerable 
+communities . Borrowers  of the bank include governments, local and regional authorities, public and 
+private banks, non -profit organizations and others. With a portfolio that includes billions of euros in loan 
+approvals across Europe, the Bank requires a robust solution to manage its growing volume of 
+transactions. TCS BaNCS for Reconciliations will strengthen  the CEB’s reconciliation operations to better 
+manage complexity and scale across multiple accounts.   
+Stefano Michelangeli , Head of Finance and Risk Systems  at the CEB, said, “The CEB has a clear mandate 
+to enhance  social  development among its member countries  by leveraging technology. A reliable, robust 
+and secure reconciliations solution has been key to this vision. Automation in reconciliation with high 
+STP (Straight -Through Processes)  is central to ensuring  error -free operations for institutions  such as ours. 
+With TCS BaNCS for Reconciliations, we will be able to eliminate manual reconciliations processing and 
+reporting, for transparent, auditable outcomes, especially, for high -value transactions. By improving  the 
+overall efficiency of operations, we can deliver on our larger vision of enhancing economic growth in the 
+countries we service  in line with our Strategic Framework 2023 -2027 .” 
+TCS BaNCS for Reconciliations is an intelligent, centralized, and scalable product  that helps banks 
+manage reconciliations  end-to-end. By leveraging artificial intelligence and machine learning, it 
+enhances accuracy and automates key processes such as transaction matching, exception handling, and 
+case management. The product  is highly scalable and reliable, making it suitable for banks handling large 
+volumes of transactions. It features a cognitive reconciliation engine, enhanced pre -processing 
+capabilities , online archiving, API integration, and mobile support, and is available for both on -premises 
+and cloud deployment. The product  brings together a modern user interface, smart dashboards, and 
+real-time data processing to help banks manage unreconciled transactions more efficiently. Its flexible, 
+intelligent design enables seamless automation across systems without the need for manu al checks or 
+intervention, helping reduce errors, speed up operations, and lower processing costs. Built to meet 
+ 
+Page 2 of 3 
+ 
+global standards like SWIFT ISO 20022, the platform ensures compliance while minimizing delays and 
+exceptions.  
+Venkateshwaran Srinivasan, Global Head, Financial Solutions, TCS, said, “We are happy to partner with 
+an organization like the CEB and support its strategic goal of improving social and economic development 
+in its member states. With the deployment of TCS BaNCS,  the CEB will be able to gain significant efficiency 
+in operations, which gives the Bank the ability to operate on a higher scale. We continue to invest in 
+products to help our clients enhance efficiency, improve customer experience and be future rea dy.” 
+Through this collaboration TCS strengthens its presence in Europe , where it has been  prese nt for over 
+45 years  and is supported by  over  15,000 associates . TCS serves as a transformation partner for 
+companies across various industries such as  bankin g, retail , insurance , and travel. Currently, TCS 
+supports over 80 major French companies in accelerating their innovation journeys . In recent years, TCS 
+has made significant investments in France by setting up  four delivery centers across the country in 
+Paris -Suresnes, Lille, Poitiers, and Toulouse. TCS was ranked #1 for the 12th consecutive year in the 2025 
+Whitelane Research Survey of 2,300 C XOs from the top IT spending companies in Europe.  
+ 
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner of choice for 
+industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of 
+innovation, engineering excel lence and customer service.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its 
+employees, and the community at large. With a highly skilled workforce of 607,979 consultants in 55 countries and 202 
+service delivery centers across the world, the company has been recognized as a top employer in six continents. With 
+the ability to rapidly apply and scale new technologies, the company has built long term partnerships with its clients – 
+helping them emer ge as perpetually adaptive enterprises. Many of these relationships have endured into decades and 
+navigated every technology cycle, from mainframes in the 1970s to Artificial Intelligence today.  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New York City 
+Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, sustainability, and 
+community empowerment.  
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025. For more 
+information, visit  www.tcs.com  
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+Council of Europe Development Bank  
+The Council of Europe Development Bank (CEB) is a multilateral development bank with an exclusively social 
+mandate from its 43 member countries. The CEB finances investment and provides technical assistance in social 
+sectors such as education, health and a ffordable housing, while focusing on the needs of vulnerable people, as 
+well as on the social dimensions of climate change and the environment. Borrowers include governments, local 
+and regional authorities, public and private banks, non -profit organization s and others. The CEB, which has a 
+triple -A credit rating, funds itself through international capital markets. In addition, the CEB receives funds from 
+donors to complement its activities.  
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 3 
+ 
+TCS media contacts:  
+Corporate Communications & 
+India   Email: corporate.communications@tcs.com   
+Email: saxena.kritika@tcs.com  | Phone: +91 22 6778 9999   
+Email:  shreya.bhandary@tcs.com   | Phone: +91 22 67789098   
+Europe   Email:  roland.bagen@tcs.com  | Phone: +46 70 3178024  
+ 
+ 

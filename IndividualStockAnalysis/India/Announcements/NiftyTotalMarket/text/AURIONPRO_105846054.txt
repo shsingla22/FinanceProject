@@ -1,0 +1,1293 @@
+14th May, 2024 
+To, 
+National Stock Exchange of India Limited 
+Exchange Plaza'. C-1, Block G, 
+Sandra Kurla Complex, Sandra (E), 
+Mumbai -400 051. 
+NSESYMBOL:AURIONPRO To, 
+The SSE Limited, 
+25th Floor, P. J. Towers, 
+Fort, Mumbai: 400 001. 
+SCRIP CODE: 532668 
+Sub: Outcome of Board Meeting held on 14th May, 2024 -Financial Results 
+This is to inform you that the Board of Directors ("the Board") of the Company at its Meeting 
+held on 14th May, 2024 has approved the Audited (Standalone and Consolidated) Financial 
+Results of the Company for the quarter and year ended 3pt March 2024, along with Auditors 
+Report thereon received from M/s. C KS P & Co, LLP, Chartered Accountants, Statutory Auditors 
+of the Company. 
+We would further like to state that M/s. C K S P & Co, LLP, Chartered Accountants, Statutory 
+Auditors, have issued audit report with unmodified opinion on the financial results. 
+The Audited Financial Statements of the Company along with Auditor's Report will be made 
+available on the Company's website www.aurionproro.com. 
+The Board meeting commenced a~O: Oo PM and concluded at06 ~ ½c, PM. 
+Kindly take the above on record and acknowledge receipt. 
+Thanking you, 
+For Aurionpro Solutions 
+&· 
+~-f~, 
+Company Secretary 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA phone +91 22 4040 7070 
+fax +91 22 4040 7080 info@aurionpro.com 
+www.aurionpro.com 
+GIN L99999MH1997PLC111637 
+aurionpro t•• 
+Aurionpro Solutions Limited 
+Statement of Audited Consolidated Financial Results for the Quarter and Year ended March 31, 2024 
+Sr Particulars 31-Mar-24 No. 
+Audited 
+1 Income 
+(a) Revenue from Operations 24,687.07 
+(b) Other Income 140.22 
+(c) Total Income [(a)+ (b) J 24,827.29 
+2 Expenses 
+(a) Software, Hardware and Other Material Cost 8,881.36 
+(b) Change in Inventories of Raw Materials, (1,064.03) Finished Goods and Stock-in-Trade 
+(c) Employee Benefits Expense 9,550.01 
+(d) Finance Costs 353.33 
+(e) Depreciation and Amortisation Expense 557.48 
+(f) Other Expenses 2,060.76 
+(g) Total Expenses [ (a) to (f)] 20,338.91 
+3 Profit before share of profit of associates, Exceptional 4,488.38 Items and Tax [1 (c) -2 (g)] 
+4 Share of Profit/ (loss) of Associates -
+5 Profit before Exceptional Items and Tax [ 3+4] 4,488.38 
+6 Exceptional Items -
+7 Profit before Tax [ 5-6 J 4,488.38 
+8 Tax Expenses 
+(a) Current Tax 450.89 
+(b) Deferred Tax Charge/ (Credit) 91.16 
+9 Profit after Tax [ 7-8] 3,946.33 
+10 Other Comprehensive Income (net of tax) 
+Items that will be reclassified subsequently to profit or loss (31.84) 
+Items that will not be reclassified subsequently to profit or loss (9.21) 
+11 Total Comprehensive Income [ 9+10] 3,905.28 
+12 Profit for the period attributable to 
+(a) Equity holders of the company 3,847.76 
+(b) Non Controlling Interest 98.57 
+13 Total Comprehensive Income attributable to 
+(a) Equity holders of the company 3,808.31 
+(b) Non Controlling Interest 96.97 
+14 Paid-up Equity Share Capital (Face Value of Rs. 10 each) 2,471.81 
+15 Other Equity (Excluding Revaluation Reserve) 
+16 Earnings per equity share* 
+-Basic ( In Rs.) 16.13 
+-Diluted ( In Rs.) 15.49 
+• Earnings per equity share for the quarter ended is not annualised. 
+See accompanying notes to the consolidated financial results 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA Quarter ended 
+31-Dec-23 31-Mar-23 
+Unaudited Audited 
+23,075.07 19,065.80 
+249.86 297.55 
+23,324.93 19,363.35 
+7,141.38 7,165.85 
+259.93 273.67 
+8,934.69 6,113.43 
+324.92 384.00 
+525.20 433.69 
+1,616.50 1,469.26 
+18,802.62 15,839.90 
+4,522.31 3,523.45 
+- -
+4,522.31 3,523.45 
+. -
+4,522.31 3,523.45 
+686.66 1,135.51 
+48.05 (272.31) 
+3,787.60 2,660.25 
+53.08 108.84 
+4.86 (13.26) 
+3,845.54 2,755.83 
+3,755.45 2,508.48 
+32.15 151.77 
+3,812.69 2,595.77 
+32.85 160.06 
+2,381.52 2,280.02 
+15.94 11.00 
+15.29 11.00 
+phone +91 22 4040 7070 
+fax +91 22 4040 7080 (Rs.in lakhs' 
+Year ended 
+31-Mar-24 31-Mar-23 
+Audited 
+88,747.15 
+905.07 
+89,652.22 
+30,229.56 
+(497.13) 
+33,389.01 
+1,307.13 
+2,063.23 
+6,282.90 
+72,774.70 
+16,877.52 
+. 
+16,877.52 
+16,877.52 
+2,285.76 
+299.09 
+14,292.67 
+26.29 
+(60.94) 
+14,258.02 
+14,097.23 
+195.44 
+14,061.53 
+196.49 
+2,471.81 
+90,517.32 
+60.48 
+58.26 
+info@aurionpro.com 
+www.aurionpro.com Audited 
+65,933.16 
+433.19 
+66,366.35 
+25,490.11 
+(697.06) 
+21,953.81 
+1,077.06 
+1,585.00 
+4,681.75 
+54,090.67 
+12,275.68 
+(43.48) 
+12,232.20 
+-
+12,232.20 
+2,269.66 
+(226.03) 
+10,188.57 
+268.25 
+(82.85) 
+10,373.97 
+9,732.93 
+455.64 
+9,910.04 
+463.93 
+2,280.02 
+47,492.40 
+42.69 
+42.69 
+CIN L99999MH1997PLC111637 
+aurinnnro ft.';• 
+Notes to the l!onsoli~ated Financial Results: 
+1. Statement of Assets and Liabilities 
+Particulars As at 
+31-Mar-24 
+Audited 
+A ASSETS 
+1 Non-Current Assets 
+(a) Property, Plant and Equipment 8,565.70 
+(b) Capital Work in Progress 129.31 
+(c) Right of use assets 1,150.02 
+(d) Goodwill 31,542.29 
+(e) Other Intangible Assets 3,595.33 
+(f) Intangible Assets under Development 2,151.60 
+(g) Financial Assets 
+(i) Investment 9.02 
+(ii) Other Financial Assets 956.69 
+(h) Income Tax Assets (net) 936.00 
+(i) Deferred Tax Assets (net) 541.33 
+U) Other Non Current Assets 613.37 
+Sub-total Non-Current Assets 50,190.66 
+2 Current Assets 
+(a) Inventories 3,294.65 
+(b) Financial Assets 
+(i) Investments -
+(ii) Trade Receivables 29,085.21 
+(iii) Cash and Cash Equivalents 24,966.52 
+(iv) Bank Balances other than (iii) above 1,904.16 
+(v) Other Financial Assets 17,201.15 
+(c) Other Current Assets 13,118.07 
+Sub-total Current Assets 89,569.76 
+Total Assets 1,39,760.42 
+B EQUITY AND LIABILITIES 
+1 Equity 
+(a) Equity Share Capital 2,471.81 
+(b) Other Equity 90,517.32 
+Equity Attributable to Owner's of the company 92,989.13 
+Non-Controlling Interest 1,596.28 
+Total Equity 94,585.41 
+2 Liabilities 
+Non Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 415.32 
+(ii) Lease Liability 575.63 
+(ii) Other Financial Liabilities 2,000.00 
+(b) Other Non Current Liabilities 864.49 
+(c) Provisions 587.37 
+Sub-total Non-Current Liabilities 4,442.81 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 6,503.55 
+(ii) Lease Liabilities 630.44 
+(iii) Trade Payables 
+Due to Micro and Small Enterprise 3,419.26 
+Due to Other than Micro and Small Enterprise 11,197.03 
+(iv) Other Financial Liabilities 11,244.48 
+(b) Other Current Liabilities 6,166.36 
+(~Pr:OR\S~~ 1,147.17 
+/4 (~_Goirenl~ iabilities (net) 423.91 
+// if _FRN \0 Sub-total -Current Liabilities 40,732.20 
+W' l'1iq,t~•AW1~ .lrn1 Liabilities 1,39,760.42 
+~u\,,.,__~bA ~* _A'_ + - Aur,u,-.,_~--lut1ons LImIted Synerg1a IT Park, Plot No. R 270, phone 91 22 4040 7070 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA fax +91 22 4040 7080 (Rs. in lakhs) 
+As at 
+31-Mar-23 
+Audited 
+8,515.96 
+326.11 
+1,297.97 
+8,498.09 
+2,962.60 
+297.87 
+3,591.54 
+945.43 
+596.76 
+853.23 
+1,299.80 
+29,185.36 
+2,797.52 
+-
+19,939.50 
+2,402.12 
+1,879.31 
+11,176.70 
+17,484.20 
+55,679.35 
+84,864.71 
+2,280.02 
+47,492.40 
+49,772.42 
+1,732.71 
+51,505.13 
+2,899.71 
+812.04 
+-
+702.95 
+450.91 
+4,865.61 
+4,564.01 
+554.99 
+3,383.81 
+8,572.78 
+4,692.23 
+5,136.58 -
+767.87 e:,o\ut 
+821.70 ,o 
+28,493.97 I Q, 
+C 
+84,864.71 0 
+\;'~,., 
+'"""""--" 
+info aurion ro.com @ p -
+www.aurionpro .com 
+CIN L99999MH 1997PLC1116 37 
+aurionRro t•• 
+Notes to the Consolidated Financial Results: 
+2. Statement of Cash Flow 
+Sr. Particulars 
+A Cash Flow from Operating Activities 
+Net Profit before tax 
+Adjustments : 
+Depreciation and Amortisation Expenses 
+Interest Income 
+Interest Expenses 
+Bad debts 
+Provision for doubtful debts 
+Employee Stock Purchase Scheme Expense 
+Profit on sale of Property, Plant and Equipment (PPE) 
+Foreign exchange (Gain)/ Loss 
+Operating Profit before working capital changes 
+Movements in Working Capital 
+Decrease/ (Increase) in Inventories 
+Decrease/ (Increase) in Trade Receivables and Other Assets 
+Increase/ (Decrease) in Trade Payables, Other Liabilities 
+Cash Generated from Operations 
+Income taxes paid (net of refunds) 
+Net cash generated from Operating Activities 
+B Cash flow from Investing Activities 
+Purchase of PPE and Other Intangible Assets (net) 
+Purchases of Business and Equity 
+Sale/ (Purchase) of Investments 
+Interest Received 
+Investment in Fixed deposits with Banks 
+Net cash used in Investing Activities 
+C Cash flow from Financing Activities 
+Proceeds/ (Repayment) Long-Term Borrowings (net) 
+Proceeds from Short-Term Borrowings (net) 
+Proceeds from Issue of Equity Shares 
+Payment of issue Expenses 
+Repayment of Lease Liabilities 
+Dividend Paid 
+Interest Paid 
+Net cash generated/ (used in) from Financing Activities 
+D Net Increase/ (Decrease) In Cash and Cash Equivalents (A+B+C) 
+Cash Equivalents at beginning of year 
+ash Equivalents at end of year 
+Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA (Rs. in lakhs) 
+Year Ended 
+31-Mar-24 31-Mar-23 
+Audited Audited 
+16,877.52 12,232.20 
+2,063.23 1,585.00 t-------
+(253.09) (292.09) 
+960.34 820.58 
+206.59 462.50 
+0.12 (160.03) 
+1,076.64 
+(25.65) 
+(487.80) 
+20,417.90 
+(497.13) 
+(10,188.85) 
+9,640.60 
+(1,045.37) 
+19,372.53 
+(3,009.97) 
+16,362.56 
+(3,232.58) 
+(20, 764.12) 
+3,591.55 
+230.77 
+(159.35) 
+(20,333.73) 
+(3,643.33) 
+3,098.49 
+29,727.51 
+(458.00) 
+(695.03) 
+(602.50) 
+(891.57) 
+26,535.58 
+22,564.40 
+2,402.12 
+24,966.52 1-----651.62 
+15,299.78 
+(697.06) 
+(15,218.29) 
+6,770.04 
+(9,145.31) 
+6,154.47 
+(2,065.92) 
+4,088.55 
+(4,593.32) 
+(1,166.57) 
+281.88 
+(91.11) 
+(5,569.12) 
+59.34 
+1,674.73 
+,__ _____ _., 
+(608.71) 
+(570.00) 
+(716.79) 
+(161.43) 
+(1,642.00) 
+4,044.12 
+2,402.12 
+info@aurionpro .com 
+www.aurionpro.com 
+CIN L99999MH1997PLC111637 
+aurionpro 4:• 
+Notes to the Consolidated Financial Results: 
+3. Segment Information 
+Quarter ended 
+Particulars 
+31-Mar-24 31-Dec-23 
+Audited Unaudited 
+1 Segment Revenue 
+A Sale of software services 14,731.94 16,325.30 
+B Sale of equipment and product 9,955.13 6,749.77 license 
+Total (a+b) 24,687.07 23,075.07 
+1 Segment Results 
+A Sale of software services 13,175.21 13,735.37 
+B Sale of equipment and product 3,694.52 1,938.39 license 
+Total (a+b) 16,869.73 15,673.76 
+Less: Un-allocable expenses 
+A Employee benefits expense 9,550.01 8,934.69 
+B Finance costs 353.33 324.92 
+C Depreciation and amortisation 
+exoenses 557.48 525.20 
+D Other expenses 2,060.76 1,616.50 
+Add: Un-allocable Other income 140.22 249.86 
+Add: Share of Profit/(loss) of - -Associates 
+Profit before tax 4,488.38 4,522.31 (INR in Lakhs) 
+Year ended 
+31-Mar-23 31-Mar-24 31-Mar-23 
+Audited Audited Audited 
+11,386.65 58,719.90 44,156.88 
+7,679.15 30,027.25 21,776.28 
+19,065.80 88,747.15 65,933.16 
+9,514.08 49,282.18 34,744.48 
+2,112.20 9,732.54 6,395.63 
+11,626.28 59,014.72 41,140,11 
+6,113.43 33,389.01 21,953.81 
+384.00 1,307.13 1,077.06 
+433.69 2,063.23 1,585.00 
+1,469.26 6,282.90 4,681.75 
+297.55 905.07 433.19 
+- (43.48) 
+3,523.45 16,877.52 12,232.20 
+Assets and liabilities used in the Company's business are not identified to any of the reportable 
+segment, as these are used interchangeably between segments. The Management believes that 
+it is not practicable to provide segment disclosure relating to total assets and liabilities since a 
+meaningful segregation based on the available data is onerous. 
+4. The Company has consolidated financial results of all its subsidiary companies/ joint ventures 
+as per Indian Accounting Standard 110-Consolidated Financial Statements. 
+5. Other Income includes foreign exchange (gain)/loss of INR (7.20) Lakhs and INR (487.80) Lakhs 
+for the quarter and year ended 31/03/2024 respectively. (Quarter and year ended 31/03/2023: 
+INR 195.60 Lakhs and INR 194.58 Lakhs respectively). 
+6. Pursuant to the approval from the Board of Directors on 25/07/2022 and Shareholders on 
+26/09/2022, Aurionpro Solutions Limited -Employee Stock Purchase Scheme 2022 ('ASL ESPS 
+2022') was instituted and Aurionpro Solutions Ltd -Employee Benefit Trust ('ASL ESPS Trust') 
+was formed to administer the ESPS plan. The Company has made allotment of 10,00,000 equity 
+shares of INR 10 each to ASL ESPS Trust' on 15/05/2023 under ASL ESPS 2022. During the 
+year, the Company has incurred ESPS cost of INR 357.36 Lakhs and INR 1,076.64 Lakhs for the 
+~~a::::a:;..;..rter and year ended 31/03/2024 respectively. ESPS Trust shares are consolidated in the 
+~ "N<DJ 
+O idated financial statements of the Company . 
+<"'l FRN 0 
+::::a:: 131228W ,­
+.-. W100044 ,-"" ..a_ l>. 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA phone +91 22 4040 7070 
+fax +91 22 4040 7080 
+aurionpro t•• 
+7. As required under IND AS 115 "Revenue from Contracts with Customers", unbilled revenue is 
+accounted on estimated basis in respect of contracts where the contractual right to consideration 
+is based on completion of contractual milestones as confirmed by technical team. 
+8. The Company's standalone turnover, profit before tax, profit after tax and total comprehensive 
+income is as under: 
+Quarter Ended Year Ended 
+Particulars 
+31-Mar-24 31-Dec-23 31-Mar-23 31-Mar-24 31-Mar-23 
+(Audited) (Unaudited) (Audited) (Audited) (Audited) 
+Turnover 17,371.85 13,983.63 13,404.38 58,249.48 42,010.08 
+Profit before tax 1,618.44 1,531.28 1,919.51 5,131.79 4,957.35 
+Profit after tax 1,187.62 1,143.99 1,449.42 3,889.91 3,861.17 
+Total 
+Comprehensive 1,124.18 1,148.85 1,436.16 3,774.74 3,778.32 
+Income 
+9. During the quarter, the Company completed acquisition of 100% stake in Aurionpro Transit Pte. 
+Ltd (Formerly known as SC Soft Pte. Ltd) through its Singapore based subsidiary Aurionpro 
+Solutions Pte. Ltd by acquiring balance 335186 shares constituting 9.66% stake from existing 
+shareholders for cash consideration of USO 0. 98 million. 
+10. Pursuant to the approval of the Board of Directors dated 12/02/2024, approval of the 
+shareholders dated 07/03/2024 and post receipt of In-Principle approvals from the BSE and 
+NSE, the Allotment Committee of Board of Directors in its meeting held on 28/03/2024 approved 
+allotment of 9,02,935 equity shares on preferential basis at an issue price of Rs.2,215/- per 
+equity share for an aggregate amount of INR 200 crores, as per the relevant provisions of Chapter 
+V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) 
+Regulations, 2018. 
+11. Pursuant to the approval of the Board of Directors dated 10/01/2024 for the Qualified 
+Institutional Placement ("QIP"), approval of the shareholders dated 07/02/2024 and post receipt 
+of In-principle approval of the BSE and NSE on 13/03/2024 the Company made allotment of 
+18,88,665 Equity Shares to the eligible Qualified Institutional Buyers("QIB") on 08/04/2024 at 
+an issue price of INR 2,000 each for an aggregate subscription amount of INR 377. 73 crores. 
+12. Pursuant to the approval of the Board of Directors dated 19/04/2024, the Company acquired 
+majority stake (67%) in Arya.ai operated under legal entity Lithasa Technologies Private Ltd for 
+an aggregate cash consideration of INR 135.20 Crores. 
+13. The Board has recommended issuance of bonus equity shares in the ratio of one equity share of 
+INR.10/- each for every one equity shares of INR.10/- each held, subject to approval by the 
+members of the Company. " 
+14. The Board has recommended in its meeting held on 14/05/2024, a final dividend of INR 2.5 per 
+equity share having the face value of equity share of INR. 10/-each (post bonus), for the financial 
+year 2023-24 subject to approval of the shareholders of the company at the ensuing Annual 
+General Meeting. 
+Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA phone +91 22 4040 7070 
+fax +91 22 4040 7080 
+15. The figures for the quarter ended 31/03/2024 & 31/03/2023 are the balancing figures between 
+the audited figures in respect of the full financial year 2023-24 and 2022-23 and the published 
+unaudited year to date figures up to the third quarter ended 31/12/2023 & 31/12/2022 
+respectively. 
+16. The figures for the earlier periods have been regrouped/ reclassified wherever necessary to 
+make them comparable with those of the current period. 
+17. The Statutory Auditors of the Company have conducted audit of the consolidated financial results 
+for the year ended 31/03/2024 pursuant to the requirement of Regulation 33 of the SEBI (LODR) 
+Regulations, 2015 and have given an unmodified opinion in their report. The consolidated 
+financial results for the year ended 31/03/2023 were audited by the then statutory auditors. 
+18. The consolidated financial results for the year ended 31/03/2024 have been extracted from the 
+audited consolidated financial statements prepared in accordance with the Indian Accounting 
+Standards (Ind-AS) as prescribed under Section 133 of the Companies Act, 2013 read with Rule 
+3 of the Companies (Indian Accounting Standards) Rules, 2015 and relevant amendment rules 
+issued thereafter. These consolidated financial results have been reviewed and recommended 
+by the Audit Committee and thereafter approved by the Board of Directors at their respective 
+meetings held on 14/05/2024 . 
+Place: Navi Mumbai 
+Date: 14/05/2024 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA ---.... For Aurionpro Solutions Limited 
+Amit Sheth 
+Co-Chairman and Director 
+phone +91 22 4040 7070 info@aurionpro.com 
+www.aurionpro.com fax +91 22 4040 7080 
+CIN L99999MH1997PLC111637 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'CK SP & AFFILIATES') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai -400 053, Maharashtra, India. Email: debmalya@ckspllp.com / kalpen@ckspllp.com 
+INDEPENDENT AUDITOR'S REPORT 
+To the Board of Directors of Aurionpro Solutions Limited 
+Report on the Audit of the Consolidated Financial Results 
+Opinion 
+We have audited the accompanying consolidated annual financial results of Aurionpro Solutions Limited (hereinafter referred 
+to as the 'Holding Company') and its subsidiaries (Holding Company and its subsidiaries together referred to as 'the Group'), 
+and joint ventures, for the quarter and year ended 31.03.2024 ('the consolidated financial results') attached herewith, being 
+submitted by the Holding Company pursuant to the requirements of Regulation 33 of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ('Listing Regulations'). We have 
+initialled the consolidated financial results for identification purpose. 
+In our opinion and to the best of our information and according to the explanations given to us, and based on the consideration 
+of reports of other auditors on separate audited financial statements / financial information and management certified 
+unaudited financial statements/ financial information of subsidiaries, and joint ventures, the aforesaid consolidated financial 
+results: 
+a) include the annual financial results of the entities as given in Annexure -I to this report; 
+b) are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this regard; and 
+c) give a true and fair view in conformity with the recognition and measurement principles laid down in the applicable 
+Indian Accounting Standards (Ind AS) and other accounting principles generally accepted in India, of the consolidated 
+net profit and consolidated other comprehensive income and other financial information of the Group and its joint 
+ventures for the quarter and year ended 31.03.2024. 
+Basis for Opinion 
+We conducted our audit in accordance with the Standards on Auditing (SAs) notified under section 143(10) of the Companies 
+Act, 2013 ('the Act'). Our responsibilities under those Standards are further described in the' Auditor's Responsibilities for the 
+Audit of the Consolidated Financial Results' section of our report. We are independent of the Group, and its joint ventures in 
+accordance with the Code of Ethics issued by the Institute of Chartered Accountants of India (!CAI) together with the ethical 
+requirements that are relevant to our audit of the consolidated financial results under the provisions of the Act and the Rules 
+thereunder, and we have fulfilled our other ethical responsibilities in accordance with these requirements and the Code of 
+Ethics. We believe that the audit evidence obtained by us and other auditors in terms of their reports referred to in 'Other 
+Matter' paragraph below, is sufficient and appropriate to provide a basis for our opinion on the consolidated financial results. 
+Responsibilities of Management and Those Charged with Governance for the Consolidated Financial Results 
+These consolidated financial results have been prepared on the basis of the consolidated annual financial statements . The 
+Holding Company's Management and Board of Directors are responsible for the preparation and presentation of these 
+consolidated financial results that give a true and fair view of the consolidated net profit and other comprehensive income and 
+other financial information of the Group including its joint ventures in accordance with the recognition and measurement 
+principles laid down in Ind AS notified under Section 133 of the Act read with relevant rules issued thereunder and other 
+accounting principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. The 
+~IN Management and Board of Directors of the companies included in the Group and of its joint ventures are responsible 
+,._~ rm • nee of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets of 
+-., FRN 
+131228 
+c.:> ,..,, ... -,., ND CO LLP is a Limited Liability Partnership with LLP Registration No. AAC -8300 
+CKSP & AFFILIATES -Registration no. NRN/0043/W 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'CK SP & AFFILIATES ') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai -400 053, Maharashtra, India. Email: debmalya@cksp llp.com / kalpen@ckspllp.com 
+the Group and its joint ventures and for preventing and detecting frauds and other irregularities ; selection and application of 
+appropriate accounting policies; making judgments and estimates that are reasonable and prudent; and design, 
+implementation and maintenance of adequate internal financial controls, that were operating effectively for ensuring the 
+accuracy and completeness of the accounting records, relevant to the preparation and presentation of the respective financial 
+results that give a true and fair view and are free from material misstatement, whether due to fraud or error, which have been 
+used for the purpose of preparation of the consolidated financial results by the Management and Directors of the Holding 
+Company, as aforesaid. 
+In preparing the consolidated financial results, the respective Management and Board of Directors of the companies included 
+in the Group and of its joint ventures, are responsible for assessing the ability of the Group and of its joint ventures to continue 
+as a going concern, disclosing, as applicable , matters related to going concern and using the going concern basis of accounting 
+unless the respective Board of Directors either intends to liquidate the Group and its joint ventures or to cease operations, or 
+has no realistic alternative but to do so. 
+The respective Board of Directors of the companies included in the Group and of its joint ventures are responsible for 
+overseeing the financial reporting process of the Group and of its joint ventures. 
+Auditor's Responsibilities for the Audit of the Consolidated Financial Results 
+Our objectives are to obtain reasonable assurance about whether the consolidated financial results as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue an auditors' report that includes our opinion. Reasonable 
+assurance is a high level of assurance , but is not a guarantee that an audit conducted in accordance with SAs will always detect 
+a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually 
+or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+consolidated financial results. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional scepticism throughout 
+the audit. We also: 
+■ Identify and assess the risks of material misstatement of the consolidated financial results, whether due to fraud or 
+error, design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and 
+appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is 
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions , 
+misrepresentations, or the override of internal control; 
+■ Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are 
+appropriate in the circumstances. Under Section 143(3)(i) of the Act, we are also responsible for expressing our opinion 
+through a separate report on the complete set of consolidated financial statements on whether the companies forming 
+part of the Group, and its joint ventures, incorporated in India have adequate internal financial controls with reference 
+to consolidated financial statements in place and the operating effectiveness of such controls; 
+■ Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related 
+disclosures made by the Management and the Board of Directors; 
+■ Conclude on the appropriateness of the Management and Board of Directors use of the going concern basis of 
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or 
+conditions that may cast significant doubt on the ability of the Group and its joint ventures to continue as a going 
+concern. If we conclude that a material uncertainty exists, we are required to draw attention in our auditors' report to 
+~=~e related disclosures in the consolidated financial results or, if such disclosures are inadequate, to modify our opinion. 
+~N Du nclusions are based on the audit evidence obtained up to the date of our auditor's report. However, future events 
+itions may cause the Group and its joint ventures to cease to continue as a going concern; 
+iu,ue41r,vi ~TD CO LLP is a Limited Liability Partnership with LLP Registration No; AAC -8300 
+CKSP & AFFILIATES -Registration no. NRN/0043/W 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'C KS P & AFFILIATES') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai -400 053, Maharashtra, India. Email: debmalya@ckspllp .com / kalpen@ckspllp.com 
+• 
+• Evaluate the overall presentation, structure and content of the consolidated financial results, including the disclosures, 
+and whether the consolidated financial results represent the underlying transactions and events in a manner that 
+achieves fair presentation. 
+Obtain sufficient appropriate audit evidence regarding the consolidated financial results/ financial information of the 
+entities within the Group, and its joint ventures to express an opinion on the consolidated financial results. We are 
+responsible for the direction, supervision and performance of the audit of the financial information of such entities 
+included in the consolidated financial results of which we are the independent auditors. For the other entities included 
+in the consolidated financial results, which have been audited by the other auditors, such other auditors remain 
+responsible for the direction, supervision, and performance of the audits carried out by them. We remain solely 
+responsible for our opinion. 
+We communicate with those charged with governance of the Holding Company regarding, among other matters, the planned 
+scope and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we 
+identify during our audit. 
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements 
+regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought 
+to bear on our independence, and where applicable, related safeguards. 
+We also performed procedures in accordance with the circular issued by the Securities and Exchange Board of India under 
+Regulation 33(8) of the Listing Regulations, as amended, to the extent applicable. 
+Other Matters 
+(a) The consolidated financial results include the financial results of subsidiaries, whose financial statements/ financial 
+results/ financial information reflect Group's share of total assets of Rs. 74,460.79 lakhs as at 31.03.2024, Group's 
+share of total revenue of Rs.15,124.87 lakhs and Rs. 34,973.89 lakhs and Group's share of total net profit after tax of 
+Rs.7,461.53 lakhs and Rs. 12,903.30 lakhs and total comprehensive income of Rs. 7,484.15 lakhs and Rs. 12,967.75 
+lakhs for the quarter and year ended 31.03.2024 respectively, and net cash inflow amounting to Rs. 1,840.74 lakhs for 
+the year ended 31.03.2024, as considered in the audited consolidated financial results. The consolidated financial 
+results also include Group's share of net profit/(loss) after tax of Rs. 422.41 lakhs and Rs. 844.91 lakhs, total 
+comprehensive income of Rs. 424.68 lakhs and Rs. 848. 76 lakhs for quarter and year ended 31.03.2024, in respect of 
+a joint venture. The financial statements of these entities are audited by their respective auditors. The independent 
+auditors' reports on financial statements / financial results / financial information of these entities have been 
+furnished to us by the Holding Company's Management and our opinion on the consolidated financial results, in so 
+far as it relates to the amounts and disclosures included in respect of these entities, is based solely on the report of 
+such auditors and the procedures performed by us are as stated in paragraph above. 
+Of the entities referred to above, in respect of 8 subsidiaries and a joint venture, their financial results have been 
+prepared in accordance with accounting principles generally accepted in the respective countries of incorporation and 
+the Holding Company's Management has converted these financial results from accounting principles generally 
+accepted in the respective countries to accounting principles generally accepted in India. These financial results are 
+prepared from Ind AS converted financial statements certified by independent chartered accountants. 
+(b) The consolidated financial results include the financial results of subsidiaries, whose financial statements/ financial 
+results/ financial information reflect Group's share of total assets of Rs. 14,850.59 lakhs as at 31.03.2024, Group's 
+share of total revenue of Rs.3,168.16 lakhs and Rs. 11,099.17 lakhs and Group's share of total net profit after tax of 
+Rs. 744.37 lakhs and Rs. 2,522.15 lakhs and total comprehensive income of Rs. 741.87 lakhs and Rs. 2,534.37 lakhs for 
+~:;-,-a:::::,.... the quarter and year ended 31.03.2024 respectively, and net cash inflow amounting to Rs. 1,181.58 lakhs for the year 
+~ND ed 31.03.2024, as considered in the consolidated financial results. The consolidated financial results also include 
+0 
+D CO LLP is a Limited Liability Partnership with LLP Registration No. AAC -8300 
+CKSP & AFFILIATES -Registration no. NRN/0043/W 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'C KS P & AFFILIATES') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai -400 053, Maharashtra, India. Email: debmalya@ckspllp.com / kalpen@ckspllp.com 
+Group's share of net profit/(loss) after tax of Rs.Nil and Rs.Nil, total comprehensive income of Rs.Nil and Rs.Nil for 
+quarter and year ended 31.03.2024, in respect of a joint venture. The financial statements of these entities have 
+neither been audited by us nor by their auditors. These unaudited financial statements/ financial results/ financial 
+information have been approved and furnished to us by the Holding Company's Management and our opinion on the 
+consolidated financial results, in so far it relates to the amounts and disclosures included in respect of these 
+subsidiaries, and a joint venture is based solely on such unaudited financial statements/ financial results/ financial 
+information. 
+Of the entities referred to above, in respect of 14 subsidiaries and a joint venture, their financial results have been 
+prepared in accordance with accounting principles generally accepted in the respective countries of incorporation and 
+the Holding Company's Management has converted these financial results from accounting principles generally 
+accepted in the respective countries to accounting principles generally accepted in India. These financial results are 
+prepared from Ind AS converted financial statements certified by an independent chartered accountant. In our opinion 
+and according to the information and explanations given to us by the Board of Directors, these financial statements/ 
+financial results/ financial information are material to the Group. 
+(c) The consolidated financial results include the figures for the quarter ended 31.03.2024, being the balancing figures 
+between the audited figures in respect of the full financial year and the published unaudited year to date figures upto 
+the third quarter of the current financial year which were subject to limited review. 
+(d) The consolidated financial results include figures for the quarter and year ended 31.03.2023, which were audited by 
+the then statutory auditors and they had expressed unmodified opinion vide their audit report dated 16.05.2023. 
+Our opinion is not modified in respect of above matters. 
+For C KS P AND CO LLP 
+Chartered Accountants 
+Firm Reg. No. 131228W/W100044 ~ 
+Partner 
+M. No. 053897 
+UDIN -24053897BKFTTY6669 
+Place: Navi Mumbai 
+Date: 14.05.2024 
+C KS P AND CO LLP is a Limited Liability Partnership with LLP Registration No. AAC -8300 
+CKSP & AFFILIATES -Registration no. NRN/0043/W 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'CK SP & AFFILIATES') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai -400 053, Maharashtra, India. Email: debmalva@ckspllp.com / kalpen@ckspllp.com 
+Annexure -I to the Independent Auditor's Report 
+Audited Consolidated Financial Results for the quarter and year ended 31.03.2024 includes results of the following entities: 
+Sr. No. Subsidiaries 
+1 Aurofidel Outsourcing Limited., India 
+2 PT Aurionpro Solutions., Indonesia 
+3 Aurionpro Solutions Pte. Ltd., Singapore 
+4 lntellvisions Solutions Private Limited, India 
+5 Aurionpro Payment Solutions Private Limited, India 
+6 Aurionpro Transit Solutions Private Limited, India 
+7 Aurionpro Payment Solutions Pte. Ltd, Singapore 
+8 Aurionpro Transit Technologies Private Limited, India (Formerly known as SC Soft Technologies Private Limited, 
+India) 
+9 Aurionpro Solutions PLC., United Kingdom 
+10 lntegro Technologies Pte. Ltd., Singapore 
+11 lntegro Technologies SDN. BHD Malaysia 
+12 lntegro Technologies Co. Ltd., Thailand 
+13 Aurionpro Market Systems Pte. Ltd, Singapore 
+14 lntegro Technologies (Vietnam) Limited Liability Company, Vietnam 
+15 lntegrosys Corporation, Philippines 
+16 Aurionpro Transit Pte Ltd, Singapore (Formerly known as SC Soft Pte. Ltd., Singapore) 
+17 Shenzhen SC Trading Co. Ltd., China 
+18 SC Soft SDN BHD, Malaysia 
+19 Neo. BNK Pte Ltd, Singapore 
+20 Aurionpro Solutions (Africa) Ltd., Kenya 
+21 Aurionpro Holding Pte. Ltd, Singapore 
+22 Aurionpro Fintech Inc, USA 
+23 Aurionpro Foundation, India -Section 8 Company 
+24 SC Soft Inc, Canada 
+25 Aurionpro Technology Solutions Pty Ltd, Australia 
+26 Aurionpro Toshi Automatic Systems Private Limited, India (w.e.f. 04/09/2022 and associate till 03/09/2022) 
+27 Real Patients Solutions Inc., USA (Formerly known as Hello Patients Solutions Inc., USA) 
+28 SC Soft Americas LLC, Canada 
+29 Aurionpro Transit Technologies Solutions Limited, Turkey (Formerly known as SC Soft Information Technology 
+Consultancy Co. Ltd., Turkey) 
+- Joint ventures 
+~ ~; ~ lntellvisions Software LLC., UAE 
+CIJ FR~1\c,.., 
+!~~1i;~ Aurionpro Middle East for Information Technology Company (Aurionpro MENA),Saudi Arabia 
+~~ AND CO LLP is a Limited Liability Partnership with LLP Registration No. AAC -8300 
+CKSP & AFFILIATES -Registration no. NRN/0043/W 
+aurionpro t•• Aurionpro Solutions Limited 
+Statement of Audited Standalone Financial Results for the Quarter and Year ended March 31, 2024 
+Sr Particulars 31-Mar-24 No. 
+Audited 
+1 Income 
+(a) Revenue from Operations 17,371.85 
+(b) Other Income 140.35 
+(c) Total Income [(a)+ (b)] 17,512.20 
+2 Expenses 
+(a) Software, Hardware and Other Material Cost 7,941.47 
+(b) Change in Inventories of Raw Materials , (198.56) Finished Goods and Stock-in-Trade 
+(c) Employee Benefits Expense 6,176.13 
+(d) Finance Costs 255.89 
+(e) Depreciation and Amortisation Expense 416.66 
+(f) Other Expenses 1,302.17 
+(g) Total Expenses [ (a) to (f)] 15,893.76 
+3 Profit before Exceptional Items and Tax [1 (c) -2 (g)] 1,618.44 
+4 Exceptional Items -
+5 Profit before Tax [ 3-4 ] 1,618.44 
+6 Tax Expenses 
+(a) Current Tax 366.68 
+(b) Deferred Tax Charge/ (Credit) 64.14 
+7 Profit after Tax [ 5 -6] 1,187.62 
+8 Other Comprehensive Income (net of tax) 
+Items that will be reclassified subsequently to profit or loss -
+Items that will not be redassified subsequently to profit or loss (63.44) 
+9 Total Comprehensive Income [ 7+8] 1,124.18 
+10 Paid-up Equity Share Capital (Face Value of Rs. 10 each) 2,471.81 
+11 Other Equity (Excluding Revaluation Reserve) 
+12 Earnings per equity share* 
+-Basic (Rs.) 4.98 
+-Diluted (Rs.) 4.78 
+• Earnings per equity share for the quarter ended is not annualised. 
+See accompanying notes to the financial results 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA Quarter ended 
+31-Dec-23 31-Mar-23 
+Unaudited Audited 
+13,983.63 13,404.38 
+94.50 130.26 
+14,078.13 13,534.64 
+4,965.32 6,269.27 
+(17.57) 324.25 
+5,887.52 3,899.43 
+262.66 259.63 
+380.93 364.77 
+1,067.99 497.78 
+12,546.85 11,615.13 
+1,531.28 1,919.51 
+- -
+1,531.28 1,919.51 
+372.94 401.12 
+14.35 68.97 
+1,143.99 1,449.42 
+- -
+4.86 (13.26) 
+1,148.85 1,436.16 
+2,381.52 2,280.02 
+4.86 6.36 
+4.66 6.36 
+phone +91 22 4040 7070 
+fax +91 22 4040 7080 (Rs.in lakhs) 
+Year ended 
+31-Mar-24 
+Audited 
+58,249.48 
+415.49 
+58,664.97 
+25,047.16 
+154.43 
+21,829.10 
+1,021.35 
+1,545.45 
+3,935.69 
+53,533.18 
+5,131.79 
+-
+5,131.79 
+1,288.31 
+(46.43) 
+3,889.91 
+-
+(115.17) 
+3,774.74 
+2,471.81 
+58,199.62 
+16.69 
+16.08 
+info@aurionpro .com 
+www.aurionpro .com 31-Mar-23 
+Audited 
+42,010.08 
+940.96 
+42,951.04 
+19,553.66 
+(9.55) 
+13,822.76 
+853.55 
+1,144.93 
+2,628.34 
+37,993.69 
+4,957.35 
+-
+4,957.35 
+1,033.29 
+62.89 
+3,861.17 
+-
+(82.85) 
+3,778.32 
+2,280.02 
+24,873.00 
+16.93 
+16.93 
+CIN L99999MH1997PLC111637 
+aurionpro t•♦ 
+Notes to the Standalone Financial Results: 
+1. Statement of Assets and Liabilities 
+Sr Particulars 
+A ASSETS 
+1 Non-Current Assets 
+(a) Property, Plant and Equipment 
+(b) Capital Work in Progress 
+(c) Right of Use Assets 
+(d)Goodwill 
+(e) Other Intangible Assets 
+(f) Financial Assets 
+(i) Investments 
+(ii) Other Financial Assets 
+(g) Income Tax Assets (net) 
+(h) Deferred Tax Assets (net) 
+(i) Other Non Current Assets 
+Sub-total Non-Current Assets 
+2 Current Assets 
+(a) Inventories 
+(b) Financial Assets 
+(i) Investments 
+(ii) Trade Receivables 
+(iii) Cash and Cash Equivalents 
+(iv) Bank Balances other than (iii) above 
+(v) Loans 
+(vi) Other Financial Assets 
+(c) Other Current Assets 
+Sub-total Current Assets 
+Total Assets 
+B EQUITY AND LIABILITIES 
+1 Equity 
+(a) Equity Share Capital 
+(b) Other Equity 
+Total Equity 
+2 Liabilities 
+Non Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Lease Liabilities 
+(ii) Other Financial Liabilities 
+(b) Other Non Current Liabilities 
+(c) Provisions 
+Sub-total Non-Current Liabilities 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 
+(ii) Lease Liabilities 
+(iii) Trade Payables 
+Due to Micro and Small Enterprise 
+Due to Other than Micro and Small Enterprise 
+(iv) Other Financial Liabilities 
+(b} Other Current Liabilities 
+~ ;(§-~isions 
+~ f\ND ~ 
+~--Y I Total E'lnitVL.and Liabilities 
+;~-"~)) !::a::: 8W r-
+~ * 44b 
+-
+Aurionpro Solutions Limited Sub-total Current Liabilities 
+Synergia IT Park, Plot No. R-270, 
+TT.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA (Rs. in lakhs) 
+As at As at 
+31-Mar-24 31-Mar-23 
+Audited Audited 
+7,161.87 7,167.00 
+129.31 326.11 
+570.99 475.86 
+13,323.58 -
+1,538.98 1,304.24 
+8,773.35 9,312.86 
+955.65 946.20 
+646.66 451.68 
+294.86 248.43 
+613.37 1,299.80 
+34,008.62 21,532.18 
+882.71 1,037.14 
+- -
+21,660.88 14,882.66 
+20,118.23 518.57 
+1,496.39 1,110.51 
+1,207.46 5,821.24 
+9,854.75 3,076.88 
+4,182.96 4,483.88 
+59,403.38 30,930.88 
+93,412.00 52,463.06 
+2,471.81 2,280.02 
+58,199.62 24,873.00 
+60,671.43 27,153.02 
+408.63 2,797.87 
+345.93 273.62 
+2,000.00 -
+864.49 702.95 
+578.56 450.91 
+4,197.61 4,225.35 
+5,886.10 3,243.68 
+269.91 262.71 
+3,067.41 2,936.19 
+8,489.78 9,289.54 
+6,020.04 2,648.31 
+3,845.43 2,016.56 
+964.29 687.70 
+28,542.96 21,084.69 
+93,412.00 52,463.06 
+phone +91 22 4040 7070 
+fax +91 22 4040 7080 -
+~e:»o\utJ0~"' l~j 
+"'., * ~'b 
+-
+info@aurionpro.com 
+www.aurionpro.com 
+CIN L99999MH1997PLC111637 
+Notes to the Standalone Financial Results: 
+2. Statement of Cash Flow 
+Sr Particulars 
+A Cash Flow from Operating Activities 
+Net profit before tax 
+Adjustments : 
+Depreciation and amortisation expenses 
+Interest Income 
+Dividend Income 
+Interest expenses 
+Bad debts 
+Provision for doubtful debts 
+Employee Stock Purchase Scheme Expense 
+Profit on sale of Property, Plant and Equipment (PPE) 
+Foreign exchange Loss 
+Operating Profit before working capital changes 
+Movements in Working Capital 
+Decrease I (Increase) in Inventories 
+Decrease I (Increase) in Trade Receivables and Other Assets 
+Increase/ (Decrease) in Trade Payables, Other Liabilities 
+Cash generated from Operations 
+Income taxes refund/ (paid) (net) 
+Net Cash generated from/ (used in) Operating Activities 
+B Cash flow from Investing Activities 
+Purchase of PPE and Other Intangible Assets (net) 
+Sale/ (Purchase) of Investments 
+Purchase of Business 
+Loans/ Advances (given to) / repaid by Subsidiaries 
+Dividend Received 
+Interest received 
+Proceeds from/ (Investment in) Fixed deposits with Banks 
+Net cash used in Investing Activities 
+C Cash flow from Financing Activities 
+Proceeds/ (Repayment) Long-Term Borrowings (net) 
+Proceeds from Short-Term Borrowings (net) 
+Proceed from issue of Equity Shares 
+Payment of issue Expenses 
+Repayment of Lease Liabilities 
+Dividend Paid 
+Interest paid 
+Net cash generated from/ (used in) Financing Activities (Rs.in lakhs) 
+Year Ended 
+31-Mar-24 31-Mar-23 
+Audited Audited 
+5,131.79 4,957.35 
+1,545.45 1,144.93 
+(293.50) (310.25) 
+- (557.61) 
+837.64 725.12 
+171.27 210.44 
+0.12 (185.55) 
+1,076.64 -
+(25.65) -
+10.16 51.03 
+8,453.92 6,035.46 
+154.43 (9.55) 
+(9,803.77) (7,212.40) 
+1,325.63 5,900.40 
+(8,323.71) (1,321.55) 
+130.21 4,713.91 
+(1,483.30) (762.59) 
+(1,353.09) 3,951.32 
+(1,249.92) (2,564.39) 
+548.54 (1,466.57) 
+(10,500.00) -
+4,737.82 (1,963.25) 
+- 573.05 
+147.15 74.48 
+(519.35) 104.76 
+(6,835.76) (5,241.92) 
+(3,330.81) 282.54 
+3,584.00 1,083.07 
+29,727.51 -
+(458.00) -
+(345.50) (282.89) 
+(602.50) (570.00) 
+(786.19) (628.96) 
+27,788.50 (116.24) 
+g... .N?tJg~rease/ (Decrease) in Cash and Cash Equivalents (A+B+C) - 19,599.65 (1,406.84) 
+i 'q) .G~b, nt Cash Equivalents at beginning of year 
+" ,,e. [C1fsh) [n'di\Cash Equivalents at end of year 
+(t)~1'oj;;~; 
+A~q_o~~ ons Limited -Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA /c.o\Ul ,,., 518.57 1,925.41 
+, .?/' 1\ AIL-' ~ 20,118.23 518.57 
+I ~lv:V:.~~-0A ,.,_ T,.!-1--1 I !:,. I 
+:1 
+~~~., 
+p 1 r, 40 7070 info@aurionpro.com 
+fax ~~1 4040 7080 www.aurionpro .com -CIN L99999MH1997PLC111637 
+Notes to the Standalone Financial Results: 
+3. Other Expenses include foreign exchange (gain)/ loss of INR 12.07 Lakhs and INR 10.16 
+Lakhs for the quarter and year ended 31/03/2024 respectively (Quarter and year ended 
+31/03/2023: INR 17.50 Lakhs and INR 51.03 Lakhs respectively). 
+4. Software, hardware and other related expenses include purchase of material and license 
+of INR 5,877.89 Lakhs and INR 17,221.81 Lakhs for the quarter and year ended 
+31/03/2024 respectively. (Quarter and year ended 31/03/2023: 4,182.44 Lakhs and INR 
+12,576.01 Lakhs respectively). 
+5. As required under Ind AS 115 "Revenue from Contracts with Customers", unbilled 
+revenue is accounted on estimate basis in respect of contracts where the contractual right 
+to consideration is based on completion of contractual milestones as confirmed by the 
+technical team. 
+6. Pursuant to the approval from the Board of Directors on 25/07/2022 and Shareholders on 
+26/09/2022, Aurionpro Solutions Limited -Employee Stock Purchase Scheme 2022 ('ASL 
+ESPS 2022') was instituted and Aurionpro Solutions Ltd -Employee Benefit Trust ('ASL 
+ESPS Trust') was formed to administer the ESPS plan. The Company has made allotment 
+of 10,00,000 equity shares of INR 10 each to ASL ESPS Trust' on 15/05/2023 under ASL 
+ESPS 2022. During the year, the Company has incurred ESPS cost of INR 357.36 Lakhs 
+and INR 1,076.64 Lakhs for the quarter and year ended 31/03/2024 respectively. ESPS 
+Trust shares are consolidated in the standalone financial statements of the Company. 
+7. Pursuant to the approval of the Board of Directors dated 12/02/2024, approval of the 
+shareholders dated 07/03/2024 and post receipt of In-Principle approvals from the BSE 
+and NSE, the Allotment Committee of Board of Directors in its meeting held on 28/03/2024 
+approved allotment of 9,02,935 equity shares on preferential basis at an issue price of 
+Rs.2,215/- per equity share for an aggregate amount of INR 200 crores, as per the 
+relevant provisions of Chapter V of the Securities and Exchange Board of India (Issue of 
+Capital and Disclosure Requirements) Regulations, 2018. 
+8. Pursuant to the approval of the Board of Directors dated 10/01/2024 for the Qualified 
+Institutional Placement ("QIP"), approval of the shareholders dated 07/02/2024 and post 
+receipt of In-principle approval of the BSE and NSE on 13/03/2024 the Company made 
+allotment of 18,88,665 Equity Shares to the eligible Qualified Institutional Buyers("QIB") 
+on 08/04/2024 at an issue price of INR 2,000 each for an aggregate subscription amount 
+of INR 377.73 crores. 
+9. Pursuant to the approval of the Board of Directors dated 19/04/2024, the Company 
+acquired majority stake (67%) in Arya.ai operated under legal entity Lithasa Technologies 
+Private Ltd for an aggregate cash consideration of INR 135.20 Crores. 
+10. The Board has recommended issuance of bonus equity shares in the ratio of one equity 
+share of INR.10/- each for every one equity shares of INR.10/- each held, subject to 
+approval by the members of the Company. 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA phone +91 22 4040 7070 
+fax +91 22 4040 7080 info@aurionpro.com 
+www.aurionpro.com 
+CIN L99999MH1997PLC111637 
+aurionpro t• .. 
+11. The Board has recommended in its meeting held on 14/05/2024, a final dividend of INR 
+2.5 per equity share having the face value of equity share of INR. 10/-each (post bonus), 
+for the financial year 2023-24 subject to approval of the shareholders of the company at 
+the ensuing Annual General Meeting. 
+12. The segment information, pursuant to the requirement of Ind AS 108 Operating 
+Segments, is given as part of the consolidated financial results. 
+13. The figures for the quarter ended 31/03/2024 & 31/03/2023 are the balancing figures 
+between the audited figures in respect of the full financial year 2023-24 and 2022-23 and 
+the published unaudited year to date figures up to the third quarter ended 31/12/2023 & 
+31/12/2022 respectively. 
+14. The figures for the earlier periods have been regrouped/ reclassified wherever necessary 
+to make them comparable with those of the current period. 
+15. The Statutory Auditors of the Company have conducted audit of the standalone financial 
+results for the year ended 31/03/2024 pursuant to the requirement of Regulation 33 of 
+the SEBI (LODR) Regulations, 2015 and have given an unmodified opinion in their report. 
+The standalone financial results for the year ended 31/03/2023 were audited by the then 
+statutory auditors. 
+16. The standalone financial results for the year ended 31/03/2024 have been extracted from 
+the audited standalone financial statements prepared in accordance with the Indian 
+Accounting Standards (Ind-AS) as prescribed under Section 133 of the Companies Act, 
+2013 read with Rule 3 of the Companies (Indian Accounting Standards) Rules, 2015 and 
+relevant amendment rules issued thereafter. These standalone financial results have been 
+reviewed and recommended by the Audit Committee and thereafter approved by the 
+Board of Directors at their respective meetings held on 14/05/2024 . 
+Place: Navi Mumbai 
+Date: 14/05/2024 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA For Aurionpro Solutions Limited 
+Amit Sheth 
+Co-Chairman and Director 
+phone +91 22 4040 7070 
+fax +91 22 4040 7080 info@aurionpro.com 
+www.aurionpro.com 
+GIN L99999MH1997PLC111637 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'CK SP & AFFILIATES') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai- 400 053, Maharashtra, India. Email: debmalya@ckspllp.com / kalpen@ckspllp.com 
+INDEPENDENT AUDITOR'S REPORT 
+To the Board of Directors of Aurionpro Solutions Limited 
+Report on the Audit of the Standalone Financial Results 
+Opinion 
+We have audited the accompanying standalone annual financial results of Aurionpro Solutions Limited ('the Company'), for the 
+quarter and year ended 31.03.2024 ('the standalone financial results'), attached herewith, being submitted by the Company 
+pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended ('Listing Regulation'). We have initialled the standalone financial results for 
+identification purpose. 
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid standalone 
+financial results: 
+a) are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this regard; and 
+b) give true and fair view in conformity with the recognition and measurement principles laid down in the applicable 
+Indian Accounting Standards {Ind AS) and other accounting principles generally accepted in India, of net profit and 
+other comprehensive income and other financial information of the Company for the year ended 31.03.2024. 
+Basis for Opinion 
+We conducted our audit in accordance with the Standards on Auditing (SAs) notified under section 143(10) of the Companies 
+Act, 2013 ('the Act'). Our responsibilities under those Standards are further described in the 'Auditor's Responsibilities for the 
+Audit of the Standalone Financial Results' section of our report. We are independent of the Company in accordance with the 
+Code of Ethics issued by the Institute of Chartered Accountants of India (ICAI) together with the ethical requirements that are 
+relevant to our audit of the standalone financial results under the provisions of the Act and the Rules thereunder, and we have 
+fulfilled our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We believe that the 
+audit evidence obtained by us is sufficient and appropriate to provide a basis for our opinion on the standalone financial results. 
+Responsibilities of Management and Those Charged with Governance for the Standalone Financial Results 
+These standalone financial results have been prepared on the basis of the standalone annual financial statements. The 
+Company's Management and Board of Directors of the Company are responsible for the preparation and presentation of these 
+standalone financial results that give a true and fair view of the net profit and other comprehensive income and other financial 
+information of the Company for the year ended 31.03.2024 in accordance with the recognition and measurement principles 
+laid down in Ind AS prescribed under Section 133 of the Act read with relevant rules issued thereunder and other accounting 
+principles generally accepted in India and in compliance with Regulation 33 of the Listing Regulations. This responsibility also 
+includes maintenance of adequate accounting records in accordance with the provisions of the Act for safeguarding the assets 
+of the Company and for preventing and detecting frauds and other irregularities; selection and application of appropriate 
+accounting policies; making judgments and estimates that are reasonable and prudent; and design, implementation and 
+maintenance of adequate internal financial controls, that were operating effectively for ensuring the accuracy and 
+completeness of the accounting records that give a true and fair view and are free from material misstatement, whether due 
+to fraud or error, which have been used for the purpose of preparation of the standalone financial results by the Board of 
+Directors of the Company, as aforesaid. 
+In preparing the standalone financial results, the Management and the Board of Directors are responsible for assessing the 
+ability of the Company to continue as a going concern, disclosing, as applicable, matters related to going concern and using the 
+going concern basis of accounting unless the Board of Directors either intends to liquidate the Company or to cease operations, 
+·stic alternative but to do so. 
+ND CO LLP is a Limited Liability Partnership with LLP Registration No. AAC -8300 
+CKSP & AFFILIATES -Registration no. NRN/0043/W 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'CK SP & AFFILIATES ') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai- 400 053, Maharashtra, India. Email: debmalya@ckspllp.com / kalpen@ckspllp.com 
+The Board of Directors is responsible for overseeing the financial reporting process of the Company . 
+Auditor's Responsibilities for the Audit of the Standalone Financial Results 
+Our objectives are to obtain reasonable assurance about whether the standalone financial results as a whole are free from 
+material misstatement, whether due to fraud or error, and to issue an auditors' report that includes our opinion. Reasonable 
+assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with SAs will always detect 
+a material misstatement when it exists. Misstatements can arise from fraud or error and are considered material if, individually 
+or in the aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis of these 
+standalone financial results. 
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional skepticism throughout 
+the audit. We also: 
+• Identify and assess the risks of material misstatement of the standalone financial results, whether due to fraud or error, 
+design and perform audit procedures responsive to those risks, and obtain audit evidence that is sufficient and 
+appropriate to provide a basis for our opinion. The risk of not detecting a material misstatement resulting from fraud is 
+higher than for one resulting from error, as fraud may involve collusion, forgery, intentional omissions , 
+misrepresentations, or the override of internal control. 
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures that are 
+appropriate in the circumstances . Under Section 143(3)(i) of the Act, we are also responsible for expressing our opinion 
+through a separate report on the complete set of standalone financial statements on whether the company has 
+adequate internal financial controls with reference to standalone financial statements in place and the operating 
+effectiveness of such controls. 
+• Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates and related 
+disclosures made by the Management and the Board of Directors. 
+• Conclude on the appropriateness of the Management and Board of Directors' use of the going concern basis of 
+accounting and, based on the audit evidence obtained, whether a material uncertainty exists related to events or 
+conditions that may cast significant doubt on the ability of the Company to continue as a going concern. If we conclude 
+that a material uncertainty exists, we are required to draw attention in our auditors' report to the related disclosures in 
+the standalone financial results or, if such disclosures are inadequate , to modify our opinion. Our conclusions are based 
+on the audit evidence obtained up to the date of our auditor's 
+report. However, future events or conditions may cause the Company to cease to continue as a going concern. 
+• Evaluate the overall presentation, structure and content of the standalone financial results, including the disclosures , 
+and whether the standalone financial results represent the underlying transactions and events in a manner that achieves 
+fair presentation. 
+We communicate with those charged with governance of the Company regarding, among other matters, the planned scope 
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control that we identify 
+during our audit. 
+We also provide those charged with governance with a statement that we have complied with relevant ethical requirements 
+regarding independence, and to communicate with them all relationships and other matters that may reasonably be thought 
+to bear on our independence, and where applicable, related safeguards. 
+D CO LLP is a Limited Liability Partners hip with LLP Registration No. AAC -8300 
+CKSP & AFFILIATES -Registration no. NRN/0043/W 
+C KS P AND CO LLP 
+Chartered Accountants 
+(A Member Firm of 'CK SP & AFFILIATES') 
+Regd. Off.: A-312, 3rd Floor, Royal Sands C.H.S.L., Shashtri Nagar, Andheri (West), 
+Mumbai -400 053, Maharashtra, India. Email: debmalya@ckspllp.com / kalpen@ckspllp .com 
+Other Matters 
+(a) The standalone financial results include the figures for the quarter ended 31.03.2024, being the balancing figures 
+between the audited figures in respect of the full financial year and the published unaudited year to date figures upto 
+the third quarter of the current financial year which were subject to limited review. 
+(b) The standalone financial results include figures for the quarter and year ended 31.03.2023, which were audited by the 
+then statutory auditors and they had expressed unmodified opinion vide their audit report dated 16.05.2023. 
+Our opinion is not modified in respect of above matters. 
+For CK SP AND CO LLP 
+Chartered Accountants 
+Firm Reg. No. 131228W/W100044 
+~ 
+Partner 
+M. No. 053897 
+UDIN: 24053897BKFTTXS169 
+Place: Navi Mumbai 
+Date: 14.05.2024 
+C KS P AND CO LLP is a Limited Liability Partnership with LLP Registration No. AAC -8300 
+CKSP & AFFILIATES- Registration no. NRN/0043/W 

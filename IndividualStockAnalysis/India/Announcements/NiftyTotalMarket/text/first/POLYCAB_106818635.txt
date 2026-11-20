@@ -1,0 +1,305 @@
+ 
+ 
+ 
+ 
+Registered Office:  
+Unit 4, Plot No 105 , Halol Vadodara Road 
+Village Nurpura , Taluka Halol,  Panchmahal, 
+Panch Mahals, Gujarat 389 350  
+Tel: +91 2676 - 227600 / 227700  
+Corporate Office:  
+Polycab India Limited  
+CIN: L31300GJ1996PLC114183  
+#29, The Ruby, 21st Floor, Senapati Bapat Marg,  
+Tulsi Pipe Road , Dadar (West), Mumbai 400 028  
+Tel: +91 22 2432  7070 - 74 
+Email:  shares@polycab.com  Web:  www.polycab.com  
+ 
+ 
+Date:  October  15, 2026 
+ 
+To 
+Department of Corporate Services  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai, MH - 400001  To 
+Listing Department  
+National Stock Exchange of India Limited  
+C-1, G-Block, Bandra -Kurla Complex  
+Bandra (E), Mumbai, MH - 400051  
+ 
+Scrip Code: 542652  Scrip Symbol: POLYCAB  
+ISIN: INE455K01017  
+ 
+Dear Sir(s) / Madam(s)  
+ 
+Subject:  Unaudited Interim Condensed (Standalone and Consolidated) Financial Statements for the 
+quarter and half year ended September  30, 2026. 
+With reference to the captioned subject, please find enclosed herewith the Unaudited Interim Condensed 
+(Standalone and Consolidated) Financial Statements of the Company, along with Review Reports for the 
+quarter and half year ended  September  30, 2026 as approved by the Board of Directors at its meeting held 
+today i.e. October  15, 2026. 
+ 
+ 
+Kindly take the same on your record.  
+Thanking you  
+ 
+Yours Faithfully  
+For Polycab India Limited  
+ 
+ 
+ 
+_________________________  
+Manita Carmen A. Gonsalves  
+Vice President -Legal & Company Secretary  
+Membership No.: A18321  
+Address: #29, The Ruby, 21st Floor, Senapati Bapat Marg,  
+Tulsi Pipe Road, Dadar (West), Mumbai, MH -400028  
+ 
+Encl: as above  
+POLY 
+•• 
+• 
+• • • • Unaudite 
+Condensed C 
+• 
+• Finanz 
+.00 • • (0 terim 
+4t/ slidated 
+atements 
+C)2FY27 
+fea 
+
+Page No.
+Auditors' Review Report 1
+Balance Sheet 3
+Statement of Profit and Loss 4
+Statement of Changes in Equity 5
+Statement of Cash Flows 6
+Overview and notes to the financial statements
+A Overview
+1Corporate Information 8
+2A Basis of preparation 8
+2B Use of estimates and judgements 8
+2C Changes in material accounting policy information 8
+2D Recent Indian Accounting Standards (Ind AS) issued not yet effective 8
+B Notes to financial statements
+3Property, plant and equipment 9
+4Right of use assets 10
+5Other intangible assets 10
+6Investment 11
+7Cash and cash equivalents 11
+8Inventories 11
+9Borrowings 12
+10 Acceptances 12
+11 Trade payables 13
+12 Revenue from operations 14
+13 Other income 14
+14 Finance cost 15
+15 Other expenses 15
+16 Earnings per share 15
+17 Contingent liabilities and commitments 16
+18 Related party disclosure 17
+19 Segment Reporting 19
+20 Financial Instruments and Fair Value Measurement 21
+21 Financial Risk Management Objectives And Policies 22
+22 Hedging activity and derivatives 26
+23 Events after the reporting period 28
+24 Income Tax 28
+25 Extended Producers Responsibility (EPR) 28
+26 Dividend 28
+27 Others 28Polycab India Limited
+Unaudited Interim Condensed Consolidated Financial Statements for the period ended 30 September 2026
+Index
+
+B S R & Co. LLP Chartered Accountants 14th Floor, Central B Wing and North C Wing 
+Nesco IT Park 4, Nesco Center 
+Western Express Highway 
+Goregaon (East), Mumbai — 400 063, India 
+Telephone: +91 (22) 6257 1000 
+Fax: +91 (22) 6257 1010 
+Report on Review of Unaudited Interim Condensed Consolidated Financial Statements 
+To the Board of Directors of 
+Polycab India Limited 
+Introduction 
+We have reviewed the accompanying unaudited interim condensed consolidated financial statements of 
+Polycab India Limited ("the Parent"), its subsidiaries as listed in paragraph below (the Parent and its 
+subsidiaries together referred to as `the Group') and its joint venture, which comprise the unaudited interim 
+condensed consolidated balance sheet as at 30 September 2026, the unaudited interim condensed 
+consolidated statement of profit and loss (including other comprehensive income) for the quarter and year 
+to date period then ended, the unaudited interim condensed consolidated statement of cash flows for the 
+year to date period then ended and the unaudited interim condensed consolidated statement of changes in 
+equity for the period then ended, including material accounting policies and other selected explanatory 
+information (herein after referred to as "the Statement"). The Parent's Board of Directors are responsible 
+for the preparation and presentation of the Statement in accordance with the accounting principles generally 
+accepted in India, including the recognition and measurement principles laid down in Indian Accounting 
+Standards (Ind AS) 34, Interim Financial Reporting as specified under Section 133 of the Companies Act, 
+2013 (`the Act') read with relevant rules issued thereunder. Our responsibility is to express a conclusion 
+on the Statement based on our review. 
+The Statement includes the financial statements of the Parent Company and its subsidiaries, and its joint 
+venture as listed below: 
+Sr. No Name of the Entity Relationship 
+1 Dowells Cable Accessories Private Limited Subsidiary 
+2 Tirupati Reels Private Limited Subsidiary 
+3 Steel Matrix Private Limited Subsidiary 
+4 Polycab USA LLC Subsidiary 
+5 Polycab Australia Pty Limited Subsidiary 
+6 Polycab Electricals & Electronics Private Limited Subsidiary 
+7 Polycab Support Force Private Limited Subsidiary 
+8 Polycon Infra Projects Private Limited Subsidiary 
+9 Techno Electromech Private Limited Joint Venture 
+Scope of Review 
+We conducted our review in accordance with the Standard on Review Engagements (SRE) 2410, "Review 
+of Interim Financial Information Performed by the Independent Auditor of the Entity". A review of interim 
+financial information consists of making inquiries, primarily of persons responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is substantially less in 
+scope than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified in an 
+audit. Accordingly, we do not express an audit opinion. 
+8,4 Co 
+40 FICIOC s. (a partnership firm with Registration No. 
+Central 8 Wks;B - 223, Inverted into B S R & Co. LLP (a Limited 
+NOM C Wing Li,. lily P nership with LIP Registration No. AAB-
+NescoiT Park4, 313 ect from October 14, 2013 
+Nesco Center, 
+Mumbai 400 063 k". Western Express Highway, 
+Gt)f %ion (East). Registered Office: 
+14th Floor, Central B Wing and North C Wing, Nesco 
+IT Park 4, Nesco Center. Western Express Highway, 
+Goregaon (East), Mumbai - 400063 
+ed Acc 
+1
+BS R& Co. LLP 
+Page 2 of 2 
+Report on Review of Unaudited Interim Condensed Consolidated Financial Statements 
+(Continued) 
+Conclusion 
+Based on our review along with the consideration of audit reports of the other auditors referred to below in 
+the "Other Matter" paragraph, nothing has come to our attention that causes us to believe that the 
+accompanying Statement is not prepared, in all material respects, in accordance with Ind AS 34, Interim 
+Financial Reporting specified under Section 133 of the Companies Act, 2013, read with relevant rules issued 
+thereunder. 
+Other Matter 
+We did not review the interim financial statements of eight subsidiary Companies included in the unaudited 
+condensed consolidated interim financial statements, whose interim financial statements reflect total assets 
+(before consolidation adjustments) of Rs. 8,821.02 million as at 30 September 2026, total revenues (before 
+consolidation adjustments) of Rs. 2,619.84 million and Rs. 4,588.09 million, total net profit after tax (before 
+consolidation adjustments) of Rs. 319.80 million and Rs. 627.34 million and total comprehensive income 
+(before consolidation adjustments) of Rs. 323.87 million and Rs. 632.49 million, for the quarter ended 30 
+September 2026 and for the period from 01 April 2026 to 30 September 2026, respectively, and cash 
+outflows (net) (before consolidation adjustments) of Rs. 49.70 million for the period from 01 April 2026 to 
+30 September 2026. The Statement also include the Group's share of net profit after tax of Rs. Nil and net 
+loss after tax of Rs. Nil and total comprehensive profit of Rs. Nil and total comprehensive loss of Rs. Nil 
+for the quarter ended 30 September 2026 and for the period from 01 April 2026 to 30 September 2026, 
+respectively, in respect of one joint venture, whose interim financial statements have not been reviewed by 
+us. These condensed consolidated interim financial statements have been audited by other auditors whose 
+reports have been furnished to us by the Parent's management and our conclusion on the Statement, in so 
+far as it relates to the amounts and disclosures included in respect of these subsidiaries and joint venture, is 
+based solely on the reports of the other auditors and the procedures performed by us as stated in Scope of 
+Review above. 
+Our conclusion on the unaudited condensed consolidated interim financial statements is not modified in 
+respect of the above matter relating to our reliance on the work done and the reports of the other auditors. 
+For B S R & Co. LLP 
+Chartered Accountants 
+Firm's Registration No: 101248W/W-100022 
+Mumbai 
+15 October 2026 Sreeja Marar 
+Partner 
+Membership No: 111410 
+UDIN: 26111410OYEDJX6257 
+2
+Polycab India Limited
+Unaudited Interim Condensed Consolidated Balance Sheet as at 30 September 2026
+(₹ million)
+ As at  As at 
+ 30 Sep 26  31 Mar 26 
+(Unaudited) (Audited) 
+ASSETS
+Non-current assets
+Property, plant and equipment 3 36,758.00                       35,050.71                  
+Capital work-in-progress 3 14,007.91                       11,392.59                  
+Investment Property under Construction 1,016.87                         883.02                       
+Right of use assets 4 1,990.97                         1,426.27                    
+Other intangible assets 5 26.91                              40.97                         
+Investments accounted for using the equity method 6A -                                  -                             
+Financial assets
+(a)Investment in equity instruments of captive power generating company 6A 187.67                            -                             
+(b)Trade receivables 5,355.19                         4,477.84                    
+(c)Other financial assets 1,082.00                         571.94                       
+Non-current tax assets (net) 398.09                            558.74                       
+Deferred tax assets (net) 147.29                            116.02                       
+Other non-current assets 3,762.34                         3,638.74                    
+64,733.24                       58,156.84                  
+Current assets
+Inventories 8 69,633.96                       55,595.98                  
+Financial assets
+(a)Investments 6B 40,130.59                       34,048.23                  
+(b)Trade receivables 34,592.70                       37,585.04                  
+(c)Cash and cash equivalents 7 2,112.39                         3,903.43                    
+(d)Bank balance other than cash and cash equivalents 3,620.59                         4,921.27                    
+(e)Loans 112.39                            112.31                       
+(f)Other financial assets 2,653.77                         2,632.57                    
+Other current assets 20,334.77                       7,780.05                    
+1,73,191.16                    1,46,578.88               
+Non-current assets classified as held for sale 26.64                              26.18                         
+Total assets 2,37,951.04                    2,04,761.90               
+EQUITY AND LIABILITIES
+Equity
+(a)Equity share capital 1,506.92                         1,505.51                    
+(b)Other equity 1,29,434.09                    1,18,580.25               
+1,30,941.01                    1,20,085.76               
+Non-controlling interests 1,431.38                         1,181.93                    
+1,32,372.39                    1,21,267.69               
+Liabilities
+Non-current liabilities
+Financial liabilities
+(a)Borrowings 9A 260.08                            392.67                       
+(b)Lease liabilities 1,305.95                         803.72                       
+(c)Other financial liabilities 454.92                            51.70                         
+Provisions 738.48                        563.98                   
+Deferred tax liabilities (net) 419.92                            524.06                       
+Other non-current liabilities 1,991.39                         1,505.64                    
+5,170.74                         3,841.77                    
+Current liabilities
+Financial liabilities
+(a)Borrowings 9B 855.95                            932.23                       
+(b)Lease liabilities 297.11                            226.55                       
+(c)Acceptances 10 65,560.49                       42,656.19                  
+(d)Trade payables 11
+Total outstanding dues of micro enterprises and small enterprises 1,601.86                         1,635.35                    
+18,065.02                       16,352.79                  
+(e)Other financial liabilities 3,088.63                         2,864.77                    
+Other current liabilities 8,290.44                         12,871.06                  
+Provisions 1,450.35                     1,341.95                
+Current tax liabilities (net) 1,198.06                         771.55                       
+1,00,407.91                    79,652.44                  
+Total equity and liabilities 2,37,951.04                    2,04,761.90               
+Corporate information and summary of material accounting policy information 1 & 2
+Contingent liabilities and commitments 17
+Other notes to accounts 18 to 27
+The accompanying notes are an integral part of the consolidated financial statements.
+As per our report of even date 
+For B S R & Co. LLP 
+Chartered Accountants 
+ICAI Firm Registration No. 101248W/W-100022
+  sd/-
+Sreeja Marar
+Partner
+Membership No. 111410
+Place: Mumbai
+Date: 15 October 2026Notes
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+For and on behalf of the Board of Directors of
+Polycab India Limited
+CIN : L31300GJ1996PLC114183
+sd/- sd/-
+Vijay Pandey
+Executive Director
+DIN : 07434880
+sd/- sd/-
+Niyant Maru Manita Gonsalves
+Chief Financial Officer Company Secretary Place:  Mumbai
+Membership No. 042136 Membership No. A18321 Date: 15 October 2026Nikhil R. Jaisinghani 
+Joint Managing Director
+DIN : 00742771
+3

@@ -1,0 +1,121 @@
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 120 4306000  f: +91 120 4680330  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India  
+ 
+ 
+April 14, 2025  
+ 
+ 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH  
+ 
+ 
+Subject: Release – “HCLTech integrates NVIDIA AI Enterprise and Omniverse with HCLTech’s 
+GenAI solutions ” 
+  
+ 
+Dear Sir/ Madam,  
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today . 
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For HCL Technologies Limited  
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+Encl:a/a  
+ 
+ 
+1 
+ 
+HCLTech integrates NVIDIA AI Enterprise and Omniverse with HCLTech’s GenAI 
+solutions  
+ 
+NEW YORK and NOIDA, India, April 14, 2025 —HCLTech , a leading global technology company, 
+announced that it has integrated  NVIDIA AI Enterprise  with its GenAI -led service 
+transformation platform , AI Force , and  NVIDIA Omniverse  with its physical AI 
+solution,  SmartTwin ™. These integrations aim to drive faster AI adoption for enterprises by 
+streamlining software development cycles and enhancing engineering efficiency.  
+  
+The NVIDIA AI Enterprise software —including NVIDIA NIM  and NeMo Retriever  microservices —
+along with the NVIDIA Llama Nemotron  model family  and NVIDIA AI Blueprints , will enable  
+HCLTech’s  AI Force  enterprise users to achieve accelerated release timelines, improved code 
+quality and enhanced operational efficiency across coding, testing, legacy modernization, and 
+process optimization.  
+  
+Simultaneously, HCLTech’s  SmartTwin ™ platform will harness  NVIDIA Omniverse ™, enabling 
+enterprises to build interoperable data pipelines on OpenUSD , integrate third -party 
+engineering tools and run high -fidelity virtual simulations. The result: faster, more successful 
+product launches and significant cost savings through optimized processes and reduced 
+reliance on physical prototypes.  
+ 
+"AI is empowering enterprises to achieve operational excellence and business growth across 
+industries. Our work with NVIDIA will bring a wide range of capabilities and benefits to 
+businesses across industries as they adopt AI products and services across t heir operations," 
+said Vijay Guntur, CTO and head of Ecosystems at HCLTech.  
+"Agentic and physical AI are transforming every industry from customer service and healthcare 
+to manufacturing and logistics by automating complex workflows, optimizing operations and 
+fostering sustainability and growth,” said John Fanelli, Vice President, Enterprise Software at 
+NVIDIA. "With the integration of the NVIDIA AI Enterprise and NVIDIA Omniverse technologies, 
+HCLTech's AI Force and SmartTwin platforms can help businesses rapidly integrate AI and 
+simulation technology into their operations. " 
+  
+ 
+2 
+ 
+ 
+About HCLTech  
+HCLTech is a global technology company, home to more than 220,000 people across 60 
+countries, delivering industry -leading capabilities centered around digital, engineering, cloud 
+and AI, powered by a broad portfolio of technology services and products. We work with 
+clients across all major verticals, providing industry solutions for Financial Services, 
+Manufacturing, Life Sciences and Healthcare, Technology and Services, Telecom and Media, 
+Retail and CPG and Public Services. Consolidated revenues as of 12 m onths ending December 
+2024 totaled $13.8 billion. To learn how we can supercharge progress for you, 
+visit hcltech.com . 
+ 
+For more information, please contact:  
+ 
+Nitin Shukla, India  
+nitin -shukla@hcltech.com  
+ 
+Meredith Bucaro, Americas  
+meredith -bucaro@hcltech.com  
+ 
+Elka Ghudial, EMEA  
+elka.ghudial@hcltech.com  
+ 
+James Galvin, A PAC  
+james.galvin@hcltech.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

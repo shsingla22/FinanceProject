@@ -1,0 +1,90 @@
+ 
+Mastek Limited  
+804/805, President House, Opp. C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad –  380 006 
+Tel: +91- 79-2656- 4337 | Email: info@mastek.com  | Web: www.mastek.com  | CIN: L74140GJ1982PLC005215   
+ 
+ 
+SEC/ 09/2024- 25                                                                                                   April 23, 2024  
+  
+ 
+Listing Department  
+BSE Limited  
+25th Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort,  
+Mumbai -400 001 
+SCRIP CODE: 523704  Listing Department  
+The National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051 
+SYMBOL: MASTEK  
+ISIN: INE759A01021  
+ Dear  Sir(s)/Ma’am(s),  
+ 
+Sub: Press Release  
+ Ref: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 
+2015. 
+ Please find enclosed herewith a Press Release titled “Mastek Wins a New Deal from Yanbu Cement Company to Optimize its Production Processes Using Industrial IoT and Oracle Capabilities ”, 
+which is  being issued by the Company.  
+ The same is also uploaded on the Company's website at  www.mastek.com .  
+ You are requested to take the same on record.  
+ 
+Thanking you,   Yours faithfully,  
+For Mastek Limited  
+    
+Dinesh Kalani  
+Sr. Vice President – Group Company Secretary  
+ Encl: AA  
+
+ 
+ 
+Mastek Wins a New Deal from Yanbu Cement Company to Optimize its 
+Production Processes Using Industrial IoT and Oracle Capabilities  
+Jeddah, Saudi Arabia, 23rd April 2024 : Mastek (NSE: MASTEK; BSE: 523704), a trusted digital engineering 
+and cloud transformation partner, today announced that it has won the multi -tower deal from Yanbu 
+Cement Company (YCC) to optimize the efficiency of YCC’s production line.  YCC, a pioneer in the cement 
+industry in the Kingdom of Saudi Arabia (KSA), embarked on a digital &  cloud transformation journey 
+with Mastek in 2022, aligning with Saudi Arabia’s Vision 2030 and Smart Industry 4.0 initiatives.  
+Following the execution of multiple  back office and Enterprise Resource Planning (ERP) transf ormation 
+programs in the first  phas e, Mastek will kick -off the second phase, focusing on automating YCC’s front 
+office o perations and streamlining the lead -to-cash cycle. By leveraging the Oracle Fusion stack across 
+integrated layers of ERP systems, M astek will enable YCC to improve  customer  & employee experience, 
+reduce order fulfilment  turnaround t ime (TAT), optimize material loading &  dispatch processes, and 
+enha nce quality with governance  excellence. During the initial phase, Mastek transform ed YCC’s EBS-
+based infrastructure to Oracle Fusion Cloud.  An extensive suite of Oracle Cloud modules  were 
+implemented , such as  Human Capital Management (HCM), Enterprise Planning & Budgeting Cloud 
+Service (EPBCS), Profitability & Cost Management Cloud Service (PCMCS), and Oracle Maintenance 
+Cloud.  
+The project marks a significant achievement for Mastek as it expands its revenue streams through CX Transformation, EX Transformation & Industrial Edge offerings, and is poised to tap into new market 
+potential . With an increased focus on CX, EX & connected enterprise solutions Mastek aims to 
+strengthen its footprint as a digital transformation leader in the Middle East  region . 
+Key RoI e to be delivered to YCC:  
+• Improve s customer experience, and order fulfillment cycle by  developing a customer portal for 
+seamless order capturing & fulfillment v isibility with  Oracle C RM Stack for sales team 
+management integrated with Oracle Fusion ERP components . 
+• Improve Quality, Governance & Visibility around Supply Chain, Finance & Procurement with Oracle Fusion Suite ( Finance, SCM, EPM etc. ) 
+• Deploy an IoT-enabled solution to optimize truck/vehicle alignment during material loading . 
+• Leverage existing accelerators like Mastek’s Volteo Edge platform to integrate web and mobile 
+sales apps with YCC’s Oracle ERP system . 
+Surya Nunna, Executive Vice President –  AMEA at Mastek Group said, “YCC has been a strategic 
+partner and we are proud to be part of their digital transformation journey. Mastek is committed to innovation in the smart manufacturing space. We will continue to strengthen our foothold in the region 
+by combining our digital se rvice offerings with new -age intelligent solutions .”  
+Saeed Al -Zahrani Head of Digital Transformation at YCC  said, “ Mastek has been a distinguished partner 
+for YCC and holds s trategic importance  for us as they bring in solution first approach with technology -
+agnostic capabilities. YCC has been working relentlessly in line with the 2030 Vision which focuses on 
+various charters covering Customer Experience, Employee Experience, Smart Manufacturing,  Intelligent 
+ 
+Operations etc. W e appreciate Mastek bringing in expertise across these areas with a consultative 
+approach and is the right fit partner for YCC in their growth journey. ” 
+About Mastek  
+Mastek is an enterprise digital and cloud transformation partner that engineers excellence for 
+customers in industries such as healthcare and life sciences, retail & consumer, manufacturing, financial 
+services, and public sector across 40 countries, includ ing the UK, US, Europe, the Middle East, and Asia 
+Pacific. Mastek helps enterprises decomplex digital and delivers business outcomes with trust, value, and velocity across the spectrum of services including digital experience & engineering, cloud 
+implement ations, data, automation & AI, and cloud managed services. A preferred Oracle, Salesforce, 
+Microsoft, AWS, and Snowflake partner, Mastek has 6000+ employees and delivers right -fit solutions to 
+both medium businesses and global Fortune 1000 clients. For mor e details, please visit our website, 
+www.mastek.com . 
+Press Contact  
+Kashmira Chavan | kashmira.chavan@mastek.com  
+ 

@@ -1,0 +1,110 @@
+ 
+ 
+HEXAWARE TECHNOLOGIES LIMITED 
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1 Private Limited, Plot No.Gen-4/1,TTC Industrial Area, 
+Ghansoli, Navi Mumbai-400710, Maharashtra, India  |  Tel: +91 022 3326 8585  |  Email: investori@hexaware.com  
+CIN: L72900MH1992PLC069662  |  URL: www.hexaware.com 
+ 
+ 
+  
+   
+HEXT/SE/2025/ 126 
+  
+  Date: November 11, 2025 
+ 
+To,  To, 
+LisƟng Department   Department of Corporate Services  
+NaƟonal Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza,  Bandra -Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East),  Mumbai - 400 051 Dalal Street,  Mumbai - 400 001   
+Symbol: HEXT  Scrip Code: 544362  
+ 
+ 
+Dear Sir, 
+ 
+Sub: Press Release  
+ 
+Please find enclosed Press Release on Hexaware Deepens Google Cloud Partnership with the Launch of 
+Advanced Insurance Solutions. 
+ 
+This information will also be hosted on the Company’s website at www.hexaware.com . 
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For HEXAWARE TECHNOLOGIES LIMITED  
+    
+        
+  
+  
+Gunjan Methi 
+Company Secretary & Compliance Officer 
+ 
+Encl.: as above. 
+Hexaware Deepens Google Cloud Partnership with the Launch of Advanced Insurance Solu Ɵons 
+ 
+Oﬀers AI- driven Solu Ɵons for Insurance Claims Management, and  Insurance Product Delivery and 
+Management 
+ 
+Mumbai, Nov 11, 2025: Hexaware Technologies (NSE: HEXT), a global provider of IT solu Ɵons and 
+services, today announced the launch of two new insurance soluƟons developed  exclusively 
+for Google Cloud. The oﬀerings strengthen Hexaware’s collabora Ɵon with Google and reﬂect a  shared 
+focus on accelera Ɵng digital transforma Ɵon through automa Ɵon, AI, and scalable cloud -naƟve 
+architectures for the insurance industry.  
+  
+Hexaware’s parametric claims solu Ɵon automates the full life cycle of parametric insurance claims. The 
+plaƞorm integrates data from trusted, real -Ɵme sources, including IMD, NOAA, global satellite 
+networks, and Google Earth Engine, for con Ɵnuous environmental monitoring. U Ɵlizing the Agent -to-
+Agent Protocol, self- governing AI agents autonomously handle trigger detec Ɵon, data valida Ɵon, and 
+claims seƩlement. This framework shortens se Ʃlement Ɵmelines from weeks to mere hours, providing 
+unprecedente d eﬃciency. All opera Ɵonal data is uniﬁed within Google BigQuery, serving as a robust 
+knowledge fabric that ensures immutable transparency and comprehensive auditability across the 
+enƟre claims process.  
+ 
+Hexaware’s intelligent pla ƞorm reimagines the insurance product delivery life cycle. It equips brokers, 
+(re)insurers, and MGAs with an AI-assisted, no/low- code environment that transi Ɵons product 
+development from rigid, manual processes to a faster, more ﬂexible innova Ɵon hub with API-based 
+integraƟon. Powered by Vertex AI and Gemini Enterprise, it enables the autonomous crea Ɵon and 
+conﬁgura Ɵon of new insurance products directly from natural -language prompts and unstructured 
+documenta Ɵon. Leveraging the Agent-to- Agent Protocol, autonomous agents manage conﬁgura Ɵon, 
+tesƟng, and deployment cycles . The plaƞorm uƟlizes NotebookLM for accelerated analysis and 
+summariza Ɵon and integrates conversa Ɵonal analy Ɵcs in Looker on a BigQuery data founda Ɵon, 
+providing real- Ɵme, business -driven insights. 
+  
+Shantanu Baruah, President & Global Head – Healthcare, Life Sciences & Insurance, Hexaware , said, 
+“These solu Ɵons build on our ongoing partnership with Google Cloud and are designed to 
+help brokers, (re)insurers and MGA ﬁrms modernize two of the most cri Ɵcal parts of their value 
+chain—claims and insurance product development— through automa Ɵon and intelligence.”  
+  
+“We’re pleased to collaborate with Hexaware in applying the power of Google Cloud’s data and AI 
+capabiliƟes to deliver measurable impact for the insurance industry, supported by Hexaware’s domain 
+and delivery experƟse in the insurance sector. We’re excited to commence this journey with the 
+launch of the “Intelligent Product Factory (IPF)” an “ParaClaims” for parametric claims soluƟons," 
+said ChrisƟna Lucas, Global Director & Market Leader, Insurance, Google . “Together, we’re enabling 
+brokers, (re)insurers and MGAs to operate with greater speed, transparency, and agility.”  
+  
+“Our partnership with Google Cloud con Ɵnues to deepen as we engineer insurance solu Ɵons naƟvely 
+on its pla ƞorm, aligning to industry needs around scale, governance, and speed of change,” 
+said Apurva Kadakia, Global Head of Cloud, Hexaware.   
+  
+The launch forms part of Hexaware’s broader program to develop cloud- ﬁrst capabili Ɵes that support 
+the future of insurance opera Ɵons.  
+  
+   
+  
+ 
+About Hexaware   
+Hexaware is a global technology and business process services company. Every day, Hexawarians wake 
+up with a singular purpose: to create smiles through great people and technology. With oﬃces across 
+the world, we empower enterprises worldwide to realize digital transforma Ɵon at scale and speed by 
+partnering with them to build, transform, run, and opƟmize their technology and business processes. 
+Learn more about Hexaware at   hƩps://hexaware.com .  
+  
+For details, please contact:   
+Reena Kamble  
+Hexaware Technologies Limited  
+reenak3@hexaware.com   
+  
+ 

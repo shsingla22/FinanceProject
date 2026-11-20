@@ -1,0 +1,180 @@
+ 
+ 
+Internal to Wipro  
+  
+ 
+ 
+August 12, 202 4 
+ 
+The Manager  - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager  - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+  
+The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Press Release  
+ 
+Please find attached herewith copy of the Press Release which is being released today.  
+ 
+Thanking you,  
+ 
+For Wipro Limited  
+ 
+ 
+ 
+ 
+G Kothandaraman  
+General Manager - Finance  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wipro Adopts Google Cloud AI Technologies including Gemini to 
+Accelerate Innovation and Productivity  
+  
+Wipro integrates Gemini models within its FullStride Cloud Studio Platform , and enable s 
+its associates on Google Cloud’s latest GenAI tools  
+  
+EAST BRUNSWICK, N.J. | BENGALURU, India – August 12th, 2024:  Wipro Limited (NYSE: 
+WIT, BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today 
+announced the expansion of its strategic partnership with Google Cloud to scale its adoption of 
+Google Cloud AI.  
+  
+Using Vertex AI and Gemini models, Wipro in its project execution to clients , is equipping its 
+workforce with generative AI -powered tools to enhance developer productivity, accelerate cloud 
+migrations, and deliver innovative GenAI solutions. This includes building new industry solutions 
+utilizing Gemini models, developing joint go -to-market program s, integrating Gemini Code Assist 
+into its own internal tooling to accelerate application development for customers, and utilizing 
+Gemini for rapid prototyping of  its own internal applications.  
+ 
+As part of this partnership and Wipro’s ai360 initiative, Wipro FullStride Cloud Studio is integrating 
+Gemini’s advanced reasoning and analysis capabilities into its core business platforms and 
+innovation hubs. These hubs are designed to drive business tra nsformation and outcomes by 
+developing best practices, tools, and frameworks that combine Wipro’s ai360 ecosystem with 
+Google Cloud’s GenAI offerings, enabling safe and responsible AI solutions to address critical 
+business challenges while meeting evolving  data privacy and regulatory requirements.  
+  
+To rapidly scale its GenAI projects, Wipro is training its associates on Google Cloud’s AI 
+technologies including Gemini to better help global enterprise customers scope, deploy , and 
+manage AI projects that solve their unique business objectives. This will significantly enhance 
+vital digital transformation projects such as application migrations and modernization, with GenAI-
+powered productivity improvements of up to 30% , according to Wipro’s estimates.  
+  
+Gemini for Google Cloud’s capabilities are being embedded into the Wipro FullStride Cloud Studio 
+platforms and utilized across physical Wipro FullStride Cloud Studios in Bangalore, London, New 
+Jersey, Dallas, and Mountain View. Wipro is also leveraging Gem ini for Google Cloud to enhance 
+Wipro FullStride Cloud Studio ’s platform for app migration, modernization, and operations on the 
+cloud.  
+  
+Wipro FullStride Cloud Studios offers transformative, cloud -native solutions through industry -
+leading tools, accelerators, and blueprints to simplify the design, deployment, and management 
+of cloud programs for customers.        
+  
+ 
+ 
+ 
+ 
+ Jo Debecker, Managing Partner and Global Head Wipro FullStride Cloud , said, “Through this 
+expanded relationship with Google Cloud, we are able to significantly accelerate our clients’ digital 
+transformation journeys and empower them to maximize their cloud -run businesses. With Gemini 
+infused into our Wipro FullStride Cloud  Studio platform, we will continue to help our clients 
+leverage the power of cloud, adapt to an AI -driven future, and transform their businesses.”  
+  
+Kevin Ichhpurani, Corporate Vice President, Global Ecosystem and Channels at Google 
+Cloud , said, “Through this partnership, Google’s powerful Gemini models and AI services are 
+powering digital transformation within Wipro and with its broad set of enterprise clients. Wipro’s 
+expanding expertise with Google Cloud AI will benefit its enterprise c lients on many of their most 
+critical projects, including cloud migrations, data analytics, application modernization, and more.”  
+  
+Google’s Gemini models offer a context window of up to 1 million tokens for enterprise customers, 
+advanced features and seamless integrations that revolutionize customer operations. Using 
+Gemini’s multimodal capabilities, Wipro’s customers have already see n improvements in 
+productivity, accuracy, and customer experience.  
+  
+Matthias Wittpoth, Vice President of Vendor Management & IT Procurement at Metro 
+Digital , said, "Metro Digital has embarked on a journey to improve the efficiency of our Incident 
+& Service Request Management processes. The results we are seeing are: improved resolution 
+time, reduced dependency on subject matter experts, and increased solution  accuracy in less 
+time. We expect to see further improvements in the service level agreements of our strategic 
+partner Wipro, underscoring the effectiveness and efficie ncy of this innovative solution."  
+  
+To learn more about Wipro’s partnership with Google, visit:  LINK  
+ 
+About Wipro Limited  
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and consulting 
+company focused on building innovative solutions that address clients’ most complex digital transformation 
+needs. Leveraging our holistic portfolio of capabi lities in consulting, design, engineering, and operations, 
+we help clients realize their boldest ambitions and build future -ready, sustainable businesses. With over 
+230,000 employees and business partners across 65 countries, we deliver on the promise of h elping our 
+customers, colleagues, and communities thrive in an ever -changing world. For additional information, visit 
+us at www.wipro.com . 
+ 
+Media Contact:  
+Media relations  
+media -relations@wipro.com   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forward -Looking Statements  
+The forward -looking statements contained herein represent Wipro’s beliefs regarding future events , many 
+of which are by their nature, inherently uncertain and outside Wipro’s control. Such statements include, but 
+are not limited to, statements regarding Wipro’s growth prospects, its future financial operating results, and 
+its plans, expectations and in tentions. Wipro cautions readers that the forward -looking statements 
+contained herein are subject to risks and uncertainties that could cause actual results to differ materially 
+from the results anticipated by such statements. Such risks and uncertainties include, but are not limited 
+to, risks and uncertainties regarding fluctuations in our earnings, revenue and profits, our ability to generate 
+and manage growth, complete proposed corporate actions, intense competition in IT services, our ability to 
+maintai n our cost advantage, wage increases in India, our ability to attract and retain highly skilled 
+professionals, time and cost overruns on fixed -price, fixed -time frame contracts, client concentration, 
+restrictions on immigration, our ability to manage our i nternational operations, reduced demand for 
+technology in our key focus areas, disruptions in telecommunication networks, our ability to successfully 
+complete and integrate potential acquisitions, liability for damages on our service contracts, the success  of 
+the companies in which we make strategic investments, withdrawal of fiscal governmental incentives, 
+political instability, war, legal restrictions on raising capital or acquiring companies outside India, 
+unauthorized use of our intellectual property an d general economic conditions affecting our business and 
+industry.  
+ 
+Additional risks that could affect our future operating results are more fully described in our filings with the 
+United States Securities and Exchange Commission, including, but not limited to, Annual Reports on Form 
+20-F. These filings are available at www.sec.gov . We may, from time to time, make additional written and 
+oral forward -looking statements, including statements contained in the company’s filings with the Securities 
+and Exchange Commission and our reports to shareholders. We do not undertake to update any  forward -
+looking statement that may be made from time to time by us or on our behalf.  
+ 
+ 
+ 
+ 
+ 
+ 

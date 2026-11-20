@@ -1,0 +1,79 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corporate Office - One Skymark, Tower -D, Plot No. H -10B, Sector -98, Noida -201304  
+T: +91120 4770770      F: +91120 4770771     CIN: L72200DL2000PLC108985  
+Registered Office -  136, First Floor, Devika Tower, Nehru Place, New Delhi -110019  One 97 Communications Limited 
+compliance.officer@paytm.com  
+www.paytm.com  
+ 
+ 
+ April 17, 2024 
+ 
+BSE Limited  
+Department of Corporate Services 
+Phiroze Jeejeebhoy Towers,     
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ Scrip Code: 543396  National Stock Exchange of India Limited  
+The Listing Department, Exchange Plaza,   Bandra Kurla Complex,  
+Mumbai - 400 051  
+ 
+Symbol: PAYTM  
+ 
+Sub:  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 – Press Release  
+ 
+Dear Sir/ Ma’am,  
+  
+This is in continuation to our earlier letter dated March 14, 2024, vide which we had informed 
+receipt of approval from the National Payment Corporation of India (NPCI) to the Company to participate in UPI as a Third -Party Application Provider (TPAP) under multibank mode.  
+ A press release with further update titled as “Paytm Accelerates User Migration to PSP Banks with 
+NPCI Approval: Axis Bank, HDFC, SBI, and YES Bank Now Operational on TPAP”  will be disseminated 
+shortly.
+ (Copy attached).  
+ This release will also be hosted on the Company's website viz. https://ir.paytm.com/.   
+ Kindly take the same on record.  
+ Thanking you  
+ 
+Yours Sincerely,  
+For One 97 Communications Limited  
+ 
+  
+Sunil Kumar Bansal  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+ 
+ 
+Paytm Accelerates User Migration to PSP Banks with NPCI Approval: Axis Bank, 
+HDFC, SBI, and YES Bank Now Operational on TPAP  
+- @Paytm UPI users can now create new VPAs with partner PSP banks  
+ 
+One 97 Communications Limited (OCL) that owns the brand Paytm, India’s leading 
+payments and financial services company and the pioneer of QR, soundbox and mobile 
+payments, has received go ahead, yesterday from the National Payment Corporation of India (NPCI) to start the user migration to new Payment System Provider (PSP) bank 
+handles immediately.  
+ 
+Following NPCI's approval on March 14, 2024, to onboard OCL as a Third- Party 
+Application Provider (TPAP) on the Multi Payment Service Provider API Model, Paytm 
+has expedited the integration with Axis Bank, HDFC Bank, State Bank of India (SBI), and 
+YES Bank . All four banks are now operational on the TPAP, streamlining the process for 
+Paytm to shift user accounts to these PSP banks.  
+ 
+The company has started transitioning ‘@paytm’ handles users to these banks, ensuring 
+seamless UPI payments.   Paytm spokesperson said, “We are committed to grow the UPI ecosystem in partnership with NPCI to every nook and corner of India.”  
+ Leveraging the robust infrastructure of its banking partners, Paytm ensures uninterrupted and secure UPI payments for both users and merchants through the Paytm app.  
+ 
+About Paytm:  
+Paytm is India's leading mobile payments and financial services distribution company. Pioneer of the mobile QR payments revolution in India, Paytm builds technologies that help small businesses with payments and commerce. Paytm’s mission is to serve half a  
+billion Indians and bring them to the mainstream economy with the help of technology.  
+ Paytm media contact:  
+corpcomm@paytm.com  
+  

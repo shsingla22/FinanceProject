@@ -1,0 +1,114 @@
+  
+ 
+ 
+ 
+ Happiest Minds Technologies Limited   
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala, 
+Bangalore -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com  
+         October  10, 2025  
+ 
+Listing Compliance & Legal Regulatory   
+BSE Limited  
+Phiroze Jeejeebhoy Towers  Dalal Street,  
+Mumbai 400  001 
+Stock  Code:  543227,  974820  & 975101  Listing  & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra  East,  Mumbai  400 051 
+Stock  Code:  HAPPSTMNDS  
+Dear  Sir/Madam,  
+ 
+Sub:  Press Release - Happiest Minds Technologies Deploys Agentic AI and Intelligent Document 
+Processing to Transform Insurance Operations at MUA Insurance Acceptances Pty Ltd (South 
+Africa)  
+ 
+        Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,              
+         2015, enclosed herewith is a press release  issued by the Company on the captioned subject,     
+         the content of which is  self‐explanatory.  
+ 
+This is for your information and records.   
+ 
+Thanking  you,  
+Yours  faithfully,  
+For Happiest  Minds  Technologies  Limited  
+ 
+ 
+ 
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer  
+Membership  No. F6706  
+
+ 
+ 
+Happiest Minds Technologies Deploys Agentic AI and Intelligent Document Processing to 
+Transform Insurance Operations at MUA Insurance Acceptances Pty Ltd (South Africa)  
+Bengaluru, October  10th , 2025 : Happiest Minds Technologies Limited (NSE, BSE: HAPPSTMNDS), 
+an AI -led, customer -first digital engineering and Mindful IT company, announced the successful 
+deployment of its Agentic AI solution with Intelligent Document Processing (IDP) at MUA Insurance 
+Acceptances Pty Ltd, South Africa.  
+The implementation has transformed MUA’s high -volume claims and policy email operations by 
+automating the intake and routing of messages and attachments like PDFs, scanned forms, and 
+images received in shared Outlook inboxes. Using GenAI -based classificati on and smart workflow 
+orchestration, each email is automatically sent to the right claims adjudicator or underwriter based 
+on expertise, workload, and availability.  
+MUA now records 99.5% accuracy  in email and document classification, while reducing token 
+processing costs compared to traditional GenAI models. The system has improved adjudication 
+speed, lowered manual effort, and helped the team focus on higher -value work , all while maintaining 
+security and compliance.  
+Joseph Anantharaju , Co-Chairman & CEO , Happiest Minds Technologies,  said, “We are proud to 
+announce the successful deployment of our Agentic AI solution, featuring Intelligent Document 
+Processing (IDP), at MUA Insurance Acceptances Pty Ltd in South Africa. This milestone underscores our 
+dedication to delivering practical, high -impact AI solutions that drive cost efficiency and scalable 
+performance for enterprise insurers and reflects the deep capabilities in GenAI that the GenAI Business 
+Service (GBS) unit has built in a short period of time.”  
+ 
+ 
+Vajra Singh, Chief Executive Officer, MUA Insurance Acceptances Pty Ltd , said, "Agentic AI has 
+meaningfully reduced our email backlog and improved adjudication speed without compromising 
+accuracy. The integration met our security & compliance standards and delivered measurable business 
+value."  
+
+ 
+ 
+San-Mare van Zyl, Chief Operating Officer, MUA Insurance Acceptances Pty Ltd,  added, “Service 
+delivery is one of the cornerstones of MUA. The team can now prioritize tasks that require faster 
+execution. By automating work allocation, the staff members responsible for this task can now be 
+utilized elsewhere in the business where the human t ouch is still needed. These talented members can 
+now contribute their skills in areas where they are most impactful.”  
+Abhishek Pakhira, CEO , Aureus Business at Happiest Minds  Technologies , shared, “We are seeing 
+explosive growth in the specialty insurance market, which is forecasted to grow to over $279 billion 
+with an expected CAGR of 10%. Under the leadership of Vajra Singh, MUA Insurance has established 
+itself as a leader in this category. Our vi sion is to help MUA leverage its expert knowledge to build an 
+agentic AI utility that can scale both its pre -bind and post -bind operations.”  
+This success marks another milestone in Happiest Minds’ journey to help insurers adopt AI -powered 
+automation and build future -ready, high -performance operations.  
+About Happiest Minds  
+Happiest Minds Technologies Limited   (BSE, NSE: HAPPSTMNDS) is an AI -led customer -first digital 
+engineering and Mindful IT company. With a verticalized approach that spans from chip to cloud, 
+Happiest Minds delivers secure and scalable solutions across product engineering, cybersecurity, 
+analytics, and automation platforms powered by enterprise -ready  Gen-AI capabilities. The company 
+brings purpose and precision to every engagement, helping enterprises solve complex business 
+challenges and fast -track their digital evolution across industry sectors such as  Banking, Financial 
+Services  & Insurance  (BFSI),  EdTech , Healthcare & Life Sciences , Hi-Tech and  Media & Entertainment , 
+Industrial,  Manufacturing , Energy & Utilities , and  Retail , CPG & Logistics.  
+To enhance its industry -focused solutions, Happiest Minds has built a growing portfolio of 
+proprietary platforms, including  Arttha , a unified digital payments suite that powers seamless and 
+inclusive financial experiences, Insurance in a Box  for digital insurers  and FuzionX Gaming Studio , a 
+hub for high -performance game development that blends creativity with advanced technology. The 
+company complements these with strong global partnerships with Microsoft, AWS, Google, and other 
+technology leaders.  
+Happiest Minds’ culture of innovation, trusted governance framework, and people -first philosophy 
+have been widely acknowledged, with recognitions such as the Brandon Hall Group Awards 
+for  Excellence in Learning and Development, Top Workplaces 2025 –USA, CN BC-TV18 India Risk 
+Management Award 2025 and the 3AI ACME Awards 2025 for leadership in AI and analytics. 
+Headquartered in Bengaluru, India, Happiest Minds operates with the mission of  ‘Happiest People . 
+Happiest Customers’,  and has expanded its presence a cross the Americas, UK, Europe, Australia, the 
+Middle East, Africa, and Asia.  
+As of June 2025, Happiest Minds generates annualized revenues in excess of $270 million, has a 
+people strength of over 6,500 across 43 global offices, and serves 280+ customers, including 85+ 
+billion -dollar corporations.  
+Media Contact:  media@happiestminds.com  

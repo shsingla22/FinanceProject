@@ -1,0 +1,201 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One 97 Communications Limited  
+ 
+compliance.officer@paytm.com   
+ 
+www.paytm.com  Corporate Office - One Skymark, Tower -D, Plot No. H-10B, Sector -98, Noida -201304  
+ 
+T: +91120 4770770     F: +91120 4770771  CIN: L72200DL2000PLC108985  
+ 
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi -110019  
+ 
+ 
+January 29, 2026  
+ 
+BSE Limited  
+Department of Corporate Services, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Scrip Code: 543396  National Stock Exchange of India Limited  
+The Listing Department,  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Mumbai -400 051  
+ 
+Symbol: PAYTM  
+Sub:  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Earnings Release  
+Dear Sir/ Ma’am,  
+In continuation to our earlier letter dated January 16, 2026, and pursuant to Regulation 30 of SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 read with NSE Master Circular No. 
+NSE/CML/2025/25 dated April 30, 2025 and BSE Master Ci rcular No. dated April 30, 2024, please find 
+enclosed copy of Earnings Release for the quarter and nine months ended December 31, 2025.  
+The Earnings Release will also be hosted on the Company's website viz.  
+https://ir.paytm.com/financial -results . 
+Kindly take the same on record.  
+Thanking you  
+Yours Sincerely,  
+For One 97 Communications Limited  
+  
+ 
+Sunil Kumar Bansal  
+Company Secretary & Compliance Officer  
+FCS: 4810  
+ 
+Encl:. as Above  
+ 
+ 
+ 
+1
+Earnings Release
+For the quarter ending December 2025
+29thJanuary 2026
+
+2Earnings Release  |Q3 FY 2026
+Financial Highlights
+•Operating revenue of ₹2,194 Cr, up 20% YoY, reflecting industry -leading customer monetization. Growth was 
+led by higher payments GMV, merchant subscriptions, and distribution of financial services revenue
+oLike-for-like revenue growth was ~25%, with reported growth reflecting timing of festive, lower loan 
+distribution under default loss guarantee (DLG), and a more conservative revenue recognition policy
+oPayments services revenue of ₹1,284 Cr, up 21% YoY. Net payment revenue grew 25% YoY to ₹613 Cr
+oDistribution of financial services revenue, up 34% YoY at ₹672 Cr
+•Contribution profit stood at ₹1,249 crore, up 30% YoY. Contribution margin improved to 57%, due to higher 
+payment processing margins and increased share of distribution of financial services revenue
+•EBITDA of ₹156 Cr (EBITDA margin of 7%), an improvement of ₹379 Cr YoY, despite higher promotional 
+expenses for consumer growth and full impact of new labour code
+•PAT of ₹225 Cr, an improvement of ₹433 Cr YoY
+•Total Cash balance of ₹12,882 Cr, providing continued capital flexibility to expand business
+As disclosed earlier, we have discontinued “adjusted” metrics from our reporting. All disclosures are on GAAP 
+basis or as per standard definitions, which drives appropriate resource allocation decisions.
+Business Highlights
+•Consistent gain in UPI consumer market share for 3 consecutive quarters. Paytm’s consumer UPI GMV was up 
+35% in last nine months, versus industry GMV growth of 16%
+•Merchant device subscriptions reached 1.44 crore, addition of 27 Lakh YoY
+•Customers availing financial services through our platform increased YoY from 5.9 lakh to 7.1 lakh
+•Received all three key payment licenses from RBI for online, offline and cross -border payments in Paytm 
+Payment Services Limited (PPSL). Resumed onboarding of online merchants post receipt of Payment 
+Aggregator license last quarterRevenue grew to ₹2,194 Cr (    20% YoY); EBITDA at ₹156 Cr 
+(EBITDA margin of 7%) 
+Expanding Profitability while gaining market share in both merchant and consumer payments
+Dec-24 Mar-25 June-25 Sep-25 Dec-25₹(223) Cr₹(88) Cr₹72 Cr₹142 Cr₹156 Cr
+-12%-5%4%7%7%
+Dec-24 Mar-25 June-25 Sep-25 Dec-25
+EBITDA EBITDA Margin (%)₹1,841 Cr ₹1,828 Cr₹2,061 Cr(Qtrending)
+₹1,918 CrContinued increase in EBITDA Revenue Growth Momentum 
+Continues 
+For like -to-like comparison, Revenue and EBITDA in the above graphs excludes ₹70 Cr of UPI incentive in quarter ending Mar -25₹2,194 Cr20% YoY
+₹ 379 Cr YoY 
+Improvement(Qtrending)
+3Earnings Release  |Q3 FY 2026
+Leveraging AI led capabilities to expand leadership in our 
+core merchant business, and drive higher consumer UPI 
+market share
+•Our AI -first, product led strategy has led to consistent 
+gain in UPI consumer market share for 3 consecutive 
+quarters. Paytm’s consumer UPI GMV was up 35% in 
+last nine months, versus industry GMV growth of 16%
+•Building on this momentum, we have prudently invested 
+in promotional expense to boost consumer retention 
+and market share gain
+•We are also focused on maximising customer lifetime 
+value through additional monetisation levers such as 
+Wealth products, Paytm Travel, Consumer Loans and 
+AdvertisingDriving gain in consumer UPI market share through AI -first, 
+Product -led innovationPaytm Consumer UPI GMV (Qtrending)
+3.8 L Cr4.0 L Cr4.3 L Cr5.1L Cr
+Mar-25 June-25 Sep-25 Dec-2535% YoY•We continue to strengthen our leadership across small and 
+large, online and offline merchants by deepening adoption of 
+our full -stack omni -channel payment offerings. Product 
+innovation and AI -led merchant acquisition is improving unit 
+economics and driving profitability
+•Merchant device subscriptions reached 1.44 crore, expanding 
+our recurring revenue base. We are further enhancing 
+merchant retention and engagement through AI -led targeting 
+and an expanded merchant sales and service team
+•Complimenting our leadership in merchant payments, we 
+have established a strong foundation in merchant loan 
+distribution business, which in turn leads to higher profitability
+Paytm beats Indu stry growth of 16% in the same time period Expanding Core Merchant Acquisition and Loan distribution 
+business
+•Based on our 6+ years experience in distribution and collection of merchant loans, we believe
+this business exhibits lower cyclicality and compounds sustainably. This is supported by 
+a) Strong product -market fit, b) high merchant retention, and c) repeat loan behaviour, thus driving strong 
+interest from lending partnersPaytm Ai 
+Soundbox
+Source: NPCI
+4Earnings Release  |Q3 FY 2026
+Operating Revenue 
+Revenue momentum continued with 20% YoY growth, led by higher payments GMV, increase in merchant 
+subscriptions, and growth in distribution of financial services. On a like for like basis, revenue growth was 
+~25% on account of:
+1.Last year, the festive season was fully concentrated in Q3, whereas it was spread across Q2 and Q3 this 
+year, with major online sales occurring in Q2 this year
+2.Last year, majority of our merchant loan distribution business was under DLG program, leading to higher 
+revenues over the life of the loan (with similar lifetime EBITDA). This year, vast majority of our merchant 
+loans is without DLG, resulting in both lower revenue and ‘other direct costs’ (with similar lifetime EBITDA) 
+3.We adopted a more conservative revenue recognition policy in the past few quarters, which reduced 
+revenues but also provision for doubtful debt (PDD)
+There is insignificant impact from industry stoppage of rent payments through credit card (PA PG guidelines, 
+Sep 2025) and Real Money Gaming (RMG) Act, Aug 2025, as we have taken proactive compliance measures.
+As mentioned in earlier quarters, a part of our payments revenue is from Payment Infrastructure Development 
+Fund (PIDF) incentive. This scheme was applicable till Dec 2025 and we earned a total of ₹216 Cr incentive for 
+the nine months ended Dec 2025. We expect to significantly offset the impact over time through a combination 
+of higher revenues & targeted sales efforts, in line with our discipline on RoIand payback periods.
+Contribution Profit 
+Contribution profit was ₹1,249 Cr, up 30% YoY, with a contribution margin of 57% (up 5 percentage points 
+YoY). This improvement was on account of increase in payment processing margin, higher share of 
+distribution of financial services revenue and lower ‘other direct expenses’ (lower DLG & collection costs). 
+•Payment processing charges were higher by 18% YoY at ₹671 Cr vs payment revenue growth of 21% YoY
+•Promotional cashbacks and incentives was ₹69 Cr, versus ₹37 Cr in Q3 FY 2025. Initiatives such as the 
+Gold Coin campaign have driven customer retention benefits, and higher consumer market share
+•Other direct expenses decreased by 22% YoY to ₹205 Cr, on account of lower collection and DLG costs
+In the scenario of no PIDF incentive going forward, we expect contribution margin to be in the mid 50s.Detailed update on Financial Performance (1/4)
+Dec-24 Mar-25 June-25 Sep-25 Dec-25₹1,841 Cr ₹1,828 Cr₹2,061 Cr(Qtrending)
+₹1,918 CrRevenue Growth Momentum 
+Continues 
+For like -to-like comparison, Revenue and EBITDA in the above graphs excludes ₹70 Cr of UPI incentive in quarter ending Mar -25₹2,194 Cr 20% YoY
+₹ 959 Cr₹ 1,001 Cr₹ 1,151 Cr₹ 1,207 Cr₹1,249 Cr
+Dec-24 Mar-25 June-25 Sep-25 Dec-25Contribution Profit
+30% YoY(Qtrending)
+5Earnings Release  |Q3 FY 2026
+Detailed update on Financial Performance (2/4)
+Total indirect expenses (as explained earlier, this includes ESOP costs) was down 8% YoY at ₹1,092 Cr, driven 
+by lower employee costs and lower PDD. We have absorbed full impact of new labour code in this quarter.
+•Marketing costs for consumer acquisition declined YoY, while increasing QoQ in a disciplined manner, 
+supported by improving retention cohorts and market share gains
+•Sales and service employees cost (including ESOP Cost), primarily related to expanding and servicing our 
+merchant distribution network, have increased as we continue to invest in deepening our presence, 
+including in tier -2 and tier -3 cities. We are also pursuing more targeted sales efforts in PIDF areas while 
+also improving overall sales efficiency
+•Non -sales employee cost (including ESOP cost) declined YoY on account of lower ESOP costs following 
+our Founder and CEO's voluntary surrender of ESOPs in Q4 FY 2025, as well as lower PDD. ESOP costs can 
+vary significantly from quarter to quarter depending on new ESOP grants and ESOP lapses during the 
+quarter (upon attrition, previously recognised costs for unvested ESOPs are reversed in the same quarter)
+•Software, cloud and data centre expenses have seen modest YoY growth, supported by improved 
+commercials and operational efficiencies, despite investments in AI 
+•Other indirect expenses declined due to lower PDD, as we have adopted a more conservative revenue 
+recognition policy over the past few quarters, with the impact becoming visible from this quarter 
+Overall indirect costs will grow materially lower than revenue growth, creating significant operating leverage 
+and EBITDA margin expansion in the mid to long -term.Indirect Expenses
+Indirect Expenses
+(in ₹ Cr) Dec -24 Mar -25 Jun -25 Sep -25 Dec -25YoY Change 
+(%)
+Marketing 104 102 62 72 77 (26)%
+Sales and service employees (including 
+ESOP costs)231 247 268 297 315 36%
+Non-sales employee costs (including 
+ESOP costs)525 502 375 365 406 (22%)
+Software, cloud and data centre
+expenses154 146 168 133 166 8%
+Other indirect expenses 167 165 207 198 128 (23)%
+Total Indirect Expenses (Including 
+ESOP costs)1,182 1,160 1,079 1,064 1,092 (8)%(Qtrending)

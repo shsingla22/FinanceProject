@@ -1,0 +1,213 @@
+ 
+ 
+SWIGGY LIMITED  
+(formerly known as “Swiggy Private Limited” and “Bundl Technologies Private Limited”) | CIN: L74110KA2013PLC096530  
+ 
+www.swiggy.com   | T: 080- 68422422  
+Registered & Corporate Office:  No.55 Sy No.8 -14, Ground Floor, I&J Block, Embassy Tech Village, Outer Ring Road, Devarbisanahalli, Bengaluru - 560103  
+ 
+REF:  SWIGGY/SE/202 5-26/40 
+ 
+Date:  July  31, 2025  
+ 
+To, 
+ 
+The Deputy  Manager  
+Department  of Corporate  Services 
+BSE Limited  
+PJ Towers,  Dalal  Street 
+Mumbai - 400001  
+Scrip  Code:  544285  The Manager  
+National  Stock  Exchange  of India  Limited 
+Exchange Plaza, Plot No. C/1, G Block 
+Bandra -Kurla Complex, Bandra (E),  
+Mumbai 400051  
+Symbol:  SWIGGY  
+ 
+Dear  Sir/ Madam,  
+ 
+  Sub:  Shareholders’ Letter dated July  31, 2025.  
+ 
+We are pleased to enclose the Shareholders' Letter for Q 1 2025- 26 dated July  31, 2025.  
+ 
+The above information will also be hosted on the website of the Company i.e., 
+https://www.swiggy.com/corporate/   
+ 
+We request you to kindly take the same on record.  
+ Yours faithfully,  
+ 
+For and on behalf of  
+Swiggy Limited  
+  
+___________________  
+Cauveri Sriram  
+Company Secretary & Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+Page 2 of 25 
+MISSION  
+“Elevate the quality of life of urban consumers by offering unparalleled convenience”  
+ 
+Key metrics  
+ 
+1) B2C GOV defined as Consolidated Gross Order Value of completed orders for consumer facing businesses i.e. (i) Food delivery, plus (ii) Quick Com merce, 
+plus (iii) Out -of-home Consumption, excluding Platform Innovations  
+2) B2C Adjusted Revenue defined as Consolidated Adjusted Revenue of consumer facing businesses i.e. (i) Food delivery, plus (ii)  Quick Commerce, plus 
+(iii) Out -of-home Consumption, excluding Platform Innovations  
+3) Adjusted EBITDA defined as Consolidated EBITDA excluding (i) other income (ii) exceptional items (iii) share in net loss of a n associate (iv) share based 
+payment expense and (v) rental expenses pertaining to 'Ind AS 116 leases  
+ 
+Highlights of the quarter  
+● Swiggy Platform  
+○ Platform Average Monthly Transacting Users (MTU) grew 35.2% YoY to 21.6 Mn (+9.0% QoQ)  
+○ Consolidated Adjusted Revenue grew 52.7% YoY to INR 5,308 Cr (+12.5% QoQ)  
+○ B2C Adjusted EBITDA Margin (% of B2C GOV) declined by 204bps YoY to -4.7% (+12bps QoQ)  
+○ Consolidated Adjusted EBITDA loss increased by INR 81 Cr QoQ to INR 813 Cr  
+ 
+● Food delivery   
+○ GOV grew 18.8% YoY to INR 8,086 Cr  
+○ Added 1.2 Mn Monthly Transacting Users to reach 16.3 Mn, Maximum numbers of MTUs added 
+in a single quarter over the last 2 years  
+○ Adjusted EBITDA declined by 9.6% QoQ to INR 192 Cr, Adjusted EBITDA Margin at 2.4% of GOV 
+(+152bps YoY, -52 bps QoQ)  
+ 
+● Quick-commerce  
+○ GOV growth accelerated to 107.6% YoY (+21.1% QoQ) to INR 5,655 Cr, with 1.2 Mn MTUs added 
+(+12% QoQ)  
+○ Added 41 darkstores, driving up active darkstore area to 4.3 Mn sq ft (+158.7% YoY, +8.2% QoQ),  
+growing average size of our darkstores further to over 4000 sq ft  
+○ Average order value grew 25.6% YoY to INR 612 ahead of our guidance, led by continued 
+expansion of non -grocery selection and larger -basket buying behaviour  across user cohorts  
+○ Contribution margin improved by 97 bps to -4.6% in Q1FY26 in line with our guided trajectory  
+○ Adjusted EBITDA margin improved by 213bps (QoQ) to -15.8%.  
+ 
+ 
+
+ 
+ 
+Page 3 of 25 
+From the CEO’s desk  
+ 
+Dear Shareholders,  
+ 
+It is my pleasure to present to you our Q1FY26 Shareholders’ letter.  
+ 
+Swiggy has grown into one of the most loved consumer brands in the country today. The breadth and depth 
+of our offerings, our outreach and distribution, and our approach to delivering our services are all driven by 
+consumer need. Hence, we have never boxed  ourselves within definitions, and choose to meet consumers 
+where they are and constantly evolve with them. While our primary interface remains our unified app, we 
+also created a standalone app for Instamart as we found new users for Quick -commerce who may  not have 
+a need for Food delivery today. As a convenience -first platform, we launched value -offerings like Maxxsaver 
+and 99 -store to continue to open up the market for more users. Though the ecosystem has been weaned 
+on 30 mins as a delivery time for Food  delivery and 10 minutes for Quick -commerce, we have reimagined 
+them to also offer 10 minutes Food delivery for fast -prep items through Bolt and 20 -30 minutes Quick -
+commerce deliveries for an expanded assortment from megapods; to fulfil more use -cases. It is this 
+tinkering DNA of Swiggy that makes us different, since it continuously makes us ask on behalf of the 
+consumer, “Why not?”. This question is visibly at play currently, as evolving hyperlocal commerce models 
+continue to juggle and balance i) innovati on vs standardization of services ii) quality vs quantity of users 
+and orders, and iii) long -term market growth vs short -term platform profitability.  
+ 
+Moving to quarterly performance, Food delivery GOV rose 18.8% YoY, continuing to grow steadily within 
+our guided range. Q1 is a seasonal low for availability of delivery partners given reverse -migration and 
+beginning of rains, and hence incremental investm ents into their availability are made every year by Food 
+delivery platforms. Bunched with our regular annual appraisal cycle in Q1, this has kept our Adjusted EBITDA 
+margin at 2.4% (vs 2.9% in Q4); a seasonal impact which will normalise as the year progres ses.  
+ 
+We grew Food delivery MTUs by more than 1.2mn vs Q4, delivering a strong 16% YoY growth; as we 
+continue to create segmented propositions that bring in new users and spur new use -cases. We believe 
+that expanding the MTU base for Food delivery is critical fo r the long -term health of the category, and India 
+offers a very long growth runway which needs innovation. The biggest unlock for the category is 
+affordability, and the challenge lies in working with the ecosystem to deliver without subsidies or poor 
+quali ty of service. At the other end of the spectrum, we have also created a differential experience for 
+convenience -focused consumption through Bolt (10 minute delivery of some items) and OneBLCK (faster 
+delivery for premium subscribers). To enable these, we h ave developed underlying capabilities like priority 
+assignment of delivery partners for a segment of orders (without degrading the delivery experience for the 
+remainder) and Ecosaver mode (batching of orders on an opt -in basis). In parallel, we continue to  work with 
+restaurant partners and food providers to onboard and co -create customer propositions and processes that 
+will enable them to take advantage of these capabilities for their business growth.  An example of where 
+these come together are ‘Snacc’ (fu nctional meals or side -of-plate offerings) and the recently launched ‘99 -
+Store’ on the marketplace (single -serve, fast -prep meals priced at INR 99), both offering free delivery.  
+ 
+ 
+ 
+Page 4 of 25 
+Instamart has grown out of the shadow of Food delivery as a standalone brand, with its GOV and user -base 
+at over 2/3rd of Food delivery already. Assortment has significantly increased with a large part of our metro 
+users having access to 30,000 SKUs, and d elivery times remain at industry -best levels of ~12.6 mins 
+(national average). After more than doubling our darkstore footprint and expanding to 80 new cities over 
+H2FY25, we have been sweating the network built -out. In Q1, we expanded operations to 127 ci ties (vs 124 
+in Q4), and added darkstores selectively for alleviating capacity constraints or creating coverage in specific 
+pockets that demonstrated the need. Our focus has been on improving wallet -share by increasing basket -
+size, which is one of the prim e determinants of long -term profitability.  
+ 
+In Q1, our Quick -commerce segment continued to accelerate, and clocked 108% YoY GOV growth to INR 
+5,655 Cr (+21% QoQ). We catapulted our AOV by 16% QoQ to INR 612, over -delivering on our guidance of 
+high-teens growth in AOV. This has been driven by our sig nificantly expanded selection driving a higher 
+non-grocery mix in our GOV, and the resounding success of Maxxsaver driving larger baskets through 
+providing better value. Some cart -consolidation led by Maxxsaver and letting go of some low AOV orders 
+and unp rofitable users drove a lower order growth, in favour of higher value -growth. Thus, Q1 Contribution 
+margin improved to -4.6% (vs -5.6% in Q4), as expanded basket -sizes and optimization of customer 
+incentives more than offset the network underutilization dr ag. Marketing investments continued across both 
+brand and performance marketing, and the platform grew MTUs to 11.1 mn (+12.4% QoQ). Overall, Quick 
+Commerce posted a INR 896 Cr loss for the quarter, and Adjusted EBITDA margin improved to -15.8% from 
+-18.0% . Given the rapid growth and massive potential, competitive intensity remains fairly high in general 
+from both ‘QComm -only’ and ‘QComm -also’ players. The former are modulating investments based on their 
+specific network capacities and strategies, while the  latter are calibrating expansion by figuring out if their 
+model should be ‘Quick’ -commerce or ‘Quick -enough’ -commerce. In this backdrop, we remain confident of 
+our stable growth plan, rising consumer salience, and guided trajectory of improvement in Contr ibution 
+margin.  
+ 
+The Out -of-Home consumption segment GOV grew 61% YoY (+21% QoQ), led by continued success of GIRF 
+and a thrust on making festive event days big. This under -served segment is growing rapidly, and our 
+efficient model has kept costs in control. The segment ha d turned profitable last quarter and continued to 
+expand its operating margins, with an Adjusted EBITDA margin of 0.5% (+20bps QoQ).  
+ 
+We released our first annual report and voluntarily published our first sustainability report  recently, where 
+we outlined our key ESG priorities and progress in FY25. Following our IPO last year, we also transitioned 
+the Swiggy Board towards an independent structure  recently; aligning with best practices for publicly listed 
+companies. We hope to continue to get feedback from all stakeholders and progress on our path to 
+delivering unparalleled urban convenience at scale.  
+ 
+Sriharsha Majety  
+Co-founder, MD & Group CEO  
+Swiggy Ltd       
+ 
+ 
+ www.swiggy.com/corporate/   
+ 
+ 
+Page 5 of 25 
+Swiggy Platform  
+ 
+ Q1FY25  Q2FY25  Q3FY25  Q4FY25  Q1FY26  
+B2C Gross Order Value (INR Cr)  10,190  11,306  12,165  12,888  14,797  
+      
+Growth - QoQ  10.9%  11.0%  7.6%  5.9%  14.8%  
+Growth - YoY 23.1%  29.9%  38.2%  40.3%  45.2%  
+      
+B2C Adjusted EBITDA margin (% of B2C GOV)  -2.7%  -2.3%  -3.3%  -4.8%  -4.7%  
+Consolidated Adjusted EBITDA (INR Cr)  -348 -341 -490 -732 -813 
+ 
+ 
+Platform MTU continue to rise secularly, coupled with growing number of users using multiple services  
+ 
+ 
+ 
+ 
+ Q1FY25  Q2FY25  Q3FY25  Q4FY25  Q1FY26  
+B2C Total Orders (million)  214 230 234 246 264 
+Average Monthly Transacting Users [MTU] (million)  16.0 17.1 17.8 19.8 21.6 
+Average Monthly Transacting Delivery Partners ('000)  457 522 544 539 606 
+Platform Frequency (#)  4.50  4.53  4.46  4.22  4.18 
+ 

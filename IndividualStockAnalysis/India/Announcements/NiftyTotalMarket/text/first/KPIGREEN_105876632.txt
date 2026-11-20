@@ -1,0 +1,151 @@
+ 
+KPI/PB/JUN/2024/ 517 Date: June 7, 2024 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+ 
+Scrip Code: 542323 National Stock Exchange of India Limited 
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051 
+ 
+Symbol: KPIGREEN 
+ 
+Sub. : Submission of Voting Results of the Postal Ballot as per the form at prescribed under 
+Regulation 44 of SEBI (Listing Obligations and Disclosure Requir ements) Regulations, 
+2015  
+Dear Sir/Madam, 
+Pursuant to Regulation 44(3) of SEBI (Listing Obligations and Disclosure Requi rements) 
+Regulation 2015, please find enclosed details of voting result of the Po stal Ballot which was 
+conducted only through electronic means for the business es contained in the postal ballot 
+Notice dated May 03, 2024 issued by the Company. 
+We are also enclosing the Scrutinizer Report on E-voting conducted in pursuan t to the 
+provisions of section 110 of the Companies Act, 2013 read with the Compani es (Management 
+and Administration) Rules 2014. The above are also being uploaded on th e website of the 
+Company. 
+Based oŶ the SĐrutiŶizer’s Report, the ďusiŶess iteŵ s as mentioned in the Notice of the Postal 
+Ballot have been passed with requisite majority. 
+You are requested to kindly take the same on record. 
+Thanking you, 
+ 
+Yours faithfully, 
+For KPI Green Energy Limited 
+ 
+ 
+Rajvi Upadhyay 
+Company Secretary & Compliance Officer 
+ 
+Encl.: as above  
+Scrip code 542323
+NSE Symbol KPIGREEN
+MSEI Symbol NOTLISTED
+ISIN INE542W01017
+Name of the company KPI Green Energy Limited
+Type of meeting Postal Ballot
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)05-06-2024
+Start time of the meeting
+End time of the meetingGeneral information about companyHome Validate Import  XML
+Name of the Scrutinizer  Chirag Shah
+Firms Name Chirag Shah & Associate
+Qualification CS
+Membership Number 5545
+Date of Board Meeting in which appointed 03-05-2024
+Date of Issuance of Report to the company 05-06-2024Scrutinizer DetailsHome Validate
+Record date 03-05-2024
+Total number of shareholders on record date 176870
+a) Promoters and Promoter group
+b) Public
+a) Promoters and Promoter group
+b) Public
+No. of resolution passed in the meeting 2
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either i n person or through proxy
+No. of shareholders attended the meeting through vi deo conferencingHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 0 0.0000 0 0 0 0
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 32000843 0 0.0000 0 0 0.0000 0.0000
+E-Voting 1144174 30.4827 332482 811692 29.0587 70.9413
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 3753514 1144174 30.4827 332482 811692 29.0587 70.9413
+E-Voting 3901962 15.9080 3894280 7682 99.8031 0.1969
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 24528251 3901962 15.9080 3894280 7682 99.8031 0.1969
+Total Total 60282608 5046136 8.3708 4226762 819374 83.7623 16.2377
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions24528251Resolution (1)
+Resolution required: (Ordinary / Special) Special
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredAPPROVAL FOR GIVING LOAN OR GUARANTEE OR PROVIDING SECURITY IN CONNECTION WITH 
+LOAN AVAILED BY K.P. ENERGY LIMITED, IN WHOM ANY OF THE DIRECTOR OF THE COMPANY IS 
+INTERESTED UNDER SECTION 185 OF THE COMPANIES ACT,2013.
+Promoter and 
+Promoter Group32000843
+Public- 
+Institutions3753514
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 0 0.0000 0 0 0 0
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 32000843 0 0.0000 0 0 0.0000 0.0000
+E-Voting 1144174 30.4827 332482 811692 29.0587 70.9413
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 3753514 1144174 30.4827 332482 811692 29.0587 70.9413
+E-Voting 5089905 20.7512 5081916 7989 99.8430 0.1570
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 24528251 5089905 20.7512 5081916 7989 99.8430 0.1570
+Total Total 60282608 6234079 10.3414 5414398 819681 86.8516 13.1484
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions24528251Resolution (2)
+Resolution required: (Ordinary / Special) Special
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredAPPROVAL FOR GIVING LOAN OR GUARANTEE OR PROVIDING SECURITY IN CONNECTION WITH 
+LOAN AVAILED BY KP GREEN ENGINEERING LIMITED, IN WHOM ANY OF THE DIRECTOR OF THE 
+COMPANY IS INTERESTED UNDER SECTION 185 OF THE COMPANIES ACT,2013
+Promoter and 
+Promoter Group32000843
+Public- 
+Institutions3753514
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes

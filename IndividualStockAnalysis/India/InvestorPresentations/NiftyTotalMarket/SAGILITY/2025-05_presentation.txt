@@ -1,0 +1,372 @@
+
+=== page 1 ===
+ 
+Sagility India  Limited  
+(Formerly Sagility India Private Limited)  
+Registered Office - No. 23 & 24, AMR Tech Park, Building 2A,  First Floor Hongasandara Village, Off Hosur Road, 
+Bommanahalli, Bengaluru – 560068  Karnataka  India  
+Corporate Identity Number:  L72900KA2021PL C150054  
+Tel. No. : 080-71251500 , Website:  www.SagilityHealth.com  
+Date: May 14 , 202 5 
+ 
+To,  
+The Manager        
+Listing Department       
+National Stock Exchange (NSE)     
+Exchange Plaza, 5th Floor      
+Plot No. C/1, G -Block       
+Bandra -Kurla Complex       
+Bandra (E), Mumbai - 400 051     
+Symbol: SAGILITY  To, 
+The Manager  
+Listing Department  
+Bombay Stock Exchange (BSE)  
+Phiroze Jeejeebhoy Towers  
+Dalal Street Mumbai - 400 001  
+Scrip Code:544282  
+ 
+Dear Sir/Ma’am,   
+ 
+Subject: Submission of Investor Presentation to be made to investors on May 15 , 202 5, pursuant 
+to Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015  
+ 
+In continuation to our letter dated May 09, 202 5, we are enclosing herewith the presentation to be shared 
+with investors  regarding  the audited financial results of the Company for quarter and year ended 31st 
+March 2025 at 8:30AM (IST).  
+ 
+The details are also being made available on the Company’s website https://sagilityhealth.com/      
+ 
+This is for your kind information and record.  
+ 
+Thanking You,  
+ 
+For Sagility India Limited  
+ 
+ 
+ 
+Satishkumar Sakharayapattana Seetharamaiah      
+Company Secretary & Compliance  Officer     
+M. No: A16008   
+ 
+Encl: a/a  
+=== page 2 ===
+Investor Deck 
+ –
+FY25May 15, 2025
+=== page 3 ===
+Safe Harbour
+Certain statements in this release concerning Sagility’ future growth prospects may be seen as forward -
+looking statements, which involve a number of risks and uncertainties that could cause the actuals to differ 
+materially from such statements. Sagility does not undertake to update any such statement that may have 
+been made from time to time by or on behalf of the company..
+2
+=== page 4 ===
+Key Highlights
+► FY25 Revenue at ₹55,699 million,  grew by ₹8,164 million Y -o-Y 
+(corresponding to 17.2% growth Y -o-Y and 14.9% at constant currency. 
+► Adjusted EBITDA (excl Other Income) at ₹14,685 million,  grew by ₹3,249 
+million Y -o-Y (corresponding to 28.4% growth Y -o-Y )
+► Adjusted PAT at ₹8.107 million, grew by ₹ 2,211 million Y -o-Y (corresponding 
+to 37.5% growth Y -o-Y )► Revenue in Q4 at ₹ 15,685 million  grew by ₹2,853 million Y -o-Y (corresponding 
+to 22.2% growth Y -o-Y and 17.7% at constant currency. 
+► Adjusted EBITDA (excl Other Income) at ₹4,042 million, grew by ₹899 million Y -
+o-Y (corresponding to 28.6% growth Y -o-Y )
+► Adjusted PAT at ₹2,398 million, grew by ₹747 million Y -o-Y (corresponding to 
+45.2% growth Y -o-Y )
+► FY25 concluded with robust year -on-year growth, largely fueled by our tenured existing clients and logos won over the last couple of years. Total Q -o-Q growth of 
+7.9% in INR and 5.7% in constant currency was fueled by acquisition of Broadpath  in Q4.
+►Together with tech - and transformation -led services —powered by automation, analytics, and GenAI, and our consulting services, we are gaining strong traction with 
+clients, further enhancing our reputation as a trusted strategic and advisory partner.
+►Recent acquisition of BroadPath has the potential to unlock additional opportunities in several mid -market clients of Broadpath  ; targeted cross -sell initiatives planned 
+for FY26
+►Operations remain robust, driven by strong performance across key metrics
+► People: Global headcount stands at 39,409 as of Mar 2024.
+►4,365 employees added during FY25 (12.5% Y -o-Y growth in headcount); Attrition at 27.5%*
+► Recognitions: Major Contender in the Everest Group Payment Integrity Solutions PEAK Matrix® Assessment 2025; Major Contender in Healthcare Payer Business 
+Process as a Service ( BPaaS ) – Solutions PEAK Matrix® Assessment 2024Key Business Highlights
+* Voluntary attrition considering employees who were employees for more than 90 days (%) on an annualized basis exclude BroadPathFY25 Highlights Q4 FY25 Highlights
+3
+=== page 5 ===
+KPIs
+*considering employees who were employees for more than 90 days (%) on an annualized basis. **FY attrition rate exclude BroadPath 4KPI Q4'25 Q3'25 Q4'24 YoY% FY'25 FY'24 YoY%
+Revenue from Operation (in INR Million) 15,685 14,531 12,832 22.2% 55,699 47,536 17.2%
+Revenue by Vertical Split
+By Payer % 89.7% 89.3% 90.8% 89.4% 90.3%
+By Provider % 10.3% 10.7% 9.2% 10.6% 9.7%
+Growth in revenue from operation (%) 22.2% 15.3% 17.2% 12.7%
+Adjusted EBITDA (in INR Million) 4,143 4,567 3,188 30.0% 15,248 11,715 30.2%
+Adjusted EBITDA % 26.4% 31.4% 24.8% 27.4% 24.6%
+Adjusted PAT (in INR Million) 2,398 2,626 1,651 45.2% 8,107 5,896 37.5%
+Adjusted PAT % 15.3% 18.1% 12.9% 14.6% 12.4%
+Total Number of Employees 39,409 39,595 35,044 12.5% 39,409 35,044 12.5%
+Voluntary attrition rate* (%) 32.5% 21.8% 30.4% 27.5% 27.2%**
+=== page 6 ===
+Annual KPI’s
+5KPI FY'25 FY'24 FY’23
+Number of Client groups*
+Active 75 44 35
+Number of new client addition (Gross) 38 13 7
+Client groups contribution to revenues
+Top 3 Client % 66.2% 68.3% 72.4%
+Top 5 Client % 77.9% 79.2% 80.6%
+Top 10 Client % 90.5% 91.4% 90.7%
+Number of Million -dollar client groups
+Number of clients contributing more than US$20 million 7 5 4
+Number of clients contributing to US$5 - US$20 million 6 7 7
+Number of clients contributing to US$1 - US$5 million 12 12 12
+Number of clients contributing  less than US$1 million 50 20 12
+Delivery sites
+Number of  delivery sites 33 30 27
+New site addition (Gross) 10 4 2
+* Client groups comprise client entities together with their affiliates. 
+=== page 7 ===
+Financial Highlights
+=== page 8 ===
+Highlights
+FY25 Financial Highlights
+►FY25 revenue stood at ₹55,699 Million ($658.3 M)
+►17.2% growth Y -o-Y (14.9% at constant currency )
+►Adjusted EBITDA (excl OI) at ₹14,685  Million ($173.6 M) 
+►Adjusted EBITDA Margin : 26.4%
+►28.4% growth Y -o-Y
+►Adjusted PAT at ₹8,107 Million ($95.8 M)
+►Adjusted PAT Margin: 14.6%
+►37.5% growth Y -o-Y;
+►OCF ₹12,141 Million ($ 143.5 M)
+►89.7% of EBITDA►Q4’25 revenue stood at ₹15,685 Million ($181.8 M)
+►22.2% growth Y -o-Y (17.7% at constant currency )
+►7.9% growth Q -o-Q (5.7% at constant currency)
+►Adjusted EBITDA (excl OI) at ₹4,042 Million ($46.8 M)
+►Adjusted EBITDA Margin : 25.8%
+►28.6% growth Y -o-Y;  
+►Adjusted PAT at ₹2,398 Million ($27.8 M)
+►Adjusted PAT Margin : 15.3 %
+►45.2% growth Y -o-Y
+►OCF ₹3,009 Million ($34.8 M)
+►78.5% of EBITDAStrong FY25 Performance
+Q4 FY25 Financial Highlights
+7
+=== page 9 ===
+₹11.2₹10.9₹12.6₹12.8
+12.8%11.5%12.4% 12.9%
+0.0%5.0%10.0%15.0%20.0%25.0%30.0%35.0%40.0%
+₹9.0₹10.0₹11.0₹12.0₹13.0₹14.0₹15.0
+Q1 FY24 Q2 FY24 Q3 FY24 Q4 FY24
+Revenue INR B Adjusted PAT %Quarter wise performance
+33.5
+* Q4 FY 25 Headcount  includes BroadPath Headcount of 1,083 (acquired in Q4 FY25) FY 2436.5 36.6 35.0
+35.8 38.3 39.6Headcount 
+(‘000)
+Headcount 
+(‘000)
+₹12.2₹13.3₹14.5₹15.7
+11.8% 12.3%18.1%
+15.3%
+0.0%5.0%10.0%15.0%20.0%25.0%30.0%35.0%40.0%
+₹9.0₹10.0₹11.0₹12.0₹13.0₹14.0₹15.0₹16.0₹17.0
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25
+Revenue INR B Adjusted PAT %FY 2539.4*
+=== page 10 ===
+Financial performance snapshot – Long Term
+Revenue 
+(INR Million) FY24 YoY% FY25 YoY%
+12.7% 17.2%Adjusted EBITDA * 
+(INR Million)FY24 YoY% FY25 YoY%
+11.3% 28.4%Adjusted PAT
+(INR Million)FY24 YoY% FY25 YoY%
+29.4% 37.5%
+Revenue ($M) FY24 YoY% FY25 YoY%
+10.5% 14.9%Adjusted EBITDA* 
+($M)FY24 YoY% FY25 YoY%
+9.2% 25.9%Adjusted PAT
+($M)FY24 YoY% FY25 YoY%
+27.0% 34.8%
+9₹42,184₹47,536₹55,699
+FY'23 FY'24 FY'25₹10,272₹11,436₹14,685
+FY'23 FY'24 FY'25₹4,556₹5,896₹8,107
+FY'23 FY'24 FY'25
+$518.2$572.9$658.3
+FY'23 FY'24 FY'25$126.2$137.8$173.6
+FY'23 FY'24 FY'25$56.0$71.1$95.8
+FY'23 FY'24 FY'25
+*Adjusted EBITDA excluding other income
+=== page 11 ===
+Financial performance snapshot – Q4 FY25
+Revenue 
+(INR Million) Y-o-Y Q-o-Q
+22.2% 7.9%Adjusted EBITDA* 
+(INR Million)Y-o-Y Q-o-Q
+28.6% -2.1%Adjusted PAT
+(INR Million)Y-o-Y Q-o-Q
+45.2% -8.7%
+Revenue ($M) Y-o-Y Q-o-Q
+17.7% 5.7%Adjusted EBITDA* 
+($M)Y-o-Y Q-o-Q
+23.8% -4.2%Adjusted PAT
+($M)Y-o-Y Q-o-Q
+40.1% -10.6%
+10₹12,832₹14,531₹15,685
+Q4'24 Q3'25 Q4'25₹3,143₹4,127 ₹4,042
+Q4'24 Q3'25 Q4'25₹1,651₹2,626₹2,398
+Q4'24 Q3'25 Q4'25
+$154.4$172.0$181.8
+Q4'24 Q3'25 Q4'25$37.8$48.9$46.8
+Q4'24 Q3'25 Q4'25$19.9$31.1
+$27.8
+Q4'24 Q3'25 Q4'25
+*Adjusted EBITDA excluding other income
+=== page 12 ===
+Financial Indicators
+Adjusted EPS is Adjusted PAT divided by weighted average number of equity shares
+Adjusted ROCE is Adjusted PAT plus Interest cost divided by capital employed (Assets excluding goodwill and intangibles asset s less current liabilities)
+Net Debt is Borrowing plus lease liabilities less Cash and Cash equivalent. Borrowing doesn’t include accrued interest111.06 1.38 1.76 
+FY'23 FY'24 FY'25Adjusted EPS (in INR)
+41.6%47.0%54.9%
+FY'23 FY'24 FY'25Adjusted ROCE %
+82.0%87.2% 89.7%
+68.2% 70.8%80.5%
+FY'23 FY'24 FY'25Cash Conversion (%)
+OCF % FCF %₹22,863₹21,678
+₹10,4322.19x
+1.85x
+0.68x
+ - 0.50 1.00 1.50 2.00 2.50
+₹0₹5,000₹10,000₹15,000₹20,000₹25,000
+FY'23 FY'24 FY'25Net Debt
+Net Debt (in INR Million) Net Debt to Adjusted EBITDA
+=== page 13 ===
+Q4 & FY25 Consolidated Financials 
+Amt in INR M
+Particulars Q4 FY25 Q3 FY25 Q4 FY24 YoY% QoQ% FY25 FY24 YoY%
+Revenue from Operation 15,685 14,531 12,832 22.2% 7.9% 55,699 47,536 17.2%
+Other Income 101 440 46 563 279 
+Employee benefits expense 9,741 8,620 7,995 34,989 29,376
+Other expenses 2,212 1,988 1,764 7,731 7,278 
+Reported EBITDA 3,832 4,362 3,119 22.9% -12.2% 13,542 11,160 21.3%
+Adjusted EBITDA 4,143 4,567 3,188 30.0% -9.3% 15,248 11,715 30.2%
+Adjusted EBITDA % 26.4% 31.4% 24.8% 27.4% 24.6%
+Adjusted EBITDA excl. other income 4,042 4,127 3,143 28.6% -2.1% 14,685 11,436 28.4%
+Adjusted EBITDA excl. other income % 25.8% 28.4% 24.5% 26.4% 24.1%
+Finance costs 298 302 429 1,271 1,851
+Depreciation and amortisation expenses 1,143 1,162 1,760 4,669 6,892
+Profit Before Tax 2,390 2,898 929 157.3% -17.5% 7,602 2,417 214.6%
+Tax Expenses 564 729 127 2,211 134
+Reported Profit After Tax 1,826 2,169 802 127.6% -15.8% 5,391 2,283 136.2%
+EPS 0.39 0.46 0.19 108.5% -15.8% 1.17 0.53 119.3%
+Adjusted PAT 2,398 2,626 1,651 45.2% -8.7% 8,107 5,896 37.5%
+Adjusted PAT % 15.3% 18.1% 12.9% 14.6% 12.4%
+Adjusted EPS (Basic and Diluted) (Rs) 0.51 0.56 0.39 33.0% -8.7% 1.76 1.38 27.7%12❖Q4’25 Organic Revenue at INR 
+14,929 Mn (YoY% 16.3% and 
+QoQ% 2.7%)
+❖FY’25 Organic Revenue at INR 
+54,943 Mn (YoY% 15.6%)
+❖Q4 Adj. EBITDA margin (excl. OI) is 
+lower than Q3 due to (a) Change 
+in revenue mix as BroadPath  is 
+onshore (b) Salary hikes made 
+effective from Jan 25
+❖Dip in Q4 Reported EBITDA 
+margins due to above and lower 
+other income and earnout for 
+BroadPath
+❖Finance cost include interest cost 
+on long -term borrowing from 
+promoter and interest expenses on 
+lease liabilities
+=== page 14 ===
+Adjustments on EBITDA and PAT
+Adj EBITDA Bridge: FY25 Adj EBITDA Bridge: Q4 FY25
+Adj A - Earnouts under acquisition agreements and for PAT it is adjusted for tax
+Adj B - Share based payment awards ( non cash expenses for the company and not tax deductible)
+Adj C - Intangible assets Amortization is amortization of intangible assets acquired pursuant to carveout of healthcare business  from the sellerAdj PAT Bridge: FY25 Adj PAT Bridge: Q4 FY25
+INR MillionINR Million INR Million
+INR Million
+13₹3,832₹207 ₹104 ₹4,143
+Reported EBITDA Adj A Adj B Adjusted EBITDA₹13,542₹571₹1,134 ₹15,248
+Reported EBITDA Adj A Adj B Adjusted EBITDA
+₹1,826₹151₹104₹317 ₹2,398
+Reported PAT Adj A Adj B Adj C Adjusted PAT₹5,391₹418₹1,134₹1,163 ₹8,107
+Reported PAT Adj A Adj B Adj C Adjusted PAT
+=== page 15 ===
+Go Forward Positions
+•Numbers are based on the current visibility of management and are subject to change. Factors such as new loans, acquisitions,  foreign exchange rate or changes in our share -
+based payment award plan could impact the final figures
+•Intangible Amortisation  include amortization of intangible assets acquired pursuant to business combinations (includes DCI, Birch and BroadPath)
+14Amt in INR M
+Particulars FY'25 FY'26 FY'27 FY'28 FY'29
+Closing Debt position 8,020 5,670 
+Debt Repayment 2,490 2,350 5,670 
+Interest Payment 751 535 285 
+Share based Payment awards 1,134 250 146 78 40 
+Earnouts Cost - DCI / Birch/ BroadPath 571 494 5
+Intangibles Amortisation 1,588 1,795 1,785 1,771 1,698 
+=== page 16 ===
+Balance Sheet as on 31st Mar’25
+15Amt in INR M
+Particulars Mar’25 Mar'24
+Property, plant and equipment 3,699 3,832
+Capital -work -in-progress 0 57
+Right -of-use assets 5,521 5,665
+Goodwill 60,390 57,096
+Other intangible assets 20,362 20,078
+Trade receivables and Unbilled 12,668 11,813
+Cash and cash equivalents 3,438 3,441
+Deferred tax assets (net) 1,337 1,354
+Other Assets 3,091 3,305
+Total Assets 110,507 106,642
+Equity 83,361 64,431
+Borrowings 8,170 19,335
+Lease liabilities 5,850 5,982
+Trade payables 2,136 2,593
+Other financial liabilities 3,059 6,587
+Deferred tax liabilities (net) 4,279 4,710
+Other Liabilities 3,653 3,004
+Total Liabilities 110,507 106,642❖Increase in Goodwill and Intangible driven 
+by BroadPath  acquisition
+❖Intangibles of $16.5M created as a result of 
+BroadPath  acquisition
+❖DSO (excl. BroadPath ) of 79 days in Mar’25 
+against 85 days in Mar’24.
+❖Borrowings (Promoter Debt) reduction due 
+to conversion of loan into equity (in May’24) 
+and repayment of debt.
+❖Reduction in Other financial liabilities 
+pertains to pending purchase consideration 
+paid towards for healthcare business 
+carveout in Jan 22
+=== page 17 ===
+Cash Flow – FY25 
+16Amt in INR M
+Particulars FY’25 FY'24
+Profit before tax for the period/ year 7,602 2,417
+Adjustment for Non -Operating and Non -Cash items 6,982 8,693
+Adjustment for working capital (710) (114)
+Income taxes paid (net of refunds) (1,734) (1,263)
+Net cash flows generated from operating activities (A) - OCF 12,141 9,733
+Addition to Fixed Assets (1,244) (1,827)
+Free Cash flow (FCF) 10,896 7,905
+Cash paid for M&A (BroadPath) (4,825) (3,010)
+Pending Purchase consideration paid for healthcare business carveout (3,756)
+Others* 184 147
+Net cash flows (used in) investing activities (B) (9,642) (4,691)
+Capital infused by promoter 3,708 0
+IPO expense reimbursed 72 (72)
+Repayment of borrowings and lease liabilities (5,021) (5,546)
+Interest paid on borrowings and lease liabilities (1,320) (1,896)
+Net cash flows (used in) financing activities (C) (2,561) (7,513)
+Net increase/ (decrease) in cash and cash equivalents (A+B+C) (62) (2,471)
+Cash and cash equivalents at the beginning of the year/period 3,441 5,853
+Effect of movement in exchange rates on cash and cash equivalents 58 60
+Cash and cash equivalents at the end of the year/ period 3,438 3,441
+Net cash flows generated from operating activities % (OCF on Reported EBITDA) 89.7% 87.2%
+Free Cash flow % (FCF on EBITDA) 80.5% 70.8%❖Non-Cash/Non -Operating Items 
+includes Depreciation, Interest 
+expenses, SAR, Unrealized Fx loss 
+and Interest income
+❖Others include Proceeds from sale of 
+fixed assets, Interest income and 
+Proceeds from maturity of derivative 
+assets/liabilities, (net)
+=== page 18 ===
+Thank You

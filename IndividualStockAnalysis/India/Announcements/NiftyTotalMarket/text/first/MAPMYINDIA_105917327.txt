@@ -1,0 +1,392 @@
+July 17, 2024 
+ 
+The Listing Department 
+BSE Limited 
+Phiroze Jeejeebhoy Towers  
+Dalal Street 
+Mumbai 400 001 BSE SCRIP Code: 543425 The Listing Department 
+National Stock Exchange of India Limited 
+Exchange Plaza 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai 400 051 NSE Symbol: MAPMYINDIA  
+ Subject: Submission of Business Responsibilit y and Sustainability Report (‘BRSR’) for 
+the FY 2023-24 
+Ref: Regulation 34(2)(f) of SEBI (Listing  Obligations and Disclosure Requirements) 
+Regulations, 2015  
+ 
+Dear Sir / Madam, 
+ Please find enclosed the Business Responsibility & Sustainability Report for the FY 2023-24 
+as required under Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 
+ 
+The BRSR is also uploaded on the Company’s website at www.mapmyindia.com   
+ 
+Kindly acknowledge the receipt of the same. 
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For C.E. Info Systems Limited 
+ 
+ 
+ 
+  
+Saurabh Surendra Somani Company Secretary & Compliance Officer 
+ 
+Encl: BRSR Report 
+ 
+1
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed 
+Entity : L74899DL1995PLC065551
+2. Name of the Listed Entity : 
+C.E. INFO SYSTEMS LIMITED popularly known as 
+MapmyIndia.
+3. Year of incorporation : 1995
+4. Registered office address :  
+FIRST, SECOND & THRID FLOOR, PLOT NO. 237 
+OKHLA INDUSTRIAL ESTATE, PHASE –III, NEW DELHI 
+NEW DELHI South Delhi DL 110020 IN
+5. Corporate address : 
+FIRST, SECOND & THRID FLOOR, PLOT NO. 237 
+OKHLA INDUSTRIAL ESTATE, PHASE –III, NEW DELHI 
+NEW DELHI South Delhi DL 110020 IN 
+6. E-mail : cs@mapmyindia.com
+7. Telephone : 011 – 4600 9900
+8. Website :  https://www.mapmyindia.com/ 
+9. Financial year for which reporting is being done : 
+FY 2023-24
+10. Name of the Stock Exchange(s) where shares are 
+listed : BSE & NSE
+11. Paid-up Capital (Rs.) : 10, 81, 43, 972
+12. Name and contact details (telephone, email 
+address) of the person who may be contacted in 
+case of any queries on the BRSR report : 
+Name: Saurabh Surendra Somani 
+Designation: Company Secretary & Compliance 
+Officer 
+Telephone Number: 011-46009900 
+E-mail id: cs@mapmyindia.com
+13. Reporting boundary –  
+Are the disclosures under this report made on a 
+standalone basis (i.e. only for the entity) or on a 
+consolidated basis (i.e. for the entity and all the 
+entities which form a part of its consolidated 
+financial statements, taken together). : 
+ Standalone basis
+14. Whether the company has undertaken reasonable 
+assurance of the BRSR Core?  If Yes, Provide the 
+Name of Assurance Provider.
+ No, as per SEBI circular SEBI/HO/CFD/CFD-SEC-2/P/
+CIR/2023/122 dated 12th July, 2023, Top 150 listed 
+Companies based on market capitalization as on 
+March 31, 2024, shall mandatorily obtain Reasonable 
+Assurance of BRSR Core.BUSINESS RESPONSIBILITY AND  
+SUSTAINABILITY REPORT
+Section A: General Disclosures 15. If Yes, Provide the type of assurance obtained.
+ Not Applicable.
+II. Products/services
+16. Details of business activities (accounting for approx. 
+90% of the turnover):
+Sl. 
+NoDescription 
+of Main 
+ActivityDescription of Business 
+Activity% of 
+Turnover of 
+the entity
+1. Sale of 
+ServicesSale of Map data and 
+services includes royalty, 
+annuity, subscription, 
+software and projects 
+called MaaS, PaaS, SaaS.88.73
+17. Products/Services sold by the entity (accounting for 
+approx. 90% of the entity’s Turnover):
+Sl. 
+NoProduct/ServiceNIC 
+Code% of total 
+Turnover  
+contributed
+1. Sale of Map data and services 
+includes royalty, annuity, 
+subscription, software and 
+projects called MaaS, PaaS, 
+SaaS.62099 88.73
+III. Operations
+18. Number of locations where plants and/or operations/
+offices of the entity are situated:
+LocationNumber 
+of plantsNumber of  
+officesTotal
+National - 3 3
+International - 1 1
+19. Markets served by the entity:
+ a. Number of locations
+Location Number
+National PAN India
+International 8
+ b. What is the contribution of exports as a 
+percentage of the total turnover of the entity?
+  27.30%
+2
+ c. A brief on types of customers : 
+Sl. NoType of 
+CustomerBrief Description
+1. Corporate The corporate vertical comprises of all non-automotive businesses and entities which integrate 
+digital maps into their applications or offerings in order to build a comprehensive solution. Our 
+corporate customers include new-age, tech-enabled companies as well as traditional businesses 
+across various industry verticals such as Banking, Financial Services and Insurance (BFSI), telecom, 
+FMCG, logistics and transportation, etc.
+2. Automotive 
+OEM’sThe automotive vertical includes manufacturers of four-wheelers, two-wheelers and commercial 
+vehicles as well as upcoming class of electric vehicles. Our offerings in the automotive segment 
+enable N-CASE mobility across passenger and commercial vehicles. Some of our key customers in 
+the automotive segment include MG Motor and Hyundai and our key mobility customers include 
+Avis and Safexpress.
+3. Government Our Government customers includes central, state and local government organisations, ministries, 
+departments and public sector undertakings. Our key government sector offerings include 
+geospatial dashboards for strategic planning, efficient operations and effective management, 
+community health solutions through GIS-based situational awareness for medical emergencies, 
+pandemic management and spatially enabled dashboards to study the health risks and plan 
+mitigation, address standardization and geocoding solutions that place addresses in a location 
+perspective to generate highly desirable location insights, data collection, assessment, demand 
+generation and tax collection with separate modules for internal stakeholders and common citizens 
+and crime analytics through creation of geo-tags, crime patterns with geospatial AI and prediction 
+analytics through locations and modus operandi patterns.
+4. Retail We provide our maps and technologies to consumers through our MapmyIndia Move App, Maps.
+MapmyIndia.com internet mapping portal and our MapmyIndia Move GPS-based IoT gadgets.
+IV. Employees on standalone basis
+20. Details as at the end of Financial Year:
+ a. Employees and workers (including differently abled):
+S.No. ParticularsTotal 
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+EMPLOYEES
+1. Permanent (D) 502 412 82.07% 90 17.93%
+2. Other than 
+Permanent (E)354 295 83.33% 59 16.67%
+3. Total employees 
+(D + E)856 707 82.60% 149 17.40%
+WORKERS 
+4. Permanent (F) NA NA NA NA NA
+5. Other than 
+Permanent (G)NA NA NA NA NA
+6. Total workers 
+(F + G)NA NA NA NA NA
+3
+ b. Differently abled Employees and workers:
+Sl. 
+NoParticularsTotal 
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D) 1 1 100% 0 0
+2. Other than Permanent (E) 0 0 0 0 0
+3.Total differently abled 
+employees (D + E)1 1 100% 0 0
+DIFFERENTLY ABLED WORKERS
+4. Permanent (F) NIL NIL NIL NIL NIL
+5. Other than permanent (G) NIL NIL NIL NIL NIL
+6.Total differently abled 
+workers (F + G)NA NA NA NA NA
+21. Participation/Inclusion/Representation of women
+Total  
+(A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 10 4 40%
+Key Management 
+Personnel4 0 0%
+22. Turnover rate for permanent employees and workers 
+(Disclose trends for the past 3 years)
+ 
+FY 2023-2024  (Turnover  
+rate in current  FY) 
+FY 2022-2023  (Turnover  
+rate in previous FY) 
+FY 2021-2022 (Turnover  
+rate in the year prior to 
+the previous FY) 
+Male and 
+FemaleTotalMale and 
+FemaleTotalMale and 
+FemaleTotal
+Permanent Employees 9.75% 9.75% 15.82% 15.82% 19.35% 19.35%
+Permanent  Workers NA  NA NA NA NA NA
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a)  Names of holding / subsidiary / associate companies / joint ventures
+Sl.No.Name of the holding / 
+subsidiary / associate 
+companies / joint 
+ventures (A)Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture% of shares 
+held by 
+listed entityDoes the entity indicated at column A, participate 
+in the Business Responsibility initiatives of the 
+listed entity? (Yes/No)
+1 Vidteq India Private 
+LimitedWholly owned 
+Subsidiary100% No
+2 C.E. Info Systems 
+International Inc., 
+USAWholly owned 
+Subsidiary100% No
+3 Gtropy Systems 
+Private LimitedSubsidiary 75.98% No
+4 Kogo Tech Labs 
+Private Limited Associate 40.17% No
+5 Indrones Solutions 
+Private LimitedAssociate20% (on fully 
+diluted basisNo
+4
+VI. CSR Details
+24. (i)  Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+ (ii) Turnover (in Rs.) : 253.85 Crores
+ (ii) Net worth (in Rs.) : 535.21 Crores
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National  Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from  
+whom complaint 
+is receivedGrievance  
+Redressal 
+Mechanism  
+in Place (Yes/
+No) (If Yes, 
+then provide 
+web-link for 
+grievance 
+redress policy)FY 2023-2024 FY 2022-2023
+Number of 
+complaints    
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks Number of 
+complaints    
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Communities Yes Nil Nil Nil Nil Nil Nil
+Investors 
+(other than 
+shareholders)YesNil Nil Nil Nil Nil Nil
+Shareholders Yes Nil Nil 25 Nil
+Employees and 
+workersYesNil Nil Nil Nil Nil Nil
+Customers
+Yes7411 753 almost 90% 
+complaints 
+were 
+successfully 
+resolved4260 17 Complaints 
+pending on 
+account of 
+no reply from 
+customers
+ValueChain 
+PartnersYesNil Nil Nil Nil Nil Nil
+Other (please 
+specify)YesN.A N.A N.A N.A N.A N.A
+The policy on Grievance Redressal Mechanism is available at: https://www.mapmyindia.com/investor/investor_doc/
+websitedisclosure/GRIEVANCE_REDRESSAL_POLICY_FOR_STAKEHOLDERS.pdf
+26. Overview of the entity’s material responsible business conduct issues
+ Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format:
+S. No. Material issue 
+identifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for 
+identifying 
+the risk/ 
+opportunityIncase of risk, 
+approach 
+to  adapt or 
+mitigateFinancial implications of the risk 
+or opportunity (Indicate positive 
+or negative implications)
+Nil Nil Nil Nil Nil Nil
+ Given the nature of the business, this is not directly applicable.
+5
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+Disclosure
+QuestionsP
+1P
+2P
+3P
+4P
+5P
+6P
+7P
+8P
+9
+Policy and management processes
+1. a. Whether your entity’s policy/policies cover each principle and its core 
+elements of the NGRBCs. (Yes/No)Y Y Y Y Y Y Y Y Y
+b. Has the policy been approved by the Board? (Yes/No) Y Y Y Y Y Y Y Y Y
+c. Web Link of the Policies, if available https://www.mapmyindia.com/investor/
+2. Whether the entity has translated the policy into procedures. (Yes / No) Y Y Y Y Y Y Y Y Y
+3. Do the enlisted policies extend to your value chain partners? (Yes/No) Y Y Y Y Y Y Y Y Y
+4. Name of the national and international codes/certifications/labels/ 
+standards (e.g. Forest Stewardship Council, Fairtrade, Rainforest Alliance, 
+Trustees) standards (e.g. SA 8000, OHSAS, ISO, BIS) adopted by your entity 
+and mapped to each principle.CMMI ML-3
+ISO 45001:2018 for our occupational health and 
+safety management systems,
+ISO/IEC 20000-1:2018 for our information 
+technology service management system
+ISO/IEC 27001:2013 for our information 
+technology service management system
+ISO 9001:2015 for our quality management 
+systems
+ISO 14001:2015 for our environmental 
+management system
+5. Specific commitments, goals and targets set by the entity with defined 
+timelines, if any.By FY2028, out of the potential 5,000 digital 
+and conventional customers, 1000 such 
+companies may adopt maps and location based 
+technologies creating a combined revenue 
+potential of Rs. 1000 crores
+6. Performance of the entity against the specific commitments, goals and 
+targets along-with reasons in case the same are not met.The Company achieved  a turn over of  Rs. 315.61 
+Crores during the year ended 31.03.2024 and the 
+management targets to achieve the goal of Rs. 
+1,000 Crores by 2028. 
+Governance, leadership and oversight
+7. Statement by director responsible for the business responsibility report, highlighting ESG related challenges, targets and 
+achievements (listed entity has flexibility regarding the placement of this disclosure): The Company has formulated the policies 
+duly approved by the Risk Management Committee and the same is implemented on regular basis.
+8. Details of the highest authority responsible  for implementation and 
+oversight of the Business Responsibility policy (ies).Mr. Rakesh Kumar Verma, Chairman & Managing 
+Director
+9. Does the entity have a specified Committee of the Board/ Director 
+responsible for decision making on sustainability related issues? (Yes / No). 
+If yes, provide details.Yes.
+The Company has formulated Risk Management 
+Committee constituted by the Board of 
+Directors in their meeting held on 27th July, 2021 
+which is responsible for decision-making and 
+incorporating sustainability in core business 
+decisions and internal operations.
+This is a management level committee 
+comprising of 2 senior members across major 
+functions at the Company, chaired by Mr. Rohan 
+Verma, CEO of the Company. 
+The risk management committee shall review 
+these Policies from time to time and to review 
+ESG progress and performance.

@@ -1,0 +1,846 @@
+ 
+ 
+Regd. Office: 3rd Floor, Maker Chambers IV, 222, Nariman Point, Mumbai- 400 021, India 
+Phone #: +91-22-3555 5000, Telefax: +91-22-2204 2268. E-mail: investor.relations@ril.com , Website: www.ril.com  
+CIN- L17110MH1973PLC019786 
+ 
+ 
+January 16, 2026 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai 400 001 
+ National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1,  
+G Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai 400 051 
+ 
+Scrip Code: 500325  
+ Trading Symbol: RELIANCE  
+Dear Sirs, 
+ 
+Sub:   Media Release - Consolidated and Standalone Unaudited Financial Results for 
+the quarter and nine months ended December 31, 2025 
+ 
+Unaudited 
+Financial Results for the quarter and nine months ended December 31, 2025, we attach a 
+copy of Media Release being issued by the Company. 
+ 
+The Consolidated and Standalone Unaudited Financial Results for the quarter and nine 
+months ended  December 31, 2025, approved by the Board of Directors and the Media 
+Release thereon are also available on the website of the Company at 
+https://www.ril.com/investor/resource-center/corporate-announcements . 
+ 
+This is for information and records.  
+ 
+Thanking you 
+ 
+Yours faithfully, 
+For Reliance Industries Limited 
+ 
+ 
+ 
+ 
+Savithri Parekh 
+Company Secretary and 
+Compliance Officer 
+ 
+Encl.: as above 
+ 
+Copy to: 
+ 
+Luxembourg Stock Exchange 
+35A Boulevard Joseph II, 
+L-1840 Luxembourg Singapore Exchange Limited  
+4 Shenton Way, #02- 01 SGX Centre 2, 
+Singapore 068807 
+ 
+ 
+ 
+Media Release
+Registered Office: Corporate Communications: Telephone : (+91 22) 3555 5000 
+Maker Chambers IV Maker Chambers IV Telefax : (+91 22) 3555 5185
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet : www.ril.com ;investor.relations@ril.com
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786
+Page 1of 20
+16thJanuary, 2026
+CONSOLIDATED RESULTS FOR QUARTER ENDED 31STDECEMBER ,2025
+Consolidated 9M FY26 EBITDA at 159,323, up 18.3% Y-o-Y and PAT at 75,165, up 28.1% Y-o-Y
+Consolidated 3Q FY26 EBITDA at 50,932, up 6.1% Y-o-Y
+O2C EBITDA up 14.6 6,507 crore, margin up 60 bps, Jio-bp volumes up 24%
+Jio Platforms EBITDA up 16.4% Y-o- 303 crore, Margin up 170 bps
+Jio 5G subscribers crossed 250 million, Fixed Broadband base crossed 25 million 
+Reliance Retail EBITDA up 1.3% Y-o-Y 915 crore
+- -o-Y
+CONSOLIDATED FINANCIAL HIGHLIGHTS  
+       ( in crore)
+Sr. 
+NoParticulars 3Q
+FY262Q
+FY263Q
+FY25% chg.
+Y-o-Y9M 
+FY269M 
+FY25FY25
+1 Gross Revenue 293,829 283,548 267,186 10.0 850,629 783,036 1,071,174
+2 EBITDA 50,932 50,367 48,003 6.1 159,323 134,685 183,422
+3 EBITDA margin (%) 17.3 17.8 18.0 (70 bps) 18.7 17.2 17.1
+4 Depreciation 14,622 14,416 13,181 10.9 42,880 39,657 53,136
+5 Finance Costs 6,613 6,827 6,179 7.0 20,476 18,114 24,269
+6 Profit Before Tax 29,697 29,124 28,643 3.7 95,967 76,914 106,017
+7 Tax Expenses 7,530 6,978 6,839 10.1 20,973 18,561 25,230
+8 Profit After Tax 22,167 22,146 21,804 1.7 74,994 58,353 80,787
+9 Share of Profit/(Loss) 
+of Associates & JVs123 (54) 126 - 171 345 522
+10 Profit After Tax and 
+Share of Profit/(Loss) 
+of Associates & JVs22,290 22,092 21,930 1.6 75,165 58,698 81,309
+11 Capital Expenditure#33,826 40,010 32,259 103,711 95,066 131,107
+12 Outstanding Debt 346,896 348,230 350,453 346,896 350,453 347,530
+13 Cash & Cash 
+Equivalents229,794 229,685 234,988 229,794 234,988 230,447
+14 Net Debt 117,102 118,545 115,465 117,102 115,465 117,083
+15 Net Debt to EBITDA* 0.57 0.59 0.60 0.55 0.64 0.64
+#Excluding amount incurred towards spectrum*Annualised
+9M being proceeds of profit from sale of listed investments
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 2 of 20 
+ 
+ 
+Quarterly Performance (3Q FY26 vs 3Q FY25) 
+ Gross Revenue  increased by 10.0% Y-o- 293,829 crore ($ 32.7 billion) 
+o JPL revenue increased by 12.7% Y-o-Y led by robust subscriber addition, increase in ARPU and 
+scale-up of digital services. 
+o RRVL revenue increased by 8.1% Y-o-Y, with growth across all consumption baskets driven by 
+festive buying and wedding season. Distribution of festive buying between 2Q and 3Q, impact of 
+consumer products division demerger and GST rationalization constrained top-line growth. 
+o Oil to Chemicals (O2C) revenue increased by 8.4% Y-o-Y. Production meant for sale increased by 
+1.7% on a Y-o-Y basis. Additionally, c -bp expanded 
+its network by 14% Y-o-Y to 2,125 outlets, driving volume growth of 24.7% for HSD and 20.8% for 
+MS. 
+o Oil and Gas segment revenue decreased by 8.4% Y-o-Y mainly on account of lower volumes and 
+price realisation for KGD6 gas and condensate. 
+ EBITDA increased by 6.1% Y-o- 50,932 crore ($ 5.7 billion). 
+o JPL EBITDA increased by 16.4% Y-o-Y driven by strong momentum in revenue and operating 
+leverage leading to 170 bps margin expansion. 
+o RRVL EBITDA increased marginally 15 crore with an EBITDA margin of 8.0%. 
+o O2C EBITDA increased by 14.6% Y-o-Y with sharp increase in transportation fuel cracks, higher 
+volumes and higher Sulphur realization partially offset by decline in downstream chemical margins 
+and higher feedstock freight rates. 
+o Oil and Gas segment EBITDA decreased by 12.7% Y-o-Y following lower revenues and higher 
+operating cost due to maintenance activities. 
+ Depreciation  increased by 10.9% Y-o- 14,622 crore ($ 1.6 billion). 
+ Finance Costs  increased by 7.0% Y-o- 6,613 crore ($ 736 million), largely due to 
+operationalisation of 5G spectrum assets. 
+ Tax Expenses  increased by 10.1% Y-o-Y at 7,530 crore ($ 838 million). 
+ Profit After Tax and Share of Profit/(Loss) of Associates & JVs  increased by 1.6% Y-o-Y to  
+22,290 crore ($ 2.5 billion). 
+ Capital Expenditure for the quarter ended 31st December, 2025, stood at 33,826 crore ($ 3.8 billion)  
+driven by investments in ongoing growth projects in O2C and New Energy businesses; and continued 
+capital outlay towards strengthening and expansion of the Jio and Retail network and infrastructure . 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 3 of 20 
+ 
+ 
+Commenting on the results, Mukesh D. Ambani, Chairman and Managing Director, Reliance 
+Industries Limited said :  FY26 reflects consistent financial 
+delivery and operational resilience across businesses. 
+products, we are connecting mobile phones, homes, appliances and enterprises. The synergistic value 
+delivered by our connectivity and media platforms has meaningfully increased customer engagement. This 
+quarter, Jio expanded its subscriber base further, through attractive propositions enabled by its 
+comprehensive, indigenous technology stack tailored for Indian markets. The business delivered a robust 
+financial performance with 16.4% growth in EBITDA. 
+Our Retail business also had an eventful quarter, strengthening its portfolio with the onboarding of fresh 
+new brands and product ranges. The demerger of consumer products business came into effect this 
+quarter. With a broad and diverse product basket ranging from classic Indian brands to new age labels, the 
+consumer products vertical is progressing on its accelerated growth trajectory with a focused organizational 
+structure. Our deep, omni-channel presence across the nation and strong traction in hyperlocal quick 
+deliveries supported a resilient performance by the Retail business.  
+Robust growth in O2C business was led by significantly higher fuel margins with favorable demand-supply 
+dynamics, along with operational flexibility. I am happy to highlight the strong growth in our fuel retailing 
+business, with continuing expansion of the Jio-bp network. Upstream segment EBITDA was impacted by 
+lower volumes and prices. 
+obust cash-flows and balance sheet strength have been recognized by international rating 
+-  
+Reliance is entering a new phase of value creation with its initiatives in the AI and New Energy domains. I 
+am confident that Reliance will play a pioneering role in the evolution of these epoch-defining technologies, 
+providing sustainable solutions at scale for India and the world.  
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 4 of 20 
+ 
+ 
+CONSOLIDATED JIO PLATFORMS LIMITED  
+Quarterly Revenue 43,683 crore, up 12.7% Y-o-Y 
+Quarterly EBITDA 19,303 crore, up 16.4% Y-o-Y 
+Jio 5G subscribers crossed 250 million, and Fixed Broadband base crossed 25 million 
+Jio Airfiber becomes first FWA service globally to surpass 10 million subscribers 
+Total subscriber base of over 515 million  
+Customer engagement continues to remain strong on the back of 5G and Fixed Broadband 
+adoption with total data traffic increasing 34% Y-o-Y to over 62 Exabytes 
+ 
+ 
+A. FINANCIAL RESULTS           
+                                                                                                                                                                            ( in crore) 
+Sr. 
+No. Particulars  3Q  
+FY26 2Q  
+FY26 3Q 
+FY25 % chg. 
+Y-o-Y 9M  
+FY26 9M  
+FY25 FY25 
+1 Gross Revenue 43,683 42,652 38,750 12.7 127,389 110,417 150,270 
+2 Revenue from 
+Operations 37,262 36,332 33,074 12.7 108,626 94,232 128,218 
+3 EBITDA 19,303 18,757 16,585 16.4 56,195 47,154 64,170 
+4 EBITDA Margin (%)* 51.8 51.6 50.1 170 bps 51.7 50.0 50.0 
+5 Depreciation 6,939 6,675 6,092 13.9 20,093 17,932 24,138 
+6 Finance Costs 2,140 2,145 1,284 66.7 6,390 3,543 4,905 
+7 Tax Expenses 2,595 2,558 2,348 10.5 7,594 6,581 9,007 
+8 Profit After Tax 7,629 7,379 6,861 11.2 22,118 19,098 26,120 
+9 Share of Profit/(Loss) of 
+Associates & JVs 0 (4) (4) - (4) (12) (11) 
+10 Profit After Tax and 
+Share of Profit/(Loss) of 
+Associates & JVs 7,629 7,375 6,857 11.3 22,114 19,086 26,109 
+* EBITDA Margin is calculated on Revenue from Operations 
+ 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 5 of 20 
+ 
+ 
+Quarterly Performance (3Q FY26 vs 3Q FY25) 
+ Operating revenue (net of GST) growth driven by robust subscriber addition, ARPU growth and  
+scale-up of digital services. 
+ Robust 16.4% EBITDA growth driven by higher revenue and margin improvement. 
+ Margin increase of 170 bps Y-o-Y was led by higher ARPU and operating leverage. 
+ 
+B. OPERATIONAL UPDATE 
+Sr. 
+No. Particulars  UoM 3Q 
+FY26 2Q 
+FY26 3Q 
+FY25 % chg. 
+Y-o-Y FY25 
+1 Customer Base Million 515.3 506.4 482.1 6.9 488.2* 
+2 ARPU  per subscriber 
+per month 213.7 211.4 203.3 5.1 196.1 
+3 Data Traffic billion GB 62.3 58.4 46.5 34.0 184.5 
+4 Voice Traffic trillion minutes 1.53 1.50 1.46 4.8 5.80 
+* for exit quarter 
+ ARPU increased  213.7 with higher customer engagement, partly offset by promotional offers for 
+unlimited 5G and Fixed Broadband services. 
+ Per capita data consumption was 40.7 GB/ month with total data traffic growth of 34% Y-o-Y during  
+3Q FY26. 
+ Monthly churn was stable at 1.8% with net subscriber addition of 8.9 million during the quarter. 
+ 
+C. STRATEGIC PROGRESS  
+ 
+ Total 5G subscriber base reached 253 million as of December 2025. 5G now accounts for ~53% of 
+total wireless traffic driven by consistent increase in customer engagement. 
+ During the quarter, total connected premises with fixed broadband increased to 25.3 million. JioAirFiber 
+continued to accelerate the pace of subscriber additions with a base of over 11.5 million as of 
+December 2025. 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 6 of 20 
+ 
+ 
+ Jio launched the Jio-Gemini offer during the quarter and expanded eligibility for all unlimited 5G users. 
+Every eligible user would get free access to 18-month subscription of Gemini Pro plan valued at                    
+ 35,100. The subscription gives access to Gemini 3.0 Pro model in the Gemini app, higher limits to 
+generate stunning images and videos with the state-of-the-art Nano Banana and Veo 3.1 models, 
+expanded access to NotebookLM for study and research, 2 TB of cloud storage and more.  
+ 
+monthly plans which would allow users to enjoy ad-free, offline, background viewing of YouTube 
+content on large screen along with YouTube Music Premium. 
+ JioAICloud continued to grow its user base with ~50 million registered users as of December 2025 with 
+a targeted campaign focused on youth and students. In addition, features were further enhanced with 
+introduction of Gujarati and Marathi in voice search engine, and AI driven auto-organisation of files. 
+ To enhance safety and offer seamless travel experience on National Highways, NHAI signed a 
+Memorandum of Understanding (MoU) with Jio to introduce a telecom-based safety alert system across 
+Nat
+warnings on their mobile phones as they approach identified risk locations such as accident-prone 
+stretches, stray-cattle zones, fog-affected areas and emergency diversions. 
+ 
+D. LEADERSHIP QUOTE 
+Mr. 
+over 500 million subscriber base, deep customer insights and pan India distribution network will 
+empower Reliance Intelligence to achieve its aim to make India not just AI-enabled but AI-empowered 
+- where every citizen and enterprise can harness AI tools to create, innovate and grow. This will drive 
+sustained value creation for all stakeholders in the coming years.   
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 7 of 20 
+ 
+ 
+CONSOLIDATED RELIANCE RETAIL VENTURES LIMITED  
+Quarterly Revenue  97,605 crore, up 8.1% Y-o-Y 
+Quarterly EBITDA 6,915 crore, up 1.3% Y-o-Y 
+No. of transactions during the quarter crossed milestone of 500 million 
+431 new stores opened 
+ 
+ 
+A. FINANCIAL RESULTS           
+                                                                                                                                                         (  in crore) 
+Sr. 
+No. Particulars 
+ 3Q 
+FY26 2Q 
+FY26 3Q 
+FY25 % chg. 
+Y-o-Y 9M  
+FY26 9M  
+FY25 FY25 
+1 Gross Revenue 97,605 90,018 90,333 8.1 271,794 242,250 330,870 
+2 Revenue from 
+Operations 86,951 79,128 79,595 9.2 239,799 212,357 290,979 
+3 EBITDA from 
+Operations 6,770 6,624 6,632 2.1 19,438 17,755 24,265 
+4 Investment Income 145 192 196 (26.0) 674 587 788 
+5 EBITDA 6,915 6,816 6,828 1.3 20,112 18,342 25,053 
+6 EBITDA Margin (%)* 8.0 8.6 8.6 (60 bps) 8.4 8.6 8.6 
+7 Depreciation 1,576 1,547 1,507 4.6 4,638 4,594 5,996 
+8 Finance Costs 578 596 666 (13.2) 1,766 1,785 2,465 
+9 Tax Expenses 1,210 1,216 1,197 1.1 3,429 3,120 4,204 
+10 Profit After Tax 3,551  3,457 3,458 2.7 10,279 8,843 12,388 
+11 Share of Profit/(Loss) 
+of Associates & JVs 7 (18) 27 - (15) 30 4 
+12 Profit After Tax and  
+Share of Profit/(Loss) of 
+Associates & JVs  3,558 3,439 3,485 2.1 10,264 8,873 12,392 
+* EBITDA Margin is calculated on Revenue from Operations 
+ 
+ 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 8 of 20 
+ 
+ 
+Quarterly Performance (3Q FY26 vs 3Q FY25) 
+ Business delivered steady performance during the quarter with 97,605 crore, up 8.1% 
+Y-o-Y. 
+ Reported 915 crore and EBITDA margin of 8.0%. 
+ 770 crore. 
+ The demerger of consumer products division was completed during the quarter. 
+ 
+ 
+ 
+B. OPERATIONAL UPDATE 
+Sr. 
+No. Particulars UoM 3Q 
+FY26 2Q 
+FY26 3Q 
+FY25 % chg. 
+Y-o-Y FY25 
+1 Stores Number 19,979 19,821 19,102 4.6 19,340 
+2 Area Operated Million Sq. ft. 78.1 77.8 77.4 0.9 77.4 
+3 Registered 
+Customer Base Million 378 369 338 11.8 349 
+4 Number of 
+Transactions Million 524 434 355 47.6 1,393 
+ 
+ The business expanded its store network with 431 new store openings, taking the total store count to 
+19,979 with area under operation at 78.1 million sq. ft. 
+ The registered customer base grew to 378 million, making Reliance Retail one of the most preferred 
+retailers in the country. 
+ 
+ 
+ 
+ 
+ 
+ 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 9 of 20 
+ 
+ 
+Quarterly Performance (3Q FY26 vs 3Q FY25) 
+Grocery  
+ The business delivered consistent performance underpinned by uptick in festive demand. 
+ Key categories maintained the growth on a Y-o-Y basis: Dairy, Frozen & Bakery grew by 23%, Staples 
+grew by 19%, and Packaged Foods grew by 15%. 
+ Festive momentum was sustained by focusing on the gifting in Food categories. High-traction 
+categories included Namkeen (+40%), Chocolates (+32%), Sweets (+10%), and Dry Fruits (+13%). 
+ Metro continued its steady performance, driven by increase in customer footfalls and an expansion 
+of wallet share. 
+ The Metro Wholesale Utsav marketing campaign was successfully executed. 
+ 
+JioMart 
+ JioMart maintained its operational footprint across 5,000+ pin codes and 1,000+ cities, serviced by a 
+network of over 3,000 stores. 
+ The platform crossed exit daily orders of 1.6 million and recorded 53% Q-o-Q and 360%+ Y-o-Y 
+growth in average daily orders, establishing itself as the fastest-growing player in hyper-local 
+commerce. 
+ Customer acquisition accelerated during the quarter with addition of 5.9 million new customers and 
+total customer base expanded by 43% Y-o-Y. 
+ Continued addition of dark stores reduced the average delivery distance per order. 
+ Customer loyalty continued to be an industry differentiator, with transaction frequency reaching nearly 
+2X of competition. 
+ JioMart strengthened its marketplace by growing its merchant network 22% Y-o-Y, along with an 
+expanded catalogue offering increased choice for customers. 
+ 
+Fashion and Lifestyle 
+ The Fashion & Lifestyle business operates the industry's largest omni-channel network, spanning 
+across more than 1,300 cities. 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 10 of 20 
+ 
+ 
+ The business maintained steady performance, supported by festive demand and seasonal 
+assortment execution, partially impacted by festive demand being spread across Q2 and Q3. 
+ Within Lingerie business, brands extended into new categories, including the launch of premium 
+thermal wear and specialized winter outerwear. 
+ The product portfolio was further diversified through the expansion of the Ethnic Coord collection, 
+alongside the introduction of  Greatest Fits and Party Wear range. 
+ Customer engagement was driven through a combination of festive events and various celebrity-led 
+western wear marketing campaigns. 
+ Ajio delivered consistent growth throughout the period, driven by promotions and festive buying which 
+resulted in an average basket value increase of 21% Y-o-Y. 
+ product catalogue reached over 2.8 million options, marking a 27% Y-o-Y increase 
+driven by the addition of more than half a million new items in the last twelve months. 
+ Ajio Rush expanded its reach to 420 pin codes across 10 cities, while the next-day delivery service 
+was scaled to cover the top 26 cities. 
+ Shein booking revenue continued to scale, driven by strong user traction with app installs exceeding 
+6.5 million and a twofold expansion of the product portfolio to over 50,000 options. 
+ The Premium Brands delivered a steady performance, which was underpinned by festive demand 
+and the launch of new seasonal collections. 
+ The business entered into an exclusive partnership with Fabletics, an American women's athleisure 
+brand. 
+ The business launched its first store of Hugo Blue, a Gen Z-focused denim line and the first Steve 
+Madden Accessories store located in Delhi. 
+ Ajio Luxe continued to expand its catalogue; its brand portfolio grew by 41% Y-o-Y, with the option 
+count growing by 21% Y-o-Y. 
+ The Jewels business recorded strong performance driven by festive and wedding-related demand, 
+resulting in a 73% Y-o-Y increase in average bill value. 
+ Achieved best-ever Dhanteras sales, marking a 21% LFL growth compared to the previous year. 
+ The contribution of old gold exchange rose to 29% of total business, up from 21% during the same 
+period last year. 
+ 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 11 of 20 
+ 
+ 
+Consumer Electronics 
+ The Digital stores delivered strong performance during the festive quarter, driven by year-end 
+campaigns and GST-led price resets for air conditioners and televisions. 
+ Performance across key categories saw double digit Y-o-Y growth, with Laptops increasing by 46%, 
+Mobiles by 38%, TVs by 25%, and Appliances by 19%. 
+ The Festival of Electronics, the flagship festive campaign, delivered a 32% Y-o-Y growth and 
+registered the highest ever single-day sales on Dhanteras. 
+ The resQ service arm continued to scale its operations, expanding its service network to 1,611 
+locations, representing a 9.4% Y-o-Y increase. 
+ The JioMart Digital business expanded its merchant partner base and recorded its highest ever 
+quarterly sales figures within the mobile phone and television categories. 
+ 
+C. LEADERSHIP QUOTE 
+Isha M. Ambani, Executive Director, Reliance Retail Reliance Retail delivered a 
+steady quarterly performance, serving millions of customers across their shopping needs. By prioritizing 
+trend-focused assortments and seamless omni-channel experiences, we continue to foster strong 
+customer engagement and loyalty. As we navigate a shifting consumer landscape, we remain steadfast 
+in our vision to redefine Indian retail through innovation and excellence." 
+  
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 12 of 20 
+ 
+ 
+OIL TO CHEMICALS (O2C) SEGMENT 
+ 
+Quarterly Revenue  162,095 crore ($ 18.0 billion), up 8.4% Y-o-Y 
+Quarterly EBITDA  16,507 crore ($ 1.8 billion), up 14.6% Y-o-Y, with 60 bps margin expansion 
+Jio-bp now operates a strong country-wide network of 2,125 fuel retail outlets 
+ 
+A. FINANCIAL RESULTS           
+( in crore) 
+Sr. 
+No. Particulars 3Q 
+FY26 2Q 
+FY26 3Q 
+FY25 % chg. 
+Y-o-Y 9M 
+FY26 9M 
+FY25 FY25 
+1 Revenue 162,095 160,558 149,595 8.4 477,457 462,308 626,921 
+2 Exports 66,830 70,955 67,672 (1.2) 197,030 209,766 283,515 
+3 EBITDA 16,507 15,008 14,402 14.6 46,026 39,908 54,988 
+4 EBITDA Margin (%) 10.2 9.3 9.6 60 bps 9.6 8.6 8.8 
+5 Depreciation 2,586 2,448 1,583 63.4 7,024 5,790 7,731 
+ 
+Quarterly Performance (3Q FY26 vs 3Q FY25) 
+ Segment Revenue for 3Q FY26 is higher by 8.4% Y-o- 162,095 crore ($ 18.0 billion). Production 
+meant for sale increased by 1.7% on a Y-o-Y basis. Fuel retailing operations through Jio-bp expanded 
+its network by 14% Y-o-Y to 2,125 outlets, driving volume growth of 24.7% for HSD and 20.8% for MS. 
+ Segment EBITDA for 3Q FY26 increased by 14.6% Y-o- 16,507 crore ($ 1.8 billion) due to sharp 
+increase in transportation fuel cracks and higher Sulphur realisation partially offset by weakness in 
+downstream chemical margins and higher feedstock freight rates. Favorable ethane cracking 
+economics and domestic market placements continued to support profitability. 
+  
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 13 of 20 
+ 
+ 
+B.  OPERATIONAL UPDATE  
+Sr. 
+No. Particulars UoM 3Q 
+FY26 2Q 
+FY26 3Q 
+FY25 % chg. 
+Y-o-Y FY25 
+1 Total Throughput MMT 20.6 20.8 20.2 2.0  80.5 
+2 Production meant for 
+Sale* MMT 18.2 18.1 17.9 1.7 71.2 
+* Production meant for Sale denotes Total Production adjusted for Captive Consumption 
+ Maximised refinery utilization to capture high margins. Agile crude sourcing helped sustain throughput 
+despite procurement challenges. 
+ Record gasifier output, calibrated liquid fuel mix and optimized grid power sourcing led to lower fuel 
+cost. 
+ Aromatics production optimized due to low margins, prioritizing high value transportation fuel output. 
+ Freight cost optimized with cargo aggregation, backhaul and service-mix flexibility. Partial resumption 
+of Red Sea route also benefitted operations. 
+ 
+Business Environment  
+ In 3Q FY26, global oil demand rose by 0.6 mb/d Y-o-Y to 104.7 mb/d. Jet/Kero demand was up by 0.4 
+mb/d Y-o-Y, Gasoline demand grew by 0.3 mb/d Y-o-Y and Diesel demand rose by 0.2 mb/d Y-o-Y. 
+ Dated Brent averaged $ 63.7/bbl in 3Q FY26, down $ 11.1/bbl (-14.7%) Y-o-Y. Crude oil benchmarks 
+declined Y-o-Y on expectations of a potential oil supply surplus in 2026 caused by higher OPEC+ output 
+and moderate demand growth. Chinese stock (SPR) builds supported prices. 
+ Global refinery crude throughput was higher by 0.84 mb/d Y-o-Y at 82.9 mb/d in 3Q FY26. 
+ Domestic oil demand grew by 2.2% Y-o-Y to 62.9 MMT, led by gasoline (+5.7%), gasoil (+3.2%) and 
+jet/kero (+2.6%). 
+ During 3Q FY26 polymer domestic demand grew by 2.0% Y-o-Y.  Polypropylene (PP) demand went up 
+8.4% supported by raffia, furniture, household goods, appliances, paints, automotive, hygiene, and 
+medical sectors. Polyethylene (PE) demand increased 3.8% Y-o-Y, driven primarily by FMCG, pharma, 
+agrochemicals and multi-layer films segments. Polyvinyl Chloride (PVC) demand declined 11.8% due 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 14 of 20 
+ 
+ 
+to prolonged monsoon conditions which impacted the pipe demand in agriculture and construction 
+sector. 
+ On Y-o-Y basis, domestic polyester demand declined by 3.8%. Polyester Staple Fiber (PSF) demand 
+increased by 4.9%, supported by higher cotton prices driving substitution toward man-made fibers and 
+relatively lower imports from China, while Polyester Filament Yarn (PFY) demand declined marginally 
+by 0.8% due to weak downstream demand and higher PTY imports. Polyethylene Terephthalate (PET) 
+demand fell sharply by 15.3% as prolonged heavy monsoons reduced operating rates in the beverage 
+sector. 
+ 
+3Q FY26 Performance 
+ Transportation fuels cracks saw a robust Y-o-Y increase in 3Q FY26. 
+o Singapore Gasoline 92 RON cracks improved to $ 13.4/bbl in 3Q FY26 vs $ 6.5/bbl in 3Q FY25 as 
+lower Chinese exports and several FCC unit outages in the region restricted the supply. 
+o Singapore Gasoil 10-ppm cracks increased to $ 24.5/bbl in 3Q FY26 vs $ 15.1/bbl in 3Q FY25 due 
+to continued disruptions in Russian supply and unplanned outages in other regions. US/EU 
+sanctions on Russian refiners further tightened fuel markets. 
+o Singapore Jet/Kero cracks rose to $ 24.6/bbl in 3Q FY26 vs $ 14.8/bbl in 3Q FY25, supported by 
+strong demand growth owing to winter heating demand. 
+ US Ethane price averaged 26.7 cpg, up by 21.3% Y-o-Y in line with higher US Natural gas prices. 
+ Polymer margins witnessed mixed trends amid lower naphtha prices. PE margins increased by 6.0%, 
+while PP and PVC margins declined by 12.0% and 5.3% respectively. 
+o Singapore Naphtha price declined by 14.3% to $ 545/MT due to lower crude price and weak 
+downstream demand. 
+o EDC price averaged at $ 188/MT, down 34.8% due to subdued PVC demand. 
+o PE margin over Naphtha increased to $ 311/MT in 3Q FY26 from $ 294/MT in 3Q FY25, despite 
+lower product prices, driven by sharp correction in Naphtha prices. 
+o PP margin over Naphtha decreased to $ 271/MT during 3Q FY26 from $ 308/MT in 3Q FY25, as 
+subdued demand weakened product prices outweighing the drop in Naphtha prices.  
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 15 of 20 
+ 
+ 
+o PVC margin over EDC and Naphtha decreased to $ 342/MT in 3Q FY26 as against $ 361/MT in 
+3Q FY25. Benefit of sharp decline in EDC and Naphtha prices was negated by reduction in product 
+prices on account of subdued demand. 
+ Polyester chain margin declined marginally to $ 427/MT in 3Q FY26 from $ 430/MT in 3Q FY25, due 
+to weak MEG and downstream polyester delta offset by higher PX delta. 
+o Polyester product margins weakened amid muted textile demand and continued competitive 
+pressure across key export markets. 
+o PX margins strengthened with higher demand from new PTA capacities and sharp drop in 
+feedstock prices. 
+ 
+Jio-bp update 
+ Reliance BP Mobility Limited (RBML) (operating under brand Jio-bp) operates a country-wide network 
+of 2,125 outlets (vs 1,865 in 3Q FY25). 
+ Jio-
+consumer, clubbed with superior loyalty programs, continue to help the business outperform the market 
+with high fleet and on-demand door-delivery sales. Jio-bp along with IndusInd Bank & RuPay launched 
+first-of-its-kind co-branded card, the new 'Mobility+ Credit Card', offering fuel benefits, lifestyle perks, 
+and UPI convenience for India's on-the-go consumers. 
+ RBML quarterly sales for HSD grew by 24.7% and MS grew by 20.8% on Y-o-Y basis as against 
+industry sales volume growth rate of 3.1% for HSD and 5.5% for MS. 
+ RBML also provides new-age, clean mobility solutions including EV charging infrastructure and gas 
+distribution.  
+ Under Jio-bp Pulse, RBML has established a network of over 6,815 live charging points at 980 unique 
+sites with industry leading charger uptime. 
+ RBML has expanded Gas Mobility network to 121 sites. CBG retail network, under Clean N Green 
+initiative, has touched 75 RBML also 
+operates 46 CNG outlets, with focus on accelerating the further rollout. 
+  
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 16 of 20 
+ 
+ 
+OIL AND GAS (EXPLORATION AND PRODUCTION ) SEGMENT  
+Quarterly Revenue 5,833 crore ($ 649 million), down 8.4% Y-o-Y 
+Quarterly EBITDA 4,857 crore ($ 540 million), down 12.7% Y-o-Y 
+ 
+ 
+A. FINANCIAL RESULTS                 
+( in crore) 
+Sr. 
+No. Particulars 3Q 
+FY26 2Q 
+FY26 3Q 
+FY25 % chg. 
+Y-o-Y 9M 
+FY26 9M 
+FY25 FY25 
+1 Revenue 5,833 6,058 6,370 (8.4) 17,994 18,771 25,211 
+2 EBITDA 4,857 5,002 5,565 (12.7) 14,855 16,065 21,188 
+3 EBITDA Margin (%) 83.3 82.6 87.4 (410 bps)  82.6 85.6 84.0 
+4 Depreciation 1,394 1,450 1,342 (3.9) 4,294 4,029 5,348 
+ 
+ 
+Quarterly Performance (3Q FY26 vs 3Q FY25) 
+ 
+ 3Q FY26 revenue is lower by 8.4% Y-o-Y, on account of lower volumes and price realisation for KGD6 
+gas and condensate. 
+ The average price realized for KGD6 gas was $ 9.65/MMBTU in 3Q FY26 vis-à-vis $ 9.74/MMBTU in 
+3Q FY25. The average price realised for CBM gas was $ 9.29/MMBTU in 3Q FY26 vis-à-vis  
+$ 10.58/MMBTU in 3Q FY25. 
+ EBITDA declined by 12.7% on Y-o-Y basis 4,857 crore on Y-o-Y basis following lower revenues 
+and higher operating cost due to maintenance activities.  
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 17 of 20 
+ 
+ 
+B. OPERATIONAL UPDATE 
+ 
+ 
+KGD6: 
+ The average KGD6 production for the 3Q FY26 is 25.6 MMSCMD of gas and 17,290 bbl / day of Oil / 
+Condensate. 
+ 
+CBM: 
+ Second phase of multi-lateral well (MLW) campaign is underway to augment production. Drilling of 17 
+wells has been completed out of 40 MLW wells campaign. 17 wells have been connected to the 
+production system out of which 6 are under production ramp-up. 
+ Current rate of production is 0.92 MMSCMD. 
+  Sr. 
+No. Particulars UoM 3Q 
+FY26 2Q 
+FY26 3Q 
+FY25 % chg. 
+ Y-o-Y FY25 
+1 KGD6 Production BCFe 61.8 63.5 68.5 (9.8) 270.9 
+2 CBM Production BCFe 2.82 2.75 2.65 6.4 10.3 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 18 of 20 
+ 
+ 
+JIOSTAR BUSINESS 
+ 
+JioHotstar averaged 450 million MAUs, on par with the IPL quarter (1Q FY26) 
+winning final game garnered 99 million viewers on Digital, 
+comparable to that of an IPL game 
+Further fortified industry leading TV Entertainment viewership share to 34.6% 
+ 
+A. FINANCIAL RESULTS 
+          ( in crore) 
+Sr. 
+No. Particulars  3Q 
+FY26 2Q 
+FY26 9M 
+FY26 FY25# 
+1 Gross Revenue 8,010 7,232 26,464 11,032 
+2 Revenue from Operations 6,896 6,179 22,676 9,497 
+3 EBITDA 1,303 1,738 4,058 774 
+4 EBITDA Margin (%)* 18.9 28.1 17.9 8.1 
+5 Depreciation 343 323 982 330 
+6 Finance Cost 62 89 269 201 
+7 Tax Expenses 10 4 16 14 
+8 Profit After Tax 888 1,322 2,791 229 
+* EBITDA Margin is calculated on Revenue from Operations 
+# From 14th  to 31st . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 19 of 20 
+ 
+ 
+B. O PERATIONAL UPDATE 
+JioStar 
+ JioStar reported strong 8,010 crore with EBITDA (including other income) 303 crore 
+for 3Q FY26. 
+ Television network reached over 830 million viewers, delivering over 60 billion hours of watch time. 
+ JioHotstar averaged 450 million Monthly Active Users (MAUs); up 13% Q-o-Q and almost on par with 
+th  
+ -o-Y to 34.6% sharei, further 
+solidifying its position as a preferred entertainment destination. 
+ 
+Digital 
+ JioHotstar delivered its highest-ever engagement in Q3 FY26 for entertainment content, driven by Bigg 
+Boss across languages, blockbuster series launches, hit movies like Lokah and Mirai, and a sustained 
+increase in international content consumption. 
+ 
+ 
+ Overall subscriptions grew, driven by higher acquisitions and stable subscriber retention. Growth was 
+led by continuous leveraging of our stacked content calendar across sports and entertainment 
+properties and strategic product initiatives. 
+ Product innovations continued to deepen engagement and drive customer delight through investments 
+in enhanced discovery and recommendations, new sports viewing features such as multi-view and 
+ 
+ Mahabharat: Ek Dharmayudh,  -led show, saw exceptionally strong traction and 
+robust multi-language adoption. 
+ JioHotstar continued to earn strong industry recognition, with Special Ops Season 2  and Criminal 
+Justice: A Family Matter  . Multiple wins at 
+Screenxx Awards 2025, Promax Asia 2025, and strong international nominations across Golden Globes 
+and Critics Choice Awards, underscored nce. 
+Media Release    
+ 
+ 
+Registered Office:  Corporate Communications:  Telephone : (+91 22) 3555 5000  
+Maker Chambers IV Maker Chambers IV  Telefax  :  (+91 22) 3555 5185    
+3rd Floor, 222, Nariman Point 9th Floor, Nariman Point Internet  :  www.ril.com ; investor.relations@ril.com  
+Mumbai 400 021, India Mumbai 400 021, India CIN :   L17110MH1973PLC019786 
+Page 20 of 20 
+ 
+ 
+Sports 
+ JioStar properties delivered unmatched monetisation and consumption across Digital and Linear TV, 
+cementing our position as the definitive home of live sports in India. 
+ ecords shattered; the 
+final was as large as an IPL game with 99 million Digital viewers. 
+ continued to deliver strong viewership; 
+viewers on Linear TV and 142 million on JioHotstar. 
+bilateral series of 2025 with 166 million viewers on Linear TV and 187 million on JioHotstar. 
+ Other key properties, such as Premier League football, and Pro Kabaddi League (PKL) continued 
+strong performance, with PKL reinforcing  -watched sport after 
+Cricket. 
+ 
+Entertainment  
+ JioStar maintained its undisputed #1 position as TV Entertainment viewership share improved by  
+100 bps Y-o-Y to 34.6% shareii; this is close to the combined share of next 3 biggest networks. 
+ In Hindi Speaking Markets (HSM), the network dominated non-fiction genre in Q3, with Colors delivering 
+the top three shows: Laughter Chefs 3, Bigg Boss S19, and Pati Patni Aur Panga . 
+ ued to grow the viewership and maintain leadership positions across 
+their respective markets and genres. 
+ Avatar: Fire and Ash  
+7th highest-grossing market globally, underscoring the growing appetite among Indian viewers for 
+tentpole theatrical experiences. 
+ 
+ 
+ 
+ 
+ 
+i Source: BARC, 2+ India; Share in total includes all genres  
+ii Source: BARC, 2+ India; Share in total includes all genres                                                            

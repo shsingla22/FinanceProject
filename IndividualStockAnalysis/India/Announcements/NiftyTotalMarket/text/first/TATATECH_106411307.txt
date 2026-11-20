@@ -1,0 +1,132 @@
+ 
+ 
+ 
+Tata Technologies Limited  
+Plot No 25, Rajiv Gandhi Infotech Park | Hinjawadi, Pune 411057 | India 
+Tel: +91 20 6652 9090 | Fax: +91 20 6652 9035 
+CIN L72200PN1994PLC013313  
+Email: investor@tatatechnologies.com  
+Website: www.tatatechnologies.com 
+Ref. No.: TTL/COSEC/SE/2025-26/56 
+ 
+October 17, 2025      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dear Sir / Madam, 
+ 
+Subject: Press Release - Tata Technologies collaborates with Synopsys to accelerate 
+Software ‑Defined Vehicle Innovation 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, enclosed herewith is a press release on the captioned subject, the content of which is self-
+explanatory. 
+ 
+This is for your information and records. 
+ 
+Thanking you. 
+ 
+For Tata Technologies Limited 
+ 
+ 
+________________________ 
+Vikrant Gandhe 
+Company Secretary and Compliance Officer 
+ 
+Encl: as above 
+ BSE Limited                                  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai- 400001, India 
+Scrip Code: 544028 National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051, India 
+Trading symbol: TATATECH 
+ 
+© Copyright 2025 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+ 
+ Classification: Public 
+ 
+ | 1
+  
+ 
+Tata Technologies Collaborates with Synopsys to Accelerate 
+Software ‑Defined Vehicle Innovation 
+ The strategic collaboration aims to accelerate Software-Defined Vehicle (SDV) 
+development through early and accelerated verification and validation of 
+electronics systems. 
+ In a recent pilot engagement, the companies delivered a next-gen E/E architecture 
+migration blueprint for a European luxury OEM to accelerate their SDV journey. 
+  
+Pune, Mumbai, Bengaluru, India, 17th October 2025: Tata Technologies (NSE: TATATECH), a global 
+product engineering and digital services company, today announced a strategic collaboration with 
+Synopsys, the leading provider of engineering solutions from silicon to systems, to accelerate the 
+shift towards software-defined mobility. Both companies will leverage each other’s expertise to 
+provide innovative solutions that address SDV complexity and enable OEMs to assume a leadership 
+role in a fast-changing mobility world. 
+ 
+The collaboration aims to empower automotive manufacturers to tackle the complexities of next-
+generation mobility by combining Tata Technologies’ deep domain expertise in vehicle engineering 
+with Synopsys’ industry-leading virtualization  solutions enabling the deployment of electronics 
+digital twins (eDTs). The companies have already started engaging collaboratively with a leading 
+European OEM to deliver business value. The team developed an advanced solution blueprint to 
+transition from the existing E/E architecture to a next-generation software-defined design. Pilot 
+programs with other major OEMs are also underway in North America, Europe, and India.  
+ 
+Commenting on the collaboration, Sriram Lakshminarayanan, Chief Technology Officer at Tata 
+Technologies,  said, “The digital shift is redefining the future of mobility, and our partnership with 
+Synopsys is a purposeful step towards realising a future led by software-defined innovations. As 
+OEMs move to new ways of working, there is a growing demand for engineering and digital 
+services. Together, we are empowering OEMs to deliver safer, smarter, and more sustainable 
+vehicles that enhance the human experience and accelerate the industry’s transition to a 
+software-defined future.” 
+“The complexity of SDV systems requires a new level of collaboration across the automotive 
+ecosystem. By bringing together our world-class digital twin, verification, and IP platforms with 
+Tata Technologies’ engineering expertise and global delivery, we are enabling OEMs to accelerate 
+development, validation and delivery of complex software- and AI-defined vehicles. The 
+collaboration is a great example of how the automotive ecosystem is coming together to 
+accelerate innovation while reducing risk and time to market in a dynamic mobility landscape,” 
+said Tom De Schutter, Senior Vice President, Product Management & Markets Group at Synopsys.  PRESS RELEASE 
+© Copyright 2025 Tata Technologies. All rights reserved. All other 
+trademarks are trademarks of their respective owners. 
+ 
+ 
+ Classification: Public 
+ 
+ | 2 
+The joint effort will span major SDV domains, including ADAS, powertrain, chassis, body, central 
+compute, gateways, infotainment, connectivity, and electrification.  
+Key areas of focus include: 
+ Shift left enablement for developing virtual prototypes, simulation models, and electronics 
+digital twins for early software bring-up and other use cases 
+ Synopsys tools & technologies for performance, power, multiphysics, safety, and reliability 
+analysis for faster ECU development cycles 
+ Tata Technologies’ embedded systems and software solutions for ECU and E/E 
+architecture development  
+ Embedded systems and software verification & validation services aligned with ISO 26262 
+and ASPICE standards 
+The automotive industry is at a pivotal moment, transitioning to connected, electric, and 
+autonomous vehicles where software and AI define the customer experience. Recognizing these 
+rapid advancements, both parties are committed to leveraging their respective expertise and 
+collaborating to address high-value problems and driving innovation in this sector.  
+About Tata Technologies:  
+Tata Technologies ( BSE: 544028, NSE: TATATECH) is a global product engineering and digital 
+services company focused on fulfilling its mission of helping the world drive, fly, build, and farm by 
+enabling its customers to realize better products and deliver better experiences. Tata 
+Technologies is the strategic engineering partner businesses turn to when they aspire to be 
+better. Manufacturing companies rely on Tata Technologies to enable them to conceptualize, 
+develop, and realize better products that are safer, cleaner, and improve the quality of life for all 
+the stakeholders, helping us achieve our vision of #EngineeringABetterWorld 
+For more, visit us at   https://www.tatatechnologies.com  or learn more  here. Follow us 
+on LinkedIn , Instagram , Twitter,  Facebook  , and YouTube  for the latest updates.    
+ 
+Tata Technologies Media enquiries : 
+Nikita Crasta (+91 22 67574600, Nikita.Crasta@adfactorspr.com ) 
+Samir Kumar ( samir.kumar@tatatechnologies.com )  

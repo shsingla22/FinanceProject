@@ -1,0 +1,397 @@
+ 
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 120 43060 00 f: +91 120 4680330  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India    
+ 
+ 
+ 
+July 22, 202 4 
+ 
+ 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH   
+ 
+ 
+Sub.: Financial Results in machine readable / searchable  form at 
+ 
+ 
+Dear Sir /Madam , 
+With reference to your e -mail dated July 17, 2024  requesting us to submit the Financial Results 
+for the quarter ended June 30, 2024  in machine readable/ searchable format , we are enclosing 
+the same in machine readable/ searchable format . 
+ 
+We trust you will find the same  in order.  
+ 
+Thanking you,  
+ For HCL Technologies Limited  
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+Encl .: a/a  
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number : L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Consolidated Statement of Financial Results of HCL Technologies Limited as per Ind AS: 
+Three months ended 
+Particulars 30June 31 March 
+2024 2024 
+(Unaudited) (Audited) 
+(Refer note 6 below) 
+I Revenue 
+Revenue from operations 28,057 28,499 
+Other income 1,103 416 
+Total income 29,160 28,915 
+II Expenses 
+Purchase of stock-in-trade 404 492 
+Oumges in inventories of stock-in-trade 25 18 
+Employee benefits expense 16,410 16,351 
+Outsourcing costs 3,541 3,710 
+Finance costs 191 171 
+Depreciation and amortization expense 998 1,093 
+Other expenses 1,884 1,811 
+Total expenses 23,453 23,646 
+III Profit before tax 5,707 5,269 
+IV Tax expense 
+Current tax 1,252 1,005 
+Deferred tax charge 196 269 
+Total tax expense 1,448 1,274 
+V Profit for the period/ year 4,259 3,995 
+VI Other comprehensive income (loss) 
+(A) (i) Items that will not be reclassified to statement of profit and loss (4) 29 
+(ii) Income tax relatinY, to items that will not be reclassified to - (8) 
+statement of profit and oss 
+(B) (i) Items that will be reclassified to statement of profit and loss 17 (6) 
+(ii) Income tax relating to items that will be reclassified to (42) (84) 
+statement of profit and loss 
+Total other comprehensive income (loss), net of tax (29) (69) 
+VII Total comprehensive income for the period/ year 4,230 3,926 
+Profit (loss) for the period/ year attributable to 
+Owners of the Company 4,257 3,986 
+Non-controlling interest 2 9 
+4,259 3,995 
+Other comprehensive income 
+attributable to (loss) for the period / year 
+Owners of the Company (29) (69) 
+Non-controlling interest - -
+(29) (69) 
+Total comprehensive income 
+attributable to (loss) for the period / year 
+Owners of the Company 4,228 3,917 
+Non-controlling interest 2 9 
+4,230 3,926 
+Earnings per equity share of 'l' 2 each 
+Basic (in 'l') 15.70 14.72 
+Diluted (in 'l') 15.69 14.69 
+Dividend per equity share of 'l' 2 each 
+Interim dividend paid (in 'l') 18 12 
+Total dividend paid (in 'l') 18 12 (t' in crores) 
+Previous year ended 
+30June 31 March 
+2023 2024 
+(Unaudited) (Audited) 
+26,296 109,913 
+344 1,495 
+26,640 111,408 
+468 1,754 
+67 43 
+15,014 62,480 
+3,628 14,578 
+86 553 
+927 4,173 
+1,754 6,860 
+21,944 90,441 
+4,696 20,967 
+1,117 4,626 
+48 631 
+1,165 5,257 
+3,531 15,710 
+- 32 
+- (8) 
+385 943 
+(95) (112) 
+290 855 
+3,821 16,565 
+3,534 15,702 
+(3) 8 
+3,531 15,710 
+289 855 
+1 -
+290 855 
+3,823 16,557 
+(2) 8 
+3,821 16,565 
+13.05 57.99 
+13.03 57.86 
+18 52 
+18 52 
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number : L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Segment Information of Consolidated Financial Results as per Ind AS : 
+Three months ended 
+Particulars 30June 31 March 30June 
+2024 2024 2023 
+(Unaudited) (Audited) (Unaudited) 
+(Refer note 6 below) 
+Revenue from operations from external customers 
+IT and Business Services 20,905 21,240 19,648 
+Engineering and R&D services 4,455 4,695 4,068 
+HCL Software 2,697 2,564 2,580 
+Total 28,057 28,499 26,296 
+Inter-segment revenue 
+IT and Business Services - - -
+Engineering and R&D services - - -
+HCL Software 92 (18 93 
+Total 92 (18' 93 
+Segment revenues 
+IT and Business Services 20,905 21,240 19,648 
+Engineering and R&D services 4,455 4,695 4,068 
+HCL Software 2,789 2,546 2,673 
+Inter-segment elimination (92 18 (93) 
+Total 28,057 28,499 26,296 
+Segment results 
+IT and Business Services 3,478 3,550 3,163 
+Engineering and R&D services 744 952 684 
+HCL Software 573 516 613 
+Total 4,795 5,018 4,460 
+Unallocable expenses (110 (165 (108) 
+Other income 1,022 416 344 
+Profit before tax 5,707 5,269 4,696 
+Tax expense (1,448 (1,274 (1,165) 
+Profit for the period/ year 4,259 3,995 3,531 
+Notes: (1:' in crores) 
+Previous year ended 
+31 March 
+2024 
+(Audited) 
+81,179 
+17,667 
+11,067 
+109,913 
+-
+-
+387 
+387 
+81,179 
+17,667 
+11,454 
+(387 
+109,913 
+13,789 
+3,422 
+2,816 
+20,027 
+(555 
+1,495 
+20,967 
+(5,257 
+15,710 
+1.Assets and liabilities are not identified to any reportable segments, since these are used interchangeably across segments and 
+consequently, the management believes that it is not practicable or meaningful to provide segment disclosures relating to total 
+assets and liabilities. 
+2.Effective April 1, 2024, services related to certain software products, previously under HCL Software, are now managed by IT 
+and Business Services and Engineering and R&D Services segments. Revenues and results have been reported under respective 
+segments, with prior period figures restated. The impact of this change is immaterial for the segments. 
+HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number : L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, % Nehru Place, New Delhi, 110 019 
+Corporate Office : Plot No. 3A, Sector 126, Noida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone: +9111 26436336 
+Standalone Statement of Financial Results of HCL Technologies Limited as per Ind AS: 
+Three months ended 
+Particulars 30June 31 March 
+2024 2024 
+(Unaudited) (Audited) 
+(Refer note 6 below) 
+I Revenue 
+Revenue from operations 11,784 12,077 
+Other income 321 301 
+Total income 12,105 12,378 
+II Expenses 
+Purchase of stock-in-trade 31 49 
+Changes in inventories of stock-in-trade 14 6 
+Employee benefits expense 5,405 5,302 
+Outsourcing costs 1,790 1,836 
+Finance costs 47 34 
+Depreciation and amortization expense 571 604 
+Other expenses 846 841 
+Total expenses 8,704 8,672 
+III Profit before tax 3,401 3,706 
+IV Tax expense 
+Current tax 674 498 
+Deferred tax charge 248 445 
+Total tax expense 922 943 
+V Profit for the period/ year 2,479 2,763 
+VI Other comprehensive income(loss) 
+(A) (i) Items that will not be reclassified to statement of profit and loss - 28 
+(ii) Income tax relatina to items that will not be reclassified to - (8) 
+statement of profit an loss 
+(B) (i) Items that will be reclassified to statement of profit and loss 92 375 
+(ii) Income tax relating to items that will be reclassified to statement of 
+profit and loss (42) (84) 
+Total other comprehensive income(loss), net of tax 50 311 
+VII Total comprehensive income for the period/year 2,529 3,074 
+Earnings per equity share of 't 2 each 
+Basic (in 't) 9.14 10.20 
+Diluted (in 't) 9.14 10.18 
+Dividend per equity share of 't 2 each 
+Interim dividend paid (in 't) 18 12 
+Total dividend paid (in 't) 18 12 ('t in crores) 
+Previous year 
+ended 
+30June 31 March 
+2023 2024 
+(Unaudited) (Audited) 
+11,451 48,118 
+262 1,076 
+11,713 49,194 
+30 135 
+7 10 
+5,185 20,965 
+1,812 7,105 
+29 125 
+506 2,371 
+735 3,027 
+8,304 33,738 
+3,409 15,456 
+703 2,873 
+110 909 
+813 3,782 
+2,5% 11,674 
+- 27 
+- (8) 
+433 532 
+(95) (112) 
+338 439 
+2,934 12,113 
+9.59 43.11 
+9.57 43.02 
+18 52 
+18 52 
+Notes: HCL TECHNOLOGIES LIMITED 
+Corporate Identity Number: L74140DL1991PLC046369 
+Registered Office: 806, Siddharth, 96 Nehru Place, New Delhi, 110 019 
+Corporate Office: Plot No. 3A, Sector 126, Naida 201 304, U.P., India 
+Website: www.hcltech.com; Telephone : +9111 26436336 
+1 The consolidated and the standalone financial results for the three months ended 30 June 2024 were reviewed by the Audit 
+Committee and have been approved and taken on record by the Board of Directors at its meeting held on 12 July 2024. The 
+statutory auditors have issued unmodified review report on these results. 
+2 The Board of Directors have declared an interim dividend of 'U2 per share at its meeting held on 12 July 2024. 
+3 The Group was providing certain business process outsourcing (BPO) services to State Street International Holdings, USA 
+(State Street) and its affiliates through a joint venture. With effect from 1 April 2024, the Group has divested it's stake in the 
+joint venture in favour of State Street and the agreement for related services has also been terminated. Accordingly, the 
+balance sheet of Statestreet HCL Holding UK Limited (and its step down subsidiaries) is de-consolidated from that date. The 
+Group has received consideration of 11,439 crores ($ 172 million) (net of cash of 't 126 crores ($ 15 million) and other net 
+assets of 1106 crores ($13 million) transferred).This has also resulted in gain on divestment in Statement of Profit and Loss 
+for the current quarter. 
+4 On 23 May 2024, the Group has signed a definitive agreement to carve-out and acquire certain assets (CSS) of 
+Communications Technology Group (CTG) from HPE for 11,876 crores ($225 million). Through this arrangement, the Group 
+will acquire intellectual property (IP), Engineering and R&D talent and customer relationships with global Communication 
+Service Providers (CSPs). The transaction is expected to close in next 6-9 months, subject to receipt of applicable regulatory 
+approvals and completion of other customary closing conditions . 
+5 Financial results for all the periods presented have been prepared in accordance with the Companies (Indian Accounting 
+Standards) Rules, 2015 (as amended from time to time) prescribed under Section 133 of the Companies Act, 2013 and other 
+recognised accounting practices and policies to the extent applicable. 
+6 The figures of the last quarter are the balancing figures between audited figures in respect of the full financial year up to 31 
+March 2024 and the unaudited published year-to-date figures up to 31 December 2023 being the date of the end of the third 
+quarter of the financial year which were subjected to a limited review. 
+7 As per Ind AS 108 'Operating Segments', the Company has disclosed the segment information only as part of the 
+consolidated financial results. 
+By the order of the Board of Directors for 
+HCL Technologies Limited 
+ROSHNI ~i~~~f~1~~~by 
+NA DAR MALHOTRA 
+MALHOTRA ~;,~~,;~2:0~~.i~~ 
+Roshni Nadar Malhotra 
+Chairperson 
+DIN -02346621 
+Naida (UP), India 
+12July 2024 VIJAYA 
+KUMAR 
+CHINNAS 
+WAMY Digitally signed 
+byVIJAYA 
+KUMAR 
+CHINNASWAMY 
+Date: 2024.07.12 
+17:15:18 +05'30' 
+C. Vijayakumar 
+Chief Executive Officer and 
+Managing Director 
+DIN -09244485 PRATEEK Digitally signed by 
+PRATEEKAGGARWAL 
+AGGARWAL Date: 2024.07.12 
+17:14:43 +05'30' 
+Prateek Aggarwal 
+Chief Financial Officer 
+B S R & Co. LLP
+Chartered AccountantsBuilding No. 10, 12th Floor, Tower-C
+DLF Cyber City, Phase - II
+Gurugram - 122 002, India
+Tel: +91 124 719 1000
+Fax: +91 124 235 8613
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a 
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 201314th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco 
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 9Limited Review Report on unaudited consolidated financial results of HCL 
+Technologies Limited for the quarter ended 30 June 2024 pursuant to Regulation 33 
+of Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended
+To the Board of Directors of HCL Technologies Limited
+1. We have reviewed the accompanying Statement of unaudited consolidated financial results of HCL 
+Technologies Limited (hereinafter referred to as “the Parent”), and its subsidiaries (the Parent and its 
+subsidiaries together referred to as “the Group”) for the quarter ended 30 June 2024 (“the Statement”), 
+being submitted by the Parent pursuant to the requirements of Regulation 33 of the Securities and 
+Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as 
+amended ("Listing Regulations").
+2. This Statement, which is the responsibility of the Parent’s management and approved by the Parent’s 
+Board of Directors, has been prepared in accordance with the recognition and measurement 
+principles laid down in Indian Accounting Standard 34 “ Interim Financial Reporting ” (“Ind AS 34”), 
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally 
+accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our responsibility 
+is to express a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange 
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+4. The Statement includes the results of the entities mentioned in Annexure I to the Statement:
+5. Attention is drawn to the fact that the figures for the three months ended 31 March 2024 as reported 
+in the Statement are the balancing figures between audited figures in respect of the full previous 
+financial year and the published year to date figures up to the third quarter of the previous financial 
+year. The figures up to the end of the third quarter of previous financial year had only been reviewed 
+and not subjected to audit.

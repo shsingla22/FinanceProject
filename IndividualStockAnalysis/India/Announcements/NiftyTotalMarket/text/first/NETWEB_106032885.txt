@@ -1,0 +1,88 @@
+ 
+Netweb Technologies India Limited  
+(Formerly Known as Netweb Technologies India Private Limited)  
+Plot No. H -1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, 
+Haryana 121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E-mail : complianceofficer @netwebindia.com  
+ CIN : L72100HR1999PLC103911  
+Date: 24.10.2024 
+To,   
+The Manager    
+Listing Department    
+BSE Limited    
+Phiroze Jeejeebhoy Towers Dalal Street   
+Mumbai - 400001    
+Scrip Code: 543945    To,  
+The Manager    
+Listing Department    
+National Stock Exchange of India Limited    
+Exchange Plaza, Bandra Kurla Complex   
+Bandra East, Mumbai - 400051   
+Scrip Code: NETWEB    
+ 
+SUBJECT: INTIMATION OF PRESS RELEASE  
+Dear Sir/ Madam,  
+Please find enclosed herewith the Press Release dated October 24, 2024 , titled Netweb Broadens 
+Range of NVIDIA MGX Platform Servers  issued by the Company.  
+ 
+Kindly take the same on record.  
+Thanking you,  
+For Netweb Technologies India Limited  
+ 
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+M.NO A36610  
+Netweb Broadens Range of NVIDIA MGX Platform Servers  
+INDIA, NEW DELHI, OCT 24, 2024:  
+NETWEB (NSE: NETWEB , BSE : 543945 ), the leading Indian OEM in high -end computing, today 
+announced an expansion to its range of NVIDIA MGX  platform based servers. India’s first ‘Make in 
+India’ Tyrone servers, incorporating NVIDIA MGX -based Grace and NVIDIA GH200 GraceHopper 
+Superchips, will be offered by Netweb for off -prem and on -prem AI cloud infrastructure. This will be 
+combined with alli ed software and services for generative AI and scientific innovations. Netweb 
+currently designs and manufactures more than ten models under its flagship Tyrone range of NVIDIA 
+MGX AI systems.  
+Breakthrough in ‘Make in India’ Sovereign AI Compute Infrastructure  
+Netweb’s exemplary work on end -to-end design, PCBA, production and building block architecture 
+expertise has advanced the R&D, manufacturing and solutions capabilities for  AI in India. Netweb’s 
+long -standing relationship with NVIDIA now includes building India’s own sovereign AI compute 
+infrastructure with both off -prem and on -prem models.  
+“We’ve been collaborating with NVIDIA for more than a decade and through our efforts, we’ve been 
+able to demonstrate that world -class AI technologies for hardware and software can be developed in 
+India using the country’s strong expertise. It’s a clear tes tament to the successful ‘Make in India’ 
+mission,” said Sanjay Lodha , Managing Director & CEO of Netweb Technologies India Ltd.  
+He further added that “large hyperscalers, research centres, PSUs, enterprises and supercomputing 
+centres in India and the APAC regions are the organizations that will most benefit by having access 
+to Tyrone next -generation AI systems. It’s now possible to  build end -to-end AI cloud infrastructure 
+to render services to their users and customers to build and deploy generative AI applications and 
+research applications that leverage proprietary datasets.”     
+“Netweb’s AI system roadmap, based on the NVIDIA MGX modular design, offers flexibility in system 
+configurations to address different types of enterprise data center applications,” said Vishal Dhupar, 
+Managing Director, Asia South at NVIDIA. “Using NVIDIA’ s accelerated computing platform, Netweb 
+is helping to develop sovereign AI infrastructure for India and beyond.”  
+State -of-the-Art Full Stack for AI from Netweb   
+The new range of Tyrone AI systems accelerated by NVIDIA  Grace and Grace Hopper Superchips is 
+powered by a wide range of NVIDIA  and Netweb’s respective software stacks to build the AI cloud 
+infrastructure for off -prem and on -prem scenarios.  
+Tyrone Skylus cloud instances can be created and managed by users and organizations using and 
+taking advantage of the broad software stack, which includes NVIDIA AI Enterprise , NVIDIA  
+Omniverse , Skylus.ai, KubytsHub and Kubyts Flow . This stack introduces cloud instance autonomy 
+leveraging hundreds of pre -compiled/trained frameworks – models, and development tools to 
+structure the development, training and deployment process over AI cloud. This will play a 
+substantial and essential role in Generative  AI , large -scale agentic AI and physical AI workloads, 
+helping users to scale across hundreds and thousands of nodes in an AI cloud.  
+Building Block Rack -Scale Design with Air -Cooled and Liquid -Cooled Architecture  
+Netweb’s NVIDIA MGX systems with different configurations of GPUs, CPUs, and DPUs —including 
+x86 or Arm® CPU servers and NVIDIA OVX ™ servers —are offered focusing on building block and 
+rack -scale architecture. They also offer both direct - to-chip liquid -cooled and air -cooled designs. 
+With direct -to-chip liquid cooling technology, Tyrone AI systems will help build a large AI cloud with 
+much higher TDP limits for GPUs and CPUs,  yet maintaining the best PUE for the AI cloud 
+infrastructure.  
+Netweb at NVIDIA AI Summit India 2024  
+Netweb’s comprehensive range of Tyrone NVIDIA MGX, x86 architecture -based GPU systems for 
+end-to-end AI cloud solutions for CSPs and enterprises, will be demonstrated at the NVIDIA AI 
+Summit at the Jio Convention Centre in Mumbai, 24th and 25th October 2024.  
+ 
+ 
+ 

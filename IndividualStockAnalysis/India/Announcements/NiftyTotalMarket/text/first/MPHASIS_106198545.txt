@@ -1,0 +1,85 @@
+ 
+ 
+ 
+                   
+9 April 2025 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,                                                                        
+MUMBAI - 400 001   
+ The Manager, Listing  
+National Stock Exchange of India Ltd  
+Exchange Plaza, Plot No. c/1,  
+G-Block, Bandra -Kurla Complex,  
+MUMBAI – 400 051  
+ 
+ 
+Dear Sirs,  
+ 
+Sub: Intimation of Press Release  
+ 
+Please find enclosed herewith a press release titled  “Mphasis Granted U.S. Patent for Quantum Prediction 
+System” which is being released from our end.    
+ 
+The press release will also be available on the website of the Company at www.mphasis.com . 
+ 
+We request you to kindly take the above on record as required under the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+          
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Mphasis Limited  
+ 
+ 
+Sivaramakrishnan P  
+Senior Vice President – Corporate FP&A and Company Secretary  
+ 
+Encl: As above  
+ 
+Docusign Envelope ID: 2D36F8E9-E498-4EBC-B4DD-429368859820
+
+Mphasis Granted U.S. Patent for  Quantum Prediction System  
+Bengaluru, April 09 , 2025 
+ 
+Mphasis , (BSE:526299; NSE:  MPHASIS), a leading Information Technology (IT) solutions provider specialising in cloud  and 
+cognitive  services, today announced the award of a U.S. patent on “ System and method for optimized processing of 
+information on quantum systems ”. The  newly issued  patent outlines a pipeline  to improve the scalability and 
+performance of quantum machine learning (QML) on near -term  quantum computing systems including quantum 
+simulators.  
+This solution  transforms high -dimensional classical input data into an enhanced feature space in quantum format. The 
+feature space transformation ensures efficient mapping and preparation for quantum state loading, paving the way for 
+improved quantum data processing an d analysis. The optimal representation method for classical data on quantum 
+systems minimizes the need for additional qubits for higher -dimensional data, handles large feature sets and high 
+volumes of data, and ensures efficient convergence during quantum machine learning (QML) model training . QML 
+leverages its ability to process high -dimensional, complex data, delivering solutions beyond the reach of classical high -
+performance computing hardware.  
+“Quantum Machine Learning (QML) is emerging as a transformat ive paradigm, enabling academia and industry to  solve 
+real-world AI challenges with unprecedented efficiency. This technology and the associated patent stand as a testament 
+to our commitment to innovation and the advancement of next -generation technologies ,” said  Srikumar Ramanathan, 
+Chief Solutions Officer, Mphasis.  
+About Mphasis  
+Mphasis’ purpose is to be the “ Driver in Driverless Car ” for Global Enterprises  by applying next -generation  design, architecture, and 
+engineering services, to deliver scalable and sustainable software and technology solutions.  Customer centricity is foundational to 
+Mphasis and  is reflected in the Mphasis ’Front2Back ™ Transformation approach. Front2Back™ uses the exponential power of cloud 
+and cognitive to provide hyper -personalized ( C=X2C2TM=1) digital experience to clients and their end customers.  Mphasis’ Service 
+Transformation approach helps ‘shrink the core’ through the application of digital technologies across legacy environments wi thin an 
+enterprise, enabling businesses to stay ahead in a changing world. Mphasis’ core reference architectures and tools, speed and 
+innovation with domain expertise and specialization, combined with an integrated sustainability and purpose -led approach across its 
+operations and solutions are key to building strong relationships with marquee clients. Clic k here  to know more.  (BSE: 526299 ; NSE: 
+MPHASIS ) 
+ 
+For further information, please contact:   
+Mphasis Corporate Communications  
+Deepa Nagaraj   
+deepa.nagaraj@mphasis.com  
++ 1 (646) 424 -5160 |+91 9845 256 283   
+ 
+Sumana  Bhat  
+sumana.bhat@mphasis.com  
++91 9902 980 980  
+ 
+Docusign Envelope ID: 2D36F8E9-E498-4EBC-B4DD-429368859820

@@ -1,0 +1,54 @@
+   
+ 
+ 
+ 
+ 
+CC/S&B/ AND/2026-27/                                                                            21.10 .2026   
+ 
+Madam/ Sir,  
+ 
+Disclosure under Regulation 30 of SEBI (LODR) Regulations, 2015 -  
+Incident involving Data Loss  
+ 
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we hereby inform you that the Bank has 
+experienced an incident involving the loss of certain data.  
+On 16 October 2026, the Bank received communications from its Threat Intelligence Service 
+Provider, the Defence Cyber Agency, and CERT -In regarding an alert concerning the suspected 
+exposure of the Bank’s customer data on the dark web.  During  the preliminary analysis of 
+approximately 375,000 records available on the dark web, 3,897 customer records containing 
+Personally Identifiable Information (PII) were identified. The exposed information reportedly 
+included customers’ registered mobile numb ers, dates of birth, names, gender, email addresses, 
+residential addresses, branch and CIF identifiers, lead IDs, and metadata associated with 
+loan/lead records and other related files.  
+A detailed investigation was required to establish the authenticity and completeness of the 
+exposed data, determine the potential source and extent of the exposure, and assess the 
+associated risks to customers and the Bank.  
+The Bank promptly activated its cyber incident response and containment protocols. 
+Additionally, an independent CERT -In-empanelled cybersecurity agency was engaged to 
+conduct a comprehensive assessment and investigate the nature and extent of the alleged 
+compromise.  
+We wish to submit  that this does not have any material impact on Bank’s Core business 
+operations, financial performance or business continuity.  The Bank’s core business functions 
+continue to operate normally without disruptions. A detailed assessment is currently underway  
+and appropriate remedial and preventive measures are being implemented as required.  
+We reassure that the Bank continues to monitor the situation closely and take all appropriate 
+measures in accordance with applicable regulatory requirements.  
+We request you to kindly take note of the above pursuant to Regulation 30 of SEBI (LODR) 
+Regulations, 2015.  
+ 
+Yours faithfully,  
+ 
+ 
+ 
+(Aruna N. Dak ) 
+DGM ( Compliance & Company Secretary ) The Listing Department,    
+BSE Limited,   
+Phiroje Jeejeebhoy Towers,   
+25th Floor, Dalal Street,   
+Mumbai – 400001   The Listing Department,  
+National Stock Exchange of India Limited,   
+Exchange Plaza, 5th Floor,  C / 1, ‘G’ Block,   
+Bandra Kurla Complex, Bandra (East),  
+Mumbai – 400051  
+BSE SCRIP Code: 500112  NSE SCRIP Code: SBIN  

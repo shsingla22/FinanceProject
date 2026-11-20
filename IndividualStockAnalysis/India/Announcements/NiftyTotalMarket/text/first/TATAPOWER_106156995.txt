@@ -1,0 +1,128 @@
+ 
+ 
+ 
+ February 20, 2025 
+ 
+BSE Limited Corporate Relationship Department 
+Phiroze Jeejeebhoy Towers 
+Dalal Street Mumbai – 400 001. 
+Scrip Code: 500400                National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra-Kurla Complex, 
+Bandra (East) Mumbai – 400 051. 
+Symbol : TATAPOWER   
+ 
+Dear Sir/Madam, 
+ 
+Sub.: Press Release  
+ 
+Please find enclosed the press release titled “Tata Power partners with Amazon Web Services to Drive 
+Smart & Consumer-Centric Energy Transition in India.” 
+This is for your reference and records and is not a disclosure in terms of the requirements of  
+Regulation 30 of SEBI (Listing Obligations and  Disclosure Requirements) Regulations, 2015. 
+Yours Sincerely, 
+ For The Tata Power Company Limited 
+ 
+ 
+ 
+                                                               Vispi S. Patel 
+Company Secretary 
+FCS 7021  
+ 
+Encl: As above 
+  
+ 
+ 
+Tata Power par tners with Amazon Web Services to Drive Smart & 
+Consumer -Centric Energy Transition in India  
+National, February  20, 2025: Tata Power - one of India’s largest integrated power companies 
+with presence across T&D, Generation, Trading, Renewables (including Manufacturing), and 
+Energy as a Service (EaaS) - has embarked on a data -driven transformation with Amazon 
+Web Services (AWS) to accelerate the country’s transition to a greener, smarter, and more 
+consumer -centric energy ecosystem.  
+Tata Power is strengthening operational efficiencies, enhancing grid resilience, and 
+empowering its large consumer base, spread across multiple states, to be active participants 
+in India’s clean energy future and transition to a low -carbon economy.  
+India stands at the forefront of a global energy transformation, with the International Energy 
+Agency (IEA) projecting the country to lead global energy demand growth over the next two 
+decades. Tata Power is championing this transition through a strategic collaboration with 
+Amazon Web Services (AWS) to modernize its digital infrastructure and drive intelligent 
+energy management. The evolution of energy systems demands real -time analytics, 
+automation, and decentralized power generation to optimize supply and  demand. 
+Digitalization enables grid stability, predictive maintenance, and seamless energy 
+transactions, ensuring sustainability and operational efficiency. Tata Power’s partnership with 
+AWS exemplifies this digital -first approach, harnessing cloud comput ing, artificial intelligence 
+(AI), and IoT to build a smarter, more efficient power ecosystem.  
+Tata Power has already laid a robust digital foundation by migrating 23 mission -critical 
+applications to AWS using Amazon Elastic Kubernetes Service (EKS). This shift enhances 
+scalability, security, and real -time operational efficiency across key areas suc h as power 
+generation, renewables, grid management, sales, and finance. Additionally, the company has 
+adopted a server -less architecture with AWS Step Functions, optimizing energy transactions 
+and grid operations in response to fluctuating demand patterns.  
+At the core of this transformation are two specialized data lakes dedicated to power generation 
+and renewables, which ingest real -time data from solar farms, wind assets, smart meters, and 
+Industrial IoT devices. Using AWS Glue, Tata Power integrates these  vast datasets into 
+Amazon Simple Storage Service (S3), unlocking AI -powered analytics for predictive 
+maintenance, grid optimization, and demand forecasting.  
+This digital transformation is translating into tangible benefits for both businesses and 
+consumers, making Tata Power a preferred partner of choice for clean and efficient energy 
+solutions. AI -driven insights enable faster outage detection, improved grid stability, and 
+personalized energy recommendations, resulting in cost savings, enhanced reliability, and an 
+accelerated transition to renewables. The modernization effort will pave the way for cutting -
+edge innovations, including blockchain -based energy tra ding, AI -powered demand response 
+solutions, and computer vision for asset monitoring.  
+  
+ 
+Tata Power is driving digital transformation across key operational clusters. In Generation and 
+Renewables, AI -driven predictive maintenance, supply chain & procurement efficiency, and 
+real-time analytics are optimizing plant efficiency and maximizing rene wable energy output. 
+Grid modernization is being advanced through smart IoT integration, enabling automated grid 
+operations that reduce downtime and improve supply -demand balancing. These innovations 
+have led to unprecedented reduction in AT&C losses and o verall operational efficiency across 
+the company's discoms in Delhi, Odisha and Mumbai.  
+Consumer -centric solutions such as Home Automation and EaaS leverage personalized 
+energy insights and blockchain -based  transactions to empower consumers in managing their 
+energy usage efficiently. Additionally, enterprise and finance digitalization is ensu ring 
+operational agility and transparency in energy transactions through cloud -based financial 
+systems.  
+By integrating a cloud -first digital infrastructure, Tata Power is accelerating India’s clean 
+energy shift while setting a global benchmark for sustainable, data -driven power utilities that 
+keep customer empowerment at their core. This collaboration with A WS marks a significant 
+step in redefining energy management for a net -zero future, reinforcing Tata Power’s 
+leadership in smart and sustainable energy solutions.   
+About Tata Power:  
+Tata Power Company Limited, a leading integrated power company and a part of the Tata Group, India's largest 
+multinational business conglomerate, owns a diversified portfolio of 15. 6 GW. This portfolio spans the entire power 
+value chain, from renewable and conventional energy generation to transmission, distribution, trading, storage 
+solutions, and solar cell and module manufacturing. As a pioneer in India's clean energy transition, T ata Power has 
+6.7 GW of clean energy generation, constituting 43% of its total capacity. Committed to ac hieving carbon neutrality 
+before 2045, Tata Power has successfully partnered with public and private entities across India's generation, 
+transmission, and distribution sectors, serving approximately 12.5 million customers nationwide.  To know more 
+about Tata Power, visit www.tatapower.com   
+ 
+Disclaimer:  
+The following press release/announcement may contain forward -looking statements within the meaning of 
+applicable securities laws and regulations. These statements are based on management's current views, 
+expectations, assumptions, and projections regarding  the Company's future performance, business plans, growth 
+prospects, competitive and regulatory environment, and other related matters. Such forward -looking statements 
+are subject to various risks and uncertainties, which may cause actual results to differ  materially from those 
+expressed or implied in the statements. Factors that could cause actual results to differ materially from those 
+contemplated in the forward -looking statements are not limited to changes in economic conditions affecting 
+demand/supply and price conditions in the domestic and overseas markets in which the Company operates, 
+alterations in the business environment, fluctuations in Government regulations, laws, statutes, judicial 
+pronouncements, and other incidental factors. The Company doe s not undertake any obligation to publicly update 
+or revise any forward -looking statements based on subsequent events, information, or developments, except as 
+required by applicable laws and regulations.  
+ 
+For further  information,  please  contact:  
+Tata Power - Corporate Communications  
+ 
+Jyoti Kumar Bansal, Chief – Branding  & 
+Communications, Tata Power  
+Email: jyotikumar.bansal@tatapower.com   
+Siddharth Gaur – Head PR, Tata Power    
+E-mail: Siddharth.gaur@tatapower.com  
+Or 
+Email: mediaquery@tatapower.com   Siddharth Kumar  
+9902929187  
+Email:  siddharth.kumar@adfactorspr.com  

@@ -1,0 +1,318 @@
+Business Responsibility and Sustainability
+Report FY 25
+SECTION A GENERAL DISCLOSURES
+I. Details of the listed entity
+	 1.	 Corporate	Identity	Number	(CIN)	of	the	Listed	Entity
+	 	 L72900MH2012PLC232169
+	 2.	 Name	of	the	Listed	Entity
+  L&T Technology Services Limited
+	 3.	 Year	of	incorporation
+	 	 14	Jun	2012
+	 4.	 Registered	office	address
+	 	 L&T	House,	N.M.	Marg,	Ballard	Estate,	Mumbai	400	001
+	 5.	 Corporate	address
+	 	 West	Block-II,	L&T	Knowledge	City	(IT/ITES)	SEZ,	N.H.	No.	8,	Ajwa	Waghodia	Crossing,	Vadodara	-	390	019
+	 6.	 E-mail
+  corporate.sustainability@ltts.com
+	 7.	 Telephone
+	 	 91-22-68925257
+	 8.	 Website
+  www.ltts.com
+	 9.	 Financial	year	for	which	reporting	is	being	done
+	 	 April	1,	2024	-	March	31,	2025
+	 10.	Name	of	the	Stock	Exchange(s)	where	shares	are	listed
+	 	 BSE	and	NSE
+	 11.	Paid-up	Capital
+	 	 211.76 	million
+	 12.	 	Name	and	contact	details	(telephone,	email	address)	of	the	person	who	may	be	contacted	in	case	of	any	
+queries on the BRSR report
+SL No.Particulars Details
+1.Name Jayashree	Ramasubbu
+2.Designation Chief	Risk	Officer
+3.Telephone	Number +91-22-68925257
+4.Email	ID corporate.sustainability@ltts.com
+	 13.	Reporting	boundary
+	 	 	The	BRSR	report	provides 	details	of	our	non-financial	 performance	 from	April	1,	2024	to	March	31,	2025.	All	
+disclosures 	are	done	on	standalone 	basis	except	energy,	water	and	waste	data	which	is	collected 	from	our	32	major	
+offices	in	India	and	8	major	offices	at	international	 locations.	 2	subsidiary	 companies,	 working	 from	LTTS	Limited	
+premises,	are	considered	in	the	non-financial	disclosures.
+Integrated Annual Report 2024-25
+240
+Sr. No. Attribute Parameter Unit of Measures Reporting	Boundary
+1 Green-house	gas	(GHG) 	
+footprint	Greenhouse 	
+gas	emissions	may	be 	
+measured	in	accordance 	
+with	the	Greenhouse 	
+Gas	Protocol:	A 	
+Corporate	Accounting 	
+and	Reporting	StandardTotal	Scope	1	emissions	(Break-up	of	the	GHG 	
+into	CO2,	CH4,	N2O,	HFCs,	PFCs,	SF6,	NF3,	if 	
+available)Total	emissions	(tCO2e) Boundary	of	assurance	covers	data	from	1	Apr 	
+2024	to	31	Mar	2025.	This	data	is	from	the	DG 	
+set	emissions	and	fugitive	emissions	from	our	15 	
+Indian	locations
+Total	Scope	2	emissions	(Break-up	of	the	GHG 	
+(CO2e)	into	CO2,	CH4,	N2O,	HFCs,	PFCs,	SF6, 	
+NF3,	if	available)Total	emissions	(tCO2e) Boundary	of	assurance	covers	data	from	1	Apr 	
+2024	to	31	Mar	2025.	This	data	is	from	the 	
+purchased	electricity	emissions	from	our	32 	
+Indian	locations.
+Total	Scope	1	and	Scope	2	emission	intensity 	
+per	rupee	of	turnovertCO2e/Total	Revenue	from	Operations Boundary	of	assurance	covers	data	from	1 	
+Apr	2024	to	31	Mar	2025.	This	data	is	from 	
+the	DG	set	emissions,	fugitive	emissions	and 	
+purchase	electricity	emissions	from	our	32	Indian 	
+locations.
+Total	Scope	1	and	Scope	2	emission	intensity 	
+per	rupee	of	turnover	adjusted	for	Purchasing 	
+Power	Parity	(PPP)tCO2e	/	Total	Revenue	from	Operations 	
+adjusted	for	PPPBoundary	of	assurance	covers	data	from	1 	
+Apr	2024	to	31	Mar	2025.	This	data	is	from 	
+the	DG	set	emissions,	fugitive	emissions	and 	
+purchase	electricity	emissions	from	our	32	Indian 	
+locations.
+Total	Scope	1	and	Scope	2	emissions	(MT)	/ 	
+Total	Output	of	Product	or	ServicestCO2e/Total	Output	of	Product	or	Services NA
+2 Water	footprint Total	water	consumption KL The	BRSR	report	provides	details	of  
+our	non-financial	performance	from  
+April	1,	2024	to	March	31,	2025.	The  
+data	is	collected	from	our	32	major  
+offices	in	India	and	6	major	offices	at  
+international	locations.Water	consumption	intensity KL	/	Total	Revenue	from	Operations
+KL	/	Rupee	adjusted	for	PPPKL	/	Product	or	Service
+Water	Discharge	by	destination	and	levels	of 	
+TreatmentKL
+3 Energy	footprint Total	energy	consumed Giga	Joules	(GJ) Boundary	of	assurance	covers	data	from	April 	
+1,	2024	to	March	31,	2025.	This	data	is	from 	
+the	renewable	and	non	renewable	energy 	
+consumption	from	32	Indian	offices	and	8 	
+international	offices%	of	energy	consumed	from	renewable	sources In	%	terms
+Energy	intensity GJ/	Total	Revenue	from	OperationsGJ/	Rupee	adjusted	for	PPPGJ/	Total	Output	of	Product	or	Services
+Integrated	
+ReportManagement
+Discussion	and	
+AnalysisStatutory 
+ReportsFinancial	
+Statements
+Integrated Annual Report 2024-25
+241
+
+Sr. No. Attribute Parameter Unit of Measures Reporting	Boundary
+4 Embracing	circularity	- 	
+details	related	to	waste 	
+management	by	the 	
+entityPlastic	waste	(A) MT Boundary	of	assurance	covers	data	from	April	1, 	
+2024	to	March	31,	2025.	This	data	is	from	10 	
+major	Indian	officesE-waste	(B) MT
+Bio-medical	waste	(C) MT
+Construction	and	demolition	waste	(D) MT
+Battery	waste	(E) MT
+Radioactive	waste	(F) MT
+Other	Hazardous	waste	(G)
+(i)	Discarded	Containers	/	Barrels	/	liners MT
+(ii)	Chemical	Sludge	(ETP	Sludge) MT
+(iii)	Oil-soaked	Cotton	Waste MT
+(iv)	Used	/	Spent	Oil	(MT) MT
+Non-hazardous	wasteMisc	Waste MT
+Total	Non-Hazardous	Waste	(H) MT
+Dry	leaves	&	garden	wasteFood	WastePackaging	waste	(corrugated	boxes	&	wood)Paper	&	Packaging	wasteScrapTotal	(A+B	+	C	+	D	+	E	+	F	+	G+	H) MT
+Waste	intensity	per	rupee	of	turnover	from 	
+operationsMetric	tonnes	/Total	Revenue	from	Operations
+Waste	intensity	per	rupee	of	turnover	adjusted 	
+for	Purchasing	Power	Parity	(PPP)Total	waste	generated	in	MT/	Revenue	from 	
+operations	adjusted	for	PPP
+Total	Waste	Recycled MT
+For	each	category	of	waste	generated,	total	waste	recovered	through	recycling,	re-using	or	other 	
+recovery	operations(i)	Packaging	waste	(corrugated	boxes	&	wood) MT
+(ii)	Paper	&	Packaging	waste MT
+Intensity	Recycled Kg	waste	recycled/total	waste	generated
+Total	Waste	Disposed MT
+For	each	category	of	waste	generated,	total	waste	disposed	by	nature	of	disposal	methodPlastic	waste MT
+E-waste MT
+Bio-medical	waste MT
+Battery	waste MT
+Dry	leaves	&	garden	waste MT
+Food	Waste MT
+Scrap MT
+Intensity	Disposal kgwaste	disposed	/total	waste	generated
+5 Enhancing	Employee 	
+Wellbeing	and	SafetySpending	on	measures	towards	well-being	of 	
+employees	and	workers	–	cost	incurred	as	a	% 	
+of	total	revenue	of	the	companyIn	%	terms Boundary	of	assurance	covers	data  
+from	April	1,	2024	to	March	31,	2025.  
+This	data	is	from	32	Indian	offices	and	8  
+international	offices. Details	of	safety	related	incidents	for 	
+employees	and	workers	(including	contract-
+workforce	e.g.	workers	in	the	company's 	
+construction	sites)Number	of	Permanent	Disabilities
+Lost	Time	Injury	Frequency	Rate	(LTIFR)	(per 	
+one	million-person	hours	worked)No.	of	fatalities
+Integrated Annual Report 2024-25
+242
+Sr. No. Attribute Parameter Unit of Measures Reporting	Boundary
+6 Enabling	Gender 	
+Diversity	in	BusinessGross	wages	paid	to	females	as	%	of	wages 	
+paidIn	%	terms Boundary	of	assurance	covers	data  
+from	April	1,	2024	to	March	31,	2025.  
+This	data	is	from	32	Indian	offices	and	8  
+international	offices.Complaints	on	POSH Total	Complaints	on	Sexual	Harassment 	
+(POSH)	reported
+Complaints	on	POSH	as	a	%	of	female 	
+employees	/	workersComplaints	on	POSH	upheld
+7 Enabling	Inclusive 	
+DevelopmentInput	material	sourced	from	following	sources 	
+as	%	of	total	purchases	–and	from	within	IndiaDirectly	sourced	from	MSMEs/	small	producers 	
+(In	%	terms	–	As	%	of	total	purchases	by	value)Boundary	of	assurance	covers	data  
+from	April	1,	2024	to	March	31,	2025.  
+This	data	is	from	32	Indian	offices	and	8  
+international	offices.Sourced	directly	from	within	India%
+Job	creation	in	smaller	towns	–	Wages	paid	to 	
+persons	employed	in	smaller	towns	(permanent 	
+or	non-permanent	/on	contract)	as	%	of	total 	
+wage	costLocationRuralSemi-urbanUrbanMetropolitan
+8 Fairness	in	Engaging 	
+with	Customers	and 	
+SuppliersInstances	involving	loss	/	breach	of	data 	
+of	customers	as	a	percentage	of	total	data 	
+breaches	or	cyber	security	eventsIn	%	terms Boundary	of	assurance	covers	data  
+from	April	1,	2024	to	March	31,	2025.  
+This	data	is	from	32	Indian	offices	and	8  
+international	offices. Number	of	days	of	accounts	payable (Accounts	payable	*365)	/	Cost	of	goods/
+services	procured
+9 Open-ness	of	business Concentration	of	purchases	&	sales	done	with 	
+trading	houses,	dealers,	and	related	parties  
+Loans	and	advances	&	investments	with	related 	
+partiesPurchases	from	trading	houses	as	%	of	total 	
+purchasesBoundary	of	assurance	covers	data  
+from	April	1,	2024	to	March	31,	2025.  
+This	data	is	from	32	Indian	offices	and	8  
+international	offices.Number	of	trading	houses	where	purchases 	
+are	made	from
+Purchases	from	top	10	trading	houses	as	%	of 	
+total	purchases	from	trading	housesSales	to	dealers	/	distributors	as	%	of	total 	
+salesNumber	of	dealers	/	distributors	to	whom	sales 	
+are	madeSales	to	top	10	dealers	/	distributors	as	%	of 	
+total	sales	to	dealers	/	distributorsShare	of	RPTs	(as	respective	%age)	in:PurchasesSalesLoans	&	advancesInvestments
+Integrated	
+ReportManagement
+Discussion	and	
+AnalysisStatutory 
+ReportsFinancial	
+Statements
+Integrated Annual Report 2024-25
+243
+
+	 14.	Name	of	assurance	provider
+	 	 DNV	Business	Assurance	India	Pvt	Ltd
+	 15.	Type	of	assurance	obtained
+	 	 Reasonable	Assurance	for	Core	Attributes
+II.	 Products/services
+	 16.	Details	of	business	activities	(accounting	for	90%	of	the	turnover):
+Sr. No.Description	of 	
+Main	ActivityDescription	of	Business	Activity %	of	Turnover	of 	
+the entity
+1.Mobility Under	its	Mobility	segment,	LTTS	engineers	intelligent	and	sustainable 	
+mobility	offerings	for	safer	and	personalized	user	experiences.	The 	
+Company	develops	and	delivers	innovative	products	and	solutions, 	
+tackles	complex	engineering	challenges,	and	helps	redefine	passenger 	
+experience	and	safety	across	its	focus	subsegments	of	Automotive, 	
+Aerospace	Engineering,	Rail	Transportation,	and	Trucks	and  
+Off-Highway	Vehicles.32.9
+2.Sustainability LTTS	is	enabling	intelligent	and	responsible	products	and	production 	
+journeys	under	its	Sustainability	segment.	The	Company	helps	build 	
+a	sustainable	and	responsible	future	across	its	focus	subsegments 	
+of	Discrete	Manufacturing	and	Industrial	Products,	and	Process 	
+Manufacturing,	leveraging	decades	worth	of	unmatched	ER&D 	
+excellence,	IT-OT	synergies,	and	cross-domain	insights	and	skillsets	in	its 	
+global	operations.30.2
+3. Tech In	the	Tech	segment,	LTTS	focuses	on	enabling	pervasive	intelligence 	
+across	products	and	services	for	ensuring	differentiated	experiences. 	
+With	a	demonstrated	history	of	engineering	excellence	and	deep	cross-
+vertical	capabilities	to	deliver	tangible	outcomes,	the	Company	enables 	
+accelerated	product	launches	and	reliable	life	cycle	management 	
+journeys	for	clients	across	its	subsegments	of	Hi-tech,	MedTech,	Public 	
+Infrastructure	and	Smart	Cities,	and	Software	and	Platforms.36.9
+	 17.	 Products/Services	sold	by	the	entity	(accounting	for	90%	of	the	entity’s	Turnover):
+Sr. No. Product/Service 	 NIC Code %	of	total  
+Turnover 	contributed
+1.To	Provide	a	range	of	Engineering	Services	and	related	technologies 	
+in	the	areas	of	Embedded	Systems,	Mechanical	etc	and	to	act	as	a 	
+services	provider	to	companies	in	India	and	abroad620 100%
+III. Operations
+	 18.	Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:
+Location Number	of	plants Number	of	offices Total
+National 0 32 32
+International 0 46 46
+	 19.	Markets	served	by	the	entity:
+	 	 19.a.	 Number	of	locations
+Location Number
+National	(No.	of	States) 13
+International	(No.	of	Countries) 61
+	 	 19.b.	 What	is	the	contribution	of	exports	as	a	percentage	of	the	total	turnover	of	the	entity?
+				7 7 . 2 %
+	 	 19.c.	 A	brief	on	types	of	customers
+	 	 	 	 	LTTS	caters	to	a	wide	range	of	customers	 across	industries	 leveraging	 targeted	 partnership	 models	that	
+address	specific 	challenges 	and	business 	goals.	The	Company 	has	a	customer 	base	covering 	57	of	the	world’s	
+top	100	ER&D	companies	across	its	3	focus	segments:
+Integrated Annual Report 2024-25
+244
+ –Mobility: 	The	Company 	works	with	6	of	the	Top	10	Global	Automotive 	Majors	and	7	of	the	Top	10	Trucks	
+and	Off-highway 	Vehicle	Companies, 	delivering 	services 	across	Software 	Defined	Mobility, 	Electrification 	
+and	Hybrid	Tech,	and	Vehicle	Engineering.
+ –Sustainability:	 LTTS	works	with	8	of	the	Top	10	Global	Automation	 Conglomerates	 and	6	of	the	Top	
+10	Building	 tech	Organizations	 under	its	Discrete	 Manufacturing	 and	Industrial	 Products	 subsegment. 	
+Under	Process 	Manufacturing, 	the	Company 	is	actively 	engaged 	with	7	of	the	Top	10	Consumer 	Goods	
+Manufacturers 	and	5	of	the	Top	5	Global	O&G	Majors.	The	focus	is	on	enabling 	Plant	Modernization 	and	
+Automation,	Alt+Shift	to	Platform,	and	Energy	Transition.
+ –Tech:	The	Company 	partners 	with	6	of	the	Top	10	Media	and	Consumer 	Companies, 	6	of	the	Top	10	Semi-
+con	Majors	and	4	of	the	Top	5	Hyperscalers	 within	our	Hi-Tech	 subsegment	 and	is	engaged	 with	10	of	
+the	Top	10	Medical 	Device	Manufactures 	within	MedTech. 	LTTS	focuses 	on	enabling 	Silicon	Engineering, 	
+Device	and	Platform	 Engineering,	 Digital	Health	and	QARA,	and	Systems	 Integration	 for	its	offerings	 in	
+the	segment.
+IV.	 Employees
+	 20.	Details	as	at	the	end	of	Financial	Year:
+	 	 20.a.	 Employees	and	workers	(including	differently	abled):
+S. No.Particulars Total	(A) Male Female
+No.	(B) %	(B/A) No.	(C) %	(C/A)
+EMPLOYEES
+1.Permanent	(D) 21,028 16,793 79.9% 4,235 20.1%
+2.Other	than	Permanent	(E) 2,309 1,698 73.5% 611 26.5%
+3.Total	Employees	(D+E) 23,337 18,491 79.2% 4,846 20.8%
+WORKERS4.Permanent	(F) 0 0 0 0 0
+5.Other	than	Permanent	(G) 0 0 0 0 0
+6.Total	Workers	(F	+	G) 0 0 0 0 0
+	 	 20.b.	 Differently	abled	Employees	and	workers:
+S. No.Particulars Total	(A) Male Female
+No.	(B) %	(B/A) No.	(C) %	(C/A)
+DIFFERENTLY 	ABLED	EMPLOYEES
+1.Permanent	(D) 30 27 90% 3 10%
+2.Other	than	Permanent	(E) 6 6 100% 0 0%
+3. Total differently abled 
+employees	(D+E)36 33 91.7% 3 8.3%
+DIFFERENTLY	ABLED	WORKERS
+4.Permanent	(F) 0 0 0 0 0
+5.Other	than	Permanent	(G) 0 0 0 0 0
+6. Total differently abled 
+workers	(F	+	G)0 0 0 0 0
+	 21.	Participation/Inclusion/Representation 	of	women
+Particulars Total	(A) No.	and	percentage  
+of	Females
+No.	(B) %	(B/A)
+Board	of	Directors 11 218.18%
+Key	Management	Personnel 2 0 0%
+	 22.	Turnover	rate	for	permanent	employees	and	workers	(Disclose	trends	for	the	past	3	years)
+FY	23 FY	24 FY	25
+Male Female Total Male Female Total Male Female Total
+Permanent 	
+Employees32.5% 33.2% 32.7% 24.0% 25.2% 24.2% 23.8% 26.6% 24.4%
+Permanent 	
+Workers0 0 0 0 0 0 0 0 0
+Integrated	
+ReportManagement
+Discussion	and	
+AnalysisStatutory 
+ReportsFinancial	
+Statements
+Integrated Annual Report 2024-25
+245

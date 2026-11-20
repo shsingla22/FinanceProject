@@ -1,0 +1,148 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise) 
+Regd. Office:  Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram - 122015, India 
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email : compliance.officer@bharti.in , Website : www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+ 
+ 
+February 20, 2026 
+  
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India Symbol: BHARTIARTL/ AIRTELPP 
+ 
+BSE Limited Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400001, India 
+Scrip Code: 532454/ 890157 
+ 
+Sub: Press Release 
+ 
+Dear Sir/ Ma’am, 
+ 
+We are enclosing herewith a press release dated February 20, 2026 titled ‘Zscaler, 
+Together With Bharti Airtel, Announce Launch of AI & Cyber Threat Research Center to Advance Cyber Resilience and Trusted AI Adoption’ being issued by the Company. 
+ 
+Kindly take the same on record.  
+ 
+Thanking you, Sincerely yours, 
+ 
+For Bharti Airtel Limited 
+ 
+  
+Rohit Krishan Puri 
+Company Secretary & Compliance Officer  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Zscaler, Together With Bharti Airtel, Anno unce Launch of AI & Cyber Threat Research 
+Center to Advance Cyber Resilie nce and Trusted AI Adoption 
+ 
+● New Research Center to Strengthen India’s Cyber Resilience, Build Talent Pipelines, and Advance 
+Public-Private Collaboration 
+● To Invite Additional Select Entiti es to Join the Vital Initiative 
+ 
+New Delhi (India), February 20, 2026 –  Zscaler, Inc. , the leader in cloud security, in partnership with Bharti Airtel 
+(“Airtel”), one of India’s largest telecommunication service providers, today announced the launch of the AI & Cyber 
+Threat Research Center – India. This multi-stakeholder digital initiative is dedicated to advancing national cyber 
+resilience, protecting sectors, industries and assets that are essential to India’s economic and national security, such as 
+telecommunications, banking, and energy, as well as digital users, and accelerating trusted AI adoption across India’s 
+rapidly expanding digital ecosystem.  
+ 
+India has long been a key hub for Zscaler’s technology innovat ion and cyber research, with a significant share of Zscaler’s 
+research talent based in the country. The research center will serve as an expansion of Zscaler’s operations into a 
+national platform for collaboration between the private sect or, public sector, academia and the government. The center 
+is designed "In India, For India," with the goal of strength ening the nation's cyber defenses and building a future-ready 
+talent pipeline to support India's progress toward Viksit Bharat  and a peaceful, secure, and digitally self-reliant future. 
+ 
+India is in the midst of a generational digital transformation , building systems not at enterp rise scale, but at population 
+scale across critical sectors – dr amatically expanding the national attack surf ace. At the same time, the threat landscape 
+is evolving at machine speed, with nation state and financia lly-motivated attackers increasingly leveraging AI to probe, 
+target, and weaponize vulnerabilities in minutes. Zscaler’s re search arm, ThreatLabz India, has observed millions of 
+infiltration attempts each month, including notable campaigns such as: 
+ 
+● Nation-state cyber espionage activity using the theme of re gional geopolitical tensions, which attempted to target 
+multiple Indian entities; 
+● A surge in attempts to infiltrate India's private and public  sectors, with 1.2 million intrusion attempts originating 
+from 20,000 sources targeting 58 In dian digital en tities; and  
+● An increase in zero-day exploit attempts aimed at multiple industries in India.  
+ 
+As threats grow in sophistication, traditional perimeter-base d security models are no longer adequate, and disruptions 
+to essential services can threaten national economic st ability – making secure-by-design foundations and a modern 
+architectural shift imperative to protect national digital syst ems in an increasingly borderless, AI-enabled environment. 
+ 
+The objectives of the AI & Cyber Threat Research Center – India are anchored in four strategic pillars:  
+ 
+1. Protect : Deliver real-time, actionable intelligence to strength en India’s national cyber resilience and digital-first 
+businesses. 
+2. Remediate : Partner directly with gove rnment agencies to neutraliz e and prevent cyber-attacks. 
+3. Facilitate : Drive the adoption of modern security frameworks, sp ecifically focusing on AI-driven defenses and Zero 
+Trust architecture. 
+4. Build : Strengthen the cybersecurity talent pipeline through spec ialized AI and Zero Trust certifications to bridge the 
+national skills gap.  
+ 
+As founding members, Zscaler and Airtel will combine the form er’s global intelligence with the latter’s local operational 
+reach to create a stronger, faster research-to-response loop for India. Zscaler will deploy a specialized threat research 
+team focused on India. This team will leverage the Zscaler Zero Trust Exchange™ platform, whic h processes over 500 
+ 
+billion daily transactions, to extract threat  intelligence to secure India's public and private sectors. Airtel will contribute  
+deep visibility into IoT and mobile traffic, collaborating wi th Zscaler to monitor networks and develop new solutions, 
+enabling faster identification of suspicious activity and more effective coordination with ecosystem stakeholders. 
+Looking ahead, additional members from India’s critical public and private sectors will be invited to join the center to 
+expand collaboration and strengthen cyber resilience across India. 
+ 
+“At Airtel, our commitment has been to safeguard our customer s and the nation’s digital fabric. This partnership with 
+Zscaler marks a significant extension of this commitment that  will combine the power of our AI capabilities and deep 
+scale for cybersecurity research to protect th e country’s expanding digital ecosystem,” said Gopal Vittal, Executive Vice-
+Chairman, Bharti Airtel . “We will focus on addressing challenges unique to  our market to build a safer, more resilient 
+digital India where every citizen and enterprise can connect and thrive with confidence. Our research-backed preventive 
+mechanism will also encourage peaceful and secure engagements on digital platforms.” 
+ 
+“India is building digital systems at an unmatched population sc ale. You cannot secure this level of ambition with legacy 
+firewalls and VPNs that were never designed for a hyper-conn ected world. It demands a modern Zero Trust architecture 
+that is secure-by-design,” said Jay Chaudhry, CEO, Chairman, and Founder, Zscaler . “With the AI & Cyber Threat 
+Research Center – India, we will bring the full power of the world’s largest security cloud to protect the nation’s public 
+and private sectors. By combining actionable intelligence fr om over 500 billion daily transactions with local expertise, 
+we aren't just building readiness; we are empowering a new generation of defe nders to stay ahead of the adversary."  
+ 
+Follow Zscaler on LinkedIn , Instagram , and X. 
+ 
+Forward-Looking Statements 
+ This press release contains forward-looking statements that are based on our management's beliefs and assumptions and on information currently available to our management. These forward-looking statements include the expected 
+establishment and benefits of the AI & Cyber Threat Resear ch Center – India. These fo rward-looking statements are 
+subject to the safe harbor provisions cr eated by the Private Securities Litigation Reform Ac t of 1995. A significant number 
+of factors could cause actual results to differ materially fr om statements made in this press release, including those 
+factors related to our ability to successfully establish and op erationalize the AI & Cyber Threat Research Center – India. 
+Additional risks and uncertainties are set forth in our most re cent Quarterly Report on Form 10-Q filed with the Securities 
+and Exchange Commission (“SEC”) on No vember 25, 2025, which is available on our website at ir.zscaler.com and on 
+the SEC's website at www.sec.gov. Any fo rward-looking statements in this release are based on the limited information 
+currently available to Zscaler as of the date hereof, which is subject to change, and Zscaler will not necessarily update 
+the information, even if new information becomes available in the future.  
+About Bharti Airtel 
+Headquartered in India, Airtel is a global communications solutions provider wi th over 600 million customers in 15 countries ac ross India and 
+Africa. The company also has its presence in Bangladesh and Sr i Lanka through its associate entities. The company ranks amongst  the top three 
+mobile operators globally and its networks cover over two billion people. Airtel is India’s largest integrated communications s olutions provider and 
+the second largest mobile operator in Africa. Airtel’s retail portfolio includes high-speed 4G/5 G mobile, Wi-Fi (FTTH+ FWA) tha t promises speeds 
+up to 1 Gbps with convergence across linear and on-demand entertai nment, video streaming services , digital payments and financi al services. For 
+enterprise customers, Airtel offers a gamut of solutions that in cludes secure connectivity, clo ud and data centre services, cyb er security, IoT, and 
+cloud-based communication. Airtel’s digital ar m – Xtelify, empowers telcos globally to leverage the power of AI, data and techn ology to accelerate 
+their digital transformation and drive grow th. Xtelify also offers Airtel Cloud in India enabling enterprises with a sovereign,  telco-grade cloud 
+platform that guarantees secure  migration, effortless scaling, lower costs and no vendor lock-ins. Within its diversified portf olio, Airtel also offers 
+passive infrastructure services through its subs idiary Indus Tower Ltd. For more details visit www.airtel.com   
+ 
+About Zscaler 
+Zscaler is a pioneer and global leader in zero trust security. The world’s largest bus inesses, critical infrastructure organiza tions, and government 
+agencies rely on Zscaler to secure users, branches, applications , data & devices, and to accele rate digital transformation init iatives. Distributed 
+across 160+ data centers globally, the Zscaler Zero Trust Exchange ™ platform combined with advanced AI combats billions of cybe r threats and 
+policy violations every day and unlocks productivity gains for modern enterpri ses by reducing costs and complexity.  

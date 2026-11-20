@@ -1,0 +1,285 @@
+
+ 
+    
+
+   
+ 
+
+ 
+  
+  
+    
+  
+ 
+
+     
+      
+  
+      
+      
+     
+     
+   
+    
+ 
+ 
+
+  
+  
+ 
+
+ 
+
+ 
+
+  
+ 
+   
+ 
+
+ 
+ 
+      
+      
+   
+  
+
+       
+    
+      
+    
+      
+      
+        
+   
+       
+
+ 
+     
+       
+     
+      
+       
+       
+      
+   
+   
+ 
+   
+    
+      
+     
+     
+   
+    
+    
+    
+     
+    
+     
+ 
+       
+        
+     
+      
+    
+  
+   
+     
+          
+
+       
+       
+   
+ 
+    
+        
+       
+    
+   
+     
+   
+      
+      
+     
+      
+      
+     
+    
+  
+        
+     
+     
+      
+
+      
+    
+     
+
+     
+    
+  
+    
+    
+      
+        
+       
+       
+       
+     
+   
+      
+   
+     
+  
+     
+    
+     
+   
+    
+   
+    
+ 
+   
+      
+     
+       
+    
+     
+      
+ 
+     
+   
+      
+     
+      
+      
+     
+    
+        
+  
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+ 
+
+
+ 
+   
+PTC INDIA LIMITED 
+Registered Office:2nd Floor, NBCC Tower, 15 Bhikaji Cama Place New Delhi - 110 066 (CIN : L40105DL1999PLC099328) 
+Tel: 011- 41659500, 41595100, 46484200, Fax: 011-41659144, E-mail: info@ptcindia.com  Website: www.ptcindia.com  
+STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2024 
+(Figures in 1 Lakhs, unless otherwise indicated) 
+S. No. 
+Particulars Quarter ended Half year ended Year ended 
+30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+(Un-audited) (Un-audited) • (Un-audited) (Un-audited) (Un-audited) Audited 
+1 Revenue from operations 
+a Revenue from operations 4,71,252 4,38,313 4,82,881 9,09,565 9,33,924 15,72,982 
+b Other operating revenue (Refer Note No. 5 & 6) 25,307 14,227 5,159 39,534 11,081 27,697 
+Total revenue from operations (Refer Note 
+No.3) 4,96,559 4,52,540 4,88,040 9,49,099 9,45,005 16,00,679 
+2 Other Income 601 266 5,007 867 6,052 7,230 
+3 Total Income (1+2) 4,97,160 4,52,806 4,93,047 9,49,966 9,51,057 16,07,909 
+4 Expenses 
+a Purchases 4,59,964 4,26,716 4,71,109 8,86,680 9,12,311 15,35,238 
+b Operating expenses (Refer Note No. 5 & 6) 17,008 7,336 489 24,344 1,743 4,577 
+c Employee benefit expenses 1,712 1,687 1,706 3,399 3,493 6,759 
+d Finance costs 809 1,539 174 2,348 341 1,276 
+e Depreciation and amortization expenses 66 69 85 135 166 353 
+f Other expenses 1,946 1,093 2,878 3,039 4,387 9,259 
+Total expenses 4,81,505 4,38,440 4,76,441 9,19,945 9,22,441 15,57,462 
+5 Profit before exceptional items and tax (3-4) 15,655 14,366 16,606 30,021 28,616 50,447 
+6 Exceptional items - income/(expense) - - - - - (2,048) 
+7 Profit Before Tax (5+6) 15,655 14,366 16,606 30,021 28,616 48,399 
+8 Tax expenses 
+a Current tax 4,141 3,644 3,638 7,785 6,476 12,275 
+b Deferred tax expenditure/ (income) (136) 91 (367) (45) (178) (774) 
+9 Net Profit for the period (7-8) 11,650 10,631 13,335 22,281 22,318 36,898 
+10 Other comprehensive income 
+Items that will not be reclassified to profit or 
+loss 
+(i) Remeasurements of post- employment 
+benefit obligations- income/(expense) (49) 76 (13) (45)  27 (76) 
+-Income tax relating to remeasurements of 
+post- employment benefit 12 (19) 3 (7) 19 11 
+(ii) Changes in fair value of FVOCI equity 
+instrument - income/(expense) (12,208) 
+Other comprehensive income / (expense), net 
+of tax (37) 57 (10) 20 (57) (12,242) 
+11 Total comprehensive income for the period 
+(9+10) 11,613 10,688 13,325 22,301 22,261 24,656 
+12 Paid-up equity share capital 29,601 29,601 29,601 29,601 29,601 29,601 
+(Face value of Z 10 per share) 
+13 Other equity (excluding revaluation reserves) 3,85,194 
+(As per audited balance sheet) 
+14 Earnings per share 
+(Not annualized)  (Z) 
+a Basic 3.94 3.59 4.50 7.53 7.54 12.47 
+b Diluted 3.94 3.59. 4.50 7.53 7.54 12.47 
+Million Units of electricity Sold 24,039 20,464  21,326 44,503 41,885 74,841 
+See accompanying notes to the financial results 
+Un-audited Standalone Balance Sheet as on September 30, 2024 
+(Figures in Lakhs) 
+S. No. Particulars As at 
+30.09.2024 As at 
+31.03.2024 
+(Un-audited) Audited 
+I. ASSETS 
+1 Non-current assets 
+Property, plant and equipment 1,255 1,363 
+Goodwill 3 3 
+Right-of-use asset 358 374 
+Other intangible assets 29 34 
+Financial Assets 
+Investments in subsidiaries and associates (Refer Note No. 6A) 76,727 76,727 
+Other investments (Refer Note No. 10) 9,906 9,906 
+Loans 62 52 
+Deferred tax assets (net) 3,506 3,468 
+Income tax assets (net) 2,046 4,235 
+Other non-current assets 27 28 
+Total non-current assets 93,919 96,190 
+2 Current assets 
+Financial Assets 
+Investments - 5,010 
+Trade receivables 6,60,851 5,75,533 
+Cash and cash equivalents 31,720 62,918 
+Bank balances other than cash and cash equivalents 29,751 5,902 
+Loans 31 30 
+Other financial assets 8,523 1,464 
+Other current assets 6,823 5,840 
+Current assets 7,37,699 6,56,697 
+Assets classified as held for sale (Refer Note No. 9) 65,412 65,412 
+Total current assets 8,03,111 7,22,109 
+Total Assets 8,97,030 8,18,299 
+II. EQUITY AND LIABILITIES 
+1 Equity 
+Equity share capital 29,601 29,601 
+Other equity 3,84,406 3,85,194 
+Total equity 4,14,007 4,14,795 
+2 Non-current liabilities 
+Financial Liabilities 
+Lease liabilities 103 120 
+Provisions 1,878 1,988 
+Total non-current liabilities 1,981 2,108 
+3 Current liabilities 
+Financial Liabilities 
+Borrowings 32,291 40,000 
+Lease liabilities 36 33 
+Trade payables 
+- total outstanding dues of micro enterprises and small enterprises 10 3 
+- total outstanding dues of creditors other than micro enterprises and small enterprises 4,17,151 3,52,867 
+Other financial liabilities 23,595 3,468 
+Other current liabilities 7,897 4,932 
+Provisions 62 93 
+Total current liabilities 
+I , 4,81,042 4,01,396 
+\ . 
+Total Equity and Liabilities ____:,- te-N 8,97,030 8,18,299 

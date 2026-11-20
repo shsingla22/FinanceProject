@@ -1,0 +1,124 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise) 
+Regd. Office:  Airtel Center, Plot No. 16, Udyog Vihar, Phase-IV, Gurugram - 122015, India 
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110070, India 
+T.: +91-124-4222222, F.: +91-124-4248063, Email: compliance.officer@bharti.in , Website: www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+April 2, 2025 
+  
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India 
+Symbol: BHARTIARTL/ AIRTELPP 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai – 400001, India 
+Scrip Code: 532454/ 890157 
+ 
+Sub: Press Release  
+ 
+Dear Sir/ Ma’am, 
+ 
+We are enclosing herewith a press release dated April 2, 2025 titled ‘Bharti Airtel and 
+Nokia expand core network collaboration to speed-up new 5G service delivery’ being 
+issued by the Company. 
+ 
+Kindly take the same on record. 
+ 
+Thanking you, 
+Sincerely yours, 
+ 
+For Bharti Airtel Limited 
+ 
+ 
+ 
+Rohit Krishan Puri 
+Joint Company Secretary & Compliance Officer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bharti Airtel and Nokia expand core network collaboration to speed-up new 5G 
+service delivery  
+  
+April 2, 2025:  Espoo, Finland  – Nokia and Bharti Airtel are expanding their partnership with the 
+deployment of Nokia’s Packet Core appliance-based and Fixed Wireless Access solutions for providing a 
+better network experience for Airtel’s growing 4G/5G customer base. The solution will help seamlessly 
+integrate 5G and 4G technologies into a single set of servers. Nokia’s FWA will provide additional 
+capacities for home broadband and enterprise-critical application services. Airtel will use Nokia’s 
+automation framework to realise zero-touch service launch and efficient lifecycle management for core 
+network functions to enhance its ability to deliver new services faster while reducing network operational 
+costs. 
+Using Nokia’s converged Packet Core solution for 5G standalone (SA) readiness, Airtel will continue its 
+evolution toward advanced 5G and simplify its network architecture to meet the ever growing need of 
+data while reducing network operational costs. This will help Airtel optimise its hardware footprint and 
+reduce its cost per bit by utilising appliance-based Packet Core gateways, while maintaining the rest of 
+the network elements in a cloud-native architecture. 
+The rollout covers network automation in a multi-year deal that spans the majority of Airtel’s service 
+regions across the country. The collaboration entails advancing autonomous networks by utilising GenAI 
+for service orchestration and assurance. 
+“Nokia’s innovative Packet Core deployment architecture enables critical changes to our network quality 
+and reliability for meeting the fast-rising growth in customer data requirements,” said Airtel CTO, 
+Randeep Sekhon . “This rollout further demonstrates our longstanding success in jointly collaborating to 
+strengthen the overall Airtel customer experience.”  
+“Nokia and Airtel have a long-standing partnership and we are pleased to bolster its 5G SA readiness,” 
+said Raghav Sahgal, President of Cloud and Network Services at Nokia . “Airtel’s use of Nokia’s Packet 
+Core to build greater network agility and reliability demonstrates how we are both helping customers 
+solve problems and furthering Nokia’s leadership position in the Core space in India and around the 
+world.” 
+Nokia’s solution provides a pre-integrated and modular server-based configuration for increased flexibility 
+to support a wider range of business and operational deployment models. This allows Airtel to better 
+target new customers and create new revenue streams.  
+Nokia’s Packet Core solution for Fixed Wireless Access enables additional capacity for home broadband 
+and enterprise-critical application services for the delivery of extreme bandwidth and capacity to 
+customers. 
+Nokia has an expansive core footprint in Bharti Airtel’s network and already provides several other core 
+technologies including VoLTE (Voice over LTE), HSS (Home Subscriber Server), HLR (Home Location 
+Register), UDM (Unified Data Management) and VoNR (Voice over New Radio), along with MANO 
+(automated Management & Orchestration). 
+  
+ 
+About Bharti Airtel Limited:  
+Headquartered in India, Airtel is a global communications solutions provider with over 550 million customers in 15 countries 
+across India and Africa. The company also has its presence in Bangladesh and Sri Lanka though its associate entities. The company 
+ranks amongst the top three mobile operators globally and its networks cover over two billion people. Airtel is India’s largest 
+integrated communications solutions provider and the second largest mobile operator in Africa. Airtel’s retail portfolio includes 
+high-speed 4G/5G mobile broadband, Airtel Xstream Fiber that promises speeds up to 1 Gbps with convergence across linear and 
+on-demand entertainment, streaming services spanning music and video, digital payments and financial services. For enterprise 
+customers, Airtel offers a gamut of solutions that includes secure connectivity, cloud and data centre services, cyber security, IoT, 
+Ad Tech and cloud based communication. Within our diversified portfolio, we offer passive infrastructure services through our 
+subsidiary Indus Tower Ltd. For more details visit www.airtel.com  
+ 
+About Nokia 
+At Nokia, we create technology that helps the world act together. 
+ 
+As a B2B technology innovation leader, we are pioneering networks that sense, think and act by leveraging our work across 
+mobile, fixed and cloud networks. In addition, we create value with intellectual property and long-term research, led by the 
+award-winning Nokia Bell Labs, which is celebrating 100 years of innovation. 
+With truly open architectures that seamlessly integrate into any ecosystem, our high-performance networks create new 
+opportunities for monetization and scale. Service providers, enterprises, and partners worldwide trust Nokia to deliver secure, 
+reliable, and sustainable networks today – and work with us to create the digital services and applications of the future. 
+ 
+Media Inquiries 
+Nokia Communications, Corporate 
+Email: Press.Services@nokia.com   
+ 
+Follow us on social media 
+LinkedIn X Instagram  Facebook  YouTube 
+ 

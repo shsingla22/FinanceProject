@@ -1,0 +1,184 @@
+Corporate Office - One Skymark, Tower -D, Pl ot No. H -10B, Sector -98, Noida -201304  
+T: +91120 4770770      F: +91120 4770771     CIN: L72200DL2000PLC108985  
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi -110019  One 97 Communications  Limited 
+compliance.officer@paytm.com  
+www.paytm.com  Octob er 22, 2024 
+BSE Limited 
+Departmen t of Corporat e Services, 
+Phiroze Jeejeebhoy Towers,      
+Dalal Street, Fort,  
+Mumb ai – 400 001  
+Scrip Code: 543396 National Stock Exchange of India Limited  
+The Listing Department,  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+ Mumbai – 400 051  
+Symbol: PAYTM  
+Sub.:  Disclosure under Regulation 30 o f the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations , 2015 - Earnings Release 
+Dear Sir / Ma’am, 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 
+read with NSE Master Circular No. NSE/CML/2024/10 dated April 29, 2024 and BSE Master Circular No. 
+20240430-5 dated April 30, 2024, please find enclosed copy of Earnings Release for the quarter ended 
+September 30, 2024.   
+The Earning s Release will also b e host ed on the Company' s website viz . https://ir.paytm.com/financial-
+results .     
+Kind ly take the same on record. 
+Thanking you 
+Yours Sincerely, 
+For One 97 Communications Limited 
+Sunil Kumar Bansal 
+Company Secretary and Compliance Officer 
+Encl.: As above 
+1
+For the quarter ending September 2024Earnings Release
+22 October 2024
+
+2Earnings Release  |Q2 FY 2025
+Financial Highlights:
+•Operating revenue of ₹1,660 Cr, up 11% QoQ
+•Contribution margin of 54%, up 356bps QoQ; contribution profit of ₹894 Cr, 
+up 18% QoQ
+•EBITDA before ESOP of ₹(186) Cr, an improvement of ₹359 Cr QoQ
+•EBITDA of ₹(404) Cr, an improvement of ₹388 Cr QoQ
+•Profit after Tax (PAT) of ₹930 Cr, including exceptional gain of ₹1,345 Cr on account  
+of sale of entertainment ticketing business
+•Cash balance of ₹9,999 Cr
+Business Highlights:
+•Payment services revenue of ₹981 Cr, up 9% QoQ
+•Net payment margin of ₹465 Cr, up 21% QoQ, GMV of ₹4.5 Lakh Cr, up 5% QoQ
+•Merchant subscriber base for devices has reached 1.12 Cr as of Sep’24, an increase 
+of 3 Lakh QoQ
+•Financial services revenue of ₹376 Cr, up 34% QoQRevenue jumps to ₹1,660 Cr on Growth in Payments and Financial 
+Services
+EBITDA improved by ₹388 Cr QoQ
+Due to one -time exceptional gains, PAT of ₹930 Cr
+Continued focus on payments and distribution of financial services for 
+sustained, profitable growth
+In Q2 FY 2025, we achieved 11% QoQ revenue growth, due to 5% QoQ increase in GMV, better realization from devices and 
+34% QoQ increase in revenues from financial services. Our net payment margin increased 21% QoQ to ₹465 Cr, largely on 
+account of improvement in payment processing margin, better device realization and growth in GMV. Financial Services 
+revenue was ₹376 Cr, up 34% QoQ, on account of increase in collection bonus in merchant loans due to better asset quality 
+trends, and higher share of merchant loans. With even greater confidence in our merchant loan distribution business, 
+where we help in both distribution and collection, we have started working with select lenders by giving the Default Loss 
+Guarantee (DLG, explained in subsequent sections) for select portfolios. This in long term will give us opportunity to serve 
+wider merchant base and increase our financial services distribution revenue. 
+3Earnings Release  |Q2 FY 2025
+Contribution margin without UPI incentives has expanded to 54%, despite including DLG cost in this quarter. It has improved d ue 
+to higher payment processing margin and growth in high margin financial services revenue. We expect the same contribution 
+margin trends will continue. 
+Our indirect cost has come down by 17% QoQ to ₹1,080 Cr due to reduction in employee costs (down 13% QoQ), marketing 
+expenses and absence of certain one -time expenses incurred in Q1 FY 2025. 
+With growth in revenue, improvement in contribution margin and reduction in indirect costs, EBITDA has improved by ₹388 Cr 
+QoQ to ₹(404) Cr. EBITDA Before ESOP improved by ₹359 Cr QoQ to ₹(186) Cr and we remain committed to reach EBITDA before 
+ESOP profitability by Q4 FY 2025. 
+With one -time exceptional gain of ₹1,345 Cr, on account of sale of entertainment ticketing business, we achieved PAT of ₹930 Cr 
+in Q2 FY 2025.
+Jun-24 Sep-24₹1,660 Cr
+₹1,502 Cr11% QoQRevenue grew by 11% QoQ
+(Qtrending)
+₹755 Cr₹894 Cr
+50%54%
+Jun-24 Sep-2418% QoQEBITDA has improved by 
+₹388Cr QoQ
+(Qtrending)
+₹(792) Cr₹(404) CrJun-24 Sep-24
+₹388 Cr QoQ 
+ImprovementContribution Profit up 18% QoQ
+Contribution Margin at 54%
+(Qtrending)
+4Earnings Release  |Q2 FY 2025
+3.8 L Cr4.4 L Cr4.3 L Cr 4.3 L Cr
+Sep-23 Dec-23 Mar-24 Jun-24 Sep-24
+7.7 L8.1 L7.9 L
+5.9 L 6.0 L
+Sep-23 Dec-23 Mar-24 Jun-24 Sep-24Merchant Subscriptions
+(including Devices)
+92 L106 L107 L109 L112 L
+Sep-23 Dec-23 Mar-24 Jun-24 Sep-24Payment Services: Gross Device addition and GMV 
+growth has reached erstwhile trends 
+New subscription paying device merchant sign ups has surpassed 
+January 2024 levels. Our plan is to pick up inactive devices and 
+redeploy them after refurbishment, which helps us reduce capex. 
+When we pick up inactive devices, our merchant count reduces. We 
+plan to continue reactivating merchants and redeploying inactive 
+devices to new merchants over the next 2 -3 quarters. This will lead to 
+higher active merchant base and higher revenue.
+We see additional monetisation opportunities on Soundbox. For 
+example, we have piloted advertisements through Soundbox which 
+seamlessly integrate branding between companies and consumers. 
+Paytm has partnered with several brands, including Meesho , Coca -
+cola, Mondelez and Dabur, among others for Soundbox Ads. 
+Q2 FY 2025 GMV grew by 5% QoQ and we expect this trend in GMV 
+growth to continue, and accelerate in Q3 due to the festive season. In 
+addition to focus on growth of GMV, we were able to significantly 
+improve payment processing margin.
+Financial Services: Revenue growth driven by higher 
+collection bonus 
+We have seen better collection efficiencies due to increase in mobile 
+payment penetration among our merchants, leading to higher GMV 
+throughput. This has resulted in higher collection bonus during the 
+quarter.
+Significant financial service cross sell opportunity; New 
+metrics to track 
+Our core business is to acquire customers (consumers and 
+merchants) for payments and cross selling financial services. For 
+financial services, the relevant metric is number of unique payment 
+customers we successfully cross -sell to and revenue earned from 
+them. Starting this quarter, we have started disclosing the number of 
+key financial services customers. These are unique consumers and 
+merchants who have availed Paytm’s and group entity’s financial 
+services offerings, i.e. equity broking, insurance and credit products, 
+such as merchant and consumer loans distributed through our 
+platform. However, it does not include customers availing mutual 
+fund distribution, Postpaid loans or any attachment insurance 
+products, as they contribute negligible revenue/profitability.Operating metrics across businesses shows improving trends 
+Gross Merchandise Value 
+(Continued business)
+Number of Key Financial Services Customers (Qtrending)
+4.5 L Cr
+Key Financial Services Customers:
+Includes Excludes
+Equity
+BrokingMutual Fund
+Distribution
+Consumer and Merchant 
+LoansPostpaid
+Loans
+Insurance
+BrokingAttachment Insurance 
+Products(Qtrending)
+(Qtrending)
+5Earnings Release  |Q2 FY 2025
+For the next couple of quarters, we will continue to report the value of loans disbursed, but over time, the relevant metrics will 
+be the number of key financial services customers (consumer and merchant) and revenue from financial services. During Q2 FY 
+2025, 6.0 lakh key financial services customers (consumer and merchant) availed financial services through our platform, vers us 
+5.9 lakh during Q1 FY 2025. 
+Low penetration and high engagement of customers on our platform provides opportunity for us to drive cross sell of financial
+services. We continue to partner with various financial institutions to enhance and widen our financial service offerings. 
+Regulatory Update
+FDI approval for Payment Aggregator (PA) License
+The Government of India, Ministry of Finance, Department of Financial Services, vide its letter dated August 27, 2024, approv ed 
+downstream investment from One 97 Communications Limited (OCL or the Company) into a wholly owned subsidiary, Paytm 
+Payments Services Limited (PPSL). Post the FDI approval, PPSL has resubmitted its PA application to the Reserve Bank of India
+(RBI). While we await the RBI approval for onboarding of new online merchants, PPSL continues to provide payment aggregation 
+services to its existing online merchants.
+Awaiting NPCI Approval for UPI customer onboarding 
+The Reserve Bank of India, in its press release dated February 23, 2024, advised the National Payments Corporation of India 
+(NPCI) to examine the request of One97 Communication Ltd (OCL) to become a UPI Third -Party Application Provider (TPAP) for 
+the continued operation of the Paytm app and to minimize concentration risk in the UPI system by incorporating multiple 
+payment app providers. It further instructed NPCI that the ‘@ paytm ’ handles should be migrated seamlessly from PPBL to a set 
+of newly identified banks to avoid any disruption.
+Subsequently, NPCI granted approval to OCL (Paytm) to participate in UPI as a TPAP under the multi -bank model. This allows us 
+to directly participate in UPI customer business as TPAP like other popular UPI apps in the industry. 
+We have completed the migration of 13.5 crore UPI customers to the OCL (Paytm) TPAP app in partnership with leading banks 
+like SBI, HDFC Bank, Axis Bank, and Yes Bank. As a result of this migration, along with natural churn and a hold on new UPI u ser
+addition, our MTU base has declined from 7.8 Cr in Q1 FY 2025 to 7.0 Cr in Q2 FY 2025 (6.8 Cr in September). While we are 
+working on retaining and reactivating these 13.5 Cr customers , new UPI customer onboarding is pending approval of NPCI. 
+Once given opportunity and permission from NPCI to onboard new UPI customers, we plan to go ahead with marketing to get 
+sizable market share of UPI customer transactions. This in turn will help serve the purpose of minimising concentration risk in the 
+UPI system.
+Completed transaction to sell our entertainment ticketing business
+During the quarter, we completed the transaction to sell our entertainment ticketing business to Zomato Limited. The final pr ice, 
+after working capital adjustments, was ₹2,014 Cr, leading to gains of ₹1,345 Cr, which is reported under the exceptional item s in 
+the P&L. This transaction has resulted in further strengthening our balance sheet with a cash balance of ₹9,999 Cr. 

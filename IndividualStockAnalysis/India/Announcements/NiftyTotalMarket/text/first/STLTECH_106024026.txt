@@ -1,0 +1,129 @@
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  October 1 6, 2024 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor,  
+Plot No. C -1, G Block,  
+Bandra Kurla Complex, Bandra (East)    
+Mumbai - 400 051.  BSE Limited  
+Phirozee Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001.  
+ 
+ 
+Sub: - Press Release –  STL forays into the AI -led Data Centres segment with an integrated optical portfolio   
+ 
+ 
+Ref: - Scrip ID -  STLTECH/ Scrip Code –  532374   
+ 
+Dear Sir/Madam,  
+ 
+The Company  is pleas ed to announce  that today it has marked its entry into the AI -led Data Centre segment with a 
+full-fledged demonstration of its inte grated Optical cable, connectivity and interconnect offerings at the India 
+Mobile Congress 2024. The Honourable Telecom Minister, Shri Jyotiraditya Scindia, inaugurated this Make -in-India 
+AI-DC portfolio.  
+A copy of the Press Release in this regard is enclosed herewith.  
+Kindly take the above on record.  
+ 
+Thanking yo u. 
+ 
+Yours faithfully,  
+For Sterlite Technologies Limited  
+   Amit Deshpande  
+General Counsel & Company Secretary (ACS 17551)  
+ 
+Enclosure: As above . 
+ 
+ 
+  
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra - 411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+  
+PRESS RELEASE    
+STL forays into the AI -led Data Centres segment with an 
+integrated optical portfolio  
+ Inaugurated by the Telecom Minister - Shri Jyotiraditya Scindia  
+New Delhi, 16/October/2024:  STL [NSE: STLTECH], a leading optical and digital solutions company, today 
+marked its entry into the AI -led Data Centre segment with a full -fledged demonstration of its inte grated 
+Optical cable, connectivity and interconnect offerings at the India Mobile Congress 2024. The Honourable 
+Telecom Minister, Shri Jyotiraditya Scindia, inaugurated this Make -in-India AI -DC portfolio.   
+Commenting on the linkage between Artificial Intelligence, Data Centres, and Fibre Connectivity, the Telecom 
+Minister said: "STL’s AI -led Data Centre portfolio is a significant innovation for the AI ecosystem and will also 
+strengthen India's data centre capabilities. ” 
+Only two years hence, 200 million Chatgpt users are generating 1.6 billion AI queries per month. By 2025, 
+these users are expected to exceed a billion. This technology marvel is a two -way-looking glass. While Artificial 
+Intelligence models are at the fron t end, the backend infrastructure — which is the AI -led data centres —rides 
+on Optical  fibre connectivity. As data centres transition to GPU -based servers, the demand for fibre optic 
+infrastructure between and inside the data centres will surge dramatically.  
+India has come up as one of the biggest hubs for data centre ecosystems in general. As per initial estimates, 
+India is expected to boost its GPU -based server capacity in these AI -led data centres to nearly 5.2 Lakh GPUs 
+by 2026. These GPU -heavy data centr es will require 36x more fibre  than CPU racks, driven by an increase in 
+server density and higher bandwidth requirements. They will also require more compact, high -density optical 
+fibre cables (with ~70%  more  fibre)  than traditional data centres.  
+As a home grown, globally recognised Optical expert, STL has developed a sophisticated, integrated portfolio 
+to cater to the unique cabling needs of GPU -dense data centres. Optical fibre cabling in AI data centres must 
+deliver high bandwidth, low latency, and high d ensity to meet the volume and complexity of AI workloads.  
+“The linkage between AI, Data Centres and Optical Fibre forms the holy trinity of future connectivity. We have 
+been deeply involved in building a suite of products that fit right into the most dense  connectivity environments 
+ever created ,” said Ankit Agarwal, Managing Director and CEO Optical Business , STL. He further added, “We 
+are excited to showcase our Make in India AI -DC portfolio to our customers and believe that this will serve as 
+a one -stop s olution for their data centre cabling needs.”  
+IBR cabling technology sets the benchmark fibre densification, and they will form the backbone of AI -data 
+centre connectivity, said  Dr Badri Gomatam, CTO, STL . “Our credentials in the IBR technology, along with  our 
+Optical connectivity capability, place us in a great position to build and commercialise this portfolio”, he further 
+explained.  
+STL’s Intelligently Bonded Ribbon (IBR) cable technology is the engine behind fibre densification in AI data 
+centres. STL w as the second in the world and the first in India to offer mainstream high -density IBR optical 
+products. The company’s flagship AI -DC portfolio, designed for accelerated computing, is strongly anchored in 
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra - 411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ its IBR optical cables and bolstered with a suite o f data centre -specific connectivity products like connectors, 
+patch -cords, fibre distribution and management systems, racks, cabinets, and servers. These products include:  
+ High -density Optical Fibre cables  - Celesta Ribbon cable with its Intelligently Bonded Ribbon (IBR) 
+technology in 250 -micron and 200 -micron fibre. These cables utilise high -performance G.657.A2 bend -
+insensitive/Stellar optical fibre and feature a Low Smoke and Zero Halogen (LSZH) flame -retardant (FR) 
+jacket. The Celesta with 6912F enables high fibre packing density in ducts, resulting in a lower TCO  
+ High -density Connectivity solutions - for establishing end -to-end connectivity. These include floor -
+mount racks, high -density MPO panels that can accommodate up to 864 fibres in 2RU and 1728 fibres 
+in 5RU, New Pivoting Tray Drawer (nPTD), high -density LC panels, patch panels and copper connectivity 
+solutions  
+About STL - Sterlite Technologies Ltd:  
+STL is a leading global optical and digital solutions company providing advanced offerings to build 5G, Rural, FTTx, Enterpri se 
+and Data Centre networks. Read more , Contact us, stl.tech  | Twitter  | LinkedIn | YouTube  
+ 
+For more information, contact:   
+Media Relations  
+Soumi Das  
+Phone: +91 7028466673  
+soumi.das1@stl.tech  Agency Contact  
+Ishita Kaushik  
+Phone: +91 9315981700  
+ishita.kaushik@2020msl.com  Investor Relations  
+Chetan Wani   
+Phone: +91 9712975633   
+investor@stl.tech  
+ 

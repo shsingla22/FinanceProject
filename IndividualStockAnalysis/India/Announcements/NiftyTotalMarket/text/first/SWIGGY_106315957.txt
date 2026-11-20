@@ -1,0 +1,320 @@
+ 
+ 
+SWIGGY LIMITED  
+(formerly known as “Swiggy Private Limited” and “Bundl Technologies Private Limited”) | CIN: L74110KA2013PLC096530  
+ 
+www.swiggy.com   | T: 080- 68422422  
+Registered & Corporate Office:  No.55 Sy No.8 -14, Ground Floor, I&J Block, Embassy Tech Village, Outer Ring Road, Devarbisanahalli, Bengaluru - 560103  
+ 
+REF: SWIGGY/SE/2025 -26/37 
+ 
+July 2 9, 2025  
+To, 
+The Deputy Manager  
+Department of Corporate Services  
+BSE Limited  
+PJ Towers, Dalal Street  
+Mumbai - 400001.  
+Scrip  Code: 544285  To, 
+The Manager  
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, G Block  
+Bandra -Kurla Complex, Bandra (E),  
+Mumbai -400051.  
+Symbol: SWIGGY  
+ Sub.: Business Responsibility and Sustainability Report for FY 2024 -25  
+ 
+Ref.: Regulation 34( 2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (‘SEBI Listing Regulations’)  
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations & Disclosure Requirements) Regulations 2015, we are submitting herewith the Business Responsibility and Sustainability Report for FY 2024- 25, along with an  Independent Practitioners’ Limited Assurance 
+Report  provided by KPMG Assurance and Consulting Services LLP, which forms a part of the Annual 
+Report for FY 2024- 25.   
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ Yours faithfully,  
+For Swiggy Limited  
+ 
+ Cauveri Sriram  
+Company Secretary & Compliance Officer   
+ 
+ 
+MD & Group CEO’s Message
+At Swiggy, we’ve always believed that real progress comes 
+from the choices we make every day – often small, often 
+quiet, but always intentional. Whether it’s helping our 
+delivery partners thrive, empowering local entrepreneurs, 
+or reducing the environmental footprint of our operations, 
+these consistent efforts - our “little lifts” - add up to lasting 
+change. They remind us that meaningful impact is rarely 
+about dramatic gestures; it’s about doing the right things, 
+repeatedly and at scale.
+It is with this spirit that I share Swiggy’s first Business 
+Responsibility and Sustainability Report (BRSR) for  
+FY 2024-25. This has been a foundational year in our 
+sustainability journey – one where we moved from intent 
+to structured action, launching our 2030 Sustainability 
+Goals across climate action, community upliftment, 
+and responsible business practices. These goals are not 
+parallel to our growth ambitions; they are integral to how 
+we build Swiggy for the long term, proving that scale and 
+responsibility can strengthen each other when pursued 
+with clarity and intent.
+MD & Group CEOSriharsha Majety
+We’ve also spent this year laying the groundwork for the 
+future – strengthening governance, building robust systems, 
+and embedding sustainability into how we think, design, 
+and grow. The challenges ahead will be complex and will 
+evolve as our ecosystem grows. From improving visibility 
+across our supply chain to creating new opportunities for 
+partners, the road ahead will demand constant innovation 
+and deeper collaboration.
+What gives me confidence is the shared intent across 
+Swiggy to treat sustainability with the same rigour and 
+innovation that define our business. This is the beginning 
+of a long-term journey – one where we will keep raising 
+the bar, shaped by strong governance, collaboration, and 
+the belief that every decision, big or small, should move us 
+closer to building a responsible and resilient Swiggy.
+As we look ahead, this belief will continue to guide us – true  
+to our purpose of delivering unparalleled convenience, 
+responsibly.This is the beginning of a 
+long-term journey – one where 
+we will keep raising the bar, 
+shaped by strong governance, 
+collaboration, and the belief 
+that every decision, big or 
+small, should move us closer 
+to building a responsible and 
+resilient Swiggy.Annexure-5
+Business Responsibility and 
+Sustainability Report
+Statutory Reports
+122 Swiggy Limited
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity L74110KA2013PLC096530
+2. Name of the Listed Entity Swiggy Limited
+3. Year of incorporation 2013 
+4. Registered office address No. 55, Sy No. 8-14, Ground Floor, I&J Block, Embassy Tech Village, Outer 
+Ring Road, Devarbisanahalli, Bengaluru 560 103, Karnataka, India
+5. Corporate address No. 55, Sy No. 8-14, Ground Floor, I&J Block, Embassy Tech Village, Outer 
+Ring Road, Devarbisanahalli, Bengaluru 560 103, Karnataka, India
+6. E-mail secretarial@swiggy.in  
+7. Telephone 080 - 68422422
+8. Website www.swiggy.com  
+9. Financial year for which reporting is being done 1st April 2024 to 31st March 2025
+10. Name of the Stock Exchange(s) where shares are listed 1. National Stock Exchange of India Limited (NSE) 
+2. BSE Limited
+11. Paid-up Capital INR 228.65 Crore
+12. Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report Ms. Amrita Sarna
+Email: sustainability@swiggy.in , secretarial@swiggy.in
+Phone: 080 - 68422422
+13. Reporting boundary Standalone Basis*
+14. Name of assurance provider KPMG Assurance and Consulting Services LLP
+15. Type of assurance obtained Limited Assurance on BRSR Core indicators. Refer to the Independent 
+Practitioner’s Limited Assurance Report for the list of Identified 
+Sustainability Information (ISI) covered under the assurance.
+*For more details, refer to our response to Question 18
+II. Products/services
+16.	 Details	of	business	activities	(accounting	for	90%	of	the	turnover):
+S. No. Description of Main Activity Description of Business Activity % of Turnover of the Entity
+1 Information Service Activities Other information service activities 100%
+17.	 Products/Services	sold	by	the	entity	(accounting	for	90%	of	the	entity’s	Turnover):
+S. No. Product/Service NIC Code % of Total Turnover Contributed
+1 Food Delivery, Restaurant Discovery,  
+Quick Commerce, etc. 63999 100%
+III. Operations
+18.	 Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:
+Location Number of Plants Number of Offices* Total
+National - 4 4
+International - - -
+*As of 31 March 2025, Swiggy has presence in 61 offices (a mix of co-working spaces and leased offices), of which four key offices – each housing 
+over 75 employees – collectively accounting for more than 75% of Swiggy’s workforce and core infrastructure. These offices define the environmental 
+reporting boundary, determined by materiality, operational control, and contextual relevance, and reflect Swiggy’s flexible, people-centric 
+workplace model. For select environmental metrics, data from a representative office has been systematically extrapolated to comparable 
+locations within the defined boundary. Unless otherwise stated, social, financial, and governance indicators cover all permanent employees of 
+Swiggy Limited (standalone).
+Statutory Reports
+123 Annual Report 2024-25
+19.	 Markets	served	by	the	entity:
+a. Number of locations
+Locations Number
+National (No. of States) 35 (28 states and 7 Union Territories)
+International (No. of Countries) -
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+ Not applicable.
+c. A brief on types of customers
+  Swiggy (standalone) serves a wide and diverse set of customers through its core business verticals — food delivery, 
+restaurant discovery, table reservations, quick commerce, and curated events. For the purpose of this Business 
+Responsibility and Sustainability Report (BRSR), and within the defined reporting boundary, the term ‘Customers’ refers 
+to the following two groups:
+ 1. End Customers (Platform Users):
+  Individuals who engage with Swiggy’s platform to:
+   Order food, beverages, and other daily essentials for home delivery
+    Discover and explore restaurants through user-generated reviews, ratings, photos, and 
+curated recommendations
+   Book tables and make payments while dining out
+   This customer base spans a broad demographic - across age groups, income levels, and geographies - drawn  
+by Swiggy’s ease of access, diverse offerings, and reliable service.
+ 2. Restaurant Partners and Entrepreneurs:
+  This group comprises:
+    Restaurants, cloud kitchens, entrepreneurs, and other organisations that collaborate with Swiggy to expand 
+their business reach
+   Partners leveraging the platform for enhanced visibility, customer engagement, and brand building
+   Businesses utilising Swiggy’s logistics infrastructure for efficient, last-mile delivery
+   Swiggy’s ecosystem enables hundreds of thousands of partners to connect with new audiences, scale operations, 
+and deliver quality experiences to end users.
+IV. Employees
+20.	 Details	as	at	the	end	of	Financial	Year
+a. Employees (including differently abled)*:
+Particulars Total Male Female Others*
+No. % No. % No. % 
+Employees
+Permanent 4,488 3,633 80.95 855 19.05 3 -
+Total employees** 4,488 3,633 80.95 855 19.05 3 -
+*As part of its commitment to building an inclusive workplace, Swiggy conducted a voluntary, anonymous self-identification gender survey during 
+the reporting period. For FY 2024-25, the total number of permanent employees stood at 4,488, including three individuals who self-identified as 
+‘others’. However, given the anonymity of disclosures and the absence of such data in the previous reporting period, it is not feasible to present 
+disaggregated information for the ‘others’ category across subsequent social performance indicators.
+**For the purpose of BRSR reporting, Swiggy classifies delivery partners as a key component of its value chain. While they are not defined as 
+employees or workers under prevailing regulations, their contribution remains central to our operations. Consequently, disclosures pertaining to 
+delivery partners are included under value chain-related sections of this report, unless explicitly stated otherwise.
+Statutory Reports
+124 Swiggy Limited
+b. Differently abled employees*:
+Particulars TotalMale Female
+No. % No. % 
+Permanent employees 19 19 100% 0 0%
+Total differently abled employees 19 19 100% 0 0%
+*As part of its commitment to fostering an inclusive workplace, Swiggy circulated a voluntary disability disclosure form for its permanent employees 
+during the reporting period. 
+21.	 Participation/Inclusion/Representation	of	women:	
+Total (A)Females
+No. (B) % (B/A)
+Board of Directors 10 1 10%
+Key Management Personnel 3 0 0%
+22.	 Turnover	rate	for	permanent	employees	and	workers:
+FY 2024-25
+(Turnover rate in current FY*)FY 2023-24
+(Turnover rate in previous FY*)FY 2022-23 
+(Turnover rate in the year  
+prior to the previous FY*)
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 33.60% 32.11% 33.37% 57.82% 55.67% 57.47% 54.35% 46.49% 53.12%
+*The above attrition figures include employee exits from our frontline roles — primarily in sales and entry-level positions in store and warehouse 
+management — which constitute a significant portion of overall attrition.
+Talent Attraction & Retention
+At Swiggy, our people strategy is designed to attract high-intent, future-ready talent and retain it through purpose-driven 
+culture, continuous growth, and a strong employee experience.
+We drive quality hiring at scale through structured, tech-enabled processes, role clarity, and a candidate-first approach — 
+ensuring speed, consistency, and brand advocacy. Diversity, equity, and inclusion are embedded across levels and markets. 
+We continue to strengthen our early talent pipeline through national campus programmes, internships, and management 
+trainee initiatives.
+Retention is equally critical. In a fast-paced environment like ours, preserving institutional knowledge and internal leadership 
+depth is a business priority. We invest in:
+ Recognition programmes  that celebrate excellence, innovation, and values
+ Learning journeys  and defined career tracks that enable internal mobility
+ Inclusive benefits  spanning health, parenthood, pet care, and learning
+Together, these efforts drive continuity, reduce attrition, and reinforce Swiggy’s position as a preferred employer in India’s 
+digital economy.
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23.	 (a)	 Names	of	holding/subsidiary/associate	companies/joint	ventures
+   The details of Swiggy Limited’s wholly-owned subsidiaries, company-controlled trust, step-down subsidiary, 
+associate company, and subsidiary of associate are provided in the Notes to the Standalone Financial Statements 
+(Pages 336 and 337), which form a part of Swiggy’s Annual Report for FY 2024-25.
+Statutory Reports
+125 Annual Report 2024-25
+VI. CSR Details
+24.	 (i)	 Whether	CSR	is	applicable	as	per	Section	135	of	Companies	Act,	2013:
+   While Swiggy has duly constituted a CSR Committee and formulated a CSR Policy in compliance with statutory 
+requirements, the provisions related to mandatory CSR spending are not applicable for FY 2024-25 based on the 
+financial thresholds prescribed under Section 135 of the Companies Act, 2013.
+   For more details on Swiggy’s sustainability commitments and programmes, please refer to pages 42 to 47 of the 
+Annual Report.
+  (ii) Turnover: INR 8,796.48 Crore
+  (iii) Net worth:  INR 12,009.68 Crore
+VII. Transparency and Disclosures Compliances
+25.		Complaints/Grievances	on	any	of	the	principles	(Principles	1	to	9)	under	the	National	Guidelines	on	Responsible	
+Business	Conduct:
+Stakeholder 
+group 
+from whom 
+complaint is 
+receivedGrievance redressal 
+mechanism in place
+(Yes/No) 
+(If Yes, then provide  
+web-link for grievance 
+redressal policy)FY 2024-25 
+Current Financial YearFY 2023-24 
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities* Yes: Link 1 1 Includes complaints 
+registered before 
+judicial authorities0 0 Includes complaints 
+registered before 
+judicial authorities
+Investors 
+(other than 
+shareholders)Yes: Link 169 0
+Includes  
+complaints filed  
+with NSE and BSE0 0
+Includes  
+complaints filed  
+with NSE and BSE
+Shareholders Yes: Link 0 0 0 0
+Employees 
+and workersYes: Link 2 2 Includes complaints 
+registered before 
+judicial authorities0 0 Includes complaints 
+registered before 
+judicial authorities
+Customers#Yes: Link 34 97 Includes complaints 
+registered before 
+judicial authorities 29 65 Includes complaints 
+registered before 
+judicial authorities 
+Value Chain 
+Partners$Yes: Link 1 18 Includes complaints 
+registered before 
+judicial authorities 10 26 Includes complaints 
+registered before 
+judicial authorities 
+Others Yes: Link 1 9 Includes complaints 
+registered before 
+judicial authorities3 10 Includes complaints 
+registered before 
+judicial authorities
+*Communities refer to groups of people and social ecosystems that are directly or indirectly impacted by Swiggy’s operations, presence, or value 
+chain — whether economically, socially, or environmentally.
+#Swiggy’s Customers  include two core groups:
+ Platform End Users who use Swiggy to order food and other essentials, explore restaurants, and book tables.
+ Restaurant Partners and Entrepreneurs who leverage the platform to grow their reach and serve end users.
+$Swiggy’s Value Chain Partners  include:
+ Delivery Partners,
+ Suppliers, Vendors, and 
+ Other Business Partners who enable our services through logistics, technology, and operational support.
+Statutory Reports
+126 Swiggy Limited

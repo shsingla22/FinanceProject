@@ -1,0 +1,323 @@
+September15, 2026
+Listing Department 
+BSE Limited 
+25, PJ Towers, Dalal Street
+Mumbai -400 001
+Sub: AssetLiabilityManagement(ALM)Reporting
+Dear Sir/Madam,
+Pursuant to SEBI (Issue and Listing of Non-Convertible Securities) Regulations, 2021 and in 
+terms of Chapter XVII of the Master Circular SEBI/HO/DDHS/PoD1/P/CIR/2024/54 dated May 
+22, 2024 as amended from time to time, please find enclosed the ALM statement of the 
+Company as on August31, 2026, submitted to the Reserve Bank of India.
+You are requested to kindly take the above information on record.
+Thanking you,
+Yours faithfully,
+forCapriGlobalCapitalLimited
+YasheshBhatt
+CompanySecretary
+MembershipNo.20491
+More Options
+General Information Statements
+Filing Information DNBS4BStructuralLiquidity - Statement of Structural Liquidity
+DNBS4BIRS - Statement of Interest Rate Sensitivity (IRS)
+AuthorisedSignatory - Authorised Signatory
+
+Information
+Return Name
+DNBS04B-Structural 
+Liquidity & Interest Rate 
+Sensitivity - Monthly
+Return Code R228
+Name of reporting institution
+Capri Global Capital 
+Limited (Formerly Money 
+Matters Financial 
+Services Ltd.)
+Bank / FI code MUM08037
+Institution Type NBFC
+Reporting frequency Monthly
+Reporting start date 01-08-2026
+Reporting end date 31-08-2026
+Reporting currency INR
+Reporting scale Lakhs
+Taxonomy version 1.1.0
+Tool name RBI iFile
+Tool version 1.0.0
+Report status Un-Audited
+Date of Audit
+General remarks
+#LAYOUTECER#
+#CustPlc# #TABLE# #LAYOUTECSR#
+X010
+Whether NBFC Profile has been 
+updated on website Yes
+Category Of NBFC
+Non-Deposit taking 
+Systemically Important 
+(NDSI) NBFC
+Classification of NBFC
+(i) NBFC - Investment and 
+Credit Company (NBFC-
+ICC) (Loan Company (LC) 
+/Asset Finance Company 
+(AFC) / Investment 
+Company (IC))
+#LAYOUTECER#Filing Information
+Scoping QuestionFiling InformationFiling Information
+
+0 day to 7 days8 days to 14 
+days15 days to 30/31 
+days
+X010 X020 X030 X040 X050 X060 X070 X080 X090 X100 X110 X120 X130 X140 X150
+A. OUTFLOWS
+1.Capital (i+ii+iii+iv) Y010 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 9,621.54 9,621.54 NA 0.00 0.00 0.00
+(i) Equity Capital Y020 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 9,621.54 9,621.54 NA 0.00 0.00 0.00
+(ii) Perpetual / Non Redeemable Preference Shares       Y030 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iii)) Non-Perpetual / Redeemable Preference Shares Y040 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iv) Others Y050 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+2.Reserves & Surplus (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xii+xiii) Y060 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 7,16,407.58 7,16,407.58 NA 0.00 0.00 0.00
+(i) Share Premium Account Y070 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 3,79,663.82 3,79,663.82 NA 0.00 0.00 0.00
+(ii) General Reserves Y080 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 7,025.92 7,025.92 NA 0.00 0.00 0.00
+(iii) Statutory/Special Reserve (Section 45-IC reserve to be shown 
+separately below item no.(vii))Y0900.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 69,542.74 69,542.74 NA 0.00 0.00 0.00
+(iv) Reserves under Sec 45-IC of RBI Act 1934 Y100 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(v) Capital Redemption Reserve Y110 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(vi) Debenture Redemption Reserve Y120 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(vii) Other Capital Reserves Y130 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(viii) Other Revenue Reserves Y140 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(ix) Investment Fluctuation Reserves/ Investment Reserves Y150 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(x) Revaluation Reserves (a+b) Y160 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+          (a) Revl. Reserves - Property Y170 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+          (b) Revl. Reserves - Financial Assets Y180 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(xi) Share Application Money Pending Allotment Y190 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(xii) Others (Please mention) Y200 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 3,895.37 3,895.37 Employee stock 0.00 0.00 0.00
+(xiii) Balance of profit and loss account Y210 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 2,56,279.73 2,56,279.73 NA 0.00 0.00 0.00
+3.Gifts, Grants, Donations & Benefactions Y220 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+4.Bonds & Notes (i+ii+iii) Y230 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(i) Plain Vanilla Bonds (As per residual maturity of the instruments) Y240 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(ii) Bonds with embedded call / put options including zero coupon / 
+deep discount bonds ( As per residual period for the earliest exercise 
+date for the embedded option)Y250
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iii) Fixed Rate Notes Y260 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+5.Deposits (i+ii) Y270 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(i) Term Deposits from Public Y280 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(ii) Others Y290 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+6.Borrowings (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv) Y300 29,256.31 5,478.41 67,491.64 71,041.87 39,040.91 1,68,370.27 2,77,892.63 9,98,324.57 3,82,999.74 72,326.91 21,12,223.26 NA 10,146.10 11,466.67 23,279.69
+(i) Bank Borrowings (a+b+c+d+e+f) Y310 12,892.07 2,561.74 59,424.56 49,736.91 25,201.07 1,33,080.17 2,25,254.83 7,90,465.55 3,25,402.82 51,946.09 16,75,965.81 NA 3,146.10 5,466.67 23,279.69
+a) Bank Borrowings in the nature of Term Money Borrowings 
+(As per residual maturity)Y3208,653.23 2,561.74 57,424.56 12,736.91 25,201.07 1,09,380.17 2,19,254.83 7,53,510.02 3,12,518.66 51,946.09 15,53,187.28 NA 3,146.10 5,466.67 23,279.69
+b) Bank Borrowings in the nature of WCDL Y330 0.00 0.00 0.00 36,000.00 0.00 20,700.00 0.00 0.00 0.00 0.00 56,700.00 NA 0.00 0.00 0.00
+ c) Bank Borrowings in the nature of Cash Credit (CC) Y340 1,500.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1,500.00 NA 0.00 0.00 0.00
+d) Bank Borrowings in the nature of Letter of Credit (LCs) Y350 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+e) Bank Borrowings in the nature of ECBs Y360 570.91 0.00 0.00 0.00 0.00 0.00 0.00 13,159.39 9,980.61 0.00 23,710.91 NA 0.00 0.00 0.00
+f) Other bank borrowings Y370 2,167.93 0.00 2,000.00 1,000.00 0.00 3,000.00 6,000.00 23,796.14 2,903.55 0.00 40,867.62 FCNR Loans 0.00 0.00 0.00
+(ii) Inter Corporate Deposits (Other than Related Parties) 
+(These being institutional / wholesale deposits, shall be slotted as per 
+their residual maturity)Y380
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iii) Loans from Related Parties (including ICDs) Y390 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iv) Corporate Debts Y400 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(v) Borrowings from Central Government / State Government Y410 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(vi) Borrowings from RBI Y420 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(vii) Borrowings from Public Sector Undertakings (PSUs) Y430 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(viii) Borrowings from Others (Please specify) Y440 2,479.60 416.67 7,067.08 3,304.96 4,439.84 18,690.10 38,652.91 1,16,351.11 38,511.43 0.00 2,29,913.70 Borrowing from 0.00 0.00 0.00
+(ix) Commercial Papers (CPs) Y450 1,000.00 2,500.00 1,000.00 18,000.00 9,400.00 16,600.00 2,056.00 0.00 0.00 0.00 50,556.00 NA 7,000.00 6,000.00 0.00
+     Of which; (a) To Mutual Funds Y460 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                      (b) To Banks Y470 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                      (c) To NBFCs Y480 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                      (d) To Insurance Companies Y490 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                      (e) To Pension Funds Y500 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                      (f) To Others (Please specify) Y510 1,000.00 2,500.00 1,000.00 18,000.00 9,400.00 16,600.00 2,056.00 0.00 0.00 0.00 50,556.00 NA 7,000.00 6,000.00 0.00
+(x) Non - Convertible Debentures (NCDs) (A+B) Y520 4,584.64 0.00 0.00 0.00 0.00 0.00 11,928.89 91,507.91 19,085.49 20,380.82 1,47,487.75 NA 0.00 0.00 0.00
+A. Secured (a+b+c+d+e+f+g) Y530 4,584.64 0.00 0.00 0.00 0.00 0.00 11,928.89 91,507.91 19,085.49 20,380.82 1,47,487.75 NA 0.00 0.00 0.00
+     Of which;  (a) Subscribed by Retail Investors Y540 916.08 0.00 0.00 0.00 0.00 0.00 2,000.00 45,000.00 2,000.00 6,598.87 56,514.95 NA 0.00 0.00 0.00
+                     (b) Subscribed by Banks Y550 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (c) Subscribed by NBFCs Y560 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (d) Subscribed by Mutual Funds Y570 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (e) Subscribed by Insurance Companies Y580 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (f) Subscribed by Pension Funds Y590 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (g) Others (Please specify) Y600 3,668.56 0.00 0.00 0.00 0.00 0.00 9,928.89 46,507.91 17,085.49 13,781.95 90,972.80 NA 0.00 0.00 0.00
+B. Un-Secured (a+b+c+d+e+f+g) Y610 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+     Of which;  (a) Subscribed by Retail Investors Y620 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00Over  5 years Table 2: Statement of Structural Liquidity
+Total RemarksActual outflow/inflow during last 1 month, starting 
+0 day to 7 daysParticulars8 days to 14 
+days15 days to 30/31 
+days (One 
+month)Over one month 
+and upto 2 
+monthsOver two 
+months and 
+upto 3 monthsOver 3 months 
+and upto 6 
+monthsAll Monetary Items present in this return shall be reported in ₹ Lakhs Only
+ Over 6 months 
+and upto 1 yearOver 1 year and 
+upto 3 yearsDNBS4BStructuralLiquidity - Statement of Structural Liquidity
+Over 3 years and 
+upto 5 yearsDNBS4BStructuralLiquidity -Statement of Structural Liquidity
+
+                     (b) Subscribed by Banks Y630 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (c) Subscribed by NBFCs Y640 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (d) Subscribed by Mutual Funds Y650 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (e) Subscribed by Insurance Companies Y660 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (f) Subscribed by Pension Funds Y670 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (g) Others (Please specify) Y680 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(xi) Convertible Debentures (A+B)
+(Debentures with embedded call / put options 
+As per residual period for the earliest exercise date for the embedded 
+option)Y690
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+A. Secured (a+b+c+d+e+f+g) Y700 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+     Of which;  (a) Subscribed by Retail Investors Y710 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (b) Subscribed by Banks Y720 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (c) Subscribed by NBFCs Y730 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (d) Subscribed by Mutual Funds Y740 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (e) Subscribed by Insurance Companies Y750 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (f) Subscribed by Pension Funds Y760 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (g) Others (Please specify) Y770 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+B. Un-Secured (a+b+c+d+e+f+g) Y780 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+     Of which;  (a) Subscribed by Retail Investors Y790 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (b) Subscribed by Banks Y800 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (c) Subscribed by NBFCs Y810 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (d) Subscribed by Mutual Funds Y820 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (e) Subscribed by Insurance Companies Y830 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (f) Subscribed by Pension Funds Y840 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+                     (g) Others (Please specify) Y850 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(xii) Subordinate Debt Y860 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(xiii) Perpetual Debt Instrument Y870 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(xiv) Security Finance Transactions(a+b+c+d) Y880 8,300.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 8,300.00 NA 0.00 0.00 0.00
+a) Repo
+(As per residual maturity)Y8908,300.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 8,300.00 NA 0.00 0.00 0.00
+b) Reverse Repo
+(As per residual maturity)Y9000.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+c) CBLO
+(As per residual maturity)Y9100.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+d) Others (Please Specify) Y920 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+7.Current Liabilities & Provisions (a+b+c+d+e+f+g+h) Y930 22,634.75 715.12 21,005.54 16,494.71 13,045.38 38,698.51 73,769.05 1,72,013.05 44,679.24 41,190.13 4,44,245.48 NA 643.62 2,270.67 7,287.13
+a) Sundry creditors Y940 4,349.23 0.00 6,592.10 0.00 0.00 0.00 0.00 0.00 0.00 0.00 10,941.33 NA 550.12 1,620.25 2,430.08
+b) Expenses payable (Other than Interest) Y950 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(c) Advance income received from borrowers pending adjustment Y960 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(d) Interest  payable on deposits and borrowings Y970 5,188.75 715.12 13,760.34 16,494.71 13,045.38 38,698.51 72,858.06 1,69,647.76 44,679.24 14,462.99 3,89,550.86 NA 0.00 0.00 0.00
+(e) Provisions for Standard Assets Y980 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 26,125.78 26,125.78 NA 0.00 0.00 0.00
+(f) Provisions for Non Performing Assets (NPAs) Y990 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(g) Provisions for Investment Portfolio (NPI) Y1000 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(h) Other Provisions (Please Specify) Y1010 13,096.77 0.00 653.10 0.00 0.00 0.00 910.99 2,365.29 0.00 601.36 17,627.51 NA 93.50 650.42 4,857.05
+8.Statutory Dues Y1020 511.11 0.00 617.83 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1,128.94 NA 1,662.18 0.00 551.57
+9.Unclaimed Deposits (i+ii) Y1030 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(i) Pending for less than 7 years Y1040 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(ii) Pending for greater than 7 years Y1050 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+10.Any Other Unclaimed Amount Y1060 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+11.Debt Service Realisation Account Y1070 0.00 0.00 0.00 0.00 0.00 6.43 0.00 0.00 0.00 0.00 6.43NA 0.00 0.00 0.00
+12.Other Outflows Y1080 3,636.67 0.00 36,721.73 140.53 621.71 2,296.87 4,681.69 13,830.65 7,631.91 28,949.27 98,511.03 NA 68,737.91 1,03,025.68 2,74,138.69
+13.Outflows On Account of Off Balance Sheet (OBS) Exposure 
+(i+ii+iii+iv+v+vi+vii)Y10901,029.48 612.03 4,590.25 1,018.46 374.31 275.10 154.33 12.46 0.00 0.00 8,066.42 NA 0.00 0.00 0.00
+(i)Loan commitments pending disbursal Y1100 1,029.48 612.03 1,316.57 1,018.46 374.31 275.10 154.33 12.46 0.00 0.00 4,792.74 NA 0.00 0.00 0.00
+(ii)Lines of credit committed to other institution Y1110 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iii)Total Letter of Credits Y1120 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iv)Total Guarantees Y1130 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(v) Bills discounted/rediscounted Y1140 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(vi)Total Derivative Exposures (a+b+c+d+e+f+g+h) Y1150 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(a) Forward Forex Contracts Y1160 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(b) Futures Contracts Y1170 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(c) Options Contracts Y1180 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(d) Forward Rate Agreements Y1190 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(e) Swaps - Currency Y1200 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(f) Swaps - Interest Rate Y1210 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(g) Credit Default Swaps Y1220 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(h) Other Derivatives Y1230 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(vii)Others Y1240 0.00 0.00 3,273.68 0.00 0.00 0.00 0.00 0.00 0.00 0.00 3,273.68 NA 0.00 0.00 0.00
+A. TOTAL OUTFLOWS (A)
+(Sum of 1 to 13)Y125057,068.32 6,805.56 1,30,426.99 88,695.57 53,082.31 2,09,647.18 3,56,497.70 11,84,180.73 4,35,310.89 8,68,495.43 33,90,210.68 NA 81,189.81 1,16,763.02 3,05,257.08
+A1. Cumulative Outflows Y1260 57,068.32 63,873.88 1,94,300.87 2,82,996.44 3,36,078.75 5,45,725.93 9,02,223.63 20,86,404.36 25,21,715.25 33,90,210.68 33,90,210.68 NA 81,189.81 1,97,952.83 5,03,209.91
+B. INFLOWS
+1. Cash (In 1 to 30/31 day time-bucket) Y1270 3,570.43 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 3,570.43 NA 0.00 0.00 0.00
+2. Remittance in Transit Y1280 66.34 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 66.34NA 0.00 0.00 0.00
+3. Balances With Banks Y1290 53,564.58 0.00 0.00 1.00 3.00 1,401.88 61.46 2.64 0.00 1.18 55,035.74 NA 93,259.03 10,730.01 31,500.00
+a) Current Account
+(The stipulated minimum balance be shown in 6 months to 1 year 
+bucket. The balance in excess of the minim balance be shown in 1 to 
+30 day time bucket)Y1300
+53,564.20 0.00 0.00 0.00 0.00 0.00 1.73 0.00 0.00 0.00 53,565.93 NA 70,608.93 10,730.01 31,500.00
+b) Deposit Accounts /Short-Term Deposits 
+(As per residual maturity)Y13100.38 0.00 0.00 1.00 3.00 1,401.88 59.73 2.64 0.00 1.18 1,469.81 NA 22,650.10 0.00 0.00
+4.Investments  (i+ii+iii+iv+v) Y1320 15,794.71 0.00 1,14,380.20 0.00 0.00 0.00 0.00 0.00 5,715.00 84,975.00 2,20,864.91 NA 79,291.16 65,200.79 86,269.71
+(i)Statutory Investments (only for NBFCs-D) Y1330 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(ii) Listed Investments Y1340 15,794.71 0.00 1,14,380.20 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1,30,174.91 NA 24,141.06 24,860.21 70,889.44
+    (a) Current Y1350 15,794.71 0.00 1,14,380.20 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1,30,174.91 NA 24,141.06 24,860.21 70,889.44
+    (b) Non-current Y1360 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iii) Unlisted Investments Y1370 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 84,975.00 84,975.00 NA 0.00 0.00 0.00
+    (a) Current Y1380 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+    (b) Non-current Y1390 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 84,975.00 84,975.00 NA 0.00 0.00 0.00
+(iv) Venture Capital Units Y1400 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(v) Others (Please Specify) Y1410 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 5,715.00 0.00 5,715.00 NA 55,150.10 40,340.58 15,380.27
+5.Advances (Performing) Y1420 36,669.90 24,242.64 53,294.28 60,971.88 59,907.28 2,84,983.32 9,86,327.57 13,87,122.92 3,39,679.57 5,32,494.32 37,65,693.68 NA 63,639.14 67,155.48 1,62,281.54
+(i) Bills of Exchange and Promissory Notes discounted & 
+rediscounted
+(As per residual usance of the underlying bills)Y1430
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(ii) Term Loans
+(The cash inflows on account of the interest and principal of the 
+loan may be slotted in respective time buckets as per the timing 
+of the cash flows as stipulated in the original / revised repayment 
+schedule)Y1440
+20,069.68 10,981.55 28,023.88 29,838.88 31,637.00 1,59,789.81 7,81,876.48 10,28,478.70 2,05,568.30 3,13,765.89 26,10,030.17 NA 54,005.99 57,522.33 1,43,015.24
+        (a) Through Regular Payment Schedule Y1450 7,311.06 807.70 14,132.46 12,761.49 14,534.04 53,018.48 1,21,975.96 4,53,718.38 2,05,568.30 3,13,765.89 11,97,593.76 NA 54,005.99 57,522.33 1,43,015.24
+        (b) Through Bullet Payment Y1460 12,758.62 10,173.85 13,891.42 17,077.39 17,102.96 1,06,771.33 6,59,900.52 5,74,760.32 0.00 0.00 14,12,436.41 NA 0.00 0.00 0.00
+(iii) Interest to be serviced through regular schedule Y1470 6,676.21 669.95 10,769.99 16,637.12 16,192.11 47,256.64 88,300.51 2,51,921.38 1,34,111.27 2,18,728.43 7,91,263.61 NA 9,633.15 9,633.15 19,266.30
+(iv)  Interest to be serviced to be in Bullet Payment Y1480 9,924.01 12,591.14 14,500.41 14,495.88 12,078.17 77,936.87 1,16,150.58 1,06,722.84 0.00 0.00 3,64,399.90 NA 0.00 0.00 0.00
+6.Gross Non-Performing Loans (GNPA) Y1490 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 15,253.28 10,623.74 25,877.02 NA 0.00 0.00 0.00
+(i) Substandard Y1500 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 15,253.28 7,467.00 22,720.28 NA 0.00 0.00 0.00
+(a) All over dues and instalments of principal falling due 
+during the next three years
+(In the 3 to 5 year time-bucket)Y1510
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 15,253.28 0.00 15,253.28 NA 0.00 0.00 0.00
+(b) Entire principal amount due beyond the next three years
+(In the over 5 years time-bucket)Y15200.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 7,467.00 7,467.00 NA 0.00 0.00 0.00
+(ii) Doubtful and loss Y1530 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 3,156.74 3,156.74 NA 0.00 0.00 0.00
+(a) All instalments of principal falling due during the next five 
+years as also all over dues
+(In the over 5 years time-bucket)Y1540
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 1,041.94 1,041.94 NA 0.00 0.00 0.00
+(b) Entire principal amount due beyond the next five years
+(In the over 5 years time-bucket)Y15500.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 2,114.80 2,114.80 NA 0.00 0.00 0.00
+7. Inflows From Assets On Lease Y1560 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+8. Fixed Assets (Excluding Assets On Lease) Y1570 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 33,983.71 33,983.71 NA 0.00 0.00 0.00
+9. Other Assets : Y1580 537.98 192.15 9,294.91 1,197.26 44.48 11.09 138.07 7,013.85 2,909.63 21,825.66 43,165.08 NA 0.37 4,174.01 5,143.29
+(a) Intangible assets & other non-cash flow items 
+(In the 'Over 5 year time bucket)Y15900.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 21,510.18 21,510.18 NA 0.00 0.00 0.00
+(b) Other items (e.g. accrued income,
+other receivables, staff loans, etc.)
+(In respective maturity buckets as per the timing of the cash 
+flows)Y1600
+457.22 192.15 1,080.39 1,128.54 2.95 0.00 14.02 38.88 1.30 88.01 3,003.46 NA 0.00 0.00 0.00
+(c) Others Y1610 80.76 0.00 8,214.52 68.72 41.53 11.09 124.05 6,974.97 2,908.33 227.47 18,651.44 NA 0.37 4,174.01 5,143.29
+10.Security Finance Transactions (a+b+c+d) Y1620 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+a) Repo
+(As per residual maturity)Y16300.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+b) Reverse Repo
+(As per residual maturity)Y16400.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+c) CBLO
+(As per residual maturity)Y16500.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+d) Others (Please Specify) Y1660 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+11.Inflows On Account of Off Balance Sheet (OBS) Exposure (i+ii+iii+iv+v)Y16703,200.00 0.00 0.43 1.02 0.55 38.65 0.00 1.51 0.02 0.00 3,242.18 NA 0.00 0.00 0.00
+(i)Loan committed by other institution pending disbursal Y1680 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(ii)Lines of credit committed by other institution Y1690 3,200.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 3,200.00 NA 0.00 0.00 0.00
+(iii) Bills discounted/rediscounted Y1700 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(iv)Total Derivative Exposures (a+b+c+d+e+f+g+h) Y1710 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(a) Forward Forex Contracts Y1720 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(b) Futures Contracts Y1730 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(c) Options Contracts Y1740 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(d) Forward Rate Agreements Y1750 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(e) Swaps - Currency Y1760 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(f) Swaps - Interest Rate Y1770 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(g) Credit Default Swaps Y1780 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(h) Other Derivatives Y1790 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00NA 0.00 0.00 0.00
+(v)Others Y1800 0.00 0.00 0.43 1.02 0.55 38.65 0.00 1.51 0.02 0.00 42.18NA 0.00 0.00 0.00
+B. TOTAL INFLOWS (B)
+(Sum of 1 to 11)Y18101,13,403.94 24,434.79 1,76,969.82 62,171.16 59,955.31 2,86,434.94 9,86,527.10 13,94,140.92 3,63,557.50 6,83,903.61 41,51,499.09 NA 2,36,189.70 1,47,260.29 2,85,194.54
+C. Mismatch (B - A) Y1820 56,335.62 17,629.23 46,542.83 -26,524.41 6,873.00 76,787.76 6,30,029.40 2,09,960.19 -71,753.39 -1,84,591.82 7,61,288.41 NA 1,54,999.89 30,497.27 -20,062.54
+D. Cumulative Mismatch Y1830 56,335.62 73,964.85 1,20,507.68 93,983.27 1,00,856.27 1,77,644.03 8,07,673.43 10,17,633.62 9,45,880.23 7,61,288.41 7,61,288.41 NA 1,54,999.89 1,85,497.16 1,65,434.62
+E. Mismatch as % of Total Outflows Y1840 98.72% 259.04% 35.68% -29.90% 12.95% 36.63% 176.73% 17.73% -16.48% -21.25% 22.46%NA 190.91% 26.12% -6.57%
+F. Cumulative Mismatch as % of Cumulative Total Outflows Y1850 98.72% 115.80% 62.02% 33.21% 30.01% 32.55% 89.52% 48.77% 37.51% 22.46% 22.46%NA 190.91% 93.71% 32.88%
+#LAYOUTECER#

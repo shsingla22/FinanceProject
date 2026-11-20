@@ -1,0 +1,84 @@
+ 
+www.stl.tech
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001 , India.       
+CIN - L31300PN2000PLC202408  J
+anuary  22, 202 6 
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, G Block,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai – 4000517 
+S
+crip ID – STLTECH  BSE Limited  
+Phirozee Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001 
+S
+crip Code - 532374  
+Sub: - Press R elease – STL announce s collaboration wi th Colt T echnology S ervices ( Colt)  for the M ulti-Core 
+Fibre (MCF) trials executed across Colt’s London metro optical network in London, UK 
+Dear Sir/Madam, 
+Sterlite Technologies Limited (‘STL’) today announces the successful collaboration with Colt Technology 
+Services (Colt)  for the Multi -Core Fibre (MCF) trials executed across Colt’s London metro optical network in 
+London, UK which marks a significant milestone in real -world validation of MCF technology as a sustainable, 
+high- capacity, cost-e fficient backbone for next-g enera tion networks supporting AI, cloud, and digital services. 
+A copy of press release in this regard is enclosed herewith. 
+Kindly take t he above on r ecord. 
+Thanking yo u. 
+Yours f aithfully, 
+For Sterlite T echnologies Limited 
+Mrunal A sawadekar 
+Company Secretary (AC S 24346) 
+Enclosure: A s above 
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India.                                  
+CIN - L31300PN2000PLC202408  
+ PRESS RELEASE                                              
+STL completes successful trial of Multi -Core Fibre (MCF) with Colt in the UK, powering next -gen optical connectivity  
+London, 22/January/2026:  STL [NSE: STLTECH], a leading connectivity solutions provider for AI -ready digital 
+infrastructure, today announced  the successful collaboration with Colt Technology Services (Colt)  for the Multi -Core 
+Fibre (MCF) trials executed across Colt’s London metro optical network in London, UK. This marks a significant milestone 
+in real -world validation of MCF technology as a sustainable, high -capacity, cost -efficient backbone for next -genera tion 
+networks supporting AI, cloud, and digital services.  
+During the trial, STL’s Multiverse™  Multi -Core 4 -core Fibre —built in the same cladding diameter as standard single-
+mode fibre (SMF) —was deployed. The trial was conducted within the London Metro network between two Colt PoPs, 
+covering distances of ~ 9 km and 63 km. An 800 Gbps line rate was achieved with validation  performed for 100GE and 
+400GE services. Comprehensive testing was carried out, including Chromatic Dispersion (CD), Polarization Mode Dispersion (PMD), Crosstalk, Throughput, Fault analysis, OTDR,  Loss, and Optical Return Loss (ORL) measurements, all 
+of which delivered satisfactory results.  
+STL’s MCF packs 4 -cores into the same cladding diameter as standard single- mode fibre (SMF), keeping coating size at 
+250/200 micrometres and achieving ultra -high transmission capacity per fibre within the same diameter.  
+STL is among the first companies globally to take MCF from lab to real-world environments, spanning underground and duct networks with a complete ecosystem of fibres, cables, and termination solutions.   
+Buddy Bayer, Chief Operating Officer, Colt Technology Services , said: “As demand for network capacity surges, 
+customers need more bandwidth without compromising security, performance, or sustainability. At Colt, we’re pushing 
+the boundaries of optical networking, and this pilot marks a breakthrough across Europe and the USA. It demonstrates our commitment to delivering future-ready, sustainable networks that meet growing needs without costing the earth.”  
+“Partnerships like these exemplify how collaborative innovation can accelerate the evolution of optical infrastructure,” 
+added Dr Badri Gomatam. CTO, STL “STL’s Multiverse MCF portfolio is engineered to meet the high-density, ultra -low 
+latency, and resilient connectivity demands of AI, hyperscale cloud, and next -generation digital ecosystems worldwide.”  
+About STL - Sterlite Technologies Ltd:  
+STL is a global leader in advanced connectivity solutions, providing end- to-end solutions for building AI-ready 
+infrastructure,  FTTx, Rural,  Enterprise and Data Centre networks. With manufacturing facilities in North America, 
+Europe and Asia, we deliver our solutions in more than 100 countries. Data Centre & Cloud companies, Telecom 
+operators, Internet service providers and large  enterprises collaborate with STL to build their future -ready digital 
+infrastructure. STL’s business goals are driven by customer -centricity, R&D and sustainability.  Read more , Contact us, 
+stl.tech  | Twitter  | LinkedIn | YouTube  
+For more information, contact:   
+Media Relations  
+ 
+Shaily Rai Sinha  
+ 
+Phone: +91 22 30450450 
+stl.communications@stl.tech  Investor Relations  
+ 
+Rahul Darak  
+ 
+Phone: +91 22 30514000 
+investor@stl.tech  
+ 

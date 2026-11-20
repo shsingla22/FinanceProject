@@ -1,0 +1,515 @@
+14th May, 2024 
+To, 
+National Stock Exchange of India Limited 
+Exchange Plaza'. C-1, Block G, 
+Sandra Kurla Complex, Sandra (E), 
+Mumbai -400 051. 
+NSESYMBOL:AURIONPRO To, 
+The SSE Limited, 
+25th Floor, P. J. Towers, 
+Fort, Mumbai: 400 001. 
+SCRIP CODE: 532668 
+Sub: Outcome of Board Meeting held on 14th May, 2024 -Financial Results 
+This is to inform you that the Board of Directors ("the Board") of the Company at its Meeting 
+held on 14th May, 2024 has approved the Audited (Standalone and Consolidated) Financial 
+Results of the Company for the quarter and year ended 3pt March 2024, along with Auditors 
+Report thereon received from M/s. C KS P & Co, LLP, Chartered Accountants, Statutory Auditors 
+of the Company. 
+We would further like to state that M/s. C K S P & Co, LLP, Chartered Accountants, Statutory 
+Auditors, have issued audit report with unmodified opinion on the financial results. 
+The Audited Financial Statements of the Company along with Auditor's Report will be made 
+available on the Company's website www.aurionproro.com. 
+The Board meeting commenced a~O: Oo PM and concluded at06 ~ ½c, PM. 
+Kindly take the above on record and acknowledge receipt. 
+Thanking you, 
+For Aurionpro Solutions 
+&· 
+~-f~, 
+Company Secretary 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA phone +91 22 4040 7070 
+fax +91 22 4040 7080 info@aurionpro.com 
+www.aurionpro.com 
+GIN L99999MH1997PLC111637 
+aurionpro t•• 
+Aurionpro Solutions Limited 
+Statement of Audited Consolidated Financial Results for the Quarter and Year ended March 31, 2024 
+Sr Particulars 31-Mar-24 No. 
+Audited 
+1 Income 
+(a) Revenue from Operations 24,687.07 
+(b) Other Income 140.22 
+(c) Total Income [(a)+ (b) J 24,827.29 
+2 Expenses 
+(a) Software, Hardware and Other Material Cost 8,881.36 
+(b) Change in Inventories of Raw Materials, (1,064.03) Finished Goods and Stock-in-Trade 
+(c) Employee Benefits Expense 9,550.01 
+(d) Finance Costs 353.33 
+(e) Depreciation and Amortisation Expense 557.48 
+(f) Other Expenses 2,060.76 
+(g) Total Expenses [ (a) to (f)] 20,338.91 
+3 Profit before share of profit of associates, Exceptional 4,488.38 Items and Tax [1 (c) -2 (g)] 
+4 Share of Profit/ (loss) of Associates -
+5 Profit before Exceptional Items and Tax [ 3+4] 4,488.38 
+6 Exceptional Items -
+7 Profit before Tax [ 5-6 J 4,488.38 
+8 Tax Expenses 
+(a) Current Tax 450.89 
+(b) Deferred Tax Charge/ (Credit) 91.16 
+9 Profit after Tax [ 7-8] 3,946.33 
+10 Other Comprehensive Income (net of tax) 
+Items that will be reclassified subsequently to profit or loss (31.84) 
+Items that will not be reclassified subsequently to profit or loss (9.21) 
+11 Total Comprehensive Income [ 9+10] 3,905.28 
+12 Profit for the period attributable to 
+(a) Equity holders of the company 3,847.76 
+(b) Non Controlling Interest 98.57 
+13 Total Comprehensive Income attributable to 
+(a) Equity holders of the company 3,808.31 
+(b) Non Controlling Interest 96.97 
+14 Paid-up Equity Share Capital (Face Value of Rs. 10 each) 2,471.81 
+15 Other Equity (Excluding Revaluation Reserve) 
+16 Earnings per equity share* 
+-Basic ( In Rs.) 16.13 
+-Diluted ( In Rs.) 15.49 
+• Earnings per equity share for the quarter ended is not annualised. 
+See accompanying notes to the consolidated financial results 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA Quarter ended 
+31-Dec-23 31-Mar-23 
+Unaudited Audited 
+23,075.07 19,065.80 
+249.86 297.55 
+23,324.93 19,363.35 
+7,141.38 7,165.85 
+259.93 273.67 
+8,934.69 6,113.43 
+324.92 384.00 
+525.20 433.69 
+1,616.50 1,469.26 
+18,802.62 15,839.90 
+4,522.31 3,523.45 
+- -
+4,522.31 3,523.45 
+. -
+4,522.31 3,523.45 
+686.66 1,135.51 
+48.05 (272.31) 
+3,787.60 2,660.25 
+53.08 108.84 
+4.86 (13.26) 
+3,845.54 2,755.83 
+3,755.45 2,508.48 
+32.15 151.77 
+3,812.69 2,595.77 
+32.85 160.06 
+2,381.52 2,280.02 
+15.94 11.00 
+15.29 11.00 
+phone +91 22 4040 7070 
+fax +91 22 4040 7080 (Rs.in lakhs' 
+Year ended 
+31-Mar-24 31-Mar-23 
+Audited 
+88,747.15 
+905.07 
+89,652.22 
+30,229.56 
+(497.13) 
+33,389.01 
+1,307.13 
+2,063.23 
+6,282.90 
+72,774.70 
+16,877.52 
+. 
+16,877.52 
+16,877.52 
+2,285.76 
+299.09 
+14,292.67 
+26.29 
+(60.94) 
+14,258.02 
+14,097.23 
+195.44 
+14,061.53 
+196.49 
+2,471.81 
+90,517.32 
+60.48 
+58.26 
+info@aurionpro.com 
+www.aurionpro.com Audited 
+65,933.16 
+433.19 
+66,366.35 
+25,490.11 
+(697.06) 
+21,953.81 
+1,077.06 
+1,585.00 
+4,681.75 
+54,090.67 
+12,275.68 
+(43.48) 
+12,232.20 
+-
+12,232.20 
+2,269.66 
+(226.03) 
+10,188.57 
+268.25 
+(82.85) 
+10,373.97 
+9,732.93 
+455.64 
+9,910.04 
+463.93 
+2,280.02 
+47,492.40 
+42.69 
+42.69 
+CIN L99999MH1997PLC111637 
+aurinnnro ft.';• 
+Notes to the l!onsoli~ated Financial Results: 
+1. Statement of Assets and Liabilities 
+Particulars As at 
+31-Mar-24 
+Audited 
+A ASSETS 
+1 Non-Current Assets 
+(a) Property, Plant and Equipment 8,565.70 
+(b) Capital Work in Progress 129.31 
+(c) Right of use assets 1,150.02 
+(d) Goodwill 31,542.29 
+(e) Other Intangible Assets 3,595.33 
+(f) Intangible Assets under Development 2,151.60 
+(g) Financial Assets 
+(i) Investment 9.02 
+(ii) Other Financial Assets 956.69 
+(h) Income Tax Assets (net) 936.00 
+(i) Deferred Tax Assets (net) 541.33 
+U) Other Non Current Assets 613.37 
+Sub-total Non-Current Assets 50,190.66 
+2 Current Assets 
+(a) Inventories 3,294.65 
+(b) Financial Assets 
+(i) Investments -
+(ii) Trade Receivables 29,085.21 
+(iii) Cash and Cash Equivalents 24,966.52 
+(iv) Bank Balances other than (iii) above 1,904.16 
+(v) Other Financial Assets 17,201.15 
+(c) Other Current Assets 13,118.07 
+Sub-total Current Assets 89,569.76 
+Total Assets 1,39,760.42 
+B EQUITY AND LIABILITIES 
+1 Equity 
+(a) Equity Share Capital 2,471.81 
+(b) Other Equity 90,517.32 
+Equity Attributable to Owner's of the company 92,989.13 
+Non-Controlling Interest 1,596.28 
+Total Equity 94,585.41 
+2 Liabilities 
+Non Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 415.32 
+(ii) Lease Liability 575.63 
+(ii) Other Financial Liabilities 2,000.00 
+(b) Other Non Current Liabilities 864.49 
+(c) Provisions 587.37 
+Sub-total Non-Current Liabilities 4,442.81 
+Current Liabilities 
+(a) Financial Liabilities 
+(i) Borrowings 6,503.55 
+(ii) Lease Liabilities 630.44 
+(iii) Trade Payables 
+Due to Micro and Small Enterprise 3,419.26 
+Due to Other than Micro and Small Enterprise 11,197.03 
+(iv) Other Financial Liabilities 11,244.48 
+(b) Other Current Liabilities 6,166.36 
+(~Pr:OR\S~~ 1,147.17 
+/4 (~_Goirenl~ iabilities (net) 423.91 
+// if _FRN \0 Sub-total -Current Liabilities 40,732.20 
+W' l'1iq,t~•AW1~ .lrn1 Liabilities 1,39,760.42 
+~u\,,.,__~bA ~* _A'_ + - Aur,u,-.,_~--lut1ons LImIted Synerg1a IT Park, Plot No. R 270, phone 91 22 4040 7070 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA fax +91 22 4040 7080 (Rs. in lakhs) 
+As at 
+31-Mar-23 
+Audited 
+8,515.96 
+326.11 
+1,297.97 
+8,498.09 
+2,962.60 
+297.87 
+3,591.54 
+945.43 
+596.76 
+853.23 
+1,299.80 
+29,185.36 
+2,797.52 
+-
+19,939.50 
+2,402.12 
+1,879.31 
+11,176.70 
+17,484.20 
+55,679.35 
+84,864.71 
+2,280.02 
+47,492.40 
+49,772.42 
+1,732.71 
+51,505.13 
+2,899.71 
+812.04 
+-
+702.95 
+450.91 
+4,865.61 
+4,564.01 
+554.99 
+3,383.81 
+8,572.78 
+4,692.23 
+5,136.58 -
+767.87 e:,o\ut 
+821.70 ,o 
+28,493.97 I Q, 
+C 
+84,864.71 0 
+\;'~,., 
+'"""""--" 
+info aurion ro.com @ p -
+www.aurionpro .com 
+CIN L99999MH 1997PLC1116 37 
+aurionRro t•• 
+Notes to the Consolidated Financial Results: 
+2. Statement of Cash Flow 
+Sr. Particulars 
+A Cash Flow from Operating Activities 
+Net Profit before tax 
+Adjustments : 
+Depreciation and Amortisation Expenses 
+Interest Income 
+Interest Expenses 
+Bad debts 
+Provision for doubtful debts 
+Employee Stock Purchase Scheme Expense 
+Profit on sale of Property, Plant and Equipment (PPE) 
+Foreign exchange (Gain)/ Loss 
+Operating Profit before working capital changes 
+Movements in Working Capital 
+Decrease/ (Increase) in Inventories 
+Decrease/ (Increase) in Trade Receivables and Other Assets 
+Increase/ (Decrease) in Trade Payables, Other Liabilities 
+Cash Generated from Operations 
+Income taxes paid (net of refunds) 
+Net cash generated from Operating Activities 
+B Cash flow from Investing Activities 
+Purchase of PPE and Other Intangible Assets (net) 
+Purchases of Business and Equity 
+Sale/ (Purchase) of Investments 
+Interest Received 
+Investment in Fixed deposits with Banks 
+Net cash used in Investing Activities 
+C Cash flow from Financing Activities 
+Proceeds/ (Repayment) Long-Term Borrowings (net) 
+Proceeds from Short-Term Borrowings (net) 
+Proceeds from Issue of Equity Shares 
+Payment of issue Expenses 
+Repayment of Lease Liabilities 
+Dividend Paid 
+Interest Paid 
+Net cash generated/ (used in) from Financing Activities 
+D Net Increase/ (Decrease) In Cash and Cash Equivalents (A+B+C) 
+Cash Equivalents at beginning of year 
+ash Equivalents at end of year 
+Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA (Rs. in lakhs) 
+Year Ended 
+31-Mar-24 31-Mar-23 
+Audited Audited 
+16,877.52 12,232.20 
+2,063.23 1,585.00 t-------
+(253.09) (292.09) 
+960.34 820.58 
+206.59 462.50 
+0.12 (160.03) 
+1,076.64 
+(25.65) 
+(487.80) 
+20,417.90 
+(497.13) 
+(10,188.85) 
+9,640.60 
+(1,045.37) 
+19,372.53 
+(3,009.97) 
+16,362.56 
+(3,232.58) 
+(20, 764.12) 
+3,591.55 
+230.77 
+(159.35) 
+(20,333.73) 
+(3,643.33) 
+3,098.49 
+29,727.51 
+(458.00) 
+(695.03) 
+(602.50) 
+(891.57) 
+26,535.58 
+22,564.40 
+2,402.12 
+24,966.52 1-----651.62 
+15,299.78 
+(697.06) 
+(15,218.29) 
+6,770.04 
+(9,145.31) 
+6,154.47 
+(2,065.92) 
+4,088.55 
+(4,593.32) 
+(1,166.57) 
+281.88 
+(91.11) 
+(5,569.12) 
+59.34 
+1,674.73 
+,__ _____ _., 
+(608.71) 
+(570.00) 
+(716.79) 
+(161.43) 
+(1,642.00) 
+4,044.12 
+2,402.12 
+info@aurionpro .com 
+www.aurionpro.com 
+CIN L99999MH1997PLC111637 
+aurionpro 4:• 
+Notes to the Consolidated Financial Results: 
+3. Segment Information 
+Quarter ended 
+Particulars 
+31-Mar-24 31-Dec-23 
+Audited Unaudited 
+1 Segment Revenue 
+A Sale of software services 14,731.94 16,325.30 
+B Sale of equipment and product 9,955.13 6,749.77 license 
+Total (a+b) 24,687.07 23,075.07 
+1 Segment Results 
+A Sale of software services 13,175.21 13,735.37 
+B Sale of equipment and product 3,694.52 1,938.39 license 
+Total (a+b) 16,869.73 15,673.76 
+Less: Un-allocable expenses 
+A Employee benefits expense 9,550.01 8,934.69 
+B Finance costs 353.33 324.92 
+C Depreciation and amortisation 
+exoenses 557.48 525.20 
+D Other expenses 2,060.76 1,616.50 
+Add: Un-allocable Other income 140.22 249.86 
+Add: Share of Profit/(loss) of - -Associates 
+Profit before tax 4,488.38 4,522.31 (INR in Lakhs) 
+Year ended 
+31-Mar-23 31-Mar-24 31-Mar-23 
+Audited Audited Audited 
+11,386.65 58,719.90 44,156.88 
+7,679.15 30,027.25 21,776.28 
+19,065.80 88,747.15 65,933.16 
+9,514.08 49,282.18 34,744.48 
+2,112.20 9,732.54 6,395.63 
+11,626.28 59,014.72 41,140,11 
+6,113.43 33,389.01 21,953.81 
+384.00 1,307.13 1,077.06 
+433.69 2,063.23 1,585.00 
+1,469.26 6,282.90 4,681.75 
+297.55 905.07 433.19 
+- (43.48) 
+3,523.45 16,877.52 12,232.20 
+Assets and liabilities used in the Company's business are not identified to any of the reportable 
+segment, as these are used interchangeably between segments. The Management believes that 
+it is not practicable to provide segment disclosure relating to total assets and liabilities since a 
+meaningful segregation based on the available data is onerous. 
+4. The Company has consolidated financial results of all its subsidiary companies/ joint ventures 
+as per Indian Accounting Standard 110-Consolidated Financial Statements. 
+5. Other Income includes foreign exchange (gain)/loss of INR (7.20) Lakhs and INR (487.80) Lakhs 
+for the quarter and year ended 31/03/2024 respectively. (Quarter and year ended 31/03/2023: 
+INR 195.60 Lakhs and INR 194.58 Lakhs respectively). 
+6. Pursuant to the approval from the Board of Directors on 25/07/2022 and Shareholders on 
+26/09/2022, Aurionpro Solutions Limited -Employee Stock Purchase Scheme 2022 ('ASL ESPS 
+2022') was instituted and Aurionpro Solutions Ltd -Employee Benefit Trust ('ASL ESPS Trust') 
+was formed to administer the ESPS plan. The Company has made allotment of 10,00,000 equity 
+shares of INR 10 each to ASL ESPS Trust' on 15/05/2023 under ASL ESPS 2022. During the 
+year, the Company has incurred ESPS cost of INR 357.36 Lakhs and INR 1,076.64 Lakhs for the 
+~~a::::a:;..;..rter and year ended 31/03/2024 respectively. ESPS Trust shares are consolidated in the 
+~ "N<DJ 
+O idated financial statements of the Company . 
+<"'l FRN 0 
+::::a:: 131228W ,­
+.-. W100044 ,-"" ..a_ l>. 
+Aurionpro Solutions Limited Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA phone +91 22 4040 7070 
+fax +91 22 4040 7080 
+aurionpro t•• 
+7. As required under IND AS 115 "Revenue from Contracts with Customers", unbilled revenue is 
+accounted on estimated basis in respect of contracts where the contractual right to consideration 
+is based on completion of contractual milestones as confirmed by technical team. 
+8. The Company's standalone turnover, profit before tax, profit after tax and total comprehensive 
+income is as under: 
+Quarter Ended Year Ended 
+Particulars 
+31-Mar-24 31-Dec-23 31-Mar-23 31-Mar-24 31-Mar-23 
+(Audited) (Unaudited) (Audited) (Audited) (Audited) 
+Turnover 17,371.85 13,983.63 13,404.38 58,249.48 42,010.08 
+Profit before tax 1,618.44 1,531.28 1,919.51 5,131.79 4,957.35 
+Profit after tax 1,187.62 1,143.99 1,449.42 3,889.91 3,861.17 
+Total 
+Comprehensive 1,124.18 1,148.85 1,436.16 3,774.74 3,778.32 
+Income 
+9. During the quarter, the Company completed acquisition of 100% stake in Aurionpro Transit Pte. 
+Ltd (Formerly known as SC Soft Pte. Ltd) through its Singapore based subsidiary Aurionpro 
+Solutions Pte. Ltd by acquiring balance 335186 shares constituting 9.66% stake from existing 
+shareholders for cash consideration of USO 0. 98 million. 
+10. Pursuant to the approval of the Board of Directors dated 12/02/2024, approval of the 
+shareholders dated 07/03/2024 and post receipt of In-Principle approvals from the BSE and 
+NSE, the Allotment Committee of Board of Directors in its meeting held on 28/03/2024 approved 
+allotment of 9,02,935 equity shares on preferential basis at an issue price of Rs.2,215/- per 
+equity share for an aggregate amount of INR 200 crores, as per the relevant provisions of Chapter 
+V of the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) 
+Regulations, 2018. 
+11. Pursuant to the approval of the Board of Directors dated 10/01/2024 for the Qualified 
+Institutional Placement ("QIP"), approval of the shareholders dated 07/02/2024 and post receipt 
+of In-principle approval of the BSE and NSE on 13/03/2024 the Company made allotment of 
+18,88,665 Equity Shares to the eligible Qualified Institutional Buyers("QIB") on 08/04/2024 at 
+an issue price of INR 2,000 each for an aggregate subscription amount of INR 377. 73 crores. 
+12. Pursuant to the approval of the Board of Directors dated 19/04/2024, the Company acquired 
+majority stake (67%) in Arya.ai operated under legal entity Lithasa Technologies Private Ltd for 
+an aggregate cash consideration of INR 135.20 Crores. 
+13. The Board has recommended issuance of bonus equity shares in the ratio of one equity share of 
+INR.10/- each for every one equity shares of INR.10/- each held, subject to approval by the 
+members of the Company. " 
+14. The Board has recommended in its meeting held on 14/05/2024, a final dividend of INR 2.5 per 
+equity share having the face value of equity share of INR. 10/-each (post bonus), for the financial 
+year 2023-24 subject to approval of the shareholders of the company at the ensuing Annual 
+General Meeting. 
+Synergia IT Park, Plot No. R-270, 
+T.T.C. Industrial Estate, Gautam Nagar, 
+Near Rabale Police Station, Rabale, 
+Navi Mumbai -400 701. MH -INDIA phone +91 22 4040 7070 
+fax +91 22 4040 7080 

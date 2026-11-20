@@ -1,0 +1,403 @@
+
+=== page 1 ===
+ 
+ 
+May  27, 202 6 
+ 
+To,  
+National Stock Exchange of India Limited   BSE Limited  
+Exchange Plaza       Phiroze Jeejeebhoy Towers  
+Plot no. C/1, G Block      Dalal Street  
+Bandra Kurla Complex, Bandra (E)    Mumbai 400 001  
+Mumbai 400 051       
+ 
+Symbol: CPPLUS      Scrip Code: 544466  
+ISIN: INE819V01029      ISIN: INE819V01029  
+ 
+ 
+Dear Sir / Madam,  
+ 
+Sub.: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015  – Investor Presentation - Financial Results for the quarter and financial year  
+ended March  31, 2026 
+ 
+Pursuant to provisions of Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (“SEBI Listing Regulations"), as amended, please find enclosed herewith the Investors 
+Presentation on the audited financial results (standalone & consolidated) of the Company for the quarter 
+and financial year  ended March  31, 202 6. 
+ 
+The investors presentation will also be hosted on the Company's website viz. 
+https://www.adityagroup.com/  
+ 
+Kindly take the same on record.  
+ 
+For and on behalf of Aditya Infotech Limited   
+ 
+ 
+ 
+Roshni Tandon  
+Company Secretary & Compliance Officer  
+Membership Number: A21150  
+ 
+Encl:  As above  11~:II 
+ADITYA INFOTECH LTD. 
+Corp. Off.: A-12, Sector 4, Noida, Uttar Pradesh, India 201301 
+Phone: +91 120 4555 666 E-Mail: sales@adityagroup.comWebs ite:www.ad ityagroup.com 
+bUl~c:Hn9 the FLlt::ure 
+Regd. Off.: F-28, Okhla, Industrial Area, Phase -1, 
+New Delhi-110 020 (INDIA) 
+CIN NO: L74899DL 1995PLC066784 3ECPPLUS 
+upar wala sab dekh raha hai 
+=== page 2 ===
+ADITYA INFOTECH 
+LIMITED
+Investor Presentation Q4 & FY2026c ® 
+a c::1 t::: !::I a 
+1:1,LJILc:llnB t:::l"I li'Ut:::Ure 3ECP PLUS 
+Intelligent Security Systems 
+=== page 3 ===
+Table of Contents
+•Business Updates
+•Financial Update
+•Guidance3ECPPLUS 
+lnt~lllgc11t s~uniy S~• mJ 
+=== page 4 ===
+BUSINESS
+UPDATES3ECPPLUS 
+ln1t111~r>t Sc-,:;urlty S~tt"'I 
+=== page 5 ===
+PRICE ESCALATION IS 
+INEVITABLE Global Semiconductor & 
+Memory Supply 
+Disruption
+Global Supply Chain Shortages :
+All major memory vendors stopped DDR3 
+production
+Multi SoC Product
+Strategy
+Multi -Supply Chain Procurement 
+Strategy Aligned with ESMT, 
+Macronix  & Winbond
+Forward Procurement & Long -Term 
+Planning
+Price rise keep
+going Up until 2027 
+AIL Passing it in Gradual 
+Manner 
+J. 3ECPPLUS 
+lnt<,lli~m Sc<ur,I)' S~1~ms 
+=== page 6 ===
+•Strong alignment with all non-Chinese  
+SOC vendors
+ 
+•Ambarella, Qualcomm, Augentix  
+•Innofusion , Novatek, Realtek 
+•Improved supply & technology flexibilitySOC Partnerships Sensor Alignment
+Strong partnerships with: 
+• Smartsens  
+• Sony 
+• SOI 
+•Ensuring technology & supply continuity
+SoC & Sensor Alignments 
+Partnerships & JV Update
+Qualcomm 
+Technologies
+• Manufacturing coaxial and network 
+cables for captive consumption.
+• Strengthening backward integration 
+strategy.Orient Cables Joint Venture
+• Co-development of semiconductor and AI -
+based surveillance technologies.
+• Supporting India’s semiconductor 
+localization ecosystem.L&T Semiconductor Technologies
+• Strategic partnership for AI -enabled video 
+security solutions.
+• Enhancing edge AI and intelligent 
+surveillance capabilities.3ECPPLUS 
+ln1t111~r>t Sc-,:;urlty S~tt"'I 
+4(' N~VAl'EK ~ REALTEK QualcoNW\ SONY 
+=== page 7 ===
+Tech and R&D
+•In-House  R&D  Labs  - Certified  by DSIR,  GOI
+•R&D  Labs  in Noida,  Ahmedabad  & shortly  opening  
+in Bangalore
+•Offshore  R&D  Centre  in Taiwan
+•End  to End  Design  & Development  of CCTV  
+hardware,  firmware,  and  features  capabilities  with  
+world  class  image  tuning,  testing  & validation
+•Great  progress  on CPPLUS  Unified  Platform  for 
+Cloud,  P2P, IOT,  & AI with  common  mobile  app
+•CP PLUS  AI-Powered  Solutions  for video  analyticsInhouse Design & Development
+Hardware Design & 
+Development  Embedded Systems & 
+Firmware Software Platforms & 
+Applications 
+Artificial Intelligence
+& Analytics IoT Devices & 
+Connectivity Cloud Infrastructure & 
+Storage
+Testing, Validation & 
+Certification Image Tuning & verification Automation & CI/CD 
+Practices 
+~CP PLUS 
+Intelligen t Security Systems 
+=== page 8 ===
+Manufacturing & Capacity Update
+•Cable localization: Cat6, Co -axial, Fiber, Camera & 
+Recorder cables 
+•HG (housing): Own plant with 50 machines to go online 
+ 
+•Lenses: Auto Assembly line ordered
+•IR LED & SMD Board/ WIFI Module & 4G Module
+•Packaging, Screws, Power Electronics & ConsumablesLocalization Progress Kadapa Plant
+•Capacity now 2.5 M units per month. 
+•Manpower & supply chain challenges under 
+improvement 
+•Targeting 90 –100% utilization
+•HAC job work shifting to EMS player for about 500K 
+units/ month from June/ July
+~CP PLUS 
+Intelligen t Security Systems 
+=== page 9 ===
+FY2027 Growth & Expansion Timeline
+Housing plant development: 
+Phase 1 operational by Q2 FY2026
+Phase 2 operational by Q4 FY2026
+Automatic Lens Line:  
+Initial capacity: 500,000/ month
+Scalable – 1M units/ monthNew North Factory Cluster  – 
+Pushing for large land parcel in 
+north India for future CCTV & Lens 
+JV Plant
+Kadapa Expansion:
+Looking at acquiring large land 
+parcel adjacent to existing facility 
+for future expansionFuture Target (Next 2 Years) FY28
+Expand capacity to 2X by FY28.
+Achieve complete backward integration across all components.
+Establish fully functional global R&D presence, including Taiwan 
+operations.
+Noida Quick Expansion:
+Securing leased  facility in Sector 68 Expected 
+operational timeline: Q4 FY2027~CP PLUS 
+Intelligen t Security Systems 
+=== page 10 ===
+Team Expansion
+Core Capability Expansion
+•Team expansion in R&D, Manufacturing & Localisation 
+•Strengthening supply chain resilience & operational efficiency 
+•Building stronger execution and innovation capabilities 
+Enterprise & Government SI Growth
+•Expansion of Enterprise & Government SI teams 
+•Strengthened Pre -Sales & Solution Consulting support 
+•Enhanced Post -Sales & customer service capabilities
+ 
+Leadership & Organisation Development
+•Legal Counsel onboarded to strengthen governance & compliance 
+•Senior leadership hiring underway across key functions 
+•Building a future -ready and scalable leadership pipeline ~CP PLUS 
+Intelligen t Security Systems 
+=== page 11 ===
+CP PLUS 2.0 GTM Strategy with Multi -Series - 
+SERIES
+Under preparation from Taiwan R&D
+IPC, NVR, WIFI Cameras IPC, NVR, WIFI, 4G, POE
+HD rangeOTHER BRANDS
+lntelligient Network Series ViDu 
+SERIES 3E CP PLUS r:Jil!l 
+IVUE 11ua 
+=== page 12 ===
+A n  E l i t e  
+C i r c l e  o f  
+E x c e l l e n c e
+Retail  Support  & 
+Demo  Support75 
+partners100 Cr+  
+Elite
+Mystery
+benefitsMeet  and
+Greet
+Couple  trip  with  MD  
+& LeadershipService  
+Advantage
+Co-funded  Sales  Force
+Exclusive  Launch  Offers
+Quarterly  TrainingInstallation  Business : 
+Enabled  via online  & offline  channels  
+Lead  Routing : 
+Direct  all inquiries  to Galaxy  Stores  
+Store  Locator : 
+Website  with  geotagging  for all Galaxy  Stores
+Limited -Time  Deals : 
+30-day  “crazy  offers”NEW INITIATIVES
+GALAXY STORE PROGRAMME~£1~PLUS ecurity Systems 
+=== page 13 ===
+Marketing Update
+• Vijay Sethupathi – Tamil Nadu Partnership 
+• Prithviraj Sukumaran – Kerala Partnership Celebrity Partnerships
+• Regional TV campaigns in Kerala & Tamil 
+Nadu 
+• IPL-led campaigns in Hindi & English & 
+Business News TV & Media Campaigns
+• Major airport advertising campaigns with 
+IPL 
+• Regional outdoor campaigns in TN & KL Outdoor Visibility
+• IPL Title Sponsorship – 
+Punjab Kings 
+• Year -Round Cricket 
+PresenceSports Sponsorships
+• Largest -ever presence at 
+IFSEC 2025 India 
+• PACC 2025 – Title 
+Sponsorship Trade Shows
+~CP PLUS 
+Intelligen t Security Systems 
+=== page 14 ===
+Growth Projections 
+Revenue Outlook FY27
+INR 6,000 Cr - INR 6,500 CrPrice Rise 
+FY27Profitability Outlook 
+PAT FY27 @ 8.5% - 9.5%
+•Increase in FY27 revenue outlook 
+supported by both volume growth and 
+price increase
+•25% approx. growth due to ASP Rise
+•25% approx. growth due to Units scaling 
+up (Market expected to grow at 15% -17%)
+•Increased focus on high value specialized 
+solutions
+•Two new brands to drive further market 
+share expansion – Nexivue  & Eyra
+•Expansion on Mfrg Capacity, R&D, 
+Localization, Market & Channel efforts to 
+help grow numbers •Price growth expected due to volatility in 
+component prices, operational costs and 
+USD. 
+•Price rise taken in Q4 of FY26.
+•Price rise continues in FY27 and monthly 
+price rise happening.
+•FY27 ASP may increase by 25%•Supply side price rises expected to 
+continue and geopolitical factor 
+contributing to elevate raw material costs
+•Company passing on the price rise but in 
+tapered manner to ensure liner 
+consumption, may lead to some lag in 
+margin realization
+•Higher operational cost in terms of higher 
+freight and insurance cost.
+•Continued focus on operational efficiency, 
+cost discipline, and long -term margin 
+enhancement
+~CP PLUS 
+Intelligen t Security Systems 
+=== page 15 ===
+FINANCIAL HIGHLIGHTS
+Q4 & 12M FY26 3ECPPLUS 
+ln1t111~r>t Sc-,:;urlty S~tt"'I 
+=== page 16 ===
+INR 1,422 CROREREVENUE
+45.5% YoY GROWTH
+INR 258 CROREEBITDA
+162.4% YoY GROWTH
+INR 169 CROREPAT
+207.7% YoY GROWTHQ4 FY26
+ADITYA INFOTECH LIMITED
+Q4 & FY26 FINANCIAL 
+PERFORMANCEINR 4,221 CROREREVENUE
+35.6% YoY GROWTH
+INR 579 CROREEBITDA
+124.1% YoY GROWTH
+INR 368 CROREPAT
+166.1% YoY GROWTHFY260. 
+ad1t:.=1a ~CP PLUS 
+Intelligen t Security Systems 
+l 
+.... 
+i -__ [ 
+=== page 17 ===
+Rs. in Crore
+Particulars Q4 FY26 Q4 FY25 YoY (%) FY26 FY25 YoY (%)
+Revenue from Operations 1,422.0 977.4 45.5% 4,220.8 3,111.9 35.6%
+COGS 970.2 758.1 3,006.9 2,442.4
+Gross Profit 451.8 219.3 106% 1,213.9 669.4 81.3%
+Gross Margin % 31.8% 22.4% 28.8% 21.5%
+Total Expenses 195.1 121.3 647.8 422.1
+Other Income 1.6 0 12.8 11.1
+EBITDA 258.3 98.4 162.4% 579.0 258.4 124.1%
+EBITDA Margin % 18.1% 10.1% 13.7% 8.3%
+Depreciation 22.7 12.0 56.0 31.1
+EBIT 235.6 86.5 172.4% 522.9 227.3 130.1%
+EBIT Margin 16.5% 8.8% 12.4% 7.3%
+Finance Costs 7.7 12.4 30.2 41.8
+Profit before Exceptional Items and Tax 227.9 74.1 207.7% 492.7 185.5 165.7%
+Profit before Exceptional Items and Tax (%) 16.0% 7.6% 11.6% 5.9%
+Exceptional Items - (248.6)
+Tax expenses 58.8 19.1 124.8 82.7
+Profit After Exceptional Item and Tax 169.1 55.0 207.7% 368.0 351.4 4.7%
+Profit After Exceptional Item and Tax (%) 11.9% 5.6% 8.7% 11.3%
+Exceptional Item2(Net of Deferred Tax) (213.1)
+Adjusted Profit after Tax3 169.1 55.0 207.7% 368.0 138.3 166.1%
+Adjusted Profit after Tax (%) 11.9% 5.6% 8.7% 4.4%
+EPS
+1.Margins  are calculated  on Total  Income  (Revenue  from  Operations+  Other  income)
+2.The exceptional  item  of Rs 248.6 Cr is related  to the Gain  on account  of fair valuation  of previously  held  equity  interest  in joint  venture  AIL Dixon  as at the date  of acquisition
+3.Adjusted  profit  after  tax for FY25 is before  consideration  of the exceptional  item(net  of Deferred  Tax)  of Rs 213.1 Cr which  is related  to the Gain  on account  of fair valuation  of 
+previously  held  equity  interest  in joint  venture  AIL Dixon  as at the date  of acquisition .Consolidated Profit & Loss Statement
+~CP PLUS 
+Intelligen t Security Systems 
+=== page 18 ===
+Rs. in CroreDelivered strong growth  
+Upgraded  full-year guidance  for FY27 
+17 1.Adjusted  profit  after  tax for FY25 is before  consideration  of the exceptional  item(net  of Deferred  Tax) of Rs 213.1 Cr which  is related  to the Gain  on account  of fair valuation  of 
+previously  held  equity  interest  in joint  venture  AIL Dixon  as at the date  of acquisition .Particulars
+(in INR Crore)Actual 
+FY25Actual
+FY26Guidance
+FY26EGuidance
+FY27E
+EarlierGuidance
+FY27E
+Now
+REVENUE 3,112 4,221 3,900 -4,100 Cr 5,350 -5,550 Cr 6,000 -6,500 Cr
+EBITDA 258 579
+EBITDA (%) 8.3% 13.7 % 11-12 % 12-13 % 14-15 %
+Adjusted PAT1138 368
+Adjusted PAT (%) 4.4% 8.7% 7-7.5% 7.5-8.5% 8.5-9.5%
+Estimated Revenue growth in FY27 --- YoY growth: 40 -50%+
+      Estimated EBITDA growth in FY27 --- YoY growth: 45 -65%+
+Estimated PAT growth in FY27 --- YoY growth: 50 -65%+Strong Growth Outlook for FY27
+Revenue : ₹6,000 –6,500 Cr 
+PAT : 8.5 –9.5%~CP PLUS 
+Intelligen t Security Systems 
+=== page 19 ===
+Ratio Analysis for FY2026
+1828.8%Gross Margin
+FY25: 21.5%
+(+7.2%)13.7%EBITDA %
+FY25: 8.3%
+(+5.4%)8.7%Adj. PAT %
+FY25: 4.4%
+(+4.3%)
+95Inventory Days
+FY25: 102
+(-7 days)121Debtor Days
+FY25: 122
+(-1 day)138Creditor Days
+FY25: 157
+(-19 days)78Cash Conversion Days
+FY25: 67
+(+12 days)
+0.06Debt / Equity
+FY25: 0.4
+(-0.3)30.6%RoCE*
+FY25: 20.1%
+(+10.5%)
+*EBIT/ Average Capital Employed25.4%RoE*
+FY25: 19.2%
+(+6.2%)
+*Adjusted PAT/Average Shareholder's Fund~CP PLUS 
+Intelligen t Security Systems 
+=== page 20 ===
+THANK YOU
+------
+CPPLUS\2.D CPPLUS/2.D 

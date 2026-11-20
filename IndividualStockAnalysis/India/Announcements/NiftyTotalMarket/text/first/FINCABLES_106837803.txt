@@ -1,0 +1,294 @@
+                                                                                        
+Registered Office:      
+26-27, Mumbai-Pune Road, Pimpri, Pune – 411018. Tel: 020 27506200.  
+Visit us at: www.finolex.com | Email: sales@finolex.com | CIN: L31300MH1967PL016531   
+ 
+  FCL:SEC:SE:26:83         31st October 2026 
+ 
+Corporate Relations Department 
+BSE Limited 
+1st Floor, New Trading Ring 
+Rotunda Building, P J Towers 
+Dalal Street, Fort 
+Mumbai – 400 001 
+ The Manager 
+Listing Department 
+National Stock Exchange of India Ltd 
+`Exchange Plaza’, C-1, Block G, 
+Bandra – Kurla Complex, 
+Bandra (E), Mumbai – 400 051 
+ 
+Scrip Code: 500144 Scrip Code: FINCABLES 
+ 
+Sub.: Reporting of violations under SEBI (Prohibition of Insider Trading) Regulations, 2015.  
+  
+  
+Dear Sir/Madam,  
+ 
+This is with reference to the Company’s Code of Conduct to Regulate, Monitor and Report Trading 
+by Designated Persons (the “Code”), framed under Regulation 9(1) read with Schedule B of the SEBI 
+(Prohibition of Insider Trading) Regulations, 2015 (the “PIT Regulations”). 
+ 
+Pursuant to Clause 13 of Schedule B to the PIT Regulations, we enclose herewith, as Annexure-1, the 
+report on violation of the Code by a Designated Person of the Company, in the format prescribed by 
+SEBI vide its Circular No. SEBI/HO/ISD/ISD/CIR/P/2020/135 dated July 23, 2020. 
+ 
+You are requested to kindly take the above on your record.  
+ 
+Thanking you, 
+For Finolex Cables Limited  
+ 
+ 
+ 
+Nirnoy Sur 
+Company Secretary & Compliance Officer 
+Membership No.: A26705 
+ 
+Encl.: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                        
+Registered Office:      
+26-27, Mumbai-Pune Road, Pimpri, Pune – 411018. Tel: 020 27506200.  
+Visit us at: www.finolex.com | Email: sales@finolex.com | CIN: L31300MH1967PL016531   
+Annexure-1 
+ 
+Report by Finolex Cables Limited for violations related to Code of Conduct under SEBI 
+(Prohibition of Insider Trading) Regulations, 2015 
+ 
+[Schedule B read with Regulation 9 (1) of SEBI (Prohibition of Insider Trading) Regulation, 2015]  
+Sr. 
+N
+o Particulars  Details  
+1 Name of the listed company/ Intermediary/Fiduciary Finolex Cables Limited 
+2 Please tick appropriate checkbox 
+Reporting in capacity of : 
+ Listed Company 
+ Intermediary 
+ Fiduciary Listed Company  
+3 A. Details of Designated Person (DP) 
+ i.  Name of the DP Mr. Ramesh Mohan Lalwani 
+ ii.  PAN of the DP AAEPL2240H 
+ iii.  Designation of DP Advisor 
+ iv.  Functional Role of DP Advisor to the Company (Vendor 
+Code: 25772) 
+ v.  Whether DP is Promoter or belongs to Promoter 
+Group No 
+ B. If Reporting is for immediate relative of DP Not Applicable 
+ i.  Name of the immediate relative of DP Not Applicable 
+ ii.  PAN of the immediate relative of DP Not Applicable 
+ C. Details of transaction(s)  
+ i.  Name of the script NSE: FINCABLES  
+BSE: 500144  
+ ii.  No of shares traded and value (Rs.) (Date- wise) As per the table below (all trades 
+on NSE) 
+  
+Day 
+/ 
+Dat
+e Client ID  Trading 
+Membe
+r name  Buy 
+Quantit
+y  Buy 
+Amoun
+t (Rs.) Avg. 
+Buy 
+Price 
+(Rs.) Sell 
+Quantit
+y Sell 
+Amoun
+t (Rs.) Avg. 
+Sell 
+Price 
+(Rs.) 
+Mon, 
+31-
+Aug-
+2026 120825006638286
+7 5 Paisa 6 7,502.10 1,250.3
+5 – – – 
+Mon, 
+07-
+Sep-
+2026 120825006638286
+7 5 Paisa 3 3,661.50 1,220.5
+0 – – – 
+Tue, 
+15-
+Sep-
+2026 120825006638286
+7 5 Paisa – – – 3 4,174.80 1,391.6
+0 
+                                                                                        
+Registered Office:      
+26-27, Mumbai-Pune Road, Pimpri, Pune – 411018. Tel: 020 27506200.  
+Visit us at: www.finolex.com | Email: sales@finolex.com | CIN: L31300MH1967PL016531   
+Mon, 
+28-
+Sep-
+2026 120825006638286
+7 5 Paisa 3 4,231.80 1,410.6
+0 – – – 
+ 
+ D. In case value of trade(s) is more than Rs.10 lacs in a 
+calendar quarter -  Not Applicable, as the aggregate 
+value of trades did not exceed Rs. 
+10 lakh during the calendar 
+quarter. 
+ i. Date  of  intimation  of  trade(s)  by  concerned  
+DP/director/promoter/promoter  group  to  Company  
+under regulation 7 of SEBI (PIT) Regulations, 2015  Not Applicable 
+ ii. Date of intimation of trade(s) by Company to stock 
+exchanges  under  regulation  7  of  SEBI  (PIT) 
+Regulations, 2015  Not Applicable 
+4 Details of violations observed under Code of Conduct  Contra trades in violation of 
+Clause 10 of Schedule B to the 
+SEBI (PIT) Regulations and 
+paragraph 8.1 of Clause 9 of the 
+Company’s Code of Conduct: 
+(i) Sale of 3 shares on 15-Sep-2026, 
+within six months of the 
+purchases made on 31-Aug-2026 
+and 07-Sep-2026; and 
+(ii) Purchase of 3 shares on 28-
+Sep-2026, within six months of the 
+sale made on 15-Sep-2026. 
+No relaxation from the contra 
+trade restriction was sought by 
+the Designated Person (“DP”) or 
+granted by the Company. 
+[The Trades were executed 
+without pre-clearance from the 
+Compliance Officer, in violation 
+of Clause 8 of the Company’s 
+Code of Conduct.] 
+5 Action taken by Listed company/ Intermediary/ Fiduciary (i) An explanation sought from 
+the DP vide letter bearing Ref. No. 
+80/SEC/PIT/01/2026-27 dated 26-
+Oct-2026; and the DP’s reply was 
+received on 27th October 2026. 
+(ii) A Warning letter was issued to 
+the DP vide letter bearing Ref. No. 
+82/SEC/PIT/02/2026-27 dated 28th 
+October 2026, cautioning the DP 
+to strictly comply with the Code  
+and the PIT Regulations in future.  
+(iii) The Profit of Rs. 423.75 arising 
+from  the contra trades was 
+                                                                                        
+Registered Office:      
+26-27, Mumbai-Pune Road, Pimpri, Pune – 411018. Tel: 020 27506200.  
+Visit us at: www.finolex.com | Email: sales@finolex.com | CIN: L31300MH1967PL016531   
+disgorged by the DP and remitted 
+to SEBI for credit to the Investor 
+Protection and Education Fund. 
+6 Reasons recorded in writing for taking action stated above The DP explained that the trades 
+were executed in the course of 
+rebalancing his personal 
+investment portfolios, held the 
+Company’s shares along with 
+shares of other companies. The 
+DP further declared that he was 
+not in possession of any 
+unpublished price sensitive 
+information at the time of 
+executing  the trades and that 
+none of his Relative/immediate 
+relatives had traded in the 
+Company’s securities during the 
+relevant period. 
+After Considering the DP’s 
+explanation, that the violation 
+was inadvertent, the quantity and 
+value involved were small, the 
+first instance of such violation by 
+the DP, and the DP voluntarily 
+disgorged the profit, also the 
+Company issued a warning letter 
+to DP, advising him to exercise 
+due diligence and ensure strict 
+compliance with the Code of 
+Conduct and the PIT Regulations 
+in the future.   
+7 Details of the previous instances of violations, if any, since  
+last financial year 
+ None 
+8 If any amount collected for Code of Conduct violation(s) Yes – Rs. 423.75 (Rupees Four 
+Hundred Twenty-Three and 
+Seventy-Five Paise only) 
+ i. Mode of transfer to SEBI - IPEF (Online/Demand 
+Draft) Online 
+ ii. Details of transfer/payment 
+ 
+In case of Online: 
+ 
+Particulars  Details 
+Name of the transferor   Mr. Ramesh Mohan Lalwani  
+Bank Name, branch and  
+Account number  
+ [Bank name, branch and 
+account number] As per the table alongside 
+                                                                                        
+Registered Office:      
+26-27, Mumbai-Pune Road, Pimpri, Pune – 411018. Tel: 020 27506200.  
+Visit us at: www.finolex.com | Email: sales@finolex.com | CIN: L31300MH1967PL016531   
+UTR/Transaction reference  
+Number  
+ [UTR / Transaction reference 
+number] 
+Transaction date  [Transaction date]  
+Transaction Amount (in Rs.)  423.75 
+ 
+In case of Demand Draft (DD): 
+Particulars  Details 
+Bank Name and branch  Not Applicable  
+DD Number  Not Applicable  
+DD date  Not Applicable  
+DD amount (in Rs.)  Not Applicable  
+  
+ 
+9 Any other relevant information (i) The Profit arising on the contra 
+trade at 3.C(ii) above computed 
+on first-in-first-out basis as 
+follows: 
+ (Rs. 1,391.60 – Rs. 1,250.35) × 3 = 
+Rs. 423.75. The contra trade at  
+3.C(ii) resulted in a loss of Rs. 
+57.00, which has not been set off 
+against the profit. 
+(ii) The violation was identified 
+by the Company suo motu review 
+of the trading records for the 
+quarter ended September 30, 
+2026. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

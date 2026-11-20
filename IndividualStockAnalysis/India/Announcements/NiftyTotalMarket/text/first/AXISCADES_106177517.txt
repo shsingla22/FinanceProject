@@ -1,0 +1,146 @@
+ 
+ 
+AXISCADES Technologies Limited  
+(formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru -5 60024, Karnataka, INDIA  
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com  
+March 21, 2025  
+ 
+The Manager       Listing Department  
+Dppt. Of Corporate Services     National Stock Exchange of India Limited  
+BSE Limited       Exchange Plaza, 5 Floor, Plot C/1, G Block  
+Phirozee  Jeejeebhoy Tower, Dalal Street   Bandra – Kurla Complex, Bandra(E),  
+Mumbai 400 001      Mumbai 400 051  
+BSE Scrip Code: 532395     NSE Symbol: AXISCADES  
+    
+Dear Sir /Madam , 
+Sub: Press Release – AXISCADES’ subsidiary Mistral Unveils DCP1000 Module based on Lattice 
+CertusPro -NX FPGA 
+With reference to captioned subject, please find enclosed Press Release titled –  “AXISCADES’ 
+subsidiary Mistral Unveils DCP1000 Module based on Lattice CertusPro -NX FPGA ” 
+ 
+Kindly take the above information on record.  
+Yours truly,  
+For AXISCADES Technologies Limited  
+ 
+ 
+Sonal Dudani  
+Company Secretary & Compliance Officer  
+ 
+AXISCADES’ subsidiary Mistral Unveils DCP1000 Module based on 
+Lattice CertusPro -NX FPGA  
+ 
+A Cutting -Edge Radar Data Capture and Playback Module for mmWave Radar Applications  
+21st March 2025 , Bengaluru, India : Mistral Solutions Private Ltd, (Mistral) a subsidiary of 
+AXISCADES Technologies Limited ( AXISCADES ), a chip to product company and a pioneer in 
+Defen se, Electronic s, Semiconductor and  Artificial Intelligent (ESAI ) applications , today 
+announced the launch of the DCP1000 Module , a compact and user -friendly Radar Data 
+Capture and Playback Module  designed for real -time mmWave Radar data streaming & 
+Playback together. Based on the award -winning low power Lattice Nexus ™ FPGA platform, the 
+DCP1000 delivers high -speed, low -latency d ata capture with Gigabit Ethernet connectivity and 
+HIL (Hardware -In-Loop) playback functionality. This state -of-the-art module is now available for 
+early samples.  
+Revolutionizing Radar Data Capture  
+The DCP1000 module is designed to capture Raw ADC Data from various Texas Instruments’ 
+mmWave radar modules over LVDS, enabling seamless real -time data processing. The module 
+efficiently streams the converted data to a host PC via 1Gbps Ethernet, ensuring optimal 
+performance  for autonomous systems, industrial automation, and advanced sensing 
+applications. Additionally, 8 -bit DMM/Trace interface supports HIL playback, facilitating 
+effective radar data processing, calibration, and testing workflows.  
+ 
+Key Features:  
+• LVDS interface for raw ADC data capture from TI radar sensors  
+• DMM/Trace interface for Radar data  playback  (HIL) & data Processing  
+• SPI and I2C serial interfaces for configuration and control  
+• QT-based GUI for Host PC to configure, capture, and visualize data  
+• DCP1000 Module seamlessly integrated with TI’s mmWave Studio for Raw Data capture 
+and post -processing  
+• Module based on Lattice CertusPro ™-NX FPGA with up to 100K logic cells  
+• 2GB LPDDR4 memory  
+• 1Gbps Ethernet with RJ45 port for high -speed data transfer    
+
+ 
+Optimized Software for Seamless Radar Processing  
+The DCP1000  module  comes with a comprehensive software suite, including a QT -based Host 
+PC application for configuring, capturing, and visualizing radar data. The module supports 
+firmware upgrades, advanced signal processing, and real -time visualization to enhance the radar  
+development experience.  
+“The DCP1000 is a game -changer for mmWave Radar system developers, redefining Radar data 
+processing with cutting -edge technology , high -speed streaming  & Playback . With real -time data 
+capture, playback, and seamless integration with TI’s mmWave Radar platforms, it significantly 
+accelerates the development and validation of Radar -based applications  said Murali krishnan D, 
+CEO Mistral Solutions. “At Mistral, innovation drives us, and this product signifies our deep 
+expertise in Radar technologies and strategic partnerships with Lattice Semiconductor and 
+Texas Instruments,” he added.  
+“At Lattice, we are dedicated to driving innovation in industrial automation through our advanced 
+low power FPGA solutions  with best -in-class connectivity features, ” said Jerry Xu, President of 
+APAC at Lattice Semiconductor . “We look forward to o ur collaboration with Mistral Solutions 
+enhancing real -time radar data processing and seamless module i ntegration, accelerating 
+innovation for our customers .”  
+Availability and Pricing  
+The DCP1000 Module is available for early samples starting today. The product is priced at $649  
+and can be ordered  through the Mistral Webstore . The official ordering lead time for the module 
+is 6 to 7 weeks.  
+For more information, visit https://www.mistralsolutions.com/dcp1000  
+Or write to  info@mistralsolutions.com . 
+ 
+About AXISACDES Technologies Limited  
+AXISCADES is a leading, end -to-end technology, product and solutions provider aiding the 
+creation of innovative, sustainable, and safer products worldwide in the Aerospace, Defen se and 
+ESAI domains. Headquartered in Bangalore with subsidiaries and offices worldwide, in France, 
+Germany, Denmark, USA, and Canada. AXISCADES has a diverse team of over 3000+ 
+professionals working across 15 locations across globe, striving to reduce the program risk and 
+time to market.  
+The comprehensive portfolio of solutions cover s the complete product development lifecycle 
+from concept evaluation to manufacturing support and certification. More: www.axiscades.com   
+About Mistral Solutions Pvt . Ltd – A Chip to Product Company  
+Mistral Solutions, a subsidiary of AXISCADES, is a chip -to-product company that delivers AI -
+enabled products to the defense, semiconductor, automotive, healthcare, industrial, 
+consumer, and hyperscaler sectors. With 28 years of experience, Mistral is one o f India’s 
+leading embedded systems service providers, offering an end -to-end portfolio of solutions to 
+address the growing demand for reliable and intelligent devices, fostering innovation and 
+ 
+driving business transformation.  Its semiconductor solutions include platforms for post -silicon 
+validation, evaluation boards, sensor integration, custom platforms, and applications. Mistral 
+has strong partnerships with leading semiconductor OEMs across a broad range of 
+applications.  Mistral Solutions Pvt. Ltd. is headquartered in Bengaluru, India, and has multiple 
+locations worldwide. To learn more, visit  www.mistralsolutions.com . 
+ 
+For further Queries please contact:  
+ 
+Company: AXISCADES Technologies Ltd.  Investor Relations: Orient Capital  
+Mrs. Sangeeta Tripathi (Head - Investor 
+Relations)  
+email id: sangeeta.tripathi@axiscades.in  / 
+investor.relations@axiscades.in  
+Tel: +91 7021823011  
+ 
+Mr. Akash Nejjur  (GM – Marketing & 
+Communications)  
+email id: akash.nejjur@axiscades.in  
+Tel: +91 80 41939000  
+ 
+Media / PR Pooja Chetri  
+Tel: +91 9819763019  
+Email: pooja@brandingedgestrategies.com   Mr. Irfan Raeen / Mr. Sumeet Khaitan  
+email id: irfan.raeen@linkintime.co.in  / 
+ sumeet.khaitan@linkintime.co.in  
+Tel: +91 9773778669/ +91 7021320701 
+www.orientcap.com  
+ 
+Safe Harbor  
+Certain statements in this communication may be ‘forward -looking statements within the 
+meaning of applicable laws and regulations. These forward -looking statements involve a 
+number of risks, uncertainties, and other factors that could cause actual results to differ 
+materially from those suggested by the forward -looking statements. Important developments 
+that could affect the Company’s operations include changes in the industry structure, 
+significant changes in the political and economic environment in India  and overseas, tax laws, 
+import duties, litigation, and labor  relations. AXISCADES Technologies Ltd. (AXISCADES) will 
+not be in any way responsible for any action taken based on such statements and undertakes 
+no obligation to publicly update these forward -looking statements to reflect subsequent events 
+or circumstan ces.  
+ 
+ 
+ 

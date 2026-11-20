@@ -1,0 +1,72 @@
+ 
+Affle 3i Limited  
+(Formerly known as Affle (India) Limited)  
+Regd. Office | A47 Lower Ground Floor, Hauz Khas, Off Amar Bhawan, New Delhi -110016  
+Communication Office | 8th floor, Unitech Commercial Tower - 2, Sector - 45, Gurugram - 122003,  Haryana  
+(P) 0124 -4598749 (W) www.affle.com ; CIN: L65990DL1994PLC408172   
+  
+Affle/SE/2025 -26                                                               July 30, 2025  
+   
+To 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,                                 
+Dalal Street, Mumbai 400 001  
+Scrip Code: 542752  National Stock Exchange of India Ltd  
+Exchange Plaza, 5th Floor, Plot No. C -l, G 
+Block, Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400 051  
+Symbol: AFFLE  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (“SEBI Listing Regulations”)  
+ 
+This is to inform that the Company has been granted another patent in the US. This grant adds to our 
+expanding tech IP portfolio and augments the performance and effectiveness of our conversion -driven 
+CPCU model, as we further fortify our AI -powered consum er platform stack.  
+ 
+The patent’s subject area is “Method and system to encode user visibility count”. It introduces a smart and 
+efficient way to track and count how often users are exposed to advertisements (also known as user 
+visibility) in a way that significantly reduces m emory and computing requirements. Instead of relying on 
+heavy data storage or click -based feedback, this technology uses probabilistic encoding and algorithmic 
+hashing functions to estimate advertisement exposure frequency across various connected devices,  
+especially impactful in Connected TV (CTV) where direct user interaction/click is limited. It also enables 
+encoding across a range of digital ecosystems including IoT, Virtual Reality and Augmented Reality.  
+ 
+This innovation enhances targeting accuracy, campaign performance and overall impact of our CPCU 
+model. It enables precise evaluation of users' awareness/visibility and helps optimize media spends by 
+identifying high -value audience segments, while reducing  spends on oversaturated or low -engagement user 
+segments. It improves ad engagement rates and ROI by targeting users with lower ad exposure, who are 
+more likely to interact and convert. Its low -memory, low -compute design supports scalable ad delivery 
+even in constrained resource environments, offering computing cost benefit as well.  
+ 
+This marks the 15th patent granted to us, further contributing to our robust IP portfolio comprising 36 
+unique patent applications filed to date. It underscores our continued focus on developing innovative 
+technologies that deliver greater transparency and  drive high -impact user conversions for advertisers 
+globally.  
+ 
+The inventors of this patent include Anuj Khanna Sohum, Charles Yong, Madhusudana Ramakrishna, 
+Guillermo Fernandez Sanz, Adrian Gigante Beneito, Barbara Diaz Duran, Christian Karem Santana and 
+Karanbir Singh.  
+ 
+ 
+Submitted for your information and records.  
+ 
+Thanking You,  
+ 
+Affle 3i Limited  
+(Formerly known as Affle (India) Limited)  
+Regd. Office | A47 Lower Ground Floor, Hauz Khas, Off Amar Bhawan, New Delhi -110016  
+Communication Office | 8th floor, Unitech Commercial Tower - 2, Sector - 45, Gurugram - 122003,  Haryana  
+(P) 0124 -4598749 (W) www.affle.com ; CIN: L65990DL1994PLC408172   
+  
+Yours Faithfully,  
+For Affle 3i Limited  
+(Formerly known as Affle (India) Limited)  
+ 
+ 
+ 
+Parmita Choudhury  
+Company Secretary & Compliance officer  

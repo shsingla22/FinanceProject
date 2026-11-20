@@ -1,0 +1,354 @@
+                              
+            
+  
+ June 05 , 2024 
+The Secretary  
+National Stock Exchange of India Ltd  
+Exchange Plaza, C/1, Block G,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai – 400 051  
+NSE Symbol: TEJASNET  The Secretary  
+BSE Limited  
+P J Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+BSE Scrip Code: 540595  
+ Dear Sir/Madam,  
+Re: Business Responsibility and Sustainability Report for the Financial Year 2023 -24 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing  
+Obligations and Disclosure Requirements) Regulations, 2015, as amended, we are enclosing  
+herewith the Business Responsibility and Sustainability Report for the Financial Year 2023 -24, 
+which forms an integral part of the Annual Report for the Financial Year  2023 -24. 
+ 
+Kindly take the above information on record.  
+ 
+ Yours sincerely  
+ For Tejas Networks Limited  
+   
+ 
+ 
+ 
+ N R Ravikrishnan  
+ General Counsel, Chief Compliance Officer  
+ & Company Secretary  
+Business Responsibility and Sustainability Report
+Section A: General Disclosures 
+I. Details of the listed entity 
+1 Corporate Identity Number (CIN) of the Listed Entity L72900KA2000PLC026980
+ 2 Name of the Listed Entity Tejas Networks Limited
+3 Year of incorporation 2000
+4 Registered office address J P Software Park, Plot No 25, Sy . No 13, 14,17,18 Konnapana 
+Agrahara Village, Begur Hobli Bengaluru- 560100, Karnataka
+5 Corporate addressJ P Software Park, Plot No 25, Sy . No 13, 14,17,18 Konnapana 
+Agrahara Village, Begur Hobli Bengaluru- 560100, Karnataka
+6 E-mail corporate@tejasnetworks.com
+7 Telephone 080-41796400
+8 Website  www.tejasnetworks.com
+9 Financial year for which reporting is being done FY 2023-2024 (April 01, 2023 to March 31, 2024)
+10 Name of the Stock Exchange(s) where shares are listed BSE Limited and National Stock Exchange of India Limited
+11 Paid-up Capital ` 173.98 crore (includes  ` 3.27 crore of forfeited shares)
+12Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR reportN R Ravikrishnan,  
+General Counsel, Chief Compliance Officer & Company Secretary
++91 80 41794608
+ravikrishnanr@tejasnetworks.com
+13Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).The disclosures under this report are made on a standalone basis, 
+unless otherwise specified.
+14 Name of the Assurance Provider Not Applicable
+15 T ype of Assurance obtained Not Applicable
+ 
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main 
+ActivityDescription of 
+Business Activity% of Turnover of 
+the entity
+ 1Communication 
+EquipmentThe company designs, develops and manufactures leading-edge wireless and wireline 
+equipment used predominantly by telecom service providers, utilities, defence and 
+government agencies worldwide. The company has commercialized a wide range of 
+technologies and products for building end-to-end telecom networks that includes 
+4G/5G mobile broadband, multi-gigabit fiber broadband, terabit-scale optical 
+transmission and high-capacity packet switches.87.62
+ 2Communication 
+SoftwareThe company designs and develops software products that enable remote 
+configuration, monitoring, provisioning and management of its products from a 
+central, web-enabled platform. The company’s software products can be either hosted 
+on dedicated servers or on the public cloud.0.53
+3Support Services 
+towards 
+Communication 
+equipment and 
+ServicesThe company offers a comprehensive portfolio of network services to its customers 
+that includes installation and commissioning of its products, post-sale support, 
+maintenance, upgrades and repair, product training, and network design advisory , 
+audit and optimization services.3.20
+Annual Report 2023-24
+1
+Business Responsibility and Sustainability Report
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No. Product/Service NIC Code% of total
+contributed
+1 Manufacture of Communication Equipment 263 87.62
+2 Communication Software 263 0.53
+3 Support Services towards Communication equipment and Services 263 3.20
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated: 
+Location Number of plants Number of offices Total
+National 1 9 10
+International Nil 9 9
+19. Markets served by the entity: 
+a. Number of locations
+Locations Number
+National (No. of States) 28
+International (No. of Countries) 75+
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+6% (excluding other operating revenue).
+c. A brief on types of customers 
+The company’s customers include leading telecom operators, Internet Service Providers (ISP), Utilities (Power, Railway , Oil & Gas, Smart 
+Cities) and Government & Defence agencies across the globe
+IV . Employees
+20. Details as at the end of Financial Year: 2023-2024
+a. Employees and workers (including differently abled): 
+S. 
+No. Particulars Total 
+(A) Male Female 
+No. (B) % (B / A) No. (C) % (C / A) 
+Employees  
+1. Permanent (D) 1,843 1,574 85.40% 269 14.60%
+2. Other than Permanent (E) 1,273 1,207 94.82% 66 5.18%
+3. Total employees (D + E) 3,116 2,781 89.25% 335 10.75%
+Workers  
+4. Permanent (F) 
+Not Applicable 5. Other than Permanent (G) 
+6. Total workers (F + G) 
+Annual Report 2023-24
+2
+Business Responsibility and Sustainability Report
+b. Differently abled Employees and workers:
+S. 
+No Particulars Total 
+(A) Male Female 
+No. (B) % (B / A) No. (C) % (C / A) 
+Differently Abled Employees  
+1. Permanent (D) 1 1 100% 0 0%
+2. Other than Permanent (E) 0 0 0% 0 0%
+3. Total differently abled 
+employees (D + E)1 1 100% 0 0%
+Differently Abled Workers  
+4. Permanent (F) 
+Not Applicable5. Other than permanent (G) 
+6. Total differently abled 
+workers (F + G) 
+21. Participation/Inclusion/Representation of women 
+ Total (A) No. and percentage of Females 
+No. (B) % (B / A) 
+Board of Directors 6 1 17%
+Key Management Personnel 4 0 0
+22. Turnover rate for permanent employees and workers
+(Disclose trends for the past 3 years)
+ FY 2023-2024 FY 2022-2023 FY 2021-2022
+Male Female Total Male Female Total Male Female Total 
+Permanent Employees 6.7% 6.0%  6.6% 17.9% 19.1% 18.0% 18.8% 23.8% 19.4%
+Permanent Workers Not Applicable
+ 
+V . Holding, Subsidiary and Associate Companies (including joint ventures)
+Yes. The Company has one holding and five subsidiaries (including three step-down subsidiary) as on March 31, 2024. Refer to Form AOC-1 
+provided in this Annual Report for information on holding/subsidiary/ associate companies/ joint ventures.
+23. (a) Names of Holding / Subsidiary / Associate Companies / Joint Ventures
+S. No. 
+ Name of he holding  
+/ subsidiary / associate 
+companies / joint 
+ventures (A) Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture % of shares held by 
+listed entity Does the entity indicated at column 
+A, participate in the Business 
+Responsibility initiatives of the listed 
+entity? (Yes/No) 
+1 Panatone Finvest Limited Holding Company 55.60 Yes
+2Tejas Communication Pte. 
+LimitedWholly Owned Subsidiary 100 Yes
+3Saankhya Labs Private 
+LimitedMajority Owned Subsidiary 64.40 Yes
+4 Saankhya Labs Inc. Step-down subsidiary 64.40 Yes
+5Saankhya Strategic 
+Electronics Private 
+LimitedStep-down subsidiary 64.40 Yes
+6Tejas Communications 
+(Nigeria) LimitedStep-down subsidiary 100 Yes
+Annual Report 2023-24
+3
+Business Responsibility and Sustainability Report
+VI. Corporate Social Responsibility Details
+24. (i) Whether Corporate Social Responsibility is applicable as per section 135 of Companies Act, 2013: (Yes/No): 
+Yes*
+As of March 31, 2024
+(ii) T urnover (in ` crore) 2,370.46
+(iii) Net worth# (in ` crore) 3,202.31
+* The Company is not obligated to make any contribution in respect of the Corporate Social Responsibility for the year ending March 31, 2024, 
+in view of the average net loss before tax for the last 3 years is ` 11.48 crore based on the computation as per Section 135 of the Companies 
+Act, 2013
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct: 
+Stakeholder 
+group from whom 
+complaint is 
+received Grievance 
+Redressal Mechanism in  
+Place 
+(Yes/No) (If Yes, then provide 
+web-link for grievance 
+redress policy) FY 2023-2024 FY 2022-2023 
+ Number of 
+complaints 
+filed 
+during the 
+year Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year Remarks  Number of 
+complaints 
+filed 
+during the 
+year Number of 
+complaints 
+pending 
+resolution 
+at close of 
+the year Remarks 
+Communities Yes 
+https://www.tejasnetworks. 
+com/main-control/download/
+Whistle-blower-Policy .pdfNil
+ShareholdersYes 
+https://scores.gov.in/scores/Nil
+Investors (other 
+than shareholders)Yes 
+https://www.tejasnetworks. 
+com/main-control/download/
+Whistle-blower-Policy .pdf
+https://scores.gov.in/scores/Nil
+Employees and 
+workers Yes 
+https://www.tejasnetworks. 
+com/main-control/download/
+Whistle-blower-Policy .pdfNil
+Customers Yes 
+https://www.tejasnetworks. 
+com/main-control/download/
+Whistle-blower-Policy .pdfNil
+Value Chain 
+Partners Yes 
+https://www.tejasnetworks. 
+com/main-control/download/
+Whistle-blower-Policy .pdfNil
+Others (Please 
+specify)Not Applicable
+Annual Report 2023-24
+4
+Business Responsibility and Sustainability Report
+26. Overview of the entity’s material responsible business conduct issues 
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along-with its financial implications, as per the following format
+S. 
+No. Material 
+identified issue Indicate 
+whether 
+risk or 
+opportunity
+(R/O) Rationale for identifying
+the risk / opportunity In case  of risk, approach to 
+adapt or mitigate Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications) 
+ 1Product 
+And Service 
+Responsibility OContribution towards a sustainable 
+ecosystem.- Positive
+ 2Talent 
+ManagementRThe Company’s R&D requires 
+constant upgradation of high-end 
+skills and research capabilities.Enhanced investment 
+in tools, system and 
+content towards capability 
+development.Negative
+3Data Privacy And 
+SecurityRSafeguarding of the enterprise data 
+and also to fulfil the contractual 
+responsibility to customers. The 
+increasing landscape of data privacy 
+laws across the globe also possess a 
+risk of penalties on non-compliances 
+and reputational loss.Enhanced cyber securi-
+ty measures like robust 
+processes, policies, and 
+awareness and sensitization 
+programs.Negative
+4Ethical And 
+Transparent 
+Business ConductREthical behavior is critical for the 
+success of all companies and any 
+such unethical behavior will be risks, 
+which can result in reputation loss 
+and damage to stakeholder trust and 
+business disruption.Periodical internal reviews, 
+audit and presentations 
+on changes introduced by 
+regulators.Negative
+5GHG Emissions 
+And Energy 
+ManagementRClimate change is a threat to the 
+Company’s infrastructure that may 
+disrupt operations and potentially 
+impact the safety and well-being of 
+employees.Business continuity policy 
+and emergency response 
+plans are in place.Negative
+6Responsible 
+ProcurementRThe Company’s emphasis on sustain-
+able supplier may impact cost, time 
+and availability .Planning and supporting 
+existing suppliers to 
+embrace sustainability .Negative
+OThe Company emphasis on sustain-
+ability for furthering ESG compli-
+ance.Positive
+7 Health & Safety RThe Company’s emphasis on pro-
+viding safe environment may impact 
+cost, time and availability .Periodic awareness to 
+employees on health and 
+safety Organizing safety 
+camps for employee well 
+being.Negative
+8 Water & Waste RAligning with the principle of 
+reducing resource use. Setting goals 
+for better water management.Reduction of waste by 
+awareness and responsible 
+disposal leading to 
+recycling. Water treatment 
+facilities are established to 
+ensure water treatment, 
+recycling and recharge.Negative
+9 CSR OAs a part of the Company’s 
+commitment to society , 
+comprehensive interventions are 
+undertaken in education, healthcare, 
+and the environment.Positive
+Annual Report 2023-24
+5
+Business Responsibility and Sustainability Report

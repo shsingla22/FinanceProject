@@ -1,0 +1,96 @@
+ 
+Cyient Ltd.        4th Floor, A Wing, 11 Software                             CIN: L72200TG1991PLC013134 
+                          Units Layout, Madhapur                                        www.cyient.com  
+                          Hyderabad -500 081                                               Company.secretary@cyient.com  
+                          India                                                                        T +91 40 6764 1000  
+                                                                                                           F +91 40 2311 0352  
+12 June 2025  
+BSE Limited 
+PJ Towers 
+25th Floor, Dalal Street 
+Mumbai – 400 001 
+Scrip Code: 532175 National Stock Exch ange of India Ltd 
+Exchange Plaza, Bandra-Kurla Complex 
+Bandra (E) 
+Mumbai – 400 051 
+Scrip Code: CYIENT 
+ Dear Sir,  
+ Sub: Press Release  
+ 
+Please find attached a Press Release titled  ‘MIPS and Cyient Semiconductor collaborate to bring Custom 
+RISC-V-based intelligent power solutions to AI Powe r Delivery, Industrial Robotics, and Automotive.’ 
+This is for your info rmation and records.  
+ 
+Thanking you, 
+ Yours faithfully For Cyient Limited 
+ 
+ Ravi Kumar Nukala Dy. Company Secretary 
+  
+cyient.com  
+ 
+ 
+ 
+PRESS RELEASE 
+ 
+MIPS and Cyient Semiconductor collaborate 
+to bring Custom RISC-V-based intelligent 
+power solutions to AI Power Delivery, 
+Industrial Robotics , and Automotive 
+San Jose, CA & Hyderabad, India- June 12, 2025:   Cyient Semiconductors Private 
+Limited, a fast-growing custom silicon company based in Hyderabad, and MIPS, a global leader in RISC-V processor IP , to day announced a strategic collaboration to 
+develop domain-optimized ASIC (applicati on-specific integrated  circuit) and ASSP 
+(application-specific standard product) solutions that leverage the MIPS Atlas 
+portfolio of advanced, efficient processor IP . The partnership will focus on enabling 
+real-time, safety-critical applications, power delivery, and compute efficiency in demanding platforms for automotive, indust rial, and data center markets. Motor 
+Control & Data Center Power Delivery are fo cal platforms to leverage Cyient’s Analog 
+Mixed Signal capabilities  and MIPS Atlas CPU IP . 
+“As compute systems scale from cloud to the edge, intelligent power delivery is 
+emerging as a key enabler of performance and efficiency,” said Suman Narayan, CEO 
+of Cyient Semiconductors.  “Our collaboration with MIPS allows us to bring together 
+embedded intelligence and advanced power ar chitectures in custom  silicon platforms 
+built on a scalable, open foundation. Together, we are designing tomorrow’s 
+semiconductors — purpose-built for a more  connected and power-efficient world.” 
+“The problem of power efficiency and mo tor control are both real-time compute 
+workloads for which MIPS M8500 microcontrollers are the optimal choice,” said Sameer Wasson, CEO of MIPS . “Building around our best-in-class real-time and 
+control-loop performance and efficiency, Cy ient can bring their unique capability in 
+intelligent power delivery into custom ASIC and ASSP designs to build differentiated solutions that meet our customers uniq ue needs in their target markets.” 
+Demand for software defined vehicles, data center infrastructure, and industrial 
+automation is driving growth for custom  silicon. Customers can build advanced, 
+differentiated solutions that are easy to program using MIPS advanced processor IP , 
+based on the open RISC-V instruction se t architecture, combined with Cyient 
+intelligent power and mixed-si gnal design expertise.  
+Targeted applications include motor driv e control, intelligent power management, 
+power delivery management, and safety-critical applications, offered as ASSP or ASIC 
+ 
+ 
+ platforms. OEMs and system integrators wi ll benefit from faster time-to-market, 
+avoiding proprietary lock-ins, and optimized platform cost.  
+ About MIPS 
+MIPS is the leading provider of compute subsystems for autonomous platforms in 
+automotive, industrial, and embedded mark e t s .  W i t h  a  4 0 - y e a r  h e r i t a g e  i n  R I S C  
+computing innovation and safety capable pr ocessing, MIPS is uniquely positioned to 
+simplify the adoption of Physical AI in indu strial robotics and automotive applications. 
+MIPS pioneering patented technology is based on the open specification RISC-V instruction set architecture, enabling customers to move beyond proprietary legacy 
+architecture lock-ins. For more  information, please visit MIPS.com . 
+  
+About Cyient Semiconductor 
+Cyient Semiconductors, a Cyient Group co mpany, delivers high-performance, power-
+efficient silicon solu tions across analog, mixed-sign al, RF , and digital domains. 
+Serving HPC, data centres, industrial au tomation, communications, automotive, and 
+healthcare sectors, it supports the full chip lifecycle—from architecture to 
+production—through both turnkey and design service models. The company works closely with leading semiconductor firms, OEMs, Tier-1s, and global partners across 
+fabrication, OSAT , and IP to enable sca lable, future-ready silicon innovation. 
+ 
+ 
+  
+  
+Gowtham Uyalla 
+Kaizzen PR 
+gowtham.uyalla@kaizzencomm.com 
+  
+ 
+press@mips.com  
+ 
+Phalguna Hari  jandhyala  
+Cyient 
+Phalguna.Harijandhyala@cyient.com   

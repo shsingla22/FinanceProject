@@ -1,0 +1,158 @@
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411  016, Maharashtra, India    
+CIN - L72300PN1990PLC 056696  
+Tel:  +91 (20) 6703  5555 | Fax  - +91 (20) 6703 6003 | E-mail - info@persistent.com  | Website  - www.persistent.com     
+     
+ NSE & BSE / 2025-26 / 245 
+ 
+      March  17, 202 6 
+ 
+The Manager,   
+Corporate  Services,  
+National Stock Exchange of India Limited          
+Exchange Plaza, Bandra Kurla Complex,   
+    Bandra  (E),  
+Mumbai 400  051 
+ 
+Ref: Symbol:  PERSISTENT  The Manager , 
+Corporate Services,  
+BSE Limited  
+P J Towers, Dalal Street,  
+Mumbai 400 001  
+ 
+  
+ Ref: Scrip  Code:  533179  
+ 
+Dear Sir/Madam,  
+ 
+Sub.:  Press Release titled ‘Persistent Launches AI -Powered Generative Molecules and   
+Virtual Screening Solution Powered by NVIDIA ’ 
+ 
+We wish to inform you that Persistent Systems Limited (the ‘Company’) has made a Press Release dated  
+March  17, 2026, titled ‘ Persistent Launches AI -Powered Generative Molecules and Virtual Screening 
+Solution Powered by NVIDIA ’. 
+ 
+A copy of the Press Release is enclosed for your reference.   
+ 
+This is for your information and records.  
+ 
+Please acknowledge the receipt.  
+ 
+Thanking  you, 
+ 
+Yours sincerely,  
+  
+For Persistent  Systems  Limited   
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.:  ACS 20507  
+ 
+Encl: As above  
+© 2026  Persistent Systems Ltd. All rights reserved.  1  
+ 
+ 
+ 
+Persistent Launch es AI-Powered Generative 
+Molecules and Virtual Screening Solution  
+Powered by NVIDIA  
+Reimagining early -stage drug discovery leveraging NVIDIA 
+BioNeM o Framework  
+ 
+March  17, 2026 
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE: 533179 and NSE: PERSISTENT), a global Digital Engineering and 
+Enterprise Modernization leader , today announced it is working  with NVIDIA to accelerate the 
+development and deployment of AI -powered solutions for the Healthcare and Life Sciences 
+(HLS) industry . The collaboration will help HLS organizations  advance computational drug 
+discovery and improve research outcomes using Generative AI and advanced analytics.  
+ 
+HLS organizations are under increasing pressure to drive innovation while operating in highly 
+complex, regulated  and data -intensive environments. Combining Persistent’s deep domain and 
+engineering expertise with the full -stack NVIDIA AI platform, Life Sciences enterprises can 
+move from AI experimentation to real -world production deployments in mission -critical 
+environments.  
+ 
+Persistent will leverage NVIDIA AI Enterprise  for specialized Life Sciences R&D use cases, 
+including preclinical research. By enabling high -fidelity molecular simulation and virtual 
+screening at scale, the collaboration applies AI to model and reason real -world biological and 
+chemical behavior before it is realized in real-world wet  laboratory environments.  
+ 
+As part of this collaboration, Persistent  will build and deploy production -grade Agentic AI 
+applications  for computational drug discovery using  NVIDIA NeMo . Specifically , Persistent  has 
+created a  Generative Molecules and Virtual Screening (GenMoIVS) solution, powered by the 
+
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  2 
+NVIDIA BioNeMo  platform and NVIDIA NeMo Agent Toolkit . GenMolVS  will deliver AI -driven 
+molecular simulations that model the physical and chemical properties of molecules using large 
+domain -specific models and create intelligent agents to streamline  real-time drug discovery 
+workflows. These agentic workflows enable continuous decisioning across virtual screening, 
+candidate prioritization, and downstream experimental planning, helping research teams 
+translate digital simulations into informed wet laboratory experiments.  This simulation -led 
+approach allows Life Sciences organizations to de -risk early -stage discovery, accelerate 
+experimental cycles and improve downstream success rates in clinical development pipelines.  
+ 
+Persistent is planning to use NVIDIA Nemotron  open models for further enhancement of its 
+GenMolVS solution. Furthermore , to deploy production -grade AI applications , Persistent will use  
+NVIDIA accelerated comput es, serve rs, NVIDIA AI Enterprise  and NVIDIA NIM microservices . 
+Together, t hese capabilities will expedite cost -effective development  of applications with  cost-
+effective scaling options , with highly accurate AI outputs embedded directly into enterprise 
+workflows.  This infrastructure enables production -grade simulation and inference at scale, 
+supporting real -time scientific decisioning in highly regulated research environments.  
+ 
+Through this collaboration , Persistent will also expand its AI and LLM engineering capabilities 
+by leveraging NVIDIA AI infrastructure , training resources  and certification programs to deliver 
+increasingly sophisticated data and AI platforms for c lients . 
+Ganesh Nathella, Executive Vice President and General Manager - HLS Business , Persistent  
+“Healthcare and Life Sciences organizations need to discover new therapies faster, but 
+traditional R&D is too slow and labor -intensive. By combining our GenMolVS solution with 
+NVIDIA full -stack AI platform, we enable BioPharma  clients to use generative molecules and 
+virtual screening in production so they can move from months -long experiments to AI -driven 
+discovery in days, using simulation -led intelligence to guide real -world experimentation without 
+compromising on scientific rigor or compliance .” 
+John Fanelli, Vice President  - Enterprise Software , NVIDIA  
+“To meet the urgent global demand for new therapies, the healthcare and life sciences industry 
+is rapidly moving toward AI -driven computational research and discovery. By leveraging the full -
+stack NVIDIA AI platform, Persistent is empowering biopharma compa nies with production -
+grade agentic systems for molecular simulation and virtual screening .” 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  3 
+ 
+ 
+About Persistent  
+Persistent Systems (BSE:  533179 and NSE: PERSISTENT) is a global services and solutions company delivering AI -led, platform -driven 
+Digital Engineering and Enterprise Modernization to businesses across industries. With over 2 6,500 employees located in 18 countries, the 
+Company is committed to innovation and client success. Persistent offers a comprehensive suite of services, including softwar e 
+engineering, product development, data and analytics, CX transformation, cloud computin g, and intelligent automation. The Company is 
+part of the MSCI India Index and is included in key indices of the National Stock Exchange of India, including the Nifty Midcap 50, N ifty IT, 
+and Nifty MidCap Liquid 15, as well as several on the BSE such as the S&P BSE 100 and S&P BSE SENSEX Next 50. Persistent i s also a 
+constituent of the Dow Jones Sustainability World Index. The Company has achieved carbon neutrality, reinforcing its commitme nt to 
+sustainability and responsible business practices. Persistent has also been named one of America’s Greatest Workplac es for Inclusion & 
+Diversity 2025 by Newsweek and Plant A Insights Group. As a participant of the United Nations Global Compact, the Company is 
+committed to aligning strategies and operations with universal principles on human rights, labor, environment, a nd anti -corruption, as well 
+as take actions that advance societal goals. With 468% growth in brand value since 2020, Persistent is the fastest -growing IT services 
+brand in ‘Brand Finance India 100’ 2025 Report.  
+www.persistent.com  
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+For Media Queries: media@persistent.com  
+ 
+ 

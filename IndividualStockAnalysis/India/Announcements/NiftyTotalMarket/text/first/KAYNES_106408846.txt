@@ -1,0 +1,131 @@
+ 
+KAYNES TECHNOLOGY INDIA LIMITED  
+CIN: L29128KA2008PLC045825  
+website: www.kaynestechnology.co.in  email ID: kaynestechcs@kaynestechnology.net  
+H.O & Registered office: 23 -25, Belagola, Food Industrial Estate Metagalli PO, Mysore 570016 India  
+Telephone No: +91 8212582595  
+ 
+ 
+October  15, 2025  
+ 
+BSE Limited  
+Corporate Relationship Dept.,  
+14th floor, P. J. Tower,  
+Dalal Street, Fort  
+Mumbai - 400 001  
+ 
+Scrip Code: 543664  National Stock Exchange of India Limited  
+Exchange Plaza, Plot no. C/1, G Block,  
+Bandra -Kurla Complex,  
+Bandra (E),  
+Mumbai - 400 051  
+ 
+Scrip Symbol: KAYNES  
+ 
+Dear Sir/Madam,  
+ 
+Subject: Intimation of Press release - Collaborative Triumph: AOS, Kaynes Semicon , 
+and Mitsui Join Forces to Deliver India’s First Manufactured IPM Multi -Chip Module from 
+Sanand . 
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed the press release for the Collaborative Triumph:  AOS, 
+Kaynes Semicon Private Limited (Wholly owned subsidiary Company of Kaynes Technology 
+India Limited), and Mitsui Join Forces to Deliver India’s First Manufactured IPM Multi -Chip 
+Module from Sanand .  
+ 
+The above -mentioned information will also be available on website of the Company 
+www.kaynestechnology.co.in  . 
+ 
+We request to kindly take this intimation on record . 
+ 
+Thanking You,  
+ 
+Yours faithfully,  
+ For Kaynes Technology India Limited  
+ 
+ 
+ 
+ 
+Anuj Mehtha  
+Company Secretary and Compliance Officer  
+ICSI membership no: A62542  
+ 
+ 
+ 
+ 
+ 
+ 
+Press Release  
+ 
+Collaborative Triumph: AOS, Kaynes Semicon , and Mitsui Join 
+Forces to Deliver India’s First Manufactured IPM Multi -Chip Module 
+from Sanand  
+Sanand, Gujarat — October 15, 2025:   
+Kaynes Semicon Private Limited (wholly owned subsidiary Company of Kaynes Technology India 
+Limited) proudly announces a landmark achievement in India’s semiconductor journey with the 
+rollout and shipment of 900 Multi ‑Chip Modules (MCMs) — the Intelligent Power Module (IPM5) 
+— assembled, tested, and quality ‑cleared at the company’s world ‑class OSAT facility in Sanand 
+on Wednesday, 15th October 2025 . This milestone marks India’s first commercially manufactured 
+MCM, realized under the India Semiconductor Mission 1.0 and delivered to Alpha & Omega 
+Semiconductor (AOS), a global leader in power semiconductors based in Sunnyvale, USA.  
+India's first commercially packaged multi -chip module (MCM) under the India Semiconductor 
+Mission 1.0 rolled out of the Kaynes Semicon OSAT facility in Sanand in the early hours of 
+Wednesday and was delivered to Sunnyvale -headquartered Alpha & Omega Semico nductor 
+(AOS), a designer, developer, and global supplier of a broad range of power semiconductors. 
+Around 900 parts of the IPM were sent to AOS today. The IPM module, or Intelligent Power Module, 
+is a semiconductor device that integrates power switching e lements (such as IGBTs) with their 
+corresponding drive and protection circuits into a single, compact package to simplify motor control 
+and other power applications. The company CEO described this as a one -of-its-kind module, 
+featuring 17 dies inside, including Six IGBTs, Two controller IC, Six FRD and Three Diodes . 
+German chip company Infineon is a market leader in this space.  
+Kaynes Semicon's Sanand facility is designed to reach a total capacity of 6.3 million chips per day 
+once fully operational. This delivery marks the start of commercial production for AOS, with full 
+mass production aimed for January 2026. AOS is expected to  occupy majority of the initial capacity, 
+with production ramping up to about 1.5 million chips per day by Q1 2026 -27. 
+This successful delivery highlights Kaynes Semicon’s robust manufacturing capabilities, their 
+ability to meet stringent quality standards, and the scale potential of their Sanand OSAT facility. 
+The achievement is a significant step in India’s semiconductor  sector, showcasing the capacity to 
+produce highly integrated, sophisticated power modules domestically while supporting global 
+semiconductor leaders like AOS  
+IPM: India’s Advanced Power Module for Global Applications  
+The IPM5 module  integrates  15 semiconductor dies  into a compact, high -performance package 
+designed for  industrial and household equipment. Built around  Power ICs, IGBTs, FRDs, and 
+Diodes, this multi -chip design delivers exceptional reliability, thermal sta bility, and power efficiency 
+across motor control, inverter, and energy -saving consumer systems. The 900 -unit shipment 
+represents the first successful production lot, validating Indian capabilities in assembling 
+high-complexity multi -die modules that previ ously required full international supply chain 
+dependence.  
+The IPM rollout marks more than a manufacturing milestone — it symbolizes  India’s transition from 
+design participation to advanced semiconductor packaging leadership. With this achievement, 
+Kaynes Semicon positions itself as a key enabler of India’s ambiti on to become a reliable, globally 
+competitive OSAT hub serving industries from  automotive and industrial automation  to consumer 
+electronics and clean energy systems  
+ 
+ 
+About AOS  
+Alpha & Omega Semiconductor (AOS), based in Sunnyvale, California, is a prominent global 
+designer and supplier of a diverse portfolio of power semiconductors. Their product range includes 
+Power MOSFETs, Silicon Carbide (SiC) devices, IGBTs, Intelligent Pow er Modules (IPMs), and 
+power ICs. AOS focuses on delivering high -performance power management solutions through 
+integration of semiconductor technology, design, and advanced packaging, addressing various 
+sectors including consumer electronics, industrial m otor control, automotive, and data centres. 
+Their extensive portfolio and technical expertise support a wide range of high -volume applications 
+worldwide  
+Mitsui & Co.: Strengthening the Semiconductor Supply Chain  
+Crucial to this achievement is Kaynes strategic partnership with Mitsui & Co., one of the world’s 
+most respected trading and investment conglomerates operating in over 60 countries. Leveraging 
+Mitsui’s extensive global logistics expertise, procurement netw ork, and domain knowledge, Kaynes 
+secured critical raw materials such as Lead Frame, Wires (Aluminium & Copper), Mold Compound 
+etc. required for stable high -volume chip assembly. This leads to shipment of the 900 IPM units to 
+Alpha & Omega Semiconductor (A OS), ensuring seamless delivery from the Sanand facility. This 
+collaboration strengthens India’s semiconductor supply chain resilience, representing a 
+foundational step towards building a self -sustaining semiconductor ecosystem.  
+Raghu Panicker, CEO of Kaynes Semicon:  
+“Our successful delivery of India’s first commercially manufactured Multi -Chip Module is a proud 
+moment for Kaynes and for the entire semiconductor ecosystem in India. This achievement reflects 
+our team's dedication, rapid execution, and commitment to qual ity. Working with AOS and 
+partnering with Mitsui has been instrumental in accelerating our timeline, ensuring seamless supply 
+of critical materials and technology, and establishing India as a trusted node in the global 
+semiconductor supply chain.”  
+ 

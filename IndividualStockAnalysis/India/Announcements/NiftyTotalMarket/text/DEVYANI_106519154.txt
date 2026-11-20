@@ -1,0 +1,401 @@
+ 
+ 
+ 
+February 4, 2026  
+ 
+To, 
+ 
+National Stock Exchange of India Ltd.  
+Exchange Plaza, Block G, C/1, Bandra Kurla 
+Complex, Bandra (E), Mumbai – 400 051  
+Email: cmlist@nse.co.in  
+Symbol: DEVYANI  BSE Limited  
+Phiroze Jeejeebhoy Towers ,  
+Dalal Street, Mumbai – 400 001  
+Email: corp.relations@bseindia.com   
+Security Code: 543330  
+ 
+Subject:    Outcome of the Board Meeting and intimation under Regulation 30 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015  
+ 
+Dear Sir/  Madam,  
+ 
+The Board of Directors of the Company at its meeting held today i.e. February  4, 202 6 (started at 11:00  
+A.M. and concluded at 11:55 A.M. ) inter -alia considered and approved the  Una udited Financial Results of 
+the Company (Standalone and Consolidated) for the Quarter and Nine Months  ended December  31, 2025. 
+A copy of the same along with Limited Review Reports  issued by Walker Chandiok & Co LLP, Chartered 
+Accountants and O P Bagla & Co LLP, Chartered Accountants, Joint Statutory Auditors of the Company, 
+with unmodified opinion , are attached and the same are being uploaded on website of the Company.   
+ 
+You are re quested to take the above on record.  
+ 
+Yours faithfully,  
+for Devyani International Limited  
+ 
+ 
+ 
+Pankaj Virmani  
+Chief Sustainability Officer & Company Secretary   
+ 
+Encl.: As above  
+Devyani International Limited
+Corporate Identification Number: L15135DL1991PLC046758
+Registered Office: F-2Z7, Okhla Industrial Area. Phase 1, New Delhi - 110020
+Corporate Office: Plot No. 18, Sector-35, Gurugram - 122004, Haryana
+Tel: +91-124-4566300, E-mail: companysecretary@dil-ijcorp.com, Website: www.dil-ijcorp.comdevyani
+Statement of consolidated financial results
+(INR in million, except for share data and if otherwise stated)
+ParticularsFor the quarter ended For the nine months endedFor the year 
+ended
+31 December 
+202530 September 
+202531 December
+202431 December 
+202531 December
+202431 March 2025
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1. Income
+(a) Revenue from operations 14,408.97 13,767.51 12,944.04 41,746.17 37,384.61 49,510.52
+(b) Other income 123.26 51.34 90.54 309.66 238.04 369.89
+Total income 14,532.23 13,818.85 13,034.58 42,055.83 37,622.65 49,880.41
+2. Expenses
+(a) Cost of materials consumed 4,467.88 4,429.65 4,042.47 13,206.83 11,537.51 15,348.98
+(b) Purchases of stock-in-trade 12.90 8.46 9.62 29.78 31.10 39.10
+(c) Employee benefits expense 2,174.91 2,016.90 1,881.66 6,202.73 5,397.92 7,104.36
+(d) Finance costs 700.23 688.35 669.77 2,056.37 1,952.97 2,648.30
+(e) Depreciation and amortisation expense 1,666.46 1,551.81 1,467.56 4,715.02 4,180.96 5,698.75
+(f) (Reversal)/provision for impairment (net) (10.86) 51.14 89.30 40.28 88.88 224.54
+(g) Foreign exchange (gain)/loss (net) (32.65) (31.04) (29.84) (75.34) 76.30 89.16
+(h) Other expenses 5,486.12 5,369.41 4,817.84 16,047.97 14,004.59 18,596.10
+Total expenses 14,464.99 14,084.68 12,948.38 42,223.64 37,270.23 49,749.29
+3. Profit/(loss) before share of loss of joint ventures and exceptional items (1-2) 67.24 (265.83) 86.20 (167.81) 352.42 131.12
+4. Share of loss of joint ventures (1.26) (1.99) (1.00) (4.64) (1.06) (3.24)
+5. ProfitZ(loss) before exceptional item and tax from continuing operations (3+4) 65.98 (267.82) 85.20 (172.45) 351.36 127.88
+6. Exceptional items (refer note 3) 215.03 - - 215.03 -
+7. (Loss)/profit before tax from continuing operations (5-6) (149.05) (267.82) 85.20 (387.48) 351.36 127.88
+8. Tax expense
+-Current tax (8.06) 16.93 21.05 85.59 208.98 237.49
+-Adjustment of taxes relating to earlier years (4.67) 0.88 (10.71) (3.79) (9.34) (9.34)
+-Deferred tax (credit)/charge (36.45) (69.82) 151.32 (177.82) 53.09 (31.27)
+Total tax (credit)/expense (49.18) (52.01) 161.66 (96.02) 252.73 196.88
+9. (Loss)Zprofit from continuing operations after tax (7-8) (99.87) (215.81) (76.46) (291.46) 98.63 (69.00)
+10. Loss before tax from discontinued operations (refer note 5) (9.91) (23.65) - (35.50) - -
+Tax expense of discontinued operations - - - - -
+11. Loss from discontinued operations after tax (refer note 5) (9.91) (23.65) - (35.50) - -
+12.(Loss)/profit for the period/ year (9+11) (109.78) (239.46) (76.46) (326.96) 98.63 (69.00)
+13. Other comprehensive income
+(a) Items that will not be reclassified to profit or loss
+Remeasurements of defined benefit plans 9.13 (21.19) (7.78) (5.30) (16.10) (18.71)
+Income-tax relating to above mentioned item (2.13) 5.00 1.30 1.59 3.19 3.66
+(b) Items that will be reclassified to profit or loss
+Exchange differences on translation of foreign operations 247.38 325.96 (294.69) 864.10 691.67 700.38
+Total other comprehensive income 254.38 309.77 (301.17) 860.39 678.76 685.33
+14. Total comprehensive income for the period/ year (12+13) 144.60 70.31 (377.63) 533.43 777.39 616.33
+15. (Loss)Zprofit attributable to:
+Owners of the Company (103.89) (218.87) (4.92) (285.88) 238.87 91.49
+Non controlling interests (5.89) (20.59) (71-54) (41.08) (140.24) (160.49)
+16. Other comprehensive income attributable to:
+Owners of the Company 128.07 163.39 (151.19) 443.52 369.92 374.47
+Non controlling interests 126.31 146.38 (149.98) 416.87 308.84 310.86
+17. Total comprehensive income attributable to:
+Owners of the Company 24.18 (55.48) (156.11) 157.64 608.79 465.96
+Non controlling interests 120.42 125.79 (221.52) 375.79 168.60 150.37
+18. Paid-up equity share capital (face value of INR 1Z- each)
+19. Other equity1,232.87 1,232.87 1,206.27 1,232.87 1,206.27 1,206.27
+9,737.79
+20. (Loss)Zearnings per share from continuing operations 
+(of INR 1Z- each) (not annualised for quarters)
+Basic (INR) (0.07) (0.16) (0.00)* (0.20) 0.20 0.08
+Diluted (INR) (0.07) (0.16) (0.00)* (0.20) 0.20 0.08
+21. Loss per share from discontinued operations 
+(of INR 1Z- each) (not annualised for quarters)
+Basic (INR) (0.01) (0.02) - (0.03) - -
+Diluted (INR) (0.01) (0.02) - (0.03) - -
+22. (Loss)Zearnings per share from continuing and discontinued operations 
+(of INR 1Z- each) (not annualised for quarters)
+Basic (INR) (0.08) (0.18) (0.00)* (0.23) 0.20 0.08
+Diluted (INR) (0.08) (0.18) (0.00)* (0.23) 0.20 0.08
+*Rounded off up to two decimal places
+O Z o ,
+NevvDelhi/6^SIGNED FOR 
+;D^rn’ncATiO • 
+PURPOSES
+
+DEVYANI
+INTERNATIONAL UMITcO
+Devyani International Limited
+Corporate Identification Number: L15135DL1991PLC046758
+Registered Office: F-2/7, Okhla Industrial Area, Phase 1, New Delhi - 110020 
+Corporate Office: Plot No. 18, Sector-35, Gurugram - 122004, Haryana
+Tel: +91-124-4566300, E-mail: companysecretary@dil-ijcorp.com, Website: www.dil-ijcorp.com
+Statement of standalone financial results
+(INR in million, except for share data and if otherwise stated)
+ParticularsFor the quarter ended For the nine months ended For the year 
+ended
+31 December
+202530 September 202531 December
+202431 December
+202531 December
+202431 March 2025
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1. Income
+(a) Revenue from operations 9,062.04 8,706.06 8,725.87 26,936.98 25,481.08 33,493.33
+(b) Other income 155.13 90.18 139.07 407.42 353.93 498.83
+Total income 9,217.17 8,796.24 8,864.94 27,344.40 25,835.01 33,992.16
+2. Expenses
+(a) Cost of materials consumed 2,530.14 2,547.85 2,496.84 7,835.54 7,200.65 9,509.04
+(b) Purchases of stock-in-trade 18.18 12.93 12.98 42.54 43.61 56.60
+(c) Employee benefits expense » 1,337.29 1,202.42 1,245.45 3,802.97 3,530.01 4,549.54
+(d) Finance costs 574.61 559.02 560.46 1,687.23 1,627.71 2,214.10
+(e) Depreciation and amortisation expense 1,134.47 1,046.16 1,045.40 3,227.40 2,951.13 4,036.11
+(f) Impairment of non-current assets - 51.14 89.29 51.14 89.29 223.03
+(g) Other expenses 3,599.24 3,577.34 3,417.56 10,802.98 9,966.19 13,133.41
+Total expenses 9,193.93 8,996.86 8,867.98 27,449.80 25,408.59 33,721.83
+3. Profit/(loss) before tax (1-2) 23.24 (200.62) (3.04) (105.40) 426.42 270.33
+4. Exceptional items (refer note 3) 208.62 - - 208.62 - -
+5. (Loss)/profit before tax (3-4) (185.38) (200.62) (3.04) (314.02) 426.42 270.33
+6. Tax expense
+-Current tax (credit) / current tax (18.76) 10.43 11.84 62.64 185.83 212.75
+-Adjustment of taxes relating to earlier years (4.67) - (11.42) (4.67) (11.27) (11.29)
+-Deferred tax (credit) (39.00) (67.80) (46.54) (167.85) (117.97) (168.32)
+Total tax (credit)/expense (62.43) (57.37) (46.12) (109.88) 56.59 33.14
+7. (Loss)Zprofit after tax (5-6) (122.95) (143.25) 43.08 (204.14) 369.83 237.19
+8. Other comprehensive income
+Items that will not be reclassified to profit or loss
+Remeasurements of defined benefit plan (3.94) (8.54) (3.03) (8.40) (8.04) (5.34)
+Income tax relating to above mentioned item 0.99 2.15 0.76 2.11 2.02 1.34
+Total other comprehensive income (2.95) (6.39) (2.27) (6.29) (6.02) (4.00)
+9. Total comprehensive income for the period/ year (7+8) (125.90) (149.64) 40.81 (210.43) 363.81 233.19
+10. Paid-up equity share capital (face value of INR 1/- each)
+11. Other equity1,232.87 1,232.87 1,206.27 1,232.87 1,206.27 1,206.27
+9,833.40
+12.(Loss)/earnings per share (of INR 1/- each) (not annualised for 
+quarters)
+Basic (INR) (0.10) (0.12) 0.04 (0.17) 0.31 0.20
+Diluted (INR) (0.10) (0.12) 0.04 (0.17) 0.31 0.20
+signed for
+PURPOSES
+\New Delhi/
+
+Devyani International Limited
+Corporate Identification Number: LI5135DL1991PLC046758
+Registered Office: F-2/7, Okhla Industrial Area, Phase 1, New Delhi - 110020 
+Corporate Office: Plot No. 18, Sector-35, Gurugram - 122004, Haryana 
+Tel: +91-124-4566300, E-mail: companysecretary@dil-ijcorp.com, Website: www.dil-tjcorp.com
+Notes to unaudited consolidated and standalone financial results for quarter and nine months period ended 31 December 2025
+(INR in million)
+1 In terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) 2015, as amended, these consolidated and standalone financial results ("financial results") for the quarter and 
+nine months ended 31 December 2025 have been reviewed and recommended for approval by the Audit, Risk Management and Ethics Committee and accordingly have been approved by the Board of 
+Directors of Devyani International Limited ("DIL'1 or the "Company") at their respective meetings held on 04 Feburary 2026. The joint statutory auditors have conducted limited review of the financial 
+results.
+2 These financial results have been prepared in accordance with the recognition and measurement principles of applicable Indian Accounting Standards ('Ind AS') notified under the Companies (Indian 
+Accounting Standards) Rules, 2015 as specified in Section 133 of the Companies Act, 2013 (read with SEBI Circular CIR/CFD/FAC/62/2016 dated 05 July 2016) and other recognised accounting 
+practices and policies.
+Exceptional items:
+(i) On 21 November 2025, the Government notified certain provisions of the Labour Codes, including a uniform definition of wages. Based on the actuarial valuation as at 31 December 2025, the Group 
+and the Company have recognised an increase in post-employment defined benefit obligations (past service) and other long-term employee benefit obligations (compensated absences) of INR 122.13 
+million and INR 115.72 million respectively, arising from this legislative change. As this is a material, non-recurring impact of enactment, die related expense has been presented as Exceptional items in 
+the Unaudited Consolidated and Standalone results for the quarter and nine months ended 31 December 2025.
+(ii) Resolution proceedings relating to a lease dispute were concluded during the quarter without any results. To ensure continuity of operations, the Group paid INR 92.90 million under protest. As this 
+payment is material and has resulted from unusual incidence, it has been presented as Exceptional items in the Unaudited Consolidated and Standalone results for the quarter and nine months ended 31 
+December 2025.
+4 Subsequent to the quarter end, the Board approved a Scheme of Arrangement under Sections 230-232 of the Companies Act, 2013, for the amalgamation of Sapphire Foods India Limited with the 
+Company, effective 01 April 2026. Under the Scheme, the Company will issue 177 equity shares of Re. 1 each for every 100 equity shares of Rs. 2 each held in Sapphire Foods India Limited.
+5 On 10 June 2025, the Company acquired an 80.72% equity stake (on a fully diluted basis) in Sky Gate Hospitality Private Limited (“Sky Gate”), excluding the business of Krazy Kebab Co. and its 
+investment in Peanutbutter and Jelly Private Limited (“Peanutbutter”), for an aggregate consideration of approximately INR 4,196 million, through a preferential issue of equity shares. Accordingly, Sky 
+Gate and its subsidiaries became subsidiaries of tire Company with effect from 10 June 2025. The acquisition has been accounted for using the acquisition method under Ind AS 103 based on provisional 
+values of assets and liabilities acquired. Subsequently, the Company increased its equity stake in Sky Gate to -86.13% on a fully diluted basis. Further, on 04 February 2026, the Board of Directors have 
+approved the acquisition of remaining equity stake in Sky Gate from its Founders for a total consideration of ~ INR 575 million. Upon completion of the acquisition, Sky Gate will become a wholly- 
+owned subsidiary of the Company.
+The businesses under Krazy Kebab Co. and Peanutbutter were held for sale and, accordingly, their financial performance has been presented as discontinued operations in the consolidated financial 
+results for the period ended 31 December 2025. During tire quarter, Sky Gate executed a Share Purchase Agreement with Heritage Foods Limited for sale of its entire 51% equity stake in Peanutbutter. 
+Upon completion of the transaction in January 2026, Peanutbutter ceased to be a subsidiary of Sky Gate and a step-down subsidiaty of the Company. tv
+6 The Group operates in single reportable business segment “food and beverages” in terms of Ind AS 108- Segment Reporting. \ \
+For and on behalf of Board
+... Devyani InternalDirectors 01 
+tail Limited
+Place : Gurugram
+Dated : 04 February 2026“Manish/Dawar
+Whole time Direcjdr & CFO 
+DR?: 00319476
+SIGNED FOR
+IDENTIFICATION
+PURPOSES
+
+Walker Chandiok & Co LLP 
+Chartered Accountants 
+21st Floor, DLF Square 
+Jacaranda Marg, DLF Phase II 
+Gurugram- 122002, IndiaO P Bagla & Co LLP 
+Chartered Accountants 
+B-225, 5th floor, 
+Okhla Industrial Area, Phase-1, 
+New Delhi-110020
+Independent Auditor’s Review Report on Consolidated Unaudited Quarterly Financial Results and Year 
+to Date Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (as amended)
+To the Board of Directors of Devyani Internationa! Limited
+1. We have reviewed the accompanying statement of unaudited consolidated financial results (‘the Statement’) 
+of Devyani International Limited (‘the Holding Company’) and its subsidiaries (the Holding Company and 
+its subsidiaries together referred to as ‘the Group’), and its joint ventures (refer Annexure 1 for the list of 
+subsidiaries and joint ventures included in the Statement) for the quarter ended 31 December 2025 and the 
+consolidated year to date results for the period 1 April 2025 to 31 December 2025, being submitted by the 
+Holding Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (as amended) (‘Listing Regulations’).
+2. This Statement, which is the responsibility of the Holding Company’s management and approved by the 
+Holding Company's Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34, Interim Financial Reporting 
+(‘Ind AS 34’), prescribed under section 133 of the Companies Act, 2013 (‘the Act’), and other accounting 
+principles generally accepted in India and is in compliance with the presentation and disclosure 
+requirements of Regulation 33 of the Listing Regulations. Our responsibility is to express a conclusion on 
+the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 
+2410, Review of Interim Financial Information Performed by the Independent Auditor of the Entity, issued 
+by the Institute of Chartered Accountants of India. A review of interim financial information consists of making 
+inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and 
+other review procedures. A review is substantially less in scope than an audit conducted in accordance with 
+the Standards on Auditing specified under section 143(10) of the Act, and consequently, does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified in an 
+audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33 (8) 
+of the Listing Regulations, to the extent applicable.
+4. Based on our review conducted and procedures performed as stated in paragraph 3 above and upon 
+consideration of the review reports of one of the joint auditors, O P Bagla & Co LLP and other auditors 
+referred to in paragraph 6 below, nothing has come to our attention that causes us to believe that the 
+accompanying Statement, prepared in accordance with the recognition and measurement principles laid 
+down in Ind AS 34, prescribed under section 133 of the Act, and other accounting principles generally 
+accepted in India, has not disclosed the information required to be disclosed in accordance with the 
+requirements of Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed, 
+or that it contains any material misstatement.
+5. We draw attention to note 5 to the accompanying unaudited consolidated financial results which describes 
+the recent business acquisition made by the Company and its impact on accompanying unaudited 
+consolidated financial results. As explained in the said note, the Company has recorded the assets and 
+liabilities acquired through this business acquisition determined on provisional basis which will be adjusted, 
+as necessary, within the measurement period of one year as allowed under IND AS 103, Business 
+combinations. Our conclusion is not modified in respect of this matter.
+
+Independent Auditor’s Review Report on Consolidated Unaudited Quarterly Financial Results and Year 
+to Date Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (as amended) (cont’d)
+6. We did not jointly review the interim financial information of eleven subsidiaries included in the Statement, 
+whose financial information reflects total revenues of INR 5,511.67 million and INR 15,266.52 million, total 
+net profit after tax of INR 152.45 million and INR 268.51 million, total comprehensive income of 
+INR (24.63) million and INR (285.09) million, for the quarter and nine months period ended on 
+31 December 2025, respectively, as considered in the Statement. The Statement also includes the Group’s 
+share of net loss after tax of INR 1.26 million and INR 4.64 million and total comprehensive income of 
+INR (1.26) million and INR (4.64) million, for the quarter and nine months period ended on 
+31 December 2025, as considered in the Statement, in respect of two joint ventures, whose interim financial 
+information results have not been jointly reviewed by us. These interim financial information have been 
+reviewed by one of the joint auditors, O P Bagla & Co LLP and other auditor whose review reports have 
+been furnished to us by the management, and our conclusion in so far as it relates to the amounts and 
+disclosures included in respect of these subsidiaries and joint ventures is based solely on the review reports 
+of O P Bagla & Co LLP and such other auditor and the procedures performed by us as stated in 
+paragraph 3 above.
+Further, of these subsidiaries, one subsidiary, is located outside India, whose interim financial information 
+have been prepared in accordance with accounting principles generally accepted in their respective country 
+and which have been reviewed by other auditor under ISRE 241 O-International Standard On Review 
+Engagements applicable in their respective countries. The Holding Company’s management has converted 
+the financial information of such subsidiary from accounting principles generally accepted in their respective 
+countries to accounting principles generally accepted in India. One of the joint auditors, 
+O P Bagla & Co LLP, has reviewed these conversion adjustments made by the Holding Company’s 
+management. Our conclusion, in so far as it relates to the balances and affairs of this subsidiary is based 
+on the review report of other auditor and the conversion adjustments prepared by the management of the 
+Holding Company and reviewed by one of the joint auditors, O P Bagla & Co LLP.
+Our conclusion is not modified in respect of these matters with respect to our reliance on the work done by 
+and the reports of O P Bagla & Co LLP and the other auditor.
+7. The Statement includes the interim financial information of one subsidiary, which has not been reviewed by 
+their auditor, whose interim financial information reflects total revenues of INR 69.03 million and 
+INR 147.24 million, net profit after tax of INR 1.63 million and INR 1.56 million, total comprehensive income 
+of INR 1.63 million and INR 1.56 million for the quarter and nine months period ended on 
+31 December 2025 respectively, as considered in the Statement, and have been furnished to us by the 
+Holding Company’s management. Our conclusion on the Statement, in so far as it relates to the amounts 
+and disclosures included in respect of this subsidiary, is based solely on such unreviewed interim financial 
+information. According to the information and explanations given to us by the management, this interim 
+financial information is not material to the Group.
+Our conclusion is not modified in respect of this matter with respect to our reliance on the financial 
+information certified by the Board of Directors.
+For Walker Chandiok & Co LLP
+Chartered Accountants
+Firm Registration No: 001076N/N500013For O P Bagla & Co LLP
+Chartered Accountants
+Firm Registration NolQ00018N/N500091
+UDIN: 26095256KLWSCM5071Kripa Shankar Shukla
+Partner w .
+Membership No.: 515763%^
+UDIN: 26515763WCDUX3399
+Place: Gurugram
+Date: 4 February 2026Place: Gurugram
+Date: 4 February 2026
+
+Independent Auditor’s Review Report on Consolidated Unaudited Quarterly Financial Results and Year 
+to Date Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (as amended) (cont’d)
+Annexure 1
+List of entities included in the Statement
+Devyani International Limited Holding Company
+Devyani International (Nepal) Private LimitedSubsidiary
+RV Enterprises Pte. Limited Subsidiary
+Devyani international (Nigeria) Limited Step-down subsidiary
+Devyani International DMCC Subsidiary
+White Snow Company Limited Step-down subsidiary
+Blackbriar Company Limited Step-down subsidiary
+Yellow Palm Company Limited Step-down subsidiary
+Restaurant Development Co. Limited Step-down subsidiary
+Sky Gate Hospitality Private Limited* Subsidiary
+Blackvelvet Hospitality Private Limited* Step-down Subsidiary
+Say Chefs Eatery Private Limited* Step-down Subsidiary
+Peanut Butter and Jelly Private Limited* Step-down Subsidiary
+Devyani RK Private Limited Joint Venture
+Devyani PVR INOX Private Limited Joint Venture
+*w.e.f. 10 June 2025, refer note 5 to the accompanying unaudited consolidated financial results.
+
+Walker Chandiok & Co LLP O P Bagla & Co LLP
+Chartered Accountants Chartered Accountants
+21st Floor, DLF Square B-225, 5th floor,
+Jacaranda Marg, DLF Phase II Okhla Industrial Area, Phase-1,
+Gurugram- 122002, India New Delhi-110020
+Independent Auditor’s Review Report on Standalone Unaudited Quarterly Financial Results and 
+Year to Date Financial Results of the Company pursuant to the Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended)
+To the Board of Directors of Devyani International Limited
+1. We have reviewed the accompanying statement of standalone unaudited financial results 
+(‘the Statement’) of Devyani International Limited (‘the Company’) for the quarter ended 
+31 December 2025 and the year to date results for the period 1 April 2025 to 31 December 2025, 
+being submitted by the Company pursuant to the requirements of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended) (‘Listing Regulations’).
+2. The Statement, which is the responsibility of the Company’s management and approved by the 
+Company’s Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34, Interim Financial Reporting 
+(‘Ind AS 34’), prescribed under section 133 of the Companies Act, 2013 (‘the Act’), and other 
+accounting principles generally accepted in India and is in compliance with the presentation and 
+disclosure requirements of Regulation 33 of the Listing Regulations. Our responsibility is to express 
+a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, Review of Interim Financial Information Performed by the Independent 
+Auditor of the Entity, issued by the Institute of Chartered Accountants of India. A review of interim 
+financial information consists of making inquiries, primarily of persons responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is substantially 
+less in scope than an audit conducted in accordance with the Standards on Auditing specified under 
+section 143(10) of the Act, and consequently, does not enable us to obtain assurance that we would 
+become aware of all significant matters that might be identified in an audit Accordingly, we do not 
+express an audit opinion.
+4. Based on our review conducted as above, nothing has come to our attention that causes us to 
+believe that the accompanying Statement, prepared in accordance with the recognition and 
+measurement principles laid down in Ind AS 34, prescribed under section 133 of the Act, and other 
+accounting principles generally accepted in India, has not disclosed the information required to be 
+disclosed in accordance with the requirements of Regulation 33 of the Listing Regulations, including 
+the manner in which it is to be disclosed, or that it contains any material misstatement.
+For Walker Chandiok & Co LLP 
+Chartered Accountants
+Firm Registratign-^^ 076N/N500013
+Partner
+Membership Nd.: 0For O P Bagla & Co LLP 
+Chartered Accountants 
+Firm Registration No: 000018
+Kripa Shankar Shukla 
+Partner
+Membership No.: 515763
+UDIN: 26095256URXURV1409 UDIN: 26515763CUDGOC3867
+Place: Gurugram
+Date: 4 February 2026Place: Gurugram
+Date: 4 February 2026

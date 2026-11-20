@@ -1,0 +1,119 @@
+ 
+ October  16, 2025 
+ 
+BSE Limited  
+The Listing Department  
+Phiroze Jeejeebhoy Towers  
+25th Floor, Dalal Street  
+Fort, Mumbai 400 001  
+Maharashtra, India  
+ 
+BSE Scrip Code: 544309  
+ National Stock Exchange of India Limited  
+The Listing Department  
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra Kurla Complex  
+Bandra (East), Mumbai 400051  
+Maharashtra, India 
+ 
+NSE Symbol: IKS  
+Dear Sir/Ma’am,  
+ 
+Sub: Press Release –  IKS Health Announces Novel Generative AI Platform Built on Google Cloud 
+ 
+Press Release titled “ IKS Health Announces Novel Generative AI Platform Built on Google Cloud ” is 
+enclosed herewith.  
+ Request you to take it on record and disseminate it on your website.  
+ 
+Thanking you.  
+  
+Yours sincerely,  
+For Inventurus Knowledge Solutions Limited  
+  
+ 
+Sameer Chavan 
+Company Secretary and Compliance Officer  
+Membership No. F7211  
+ 
+Encl: As above  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IKS Health Announces Novel Generative AI Platform Built on Google Cloud  
+Multi -agent system supports dynamic workflows to analyze, identify, and prepare charts for claims and 
+prior authorizations, alleviating administrative chores and burdens  
+ 
+Dallas, TX & Mumbai , India , October 16, 2025  – IKS Health, a global leader in care enablement solutions 
+supporting clinical, administrative, and financial efficiencies across the patient journey, today announced 
+in advance of the annual HLTH conference the launch of its new agentic AI platform built on Google Cloud 
+technologies, including the Gemini family of m odels. The platform is a generative AI -based, multi -agent 
+system that can detect when prior authorization is required, leveraging deep domain expertise and 
+proprietary human -in-the-loop technology to ensure accuracy, speed, scalability, and compliance.  
+ 
+IKS Health’s innovative solution orchestrates a roll out of critical operations functions into a unified and 
+efficient connected workflow, including ambient documentation, charting, coding, order capture, claim 
+submissions, and prior authorizations directly with insurers. By connecting these stages of the patient 
+journey, organizations will benefit from reduced documentation burden and enhanced patient access to 
+care, removing the chores of healthcare from clinician and care teams.  
+ 
+“We are committed to leadi ng the agentic revolution, and with our powerful partnership with Google 
+Cloud, we are strengthening our long -term ambitions to transform healthcare workflows,” said Sachin K. 
+Gupta, Founder and Global CEO, IKS Health. “By using Google Cloud’s agentic AI i nfrastructure, we are 
+creating a connected care platform that eliminates point solution friction to drive faster and better 
+outcomes across the patient journey.”  
+The Power of Agentic AI combined with Human -in-the-Loop  
+The core of this efficiency is powered  by the scaling and advanced AI capabilities of Google Cloud, 
+leveraging the Gemini family of models, Agent Development Kit (ADK), and Vertex AI.  
+● Task automation: The AI agents are estimated to autonomously handle up to 80 percent of the 
+routine, repetitiv e tasks previously done by humans, such as those involved in insurance 
+approvals and document processing, depending on the complexity.  
+● Human -in-the-loop safety: The system is designed around a human -in-the-loop model, which 
+ensures that IKS Health agents r eview and oversee the AI's actions when medically necessary, 
+maintaining clinical safety and accuracy.  
+● The full IKS Health Care Enablement Platform will feature comprehensive, interconnected tasks 
+managed by agent -driven workflows. This fundamentally redu ces administrative and operational 
+burdens, improves efficiencies, and ultimately provides clinicians and care teams with more time 
+for direct patient care.  
+ 
+"We are incredibly impressed with how IKS Health is using Gemini and other agentic capabilities to deliver 
+real, multi -step solutions today," said Aashima Gupta, Global Director, Healthcare Strategy & Solutions, 
+Google Cloud. "Their deep integration with our platform and human -in-the-loop approach is an ideal 
+example of gen AI in action, moving beyond r oadmaps to create a tangible impact on reducing 
+administrative burdens in healthcare today."  
+ 
+The industry is poised for modernization, as the administrative burden in healthcare continues to strain 
+clinician well -being and patient care. Clinicians spend nearly 28 hours weekly on administrative work, 
+while staff average 34 –36 hours, according to a Google Cloud  study conducted by The Harris Poll . Record -
+keeping, insuran ce forms, and prior authorizations drive burnout for over 80% of clinicians and reduce 
+patient time for eight in 10 providers, the study reported. IKS Health removes many of the chores of 
+healthcare so that clinicians can focus on their core purpose: deliv ering exceptional care.  
+ 
+About IKS Health  
+ 
+IKS Health reduces the administrative, clinical, and operational burdens that slow healthcare down, giving 
+clinicians and care teams the freedom to focus on delivering exceptional care. Through its Care 
+Enablement  platform, IKS Health integrates AI, agentic workflows, and human expertise to create smarter 
+operations, better outcomes, and financially sustainable growth across the care journey. Founded in 2006 
+and recognized by Black Book as the top provider of AI -driven RCM services, by KLAS for performance and 
+client satisfaction, and by Google Cloud with the 2025 DORA Award for “Augmenting Human Expertise 
+with AI,” IKS Health partners with the largest health systems, physician groups, and specialty practices 
+across  the United States. Learn more at ikshealth.com.  
+ 
+Inventurus Knowledge Solutions Limited is listed on National Stock Exchange of India Limited (NSE) and 
+BSE Limited (BSE). {Scrip codes: NSE - IKS and BSE - 544309}  
+ 
+MEDIA CONTACT - IKS HEALTH  
+Sameer Arora  
+Senior Vice President, Employer & Investor Brandin g and Communications  
+press@ikshealth.com  
+ 
+ 
+### 
+ 

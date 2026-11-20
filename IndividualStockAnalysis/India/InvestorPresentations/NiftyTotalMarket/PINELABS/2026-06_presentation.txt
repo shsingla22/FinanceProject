@@ -1,0 +1,2108 @@
+
+=== page 1 ===
+ 
+ 
+Date: June 16, 2026  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606    
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+ 
+Sub: Analysts / Institutional Investors Presentation  
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+we are enclosing herewith a copy of Presentation to be made during Pine Labs Limited - Investor and 
+Analyst Day 2026  as scheduled today i.e., June 16 , 2026 , for the information of the Stock Exchanges.  
+ 
+The above information will also be available on the website of the Company at www.pinelabs.com/investor -
+relations/  
+ 
+We request you to kindly take the above on your record s. 
+  
+Thanking you,  
+  
+For Pine Labs Limited  
+ 
+ 
+  
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl. a/a  
+ 
+=== page 2 ===
+
+=== page 3 ===
+
+=== page 4 ===
+
+=== page 5 ===
+
+=== page 6 ===
+
+=== page 7 ===
+
+=== page 8 ===
+
+=== page 9 ===
+
+=== page 10 ===
+$194 B+ 11 Lakh +
+740 Cr 20.3 Lakh
+114 Cr  + 86.5 CrFY26 FY26
+FY26 FY26
+FY26 FY26
+Platform Gross Transaction Value 1 Merchants 2
+Platform transactions 3
+Fintech infra. transactions 4 Prepaid cards issued 5Digital checkout points 3
+Notes: (1) Platform GTV is defined as the total transaction value processed through all our platforms. Exchange rate $ 1 = ₹ 88.3  (Avg. RBI reference rate for the year) ( 2) Number of Merchants are the unique 
+customers that are using at least one product on our platform at the end of the respective period ( 3) Number of Transactions is defined as the aggregate number of transactions processed by the Group within 
+all its product offerings. ( 4) Digital check -out points represent the number of live touchpoints (at the end of the period) at merchant stores powered by our  platform.( 5) Fintech Infrastructure Transactions is 
+defined as transactions to facilitate payment to a payee or biller or a transaction to collect financial data from financial institutions. ( 6) Prepaid Cards Issued refers to number of prepaid cards issued and billed 
+by the Group. Our  proven 
+scale .
+=== page 11 ===
+We are building a full -stack 
+Commerce OS.Financial Platforms
+Orchestration
+Processing Infrastructure
+Payment RailsSimplify 
+checkoutIssue, accept and 
+store currencyBuild affordability 
+solutionsMerchant software 
+platformUSER INTERFACE
+CONTROL PLANE
+CORE ENGINE
+FOUNDATION
+DISTRIBUTION AND BRAND
+AI and analytics
+Evolving prepaid 
+use casesNew credit delivery 
+models
+Monetisation from VAS 
+
+=== page 12 ===
+CloudAffordability, VAS and 
+Transaction ProcessingIssuer Processing and 
+Distribution
+Affordability and consumer 
+engagement solutions to drive 
+merchant growthSolutions for  issuing, 
+processing, distribution  
+Prepaid, debit & credit 
+issuanceDIGITAL INFRASTRUCTURE AND 
+TRANSACTIONS​ISSUING AND 
+ACQUIRING​Fintech 
+Infrastructure
+API for digital public 
+infrastructure across 
+payments, data & insightsDIGITAL INFRASTRUCTURE AND 
+AND TRANSACTIONS​In-store and Online 
+Infrastructure
+Omnichannel  
+payment acceptanceDIGITAL INFRASTRUCTURE AND 
+AND TRANSACTIONS​Our cloud -based 
+software 
+platform .
+=== page 13 ===
+
+=== page 14 ===
+every  transaction inTransforming
+commerce
+Kush Mehra
+President and CBO, Pine Labs
+
+=== page 15 ===
+• Intelligent routing
+• Multi -channel reconciliation 
+• ERP integration
+• Omnichannel acceptance• Affordability solutions 
+• Analytics solution 
+• Loyalty management
+• Miniaturised  enterprise solutions 
+• Functional ERP solutions 
+• Affordability solutions
+• Business growth solutions 
+• Segment -specific applications
+• Robust payment acceptance 
+• Physical ledgering to digital solutionsEnterprise
+Dominant market share 
+in the country
+Mid-market & 
+high street
+Huge  headroom, clear path: 
+Premiumisation  & targeted solutions 
+Premium retail 
+& retail
+Selective market access via 
+bank partnership tie -ups
+Not market share, but market dominance and expansion play.
+PL Stronghold
+80-85M Merchants
+Stickiness
+=== page 16 ===
+Dominance in 
+enterprise  merchants.
+•  Dominant 60% + market share in the country
+•  Continue to enhance share of wallet within enterprise merchants
+•  Successfully winning new enterprises like all 7 Adani Airports
+   (Including Mumbai),  MR D.I.Y., Muthoot finance , Mama earth  and more
+Smart Routing, Multi TID and
+Payment Aggregation
+Manage rewards,
+loyalty, cashback
+Analytics &
+martech
+to growth
+Affordability
+solutions
+for consumersOmnichannel
+commerce
+All forms
+of payments 
+including DC, Scan & 
+Go, Amex etc 
+Digitise complex 
+billing & invoicing
+and ERP systems
+Seamless Checkout Experience
+
+=== page 17 ===
+Bespoke 
+solutions
+for new 
+segments .21 States , 
+~21,500 DCPsDISCOM
+3 States, 
+1,500 DCPsArmy Canteen
+213 Canteens,
+871 DCPsTraffic Police /RTO
+Municipalities & 
+Gram Panchayats
+280 Cities & Villages, 
+~12,000 DCP’sTransit (State / 
+City Transport)
+7 States , 2 Metro Cities ,
+1 UT, ~63,500 DCPsTourism 
+Board
+102 Merchants, 
+450+ DCPsTemple Solutions
+23 Temple Trusts,
+400 DCPs
+Treasury Collections
+12 States, 
+10,000 DCPsAgriculture
+2 State
+5,300+ DCPs
+Cloud Server to Server
+Direct integration with 
+backend serversIntegration with Android 
+based smart devicesApp to App Wired
+Billing systems hosted 
+dedicated hardware with 
+physical connectivity with DCP
+16
+As of 31stMarch 2026Enabling Integrations1 Mn+ Market Opportunity
+Billing applications on 
+hardware with no local 
+connectivity interfaces
+
+=== page 18 ===
+Pine Labs' precision
+crafted solutions for FIGs
+2L +  Market Opportunity
+Branch -dependent onboarding  + physical  KYC
+Paper -based gold loan processing
+Time -consuming disbursement
+High dependency on branch staff quality
+Limited field capability
+Fraud & audit challenges
+Operational inefficiency
+Before our solutions After our solutions
+Branch + field onboarding enabled
+Fully digital gold loan journey
+Faster loan processing
+Standardised  process across branches
+Built -in compliance & audit readiness
+Fraud control
+Operational cost reduction
+Field expansion lever
+
+=== page 19 ===
+In Q4, we won multi -year landmark 
+contracts from Top 3 leading Oil and 
+Marketing Companies (OMCs) in India 
+involving deploying, managing, and 
+maintaining the digital payments 
+infrastructure at petrol pumps and 
+merchant outlets across India including 
+fleet loyalty program form IOCLMulti -year 
+contract win
+Our position post this win
+Unmatched 
+Scale
+•Consolidated 
+leadership across 
+BPCL, HPCL & IOCL
+•Dense PAN -India 
+footprint with strong 
+entry barriersEcosystem Depth & 
+Stickiness
+•Full -stack fuel 
+ecosystem leadership 
+>>from payments to 
+automation, loyalty, & 
+software
+•Multi -year contractual 
+relationshipXtraPower Fleet Cards  
+(IOCL )
+50,000+
+India's largest fleet 
+loyalty program20 Lakh +Fleet cards*
+•Trip management
+•Fleet analytics
+•Secure Chip and PIN 
+transaction 
+processingOutlets* ~130,000 DCPs*
+*Estimated By end of fiscal year 2027,
+(1) More than 50% of the market share in card -based payment volumes at fuel outletsPayments Player
+across all 3 OMCs#1
+Market share in
+fuel retail outlets150%+
+Card GTV expected 
+processed per month*₹7kCr
+From the top 3 Oil 
+Marketing Companies in 
+India
+What is the opportunity for Pine Labs?
+=== page 20 ===
+From payment acceptance
+to all -in-one checkout counter 
+0.5 Mn TAM Opportunity
+Why it's critical: Merchants demand : Seamless Experience, One Touch Recon, Decluttered 
+counter space and reduce overall cost of operationsMerchant today has multiple screens – ERP – POS – QR – District / 
+Dineout - 
+Ad Screens – Separate device for Amex & DCC.
+Pine Labs is transforming all in one device
+Why Pine Labs wins: Ecosystem of partners like District, DineOut , Amex are already 
+integrated with Pine Labs and POS device variants that support the same.2030 Opportunity: Going beyond POS and opportunity to go to 0.5 Mn touchpoint, today 
+at around 10K counters.
+
+=== page 21 ===
+Competition landscape: 
+Why Pine Labs is winning .
+Competitor 1 Competitor 2
+Pulling back from In -Store 
+payments, a strategic retreat.
+Merchant base is vulnerable and
+available for acquisition.
+Pine Labs actively converting their
+merchant base.No prominent presence in 
+premium retail segment.
+Shifted focus from merchant
+acquisition to lending.
+Missing ERP integrations and
+enterprise -grade reliability.
+3x growth
+2.5x growthNew acquisition*
+Aggregator GTV
+✓ Directly gaining their merchant attrition. ✓ Own the premium segment end-to-end.
+6x growth~2x growth
+UPI GTVDCP growth
+*Pine Labs expanding across every metric in Mid -Market in last 3 years.
+ EXITING In -store
+  No premium play & lending pivot
+Every major competitor is either retreating, specialising away from
+Pine Labs' core or actively partnering with us. The field is ours to win.
+
+=== page 22 ===
+India's fastest -growing merchant cohort have 
+been underserved. Till now.
+User Insights
+ Merchant Insights
+New -age retailers emerging rapidly : 
+Revenue -oriented, open to VAS. 
+Complex needs: multi -banking, ERP, omnichannel, 
+field support. Consumers seeking specialised retailers 
+inLifestyle, Travel, F&B, Education. 
+Intent -based to discovery -based shopping 
+behaviour.One vendor = Aggregator + 
+ERP + Multi -TID + Field OpsFull-stack maps precisely to 
+mid-market complexity.
+Each win = multi -product, 
+multi -year relationship.
+Premium device range , especially 
+dual screen. 
+Transforming 
+mid-market
+segment.
+
+=== page 23 ===
+Transforming
+premium
+retail.
+Boutiques demand enterprise -grade 
+capabilities. Pine Labs is the answer.
+User Insights
+ Merchant Insights
+Integrated billing, multi -payment & 
+affordability parity demanded. 
+Service -led & enterprise -minded, willing to 
+pay for capability.
+Consumers expect boutiques to match 
+Reliance/Croma sophistication. 
+Multi -payment & affordability are now table 
+stakes at premium checkout. 
+Aggregator model: Pine Labs 
+solves for the merchant end-to-end.Integrated billing + payments 
++ affordability stack 
+at SMB economics. 
+Structurally higher -margin
+segment. Merchants pay for outcomes.
+
+=== page 24 ===
+68%YOY growth (FY26)Winning in 
+retail : 
+The UPI-first
+segment.
+THE MERCHANT REALITY
+1×•No unified view means blind 
+spots on revenue & disputes.
+All modes on one PoS :Card, UPI, CC -
+on-UPI, Pay -by-Link, Aggregator.From QR acceptance to full payment stack. · 
+Integrated recon as the unlock. 
+UPI GROWTH ON 
+PINE LABSIntegrated recon means genuine cost 
+saving. A necessity, not a feature.
+Base Yr13x
+High stickiness: once integrated, the 
+cost of switching is very high. 
+6x
+Yr2Single daily report: mode -wise split, 
+settlement & dispute tracking.•Merchants run 3 –5 payment 
+modes simultaneously. Card, 
+UPI, CC -on-UPI, Links, Aggregator 
+In-Store ( Dineout , MagicPin )
+QR Card (DB/CC) on 
+DevicePay By Link CC on UPI District/ Dineout
+
+=== page 25 ===
+Category -wise growth: New 
+merchant acquisition.
+8 sectors all growing 
+ahead of GDP · Each 
+a distinct Pine Labs 
+opportunity.
+Diversified 
+exposure to 
+India's fastest -
+growing 
+consumption 
+verticals.High ATVTravel &  
+Hospitality
+YoY new acq .Omnichannel 
+bookings, DCC, 
+Affordability2X
+Recurring RevEducation
+& EdTech
+YoY new acq .Affordability, 
+recurring 
+payments, 
+AggregatorCore SegmentOrganized 
+Grocery
+YoY new acq .ERP 
+integrations, UPI 
+first thought
+AffordabilityHealthcare
+& Wellness
+YoY new acq .Large -ticket 
+affordability, 
+Integrations, DCCD2C / VASLifestyle &  
+Premium
+YoY new acq .Omnichannel, 
+Integration, 
+Affordability, 
+DCC
+High Growth Automobiles
+YoY new acq .Deep payment 
+integrations, 
+AffordabilityMulti -Location F&B / QSR
+YoY new acq .Loyalty, ERP 
+Integration, 
+Scan & Go
+EcosystemMaster 
+Franchise
+YoY new acq .Distributor 
+ecosystem 
+digitization
+2X2X
+2X
+ 3X
+3X
+ 4X
+4X
+=== page 26 ===
+Cross -sell 
+engine:
+One entry, 
+multiple 
+revenue 
+layers.
+One merchant entry point, 
+multiple compounding 
+revenue streams.
+CORE
+Omnichannel 
+Payments
+PoS, UPI, Cards,
+QR - the universal trust 
+anchor and entry point 
+for every merchant.
+~20 L+ DCPsPrepaid · DCC · 
+AffordabilityEXTENDED
+EMI, BNPL, multi -
+currency, prepaid 
+wallets - capturing more 
+spend at checkout. Integrations for 
+Commerce & Loyalty 
+ERP, loyalty, gifting, 
+closed-loop sales -
+simplifying operations and 
+locking in the merchant 
+relationship.PLATFORM
+1100 ERP integratedData Intelligence 
+& Cross -sellGROWTH
+Transaction data → 
+merchant insights → 
+business growth and Pine 
+Labs' revenue expansion at 
+zero marginal cost.
+Every merchant entry via payments opens the door to Prepaid, DCC, Affordability, VAS and Data. Each layer adds margin.
+=== page 27 ===
+Affordability SmartBillEnabling fintech for smart -techs 
+through an expanding VAS universe.
+ADDynamic Currency 
+ConversionPay by SMS/
+Link
+Wallet EnrichHub
+AdHub and many moreScan & Go
+InsightHubPay by
+Points/Loyalty
+Rewards
+AcquireHub
+=== page 28 ===
+Future 
+enablers 
+ofgrowth .
+Commerce Intelligence 
+& Data Signal1 Partnership 
+Ecosystem2 Smarter Self -Managed 
+Kiosk Checkouts3
+=== page 29 ===
+Pillar 1: Commerce 
+intelligence & data 
+signals. 
+Why it's critical: Consumers expect personalized offers while brands demand 
+measurable ROI through closed -loop attribution and AI -driven targeting.
+Turning transaction intelligence into personalised  commerce 
+outcomes across consumers, brands and merchants.
+Why Pine Labs wins: Full commerce stack creates proprietary data advantages 
+powering real -time intent models with strong network effects across diverse merchant 
+relationships.2030 Opportunity: India's $50B+ retail media and commerce intelligence market offers 
+superior targeting efficiency through transaction -led insights.
+
+=== page 30 ===
+Pillar 2: Partnership 
+Ecosystem
+Why it's critical: Partner -led adoption drives merchant feature adoption at scale, with AI 
+compressing outreach from weeks to hours like Shopify and Stripe.Beyond bank alliances. AI -powered partner alliances across ERPs, 
+SaaS, loyalty, B2B marketplaces and fintechs.
+Why Pine Labs wins: 83 partners signed in Q 1 with AI -driven discovery creating partner -
+sourced pipeline at fraction of direct acquisition cost -a compounding flywheel.2030 Opportunity: Partners enable 1L+ merchant acquisition annually with zero sales cost, 
+while 1000+ partner ecosystem drives 10 ×growth via AI targeting.
+
+=== page 31 ===
+Why it's critical:  Global kiosk market growing 43% with Asia -Pacific at 18% CAGR; QSR 
+chains see 25% higher order values.
+From PoS terminal to full -stack merchant 
+technology platform in India, then Southeast Asia.
+Why Pine Labs wins:  1.9Mn+ merchant base enables natural kiosk adoption with first -
+mover advantage in 18 -24M window before pricing wars, ready for Southeast Asia 
+expansion.2030 Opportunity:  India's $43.5B experience market adopting kiosks with 2 × wallet 
+share per merchant and 100M+ annual transactions feeding analytics engine.Pillar 3: Smarter 
+self -managed kiosk 
+checkouts. 
+
+=== page 32 ===
+
+=== page 33 ===
+
+=== page 34 ===
+Pine Labs' 
+Affordability Business 
+40+
+Credit Partners
+450+
+Brands80K+
+Monthly Transacting 
+Stores
+ INR 74K Cr
+Volume
+FY26
+Pine Labs Technology - layer with No Credit Risk
+Any new brand can plug into Pine Labs’ Brand EMI & 
+instantly tap into network of 40+ credit partners and 
+80K monthly digital check out points
+What Affordability unfolds for 
+Brands?
+•Anti -Fraud & Velocity Checks
+•Upsell with promotions & campaigns
+•Marketing Budget OptimizationWhat Affordability unfolds for Credit Partners?
+• On-the-fly EMI conversion
+• Mis-use & Velocity Checks
+• Marketing Budget Optimization
+What Affordability unfolds 
+for Merchants?
+•Billing to POS integrations 
+Seamless
+•Checkouts
+•Budget & Fraud control
+=== page 35 ===
+Strong network effects driving ecosystem growth.
+188
+1530455Brands per 10,000 affordability terminals grew from 15 to 30
+TRANSACTING BRANDS
+Txn Volume per Issuer grew by 23%
+9201717
+VOLUME
+PER ISSUER
+(INR CR)
+=== page 36 ===
+Strong network effects driving ecosystem growth.
+188488092
+106Merchant Penetration – Leading Electronics Retailer
+AFFORDABILITY ENABLED DCP’S # BRANDS INTEGRATED
+12,798 6,06128,316 12,948Brand Penetration – Leading Smartphone Brand
+AFFORDABILITY ENABLED DCP ’S VOLUME/GTV ( NR CR)
+=== page 37 ===
+A balanced strategy of core business expansion 
+and new growth engines creates a pathway to 
+unlock for 25%+ YoY Growth for next 3 years
+20+ new brands entry in affordability in 
+FY26
+Emerging smartphone brands growing 
+45%+ YoY, reducing dependence on 
+market leaders
+UPI led affordability unlocking
+new pool of customers
+Significant runway within
+expanding CDIT network (more
+stores) to capture
+Stronger bank focus on EMI due to 
+lower revolve rate.
+New -age issuers, Scapia & Kiwi driving 
+credit adoption
+Wheels segment: 
+Addressable affordability pool of 100K 
+Cr with CAGR of ~10%
+Non -electronics segment: 
+• Current market is driven by full swipe 
+• 70% youth demands affordability 
+• Opportunity to build affordability of 80K 
+Cr
+Instant Credit (NBFCs Aggregation) for 
+non -carded bas
+Post purchase EMI conversion
+74K cr
+Current
+Value Pool
+380K cr
+New
+Value Pool
+EXISTING BUSINESS 
+DRIVERSNEW BUSINESS 
+DRIVERS
+=== page 38 ===
+Three horizons, 
+one platform.
+Demand CreationPRE -TRANSACTION
+Core Stronghold
+EXPANDING 
+Addressable 
+MarketOUR MOAT
+Engagement
+ to MonetiseIN-TRANSACTION
+POST -TRANSACTION85% offline CDIT BNPL market share
+
+=== page 39 ===
+Breaking the myth.
+Affordability offerings
+are limited to card payments
+Affordability offerings are 
+available on app -based
+solutions and online checkout
+Affordability embraces
+EMI + value added services 
+and loyalty rewardsAffordability expands across cards, cardless 
+& UPI payment modes
+Affordability offerings are available on
+app -based solutions and online checkout
+Affordability embraces EMI + value added 
+services and loyalty rewardsThe Myth Myth Debunked Reality
+~10% volume contribution by UPI payments
+Instant gratification available on UPI payments
+EMI on UPI enables affordability beyond cards
+35% volume contribution by digital checkout
+Offers can be availed at -home by digital checkout
+App-based payment links for offline shopping and affordability
+embedded in online checkout
+Multi -product affordability product – cashback & subvention
+discounts, rewards & loyalty programs
+Value added cross -sell of insurance, assured buyback & brand
+led loyalty offeringsAffordability Beyond Cards
+Affordability Beyond POS
+EMI ++
+01
+02
+03
+=== page 40 ===
+
+=== page 41 ===
+EMI on UPI
+Investor and  Analyst Day - 2026Merchant Selects the “EMI 
+World Option”Selects the Category Selects the Brand Selects the Model/SKUSelects the Offer as Per 
+Customer’s Credit Card
+1
+ 2
+ 3
+ 4
+ 5
+
+=== page 42 ===
+EMI on UPI
+Investor and  Analyst Day - 2026Selects the tenure of the EMI Offer Reviews all the details 
+of the EMI OfferEnters IMEI number for 
+OEM ValidationEnters the OTP sent by
+Pine Labs to validate
+Mobile Number.
+6
+ 7
+ 8
+ 9
+
+=== page 43 ===
+Investor and  Analyst Day - 2026Selects Pay via UPI Customer scans the 
+EMI QR CodeCustomer opens
+their Payment appCustomer confirms the 
+offer on the Payment 
+app
+10
+ 11
+ 12
+ 13
+EMI on UPI
+=== page 44 ===
+Investor and  Analyst Day - 2026Customer enters the PIN Payment is successful 
+on payment appCharge slip will be 
+printed
+14
+ 15
+ 16
+EMI on UPI
+=== page 45 ===
+Investor and  Analyst Day - 2026
+
+=== page 46 ===
+EMI World 
+Pay By Link 
+Customer 
+Journey
+Investor and  Analyst Day - 2026
+Merchant opens EMI World 
+app on mobile phone & 
+selects category/brandSelects product & SKU Selects issuing bank Checks offers & selects 
+tenureChecks transaction 
+summary & proceeds to 
+payment
+1
+ 2
+ 3
+ 4
+ 5
+
+=== page 47 ===
+Investor and  Analyst Day - 2026
+Enters IMEI for real time 
+validation & Enters mobile 
+number for payment linkPayment link will be 
+sent via SMSMerchant will see 
+payment -initiated 
+statusCustomer clicks on 
+payment link in SMS to 
+view transaction detailsCustomer selects 
+card
+6
+ 7
+ 8
+ 9
+ 10
+EMI World 
+Pay By Link 
+Customer 
+Journey
+=== page 48 ===
+Investor and  Analyst Day - 2026
+Customer enters card 
+detailsCustomer enters OTP 
+to complete 
+transactionCustomer receives 
+payment success 
+messageMerchant receives 
+payment success 
+information on their 
+mobile EMI World app
+11
+ 12
+ 13
+ 14
+EMI World 
+Pay By Link 
+Customer 
+Journey
+=== page 49 ===
+Capturing missed 
+EMI value creation 
+forconsumers .
+~50%
+of high -value purchases are completed 
+without affordability, despite 
+consumer’s benefit & preference 2 Cr+ non -affordability transactions → data available on exact purchase timing, category, ticket 
+size and issuer context.  Pine Labs’ post -transaction nudges outperform every BNPL player on
+precision and conversion.
+Huge opportunity for  Pine Labs to offer 
+credit  post purchase to convert
+such purchases into EMIData advantage
+Engagement Model
+Post -purchase EMI 
+Conversion
+Convert into EMIHigh -value Debit 
+Card & UPI spends  
+Loan Nudge
+Contextual credit Card & Loan Cross -Sell
+New front door for Pine 
+Labs
+
+=== page 50 ===
+Investor and  Analyst Day - 2026
+
+=== page 51 ===
+Investor and  Analyst Day - 2026Transaction completed
+On POSSMS or Whatsapp  link
+Nudge to customer
+1
+ 2
+ Customer chooses the
+EMI offer
+3
+Convert full 
+swipe to
+EMI solution
+=== page 52 ===
+Investor and  Analyst Day - 2026Customer Selects Tenure EMI Conversation 
+Successful
+4
+ 5
+Convert full 
+swipe to
+EMI solution
+=== page 53 ===
+Unlocking new 
+affordability 
+categories:
+Beyond traditional category CDITFurnitureLeading furniture
+retailer
+Leading luxury
+watch brand
+Leading optical 
+eyewear brand
+Leading travel
+brand
+Leading education 
+brandFashion
+Healthcare
+Travel
+EducationNCDIT
+Total sales volume
+400K Cr
+Total current  affordability
+value across players
+9K Cr
+80K Cr
+Pine Labs' opportunity for 
+affordability market creation
+YoY Affordability Growth
+FY 25 vs FY 26Affordability Penetration% 
+(Mar’25 -Mar’26)*
+374 6%
+7%
+1%
+1%
+1%391
+101
+45226788
+14%37%
+12%
+19%
+9%625
+138
+59543
+105%
+60%
+140%
+36%
+30%
+
+=== page 54 ===
+Transforming
+generic money
+i n t o me an i ng f u l
+spends
+Swarnendu  Mukherjee   Shashank Kohli
+Chief Growth Officer, Issuing Business    Executive Vice President, Product, Issuing Business
+=== page 55 ===
+Generic 
+money is 
+universal, 
+but it has
+No memory.
+No rules.
+No loyalty.
+Future SpendCommitE-Commerce
+Cannot guarantee a COD 
+return customer converts 
+into a repeat buyer.
+Cannot move millions of 
+commuters through 
+frictionless digital rails.Transit Authority
+Influence
+Behaviour
+Govern
+UsageEmployer
+Cannot ensure a travel 
+or meal allowance is 
+spent right.
+Merchant
+Cannot guarantee the money 
+comes back to them without 
+leaking to competitors.
+Acquire
+Users
+
+=== page 56 ===
+Behaves Comes back
+ Stays controlledBut businesses 
+need money that
+=== page 57 ===
+Prepaid makes 
+universal money 
+purposeful.
+We embed intent, define who spends, how much, 
+where, when & on what.
+Pine Labs orchestrates 
+Prepaid  in real -time & at scale across: 
+22+ Geographies 
+865 M+ prepaid cards issued#
+# FY 26
+=== page 58 ===
+Comprehensive 
+prepaid stack for 
+Merchants.
+Multi -use -case stack → 
+Wallets , gifting, rewards, refunds, loyalty on same infra
+One stack. 100+ Customized integrations. Leaving means rebuilding everything.
+1
+2
+3
+4
+5Distribution is the MOAT → 
+Enterprise + retail + API -led embedded issuanceRealtime ledger + APIs → 
+Enables scale + partner integrations
+Compliance -native architecture → Not bolted -on
+Global -ready stack → 
+Multi -currency, cross -border issuance
+
+=== page 59 ===
+End -to-end program life cycle management
+Onboarding & KYC
+Earn Module & TDS
+Communication1
+3
+52
+4
+6Sales Data Capture
+Redemption
+Reports
+One Platform to Onboard, Engage, Reward, and Grow Your Partner Ecosystem
+Comprehensive 
+engagement stack 
+for businesses.
+=== page 60 ===
+Investor and  Analyst Day - 2026
+Issuance & Wallets
+Create and manage prepaid instruments for any 
+client, denomination, or currency
+Program Config
+Define rules: who can spend, where, when, how 
+much, and on what category
+Real -time Processing
+Authorise and settle transactions at scale with 
+millisecond -level latency
+Rewards Engine
+Attach points, cashback, and incentive 
+mechanics to any prepaid product
+Multi -geography Rails
+Single stack operating across India, Australia, 
+UAE, and Southeast Asia
+Enterprise APIs
+Real -time reporting, audit trails, and ERP 
+integrations for CFOs and finance teams
+One platform. 
+Every prepaid 
+use case.
+Distribution at scale
+ Across enterprise, retail, and partner ecosystems
+=== page 61 ===
+100+
+Via 
+Distribution
+Use 
+Cases
+2014 - 2018
+Foundation Layer
+Build → Core Infrastructure
+2019 - 2023
+Growth Engine Layer
+Expand → Distribution & MonetisationScale → Ecosystem & Frequency2024 - Present
+Mass Distribution Layer
+Exponential
+Growth
+RefundsAs a Volume 
+Driver
+Regulatory -
+FirstArchitecture
+For growthIntegrationsMerchant
+Ecosystem
+Continuous
+Innovation
+*Source of data : Internal
+Flipkart Group
+prepaid ecosystem
+Acquiring committed customers 
+=== page 62 ===
+Tomorrow's spend, 
+locked today.
+
+=== page 63 ===
+Embedded gift card storefronts help bring new 
+buyers into worths channels, year -round.
+We support 25+ programs across students, 
+government -linked seniors' programs, insurance, 
+hospitality and member -benefit networks.
+Ecosystem / programs :
+Student Edge RACV
+NSW Seniors & Senior Savers + 
+Victoria Seniors CardAmbassador Card
+Always-on
+distribution
+across Australian 
+ecosystems.
+Acquire & Commit
+
+=== page 64 ===
+Amadeus : 
+Refunds at the gate,
+under rules.Govern with airlines
+5 years ago, Amadeus and Pine Labs 
+came together to solve airline -specific 
+business challenges.That collaboration led to Asset Manager , a
+solution deeply integrated across the Amadeus
+platform, bringing together travel expertise and
+payment expertise to solve airline problems at
+global scale.
+
+=== page 65 ===
+WE ALSO POWER THE BANKING ECOSYSTEM
+J&K Bank
+Bank of BarodaIssuing platform powering cards & UPI
+for J&K Bank
+Issuing partnership for prepaid & forex
+at Bank of BarodaScaled for large programs; expansion underway
+Multi -use programs via Pine Labs network
+
+=== page 66 ===
+A large market,
+anearly position.
+US$146B
+US$~7.3BUS$1.1T
++25%India Closed & Semi -Closed Loop
+Prepaid TPV, CY2028P
+Current Issuing TPVInternational / Global 
+Prepaid Market
+YoY TPV Growth
+THE HEADROOMMARKET TAM ·
+CY2028P
+PINE LABS PREPAID ·
+CURRENT
+ Substantial
+growth  headroom
+Exchange rate $1= ₹ 88.3 (Avg. RBI reference rate for the year)
+
+=== page 67 ===
+The engines
+behind our
+Growth.New
+Growth VectorsExpand 
+Existing Business
+Enabling 
+Catalyst
+=== page 68 ===
+New
+growth
+vectors
+Employee Benefits
+50M+* Formal employeesGaming
+500M+*  Active gamers in India
+Tax regulation changes improving          
+adoption
+Expanded benefits basket driving 
+usage
+Workforce shifting to digital 
+benefits platformsOmni -channel distribution unlocks 
+gaming demand
+Global publishers need scaled local 
+partners
+Regulated, compliant platform
+enables entryGeography -agnostic, scalable 
+platform,
+BHN partnership drives immediate 
+scale
+Totus enables U.S. regulatory entry
+*Source of data : *Employee benefits - www.dge.gov.in  | 500M+ Active gamers in India : Economic Times
+US$260B : BHN industry estimate US gift card market popularity, trends & stats | BHN   
+USA
+US$260B U.S. gift card market by 2026, BHN 
+=== page 69 ===
+Prepaid is not a product. It is a 
+new primitive for commerce.  
+=== page 70 ===
+
+=== page 71 ===
+Embedded across India's largest commerce ecosystems.
+Q-commerce & E -commerceTravel & hospitality
+Leading OTA ecosystem presence
+Expanding recurring & embedded commerce reach
+Growing education payment infrastructureElectronics
+Utilities & others Education
+Q-commerce 
+GMV coverage 90% +
+Organised electronics
+retail penetration 60% +
+
+=== page 72 ===
+Embedded in every step of how
+India shops online.
+Payment conversion
+Affordability infrastructureMerchant operations backboneCommerce journey integration•Higher SR across cards and UPI
+•Intelligent routing and retries
+•Faster authorisation  and reduced failures
+•Reliable payment experience at scale 
+•20+ issuer bank partnerships
+•EMI, cashback and instant discount programs
+•Brand -funded and issuer -funded offers
+•Improved affordability via cardless EMI, credit market product•Automated reconciliation and settlements
+•Unified payment visibility
+•Refunds, disputes and operational tooling
+•Enterprise -grade reliability•Embedded across discovery, intent, payments and post -payment workflows
+•Deep integrations across merchants, issuers and networks
+1
+2
+3
+4
+=== page 73 ===
+Merchant wins
+India's ₹13.5 T digital commerce
+is ours to capture.
+₹6,500 Cr + 25 + ~ 38% 8/10
+Annualised  enterprise GTV
+shifted from incumbentsLarge enterprise accounts 
+won from competitionAverage wallet share across 
+strategic enterprise merchantsTop wins driven by SR uplift, routing 
+intelligence & affordability stack
+Growing share across largest  commerce platforms. 
+100% +Affordability share
+ 95% +Affordability share.
+95%+EMI processing
+coverage.
+ Top 5Majority of the affordability volumes processor
+for top 5 quick -commerce & e -commerce.
+
+=== page 74 ===
+Building commerce infrastructure at scale.
+Products driving improvement:
+The stack.Passkeys (Password -less)
+Smart Routing EMI Merchant dashboard
+Tokenisation Brand offers Analytics & insights
+Native OTP Rewards Risk & fraud controls
+Passkeys Offers engine Reconciliation & settlements
+Saved cards Subscriptions Operational automation
+Dynamic routing One -click checkout
+Loyalty integrationsRefunds & disputesOne -tap authentication
+Tokenised  saved cards
+Offer intelligence & personalisation
+Native OTP (OTP autofill)
+Smart routing & adaptive retryFaster login,
+zero password friction.
+Higher completion,
+lower drop -offs.
+Faster repeat payments,
+better retention.
+Higher AOV,
+better conversion.
+Seamless payments,
+higher authorisation .
+Higher approvals,
+better reliability.Biometric / device -based
+authentication.
+Instant, secure &
+seamless.
+Secure card -on-file
+with network tokenisation .
+Contextual offers at
+moments of intent.
+Auto -read OTP,
+no manual entry.
+Dynamic routing +
+intelligent retries.01 INTELLIGENT CHECKOUT &
+        PAYMENT ORCHESTRATION02 CONVERSION &
+        AFFORDABILITY LAYER03 MERCHANT INTELLIGENCE
+        & OPERATIONS
+=== page 75 ===
+Built for India’s next 10M merchants.Unified checkout. Affordability.
+Intelligence. Infrastructure.
+Trusted infrastructure for
+large -scale digital payments
+and citizen services.
+Government
+Education Mid -market (Offline to Online) SMB
+Digitising fee collections and
+campus commerce at scale
+across institutions.Leveraging our offline merchant
+relationships to drive digital
+commerce adoption.Winning the SMB segment through
+superior checkout experience, smooth merchant 
+experience offers and conversion.Our next wave of growth:
+Government
+=== page 76 ===
+Expanding beyond enterprise into high -value commerce verticals.
+Government
+Large -scale digitisation  of citizen 
+payments, utilities, and public 
+services.1
+OPPORTUNITY
+TAM
+India digital payments TAM₹1 LAC CR+
+ADDRESSABLE
+Public digital payments₹10K CR+
+KEY METRICS
+Active
+InstitutionsDeep relationships
+across central,
+state & local bodies.50+
+TOP ACCOUNTS
+Trusted infrastructure
+For high -volume,
+mission -critical
+payment collections.LAST 5 DAYS VOLUME
+14th June - 39.63 Cr
+13th June - 38.79 Cr
+12th June - 39.29 Cr
+11th June - 38.62 Cr
+10th June - 40.63 Cr
+=== page 77 ===
+Education
+Powering recurring fee payments 
+andcampus commerce at scale.2OPPORTUNITY
+WHY PINE LABS WINS
+Education payments TAM
+₹85,000 Cr+
+₹12,000 Cr+Digital penetration
+Soceity & campus commerce TAM55% and growing
+Deep integrations across institutions.
+Recurring fee collections with high retention.
+Unified rails for online + offline payments.
+Scalable platform for multi -campus operations.
+Expanding beyond enterprise into high -value commerce verticals.
+=== page 78 ===
+Mid -Market
+Leveraging offline merchant 
+relationships to drive online 
+commerce adoption.3OPPORTUNITY
+TAM
+India SMB digital
+payments TAM₹6.2 LAC CR+ADDRESSABLE
+Omnichannel payments
+TAM₹1.2 LAC CR+
+WHY WE WIN
+Deepest offline reach across Tier 2 -6 cities through field force
+ Strong merchant trust and long -standing relationships
+Unified onboarding for offlingt  online acceptance
+Superior offers, pricing and faster settlement / Single platform
+for all    payment needs
+KEY ACCIOUNTS
+Expanding beyond enterprise into high -value commerce verticals.
+
+=== page 79 ===
+SMB4
+D2CCheckout is the key
+conversion and
+monetisation lever.
+Affordability, offers,
+and payment choice 
+drive higher AOV & 
+repeats.Checkout 
+orchestration
+is complex and 
+highly fragmented.Large, 
+underpenetrated
+opportunity with 
+significant wallet 
+share potential.Expanding beyond enterprise into high -value commerce verticals.
+=== page 80 ===
+Owning checkout to capture D2C.
+THE MERCHANT CHALLENGE
+Fragmented payment and offer ecosystem.
+High drop -offs and payment failures.
+Rising customer acquisition costs.
+Limited affordability orchestration.
+No unified visibility across payments and customers.WHERE MERCHANTS ARE TODAY
+Unified checkout layer
+Higher conversion
+Affordability -led growth
+Unified intelligence
+Faster go -live
+Security
+OffersRetries
+Checkout
+Identity
+Smart routing
+Analytics
+
+=== page 81 ===
+Investor and  Analyst Day - 2026Shopflo , the checkout behind
+India's fastest -growing brands.
+Trusted by leading digital -first brands.
+1000+ brands Growing up to 2x
+
+=== page 82 ===
+Value expansion drives:
+1 Checkout (Shopflo)
+4 Merchant operating tools
+2 Affordability & offers
+5 Cross -border & new flows
+3 Analytics & intelligence
+6 Embedded financial servicesDrives basket expansion and merchant ROI
+Global sellers can accept all Indian pay modesData insights that help grow offline & online
+Access to finance via CMP product
+Controls conversions and customer intent
+Frictionless onboarding with self -serve in less than 4 minsgrowth
+potential2xInfrastructure ownership that expands revenue share. 
+
+=== page 83 ===
+Building the future of
+of next - gen commerce.
+Creating commerce operating system for tomorrow.
+Addressing a $100B TAM that does not exist today.NEXT CHAPTER
+From payment
+gatewayCommerce
+infrastructureMachine commerce
+platform
+
+=== page 84 ===
+THE PARADIGM SHIFT
+Human -led commerce Digital orchestration
+Manual discovery
+Card present
+Human authorisationTokenised  checkout
+EMI & affordability
+Offer stacking
+Now
+Autonomous machine commerce
+AI shopping agents
+Machine wallets
+Programmable trust
+Next
+Pine Labs infrastructure stack
+Autonomous commerce
+Programmable trust & identity
+Programmable payment rails
+Commerce protocol & orchestrationAI agents  •  Auto -procurement  •  Subscription agents
+Agent identity  •  Consent architecture  •  Authorisation
+Tokenised  settlement  •  Machine wallets  •  CBDC readiness
+Workflow execution  •  Agent coordination  •  Embedded logic
+L1
+L2
+L3
+L4
+Evidence of market shift 
+Global agentic commerce
+ TAM by 2030.Merchants onboarded on
+ agent -ready rails (globally).$100B+ 120K+
+Past
+=== page 85 ===
+The edge in online commerce.
+Enterprise Commerce Unified checkout & payments
+ Deep ecosystem embedment 
+Beyond payment gatewayGoverment
+ Affordability & conversion
+ Full - stack  ownership
+Education Intelligence & analytics
+ Proven enterprise displacement 
+Mid-Market
+ Merchant operations
+ Superior conversion infrastructure
+SMB Built for the future
+ Multi -layer monetisation
+D2C brandsMERCHANT SEGMENTS
+WE SERVEPAYMENTS &
+COMMERCE PRODUCTSOUR
+DIFFERENTIATION
+
+=== page 86 ===
+
+=== page 87 ===
+
+=== page 88 ===
+
+=== page 89 ===
+Engineered for 
+scale. Built for trust.Microservices & API -
+driven architecture
+1
+Auto -scalable systems 
+with surge protection
+4Active -active, 
+always -on infrastructure
+2
+Recovery Time 
+Objective (RTO) < 15 
+minutes
+5Optimised  infrastructure 
+to maximise  uptime
+3
+Recovery Point Objective 
+(RPO): Last committed 
+transaction
+6
+PCI-DSS, ISO 27001:2022,
+SOC 2 , PCI -P2PE, PCI -
+S3certified platforms.RBI, CERT -In, 
+and global scheme 
+compliance.Best -in-class encryption using Key Block 
+TR-31 format of AES (Advance Encryption 
+Standard) for data at rest and in transit.
+Dedicated Infosec governance with SecOps on Identity & Access Management, PAM, DAM, 
+CSPM, iDAM, SIEM, DLP, BCP & DR, IPS, Application Security & Network Security Controls in place.
+
+=== page 90 ===
+POS
+MobilePGForm 
+Factors1   Offer discovery
+3   Product validation & blocking
+6   Card authorization4   Velocity check
+7  Instant loan booking2   Product offer & schemes
+5   Smart acquirer selection
+Payments 
+Engine
+Offers Engine
+Smart EMI 
+Routing
+450+ Brands
+Acquirer
+Fraud 
+Detection
+Issuer / NBFC
+Consumer
+Networks/
+Schemes
+World -class tech 
+stack built for 
+Pay Later.
+=== page 91 ===
+Multi -acquiring, smart routing 
+and anomaly detection.
+Capability to route transactions 
+across multiple acquirers to 
+maximise  success rates, optimise  
+costs, and improve resilience.
+Pulse – App store, TMS & self -healing.
+Unified multi -OEM, multi -platform, multi -region 
+device & app management with remote 
+configuration & troubleshooting, and real -time 
+fleet health monitoring.The platform 
+advantage 
+behind 
+world -class 
+outcomes.Ecosystem of billing
+and merchant integrations.
+Built organically over years
+with deep  merchant integrations.
+1100 + billing system integrations 
+(Oracle, Microsoft 365, RSoft , 
+Vista, Rista, etc.)
+400 + third -party app integrations 
+(NICE, Petpooja , QueueBuster , 
+Vyapar , GoFrugal , Park+, etc.)
+MCP -based integrations reduce 
+merchant go -live time from weeks 
+to hours.32 1
+=== page 92 ===
+Automating
+everyday workflows 
+across Pine Labs.Driving 
+operational
+efficiency .Powering
+autonomous
+payments.
+=== page 93 ===
+Automating 
+everyday 
+workflows across 
+Pine Labs.
+Improving developer productivity: 
+1.5 M  lines of code updated monthly.
+Faster time -to-market and accelerated release cycles.
+Driving efficiency through workflow automation across 
+Engineering, Marketing, Finance, HR, and Operations.
+1
+1
+2
+3
+=== page 94 ===
+Driving 
+operational 
+efficiency.
+2
+1
+2
+50% of emails are auto answered via 
+AI Agent on an average in less than a minute:
+AI reads email        Queries internal systems  
+Draft resolution and send automatically.
+Edge AI based auto healing of field
+issues across 2M touch points.
+
+=== page 95 ===
+Powering
+autonomous 
+payments.
+The next evolution of payments is agent -led where 
+AI agents can discover, negotiate and execute 
+transactions autonomously.
+We, at Pine Labs, have built the intelligence layer 
+that connects buyer and seller agents, enabling 
+seamless agent -to-agent commerce.
+3
+1
+2find each other.
+transact.
+negotiate.BUYER AGENT SELLER AGENT
+Agents
+India's First Agentic Payments Protocol
+=== page 96 ===
+1
+2
+3
+4The agent can only act 
+within approved limits:Within the 
+guardrails of
+Access only authorised  data and systems .
+Spend only within defined thresholds .
+Communicate only with approved parties .
+Generate evidence for every action.
+Grantex.
+=== page 97 ===
+Payments moved money. 
+Intelligence will move commerce. 
+Pine Labs will power both.
+=== page 98 ===
+Multi -decadal
+p lays  for
+the nation
+Anand Raisinghani
+CEO, Setu by Pine Labs
+
+=== page 99 ===
+India’s DPI 2047 roadmap
+Roadmap for real -time payments and credit. The roadmap names both. Setu operates both.
+2010DPI 1.0 DPI 2.0 DPI 3.0
+2010 -2025 2025 -2035 2025 -2037The foundation Livelihood -led growth Broad -based prosperity 2025 2035 2047
+REAL -TIME PAYMENTS
+₹30Tper month moved every month 
+on UPI, the world’s busiest rail.
+India built the rail and gave it away. The 
+operating layer on top is ours to build and run.CREDIT
+400M+adults with no bureau file, the 
+next borrowers no one can score.
+A bureau will never reach the next 
+billion. Payment and identity rails can.
+=== page 100 ===
+UPI acquiring switch
+Industry -first deemed success.
+BBPS platform
+Automated biller & merchant 
+onboarding and built -in recon 
+& settlement.
+Self -serve & analytics
+Across billers, merchants 
+& operating units.AI enabled merchant 
+management system.Real -time payments
+ Credit
+Serving use cases across 
+acquisition, underwriting, 
+collections and personal 
+finance management.Identity suite
+Individuals & businesses.
+Onboarding workflows 
+for digital journeys.
+Alternate data & 
+consented AA data.Two engines, with 
+compounding effects.
+=== page 101 ===
+Real -time 
+payments
+=== page 102 ===
+Setu
+Real -time payments:
+A three -rung ladder.
+Each rung builds on the proposition.
+1
+Run the rail.
+TSP for UPI and BBPS. Bill payments 
+is a current -account game and 
+wedge for deepening customer 
+engagement for banks & fintechs.
+
+=== page 103 ===
+Investor and  Analyst Day - 2026
+Setu
+Real -time payments:
+A three -rung ladder.
+Each rung builds on the proposition.
+2
+Earn on the flow.
+Settlement, recurring 
+mandates, recharge, transit, 
+overseas education. 
+Collections fully reconciled.
+
+=== page 104 ===
+Investor and  Analyst Day - 2026
+Setu
+3
+Export the playbook.
+Sourtheast Asia, where the rails 
+are nascent and the operating 
+layer is currently being envisaged.
+Real -time payments:
+A three -rung ladder.
+Each rung builds on the proposition.
+=== page 105 ===
+In partnership with
+Leading
+e-Commerce platform
+300+ Agent Institutions Live 10,000+ billers live
+In partnership with
+2 of India’s top
+private banks
+Customer Operating 
+Unit (COU)
+Users
+Agent
+Institutions
+powered by
+Billers
+Biller Operating
+Unit (BOU)
+
+=== page 106 ===
+Every household.
+Every month.
+BBPS is the rail that
+touches a billion lives.
+Pine Labs powers
+15% of India’s bill 
+payments.
+Total number of BBPS transactions
+APR 2021 AUG 2025 APR 2026 2028 -2029 →
+1.28 Cr
+25.77 Cr
+3.51 Cr3.72 Cr25.81 Cr
+New TAM unlock.
+Forex Retail
+EV recharges
+e-Challan
+e-Nach on BBPS
+Metro tickets
+
+=== page 107 ===
+Powering 
+innovation for bill 
+payments at scale
+
+=== page 108 ===
+Credit
+=== page 109 ===
+three 
+things.Every loan
+needs
+01 Know who they are.
+02 Know how they earn.
+03 Catch the stress early.
+=== page 110 ===
+AI Summary  PASSED: 02   FAILED: 0306 out of 18 scanning
+Enter PAN
+XXXXXXX561L
+GST non enrollment declaration
+GST non enrollment declaration
+PAN verifiedPAN verification
+Memorandum of Association
+memorandum_of_association_doc
+Articles of Association
+articles_of_association_doc
+Certificate of Incorporation
+certificate_of_incorporation
+Board Resolution or PoA
+authorising_letter_board_resolution
+Documents verifiedBusiness verification01Know who they are.
+Acquire: Identify the borrower.
+KYC and KYB, with AI bolted into the flow.
+Switchboard: End -to-end journeys and granular 
+APIs. Merchant onboarding fully automated.
+
+=== page 111 ===
+02Know how they earn.
+Underwrite: Read their money.
+The most accurate Fixed Obligation to Income Ratio (FOIR) 
+picture the industry has seen. Payment plus consented data 
+into a borrower picture no bureau score can match.
+Richer categorisation , a better -quality approved cohort.
+
+=== page 112 ===
+03Catch stress early.
+Collect: Help with repayments.
+SignalIQ watches the payment rail, not the repayment 
+record, so stress shows before the EMI is missed.
+Signal 30 to 45 days earlier.
+₹5,000
+ ₹5,000
+₹5,0005 DAY DELAY
+PAYMENT MISSED
+ PAYMENT MISSED
+Recurring SIP Payment
+ RISK DETECTED
+=== page 113 ===
+Tell me where you’ve been, and I’ll tell you where you’re going
+2010DPI 1.0 DPI 2.0 DPI 3.0
+2010 -2025 2025 -2035 2025 -2037The foundation Livelihood -led growth Broad -based prosperity 2025 2035 2047
+REAL -TIME PAYMENTS CREDIT
+
+=== page 114 ===
+
+=== page 115 ===
+Investor and  Analyst Day - 2026
+Payment
+AcceptanceStored
+Value Card
+Stablecoin
+Backed 
+Instruments
+Real -time
+Payments
+Bill
+Payments
+Cross - Border
+Commerce
+Tap on
+QR
+Transit
+Payments
+Payment
+Gateway
+Mall
+Solution
+Fleet/Gas
+Station Solution 
+Issuing 
+Stack
+Present 
+in 22 
+markets. 
+=== page 116 ===
+~$557B transaction value 
+~558M total cards  I  150+ banksTop 5 global
+markets. 
+Merchants need
+One checkout.  
+Affordability that converts. 
+Insights that drives growth. Banks need  
+Turn -key infrastructure. 
+No ecosystem rebuild. 
+Fast integration.  Fast scale.
+Consumers want
+Real -time payments. 
+Instant access to money. The choices? 
+Go Local — fragmented, unproven 
+at scale. 
+Go Global — scale, at unviable 
+price points
+Build on Pine Labs
+One platform. Proven at scale. Built for every geography. At a price point 
+that works.
+$1.7T
+Digital payments opportunity,
+growing at 30% CAGR.
+$114B
+QR payments by 2030,
+5x since 2019.~$ 4T
+Combined GDP
+=== page 117 ===
+cards processed (domestic + intl.)
+30+
+financial institutions.
+endpoints deployed.50,000+90M+
+99.95%
+platform uptime.BUILD & PROVE
+IND
+Built at scale in one of the world's 
+most complex payments markets.
+SCALE & VALIDATE
+MY | UAE
+Deployed with leading institutions 
+and scaled successfully.
+REPLICATE
+SGP | IDN | PHL
+Expanding platform deployments 
+with strong partner momentum.
+EXPAND
+THA | VNM | AUS & more
+Building the next phase of growth 
+across high -potential markets.
+Global 
+expansion 
+playbook
+=== page 118 ===
+How we expand 
+with purpose.
+Ensure compliance and trust 
+with deep local expertise.Add capabilities that solve real 
+customer needs.LOCAL 
+INTEGRATIONCAPABILITY 
+EXPANSION
+Partner with strong local 
+institutions.Select global markets 
+primed for digital 
+payments innovation.Deploy proven capabilities with 
+minimal customisation .ANCHOR 
+INSTITUTIONPLATFORM 
+DEPLOYMENTSELECT 
+MARKET
+
+=== page 119 ===
+marketsthat prove it.
+=== page 120 ===
+Malaysia
+Leading CDIT  merchants
+Leading hospital network
+Largest pharmacy chains
+~$1.3B
+Annualised GTV 
+12
+Banks
+25,000+  
+Merchant footprint
+~40%+  
+Instalments market share~40%+  
+ CAGR FY24 -26
+=== page 121 ===
+•BNM acquiring license.
+•DuitNow  (local RTP) 
+acquirer.
+•5 offices, majority -local 
+teams.We're embedded 
+locally.
+Payment Marketing 
+AutomationPayByPoints
+Domestic & X -Border
+Buy Now Pay Later
+Digital Wallets
+Pine Labs Pay Later
+Brand Currency & Loyalty
+A compete payment ecosystem Malaysia
+
+=== page 122 ===
+•BNM acquiring license.
+•DuitNow  (local RTP) 
+acquirer.
+•5 offices, majority -local 
+teams.We're embedded 
+locally.
+Payment Marketing 
+AutomationPayByPoints
+Domestic & X -Border
+Buy Now Pay Later
+Digital Wallets
+Pine Labs Pay Later
+Brand Currency & Loyalty
+A compete payment ecosystem Malaysia
+
+=== page 123 ===
+Growth opportunity
+~90M+
+open -loop cards
+Large addressable
+Issuing opportunity~$250B
+Principal Acquiring 
+payments opportunityGet Principal Acquirer
+status by FY27 .
+Open loop issuance.What's next
+
+=== page 124 ===
+Largest retail chainLargest consumer wallet
+81M users · 2.5M merchants
+Investor and  Analyst Day - 2026
+Largest state -owned bank
+$122B
+Digital payments market.
+70%+
+Smartphone penetration  I 
+median age 26.8$40B  
+In remittances, cross -order 
+payment opportunity.
+~$120B
+Cards ($70B; +18.8% YoY) 
+& e-wallets (~50B) in 
+transaction value.
+Philippines
+=== page 125 ===
+Third -largest bank in the
+UAELargest banking group
+in MENATFastest growing digital bank
+4
+Acquirers
+50+
+Corporate clients
+1000+  
+Merchant  relationships
+2000+  
+Merchant network points
+~$490M
+Annualized GTV
+UAE
+=== page 126 ===
+We're embedded locally What's next
+•Local compliance 
+infrastructure.
+•Direct integrations with 18+ 
+card schemes and APMs 
+(Alternate Payment Methods).
+•Fully localised  onboarding & in -
+market presence.•SVF & RPSCS licensing (FY27) 
++ PG expansion.
+•Jaywan  rollout (domestic 
+scheme).
+•Aani expansion into RTP 
+acceptance.
+•CBUAE -led Open Finance 
+(payments & data).
+~$150B
+Acquiring market 
+opportunity
+
+=== page 127 ===
+
+=== page 128 ===
+Group Level 
+P&L View
+=== page 129 ===
+Multiple monetisation models |   Self -reinforcing network effects at scale
+In-store & Online
+Payments Infrastructure
+Subscription & Take 
+rate
+Fintech
+Infrastructure
+Transaction based 
+fee
+Flow, Affordability
+& Transaction Processing
+Take rate (%)  x GTV
+Digital Infrastructure & Transaction Platform Issuing & Acquiring Platform
+Issuance
+Processing & Settlement
+Take rate (%) x GTV68%32%
+32% 33% 3% 32%
+XX%- Revenue Mix FY26
+=== page 130 ===
+Operating at ScaleExchange rate $1 = ₹ 88.3   
+(Avg. RBI reference rate for the year)
++57% 
+50
+FY23[4.4]69
+FY24129
+FY25194
+FY26
+Platform GTV  ($Bn [₹ Lakh Cr] )+42% 
+CAGR in last 3 Yrs
+Transactions  (in Cr)
+257
+FY23344
+FY24559
+FY25740
+FY26+19% 
+11.9
+FY2313.9
+FY2418.0
+FY2520.3
+FY26
+DCP's  (in Lakhs)+44% 
+CAGR in last 3 Yrs
+136
+FY23194
+FY24338
+FY25403
+FY26
+International Revenue (in Cr)[6.1][11.4][17.2]
+CAGRin last 3 Yrs CAGR in last 3 Yrs CAGR in last 3 Yrs CAGR in last 3 Yrs
+=== page 131 ===
+From an "investment -and -build" to a "monetization -at-scale"
++42%CAGR  in last 3 Yrs
+₹ Cr Adj. EBITDA
+197
+FY23158
+FY24357
+FY25569
+FY26
+swung by  258Cr YOY₹ Cr
+ PAT
+FY23 FY24 FY25 FY26
+113
+(265)
+(342)
+(145)
+₹ Cr Operating Cashflow
+8XYOY
+FY23 FY24 FY25 FY26
+(152)
+(229)50
+395
+Evolving Revenue Mix from 
+Distribution Infra to Value Pools
+40%
+ 38%
+FY24
+32%
+ 29%
+FY26 FY25
+Business Services & Data  value poolsBrand & Consumer value 
+poolsDistribution Infra revenuesFY23
+1,5981,7702,2742,711
+2%
+58%59%63%66%3%5%5%
+Evolving revenue mix from 
+distribution infra to value pools₹ Cr
+12% 9% 16% 21%
+Adjusted EIDTA Margin %
+=== page 132 ===
+Disciplined cost management with revenue scale -up
+# Lakhs Indirect Expenses as % of Revenue*
++13%
+Employee Cost ex ESOP’s as % of Revenue
+68%
+FY23
+69%
+FY24
+60%
+FY25
+55%
+FY26
+ESOP Cost as % of Revenue
++4%
+10%
+0.0995261
+FY236%
+FY246%
+FY265%
+0.0504763
+FY25
+D&A as % of Revenue
+10%
+FY23 FY24 FY25 FY2624%
+10%
+20%
+15%
+
+=== page 133 ===
+Balance Sheet & Cashflow View
+=== page 134 ===
+Particulars (₹ Crore) FY23 FY24 FY25 FY26
+PPE (Incl CWIP) 706 542 394 339 
+Intangible assets (Goodwill, Software & Acquired Intangibles) 1570 1494 1468 1529
+Trade & Lease Receivables 722 766 877 1081
+Cash & cash equivalent and bank deposits 1402 1027 1145 2732
+Escrow Customer Balance 3725 4242 4942 5570
+(Less) Liabilities -prepaid cards & other settlement payables -3698 -4227 -4758 -5422
+Deferred Cashback 236 217 247 207
+(Less) Liabilities – Cashback -374 -320 -381 -378
+Early Settlement Receivables 282 560 760 918
+DTA + Advance Tax (TDS) 286 362 338 325
+Other Assets 47 35 44 61
+Total Assets 4905 4698 5,075 6962
+Shareholder's Equity 3739 3542 3506 5895
+Borrowings 330 533 829 283
+Trade payables 368 390 542 723
+Other liabilities 468 233 198 61
+Total Shareholder's Equity & Liabilities 4905 4698 5075 6962 Balance Sheet
+Intangible Assets includes Goodwill, Intangible Assets and Intangible assets under development
+=== page 135 ===
+Adjusted EBITDA to Free Cashflow
+Particulars Unit FY24 FY25 FY26
+Adjusted EBITDA (A) ₹ Cr 158 357 559
+Other items ₹ Cr -59 -45 -1
+Working capital adjustments without early settlement ₹ Cr -38 -101 1
+Income taxes (paid)/ received (net of refunds) ₹ Cr -12 38 -5
+Operating Cashflow (Ex Early settlement) ₹ Cr 49 250 554
+Add/less: Early Settlement ₹ Cr -278 -200 -159
+Operating Cashflow (Inc Early settlement) (B) ₹ Cr -229 50 395
+Capex payout (C) ₹ Cr -257 -148 -234
+Proceeds from government grants (D) ₹ Cr 38 19 6
+Free Cashflow (E) ₹ Cr -448 -79 167
+Net Working Capital
+Particulars Unit FY24 FY25 FY26
+Revenue (A) ₹ Cr 1770 2274 2711
+Net Working Capital (B) ₹ Cr 266 367 377
+Net Working Capital as % of Revenue % 15% 16% 14%Operating Cashflow conversion 
+from Adj. EBITDA with stable N et 
+Working Capital71%
+As of31st March ’26 : Gross cash balance ₹2,732 Cr I Borrowings ₹283 Cr I Net cash balance of ₹2,449 CrOperating Cashflow to Adjusted EBITDA (%) % -145% 14% 71%

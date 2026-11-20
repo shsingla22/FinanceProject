@@ -1,0 +1,125 @@
+27 October  2025 
+The Manager, Listing          
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,         
+MUMBAI - 400 001  
+Scrip Code: 526299    The Manager, Listing  
+National Stock Exchange of India Ltd  
+Exchange Plaza, Plot No. c/1,  
+G-Block, Bandra -Kurla Complex,
+MUMBAI – 400 051
+Scrip Symbol: MPHASIS
+Dear Sir /Madam , 
+ Sub: Intimation of Press Release  
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith a press release titled  “Mphasis Launches NeoIPTM, a unified AI Platform for 
+continuous Enterprise Transformation ” which is being released from our end.    
+The press release will also be available on the website of the Company at www.mphasis.com . 
+We request you to kindly take the above intimation on record  
+Thanking you,  
+Yours faithfully,  
+For Mphasis Limited  
+Mayank Verma  
+Senior Vice President and Company Secretary  
+Membership No.: ACS 18776  
+Encl: As above  
+
+Mphasis Launches NeoIPTM, a unified AI Platform for continuous Enterprise  
+Transformation 
+~ Platform utilizes Ontology -Powered Knowledge Graph, Onto sphere, to deliver compounding value and 
+continuous transformation  
+~ Early client deployments of the platform are demonstrating  up to 60% efficiency gains, 50% reduction in 
+incident resolution time, and measurable margin improvements  
+New York | Bengaluru – October 2 7, 2025  — Mphasis, ( BSE: 526299 ; NSE: MPHASIS ), an Information Technology (IT) 
+solutions provider specializing in cloud  and cognitive  services , announced the launch of Mphasis NeoIP ™, a breakthrough 
+Artificial Intelligence ( AI) platform , integrating multiple Mphasis.ai  innovative solutions , designed for continuous  
+enterprise transformation  and differentiating  competitive  advantage . The platform perpetually rewir es core systems, 
+turning  enterprise knowledge across legacy systems, data and operations driving  intelligen t engineering .  At the  core of  
+NeoIP ™ is this living – breathing layer of connected enterprise understanding , that unifies data, systems, and processes to 
+proactively optimize, modernize, and transform business and IT operations.  
+NeoIP ™ enabl es organizations continuously evolve , rather than  through one -time transformation programs , by making 
+enterprise knowledge machine understandable .  NeoIP ™ automate s complex decisions, predict s and prevent s issues 
+before they occur and drive s sustained  innovation. I t empowers CIOs and business leaders to shift left, embedding 
+intelligence early in the software and operations lifecycle to create self -healing, resource efficient systems  that learn and 
+improve over time.  In addition, it integrates evergreen business intelligence with AI -assisted implementation, fostering 
+continuous learning and evolution with every subsequent initiative.  The platform creates a connected, data -centric  
+environment where AI and human teams collaborate to plan, build, and manage transformation.  
+"Traditional enterprise transformation often fails to deliver value and requires ongoing reinvestment to keep pace with 
+AI's rapid evolution . NeoIP ™ redefines the model. NeoIP ™ brings together Mphasis -built AI solutions, partner 
+technologies, and client assets into a single platform that supports multiple data sources, large and small language 
+models, and computing environments. It represents the future of enterprise tech, which is intelligent by design, secure by 
+default, and scalable by nature," said Nitin Rakesh, Chief Executive Officer and Managing Director, Mphasis.  
+A key component of NeoIP ™ is Ontosphere that in collaboration with various AI Agents constructs and sustains the 
+intelligence through dynamic knowledge graphs using enterprise domain context. Together these capabilities form a 
+foundation for contextual insights, autonomous actions and intelligent orchestration. Onto sphere ensures AI -driven 
+transformation is fast, accurate, and strategically aligned with long -term business goals.  
+NeoIP ™ includes solutions grouped under four categories , namely: Modernization, Application Development, ITOps  & 
+BusinessOps . These capabilities are delivered via specialized AI Agents  and frameworks : 
+Agent  & Frameworks  Category  Function  
+Mphasis NeoCrux ™ Modernization , App Development  Orchestrates AI -driven code generation and quality automation.  
+Mphasis NeoZeta ™ Modernization  Enables organizations overcome challenges of modernization  
+through comprehensive knowledge graph  
+Mphasis NeoSaba ™ Application Development  Provides agile AI agents for quality -driven product definition and 
+user story elaboration.  
+Mphasis NeoRigal ™ Governance  AI Agent for planning, building and orchestrating various AI 
+components  and provides AI governance  
+ 
+   
+ 
+Mphasis AIOps  ITOps  Features capabilities for integrated operations, including proactive 
+incident prediction, root -cause analysis, and self -healing automation 
+based on deep system observability.  
+Mphasis NeoOrko ™ Application Development  Agent, model and knowledge operations management system  
+Mphasis NextOps ™ Business Ops  A collection of Domain specific business operations agents that are 
+autonomous in nature  
+Mphasis NeoARCHE ™ Application Development  Analyzes the code stream to route workloads between CPU & GPU: 
+Autonomous Routing for Compute Heterogeneity  
+Ontosphere  Modernization, App Development, 
+ITOps, Business Ops  Enterprise intelligence encoded with contextual knowledge  based on 
+domain ontologies  
+ 
+NeoIP ™ natively connects with third -party AI agents through Model Context Protocol (MCP) and Agent2Agent (A2A) 
+standards, expanding the agent fabric for unified, cross -enterprise orchestration.  
+ 
+Early client engagements have delivered measurable impact across multiple dimensions:  
+• Up to 60% improvement  in development and modernization efficiency through AI -led code generation, testing, and 
+optimization  
+• 50% reduction  in mean  time  to detect  Mean Time to Detect (MTTD)  and resolve IT incidents through improved 
+observability and automation  
+• 3–5 hours of predictive early warning  for major outages using AI -based anomaly detection  
+• Sustained cost and margin improvements  through a Savings -led Transformation approach that builds continuous 
+value  
+• Build a cloud -ready, composable, business capability -driven  platform  with  real-time event -driven architecture . 
+ 
+Mphasis has also transformed its AppStore into an AI -powered marketplace, enabling employees to easily discover, 
+download, and use NeoIPTM solutions. With intelligent search and curated categories, the platform streamlines access to 
+tools that drive innovation and efficiency across the organization.   
+ 
+NeoIP ™ further sets the stage for Mphasis’ next phase of innovation under the Mphasis Quantum initiative,  which will 
+introduce new solutions using quantum computing and AI to further enhance enterprise decision -making and 
+transformation.  
+ 
+  
+About Mphasis   
+At Mphasis,  engineering has been in our DNA  since inception . 
+Mphasis is an AI -led, platform -driven company with human -in-the-loop intelligence, helping global enterprises modernize, infuse AI, 
+and scale with agility. The Mphasis.ai  unit and Mphasis AI-powered ‘Tribes’ are focused on client outcomes and embed artificial 
+intelligence and autonomy into every layer of the enterprise technology and process stack.   
+Mphasis built NeoIP ™, a breakthrough AI platform which orchestrates a powerful pack of AI platforms and solutions to deliver 
+impactful outcomes across the entire enterprise IT value chain, because we believe ‘ AI Without Intelligence Is Artificial . NeoIP ™ is 
+powered by the Ontosphere, a dynamic and ever -evolving knowledge base, delivering continuous and constant innovation through 
+perpetual  intelligent engineering - driving end -to-end enterprise transformation.  
+At the heart of our approach is customer -centricity —reflected in our proprietary Front2Back ™ transformation framework, which uses 
+the exponential power of cloud and cognitive to deliver hyper -personalized digital experiences (C=X2C2 ™ = 1) and build strong 
+relationships with marquee clients. Our Service Transformation solution s enable  enterprises  pivot from legacy systems and operations 
+to secure, adaptive, cloud -first operating models with minimal disruption. Continuous investments in platforms, such as the Neo 
+series, enable  enterprises to stay efficient, relevant, and ahead  in a dynamic AI -first world. Mphasis is a  Hi-Tech, Hi -Touch, Hi -Trust 
+company, rooted in a learning and growth culture.   Click here  to know more.   (BSE: 526299 ; NSE: MPHASIS ) 
+For further information, please contact: 
+Mphasis Corporate Communications  
+Deepa Nagaraj  
+deepa.nagaraj@mphasis.com  |  
++ 1 (646) 424 -5160 |+91 9845 256 283Sumana  Bhat  
+sumana.bhat@mphasis.com  | 
++91 9902 980 980

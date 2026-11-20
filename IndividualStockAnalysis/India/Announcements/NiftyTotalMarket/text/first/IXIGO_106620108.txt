@@ -1,0 +1,132 @@
+ 
+ May 13, 202 6                                                                                  LTTL/L&S/2026- 27/05/04 
+ 
+To, 
+The Listing Department , 
+National Stock Exchange of India Limited,  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai -  400 051  
+Maharashtra, India  The Listing Department,  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+Maharashtra, India  
+ Dear Sir/Madam,  
+ 
+ Sub  : Media Release  - ixigo Reimagines Travel With a Fully AI -Native App; 
+Reinvents TARA as a Multimodal AI Assistant and Introduces Agentic 
+Travel Flows  
+ 
+ Ref  : Le Travenues Technology Limited (the “Company”)  
+ 
+NSE Symbol: IXIGO  and BSE Scrip Code: 544192  
+ 
+In compliance with the applicable provisions of the SEBI (Listing Obligations and 
+Disclosure  Requirements) Regulations, 2015 (as amended) , please find enclosed media  
+release - ixigo Reimagines Travel With a Fully AI -Native App; Reinvents TARA as a 
+Multimodal AI Assistant and Introduces Agentic Travel Flows . 
+ This is for your information and records.  
+ Thank you, 
+ For Le Travenues Technology Limited  
+  Suresh Kumar Bhutani  
+(Group General Counsel, Company Secretary &  Compliance Officer ) 
+ 
+ 
+ 
+ixigo Reimagines Travel With a Fully AI -Native App; Reinvents TARA as a 
+Multimodal AI Assistant and Introduces Agentic Travel Flows  
+ 
+- Reinvents TARA as the conversational core of the new ixigo app,  a multimodal AI assistant that plans, 
+books and acts for you  
+- Introduces Trip Mode:  a built -in travel companion that consolidates post -booking information and real -
+time travel alerts in one place  
+- Introduces Agentic Travel Flows: AI agents that proactively assist travellers in the background in real time  
+ 
+ 
+Gurugram, 13th May 2026: ixigo, India’s leading AI -powered travel platform, today unveiled the new AI -
+native version of its app, reimagining travel through conversational and agentic AI experiences. The launch 
+was announced at ixigo NEXT, the company’s flagship tech launch event.  
+Unlike traditional travel apps that layer AI features onto existing systems, ixigo’s redesigned AI -native app 
+has been rebuilt from the ground up with AI seamlessly integrated across the entire user experience, 
+making travel more conversational, intuitive and deeply personalised.  
+The platform moves beyond transactional booking journeys to become an intelligent travel companion 
+that helps users discover, decide and act in one place, offering a truly transformative trip planning and 
+booking experience for hotels and flights. Instead of navigating multiple filters and screens, users can 
+simply express their intent naturally through voice and let the app guide them towards the best travel 
+
+ 
+ 
+outcomes. At the heart of the experience is TARA, ixigo’s multimodal AI assistant , designed to 
+fundamentally reimagine how users interact with the new ixigo app and plan their journeys.  
+Meet the Reinvented TARA: ixigo’s Multimodal AI Travel Assistant  
+Reinvented as the conversational core of the ixigo app, TARA has evolved into a deeply integrated AI -
+native travel companion designed to make travel planning more intuitive and personalised. Users can 
+interact with TARA naturally in English, Hindi and Hinglish through voice, text or tap, with support for 
+more languages coming soon.  Unlike traditional chatbots that function as standalone API -based 
+interfaces, TARA is deeply embedded into the app’s core user experience.  
+TARA is capable of handling complex, intent -driven travel queries that go far beyond conventional search 
+flows. Instead of navigating through multiple filters and screens, users can simply express their intent 
+naturally through voice.  From detailed requests such as “show me hotels in Dubai with an infinity pool 
+and a view of the Burj Khalifa” to planning multi -city itineraries, TARA is designed to understand intent 
+naturally. Users don’t even need to explicitly mention travel -  a promp t like “Hi TARA, I for got my 
+anniversary, help me!” can instantly trigger personalised getaway and stay recommendations based on 
+a user’s travel history, preferences, family context and past booking behaviour. The AI -assistant is also 
+context- aware, meaning it understands which page or stage of travel planning the user is in and surfaces 
+relevant information or actions accordingly.  
+Beyond trip discovery and planning, TARA proactively assists users even when they are not actively using 
+the app. It continuously tracks flight schedules, manages cancellations, processes refunds and provides real- time travel information such as flight sch edule, weather updates, terminal and gate details, as well 
+as contextual recommendations such as available lounges at the departure terminal.  
+The New Trip Mode  
+ixigo’s AI -native app also introduces Trip Mode , a new built -in travel companion designed to assist users 
+throughout their journey.  
+Trip Mode consolidates all post -booking information into a single view, including boarding passes, 
+terminal and gate details, boarding information, baggage belt updates and other real -time travel alerts. 
+The feature also helps users prepare for every stage of their journey  from planning and packing to boarding and arrival. It offers contextual assistance such as suggesting when to leave for the airport based 
+on live traffic conditions and providing relevant travel recommendations throughout the trip. Users  can 
+also receive personalised content suggestions, including recommendations on what to watch, eat or 
+explore during their journey.  
+ 
+ 
+ 
+Introducing Agentic Travel Flows  
+ixigo is introducing agentic travel experiences where AI agents perform critical travel tasks autonomously 
+in the background.  
+ixigo’s AI agents send boarding passes directly to travellers on WhatsApp, while also giving them the 
+option to add them to Apple Wallet and Google Wallet, and share them with Digi Yatra for a more 
+seamless airport experience. Boarding passes stored in dig ital wallets are dynamically updated in real time 
+if there are any changes to flight timings or gate information. Beyond flights, ixigo’s AI agents also 
+proactively assist hotel travellers by coordinating with hotels ahead of check -in to verify room readin ess 
+and help ensure a smoother stay experience.  
+There are AI agents that also monitor flight schedules in real time, alerts users to delays or schedule 
+changes, and helps manage refund flows in case of cancellations. Many of these agentic features are 
+permission -based and opt -in, ensuring users remain f ully in control, with more agentic flows set to be 
+introduced in the future.  
+A Completely Reimagined ixigo Experience  
+The new homepage is hyper -personalised and dynamically adapts to each user’s travel history, intent and 
+stage in the travel journey. The app also introduces an entirely new visual identity and interface, including 
+a sleek new dark mode experience.  
+Speaking on the launch,  Rajnish Kumar, Group Co -CEO and Aloke Bajpai, Group CEO, ixigo  said, “Over 
+the last two decades, ixigo has focused on building products that reduce anxiety and bring peace of mind to travellers. With the new AI -native version of our app, we are reimagining travel as a conversational, 
+intuitive and deeply personalised experi ence powered by AI.  
+The new ixigo app has been rebuilt from the ground up as an AI -native travel platform -  not by adding AI 
+in patches, but by integrating it seamlessly across the entire experience. We believe the future of travel 
+will be agent -led, with AI that can understand intent, take proactive actions and assist travellers seamlessly 
+before, during, and after their trips.  
+By combining frontier AI capabilities with two decades of travel intelligence, real -time data and deep 
+customer understanding, we are reimagining what a travel app can truly become in the AI era. Our vision 
+with this reinvention was to create an actionable  playbook for how AI- native reinvention can be done in a 
+complex, real -world category like travel.”  
+About ixigo (NSE: IXIGO, BSE: 544192 ) 
+Launched in 2007 by Aloke Bajpai & Rajnish Kumar, ixigo (Le Travenues Technology Limited) is one of India’s leading AI -based travel platforms for planning, booking and managing trips across trains, flights, 
+buses and hotels. ixigo assists travellers in mak ing smarter travel decisions by leveraging artificial 
+ 
+ 
+intelligence. The ixigo, ConfirmTkt and AbhiBus apps allow travellers to book train tickets, flight tickets, 
+bus tickets, hotels, and cabs, and provide travel utility tools and services developed using in -house 
+proprietary algorithms and crowd -sourced information. With over 54 crore Annual Active Users in Fiscal 
+2025, ixigo is the leading OTA for Next Billion Users in India. For more information, please visit http://www.ixigo.com     
+  
+For media inquiries, please contact:  
+Arsheen Jain | arsheen@ixigo.com  | +91 9811371767  

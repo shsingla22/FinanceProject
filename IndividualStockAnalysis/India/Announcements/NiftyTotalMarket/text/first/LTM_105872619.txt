@@ -1,0 +1,342 @@
+Business Responsibility & Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I. DETAILS OF THE LISTED ENTITY
+ 1. Corporate Identity Number (CIN) of the Listed Entity: L72900MH1996PLC104693
+ 2. Name of the Listed Entity: LTIMindtree Limited
+ 3. Year of incorporation: 23 December 1996
+ 4. Registered office address:  L&T House, Ballard Estate, Mumbai 400 001, India
+ 5. Corporate address:  Technology Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai 400 072
+ 6. E-mail:  sustainability@ltimindtree.com
+ 7. Telephone:  +91 22 6776 6776
+ 8. Website:  https://www.ltimindtree.com
+ 9. Financial year for which reporting is being done: Financial Year 2023-24 (01 April 2023 – 31 March 2024)
+ 10.  Name of the Stock Exchange(s) where s hares are listed: National Stock Exchange of India Limited (NSE) 
+(Stock Symbol: LTIM) and BSE Limited (Stock Code: 540005)
+ 11.  Paid-up Capital:  The paid-up equity share capital of LTIMindtree Limited as on March 31, 2024, is INR 296.16 Million 
+comprising 296,163,369 equity shares of face value of INR 1/- each.
+ 12.  Name and contact details (telephone, email address) of the person who may be 
+contacted in case of any queries on the BRSR report:
+S. 
+No.Particulars Details
+1. Name Paneesh Rao
+2. Designation Chief Sustainability Officer
+3. Telephone Number +91 80 67064000
+4. Email ID sustainability@ltimindtree.com
+ 13.  Reporting boundary - Are the disclosures under this report made on a standalone 
+basis (i.e., only for the entity) or on a consolidated basis (i.e., for the entity and all the 
+entities which form a part of its consolidated financial statements, taken together):
+   Disclosures made in this report pertain to LTIMindtree Limited (“LTIMindtree”) on a consolidated basis. It covers all 
+global operations for economic and social category performance disclosures. Environmental performance disclosures 
+using an operational control approach, pertain to India operations, where our largest employee base and environmental 
+impacts lie. 
+ 14.  Name of assurance provider: 
+   DNV Business Assurance India Private Limited has assured the data presented in this BRSR with reference to SEBI guidance, 
+prepared under GRI Universal Standards 2021 disclosures as specified in their Assurance Statement. The scope and basis 
+of assurance have been described in their assurance statement. The data measurement techniques used, and the basis 
+of calculations and estimates have been mentioned in the relevant areas of this report. LTIMindtree and the independent 
+assurance agency do not believe there is any substantial divergence from SEBI Guidance, GRI Universal Standards 2021 
+Indicator Protocols, and other global reporting frameworks. The scope, boundaries, and methodology for data analysis 
+in this report are mentioned above. Other supporting data is reviewed by relevant third-party assurers as part of the ISO 
+and financial audit.
+ 15. Type of assurance obtained:
+  Core KPIs – Reasonable Assurance
+  Rest of the report – Limited Assurance
+Business Responsibility & Sustainability Report
+LTIMindtree Limited | Integrated Annual Report 2023-24
+01STATUTORY REPORTS
+II. PRODUCTS/SERVICES
+ 16. Details of business activities (accounting for 90% of the turnover):
+S. No Description of Main Activity Description of Business Activity % Of Turnover of the entity
+1 Information and communication (J6, J8) Computer programming, consultancy, and related 
+activities & other information & communication 
+service activities, IT software, services, and related 
+activities.100%
+ 17. Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. No Product/Service NIC Code% Of Total Turnover 
+contributed
+1 IT and IT-enabled services including 
+digital transformation services, enterprise 
+solutions, technology consulting, IT 
+consulting, application development 
+and maintenance, business operations 
+services and platforms, among others, 
+are the predominant services which 
+accounts for the entity’s turnover.62099, 892 (1987 NIC Code) & 620 (NIC Code) 100%
+III. OPERATIONS
+ 18. Number of locations where plants and/or operations/offices of the entity are situated:
+Locations Number of plants Number of offices Total
+National Not Applicable* Offices - 39
+Data Centers - Nil39
+International Not Applicable* Offices - 77
+Data Centers - 178
+   *As LTIMindtree is an IT Services Company, we do not have any manufacturing plants. For more information, refer to Global presence section. 
+ 19. Markets served by the entity:
+  a. Number of locations
+Locations Number 
+National (No. Of States)  9
+International (No. Of Countries)  37
+• LTIMindtree has business activities in 9 National locations - Delhi, Karnataka, Kerala, Maharashtra, Odisha, Tamil 
+Nadu, Telangana, Uttar Pradesh, West Bengal.
+• LTIMindtree has business activities in 37 International locations - Australia, Belgium, Canada, China, Costa Rica, 
+Cyprus, Denmark, Finland, France, Germany, Ireland, Japan, Malaysia, Mexico, Morocco, Netherlands, Norway, 
+Philippines, Poland, Qatar, Saudi Arabia, Singapore, South Africa, Spain, Sweden, UAE, UK, USA, Hungary, Italy, 
+Luxembourg, South Korea, Switzerland, Thailand, Czech Republic, Romania, Taiwan.
+  b. What is the contribution of exports as a percentage of the total turnover of the entity?
+   The contribution of exports as a percentage of total turnover of LTIMindtree is 94%.
+  c. A brief on types of customers:
+    LTIMindtree collaborates with prominent corporations worldwide, often including Fortune 1000 or Global 2000 
+companies, as well as public sector entities. The Industries Served section in this Annual Report provides insights into 
+our customer segments.
+Our vision for a limitless future. Faster. Together.
+02
+IV.  EMPLOYEES
+  All employees at LTIMindtree are classified as either Permanent or Other than Permanent, with no categorization as 'Workers'. 
+Recognizing that gender is not strictly binary, some individuals may prefer to opt out of traditional male/female identification 
+and select 'Others'. This inclusive category encompasses individuals who identify as non-binary, gender-fluid, transgender, or 
+any other gender identity beyond the binary norm. In the fiscal year 2023-24, 231 of our employees identified their gender 
+as 'Others' within our talent pool. In this BRSR report, we have included data on the 'Other' gender category alongside the 
+conventional male/female categorization, wherever applicable and data available.
+ 20. Details as at the end of Financial Year:
+  a. Employees (including differently abled):
+S.No. ParticularsTotal Male Female Others
+(A) No. (B) % (B/A) No. (C) % (C/A) No. (D) % (D/A)
+EMPLOYEES
+1 Permanent (E) 81,650 56,566 69.28% 25,061 30.69% 23 0.03%
+2 Other than Permanent (F) 3,952 2,873 72.70% 871 22.04% 208 5.26%
+3 Total employees (E + F) 85,602 59,439 69.44% 25,932 30.29% 231 0.27%
+  b. Differently abled Employees:
+S.No. ParticularsTotal Male Female Others
+(A) No. (B) % (B/A) No. (C) % (C/A) No. (D) % (D/A)
+DIFFERENTLY ABLED EMPLOYEES
+1 Permanent (E) 58 47 81.03% 11 18.97% 0 0.00%
+2 Other than Permanent (F) 3 3100.00% 0 0.00% 0 0.00%
+3 Total employees (E + F) 61 50 81.97% 11 18.03% 0 0.00%
+Note: It is completely voluntary for our employees to declare their disability status and the number of PwD employees shown here are 
+those who have declared their disability. So, this data represents a subset of actual PwDs currently working with LTIMindtree.
+ 21. Participation/Inclusion/Representation of women
+S.No. Particulars Total (A)No. and percentage of Females
+No. (B) % (B/A)
+1. Board of Directors 12 1 8.33%
+2. Key Management Personnel 2 1 50%
+Note:
+• CEO & MD and two Whole-time Directors are included in the Board of Directors (BODs).
+• Key Management Personnel (KMP) include Chief Financial Officer (CFO) and Company Secretary (CS).
+ 22. Turnover rate for permanent employees
+FY 2023-24 FY 2022-23 FY 2021-22
+Male Female Others Total Male Female Others Total Male Female Others Total
+Permanent Employees 14.21% 14.98% 11.54% 14.45% 20.10% 20.30% 8.70% 20.20% 24.00% 23.10% 0.00% 23.80%
+Note:
+• The Turnover rates mentioned above are for LTIMindtree’s global headcount, including subsidiaries.
+• This data is Voluntary Attrition %.
+• LTIMindtree has taken a multi-pronged approach towards workforce retention. To retain and attract the workforce, we provide upskilling 
+opportunities, promotions, career growth, benefits and rewards, and long-term incentives which reduced attrition.
+Business Responsibility & Sustainability Report
+LTIMindtree Limited | Integrated Annual Report 2023-24
+03STATUTORY REPORTS
+V. HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+ 23. (a) Names of holding/subsidiary/associate companies/joint ventures
+S.No.Name of the holding/subsidiary/associate companies/joint 
+ventures (A)Indicate whether 
+holding/
+Subsidiary/
+Associate/Joint 
+Venture% of shares held 
+by listed entityDoes the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+1 LTIMindtree GmbH Subsidiary 100 Yes
+2 LTIMindtree Canada Ltd. Subsidiary 100 Yes
+3 LTIMindtree LLC Subsidiary 100 Yes
+4 LTIMindtree Financial Services Technologies Inc. Subsidiary 100 Yes
+5 LTIMindtree South Africa (Pty) Ltd Subsidiary 69.6 Yes
+6 LTIMindtree Information Technology Services (Shanghai) Co., Ltd Subsidiary 100 Yes
+7 LTIMindtree Spain, S. L Subsidiary 100 Yes
+8 LTIMindtree S.De. RL.De. C.V Subsidiary 100 Yes
+9 LTIMindtree SA Subsidiary 100 Yes
+10 LTIMindtree PSF SA Subsidiary 100 Yes
+11 Syncordis Limited, UK Subsidiary 100 Yes
+12 Syncordis SARL, France Subsidiary 100 Yes
+13 LTIMindtree Norge AS Subsidiary 100 Yes
+14 Nielsen + Partner Unternehmensberater GmbH Subsidiary 100 Yes
+15 LTIMindtree Switzerland AG Subsidiary 100 Yes
+16 Nielsen + Partner PTE. Ltd. Subsidiary 100 Yes
+17 Nielsen & Partner PTY Ltd Subsidiary 100 Yes
+18 LTIMindtree (Thailand) Limited Subsidiary 100 Yes
+19 LTIMindtree USA Inc. Subsidiary 100 Yes
+20 LTIMindtree UK Limited Subsidiary 100 Yes
+21 LTIMindtree Middle East FZ-LLC Subsidiary 100 Yes
+22 Cuelogic Technologies Inc1Subsidiary 100 Yes
+23 Mindtree Software (Shanghai) Co. Ltd.2Subsidiary 100 Yes
+1. During the year, Cuelogic Technologies Inc is liquidated w.e.f. April 26, 2023.
+2. During the year, Mindtree Software (Shanghai) Co. Ltd is liquidated w.e.f. August 26, 2023.
+Our vision for a limitless future. Faster. Together.
+04
+VI. CSR DETAILS
+ 24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No): Yes
+  (ii)  Turnover:  INR 355,170 Million
+  (iii) Net worth: INR 192,983 Million (Standalone); INR 200,264 Million (Consolidated)
+  (iv) CSR threshold limit: INR 806 Million
+  (v) CSR spend: INR 807 Million
+VII. TRANSPARENCY AND DISCLOSURES COMPLIANCES
+ 25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National 
+Guidelines on Responsible Business Conduct:
+Stakeholder 
+group from whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in place (Yes/
+No) (If yes, then provide 
+web-link for grievance 
+redress policy)FY 2023-24 FY 2022-23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of 
+the yearRemarks
+Communities Yes. The CSR team 
+makes frequent field 
+visits, discusses any 
+issues directly with the 
+beneficiaries and NGO 
+partners, and takes 
+corrective and preventive 
+actions.Nil Nil Nil Nil Nil Nil
+Investors* (other 
+than shareholders)Not Applicable Not
+ApplicableNot 
+ApplicableNot 
+ApplicableNot 
+ApplicableNot 
+ApplicableNot 
+Applicable
+Shareholders Yes. As per SEBI Listing 
+Regulations, we have 
+a designated e-mail ID, 
+investor@ltimindtree.
+com and centralized 
+web-based complaints 
+redressal system.15 Nil Total 17 
+complaints 
+resolved 
+during the 
+year which 
+includes  
+2 complaints 
+of the 
+previous year.28 2 Nil
+Employees Yes. Grievance Redressal 
+Mechanism is in 
+place. Web link of the 
+Grievance Redressal 
+Policy is: https://www.
+ltimindtree.com/wp-
+content/uploads/2023/07/
+Grievance-Redressal-
+Policy.pdf?pdf=download54 Nil Nil 228 Nil Nil
+Customers Yes. Escalation 
+mechanisms are defined in 
+individual client contracts 
+and an escalation matrix 
+is provided with various 
+modes, including tool-
+based system. We obtain 
+ongoing, project-based, 
+and annual feedback from 
+our customers.Nil Nil Nil Nil Nil Nil
+Business Responsibility & Sustainability Report
+LTIMindtree Limited | Integrated Annual Report 2023-24
+05STATUTORY REPORTS
+Stakeholder 
+group from whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in place (Yes/
+No) (If yes, then provide 
+web-link for grievance 
+redress policy)FY 2023-24 FY 2022-23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of 
+the yearRemarks
+Value Chain 
+PartnersYes, an escalation matrix 
+is provided in contracts 
+and Whistleblower policy.
+https://www.ltimindtree.
+com/wp-content/
+uploads/2023/11/
+Whistleblower-Policy.
+pdf?pdf=downloadNil Nil Nil Nil Nil Nil
+Others (please 
+specify)**Not Applicable Not 
+ApplicableNot 
+ApplicableNot 
+ApplicableNot 
+ApplicableNot 
+ApplicableNot 
+Applicable
+NOTE:
+* The Company has only one category of Investor - Equity shareholder. Hence Investors (other than shareholders) is not applicable.
+**We do not have any other stakeholder group from whom complaints are received.
+The Business Responsibility policies guiding LTIMindtree’s conduct with all its stakeholders, including grievance mechanism are available at 
+https://www.ltimindtree.com/investors/corporate-governance/
+ 26. Overview of the entity’s material responsible business conduct issues
+   Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format:
+   Central to our commitment to sustainable value creation for all stakeholders is our materiality assessment process, for 
+identifying and prioritizing key issues that resonate with our stakeholders and drive our business operations. Guided by 
+our core principle of 'doing good' while ensuring business excellence, we understand the critical importance of integrating 
+stakeholder interests and expectations into our decision-making frameworks.
+   Methodology - Our materiality assessment process is aligned with the international reporting framework of GRI Universal 
+Standards 2021. This process delves into both internal and external factors to provide a holistic overview. Internally, we 
+scrutinize leadership transitions, strategic endeavors, and the intricacies of our business model. Externally, we analyze 
+prevailing economic landscapes, potential environmental challenges, resource dynamics, and the evolving needs and 
+aspirations of our customers and partners.
+   Determining materiality -  Our internal evaluations are balanced against external benchmarking of industry peers and 
+global sustainability benchmarks. This methodology ensures that we not only recognize immediate concerns but also 
+anticipate future trends, thereby aligning our strategies with stakeholder expectations across varying timeframes.
+   Key considerations -  One pivotal aspect of our materiality assessment is the proactive identification and evaluation of 
+emerging Environmental, Social, and Governance (ESG) risks. We acknowledge the dynamic nature of material issues and, 
+therefore, integrate multiple determinants into our assessment framework. These include assessing the direct economic 
+implications on our business model, aligning with our organizational values, comparing against industry benchmarks, 
+addressing stakeholder apprehensions, and navigating emerging societal challenges.
+  In our Materiality Assessment process, we look at:
+   Stakeholders -  We study different groups' needs and expectations, how they affect our plans, and how we run things.
+   Regulations -  We closely monitor both existing regulations and anticipate future legislative changes that could influence 
+our financial planning strategies.
+   Risks - We identify and evaluate major risks that could impact our operations, results, and customer relationships. This 
+includes both financial and non-financial risks, with a focus on finding opportunities within challenges.
+Our vision for a limitless future. Faster. Together.
+06

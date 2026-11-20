@@ -1,0 +1,393 @@
+
+=== page 1 ===
+N
+ational Stock Exchange of India Limited  
+Symbol: ROUTE  Ref No: RML/2026-27/720 
+Date: October 28, 2026 
+To 
+BSE L imited        
+Scrip Code: 5 43228 
+Sub : Investor P resentation 
+Dear S ir/Madam, 
+P
+ursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we are 
+enclosing herewith the Investor Presentation, that will be presented on Wednesday , October  28, 2026  to the Analysts 
+in connection with the Unaudited Financial Results (Standalone and Consolidated) of the Company for the  quarter 
+and half year  ended September 30, 202 6.  
+T
+he same is also available on the Company’s website at www.routemobile.com. 
+Y
+ou are requested to take the above information on record.  
+T
+hanking You , 
+Yo
+urs faithfully , 
+For Route Mobile Limited  
+T
+ejas Shah  
+Company Secretary & Compliance Officer  
+ICSI Membership No.: A34829 
+E
+ncl: as above 
+=== page 2 ===
+Earnings Update
+H1 FY 26 -27
+Investor Presentation
+October 27, 2026
+A Company
+
+=== page 3 ===
+2
+Certain statements mentioned inthis presentation concerning our future growth prospects are forward looking statements (the “Forward
+Statements”) and arebased onreasonable expectations ofthe management, which involves anumber ofrisks, and uncertainties that could cause
+actual results todiffer materially from those insuch Forward Statements .The risks and uncertainties relating tothese Forward Statements include,
+but arenot limited to,risks and uncertainties regarding fluctuations inour earnings, fluctuations inforeign exchange rates, revenue and profits, our
+ability togenerate and manage growth, competition inCPaaS globally, wage increases inIndia, our ability toattract and retain highly skilled
+professionals, time and cost overruns onfixed -price and fixed time frame contracts, industry segment concentration, our ability tomanage our
+international operations, our revenues being highly dependent onclients inthe United States ofAmerica, reduced demand fortechnology inour
+key focus areas, disruptions intelecommunication networks orsystem failures, our ability tosuccessfully complete and integrate potential
+acquisitions, liability fordamages onourservice contracts, withdrawal offiscal governmental incentives, political instability, adverse impact ofglobal
+pandemics (including COVID -19impact), war, legal restrictions onraising capital oracquiring companies, unauthorized use ofour intellectual
+property(ies) and general economic conditions affecting our businesses and industry .We may, from time totime, make additional written and oral
+Forward Statements .We donot undertake toupdate any Forward Statements that may bemade from time totime byusoronour behalf, unless
+required under thelaw.Safe Harbor
+=== page 4 ===
+3
+Route Mobile -Industry Leading 
+Global CPaaS Platform
+RML offers a scalable and flexible 
+Omnichannel CPaaS platform to enterprises 
+across industry verticals, globally
+280+ direct MNO connects, overall  access to 
+900+ MNOs (Super Network)
+Global footprint across 20+ locations ;
+2,400+ active billable clients
+Infrastructure comprising 20+ data centers
+and 6 SMSCs globally
+ESG leader, rated “A” by a reputed ESG 
+rating agency   
+Visionary in Magic Quadrant for CPaaS 2025 –Gartner
+Key Vendor in four Hype Cycle Reports –Gartner
+“Top Tier 1 A2P SMS vendor” –Rocco
+₹45,691 mn Revenue for LTM ended 30 September 2026
+₹5,101 mn EBITDA for LTM ended 30 September 2026
+93.42 bn billable transactions processed in H1 26 -27
+Board recommended ₹ 4 per share interim 
+dividend
+₹ 22.57 Earning Per Share (EPS) in H1 26 -27
+₹ 13,556 mn Cash as on 30 September 2026
+=== page 5 ===
+4
+Global Diaspora -Footprint & Super Network
+20+ virtualized Data Centers12 Firewalls deployed
+18 Hubs
+786 Employees
+280+ Super Network
+Widespread global 
+distribution & reach 
+Data as on September 30, 2026 
+Americas
+Direct MNO 53
+Employees 206
+Middle East
+Direct MNO 15
+Employees 32
+India
+Direct MNO 6
+Employees 505
+APAC
+Direct MNO 36
+Employees 9
+Europe
+Direct MNO 110
+Employees 31
+Africa
+Direct MNO 64
+Employees 3
+
+=== page 6 ===
+Key Developments
+=== page 7 ===
+6
+Commercial Highlights
+Expanded AI-led omnichannel capabilities through the acquisition ofHeltar Technologies’ AI-driven customer engagement
+business, completed inJuly 2026 .The acquisition strengthens Route Mobile’s non -SMS portfolio across WhatsApp, RCS, voice and
+communication analytics, while adding AI-native, no-code customer journey orchestration capabilities across India and
+international markets .
+Expanded Route Mobile’s global CPaaS footprint and leadership across Latin America with the appointment ofMarko Erkic as
+CEO ofMasiv ,Route Mobile’s Colombian CPaaS subsidiary, supporting the continued growth ofthe business across LATAM and
+thebroader Proximus Global ecosystem .
+Strengthened BFSI engagement and strategic ecosystem partnerships atGlobal FinTech Fest (GFF) 2026 ,where Route Mobile
+participated asCloud Communications Partner and Exhibitor .The company showcased itsomnichannel messaging, intelligent
+routing and digital engagement capabilities, while engaging with financial -services leaders and technology partners, on
+WhatsApp Business, conversational engagement, RCS and the evolution ofdigital customer journeys across onboarding,
+servicing, payments and support .
+Expanded enterprise omnichannel capabilities through the launch ofaSalesforce -native messaging app.Launched anew
+messaging application onSalesforce AgentExchange inAugust 2026 ,enabling enterprises tosend SMS and WhatsApp messages
+directly from Salesforce .The solution supports zero -code deployment, workflow automation and engagement analytics, with
+customer data remaining within theorganization’s Salesforce environment .
+Proximus Global won the Carrier Community Global Award 2026 forBest Application Service Provider, recognizing its
+capabilities across thecommunications ecosystem .
+
+=== page 8 ===
+7
+Conversational AI built on top of our CPaaS platformHeltar · Strategic fit with Route Mobile
+Up the value chain
+Potential to sell on outcomes, 
+not price per message
+Capture higher margins
+Offer comprehensive customer 
+engagement platformsA platform to build on
+Roadmap includes Voice AI, 
+analytics and a customer data layerBetter revenue quality
+Subscription and AI fees that 
+grow with each account
+What It Creates The Stack
+Heltar → Conversational AI Layer
+AI agents No-code journeys
+CRM and ERP integrations Analytics
+Route Mobile → CPaaS Platform
+SMS WhatsApp RCS Voice Email Identity
+Extensive Reach → Enterprise Base And Group Distribution
+India, Middle East, Southeast Asia, Latin America, and Europe 
+(Proximus Global sales teams)
+The differentiator:
+AI platforms lack channels, CPaaS peers lack an outcome layer. Route Mobile now has both, on one platform.Value to 
+the enterprise
+=== page 9 ===
+8
+From marquee anchor customers to 
+a scaling AI business
+Blue -chip enterprises already live on the 
+platform at the time of acquisitionAcquired with marquee 
+anchor customers01
+Early wins across banking, healthcare, 
+retail, consumer durables and education; 
+Middle East and Latin America openingCross -sell into our 
+enterprise base02
+Subscription and AI -led revenue, sold 
+across Route Mobile and Proximus Global 
+marketsScale through group 
+distribution03
+Deal snapshot
+BTA signed
+13 July 2026Closed
+29 July 2026Consideration
+₹33.7 crore
+Acquired on slump sale basis through Route Connect, a wholly owned 
+subsidiary, funded from internal accruals
+₹9.8 crore ₹23.9 crore
+■Upfront, paid at closing ■Deferred, payable 18 months after closingOperating model
+Sales Route Mobile and Proximus Global sales teams 
+Support Existing Route Mobile support teams
+Development led by the Heltar core team
+Talent Core team to be expanded with the right hiresProduct
+
+=== page 10 ===
+9
+Focus on Expanding Product Portfolio
+New Products Revenue
+(in ₹ mn)
+939 945 1,284
+Q2 25-26 Q1 26-27 Q2 26-2736.7%Y-o-Y growth
+35.8% Q-o-Qgrowth
+Healthcare Provider
+India
+WhatsApp -based patient engagement to enable
+appointment booking, doctor search, test reports
+and hospital information.Fashion
+India
+Gen AI enabled WhatsApp -based conversational 
+commerce to showcase product catalogues, assist with 
+recommendations and enable seamless shopping.
+CareCenter
+ Fashion
+U S E  C A S E
+=== page 11 ===
+Key Business Metrics
+=== page 12 ===
+11
+Social/ Internet; Edtech and Technology companies
+Top tier 1 CPaaS partners across the globeDigital communication solutions for Banking,
+Insurance and Payment gateways 
+Social/ Internet; Edtech and Technology companies
+Increasing use of communication APIs to drive 
+customer engagement
+Increasing use of communication APIs to
+drive customer engagement MNOs and telecom OEMs15%Diverse Customer Base
+Revenue contribution from select industries in H1 26 -27
+Tier 1 CPaaS partnersFinServ
+Digital native
+Ecommerce
+Retail, Travel & HospitalityTelecom & allied Services12%
+9%
+9%
+4%
+2%Revenue for Top 50 
+countries by termination(1)
+Revenue by customer HQ 
+continent(2)
+(1) Top 50 countries contribute c. 85% of  H1 26-27 revenue from operations  
+(2) Top 150 customers -contribute c. 91% of  H1 26-27 revenue from operations35%
+16%13%
+9%7%6%
+India Europe Asia excl.
+IndiaAmericas Middle
+EastAfrica
+37%
+33%
+18%
+3%
+Asia Americas Europe Africa
+=== page 13 ===
+12
+Customer Cohort Analysis
+Clients by Account Size Client Concentration
+32%33%33%30%44% 48%
+43% 42%75% 76%76% 75%
+FY 23 -24 FY 24 -25 FY 25 -26 H1 26 -27Top 5Top 10Top 50
+FY 25 -265
+9
+19
+80
+H1 26 -27 (1)>$15mn
+>$10mn
+>$5mn
+>$1mn
+(1) 6M FY26 -27 Annualized5
+8
+21
+73
+=== page 14 ===
+13
+Strong Recurring Revenue
+Recurring Revenue(1)as % of 
+Operating Revenue
+(1) Recurring customers defined as customers that have been billed in each of the months over the respective period for FY24 -25,FY25 -26and customers billed each month over Oct 1, 2025 –Sep 30, 
+2026 for LTM Sep 2026
+(2) Net revenue retention calculated based on comparison of H1 FY25 -26 revenue with H1 FY26 -27 revenue.Net revenue retention(2) 
+Deep Customer engagement driving 
+high recurring revenues105%90% 89%93%
+FY 24-25 FY 25-26 LTM Sep 26
+=== page 15 ===
+Financial Highlights
+=== page 16 ===
+15
+Analysis of Q2 FY 26 -27 Performance
+Gross Profit (In ₹ mn) & Gross Profit Margin (%)
+2,471 2,404 2,640 22.1%20.9%22.4%
+Q2 25-26 Q1 26-27 Q2 26-2711,194 11,515 11,79745.2 45.8 47.6
+Q2 25-26 Q1 26-27 Q2 26-27Q2 26 -27 revenue performance
+•Revenue increased by 2.4% Q -o-Q, and 5.4% Y -o-Y
+•Sustained Q1 26 -27 revenue momentum in Q2 26 -27
+•New gen product revenues grew at 35.8% Q -o-Q  and 36.7% Y -o-Y
+Trends in Gross Profit
+•Gross Profit increased by 9.8% Q -o-Q  and increased by 6.8% Y -o-Y
+•Gross Profit Margin increased to 22.4% in Q2 26 -27 vs. 20.9% in Q1 26 -27 as against 22.1% in 
+Q2 25 -26
+Gross Profit Margin has increased primarily due to :       
+•Enhanced routing strategy delivering higher gross profit margins
+•Higher margin traffic from new productsRevenue (in ₹ mn) & Billable Transactions (# bn) 
+=== page 17 ===
+16
+Analysis of Q2 FY 26 -27 Performance (continued)
+Adj. PAT(2)(In ₹ mn) & Adj. PAT Margin (%)Adj. EBITDA(1)(In ₹ mn) & Adj. EBITDA Margin (%)
+Adj. EBITDA analysis
+•Adj. EBITDA increased by 8.7% Q -o-Q  and decreased by 11.1% Y -o-Y
+•The changes in Gross Profit flowed through to Adj. EBITDA
+•Increase in Y -o-Y operating cost due to salary increments and higher expenditure on legal 
+and professional fees
+PAT analysis
+•Adj. PAT increased by 20.4% Q -o-Q  and decreased by 17.8% Y-o-Y
+•Adjusted PAT trend is in -line with EBITDA
+•Adj. PAT includes Forex gain of INR 10.2 mn in Q2 26 -27, INR 6.1 mn in Q1 26 -27 and INR 
+177.6 mn in Q2 25 -26. Refer Slide 18 for calculation of Adj. PAT1,333 1,089 1,184 11.9%
+9.5%10.0%
+Q2 25-26 Q1 26-27 Q2 26-27
+1,003 686 825 9.0%
+6.0%7.0%
+0.0%1.0%2.0%3.0%4.0%5.0%6.0%7.0%8.0%9.0%10.0%
+Q2 25-26 Q1 26-27 Q2 26-27
+1.Refer Slide 18 for calculation of Adj. EBITDA (Non GaaP)
+2.Refer Slide 18 for calculation of Adj. PAT
+=== page 18 ===
+17
+H1 FY 26 -27 Performance
+21,703 23,312 84.493.4 
+H1 25-26 H1 26-27Revenue (in ₹ mn) & Billable Transactions (# bn) Gross Profit (In ₹ mn) & Gross Profit Margin (%)
+4,722 5,044 21.8% 21.6%
+H1 25-26 H1 26-27
+Adj. EBITDA(1)(In ₹ mn) & Adj. EBITDA Margin (%)
+2,487 2,274 11.5%
+9.8%
+H1 25-26 H1 26-27Adj. PAT(2)(In ₹ mn) & Adj. PAT Margin (%)
+1,591 1,511 7.3% 6.5%
+H1 25-26 H1 26-27
+1. Refer Slide 18 for calculation of Adj. EBITDA (Non GaaP )
+2. Refer Slide 18 for calculation of Adj. PAT7.4% Y -o-Y 6.8% Y -o-Y
+8.6% Y -o-Y5.0% Y -o-Y
+=== page 19 ===
+18
+Adjusted EBITDA/ PAT
+Management uses the non -GAAP financial information, collectively, to evaluate its ongoing operations and for internal planning a nd forecasting purposes. Non -GAAP financial information is presented for supplemental informational 
+purposes only, should not be considered a substitute for financial information presented in accordance with Indian Accounting Standard (Ind AS), and may be different from similarly titled non -GAAP measures used by other companies. (1) EBITDA = Profit before exceptional item minus ( -)  Other income plus (+) Finance cost and depreciation.. (In ₹ mn) Quarter Ended Half year
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 
+EBITDA 1,150.2 1,054.8 1,359.6 2,205.0 2,476.1
+(+) Employee stock option expense (non cash) - - 5.8 - 11.5
+(+) Net loss on foreign currency transactions and translation - - - - 70.1
+(-) Intangible assets under development 35.0 28.1 32.9 63.1 70.9
+(+) Loss allowance –Capital advance (one time impact) - 49.0 - 49.0 -
+(+) Professional fees related to Masivian data breach remediation 69.0 13.6 - 82.6 -
+Adjusted EBITDA (Non -GAAP) 1,184.2 1,089.3 1,332.5 2,273.5 2,486.8
+EBITDA margin % on a Non -GAAP basis 10.0% 9.5% 11.9% 9.8% 11.5%
+(In ₹ mn) Quarter Ended Half year
+30.09.2026 30.06.2026 30.09.2025 30.09.2026 30.09.2025 
+Reported PAT 825.5 685.5 (188.3) 1511.0 399.5
+(+) Exceptional Item - - 1,358.7 - 1,358.7
+(-) Tax Impact on above - - 166.9 - 166.9
+Adjusted PAT 825.5 685.5 1,003.6 1,511.0 1,591.3
+=== page 20 ===
+19
+Cash Flow Conversion
+Cash flow (in ₹ million) H1 FY 26 -27
+Profit before tax (Ind AS) 1924.0
+Adjustments for non -cash and non operating items 445.3
+Adjustments for working capital
+(Increase) in trade receivables (456.9)
+(Increase) in financial assets and other assets (1,613.3)
+Increase/ (Decrease) in trade payables, provisions and other liabilities 496.8
+Direct taxes paid (net) (462.5)
+Net Cash generated from Operation Activities (Ind AS) 333.4
+Adjusted EBITDA 2,273.5
+Reported CFO/EBITDA 15%
+Add: Advance paid to vendor* 1,168.3
+Adjusted Cash generated from Operation Activities 1,501.7
+Adjusted EBITDA 2,273.5
+Adjusted CFO/EBITDA 66%
+* Advance paid to vendor for services which will be availed in the subsequent period.
+=== page 21 ===
+20
+Working Capital Trend
+Trade Receivables as on Sep 30, 2026 ₹ 9,469 mn Trade Payables as on Sep 30, 2026: ₹ 5,151 mn Working Capital Trend
+80 76 72 68 64 50 
+FY 24-25 FY 25-26 H1 26-27
+Days Sales Outstanding Days Payable
+Trade Receivables as on Mar 31, 2026 ₹ 9,094 mn Trade Payables as on Mar 31, 2026 ₹ 4,968 mn
+=== page 22 ===
+21
+Human Resource Capital
+Location wise break -up Function wise break -up
+63New Employees joined in Q2 FY26 -27 
+60Employees left in Q2 FY26 -27 340
+224281106915
+Tech & Tech Support
+Sales & Marketing
+Firewall & other operator solutions
+General & Admin
+Strategy, Accounts & Finance
+Corporate-Business Heads505281
+India International786 786
+As on Sept 30, 2026, Employee information excludes Call2Connect
+=== page 23 ===
+www.routemobile.comThank You
+A Company

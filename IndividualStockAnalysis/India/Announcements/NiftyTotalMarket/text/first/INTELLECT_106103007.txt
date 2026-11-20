@@ -1,0 +1,105 @@
+ 
+  
+Intellect/SEC/2024 -25                                                                                                            January 02,  2025 
+1. National Stock Exchange of India Ltd.,                                                                             Scrip Code:  
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block, Bandra Kurla Complex,                       INTELLECT  
+Bandra (E), Mumbai – 400 051.  
+ 
+2. BSE Ltd.                                                                                                                                     Scrip Code:  
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers,                                                     538835  
+Dalal Street, Fort, Mumbai – 400 001.  
+ 
+Dear Sir,  
+Sub: Intellect's eMACH.ai Cards int egrates Thales payShield HSM to enrich Card Security Features  
+Intellect Design Arena Limited  announce s a significant enhancement to its already robust eMACH.ai Cards 
+platform. The integration of Thales payShield HSM  introduces an additional layer of security and 
+authentication, catering to banks and financial institutions seeking next -genera tion protection.  
+With the Thales payShield HSM integration, the platform now offers even greater capabilities, addressing 
+the specific needs of institutions requiring advanced cryptographic operations and enhanced compliance. 
+eMACH.ai Cards with Thales pay Shield HSM provides a secure environment for key generation, storage 
+and management, compliance with Data Protection Regulations, and secured transactions in the payment 
+system, thus empowering the banks to stay at the forefront of innovation.  
+Please find enclosed herewith a copy of the proposed Media Release dated 2nd January  titled “IIntellect's 
+eMACH.ai Cards integrates Thales payShield HSM to enrich Card Security Features ”. 
+Kindly take the above information on record.  
+Yours truly,  
+for Intellect Design Arena Limited , 
+ 
+ 
+ 
+V V Naresh  
+Company Secretary and Compliance Officer  
+ 
+ 
+ 
+Intellect'seMACH.aiCardsintegratesThalespayShieldHSMtoenrich
+CardSecurityFeatures
+Advancedintegrationdeliversenrichedauthenticationandprotectioncapabilitiestoglobalfinancial
+institutions
+Chennai,India,02January2025:IntellectGlobalConsumerBanking(iGCB),theconsumerbankingunit
+ofIntellectDesignArenaLimited,todayannouncedasignificantenhancementtoitsalreadyrobust
+eMACH.aiCardsplatform.TheintegrationofThalespayShieldHSMintroducesanadditionallayerofsecurity
+andauthentication,cateringtobanksandfinancialinstitutionsseekingnext-generationprotection.
+TheeMACH.aiCardsplatformisbuiltwithcomprehensivesecurityandauthenticationfeatures.Italsohas
+TripleDEScryptographyinadditiontobeingcertifiedasPCI-SecureSoftwareStandardcompliant.This
+ensuresthehighestprotectionstandardsincardmanagementprocesses.WiththeThalespayShieldHSM
+integration,theplatformnowoffersevengreatercapabilities,addressingthespecificneedsofinstitutions
+requiringadvancedcryptographicoperationsandenhancedcompliance.eMACH.aiCardswithThales
+payShieldHSMprovidesasecureenvironmentforkeygeneration,storageandmanagement,compliance
+withDataProtectionRegulations,andsecuredtransactionsinthepaymentsystem,thusempoweringthe
+bankstostayattheforefrontofinnovation.
+KeyBenefitsoftheEnhancedeMACH.aiCardsPlatform:
+●IncreasedSecurityinTransactions:Advancedcryptographickeymanagementfurtherstrengthens
+thealreadysecuretransactionprocesses.
+●RegulatoryCompliance:Continuouslymeetsandexceedsglobalstandardsfordataprotection,
+reinforcingtrustandcompliance.
+●ScalabilityinSolutions:TheflexibleeMACH.aiarchitectureservesthediverseneedsofbanks,NBFCs,
+fintech,ande-commerceplatforms,nowwithaddedsecurityfeaturesforthoserequiringthem.
+●EnhancedCustomerExperience:Seamlessonboarding,multi-creditlinemanagement,andreal-time
+fraudassessmentensuresuperiorcustomersatisfaction.
+●InnovativeCapabilities:Theplatformsupportsvirtualcards,robustcollectionsmodules,anda
+loyaltymanagementsystem,nowwithenhancedsecurityforthosewhoneedit.
+RajeshSaxena,CEO,IntellectGlobalConsumerBanking(iGCB),IntellectDesign
+ArenaLtd.,commented,“TheintegrationofThalespayShieldwithoureMACH.ai
+Cardsplatformreflectsourunwaveringcommitmenttosecurityandinnovation.
+Whileourplatformalreadyofferstop-tierprotection,thispartnershipcatersto
+clientsseekingevengreaterlevelsofsecurity,ensuringwemeetthediverseneeds
+ofglobalfinancialinstitutions.”
+AsheshThanawala,APACChannelSalesDirector,DataSecurityatThales,added,
+“ByintegratingThalespayShieldHSMintotheeMACH.aiCardsplatform,Intellect
+Designissettinganewbenchmarkinpaymentsecurityandagility.OurpayShield
+solutionensuresrobustencryptionandsecuretransactionprocessing,enabling
+seamlessdigitalexperiencesforend-users.Thishardware-basedsecurityreinforces
+trustbysafeguardingsensitivepaymentdatawhilesupportinghigh-performance
+environments.Together,weempowerfinancialinstitutionstoinnovatesecurely,
+scalingtheirserviceswithconfidenceinthecloud.It’stheperfectsynergyoftechnologyandsecurityforthe
+futureofdigitalpayments.”
+AboutIntellectDesignArena
+IntellectDesignArenaLtdisanenterprise-gradefinancialtechnologyleader,providingcomposableandintelligent
+solutionsforfuturisticglobalfinancialinstitutionsacross57countries.Intellect’srevolutionaryFirstPrinciplesThinking-
+basedEnterpriseConnectedIntelligencePlatform,eMACH.ai,isthemostcomprehensive,composable,andintelligent
+openfinanceplatformintheworld.Withanimpressivearrayof329microservices,535events,andover1757APIs,
+eMACH.aienablesfinancialinstitutionstodesignanddeployfuture-readytechnologysolutionsthatprovidea
+significantglobalcompetitiveedge.
+Withthreedecadesofdomainexpertise,Intellectoffersafullspectrumofbankingandinsurancetechnologyproducts
+throughfourlinesofbusiness:GlobalConsumerBanking(iGCB),GlobalTransactionBanking(iGTB),IntellectAIand
+DigitalTechnologyforCommerce(iDTC).IntellectisapioneerinapplyingDesignThinkingandour8012FinTechDesign
+Center,theworld’sfirstDesignCenterdedicatedtoDesignThinkingPrinciples,underscoresourcommitmentto
+continuousandimpactfulinnovation,addressingtheever-growingneedfordigitaltransformation.Weproudlyserve
+over325+customersworldwide,supportedbyadiverseworkforceofsolutionarchitectsanddomainandtechnology
+expertsinmajorglobalfinancialhubs.FormoreinformationaboutIntellect,visithttps://www.intellectdesign.com/
+iGCB,abusinessunitofIntellect,offersanend-to-endContextualBankingsuiteforretailandcorporatebankingacross
+CoreBanking,Lending,Cards,DigitalBanking,andCentralBanking.Itsuniqueblendofintegratedfunctionalityand
+agilityismadepossiblebyitsMicroservices-based,API-first,cloud-nativearchitecturewithpowerfulintegration
+capabilities.iGCBbringstothetableadeepknowledgeofthedevelopedanddevelopingfinancialmarketspaceand
+seekstobetheInnovationPartnerforthosewhoarepassionateabouttransformingthefutureof
+FinTech!www.igcb.com
+ForMediarelatedinfo,pleasecontact:
+NachuNagappan
+IntellectDesignArenaLtd
+Mob:+918939619676
+Email:nachu.nagappan@intellectdesign.comForInvestorrelatedinfo,pleasecontact:
+PraveenMalik
+IntellectDesignArenaLimited
+Mob:+918939782837
+Email:Praveen.malik@intellectdesign.com

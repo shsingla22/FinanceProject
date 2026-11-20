@@ -1,0 +1,182 @@
+
+=== page 1 ===
+` 
+ 
+ 
+ 
+ 
+Ref: BLACKBUCK/CORP/ 2026-27/101 
+                                                                                                                                             October 29, 2026  
+To  
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, C -1, Block G  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400051  
+ 
+ To  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400001  
+ 
+ 
+                       Scrip Code: 5 44288, Scrip Symbol: BLACKBUCK, Series – EQ 
+                                                           ISIN -  INE0UIZ01018  
+ 
+Dear Sir/ Madam,  
+Sub: Investor Presentation under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations 2015.  
+In continuation  of our letter dated October 24, 2026  regarding Analyst/Institutional call scheduled on 
+October 29, 2026  at 05:0 0 PM. W e are enclosing herewith Investor Presentation for the quarter  and half year  
+ended  September 30, 2026. 
+The above information shall also be made available on the Company's website at 
+https://a.blbk.in/Financials_Information    
+ 
+Kindly take the above information on record.  
+ 
+Thanking you   
+ 
+Yours Sincerely,  
+For BlackBuck Limited  
+(Formerly known as Zinka Logistics Solutions Limited ) 
+ 
+ 
+ 
+_____________________  
+Barun Pandey  
+Company Secretary and Compliance Officer  
+Membership No: A39508  
+ 
+ 
+ 
+ 
+=== page 2 ===
+Q2’FY27 Earnings Presentation
+=== page 3 ===
+1.Total Income is defined as Total Income as per Statement of unaudited consolidated financial results
+2.EBITDA is defined as profit before tax and adjusted for (a) other income (b) finance costs (c) depreciation and amortisation expense and (d) exceptional item
+3.PAT is defined as profit for the period as per Statement of unaudited consolidated financial resultsSnapshot of Q2’FY27
+2Total Income1₹ 253.15 Cr.
+▲51% YoYEBITDA2₹ 50.61 Cr.
+▲39% YoYPAT3₹ 41.40 Cr.
+▲42% YoY
+Transacting Customers895,125
+▲13% YoYUsers (>=2 Services )476,628
+▲19% YoYGTV Tolling₹ 7,070 Cr.
+▲17% YoY
+=== page 4 ===
+DistributionOur Strategy
+3OfferingsPipelineLoads 
+ClassifiedVehicle 
+FinanceVehicle 
+TrackingTolling SuperloadsFuel 
+SensorFuel 
+PaymentsFleet Docs +
+…
+BlackBuck Platform42 Mins
+Daily App Usage895K+
+Transacting Customersx
+Truck Operator’s 
+Lifecycle
+10K+
+Physical Touchpoint 
+Network80%+
+Districts Presence
+=== page 5 ===
+4Key KPIs
+METRICS Q2’FY27 Q2’FY26 YoY H1’FY27 H1’FY26 YoY
+Average monthly transacting truck operators Units 895,125 791,670 13% 889,256 787,535 13%
+Monthly transacting users using at least two 
+servicesUnits 476,628 399,051 19% 467,774 392,361 19%
+Time spent on App daily by transacting 
+customersMinutes 41.81 43.19 (3%) 42.96 43.49 (1%)
+Gross transaction value of tolling ₹ in Cr 7,070 6,039 17% 14,115 12,112 17%
+Total number of tolling transactions Units in Cr 17.41 15.52 12% 35.25 31.30 13%
+Revenue from operations ₹ in Cr 235.33 151.14 56% 439.50 294.75 49%
+Net revenues1 ₹ in Cr 182.96 135.86 35% 347.99 267.71 30%
+Contribution margin2 ₹ in Cr 168.79 126.54 33% 321.52 248.74 29%
+Contribution margin (% of Net Revenue) % 92% 93% 92% 93%
+Adjusted EBITDA3 ₹ in Cr 55.04 42.69 29% 109.65 89.90 22%
+1.Net revenues is defined as Revenue from operation as per Statement of unaudited consolidated financial results ( -) Revenues of s uperloads business (+) Gross margin of superloads business
+2.Contribution margin is defined as Revenue from operations as per Statement of unaudited consolidated financial results exclud ingsuperloads business ( -) Direct costs associated with delivering service activities
+3.Adjusted EBITDA is defined as profit before tax adjusted for (a) finance costs (b) depreciation and amortization expense (c) emp loyee share -based payment expenses (d) other Income and (e) exceptional item
+=== page 6 ===
+Key Highlights
+•Revenue from operations grew by56%Y-o-Yand 15%Q-o-QinQ2’FY27to235 .33Cr
+o Core businesses grew by31%Y-o-Yand 11%Q-o-QinQ2'FY27,despite Q2being aseasonally lowquarter
+✓Tolling business continued todeliver strong performance with GTV growth of~17%Y-o-Y;significant uptick in
+BlackBuck FASTag issuances (Tags issued bythesubsidiary PPIentity)
+✓Telematics business had another strong quarter, touching newer highs indevice sales
+o Growth businesses grew by 166% Y -o-Yand 25% Q -o-Q in Q2’FY27 
+✓InSuperloads business, placements and revenue grew strongly, ledby AI-driven productivity gains inexisting
+cities and hyper -scaling inExpansion cities ;Unit economics continue tostrengthen
+✓Vehicle Finance business ontrack toEBITDA break -even ;backed byAUM growth onasteady cost base
+•Adjusted EBITDA grew 29%Y-o-YinQ2’FY27to55.04Cr
+o Core businesses continued todeliver consistent profitability and operating cash flows ;operating leverage
+continues totrend close to50%despite upfront investments instrong customer acquisition
+o Calibrated step -upofinvestments inSuperloads continued during theperiod ;inline with Plan
+o Total expenses increase of36%Y-o-Yprimarily driven bystrong growth inacquisition across core categories and
+Investments inSuperLoads
+5
+=== page 7 ===
+6P&L Overview
+METRICS Q2’FY27 Q2’FY26 YoY H1’FY27 H1’FY26 YoY
+Total Income ₹ in Cr 253.15 167.20 51% 473.6 3 326.7 6 45%
+Revenue from operations ₹ in Cr 235.33 151.14 56% 439.50 294.75 49%
+-Core (Payments & Telematics) ₹ in Cr 161.39 123.35 31% 306.57 243.62 26%
+-Growth businesses ₹ in Cr 73.94 27.79 166% 132.93 51.13 160%
+Net Revenues1 ₹ in Cr 182.96 135.86 35% 347.99 267.71 30%
+Direct costs ₹ in Cr 14.18 9.31 52% 26.47 18.96 40%
+Contribution margin2 ₹ in Cr 168.79 126.54 33% 321.5 2 248.74 29%
+Contribution margin % (% of Net 
+Revenues)% 92% 93% 92% 93%
+Total expenses ₹ in Cr 113.75 83.85 36% 211.87 158.84 33%
+Adjusted EBITDA3 ₹ in Cr 55.04 42.69 29% 109.65 89.90 22%
+EBITDA4 ₹ in Cr 50.61 36.52 39% 100.32 76.92 30%
+PBT ₹ in Cr 42.82 38.94 10% 84.94 84.68 0%
+PAT ₹ in Cr 41.40 29.20 42% 83.56 62.89 33%
+1.Net revenues is defined as Revenue from operation as per Statement of unaudited consolidated financial results ( -) Revenues of s uperloads business (+) Gross margin of superloads business
+2.Contribution margin is defined as Revenue from operations as per Statement of unaudited consolidated financial results exclud ingsuperloads business ( -) Direct costs associated with delivering service activities
+3.Adjusted EBITDA is defined as profit before tax adjusted for (a) finance costs (b) depreciation and amortization expense (c) emp loyee share -based payment expenses (d) other Income and (e) exceptional item
+4.EBITDA is defined as profit before tax adjusted for (a) finance costs (b) depreciation and amortization expense (c) other Inc ome and (d) exceptional item
+=== page 8 ===
+7
+Annexures
+=== page 9 ===
+8Annexure 1: PAT to Adjusted EBITDA Walk and ESOP Expense Projection
+Particulars Q2’FY27
+Profit after tax (PAT) 41.40
+Less:
+Other income 17.82
+Add:
+Income tax expense 1.42
+Finance costs 1.12
+Depreciation and amortisation expense 24.49
+EBITDA 50.61
+Add:
+Employee shared -based payment expenses 4.43
+Adjusted EBITDA 55.04(in INR Cr.)
+Quarters ESOP charge in P&L*
+Q3’FY27 3.54
+Q4’FY27 2.63
+Q1’FY28 2.30
+Q2’FY28 2.25
+Q3’FY28 1.83
+Q4’FY28 1.35
+Q1’FY29 1.19
+Q2’FY29 1.16(in INR Cr.)
+* ESOP Charge is projected assuming no further grants and estimates regarding attrition rate. The attrition rate is based on historical and other factors including expectation of future events.PAT to Adjusted EBITDA Walk ESOP Expense Projection
+=== page 10 ===
+9Annexure 2: Historical GTV Tolling
+(in INR Cr.)
+Quarters GTV Tolling
+Q2’FY27 7,070
+Q1’FY27 7,045
+Q4’FY26 7,094
+Q3’FY26 6,699
+Q2’FY26 6,039
+Q1’FY26 6,073
+Q4’FY25 5,861
+Q3’FY25 5,339
+Q2’FY25 4,573
+Q1’FY25 4,613

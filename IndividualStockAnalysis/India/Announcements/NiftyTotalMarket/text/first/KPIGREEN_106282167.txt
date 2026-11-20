@@ -1,0 +1,114 @@
+ 
+ 
+KPI/MAT/ JUN /202 5/656 Date: June  27, 202 5 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+ 
+Scrip Code: 542323  National Stock Exchange of India Limited  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai - 400051  
+ 
+Symbol: KPIGREEN  
+ 
+Sub.: Press Release – KP Group  Featured in IBM Global Case Study on Scalable, Intelligent 
+Clean Energy Operations  
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we are enclosing herewith a Press Release  titled “KP Group  Featured in IBM 
+Global Case Study on Scaling Clean Energy with Intelligent Asset Monitoring ”. 
+ 
+This is for your information and records . 
+                                                                                                                                                                    
+Thanking you,  
+ 
+Yours faithfully,  
+For KPI Green Energy Limited  
+ 
+ 
+Moh. Sohil Yusuf Dabhoya  
+Whole Time Director  
+DIN: 07112947  
+  
+ 
+ 
+For immediate release  
+ 
+KP Group  Featured in IBM Global Case Study on Scaling Clean Energy with Intelligent 
+Asset Monitoring  
+Surat, June  27, 2025 : KP Group  has been prominently featured in a global case study released 
+by International Business Machines Corporation (IBM) . The study, titled “Scaling clean 
+energy with intelligent asset monitoring: KP Group automates asset performance, reporting 
+and compliance across 70+ sites with IBM Maximo Renewables ”—showcasing the 
+transformational impact of KPI Green Energy Limited’s  integrated NOC, which is powered by 
+IBM Maximo Renewables . 
+The study is available on IBM’s official website ( https://www.ibm.com/case -studies/kp -group ). 
+IBM’s publication highlights KP Group ’s digital -first operating model, predictive -maintenance 
+culture and data -driven governance framework, positioning the Company as a benchmark for 
+operational excellence in India’s renewable -energy sector.  
+1. Highlights acknowledged by IBM  
+Key capability  Impact recognised by IBM  
+Fully automated, hourly Power BI 
+reporting  across > 70 solar & hybrid 
+sites  100 % elimination of manual data handling  
+Real -time analytics on 9,000 + PV 
+strings  Instant anomaly detection with proactive field alerts  
+Centralised CMMS workflows  
+(Maximo Renewables – Monitor, 
+Analyze, Operate)  ~ 800 kWh/CM work -order efficiency; 2 – 5 % projected 
+reduction in corrective -maintenance energy loss over 
+the next 12 months  
+100 % contractual compliance 
+tracking  Automated management of 85 % generation -guarantee 
+obligations, lowering penalty risk and enhancing 
+customer trust  
+Rapid scalability  – 137 projects 
+onboarded in three phases  3 – 4 week roll -out cycles and portfolio -wide reach; 
+platform now covers > 200 C&I sub -projects  
+ 
+2. About KP Group’s Central NOC (developed entirely in -house)  
+Conceived, coded and continuously upgraded by KP Group’s Digital Innovation Team , the NOC 
+is a vendor -agnostic, micro -services platform that ingests five -second telemetry from solar, wind 
+ 
+ 
+and hybrid assets, normalises the data in a proprietary lake and streams actionable insights to 
+on-prem, web and mobile consoles. A rules -based KPI engine cross -checks generation, 
+irradiance and market -price forecasts to drive revenue -optimised dispatch, w hile zero -trust 
+security, dual -site fail -over and MFA safeguard 24 × 7 availability. Role -based dashboards now 
+serve O&M, energy -trading, finance and ESG teams, providing a single source of truth across the 
+enterprise.  
+ 
+3. Other recent technology milestones  
+• Water -less robotic panel -cleaning fleet  – 184 autonomous robots keep 484 MW of 
+modules dust -free across 25 sites, saving ~ 4.81 crore L of water and ₹ 38.5 lakh in OPEX; 
+design certified compatible by Nextracker USA and production scaling towards 5,000 
+units this fiscal.  
+• Strategic MoUs with Delta Electronics  – Three agreements cover large -scale BESS 
+projects, green -hydrogen hubs and nationwide EV -charging roll -outs; first tranche 
+includes supply of ~ 1 GW of PV inverters over the next 12 months.  
+• Live mobile & web dashboards for CPP/OA clients  – All 75 + open -access PPA and 130 
++ captive -power customers now receive real -time generation, billing and compliance 
+data through secure portals.  
+• AI-driven predictive -maintenance models  –Machine -learning algorithms within the 
+NOC have enabled proactive work -order scheduling and significantly reduced inverter -
+related downtime, contributing to smoother operations and lower corrective -
+maintenance costs.  
+About KP Group:  
+Established in 1994, by Dr. Faruk G. Patel, KP Group has grown into a multi -faceted conglomerate 
+with core expertise in renewable energy, infrastructure, and innovation. Over the past three 
+decades, the group has championed sustainability by spearheading t ransformative projects in 
+wind and solar energy, thereby contributing to India’s green energy mission. With a strong 
+portfolio of renewable energy projects, KP Group has earned a reputation as a trusted partner for 
+companies committed to reducing their car bon footprint. The group remains steadfast in its 
+mission to contribute meaningfully to India’s energy transition while setting new benchmarks in 
+the renewable energy sector.  
+ 
+KPI Green Energy Limited  
+Email: cs@kpgroup.co  
+Phone: +91 261 22 44757  
+Website: www.kpigreenenergy.com    

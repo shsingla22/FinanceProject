@@ -1,0 +1,678 @@
+Sensitivity: Public (C4)  HZL/2024 -25/SECY /43  July 02, 2024  
+BSE Limited  National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers  Exchange Plaza, 5th Floor Plot No., C/l, G Block  
+Dalal Street, Fort  Bandra -Kurla Complex, Bandra (East),  
+Mumbai – 400 001  Mumbai – 400 051  
+Kind Attn: General Manager – Department 
+of Corporate Services  Kind Attn: Head Listing & Corporate 
+Communication  
+Scrip Code: 500188  Trading Symbol: “HINDZINC”  
+Dear Sir/Madam,  
+Sub: Business Responsibility and Sustainability Report (“BRSR”) for the Financial Year 2023 -24 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended from time to time read with SEBI Circular 
+No. SEBI/HO/CFD/CFD -SEC-2/P/CIR/2023/122 dated 12th July 2023, please find enclosed herewith the 
+BRSR for the Financial Year 2023 -24, along with Independent Auditors’ Reasonable Assurance Report 
+provided by M/s. Mazars Advisory LLP.  
+The BRSR forms the part of the Integrated Annual Report for the Financial Year 2023 -24. 
+The BRSR is  also available on the website of the Company at  
+https://www.hzlindia.com/investors/reports -press -releases/ . 
+We request you to please take the above on record.  
+Thanking You . 
+Yours faithfully , 
+For Hindustan Zinc Limited  
+Harsha Kedia  
+Company Secretary & Compliance Officer  
+Enclosed : As above  
+Business Responsibility 
+and Sustainability Report
+FY 2023-24
+STATUTORY REPORTS02 03
+INTEGRATED ANNUAL REPORT FY 2023-24 HINDUSTAN ZINC LIMITEDBUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORTSECTION A GENERAL DISCLOSURES
+1.   Corporate Identity Number (CIN)  
+of the Listed EntityL27204RJ1966PLC001208
+2.  Name of the Listed Entity Hindustan Zinc Limited
+3.  Date of Incorporation 10/01/1966
+4.  Registered Office Address Yashad Bhavan, Udaipur, Rajasthan 313004 - India
+5.  Corporate Address Yashad Bhavan, Udaipur, Rajasthan 313004 - India
+6.  E-mail Hzl.ir@vedanta.co.in
+7.  Telephone + 91-294-6604000/+ 91-294-6604002
+8.  Website www.hzlindia.com
+9.  Financial year for which reporting is being done April 01, 2023 to March 31, 2024
+10.   Name of the Stock Exchange(s) where shares 
+are listedBombay Stock Exchange Limited (BSE) and National Stock Exchange of 
+India Limited (NSE)
+11.  Paid-up Capital ` 845.06 crore
+12.   Name and contact details (telephone, email 
+address) of the person who may be contacted 
+in case of any queries on the BRSR reportMs. Harsha Kedia, Company Secretary & Compliance Officer
+Telephone Number - +91 294-6604015
+Email Address - harsha.kedia@vedanta.co.in
+13.   Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e. only 
+for the entity) or on a consolidated basis (i.e. for 
+the entity and all the entities which form a part 
+of its consolidated financial statements, taken 
+together)The Group comprises of Hindustan Zinc and its group entities (refer 
+point no. 23 of Section A below), considered for the purpose of 
+financial consolidation of the Group. The disclosures under BRSR are 
+also made on a consolidated basis which covers Hindustan Zinc and its 
+operating sites, based on the management’s assessment of materiality, 
+with following methodology:
+The financial numbers used in some of the indicators of the BRSR are 
+extracted from the Integrated Annual Report FY 2023-24. 
+While the financial numbers for certain entities include inter-company 
+consolidation adjustments as per the applicable financial reporting 
+framework (net figures), the non-financial data used in some of the 
+indicators of the BRSR are given without adjustments (gross figures). 
+Further, some of the entities/ sites are considered for the purpose of 
+said consolidated financial numbers, which may have been excluded 
+from the BRSR Reporting Boundary. 
+14.  Name of assurance provider Mazars Advisory LLP
+15.  Type of assurance obtained Hindustan Zinc Limited, being in top 150 listed companies, has 
+undertaken reasonable assurance for BRSR Core indicators and limited 
+assurance for rest of the BRSR indicators.
+Assurance letters are annexed to Hindustan Zinc Limited’s Business 
+Responsibility and Sustainability Report for FY 2023-24I. DETAILS OF THE LISTED ENTITY
+II.  PRODUCTS/SERVICES
+16.  Details of business activities (accounting for 90% of the turnover):
+S. No. Description of Main Activity Description of Business Activity % of turnover of the entity
+1 Manufacturing Metal & Metal products 95%
+17.  Products/Services sold by the entity (accounting for 90% of the entity’s turnover):
+S. No. Product/Service NIC Code % of total turnover contributed
+1 Zinc 27204 62%
+2 Lead 27209 14%
+3 Silver 27205 19%
+Business Responsibility 
+and Sustainability Report
+CEO STATEMENT
+I am pleased to announce the release of Hindustan Zinc’s 
+3rd Business Responsibility and Sustainability Report, 
+demonstrating our steadfast commitment to Environmental, 
+Social, and Governance (ESG) principles. Throughout our 
+journey, we have recognised sustainability’s pivotal role 
+as a cornerstone of our mission. Over the years, we’ve 
+established a tradition of driving impactful change within 
+our industry and the communities we operate in. Our long-
+standing determination to progressively work towards the 
+betterment of society and the planet remains unwavering as 
+we persist in our efforts to advance our sustainability and 
+social progress. In alignment with the evolving landscape, 
+we are actively pursuing initiatives geared towards fostering 
+sustainable and resilient business growth for the long-term.
+Our dedication to safety is evident in achieving zero fatalities 
+across our operations during the year, underscoring our 
+robust safety culture and adherence to rigorous standards 
+such as Critical Risk Management (CRM). This commitment 
+to safety has been acknowledged with the prestigious 
+British Safety Council International Safety Awards.
+Hindustan Zinc’s sustainability efforts have garnered 
+international acclaim, with our Company ranking first in 
+the S&P Global Corporate Sustainability Assessment and 
+achieving A- ratings for CDP ‘Climate Change’ and ‘Water’ in 
+the metal and mining sector.
+To ensure comprehensive ESG coverage, we have 
+established a structured three-tier framework for 
+sustainability governance. This framework guides our 
+strategic goals, emphasising energy efficiency, carbon 
+footprint reduction, effective water management, 
+biodiversity conservation, and fostering an inclusive work 
+environment.In alignment with our long-term vision, we are actively 
+transitioning to a low-carbon economy, with a target of 
+achieving Net Zero emissions by 2050. Our initiatives 
+include the deployment of electric vehicles (EVs), zero 
+liquid discharge plants, renewable energy investments, 
+and proactive water management strategies.
+Our Corporate Social Responsibility (CSR) initiatives 
+are aligned with global Sustainable Development 
+Goals (SDGs), focussing on education, livelihoods, 
+environmental conservation, and community 
+engagement. Noteworthy projects include Sakhi 
+programme aimed at empowering women, support for 
+farmer producer organisations (FPOs), and initiatives like 
+Zinc Football Academy promoting sports.
+Diversity and inclusivity are integral to our ethos, as 
+demonstrated by initiatives like India’s first all-women 
+underground mine rescue team and progressive 
+parenthood policies. We extend our commitment to 
+sustainability across our supply chain with initiatives like 
+‘Wednesday for Transition’ and sustainable sourcing 
+policies.
+At Hindustan Zinc, sustainability is not merely a metric 
+but a strategic imperative that drives our growth 
+trajectory. We remain steadfast in our dedication 
+to environmental stewardship, societal impact, and 
+operational excellence.
+Best Regards,
+Arun Misra
+CEO & WTD
+
+STATUTORY REPORTS04 05
+INTEGRATED ANNUAL REPORT FY 2023-24 HINDUSTAN ZINC LIMITEDBUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT b.  Differently abled Employees and Workers:
+S. No. ParticularsTotal
+(A)  Male    Female
+No. (B) % (B/A) No. (C) % (C/A)
+Differently-abled Employees
+1. Permanent (D)* 3 2 66.67% 1 33.33%
+2. Other than Permanent (E) 0 0 0% 0 0%
+3. Total Employees (D + E) 3 2 66.67% 1 33.33%
+Differently-abled Workers
+4. Permanent (F)** 7 7 100% 0 0%
+5. Other than Permanent (G)*** 0 0 0% 0 0%
+6. Total Workers (F + G) 7 7 100% 0 0%
+  *Permanent Employees means Executive employees
+  ** Permanent Workers means Non-executive employees
+  ***Other than Permanent Workers means Business partner employees.
+21. Participation/Inclusion/Representation of Women
+Total
+(A)No. and Percentage of Females
+No. (B) % (B/A)
+   Board of Directors 9 5 55.56%
+Key Managerial Personnel* 3 1 33.33%
+ *Key Managerial Personnel also includes one member of Board of Directors, i.e., Chief Executive Officer
+22. Turnover rate for Permanent Employees and Workers
+ (Disclose trends for the past 3 years)
+FY 2023-24 FY 2022-23 FY 2021-22 
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees14% 17% 15% 17% 19% 17% 17% 26% 18% 
+Permanent 
+Workers*17% 18% 17% 12% 15% 12% 13% 17% 13%
+ * This no. has been reported this year
+III. OPERATIONS
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants* Number of offices Total
+National 17 4 21
+International 0 0 0
+ *Four discontinued units are not accounted here
+19. Markets served by the entity:
+ a.  Number of locations
+Locations Number
+National (No. of States) 24
+International (No. of Countries) 40
+  b.  What is the contribution of exports as a percentage of the total turnover of the entity?
+   The contribution of exports (metals) is 23.07% of the total turnover of the entity.
+  c.  A brief on types of customers
+   Our Company has B2B customers for our product as below:
+ yRefined zinc metal, which is used in a number of applications including galvanising, oxides, 
+die castings and alloys
+ yLead ingot is used in a number of applications including battery segment, lead-based pigments and 
+cathode ray tubes
+ yWe are India’s largest and one of the world’s leading integrated silver producers. We produce refined silver, 
+recovered as a by-product of zinc-lead facility, used in various industrial applications and decorative applications
+   We were effectively able to reach out to MSME customers with live London Metal Exchange benchmarked prices, 
+and delivery of zinc and lead metals with quantity as low as 1 tonne, through our e-Commerce portals.
+ IV. EMPLOYEES
+ 20.  Details as at the end of Financial Year:
+ a. Employees and Workers (including differently abled):
+S.  
+No.ParticularsTotal
+(A)  Male    Female    Other
+No. (B) % (B/A) No. (C) % (C/A) No. (C) % (C/A)
+Employees
+1. Permanent (D)* 2,798 2,191 78.31% 607 21.69% 0 0.00%
+2. Other than Permanent (E) 7 6 85.71% 1 14.29% 0 0.00%
+3. Total Employees (D + E) 2,805 2,197 78.32% 608 21.68% 0 0.00%
+Workers
+4. Permanent (F)** 759 744 98.02% 15 1.98% 0 0.00%
+5. Other than Permanent (G)*** 20,232 19,937 98.54% 279 1.38% 16 0.08%
+6. Total Workers (F + G) 20,991 20,681 98.52% 294 1.40% 16 0.08%
+  *Permanent Employees means Executive employees
+  ** Permanent Workers means Non-executive employees
+  ***Other than Permanent Workers means Business partner employees. 
+05 HINDUSTAN ZINC LIMITED
+STATUTORY REPORTS06 07
+INTEGRATED ANNUAL REPORT FY 2023-24 HINDUSTAN ZINC LIMITEDBUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORTStakeholder 
+group from whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place (Yes/No) 
+(If Yes, then provide web-
+link for grievance redressal 
+policy)FY 2023-24 FY 2022-23
+Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+as at close 
+of the year*RemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+as at close 
+of the yearRemarks
+Value Chain
+PartnersYes
+Supplier Code of Conduct
+HZL Whistle Blower Policy
+Vendor Grievance Redressal 
+Portal55 0 Supplier’s 
+and Service 
+provider’s 
+grievances on 
+varied issues96 1 Supplier’s 
+and Service 
+provider’s 
+grievances on 
+varied issues
+Other (please 
+specify)- - - - - - -
+ *Pending grievances or complaints as at the end of the current financial year relates to the new complaints or grievances raised during the year.
+26. Overview of the entity’s material responsible business conduct issues
+  Please indicate material responsible business conduct and sustainability issues pertaining to environmental and social 
+matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to adapt or 
+mitigate the risk along with its financial implications, as per the following format:
+S. 
+No.Material issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for  
+ identifying the  
+risk/opportunityIn case of risk,  
+approach to adapt  
+or mitigateFinancial 
+implication of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implication)
+Environment
+1 Water
+ManagementRisk
+OpportunityOur operational activities involve 
+processes in which water is an 
+indispensable input, both for 
+extraction and processing & 
+smelting.
+Thus, it is even more important 
+for us to strive to reduce water 
+usage and increase reutilisation 
+throughout the value chain.
+According to our climate change 
+assessment, climate change may 
+result in increase in extreme 
+weather events and subsequent 
+resource shortages.
+Our operations are located in 
+Rajasthan, which is one of the 
+designated water-stressed 
+regions in the country based on 
+WRI’s Aqueduct tool. There is a 
+high probability of experiencing 
+situations of drought and extreme 
+heat waves.
+Since water is a critical input to our 
+business, these factors have the 
+potential to disrupt operations, to 
+impact productivity of staff as well 
+as our revenues and logisticsWater conservation is particularly important 
+for us as we operate in a water-stressed 
+region. We are 2.41 times water positive 
+and are well on the path to be 5 times 
+water positive company and reducing the 
+water consumption by 25% by 2025 from 
+base year 2020.
+Company has taken several initiatives to 
+reduce its dependencies on fresh water 
+and improve availability of water for the 
+communities surrounding our sites.
+ yIncreasing efficiency in water 
+usage and exploring less 
+water -intensive technologies
+ yStrengthening water recycling and 
+installation of ZLD across all plants
+ yUsing alternative water sources 
+like treated water from sewage 
+treatment plant to reduce 
+dependency on freshwater
+ yReplenish water within local 
+watersheds and rainwater harvesting
+ yWater risk assessment using WBCSD’s 
+India Water Tool, WRI Aqueduct and 
+GEMI local water toolsThis would 
+have financial 
+implications as 
+the Company has 
+already taken 
+significant initiatives 
+to reduce water 
+consumption and 
+recycle it efficiently 
+in past. However 
+due to initiatives, 
+we are reducing 
+dependency on 
+fresh water, hence 
+positive impact also 
+consideredV.  HOLDING, SUBSIDIARY AND ASSOCIATE COMPANIES (INCLUDING JOINT VENTURES)
+23.  (a) Names of holding/subsidiary/associate companies/joint ventures
+S.
+No.Name of the holding/ 
+subsidiary/associate companies/  
+joint ventures (A)Indicate whether holding/
+subsidiary/associate/joint venture% of 
+shares 
+held by 
+listed 
+entityDoes the entity indicated 
+at column A, participate 
+in the Business 
+Responsibility initiatives of 
+the listed entity? (Yes/No)
+1 Vedanta Limited Immediate Holding Company 64.92 Yes
+2 Hindustan Zinc Alloys Private Limited Wholly-owned Subsidiary 100 Yes
+3 Vedanta Zinc Football & Sports Foundation Wholly-owned Subsidiary – Section 
+8 Company100 Yes
+4 Zinc India Foundation Wholly-owned Subsidiary – Section 
+8 company100 Yes
+5 Hindustan Zinc Fertilizers Private Limited* Wholly-owned Subsidiary Company 100 No
+6 Hindmetal Exploration Services Private 
+Limited*Wholly-owned Subsidiary Company 100 No
+7 Madanpur South Coal Company Limited** Joint Venture 18.05 No
+  *Newly incorporated companies (current year/previous year), hence no business activity.
+  **During the year, there are no business activities in the Company, and it does not have any mining asset.
+VI. CSR DETAILS
+24.  (i) Whether CSR is applicable as per Section 135 of the Companies Act, 2013: (Yes/No) Yes
+ (ii) Turnover*: ` 28,932 crore
+ (iii) Net worth: ` 15,195 crore
+ *Turnover includes other operating income.
+VII. TRANSPARENCY AND DISCLOSURES COMPLIANCES
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder 
+group from whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place (Yes/No) 
+(If Yes, then provide web-
+link for grievance redressal 
+policy)FY 2023-24 FY 2022-23
+Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+as at close 
+of the year*RemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+as at close 
+of the yearRemarks
+Communities Yes
+Grievance Mechanisms 
+Technical Standard63 4 Employment, 
+Environment & 
+CSR related85 19 Environment 
+& CSR related
+Investors (other than 
+shareholders)Yes
+HZL Whistle Blower Policy
+Hindustan Zinc Contact Details0 0 - 0 0 -
+Shareholders Yes
+HZL Whistle Blower Policy
+Hindustan Zinc Contact Details48 0 Dividend & 
+Share related105 0 Dividend & 
+Share related
+Employees and 
+WorkersYes
+Business Ethics Code of 
+Conduct
+HZL Whistle Blower Policy6 3 Sexual 
+Harassment 
+related 
+(POSH)5 0 Sexual 
+Harassment 
+related 
+(POSH)
+Customers Yes
+https://vedantametalbazaar.
+moglix.com/28 2 Customer’s 
+grievances on 
+varied issues45 4 Customer’s 
+grievances on 
+varied issues
+STATUTORY REPORTS08 09
+INTEGRATED ANNUAL REPORT FY 2023-24 HINDUSTAN ZINC LIMITEDBUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORTS. 
+No.Material issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for  
+ identifying the  
+risk/opportunityIn case of risk,  
+approach to adapt  
+or mitigateFinancial 
+implication of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implication)
+4 Climate Change 
+& DecarbonisationRisk We are an energy-intensive 
+industry due to the nature of our 
+operational activities, logistics and 
+transportation processes. That is 
+why we seek new technologies 
+and progress regarding sustainable 
+energy generation. This can impact 
+the overall market value of the 
+products in the geographies with 
+restrictions, thus impacting our 
+revenues.
+As a result, we keep track of all 
+transition risks and changes in 
+regional Climate Change Policy.
+As per our physical risk assessment 
+for the year 2030 and 2050, 
+Hindustan Zinc is likely to face 
+natural disasters like droughts, heat 
+waves and increase in extreme 
+weather conditions. These would 
+impose challenges to mining 
+operations. Climate change 
+may cause or result in increase 
+in extreme weather events and 
+subsequent resource shortages, 
+impacting overall cost of acquisition 
+of resources from alternative 
+sources.The rising challenges of climate change 
+and resource scarcity have put us on a 
+path of transformation to a low-carbon 
+economy. Our strategies for mitigating 
+these risks include:
+ yReducing fossil fuel-based energy 
+usage in our operations by using 
+innovative energy efficiency 
+technologies and process optimisation
+ yShifting to renewables and/or low-
+carbon solutions where possible
+ yThe Company has committed for net 
+zero carbon emissions by 2050 and 
+is planning to increase RE power 
+portfolio by addition of 450 MW 
+renewable project by 2026
+ yReplace diesel-fuelled transportation 
+vehicles with electric vehicles - 
+We have introduced India’s first 
+underground mining electric vehicle
+ yIntroduced LNG-powered trucks and 
+electrical trucks for upstream and 
+downstream transportation
+ yBusiness partners also introduced 
+electrical vehicles, several 
+forklifts, towing vehicles, and 
+passenger vehicles
+ y100% RE power consumption at 
+Pantnagar Metal Plant
+ yUse of biomass in power plant
+ yClimate change risk assessmentThere may be 
+negative financial 
+consequences for 
+failing to implement 
+mitigation and 
+adaptation 
+strategies. 
+However, the 
+Company is 
+committed to taking 
+positive steps 
+towards the journey 
+of net zero
+Opportunity  yUse of renewable electricity may 
+result in lower Levellised Cost 
+of Energy (LCOE)
+ yNew market opportunities due to 
+expected growth in solar PV panels 
+and energy storage systems using 
+zinc, lead and silver
+ yDecarbonised metals may give 
+differentiator and may command 
+premium well before 2030Positive
+5 Biodiversity & 
+EcosystemRisk 
+OpportunityBiodiversity provides many 
+ecosystem services. If improperly 
+managed, mining, smelting and 
+exploration activities have the 
+potential to negatively affect 
+biodiversity and ecosystem 
+services. Impact could be loss 
+of protected species and habitat 
+fragmentation. Such risks could 
+affect our social licence to operate 
+as well as our reputation.We work to proactively manage our impact 
+on biodiversity and strive to protect the 
+ecosystems in which we operate.
+ yThree year engagement with IUCN
+ yBiodiversity Risk assessment
+ yImplementation of project with 
+respect to Biodiversity Management 
+Plan and alignment with global 
+standard practices
+ yMiyawaki Afforestation at 
+DSC, DZS and CLZS
+ yRestoration of jarofix yard at CLZS 
+using mycorrhiza technologyNegative impact 
+could be loss of 
+protected species 
+and habitat 
+fragmentation. 
+However, if no net 
+loss strategies 
+are applied, it can 
+impact positively
+S. 
+No.Material issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for  
+ identifying the  
+risk/opportunityIn case of risk,  
+approach to adapt  
+or mitigateFinancial 
+implication of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implication)
+2 Tailing 
+ManagementRisk The monitoring and management 
+of tailings storage facilities (TSFs)
+plays a significant role in reducing 
+environmental impact on our local 
+stakeholders. Tailings dam failure 
+can lead to loss of life, injuries and 
+damage to the environment, as 
+well as can impact our Company’s 
+reputation. It can also entail 
+significant financial costs/losses and 
+stoppages in production.Failing of tailings dams can cause a huge 
+environmental impact. Hence, we accord 
+top priority to managing them responsibly.
+ yAll the Company’s tailings facilities 
+are designed and constructed to the 
+highest engineering standards and 
+best-in-class benchmarked practices
+ yExternal and internal inspection and 
+monitoring of the TSFs to review 
+the integrity/stability of our TSF 
+structures and their associated 
+management practices
+ yEffectiveness of reclaim water system
+ yCollection and recycling of 
+supernatant water
+ yConducting periodic TSF risk 
+assessments and developing 
+mitigation plans to minimise 
+associated risks
+ ySurveillance of tailings storage facility
+ yEffectiveness of emergency 
+planning and response
+ yUtilisation of tailings in backfilling
+ yReplacement of wet tailing disposal 
+system with dry tailing disposal
+ yDam break analysis and 
+Emergency preparedness
+ yCompany introduced a novel, satellite-
+based Interferometric Synthetic 
+Aperture Radar (InSAR) monitoring 
+technique to provide early warning of 
+surface ground movements
+ yWe aim to be fully compliant with the 
+Global Industry Standards on Tailings 
+Management (GISTM) by FY 2024-25There may be 
+negative financial 
+consequences in 
+case of breach 
+of tailing dam. 
+However, the 
+Company is 
+committed to taking 
+positive steps in the 
+right direction.
+3 Air Emissions & 
+QualityRisk Failure to comply with emission 
+norms could lead to negative/
+inevitable long-term impact on 
+the environment and society, with 
+imposition of levies/fines, escalation 
+in costs related to monitoring and 
+reporting, among others.Large-scale air emissions can cause 
+serious impact on the environment and 
+local communities. We continuously work 
+towards reducing air emissions.
+ yWell-designed state-of-the-
+art air pollution control devices 
+(APCD) are in place
+ yEffective fugitive 
+emission management
+ yContinuous monitoring and reportingFailure to comply 
+with emission 
+norms could lead to 
+negative long-term 
+impact. However, 
+the Company is 
+committed to taking 
+positive steps in the 
+right direction

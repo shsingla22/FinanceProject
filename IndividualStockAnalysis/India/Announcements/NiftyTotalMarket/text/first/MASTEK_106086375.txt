@@ -1,0 +1,76 @@
+ 
+Mastek Limited  
+804/805, President House, Opp. C. N. Vidyalaya, Near Ambawadi Circle, Ahmedabad –  380 006 
+Tel: +91- 79-2656- 4337 | Email: info@mastek.com  | Web: www.mastek.com  | CIN: L74140GJ1982PLC005215   
+SEC/ 101/2024- 25                                                                                                       December 16, 2024  
+  
+ 
+Listing Department  
+BSE Limited  
+25th Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort,  
+Mumbai -400 001 
+SCRIP CODE: 523704  Listing Department  
+The National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051 
+SYMBOL: MASTEK  
+ISIN: INE759A01021  
+ 
+Dear  Sir(s)/Ma’am(s),  
+ Sub: Press Release  
+ Ref: Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements), Regulations, 
+2015 
+ 
+Please find enclosed herewith a Press Release titled  “Mastek Attains AWS Well -Architected Partner 
+Status ”, which is  being issued by the Company.  
+The same is also uploaded on the Company's website at  www.mastek.com .  
+ You are requested to take the same on record.  
+ 
+Thanking you,   Yours faithfully,  
+For Mastek Limited  
+    
+Dinesh Kalani  
+SVP – Group Company Secretary  
+ Encl: AA  
+
+ 
+Mastek Attains AWS Well -Architected Partner Status  
+Mumbai, India, 16th December, 2024 : Mastek (NSE: MASTEK; BSE: 523704), a trusted digital 
+engineering and cloud transformation partner, today announced it has achieved the AWS Well -
+Architected Partner Status. This partnership status reinforces Mastek’s ongoing commitment to 
+deliver optimal business outcomes for its clients by optimizing AWS architectures for efficiency, 
+scalability, resilience, and cost savings.   
+The AWS Well -Architected Framework  provides essential guidance for building secure, high -
+performing, and efficient cloud systems. It helps cloud architects evaluate their designs against five 
+key pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, 
+and Sustainability . By leveraging this framework, Mastek empowers clients to assess their cloud 
+enviro nments, make informed decisions  that drive innovation in today’s dynamic digital landscape.  
+“I’m thrilled to announce that, with our new AWS Well -Architected Partner status, Mastek is now 
+even better positioned to scale our efforts in helping clients architect, re -architect, and optimize their 
+cloud environments. By leveraging the AWS Well -Archit ected Framework, we’ve enhanced our ability 
+to provide expert guidance, enabling clients to strike the right balance between innovation, cost, and 
+performance when building on AWS”  said Raman Sapra, President & Chief Growth Officer at 
+Mastek . “This recogni tion places Mastek among AWS’s select partners' list with AWS Well -
+Architected Partner status."  
+With extensive experience in cloud -native development, Mastek supports clients through every 
+phase of their cloud journey —from strategy and design to architecture implementation, migration, 
+and ongoing optimization. Mastek is focused on advancing its AWS capabilities , emphasizing the 
+AWS Well -Architected Framework, Cloud Modernization , and Generative AI services allowing clients 
+to adopt solutions that scale and evolve with their business needs.  
+This partnership status further accelerates Mastek's ability to deliver transformative, cloud -native 
+solutions across industries such as healthcare , retail , and the public sector , where robust and 
+reliable cloud infrastructure is increasingly critical to managing workloads effectively.  
+About Mastek  
+Mastek  is an enterprise digital and cloud transformation partner that engineers excellence for 
+customers in industries such as healthcare and life sciences, retail and consumer, manufacturing, financial services, and the public sector, across 40 countries, inclu ding the UK, US, Europe, the 
+Middle East, and Asia Pacific. Mastek helps enterprises decomplexify digital and delivers business 
+outcomes with trust, value, and velocity across the spectrum of services including digital experience 
+and engineering, cloud imp lementations, data, automation and AI, and cloud managed services. 
+Mastek recently launched its GenAI enabled portfolio iConniX  that offers over 120 AI assets, 4 AI 
+platforms, and solution blueprints tailored to meet industry specific business use cases. A preferred 
+Oracle, Salesforce, Microsoft, AWS, and Snowflake partner, Mastek has 5000+ employees and 
+delivers right -fit solutio ns to both medium businesses and global Fortune 1000 clients.  
+Press Contact  
+Kashmira Chavan | Kashmira.Chavan@mastek.com  

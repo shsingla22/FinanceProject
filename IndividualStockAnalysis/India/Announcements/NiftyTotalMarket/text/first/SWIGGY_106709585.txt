@@ -1,0 +1,475 @@
+ 
+ 
+SWIGGY LIMITED   
+CIN: L74110KA2013PLC096530 | www.swiggy.com  | support@swiggy.in  | T: 080 -68422422  
+Registered & Corporate Office: Sumadhura Capitol Towers, 3rd - 6th Floor – Tower 1, Sy. No. 14 & 158, Pattanduru Agrahara, K R Puram Hobli, 
+Bengaluru East Taluk, Bengaluru, Karnataka –  560066  
+ 
+REF: SWIGGY/SE/202 6-27/34 
+ 
+July 24, 202 6 
+ 
+To, 
+The Deputy Manager  
+Department of Corporate Services  
+BSE Limited  
+PJ Towers, Dalal Street  
+Mumbai -400001.  
+Scrip  Code: 544285  To, 
+The Manager  
+National Stock Exchange of India Limited 
+Exchange Plaza, Plot No. C/1, G Block  
+Bandra -Kurla Complex, Bandra (E),  
+Mumbai -400051.  
+Symbol: SWIGGY  
+ 
+Sub.: Business Responsibility and Sustainability Report for FY 202 5-26  
+ 
+Ref.: Regulation 34( 2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (‘SEBI Listing Regulations’)  
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations & 
+Disclosure Requirements) Regulations 2015, we are submitting herewith the Business Responsibility 
+and Sustainability Report for FY 202 5-26, along with an  Independent Practitioners’ Limited Assurance 
+Report  provided by M/s. Grant Thornton Bharat LLP , which forms a part of the Annual Report for FY 
+2025 -26.   
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Swiggy Limited  
+ 
+ 
+ 
+Cauveri Sriram  
+Company Secretary & Compliance Officer   
+  
+Business Responsibility and
+Sustainability Report
+Corporate Overview
+Statutory Reports
+Financial StatementsCorporate Overview
+Statutory Reports
+Financial Statements
+134 135
+Annual Report 2025-26 Swiggy Limited
+At Swiggy, our ambition has always been to build 
+a business that creates value at scale while doing so responsibly. We believe that sustainable growth is driven not only by innovation and execution, but by choices that strengthen the resilience of our ecosystem and expand opportunity for everyone who participates in it.
+Over the past year, we continued to advance this 
+commitment across key dimensions of environmental stewardship, inclusion, and responsible business conduct.
+As we work towards enabling a more sustainable 
+future, we have accelerated progress on reducing our environmental footprint across both our operations and ecosystem. Our electrification efforts helped avoid 13,308 tonnes of CO
+2 emissions in FY 2025-26, 
+while initiatives such as Eco-Saver feature successfully optimised delivery routes, resulting in a significant reduction of 8.9 million kilometers traveled in FY 2025-26, this prevented 812.6 metric tons of CO
+2 emissions 
+from entering the atmosphere, equivalent to powering 158 average homes with clean energy for an entire year. Through cloud optimisation and infrastructure efficiencies, we also avoided approximately 1,300 metric tonnes of CO
+2 emissions during FY 2025-26. In 
+parallel, we continued to advance more responsible consumption and circularity, with 3,328 metric tonnes of plastic offset through recycling initiatives.
+Alongside environmental action, we remained focused 
+on strengthening trust and creating meaningful impact across our ecosystem. We continued to invest 
+in the well-being and security of delivery partners with over ` 21 crore disbursed as insurance claims in FY 2025-
+26, reinforcing our commitment to supporting them. We also strengthened quality and trust across our restaurant ecosystem, while continuing to create more pathways for inclusion and recognition across our partner network.
+These outcomes reflect a broader belief that 
+responsibility cannot sit at the margins of business, it must be embedded into how we build, grow, and serve.
+Our progress has also been recognised externally. During 
+the year, Swiggy achieved a prestigious ‘AA’ rating in the 2025 MSCI ESG Ratings Assessment, reflecting the strength of our sustainability and governance practices. We were also recognised as a ‘Leader’ in the NSE Sustainability Ratings and Analytics with a score of 78, underscoring our performance across environmental, social, and governance dimensions.
+While we are encouraged by the progress we have made, 
+we recognise that the journey ahead calls for continued ambition and accountability. We remain committed to creating long-term value while contributing to a more inclusive, resilient, and sustainable future.
+Thank you to our employees, delivery partners, 
+restaurant partners, merchants, customers, investors, and communities for being part of this journey.
+Sriharsha Majety
+Managing Director and Group CEOSwiggy Limited
+Our commitment is 
+simple: to build a business that scales responsibly, creates opportunity inclusively, and delivers impact sustainably.SECTION A GENERAL DISCLOSURES
+Swiggy is one of India’s largest consumer technology platforms, reimagining how the country eats, 
+shops, and lives. From food delivery and quick commerce to out-of-home dining and corporate solutions, our platform connects millions of consumers with a vast network of restaurants, delivery partners, and small businesses every single day powered by technology, anchored in trust, and built for India’s everyday convenience economy.
+Pan-India Footprint
+Active operations across more than 700 cities in 
+India, supported by a deeply distributed network of stakeholders including restaurant partners &  delivery partners.
+More than 1000 million orders  delivered  by an 
+average of 6.49 lakh monthly transacting delivery partners in FY 2025-26.Globally Benchmarked
+Sustainability disclosures aligned to GRI Standards, SASB, TCFD, and the UN Sustainable Development Goals (SDGs) embedding international best practice into Swiggy’s reporting framework.
+Corporate Overview
+Statutory Reports
+Financial StatementsCorporate Overview
+Statutory Reports
+Financial Statements136 137
+Annual Report 2025-26 Swiggy LimitedI. Details of the listed entity 
+1.  Corporate Identity Number (CIN) of the Listed Entity L74110KA2013PLC096530
+2. Name of the Listed Entity S
+WIGGY LIMITED
+3. Year of incorporation 2013
+4.  Registered o
+ffice address Sumadhura Capitol Towers, 3rd- 6th Floor – Tower 1, Sy. No. 14 & 
+158, Pattanduru Agrahara, K R Puram Hobli,
+Bengaluru East Taluk, Bengaluru, Karnataka – 560066
+5.  Corporate addre
+ss Sumadhura Capitol Towers, 3rd- 6th Floor – Tower 1, Sy. No. 14 & 
+158, Pattanduru Agrahara, K R Puram Hobli,Bengaluru East Taluk, Bengaluru, Karnataka – 560066
+6. 
+ E-mail secretarial@swiggy.in
+7.  Telephone 080-68422422
+8.  Website www.swiggy.com
+9.   Financial year for which reporting is being done 1st April 2025 to 31st March 2026
+10.   Name of the Stock Exchange(s) wher
+e shares are listed 1. National Stock Exchange of India Limit
+ed (NSE)
+2. Bombay Stock Exchange Limited (B
+SE)
+11. Paid-up Capital ` 276 cr
+ores
+12.   Name and contact details (t
+elephone, email address) of the 
+person who may be contacted in case of any queries on the BRSR reportNeha SinghviEmail: sustainability@swiggy.in, secretarial@swiggy.inPhone: 080 - 68422422
+13. 
+   Reporting boundary
+  Are the disclosur
+es under this report made on a standalone 
+basis (i.e., only for the entity) or on a consolidated basis (i.e., for the entity and all the entities which form a part of its consolidated financial statements, taken together).Standalone Basis *
+14.
+ Name of assuranc
+e provider Grant Thornton Bharat LLP
+15. Type of assur
+ance obtained Limited Assurance
+* For more details, refer to our response to Question 18
+II. Products/services
+16.	 Details 	of	business 	activities 	(accounting 	for	90%	of	the	turnover):
+S. No. Description of main activity Description of business activity % of turnover of the entity
+1 Information Service Activities Other information service activities 100%
+17.	 Products/Services 	sold	by	the	entity	(accounting 	for	90%	of	the	entity’s	Turnover):
+S. No. Product/Service NIC Code % of total turnover contributed
+1 Other information service activities 
+(Food Delivery and Restaurant Exploration)63999 100%
+III. Operations
+18.	 Number 	of	locations 	where	plants	and/or	operations/offices 	of	the	entity	are	situated: 	
+Location Number of plants Number of offices* Total
+National - 4 4
+International - - -
+  *As of 31 March 2026, Swiggy has presence in 68 offices (a mix of co-working spaces and leased offices), of which four key offices – each  
+employing ov
+er 100 employees – collectively accounting for more than 68% of Swiggy’s workforce and core infrastructure. These offices define 
+the environment al 
+reporting boundary, determined by materiality, operational control, and contextual relevance, and reflect Swiggy’s flexible, 
+people-centric workplace model.19.		 Markets 	served	by	the	entity:
+a. Number of locations
+Locations Number
+National (No. of States) 35 (28 states and 7 Union Territories)
+International (No. of Countries) -
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+ Not Applicable.*
+  *Swiggy is a technology-driven, platform-based company operating solely in India, offering doorstep food delivery and restaurant discovery 
+services
+; export-related disclosures are not applicable.
+c.  A brief on types of customers
+  Swiggy serve
+s a diverse customer base across its food delivery, restaurant discovery, table reservation, and curated 
+dining verticals. Within our reporting boundary, ‘Customers’ represent two primary stakeholder groups:
+ 1.  End Consumers (Platf
+orm Users)
+   Individual consumers acro
+ss diverse demographics utilise our digital platforms to order food, discover restaurants, 
+and book dining experiences. We drive value for this segment by prioritising digital accessibility, convenience, 
+data privacy, and secure transaction experiences.
+ 2. Restaur
+ant Partners and Food Entrepreneurs
+   Micro, small, medium, and institutional food s
+ervice establishments - including traditional restaurants and cloud 
+kitchens - that collaborate with our platform. We empower this network by providing:
+  a. Digital Inclusion:
+ Equipping local businesses with online visibility and data tools to scale equitably.
+  b.  Shared Logi stics: Granting access to an optimised last-mile delivery infrastructure that enhances operational 
+efficiency.
+   Leveraging it
+s integrated end-to-end ecosystem, Swiggy connects a vast network of restaurant partners and 
+entrepreneurs with a broad consumer base, enabling operational efficiencies while enhancing the quality, accessibility, and overall culinary experience across its platform.
+IV. Employees
+20.	 Details 	as	at	the	end	of	Financial 	Year:
+a. Employees and W
+orkers (including differently abled):
+S. 
+No.ParticularsTotal
+(A)Male Female
+No. (B) %(B / A) No. (C) %(C / A)
+EMPLOYEES
+1. Permanent (D) 5321 4148 77.96% 1173 22.04%
+2. Other than permanent (E) 3726 3205 86.02% 521 13.98%
+3. Total employees (D + E)  9047 7353 81.28% 1694 18.72%
+WORKERS4. Permanent (F)* Not Applicable
+5. Other than permanent (G)** 303 247 81.52% 56 18.48%
+6. Total workers (F + G) 303 247 81.52% 56 18.48%
+* Swiggy does not engage permanent workers. Hence, details sought for ‘Permanent workers category is ‘0’ throughout this report.
+** Other than permanent workers include housekeeping and security guards. Delivery partners are value chain partners and hence, they are not 
+part of Swiggy’s workforce.
+Corporate Overview
+Statutory Reports
+Financial StatementsCorporate Overview
+Statutory Reports
+Financial Statements138 139
+Annual Report 2025-26 Swiggy Limitedb. Differently abled Employees and Workers
+Sl. 
+NoParticularsTotal (A) Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D) 3 3 100% 0 0%
+2. Other than permanent (E) 0 0 0 0 0%
+3. Total differently abled employees (D + E) 3 3 100% 0 0%
+ DIFFERENTLY ABLED WORKERS4. Permanent (F)* - - - - -
+5. Other than permanent (G)** - - - - -
+6. Total differently abled workers (F + G) - - - - -
+* Swiggy does not engage permanent workers. Hence, details sought for ‘Permanent workers category are ‘0’ throughout this report.
+** Other than permanent workers include housekeeping and security guards. Delivery partners are value chain partners and hence, they are not 
+part of Swiggy’s workforce.
+21.	 Participation/Inclusion/Representation 	of	women
+Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 8 1 12.5%
+Key Management Personnel 4 1 25%
+22.	 Turnover 	rate	for	permanent 	employees 	and	workers
+FY 2025-26 FY 2024-25 FY 2023-24
+Male Female Total Male Female Total Male Female Total
+Permanent Employees 34.72% 35.42% 34.87% 33.60% 32.11% 33.37% 57.82% 55.67% 57.47%
+Other than Permanent employees 128.53% 65.52% 119.31% Due to a change in the internal tracking system, data for “other 
+category” employees is available only from FY 2025–26; hence, 
+prior-year data has not been disclosed.
+V. Holding, Subsidiary and As sociate Companies (including joint ventures)
+23.	 (a)	 Names 	of	holding	/	subsidiary 	/	associate 	companies 	/	joint	ventures
+   The details of Swiggy Limit
+ed’s wholly-owned subsidiaries, company-controlled trust, step-down subsidiary, 
+associate company, and subsidiary of associate are provided in the Notes to the Standalone Financial Statements 
+(Pages 356 and 357), which form a part of Swiggy’s Annual Report for FY 2025-26.
+S. 
+no.Name of the holding / subsidiary / associate companies / joint ventures (A)Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture% of shares 
+held by 
+listed 
+EntityDoes the entity indicated at 
+column A, participate in the 
+Business Responsibility initiatives 
+of the listed entity? (Yes/No)
+1 Swiggy Networks Limited (Formerly known as Swiggy Networks Private Limited & Scootsy Logistics Private Limited)Subsidiary 100% Yes 
+2 Supr Infotech Solutions Limited (Formerly known as Supr Infotech Solutions Private Limited)Subsidiary 100% Yes 
+3 Swiggy Neocap Private Limited (Formerly known as 
+Swiggy Sports Private Limited)Subsidiary 100% Yes 
+4 Swiggy Instamart Private Limited Step-down subsidiary 100% Yes 
+5 Lynks Logistics Limited Step-down subsidiary 100% Yes 
+6 Loyal Hospitality Private Limited Associate Co. 21.72% Yes 
+7 Swiggy Employee Stock Option Trust Trust under the control 
+of the CompanyNA NA
+VI. CSR Details
+24.	 (i)	 Whether 	CSR	is	applicable 	as	per	section	135	of	Companies 	Act,	2013:
+   Swiggy has duly c
+onstituted a CSR & Sustainability Committee and formulated a CSR Policy in compliance with 
+the applicable statutory requirements. However, the provisions relating to mandatory CSR expenditure are not 
+applicable for FY 2025-26, as the Company does not meet the financial threshold based on average-net-profit as prescribed under the Companies Act, 2013 for the reporting period.
+  (ii) Turnover (in `
+)* - ` 12,128 Crore
+  (iii) Net worth (in 
+`) - ` 20,839 Crore
+  *The figures pres ented above include revenue from operations that were discontinued effective 1 April 2026.VII. Transparency and Disclosures Compliances
+25.		Complaints/Grievances 	on	any	of	the	principles 	(Principles 	1	to	9)	under	the	National 	Guidelines 	on	Responsible 	
+Busines
+s	Conduct:
+Stakeholder 
+group from whom complaint is receivedGrievance 
+redressal 
+mechanism in 
+place
+(Yes/No) (If Yes, 
+then provide 
+web-link for 
+grievance 
+redress policy)FY 2025-26
+Current Financial YearFY 2024-25**
+Previous Financial Year
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Communities* Yes,
+Link to Policy2 3 We are duly 
+represented at 
+respective High 
+Courts for the 3 
+PILs (under active 
+hearing).1 1 Includes 
+complaints
+registered before
+judicial authorities.
+Investors (other than shareholders)0 0 Not Applicable. 169 0 Includes
+complaints filed
+with NSE and BSE.
+Shareholders 5 1 - 0 0
+Employees and workers61 10 Includes 
+complaints 
+registered before 
+judicial authorities 
+and internal 
+complaints 
+channel.91 11 Includes 
+complaints 
+registered before 
+judicial authorities 
+and internal 
+complaints 
+channel.
+Customers
+#39 136 Includes 
+complaints 
+registered before 
+judicial authorities 
+and internal 
+complaints 
+channel.35 97 Includes 
+complaints 
+registered before 
+judicial authorities 
+and internal 
+complaints 
+channel.
+Value Chain Partners
+$25 37 Includes 
+complaints 
+registered before 
+judicial authorities 
+and internal 
+complaints 
+channel.11 19 Includes 
+complaints 
+registered before 
+judicial authorities 
+and internal 
+complaints 
+channel.
+Others 2 10 Includes 
+complaints
+registered before
+judicial authorities.1 9 Includes 
+complaints
+registered before
+judicial authorities.
+*Communities refer to groups of people and social ecosystems that are directly or indirectly impacted by Swiggy’s operations, presence, or value 
+chain whether economically, socially, or environmentally.
+#Swiggy’s Customers include two core groups:
+ Platform End Users who use Swiggy to order food and other essentials, explore restaurants, and book tables.
+ Restaurant Partners and Entrepreneurs who leverage the platform to grow their reach and serve end users.
+$Swiggy’s Value Chain Partners include:
+ Delivery Partners,
+ Suppliers, Vendors , and
+ Other Business P artners who enable our services through logistics, technology, and operational support.
+**This information has been updated in line with the methodology adopted for the reporting year.
+Corporate Overview
+Statutory Reports
+Financial StatementsCorporate Overview
+Statutory Reports
+Financial Statements140 141
+Annual Report 2025-26 Swiggy Limited26.	 Overview 	of	the	entity’s	material 	responsible 	business 	conduct 	issues	–
+  Please indicate 
+material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk along-with its financial implications, as per the following format:
+ S. 
+No.Material issue identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk / opportunityIn case of risk, approach to adapt  or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+1 Environmental:ReducingEmissionsOpportunity & RiskOpportunity: Climate action represents one of the most compelling strategic opportunities available to Swiggy in the current decade. A deliberate transition to a low-carbon operating model anchored by accelerated Electric Vehicle (EV) adoption, intelligent route optimisation, and renewable electricity integration in our operations, offers a clear pathway to bring efficiency in operating costs, strengthen brand equity, and unlock access to green financing instruments and sustainability-linked capital pools. Decarbonisation is positioned as an important component of Swiggy’s long-term sustainability strategy, helping strengthen operational resilience while responding to evolving stakeholder and market expectations.
+Risk: Greenhouse gas 
+emissions from operational energy use and large-scale last-mile delivery represent a material climate risk for Swiggy.
+Physical risks including 
+extreme weather, urban heat stress, flooding, and rising climate variability can disrupt logistics continuity, compromise delivery partner safety, and impair platform reliability. Transition risks include tightening climate policy, low-carbon technology shifts, and rising stakeholder expectations as India advances toward its net-zero commitment pose further long-term exposures.Climate Risk Assessment (CRA): During the reporting year, Swiggy conducted a comprehensive Climate Risk Assessment aligned with the IFRS S2/ TCFD recommendations to evaluate physical and transition risks across short, medium, and long-term horizons. Transition risks were assessed against the NGFS reference scenarios Net Zero 2050, Delayed Transition, and Current Policies while physical risks were evaluated using the IPCC SSP scenarios (SSP 2.6, 4.5, 8.5). The assessment covered Swiggy’s most material operational hubs, including Bengaluru, Mumbai, Delhi-NCR (Gurugram), Hyderabad, Chennai, Kolkata and Pune, amongst others. The outcomes of the CRA directly inform the Company’s climate risk adaptation roadmap, capital allocation priorities, and operational resilience planning.
+Our 2030 Commitments include a 
+100% low-carbon delivery fleet and 100% renewable electricity across direct operations.
+Fleet Electrification: Scaling EV 
+adoption through OEM and financing partnerships, partner-affordability programmes, and targeted incentives.
+Eco Saver Mode: Platform feature 
+enabling intelligent order batching and consolidated trips to reduce last-mile emission intensity.
+Tech-Enabled Route Optimisation: 
+Algorithms reducing idle time, distance travelled, and per-order carbon intensity.
+Renewable Energy Integration: 
+Progressive transition to clean energy at sites under direct operational control, lowering Scope 2 emissions.
+Climate Resilience: Informed by CRA 
+outcomes weather-resilient gear, real-time weather advisories, and adaptive operating protocols during extreme weather events.Positive: By undertaking proactive and comprehensive Climate Risk Assessments, Swiggy strengthens its resilience by mitigating exposure to climate related disruptions, carbon related regulatory costs, and other physical & transition risks. Furthermore, investments in decarbonisation is expected to deliver sustained operational efficiencies, enhance investor trust and expand access to green and sustainability - linked financing, thereby creating measurable commercial value alongside meaningful environmental impact.
+Negative: Delayed 
+action on climate or failure to transition in a timely manner could expose the company to regulatory penalties, carbon-linked compliance costs, operational and service disruptions from extreme weather and reputational damage that may erode stakeholder trust and long-term competitiveness.
+ S. No.Material issue identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk / opportunityIn case of risk, approach to adapt  or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+2 Environmental:DeliveringCircularChangeOpportunity The growing volume of 
+single-use plastics and food-related waste across the value chain presents both an environmental responsibility and a strategic opportunity. Swiggy’s circular strategy is operationalised through a coherent set of value-chain interventions, anchored in achieving plastic neutrality and facilitating responsible packaging for 100% of our Restaurant Partners by 2030.
+Plastic Reduction & Offsetting: 
+Reduction and offsetting across direct operations through reuse, recycling, and adoption of sustainable packaging.
+Sustainable Packaging Transition: 
+Facilitate responsible packaging solutions to restaurant partners via awareness campaigns, incentives, and curated solution-provider partnerships.
+Behavioural Nudges: Platform features 
+such as the ‘cutlery-opt-out’ model embedding waste-conscious choices at scale.Positive: Circularity initiatives deliver reduction in long-term compliance costs and EPR-linked regulatory exposure, improving resource efficiency, reducing waste-related cost lines, and strengthening brand differentiation.
+3 Social:DeliveryPartner  Well-beingOpportunity Delivery partners are the 
+operational backbone of Swiggy’s platform, and their well-being is inseparable from platform resilience, service consistency, and brand strength. The Human Rights Risk Assessment (HRRA) aligned with the UN Guiding Principles (UNGP) and ILO Core Standards has helped systematically surface salient risks linked to gig-based work, including health and safety, fair earnings, grievance access, and protection of vulnerable groups. By embedding partner welfare, Swiggy strengthens its ability to attract and retain a motivated value chain while reinforcing its identity as a responsible corporate citizen.Swiggy conducted a comprehensive Human Rights Risk Assessment to systematically identify and address salient human-rights risks across its employees, workers and delivery partner network, aligned with The UN Guiding Principles on Business and Human Rights (UNGPs); the ILO Core Conventions covering elimination of forced and child labour, and the UN Global Compact principles.
+The HRRA evaluated occupational 
+health and safety, working hours, harassment and discrimination, grievance redressal, and the protection of women and vulnerable workers with outputs directly informing Swiggy’s Delivering Safely programme and broader social-performance roadmap. In line with these HRRA findings, our comprehensive policies are firmly in place to support these initiatives.
+Swiggy’s partner-first approach is 
+institutionalised through the flagship ‘Delivering Safely’ programme.
+Sanitation Access: Free sanitation 
+access across seven cities in India, enabling dignified working conditions for delivery partners.
+Financial Literacy: In collaboration 
+with NSE, we conducted Financial Literacy sessions, while also providing online learning modules for our delivery partners.Positive: Sustained investment in partner well-being reduces attrition, improves service consistency, strengthens platform reliability, thereby translating into measurable operational efficiency. Improved partner retention and productivity also lower disruption-driven costs and reinforce long-term value creation across the platform ecosystem.
+Corporate Overview
+Statutory Reports
+Financial StatementsCorporate Overview
+Statutory Reports
+Financial Statements142 143
+Annual Report 2025-26 Swiggy Limited S. 
+No.Material issue identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk / opportunityIn case of risk, approach to adapt  or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+Health & Accident Insurance: 
+Comprehensive personal accident cover, 24×7 teleconsultation for physical and mental wellness, and medical insurance is extended to all Delivery Partners. For select eligible delivery partners, medical insurance and ambulance services extends to spouses and up to two children, with 100% of premium costs borne by Swiggy. Additionally, female partners also can get access to maternity cover, medical aid, and flexible delivery arrangements.
+On-Road Emergency Support: In-app 
+SOS feature for real-time distress alerts and ambulance dispatch, backed by 24×7 ground response.
+Weather Resilience Measures: 
+Distribution of high-quality weather gear (raincoats, jackets, windbreakers) and real-time weather advisories enabling informed, safety-conscious decisions.
+Cooling Jackets: Designed with 
+advanced evaporative cooling technology, the cooling jacket lowers body temperature by 4-5°C. This solution improves Delivery Partner safety, comfort, and productivity during the summer season.
+Harassment Redressal & Right to 
+Refuse Unsafe Service: Zero-tolerance policy on abuse, discrimination, or harassment, with prompt, partner-sensitive redressal mechanisms.
+Vernacular Safety Training: Periodic 
+road-safety workshops conducted in partnership with traffic police and local authorities, delivered in regional languages.
+Rest & Recovery Infrastructure: Scaled 
+deployment of dedicated resting points offering hygienic spaces for hydration, rest, and recovery during long shifts and extreme weather.
+Recognition & Incentives: Structured 
+reward programmes celebrating safety adherence, service excellence, and tenure, fostering pride and belonging. S. 
+No.Material issue identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk / opportunityIn case of risk, approach to adapt  or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+4 Social:Food IntegrityOpportunity Swiggy’s platform is built on 
+a vast network of restaurant and cloud-kitchen partners, enabling unmatched culinary diversity and reach across India. This scale carries the responsibility and opportunity to elevate food integrity and hygiene at a national level. As transparency, traceability, and accountability become decisive purchase drivers, structured food-integrity programmes enhance customer trust, reduce quality variability, and position Swiggy as a trusted custodian of the consumer experience.Swiggy has institutionalised food integrity through the Swiggy Seal Food Integrity Certification, a dynamic, merit-based programme informed by over 7 million verified customer reviews. Key features include:
+  Independent Hygiene & Quality Audit
+s: Designed to elevate 
+standards beyond regulatory compliance and embed continuous improvement.
+  Revocable Accreditation: The Seal can be withdrawn in the ev
+ent 
+of lapses, ensuring sustained accountability and credibility.
+  Scaled Adoption: The number of rest
+aurants accredited with  
+Swiggy Seal has seen an increase in FY 2025-26, from the prior financial year.Positive: Elevated food-integrity standards reduce the risk of financial losses arising from customer claims, refunds, and regulatory penalties, while simultaneously strengthening brand equity, repeat ordering behaviour, and customer lifetime value, reinforcing Swiggy’s long-term commercial resilience.
+5 Social:
+Inclusive andEmpoweredValue NetworkOpportunity Swiggy’s long-term value 
+creation is intrinsically linked to the strength and inclusivity of its broader value network spanning its workforce, delivery partners, restaurant and cloud-kitchen partners, small businesses, and ecosystem stakeholders. Investing in this network through inclusive policies, targeted skilling, and growth-oriented interventions deepens social capital and creates competitive differentiation in a dynamic platform economy. Guided by the Human Rights Risk Assessment, Swiggy has adopted a comprehensive, multi-stakeholder approach to value creation anchored in empowerment, equity, and long-term sustainability:
+For Delivery Partners: Over 25 lakh 
+partners benefited from accident and health insurance, road safety and emergency-response training, SOS and ambulance services, weather-appropriate gear, and dedicated resting points. Flexible work models ensure transparent daily earnings, complemented by mental wellness support and financial literacy programmes. In FY 2025-26, over 21 crores, was disbursed in insurance claims to our delivery partners.
+For Restaurant & Small Business 
+Partners: Access to food hygiene and quality certifications, responsible packaging guidance with vendor facilitation, and digital tools for visibility, performance analytics, and growth reinforced by structured onboarding and advisory support.
+For Swiggy’s Workforce: Structured 
+career pathways, internal mobility, and skilling opportunities, supported by inclusive workplace policies, equitable benefits, and a personalised well-being wallet. Leadership development, mentorship, and DE&I programmes nurture a culture of trust and ownership.
+Ecosystem-Wide Interventions:
+  Swigstree Brigade: In partnership 
+with the National Stock Exchange (N
+SE), financial literacy training 
+covering budgeting, investments, and capital markets, with a dedicated focus on women delivery partners.Positive: By proactively addressing human rights risks identified through the HRRA, Swiggy safeguards enterprise value and strengthens long-term financial performance. Improved partner well-being and inclusive practices support higher retention, productivity, and operational stability, reducing attrition-related and disruption-driven costs. Strategic investment in partner and workforce empowerment also drives platform reliability, stakeholder trust, regulatory alignment, and brand strength, contributing to sustained long-term value creation.

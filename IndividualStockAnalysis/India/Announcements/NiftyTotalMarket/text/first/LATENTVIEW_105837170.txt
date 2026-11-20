@@ -1,0 +1,163 @@
+ 
+Classification: Internal Contains PII: No 
+ 
+ 
+ 
+May 07, 2024 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Press Release - Audited Financial Results for the quarter and year ended March 31, 
+2024.  
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, please find enclosed a copy of the press release on the Audited Financial 
+Results of the Company for the quarter and year ended March 31, 2024. 
+ 
+This is for your information and records. 
+ 
+Yours Sincerely,  
+ 
+  Thanking you, 
+  For Latent View Analytics Limited 
+ 
+       
+  
+    P. Srinivasan 
+    Company Secretary and Compliance Officer 
+  
+ 
+ 
+  Press Release: Q4FY24  
+  
+LatentView Analytics Q4FY24 revenue grew 21.7% YoY and 3.6% QoQ; 
+EBITDA Margin at 23.5%  
+Chennai, India – May 7,   2024 : LatentView Analytics Limited (BSE: 543398, NSE: LATENTVIEW), a global 
+data analytics, consulting, and solutions firm, today announced its financial results for the fourth quarter 
+and full year of FY24, ended on March 31, 2024.  
+Commenting on the results, Rajan Sethuraman, Chief Executive Officer, LatentView Analytics, said , 
+"FY24 was a year of building on the growth momentum and investing for sustaining growth in the future.  
+Revenue for the full year grew by 18.9%, despite uncertain macroeconomic indicators persisting for the majority 
+of the fiscal.  We attribute this success to our deep relationships with existing clients in the technology, industrial 
+and CPG verticals , reflecting their trust in our solutions . In Q4FY24, revenue witnessed a growth of 3.6% on 
+sequential basis and 21.7% on a YoY basis. The  recent  acquisition of Decision Point Analytics marks a significant 
+milestone, which will further bolster our capabilities in the CPG vertical and open a new geography in Latin 
+America . As we moved forward, w e remain dedic ated to fostering innovation and delivering value to our 
+stakeholders. ” 
+Rajan Venkatesan, Chief Financial Officer, LatentView Analytics, said , 
+“For Q4FY24, we reported an operating revenue of ₹1,716.4 million and improved EBITDA margin to 23.5%, 
+up 130bps during the quarter. This was in -line with our commitment to improve margins driven by operating 
+leverage from revenue growth and exercising strong fiscal discipline. Our investment strategy remains steadfast, 
+encompassing both organic and inorganic avenue s for growth.  The acquisition of Decision Point Analytics will 
+be partially funded through IPO proceeds and balance  from the existing cash reserves. As of March, 31, 2024, 
+our cash and investments (excluding IPO proceeds ) stood strong at ₹11,232 million.”  
+Key Financial  Highlights                                                   
+Particulars         
+₹ Million                         Q4FY24 QoQ                  
+Growth  YoY           
+Growth  FY24 YoY             
+Growth  
+Operating Revenue  1,716  3.6%  21.7%  6,407  18.9%  
+EBITDA  404 9.8%  34.0%  1,360  (6.21%) 
+EBITDA %  23.5%    21.2%   
+PBT  530       (6.2%)  25.5%  1,970  4.0%  
+PBT %  28.3%    27.6%   
+PAT  452 (2.8%) 32.2%  1,58 6 2.1%  
+PAT %  24.1%    22.2%   
+Basic EPS ( ₹) 2.20  (3.0%)  30.8% 7.73  0.2%  
+Acquisition of Decision Point Analytics  
+Marking a key milestone in LatentView’s growth journey, we signed definitive agreements for the 
+acquisition of 70% of outstanding equity capital in Decision Point for a total consideration of $39.1m in 
+March 2024. The remaining 30% equity is to be acquired  over the next two years with a pay -out based 
+on agreed valuation principles.   
+ 
+  Press Release: Q4FY24  
+Established in 2012, Decision Point is a leader in AI -led Business Transformation and Revenue Growth 
+Management (RGM) solutions with 300+ employees worldwide. The company brings deep experience in 
+RGM, Demand Forecasting, Pricing Analytics, Promotion Analytics, Retail Segmentation, and Marketing 
+Mix Models with a focus on CPG brands. Decision Point has won awards and recognition from Microsoft 
+and the Promotion Optimization Institute (POI).  
+The acquisition of Decision Point will add marquee CPG logos, bolster LatentView’s  GenAI readiness, and 
+open a new talent market in Gurgaon and Latin America. LatentView will commit investments to expand 
+Decision Point solutions in the focus markets of North America and Europe.  
+Select Key Client Wins in Q4FY24  
+● LatentView entered into a strategic partnership with a leading provider of gamified learning and 
+engagement solutions to implement and enhance paid media campaign performance dashboards, 
+resulting in higher user engagement, better insights, and improved user experiences . 
+● We collaborated with a prominent remittance provider to assess the ROI  of sponsoring a team in the 
+world's most -watched  car racing event . We established success criteria and KPIs by harnessing AI/ML 
+for predictive insights and financial forecasting.  
+● For a distinguished New York -based online university , we are establishing a standardized ROI 
+framework predicting enrolments, conducting competitive analysis and market share assessment, 
+creating targeted marketing strategies for sustainable growth, and developing a Customer Lifetime 
+Value (CLV) model to fo cus on student retention.  
+● We partnered with a leading US -based construction company to address their data and business 
+process governance challenges. We built a robust data engineering infrastructure and assessed 
+operational readiness for strategic dashboarding and advanced ML solu tions.  
+● For a leading enterprise data integration platform, we built data marts to measure user experience, 
+develop canned queries across domains, create an automated visualization dashboard, and a single 
+source of truth to train ML models.  
+● For a mid -size fintech player providing subscription financing platforms for  enterprises , we developed 
+a scalable method to identify, measure , and control risk across customer lifecycles,  define KPIs to 
+measure business health, perform root cause analysis , and enable decision support across the product, 
+engineering, sales , and finance teams.  
+Other Business Highlights of Q4FY24  
+● Reorganization:  
+o Marketing Analytics CoE: In a strateg ic move to leverage our expertise in marketing analytics 
+and cater  to its growing focus  across industries, we launched the Marketing Analytics Centre 
+of Excellence (CoE) . This function will be spearheaded by Boobesh Ramadurai, who  
+successfully led our technology vertical in California  previously . This C oE aims to empower 
+marketing leaders with actionable insights, enabling informed decision -making, targeted 
+campaigns, and optimized ROI.  
+o Technology vertical: Sharpening our focus in the technology vertical, we've strengthened our 
+Go-To-Market strategy to specifically address the needs of both the tech B2B and B2C 
+segments independently. This will help us provide targeted solutions that address each 
+segment's unique requirements and opportunities.  
+● Partnerships: LatentView has entered a strategic collaboration with NVIDIA, a full -stack computing 
+company specializing in AI and digitalization. This collaboration aims to leverage NVIDIA accelerated 
+computing, which includes the  NVIDIA AI Enterprise software  platform for the development and 
+deployment of production -grade AI applications, including GenAI. 
+ 
+● Events:  
+  Press Release: Q4FY24  
+o Roundtable in London: In February  2024, LatentView hosted the 17th edition of our 
+roundtable in London, with the theme, “The New ROI: Return on Innovation; Connecting the 
+Dots Between Business Investment and Value Creation With AI and Analytics.” The event 
+featured a joint keynote session by Alberto Prado from Unilever and Krishnan Venkata from 
+LatentView Analytics, where they shared insights on how innovation can drive business 
+impact.  
+o Networking in Detroit:  In our networking event themed “Shifting Gears: Accelerating Growth 
+and Visibility with Data Analytics” in February, industry leaders came together to discuss 
+strategies to achieve actual impact and transform businesses by embracing analytics. We 
+showcase d three key solutions —InsightLens, ConnectedView, and OneCustomerView at the 
+event.  
+About LatentView Analytics  
+Latent View Analytics Limited (LatentView) is a global data analytics company that inspires and transforms 
+businesses to excel in the digital world by harnessing the power of data. The Company provides a 360 -
+degree view of the digital consumer, enabling companies to predict new revenue streams, anticipate 
+product trends and popularity, improve customer retention rates , and optimize investment decisions. 
+LatentView is a trusted partner to enterprises worldwide, including 30+ Fortune 500 companies in the 
+Technology, Financial services, CPG, Retail, and Healthcare sectors. LatentView Analytics partners with 
+clients across the United States, Germany, UK, Netherlands, Singapore, India and has 1 200+ employees. 
+For more information, please visit https://www.latentview.com  or follow us on  LinkedIn . 
+Safe Harbour  
+This release may contain certain forward -looking statements, which involve risks and uncertainties that 
+could cause actual results to differ materially from those that are projected by these forward -looking 
+statements. LatentView Analytics Ltd. undertakes no obligation to update forward -looking statements 
+that may be made by us from time to time by us or on our behalf.  
+For more information please contact:  
+LatentView Analytics Limited  
+Srinivasan P  
+investorcare@LatentView.com  Ernst & Young LLP, Investor Relations  
+Diwakar Pingle - Diwakar.Pingle@in.ey.com  
+Asha Gupta - Asha.Gupta@in.ey.com  
+ 

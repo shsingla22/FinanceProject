@@ -1,0 +1,294 @@
+
+=== page 1 ===
+ 
+AXISCADES Technologies Limited 
+(Formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru - 5 60024, Karnataka, INDIA 
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscade s.com | www.axiscades.com   
+February 14, 2024 
+ 
+The Manager     The Manager 
+Listing Department    Listing Department 
+BSE Limited     The National Stock Exchange of India Limited 
+Phirozee Jeejeebhoy Tower,    Exchange Plaza, 5 Floor, Plot C/1, G Block 
+Dalal Street     Bandra – Kurla Complex, Bandra(E), 
+Mumbai 400 001    Mumbai 400 051 
+BSE Scrip Code: 532395   NSE Symbol: AXISCADES 
+       
+Dear Sir/Madam, 
+Sub: Q3 FY24 Result Presentation 
+Please find attached the consolidated results presentation for quarter  and nine months ended 
+December 31, 2023, of AXISCADES Technologies Limited (AXISCADES). 
+ 
+This presentation is the information for shareholders on the performanc e of the Company for 
+quarter and nine months ended December 31, 2023 .  
+ 
+Kindly upload presentation to the terminals. 
+ 
+Yours faithfully, 
+For AXISCADES Technologies Limited  
+ 
+ 
+Sonal Dudani 
+Company Secretary & Compliance Officer 
+ 
+Encl: A/a 
+=== page 2 ===
+1 1Q3 FY24
+INVESTORS PRESENTATION
+AXISCADES Technologies Limited
+CIN NO : L72200KA1990PLC084435
+=== page 3 ===
+2Disclaimer
+Certain statements inthis communication may beconsidered as ‘forward
+looking statements’ within the meaning ofapplicable laws and regulations.
+These forward-looking statements involve a number ofrisks, uncertainties
+and other factors that could cause actual results todiffer materially from
+those suggested by the forward-looking statements. Important
+developments that could affect the Company’s operations include changes
+inthe industry structure, significant changes inpolitical and economic
+environment inIndia and overseas, tax laws, import duties, litigation and
+labour relations.
+AXISCADES Technologies Limited (ACTL) will not beinany way responsible
+for any action taken based onsuch statements and undertakes noobligation
+topublicly update these forward-looking statements toreflect subsequent
+events orcircumstances.
+=== page 4 ===
+Table of Contents
+31    Company Overview
+2    Key Highlights
+3    Financial Performance
+4    Segment Revenue
+5    Business Performance and Outlook
+=== page 5 ===
+4AXISCADES Overview
+4•Design & Analysis - Primary & 
+Secondary Structures, Aircraft 
+Interiors
+•MSI and ESI, Electrical harness
+•Manufacturing Engineering
+•In-Service support - Repairs
+•Structures, Cabin Design
+•Engine, Powertrain
+•Electrical, Lube, Hydraulic 
+systems Design
+•Digital Manufacturing
+•Design, Analysis - Tower, 
+Generator, Hub, Spinner, 
+Nacelle, Yaw, Blade 
+•Mechanical & Electrical Routing
+•Wind Resource Analysis
+•Advanced FE Simulations•Design, Analysis
+•BIW/CIW
+•Interior & Exterior
+•Engines, Powertrain
+•Cost Optimization & 
+Localization•Avionics, Radar/EW, C4I2
+•Automated Test Solutions
+•Simulators, UAVs
+•GSE/GHE
+•System Integration
+•Offset Management
+•Health Monitoring 
+Devices
+•Infusion Pumps & Insulin 
+Delivery
+•Product Sustenance
+•Regulatory ComplianceAEROSPACE
+HEAVY ENGG.
+ENERGYDEFENCE & 
+HOMELAND SECURITY
+AUTOMOTIVE
+MEDICAL & HEALTHCAREDESIGNMANUFACTURING
+IN SERVICE SUPPORT
+•Mechanical Engineering
+•Embedded SW and HW
+•System Integration 
+•Digitization
+•Manufacturing and
+•Aftermarket SolutionsAXISCADES is a Technology Company focusing on Product Engineering Solutions, serving Global OEMs
+Strategic partner  to global OEMs for Innovative, Sustainable, Safer & Smarter Products
+
+=== page 6 ===
+5Commenting on the results and outlook, Mr. Abidali Neemuchwala, Chairman of AXISCADES said: 
+  “ AXISCADES  delivered a Y-o-Y revenue growth, on the back of lumpiness in defence business and is poised 
+to leverage on the investments made in strategic acquisitions and digital capabilities. Our recent Equity Raise 
+of INR 220 Crores was a stupendous success, and will strengthen the balance sheet, improve  profitability and 
+will  lead to growth and margin expansion. We are diversifying into new verticals, such as Energy and 
+Automotive, through strategic acquisitions and thereby enhancing our capabi lities, which will add to the 
+depth of our offerings along with strong positioning in the global as well as domestic market.   I am excited for 
+the journey ahead for us and confident in our ability to realize our vision for AXISCADES as a Global Leader in 
+Engineering and Technology solutions. ”Message from Management
+
+=== page 7 ===
+6 6Commenting on the results and outlook, Mr. Arun Krishnamurthi, CEO & MD of AXISCADES said:  
+“We  are delighted to report a broad-based performance in revenue and financial results. During the quarter, 
+we saw higher contribution from Aerospace vertical, which grew by 27% Y-o-Y . The defence business during 
+the quarter dropped due to its lumpiness, which is typical to the industry. The order book for coming 
+quarters from the defence vertical remains strong. Our nascent entry int o Energy and Automotive is gaining 
+momentum, which will continue to grow in the coming quarters. During the quarter, We completed the 
+acquisition of EPCOGEN, which will provide a strong impetus to the company's growth in the Energy sector 
+and provide access to Middle East and North American energy markets.
+The proceeds of our recent Equity Raise, by way of Qualified Institutional Placement, attracted marquee 
+Institutional Investors, which shows their confidence in the growth prospects of the Company. The proceeds 
+of the equity raise will be utilized to repay borrowings and investing in developing new capabilities and 
+building new partnerships to leverage on emerging technologies. We will continue to work on our objective 
+to continue to generate long-term value for all our stakeholders. ”Message from Management
+
+=== page 8 ===
+Revenue Breakup for Q3 FY24 & 9M FY24
+7
+Production RevenueINR Mn.
+Production Revenue1,504 
+6301,521 
+615 1,776 
+738 1,822 
+492 
+Engineering Services Defence RevenueQ3'24 Revenue Performance
+Q3 2023 Q1 2024 Q2 2024 Q3 202463159 328 222 4,260 
+1,644 5,120 
+1,846 
+Engineering Services Defence Revenue9M FY24 Revenue Performance
+9M FY23 9M FY24
+227 709 
+=== page 9 ===
+•Engineering Services Business in FY24, is showing consistent growth Q-o-Q. For 9M FY24,
+Engineering Services Business grew by 20%, as compared to previous year from INR 4, 260 Mn to
+INR 5, 120 Mn
+•Defence, which constitutes, 26% of Company’ s  Revenue mix, always reflects Q-o-Q variability,
+typical to the industry, which impacts both enterprise consolidated revenue and profitability
+•Certain Production Orders in Defence were re-scheduled to Q4 FY24. As a result, Defence
+Production Revenues, which carry significantly higher margins, was lower in Q3 FY24 at INR 222
+Mn, as against INR 328 Mn in Q2 FY24
+•For 9M FY24, Defence Revenues Grew by 12% YOY from INR 1, 644 Mn to INR 1,846 Mn. The
+Production Revenues in Defence, significantly increased, by 3X from INR 227 Mn to INR 709 Mn
+•The Company’ s  PAT for Q3 FY24 stands at INR 75 Mn as against   loss of INR ( 102) Mn in Q3 FY23.
+The Company’ s  PAT for 9M FY 24 stands at  INR 244 Mn  against loss of  INR ( 208) Mn  in the previous
+year.Key Highlights for Q3/9M FY24
+8
+
+=== page 10 ===
+Key Highlights for Q3 FY24
+9•The Company successfully concluded the Equity Raise of INR 220 Crores in January 2024 , 
+with marquee Institutional Investors subscribing to the issue. This will strengthen the 
+balance sheet and improve profitability, in the coming periods
+•Completed the acquisition of EPCOGEN Private Limited. This will aid in building a deeper  
+presence in the energy vertical both with competency and array of customers and access to 
+Middle East and North American energy markets
+•Signed a strategic partnership with KANZEN Institute Asia-Pacific Pvt Ltd (KIAP) , for new age 
+Industry IIoT, Digital Automation and MES 4.0 implementation for delivering enhanced  value 
+to our Global customers. 
+
+=== page 11 ===
+Consolidated Financial Performance –Q3 FY24
+10Particulars (INR Mn) Q3 FY23 Q2 FY24 Q3 FY24
+Revenue 2,134          2,515          2,315          
+Other Operating Income 22                10                7                   
+Other Income 18                11                16                
+Total Revenue 2,175         2,536         2,339         
+Cost of Material consumed 505              601              343              
+Employee Benefit Exp 978              1,238          1,325          
+Other Expenses 355              318              354              
+EBITDA 296              358              292              
+EBITDA Margin 13.9% 14.2% 12.6%
+Depreciation and Amortization 63                87                85                
+EBIT 233              271              207              
+EBIT Margin 10.9% 10.8% 9.0%
+Finance cost 115              116              121              
+Profit before non-controlling interest / share in 
+net profit of associate / Exceptional items158              176              110              
+Share in net Profit/(Loss) of associate -               -               -               
+Exceptional Items -236             -               -               
+Tax 25                64                35                
+PAT -102             112              75                
+PAT  Margin -4.7% 4.4% 3.2%
+EPS -2.72           2.89             1.93             
+=== page 12 ===
+Revenue Details Q3 FY24
+11Key Takeaways
+• Aerospace vertical recorded highest ever revenue during the quarter, up 
+by 27% Y-o- Y, and continues to witness upward trend. The growth is on 
+account of newer service offerings to existing OEM in Europe and growth 
+in Canada aerospace OEM
+• Muted performance in the Heavy Engineering and Product Engineering 
+Services due to macro factors. The Company is working on digital and 
+embedded opportunities in these domains 
+• Automotive & Industrial Products (AIP) grew by 257% Y-o-Y driven by ramp 
+up in recently added clients in the areas of Embedded, mechanical & 
+Hardware and consolidation of revenues in add solution GmbH 
+• Europe has grown by 39% Y-o-Y and Canada has grown by 4% mainly due 
+to increase business from Automotive and Aerospace.Revenue Q3 FY23 Q2 FY24 Q3 FY24 Q-o-Q Y-o-Y
+US$ Mn 26.2 $        30.6 $        28.2 $        -8.0% 7.5%
+INR Million 2,134          2,515          2,315          -7.9% 8.5%
+Revenue by Vertical Q3 FY23 Q2 FY24 Q3 FY24 Q-o-Q Y-o-Y
+Engineering  Services 70.8% 70.8% 78.8% 2.4% 19.8%
+Strategic Technology Solutions (Defence) 29.2% 29.2% 21.2% -33.3% -21 .8%
+Revenue by Industry (INR Mn) Q3 FY23 Q2 FY24 Q3 FY24 Q-o-Q Y-o- Y
+Aerospace 28.2% 25.6% 33.1% 18.9% 27.3%
+Heavy Engineering 19.7% 15.7% 15.6% -8.7% -14.2%
+Product Engineering Services 15.9% 16.4% 12.8% -28.1% -12.2%
+Automotive and Industrial Products 4.5% 10.7% 14.1% 28.5% 257.3%
+Energy 2.3% 2.4% 3.1% 20.2% 46.3%
+Defence Business 29.5% 29.2% 21.3% -33.3% -21.8%
+Revenue By Geography Q3 FY23 Q2 FY24 Q3 FY24 Q-o-Q Y-o-Y
+Europe 34.2% 37.4% 43.0% 7.9% 39.0%
+USA 32.7% 29.8% 26.3% -18.7% -13.0%
+APAC 28.7% 28.5% 26.4% -14.7% -0.2%
+Canada 4.4% 4.3% 4.2% -10.2% 4.0%
+Revenue by Location Q3 FY23 Q2 FY24 Q3 FY24
+Offshore 76.1% 77.0% 71.2%
+Onsite 23.9% 23.0% 28.8%
+Revenue by Project Q3 FY23 Q2 FY24 Q3 FY24
+Fixed Price 60.9% 68.4% 66.9%
+Time & Material 39.1% 31.6% 33.1%
+=== page 13 ===
+Business Performance and Outlook
+12Aerospace
+The Aerospace vertical achieved highest ever quarterly revenue, grew by 27% Y-o-Y . The outlook of Aerospace vertical is positive with 
+our existing customers and the Company is ramping up its digital offerings to its Aerospace customers, to enhance revenue and margins. 
+The Company   has won additional long-term contract for customer services activities in Aerospace to serve transnationally. We are 
+leveraging our embedded and digital capabilities of Mistral in the  Avionics space.
+Heavy Engineering (HEG)
+ Heavy Engineering continues to face headwinds, due to macroeconomic factors thus delaying growth. We are leveraging our embedded 
+and digital capabilities to capture the opportunities in this vertical. We are hopeful of these efforts will help to bring this vertical on 
+growth trajectory as macroeconomic situation improves. 
+Automotive and Industrial Products (AIP)   & Energy
+Automotive vertical witnessed strong growth of 257% Y-o- Y, driven by the ramp up of recently added clients in this vertical. The 
+integration of recent acquisition of add Solution GmbH is on track. We expect this acquisition will offer significant offshoring 
+opportunities and provide us access to automotive contracts with other global automotive OEMs. 
+The Energy Vertical registered a 46% growth Y-o-Y.  The Company completed the acquisition of EPCOGEN in December, which will help us 
+to get deeper presence in this vertical, access to marquee clients and energy markets in Middle East and North America. 
+Product Engineering Services
+Product & Engineering services business, under Mistral, decline by 12% Y-o- Y, mainly due to overstocking by customers during the 
+component shortage period that was seen in 2022, which led to decline in production revenue. The NRE services revenue continues to 
+be healthy. We expect these challenges to continue in short-term and recovery to start from H2 FY25 onwards. 
+Defence Business 
+Revenue from defence business exhibits lumpiness across quarters, typical to the Industry. Consequently, Defence business declined by 
+22% Y-o- Y, due to unevenness in production orders in defence. Lumpiness in defence production revenues leads to variability in margins.    
+We continue to have a healthy pipeline & orderbook in defence, which will ensure sustained Y-o-Y growth over the coming   years .  We 
+are also exploring opportunities to export of our Defence systems and services to prospective clients overseas.
+
+=== page 14 ===
+13Shishir Gahoi
+AXISCADES Technologies Ltd.
+Kirloskar Business Park, Block ‘C’ , 2nd Floor, Hebbal,
+Bangalore – 560 024, India
+Tel: + 91 9985450022
+Email : Shishir.Gahoi@axiscades. inFor further information, please contact:
+Akashi Modi / Rajesh Agrawal
+Tel : + 91 9619896128  / +91 9967491495
+Email : akashi.modi@linkintime. co.in
+rajesh.agrawal@linkintime. co.inorientcapitalAbout AXISCADES Technologies Ltd.
+AXISCADES is a leading, end to end technology and engineering solutions provider aiding creation of innovative, sustainable 
+and safer products worldwide. AXISCADES is headquartered in Bangalore with subsidiaries in USA, UK, Canada, Germany, India 
+and China; and offices in Germany, France, Denmark, USA and Canada.
+AXISCADES has a diverse team of over 3,200 professionals working across 17 locations across North America, Europe, UK and 
+Asia-Pacific, striving to reduce the program risk and time to market.   The company offers Product Engineering Solutions across 
+Embedded Software and Hardware, Digitization and Automation, Mechanical Engineeri ng, System Integration, Test Solutions, 
+Manufacturing Engineering, Technical Publications, and Aftermarket Solutions.
+The solutions comprehensive portfolio covers the complete product development lifecy cle from concept evaluation to 
+manufacturing support and certification for Fortune 500 Companies in the Aerospace, Defence, Heavy Engineering, 
+Automotive, Energy and Semiconductor industries. The company is known for its robust system of certifications, best practices 
+and domain expertise that addresses futuristic customer requirements.

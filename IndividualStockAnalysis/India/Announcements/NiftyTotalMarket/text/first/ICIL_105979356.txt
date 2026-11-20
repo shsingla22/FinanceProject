@@ -1,0 +1,103 @@
+ 
+Ref No.: ICIL/65/2024-25          5th September, 2024 
+ 
+National Stock Exchange of India Ltd.  
+Listing Department 
+Exchange Plaza, 
+Bandra Kurla Complex, Bandra (East), 
+Mumbai – 400 051. 
+ 
+Company Symbol : ICIL  BSE Limited  
+Department of Corporate Services 
+Floor 25, Phiroze Jeejeebhoy Towers,  
+Dalal Street, 
+Mumbai – 400 001. 
+ 
+Scrip Code No. :  521016 
+ 
+Dear Sir/Madam, 
+ 
+Sub.: Intimation for issue of Duplicate Share Certificate under Regulation 39(3) of SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, this 
+is to inform that the Company has issued Duplicate Share Certificate /New Share Certificate on replacement 
+in lieu of the original share certificate to the following Shareholders on 4th September, 2024: 
+ 
+Sr. 
+No. Folio No.  Name of Shareholder(s)  New 
+Certificate 
+No. Distinctive Nos.  No. of Shares 
+of face value 
+of Rs. 2/- each  From To 
+1. 0025321 Pushpagauri Jasani 22645 1169326 1169975 650 
+2. 0011262 Balu Pamandas Manjalani jointly 
+with Pushpa Balu Manjalani 22646 494486 494985 500 
+3. 0058355 Ramesh Kumar Goyal 22647 3615276 3615925 650 
+4. 0063397 Pramod Kumar Khaitan 22648 3983316 3985815 2500 
+ 
+The aforesaid Duplicate / New Share Certificate has been issued on receipt of proper documentation from the 
+Shareholder and pursuant to the approval accorded by the Share Transfer Committee on 4th September, 2024. 
+ 
+Further, Register of Duplicate / New Share Certificate sent by Link Intime India Private Limited (“RTA”) on  
+5th September, 2024, enclosed for your ready reference. However, the Company / RTA will follow the 
+procedure as per SEBI Circular no. SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 dated 25th January, 2022 for 
+issuance of duplicate shares in dematerialized form. 
+ 
+Kindly take the above information on record.  
+ 
+Thanking you, 
+ 
+For Indo Count Industries Limited  
+ 
+ 
+ 
+ 
+Satnam Saini 
+Company Secretary & GM- Legal 
+Encl.: A/a 
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5262TO: TN5260FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5260 0025321
+PUSHPAGAURI JASANI 04/09/2024
+DUP 2.00OLD 650  1169975  1169326  650  2887  2887 
+ 650 ---------------
+ 2.00NEW 650  1169975  1169326  650  22645  22645 
+ 650 ---------------
+TN5261 0011262
+BALU PAMANDAS MANJALANI
+PUSHPA BALU MANJALANI04/09/2024
+DUP 2.00OLD 500  494985  494486  500  1201  1201 
+ 500 ---------------
+ 2.00NEW 500  494985  494486  500  22646  22646 
+ 500 ---------------
+TN5262 0058355
+RAMESH KUMAR GOYAL 04/09/2024
+DUP 2.00OLD 650  3615925  3615276  650  7830  7830 
+ 650 ---------------
+ 2.00NEW 650  3615925  3615276  650  22647  22647 
+ 650 ---------------
+05/09/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN5263TO: TN5263FROM:Indo Count Industries Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON REPLACEMENT  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN5263 0063397
+PRAMOD KUMAR KHAITAN 04/09/2024
+REP 2.00OLD 2500  3985815  3983316  2500  8546  8546 
+ 2500 ---------------
+ 2.00NEW 2500  3985815  3983316  2500  22648  22648 
+ 2500 ---------------
+05/09/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

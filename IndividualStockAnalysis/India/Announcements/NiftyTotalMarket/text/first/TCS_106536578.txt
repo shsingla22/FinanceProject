@@ -1,0 +1,119 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 67/2025-26 
+ 
+February 16, 2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS  and AMD  to bring  state -
+of-the-art ‘Helios’  rack-scale AI architecture  to India” which will be disseminated 
+shortly . 
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 2 
+ 
+TCS and AMD  to bring  state -of-the-art ‘Helios’  rack-scale AI 
+architecture  to India  
+ 
+SANTA CLARA, CALIF.  | MUMBAI , IN., February  16, 202 6: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: 
+TCS), a global leader in IT services, consulting, and business solutions , and AMD  (NASDAQ: AMD), a leader in 
+high -performance and AI computing, have expanded their strategic collaboration. TCS, through its subsidiary 
+HyperVault AI Data Center Limited (HyperVault), and AMD will co -develop a rack -scale AI infrastructure 
+design based on the AMD “Helios ” platform in support of India’s national AI initiatives .  
+Powered by AMD Instinct ™ MI455X GPUs, next -generation AMD EPYC ™ “Venice” CPUs, AMD Pensando ™ 
+Vulcano NICs and the open ROCm ™ software ecosystem, “Helios” is purpose -built to deliver a rack -scale AI 
+platform supporting sovereign AI factories. “ Helios ,” combined with TCS’ enterprise expertise and scale , will 
+accelerate deployment and enhance operational efficiencies for enterprises. As part of this strategic 
+collaboration, both companies will offer an AI -ready data center blueprint supporting up to 200 MW of 
+capacity and will work with hyperscalers and AI companies to accelerate data center build -outs in India.  
+Dr. Lisa Su, Chair and CEO, AMD, said,  "AI adoption is accelerating from pilots to large -scale deployments, 
+and that shift requires a new blueprint for compute infrastructure. With 'Helios,' we are delivering an open, 
+rack -scale AI platform designed for performance, efficiency, and long -term fl exibility. Together with TCS, we 
+are enabling enterprises across India to deploy AI at scale today while building the compute foundation of 
+tomorrow.”    
+K. Krithivasan, MD and CEO, TCS , said, “This collaboration  lays the foundation for AMD’s first Helios  powered 
+AI infrastructure in India.  By combining our strengths in AI, connectivity, sustainable power, and advanced 
+data center engineering, we are poised to deliver state -of-the-art infrastructure solutions for AI companies 
+and global enterprises. We are thrilled  to deepen our longstanding partnership with AMD as we expand our 
+participation in the AI ecosystem – Infrastructure to Intelligence .” 
+TCS established HyperVault in 2025 with the vision of delivering GW-scale, secure, and reliable AI -ready 
+infrastructure for hyperscalers, AI companies, and global enterprises. This announcement builds on the 
+recent strategic collaboration between TCS and  AMD to help enterprises scale AI adoption and modernize 
+hybrid environments.  
+ 
+About AMD  
+AMD (NASDAQ: AMD) drives innovation in high -performance and AI computing to solve the world’s most 
+important challenges. Today, AMD technology powers billions of experiences across cloud and AI 
+infrastructure, embedded systems, AI PCs and gaming. With a br oad portfolio of AI -optimized CPUs, GPUs, 
+networking and software, AMD delivers full -stack AI solutions that provide the performance and scalability 
+needed for a new era of intelligent computing. Learn more at www.amd.com . 
+AMD Media Contact:  
+ 
+Page 2 of 2 
+ 
+Aaron Grabein  
+AMD Communications  
++1 737 -256-9518  | aaron.grabein@amd.com  
+ 
+About Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service . 
+ 
+It has set an aspiration to become the world's largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 55 
+countries and 202 service delivery centers acro ss the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long term partnerships with its clients – helping them emerge as perpetually adaptive ent erprises. Many 
+of these relationships have endured into decades and navigated every technology cycle, from mainframes in 
+the 1970s to artificial intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment . 
+ 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025.  For 
+more information, visit  www.tcs.com  
+ 
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS Media Contacts:  
+ 
+Corporate Communication & India   Email:  corporate.communications@tcs.com  
+Email:  santosh.castelino@tcs.com  | Phone: 
++91 22 6778 9999  
+ 
+### 

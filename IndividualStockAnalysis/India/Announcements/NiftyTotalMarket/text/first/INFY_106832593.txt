@@ -1,0 +1,173 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE  
+ 
+October 28, 2026  
+Dear Sir/ Madam,  
+Sub: Transcripts of the press conference an d earnings call conducted after the Meeting of 
+ Board of directors on October 23, 2026  
+ 
+Please find enclosed the transcripts of the press c onference and earnings call conducted after the Board 
+meeting held on October 23, 2026, for your information and records.  This information will also be ho sted on the Company’s website, at  
+https://www.infosys.com/investors/reports-f ilings/quarterly-resu lts/2026-2027/q2.html  
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at  https://www.infosys.com/investors/r eports-filings/quarterly-results/2026-
+2027/q2.html  
+This is for your information and records.  
+Yours Sincerely,  
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary 
+Membership No: A21918  
+ 
+ 
+External Document © 2025 Infosys Limited  1     
+                                                 
+                                                       Infosys Limited  
+                          Media Conference Call  
+October 23, 2026 
+   
+CORPORATE PARTICIPANTS:   
+ 
+ 
+Salil Parekh 
+Chief Executive Officer and Managing Director 
+ 
+Jayesh Sanghrajka 
+Chief Financial Officer 
+ 
+Rishi Basu 
+Associate Vice President and Global Head - Corporate Communications 
+ 
+JOURNALISTS  
+ 
+Meghna Sen 
+CNBC-TV18  
+ 
+Mansee Dave 
+ET Now 
+ Chandra Srikanth 
+Moneycontrol 
+ 
+Haripriya Suresh 
+Reuters 
+ 
+Beena Parmar 
+The Economic Times 
+ Shilpa Phadnis The Times of India 
+ 
+Poulomi Chatterjee 
+Financial Express 
+ Uma Kannan 
+Deccan Herald 
+ 
+Jas Bardia 
+Mint  
+ 
+External Document © 2025 Infosys Limited  2   Sanjana B 
+The Hindu BusinessLine 
+ 
+Rukmini Rao Fortune India 
+ 
+Pooja Patil 
+Businessworld 
+ 
+  
+External Document © 2025 Infosys Limited  3   Rishi Basu  
+A very good evening, everyone, and thank you for join ing Infosys' Second Quarter Financial Results. 
+My name is Rishi, and I would like to welcome all of you. One question. Okay. 
+With that, I am going to hand it over to Salil for his opening remarks. Over to you, Salil. 
+Salil Parekh  
+Thanks, Rishi. It is good to see that everyone list ens to you so well. So good evening, and welcome, 
+everyone. Thank you for joining us. Our revenue gr owth for Q2 was 1.5% YoY and 1.2% sequentially 
+in constant currency terms. AI revenue was a standout at 10.5% of our revenue, growing at 29% 
+sequentially. And last quarter, it was at 8.2%. 
+Large deals were another standout at $5.2 bn for the quarter. This includes two mega deals. One of 
+these mega deals was for over $2 bn with a large inte rnational company for a period of seven years, 
+and this is net new. This deal is expected to c ontribute over 1% revenue growth in the coming 
+financial year. 
+The second mega deal was for $1 bn for a renewal.  Our large deal pipeline is healthy and includes 
+some other mega deals in this pipeline. Operating margin was stable at 21%. Free cash flow was 
+strong at $928 mn (Editor’s comment) for the quarter. 
+As enterprises adopt AI at scale, another quarter of strong growth in AI revenues is a recognition of 
+our differentiated market positioning and client conf idence. As an ecosystem integrator, we continue 
+to work closely with the frontier model com panies, both open-weight and closed models. Our deep 
+investments in Topaz Fabric hel p our clients seamlessly navigate between models to ensure token 
+optimization and value realization. 
+Infosys continues to gain market share, especially where economics of the program is aligned to the 
+stakeholder interest. We remain the preferred AI st rategy and deployment partner for our top clients. 
+As AI remains central to enterprise transformation in the years ahead, Infosys is well positioned to 
+help navigate this shift. 
+Based on our Q2 performance and revised outlook fo r rest of the year, our revenue growth guidance 
+is 1% to 2% YoY.in constant currency terms. Our operating margin guidance remains at 20% to 22% 
+for the year. 
+Thank you. And with that, we can open it up for questions. Rishi Basu  
+ 
+External Document © 2025 Infosys Limited  4   Thank you, Salil. We will now open  the floor for questions. Joining Salil is Mr. Jayesh Sanghrajka, 
+Chief Financial Officer, Infosys. The first ques tion is from Meghna Sen from CNBC-TV18. 
+Meghna Sen  
+Thank you very much. My first question is on y our guidance. So, you have narrowed both the lower 
+and upper end. Could you help us understand why? Explain the margin performance, the benefit of rupee depreciation, any offset and loss due to deflation,  etc.? And did your salary hike also impact 
+your margins in the second half? 
+Third is, your AI revenue is 10.5% of your Q2 re venue. So how many deals won will have AI element? 
+And with AI jitters globally, is there a change in bu siness? And fourth, how are your December quarter 
+furloughs shaping up versus last year and which sectors look the most vulnerable? 
+Salil Parekh  
+Okay. Let me start off with some of them, and Jayesh will also jump in with some of the other ones. 
+So first, AI is really an incredible performance for us. It is 10.5% of our revenue, growing sequentially 
+29%. We had laid out the AI approach in the Hexagon with six different areas of focus.  
+And in this revenue mix, we see each of those areas  growing well, especially things that we do where 
+we are building agents, where we are doing legacy modernization, where we are doing process AI, 
+where we are doing data AI. So those are growing e xceptionally well, but all of them are doing well. 
+And then we have the partner ecosystem with that. That is really gaining momentum. 
+I think in terms of the global AI our attention is r eally much more on the large enterprises with which 
+we are working. So for them, this is starting to become more-and-more relevant. And with the 
+investments we made and build the Topaz Fabric an d the capabilities we have, plus all the training 
+that we have done for all of our people, which m any and more are certified now, ready to do work 
+with different partners of the fron tier companies, that is where we are getting the good traction with 
+the enterprise clients. 
+I will spend a couple of minutes on the industries. I think what we see, and Jayesh will add more to 
+that, we see really good strength on the Financial Se rvices. We see good strength on Energy Utilities. 
+We see good strength on the Manufacturing. And we see some weakness on the Retail and we see 
+some weakness on the Hi-Tech. But it  is a mix of all of those that we have put together in how we 
+see this.  
+Jayesh Sanghrajka  
+  
+External Document © 2025 Infosys Limited  5   So if you look at our guidance, our our last gui dance was 1.5% to 3%. We had clearly called out at 
+1.5%, we expect even more uncertainty. Our Q2 has  been softer and our volume continues to remain 
+softer. We have also seen pricing pressure on t he back of competitive intensity and higher ask on 
+productivity. So all that is baked in, in our  revised guidance as we look forward. 
+On top of that, as Salil said, some of the sect ors, we see softness, Retail, Hi-Tech, where the 
+discretionary is lower than what we are expecting. So all of that is reflected in our guidance on the 
+revenue and which is where it is 1% to 2% now. 
+Our margin continues to remain at 21%. I think it is a strong performance on the back of all the efforts 
+that we have put in Project Maximus. If you look at last many years, we have been able to maintain 
+margins despite investment in business, whether it  is sales and marketing, whether it is AI-led 
+investment, talent investments and all of that. 
+If you look at put-and-takes of this quarter, the margins have remained flat. We had 70 bps of impact 
+on post-sale customer support, which is a del ta between two quarters. Last quarter, we had a 
+reversal. This quarter, it is an impact, so it is a difference in that. We had 20 bps coming from our 
+acquisition, it is a one-month addi tional impact last quarter to only two months of impact, so one 
+month additional on account of amortization, etc. 
+That was offset by tailwinds of currency, 40 bps  coming from the currency, 20 bps coming from a 
+higher calendar and working days and 20 bps from the Project Maximus. So that kind of sums up 
+the margin walk. 
+As you look forward, the next half, which is H2, we will have impact coming from compensation, as 
+you rightly said, so that will have a headwind. We will see continued intensity on pricing. So we will 
+see that as a headwind. And we will continue work ing on Project Maximus to offset as much as 
+possible from there. 
+Rishi Basu  
+Thank you. The next question is fr om Mansee Dave from ET Now. 
+Mansee Dave  
+Hi, good afternoon. So, starting with the guidance wh ich is revised downward from 1.5% to 3% to 
+1% to 2% on a constant currency growth basis, how much is the weak demand and market pressure 
+affecting? And what has changed in the demand environment plans ahead, if I may ask?  
+AI monetization. Well, the AI as a percentage of revenue for Infosys this time is quite strong and 
+greetings to you all for that. AI is helping clients improve productivity, but it can also reduce traditional 

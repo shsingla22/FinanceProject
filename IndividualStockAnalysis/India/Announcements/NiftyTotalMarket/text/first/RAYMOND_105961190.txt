@@ -1,0 +1,163 @@
+ 
+ 
+RL/SE/2 4-25/119 
+ 
+August  21, 2024  
+ 
+To 
+The Department of Corporate Services - CRD  
+BSE Limited  
+P.J. Towers, Dalal Street  
+Mumbai - 400 001                                            
+Fax No. 022 -22721919  
+Scrip Code: 500330  
+ The National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Bandra -Kurla Complex  
+Bandra (East), Mumbai - 400 051                              
+Fax No. (022) 26598120  
+Symbol: RAYMOND  
+ 
+Dear Sir/Madam , 
+ 
+Sub: Raymond Limited: Intimation under Regulation 39(3) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)  
+ 
+Pursuant to Regulation 39(3) of Listing Regulations, please find enclosed the intimation for issuance 
+of duplicate share certificates to shareholder(s) as detailed in the “Register of New Share Certificates 
+Issued  on Duplication”.  
+ 
+Please take the above information on record.  
+ 
+Thanking you . 
+ 
+Yours faithfully , 
+For Raymond Limited  
+ 
+ 
+ 
+Rakesh Darji  
+Company Secretary  
+ 
+Encl.: a/a  
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17368TO: TN17362FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN17362 D0000074
+DHIRENDRA S BHATIA
+PANNA D BHATIA19/08/2024
+DUP 10.00OLD 5  4121531  4121527  5  3007673  3007673 
+ 10.00OLD 3  4682381  4682379  3  3058244  3058244 
+ 10.00OLD 8  11770897  11770890  8  3533689  3533689 
+ 10.00OLD 8  54488413  54488406  8  5155413  5155413 
+ 24 ---------------
+ 10.00NEW 5  4121531  4121527  5  1072119  1072119 
+ 10.00NEW 3  4682381  4682379  3  1072119  1072119 
+ 10.00NEW 8  11770897  11770890  8  1072119  1072119 
+ 10.00NEW 8  54488413  54488406  8  1072119  1072119 
+ 24 ---------------
+TN17363 00151774
+DINESH G AHUJA
+GOPALDAS KISHINDAS AHUJA19/08/2024
+DUP 10.00OLD 10  9429790  9429781  10  3250274  3250275 
+ 10 ---------------
+ 10.00NEW 10  9429790  9429781  10  1072120  1072120 
+ 10 ---------------
+TN17364 00392919
+VINOD ANANT MHAPANKAR 19/08/2024
+DUP 10.00OLD 10  9532295  9532286  10  3270775  3270776 
+ 10.00OLD 10  21471621  21471612  10  3681685  3681685 
+ 10.00OLD 10  50589001  50588992  10  5034095  5034095 
+ 30 ---------------
+ 10.00NEW 10  9532295  9532286  10  1072121  1072121 
+ 10.00NEW 10  21471621  21471612  10  1072121  1072121 
+ 10.00NEW 10  50589001  50588992  10  1072121  1072121 
+ 30 ---------------
+19/08/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17368TO: TN17362FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN17365 U0010130
+USHA RAJANIKANT SHAH
+RAJANIKANT CHIMANLAL SHAH19/08/2024
+DUP 10.00OLD 30  19626726  19626697  30  3596764  3596764 
+ 10.00OLD 15  56448391  56448377  15  5216460  5216460 
+ 45 ---------------
+ 10.00NEW 30  19626726  19626697  30  1072122  1072122 
+ 10.00NEW 15  56448391  56448377  15  1072122  1072122 
+ 45 ---------------
+TN17366 00171219
+BAPSY CECILIA RODRIGUES
+GIZELLE AGNES RODRIGUES19/08/2024
+DUP 10.00OLD 8  29742712  29742705  8  172845  172845 
+ 8 ---------------
+ 10.00NEW 8  29742712  29742705  8  1072123  1072123 
+ 8 ---------------
+TN17367 00174717
+CHANDERMOHAN H ASRANI
+KAMNA C ASRANI19/08/2024
+DUP 10.00OLD 7  50693875  50693869  7  5041174  5041174 
+ 7 ---------------
+ 10.00NEW 7  50693875  50693869  7  1072124  1072124 
+ 7 ---------------
+TN17368 00154287
+RAMCHANDRA GANESH RANADE
+LILABAI RAMCHANDRA RANADE
+VIJAY RAMCHANDRA RANADE19/08/2024
+DUP 10.00OLD 5  9455365  9455361  5  3255390  3255390 
+ 10.00OLD 5  21409230  21409226  5  3675272  3675272 
+ 10.00OLD 5  50511249  50511245  5  5029123  5029123 
+ 15 ---------------
+ 10.00NEW 5  9455365  9455361  5  1072125  1072125 
+19/08/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17368TO: TN17362FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+ 10.00NEW 5  21409230  21409226  5  1072125  1072125 
+ 10.00NEW 5  50511249  50511245  5  1072125  1072125 
+ 15 ---------------
+19/08/2024 3 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        7 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                4 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 139 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN17368TO: TN17362 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Raymond Limited
+ 15 
+ 0 
+ 0  17 
+ 17 
+19/08/2024 4 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

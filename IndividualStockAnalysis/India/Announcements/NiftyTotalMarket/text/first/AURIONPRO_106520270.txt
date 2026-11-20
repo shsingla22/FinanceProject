@@ -1,0 +1,156 @@
+February 04, 2026  
+To, 
+BSE Limited  
+PJ. Towers, Dalal Street 
+Mumbai -400001  
+Script Code: 532668  To, 
+National Stock Exchange of India Ltd,  
+Exchange Plaza, Bandra Kurla  Complex,  
+Bandra (East), Mumbai -400051  
+Script Code: AURIONPRO  
+Sub: Press Release  
+Dear Sir/Madam,  
+Kindly find enclosed herewith a press release relating to announcement of Un -Audited financial 
+results of the Company for the third quarter and nine months ended December 31 , 2025.  
+You are requested to upload the same on your website.  
+Thanking You,  
+Yours faithfully,  
+For Aurionpro Solutions Limited 
+Ninad Kelkar  
+Company Secretary 
+  
+  
+ 
+Q3 & 9M FY26 Financial Results & Business Updates  
+ 
+Aurionpro Sustains Growth Momentum with 26% YoY Revenue Surge; Adds 23 New  Logos, Strengthening Order 
+Book  
+ 
+Mumbai, February 04th,2026 : Aurionpro Solutions Limited (BSE: 532668) (NSE: AURIONPRO), announced its un-
+audited  financial results for the  third  quarter and nine months ended 31st December, 2025.  
+Financial Highlights  
+Particulars  
+(INR Cr) * Q3 FY26  Q2 FY26  QoQ Q3 FY25  YoY 9M FY26 9M FY25  YoY 
+Revenue  371 358 4% 306 21% 1,066 846 26% 
+EBITDA  75 72 5% 64 18% 216 176 23% 
+PAT 44 56 -21% 48 -8% 150 138 9% 
+*All numbers have been rounded off  
+ PAT Q3 FY26 and 9M FY26  includes a one -time charge of INR 8.10 Cr related to the new labour code, which has 
+been disclosed under exceptional item  
+ 
+Results Highlights:  
+9M FY26  
+ Revenue from operations witnessed a strong growth of 26% in 9M FY26, reaching Rs. 1,066  Cr as compared to 
+Rs. 846 Cr in 9M FY25  
+o Banking and Fintech segment reported a growth of 26%, reaching Rs. 595 Cr  
+o Technology Innovation Group recorded a growth of 26%, amounting to Rs. 471 C r 
+ EBITDA for 9MFY26 stood at Rs. 216 Cr as compared to Rs. 176 Cr in 9MFY25, a growth of 23% on a YoY basis. 
+EBITDA mar gins for the quarter stood at 20 % 
+ PAT stood at Rs. 150  Cr, with a growth of 9% on a Yo Y basis, PAT margins stood at 14 % 
+Q3 FY26 
+ Revenue for the quarter stood at Rs. 371 Cr, a growth of 21% on a YoY basis.  
+ EBITDA for Q 3FY26 stood at Rs. 75 Cr as compared to Rs. 64 Cr in Q3 FY25, a growth of 18% on a YoY basis. 
+EBITDA margins for the quarter stood at 20% 
+ PAT stood at Rs. 44 Cr, with PAT margins at 12% 
+Operational Highlights:  
+Banking & Fintech  
+ Aurionpro secures  a landmark global lending modernization mandate from a leading Singapore -headquartered 
+bank, with its Integro platform selected for corporate lending transformation across its global subsidiaries.  
+ Aurionpro strengthens  its leadership in Transaction Banki ng through a landmark win with a leading Public Sector 
+Bank in India, with its iCashpro platform selected as the preferred transaction banking solution.  
+ Aurionpro, through its research arm Lexsi  Labs, launched Orion -MSP, a state -of-the-art Tabular Foundation 
+Model, along with TabTune, an open -source library, enabling scalable enterprise AI for structured data.  
+ Aurionpro secures  a major mandate from CSB Bank for the implementation of its next -generation cash 
+management platform, further expanding its presence in India’s banking sector.  
+  
+ Aurionpro partnered with Vitreous Alliance to deploy a secure, cloud -native omnichannel payments platform, 
+strengthening its presence in the U.S. fintech and paymen ts ecosystem.  
+ Aurionpro launched AurionAI, a domain led Enterprise AI platform for banking and financial services, enabling 
+secure, scalable, and production ready AI adoption for regulated financial institutions.  
+ 
+Technology Innovation Group  
+ Aurionpro expa nds its Smart Transit portfolio by securing a major Platform Screen Door systems order from 
+Titagarh Rail Systems for Mumbai Metro Line 5, marking its entry into safety -critical PSD solutions.  
+ Aurionpro secures  a major order from Delhi Metro Rail Corporation for Automated Fare Collection systems for 
+the Bhopal and Indore Metro projects, strengthening its Smart Mobility leadership.  
+ Aurionpro won a strategic data center infrastructure project with IDBI Bank, marki ng its entry into a leading 
+commercial bank and strengthening its position as a single -window data center solutions provider.  
+ 
+Management Commentary  
+Mr. Ashish Rai, Group  CEO said 
+“Four years ago, we began a focused journey to transform Aurionpro into a differentiated, high -margin, IP -led global 
+product company. Today, we have firmly established ourselves among the select listed technology companies in 
+India delivering industry -lead ing growth. Continuing on this trajectory, we are well positioned to close FY26 with 
+strong revenue expansion while sustaining healthy margins. Our nine -month performance reflects this momentum, 
+with revenue reaching INR 1,066 crore, marking a robust 26% y ear-on-year growth, while EBITDA increased by 23%. 
+This performance has been driven by several marquee and strategic deal wins that are accelerating our expansion 
+across key markets, along with path -breaking new product launches across our businesses, part icularly in our transit 
+technology and Enterprise AI offerings.  
+ 
+We remain firmly on track to realize our Vision 2030, to be among the leading global players in our chosen segments. 
+At the same time, we are acutely conscious of the rapid shifts underway ac ross the technology landscape. The 
+ongoing transition to AI driven reasoning is the most significant change we have seen in a while and taking full 
+advantage of it will require us to continually adapt and recalibrate our strategy with the same clarity and conviction 
+that has guided our journey so far.  
+ 
+We are concentrating our capital, innovation, and talent on four high -growth pillars that will define Aurionpro’s next 
+phase of expansion:  
+ 
+Banking Software 2.0 — AurionAI  
+ 
+We are evolving from traditional systems of record  that primarily orchestrate workflows and store data to agentic, 
+AI-driven stacks that can autonomously act on that data. This is not an incremental upgrade to our software, it 
+represents a fundamental re -architecture of banking operations powered by a new generation of intelligent software 
+and agentic execution. AurionAI positions us to address a significantly larger TAM and opportunity by shaping how 
+future -ready banks deploy and benefit from AI.  
+ 
+Vertical Integration in Transit Payments a t Scale  
+ 
+We continue to strengthen one of the industry’s most comprehensive integrated hardware -to-software platforms. 
+By owning IP across the entire value chain — from sensor to cloud, we are addressing a large and expanding Total 
+Addressable Market, whil e building a durable competitive moat anchored in reliability, performance, and speed of 
+execution.  
+ 
+Hyperscale Data Centers  
+ 
+As India advances its digital sovereignty agenda, we are accelerating investments in capabilities to develop high -
+density digital infrastructure. Our objective is to provide the foundational power required to design and build for AI -
+intensive workloads at a national scale.  
+ 
+ 
+  
+Domain led Consulting and Forward deployed AI  
+ 
+We are progressively building a focused consulting organization with domain and AI expertise that can be embedded 
+directly with clients. By combining mature AI offerings and deep domain consulting with forward -deployed AI teams, 
+we will focus on ensuring o ur software and agentic stacks are successfully integrated into the mission -critical 
+workflows of the world's most complex enterprises.  
+This transformation will require a focused investment cycle over the coming year, which we will execute with 
+rigorous fi nancial and operational discipline. We are fundamentally reimagining our R&D model and software supply 
+chain by embedding AI -driven reasoning across every layer of the development lifecycle. This shift is designed to 
+progressively decouple headcount growth  from revenue growth, enabling scalable and more efficient value creation. 
+This transition may create some short -term capacity constraints, but it is a necessary step to reallocate capital and 
+talent toward our long -term strategic priorities. Our long -term  vision and goals remain firmly intact, and we remain 
+focused on building the organization to navigate near -term opportunities and disruptions while positioning 
+Aurionpro strongly for the future.”  
+ 
+About Aurionpro Solutions Limited  
+Aurionpro Solutions Ltd. (BSE: 532668 | NSE: AURIONPRO) is a global enterprise technology leader pioneering 
+intuitive -tech through deep -tech IPs and scalable products. With a strong presence across Banking, Payments, 
+Mobility, Insurance, Transit, Data Cent ers, and Government Sectors, Aurionpro is setting new benchmarks for AI 
+innovation and impact. It’s B2E (Business -to-Ecosystem) approach empowers entire ecosystems - driving growth, 
+transformation, and scale across interconnected value chains. Backed by 3, 000+ experts and a global -first mindset, 
+Aurionpro is built to lead the next. For more information v isit us at www.aurionpro.com   
+ 
+ For further information, please contact:  
+ 
+Adfactors PR ltd  
+Smit  Shah  / Hanishi Shah  
+Tel No: 9870789596 / 9619059339  
+Email: smit.shah@adfactorspr.com/  
+hanishi.shah@adfactorspr.com   Aurionpro Solutions Ltd  
+Mr. Ninad Kelkar  
+investor@aurionpro.com  
+www.aurionpro.com  
+ 
+ 

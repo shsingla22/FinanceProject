@@ -1,0 +1,568 @@
+
+=== page 1 ===
+ 
+ _________________________________________________________________________  
+              Rubicon Research  Limited  (Formerly  known as Rubicon Research Private Limited)  
+ 
+Registered  Office  & R&D Cent er Manufacturing Plant -I Manufacturing Plant -II  
+MedOne House, B -75, Road No. 33,  K-30/4 & 30/5 , Additional  M.I.D.C ., J-4/2, Additional M.I.D.C. , 
+Wagle Estate ,Thane - 400 604 , Ambernath ,Thane - 421 506  Satara - 415 004 ,  
+Maharashtra , India  Maharashtra , India  Maharashtra , India  
+Tel: 91 -22-61414000/50414000  Tel: 0251 -7139500  / 3501240  Tel: 02162 -240309  / 240463  
+Fax: 91 -22-61414021  Fax: 0251 -7139575  Fax 02162 -240331  
+  
+CIN: L73100MH1999PLC119744  Email:  rubicon@rubicon.co.in  Website:  www.rubicon.co.in   
+ February  3, 2026  
+ISIN - INE506V01022  
+ 
+Sub: Investor Presentation  
+ 
+Dear Sir/ Madam,  
+  
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we 
+are enclosing herewith the Investor Presentation dated February 3, 2026 . 
+ 
+A copy of the said presentation is also being uploaded on the Company’s  website at www.rubicon.co.in.  
+ 
+We request you to kindly take the above information on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Rubicon Research Limited  
+(Formerly known as Rubicon Research Private Limited)  
+ 
+ 
+ 
+Deepashree Tanksale  
+Company Secretary  & Compliance Officer  
+M. No. A28132  
+ 
+Encl.: As Above  To,  
+The Manager  
+Listing Department   
+BSE Limited , 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+Scrip Code:  544578  
+ To,  
+The Manager,  
+Listing Department , 
+National Stock Exchange of India Limited ,  
+Exchange Plaza, 5th floor, C-1 Block G,  
+Bandra Kurla Complex, Bandra (E ast),  
+Mumbai - 400051  
+Scrip Symbol: RUBICON  
+=== page 2 ===
+Rubicon Research Limited
+Investor Presentation
+Q3 FY 2025 -26
+
+=== page 3 ===
+2
+Notice to reader
+This presentation  may  contain  statements  that constitute  “forward -looking  statements”  within  the meaning  of applicable  laws  and regulations,  
+including  the Securities  and Exchange  Board  of India  (Listing  Obligations  and Disclosure  Requirements)  Regulations,  2015 . These  statements  relate  
+to the Company’s  future  business  prospects,  operations,  financial  performance,  and the industry  in which  it operates . Forward -looking  statements  
+are based  on current  expectations,  estimates,  and projections  about  future  events  and are subject  to risks,  uncertainties,  and assumptions  that 
+could  cause  actual  results  to differ  materially  from  those  expressed  or implied .
+Such  statements  include,  but are not limited  to, statements  regarding  product  development,  regulatory  approvals,  manufacturing  capabilities,  
+market  growth,  business  strategy,  and future  financial  results . Words  such  as “anticipate,”  “believe,”  “expect,”  “intend,”  “plan,”  “will,”  “may,”  
+“should,”  “estimate,”  “project,”  and similar  expressions  are intended  to identify  such  statements .
+The Company  undertakes  no obligation  to publicly  update  or revise  any forward -looking  statements,  whether  as a result  of new  information,  future  
+events,  or otherwise,  except  as required  under  applicable  law. Readers  are cautioned  not to place  undue  reliance  on these  forward -looking  
+statements,  which  speak  only  as of the date  of this presentation .
+This presentation  is for information  purposes  only  and does  not constitute  or form  part of an offer,  solicitation,  or recommendation  to purchase  or 
+subscribe  for any securities  of the Company,  nor should  it be regarded  as a substitute  for the exercise  of independent  judgment . The Company,  its 
+directors,  and its management  accept  no liability  whatsoever  for any loss arising  from  the use of, or reliance  on, the information  presented  herein .
+This presentation  is not intended  to endorse,  advertise,  promote  or recommend  the use of any products  that may  be listed  herein  which  are for 
+representation  purpose  only. Any product  information  contained  herein  is not intended  to provide  complete  medical  information  and is not 
+intended  to be used  as an alternative  to consulting  with  qualified  doctors  or healthcare  professionals . Nothing  contained  herein  should  be 
+construed  as providing  medical  advice  or recommendations  and should  not be relied  on as the basis  for any treatment  related  decision  or action . 
+=== page 4 ===
+Agenda
+Consolidated Financial Overview 4-11
+2 Company Overview
+312-211
+=== page 5 ===
+01Consolidated Financial Overview
+=== page 6 ===
+5
+Q3 Financial Highlights (₹ millions)
+Revenue from 
+Operations
+EBITDA
+ PAT
+4,755
+ 1,119
+ 728
+ Q3FY26
+3,134
+ 704
+ 381
+ Q3FY25
+51.7%
+ 59.0%
+ 91.2%
+ Y-o-Y
+=== page 7 ===
+6
+Summary Income Statement
+₹ in Million Q3 FY26 Q3 FY25 % Growth Q2 FY 26 9M FY26 9M FY25 % Growth
+Revenue from Operations 4,755 3,134 51.7% 4,120 12,400 9,261 33.9%
+Gross Margin 3,126 2,103 48.6% 2,773 8,329 6,462 28.9%
+Operating Pre -R&D EBITDA 1,604 960 1,406 4,156 2,881 
+Pre-R&D EBITDA (%) 33.7% 30.6% 34.1% 33.5% 31.1%
+R&D Expense 523 261 463 1,341 964 
+R&D Expense (%) 11.0% 8.3% 11.2% 10.8% 10.4%
+Operating EBITDA (A) 1,081 699 54.7% 943 2,815 1,918 46.8%
+Operating EBITDA Margin (%) 22.7% 22.3% 22.9% 22.7% 20.7%
+Other Income (B) 38 5 7 51 35 
+EBITDA ( A + B) 1,119 704 59.0% 950 2,867 1,953 46.8%
+EBITDA Margin % 23.5% 22.5% 23.1% 23.1% 21.1%
+PBT 906 532 70.4% 717 2,218 1,435 54.6%
+PAT 728 381 91.2% 539 1,700 981 73.2%
+EPS (Fully diluted) 4.41 2.46 79.1% 3.47 10.67 6.34 68.2%
+=== page 8 ===
+7
+Summary Balance Sheet 
+₹ in Million 31-Dec-25 31-Mar -25
+Shareholders  Funds 11,938 5,410 
+Borrowings 2,853 3,932 
+Sources of Funds 14,791 9,342 
+Fixed Assets 5,500 3,338 
+Cash & Cash Equivalents 3,338 1,162 
+Non -current Liabilities (net of assets) (115) (57)
+•Inventory (At Cost) 6,848 5,216 
+•Trade Receivables 4,700 3,238 
+•Trade Payables (3,587) (2,391)
+Other current Liabilities (net of assets) (1,893) (1,165)
+Net Working Capital 6,068 4,898 
+Application of Funds 14,791 9,342 
+Days of Net Working Capital 132 137 
+ROACE (Annualized, pre -tax) 34% 30%
+=== page 9 ===
+8
+Summary Cash Flow Statement
+₹ in Million 9M FY2026 Q3 FY2026 FY2025
+Cash flows from operating activities:
+Profit before tax 2,218 906 1,945 
+Non -Cash / Non operating items 704 144 934 
+Operating cash flows before working capital changes 2,922 1,050 2,879 
+Working Capital Changes (944) (239) (900)
+Cash generated from operating activities 1,979 810 1,979 
+Net Income tax paid (584) (460) (387)
+Net cash flow generated from operating activities 1,395 350* 1,592  
+Cash flows used in investing activities (3,400) ** (1,760) (648)
+Cash flows from / (used in) financing activities 3,268 *** 2,357 (398)
+Net increase in cash and cash equivalents 1,263 946 546 
+* After Income tax  payment of 46.3cr 
+* *Includes Pithampur acquisition of ₹ 149 cr,  Bank Deposits of ₹ 87 Crs, Capex of  ₹ 70crs & Investment in Gen1 life scince of ₹ 18 Cr
+***Net IPO proceeds  ~₹ 4,780 Mn , Net Debt repayment ~₹1,160 Mn
+=== page 10 ===
+9
+Q3 Performance Summary
+o52% revenue growth YoY , broad based as 
+oTop 5 products - 35% of revenue vs 30% in Q2 FY26 & 34% in Q1 FY26 
+oTop 10 products – 53% of revenue vs 51% in Q2 FY26 &  56% in Q1 FY26 
+oPricing continues to remain stable driven by our focus on specialty / differentiated products
+oStrong revenue visibility in coming quarters with % share of top 10 products likely to be at 
+most in early 60s 
+oUSD revenue of $53 mn for Q3 FY26, up by 46% YoY ($37mn Q3 FY25) and up 14% QoQ ($47 
+mn Q2 FY26). ~98% of our revenue is USD denominated
+oCash flow from operations for the quarter is INR 350 Mn* reflecting our culture of strong 
+focus on cash flow generation.  
+oReceived 9 product approvals in period 9M FY2026. Commercialisation rate continues to be 
+strong as 93% of approved products are commercialised
+oSpecialty portfolio’s contribution to gross profit for the quarter is 31.3%. Specialty focus 
+underpinned by a robust pipeline 
+Revenue Growth
+Cash Flow
+Approvals
+* After Income tax  payment of 46.3cr in Q3FY26 vs 12.4cr in H1FY26
+USD revenue
+=== page 11 ===
+10
+Q2 Performance Summary (continued)
+oSequential revenue traction in current quarter was stronger than anticipated which coupled 
+with own manufacturing capacity constraint led to a larger sequential increase in revenue 
+from outsourced manufacturing  vs our anticipation
+oThis led to sequential & yoy drop in GM % to 66.5% in current quarter. However, Operating 
+EBITDA margin at 22.7% remained in the same 22 -23% range as previous two quarters
+oRevenue traction might continue to be stronger than anticipation, which in turn would 
+require commensurate increase in revenue from outsourced manufacturing as compared to 
+what we had previously envisaged
+oSuch larger than anticipated reliance on outsourced manufacturing could bring GM% further 
+down but Operating EBITDA margin will sustain in current 22 -23% range even in that scenario
+oCompany is evaluating certain tactical measures with respect to own manufacturing , which 
+from a 2 -3 quarter perspective would reduce reliance on outsourced manufacturing and 
+hence be GM accretive even in the light of continued strong revenue traction
+oRamp up of Pithampur facility from Q1CY 27 is expected to further reduce reliance on 
+outsourced manufacturing and hence be further accretive to GM%. Pithampur is likely to get 
+operationalised in mid CY26
+Gross Margin
+and 
+EBITDA
+=== page 12 ===
+11
+R&D spends and their impact on revenue growth
+oR&D expenses were 11.0 % of operating revenue for Q3 FY26 
+oR&D spend is a lead indicator of future revenue in our business
+oWe measure R&D productivity as incremental Revenue to lagging total R&D spend ( given typical timeline involved for 
+R&D spend to translate into revenues)
+oIncremental Revenue multiple on lagging R&D spend has been on an increasing trend as explained below (3.3x FY 24, 
+4.1x - FY 25, 5.7x - annualised FY 26)
+5,399 9,691 12,770 
+2,999 8,398 
+2,930 12,621 
+3,764 16,533 
+ - 2,000 4,000 6,000 8,000 10,000 12,000 14,000 16,000 18,000 20,000
+FY21 FY24 FY22 FY25 FY23 YTD FY26
+Annualized
+R&D spend 
+(FY 20+FY21
++Q1FY22)= 
+1,654 m3.3xR&D spend 
+(FY 21+FY22
++Q1FY23)= 
+2,379 m4.1xR&D spend 
+(FY 22+FY23
++Q1FY24)= 
+2,261m m5.7x
+oCompany strives to maintain similar R&D productivity in the coming years which coupled with total expected R&D 
+spend of 500+ crs in FY26+Fy27+Q1FY28 gives strong visibility for FY29/30 & beyond
+oR&D spends are expected to remain at an industry leading 10 -11% of revenue for next several years ( even beyond 
+FY28) - policy of fully expensing R&D in P&L ac as in the past will always continueRevenue Incr. 
+RevenueIncr. 
+RevenueIncr. 
+Revenue
+*Arithmetic annualisation  of 9 month  revenue*
+=== page 13 ===
+02Company Overview
+=== page 14 ===
+13
+Rubicon Research – At a Glance
+An R&D driven, 
+formulations 
+manufacturing and 
+marketing company 
+focused on 
+regulated marketsSpecialty products, 
+drug -device 
+combinations and 
+complex genericsFull Spectrum 
+CapabilitiesWide basket of 74 
+active ANDAs and 9 
+active NDAs 
+approved across 
+multiple therapies1Robust Pipeline of 
+products under 
+review with US FDA 
+and under 
+developmentSales and marketing 
+capabilities for 
+branded  and non-
+branded  products in 
+the US market
+Branded, Specialty 
+& Complex 
+Generics PortfolioSpecialty products delivered 
+gross margin of INR 2,387.35 
+Mn- being 26.92% of total        
+gross margin in FY253 branded products - 
+Raldesy ®, Equetro ®, 
+Lopressor ® OS with no AB 
+rated generic alternatives1
+Experienced LeadershipFounded by seasoned professionals 
+with extensive leadership experience in 
+research and commercial operationsExperienced senior management team 
+with industry expertiseRobust 
+Manufacturing 
+Sites & R&D 
+Capabilities3 manufacturing sites for oral 
+solids, oral liquids, ointment  
+and drug -device combination 
+nasal spray  products2 USFDA inspected 
+R&D facilities  across 
+India and Canada•Ambernath  & Satara sites 
+inspected by multiple 
+global regulators, including 
+USFDA
+•Pithampur  site previously 
+inspected by USFDAFive approved nasal spray  
+drug -device combination  and 
+Three  products under USFDA  
+review
+1. As of Dec 31, 2025 
+=== page 15 ===
+14
+Our Evolution from a service provider to a specialty products company
+CDO
+1999 -2008•Contract development services
+•Purely fee -for-serviceCDMO
+2009 -13•Small volume manufacturing
+•Development & Out -licensing Gx + 
+Specialty
+2014 -21•Own ANDA revenues
+•Sales via third party distributorOwn front -end + Specialty products
+2022 onwards•Direct customer relationshipsBranded Specialty Products 
+2024 onwards
+Drug Device Combinations
+2023 onwards•Intra -nasal sprays
+=== page 16 ===
+15
+Decadal Financial Performance
+₹ in Million FY15 FY17 FY19 FY21 FY24 FY25 9M FY26
+Revenue from Operations 392 489 1,538 3,147 8,539 12,843 12,400
+Gross Margin -5* -1* 937 2,476 5,564 8,867 8,329
+Operating EBITDA Pre R&D 128 105 698 1,863 2,618 3,967 4,156
+•% of Operating Revenue 33% 22% 45% 59% 31% 30% 34%
+R&D Expense 17 19 385 946 1,072 1,325 1,341 
+•% of Operating Revenue 4% 4% 25% 30% 13% 10% 11%
+Operating EBITDA 111 86 314 917 1,546 2,643 2,815 
+•% of Operating Revenue  28% 18% 20% 29% 18% 21% 23%
+Net Profit after Tax 27 12 184 307 910 1,344 1,700
+ROACE %** 10% 3% 14% 20% 21% 30% 34%
+* Gross margin is on product sales which represented a small proportion of total sales in FY15 and FY17, the majority being s ervices income
+** Pre tax, on Average Capital, excluding Cash in hand
+=== page 17 ===
+16
+Long Track Record of Disciplined capital allocation and industry -
+leading capital efficiency in run up to Oct’25 IPO
+Sources of funds and deployment – FY2020 to Pre -IPO ( ₹ Millions )
+FY2024 FY2025 9M FY26
+ROACE (pre -tax) 21% 30% 34%•Limited equity capital raised – less than 
+USD 25 million since inception till 
+Oct’25 IPO
+•Entire R&D spend and most of growth 
+investments funded by internal accruals 
+•Debt financing mainly for working 
+capital
+4,963 6,712 6,526 
+R&D
+Working
+Capital
+Capex
+1,149 4,745 12,307 
+Equity Debt Internal accruals
+=== page 18 ===
+18
+Approvals, Sales and Distribution
+Number of products approved
+Number of products commercialized
+28556677
+FY23 FY24 FY25 9M FY26
+…Reduction in Product Concentration121412
+9
+FY23 FY24 FY25 9M FY26
+92.77% 
+commercialization 
+rate in the US as of 
+31 Dec 2025 
+(77 of 83)
+56% 46% 38% 32%77%68%59%51%
+FY23 FY24 FY25 9MFY26Top 5 products Top 10 products
+83 Active approved 
+products as of 
+31 Dec 2025
+Steadily broad -based 
+portfolio and growth 
+over timeUS Sales and marketing companies (wholly owned subsidiaries)
+Established marketing, sales, and 
+distribution platform in the US 
+markets non-branded 
+prescription products  to 
+customers who include 
+wholesalers, group purchasing 
+organizations and pharmacy 
+chains.
+Sales and marketing platform for 
+Rubicon’s branded prescription 
+products.
+As of 31 Dec 2025, Validus 
+markets 3 brands (Raldesy, 
+LopressorOS  and Equetro ) that 
+have no US FDA approved 
+substitutable generics. 
+=== page 19 ===
+19
+Wide ranging R&D capabilities backed by robust infrastructure
+•~38,000 sft facility in Thane 
+•3 separate laboratories for 
+general, sterile and potent 
+compounds
+•Various d osage  capabilities - 
+oral, injectable, ophthalmic, 
+topical
+•Most recent FDA inspection 
+in Mar 2025  with EIR 
+received in Apr 2025
+•~13,000 sft nasal & 
+inhalation center in Ontario
+•In-house analytical and 
+characterization capabilities 
+for drug -device 
+combinations
+•USFDA inspection in Oct -
+Nov 2023, EIR received in 
+Dec 2023
+> 190 scientists and 35 
+regulatory affairs 
+professionals  in a matrix 
+structure1Experienced R&D team in 
+developing regulatory strategy 
+for product approvalsSubject matter experts in 
+chosen focus areasUSFDA inspected R&D centres 
+in India & CanadaTeam of over 
+190+ 
+professionals
+1. As of Dec 31, 2025FDA FDA, Health Canada
+=== page 20 ===
+20
+Manufacturing facilities with a strong track record of compliance
+Oral Solid Dosages - Tablets, capsules, 
+dispersible  tablets, powders and hard 
+gelatin  capsules
+Drug device combination – Nasal SpraysAmbernath
+Oral Liquids Dosages – Oral syrups, 
+suspensions and solutionsSatara
+Indore
+Oral Solids Dosages for 
+-Hormones / Steroids
+-High Potency, incl Oncology  & 
+immunosuppressants
+Pithampur, Indore1USFDA inspected 
+Manufacturing SitesDosage FormsStrong Track 
+Record of 
+Compliance
+Topical OintmentsReceived 1st ANDA approval 
+from US FDA in Oct 2022 
+before pre -approval inspection
+Simultaneous inspection with 
+Ambernath  facilityAcquisition Completed on June 
+2025
+USFDA inspection in July 2022 
+and EIR issued in same month
+Jan 23
+Oral liquid
+VAI
+EIR 45 days
+July 22
+OSD
+EIR in 
+same 
+month
+Jan 23
+OSD
+VAI
+EIR 45 days
+Mar 24
+Unit dose 
+nasal spray
+NAI
+EIR 60 days
+Nov 24
+Multi dose 
+nasal spray
+NAI
+EIR 30 daysInspected 7 
+times by 
+USFDA
+1. This facility is not yet commercialized for operationsFDA, Health Canada, MHRA FDA, Health Canada, MHRA FDA
+=== page 21 ===
+21
+M&A initiatives have focused on adding new capabilities
+Impopharma  Canada 
+Ltd. 
+(FY 2020)
+•Ontario based 
+development center 
+for drug device nasal 
+spray products
+•USFDA & Health 
+Canada inspectedMeditab’s  Satara 
+manufacturing site 
+(FY 2022)
+•Oral liquids 
+manufacturing facility 
+in Maharashtra
+•Accredited by MHRA 
+UK and TGA Australia 
+•Inspected  by the 
+USFDA in January 
+2023Validus 
+Pharmaceuticals LLC 
+(FY 2024)
+•Portfolio  of 10 NDA -
+approved products , 
+including Equetro for 
+CNS therapy at the 
+time of acquisition
+•CVS products include 
+Lopressor® and 
+Lotensin HCT®
+AimRx  3PL LLC 
+(FY 2026)
+•US based provider of 
+logistic services to 
+pharmaceutical 
+companies with a 
+warehouse in East 
+Brunswick, NJ 
+•Licensed to distribute 
+prescription 
+pharmaceuticals in 45 
+statesAlkem’s  Pithampur 
+manufacturing site 
+(FY 2026)
+•US FDA inspected 
+production facility for 
+steroids, hormones  
+and high potency 
+products 
+•Total plot area of 
+125,000 m2 with built 
+up area of approx  
+16,000 m2Development Manufacturing Sales & Marketing Logistics & Distribution Manufacturing
+
+=== page 22 ===
+22
+Board of Directors
+Venkat Changavalli  l Independent Director
+◼Experience in the pharmaceutical sector
+◼Previously associated with Lupin Laboratories, Star Textile Engineering Works, Patel 
+Roadways and  Drachem  Specialty Chemicals
+Milind Patil l Independent Director
+◼Experienced finance professional with pharma industry experience
+◼Previously associated with Pfizer, Novartis Healthcare, Johnson and Johnson and 
+SiemensPratibha Pilgaonkar l Managing Director
+◼Focus primarily on the growth of R&D activities 
+◼Promoter , with 25 years of experience at Rubicon
+◼Previously associated with Sun Pharmaceutical Advanced research Center , Wyeth 
+Laboratories, Hindustan CIBA – GEIGY.Parag Sancheti l Executive Director & CEO
+◼Responsible for providing the organizational leadership and formulating the  growth 
+strategy
+◼12 years at Rubicon.
+◼Previously associated with Aavishkaar  Venture Management Services and Tata 
+Strategic Management Group
+Shantanu Rastogi l Non -Executive (Nominee) Director
+◼Experience in the financial services, technology, healthcare and consumer sectors
+Pradnya Saravade  l Independent Director
+◼Medical doctor, having done her MBBS and MS (General Surgery) & former 
+IPS officer
+◼Independent Director of Jio Finance Ltd & Jio Payments Bank
+Varun Talukdar l Non -Executive (Nominee) Director
+◼Experience in the finance sector.
+◼Previously associated with Bank of America Securities, Lehman Brothers Holdings 
+and Premji Invest
+K G Ananthakrishnan l Independent Director
+◼Experience in the pharmaceutical sector.
+◼Previously associated with Pfizer India, Pharmacia & Upjohn India and Schering 
+Plough India
+
+=== page 23 ===
+Thank YouRegistered office:  MedOne House, Plot No B75
+  Road No 33, Wagle Estate
+  Thane 400604, India
+Investor Contact:  investors@rubicon.co.in  

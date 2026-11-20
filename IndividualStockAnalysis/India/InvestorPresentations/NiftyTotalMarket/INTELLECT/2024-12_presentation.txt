@@ -1,0 +1,334 @@
+
+=== page 1 ===
+ 
+ Intellect/SEC/ 2024 -25                                                                                       December 19 , 2024  
+ 
+1. Natio nal Stock Exchange of India Limited , 
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block,  
+Bandra Kurla Complex,  Bandra (E),  Mumbai – 400 051.  
+ Scrip Symbol  : 
+INTELLECT  
+2. BSE Limited , 
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers,  
+Dalal Street, Fort, Mumbai – 400 001.  
+ Scrip Code :  
+538835  
+Dear Sir/Madam,  
+  
+Sub: Intimation under Regulation 30 of SEBI (Listing Obliga tions and Disclosure Requirements) 
+Regulations, 2015 – Presentation to the Analyst / Institutional Investors  
+ 
+In pursuance of Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, we are  enclosing herewith the presentation on 
+“Purple  Fabric  - Our Enterprise AI Platform ” for  analyst s/ institutional investors call scheduled 
+today , i.e., December 19, 2024,  as intimated by the Company on December 13, 2024 .  
+ 
+Kindly take the above informa tion on record  and confirm compliance.  
+ 
+Yours truly,  
+for Intellect Design Arena Limited  
+  
+ 
+ 
+ 
+V V Naresh  
+Company Secretary and Compliance Officer  
+ 
+ 
+ 
+Encl: As above  
+=== page 2 ===
+The Multi -Agent AI Platform 
+for Enterprise Operations 
+Transformation
+
+=== page 3 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+2
+The TAM for Purple Fabric is enormous
+Middle / Back office costs : 40% -46%BFSI Total Costs Incurred
+IT costs : 11% -17%
+New opportunity Space
+Improved 
+Customer 
+SatisfactionHyper -
+PersonalisationEnhanced Risk 
+and Compliance +
+
+=== page 4 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+3
+AIExpert Agents are the gig workers of the 
+knowledge economy
+Expert Agent=
+Memory
+ AI (LLM) Tools+ +
+
+=== page 5 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+4
+They form the base unit for operational transformation 
+-a digital twin of operations specialists
+IQ
+(Intelligence Quotient)EQ
+(Emotional Quotient)AQ
+(Action Quotient)
+Language understanding
+Knowledge Synthesis
+ReasoningMemoryContextual Awareness
+Empathy
+Adaptability
+ReflectionTool usage
+Multi -agent CollaborationCalendar
+Calculator
+Connectorse-mail
+Web search
+CRM…
+=== page 6 ===
+Purple Fabric Leverages the best of Thinking & 
+Doing Brain to deliver Customer Desirability
+DOING 
+BRAINPurple Fabric
+Expert Agents1. Knowledge 
+from Enterprise’s 
+Structured Data
+2. Knowledge 
+from Enterprise’s 
+Unstructured 
+Data3. Knowledge 
+from Enterprise’s 
+Policies & 
+Practices
+4. Knowledge 
+from Market/
+Public Data 
+ProvidersTHINKING 
+BRAIN
+5. Knowledge 
+from Regulation & 
+ComplianceData Ingestion
+(Structured & unstructured)
+Expert Agent
+(Structured & unstructured)Classification
+Multi -Agent 
+Network Contextual 
+Extraction
+DecisionTrusted Data
+ActionPF1 PF2 PF3 PF4
+PF5 PF6 PF7 PF8
+=== page 7 ===
+6
+Demo & Case Study:
+CLAIMS INVESTIGATION
+For a large financial service firm in UK
+In production multi -agent 
+system for claims investigation 
+& redressal.
+
+=== page 8 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+7
+Complaints/Claims is a universal problem. The 
+TAM for complaints in the UK itself is enormous.
+=== page 9 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+8
+Claims investigation (Wealth Advisory) is a 
+slow and manual process, with <30% of 
+cases being resolved within SLA timelines
+10,000+
+Active cases in 202450+ days
+average time to close a claim
++700 Receipts per week ~130 cases closed a week30% cases
+Resolved within SLA timelines
+=== page 10 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+9
+Why is this such a difficult process?
+●10+ Systems to 
+interact with and get  
+dozens of entities 
+extracted
+●Many single sources 
+of truthData gathering
+●No standardised 
+rubric to determine 
+result (Especially for 
+Advice)
+●Different regulations 
+and policies apply to 
+different Claims 
+(Service)Investigation
+●Complexity and time 
+to inference from 
+document 
+investigation, and the 
+resulting report 
+generationClaims Report Creation
+=== page 11 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+10
+Logging
+Verification
+Classification
+Evidence Gathering (10+ systems)
+Investigation
+Decision
+Report and Letter GenerationDigital
+Manual
+Manual
+Manual
+Manual
+Manual
+Manual
+ManualCASE 
+LOGGING
+(5-10 FTE)
+TRIAGE
+(5-10 FTE)Coordination
+Data 
+Gathering
+(50-100 FTE)
+Case 
+Handling
+(100 -150 FTE)Team & FTE * Yesterday Process
+Manual Complaint Details Extraction
+~400
+~400
+~700
+~200Capacity/wk *
+*This represents the average FTE for average capacity claims organisation for a wealth manager can process
+=== page 12 ===
+Team Structure of the Complaints Investigation  
+Multi -Agent Solution
+Complaints 
+InvestigationEvidence 
+GatheringReport 
+WritingComplaint 
+Details 
+Extractor
+Complaint 
+Logger
+Verification
+ClassificationComplaints 
+Manager
+Complaint Human in the Loop1)It tracks incoming complaints,
+2)Understands and classifies them,
+3)Creates a case dossier, 
+4)Runs a investigation, and 
+5)Adjudicates a decision with 
+human in the loop
+●13+ Agents
+●6 LLMs from different providers
+Collaborating together to achieve the 
+highest possible accuracy at optimal 
+cost
+=== page 13 ===
+5 weeks 
+→
+20 Minutes
+Operational 
+EfficiencyCustomer 
+SatisfactionTeam Structure of the Complaints Investigation  
+Multi -Agent Solution
+Complaints 
+InvestigationEvidence 
+GatheringReport 
+WritingComplaint 
+Details 
+Extractor
+Complaint 
+Logger
+Verification
+ClassificationComplaints 
+Manager
+Complaint Human in the Loop
+
+=== page 14 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+13
+Today Process
+Logging
+Verification
+Classification
+Evidence Gathering (10+ systems)
+Investigation
+Decision
+Report and Letter GenerationCoordinationComplaint Details Extraction
+Decision RecommendationAI AgentDigital
+Manual
+Manual
+Manual
+Manual
+Manual
+Manual
+ManualManual
+AI Agent
+AI Agent
+AI Agent
+AI Agent
+AI Agent
+AI Agent
+AI AgentAI Agent CASE 
+LOGGING
+(5-10 FTE)
+TRIAGE
+(5-10 FTE)
+Data 
+Gathering
+(50-100 FTE)
+Case 
+Handling
+(100 -150 FTE)Target State
+Team & FTE
+~400
+~400
+~700
+200Target State 
+Capacity/wk
+0
+0
+0∞
+∞
+∞
+10x
+=== page 15 ===
+14
+And claims is just one example of operations 
+transformation using multi -agent systems
+
+=== page 16 ===
+15
+Magic Submission 
+50,000+ specialist years saved / year
+9000 portfolio companies, 10 million+ documentsESG EDGE: Non -Financial 
+Corporate Intelligence
+iAPX87%
+Faster Intake50%
+Lower Cost
+98% Reduction
+In duplicates & Discrepancies3x ROI / 100% Invoices
+by checking 100% of invoices
+Trade Finance 
+Transaction Processing50% reduction 
+in Processing time85% increase
+In Operational Efficiency50% reduction
+In cost of Trade Finance Processing
+
+=== page 17 ===

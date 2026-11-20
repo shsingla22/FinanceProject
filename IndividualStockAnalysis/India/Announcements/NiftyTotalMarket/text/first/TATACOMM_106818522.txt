@@ -1,0 +1,258 @@
+ 
+ 
+Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India  
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001  
+Tel: +91 92289 18171 email: investor .relations@tatacommunications.com 
+CIN: L64200MH1986PLC039266 websit e: www.tatacommunications.com  
+HQ/CS/CL.24B/18526 
+October 15, 2026  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Mumbai – 400 051  
+SYMBOL: TATACOMM BSE Limited  
+P.J. Towers, Dalal Street,  
+Mumbai – 400 001 
+Scrip Code: 500483 
+ 
+Dear Sir / Madam,  
+Sub:  Outcome of Board Meeting held on October 15, 2026. 
+ 
+Pursuant to Regulations 30, 33, 51 and 52 of t he SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (‘SEBI Listing Regulations’), please note that the meeting of the 
+Board of Directors of Tata Communications Limited (‘the Company’) commenced today at                  
+10:30 hours IST and concluded at 13:45 hours IST. The major decisions taken at the meeting, amongst other things, are as follows:  
+ 
+(i) Unaudited Financial Results: 
+The Unaudited Standalone and Consolidated Financial Results of the Company for the 
+quarter and half-year ended September 30, 2026, approved and taken on record at the 
+meeting of the Board of Directors of the Company held t oday are enclosed as                  
+(Attachment A). We would like to state that M/s. S.R. Batliboi & Associates, LLP, Statutory 
+Auditors of the Company, have issued a Limited Review Report with an unmodified opinion 
+on the above-mentioned financial results (Attachment B) . A press release in this regard is 
+also enclosed (Attachment C). 
+ 
+(ii) Other Restructuring:  
+The Board of Directors has approved the transfer of the entire shareholding held by the 
+Company in Kaleyra, Inc., to Tata Communications (Netherlands) B.V. (‘TCNL’), a                    
+wholly- owned subsidiary of the Company. As consideration for the aforesaid transfer, the 
+Company shall subscribe to and acquire ordinary shares of TCNL at fair market value, as determined pursuant to an independent valuation report. The proposed transaction is 
+intended to simplify the Company’s existing group structure by consolidating ownership of 
+Kaleyra, Inc. under TCNL, without any change in the ultimate ownership and beneficial 
+economic interest of the Company in Kaleyra, Inc. and its subsidiaries.  
+ 
+Details as required under Regulation 30 of the SEBI Listing Regulations read with                    
+SEBI Master Circular dated January 30, 2026 are enclosed as (Attachment D). 
+ 
+ 
+ 
+ 
+Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India  
+Regd. Office: VSB Mahatma Gandhi Road Fort Mumbai – 400 001  
+Tel: 91 92289 18171 email: investor.relations@tatacommunications.com 
+CIN: L64200MH1986PLC039266 websit e: www.tatacommunications.com  
+ 
+(iii) Change in Key Managerial Personnel - Appointment of Company Secretary and 
+Compliance Officer 
+Based on the recommendation of the Nomination and Remuneration Committee, the Board 
+of Directors of the Company at its meeting held today, has appointed Ms. Ridhi Sood 
+(Membership No. A36109) as the Company Secretary (Key Managerial Personnel) and 
+Compliance Officer of the Company with effect from November 1, 2026.  
+ 
+Pursuant to Regulation 30(5) of the SEBI Listing Regulations read with the Company’s 
+‘Policy for Determination of Materiality of Events / Information for Disclosure’, the Company 
+Secretary is authorized to determine materiality of an event or information and for making 
+disclosures to stock exchanges. The contact details of the Company Secretary is available 
+on the website of the Company.  
+ 
+Details as required under Regulation 30 of the SEBI Listing Regulations read with                   
+SEBI Master Circular dated January 30, 2026 are enclosed as  (Attachment E). 
+ 
+The aforesaid documents are also placed on the website of the Company at 
+www.tatacommunications.com/investors . 
+ 
+This is for your information and records.   
+ Thanking you, 
+ 
+Yours faithfully,  
+For Tata Communications Limited  
+  
+   
+ 
+Zubin Adil Patel  
+Company Secretary and Compliance Officer   
+ 
+Encl: As Above 
+   
+ 
+ 
+ 
+ 
+ 
+Page 1of 18
+TATA COMMUNICATIONS LIMITED
+REGD. OFFICE:  VSB, M.G. ROAD, FORT, MUMBAI-400001.
+     (`in
+ crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF
+YEAR ENDED SEPTEMBER 30, 2026
+ParticularsFor the quarter ended For the half year endedFor the year 
+ended
+September
+30 2026June
+30 2026September
+30 2025September
+30 2026September
+30 2025
+(refer note 5)March
+31 2026
+(refer note 5)
+(Refer notes below) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1Income from operations 6,687.89 6,582.82 6,099.75 13,270.71 12,059.60 24,802.72
+2Other income/(loss), net 16.41 12.94 (17.24) 29.35 (0.14) 301.73
+3Total income (1 + 2) 6,704.30 6,595.76 6,082.51 13,300.06 12,059.46 25,104.45
+4Expenses
+a. Network and transmission expense 3,181.47 3,144.09 2,715.35 6,325.56 5,444.42 11,361.83
+b. Employee benefits expense 1,178.75 1,239.73 1,269.57 2,418.48 2,487.34 4,938.93
+c. Finance costs 197.91 185.90 201.96 383.81 378.49 761.60
+d. Depreciation and amortisation expense 740.94 739.44 678.78 1,480.38 1,344.47 2,826.74
+e. Other expenses 905.79 968.86 941.21 1,874.65 1,817.41 3,679.50
+Total expenses (4a to 4e) 6,204.86 6,278.02 5,806.87 12,482.88 11,472.13 23,568.60
+5Profit before exceptional items, tax & 
+share in profit of associates (3 - 4)499.44 317.74 275.64 817.18 587.33 1,535.85
+6Exceptional items (Refer note 2) (36.54) (106.36) (21.00) (142.90) (41.44) (97.96)
+7Profit before tax and share in profit of 
+associates (5 + 6)462.90 211.38 254.64 674.28 545.89 1,437.89
+8Tax expense/(benefit): (Refer note 6)
+a. Current tax 167.31 116.06 123.42 283.37 243.82 612.24
+b. Deferred tax (43.27) (30.05) (41.29) (73.32) (96.26) (180.62)
+9Profit before share in profit/(losses) of 
+associates for the period/year (7 - 8)338.86 125.37          172.51 464.23 398.33 1,006.27
+10Share in profit/(losses) of associates (3.25) 4.35 10.70 1.10 17.21 32.77
+11Profit after tax for the period/ year from 
+continuing operations (9 + 10)335.61 129.72 183.21 465.33 415.54 1,039.04
+12Loss on sale of subsidiary (refer note 5) - - - - (42.19) (42.19)
+13Loss after tax from discontinued operations - - - - (42.19) (42.19)
+14Profit for the period/year (11+13) 335.61 129.72 183.21 465.33 373.35 996.85
+Attributable to:
+Equity holders of the parent 341.03 134.23 183.06 475.26 373.04 1,001.57
+Non-controlling interest (5.42) (4.51) 0.15 (9.93) 0.31 (4.72)Attachment  A
+Page 2of 18
+(`in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR
+ENDED SEPTEMBER 30, 2026
+ParticularsFor the quarter ended For the half year endedFor the year 
+ended
+September 
+30 2026June
+30 2026September 
+30 2025September 
+30 2026September 30 
+2025
+(refer note 5)March
+31 2026
+(refer note 5)
+(Refer notes below) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+15Other Comprehensive Income/(loss) 
+(net of tax) (refer note 6)15.94 (36.55) 81.83 (20.61 ) 142.21 102.24
+Attributable to:
+Equity holders of the parent 13.49 (37.94) 81.75 (24.45) 142.11 91.79
+Non-controlling interest 2.45 1.39 0.08 3.84 0.10 10.45
+16Total Comprehensive income/(loss) for the period/year (14+15)351.5 5 93.17 265.04 444.72 515.56 1,099.09
+Attributable to:
+Equity holders of the parent 354.52 96.29 264.81 450.81 515.15 1,093.36
+Non-controlling interest (2.97) (3.12) 0.23 (6.09) 0.41 5.73
+17Paid up equity share capital (Face value of 
+`10 per share)285.09 285.02 285.00 285.09 285.00 285.00
+18Reserves excluding Revaluation reserve
+19Earnings per share (of ` 10/- each)
+(not annualised)
+Continuing operations
+(i) Basic (`) 11.96 4.71 6.42 16.67 14.57 36.62
+(ii) Diluted earnings per share (`) 11.94 4.70 6.41 16.64 14.54 36.56
+Discontinued operations
+(i) Basic (`) - - - - (1.48) (1.48)
+(ii) Diluted earnings per share (`) - - - - (1.48) (1.48)
+Continuing and Discontinued operations
+(i) Basic (`) 11.96 4.71 6.42 16.67 13.09 35.14
+(ii) Diluted earnings per share (`) 11.94 4.70 6.41 16.64 13.06 35.08
+Page 3of 18
+B. Consolidated Business Segment Information:
+i. Consolidated Segment wise revenue and results:                                                                                           
+                                                                                                                                                                                                                             ( `in crores)
+ParticularsFor the quarter ended For the half year endedFor the year 
+ended
+September 
+30 2026June 
+30 2026September 
+30 2025September 
+30 2026September 
+30 2025
+(refer note 5)March 
+31 2026
+(refer note 5)
+ (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+Income from operations
+Voice Solutions 370.04 381.95 405.96 751.99 800.50 1,561.23
+Data Services 5,810.99 5,703.58 5,204.47 11,514.57 10,356.19 21,440.61
+Transformation Services 190.11 194.59 286.74 384.70 510.75 959.34
+Real Estate 51.84 51.99 51.85 103.83 103.89 207.38
+Campaign Registry 277.76 258.70 202.54 536.46 391.92 844.30
+Less: Inter Segment Revenue (12.85) (7.99) (51.81) (20.84) (103.65) (210.14)
+Total 6,687.89 6,582.82 6,099.75 13,270.71 12,059.60 24,802.72
+Segment result
+Voice Solutions 18.13 20.61 34.93 38.74 72.31 116.16
+Data Services 425.74 250.56 313.59 676.30 552.88 1,180.51
+Transformation Services 47.89 44.38 45.08 92.27 88.36 170.37
+Real Estate 27.15 28.01 25.66 55.16 53.90 105.92
+Campaign Registry 162.03 147.14 75.58 309.17 198.51 422.76
+Total 680.94 490.70 494.84 1,171.64 965.96 1,995.72
+Less: 
+(i) Finance Costs 197.91 185.90 201.96 383.81 378.49 761.60
+(ii) Other un-allocable (income) 
+net of un-allocable expenditure20.13 93.42 38.24 113.55 41.58 (203.77)
+Profit before tax and share in 
+profit of associates462.90 211.38 254.64 674.28 545.89 1,437.89
+Page 4of 18
+ii.  Consolidated Segment Assets and Liabilities:
+                                                                                                                                                                                                              (`in crores)
+ParticularsAs at
+September 
+30 2026June 
+30 2026September 
+30 2025March 
+31 2026
+(Unaudited) (Unaudited) (Unaudited) (Audited)
+Segment Assets
+Voice Solutions 275.08 279.06 271.69 264.35
+Data Services 21,014.77 20,973.28 19,511.62 20,305.91
+Transformation Services 309.74 320.30 369.64 294.18
+Real Estate 222.77 228.13 231.72 225.09
+Campaign Registry 987.23 976.83 932.66 975.22
+22,809.59 22,777.60 21,317.33 22,064.75
+Unallocated Assets 6,201.07 6,049.69 5,886.96 6,339.19
+Total Segment Assets 29,010.66 28,827.29 27,204.29 28,403.94
+Segment Liabilities
+Voice Solutions 314.25 325.69 360.90 349.95
+Data Services 11,154.47 11,195.17 10,456.05 11,509.38
+Transformation Services 169.26 183.54 263.40 221.81
+Real Estate 74.89 69.84 67.06 67.77
+Campaign Registry 143.64 140.19 105.86 175.31
+11,856.51 11,914.43 11,253.27 12,324.22
+Unallocated Liabilities 13,555.00 13,171.99 13,099.67 12,428.62
+Total Segment Liabilities 25,411.51 25,086.42 24,352.94 24,752.84
+iii. Notes to Segments:  
+The Group’s (the Company and its subsidiaries together referred to as “the Group”) operating segments comprise of Voice 
+Solutions, Data Services, Transformation services, Real Es tate & Campaign Registry. The composition of the operating 
+segments is as follows:
+Voice Solutions includes International and National Long Distance Voice services.
+Data Services includes Core connectivity services and D igital platforms & connected  services. (Refer note 5).
+Transformation Services includes the business of providing  telecommunication network manage ment and support services. 
+These services are carried out by the Company’s wholly owne d subsidiary Tata Communications Transformation Services 
+Limited and its subsidiaries. 
+Campaign Registry includes the business of collecting robotic ally driven campaign information and processing and sharing 
+that information with mobile operators and the messaging ecosy stem to reduce spam. These services are carried out by the 
+wholly owned indirect subsidiary of the Company.
+Real Estate segment includes lease rentals for premises given on lease .

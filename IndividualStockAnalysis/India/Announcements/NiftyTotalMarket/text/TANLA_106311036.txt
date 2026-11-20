@@ -1,0 +1,1063 @@
+ 
+ 
+Date: July 24, 2025 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Madam/Sir, 
+ 
+Sub: Letter to Shareholders for quarter ended June 30, 2025. 
+ 
+With reference to the subject cited, we are enclosing herewith Letter to Shareholders  for quarter ended 
+June 30, 2025. 
+ 
+ 
+Request you to take the same on record and oblige. 
+ 
+Thanking you 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited  
+ 
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS-15519 
+ 
+Driving profitable growth with 
+AI-native innovation, global 
+expansion, and governance.
+ Q1 FY26 Shareholders’ Letter and ResultsBUSINESS REVIEW
+Financial Performance
+Message from Chairman
+Management Discussion Q&A
+Quarterly Disclosures
+Policies
+Deep-Dive Charts   03
+04
+09
+11
+18
+22Table of Contents
+3 Shareholder Report   Q1 FY26Digital Platforms
+Enterprise CommunicationsRevenue  
+₹ 919 Mn  
+6.0% YoY Growth
+Revenue  
+₹ 9 ,488 Mn  
+3.6% YoY growthGross Profit 
+₹ 905 Mn  
+5.8% YoY growth
+Gross Profit 
+₹ 1,702 Mn  
+17 .9% Gross MarginEBITDA
+₹ 693 Mn  
+75.4% Margin 
+EBITDA
+₹ 946 Mn  
+10.0% MarginFinancial Performance Q1 FY26
+Revenue 
+₹ 10,407 Mn
+3.8% YoY GrowthGross Profit 
+₹ 2,607 Mn  
+25.0% Gross MarginEBITDA 
+₹ 1,639 Mn  
+15.8% EBITDA Margin e-grew
+PAT 
+₹ 1,184 Mn  
+11.4% MarginEPS
+₹ 8.82 Per ShareCash and Cash equivalents 
+₹ 9 ,104 Mn
+Post divident payout
+Our AI-native platform will go live in August 2025 with a leading telco in Southeast Asia, deepening our 
+inroads into international markets. Built on scalable AI infrastructure with an agentic layer, the platform 
+will be seamlessly embedded in the telco ecosystem. Early feedback has been encouraging, and I am 
+confident this will unlock new opportunities for long-term shareholder value creation.
+Invitation to conference
+Tanla will host a conference call and live webcast to discuss the financial results on July 25, 2025 at
+3.30 PM IST.  Watch the presentation at https://bit.ly/44mBWPj
+India                          
+United Kingdom       
+United States           :   +91 22 6280 1137 / +91 22 7115 8038
+:   08081011573
+:   18667462133Hong Kong              
+Singapore:   800964448
+:   8001012045- Uday Reddy, Founder Chairman & CEO• First deployment of AI native platform for mobile carriers and enterprises with a telco in Southeast Asia; 
+commercial launch in Q2 FY26
+• Completed MaaP platform deployment for RCS across two Southeast Asian telcos
+• Appointment of Anubhav Batra as Chief Financial Officer effective 28th July 2025
+• Appointed Mr. Sunil Bhumralkar as an Independent Director to the Board
+• Announced a buyback of ₹175 Cr at ₹875 per share through the tender route mechanism; and expected to 
+close by end of August 2025Significant Events
+4 Shareholder Report   Q1 FY26Message from Chairman
+“Over the last few years, Tanla 
+has been a consistent leader 
+in the ever-evolving world of 
+digital interactions. Innovation 
+at Tanla is driven by a singular 
+purpose, to create measurable 
+impact for telcos, enterprises, 
+and end users. Telcos today 
+sit on vast volumes of rich 
+data; data that is complex, 
+siloed, and scattered across 
+systems such as networks, billing 
+platforms, devices, CRMs, and 
+mobile apps which creates 
+multiple opportunities.
+Our investments in AI/ML talent 
+over the past two quarters 
+are beginning to yield results 
+and I am excited to share an 
+interesting update. We have 
+been developing AI-native 
+platforms tailored for both 
+mobile carriers and enterprises. 
+Our first application built 
+on this platform has been 
+deployed with a leading telco in 
+Southeast Asia and is set to go 
+live in August 2025, deepening 
+our inroads into international 
+markets.
+The platform leverages a 
+scalable AI infrastructure 
+and has an agentic layer, 
+and we are building multiple 
+applications on top of it. This 
+deployment will be deeply 
+embedded in the telco 
+ecosystem, spanning across the 
+telco network, CRM applications 
+with 20+ integrations and a 
+reach of 50 Mn mobile handset 
+users. I am encouraged by the 
+early results and confident that 
+this will unlock new use cases for 
+telcos and enterprises.
+Let me explain how this will 
+translate into financial outcomes 
+for us. The deployment is a multi-year contract and exhibits 
+all the characteristics of a 
+SaaS business model, highly 
+predictable, recurring revenues, 
+led by IP and high gross margin 
+profile.
+While our innovation team 
+is focused on delivering AI-
+led platforms and solutions, 
+our GTM teams are obsessed 
+with creating value for our 
+customers. We are deeply 
+integrated with our customer 
+ecosystem and remain focused 
+on increasing wallet share, 
+winning new logos, and being 
+the partner of choice in the OTT 
+space in India. We have deep 
+customer relationships, with 17 
+customers contributing over 
+₹500 Mn in revenue, up by 9% 
+QoQ and 23% YoY.
+We delivered two consecutive 
+quarters of revenue growth, with 
+revenue up by 1.6% QoQ and 
+3.8% YoY to ₹10,407 Mn in Q1 
+FY26. On the profitability front, 
+EBITDA and PAT margins 
+held steady, reflecting 
+continued operating 
+discipline. In line with our 
+dividend policy, we paid 
+an interim dividend of 
+₹808 Mn and announced 
+a buyback of ₹1,750 Mn.
+As I have consistently 
+shared, our ambition 
+is not just to build a 
+great business, but to 
+build a great institution 
+grounded in the highest 
+standards of governance. 
+I am excited to welcome 
+Mr. Sunil Bhumralkar to our 
+Board. His deep expertise 
+in assurance, financial 
+reporting, and corporate 
+governance will help us further raise the bar as we 
+continue to expand globally.
+I am confident that my team 
+and I are fully committed to 
+drive innovation and profitable 
+growth.
+Thank you for all the support.”
+Uday Reddy
+Founder Chairman & CEO
+
+5 Shareholder Report   Q1 FY26Q1What are the key focus 
+areas you are prioritizing 
+in your role at Tanla?
+At Tanla, my focus is on building AI Native 
+platforms that are context-aware, agentic, and 
+self-improving. We’re building a future where our 
+platforms don’t just respond, they anticipate, 
+learn, and adapt in real time. 
+This transformation is driven by three pillars: 
+embedding Generative AI, establishing 
+Responsible AI frameworks to ensure fairness, 
+transparency, and compliance, and advancing 
+a robust patent pipeline that secures our 
+innovation edge. Equally important is building 
+talent, we’re investing in upskilling our teams 
+and nurturing an innovation-first culture through 
+dedicated AI labs. 
+At Tanla, we’re not merely keeping pace with 
+change, we’re shaping what the next era of 
+trusted digital communication will look like.
+Q2How is Tanla 
+approaching the 
+responsible use of AI to 
+enhance trust and transparency?
+At Tanla, Responsible AI isn’t a checkbox, 
+it’s a core design principle . Every system we 
+build is governed by a zero-trust architecture , 
+emphasizing verification, explainability, and 
+regulatory compliance.
+Each AI-driven decision is designed to be 
+transparent, interpretable, and aligned 
+with user expectations. We’ve embedded 
+strong governance mechanisms and ethical 
+safeguards across all stages, from model 
+development to deployment. Trust, privacy, and 
+security  are not just compliance obligations; 
+they’re the foundation of how we innovate and 
+operate.
+Q3What are the key 
+focus areas you 
+are prioritizing 
+in your role at Tanla?                                              
+We’re entering AI’s most exciting and 
+transformative chapter. The next frontier is multimodal intelligence , where voice, vision, and 
+text converge to deliver deeply human, intuitive 
+experiences.
+I see four key principles defining this future:
+These principles guide Tanla’s product roadmap 
+as we move toward building platforms that are 
+not just AI-enabled, but AI-powered at their 
+core.
+Q4Could you walk us 
+through your role at 
+Tanla and what you're 
+most excited about?
+My role at Tanla is to architect an AI-first 
+future , where intelligence is embedded 
+from the ground up, not layered on top of 
+legacy systems. This means transforming how 
+we approach fraud detection, enterprise 
+messaging, and customer engagement.
+What excites me most is the opportunity to 
+reimagine the user experience , by bringing 
+adaptive intelligence  to the point of interaction. 
+Tanla is uniquely positioned to lead this shift, 
+not just through technology, but through secure, 
+seamless, and scalable platforms that redefine 
+how trust is built and sustained in digital 
+communications.Tanla Talks
+AI-native platforms that are 
+intelligent by design, not retrofitted 
+after the fact
+Self-learning models  that evolve 
+with usage and feedbackAgentic AI systems  that operate 
+autonomously and adapt 
+contextually
+Autonomous decision-making , 
+minimizing the need for human 
+intervention
+6 Shareholder Report   Q1 FY26Q5What do you see as the biggest opportunity or challenge for AI?
+The greatest opportunity lies in agentic AI and decision intelligence , systems that 
+can autonomously execute complex decisions and scale enterprise workflows without 
+manual oversight. This is the tipping point for enterprise transformation.
+However, greater autonomy must be matched with greater responsibility. The real challenge is building 
+and enforcing governance frameworks and ethical guardrails  that ensure AI systems act within legal, 
+social, and human boundaries. The future of AI leadership will be defined by those who can balance 
+innovation with integrity , and that is the space Tanla is committed to leading.
+Leadership Perspectives
+What advice would you give to professionals building careers in the 
+age of AI?
+Mastering AI today goes far beyond learning tools, it’s about developing the  intellectual 
+rigor  to challenge, refine, and elevate machine outputs. As AI takes over 60–70% of 
+foundational tasks in fields like software development and data science, true value will 
+come from domain expertise, creativity, and critical thinking.
+And this isn’t just about technical roles. Whether in product, marketing, finance, or 
+operations, professionals who combine strategic clarity with analytical depth  will lead in 
+an AI-native world. In an age of increasingly multimodal intelligence , surface-level fluency 
+won’t suffice. Enduring impact will come from those who go deep and engage with purpose.
+Sandeep Kapoor
+Chief AI & Data Analytics Officer
+And finally, the timeless question: Will AI replace human jobs?
+AI will fundamentally change the nature  of work, not eliminate the need  for human 
+contribution. Repetitive, structured tasks will increasingly be automated, but context, 
+empathy, judgment, and imagination remain uniquely human strengths.
+The future belongs to those who 
+treat AI not as a threat but as a 
+collaborator , a force multiplier for 
+insight, creativity, and impact. It’s 
+not about man vs. machine. It’s 
+about man and machine , working 
+together intelligently, responsibly, 
+and at scale.
+
+7 Shareholder Report   Q1 FY26
+Client Overview: Freo
+Freo, India’s leading credit-l ed neobank, is revolutionizing how millions manage their financial lives. 
+Serving over 1 million customers across 1,200+ cities and 16,000+ pin codes, Freo offers a unified 
+platform for intelligent credit solutions, savings, UPI payments, and insurance — all driven by data 
+science and hyper-personalization.
+The Challenge: Breaking Through Traditional Engagement Barriers
+Freo sought to overcome key limitations of other communication channels:
+The Goal:  Identify a smarter, cost-efficient channel that resonates with India’s next-gen, mobile-savvy 
+users, delivering personalized engagement at scale.
+The Solution: High-Impact Engagement via Truecaller Business Messaging
+Freo activated Truecaller’s Business Messaging Solution , unlocking a new era of performance 
+marketing through:
+Freo harnessed Truecaller’s capabilities to reimagine campaign execution, optimizing every touchpoint 
+from content formatting to timing and targeting.Case Study
+Freo & Truecaller: Redefining Credit Engagement 
+for Mobile-First India
+Personalized 
+communication tailored 
+to mobile behaviours.Real-time delivery, 
+engagement metrics, 
+and campaign-level 
+optimizations.Inconsistent message 
+delivery and declining 
+read rates.Diminishing engagement 
+among digital-native 
+users.The need for scalable, 
+mobile-first, performance-
+driven communication.
+Verified, branded 
+messaging with sticky 
+notifications  for superior 
+visibility.
+8 Shareholder Report   Q1 FY26The Results: Transformational 
+Business Outcomes
+Truecaller outperformed traditional channels 
+across every key performance indicator:
+MetricTraditional 
+ChannelsTruecaller 
+Channel
+Message Deliverability 60–70% ~90%
+Read Rates 6–10% 18–21%
+Click-Through Rates <1–2% 3–5%
+Partnering with Tanla to activate 
+Truecaller as a promotional channel 
+has been a game-changer. With 
+~90% deliverability, 18–21% read 
+rates, and up to 5% CTR, we’ve seen 
+a measurable uplift. The hands-on 
+support from Tanla in campaign 
+optimization was instrumental. We look 
+forward to scaling further with new use 
+cases
+Hitarth Saini, CMO, Freo
+
+9 Shareholder Report   Q1 FY26Q1How did the business 
+perform across key metrics 
+in Q1?
+We delivered two consecutive quarters of revenue 
+growth. Revenue grew 1.6% QoQ and 3.8% YoY 
+to ₹10,407 Mn in Q1 FY26. The YoY growth was 
+led by both Digital Platforms and Enterprise 
+Communications, while the sequential growth was 
+led by OTT channels. 
+Gross profit for Q1 FY26 was at ₹2,607 Mn, with a 
+gross margin of 25.0%. On the profitability front, 
+EBITDA was at ₹1,639 Mn, with an EBITDA margin 
+of 15.8%. Operating expenses for the quarter were 
+₹967 Mn. The increase in indirect costs was offset by 
+gains from foreign exchange fluctuations. PAT was 
+at ₹1,184 Mn, with earnings per share at ₹8.82. Our 
+operating cash flow was ₹64 Mn impacted by softer 
+cash collections.
+From a channel performance standpoint in Q1 
+FY26, OTT continued its strong growth momentum, 
+contributing 32.3% to the overall revenue. 
+Q2Can you breakdown Digital 
+Platforms performance for 
+Q1?
+In Q1 FY26, Digital platforms contributed 8.8% to 
+overall revenue. Digital platforms revenue grew by 
+6.0% YoY and declined by 2.0% QoQ to ₹919 Mn. 
+Gross profit grew by 5.8% YoY and declined by 2.3% 
+QoQ to ₹905 Mn. The growth in both revenue and 
+gross profit on YoY basis was driven by Wisely ATP 
+and Messaging-as-a-Platform (MaaP) for RCS. 
+We have deployed AI Native Platform with a 
+leading telco in southeast Asia and is commercially 
+expected to go live in Q2 FY6. The deployment 
+is a multi-year contract and exhibits all the 
+characteristics of a SaaS business model, highly 
+predictable and recurring revenues, led by IP and 
+high gross margins. In parallel, MaaP platform 
+deployment for RCS have been completed across 
+two Southeast Asian telecom operators. revenue 
+ramp-up anticipated from Q2 FY26.Q3Can you please 
+elaborate on Enterprise 
+Communications 
+performance? 
+In Q1 FY26, Enterprise Communications contributed 
+91.2% to overall revenue. Enterprise Communications 
+revenue grew by 3.6% YoY and 2.0% QoQ to ₹9 ,488 
+Mn driven by growth in the OTT channels. Gross 
+profit grew by 2.4% QoQ and declined by 7 .5% YoY 
+to ₹1,702 Mn in Q1. The decline on YoY basis can be 
+attributed to lower average price realization in SMS.
+ 
+WhatsApp revenue grew by 60.9% YoY in Q1 FY26.  
+We are also scaling our RCS business in India and 
+delivered over five billion RCS messages during the 
+quarter.
+Q4Can you provide some 
+insights on customer 
+cohorts?
+We have implemented a highly aggressive 
+campaign to acquire new customers. Our efforts 
+have resulted in the addition of customers across 
+various segments, and we anticipate their scaling 
+within a timeframe of 6-8 months. We have 
+added 99 new logos, 59% of new additions are on 
+WhatsApp and RCS. The revenue contribution from 
+these newly acquired customers amounts to ₹77 Mn 
+in Q1 FY26. The customers onboarded during the 
+trailing twelve months (TTM) have added ₹393 Mn 
+in Q1 FY 26. The number of customers contributing 
+more than ₹500 million in annualized revenue 
+increased by 23% year-over-year and 9% on a 
+sequential basis, reaching ₹4,996 million.
+Q5Can you provide QoQ 
+indirect cost walk?
+Indirect expenses increased by 1.5% QoQ to 
+₹967Mn. Indirect cost was at 9 .3% of revenue 
+and 37 .1% of gross profit. Gross profit to EBITDA 
+conversion at 62.9%. The increase in employee 
+cost were due to salary increments, new hires and 
+performance linked RSUs. Our hiring efforts were 
+focused primarily on expanding capabilities in AI/
+ML product development and GTM. The increase in Deep-Dive Chart
+Deep-Dive ChartManagement Discussion
+10 Shareholder Report   Q1 FY26other expenses was offset by foreign exchange 
+fluctuation gain. 
+Q6Can you give a view on 
+Effective tax rate (ETR)?
+The ETR for Q1 FY26 is 19 .7%. The tax contribution 
+to the exchequer in Q1 was ₹1,264 Mn. These 
+contributions include corporate income taxes 
+and contributions by way of withholding taxes 
+and indirect taxes such as GST in India.
+Q7Can you provide 
+some information on 
+intangible assets under 
+development?
+The net carrying value of the intangible assets 
+under development (IAUD) was at ₹986 Mn. IAUD 
+represents platforms and software currently 
+being developed internally. Their cost includes 
+salaries, wages, and professional consultancy 
+charges attributable to development.
+Q8Could you provide 
+information 
+on cashflows?                     
+We generated operating cash flows of            
+₹64 Mn in Q1 FY26. Cash collections during the 
+quarter were softer compared to Q4 FY25, 
+impacting our Days Sales Outstanding (DSO) 
+and free cash flow. DSO stood at 91 days, and 
+we reported a negative free cash flow of ₹309 
+Mn for the quarter. Cash flow from financing 
+activities primarily reflects the interim dividend 
+payout of ₹808 Mn for FY25.
+Q9What is the cash 
+balance at the end of Q1 
+FY26?
+The cash balance stood at ₹9 ,104 Mn post 
+payment of interim dividend of ₹6 per share 
+with a total dividend payout of ₹808 Mn. On a quarterly basis, independent bank balance 
+confirmations are obtained by our statutory 
+auditors for 100% of our cash balance. Restricted 
+cash is held as margin money deposits given for 
+bank guarantees and cash credit limits.
+Q10Can you provide 
+an update on the 
+current buyback 
+program?
+We announced a buyback program of up to 
+₹175 Cr at ₹875 per share through the tender 
+route and the resolution was approved by 
+shareholders on July 17 , 2025. The buyback is 
+expected to be completed during Q2 FY26.
+Q11Can you share 
+an update on the 
+acquisition of the 
+ValueFirst International business?
+The overseas acquisition of entities is yet to 
+be completed, as we are awaiting regulatory 
+approvals. As informed earlier, the management 
+team of ValueFirst will be incentivized for 
+performance through an RSU grant of 
+approximately ₹400 Mn in ValueFirst. This 
+grant is currently getting amortized as part of 
+employee cost.Deep-Dive ChartDeep-Dive Chart
+Deep-Dive ChartDeep-Dive Chart
+11 Shareholder Report   Q1 FY26Annexure- 1 Quarterly Disclosures
+(In ₹ Mn, unless otherwise stated)Three months Ended 
+Jun 30 (Unaudited)Twelve months Ended 
+Mar 31 (Audited)
+Q1 FY26 Q1 FY25 FY25
+Revenue from operations  10,407  10,022  40,277 
+Gross profit  2,607  2,694  10,507 
+Gross margin 25.0% 26.9% 26.1%
+EBITDA  1,639  1,886  6,908 
+EBITDA margin 15.8% 18.8% 17 .2%
+EBITDA/Gross profit 62.9% 70.0% 65.7%
+EBIT  1,368  1,658  5,931 
+EBIT margin 13.1% 16.5% 14.7%
+Interest Income  80  67  272 
+Interest yield 6.4% 5.9% 6.5%
+Profit after tax  1,184  1,412  5,073 
+Profit after tax margin 11.4% 14.1% 12.6%
+Free cash flow  (309)  74 4  5,145 
+Earnings per share (In INR)  8.82  10.50  37 .76 
+EBITDA per share (In INR)  12.21  14.02  51.32 
+Cash and Cash equivalents  9 ,104  7 ,231  1,009 
+ROCE - (Including CCE) 23.2% 31.0% 25.6%
+ROCE - (Excluding CCE) 36.8% 46.8% 41.2%
+DSO days  91  83  74 
+Average number of employees  993  1,028  993 
+12 Shareholder Report   Q1 FY26CONDENSED CONSOLIDATED INCOME STATEMENT 
+(In ₹ Mn, unless otherwise stated)Three Months Ended 
+Jun-30 (Unaudited)Twelve months Ended
+Mar-31 (Audited)
+ Q1 FY26  Q1 FY25  FY25 
+Revenue from operations 10,407 10,022 40,277
+Cost of services (7 ,800) (7 ,328) (29 ,770)
+Gross profit 2,607 2,694 10,507
+Operating expenses (967) (808) (3,599)
+EBITDA 1,639 1,886 6,908
+Depreciation (271) (228) (978)
+EBIT 1,368 1,658 5,931
+Finance cost (13) (16) (60)
+Other income 120 96 402
+Profit before tax 1,474 1,739 6,273
+Tax expenses (290) (327) (1,200)
+Profit after tax 1,184 1,412 5,073
+Earnings per share (In ₹ ) 8.82 10.5 37 .76
+CONDENSED CONSOLIDATED BALANCE SHEET 
+(In ₹ Mn, unless otherwise stated)Jun 30,2025 (Unaudited) Mar 31,2025 (Audited)
+ASSETS
+Property, plant and equipment  2,203  2,289 
+Platforms  1,281  1,376 
+Customer Relationships  228  242 
+Brands  15  19 
+Non-Compete  13  14 
+Technology & Software  413  267 
+Intangible assets under development  986  845 
+Goodwill  2,646  2,646 
+Right-of-use-lease assets  491  523 
+Capital work in progress  62  50 
+Investment Property  16  16 
+Financial assets  179  271 
+Deferred tax assets (net)  452  463 
+Other non-current assets  1,073  826 
+Total non-current assets  10,058  9 ,847 
+Trade receivables  10,472  8,378 
+13 Shareholder Report   Q1 FY26Investments  318  1,199 
+Cash and bank balances  8,746  8,807 
+Other Financial assets  4,916  4,850 
+Other current assets  289  296 
+Total current assets  24,741  23,530 
+TOTAL ASSETS  34,799  33,377 
+EQUITY AND LIABILITIES
+(In ₹ Mn, unless otherwise stated)Jun 30,2025 (Unaudited) Mar 31,2025 (Audited)
+EQUITY AND LIABILITIES
+Equity share capital  135  135 
+Other equity  22,993  22,548 
+Total equity  23,128  22,683 
+Non current liabilities
+Financial Liabilities     
+Lease liabilities 452  481 
+Other financial liabilities -  -   
+Provisions 30  32 
+Other non-current liabilities 15  13 
+Total Non Current Liabilities 497  526 
+Current liabilities
+Financial liabilities
+Trade payables 6,202  5,746 
+Lease liabilities 159  159 
+Other financial liabilities 3,898  3,567 
+Other current liabilities 197  256 
+Short term provisions 137  143 
+Liabilities for current tax (net) 581  297 
+Total Current liabilities 11,174  10,169 
+TOTAL EQUITY AND LIABILITIES  34,799  33,377 
+14 Shareholder Report   Q1 FY26CONDENSED CONSOLIDATED STATEMENT OF SHAREHOLDERS’ EQUITY  
+(In ₹ Mn, unless otherwise stated)Share 
+capitalReservesRetained 
+earningsOther con-
+tributionsTotal
+Opening balance 01 April 2024  134  2,584  16,303 396  19 ,417 
+Profit for the period  5,073  5,073 
+Other comprehensive income 4 4
+Issue of equity shares 0 (75) (74)
+Shares bought back  -   
+Dividend paid (1,614) (1614)
+Others (123) (123)
+Closing balance 31 March 2025 135  2,386  19 ,761 400  22,683 
+Opening balance 01 April 2025  135  2,386  19 ,761  400  22,683 
+Profit for the period  1,184  -    1,184 
+Other comprehensive income  13  13 
+Issue of equity shares  -    -    -    -    -   
+Shares bought back  -   
+Dividend paid (808) (808)
+Others 57 0 57
+Closing balance 30 June 2025  135  2,443  20,137  413  23,128 
+15 Shareholder Report   Q1 FY26CONDENSED STATEMENT OF CASH FLOWS 
+(In ₹ Mn, unless otherwise stated)Q1 FY26 
+(Unaudited)Q1 FY25 
+(Unaudited)FY25 
+(Audited)
+Cash flow before changes in working capital 1,667 1,901 7,0 0 1
+Changes in working capital (1,385) (1,302) 311
+Cash generated from operations 282 599 7 ,312
+Taxes (218) 299 (891)
+Cash flow from operating activities 64 898 6,421
+Net investments in tangible and intangible assets (373) (154) (1,276)
+Purchase/(Sale) of Investments in Subsidiary/associate - - - 
+Purchase/(Sale) of Investments in Short-term Liquid Funds 894 - (1,120)
+Interest and other income received 163 66 134
+Movement in bank balances 40 (199) 59
+Cash flow from investing activities 724 (287) (2,203)
+Issue of shares - - 1
+Purchase of Treasury shares 2 - (299)
+Dividend paid during the year (808) - (1,614)
+Payment and Interest paid on lease liabilities (43) (42) (170)
+Borrowings - - - 
+Cash flow from financing activities (849) (42) (2,082)
+Cash flow for the period (61) 568 2,136
+Cash, cash equivalents at the 
+beginning of period10,085 6,671 6,671
+Forex Fluctuations - (5) - 
+Cash and cash equivalent - 8,807
+Fixed deposits having maturity greater than 12 months (40) 338 79
+Investments in liquid assets (880) 1,200
+Cash, cash equivalents closing balance 9 ,104 7 ,572 10,085
+16 Shareholder Report   Q1 FY26Annexure- 2 Quarterly Trends
+Key financial  
+ratiosQ1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+Revenue growth 13.9% 18.5% 15.3% 20.6% 10.0% (0.8%) (0.2%) 1.9% 3.8%
+Gross margin % 26.5% 2 7. 4% 26.9% 26.7% 26.9% 26.2% 26.1% 25.3% 25.0%
+EBITDA margin % 20.0% 19 .5% 19 .2% 16.0% 18.8% 17 .5% 16.3% 16.0% 15.8%
+EBIT margin % 18.2% 17 .3% 16.9% 13.7% 16.5% 15.2% 13.9% 13.3% 13.1%
+Profit after tax margin % 14.9% 14.1% 14.0% 13.0% 14.1% 13.0% 11.8% 11.5% 11.4%
+Free cash flow 869 1310 640 1492 74 4 520 2,165 1,715 (309)
+Day sales outstanding 67 75 77 76 83 90 82 72 91
+ROCE (Including CCE) 38.4% 38.5% 34.7% 32.5% 31.0% 28.0% 24.2%  25.6%   23.2%
+ROCE (excluding CCE) 71.8% 55.0% 50.8% 49. 6% 46.8% 41.5% 34.3%   41.2% 36.8%
+Revenue (In ₹ Mn)Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+Platform  879  953  958  900  868  880  955  938  919 
+Enterprise  8,232  9 ,133  9 ,068  9 ,155  9 ,154  9 ,127  9 ,049  9 ,306  9 ,488 
+Total  9 ,111  10,086  10,026  10,055  10,022  10,007  10,004  10,244  10,407 
+Gross profit 
+(In ₹ Mn)Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+Platform  851  931  934  884  856  868  943  926  905 
+Enterprise  1,562  1,831  1,765  1,802  1,838  1,750  1,663  1,662  1,702 
+Total  2,413  2,762  2,699  2,686  2,694  2,618  2,607  2,588  2,607 
+Gross margin Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+Platform 96.8% 97 .7% 97 .5% 98.2% 98.7% 98.7% 98.7% 98.7% 98.5%
+Enterprise 1 9.0% 20.0% 19 .5% 19 .7% 20.1% 19 .2% 18.4% 17 .9% 17 .9%
+Total 26.5% 2 7. 4% 26.9% 26.7% 26.9% 26.2% 26.1% 25.3% 25.0%
+EBITDA (In ₹ Mn)Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+EBITDA 1,822 1,968 1,928 1,604 1,886 1,754 1,634 1,635 1,639
+EBITDA margin 20.0% 19 .5% 19 .2% 16.0% 18.8% 17 .5% 16.3% 16.0% 15.8%
+EBITDA/Gross profit 75.5% 71.3% 71.4% 59 .7% 70.0% 67.0 % 62.7% 63.2% 62.9%
+17 Shareholder Report   Q1 FY26Profit/(loss) after tax 
+(In ₹ Mn)Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+Profit/(loss) after tax  1,354  1,425  1,401  1,302  1,411  1,302  1,185  1,173  1,184 
+Profit after tax 
+margin14.9% 14.1% 14.0% 13.0% 14.1% 13.0% 11.8% 11.5% 11.4%
+Earnings per share 
+(In ₹ )Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+Basic earnings per 
+share10.07 10.60 10.42 9. 69 10.50 9. 70 8.82 8.74 8.82
+Free cash flow 
+(In ₹ Mn)Q1 
+FY24Q2 
+FY24Q3 
+FY24Q4 
+FY24Q1 
+FY25Q2 
+FY25Q3 
+FY25Q4 
+FY25Q1 
+FY26
+Free cash flow 869 1,310 640 1,492 74 4 520 2,165 1,715 (309)
+RSUs No of RSUs
+Opening Balance Apr 1, 2025  2,68,601 
+RSU’s granted  -   
+RSU’s exercised  -   
+RSU’s Lapsed/cancelled/ 
+added back to Pool (40,000) 
+Balance as on June 30, 2025  2,28,601 
+Other Income (In ₹ Mn, unless otherwise stated) Q1 FY26 Q4 FY25 Q1 FY25
+Interest income 80 75 67
+Interest on income tax refund 24 2 27
+Others 16 33 2
+Other income 120 110 96
+Interest yield 6.4% 6.7% 5.9%
+18 Shareholder Report   Q1 FY26Key Policies 
+Basis for preparation of 
+financial statements The Consolidated financial statements of the Group have been prepared 
+in accordance with Indian Accounting Standards (“Ind AS”) as notified 
+under Section 133 of the Companies Act, 2013 (the “Act”) read with Rule 3 
+of the Companies (Indian Accounting Standards) Rules 2015 as amended, 
+issued by Ministry of Corporate Affairs (‘MCA’).Accounting policie s have 
+been consistently applied to all the years presented except where a newly 
+issued accounting standard is initially adopted or a revision to an exis ting 
+accounting standard requires a change in the accounting policy hither to 
+in use.
+Revenue recognition Revenues are derived from our Enterprise and Platform business. Revenues 
+from Enterprises are computed based on total transactions processed 
+through our platforms at an agreed price per transaction. Platform 
+revenues are computed by way of revenue share measured as a rate 
+applicable to transaction processed on mobile carrier’s network. Revenue 
+is recognized upon provision of service to customers that reflects the 
+consideration we expect to receive in exchange for those service.
+Depreciation and 
+Amortization Fixed assets including IT assets are depreciated over their estimated useful 
+lives using the straight-line method. Intangible assets created at time of 
+acquisition based on purchase price allocation methodology. Intangible 
+assets are amortised over their estimated useful lives using the straight-line 
+method. Right-of-use asset represents leased assets (leased office space) 
+and is depreciated over their useful life.
+Capitalization of Platform cost: Research and development cost are aimed 
+at developing new and innovative products, expanding features for our 
+existing platforms and products. Development cost comprises of third-
+party product development and other direct related cost associated with 
+it. Development cost incurred are capitalized on product go-live. 
+Provision for bad and 
+doubtful debtsThe provision for bad and doubtful debt policy is a norm-based policy 
+approved by the Audit Committee Debtors are assessed at end of each 
+reporting period and provided for based on the policy, 50%- debtor aged 
+between 180-270 days and 100% for greater than 270 days for Enterprise 
+customers and 100% for greater than 365 days for PSU and government. 
+Provisions created shall be higher of Expected Credit Loss (ECL) or provision 
+determined by the policy. 
+Investment policy Investments can be in form of liquid funds- fixed deposits/term deposits 
+with banks, housing finance companies and saving scheme/securities /
+bonds issued by the central government which is approved by the Audit 
+Committee. Investments are mainly in Fixed deposits with banks and 
+housing finance companies having a credit rating of “AAA”. Instruments 
+with this rating are considered to have the highest degree of safety 
+regarding timely servicing of financial obligations. Such instrume nts carry 
+lowest credit risk.
+Dividend policy The dividend policy reflects the intent of the Company to reward its 
+shareholders by sharing a portion of its profits after retaining funds for 
+longer term sustainable growth of the Company. The Company would 
+maintain a total dividend pay-out of 30% of the annual Consolidated 
+Profits after Tax (PAT) of the Company. PAT means Profit after tax as per the 
+audited consolidated P&L financials and available as distributable surplus 
+to the shareholders. 
+19 Shareholder Report   Q1 FY26Code of Conduct: Tanla is committed to follow the best business, commercial and legal 
+practices. The Code of Conduct is intended to guide the Board in 
+implementation of the code. The code is applicable to all employees of 
+Tanla including the Directors of Tanla and its subsidiaries.
+Supplier code of conduct: We believe in conducting business with ethics and integrity, treating 
+all people with dignity and respect, supporting our communities, and 
+honoring the laws & regulations of the countries in which we operate. We 
+will endeavor to choose reputable business partners who conduct their 
+business in a manner that shows high ethical standards, safe and healthy 
+work environments, protection of human rights and dignity, protection 
+of environment and compliance with the law. The SCoC outlines our 
+expectations regarding the workplace standards and the business 
+practices of our suppliers and those in their supply chain.
+Whistle Blower Policy: This policy is formulated with a view to provide a mechanism for 
+employees to report to the management instances of unethical 
+behaviour, actual or suspected fraud or violation of the company’s code 
+of conduct.
+Code for Insider Trading: The Code prescribes the Internal Procedures and Conduct for Regulating, 
+Monitoring and Reporting of trading by insiders of the Company.
+The trading window shall be closed from 1st of month of every quarter till 
+48 hours after the declaration of the financial results. The Trading window 
+will be closed from 1st March, 1st June,1st Dectember,1st December until 
+48 hours after the declaration of financial results of the Company for the 
+respective quarter.
+Risk Management policy: The Company is affected by general economic, financial, and regulatory 
+developments at the domestic and international level. We have in place 
+a structure, procedures, and control systems to detect & identify risks and 
+implement appropriate measures to mitigate and prevent them. 
+Related Party Transaction 
+Policy:Related party transactions are subject to the Audit Committee’s appro val. 
+As required by the applicable Regulations, all related party trans actions 
+are reported on a half-yearly basis to the Stock Exchanges. Our related 
+party transactions are limited to inter-company transactions.
+Environmental policy We endeavour to reduce the impact of our operations and business 
+activities on the environment while influencing the people in our value 
+chain as well as our social interactions to follow the path of environmentally 
+sustainable living.Governance policies
+20 Shareholder Report   Q1 FY26Definitions
+Platform business  Platform business refers to revenue generated from “Platform as a service 
+offering”, where only cloud and hosting are a charge on revenue.
+Enterprise business Enterprise business refers to revenue generated based on total 
+transactions processed at an agreed price per transaction, through 
+multiple channels like SMS, emails, WhatsApp and others. Cost of services 
+for enterprise business mainly consist of transaction fee paid to mobile 
+carriers and other suppliers.
+Gross profit Revenue less cost of services. Cost of services comprises of service 
+transaction fee paid to mobile carriers and other suppliers.
+Gross margin The gross margin reflects percentage of revenue less cost of services. 
+Sales and marketing 
+expenseSales and marketing expenses comprise of employee cost and expenses 
+directly associated with sales, marketing, and promotional activities.
+General and administrative 
+expenseGeneral and administration expenses comprise of employee cost 
+(excluding the salary forming part of S&M), cloud and data center hosting 
+charges, and expenses incurred for day-to-day operations such as rent of 
+facilities, office maintenance, professional fee, and other general expenses.
+EBITDA Earnings before interest, taxes, depreciation, and amortization reflects 
+profit derived based on revenue less of operating expenses. It is reflection 
+of profitability of operating business.
+Adjusted EBITDA Adjusted EBITDA excludes one-time expenses such as one time acquisition, 
+buy back, ESPS and other event related costs.
+EBIT Revenues – Cost of sales (where applicable) – indirect cost (includes 
+platform operational cost, people cost and overheads, SG&A) – 
+depreciation – allocated corporate costs. 
+Operating cash flow Operating cash flow is a measure of amount of cash generated from 
+business operations.
+Free cash flow Free cash flow is derived by reducing capital expenditure from operating 
+cash flow. It measures how much cash is at disposal after covering cost 
+associated with business operations. 
+Return on capital employed 
+(ROCE)ROCE including CCE: 
+EBIT divided by capital employed.  Capital employed is derived by 
+reducing current liabilities from total assets.
+ROCE excluding CCE:
+EBIT divided by capital employed. Cash and cash equivalents (CCE) are 
+not considered while computing capital employed.
+New customer New customers include every unique new contracting entity added in the 
+year.
+Customer segments Customer segments are arrived at on a quarterly annualized basis (quarter 
+revenue multiplied by four).
+21 Shareholder Report   Q1 FY26Ms. Naiyya Saggi
+Independent DirectorAbout Tanla:
+Founded in 1999 , Tanla Platforms Limited has 
+revolutionized digital interactions by empowering 
+users and enabling enterprises through its 
+innovation-led SaaS business. With a unique 
+enterprise and user-centric approach, Tanla 
+has emerged as a leader in the CPaaS industry 
+dominating data security, privacy, spam, and 
+scam protection. Headquartered in Hyderabad 
+(India), Tanla is the preferred partner for over 
+2,000 enterprises across various industries, 
+including global tech giants like Google, Meta, and 
+Truecaller. Tanla is recognized as a ‘Visionary’ in the 
+2024 Gartner® Magic Quadrant™ for CPaaS and is 
+ranked among the “1000 High-Growth Companies 
+in Asia Pacific” by the Financial Times. Tanla is 
+publicly traded on the NSE and BSE (NSE: TANLA; 
+BSE: 532790) and is included in prestigious indices 
+such as the Nifty 500, BSE 500, Nifty Digital Index, 
+FTSE Russell, and MSCI.
+Guidance 
+Tanla does not provide any guidance.
+ESG 
+The purpose of our ESG is to build solutions & 
+services which offer security & transparency, 
+earning the trust of customers, investors and 
+governments while acting responsibly towards 
+employees and communities. We envision in 
+building a resilient organisation that engages with 
+the customers, suppliers, and employees to provide 
+an unparalleled global communications platform while being steadfast to ethics and integrity that 
+result in a better future and a committed triple 
+bottom line of People Planet and Profit. 
+Forward-looking statements
+This document might contain statements that are 
+forward looking in nature. All statements other than 
+statements of historical fact could be deemed 
+as forward-looking in nature. Such statements 
+are inherently subject to risks and uncertainties, 
+some of which cannot be predicted or quantified. 
+By receiving this document, you acknowledge 
+that you will be solely responsible for your own 
+assessment of the market and our market position 
+and that you will conduct your own analysis and 
+be solely responsible for forming your own view of 
+the potential future performance of our business.
+Certification 
+The CEO and CFO certify that financial results do 
+not contain any false or misleading statements or 
+figures and do not omit any material fact which 
+may make the statements or figures contained 
+therein misleading.
+Headquarters
+Tanla Technology Centre,
+Hi-Tech City Road, Madhapur,
+Hyderabad – 500 081,
+Telangana, India.
+CIN: L72200TG1995PLC021262
+www.tanla.com
+Board of Directors
+Mr. Uday Reddy
+Founder Chairman & CEO 
+Mr. François Ortalo-Magné
+Independent Director Dr. RS Sharma 
+Lead Independent Director
+Mr. Sunil Bhumralkar
+Independent DirectorDr. Sanjay Kapoor
+Non-Executive DirectorMr. Deepak Goyal
+Executive Director
+Auditors  
+Statutory Auditor 
+M/s. MSKA & Associates
+Mukesh Kumar Pugalia - Partner Internal Auditor
+Deloitte Touche Tohmatsu India LLP 
+Vishal Shah - Partner 
+22 Shareholder Report   Q1 FY26(In ₹ Mn, unless otherwise stated) Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26
+Revenues
+Digital Platforms  868 880 955 938 919
+Enterprise Communications  9 ,154 9 ,127 9,0 49 9 ,306 9 ,488
+Total revenues  10,022 10,007 10,004 10,244 10406
+YoY % change 10.0% (0.8%) (0.2%) 1.9% 3.8%
+Gross Profit
+Digital Platforms  856 868 943 926 905
+Enterprise Communications  1,838 1,750 1,664 1,662 1,702
+Total Gross profit  2,694 2,618 2,607 2,588 2607
+YoY % change 11.7% (5.2%) (3.4%) (4.3%) (3.3%)
+EBITDA
+Digital Platforms  713 739 725 723 693
+Enterprise Communications  1,173 1,015 909 911 946
+Total EBITDA  1,886 1,754 1,634 1,634 1,639
+Customer segment
+(In ₹ Mn)Q1FY25 Q4FY25 Q1FY26 Revenue growth
+Count Revenue Count Revenue Count Revenue QoQ YoY
+>500Mn 19  4,048  18  4,586  17  4,996 8.9% 23.4%
+>100Mn - < 500Mn 60  3,115  53  2,686  59  3,011 12.1% (3.3%)
+>10Mn- < 100Mn 250  2,163  251  2,167  250  2,104 (2.9%) (2.7%)
+Total 329  9 ,326  322  9 ,439  326  10,111 7 .1% 8.4%Deep-Dive Chart - Key Metrics
+Deep-Dive Chart - Customer Segmentation Q4Q1
+23 Shareholder Report   Q1 FY269534230
+(3)
+(55)967Deep-Dive Chart - Indirect Cost Movement
+(In ₹ Mn, unless otherwise stated)Cost walk from Q4 FY25 to Q1 FY26Q5
+Employee 
+costConnectivity Other 
+ExpensesForeign 
+exchange 
+fluctuationQ4 FY25 Q1 FY26
+Increase Decrease
+Deep-Dive Chart - ETR Statement Q6
+(In ₹ Mn, unless otherwise stated) Q1 FY26 Q4 FY25 Q1 FY25
+Profit before tax  1,474 1,459  1,739 
+Tax expense (290) (286) (327)
+Profit after tax  1,184 1,173  1,412 
+Effective tax rate 19 .7% 19 .6% 18.8%
+24 Shareholder Report   Q1 FY2610,085 77
+(373)163
+(43)3
+(808)9,104
+Q4 FY25 Q1 FY26
+Increase DecreaseOperating 
+cash flowProperty, 
+plant & 
+equipmentInterest 
+& other 
+incomeOthers Lease 
+liabilities- 
+netDividend 
+paid
+(In ₹ Mn, unless otherwise stated) Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26
+Cash
+Restricted cash  568  568  563  564  575 
+Current accounts- ₹  248  1,669  2,739  399  235 
+Current accounts- USD  1,154  515  417  813  1,156 
+Investments
+Fixed deposits  5,602  4,301  5,489  8,309  7 ,138 
+Cash and cash equivalents (CCE)  7 ,572  7,0 5 3   9 ,208  10,085  9 ,104
+Restricted cash is held as margin money deposits given for bank guarantees and cash credit limits. Q8Deep-Dive Chart - Movement of Cash flows
+(In ₹ Mn, unless otherwise stated)Cash flow walk from Q4 FY25 to Q1 FY26
+Q9Deep-Dive Chart - Cash and Cash Equivalents breakup
+Follow us at:www.tanla.com

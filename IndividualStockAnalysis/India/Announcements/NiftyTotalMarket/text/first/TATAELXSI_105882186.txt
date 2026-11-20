@@ -1,0 +1,109 @@
+ 
+  
+June 14,  2024  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+ 
+Dear Sir s, 
+ 
+Sub: Press Release – “Tata Elxsi collaborates with Red Hat to accelerate Network Monetization for 
+Telcos ” 
+ 
+Please find enclosed the Press Release dated June 13, 2024, titled “Tata Elxsi collaborates with Red 
+Hat to accelerate Network Monetization for Telcos ”. 
+ 
+This disclosure is made in terms of requirements of Regulation 30 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+ 
+This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Cauveri Sriram  
+Company Secretary & Compliance Officer  
+ 
+Encl.: Press Release  
+ 
+Tata Elxsi Collaborates with Red Hat to Accelerate Network 
+Monetization for Telcos  
+Strategic alliance for 5G Network Monetization with vertically integrated solutions and Smart Op Ex 
+reduction  
+Benga luru, June 13 , 2024:  Tata Elxsi, a global engineering and design services company, today 
+announced its collaboration with Red Hat, the world’s leading provider of enterprise open -source  
+solutions to monetise applications and reduce operational expenditures through simplifying 
+operations in 5G networks for Telcos and enterprises.  
+Accelerating 5G Monetization  
+The collaboration aims to create a use case factory to help global operators monetize their networks 
+using industry specific 5G applications across transportation, manufacturing, healthcare, through 
+proven verticalized applications and joint solutions.  
+As a case in point, as the automotive industry aggressively pivots towards software -defined vehicles 
+(SDV), there is a growing demand for real time, secure OTA (over -the-air) updates and containerized 
+services through 5G networks. The collaboration enables  telcos to address these OEM needs with an 
+integrated solution using TETHER, Tata Elxsi’s globally deployed connected vehicle platform; NEURON, 
+Tata Elxsi’s award -winning network automation platform, Red Hat OpenShift, the industry’s leading 
+hybrid cloud a pplication platform powered by Kubernetes, along with Red Hat In -Vehicle Operating 
+System. This solution will enable OEMs to deploy subscription -based services and platforms for 
+connected vehicles with advanced fleet management features and realtime OTA.  
+Network OpEx reduction  
+By harnessing the powerful synergy between Tata Elxsi NEURON and Red Hat OpenShift, telcos can 
+experience a transformative shift towards seamless automation, cloud integration, service 
+orchestration, and robust assurance. This integration not only streamli nes operations but also drives 
+a substantial reduction in operational expenditure, paving the way for enhanced efficiency and 
+profitability in the telecom industry.  
+NEURON, Tata Elxsi’s award winning solution, streamlines the lifecycle management of network 
+elements, offers end -to-end orchestration for network deployments, leverages AI -powered 
+observability for proactive monitoring, and automates tasks for streamlined  and secure network 
+operations.  
+Vivek Tiwary, Vice President and Head of Telco 5G Business Tata Elxsi  said  “As we enter the era of 5G 
+in automotive, healthcare, and Industry 4.0, telcos are at the forefront, crafting customer -centric 
+services and embracing new technologies. This shift demands a move towards cloudification, multi -
+cloud adoption, intelligen t cognitive network operations and automation. We are delighted to enable 
+ 
+this transition alongside Red Hat, driving Telco 5G Multi Cloud Automation and edge intelligence to 
+provide our clients with unique services.”  
+"Collaborating with Tata Elxsi, we are excited to leverage Red Hat OpenShift to provide telcos with 
+enhanced monetization opportunities. This work is a testament to our commitment to delivering 
+innovative solutions that drive growth and efficiency in the t elecom sector ." Mark Longwell, director, 
+telco and edge alliances, Red Hat  
+About Tata Elxsi  
+Tata Elxsi is a global design and technology services company that helps customers across automotive, 
+consumer electronics, healthcare, media and telecom industries, reimagine  their products and 
+services through design thinking and the application of digital technologies. Tata Elxsi brings together 
+industry -leading solutions and platforms and deep domain capabilities in 5G network design, 
+automation, orchestration and digital e ngineering for global telcos and enterprises. Customers can 
+leverage  the 5G A3 Innovation Lab in Bangalore as a use case f ound ry for Applications, Automation 
+and AI in 5G networks.  
+www.tataelxsi.com  
+ 
+For media inquiries, interviews, or additional information about Tata Elxsi, please contact:  
+Hari Balan , Corporate Communications, Tata Elxsi  
+E: media@tataelxsi.com  
+ 
+About Red Hat  
+Red Hat is the world’s leading provider of enterprise open -source software solutions, using a 
+community -powered approach to deliver reliable and high -performing Linux, hybrid cloud, container, 
+and Kubernetes technologies. Red Hat helps customers integrate new and existing IT applications, 
+develop cloud -native applications, standardize on our industry -leading operating system, and 
+automate, secure, and manage complex environments. Award -winning support, training, and 
+consulting services make Red Hat a truste d adviser to the Fortune 500. As a strategic partner to cloud 
+providers, system integrators, application vendors, customers, and open -source communities, Red 
+Hat can help organizations prepare for the digital future.  
+www.redhat.com  
+ 
+For media inquiries, interviews, or additional information about Red Hat, please contact:  
+Jessie Beach, Public Relations Strategist - Global Partner Ecosystem, Red Hat  
+E: jbeach@Red Hat.com  
+Chelsea Lawrence, Senior Public Relations Strategist, Red Hat  
+E: clawrence@Red Hat.com  
+ 

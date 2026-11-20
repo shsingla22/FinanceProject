@@ -1,0 +1,189 @@
+ 
+ 
+TO ALL STOCK EXCHANGES  
+BSE LIMITED  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+NEW YORK STOCK EXCHANGE  
+ 
+April 22, 2025  
+Dear Sir/ Madam,  
+Sub: Transcripts of the press conference an d earnings call conducted after the Meeting of 
+ Board of directors on April 17, 2025  
+ 
+Please find enclosed the transcripts of the press c onference and earnings call conducted after the Board 
+meeting held on April 17, 2025, for your information and records.  This information will also be hos ted on the Company’s website, at
+ 
+https://www.infosys.com/investors/reports-f ilings/quarterly-resu lts/2024-2025/q4.html .   
+ 
+The audio/video recordings of the press conference and earnings call are also made available on the 
+Company’s website, at  https://www.infosys.com/i nvestors/reports-filings /quarterly-results/2024-
+2025/q4.html.  
+This is for your information and records.  
+Yours Sincerely,  
+For Infosys Limited  
+ 
+  
+A.G.S. Manikantha
+ 
+Company Secretary 
+ACS-21918  
+ 
+ 
+External Document © 2025 Infosys Limited  1     
+                                                 
+                                                           Infosys Limited  
+                   Q4 FY25 Media Conference Call   
+April 17, 2025    
+   
+CORPORATE PARTICIPANTS:   
+   
+Salil Parekh  
+Chief Executive Officer and Managing Director  
+ 
+Jayesh Sanghrajka Chief Financial Officer  
+ 
+Rishi Basu 
+India Head - Corporate Communications  
+   
+JOURNALISTS   
+   
+Ritu Singh 
+CNBC TV18 
+ 
+Haripriya Sureban 
+NDTV Profit  
+Chandra R. Srikanth Moneycontrol 
+ 
+Reshab Shaw 
+Moneycontrol 
+ Shilpa Phadnis 
+The Times of India 
+ 
+Beena Parmar  
+The Economic Times 
+ 
+Jas Bardia  
+Mint 
+ 
+Avik Das  
+Business Standard  
+ 
+Sanjana B.  
+The Hindu Businessline  Sai Ishwarbharath  
+ 
+External Document © 2025 Infosys Limited  2   Reuters 
+ 
+Padmini Dhruvaraj  
+The Financial Express  
+Rukmini Rao  
+Fortune India 
+ 
+Uma Kannan  The New Indian Express  
+ 
+Sonal Choudhary  
+Deccan Herald 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+   
+  
+External Document © 2025 Infosys Limited  3   Rishi Basu  
+A very good evening everyone and thank you for joining Infosys' Fourth Quarter Financial Results. 
+My name is Rishi and on behalf of Infosys, I would li ke to welcome all of you. Before we begin, I 
+know we are slightly delayed, apologies for that, but I do request one question from each media 
+house. Though there are lots of news today , but let us see what we can do best. 
+With that, I would like to invite our Chief Executiv e Officer, Mr. Salil Parikh, for his opening remarks. 
+Over to you, Salil. 
+Salil Parekh  
+Thanks, Rishi. Good evening and welcome. Thank y ou all for joining us. We have had an excellent 
+year in financial year 2025 – 4.2% growth, cons tant currency terms, 21.1% operating margin, $4.1 
+bn free cash flow and $11.6 bn in large deals. We  feel the performance has been solid all around 
+across the year.  
+We are seeing growing demand from cl ients to partner with them on AI. They are moving from a use 
+case approach to an AI-led transformation approach. This is using AI agents which are playing more 
+and more of a critical role, and we believe we hav e a very leading position in AI agents with over 
+200 agents we have developed.  
+We continue with our strategic expansion and acquisi tion in the energy and consulting space in the 
+U.S.; acquisition in cybersecurity space in Austra lia; and a new strategic partner becoming part of 
+our joint venture in Japan. So, all three areas are areas where we strategically look to expand, and 
+we are further committed with this expansion in the U.S. in a very critical area for that market.  
+We have a set of capabilities that support clients in t heir growth, whether it is AI or cloud or digital, 
+and in their efficiency, whether it is automation, cost reduction, l ean and consolidation. So, we feel 
+well positioned in this environment to look at both gr owth and both cost areas as clients look at them. 
+Based on what we see in the environment today and building on our large deal wins in the past 
+quarters, our guidance for growth in financial year 2026 is  0% to 3% in constant currency terms. The 
+environment is uncertain, and we will execute our pl ans with agility while keeping a close watch on 
+changes. Our margin guidance for the financial year 2026 is at 20% to 22%. 
+Thank you, and then let us open it up for questions. Rishi Basu  
+ 
+External Document © 2025 Infosys Limited  4   Thank you, Salil. Joining Salil is Mr. Jayesh San ghrajka, Chief Financial Officer, Infosys. With that, 
+the first question is from Ritu Singh from CNBC TV18. 
+Ritu Singh 
+Hi, Salil. Happy to be here. Jayesh, a quick word with  your guidance of almost no growth in this year 
+– 0% to 3%. If you could give us more in terms of commentary on what you are seeing? For instance, from TCS, we heard about delays in decision-mak ing. From Wipro yesterday, we heard one of the 
+large clients paused a transformational deal. So, w hat are you hearing? Are there ramp downs? Are 
+there delays? Are there any sort of  cancellations in large deals?  
+Also, for Infosys, in the last 12 to 18 months, we have not seen any mega deals being announced. 
+What is happening in the market? Are some of t hese large deals drying up? What is your sense, 
+given that this puts larger reliance fo r you on discretionary spend picking up?  
+Also, in terms of sectors, where you started to see shoots of recovery, for instance, last quarter, you 
+spoke about BFSI, etc. Is that continuing, or gi ven the uncertain environment, do you expect some 
+sort of a reversal there?  
+And just one question on the hiring and wages. The w ages that were expected to be rolled out in the 
+second phase in April – are you on track to do that? And your hiring plans for the year – 20,000 that 
+you had indicated – if that is also on track? Thank you. 
+Salil Parekh  
+Okay, so thanks. A few questions. First on the envir onment, I think we see there is uncertainty in the 
+environment. We have several deals that we closed in the last quarter and the quarters before. Those are today moving into the appropriate next phases. We have not seen a change in that. We 
+are seeing in areas where there is focus on changes  which may come. There could be, in industries 
+where there are changes that could come because of the changes in the regulations, there could be 
+an impact. Jayesh will comment a little bit about how  we have constructed the guidance based on 
+that. 
+In terms of mega deals, we had two mega deals in the last financial year. We have a pipeline of 
+mega deals today. What is, sort of what we saw in the past when things of this nature happen, which 
+is changes in the environment, there is also an in terest with clients on cost takeout, automation and 
+efficiency and consolidation. We will see how it plays out because it is only a few days as clients 
+have looked at it. But we have seen our large deals moving, meaning which we have closed, moving 
+into the next phases as was evident. 
+  
+External Document © 2025 Infosys Limited  5   Jayesh Sanghrajka  
+Yes, adding to what Salil said on the guidance – l ook, we run multiple models which run up to the 
+guidance at various ends of the guidance, bottom end, middle end or the top end. The fact that we 
+gave a 3-point guidance reflects t here is uncertainty in the environment. At the bottom end of the 
+guidance, we have baked in some deterioration in the environment, some heightened uncertainty. 
+At the top end of the guidance, we have assum ed steady to marginally improving environment at 
+this point in time.  
+Coming to the second question on wages, we are on track on our wages – large part of the wage 
+increments were rolled out in January and the balance is  rolled out in April, effective 1st April. So we 
+are on track on that. And in terms of FY'26 hiring,  we are expecting to hire 20,000 plus freshers.  
+Ritu Singh 
+Sorry, can you clarify on the number of freshers?  
+Jayesh Sanghrajka  
+20,000 plus, what we had said earlier, we are on track of it. 
+Ritu Singh There were reports of Infosys laying off some of these fresh campus recrui ts because according to 
+your own statement, there were 337 of these as opposed to media reports of 700 plus. And you said 
+that was because of their weak performance. If you could clarify, what exactly happened there? Are 
+you not able to find the right talent? Is the number still what you have said in your statement? Is it 
+larger, just a statement from you on that? 
+Salil Parekh  
+So there, let me take that one. So first, we made some statements. So those are, we stand by those 
+statements. In addition to that, within Infosys, we have an approach for making sure that we have a rigorous way to train and then to assess and test i ndividuals. This is a process that has been ongoing 
+for the last 20 years within the company. 
+At every time that the training batch comes in, they have three opportunities for testing. And at each 
+time, if they succeed in that, they stay on. After three attempts, we have now found a way that we 
+have found other opportunities for them and also suppor ted them outside of Infosys in some training 
+that can be offered to them. So that is the approach we have taken. In terms of the numbers, 
+whatever the statements we have made in the past remain as they are. 

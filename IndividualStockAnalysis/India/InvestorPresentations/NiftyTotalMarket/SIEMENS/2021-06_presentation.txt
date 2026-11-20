@@ -1,0 +1,420 @@
+
+=== page 1 ===
+Siemens Limited
+Management: Sunil Mathur
+CIN: L28920MH1957PLC010839Birla Aurora, Level 21, Plot No. 1080,
+Dr. Annie Besant Road, Worli,
+Mumbai – 400030
+IndiaTel.: +91 22 62517000
+Website: www.siemens.co.in
+E-mail- Corporate-
+Secretariat.in@siemens.com
+Registered Office: Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai – 400030. Telephone +91 22 62517000. Fax +91 22 24362403.
+Sales Offices: Ahmedabad, Bengaluru, Bhopal, Bhubaneswar, Chandigarh, Chennai, Coimbatore, Gurgaon, Hyderabad, Jaipur, Jamshedpur, Kharghar, Kolkata,
+Lucknow, Kochi, Mumbai, Nagpur, Navi Mumbai, New Delhi, Puducherry, Pune, Vadodara, Visakhapatnam.
+1st June, 2021
+National Stock Exchange of India Limited
+BSE Limited
+Scrip Code –
+National Stock Exchange of India Limited: SIEMENS EQ
+BSE Limited: 500550
+Analysts / Institutional Investors Meet - Presentation
+Dear Sir / Madam,
+Pursuant to Regulation 30, 46 and other applicable provisions of the SEBI (Listing Obligations
+and Disclosure Requirements) Regulations, 2015, please find enclosed presentation made at
+Analysts / Institutional Investors Meet held on 1st June, 2021.
+The presentation made at the said Meet is also being uploaded on the website of the Company
+at:www.siemens.co.in/investorcommunity .
+Kindly take the above information on record.
+Yours faithfully,
+ForSiemens Limited
+Ketan Thaker
+Company Secretary
+Encl.: a/a
+=== page 2 ===
+Sunil Mathur, Managing Director and CEO
+Daniel Spindler, Executive Director and CFO
+1stJune 2021Siemens Ltd. H1 FY 2021 |Analyst Call
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call
+=== page 3 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 2Disclaimer
+This presentation hasbeen prepared solely foruseattheinvestor/analyst presentation .Byattending themeeting where thispresentation ismade,
+orbyreading thepresentation slides, youagree tobebound bythefollowing limitations :
+a)Siemens Ltd.(“Siemens” or“Company”) cannot give assurance tothecorrectness ofsuch information andstatements .These forward -looking
+information andstatements cangenerally beidentified bythefactthatthey donotrelate only tohistorical orcurrent facts .Forward -looking
+statements sometimes useterminology such as“targets”, “believes”, “expects”, “aims”,“assumes”, “intends”, “plans”, “seeks”, “will”,“may”,
+“anticipates”, “would”, “could”,“continues”, “estimate”, “milestone” orother words ofsimilar meaning andsimilar expressions orthenegatives
+thereof ;
+b)Bytheir nature, forward -looking information andstatements involve known andunknown risks, uncertainties andother important factors that
+could cause theactual results, performance orachievements oftheCompany todiffer materially from anyfuture results, performance or
+achievements thatmay beexpressed orimplied bytheforward -looking information andstatements inthispresentation .Should oneormore of
+these risks oruncertainties materialize, orshould anyunderlying assumptions prove tobeincorrect, theCompany's actual financial condition or
+results ofoperations could differ materially from thatorthose described herein asanticipated, believed, estimated orexpected ;
+c)Given theaforementioned uncertainties ,prospective orpresent investors arecautioned nottoplace undue reliance onanyofthese forward -
+looking statements ;
+d)Nopart ofthispresentation, northefact ofitsdistribution, should form thebasis of,orberelied oninconnection with, anycontract or
+commitment orinvestments decision whatsoever .Investor/prospective advisors must besought onspecific situation from well-informed legal,
+investment, tax,financial, andmanagement professionals ;
+e)This presentation anditscontents areconfidential andmust notbedistributed, published orreproduced .This presentation does notconstitute a
+recommendation regarding thesecurities oftheCompany .
+f)This Analyst Meet isbeing recorded andthepresentation, audio recording andtranscript willbesubmitted tostock exchanges andalso hosted
+onourwebsite .
+=== page 4 ===
+Agenda
+Business highlights
+Financial highlights
+Outlook
+Page 3
+=== page 5 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 4India’s 2ndCovid -19 wave will have an impact on recovering economy
+•Indian economy hadstarted to rebound |Improvement was 
+seen across most high frequency indicators
+•Localized lockdowns impacting supply chains | Government 
+spending slows
+•Difficult to estimate at this point impact of 2ndwave on the 
+Indian economyMacroeconomic overview Business operations
+•Opportunity pipeline stays healthy –no project cancellations 
+so far, some finalization delays
+•Business continuity maintained –Factories and project sites 
+largely operational | White -collar employees WFH
+•C&S Electric acquisition completed on 1stMar'21 | Focus on 
+addressing local demand and creating an export hub•Focus on Health and Safety –Proactive Interventions started | 
+Scarce medical resources arranged
+•Shortage of semiconductors and rising global commodity 
+prices impacting costs
+=== page 6 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 5Highlights of major orders won in H1 FY 2021
+STATCOM 400/220kV at Bikaner II 16.3 MW WHR1)in Cement plant
+Eastern Dedicated Freight Corridor Tariff Based Competitive Bidding project New Parliament Building projectQuality power evacuation from 8GW Solar 
+Energy Zones in Rajasthan
+Promotes Decarbonization , EPC integration 
+for Turbine and Distributed Controls
+Rayalaseema Lift Irrigation
+VSI2)based drives lifting water to height 
+of ~40 meters
+400/220kV GIS substation in Gujarat and 
+132kV AIS substation in Assam
+High -end communication and signaling 
+technology for 402 km section
+Power distribution, Fire safety, Building 
+mgmt. , Video surveillance and Access control
+1) Waste Heat Recovery     2) Voltage Source Inverter
+=== page 7 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 6Strong focus on technology leadership to strengthen market position
+Signed MoU with Switch Mobility 
+for E -Mobility solutions
+Charging infrastructure technology and 
+software by Siemens; Adopting new 
+business model –eMaaS (eMobility -as-a-
+Service)Strengthened competitiveness via 
+localization of Vacuum Interrupter
+Enhanced Medium Voltage Switchgear 
+competitiveness by localizing the 
+production of key component –Vacuum 
+InterrupterPartnership with Ola Electric for 
+world's largest E -Vehicle facility
+Industry 4.0 roadmap and "Factory of 
+Future" concept for world's largest 
+greenfield electric scooters manufacturing 
+facility (Capacity of 2 –5 Mn units/year)
+
+=== page 8 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 7
+Achieved 30% space reduction, 10% operational 
+efficiency by modelling & simulation solutions
+Buildings –Smart Lighting 
+Improved energy efficiency by IOT and cloud 
+based smart lighting solutionF&B –Value chain digitalization
+5% throughput uplift, 7% reduction in production 
+cost per MT with digitally integrated operations 
+Reduction in time to market by modelling and 
+simulating APIs using Siemens' gPROMS solutionPharma –API process simulation
+Industries –Remote Power Management 
+Enhanced OEE2)by Siemens' Power Manager 
+solution for remote energy monitoringSelect digitalization successes
+1) End to End     2) Overall Equipment Effectiveness
+Paints –OT Cyber Security
+Industrial anomaly and continuous threat 
+detection as holistic cybersecurity solution
+Replicable and Scalable digitalization successes –ready to support India Inc.
+Manufacturing –Layout Optimization
+=== page 9 ===
+Agenda
+Business highlights
+Financial highlights
+Outlook
+Page 8
+=== page 10 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 9Profit after Tax
+(% of revenue)
++9.6%New Orders
+(y-o-y)
++16.9 %Revenue
+(y-o-y)
++29.6 %Strong business performance continues in Q2 FY 21 
+(Continuing Operations)1)
+Profit before Tax
+(% of revenue)
++13.1%Profit from
+Operations (% of revenue)
++11.6%
+Earnings per Share
+(in INR)
+8.87
+1) Continuing Operations without Mechanical Drives business
+=== page 11 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 10Profit after Tax
+(% of revenue)
++9.4%New Orders
+(y-o-y)
++13.0 %Revenue
+(y-o-y)
++22.9 %Strong half -year performance in FY 21 across all businesses drives profitable growth
+(Continuing Operations)1)
+Profit before Tax
+(% of revenue)
++12.8%Profit from
+Operations (% of revenue)
++11.1%
+Cash from 
+Operations (in billion INR)
+9.4
+1) Continuing Operations without Mechanical Drives business
+=== page 12 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 11+8.7%
+-7.4%figures in billion INR
+% y-o-y development
+New Orders:
+•Ongoing recovery in key
+markets with strength in
+short cycles
+•Strong order backlog
+maintained
+•Growth in projects backed
+by short -cycle business
+Lockdown-17.8%
+-39.0%+9.3%+16.9%
+Q2 
+FY 20Q3 
+FY 19Q2 
+FY 21Q1 
+FY 21Q1 
+FY 20Q4 
+FY 19Q4 
+FY 20Q3 
+FY 2029.032.129.6
+17.728.332.2 33.129.3Double -digit order growth in Q2 FY 21
+(Continuing Operations)1)
+-19.0% +11.9%
+Oct -Sep Oct -Mar Apr -Sep
+1) Continuing Operations without Mechanical Drives business
+=== page 13 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 12Q4 
+FY 1929.3
+Q2 
+FY 20Q3 
+FY 1937.7
+24.7
+Q1 
+FY 2025.4
+11.5
+Q3 
+FY 2034.2
+Q4 
+FY 2028.6
+Q1 
+FY 2133.0
+Q2 
+FY 21-9.2%
+Revenue:
+•Stringent order
+backlog execution
+•Book -to-bill trends
+towards growth: 1.06
+•Broad based growth
+across businesses-60.8%-6.5%-23.1%
++15.9%+29.6%Strong revenue growth continues through H1 FY 21
+(Continuing Operations)1)
++2.5%
++2.0%
+Lockdownfigures in billion INR
+% y-o-y development
+1) Continuing Operations without Mechanical Drives businessOct -Sep Oct -Mar Apr -Sep
+=== page 14 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 13Profit from Operations:
+•Stringent conversion on
+strong revenue growth
+despite pandemic restraints
+•Bundle of cost control
+measures, discretionary
+spending on low level
+•FX and commodity gains
+•Headwinds from supply
+chain disruptions (e.g.
+semiconductors), higher
+logistics costs, lower export
+incentives+10.7%
++6.0%
+-5.9%+11.4%
+Q2 
+FY 20+3.2
+Q3 
+FY 19+3.8
+Q4 
+FY 19Q1 
+FY 20+2.6
++1.5
+-0.7
+Q3 
+FY 20+3.9
+Q4 
+FY 20+3.0
+Q1 
+FY 21+3.8
+Q2 
+FY 21+10.5%+11.6%Consistent profitability above 10% over last three quarters
+(Continuing Operations)1)
++10.0%
++10.9%
+Lockdown
+figures in billion INR
+% y-o-y development
+1) Continuing Operations without Mechanical Drives businessOct -Sep Oct -Mar Apr -Sep
+=== page 15 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 1464.5% 67.8%35.5% 32.2%
+H1 FY 20 H1 FY 21Project
+Product
+79.6% 78.2%20.4% 21.8%
+H1 FY 20 H1 FY 21DomesticExport
+76.9% 82.9%23.1% 17.1%
+H1 FY 20 H1 FY 21Government
+Private% of revenue
+Sales Mix Export & Domestic Government & Private Business portfolio mix 
+(Continuing Operations)1)
+•Growth in short -cycle product 
+business (SI/ DI)•Marginal increase in export 
+business•Growth primarily with
+private customers
+1) Continuing Operations without Mechanical Drives business
+=== page 16 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 15•Execution of strong order 
+backlog
+•Growth compared to
+H1 FY 20 also due to lower 
+base effect•Solid operational execution 
+•FX and commodity gains in H1 
+FY 21figures in billion INR
+21.4
+H1 FY 21 H1 FY 2023.1+8%
+H1 FY 21 H1 FY 2018.721.7+16%
+H1 FY 211.9
++10.0%
+H1 FY 20+14.2%3.1+65%
+•Growth contribution from 
+generation and service 
+business
+•Major orders from private and 
+government customersEnergy (SE):
+Continuing strength in Energy business with substantial improvement in profit 
+New Orders Revenue Profit from Operations (% of rev.)
+=== page 17 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 16H1 FY 21 H1 FY 2019.4 19.6+1%
+H1 FY 2018.4
+H1 FY 2114.2+30%
++5.4%
+H1 FY 20+8.8%
+H1 FY 210.81.6+110%
+•Strong growth in Digital Grid, 
+Distribution Systems and 
+Electrical Products•Profitability returned to pre -
+Covid levels
+•Cost control measures lead to 
+sustainable savings•Robust growth in base 
+business 
+•Higher base due to major 
+order in H1 FY 20
+•Products and systems upSmart Infrastructure (SI):
+Top line returning to pre -Covid levels with underlying margin increases
+figures in billion INR
+New Orders Revenue Profit from Operations (% of rev.)
+=== page 18 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 17H1 FY 20 H1 FY 2111.315.4+36%
+H1 FY 20 H1 FY 2110.915.0+38%
++8.2%
+H1 FY 20+9.9%
+H1 FY 210.91.5+67%
+•Growth results from higher 
+customer offtake
+•Revenue growth from higher 
+order intake in H1 FY 21•High customer demand 
+(mainly in first quarter)
+•Pharma, F&B, intralogistics, 
+machine tools growing •Cost control measures
+•Productivity gains out of strong 
+growth momentumDigital Industries (DI):
+Broad -based volume surge across main verticals
+figures in billion INR
+New Orders Revenue Profit from Operations (% of rev.)
+=== page 19 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 183.8
+H1 FY 20 H1 FY 214.1+10%
+H1 FY 204.2
+H1 FY 214.5-6%
++11.4%
+H1 FY 20+9.7%
+H1 FY 210.50.4-20%
+•Lower demand in passenger 
+locomotive components
+•Rail infrastructure with positive 
+momentum •Major order in H1 FY 21
+•Pandemic related shifts in key 
+tenders/ bids•Profit margins affected by 
+unfavorable revenue mix
+•Structural improvements 
+ongoing Mobility (MO):
+Solid performance however revenue decline due to lower demand
+figures in billion INR
+New Orders Revenue Profit from Operations (% of rev.)
+=== page 20 ===
+Focus areas 
+•Drive profitable growth
+•Operational efficiency
+•Maintain strong cash conversion 
+•Closing of C&S transaction
+Maintain focus.
+=== page 21 ===
+Page 20
+Agenda
+Business highlights
+Financial highlights
+Outlook
+
+=== page 22 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 21Energy (SE) Infrastructure (SI)Public and private sector CAPEX drivers continue to be in place
+WHR1)driving demand in 
+select industriesGeneration ➔
+TBCB/GEC2)tenders being 
+finalized | AIS to GIS conversionsTransmission
+Trend for next 2/3 quarters➔Growth in Data Centers, 
+Hospitals, E -commerceBuildings ➔
+FAME3)program providing 
+demand boostE-Charging
+Industries (DI) Mobility (MO)
+PLI4)and Scrappage policy to 
+provide thrust in medium/long termAuto ➔
+Increasing industry focus on
+automation and digitalizationPharmaNew DFCs5)addition and 
+100% electrification targetRailways
+Central boost for Metro rail MetroSelect sectors outlook
+1) Waste Heat Recovery     2) Green Energy Corridor     3) Faster Adoption and Manufacturing of Electric Vehicles     4) Production Linked Incentive     5) Dedicated Freight Corridor 
+=== page 23 ===
+Unrestricted | © Siemens 2021 | 2021 -06-01 | H1 FY 2021 Analyst Call Page 22Siemens continues to perform in evolving Covid -19 situation
+Impact of pandemic on economy difficult to estimate at this point
+Public and private capex drivers in place –Finalization of projects may be delayed
+Continued thrust on technology leadership to strengthen market position1
+2
+3
+Focus on Profitable growth | Health and Safety of employees first!4
+=== page 24 ===
+Thank you
+Q A

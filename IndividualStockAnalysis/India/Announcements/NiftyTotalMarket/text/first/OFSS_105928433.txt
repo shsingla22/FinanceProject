@@ -1,0 +1,244 @@
+ Oracle Financial Services Software Limited  Oracle Park  phone  +91 22 6718 3000  
+  Off Western Express Highway  fax +91 22 6718 3001  
+  Goregaon (East)  oracle.com/financialservices  
+  Mumbai, Maharashtra 400063  
+  India  
+    
+Registered Office: Oracle Park, Off Western Express Highway, Goregaon (East), Mumbai, Maharashtra 400063, India  
+CIN: L72200MH1989PLC053666  
+ 
+ 
+July 27, 202 4 
+ 
+To, 
+ 
+Asst. Vice President  
+Listing & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza  
+Bandra -Kurla Complex  
+Bandra (East)  
+Mumbai 400 051  To, 
+ 
+Asst. General Manager  
+Listing & Compliance  
+BSE Ltd.  
+1st Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai 400 001  
+ 
+ 
+Scrip Code – OFSS  Scrip Code – 532466  
+ 
+Sub: Voting Results and Scrutinizer's Report of 35th Annual General Meeting  
+ 
+Dear Sir,  
+ 
+This is to inform you that the Thirty Fifth Annual General Meeting (‘AGM’) of the Members 
+of Oracle Financial Services Software Limited (‘the Company’) was held on Thursday, July 25, 
+2024 at 3:00 P.M. (IST) through Video Conferencing (‘VC’) / Other Audio V isual Means 
+(‘OAVM’). In this regard, please find enclosed the following:  
+ 
+1. Voting Results under Regulation 44(3) of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 marked as Annexure A; and  
+ 
+2. Consolidated Scrutinizer’s Report dated July 26, 2024 for remote e -voting and        
+e-voting at the AGM pursuant to Section 108 of the Companies Act, 2013 and Rule 20 
+of the Companies (Management and Administration) Amendment Rules, 2015 
+marked as Annexure B.  
+ 
+This is for your information and re cords.   
+ 
+The above documents will also be uploaded on the Company’s website.  
+ 
+Yours sincerely,  
+For Oracle Financial Services Software Limited  
+ 
+ 
+Onkarnath Banerjee  
+Company Secretary & Compliance Officer  
+Membership No: ACS8547  
+Encl: a/a   
+Record date 18-07-2024
+Total number of shareholders on record date 117002
+a) Promoters and Promoter group 0
+b) Public 0
+a) Promoters and Promoter group 1
+b) Public 61
+No. of resolution passed in the meeting 4
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+Annexure A
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes 
+against on votes 
+polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 63051197 100.0000 63051197 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 63051197 63051197 100.0000 63051197 0 100.0000 0.0000
+E-Voting 13334077 91.0043 13317477 16600 99.8755 0.1245
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 14652133 13334077 91.0043 13317477 16600 99.8755 0.1245
+E-Voting 269402 2.9898 269376 26 99.9903 0.0097
+Poll 266 0.0030 266 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 9010606 269668 2.9928 269642 26 99.9904 0.0096
+Total Total 86713936 76654942 88.3998 76638316 16626 99.9783 0.0217
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions9010606Resolution (1)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo receive, consider and adopt the Audited Financial Statements (including the consolidated 
+financial statements) of the Company for the financial year ended March 31, 2024 and the 
+Reports of the Board of Directors and Auditors thereon.
+Promoter and 
+Promoter Group63051197
+Public- 
+Institutions14652133
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes 
+against on votes 
+polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 63051197 100.0000 63051197 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 63051197 63051197 100.0000 63051197 0 100.0000 0.0000
+E-Voting 13367987 91.2358 13182808 185179 98.6148 1.3852
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 14652133 13367987 91.2358 13182808 185179 98.6148 1.3852
+E-Voting 269384 2.9896 269221 163 99.9395 0.0605
+Poll 266 0.0030 266 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 9010606 269650 2.9926 269487 163 99.9396 0.0604
+Total Total 86713936 76688834 88.4389 76503492 185342 99.7583 0.2417
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions9010606Resolution (2)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo appoint a Director in place of Ms. Kimberly Woolley (DIN: 07741017) who retires by rotation 
+and being eligible, offers herself for re-appointment.
+Promoter and 
+Promoter Group63051197
+Public- 
+Institutions14652133
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes 
+against on votes 
+polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 63051197 100.0000 63051197 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 63051197 63051197 100.0000 63051197 0 100.0000 0.0000
+E-Voting 13367987 91.2358 12940731 427256 96.8039 3.1961
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 14652133 13367987 91.2358 12940731 427256 96.8039 3.1961
+E-Voting 269364 2.9894 269185 179 99.9335 0.0665
+Poll 266 0.0030 266 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 9010606 269630 2.9924 269451 179 99.9336 0.0664
+Total Total 86713936 76688814 88.4389 76261379 427435 99.4426 0.5574
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions9010606Resolution (3)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo appoint a Director in place of Mr. Vincent Secondo Grelli (DIN: 08262388) who retires by 
+rotation and being eligible, offers himself for re-appointment.
+Promoter and 
+Promoter Group63051197
+Public- 
+Institutions14652133
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes 
+against on votes 
+polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 63051197 100.0000 63051197 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 63051197 63051197 100.0000 63051197 0 100.0000 0.0000
+E-Voting 13370612 91.2537 13370478 134 99.9990 0.0010
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 14652133 13370612 91.2537 13370478 134 99.9990 0.0010
+E-Voting 269398 2.9898 269274 124 99.9540 0.0460
+Poll 266 0.0030 266 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 9010606 269664 2.9927 269540 124 99.9540 0.0460
+Total Total 86713936 76691473 88.4419 76691215 258 99.9997 0.0003
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions9010606Resolution (4)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredTo confirm the payment of interim dividend of ₹ 240 per equity share already paid, as the final 
+dividend for the financial year ended March 31, 2024
+Promoter and 
+Promoter Group63051197
+Public- 
+Institutions14652133
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes

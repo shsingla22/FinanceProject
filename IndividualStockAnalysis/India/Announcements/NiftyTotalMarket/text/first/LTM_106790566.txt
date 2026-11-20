@@ -1,0 +1,88 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 92402 97500  
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/84                                                                                                  September 24, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+We are attaching herewith copy of the Press Release titled “LTM Introduces BlueVerseTM OneToken 
+with Harnessing Capabilities to Optimize Token Spend” which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl. As above. 
+ 
+ 
+ 
+LTM Introduces BlueVerseTM OneToken with Harnessing Capabilities to Optimize Token Spend 
+ 
+Helps organizations run and scale AI with greater control, transparency and accountability 
+ 
+Mumbai, India - September 24, 2026:  LTM, the Business Creativity partner to the world’s largest enterprises, today 
+announced BlueVerse ™ OneToken , a workload routing and governance layer with Harnessing Capabilities that 
+automatically channels enterprise AI requests to the right model at the right cost. 
+As enterprises scale agentic workflows, requests are often routed to expensive frontier models even when lower-cost 
+options can deliver the required outcome. BlueVerse OneToken manages model selection across workloads including code, 
+voice, service, research and agents, matching each task with the most appropriate model, based on the client’s quality, 
+security and performance requirements. 
+Clients can deploy BlueVerse OneToken over their existing AI environment, giving them a single subscription for AI 
+consumption enabling them to consume AI through their existing cloud providers using OneToken plug-ins, available across 
+AWS, Google Cloud and Microsoft Azure. LTM manages any mix of frontier, mainstream, small language, and open-source 
+models through proprietary harnessing capabilities. The result is governed token spend, measurable savings and continuous 
+optimization. 
+BlueVerse OneToken also introduces persona-based usage structures for functions such as marketing, product 
+development and customer service, enabling teams to use AI according to their needs, track usage patterns and benchmark 
+utilization against industry standards. 
+This helps enterprises: 
+• Maximize return on token investments  by matching workloads with the most appropriate model. 
+• Maintain organization-optimized quality  by benchmarking AI performance against their own historical outcomes. 
+• Improve transparency and accountability  through a traceable record. 
+• Embed governance into agentic workflows  by authorizing requests and applying enterprise policies before routing. 
+• Work within existing AI environments  while retaining current commercial commitments. 
+"We have spent the past year creating the entire AI stack for our clients, from building agentic products to running the 
+models beneath them. BlueVerse OneToken is the next step. Our clients can consume AI through a single subscription, and 
+we take responsibility for making every token work as hard as it can. Helping enterprises deploy AI is no longer enough. They 
+need a partner who can continuously orchestrate AI use and optimize consumption across models, workloads and 
+environments,"  said Venu Lambu, CEO and Managing Director, LTM. 
+BlueVerse OneToken is now available to LTM’s global clients, beginning with a time-bound immersion program designed to 
+establish current consumption benchmarks and demonstrate measurable optimization opportunities . 
+To know more about  BlueVerse OneToken, click here. 
+About LTM 
+LTM — a Larsen & Toubro Group Company — is an AI-centric global technology services company and the Business 
+Creativity partner to the world’s largest enterprises. We bring human insights and intelligent systems together to help 
+clients create greater value at the intersection of technology and domain expertise. Our capabilities span integrated 
+operations, transformation, and business AI — enabling new ways of working, new productivity paradigms, and new roads 
+to value. Together with over 87,000 employees across 40 countries and our global network of partners, LTM owns outcomes 
+for clients, helping them not just outperform the market, but Outcreate it. Read more at LTM.com. 
+ 
+Media Contact : Shambhavi Revandkar • Global Media Relations • shambhavi.revandkar@ltm.com 
+ 

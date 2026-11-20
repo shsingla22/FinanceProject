@@ -1,0 +1,81 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                 www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secret arial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 |  F: +91 120 4592 301                                         T: 0124- 4627837                 CIN: L72100HR1992PLC128382                    
+April  30, 2025  
+ 
+The Manager,  
+Department of Corporate Services BSE Limited  
+Floor  25, P.J.  Towers,  
+Dalal Street, Mumbai –  400 001  
+ BSE Scrip  code:  532541  
+Equity ISIN:  INE591G01017 
+ The General  Manager,  Department  of 
+Corporate  Services  
+National  Stock  Exchange  of India  Limited  
+Exchange  Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex, 
+Bandra, Mumbai  – 400 051  
+NSE  Scrip  code:  COFORGE  
+ 
+Dear  Sir/Madam,  
+ 
+Subject: Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing  
+Obligations  and Disclosure Requirements)  Regulation,  2015, as amended  ("SEBI  Listing  
+Regulations")  
+ 
+This intimation is in continuation to the disclosure made  in earnings call after the board meeting held 
+on October 19, 2023 (transcript of which was submitted to the stock e xchanges  and is available on the 
+Company’s website ), the disclosure made by the Company to the stock exchanges on December 15, 
+2023, January 22, 2024, and August 6, 2024 (collectively, the “ Regulation 30 Disclosure ”). Pursuant 
+to the Regulation 30 Disclosure, the Company had informed the stock exchanges regarding the notice 
+of indemnification received by the Company (including its material subsidiary Coforge Inc.  
+(“Subsidiary ”)) from a client in the North America region (“ Client ”).  
+ 
+In this regard, please note that  a complaint has been filed against the Subsidiary and the Company before 
+the United States D istrict Court in Nevada by a collection of named plaintiffs on behalf of a putative 
+class of similarly situated persons. The allegations in the c omplaint relate to a security incident 
+experienced by the Client. The  Company provided the Client with outsourced staffing for an employee 
+help desk  (“Service  Desk ”).  The complaint alleges that, in the incident, a  threat actor misled Service 
+Desk agents into  resetting passwords of employee accounts that were then used by the threat actor s to 
+access and exfiltrate a copy of Client’s  customer loyalty database  (“Database ”). The complaint 
+mischaracterizes the terms of the Company’s engagement by C lient, the Company’s role with respect to 
+the Database, and the responsibilities undertaken by the Service Desk  agents. The Company did not 
+provide core cybersecurity threat, protection, detection, or remediation services for the Client , did not 
+have access to or responsibility for th e Database, and had no role in managing or administering it.   
+ 
+The Company is evaluating insurance coverage under its existing insurance policies and the Company 
+is in discussions with its offshore counsel to take appropriate steps in relation to such c omplaint. The 
+amount of liability / quantum of claims, pursuant to such complaint,  cannot be ascertained at this stage.  
+ 
+As required under applicable law, we will provide the details of any change in the status and / or any 
+development in relation to the aforesaid .  
+ 
+Notwithstanding receipt  of such notice, the Company continues to provide services to the Client on a 
+regular basis  with no meaningful impact on the revenues received from such C lient, which do not 
+represent a material portion of the Company’s overall revenue.  
+ 
+Coforge Limited                                                                                    Registered office:                                                                 www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secret arial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 |  F: +91 120 4592 301                                         T: 0124- 4627837                 CIN: L72100HR1992PLC128382              
+  
+This is for the information of the Exchanges and the Members.  Thanking You,  
+ 
+Yours  Faithfully,  
+ 
+For Coforge  Limite d 
+ 
+ 
+ 
+Barkha Sharma  
+Company  Secretary  & Compliance Officer   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 

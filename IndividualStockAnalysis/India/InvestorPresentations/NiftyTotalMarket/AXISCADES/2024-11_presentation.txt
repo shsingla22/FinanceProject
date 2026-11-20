@@ -1,0 +1,457 @@
+
+=== page 1 ===
+ 
+AXISCADES Technologies Limited  
+(Formerly AXISCADES Engineering Technologies Limited)  
+CIN No.: L72200KA1990PLC084435  
+ 
+Reg. Office: Block C, Second Floor, Kirloskar Business Park, Bengaluru - 560024, Karnataka, INDIA  
+Ph: +91 80 4193 9000 | Fax: +91 80 4193 9099 | Email: info@axiscades.com | www.axiscades.com  
+ 
+November 12, 2024 
+ The Manager      The Manager  
+Listing Department     Listing Department  
+BSE Limited      The National Stock Exchange of India Limited  
+Phirozee Jeejeebhoy Tower,    Exchange Plaza, 5 Floor, Plot C/1, G Block  
+Dalal Street      Bandra – Kurla Complex, Bandra(E),  
+Mumbai 400 001     Mumbai 400 051  
+BSE Scrip Code: 532395    NSE Symbol: AXISCADES  
+       
+Dear Sir /Madam , 
+Sub: Q 2 FY25 Result Presentation  
+Please find attached the consolidated results presentation for the quarter  and half- year ended  September  
+30, 2024 , of AXISCADES Technologies Limited (AXISCADES).  
+ 
+This presentation is the information for shareholders on the performance of the Company for the quarter 
+and half -year ended  September  30, 2024 .  
+ 
+Kindly upload presentation to the terminals.  
+ 
+Yours faithfully,  
+For AXISCADES Technologies Limited  
+ 
+ 
+Sonal Dudani  
+Company Secretary & Compliance Officer  
+ 
+Encl: A/a  
+=== page 2 ===
+Q2 FY25
+EARNINGS PRESENTATIONAXISCADES  TECHNOLOGIES  LIMITED 
+=== page 3 ===
+AXIS CADES Technologies LimitedSafe Harbor
+This presentation  and the accompanying  slides  (the “Presentation”),  which  have  been  prepared  by AXISCADES  Technologies  Limited  (the “Company’),  have  been  prepared  
+solely  for information  purposes  and do not constitute  any offer,  recommendation  or invitation  to purchase  or subscribe  for any securities,  and shall  not form  the basis  or be 
+relied  on in connection  with  any contract  or binding  commitment  whatsoever . No offering  of securities  of the Company  will be made  except  by means  of a statutory  offering  
+document  containing  detailed  information  about  the Company .
+This Presentation  has been  prepared  by the Company  based  on information  and data  which  the Company  considers  reliable,  but the Company  makes  no representation  or 
+warranty,  express  or implied,  whatsoever,  and no reliance  shall  be placed  on, the truth,  accuracy,  completeness,  fairness  and reasonableness  of the contents  of this 
+Presentation . This Presentation  may  not be all inclusive  and may  not contain  all of the information  that you may  consider  material . Any liability  in respect  of the contents  of, 
+or any omission  from,  this Presentation  is expressly  excluded .
+Certain  matters  discussed  in this Presentation  may  contain  statements  regarding  the Company’s  market  opportunity  and business  prospects  that are individually  and 
+collectively  forward -looking  statements . Such  forward -looking  statements  are not guarantees  of future  performance  and are subject  to known  and unknown  risks,  
+uncertainties  and assumptions  that are difficult  to predict . These  risks  and uncertainties  include,  but are not limited  to, the performance  of the Indian  economy  and of the 
+economies  of various  international  markets,  the performance  of the industry  in India  and world -wide,  competition,  the company’s  ability  to successfully  implement  its 
+strategy,  the Company's  future  levels  of growth  and expansion,  technological  implementation,  changes  and advancements,  changes  in revenue,  income  or cashflows,  the 
+Company's  market  preferences  and its exposure  to market  risks,  as well as other  risks . The Company's  actual  results,  levels  of activity,  performance  or achievements  could  
+differ  materially  and adversely  from  results  expressed  in or implied  by this Presentation . The Company  assumes  no obligation  to update  any forward -looking  information  
+contained  in this Presentation . Any forward -looking  statements  and projections  made  by third  parties  included  in this Presentation  are not adopted  by the Company  and the 
+Company  is not responsible  for such  third -party  statements  and projections .
+All Maps  used  in the presentation  are not to scale . All data,  information,  and maps  are provided  "as is" without  warranty  or any representation  of accuracy,  Process  or 
+completeness  events  or circumstances .
+AXIS CADES Technologies Limited 2
+=== page 4 ===
+AXIS CADES Technologies Limited29.0%
+9.0%
+32.0%12.0%14.0%
+35.0%
+22.0%39.0%AXISCADES - Defence, Aerospace and Electronics:  Overview
+3Aerospace
+•Design & Analysis - Primary & 
+Secondary Structures, Aircraft Interiors
+•MSI and ESI, Electrical harness
+•Manufacturing Engineering
+•In-Service support – Repairs
+•Avionics and System
+Defence
+•Avionics, Radar, EW, C4I2
+•Drone & Anti -Drone Systems
+•System Integration
+•Automated Test Solutions
+•Simulators
+•Offset Management
+Automotive
+•ADAS , Passive Safety Systems 
+•Automotive Electronics  
+•AUTOSAR, HMI 
+•Infotainment & Telematics
+•Cybersecurity
+•Software Defined Vehicles
+Energy
+•Wind Analysis & Siting
+•Mechanical & Electrical Engineering 
+•Maintenance Support &Management
+•Upstream, Midstream & Downstream
+•Flow Assurance  
+•Asset Integrity and Management 
+Semiconductors
+•Hardware Design
+•Software Development
+•IoT device programming
+•FPGA Design Services
+•Middleware & Application Dev.
+•Branded chipsets
+Heavy Engineering
+•Structures, Cabin Design, Engine, 
+Powertrain
+•Electrification
+•AI enabled Manufacturing
+•Industry 4.0
+20 global 
+locations
+Over 3,100  
+professionals
+4.0%Aerospace
+Automotive
+Defence
+Energy
+Semicon.
+Heavy Eng.4%
+Europe
+Americas
+APAC
+CanadaUnique positioning with deep domain capabilities ranging 
+across competencies , with respect to - Electronics 
+Products, Engineering Services and Defence  
+Growth driven by 
+leveraging Digital 
+ER&D and Defence
+ER&D Services - A large and 
+underpenetrated market with 
+a Global TAM of ~$1 Tn
+Strong Defence -Tech Play with 
+leadership in Radar, Sonar and 
+Electronic Warfare systems
+
+=== page 5 ===
+AXIS CADES Technologies Limited
+ 4 AXISCADES Technologies Limited 4Commenting on the results and outlook, Mr. Arun Krishnamurthi, CEO & MD of AXISCADES said ,
+For Q2 FY25, the company  achieved  resilient  performance,  with  sales  revenue  of ₹264  crore,  recording   18% sequential  growth . This  was  complemented  by an EBITDA  of 
+₹33 crore  and  a PAT  of ₹12 crore,  reflecting  strong  operational  efficiency,  despite  macroeconomic  challenges  in certain  verticals . This  performance  underscores  our 
+ability  to navigate  a dynamic  market  environment,  while  delivering  value  to our stakeholders .
+The  revenue  growth  was  driven  both  by Digita l Engineering  Services  and  Defence . In engineering  services,   Aerospace  segment  demonstrated  a robust  19% YoY  growth . 
+Defence  revenues  grew  by a healthy  73% QoQ,  with  Defence  production  revenues  surging  by 84% QoQ,  bolstered  by a significant  order  backlog  set for execution in fiscal  
+years  2025  & 2026 . With  a healthy  pipeline  and   focused  approach,  over  the next  12-18 months,  we aim  the defence  revenue  to reach  around  60% of the overall  
+company’s  revenue .
+However,  automotive  vertical  continues  to face  macro  challenges,  which  adversely  impacted  revenue  and  margins  in the second  quarter . With  second  largest  
+outsourced  ER&D  spend  in automotive,  we are bullish  on this  vertical  returning  to growth  in early  FY26.
+We remain  committed  and  confident  of addressing  these  challenges  and  will continue  to focus  on strengthening  the business  to achieve  sustainable  growth  & 
+profitability .Message from
+CEO & Managing Director
+“
+”
+=== page 6 ===
+AXIS CADES Technologies Limited
+Key Highlights - Q2 FY25
+5Business Highlights
+❖Aerospace revenue    19% YoY; Expanding scope with 
+European OEM, new customer acquisitions.
+❖Defence  revenues    73% QoQ. Further ramp up at higher 
+margins expected in H2.​
+❖Semiconductor revenues    36% QoQ.
+❖Energy – New deal win from energy majors in UK & Middle 
+East.​
+❖Automotive order wins – Cybersecurity and ADAS.
+❖Headwinds in major OEM in Germany impacts automotive 
+performance.​Financial Highlights
+❖Revenue ₹264 crores ;   18.4 % QoQ
+❖Total order book at $89 Mn     17% QoQ   
+❖EBITDA at ₹33 crores ;     74%  QoQ on adjusted EBITDA
+❖EBITDA Margins at 12.4% ;    400bps QoQ  on adjusted 
+EBITDA
+❖PAT at ₹12 crores;       20% QoQ on adjusted PAT
+❖Q2 Defence  order intake ₹121 crores.
+❖Net Debt at ₹55 crores
+❖Cash, bank and liquid investments at ₹125 crores 
+=== page 7 ===
+AXIS CADES Technologies LimitedKey Financial Performance
+6•Q2  is generally a soft quarter, due to plant shutdowns in Europe
+•Production revenues in defence , at higher margins to ramp up in H2Q1 FY25
+ReportedQ2 FY25
+Revenue 223
+31
+13.9%
+17
+All numbers in INR crores 
+EBITDA
+PAT264
++ 18.4% QoQ
+33
+12.4%
++400bps
+12
++20.0% QoQQ1 FY25
+Adjusted
+223
+19
+8.4%
+10H1FY25
+488
++4.8% YoY
+64
+13.1%
+29
++72.0% YoY
+=== page 8 ===
+AXIS CADES Technologies LimitedAdjusted for one offs’ the operational performance remains healthy
+7inINRcroresStrong operational EBITDA growth; after adjusting  for
+ one time impact in Q1FY25PAT growth 20% QoQ; adjusting for one time impact of other
+income in Q1FY25
+31
+1933
+EBITDA
+Q1 FY25-12
+One time ESOP 
+writebackAdj. 
+Q1 FY25
+EBITDAEBITDA
+Q2 FY25+74%17
+1012
+PAT
+Q1 FY25-7
+Gain on 
+Sale of PropertyAdj. Q1 FY25 PAT PAT 
+Q2 FY25+20%
+=== page 9 ===
+AXIS CADES Technologies LimitedConsolidated Profit and Loss Statement
+8Particulars (in ₹ Cr.) Q2 FY24 Q1 FY25 Q2 FY25 YoY % QoQ %
+Revenue ($ Mn) $ 30.6 $ 26.9 $ 31.6 3.3% 17.6%
+Revenue 251 223 264 5.1% 18.4%
+Other Income 2 11 5
+Total Income 254 234 269 6.2% 15.2%
+EBITDA 36       31 33 -8.6% 5.4%
+EBITDA Margin (%) 14.2% 13.9% 12.4%
+EBIT 27 22 23
+Profit before Tax 18 24         19
+Tax 6 7 6
+Profit after Tax 11        17 12 9.7% -27.0%
+=== page 10 ===
+AXIS CADES Technologies LimitedConsolidated Balance Sheet Statement
+9Particulars (in ₹ Cr.) Mar -24 Sept -24
+Assets
+Non -Current Assets
+Property, Plant and Equipment 69 80
+Capital Work -in-progress -   0.4
+Right -of-use Assets 152 146
+Goodwill and Other Intangibles 193 185
+Other Non -Current Assets 62 82
+Total Non -Current Assets 476 494
+Current Assets
+Inventories 69 73
+Investments 29 36
+Trade Receivables 234 253
+Cash and Cash equivalents 56 35
+Bank bal. other than Cash & Cash equl . 97 54
+Other Current Assets 178 169
+Total Current Assets 663 621
+Total Assets 1,139 1,115Particulars (in ₹ Cr.) Mar -24 Sept -24
+Equity and Liabilities
+Equity
+Equity Share Capital 21 21
+Other Equity 564 586
+Non -Controlling Interest 6 7
+Total Equity 592 614
+Non -Current Liabilities
+Borrowings 106 54
+Lease Liabilities 64 59
+Other Non -Current Liabilities 32 24
+Total Non -Current Liabilities 203 137
+Current Liabilities
+Borrowings 133 126
+Trade Payables 64 77
+Lease Liabilities 16 16
+Other Current Liabilities 132 145
+Total Current Liabilities 345 364
+Total Equity and Liabilities 1,139 1,115
+=== page 11 ===
+AXIS CADES Technologies LimitedBusiness Highlights
+Aerospace
+•19% growth  YoY driven  by increase  in wallet  share  with  European  OEM .
+•Ramp  up in new  geography  – notably  North  America  and India . Increased  areas  of 
+service  - manufacturing  support  and final  assembly  lines .
+•Plant  shutdowns  with  OEM  resulted  in slowdown  during  Q2 resulting  in flat QoQ .•The company has won a critical work package on aero 
+structures (TCV - $15m) thereby solidifying our presence in the 
+vertical.
+•We will focus on digital in aerospace by broadening our 
+presence in Europe enabling better interaction and proximity 
+to customer.Highlights
+Defence
+•₹121 crores added to orderbook in Q2’25.
+•Production revenues increased 84% QoQ indicating execution of design wins from 
+the past and orderbook expansion.
+•₹78Cr production revenues booked in H1’25.•Production revenues will ramp up in H2 FY25 at higher 
+margins. 
+•The company will continue to focus on large deals in defence  
+space and has revamped leadership to align to its future 
+aspirations.
+•We will also include our ER&D capabilities in our defence  GTM 
+strategy.Outlook
+Semiconductor
+•36% growth  QoQ  driven  by design  revenues  and return  of traditional  revenue  
+lines  from  manufacturer .
+•Significant  use case  development  and testing  with  customers  in the vertical .•The company will position our Product Engineering Services 
+group capabilities as a horizontal thereby diversifying our 
+customer base  and use cases both within and outside 
+semiconductor space.
+•Growth in production revenues expected to ramp up in H2 
+FY25.
+
+=== page 12 ===
+AXIS CADES Technologies LimitedBusiness Highlights
+11Energy
+•100% YOY growth  driven  by EPCOGEN  enabled  accounts  as well as organic  growth  
+in inhouse  engagements .
+•QoQ  growth  of 7% on a consol  basis  and 25% on organic  accounts .
+•Selected  as the exclusive  engineering  partner  on 2 new  projects  in UK with  
+renewable  energy  solution  provider  (TCV  - $3m).•Commencing office -based operations in Middle East starting 
+Q3’24.
+•Focused acquisition of new logos and projects.
+•Business development with channel partners enabling 
+acquisition of new revenues in outer quarters.Highlights
+Heavy Engineering
+•Increased our engagement with global off highway OEM on both plant and 
+vehicle manufacturing.
+•Marginal QoQ growth 3% indicating turnaround in business engagement and 
+alignment to customer strategy.•We have revamped our cost structure and optimized 
+operations which will improve our margins from this vertical in 
+upcoming quarters.
+•We are working on several large use cases in AR VR space 
+leveraging Mistral capabilities and our in -house digital talent 
+targeting niche solutions with the customer.Outlook
+Automotive
+•QoQ  and YoY decline  due to macro  challenges  on global  scale  and with  European  
+OEMs  due to sluggishness  in EV space .
+•Change  in quality  of engagement  with  UK OEM  focused  on cybersecurity  and 
+system  testing .
+•Pivoting  from  mechanical  to digital  and embedded  solutions .•Engaging a global strategy leader in ER&D space to drive 
+growth forward in automotive vertical. As part of this 
+engagement, the player will enable the company with drawing 
+up of long -term strategy, customer introductions etc.
+•Evaluating opportunities outside continental Europe; customer 
+diversification & derisk our topline.
+
+=== page 13 ===
+AXIS CADES Technologies Limited•Naval program execution of 9 CR is nearing completion
+•Samudrika  – delivery expected in Q3 for 18 CR
+•On track to deliver Phase 1 of Arudhra  & HiSAR  Radars production orders in Q3 – 30 CR
+•Strong orderbook and significant uptick in production revenues in H2 at higher margins.OutlookMistral Defence
+ 322  121 
+      377 
+ rder  ook
+3     24Q2 25
+ ddi onsQ2 25
+Execu on rder  ook
+3     24
+12
+RadarDefence  Programs
+Approved Design Wins 
+Awaiting Production: 
+₹800 – 1,000 crores
+Design Wins 
+Under Development:
+₹2,500 – 3,000 crores
+•MPR Arudhra
+•Akash
+•Ashwini
+•QRSAM
+Airborne•Tejas
+•Aew&c
+•Dornier
+Naval•Samudrika
+•Indigo
+•USHUS
+•Abhay
+Upcoming Programs•Lca Mk Ii
+•Aew&c  Mk Ii
+•Su 30 Upgrade
+•Rustom II
+•Executions in Q2 were focused on Radar ( Arudhra )
+•New drone Kit based on Qualcomm QCS8550 continues to be under development - 
+Release to market expected in Q3
+•Defence exports stood at 4 CRHighlights
+
+=== page 14 ===
+AXIS CADES Technologies LimitedOperational Performance
+1329%22%32%16%
+11%12%16%
+16%14%2%
+5%4%11%
+11%9%26%
+36%29%
+Q2 FY24 Q1 FY25 Q2 FY25
+AEROSPACE
+AUTOMOTIVE
+ENERGYHEAVY ENGINEERING & OTHERS
+SEMICONDUCTOR (PES)
+PRODUCTS & SOLUTIONS (DEFENCE)30%23% 22%37%
+40%35%4%5%
+4%28% 32%39%
+Q2 FY24 Q1 FY25 Q2 FY25
+INDIA / APAC 
+CANADAEUROPE
+USA16%9% 12%13%
+12%19%71%78%68%
+Q2 FY24 Q1 FY25 Q2 FY25
+ENGINEERING SERVICES
+DEFENCE - PRODUCTIONDEFENCE - DESIGNRevenue by Vertical Revenue by Geography Revenue by Segment
+=== page 15 ===
+AXIS CADES Technologies LimitedOperational Performance
+1423%
+77%Q2 FY24Onsite
+Offshore
+69%31%
+Q2 FY25 Fixed Price
+Time and Material
+68%32%
+Q2 FY24
+65%35%
+Q1 FY2529%
+71%Q1 FY25
+71%23%
+77%Q2 FY25
+Revenue by Project TypeRevenue Mix
+=== page 16 ===
+AXIS CADES Technologies LimitedEmployee Statistics
+15❖QoQ  decline  in headcount  resultant  of operational  
+optimization
+❖Company  to focus  on digital  and embedded  hires  in 
+upcoming  quarters
+Q2 FY24 Q1 FY25 Q2 FY25
+DIGITAL & EMBEDDED 573 586 578
+MECHANICAL 2,108 2,368 2,288
+SUPPORT 239 247 245
+ATTRITION RATE (%) 15% 14% 17%2,9203,201 3,111
+Q2 FY24 Q1 FY25 Q2 FY25
+Employee MetricsKey Takeaways Total Headcount
+=== page 17 ===
+AXIS CADES Technologies LimitedShareholding Pattern as on September’24
+1659.9%
+4.1%35.7%
+0.4%
+Promoter FII DII PublicShareholding Pattern
+=== page 18 ===
+AXIS CADES Technologies Limited
+ 17COMPANY:
+AXISCADES Technologies Limited
+CIN : L72200KA1990PLC084435
+ Sangeeta Tripathi 
+(Head -  Investor Relations)
+Email : sangeeta.tripthi@axiscades.in   
+Website: www.axiscades.com  INVESTOR RELATIONS ADVISORS:
+Orient Capital  
+Mr. Sumeet Khaitan
++91 +91 70213 20701
+sumeet.khaitan@linkintime.co.in  Mr. Irfan Raeen 
++91 97737 78669
+irfan.raeen@linkintime.co.in  THANK YOU
+AXIS CADES Technologies Limited

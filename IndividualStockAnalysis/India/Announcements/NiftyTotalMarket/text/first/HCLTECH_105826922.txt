@@ -1,0 +1,134 @@
+ 
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 120 4306000  f: +91 120 4680330  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India   
+ 
+ 
+April 26,  2024 
+ 
+ 
+ 
+ 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH   
+ 
+ 
+ 
+Sub.: Consolidated Financial Statements – IFRS for the year ended  March  31, 2024 
+ 
+Dear Sir,  
+ 
+Enclosed please find the Consolidated Financial Statements – IFRS  for year ended March  31, 
+2024. 
+ 
+ 
+Thanking you,  
+For HCL Technologies Limited  
+ 
+Manish Anand  
+Company Secretary  
+ 
+ 
+ 
+  
+ Encl: a/a  
+ 
+
+Consolidated Financial Statements - IFRS
+For the year ended 31 March 2024 and 2023HCL Technologies Limited
+
+
+HCL Technologies Limited 
+Consolidated Balance Sheet
+(All amounts in millions of USD, except share data and as stated otherwise)
+As at As at
+31 March 2024 31 March 2023
+ASSETS
+Non-current assets
+Property, plant and equipment 3.1                            587                         654 
+Capital work in progress 3.1                              13                             5 
+Right-of-use assets 3.20 (a)                             349                         284 
+Goodwill 3.2                         2,415                      2,260 
+Other intangible assets 3.3                            856                      1,016 
+Investments 3.4                              11                           14 
+Trade receivables - unbilled 3.5                              75                           83 
+Deposits with Corporations                               34                            -   
+Other financial assets 3.7                            161                         156 
+Deferred tax assets (net) 3.17                             124                         152 
+Other assets 3.8                            227                         226 
+Total non-current assets                          4,852                      4,850 
+Current assets
+Inventories                               22                           28 
+Investments 3.4                            845                         655 
+Trade receivables
+Billed 3.5                          2,337                      2,381 
+Unbilled 3.5                            724                         722 
+Cash and cash equivalents 3.6 (a)                          1,134                      1,103 
+Deposits with banks 3.6 (b)                          1,282                         689 
+Deposits with Corporations                               95                         317 
+Other financial assets 3.7                            148                         136 
+Current tax assets (net)                               19                           24 
+Other assets 3.8                            509                         465 
+Total current assets                          7,115                      6,520 
+TOTAL ASSETS                         11,967                    11,370 Note 
+No.
+HCL Technologies Limited 
+Consolidated Balance Sheet
+(All amounts in millions of USD, except share data and as stated otherwise)
+As at As at
+31 March 2024 31 March 2023
+EQUITY AND LIABILITIES
+EQUITY
+Equity share capital 3.9                              72                           72 
+Retained earnings                          7,802                      7,763 
+Other equity                             311                         127 
+Equity attributable to owners of the Company                          8,185                      7,962 
+Non-controlling interest                                 1                           (1)
+TOTAL EQUITY                          8,186                      7,961 
+LIABILITIES
+Non-current liabilities
+Borrowings 3.10                             267                         257 
+Lease liabilities 3.20 (a)                             281                         202 
+Other financial liabilities 3.11                               88                           62 
+Contract liabilities                             126                           95 
+Provisions 3.12 (a)                             193                         160 
+Deferred tax liabilities (net) 3.17                               93                           20 
+Other liabilities 3.12 (b)                                 7                             5 
+Total non-current liabilities                          1,055                         801 
+Current liabilities
+Borrowings 3.10                               13                           17 
+Lease liabilities 3.20 (a)                             131                         106 
+Trade payables
+Billed                             308                         307 
+Unbilled and accruals                             394                         475 
+Other financial liabilities 3.11                             682                         634 
+Contract liabilities                             498                         477 
+Provisions 3.12 (a)                             160                         136 
+Current tax liabilities (net)                             277                         262 
+Other liabilities 3.12 (b)                             263                         194 
+Total current liabilities                          2,726                      2,608 
+TOTAL LIABILITIES                          3,781                      3,409 
+TOTAL EQUITY AND LIABILITIES                         11,967                    11,370 
+The accompanying notes are an integral part of the consolidated financial statementsNote 
+No.

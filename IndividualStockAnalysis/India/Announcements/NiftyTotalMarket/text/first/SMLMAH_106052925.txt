@@ -1,0 +1,209 @@
+ SML/SEC/2024-25-086 
+   11th November, 2024 
+Dy. General Manager, 
+Corporate Relationship Department 
+BSE Limited 
+P.J Towers,  
+Dalal Street Fort,  
+Mumbai-400 001 The Secretary, 
+National Stock Exchange of India Ltd. 
+Exchange Plaza, 5th Floor, 
+Plot no. C/1, G Block 
+Bandra- Kurla Complex 
+Bandra (E), Mumbai – 400 051 Scrip Code: 505192  Scrip Code: SMLISUZU  
+Dear Sir, 
+Outcome of Board Meeting - Regulation 30 of SEBI (LODR) Regulations, 2015  
+This is to inform you that the Board of Directors of the Company at their Meeting held today 
+i.e. 11th November, 2024 (Monday)  at New Delhi have approved the Un-audited Financial 
+Results for the second quarter and half year ended on 30th September, 2024.   
+A copy of the Un-audited Financial Results along with Limited Review Report issued by the 
+Statutory Auditors of the Company is enclosed herewith.  
+This intimation is also being uploaded on the Company’s website at 
+https://www.smlisuzu.com/IN . 
+The Board meeting commenced at 11:00 A.M. and concluded at  1:05 P.M. 
+You are requested to kindly take note of the above information on your records. 
+Yours faithfully 
+For SML ISUZU LIMITED 
+(PARVESH MADAN) 
+Company Secretary & Compliance Officer 
+pmadan@smlisuzu.com 
+ACS-31266 
+;
+(Rupees in Crores, except share data, per share data and unless otherwise stated)
+Year ended
+30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024
+Audited 
+1 INCOME 
+a) Revenue from operations 549.71 746.10 498.59 1,295.81 1,130.20 2,195.93
+b) Other income 1.55 1.16 0.22 2.71 2.42 5.41
+Total Income (1) 551.26 747.26 498.81 1,298.52 1,132.62 2,201.34
+2 EXPENSES
+a) Cost of materials consumed 362.69 483.12 449.76 845.81 844.30 1,754.81
+b) Purchase of stock-in-trade 21.39 23.03 21.48 44.42 40.19 78.41
+c) Changes in inventories of finished goods, work-in-progress 40.11 71.65 (86.97) 111.76 8.29 (135.89)
+    and stock-in-trade
+d) Employee benefits expense 48.95 54.24 47.27 103.19 95.79 195.69
+e) Finance cost 5.75 8.10 6.53 13.85 11.75 30.35
+f) Depreciation and amortisation expense 12.07 12.08 11.74 24.15 23.38 47.52
+g) Other expenses 31.77 33.08 27.85 64.85 55.72 124.00
+Total Expenses (2) 522.73 685.30 477.66 1,208.03 1,079.42 2,094.89
+3 Profit before tax (1-2) 28.53 61.96 21.15 90.49 53.20 106.45
+4 Tax expense / (credit)
+   - Current tax 1.15 -             -             1.15 -             -              
+   - Tax adjustment related to prior years (0.31) -             -             (0.31) -             0.08
+   - Deferred tax 5.89 15.57 0.06 21.46 0.32 (1.51)
+5 Profit for the period (3-4) 21.80 46.39 21.09 68.19 52.88 107.88
+6 Other Comprehensive Income
+ (i) Items that will not be reclassified to profit or loss
+     - Remeasurement losses on defined benefit plans (0.09) (0.08) (0.25) (0.17) (1.29) (0.32)
+ (ii) Income tax related to items that will not be reclassified to profit or loss 0.02 0.02 0.06 0.04 0.32 0.08
+7 Total Comprehensive Income for the period (5+6) [comprising 21.73 46.33 20.90 68.06 51.91 107.64
+Profit and Other Comprehensive Income for the period]
+8 Paid-up equity share capital (face value Rs. 10 per share) 14.48 14.48 14.48 14.48 14.48 14.48
+9 Other equity 271.11
+10 Basic and diluted earnings per share in Rs. (not annualised) 15.06 32.06 14.57 47.12 36.54 74.54 UnauditedSML ISUZU LIMITED
+STATEMENT OF UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED 30 SEPTEMBER 2024
+See accompanying notes to the unaudited financial resultsS.No.ParticularsCIN : L50101PB1983PLC005516, Website: www.smlisuzu.com, Email id : investors@smlisuzu.com, T : 91 1881 270255, F: 91 1881 270223Regd. Office : Village Asron, Distt. Shahid Bhagat Singh Nagar (Nawanshahr) - 144 533, Punjab
+Quarter ended Half year ended
+
+Rs. Crores
+Particulars Unaudited Audited
+30.09.2024 31.03.2024
+A. ASSETS
+1 Non-current assets
+Property, plant and equipment 260.52 267.20
+Capital work-in-progress 8.42 2.57
+Right of use assets 4.26 5.01
+Intangible assets 60.19 68.30
+Intangible assets under development 11.20 8.01
+Financial assets
+   - Loans 1.95 2.02
+   - Other financial assets 2.91 2.94
+Deferred tax assets (net) -             19.08
+Income tax assets (net) 3.24 5.02
+Other non-current assets 9.24 7.76
+                    Total non-current assets (A) 361.93 387.91
+2 Current assets
+Inventories 469.10 579.73
+Financial assets
+   - Trade receivables 132.55 168.97
+   - Cash and cash equivalents 7.29 34.82
+   - Bank balances other than cash and cash equivalents 37.38 13.87
+   - Loans 1.07 0.67
+   - Other financial assets 1.27 1.33
+Other current assets 23.64 25.22
+                       Total current assets (B) 672.30 824.61
+                  Total assets (A+B) 1,034.23 1,212.52
+B. EQUITY AND LIABILITIES
+1 Equity
+Equity share capital 14.48 14.48
+Other equity 316.02 271.11
+                Total equity (C) 330.50 285.59
+2 Liabilities
+Non-current liabilities
+Financial liabilities
+   - Borrowings 34.84 40.35
+   - Lease liabilities 2.33 3.07
+   - Other financial liabilities 12.02 11.83
+Provisions 55.58 50.28
+Deferred tax liabilities (net) 2.33 -             
+Other non-current liabilities 1.93 1.85
+                   Total non-current liabilities (D) 109.03 107.38
+Current liabilities
+Financial liabilities
+   - Borrowings 251.37 375.30
+   - Trade payables
+    (a) total outstanding dues of micro enterprises and small enterprises 15.22 21.04
+    (b) total outstanding dues of creditors other than micro enterprises and 211.56 310.84
+         small enterprises
+   - Lease liabilities 2.58 2.55
+   - Other financial liabilities 35.90 11.79
+Other current liabilities 42.44 65.52
+Provisions 35.48 32.36
+Current tax liabilities (net) 0.15 0.15
+              Total current liabilities (E) 594.70 819.55
+              Total liabilities (D+E) 703.73 926.93
+          Total equity and liabilities (C+D+E) 1,034.23 1,212.52Statement of Assets and Liabilities as at 30 September 2024
+
+ STATEMENT OF CASH FLOWS FOR THE HALF YEAR ENDED 30 SEPTEMBER 2024
+(Rupees in Crores)
+Unaudited Unaudited
+Half year ended Half year ended
+30 September 2024 30 September 2023
+A. CASH FLOW FROM OPERATING ACTIVITIES
+             Profit before tax 90.49 53.20
+             Adjustments for :
+             Depreciation and amortization expense 24.15 23.38
+             Finance costs 13.85 11.75
+             Interest income (1.88) (0.76)
+             Property, plant and equipment written off (net) 0.50 0.43
+             Net gain on sale of property, plant and equipment (0.05) (1.20)
+             Allowance for doubtful trade receivables / advances 0.20 -                      
+             Provision for inventories written down 0.46 1.83
+             Bad debts / advances written off 0.01 0.04
+             Liabilities/provisions/allowances no longer required written back (0.16) (0.12)
+    Operating profit before working capital changes 127.57 88.55
+             Adjustments for changes in : 
+             Trade receivables 36.23 (0.33)
+             Inventories 110.17 1.44
+             Other non-current and current financial assets 0.03 (0.40)
+             Other non-current and current loans (0.33) (1.92)
+             Other non-current and current assets 1.62 11.25
+             Trade payables (104.94) 22.47
+             Non-current and current provisions 7.78 5.59
+             Other non-current and current financial liabilities 0.15 1.80
+             Other non-current and current liabilities (23.01) (86.97)
+        Cash generated from operations 155.27 41.48
+             Less: Direct tax (refund) / paid [net] (0.95) 0.75
+156.22 40.73
+B. CASH FLOW FROM INVESTING ACTIVITIES :
+             Payment for property, plant and equipment, intangible assets, (18.34) (25.24)
+             capital work in progress and intangible assets under development
+             Proceeds from sale of property, plant and equipment 0.14 4.98
+             (Investment in) / maturity of bank deposits [having original maturity of more (2.56) 0.23
+             than three months]
+             Interest received 1.95 0.57
+        Net cash used in investing activities (18.81) (19.46)
+C. CASH FLOW FROM FINANCING ACTIVITIES
+             Long-term borrowings taken during the period 5.09 22.80
+             Long-term borrowings repaid during the period (12.74) (10.84)
+             Payment of lease liabilities (Principal) (0.96) (0.86)
+             Payment of lease liabilities (Interest) (0.24) (0.28)
+             Short-term borrowings repaid during the year (net) (121.79) (20.98)
+             (Addition to) / withdrawal from unpaid dividend accounts (20.95) -                      
+             Finance costs paid (13.35) (11.05)
+        Net cash used in financing activities (164.94) (21.21)
+      Net (decrease) / increase in cash and cash equivalents (27.53) 0.06
+      Cash and cash equivalents at the beginning of the period 34.82 3.49
+      Cash and cash equivalents at the end of the period 7.29 3.55
+ Notes to the Cash Flow Statement :-  
+1. Components of cash and cash equivalents
+       Balances with banks
+           - Bank deposits (original maturity of 3 months or less) -                      1.00
+            - Current accounts 7.29 2.55
+7.29 3.55
+          Net cash generated from operating activities
+2. The above "Statement of Cash flows" has been prepared as per the Indirect method as set out in Indian Accounting Standard-7,
+
+Notes : 
+1
+2
+3
+4
+For and on behalf of
+the Board of Directors
+(Junya Yamanishi)
+Place: New Delhi Managing Director & CEO
+Date: 11 November 2024 DIN: 09174162The CEO and CFO have certified these results under Regulation 33(2) of SEBI (LODR) Regulations, 2015.The above unaudited results were reviewed by the Audit Committee on 10 November 2024 and approved by the Board of Directors in their meeting held on
+11 November 2024. The unaudited results for the current quarter, have been subjected to limited review by the Statutory Auditors of the Company. The
+unmodified review report of the Statutory Auditors is being filed with the BSE and National Stock Exchange Limited. For more details on the unaudited
+results, visit section of our website at www.smlisuzu.com and in section of www.nseindia.com and
+www.bseindia.com.
+The Company is primarily engaged in the business of manufacturing of commercial vehicles and related components which constitutes a single business
+segment and accordingly, disclosure requirements of Ind AS 108, are not required to be given. As defined in Ind AS 108, the Chief
+Operating Decision Maker (CODM), i.e. the Board of Directors, evaluates the performance of the Company and allocates resources based on the analysis of
+the various performance indicators of the Company as a single unit.The above financial results have been prepared in accordance with the recognition and measurement principles laid down in Indian Accounting Standard 34,
+Interim Financial Reporting ('Ind AS 34'), prescribed under section 133 of the Companies Act, 2013 and other accounting principles generally
+accepted in India and is in compliance with the presentation and disclosure requirements of Regulation 33 of the Listing Regulations, including relevant
+circulars issued by the SEBI from time to time.
+

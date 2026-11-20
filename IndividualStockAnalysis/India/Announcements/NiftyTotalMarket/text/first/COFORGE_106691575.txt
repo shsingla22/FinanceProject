@@ -1,0 +1,135 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                      
+T: +91 120 4592300 | F: +91 120 4592 301                                         T: 0124- 4627837                 CIN: L72100HR1992PLC128382                    
+ 
+    July  09, 2026  
+  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai –  400 001  
+BSE Scrip code – 532541  
+Equity ISIN INE591G01025 
+ 
+  
+The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Symbol  – COFORGE  
+ 
+Dear Sir/Madam,  
+  
+Subject: Press Release  
+ 
+Pursuant  to applicable provisions  of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 
+2015, as amended, please find enclosed press release  of the Company announc ing that “ Coforge launches 
+AI-powered SecureEdge2Cloud, a Zero Trust offering built on Zscaler Platform ” 
+ 
+We request you to take the above on record . 
+ 
+For Coforge Limited  
+  
+  
+  
+Barkha Sharma  
+Company Secretary & Compliance Officer  
+ 
+ 
+Encl .: As above  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Coforge launches AI -powered SecureEdge2Cloud , a Zero Trust 
+offering built on Zscaler Platform  
+Reimagining enterprise security with AI, Zero Trust, and a unified edge -to-cloud 
+framework for secure digital transformation 
+Greater Noida, India/Princeton, NJ, USA – Thurs day, July 9, 2026 - Coforge Limited  (NSE: 
+COFORGE), an AI -native engineering services leader, today announced the launch of 
+SecureEdge2Cloud, a next -generation AI -powered, Zero Trust  security offering built on the 
+Zscaler Zero Trust Exchange™  platform . The offering enables organizations across industries 
+to securely accelerate digital transformation, strengthen cyber resilience, and confidently adopt 
+cloud, AI, and modern digital technologies. 
+Coforge was recently onboarded into the next phase of Zscaler’s Project AI -Guardian, expanding 
+ecosystem collaboration and strengthening interoperability across the Zscaler Zero Trust Exchange 
+platform and its AI security portfolio.  
+Addressing a Critical Enterprise Security Challenge  
+Organizations today operate in increasingly complex digital environments where users, applications, data, devices , and AI agents  are distributed across cloud, on -premises, and hybrid 
+infrastructures. As enterprises accelerate AI adoption and connect more ecosystems through partners, suppliers, contractors, and third- party platforms, traditional perimeter -based security 
+models are b ecoming ineffective.  
+At the same time, cyber threats continue to evolve in sophistication, targeting sensitive business 
+data, intellectual property, customer information, and critical operational systems. Security teams 
+are challenged by fragmented architectures, growing attac k surfaces, shadow IT, unmanaged 
+devices, and increasingly stringent regulatory and compliance requirements.  
+To stay ahead, enterprises need a modern security architecture that delivers visibility, simplifies 
+operations, reduces risk, and protects users, applications, and data regardless of location. 
+A Unified Zero Trust Approach for the Modern Enterprise  
+SecureEdge2Cloud is designed to help organizations simplify security while reducing the complexity 
+of managing multiple point solutions. Built across the OSI 7 layers framework, the offering combines the power of the Zero Trust Exchange with Coforge's  deep expertise in cloud 
+transformation, AI, cybersecurity, and enterprise modernization.  
+ 
+ 
+The solution helps organizations:  
+● Modernize secure access for employees, contractors, partners, and third -party users  
+● Protect both managed and unmanaged devices across distributed environments  
+● Strengthen inline data protection across SaaS, web, and cloud applications  
+● Secure AI -powered applications, agents, and workflows  
+● Enable fast, secure access to private applications from any location 
+● Improve observability and proactively resolve application, network, and device issues  
+● Enhance visibility across business -critical systems and digital ecosystems  
+● Continuously optimize security posture as technology and business requirements evolve  
+ 
+Driving Simplicity, Visibility, and Resilience  
+SecureEdge2Cloud simplifies Zero Trust adoption by integrating advanced platform capabilities with 
+implementation, modernization, managed security, and operational services. The solution enables consistent policy enforcement, improved visibility, and conti nuous optimization, helping 
+organizations align security investments with evolving business objectives.  
+Sudhir Singh, CEO & Executive Director, Coforge, said, "Organizations today need a security strategy that can keep pace with the rapid adoption of cloud, AI, and distributed digital ecosystems. SecureEdge2Cloud reflects Coforge's AI -engineering approach, combined with our deep expertise 
+in cybersecurit y, cloud, and enterprise transformation. Together with Zscaler, we are helping 
+organizations simplify complexity, strengthen resilience, protect critical assets, and unlock innovation with confidence in an increasingly AI -driven world."  
+Jay Chaudhry, CEO, Chairman & Founder, Zscaler , added, "Security should be an accelerator 
+of business transformation, not a constraint. As organizations modernize their operations with cloud, AI, and connected ecosystems, they need a security architecture built for speed, scale, and resilience. Our co llaboration with Coforge delivers exactly that -combining Zero Trust security with 
+deep implementation expertise to help organizations reduce risk, protect critical assets, and unlock the full value of digital transformation."  
+A New Foundation for Enterprise Security  
+SecureEdge2Cloud represents a fundamental shift from fragmented, perimeter -based security 
+models to a continuous, identity- centric Zero Trust framework. By embedding security across users, 
+devices, applications, workloads, and data, it establishes a resili ent foundation for long -term 
+business growth and innovation.  
+ 
+As organizations continue to modernize through cloud, AI, and digital technologies, 
+SecureEdge2Cloud enables them to stay ahead of emerging threats, strengthen compliance, 
+improve operational resilience, and deliver secure experiences for employees, customers, and partners.  
+While SecureEdge2Cloud is designed for all industries, Coforge has already seen significant success 
+in highly regulated and security- sensitive sectors, including Healthcare & Life Sciences, Financial 
+Services, Insurance, and other enterprise environments w here secure digital transformation is a 
+strategic priority.  
+For more details, please click here.  
+About Coforge  
+Coforge is an AI- native engineering services leader, where AI is the very foundation of how we 
+design, build, and deliver intelligent solutions for our clients. We use AI and hyperspecialized  
+industry expertise to engineer autonomous enterprises. We combine AI agents with our AI -enabled 
+workforce, including specialized FDEs in hybrid pod -based delivery units. With a deep focus on 
+trusted AI, our solutions are secure, governed, and enterprise- grade. We are outcome -led by 
+design. Moving beyond AI experimentation, we deliver measurable business outcomes – lower 
+operating costs, faster cycle times, higher conversion rates, and sustained margin growth.  
+Learn more at  www.coforge.com  
+ 

@@ -1,0 +1,101 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 92402 97500  
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/65                                                                                                   July 27, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+We are attaching herewith copy of the Press Release titled “LTM and Cognition Partner to Reduce 
+Cyber Risk in Financial Services with Devin” which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl. As above. 
+ 
+ 
+ 
+LTM and Cognition Partner to Reduce Cyber Risk in Financial Services with Devin 
+ 
+San Francisco, California — July 27, 2026 —  LTM, the Business Creativity partner to the world's largest enterprises, 
+today announced a strategic partnership with Cognition , the AI lab behind the software engineering agent Devin. As a part 
+of this partnership, LTM has onboarded Devin, Cognition’s Autonomous AI Engineer as part of BlueVerseTM RightLogic .  
+ 
+LTM BlueVerse RightLogic, is a cybersecurity assessment and risk assurance framework designed to help enterprises 
+identify, assess and remediate cyber exposure as they accelerate AI adoption. Together, the companies will prioritize 
+financial services sector, where Devin is most proven and where LTM brings deep institutional expertise. 
+ 
+As AI adoption accelerates, many financial institutions are facing a widening gap between innovation and cyber risk visibility. 
+BlueVerse RightLogic closes this gap by autonomously identifying, prioritizing and remediating vulnerabilities across 
+banking infrastructure, applications, AI systems, software supply chains and governance—including exploits targeting 
+capital markets trading infrastructure, card networks and payment processing systems. 
+ 
+BlueVerse RightLogic ingests findings from the scanners enterprises already run, prioritizes them against business criticality 
+and regulatory exposure, and routes high-confidence fixes to Devin for end-to-end remediation, while LTM engineers handle 
+the complex tail. Every fix is reviewed by a professional before it merges, and every engagement feeds LTM's remediation 
+playbooks so that more of the work runs autonomously over time. The service is designed to lift Common Vulnerabilities 
+and Exposures (CVE) backlog coverage from roughly 60 percent to 80 percent, an improvement jointly backed by LTM and 
+Cognition ensuring that mission-critical financial services remain uninterrupted and insulated from sophisticated adversarial 
+attacks. 
+ 
+Together through this partnership, LTM & Cognition are launching five joint offerings that they will bring to market together: 
+● AI Security and Vulnerability Remediation  — autonomous, outcome-based remediation of security backlogs. 
+● Accelerated Application Modernization  — reverse-engineering and rebuilding legacy systems at scale. 
+● SDLC Transformation and DevOps — automating the software lifecycle from requirements to deployment. 
+● Tech & Business Convergence  — combining deep domain and engineering expertise to accelerate vendor 
+consolidation and application rationalization. 
+● Database and ETL Migration  — moving data platforms to modern destinations such as Databricks and Snowflake. 
+ 
+“The Financial Services sector is under constant pressure to strengthen security while accelerating AI adoption. Through 
+BlueVerse RightLogic and Devin, we are helping clients reduce vulnerability backlogs, automate remediation, and improve 
+cyber resilience across financial services, empowering them to innovate faster without compromising security.” —  Harsh 
+Naidu, Chief Business Officer – Banking & Financial Services, LTM. 
+ 
+The partnership builds on real momentum inside LTM. A large pool of LTM engineers has already been trained on Devin, 
+with several having completed hands-on workshops, which means customers can engage LTM teams that are productive 
+on day one rather than waiting out an internal ramp. 
+ 
+"Security has become a volume problem that no human team can staff its way out of. Devin lets security teams move from 
+reporting issues to resolving them, and LTM brings the expertise and customer relationships to deliver that outcome at 
+enterprise scale." — Gardner Johnson, Global Head of Partnerships, Cognition. 
+ 
+The launch of BlueVerse RightLogic marks the first milestone in a growing partnership between LTM and Cognition that will 
+expand across LTM's practices and into new industries over the coming year. Organizations interested in deploying Devin 
+at scale with LTM can click here to learn more. 
+ 
+About LTM 
+LTM — a Larsen & Toubro Group Company — is an AI-centric global technology services company and the Business Creativity partner to the world’s 
+largest enterprises. We bring human insights and intelligent systems together to help clients create greater value at the intersection of technology and 
+domain expertise. Our capabilities span integrated operations, transformation, and business AI — enabling new ways of working, new productivity 
+paradigms, and new roads to value. Together with over 87,000 employees across 40 countries and our global network of partners, LTM owns outcomes 
+for our clients, helping them not just outperform the market, but Outcreate it. Read more at LTM.com.   
+ 
+Media Contact:  Shambhavi Revandkar | Global Media Relations | Shambhavi.revandkar@ltm.com  

@@ -1,0 +1,349 @@
+                                                                                                                                                 
+ 
+                                                                                                                                                                                      
+                                                                                                                                                                           
+ 
+30th October 2025 
+ 
+BSE Limited  
+Listing Department  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai – 400 001  
+Scrip Code: 532432  
+ The National Stock Exchange of India Limited  
+Exchange Plaza, C -1 Block G,  
+Bandra Kurla Complex,  
+Bandra East, Mumbai  – 400 051 
+Scrip Code: UNITDSPR  
+ 
+Dear Sirs,  
+ 
+Sub:  Intimation of unaudited financial results for the quarter and half year ended 3 0th 
+September 2025 pursuant to Regulation 33 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 . 
+ 
+The Board of Directors of the Company at their meeting held today ha ve inter -alia approved the 
+unaudited financial results (standalone and consolidated) of the Company for the quarter and half year 
+ended 30th September 2025. The same is enclosed.  
+ 
+Further, the Limited Review Report received from the Statutory Auditors of the Company is also 
+enclosed.  
+ 
+The meeting commenced at 14:30 hours IST and concluded at 17:11 hours  IST. Also note that the 
+aforesaid information will be available on our website  www.diageoindia.com . 
+  
+This is for your information and records.  
+ 
+Thank you,  
+ 
+For United Spirits Limited  
+ 
+ 
+ 
+Pragya Kaul  
+Company Secretary  and Compliance Officer  
+ 
+Encl: as above  
+ 
+Unaudited Standalone Statement of Financial Results for the quarter and six months ended September 30, 2025
+ Year ended 
+ September 30, 2025 
+(Unaudited)  June 30, 2025
+(Unaudited)  September 30, 2024 
+(Unaudited)  September 30, 2025 
+(Unaudited)  September 30, 2024 
+(Unaudited)  March 31, 2025 
+(Audited) 
+1Income
+(a) Revenue from operations 7,192                          5,823                          6,671                           13,015                         12,500                         26,780
+(b) Other income 76                               61                               34                               137                              66                               426
+Total income 7,268                         5,884                         6,705                         13,152                        12,566                       27,206                  
+2Expenses
+(a) Cost of materials consumed 1,637                          1,185                          1,460                           2,822                           2,548                           5,443
+(b) Purchase of stock-in-trade 432                             135                             195                             567                              336                             864
+ (c) Changes in inventories of finished goods, work-in
+      -progress and stock-in-trade (392)                            108                             (97)                              (284)                             (20)                              90
+(d) Excise duty 4,022                          3,274                          3,828                           7,296                           7,305                           15,207
+(e) Employee benefits expense 175                             136                             162                             311                              295                             605
+(f) Depreciation and amortisation expense 65                               68                               69                               133                              134                             274
+(g) Others:
+     (i) Advertisement and sales promotion 241                             238                             257                             479                              432                             1,128
+     (ii) Other expenses 405                             332                             359                             737                              639                             1,385
+(h) Finance costs 21                               49                               25                               70                                47                               89
+Total expenses 6,606                         5,525                         6,258                         12,131                        11,716                       25,085                  
+3 Profit before exceptional items and tax (1 - 2) 662                            359                            447                            1,021                          850                            2,121
+4 Exceptional items, net (refer note 7) (30)                              (11)                              -                              (41)                               -                              (65)
+5 Profit before tax (3 + 4) 632                            348                            447                            980                             850                            2,056                     
+6Income tax expense
+(a) Current tax 164                             95                               104                             259                              210                             497
+(b) Current tax relating to earlier years -                              -                             -                              -                              -                              (9)
+(c) Deferred tax charge / (credit) (4)                                (5)                                8                                 (9)                                 6                                 10
+ Total tax expense 160                            90                              112                            250                             216                            498                       
+7 Profit for the period (5 - 6) 472                            258                            335                            730                             634                            1,558
+8 Other comprehensive income 
+  A. Items that will be reclassified to profit or loss -                              -                             -                              -                              -                              -                        
+  B. Items that will not be reclassified to profit or loss 
+(i) Remeasurements of post-employment 
+benefit plans-                              -                             -                              -                              -                              (3)
+(ii) Income tax credit relating to above -                              -                             -                              -                              -                              1 
+ Other comprehensive income, net of income tax -                             -                            -                             -                              -                             (2)
+9 Total comprehensive income (7 + 8) 472                            258                            335                            730                             634                            1,556                     
+10each) 145                             145                             145                             145                              145                             145
+11 Other equity 7,734
+12
+6.49                            3.55                            4.61                            10.04                           8.72                            21.42UNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com
+Particulars Quarter ended  Half year ended 
+
+ As at 
+September 30, 2025  As at 
+March 31, 2025 
+ Unaudited  Audited 
+ASSETS
+Non-current assets
+Property, plant and equipment 868                                850                                
+Right-of-use assets 386                                457                                
+Capital work-in-progress 74                                  72                                  
+Intangible assets 14                                  24                                  
+Investment properties 70                                  75                                  
+Financial assets
+Investments in subsidiaries and joint ventures 339                                234                                
+Trade receivables 346                                340                                
+Other financial assets 530                                384                                
+Deferred tax assets (net) 164                                155                                
+Current tax assets (net) 1,110                             1,095                             
+Other non-current assets 229                                215                                
+Total non-current assets 4,130                            3,901                            
+Current assets
+Inventories 2,907                             2,305                             
+Financial assets
+Investments 1,139                             873                                
+Trade receivables 3,190                             3,288                             
+Cash and cash equivalents 716                                1,150                             
+Bank balances other than cash and cash equivalents 438                                623                                
+Loans 1                                    22                                  
+Other financial assets 67                                  259                                
+Other current assets 236                                297                                
+Total current assets 8,694                            8,817                            
+Total assets 12,824                          12,718                          
+EQUITY AND LIABILITIES
+EQUITY 
+Share capital 145                                145                                
+Other equity
+Reserves and surplus 7,903                             7,734                             
+Total equity 8,048                            7,879                            
+LIABILITIES
+Non-current liabilities
+Financial liabilities
+Lease liabilities 290                                334                                
+Provisions 7                                    16                                  
+Total non-current liabilities 297                               350                               
+Current liabilities
+Financial liabilities
+Lease liabilities 121                                146                                
+Trade payables
+86                                  74                                  
+2,098                             2,078                             
+Other financial liabilities 182                                484                                
+Provisions 506                                373                                
+Current tax liabilities (net) 362                                358                                
+Other current liabilities 1,124                             976                                
+Total current liabilities 4,479                            4,489                            
+Total liabilities 4,776                            4,839                            
+Total equity and liabilities 12,824                          12,718                          Particulars
+ (A) total outstanding dues of micro and small enterprises
+ (B) total outstanding dues of creditors other than micro and small 
+enterprisesUNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+ Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com 
+Unaudited Standalone Statement of assets and liabilities as at September 30, 2025
+
+Unaudited Standalone Statement of Cash flows for the six months ended September 30, 2025
+ Six months ended
+September 30, 2025  Six months ended
+September 30, 2024 
+A. CASH FLOW FROM OPERATING ACTIVITIES
+Quarter ended September 30, 2023Profit before tax 980                            850                            
+0Adjustments for
+0Depreciation and amortisation expense 133                             134                             
+Employee share-based payment expense 10                               15                               
+Loss allowance on trade receivables, other assets and other financial assets (net) 3                                 (6)                                
+Profit on redemption of mutual funds units (27)                              (39)                              
+(Increase)/decrease in fair value of mutual funds units (net) (31)                              4                                 
+Finance costs 70                               47                               
+(Gain)/loss on disposal of property, plant and equipment and investment property (net) (22)                              1                                 
+Interest income on term deposit with banks (40)                              (23)                              
+Interest income from loans to joint ventures (1)                                -                             
+Exceptional items (net) 41                               -                             
+0Exchange loss on translation of foreign currency monetary assets and liabilities 1                                 1                                 
+Operating profit before changes in working capital 1,117                         984                            
+(Increase) / decrease in trade receivables 91                               (640)                            
+(Increase) / decrease in loans and other financials assets 251                             4                                 
+(Increase) / decrease in other assets 55                               82                               
+(Increase) / decrease in inventories (601)                            (174)                            
+Increase / (decrease) in trade payables 25                               (7)                                
+Increase / (decrease) in other financial liabilities (59)                              (62)                              
+Increase / (decrease) in other liabilities 149                             134                             
+Increase / (decrease) in provisions 75                               (15)                              
+Cash generated from operations 1,103                         306                            
+Income taxes (payment) / refunds received (275)                            91                               
+Net cash generated from operating activities (A) 828                            397                            
+B.CASH FLOW FROM INVESTING ACTIVITIES
+Purchase of property, plant and equipment and intangible assets (89)                              (86)                              
+Proceeds from sale of property, plant and equipment and investment property 31                               1                                 
+Purchase of current investments (1,047)                         (368)                            
+Redemption of current investments 780                             383                             
+Investment in term deposits with banks (622)                            (675)                            
+Redemption of term deposits from banks 655                             395                             
+Investment in subsidiary and joint ventures (93)                              (13)                              
+Repayment of loan by subsidiary 18                               -                             
+Repayment of loans given to others 2                                 3                                 
+Interest received 48                               21                               
+Net cash outflow from investing activities (B) (317)                           (339)                           
+C.CASH FLOW FROM FINANCING ACTIVITIES
+Repayment of deferred sales tax liability -                             (0)                                
+Dividends paid (net) (854)                            (350)                            
+Principal repayment of lease liabilities (71)                              (62)                              
+Interest paid on lease liabilities (20)                              (18)                              
+Net cash outflow from financing activities (C) (945)                           (430)                           
+Net increase in cash and cash equivalents [D = A+B+C] (434)                           (372)                           
+Cash and cash equivalents as at the beginning of the year (E) 1,150                          1,021                          
+Net increase in cash and cash equivalents (434)                            (372)                            
+Cash and cash equivalents as at the end of the period [D+E] 716                            649                             Unaudited UNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com
+Particulars
+
+ Year ended 
+ September 30, 2025 
+(Unaudited)  June 30, 2025
+(Unaudited)  September 30, 2024 
+(Unaudited)  September 30, 2025 
+(Unaudited)  September 30, 2024 
+(Unaudited)  March 31, 2025 
+(Audited) 
+1Income
+(a) Revenue from operations 7,199                             6,295                      6,672                            13,494                          12,910                          27,276
+(b) Other income 81                                  72                           54                                 153                               89                                336 
+Total income 7,280                            6,367                     6,726                          13,647                        12,999                        27,612
+2Expenses
+(a) Cost of materials consumed 1,638                             1,185                      1,460                            2,823                            2,548                            5,443 
+(b) Purchase of stock-in-trade 432                                135                         195                               567                               336                              864 
+ (c) Changes in inventories of finished goods, work-in-progress
+       and stock-in-trade (392)                               108                         (97)                               (284)                              (20)                               90
+(d) Excise duty 4,026                             3,274                      3,828                            7,300                            7,305                            15,207
+(e) Employee benefits expense 179                                137                         163                               316                               298                              609 
+(f) Depreciation and amortisation expense 65                                  76                           69                                 141                               141                              283 
+(g) Others:
+     (i) Advertisement and sales promotion 243                                238                         258                               481                               433                              1,130 
+     (ii) Other expenses 413                                574                         363                               987                               795                              1,690 
+(h) Finance costs 21                                  49                           25                                 70                                 47                                89
+Total expenses 6,625                            5,776                     6,264                          12,401                        11,883                        25,405
+3 Profit before share of net loss of joint ventures, exceptional 
+items and tax (1-2) 655                               591                        462                              1,246                           1,116                          2,207
+4Share of net loss of joint ventures (1)                                   (6)                            (2)                                 (7)                                  (3)                                 (7)
+5 Profit before exceptional items and tax (3+4) 654                               585                        460                              1,239                           1,113                          2,200
+6 Exceptional items, net (refer note 7) (30)                                                          (14)                                 -                                  (44)                                 -   (65) 
+7 Profit before tax (5 + 6) 624                               571                        460                              1,195                           1,113                          2,135
+8Income tax expense
+(a) Current tax 164                                161                         111                               325                               282                              555 
+(b) Current tax relating to earlier years -                                 -                          -                               -                               -                               (11) 
+(c) Deferred tax (credit) / charge (4)                                   (7)                            8                                   (11)                                5                                  9
+ Total tax expense 160                               154                        119                              314                              287                             553
+9 Profit for the period (7-8) 464                               417                        341                              881                              826                             1,582
+10 Other comprehensive income 
+  A. Items that will be reclassified to profit or loss  
+(i) Exchange differences on translation of foreign 
+operations1                                    5                             4                                   6                                   3                                  2
+(ii) Share of other comprehensive income of joint ventures-                                 -                          -                               -                               -                               -                        
+  B. Items that will not be reclassified to profit or loss  
+(i) Remeasurements of post-employment benefit plans -                                 -                          -                               -                               -                               (3)
+(ii) Share of other comprehensive income of joint ventures -                                 -                          -                               -                               -                               -                        
+(iii) Income tax credit relating to above -                                 -                          -                               -                               -                               1
+ Other comprehensive income, net of income tax 1                                    5                             4                                  6                                  3                                  0                            
+11Total comprehensive income (9+10) 465                               422                        345                              887                              829                             1,582
+12Profit attributable to:
+a) Owners of the Holding Company 464                                417                         341                               881                               826                              1,582  
+b) Non-controlling interest (0)                                   0                             -                               (0)                                  -                               -                        
+13Other comprehensive income attributable to:
+a) Owners of the Holding Company 1                                    5                             4                                   6                                   3                                  0
+b) Non-controlling interest -                                 -                          -                               -                               -                               -                        
+14Total comprehensive income attributable to: (12+13)
+a) Owners of the Holding Company 465                                422                         345                               887                               829                              1,582  
+b) Non-controlling interest (0)                                   0                             -                               (0)                                  -                               -                        
+15 145                                145                         145                               145                               145                              145 
+16Other equity 7,959 
+17
+6.53                               5.87                        4.80                              12.41                            11.63                            22.28  UNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com
+Unaudited Consolidated Statement of Financial Results for the quarter and six months ended September 30, 2025
+Particulars
+ *Note: In calculating the weighted outstanding equity shares during all the periods presented under Consolidated Statement of results, the Holding Company has reduced its own shares held by USL Benefit 
+Trust (of which the Holding Company is the sole beneficiary). Quarter ended  Half year ended 
+
+ As at 
+September 30, 2025  As at 
+March 31, 2025 
+ Unaudited  Audited 
+ASSETS
+Non-current assets
+Property, plant and equipment 870                             850                             
+Right-of-use assets 386                             457                             
+Capital work-in-progress 81                               72                               
+Goodwill 49                               1                                 
+Other intangible assets 382                             329                             
+Investment properties 70                               75                               
+Financial assets
+Investment in joint ventures 11                               50                               
+Trade receivables 346                             340                             
+Other financial assets 532                             384                             
+Deferred tax assets (net) 164                             155                             
+Current tax assets (net) 1,130                          1,115                          
+Other non-current assets 230                             218                             
+Total non-current assets 4,251                         4,046                         
+Current assets
+Inventories 2,913                          2,305                          
+Financial assets
+Investments  1,319                          873                             
+Trade receivables 3,312                          3,410                          
+Cash and cash equivalents 859                             1,328                          
+Bank balances other than cash and cash equivalents 522                             702                             
+Loans 1                                 22                               
+Other financial assets 62                               256                             
+Other current assets 245                             306                             
+Total current assets 9,233                         9,202                         
+Total assets 13,484                       13,248                       
+EQUITY AND LIABILITIES
+EQUITY 
+Share capital 145                             145                             
+Other equity
+Reserves and surplus 8,263                          7,959                          
+Total equity attributable to the owners 8,408                         8,104                         
+Non-controlling interests 4                                 -                             
+Total equity 8,412                         8,104                         
+LIABILITIES
+Non-current liabilities
+Financial liabilities
+Lease liabilities 291                             334                             
+Deferred tax liabilities 88                               72                               
+Provisions 9                                 16                               
+Total non-current liabilities 388                            422                            
+Current liabilities
+Financial liabilities
+Lease liabilities 121                             146                             
+Trade payables
+86                               75                               
+2,219                          2,164                          
+Other financial liabilities 181                             477                             
+Provisions 524                             375                             
+Current tax liabilities (net) 410                             380                             
+Other current liabilities 1,143                          1,105                          
+Total current liabilities 4,684                         4,722                         
+Total liabilities 5,072                         5,144                         
+Total equity and liabilities 13,484                       13,248                       
+-                             (A) total outstanding dues of micro and small enterprises
+ (B) total outstanding dues of creditors other than micro and small ParticularsUnaudited Consolidated Statement of assets and liabilities as at September 30, 2025UNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+ Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com 

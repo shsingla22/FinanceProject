@@ -1,0 +1,663 @@
+
+=== page 1 ===
+ 
+INFIBEAM AVENUES  LIMITED  
+Regd. Office: 28th Floor, GIFT Two Building, Block No. 56, Road -5C, Zone -5, GIFT CITY, Gandhinagar,  
+Taluka & District - Gandhinagar – 382 355, CIN: L64203GJ2010PLC061366  
+Tel: +91 79 67772204 | Fax: +91 79 67772205 | Email: ir@ia.ooo  | Website: www.ia.ooo   
+ 
+ 
+November  02, 2023  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+ 
+Company Code No.: 539807  National Stock Exchange of India Limited  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Bandra (East),  
+Mumbai - 400 051  
+ 
+Company Symbol: INFIBEAM  
+ 
+Dear Sir / Madam,  
+ 
+Sub: Investors Presentation on Una udited Financial Results for the quarter  and half year  ended  
+on September  30, 202 3 
+ 
+In compliance with the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find  enclosed herewi th Investors Presentation on Una udited Financial R esults for the quarter  and 
+half year  ended on September  30, 202 3. 
+ 
+The same has been displaye d on the website of the Company i.e. www.ia.ooo .  
+ 
+Kindly take the same on your records . 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Infibeam Avenues Limited  
+ 
+ 
+ 
+Shyamal Trivedi  
+Sr. Vice President & Company Secretary  
+ 
+Encl.: As above  
+ 
+ 
+=== page 2 ===
+A Global FinTechCompany
+Q2 FY24
+(Jul ‘23 –Sep ‘23) 
+Earnings Presentation
+2 November 2023
+
+=== page 3 ===
+2This presentation contains certain words and statements concerning Infibeam Avenues Limited (“the Company”) and its prospects, and other statements relating to the Company’s
+expected financial position, business strategy, the future development of the Company’s operations and the general economy in India & global markets, are forward looking
+statements. Such statements involve known and unknown risks, uncertainties and other factors, which may cause actual results, performance or achievements of the Company, or
+industry results, to differ materially from those expressed or implied by such forward-looking statements. Such forward-looking statements are based on numerous assumptions
+regardingtheCompany’spresentandfuturebusinessstrategiesandtheenvironmentinwhichtheCompanywilloperateinthefuture.Actualresultscoulddiffermateriallyforavariety
+of reasons, including fluctuations inforeignexchange rates, changesinglobal economic conditionsandconsumer spending, worldevents, the rate ofgrowth ofthe Internetand online
+commerce, the amount that Infibeam invests in new business opportunities and the timing of those investments, the mix of products sold to customers, the mix of net sales derived
+from productsascompared withservices, theextent to whichweowe taxes, competition, management of growth, potential fluctuationsin operating results, international growthand
+expansion, the outcomes of legal proceedings and claims, risks of inventory management, seasonality, the degree to which the Company enters into, maintains, and develops
+commercialagreements,acquisitionsandinvestmentofstrategictransactions,paymentsrisks,andrisksofwarehouseandlogisticsproductivity.Theotherimportantfactorsthatcould
+cause actual results, performance or achievements to differ materially from such forward-looking statements include, among others, changes in government policies or regulations of
+India and, in particular, changes relating to the administration of the Company’s industry, and changes in general economic, business and credit conditions in India. The information
+contained in this presentation is only current as of its date and has not been independently verified. No express or implied representation or warranty is made as to, and no reliance
+should be placed on, the accuracy, fairness or completeness of the information presented or contained in this presentation. None of the Company or any of its affiliates, advisers or
+representatives accepts any liability whatsoever for any loss howsoever arising from any information presented or contained in this presentation. Please note that the past
+performance of the Company is not, and should not be considered as, indicative of future results. Furthermore, no person is authorized to give any information or make any
+representation which is not contained in, or is inconsistent with, this presentation. Any such extraneous or inconsistent information or representation, if given or made, should not be
+relied upon ashaving beenauthorizedbyor onbehalf of theCompany. TheCompany may alter, modifyor otherwise change inany manner thecontentsof this presentation, without
+obligationto notifyany personof suchrevision or changes.Personsshouldconsulttheir ownfinancial or taxadviser if indoubt about the treatmentof the transaction for themselves.
+Certain financial and operational figures and related statements provided in this presentation including certain quarterly information in relation to subsidiaries of the Company are
+management representations basedoninternal financialinformationsystemoftheCompanyandsubsidiaries oftheCompany.Disclaimer
+=== page 4 ===
+FINANCIAL  
+PERFORMANCE
+AND  OUTLOOKEARNINGS  
+PRESENTATION
+FirstListed Fintech in India
+=== page 5 ===
+42Q FY24 Performance At A Glance
+Profitable growth and healthy returns
+Business Performance 
+(% change YoY)10+ mn
+No. of merchantsINR 1.8 tn
++ 79%
+TPV 19.3 bps
++ 25%
+Payments NTR
+Financial Performance
+(INR million)7,899
++ 66%
+Gross Revenue678
++ 70%
+EBITDA 3383
++ 191%
+PAT 3
+Margin ProfileINR 1,108 mn
++ 41% YoY
+Net Revenue 261% 4
+EBITDA margin 335% 4
+PAT margin 3
+1 Total TPV from; CCAvenue (India + International incl. non-MDR payment options) + BillAvenue (Bill Payments) + Go Payments + GeM GMV
+2 Net Revenue = Gross Revenue -Operating Expenses ( Optg exp = Payment processing charges and direct expenses related to Platforms business)
+3 Adjusted or excluding the impact from MTM gain / (loss) (MTM gain/loss is on account of movement of share price of a publicly listed subsidiary ‘DRC Systems’)
+4 Margins are calculated as a percentage of Net RevenueQuarterly Performance Snapshot
+Highest ever quarterly Gross Revenue, Net 
+Revenue and Profits
+Gross revenue, at INR 7,899 mn, a tad shy 
+of $100 million in a single quarter
+Net Revenue crosses INR 1 billion for the 
+first time in a quarter
+Strong growth in operating profits and 
+margins continue as company focuses on 
+improving payment take rates
+Payment net take rate 9.3 bps; inching 
+closer towards targeted double digit take 
+rate by the end of FY24
+Avg. daily merchant additions continue to 
+be strong in payments; further tie ups with 
+banks for acquiring continues strong in 
+India + International markets
+Cash and cash equivalents touch INR 4.2 
+billion; highest ever
+=== page 6 ===
+5Q2’24 Strategic Business Updates
+Company forays into offline payments in UAE by offering QR code for payments at merchant outlets; 
+•onboarded multiple merchants recently including renowned establishments in Dubai like Prime Association Management, a renowned 
+homeowners' association, and the esteemed Jaffer Bhai's The Biryani King of Bombay, which operates in Dubai.
+•this is to be followed by the launch of TapPay (mobile SoftPoS)  in UAE before the end of FY24
+Monthly payments TPV in UAE grossed AED 1 bn, achieving a historic milestone (currently TPV consistently >AED 1 bn)
+•Since 2015, company has processed 23.5 mntransactions worth over AED 24.5 bn
+VybeVentures, owned by Mr. Vishwas Patel (JMD at Infibeam Avenues Ltd.) & his family, in October 2023, converted all the 
+warrants to equity, totaling 95 mnshares.
+Company made capex of INR 1.2 billion in 1H FY24 in international markets, towards its country-in-a-box strategy. Investments 
+were largely towards data localization, security & IP rights funded from internal accruals.
+Company aspires to emerge as a key player in the AI-based fraud detection and prevention market. It has made an investment of 
+INR 1 bn by creating a new AI Hub, as an extension to its GIFT City hub. Funded through internal accruals.
+=== page 7 ===
+6Deconstructing Company’s Payments Gross and Net Take Rate
+Unit economics improving due to growing business from Covid impacted sectors and strategic initiatives
+TPV and Take Rate ( TPV in INR billion; Revenue in INR million ) Q2 FY24 Q2 FY23 YoY chg. (%) FY23
+Total Transaction Processing Value or TPV (A + B)  INR billion 1,785 1,000 79% 4,447
+A-Payments TPV (CCAvenue India including UPI + CCAvenue 
+International + BillAvenue + Go Payments) INR billion769 602 28% 2,433
+B-Platforms TPV (GeM GMV) INR billion 1,016 398 155% 2,014
+TPV used for calculation of Payments take rate 1   INR billion 658 528 25% 2,135
+Payments Gross Revenue (GR)   INR million 7,384 4,343 70% 17,927
+Payments Gross Take Rate (GTR) 112.3 bps 82.3 bps 36% 84.0 bps
+Payments Net Revenue (NR)   INR million 611 393 55% 1,746
+Payments Net Take Rate (GTR) 9.3 bps 7.5 bps 25% 8.2 bps
+1 excluding TPV from UPI (zero-MDR) and BillAvenue (fixed fee on number of bills and not on value of bills)
+=== page 8 ===
+7Company’s Revenue Model
+Growth focused revenue model (Mix of transaction-based and annuity)
+0.5 0.6 1.01.92.44.0
+0.2 0.2 0.41.12.03.5
+FY19 FY20 FY21 FY22 FY23 FY25PTotal Transaction Processing Value (INR trillion) *
+Payments TPV + GeM TPV
+5.88.27.58.49.3
+FY22 FY23 Q2 FY23 Q1 FY24 Q2 FY24Net Take Rate- NTR(Net earnings per transaction in bps)
+Payments business
+Annual Quarterly
+* Includes TPV from Non-MDR based (chargeable) payment options
+# Includes Gross Revenue from CCAvenue (India + International) + BillAvenue + ResAvenue + Go PaymentsPayments TPV
+GeM TPV
+Transaction based
+Payments#+ GeM Platform98%
+Gross Revenue
+Non-Transaction based
+Other Platforms2%
+Gross Revenue
+7.5
+ 4.4
+ 2.9
+ 1.4
+ 0.9
+ 0.7
+Targeting double digit NTR for Payments business by the end of FY24FY25P
+=== page 9 ===
+8Guidance FY24
+Well-poised for Growth 
+1 excluding any one-time and mark-to-market gain/loss (comparable FY23 Consolidated PAT, INR 946 million)
+USD 1 = INR 82Gross Revenue
+INR30,000-33,000 million
+(up 53%-68% YoY)
+PAT1
+INR1,300-1,500 million
+(up 37%-59% YoY)EBITDA1
+INR2,300-2,350 million
+(up 28%-31% YoY)
+Gross Revenue
+INR30,000-33,000 million
+(up 53%-68% YoY)
+PAT1
+INR1,300-1,500 million
+(up 37%-59% YoY)
+EBITDA1
+INR2,300-2,350 million
+(up 28%-31% YoY)
+Net Revenue
+INR4,100-4,150 million
+(up 25%-26% YoY)
+=== page 10 ===
+The picture can't be displayed.
+increase the ‘net take rate’ 
+in the Payments business 
+to double digits from end 
+of FY24 onwardsincrease the ‘net take rate’ 
+in the Payments business 
+to double digits from end 
+of FY24 onwards
+increase ‘International’ 
+footprint (Saudi Arabia, 
+Australia, USA, etc.)increase ‘International’ 
+footprint (Saudi Arabia, 
+Australia, USA, etc.)
+9Short-Medium Term Key Focus Areas
+Well-poised for growth 
+1 includes TPV from non-MDR (non-chargeable) payment options
+USD 1 = INR 82•Partner with banks and card networks on specific programs 
+having low acquiring cost
+•Add more low cost acquiring banks 
+•Increase international contribution where the net take rates 
+are already in double digits
+•Increase lending to merchant base including increasing 
+express settlement volumes and through other moats
+•Increase offline presence, through TapPay, which will 
+potentially have a minimum double digit take rate
+•Commercially start KSA in 2H FY24 upon receiving data 
+localisationcompliance certification from the regulator
+•Launch CCAvenue TapPay in UAE and Saudi initially
+•Launch payments in other GCC markets in FY25
+•Start payments in Australia and USA in FY25
+•Target to launch in South East Asia in FY25
+•Explore other international markets in FY25 and launch
+=== page 11 ===
+COMPANY  OVERVIEW &
+INDUSTRY  OUTLOOKCORPORATE  
+PRESENTATION
+FirstListed Fintech in India
+=== page 12 ===
+11About 
+Infibeam Avenues
+Click to watch video
+A Payment Infrastructure and eCommerce Software Platforms Company
+=== page 13 ===
+12The Fintech Universe and Business Models
+Company targets ‘ merchantsand banks’ for scalable and sustainable growth
+Company is focused on low-cost, stable, scalable and sustainable business from Merchants and BanksCUSTOMER 
+SEGMENTATION
+Slide 12 Slide 13
+
+=== page 14 ===
+13Infibeam Avenues Limited
+A powerful combination of payment infrastructure and ecommerce software platforms (refer slide 26for corporate video)
+Omnichannel 2offerings
+(digital payments + software platforms)Payment Aggregator license 3+ 
+BBPOU (bill payment) license 4
+(Awaiting retail payment network license)Invested across entire 
+payments ecosystem
+(Acquiring + Issuance + Network + Remittance)1
+1 Acquiring (thru CCAvenue), Issuance (thru majority owned subsidiary Go Pay), Network (thru majority owned subsidiary SoHumBharat), Remittance (Domestic thru Go Pay and Intl. thru Fable Fintech)
+2 Online + Offline for both Digital Payments and Software Platforms
+3 in-principle approval received from RBI
+4 Received perpetual license from RBI
+5 Top private sector banks in India: HDFC, ICICI, Kotak, Axis (recent), JPMC India, Yes Bank (thru Go Pay); UAE -Mashreq Bank; top 3 Oman banks: Bank Muscat, Bank Dhofar & Sohar Intl. (recent)Capability to build services and 
+micro-services architectureEnterprise software framework deployed across clients and 
+geographies with proven track record to manage scaleBanks’ payment 
+infrastructure partner
+(India and Intl. markets) 5Best-in-class products and  
+high service SLA deliveries200+ payment options with a 
+profitable mix incl. for offline
+(Highest in India)Strategic  And  Competitive  Advantages
+=== page 15 ===
+14Infibeam Avenues
+Leading the industry with many firsts
+-In 2001, launched India’s first online retail payment gateway , CCAvenue
+-In 2002, was the first to offer Net Banking as a payment option
+-In 2003, was the first to offer Invoice Payments
+-In 2004, was the first to go live with Verified by VISA and MasterCard SecureCode
+-In 2007, became first Indian PA to achieve PCI-DSS compliance and the first to become a MasterCard Member Service Provider
+-In 2008, was the first to be certified by American Express for global currency processing
+-In 2010, launched India’s first ecommerce technology platform for enterprise for large-scale eCommerce implementations
+-In 2013, the first RuPay debit card transaction was processed through CCAvenue
+-In 2014, was the first to offer Social Network In-stream Payments for social media platforms
+-In 2015, incubated Fable Fintech in our office offering cross-border payments platform to 9 of the top 10 private banks in India 
+across 150+ international corridors
+-In 2016, first fintech to get listed
+-In 2017, was the first RBI licensed Bharat Bill Pay operating Unit (BBPOU) to onboard billers and agents across India
+-In 2018, launched B2B payments for corporates offering Vendor Management, Collections and Payouts
+-In 2022, launched among the world’s most advanced omni-channel payments app , featuring India’s first pin-on-glass Soft PoS
+solution–CCAvenue TapPay
+-In 2023, became India’s first online payment player to process CBDC (eRupee) transactions for online retail payments
+
+=== page 16 ===
+15Building a long-term scalable and sustainable business
+Company’s long-term plans to create superior shareholder value
+Building a sustainable 
+business modeloFocus on profitable revenue growth
+oProcessing profitable transactions
+oIncreasing net take rate through cross-sell and up-sell
+oBuilding high margin business around core payments
+Leading thru industry first 
+world-class technology 
+solutionsoBuilding vertical-based solutions (hospitality, bill payments, auto insurance, B2B, infra., 
+etc) for deeper merchant penetration and sticky relationship
+oLaunched no/low-cost omnichannel app-based payment acceptance solution allowing 
+merchants to accept credit card transactions including those above RBI’s INR 5000 limit
+oFirst to process Digital Rupee for online retail payments. Ready to go live with more banks
+oOffering bank-grade payments infrastructure globally
+Building synergistic 
+business across portfoliooCreating synergies across payments businesses
+oGenerating cross-sell and up-sell opportunities
+oComprehensive merchant solutions under one roof (payments, software platforms & finance)
+=== page 17 ===
+COMPANY  
+OVERVIEW
+Payments 
+Business94%
+Gross Revenue 
+contribution
+FirstListed Fintech in India
+=== page 18 ===
+17CCAvenue Online Payment Solution
+India’s first online retail payment aggregator 
+CCAvenue is among the pioneers in online payments in India
+•Payment Aggregator license from RBI
+•India’s first online retail payment 
+aggregator (22+ years) with many 
+industry first launches
+•Payment infrastructure for top banks 
+(HDFC, ICICI, Axis, Kotak, JPMC India, 
+Mashreq Bank in UAE, Bank Muscat, 
+Bank Dhofar & Sohar Intl. in Oman)
+•200+payment options (Highest in India)
+•2400transac. per second processing 
+capacity (Among the best in India)
+•No penalty or dispute ever with any FIs 
+or with the regulator in 20+ years
+•Marqueecorporate clientele
+•Launched CCAvenue TapPay (omni-
+channel payment solution) in FY23 
+targeting under-penetrated offline 
+payments market -refer next slideCCAvenue Strengths
+
+=== page 19 ===
+18
+CCAvenue Omnichannel Payment Solution
+Among the worlds most advanced, featuring India’s first pin-on-glass softPoSsolution
+Launched no/low-cost offline solution for penetration across India’s hinterlands
+150,000+ downloads in FY23
+Crossed 400,000+ by end of Q2 FY24
+FY24 target –1 million
+•Payments on-the-go; anytime anywhere 
+•No/Low Cost Android-based mobile app
+•Aligned with RBI’s Payment Vision 2025 to increase 
+payment acceptance through low cost solutions
+•Globally deployable contactless payment solution
+•200+ payment options (highest in India)
+•SDKs approved from Payment Network providers 
+for integration into merchant app
+•‘Tap-to-pay’ for cards for transactions even above 
+the RBI limit of INR 5000, with pin
+•Single MIS
+•Top notch security features
+PoSterminals for  
+1400 mnIndians only8 mnOpportunity
+=== page 20 ===
+19
+ 10.0+ million total merchants; strong merchants addition in payment continuesFew Marquee Clients
+Marquee clients across industries
+c
+c
+c
+ c
+c
+c
+ c
+IndiaGCC
+c
+c
+
+=== page 21 ===
+20CCAvenue (India + Intl.) Payments Business Highlights 
+Payment business on a strong footing
+6239521,6692,160
+1,250
+FY20 FY21 FY22 FY23 1HFY24CCAvenue Payments TPV (India + Intl.)
+(INR billion)
+* among non-bank private payment companies
+# Others largely include debit options like Net Banking, Debit Card, NEFT-RTGS, etc.
+NTR = Net Take Rate (net earning per transaction after payment processing charges)FY23 est. TPV market share
+of ‘Online Payments’
+CC –9%| DC –7%| NB –3%CCAvenue India
+34%46% 47% 52%4%5% 8%9%63%49% 46% 39%
+FY21 FY22 FY23 1HFY24
+CCUPI Others #Payment Options’ TPV Contribution -India
+•91% contribution from MDR based payment options
+•Healthy mix of Credit (CC, EMI, BNPL) and Debit (Net 
+Banking, DC) payment options with low contribution from 
+the zero-MDR UPI option allows to improve margins
+•~80% contribution in International market from Credit Card 
+payment option
+•Company yet to receive UPI dues from banksCCAvenue International
+54%
+2Q FY24 YoY 
+TPV growth>AED 12 billion
+Sep’23 annualized 
+TPV run-rateAmong the top 
+payment cos. in 
+the UAE117% YoY
+2Q FY24 growth in 
+merchant additions 
+YoY
+$8 bn$12 bn$20 bn$26 bn
+$15 bn
+=== page 22 ===
+21International Expansion Plans For Becoming A Global Fintech Player
+Country-in-a-box strategy
+Plans to expand into multiple countries over the next 3-5 years
+USA & AustraliaTargeting 12-15% international contribution 
+to Payment’s Net Revenue by FY28
+Australia & USA: To be 
+operational in FY25UAE and Oman 
+operational.
+Saudi to re-start in 
+Q4’24 *
+All international businesses outside India to be managed from the UAE subsidiaryTo be launched over a period of 3-5 years
+* awaiting approval from Saudi Arabian Monetary Authority (SAMA); also, integration with second bank in progress for payment acquiring
+=== page 23 ===
+> 1 mn
+Agents across India86%
+of all billers on BBPS 4
+22
+Few Merchants
+1 Bharat BillPay System (BBPS)
+2 Bharat Bill Payment Operating Unit (BBPOU) 
+3 Source: Bharat BillPay website (Infibeam volume + ICICI Volume)
+4.Direct billers + ICICI Bank billers. We are a TSP for ICICI Bank.Top 3
+As per BBPOU volume 3
+Built on the BBPS1infrastructure, BillAvenue is a unified, 
+interoperable, online payments platform for Indian citizens
+Among select non-bank private players licensed by the RBI to 
+operate as a BBPOU2
+Received perpetual license from RBI in Q3 FY23 as BBPOU for 
+bill payments under BBPS BillAvenue (Bill Payments thru Bharat BillPay System / BBPS)
+Bill payments platform to cater to the large untapped utility and recurring payments segment across India
+2174301,1401,907
+1,295
+1462766681,097
+632
+FY20 FY21 FY22 FY23 1H FY24Bill Payments Industry
+Value (INR bn) Volume (mn)
+624102148
+100
+82585118
+69
+FY20 FY21 FY22 FY23 1H FY24BillAvenue Business Performance
+Value (INR bn) Volume (mn)
+=== page 24 ===
+‘Instant Global Paytech Pvt. Ltd.’, operating 
+through the brand ‘Go Payments’ to provide 
+assisted commerce services
+Launched payment issuance infrastructure for 
+Banks in FY23
+Target customers: B2B; Corporates, MSMEs, 
+Govt. organizations and Banks
+100,000+: Active agent network covering 
+10,000+ pin codes across India
+Go Payments (majority owned subsidiary)
+Empowering unbanked to access digital financial services
+275691124
+70
+FY20 FY21 FY22 FY23 1H FY24Go Payments TPV 
+(INR billion)
+23
+=== page 25 ===
+24The Digital Ecosystem is Expanding …
+… and the total addressable market continues to grow
+P2M Digital Payments in India to reach US$ 3 trillion by 2028 , growing at 25%Cash PCE 
+continues to 
+growFintech / Wallet 
+expansionNew platforms to reach 
+billions of unbankedeCommerce share 
+of spending to riseNew acceptance 
+form factorsP2P and B2C 
+digitisation
+Government 
+disbursement digitisation
+Ecosystem 
+demand for VAS
+B2B 
+modernisation
+Source: Visa and Company research
+New Flows Will Lead To Increasing TAM
+=== page 26 ===
+294674
+45
+FY 2021 FY 2022 FY 2023 1H FY24 est.Digital Payments1Industry Size & Growth –India
+in INR trillion
+56%
+YoY61%
+YoY
+25Digital Payments’ growth momentum to continue in FY24 and BEYONDIndia’s Digital Payments1Market to Become $3tn by FY28 (Online + Offline)
+Continued uptake in FY23 even post-Covid, suggesting growth to continue
+Source: RBI’s PSI Data and Company analysis
+1 Digital Payments comprise Credit Cards (CC), Debit Cards (DC), PPI (or Wallets), UPI P2M (Person to Merchant) and Net Banking 2
+2 Assumed, 2% of all Net Banking (NB) transactions are eCommerce transactions (Company offers ~60 Net Banking payment optionstomerchants which are among the most profitable payment options for company)
+3 Only on per transaction excl. joining fee, AMC fee, late payments, revolver charges, etc. accruing to payment ecosystem partners
+USD 1 = INR 82$359 bn$900 bnFaster growth 
+post COVID 
+even at scale
+Estimated FY28Industry 
+Revenue3
+>INR 1 tn
+($16.0 bn)Projected FY28 P2MIndustry Size
+(@25%5yr CAGR)
+~INR 225 tn (approx. $3 tn)
+3x from FY23
+$561 bn25%
+YoY
+$544 bn
+>20%
+Estimated YoY FY24
+‘Credit Card’ spends growth>$1 tn
+estmd. FY24 
+P2M market size
+=== page 27 ===
+COMPANY  
+OVERVIEW
+Platforms 
+Business6%
+Gross Revenue 
+contribution
+FirstListed Fintech in India
+=== page 28 ===
+Business Overview
+A cloud-based, E2E SaaS platform allowing corporates to 
+do large scale online business, manage the back-end 
+(orders, inventory & logistics), allow digital payments, 
+undertake online marketing & other VAS with 3P 
+capability
+Transaction based revenue model with GeM and License / 
+Annuity / Subscription based with the other enterprise 
+customersEnterprise Software Platforms and Infrastructure
+An e-commerce marketplace platform/infrastructure built for large scale implementation
+4623861,0602,010
+1,549
+FY17 FY18 FY21 FY22 FY23 1H FY24GeM Transaction Processing Value (INR billion)
+Infibeam Avenues began here –
+GeM 1.0 went Live on 26 Jan 2018
+Domain infrastructure 
+services to begin 
+merchants digital 
+onboarding journeyFull-service digital 
+marketing agency to 
+serve small and large 
+enterprises in IndiaTier III storage and 
+compute data center 
+with blockchain 
+capability at GIFT City
+Other Software and Infrastructure services
+27
+Few enterprise customers
+=== page 29 ===
+ANNEXURE
+FirstListed Fintech in India
+=== page 30 ===
+Payment Gateway Bill Payments GeM platform eComm. platform
+Businesses •CCAvenue (India + Intl.)
+•CCAvenue TAPPay(SoftPoS)
+•ResAvenue
+•B2Biz
+•CPGS (Payment Infra for banks)•BillAvenue •Marketplace for Enterprise •Marketplace for Enterprise
+Revenue model •Transaction based 
+oPercentage
+oFlat-fee•Transaction based
+oFlat-fee•Transaction based
+oPercentage•License fee
+•Maintenance fee
+•Development charges
+Revenue drivers •TPV growth
+•Volume growth
+•Take rates charged to 
+merchants
+•Intl. growth
+•Business from partners
+•Industry mix
+•Payment mix•No of billers
+•Biller categories
+•Consumer using BBPS 
+channels for bill payment
+•Agent institution network•Rising Govt buyers
+•Integration of various 
+ministries
+•State govt participation
+•PWD integration
+•More products and 
+services selection•Number of large 
+enterprises
+•Renewal
+Direct Cost 
+drivers•Bank TDR
+•Partner charges•Commission rates •na •Na
+Revenue and Cost Drivers
+Building a scalable business model
+29
+=== page 31 ===
+30FY23 Performance At A Glance
+Profitable growth and healthy returns
+Business Performance9.2 mn
++ 61%
+No. of merchantsINR 4.5 trillion
++ 52%
+TPV 18.2 bps
++ 41%
+Payments Net Take Rate
+Financial Performance
+(INR million)19,623
++ 52%
+Gross Revenue1,796
++ 24%
+EBITDA1,363
++ 63%
+Profit After Tax
+Balance Sheet and Cash 
+Flow Performance
+(INR million)3,099
+Cash 21,130
+Cash Flow from Ops.1,169
+FCF 3
+Profitability Ratios 4
+Consolidated (above row) and 
+Standalone 5(below row)7%
+ROE10%
+ROCE4%
+ROA
+19% 
+ROE17%
+ROCE9%
+ROA
+1 Total TPV from CCAvenue (India + International incl. non-MDR payment options) + BillAvenue (Bill Payments) + Go Payments
+2 Cash and bank balance + ST investments
+3 FCF = EBITDA -Capex
+4 Profitability ratios calculated excluding goodwill
+5 Standalone represented 91% of Consolidated revenue in FY23. Ratios calc. excl. goodwill and long-term investments in startups made by the Parent standalone entity
+=== page 32 ===
+Thank YouPAYMENTS | PLATFORMS
+Investor Relations
+PurveshParekh
+purvesh.parekh@ia.ooo
++91 9930554588
+To know more, visit us at:
+www.ia.ooo| www.ccavenue.com

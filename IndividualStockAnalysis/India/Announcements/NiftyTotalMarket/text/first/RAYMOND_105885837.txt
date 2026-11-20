@@ -1,0 +1,138 @@
+The National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Bandra -Kurla Complex  
+Bandra (East), Mumbai - 400 051       
+Fax No. (022) 26598120  
+Symbol: RAYMOND  RL/SE/24-25/60
+June 19, 2024 
+To 
+The Department of Corporate Services - CRD 
+BSE Limited 
+P.J. Towers, Dalal Street 
+Mumbai - 400 001       
+Fax No. 022-22721919 
+Scrip Cod e: 500330 
+Dear Sir/Madam, 
+Sub: Raymond Limited: Intimation under Regulation 39(3) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)  
+Pursuant to Regulation 39(3) of Listing Regulations, please find enclosed the intimation for issuance 
+of duplicate share certificates to shareholder(s) as detailed in the “Register of New Share Certificates 
+Issued  on Duplication”.  
+Please take the above information on record.  
+Thanking you . 
+Yours faithfully , 
+For Raymond Limited  
+Rakesh Darji  
+Company Secretary  
+Encl.: a/a  
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17312TO: TN17305FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN17305 00300577
+RAJENDRA SHRIKRISHNA DAMLE
+SHUBHADA SHRIKRISHNA DAMLE
+SHRIKRISHNA RAGHUNATH DAMLE17/06/2024
+DUP 10.00OLD 5  51208018  51208014  5  5068306  5068306 
+ 5 ---------------
+ 10.00NEW 5  51208018  51208014  5  1072062  1072062  934  934 
+ 5 ---------------
+TN17306 R0016319
+CHANDRAHAS NARAYANDAS
+NARAYANDAS MATHURADAS
+ASHA NARAYANDAS17/06/2024
+DUP 10.00OLD 12  32132252  32132241  12  201037  201037 
+ 10.00OLD 6  55895802  55895797  6  5196910  5196910 
+ 18 ---------------
+ 10.00NEW 12  32132252  32132241  12  1072063  1072063  935  935 
+ 10.00NEW 6  55895802  55895797  6  1072063  1072063  935  935 
+ 18 ---------------
+TN17307 00320289
+CHANDRAHAS NARAYANDAS
+NARAYANDAS MATHURADAS
+ASHA NARAYANDAS17/06/2024
+DUP 10.00OLD 50  20521442  20521393  50  3620191  3620191 
+ 10.00OLD 25  52222981  52222957  25  5098043  5098043 
+ 75 ---------------
+ 10.00NEW 50  20521442  20521393  50  1072064  1072064  936  936 
+ 10.00NEW 25  52222981  52222957  25  1072064  1072064  936  936 
+ 75 ---------------
+TN17308 00407871
+CHANDRAHAS
+NARAJANDAS MATHURADAS
+ASHA17/06/2024
+DUP 10.00OLD 1  53376502  53376502  1  5128163  5128163 
+ 10.00OLD 3  41786533  41786531  3  6048675  6048675 
+ 4 ---------------
+17/06/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17312TO: TN17305FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+ 10.00NEW 3  41786533  41786531  3  1072065  1072065  937  937 
+ 10.00NEW 1  53376502  53376502  1  1072065  1072065  937  937 
+ 4 ---------------
+TN17309 00169331
+DINESH CHANDRA RAMDAYAL 
+LAKHOTIYA
+SURESH RAMDAYAL LAKHOTIYA17/06/2024
+DUP 10.00OLD 5  9590420  9590416  5  3282401  3282401 
+ 5 ---------------
+ 10.00NEW 5  9590420  9590416  5  1072066  1072066  938  938 
+ 5 ---------------
+TN17310 Z0094550
+SEEMA RAJENDRA GUPTA
+RAJENDRA KUMAR GUPTA17/06/2024
+DUP 10.00OLD 14  17590729  17590716  14  3820622  3820622 
+ 10.00OLD 36  26584347  26584312  36  3820622  3820622 
+ 50 ---------------
+ 10.00NEW 14  17590729  17590716  14  1072067  1072067  939  939 
+ 10.00NEW 36  26584347  26584312  36  1072067  1072067  939  939 
+ 50 ---------------
+TN17312 00320288
+ASHA NARAYANDAS
+NARAYANDAS MATHURADAS
+CHANDRAHAS NARAYANDAS17/06/2024
+DUP 10.00OLD 50  20521392  20521343  50  3620190  3620190 
+ 10.00OLD 25  52222956  52222932  25  5098042  5098042 
+ 75 ---------------
+ 10.00NEW 50  20521392  20521343  50  1072069  1072069 
+ 10.00NEW 25  52222956  52222932  25  1072069  1072069 
+ 75 ---------------
+17/06/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        7 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                3 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 232 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN17312TO: TN17305 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Raymond Limited
+ 12 
+ 0 
+ 0  11 
+ 11 
+17/06/2024 3 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

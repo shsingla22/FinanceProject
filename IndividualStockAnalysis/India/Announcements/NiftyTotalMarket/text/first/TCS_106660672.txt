@@ -1,0 +1,140 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 13/2026-27 
+ 
+June 11, 2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS and Anthropic launch 
+Global Premier Partnership  to drive Enterprise AI scaling ” which will be disseminated 
+shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+TCS and Anthropic launch Global Premier 
+Partnership  to drive Enterprise AI scaling  
+As a Global Premier Partner in the Claude Partner Network , TCS will empower 50,000 associates with 
+Claud e, powered by Anthropic , transform core enterprise functions, co -innovate industry solutions, and 
+build future -ready AI talent through TCS iON.  
+TCS and Anthropic will also jointly go to market with AI solutions for highly regulated sectors.  
+ 
+SAN FRANCISCO | MUMBAI, June 11, 2026:  Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global 
+leader in IT services, consulting, and business solutions, today announced a global strategic partnership with 
+Anthropic, the frontier AI company behind Claude, to help customers scale enterprise AI adoption. TCS wi ll 
+setup a dedicated Business Unit focused on delivering strong customer value propositions, joint industry 
+solutions and deep AI expertise on the Claude family of models through early access to Claude models.   
+In regulated industries, most AI initiatives stall at the pilot stage, where the requirements for accuracy, 
+auditability and oversight are far more stringent, and the consequences of error significantly higher. This 
+partnership is designed to overcome thos e barriers. Combining TCS’ governance, controls and 
+implementation expertise will enable enterprises to deploy Claude confidently in production, not just in 
+experimentation.  
+As a Global Premier Partner in the Claude Partner Network, TCS will bring Claude models to enterprises that 
+demand accuracy, deep integration, resilience and strong governance. Combining scaled internal 
+deployment, joint go -to-market offerings, industry co -innovation, and workforce enablement, the 
+partnership gives clients a practical path to enterprise -wide adoption and measurable outcomes.  
+TCS will equip 50,000 associates across engineering, finance, legal, marketing, and sales with Claude through 
+enterprise -wide licensing.  By deploying Claude internally, TCS will gain first-hand experience to transform its 
+own operations while applying those insights to drive client success.  
+TCS and Anthropic will jointly go to market with AI solutions and services across industries including highly 
+regulated sectors, such as financial services, public services, life sciences, healthcare, aviation, telecom, and 
+medtech. Together, they will co -innovate solutions for domain -specific workflows, modernization, and 
+customer experience transformation, backed by TCS’ consulting, engineering, and managed services 
+capabilities.  
+The partnership also extends to TCS products, platforms and domain specific solutions in the following areas:  
+● In the UK, Diligenta, TCS’ FCA -regulated life and pensions business serving over 22 million Life and 
+Pensions customers, will use Claude to improve customer experience through agentic process 
+transformation at scale. In addition, BFSI Products and Platform s teams will leverage Claude Code                 
+to enhanc e productivity in Software engineering and IT Operations.  
+● TCS iON conducts over 75 million annual assessments across 1,500 cities in India. Through this 
+partnership TCS iON will deliver high -impact learning and certification on Claude models, helping 
+build a future -ready, AI -certified workforce in India.  
+● TCS will also bring its domain -led engineering expertise to the Claude Code ecosystem through 
+reusable skills and plugins, including capabilities such as claims adjudication and lending advisory.  
+ 
+ 
+Page 2 of 3 
+ 
+K Krithivasan, CEO and MD , TCS , said,  “Enterprise AI value comes from understanding business context, 
+orchestrating complex systems, and applying deep AI engineering talent. By combining Claude with our 
+industry expertise, engineering rigor, and large -scale transformation capabilities, we will  help customers 
+move faster to production, especially in industries where trust, resilience, and regulatory discipline are critical. 
+This partnership reflects TCS’ broader strategy to help clients become perpetually adaptive enterprises by 
+turning frontier  AI into transformation at enterprise scale.”    
+ 
+Dario Amodei, Co -founder and CEO, Anthropic , said, “We built Claude to be safe, trusted, and helpful, 
+particularly in contexts where accuracy matters most. This partnership deepens our commitment to India, our 
+second -largest market, with TCS bringing Claude to enterprises and professionals across the region  and 
+globally, including 50,000 of its employees .” 
+ 
+N Chandrasekaran, Chairman, Tata Sons , said,  “This partnership reflects our shared conviction that AI will be 
+foundational and transformative for enterprises worldwide. By combining Anthropic's capabilities with Tata 
+Group’s scale, trusted relationships, and nation -building commitment, we will accelerate enterprise 
+reinvention and equip India’s youth with the skills to lead in the AI era.”   
+ 
+About Anthropic  
+Anthropic is an AI safety company that builds reliable, interpretable, and steerable AI systems. Founded as a 
+public benefit corporation, Anthropic develops the Claude family of AI models and products, including Claude 
+Code, Claude Cowork, and Claude Enter prise, used by organizations around the world. For more information, 
+visit anthropic.com.  
+About Tata Consultancy Services (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service . 
+ 
+It has set an aspiration to become the world's largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 56 
+countries and 194 service delivery centers acro ss the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long -term partnerships with its clients. Many of these relationships have endured into de cades and 
+navigated every technology cycle, from mainframes in the 1970s to artificial intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon, Tata Mumbai Marathon and TCS Sydney Marathon with a focus 
+on promoting health, sustainability, and community empo werment.  
+ 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2026.  For 
+more information, visit www.tcs.com  
+ 
+Follow TCS on LinkedIn  | Instagram  | YouTube  | X 
+ 
+Page 3 of 3 
+ 
+TCS Media Contacts:  
+Corporate Communications & India   Email: corporate.communications@tcs.com   
+Email: santosh.castelino@tcs.com  | Phone: +91 22 67789098   
+ 
+### 

@@ -1,0 +1,330 @@
+ 
+ 
+ 
+Tata Technologies Limited  
+Plot No 25, Rajiv Gandhi Infotech Park | Hinjawadi, Pune 411057 | India 
+Tel: +91 20 6652 9090 | Fax: +91 20 6652 9035 
+CIN L72200PN1994PLC013313  
+Email: investor@tatatechnologies.com  
+Website: www.tatatechnologies.com 
+Ref. No.: TTL/COSEC/SE/2024-25/60 
+  
+October 28, 2024       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dear Sir / Madam, 
+ 
+Subject: Intimation of Outcome of Board Meeting  
+ 
+Pursuant to Regulation 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we hereby inform you that the Board of Directors of Tata Technologies Limited (‘the 
+Company’) at its meeting held today, i.e., October 28, 2024, has approved the following: 
+ 
+1. Unaudited Standalone and Consolidated Financial Results with the Limited Review Report for the 
+quarter and half-year ended September 30, 2024. 
+ 
+2. Appointment of Mr. Balaje Rajan (DIN: 10749831) as Non-Executive Non-Independent Director of 
+the Company w.e.f. October 28, 2024, subject to approval of the shareholders.  
+ 
+The aforesaid Financial Results and Reports are enclosed herewith. 
+ 
+The meeting of the Board of Directors commenced at 11:15 a.m. and concluded at 4:40 p.m.  
+ 
+The above information is being made available on the website of the Company www.tatatechnologies.com .  
+This is for your information and records. 
+ 
+For Tata Technologies Limited 
+ 
+ 
+ 
+________________________ 
+Vikrant Gandhe 
+Company Secretary and Compliance Officer  BSE Limited                                  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai- 400001, India 
+Scrip Code: 544028 National Stock Exchange of India Limited 
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex, Bandra (E), 
+Mumbai – 400 051, India 
+Trading symbol: TATATECH 
+BS R & Co. LLP 
+Chartered Accountants 8th floor, Business Plaza 
+Westin Hotel Campus 
+36/3-B, Koregaon Park Annex 
+Mundhwa Road, Ghorpadi 
+Pune -411 001, India 
+Telephone: +91 (20) 6747 7300 
+Fax: +91 (20) 6747 7100 
+Limited Review Report on unaudited standalone financial results of Tata Technologies Limited for 
+the quarter ended 30 September 2024 and year to date results for the period from 01 April 2024 
+to 30 September 2024 pursuant to Regulation 33 of Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations , 201S, as amended 
+To the Board of Directors of Tata Technologies Limited 
+1. We have reviewed the accompany ing Statement of unaudited standalone financial results of Tata 
+Technologies Limited (hereinafter referred to as "the Company") for the quarter ended 30 September 2024 
+and year to date results for the period from 01 April 2024 to 30 September 2024 ("the Statement"). 
+2. This Statement, which is the responsibility of the Company 's management and approved by its Board of 
+Directors, has been prepared in accordance with the recognition and measurement principles laid down in 
+Indian Accounting Standard 34 "Interim Financial Reporting " ("Ind AS 34"), prescribed under Section 133 of 
+the Companies Act, 2013, and other accounting principles generally accepted in India and in compliance with 
+Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended ("Listing Regulations"). Our responsib ility is to issue a report on the Statement 
+based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagement s (SRE) 
+2410 "Review of Interim Financial lnformotian Performed by the Independent Auditor of the Entity", issued by 
+the Institute of Chartered Accountants of India. A review of interim financial information consists of making 
+inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and 
+other review procedures. A review is substantially less in scope than an audit conducted in accordance with 
+Standards on Auditing and consequently does not enable us to obtain assurance that we would become aware 
+of all significant matters that might be identified in an audit. According ly, we do not express an audit opinion. 
+4. Based on our review conducted as above, nothing has come to our attention that causes us to believe that the 
+accompanying Statement, prepared in accordance with the recognition and measurement principles laid down 
+in the aforesaid Indian Accounting Standard and other accounting principles generally accepted in India, has not 
+disclosed the information required to be disclosed in terms of Regulation 33 of the Listing Regulatio ns, including 
+the manner in which it is to be disclosed, or that it contains any material misstatement. 
+Mumbai 
+28 October 2024 
+BS R & Ctl. (• pnrlne:~hip firm w11h Reg1~1r11t1Qn No. BA61223) ~onverted into BS R & Co UP fa L1m1ted 
+ti.ability Pannen:h1p with UP Rtti1Stnt1on No. AAB·8181) wtlb effect from October 14. 2013 For B S R & Co. LLP 
+Chartered Accountants 
+Firm's Registration No.:101248W/W -100022 
+Swapnil Dakshindas 
+Partner 
+Members hip No.: 113896 
+UDIN: 24113896BKFIH F8835 
+14th Floor, C@-nttil! B w,ng: and North CW1l'lg, nesto IT P.ark4, Nesto Cfltlt!'r, 
+Western Exptess Highw.a'p", Gotetiaor, (E.ut), Mun,bal • 400063 
+G 
+TATA 
+TATA TECHNOLOGIES 
+Regd Office : Plot No 25, Raj iv Gandhi lnfotech Park, Hinjawadi , Pune, India -411 057 
+CIN:L72200PN1994PLC013313 
+I!' in crore (except per share data) 
+STATEMENT OF STANDALONE UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER 30, 2024 
+Quarter ended Half vear ended Year ended 
+Particulars September 30 June 30, September 30 September 30, September 30 March 31, 
+2024 2024 2023 2024 2023 2024 
+Unaudited Unaudited Audited Unaudited Audited Audited 
+I Revenue from operations 793.93 720.56 673.31 1,514.49 1,320 55 2,732.09 
+II Other income (Refer Note 6) 15 47 404 45 369 24 419.92 379.45 405.00 
+Ill Total income (1+11) 809.40 1,125.01 1,042.55 1,934.41 1,700.00 3,137.09 
+IV Expenses 
+(a) Purchases of technology solutions 196 27 175 83 169 46 372.10 335.91 668.62 
+(b) Outsourcing and consultancy charges 19 23 19 98 19 13 39 21 40.93 75 57 
+(c) Employee benefits expense 333.44 326.75 314.77 660 19 592.50 1,257 18 
+{d) Finance costs 2.83 2.94 2 81 5 77 5.87 11.63 
+(e) Deprec,at,on and amortisation expense 19.20 19.12 16 15 38.32 31.10 66 18 
+(f) Other expenses 72.05 68 42 62.44 140.47 125.88 238.48 
+Total expenses (IV) 643.02 613.04 584.76 1,256.06 1,132.19 2,317.66 
+V Profit before tax {Ill-IV) 166.38 511.97 457.79 678.35 567.81 819.43 
+VI Tax expense 
+(a) Current tax 45 62 21 95 27 39 67 57 46.65 121.64 
+(b) Deferred tax (credit)/ch arge (1.52) 10.25 (3.23) 8.73 7.80 10.40 
+Total tax expense (net) 44.10 32.20 24.16 76.30 54.45 132.04 
+VII Profit after tax for the period/year (V-VI) 122.28 479.77 433.63 602.05 513.36 687.39 
+VIII Other comprehensive (loss)/income 
+(a) Items that will not be reclassified to profit or loss: 
+(i) Remeasurem ent of defined e mployee benefit plans (1 13) (1.12) (3 92) (2.25) (7.67) (4.49) 
+(ii) Income tax crediV(expense) relating to above ,terns 0 29 0.28 1 37 0 57 2.68 (2.18) 
+(b) Items that will be reclassified to profit or loss: 
+Exchange differences on translation of operations of a foreign branch 0.13 (0.08) (0.02) 0.05 (0.13) (0.12) 
+Total other comprehensive (loss) for the period/year (0.71) (0.92) (2.57) (1.63) (5.12) (6.79) 
+IX Total comprehensive income {net of tax) for the period/year (VII + VIII) 121.57 478.85 431.06 600.42 508.24 680.60 
+X Paid-up equity share capital {face value of n each) 81.13 81 13 81 13 81 13 81.13 81.13 
+XI Other Equity 1,123.93 
+XII Earnings per share (EPS) 
+Equity shares (face value of f2 each} 
+(a) Bas,c EPS 3.01 11.83 10.69 14.84 12.65 16.94 
+(b) Diluted EPS 3 01 11.81 10.68 14 82 12.64 16.92 
+Not annualised 
+G 
+TATA 
+TATA TECHNOLOGIES 
+Regd Office: Plot No 25, Rajiv Gandhi lnfotech Park, Hinjawadi , Pune, India -411 057 
+CIN:L72200PN1994PLC013313 
+STATEMENT OF STANDALONE UNAUDITED ASSETS AND LIABLITIES 
+As at September 30, 
+2024 
+Unaudited 
+I. ASSETS 
+(1) Non-current Assets 
+(a) Property, plant and equipment 81.89 
+(b) Right-to-use-asset 75.41 
+(c) Intangible assets 40.92 
+(d) Financial assets: 
+(i) Investments in subsidiaries 218.92 
+(ii) Other financial assets 16.49 
+(e) Income tax assets (net) 49.95 
+(f) Deferred tax assets (net) 34.22 
+(g) Other non-current assets 156.85 
+Total Non-current Assets 674.65 
+(2) Current Assets 
+(a) Financial assets: 
+(i) Investments 18503 
+(ii) Trade receivables 
+(a) Billed 456.19 
+(b) Unbilled 144.19 
+(iii) Cash and cash equivalents 112.30 
+(iv) Other bank balances 77.02 
+(v) Loans 331.90 
+(vi) Other financial assets 9.28 
+(b) Other current assets 1,516.63 
+Total Current Assets 2,832.54 
+Total Assets 3,507.19 
+II. EQUITY AND LIABILITIES 
+(1) Equity 
+(a) Equity share capital 81.13 
+(b) Other equity 1,321.45 
+Total Equity 1,402.58 
+Liabilities 
+(2) Non-current liabilities 
+(a) Financial liabilities: 
+(i) Lease liabilities 61.80 
+(ii) Other financial liabilities 0.29 
+(b) Provisions 33.13 
+Total Non-current liabilities 95.22 
+(3) Current liabilities 
+(a) Financial liabilities: 
+(i) Lease liabilities 26.40 
+(ii) Trade payables 
+(a) Total outstanding dues of micro enterprises and small enterprises 25.00 
+(b) Total outstanding dues of creditors other than micro enterprises and small enterprises 286.00 
+(iii) Other financial liabilities 28.10 
+(b) Other current liabilities 1,595.32 
+(c) Provisions 15.52 
+(d) Income tax liabilities (net) 33.05 
+Total Current liabilities 2,009.39 
+Total liabilities 2,104.61 
+Total Equity and Liabilities 3,507.19 (fin crore 
+As at March 31, 
+2024 
+Audited 
+92.35 
+69.28 
+47.38 
+218.91 
+15.45 
+40.61 
+42.38 
+119.42 
+645.78 
+150.35 
+357.54 
+98.64 
+62.60 
+67.40 
+247.60 
+9.99 
+1,290.20 
+2,284.32 
+2,930.10 
+81.13 
+1,123.93 
+1,205.06 
+58.79 
+0.78 
+28.06 
+87.63 
+23.22 
+28.42 
+217.91 
+28.01 
+1,305.07 
+21.23 
+13.55 
+1,637.41 
+1,725.04 
+2,930.10 
+.,. 
+TATA 
+TATA TECHNOLOGIES 
+Regd Office : Plot No 25, Rajiv Gandhi lnfotech Park, Hinjawadi , Pune, India -411 057 
+CIN:L 72200PN 1994PLC013313 
+STANDALONE UNAUDITED STATEMENT OF CASH FLOWS (f in crore) 
+Half year ended 
+Particulars September 30, 2024 September 30, 2023 
+Unaudited Audited 
+Cash flows from operating activities : 
+Profit for the period 602.05 513.36 
+Adjustments for: 
+Depreciation and amortisation 38.32 31.10 
+Current tax 67.57 46.65 
+Deferred tax 873 7.80 
+Share-based payments to employees 2.90 1.27 
+Dividend income on investments (390.01) (362.36) 
+Profit on derecognition of lease liability/right to use assets - (0.09) 
+Profit on sale of investments (0.19) (1.84) 
+Profit on sale of tangible and intangible fixed assets (0.06) (0.39) 
+Interest income (15.31) (14.07) 
+Finance cost 5.77 5.87 
+Allowance for doubtful trade receivable & advances 2.52 0.69 
+Change in fair value of investments (6.68) (1.48) 
+Change in fair value of MTM of derivatives 5.41 (0.42) 
+Operating profit before working capital changes 321.02 226.09 
+(Increase ) in trade receivables -Billed (101.17) (141.02) 
+(Increase ) in trade receivables -Unbilled (45.55) (60.83) 
+(Increase) in other current assets (226.43) (148.21) 
+(Increase) in other financial assets (2.37) (0.21) 
+(Increase)/ Decrease in current loans (1.80) 0.06 
+(Increase) in other non-current assets (37.43) (15.21) 
+Increase I (Decrease) in trade payables 64.68 (121.85) 
+(Decrease)/ Increase in other financial liabilities (6.78) 0.18 
+Increase in other current liabilities 289.42 146.31 
+(Decrease ) in current provisions (5.71) (10.08) 
+Increase/ (Decrease) in non-current provisions 2.82 (2.31) 
+Cash generated from / (used in) operations 250.70 (127.08) 
+Income taxes paid (net) (57.41) (35.71' 
+Net cash generated from / (used in) operating activities 193.29 (162.79) 
+Cash flows from investing activities : 
+Dividend received 390.01 362.36 
+Interest received on bank deposit and others 1.71 0.01 
+Inter corporate deposits placed (1,124.00) (892.25) 
+Inter corporate deposits refunded 1,041.50 1,261.00 
+Interest received from inter corporate deposits 10.26 11.80 
+Payment for purchase of mutual funds (399 98) (400.73) 
+Proceeds from sale of Mutual Funds 372.17 344.07 
+Proceeds from sale of tangible and intangible fixed assets 0.08 0.41 
+Investment in subsidiary (0.01) -
+Payment for purchase of tangible and intangible fixed assets (11.93) (41.41) 
+Net cash generated from investing activities 279.81 645.26 
+Cash flows from financing activities : 
+Interest paid (0.01) -
+Dividends paid (407.70) (498.97) 
+Repayment of lease liabilities (15.74) (11.72) 
+Net cash (used in) financing activities (423.45) (510.69) 
+Net increase/(decreas e) in cash and cash equivalents 49.65 (28.22) 
+Cash and cash equivalents as at beginning of period 62.60 68.70 
+Effect of foreign exchange on cash and cash equivalents 0.05 (0.13) 
+Cash and cash equivalents as at end of period 112.30 40.35 
+Notes: G 
+TATA 
+TATA TECHNOLOGIES 
+Regd Office: Plot No 25, Rajiv Gandhi lnfotech Park, Hinjawadl , Pune, India -411 057 
+CIN:L72200PN1994PLC013313 
+1. The above unaudited standalone financial results were reviewed and recommended by the Audit Committee on October 28, 2024 and approved by the Board of Directors at its 
+meeting held on October 28, 2024 The Statutory Auditors have earned out limited review of the standalone financial results for the quarter and half year ended Septembe r 30, 
+2024 and have issued an unmodified opinion on the same. 
+2. The unaudited standalone financial results have been prepared in accordance with Indian Accounting Standards (Ind AS) notified under Section 133 of the Companies Act, 
+2013 read with the Companies (Indian Accounting Standard) Rules, 2015 (as amended) and m terms of Regulation 33 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015 
+3 The Company has completed an Initial Public Offer ("IPO") and has been listed on BSE Limited ("BSE") and National Stock Exchange of India Limited ("NSE") on November 30, 
+2023. The Company was not mandatonly required to prepare and publish quarterly results for the half year and quarter ended September 30, 2023. Audit for the quarter ended 
+September 30. 2023 was conducted for the purpose of IPO filing. 
+4 Mr P B. Balaji (DIN• 02762983) ceased to be a Non-Executive Non-Independent Director of the Company w e.f. August 14, 2024 pursuant to his resignation . 
+5. Where financial results contain both consolidated financial results and standalone financial results of the parent, segment information is required to be presented only in the 
+consolidated financial results. Accordingly , segment 1nformallon has been presented in the unaudited consolidated financial results. 
+6. Other income for the half year ended September 30, 2024 and quarter ended June 30, 2024 includes an amount of f 390.01 crore and for the half year ended and quarter 
+ended September 30. 2023 and year ended March 31, 2024 includes an amount off 362.36 crore on account of dividend received from subsidiary company. 
+7. The unaudited standalone financial results for the quarter and half year ended September 30, 2024 are available on the Company's website at www tatatechnologIes .com/in 
+and also on the website of BSE Limited at www.bseindia.com and National Stock Exchange of India Limited at www nseindia.com, where the shares of the Company are listed 
+Date. October 28, 2024 
+Place: Mumbai ~•~mofD"~,~ 
+Warren Harris 
+Chief Executive Officer and Managing Director 
+DIN: 02098548 

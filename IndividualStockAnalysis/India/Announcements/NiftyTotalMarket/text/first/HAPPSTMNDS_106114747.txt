@@ -1,0 +1,185 @@
+  
+ 
+ 
+ 
+ Happiest Minds Technologies Limited   
+Regd. Office:  #53/1-4, Hosur Main Road, Madivala, 
+Bangalore-560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931 
+P: +91 80 6196 0300, F: +91 80 6196 0700 
+Website: www.happiestminds.com  
+Email: investors@happiestminds.com  
+         January 15, 2025 
+ 
+Listing Compliance & Legal Regulatory  
+BSE Limited 
+Phiroze Jeejeebhoy Towers Dalal Street, 
+Mumbai 400 001 
+Stock Code: 543227,974728,974820 &  
+975101 Listing & Compliance 
+National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex 
+Bandra East, Mumbai 400 051 
+Stock Code: HAPPSTMNDS 
+Dear Sir/Madam, 
+Sub: Press Release – Happiest Minds collaborates with Coca-Cola Beverages Vietnam to deploy 
+an innovative GenAI conversational interface 
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, enclosed herewith is a press release issued by the Company on the captioned subject, the 
+content of which is self-explanatory. 
+ 
+This is for your information and records. 
+Thanking you, 
+Yours faithfully, 
+For Happiest Minds Technologies Limited 
+ 
+ 
+ 
+ 
+ 
+Praveen Kumar Darshankar 
+Company Secretary & Compliance Officer 
+Membership No. F6706 
+
+ 
+ 
+ 
+ 
+1 
+ 
+Happiest Minds collaborates with Coca-Cola Beverages Vietnam to 
+deploy an innovative GenAI conversational interface 
+Bengaluru,  San Jose and London, January 15, 2025 : Happiest Minds Technologies Limited  (NSE: 
+HAPPSTMNDS), a ‘Born Digital . Born Agile’, Mindful IT Company, today announced the new 
+association with Coca-Cola Beverages Vietnam , creating a series of GenAI solutions through their 
+Generative AI Business Services (GBS).  
+In a consultative approach, Happiest Minds collaborated closely with the strategic team at Coca-Cola 
+Beverages Vietnam during a discovery phase. This phase aimed to comprehensively understand the 
+business requirements and explore how GenAI could effectively support them in achieving their goals. 
+ 
+Coca-Cola Beverages Vietnam presented two business cases necessitating technology transformation 
+to enhance organizational productivity and operational efficiency.  
+ 
+1. Augmenting HR Efficiency : The policy information across different business functions at 
+Coca-Cola Beverages Vietnam was scattered across multiple documents, causing inefficiencies 
+for employees searching for relevant information. This fragmentation impeded productivity 
+and hindered effective decision-making processes within the organization. 
+2. Monitoring Cooler Productivity : Sales reps and asset managers at Coca-Cola Beverages 
+Vietnam must monitor cooler RoI nationwide, engaging with retailers to enhance productivity. 
+Presently, they navigate multiple systems to assess customer performance, pinpoint focus 
+areas, and identify outliers. Streamlining this process would optimize cooler productivity, 
+fostering better retailer connections. 
+ 
+Happiest Minds harnesses GenAI bots, utilizing Microsoft Azure OpenAI Service and open-source 
+components, to develop a conversational interface that fulfills both critical business needs ― firstly, 
+to create a GenAI-enabled HR assistant, and secondly, to develop a Cooler Productivity Monitoring 
+System with an embedded layer of GenAI. The solution enabled users to access comprehensive 
+information through a single interface and engage in natural language conversations with the 
+underlying data. By integrating GenAI technology, this conversational interface enhances user 
+experience, facilitating seamless interaction and efficient access to information. Users can now 
+intuitively converse with the data, streamlining workflows and fostering a more productive and 
+intuitive user experience for better HR enablement and augmented assistance for Sales reps and Asset 
+Managers.  
+ 
+Implementing the GenAI solution at Coca-Cola Beverages Vietnam promises significant benefits for 
+employees. Firstly, it enhances operational efficiency by automating tasks and streamlining processes, 
+effectively reducing manual workload. Secondly, it fosters increased employee satisfaction and 
+engagement, thereby boosting overall productivity levels. 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+Sridhar Mantha, CEO, Generative AI Business Services, Happiest Minds, said, “Our enduring 
+partnership with Coca-Cola Beverages Vietnam  led to the exploration of unique business cases, igniting 
+excitement at GBS to collaborate and craft a unique GenAI solution. Given our strategic alliance with 
+Microsoft, we were able to leverage Microsoft Azure Open AI stack to deliver tailored solutions for Coca-
+Cola Beverages Vietnam needs. In a short span since inception, we've already served over 20 customers 
+and are actively engaging with numerous others, showcasing our commitment to excellence and 
+customer satisfaction.” 
+Rahul Shinde, Vice President & CIO, Coca-Cola Beverages Vietnam,  said, “I am proud of the fact 
+that we were able to create a tool that has the potential to make a real difference in unleashing the 
+productivity of our employees and we are only scratching the surface with Generative AI. We had 
+confidence to partner with Happiest Minds through this journey and the team didn’t disappoint us. They 
+were able to work in an agile manner and their technical expertise coupled with deep understanding of 
+Coca-Cola business helped us to launch this product within a few weeks.”  
+Rajiv Shah, Executive Director, Happiest Minds, said, “The advent of Generative AI is poised to 
+revolutionize not only the tech landscape but also the business arena in the years ahead, offering a 
+competitive edge to organizations that embrace it swiftly. At Happiest Minds, we collaborate closely with 
+our clients, guiding them through their GenAI implementation journey. From identifying needs and 
+conducting gap analyses to providing tailored solutions aligned with their business objectives, we ensure 
+our clients leverage the full potential of Generative AI to stay ahead in their respective industries.”  
+Nathan Nash, Strategic Account Technology Strategist, Microsoft, said, “This deployment of 
+Microsoft Azure AI solutions with Coca-Cola Beverages Vietnam continues to build on the strong 
+relationship between Happiest Minds and Microsoft in APJ. This solution has significantly bolstered 
+operational efficiency, showcasing the robust capabilities of Azure AI in driving business transformation. 
+By harnessing advanced analytics and AI tools, Coca-Cola Beverages has streamlined processes, reduced 
+costs, and enhanced decision-making. This collaboration not only exemplifies the tangible benefits of 
+Microsoft Azure AI but also stands as a glowing example of how technology can quickly deliver the 
+business outcomes that customers need to compete in the new era of AI.”  
+Pioneering the field of Generative AI, Happiest Minds has strategically established a dedicated 
+Generative AI business unit (GBS). GBS provides a comprehensive suite of Gen AI services spanning 
+diverse sectors such as EdTech, BFSI, Healthcare, and more. Backed by a proficient team of AI 
+engineering experts and a repository boasting over 120 use cases, Happiest Minds has successfully 
+delivered bespoke Gen AI solutions for over 20 clients. This track record has firmly positioned Happiest 
+Minds as a 'Niche & Established' leader in Gen-AI Engineering Services, a distinction acknowledged 
+by Zinnov's 2023 Zones Ratings for Digital Engineering and ER&D Services.  
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Happiest Minds is a recognized Microsoft AI Partner Council Program  member. This program 
+acknowledges partners' expertise in various industries and their capability to facilitate business 
+transformation through Microsoft Azure AI. Happiest Minds champions various Microsoft AI 
+technologies to deliver innovative cloud-based AI solutions, drive innovation, and shape the future of 
+AI-driven technologies. 
+About Happiest Minds Technologies  
+Happiest Minds Technologies Limited  (NSE: HAPPSTMNDS), a Mindful IT Company, 
+enables digital transformation  for enterprises and technology providers by delivering seamless 
+customer experiences, business efficiency and actionable insights. We do this by leveraging a 
+spectrum of disruptive technologies such as: artificial intelligence, blockchain, cloud,  digital 
+process automation,  internet of  things, robotics/drones, security, virtual/ augmented reality,  etc. 
+Positioned as ‘Born Digital. Born Agile’, our capabilities span Product & Digital Engineering Services 
+(PDES), Generative AI Business Services (GBS) and Infrastructure Management & Security Services 
+(IMSS). We deliver these services across industry groups: Banking, Financial Services & Insurance 
+(BFSI), EdTech, Healthcare & Life Sciences, Hi-Tech and Media & Entertainment, Industrial, 
+Manufacturing, Energy & Utilities, and Retail, CPG & Logistics. The company has been recognized for 
+its excellence in Corporate Governance practices by Golden Peacock and ICSI. A Great Place to Work 
+Certified™ company, Happiest Minds is headquartered in Bengaluru, India with operations in the U.S., 
+UK, Canada, Australia, and the Middle East. 
+Media Contact: media@happiestminds.com   
+About Coca-Cola Beverages Vietnam Ltd. (Coca-Cola Beverages Vietnam)  
+Coca-Cola Beverages Vietnam operates plants in Ho Chi Minh City, Da Nang, and Hanoi, generating 
+more than 2,200 indirect jobs through its supply chain and more than 1,400 direct jobs. The company 
+continuously enhances and offers a variety of high-quality beverages, including low-sugar and sugar-
+free product lines, while diversifying designs and increasing business coverage globally. Coca-Cola's 
+beverage brands in Vietnam include Coca-Cola, Coca-Cola Light, Coke Zero, Sprite, Fanta, Minute 
+Maid Nutriboost, Minute Maid Teppy, Schweppes, Dasani, and Aquarius, as well as Fuzetea+ bottled 
+tea, Georgia canned coffee, and Thumps Up Charge energy drink. 
+Coca-Cola Beverages Vietnam is a member of the Swire Coca-Cola Limited, a wholly-owned subsidiary 
+of Swire Pacific Limited, since the completion of acquisition in January 2023. 
+About Microsoft 
+Microsoft (Nasdaq “MSFT”) is a global leader in technology, committed to empowering every person 
+and organization on the planet to achieve more. With a focus on cloud computing, artificial 
+intelligence, and productivity solutions, Microsoft is dedicated to driving digital transformation across  
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+industries. The company’s innovations—including Microsoft Azure, Microsoft 365, and Dynamics 
+365—enable businesses to harness data, streamline operations, and enhance collaboration. Microsoft 
+prioritizes security, compliance, and sustainability, helping organizations navigate today’s complex 
+digital landscape while fostering a culture of inclusivity and trust. 
+ 

@@ -1,0 +1,771 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ 
+October, 26 , 2026  
+ 
+Subject: - Investor Presentation on the financial results for quarter and half year ended on 
+September 30, 2026. 
+ 
+Dear Sir / Madam,  
+ 
+In compliance with Regulation 30 read with Para 15(a) of Part A of Schedule III and other 
+applicable provisions of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, we have enclosed herewith the Investor 
+Presentation inter -alia, encompassing an overview of the Company, its operations and 
+unaudited Standalone and Consolidated Financial Results for the quarter  and half year 
+ended on September 30, 2026 . 
+ 
+Kindly take the same on record.  
+ 
+Thanking  you, 
+ 
+For SONA BLW PRECISION FORGINGS LIMITED  
+ 
+ 
+ 
+Pankaj Gupta  
+Senior Vice President (Legal),  
+Company Secretary and Compliance Officer  
+ 
+Enclosed: As above  
+ BSE Ltd.  
+Regd. Office: Floor - 25,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai -400 001.  National Stock Exchange of India Ltd.  
+Listing Deptt., Exchange Plaza,  
+Bandra Kurla Complex, Bandra (East),  
+Mumbai - 400 051  
+BSE Scrip Code: 543300  NSE Scrip :  SONACOMS  
+=== page 2 ===
+26 October 2026Q2 FY27 
+Earnings Presentation
+
+=== page 3 ===
+2This presentation  and the accompanying  slides  (the “Presentation”),  which  have  been  prepared  
+by Sona  BLW Precision  Forgings  Ltd. (the “Company”),  have  been  prepared  solely  for 
+information  purposes  and do not constitute  any offer,  recommendation  or invitation  to 
+purchase  or subscribe  for any securities,  and shall  not form  the basis  or be relied  on in 
+connection  with any contract  or binding  commitment  whatsoever . No offering  of securities  of 
+the Company  will be made  except  by means  of a statutory  offering  document  containing  
+detailed  information  about  the Company .
+This Presentation  has been  prepared  by the Company  based  on information  and data  which  
+the Company  considers  reliable,  but the Company  makes  no representation  or warranty,  
+express  or implied,  whatsoever,  and no reliance  shall be placed  on, the truth,  accuracy,  
+completeness,  fairness  and reasonableness  of the contents  of this Presentation . This Presentation  
+may  not be all inclusive  and may  not contain  all of the information  that you may  consider  
+material . Any liability  in respect  of the contents  of, or any omission  from,  this Presentation  is 
+expressly  excluded .
+Certain  matters  discussed  in this presentation  may  contain  certain  forward -looking  statements  
+concerning  the Company’s  future business  prospects  and business  profitability . Such  forward -
+looking  statements  are not guarantees  of future  performance  and are subject  to a number  of 
+risks and uncertainties  that are difficult  to predict . These  risks and uncertainties  include,  but are 
+not limited  to, the Company’s  ability  to manage  growth,  the fluctuations  in earnings,  
+competition  (both  domestic  and international),  economic  growth  in India  and abroad,  ability  to 
+attract  and retain  highly  skilled  professionals,  time  and cost over  runs on contracts,  the 
+Company’s  ability  to manage  its international  operations,  Government  policies  and actions  
+regulations,  interest  and other  fiscal  costs  generally  prevailing  in the economy . The Company  
+does  not undertake  to make  any announcement  in case  any of these  forward -looking  
+statements  become  materially  incorrect  in future  or update  any forward -looking  statements  
+made  from  time  to time  by or on behalf  of the Company .
+© Sona  BLW Precision  Forgings  Limited  (Sona  Comstar) . Reproduction  and distribution  of this 
+Presentation  without  the permission  of Sona  Comstar  is prohibited .Disclaimer
+=== page 4 ===
+3Our Management
+Mr. Vivek Vikram Singh
+MD & Group CEOMr. Praveen 
+Chakrapani Rao
+Group CTOMr. V. Vikram Verma
+Whole Time Director and  
+CEO, Driveline BusinessMr. Sat Mohan Gupta
+CEO, Motor Business
+Mr. Rohit Nanda
+Group CFO
+Mr. Amit Mishra
+Head, Railway Business 
+
+=== page 5 ===
+Business Performance Highlights
+Our Booth at Consumer Electronics Show 2026
+=== page 6 ===
+5Q2 FY27 Financial Performance Highlights 
+15,464 mn | 35%
+Revenue | YoY Growth3,562 mn | 23%
+EBITDA | YoY Growth
+23.0%  EBITDA Margin
+6,061 mn | 129%
+BEV Revenue | YoY Growth51%
+BEV Share in 
+Automotive Product Revenue2
+Notes:  
+1. PAT margin percentage calculated from PAT including non -controlling interest
+2. Includes product revenue from PV, CV, OHV, E2W, E3W vehicle segments2,234 mn | 29%
+PAT | YoY Growth
+14.4%  PAT Margin1
+=== page 7 ===
+6H1 FY27 Financial Performance Highlights 
+28,568 mn | 43%
+Revenue | YoY Growth6,588 mn | 34%
+EBITDA | YoY Growth
+23.1%  EBITDA Margin
+Notes:  
+1. PAT margin percentage calculated from PAT including non -controlling interest
+2. ROCE = LTM EBIT/(Average tangible capital employed + capital deployed for acquiring NOVELIC)
+3. ROE = LTM PAT/(Average tangible net worth + capital deployed for acquiring NOVELIC)    16.4%
+RoCE313.9%
+RoE44,039 mn | 36%
+PAT1 | YoY Growth
+14.1%  PAT Margin2
+=== page 8 ===
+Update on our Strategic Priorities
+Our Integrated Motor Controllers, EVTOL Gearbox, and AMR Drive Unit at CES 2026
+=== page 9 ===
+8Update on our Strategic Priorities 
+EPIC Mobility Global Market 
+SignificanceTechnology Diversification
+=== page 10 ===
+9Sizeable and Increasing Presence in EPIC Mobility
+Notes:  
+1. Includes product revenue from PV, CV, OHV, E2W, E3W vehicle segments
+2. Include BEV/PHEV and Robotics & Physical AI programs currently in serial production as well as in the orderbook; numbers in brac kets to be read as  (# of 
+programs in fully ramped up production + # of programs in ramp- up + # of programs not yet in production)48%
+H1 FY27 BEV Share in 
+Automotive Product Revenue110,416 mn
+H1 FY27 
+BEV revenue119%
+H1 FY27 BEV revenue 
+YoY growth
+71
+(20+20+31)2
+EPIC Mobility Programs2 
+awarded across 36 customers 
+as at the end of Q1 FY2775
+(21+23+31)2
+EPIC Mobility Programs2 
+awarded across 37 customers 
+as at the end of Q2 FY27 +4
+=== page 11 ===
+10Existing CustomerHelical Limited -Slip 
+Differential
+Global OEM 
+of EVs
+₹7,000 mn
+addition in our orderbook
+H1 FY29
+Start of ProductionFor Electric Passenger 
+Vehicles
+Existing CustomerIn Q2, we won orders for two new products, another order for 
+integrated motor controller, & more volumes for existing  programs
+Integrated 
+Motor Controller
+Indian OEM of ICE 
+and EV 2-Wheelers
+₹3,800 mn
+addition in our orderbook
+H1 FY28
+Start of Production
+Traction motors
+For Electric 
+2-wheelers(Additional Volumes in 
+two existing programs)
+Indian OEM of ICE 
+and EV 2Ws and 3Ws
+₹12,500 mn
+addition in our orderbook
+H2 FY27
+Start of ProductionExisting Customer
+For Electric 
+2-wheelersRear Radar 
+Sensor
+New Customer
+Indian OEM of ICE 
+and EV 2-Wheelers
+₹1,000 mn
+addition in our orderbook
+H2 FY28
+Start of ProductionFor Intelligent & 
+Connected 2Ws
+
+=== page 12 ===
+11Our Strategic Priorities 
+EPIC Mobility Global Market 
+SignificanceTechnology Diversification
+=== page 13 ===
+12Existing CustomerStarter 
+Motors
+North American OEM of 
+PVs and EVs
+₹3,300 mn
+addition in our orderbook
+H1 FY29
+Start of ProductionExisting CustomerOur non- electric program portfolio also continues to expand 
+adding ₹6.6 billion in orderbook this quarter
+Differential 
+Assembly
+Indian OEM of PVs, CVs, 
+OHVs and EVs
+₹1,600 mn
+addition in our orderbook
+H2 FY28
+Start of ProductionDifferential 
+Gears
+North American and 
+Indian Customers
+₹2,000 mn
+addition in our orderbook
+H1 FY28
+Start of ProductionExisting Customers
+For ICE Passenger 
+VehiclesMultiple programs for 
+ICE PVs and OHVsFor ICE Passenger 
+Vehicles
+=== page 14 ===
+13Our net order book1 stands at ₹251 billion  (5.6x FY26 
+revenue)
+Notes:  
+1. Net order book means the aggregate revenue from awarded programs which are either yet to start production or are yet to fully  ramp up, in the next 10 
+years, after adjusting for the negative impact of all programs that are expected to reach end of life or be phased out. We ha ve also applied a discount to 
+accommodate any unforeseen delays or changes in program launches that may happen in the future.
+2. Railway business order book is based on the purchase orders received from the customers to be executed largely within next 12  monthsAutomotive EV Automotive Non -EV
+₹152 billion
+(61%)
+44₹77 billion
+(31%)
+126₹13 bn
+(5%)₹9 bn
+(4%)
+5 # of Programs240 bn 25 bn 36 bn 251 bn
+Orderbook at the end of 
+Q1 FY27Orders consumed from 
+matured and ramp -up 
+programs during Q2 FY27Orders added for 
+programs won in Q2 FY27Orderbook at the end of 
+Q2 FY27
+Railway2Robotics & 
+Physical AI
+=== page 15 ===
+14Our Strategic Priorities 
+EPIC Mobility Global Market 
+SignificanceTechnology Diversification
+=== page 16 ===
+15Diversified Revenue Mix
+FY26 H1 FY27
+49% 49%
+9% 7%
+31% 29%10% 14%PV
+CV
+Non-AutomotiveE2W/E3W
+By Market segment By Product
+17%
+22%
+16%7%10%1%10%4%2%11%
+FY26By Geography
+51%
+25%14%10%
+H1 
+FY2751%
+27%17%5%
+FY26
+1% 1%Robotics and Physical AI19%
+19%
+10%8%14%7%7%3%1%12%
+H1 
+FY27
+
+=== page 17 ===
+16Our Strategic Priorities 
+EPIC Mobility Global Market 
+SignificanceTechnology Diversification
+=== page 18 ===
+17Our Technology Roadmap for E.P.I.C. Mobility
+Harnessing capabilities to continue our journey from components to subsystems to systems in all areas of EPIC mobility
+Note: The product images shown are for illustration purposes only and may not be an exact representation of the productsLegacy Products Current Products Future ProductsEPIC 
+MobilityMechanical | Materials | Electrical | Electronics | Software
+4-Wheeler 
+HV e-Axle
+2-Wheeler  
+Integrated Motor -Controller
+eVTOL
+Propulsion UnitIndustrial Robot 
+GearboxAutonomous 
+Mobile Robot 
+(AMR)Advanced Robotics 
+Actuators
+Differential 
+Gear
+Differential  
+Assembly
+Steering 
+Bevel Box
+Transmission 
+Gears
+Reduction 
+Gearbox
+Auto
+eVTOL
+HVInverters
+LV
+Suspension 
+Motor -Controller
+Integrated 
+Radar SensorIn-cabin 
+Sensor s
+Short -range 
+Radar Sensors
+Zone Monitoring 
+SensorsStarter 
+Motor
+Traction 
+Motors
+Auto LV
+Auto HV
+eVTOL
+Advanced Robotics 
+ComponentsAdvanced Robotics
+Motors
+Dampers
+CouplersFriction 
+Products
+Railway Brake 
+Systems
+Railway 
+Automatic Plug 
+Door SystemRailway 
+HVAC System
+Electric  
+Control  Panel
+Air Spring
+Product commercialized in Q2FY27Hydraulic Motor 
+Controller
+New product in category
+Limited Slip Differential
+New product in category
+Rear Radar Sensor
+=== page 19 ===
+Our Exhibition Booth at Indian Railway Equipment Exhibition (IREE) 2025Q2 FY27 Financial Update
+=== page 20 ===
+Q2 FY27 Financials
+19Notes:  
+1. Revenue includes net gain from foreign exchange
+2. PAT margin percentage calculated from PAT including non -controlling interest1,7282,234
+14.9% 14.4%
+Q2 FY26 Q2 FY27PAT (Rs. mn) PAT Margin (%)
+oOur revenue grew  by 35% during  the 
+quarter
+oBEV Revenue grew  by 129%  and 
+constituted 51% of automotive  product  
+salesoOur EBITDA  grew  by 23% while  EBITDA  
+margin  was lower  by ~2.3%
+oThe margin  was lower  due to product  mix 
+and higher  input  prices  partially  offset  by 
+the positive  impact  of operating  leverageoProfit  after  tax grew  by 29% YoY
+oPAT margin  was lower  by ~0.5% due to 
+lower  EBITDA  margin  partially  improved  
+by lower  depreciation cost as a % of 
+revenue11,43515,464
+2,6476,061
+Q2 FY26 Q2 FY27Revenue (Rs. mn) BEV
+YoY: 35%1 2
+YoY: 29%
+2,8913,562
+25.3%23.0%
+Q2 FY26 Q2 FY27EBITDA (Rs. mn) EBITDA Margin (%)
+YoY: 23%
+=== page 21 ===
+H1 FY27 Financials
+20Notes:  
+1. Revenue includes net gain from foreign exchange
+2. PAT margin percentage calculated from PAT including non -controlling interest4,9166,588
+24.6%23.1%
+H1 FY26 H1 FY27EBITDA (Rs. mn) EBITDA Margin (%)
+19,94428,568
+4,75210,416
+H1 FY26 H1 FY27Revenue (Rs. mn)
+BEV
+2,9754,039
+14.6% 14.1%
+H1 FY26 H1 FY27PAT (Rs. mn) PAT Margin (%)
+YoY: 43%
+oOur overall  revenue grew  by 43% during  
+the first half of the year
+oBEV Revenue  grew  by 119%  and 
+constituted 48% of total  automotive  
+product  salesoOur EBITDA  grew  by 34% while  EBITDA  
+margin  was lower  by ~1.5%
+oThe margin  was lower  due to product  
+mix and higher  input  prices  partially  
+offset  by the positive  impact  of 
+operating  leverageoProfit  after  tax grew  by 36% YoY
+oPAT margin  was lower  by ~0.5% due to 
+lower  EBITDA  margin  and lower  net 
+finance  income  partially improved  by 
+lower  depreciation cost as a % of 
+revenue and exceptional  expenses  in 
+H1FY261
+YoY: 36%2
+YoY: 34%
+=== page 22 ===
+FCFO of INR 4,456 mn in H1 FY27
+2112,690 (1,479) 5,935 2,509 19,655 
+Opening Cash, FDs 
+& Mutual Funds as on 
+1st Apr 2026Net Cash Flow 
+from OperationsCapex Others Cash
+MovementsClosing Cash, FDs 
+& Mutual Funds as on 
+30th Sep 2026Numbers in Rs. mn
+EBITDA 6,588
+∆ Working capital 440
+Tax paid & Others (1,093)Dividend Payment (1,120)
+Borrowings 2,236
+ESOPs 1,076
+Interest Income & Others 317Free Cash Flow from Operations: INR 4,456 mn
+=== page 23 ===
+Key Ratios
+22Note: 
+1) VA/Employee Cost (for manufacturing businesses only) = Material margin / (Employee cost + Manpower cost on hiring)
+2) ROCE = LTM EBIT/(Average tangible capital employed + capital deployed for acquiring NOVELIC and Railway Business)
+3) ROE = LTM PAT/(Average tangible net worth + capital deployed for acquiring NOVELIC and Railway Business intangibles); LTM 
+PAT is adjusted for one- time impact of ₹301 mn due to the new labour  code
+4) Net Debt to EBITDA = Short -term & long -term debt less cash, bank balances & mutual fund investments / LTM EBITDA
+5) Working Capital Turnover (WCTR) =  LTM Revenue/ Average net working capital  
+6) Fixed asset turnover (FATR) (for manufacturing businesses only) = LTM Revenue/ Average Tangible net block
+7) ROCE, WCTR and FATR have been normalized by annualizing Railway Business EBIT and turnover respectively18.4%15.4% 16.4%
+Mar-25 Mar-26 Sep-26RoCE (%)
+5.0
+3.84.6
+Mar-25 Mar-26 Sep-26Working Capital Turnover 17.7%13.2% 13.9%
+Mar-25 Mar-26 Sep-26RoE (%)
+3.42.93.4
+Mar-25 Mar-26 Sep-26Fixed Asset Turnover5.84.9 4.7
+Mar-25 Mar-26 Sep-26VA/Employee cost
+(2.73)(0.93) (1.17)
+Mar-25 Mar-26 Sep-26Net Debt to EBITDA
+=== page 24 ===
+Q&A
+Demonstration of our AMR Platform at Consumer Electronics Show 2026
+=== page 25 ===
+Appendix
+Cross Sectional View of Hub Type EV Traction Motor
+=== page 26 ===
+16 120 223 183 221 399 697 910 1,135 1,348 1,174 1,4922,2072,807 2,6163,309 3,456 3,6535,0336,0886,99210,38015,66321,30626,75631,86635,54544,75257,136 FY 99
+ FY 00
+ FY 01
+ FY 02
+ FY 03 FY 04
+ FY 05
+ FY 06
+ FY 07
+ FY 08
+ FY 09
+ FY 10
+ FY 11
+ FY 12
+ FY 13 FY 14
+ FY 15
+ FY 16
+ FY 17
+ FY 18
+ FY 19 FY 20 FY 21 FY 22 FY 23 FY 24 FY 25
+ FY 26
+ H1 FY 27
+ (ann.)FY17–FY21
+Avg. EBITDA margin 27.2%
+ Revenue CAGR 33.8%
+Phase - 4
+•Became publicly listed
+•Acquisition of NOVELIC and Railway Business
+•12 plants
+•34 productsOur story so far…
+25
+FY12– FY16
+ Avg. EBITDA margin 25.0%
+Revenue CAGR 10.6%
+FY99– FY11 
+Avg. EBITDA margin 21.5%
+Revenue CAGR 50.6%FY99 – H1 FY27 annualized
+Avg EBITDA margin 25.3%
+Revenue CAGR 33.9%Phase - 3
+•Acquisition of Comstar
+•47 Customers (37+10)
+•9 Plants (5+4)
+•10 Products (5+5)Phase - 2
+•22 Customers
+•2 Plants
+•2 ProductsPhase - 1
+•18 Customers
+•2 Plants
+•1 Product
+Revenue in INR millions
+28,568 H1FY27H1FY27 (Ann.)
+FY22–H1FY27 Ann.
+Avg. EBITDA margin 25.1%
+ Revenue CAGR 24.1%
+=== page 27 ===
+One Vision
+To become one of the World’s 
+most Respected  and Valuable 
+Mobility Technology 
+companies for our 
+Customers, Employees & 
+Shareholders .
+26
+=== page 28 ===
+Guided by Values
+2723%
+Growth Agility
+Vitality
+Frugality20% 
+Returns26%
+MarginsIntegrity5-year Revenue 
+CAGR
+5-year Avg. 
+EBITDA
+5-year Avg. 
+ROE1 
+Note: 
+1) ROE = 5- year average of PAT/5 -year average of (Average tangible net worth + capital deployed for acquiring NOVELIC and Railway Business); 
+For a 5 -year period of FY22 to FY26
+=== page 29 ===
+Established Global Presence to Serve Customers Locally
+28Notes:  
+1. Data Source: a) BofA  Global Automobiles Report; b) Ricardo Report; c) EV -Volumes; d) Vahan Database; Company Analysis
+Belgium
+Genk
+Germany
+Cologne
+Manufacturing Plants 12
+R&D Centres 5
+Tool & Die Shop 1
+Warehouses 8India Location Key Products
+Gurugram Differential gears
+Manesar Differential assemblies
+Faridabad Brakes, Suspension, Couplers
+Pune Differential gears
+ChennaiStarter motors, Traction 
+motors & controllers
+Hosur, Sanand, Rudrapur, Mehsana
+China Location Key Products
+Hangzhou Suspension motors
+USA Location Key Products
+Tecumseh, MI Starter motors
+Ypsilanti, MI
+7 of the world’s top 10 PV OEMs1a
+8 of the world’s top 10 tractor OEMs1b3 of the world’s top 10 CV OEMs1b
+3 of the world’s top 10 EV OEMs1c
+3 of the Indian top 10 Indian 
+e-2-Wheeler OEMs1d
+Engineering Capability Centres 3Serbia 
+Belgrade
+Novi Sad
+Niš
+ Mexico Location Key Products
+Irapuato Starter motors
+Silao Differential assemblies
+
+=== page 30 ===
+2342,0575,0426,7078,85912,23511,54220,832
+2%14%25%26%29%36%35%48%
+FY20 FY21 FY22 FY23 FY24 FY25 FY26 H1 FY27 ann.
+BEV Segment Revenue (Rs. mn) BEV Revenue Share (%)
+29BEV revenue and BEV revenue share1 over the years
+Notes:  
+1. Includes product revenue from PV, CV, OHV, E2W, E3W vehicle segments10,416 H1FY27H1FY27 (Ann.)
+=== page 31 ===
+3075 EPIC mobility programs across 37 different customers1
+Notes:  
+1. 4 customers are present in more than one geography
+2. Europe geography includes the UK24 6 8
+37Europe2
+3
+7
+ 155Customers
+Asia
+3 3
+3 26Customers
++x denotes the change during Q 2 FY27
+Programs in fully ramped -up production
+Programs in ramp -up or not yet in production
+Programs for Driveline business
+Programs for Motor business
+Programs for Robotics and Physical AI business
+1
++2+1 +1North America
+9 15
+239Customers
+1
+India
+6 31
+15
+ 2022Customers
+2
++1
+=== page 32 ===
+Market Shares for Differential Gears and Starter Motors
+31Passenger Vehicles Commercial Vehicles Tractors
+55-60%280-90%275-85%2While we dominate the 
+Indian market for Differential Gears
+Notes:  
+1. Data Source: Ricardo, CRISIL, Company Analysis
+2. As per CRISIL report dated Feb 20214.6%Global Market Share 
+of Starter Motors1Global Market Share of Differential Gears
+16.3% CY20 4.5% CY19 5.0% CY21
+CY20 2.5% CY19 3.0% CY21 4.1%7.2% CY22
+CY22 4.2%8.1% CY23
+CY238.8% CY24
+CY24 4.4%8.7% CY25
+CY25 4.2%
+=== page 33 ===
+32
+*Product under development
+Inter -Axle Gear SetCoupling/ Sleeves
+1312Differential Bevel 
+Gears6
+5
+56
+7Epicyclic 
+Geartrain8
+812
+Intermediate 
+Gears
+1
+2
+2
+1Traction 
+Motor*
+Controller*3
+Starter Motor4
+4Input/Rotor ShaftIntegrated 
+Motor Controller 
+Module
+(for Predictive Active 
+Suspension)11Electronically Locking 
+Differential (EDL)
+Spool Gears
+13
+Short Range Radar 
+SensorsIn-Cabin Radar 
+Sensors9
+9
+1010
+7
+Commercial VehiclesPassenger Vehicles
+Differential Assembly
+14Steering Bevel  Box
+15
+Park Gear
+Limited Slip 
+Differential (LSD)15Product Summary
+
+=== page 34 ===
+33Product Summary
+*Product under development
+Off Highway Vehicles
+Buses
+3
+Traction Motor *2
+Controller *
+Differential Bevel 
+Gears
+1
+4
+In-Cabin RADAR 
+Sensors7
+Starter Motor
+5
+Spiral Bevel Gears
+Portal Axle Gears
+98
+1
+1
+2
+Differential 
+Assembly
+Differential Bevel 
+Gears
+2In-Cabin Radar 
+Sensors
+Controller Traction Motor
+34
+43
+Light Commercial Vehicles
+/3-Wheeler (Cargo)
+Short Range Radar 
+Sensors6
+65
+5
+Short Range 
+Radar Sensors
+7
+Steering 
+Bevel Box
+7
+Hydraulic Motor 
+Controller7
+=== page 35 ===
+34Product Summary
+*Product under development
+Advanced Robotics
+Drive Motor
+Controller
+2
+3
+2Electric 2 -Wheelers
+Electric 3 -Wheelers43
+Short Range
+Radar Sensors1
+15Integrated Drive Motor 
+& ControllerHub Wheel Motor
+AGV/AMR 
+Drive Unit* Zone Monitoring 
+Sensors1
+3
+4
+Short Range
+Radar Sensors2
+Gearbox*
+6
+Integrated Hub 
+Motor & Controller*
+eVTOL Reduction 
+Gearbox*5
+eVTOL Motor*
+Frameless 
+Motors*4
+7
+64
+eVTOL2
+=== page 36 ===
+35Product Summary
+*Product under development
+Railways
+2Friction 
+Products
+AAR-H 
+CouplerDampersAxle Mounted Disc 
+Brake System
+1
+Microprocessor 
+Controlled
+Brake System
+Bogie Mounted
+Brake System
+Electro Pneumatic
+Brake System
+Automatic 
+CouplerSemi 
+Automatic 
+CouplerSemi 
+Permanent
+Coupler
+43678911
+10
+5 12
+Wheel Mounted 
+Disc Brake System
+Air Spring
+13
+14
+Electric Panels HVAC System

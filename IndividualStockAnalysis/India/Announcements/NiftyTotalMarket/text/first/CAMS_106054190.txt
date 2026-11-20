@@ -1,0 +1,172 @@
+ 
+ 
+11th November 2024  
+  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street  
+Mumbai 400 001  
+Scrip Code: 543232  National Stock Exchange of India Limited  
+Exchange Plaza, 5th floor, Plot No. C/1,  
+G Block, Bandra Kurla Complex, Bandra  
+(East), Mumbai 400 051  
+Trading Symbol: CAMS  
+ 
+Dear Sir / Madam,  
+ 
+Sub: Media Release – CAMS and KFintech announce Joint Venture for a Standalone 
+Entity to o perate  MFCentral   
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, enclosed herewith is a Press Release issued by the Company on the cited 
+subject, content of which is a self-explanatory.  
+ 
+We request you to take the same on record.  
+ 
+ 
+ 
+Thanking you,  
+Yours faithfully,  
+For Computer Age Management Services Limited  
+  
+ 
+ 
+G Manikandan  
+Company Secretary and Compliance Officer  
+ 
+ 
+ 
+ 
+  
+CAMS and KFintech announce Joint Venture for a Stand -alone Entity  
+to Operate MFCentral  
+ 
+- CAMS and KFintech  had collaborated to create MFCentral  in 2021  as per SEBI’ directive  
+to operationalize  and fulfil the objective of investor convenience and to stay  fully aligned 
+to the regulatory intent of SEBI  
+- New entity shall  handle all tech nology development , sales, marketing  and more  for 
+MFCentral  
+- A revolution ary solution for the Indian mutual fund industr y, MFCentral  shall  continue 
+focussing on investor convenience and investor service  
+Mumbai/Chennai , 11 November 2024 : Computer Age Management Services Limited (CAMS), 
+India’s largest registrar and transfer agent of mutual funds  and KFin  Technologies Limited 
+(KFintech), leading provider of global investor and issuer solutions , today announced the  
+formation of a Joint Venture Company  for MFCentral . The company will jointly focus on all 
+development aspects of MFCentral  for technology, sales and marketing and will further augment 
+the mutual fund investment process for investors  and expand the intermediary service suite.  
+CAMS and K Fintech , as part of SEBI’s initiative in  April 2021 , conceptualised a unified platform  - 
+MFCentral , for improving the ease of doing business for retail investors . MFCentral  is a 
+centralized platform that provides investors with a single access point to transact in mutual funds 
+across multiple fund houses  for investor convenience and to significantly augment the suite of 
+services available to investors online .  
+In Phase 1, MFCentral  launch ed Non-Financial Transactions  in Sep tember 2021  and subsequently  
+launched the mobile app and the full range of financial transactions  for investors in 2023. Having  
+witnessed a phenomenal response and success  with over  2.5 million users , MFCentral  is now 
+being formaliz ed into a  stand -alone entity with equal ownership by both  RTAs .  
+APIs for Consolidated Accounts Statement (CAS)  commercially offered to M utual Fund 
+Distributors  / RIA  have  seen significant interest and uptake by the fast -growing digital 
+intermediaries .  By delivering over 50 million personalised statements , which give a unified  view 
+of the investors ’ holdings , intermediaries have been enabled to offer customized products  on the 
+fly. MFCentral has developed various APIs to support Mutual Fund Distributors and Registered 
+Investment Advisors (RIAs). These include Non -Financial Transaction APIs, Financial Transaction 
+APIs and Information -Only APIs, such as for Capital Gains and Distributor -level CAS. The 
+transactional APIs offered by MFCentral  will be the first in the market to enable transaction 
+acceptance with full validation, catering to the fast -evolving needs of mutual fund -related 
+services like Loan Against Mutual Funds. Additionally, MFCentral  has introduced a seamless API 
+
+ 
+journey for banks, NBFCs and loan service providers, marking the first industry -wide API to enable 
+a standardized pledging process across all AMCs . 
+Anuj Kumar, Managing Director, CAMS,  said, “Today marks a significant milestone in the 
+evolution of the Indian mutual fund industry. Since its inception, MFCentral  has garnered an 
+exceptional response from the industry, establishing itself as the market -leading platform for 
+investors. It is regarded  as a robust digital ecosystem based on open architecture, allowing 
+distributors and advisors the exclusive freedom  to create their own applications that seamlessly 
+integrate with RTA systems. The setting up of a  stand -alone entity will help operationalize and 
+fulfil the objective of investor convenience and staying fully aligned to the regulatory intent of 
+SEBI, while exploring monetization opportunities to further enhance the platform’s unique 
+offerings for the future.”  
+"This stand -alone entity will significantly accelerate industry’s digital transformation, by 
+leveraging cutting - edge technology and API integration to drive innovation, efficiency, inclusivity 
+and accessibility. With our deep industry expertise, we will empower investors and revolutionize 
+the way investors interact with mutual fund platforms. By streamlining processes and reducing 
+friction, we aim to foster greater financial inclusion, enabling a wider range of investors – across 
+economic and social strata - to participate in the growth story of Ind ia's thriving mutual fund 
+ecosystem that benefits all stakeholders. The platform is a commitment to nurturing a robust 
+and investor -centric financial landscape ” Anuj added further.  
+Sreekanth Nadella, MD and CEO, KFintech, said, “MFCentral is the first and only of its kind digital 
+transformational initiative across the globe in bringing together the entire mutual fund industry 
+for the singular purpose of enhancing ease of doing business for all the stakeholders. Since the 
+advent of the platform in 2021, the MFCentral  has spawned an entire ecosystem of fintech 
+companies creating stacked solutions on the core platform. The MFCentral  infrastructure today 
+powers a significant number of fin techs via API infrastructure, conceptualization of buyer/seller 
+applications, loan against mutual funds, taxation solutions through unified capital gains 
+statements amongst several others.  
+The creation of a separate entity marks an important milestone in the evolution of the platform 
+to further drive the broader goals of the mutual funds industry of financial inclusion, ease of 
+doing business, financial intermediary expansion amongst others. The new entity, led by an 
+independent board and management will aim to create the country’s best super app ecosystem 
+for mutual funds ind ustry with tech first hyper scale and highly secure solutions. By combining 
+our technological expertise and deep market understanding, we aim to empower the 
+manufacturers, investors and intermediaries with seamless, integrated solutions that are future 
+ready. This initiative will enable more personalized investment experiences and reinforce our 
+commitment to advancing India's financial services ecosystem.”  
+ 
+The ownership of all the Intellectual Property rights will also remain with this entity  jointly formed 
+by the 2 RTAs  (CAMS & KFintech)  and will hold 50% each of the share capital .  The new entity will 
+be handling the business development and commercial arrangements with distributors or AMCs .  
+About CAMS Limited (www.camsonline.com) BSE: 543232; NSE: CAMS  
+CAMS is a financial infrastructure and service partner to the asset management industry and provides 
+platform -based services to the BFSI segment. The Company is India's largest registrar and transfer agent 
+of mutual funds with an aggregate market share of ~68% based on mutual fund average assets under 
+management (“AAUM”). The Company has grown its market share from approximately 61% in March 
+2015 to ~68 %, based on AAUM serviced. Its mutual fund clients include ten of the fifteen largest mutual 
+funds. The C ompany is the market -leading platform and service partner to alternative investment funds 
+and portfolio managers serving over 450 mandates of 190 funds with full -stack digital and fund 
+administration services. CAMSKRA is a fast -growing KYC repository for t he capital markets, offering unique 
+solutions leveraging new age technologies. CAMSPay specializes in providing secure, seamless and 
+innovative payment solutions for Mutual funds, BFSI sector and Ed Techs. Services to insurance companies 
+and eInsurance ser vices are provided via the subsidiary CAMSRep. The company has also forayed into new 
+areas like Account Aggregator and Central Record -Keeping Agency (“CRA”) services for National Pension 
+Scheme. CAMS acquired a majority stake in Think360.ai, a full -stack D ata Science and AI -focused firm and 
+in Fintuple Technologies, a digital transformation partner for capital market entities.  
+About  KFin  Technologies  Limited  (www.kfintech.com/;  BSE:  543720;  NSE:  KFINTECH):  
+KFin  Technologies  Limited  (“KFintech”)  is a leading  technology  driven  financial  services  platform  providing 
+comprehensive services and solutions to the capital markets ecosystem including asset managers and 
+corporate issuers across asset classes in India and provide comprehensive investor solutions including 
+transfer agency, fund administration, fund a ccounting, data analytics, digital onboarding, mobility 
+solutions, transaction origination and processing for alternate investments, mutual funds, unit trusts , 
+insurance investments, and  private  retirement  schemes  to 60+ global  asset  managers  in Malaysia,  
+Philippines,  Singapore,  Hong  Kong, Thailand , Middle East,  and Canada. In India, KFintech is the largest 
+investor solutions provider to Indian  mutual funds  servi cing 24 asset management companies (AMCs) out 
+of the 43 AMCs in India , as on September  30, 2024, and the largest issuer solutions provider in India 
+servi cing 6,677 corporates, as on September 30, 2024. In mutual funds, over the last five years, the 
+Company has been continuously gaining market share in the overall AAUM serviced, which has improved 
+from 27% in fiscal year 2021 to ~32% for the period ended Se ptember 30, 2024. KFintech is also the largest 
+transfer agent and fund administrator to alternative investment funds (AIFs) in India servi cing 526 AIFs 
+out of 1,402 AIFs registered with SEBI , as on September 30, 2024 . In addition, the Company also offers 
+technology platform -based solutions to portfolio and wealth managers and is the second largest central 
+record keeping agencies for the National Pension System in India , servicing 1.4 million pension 
+subscribers , capturing 8.9% market share in the overall su bscriber base, as on September 30, 2024. 
+General  Atlantic  Singapore  Fund  Pte Ltd (“GASF”),  a leading  global  private  equity  investor,  is the promoter  
+of the company.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For media queries:  
+Hanisha Vadlamani  
+M: +917330816464  
+Email:  hanisha.vadlamani@kfintech.com  
+ 
+Sailee  Nayak  
+M: +91 99301  67115  
+Email:  sailee.nayak@adfactospr.com  
+ 
+Saloni/ Ravi  
+M: 98404 12140 / 93828 87608  
+Email: saloni.bisani@mslgroup.com / ravishankar.kandarpa@mslgroup.com  
+ 

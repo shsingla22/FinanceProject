@@ -1,0 +1,295 @@
+                                                                                                                                                 
+ 
+                                                                                                                                                                                     
+                                                                                                                                                                   
+United Spirits Limited  
+ 
+                                                                                                                                                        Registered Office:  
+                                                                                                                                                        UB Tower  
+                                                                                                                                                        #24, Vittal Mallya Road,  
+                                                                                                                                                        Bengaluru 560 001  
+ 
+                                                                                                                                                        Tel: +91 80 2221 0705  
+                                                                                                                                                        Fax: +91 80 2224 5253  
+                                                                                                                                                        www.diageoindia.com  
+ 
+Corporate Identity Number: L01551KA1999PLC024991           contactus.india@diageo.com  
+24th July  2024  
+ 
+BSE Limited  
+Listing Department  
+Dalal Street,  
+Mumbai 400 001  
+Scrip Code: 532432  
+ National Stock Exchange of India Limited  
+Exchange Plaza, C -1 Block G, 
+Bandra Kurla Complex,  
+Bandra East, Mumbai - 400051 
+Scrip Code:  UNITDSPR  
+ 
+Dear Sirs,  
+ 
+Sub:  Filing of financial results for quarter ended 30th June 2024 in machine -readable format  
+ We refer to our filing dated 23
+rd July 2024. Due to  an inadvertent technical issue, while merging 
+the results cover letter with results pages the file format got changed to a normal one (instead of machine -readable format). We are now attaching  machine -readable format of the unaudited 
+financial results (Standalone and Consolidated) for the quarter ended 30
+th June 2024 which were  
+inter -alia  approved by t he Board of Directors of the Company at their meeting held on 23rd July 
+2024. Further, the Limited Review Report received from the Statutory Auditors of the Company is also 
+enclosed.  
+ 
+Please note that there are no changes in the financials/other content of the documents  filed 
+yesterday .  
+ This is for your information and records.  
+ 
+Thank you,  
+ For United Spirits Limited  
+  
+ 
+Mital Sanghvi  
+Company Secretary  
+ 
+Encl: as above  
+ Year ended 
+ June 30, 2024 
+(Unaudited)  March 31, 2024 
+(Refer note 6)  June 30, 2023 
+(Unaudited)  March 31, 2024 
+(Audited) 
+1Income
+(a) Revenue from operations 5,829                           6,394                           5,313                           25,389                         
+(b) Other income 32                                229                              21                                335                              
+Total income 5,861                           6,623                           5,334                           25,724                         
+2Expenses
+(a) Cost of materials consumed 1,088                           1,358                           1,060                           5,254                           
+(b) Purchase of stock-in-trade 141                              155                              65                                675                              
+ (c) Changes in inventories of finished goods, work-in-
+       progress and stock-in-trade 77                                (2)                                 100                              119                              
+(d) Excise duty 3,477                           3,728                           3,141                           14,697                         
+(e) Employee benefits expense 133                              134                              125                              543                              
+(f) Depreciation and amortisation expense 65                                71                                65                                264                              
+(g) Others:
+     (i) Advertisement and sales promotion 175                              326                              147                              1,041                           
+     (ii) Other expenses 280                              333                              290                              1,352                           
+(h) Finance costs 22                                29                                4                                   76                                
+Total expenses 5,458                           6,132                           4,997                           24,021                         
+3 Profit before exceptional items and tax (1 - 2) 403                              491                              337                              1,703                           
+4 Exceptional items, net  -                               (31)                               (17)                               (17)                               
+5 Profit before tax (3 + 4) 403                              460                              320                              1,686                           
+6 Income tax expense
+(a) Current tax 106                              106                              84                                403                              
+(b) Current tax relating to earlier years -                               0                                   -                               (10)                               
+(c) Deferred tax charge / (credit) (2)                                 (30)                               (2)                                 (19)                               
+ Total tax expense 104                              76                                82                                374                              
+7 Profit for the period (5 - 6) 299                              384                              238                              1,312                           
+8 Other comprehensive income 
+  A. Items that will be reclassified to profit or loss -                               -                               -                               -                               
+  B. Items that will not be reclassified to profit or loss 
+(i) Remeasurements of post-employment benefit plans -                               4                                   -                               (3)                                
+(ii) Income tax credit / (charge) relating to above -                               (1)                                 -                               1                                  
+ Total other comprehensive income, net of income tax -                               3                                  -                               (2)                                 
+9 Total comprehensive income (7 + 8) 299                              387                              238                              1,310                           
+10 145                              145                              145                              145                              
+11Other equity 6,818                           
+12
+4.11                             5.28                             3.27                             18.04                            Quarter ended UNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com
+Unaudited Standalone Statement of Financial Results for the quarter ended June 30, 2024
+Particulars
+
+ Year ended 
+ June 30, 2024 
+(Unaudited)  March 31, 2024 
+(Refer note 6)  June 30, 2023 
+(Unaudited)  March 31, 2024 
+(Audited) 
+1Income
+(a) Revenue from operations 6,238                            6,511                            5,808                            26,018                         
+(b) Other income 35                                 111                               22                                 225                               
+Total income 6,273                           6,622                           5,830                           26,243                         
+2Expenses
+(a) Cost of materials consumed 1,088                            1,358                            1,060                            5,254                            
+(b) Purchase of stock-in-trade 141                               155                               65                                 675                               
+ (c) Changes in inventories of finished goods, work-in-progress
+       and stock-in-trade 77                                 (2)                                  100                               119                               
+(d) Excise duty 3,477                            3,728                            3,141                            14,697                         
+(e) Employee benefits expense 135                               135                               126                               547                               
+(f) Depreciation and amortisation expense 72                                 73                                 74                                 275                               
+(g) Others:
+     (i) Advertisement and sales promotion 175                               329                               147                               1,048                            
+     (ii) Other expenses 432                               474                               456                               1,677                            
+(h) Finance costs 22                                 29                                 4                                    76                                
+Total expenses 5,619                           6,279                           5,173                           24,368                         
+3 Profit before share of net loss of an associate and a joint venture, 
+exceptional items and tax (1-2) 654                               343                               657                               1,875                           
+4Share of net loss of an associate and a joint venture (1)                                  (0)                                  (1)                                  (1)                                  
+5 Profit before exceptional items and tax (3+4) 653                               343                               656                               1,874                           
+6 Exceptional items, net                                   -                                  (31)                                (17) (17)                                
+7 Profit before tax (5 + 6) 653                               312                               639                               1,857                           
+8Income tax expense
+(a) Current tax 171                               106                               122                               450                               
+(b) Current tax relating to earlier years -                                0                                    -                                (10)                                
+(c) Deferred tax charge / (credit) (3)                                  (35)                                40                                 9                                   
+ Total tax expense 168                               71                                 162                               449                               
+9 Profit for the period (7-8) 485                               241                               477                               1,408                           
+10 Other comprehensive income 
+  A. Items that will be reclassified to profit or loss  
+(i) Exchange differences on translation of foreign operations (1)                                                                    (4)                                   (1) (1)                                  
+(ii) Share of other comprehensive income of an associate and 
+a joint venture-                                                                  -                                     -   -                                
+  B. Items that will not be reclassified to profit or loss  
+(i) Remeasurements of post-employment benefit plans -                                                                   4                                   -   (3)                                  
+(ii) Share of other comprehensive income of an associate and 
+a joint venture-                                                                  -                                     -   -                                
+(iii) Income tax credit / (charge) relating to above -                                                                  (1)                                   -   1                                   
+ Total other comprehensive income, net of income tax (1)                                  (1)                                  (1)                                  (3)                                  
+11 Total comprehensive income (9+10) 484                               240                               476                               1,405                           
+12 145                               145                               145                               145                               
+13Other equity 6,976                            
+14
+6.83                              3.40                              6.71                              19.83                            UNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com
+Unaudited Consolidated Statement of Financial Results for the quarter ended June 30, 2024
+Particulars
+*Note: In calculating the weighted outstanding equity shares during all the periods presented under Consolidated Statement of results, Company has reduced its 
+own shares held by USL Benefit Trust (of which the Company is the sole beneficiary). Quarter ended 
+
+Consolidated Segment wise Revenue, Results, Assets and Liabilities as of and for the quarter ended on June 30, 2024
+ Year ended 
+ June 30, 2024 
+(Unaudited)  March 31, 2024 
+(Refer note 6)  June 30, 2023 
+(Unaudited)  March 31, 2024 
+(Audited) 
+1Segment revenue
+Beverage Alcohol 2,352                      2,666                          2,172                          10,692                        
+Sports 413                         120                              498                              635                              
+Total net segment revenue 2,765                          2,786                          2,670                          11,327                        
+Inter segment elimination (4)                            (3)                                 (3)                                 (6)                                 
+Net segment revenue 2,761                          2,783                          2,667                          11,321                        
+Add: Excise duty (Beverage Alcohol) 3,477                      3,728                          3,141                          14,697                        
+Revenue from operations 6,238                          6,511                          5,808                          26,018                        
+2Segment results - Earning before interest, tax, depreciation and 
+exceptional items (EBITDA)
+Beverage Alcohol 458                         358                              385                              1,707                          
+Sports 255                         (24)                               328                              294                              
+Total segment results 713                              334                              713                              2,001                          
+Other income 35                                111                              22                                225                              
+Depreciation and amortisation expense
+Beverage Alcohol (65)                          (71)                               (65)                               (264)                            
+Sports (7)                            (2)                                 (9)                                 (11)                               
+Finance costs (22)                               (29)                               (4)                                 (76)                               
+Exceptional items net gain/(loss) - Beverage Alcohol                                  -   (31)                               (17)                               (17)                               
+Share of net loss of an associate and a joint venture                                 (1)                                 (0)                                 (1)                                 (1)
+Profit before tax 653                              312                              639                              1,857                          
+3 Segment assets
+Beverage Alcohol 10,919                    10,598                        9,495                          10,598                        
+Sports 897                         657                              826                              657                              
+Total segment assets 11,816                        11,255                        10,321                        11,255                        
+Inter-segment elimination (3)                            (6)                                 (6)                                 (6)                                 
+Total assets 11,813                        11,249                        10,315                        11,249                        
+4 Segment liabilities
+Beverage Alcohol 3,809                      3,777                          3,462                          3,777                          
+Sports 410                         357                              383                              357                              
+Total segment liabilities 4,219                          4,134                          3,845                          4,134                          
+Inter-segment elimination (3)                            (6)                                 (6)                                 (6)                                 
+Total liabilities 4,216                      4,128                      3,839                      4,128                      
+*Refer Note-1UNITED SPIRITS LIMITED
+ 'UB Tower', # 24, Vittal Mallya Road, Bangalore - 560 001
+Tel +91 80 2221 0705    |    CIN: L01551KA1999PLC024991    |    www.diageoindia.com
+Particulars Quarter ended 
+
+ 
+ 
+ United Spirits Limited 
+Notes to the Standalone and Consolidated Statements of Financial Results for the quarter ended June 30, 2024 
+ 
+1. United Spirits Limited (
+(including through third-party manufacturing facilities), purchase and sale of beverage alcohol (including franchising 
+of some of its brands in certain states), and other allied spirits. In addition, Royal Challengers Sports Private Limited, 
+a 100% subsidiary of the Company, has rights to operate sports franchise.  
+ 
+The Executive Committee has been identified as the Chief Operating Decision Maker (CODM). The CODM assesses 
+performance and allocates resources for the following two business segments of the group: 
+ 
+ Beverage alcohol  Manufacture, purchase, franchise and sale of beverage alcohol and other allied spirits. 
+ Sports  Rights to operate sports franchise. 
+ 
+2. The consolidated financial results for the quarter ended June 30, 2024 includes the following subsidiaries and a 
+ 
+ 
+Indian subsidiary: 
+ Royal Challengers Sports Private Limited 
+ 
+Overseas subsidiaries: 
+ Asian Opportunities and Investments Limited 
+ McDowell & Co. (Scotland) Limited  
+ Palmer Investment Group Limited  
+ Shaw Wallace Overseas Limited  
+ United Spirits (Great Britain) Limited  
+ United Spirits (UK) Limited 
+ USL Holdings Limited 
+ USL Holdings (UK) Limited 
+ 
+Trusts controlled by the Company:  
+ USL Benefit Trust 
+ 
+income (comprising loss and other 
+comprehensive income) of the following associate and a joint venture: 
+ 
+ Nao Spirits & Beverages Private Limited (equity ownership interest of 11% and 30% on fully diluted basis)  
+ Inspired Hospitality Private Limited (15% interest on fully diluted basis). 
+ 
+3. The Standalone and Consolidated Statements of Financial Results have been prepared in accordance with the 
+[Companies (Indian Accounting Standards) Rules, 2015 (as amended)] and other accounting principles generally 
+accepted in India. 
+ 
+ 
+ 
+ 
+ 
+United Spirits Limited 
+ 
+Notes to the Standalone and Consolidated Statements of Financial Results for the quarter ended June 30, 2024  Contd. 
+ 4. Historical Matters 
+ 
+(a) Additional Inquiry and other regulatory matters  
+As disclosed in each of the annual financial statements commencing from year ended March 31, 2014, upon 
+completion in April 2015 of an inquiry into past improper 
+references to certain additional parties and certain additional matters, the then MD & CEO, pursuant to the 
+direction of the Board of Directors, carried out an additional inquiry into past improper transact
+actual and potential diversion of funds from the Company and its Indian and overseas subsidiaries to, in most 
+cases, Indian rmer non-
+executive chairman, Dr. Vijay Mallya, and other potentially improper transactions. All amounts identified in the 
+Additional Inquiry have been provided for or expensed in the financial statements of the Company or its 
+subsidiaries in the respective prior periods. The Company has filed recovery suits against relevant parties and 
+individuals identified pursuant to the Additional Inquiry. Additionally, the Company has also filed a suit for 
+recovery of excess managerial remuneration crores paid to the former Executive Director and 
+CFO (ED & CFO) for the year ended March 31, 2015. The receivable recorded for excess managerial remuneration 
+has been fully provided for.  
+As disclosed in each of the annual financial statements commencing from the year ended March 31, 2014, in 
+relation to the above-mentioned Initial Inquiry and Additional Inquiry and the matters arising out of the 
+settlement agreement dated February 25, 2016 entered into by the Company with Dr. Vijay Mallya pursuant to 
+which, inter alia, the Company and Dr. Vijay Mallya agreed a mutual release in relation to matters arising out of 
+rch 31, 2016 to which the Company has responded. There has been no 
+ 
+As disclosed in each of the annual financial statements commencing from the year ended March 31, 2014, in 
+Exchange Management Act, 1999 and Prevention of Money Laundering Act, 2002, the Company received letters 
+and notices from ED during the year ended March 31, 2016, to which the Company responded. During the year 
+ended March 31, 2022, the Company received a notice from the ED requesting for information, which the 
+Company has provided. The Company has also received queries from its authorized dealer banks, based on queries 
+overseas subsidiari
+Company has responded. 
+As disclosed in each of the annual financial statements commencing from the year ended March 31, 2019, with 
+the objective of divesting its non-
+has been taking steps to implement this plan. 
+The Rationalisation Process for the existing subsidiaries is subject to regulatory and other approvals (in India and 
+overseas). If any historical non-compliances are established during the Rationalisation Process, the Company will 
+consult with its legal advisors, and address any such issues including, if necessary, considering filing appropriate 
+compounding applications with the relevant authorities. At this stage, it is not possible for the management to 
+estimate the financial impact on the Company, if any, arising out of potential non-compliances with applicable 
+laws, if established. 
+  

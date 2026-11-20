@@ -1,0 +1,475 @@
+ 
+ 
+  
+Hitachi Energy India Limited  
+Registered and Corporate Office:  
+8th Floor, Brigade Opus, 70/401,  
+Kodigehalli Main Road, Bengaluru - 
+560 092 
+Phone: 080 68473700  
+CIN: L31904KA2019PLC121597  
+hitachienergy.com/in  
+ 
+ 
+  
+July 2 4, 2025  
+ 
+The Secretary,  
+Listing Department,  
+BSE Limited,    
+1st Floor, Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001  
+Scrip Code: 543187  The Manager,  
+Listing Department,  
+National Stock Exchange of India Limited,  
+‘Exchange Plaza’, 5th Floor, Plot No. C/1, G Block,  
+Bandra Kurla Complex, Bandra (East),  
+Mumbai - 400 051  
+Scrip Symbol: POWERINDIA  
+ 
+ 
+Subject: Business Responsibility and Sustainability Report for the financial year 2024- 25 
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015     
+(SEBI Listing Regulations), please find enclosed the Business Responsibility and Sustainability Report (BRSR) of the 
+Company for the financial year 202 4-25, which also forms part of the Integrated Annual Report for the financial             
+year 2024-25 submitted to the exchanges vide our letter dated July 2 4, 202 5. 
+ 
+The same can also be accessed on the website of the Company at: https://www.hitachienergy.com/in/en/investor -
+relations/general -meetings#annual -report .  
+ 
+We request you to take this on record and to treat the same as compliance with the applicable provisions of the SEBI 
+Listing Regulations.  
+ Thank you,  
+ Yours faithfully,  
+ For Hitachi Energy India Limited  
+  
+ 
+ 
+Poovanna Ammatanda  
+General Counsel and Company Secretary  
+ 
+Encl.: as above HITACHI 
+Business Responsibility & 
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I.	 Details	of	the	listed	entity
+Particulars Response
+1 Corporate Identity Number (CIN) of the Listed Entity L31904KA2019PLC121597
+2. Name of the Listed Entity Hitachi Energy India Limited (“the Company”)
+3.  Year of incorporation 2019 (February 19, 2019)
+4.  Registered office address 8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road, 
+Bengaluru-560092
+5.  Corporate address 8th Floor, Brigade Opus, 70/401, Kodigehalli Main Road, 
+Bengaluru-560092
+6.  E-mail investors@hitachienergy.com
+(For investors)
+poovanna.ammatanda@hitachienergy.com
+(email id of Compliance Officer and Nodal Officer)
+7. Telephone 080-68473700
+8. Website https://www.hitachienergy.com/in/en
+9. Financial year for which reporting is being done FY 2024-25
+(April 01, 2024 to March 31, 2025)
+10. Name of the Stock Exchange(s) where shares are listed BSE Limited (BSE) and National Stock Exchange of India 
+Limited (NSE)
+11. Paid-up Capital ` 8,91,44,726/- divided into 4,45,72,363 Equity shares 
+of ` 2/- each
+12. Name and contact details (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR reportBinupriya A R
+(Telephone: 080-68473719)
+Email: binupriya.a-r@hitachienergy.com
+13. Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e. only for the entity) 
+or on a consolidated basis (i.e. for the entity and all the 
+entities which form a part of its consolidated financial 
+statements, taken together).Standalone basis
+14. Name of assurance provider SGS India Pvt. Ltd.
+15. Type of assurance obtained Reasonable assurance
+II.	 Products/	services
+	 16.	Details	of	business	activities	(accounting	for	90%	of	the	turnover):
+S. 
+No.Description	of	Main	
+ActivityDescription	of	Business	Activity%	of	Turnover	of	
+the	entity
+1 Sale of products Design, manufacturing/configuration & supply of system, 
+equipment, devices and accessories products67.47
+2 Execution of contracts for 
+projects and servicesProject and service engineering, installation, commissioning 
+and support27.82
+	 17.	Products	/	Services	sold	by	the	entity	(accounting	for	90%	of	the	entity’s	Turnover):
+S. 
+No.Product	/	Service NIC	Code%	of	total	Turnover	
+contributed
+1 Manufacture of electric motors, generators, transformers and 
+electricity distribution and control apparatus271 67.47
+2 Projects and services of related manufactured electrical 
+equipment.279 27.82
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+70 Hitachi Energy India Limited 71 Integrated Annual Report 2024-25
+III.	 Operations
+	 18.	Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:	
+LocationNumber	of	
+Manufacturing 	locationsNumber	of	officesNumber	of	Sales	
+touch	pointsTotal
+National 8* 12 7 27
+  * 8 Plants with factory licenses containing 19 unique manufacturing units.
+	 19.	Markets	served	by	the	entity:
+	 	 a.	 Number	of	locations
+Locations Number
+National (No. of States) All states & Union Territories
+International (No. of Countries) 70+ countries
+	 	 b.	 What	is	the	contribution	of	exports	as	a	percentage	of	the	total	turnover	of	the	entity?
+   27.03
+	 	 c.	 A	brief	on	types	of	customers
+    The Company serves a wide range of customers – Public & Private Power & Energy Utilities, 
+renewables, Industries, Transportation, data centers and Infrastructure companies. These include EPCs 
+(Engineering, Procurement & Construction) & OEMs (Original Equipment Manufacturer) operating in 
+the above segments.
+IV.	 Employees
+	 20.	Details	as	at	the	end	of	the	Financial	Year:
+	 	 a.	 Employees	and	workers	(including	differently	abled):
+S. 
+No.ParticularsTotal
+(A)Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+EMPLOYEES
+1 Permanent (D) 1933 1722 89 211 11
+2 Other than Permanent (E) 80 53 66 27 34
+3Total	employees	(D	+	E) 2013 1775 88 238 12
+WORKERS
+4 Permanent (F) 548 546 100 2 0.4
+5 Other than Permanent (G) 596 521 87 75 13
+6Total	employees	(F	+	G) 1144 1067 93 77 6.7
+	 	 b.	 Differently	abled	Employees	and	workers:
+S. 
+No.ParticularsTotal
+(A)Male Female
+No.	(B) %	(B	/	A) No.	(C) %	(C	/	A)
+DIFFERENTLY	ABLED	EMPLOYEES
+1 Permanent (D) 8 6 75 2 25
+2 Other than Permanent (E) 2 2 100 0 0
+3Total	employees	(D	+	E) 10 8 80 2 20
+DIFFERENTLY	ABLED	WORKERS
+4 Permanent (F) 10 9 90 1 10
+5 Other than Permanent (G) 0 0 0 0 0
+6Total	employees	(F	+	G) 10 9 90 1 10
+70 Hitachi Energy India Limited 71 Integrated Annual Report 2024-25
+	 21.	Participation	/	Inclusion	/	Representation	of	women
+ParticularsTotal
+(A)No.	and	percentage	of	Females
+No.	(B) %	(B	/	A)
+Board of Directors 6 2 33.33
+Key Management Personnel 3 0 0
+	 22.	Turnover	rate	for	permanent	employees	and	workers
+  (Disclose trends for the past 3 years)
+ParticularsTurnover	rate	in	the	current	FY
+FY	2024-25
+April	1,	2024-March	31,2025FY	2023-24
+April	1,	2023	-	March	31,	2024FY	2022-23
+April	1,	2022	-	March	31,	2023
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees6.51% 11.08% 6.99% 10.37% 19.64% 11.24% 11.20% 21.02% 12.00%
+Permanent 
+Workers0.00% 0.00% 0.00% 1.79% 28.57% 1.96% 0.20% 0.00% 0.20%
+V.	 Holding,	Subsidiary	and	Associate	Companies	(including	joint	ventures)
+	 23.	 (a)	 Names	of	holding/	subsidiary	/	associate	companies	/	joint	ventures
+S. 
+No.Name	of	the	holding/	
+subsidiary	/	associate	
+companies	/	joint	
+ventures 	(A)Indicate	whether	
+holding/	Subsidiary/	
+Associate/	Joint	
+Venture%	of	shares	
+held	by	the	
+listed	entityDoes	the	entity	indicated	at	
+column	A,	participate	in	the	
+Business 	Responsibility 	initiatives 	
+of	the	listed	entity?	(Yes/No)
+1. Hitachi Energy Ltd. Holding 71.31 No
+VI.	 CSR	Details
+	 24.	 (i) Whether CSR is applicable as per section 135 of the Companies Act, 2013: (Yes / No) - Yes
+  (ii)  Turnover (in `): 6,384.93 Crores (For the year ended on March 31, 2025)
+  (iii) Net worth (in `): 4,214.11 Crores (As on March 31, 2025)
+VII.	 Transparency	and	Disclosures	Compliances
+	 25.	 	Complaints/Grievances	 on	any	of	the	principles	 (Principles	 1	to	9)	under	the	National	 Guidelines	 on	
+Responsible	Business	Conduct:
+Stakeholder 	
+group	from	
+whom	the	
+complaint	is	
+receivedGrievance	Redressal	
+Mechanism	in	Place	
+(Yes/No)	(If	Yes,	then	
+provide	web-link	for	
+the	grievance	redress	
+policy)April	1,	2024	-	March	31,	2025
+Current	Financial	YearApril	1,	2023	-	March	31,	2024
+Previous	Financial	Year
+Number	of	
+complaints	
+filed	during	
+the	year.Number	of	
+complaints	
+pending	
+resolution	at	
+the	close	of	
+the	yearRemarksNumber	of	
+complaints 	
+filed	during	
+the	yearNumber	of	
+complaints 	
+pending 	
+resolution
+at	the	close	
+of	the	yearRemarks
+Communities Yes
+https://www.
+hitachienergy.com/in/
+en/contact-us0 0  Nil 0 0 Nil
+Investors 
+(other than 
+shareholder)Yes
+https://www.
+hitachienergy.com/
+in/en/investor-
+relations#quick-links0 0 Nil 0 0 Nil
+Shareholder Yes
+https://scores.sebi.gov.
+in/scores-home13 0 Nil 13 0 Nil
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+72 Hitachi Energy India Limited 73 Integrated Annual Report 2024-25
+Stakeholder 	
+group	from	
+whom	the	
+complaint	is	
+receivedGrievance	Redressal	
+Mechanism	in	Place	
+(Yes/No)	(If	Yes,	then	
+provide	web-link	for	
+the	grievance	redress	
+policy)April	1,	2024	-	March	31,	2025
+Current	Financial	YearApril	1,	2023	-	March	31,	2024
+Previous	Financial	Year
+Number	of	
+complaints	
+filed	during	
+the	year.Number	of	
+complaints	
+pending	
+resolution	at	
+the	close	of	
+the	yearRemarksNumber	of	
+complaints 	
+filed	during	
+the	yearNumber	of	
+complaints 	
+pending 	
+resolution
+at	the	close	
+of	the	yearRemarks
+Employees and 
+workersYes
+https://secure.
+ethicspoint.eu/domain/
+media/en/gui/109107/
+report.html7 0 Nil 11 0 Nil
+Customers Yes
+https://www.
+hitachienergy.com/in/
+en/contact-us605 89 Nil 620 47 Nil
+Value Chain 
+PartnersYes
+https://www.
+hitachienergy.com/in/
+en/contact-us0 0 Nil 0 0 Nil
+Other (Media, 
+General 
+enquiries, sales)Yes
+https://www.
+hitachienergy.com/in/
+en/contact-us0 0 Nil 0 0 Nil
+	 26.	Overview	of	the	entity’s	material	responsible	business	conduct	issues
+   Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format.
+S. 
+No.Material 	
+issue	
+identifiedIndicate	
+whether 	
+risk	or	
+opportunity 	
+(R/O)Rationale	for	identifying	the	risk	
+/	opportunityIn	case	of	risk,	approach	to	adapt	or	
+mitigateFinancial 	
+implications	of	the	
+risk	or	opportunity	
+(Indicate	positive	
+or	negative 	
+implications)
+1 Health and 
+SafetyR/O Performance on health, safety, 
+and environment (HSE) is critical 
+and comes first in the Company’s 
+decision-making, with safety being 
+a key element in our ‘license to 
+operate’. We foster a healthy, 
+productive work environment, 
+believing those working for the 
+Company can only perform at their 
+best when feeling safe, healthy, 
+and well.We are striving towards world-class 
+HSE performance across the Company 
+and have a framework setting out the 
+focus areas for improvement:
+•  Culture and leadership
+•  Communication and learnings
+•  Digitalization and analytics
+• Operations and risk management
+•  Governance and competencies .
+The Company’s specific improvement 
+activities reflect the scale of potential 
+risk, its performance, and its evolving 
+legal and regulatory requirements.Negative
+2 Climate 
+changeR/O  Natural disasters will exacerbate 
+damage to production facilities, 
+increase downtime of assets, 
+worsen working environments, 
+and disrupt supply chains, leading 
+to delays in deliveries and the 
+procurement of parts
+ Increased need for mitigation 
+activities will divert capital away 
+from decarbonization activities 
+such as grid expansion, renewables 
+connection, and technology 
+research and developmentThe Company is actively engaged in 
+helping tackle climate change, starting 
+with its own operations. Through 
+market scenarios, it is also looking at 
+potential climate impacts on economic 
+growth and market/energy transition 
+drivers such as pace of acceleration, 
+bottlenecks, and governmental plans 
+and targets. The Company has made 
+efforts to accommodate internet of 
+things (IoT) products.Negative
+72 Hitachi Energy India Limited 73 Integrated Annual Report 2024-25
+S. 
+No.Material 	
+issue	
+identifiedIndicate	
+whether 	
+risk	or	
+opportunity 	
+(R/O)Rationale	for	identifying	the	risk	
+/	opportunityIn	case	of	risk,	approach	to	adapt	or	
+mitigateFinancial 	
+implications	of	the	
+risk	or	opportunity	
+(Indicate	positive	
+or	negative 	
+implications)
+3 Carbon 
+neutralityR  Unprecedented demand creating 
+pressure on the sector to expand 
+the supply chain and dilute levels 
+of ESG performance
+ Investment in capacity extension 
+might dilute the strategic focus 
+on accelerating development of 
+new technologies and/or business 
+models to thrive after the peak of 
+the industry super-cycle
+Unbalanced grid development 
+from the perspective of 
+intermittent energy supply and 
+storage might critically affect 
+power quality
+ Investment in achieving the 
+reduction targets is not balanced 
+out by an increase in revenue or 
+reduction in costs, increasing the 
+costs of our products and services 
+and reducing competitiveness
+ Carbon reduction targets are 
+not achieved, reducing our 
+competitiveness in the marketThe path towards limiting global 
+warming, as envisioned by the Paris 
+Agreement, is a critical challenge 
+for governments, businesses, and 
+organizations. The Company has, 
+therefore, defined and validated 
+ambitious greenhouse gas (GHG) 
+reduction targets to set its own 
+net-zero trajectory. The Company 
+ensures compliance with emerging and 
+future GHG emissions regulation or 
+legislation.Negative
+4 Innovation R/O The risks landscape around 
+innovation of sustainable products 
+and solutions in our industry is 
+quite complex.
+Some of the risks are customer-
+facing (for example, inadequate, 
+or insufficient infrastructure, 
+lack of grid capacity to connect 
+renewable energy resources or 
+electrification solutions for energy 
+intensive industries, new product 
+range price or usage and adoption 
+anxiety), while others are design 
+and manufacturing related (for 
+example, availability of sustainable 
+materials, quality control, 
+upgrading of production lines, 
+service, circularity and end of life 
+recovery, training and recruitment 
+of specialized resources, 
+compliance with regulatory and 
+legal requirements, investment 
+costs).
+Another risk area relates to 
+regulatory environment, which may 
+require technology providers to 
+invest vast amount of funding to 
+develop new sustainable solutions 
+while the market adoption of them 
+is relatively low.
+Therefore, the regulatory actions 
+need to balance between creating 
+sustainability markets and 
+developing sustainable technology, 
+for a healthy development of 
+sustainable solutions.The Company’s innovative technologies 
+and solutions help increase access to 
+affordable, reliable, and sustainable 
+energy vital for society to prosper 
+and progress. As consumer needs 
+and lifestyles continue to evolve, 
+our forward-looking technologies 
+help make the energy system more 
+sustainable, flexible, and secure. 
+The opportunity of innovating and 
+bringing to the market sustainable 
+products and solutions in its field of 
+business is significant and it expects 
+frontrunners to become the brand, 
+supplier, employer, and investment 
+of choice for its stakeholders. As 
+electrification is one of the key pillars 
+of decarbonization, the most innovative 
+companies will also have the biggest 
+contribution to a net-zero future. The 
+Company identifies innovation as part 
+of its DNA and strategy on a short-, 
+medium-, and long-term basis.Positive
+BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+74 Hitachi Energy India Limited 75 Integrated Annual Report 2024-25

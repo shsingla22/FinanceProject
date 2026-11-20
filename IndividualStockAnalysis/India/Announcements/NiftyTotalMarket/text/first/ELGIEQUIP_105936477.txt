@@ -1,0 +1,91 @@
+ 
+ 
+August 2, 2024                                                       
+ 
+National Stock Exchange of lndia Ltd.  
+Exchange Plaza 
+C-1, Block G Bandra Kurla Complex  
+Bandra (E) 
+Mumbai - 400 051 
+ BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001 
+Through: NEAPS  Through: BSE Listing Centre  
+ 
+Dear Sir/Madam,         
+ 
+Subject:  Intimation of Loss of Share Certificates and Stop Transfer 
+   
+NSE Scrip Code : ELGIEQUIP / BSE Scrip Code : 522074 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we hereby furnish the details regarding the loss of share certificate/ 
+request for issue of duplicate share certificate reported by the shareholders of the Company, 
+as received from our Registrar and Share Transfer Agent, M/s. Link Intime India Private 
+Limited on August 2, 2024. A copy of the intimation is enclosed.  
+ 
+Stop 
+Transfer 
+No.  Stop 
+Transfer 
+date Name of 
+shareholder Folio No.  Distinctive 
+Nos.  Certificate 
+Nos. No. of 
+shares Reason 
+ST3363 02/08/2024 GIRIJA 
+RAMACHANDARN  G000524 158811278 - 
+158811317 116370 40 Duplicate 
+cum Name 
+deletion 
+ST3364 02/08/2024  GIRIJA 
+RAMACHANDARN  G000524 78250254- 
+78250273 83042 20 Duplicate 
+cum Name 
+deletion 
+ST3365 02/08/2024 GIRIJA 
+RAMACHANDARN  G000524 82299874 - 
+82299893 92871 20 Duplicate 
+cum Name 
+deletion 
+ 
+The duplicate share certificate will be issued only after compliance of required formalities. 
+ 
+We request you to kindly take the same on record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For ELGI EQUIPMENTS LIMITED 
+ 
+ 
+Devika Sathyanarayana 
+Company Secretary and Compliance Officer        
+FROM TO
+02/08/2024 116370 
+02/08/2024 83042 
+02/08/2024 92871 Elgi Equipments Limited
+STOP TRANSFER REGISTER AS ON 02/08/2024
+From: 02/08/2024 To: 02/08/2024
+---------------------------------------------------------------------------------------------------------------------------
+STOP 
+TRAN 
+NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   DISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+---------------------------------------------------------------------------------------------------------------------------
+ST3363 G000524 GIRIJA 
+RAMACHANDRAN116370 158811278 158811317 40 Duplicate cum 
+Name deletion
+ST3364 G000524 GIRIJA 
+RAMACHANDRAN83042 78250254 78250273 20 Duplicate cum 
+Name deletion
+ST3365 G000524 GIRIJA 
+RAMACHANDRAN92871 82299874 82299893 20 Duplicate cum 
+Name deletion
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 80 
+---------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,142 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 1 20 4306000  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -1100 19, India  
+ 
+ 
+ 
+ 
+October 28, 2026  
+ 
+ 
+The General Manager  
+BSE Limited  
+Listing Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281 The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza 
+5th Floor, Plot No. C -1, Block -G 
+Bandra- Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH  
+ 
+ 
+Subject: Release –  “HCLTech Launches AI -Powered Nano Global Capability Centers on AWS to Help 
+Enterprises Scale AI Beyond the Pilot ” 
+ 
+Dear Sir  / Madam,  
+ 
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+ 
+ 
+This is for your information and records.  
+ 
+ 
+Yours faithfully,  
+For HCL Technologies Limited  
+ 
+ 
+ Manish Anand  
+Company Secretary  
+ 
+ 
+Encl.:a/a  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+1 
+ 
+HCLTech Launches AI -Powered Nano Global Capability Centers on AWS to Help Enterprises 
+Scale AI Beyond the Pilot  
+ 
+NOIDA, India and S YDNEY, Oct  28, 2026 — HCLTech , a leading global technology company, 
+today announced the launch of an AI -powered nano  Global Capability Center (GCC) offering, 
+built on  Amazon Web Services (AWS), to help enterprises move from AI experimentation to high -
+value business outcomes.   
+  
+The nano GCC model is part of HCLTech's GCC 360 solution suite  and combines HCLTech’s 
+GCC advisory capabilities and its AI platforms including AI Force . 
+ 
+The model is designed for two enterprise archetypes:  
+• Established GCCs already operating in -country on largely conventional work that need a 
+non- disruptive vehicle to drive AI -led transformation through a hub -and-spoke model 
+anchored from HCLTech’s Lucknow campus . 
+• Mid-market enterprises without an in -country presence that are cautious about entering a 
+new geography and want a low -risk platform to accelerate their AI journey .  
+In both use cases, it enables organizations to begin with a targeted scope, establish AI -native 
+operating models and reduce setup cycles, while demonstrating value and scaling progressively.  
+ 
+Unlike traditional GCC models built around a broad scope and scale, the nano GCC model is 
+designed around compact, product -centric squads, AI -enabled workflows and a land- and-
+expand approach. The offering spans AI -native engineering, autonomous IT operatio ns, 
+advanced data and analytics, and intelligent business operations, with responsible AI governance 
+built in. HCLTech leads the operating model design and implementation, while AWS provides 
+joint go -to-market support and access to agentic AI services including Amazon Bedrock , Kiro , 
+and AWS Transform , to accelerate delivery.  
+ 
+The nano GCC offering forms part of HCLTech’s broader global strategy, with the Asia Pacific  
+(APAC) serving as the first phase of the rollout. It will be  delivered through HCLTech’s India -
+based delivery organization  and supported by the Center  of Excellence in Lucknow,  providing 
+access to India’s deep pool of technology and engineering talent.  
+ "The nano GCC model is at an inflection point. What began as a cost and talent strategy is 
+becoming the primary engine for enterprise AI capability building. The question for most 
+organizations is no longer whether to build AI -native operations, but how to  do it without the 
+drag of legacy setup models. The nano GCC is our answer to that urgency," said Kiran Cherukuri, 
+Executive Vice President & Global GCC Practice Leader, HCLTech.  
+ 
+ 
+2 
+ 
+“By combining HCLTech’s GCC expertise and AI capabilities with the scalability, security and 
+agentic AI services of AWS, the nano GCC offering gives enterprises a faster, lower -risk path to 
+building AI -native operations. It enables organizations to start w ith focused use cases, 
+demonstrate measurable value and scale confidently as their business needs evolve,” said 
+Prabhakar Appana, Senior Vice President and Global Head of the AWS Ecosystem Business Unit, 
+HCLTech.  
+ 
+"Enterprises across Asia Pacific want to build AI -native operations with speed and confidence. 
+AWS provides cloud infrastructure, agentic AI services and DevOps capabilities that power 
+HCLTech's nano GCC offering. This helps organizations  move from pilot to production and scale 
+as their business demands evolve," said Amit Anshu, Head of GSI and IT Business, AWS India and South Asia.  
+ 
+About HCLTech  
+ HCLTech  is a global technology company, home to more than 230,000 people across 60+ 
+countries, delivering industry- leading capabilities centered around AI, digital,  engineering, cloud 
+and software, powered by a broad portfolio of technology services and products. We work with 
+clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and Healthcare, Technolog y and Services, Semiconductor, Telecom 
+and Media, Retail and CPG, Mobility and Public Services. Consolidated revenues as of 12 months ending September 2026 totaled $14.8 billion. To learn how we can supercharge progress for you, 
+visit hcltech.com .  
+  
+For further details, please contact:  
+ 
+Meredith Bucaro, Americas - meredith -bucaro@hcltech.com  
+Elka Ghudial, Europe -  elka.ghudial@hcltech.com  
+James Galvin, APAC -  james.galvin@hcltech.com  
+Nitin Shukla, India, Middle East & Africa - nitin -shukla@hcltech.com  
+ 
+ 
+ 
+ 
+ 

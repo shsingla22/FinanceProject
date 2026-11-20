@@ -1,0 +1,158 @@
+ 
+Classification: Internal Contains PII: No 
+ 
+ 
+ 
+May 02, 2025 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai-400 001.  
+Scrip Code: 543398 
+ National Stock Exchange of India Limited  
+Exchange Plaza, C-1, Block G, 
+Bandra Kurla Complex Bandra East, 
+Mumbai 400 051 
+Scrip Symbol: LATENTVIEW 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Press Release - Audited Financial Results for the quarter and year ended March 31, 
+2025.  
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we have enclosed herewith the press release on the Audited  Financial 
+Results of the Company for the quarter and year ended March 31, 2025. 
+ 
+This announcement is also available on website of the company                                                
+i.e., https://www.latentview.com/.  
+ 
+This is for your information and records. 
+ 
+ 
+  Thanking you,  
+  For Latent View Analytics Limited 
+ 
+       
+  
+    P. Srinivasan  
+    Company Secretary and Compliance Officer 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Press Re
+  
+  
+Press Release Q4FY25  
+LatentView Analytics reports strong FY25 performance:  
+Revenue surges past $100Mn, up 32.3%YoY; EBITDA Margin at 23.1%;  
+Q4FY25 Revenue at ₹232 Cr, up 35.3% YoY 
+ 
+Chennai, India – May 2, 2025 : Latent View Analytics Limited (BSE: 543398, NSE: LATENTVIEW), an AI-
+driven analytics, data engineering, and consulting firm, today announced its financial results for the fourth 
+quarter and full year ended March 31, 2025.  
+Commenting on the results, Rajan Sethuraman, Chief Executive Officer, LatentView Analytics, said , 
+"We are pleased to report our ninth consecutive quarter of revenue growth, with a 1.9% increase 
+sequentially and a 35.3% growth on a YoY basis. This consistent performance, despite the challenging 
+macroeconomic environment, demonstrates the strength of our business fundamentals and the depth of 
+our client relationships. 
+As we enter FY26, we have outlined three strategic initiatives: First, deepening and expanding existing 
+client relationships through targeted upselling; second, establishing an AI Centre of Excellence to deliver 
+cutting-edge AI-driven solutions to clients; and third, accelerating growth through strategic partnerships 
+— specifically with Databricks. We believe these initiatives position us well for sustained, industry-leading 
+growth and profitability in the years to come.” 
+Rajan Venkatesan, Chief Financial Officer, LatentView Analytics, said ,  
+“We have surpassed an important milestone, with FY25 revenue exceeding $100 million — a testament to 
+our disciplined focus on sustainable and profitable growth. Since our IPO, we have delivered 142% 
+revenue growth, demonstrating the strength of our business model and execution strategy. In Q4 FY25, 
+we reported operating revenue of ₹232 crore, with an adjusted EBITDA margin of 24.4%. For the full year, 
+our adjusted EBITDA margin stood at 23.7%, in line with our guided range of 23%-24%. 
+As we look ahead to FY26, our focus will be on strategic investments to build a future-ready organization 
+that continues to deliver consistent, differentiated, and long-term value for all stakeholders.”  
+Key Financial Highlights                                                    
+Particulars  
+₹ Million Q4FY25 QoQ                  
+Growth YoY           
+Growth  FY25 FY25 YoY 
+Growth 
+Operating Revenue     
+- Latent View  2,130 4.4% 24.1%                 7,834             22.3% 
+- Decision Point  192 (19.1%) -                    645                    - 
+Total Operating Revenue  2,322 1.9% 35.3%                         8,479          32.3% 
+Adjusted EBITDA  568 (4.6%) 40.5%               2,012               47.8% 
+Adjusted EBITDA %  24.4% (1.7%) 0.9%                    23.7%                2.5% 
+EBITDA 549 9.1% 36.0% 1,            1,957  1,            43.8%  
+EBITDA % 23.7% 1.6% 0.1%                  23.1%                1.8% 
+PBT 623 11.0% (0.7%)               2,287                16.1% 
+PBT % 24.6% 1.4% (3.7%)                 25.0%               (2.6%) 
+PAT 513 20.3% (8.4%)                             1,735                9.4% 
+PAT % 20.3% 2.7% 3.8%                  18.9%               (3.3%) 
+Basic EPS ( ₹) 2.59 27.4% 17.7%               8.45                9.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Press Re
+  
+  
+Press Release Q4FY25  
+Select Key Client Wins in Q4FY25  
+● We designed and deployed a high-performance Databricks-powered platform for a Tier 1 automotive 
+components supplier, streamlining code modularity, improving data quality, and scaling advanced 
+machine learning capabilities.  
+● For a multinational company managing investments across retail, real estate, and sustainable 
+industries, we developed a tool to automate the creation of their Corporate Structure Memorandum 
+using Microsoft’s Power Platform, enabling them to focus more on strategic tasks.  
+● For a global payments platform, we are building predictive models using AI-powered merchant risk 
+management solutions for real-time monitoring, enabling optimized risk management. 
+● We are designing a Business Intelligence (BI) framework for a global leader in coatings and specialty 
+chemicals to enhance their sales effectiveness, streamline digital channels, and improve business 
+performance. 
+● We are assisting a large household electronics company in developing core RGM capabilities through 
+promotional planning and tracking interfaces, enhancing visibility and control over promotional 
+activities. 
+● For an Indian multinational pharmaceutical company, we are utilizing advanced data analytics to 
+develop a diverse range of media mix models and visual reports, generating actionable insights. 
+Other key highlights: 
+● We welcome Dr. Anindya Ghose, Heinz Riehl Chair Professor of Business at NYU’s Stern School of 
+Business, as an Independent Director to our board. A  globally renowned expert, he has extensive 
+experience working with leading companies worldwide on their AI transformation journeys.  
+● In March, our leadership convened for the annual strategy meeting to brainstorm and outline the 
+company’s plans for the year ahead. 
+● In January, Decision Point sponsored Consumer Goods Forum’s first conference in India, Bengaluru 
+AI Springboard , which explored the future of scalable AI platforms.  
+● We hosted three networking events in the Bay Area under the Leader’s Circle  banner, driving client 
+engagement. Our exclusive automotive industry event, Shifting Gears , held in Detroit, showcased 
+innovative solutions by leveraging agentic workflows. 
+Awards and Recognition:  
+● Workplace Excellence Award:  Recognized for Hybrid Work Arrangement & Management at the ET 
+Human Capital Awards. 
+ 
+About LatentView Analytics  
+Latent View Analytics Limited (LatentView) is a global data analytics company that inspires and transforms 
+businesses to excel in the digital world by harnessing the power of data. The Company provides a 360-
+degree view of the digital consumer, enabling companies to predict new revenue streams, anticipate 
+product trends and popularity, improve customer retention rates, and optimize investment decisions. 
+LatentView is a trusted partner to enterprises worldwide, including 30+ Fortune 500 companies in the 
+Technology, Financial services, CPG, Retail, and Healthcare sectors. LatentView Analytics partners with 
+clients across the United States, Chile, Mexico, Germany, UK, Netherlands, Singapore, and India, and has 
+1600+ employees. For more information, please visit https://www.latentview.com  or follow us on LinkedIn . 
+Safe Harbour   
+This release may contain certain forward-looking statements, which involve risks and uncertainties that 
+could cause actual results to differ materially from those that are projected by these forward-looking 
+statements. LatentView Analytics Ltd. undertakes no obligation to update forward-looking statements that 
+may be made by us from time to time by us or on our behalf.  
+For more information, please contact: 
+LatentView Analytics Limited  
+Srinivasan P - investorcare@LatentView.com  Ernst & Young LLP, Investor Relations   
+Diwakar Pingle - Diwakar.Pingle@in.ey.com  
+Asha Gupta - Asha.Gupta@in.ey.com   
+  

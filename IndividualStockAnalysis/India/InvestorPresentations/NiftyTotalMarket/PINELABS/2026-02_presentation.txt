@@ -1,0 +1,964 @@
+
+=== page 1 ===
+ 
+ 
+Date: January 28, 2026  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606    
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+ 
+Sub: Analysts / Institutional Investors Presentation  
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+we are enclosing herewith a copy of Presentation to be made during the conference call with 
+Analysts/Investors as scheduled today i.e., January 28, 2026 , for the information of the Stock Exchanges.  
+ 
+The above information will also be available on the website of the Company at www.pinelabs.com/investor -
+relations/financial -results?tab=quarterly -results . 
+ 
+We request you to kindly take the above on your record s. 
+  
+Thanking you,  
+  
+For Pine Labs Limited  
+ 
+ 
+  
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl. a/a  
+ 
+=== page 2 ===
+SIMPLIFYING
+PAYMENTS
+FOR THE GLOBE.
+Shareholders’
+Letter and ResultsQ3 FY26
+28th January 2026
+
+=== page 3 ===
+To build the best 
+commerce and fintech 
+platform from Asia, 
+for the world
+1Vision Statement
+1 Q3 FY26 Results
+=== page 4 ===
+Offline to online
+Omnichannel commerce 
+solutions
+Multi 
+Product
+Multi 
+Segment
+Multi 
+Market•Fintech platforms globally are focused on building a full 
+suite of services and being ‘the platform of choice’ rather 
+than serving a single use case.
+•This shift is evident when we see global players like Stripe 
+and Adyen expand into instore payments and issuing.
+•With our existing coverage, we are among the deepest 
+fintech infrastructure platforms globally and are continuing 
+to build a defensible ecosystem by expanding into 
+adjacent categories.
+Loyalty & 
+Brand 
+Services
+Issuer & 
+Acquirer 
+Processing
+Prepaid 
+Issuing
+Data and 
+Payment 
+APIs
+Instore 
+Payments
+Online 
+Payments
+•Reducing dependency on any single market.
+•By exporting our tech stack to emerging and mature 
+markets alike, we build new revenue streams and a hedge 
+against local regulatory or economic shifts.
+•International -expansion strategy detailed on next page.•From Enterprise to SME, both direct and in partnership with 
+banks. By going deep into specific verticals (e.g., Retail, 
+Hospitality, Airlines), we build specialized workflows that 
+increase merchant stickiness and lifetime value.
+Banks and FIs Merchants Brands and Corporates
+Our North Star
+Truly Multi -Product, Multi -Geography, and Multi -Segment As a platform & tech company, our long -term growth 
+strategy is to build a multi -product global platform that 
+serves multiple customer segments
+Q3 FY26 Results
+ 2
+=== page 5 ===
+Chosen by Market Leaders Across Sectors
+3 Q3 FY26 Results
+Powering Top 5 Banks
+Enabling payments
+for Top 5 Retailers
+Integrated with fuel 
+outlets of Top 
+3 Petroleum companies
+Simplifying commerce
+for Top 
+3 E-commerce and Quick 
+commerce companies
+
+=== page 6 ===
+We are following a 3 -stage sequenced model across regions for asset light 
+geo-expansion.Exporting Fintech to the World
+Expanding Scale in International markets with a clear vision 
+Offline 
+to online
+Omnichann
+el 
+commerce 
+solutions
+Offline to 
+online
+Omnichannel 
+commerce 
+solutions
+Offline 
+to online
+Omnichann
+el 
+commerce 
+solutionsSeed new territoryLand and expandDeepen local presence
+Partner LedEnable exiting platform 
+features
+Cloud native and tech firstEnable additional existing 
+platform capabilities.Local teams
+Remote or regional support.Local licensing (if relevant).
+Localized product and 
+certifications.
+•Launch existing platform 
+capabilities via cloud -
+native infrastructure. 
+•Leverage a partner -led 
+distribution model 
+(typically with a Bank or 
+Enterprise partner) and 
+establish a baseline 
+presence. Build brand 
+awareness without the 
+need for a physical 
+footprint, licensing, or major 
+local investment.•Transition to active growth 
+by offering additional 
+product features and 
+expanded service tiers.
+•Operations still typically 
+managed via regional hubs 
+to maintain lean overhead, 
+providing remote support 
+and centralized account 
+management while we 
+scale our customer base.•Solidify our position by 
+establishing dedicated 
+local teams. 
+•We selectively secure 
+domestic licensing and 
+regulatory certifications to 
+integrate deeply into the 
+local ecosystem, 
+transforming the territory 
+into a key node within our 
+global network.
+Africa Region USA ME* 
+ex UAE*AustraliaTH,VN,
+PH*UAE* Malaysia
+136194338
+237302
+FY23 FY24 FY25 9M FY25 9M FY26
+4 Q3 FY26 Results9% 11% 15% 15%International 
+Revenue Mix %
+International Revenue ₹Cr
+Singapore
+The countries presented above are only illustrative, Pine labs has presence in 20+ countries; *Abbreviations: 
+ME- Middle East, TH - Thailand, PH - Philippines, VN - Vietnam, UAE - United Arab Emirates
+=== page 7 ===
+AI leading product differentiation and enhanced 
+operational efficiencies 
+Q3 FY26 ResultsStrategically leveraging AI to drive innovative product feature 
+development, enhance operational efficiencies, fraud prevention 
+and overall customer engagement
+Product Innovation  
+Adding clear differentiation & new 
+capacities with innovations like
+•Agentic bill payments  
+•AI enrichment layer for bank 
+statement analysis
+•PayPredict  for online payments 
+(reliability layer)Fraud Prevention
+Leveraging AI for enhancing 
+info-security, risk controls & 
+compliance quality like
+•100% call surveillance
+•SEIM SLA compliance tool
+•Real time detection of 
+compliance breach
+Sales Effectiveness
+•Agentic AI driven KYC for faster 
+onboarding
+•Merchant Churn Prediction 
+Model
+•Autonomous downtime 
+detection & mitigation 
+Customer Engagement
+Step -change reductions in turnaround 
+time & query resolution with
+•24x7 Multilingual BOT Support 
+(email/voice/chat)
+•Automated alert classification & Ticket 
+ResolutionData Insights for Clients
+•Advanced transaction 
+categorization for targeted 
+brand campaignsOperational Efficiency
+•Self healing terminals with 
+smart agent (Click for more details)
+•Automatic RCA (root cause 
+analyzer) for detected bugs
+•MCP -based analysis with 
+recommended fixes
+•Automated Schema 
+generation, AI assisted code 
+generation for development
+(Click for more details )
+5* For self healing terminals; a phased rollout of a smart healing feature is underway, strengthening self -
+healing capabilities across the DCP baseof new product 
+codes are AI written~20%  
+of DCP anomalies 
+getting resolved 
+automatically or by 
+prompts to 
+cashier*~60%  
+Improvement in 
+App and Device 
+performance~50%  
+Merchant emails 
+automated for  
+Intent recognition 
+& ticketing~50%  
+=== page 8 ===
+Key Highlights
+*PAT includes an exceptional charge on account of implementation of new labour  codes; excluding this, PAT 
+would have been ~₹52 Cr for Q3 FY26.
+(1) Exchange rate $1= ₹ 89.15 (Avg. RBI reference rate for the quarter) ; For Definitions, please refer to the glossary 
+section
+6 Q3 FY26 Results
+Platform 
+GTVNumber of 
+TransactionsDigital Checkout
+PointsNumber of 
+Merchants
+$51Bn1
+(₹4.5 lakhs Cr)#193 Cr #19.3
+Lakhs#10.5 
+Lakhs  
+29% YoY 23% YoY 11% YoY 14% YoY
+Revenue from 
+OperationsContribution 
+MarginAdjusted 
+EBITDAProfit after 
+Tax
+₹744 Cr ₹551 Cr ₹171 Cr ₹42 Cr*
+74% Margin 23% Margin
+24% YoY 19% YoY 59% YoY From  -₹57 Cr 
+to +₹42 Cr YoY
+Launched In -store payments & affordability solutions in Singapore  
+powering iStudio , Samsung, Courts etc.
+100+  new marquee signups across offerings including Honeywell, Carrier, 
+Philips, Mumbai Duty Free, Waymo, Miniso , Blinkit , Caribbean Airlines etc.
+Strengthened product suite with addition of Agentic bill payments, 
+mAadhaar , Apple Pay, Subscription UPI Autopay etc.
+Launched co-branded prepaid programs with expense management 
+platforms like Zoho, Pazy  etc.
+Q3 FY26
+Highest ever quarterly revenue at ₹744Cr (24% YoY)  & ~500 bps 
+expansion  in adjusted EBITDA margin (23%) with ₹42 Cr PAT for Q3. 
+=== page 9 ===
+Our Q3 FY26 Performance Scorecard
+7 Q3 FY26 ResultsScale
+▪Platform GTV1 grew 29% YoY to $50.6 Bn* (₹4.5 lakhs Cr) with highest ever 
+quarterly volumes for both Digital Infrastructure and Transaction Platform and 
+Issuing & Acquiring Platform.
+▪Number of Transactions1 grew 23% YoY  to #192.6 Cr , deepening our 
+engagement and expanding frequency of platform usage across businesses. 
+Revenue Growth
+▪Revenue from Operations  grew 24% YoY  to ₹744 Cr , underpinned by continued 
+growth in our Issuing, Affordability and Online payments businesses. 
+▪We recognize revenue on a net basis , reflecting amounts retained after 
+payment processing fees and pass -through charges payable to banks and 
+network partners. Certain peers in the payments industry continue to present 
+revenues on a gross basis.
+Profitability
+▪Contribution Margin  grew 19% YoY  to ₹551 Cr.  As guided, for every ₹100 
+incremental contribution margin our adjusted EBITDA has increased more than 
+₹50 for Q3 FY26, underscoring the strong operating leverage in our businesses.
+▪Adjusted EBITDA  grew 59% YoY  to ₹171 Cr , with margin expanding from
+18% to 23%  YoY supported by increased mix of margin accretive businesses 
+and overall prudent cost management. 
+▪Profit After Tax  expanded by ₹99 Cr YoY, moving from a loss of ₹57 Cr in 
+Q3FY25 to a profit of ₹42 Cr in Q3FY26,  reflecting a significant flowthrough from 
+adjusted EBITDA complemented with lower amortization & depreciation and 
+stable ESOP expenses.
+Cash Flow
+▪Q3 FY26 reported operating cash flow of -₹ 124 Cr (excluding early settlement) 
+and -₹152 Cr , including early settlement. The quarterly movement in working 
+capital is driven by festive demand/higher transaction volumes in Q3, which is 
+expected to normalize in the coming quarter.
+(1) GTV and No. of Transactions do not have a direct correlation with our revenue because of our differentiated 
+revenue model; *Exchange rate $1= ₹ 89.15 (Avg. RBI reference rate for the quarter) .
+
+=== page 10 ===
+Revenue from operations (₹ Cr)
+602 599616650744Q3 FY26 Financial Snapshot
+Q3 FY26 Results
+▪Revenue from operations  grew  24% 
+YoY in Q3 driven by strong growth in 
+our Issuing, Affordability and Online 
+payments businesses.
+▪During Q3, we achieved highest ever 
+quarterly volume processed across:
+▪VAS, Affordability & Transaction 
+Processing (+41% YoY).
+▪Issuing & Acquiring (+28% YoY).
+▪Int’l business  grew ~ 35% YoY 
+▪Scale up of ME clients for DPIT.
+▪Acceleration of distribution (IAP) 
+business across SEA markets.
+•New wins/ partnerships in Q3
+▪Launched In -store payments & 
+affordability solutions in SG.
+▪Launched prepaid programs for USA 
+& MENA clients.
+8+24%
+Contribution Margin (₹ Cr)
+▪Q3FY26 Contribution margin has 
+expanded by ₹89 cr YoY. 
+▪For 9M FY26 the contribution margin 
+remains stable ~76% .
+▪Q3 CM% decreased by ~ 2.8% YoY due 
+to change in business mix.
+▪DITP Segment CM% remained 
+consistent at ~ 83-84% .
+▪IAP Segment CM% decreased by 
+~3.6% YoY to ~55%, reflecting a mix 
+shift driven by the scale -up of 
+distribution volumes. 
+▪Distribution is a key element of our 
+holistic offering and value 
+proposition, while it operates at a 
+lower CM%, it delivers strong 
+EBITDA flow -through and supports 
+long -term monetization across 
+the platform. 462445480 497551+19%77% 74% 78% 77%
+Contribution Margin Contribution Margin %Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26
+Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY2674%
+DITP-Digital Infrastructure and Transaction Platform; IAP - Issuing and Acquiring Platform
+=== page 11 ===
+Profit After Tax (₹ Cr)
+ ▪Significant flow through from 
+adjusted EBITDA to PAT with ~ ₹42 Cr 
+of PAT generated in Q3FY26. 
+▪Lower depreciation, driven by a 
+higher mix of software -led and 
+refurbished DCP deployments, 
+along with stable ESOP expenses in 
+Q3, further accelerated profitability.
+▪Consistent with prior quarters, lower 
+amortization of acquisition -related 
+intangibles reinforced the trend of 
+improvement in profitability.
+▪PAT includes an exceptional charge 
+on account of implementation of 
+new labour codes; excluding this, 
+PAT would have been ~₹52 Cr for Q3 
+FY26.Q3 FY26 Financial Snapshot
+Adjusted EBITDA (₹ Cr)1
+Adjusted EBITDA % Adjusted EBITDA Margin
+Q3 FY26 Results18% 14% 20% 19% 23%
+▪Adjusted EBITDA margins have 
+expanded ~500bps YoY to 23%; 
+with 59% YoY growth.
+▪As guided, for every ₹100 
+incremental contribution margin 
+our adjusted EBITDA has 
+increased more than ₹50 for Q3 
+FY26, underscoring the strong 
+operating leverage in our 
+businesses.
+▪Disciplined cost management 
+accelerated profitability with 
+larger operating leverage driven 
+by employee expenses and Legal, 
+Audit & 3rd Party Consultancy 
+charges.
+9+59%
++99 Cr
+(1) Refer glossary for definition of Adjusted EBITDA108
+84121 122171
+Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26
+-57-295 642
+Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26
+=== page 12 ===
+Incremental Contribution Margin to Adjusted EBITDA 
+& PBT flowthrough
+10Every  ₹100 incremental contribution margin 
+drives  ~ ₹50 -₹57 incremental adjusted 
+EBITDA and  ~ ₹45 -₹55 incremental profit 
+before tax, underscoring the strong 
+operating leverage in our business.₹34-₹38
+₹9-₹12
+~₹4-₹6~₹1-₹2₹100
+₹50 - ₹57₹45 - ₹55
+Contribution 
+MarginFlowthrough to 
+Adjusted EBITDAFlowthrough 
+to PBTOther
+ CostsEmployee 
+Expense 
++Data, Cloud & 
+IT CostsD&A+ ESOP 
+expensesOthers
+Q3 FY26 Results
+=== page 13 ===
+Employee Cost % of Revenue#
+ESOP expense as % of Revenue
+Depreciation on DCPs as a % of Revenue
+Q3 FY26 Results
+Q3FY26 Q3FY256%
+4%▪In line with management focus, 
+employee cost in Q3 FY26 grew 
+only by 3.7% YoY.
+▪Overall headcount increased 
+modestly by 8% YoY (4679 Vs 
+4324), with focused hiring in tech 
+and sales.
+▪Management remains 
+committed to drive further 
+operating leverage here.
+▪Consistent with prior quarters, 
+depreciation intensity 
+reduced further due to an 
+increasing mix of capex -light, 
+software -led offerings and 
+re-deployment of 
+refurbishment DCP’s.
+▪We expect further 
+optimization of depreciation 
+expense on DCP’s in the 
+coming quarters as well.
+1142%
+31%6%
+1%4%Operating leverage kicking in
+▪ESOP expense as % of revenue 
+continues to decline further to 
+~4% at ₹31.2 Cr  for this quarter.
+▪Q3 FY24 included one time 
+reversal; adjusted for this one -
+time, normalized ESOP expenses 
+as % of revenue would be ~6%.
+▪ESOP expenses are expected to 
+continue to decrease, reflecting 
+an efficient cost structure while 
+maintaining employee incentives.37%
+5%
+11%
+Q3FY2411%
+2%7%1%2%
+6%*
+* Normalized
+#Employee cost excluding ESOP expense.Q3FY26 Q3FY25 Q3FY24Q3FY26 Q3FY25 Q3FY24
+=== page 14 ===
+Q3 FY26 Business Highlights
+In-store and Online Infrastructure 
+VAS1, Affordability and transaction 
+processing
+12 Q3 FY26 ResultsNumber of Digital Checkout Points (#Lakhs)
+Gross Transaction Value ( ₹ Cr 000’s)▪Achieved the highest -ever quarterly 
+Affordability volumes in Q3 FY26, 
+driven by new brand signups, active 
+brand campaigns & active offers.
+▪We continued expanding into new 
+brands, segments, and categories 
+beyond electronics while maintaining a 
+high -margin profile.
+▪VAS products driving growth with
+▪Ad & marketing services continue 
+contributing to revenue in Q3, 
+expanding overall value -added 
+services (VAS) revenues.
+▪Deepening engagement across other 
+VAS offerings such as analytics,, 
+campaign management and 
+partnerships.Q3FY25 Q4FY25 Q1 FY26 Q2FY26 Q3FY2617.317.818.4 19.019.3% DCPs generating VAS and Affordability Volumes
+(1) Value added services include dynamic currency conversion, payment aggregation, Affordability , 
+pay by points, loyalty, UPI, Wallets etc.In-store payments
+▪Subscription linked revenues from our 
+DCPs contributed 27% of revenue in Q3 
+FY26.
+▪28%  of DCP base (+7% YoY) generated  
+VAS, Affordability, and transactional 
+volumes, reflecting continued 
+sequential growth and deeper 
+monetization of existing infrastructure.
+Online Payments
+▪Online payments revenue grew ~50% 
+YoY, expanding presence across new 
+categories like hospitality, diagnostics, 
+fitness etc. adding merchants like 
+Thyrocare , Cultfit , Lenskart , Myntra, 
+Swiggy, Navi, Redbus  etc
+▪New products launched: a) payment 
+via Apple Pay for International 
+customers, b) Subscription stack with 
+UPI Autopay.+11%
++41%28%21% 22%25% 24%
+54 53596376
+Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26
+=== page 15 ===
+Q3 FY26 Business Highlights
+Fintech Infrastructure
+Issuing and Acquiring Platform
+13 Q3 FY26 ResultsNumber of Transactions (# Crore)
+Gross Transaction Value ( ₹ Cr 000’s)India Revenue (42% YoY)
+▪Strong distribution growth driven by 
+festive season demand across 
+Corporate, Partner channels, and Pine 
+Labs -managed gift card catalogues.
+▪Channel programs expanded with 
+new launches in the Cement and 
+Consumer Appliance sectors.
+▪Introduced new prepaid programs  for 
+a leading D2C men’s fashion brand, a 
+national QSR chain, and a premium 
+mobile retailer.
+▪Rolled out co -branded programs with 
+multiple expense management 
+platforms, enabling embedded 
+payment solutions for the MSME 
+segment.
+International Revenue (41% YoY)
+▪Expanded global footprint with new 
+prepaid solutions for Miniso  (USA); 
+Caribbean Airlines and Royal Air Maroc; 
+Chalhoub Group, Burjuman  Malls, and 
+Nahdi  Pharmacy in MENA.▪One of the best -in-class technology 
+platform continuing the growth with 
+38%+ growth in transactions YoY across
+ a) Bharat Connect (BBPS)
+ b) UPI switch and 
+c) Account Aggregator solutions
+▪Innovative product initiatives in Q3:
+a) Model Context Protocol (MCP) for 
+Bill Payments/ Agentic Bill 
+Payments: integrating payment 
+capabilities into major chatbot 
+interfaces enabling conversational 
+commerce. (Click for details )
+b) mAadhaar : Partnered with UIDAI to 
+launch mAadhaar  verification for 
+offline verification for hospitality, gig 
+economy onboarding, and financial 
+KYC use cases. (Click for details )
++38%
++28%
+1413141618
+Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26
+Revenue +42% YoY2223252731
+=== page 16 ===
+Management’s View: Income Statement (1/2)
+Q3 FY26 Results(1) Excluding ESOP expenses; (2) Includes other indirect expenses netted of liabilities no longer required 
+written back; n.m. - non meaningful
+14Particulars UnitQ3
+FY25Q4
+FY25Q1
+FY26Q2
+FY26Q3
+FY26YoY 
+%9M 
+FY259M 
+FY26
+Revenue from 
+Operations₹ Cr 602 599 616 650 744 24% 1,676 2,010
+Digital Infrastructure and 
+Transaction Platform 
+Revenue₹ Cr 426 410 434 440 496 16% 1,193 1,371
+Issuing and Acquiring 
+Platform Revenue₹ Cr 175 188 182 210 248 42% 483 639
+Less: Direct Expenses ₹ Cr 140 154 136 152 194 39% 392 482
+Connectivity  and 
+Operational Cost₹ Cr 40 36 28 32 36 -10% 105 96
+COGS of DCP sale ₹ Cr 27 44 40 40 46 71% 92 127
+Distribution cost of 
+prepaid cards₹ Cr 72 74 68 80 111 54% 195 259
+Contribution Margin ₹ Cr 462 445 480 497 551 19% 1,284 1,528
+Contribution Margin % % 77% 74% 78% 77% 74% -3% 77% 76%
+Less: Indirect Expenses ₹ Cr 355 361 359 375 380 7% 1,011 1,115
+Employee expenses1 ₹ Cr 224 223 225 239 232 4% 647 697
+Data, cloud & tech ₹ Cr 49 53 48 55 58 17% 137 161
+Legal, Audit & 3rd Party 
+Consultancy₹ Cr 33 24 29 35 32 -2% 90 96
+Others2 ₹ Cr 49 62 56 46 58 19% 138 161
+Adjusted EBITDA ₹ Cr 108 84 121 122 171 59% 273 413
+Adjusted EBITDA
+Margin %% 18% 14% 20% 19% 23% 5% 16% 21%
+=== page 17 ===
+Management’s View: Income Statement (2/2)
+15 Q3 FY26 Results(1) Other Depreciation and Amortization incudes amortization of Right of use assets, amortization of software, other intangib les, and depreciation on other 
+assets. (this also includes Impairments, if any);
+(2) Others include other income net of liabilities and provision written back plus expenses/(income) relating to fund raising , acquisition and restructuring 
+and foreign exchange loss (net); n.m. - non meaningful
+(3) Exceptional items include one -off charge on charge on account of implementation of new labour  codes.Particulars UnitQ3 
+FY25Q4 
+FY25Q1 
+FY26Q2 
+FY26Q3 
+FY26YoY%9M 
+FY259M 
+FY26
+Adjusted EBITDA ₹ Cr 108 84 121 122 171 59% 273 413
+Adjusted EBITDA % % 18% 14% 20% 19% 23% 5% 16% 21%
+Less: Other 
+Expenses₹ Cr 159 106 125 111 108 -32% 387 344
+Depreciation on 
+DCPs₹ Cr 33 38 31 32 33 -2% 102 96
+Other Depreciation 
+and Amortization1₹ Cr 80 35 34 35 36 -54% 161 105
+ESOP expense ₹ Cr 28 19 66 29 31 12% 96 126
+Finance cost ₹ Cr 22 22 21 21 24 9% 58 66
+Others (incl. other 
+income)2₹ Cr -4 -8 -27 -6 -28 n.m. -30 -61
+Exceptional Items3 ₹ Cr - - - - 12 n.m. - 12
+Profit / (Loss) before 
+Tax ₹ Cr -51 -22 -5 11 63 n.m. -114 69
+Tax 
+expenses/(credit)₹ Cr 5 7 -10 5 20 - 2 16
+Profit / (Loss) for the 
+period / year₹ Cr -57 -29 5 6 42 n.m. -117 53
+=== page 18 ===
+Key Performance Indicators (KPIs)
+Q3 FY26 Results 16Particulars UnitQ3 
+FY25Q4 
+FY25Q1 
+FY26Q2 
+FY26Q3 
+FY269M 
+FY259M 
+FY26
+Select Financial Metrics
+Revenue from operations ₹ Cr 602 599 616 650 744 1,676 2,010
+Digital Infrastructure and 
+Transaction Platform Revenue₹ Cr 426 410 434 440 496 1,193 1,371
+Issuing and Acquiring Platform 
+Revenue₹ Cr 175 188 182 210 248 483 639
+Revenue from external customers 
+– Outside India as a percentage of 
+revenue from operations (%)% 12% 17% 15% 17% 13% 14% 15%
+Select Non -GAAP Financial Metrics
+Contribution Margin ₹ Cr 462 445 480 497 551 1,284 1,528
+Contribution Margin as a 
+percentage of revenue from 
+operations% 77% 74% 78% 77% 74% 77% 76%
+Adjusted EBITDA ₹ Cr 108 84 121 122 171 273 413
+Adjusted EBITDA Margin % 18% 14% 20% 19% 23% 16% 21%
+Select Operational KPIs
+Platform Gross Transaction 
+Value (“Platform GTV”)₹ Cr (000’s) 349 386 406 424 451 756 1,280
+Digital Infrastructure and 
+Transaction Platform GTV₹ Cr (000’s) 335 373 392 408 432 718 1,232
+VAS, Affordability and 
+Transaction Processing GTV₹ Cr (000’s) 54 53 59 63 76 148 198
+Issuing and Acquiring 
+Platform GTV₹ Cr (000’s) 14 13 14 16 18 38 48
+Number of Transactions # Crores 157 170 175 188 193 399 556
+Fintech Infrastructure 
+Transactions# Crores 22 23 25 27 31 49 83
+Digital check -out points 
+(DCPs)# Lakhs 17.3 17.8 18.4 19.0 19.3 17.3 19.3
+Number of Merchants # Lakhs 9.2 9.5 9.9 10.3 10.5 9.2 10.5
+Prepaid Cards Issued # Crores 18 24 23 26 20 47 69
+=== page 19 ===
+Reconciliation
+17 Q3 FY26 Results(1) Other Income, excluding liabilities and provisions no longer required to be written backProfit/Loss after Tax to Adjusted EBITDA
+Particulars UnitQ3 
+FY25Q4 
+FY25Q1 
+FY26Q2 
+FY26Q3 
+FY269M 
+FY259M 
+FY26
+Profit/(loss) for the period/year 
+(A)₹ Cr -57 -29 5 6 42 -117 53
+Add: Total tax expense/(credit) 
+(B)₹ Cr 5 7 -10 5 20 2 16
+Add: Finance costs (C) ₹ Cr 22 22 21 21 24 57 67
+Add: Depreciation and 
+amortization expenses (D)₹ Cr 76 69 65 66 68 223 199
+EBITDA (E = A+B+C+D) ₹ Cr 46 69 81 98 155 166 334
+Add: Impairment of non -current 
+assets (F)₹ Cr - 5 - 1 1 4 2
+Add: Exceptional items (G) ₹ Cr 37 - - - 12 37 12
+Add: Employee share -based 
+payment expense (H)₹ Cr 28 19 66 29 31 96 126
+Less: Other income1 (I) ₹ Cr -3 -10 -10 -6 -30 -35 -46
+Add: Legal and professional 
+expense relating to fund raising, 
+acquisition and restructuring (J)₹ Cr - 1 3 - 1 5 5
+Less : Liability written back on 
+settlement of purchase 
+consideration payable (K)₹ Cr - - -19 - - - -19
+Adjusted EBITDA (O=E+F+G+H -
+I+J-K)₹ Cr 108 84 121 122 171 273 413
+Revenue from operations (L) ₹ Cr 602 599 616 650 744 1,676 2,010
+Adjusted EBITDA Margin (%)
+(M = O/L)₹ Cr 18% 14% 20% 19% 23% 16% 21%
+=== page 20 ===
+Reconciliation
+18 Q3 FY26 Results
+Particulars UnitQ3 
+FY25Q4 
+FY25Q1 
+FY26Q2 
+FY26Q3 
+FY269M 
+FY259M 
+FY26
+Adjusted EBITDA ₹ Cr 108 84 121 122 171 273 413
+Cash settled share -based 
+expense₹ Cr -7 -1 -9 - - -23 -9
+Impairment losses on 
+financial assets and 
+contract assets₹ Cr 1 13 14 10 9 17 33
+Other items ₹ Cr -12 1 -10 -22 -19 -20 -51
+Working capital adjustments 
+without early settlement₹ Cr 3 -87 -125 161 -262 -44 -226
+Income taxes (paid)/ 
+received (net of refunds)₹ Cr -34 -5 -27 -30 -23 43 -80
+Adjusted Net cash 
+generated from/(used in) 
+operating activities₹ Cr 59 5 -36 241 -124 246 81
+Add/less: Early Settlement ₹ Cr 7 -29 -245 -89 -28 -170 -362
+Net cash generated 
+from/(used in) operating 
+activities₹ Cr 66 -24 -281 152 -152 75 -281Adjusted EBITDA to Operating Cash Flow
+Core business cash generation remained robust, in line with previous 
+quarters. The movement in operating cash flows in Q3 FY26 primarily 
+reflects seasonal working capital requirements, driven by higher transaction 
+volumes during the festive period. 
+We expect the incremental investment in working capital made to support 
+festive demand in Q3 to normalize in the next quarter.
+=== page 21 ===
+Glossary (1/2)
+Q3 FY26 Results 19Term Description
+Adjusted EBITDAAdjusted  EBITDA  which  is calculated  as EBITDA  less (i) other  income ; 
+plus  (ii) impairment  of non-current  assets ; plus  (iii) exceptional  
+items ; plus  (iv) employee  share  based  payment  expense ; plus  (v) 
+foreign  exchange  loss (net) ; plus  (vi) liabilities  and provisions  no 
+longer  required  written  back ; plus  (vii) legal  and  professional  
+expense  relating  to fund  raising,  acquisition  and restructuring ; plus  
+(viii)  employment  incentive  linked  to acquisitions  less (ix) liability  
+written  back  on settlement  of purchase  consideration  payable .
+Adjusted  EBITDA  does  not include  certain  components  of other  
+income,  namely  interest  income  under  the effective  interest  
+method  on financial  assets  carried  at amortised  cost  on bank  
+deposits,  interest  income  under  the effective  interest  method  on 
+financial  assets  carried  at amortised  cost  on security  deposits,  
+interest  income  under  the effective  interest  method  on financial  
+assets  carried  at amortised  cost  on finance  lease,  interest  on 
+income  tax refunds,  gain  on sale  of property,  plant  and equipment,  
+liability  written  back  on settlement  of purchase  consideration  
+payable,  net gain  on lease  termination,  net gain  arising  on financial  
+assets  mandatorily  measured  at FVTPL  on fair valuation  income  on 
+derivative  call option,  gain  on sale  of mutual  funds  and fair 
+valuation  gain  of mutual  funds  and miscellaneous  income . EBITDA  
+is earnings  before  interest,  tax, depreciation  and  amortisation  
+expenses  which  is calculated  as profit/(loss)  for the period/year  
+plus  (i) tax expenses ; plus  (ii) finance  costs ; plus  (iii) depreciation  
+and amortisation .
+Adjusted EBITDA MarginAdjusted  EBITDA  Margin  is Adjusted  EBITDA  divided  by revenue  from  
+operations  for the year/period .
+VAS, Affordability, 
+Transaction Processing GTVVAS,  Affordability  and Transaction  Processing  GTV is defined  as the 
+total  transaction  value  primarily  processed  for our Affordability  
+solutions,  Payment  Aggregation,  Dynamic  Currency  Conversion  
+(DCC)  and UPI offerings . This is a subset  of entire  Digital  
+Infrastructure  and Transaction  Platform  GTV.
+Contribution MarginContribution  Margin  is calculated  by deducting  the transaction  and 
+related  costs,  purchases  of stock -in-trade  and  changes  in 
+inventories  of stock -in-trade  (excluding  attributable  employee  
+benefits  expense,  finance  costs,  depreciation  and amortisation  
+expenses,  impairment  of non-current  assets,  impairment  losses  on 
+financial  assets  and contract  assets  and other  expenses)  from  
+revenue  from  operations  for the period/year .
+Contribution Margin as a 
+percentage of revenue from 
+operationsContribution  Margin  as a percentage  of revenue  from  operations  is 
+Contribution  Margin  divided  by revenue  from  operations  for the 
+year/period .
+“Digital check -out points” or 
+“DCPs”Digital  check -out points  represent  the number  of live touchpoints  
+(at the end of the period)  at merchant  stores  powered  by our 
+platform .
+=== page 22 ===
+Glossary (2/2)
+Q3 FY26 Results 20Term Description
+Digital Infrastructure and 
+Transaction Platform GTVDigital  Infrastructure  and  Transaction  Platform  (DITP)  GTV is defined  
+as the total  transaction  value  processed  through  our Digital  
+Infrastructure  and Transaction  Platform .
+Digital Infrastructure and 
+Transaction Platform 
+RevenueDigital  Infrastructure  and Transaction  Platform  Revenue  includes  
+revenue  derived  from  subscription,  transaction,  VAS and other  
+services  offered  including  Affordability  transactions . Revenue  is 
+primarily  earned  from  merchants,  acquirers,  credit  partners  and  
+consumer  brands .
+Fintech Infrastructure 
+TransactionsFintech  Infrastructure  Transactions  is defined  as transactions  to 
+facilitate  payment  to a payee  or biller  or a transaction  to collect  
+financial  data  from  financial  institutions .
+Issuing and Acquiring 
+Platform GTVIssuing  and Acquiring  Platform  (IAP)  GTV represents  the total  value  
+of either  (i) funds  loaded  onto  prepaid  instruments  (through  
+activations  and reloads),  or (ii) redemptions  made  through  certain  
+prepaid  instruments,  net of returns  and chargebacks . It also  
+includes  the sale  value  of prepaid  cards distributed .
+Issuing and Acquiring 
+Platform RevenueIssuing  and Acquiring  Platform  Revenue  includes  revenue  primarily  
+from  issuing  and processing  services,  distributing  prepaid  cards,  
+interest  on funds  held  for customers  and breakage  income .
+Number of MerchantsNumber  of Merchants  are the unique  customers  that  are using  at 
+least  one product  on our platform  at the end of the respective  
+period .
+Number of TransactionsNumber  of Transactions  is defined  as the aggregate  number  of 
+transactions  processed  by the Group  within  all its product  offerings .
+Percentage of revenue from 
+operations from outside IndiaDefined  as the aggregate  total  percentage  of the revenue  from  
+operations  earned  by the Group  for services  rendered  outside  of 
+India  to the base  of overall  revenue  from  operations  for the period .
+Platform GTVPlatform  GTV is defined  as the total  transaction  value  processed  
+through  all our platforms .
+Prepaid Cards IssuedPrepaid  Cards  Issued  refers  to number  of prepaid  cards  issued  and  
+billed  by the Group .
+Revenue from operations Revenue  from  operations  is defined  as revenue  from  the sale  of all 
+products  and services  and  other  operating  revenue  in our Digital  
+Infrastructure  and Transaction  Platform  and Issuing  and Acquiring  
+Platform .
+=== page 23 ===
+Disclaimer
+Forward looking statements
+Q3 FY26 Results 21Certain  statements  are included  in this document  which  contain  words  or phrases,  such  as ‘will’,  
+‘aim’,  ‘will likely  result’,  ‘believe’,  ‘expect’,  ‘will continue’,  ‘anticipate’,  ‘estimate’,  ‘intend’,  ‘plan’,  
+‘contemplate’,  ‘seek  to’, ‘future’,  ‘objective’,  ‘goal’,  ‘project’,  ‘should’,  ‘will pursue’  and similar  
+expressions  or variations  of these  expressions,  that  are ‘forward -looking  statements’ . Forward -
+looking  statements  by their  nature  involve  a number  of risks  and uncertainties  that  could  cause  
+actual  results  to differ  materially  from  market  expectations . Actual  results  may  differ  materially  from  
+those  suggested  by the forward -looking  statements  due to certain  risks  or uncertainties  associated  
+with  our expectations  with  respect  to, but not limited  to, regulatory  changes  pertaining  to the 
+industry  in which  our Company  has businesses  and  our ability  to respond  to them,  our ability  to 
+successfully  implement  our strategy,  our growth  and expansion,  technological  changes,  our 
+exposure  to market  risks,  general  economic  and political  conditions,  in India  and globally,  which  
+have  an impact  on our business  activities  or investments,  the monetary  and fiscal  policies  of India,  
+inflation,  deflation,  unanticipated  turbulence  in interest  rates,  foreign  exchange  rates,  equity  prices  or 
+other  rates  or prices,  the performance  of the financial  markets  in India  and globally,  changes  in the 
+Indian  and foreign  laws  and regulations,  including  tax, accounting  and RBI guidelines,  changes  in 
+competition  and the pricing  environment  in India,  regional  or general  changes  in asset  valuations,  
+pandemics,  and general  economic  conditions  affecting  our industry,  incidence  of natural  calamities  
+and/or  acts  of violence . By their  nature,  certain  of the market  risk disclosures  are only  estimates  and  
+could  be materially  different  from  what  may  actually  occur  in the future . As a result,  actual  future  
+gains,  losses  or impact  on net income  could  materially  differ  from  those  that  have  been  estimated . 
+Our Company  may,  from  time  to time,  make  additional  written  and oral forward -looking  statements,  
+including  in our reports  to our shareholders . Such  forward -looking  statements  represent  only  our 
+Company’s  current  intentions,  beliefs  or expectations,  and any forward -looking  statement  speaks  
+only  as of the date  on which  it was  made . Neither  our Company  nor any of its directors,  officers,  
+employees,  agents  or advisers,  or any of their  respective  affiliates,  advisers  or representatives,  
+undertake  to update  or revise  any forward -looking  statements,  whether  as a result  of new  
+information,  future  events  or otherwise  and none  of them  shall  have  any liability  (in negligence  or 
+otherwise)  for any loss howsoever  arising  from  any use of this document  or its contents  or otherwise  
+arising  in connection  therewith . Further,  nothing  in this document  should  be construed  as 
+constituting  legal,  business,  tax or financial  advice  or a recommendation  regarding  the securities . 
+Although  our Company  believes  that  such  forward -looking  statements  are based  on reasonable  
+assumptions,  we can give  no assurance  that  such  expectations  will be met . You are cautioned  not to 
+place  undue  reliance  on these  forward -looking  statements,  which  are based  on current  view  of our 
+Company’s  management  on future  events . Forecasts  and hypothetical  examples  are subject  to 
+uncertainty  and contingencies  outside  our Company’s  control . Past  performance  is not a reliable  
+indication  of future  performance . Before  acting  on any information  you should  consider  the 
+appropriateness  of the information  having  regard  to these  matters,  and in particular,  you should  
+seek  independent  financial  advice . 
+=== page 24 ===
+Q3 FY26 Results 22Thank You
+=== page 25 ===
+Q3 FY26 Results 23Appendix
+=== page 26 ===
+What we do?
+Q3 FY26 ResultsOverview Monetization
+In-Store & 
+Online Payments1▪In-store:  Enabling seamless 
+in-store payments, billing 
+integration, and reconciliation.
+▪Online:  Cloud -native payment 
+gateway enabling fast, 
+seamless online payments, 
+payouts, EMIs and more.▪Based on number of 
+DCP’s5 earning monthly 
+subscription fee.
+VAS & 
+Affordability 
+Solutions3▪VAS2: Customised  solutions 
+running on our POS6. Including 
+Aggregator, prepaid, loyalty card 
+acceptance, fintech and bank 
+offers for consumers, Ad and 
+branding revenues.▪Based on GTV  (Volumes) 
+processed earning take 
+rate.
+Fintech 
+Infrastructure▪API first platform  to power 
+bill payments, enable digital 
+onboarding (E -KYC and E -
+Sign), and data -driven 
+insights for financial 
+institutions.▪Based on number of 
+transactions  
+processed earning a 
+fee basis per 
+transaction
+Issuing
+& Acquiring4▪Prepaid platform helping brands 
+drive customer acquisition, 
+retention , loyalty and 
+engagement with consumers
+▪API -first issuing stack for 
+prepaid, gift, debit, and credit 
+cards with full lifecycle 
+management▪Based on GTV  (Volumes) 
+processed earning take 
+rate
+Diversified business with multiple high growth 
+verticals ensuring long term growth▪Affordability: Digital first affordability 
+suite offering EMIs, trade -ins, insurance, 
+and assured buyback programs to 
+boost conversions and drive higher 
+consumption.
+(1) In -store and Online Infrastructure; (2) VAS: Value Added Services (3) VAS, Affordability and Transaction 
+Processing (4) Issuing and Acquiring Platform (5) DCPs: Digital Checkout points (6) POS: Point of Sales
+24

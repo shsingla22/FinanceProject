@@ -1,0 +1,130 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA– 201304, UP, India  t: +91 120 4306000  Corporate Identity Number:  L74140DL1991PLC046369 
+Registered Office:    
+806 Siddharth, 96, Nehru Place,  New Delhi -110019, India 
+ 
+ 
+ 
+June 24, 2026 
+  
+The General Manager 
+BSE Limited 
+Listing Department 
+Phiroze Jeejeebhoy Towers 
+Dalal Street 
+Mumbai- 400 001 
+ 
+ BSE Scrip Code: 532281 The Manager 
+National Stock Exchange of India Limited 
+Listing Department 
+Exchange Plaza 
+5th Floor, Plot No. C-1, Block-G 
+Bandra-Kurla Complex, Bandra(E) 
+Mumbai-400 051 
+ 
+NSE Scrip Code: HCLTECH 
+ 
+ 
+Subject: Release – “HCLTech and Nokia partner to accelerate autonomous networks with AI-
+driven rApps innovation” 
+ 
+Dear Sir / Madam, 
+  
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+ 
+ 
+This is for your information and records. 
+ 
+ 
+Yours faithfully, 
+For HCL Technologies Limited 
+ 
+  Manish Anand 
+Company Secretary 
+ 
+ 
+Encl.:a/a 
+ 
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+1 
+ 
+ 
+HCLTech and Nokia p artner to a ccelerate autonomous networks with AI -driven 
+rApps innovation   
+ 
+COPENHAGEN, Denmark  and NOIDA, India, June 24, 2026 —HCLTech , a leading global 
+technology company, announced an expanded  partnership with Nokia, to accelerate the 
+adoption of autonomous networks through AI -driven network automation and co -innovation 
+of network automation RAN applications  (rApps ) with four new rApps hosted on Nokia’s SMO 
+Marketplace . 
+ 
+As part of this collaboration, HCLTech will augment Nokia’s autonomous networks portfolio 
+with its advanced suite of rApps, designed to enable communication service providers (CSPs) 
+to transition toward AI -native, self -optimizing network operations. The exclusive placement 
+on Nokia’s  SMO Marketplace makes  the rApps  easily accessible and deployable for global 
+operators within an open, standards -based ecosystem. The partnership also establishes a 
+long -term co -innovation roadmap to jointly develop next generation  rApps that address 
+evolving network demands across 5G and future network architectures.   
+HCLTech list ed following rApps on Nokia’s SMO marketplace:  
+• Anomaly Detector rApp:  Monitors KPIs and network signals to quickly detect and 
+correlate anomalies across cells and users, enabling faster, data -driven optimization 
+and more stable network performance  
+• Energy Optimizer rApp : Scales  base station resources during low -traffic periods to 
+improve energy efficiency without compromising  service quality  
+• mMIMO  Interference Mitigation  rApp:  Relieves inter -cell interference  that reduces 
+signal quality to improve cell -edge performance and  increased network efficiency  
+• Traffic Balancer rApp : Analyze s network conditions and redistributes  traffic across 
+available paths to minimize  congestion and reduce latency  
+ 
+“Autonomous networks require a strong ecosystem approach built on openness, intelligence 
+and innovation,” said Hari Sadarahalli, Corporate Vice President and Global Head, Engineering 
+and R&D Services, HCLTech. “Our partnership with Nokia enables us to bring scalable, A I-
+driven rApps to the forefront, helping operators accelerate network automation, improve 
+efficiency and confidently advance toward self- driving networks.”  
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+About HCLTech  
+ 
+HCLTech is a global technology company, home to more than 227,000 people across 60 
+countries, delivering industry- leading capabilities centered around AI, digital, engineering, 
+cloud and software, powered by a broad portfolio of technology services and pro ducts. We 
+work with clients across all major verticals, providing industry solutions for Financial Services, 
+Manufacturing, Life Sciences and Healthcare, Technology and Services, Semiconductor, 
+Telecom and Media, Retail and CPG, Mobility and Public Service s. Consolidated revenues as 
+of 12 months ending March 2026 totaled $14.7 billion. To learn how we can supercharge 
+progress for you, visit  hcltech.com .  
+ 
+For further details, please contact:  
+ 
+Meredith Bucaro, Americas  
+meredith -bucaro@hcltech.com  
+ 
+Elka Ghudial, E urope  
+elka.ghudial@hcltech.com  
+ 
+James Galvin, APAC  
+james.galvin@hcltech.com  
+ Nitin Shukla, India , Middle East and Africa  
+nitin -shukla@hcltech.com  
+ 
+ 
+ 
+ 
+ 

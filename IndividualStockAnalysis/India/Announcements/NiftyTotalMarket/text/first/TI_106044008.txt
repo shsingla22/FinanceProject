@@ -1,0 +1,154 @@
+ 
+ 
+                                                                                                                
+November  04, 202 4 
+To, 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai 400001  
+Scrip Code : 507205  To, 
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block -G, 
+Bandra -Kurla Complex, Bandra (East),  
+Mumbai -400 051  
+Symbol : TI  
+ 
+Sub : Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 - Outcome of the Board Meeting  
+ 
+Dear Sir/Madam,  
+The Board at its Meeting today i.e. Monday , November  04, 202 4, has inter -alia 
+considered and approved the Unaudited Financial Results (Consolidated  and 
+Standalone ) of the Company for the quarter  and half year  ended September  30, 
+2024, along with the limited review report s thereon submitted by M/s. Harshil 
+Shah & Company, Statutory Auditors of the Company which are enclosed herewith 
+pursuant to the provisions of Regulation 33 of th e SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 201 5.  
+ 
+The Meeting of the Board commenced at 03:32 P.M. and concluded at 06:13 P.M. 
+ 
+The outcome of the Board Meeting shall also be available on the website of the 
+Company i.e. www.tilind.com    
+ 
+Kindly take the same on your record.  
+ 
+For Tilaknagar Industries Ltd.  
+ 
+Minuzeer Bamboat   
+Company Secretary & Compliance Officer  
+M. No. 73014  
+Encl: a/ a 
+
+
+
+Particulars Year ended 
+30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+IRevenue from operations 82,332.16      66,476.20           75,018.04        1,48,808.36     1,39,015.80        2,95,826.04     
+IIOther Income 335.28            183.96                48.24                519.24              164.93                 1,413.82           
+III Total Income (I + II) 82,667.44      66,660.16           75,066.28        1,49,327.60     1,39,180.73        2,97,239.86     
+IV Expenses
+     (a)     Cost of materials consumed 18,843.21      16,762.85           17,624.84        35,606.06        32,645.32            69,219.72        
+     (b)     Purchases of stock-in-trade -                  -                      -                   -                   -                       -                   
+     (c)     Changes in inventories of finished goods, stock-in-trade and work-in-progress  (915.53)           (978.29)               540.44              (1,893.82)        619.27                 1,661.33           
+     (d)     Excise duty 44,846.62      35,169.82           39,579.45        80,016.44        73,167.44            1,56,430.74     
+     (e)     Employee benefits expense 1,424.63        1,310.14             1,036.98           2,734.77           2,041.54              4,684.05           
+     (f)      Finance costs 334.60            416.30                774.13              750.90              1,375.98              2,673.93           
+     (g)     Depreciation and amortization expense 775.42            772.69                824.57              1,548.11           1,605.16              3,189.32           
+     (h)     Other expenses 11,535.25      9,198.05             11,493.96        20,733.30        21,959.38            45,285.40        
+Total expenses 76,844.20      62,651.56           71,874.37        1,39,495.76     1,33,414.09        2,83,144.49     
+VProfit/(Loss) before exceptional items and tax (III-IV) 5,823.24        4,008.60             3,191.91           9,831.84           5,766.64              14,095.37        
+VI Exceptional items ( Net )  ( Refer Note No. 6) -                  -                      512.45              -                   512.45                 (294.27)            
+VII Profit/(Loss) Before Tax (V+/-VI) 5,823.24        4,008.60             3,704.36           9,831.84           6,279.09              13,801.10        
+VIII Tax Expense
+    (a)      Current tax -                  -                      -                   -                   -                       -                   
+    (b)      Taxes for Earlier Years -                  -                      -                   -                   -                       -                   
+    (c)      Deferred tax -                  -                      -                   -                   -                       -                   
+Total tax expense -                  -                      -                   -                   -                       -                   
+IX Profit/(Loss) for the period before share of Profit/(Loss) of associate (VII-VIII) 5,823.24        4,008.60             3,704.36           9,831.84           6,279.09              13,801.10        
+XShare of Profit/(Loss) of associate -                  -                      -                   -                   -                       -                   
+XI Profit/(Loss) for the period (IX+X) 5,823.24        4,008.60             3,704.36           9,831.84           6,279.09              13,801.10        
+XII Other Comprehensive Income/(Loss)
+    (a) Items that will not be reclassified to Profit & Loss
+         (i)  Remeasurement gain /(loss) in respect of the defined benefit plans (5.01)               (5.01)                   (10.86)              (10.02)              (21.71)                  (20.04)              
+         (iI)  Net Gain / (Loss) on Fair Value through OCI - Equity Securities (27.11)             -                      -                   (27.11)              -                       -                   
+         (iii) Tax on above -                  -                      -                   -                   -                       -                   
+    (b) Items that will be reclassified to Profit & Loss -                  -                      -                   -                   -                       -                   
+Total Other Comprehensive Income/(Loss) for the period [(a) +(b)] (32.12)             (5.01)                   (10.86)              (37.13)              (21.71)                  (20.04)              
+XIII Total Comprehensive Income/(Loss) for the period (XI+XII) 5,791.12        4,003.59             3,693.50           9,794.71           6,257.38              13,781.06        
+XIV Profit/Loss for the period attributable to
+  (a)  Owners of the Company 5,823.24        4,008.60             3,704.36           9,831.84           6,279.09              13,801.10        
+  (b)  Non-Controlling Interests -                  -                      -                   -                       -                   
+XV Other Comprehensive Income/(Loss) for the period attributable to
+  (a)  Owners of the Company (32.12)             (5.01)                   (10.86)              (37.13)              (21.71)                  (20.04)              
+  (b)  Non-Controlling Interests -                  -                      -                   -                   
+XVI Total Comprehensive Income/(Loss) for the period attributable to  (a)  Owners of the Company 5,791.12        4,003.59             3,693.50           9,794.71           6,257.38              13,781.06        
+  (b)  Non-Controlling Interests -                   -                       -                   
+XVII Paid-up Equity Share Capital (Face value of Rs. 10/- per Share) 19,295.64      19,280.51           19,172.75        19,295.64        19,172.75            19,273.04        
+XVIII Other Equity as per Balance Sheet 46,115.72        
+XIX Earnings Per Equity Share of Rs. 10 /- each (not annualized)    (a)    Basic (Rs.) 3.02                2.08                    1.93                  5.10                  3.31                     7.23                  
+    (b)    Diluted (Rs.) 2.99                2.06                    1.91                  5.05                  3.24                     7.16                  Quarter ended Half Year ended TILAKNAGAR INDUSTRIES LTD. (CIN: L15420PN1933PLC133303)
+Corporate Office: 3rd Floor, Industrial Assurance Building, Churchgate, Mumbai, Maharashtra - 400 020
+Regd.Office : P.O. Tilaknagar, Tal. Shrirampur, Dist. Ahmednagar, Maharashtra - 413 720
+Email: investor@tilind.com; Website: www.tilind.com; Phone: +91 22 22831716/18; Fax: +91 22 22046904
+(Rs. in Lacs except EPS)
+Statement of Consolidated Unaudited Financial Results for the Quarter & Half Year ended September 30, 2024
+Notes :
+1
+2
+3
+4
+5
+6 Income / 
+(Expenses) Rs 
+in lacs
+a 512.45
+b -806.72
+-294.27
+7
+8
+9
+10
+11
+12The Management, after considering allavailable records andfacts known toit,isoftheview thatthere isnomaterial adverse impact onthefinancial position oftheCompany andnomaterial
+adjustments are required to these  financial results for the quarter ended Sept 30, 2024 in this regard.Theabove consolidated results have been reviewed bytheAudit Committee andapproved bytheBoard ofDirectors atitsMeeting held onNovember 4,2024. TheStatutory Auditors have expressed
+qualified conclusion.
+The above results have been prepared inaccordance with Indian Accounting Standards ("Ind AS") prescribed under Section 133 oftheCompanies Act, 2013 read with relevant rules issued
+thereunder and other accounting principles generally accepted in India.
+Theabove results have been prepared bytheCompany inaccordance withIND-AS 110: Consolidated Financial Statements andIND-AS 28:Accounting forInvestments inAssociate inConsolidated
+Financial Statements prescribed under Section 133 of the Companies Act, 2013 and other  accounting principles generally accepted in India.
+TheGroup ispredominantly engaged inthebusiness ofmanufacture andsale ofIndian Made Foreign Liquor (IMFL) anditsrelated products, which constitute asingle business segment asperIND-AS
+108: Operating Segments. Accordingly, disclosure in accordance with the provisions of Circular issued by the SEBI on July 05, 2016 is not applicable. 
+TheParent Company expects torestart thegrain distillery plant post incurring ofrelevant capital expenditure. Inview ofthis, themanagement believes thatthere isnoimpairment invalue ofitsENA
+Plant and hence the recoverable amount of the ENA Plant is not required to be estimated.
+Exceptional Items in the year ended March 31, 2024 includes :
+During thequarter ended September 30,2023, theCompany hasmade apre-payment oftheRestructured debt ofEdelweiss Asset Reconstruction Company (EARC) acting as
+trustee ofEARC Trust SC241. Accordingly, thetotal Restructured debt ofRs.17,622 lacsasonJune 30,2023 ofEARC Trust SC241now stands reduced toRs.Nil.Consequent to
+theabove prepayment, thecorresponding Balance debt ofEARC Trust SC241ofRs.362.45 lacshasbeen waived byEARC andhasbeen written back bytheCompany along witha
+discount ofRs150lacs ontheRestructured debt received from EARC atthetime ofpre-payment. TheCompany hasnow completely repaid theRestructured debt ofallthethree
+EARC Trusts i.eEARC Trust SC233, EARC Trust SC241 andEARC Trust SC269 aspertheMaster Restructuring Agreement (MRA) dated February 06,2020 andstands
+discharged of all liabilities, dues, demands or claims in respect of the Restructured Facilities. 
+During thequarter andyear ended March 31,2024, Prag Distillery (P)Ltd(Prag), awholly owned subsidiary, haswritten offTrade Receivables ofRs.586.55 lacsandEarnest Money
+Deposit of Rs 182.05 lacs receivable from Andhra Pradesh Beverage Corporation Ltd.( the Corporation) and other receivables of Rs 38.12 lacs .
+Total expenses in exceptional Items ( Net)  in the year ended March 31, 2024
+TheIncome-Tax authorities ('the department') hadconducted search activity during themonth ofFebruary 2024 atsome ofthepremises, plants andresidences ofDirector oftheParent Company. The
+Company extended fullcooperation totheIncome-tax officials during thesearch andprovided required details, clarifications, anddocuments. Asonthedate ofissuance ofthese Quarter ended
+financial results, theCompany hasnotreceived anywritten communication from thedepartment regarding theoutcome ofthesearch, therefore, theconsequent impact ontheQuarter ended Sept 30,
+2024 financial results, if any, is not ascertainable.
+The Revenue from Operations includes Rs 1035.74 lacs  for the quarter ended Sept 30, 2024 and Rs 1592.13 lacs for the  half year ended Sept 2024 received as partial Subsidy from Government of 
+Maharashtra under Package Scheme of Incentives, 2007, relating to past investments. 
+During thequarter ended Sept 2024, theFinance Committee oftheBoard ofDirectors approved afollow-on investment ofRs.1315 lacs Spaceman Spirits LabPrivate Limited (“SSL”), makers of
+premium Indian craft ginSamsara andcraft rumSitara. TheCompany shall invest Rs.1315 lacsacross 3tranches over an18month period bysubscribing to(a)2,546 Equity Shares and(b)16,890
+Compulsory Convertible Preference Shares (“CCPS”). Earlier, theCompany hadexecuted aShare Subscription andInvestment Agreement on27th March 2023, against which theCompany had
+subscribed to6,636 Equity Shares and7,374 CCPS ofSSL equivalent to10% ofshare capital onafullydiluted basis forINR9.75 crores. Thetotal shareholding percentage oftheCompany inSSL
+after the proposed investment shall stand increased to 20.02% (on a fully diluted basis). The first tranche of investment of Rs 399.99 lacs was made on Sept 20, 2024. 
+During thequarter ended Sept 2024, theFinance Committee oftheBoard ofDirectors approved aninvestment ofRs.8.03 Crores inRound theCocktails Private Limited (“Bartisans”) which isa'ready
+topour' beverage company, engaged inthebusiness ofdeveloping, producing, marketing andselling non-alcoholic beverages which canbemixed with alcohol tocreate cocktails, andcanalso be
+consumed ontheir own asmocktails. TheCompany shall invest Rs.8.03 Crores by(a)Subscribing to2,352 Compulsory Convertible Preference Shares ("CCPS") and1equity share ofBartisans
+equivalent to13.52% ofshare capital onafullydiluted basis forINR3crores; and(b)Purchasing from existing shareholders, 163equity shares and3,781 CCPS ofBartisans equivalent to22.65% of
+share capital onafullydiluted basis forINR5.03 crores. Inaggregate, theCompany willown36.17% oftheshare capital ofBartisans onafullydiluted basis post thisinvestment. Theinvestment ofRs
+8.03 crores has been made on October 03, 2024.
+TheStandalone andConsolidated unaudited financial results oftheCompany forthequarter andhalfyear ended Sept 30,2024 areavailable ontheCompany’s website (www.tilind.com) andonthe
+website of BSE (www.bseindia.com) and NSE (www.nseindia.com). 
+The previous period figures have been regrouped and reclassified wherever necessary.

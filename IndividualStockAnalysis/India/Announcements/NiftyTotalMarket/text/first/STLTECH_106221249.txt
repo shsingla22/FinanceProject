@@ -1,0 +1,140 @@
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India.                                  
+CIN - L31300PN2000PLC202408  
+May 06, 2025 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, G Block, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 4000517 
+ 
+Scrip ID - STLTECH BSE Limited 
+Phirozee Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai – 400001 
+ 
+ 
+Scrip Code - 532374  
+ 
+Sub: - Press Release – STL & C-DOT Achieve India’s First Quantum-secured network breakthrough 
+with Multi-Core Fibre 
+ 
+Dear Sir/Madam, 
+ 
+The Company in collaboration with the Centre for Development of Telematics (C-DOT) has announced 
+the successful demonstration of India’s first Quantum Key Distribution (QKD) transmission over 100 
+kms, 4-core Multi-Core Fibre (MCF) network. This landmark achievement marks a significant step in 
+building India’s first quantum-secured,  future-ready communication networks. A copy of press release 
+in this regard is enclosed herewith. 
+ 
+Kindly take the above on record. 
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For Sterlite Technologies Limited 
+ 
+ 
+ 
+Mrunal Asawadekar 
+Company Secretary (ACS 24346) 
+ 
+Enclosure: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra - 411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+  
+PRESS RELEASE    
+STL & C -DOT Achieve India’s First Quantum -secured network 
+breakthrough with Multi -Core Fibre  
+India, 06/May/2025:  STL [NSE: STLTECH], a leading global optical and digital solutions company, in 
+collaboration with the Centre for Development of Telematics (C -DOT), India’s premier telecom R&D 
+centre under the Department of Telecommunications (DoT), Ministry of Communications , Government 
+of India, has announced the successful demonstration of India’s first Quantum Key Distribution (QKD) 
+transmission over 100 kms, 4 -core Multi -Core Fibre (MCF) network. This landmark achievement marks a 
+significant step in building India’s first quantum -secured, future -ready communication networks.  
+As a leading provider of advanced connectivity solutions for digital infrastructure, including Optical 
+Networking, Optical Connectivity, Data Centres, and Enterprise solutions, STL has desi gned, developed and 
+deployed India -first Multi -Core Fibre (MCF) cable (aerial and underground network) as an end-to-end solution, 
+spanning cabling, connectivity, installation, and deployment. STL’s field -deployable MCF cabling technology 
+was deployed in the Department of Telecommunications (DoT) -sponsored Advanced Optical  
+Communications (AOC) Test Bed  at IIT -Madras, complying with Essential Requirements (ER) led by TEC 
+standards. STL is the first   company in the world that has taken a position on deploying MCF cables in both 
+underground and aerial network infrastructures. It is now leading efforts in t he standardisation of fibre and 
+cable and their test & measurement technologies globally. This positions STL at the forefront of building high -
+capacity, future -ready  optical infrastructure.  
+MCF technology provides a powerful solution by enabling data transmission across multiple cores within a 
+single fibre, significantly saving physical space and infrastructure costs. In the context of QKD, which typically 
+requires a dedicated dark fibre for the quantum channel, MCF offers a significant advantage - it enables the 
+physical separation of quantum and classical signals into distinct cores within a single fibre. This allows for the 
+simultaneous transmission of QKD and high -capacity data traffic wit hout compromising quantum signal 
+integrity.  
+By integrating QKD with MCF, STL and C -DOT have addressed two critical challenges in quantum 
+communication - the need for dedicated dark fibre, further improving the cable’s form factor and the ability 
+to handle exponentially growing data traffic.   
+In this demonstration, the quantum signals of QKD were transmitted through one core while the other three 
+cores were used to carry high -speed user data simultaneously. STL and C -DOT successfully demonstrated a 
+stable, error -free QKD link over 100+ km on a single fibre while transmitting high -capacity classical data 
+simultaneously, proving its resilience in real -world network conditions. This proves the system’s ability to 
+support India’s 5G/6G rollout and surging data demands without sacrificing network sec urity —a first for the 
+nation . 
+With this development, STL and C -DOT have reaffirmed their commitment to enabling a secure, scalable, and 
+resilient quantum communication network for India, paving the way for a digitally sovereign future powered 
+by advanced optical and quantum technologies.  
+Speaking at the occasion, Dr. Rajkumar Upadhyay, CEO of C -DOT , stated, “This initiative is a  
+key milestone for India’s telecom ecosystem. We are glad to have innovative partners like STL in  
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra - 411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ India’s fiberization journey. This achievement clearly establishes the feasibility of integrated  
+quantum -classical networks over next -generation optical fibres, saving costs for QKD  
+deployments drastically.”  
+Commenting on this achievement, Rahul Puri, CEO – Optical Networking Business, STL , said, "This 
+breakthrough collaboration with C -DOT underscores India’s growing prowess in pioneering next -gen digital 
+infrastructure. We have demonstrated how cutting -edge optical innovations can revolutionise secure 
+communication by successfully integrating QKD with our indigenously developed MCF. This first in India  
+milestone is a testament to the power of public -private partnerships in building a digitally sovereign and se cure 
+nation.”  
+ 
+About STL - Sterlite Technologies Ltd:  
+STL is a leading global optical and digital solutions company providing advanced offerings to build 5G, Rural, FTTx, 
+Enterprise and Data Centre networks.  Read more , Contact us,  stl.tech  | Twitter  | LinkedIn | YouTube  
+ 
+For more information, contact:          
+    Media Relations  
+    Shaily Rai Sinha  
+    Phone: +91 22 30450450  
+    shaily.sinha@stl.tech     Investor Relations  
+    Ajay Jhanjhari  
+    Phone: +91 22 30 514000  
+    investor@stl.tech  
+  
+  
+ 
+ 

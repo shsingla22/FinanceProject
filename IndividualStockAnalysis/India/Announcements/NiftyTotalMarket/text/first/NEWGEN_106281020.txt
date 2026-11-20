@@ -1,0 +1,383 @@
+ 
+ 
+ 
+                                                                    
+Newgen Software Technologies Limited  
+CIN: L 72200DL 1992PLC049074, Registered Office: E-44/13, Okhla Phase II, New Delhi 110020, India  
+Tel: +91 11 46533200, 26384060, 26384146   Fax:+91 11 26383963  
+ 
+                                                   
+ 
+Date:  26th June 2025 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400051  
+Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+Scrip Code – 540900  Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+ 
+  Sub: Business Responsibility and Sustainability Report for the Financial Year 202 4-25 
+ 
+Dear Sir/Ma’am,  
+ 
+Pursuant to Regulation 34  of the SEBI (Listing  Obligations & Disclosure Requirements) Regulations 
+2015, please find enclosed herewith the  Business Responsibility and Sustainability Report (‘BRSR’) 
+for Financial Year  2024-25, which forms part of  the Annual Report for Financial Year  2024-25. 
+ 
+The BRSR is also available on the website of the Company at  https://newgensoft.com . 
+ 
+You are requested to kindly take the same on record.  
+ 
+Thanking you,  
+ 
+For Newgen Software Technologies Limited  
+ 
+ 
+ 
+Aman M ourya  
+Company Secretary  & Head -Legal  
+ 
+Encl.: a/a  
+Business Responsibility & 
+Sustainability Reporting
+GENERAL DISCLOSURESSECTION A: 
+I. Details of the listed entity
+1.Corporate Identity Number (CIN) of the Company: L72200DL1992PLC049074
+2.Name of the Company: Newgen Software Technologies Limited
+3.Year of Incorporation: 05-06-1992
+4.Registered Office Address: E-44/13 Okhla Phase II, New Delhi South Delhi DL 110020
+5.Corporate Address: E-44/13 Okhla Phase II, New Delhi South Delhi DL 110020
+6.E-mail id: cs.compliance@newgensoft.com 
+7.Telephone: +91 11 46533200
+8.Website: https://newgensoft.com
+9.Financial Year reported: 1st April 2024 to 31st March 2025
+10.Name of the Stock Exchange(s) where shares are 
+listed:Bombay Stock Exchange (BSE)
+National Stock Exchange of India (NSE)
+11.Paid-up Capital: H14,162.52 lakhs
+12.Name and contact detail (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR report:Arun Kumar Gupta (CFO) 
+cs.compliance@newgensoft.com  
++91 11 46533200
+13.Reporting boundary - Are the disclosures under 
+this report made on a standalone basis (i.e., only 
+for the entity) or on a consolidated basis (i.e. for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together).Disclosures made in this report are on a standalone 
+basis and pertain only to Newgen Software Technologies 
+Limited
+14.Name of assurance provider Not applicable
+15.Type of assurance obtained Not applicable
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main 
+Activity Description of Business Activity% of Turnover 
+of the entity
+1. Software & IT services Software application development Services and related activities 99%
+S. No. Product/Service NIC Code % of total Turnover contributed
+1. Sale of Software/SaaS/ATS/AMC 9983 50%
+2. Sale of Services/ Others 9983 50%
+Location Number of plants Number of offices Total
+National NA 17 17   
+International NA NA*17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+ Newgen’s subsidiaries have 11 international offices
+Statutory Reports
+Annual Report 2024-25
+79
+
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+EMPLOYEES
+1. Permanent* (D) 4040 3028 75.0% 1012 25.0%
+2. Other than Permanent** (E) 417 292 70.0% 125 30.0%
+3. Total employees (D + E) 4457 3320 74.5% 1137 25.5%
+S. 
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D)* 8 8 100% 0 0
+2. Other than Permanent (E) 0 0 0 0 0
+3. Total differently abled employees (D + E) 8 8 100% 0 0Locations Number
+National (No. of States) 29 States and 8 Union Territories
+International (No. of Countries) 7719. Markets served by the entity:
+a. Number of locations
+b. What is the contribution of exports as a percentage of the total turnover of the entity? 
+ 66%
+c. A brief on types of customers:
+Our customers are Business to Business Customers or Enterprise Customers in the Banking and Financial Services, 
+Government, Healthcare & Insurance and other domains.
+IV. Employees
+20. Details as at the end of Financial Year:
+a. Employees and workers*** (including differently abled):
+*Permanent Employees include on-roll employees of Newgen including those who are on Probation.
+**Other than Permanent Employees include Temporary, Casual, Contractual, Trainees & Third-Party Employees dedicatedly deployed at 
+Newgen premises.
+*** All employees are categorized as Employees and none as Workers.
+**** Data as of 25th March 2025
+ Improvement in gender ratio (female employees to total employees) to 25.5% in FY’25 compared to 24.3% in FY’24
+b.  Differently abled Employees and workers:
+ *Employees who have provided their Unique Disability ID to the organization
+21. Participation/Inclusion/Representation of women
+Total 
+(A)No. and Percentage of Females
+No. (B) % (B/A)
+Board of Directors 7 2 28.6 %
+Key Management Personnel* 8 1 12.5%
+ * Key Managerial Personnel includes Managing Director and Whole Time Directors For Newgen group
+Newgen Software Technologies Limited
+80
+
+S. 
+No.Name of the holding/ subsidiary/ 
+associate companies/ joint ventures (A)Indicate whether 
+holding/ 
+subsidiary/ 
+associate/ joint 
+venture% of shares 
+held by 
+listed entityDoes the entity indicated 
+at column A, participate 
+in Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1 Newgen Software Inc. USA WOS 100 % Yes
+2 Newgen Software Technologies Pte. Ltd. WOS 100 % Yes
+3 Newgen Software Technologies Canada 
+Ltd.WOS 100 % Yes
+4 Newgen Software Technologies (UK) 
+LimitedWOS 100 % Yes
+5 Newgen Software Technologies Pty Ltd. WOS 100 % Yes
+6 Newgen Software Technologies LLC WOS 100 % Yes
+7 Newgen Software Technologies 
+Company LimitedWOS 100 % Yes
+8 Newgen Computers Technologies 
+Limited.WOS 100 % YesFY 2024-25 FY 2023-24 FY 2022-23
+Male Female Total Male Female Total Male Female Total
+Permanent Employees* 20% 22% 21% 16% 20% 17% 30% 30% 30%22. Turnover rate for permanent employees and workers:
+*Turnover Rate computed as per the SEBI formula which is different from the industry practice and voluntary attrition calculations. Based 
+on calculations, as per industry practices, the turnover rate is 15.1% for Males and 17.4% for Females in FY 2024-25
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+  WOS- Wholly owned Subsidiary
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+ (ii) Turnover (in J) 135,435.39 lakhs
+ (iii) Net worth (in J) 141,310.66 lakhs
+VII. Transparency and Disclosures Compliances
+25. Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link for 
+grievance redress 
+policy)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities NA NA NA NA NA _
+Investors 
+(other than 
+shareholders)Yes 
+https://newgensoft.
+com/company/
+investor-relations/NA NA NA NA _
+Statutory Reports
+Annual Report 2024-25
+81
+
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link for 
+grievance redress 
+policy)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Shareholders Yes 
+https://scores.sebi.gov.
+in/scores-home/
+https://smartodr.in/
+login
+https://newgensoft.
+com/company/
+investor-relations/1 0 10 0 _
+Employees 
+and workersYes 
+https://newgensoft.
+com/company/
+investor-relations/
+Whistle Blower Policy.
+pdf https://landing.
+newgensoft.com/
+hubfs/_2020%20
+Website%20files/
+IR/Whistle%20
+Blower%20Policy.
+pdf?_gl=1*z1gctv*_gcl_
+au*MTIxODE5NDMzO 
+C4xNzQ5NjM3NzU22 (POSH)
+1 (Whistle 
+Blower 
+Related)*0 1 (POSH) 
+ 3 (Ethics)0 _
+ Customers Yes, we have a 
+mechanism in place 
+to understand and 
+resolve customer 
+complaints5** 0 10 ** 0 _
+Value Chain       
+PartnersNA Nil Nil Nil Nil _
+Other (please 
+specify)Insider Training Policy
+Whistle Blower Policy.
+pdf1 (Whistle 
+Blower 
+Related) 
+4 (Insider 
+Trading 
+related)NA 4 (Insider 
+Trading 
+related)NA _
+ **Relevant Customer grievances considered with legal correspondence
+ *Considering Sexual Harassment, Whistle Blower, Anti-Bribery, Ethics related complaints. Excluding Disciplinary and Performance 
+related complaints  
+Newgen Software Technologies Limited
+82
+
+S. 
+No.Material 
+issue 
+identifiedIndicate 
+whether risk 
+Or opportunity 
+(R/O)Rationale for
+Identifying the 
+risk / opportunityIn case of risk, Approach 
+to adapt or mitigateFinancial implications
+of the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1. GHG 
+Emissions 
+and Climate 
+ChangeRisk/ 
+Opportunity Linked to 
+Climate Change 
+RiskOpportunity 
+in engaging 
+clients on climate 
+actions through 
+our solutionsUndertake initiatives 
+on energy efficiency, 
+renewable energy  Increased operating 
+costs in meeting the 
+environmental standards/ 
+initiatives
+2. Diversity, 
+Equity and 
+InclusionRisk and 
+opportunityLinked to Human 
+Capital riskClear policies, processes 
+and governance 
+structures to monitor Productivity, innovation or 
+retention of talent
+3. Employee 
+EngagementRisk Linked to Human 
+Capital riskIncreased initiatives for 
+Employee engagement, 
+retention and support. 
+Focus on career and 
+leadership development. 
+Occupational health and 
+safety measuresImpact on employer 
+reputation, increased cost 
+of talent and related issues 
+4. Data 
+Privacy and 
+Information 
+ManagementRisk Linked to 
+Business and 
+Continuity Risk/ 
+Reputation RiskEnsuring robust 
+cybersecurity and data 
+privacy frameworks and 
+controls. Continued 
+investment in technologyIncreased operational 
+cost for technological 
+investments and hiring and 
+training talent. Impact on 
+reputation and business 
+and potential claims or 
+liabilities from clients. For 
+mitigation company has 
+taken adequate insurance. 
+5. Corporate 
+Governance 
+and Business 
+EthicsRisks Linked to 
+Business and 
+Continuity Risk/ 
+Reputation RiskStipulated policies, 
+processes and systems to 
+ensure ethical conduct 
+and strong governance.Penalties for non 
+compliance,  reputational 
+consequences and impact 
+on business 26. Overview of the entity’s material responsible business conduct issues
+ Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format:
+Statutory Reports
+Annual Report 2024-25
+83

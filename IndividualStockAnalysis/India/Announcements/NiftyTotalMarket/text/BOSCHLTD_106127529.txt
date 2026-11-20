@@ -1,0 +1,548 @@
+ 
+ 
+ 
+  
+Registered Office: Bosch Limited, Hosur Road, Bangalore -560030, Karnataka, India     
+Managing Director: Guruprasad Mudlapur , Joint Managing Director:  Sandeep N  Bosch Limited  
+Post Box No:3000 
+Hosur Road, Adugodi  
+Bangalore -560030 
+Karnataka, India   
+Tel +91 80 6752 3878 
+www.bosch .in 
+L85110KA1951PLC000761  
+Secretarial.corp@in.bosch.com     
+ 
+     
+  
+ 
+    January 28, 2025  
+Dear Sir/Madam,  
+ 
+Sub: Integrated Filing (Financials) for the quarter and nine -months ended December 
+31, 2024.  
+Pursuant to SEBI Circular No.  SEBI/HO/CFD/CFD- PoD-2/CIR/P/2024/185 dated 
+December 31, 2024, read with BSE Circular No. 20250102- 4 and NSE Circular no. 
+NSE/CML/2025/02 dated January 02, 2025, we are submitting herewith the Integrated 
+Filing ( Financials ) for the quarter and nine- months ended December 31, 2024.  
+This is for your information and records.  
+Thanking you,  
+  
+Yours Sincerely , 
+for Bosch Limited,  
+ 
+ 
+ 
+ 
+V Srinivasan  
+Company Secretary & Compliance Officer  
+  
+ 
+Corporate Relationship Department  
+BSE Limited 
+1st Floor, New Trading Ring  
+Rotunda Building  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Fort  
+Mumbai – 400 001  
+Scrip code:500530  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+             
+ 
+The Manager  
+Listing Department  
+National Stock Exchange of India Ltd.  
+Exchange Plaza, C -1, Block G  
+Bandra -Kurla Complex  
+Bandra (E)  
+Mumbai – 400 051  
+Scrip code: BOSCHLTD            
+    
+ 
+S.R. BATL/801 & ASSOCIATES LLP 
+Chartered Accountants 12th Floor 
+"UB City" Canberra Block 
+No. 24, Vittal Mallya Road 
+Bengaluru -560 001, India 
+Tel : +91806648 9000 
+Independent Auditor's Review Report on the Quarterly and Year to Date Unaudited Standalone Financial 
+Results of the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended 
+Review Report to 
+The Board of Directors 
+Bosch Limited 
+1.We have reviewed the accompanying statement of unaudited standalone financial results of Bosch
+Limited (the "Company") for the quarter ended December 31, 2024 and year to date from April O 1, 2024
+to December 31, 2024 (the "Statement") attached herewith, being submitted by the Company pursuant
+to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended (the "Listing Regulations").
+2.The Company's Management is responsible for the preparation of the Statement in accordance with the
+recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34)
+"Interim Financial Reporting" prescribed under Section 133 of the Companies Act, 2013 as amended,
+read with relevant rules issued thereunder and other accounting principles generally accepted in India
+and in compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by
+the Company's Board of Directors. Our responsibility is to express a conclusion on the Statement based
+on our review.
+3.We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410, "Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity" issued by the Institute of Chartered Accountants oflndia. This standard requires that we plan and
+perform the review to obtain moderate assurance as to whether the Statement is free of material
+misstatement. A review of interim financial information consists of making inquiries, primarily of
+persons responsible for financial and accounting matters, and applying analytical and other review
+procedures. A review is substantially less in scope than an audit conducted in accordance with Standards
+on Auditing and consequently does not enable us to obtain assurance that we would become aware of all
+significant matters that might be identified in an audit. Accordingly, we do not express an audit opinion.
+4.Based on our review conducted as above, nothing has come to our attention that causes us to believe that
+the accompanying Statement, prepared in accordance with the recognition and measurement principles
+laid down in the aforesaid Indian Accounting Standards ('Ind AS') specified under Section 133 of the
+Companies Act, 2013 as amended, read with relevant rules issued thereunder and other accounting
+principles generally accepted in India, has not disclosed the information required to be disclosed in terms
+of the Listing Regulations, including the manner in which it is to be disclosed, or that it contains any
+material misstatement.
+For S.R. BATLIBOI & ASSOCIATES LLP 
+Chartered Acco ants 
+ICAI Fir istration number: 101049W/E300004 
+e 
+Partner 
+Membership No.: 209567 
+UDIN: 25209567BMOL VB96 l 4 
+Place: Bengaluru 
+Date: January 28, 2025 
+S.R. Balliboi & Associates LLP, a Limited Liability Partnership with LLP Identity No. AAB-4295 
+Regd. Office: 22, Camac Street, Block 'B', 3rd Floor. Kolkata-700 016 A. FINANCIAL RESULTS:
+Bosch Limited
+Registered office: Hosur Road, Adugodi, Bengaluru- 560030
+Website: www.bosch.in, e-mail ID:secretarial.corp@iri.bosch.com, Tel:+918067523878
+CIN: L85110KA1951PLC000761
+Statement ofUnaudited Standalone Financial Results forthequarter and nine months ended December31, 2024
+FRs. inMillions (Mm INRU
+Current Preceding CorrespondingYear todate Year todate
+three months three months three monthsfigures forthe figures fortheYear ended
+ended ended endedcurrent period previous period
+ended ended
+ParticularsDecember 31, September 30, December 31, December 31, December 31,March 31,20242024 2024 2023 2024 2023
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1Income
+(a)Revenue from operations 44,657 43,943 42,052 131,768 124,937 167,271
+(b)Other Income 1,891 2,089 1,548 5,773 4,965 7,227
+Total Income (a+b) 46,548 46,032 43,600 137,541 129,902 174,498
+2Expenses
+(a)Cost ofraw material and components10,180 10,320 9,134 30,065 27,459 37,087consumed
+(b)Purchase oftraded goods 17,808 17710 17,104 54,641 53,049 71,333
+(c)(Increase) /decrease ininventories of
+finished goods, work-in-progress and traded (481) 586 (26) (716) 122 (80)
+goods
+(d)Employee benefits expense 3,948 3,437 3,343 10,733 9,792 13,407
+(e)Financecosts 62 22 39 110 469 508
+(f)Depreciation andamortisation expense 1,008 900 1,173 2,764 3,107 4,295
+(g)Other expenses 7,376 6,285 6,713 20,417 19,139 24,576
+Total expenses 39,901 39,260 37,480 118,014 113,137 151,126
+Profit before exceptional items and tax(1-
+6,647 6,772 6,120 19,527 16,765 23,372
+Exceptional items (before tax)(471) 485 588 14 8,438 8,438(refer note 3.a., 3.b., 3.c., and3d.)
+5Profit before tax(3+4) 6,176 7,257 6,708 19,541 25,203 31,810
+6Current taxexpense! (credit)
+(i)fortheperiod! year 1,403 1,649 1,442 4,488 5,598 6,462
+(ii)relating toearlier years- - (198)- (86) (484)
+Deferred taxcharge! (credit) 191 249 283 457 431 927
+Total taxexpense! (credit) 1,594 1,898 1,527 4,945 5,943 6,905
+7NetProfit fortheperiod! year (5-6) 4,582 5,359 5,181 14,596 19,260 24,905
+8Other comprehensive income
+Items that will not bereclassified to
+Statement ofProfit andLoss
+Changes infairvalue ofequity instruments 270 463 1,223 2,426 1,158 (197)
+Income taxeffect (39) (216) (140) (449) (133) 23
+Remeasurement gains! (losses) ondefined85benefit plans- 381 85 381 111
+Incometaxeffect (21)- (96) (21) (96) (28)
+Other comprehensive income! (loss) (Net295 247 1,368 2,041 1,310 (91)oftax)
+Total comprehensive income for the4877 5606 6,549 16,637 20,570 24814period! year (net oftax) (7+8)
+10Paid-upequity share capital (Face value ofRs295 295 295 295 295 29510!-each)
+11Other equity asperbalance sheet 120,337
+12Earnings per share (of Rs 10!- each)
+(weighted average) (notannualised)
+(a)Basic 155.37 18170 175.69 494.90 653.09 844.40
+-(b)Diluted 15537 18170 17569 49490 J3..QQ 84440
+- - -.&A' I
+DBNO
+'3OOOngaIuw
+*
+
+Bosch Limited
+Registered office: F-losur Road, Adugodi, Bengaluru- 560030
+Website: www.bosch.in, e-mail ID:secretarial.corp@in.bosch.com, Tel:+918067523878
+CIN: L85110KA1951 PLC000761
+Notes toUnaudited Standalone Financial Results forthequarter andnine months ended December 31,2024
+Note I-Standalone Segment wise Revenue, Results, Assets andLiabilities
+rRs. inMillions (Mio INR)1
+Current Preceding CorrespondingYear todate Year todate
+three months three months three monthsfigures forthe
+-figures fortheYear ended
+Particulars ended ended endedCurrent period previous period
+ended ended
+December 31, September 30, December 31, December 31, December 31,March 31,20242024 2024 2023 2024 2023
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+Segment revenue
+-Automotive products 38,929 37,594 36,522 113,941 108,462 143,576
+-Consumer goods 3,617 4,290 3,336 11,846 10,987 16,224
+-Others 2,320 2,130 2,428 6,325 5,835 7,854
+Total segment revenue 44,866 44,014 42,286 132,112 125,284 167,654
+Less: Inter segment revenue 209 71 234 344 347 383
+44,657 43,943 42,052 131,768 124,937 167,271 Netincome from operations
+Segment results
+-Automotive products 5,701 5,220 5,179 16,100 13,604 18,492
+-Corisumergoods 169 401 389 694 1,252 1,853
+-Others 367 313 390 1,018 940 1,166
+Total segment results 6,237 5,934 5,958 17,812 15,796 21,511
+Less: Finance costs 62 22 39 110 469 508
+Less: Unallocable corporate expenditure 1,386 1,275 1,346 3,915 3,446 4,777
+Add: Exceptional items (refer note 3.a., 3.b.,(471) 485 588 14 8,438 8,4383.c., and 3d.)
+Add: Unallocable income 1,858 2,135 1,547 5,740 4,884 7,146
+Total Profit before tax 6,176 7,257 6,708 19,541 25,203 31,810
+Segment assets
+-Automotive products 52,596 52,021 51,443 52,596 51,443 51,683
+-Consumer goods 5,065 5,406 4,392 5,065 4,392 4,465
+-Others 8,497 8,307 8,722 8,497 8,722 8,419
+66,158 65,734 64,557 66,158 64,557 64,567
+-Unallocable assets 126,217 119,480 110,708 126,217 110,708 108,981
+192,375 185,214 175,265 192,375 175,265 173,548 Total assets
+Segment Liabilities
+-Automotive products 50,310 49,744 43,980 50,310 43,980 44,943
+-Consumer goods 3,626 3,655 3,566 3,626 3,566 3,340
+-Others 1,656 1,323 1,262 1,656 1,262 1,252
+55,592 54,722 48,808 55,592 48,808 49,535
+-Unallocable liabilities 4,526 3,114 4,054 4,526 4,054 3,381
+60,118 57,836 52,862 60,118 52,862 52,916 Total liabilities
+::.
+c(BengaIuru)))
+
+Bosch Limited
+Registered office :Hosur Road, Adugodi, Bengaluru- 560030
+Website: www.bosch.in, e-mail ID:secretarial.corp@in.bosch.com, Tel:+918067523878
+CIN: L85110KA1951PLC000761
+Notes toUnaudited Standalone Financial Results forthequarter andnine months ended December 31,2024
+Note 2The above unaudited standalone financial results were reviewed bytheAudit Committee. The above unaudited standalone financial
+results were approved bytheBoard ofDirectors attheir meeting held onJanuary 28,2025. The limited review, asrequired under
+Regulation 33ofSEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, hasbeen completed bytheStatutory
+Auditors forthequarter andnine months ended December 31,2024 andthey have issued anunqualified conclusion ontheaforesaid
+results.
+Note 3.a. Pursuant totheapproval oftheBoard ofDirectors oftheCompany onMay 26,2023, theCompany entered intoaBusiness Transfer
+Agreement dated June 09,2023 with Bosch Mobility Platform andSolutions India Private Limited (formerly known as'Automobility
+Services andSolutions Private Limited') ("the Purchaser") fortransfer ofits"Project House Mobility Solutions" Business (Specified
+Business) foraconsideration ofRs.7,809 Million. The transfer ofbusiness was completed onJuly 01,2023 and accordingly the
+Company recognized atotal gain onsale ofthesaid Specified Business inthefinancial results amounting toRs.7,850 Million andthe
+same hasbeen disclosed as"exceptional item" intherespective period.
+The Company believes thattheSpecified Business didnotqualify asaseparate major lineofBusiness under "IND AS105- Non
+Current Assets held forSale andDiscontinued Operations" andaccordingly didnotconsider thesame asa"discontinued operation"
+forthepurpose ofthese unaudited standalone financial results.
+Note 3.b. The Company had created aprovision as'exceptional item' inFY2019-20 and FY2020-21 towards various restructuring and
+transformational costs onaccount ofmajor transformation with regard tostructural and cyclical changes inautomotive market and
+emerging opportunities intheelectro mobility andmobility segment. Such costs included costs ontermination ofemployees arising out
+ofsuch restructuring andtransformations.
+During theyear ended March 31,2024, pursuant toitsreassessment ofelectro mobility andmobility segment inIndia and regulatory
+changes applicable forcertain emission norms inIndia, theCompany reversed theprovision intherespective financial results
+amounting toRs.588Million andthesame hasbeen disclosed as"exceptional item" intherespective period.
+Note 3.c. Pursuant totheapproval oftheBoard ofDirectors oftheCompany onMay 24,2024, theCompany entered intoaBusiness Transfer
+Agreement dated June 05,2024 with ETAS Automotive India Private Limited ("the Purchaser") fortransfer ofits"OEIOES Diagnosis"
+Business (Specified Business) foraconsideration ofRs.456 Million. Thetransfer ofbusiness was completed onJuly 01,2024 and
+accordingly, theCompany hasrecognized atotal gain onsale ofthesaid Specified Business inthefinancial results amounting toRs.
+485 Million andthesame hasbeen disclosed as"exceptional item" inthese unaudited standalone financial results forthequarter
+ended September 30,2024 andnine months ended December31, 2024.
+The Company believes thattheSpecified Business does notgetqualified asaseparate major lineofBusiness under "IND AS105-
+Non Current Assets held forSale andDiscontinued Operations" and accordingly has notconsidered thesame asa"discontinued
+operation" forthepurpose ofthese unaudited standalone financial results.
+Note 3.d. The Company isintheprocess ofrestructuring itsoperations inorder tobecompetitive inthemobility business. Towards this, an
+amount ofRs.471Milion forthequarter andnine months ended December 31,2024 hasbeen provided inthese unaudited standalone
+financial results anddisclosed asan"exceptional item".
+Note 4OnJanuary 28,2025, theBoard ofDirectors oftheCompany approved toexecute theBusiness Transfer Agreement with Keenfinity
+India Private Limited ("the Purchaser") fortransfer ofits"Video solutions, Access and Intrusions andCommunication systems"
+Business (Specified Business) with carrying value ofnetassets ofRs.461 million asatSeptember 30,2024, byway ofslump salefor
+theagreed purchase consideration ofRs.5,950 million (along with apurchase price adjustment). The specified business isclassified
+under "others" segment inthese unaudited standalone financial results. The Company believes thespecified business does notget
+qualified asaseparate major lineofbusiness under INDAS105:Non current Assets held forsale anddiscontinued operations.
+Forandonbehalf oftheBoard of
+Directors ofBosch Limited
+Place :BengaluruA(Guruprasad Mudlapur)
+Date: January 28,2025 O-'O Managing Director
+Bengaluru
+
+12th FloorS.R.BATLIBOI &ASSOCIATES LLP "UBCity Canberra Block
+No.24,Vittal Mallya RoadChartered AccountantsBengaluru-560 001, India
+Tel:+91 8066489000
+Independent Auditor's Review Report ontheQuarterly and Year toDate Unaudited Consolidated
+Financial Results oftheCompany Pursuant totheRegulation 33oftheSEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, asamended
+Review Report to
+The Board ofDirectors
+Bosch Limited
+Wehave reviewed theaccompanying Statement ofUnaudited Consolidated Financial Results ofBosch
+Limited (the Holding Company") anditssubsidiaries (theHolding Company anditssubsidiaries together
+referred toas"the Group"). itsassociates andjointly controlled entity forthequarter ended December 31,
+2024 andyear todate April 01,2024 toDecember 31,2024 (the "Statement") attached herewith, being
+submitted bytheHolding Company pursuant totherequirements ofRegulation 33oftheSEBI (Listing
+Obligations andDisclosure Requirements) Regulations. 2015. asamended (the"Listing Regulations").
+2.TheHolding Company's Management isresponsible forthepreparation oftheStatement inaccordance with
+therecognition and measurement principles laiddown inIndian Accounting Standard 34,(Ind AS34)
+"Interim Financial Reporting" prescribed under Section 133oftheCompanies Act, 2013 asamended, read
+with relevant rules issued thereunder andother accounting principles generally accepted inIndia andin
+compliance with Regulation 33oftheListing Regulations. TheStatement hasbeen approved bytheHolding
+Company's Board ofDirectors. Ourresponsibility istoexpress aconclusion ontheStatement based onour
+review.
+Weconducted ourreview oftheStatement inaccordance with theStandard onReview Engagements (SRE)
+2410. "Review ofInterim Financial Information Performed bytheIndependent Auditor oftheEntity" issued
+bytheInstitute ofChartered Accountants ofIndia. This standard requires thatweplanandperform thereview
+toobtain moderate assurance astowhether theStatement isfreeofmaterial misstatement, Areview ofinterim
+financial information consists ofmaking inquiries, primarily ofpersons responsible forfinancial and
+accounting matters, andapplying analytical andother review procedures. Areview issubstantially lessin
+scope than anaudit conducted inaccordance with Standards onAuditing andconsequently does notenable
+ustoobtain assurance thatwewould become aware ofallsignificant matters thatmight beidentified inan
+audit. Accordingly, wedonotexpress anaudit opinion.
+Wealso performed procedures inaccordance with theCircular No.ClR'CFD/CMDl4420l9 dated March
+29,2019 issued bytheSecurities and Exchange Board ofIndia under Regulation 33(8) oftheListing
+Regulations. totheextent applicable.
+4.TheStatement includes theresults ofthefollowing entities:
+a)Bosch Limited (Holding Company orParent)
+b)MICO Trading Private Limited (Subsidiary)
+c)Robert Bosch India Manufacturing andTechnology Private Limited (Subsidiary)
+d)Autozilla Solutions Private Limited (Associate)
+e)Newtech Filter India Private Limited (Associate)
+f)Prebo Automotive Private Limited (Jointly Controlled Entity)
+Based onourreview conducted andprocedures performed asstated inparagraph 3above, nothing hascome
+toourattention thatcauses ustobelieve thattheaccompanying Statement, prepared inaccordance with
+recognition and measurement principles laiddown intheaforesaid Indian Accounting Standards ('Ind AS')
+specified under Section 133oftheCompanies Act, 2013, asamended, read with relevant rules issued
+thereunder andother accounting principles generally accepted inIndia, has notdisclosed theinformation
+required tobedisclosed interms oftheListing Regulations. including themanner inwhich itistobe
+disclosed, orthatitcontains anymaterial misstatement.
+77&As
+EflBengaluru
+SR.Batliboi SAssociates LLP, aLimited Liability Partnership with LLP Identity No.AAB-4295
+Reqd Ottice 22,carrac Street, Block 'B',3rd Floor, Kolbata'700 016
+
+S.R.BATuBoI& ASSOCIATES LLP
+Chartered Accountants
+6.Theaccompanying Statement includes theunaudited interim financial results andother unaudited financial
+information, inrespect of:
+¯two subsidiaries, whose unaudited interim financial results include total income ofRs.0million and
+Rs.0million, total netprofit'(loss) after taxofRs.(I)million and Rs.(2)million and total
+comprehensive income/(loss) ofRs.(I)andRs.(2)million, forthequarter ended December 31,2024
+andtheperiod ended onthatdaterespectively.
+¯twoassociates andonejointly controlled entity. whose unaudited interim financial results include
+Group's share ofnetprofit ofRs. 6million andRs.23million andGroup's share oftotal comprehensive
+income ofRs.6million andRs.23million forthequarter ended December 3I.2024 andfortheperiod
+from April 01,2024 toDecember 31.2024 respectively.
+Theunaudited interim financial results andother unaudited financial information ofthese subsidiaries.
+associates andjointly controlled entity have notbeen audited;reviewed bytheir auditors andhave been
+approved andfurnished tousbytheManagement andourconclusion ontheStatement, insofarasitrelates
+totheaffairs ofthese subsidiaries. associates andjointly controlled entity, isbased solely onsuch unaudited
+interim financial results and other unaudited financial information. According totheinformation and
+explanations given tousbytheManagement. these interim financial results andother unaudited financial
+information arenotmaterial totheGroup.
+Ourconclusion ontheStatement inrespect ofmatters stated inparagraph 6above isnotmodified with respect
+toourreliance ontheunaudited interim financial results andother unaudited financial information certified
+bytheManagement.
+ForS.R. BATLIBOI &ASSOCIATES LLP
+Chartered Acco ants
+1CM Firm gistration number: 101049W E300004
+Membership No.: 209567*
+IJDIN: 25209567BM0LVC9248
+Place: Bengaluru
+Date: January 28,2025
+
+Bosch Limited
+Registered office :Hosur Road, Adugodi, Bengaluru- 560030
+Website: www.bosch.in, e-mail ID:secretarial.corp@in.bosch.com, Tel:+918067523878
+CIN: L85110KA1951PLC000761
+Statement ofUnaudited Consolidated Financial Results forthequarter and nine months ended December 31,2024
+FRs. inMillions lMio lNRt1
+Current Preceding CorrespondingYear todate Year todate
+three months three months three monthsfigures forthe figures fortheYear ended
+ended ended endedcurrent period previous period
+ended ended
+ParticularsDecember 31, September 30, December 31, December 31, December 31,March 31,20242024 2024 2023 2024 2023
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited)________________
+(Audited)
+1Income
+(a)Revenue from operations 44,657 43,943 42,052 131,768 124,937 167,271
+(b)Other Income 1,890 2,089 1,547 5,771 4,963 7,224
+Total Income (a+b) 46,547 46,032 43,599 137,539 129,900 174,495
+2Expenses
+(a)Cost ofraw material and components10,180 10,320 9,134 30,065 27,459 37,087consumed
+(b)Purchase oftraded goods 17,808 17,710 17,104 54,641 53,049 71,333
+(c)(Increase) /decrease ininventories of
+finished goods, work -in-progress and traded (481) 586 (26) (716) 122 (80)
+goods
+(d)Employee benefits expense 3,948 3,437 3,343 10,733 9,792 13,407
+(e)Finance costs 62 22 39 110 469 508
+(f)Depreciation andamortisation expense 1,008 900 1,173 2,764 3,107 4,295
+(g)Other expenses 7,376 6,285 6,713 20,417 19,139 24,576
+Total expenses 39,901 39,260 37,480 118,014 113,137 151,126
+Profit before exceptional items and tax(1-
+6,646 6,772 6,119 19,525 16,763 23,3692)
+Exceptional items (before tax)(471) 485 588 14 8,438 8,438(refer note 3a., 3.b., 3.c.,and3d.)
+5Profit before tax(3+4) 6,175 7,257 6,707 19,539 25,201 31,807
+6Current tsxexpense/ (credit)
+(i)fortheperiod/ year 1,403 1,649 1,442 4,488 5,598 6,462
+(ii)relating toearlier years- - (198)- (86) (484)
+Deferred taxcharge/ (credit) 191 249 283 457 431 927
+Total taxexpense! (credit) 1,594 1,898 1,527 4,945 5,943 6,905
+7NetProfit fortheperiod! year (5-6) 4,581 5,359 5,180 14,594 19,258 24,902
+Share ofnetprotit/(Ioss) ofassociates and
+8Jointly controlled entity accounted forusing 6 8 2 23 15 11
+equity method (netoftax)
+Net profit after taxes and share ofprofitl
+9(loss) ofAssociates andJointly controlled 4,587 5,367 5,182 14,617 19,273 24,913
+entity (7+8)
+10Other comprehensive income
+Items that will not bereclassified to
+Statement ofProfit and Loss
+Changes infairvalue ofequity instruments 270 463 1,223 2,426 1,158 (197)
+Income taxeffect (39) (216) (140) (449) (133) 23
+Remeasurement gains/ (losses) ondefined85- 381 85 381 111benefit plans
+Income taxeffect (21)- (96) (21) (96) (28)
+Other comprehensive income! (loss) (Net295 247 1,368 2,041 1,310 (91)oftax)
+Total comprehensive income for the4,882 5,614 6,550 16,658 20,583 24,822period! year (net oftax) (9+10)
+12Paid-upequity share capital (Face value of295 295 295 295 295 295Rs10/- each)
+13Other equity asperbalance sheet 120,274
+14Earnings per SLare -::(of Rs 10/- each)
+(weighted
+(a)Basic ,' 155.53
+155.53181.99
+181.99175.71 495.60 65353 844.68
+-(b) 175.71 495.60 844.68
+:300o
+BengatUrU
+*
+
+Bosch Limited-___________________________
+Registered office: Hosur Road, Adugodi, Bengaluru- 560030
+Website: www.bosch.in, e-mail ID:secretarial.corpin.bosch.com, Tel:+918067523878
+CIN: L85110KA1951PLC000761
+Notes toUnaudited Consolidated Financial Results forthequarter andnine months ended December 31,2024
+Note I-Consolidated Segment wise Revenue, Results, Assets andLiabilities
+FRs. inMillions (Mio INRIl
+Current Preceding CorrespondingYear todate Year todate
+three months three months three monthsfigures forthe figures fortheYear ended
+Particulars ended ended endedcurrent period previous period
+ended ended
+December31, September 30, December31, December31, December31,
+2024 2024 2023 2024 2023March 31,2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited)_______________
+(Audited)
+Segment revenue
+-Automotive products 38,929 37,594 36,522 113,941 108,462 143,576
+-Consumergoods 3,617 4,290 3,336 11,846 10,987 16,224
+-Others 2,320 2,130 2,428 6,325 5,835 7,854
+Total segment revenue 44,866 44,014 42,286 132,112 125,284 167,654
+Less: Inter segment revenue 209 71 234 344 347 383
+Netincome from operations 44,657 43,943 42,052 131,768 124,937 167,271
+Segment results
+-Automotive products 5,701 5,220 5,179 16,100 13,604 18,492
+-Consumer goods 169 401 389 694 1,252 1,853
+-Others 367 313 390 1,018 940 1,166
+Total segment results 6,237 5,934 5,958 17,812 15,796 21,511
+Less: Finance costs 62 22 39 110 469 508
+Less: Unallocable corporate expenditure 1,386 1,275 1,346 3,915 3,446 4,777
+Add: Exceptional items (refer note 3.a., 3.b.,485 588 14 8,438 8,4383.c., and3d.) (471)
+Add: Unallocable income 1,857 2,135 1,546 5,738 4,882 7,143
+Total Profit before tax 6,175 7,257 6,707 19,539 25,201 31,807
+Segment assets
+-Automotive products 52,596 52,021 51,443 52,596 51,443 51,683
+-Consumer goods 5,065 5,406 4,392 5,065 4,392 4,465
+-Others 8,497 8,307 8,722 8,497 8,722 8,419
+66,158 65,734 64,557 66,158 64,557 64,567
+-Unallocable assets 126,175 119,433 110,650 126,175 110,650 108,918
+192,333 185,167 175,207 192,333 175,207 173,485 Total assets
+Segment Liabilities
+-Automotive products 50,310 49,744 43,980 50,310 43,980 44,943
+-Consumer goods 3,626 3,655 3,566 3,626 3,566 3,340
+-Others 1,656 1,323 1,262 1,656 1,262 1,252
+55,592 54,722 48,808 55,592 48,808 49,535
+-Unallocable liabilities 4,527 3,115 4,054 4,527 4,054 3,381
+60,119 57,837 52,862 60,119 52,862 52,916 Total liabilities
+00)
+
+Bosch Limited
+Registered office: Hosur Road, Adugodi, Bengaluru- 560030
+Website: www.bosch.in, e-mail ID:secretarial.corp@in.bosch.com, Tel:+918067523878
+CIN: L85110KA1951FL0000761
+Notes toUnaudited Consolidated Financial Results forthequarter andnine months ended December 31,2024
+Note 2The above unaudited consolidated financial results were reviewed bytheAudit Committee. The above unaudited consolidated
+financial results were approved bytheBoard ofDirectors attheir meeting held onJanuary 28,2025. Thelimited review, asrequired
+under Regulation 33ofSEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, hasbeen completed bythe
+Statutory Auditors forthequarter andnine months ended December 31,2024 andtheyhave issued anunqualified conclusion onthe
+aforesaid results.
+Note 3.a. Pursuant totheapproval oftheBoard ofDirectors oftheCompany onMay 26,2023, theCompany entered intoaBusiness Transfer
+Agreement dated June 09,2023 with Bosch Mobility Platform andSolutions India Private Limited (formerly known as'Automobility
+Services andSolutions Private Limited') ("the Purchaser") fortransfer ofits"Project House Mobility Solutions" Business (Specified
+Business) foraconsideration ofRs.7,809 Million. Thetransfer ofbusiness was completed onJuly 01,2023 andaccordingly the
+Company recognized atotal gain onsaleofthesaidSpecified Business inthefinancial results amounting toRs.7,850 Million andthe
+same hasbeen disclosed as"exceptional item" intherespective period.
+TheCompany believes thattheSpecified Business didnotqualify asaseparate major lineofBusiness under "IND AS105-Non
+Current Assets heldforSale andDiscontinued Operations" andaccordingly didnotconsider thesame asa"discontinued operation"
+forthepurpose ofthese unaudited consolidated financial results.
+Note 3.b. The Company had created aprovision as'exceptional item' inFY2019-20 and FY2020-21 towards various restructuring and
+transformational costs onaccount ofmajor transformation with regard tostructural and cyclical changes inautomotive market and
+emerging opportunities intheelectro mobility andmobility segment. Such costs included costs ontermination ofemployees arising out
+ofsuch restructuring andtransformations.
+During theyear ended March 31,2024, pursuant toitsreassessment ofelectro mobility andmobility segment inIndia andregulatory
+changes applicable forcertain emission norms inIndia, theCompany reversed theprovision intherespective financial results
+amounting toRs.588Million andthesame hasbeen disclosed as"exceptional item" intherespective period.
+Note 3.c. Pursuant totheapproval oftheBoard ofDirectors oftheCompany onMay 24,2024, theCompany entered intoaBusiness Transfer
+Agreement dated June 05,2024 with ETAS Automotive India Private Limited ("the Purchaser") fortransfer ofits"OE/OES Diagnosis"
+Business (Specified Business) foraconsideration ofRs.456Million. Thetransfer ofbusiness was completed onJuly 01,2024 and
+accordingly, theCompany hasrecognized atotal gain onsale ofthesaid Specified Business inthefinancial results amounting toRs.
+485 Million andthesame hasbeen disclosed as"exceptional items" inthese unaudited consolidated financial results forthequarter
+ended September 30,2024 andnine months ended December 31,2024.
+The Company believes thattheSpecified Business does notgetqualified asaseparate major lineofBusiness under "IND AS105-
+NonCurrent Assets held forSale andDiscontinued Operations" andaccordingly has notconsidered thesame asa"discontinued
+operation" forthepurpose ofthese unaudited consolidated financial results.
+Note 3.d. The Company isintheprocess ofrestructuring itsoperations inorder tobecompetitive inthemobility business. Towards this, an
+amount ofRs.471Milion forthequarter and nine months ended December 31,2024 hasbeen provided inthese unaudited
+consolidated financial results anddisclosed asan"exceptional item".
+Note 4OnJanuary 28,2025, theBoard ofDirectors oftheCompany approved toexecute theBusiness Transfer Agreement with Keenfinity
+India Private Limited ("the Purchaser") fortransfer ofits'Video solutions, Access and Intrusions andCommunication systems"
+Business (Specified Business) with carrying value ofnetassets ofRs.461 million asatSeptember 30,2024, bywayofslump salefor
+theagreed purchase consideration ofRs.5,950 million (along withapurchase price adjustment). Thespecified business isclassified
+under "others" segment inthese unaudited consolidated financial results. TheCompany believes thespecified business does notget
+qualified asaseparate major lineofbusiness under INDAS105:Non current Assets heldforsaleanddiscontinued operations.
+Forandonbehalf oftheBoard of
+Directors ofBosch Limited
+Place :Bengaluru
+Date January 282025/'
+nluru)3j
+.(Guruprasad Mudlapur)
+Managing Director
+
+B. STATEMENT  ON DEVIATION  OR VARIATION  FOR  PROCEEDS  OF PUBLIC  ISSUE,  
+RIGHTS  ISSUE,  PREFERENTIAL  ISSUE, QUALIFIED  INSTITUTIONS  PLACEMENT  ETC. – 
+Not Applicable.  
+ 
+C. FORMAT  FOR  DISCLOSING OUTSTANDING  DEFAULT  ON LOANS  AND DEBT  
+SECURITIES - 
+S. No. Particulars in INR crore  
+1. Loans / revolving  facilities  like cash credit  from  banks  / financial  institutions  
+A Total  amount  outstanding as on date 0 
+B Of the total amount  outstanding,  amount  of default  as on date 0 
+2. Unlisted debt  securities i.e. NCDs  and NCRPS  
+A Total  amount  outstanding as on date 0 
+B Of the total amount  outstanding,  amount  of default  as on date 0 
+3. Total financial  indebtedness of the listed entity including short -
+term  and long -term debt 0 
+ 
+D. FORMAT FOR DISCLOSURE OF RELATED PARTY TRANSACTIONS (applicable only 
+for half -yearly filings i.e., 2nd and 4th quarter) –  Not Applicable.  
+ 
+E. STATEMENT ON IMPACT OF AUDIT QUALIFICATIONS (FOR AUDIT REPORT WITH 
+MODIFIED OPINION) SUBMITTED ALONG - WITH ANNUAL AUDITED FINANCIAL 
+RESULTS (Standalone and Consolidated separately) (applicable only for Annual Filing 
+i.e., 4th quarter) –  Not Applicable.  
+ 
+ 

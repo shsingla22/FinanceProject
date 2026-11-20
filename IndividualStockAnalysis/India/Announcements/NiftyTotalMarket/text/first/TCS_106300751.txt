@@ -1,0 +1,177 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+ 
+TCS/PR/SE/ 18/2025-26 
+ 
+July 15, 2025  
+ 
+National Stock Exchange of India Limited     BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                  Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ TCS & MIT Sloan 
+Management Review Launch New Research Series; Unveil Roadmap for Human -AI 
+collaboration in Enterprises ” which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+ 
+TCS & MIT Sloan Management Review  Launch New Research 
+Series; Unveil Roadmap for Human -AI collaboration in 
+Enterprises  
+ 
+In a series of research papers that span six industries  TCS and MIT SMR  shed light on how generative and 
+predictive AI can be deployed to transform traditional business operations  
+ 
+BOSTON | MUMBAI, July 15, 2025:  Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a global leader 
+in IT services, consulting, and business solutions , has collaborated with MIT Sloan Management Review (MIT 
+SMR ) to launch a new research series  to explore the next phase of human and AI collaboration in large 
+enterprises. As enterprises the world over are proactively investing in deploying AI -led solutions to transform 
+their business operations, this multi -sectoral study deeply examines the new p aradigms that will redefine the 
+use of AI in global enterprise environments.  
+In a series of research articles  covering  the manufacturing ; retail and consumer packaged goods ; banking, 
+financial services, and insurance ; life sciences and health care ; energy, resources and utilities ; and 
+communications, media, and technology  sectors, the study investigates how business leaders are deploying 
+AI-augmented solutions to gain a competitive edge from better decisions. The study on the theme of strategic 
+measurement finds that generative and predictive AI can initiate a transformative change that drives 
+competitive advantage. The year -long research that was conceptualized and executed jointly by MIT SMR  
+and TCS drew insights experts and pioneers from organizations such as Walmart, Meta, Master card, and 
+Pernod Ricard . 
+The research identifies one critical shift: AI is moving from advis er to architect . In simple terms, AI’s value 
+shifts from improving business processes to improving the quality of options to facilitate better decision -
+making. Companies that master this transition are pulling ahead of those still trapped in traditional decision -
+making f rameworks.   
+TCS’ industry expertise in strategizing and supporting large global organizations in their AI -led digital 
+transformation journeys using both generative and predictive AI along with the academic rigor of MIT SMR  
+bring forth new and fresh thinking about using AI to augment and inform Human Intelligence. The 
+collaborative research has revealed the emergence of intelligent choice architectures — a new paradigm 
+where human -centric AI systems proactively participate i n structuring and shaping strategic decisions by 
+generating novel options, predicting outcomes, and guiding choices.  
+Michael Schrage, Research fellow at MIT Sloan's Initiative on the Digital Economy  and report coauthor, 
+said,  “ICAs flip the script. They do not just learn from decisions — they learn how to improve the environment 
+in which decisions are made. That’s not analytics, that’s architecture. ” 
+Ashok Krish, Head, AI Practice, TCS,  said, “ By augmenting human judgment with machine intelligence, ICAs 
+shift AI from task automation to building superior decision environments for complex multi -factorial 
+situations, enabling more trackable, traceable outcomes that ensure accountability. They help align talent 
+development strategies with organizational goals, making it easier to identify and nurture high -potential 
+employees in the AI -era. Ultimately, ICAs foster environments where human judgment and AI work together 
+seamlessly to create connected or ganization intelligence, where smarter and more informed decisions are 
+made.”  
+ 
+Page 2 of 3 
+ 
+Through this new study with MIT SMR , TCS extends its long -standing commitment to understand and uncover 
+new trends in the industry and aid partners in integrating new technologies and frameworks. Over the years, 
+TCS has collaborated with MIT SMR  on industry research about direct -to-consumer enterprises, workforce 
+empowerment, digital inclusion, retailing, and customer experience among others.  Through its collaboration 
+with MIT SMR  and 50 other academic institutions, TCS curates collective intelligence that enterprises can tap 
+into.  
+The sector -specific study provides compelling examples of ICAs in action  to optimize choices, reallocate 
+decision rights, and boost their bottom lines . Organizations using GenAI have helped achieve higher 
+productivity and efficiency and  cut costs while unlocking newer growth opportunities.  
+• In retail , AI enables retailers to both anticipate and address major challenges in turnover, customer 
+personalization, and supply chain management.  For instance, French spirit maker, Pernod Ricard, 
+uses ICAs to test creative designs earlier in the campaign development process, enabling swift testing, 
+refinement, and personalization of content.  Walmart  has found a use for ICAs in its HR department 
+too. It  uses an ICA to identify talent in local stores, expanding options for developing its internal 
+teams.  
+• In manufacturing , hybrid decision -making can help create better choices in product design, supply 
+chain optimization, and other manufacturing processes. For example, Cummins  is exploring how 
+generative AI can simulate extreme scenarios in powertrain design – demonstrating how ICAs can 
+improve resilience and reduce time to market.   
+• In the BFSI  sector , ICAs can help address most pressing challenges across risk management, 
+regulatory compliance, customer experience personalization, fraud prevention, and market 
+adaptation.  For instance,  Mastercard aims to connect ICAs across the onboarding, customer care, and 
+sales functions, to unlock cross -functional insights to improve customer experience and increase 
+operational efficiency.  LibertyGPT (Liberty Mutual’s Open AI application) has helped employees save 
+over 200,000 hours in 2024. The capability finds answers to questions and summarizes vast amounts 
+of information.  
+• In communications, media and technology , AI and ICAs can  help  identify, evaluate, and act on more 
+valuable opportunities . For example, British telecommunications company BT developed  Aimee , an 
+AI-driven assistant , who is part of  60,000 customer conversations weekly, handling about 50% of 
+interactions about  product or billing questions on its own and augments BT advisers on the other half. 
+Tech major,  Meta’s ICA framework allows internal teams to make data -informed product decisions 
+faster, experiment with new business models, and optimize user engagement strategies.  
+• In the life sciences and  health  care sector , human -centric AI can have far reaching impact on drug 
+discovery, trials, diagnostics, and patient care.  T he study found that ICAs combined with scientists 
+can transform drug research, prioritizing drug candidates with a higher probability of success, 
+reducing time for drug discovery by 20% to 30% and lowering the related costs by 30% to 40%.  
+Organizations embracing ICAs do not just automate decisions, they design how they govern decision 
+environments. Resulting decisions that are faster, smarter, more accessible, and more accountable. Both 
+human and machine agency are clearly defined, auditabl e, and aligned with purpose . David Kiron, editorial 
+director at MIT Sloan Management Review , said,  “This isn’t AI as co -pilot . This is AI and humans working 
+together as architects to redesign how people perceive, weigh, and act on choices. ” 
+ 
+Page 3 of 3 
+ 
+Sankaranarayanan Viswanathan , VP & Head of Business Innovation Corporate Technology Office, TCS, said,  
+“The real challenge for enterprises isn’t just making better decisions —it is recognizing that decisions are 
+merely the outcome of the choices they privilege or overlook. What we need are systems that foster intelligent 
+choice architectures —enabling the org anization to see, understand, and act with awareness. Accountable AI 
+demands clarity not only in outcomes, but in the choices considered, the priorities weighed, and the trade -
+offs accepted. Without this, intelligent systems will silently assume decision -making authority — often 
+without oversight or recourse.”  
+TCS is uniquely positioned to help enterprises navigate this new paradigm where business leaders will need 
+to rethink policies and redesign decision making. It  has been the partner of choice for numerous businesses 
+taking the AI plunge especially when they are generally positive about the impact of AI, less certain about the 
+path to transformation. With its suite of AI -led solutions TCS has been supporting compa nies across sectors 
+seamlessly augment human insight and with algorithms. Recently, TCS enhanced its GenAI aggregator 
+platform – TCS AI WisdomNext ™2.0 – with agentic capabilities. It was also recognized as the NVIDIA Rising 
+Star Consulting Partner of the Year Award for AI Innovation and Excellence at GTC 2025.  
+ 
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner of choice for 
+industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of 
+innovation, engineering excellence and customer service.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its 
+employees, and the community at large. With a highly skilled workforce of 613,069 consultants in 55 countries and 202 
+service delivery centers across the world, the company has been recognized as a top employer in six continents. With 
+the ability to rapidly apply and scale new technologies, the company has built long term partnerships with its clients – 
+helping them emerge as perpetually adaptive enterprises. Many of these relationships have endured into decades and 
+navigated every technology cycle, from mainframes in the 1970s to Artificial Intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New York City 
+Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, sustainability, and 
+community empowerment.  
+ 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025.  For more 
+information, visit  www.tcs.com  
+ 
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS Media Contacts:  
+  
+Corporate Communication & India   Email:  corporate.communications@tcs.com  
+Email: saxena.kritika@tcs.com  | Phone: +91 22 6778 9999  
+Email: Shreya.bhandary@tcs.com  | +91 22 6778 9098  
+USA   Email:  andrew.corcione@tcs.com  | Phone: +1  646 617 8221  
+ 

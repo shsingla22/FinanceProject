@@ -1,0 +1,178 @@
+ 
+   
+ 
+ 
+ 
+April 9, 2026  
+                            
+ 
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400 001. 
+Scrip Code : 500400                 National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra -Kurla Complex,  
+Bandra (East)  
+Mumbai – 400 051.  
+Symbol : TATAPOWER   
+ 
+Dear Sir/Madam , 
+ 
+Sub.: Press Release  
+ 
+Please find enclosed the press release titled “Tata Power Collaborates with Databricks to Build Future -
+Ready Data and AI Platform to Accelerate Energy Transition ”.  
+ 
+This is for yo ur reference and records and  is not a  disclosure in terms  of the requirements of  
+Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.  
+ 
+Yours Sincerely , 
+ For The Tata Power Company Limited  
+ 
+ 
+ 
+ 
+                                                            Vispi S. Patel  
+Company Secretary  
+FCS 7021   
+ 
+ 
+ 
+Encl: As above  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Press Release  
+ 
+Tata Power Collaborates with Databricks to Build Future -Ready Data 
+and AI Platform to Accelerate  Energy Transition  
+ 
+ 
+ 
+Left to right:   Kamalkanth  Tummala, Managing Director –India, Databricks; Nick Eayrs, VP Field Engineering –APJ, 
+Databricks; and Dr. Praveer Sinha, CEO & M anaging Director , Tata Power, at the announcement of the Databricks  and 
+Tata Power partnership to build a future -ready data and AI platform to accelerate the energy transition across Tata 
+Power’s business clusters.  
+ 
+National , April  9, 2026:  The Tata Power Company Limi ted (Tata Power ), one of India’s largest 
+integrated power companies and a part of the Tata Group, today announced the enterprise -wide 
+adoption of the Databricks  platform to accelerate its data and AI transformation across all 
+business clusters - driving enhanced operational efficiency, smarter decision -making  and scalable 
+digital innovation.  
+ 
+As Tata Power advances its transformation in line with the energy transition - spanning renewable 
+integration, smart grids, and an expanding B2C portfolio - the company is building a future -ready 
+data and AI platform to power its next phase of growth. This  unified platform will enable intelligent 
+grid management, advanced power planning and optimisation, improved billing and collection 
+efficiencies, accurate renewable forecasting, and operational excellence across solar 
+manufacturing and rooftop businesses  while delivering a seamless, single -view customer 
+experience.  
+
+ 
+ 
+To support this vision, Tata Power is leveraging Databricks to establish a modern data foundation 
+that goes beyond traditional warehouses and fragmented analytics systems. Designed to process 
+data at scale and enable near real -time insights, it will also support advanced analytics, AI and  
+agents - underpinned by the governance and security of the Databricks platform. With Databricks, 
+Tata Power can unify data engineering, analytics, and AI on a single, scalable platform, integrating 
+edge, operational, and enterprise data, eliminating silos , and accelerating insight -led decision -
+making across the organisation.  
+ 
+A key highlight of this transformation is the adoption of  Genie , Databricks’ AI agent that lets any 
+employee talk to their data and get trusted answers instantly. With its natural language interface, 
+Genie redefines how organisation  access enterprise data to quickly generate insights, 
+dashboards, and analytics and make better decisions, faster.  
+ 
+Dr. Praveer Sinha, CEO & Managing Director , Tata Power said, “This partnership with 
+Databricks marks a key milestone in our journey to build a future -ready, intelligent energy 
+ecosystem. By leveraging the power of data and AI , we are strengthening our digital foundation 
+to drive smarter operations, accelerate renewable integration, and deliver more agile, customer -
+centric solutions while contributing to a resilient and sustainable power sector.”  
+ 
+Tata Power is reshaping customer energy behaviour across residential,  commercial, and 
+industrial segments - an essential lever in accelerating the energy transition. Customers are 
+increasingly evolving into active energy participants, not just consumers, optimising their energy 
+usage while contributing to greater grid flexib ility, enhanced efficiency, and a more sustainable 
+energy ecosystem.  
+ 
+“The energy sector is undergoing a profound transformation, and data and AI is at the heart of 
+that change. Together, Databricks and Tata Power are building a unified and scalable platform 
+that brings together data, apps, analytics, and AI agents - enablin g faster innovation and more 
+resilient, data -driven energy systems. This empowers Tata Power to optimize energy distribution, 
+and drive smarter, more sustainable decision -making at scale ” said Nick Eayrs, Vice President 
+of Field Engineering for Asia Pacific and Japan at Databricks.  
+ 
+“Tata Power’s decision to standardize on Databricks underscores the growing importance of data 
+and AI in transforming the energy sector. As they build a unified, enterprise -wide platform, we are 
+excited to support their journey toward smarter, more efficie nt operations. This also reflects the 
+strong momentum we are seeing in India, where enterprises are rapidly scaling AI to drive 
+innovation and measurable outcomes ” said Kamalkanth Tummala, Managing Director for India 
+at Databricks.  
+ 
+Tata Power aims to consolidate enterprise data on the Databricks platform, creating a strong 
+foundation for new initiatives and next -generation AI applications. In the medium term, this future -
+ready platform will enable self -service analytics, “talk -to-data” capabilities, and the 
+democratisation of data and AI - driving faster, insight -led decision -making across the 
+organisation.  
+ 
+To bring this vision to life, Tata Power will build a robust data infrastructure by leveraging the 
+platform’s capabilities, anchored by its internal Centre of Excellence and strengthened through a 
+strategic partner ecosystem.  
+ 
+ 
+ 
+ 
+About Tata Power  
+ 
+Tata Power, a part of the Tata Group, is one of India’s largest integrated power companies with a diversified portfolio spann ing power 
+generation, transmission, distribution, trading, renewable energy, storage solutions, and solar manufacturing. The Company has a 
+diversified portfolio of over 16 GW with a rapidly growing share of clean energy and is committed to achieving Net Zero befor e 2045. 
+To learn more, follow Tata Power on LinkedIn , X, YouTube , and Instagram  or visit www.tatapower.com . 
+ 
+About  Databricks  
+ 
+Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&T, Bayer, Block, 
+Mastercard, Rivian, Unilever, and over 60% of the Fortune 500 — rely on Databricks to build and scale data and AI apps, analytics 
+and ag ents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes 
+Lakebase, Genie, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on LinkedIn , X, YouTube , 
+and Instagram . 
+ 
+Disclaimer:  
+ 
+The following press release/announcement may contain forward -looking statements within the meaning of applicable securities laws 
+and regulations. These statements are based on management's current views, expectations, assumptions, and projections regardi ng 
+the Company's  future  performance,  business  plans,  growth  prospects,  competitive  and regulatory  environment,  and other  related  
+matters.  Such forward -looking statements are subject to various risks and uncertainties, which may cause actual results to differ 
+materially from those expressed  or implied  in the statements.  Factors  that could  cause  actual results  to differ  materially  from those  
+contemplated in  the forward -looking statements are not limited to changes in economic conditions affecting demand/supply and price 
+conditions in the domestic and overseas markets in which the Company operates, alterations in the business environment, 
+fluctuations in Governmen t regulations, laws, statutes,  judicial  pronouncements,  and other  incidental  factors.  The Company  does 
+not undertake  any obligation  to publicly  update  or revise any forward -looking statements based on subsequent events, information, 
+or developments, except as required by applicable laws and regulations.  
+ 
+ 
+For further  information,  please  contact:  
+ Jyoti Kumar  Bansal,  Chief  – Branding  & Communications,  Tata Power  
+ Email:  jyotikumar.bansal@tatapower.com        
+ 
+ Siddharth  Gaur  – Head  Public  Relations,  Tata Power  
+ E-mail: siddharth.gaur@tatapower.com     Adfactors  PR: 
+Siddharth  Kumar   
+9902929187  
+ 
+Email: siddharth.kumar@adfactorspr.com    
+ 
+ 
+ 
+ 
+ 
+ 

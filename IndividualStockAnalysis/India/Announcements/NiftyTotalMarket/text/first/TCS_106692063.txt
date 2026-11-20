@@ -1,0 +1,285 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+ 
+TCS/BM/ 55/SE/2026- 27 
+ 
+July 9, 2026 
+ National Stock Exchange of India Limited    BSE Limited  
+Exchange Plaza, C -1, Block G, Bandra Kurla  P. J. Towers,      
+Complex, Bandra (East)      Dalal Street,  
+Mumbai -  400051                                                              Mumbai -  400001    
+Symbol -  TCS                                                              Scrip Code No. 532540 
+    
+ Dear Sirs,  
+ Sub:    Press Release  
+ Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are enclosing herewith a copy of a Press Release which will be disseminated shortly. The Press Release is self -explanatory.  
+ 
+The above information is also available on the website of the Company: www.tcs.com   
+ Thanking you,  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388 
+ 
+Encl:  As above  
+ 
+ 
+ 
+Page 1 of 11 
+ 
+   
+Ind-AS & IFRS ₹ 
+ 
+ 
+TCS begin s FY27 with continued growth ; wins multiple  AI transformation deals  
+ 
+ 
+- Q1 Revenue at ₹72,275  crore ; Growth +2.2% QoQ , +13.9 % YoY in INR, +0.4% QoQ in CC  
+ 
+- Annualized AI Revenue at US$ 2.6 billion  in Q1FY27, up 13.6% QoQ  
+ 
+- Operating Margin at 24.0 %*; Net Margin at 19.2%*  
+ 
+- Q1 Total Contract Value (TCV):  US$ 9.5 billion  
+ 
+- Signs  net-new AI-led business transformation deal s 
+o US$ 800 million  mega deal with SKF 
+o Multi-million $  strategic partnership agreement  with ServiceNow  
+o Multi -million $ with  Europe -based Fortune Global 50  
+ 
+MUMBAI, July 9, 202 6: Tata Consultancy Services (BSE: 532540, NSE: TCS) reported its consolidated financial 
+results according to Ind AS and IFRS, for the quarter ending June  30, 202 6. 
+ 
+Highlights of the Quarter Ended June 30, 202 6  
+ 
+• Revenue at ₹72,275  crore , +2.2% QoQ , +13.9%  YoY 
+• Operating Margin at 24.0 %*  
+• Net Income at ₹13,8 49 crore *, +8.5% YoY* | Net Margin at 19.2%*  
+• Net Cash from Operations at ₹12,412  crore  i.e. 93% of Net Income  
+• Workforce strength: 593,798 ; LTM Attrition  (IT Services):  13.6%   
+• Dividend per share: ₹12 per share | Record date 15-Jul-2026  | Payment date 31-Jul-2026  
+* Excludes exceptional items  
+ 
+K Krithivasan, Chief Executive Officer and Managing Director, said “Q1 FY27 reflects continued growth 
+momentum and the strength of our strategic positioning , despite geopolitical and macro -economic 
+headwinds . We delivered a strong order book of $9.5 billion, including a marquee  AI-led transformation deal 
+with SKF, while continuing to add clients across key revenue bands and scaling our AI business to a $2.6 billion 
+annualized revenue run rate. As customers accelerate investments in AI, modernization, cybersecurity, 
+sovereign clo ud and platform simplification, our strong deal conversion, improving client mining  and 
+expanding ecosystem partnerships position TCS well to translate opportunity into sustained growth ”. 
+ TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 2 of 11 
+ 
+ 
+Aarthi Subramanian, Executive Director - President and Chief Operating Officer, said “Q1 was characterized 
+by strong growth across several services. We won multiple AI -led transformation deals with our dual 
+commitment to AI -led optimization as well  as innovation -led outcomes. These wins validate our approach to 
+AI-led efficient ITOps, accelerated  Software Engineering and Modernization, AI -first process redesign and 
+implementation of SaaS solutions and Autonomous GBS. We signed strategic partnerships with Anthropic and 
+Mistral expanding our AI ecosystem ”.                                                                                                                                               
+                                                                                                                                         
+Samir Seksaria, Chief Financial Officer,  said, “In Q1, we rolled out  annual wage hikes, strengthen ed our 
+partnership ecosystem, and targeted investments to enhance long -term competitiveness. We remain focused 
+on building, acquiring, or partnering for AI -led capabilities while maintaining disciplined execution, industry -
+leading profitability and return ra tios”. 
+ 
+Sudeep Kunnumal , Chief HR Officer, said “This quarter, we completed annual salary increments  for all 
+associates globally  and aligned salary structures with the new  India  Labour Code requirements. We continue 
+to invest in AI  infrastructure , next -generation skill  development platforms , to enable  our people  to be  future -
+ready, while fostering a workplace where every associate feels safe, valued, trusted and empowered to grow” . 
+ 
+ 
+ 
+Q1 FY27 Segment Highlights  
+Growth by Domain  
+Industry  Composition (%)   Q-o-Q 
+ CC 
+Growth  
+ (%) Y-o-Y 
+ CC 
+Growth  
+ (%) Q1 FY26  Q4 FY26  Q1 FY27   
+BFSI  32.0  31.6  32.1   1.6 2.4 
+Consumer Business  15.6  15.7  15.0   - 4.0 - 1.2 
+Life Sciences & Healthcare  10.2  10.4  10.3   - 1.0 3.5 
+Manufacturing  8.7 8.8 8.7  - 0.5 2.9 
+Technology & Services  8.4 8.4 8.5  1.7 3.5 
+Communication & Media  5.8 5.8 5.8  0.3 1.4 
+Energy, Resources and Utilities  5.9 6.3 6.3  - 0.7 6.9 
+Regional Markets & Others  13.4  13.0  13.3   4.0 9.0 
+Total  100.0  100.0  100.0   0.4 3.2 
+ TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 3 of 11 
+ 
+ 
+Growth  by Markets  
+ 
+Geography  Composition (%)  
+ Q-o-Q 
+ CC 
+Growth  
+ (%) Y-o-Y 
+ CC 
+Growth  
+ (%) Q1 FY26  Q4 FY26  Q1 FY27   
+ Americas             
+ North America  48.7 48.5 48.3  - 0.4  2.0 
+ Latin America  1.9 1.9 2.0   0.6 - 2.1 
+ Europe             
+ UK  18.0 17.2 17.2   0.3 - 0.6 
+ Continental Europe  15.0 15.6 15.4  - 0.2  4.3 
+ Asia Pacific  8.4 8.3 8.4   1.4  2.5 
+ India  5.8 6.0 6.2   7.6  22.9  
+ MEA  2.2 2.5 2.5  - 1.8  7.6 
+ Total  100.0  100.0  100.0   0.4 3.2 
+ 
+ 
+Key Highlights  for the quarter  
+• Won a landmark US$800 million  global AI-led business transformation  deal with SKF; redesigning 
+enterprise operations around an intelligent digital core. The program establishes AI as the enterprise 
+nervous system , harmonizing fragmented processes, data, and platforms into a self -learning 
+operational backbone that drives predictive decision -making, autonomous optimization, and 
+enterprise -wide agility at scale. This engagement modernizes SKF’s entire technology landsc ape, 
+positioning the company as an ‘AI-first’ industrial manufacturer while providing global end -to-end 
+managed services encompassing infrastructure, applications, data, and global connectivity.   
+ 
+• Won a deal with  a North American utility major  for its AI -driven utility transformation into a future -
+ready, innovation -led operating model. By embracing AI at scale, the utility major is pioneering the 
+development of an enterprise -wide digital ecosystem spanning grid operations, customer 
+experience, asset management, and workforce enablement, while building a scalable foundation 
+with strong AI governance and lifecycle management.  This partnership involves establishing an 
+Enterprise AI and Data CoE to scale AI governance, data and adoption. We will also deploy Agentic AI 
+for AI -driven IT Ops, Software Engineering and workflows.   
+ 
+• Won a multi -million dollar deal with a Europe -based Fortune Global 50  firm  for transform ing 
+employee experience  and HR operations  using Agentic AI -driven operating model . 
+ TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 4 of 11 
+ 
+• TCS and ServiceNow  have further elevated their strategic partnership to accelerate large -scale AI 
+adoption for enterprises. In a multi -million $ partnership agreement, TCS & ServiceNow will leverage 
+joint go -to-market initiatives and opportunities to drive growth and custom er value . 
+ 
+ 
+• As TCS and ABB  celebrate 20 years of strategic partnership, the companies have further strengthened 
+their collaboration through a new multi -million -dollar Future Network Model engagement. Over the 
+next five years, the AI -enabled program will modernize ABB’s global netwo rk operations through 
+intelligent automation, enhanced cyber resilience, and next -generation managed services, improving 
+operational agility and business continuity while advancing ABB’s digital transformation agenda.  
+ 
+• TCS has been selected by a large U.S. healthcare payer , to accelerate its SRE transformation through 
+an AI first, Agentic Operations model. The new AI led operating model will deliver automated ticket 
+resolution, persistent observability, proactive reliability engineering, and self -healing capabilities in 
+a journey towards autonomous operations . 
+ 
+• Announced a global strategic partnership with Anthropic , to help customers scale enterprise AI 
+adoption. As part of this collaboration, TCS will set up a dedicated Business Unit focused on delivering 
+strong customer value propositions, joint industry solutions, and deep AI expertise on the Claude 
+family of mod els through early access, enabling enterprises to accelerate AI -led transformation and 
+unlock greater business value across industries.  TCS will equip 50,000 associates across engineering, 
+finance, legal, marketing, and sales with Claude through enterprise -wide licensing.  
+ 
+• TCS bec ame the first global systems integrator partner for Mistral’s advanced system for enterprises 
+to build frontier -grade AI models grounded in their proprietary enterprise knowledge and domain -
+specific data , by a nnounc ing a landmark strategic partnership with Mistral  Forge . The partnership 
+combines Mistral’s frontier AI capabilities with TCS’ deep enterprise context, domain knowledge, and 
+engineering excellence to help organisations scale enterprise AI responsibly, with greater speed.  
+ 
+• Announced the launch of Global Value & Innovation Centres  (GVIC)  Business Unit to help enterprises 
+establish AI -native GCCs and transform existing GCCs into a value and innovation -led operating 
+model. The Business Unit will help enterprises build and scale AI -native GCCs, drive transformation, 
+and unlock greater busine ss value as GCCs evolve into strategic engines of growth and innovation.  
+ 
+• Expanded global cloud portfolio with the launch of SovereignSecure Cloud ™ in Europe . This offering 
+combines sovereign cloud architecture with AI capabilities for governments, public sector 
+enterprises, and regulated industries.  
+ 
+• Signed MoUs with Siemens Energy AG  and Siemens Energy India  to strengthen collaboration across 
+digital, IT services, and industrial AI, including data center technologies. The partnership aims to drive 
+innovation, enhance resilience, and support sustainable growth in the energy sector.  
+ 
+• Expanded strategic  partnership with Google Cloud  to help enterprises adopt  AI-native , autonomous 
+operating models. This collaboration will support deploying and managing agentic and autonomous 
+AI systems that enable faster decision -making across complex business and IT functions, without 
+adding operational risk or complexity.  TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 5 of 11 
+ 
+ 
+• A leading US grocery retailer  has expanded its strategic partnership with TCS to drive operations 
+reliability for customer experience, merchandising, and fulfilment. Building on a strong foundation 
+of delivery excellence and anchored in an AI -first operating model, TCS will leverage a  digitized 
+operations platform with intelligent -automation, virtual assistants, predictive analytics, and self -
+healing capabilities to drive resilience, scalability, and operational efficiency at scale. This will 
+enhance fulfilment performance, optimize th roughput, and improve customer satisfaction while 
+delivering sustained operational efficiencies.  
+ 
+• Selected by a leading US specialty retailer  as the strategic partner to modernize & transform the 
+enterprise -wide IT landscape. Leveraging an AI -first Machine First ™ delivery model spanning 
+applications, data, infrastructure, and service desk, TCS will enable hyper -automation, cloud -native 
+agility, secure and resilient operations. This transformation will deliver significant productivity gains, 
+improve incident resolu tion, and establish a scalable, high -availability technology foundation to 
+support the retailer’s long -term business growth and digita l transformation objectives.  
+ 
+• Chosen by a global fashion retailer , as the strategic partner to drive enterprise -wide IT 
+transformation, consolidating the current multi -vendor landscape.  TCS will leverage TCS Cognix ™, 
+Machine First ™ and TCS Cloud Exponence, to establish an AI -first, unified, engineering -led operating   
+model that enhances resilience, security, and service reliability while reducing technology debt.  This 
+transformation will create a future -ready digital foundation that accelerates business agility, enables 
+data -driven decision -making, improves customer ex periences, and supports the retailer's global 
+expansion and long -term growth ambitions . 
+ 
+• Collaborated  with Tottenham Hotspur Football Club , as the Club’s Digital Transformation Partner 
+across fan engagement, operations, and its digital ecosystem.  This partnership will move the Club 
+from world -class infrastructure to a genuinely connected ecosystem, driving innovation across 
+operations and performance intelligence , along with creating more intuitive user experiences across 
+all platforms .  
+ 
+• Expanded long -standing partnership with Euroclear Group  to drive the next phase of transformation 
+for Sweden’s Central Securities Depository (CSD). As part of this initiative, Euroclear Sweden will 
+deploy TCS BaNCSTM for Market Infrastructure and QuartzTM to build a resilient, future -ready, and 
+scalable CSD platform aligned with European market standards.  
+ 
+• Expanded collaboration with Oracle  by launching India’s first Oracle AI Data Platform Lab and Center 
+of Excellence (CoE) in Kolkata, with plans to scale across additional cities to drive AI -powered 
+enterprise transformation.  
+ 
+• Won a flagship AI -led Engineering IT transformation program with Hager , establishing a services 
+model spanning Engineering, Applications, Edge and Cloud ecosystems. By embedding intelligence 
+into operational workflows, the program would create an optimizing platform, proactive service 
+management, and scalable digital foundat ion, which would enhance resilient engineering operations 
+and enable innovation.  
+ 
+ TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 

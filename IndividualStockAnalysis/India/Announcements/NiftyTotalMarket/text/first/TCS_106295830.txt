@@ -1,0 +1,289 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672 e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+ 
+ 
+TCS/BM /66/SE/2025- 26 
+ 
+July 10, 2025 
+ 
+National Stock Exchange of India Limited    BSE Limited  
+Exchange Plaza, C -1, Block G,                          P. J. Towers,                     
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai -  400051                                                              Mumbai -  400001    
+Symbol -  TCS                                                             Scrip Code No. 532540 
+    
+ Dear Sirs,  
+ Sub:  Press Release  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are enclosing herewith a copy of a Press Release which will be disseminated shortly. The Press Release is self -explanatory.  
+ The above information is also available on the website of the Company: www.tcs.com   
+ Thanking you,  Yours faithfully,  
+For Tata Consultancy Services Limited   
+  
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388 
+ Encl: As above  
+ 
+ 
+  
+ 
+Page 1 of 13 
+ 
+  Ind-AS & IFRS ₹ 
+ 
+Robust Order Book and Operational Resilience  mark TCS’ Q1  
+ 
+- Q1 Revenue at ₹63,437  crore ; Decline  of 3.1%  YoY in CC  
+ 
+- Operating Margin at 24.5 % 
+ 
+- Net Margin at 20.1 %, up 90 bps  YoY 
+ 
+- Q1 Total Contract Value (TCV):  US$9.4 billion  
+ 
+- Net Headcount addition of 6,071  YoY; LTM Attrition at 13.8 % 
+ 
+MUMBAI, July 1 0, 202 5: Tata Consultancy Services (BSE: 532540, NSE: TCS) reported its consolidated 
+financial results according to Ind AS and IFRS, for the quarter ending June  30, 202 5. 
+ 
+Highlights of the Quarter Ended June 30, 2025  
+ 
+• Revenue at ₹63,437 crore , +1.3%  YoY, Decline of 3.1% YoY in Constant Currency  
+• Operating Margin at 24.5 %; an expansion of 30 bps  QoQ   
+• Net Income at ₹12,76 0 crore , +6.0% YoY | Net Margin at 20.1 %  
+• Net Cash from Operations at ₹12,80 4 crore  i.e. 100.3 % of Net Income  
+• Workforce strength: 613,069  | Net Headcount addition of 6,071 YoY  
+• LTM IT Services attrition rate at 13.8 %  
+• Dividend per share: ₹ 11 | Record date 16-Jul-2025  | Payment date 04-Aug-2025  
+ 
+K Krithivasan , Chief Executive Officer and Managing Director, said “The continued global macro -economic 
+and geo -political uncertainties  caused a demand contraction . On the positive side, all the new services grew 
+well.  W e saw  robust deal closures during this quarter . We remain closely connected to our customers to 
+help them navigate the challenges impacting their business, through  cost optimization, vendor consolidation 
+and AI -led business transformation ”. 
+ 
+Aarthi Subramanian, Executive Director - President and Chief Operating Officer , said “Across industries, 
+clients are increasingly shifting their focus from use case based approach to ROI led scaling of AI.  We are 
+investing across the AI ecosystem including infrastructure, data platform solutions,  AI agents  and business 
+applications . Launch ing TCS SovereignSecureTM Cloud , TCS DigiBOLTTM, and TCS Cyber Defense Suite , to 
+accelerate India’s AI led transformation  was a particular highlight of th is quarter ”. 
+ 
+Samir Seksaria, Chief Financial Officer,  said, "We continued our investments in long term sustainable growth 
+this quarter. We stayed agile and adapted to the dynamic environment, delivering steady margins. Our 
+industry  leading profitability alongside robust cash conversion, positions us well to make strategic 
+investments for the future” . TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 2 of 13 
+ 
+ 
+Milind Lakkad , Chief HR Officer, said “Talent Development is core to TCS. In this quarter, our associates 
+invested 15 million hours in building expertise in emerging technologies, enabling them to lead the 
+transformation journey for our customers. It is gratifying to note that TCS now has  114,000 people with 
+higher order AI skills ”. 
+ 
+ 
+Q1 FY26  Segment Highlights  
+Growth by Domain  
+Industr y Composition (%)  Y-o-Y 
+CC Growth 
+(%) Q1 FY25 Q1 FY26 
+BFSI  30.9  32.0  1.0 
+Consumer Business  15.4  15.6  -3.1 
+Life Sciences & Healthcare  11.0  10.2  -9.6 
+Manufacturing  8.8 8.7 -4.0 
+Technology & Services  8.1 8.4 1.8 
+Communication & Media  6.2 5.8 -9.6 
+Energy, Resources and Utilities  5.6 5.9 2.8 
+Regional Markets & Others  14.0  13.4 -8.6 
+Total  100.0  100.0  -3.1 
+ 
+Growth  by Markets  
+Geography  Composition (%)  Y-o-Y 
+CC Growth 
+(%) Q1 FY25 Q1 FY26 
+Americas     
+    North America  49.5  48.7  -2.7 
+    Latin America  1.9 1.9 3.5 
+Europe     
+   UK 16.9  18.0  -1.3 
+   Continental Europe  14.4  15.0  -3.1 
+Asia Pacific  7.8 8.4 3.6 
+India  7.5 5.8 -21.7  
+MEA  2.0 2.2 9.4 
+Total  100.0  100.0  -3.1 
+  TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 3 of 13 
+ 
+Services  
+In this quarter, clients prioritized scaling AI across the enterprise, transforming contact centers, optimizing 
+costs, and improving cyber defense capabilities.  
+ 
+The growth for the quarter was led by AI & Data, TCS Interactive, and Cyber Security.  
+ 
+Win themes across key deals involved operating model transformation, vendor consolidation, AI powered 
+intelligent automation, and SAP S4/HANA based transformation deals.  
+ 
+AI and Data : 
+This quarter, the AI and Data unit delivered  robust growth, with enterprises advancing from pilots to scaled 
+GenAI deployments. Demand was led by  AI-led transformation, SDLC/IT -Ops automation, and data -platform 
+modernization. Our investments in WisdomNext ™, TCS’ flagship AI platform are expanding with the addition 
+of agentic AI capabilities. Strategic partnerships expanded, and our AI workforce with higher order skills 
+exceeded 11 4,000 , strengthening our leadership position in enterprise AI solutions.  
+ 
+Cloud : 
+This quarter, we reorganized this unit to bring together public cloud, Infrastructure Services and TCS Cloud 
+to strengthen our hybrid cloud proposition. We continued to see traction in Cloud Contact Centre 
+transformation, legacy modernization to cloud, and Cognitive Enterprise Network Services. We further 
+strengthened our strategic partnership with Microsoft to develop new AI and cloud solutions that will help 
+clients drive future business transformation and growth.  
+ 
+Cyber Security : 
+This quarter the focus of our customers has been on Identity and Access Management, Managed Detection 
+& Response (MDR) and Governance, Risk & Compliance Services. We are also seeing traction for Enterprise 
+Attack Surface Management, Cloud Security, Data Se curity and Network Security. Focus on GenAI observed 
+across various customers.  
+ 
+Enterprise Solutions : 
+Clients are increasingly investing in streamlining their business workflows and modernizing their digital core 
+by adopting AI powered SaaS platforms. This quarter, Technology Services, Manufacturing and Healthcare 
+industry units led growth. For a global ph armaceutical company, we successfully designed and harmonized 
+end to end processes with SAP S/4HANA to create a resilient backbone across businesses globally. Our 
+partnership with Vianai saw good traction with clients across industries this quarter.  
+ 
+IoT & Digital Engineering : 
+IoT & Digital Engineering unit has seen increasing client investments  in plant transformation initiatives and 
+connected IoT platforms. Industry groups like Utilities, Energy and Life Science segments saw greater activity. 
+Amongst service lines, smart manufacturing and digital thread services saw a positive movement in 
+conti nuation with previous trends. We have seen strong traction across LATAM and Europe during the period.  
+ 
+Cognitive Business Operations : 
+We saw strong deal wins involving large transformative engagements across customer experience, HR, and 
+finance operations. The successful deployment of AI in business, highlights growing enterprise interest in 
+autonomous operations. We are making good progress in building Agentic AI solutions across key business 
+processes.  TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 4 of 13 
+ 
+ 
+TCS Interactive : 
+This quarter, businesses focused on operational excellence and innovation, harnessing data and AI for better 
+performance. TCS Interactive advanced customer experience and marketing through “Creative Engineering 
+powered by AI.” Demand for AI -driven marketin g, analytics, and proactive digital solutions continues to rise, 
+highlighting TCS’s adaptability and leadership. TCS TwinX AI powered marketing campaign solution 
+successfully increased 5x foot -traffic and 2x revenue for a global automobile company.  
+ 
+Key Highlights : 
+• A leading consumer electronics retailer  is partnering with TCS to drive its strategic vision of GenAI 
+enablement at scale for reimagining business processes to be leaner and increasingly autonomous. 
+Leveraging AI WisdomNext ™, TCS will establish a cost -effective, secure, and scalable GenAI ecosystem 
+with a strong data foundation, robust architecture, composable building blocks & self -serve apps, 
+foundational agentic architecture for self -learning automation & multi -agent collaboration, a nd 
+frameworks for observability, guardrails and governance. This Enterprise AI Portal will democratize & 
+accelerate rapid prototyping, insights driven smart decisions, enhance content, empower teams and 
+pave the way for better customer experiences and a Re sponsible AI -driven future.  
+• Expanded strategic partnership with a European headquartered global Life Sciences company  for its S/4 
+Hana led business transformation program. TCS has been part of the program since its inception and 
+working on the global template and pilot rollout. In the quarter gone by, the client extended its 
+partnership with TCS by selecting TCS for desi gn, build & deployment activities across 80 countries.  
+ 
+• Partnered with IBM to advance quantum algorithm and application development by playing a critical role 
+in the Quantum Valley Tech Park  in India. TCS will utilize the IBM system internally to conduct applied 
+research and innovation across various sectors, including life sciences, materials science, cryptography, 
+energy optimization, supply chain resilience, and sustainable manufacturing. Additionally, TCS will 
+facilitate cloud access to IBM’s quantum computers for Indian scientists, technologists, and industry 
+partners, thereby helping to accelerate the country's quantum ecosystem development.  
+ 
+• Partnered with a  large Canadian Bank for Enterprise Data Transformation and Management. This multi -
+year deal encompasses legacy modernization of data estate (Hadoop decommissioning) to AWS Cloud 
+along with broader finance transformation. This endeavour also involves unified data model and data 
+quality framework as a part of the over cloud program. The overall program enables nimble finance IT 
+operations and catalyzes  data enabled organization.  
+ 
+• A leading global energy equipment manufacturer  has selected TCS to run cloud operations for their 
+extensive portfolio of business -critical enterprise ECC and S/4 systems. TCS will ensure zero disruption 
+during transition through its proven service transition methodology and deep regional expertise acr oss 
+various geographies. TCS will help their systems become future -ready by enhancing operational stability 
+and continuity as well as deliver 30% increased productivity and 20% faster resolution times.  
+ 
+• Collaborated  with Vianai Systems , a leading provider of enterprise -grade, domain -specific generative AI 
+applications, to empower business leaders with cutting -edge GenAI tools for decision intelligence. 
+Through this collaboration, TCS customers will gain access to Vianai’s hila platform –a next -gen solution 
+that enables C -suite executives to ask questions and gain real time insights from their data repository. By 
+combining natural language interactions with advanced data analytics, hila helps decision -makers across TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 
+ 
+Page 5 of 13 
+ 
+finance, supply chain, and sales leverage GenAI to unlock the true value of their enterprise data —without 
+needing deep technical expertise.  
+ 
+• Partnered with ICICI Securities to modernize its industry,  leading retail trading and brokerage platform , 
+by deploying  the trading solution of TCS BaNCSTM, a market leader in the Indian brokerage segment . TCS 
+will help ICICI Securities to improve the agility of its platform and provide customers with an intuitive, 
+state -of-the-art trading and wealth creation experience tailored to evolving market demands , and also 
+enhance their key brokerage functions, connectivity to  major exchanges, online risk management, 
+clearing and settlement, corporate actions, customer management and contr acting . 
+ 
+• TCS has partnered with Jazeera Airways , Kuwait’s leading low -cost carrier, to drive the next phase of its 
+digital transformation. By leveraging TCS’ expertise in agentic AI and platform engineering, Jazeera 
+Airways aims to unlock new revenue streams, enhance its digital channels, and deliver h yper -
+personalized customer experiences, positioning itself at the forefront of innovation and customer -centric 
+transformation in the aviation sector.  
+ 
+• Expanded the strategic partnership with a leading global insurer  to help the latter modernise  their core 
+life insurance systems with the power of AI. As part of the partnership, TCS will enable the firm to embed 
+next -gen AI solutions into their underwriting and pricing systems. This will result in reduced underwriting 
+cycle time, increased consist ency, and robust risk assessments with intelligence -driven decision -making 
+capabilities. In addition, the AI -led transformation is expected to drive substantial cost savings, as nimble 
+operations and elevated customer experience will set the organization o n the path of accelerated 
+growth.  
+• Partnered with Salling Group  to drive sustainability, technology innovations and improve organizational 
+efficiency, to cover Salling Group’s 2,100 stores, brands and 68,000 employees globally, and help them 
+in their cloud adoption journey, stabilization of operations to drive more ag ility, scalability and 
+sustainability. Additionally, TCS will support the retail group’s digital transformation, focusing on 
+enhancing the e -commerce platform to be more responsive to the evolving consumer demands.  
+ 
+• TCS expanded its two -decade long strategic partnership with Virgin Atlantic , to accelerate its digital 
+transformation journey. TCS will modernize Virgin Atlantic’s core technology operations by implementing 
+a cloud -first, AI powered digital core that enhances business agility, improves resilience of systems, and 
+allows for higher  scale of operations.  
+ 
+• TCS announced the expansion of its capabilities in the rapidly evolving Software -Defined Vehicles (SDV) 
+space and sets up two new Automotive Delivery Centers in Germany – located in Munich and Villingen -
+Schwenningen  as well as an engineering center in Romania . These new hubs mark a strategic move to 
+help TCS’ global automotive clients accelerate their transition to next -gen mobility solutions.  
+ 
+• Kingfisher Plc , a leading home improvement retailer in the UK and Europe, has further solidified its 15 
+years of strategic partnership by extending the collaboration with TCS. This comprehensive agreement 
+covers IT application and infrastructure support services for ove r 1,900 stores across seven countries, 
+serving more than 74,000 business users. TCS will revamp the operating model into a Product and 
+Platform framework, thereby enhancing efficiency and resilience through the integration of automation 
+and artificial inte lligence. This initiative highlights the unwavering commitment of both organizations to 
+continuous innovation while effectively reducing operating costs. This initiative also sets the right TATA 
+CONSULTANCY 
+SERVICES G 
+TATA 
+For immediate use Press Release 

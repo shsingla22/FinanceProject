@@ -1,0 +1,155 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December  06, 2024  
+ 
+The Manager  - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager  - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+   
+The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  
+ 
+Dear Sir/Madam,   
+ 
+Sub: Press Release  
+ 
+Please find attached herewith copy of the Press Release which is being released today.  
+ 
+Thanking you,  
+ 
+For Wipro Limited  
+ 
+ 
+ 
+ 
+M Sanaulla Khan  
+Company Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Wipro and SIAM.AI Build AI Assistant for Tourism Authority of 
+Thailand with NVIDIA AI  
+  
+BANGKOK | BENGALURU, India – Dec. 06, 2024 : Wipro Limited (NYSE: WIT, BSE: 507685, 
+NSE: WIPRO), a leading technology services and consulting company, today announced a 
+collaboration with SIAM.AI, a member of the NVIDIA Cloud Partner program  in Thailand .              
+The companies will leverage NVIDIA accelerated computing and software to develop an                
+AI-powered digital assistant for the Tourism Authority of Thailand. This collaboration will utilize 
+infrastructure, data and networks within the country, advancing Thailand’s sovereign                         
+AI objectives.    
+  
+The AI -powered virtual assistant, ‘Suk jai’—powered by the NVIDIA AI Enterprise  software 
+platform, SIAM.AI and Wipro’s Enterprise Generative AI (WeGA) Studio —will provide domestic 
+and international travelers with personalized, up -to-date, and timely information to deliver highly 
+tailored experiences, while enabling the Tourism Authority to seamlessly service a growing 
+number of tourists.   
+  
+Specifically, ‘Suk jai’ will provide 24/7 support and information on things such as transportation 
+guidelines and schedules, destinations and lodging availability, recommended activities based on 
+interest, and crowd flow information at top attractions, etc. It will offer custom ized 
+recommendations based on individual preferences and include info on emergency services as 
+well as safety and security alerts.  
+  
+Vinay Firake, CEO, Asia Pacific, Middle East and Africa (APMEA), Wipro Limited , said, “We 
+are excited to collaborate with SIAM.AI and utilize NVIDIA's technology to transform the tourism 
+experience in Thailand. This initiative highlights our deep expertise and investments in delivering 
+highly customized AI solutions, designed to achieve the unique objectives of our clients. With the 
+expected increase in sovereign AI initiatives across geographies, this collaboration with SIAM.AI 
+and the Thai government mark s an important milestone in bringing such services to a broader set 
+of clients  across markets .”  
+  
+Ratanaphon Wongnapachant, CEO, SIAM.AI Cloud , said, “Our collaboration with Wipro 
+exemplifies how we're bringing together global expertise and local knowledge to serve Thailand's 
+digital future. Through this partnership, we're leveraging NVIDIA's advanced AI infrastructure 
+while maintaining our commitment to data sovereignty and local value creation. This initiative 
+demonstrates how Thailand can work with global leaders while maintaining control of our                
+AI destiny and advancing our position as a key player in Southeast Asia's AI landscape.”  
+  
+ 
+
+ John Fanelli, Vice President of Enterprise Software, NVIDIA , said, “Created by Wi pro and 
+SIAM.AI with full -stack NVIDIA AI software and accelerated computing, the ‘Sukjai’ large 
+language model will provide a foundation for Thailand to build AI applications that the nation’s 
+enterprises and small business owners can use to enhance travel experiences and open up new 
+economic opportunities .” 
+  
+‘Sukjai’ will initially provide services in Thai and English. Wipro will continue to train the underlying 
+models with the NVIDIA NeMo  platform based on user feedback, creating ever -more elevated 
+and seamless experiences. The virtual assistant will be built based on responsible AI principles, 
+such as transparency, data privacy, and human oversight, leveraging Wipro’s Responsible AI 
+framework . 
+ 
+About Wipro Limited   
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and 
+consulting company focused on building innovative solutions that address clients’ most complex 
+digital transformation needs. Leveraging our holistic portfolio of capabi lities in consulting, design, 
+engineering, and operations, we help clients realize their boldest ambitions and build future -ready, 
+sustainable businesses. With over 230,000 employees and business partners across                       
+65 countries, we deliv er on the promise of helping our clients, colleagues, and communities thrive 
+in an ever -changing world. For additional information, visit us at www.wipro.com .  
+  
+About SIAM.AI   
+SIAM.AI Cloud Corporation Company Limited is Thailand's pioneer in AI infrastructure and 
+services, delivering Sovereign AI capabilities for key sectors including education, manufacturing, 
+healthcare, financial services, and government services. Visit https://siam.ai/ .   
+  
+Media Contact:   
+Wipro Media Relations  
+media -relations@wipro.com   
+ 
+Forward -Looking Statements   
+The forward -looking statements contained herein represent Wipro’s beliefs regarding future events, many 
+of which are by their nature, inherently uncertain and outside Wipro’s control. Such statements include, but 
+are not limited to, statements regarding Wi pro’s growth prospects, its future financial operating results, and 
+its plans, expectations and intentions. Wipro cautions readers that the forward -looking statements 
+contained herein are subject to risks and uncertainties that could cause actual results t o differ materially 
+from the results anticipated by such statements. Such risks and uncertainties include, but are not limited 
+to, risks and uncertainties regarding fluctuations in our earnings, revenue and profits, our ability to generate 
+and manage growt h, complete proposed corporate actions, intense competition in IT services, our ability to 
+maintain our cost advantage, wage increases in India, our ability to attract and retain highly skilled 
+professionals, time and cost overruns on fixed -price, fixed -time frame contracts, client concentration, 
+restrictions on immigration, our ability to manage our international operations, reduced demand for 
+technology in our key focus areas, disruptions in telecommunication networks, our ability to successfully 
+complete  and integrate potential acquisitions, liability for damages on our service contracts, the success of 
+the companies in which we make strategic investments, withdrawal of fiscal governmental incentives, 
+political instability, war, legal restrictions on rais ing capital or acquiring companies outside India, 
+unauthorized use of our intellectual property and general economic conditions affecting our business and 
+industry.  
+  
+ 
+  
+ 
+ 
+Additional risks that could affect our future operating results are more fully described in our filings with the 
+United States Securities and Exchange Commission, including, but not limited to, Annual Reports on     
+Form 20 -F. These filings are available at www.sec.gov . We may, from time to time, make additional written 
+and oral forward -looking statements, including statements contained in the company’s filings with the 
+Securities and Exchange Commission and our reports to shareholders. We do not undertake to update any 
+forward -looking statement that may be made from time to time by us or on our behalf.  
+  
+ 
