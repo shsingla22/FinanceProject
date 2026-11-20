@@ -1367,7 +1367,7 @@ def test_report_puts_partial_spin_offs_below_the_demergers_and_drops_the_noise(t
     record = {"meta": {"run_date": "2026-11-16", "window_from": "2025-10-12", "window_to": "2026-11-15", "filings": 2,
                        "companies": 2, "universe": 750, "judge": "test"}, "situations": [good, noise], "call_only": []}
     md = AZ.render_report(record)
-    assert "0 confirmed demergers, 1 partial spin-offs (subsidiary IPOs), 0 probable" in md
+    assert "0 confirmed demergers, 1 partial spin-offs (subsidiary IPOs), 0 completed demergers, 0 probable" in md
     top = md.split("## Probable and indicated")[0]
     assert top.index("## Confirmed demergers") < top.index("### Partial spin-offs") < top.index("| **HDFCBANK** | HDB Financial Services Limited |")
     assert "2025-07-02 (NSE)" in top and "PARTIAL SPIN-OFF, LISTED 1–2Y" in top
@@ -1415,6 +1415,127 @@ def test_a_subsidiary_ipo_hidden_behind_a_demerger_situation_is_found(tmp_path, 
     s = base({"headlines": heads[1:]})
     AZ.enrich(s, [], True, today, {}, runner=lambda p: asked.append(p) or runner(p), list_only=True)
     assert not any("possible LISTING OF A SUBSIDIARY" in p for p in asked) and s["kind"] == "demerger"
+
+
+def _prob_sit(sym="REFEX", company="Refex Industries Ltd.", kind="demerger", conf="probable", stage="announced"):
+    return {"symbol": sym, "company": company, "kind": kind, "stage": stage, "facts": {},
+            "confidence": (conf, "a filing's text names a demerger"), "family": SO.family_of(kind),
+            "first_filing": "2026-03-17", "latest_filing": "2026-10-28", "listed_on": None, "days_since_listing": None,
+            "stage_dates": {}, "headlines": [], "n_filings": 3, "sources": ["NSE"]}
+
+
+def test_probable_rows_are_resolved_in_progress_completed_indicated_or_discarded(monkeypatch):
+    today = dt.date(2026, 11, 17)
+    monkeypatch.setattr(SO, "_EQUITY", ({"NSLNISP": "2023-02-20", "SCILAL": "2024-03-19", "TRITURBINE": "2011-10-28"},
+                                        {SO._norm_name("Shipping Corporation of India Land and Assets Limited"): "SCILAL"}))
+    monkeypatch.setattr(SO, "_REGISTER", {"SANOFI": ["2024-06-13"]})
+    ok = {"status": "judged"}
+    # a real demerger in progress: confirmed, marked as read from the text, stage from the judge
+    s = _prob_sit()
+    r = SO.resolve_probable(s, {**ok, "what_it_is": "demerger_in_progress", "business": "Green Mobility Business Undertaking",
+                                "resulting_company": "Refex Mobility Limited (RML)", "role": "demerged company", "stage": "NCLT sanction",
+                                "timeline": "NCLT hearing on 28 October 2026", "quote": "NCLT hearings are underway under the proposed demerger scheme"}, today)
+    assert r == "in_progress" and s["kind"] == "demerger" and s["confidence"][0] == "confirmed"
+    assert s["facts"]["resolved_from_text"] and s["facts"]["resulting_company"] == "Refex Mobility Limited" and s["stage"] == "nclt_sanction"
+    assert SO.verdict(s, [])["label"].startswith("PRE-SPIN")
+    # a 'scheme, nature unclear' row found to be a demerger becomes one; the judge cannot push it to a record date
+    s = _prob_sit("X", "X Ltd", kind="scheme_other")
+    SO.resolve_probable(s, {**ok, "what_it_is": "demerger_in_progress", "business": "the cement business", "stage": "record date", "quote": "q"}, today)
+    assert s["kind"] == "demerger" and s["family"] == "spin-off" and s["stage"] == "announced"
+    # completed, this company the RESULTING company: its own NSE listing date
+    s = _prob_sit("NSLNISP", "NMDC Steel Ltd.")
+    r = SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "Nagarnar iron and steel plant", "role": "resulting company",
+                                "resulting_company": "NMDC Limited", "completed_date": "2022", "quote": "pre-demerger period"}, today)
+    assert r == "completed" and s["confidence"][0] == "completed" and s["facts"]["completed_date"] == "2023-02-20"
+    assert s["facts"]["completed_date_source"].startswith("NSE equity list (this company")
+    assert SO.listing_status(s, {}, today)["state"] == "completed" and SO.verdict(s, [])["label"].startswith("COMPLETED DEMERGER")
+    # completed, this company the DEMERGED company: the resulting company's NSE listing date
+    s = _prob_sit("SCI", "Shipping Corporation of India Ltd.")
+    SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "non-core land assets", "role": "demerged company",
+                            "resulting_company": "Shipping Corporation of India Land and Assets Limited", "completed_date": "FY 2023-24", "quote": "q"}, today)
+    assert s["facts"]["completed_date"] == "2024-03-19" and "SCILAL listed" in s["facts"]["completed_date_source"]
+    # completed long ago: the exchange date is not forced onto a different year; the filings' date stands
+    s = _prob_sit("TRITURBINE", "Triveni Turbine Ltd.")
+    SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "steam turbine business", "role": "resulting company",
+                            "resulting_company": "Triveni Engineering and Industries Limited", "completed_date": "2010", "quote": "demerged in 2010"}, today)
+    assert s["facts"]["completed_date"] == "2011-10-28"                     # within a year of what the filing says: the listing date
+    s = _prob_sit("EMBDL", "Embassy Developments Ltd.")
+    SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "power business", "role": "demerged company",
+                            "resulting_company": "not stated", "completed_date": "FY 2010-11", "quote": "q"}, today)
+    assert s["facts"]["completed_date"] == "FY 2010-11" and s["facts"]["completed_date_source"] == "per the filings"
+    # the register's record date outranks every other date
+    s = _prob_sit("SANOFI", "Sanofi India Ltd.")
+    SO.resolve_probable(s, {**ok, "what_it_is": "demerger_completed", "business": "consumer healthcare", "completed_date": "2024", "quote": "q"}, today)
+    assert s["facts"]["completed_date"] == "2024-06-13" and s["facts"]["completed_date_source"].startswith("NSE register")
+    # management's own indication stays indicated; a withdrawal is recorded
+    s = _prob_sit("ZEEL", "Zee", conf="indicated", stage="indicated_on_calls")
+    assert SO.resolve_probable(s, {**ok, "what_it_is": "management_indication", "business": "music business", "quote": "we are evaluating a demerger"}, today) == "indicated"
+    assert s["confidence"][0] == "indicated" and "management itself" in s["confidence"][1] and s["stage"] == "indicated_on_calls"
+    s = _prob_sit()
+    assert SO.resolve_probable(s, {**ok, "what_it_is": "withdrawn", "business": "x", "quote": "scheme withdrawn"}, today) == "withdrawn" and s["stage"] == "withdrawn"
+    # everything else is discarded, with its reason
+    for what, word in (("other_companys_demerger", "another company's"), ("internal_reorganisation", "internal reorganisation"),
+                       ("merger_or_acquisition", "merger"), ("no_event", "no demerger event"), ("news_report_only", "press speculation"),
+                       ("gibberish", "no demerger event")):
+        s = _prob_sit("X", "X Ltd")
+        assert SO.resolve_probable(s, {**ok, "what_it_is": what, "business": "not stated", "quote": "the quote"}, today) == "discarded"
+        assert s["confidence"][0] == "other" and word in s["confidence"][1] and s["family"].startswith("discarded on reading")
+    # 'in progress' without a named business is not accepted; no judge answer leaves the row alone
+    s = _prob_sit("X", "X Ltd")
+    assert SO.resolve_probable(s, {**ok, "what_it_is": "demerger_in_progress", "business": "not stated"}, today) == "discarded"
+    s = _prob_sit("X", "X Ltd")
+    assert SO.resolve_probable(s, {"status": "not assessed"}, today) == "unresolved" and s["confidence"][0] == "probable"
+    assert SO.resolve_probable({**_prob_sit(), "kind": "merger"}, {**ok, "what_it_is": "no_event"}, today) == "unresolved"
+
+
+def test_report_places_resolved_demergers_completed_list_and_drops_the_rest(tmp_path, monkeypatch):
+    monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
+    monkeypatch.setattr(SO, "_EQUITY", ({"NSLNISP": "2023-02-20"}, {}))
+    today = dt.date(2026, 11, 17)
+    answers = {"Refex": {"what_it_is": "demerger_in_progress", "business": "Green Mobility Business Undertaking",
+                         "resulting_company": "Refex Mobility Limited", "stage": "NCLT sanction", "quote": "proposed demerger scheme"},
+               "NMDC Steel": {"what_it_is": "demerger_completed", "business": "Nagarnar steel plant", "role": "resulting company",
+                              "resulting_company": "NMDC Limited", "completed_date": "2022", "quote": "pre-demerger period"},
+               "Tata Tech": {"what_it_is": "other_companys_demerger", "business": "not stated", "quote": "Tata Motors, the Holding Company"},
+               "Zee": {"what_it_is": "management_indication", "business": "music business", "quote": "we are evaluating a demerger"}}
+    asked = []
+    def runner(prompt):
+        if "no filing settles what it is" in prompt:
+            asked.append(prompt)
+            return json.dumps(next(v for k, v in answers.items() if f"of {k}" in prompt))
+        return json.dumps({"what_is_spun": "a business", "parent_or_spin": "parent", "selling_pressure": "unclear"})
+    monkeypatch.setattr(AZ, "scheme_text_for", lambda s, rows, budget=AZ.FILINGS_CHARS: "filings " * 100)
+    monkeypatch.setattr(AZ, "calls_text_for", lambda sym, months, today, budget=AZ.CALLS_CHARS: "")
+    monkeypatch.setattr(SO, "confidence", lambda sit: sit["confidence"])
+    extra = {"checklist": [], "verdict": {"label": "x", "score": 3.0}, "reasons": [], "concall_mentions": []}
+    scheme = {**_prob_sit("ALPHA", "Alpha Ltd.", conf="confirmed"), **extra, "facts": {"resulting_company": "Alpha Energy Limited"}}
+    refex = {**_prob_sit(), **extra}
+    nsl = {**_prob_sit("NSLNISP", "NMDC Steel Ltd."), **extra}
+    tata = {**_prob_sit("TATATECH", "Tata Tech Ltd."), **extra}
+    zee = {**_prob_sit("ZEEL", "Zee Ltd.", conf="indicated", stage="indicated_on_calls"), **extra}
+    gone = {**_prob_sit("PRESTIGE", "Prestige Ltd.", conf="indicated", stage="withdrawn"), **extra}
+    sits = [refex, scheme, nsl, tata, zee, gone]                    # refex first: the report must still list it last
+    for s in sits:
+        AZ.enrich(s, [], True, today, {}, runner=runner, list_only=True)
+    assert len(asked) == 4                                           # not the confirmed one, not the withdrawn one
+    assert (refex["confidence"][0], nsl["confidence"][0], tata["confidence"][0], zee["confidence"][0]) == ("confirmed", "completed", "other", "indicated")
+    record = {"meta": {"run_date": "2026-11-17", "window_from": "a", "window_to": "b", "filings": 6, "companies": 6,
+                       "universe": 750, "judge": "t"}, "situations": sits, "call_only": []}
+    md = AZ.render_report(record)
+    assert "2 confirmed demergers, 0 partial spin-offs (subsidiary IPOs), 1 completed demergers, 0 probable, 2 indicated" in md
+    top = md.split("## Probable and indicated")[0]
+    assert top.index("| **ALPHA** |") < top.index("| **REFEX** † |")            # read-from-text demergers go last
+    assert "† *A demerger in progress, confirmed by reading the complete filings" in top
+    assert top.index("### Partial spin-offs") < top.index("### Completed demergers") < top.index("| **NSLNISP** | resulting company |")
+    assert "2023-02-20 | NSE equity list (this company's listing)" in top
+    rest = md.split("## Probable and indicated")[1].split("<details>")[0]
+    assert "**ZEEL**" in rest and "**PRESTIGE**" in rest and "TATATECH" not in rest and "REFEX" not in rest and "NSLNISP" not in rest
+    assert "| TATATECH | discarded on reading (other companys demerger) |" in md
+    # the register check counts a completed demerger as captured
+    import validate_demergers as VD
+    gt = [{"date": "2023-01-10", "symbol": "NSLNISP", "company": "NMDC Steel", "purpose": "Demerger", "source": "bc", "in_universe": "yes", "detail": ""}]
+    res = VD.check(sits, gt, today, equities=[], days=2000)
+    assert res["recall"][0]["verdict"] == "captured" and res["summary"]["false_positives"] == 0
 
 
 def test_rules_from_the_long_backtests_unverified_list(monkeypatch):

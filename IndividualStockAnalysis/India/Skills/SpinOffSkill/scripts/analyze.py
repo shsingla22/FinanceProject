@@ -100,6 +100,7 @@ FILINGS_CHARS = 320_000
 CALLS_CHARS = 360_000
 PROMPT_VERSION = "v2"
 LISTING_PROMPT_VERSION = "listing-v2"      # the subsidiary-listing resolution question
+RESOLUTION_PROMPT_VERSION = "resolution-v1"  # the probable / indicated demerger resolution question
 
 
 # ------------------------------------------------------------- the judge
@@ -454,6 +455,58 @@ def judge_listing(sit: dict, scheme_text: str, calls_text: str,
     return _ask(f"{sit['symbol']}::listing", stamp, listing_prompt(sit, scheme_text, calls_text), allow_ai, runner)
 
 
+def resolution_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
+    return (
+        f"The filings and calls of {sit['company']} ({sit['symbol']}) mention a DEMERGER, spin-off, carve-out or "
+        f"scheme of arrangement, but no filing settles what it is. Read the complete documents below and decide. "
+        f"Answer STRICT JSON only, every field from the documents — never from memory; write \"not stated\" "
+        f"when they do not say:\n"
+        '{"what_it_is": one of '
+        '"demerger_in_progress" (a business of THIS company is being demerged / spun off under a scheme its board '
+        'has approved or that is further along, THIS company is the demerged company, its shareholders are to '
+        'receive shares of a resulting company, and the scheme is not yet complete), '
+        '"demerger_completed" (a demerger of THIS company — as the demerged company, or as the resulting company '
+        'that was spun out — is already effective; however long ago), '
+        '"other_companys_demerger" (the demerger discussed is the parent\'s, a subsidiary\'s, a group company\'s or '
+        'an unrelated company\'s; or THIS company only RECEIVES a business), '
+        '"internal_reorganisation" (a business moved to a wholly-owned subsidiary, a slump sale, a business transfer, '
+        'a new line of business — nothing is listed for the shareholders), '
+        '"merger_or_acquisition" (an amalgamation, merger or acquisition; nothing is separated), '
+        '"subsidiary_ipo" (a subsidiary, associate or JV is being or has been listed by IPO), '
+        '"management_indication" (MANAGEMENT ITSELF — in a filing, or answering on a call — has said it is planning '
+        'or evaluating a demerger of this company\'s business, and no scheme is approved; an analyst merely asking '
+        'does not count), '
+        '"withdrawn" (a proposed demerger was withdrawn or called off), '
+        '"news_report_only" (press speculation the company did not confirm), '
+        '"no_event" (none of these: an analyst\'s question with no commitment, covenant or ESOP boilerplate, the word '
+        '\"carve-out\" or \"demerger\" used in another sense), '
+        '"business": "<the business demerged or to be demerged, <=25 words, or not stated>", '
+        '"role": "demerged company"|"resulting company"|"not stated", '
+        '"resulting_company": "<full legal name of the resulting company; or, when THIS company is the resulting '
+        'company, the name of the company it was demerged from; or not stated>", '
+        '"stage": "board approval"|"exchange NOC"|"shareholder meeting"|"NCLT sanction"|"effective"|"not stated", '
+        '"completed_date": "<when the demerger became effective or the resulting company listed: YYYY-MM-DD, '
+        'YYYY-MM, YYYY or a fiscal year, as the documents give it; or not stated>", '
+        '"listing_sought": "yes"|"no"|"not stated", '
+        '"timeline": "<when completion or listing is expected, in the documents\' words with their date; or not stated>", '
+        '"quote": "<one verbatim sentence from the documents that settles your answer>"}\n\n'
+        f"THE COMPANY'S FILINGS, COMPLETE (newest first):\n{scheme_text}\n\n"
+        f"THE COMPANY'S EARNINGS CALLS, COMPLETE (last 12 months, newest first):\n"
+        f"{calls_text or '(no transcripts on file)'}"
+    )
+
+
+def judge_resolution(sit: dict, scheme_text: str, calls_text: str,
+                     allow_ai: bool = True, runner=None) -> dict:
+    """One forced-choice question for a probable or indicated demerger /
+    scheme row: in progress, completed (and when), or something that only
+    looked like one."""
+    if len(scheme_text) < 300 and len(calls_text) < 300:
+        return {"status": "no documents", "note": "nothing on file to read"}
+    stamp = hashlib.md5((scheme_text + calls_text + MODEL + PROMPT_VERSION + RESOLUTION_PROMPT_VERSION).encode()).hexdigest()
+    return _ask(f"{sit['symbol']}::resolution", stamp, resolution_prompt(sit, scheme_text, calls_text), allow_ai, runner)
+
+
 def rationale_section_of(scheme_text: str) -> str:
     """The part of the scheme that explains itself, if it has one."""
     m = re.search(r"rationale", scheme_text, re.I)
@@ -713,6 +766,16 @@ def render_light_tail(s: dict) -> list[str]:
     return A
 
 
+def completed_date_of(s: dict) -> str:
+    """A sortable date for a completed demerger: the full date when there
+    is one, else the year the documents give, else ''."""
+    f = s["facts"]
+    d = f.get("completed_date") if f.get("completed") else f.get("record_date")
+    d = str(d or "")
+    m = re.search(r"\d{4}-\d{2}-\d{2}", d) or re.search(r"\d{4}-\d{2}", d) or re.search(r"(?:19|20)\d\d", d)
+    return m.group(0) if m else ""
+
+
 KIND_RANK = {"demerger": 0, "subsidiary_listing": 1, "scheme_other": 2, "merger": 3}
 CONF_RANK = {"confirmed": 0, "probable": 1, "indicated": 2, "other": 3}
 NSE_QUOTE = "https://www.nseindia.com/get-quotes/equity?symbol={sym}"
@@ -857,13 +920,23 @@ def render_report(record: dict, idx: dict | None = None) -> str:
     partial += [s["also_partial"] for s in sits if s.get("also_partial")]      # also a demerger, shown above or among the others
     partial.sort(key=lambda s: (s["stage"] != "listed", -(s["verdict"].get("score") or 0), s["symbol"]))
     confirmed = [s for s in all_confirmed if s["kind"] != "subsidiary_listing"]
+    # demergers confirmed by reading the filings' text (no scheme-category
+    # filing names them) go to the bottom of the demerger list
+    confirmed.sort(key=lambda s: bool(s["facts"].get("resolved_from_text")))
+    # completed demergers: read as completed from the documents, or recorded
+    # by NSE's register more than two years before the run
+    completed = [s for s in sits if s["kind"] == "demerger"
+                 and (s["confidence"][0] == "completed" or s["facts"].get("mature"))]
+    completed.sort(key=lambda s: str(completed_date_of(s)), reverse=True)
+    done = {id(s) for s in completed}
+    others = [s for s in others if id(s) not in done]
     probable = [s for s in spins if conf[s["symbol"]] == "probable"]
     indicated = [s for s in spins if conf[s["symbol"]] == "indicated"]
     A = ["# Spin-offs and demergers — NiftyTotalMarket", "",
          f"*Run {m['run_date']} · filings window {m['window_from']} → {m['window_to']} · "
          f"{m['filings']} restructuring filings across {m['companies']} companies · "
          f"{len(confirmed)} confirmed demergers, {len(partial)} partial spin-offs (subsidiary IPOs), "
-         f"{len(probable)} probable, {len(indicated)} indicated, "
+         f"{len(completed)} completed demergers, {len(probable)} probable, {len(indicated)} indicated, "
          f"{len(offs)} rights / preferential offerings, {len(others)} other restructurings · judge: {m['judge']}.*", "",
          "**The method, in one paragraph.** Spin-offs are where the notes say the bargains hide: "
          "the new stock is sold by holders who never chose it for about a year, the parent is "
@@ -878,10 +951,14 @@ def render_report(record: dict, idx: dict | None = None) -> str:
     A += ["## Confirmed demergers", "",
           "| Company | Resulting entity | Stage | Listing | Score | Verdict |", "|---|---|---|---|---:|---|"]
     for s in confirmed:
-        A.append(f"| **{s['symbol']}** | {entity_cell(s)} | "
+        mark = " †" if s["facts"].get("resolved_from_text") else ""
+        A.append(f"| **{s['symbol']}**{mark} | {entity_cell(s)} | "
                  f"{s['stage']} | {s['listing']['short']} | {s['verdict']['score']} | {s['verdict']['label'].split(' — ')[0]} |")
     if not confirmed:
         A.append("| — | | | | | |")
+    if any(s["facts"].get("resolved_from_text") for s in confirmed):
+        A += ["", "† *A demerger in progress, confirmed by reading the complete filings: the text describes this company's "
+                  "scheme, but no filing sits in a scheme category or names it in its headline. Listed last.*"]
     A += ["", "### Partial spin-offs — a subsidiary listed, or being listed, by IPO", "",
           "The parent keeps a stake and the piece gets its own price (the notes' Sears case: once the piece trades, "
           "the parent's stub can be valued). Already listed first, then IPOs in motion. A listing date marked "
@@ -905,12 +982,37 @@ def render_report(record: dict, idx: dict | None = None) -> str:
                  f"{s['verdict']['label'].split(' — ')[0]} | “{(f.get('listing_quote') or '')[:160]}” |")
     if not partial:
         A.append("| — | | | | | | | |")
+    A += ["", "### Completed demergers — already effective, with their dates", "",
+          "Demergers the documents describe as already done, newest first. The date is NSE's record date when the "
+          "register has one, the resulting company's listing date from NSE's equity list when it is found there, "
+          "and otherwise the date the filings give. Kept for the record; older than two years they are past the "
+          "window the notes care about.", "",
+          "| Company | Role | Business · counterpart | Completed | Source of the date | Evidence |",
+          "|---|---|---|---|---|---|"]
+    for s in completed:
+        f = s["facts"]
+        j = s.get("judge") or {}
+        if f.get("completed"):
+            role, when, src = f.get("completed_role", ""), f.get("completed_date", ""), f.get("completed_date_source", "")
+            biz = f.get("demerged_business", "")
+            other = f.get("completed_counterpart", "")
+            ev = f.get("resolution_quote", "")
+        else:                                         # recorded by the register, more than two years ago
+            role, when, src = "demerged company", f.get("record_date", ""), "NSE register (record date)"
+            biz = j.get("what_is_spun") or ""
+            other = f.get("resulting_company", "")
+            ev = j.get("quote") or ""
+        A.append(f"| **{s['symbol']}** | {role} | {_short(biz, 90)}" + (f" · {_short(other, 50)}" if other else "")
+                 + f" | {when} | {src} | “{_short(ev, 170)}” |")
+    if not completed:
+        A.append("| — | | | | | |")
     # demergers first, then subsidiary listings, then schemes of unclear
     # nature; probable before indicated; then by score
     probable.sort(key=probable_order)
     indicated.sort(key=probable_order)
     A += ["", "## Probable and indicated", "",
-          "Demergers first, then subsidiary listings, then schemes whose nature the documents do not settle. "
+          "What is left after every row has been read and settled: management's own indications, withdrawn "
+          "proposals, and any row the judge could not be asked about. Demergers first. "
           "**Sources & evidence**: for each document the row was read from (exchange filings newest first, or the "
           "call transcript), the link, the **keyword** that made it a spin-off / demerger / listing / scheme, the "
           "stored text file with the line number, and the sentence around it. Call mentions cite the transcript "
@@ -1003,6 +1105,9 @@ def situation_rows(sits: list[dict]) -> list[dict]:
                     "resulting_company": f.get("resulting_company", ""),
                     "subsidiary": f.get("subsidiary", ""), "ipo_stage": f.get("ipo_stage", ""),
                     "listing_resolution": f.get("listing_resolution", ""),
+                    "resolution": f.get("resolution", ""), "completed_date": f.get("completed_date", ""),
+                    "completed_date_source": f.get("completed_date_source", ""),
+                    "confidence_reason": s["confidence"][1][:240],
                     "entitlement_ratio": f.get("entitlement_ratio", ""),
                     "record_date": f.get("record_date", ""),
                     "reasons": "; ".join(r["reason"] for r in s["reasons"]),
@@ -1135,6 +1240,22 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
                     s[k] = shadow[k]
                 s["listing_resolution"] = res
                 s["facts"]["previously_held_as"] = was
+    # every PROBABLE or INDICATED demerger / scheme row is settled the same
+    # way: a demerger in progress joins the confirmed demergers (last in that
+    # list), a completed one goes to the dated 'completed' list, management's
+    # own indication stays indicated, and anything else is discarded
+    if s["kind"] in ("demerger", "scheme_other") and s["confidence"][0] in ("probable", "indicated") \
+            and s["stage"] != "withdrawn":
+        s["resolution"] = judge_resolution(s, scheme, calls12, allow_ai=ai, runner=runner)
+        out = SO.resolve_probable(s, s["resolution"], today)
+        if out == "subsidiary_ipo":
+            res = judge_listing(s, scheme, calls12, allow_ai=ai, runner=runner)
+            s["kind"], s["confidence"] = "subsidiary_listing", ("probable", "a subsidiary's listing is in motion")
+            s["listing_resolution"] = res
+            if SO.resolve_subsidiary_listing(s, res, today) == "unresolved":
+                s["family"] = SO.family_of("subsidiary_listing")
+        if out != "unresolved":
+            s["verdict"] = SO.verdict(s, s["checklist"])
     s["listing"] = SO.listing_status(s, s["judge"], today)
     if list_only:
         if s["kind"] in SO.OFFERING_KINDS:
@@ -1277,7 +1398,10 @@ def cmd_run(args, runner=None) -> dict:
     n_part = sum(1 for s in sits if (s.get("confidence", ("",))[0] == "confirmed" and s["kind"] == "subsidiary_listing")
                  or s.get("also_partial"))
     print(f"wrote {REPORT} ({len(md.splitlines())} lines); {len(sits)} situations, "
-          f"{n_conf} confirmed demergers, {n_part} partial spin-offs, {len(call_only)} call-only indications", file=sys.stderr)
+          f"{n_conf} confirmed demergers, {n_part} partial spin-offs, "
+          f"{sum(1 for s in sits if s.get('confidence', ('',))[0] == 'completed')} completed, "
+          f"{sum(1 for s in sits if s.get('confidence', ('',))[0] == 'probable')} probable, "
+          f"{len(call_only)} call-only indications", file=sys.stderr)
     return record
 
 
@@ -1305,6 +1429,14 @@ def cmd_render(args) -> None:
         res = s.get("listing_resolution")
         if s.get("kind") == "subsidiary_listing" and isinstance(res, dict) and res.get("status") in ("judged", "cached"):
             if SO.resolve_subsidiary_listing(s, res, as_of) != "unresolved":
+                s["confidence"] = tuple(s["confidence"])
+                s["verdict"] = SO.verdict(s, s.get("checklist") or [])
+                s["listing"] = SO.listing_status(s, s.get("judge") or {}, as_of)
+    for s in record["situations"]:
+        res = s.get("resolution")
+        if s.get("kind") in ("demerger", "scheme_other") and isinstance(res, dict) and res.get("status") in ("judged", "cached") \
+                and (s.get("facts") or {}).get("resolution") not in (None, "subsidiary_ipo"):
+            if SO.resolve_probable(s, res, as_of) not in ("unresolved", "subsidiary_ipo"):
                 s["confidence"] = tuple(s["confidence"])
                 s["verdict"] = SO.verdict(s, s.get("checklist") or [])
                 s["listing"] = SO.listing_status(s, s.get("judge") or {}, as_of)

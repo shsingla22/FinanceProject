@@ -1100,6 +1100,8 @@ def verdict(sit: dict, items: list[dict]) -> dict:
                  "rights_issue": "RIGHTS OFFERING — check who subscribes and the oversubscription clause",
                  "preferential_issue": "PREFERENTIAL ISSUE / WARRANTS — check who is buying",
                  "capital_reduction": "CAPITAL ACTION — not a spin-off"}.get(k, k.upper())
+    elif sit.get("facts", {}).get("completed"):
+        label = "COMPLETED DEMERGER — already effective; kept for the record, with its date"
     elif st == "indicated_on_calls":
         label = "INDICATED ON CALLS — management talking, nothing filed yet"
     elif st == "withdrawn":
@@ -1213,6 +1215,7 @@ LISTING_LAG_NOTE = "resulting companies have typically listed 4–10 weeks after
 # parent keeps a stake (the notes' Sears case) — and join the confirmed list
 # below the demergers. The rest are not spin-offs at all and leave both the
 # confirmed and the probable lists.
+UNNAMED_RX = re.compile(r"\s*(?:not stated|none|nil|n\.?/?a\.?|nothing)\s*(?:$|[;,.(—–-])", re.I)   # a blank, not 'Natco' or 'National'
 LISTING_YES = ("subsidiary_ipo_announced", "subsidiary_already_listed")
 LISTING_NO = {
     "listed_entity_acquired_or_long_listed": "the listed entity was acquired already listed, or has been listed for years; no IPO in the period",
@@ -1261,7 +1264,7 @@ def resolve_subsidiary_listing(sit: dict, res: dict, today: dt.date | None = Non
         sit["stage"] = "withdrawn"
         sit["confidence"] = ("indicated", f"the subsidiary's IPO was withdrawn — {quote}")
         return "withdrawn"
-    if what in LISTING_YES and sub and not re.match(r"not stated|none|n/?a", sub, re.I):
+    if what in LISTING_YES and sub and not re.match(UNNAMED_RX, sub):
         f["partial_spin"], f["subsidiary"], f["listing_resolution"] = True, sub, what
         for k_out, k_in in (("ipo_stage", "ipo_stage"), ("ipo_timeline", "timeline"),
                             ("parent_stake_before", "parent_stake_before"),
@@ -1285,7 +1288,7 @@ def resolve_subsidiary_listing(sit: dict, res: dict, today: dt.date | None = Non
             if listed:
                 f["subsidiary_listing_source"] = "per the filings"
         others = [clean_entity(str(x)) for x in (res.get("other_subsidiaries") or []) if isinstance(x, str) and x.strip()]
-        others = [x for x in others if x and x != sub and not re.match(r"not stated|none", x, re.I)]
+        others = [x for x in others if x and x != sub and not re.match(UNNAMED_RX, x)]
         if others:
             f["other_subsidiaries"] = others[:4]
         # 'already listed' needs a date, or the judge's own stage 'listed':
@@ -1318,6 +1321,123 @@ def resolve_subsidiary_listing(sit: dict, res: dict, today: dt.date | None = Non
     return "not"
 
 
+# What a PROBABLE or INDICATED demerger / scheme row turns out to be once
+# the complete documents are read with one forced-choice question
+# (analyze.judge_resolution). 'demerger_in_progress' joins the confirmed
+# demergers (at the bottom of that list: confirmed by reading the text, not
+# by a scheme filing); 'demerger_completed' goes to its own dated list;
+# management's own indication stays 'indicated'; everything in
+# RESOLUTION_DISCARD leaves every list.
+RESOLUTION_DISCARD = {
+    "other_companys_demerger": "the demerger is another company's (parent, subsidiary, group or unrelated)",
+    "internal_reorganisation": "an internal reorganisation — a business moved to a wholly-owned subsidiary or sold; nothing is listed for shareholders",
+    "merger_or_acquisition": "a merger, amalgamation or acquisition; nothing is separated",
+    "no_event": "no demerger event — an analyst's question, boilerplate, or the word used in another sense",
+    "news_report_only": "press speculation the company did not confirm",
+}
+_JUDGE_STAGE = {"board approval": "announced", "exchange noc": "exchange_noc", "shareholder meeting": "meetings",
+                "nclt sanction": "nclt_sanction", "effective": "effective"}
+
+
+def _year_of(s: str) -> int | None:
+    m = re.search(r"\b(19[89]\d|20\d\d)\b", s or "")
+    return int(m.group(1)) if m else None
+
+
+def resolve_probable(sit: dict, res: dict, today: dt.date | None = None) -> str:
+    """Apply the judge's forced-choice answer to a probable / indicated
+    demerger or scheme row. Returns:
+      'in_progress'  a real demerger of this company, not yet complete:
+                     kind demerger, confirmed, facts['resolved_from_text'];
+      'completed'    an already completed demerger with its date (the
+                     register's record date, the resulting company's NSE
+                     listing date, or the date the filings give): confidence
+                     'completed';
+      'indicated'    management itself has said it is planning one;
+      'withdrawn'    the proposal was pulled;
+      'subsidiary_ipo'  the caller should ask the listing question;
+      'discarded'    none of these: confidence 'other', with the reason;
+      'unresolved'   no judge answer — the row is left as it was."""
+    today = today or dt.date.today()
+    if sit.get("kind") not in ("demerger", "scheme_other") or res.get("status") not in ("judged", "cached"):
+        return "unresolved"
+    what = str(res.get("what_it_is") or "").strip().lower()
+    f = sit.setdefault("facts", {})
+    quote = str(res.get("quote") or "")[:220]
+    business = str(res.get("business") or "").strip()
+    named = bool(business) and not re.match(UNNAMED_RX, business) \
+        and not re.match(r"\s*(?:nothing|no|none|not stated)\b", business, re.I)
+    f["resolution"] = what
+    f["resolution_quote"] = quote
+    if what == "subsidiary_ipo":
+        return "subsidiary_ipo"
+    if what == "demerger_in_progress" and named:
+        sit["kind"], sit["family"] = "demerger", family_of("demerger")
+        f["resolved_from_text"] = True
+        f["demerged_business"] = business[:160]
+        rc = clean_entity(str(res.get("resulting_company") or ""))
+        if rc and not re.match(UNNAMED_RX, rc) and not f.get("resulting_company"):
+            f["resulting_company"] = rc
+        tl = str(res.get("timeline") or "").strip()
+        if tl and not re.match(r"not stated", tl, re.I):
+            f["resolution_timeline"] = tl[:200]
+        mapped = _JUDGE_STAGE.get(str(res.get("stage") or "").strip().lower())
+        if sit.get("stage") in ("indicated_on_calls", "rumoured", None):
+            sit["stage"], sit["listed_on"], sit["days_since_listing"] = mapped or "announced", None, None
+        elif mapped and sit["stage"] in STAGE_ORDER and STAGE_ORDER.index(mapped) > STAGE_ORDER.index(sit["stage"]) \
+                and sit["stage"] in PRE_STAGES:
+            sit["stage"] = mapped
+        sit["confidence"] = ("confirmed", "demerger in progress — read from the filings' text (no scheme-category "
+                                          f"filing names it): “{quote[:150]}”")
+        return "in_progress"
+    if what == "demerger_completed" and named:
+        role = str(res.get("role") or "").strip().lower()
+        role = "resulting company" if role.startswith("result") else "demerged company"
+        rc = clean_entity(str(res.get("resulting_company") or ""))
+        said = str(res.get("completed_date") or "").strip()
+        said = "" if re.match(r"not stated", said, re.I) else said
+        year = _year_of(said)
+        dates, names = equity_list()
+        reg = register_dates().get(sit["symbol"]) or []
+        reg = [d for d in reg if d <= today.isoformat()]
+        date, source = "", ""
+        if reg:
+            date, source = max(reg), "NSE register (record date)"
+        elif role == "resulting company" and dates.get(sit["symbol"]) and dates[sit["symbol"]] <= today.isoformat() \
+                and (year is None or abs(int(dates[sit["symbol"]][:4]) - year) <= 1):
+            date, source = dates[sit["symbol"]], "NSE equity list (this company's listing)"
+        else:
+            rsym = names.get(_norm_name(rc)) if rc else None
+            if rsym and rsym != sit["symbol"] and dates.get(rsym) and dates[rsym] <= today.isoformat() \
+                    and (year is None or abs(int(dates[rsym][:4]) - year) <= 1):
+                date, source = dates[rsym], f"NSE equity list ({rsym} listed)"
+            elif said:
+                date, source = said[:24], "per the filings"
+        sit["kind"] = "demerger"
+        sit["family"] = "completed demerger"
+        f.update({"completed": True, "completed_role": role, "completed_date": date or "not stated",
+                  "completed_date_source": source, "demerged_business": business[:160]})
+        if rc and not re.match(UNNAMED_RX, rc):
+            f["completed_counterpart"] = rc
+        sit["confidence"] = ("completed", f"completed demerger ({role}) — {date or 'date not stated'}"
+                                          + (f", {source}" if source else ""))
+        return "completed"
+    if what == "management_indication" and named:
+        f["indicated_business"] = business[:160]
+        sit["stage"], sit["listed_on"], sit["days_since_listing"] = "indicated_on_calls", None, None
+        sit["confidence"] = ("indicated", f"management itself has indicated it; no scheme approved yet: “{quote[:150]}”")
+        return "indicated"
+    if what == "withdrawn":
+        sit["stage"] = "withdrawn"
+        sit["confidence"] = ("indicated", f"withdrawn — {quote[:160]}")
+        return "withdrawn"
+    key = what if what in RESOLUTION_DISCARD else "no_event"
+    f["resolution"] = key
+    sit["family"] = "discarded on reading (" + key.replace("_", " ") + ")"
+    sit["confidence"] = ("other", f"discarded — {RESOLUTION_DISCARD[key]}" + (f": “{quote[:150]}”" if quote else ""))
+    return "discarded"
+
+
 def listing_status(sit: dict, judge: dict | None = None,
                    today: dt.date | None = None) -> dict:
     """When — and whether — the demerged entity trades: {'state', 'text'}.
@@ -1331,6 +1451,10 @@ def listing_status(sit: dict, judge: dict | None = None,
     if sit["kind"] not in SPIN_KINDS:
         return {"state": "not_a_spin", "short": "no new listing",
                 "text": "no new listing — " + family_of(sit["kind"])}
+    if f.get("completed"):
+        return {"state": "completed", "short": f"COMPLETED {f.get('completed_date', '')}"[:60],
+                "text": f"COMPLETED DEMERGER — {f.get('completed_role', '')}; {f.get('completed_date', 'date not stated')}"
+                        + (f" ({f['completed_date_source']})" if f.get("completed_date_source") else "")}
     if f.get("is_the_spin"):
         parent = f.get("parent_company") or "the parent"
         return {"state": "listed", "short": f"THIS IS THE SPIN-OFF — listed {sit.get('listed_on')}",

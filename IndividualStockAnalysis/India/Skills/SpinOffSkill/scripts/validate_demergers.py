@@ -122,7 +122,7 @@ def check(situations: list[dict], gt: list[dict], today: dt.date | None = None,
     for sym, d in sorted(reg.items()):
         sits = by_sym.get(sym, [])
         spin = [s for s in sits if s["kind"] in SPIN]
-        dem = [s for s in spin if s["kind"] == "demerger" and s["confidence"][0] in ("confirmed", "probable")]
+        dem = [s for s in spin if s["kind"] == "demerger" and s["confidence"][0] in ("confirmed", "probable", "completed")]
         mature = [s for s in sits if s["kind"] == "demerger" and s.get("facts", {}).get("mature")]
         verdict = ("captured" if dem else
                    "captured (mature — completed more than two years before the run)" if mature else

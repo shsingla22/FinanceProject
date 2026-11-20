@@ -70,6 +70,8 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
     conf = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "confirmed"]
     prob = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "probable"]
     ind = [s for s in sits if s["kind"] == "demerger" and s["confidence"][0] == "indicated"]
+    done = [s for s in sits if s["kind"] == "demerger" and (s["confidence"][0] == "completed" or s["facts"].get("mature"))]
+    disc = [s for s in sits if s["facts"].get("resolution") in AZ.SO.RESOLUTION_DISCARD and s["confidence"][0] == "other"]
     part = [s for s in sits if s["kind"] == "subsidiary_listing" and s["confidence"][0] == "confirmed"]
     part += [s["also_partial"] for s in sits if s.get("also_partial")]
     not_listing = [s for s in sits if s["kind"] == "subsidiary_listing" and s["confidence"][0] == "other"]
@@ -89,7 +91,10 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
          f"| …FALSE POSITIVES | {s['false_positives']} |",
          f"| Partial spin-offs (subsidiary IPOs, announced or listed) | {len(part)} |",
          f"| …flagged as a subsidiary listing and found not to be one (excluded) | {len(not_listing)} |",
-         f"| Probable demergers | {len(prob)} |", f"| Indicated demergers | {len(ind)} |",
+         f"| …of the confirmed, read as in progress from the filings' text | {sum(1 for c in conf if c['facts'].get('resolved_from_text'))} |",
+         f"| Completed demergers (dated) | {len(done)} |",
+         f"| Probable / indicated rows discarded on reading | {len(disc)} |",
+         f"| Probable rows left (no judge answer) | {len(prob)} |", f"| Indicated demergers | {len(ind)} |",
          f"| Situations in all | {len(sits)} |", ""]
     A += ["## Every register demerger in the window", "",
           "| Parent | Record date(s) | Skill kind | Confidence | Stage as of the run | Resulting company listed | Verdict |",
@@ -108,6 +113,13 @@ def summary(frm: dt.date, to: dt.date, label: str, record: dict, res: dict) -> s
         f = p["facts"]
         A.append(f"| **{p['symbol']}** | {f.get('subsidiary', '')[:60]} | {f.get('ipo_stage', '')} | "
                  f"{p.get('listed_on') or ''} | {f.get('subsidiary_listing_source', '')} |")
+    A += ["", "## Completed demergers as of the run", "",
+          "| Company | Role | Completed | Source of the date |", "|---|---|---|---|"]
+    for d in sorted(done, key=lambda s: AZ.completed_date_of(s), reverse=True):
+        f = d["facts"]
+        A.append(f"| **{d['symbol']}** | {f.get('completed_role', 'demerged company')} | "
+                 f"{f.get('completed_date') or f.get('record_date', '')} | "
+                 f"{f.get('completed_date_source') or 'NSE register (record date)'} |")
     A += ["", "## Misses, with what the skill held", ""]
     if res["misses"]:
         for m in res["misses"]:

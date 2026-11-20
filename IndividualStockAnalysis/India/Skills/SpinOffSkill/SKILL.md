@@ -147,6 +147,29 @@ largest gains came not in the first year but in the second.
    demerger tag outranks a listing tag): a partial spin-off found there
    replaces a text-only demerger, and is shown BESIDE a confirmed or
    register-recorded demerger, which stays a demerger.
+3c. **Probable and indicated rows are settled the same way.** Every
+   demerger or scheme row left `probable` (a demerger named only in a
+   filing's text; a scheme whose nature is unclear) or `indicated` (calls
+   or news only) is asked one forced-choice question of the complete
+   documents (`analyze.judge_resolution`): is it a `demerger_in_progress`
+   (a business of THIS company, under a board-approved scheme, its
+   holders to receive shares, not yet complete), a `demerger_completed`
+   (and when, and in which role), another company's demerger, an internal
+   reorganisation, a merger or acquisition, a subsidiary IPO,
+   management's own indication, a withdrawal, press speculation, or no
+   event. A demerger in progress becomes a `confirmed` demerger, marked †
+   and listed LAST in the demerger table (it is confirmed by reading the
+   text; no scheme-category filing names it). A completed one goes to
+   **Completed demergers**, a dated list below the partial spin-offs,
+   which also carries the demergers NSE's register recorded more than two
+   years before the run; the date is the register's record date, else the
+   resulting company's listing date from NSE's equity list, else the date
+   the filings give. Management's own indication stays `indicated`, as do
+   withdrawals. Everything else is discarded: it leaves every list and is
+   kept, with its reason and quote, among the other restructurings. The
+   judge may not move a row to a record date or a listing; only the
+   exchange's record does that. Without a judge answer the row is left as
+   it was.
 4. **Listing status** — for every spin-off: LISTED since (record date),
    RECORD DATE set and listing pending (with the typical 4–10 week gap
    stated as typical, not forecast), NOT YET with the timeline the
@@ -258,7 +281,7 @@ python3 scripts/validate_demergers.py                              # the list ag
 python3 ../../Announcements/fetch_announcements.py --days 960      # extend the store back (for a backtest)
 python3 scripts/backtest.py --from 2024-04-01 --to 2025-03-31 --label FY2024-25   # the skill as of a past date, list-only, own folder
 python3 scripts/backtest.py --from 2024-04-01 --label 2024-04_to_today
-python3 -m pytest scripts/test_skill.py -q                         # 71 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 73 tests, offline
 ```
 
 ## Outputs
