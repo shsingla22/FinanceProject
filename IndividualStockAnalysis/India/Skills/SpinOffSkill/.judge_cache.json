@@ -9641,6 +9641,501 @@
      }
     ],
     "not_found": "No numbers for Vedanta Property Platforms Limited, 'Vedanta Limited's Real' (real-estate/property undertaking), Vedanta Power Limited, 'Resulting Company 2' or Malco Energy Limited as a standalone entity; the July 2026 reorganisation page is a title slide only."
+   },
+   "83a09ef84b2738d02282f9ab84f72f27": {
+    "businesses": [
+     {
+      "side": "separated",
+      "entity": "Vedanta Aluminium Metal Limited",
+      "segment_name": "Aluminium (Aluminium Undertaking) \u2014 reported as a discontinued operation in FY2026",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure. Revenue = external revenue (segment revenue incl. inter-segment: FY2024 48,371; FY2025 58,522; FY2026 65,847). Operating profit = segment result (EBITDA, non-GAAP, before depreciation/finance cost/tax). No segment PAT disclosed; depreciation = depreciation, depletion and amortisation; capex = segment capital expenditure.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 48317,
+        "operating_profit": 9657,
+        "pat": null,
+        "segment_assets": 68400,
+        "segment_liabilities": 25322,
+        "capex": 7773,
+        "depreciation": 2638,
+        "source": "Annual Report 2024 \u2014 page 234 (also Annual Report 2025 \u2014 page 253)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 58446,
+        "operating_profit": 17798,
+        "pat": null,
+        "segment_assets": 73113,
+        "segment_liabilities": 22036,
+        "capex": 7527,
+        "depreciation": 2778,
+        "source": "Annual Report 2025 \u2014 page 252"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 65766,
+        "operating_profit": 25502,
+        "pat": null,
+        "segment_assets": 80592,
+        "segment_liabilities": 20926,
+        "capex": 7700,
+        "depreciation": 2020,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": "4QFY26",
+       "revenue": 18753,
+       "operating_profit": 8485,
+       "source": "Presentation Apr 2026 \u2014 page 40"
+      },
+      "not_found": "No PAT, net worth or standalone-entity (VAML) financials; no post-demerger quarter (demerger effective 1 May 2026)."
+     },
+     {
+      "side": "separated",
+      "entity": "Vedanta Oil and Gas Limited",
+      "segment_name": "Oil & Gas (Oil and Gas Undertaking) \u2014 discontinued operation in FY2026",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure. Revenue = external revenue (no inter-segment revenue in this segment). Operating profit = segment result (EBITDA, non-GAAP). 'Other expenses, net of income' for this segment includes exploration wells written off (FY2024 (785); FY2025 (459); FY2026 (1,252)). No segment PAT.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 17837,
+        "operating_profit": 9777,
+        "pat": null,
+        "segment_assets": 28028,
+        "segment_liabilities": 14671,
+        "capex": 3217,
+        "depreciation": 2388,
+        "source": "Annual Report 2024 \u2014 page 234 (also Annual Report 2025 \u2014 page 253)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 11044,
+        "operating_profit": 4664,
+        "pat": null,
+        "segment_assets": 24285,
+        "segment_liabilities": 12185,
+        "capex": 3005,
+        "depreciation": 2779,
+        "source": "Annual Report 2025 \u2014 page 252"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 9582,
+        "operating_profit": 4350,
+        "pat": null,
+        "segment_assets": 25806,
+        "segment_liabilities": 11438,
+        "capex": 3728,
+        "depreciation": 1884,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No PAT; no quarterly Oil & Gas segment revenue/EBITDA on the supplied presentation pages (only project capex)."
+     },
+     {
+      "side": "separated",
+      "entity": "Vedanta Iron and Steel Limited",
+      "segment_name": "Iron Ore (Iron Ore Undertaking) \u2014 discontinued operation in FY2026",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure. Revenue = external revenue (segment revenue incl. inter-segment: FY2024 9,069; FY2025 6,086; FY2026 6,457). Operating profit = segment result (EBITDA, non-GAAP). No segment PAT.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 8956,
+        "operating_profit": 1676,
+        "pat": null,
+        "segment_assets": 5716,
+        "segment_liabilities": 3486,
+        "capex": 621,
+        "depreciation": 195,
+        "source": "Annual Report 2024 \u2014 page 234 (also Annual Report 2025 \u2014 page 253)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 5972,
+        "operating_profit": 1006,
+        "pat": null,
+        "segment_assets": 6181,
+        "segment_liabilities": 3213,
+        "capex": 705,
+        "depreciation": 309,
+        "source": "Annual Report 2025 \u2014 page 252"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 6451,
+        "operating_profit": 1007,
+        "pat": null,
+        "segment_assets": 5408,
+        "segment_liabilities": 3582,
+        "capex": 609,
+        "depreciation": 247,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No PAT; quarterly pages carry only iron ore/pig iron/steel sales volumes, no quarterly segment revenue or EBITDA."
+     },
+     {
+      "side": "separated",
+      "entity": "Vedanta Iron and Steel Limited",
+      "segment_name": "Others \u2014 discontinued operations (steel and cement)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure, FY2026 'Others' column under Total Discontinued Operations (steel and cement; steel business forms part of the Iron Ore/Steel undertaking per the Scheme). Revenue = external revenue (segment revenue incl. inter-segment: FY2026 7,306; FY2025 7,936). Operating profit = segment result (EBITDA).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 7380,
+        "operating_profit": 526,
+        "pat": null,
+        "segment_assets": 7413,
+        "segment_liabilities": 3503,
+        "capex": null,
+        "depreciation": 383,
+        "source": "Annual Report 2026 \u2014 page 261"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 7306,
+        "operating_profit": 164,
+        "pat": null,
+        "segment_assets": 7996,
+        "segment_liabilities": 3601,
+        "capex": 1065,
+        "depreciation": 265,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No FY2024 continuing/discontinued split (FY2024 'Others' was one undivided segment); no FY2025 capex; no PAT; no quarterly figures."
+     },
+     {
+      "side": "separated",
+      "entity": "Vedanta Power Limited (demerger filed by Talwandi Sabo Power Limited, TSPL, as resulting company)",
+      "segment_name": "Power / Merchant Power Undertaking \u2014 discontinued operation in FY2026",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure. FY2026 and FY2025 figures are the 'Power' column under Total Discontinued Operations (thermal commercial power, excl. captive). FY2024 is the undivided Power segment as then reported \u2014 it also contains the power that stays with the parent (wind/Mettur, FY2025 comparative 137 revenue, 87 EBITDA), so it is not strictly comparable. Operating profit = segment result (EBITDA). No segment PAT.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 6153,
+        "operating_profit": 971,
+        "pat": null,
+        "segment_assets": 15209,
+        "segment_liabilities": 837,
+        "capex": 1364,
+        "depreciation": 652,
+        "source": "Annual Report 2024 \u2014 page 234 (whole Power segment, not split continuing/discontinued)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 6022,
+        "operating_profit": 650,
+        "pat": null,
+        "segment_assets": 16534,
+        "segment_liabilities": 1317,
+        "capex": null,
+        "depreciation": 614,
+        "source": "Annual Report 2026 \u2014 page 261"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 8721,
+        "operating_profit": 1534,
+        "pat": null,
+        "segment_assets": 16876,
+        "segment_liabilities": 1868,
+        "capex": 1871,
+        "depreciation": 548,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No PAT; no FY2025 discontinued-power capex. 4QFY26 power EBITDA \u20b9566 crore (Presentation Apr 2026 p49) covers all power sales incl. HZL wind and Jharsuguda, so not merchant power alone."
+     },
+     {
+      "side": "remaining",
+      "entity": "Vedanta Limited (parent) \u2014 holds c.60.71% of listed subsidiary Hindustan Zinc Limited",
+      "segment_name": "Zinc India (zinc, lead and silver \u2013 India)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure, continuing operations in FY2026. Revenue = external revenue (segment revenue incl. inter-segment: FY2024 27,925; FY2025 32,903; FY2026 39,057). Operating profit = segment result (EBITDA, non-GAAP). No segment PAT. Parent stake cut from 64.92%\u219263.42% (FY2025, \u20b93,134 crore) and 63.42%\u219260.71% (FY2026, \u20b96,292 crore).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 27889,
+        "operating_profit": 13562,
+        "pat": null,
+        "segment_assets": 22594,
+        "segment_liabilities": 7353,
+        "capex": 3530,
+        "depreciation": 3486,
+        "source": "Annual Report 2024 \u2014 page 234 (also Annual Report 2025 \u2014 page 253)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 32865,
+        "operating_profit": 17365,
+        "pat": null,
+        "segment_assets": 24126,
+        "segment_liabilities": 7800,
+        "capex": 5176,
+        "depreciation": 3652,
+        "source": "Annual Report 2025 \u2014 page 252"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 39008,
+        "operating_profit": 22056,
+        "pat": null,
+        "segment_assets": 27474,
+        "segment_liabilities": 8784,
+        "capex": 6464,
+        "depreciation": 3798,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q2 FY27",
+       "revenue": 14525,
+       "operating_profit": 9243,
+       "source": "Presentation Oct 2026 \u2014 page 31"
+      },
+      "not_found": "No HZL standalone statutory revenue/PAT; no segment PAT."
+     },
+     {
+      "side": "remaining",
+      "entity": "Vedanta Limited (parent)",
+      "segment_name": "Zinc International",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure, continuing operations in FY2026. Revenue = external revenue. Operating profit = segment result (EBITDA). No segment PAT.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 3555,
+        "operating_profit": 693,
+        "pat": null,
+        "segment_assets": 7957,
+        "segment_liabilities": 2099,
+        "capex": 2139,
+        "depreciation": 456,
+        "source": "Annual Report 2024 \u2014 page 234"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 3918,
+        "operating_profit": 1321,
+        "pat": null,
+        "segment_assets": 10000,
+        "segment_liabilities": 1847,
+        "capex": 2045,
+        "depreciation": 447,
+        "source": "Annual Report 2025 \u2014 page 252"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 4860,
+        "operating_profit": 1321,
+        "pat": null,
+        "segment_assets": 13521,
+        "segment_liabilities": 2691,
+        "capex": 2316,
+        "depreciation": 773,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No PAT; no quarterly Zinc International revenue or EBITDA on the supplied pages."
+     },
+     {
+      "side": "remaining",
+      "entity": "Vedanta Limited (parent)",
+      "segment_name": "Copper",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure; the only continuing segment in the FY2026 standalone accounts. Revenue = external revenue (segment revenue incl. inter-segment: FY2024 19,730; FY2025 23,051; FY2026 31,069). Operating profit = segment result (EBITDA), negative in all three years. Base Metals demerger into VBML was dropped in Dec 2024, so copper stays.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 19726,
+        "operating_profit": -69,
+        "pat": null,
+        "segment_assets": 3439,
+        "segment_liabilities": 5398,
+        "capex": 104,
+        "depreciation": 251,
+        "source": "Annual Report 2024 \u2014 page 234"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 22797,
+        "operating_profit": -112,
+        "pat": null,
+        "segment_assets": 4601,
+        "segment_liabilities": 7169,
+        "capex": 71,
+        "depreciation": 48,
+        "source": "Annual Report 2025 \u2014 page 252"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 30896,
+        "operating_profit": -48,
+        "pat": null,
+        "segment_assets": 5837,
+        "segment_liabilities": 8707,
+        "capex": 127,
+        "depreciation": 54,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No PAT; quarterly pages give only copper cathode/rod sales volumes, no quarterly copper revenue or EBITDA."
+     },
+     {
+      "side": "remaining",
+      "entity": "Vedanta Limited (parent)",
+      "segment_name": "Power \u2014 continuing operations (wind power plants and Mettur Dam plant, excl. captive)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure, 'Power' column under Total Continuing Operations in the FY2026 report. Revenue = external revenue. Operating profit = segment result (EBITDA). FY2024 has no continuing/discontinued split, so no FY2024 figures for this narrower perimeter.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 137,
+        "operating_profit": 87,
+        "pat": null,
+        "segment_assets": 553,
+        "segment_liabilities": 70,
+        "capex": null,
+        "depreciation": 34,
+        "source": "Annual Report 2026 \u2014 page 261"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 135,
+        "operating_profit": 89,
+        "pat": null,
+        "segment_assets": 529,
+        "segment_liabilities": 67,
+        "capex": 0,
+        "depreciation": 33,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No FY2024 split, no FY2025 capex, no PAT, no quarterly split of continuing power."
+     },
+     {
+      "side": "remaining",
+      "entity": "Vedanta Limited (parent)",
+      "segment_name": "Others \u2014 continuing operations (port/berth, glass substrate, power cables, ferro alloys)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment disclosure, 'Others' column under Total Continuing Operations in the FY2026 report. Revenue = external revenue (segment revenue incl. inter-segment: FY2026 2,165; FY2025 2,144). Operating profit = segment result (EBITDA). FY2024 'Others' (external revenue 9,360; EBITDA 188; assets 10,736; liabilities 3,805; capex 1,355; D&A 657 \u2014 AR2024 p234) is undivided and includes steel/cement now in discontinued operations, so it is not shown here.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 2144,
+        "operating_profit": 236,
+        "pat": null,
+        "segment_assets": 2733,
+        "segment_liabilities": 1021,
+        "capex": null,
+        "depreciation": 52,
+        "source": "Annual Report 2026 \u2014 page 261"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 1350,
+        "operating_profit": 1,
+        "pat": null,
+        "segment_assets": 3489,
+        "segment_liabilities": 2149,
+        "capex": 830,
+        "depreciation": 152,
+        "source": "Annual Report 2026 \u2014 pages 260-261"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No FY2024 continuing-only figures, no FY2025 capex, no PAT, no quarterly figures."
+     }
+    ],
+    "not_found": "Vedanta Property Platforms Limited / Real Estate Business: the pages carry no revenue, profit, asset or capex figures at all. Vedanta Base Metals Limited demerger was dropped (Dec 2024)."
    }
   }
  },
@@ -15380,6 +15875,207 @@
      }
     ],
     "not_found": "Bhilwara Energy Limited: no own financials \u2014 only HEG's share of associate profit (FY26 11,550.70 lakh; FY25 1,747.96; FY24 8,166.21). No numbers for TACC, graphene or BESS separately."
+   },
+   "d6cb92cd76ab817ab18742f9d8b42833": {
+    "businesses": [
+     {
+      "side": "separated",
+      "entity": "HEG Graphite Limited (the Resulting Company, to be renamed HEG Limited) \u2014 receives the Graphite Undertaking / Demerged Undertaking",
+      "segment_name": "Graphite Electrodes (including other carbon products)",
+      "unit": "\u20b9 lakhs",
+      "measure_notes": "Operating profit = 'Segment result before interest & taxes' (segment EBIT, stated before interest income, fair-value gains/losses on investments, finance cost and tax). Revenue = external turnover; the Company reports nil inter-segment turnover. Depreciation/capex/assets/liabilities are the segment-level disclosures. FY2024 is taken on the restated basis in AR2025 p107, where the 63 MW thermal power plants were reclassified from Power into the Graphite segment; as originally reported in AR2024 p94 FY2024 graphite segment result was 33,089.71, segment assets 3,81,845.63, segment liabilities 1,14,896.79, depreciation 16,394.67 (revenue and capex unchanged). Standalone and consolidated graphite segment figures are identical in all three years. No segment PAT is disclosed.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 236106.98,
+        "operating_profit": 31775.98,
+        "pat": null,
+        "segment_assets": 386580.3,
+        "segment_liabilities": 114925.53,
+        "capex": 31490.17,
+        "depreciation": 17187.5,
+        "source": "Annual Report 2025 \u2014 page 107 (restated comparatives); originally Annual Report 2024 \u2014 page 94"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 212004.91,
+        "operating_profit": 21661.06,
+        "pat": null,
+        "segment_assets": 386113.63,
+        "segment_liabilities": 106526.12,
+        "capex": 14778.63,
+        "depreciation": 19754.39,
+        "source": "Annual Report 2025 \u2014 page 107"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 253955.71,
+        "operating_profit": 27034.27,
+        "pat": null,
+        "segment_assets": 371886.83,
+        "segment_liabilities": 127881.29,
+        "capex": 10066.86,
+        "depreciation": 21079.82,
+        "source": "Annual Report 2026 \u2014 page 111"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q2 FY27",
+       "revenue": 526.6,
+       "operating_profit": null,
+       "source": "Presentation Nov 2026 \u2014 page 57 (figures in \u20b9 crore, not \u20b9 lakhs; 'Revenue from Demerged Operations' Q2 FY27 526.6, PBT 134.0, PAT 96.8; consolidated p61 shows revenue 526.5, PBT 134.4, PAT 97.2)"
+      },
+      "not_found": "No segment PAT, EBITDA or standalone HEG Graphite Limited accounts. Quarterly 'Demerged Operations' data is in \u20b9 crore and combines graphite plus power, not graphite alone."
+     },
+     {
+      "side": "separated",
+      "entity": "HEG Graphite Limited (the Resulting Company, to be renamed HEG Limited) \u2014 the 13.5 MW TAWA hydro plant forms part of the Demerged Undertaking; FY26 'Demerged Operations' revenue of \u20b92,568.5 cr equals standalone Graphite + Power turnover",
+      "segment_name": "Power Generation (13.5 MW Tawa Nagar hydro power plant)",
+      "unit": "\u20b9 lakhs",
+      "measure_notes": "Operating profit = 'Segment result before interest & taxes' (segment EBIT). Revenue = external turnover (power for sale); nil inter-segment turnover disclosed. From FY2025 the segment comprises only the 13.5 MW Tawa hydro plant, the 63 MW Mandideep thermal plants having been moved into the Graphite segment; FY2024 is therefore shown on the restated AR2025 basis. As originally reported in AR2024 p94 (thermal + hydro) FY2024 Power revenue was 3,383.38, segment result 49.12, segment assets 6,963.34, segment liabilities 292.45, depreciation 980.44, capex 163.18. No segment PAT disclosed.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 3383.38,
+        "operating_profit": 1362.85,
+        "pat": null,
+        "segment_assets": 2228.67,
+        "segment_liabilities": 263.71,
+        "capex": 163.18,
+        "depreciation": 187.61,
+        "source": "Annual Report 2025 \u2014 page 107 (restated comparatives); originally Annual Report 2024 \u2014 page 94"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 3266.0,
+        "operating_profit": 1576.77,
+        "pat": null,
+        "segment_assets": 2104.54,
+        "segment_liabilities": 249.61,
+        "capex": 43.94,
+        "depreciation": 206.84,
+        "source": "Annual Report 2025 \u2014 page 107"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 2894.76,
+        "operating_profit": 1472.25,
+        "pat": null,
+        "segment_assets": 1748.03,
+        "segment_liabilities": 296.87,
+        "capex": 82.31,
+        "depreciation": 137.36,
+        "source": "Annual Report 2026 \u2014 page 111"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No PAT, EBITDA, or any quarterly split for the Power/Tawa segment; quarterly presentations give only company-level and demerged/continuing totals."
+     },
+     {
+      "side": "remaining",
+      "entity": "HEG Advanced Materials Limited (formerly HEG Limited) \u2014 parent, standalone",
+      "segment_name": "Continuing Operations (HEGAM standalone, post-demerger retained business)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Operating profit = 'Continuing Operations EBITDA' as the presentation computes it (Total Income incl. other income less operating expenses, before finance cost, depreciation and tax). PAT = 'PAT from Continuing Operations'. Revenue line is 'Revenue from Continuing Operations' (external). Other income (\u20b9164.3 cr in FY26) dominates total income. Balance-sheet totals are company-level, not segmental: H1 FY27 total assets 2,146.4 and FY26 restated 1,782.1 (Presentation Nov 2026 \u2014 page 58).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 14.6,
+        "operating_profit": 110.1,
+        "pat": 96.6,
+        "segment_assets": 1782.1,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": 4.8,
+        "source": "Presentation Nov 2026 \u2014 page 56 (P&L); page 58 (restated FY26 total assets)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q2 FY27",
+       "revenue": 7.6,
+       "operating_profit": 41.0,
+       "source": "Presentation Nov 2026 \u2014 page 56 (PBT 38.5, PAT 36.5)"
+      },
+      "not_found": "FY2024 and FY2025 continuing-operations figures, segment liabilities and capex not disclosed; continuing operations are not split by business line."
+     },
+     {
+      "side": "remaining",
+      "entity": "HEG Advanced Materials Limited (formerly HEG Limited) \u2014 parent, consolidated (hydro/wind power, consultancy, BESS, anode materials/TACC)",
+      "segment_name": "Continuing Operations (HEGAM consolidated \u2014 HEG Greentech / advanced materials platform)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Operating profit = 'Continuing Operations EBITDA' as presented (Total Income incl. other income less operating expenses, before finance cost, depreciation, associates' profit and tax). PAT = 'PAT from Continuing Operations'. Revenue = 'Revenue from Continuing Operations' (external). Balance-sheet totals are group-level, not segmental: H1 FY27 total assets 4,436.0 and FY26 restated (ex-demerged graphite) 3,298.7 (Presentation Nov 2026 \u2014 page 62).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 909.7,
+        "operating_profit": 611.3,
+        "pat": 383.8,
+        "segment_assets": 3298.7,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": 52.5,
+        "source": "Presentation Nov 2026 \u2014 page 60 (P&L); page 62 (restated FY26 total assets)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q2 FY27",
+       "revenue": 429.9,
+       "operating_profit": 312.8,
+       "source": "Presentation Nov 2026 \u2014 page 60 (PBT 278.5, PAT 208.9)"
+      },
+      "not_found": "FY2024/FY2025 continuing-operations figures, segment liabilities, capex; no breakdown between hydro power, consultancy, BESS and anode (TACC) businesses."
+     }
+    ],
+    "not_found": "HEG Graphite Limited's own standalone accounts carry no figures on these pages; anode (TACC), BESS and hydro-expansion pages give only capex plans and market data, not reported financials."
    }
   }
  },
@@ -23553,6 +24249,354 @@
      }
     ],
     "not_found": "Home Credit India: no figures at all on these pages. The pages also carry no scheme/demerger document, so no Demerged Undertaking carve-out financials, no share-entitlement or listing data, and no capex for any business."
+   },
+   "13f98ad8b8210811013825bfc2dd3d06": {
+    "businesses": [
+     {
+      "side": "separated",
+      "entity": "TVS Credit Services (consumer finance and related business / Demerged Undertaking transferring to the Resulting Company \u2014 TVSM WOS, the dedicated consumer finance platform)",
+      "segment_name": "Financial Services (consolidated reportable segment)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment reporting. Revenue = net revenue (external, after eliminating inter-segment: \u20b96.10 cr in FY2024, nil FY2025, \u20b915.10 cr FY2026; includes segment other income from FY2025 presentation). operating_profit = 'Segment-wise results before interest and tax' (segment result / EBIT, before segment interest). pat = segment 'Profit after tax'. Assets/liabilities are segment assets/liabilities; depreciation is segment depreciation/amortisation. No capex or EBITDA disclosed by segment.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 5784.4,
+        "operating_profit": 765.64,
+        "pat": 571.99,
+        "segment_assets": 28486.47,
+        "segment_liabilities": 24277.32,
+        "capex": null,
+        "depreciation": 27.39,
+        "source": "Annual Report 2024 \u2014 page 169 (restated in Annual Report 2025 \u2014 page 181: net revenue 5,785.74, result 758.10, PAT 564.45, assets 28,683.78)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 6559.04,
+        "operating_profit": 959.55,
+        "pat": 701.09,
+        "segment_assets": 31674.64,
+        "segment_liabilities": 26132.63,
+        "capex": null,
+        "depreciation": 46.2,
+        "source": "Annual Report 2025 \u2014 page 180 (also Annual Report 2026 \u2014 page 201)"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 7186.85,
+        "operating_profit": 1241.78,
+        "pat": 916.36,
+        "segment_assets": 35451.23,
+        "segment_liabilities": 29010.72,
+        "capex": null,
+        "depreciation": 56.12,
+        "source": "Annual Report 2026 \u2014 page 200"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Capex and EBITDA not disclosed for the segment; quarterly presentations carry no Financial Services segment split (only consolidated/company totals)."
+     },
+     {
+      "side": "separated",
+      "entity": "TVS Credit Services Limited",
+      "segment_name": "TVS Credit Services Limited (entity financials, Form AOC-I)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Subsidiary entity-level figures from Form AOC-I. revenue = 'Turnover' (continuing operations in FY2025). operating_profit = 'Profit before taxation' (PBT, after interest \u2014 not EBIT/EBITDA). pat = 'Profit after taxation'. segment_assets/liabilities = total assets / total liabilities of the entity. Holding: 80.97% (FY2024), 81.12% (FY2025), 81.18% (FY2026).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 5789.57,
+        "operating_profit": 761.94,
+        "pat": 571.83,
+        "segment_assets": 28137.55,
+        "segment_liabilities": 24272.06,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 170"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 6630.04,
+        "operating_profit": 1025.44,
+        "pat": 767.25,
+        "segment_assets": 31052.46,
+        "segment_liabilities": 26104.54,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 182"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 7196.0,
+        "operating_profit": 1238.32,
+        "pat": 913.17,
+        "segment_assets": 35068.09,
+        "segment_liabilities": 29000.46,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 202"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "AOC-I gives no depreciation, capex, EBITDA or quarterly figures for the entity."
+     },
+     {
+      "side": "separated",
+      "entity": "TVS Housing Finance Private Limited",
+      "segment_name": "TVS Housing Finance Private Limited (entity financials, Form AOC-I)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Subsidiary entity-level figures from Form AOC-I. revenue = 'Turnover'; operating_profit = 'Profit before taxation' (PBT); pat = 'Profit after taxation'; assets/liabilities = total assets / total liabilities. Share capital \u20b912.00 cr throughout; step-down subsidiary held 80.97%/81.12%/81.18%.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 0.96,
+        "operating_profit": 0.96,
+        "pat": 0.73,
+        "segment_assets": 15.72,
+        "segment_liabilities": 0.24,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 170"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 1.08,
+        "operating_profit": 1.08,
+        "pat": 0.81,
+        "segment_assets": 16.57,
+        "segment_liabilities": 0.27,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 182"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 1.07,
+        "operating_profit": 0.96,
+        "pat": 0.69,
+        "segment_assets": 17.24,
+        "segment_liabilities": 0.27,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 202"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No depreciation, capex, EBITDA or quarterly data; not a separate reportable segment."
+     },
+     {
+      "side": "separated",
+      "entity": "Harita ARC Limited (Harita ARC Private Limited)",
+      "segment_name": "Harita ARC Private Limited (entity financials, Form AOC-I)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Dormant entity in Form AOC-I: turnover, PBT, PAT and total assets all shown as nil ('-'); share capital \u20b925,000; reserves & surplus (0.02); total liabilities 0.02 in each year. operating_profit line is 'Profit before taxation'.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 0,
+        "operating_profit": 0,
+        "pat": 0,
+        "segment_assets": 0,
+        "segment_liabilities": 0.02,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 170"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 0,
+        "operating_profit": 0,
+        "pat": 0,
+        "segment_assets": 0,
+        "segment_liabilities": 0.02,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 182"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 0,
+        "operating_profit": 0,
+        "pat": 0,
+        "segment_assets": 0,
+        "segment_liabilities": 0.02,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 202"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Entity is dormant: no revenue, profit, depreciation, capex or quarterly figures; only share capital, reserves and \u20b90.02 cr liabilities."
+     },
+     {
+      "side": "remaining",
+      "entity": "TVS Motor Company Limited (parent)",
+      "segment_name": "Automotive vehicles & parts (consolidated reportable segment)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment reporting. revenue = net revenue (external domestic + exports + segment other income, after eliminating inter-segment sales). operating_profit = 'Segment-wise results before interest and tax' (segment result / EBIT). pat = 'Profit / Loss for the period' (after tax, share of associates and discontinued operations); segment 'Profit after tax from continuing operations' was 1,230.60 (FY2024), 1,722.93 (FY2025), 2,311.13 (FY2026). Depreciation = segment depreciation/amortisation; no capex by segment.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 32991.09,
+        "operating_profit": 2214.4,
+        "pat": 1187.13,
+        "segment_assets": 13332.74,
+        "segment_liabilities": 10175.22,
+        "capex": null,
+        "depreciation": 925.18,
+        "source": "Annual Report 2024 \u2014 page 169 (restated in Annual Report 2025 \u2014 page 181: net revenue 33,098.85, result 2,216.04, profit for period 1,214.07, assets 13,536.68, liabilities 10,432.03, dep 928.76)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 37599.53,
+        "operating_profit": 2849.85,
+        "pat": 1678.72,
+        "segment_assets": 16262.27,
+        "segment_liabilities": 12362.01,
+        "capex": null,
+        "depreciation": 999.36,
+        "source": "Annual Report 2025 \u2014 page 180 (also Annual Report 2026 \u2014 page 201)"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 48904.68,
+        "operating_profit": 3916.55,
+        "pat": 2270.06,
+        "segment_assets": 21049.39,
+        "segment_liabilities": 16777.04,
+        "capex": null,
+        "depreciation": 1216.52,
+        "source": "Annual Report 2026 \u2014 page 200"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q1 FY27 (quarter ended June 2026)",
+       "revenue": 13896,
+       "operating_profit": 1779,
+       "source": "Presentation Jul 2026 \u2014 page 7 (company-level revenue from operations and EBITDA, not a segment split; PAT \u20b91,174 cr)"
+      },
+      "not_found": "Segment capex not disclosed; quarterly numbers are company-level (standalone TVS Motor), not segment-level."
+     },
+     {
+      "side": "remaining",
+      "entity": "TVS Motor Company Limited (parent)",
+      "segment_name": "Automotive components (consolidated reportable segment \u2014 FY2024 only; Sundaram Auto Components business reported as discontinued operations from FY2025 and no longer a separate segment)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment reporting FY2024. revenue = net (external) revenue \u20b9365.40 cr; total sales including inter-segment were \u20b9763.79 cr. operating_profit = segment result before interest and tax. pat = segment profit after tax. Depreciation = segment depreciation/amortisation.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 365.4,
+        "operating_profit": 40.06,
+        "pat": 19.15,
+        "segment_assets": 395.41,
+        "segment_liabilities": 255.12,
+        "capex": null,
+        "depreciation": 22.55,
+        "source": "Annual Report 2024 \u2014 page 169"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 180 (segment no longer reported; FY2024 comparatives merged into Automotive vehicles & parts)"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 200 (segment not reported)"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Capex not disclosed; no FY2025/FY2026 segment data (business discontinued/divested \u2014 entity-level FY2025 discontinued turnover \u20b9744.64 cr, PBT \u20b922.48 cr, PAT \u20b929.91 cr, Annual Report 2025 page 182)."
+     },
+     {
+      "side": "remaining",
+      "entity": "TVS Motor Company Limited (parent)",
+      "segment_name": "Others (consolidated reportable segment \u2014 TVS Digital Limited; nil/not reported from FY2025)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Consolidated segment reporting. revenue = external sales (domestic). operating_profit = segment result before interest and tax. pat = segment profit after tax.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 3.85,
+        "operating_profit": 0.37,
+        "pat": 0.27,
+        "segment_assets": 5.83,
+        "segment_liabilities": 1.69,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 169 (Annual Report 2025 \u2014 page 181 restates FY2024 Others revenue as 0.05)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 180 (Others column nil)"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 200 (segment not reported)"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No depreciation or capex; segment ceased to carry figures after FY2024 (TVS Digital Limited divested 15-09-2024)."
+     }
+    ],
+    "not_found": "Home Credit India: no figures on these pages. Scheme labels \u2014 'Demerged Undertaking', 'TVSM WOS', 'Resulting Company', 'dedicated consumer finance platform' \u2014 carry no standalone numbers; their financials appear via the Financial Services segment and TVS Credit Services Limited above."
    }
   }
  },
@@ -96346,6 +97390,396 @@
       "quote": "Invested Growth Capex of \u20b91,148  crore  in Q1 FY27"
      }
     ]
+   },
+   "ac3e6fa17c71a7c3e610bb37b9d3ecaa": {
+    "entities": [
+     {
+      "name": "Vedanta Limited",
+      "former_names": [],
+      "role": "parent",
+      "scheme": "Parent/Demerged Company in the 2023 composite scheme of arrangement (filed 2023, effective 1 May 2026) into four resulting companies; also Demerged Company in the 2026 demerger of its Real Estate Business; earlier 2021/2022 General Reserve-to-Retained Earnings scheme withdrawn in 2025",
+      "status": "listed",
+      "nse_symbol": "VEDL",
+      "business": "Retained: Zinc India (HZL 60.71%), Zinc International, Copper (Sterlite Copper incl. Nicomet), FACOR, Vizag General Cargo Berth, semiconductors/display, Incab Industries; incubates future-facing businesses",
+      "swap_ratio": "not stated (shareholders keep their Vedanta Limited shares; \"Shareholders of Vedanta Limited will receive equity shares in each of the four resulting listed entities (in addition to their shareholding in Vedanta Limited) in proportion to their existing holdings\")",
+      "listing": "listed (NSE: VEDL; BSE: 500295)",
+      "turnover": "FY26 consolidated revenue \u20b91,74,075 crore (up 15% YoY) pre-demerger; continuing operations Q1FY27 revenue \u20b923,456 crore",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "52.34% of total cost of acquisition of equity shares of the Company, \"determined based on the net worth of the Company and the net assets of the Aluminum Undertaking, Merchant Power Undertaking, Oil and Gas Undertaking, and Iron Ore Undertaking\"",
+      "who_runs_it": "Mr. Anil Agarwal, Chairman, Vedanta Ltd.; Ms. Deshnee Naidoo, Group Chief Executive Officer; Mr. Arun Misra, Executive Director; Mr. Ajay Goel, Group Chief Financial Officer",
+      "quote": "The current listed Vedanta limited entity will also continue to be a powerhouse in its own right."
+     },
+     {
+      "name": "Vedanta Aluminium Metal Limited",
+      "former_names": [],
+      "role": "resulting",
+      "scheme": "2023 composite scheme of arrangement (Resulting Company 1), effective 1 May 2026",
+      "status": "listed",
+      "nse_symbol": "VAML",
+      "business": "Aluminum Undertaking / Aluminium Business; also receives the Company's shareholding in Bharat Aluminium Company Limited (BALCO) and four NCD ISINs forming part of the Aluminium Undertaking",
+      "swap_ratio": "1 (One) fully paid-up equity share of VAML having a face value of INR 1 (Rupee One) each for every 1 (One) fully paid-up equity share of INR 1 (Rupees One) each of the Company.",
+      "listing": "listed on 2026-06-15",
+      "turnover": "not stated for the undertaking (Aluminium segment FY26 EBITDA \u20b925,502 crore, up 43% YoY, 38% margin, as stated on the Apr 2026 call)",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "7.15% of total cost of acquisition of equity shares of the Company, a ratio \"determined based on the net worth of the Company and the net assets of the Aluminum Undertaking, Merchant Power Undertaking, Oil and Gas Undertaking, and Iron Ore Undertaking\"",
+      "who_runs_it": "not stated for the entity; Mr. Rajiv Kumar is named Chief Executive Officer, Aluminium Business, Vedanta Limited and Mr. Anup Agarwal Chief Financial Officer, Aluminum Business",
+      "quote": "Vedanta Aluminium, a leading global fully integrated producer of aluminium, will operate with strong cost competitiveness, a diversified product portfolio, and a growing focus on value-added and low-carbon aluminium solutions."
+     },
+     {
+      "name": "Vedanta Power Limited",
+      "former_names": [
+       "Talwandi Sabo Power Limited"
+      ],
+      "role": "resulting",
+      "scheme": "2023 composite scheme of arrangement (Resulting Company 2), effective 1 May 2026; sanctioned under a separate NCLT petition dated 9 January 2026",
+      "status": "listed",
+      "nse_symbol": "VEDPOWER",
+      "business": "Merchant Power Undertaking / Merchant Power Business \u2014 generation, transmission and distribution of power, including TSPL and the Athena and Meenakshi plants",
+      "swap_ratio": "1 (One) fully paid-up equity share of TSPL having face value of INR 10 (Indian Rupees Ten) each for every 1 (one) fully paid-up equity share of INR 1 (Indian Rupee One) each of the Company.",
+      "listing": "listed on 2026-06-15",
+      "turnover": "not stated for the undertaking (FY26 power sales grew 30% YoY to 16.4 billion units, per the Apr 2026 call)",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "12.23% of total cost of acquisition of equity shares of the Company (ratio based on net worth of the Company and net assets of the undertakings); \"The net worth of the resulting company is positive Rs. 3008 crores and will further go up to Rs. 4535 crores on the scheme being implemented\"",
+      "who_runs_it": "not stated for the entity; Mr. Rajinder Singh Ahuja is named Chief Executive Officer, Power Business, Vedanta Limited",
+      "quote": "Following the coming into effect of Part III of the Scheme, the Merchant Power Undertaking (as defined in the Scheme) of the Demerged Company shall be transferred to the Resulting Company 2 pursuant to which the Resulting Company 2 will carry on the Merchant Power Business (as defined in the Scheme)."
+     },
+     {
+      "name": "Vedanta Oil and Gas Limited",
+      "former_names": [
+       "Malco Energy Limited"
+      ],
+      "role": "resulting",
+      "scheme": "2023 composite scheme of arrangement (Resulting Company 3), effective 1 May 2026",
+      "status": "listed",
+      "nse_symbol": "VOGL",
+      "business": "Oil and Gas Undertaking / Oil and Gas Business \u2014 India's largest private oil and gas exploration and production business (Cairn Oil & Gas)",
+      "swap_ratio": "1 (One) fully paid-up equity share of MEL having face value of INR 1 (Indian Rupee One) each for every 1 (one) fully paid-up equity share of INR 1 (Indian Rupee One) each of the Company.",
+      "listing": "listed on 2026-06-15",
+      "turnover": "not stated for the undertaking (FY26 average gross operated production 87.2 kboepd; Q2FY26 segment EBITDA \u20b91,029 crore at a 44% margin)",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "21.49% of total cost of acquisition of equity shares of the Company, a ratio \"determined based on the net worth of the Company and the net assets of the Aluminum Undertaking, Merchant Power Undertaking, Oil and Gas Undertaking, and Iron Ore Undertaking\"",
+      "who_runs_it": "not stated for the entity; Mr. Jasmin Sahurity is named Chief Operating Officer, Oil & Gas and Mr. Hitesh Vaid Chief Financial Officer, Oil and Gas Business",
+      "quote": "Following the coming into effect of Part IV of the Scheme, the Resulting Company 3 will carry on the Oil and Gas Business (as defined in the Scheme)."
+     },
+     {
+      "name": "Vedanta Iron and Steel Limited",
+      "former_names": [],
+      "role": "resulting",
+      "scheme": "2023 composite scheme of arrangement (Resulting Company 4), effective 1 May 2026",
+      "status": "listed",
+      "nse_symbol": "VISL",
+      "business": "Iron Ore Undertaking / Iron Ore Business; press release describes the entity as Vedanta Iron & Steel (iron ore, pig iron, steel)",
+      "swap_ratio": "1 (One) fully paid-up equity share of VISL having face value of INR 1 (Indian Rupee One) each for every 1 (one) fully paid-up equity share of INR 1 (Indian Rupee One) each of the Company.",
+      "listing": "listed on 2026-06-15",
+      "turnover": "not stated for the undertaking (FY26: iron ore production 6.2 million tonnes, up 5% YoY; record pig iron 895 kt, up 10% YoY; ESL steel 1.3 million tonnes)",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "6.79% of total cost of acquisition of equity shares of the Company, a ratio \"determined based on the net worth of the Company and the net assets of the Aluminum Undertaking, Merchant Power Undertaking, Oil and Gas Undertaking, and Iron Ore Undertaking\"",
+      "who_runs_it": "not stated",
+      "quote": "Following the coming into effect of Part VI of the Scheme, the Resulting Company 4 will carry on the Iron Ore Business (as defined in the Scheme)."
+     },
+     {
+      "name": "Vedanta Base Metals Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "2023 composite scheme of arrangement \u2014 originally Resulting Company 4/5 for the Base Metals Undertaking (Part V); Part V was not implemented and the Base Metals business was retained in Vedanta Limited",
+      "status": "withdrawn / dropped",
+      "nse_symbol": "",
+      "business": "Base Metals Undertaking (copper, including the Thoothukudi, Tamil Nadu copper business, and nickel) \u2014 retained in residual Vedanta Limited instead of being demerged",
+      "swap_ratio": "not stated (Part V of the Scheme, under which shares would have been issued, was not implemented; \"All key terms as originally envisaged under the Scheme including with respect to share entitlement ratio shall remain unaffected\")",
+      "listing": "not to be listed",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated",
+      "quote": "Accordingly, we would like to update you that the Board has today at 08:20 p.m. IST, approved the decision to not implement Part V of the Scheme pertaining to Base Metals undertaking along with appropriate updates to the Scheme."
+     },
+     {
+      "name": "Vedanta Property Platforms Limited",
+      "former_names": [],
+      "role": "resulting",
+      "scheme": "2026 demerger of the Real Estate Business (Resulting Company), draft scheme approved by the Board on 30 July 2026",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "Real Estate Business \u2014 development, construction, redevelopment, operation, management, leasing and licensing of land, buildings and all categories of immovable properties",
+      "swap_ratio": "not stated (the Scheme defines a \"Share Entitlement Ratio\"; shares issued under any Concurrent Scheme \"shall not result in any changes / adjustments to the Share Entitlement Ratio\")",
+      "listing": "not stated",
+      "turnover": "INR 1.26 crore for the year ended March 31, 2026 (turnover including other operating income of the Demerged Undertaking)",
+      "turnover_pct_of_parent": "0.001 % of the total standalone turnover of Vedanta Limited for the year ended March 31, 2026",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated",
+      "quote": "Kindly note that subject to necessary statutory, regulatory and other approvals, as may be necessary, the Board of Directors have considered and approved the draft Scheme of Arrangement (\u201cScheme\u201d) between Vedanta Limited (\u201cCompany\u201d or \u201cDemerged Company\u201d) and Vedanta Property Platforms Limited (\u201cResulting Company\u201d) and their respective shareholders and creditors for the demerger of the Demerged Undertaking (as defined in the Scheme) of the Company to the Resulting Company on a going concern basis."
+     },
+     {
+      "name": "Hindustan Zinc Limited",
+      "former_names": [],
+      "role": "listed_subsidiary",
+      "scheme": "Listed subsidiary retained by the parent; its own Scheme of Arrangement between Hindustan Zinc Limited and its shareholders was sanctioned by NCLT Jaipur (order pronounced 16 July 2024); stake trimmed by the parent in 2025 and 2026 sales ahead of the 2026 demerger",
+      "status": "listed",
+      "nse_symbol": "HINDZINC",
+      "business": "Zinc, lead and silver mining and smelting in India; held 60.71% by Vedanta Limited as on 30 June 2026 and housed in the parent after the demerger",
+      "swap_ratio": "Stake sales, not a demerger: 66.7 million shares (c. 1.6 per cent of the issued ordinary share capital) sold to institutional investors by accelerated bookbuild on 18 June 2025 for gross proceeds of c. INR 3,028 Cr; a further offer-for-sale launched 27 January 2026 of about 1.1% (\"Rs.3,000 crores broadly\"), taking holding to around 60.7% from 61.8%",
+      "listing": "listed (BSE: 500188; NSE: HINDZINC)",
+      "turnover": "Zinc India segment revenue \u20b939,057 crore in FY26 and \u20b912,985 crore in Q1FY27 (EBITDA \u20b922,056 crore FY26, 56% margin)",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated",
+      "quote": "Vedanta Limited (\"Vedanta\") announces that it has sold 66.7 million shares in Hindustan Zinc Limited, a subsidiary of the Company, to institutional investors by way of an accelerated bookbuild process, representing c. 1.6 per cent of the issued ordinary share capital."
+     },
+     {
+      "name": "Bharat Aluminium Company Limited",
+      "former_names": [],
+      "role": "merged_in",
+      "scheme": "2023 composite scheme of arrangement \u2014 related transfer: as part of the overall reorganization, Vedanta Limited's shareholding in BALCO transferred to VAML (approved 20 April 2026), outside the Scheme of Arrangement",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "Aluminium smelting and power subsidiary (including the new 435,000 tpa BALCO smelter); shareholding moved from Vedanta Limited to Vedanta Aluminium Metal Limited",
+      "swap_ratio": "No shares to Vedanta's shareholders: \"VAML will issue its Compulsorily Convertible Debentures (\u201cCCDs\u201d) which would not be less than the fair market value of BALCO determined as per Rule 57 of Income Tax Rules, 2026.\"",
+      "listing": "not stated",
+      "turnover": "\u20b9 15,909 Crores for the year ended March 31, 2025 (last audited financial statements)",
+      "turnover_pct_of_parent": "about 10% of the consolidated turnover of the Company for year ended March 31, 2025",
+      "net_worth_or_assets": "Net worth as on March 31, 2025 was \u20b9 12,088 Crores, constituting 39% of the consolidated net worth of the Company as on March 31, 2025",
+      "who_runs_it": "not stated",
+      "quote": "Turnover of BALCO as per the last audited financial statements, i.e., for the year ended March 31, 2025 was \u20b9 15,909 Crores, constituting about 10% of the consolidated turnover of the Company for year ended March 31, 2025."
+     }
+    ],
+    "size_statement": "2023/2026 composite demerger \u2014 \"For the purpose of determining post-demerger cost of acquisition of the Equity Shares of the Company and the Resulting Companies, shareholders may apportion their total cost of acquisition of the Company in the following manner: 1 Vedanta Limited 52.34% | 2 Vedanta Aluminium Metal Limited 7.15% | 3 Talwandi Sabo Power Limited 12.23% | 4 Malco Energy Limited 21.49% | 5 Vedanta Iron and Steel Limited 6.79%\" and \"The aforesaid ratio has been determined based on the net worth of the Company and the net assets of the Aluminum Undertaking, Merchant Power Undertaking, Oil and Gas Undertaking, and Iron Ore Undertaking, in accordance with Sections 73 of the Income-tax, Act, 2025.\" Post-listing: \"Combined market cap of all Demerger resulting companies grew by over \u20b9 71k crore in Q1\". 2026 real estate demerger \u2014 \"The turnover (including other operating income) of the Demerged Undertaking for the year ended March 31, 2026 was INR 1.26 crore representing 0.001 % of the total standalone turnover of Vedanta Limited for the year ended March 31, 2026.\"",
+    "promoter_holding_parent": "54.72% \u2014 \"Vedanta Resources Ltd (through its subsidiaries)\" as on 30 June 2026 (Q1FY27 investor presentation entity structure). Per the 15 May 2026 Regulation 30A disclosure: Twin Star Holdings Ltd \"holding 40.02% shares in Vedanta Limited\", Vedanta Holdings Mauritius II Limited \"holding 12.60% shares in Vedanta Limited\", Welter Trading Limited \"holding 0.98% shares in Vedanta Limited\"; Vedanta Resources Limited is \"classified as a member of the promoter group of Vedanta Limited, with no direct shareholding in Vedanta Limited\". At the 18 February 2025 court-convened meeting the Promoter and Promoter Group held 2,204,867,749 of 3,910,388,057 shares (record date 11 February 2025).",
+    "promoter_holding_after": "2023/2026 composite demerger: \"Post demerger, every Vedanta shareholder - both retail and institutional - will receive one new share in each of the newly demerged companies. Other than this, there will be no change in the overall shareholding structure.\" And: \"The shareholders will continue to enjoy value unlocking of the Vedanta Base Metals business as part of legacy residual Vedanta where they will remain shareholders in addition to receiving equivalent shares in other resulting companies which will mirror Vedanta shareholding.\" 2026 real estate demerger: not stated.",
+    "public_shareholders_get": "2023/2026 composite demerger: \"In accordance with provisions of the Scheme, Resulting Companies issued and allotted 1 (One) fully paid-up equity share of each Resulting Companies for every 1 (One) fully paid-up equity share held in the Company, to the shareholders of the Company whose names are recorded in the register of members and / or records of the depository as on the Record Date (i.e., May 01, 2026).\" Also: \"Shareholders of Vedanta Limited will receive equity shares in each of the four resulting listed entities (in addition to their shareholding in Vedanta Limited) in proportion to their existing holdings, ensuring continuity of ownership while enabling direct participation in the growth trajectories of individual businesses.\" And: \"Shareholders holding one share of Vedanta as on 29th April, today, will receive four additional shares of the resulting companies.\" 2026 real estate demerger: not stated (consideration is a \"Share Entitlement Ratio\" defined in the Scheme, value not disclosed).",
+    "management_incentives": "not stated",
+    "insider_actions": "Promoter group borrowing secured on Vedanta Limited shares: Vedanta Resources Limited (borrower) with Twin Star Holdings Ltd, Vedanta Holdings Mauritius II Limited and Welter Trading Limited as guarantors entered a facility agreement dated 30 January 2026, amended and restated on 13 May 2026 and upsized \"from up to US$ 350,000,000 to US$ 600,000,000\"; \"Encumbrances have been created over the shares of Vedanta Limited, in terms of the Amended Facility Agreement and related finance documents, and such encumbrance(s) have been disclosed in the form and manner specified under the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011\", with disclosures made under Regulations 29(1) and 31 of the Takeover Regulations. Company-level selling around the separation: on 18 June 2025 Vedanta sold 66.7 million Hindustan Zinc shares (c. 1.6%) for c. INR 3,028 Cr \u2014 \"As we actively progress towards the demerger of Vedanta into sector focused entities across diverse verticals, this capital raise will help de-leverage the balance sheet and enhance financial flexibility\"; a further Zinc India offer-for-sale was launched on 27 January 2026 (about 1.1%, c. Rs.3,000 crore) with \"the entire amount will be used for de-leveraging\", taking the holding to around 60.7% from 61.8%. Also disclosed: \"As part of demerger proceedings, a full and final settlement of Rs. 660 Cr has been done with SEPCO\"; and a corporate guarantee from Vedanta covering the MoPNG/DGH alleged claims so they do not sit on the demerged oil and gas entity.",
+    "dates": [
+     {
+      "event": "board approval",
+      "date": "2023-09-29",
+      "entity": "Vedanta Limited (Demerged Company) \u2014 Original Scheme",
+      "source": "NCLT Mumbai order dated 17 October 2025 (filing 2025-10-18); intimation dated September 29, 2023"
+     },
+     {
+      "event": "board approval",
+      "date": "2023-10-10",
+      "entity": "Talwandi Sabo Power Limited (Resulting Company 2)",
+      "source": "NCLT Mumbai order dated 17 October 2025 (filing 2025-10-18)"
+     },
+     {
+      "event": "board approval",
+      "date": "2023-10-13",
+      "entity": "Vedanta Aluminium Metal Limited, Malco Energy Limited, Vedanta Iron and Steel Limited and Vedanta Base Metals Limited",
+      "source": "NCLT Mumbai order dated 17 October 2025 (filing 2025-10-18)"
+     },
+     {
+      "event": "exchange no-objection",
+      "date": "2024-07-30",
+      "entity": "NSE \u2014 observation letter with no objection on the Original Scheme",
+      "source": "Filing 2024-07-31 (intimation on BSE/NSE no-objection letters); NCLT order 17 October 2025"
+     },
+     {
+      "event": "exchange no-objection",
+      "date": "2024-07-31",
+      "entity": "BSE \u2014 observation letter with no adverse observations on the Original Scheme",
+      "source": "Filing 2024-07-31 (intimation on BSE/NSE no-objection letters)"
+     },
+     {
+      "event": "other",
+      "date": "2024-10-15",
+      "entity": "Talwandi Sabo Power Limited \u2014 first motion application filed with NCLT",
+      "source": "NCLAT order dated 27 May 2025, para 4.4 (filing 2025-05-29)"
+     },
+     {
+      "event": "NCLT order",
+      "date": "2024-11-21",
+      "entity": "Vedanta Limited and Malco Energy Limited \u2014 order convening shareholders'/creditors' meetings and dispensing others",
+      "source": "Filing 2024-11-22 (disclosure on NCLT order dated November 21, 2024)"
+     },
+     {
+      "event": "board approval",
+      "date": "2024-12-20",
+      "entity": "Vedanta Limited \u2014 approval of modified Scheme, not implementing Part V (Base Metals)",
+      "source": "Filing 2024-12-20 (Demerger \u2014 update on Scheme of Demerger)"
+     },
+     {
+      "event": "board approval",
+      "date": "2024-12-23",
+      "entity": "Vedanta Base Metals Limited, Vedanta Aluminium Metal Limited, Talwandi Sabo Power Limited, Malco Energy Limited, Vedanta Iron and Steel Limited \u2014 modified Scheme",
+      "source": "NCLT Mumbai order dated 17 October 2025 (filing 2025-10-18)"
+     },
+     {
+      "event": "other",
+      "date": "2025-01-17",
+      "entity": "Notices of meetings circulated to shareholders and creditors",
+      "source": "Filing 2025-01-17 (Notice of Court Convened General Meeting)"
+     },
+     {
+      "event": "shareholders / creditors meeting",
+      "date": "2025-02-18",
+      "entity": "Vedanta Limited \u2014 equity shareholders (10:00 a.m.), secured creditors (11:45 a.m.), unsecured creditors (1:30 p.m.); approved with 99.9987% of votes polled in favour by shareholders",
+      "source": "Filings 2025-02-18 (summary of proceedings) and 2025-02-20 (e-voting results and Scrutinizer's Report)"
+     },
+     {
+      "event": "other",
+      "date": "2025-03-04",
+      "entity": "Talwandi Sabo Power Limited \u2014 NCLT order rejecting the Scheme presented by TSPL in C.A./CAA/MB/220/2024",
+      "source": "Filing 2025-03-04 (update on company scheme application)"
+     },
+     {
+      "event": "other",
+      "date": "2025-03-28",
+      "entity": "All parties \u2014 conditions precedent timeline extended from 31 March 2025 to 30 September 2025",
+      "source": "Filing 2025-03-28 (extension of timelines for fulfilment of conditions precedent)"
+     },
+     {
+      "event": "other",
+      "date": "2025-05-27",
+      "entity": "Talwandi Sabo Power Limited \u2014 NCLAT interim stay on the rejection of the Scheme, against a Rs. 1245 crores bank guarantee",
+      "source": "Filing 2025-05-29 (NCLAT order dated May 27, 2025)"
+     },
+     {
+      "event": "exchange no-objection",
+      "date": "2025-06-03",
+      "entity": "BSE and NSE \u2014 revised observation letters with \"no adverse observations\" on the modified Scheme",
+      "source": "NCLT Mumbai order dated 17 October 2025 (filing 2025-10-18)"
+     },
+     {
+      "event": "other",
+      "date": "2025-09-15",
+      "entity": "Talwandi Sabo Power Limited \u2014 NCLAT order setting aside the NCLT rejection after settlement with SEPCO dated 11 September 2025",
+      "source": "Filing 2025-09-16 (NCLAT order dated September 15, 2025)"
+     },
+     {
+      "event": "other",
+      "date": "2025-09-30",
+      "entity": "All parties \u2014 conditions precedent timeline extended from 30 September 2025 to 31 March 2026",
+      "source": "Filing 2025-09-30 (extension of timelines for fulfilment of conditions precedent)"
+     },
+     {
+      "event": "NCLT order",
+      "date": "2025-10-17",
+      "entity": "Talwandi Sabo Power Limited \u2014 first motion order dispensing the equity shareholders' meeting and directing meetings of secured and unsecured creditors within 90 days",
+      "source": "Filing 2025-10-18 (NCLT order dated October 17, 2025)"
+     },
+     {
+      "event": "NCLT order",
+      "date": "2025-12-16",
+      "entity": "Vedanta Limited, VAML, MEL, VISL \u2014 NCLT Mumbai order sanctioning the Scheme of Arrangement for the demerger",
+      "source": "Filing 2025-12-16 (update on Scheme of Arrangement) and news clarification dated December 16, 2025"
+     },
+     {
+      "event": "NCLT order",
+      "date": "2026-01-09",
+      "entity": "Talwandi Sabo Power Limited \u2014 NCLT Mumbai order allowing TSPL's petition and sanctioning the Scheme",
+      "source": "Filing 2026-01-09 (update on C.P./CAA/MB/254/2025)"
+     },
+     {
+      "event": "other",
+      "date": "2026-01-21",
+      "entity": "Certified copy of the 16 December 2025 NCLT order received by the Company at around 4:30 p.m. IST",
+      "source": "Filing 2026-01-21 (certified copy of NCLT order)"
+     },
+     {
+      "event": "other",
+      "date": "2026-03-31",
+      "entity": "All parties \u2014 conditions precedent timeline extended from 31 March 2026 to 30 June 2026 under Clause 39.7",
+      "source": "Filing 2026-03-31 (extension of timelines for fulfilment of conditions precedent)"
+     },
+     {
+      "event": "board approval",
+      "date": "2026-04-20",
+      "entity": "Board approved making the Scheme effective on 1 May 2026, fixed 1 May 2026 as record date, and approved transfer of the Company's BALCO shareholding to VAML",
+      "source": "Filing 2026-04-20 (Record Date disclosure under Regulations 30 and 42)"
+     },
+     {
+      "event": "other",
+      "date": "2026-04-30",
+      "entity": "Bharat Aluminium Company Limited \u2014 share sale agreement between the Company and VAML \"likely to be signed on or before April 30, 2026\"; expected date of completion \"On or before April 30, 2026\"",
+      "source": "Filing 2026-04-20 (Annexure A)"
+     },
+     {
+      "event": "appointed date",
+      "date": "2026-05-01",
+      "entity": "All parties \u2014 \"the Effective Date will also be the Appointed Date i.e. May 01, 2026\"",
+      "source": "Filing 2026-05-16 (apportionment of cost of acquisition)"
+     },
+     {
+      "event": "effective date",
+      "date": "2026-05-01",
+      "entity": "All parties \u2014 \"The Scheme has come into effect on May 01, 2026, being the Effective Date\"",
+      "source": "Filing 2026-05-16 (apportionment of cost of acquisition); filing 2026-04-20"
+     },
+     {
+      "event": "record date",
+      "date": "2026-05-01",
+      "entity": "Vedanta Limited equity shareholders, and debenture holders of ISINs INE205A07196, INE205A07220, INE205A08038 and INE205A08020 whose NCDs transfer to VAML",
+      "source": "Filing 2026-04-20 (Record date fixed as May 01, 2026)"
+     },
+     {
+      "event": "listing and trading",
+      "date": "2026-06-15",
+      "entity": "Vedanta Aluminium Metal Limited (VAML), Vedanta Power Limited (VEDPOWER), Vedanta Iron and Steel Limited (VISL), Vedanta Oil and Gas Limited (VOGL) \u2014 \"4 new entities listed on NSE & BSE on 15th June\"",
+      "source": "Q1FY27 investor presentation, 30 July 2026; NSE equity list"
+     },
+     {
+      "event": "board approval",
+      "date": "2026-07-30",
+      "entity": "Vedanta Property Platforms Limited \u2014 Board approved the draft Scheme for demerger of the Real Estate Business; the Company \"shall apply to the BSE Limited and National Stock Exchange of India Limited, in due course\" for no-objection letters",
+      "source": "Filing 2026-07-30 (Scheme of Arrangement \u2014 demerger of Real Estate Business)"
+     }
+    ],
+    "other_differences": [
+     {
+      "metric": "debt and leverage",
+      "parent_or_remaining": "Vedanta Limited (remaining) keeps about $1 billion of net debt at 0.4x net debt/EBITDA, serviceable \"through FACOR, through Zinc International, and the Copper\" plus Zinc India dividends; Q1FY27 net debt \u20b98,299 crore and net debt/EBITDA 0.30x, gross debt \u20b928,291 crore",
+      "separated_business": "Of $5.5 billion group net debt, Vedanta Aluminium takes $3.5 billion (1.3x); Vedanta Power's leverage 4.7x with mostly long-term PFC/REC debt of 7 to 10 years; Vedanta Oil and Gas debt-free; Vedanta Iron and Steel no more than $0.2 billion",
+      "quote": "So out of 5.5, 3.5 goes to Vedanta Aluminum, and looking at the EBITDA of that business, their leverage will be still 1.3."
+     },
+     {
+      "metric": "debt and leverage",
+      "parent_or_remaining": "Continuing operations carried \u20b910,522 crore of net debt as on 31 March 2026, reduced to \u20b98,299 crore by 30 June 2026",
+      "separated_business": "\u20b942,732 crore of the \u20b953,254 crore group net debt as on 31 March 2026 went out with the discontinued (demerged) operations",
+      "quote": "At Vedanta group level pre-de-merger, our leverage stands at 0.95x, reflecting resilient EBITDA and disciplined financial structuring."
+     },
+     {
+      "metric": "operating margin",
+      "parent_or_remaining": "Remaining Vedanta Limited: Q1FY27 EBITDA \u20b98,469 crore on revenue \u20b923,456 crore, EBITDA margin 57% (excludes copper business), up 985 bps YoY",
+      "separated_business": "Pre-demerger combined group: Q4FY26 EBITDA margin ~44% (record) and FY26 ~39%; Aluminium FY26 margin 38%, Zinc India 56%, Cairn Oil and Gas ~44%",
+      "quote": "EBITDA margin# of 57%, up by 985 bps YoY and 225 bps QoQ"
+     },
+     {
+      "metric": "return on capital",
+      "parent_or_remaining": "Remaining Vedanta Limited: ROCE c.29% in Q1FY27 (\"ROCE is EBIT net of tax outflow divided by average capital employed\")",
+      "separated_business": "Pre-demerger combined group: \"Record Return on Capital Employed at ~32%, improved by 539 bps YoY\" in Q4FY26; 27% in Q3FY26 and ~26% in Q2FY26",
+      "quote": "Strong Return on Capital Employed at 29%, reflecting disciplined capital allocation"
+     },
+     {
+      "metric": "capex and capital intensity",
+      "parent_or_remaining": "Remaining Vedanta Limited: growth capex \u20b91,148 crore in Q1FY27 (project capex \u20b91,181 crore and sustaining capex \u20b91,390 crore in the net debt walk)",
+      "separated_business": "Pre-demerger combined group: \"Total capital expenditure in the year stood at \u20b9 14,918 crores\" in FY26 (c.$1.7 billion), deployed across aluminium, zinc, oil and gas and power; Saudi rod mill and Gamsberg Phase 3 plans of $2 billion and $4 billion discussed for the separated/retained international businesses",
+      "quote": "Invested Growth Capex of \u20b91,148 crore in Q1 FY27"
+     },
+     {
+      "metric": "cash",
+      "parent_or_remaining": "Remaining Vedanta Limited: cash and cash equivalents \u20b919,992 crore at 30 June 2026 (Zinc India \u20b912,892 crore of it), FCF pre-capex \u20b94,412 crore in Q1FY27",
+      "separated_business": "Pre-demerger combined group: \"Cash and Cash Equivalent stood at \u20b928,485, improving by 38% YoY on the back of Free cash flow (pre-capex) of \u20b9 26,013 crore\" in FY26",
+      "quote": "Cash and cash equivalents position remains strong at \u20b9 19,992 crore ."
+     },
+     {
+      "metric": "growth",
+      "parent_or_remaining": "Remaining Vedanta Limited: Q1FY27 PAT \u20b95,294 crore, up 152% YoY, on continuing operations; credit rating upgraded to AA+/Stable by both ICRA and CRISIL (highest since 2014)",
+      "separated_business": "Market value created by the separated entities after listing: combined market capitalisation of the resulting companies up over \u20b971,000 crore in Q1FY27",
+      "quote": "Vedanta\u2019s demerger is unlocking significant shareholder value, with combined market cap of resulting companies growing by over \u20b971,000 crore in the 1st quarter ."
+     },
+     {
+      "metric": "tax",
+      "parent_or_remaining": "Remaining Vedanta Limited: normalized effective tax rate 26% in Q1FY27 versus 28% in Q1FY26, with a tax charge of \u20b91,895 crore",
+      "separated_business": "not stated; the cost-of-acquisition apportionment was made \"in accordance with Sections 73 of the Income-tax, Act, 2025\" and the resulting-company share issue was \"in accordance with the provisions of Section 2(35) of the Income-tax Act, 2025\"",
+      "quote": "Normalized ETR is 26% vs 28% in Q1\u2019 FY26, lower due to reduced losses in subsidiaries wherein DTA is not recognized ."
+     },
+     {
+      "metric": "other",
+      "parent_or_remaining": "Remaining Vedanta Limited revenue: \u20b923,456 crore in Q1FY27 (continuing operations only)",
+      "separated_business": "Pre-demerger combined group revenue: \u20b951,524 crore in Q4FY26 and \u20b91,74,075 crore in FY26 \u2014 i.e. the continuing business is well under half the former group's quarterly revenue",
+      "quote": "Achieved C onsolidated Revenue of \u20b923,456 crore, up 51% YoY and down 1% QoQ"
+     }
+    ]
    }
   }
  },
@@ -96557,6 +97991,380 @@
       "parent_or_remaining": "Land-revenue exposure on the remaining hydro business: \"the revenue authorities had assessed annual land revenue of Rs. 12.76 Crores and Rs. 28.49 Crores of the Company and its subsidiary respectively with effect from February 2, 2026 for the Group\", with estimated exposure as at 30 September 2026 of Rs. 8.43 crore and Rs. 18.81 crore",
       "separated_business": "not stated",
       "quote": "Based on the above amendment, the revenue authorities had assessed annual land revenue of Rs. 12.76 Crores and Rs. 28.49 Crores of the Company and its subsidiary respectively with effect from February 2, 2026 for the Group."
+     }
+    ]
+   },
+   "9b99a500f31633099203d7e404955f04": {
+    "entities": [
+     {
+      "name": "HEG Advanced Materials Limited",
+      "former_names": [
+       "HEG Limited",
+       "Hindustan Electro Graphites Limited",
+       "HEG Greentech Limited (proposed name, not adopted)"
+      ],
+      "role": "parent",
+      "scheme": "2024-2026 Composite Scheme of Arrangement amongst HEG Limited, HEG Graphite Limited and Bhilwara Energy Limited (demerger of graphite business + amalgamation of Bhilwara Energy Limited), effective 1 September 2026",
+      "status": "listed",
+      "nse_symbol": "HEGAM",
+      "business": "Retains advanced materials (anode, graphene, crucible), battery energy solutions (REPLUS) and green power businesses; Bhilwara Energy Limited amalgamated into it.",
+      "swap_ratio": "For the amalgamation: \"8 (Eight) fully paid-up equity shares of INR 2 (Indian Rupees Two only) each of the Company, credited as fully paid up, for every 7 (Seven) equity shares of INR 10 (Indian Rupees Ten only) each of the Transferor Company.\" (earlier, in the 22 May 2024 scheme: 8 shares of INR 10 each for every 35 shares of INR 10 each of Bhilwara Energy Limited)",
+      "listing": "already listed, no listing date stated (BSE Scrip Code: 509631; NSE Symbol changed from HEG to HEGAM)",
+      "turnover": "H1 FY27 consolidated revenue from continuing operations \u20b9725.80 crore and total income \u20b9870.77 crore; Q2 FY27 consolidated revenue from continuing operations \u20b9429.94 crore; pre-demerger total turnover of the Company for FY ending 31st March 2024 was INR 2,394.90 crore (standalone/consolidated turnover as stated); 9M to 31 December 2024 standalone turnover INR 1,616.13 crore",
+      "turnover_pct_of_parent": "not stated (the demerged graphite business was stated at 94.41% of the Company's total turnover in FY ending 31st March 2024)",
+      "net_worth_or_assets": "As on December 31, 2024 \u2014 Standalone: Total assets INR 5,323.66 Cr, Net worth INR 4,221.90 Cr; Consolidated: Total assets INR 5,639.61 Cr, Net worth INR 4,528.44 Cr. As on 31 March 2024 \u2014 Standalone: Total assets INR 5,416.86 crore, Net worth INR 4,145.08 crore; Consolidated: Total assets INR 5,701.37 crore, Net worth INR 4,425.94 crore. Post-demerger, 27.60% of shareholders' pre-demerger cost of acquisition is apportioned to HEG Advanced Materials Limited",
+      "who_runs_it": "Shri Riju Jhunjhunwala \u2014 Chairman, Managing Director & Chief Executive Officer (elevated from Vice-Chairman w.e.f. September 1, 2026, up to August 31, 2031, subject to shareholder approval); Ms. Neha Rajvanshi, President & CFO; Ravi Gupta, Company Secretary & Compliance Officer",
+      "quote": "The existing listed entity, now named as HEG Advanced Materials Limited (BSE: 509631, NSE: HEG) retains the advanced materials, battery energy solutions and green power businesses."
+     },
+     {
+      "name": "HEG Limited",
+      "former_names": [
+       "HEG Graphite Limited"
+      ],
+      "role": "resulting",
+      "scheme": "2024-2026 Composite Scheme of Arrangement (demerger of the graphite business into HEG Graphite Limited, renamed HEG Limited), effective 1 September 2026",
+      "status": "effective, awaiting listing",
+      "nse_symbol": "",
+      "business": "Graphite electrodes business including overseas investment and assets & liabilities pertaining to TAWA power plant; 76.5 MW captive power generating capacity.",
+      "swap_ratio": "\"1 (One) fully paid-up equity share of INR 2 (Indian Rupees Two) each of Resulting Company for every 1 (One) equity share of INR 2 (Indian Rupees Two) each held in Demerged Company\"",
+      "listing": "to be listed \u2014 \"Demerged/Resulting entity (HEG Graphite Limited) will be listed on BSE and NSE in ~45 days (in the second half of October).\"; as at 30 October 2026 \"the equity shares of HEG Limited, the Resulting Company, are presently unlisted, and the process of obtaining listing and trading approvals from the stock exchanges is underway\"",
+      "turnover": "\"The turnover of the Demerged Undertaking i.e. Graphite Business of the Company, as on 31st March, 2024 was INR 2,394.90 crore.\"; its own unaudited results show revenue from operations of \u20b91,421.31 crore for the half year ended 30 September 2026 and \u20b92,568.50 crore for the year ended 31 March 2026",
+      "turnover_pct_of_parent": "94.41% \u2014 \"The turnover of the Graphite Business is 94.41% to the total turnover of the Company in the financial year ending 31st March, 2024.\"",
+      "net_worth_or_assets": "Own unaudited balance sheet: Total assets \u20b94,698.79 crore and total liabilities \u20b91,390.86 crore as at 30 September 2026 (equity share capital \u20b938.60 crore). Share of the parent's net worth not stated as such, but shareholders are advised to apportion 72.40% of their pre-demerger cost of acquisition of equity shares to HEG Graphite Limited",
+      "who_runs_it": "Shri Ravi Jhunjhunwala (DIN: 00060972) \u2014 Chairman, Managing Director & CEO with effect from 1 September 2026; Riju Jhunjhunwala on its board in a non-executive capacity",
+      "quote": "The graphite electrodes business moves into HEG Graphite Limited, the Resulting Company under the Scheme, which is proposed to be renamed as HEG Limited and taken forward as a separately listed, pure-play graphite electrodes company."
+     },
+     {
+      "name": "Bhilwara Energy Limited",
+      "former_names": [],
+      "role": "merged_in",
+      "scheme": "2024-2026 Composite Scheme of Arrangement (amalgamation of Bhilwara Energy Limited, the Transferor Company, into HEG Limited), effective 1 September 2026",
+      "status": "effective \u2014 amalgamated into the Company and stands dissolved without winding up",
+      "nse_symbol": "",
+      "business": "14 MW wind power project in Maharashtra; 51% of Malana Power Company Limited (86 MW hydro), indirect AD Hydro Power (192 MW), 74% of Replus Engitech, 100% of BG Wind Power.",
+      "swap_ratio": "\"8 (Eight) fully paid-up equity shares of INR 2 (Indian Rupees Two only) each of the Company, credited as fully paid up, for every 7 (Seven) equity shares of INR 10 (Indian Rupees Ten only) each of the Transferor Company.\" \u2014 issued to each shareholder of the Transferor Company except the Company itself",
+      "listing": "not to be listed \u2014 pursuant to the Scheme the Transferor Company will be dissolved without being wound up",
+      "turnover": "As on December 31, 2024 \u2014 Standalone turnover INR 10.37 Cr; Consolidated turnover INR 516.34 Cr. As on 31 March 2024 \u2014 Standalone turnover INR 9.00 crore; Consolidated turnover INR 475.09 crore",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "As on December 31, 2024 \u2014 Standalone: Total assets INR 660.41 Cr, Net worth INR 648.96 Cr; Consolidated: Total assets INR 2177.79 Cr, Net worth INR 1155.96 Cr. As on 31 March 2024 \u2014 Standalone: Total assets INR 515.45 crore, Net worth INR 507.65 crore; Consolidated: Total assets INR 2,067.92 crore, Net worth INR 1,102.40 crore",
+      "who_runs_it": "Basant Jain, Joint MD and CEO, Bhilwara Energy Limited; Shri Riju Jhunjhunwala \"served as the Managing Director of Bhilwara Energy Limited (merged with HEG Advanced Materials Limited pursuant to the Composite Scheme of Arrangement) from August 2010\"",
+      "quote": "As part of the same Scheme, Bhilwara Energy Limited is amalgamated into this company and stands dissolved without winding up."
+     },
+     {
+      "name": "TACC Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Wholly owned subsidiary retained by HEG Advanced Materials Limited under the 2024-2026 Composite Scheme of Arrangement",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "Lithium-ion battery-grade synthetic graphite anode material, 20,000 TPA at Sirsoda Industrial Area, Dewas, Madhya Pradesh; expansion to 44,000 MT and 80,000 units p.a. crucible plant approved.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated \u2014 \"The financial summary is not available as the project is under construction.\"",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "Project cost INR18,927 million funded 65:35 debt-equity; parent has guaranteed the sanctioned term loan of INR12,030 million, extended INR4,000 million of optionally convertible debentures and infused equity of INR1,600 million as of end-March 2026; revised Phase-1 cost ~ Rs. 2,350 crore",
+      "who_runs_it": "Shri Ankur Khaitan \u2014 Managing Director & CEO of TACC Limited (designated Senior Management Personnel of HEG Advanced Materials Limited on November 3, 2026)",
+      "quote": "TACC was incorporated on 26 December 2022 as a wholly owned subsidiary of HEG for setting up the synthetic anode manufacturing project at Sirsoda Industrial Area in Dewas, Madhya Pradesh."
+     },
+     {
+      "name": "Replus Engitech Private Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Subsidiary (74% held by Bhilwara Energy Limited) coming into HEG Advanced Materials Limited through the 2024-2026 Composite Scheme of Arrangement",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "Battery energy storage systems, electric mobility, telecom power and hybrid energy; 1 GWh Giga Factory in Pune with 5 GWh prismatic line under construction.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated (Board approved \"grant of additional loan of Rs. 50 crore (revolving) to Replus Engitech Private Limited\" on November 3, 2026)",
+      "who_runs_it": "Shri Hiren Pravin Shah \u2014 Managing Director & CEO of Replus Engitech Private Limited (designated Senior Management Personnel of HEG Advanced Materials Limited on November 3, 2026)",
+      "quote": "REPLUS has deployed over 1 GWh of energy storage capacity across BESS, electric mobility, telecom power solutions and hybrid energy applications."
+     },
+     {
+      "name": "Malana Power Company Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Subsidiary coming into HEG Advanced Materials Limited through the 2024-2026 Composite Scheme of Arrangement (held 51% by Bhilwara Energy Limited in joint venture with StatKraft, Norway)",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "86 MW hydroelectric project in District Kullu, Himachal Pradesh; debt-free.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "Shri Ravi Jhunjhunwala re-appointed Managing Director for five years from November 1, 2026 to October 31, 2031; Shri Riju Jhunjhunwala appointed Additional Director (Non-executive) and Chairman w.e.f. November 3, 2026; Shri Om Prakash Ajmera appointed Joint Managing Director & CEO",
+      "quote": "51 % in Malana Power Company Limited in joint venture with StatKraft, Norway which owns 86 MW hydroelectric project in Himachal Pradesh."
+     },
+     {
+      "name": "AD Hydro Power Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Step-down subsidiary coming into HEG Advanced Materials Limited through the 2024-2026 Composite Scheme of Arrangement (88% held by Malana Power Company Limited)",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "192 MW hydroelectric project in District Manali, Himachal Pradesh; debt-free.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "Shri Riju Jhunjhunwala appointed Additional Director (Non-executive) and Chairman w.e.f. November 3, 2026; Shri Om Prakash Ajmera appointed Joint Managing Director & CEO from November 1, 2026 to October 31, 2031",
+      "quote": "Malana Power Company Limited has further investment in wholly owned subsidiary AD Hydro Power Limited, which owns 192 MW hydroelectric project in Himachal Pradesh"
+     },
+     {
+      "name": "HEG Graphene Materials Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Wholly owned subsidiary of HEG Advanced Materials Limited; new business approved by the Board on November 3, 2026 (outside the 2024-2026 Composite Scheme of Arrangement)",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "Graphene manufacturing plant of 500 MT in two phases, target COD September 2028.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "Estimated project cost ~ Rs. 500 crore",
+      "who_runs_it": "not stated",
+      "quote": "Setting up of manufacturing plant of 500 MT Graphene in two phases at an estimated cost of ~ Rs. 500 crore with target COD by September 2028."
+     },
+     {
+      "name": "Bhilwara Infotechnology Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Wholly owned subsidiary of HEG Limited; parent of the 2025 spin-off of its talent solutions (staffing) business into Texnere India Private Limited",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "Talent solutions / IT-enabled services; spun off its talent solutions (staffing) business into Texnere India Pvt. Ltd. in June 2025.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated (\"Official Spokesperson of Bhilwara Infotechnology Limited\" quoted)",
+      "quote": "Bhilwara Infotechnology Limited has announced the successful spin-off of its talent solutions (staffing) business into a newly formed company, Texnere India Pvt. Ltd."
+     },
+     {
+      "name": "Texnere India Private Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "2025 spin-off of the talent solutions (staffing) business of Bhilwara Infotechnology Limited into Texnere India Private Limited (announced June 18, 2025)",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "Talent solutions: permanent hiring and contract-to-hire, later managed services across IT, HR and finance operations, and Build-Operate-Transfer services for GCCs.",
+      "swap_ratio": "not stated (no shares to HEG shareholders stated; newly formed company receiving the staffing business)",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "Tej Bhat, CEO of Texnere India Pvt Ltd.",
+      "quote": "Texnere will initially concentrate on permanent hiring and contract-to-hire solutions, with plans to expand into managed services across IT, HR, and finance operations over the next 6 to 12 months."
+     },
+     {
+      "name": "BG Wind Power Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Subsidiary of Bhilwara Energy Limited described in the 2024 Composite Scheme of Arrangement disclosure",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "20 MW wind power project at site Dangri, District Jaisalmer, Rajasthan.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated",
+      "quote": "BEL holds 100% equity in BG Wind Power Limited which owns 20 MW Wind power project at site Dangri, District Jaisalmer, Rajasthan."
+     },
+     {
+      "name": "LNJ Trading FZCO",
+      "former_names": [],
+      "role": "other",
+      "scheme": "Foreign wholly owned subsidiary of HEG Advanced Materials Limited being closed; Board approval November 3, 2026 (separate from the 2024-2026 Composite Scheme of Arrangement)",
+      "status": "not stated",
+      "nse_symbol": "",
+      "business": "Dubai-based trading subsidiary being closed under a rationalization of the Group's overseas corporate structure.",
+      "swap_ratio": "not stated",
+      "listing": "not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated",
+      "quote": "Closure of LNJ Trading FZCO, a foreign wholly owned subsidiary of the Company situated in Dubai."
+     }
+    ],
+    "size_statement": "\"The turnover of the Demerged Undertaking i.e. Graphite Business of the Company, as on 31st March, 2024 was INR 2,394.90 crore. The turnover of the Graphite Business is 94.41% to the total turnover of the Company in the financial year ending 31st March, 2024.\" (Modified Scheme disclosure, 10 March 2025; identical statement in the 22 May 2024 disclosure). The 2026 cost-of-acquisition guidance apportions shareholders' pre-demerger cost 27.60% to HEG Advanced Materials Limited (formerly HEG Limited) and 72.40% to HEG Graphite Limited.",
+    "promoter_holding_parent": "HEG Limited pre-Scheme shareholding as disclosed on 10 March 2025: \"Promoters 10,76,39,870 55.78\" per cent and \"Public 8,53,37,660 44.22\" per cent of 19,29,77,530 shares (the 22 May 2024 disclosure showed the same 55.78% / 44.22% split on 3,85,95,506 shares of INR 10 each). Voting-results table for the 5 May 2026 NCLT-convened meeting (record date 28-04-2026) shows Promoter and Promoter Group holding 10,86,08,870 shares. Bhilwara Energy Limited was \"held 42.06% by promoters and promoter entities, and 40.43% by HEG at end-March 2026\" (India Ratings, 14 July 2026).",
+    "promoter_holding_after": "Mirror shareholding in the resulting graphite company: HEG Graphite Limited post-Modified Scheme \u2014 \"Promoters 10,76,39,870 55.78 / Public 8,53,37,660 44.22 / TOTAL 19,29,77,530 100\" (pre-Scheme it was \"Promoters 50,000 100\"). In the parent after the amalgamation of Bhilwara Energy Limited \u2014 HEG Limited post-Modified Scheme: \"Promoters 20,42,41,871 60.62 / Public 13,26,97,462* 39.38 / TOTAL 33,69,39,333 100\", with the footnote \"*After considering the impact of the infusion of funds in the Transferor Company aggregating to not more than 4,14,39,827 shares i.e. 20% of the fully diluted share capital of the Transferor Company.\" (In the superseded 22 May 2024 version: HEG Limited post-Scheme \"Promoters 4,08,57,386 70.54 / Public 1,70,67,532 29.46\".) India Ratings, 14 July 2026: \"The promoters are likely to hold around 60% of HEG Greentech, with the remaining shares held by public shareholders and investors.\" For the 2025 Bhilwara Infotechnology / Texnere spin-off: not stated.",
+    "public_shareholders_get": "Under the 2024-2026 Composite Scheme of Arrangement (demerger): \"Shareholders of HEG Advanced Materials Limited (formerly HEG Limited) as on the Record Date will receive one fully paid-up equity share of face value Rs. 2 each in the graphite company for every one fully paid-up equity share of face value Rs. 2 each held in HEG Advanced Materials Limited (formerly HEG Limited), a one-for-one (1:1) entitlement on a mirror basis.\" Shareholders keep their existing shares in the parent; \"Pursuant to the Scheme and applicable provisions of the law, equity shares of the Resulting Company can be issued only in Dematerialized (Demat) form. No physical share certificates can be issued for the allotment under the Scheme.\" Under the amalgamation leg, only Bhilwara Energy Limited's shareholders (other than the Company itself) receive 8 new shares of INR 2 each for every 7 BEL shares of INR 10 each. For the 2025 spin-off of Bhilwara Infotechnology's talent solutions business into Texnere India Private Limited: not stated.",
+    "management_incentives": "New plan in the parent, approved 3 November 2026: \"Formulation, adaption and implementation of the \"HEG Advanced Materials Limited Employee Stock Option Plan 2026\" for grant of Employee Stock options to the eligible employees of the Company and its subsidiaries under this plan, subject to the approval of shareholders and other regulatory authorities as may be applicable as per the provisions of the SEBI (Share Based Employee Benefit & Sweat Equity Shares) Regulations, 2021. The detailed disclosure is enclosed as Annexure \u2013 II.\" The press release lists \"ESOP scheme implemented\". Treatment of existing grants in the scheme, exercise price and pricing date: not stated (Annexure II not reproduced). Insider/management shareholding: promoter and promoter group 55.78% pre-Scheme, rising to 60.62% post-Scheme in the parent and 55.78% in the resulting graphite company. Shri Riju Jhunjhunwala elevated to Chairman, MD & CEO of HEG Advanced Materials Limited \"with effect from September 1, 2026, up to August 31, 2031, subject to the approval of the shareholders of the Company\"; Shri Hiren Pravin Shah (Replus) and Shri Ankur Khaitan (TACC) designated Senior Management Personnel on 3 November 2026.",
+    "insider_actions": "Promoter-group restructuring disclosed 19 February 2025: \"Redrose Vanijya LLP (Formerly known as Redrose Vanijya Private Limited) has acquired indirect voting rights of 28.95% by way of acquisition of shareholding of promoter group companies through off market transfer pursuant to Scheme of Arrangement approved by Hon'ble NCLT, Kolkata Bench, therefore became member of promoter group of HEG Limited\" (5,58,73,775 equity shares acquired 17.02.2025, nil consideration; eleven former promoter-group companies, together 28.95%, ceased to be promoter group). Related-party funding of the entity being amalgamated: unsecured loan of Rs. 100 Crores to Bhilwara Energy Limited approved 11 February 2025 (1 year, 9% p.a.) and a further unsecured loan of Rs. 210 Crores approved 23 September 2025 (1 year, 9% p.a., bullet repayment). The Modified Scheme contemplates \"infusion of funds in the Transferor Company aggregating to not more than 4,14,39,827 shares i.e. 20% of the fully diluted share capital of the Transferor Company\". Promoter pledging, buying or selling of HEG shares in the market around the separation: not stated.",
+    "dates": [
+     {
+      "event": "board approval",
+      "date": "2024-05-22",
+      "entity": "HEG Limited (original Composite Scheme of Arrangement with New Co Limited and Bhilwara Energy Limited)",
+      "source": "Scheme of Arrangement / Outcome of Board Meeting filing dated 22 May 2024 and press release dated 22 May 2024"
+     },
+     {
+      "event": "appointed date",
+      "date": "2024-04-01",
+      "entity": "all three companies",
+      "source": "Press release 22 May 2024 (\"The Appointed date for the Scheme is set as 1st April 2024\") and Q1 FY27 press release 24 July 2026"
+     },
+     {
+      "event": "board approval",
+      "date": "2025-03-10",
+      "entity": "HEG Limited and Bhilwara Energy Limited (modified Composite Scheme of Arrangement, after SEBI observations on the proposed infusion of funds in the Transferor Company)",
+      "source": "Outcome of Board Meeting filing dated 10 March 2025"
+     },
+     {
+      "event": "exchange no-objection",
+      "date": "2026-01-08",
+      "entity": "BSE Limited Observation Letter",
+      "source": "Update on Composite Scheme of Arrangement filing dated 9 January 2026"
+     },
+     {
+      "event": "exchange no-objection",
+      "date": "2026-01-09",
+      "entity": "National Stock Exchange of India Limited Observation Letter",
+      "source": "Update on Composite Scheme of Arrangement filing dated 9 January 2026"
+     },
+     {
+      "event": "other",
+      "date": "2026-01-19",
+      "entity": "Demerger Update Webinar held at 16:00 hrs IST",
+      "source": "Intimation dated 13 January 2026; transcript filed 23 January 2026"
+     },
+     {
+      "event": "other",
+      "date": "2026-01-24",
+      "entity": "Scheme filed with the Hon'ble National Company Law Tribunal (NCLT), Indore Bench",
+      "source": "Q1 FY27 press release dated 24 July 2026"
+     },
+     {
+      "event": "NCLT order",
+      "date": "2026-03-26",
+      "entity": "NCLT Indore Bench order directing convening of meetings of equity shareholders, secured and unsecured creditors of HEG Limited and equity shareholders of Bhilwara Energy Limited",
+      "source": "Update on Composite Scheme of Arrangement filing dated 27 March 2026"
+     },
+     {
+      "event": "shareholders / creditors meeting",
+      "date": "2026-05-05",
+      "entity": "HEG Limited \u2014 equity shareholders (2:00 P.M.), secured creditors (3:30 P.M.) and unsecured creditors (4:30 P.M.); Bhilwara Energy Limited equity shareholders (5:30 P.M.); all through VC/OAVM, all passed with requisite majority (equity shareholders: 99.9997% of votes polled in favour)",
+      "source": "Proceedings filings dated 5 May 2026 and voting results / scrutinizer's report filed 6 May 2026"
+     },
+     {
+      "event": "other",
+      "date": "2026-07-02",
+      "entity": "NCLT Indore Bench hearing \u2014 order reserved",
+      "source": "Update on Composite Scheme of Arrangement filing dated 2 July 2026"
+     },
+     {
+      "event": "NCLT order",
+      "date": "2026-08-13",
+      "entity": "NCLT Indore Bench order sanctioning the Composite Scheme of Arrangement (CP(CAA)/3/MP/2026 in CA(CAA)/1/MP/2026); uploaded on the NCLT website 18 August 2026 at 06:11 P.M.; certified copy received 21 August 2026",
+      "source": "Scheme of Arrangement filing dated 18 August 2026, press release dated 19 August 2026 and Outcome of Board Meeting dated 24 August 2026"
+     },
+     {
+      "event": "board approval",
+      "date": "2026-08-24",
+      "entity": "Board approved making the Scheme effective from September 1, 2026, fixed the Record Date and approved leadership/board changes",
+      "source": "Outcome of Board Meeting filing dated 24 August 2026 and press release dated 25 August 2026"
+     },
+     {
+      "event": "effective date",
+      "date": "2026-09-01",
+      "entity": "HEG Limited / HEG Graphite Limited / Bhilwara Energy Limited \u2014 Scheme became effective upon filing of e-Form INC-28 with the ROC, Gwalior",
+      "source": "Name Change filing dated 2 September 2026 and press release dated 3 September 2026"
+     },
+     {
+      "event": "other",
+      "date": "2026-09-02",
+      "entity": "Name of the Company changed from \"HEG Limited\" to \"HEG Advanced Materials Limited\" (fresh Certificate of Incorporation, ROC Gwalior)",
+      "source": "Name Change filing dated 2 September 2026"
+     },
+     {
+      "event": "record date",
+      "date": "2026-09-07",
+      "entity": "HEG Advanced Materials Limited shareholders eligible for shares of the Resulting Company",
+      "source": "Press release dated 25 August 2026 and cost-of-acquisition communication dated 29 September 2026"
+     },
+     {
+      "event": "allotment",
+      "date": "2026-09-11",
+      "entity": "HEG Graphite Limited allotted 1 share of INR 2 for every 1 share of HEG Advanced Materials Limited held on the record date",
+      "source": "Apportionment of Cost of Acquisition filing dated 29 September 2026 (\"following shares have been allotted on September 11, 2026\")"
+     },
+     {
+      "event": "other",
+      "date": "2026-10-12",
+      "entity": "Name of the Resulting Company changed from \"HEG Graphite Limited\" to \"HEG Limited\"",
+      "source": "Updates filing dated 13 October 2026 (letter from the Resulting Company and fresh Certificate of Incorporation)"
+     },
+     {
+      "event": "other",
+      "date": "2026-10-29",
+      "entity": "CIN of HEG Advanced Materials Limited changed from L23109MP1972PLC008290 to L35100MP1972PLC008290 consequent to the alteration of the main Object Clause forming part of the Scheme",
+      "source": "Updates filing dated 29 October 2026"
+     },
+     {
+      "event": "listing and trading",
+      "date": "not stated",
+      "entity": "HEG Limited (formerly HEG Graphite Limited) \u2014 expected \"in ~45 days (in the second half of October)\"; as at 30 October 2026 listing and trading approvals still underway",
+      "source": "Press release dated 3 September 2026 and Updates filing dated 30 October 2026"
+     }
+    ],
+    "other_differences": [
+     {
+      "metric": "cash",
+      "parent_or_remaining": "Green power provides stable cash flows: hydro assets generate annually over \u20b9300 crore; consolidated cash and bank balances of \u20b91322.84 crore as on 30 September 2026",
+      "separated_business": "Graphite electrodes described as a mature, cash-generative business; HEG Limited's own cash & cash equivalents were \u20b966.67 crore as at 30 September 2026",
+      "quote": "The restructuring is designed to unlock long-term value for shareholders by giving investors direct and differentiated exposure to a mature, cash-generative graphite electrode business on the one hand, and a fast-scaling growth platform focused on advanced materials, battery energy solutions and renewable energy on the other."
+     },
+     {
+      "metric": "debt and leverage",
+      "parent_or_remaining": "Hydro and wind assets debt-free; TACC's anode project funded 65:35 debt-equity with a fully guaranteed INR12,030 million term loan and INR4,000 million of OCDs from the parent",
+      "separated_business": "HEG Limited (graphite) shows current borrowings of \u20b979.08 crore and total liabilities of \u20b91,390.86 crore against total assets of \u20b94,698.79 crore as at 30 September 2026",
+      "quote": "Both operating hydro projects and the wind project are debt-free, and the existing hydro assets generate annually stable cash flows of over \u20b9300 crore."
+     },
+     {
+      "metric": "capex and capital intensity",
+      "parent_or_remaining": "Anode Phase-1 revised to ~Rs. 2,350 crore, 20,000 MT to 44,000 MT expansion ~Rs. 1,606 crore, crucible plant ~Rs. 475 crore, graphene 500 MT ~Rs. 500 crore, 200 MWh BESS IPP \u20b9227.8 crore",
+      "separated_business": "Graphite electrodes: 15,000 TPA capacity addition over 30 months at approx. Rs. 650 Crores, financed by \"Internal accruals and debt if required\" (Board approval 30 July 2025, pre-demerger)",
+      "quote": "Board approves expansion of current 20,000 MT capacity anode plant to 44,000 MT at a capex of INR 1606 Cr ( 20,000 MT to come into operation by Jun 2027 and balance 24,000 MT by March 2029 )"
+     },
+     {
+      "metric": "operating margin",
+      "parent_or_remaining": "H1 FY27 consolidated EBITDA of \u20b9438.00 crore and PAT of \u20b9269.07 crore on revenue from continuing operations of \u20b9725.80 crore; TACC's anode project expected to earn gross margins ~55% and EBITDA margins ~30%",
+      "separated_business": "HEG Limited (graphite): profit before tax of \u20b9319.71 crore on revenue from operations of \u20b91,421.31 crore for the half year ended 30 September 2026; graphite segment results of INR 149.64 crore on segment revenue of INR 677.77 crore in Q1 FY27",
+      "quote": "Ind-Ra believes this is likely to support healthy gross margins and EBITDA margins of around 55% and 30%, respectively, with the project remaining comfortable for debt servicing even at EBITDA margins of about 20% over the loan tenure."
+     },
+     {
+      "metric": "working capital",
+      "parent_or_remaining": "TACC's anode operations expected to be working capital-intensive, with inventory holding of four-to-six months, receivables of two-to-three months and creditors of two-to-three months",
+      "separated_business": "not stated for the graphite business",
+      "quote": "Consequently , Ind-Ra expects the net working capital-to-revenue ratio to range between 25% and 30% post the commencement of operations."
+     },
+     {
+      "metric": "growth",
+      "parent_or_remaining": "A \"fast-scaling green tech growth platform\"; global lithium-ion battery production expected to grow from about 2.3 TWh in 2025 to about 8 TWh by 2035, with non-China anode demand set to exceed 1 Mn tons by 2030",
+      "separated_business": "\"a mature cash-generating graphite electrode business\"; Q1 FY27 graphite segment revenue up 11.3% year-on-year",
+      "quote": "These businesses have different growth drivers, risk profiles, capital needs and valuation frameworks."
+     },
+     {
+      "metric": "tax",
+      "parent_or_remaining": "Shareholders apportion 27.60% of pre-demerger cost of acquisition to HEG Advanced Materials Limited",
+      "separated_business": "72.40% of pre-demerger cost of acquisition apportioned to HEG Graphite Limited; GST proceedings for FY 2020-21 proposing recovery of IGST refunds with penalty of \u20b9282.34 crore were dropped on 15 October 2026 and sit with the Resulting Company",
+      "quote": "The above-mentioned demerger envisaged under the Scheme satisfies all conditions under Section 2(35) of the Income-tax Act, 2025 (\"IT Act\") and hence, the demerger is tax neutral in the hands of shareholders of the Demerged Company under the IT Act in view of the exemption granted under Section 70(k) of the IT Act."
+     },
+     {
+      "metric": "other",
+      "parent_or_remaining": "Reported results now split continuing and discontinued operations, and are not comparable with earlier periods",
+      "separated_business": "HEG Limited's comparative figures are extracted from the books of HEG Advanced Materials Limited under common-control accounting",
+      "quote": "The HEG Composite Scheme became effective on 1 September 2026. Under the Scheme, the graphite electrodes business was transferred to HEG Limited (earlier known as HEG Graphite Limited), and Bhilwara Energy Limited was amalgamated into the Company. The results accordingly present continuing and discontinued operations separately. Current financial figures are not comparable to previous financial figures owing to demerger of HEG Limited."
      }
     ]
    }
@@ -100297,6 +102105,222 @@
       "parent_or_remaining": "not stated",
       "separated_business": "not stated",
       "quote": "not stated"
+     }
+    ]
+   },
+   "a673167667bc178018721a0cc1e95cb8": {
+    "entities": [
+     {
+      "name": "TVS Motor Company Limited",
+      "former_names": [],
+      "role": "parent",
+      "scheme": "2026 Composite Scheme of Arrangement (demerger of consumer finance and related business into Harita ARC Limited plus amalgamation of TVS Motor Services Limited); also the 2025 Scheme of Arrangement issuing bonus NCRPS to its own shareholders, and the 2025-26 amalgamation of Sundaram Auto Components Limited into it",
+      "status": "listed",
+      "nse_symbol": "TVSMOTOR",
+      "business": "Remaining Business: automotive and mobility \u2014 two and three-wheeler vehicles, parts and related investments; manufacturing in Hosur, Mysuru, Nalagarh and Karawang",
+      "swap_ratio": "Not applicable \u2014 \"Pursuant to the Scheme, there will be no change in the shareholding pattern of the Company.\"",
+      "listing": "listed",
+      "turnover": "Turnover Rs. 35,769.96 Cr as on 30th September 2026 (consolidated); standalone revenue from operations Rs. 30,999.49 Cr for half year ended 30th September 2026; Rs. 47,270.32 Cr for year ended 31st March 2026",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "As on 30th September 2026: Total assets Rs. 32,832.13 Cr; Net worth Rs. 13,808.53 Cr",
+      "who_runs_it": "Sudarshan Venu, Chairman; K.N. Radhakrishnan, Director and Chief Executive Officer; Mr. Peyman Kargar appointed as Director & CEO w.e.f. January 27, 2027",
+      "quote": "The Transferee Company is the third largest two-wheeler  manufacturer globally and three wheeler manufacturer, championing progress through sustainable mobility with its state -of-the-art manufacturing facilities in Hosur, Mysuru and Nalagarh in India and Karawang in Indonesia."
+     },
+     {
+      "name": "Harita ARC Limited",
+      "former_names": [
+       "Harita ARC Private Limited"
+      ],
+      "role": "resulting",
+      "scheme": "2026 Composite Scheme of Arrangement \u2014 demerger of the consumer finance and related business undertaking from TVS Motor Company Limited",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "Consumer finance and related business: lending and investment activities, consumer finance business, leasing activities and ancillary and support services, directly or through subsidiaries",
+      "swap_ratio": "\"the Resulting Company will issue and allot 1 (One) fully paid -up equity share of face value of INR 1/ - (Rupee One only) each of the Resulting Company for every 1 (One) fully paid -up equity share of face value of INR 1/ - (Rupee One o nly) each of the Company, aggregating to 47,50,87,114 (Forty Seven Crore Fifty Lakh Eighty Seven Thousand One Hundred and Fourteen) equity shares\"",
+      "listing": "to be listed",
+      "turnover": "\"The turnover of the Demerged Undertaking for the period ended 30th September 2026 was Rs. 3,921  Crore out of the total turnover of Rs. 35,770 Crore of the Company\"; Harita ARC itself: \"Turnover:  Nil\" / \"TVSM WOS is yet to commence any business operations\"",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated (Paid-up Capital: Rs. 25,000/-)",
+      "who_runs_it": "not stated",
+      "quote": "TVSM WOS  is acquired to inter alia carry on the consumer finance and related business after implementation of the demerger ."
+     },
+     {
+      "name": "TVS Motor Services Limited",
+      "former_names": [],
+      "role": "merged_in",
+      "scheme": "2026 Composite Scheme of Arrangement \u2014 amalgamation of the Transferor Company with TVS Motor Company Limited",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "Buying, selling, leasing, servicing and dealing in automobiles, automotive products, spare parts, components, accessories and allied equipment; repair, maintenance and support services",
+      "swap_ratio": "\"Not Applicable  Since the Transferor Company is a wholly owned subsidiary of the Company, no consideration is being discharged for the amalgamation.\"",
+      "listing": "not to be listed",
+      "turnover": "Turnover: Nil (as on 30th September 2026)",
+      "net_worth_or_assets": "As on 30th September 2026: Total assets Rs. 251.44 Cr; Net worth Rs. 198.93 Cr",
+      "who_runs_it": "not stated",
+      "quote": "Pursuant to the Scheme, TVS Motor Services Limited  will be dissolved without being wound up."
+     },
+     {
+      "name": "Sundaram Auto Components Limited",
+      "former_names": [],
+      "role": "merged_in",
+      "scheme": "2025-26 Scheme of Arrangement (Amalgamation) of Sundaram Auto Components Limited with TVS Motor Company Limited, appointed date 1st April 2025, sanctioned by NCLT Chennai on 6th May 2026",
+      "status": "effective, awaiting listing",
+      "nse_symbol": "",
+      "business": "Wholly owned subsidiary of TVS Motor Company Limited whose entire business and undertaking, assets and liabilities vest in TVS Motor Company Limited",
+      "swap_ratio": "\"Since the Transferor Company is wholly owned subsidiary of the Transferee Company, upon amalgamation of the Transferor Company with the Transferee Company, no consideration shall be issued by the Transferee Company.\"",
+      "listing": "not to be listed",
+      "turnover": "\"the total income of the company for the said year is 0.97 Crores and profit before tax is Rs.6.98 Crore\" (financial year 2024-25)",
+      "net_worth_or_assets": "\"the total Reserves and Surplus (including General Reserves, Securities Premium, and Retained Earnings) as of the previous financial year 2023 \u20132024 amounts to Rs. 134.17 Crores\"; after dividend \"the balance reserves stand at Rs. 57.08 Crores\"",
+      "who_runs_it": "not stated",
+      "quote": "On the Scheme becoming effective, the Transferor Company shall stand dissolved without being wound up and the Board and any committees thereof shall without any further act, instrument or deed be and stand discharged."
+     },
+     {
+      "name": "TVS Credit Services Limited",
+      "former_names": [],
+      "role": "other",
+      "scheme": "2026 Composite Scheme of Amalgamation amongst Home Credit India Finance Private Limited, STPL Trading and Services Private Limited, TVS Housing Finance Private Limited and TVS Credit Services Limited (Transferee Company 2); also the entity from which TVS Motor Company Limited acquired Harita ARC Limited under the 2026 Composite Scheme of Arrangement",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "A Non-Banking Financial Company registered with Reserve Bank of India, primarily engaged in providing automobile finance, consumer durable loans and small business loans",
+      "swap_ratio": "Receives: \"9.94 (Nine Point Nine Four) equity shares of INR 10 each fully paid up of the Transferee Company 2 for every 180 (One Hundred and Eighty) equity shares of INR 10 each fully paid up of the Transferor Company 2;\" \u2014 and no consideration for Transferor Company 3, its wholly owned subsidiary",
+      "listing": "not stated",
+      "turnover": "Turnover Rs. 1918.11 Cr as on 30 June 2026",
+      "net_worth_or_assets": "As on 30 June 2026: Total assets Rs. 35,683.36 Cr; Net worth Rs. 6272.64 Cr",
+      "who_runs_it": "not stated",
+      "quote": "TVS Credit Services Limited: A Non- Banking Financial Company registered with Reserve Bank of India. It is primarily engaged in providing automobile finance, consumer durable loans and small business loans."
+     },
+     {
+      "name": "Home Credit India Finance Private Limited",
+      "former_names": [],
+      "role": "merged_in",
+      "scheme": "2026 Composite Scheme of Amalgamation (Transferee Company 1 / Transferor Company 2) \u2014 STPL merges into it, and it merges into TVS Credit Services Limited",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "A Non-Banking Financial Company registered with Reserve Bank of India, primarily engaged in the business of retail financing",
+      "swap_ratio": "Issues \"155.79 (One Hundred and Fifty -Five Point Seven Nine) equity shares of INR 10 each fully paid up of the Transferee Company 1 for every 200 (Two Hundred) equity shares of INR 10 each fully paid up of the Transferor Company 1;\" and its own shareholders receive 9.94 TVS Credit Services shares for every 180 Home Credit shares",
+      "listing": "not stated",
+      "turnover": "Turnover Rs. 619.70 Cr as on 30 June 2026",
+      "net_worth_or_assets": "As on 30 June 2026: Total assets Rs. 8367.07 Cr; Net worth Rs. 2957.81 Cr",
+      "who_runs_it": "not stated",
+      "quote": "Home Credit India Finance Private Limited : A Non-Banking Financial Company registered with Reserve Bank of India. It is primarily engaged in the business of retail financing."
+     },
+     {
+      "name": "STPL Trading and Services Private Limited",
+      "former_names": [],
+      "role": "merged_in",
+      "scheme": "2026 Composite Scheme of Amalgamation (Transferor Company 1, merging into Home Credit India Finance Private Limited); also acquired 100% by TVS Motor Company Limited per board approval of 28th October 2026",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "Trading and services company; holds 7.5% shares in Home Credit India Finance Private Limited, a NBFC company",
+      "swap_ratio": "\"155.79 (One Hundred and Fifty -Five Point Seven Nine) equity shares of INR 10 each fully paid up of the Transferee Company 1 for every 200 (Two Hundred) equity shares of INR 10 each fully paid up of the Transferor Company 1;\" \u2014 separately acquired by TVS Motor for cash consideration of Rs. 530.08 Cr for 100% stake constituting 18,89,47,551 equity shares",
+      "listing": "not to be listed",
+      "turnover": "Turnover: - (nil) as on 30 June 2026; Financial Year 2025-26: -, 2024-25: Rs. 1.05 Cr, 2023-24: -",
+      "net_worth_or_assets": "As on 30 June 2026: Total assets Rs. 387.26 Cr; Net worth Rs. 279.37 Cr. Separately disclosed: Profit After Tax Rs. 72.44 Cr; Networth Rs. 220.85 Cr; Paid-up Capital Rs. 188,94,75,510",
+      "who_runs_it": "not stated",
+      "quote": "STPL is engaged in the business of trading and services company,  and it holds 7.5% shares in Home Credit , a NBFC company ."
+     },
+     {
+      "name": "TVS Housing Finance Private Limited",
+      "former_names": [],
+      "role": "merged_in",
+      "scheme": "2026 Composite Scheme of Amalgamation (Transferor Company 3, merging into TVS Credit Services Limited)",
+      "status": "in progress",
+      "nse_symbol": "",
+      "business": "Incorporated with the main objects of carrying on housing finance activities; yet to commence operations",
+      "swap_ratio": "\"Since the  Transferor Company 3 is a wholly owned subsidiary of the Transferee Company 2, upon amalgamation of the Transferor Company 3 with the Transferee Company 2, no consideration shall be issued by the Transferee Company 2.\"",
+      "listing": "not to be listed",
+      "turnover": "Turnover: - (nil) as on 30 June 2026",
+      "net_worth_or_assets": "As on 30 June 2026: Total assets Rs. 0.02 Cr; Net worth Rs. 0.02 Cr",
+      "who_runs_it": "not stated",
+      "quote": "TVS Housing Finance Private Limited: Incorporated with the main objects of carrying on housing finance activities. However, the Company is yet to commence operations."
+     }
+    ],
+    "size_statement": "The turnover of the Demerged Undertaking for the period ended 30th September 2026 was Rs. 3,921  Crore out of the total turnover of Rs. 35,770 Crore of the Company .",
+    "promoter_holding_parent": "Promoter and Promoter Group held 23,88,12,786 of 47,50,87,114 equity shares as at the record date 14/02/2025 for the meeting of 12th April 2025 (per the voting results annexure); the Scheme's post-Scheme mirror table dated as on 30th September 2026 shows Promoters at 23,88,12,786 shares and 50.27%",
+    "promoter_holding_after": "2026 demerger into Harita ARC Limited: \"Upon the Scheme becoming effective, the Resulting Company will issue and allot its fully paid -up equity shares to the eligible shareholders of the Company, in proportion to their respective shareholding in the Company as on the Record Date (as defined in the Scheme)  such that the shareholding pattern of the Resulting Company will mirror that of the Company.\" Post-Scheme table for the Resulting Company: Promoters 23,88,12,786 shares \u2014 50.27%; Public 23,61,77,311 \u2014 49.71%; Non Promoter-Non Public 97,017 \u2014 0.02%; Total 47,50,87,114 \u2014 100.00%. Amalgamation of TVS Motor Services Limited: \"There will not be any change in the existing shareholding pattern of the Company pursuant to the proposed Scheme.\" 2025 bonus NCRPS scheme: \"Thus, there would be no change in shareholding of TVSM.\" 2026 NBFC amalgamation: \"Not applicable. TVS Motor Company Limited  is not a party to the Composite Scheme of Amalgamation and consequently, there will be no change in the shareholding pattern of TVS Motor Company  Limited.\"",
+    "public_shareholders_get": "2026 Composite Scheme of Arrangement: \"Under the proposed Scheme, shareholders of the c ompany will receive equal number of shares in the resulting company  as in TVS Motor , enabling them to participate in the future growth of both the mobility and consumer finance  businesses\" \u2014 i.e. \"1 (One) fully paid -up equity share of face value of INR 1/ - (Rupee One only) each of the Resulting Company for every 1 (One) fully paid -up equity share of face value of INR 1/ - (Rupee One o nly) each of the Company\". 2025 Scheme of Arrangement: \"the Company shall issue and allot, by way of bonus, 4 Preference Shares of face value of INR 10 each fully paid up to each equity shareholder of the Company holding every 1 equity share of INR 1 each fully paid up\" (6% Cumulative Non-Convertible Redeemable Preference Shares, redeemed 1 September 2026 for Rs. 2,014.36 Cr including dividend). Amalgamation of TVS Motor Services Limited and of Sundaram Auto Components Limited: no consideration, both being wholly owned subsidiaries.",
+    "management_incentives": "not stated as to treatment of grants in the Scheme or any new plan in the resulting entity. The only related disclosures are financial: \"Share based payment expense 4.33\" (standalone) / \"5.59\" (consolidated) for the half year ended 30.09.2026, and \"Changes in treasury shares by ESOP Trust 1.46\" in financing activities.",
+    "insider_actions": "The Company acquired 100% of Harita ARC Limited (2,500 equity shares of Rs. 10 each) for Rs. 25,000/- in cash from TVS Credit Services Limited, a material subsidiary: \"Yes, the proposed transaction is a related party transaction.  The Company has  acquire d shares  of TVSM WOS  from TVS Credit Services Limited, a material subsidiary of the Company.\" The Board also approved acquiring 100% of STPL Trading and Services Private Limited (18,89,47,551 equity shares) for Rs. 530.08 Cr in cash: \"The shares are acquired  from various stakeholders  who are related parties.\" and \"The transfer of shares will be done at \u201carms -length\u201d based on a valuation report.\" No promoter or management buying, selling or pledging of TVS Motor shares is stated.",
+    "dates": [
+     {
+      "event": "board approval",
+      "date": "2026-10-28",
+      "entity": "TVS Motor Company Limited (Composite Scheme of Arrangement: demerger into Harita ARC Limited and amalgamation of TVS Motor Services Limited)",
+      "source": "Outcome of Board Meeting / Scheme of Arrangement intimation and press release, 28th October 2026 (\"Date and time of occurrence of event: 28th October 2026 at 2.50 P.M. (IST)\")"
+     },
+     {
+      "event": "other",
+      "date": "2026-10-28",
+      "entity": "Harita ARC Limited \u2014 acquisition of entire stake (100%, 2,500 equity shares) by TVS Motor Company Limited completed, to carry on the consumer finance business after the demerger",
+      "source": "Annexure A to the Board Meeting outcome, 28th October 2026 (\"The acquisition will be completed on 28th October 2026\")"
+     },
+     {
+      "event": "other",
+      "date": "2026-10-28",
+      "entity": "Harita ARC Limited \u2014 valuation report of M/s. Bansi S. Mehta Valuers LLP determining the share entitlement ratio, with fairness opinion from M/s. JM Financial Limited",
+      "source": "Annexure C (Demerger) to the Scheme of Arrangement intimation, 28th October 2026"
+     },
+     {
+      "event": "other",
+      "date": "2026-08-05",
+      "entity": "TVS Credit Services Limited, Home Credit India Finance Private Limited, STPL Trading and Services Private Limited, TVS Housing Finance Private Limited \u2014 board approvals of the Composite Scheme of Amalgamation consolidating the Group's NBFCs, described as the step preceding the demerger",
+      "source": "Amalgamation/Merger intimation, 5th August 2026 (\"The intimation of the same was received by the Company on 5th August 2026 at 3:01 PM (IST)\")"
+     },
+     {
+      "event": "other",
+      "date": "2026-12-31",
+      "entity": "STPL Trading and Services Private Limited \u2014 indicative outer date for completion of the Rs. 530.08 Cr acquisition by TVS Motor Company Limited",
+      "source": "Annexure D to the Board Meeting outcome, 28th October 2026 (\"The acquisition is expected to be completed on or before 31st December 2026\")"
+     }
+    ],
+    "other_differences": [
+     {
+      "metric": "debt and leverage",
+      "parent_or_remaining": "Standalone (automotive/remaining) Net Debt to Equity 0.37 times as at 30.09.2026 (0.24 at 31.03.2026); standalone total debts to total assets 0.17 times",
+      "separated_business": "The consumer finance business can carry higher leverage; consolidated Net Debt to Equity 2.90 times as at 30.09.2026, total debts to total assets 0.57 times",
+      "quote": "(d) a financial services company can have a higher leverage (as compared to the Demerged  Company) for its growth ."
+     },
+     {
+      "metric": "other",
+      "parent_or_remaining": "Automotive segment revenue and other income Rs. 31,927.75 Cr for the half year ended 30.09.2026; segment assets Rs. 23,867.50 Cr; segment liabilities Rs. 21,287.66 Cr",
+      "separated_business": "Financial segment revenue and other income Rs. 4,120.42 Cr for the half year ended 30.09.2026; segment assets Rs. 43,003.19 Cr; segment liabilities Rs. 33,287.60 Cr",
+      "quote": "On a standalone basis, the Company operates in (a) Automotive \u2013 comprising Automotive Vehicles, Parts and related investments and (b) Financial \u2013 comprising Consumer Finance and Related Business Segments."
+     },
+     {
+      "metric": "operating margin",
+      "parent_or_remaining": "Standalone Operating Margin (Operating EBITDA / Turnover) 13.0% for the quarter and 12.9% for the half year ended 30.09.2026",
+      "separated_business": "not stated separately; consolidated (including the financial segment) Operating Margin 11.3% for the quarter and 11.4% for the half year ended 30.09.2026",
+      "quote": "The Company\u2019s EBITDA margin improved by 30 bps at 13.0% during the quarter ended September  2026 as against 12.7% in the quarter ended September  2025."
+     },
+     {
+      "metric": "return on capital",
+      "parent_or_remaining": "Automotive segment profit before tax, finance cost and exceptional items Rs. 2,826.29 Cr on segment assets of Rs. 23,867.50 Cr (half year ended 30.09.2026)",
+      "separated_business": "Financial segment profit before tax, finance cost and exceptional items Rs. 782.47 Cr on segment assets of Rs. 43,003.19 Cr (half year ended 30.09.2026)",
+      "quote": "a) Automotive 1,593.79        1,232.50       1,059.59       2,826.29          1,843.41         4,043.79          b) Financial 351.15            431.32           246.83           782.47            516.80            1,164.62"
+     },
+     {
+      "metric": "working capital",
+      "parent_or_remaining": "Standalone Current ratio 0.75 times as at 30.09.2026; standalone long term debt to working capital nil",
+      "separated_business": "not stated separately; consolidated Current ratio 1.09 times and Long term debt to working capital 1.83 times as at 30.09.2026",
+      "quote": "Current ratio   (Times) [Current Assets / Current Liabilities ]0.75 0.54 0.54 0.75 0.54 0.54"
+     },
+     {
+      "metric": "growth",
+      "parent_or_remaining": "not stated for the remaining business separately; standalone revenue grew 41% to Rs. 30,999 Crores in the half year ended September 2026",
+      "separated_business": "TVS Credit book size grew by 19% to Rs. 32,053 crores (Q1 FY27 call) and PBT for the quarter grew by 16% to Rs. 283 crores",
+      "quote": "The book size of TVS Credit grew by 19%. Now it is at INR 32,053 crores as against INR 26,898 crores last year. Profit before tax for the quarter grew by 16%, INR 283 crores as against INR 243 crores during first quarter of last year."
+     },
+     {
+      "metric": "cash",
+      "parent_or_remaining": "Standalone cash and cash equivalents Rs. 374.65 Cr as at 30.09.2026; net cash from operating activities Rs. 3,844.33 Cr for the half year",
+      "separated_business": "not stated separately; consolidated cash and cash equivalents Rs. 4,968.36 Cr and net cash from operating activities Rs. 358.15 Cr for the half year, after \"Loans given by Financial enterprise (Net) ... (3,351.70)\"",
+      "quote": "Cash and cash equivalents at the end of the period 374.65                 850.19                 4,968.36              4,719.85"
+     },
+     {
+      "metric": "other",
+      "parent_or_remaining": "Remaining Business: TVS Motor to \"sharpen its focus on its continuing automotive and mobility businesses\" and \"remain focused on strengthening its leadership in mobility globally\"",
+      "separated_business": "\"The consumer finance and related business needs a separate strategy suited to its industry -specific risks, market dynamics and growth path\" and serves, with Home Credit India, \"more than 45 million customers  across 100,000 touchpoints  in India\"",
+      "quote": "(iii)The nature of, and competition in, the consumer finance and related b usiness differ from those of the other businesses;"
      }
     ]
    }

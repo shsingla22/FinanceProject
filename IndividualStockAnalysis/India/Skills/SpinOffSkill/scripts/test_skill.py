@@ -1431,7 +1431,7 @@ def test_write_up_names_every_entity_and_follows_the_nine_parts(monkeypatch):
     for head in ("### 1. Quess Corp Ltd. — CONFIRMED DEMERGER", "### 2. Stages and dates", "### 3. Size", "### 4. Insider ownership",
                  "### 5. Why the demerger", "### 6. On the calls, verbatim"):
         assert head in md, head
-    assert "| **Bluspring Enterprises Limited** | facility management, industrials | listed 2025-06-11 as BLUSPRING (NSE) |" in md
+    assert "| **Bluspring Enterprises Limited** | — | facility management, industrials | listed 2025-06-11 as BLUSPRING (NSE) |" in md
     assert "- **Bluspring Enterprises Limited:** 1 share for every 1 share of Quess" in md
     assert "> **Aniket:** When does the demerger complete?" in md and "> **Kamal:** In 12 to 15 months." in md
     brief = "\n".join(AZ.render_company(s, heavy=True, verbatim=False))
@@ -1899,3 +1899,83 @@ def test_register_check_finds_misses_and_false_positives():
     assert (s["register_demergers"], s["captured"], s["missed"], s["false_positives"], s["pending"]) == (2, 1, 1, 2, 1)
     md = VD.render(res, "2026-10-12")
     assert "| …MISSED | 1 |" in md and "**TRIVENI**" in md and "FALSE POSITIVE" in md
+
+
+def test_entities_carry_a_role_and_only_the_separated_ones_are_shown(monkeypatch):
+    """A composite scheme names the parent, the company spun out and
+    subsidiaries merged in: only the spun-out company is a separated
+    entity (TVS Motor: Harita ARC — not TVS Motor Services, merged in)."""
+    monkeypatch.setattr(SO, "_EQUITY", ({"TVSMOTOR": "1999-01-01", "HEGAM": "1995-05-10", "VEDPOWER": "2026-06-15"},
+                                        {SO._norm_name("TVS Motor Company Limited"): "TVSMOTOR",
+                                         SO._norm_name("HEG Advanced Materials Limited"): "HEGAM",
+                                         SO._norm_name("Vedanta Power Limited"): "VEDPOWER"}))
+    today = dt.date(2026, 11, 24)
+    ents = DL.enrich_entities([
+        {"name": "Harita ARC Limited", "role": "resulting", "business": "consumer finance"},
+        {"name": "TVS Motor Company Limited", "role": "parent"},
+        {"name": "TVS Motor Services Limited", "role": "merged_in", "listing": "not to be listed"},
+        {"name": "Some Dropped Limited", "role": "resulting", "status": "withdrawn / dropped"},
+        {"name": "Tata Capital Limited", "role": "unrelated"}], "TVSMOTOR", today)
+    assert [e["name"] for e in DL.separated(ents)] == ["Harita ARC Limited"]
+    # a subsidiary listed years ago is not a partial spin-off now (Hindustan Zinc under Vedanta); a recent IPO is
+    monkeypatch.setitem(SO._EQUITY[0], "HINDZINC", "2006-11-21")
+    monkeypatch.setitem(SO._EQUITY[1], SO._norm_name("Hindustan Zinc Limited"), "HINDZINC")
+    monkeypatch.setitem(SO._EQUITY[0], "HDBFS", "2025-07-02")
+    monkeypatch.setitem(SO._EQUITY[1], SO._norm_name("HDB Financial Services Limited"), "HDBFS")
+    subs = DL.enrich_entities([{"name": "Hindustan Zinc Limited", "role": "listed_subsidiary"},
+                               {"name": "HDB Financial Services Limited", "role": "listed_subsidiary"}], "VEDL", today)
+    assert [e["role"] for e in subs] == ["other", "listed_subsidiary"]
+    assert {e["name"]: e["role"] for e in ents}["TVS Motor Services Limited"] == "merged_in"
+    # no role from the judge: read from the entry's own words
+    old = DL.enrich_entities([
+        {"name": "Sterling Holiday Resorts Limited", "business": "Resulting Company; receives the resorts business", "listing": "to be listed"},
+        {"name": "TC Visa Services (India) Limited", "business": "Transferor Company 1; merged by absorption into TCIL and dissolved", "listing": "not to be listed"},
+        {"name": "Thomas Cook (India) Limited", "business": "Demerged Company / Transferee Company; retains travel"}], "THOMASCOOK", today)
+    assert [e["name"] for e in DL.separated(old)] == ["Sterling Holiday Resorts Limited"]
+    # names with 'formerly', a CIN or a role in brackets are cleaned, and the same company named twice is one entity
+    twice = DL.enrich_entities([
+        {"name": "HEG Advanced Materials Limited, formerly HEG Limited", "role": "parent"},
+        {"name": "HEG Limited, formerly HEG Graphite Limited", "role": "resulting", "swap_ratio": "1:1"},
+        {"name": "HEG Limited (the Resulting Company, to be listed)", "role": "resulting", "who_runs_it": "Mr A"}], "HEGAM", today)
+    assert [(e["name"], e["role"]) for e in twice] == [("HEG Advanced Materials Limited", "parent"), ("HEG Limited", "resulting")]
+    assert twice[1]["who_runs_it"] == "Mr A" and twice[1]["swap_ratio"] == "1:1"
+    # a renamed resulting company is found through the symbol the judge matched from the exchange's list, or a former name
+    ren = DL.enrich_entities([{"name": "Talwandi Sabo Power Limited", "role": "resulting", "nse_symbol": "VEDPOWER"},
+                              {"name": "TSPL Renamed Limited", "role": "resulting", "former_names": ["Vedanta Power Limited"]}], "VEDL", today)
+    assert ren[0]["symbol"] == "VEDPOWER" and ren[0]["listed_on"] == "2026-06-15" and len(ren) == 1   # the same listing is one entity
+
+
+def test_new_listings_after_the_record_date_are_the_exchange_cross_check():
+    """Vedanta: four companies began trading after the record date under
+    the parent's name; a company named in the filings counts too; a
+    listing before the record date, or long after, does not."""
+    eq = [{"symbol": "VAML", "name": "Vedanta Aluminium Metal Limited", "listing_date": "2026-06-15"},
+          {"symbol": "VOGL", "name": "Vedanta Oil and Gas Limited", "listing_date": "2026-06-15"},
+          {"symbol": "VEDL", "name": "Vedanta Limited", "listing_date": "1998-05-13"},
+          {"symbol": "OLD", "name": "Vedanta Old Limited", "listing_date": "2026-04-20"},
+          {"symbol": "LATE", "name": "Vedanta Late Limited", "listing_date": "2027-03-01"},
+          {"symbol": "ENNATURE", "name": "Ennature Bio Pharma Limited", "listing_date": "2026-06-20"},
+          {"symbol": "XYZ", "name": "Xyz Unrelated Limited", "listing_date": "2026-06-20"}]
+    got = DL.arrivals("Vedanta Limited", "VEDL", "2026-05-01", dt.date(2026, 11, 24),
+                      "the Scheme, shares of Ennature  Bio Pharma Limited shall list", eq)
+    assert [(a["symbol"], a["why"]) for a in got] == [("VAML", "carries the parent's name"), ("VOGL", "carries the parent's name"),
+                                                      ("ENNATURE", "named in the filings")]
+    assert DL.arrivals("Vedanta Limited", "VEDL", "2026-05-01", dt.date(2026, 6, 1), "", eq) == []        # as of: nothing later
+    s = {"entities": [{"name": "Vedanta Aluminium Metal Limited", "symbol": "VAML"}], "nse_arrivals": got}
+    assert [a["symbol"] for a in AZ.uncovered_listings(s)] == ["VOGL"]          # the warning: on the parent's name only
+
+
+def test_deal_documents_cover_the_whole_history_when_they_do_not_fit(monkeypatch):
+    """A newer scheme's long documents must not crowd out an older scheme:
+    every filing contributes its opening pages before any is completed."""
+    rows = [{"symbol": "VEDL", "date": "2026-07-01", "category": "Scheme of Arrangement", "headline": "Real estate scheme", "tags": "demerger", "body": "NEW " + "n" * 9000},
+            {"symbol": "VEDL", "date": "2026-01-21", "category": "Updates", "headline": "Notice", "tags": "demerger", "body": "MID " + "m" * 9000},
+            {"symbol": "VEDL", "date": "2024-07-17", "category": "Updates", "headline": "Five-way demerger", "tags": "demerger", "body": "OLD Vedanta Aluminium Metal Limited " + "o" * 600}]
+    monkeypatch.setattr(AZ, "store_rows", lambda sym, today: rows)
+    monkeypatch.setattr(SO, "load_text", lambda r: r["body"])
+    full = AZ.deal_text_for("VEDL", dt.date(2026, 11, 24), budget=50_000)
+    assert full.startswith("[3 filings in full]") and "OLD Vedanta Aluminium" in full
+    tight = AZ.deal_text_for("VEDL", dt.date(2026, 11, 24), budget=8_000)
+    assert "OLD Vedanta Aluminium Metal Limited" in tight and "NEW " in tight and "MID " in tight     # all three are there
+    assert "2 by their opening pages" in tight and "characters of this filing]" in tight and len(tight) <= 8_200
+    assert tight.index("NEW ") < tight.index("MID ") < tight.index("OLD ")                           # newest first

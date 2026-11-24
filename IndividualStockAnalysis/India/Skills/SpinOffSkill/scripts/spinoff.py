@@ -1231,6 +1231,9 @@ def clean_entity(name: str) -> str:
     """A legal name without the brackets judges and filings add: '(MCL)',
     '(formerly known as …)', '(publ)'; '(India)' inside a name stays."""
     n = re.sub(r"\s*\((?:formerly|earlier|erstwhile|previously|f\.?k\.?a)\b.*$", "", name or "", flags=re.I | re.S)
+    # ', formerly HEG Graphite Limited', ', CIN U29102MH2024PLC427506', ' (the Amalgamating Company, …)'
+    n = re.sub(r"\s*[,;]\s*(?:formerly|earlier|erstwhile|previously|f\.?k\.?a\.?|now known as|CIN)\b.*$", "", n, flags=re.I | re.S)
+    n = re.sub(r"\s*\((?:the\s+)?(?:Amalgamat|Transfer|Demerged|Resulting|Remaining)\w*\s+Compan.*$", "", n, flags=re.I | re.S)
     n = re.sub(r"\s*\((?!India\))[A-Za-z0-9&. ]{1,12}\)\s*$", "", n.strip())
     return re.sub(r"\s+", " ", n).strip(" ,;")
 

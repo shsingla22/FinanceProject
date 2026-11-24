@@ -102,7 +102,7 @@ CALLS_CHARS = 360_000
 PROMPT_VERSION = "v2"
 LISTING_PROMPT_VERSION = "listing-v2"      # the subsidiary-listing resolution question
 RESOLUTION_PROMPT_VERSION = "resolution-v1"  # the probable / indicated demerger resolution question
-DEAL_PROMPT_VERSION = "deal-v2"              # the deal sheet: every entity, size, swap, holdings, incentives, dates
+DEAL_PROMPT_VERSION = "deal-v3"              # the deal sheet: every entity, size, swap, holdings, incentives, dates
 SEGMENT_PROMPT_VERSION = "segments-v3"       # one table per separated business, with segment assets and liabilities
 
 
@@ -309,16 +309,40 @@ def judge_segments(sit: dict, excerpts: list[dict], names: list[str],
                 segments_prompt(sit, excerpts, names), allow_ai, runner)
 
 
-def deal_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
+def deal_prompt(sit: dict, scheme_text: str, calls_text: str, arrivals: list[dict] | None = None) -> str:
     kind = ("a subsidiary's IPO / listing (a partial spin-off)" if sit["kind"] == "subsidiary_listing"
             else "a demerger / spin-off")
+    hint = ""
+    if arrivals:
+        rd = sit["facts"].get("record_date", "")
+        hint = (f"NSE'S EQUITY LIST (the exchange's own record) shows these companies began trading after this "
+                f"company's demerger record date of {rd}: "
+                + "; ".join(f"{a['name']} ({a['symbol']}, listed {a['listed_on']})" for a in arrivals)
+                + ". Include EACH of them in `entities`: with role \"resulting\" and its nse_symbol when the documents "
+                  "show the scheme created or separated it (a resulting company is often renamed before it lists), "
+                  "else with role \"unrelated\".\n")
     return (
         f"You are preparing the DEAL SHEET for {kind} at {sit['company']} ({sit['symbol']}), for an investor "
         f"following Greenblatt's spin-off checklist. Read the complete documents below. Answer STRICT JSON only; "
         f"every field from the documents — never from memory, never estimated; write \"not stated\" when they "
         f"do not say; quotes must be verbatim.\n"
-        '{"entities": [{"name": "<full legal name of EACH resulting company, or each subsidiary being listed — '
-        'list ALL of them, one entry each; no bracketed abbreviations>", '
+        f"A company can have MORE THAN ONE scheme or transaction on file — an earlier demerger already completed and "
+        f"a newer one in progress, or one scheme that separates several businesses into several companies. The "
+        f"documents span the whole period; cover EVERY scheme and EVERY entity in them, not only the newest.\n"
+        f"{hint}"
+        '{"entities": [{"name": "<CURRENT full legal name of EACH resulting company, each subsidiary being listed, '
+        'the parent itself, and every other party to the scheme — ALL of them, one entry each; the name only: no '
+        'bracketed abbreviations, no \'formerly\', no CIN, no role>", '
+        '"former_names": ["<any earlier name of this entity in the documents>"], '
+        '"role": "resulting" | "listed_subsidiary" | "parent" | "former_parent" | "merged_in" | "unrelated" | "other" '
+        '— resulting = receives a separated business and its shares go to the parent\'s shareholders; '
+        'listed_subsidiary = a subsidiary / associate / JV listed by IPO in the period of these documents, or being '
+        'listed — NOT one that has been listed for years (that is \"other\"); parent = this company '
+        'itself, what remains; former_parent = the company THIS company was spun out of; merged_in = amalgamated '
+        'into another entity and dissolved, or a transfer inside the group with no shares to the parent\'s holders, '
+        '"scheme": "<which scheme or transaction this entity belongs to, with its year, e.g. \'2023 demerger into five companies\'>", '
+        '"status": "<listed | effective, awaiting listing | in progress | withdrawn / dropped | not stated>", '
+        '"nse_symbol": "<its NSE symbol when the documents or the exchange list above give it, else empty>", '
         '"business": "<what goes into it, <=30 words>", '
         '"swap_ratio": "<shares of this entity for shares of the parent, in the documents\' words; for an IPO the '
         'offer structure (fresh issue / offer for sale, size); or not stated>", '
@@ -332,8 +356,8 @@ def deal_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
         'company — verbatim, with the numbers; or not stated>", '
         '"promoter_holding_parent": "<promoter and promoter group holding in the parent, % with its date; or not stated>", '
         '"promoter_holding_after": "<what the promoters will hold in each resulting / listed entity — e.g. mirror '
-        'shareholding, or the % after the IPO; verbatim; or not stated>", '
-        '"public_shareholders_get": "<what a public shareholder of the parent receives, in the documents\' words; or not stated>", '
+        'shareholding, or the % after the IPO; verbatim; for EVERY scheme; or not stated>", '
+        '"public_shareholders_get": "<what a public shareholder of the parent receives under EACH scheme, in the documents\' words; or not stated>", '
         '"management_incentives": "<stock options / RSUs / SARs: how existing grants are treated in the scheme, any '
         'new plan in the new entity, exercise price or pricing date, management or insider shareholding; verbatim; or not stated>", '
         '"insider_actions": "<any promoter or management buying, selling, pledging or stated intent around the '
@@ -348,13 +372,14 @@ def deal_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
         '"parent_or_remaining": "<what the documents say about the parent / remaining business>", '
         '"separated_business": "<what they say about the separated business>", '
         '"quote": "<verbatim sentence with the numbers>"}]}\n\n'
-        f"THE COMPANY'S FILINGS, COMPLETE (newest first):\n{scheme_text}\n\n"
+        f"THE COMPANY'S FILINGS ABOUT ITS SEPARATIONS, THE WHOLE PERIOD ON FILE (newest first):\n{scheme_text}\n\n"
         f"THE COMPANY'S EARNINGS CALLS, COMPLETE (last 12 months, newest first):\n"
         f"{calls_text or '(no transcripts on file)'}"
     )
 
 
-def judge_deal(sit: dict, scheme_text: str, calls_text: str, allow_ai: bool = True, runner=None) -> dict:
+def judge_deal(sit: dict, scheme_text: str, calls_text: str, allow_ai: bool = True, runner=None,
+               arrivals: list[dict] | None = None) -> dict:
     """The deal sheet: EVERY resulting or listed entity (Quess: Digitide and
     Bluspring; Vedanta: each of its demerged companies), the size of each
     beside the parent, the share swap, promoter holding, management
@@ -362,8 +387,9 @@ def judge_deal(sit: dict, scheme_text: str, calls_text: str, allow_ai: bool = Tr
     how the businesses differ."""
     if len(scheme_text) < 300 and len(calls_text) < 300:
         return {"status": "no documents", "note": "nothing on file to read"}
-    stamp = hashlib.md5((scheme_text + calls_text + MODEL + PROMPT_VERSION + DEAL_PROMPT_VERSION).encode()).hexdigest()
-    return _ask(f"{sit['symbol']}::deal", stamp, deal_prompt(sit, scheme_text, calls_text), allow_ai, runner)
+    hint = json.dumps(arrivals or [], sort_keys=True)
+    stamp = hashlib.md5((scheme_text + calls_text + hint + MODEL + PROMPT_VERSION + DEAL_PROMPT_VERSION).encode()).hexdigest()
+    return _ask(f"{sit['symbol']}::deal", stamp, deal_prompt(sit, scheme_text, calls_text, arrivals), allow_ai, runner)
 
 
 def offering_prompt(sit: dict, text: str) -> str:
@@ -400,7 +426,7 @@ def segment_table(seg: dict) -> dict:
     years = [y for y in (seg.get("years") or []) if isinstance(y, dict)]
     if not years:
         return {"available": False}
-    labels = [y.get("fy", "") for y in years]
+    labels = [str(y.get("fy") or "n/a") for y in years]     # a year the judge left unlabelled still renders
     def col(k):
         out = []
         for y in years:
@@ -627,7 +653,7 @@ def _v(x, pct=False) -> str:
 
 
 def table_md(fin: dict, pct_rows: tuple[str, ...] = ("growth", "margin")) -> list[str]:
-    A = ["| | " + " | ".join(fin["years"]) + " |", "|---|" + "---:|" * len(fin["years"])]
+    A = ["| | " + " | ".join(str(y or "n/a") for y in fin["years"]) + " |", "|---|" + "---:|" * len(fin["years"])]
     for r in fin["rows"]:
         pct = any(k in r["metric"].lower() for k in pct_rows)
         A.append(f"| {r['metric']} | " + " | ".join(_v(v, pct and 'growth' in r['metric'].lower())
@@ -639,7 +665,12 @@ def entity_cell(s: dict) -> str:
     """The separated entities for the summary table — ALL of them, each
     with its NSE symbol and listing date when it trades; else the filings'
     resulting company; else the judge's words."""
-    ents = [e for e in (s.get("entities") or []) if not e.get("is_parent")]
+    ents = DL.separated(s.get("entities"))
+    if s["facts"].get("is_the_spin"):
+        fp = [e for e in (s.get("entities") or []) if e.get("role") in ("former_parent", "parent") and not e.get("is_parent")]
+        if fp:
+            e = fp[0]
+            return f"this company — spun out of {_short(e['name'], 50)}" + (f" ({e['symbol']})" if e.get("symbol") else "")
     if ents:
         bits = []
         for e in ents[:6]:
@@ -692,7 +723,7 @@ def timeline_rows(s: dict) -> list[dict]:
         rows.append({"date": str(f["record_date"]), "event": "**Record date**",
                      "source": f.get("record_date_source") or "the filings", "rank": 0})
     for e in s.get("entities") or []:
-        if e.get("listed_on") and not e.get("is_parent"):
+        if e.get("listed_on") and DL.is_separated(e):
             rows.append({"date": e["listed_on"], "event": f"**{e['name']}** listed" + (f" ({e['symbol']})" if e.get("symbol") else ""),
                          "source": "NSE equity list", "rank": 0})
     if f.get("is_the_spin") and s.get("listed_on"):
@@ -768,7 +799,9 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     f = s["facts"]
     j = s.get("judge") or {}
     d = s.get("deal") if (s.get("deal") or {}).get("status") in ("judged", "cached") else {}
-    ents = [e for e in (s.get("entities") or []) if not e.get("is_parent")]
+    ents = DL.separated(s.get("entities"))
+    others = [e for e in (s.get("entities") or []) if not DL.is_separated(e)
+              and (e.get("dropped") or e.get("role") in ("parent", "former_parent", "merged_in")) and not e.get("is_parent")]
     A = [f"## {s['symbol']} — {s['company']}", "",
          f"### 1. {s['company']} — {category_of(s)}", "",
          f"**{conf.upper()}** ({why}) · **{s['verdict']['label']}** · score {s['verdict']['score']}/10 · "
@@ -776,12 +809,24 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
          f"first {s['first_filing']}, latest {s['latest_filing']}", ""]
     if ents:
         A += ["**The separated entities — every one the documents name:**", "",
-              "| Entity | Business | Listing | Who runs it |", "|---|---|---|---|"]
+              "| Entity | Scheme | Business | Listing | Who runs it |", "|---|---|---|---|---|"]
         for e in ents:
             listing = (f"listed {e['listed_on']} as {e['symbol']} (NSE)" if e.get("listed_on")
                        else _short(e.get("listing") or "not stated", 60))
-            A.append(f"| **{e['name']}** | {_short(e.get('business') or '—', 110)} | {listing} | {_short(e.get('who_runs_it') or '—', 50)} |")
+            was = [x for x in (e.get("former_names") or []) if isinstance(x, str) and x.strip()] if isinstance(e.get("former_names"), list) else []
+            nm = f"**{e['name']}**" + (f" (earlier {_short(was[0], 45)})" if was else "")
+            A.append(f"| {nm} | {_short(e.get('scheme') or '—', 60)} | {_short(e.get('business') or '—', 110)} | {listing} | {_short(e.get('who_runs_it') or '—', 50)} |")
         A.append("")
+    if others:
+        label = {"parent": "the company itself, what remains", "former_parent": "the company this one was spun out of",
+                 "merged_in": "merged in — no shares for the parent's holders", "other": "other party"}
+        A += ["**The other parties to the scheme(s)** — not separated entities: "
+              + "; ".join(f"{e['name']}" + (f" ({e['symbol']})" if e.get("symbol") else "")
+                          + f" — {'dropped / withdrawn' if e.get('dropped') else label.get(e.get('role'), e.get('role') or 'other party')}"
+                          for e in others), ""]
+    for a in s.get("uncovered_listings") or []:
+        A += [f"> ⚠ NSE's equity list shows **{a['name']} ({a['symbol']})** listed on {a['listed_on']}, after the record "
+              f"date, under the parent's name — the documents read do not connect it to this scheme. Check by hand.", ""]
     if j.get("status") in ("judged", "cached"):
         A += [f"**What is being separated, as the documents put it:** {j.get('what_is_spun', '—')} — class "
               f"`{j.get('reason_class', '—')}`.", ""]
@@ -1572,32 +1617,59 @@ def store_rows(symbol: str, today: dt.date) -> list[dict]:
     return [r for r in _STORE if r["symbol"] == symbol and r["date"] <= lim]
 
 
-def deal_text_for(symbol: str, today: dt.date, budget: int = FILINGS_CHARS) -> str:
-    """The documents of the separation from the WHOLE store, complete: the
-    filings in a scheme category first (the scheme itself, its disclosures),
-    then every other filing tagged demerger / scheme / subsidiary listing,
-    each group newest first. Over budget, the later ones are dropped whole
-    and the header says how many."""
+DEAL_HEAD_CHARS = 6_000
+
+
+def deal_text_for(symbol: str, today: dt.date, budget: int = FILINGS_CHARS, head: int = DEAL_HEAD_CHARS) -> str:
+    """The documents of the company's separations over the WHOLE store —
+    every filing tagged demerger / scheme / subsidiary listing. When they
+    fit the budget they are given complete. When they do not, coverage
+    comes first: EVERY filing contributes its opening pages (the
+    Regulation 30 disclosure that names the entities, the ratio, the
+    turnover and the listing), so an older scheme is never crowded out by
+    a newer one (Vedanta's four demerged companies behind its later
+    real-estate scheme); the room left then completes whole documents,
+    the shortest first, and what remains is shared among the longest.
+    Each truncated filing says how much of it is shown. Newest first."""
     rows = [r for r in store_rows(symbol, today) if r.get("source") != "CALLS"
             and SPIN_TAGS & set((r.get("tags") or r.get("kind") or "").split("|"))]
     rows.sort(key=lambda r: r["date"], reverse=True)
-    rows.sort(key=lambda r: r["category"] not in SCHEME_FIRST)
-    docs, used, dropped, seen = [], 0, 0, set()
+    docs, seen = [], set()
     for r in rows:
         t = SO.load_text(r) or SO.load_first_pages(r)
         key = hashlib.md5(t[:4000].encode()).hexdigest() if t else ""
         if not t or key in seen:
             continue
         seen.add(key)
-        head = f"### FILING {r['date']} · {r['category']} · {r['headline'][:160]}\n"
-        if used + len(t) + len(head) > budget and docs:
-            dropped += 1
-            continue
-        docs.append(head + t)
-        used += len(t) + len(head)
-    note = (f"[{len(docs)} filings in full; {dropped} further filings omitted for length]\n\n"
-            if dropped else f"[{len(docs)} filings in full]\n\n")
-    return note + "\n\n".join(docs)
+        docs.append((r, t))
+    if not docs:
+        return "[0 filings in full]\n\n"
+    heads = [f"### FILING {r['date']} · {r['category']} · {r['headline'][:160]}\n" for r, _ in docs]
+    room = budget - sum(len(h) for h in heads)
+    sizes = [len(t) for _, t in docs]
+    if sum(sizes) <= room:
+        take = sizes[:]
+    else:
+        h = max(1_500, min(head, int(room * 0.6 / len(docs))))
+        take = [min(n, h) for n in sizes]
+        left = room - sum(take)
+        for i in sorted(range(len(docs)), key=lambda i: sizes[i]):          # whole documents, shortest first
+            need = sizes[i] - take[i]
+            if 0 < need <= left:
+                take[i], left = sizes[i], left - need
+        cut = [i for i in range(len(docs)) if take[i] < sizes[i]]
+        for i in cut:                                                      # the rest, shared among the longest
+            take[i] += min(sizes[i] - take[i], max(0, left) // len(cut))
+    parts, whole = [], 0
+    for (r, t), hd, n in zip(docs, heads, take):
+        if n >= len(t):
+            parts.append(hd + t)
+            whole += 1
+        else:
+            parts.append(hd + f"[the first {n:,} of {len(t):,} characters of this filing]\n" + t[:max(n, 0)])
+    note = (f"[{len(docs)} filings: {whole} in full, {len(docs) - whole} by their opening pages]\n\n"
+            if whole < len(docs) else f"[{len(docs)} filings in full]\n\n")
+    return note + "\n\n".join(parts)
 
 
 def full_history(s: dict, today: dt.date) -> dict:
@@ -1621,10 +1693,19 @@ def entities_for(s: dict, today: dt.date) -> list[dict]:
     d = s.get("deal") or {}
     raw = [e for e in (d.get("entities") or []) if isinstance(e, dict)] if d.get("status") in ("judged", "cached") else []
     f = s["facts"]
-    for extra in [f.get("resulting_company"), f.get("subsidiary")] + list(f.get("other_subsidiaries") or []):
-        if extra:
-            raw.append({"name": extra})
+    if not raw:                          # no deal sheet: the mechanical read's names are all there is
+        for extra in [f.get("resulting_company"), f.get("subsidiary")] + list(f.get("other_subsidiaries") or []):
+            if extra and isinstance(extra, str):
+                raw.append({"name": extra, "role": "listed_subsidiary" if s["kind"] == "subsidiary_listing" else "resulting"})
     return DL.enrich_entities(raw, s["symbol"], today)
+
+
+def uncovered_listings(s: dict) -> list[dict]:
+    """New listings after the record date that carry the parent's name and
+    that the deal sheet did not account for at all — shown as a warning,
+    never added to the entities on the name alone."""
+    have = {e.get("symbol") for e in s.get("entities") or [] if e.get("symbol")}
+    return [a for a in (s.get("nse_arrivals") or []) if a["symbol"] not in have and a["why"].startswith("carries")]
 
 
 def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
@@ -1746,14 +1827,20 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     # holdings, incentives and dates (one company can separate several)
     deal_text = deal_text_for(sym, today)
     s["documents_read"]["deal_filings_chars"] = len(deal_text)
-    s["deal"] = judge_deal(s, deal_text if len(deal_text) > len(scheme) / 2 else scheme, calls12, allow_ai=ai, runner=runner)
+    deal_docs = deal_text if len(deal_text) > len(scheme) / 2 else scheme
+    # the exchange's cross-check: what began trading after the record date under the parent's name, or named in the filings
+    s["nse_arrivals"] = (DL.arrivals(s["company"], sym, s["facts"]["record_date"], today, deal_docs)
+                         if s["kind"] == "demerger" and s["facts"].get("record_date") and not s["facts"].get("is_the_spin") else [])
+    s["deal"] = judge_deal(s, deal_docs, calls12, allow_ai=ai, runner=runner, arrivals=s["nse_arrivals"])
     s["history"] = full_history(s, today)
     s["entities"] = entities_for(s, today)
+    s["uncovered_listings"] = uncovered_listings(s)
+    spun = DL.separated(s["entities"])
     if fetch_docs:                       # a listed resulting company that is not on file: pull its statements
-        for e in s["entities"]:
-            if e.get("symbol") and e.get("listed_on") and not e.get("is_parent"):
+        for e in spun:
+            if e.get("symbol") and e.get("listed_on"):
                 DL.fetch_entity_statements(e["symbol"])
-    names = [e["name"] for e in s["entities"]] + [str(e.get("business") or "") for e in s["entities"]]
+    names = [e["name"] for e in spun] + [str(e.get("business") or "") for e in spun]
     names += [s["facts"].get("resulting_company", ""), s["facts"].get("demerged_undertaking", "")]
     j = s["judge"] or {}
     for n in (j.get("demerged_business_names") or []):
@@ -1777,28 +1864,36 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     # ---- who holds what, how big the piece is, how the businesses differ
     holders = {sym: DL.shareholding(sym, fetch=fetch_docs)}
     own = {}
-    for e in s["entities"]:
-        if e.get("symbol") and not e.get("is_parent"):
+    for e in spun:
+        if e.get("symbol"):
             holders[e["symbol"]] = DL.shareholding(e["symbol"], fetch=fetch_docs)
             fin = FN.parent_financials(e["symbol"], min_years=1)
             if fin.get("available"):
                 own[e["symbol"]] = fin
-    listed = [e for e in s["entities"] if e.get("listed_on") and not e.get("is_parent")]
+    listed = [e for e in spun if e.get("listed_on")]
     if s["kind"] == "demerger" and listed and not s["facts"].get("is_the_spin"):
         names_ = "; ".join(f"{e['name']} ({e['symbol']}) since {e['listed_on']}" for e in listed)
         rd = f"; record date {s['facts']['record_date']}" if s["facts"].get("record_date") else ""
-        pending = [e["name"] for e in s["entities"] if not e.get("listed_on") and not e.get("is_parent")]
+        pending = [e["name"] for e in spun if not e.get("listed_on")]
         s["listing"] = {**s["listing"], "state": "listed",
                         "short": f"LISTED {min(e['listed_on'] for e in listed)}: " + ", ".join(e["symbol"] for e in listed),
                         "text": f"LISTED — {names_} (NSE equity list){rd}"
                                 + (f"; not yet listed: {', '.join(pending)}" if pending else "")}
+    elif (s["kind"] == "demerger" and spun and not s["facts"].get("is_the_spin")
+          and s["listing"].get("short", "").startswith("LISTED since ~") and SO.equity_list()[0]):
+        # the record date has passed but the exchange's list has none of the new companies: say exactly that
+        upto = max(SO.equity_list()[0].values())
+        rd = s["facts"].get("record_date", "")
+        s["listing"] = {**s["listing"], "short": f"RECORD DATE {rd}; listing awaited",
+                        "text": f"RECORD DATE {rd} PASSED — {', '.join(e['name'] for e in spun)} not in NSE's equity list "
+                                f"(complete to {upto}): the new shares are allotted but not yet trading"}
     s["shareholding"] = {k: v for k, v in holders.items() if v}
     s["entity_financials"] = own
     s["size"] = DL.size_view(s["entities"], s["parent_financials"], s["segment_tables"], sym,
                              DL.latest_mcaps(as_of=today), _members())
     s["compare"] = DL.compare(sym, s["parent_financials"], s["entities"], s["segment_tables"])
     # ---- the calls, verbatim: every question and answer about it, oldest first
-    s["call_exchanges"] = DL.call_exchanges(sym, today, 36, [e["name"] for e in s["entities"]], s["company"],
+    s["call_exchanges"] = DL.call_exchanges(sym, today, 36, [e["name"] for e in spun], s["company"],
                                             links=s["call_links"])
 
 

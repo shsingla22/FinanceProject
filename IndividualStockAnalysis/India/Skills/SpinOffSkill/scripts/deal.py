@@ -349,12 +349,60 @@ def latest_mcaps(bundles: Path = BUNDLES, as_of: dt.date | None = None) -> tuple
 
 # --------------------------------------------------------------- entities
 
+ROLE_SEPARATED = ("resulting", "listed_subsidiary")
+LONG_LISTED_DAYS = 1100
+_ROLE_KEYS = (("resulting", "resulting"), ("listed_sub", "listed_subsidiary"), ("subsidiary", "listed_subsidiary"),
+              ("former_parent", "former_parent"), ("parent", "parent"), ("remaining", "parent"), ("demerged", "parent"),
+              ("merged", "merged_in"), ("amalgam", "merged_in"), ("transferor", "merged_in"),
+              ("unrelated", "unrelated"), ("other", "other"))
+_MERGED_RX = re.compile(r"\b(?:amalgamated (?:into|with)|merged (?:by absorption )?(?:into|with)|transferor compan|"
+                        r"dissolved without|stands? dissolved|amalgamating compan)", re.I)
+_REMAIN_RX = re.compile(r"^\W*(?:the\s+)?(?:remaining business|demerged company|residual)", re.I)
+_NO_LISTING_RX = re.compile(r"^\W*not to be listed", re.I)
+_DROPPED_RX = re.compile(r"\b(?:withdrawn|dropped|shelved|not pursued|called off)\b", re.I)
+
+
+def entity_role(e: dict, is_self: bool) -> str:
+    """What an entity IS in the scheme: 'resulting' (a separated business
+    whose shares go to the parent's shareholders), 'listed_subsidiary' (a
+    partial spin-off by IPO), 'parent' (the company itself / what remains),
+    'former_parent', 'merged_in' (amalgamated and dissolved — nothing to
+    hold), 'unrelated' or 'other'. The judge's own label when it gave one;
+    otherwise read from the entry's words (an older answer, or a name the
+    mechanical read added)."""
+    if is_self:
+        return "parent"
+    r = re.sub(r"[^a-z]+", "_", str(e.get("role") or "").lower()).strip("_")
+    for k, v in _ROLE_KEYS:
+        if r.startswith(k):
+            return v
+    blob = " ".join(str(e.get(k) or "") for k in ("business", "swap_ratio"))
+    if _REMAIN_RX.search(str(e.get("business") or "")):
+        return "parent"
+    if _NO_LISTING_RX.search(str(e.get("listing") or "")) or _MERGED_RX.search(blob):
+        return "merged_in"
+    return "resulting"
+
+
+def is_separated(e: dict) -> bool:
+    """An entity a shareholder of the parent ends up holding (or can buy in
+    an IPO) — not the parent, not a company merged in, not one dropped."""
+    if "role" not in e:
+        return not e.get("is_parent")
+    return e.get("role") in ROLE_SEPARATED and not e.get("dropped")
+
+
+def separated(entities: list[dict] | None) -> list[dict]:
+    return [e for e in (entities or []) if is_separated(e)]
+
+
 def enrich_entities(entities: list[dict], parent_symbol: str, today: dt.date) -> list[dict]:
-    """Each entity the deal sheet names, cleaned, with its NSE symbol and
-    listing date when the exchange's equity list has it (never a date
-    after `today`)."""
+    """Each entity the deal sheet names, cleaned, with its role in the
+    scheme, and its NSE symbol and listing date when the exchange's equity
+    list has it under its name, a former name, or the symbol the judge
+    matched from the exchange's own list (never a date after `today`)."""
     dates, names = SO.equity_list()
-    out, seen = [], set()
+    out, seen = [], {}
     for e in entities or []:
         if not isinstance(e, dict):
             continue
@@ -362,18 +410,82 @@ def enrich_entities(entities: list[dict], parent_symbol: str, today: dt.date) ->
         if not name or re.match(SO.UNNAMED_RX, name):
             continue
         key = SO._norm_name(name)
-        if key in seen:
-            continue
-        seen.add(key)
         sym = names.get(key)
+        if not sym:                                   # the symbol the judge matched, when the exchange has it
+            cand = str(e.get("nse_symbol") or "").strip().upper()
+            sym = cand if cand in dates else None
+        if not sym:                                   # a former name the exchange still lists
+            for fn in (e.get("former_names") or []) if isinstance(e.get("former_names"), list) else []:
+                sym = names.get(SO._norm_name(SO.clean_entity(str(fn))))
+                if sym:
+                    break
+        dup = seen.get(key) or (seen.get("sym:" + sym) if sym else None)
+        if dup is not None:                           # the same company named twice: keep the fuller entry
+            for k, v in e.items():
+                if v and not dup.get(k):
+                    dup[k] = str(v).strip() if isinstance(v, (str, int, float)) else v
+            continue
         listed = dates.get(sym) if sym else None
         if listed and listed > today.isoformat():
             listed = None
         row = {k: (str(v).strip() if isinstance(v, (str, int, float)) else v) for k, v in e.items()}
-        row.update({"name": name, "symbol": sym if (sym and sym != parent_symbol) else (sym or ""),
-                    "listed_on": listed or "", "is_parent": bool(sym and sym == parent_symbol)})
+        is_self = bool(sym and sym == parent_symbol)
+        role = entity_role(e, is_self)
+        if role == "listed_subsidiary" and listed and (today - dt.date.fromisoformat(listed)).days > LONG_LISTED_DAYS:
+            role = "other"                            # a subsidiary listed years ago (Hindustan Zinc) is not a spin-off now
+        row.update({"name": name, "symbol": sym or "", "listed_on": listed or "", "is_parent": is_self,
+                    "role": role,
+                    "dropped": bool(_DROPPED_RX.search(str(e.get("status") or "")))})
         out.append(row)
+        seen[key] = row
+        if sym:
+            seen["sym:" + sym] = row
     return out
+
+
+def _stem(name: str) -> str:
+    return re.sub(r"\s+", " ", re.sub(r"\b(?:Limited|Ltd\.?)\s*$", "", name or "", flags=re.I)).strip()
+
+
+def equity_rows(path: Path | None = None) -> list[dict]:
+    """NSE's equity list as rows (symbol, name, listing_date)."""
+    path = path or SO.EQUITY_LIST
+    if not path.exists():
+        return []
+    with open(path) as fh:
+        return [r for r in csv.DictReader(fh)
+                if r.get("symbol") and re.fullmatch(r"\d{4}-\d{2}-\d{2}", r.get("listing_date") or "")]
+
+
+def arrivals(company: str, parent_symbol: str, record_date: str, today: dt.date, text: str = "",
+             equities: list[dict] | None = None, window: int = 150) -> list[dict]:
+    """The exchange's own cross-check on the entity list: companies that
+    BEGAN TRADING in the `window` days after a demerger record date and
+    either carry the parent's name (Vedanta → Vedanta Aluminium Metal,
+    Vedanta Power, Vedanta Iron and Steel, Vedanta Oil and Gas) or are
+    named in the company's filings. Candidates only — the judge says from
+    the documents which of them the scheme created."""
+    try:
+        rd = dt.date.fromisoformat(str(record_date)[:10])
+    except ValueError:
+        return []
+    first = (re.sub(r"[^A-Za-z0-9 ]", " ", company or "").split() or [""])[0].lower()
+    low = re.sub(r"\s+", " ", text or "").lower()
+    out = []
+    for e in (equities if equities is not None else equity_rows()):
+        if e["symbol"] == parent_symbol or e["listing_date"] > today.isoformat():
+            continue
+        gap = (dt.date.fromisoformat(e["listing_date"]) - rd).days
+        if not 0 <= gap <= window:
+            continue
+        stem = _stem(e.get("name") or "")
+        tok = (re.sub(r"[^A-Za-z0-9 ]", " ", stem).split() or [""])[0].lower()
+        by_name = len(first) >= 4 and tok == first
+        in_text = len(stem) >= 10 and len(stem.split()) >= 2 and stem.lower() in low
+        if by_name or in_text:
+            out.append({"symbol": e["symbol"], "name": e.get("name") or e["symbol"], "listed_on": e["listing_date"],
+                        "why": "carries the parent's name" if by_name else "named in the filings"})
+    return sorted(out, key=lambda x: (x["listed_on"], x["symbol"]))
 
 
 # ------------------------------------------------------------------- size
@@ -397,7 +509,7 @@ def size_view(entities: list[dict], parent_fin: dict, seg_tables: list[dict], pa
         parent_sales = dict(zip(parent_fin.get("years", []), sales))
     best = []
     for e in entities:
-        if e.get("is_parent"):
+        if not is_separated(e):
             continue
         stated = _pct(e.get("turnover_pct_of_parent"))
         cap = caps.get(e.get("symbol") or "")
@@ -546,7 +658,7 @@ def compare(parent_symbol: str, parent_fin: dict, entities: list[dict], seg_tabl
     cols = [{"label": f"Parent ({parent_symbol})", "basis": "reported, consolidated",
              "metrics": {**fin_metrics(parent_fin), **working_capital(parent_symbol)}}]
     for e in entities:
-        if e.get("is_parent"):
+        if not is_separated(e):
             continue
         sym = e.get("symbol") or ""
         own = FN.parent_financials(sym, min_years=1) if sym else {"available": False}
