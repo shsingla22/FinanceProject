@@ -565,6 +565,7 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     monkeypatch.setattr(AZ, "MENTIONS", out / "_concall_mentions.csv")
     monkeypatch.setattr(AZ, "HISTORY", out / "history")
     monkeypatch.setattr(AZ, "COVERAGE", out / "_coverage.csv")
+    monkeypatch.setattr(AZ, "OFFERINGS", out / "_offerings.csv")       # never the production file
     monkeypatch.setattr(AZ, "CACHE", tmp_path / "cache.json")
     monkeypatch.setattr(SO, "load_filings", lambda path=None: rows)
     monkeypatch.setattr(SO, "load_text", lambda r: texts.get(r["ann_id"], ""))
