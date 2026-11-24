@@ -170,6 +170,37 @@ largest gains came not in the first year but in the second.
    judge may not move a row to a record date or a listing; only the
    exchange's record does that. Without a judge answer the row is left as
    it was.
+3d. **Every separated entity, and a nine-part write-up.** One company can
+   separate several businesses (Quess: Digitide and Bluspring; Vedanta:
+   each of its demerged companies). The DEAL SHEET
+   (`analyze.judge_deal`) names EVERY resulting company or listed
+   subsidiary from the complete documents, with — per entity — its
+   business, share swap, stated turnover and share of the parent, and who
+   runs it; and for the whole deal the promoters' holding before and
+   after, what a public shareholder receives, management incentives,
+   every dated event, and the documents' own statements of how the
+   businesses differ. `scripts/deal.py` adds the mechanical parts: each
+   entity's NSE symbol and listing date (equity list), the shareholding
+   pattern (screener, stored under `ShareholdingPattern/`), market caps
+   from the newest bhavcopy bundle, and the call transcripts split into
+   speaker turns. Each company is then written in nine parts:
+   (1) company and category; (2) stages and dates — every stage with its
+   filing, the documents' stated dates, NSE's record date, each entity's
+   listing; (3) size of the separated business beside the parent — stated
+   turnover share, segment revenue share, market-cap share — and the
+   reading for institutional selling (under 10% very likely, under 25%
+   likely, under 50% possible); (4) insider ownership — swap ratio per
+   entity, promoters' holding, management incentives; (5) why, point by
+   point; (6) the calls VERBATIM — every question about the separation
+   with every answer to it, uncut, oldest first, plus the complete
+   sentences about it from prepared remarks; (7) the parent's statements;
+   (8) each separated business's statements — its own reported numbers
+   once listed and on file, else one segment table per business, with
+   segment assets, liabilities, capital employed and capex when the pages
+   give them; (9) other financial differences — margins, growth,
+   working-capital days, ROCE, debt, side by side. The main report shows
+   part 6 as a table of calls; `companies/<SYMBOL>.md` carries all nine
+   parts with every exchange in full.
 4. **Listing status** — for every spin-off: LISTED since (record date),
    RECORD DATE set and listing pending (with the typical 4–10 week gap
    stated as typical, not forecast), NOT YET with the timeline the
@@ -281,7 +312,7 @@ python3 scripts/validate_demergers.py                              # the list ag
 python3 ../../Announcements/fetch_announcements.py --days 960      # extend the store back (for a backtest)
 python3 scripts/backtest.py --from 2024-04-01 --to 2025-03-31 --label FY2024-25   # the skill as of a past date, list-only, own folder
 python3 scripts/backtest.py --from 2024-04-01 --label 2024-04_to_today
-python3 -m pytest scripts/test_skill.py -q                         # 73 tests, offline
+python3 -m pytest scripts/test_skill.py -q                         # 77 tests, offline
 ```
 
 ## Outputs
@@ -289,6 +320,7 @@ python3 -m pytest scripts/test_skill.py -q                         # 73 tests, o
 | Where | What |
 |---|---|
 | `Analysis/NiftyTotalMarketAnalysis/SpinOffAnalysis/SPINOFF_REPORT.md` | confirmed demergers table (entity, stage, listing, score), probable / indicated table — demergers first, each row with its SOURCES AND EVIDENCE: the filing or transcript link, the keyword that made it a spin-off / demerger / listing / scheme, the stored text file with line number, and the sentence around it — other restructurings; per confirmed company: listing callout, stages, facts, the judge's read, the rationale from three years of calls with transcript links, the parent's three years with charts, P/E and cash flows, the separated business's own numbers with page citations, checklist, calls, filings |
+| `…/companies/<SYMBOL>.md` | one file per company: the complete nine-part analysis with every management-call question and answer in full |
 | `…/spinoff_latest.json`, `…/_situations.csv`, `…/_coverage.csv`, `…/_offerings.csv`, `…/_concall_mentions.csv`, `…/history/<run_date>/` | the run, machine-readable; one row per situation; what was found for whom; every call mention with tone and quote; snapshots |
 | `…/SPINOFF_GROUND_TRUTH_CHECK.md`, `…/_ground_truth_check.csv` | the register check: recall row per register demerger, precision row per confirmed demerger, verdicts |
 | `Announcements/NiftyTotalMarket/` | every matched filing with kind, tags, attachment and text; `_all_filings.csv.gz` (every universe filing); `text/first/` (first six pages of every read attachment); `_demerger_ground_truth.csv` (NSE's register); BSE codes; BSE RSS store; log; README |

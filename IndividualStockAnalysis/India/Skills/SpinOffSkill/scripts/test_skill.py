@@ -588,9 +588,15 @@ def test_run_writes_report_record_csvs_and_snapshot(tmp_path, monkeypatch):
     assert "# Spin-offs and demergers" in md
     assert "## Confirmed demergers" in md and "| **ALPHA** | Alpha Energy Limited | record_date | RECORD DATE 2026-09-15" in md
     assert "> **Listing:** RECORD DATE 2026-09-15; Alpha Energy Limited not yet listed" in md
-    assert "### The parent, last three fiscal years" in md and "| Sales (₹ cr) | 100 | 120 | 150 |" in md
+    assert "### 7. The parent's financial statements" in md and "**The parent, last three fiscal years (consolidated)**" in md
+    assert "| Sales (₹ cr) | 100 | 120 | 150 |" in md
     assert "| Sales growth (%) | +25.0% | +20.0% | +25.0% |" in md and "```mermaid" in md
-    assert "**P/E:**" in md and "### The business being separated" in md
+    assert "**P/E:**" in md and "**The business being separated — its own numbers**" in md
+    for head in ("### 1. Alpha Industries Ltd. — CONFIRMED DEMERGER", "### 2. Stages and dates", "### 3. Size of the separated business",
+                 "### 4. Insider ownership", "### 5. Why the demerger", "### 6. On the calls, verbatim",
+                 "### 8. The separated business's financial statements", "### 9. Other financial differences"):
+        assert head in md, head
+    assert (out / "companies" / "ALPHA.md").exists()
     assert "Alpha Energy Limited" in md and "1 for every 1" in md
     assert "SPINNING" in md and "On the calls" in md
     assert "Other restructurings on file" in md and "| ALPHA | merger |" in md
@@ -1251,6 +1257,178 @@ def test_sebi_listing_disclosure_aliases_and_renames_from_the_fy25_backtest():
     # 'moving into listed Kitex Garments' names this company as the receiver
     jk = {**j, "what_is_spun": "Kitex Childrenswear's Textile Business Division moving into listed Kitex Garments"}
     assert SO.judge_override({**base, "company": "Kitex Garments Ltd."}, jk)[0] == "other"
+
+
+# ============================================= the nine-part write-up (deal.py)
+
+import deal as DL                    # noqa: E402
+
+CALL = """
+Quess Corp Limited
+May 10, 2024
+Sub: Analyst Call - Transcript
+NSE Symbol: QUESS
+Moderator: Ladies and gentlemen, good day and welcome. There will be an opportunity for you to ask questions after
+the presentation. I now hand over to Mr. Kamal.
+Kamal Pal Hoda: Thank you. Revenue grew 9% this quarter.
+Our Board approved the proposal to demerge the business into three independent listed entities.
+We filed the scheme of demerger in February 2024.
+Page 7 of 17
+Moderator: The first question is from the line of Aniket Kulkarni from BMSPL Capital.
+Aniket Kulkarni: Thank you. Could you give a timeline of the demerger and when it will be completed?
+Kamal Pal Hoda: Sure, Aniket. It is a 12 to 15 months process from the date of announcement.
+The scheme is a mirror shareholding scheme.
+Aniket Kulkarni: Okay.
+Guruprasad Srinivasan: Just to add, we expect NCLT approval by the third quarter.
+Aniket Kulkarni: And my second question is on margins in the staffing business, how should we see them going forward?
+Kamal Pal Hoda: Margins should stay at 2.6%.
+Moderator: The next question is from the line of Balaji from IIFL.
+Balaji Subramanian: What drove the reduction in DSO this quarter?
+Kamal Pal Hoda: Better collections.
+Moderator: Thank you. That was the last question.
+"""
+
+
+def test_call_exchanges_are_verbatim_question_and_answer_uncut():
+    turns = DL.split_turns(CALL)
+    assert [n for n, _ in turns][:4] == ["Moderator", "Kamal Pal Hoda", "Moderator", "Aniket Kulkarni"]
+    assert "Sub" not in {n for n, _ in turns} and "NSE Symbol" not in {n for n, _ in turns}      # letter furniture is not a speaker
+    assert all("Page 7 of 17" not in tx for _, tx in turns)
+    ex = DL.exchanges_in(CALL)
+    assert [e["kind"] for e in ex] == ["remarks", "qa"]
+    # the prepared remarks: management's own statement, whole (it is short)
+    assert ex[0]["turns"][0][0] == "Kamal Pal Hoda" and "three independent listed entities" in ex[0]["turns"][0][1]
+    # the exchange: the question, EVERY answer to it including a second speaker and the acknowledgement, nothing cut
+    qa = ex[1]["turns"]
+    assert [n for n, _ in qa] == ["Aniket Kulkarni", "Kamal Pal Hoda", "Aniket Kulkarni", "Guruprasad Srinivasan"]
+    assert qa[0][1].endswith("when it will be completed?") and qa[1][1].endswith("mirror shareholding scheme.")
+    assert qa[3][1] == "Just to add, we expect NCLT approval by the third quarter."
+    # the same analyst's NEXT question (margins) and the next analyst's are other exchanges, and not about it
+    assert not any("2.6%" in tx or "DSO" in tx for e in ex for _, tx in e["turns"])
+    # an entity's name catches a question that never says 'demerger'
+    rx = DL.entity_terms(["Fleur Hotels Limited"], "Lemon Tree Hotels Ltd.")
+    assert rx.search("When does Fleur list?") and not rx.search("How are the hotels doing?")
+    # long prepared remarks: the complete sentences about it, with context, never a cut sentence
+    long = " ".join(f"Sentence number {i} about revenue and margins in the quarter." for i in range(60))
+    long = long.replace("Sentence number 30 about revenue and margins in the quarter.", "The demerger will complete by March.")
+    p = DL.passage(long, DL.SPIN_TERMS_RX)
+    assert "The demerger will complete by March." in p and "Sentence number 27 about" in p and "Sentence number 33 about" in p
+    assert "Sentence number 20 about" not in p and p.endswith(".") and len(p) < len(long)
+
+
+def test_shareholding_market_caps_entities_and_size(tmp_path, monkeypatch):
+    html = ('<section id="shareholding"><div id="quarterly-shp"><table><thead><tr><th></th><th>Jun 2026</th><th>Sep 2026</th></tr></thead>'
+            '<tbody><tr><td><button>Promoters&nbsp;<span>+</span></button></td><td>56.82%</td><td>56.81%</td></tr>'
+            '<tr><td>FIIs +</td><td>8.58%</td><td>10.26%</td></tr><tr><td>Public +</td><td>21.73%</td><td>19.75%</td></tr>'
+            '<tr><td>No. of Shareholders</td><td>1,07,345</td><td>95,529</td></tr></tbody></table></div></section>')
+    shp = DL.parse_shareholding(html)
+    assert shp["quarters"] == ["Jun 2026", "Sep 2026"] and shp["rows"]["Promoters"] == [56.82, 56.81]
+    assert DL.latest_holding(shp, "Promoters") == (56.81, "Sep 2026") and "No. of Shareholders" not in shp["rows"]
+    # market caps from the newest bundle on or before the as-of date
+    import zipfile
+    for name, cap in (("PR141126.zip", "5000000000000.00"), ("PR201126.zip", "9000000000000.00")):
+        with zipfile.ZipFile(tmp_path / name, "w") as z:
+            z.writestr("mcap.csv", "Trade Date,Symbol,Series,Security Name,Market Cap(Rs.)\n"
+                                   f"x,QUESS,EQ,Quess,{cap}\nx,DIGITIDE,EQ,Digitide,1000000000000.00\n")
+    date, caps = DL.latest_mcaps(tmp_path, as_of=dt.date(2026, 11, 16))
+    assert date == "2026-11-14" and caps["QUESS"] == 500000.0 and caps["DIGITIDE"] == 100000.0
+    # every entity, with its exchange symbol and listing date
+    monkeypatch.setattr(SO, "_EQUITY", ({"DIGITIDE": "2025-06-11", "BLUSPRING": "2025-06-11", "QUESS": "2016-07-12"},
+                                        {SO._norm_name("Digitide Solutions Limited"): "DIGITIDE",
+                                         SO._norm_name("Bluspring Enterprises Limited"): "BLUSPRING",
+                                         SO._norm_name("Quess Corp Limited"): "QUESS"}))
+    ents = DL.enrich_entities([{"name": "Digitide Solutions Limited (Digitide)", "turnover_pct_of_parent": "18.5% of consolidated turnover"},
+                               {"name": "Bluspring Enterprises Limited", "business": "facility management"},
+                               {"name": "Digitide Solutions Limited"}, {"name": "not stated"},
+                               {"name": "Quess Corp Limited"}], "QUESS", dt.date(2026, 11, 16))
+    assert [(e["name"], e["symbol"], e["listed_on"]) for e in ents if not e["is_parent"]] == [
+        ("Digitide Solutions Limited", "DIGITIDE", "2025-06-11"), ("Bluspring Enterprises Limited", "BLUSPRING", "2025-06-11")]
+    assert [e["name"] for e in ents if e["is_parent"]] == ["Quess Corp Limited"]
+    assert DL.enrich_entities([{"name": "Digitide Solutions Limited"}], "QUESS", dt.date(2025, 3, 31))[0]["listed_on"] == ""   # as-of
+    # size: the stated share when the documents give one, else the segment share, else the market-cap share
+    parent = {"available": True, "years": ["FY2024", "FY2025"], "rows": [{"metric": "Sales (₹ cr)", "values": [19000.0, 20000.0]}]}
+    seg = [{"available": True, "entity": "Bluspring Enterprises Limited", "segment_name": "Operating Asset Management", "unit": "₹ million",
+            "unit_factor": 0.1, "years": ["FY2024", "FY2025"], "rows": [{"metric": "Revenue (₹ million)", "values": [28000.0, 30000.0]}]}]
+    sz = DL.size_view(ents, parent, seg, "QUESS", (date, caps), {"QUESS": "Quess"})
+    rows = {r["entity"]: r for r in sz["rows"]}
+    assert rows["Digitide Solutions Limited"]["stated_pct"] == 18.5 and rows["Digitide Solutions Limited"]["mcap_pct"] == 16.7
+    assert rows["Bluspring Enterprises Limited"]["segment_pct"] == 15.0 and rows["Bluspring Enterprises Limited"]["segment_fy"] == "FY2025"
+    assert sz["smallest_share"] == 15.0 and sz["reading"].startswith("LIKELY") and sz["parent_mcap_cr"] == 500000
+    assert DL.size_view([], parent, [], "QUESS")["reading"].startswith("not determinable")
+    assert (DL.unit_factor("₹ crore"), DL.unit_factor("INR million"), DL.unit_factor("USD million"), DL.unit_factor("")) == (1.0, 0.1, None, None)
+
+
+def test_segment_tables_one_per_business_and_the_comparison(tmp_path, monkeypatch):
+    seg = {"status": "judged", "businesses": [
+        {"entity": "Bluspring Enterprises Limited", "segment_name": "Operating Asset Management", "unit": "₹ crore",
+         "years": [{"fy": "FY2024", "revenue": 2800, "operating_profit": 140, "segment_assets": 1500, "segment_liabilities": 500, "source": "AR 2024 — page 210"},
+                   {"fy": "FY2025", "revenue": 3000, "operating_profit": 165, "segment_assets": 1600, "segment_liabilities": 500, "source": "AR 2025 — page 198"}]},
+        {"entity": "Digitide Solutions Limited", "segment_name": "Global Technology Solutions", "unit": "₹ crore",
+         "years": [{"fy": "FY2025", "revenue": 2700, "operating_profit": 430, "source": "AR 2025 — page 198"}]}]}
+    tabs = AZ.segment_tables(seg)
+    assert [t["segment_name"] for t in tabs] == ["Operating Asset Management", "Global Technology Solutions"]
+    rows = {r["metric"]: r["values"] for r in tabs[0]["rows"]}
+    assert rows["Operating margin (%)"] == [5.0, 5.5] and rows["Capital employed (₹ crore)"] == [1000.0, 1100.0]
+    assert rows["Return on capital employed (%)"] == [14.0, 15.0] and rows["Segment assets / revenue (x)"] == [0.54, 0.53]
+    assert "Segment assets (₹ crore)" not in {r["metric"] for r in tabs[1]["rows"]}      # nothing invented when not given
+    assert AZ.segment_tables({"status": "judged", "years": [{"fy": "FY2025", "revenue": 10}]})[0]["available"]   # the old single-business answer
+    assert AZ.segment_tables({"status": "not assessed"}) == []
+    # the comparison: parent's reported figures beside each business's
+    monkeypatch.setattr(DL, "WC_DIR", tmp_path)
+    monkeypatch.setattr(DL, "BS_DIR", tmp_path / "bs")
+    (tmp_path / "QUESS.csv").write_text("metric,Mar 2025,Mar 2026\nDebtor Days,37,19\nWorking Capital Days,5,8\nROCE %,10,23\n")
+    monkeypatch.setattr(FN, "PNL", tmp_path / "pnl")
+    parent = {"available": True, "years": ["FY2025", "FY2026"], "rows": [
+        {"metric": "Sales (₹ cr)", "values": [20000.0, 15000.0]}, {"metric": "OPM (%)", "values": [3.5, 2.0]}]}
+    ents = [{"name": "Bluspring Enterprises Limited", "symbol": "", "is_parent": False},
+            {"name": "Digitide Solutions Limited", "symbol": "", "is_parent": False}]
+    cmp_ = DL.compare("QUESS", parent, ents, tabs)
+    cols = {c["label"]: c for c in cmp_["columns"]}
+    assert cols["Parent (QUESS)"]["metrics"]["Operating margin (%)"] == (2.0, "FY2026")
+    assert cols["Parent (QUESS)"]["metrics"]["Debtor Days"] == (19.0, "Mar 2026") and cols["Parent (QUESS)"]["metrics"]["ROCE %"] == (23.0, "Mar 2026")
+    assert cols["Bluspring Enterprises Limited"]["metrics"]["Operating margin (%)"] == (5.5, "FY2025")
+    assert cols["Bluspring Enterprises Limited"]["metrics"]["ROCE %"] == (15.0, "FY2025")
+    assert cols["Digitide Solutions Limited"]["basis"].startswith("segment numbers") and "Operating margin (%)" in cmp_["metrics"]
+
+
+def test_write_up_names_every_entity_and_follows_the_nine_parts(monkeypatch):
+    monkeypatch.setattr(SO, "_EQUITY", ({"DIGITIDE": "2025-06-11", "BLUSPRING": "2025-06-11"},
+                                        {SO._norm_name("Digitide Solutions Limited"): "DIGITIDE",
+                                         SO._norm_name("Bluspring Enterprises Limited"): "BLUSPRING"}))
+    today = dt.date(2026, 11, 20)
+    s = {**_prob_sit("QUESS", "Quess Corp Ltd.", conf="confirmed", stage="record_date"),
+         "facts": {"record_date": "2025-04-15", "record_date_source": "NSE corporate-actions register", "resulting_company": "Digitide Solutions Limited"},
+         "stage_dates": {"announced": "2024-02-16", "record_date": "2025-04-15"},
+         "headlines": [{"date": "2024-02-16", "category": "Scheme of Arrangement", "kind": "demerger", "headline": "Scheme", "attachment": "https://x/s.pdf"}],
+         "checklist": [], "reasons": [], "concall_mentions": [], "verdict": {"label": "LISTED 1–2Y — x", "score": 5.7},
+         "listing": {"text": "LISTED — Digitide trades since 2025-06-11", "short": "LISTED"}, "judge": {},
+         "deal": {"status": "judged", "entities": [
+             {"name": "Digitide Solutions Limited", "business": "BPM and IT services", "swap_ratio": "1 share for every 1 share of Quess", "who_runs_it": "Gurmeet Chahal"},
+             {"name": "Bluspring Enterprises Limited", "business": "facility management, industrials", "swap_ratio": "1 share for every 1 share of Quess"}],
+             "dates": [{"event": "NCLT order", "date": "2025-03-04", "source": "filing of 5 March 2025"}, {"event": "junk", "date": "soon"}],
+             "promoter_holding_after": "mirror shareholding", "management_incentives": "ESOPs to be adjusted",
+             "other_differences": [{"metric": "operating margin", "parent_or_remaining": "about 2%", "separated_business": "about 16%", "quote": "Digitide runs at 16%"}]},
+         "call_exchanges": [{"call": "Aug 2024", "date": "2024-08-01", "url": "https://x/t.pdf", "exchanges": [
+             {"kind": "qa", "turns": [("Aniket", "When does the demerger complete?"), ("Kamal", "In 12 to 15 months.")]}]}]}
+    s["entities"] = AZ.entities_for(s, today)
+    assert [e["symbol"] for e in s["entities"]] == ["DIGITIDE", "BLUSPRING"]                 # both, not one
+    cell = AZ.entity_cell(s)
+    assert "Digitide Solutions Limited (DIGITIDE, listed 2025-06-11)" in cell and "Bluspring Enterprises Limited (BLUSPRING, listed 2025-06-11)" in cell
+    assert AZ.category_of(s) == "CONFIRMED DEMERGER"
+    tl = AZ.timeline_rows(s)
+    assert [r["date"] for r in tl] == sorted(r["date"] for r in tl) and len(tl) == 6
+    assert any("Bluspring Enterprises Limited** listed (BLUSPRING)" in r["event"] and r["source"] == "NSE equity list" for r in tl)
+    assert any(r["date"] == "2025-03-04" and r["event"] == "NCLT order" for r in tl) and not any("junk" in r["event"].lower() for r in tl)
+    md = "\n".join(AZ.render_company(s, heavy=True, verbatim=True))
+    for head in ("### 1. Quess Corp Ltd. — CONFIRMED DEMERGER", "### 2. Stages and dates", "### 3. Size", "### 4. Insider ownership",
+                 "### 5. Why the demerger", "### 6. On the calls, verbatim"):
+        assert head in md, head
+    assert "| **Bluspring Enterprises Limited** | facility management, industrials | listed 2025-06-11 as BLUSPRING (NSE) |" in md
+    assert "- **Bluspring Enterprises Limited:** 1 share for every 1 share of Quess" in md
+    assert "> **Aniket:** When does the demerger complete?" in md and "> **Kamal:** In 12 to 15 months." in md
+    brief = "\n".join(AZ.render_company(s, heavy=True, verbatim=False))
+    assert "> **Aniket:**" not in brief and "| Aug 2024 | 1 | 0 | [transcript](https://x/t.pdf) |" in brief
+    assert "companies/QUESS.md" in brief
 
 
 def _listing_sit(sym="HDFCBANK", company="HDFC Bank Ltd."):

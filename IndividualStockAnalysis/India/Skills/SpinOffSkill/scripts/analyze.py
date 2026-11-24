@@ -62,6 +62,7 @@ sys.path.insert(0, str(HERE))
 import spinoff as SO                       # noqa: E402
 import financials as FN                    # noqa: E402
 import fetch_announcements as FA           # noqa: E402  (via spinoff's path)
+import deal as DL                          # noqa: E402
 
 INDIA = HERE.parent.parent.parent
 OUT_DIR = INDIA / "Analysis" / "NiftyTotalMarketAnalysis" / "SpinOffAnalysis"
@@ -101,6 +102,8 @@ CALLS_CHARS = 360_000
 PROMPT_VERSION = "v2"
 LISTING_PROMPT_VERSION = "listing-v2"      # the subsidiary-listing resolution question
 RESOLUTION_PROMPT_VERSION = "resolution-v1"  # the probable / indicated demerger resolution question
+DEAL_PROMPT_VERSION = "deal-v1"              # the deal sheet: every entity, size, swap, holdings, incentives, dates
+SEGMENT_PROMPT_VERSION = "segments-v2"       # one table per separated business, with segment assets and liabilities
 
 
 # ------------------------------------------------------------- the judge
@@ -264,25 +267,30 @@ def judge_rationale(sit: dict, calls_text: str, scheme_text: str,
 def segments_prompt(sit: dict, excerpts: list[dict], names: list[str]) -> str:
     body = "\n\n".join(f"[{e['doc']} — page {e['page']}] {e['text']}" for e in excerpts)
     return (
-        f"You are extracting the OWN financials of the business {sit['company']} "
-        f"({sit['symbol']}) is separating — known in the documents as: {', '.join(names)}. "
-        f"Below are pages from the company's annual reports (segment reporting) and "
+        f"You are extracting the OWN financials of EACH business {sit['company']} "
+        f"({sit['symbol']}) is separating — the entities and businesses are known in the documents as: "
+        f"{'; '.join(names)}. There may be SEVERAL separated businesses; give one entry for each that the "
+        f"pages carry numbers for. Below are pages from the company's annual reports (segment reporting) and "
         f"quarterly presentations, each tagged with document and page. Answer STRICT JSON "
         f"only. Take every number from the tagged pages — never estimate, never recall. "
         f"Report fiscal-year figures (FY2024 = year ended March 2024, etc.); if only "
         f"quarterly or half-year numbers exist, say so in notes and leave the year null. "
         f"Keep the unit the document uses.\n"
-        '{"segment_name": "<the segment / business as the documents label it>", '
+        '{"businesses": [{"entity": "<which of the named entities this business goes to, as named above>", '
+        '"segment_name": "<the segment / business as the documents label it>", '
         '"unit": "<₹ crore | ₹ million | ₹ lakh | as in the document>", '
         '"measure_notes": "<what the profit line is: segment result / EBIT / EBITDA / PBT; '
         'whether revenue is external or includes inter-segment>", '
         '"years": [{"fy": "FY2024", "revenue": <number or null>, '
         '"operating_profit": <number or null>, "pat": <number or null>, '
+        '"segment_assets": <number or null>, "segment_liabilities": <number or null>, '
+        '"capex": <number or null>, "depreciation": <number or null>, '
         '"source": "<document — page N>"}, '
         '{"fy": "FY2025", ...}, {"fy": "FY2026", ...}], '
         '"latest_quarter": {"period": "<e.g. Q1 FY27 or null>", "revenue": <number or null>, '
         '"operating_profit": <number or null>, "source": "<document — page N>"}, '
-        '"not_found": "<which figures the pages do not carry, <=40 words>"}\n\n'
+        '"not_found": "<which figures the pages do not carry for this business, <=40 words>"}], '
+        '"not_found": "<businesses named above for which the pages carry no numbers at all, <=40 words>"}\n\n'
         f"PAGES:\n{body[:SEGMENT_CHARS]}"
     )
 
@@ -292,9 +300,66 @@ def judge_segments(sit: dict, excerpts: list[dict], names: list[str],
     if not excerpts:
         return {"status": "no documents", "note": "no segment pages found in the stored reports"}
     stamp = hashlib.md5((json.dumps(excerpts)[:SEGMENT_CHARS] + "|".join(names)
-                         + MODEL + PROMPT_VERSION).encode()).hexdigest()
+                         + MODEL + PROMPT_VERSION + SEGMENT_PROMPT_VERSION).encode()).hexdigest()
     return _ask(f"{sit['symbol']}::segments", stamp,
                 segments_prompt(sit, excerpts, names), allow_ai, runner)
+
+
+def deal_prompt(sit: dict, scheme_text: str, calls_text: str) -> str:
+    kind = ("a subsidiary's IPO / listing (a partial spin-off)" if sit["kind"] == "subsidiary_listing"
+            else "a demerger / spin-off")
+    return (
+        f"You are preparing the DEAL SHEET for {kind} at {sit['company']} ({sit['symbol']}), for an investor "
+        f"following Greenblatt's spin-off checklist. Read the complete documents below. Answer STRICT JSON only; "
+        f"every field from the documents — never from memory, never estimated; write \"not stated\" when they "
+        f"do not say; quotes must be verbatim.\n"
+        '{"entities": [{"name": "<full legal name of EACH resulting company, or each subsidiary being listed — '
+        'list ALL of them, one entry each; no bracketed abbreviations>", '
+        '"business": "<what goes into it, <=30 words>", '
+        '"swap_ratio": "<shares of this entity for shares of the parent, in the documents\' words; for an IPO the '
+        'offer structure (fresh issue / offer for sale, size); or not stated>", '
+        '"listing": "<listed on <date> | to be listed | not to be listed | not stated>", '
+        '"turnover": "<turnover / revenue of this undertaking with its year and unit, as stated; or not stated>", '
+        '"turnover_pct_of_parent": "<its share of the listed company\'s total turnover, as stated, e.g. 23.4%; or not stated>", '
+        '"net_worth_or_assets": "<net worth / assets of this undertaking and its share of the parent\'s, as stated; or not stated>", '
+        '"who_runs_it": "<the named CEO / MD / chair of this entity, or not stated>", '
+        '"quote": "<one verbatim sentence about this entity>"}], '
+        '"size_statement": "<the documents\' own statement of how large the separated business(es) are beside the '
+        'company — verbatim, with the numbers; or not stated>", '
+        '"promoter_holding_parent": "<promoter and promoter group holding in the parent, % with its date; or not stated>", '
+        '"promoter_holding_after": "<what the promoters will hold in each resulting / listed entity — e.g. mirror '
+        'shareholding, or the % after the IPO; verbatim; or not stated>", '
+        '"public_shareholders_get": "<what a public shareholder of the parent receives, in the documents\' words; or not stated>", '
+        '"management_incentives": "<stock options / RSUs / SARs: how existing grants are treated in the scheme, any '
+        'new plan in the new entity, exercise price or pricing date, management or insider shareholding; verbatim; or not stated>", '
+        '"insider_actions": "<any promoter or management buying, selling, pledging or stated intent around the '
+        'separation; or not stated>", '
+        '"dates": [{"event": "<board approval | filed with exchanges | exchange no-objection | SEBI approval | '
+        'shareholders / creditors meeting | NCLT order | appointed date | effective date | record date | allotment | '
+        'listing and trading | DRHP filed | SEBI observations | IPO opened | other>", '
+        '"date": "<YYYY-MM-DD, or YYYY-MM when only the month is given>", "entity": "<which entity, when it differs>", '
+        '"source": "<the filing or call that gives it, with its date>"}], '
+        '"other_differences": [{"metric": "<working capital | operating margin | growth | debt and leverage | cash | '
+        'capex and capital intensity | return on capital | tax | other>", '
+        '"parent_or_remaining": "<what the documents say about the parent / remaining business>", '
+        '"separated_business": "<what they say about the separated business>", '
+        '"quote": "<verbatim sentence with the numbers>"}]}\n\n'
+        f"THE COMPANY'S FILINGS, COMPLETE (newest first):\n{scheme_text}\n\n"
+        f"THE COMPANY'S EARNINGS CALLS, COMPLETE (last 12 months, newest first):\n"
+        f"{calls_text or '(no transcripts on file)'}"
+    )
+
+
+def judge_deal(sit: dict, scheme_text: str, calls_text: str, allow_ai: bool = True, runner=None) -> dict:
+    """The deal sheet: EVERY resulting or listed entity (Quess: Digitide and
+    Bluspring; Vedanta: each of its demerged companies), the size of each
+    beside the parent, the share swap, promoter holding, management
+    incentives, every dated event, and the documents' own statements of
+    how the businesses differ."""
+    if len(scheme_text) < 300 and len(calls_text) < 300:
+        return {"status": "no documents", "note": "nothing on file to read"}
+    stamp = hashlib.md5((scheme_text + calls_text + MODEL + PROMPT_VERSION + DEAL_PROMPT_VERSION).encode()).hexdigest()
+    return _ask(f"{sit['symbol']}::deal", stamp, deal_prompt(sit, scheme_text, calls_text), allow_ai, runner)
 
 
 def offering_prompt(sit: dict, text: str) -> str:
@@ -350,9 +415,40 @@ def segment_table(seg: dict) -> dict:
         {"metric": f"PAT ({seg.get('unit', '')})", "values": pat},
         {"metric": "PAT growth (%)", "values": growth(pat)},
     ]
+    assets, liabs, capex = col("segment_assets"), col("segment_liabilities"), col("capex")
+    if any(v is not None for v in assets + liabs + capex):
+        ce = [(a - l) if a is not None and l is not None else None for a, l in zip(assets, liabs)]
+        rows += [
+            {"metric": f"Segment assets ({seg.get('unit', '')})", "values": assets},
+            {"metric": f"Segment liabilities ({seg.get('unit', '')})", "values": liabs},
+            {"metric": f"Capital employed ({seg.get('unit', '')})", "values": ce},
+            {"metric": "Return on capital employed (%)", "values": [FN._margin(o, c) if c and c > 0 else None for o, c in zip(op, ce)]},
+            {"metric": "Segment assets / revenue (x)", "values": [round(a / r, 2) if a is not None and r else None for a, r in zip(assets, rev)]},
+            {"metric": f"Capex ({seg.get('unit', '')})", "values": capex},
+        ]
     found = sum(1 for v in rev + op + pat if v is not None)
     return {"available": found > 0, "years": labels, "rows": rows,
             "sources": [y.get("source", "") for y in years], "found_numbers": found}
+
+
+def segment_tables(seg: dict) -> list[dict]:
+    """One table per separated business the judge found numbers for (an
+    older single-business answer is read as one). Each carries the entity
+    it belongs to, the segment's name, the unit and its ₹-crore factor."""
+    if seg.get("status") not in ("judged", "cached"):
+        return []
+    items = [b for b in (seg.get("businesses") or []) if isinstance(b, dict)]
+    if not items and seg.get("years"):
+        items = [seg]
+    out = []
+    for b in items:
+        st = segment_table(b)
+        st.update({"entity": str(b.get("entity") or ""), "segment_name": str(b.get("segment_name") or ""),
+                   "unit": str(b.get("unit") or ""), "unit_factor": DL.unit_factor(str(b.get("unit") or "")),
+                   "measure_notes": str(b.get("measure_notes") or ""), "not_found": str(b.get("not_found") or ""),
+                   "latest_quarter": b.get("latest_quarter") if isinstance(b.get("latest_quarter"), dict) else {}})
+        out.append(st)
+    return out
 
 
 def scheme_text_for(sit: dict, rows: list[dict], budget: int = FILINGS_CHARS) -> str:
@@ -535,8 +631,18 @@ def table_md(fin: dict, pct_rows: tuple[str, ...] = ("growth", "margin")) -> lis
 
 
 def entity_cell(s: dict) -> str:
-    """The separated entity for the summary table: the filings' resulting
-    company when the pattern found a real one, else the judge's words."""
+    """The separated entities for the summary table — ALL of them, each
+    with its NSE symbol and listing date when it trades; else the filings'
+    resulting company; else the judge's words."""
+    ents = [e for e in (s.get("entities") or []) if not e.get("is_parent")]
+    if ents:
+        bits = []
+        for e in ents[:6]:
+            tag = f" ({e['symbol']}, listed {e['listed_on']})" if e.get("symbol") and e.get("listed_on") else \
+                (f" ({e['symbol']})" if e.get("symbol") else "")
+            bits.append(f"{_short(e['name'], 55)}{tag}")
+        more = f"; +{len(ents) - 6} more" if len(ents) > 6 else ""
+        return "; ".join(bits) + more
     rc = s["facts"].get("resulting_company")
     if rc:
         return rc[:70]
@@ -544,17 +650,142 @@ def entity_cell(s: dict) -> str:
     return (w[:70] + ("…" if len(w) > 70 else "")) if w and not w.lower().startswith("not stated") else "—"
 
 
-def render_company(s: dict, heavy: bool) -> list[str]:
+def category_of(s: dict) -> str:
+    """The line-1 label: what this company's situation is."""
+    conf, f = s["confidence"][0], s["facts"]
+    if f.get("is_the_spin"):
+        return "THE SPIN-OFF ITSELF (the resulting company of a demerger)"
+    if f.get("completed") or f.get("mature"):
+        return "COMPLETED DEMERGER"
+    if s["kind"] == "subsidiary_listing":
+        return {"confirmed": "PARTIAL SPIN-OFF (subsidiary IPO)", "probable": "PROBABLE SUBSIDIARY LISTING",
+                "indicated": "INDICATED SUBSIDIARY LISTING"}.get(conf, "SUBSIDIARY LISTING — " + conf.upper())
+    if s["kind"] == "demerger":
+        if conf == "confirmed":
+            return "CONFIRMED DEMERGER" + (" (in progress — read from the filings' text)" if f.get("resolved_from_text") else "")
+        return {"probable": "PROBABLE DEMERGER", "indicated": "INDICATED DEMERGER"}.get(conf, "DEMERGER — " + conf.upper())
+    return f"{s['family'].upper()} — {conf.upper()}"
+
+
+def timeline_rows(s: dict) -> list[dict]:
+    """Every dated event of the situation, oldest first: the stages the
+    filings set (with the filing), the dates the documents state (deal
+    sheet), NSE's record date, and each entity's listing date."""
+    rows: list[dict] = []
+    heads = s.get("headlines") or []
+    for stage, date in (s.get("stage_dates") or {}).items():
+        hs = [h for h in heads if h["date"] == date and not h["category"].startswith("Earnings call")]
+        h = next((x for x in hs if x.get("attachment")), hs[0] if hs else None)
+        src = (f"[{_short(h['category'], 40)}]({h['attachment']})" if h and h.get("attachment")
+               else (_short(h["category"], 40) if h else "filing"))
+        rows.append({"date": date, "event": f"Stage reached: **{stage.replace('_', ' ')}**", "source": src, "rank": 1})
+    f = s["facts"]
+    if f.get("record_date"):
+        rows.append({"date": str(f["record_date"]), "event": "**Record date**",
+                     "source": f.get("record_date_source") or "the filings", "rank": 0})
+    for e in s.get("entities") or []:
+        if e.get("listed_on") and not e.get("is_parent"):
+            rows.append({"date": e["listed_on"], "event": f"**{e['name']}** listed" + (f" ({e['symbol']})" if e.get("symbol") else ""),
+                         "source": "NSE equity list", "rank": 0})
+    if f.get("is_the_spin") and s.get("listed_on"):
+        rows.append({"date": s["listed_on"], "event": f"**{s['company']}** itself listed", "source": "NSE equity list", "rank": 0})
+    if f.get("partial_spin") and s.get("listed_on") and not any(r["date"] == s["listed_on"] and "listed" in r["event"] for r in rows):
+        rows.append({"date": s["listed_on"], "event": f"**{f.get('subsidiary', 'the subsidiary')}** listed",
+                     "source": f.get("subsidiary_listing_source", "the filings"), "rank": 0})
+    d = s.get("deal") or {}
+    for ev in (d.get("dates") or []) if d.get("status") in ("judged", "cached") else []:
+        if not isinstance(ev, dict) or not re.match(r"\d{4}-\d{2}", str(ev.get("date") or "")):
+            continue
+        what = str(ev.get("event") or "").strip()
+        if ev.get("entity") and not re.match(SO.UNNAMED_RX, str(ev["entity"])):
+            what += f" — {ev['entity']}"
+        rows.append({"date": str(ev["date"])[:10], "event": what[0:1].upper() + what[1:],
+                     "source": "as stated: " + _short(ev.get("source") or "the documents", 70), "rank": 2})
+    seen, out = set(), []
+    for r in sorted(rows, key=lambda r: (r["date"], r["rank"])):
+        key = (r["date"], re.sub(r"\W", "", r["event"].lower())[:24])
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(r)
+    return out
+
+
+def _fmt_metric(v) -> str:
+    if v is None:
+        return "—"
+    val, year = v
+    return f"{val:,.1f}" .rstrip("0").rstrip(".") + f" ({year})" if isinstance(val, float) else f"{val} ({year})"
+
+
+def render_exchanges(s: dict, verbatim: bool) -> list[str]:
+    cx = s.get("call_exchanges") or []
+    n_qa = sum(1 for c in cx for e in c["exchanges"] if e["kind"] == "qa")
+    n_rm = sum(1 for c in cx for e in c["exchanges"] if e["kind"] == "remarks")
+    if not cx:
+        return ["No call in the last 36 months carries a statement about it (or no transcript is on file).", ""]
+    A = [f"{len(cx)} call(s), oldest first: **{n_qa} question-and-answer exchange(s)** given in full — the question and "
+         f"every answer to it, nothing trimmed — and {n_rm} passage(s) from management's prepared remarks (the complete "
+         f"sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.", ""]
+    if not verbatim:
+        A += ["| Call | Q&A exchanges | Prepared-remarks passages | Transcript |", "|---|---:|---:|---|"]
+        for c in cx:
+            A.append(f"| {c['call']} | {sum(1 for e in c['exchanges'] if e['kind'] == 'qa')} | "
+                     f"{sum(1 for e in c['exchanges'] if e['kind'] == 'remarks')} | "
+                     + (f"[transcript]({c['url']})" if c.get("url") else "—") + " |")
+        A += ["", f"**The full verbatim text of every exchange is in [companies/{s['symbol']}.md](companies/{s['symbol']}.md#6-on-the-calls-verbatim).**", ""]
+        return A
+    for c in cx:
+        A += [f"#### {c['call']}" + (f" — [transcript]({c['url']})" if c.get("url") else ""), ""]
+        for e in c["exchanges"]:
+            if e["kind"] == "qa":
+                A += ["**Question and answer**", ""]
+            else:
+                A += [f"**From the prepared remarks** *(the passage about it; the whole turn runs to "
+                      f"{e.get('full_chars', 0):,} characters in the transcript)*", ""]
+            for speaker, text in e["turns"]:
+                A += [f"> **{speaker}:** {text}", ">"]
+            A[-1] = ""
+    return A
+
+
+def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
+    """One company's analysis in nine parts: what it is; stages and dates;
+    size beside the parent; insider ownership; why; the calls verbatim; the
+    parent's statements; the separated business's statements; other
+    financial differences. `verbatim` writes every call exchange in full
+    (the company file); otherwise part 6 is a table that links to it."""
     conf, why = s["confidence"]
     L = s["listing"]
+    f = s["facts"]
+    j = s.get("judge") or {}
+    d = s.get("deal") if (s.get("deal") or {}).get("status") in ("judged", "cached") else {}
+    ents = [e for e in (s.get("entities") or []) if not e.get("is_parent")]
     A = [f"## {s['symbol']} — {s['company']}", "",
+         f"### 1. {s['company']} — {category_of(s)}", "",
          f"**{conf.upper()}** ({why}) · **{s['verdict']['label']}** · score {s['verdict']['score']}/10 · "
          f"{s['family']} · {s['n_filings']} filing(s) from {', '.join(s['sources'])} · "
-         f"first {s['first_filing']}, latest {s['latest_filing']}", "",
-         f"> **Listing:** {L['text']}", ""]
+         f"first {s['first_filing']}, latest {s['latest_filing']}", ""]
+    if ents:
+        A += ["**The separated entities — every one the documents name:**", "",
+              "| Entity | Business | Listing | Who runs it |", "|---|---|---|---|"]
+        for e in ents:
+            listing = (f"listed {e['listed_on']} as {e['symbol']} (NSE)" if e.get("listed_on")
+                       else _short(e.get("listing") or "not stated", 60))
+            A.append(f"| **{e['name']}** | {_short(e.get('business') or '—', 110)} | {listing} | {_short(e.get('who_runs_it') or '—', 50)} |")
+        A.append("")
+    if j.get("status") in ("judged", "cached"):
+        A += [f"**What is being separated, as the documents put it:** {j.get('what_is_spun', '—')} — class "
+              f"`{j.get('reason_class', '—')}`.", ""]
+
+    # ---- 2
+    A += ["### 2. Stages and dates", "", f"> **Listing:** {L['text']}", ""]
+    tl = timeline_rows(s)
+    if tl:
+        A += ["| Date | Event | Source |", "|---|---|---|"]
+        A += [f"| {r['date']} | {r['event']} | {r['source']} |" for r in tl] + [""]
     if s["stage_dates"]:
         A += ["**The stages, as filed:** " + " → ".join(f"{k} ({v})" for k, v in s["stage_dates"].items()), ""]
-    f = s["facts"]
     if f.get("partial_spin"):
         res = s.get("listing_resolution") or {}
         bits = [f"**{f.get('subsidiary', '—')}**" + (f" ({res['relation']})" if res.get("relation") not in (None, "", "not stated") else ""),
@@ -576,35 +807,88 @@ def render_company(s: dict, heavy: bool) -> list[str]:
         f"size hint: {f['small_share']}" if f.get("small_share") else "") if x]
     if facts:
         A += ["**Stated in the filings:** " + "; ".join(facts) + ".", ""]
-    j = s.get("judge") or {}
+    if j.get("listing_timeline") and not str(j["listing_timeline"]).lower().startswith("not stated"):
+        A += [f"**When it lists, in the documents' words:** {j['listing_timeline']}", ""]
+
+    full = heavy and "parent_financials" in s           # a list-only run has no numbers
+    # ---- 3
+    A += ["### 3. Size of the separated business beside the parent — is institutional selling likely?", ""]
+    sz = s.get("size") or {}
+    if sz.get("rows"):
+        A += [f"**Reading: {sz['reading']}.**", "",
+              "| Entity | Stated turnover | Stated share of the parent | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |",
+              "|---|---|---:|---:|---:|---:|---|"]
+        for r in sz["rows"]:
+            A.append(f"| {r['entity']} | {_short(r['stated_turnover'] or '—', 60)} | "
+                     + (f"{r['stated_pct']}%" if r["stated_pct"] is not None else "—") + " | "
+                     + (f"{r['segment_pct']}% ({r['segment_fy']})" if r["segment_pct"] is not None else "—") + " | "
+                     + (f"{r['mcap_cr']:,}" if r["mcap_cr"] else "—") + " | "
+                     + (f"{r['mcap_pct']}%" if r["mcap_pct"] is not None else "—") + " | "
+                     + ("yes" if r["index_member"] else ("no" if r["symbol"] else "not listed")) + " |")
+        A += ["", "*Stated figures are the documents' own; the segment share is this business's revenue over the parent's "
+                  "sales, and the market-cap share is the entity's value over the entity plus the parent"
+              + (f" (parent ₹{sz['parent_mcap_cr']:,} cr, NSE bhavcopy of {sz['mcap_date']})" if sz.get("parent_mcap_cr") else "")
+              + ", both computed here.*", ""]
+    elif full:
+        A += ["The documents on file give no size for the separated piece, and it has no market value yet.", ""]
+    if d.get("size_statement") and not re.match(SO.UNNAMED_RX, str(d["size_statement"])):
+        A += [f"**In the documents' words:** “{d['size_statement']}”", ""]
+    if j.get("selling_pressure"):
+        A += [f"**The judge's read of selling pressure:** {j.get('selling_pressure', '—')} — {j.get('selling_pressure_why', '')}", ""]
+
+    # ---- 4
+    A += ["### 4. Insider ownership — share swap, promoters' holding, management incentives", ""]
+    swaps = [(e["name"], e.get("swap_ratio")) for e in ents
+             if e.get("swap_ratio") and not re.match(SO.UNNAMED_RX, str(e["swap_ratio"]))]
+    if swaps:
+        A += ["**Share swap / entitlement, entity by entity:**", ""] + [f"- **{n}:** {r}" for n, r in swaps] + [""]
+    elif f.get("entitlement_ratio"):
+        A += [f"**Share swap / entitlement:** {f['entitlement_ratio']}", ""]
+    elif full:
+        A += ["**Share swap / entitlement:** not stated in the documents on file.", ""]
+    shp = s.get("shareholding") or {}
+    if shp:
+        A += ["**Promoters' holding, from the shareholding pattern:**", "",
+              "| Company | Promoters | FIIs | DIIs | Public | Quarter |", "|---|---:|---:|---:|---:|---|"]
+        for sym, table in shp.items():
+            p, q = DL.latest_holding(table, "Promoters")
+            cells = [DL.latest_holding(table, k)[0] for k in ("FIIs", "DIIs", "Public")]
+            label = s["company"] if sym == s["symbol"] else next((e["name"] for e in ents if e.get("symbol") == sym), sym)
+            A.append(f"| {label} ({sym}) | " + (f"{p}%" if p is not None else "—") + " | "
+                     + " | ".join(f"{c}%" if c is not None else "—" for c in cells) + f" | {q} |")
+        A += ["", "*Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a "
+                  "mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*", ""]
+    for label, key in (("Promoters in the parent, per the documents", "promoter_holding_parent"),
+                       ("What the promoters will hold in the separated entity", "promoter_holding_after"),
+                       ("What a public shareholder receives", "public_shareholders_get"),
+                       ("Management incentives", "management_incentives"),
+                       ("Insider actions around the separation", "insider_actions")):
+        v = d.get(key)
+        if v and not re.match(SO.UNNAMED_RX, str(v)):
+            A += [f"- **{label}:** {v}"]
+        elif full and d:
+            A += [f"- **{label}:** not stated in the documents on file."]
     if j.get("status") in ("judged", "cached"):
-        A += ["**What is being separated, as the documents put it:** "
-              f"{j.get('what_is_spun', '—')} — class `{j.get('reason_class', '—')}`.", "",
-              f"- *Insiders:* {j.get('insiders', '—')}",
-              f"- *What it reveals:* {j.get('hidden_value', '—')}",
-              f"- *Selling pressure:* {j.get('selling_pressure', '—')} — {j.get('selling_pressure_why', '')}",
-              f"- *Parent or spin:* {j.get('parent_or_spin', '—')} · *option pricing date:* {j.get('option_pricing_date', '—')}",
-              f"- *Read next:* {j.get('read_next', '—')}"]
-        if j.get("quote"):
-            A.append(f"- *In their words:* “{j['quote']}”")
-        A.append("")
-    # ---- the rationale, from three years of calls
+        A += [f"- **Insiders, per the checklist read:** {j.get('insiders', '—')} · *option pricing date:* {j.get('option_pricing_date', '—')}"]
+    A.append("")
+
+    # ---- 5
     r = s.get("rationale") or {}
-    A += ["### Why the demerger — three years of calls and the scheme", ""]
+    A += ["### 5. Why the demerger — point by point", ""]
     if r.get("status") in ("judged", "cached"):
         A += [r.get("rationale", ""), ""]
+        pts = [p for p in (r.get("points") or []) if isinstance(p, dict)]
+        if pts:
+            A += ["**Point by point, with the source:**", ""]
+            for n, p in enumerate(pts, 1):
+                url = s.get("call_links", {}).get(p.get("call", ""), "")
+                src = f"[{p.get('call', '')}]({url})" if url else p.get("call", "")
+                A.append(f"{n}. {p.get('point', '')}" + (f" “{p['quote']}”" if p.get("quote") else "") + f" — *{src}*")
+            A.append("")
         if r.get("evolution"):
             A += [f"**How it evolved:** {r['evolution']}", ""]
         if r.get("what_management_expects"):
             A += [f"**What management expects from it:** {r['what_management_expects']}", ""]
-        pts = [p for p in (r.get("points") or []) if isinstance(p, dict)]
-        if pts:
-            A += ["**Point by point, with the source:**", ""]
-            for p in pts[:12]:
-                url = s.get("call_links", {}).get(p.get("call", ""), "")
-                src = f"[{p.get('call', '')}]({url})" if url else p.get("call", "")
-                A.append(f"- *{src}* — {p.get('point', '')}" + (f" “{p['quote']}”" if p.get("quote") else ""))
-            A.append("")
         if r.get("gaps"):
             A += [f"*Not explained on the calls:* {r['gaps']}", ""]
     elif s["reasons"]:
@@ -612,16 +896,22 @@ def render_company(s: dict, heavy: bool) -> list[str]:
               "; ".join(f"{x['reason']} — “{x['quote']}”" for x in s["reasons"]), ""]
     else:
         A += ["No rationale on file: " + (r.get("note") or "no call passages and no scheme rationale text."), ""]
-    if s.get("rationale_excerpts"):
-        calls = sorted({e["call"] for e in s["rationale_excerpts"]}, key=lambda c: c)
-        links = s.get("call_links", {})
-        A += ["*Calls read (36 months):* " + ", ".join(
-            f"[{c}]({links[c]})" if links.get(c) else c for c in calls), ""]
-    if not heavy or "parent_financials" not in s:       # a list-only run has no numbers
+    if j.get("status") in ("judged", "cached"):
+        A += [f"- *Stated reason, in one line:* {j.get('reason', '—')}",
+              f"- *What it reveals:* {j.get('hidden_value', '—')}",
+              f"- *Parent or spin:* {j.get('parent_or_spin', '—')} · *Read next:* {j.get('read_next', '—')}"]
+        if j.get("quote"):
+            A.append(f"- *In their words:* “{j['quote']}”")
+        A.append("")
+
+    # ---- 6
+    A += ["### 6. On the calls, verbatim", ""] + render_exchanges(s, verbatim)
+    if not full:
         return A + render_light_tail(s)
-    # ---- the parent's numbers
+
+    # ---- 7
     fin = s["parent_financials"]
-    A += ["### The parent, last three fiscal years (consolidated)", ""]
+    A += ["### 7. The parent's financial statements", "", "**The parent, last three fiscal years (consolidated)**", ""]
     if fin.get("available"):
         A += table_md(fin) + ["", f"*Source: {fin['source']}; growth and margins computed here.*", ""]
         A += [c + "\n" for c in FN.charts_for(fin)]
@@ -635,33 +925,80 @@ def render_company(s: dict, heavy: bool) -> list[str]:
         A += ["**Cash flows (₹ cr):**", ""] + table_md(cf, pct_rows=()) + ["", f"*Source: {cf['source']}.*", ""]
     else:
         A += ["No stored cash-flow statement for this symbol.", ""]
-    # ---- the piece's own numbers
-    seg, st = s.get("segments") or {}, s.get("segment_table") or {}
-    A += ["### The business being separated — its own numbers", ""]
+
+    # ---- 8
+    seg = s.get("segments") or {}
+    tables = s.get("segment_tables") or ([s["segment_table"]] if (s.get("segment_table") or {}).get("available") else [])
+    own = s.get("entity_financials") or {}
+    A += ["### 8. The separated business's financial statements", "",
+          "**The business being separated — its own numbers**, entity by entity: its reported statements once it is "
+          "listed and on file, and the segment numbers the annual reports and presentations carry for it before that.", ""]
     docs = s.get("docs", {})
     searched = (f"{len(docs.get('annual_reports', []))} annual report(s) and "
                 f"{len(docs.get('presentations', []))} presentation(s) on file")
-    if st.get("available"):
-        A += [f"**{seg.get('segment_name', '')}** · unit {seg.get('unit', '')} · {seg.get('measure_notes', '')}", ""]
+    shown = 0
+    for e in ents:
+        if e.get("symbol") in own:
+            ofin = own[e["symbol"]]
+            A += [f"**{e['name']} ({e['symbol']}) — as reported since listing**", ""] + table_md(ofin)
+            A += ["", f"*Source: {ofin['source']}; growth and margins computed here.*", ""]
+            shown += 1
+    for st in tables:
+        if not st.get("available"):
+            continue
+        head = st.get("segment_name") or seg.get("segment_name", "")
+        ent = f" → {st['entity']}" if st.get("entity") and st["entity"].lower() not in head.lower() else ""
+        A += [f"**{head}{ent}** · unit {st.get('unit') or seg.get('unit', '')} · {st.get('measure_notes') or seg.get('measure_notes', '')}", ""]
         A += table_md(st) + [""]
         srcs = [x for x in st.get("sources", []) if x]
         if srcs:
             A += ["*Sources:* " + "; ".join(dict.fromkeys(srcs)), ""]
-        lq = seg.get("latest_quarter") or {}
+        lq = st.get("latest_quarter") or seg.get("latest_quarter") or {}
         if isinstance(lq, dict) and lq.get("period"):
             A += [f"*Latest quarter ({lq['period']}):* revenue {lq.get('revenue', '—')}, "
                   f"operating profit {lq.get('operating_profit', '—')} — {lq.get('source', '')}", ""]
-        if seg.get("not_found"):
-            A += [f"*Not in the pages read:* {seg['not_found']}", ""]
-    elif seg.get("status") in ("judged", "cached"):
-        A += [f"The segment pages read ({searched}) do not carry this business's own "
-              f"revenue or profit: {seg.get('not_found', '')}", ""]
-    else:
-        A += [f"Not extracted — {seg.get('note') or seg.get('status') or 'judge not run'} ({searched}).", ""]
+        nf = st.get("not_found") or ""
+        if nf:
+            A += [f"*Not in the pages read:* {nf}", ""]
+        shown += 1
+    if seg.get("status") in ("judged", "cached") and seg.get("not_found") and not re.match(SO.UNNAMED_RX, str(seg["not_found"])):
+        A += [f"*Businesses with no numbers in the pages read ({searched}):* {seg['not_found']}", ""]
+    if not shown:
+        if seg.get("status") in ("judged", "cached"):
+            A += [f"The segment pages read ({searched}) do not carry this business's own revenue or profit.", ""]
+        else:
+            A += [f"Not extracted — {seg.get('note') or seg.get('status') or 'judge not run'} ({searched}).", ""]
     if docs.get("annual_reports") or docs.get("presentations"):
         A += ["*Documents on file:* " + "; ".join(
             [f"[{l}]({u})" for l, u, _ in docs.get("annual_reports", [])] +
             [f"[Presentation {l}]({u})" for l, u, _ in docs.get("presentations", [])[:6]]), ""]
+
+    # ---- 9
+    A += ["### 9. Other financial differences — working capital, margins, returns, debt", ""]
+    cmp_ = s.get("compare") or {}
+    cols = [c for c in cmp_.get("columns", [])]
+    if len(cols) > 1 and cmp_.get("metrics") and any(c["metrics"] for c in cols[1:]):
+        A += ["| Metric (latest year) | " + " | ".join(_short(c["label"], 46) for c in cols) + " |",
+              "|---|" + "---:|" * len(cols),
+              "| *Basis* | " + " | ".join(f"*{_short(c['basis'], 46)}*" for c in cols) + " |"]
+        for k in cmp_["metrics"]:
+            A.append(f"| {k} | " + " | ".join(_fmt_metric(c["metrics"].get(k)) for c in cols) + " |")
+        A += ["", "*Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored "
+                  "working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*", ""]
+    elif cols and cols[0]["metrics"]:
+        A += ["Only the parent's figures are on file: " + "; ".join(
+            f"{k} {_fmt_metric(v)}" for k, v in cols[0]["metrics"].items()) + ". The separated business has no "
+            "comparable numbers in the documents read.", ""]
+    else:
+        A += ["No comparable figures on file for either side.", ""]
+    diffs = [x for x in (d.get("other_differences") or []) if isinstance(x, dict)]
+    if diffs:
+        A += ["**What the documents themselves say about the differences:**", ""]
+        for x in diffs[:10]:
+            A.append(f"- **{x.get('metric', '')}** — parent / remaining: {x.get('parent_or_remaining', '—')}; "
+                     f"separated business: {x.get('separated_business', '—')}"
+                     + (f" “{x['quote']}”" if x.get("quote") else ""))
+        A.append("")
     return A + render_light_tail(s)
 
 
@@ -1031,6 +1368,14 @@ def render_report(record: dict, idx: dict | None = None) -> str:
         A += [f"| {s['symbol']} | {s['family']} | {s['stage']} | {s['first_filing']} | {s['n_filings']} |"
               for s in others]
         A += ["", "</details>", ""]
+    A += ["---", "", "**How each company is written up.** Nine parts, in this order: (1) the company and what its situation "
+          "is; (2) stages and dates — filings, record date and every entity's listing; (3) the size of the separated "
+          "business beside the parent, and whether institutional selling is likely; (4) insider ownership — share swap, "
+          "promoters' holding, management incentives; (5) why, point by point; (6) the management calls, verbatim; "
+          "(7) the parent's financial statements; (8) the separated business's financial statements; (9) other "
+          "financial differences — working capital, margins, returns, debt. In this report part 6 is a table of calls; "
+          "**the complete text of every question and answer is in the company's own file under `companies/`**, which "
+          "carries all nine parts.", ""]
     A += ["---", "", "# Confirmed demergers — in full", ""]
     for s in confirmed:
         A += render_company(s, heavy=True)
@@ -1174,6 +1519,29 @@ def call_only_scan(symbols: list[str], exclude: set[str], today: dt.date) -> lis
     return out
 
 
+_MEMBERS: dict | None = None
+
+
+def _members() -> dict:
+    global _MEMBERS
+    if _MEMBERS is None:
+        _MEMBERS = FA.universe()
+    return _MEMBERS
+
+
+def entities_for(s: dict, today: dt.date) -> list[dict]:
+    """Every separated entity of a situation: the deal sheet's list, then
+    whatever the mechanical read and the listing resolution named that the
+    deal sheet lacks — each with its NSE symbol and listing date."""
+    d = s.get("deal") or {}
+    raw = [e for e in (d.get("entities") or []) if isinstance(e, dict)] if d.get("status") in ("judged", "cached") else []
+    f = s["facts"]
+    for extra in [f.get("resulting_company"), f.get("subsidiary")] + list(f.get("other_subsidiaries") or []):
+        if extra:
+            raw.append({"name": extra})
+    return DL.enrich_entities(raw, s["symbol"], today)
+
+
 def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
            fetch_docs: bool = False, runner=None, list_only: bool = False) -> None:
     """Everything beyond the mechanical situation: confidence, judge,
@@ -1267,6 +1635,10 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
         s["offering"] = judge_offering(s, scheme_text_for(s, rows), allow_ai=ai, runner=runner)
         return
     if s["confidence"][0] not in ("confirmed", "probable"):
+        if s["confidence"][0] == "indicated" and s["kind"] in SO.SPIN_KINDS:
+            links = FN.doc_links(s["symbol"])["calls"]
+            s["call_links"] = links
+            s["call_exchanges"] = DL.call_exchanges(s["symbol"], today, 36, [], s["company"], links=links)
         return
     sym = s["symbol"]
     if fetch_docs:
@@ -1285,14 +1657,19 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     s["parent_financials"] = FN.parent_financials(sym)
     s["cash_flows"] = FN.cash_flows(sym)
     s["pe"] = FN.pe_ratio(sym, live)
-    names = [s["facts"].get("resulting_company", ""), s["facts"].get("demerged_undertaking", "")]
+    # ---- the deal sheet: EVERY resulting / listed entity, with size, swap,
+    # holdings, incentives and dates (one company can separate several)
+    s["deal"] = judge_deal(s, scheme, calls12, allow_ai=ai, runner=runner)
+    s["entities"] = entities_for(s, today)
+    names = [e["name"] for e in s["entities"]] + [str(e.get("business") or "") for e in s["entities"]]
+    names += [s["facts"].get("resulting_company", ""), s["facts"].get("demerged_undertaking", "")]
     j = s["judge"] or {}
     for n in (j.get("demerged_business_names") or []):
         if isinstance(n, str):
             names.append(n)
     if isinstance(j.get("what_is_spun"), str):
         names.append(j["what_is_spun"])
-    names = [n for n in dict.fromkeys(x.strip() for x in names if x) if len(n) > 3][:8]
+    names = [n for n in dict.fromkeys(x.strip() for x in names if x) if len(n) > 3][:14]
     # long descriptions make poor search keys: keep the short names, plus
     # the first two words of a long one
     keys = []
@@ -1303,7 +1680,25 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     ex = FN.segment_excerpts(sym, keys)
     s["segment_excerpts_n"] = len(ex)
     s["segments"] = judge_segments(s, ex, keys, allow_ai=ai, runner=runner)
-    s["segment_table"] = segment_table(s["segments"]) if s["segments"].get("status") in ("judged", "cached") else {}
+    s["segment_tables"] = segment_tables(s["segments"])
+    s["segment_table"] = next((x for x in s["segment_tables"] if x.get("available")), {})
+    # ---- who holds what, how big the piece is, how the businesses differ
+    holders = {sym: DL.shareholding(sym, fetch=fetch_docs)}
+    own = {}
+    for e in s["entities"]:
+        if e.get("symbol") and not e.get("is_parent"):
+            holders[e["symbol"]] = DL.shareholding(e["symbol"], fetch=fetch_docs)
+            fin = FN.parent_financials(e["symbol"])
+            if fin.get("available"):
+                own[e["symbol"]] = fin
+    s["shareholding"] = {k: v for k, v in holders.items() if v}
+    s["entity_financials"] = own
+    s["size"] = DL.size_view(s["entities"], s["parent_financials"], s["segment_tables"], sym,
+                             DL.latest_mcaps(as_of=today), _members())
+    s["compare"] = DL.compare(sym, s["parent_financials"], s["entities"], s["segment_tables"])
+    # ---- the calls, verbatim: every question and answer about it, oldest first
+    s["call_exchanges"] = DL.call_exchanges(sym, today, 36, [e["name"] for e in s["entities"]], s["company"],
+                                            links=s["call_links"])
 
 
 def cmd_run(args, runner=None) -> dict:
@@ -1378,6 +1773,7 @@ def cmd_run(args, runner=None) -> dict:
     md = render_report(record, rows_index(rows))
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     REPORT.write_text(md)
+    write_company_files(record)
     LATEST.write_text(json.dumps(record, indent=1, default=str))
     srows = situation_rows(sits)
     FA.write_csv(SITUATIONS, srows, list(srows[0].keys()) if srows else ["symbol"])
@@ -1418,6 +1814,32 @@ def cmd_company(args) -> None:
     print(json.dumps(sits, indent=1, default=str))
 
 
+def write_company_files(record: dict) -> int:
+    """One file per company under <out>/companies/: the complete nine-part
+    analysis with EVERY call exchange verbatim (the main report links here
+    for part 6). Written for every company the report writes up."""
+    folder = OUT_DIR / "companies"
+    folder.mkdir(parents=True, exist_ok=True)
+    m = record["meta"]
+    n = 0
+    seen = set()
+    for s in record["situations"]:
+        conf = s.get("confidence", ("",))[0]
+        if s["kind"] not in SO.SPIN_KINDS or conf not in ("confirmed", "probable", "indicated") or s["symbol"] in seen:
+            continue
+        seen.add(s["symbol"])
+        body = [f"*Run {m['run_date']} · part of [SPINOFF_REPORT.md](../SPINOFF_REPORT.md) · "
+                f"the complete analysis of one company, with every management-call exchange in full.*", ""]
+        body += render_company(s, heavy=(conf != "indicated"), verbatim=True)
+        if s.get("also_partial"):
+            ap = s["also_partial"]
+            body += ["---", "", f"*{s['company']} also has a partial spin-off on file: "
+                     f"{ap['facts'].get('subsidiary', '')} — {ap['listing']['text']}*", ""]
+        (folder / f"{s['symbol'].replace('&', '_')}.md").write_text("\n".join(body))
+        n += 1
+    return n
+
+
 def cmd_render(args) -> None:
     """Re-render the report from the saved run (spinoff_latest.json) — a
     presentation change needs no re-judging."""
@@ -1445,6 +1867,7 @@ def cmd_render(args) -> None:
     FA.write_csv(SITUATIONS, srows, list(srows[0].keys()) if srows else ["symbol"])
     md = render_report(record, rows_index(SO.load_filings()))
     REPORT.write_text(md)
+    write_company_files(record)
     snap = HISTORY / record["meta"]["run_date"]
     if snap.exists():
         shutil.copy(REPORT, snap / REPORT.name)
