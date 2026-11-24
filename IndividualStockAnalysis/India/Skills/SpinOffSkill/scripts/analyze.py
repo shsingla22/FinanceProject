@@ -792,8 +792,10 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     if tl:
         A += ["| Date | Event | Source |", "|---|---|---|"]
         A += [f"| {r['date']} | {r['event']} | {r['source']} |" for r in tl] + [""]
-    if s["stage_dates"]:
-        A += ["**The stages, as filed:** " + " → ".join(f"{k} ({v})" for k, v in s["stage_dates"].items()), ""]
+    stages = {**((s.get("history") or {}).get("stage_dates") or {}), **(s.get("stage_dates") or {})}
+    if stages:
+        order = sorted(stages.items(), key=lambda kv: kv[1])
+        A += ["**The stages, as filed:** " + " → ".join(f"{k.replace('_', ' ')} ({v})" for k, v in order), ""]
     if f.get("partial_spin"):
         res = s.get("listing_resolution") or {}
         bits = [f"**{f.get('subsidiary', '—')}**" + (f" ({res['relation']})" if res.get("relation") not in (None, "", "not stated") else ""),
@@ -824,7 +826,7 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     sz = s.get("size") or {}
     if sz.get("rows"):
         A += [f"**Reading: {sz['reading']}.**", "",
-              "| Entity | Stated turnover | Stated share of the parent | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |",
+              "| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |",
               "|---|---|---:|---:|---:|---:|---|"]
         for r in sz["rows"]:
             A.append(f"| {r['entity']} | {_short(r['stated_turnover'] or '—', 60)} | "
@@ -833,7 +835,8 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
                      + (f"{r['mcap_cr']:,}" if r["mcap_cr"] else "—") + " | "
                      + (f"{r['mcap_pct']}%" if r["mcap_pct"] is not None else "—") + " | "
                      + ("yes" if r["index_member"] else ("no" if r["symbol"] else "not listed")) + " |")
-        A += ["", "*Stated figures are the documents' own; the segment share is this business's revenue over the parent's "
+        A += ["", "*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company "
+                  "publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's "
                   "sales, and the market-cap share is the entity's value over the entity plus the parent"
               + (f" (parent ₹{sz['parent_mcap_cr']:,} cr, NSE bhavcopy of {sz['mcap_date']})" if sz.get("parent_mcap_cr") else "")
               + ", both computed here.*", ""]
@@ -1777,9 +1780,18 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     for e in s["entities"]:
         if e.get("symbol") and not e.get("is_parent"):
             holders[e["symbol"]] = DL.shareholding(e["symbol"], fetch=fetch_docs)
-            fin = FN.parent_financials(e["symbol"])
+            fin = FN.parent_financials(e["symbol"], min_years=1)
             if fin.get("available"):
                 own[e["symbol"]] = fin
+    listed = [e for e in s["entities"] if e.get("listed_on") and not e.get("is_parent")]
+    if s["kind"] == "demerger" and listed and not s["facts"].get("is_the_spin"):
+        names_ = "; ".join(f"{e['name']} ({e['symbol']}) since {e['listed_on']}" for e in listed)
+        rd = f"; record date {s['facts']['record_date']}" if s["facts"].get("record_date") else ""
+        pending = [e["name"] for e in s["entities"] if not e.get("listed_on") and not e.get("is_parent")]
+        s["listing"] = {**s["listing"], "state": "listed",
+                        "short": f"LISTED {min(e['listed_on'] for e in listed)}: " + ", ".join(e["symbol"] for e in listed),
+                        "text": f"LISTED — {names_} (NSE equity list){rd}"
+                                + (f"; not yet listed: {', '.join(pending)}" if pending else "")}
     s["shareholding"] = {k: v for k, v in holders.items() if v}
     s["entity_financials"] = own
     s["size"] = DL.size_view(s["entities"], s["parent_financials"], s["segment_tables"], sym,

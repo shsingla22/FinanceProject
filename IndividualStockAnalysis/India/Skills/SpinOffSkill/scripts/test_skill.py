@@ -1387,7 +1387,7 @@ def test_segment_tables_one_per_business_and_the_comparison(tmp_path, monkeypatc
     (tmp_path / "QUESS.csv").write_text("metric,Mar 2025,Mar 2026\nDebtor Days,37,19\nWorking Capital Days,5,8\nROCE %,10,23\n")
     monkeypatch.setattr(FN, "PNL", tmp_path / "pnl")
     parent = {"available": True, "years": ["FY2025", "FY2026"], "rows": [
-        {"metric": "Sales (₹ cr)", "values": [20000.0, 15000.0]}, {"metric": "OPM (%)", "values": [3.5, 2.0]}]}
+        {"metric": "Sales (₹ cr)", "values": [20000.0, 15000.0]}, {"metric": "Operating margin (%)", "values": [3.5, 2.0]}]}
     ents = [{"name": "Bluspring Enterprises Limited", "symbol": "", "is_parent": False},
             {"name": "Digitide Solutions Limited", "symbol": "", "is_parent": False}]
     cmp_ = DL.compare("QUESS", parent, ents, tabs)

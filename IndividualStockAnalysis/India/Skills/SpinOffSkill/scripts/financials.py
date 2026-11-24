@@ -94,12 +94,13 @@ def _margin(num, den):
     return round(num / den * 100, 1)
 
 
-def parent_financials(symbol: str, n: int = YEARS) -> dict:
+def parent_financials(symbol: str, n: int = YEARS, min_years: int = 2) -> dict:
     """Three fiscal years of the parent's consolidated P&L, with growth
-    and margins computed here (never read from a model)."""
+    and margins computed here (never read from a model). `min_years=1`
+    accepts a newly listed company with a single year on file."""
     years, s = _table(PNL / f"{symbol}.csv")
     idx = _last_years(years, s, n)
-    if len(idx) < 2:
+    if len(idx) < min_years:
         return {"available": False, "source": str(PNL / f"{symbol}.csv")}
     show = idx[1:] if len(idx) > n else idx
     g = lambda item, i: (s.get(item) or [None] * len(years))[i]      # noqa: E731

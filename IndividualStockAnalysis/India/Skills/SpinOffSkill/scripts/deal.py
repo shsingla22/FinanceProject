@@ -535,7 +535,7 @@ def compare(parent_symbol: str, parent_fin: dict, entities: list[dict], seg_tabl
             return m
         yrs = fin["years"]
         for want, key in (("Sales (", "Sales (₹ cr)"), ("Sales growth", "Sales growth (%)"),
-                          ("OPM", "Operating margin (%)"), ("PAT margin", "PAT margin (%)"),
+                          ("Operating margin", "Operating margin (%)"), ("PAT margin", "PAT margin (%)"),
                           ("Operating profit growth", "Operating profit growth (%)")):
             row = next((r for r in fin["rows"] if r["metric"].startswith(want)), None)
             if row:
@@ -549,7 +549,7 @@ def compare(parent_symbol: str, parent_fin: dict, entities: list[dict], seg_tabl
         if e.get("is_parent"):
             continue
         sym = e.get("symbol") or ""
-        own = FN.parent_financials(sym) if sym else {"available": False}
+        own = FN.parent_financials(sym, min_years=1) if sym else {"available": False}
         if own.get("available"):
             cols.append({"label": f"{e['name']} ({sym})", "basis": "its own reported statements",
                          "metrics": {**fin_metrics(own), **working_capital(sym)}})
