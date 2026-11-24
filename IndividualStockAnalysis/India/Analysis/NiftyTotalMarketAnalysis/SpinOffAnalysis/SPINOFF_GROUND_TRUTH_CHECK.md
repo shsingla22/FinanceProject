@@ -1,6 +1,6 @@
 # Demerger list checked against NSE's register
 
-*Skill run 2026-11-20 · register from the daily bhavcopy bundles' corporate-actions file and NSE's corporate-actions API · 6 universe demerger record dates in the window.*
+*Skill run 2026-11-24 · register from the daily bhavcopy bundles' corporate-actions file and NSE's corporate-actions API · 6 universe demerger record dates in the window.*
 
 | | Count |
 |---|---:|
@@ -35,7 +35,7 @@
 | **DBREALTY** | record_date | 2025-07-18 | 2025-07-18 | The hospitality (hotel ownership) business of Valor Estate, demerged into Advent | verified by the register |
 | **HEGAM** | record_date | 2026-09-07 | 2026-09-07 | The Graphite Undertaking — graphite electrodes business plus overseas investment | verified by the register |
 | **HINDUNILVR** | listed | 2026-02-13 | 2025-12-05 | HUL's Ice Cream Business Undertaking, demerged on a going-concern basis into Kwa | verified by the register |
-| **INDIAGLYCO** | listed | 2026-11-02 | 2026-09-02 | Bio Pharma undertaking into Ennature Bio Pharma; Spirits and Biofuel undertaking | verified by the register |
+| **INDIAGLYCO** | listed | 2026-11-02 | 2026-09-02 | The Bio Pharma (Biopharma) Undertaking — bio-pharma and bio-polymers businesses, | verified by the register |
 | **INOXGREEN** | record_date | 2026-08-01 | 2026-08-01 | The Power Evacuation Business (substation/evacuation infrastructure undertaking) | verified by the register |
 | **ITC** | record_date | 2025-01-06 | 2025-01-06 | ITC's Hotels business, distributed to shareholders under a Scheme of Demerger in | verified by the register |
 | **LEMONTREE** | nclt_sanction |  |  | Asset-heavy hotel ownership and development undertaking: 12 hotels (11 operating | pending — not yet verifiable (no record date yet) |
@@ -49,7 +49,7 @@
 | **REFEX** | nclt_sanction |  |  | Green Mobility Business Undertaking — cleaner-fuel/EV passenger transport and co | pending — not yet verifiable (no record date yet) |
 | **RELIGARE** | exchange_noc |  |  | REL's financial services business — lending, broking, investment activities and  | pending — not yet verifiable (no record date yet) |
 | **SIEMENS** | record_date | 2025-04-07 | 2025-04-07 | The Energy business of Siemens Limited, transferred to Siemens Energy India Limi | verified by the register |
-| **SKFINDIA** | listed | 2025-10-17 | 2025-10-15 | The Industrial business (Demerged Undertaking) — bearings for infrastructure, ra | verified by the register |
+| **SKFINDIA** | record_date | 2025-10-15 | 2025-10-15 | SKF India's Industrial business (Demerged Undertaking) hived into SKF India (Ind | verified by the register |
 | **SKFINDUS** | listed | 2025-12-05 |  | SKF India's Industrial Undertaking — bearings and units, condition monitoring an | verified by NSE's equity list — this company is the listed resulting company (listed 2025-12-05) |
 | **STAR** | record_date | 2024-12-06 | 2024-12-06 | Arco Lab's Life Sciences and Digital Innovation businesses, carved out into Pivo | verified by the register |
 | **STLTECH** | record_date | 2025-04-24 | 2025-04-24 | STL's Global Services Business (system integration / services arm), demerged out | verified by the register |
@@ -59,7 +59,7 @@
 | **TRIVENI** | listed | 2026-10-09 | 2026-07-22 | Power Transmission Business: high-speed and niche low-speed gearboxes, gear inte | verified by the register |
 | **TVSMOTOR** | nclt_sanction |  |  | TVS Motor's consumer finance and related business — lending, investment, leasing | pending — not yet verifiable (no record date yet) |
 | **UPL** | exchange_noc |  |  | India Crop Protection Business demerged into UPL 2, then combined with UPL's int | pending — not yet verifiable (no record date yet) |
-| **VEDL** | record_date | 2026-05-01 | 2026-05-01 | The Merchant Power Undertaking — merchant thermal power — demerged into Talwandi | verified by the register |
+| **VEDL** | record_date | 2026-05-01 | 2026-05-01 | Aluminium, Merchant Power (to Talwandi Sabo Power), Oil & Gas and Iron Ore under | verified by the register |
 
 ## Reading the result
 
