@@ -1871,11 +1871,12 @@ def cmd_run(args, runner=None) -> dict:
             "judge": (f"{MODEL} read the schemes, three years of calls and the segment pages" if ai else
                       "not run (--quick or no CLI); mechanical read only")}
     record = {"meta": meta, "situations": sits, "call_only": call_only}
-    md = render_report(record, rows_index(rows))
+    # the record first: a fault in rendering must never cost the run (render can be re-run)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+    LATEST.write_text(json.dumps(record, indent=1, default=str))
+    md = render_report(record, rows_index(rows))
     REPORT.write_text(md)
     write_company_files(record)
-    LATEST.write_text(json.dumps(record, indent=1, default=str))
     srows = situation_rows(sits)
     FA.write_csv(SITUATIONS, srows, list(srows[0].keys()) if srows else ["symbol"])
     crows = coverage_rows(sits)
