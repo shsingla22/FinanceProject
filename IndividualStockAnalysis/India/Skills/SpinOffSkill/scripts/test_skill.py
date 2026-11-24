@@ -1979,3 +1979,24 @@ def test_deal_documents_cover_the_whole_history_when_they_do_not_fit(monkeypatch
     assert "OLD Vedanta Aluminium Metal Limited" in tight and "NEW " in tight and "MID " in tight     # all three are there
     assert "2 by their opening pages" in tight and "characters of this filing]" in tight and len(tight) <= 8_200
     assert tight.index("NEW ") < tight.index("MID ") < tight.index("OLD ")                           # newest first
+
+
+def test_roles_are_held_to_what_the_situation_is():
+    """An earlier separation is history; inside a subsidiary-IPO situation a
+    'resulting' company is a group scheme; in a demerger an unlisted
+    'listed subsidiary' with no listing on the record is not a spin-off."""
+    dem = {"kind": "demerger", "facts": {"record_date": "2026-07-22"}}
+    ents = AZ.settle_roles(dem, [
+        {"name": "Triveni Power Transmission Limited", "role": "resulting", "listed_on": "2026-10-12", "dropped": False},
+        {"name": "Triveni Turbine Limited", "role": "resulting", "listed_on": "2011-10-28", "dropped": False},
+        {"name": "Steel Infra Solutions Company Limited", "role": "listed_subsidiary", "listed_on": "", "dropped": False},
+        {"name": "Recently Listed Sub Limited", "role": "listed_subsidiary", "listed_on": "2026-01-19", "dropped": False}])
+    assert [e["name"] for e in DL.separated(ents)] == ["Triveni Power Transmission Limited", "Recently Listed Sub Limited"]
+    assert ents[1]["note"].startswith("an earlier separation")
+    ipo = {"kind": "subsidiary_listing", "facts": {"partial_spin": True}}
+    ents = AZ.settle_roles(ipo, [{"name": "Jio Platforms Limited", "role": "listed_subsidiary", "listed_on": "2026-10-28", "dropped": False},
+                                 {"name": "Reliance Consumer Products Limited", "role": "resulting", "listed_on": "", "dropped": False}])
+    assert [e["name"] for e in DL.separated(ents)] == ["Jio Platforms Limited"]
+    both = {"kind": "demerger", "also_partial": True, "facts": {}}
+    ents = AZ.settle_roles(both, [{"name": "Advanta Enterprises Limited", "role": "listed_subsidiary", "listed_on": "", "dropped": False}])
+    assert DL.separated(ents)                                  # the listing question found an IPO: it stays

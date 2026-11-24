@@ -179,7 +179,28 @@ largest gains came not in the first year but in the second.
    runs it; and for the whole deal the promoters' holding before and
    after, what a public shareholder receives, management incentives,
    every dated event, and the documents' own statements of how the
-   businesses differ. `scripts/deal.py` adds the mechanical parts: each
+   businesses differ. Three rules keep the entity list complete and
+   clean. (a) THE WHOLE HISTORY IS READ: `analyze.deal_text_for` takes
+   every filing tagged demerger / scheme / subsidiary listing in the
+   store; when they exceed the budget every filing contributes its opening
+   pages first (the Regulation 30 disclosure), then whole documents
+   shortest first — so a newer scheme never crowds out an older one
+   (Vedanta's four demerged companies behind its later real-estate
+   scheme). (b) EVERY ENTITY HAS A ROLE: resulting, listed_subsidiary,
+   parent, former_parent, merged_in, unrelated, other — with its scheme
+   and status. Only resulting companies and listed subsidiaries are shown
+   as separated (TVS Motor: Harita ARC, not TVS Motor Services which is
+   merged in); `analyze.settle_roles` holds the role to the situation: a
+   resulting company listed more than a year before the record date is an
+   earlier separation (Triveni Turbine, 2011), a subsidiary listed years
+   ago is not a partial spin-off now (Hindustan Zinc), a dropped unit is
+   marked dropped (Vedanta Base Metals). (c) THE EXCHANGE CROSS-CHECKS:
+   `deal.arrivals` lists companies NSE shows listed in the 150 days after
+   a record date that carry the parent's name or are named in the filings;
+   they are put to the judge, which says from the documents which the
+   scheme created (a resulting company is often renamed: Talwandi Sabo
+   Power → Vedanta Power), and any left unaccounted for is flagged in the
+   write-up. `scripts/deal.py` adds the mechanical parts: each
    entity's NSE symbol and listing date (equity list), the shareholding
    pattern (screener, stored under `ShareholdingPattern/`), market caps
    from the newest bhavcopy bundle, and the call transcripts split into

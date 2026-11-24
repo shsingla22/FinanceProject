@@ -801,7 +801,8 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     d = s.get("deal") if (s.get("deal") or {}).get("status") in ("judged", "cached") else {}
     ents = DL.separated(s.get("entities"))
     others = [e for e in (s.get("entities") or []) if not DL.is_separated(e)
-              and (e.get("dropped") or e.get("role") in ("parent", "former_parent", "merged_in")) and not e.get("is_parent")]
+              and (e.get("dropped") or e.get("note") or e.get("role") == "merged_in"
+                   or (e.get("role") == "former_parent" and f.get("is_the_spin"))) and not e.get("is_parent")]
     A = [f"## {s['symbol']} — {s['company']}", "",
          f"### 1. {s['company']} — {category_of(s)}", "",
          f"**{conf.upper()}** ({why}) · **{s['verdict']['label']}** · score {s['verdict']['score']}/10 · "
@@ -822,7 +823,7 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
                  "merged_in": "merged in — no shares for the parent's holders", "other": "other party"}
         A += ["**The other parties to the scheme(s)** — not separated entities: "
               + "; ".join(f"{e['name']}" + (f" ({e['symbol']})" if e.get("symbol") else "")
-                          + f" — {'dropped / withdrawn' if e.get('dropped') else label.get(e.get('role'), e.get('role') or 'other party')}"
+                          + f" — {'dropped / withdrawn' if e.get('dropped') else e.get('note') or label.get(e.get('role'), e.get('role') or 'other party')}"
                           for e in others), ""]
     for a in s.get("uncovered_listings") or []:
         A += [f"> ⚠ NSE's equity list shows **{a['name']} ({a['symbol']})** listed on {a['listed_on']}, after the record "
@@ -1384,7 +1385,14 @@ def render_report(record: dict, idx: dict | None = None) -> str:
         when = (f"{s['listed_on']} ({'NSE' if f.get('subsidiary_listing_source') == 'NSE equity list' else 'filings'})"
                 if s.get("listed_on") else ("listed; date not stated" if s["stage"] == "listed"
                                              else _short(f.get("ipo_timeline") or "date not fixed", 110)))
-        more = f"; also {', '.join(f['other_subsidiaries'])}"[:70] if f.get("other_subsidiaries") else ""
+        more = f"; also {', '.join(str(x) for x in f['other_subsidiaries'] if x)}"[:70] if f.get("other_subsidiaries") else ""
+        subs = [e for e in DL.separated(s.get("entities")) if e.get("role") == "listed_subsidiary"]
+        if len(subs) > 1:                 # several subsidiaries: each with where it stands (Coal India's four)
+            main = SO._norm_name(f.get("subsidiary") or "")
+            rest = [e for e in subs if SO._norm_name(e["name"]) != main]
+            more = "; also " + "; ".join(
+                f"{_short(e['name'], 50)} — " + (f"listed {e['listed_on']} ({e['symbol']})" if e.get("listed_on") else "IPO in motion")
+                for e in rest[:5])
         if s["symbol"] in also:
             more += " *(the company also has a demerger on file)*"
         A.append(f"| **{s['symbol']}** | {f.get('subsidiary', '—')[:60]}{more} | {rel} · {stake[:40]} | "
@@ -1697,7 +1705,37 @@ def entities_for(s: dict, today: dt.date) -> list[dict]:
         for extra in [f.get("resulting_company"), f.get("subsidiary")] + list(f.get("other_subsidiaries") or []):
             if extra and isinstance(extra, str):
                 raw.append({"name": extra, "role": "listed_subsidiary" if s["kind"] == "subsidiary_listing" else "resulting"})
-    return DL.enrich_entities(raw, s["symbol"], today)
+    return settle_roles(s, DL.enrich_entities(raw, s["symbol"], today))
+
+
+HISTORY_DAYS = 365
+
+
+def settle_roles(s: dict, ents: list[dict]) -> list[dict]:
+    """The judge's role, held to what this situation is. A resulting
+    company that listed more than a year BEFORE the record date is an
+    earlier separation the documents still mention (Triveni Turbine, 2011,
+    beside Triveni Power Transmission). In a subsidiary-IPO situation only
+    the subsidiaries being listed are separated entities — a 'resulting'
+    company there is a scheme inside the group (Reliance Consumer
+    Products). In a demerger, a 'listed subsidiary' counts only when the
+    listing question found one or the exchange shows it listed (not
+    Lloyds' acquisition of Steel Infra Solutions)."""
+    rd = str(s["facts"].get("record_date") or "")[:10]
+    for e in ents:
+        if e["role"] == "resulting" and e.get("listed_on") and rd:
+            try:
+                early = (dt.date.fromisoformat(rd) - dt.date.fromisoformat(e["listed_on"])).days > HISTORY_DAYS
+            except ValueError:
+                early = False
+            if early:
+                e["role"], e["note"] = "other", f"an earlier separation — listed {e['listed_on']}"
+        if s["kind"] == "subsidiary_listing" and e["role"] == "resulting":
+            e["role"], e["note"] = "other", "a scheme inside the group, not a listing for the parent's holders"
+        if s["kind"] != "subsidiary_listing" and e["role"] == "listed_subsidiary" \
+                and not (s.get("also_partial") or s["facts"].get("partial_spin") or e.get("listed_on")):
+            e["role"], e["note"] = "other", "no listing of it on the record"
+    return ents
 
 
 def uncovered_listings(s: dict) -> list[dict]:
@@ -1870,13 +1908,15 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
             fin = FN.parent_financials(e["symbol"], min_years=1)
             if fin.get("available"):
                 own[e["symbol"]] = fin
-    listed = [e for e in spun if e.get("listed_on")]
+    listed = sorted((e for e in spun if e.get("listed_on")), key=lambda e: e["listed_on"])
     if s["kind"] == "demerger" and listed and not s["facts"].get("is_the_spin"):
         names_ = "; ".join(f"{e['name']} ({e['symbol']}) since {e['listed_on']}" for e in listed)
         rd = f"; record date {s['facts']['record_date']}" if s["facts"].get("record_date") else ""
         pending = [e["name"] for e in spun if not e.get("listed_on")]
         s["listing"] = {**s["listing"], "state": "listed",
-                        "short": f"LISTED {min(e['listed_on'] for e in listed)}: " + ", ".join(e["symbol"] for e in listed),
+                        "short": (f"LISTED {listed[0]['listed_on']}: " + ", ".join(e["symbol"] for e in listed)
+                                  if len({e["listed_on"] for e in listed}) == 1 else
+                                  "LISTED: " + ", ".join(f"{e['symbol']} {e['listed_on']}" for e in listed)),
                         "text": f"LISTED — {names_} (NSE equity list){rd}"
                                 + (f"; not yet listed: {', '.join(pending)}" if pending else "")}
     elif (s["kind"] == "demerger" and spun and not s["facts"].get("is_the_spin")
