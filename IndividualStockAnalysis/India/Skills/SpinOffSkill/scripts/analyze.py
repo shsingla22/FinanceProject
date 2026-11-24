@@ -801,7 +801,7 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     d = s.get("deal") if (s.get("deal") or {}).get("status") in ("judged", "cached") else {}
     ents = DL.separated(s.get("entities"))
     others = [e for e in (s.get("entities") or []) if not DL.is_separated(e)
-              and (e.get("dropped") or e.get("note") or e.get("role") == "merged_in"
+              and (e.get("dropped") or e.get("note") or (e.get("role") == "merged_in" and s["kind"] != "subsidiary_listing")
                    or (e.get("role") == "former_parent" and f.get("is_the_spin"))) and not e.get("is_parent")]
     A = [f"## {s['symbol']} — {s['company']}", "",
          f"### 1. {s['company']} — {category_of(s)}", "",
@@ -870,7 +870,24 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     # ---- 3
     A += ["### 3. Size of the separated business beside the parent — is institutional selling likely?", ""]
     sz = s.get("size") or {}
-    if sz.get("rows"):
+    ipo = s["kind"] == "subsidiary_listing"        # an IPO hands no shares to the parent's holders
+    if sz.get("rows") and ipo:
+        pc = sz.get("parent_mcap_cr")
+        A += ["**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody "
+              "receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value "
+              "the listed piece accounts for.**", "",
+              "| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |",
+              "|---|---|---:|---:|---|"]
+        for r in sz["rows"]:
+            A.append(f"| {r['entity']} | {_short(r['stated_turnover'] or '—', 70)} | "
+                     + (f"{r['mcap_cr']:,}" if r["mcap_cr"] else "—") + " | "
+                     + (f"{round(100 * r['mcap_cr'] / pc, 1)}%" if r["mcap_cr"] and pc else "—") + " | "
+                     + ("yes" if r["index_member"] else ("no" if r["symbol"] else "not listed")) + " |")
+        A += ["", "*The last column is the subsidiary's whole market value over the parent's"
+              + (f" (parent ₹{pc:,} cr, NSE bhavcopy of {sz['mcap_date']})" if pc else "")
+              + ", computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's "
+                "value less that stake.*", ""]
+    elif sz.get("rows"):
         A += [f"**Reading: {sz['reading']}.**", "",
               "| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |",
               "|---|---|---:|---:|---:|---:|---|---|"]
@@ -935,7 +952,7 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
 
     # ---- 5
     r = s.get("rationale") or {}
-    A += ["### 5. Why the demerger — point by point", ""]
+    A += [f"### 5. Why the {'listing' if s['kind'] == 'subsidiary_listing' else 'demerger'} — point by point", ""]
     if r.get("status") in ("judged", "cached"):
         A += [r.get("rationale", ""), ""]
         pts = [p for p in (r.get("points") or []) if isinstance(p, dict)]
