@@ -8,10 +8,12 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **UPL Global Sustainable Agri Solutions Limited** | Dedicated pure-play crop protection platform: India Crop Protection Business demerged from UPL 1 plus Global … | to be listed | Mike Frank, CEO of UPL Global |
-| **Advanta Enterprises Limited** | Seeds and post-harvest platform (seeds business, with DECCO post-harvest business integrated into Advanta in … | to be listed (proposed initial public offering; DRHP dated … | Bhupen Dubey, Chief Executive Officer, Advanta |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **UPL Global Sustainable Agri Solutions Limited** (earlier UPL Agri Science Limited) | 2026 Composite Scheme of Arrangement — Demerger of India Cr… | Dedicated pure-play crop protection platform housing UPL's India Crop Protection Business (ex UPL SAS) and th… | to be listed | Mike Frank, CEO of UPL Global ("Mike Frank, who h… |
+| **Advanta Enterprises Limited** (earlier Advanta Enterprises Private Limited) | 2026 initial public offering of Advanta Enterprises Limited… | Seeds and post-harvest platform; seeds across 40 crops with 900+ hybrid varieties, plus the DECCO post-harves… | to be listed | Bhupen Dubey, Chief Executive Officer, Advanta |
+
+**The other parties to the scheme(s)** — not separated entities: UPL Sustainable Agri Solutions Limited — merged in — no shares for the parent's holders; UPL Crop Protection Holdings Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** India Crop Protection Business demerged into UPL 2, then combined with UPL's international (global) crop protection business — class `value_unlocking`.
 
@@ -21,20 +23,21 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2026-01-19 | DRHP filed — Advanta Enterprises Limited | as stated: UPL Limited intimation on filing of Draft Red Herring Prospectus by A… |
-| 2026-02-20 | Board approval — UPL Limited (Composite Scheme amongst UPL 1, UPL SAS, UPL 2 and UPL Cayman) | as stated: Intimation under Regulation 30 – Outcome of Board Meeting / Scheme of… |
-| 2026-02-20 | Other — UPL 2 – shareholders agreement executed amongst UPL 2, Mr. Jai Shroff, Mr. Vikram Shroff, UPL Corporation Limited, Mauritius and The Upswing Trust; valuation report and fairness opinion also dated February 20, 2026 | as stated: Intimation under Regulation 30 – Outcome of Board Meeting, dated Febr… |
-| 2026-02-27 | Filed with exchanges — UPL Limited (application to BSE and NSE under Regulation 37 seeking Observation / No objection) | as stated: Intimation regarding receipt of Observation Letters from BSE and NSE,… |
-| 2026-03-04 | Other — UPL Limited – Composite Scheme of Arrangement, Joint Valuation Report, Fairness Opinion and FAQs uploaded on the Company's website | as stated: Updates – Uploading of 'Composite Scheme of Arrangement' and certain … |
-| 2026-04-01 | Appointed date — Merger 1 – amalgamation of UPL Sustainable Agri Solutions Limited into UPL Limited ("opening of business hours on April 1, 2026"); the appointed date for the Demerger and Merger 2 is the Effective Date of the Scheme (no calendar date stated) | as stated: Intimation under Regulation 30 – Outcome of Board Meeting, dated Febr… |
-| 2026-06-02 | Other — Competition Commission of India approval (as stated in the results notes) | as stated: Unaudited consolidated and standalone financial results for the quart… |
-| 2026-06-03 | Other — Competition Commission of India approval (as stated in the Scheme update filing; date differs from the results notes) | as stated: Other Restructuring – Update regarding Scheme, dated August 1, 2026 |
-| 2026-06-03 | Other — NSE letter reference no. NSE/LIST/53803 submitted to SEBI in respect of the draft scheme | as stated: NSE Observation Letter Ref: NSE/LIST/53803 dated July 29, 2026 |
+| 2026-01-19 | DRHP filed — Advanta Enterprises Limited — DRHP filed with SEBI, BSE and NSE | as stated: Updates – Filing of Draft Red Herring Prospectus (DRHP) by Advanta En… |
+| 2026-02-20 | Board approval — UPL Limited (based on recommendations of the Audit Committee and Committee of Independent Directors); Board Meeting commenced at 02.30 p.m. and concluded at 03.30 p.m. | as stated: Intimation under Regulation 30 – Outcome of Board Meeting, February 2… |
+| 2026-02-20 | Other — Joint valuation report by PwC Business Consulting Services LLP and Ernst & Young Merchant Banking Services LLP, and fairness opinion by J.P. Morgan India Private Limited | as stated: Intimation under Regulation 30 – Outcome of Board Meeting, February 2… |
+| 2026-02-20 | Other — Shareholders agreement executed amongst UPL 2, Mr. Jai Shroff, Mr. Vikram Shroff, UPL Corporation Limited, Mauritius and The Upswing Trust | as stated: Intimation under Regulation 30 – Outcome of Board Meeting, February 2… |
+| 2026-02-27 | Filed with exchanges — UPL Limited application to BSE and NSE under Regulation 37 of the Listing Regulations | as stated: Intimation regarding receipt of Observation Letters from BSE and NSE,… |
+| 2026-03-04 | Other — Scheme of Arrangement, Joint Valuation Report, Fairness Opinion and FAQs uploaded on the Company's website | as stated: Updates – Uploading of 'Composite Scheme of Arrangement' and certain … |
+| 2026-04-01 | Appointed date — Merger 1 (amalgamation of UPL SAS into UPL 1) — "opening of business hours on April 1, 2026"; the appointed date for the Demerger and Merger 2 will be the Effective Date of the Scheme | as stated: Intimation under Regulation 30 – Outcome of Board Meeting, February 2… |
+| 2026-06-02 | Other — Competition Commission of India approval (as stated in the quarterly results notes) | as stated: Unaudited consolidated and standalone financial results note 7 / note… |
+| 2026-06-03 | Other — CCI approval for the Scheme and the transactions contemplated thereunder (as stated in the restructuring intimation); NSE letter ref. NSE/LIST/53803 dated June 03, 2026 submitted to SEBI | as stated: Other Restructuring – Update regarding Scheme, August 1, 2026; NSE Ob… |
 | 2026-07-29 | Stage reached: **exchange noc** | [Scheme of Arrangement](https://nsearchives.nseindia.com/corporate/UPL_29072026205347_Reg_30_Scheme_of_Arrangement.pdf) |
-| 2026-07-29 | SEBI observations — UPL Limited (SEBI letter dated July 29, 2026 giving comments on the draft scheme) | as stated: BSE letter DCS/AMAL/RD/R37/175/2026-27 and NSE letter NSE/LIST/53803,… |
-| 2026-07-29 | Exchange no-objection — BSE "no adverse observations" and NSE "No Objection" (validity six months from July 29, 2026); listing of UPL Global Sustainable Agri Solutions Limited subject to SEBI granting relaxation under Rule 19(2)(b) | as stated: Intimation regarding receipt of Observation Letters from BSE and NSE,… |
-| 2026-07-31 | Other — Swap Transaction (Clause 2.4.1 of the Scheme) completed – Upswing Trust swapped its shareholding in UPL Corporation Ltd., Cayman for shares in UPL Crop Protection Holdings Limited | as stated: Other Restructuring – Update regarding Scheme, dated August 1, 2026 |
-| 2026-07-31 | Other — ESOP Swap Transaction (Clause 2.4.2 of the Scheme) completed – options under Cayman 2 ESOP Scheme cancelled and options issued under UCPL LTI Plan 2026 | as stated: Other Restructuring – Update regarding Scheme, dated August 1, 2026 |
+| 2026-07-29 | SEBI observations — SEBI comments on the draft scheme of arrangement conveyed via BSE and NSE | as stated: BSE letter DCS/AMAL/RD/R37/175/2026-27 and NSE letter NSE/LIST/53803,… |
+| 2026-07-29 | Exchange no-objection — BSE "no adverse observations" and NSE "No Objection"; validity of the Observation Letters is six months from July 29, 2026 within which the scheme shall be submitted to the NCLT | as stated: Scheme of Arrangement intimation, July 29, 2026 (Observation Letters … |
+| 2026-07-31 | Other — Swap Transaction (Clause 2.4.1) completed — UPL Cayman 1 shareholding changed to UPL Mauritius 76.42%, Upswing Trust 21.82%, others 0.01%, unvested ESOPs 1.76% | as stated: Other Restructuring – Update regarding Scheme, August 1, 2026 |
+| 2026-07-31 | Other — ESOP Swap Transaction (Clause 2.4.2) completed — options under the Cayman 2 ESOP Scheme cancelled and options issued under UCPL LTI Plan 2026 | as stated: Other Restructuring – Update regarding Scheme, August 1, 2026 |
+| 2026-11-02 | Other — UPL Limited — "The Scheme is subject to receipt of other approvals/ consents from the shareholders, regulators and NCLT. Accordingly, no effect has been given to the Scheme in these Unaudited Consolidated Statement of Financial Results" | as stated: Outcome of Board Meeting / unaudited results for the quarter and half… |
 
 **The stages, as filed:** exchange noc (2026-07-29)
 
@@ -44,16 +47,16 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| UPL Global Sustainable Agri Solutions Limited | UPL 2 standalone turnover for the year ended March 31, 2025… | 31.15% | 13.2% (FY2026) | — | — | not listed |
-| Advanta Enterprises Limited | Revenue INR 6,837 crore for FY26 (year ended March 31, 2026… | — | 13.2% (FY2026) | — | — | not listed |
+| UPL Global Sustainable Agri Solutions Limited | Nil turnover for the year ended March 31, 2025 (as per audi… | — | 82.6% (FY2025) | — | — | not listed |
+| Advanta Enterprises Limited | Advanta revenue INR 6,837 crore for FY26, 23% growth (platf… | — | 73.8% (FY2026) | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹47,223 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"Turnover of the Demerged Undertaking (as defined in the Scheme) (INR Mn) 24,120 | % of Turnover of UPL 1* 31.15%" with footnote "*Calculated after adding the turnover of UPL SAS to UPL 1 as on March 31, 2025 as per the details provided in point 1 above"; the scheme size table states turnover for the year ended March 31, 2025 and net worth as on March 31, 2025 of "UPL 1 ... INR 53,313 Mn / INR 120,210 Mn; UPL SAS ... INR 24,120 Mn / INR 22,016 Mn; UPL 2 ... Nil / INR 0.02 Mn; UPL Cayman ... USD 4,187 Mn / USD 1,599 Mn". The press release adds: "Bringing our crop protection businesses under one platform creates the world's second largest listed pure-play crop protection platform."”
+**In the documents' words:** “"Turnover of the Demerged Undertaking (as defined in the Scheme) (INR Mn) 24,120 | % of Turnover of UPL 1* 31.15% *Calculated after adding the turnover of UPL SAS to UPL 1 as on March 31, 2025 as per the details provided in point 1 above"; entity sizes stated as: "UPL 1 INR 53,313 Mn / INR 120,210 Mn; UPL SAS INR 24,120 Mn / INR 22,016 Mn; UPL 2 Nil / INR 0.02 Mn; UPL Cayman USD 4,187 Mn / USD 1,599 Mn" (turnover for the year ended March 31, 2025 and net worth as on March 31, 2025)”
 
 **The judge's read of selling pressure:** likely — 1 new UPL 2 share to every UPL 1 holder, a crop-protection-only line; promoters (71.56%) locked 18 months, so only public float trades
 
@@ -61,8 +64,8 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **UPL Global Sustainable Agri Solutions Limited:** Demerger: "1 (One) equity share of UPL 2 of INR 2 each fully paid-up for every 1 (One) equity share of UPL 1 of INR 2 each fully paid-up." Merger 2: "1,000 (One Thousand) equity shares of UPL 2 of INR 2 each fully paid-up, for every 213 (Two Hundred and Thirteen) equity shares of UPL Cayman of USD 1 each fully paid-up."
-- **Advanta Enterprises Limited:** Offer for sale only, no fresh issue stated: "The Offer comprises an offer for sale ("Offer for Sale") of up to 36,105,578 Equity Shares of face value ₹ 1 each, which is proposed to be undertaken by our Company and other eligible shareholders of Advanta. Our Company intends to offer up to 28,107,578 Equity Shares in the Offer."
+- **UPL Global Sustainable Agri Solutions Limited:** Demerger: "1 (One) equity share of UPL 2 of INR 2 each fully paid-up for every 1 (One) equity share of UPL 1 of INR 2 each fully paid-up."; Merger 2: "1,000 (One Thousand) equity shares of UPL 2 of INR 2 each fully paid-up, for every 213 (Two Hundred and Thirteen) equity shares of UPL Cayman of USD 1 each fully paid-up."
+- **Advanta Enterprises Limited:** "The Offer comprises an offer for sale ("Offer for Sale") of up to 36,105,578 Equity Shares of face value ₹ 1 each, which is proposed to be undertaken by our Company and other eligible shareholders of Advanta. Our Company intends to offer up to 28,107,578 Equity Shares in the Offer." (KKR has indicated 2.2% and UPL Limited has indicated 7.8%)
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -72,11 +75,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** UPL 1 (parent): Promoters 33.51% pre-Scheme as on Feb 20, 2026; 33.09% post-Scheme (Indicative) pursuant to Merger 1; "There shall be no change in shareholding pattern of UPL 1 pursuant to Merger 2." and "UPL 1: No change in shareholding pursuant to Demerger."
-- **What the promoters will hold in the separated entity:** UPL 2: "Details as on Feb 20, 2026 | Pre-Scheme Shareholding (%) | Post-Scheme (Indicative) Shareholding (%) — Promoters 100.00 | 71.56; Public - | 28.44; Total 100.00 | 100.00". Lock-in: the UPL 2 Promoters "have agreed to voluntarily retain their entire shareholding respectively in UPL 2 and undertake to not transfer, directly or indirectly, their respective shareholding in UPL 2 (except for any inter se transfers amongst the UPL 2 Promoters) as existing on the Listing Date until eighteen months from the Listing Date." Promoter holding in Advanta after the IPO: not stated.
-- **What a public shareholder receives:** "As consideration for Demerger, UPL 2 shall allot equity shares to the Eligible Shareholders 2 (as defined in the Scheme) of UPL 1 as per the share entitlement ratio below: 1 (One) equity share of UPL 2 of INR 2 each fully paid-up for every 1 (One) equity share of UPL 1 of INR 2 each fully paid-up." Also: "Yes, all new shares of UPL 2 allotted in accordance with the Scheme will be listed and admitted for trading on the Stock Exchanges having nation-wide trading terminals"; and "The entity is advised that the proposed equity shares to be issued in terms of the "Scheme" shall mandatorily be in demat form only."
-- **Management incentives:** ESOP Swap Transaction (Clause 2.4.2 of the Scheme), completed July 31, 2026: "All holders of employee stock options in UPL Corporation Ltd., Cayman ("UPL Cayman 2") under UPL Corporation Ltd LTI Plan 2022 ("Cayman 2 ESOP Scheme") have been issued stock options in UPL Cayman 1 under a new stock option scheme viz. UCPL LTI Plan 2026 ("UCPL ESOP Scheme") in lieu of cancellation of their respective stock options under the Cayman 2 ESOP Scheme". Post-swap shareholding of UPL Cayman 1 on a fully diluted basis: "76.42% of the shares of UPL Cayman 1 are now held by UPL Mauritius, 21.82% of the shares of UPL Cayman 1 are now held by the Upswing Trust (acting by its trustee, Upswing Trustee Company Limited) ("Upswing Trust"), 0.01% of the shares of UPL Cayman 1 are now held by certain other individuals and 1.76 % of the shares of UPL Cayman 1 are held by holders of unvested employee stock options under UCPL ESOP Scheme, in each case on a fully diluted basis (including on the assumption that all employee stock options under the UCPL ESOP Scheme have been exercised)". Insider/investor shareholding in the new listed entity: "Upon allotment of shares by UPL 2 pursuant to the Scheme, Upswing Trust will hold 16.78% shareholding in UPL 2, as a public shareholder." A shareholders agreement dated February 20, 2026 amongst UPL 2, Mr. Jai Shroff, Mr. Vikram Shroff, UPL Corporation Limited, Mauritius and The Upswing Trust grants Upswing Trust "the right to nominate one non-executive and non-independent director (liable to retire by rotation) for appointment on the board of UPL 2 upon listing and subject to fall away rights". No new stock option plan for UPL 2, no exercise price and no pricing date are stated.
-- **Insider actions around the separation:** (1) Swap Transaction completed July 31, 2026: "Upswing Trust will become a shareholder of UPL Cayman upon exercise of a swap transaction pursuant to which it shall swap its 22.21% shareholding in UPL Corporation Ltd., Cayman Islands, for 22.21% shares in UPL Cayman." (2) UPL 2 Promoters (Rajnikant Shroff, Sandra Shroff, Jaidev Shroff, Vikram Shroff, Tania Shroff, Varun Shroff, Mekhla Shroff, Nerka Chemicals Private Limited, Uniphos Enterprises Limited, Demuric Holdings Private Limited, R Shroff Consultants Private Limited, Harmonic Ventures Limited, Suresight Ventures Limited, Esthetic Finvest Private Limited and UPL Corporation Limited, Mauritius and Affiliates) "have agreed to voluntarily retain their entire shareholding respectively in UPL 2 and undertake to not transfer, directly or indirectly, their respective shareholding in UPL 2 ... until eighteen months from the Listing Date." (3) Advanta IPO: "Our Company intends to offer up to 28,107,578 Equity Shares in the Offer" (offer for sale by UPL Limited, the Promoter of Advanta). (4) "No benefit accrues to the promoter, promoter group or group companies of the Company pursuant to the Swap Transaction and the ESOP Swap Transaction." No promoter buying or pledging stated.
+- **Promoters in the parent, per the documents:** UPL 1 promoters 33.51% pre-Scheme as on Feb 20, 2026; post-Scheme (Indicative) 33.09% pursuant to Merger 1 (public 66.49% pre-Scheme, 66.91% post-Scheme); "There shall be no change in shareholding pattern of UPL 1 pursuant to Merger 2." and "UPL 1 : No change in shareholding pursuant to Demerger."
+- **What the promoters will hold in the separated entity:** UPL 2: "Details as on Feb 20, 2026 Pre-Scheme Shareholding (%) / Post-Scheme (Indicative) Shareholding (%) — Promoters 100.00 / 71.56; Public - / 28.44; Total 100.00 / 100.00" (post the Demerger and Merger 2). Upswing Trust: "Upon allotment of shares by UPL 2 pursuant to the Scheme, Upswing Trust will hold 16.78% shareholding in UPL 2, as a public shareholder." UPL 2 Promoters "have agreed to voluntarily retain their entire shareholding respectively in UPL 2 and undertake to not transfer, directly or indirectly, their respective shareholding in UPL 2 (except for any inter se transfers amongst the UPL 2 Promoters) as existing on the Listing Date until eight een months from the Listing Date." For the Advanta IPO: "Our Company is the Promoter of Advanta." and the Offer for Sale is of up to 36,105,578 Equity Shares of which "Our Company intends to offer up to 28,107,578 Equity Shares in the Offer"; the resulting post-IPO promoter percentage is not stated.
+- **What a public shareholder receives:** Demerger: "As consideration for Demerger, UPL 2 shall allot equity shares to the Eligible Shareholders 2 (as defined in the Scheme) of UPL 1 as per the share entitlement ratio below: 1 (One) equity share of UPL 2 of INR 2 each fully paid -up for every 1 (One) equity share of UPL 1 of INR 2 each fully paid -up." Merger 1: "As consideration for the Merger 1, UPL 1 shall issue equity shares to the Eligible Shareholders 1 (as defined the Scheme) as per following share exchange ratio: 1,000 (One Thousand) equity shares of UPL 1 of INR 2 each fully paid- up, for every 48 (Forty Eight) equity shares of UPL SAS of INR 10 each fully paid- up." Merger 2: "As consideration for the Merger 2, UPL 2 shall issue equity shares to the Eligible Shareholders 2 (as defined the Scheme) as per following share exchange ratio: 1,000 (One Thousand) equity shares of UPL 2 of INR 2 each fully paid- up, for every 213 (Two Hundred and Thirteen) equity shares of UPL Cayman of USD 1 each fully paid- up." "No cash consideration shall be payable under the Scheme." Advanta IPO: an offer for sale only, so UPL public shareholders receive no shares.
+- **Management incentives:** "All holders of employee stock options in UPL Corporation Ltd ., Cayman ("UPL Cayman 2") under UPL Corporation Ltd LTI Plan 2022 ("Cayman 2 ESOP Scheme") have been issued stock options in UPL Cayman 1 under a new stock option scheme viz. UCPL LTI Plan 2026 ("UCPL ESOP Scheme") in lieu of cancellation of their respective stock options under the Cayman 2 ESOP Scheme"; "the ESOP Swap Transaction (as contemplated under Clause 2.4.2 of the Scheme) has also been completed on July 31, 2026"; "1.76 % of the shares of UPL Cayman 1 are held by holders of unvested employee stock options under UCPL ESOP Scheme, in each case on a fully diluted basis (including on the assumption that all employee stock options under the UCPL ESOP Scheme have been exercised)"; pre-Swap, UPL Cayman 2 was "1.76% held by holders of unvested employee stock options under the Cayman 2 ESOP Scheme". No exercise price or pricing date is stated. "No benefit accrues to the promoter, promoter group or group companies of the Company pursuant to the Swap Transaction and the ESOP Swap Transaction."
+- **Insider actions around the separation:** "To demonstrate their continued commitment to the long- term success and growth of UPL 2 , on and from the date of listing and the commencement of trading of the equity shares of UPL 2 on the Stock Exchanges ("Listing Date"), following members of the promoter and promoter group of UPL 2 : Rajnikant Shroff, Sandra Shroff, Jaidev Shroff, Vikram Shroff, Tania Shroff, Varun Shroff, Mekhla Shroff, Nerka Chemicals Private Limited, Uniphos Enterprises Limited, Demuric Holdings Private Limited, R Shroff Consultants Private Limited, Harmonic Ventures Limited, Suresight Ventures Limited, Esthetic Finvest Private Limited and UPL Corporation Limited, Mauritius and Affiliates (as defined in the Scheme) of the above persons that hold equity shares of UPL 2 as on the Listing Date and are identified as members of the promoter and promoter group of UPL 2 (collectively, "UPL 2 Promoters"), have agreed to voluntarily retain their entire shareholding respectively in UPL 2 and undertake to not transfer, directly or indirectly, their respective shareholding in UPL 2 (except for any inter se transfers amongst the UPL 2 Promoters) as existing on the Listing Date until eight een months from the Listing Date." Also: The Upswing Trust swapped its 22.21% shareholding in UPL Corporation Ltd., Cayman Islands for shares in UPL Cayman 1 (completed July 31, 2026); UPL Limited intends to sell up to 28,107,578 Advanta shares in the Advanta offer for sale (7.8%, with KKR 2.2%); and "the Rights Issue Committee, forfeited and cancelled 2,64,278 partly paid-up equity shares of the face value of Rs. 2 each on which call money was unpaid" (February 19, 2026).
 - **Insiders, per the checklist read:** Promoters hold 100% of UPL 2 pre-Scheme, 71.56% post (33.09% of UPL 1); UPL 2 Promoters voluntarily retain entire holding, no transfer for eighteen months from Listing Date; Mike Frank to be UPL Global CEO · *option pricing date:* July 31, 2026 — ESOP Swap Transaction completed; UPL Cayman 2 option holders issued new options in UPL Cayman 1 under UCPL LTI Plan 2026 (strike/pricing not stated)
 
 ### 5. Why the demerger — point by point
@@ -758,91 +761,99 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Seeds & Post-Harvest solutions (labelled "Seeds business"/"Seeds" in FY24–FY25 reports; "Advanta" platform in quarterly decks) → Advanta Enterprises Limited** · unit ₹ crore · Profit line = Total Segment Results (EBIT-type segment result, before finance costs, unallocable items and exceptional items). Revenue shown is total segment revenue (external + intersegment; seeds had no intersegment revenue). FY2026 report reclassified post-harvest (Decco) from Crop protection into this segment and restated FY2025 (AR2025 as originally reported: revenue 4,678, result 978, assets 5,039, liabilities 2,426). FY2024 figure is pre-reclassification (seeds only). Depreciation excludes amortisation (FY2024 82, FY2025 110, FY2026 157). Entity-level share of profit of Advanta Enterprises Limited in Schedule III: FY2024 254, FY2025 18, FY2026 533.
+**UPL Global — "pure-play" crop protection (pro-forma) → UPL Global (crop protection platform; pro-forma for the listed pure-play crop protection company)** · unit ₹ crore · Only a single pro-forma revenue datapoint is given in the strategic re-organization slide (FY25 pro-forma revenue of the to-be-listed UPL Global crop protection company, ₹38,500 cr). No profit line given. This figure overlaps the UPL Corp + UPL SAS platform entries below.
 
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ crore) | 4,224 | 5,625 | 6,830 |
-| Revenue growth (%) | — | +33.2% | +21.4% |
-| Operating profit (₹ crore) | 807 | 1,070 | 1,425 |
-| Operating profit growth (%) | — | +32.6% | +33.2% |
-| Operating margin (%) | 19.1 | 19.0 | 20.9 |
-| PAT (₹ crore) | — | — | — |
-| PAT growth (%) | — | — | — |
-| Segment assets (₹ crore) | 3,888 | 6,033 | 8,107 |
-| Segment liabilities (₹ crore) | 1,807 | 2,667 | 2,847 |
-| Capital employed (₹ crore) | 2,081 | 3,366 | 5,260 |
-| Return on capital employed (%) | 38.8 | 31.8 | 27.1 |
-| Segment assets / revenue (x) | 0.9 | 1.1 | 1.2 |
-| Capex (₹ crore) | 92.0 | 100 | 174 |
+| | FY2025 |
+|---|---:|
+| Revenue (₹ crore) | 38,500 |
+| Revenue growth (%) | — |
+| Operating profit (₹ crore) | — |
+| Operating profit growth (%) | — |
+| Operating margin (%) | — |
+| PAT (₹ crore) | — |
+| PAT growth (%) | — |
 
-*Sources:* Annual Report 2024 — page 203; Annual Report 2026 — page 202
+*Sources:* Presentation Feb 2026 — page 26
 
-*Latest quarter (Q2 FY27):* revenue 1875, operating profit 510 — Presentation Nov 2026 — page 45
+*Not in the pages read:* No profit, assets, liabilities, capex, depreciation or quarterly figures for the combined UPL Global entity; only FY25 pro-forma revenue.
 
-*Not in the pages read:* No segment-level PAT; no separate Advanta annual revenue/EBITDA in decks (platform data is quarterly/half-year only).
+**UPL Corp (global crop protection platform) → UPL Global (via UPL Corp platform / UPL Global Limited; ex-India crop protection)** · unit ₹ crore · Platform P&L on pro-forma adjusted basis, without group elimination. Profit line is EBITDA (revenue less cost of goods = contribution, less SG&A); EBIT also given for Q2/H1 FY27 (Q2FY27 EBIT 542, H1FY27 EBIT 519). Revenue is platform revenue including sales to other UPL platforms (no group elimination).
 
-**UPL SAS (India Crop Protection business; proforma platform, excludes 'Nurture') → UPL Sustainable Agri Solutions Limited (UPL SAS) — India Crop Protection Business / Demerged Undertaking** · unit ₹ crore · Annual numbers available only as the entity's Schedule III "share in profit and loss" (PAT) from consolidated accounts; AR2026 restates FY2025 PAT as 206 vs 263 in AR2025. Net assets (total assets minus total liabilities) of the entity: FY2024 1,924; FY2025 2,256 (AR2026: 1,821); FY2026 1,956. No annual revenue/assets/capex are disclosed for this business. Quarterly/half-year deck figures are proforma revenue, contribution, EBITDA and EBIT: Q2FY26 rev 911 / EBITDA 207; H1FY26 rev 2,048 / EBITDA 461; H1FY27 rev 2,061 / EBITDA 553 / EBIT 532.
+| | FY2025 | FY2026 |
+|---|---:|---:|
+| Revenue (₹ crore) | 34,381 | 38,277 |
+| Revenue growth (%) | — | +11.3% |
+| Operating profit (₹ crore) | 5,026 | 6,008 |
+| Operating profit growth (%) | — | +19.5% |
+| Operating margin (%) | 14.6 | 15.7 |
+| PAT (₹ crore) | — | — |
+| PAT growth (%) | — | — |
 
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ crore) | — | — | — |
-| Revenue growth (%) | — | — | — |
-| Operating profit (₹ crore) | — | — | — |
-| Operating profit growth (%) | — | — | — |
-| Operating margin (%) | — | — | — |
-| PAT (₹ crore) | 147 | 263 | 235 |
-| PAT growth (%) | — | +78.9% | -10.6% |
+*Sources:* Presentation May 2026 — page 36
 
-*Sources:* Annual Report 2024 — page 204; Annual Report 2025 — page 206; Annual Report 2026 — page 203
+*Latest quarter (Q2 FY27):* revenue 7972, operating profit 1083 — Presentation Nov 2026 — page 36
+
+*Not in the pages read:* No PAT, segment assets, liabilities, capex or depreciation for the platform; no FY2024 platform figures.
+
+**UPL SAS — India Crop Protection Business → UPL Sustainable Agri Solutions Limited (UPL SAS)** · unit ₹ crore · Pro-forma platform P&L for the India crop protection business only, excluding 'Nurture'. Profit line is EBITDA; EBIT also given for Q2/H1 FY27 (Q2FY27 EBIT 203, H1FY27 EBIT 532). Revenue is platform revenue without group elimination. Annual-report Schedule III gives only entity-level net assets and share in profit for UPL Sustainable Agri Solutions Limited (a wider entity), not this platform's PAT.
+
+| | FY2025 | FY2026 |
+|---|---:|---:|
+| Revenue (₹ crore) | 3,229 | 3,212 |
+| Revenue growth (%) | — | -0.5% |
+| Operating profit (₹ crore) | 441 | 548 |
+| Operating profit growth (%) | — | +24.3% |
+| Operating margin (%) | 13.7 | 17.1 |
+| PAT (₹ crore) | — | — |
+| PAT growth (%) | — | — |
+
+*Sources:* Presentation May 2026 — page 45
 
 *Latest quarter (Q2 FY27):* revenue 921, operating profit 214 — Presentation Nov 2026 — page 40
 
-*Not in the pages read:* Annual revenue, EBITDA, segment assets/liabilities, capex, depreciation; only entity PAT and net assets annually, revenue/EBITDA quarterly/half-yearly.
+*Not in the pages read:* No PAT, assets, liabilities, capex or depreciation for the platform; no FY2024 platform figures.
 
-**UPL Corp (global crop protection pure-play platform) → UPL Global Sustainable Agri Solutions Limited (UPL Global Sustainable / UPL 2 / UPL Global)** · unit ₹ crore · Deck platform figures are proforma, without group elimination; profit line = EBITDA. No fiscal-year totals for UPL Corp on these pages — only quarters/half-years: Q2FY26 rev 8,625 / EBITDA 1,260; H1FY26 rev 14,582 / EBITDA 1,646; H1FY27 rev 14,345 (Q2FY27 EBITDA not given). Contribution: Q2FY26 3,024; H1FY26 5,096. The legal entity UPL Global Sustainable Agri Solutions Limited (FKA UPL Agri Science Private Ltd) shows in Schedule III only net assets ₹(3) cr and share of loss ₹(3) cr for FY2026 (FY2025: 0/0), i.e. no operations yet (Annual Report 2026 — page 203).
+**Advanta — seeds and post-harvest (Decco included) → Advanta Enterprises Limited** · unit ₹ crore · Pro-forma platform P&L; Advanta figures for current and comparative periods reflect the acquisition of Decco under common control. Profit line is EBITDA; EBIT also given for Q2/H1 FY27 (Q2FY27 EBIT 429, H1FY27 EBIT 714). Revenue without group elimination. Schedule III of the annual reports gives entity-level net assets / share in profit for Advanta Enterprises Limited (March 31, 2026: net assets 10,530, share in profit 533; March 31, 2025: 5,704 and 18 as restated, 1,238 and 383 as first reported) — entity contributions to consolidation, not this platform's PAT.
 
-| | FY2024 | FY2025 | FY2026 |
+| | FY2025 | FY2026 |
+|---|---:|---:|
+| Revenue (₹ crore) | 5,566 | 6,837 |
+| Revenue growth (%) | — | +22.8% |
+| Operating profit (₹ crore) | 1,325 | 1,725 |
+| Operating profit growth (%) | — | +30.2% |
+| Operating margin (%) | 23.8 | 25.2 |
+| PAT (₹ crore) | — | — |
+| PAT growth (%) | — | — |
+
+*Sources:* Presentation May 2026 — page 50
+
+*Latest quarter (Q2 FY27):* revenue 1875, operating profit 510 — Presentation Nov 2026 — page 45
+
+*Not in the pages read:* No platform PAT, assets, liabilities, capex or depreciation; no FY2024 platform figures.
+
+**Specialty Chemicals business (Discontinued Operations, UPL Limited standalone slump sale) → Superform Chemistries Limited (FKA UPL Speciality Chemicals Limited) — not one of the entities named in the question** · unit ₹ crore · UPL Limited standalone discontinued-operations disclosure under Ind AS 105 for the business transferred to Superform on December 1, 2024. Revenue is revenue from operations (gross, i.e. includes inter-segment: FY2024 inter-segment revenue of 1,456 is shown separately). Profit lines: profit before exceptional items and tax (FY2024 401; FY2023 615), profit before tax (FY2024 422; FY2023 603) and profit after tax, reported in pat. Assets/liabilities are assets held for sale and liabilities held for transfer at the year-end; depreciation is depreciation and amortisation expense.
+
+| | FY2023 | FY2024 | n/a |
 |---|---:|---:|---:|
-| Revenue (₹ crore) | — | — | — |
-| Revenue growth (%) | — | — | — |
+| Revenue (₹ crore) | 11,852 | 8,821 | 7,008 |
+| Revenue growth (%) | — | -25.6% | -20.6% |
 | Operating profit (₹ crore) | — | — | — |
 | Operating profit growth (%) | — | — | — |
 | Operating margin (%) | — | — | — |
-| PAT (₹ crore) | — | 0.0 | -3.0 |
-| PAT growth (%) | — | — | — |
-
-*Sources:* Annual Report 2026 — page 203
-
-*Latest quarter (Q2 FY27):* revenue 7972, operating profit None — Presentation Nov 2026 — page 37
-
-*Not in the pages read:* No annual UPL Corp revenue/EBITDA/assets/liabilities/capex/depreciation; Q2FY27 EBITDA absent; recipient entity itself carries only net assets and loss figures.
-
-**Speciality Chemical business / discontinued operations (deck platform: "SUPERFORM") → Superform Chemistries Limited (FKA UPL Speciality Chemicals Limited) — not among the entities named above; Speciality Chemicals business slump-sold out of UPL Limited standalone on 1 Dec 2024** · unit ₹ crore · Standalone discontinued-operations disclosure under Ind AS 105: revenue from operations is gross (includes inter-segment ₹1,456 cr in FY2024, ₹1,117 cr in FY2025); profit line shown is profit before exceptional items and tax, plus PAT. FY2025 covers only 1 Apr–30 Nov 2024 (8 months, to transfer date) — not a full year. AR2025 restates FY2024 as revenue 8,819, PAT 299, assets 8,687. Assets/liabilities are those classified as held for sale/transfer. Deck SUPERFORM platform (proforma): Q2FY26 rev 2,799 / EBITDA 380; H1FY26 rev 5,357 / EBITDA 713.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ crore) | 8,821 | 7,008 | — |
-| Revenue growth (%) | — | -20.6% | — |
-| Operating profit (₹ crore) | 401 | 339 | — |
-| Operating profit growth (%) | — | -15.5% | — |
-| Operating margin (%) | 4.5 | 4.8 | — |
-| PAT (₹ crore) | 317 | 296 | 166 |
-| PAT growth (%) | — | -6.6% | -43.9% |
-| Segment assets (₹ crore) | 8,861 | 9,534 | — |
-| Segment liabilities (₹ crore) | 3,665 | 3,399 | — |
-| Capital employed (₹ crore) | 5,196 | 6,135 | — |
-| Return on capital employed (%) | 7.7 | 5.5 | — |
-| Segment assets / revenue (x) | 1.0 | 1.4 | — |
+| PAT (₹ crore) | 402 | 317 | 296 |
+| PAT growth (%) | — | -21.1% | -6.6% |
+| Segment assets (₹ crore) | 9,334 | 8,861 | 9,534 |
+| Segment liabilities (₹ crore) | 5,641 | 3,665 | 3,399 |
+| Capital employed (₹ crore) | 3,693 | 5,196 | 6,135 |
+| Return on capital employed (%) | — | — | — |
+| Segment assets / revenue (x) | 0.8 | 1.0 | 1.4 |
 | Capex (₹ crore) | — | — | — |
 
-*Sources:* Annual Report 2024 — pages 152-153; Annual Report 2026 — page 153; Annual Report 2026 — page 203
+*Sources:* Annual Report 2024 — page 152 (assets/liabilities page 153); Annual Report 2026 — page 153 (also Annual Report 2025 — page 151)
 
-*Latest quarter (Q2 FY26):* revenue 2799, operating profit 380 — Presentation Nov 2025 — pages 13, 16
+*Not in the pages read:* Year left null for the stub period April 1 to November 30, 2024 (8 months to transfer date); assets/liabilities there are those transferred on December 1, 2024. No capex, no quarterly split.
 
-*Not in the pages read:* Capex not given; FY2025 is 8 months only; FY2026 has only entity share of profit (166) and net assets (3,198), no revenue.
-
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* UPL Crop Protection Holdings Limited — no figures on any supplied page. UPL Global Sustainable Agri Solutions Limited carries only net assets and a small loss, no revenue.
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* No numbers at all for: 'Dedicated pure-play crop', 'Seeds and post-harvest' as a named entity, 'Demerged Undertaking', 'UPL 2', 'UPL Crop Protection Holdings Limited', 'UPL Cayman 1', and 'UPL Global Sustainable Agri Solutions Limited' beyond Schedule III net assets/profit.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/eb12d677-50d7-4495-9f5f-1921ef482847.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/16ebc6c3-a363-4437-b10d-8e0dfedb9483.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8ee29f18-2108-4736-a8f1-7e012f32ce56.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e2744e2f-a37b-4275-8a9c-599b8af670da.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f0f3bf4-eb2a-4b8e-85a4-fa1b252aa4f1.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=423093cb-ab1a-4288-abdc-894653fabf37.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6bcd0819-5ddb-4516-a762-f7a1141762db.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f944762-33b2-41d9-9bc3-aab7d950cfc9.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=199792f5-db4d-43f8-bca8-9fc46e15e9b3.pdf)
 
@@ -850,13 +861,13 @@ xychart-beta
 
 | Metric (latest year) | Parent (UPL) | UPL Global Sustainable Agri Solutions Limited | Advanta Enterprises Limited |
 |---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Seeds & Post-Harvest solutio…* | *segment numbers (Seeds & Post-Harvest solutio…* |
+| *Basis* | *reported, consolidated* | *segment numbers (UPL Global — "pure-play" cro…* | *segment numbers (UPL Corp (global crop protec…* |
 | Sales (₹ cr) | 51,839 (Mar 2026) | — | — |
-| Sales growth (%) | 11.2 (Mar 2026) | 21.4 (FY2026) | 21.4 (FY2026) |
-| Operating margin (%) | 17.5 (Mar 2026) | 20.9 (FY2026) | 20.9 (FY2026) |
-| Operating profit growth (%) | 27.4 (Mar 2026) | 33.2 (FY2026) | 33.2 (FY2026) |
+| Sales growth (%) | 11.2 (Mar 2026) | — | 11.3 (FY2026) |
+| Operating margin (%) | 17.5 (Mar 2026) | — | 15.7 (FY2026) |
+| Operating profit growth (%) | 27.4 (Mar 2026) | — | 19.5 (FY2026) |
 | PAT margin (%) | 4.3 (Mar 2026) | — | — |
-| ROCE % | 10 (Mar 2026) | 27.1 (FY2026) | 27.1 (FY2026) |
+| ROCE % | 10 (Mar 2026) | — | — |
 | Debtor Days | 126 (Mar 2026) | — | — |
 | Inventory Days | 179 (Mar 2026) | — | — |
 | Days Payable | 169 (Mar 2026) | — | — |
@@ -864,9 +875,8 @@ xychart-beta
 | Working Capital Days | 5 (Mar 2026) | — | — |
 | Debt / equity (x) | 0.7 (Mar 2026) | — | — |
 | Borrowings (₹ cr) | 23,576 (Mar 2026) | — | — |
-| Segment assets / revenue (x) | — | 1.2 (FY2026) | 1.2 (FY2026) |
-| Sales (₹ crore) | — | 6,830 (FY2026) | 6,830 (FY2026) |
-| Sales (₹ crore) | — | 6,830 (FY2026) | 6,830 (FY2026) |
+| Sales (₹ crore) | — | 38,500 (FY2025) | 38,277 (FY2026) |
+| Sales (₹ crore) | — | 38,500 (FY2025) | 38,277 (FY2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -874,17 +884,21 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Crop protection | 42,206 | 13.6% | 12.3% | 1.66x | ₹ crore | FY2026 |
+| Crop protection | 42,399 | 13.5% | 12.3% | 1.66x | ₹ crore | FY2026 |
+| Seeds & Post-Harvest solutions (labelled 'Seeds business' in AR2024, 'Seeds' in AR2025) | 6,830 | 20.9% | 27.1% | 1.19x | ₹ crore | FY2026 |
 | Non-Agro | 2,803 | 12.3% | 21.4% | 0.77x | ₹ crore | FY2026 |
-| UPL Limited consolidated (total of all platforms; parent remains listed) | 51,839 | 18.5% | 23.2% | 1.84x | ₹ crore | FY2026 |
+| SUPERFORM (specialty chemicals platform: AI = active ingredients for UPL Corp and UPL SAS, plus SSC = super specialty chemicals sold externally) | 10,298 | 12.2% | — | — | ₹ crore | FY2026 |
+| UPL Limited consolidated (all segments together) | 51,839 | 18.5% | 23.2% | 1.84x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **other** — parent / remaining: UPL 1 turnover INR 53,313 Mn and net worth INR 120,210 Mn (audited standalone, year ended / as on March 31, 2025); separated business: UPL SAS (India Crop Protection business) turnover INR 24,120 Mn and net worth INR 22,016 Mn; UPL Cayman (Global Crop Protection business) turnover USD 4,187 Mn and net worth USD 1,599 Mn; UPL 2 turnover Nil and net worth INR 0.02 Mn “Turnover of the Demerged Undertaking (as defined in the Scheme) (INR Mn) 24,120 | % of Turnover of UPL 1* 31.15%”
-- **debt and leverage** — parent / remaining: The group frames the reorganization as strengthening its financial foundation and driving deleveraging, balance sheet strength and improved return metrics (group net debt/EBITDA reduced from 4.6x in FY24 to 2.1x in FY25 and below 1.6x in FY26, as stated on the Capital Markets Day call); separated business: Debt or leverage of the demerged / separated crop protection business is not stated separately “By driving deleveraging, reinforcing balance sheet strength, and improving return metrics, we are creating a sharper, more focused organization designed to deliver sustainable long-term value for all shareholders.”
-- **other** — parent / remaining: UPL 1 will be able to raise capital independently and optimize its own capital structure; separated business: UPL 2 will be able to raise capital independently and build a wider capital and financial base by attracting a different set of investors, strategic partners, lenders and stakeholders “The Scheme will allow UPL 1 and UPL 2 to raise capital independently, allowing each entity to optimize its capital structure and pursue business opportunities more efficiently and effectively.”
-- **growth** — parent / remaining: Businesses remaining with UPL 1: Advanta grew FY26 revenue 23% (INR 6,837 crore); SUPERFORM FY26 revenue INR 10,298 crore, growing 1% year-on-year with super specialty segment up 20%; separated business: Crop protection businesses going to UPL 2: UPL Corp (global crop protection) FY26 top line up 11%; UPL SAS (India crop protection) FY26 revenue flat because of the monsoon effect “UPL Corp, which is our global crop protection business, grew their top line by 11% amidst all the global certainty and the macro impact.”
-- **operating margin** — parent / remaining: SUPERFORM (remaining with UPL 1) FY26 EBITDA margin 12.2%, expanding by over 100 basis points; Advanta FY26 EBITDA margin about 25%; separated business: UPL Corp (global crop protection, going to UPL 2) FY26 contribution margin 31.5%, up more than 250 basis points, with EBITDA up 20% and margins expanding over 100 basis points “For the full year, we delivered 11% revenue growth year-on-year, driven by industry-leading volume growth across herbicides and fungicides. Contribution margins grew by more than 250 basis points to 31.5% versus FY25.”
+- **other** — parent / remaining: UPL 1 remains an existing listed company operating as a diversified platform encompassing agriculture and specialty chemical businesses while incubating and developing new businesses and verticals; separated business: UPL 2 will be a dedicated pure-play crop protection platform consolidating the India Crop Protection Business (UPL SAS) and the Global Crop Protection Business (UPL Cayman), with independent management “The Scheme proposes to consolidate the India Crop Protection Business held in UPL SAS and Global Crop Protection Business held in UPL Cayman, under a single entity, creating a focused, pure- play crop protection platform. This integrated business will benefit from a strong manufacturing base, advanced research capabilities, a broad portfolio of registered products and brands across multiple geo graphies and independent management.”
+- **other** — parent / remaining: Turnover of UPL 1 for the year ended March 31, 2025 was INR 53,313 Mn with net worth of INR 120,210 Mn (audited standalone); separated business: The Demerged Undertaking (India Crop Protection Business) had turnover of INR 24,120 Mn, being 31.15% of UPL 1's turnover; UPL Cayman had turnover of USD 4,187 Mn and net worth of USD 1,599 Mn “Turnover of the Demerged Undertaking (as defined in the Scheme) (INR Mn) % of Turnover of UPL 1* 24,120 31.15%”
+- **capex and capital intensity** — parent / remaining: The Scheme will allow UPL 1 to raise capital independently and optimize its capital structure; separated business: The Scheme will allow UPL 2 to raise capital independently, build a wider capital and financial base and attract a different set of investors, strategic partners, lenders and stakeholders “The Scheme will allow UPL 1 and UPL 2 to raise capital independently, allowing each entity to optimize its capital structure and pursue business opportunities more efficiently and effectively.”
+- **debt and leverage** — parent / remaining: Group CFO states the structural simplification drives deleveraging, reinforces balance sheet strength and improves return metrics; FY26 gross debt down $850 million to $2.3 billion, net debt $1.6 billion, net debt/EBITDA below 1.6x versus 4.6x in FY24; separated business: not stated “Bikash Prasad, Group CFO of UPL, said, "This structural simpliﬁcation strengthens our ﬁnancial foundation and accelerates our journey towards a more eﬃcient an d resilient UPL. By driving deleveraging, reinforcing balance sheet strength, and improving return metrics, we are creating a sharper, more focused organization designed to deliver sustainable long- term value for all shareholders ."”
+- **growth** — parent / remaining: UPL Limited consolidated revenue from operations of INR 51,839 crore and EBITDA growth of 18% in FY26; segment revenue FY26 — Crop protection INR 42,399 crore, Seeds & Post harvest INR 6,830 crore, Non agro INR 2,803 crore; separated business: UPL Corp (global crop protection) FY26 revenue growth 11% with contribution margin up more than 250 basis points to 31.5% and EBITDA growth of 20%; UPL SAS India crop protection revenue flat with contribution up 19% and EBITDA up 24% “For the full year, we delivered 11% revenue growth year -on-year, driven by industry-leading volume growth across herbicides and fungicides. Contribution margins grew by more than 250 basis points to 31.5% versus FY25.”
+- **other** — parent / remaining: Separation is expected to enable clearer value discovery and give investors flexibility to choose between the diversified platform and the pure-play platform; separated business: UPL Global is described as creating the world's second largest listed pure-play crop protection platform with a presence in more than 140 countries “Mik e Fr ank, CE O of UPL Global, added , "Bringing our crop protection businesses under one platform creates the world's second largest listed pure- play crop protection platform.”
+- **other** — parent / remaining: An investor at the Capital Markets Day objected that the announced reorganization is detrimental to existing UPL shareholders and could trigger a holding-company discount; management said feedback will be presented to the Board; separated business: Management stated at least 10 different structures were reviewed before arriving at this structure, and that the purpose is to unlock value at each platform level “By going to a structure, and before we come to conclusion on this structure, it has been discussed, reviewed by our advisors, and we have looked at least 10 different structures to come up to this structure.”
 
 **The checklist:**
 

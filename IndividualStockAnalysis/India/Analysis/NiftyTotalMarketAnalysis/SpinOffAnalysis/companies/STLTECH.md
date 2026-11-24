@@ -8,9 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **STL Networks Limited** | Global Services Business (brand 'Invenia'): system integration telecom network solutions, turn-key private ne… | listed 2025-09-04 as STLNETWORK (NSE) | Mr. Pankaj Malik, CEO of STL Networks |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **STL Networks Limited** | 2023 demerger of the Global Services Business into STL Netw… | Global Services Business: system integration telecom network solutions and laying/developing private network … | listed 2025-09-04 as STLNETWORK (NSE) | Mr. Pankaj Malik, CEO of STL Networks |
 
 **What is being separated, as the documents put it:** STL's Global Services Business (system integration / services arm), demerged out of Sterlite Technologies into a separate company — class `unrelated`.
 
@@ -20,20 +20,21 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2023-04-01 | Appointed date — Scheme of Arrangement | as stated: NCLT order dated 14.02.2025: "The Appointed Date is fixed as 01.04.20… |
-| 2023-05-17 | Board approval — Sterlite Technologies Limited and STL Networks Limited | as stated: NCLT order dated 14.02.2025 (filed 2025-02-19): "The Board of Directo… |
-| 2023-09 | Exchange no-objection — Sterlite Technologies Limited | as stated: Investor presentation "Global Services demerger status", Q4 & FY25 ea… |
-| 2024-04-17 | Other — NCLT order directing convening of meetings of shareholders and creditors | as stated: NCLT order dated 14.02.2025 (filed 2025-02-19) referring to order dat… |
-| 2024-07-10 | Shareholders / creditors meeting — Sterlite Technologies Limited (equity shareholders, secured and unsecured creditors) | as stated: Press release "STL crosses a key milestone towards its Global Service… |
-| 2025-02-14 | NCLT order — NCLT Mumbai Bench C-IV, C.P.(CAA)/193/MB/2024 c/w CA(CAA)/24/MB/2024 | as stated: Filing dated February 19, 2025 - "NCLT Order approving Scheme of Arra… |
+| 2023-04-01 | Appointed date | as stated: NCLT order dated February 14, 2025 ("The Appointed Date is fixed as 0… |
+| 2023-05-17 | Board approval — Sterlite Technologies Limited and STL Networks Limited | as stated: NCLT order dated February 14, 2025 ("approved the Scheme in their res… |
+| 2023-09 | Exchange no-objection | as stated: Q4 & FY25 earnings presentation, May 16, 2025 ("Stock Exchange Filing… |
+| 2024-04-17 | Other | as stated: NCLT order dated February 14, 2025 — NCLT order in C.A.(CAA)/24/MB/20… |
+| 2024-07-10 | Shareholders / creditors meeting — Sterlite Technologies Limited | as stated: Press release dated July 12, 2024 ("At the National Company Law Tribu… |
+| 2024-12-03 | Other | as stated: NCLT order dated February 14, 2025 — Report of the Regional Director … |
+| 2025-02-14 | NCLT order | as stated: Filing dated February 19, 2025 — NCLT, Mumbai Bench order C.P.(CAA)/1… |
 | 2025-02-19 | Stage reached: **nclt sanction** | [Action(s) initiated or orders passed](https://nsearchives.nseindia.in/corporate/STLTECH_19022025170318_SEIntimationNCLTorder_signed.pdf) |
-| 2025-02-19 | Filed with exchanges — Sterlite Technologies Limited | as stated: Regulation 30 intimation to NSE and BSE, February 19, 2025, enclosing… |
-| 2025-03-31 | Effective date — Scheme of Arrangement (close of business hours of March 31, 2025); certified copy of NCLT order filed with jurisdictional Registrar of Companies on March 31, 2025 | as stated: Filing dated March 31, 2025 (receipt of certified copy of NCLT order)… |
+| 2025-03-31 | Other | as stated: Filing dated March 31, 2025 — "the certified copy of the said Order h… |
+| 2025-03-31 | Effective date | as stated: Filing dated April 10, 2025 ("the Scheme is effective from the close … |
 | 2025-04-24 | **Record date** | NSE corporate-actions register |
 | 2025-04-24 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2025-04-24 | Record date — STL Networks Limited equity share entitlement | as stated: Filing dated April 10, 2025 - "Updates and disclosures in connection … |
-| 2025-06 | Listing and trading — STL Networks Limited (Resulting Company) - expected June / July 2025, i.e. Q1 FY26 | as stated: Investor presentation, Q4 & FY25 earnings call, May 16, 2025: "Listin… |
+| 2025-04-24 | Record date — STL Networks Limited | as stated: Filing dated April 10, 2025 ("Thursday, April 24, 2025, has been fixe… |
 | 2025-09-04 | **STL Networks Limited** listed (STLNETWORK) | NSE equity list |
+| 2025-09-04 | Listing and trading — STL Networks Limited | as stated: NSE equity list (exchange record); the Q4 & FY25 earnings presentatio… |
 
 **The stages, as filed:** nclt sanction (2025-02-19) → record date (2025-04-24)
 
@@ -47,11 +48,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| STL Networks Limited | Revenue From Operations 1,617 (STL Networks (Resulting Co) … | — | 35.7% (FY2024) | 2,226 | 5.7% | no |
+| STL Networks Limited | "Revenue From Operations" STL Networks (Resulting Co) Post … | — | 35.7% (FY2024) | 2,226 | 5.7% | no |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹36,537 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “Annexure P2 - Consolidated balance sheet as on March 31, 2023 (all figures are in INR crores): "Revenue From Operations" STL (Demerged Co) Pre Demerger 7,020 / STL (Demerged Co) Post Demerger 5,403 / STL Networks (Resulting Co) Post Demerger 1,617; "PAT" 127 / 107 / 19; "Total Assets" 8,864 / 5,830 / 3,034. Apportionment of Cost of Acquisition of Equity Shares: "Sterlite Technologies Limited 42.23" and "STL Networks Limited 57.77". Rationale states: "The Demerged Undertakings and the Remaining Undertaking have both achieved scale and experience to sustain business independently in terms of profitability, turnover, order book, customer profile, talent, etc."”
+**In the documents' words:** “Annexure P2 - Consolidated balance sheet as on March 31, 2023 (all figures are in INR crores): "Revenue From Operations" STL (Demerged Co) Pre Demerger 7,020 / STL (Demerged Co) Post Demerger 5,403 / STL Networks (Resulting Co) Post Demerger 1,617; "PAT" 127 / 107 / 19; "Total Assets" 8,864 / 5,830 / 3,034; "Total Equity" 2,095 / 972 / 1,123. Apportionment of cost of acquisition of equity shares consequent upon demerger: "1. Sterlite Technologies Limited 42.23" and "2. STL Networks Limited 57.77" (% of Cost of Acquisition of Equity Shares).”
 
 **The judge's read of selling pressure:** unclear — Documents give no size, shareholding, index or float details for STL Networks Limited
 
@@ -59,7 +60,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **STL Networks Limited:** "1 (one) fully paid up equity share of Rs. 2/- (Rupees Two only) each of the Resulting Company shall be issued and allotted for every 1 (one) fully paid up equity shares of Rs. 2/- (Rupees Two only) each held in the Demerged Company" ("Share Entitlement Ratio")
+- **STL Networks Limited:** "1 (one) fully paid-up equity shares of Rs. 2 (Two Rupees Only) each of the Resulting Company for every 1 (one) fully paid-up equity shares of Rs. 2 (Two Rupees Only) each held in the Demerged Company"
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -70,11 +71,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** "Pursuant to the QIP issue promoter's shareholding in the Company has been reduced from 53.98% to 44.18%." (as stated in the audited FY25 results approved May 16, 2025, and in the results for the nine months ended December 31, 2024); exact shareholding date not stated
-- **What the promoters will hold in the separated entity:** Mirror shareholding: "Further, pursuant to the Scheme, the shareholders of the Company on the record date have been issued equity shares of STL Networks Limited in the same proportion as their holding in The Company." and "Pursuant to the Scheme, all the shareholders of Demerged Company will get new shares in the Resulting Company, in the ratio of 1:1 i.e. 1 share of the Resulting Company for 1 share held in the Demerged Company, and there would be no change in the economic interest for any shareholder of Demerged Company pre and post Scheme in the Demerged Undertaking."
-- **What a public shareholder receives:** "1 (one) fully paid-up equity shares of Rs. 2 (Two Rupees Only) each of the Resulting Company for every 1 (one) fully paid-up equity shares of Rs. 2 (Two Rupees Only) each held in the Demerged Company", to shareholders on the Record Date (i.e. April 24, 2025); "the Resulting Company Equity Shares shall be issued in dematerialised form"; "the demerger is tax neutral in the hands of shareholders of the Demerged Company under the IT Act in view of the exemption granted under Section 47(vid) of the IT Act"; "No economic interest of any shareholder of the Demerged Company would change post-demerger."
+- **Promoters in the parent, per the documents:** "Pursuant to the QIP issue promoter's shareholding in the Company has been reduced from 53.98% to 44.18%." (disclosed in the audited financial results for the year ended March 31, 2025, filed May 16, 2025); no promoter and promoter group holding percentage as of any specific date is otherwise stated.
+- **What the promoters will hold in the separated entity:** Mirror shareholding, stated as: "Further, pursuant to the Scheme, the shareholders of the Company on the record date have been issued equity shares of STL Networks Limited in the same proportion as their holding in The Company." and "Pursuant to the Scheme, all the shareholders of Demerged Company will get new shares in the Resulting Company, in the ratio of 1:1 i.e. 1 share of the Resulting Company for 1 share held in the Demerged Company, and there would be no change in the economic interest for any shareholder of Demerged Company pre and post Scheme in the Demerged Undertaking." The specific promoter percentage in STL Networks Limited is not stated.
+- **What a public shareholder receives:** "1 (one) fully paid-up equity shares of Rs. 2 (Two Rupees Only) each of the Resulting Company for every 1 (one) fully paid-up equity shares of Rs. 2 (Two Rupees Only) each held in the Demerged Company", issued to shareholders "whose names were recorded in the register of members and / or records of the depository as on the Record Date (i.e. April 24, 2025)"; "with shareholders receiving 1:1 share entitlement based on holdings as of April 24, 2025"; shares "shall be issued in dematerialised form"; and "the demerger is tax neutral in the hands of shareholders of the Demerged Company under the IT Act in view of the exemption granted under Section 47(vid) of the IT Act."
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** No promoter or management buying, selling or pledging stated. The documents state only that the Company issued 88,456,435 equity shares of face value Rs. 2 each at an issue price of INR 113.05 per equity share pursuant to a Qualified Institutions Placement, and "Pursuant to the QIP issue promoter's shareholding in the Company has been reduced from 53.98% to 44.18%. The management does not expect any material impact on account of the change in the promoter's shareholding."
+- **Insider actions around the separation:** No promoter or management buying, selling or pledging around the separation is stated. The documents state only dilution through capital raising: "During the year ended March 31, 2025, the Company has issued 88,456,435 equity shares of face value 2 each at an issue price of INR 113.05 per equity share pursuant to Qualified Institutions Placement (QIP)... Pursuant to the QIP issue promoter's shareholding in the Company has been reduced from 53.98% to 44.18%. The management does not expect any material impact on account of the change in the promoter's shareholding." A later raise is reported on the Q1 FY27 call (July 24, 2026): "STL successfully completed a landmark QIP of INR 1,500 crores... strengthening our institutional holdings to a fresh historic high of 33%."
 - **Insiders, per the checklist read:** Not stated for STL Networks. In the parent, promoter Twin Star Overseas Limited held 42.90%, rising to 47.75% fully diluted on exercise of 4,53,00,000 warrants at Rs.110; ultimate beneficial owner Mr. Anil Agarwal · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -392,7 +393,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/STLNETWORK.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Global service business (GSB) - Fiber roll out, end to end system integration and network deployment → STL Networks Limited** · unit ₹ crore · Operating profit = Segment Result (EBITDA) as reported to the CODM, excluding finance cost, depreciation/amortisation and exceptional items. Revenue shown is total segment revenue, which for GSB equals external turnover (inter-segment nil). Per AR2024 p311 the GSB segment information excludes the active and passive infrastructure business (restated for the proposed demerger). No PAT, capex or depreciation is disclosed per segment. Demerged to STL Networks Limited under the NCLT-approved Scheme, effective in FY2025, after which GSB ceased to be a reported segment (AR2025 p221, p303-304).
+**Global service business (GSB) — fibre roll out, end to end system integration and network deployment ("Global Services Business" / STL's Global Services) → STL Networks Limited** · unit ₹ crore · Profit line is Segment Results = EBITDA, the CODM measure from continuing operations (excludes finance cost, depreciation/amortisation, exceptional items). Revenue shown is external turnover; GSB had no inter-segment revenue (external = total). Segment information was restated to exclude the active and passive infrastructure business given the proposed demerger. From FY2025 GSB is a discontinued operation and is no longer a reported segment, so no FY2025/FY2026 segment figures exist.
 
 | | FY2023 | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|---:|
@@ -410,11 +411,11 @@ xychart-beta
 | Segment assets / revenue (x) | 1.9 | 1.8 | — | — |
 | Capex (₹ crore) | — | — | — | — |
 
-*Sources:* Annual Report 2024 — page 312; Annual Report 2024 — pages 311, 312; Annual Report 2025 — page 303 (GSB no longer a reported segment post-demerger; FY2024 comparatives reclassified to exclude it); Annual Report 2026 — page 316 (only ONB and Digital segments reported)
+*Sources:* Annual Report 2024 — page 312; Annual Report 2024 — pages 311, 312; Annual Report 2025 — pages 303, 304 (GSB removed; discontinued operation, no segment figures); Annual Report 2026 — pages 316, 317 (only ONB and Digital reported)
 
-*Not in the pages read:* No PAT, capex or depreciation for GSB; no FY2025/FY2026 or quarterly GSB figures; no standalone STL Networks Limited financials on these pages.
+*Not in the pages read:* No PAT, capex or depreciation by segment (depreciation not reported to CODM per segment); no quarterly GSB numbers; no standalone STL Networks Limited financials.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* No figures for STL Networks Limited as an entity, nor separate numbers for the system integration business or "STL's Global Services" — both are described within the GSB segment only.
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* STL Networks Limited has no own/standalone financials in these pages — the only numbers for the separated business are the GSB segment figures (FY2023–FY2024). "System integration business" and "STL's Global Services" are the same GSB segment.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/dd5015f0-cbf9-4237-b96c-b72ded707e24.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9eba76df-44d9-4671-bf2d-295c595e3bc3.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ee8fb42e-4384-4307-93a2-4d519f619064.pdf); [Presentation Oct 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=22dd005a-d464-49ac-a22a-db0a1eeeb0fa.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ffa18a79-e103-49db-ba78-2e6d478a9a9a.pdf); [Presentation May 2026](https://stl.tech/wp-content/uploads/2026/05/Investor-Earnings-Presentation.pdf); [Presentation Jan 2026](https://stl.tech/wp-content/uploads/2026/01/Investor-Earnings-Presentation-1.pdf); [Presentation Nov 2025](https://stl.tech/wp-content/uploads/2025/11/Earnings-call_Presentation-Q2_FY26.pdf); [Presentation May 2025](https://nsearchives.nseindia.com/corporate/STLTECH_17052025150212_SEintimationQ4FY25Earningscalloutcome_signed.pdf)
 
@@ -443,19 +444,19 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Optical networking business (ONB) - Designing and Manufacturing of optical fibre, cables and optical interconnect products (the "Remaining undertaking: Optical") | 4,486 | 13.5% | 17.7% | 1.2x | ₹ crore | FY2026 |
-| Digital and technology solutions (Digital) - Enabling digital transformation of telcos and enterprises | 284 | 1.1% | -135.3% | 0.65x | ₹ crore | FY2026 |
+| Optical networking business (ONB) | 4,486 | 13.5% | 17.7% | 1.2x | ₹ crore | FY2026 |
+| Digital and technology solutions (Digital) — STL Digital | 284 | 1.1% | -135.3% | 0.65x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **debt and leverage** — parent / remaining: Post-demerger, post-QIP net debt INR 1,350 Cr and net debt:equity of 0.68 times at FY25, improved from 1.39 times; of pre-demerger borrowings, non-current 847 and current 2,296 stayed with STL (31 March 2023); separated business: STL Networks (Resulting Co) Post Demerger carried non-current Borrowings 155 and current Borrowings 369 (31 March 2023, INR crores) “Our Net Debt: Equity has improved to  0.68 times against 1.39 times post demerger and Post QIP (YoY).”
-- **capex and capital intensity** — parent / remaining: Capital-intensive manufacturing: Property, Plant and Equipment 2,807 and Capital work-in-progress 129 retained by STL (Demerged Co) Post Demerger, 31 March 2023; separated business: Asset-light services: Property, Plant and Equipment 47 and Capital work-in-progress -0 went to STL Networks (Resulting Co) Post Demerger “Property, Plant and Equipment                            2,854                            2,807                                    47”
-- **working capital** — parent / remaining: STL (Demerged Co) Post Demerger retained Trade receivables 783 and Contract Assets -0 (31 March 2023); separated business: STL Networks (Resulting Co) Post Demerger took Trade receivables 1,039 and the entire Contract Assets 1,416, with Trade payables 1,156 and Contract Liabilities 145 “Contract Assets                            1,416                                   -0                              1,416”
-- **operating margin** — parent / remaining: Optical networking business segment EBITDA 621 on segment revenue 3,830 for the year ended Mar 24 (and 464 on 3,741 in FY25); Digital and technology solutions EBITDA (83) on 298; separated business: Global services business segment EBITDA 110 on segment revenue 1,456 for the year ended Mar 24 “Global services business                                                                                                                                                        1,456 ... 110”
-- **growth** — parent / remaining: Continuing operations revenue INR 3,996 Cr in FY25 vs INR 4,083 Cr in FY24; EBITDA INR 452 Cr vs INR 527 Cr; FY25 PAT loss INR -123 Cr; separated business: Presented as discontinued operations: loss of INR 51 crores in FY25 against a profit of INR 14 crores in FY24 “Profit ( loss ) from discontinued operations11 -9 -45 14 -51”
-- **cash** — parent / remaining: Cash and cash equivalents 400 retained by STL (Demerged Co) Post Demerger (31 March 2023); consolidated cash and cash equivalents of INR 396 crores at 31 March 2025 after transfer under the Scheme; separated business: Cash and cash equivalents 50 to STL Networks (Resulting Co) Post Demerger (31 March 2023); INR 212 crores of consolidated cash (INR 200 crores standalone) transferred pursuant to the Scheme of Demerger in FY25 “Less: Cash and cash equivalents transferred pursuant to Scheme of Demerger (refer note 5) (212)”
-- **tax** — parent / remaining: Demerger satisfies Section 2(19AA) of the Income-tax Act, 1961; cost of acquisition of STL shares deemed reduced by the cost of acquisition of STL Networks shares (Section 49(2D)); separated business: Date of acquisition of STL Networks shares is the date of acquisition of the original STL shares; cost of acquisition per Section 49(2C) in the proportion 57.77% “The above-menƟoned demerger envisaged under the Scheme saƟsﬁes all condiƟons under SecƟon 2(19AA) of the Income-tax Act, 1961 ("IT Act") and hence, the demerger is tax neutral in the hands of shareholders of the Demerged Company under the IT Act in view of the exempƟon granted under SecƟon 47(vid) of the IT Act.”
-- **other** — parent / remaining: STL retains Optical Networking and Digital; "Rahul Puri will lead as the CEO of Optical Networking Business at STL"; separated business: STL Networks takes the ~INR 2,600 Cr BharatNet Jammu & Kashmir project and over 1.35 lakh km of deployed Optical Fibre network across 23 states; led by Pankaj Malik “Over 1.35 lakh km of Optical Fibre network have been deployed nationwide in 23 states, positioning STL Networks as a trusted partner for delivering critical connectivity solutions.”
+- **growth** — parent / remaining: Optical networking business segment revenue INR 3,830 crores in FY24 and INR 3,741 crores in FY25; digital and technology solutions INR 298 crores FY24 and INR 290 crores FY25; separated business: Global services business segment revenue INR 1,456 crores in FY24 and INR 1,000 crores for the nine months ended December 31, 2024 (INR 1,133 crores in the nine months ended December 31, 2023) “Optical networking business 3,830 Global services business 1,456 Digital and technology solutions 298 Inter segment elimination (106) Revenue from operations 5,478”
+- **operating margin** — parent / remaining: Optical networking business segment EBITDA INR 621 crores on revenue of INR 3,830 crores in FY24; INR 464 crores on INR 3,741 crores in FY25; digital and technology solutions EBITDA negative INR 83 crores FY24; separated business: Global services business segment EBITDA INR 110 crores on revenue of INR 1,456 crores in FY24 and INR 68 crores on INR 1,000 crores for the nine months ended December 31, 2024 “Optical networking business 621 Global services business 110 Digital and technology solutions (83) Total segment results 648”
+- **working capital** — parent / remaining: Contract assets of INR 1,416 crores pre-demerger reduce to "-0" post demerger; trade receivables INR 1,822 crores pre-demerger reduce to INR 783 crores; trade payables INR 2,153 crores reduce to INR 996 crores (as on March 31, 2023); separated business: The whole of contract assets, INR 1,416 crores, plus trade receivables of INR 1,039 crores and trade payables of INR 1,156 crores and contract liabilities of INR 145 crores, go to STL Networks (Resulting Co) as on March 31, 2023 “Contract Assets 1,416 -0 1,416”
+- **capex and capital intensity** — parent / remaining: Property, Plant and Equipment of INR 2,854 crores pre-demerger, of which INR 2,807 crores remains with STL (Demerged Co) Post Demerger, plus Capital work-in-progress INR 129 crores (as on March 31, 2023); separated business: Property, Plant and Equipment of only INR 47 crores and Capital work-in-progress of "-0" to STL Networks (Resulting Co) Post Demerger (as on March 31, 2023) “Property, Plant and Equipment 2,854 2,807 47”
+- **debt and leverage** — parent / remaining: Consolidated debt equity ratio 0.68 at FY25 against 1.39 at FY24; net debt INR 1,350 crores at FY25; non-current borrowings of INR 1,002 crores pre-demerger of which INR 847 crores stays with STL and current borrowings INR 2,665 crores of which INR 2,296 crores stays (as on March 31, 2023); separated business: Borrowings of INR 155 crores (non-current) and INR 369 crores (current) transfer to STL Networks (Resulting Co) as on March 31, 2023 “Our Net Debt: Equity has improved to  0.68 times against 1.39 times post demerger and Post QIP (YoY).”
+- **cash** — parent / remaining: Cash and cash equivalents at the year end INR 396 crores consolidated / INR 204 crores standalone as at March 31, 2025, after the transfer under the Scheme; separated business: Cash and cash equivalents of INR 212 crores (consolidated) / INR 200 crores (standalone) transferred pursuant to the Scheme of Demerger; Annexure P2 shows INR 50 crores of cash going to STL Networks (Resulting Co) as on March 31, 2023 “Less: Cash and cash equivalents transferred pursuant to Scheme of Demerger (refer note 5) (212)”
+- **tax** — parent / remaining: Cost of acquisition of equity shares of Sterlite Technologies Limited apportioned at 42.23%; shareholders' date of acquisition of the Resulting Company shares is the date of acquisition of the original shares; separated business: Cost of acquisition of equity shares of STL Networks Limited apportioned at 57.77% “The above-mentioned demerger envisaged under the Scheme satisfies all conditions under Section 2(19AA) of the Income-tax Act, 1961 ("IT Act") and hence, the demerger is tax neutral in the hands of shareholders of the Demerged Company under the IT Act in view of the exemption granted under Section 47(vid) of the IT Act.”
+- **other** — parent / remaining: Remaining business retains the Optical Network Business, which the Scheme rationale says benefits from BharatNet phase three and 5G deployment; STL has "10+ global manufacturing plants and a customer base spanning 100+ countries"; separated business: Separated business holds large-scale deployment and system integration work, including the BharatNet Jammu & Kashmir package; "Over 1.35 lakh km of Optical Fibre network have been deployed nationwide in 23 states" “The recently awarded INR ~2600 Cr Bharatnet project in Jammu and Kashmir will be part of STL Networks post demerger.”
 
 **The checklist:**
 

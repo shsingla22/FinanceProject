@@ -8,9 +8,11 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **GAIL Gas Limited** | Wholly owned subsidiary of GAIL; with its JVs/subsidiaries operates 12,46,000 DPNG connections and 674 CNG st… | to be listed | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **GAIL Gas Limited** | 2026 IPO / listing of GAIL Gas Limited (in-principle board … | Wholly owned subsidiary of GAIL; city gas distribution — with its JVs/subsidiaries 12,46,000 DPNG connections… | to be listed | not stated |
+
+**The other parties to the scheme(s)** — not separated entities: Konkan LNG Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** GAIL Gas Limited, GAIL's wholly owned city gas distribution subsidiary, listed via IPO diluting up to 25% — class `not stated`.
 
@@ -20,7 +22,8 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2026-10-30 | Board approval — GAIL (India) Limited board, in-principle approval for IPO listing of GAIL Gas Limited | as stated: GAIL Regulation 30 disclosure, General Updates, letter ND/GAIL/SECTT/… |
+| 2026-07-31 | Board approval — Scheme of merger of Konkan LNG Limited with GAIL (India) Limited; board meeting commenced 12:00 noon and concluded 01:55 p.m. | as stated: GAIL Regulation 30 disclosure to NSE/BSE, ND/GAIL/SECTT/2026 dated 31… |
+| 2026-10-30 | Board approval — GAIL Gas Limited (in-principle approval for listing through IPO by diluting GAIL's equity upto 25%); board meeting commenced 11.00 a.m. and concluded 02:25 p.m. | as stated: GAIL Regulation 30 disclosure to NSE/BSE, ND/GAIL/SECTT/2026 dated 30… |
 
 **The partial spin-off:** **GAIL Gas Limited** (subsidiary); parent's stake 100% (wholly owned subsidiary of GAIL); IPO stage: board approval; exchange: Indian stock exchanges.
 
@@ -32,9 +35,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| GAIL Gas Limited | "In Q3 FY26, turnover of GAIL Gas stood at Rs.3,292 crores … | — | 5.2% (FY2026) | — | — | not listed |
+| GAIL Gas Limited | "In Q3 FY26, turnover of GAIL Gas stood at Rs.3 ,292 crore … | — | 5.2% (FY2026) | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹123,612 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+
+**In the documents' words:** “Transferee Company - GAIL (India) Limited (GAIL) Turnover for FY 2025 -26: Rs. 1,41,483 Crore ... Transferor Company - Konkan LNG Limited (KLL) Turnover for FY 2025 -26: Rs. 741 Crore”
 
 **The judge's read of selling pressure:** unlikely — IPO route sells shares to willing subscribers; no distribution to GAIL shareholders, no index exclusion stated.
 
@@ -42,7 +47,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **GAIL Gas Limited:** IPO: "Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%" — in-principle only; "After GGL submits the final proposal based on BRLM recommendations on valuation, price band, modality and other terms & conditions, approval of GAIL Board for the final extent of dilution, modality & other terms & condition of IPO will be obtained." Split between fresh issue and offer for sale, and issue size: not stated
+- **GAIL Gas Limited:** "Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%"; split between fresh issue and offer for sale, size, price band and modality not stated — "After GGL submits the final proposal based on BRLM recommendations on valuation, price band, modality and other terms & conditions, approval of GAIL Board for the final extent of dilution, modality & other terms & condition of IPO will be obtained."
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -53,10 +58,10 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "by diluting GAIL's equity in GGL upto 25%"; "approval of GAIL Board for the final extent of dilution, modality & other terms & condition of IPO will be obtained"
+- **What the promoters will hold in the separated entity:** 2026 GAIL Gas IPO: "by diluting GAIL's equity in GGL upto 25%" and "After GGL submits the final proposal based on BRLM recommendations on valuation, price band, modality and other terms & conditions, approval of GAIL Board for the final extent of dilution, modality & other terms & condition of IPO will be obtained." — GAIL's residual percentage and the promoter/promoter group holding percentages are not stated. 2026 Konkan LNG merger: "No change in shareholding of GAIL."
 - **What a public shareholder receives:** not stated in the documents on file.
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** not stated in the documents on file.
+- **Insider actions around the separation:** GAIL (promoter of GGL) has stated the intent to dilute its own holding: "GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%." No promoter or management buying, selling or pledging of GAIL shares is stated.
 - **Insiders, per the checklist read:** GGL is a wholly owned subsidiary of GAIL; GAIL dilutes equity in GGL upto 25%, retaining at least 75%. No management incentives stated. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -225,9 +230,10 @@ xychart-beta
 
 **What the documents themselves say about the differences:**
 
-- **operating margin** — parent / remaining: GAIL standalone PBT fell to Rs.2,030 crores in Q3 FY26 from Rs.2,823 crores in Q2 FY26; PAT Rs.1,603 crores versus Rs.2,217 crores; separated business: GAIL Gas PBT fell to Rs.143 crores from Rs.148 crores and PAT to Rs.106 crores from Rs.111 crores, attributed to higher input gas cost and exchange rate reducing margin “PBT stood at Rs.143 crore s as against Rs.148 crore s in Q2 FY26. The decrease is mainly due to increase in input gas cost and exchange rate resulted in reduction in margin.”
-- **other** — parent / remaining: GAIL standalone turnover Rs.34,030 crores in Q3 FY26 (consolidated Rs.35,253 crores); turnover for FY 2025-26 Rs. 1,41,483 Crore; separated business: GAIL Gas turnover Rs.3,292 crores in Q3 FY26 “In Q3 FY26, turnover of GAIL Gas stood at Rs.3 ,292 crore s as against Rs.3 ,235 crore s in Q2 FY26.”
-- **growth** — parent / remaining: GAIL has direct authorization of 6 GAs with 215 CNG stations and 4.64 lakh DPNG connections, volume 0.55 MMSCMD; during the quarter 2 new CNG stations and 15,990 new DPNG connections added; targets ~85 new CNG stations and ~1,50,000 new DPNG connections in the next two years; separated business: GAIL Gas with its JVs/subsidiaries has 12,46,000 DPNG connections and 674 CNG stations, volume 7.8 MMSCMD; added 71,411 new DPNG connections and 9 CNG stations in the quarter “During Q3 FY26, GAIL Gas along with its J Vs/subsidi aries has added 71,411 new DPNG connections and 9 CNG stations.”
+- **growth** — parent / remaining: GAIL standalone turnover Rs.34,030 crores in Q3 FY26 against Rs.34,972 crores in Q2 FY26 (down quarter on quarter); consolidated turnover Rs.35,253 crores against Rs.35,594 crores; separated business: GAIL Gas turnover Rs.3,292 crores in Q3 FY26 against Rs.3,235 crores in Q2 FY26 (up quarter on quarter) “In Q3 FY26, turnover of GAIL Gas stood at Rs.3 ,292 crore s as against Rs.3 ,235 crore s in Q2 FY26.”
+- **operating margin** — parent / remaining: GAIL standalone PBT Rs.2,030 crores in Q3 FY26 against Rs.2,823 crores in Q2 FY26; PAT Rs.1,603 crores against Rs.2,217 crores; petrochemical segment loss of Rs.483 crores in Q3 FY26; separated business: GAIL Gas PBT Rs.143 crores in Q3 FY26 against Rs.148 crores in Q2 FY26; PAT Rs.106 crores against Rs.111 crores, the decrease attributed to higher input gas cost and exchange rate “PBT stood at Rs.143 crore s as against Rs.148 crore s in Q2 FY26. The decrease is mainly due to increase in input gas cost and exchange rate resulted in reduction in margin.”
+- **other** — parent / remaining: GAIL itself has direct authorisation of 6 GAs with 215 CNG stations and 4.64 lakh DPNG connections and physical volume of 0.55 MMSCMD; targets about 85 new CNG stations and about 1,50,000 new DPNG connections in the next two years; separated business: GAIL Gas physical volume 7.8 MMSCMD; with its JVs/subsidiaries 12,46,000 DPNG connections and 674 CNG stations, and 71,411 new DPNG connections plus 9 CNG stations added in Q3 FY26 “GAIL Gas with its J Vs/subsidi aries have an infrastructure of 12,46,000 DPNG co nnections and 674 CNG stations.”
+- **capex and capital intensity** — parent / remaining: GAIL capex of Rs.2,186 crores in Q3 FY26 (Rs.804 crores pipelines, Rs.455 crores petrochemicals, Rs.620 crores operational and others, rest on CGD, E&P, Renewable, equity contribution etc.) and Rs.9,000 to 10,000 crores guided for FY27; separated business: not stated separately for GAIL Gas Limited (the Rs.800 to 1,000 crores figure cited for FY27 covers CGD, LNG and CBG projects and equity together, not GAIL Gas alone) “Subject to addition of new projects, which I am not fa ctoring it, we expect to incur Rs.9,000 to 10,000 crore s of CAPEX in financial year '27.”
 
 **The checklist:**
 

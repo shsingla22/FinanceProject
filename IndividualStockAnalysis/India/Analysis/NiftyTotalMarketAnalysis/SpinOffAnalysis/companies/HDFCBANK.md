@@ -8,9 +8,11 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **HDB Financial Services Limited** | Non-deposit taking, RBI-identified upper layer NBFC delivering Enterprise Lending, Asset Finance and Consumer… | listed 2025-07-02 as HDBFS (NSE) | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **HDB Financial Services Limited** | 2025 initial public offering (IPO) of HDB Financial Service… | Upper layer non-deposit taking Non-Banking Financial Company; "HDBFS delivers a wide range of solutions throu… | listed 2025-07-02 as HDBFS (NSE) | not stated (Dipti Khandelwal named as Company Sec… |
+
+**The other parties to the scheme(s)** — not separated entities: Housing Development Finance Corporation Limited — merged in — no shares for the parent's holders; HDFC Investments Limited — merged in — no shares for the parent's holders; HDFC Holdings Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** HDB Financial Services Limited, the Bank's non-deposit-taking NBFC subsidiary, separately listed via IPO (fresh issue plus Bank's offer for sale) — class `not stated`.
 
@@ -20,16 +22,16 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2024-07-20 | Board approval — HDFC Bank Limited | as stated: Filing dated October 23, 2024 (Q2 FY25 results, note 17): "The Board … |
-| 2024-09-20 | Board approval — HDB Financial Services Limited | as stated: Filing dated October 23, 2024 (Q2 FY25 results, note 17): "The Board … |
+| 2024-07-20 | Board approval — HDFC Bank Limited | as stated: Note 17 / 11 to the September 30, 2024 results (filing dated October … |
+| 2024-09-20 | Board approval — HDB Financial Services Limited | as stated: Intimation of outcome of Board Meeting filed by HDBFS and forwarded b… |
+| 2024-10-19 | Board approval — HDFC Bank Limited (quantum of Offer for Sale up to Rs. 10,000 crore) | as stated: Intimation 'Quantum of Offer for Sale of equity shares of HDB Financi… |
 | 2024-10-23 | Stage reached: **effective** | [Updates](https://nsearchives.nseindia.in/corporate/HDFCBANK_23102024153625_SEResultSept2024MRF.pdf) |
-| 2024-10-30 | DRHP filed — HDB Financial Services Limited | as stated: Filing dated October 31, 2024 (intimation of filing of Draft Red Herr… |
-| 2024-10-31 | Filed with exchanges — HDB Financial Services Limited | as stated: Filing dated October 31, 2024 (HDBFS letter HDB/SLC/2024/1287 dated O… |
-| 2025-06-25 | IPO opened — HDB Financial Services Limited | as stated: Filing dated January 17, 2026 (Q3 FY26 results, note 11): "On June 25… |
-| 2025-06-27 | Other — HDB Financial Services Limited | as stated: Filing dated July 2, 2025: "The offer period in relation to the IPO w… |
-| 2025-06-30 | Allotment — HDB Financial Services Limited | as stated: Filing dated July 2, 2025: "The shares were allotted to investors on … |
+| 2024-10-30 | DRHP filed — HDB Financial Services Limited (filed with SEBI, BSE Limited and National Stock Exchange of India Limited) | as stated: General Updates intimation dated October 31, 2024 and corrigendum dat… |
+| 2025-06-25 | IPO opened (offer launched) — HDB Financial Services Limited | as stated: Note 11 / 5 to the December 31, 2025 results (filing dated January 17… |
+| 2025-06-27 | Other (offer period closed) — HDB Financial Services Limited | as stated: Intimation 'Sale of shares of HDB Financial Services Limited in its I… |
+| 2025-06-30 | Allotment — HDB Financial Services Limited | as stated: Intimation dated July 2, 2025: "The shares were allotted to investors… |
 | 2025-07-02 | **HDB Financial Services Limited** listed (HDBFS) | NSE equity list |
-| 2025-07-02 | Listing and trading — HDB Financial Services Limited | as stated: Filing dated July 2, 2025: "which were admitted for listing and tradi… |
+| 2025-07-02 | Listing and trading — HDB Financial Services Limited | as stated: Intimation dated July 2, 2025: "which were admitted for listing and t… |
 
 **The stages, as filed:** effective (2024-10-23)
 
@@ -49,15 +51,13 @@
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹1,239,503 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “Total revenue of HDBFS during FY  2024-2025: Rs. 16,300.28 crore .  Net worth of HDBFS as on March 31,  2025: Rs. 15,819.75 crore.”
-
 **The judge's read of selling pressure:** unlikely — Listing was an IPO/offer for sale, not a share distribution to parent shareholders; no index exclusion or forced holder reshuffle stated.
 
 ### 4. Insider ownership — share swap, promoters' holding, management incentives
 
 **Share swap / entitlement, entity by entity:**
 
-- **HDB Financial Services Limited:** IPO "comprised of a fresh issuance of equity shares aggregating to ₹ 2,500.00 crore and an offer for sale ("OFS") of equity shares by the Bank, aggregating to ₹ 10,000.00 crore"; the Bank "had offered 13,51,35,135 equity shares of face value of Rs. 10 each of HDBFS, in the said IPO, by way of Offer for Sale, at the issue price of Rs. 740 per share" (gross consideration Rs. 9999,99,99,900; net consideration Rs. 9814,51,63,982 in cash). DRHP stage size was fresh issue up to ₹25,000.00 million and offer for sale up to ₹1,00,000.00 million.
+- **HDB Financial Services Limited:** IPO (no swap): "comprised of a fresh issuance of equity shares aggregating to? 2,500.00 crore and an offer for sale ("OFS") of equity shares by the Bank, aggregating to? 10,000.00 crore"; "the Bank had offered 13,51,35,135 equity shares of face value of Rs. 10 each of HDBFS, in the said IPO, by way of Offer for Sale, at the issue price of Rs. 740 per share" (gross consideration Rs. 9999,99,99,900; net consideration Rs. 9814,51,63,982). DRHP stage: fresh issue up to ₹ 25,000.00 million and offer for sale up to ₹ 1,00,000.00 million (revised from ₹ 10,000.00 million per corrigendum dated October 31, 2024)
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -68,11 +68,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** The Bank sold 13,51,35,135 shares of face value of Rs. 10 each of HDBFS in the IPO , post which the shareholding of the Bank in HDBFS has reduced to 74.19% of its total  paid-up equity share capital.
+- **Promoters in the parent, per the documents:** "The Bank has no promoter/ promoter group company." (disclosure dated October 18, 2024). Also disclosed in every results filing: "Percentage of shares held by Government of India — Nil" (as at December 31, 2025)
+- **What the promoters will hold in the separated entity:** 2025 HDBFS IPO: "The Bank sold 13,51,35,135 shares of face value of Rs. 10 each of HDBFS in the IPO, post which the shareholding of the Bank in HDBFS has reduced to 74.19% of its total paid-up equity share capital." (July 2, 2025); as of the December 2025 quarter, "HDB Financial Services Ltd (HDBFSL), is a non-deposit taking NBFC in which the Bank holds a 74.1% stake." 2023 amalgamation scheme: not stated. 2024 HDFC Edu sale: 91% sold on October 18, 2024, "The remaining 9% stake would be divested no later than June 30, 2025."
 - **What a public shareholder receives:** not stated in the documents on file.
-- **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** The Bank (parent and seller) sold down in the IPO: "Under the OFS, the Bank divested 13,51,35,135 equity shares of ₹ 10 each of HDBFS at ₹ 740/-per share, for a consideration aggregating to ₹ 10,000.00 crore." "Post reduction of the customary offer expenses, the Bank has receive d a net consideration of Rs. 9814,51,63,982 , in cash." "Please note that even post the aforesaid sale, HDBFS continues to be a subsidiary company of the Bank." No promoter or management buying or pledging is stated.
+- **Management incentives:** HDBFS board, September 20, 2024: "Amendment to the Employee Stock Option Scheme – 2014, Employee Stock Option Scheme – 2017 and Employee Stock Option Scheme – 2022 in order to comply with the regulatory requirements." At the Bank: "During the quarter and nine months ended December 31, 2025, the Bank has allotted 2,08,78,662 and 5,53,15,781 equity shares respectively, pursuant to the exercise of options / units under the approved employee stock option schemes / employee stock incentive master scheme."; "Employees stock options outstanding 4,249.96" crore as at December 31, 2025; HDB Employee Welfare Trust ("EWT") is "Consolidated as a subsidiary". Treatment of existing grants in the IPO, any new plan in the listed entity, exercise price / pricing date, and management or insider shareholding: not stated.
+- **Insider actions around the separation:** The parent itself sold shares in the IPO: "Under the OFS, the Bank divested 13,51,35,135 equity shares off 10 each of HDBFS at? 740/-per share, for a consideration aggregating to? 10,000.00 crore"; "Post reduction of the customary offer expenses, the Bank has received a net consideration of Rs. 9814,51,63,982, in cash."; "the net gain to the Bank on sale of shares under the OFS is? 9,179.40 crore (before tax and net of IPO related expenses)" (standalone) and "? 7,000.27 crore" (consolidated). The sale "was approved by the Reserve Bank of India" and "The offer for sale will not fall within related party transactions." Trading window: "the window for trading in Securities of the Bank by its designated persons and their immediate relatives shall open on Tuesday, January 20, 2026." No promoter or management buying, selling or pledging around the separation is stated ("The Bank has no promoter/ promoter group company.").
 - **Insiders, per the checklist read:** Bank retains 74.1% stake in HDBFSL post-IPO; HDB Employee Welfare Trust is consolidated as a subsidiary. No promoter or management stake or incentive in HDBFS is stated. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -427,7 +427,25 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/HDBFS.csv (consolidated, screener.in); growth and margins computed here.*
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 5 presentation(s) on file):* All named entities (HDB Financial Services Limited / HDBFS / HDBFSL) are one and the same company; pages carry only its quarterly PAT-level metrics, no annual or revenue/asset figures.
+**HDB Financial Services (HDBFS) — subsidiary listed via IPO/offer for sale; 74.08% held by the Bank as of September 30, 2026 → HDB Financial Services Limited** · unit ₹ billion · No segment result / EBIT / PBT or revenue line is disclosed for HDBFS anywhere on these pages. Only entity-level quarterly net profit (PAT, as per GAAP applicable to the entity), loan book, NIM, RoA, RoE, EPS and book value per share are given in the quarterly 'Group companies / Subsidiaries update' slides. In the consolidated segment tables HDBFS is not a separate segment — it sits inside the 'Others' segment, which also contains other consolidated entities.
+
+| | n/a |
+|---|---:|
+| Revenue (₹ billion) | — |
+| Revenue growth (%) | — |
+| Operating profit (₹ billion) | — |
+| Operating profit growth (%) | — |
+| Operating margin (%) | — |
+| PAT (₹ billion) | 7.8 |
+| PAT growth (%) | — |
+
+*Sources:* Presentation Oct 2026 — page 22 (also page 23)
+
+*Latest quarter (Q2 FY27):* revenue None, operating profit None — Presentation Oct 2026 — page 23
+
+*Not in the pages read:* Only quarterly PAT exists (Q2 FY27 ₹7.8bn; Q1 FY27 ₹7.9bn; Q4 FY26 ₹7.5bn; Q3 FY26 ₹6.4bn). No fiscal-year revenue, operating profit, PAT, assets, liabilities, capex or depreciation for HDBFS.
+
+*Businesses with no numbers in the pages read (3 annual report(s) and 5 presentation(s) on file):* All named entities are the same company (HDB Financial Services Limited / HDBFS / HDBFSL), covered above. The pages carry no HDBFS revenue, operating profit, assets, liabilities, capex or depreciation — only quarterly entity PAT.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/411e22d2-0720-4cec-b659-9ccd639f0f1a.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/2160dea5-d49e-4409-83a4-c2b111a3bd12.pdf); [Presentation Oct 2026](https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2026-2027/quarter-2/q2fy27-earnings-presentation.pdf); [Presentation Jul 2026](https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2026-2027/quarter-1/q1fy27-earnings-presentation.pdf); [Presentation Apr 2026](https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/about-us/financial-results/2025-2026/quarter-4/q4fy26-earnings-presentation.pdf); [Presentation Jan 2026](https://www.hdfc.bank.in/content/dam/hdfcbankpws/in/en/pdf/financial-results/2025-2026/quarter-3/Q3FY26-earnings-presentation.pdf); [Presentation Apr 2025](https://nsearchives.nseindia.com/corporate/HDFCBANK_19042025160318_SEpresentation19042025.pdf)
 
@@ -447,19 +465,18 @@ xychart-beta
 |---|---:|---:|---:|---:|---|---|
 | Treasury | 84,337 | 25.1% | 2.0% | 13.63x | ₹ crore | FY2026 |
 | Retail banking — Digital banking (sub-segment, Digital Banking Units) | 10 | -15.3% | — | 13.31x | ₹ crore | FY2026 |
-| Retail banking — Non-Digital Banking (labelled 'Other Retail Banking' in FY2024 report) | 301,843 | 10.6% | — | 5.24x | ₹ crore | FY2026 |
+| Retail banking — Non-Digital Banking (labelled 'Other retail banking' in FY2024 report) | 301,843 | 10.6% | — | 5.24x | ₹ crore | FY2026 |
 | Wholesale banking | 174,506 | 19.5% | 9.2% | 8.59x | ₹ crore | FY2026 |
 | Other banking Operations (labelled 'Other banking business' in FY2024 report) | 36,841 | 28.3% | 9.6% | 3.06x | ₹ crore | FY2026 |
-| Insurance business (consolidated segment: HDFC Life Insurance consolidated and HDFC ERGO General Insurance) | 108,080 | 6.6% | 44.8% | 3.83x | ₹ crore | FY2026 |
-| Other / Others (consolidated segment: operations of consolidated entities not covered by other segments — includes HDB Financial Services, HDFC Securities, HDFC AMC etc.) | 19,507 | 10.6% | 7.0% | 6.6x | ₹ crore | FY2026 |
+| Insurance business (HDFC Life Insurance consolidated and HDFC ERGO General Insurance) — consolidated segment only | 108,080 | 6.6% | 44.8% | 3.83x | ₹ crore | FY2026 |
+| Others / Other (operations of consolidated entities not covered in other segments — includes HDB Financial Services and HDFC Securities) — consolidated segment only | 19,507 | 10.6% | 7.0% | 6.6x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: Bank total income Rs. 346,149.32 crore for FY 2024-25 against Rs. 307,581.55 crore for FY 2023-24; profit after tax for FY 2024-25 Rs. 67,347.36 crore, "up by 10.7%"; separated business: HDBFS turnover grew from Rs. 12,402.88 crore (FY 2022-23) to Rs. 14,171.12 crore (FY 2023-24) to Rs. 16,300.28 crore (FY 2024-25) “The turnover  of HDBFS during the last 3 years is given below:  FY 2022 -23: Rs. 12,402.88 crore  FY 2023 -24: Rs. 14,171.12 crore  FY 2024 -25: Rs. 16,300.28 crore”
-- **other** — parent / remaining: Bank profit after tax for the quarter ended December 31, 2025 was ₹ 186.5 billion, "a growth of 11.5% over the quarter ended December 31, 2024"; nine-month PAT ₹ 554.5 billion, up 11.5%; separated business: HDBFSL profit after tax for the quarter ended December 31, 2025 was ₹ 6.4 billion, a growth of 36.3%; nine-month PAT ₹ 17.9 billion; net revenue ₹ 29.7 billion for the quarter “Profit after tax for the quarter ended December 31, 2025 was ₹ 6.4 billion compared to ₹ 4.7 billion for the quarter ended December 31, 2024, a growth of 36.3%.”
-- **debt and leverage** — parent / remaining: "The Bank's total Capital Adequacy Ratio (CAR) as per Basel Ill guidelines was at 19.9% as on December 31, 2025 (20.0% as on December 31, 2024) as against a regulatory requirement of 11.9%. Tier 1 CAR was at 17.8%"; Debt Equity Ratio 0.49 and Total Debts to Total Assets 12.75% at December 31, 2025; separated business: HDBFSL total CAR 21.8% with Tier-I CAR 17.3% as on December 31, 2025 (19.2% with Tier-I 14.7% as on March 31, 2025) “Total CAR was at 21.8% with Tier"! CAR at 17.3%.”
-- **other** — parent / remaining: "Gross non-performing assets were at 1.24% of gross advances as on December 31, 2025 (0.97% excluding NPAs in the agricultural segment)"; net NPAs 0.42% of net advances; separated business: HDBFSL Stage 3 loans were 2.81% of gross loans as on December 31, 2025 (2.26% as on March 31, 2025), on a total loan book of ₹ 1,146 billion “Stage 3 loans were at 2.81% of gross loans.”
-- **cash** — parent / remaining: The Bank received net cash consideration of Rs. 9814,51,63,982 from the OFS and booked a net gain of ₹ 9,179.40 crore standalone (₹ 7,000.27 crore in the consolidated financials) in the nine months ended December 31, 2025; separated business: HDBFS retained the fresh issue proceeds of ₹ 2,500.00 crore of primary equity issued in the IPO “Consequently, the net gain to the Bank on sale of shares under the OFS is ₹ 9,179.40 crore (before tax and net of IPO related expenses) during the nine months ended December 31, 2025.”
+- **growth** — parent / remaining: Bank standalone total income Rs. 346,149.32 crore for FY 2024-25 (FY 2023-24: Rs. 307,581.55 crore); net revenue up 8.9% in the December 2025 quarter; separated business: HDBFS revenue grew from Rs. 12,402.88 crore (FY 2022-23) to Rs. 14,171.12 crore (FY 2023-24) to Rs. 16,300.28 crore (FY 2024-25); PAT for the December 2025 quarter up 36.3% “The turnover of HDBFS during the last 3 years is given below: FY 2022 -23: Rs. 12,402.88 crore FY 2023 -24: Rs. 14,171.12 crore FY 2024 -25: Rs. 16,300.28 crore”
+- **debt and leverage** — parent / remaining: Bank total Capital Adequacy Ratio 19.9% as on December 31, 2025, Tier 1 CAR 17.8%, CET1 17.4%, against a regulatory requirement of 11.9%; Debt Equity Ratio 0.49 and Total Debts to Total Assets 12.75%; separated business: HDBFS Total CAR 21.8% with Tier-I CAR 17.3% as on December 31, 2025 “The total loan book was o!' 1,146 billion as on December 31, 2025. Stage 3 loans were at 2.81% of gross loans. Total CAR was at 21.8% with Tier"! CAR at 17.3%.”
+- **other (asset quality)** — parent / remaining: Bank gross NPAs 1.24% of gross advances and net NPAs 0.42% of net advances as on December 31, 2025 (0.97% excluding agricultural NPAs); separated business: HDBFS Stage 3 loans at 2.81% of gross loans as on December 31, 2025 “Gross non-performing assets were at 1.24% of gross advances as on December 31, 2025 (0.97% excluding NPAs in the agricultural segment), as against 1.24% as on September 30, 2025 (0.99% excluding NPAs in the agricultural segment), and 1.42% as on December 31, 2024 (1.19% excluding NPAs in the agricultural segment).”
+- **other (gain on the separation)** — parent / remaining: The Bank booked a pre-tax gain of 9,179.40 crore (standalone) and 7,000.27 crore (consolidated) on the OFS in the nine months ended December 31, 2025; net cash received Rs. 9814,51,63,982; separated business: HDBFS received the fresh issue proceeds of 2,500.00 crore; the Bank's stake fell to 74.19% (74.1% by December 2025) and HDBFS remains a subsidiary “In the Consolidated Financials, profit on sale of investment is considered as the difference between the sale consideration and the Bank's share in the carrying amount of HDBFS's net assets (to the extent of sale), as of the date of sale. Consequently, the net gain to the Bank in the Consolidated Financials, on sale of shares under the OFS is f 7,000.27 crore (before tax and net of IPO related expenses) during the nine months ended December 31, 2025.”
 
 **The checklist:**
 

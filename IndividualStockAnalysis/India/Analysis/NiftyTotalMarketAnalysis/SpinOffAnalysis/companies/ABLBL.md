@@ -6,11 +6,7 @@
 
 **CONFIRMED** (this company IS the resulting company of Aditya Birla Fashion and Retail Limited's demerger, listed on 2025-06-23 — the spun entity in its second year) · **LISTED 1–2Y — the second-year window** · score 3.6/10 · spin-off · 6 filing(s) from CALLS, NSE · first 2026-02-02, latest 2026-03-31
 
-**The separated entities — every one the documents name:**
-
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Aditya Birla Fashion and Retail Limited** | not stated (the Demerged Company, from which the Madura Fashion and Lifestyle Business was demerged, transfer… | listed 2013-07-17 as ABFRL (NSE) | not stated |
+**The other parties to the scheme(s)** — not separated entities: Aditya Birla Fashion and Retail Limited (ABFRL) — the company this one was spun out of
 
 **What is being separated, as the documents put it:** Madura Fashion and Lifestyle ('MFL') branded apparel business demerged from Aditya Birla Fashion and Retail Limited — class `value_unlocking`.
 
@@ -20,16 +16,15 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2013-07-17 | **Aditya Birla Fashion and Retail Limited** listed (ABFRL) | NSE equity list |
-| 2024-04-19 | Board approval — Aditya Birla Fashion and Retail Limited / Aditya Birla Lifestyle Brands Limited | as stated: Outcome of Board Meeting, Unaudited Standalone Financial Results, Not… |
-| 2025-03-27 | NCLT order — Scheme of Arrangement (sanction by Hon'ble NCLT) | as stated: Outcome of Board Meeting, financial results Note 5/7 (filings dated A… |
-| 2025-04-22 | Other — certified copy of NCLT order received — Demerged and Resulting Company | as stated: Outcome of Board Meeting, financial results Note 5/7 (filings dated A… |
-| 2025-05-01 | Effective date — Scheme of Arrangement (on filing of certified copy of Order with Registrar of Companies, Mumbai) | as stated: Outcome of Board Meeting, financial results Note 5/7 (filings dated A… |
-| 2025-05-22 | Record date — shareholders of the Demerged Company (Aditya Birla Fashion and Retail Limited) | as stated: Outcome of Board Meeting, financial results Note 5/7 (filings dated A… |
-| 2025-05-26 | Allotment — Aditya Birla Lifestyle Brands Limited (Resulting Company) | as stated: Outcome of Board Meeting, financial results Note 5/7 (filings dated A… |
+| 2024-04-19 | Board approval — Aditya Birla Fashion and Retail Limited and Aditya Birla Lifestyle Brands Limited | as stated: Note 5 / Note 7 'Scheme of Arrangement' to the unaudited financial re… |
+| 2025-03-27 | NCLT order — Aditya Birla Fashion and Retail Limited and Aditya Birla Lifestyle Brands Limited | as stated: Note 5 'Scheme of Arrangement', unaudited financial results for the q… |
+| 2025-04-22 | Other — Receipt of certified copy of the NCLT order | as stated: Note 5 'Scheme of Arrangement', unaudited financial results for the q… |
+| 2025-05-01 | Effective date — Scheme effective on filing of the certified copy of the Order and the Scheme with the Registrar of Companies, Mumbai | as stated: Note 5 'Scheme of Arrangement' (filing dated August 13, 2025); also R… |
+| 2025-05-22 | Record date — Aditya Birla Fashion and Retail Limited shareholders | as stated: Note 5 'Scheme of Arrangement', unaudited financial results for the q… |
+| 2025-05-26 | Allotment — Aditya Birla Lifestyle Brands Limited - 1,22,02,94,773 fully paid-up equity shares of Rs. 10/- each | as stated: Note 5 'Scheme of Arrangement', unaudited financial results for the q… |
 | 2025-06-23 | **Aditya Birla Lifestyle Brands Ltd.** itself listed | NSE equity list |
 | 2025-06-23 | Stage reached: **listed** | [Press Release](https://nsearchives.nseindia.in/corporate/ABLBL_23062025104943_SEPressrelease.pdf) |
-| 2025-06-23 | Listing and trading — Aditya Birla Lifestyle Brands Limited, on BSE Limited and the National Stock Exchange of India Limited | as stated: Press Release 'Aditya Birla Lifestyle Brands Limited debuts on the bo… |
+| 2025-06-23 | Listing and trading — Aditya Birla Lifestyle Brands Limited on BSE Limited and the National Stock Exchange of India Limited | as stated: Press Release 'Aditya Birla Lifestyle Brands Limited debuts on the bo… |
 
 **The stages, as filed:** listed (2025-06-23)
 
@@ -39,35 +34,26 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
-
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Aditya Birla Fashion and Retail Limited | not stated | — | 100.0% (FY2026) | 4,795 | 33.4% | yes |
-
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,552 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+The documents on file give no size for the separated piece, and it has no market value yet.
 
 **The judge's read of selling pressure:** likely — 1:1 shares allotted to entire ABFRL shareholder base on May 26, 2025; listed June 23, 2025 without any fundraise.
 
 ### 4. Insider ownership — share swap, promoters' holding, management incentives
 
-**Share swap / entitlement, entity by entity:**
-
-- **Aditya Birla Fashion and Retail Limited:** not stated for this entity; "The Scheme provided that all shareholders of the demerged company will hold identical shareholdings in both the companies, post the demerger."
+**Share swap / entitlement:** 1 for every 1
 
 **Promoters' holding, from the shareholding pattern:**
 
 | Company | Promoters | FIIs | DIIs | Public | Quarter |
 |---|---:|---:|---:|---:|---|
 | Aditya Birla Lifestyle Brands Ltd. (ABLBL) | 46.6% | 12.29% | 20.94% | 19.69% | Sep 2026 |
-| Aditya Birla Fashion and Retail Limited (ABFRL) | 46.61% | 10.11% | 4.28% | 38.7% | Sep 2026 |
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "The Scheme provided that all shareholders of the demerged company will hold identical shareholdings in both the companies, post the demerger."
-- **What a public shareholder receives:** "On May 26, 2025, the Resulting Company has allotted 1,22,02,94,773 fully paid-up equity shares of face value ₹10/- each, to the shareholders of the Demerged Company as on the record date i.e. May 22, 2025, in the share exchange ratio 1:1 i.e. 1 (one) fully paid-up equity share of the Resulting Company having face value of ₹10/- each for every 1 (one) fully paid-up equity share of ₹ 10/- each of the Demerged Company."
-- **Management incentives:** "ESOP Share Allotment: Pursuant to various Employees Stock Option Schemes, following Equity Shares of ₹ 10/- each were allotted /transferred to the option grantees: Allotment Non-Trust Route pursuant to ABLBL Special Purpose Employee Stock Option Scheme 2,09,236 [quarter ended December 31, 2025] / 2,09,236 [nine months ended December 31, 2025]; Allotment By way of transfer from ESOP Trust pursuant to Special Purpose Employee Stock Option Scheme 42,015 / 42,015"; the consolidated results include "Aditya Birla Lifestyle Brands Limited Employees' Welfare Trust (with effect from September 29, 2025)" as a trust controlled by the Holding Company. Treatment of existing ABFRL grants in the scheme, exercise price or pricing date, and management or insider shareholding: not stated
+- **What the promoters will hold in the separated entity:** 2024-2025 MFL demerger: "The Scheme provided that all shareholders of the demerged company will hold identical shareholdings in both the companies, post the demerger." Promoter and promoter group percentages are not stated.
+- **What a public shareholder receives:** 2024-2025 MFL demerger: "On May 26, 2025, the Resulting Company has allotted 1,22,02,94,773 fully paid-up equity shares of face value Rs.10/- each, to the shareholders of the Demerged Company as on the record date i.e. May 22, 2025, in the share exchange ratio 1:1 i.e. 1 (one) fully paid-up equity share of the Resulting Company having face value of Rs.10/- each for every 1 (one) fully paid-up equity share of Rs. 10/- each of the Demerged Company."
+- **Management incentives:** "ESOP Share Allotment: Pursuant to various Employees Stock Option Schemes, following Equity Shares of Rs. 10/- each were allotted /transferred to the option grantees: Allotment Non-Trust Route pursuant to ABLBL Special Purpose Employee Stock Option Scheme 2,09,236 [quarter and nine months ended December 31, 2025]; Allotment By way of transfer from ESOP Trust pursuant to Special Purpose Employee Stock Option Scheme 42,015." Also: "Trust Controlled by the Holding Company Aditya Birla Lifestyle Brands Limited Employees' Welfare Trust (with effect from September 29, 2025)". Treatment of existing ABFRL grants in the scheme, exercise price, pricing date and management or insider shareholding are not stated.
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** Promoter stake not stated. Scheme: all ABFRL shareholders hold identical shareholdings in both companies. ABLBL Special Purpose ESOP — 2,09,236 shares allotted, 42,015 transferred from ESOP Trust; Employees' Welfare Trust from September 29, 2025. · *option pricing date:* not stated
 
@@ -106,21 +92,13 @@ The only separation described in these documents is the one that created ABLBL i
 
 ### 6. On the calls, verbatim
 
-4 call(s), oldest first: **10 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 2 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+3 call(s), oldest first: **4 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 2 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 #### Aug 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6ed70b88-0f97-4104-9463-ceb338b92bba.pdf)
 
 **From the prepared remarks** *(the passage about it; the whole turn runs to 5,153 characters in the transcript)*
 
-> **Dharmendra Lodha:** Good afternoon, everyone. Welcome to the Q1 FY ‘26 earnings call for Aditya Birla Lifestyle Brands Limited. Thank you for joining us today. This quarter marks our first earnings announcement post-demerger as an independently listed entity with our results shared yesterday. As of 1st May 2025, demerger is effective with a seamless transition across all fronts from front - end and back -end systems to employee records and operational processes. All our point -of-sale or MBO outlets, e -commerce and retail stores are now fully integrated under Aditya Birla Lifestyle Brands Limited, ensuring business continuity and readiness for the next phase of growth. As we look back on the first quarter of this fiscal, the consumption environment remains sluggish with apparel market displaying selective pockets of growth, largely fueled by wedding season. Although broader industry sentiment remains cautious, ABLBL maintained its strong growth momentum. […] PAT came in at INR24 crore s, up by 5% year -on-year. Adjusted for the incremental ad spend, the P AT would have been INR54 crore s for the quarter. As we move towards the second half of the year, we expect the profitability to be even higher. Our footprint extends across 3 200 plus stores, covering a total store retail area of 4.6 million square feet, an expansive network that allows us to fulfil the fashion needs in a diverse country like India, from large to small towns, from malls to high streets. Our distribution is a foundational pillar for our strategy that keeps us connected to our consumers across the country. Aditya Birla Lifestyle Brands Limited August 14, 202 5 About the Lifestyle Brand , in quarter one, our brand sustained exceptional momentum, delivering an industry -leading retail like -to-like growth of 15% across a robust network of 2,900 plus stores, marking the fourth consecutive quarter of strong LTL performance. This quarter's 15% LTL growth was preceded by 9% and 12% LTL growth for Q3 and Q4 of FY ‘25, reflecting the underlying strength of the brand and high -quality retail execution. […] Profitability improved meaningfully, with margins expanding by 170 bps year -on-year, reflecting operational efficiencies and a sharper focus on profitable growth levers. Youthwear and Innerwear segments remain a key contributor to ABLBL's growth ambitions, with ample headroom for expansion across channels. To conclude, ABLBL today stands as India's most formidable premium Lifestyle Brand platform, anchored in decades of operational excellence, powered by a portfolio of iconic brands, driven by an innovation -led culture and supported by an exceptional talent base. These strengths uniquely position us to sustain our momentum, strengthen our leadership, and capture the abundant opportunities available across the western fashion and lifestyle landscape. We are now well positioned to accelerate our growth trajectory driven by accelerated pace of store additions over the next three quarters. Alongside, we will also continue to strengthen our channels of distribution, building a comprehensive approach to reach consumers wherever they shop. With the festival season arriving early this year, we are well -placed to capture consumer demand through compelling product stories, immersive retail experiences and strengthened presence, ensuring ABLBL continues to deliver profitable growth while deepeni ng its connection with consumers across the country.
-
-**Question and answer**
-
-> **Kunal Shah:** Understood. Understood. Yes. My second question is on the other brands ’ piece. So what would be the growth like, let's say, this quarter, if you were to take out the fast fashion business from the base, if you can give some sense? And if you can give some color on, let's say, individual pieces and how have they done from a top line standpoint? Aditya Birla Lifestyle Brands Limited August 14, 202 5
->
-> **Ashish Dikshit:** So, marginal growth, not very strong growth in Innerwear. Reebok obviously has a stronger like - to-like growth, but overall growth in Reebok is also very small. So, combined together, this quarter, the new business haven't contributed as much to the overall growth.
->
-> **Vishak Kumar:** Yes. Kunal, I would just add that in a brand like Reebok, it's also a significantly primary sale - driven number reporting. So there will be these ups and downs. It had a 9% like -for-like, which again tells you that the overall business was good, but there has been -- some of the impacts are on primary business, which is what has led to the lower growth in Reebok.
+> **Dharmendra Lodha:** Good afternoon, everyone. Welcome to the Q1 FY ‘26 earnings call for Aditya Birla Lifestyle Brands Limited. Thank you for joining us today. This quarter marks our first earnings announcement post-demerger as an independently listed entity with our results shared yesterday. As of 1st May 2025, demerger is effective with a seamless transition across all fronts from front - end and back -end systems to employee records and operational processes. All our point -of-sale or MBO outlets, e -commerce and retail stores are now fully integrated under Aditya Birla Lifestyle Brands Limited, ensuring business continuity and readiness for the next phase of growth. As we look back on the first quarter of this fiscal, the consumption environment remains sluggish with apparel market displaying selective pockets of growth, largely fueled by wedding season. Although broader industry sentiment remains cautious, ABLBL maintained its strong growth momentum.
 
 **Question and answer**
 
@@ -134,14 +112,6 @@ The only separation described in these documents is the one that created ABLBL i
 >
 > **Ashish Dikshit:** No. So , first of all, let me reassure you that there's not been any big shift from our past trajectory. This is a very steady business , and therefore, what you were probably seeing was the combined businesses across the portfolio. And when you pull out, this business has been pretty stable in that sense. The net working capital turn at different points and it keeps changing during the course of the year, has been ranging between 13%, 14% to 15%, 16%, 17%, depending on which quarter you're lo oking at and that's been the range that we've been operating. Aditya Birla Lifestyle Brands Limited August 14, 202 5
 
-#### Nov 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63fa46d6-934e-4c54-879e-60070181c14e.pdf)
-
-**Question and answer**
-
-> **Sucrit D Patil:** Good afternoon. I have a broader question on ABL's long-term direction. As more fashion and lifestyle brands expand across India, what is Aditya Birla Lifestyle doing to build a strong edge, not just through store count or celebrity tie -ups, but something deeper like a way of working or thinking that grows over time and makes the company hard to replace?
->
-> **Vishak Kumar:** So you're saying what are our strategic strengths or differentiators? I think many, Sucrit . If you refer to our strategy deck that we shared some time back, you would see that. But it's also a very deep knowledge of markets, different segments, consumers, etc etera ., which in that sense gives us our strengths. It's also a very deep understanding of retailing. We run 3,000 plus stores, continue to do that, build very strong equations with various partners in the ecosystem. We work very closely with various business partners across franchisees, malls, department s tores, mills, and so on. We also have a very strong creation ecosystem with a very strong manufacturing base, a creation, designing creation base, product creation base. So , there are multiple things which give us that, a very tech -enabled organization. So it will be difficult for me to explain this over an earnings call, but I think a lot of things which we believe will give us a right to win in the market.
-
 #### Feb 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f0fc43d7-0cf3-4cd8-ad84-3341cf3f7d0a.pdf)
 
 **Question and answer**
@@ -154,35 +124,11 @@ The only separation described in these documents is the one that created ABLBL i
 >
 > **Ashish Dikshit:** Okay. Let me answer this question. Just to give you an overall summary, the business generates through profit which is through EBITDA cash equivalent of close to 900 crores . Part of it goes into working capital funding. The other part goes into capex. Typically, we have been spending close to 150 to 200 in the best years, maybe INR225 odd crores kind of capex. Aditya Birla Lifestyle Brands Limited February 03 , 202 6 One of the primary reasons for demerger was to create an entity which can reinvest back more aggressively into growth. Some of those signals are visible here. This year, our capex will be north of INR300 crores , perhaps INR320 crores , INR330 crores . And that's really why the debt reduction is not very large this year. We still feel that over the next three years, which is what we had indicated, the net debt will be closer to zero in this, although that's not the only goal we are driving at.
 
-**Question and answer**
-
-> **Devanshu Bansal:** Yeah, the other I was referring to, if you want, from an Arvind Fashion perspective, they reported almost 13% growth in nine months, right?
->
-> **Vishak Kumar:** So, possibly, and maybe we could look at comparisons, etc., but all I want to assure you is that in our brand, we are at a like -for-like of 10%. To the question Archana asked earlier, some of the impact of the retail expansion will start showing now. This quarter itself was a significant impact of net expansion that you will start seeing in the overall growth. Q4, we'll see that even more, where there is about a 90 -net store addition that you will see. So, if you look at it, we will enter into next financial year with a 150 -store larger network than last year. That itself, broadly, is a 5% extra business in reta il that you will have next year.
-
-**Question and answer**
-
-> **Tejas Shah:** Perfect, very assuring. Again, Vishak , you spoke about the Lifestyle portfolio. Lifestyle portfolio has a very strong loyal base of customers, but the growth is moderating and it's actually, the answer is there. It says that it's a very mature portfolio. Actually, the size is huge in terms of both distribution and in the absolute numb er. So what are the biggest or where are the bigger white spaces? Is it new formats, locations, geographies that can actually help us to go into, let's say, double -digit growth sustainably and not this just one or two low -base, high -base kind of triggers?
->
-> **Vishak Kumar:** It is a simple answer. All of these that you said and a few more. Think of very, very large brands. Fashion business doesn't have a billion -dollar brand. Most other categories have very, very large brands. So let me put it this way. Take a brand like, say, Louis Philippe, which has 500 -plus stores. The opportunity for a brand like Louis Philippe in India should be about 1,500 stores. So maybe the methods of opening these stores, the formats, will have to be more nuanced, will have to find the right regional assortment requirements, etc. But we've bee n figuring formats which have Aditya Birla Lifestyle Brands Limited February 03 , 202 6 worked. There have been formats which have been more casual -driven, formats which are more wedding -driven, and so on, which have worked fairly well. We have also created, we just put a bridge -to-luxury store from Louis Philippe called Philippe, which we opened in DLS Promenade in Delhi, which has again been off to a very good start. So a lot of new formats, new segments, new usage occasions with consum ers as they emerge, again, are other growth possibilities. Other parts of business, women's wear, again, is another. In two of our brands, we have very meaningful women's presence, whether it's in Van Heusen or Allen Solly. So that is, again, another opportunity for growth. So there are various segments. So there is, of course, distribution and presence, etc. Many of our partners are also looking at aggressive growth plans. Some of the department stores are looking at growth plans. That adds to that. The e -commerce space, also with quick commerce, is also driving consumption. There is opportunities for growth there. So I would say, yes, while it might look like, look, these are large brands, I still think these are very early days in the evolution of these brands.
-
 #### May 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=472b78a3-34af-4e82-b164-ddc4d01f99a8.pdf)
 
 **From the prepared remarks** *(the passage about it; the whole turn runs to 6,026 characters in the transcript)*
 
-> **Dharmendra Lodha:** Through business operations, the company generated operating cash flow (before CAPEX and security deposit) of INR 450 crores. A large share of this cash has gone towards funding aggressive store expansion during the year. Net debt at year - end stood at INR 726 crores versus INR 781 crores in March last year. The Board of the company has also declared a dividend of INR 50 paisa per equity share within the first year of the company post -demerger. Through the year, store expansion gathered strong momentum, culminating in new stores addition of 300 +, accelerated expansion supported by strong product market fit in new market and deeper penetration in existing one, reinforces confidence in the long -term opportunity, with momentum expected to sustain on the back of robust pipeline across catchments. At the end of this year, our footprint has expanded to 3,348 stores, spanning over 4.9 million square feet across nearly 800 cities and towns. Now turning to our Lifestyle Brands: The business delivered growth of 11% during the quarter, aided by broad -based traction across channels. […] American Eagle continued its profitable growth tr ajectory, delivering double - digit like -to-like growth during the quarter. Van Heusen Innerwear also recorded double -digit overall growth during the quarter, again continuing its strong recovery trajectory. The business also witnessed a sharp reduction in f ull-year losses and remained on track to achieve break -even quarter by Q uarter 4 of current fiscal year. This portfolio is expected to remain a strong growth driver for the company, with significant opportunity to scale these brands into mega -brands within the fashion and Lifestyle space over the medium term. The year marked a strong start to being an independent entity supported by encouraging business momentum and several positive operating milestones across brands and channels. Our strategic imperatives are clearly defined, and our execution engine is ready. Going forward, our focus will remain on consistently executing the fundamentals well while further sharpening the consumer proposition and relevance in line with changing consumer needs.
-
-**Question and answer**
-
-> **Shravan Vohra:** Hello. Hi. Hi team. Thanks for the opportunity. I just wanted to check a bit on the demand side. Are you seeing any divergent trends among the four brands in the Lifestyle business or any divergent trends between the premium or the mass end? Aditya Birla Lifestyle brands Limited May 08, 202 6
->
-> **Vishak Kumar:** Hi Shravan. If you are saying in respect to Quarter 4 or if let's say if you look at it from a full year point of view, qua rter -to-quarter there will be ups and downs across brands. But in general, all our Power brands , all our Lifestyle Brands have grown in a similar fashion. Each segment has its own both tailwinds and headwinds. And in that sense, they have cancelled out. So, by and large, they have had similar growth trajectories. High -single digit is the broad report card for the year.
-
-**Question and answer**
-
-> **Abhijeet Kundu:** Yes, thanks for the opportunity. My question was on Lifestyle business. Here, the retail LTL has been at about 4%. So, if we have to look at this quarter, generally fashion retail relatively has done well when we compare it to the previous quarters. So, beyond this quarter, how has been Aditya Birla Lifestyle brands Limited May 08, 202 6 the scenario, just qualitatively, and what has been your understanding of the quarter because how do you improve the retail LTL? How do you see going ahead the retail LTL will improve? That is something, because what I am looking at is on the base of Lifestyle business , which has gone through a mutated phase.
->
-> **Vishak Kumar:** Yes, so if you look at our full -year life -to-life, it's about 8 -9%, okay, on Lifestyle business . Our Lifestyle business , as you know, has a greater dependence on the calendar, especially the wedding calendar. So, some ups and downs are to be expected just from a wedding calendar point of view. But on a steady state, I mean, for the full year last year, I think we delivered 8.5% - 9%. So, we are in that 8%, 9% zone for the full year. Going ahead also, I think there are enough initiatives in place . We have projected for the next few years that we should be able to grow at an LTL of about 7%. I think that momentum should continue for the business, and there are enough initiatives in place to be able to drive that. There will be some higher quarters and some lower quarters, but by and large, that's what we are driving here.
+> **Dharmendra Lodha:** Through business operations, the company generated operating cash flow (before CAPEX and security deposit) of INR 450 crores. A large share of this cash has gone towards funding aggressive store expansion during the year. Net debt at year - end stood at INR 726 crores versus INR 781 crores in March last year. The Board of the company has also declared a dividend of INR 50 paisa per equity share within the first year of the company post -demerger. Through the year, store expansion gathered strong momentum, culminating in new stores addition of 300 +, accelerated expansion supported by strong product market fit in new market and deeper penetration in existing one, reinforces confidence in the long -term opportunity, with momentum expected to sustain on the back of robust pipeline across catchments. At the end of this year, our footprint has expanded to 3,348 stores, spanning over 4.9 million square feet across nearly 800 cities and towns. Now turning to our Lifestyle Brands: The business delivered growth of 11% during the quarter, aided by broad -based traction across channels.
 
 ### 7. The parent's financial statements
 
@@ -241,82 +187,49 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Aditya Birla Fashion and Retail Limited (ABFRL) — as reported since listing**
+**Madura Fashion and Lifestyle Business ("MFL Business" / MFL Division), demerged from Aditya Birla Fashion and Retail Limited and vested in ABLBL; reported as the single operating segment "Branded Apparels (Garments and Accessories)" and presented as "ABLBL Consolidated" → Aditya Birla Lifestyle Brands Limited (ABLBL) — Resulting Company** · unit ₹ crore · Operating profit = EBITDA as reported in the investor presentations (consolidated, pre-Ind AS 116 rent treatment is not adjusted; rent expense shown separately in P&L). PAT = reported Net Profit after Tax (FY26 reported 171; PAT normalized 209 before exceptional items of -49; FY25 reported 60, PAT normalized 130 before exceptional items of -98). Revenue = Revenue from Operations, external (consolidated, after inter-segment elimination). Depreciation = Depreciation & Amortisation Expense per consolidated P&L. Segment assets/liabilities are not disclosed — the single-segment note gives only geographic revenue and non-current assets (FY26 India 4,035.75 / outside India nil; FY25 India 3,743.88). AR 2025 page 111 discloses liabilities of ₹7,055.59 Cr and net assets of ₹1,226.58 Cr ACQUIRED on the Composite Scheme (opening transfer balances, not year-end segment figures), so they are not reported as segment assets/liabilities here.
 
-| | Mar 2024 | Mar 2025 | Mar 2026 |
+| | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Sales (₹ cr) | 6,441 | 7,351 | 8,177 |
-| Sales growth (%) | -48.1% | +14.1% | +11.2% |
-| Operating profit (₹ cr) | 408 | 699 | 657 |
-| Operating profit growth (%) | -73.8% | +71.3% | -6.0% |
-| Operating margin (%) | 6.3 | 9.5 | 8.0 |
-| PAT (₹ cr) | -736 | -456 | -830 |
-| PAT growth (%) | -1147.5% | +38.0% | -82.0% |
-| PAT margin (%) | -11.4 | -6.2 | -10.2 |
-| EPS (₹) | -6.2 | -3.1 | -6.4 |
+| Revenue (₹ crore) | — | 7,830 | 8,396 |
+| Revenue growth (%) | — | — | +7.2% |
+| Operating profit (₹ crore) | — | 1,269 | 1,429 |
+| Operating profit growth (%) | — | — | +12.6% |
+| Operating margin (%) | — | 16.2 | 17.0 |
+| PAT (₹ crore) | — | 60.0 | 171 |
+| PAT growth (%) | — | — | +185.0% |
 
-*Source: ProfitStatement/NiftyTotalMarket/ABFRL.csv (consolidated, screener.in); growth and margins computed here.*
-
-**Madura Fashion and Lifestyle Business ("MFL Business") — demerged from Aditya Birla Fashion and Retail Limited; now reported as the single operating segment "Branded Apparels (Garments and Accessories)" / "ABLBL" consolidated → Aditya Birla Lifestyle Brands Limited (Resulting Company)** · unit ₹ Crore · Operating profit = EBITDA as reported in the investor presentations (Revenue from Operations basis, external revenue; PBT reported is after exceptional items). PAT = Net Profit after Tax (reported, not normalised). Depreciation = Depreciation & Amortisation Expense. Annual report confirms a single operating segment, so no segment assets/liabilities disclosure; balance-sheet items shown only as Capital Employed (₹4,038 Cr Mar-25, ₹4,322 Cr Mar-26).
-
-| | FY2025 | FY2026 |
-|---|---:|---:|
-| Revenue (₹ Crore) | 7,830 | 8,396 |
-| Revenue growth (%) | — | +7.2% |
-| Operating profit (₹ Crore) | 1,269 | 1,429 |
-| Operating profit growth (%) | — | +12.6% |
-| Operating margin (%) | 16.2 | 17.0 |
-| PAT (₹ Crore) | 60.0 | 171 |
-| PAT growth (%) | — | +185.0% |
-
-*Sources:* Presentation May 2026 — page 26 (revenue, PAT, depreciation); Presentation May 2026 — page 12 (EBITDA); Presentation May 2026 — page 26 (revenue, PAT, depreciation); Presentation May 2026 — page 12 (EBITDA); Annual Report 2026 — page 252 (revenue 8,395.81)
+*Sources:* no FY2024 figures on the tagged pages (ABLBL was incorporated April 09, 2024 — Annual Report 2025 — page 111); Presentation May 2026 — page 12 (revenue, EBITDA, PAT); Presentation May 2026 — page 26 (P&L, depreciation); Annual Report 2026 — page 252 (revenue 7,829.96); Presentation May 2026 — page 12 (revenue, EBITDA, PAT); Presentation May 2026 — page 26 (P&L, depreciation); Annual Report 2026 — page 252 (revenue 8,395.81); Annual Report 2026 — page 253 (consolidated profit 171.05)
 
 *Latest quarter (Q2 FY27):* revenue 2266, operating profit 390 — Presentation Nov 2026 — page 9
 
-*Not in the pages read:* No FY2024 figures (company incorporated 09-Apr-2024). No segment assets/liabilities, no capex. Standalone-only PAT ₹59.60 Cr FY25, ₹134.61 Cr FY26.
+*Not in the pages read:* No capex, segment assets or segment liabilities. FY2025 is a part-period (company incorporated 09-Apr-2024; scheme effective 01-May-2025). No FY2024 figures.
 
-*Businesses with no numbers in the pages read (2 annual report(s) and 6 presentation(s) on file):* Aditya Birla Fashion and Retail Limited (Demerged Company) — no own financials on these pages. Louis Philippe, Van Heusen, Allen Solly, Peter England: no brand-level numbers. Aditya Birla Garments Ltd shown only as net assets ₹74.04 Cr / profit ₹36.49 Cr (AR2026 p253).
+*Businesses with no numbers in the pages read (2 annual report(s) and 6 presentation(s) on file):* No standalone numbers for Reebok, Louis Philippe, Van Heusen, Allen Solly, Peter England or Peter England Red — brand-level revenue/profit is not disclosed on these pages; they sit inside the Lifestyle Brands and Emerging Business lines.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/75984f59-6fb1-459a-a74a-6cb594e9b311.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/0be3ed93-31a6-44b2-9bdb-2a49a442ef0a.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b9b1fe95-41d1-44e9-8e6e-9c1b00f69ce1.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=063b0bb3-f0b0-4c09-adf4-01a539a33b66.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f9cf651-1294-4d12-bb80-2c724e525587.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=861fc9f0-7a7d-407a-a0b7-d1d0bc5b7584.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7b7387a0-4849-4d90-ae87-ebd5718fad44.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=16f8294d-f917-4606-850f-bf522262550d.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (ABLBL) | Aditya Birla Fashion and Retail Limited (ABFR… |
-|---|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* |
-| Sales (₹ cr) | 8,396 (Mar 2026) | 8,177 (Mar 2026) |
-| Sales growth (%) | 7.2 (Mar 2026) | 11.2 (Mar 2026) |
-| Operating margin (%) | 16.3 (Mar 2026) | 8 (Mar 2026) |
-| Operating profit growth (%) | 12.1 (Mar 2026) | -6 (Mar 2026) |
-| PAT margin (%) | 2 (Mar 2026) | -10.2 (Mar 2026) |
-| ROCE % | 15 (Mar 2025) | -3 (Mar 2025) |
-| Debtor Days | 52 (Mar 2026) | 18 (Mar 2026) |
-| Inventory Days | 252 (Mar 2026) | 298 (Mar 2026) |
-| Days Payable | 246 (Mar 2026) | 248 (Mar 2026) |
-| Cash Conversion Cycle | 59 (Mar 2026) | 68 (Mar 2026) |
-| Working Capital Days | 8 (Mar 2026) | 32 (Mar 2026) |
-| Debt / equity (x) | 2.1 (Mar 2026) | 1.1 (Mar 2026) |
-| Borrowings (₹ cr) | 3,018 (Mar 2026) | 6,189 (Mar 2026) |
-
-*Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
+Only the parent's figures are on file: Sales (₹ cr) 8,396 (Mar 2026); Sales growth (%) 7.2 (Mar 2026); Operating margin (%) 16.3 (Mar 2026); PAT margin (%) 2 (Mar 2026); Operating profit growth (%) 12.1 (Mar 2026); Debtor Days 52 (Mar 2026); Inventory Days 252 (Mar 2026); Days Payable 246 (Mar 2026); Cash Conversion Cycle 59 (Mar 2026); Working Capital Days 8 (Mar 2026); ROCE % 15 (Mar 2025); Debt / equity (x) 2.1 (Mar 2026); Borrowings (₹ cr) 3,018 (Mar 2026). The separated business has no comparable numbers in the documents read.
 
 **What stays with the parent — its segments, from the same pages:**
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Lifestyle Brands (Louis Philippe, Van Heusen, Allen Solly, Peter England) | 7,154 | 19.6% | — | — | ₹ Crore | FY2026 |
-| Emerging Business (Reebok, American Eagle, Van Heusen Innerwear etc.; labelled "Youth Brands & Innerwear" in the Q1 FY26 presentation) | 1,282 | 3.9% | — | — | ₹ Crore | FY2026 |
+| Lifestyle Brands (Louis Philippe, Van Heusen, Allen Solly, Peter England; includes Aditya Birla Garments Limited from Q2 FY26 onward, net revenue & EBITDA) | 7,154 | 19.6% | — | — | ₹ crore | FY2026 |
+| Emerging Business (Reebok, American Eagle/innerwear etc.; labelled "Youth Brands & Innerwear" in the Q1 FY26 presentation; Forever 21 exited) | 1,282 | 3.9% | — | — | ₹ crore | FY2026 |
+| Aditya Birla Garments Limited (ABGL) — manufacturing and distribution subsidiary; reported within Lifestyle Brands from Q2 FY26 (earlier within Emerging Businesses) | — | — | — | — | ₹ crore |  |
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: not stated; separated business: FY26 revenue ₹8,396 crores, up 7% YoY; Q4 FY26 revenue ₹2,174 crores, up 12% YoY; Lifestyle Brands FY26 revenue ₹7,154 crores, Emerging Business up 18% in Q4 “ABLBL revenue stood at INR 8,396 crores, up 7% YoY . EBITDA grew 13% to INR 1,429 crores versus INR 1,269 crores in last year, with margin improving by 90 bps to 17%.”
-- **operating margin** — parent / remaining: not stated; separated business: Q4 FY26 EBITDA ₹375 crores vs ₹330 crores; EBITDA margin 17.2% vs 17%; Lifestyle Brands Q4 EBITDA margin 20%, FY26 19.6%; reported standalone operating margin 7.73% for quarter ended December 31, 2025 “EBITDA margin expanded by 20 bps, up from 17% in Q uarter 4 FY26 last year to 17.2% in Quarter 4 FY26 current year.”
-- **debt and leverage** — parent / remaining: not stated; separated business: Net debt ₹726 crores at March FY26 year-end vs ₹781 crores in March last year; ₹800 crores at December end vs ₹1,000 crores at September end; debt equity ratio 0.39 times at December 31, 2025; ₹500 crores of NCDs approved by the Board on February 2, 2026 to refinance debentures repaid in January “Net debt at year -
-end stood at INR 726 crores versus INR 781 crores in March last year.”
-- **cash** — parent / remaining: not stated; separated business: FY26 operating cash flow before capex and security deposit ₹450 crores; management expects the company to become debt-free in about three years and to pay dividends of close to 15% to 25% of net profit; dividend of ₹0.50 per equity share declared “Through business operations, the company generated operating cash flow (before CAPEX and security deposit) of INR 450 crores.”
-- **capex and capital intensity** — parent / remaining: not stated; separated business: FY26 capex about ₹325 crores (guided "north of INR300 crores, perhaps INR320 crores, INR330 crores"); FY27 plan ₹250 crores–₹300 crores, of which about ₹200 crores into retail; 300+ new stores added in FY26, footprint 3,348 stores over 4.9 million square feet across nearly 800 cities and towns; ~36-37% of network COCO “So, to answer your question very directly and simply, out of, say, INR 300 crores of CAPEX , about INR 200 crores would go into retail expansion.”
-- **tax** — parent / remaining: GST orders continue to be issued in the name of Aditya Birla Fashion and Retail Limited, covering FY 2019-20 to FY 2022-23; separated business: The orders relate to the business of Aditya Birla Lifestyle Brands Limited, which got demerged from ABFRL; largest demand ₹3,10,13,33,083 (tax ₹59,06,52,705, interest ₹23,80,86,318, penalty ₹2,27,25,94,060); company says demand is not tenable and intends to appeal “Order is in the name of Aditya Birla Fashion and Retail Limited ( "ABFRL "). However, it relates to the business of the Company, which got demerged from ABFRL, pursuant to a Scheme of Arrangement effective from May 1, 2025 .”
-- **other — rationale for the separation** — parent / remaining: not stated; separated business: Demerger created an entity able to reinvest more aggressively into growth, with greater agility, sharper strategic focus and more disciplined capital allocation; expected to double in scale with improved profitability over the next five years “One of the primary reasons for demerger was to create an entity which can reinvest back more aggressively into growth.”
+- **capex and capital intensity** — parent / remaining: not stated; separated business: The demerger was intended to create an entity that can reinvest more aggressively into growth; FY26 capex was north of INR300 crores versus a historical INR150-225 crores, with INR250-300 crores planned for FY27, of which about INR200 crores goes into retail expansion. “One of the primary reasons for demerger was to create an entity which can reinvest back more aggressively into growth. Some of those signals are visible here. This year, our capex will be north of INR300 crores , perhaps INR320 crores , INR330 crores . And that's really why the debt reduction is not very large this year.”
+- **debt and leverage** — parent / remaining: not stated; separated business: ABLBL net debt INR 726 crores at end-FY26 versus INR 781 crores in March last year; debt equity ratio 0.39 times at December 31, 2025; INR500 crores of NCDs approved to refinance debentures repaid in January 2026; management expects the company to be debt-free in about three years. “Net debt at year -end stood at INR 726 crores versus INR 781 crores in March last year.”
+- **cash** — parent / remaining: not stated; separated business: ABLBL generated INR 450 crores of operating cash flow (before capex and security deposit) in FY26, largely used for store expansion; a maiden dividend of 50 paisa per share was declared in the first year post-demerger, with a stated payout range of close to 15% to 25% of net profit. “Through business operations, the company generated operating cash flow (before CAPEX and security deposit) of INR 450 crores. A large share of this cash has gone towards funding aggressive store expansion during the year.”
+- **operating margin** — parent / remaining: not stated; separated business: ABLBL FY26 EBITDA INR 1,429 crores, up 13%, with margin improving 90 bps to 17%; Lifestyle Brands FY26 margin 19.6% (up 20 bps) and Emerging Business EBITDA near 4% versus almost breakeven last year; standalone operating margin 7.73% in Q4 CY-quarter ended December 31, 2025 versus 8.42% a year earlier. “ABLBL revenue stood at INR 8,396 crores, up 7% YoY . EBITDA grew 13% to INR 1,429 crores versus INR 1,269 crores in last year, with margin improving by 90 bps to 17%.”
+- **growth** — parent / remaining: not stated; separated business: ABLBL Q4 FY26 revenue grew 12% YoY to INR 2,174 crores, Lifestyle Brands 11% and Emerging Business 18%; store network expanded by 300+ in FY26 to 3,348 stores; the business is expected to double in scale with improved profitability over the next five years. “With this diverse portfolio of strong brands and access to free cash flow, the business is poised to pursue an aggressive growth trajectory. It is expected to double in scale with improved profitability over the next five years, reinforc ing its position as one of the largest branded fashion players in the country.”
+- **working capital** — parent / remaining: not stated; separated business: Working capital rose about INR 100 crores in FY26 on pre-production of core products in new manufacturing capacity; management expects to release working capital in FY27. Current ratio 1.09 times and long term debt to working capital 0.34 times at December 31, 2025. “I think, fair question. Simple answer, is there juice for improvement on working capital? Answer is yes, and we do plan to do that this year.”
+- **tax** — parent / remaining: not stated; separated business: GST orders in the name of ABFRL but relating to the demerged business now fall on ABLBL, including a total demand of Rs. 3,10,13,33,083 (order dated March 30, 2026) and further orders dated March 16 and March 17, 2026; the Company believes the demands are not tenable and intends to appeal. “There is no impact on financials, operations or other activities of the Company. The Company believes that the said demand is n ot tenable as per the law.”
 
 **The checklist:**
 

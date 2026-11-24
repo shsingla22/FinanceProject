@@ -8,9 +8,11 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **EAAA India Alternatives Limited** | Investment manager to the funds under the alternate asset domain; the group's Alternative Asset Management bu… | listed 2026-11-02 as EDELALTS (NSE) | not stated (only Deepak Mukhija, Company Secretar… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **EAAA India Alternatives Limited** (earlier Edelweiss Alternative Asset Advisors Limited) | 2026 IPO of EAAA India Alternatives Limited (offer for sale… | Acts as the Investment Manager to the funds under alternate asset domain; alternative asset management (FPAUM… | listed 2026-11-02 as EDELALTS (NSE) | not stated (Deepak Mukhija is named as Company Se… |
+
+**The other parties to the scheme(s)** — not separated entities: Edelweiss Retail Finance Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** EAAA India Alternatives Limited, the alternative asset management (investment manager to alternate-asset funds) business, part-listed via IPO offer for sale — class `value_unlocking`.
 
@@ -20,16 +22,19 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2026-01-19 | DRHP filed — EAAA India Alternatives Limited | as stated: EFSL disclosure to BSE/NSE (EW/Sec/2025-26/388) dated January 20, 202… |
-| 2026-04-23 | SEBI observations — EAAA India Alternatives Limited | as stated: EFSL disclosure (EW/Sec/2026-27/29) dated April 24, 2026: "SEBI has o… |
-| 2026-10-19 | Other — EAAA India Alternatives Limited — Red Herring Prospectus filed with RoC Mumbai-I, SEBI, BSE and NSE | as stated: EFSL disclosure (EW/Sec/2026-27/377) dated October 20, 2026 |
-| 2026-10-20 | Other — EAAA India Alternatives Limited — price band fixed by IPO Committee of the Board (Rs. 1,585 to Rs. 1,665) | as stated: EFSL disclosure (EW/Sec/2026-27/378) dated October 20, 2026 and EAAA … |
-| 2026-10-23 | Other — EAAA India Alternatives Limited — Anchor Investor Bidding date | as stated: EFSL disclosure (EW/Sec/2026-27/377) dated October 20, 2026 |
-| 2026-10-26 | IPO opened — EAAA India Alternatives Limited | as stated: EFSL disclosure (EW/Sec/2026-27/377) dated October 20, 2026: "The IPO… |
-| 2026-10-28 | Other — EAAA India Alternatives Limited — offer period closed | as stated: EFSL disclosure (EW/Sec/2026-27/404) dated November 2, 2026: "The off… |
-| 2026-10-29 | Allotment — EAAA India Alternatives Limited | as stated: EFSL disclosure (EW/Sec/2026-27/404) dated November 2, 2026: "The sha… |
+| 2026-01-19 | DRHP filed — EAAA India Alternatives Limited | as stated: EFSL disclosure to BSE/NSE dated January 20, 2026 (EW/Sec/2025-26/388… |
+| 2026-01-20 | Filed with exchanges — EAAA India Alternatives Limited | as stated: EFSL disclosure dated January 20, 2026 intimating the DRHP filing wit… |
+| 2026-02-10 | Other — Nido Home Finance Limited | as stated: EFSL intimation dated February 10, 2026 (EW/Sec/2025-26/431), Annexur… |
+| 2026-04-23 | SEBI approval — EAAA India Alternatives Limited | as stated: EFSL disclosure dated April 24, 2026 (EW/Sec/2026-27/29): "the Securi… |
+| 2026-09-25 | Effective date — Nido Home Finance Limited | as stated: EFSL intimation dated September 25, 2026 (EW/Sec/2026-27/277): "the T… |
+| 2026-10-19 | Other — EAAA India Alternatives Limited | as stated: EFSL disclosure dated October 20, 2026 (EW/Sec/2026-27/377): Red Herr… |
+| 2026-10-20 | Other — EAAA India Alternatives Limited | as stated: EFSL disclosure dated October 20, 2026 (EW/Sec/2026-27/378): IPO Comm… |
+| 2026-10-23 | Other — EAAA India Alternatives Limited | as stated: EFSL disclosure dated October 20, 2026: "The Anch or Investor Bidding… |
+| 2026-10-26 | IPO opened — EAAA India Alternatives Limited | as stated: EFSL disclosure dated October 20, 2026: "The IPO opens on Monday , Oc… |
+| 2026-10-28 | Other — EAAA India Alternatives Limited | as stated: EFSL disclosure dated November 2, 2026 (EW/Sec/2026-27/404): "The off… |
+| 2026-10-29 | Allotment — EAAA India Alternatives Limited | as stated: EFSL disclosure dated November 2, 2026: "The shares were allotted to … |
 | 2026-11-02 | **EAAA India Alternatives Limited** listed (EDELALTS) | NSE equity list |
-| 2026-11-02 | Listing and trading — EAAA India Alternatives Limited | as stated: EFSL disclosure (EW/Sec/2026-27/404) dated November 2, 2026: "admitte… |
+| 2026-11-02 | Listing and trading — EAAA India Alternatives Limited | as stated: EFSL disclosure dated November 2, 2026: "admitted for listing and tra… |
 
 **The partial spin-off:** **EAAA India Alternatives Limited** (subsidiary); parent's stake after: 83.88% held by the Company through all its subsidiaries (ESIPL holds 78.43%); IPO stage: listed; exchange: BSE Limited and National Stock Exchange of India Limited; NSE symbol EDELALTS; timeline: The offer period in relation to the IPO was closed on October 28, 2026. The shares were allotted to the investors on October 29, 2026 and admitted for listing a.
 
@@ -39,15 +44,15 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
+**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| EAAA India Alternatives Limited | Total Income of EAAA during FY 2025-26: Rs. 963.76 crores; … | — | — | 12,764 | 49.8% | no |
+| EAAA India Alternatives Limited | Total Income of EAAA during FY 2025-26: Rs. 963.76 crores; … | — | 9.3% (FY2026) | 12,764 | 49.8% | no |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹12,891 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “No statement of the separated business's size relative to the parent is given for EAAA; the documents state only its absolute size: "Total Income of EAAA during FY 2025-26: Rs. 963.76 crores." and "Net worth of EAAA as on March 31, 2026: Rs. 1,075.54 crores." (Edelweiss' own consolidated figures for comparison are stated separately: "Revenue (Consolidated) of INR 8,896 Cr" for nine months ended Dec 25 and "Net Worth at INR 5,866 Cr".)”
+**In the documents' words:** “For Nido Home Finance Limited (Regulation 30 annexure, "The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year", As on March 31, 2025): "Income  520.63  5.47%" and "Net Worth  828.2  13.99%" of "% contribution to EFSL consolidated financials". For EAAA, the documents give only absolute figures — "Total Income of EAAA during FY 2025 -26: Rs.  963.76 crores ." and "Net worth of EAAA as on March 31, 2026: Rs. 1,075.54 crores ." — with no stated percentage of the parent.”
 
 **The judge's read of selling pressure:** unlikely — No shares distributed to EFSL shareholders; EAAA shares were sold into a book-built IPO at Rs 1,665 to bidding investors.
 
@@ -55,7 +60,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **EAAA India Alternatives Limited:** Pure offer for sale by the parent's wholly owned subsidiary, no fresh issue stated. DRHP: "The IPO comprises an offer for sale ("OFS") for an amount not exceeding Rs. 15,000 million, which is proposed to be undertaken by Edelweiss Securities & Investments Private Limited ("ESIPL"), a wholly owned subsidiary of the Company." RHP: "The IPO comprises an offer for sale ("OFS") for an amount not exceeding Rs. 12,000 million". Face value Rs. 5 each; price band "A range from a Floor Price of Rs.1,585/- per equity share to a Cap Price of Rs. 1,665/- per equity share"; "Bid Lot: 9 Equity Shares of face value of Rs. 5 each ("Minimum Bid Lot") and in multiples of 9 Equity Shares". Final: "ESIPL, a wholly owned subsidiary of the Company has sold 72,07,207 equity shares by way of Offer for Sale, at the price of Rs. 1,665 per share", "gross consideration of Rs. 1,200 crores", net to ESIPL "Rs. 1,120.63 crores" after issue expenses.
+- **EAAA India Alternatives Limited:** IPO was an offer for sale only, no fresh issue: "The IPO comprises an offer for sale (“OFS”) for an amount not exceeding Rs. 12,000 million, which is proposed to be undertaken by Edelweiss Securities & Investments Private Limited (“ESIPL”), a wholly owned subsidiary of the Company." DRHP size was "an amount not exceeding Rs. 15,000 million"; face value Rs. 5 each; price band Rs. 1,585 floor to Rs. 1,665 cap; bid lot 9 equity shares; final: 72,07,207 equity shares sold at Rs. 1,665 per share, gross consideration Rs. 1,200 crores, net consideration to ESIPL Rs. 1,120.63 crores
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -67,10 +72,10 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "ESIPL sold 72,07,207 equity shares of EAAA in the IPO, post which ESIPL holds 78.43% of the total paid-up equity share capital of EAAA." and "Consequently, the Company, through all its subsidiaries, hold 54,233,039 equity shares of EAAA representing 83.88% of the total paid-up equity share capital of EAAA." Also: "ESIPL is the holding company and one of the promoters of the Company." and "Please note that subsequent to the IPO and Offer for Sale, EAAA continues to be a subsidiary of the Company." Holding of the parent's own promoters in EAAA is not stated.
+- **What the promoters will hold in the separated entity:** EAAA 2026 IPO: "ESIPL sold 72,07,207  equity shares of EAAA in the IPO, post which ESIPL holds 78.43%  of the total paid -up equity share capital  of EAAA ." and "Consequently, the Company,  through all its subsidiaries,  hold 54,233,039  equity shares of EAAA representing 83.88 % of the total paid -up equity share capital of EAAA." — "ESIPL is the holding company and one of the promoters of the Company." / Nido 2026 transaction: "Consequent to the above, Nido has ceased to be a subsidiary of the Company and the Sellers now hold 38.91% in Nido and would hold 25.46% on a fully diluted basis post conversion of the warrants." / EAML and ETCL 2025 transaction: 15% stake sold (10% consummated, 5% to be sold subsequently) and "the Group now has joint control for both of these Entities with the new investor". No mirror shareholding or distribution of shares to the promoters of the parent is stated, since none of the transactions is a demerger.
 - **What a public shareholder receives:** not stated in the documents on file.
-- **Management incentives:** not stated for EAAA. The only stock-option disclosure relates to the parent: "During the quarter ended 31 December 2025, the Company has issued 3,83,021 equity shares of face value of 1 each to the eligible employees on exercise of employee stock options."
-- **Insider actions around the separation:** The parent group sold down through the IPO: "As part of the IPO, Edelweiss Securities and Investments Private Limited ("ESIPL"), a wholly owned subsidiary of the Company has sold 72,07,207 equity shares by way of Offer for Sale, at the price of Rs. 1,665 per share." Net proceeds to ESIPL: "Post deduction of issue expenses, ESIPL would receive the net consideration of Rs. 1,120.63 crores." The documents state: "The offer for sale does not fall within the related party transactions." No buying, selling or pledging by the promoters or management of Edelweiss Financial Services Limited around the separation is stated.
+- **Management incentives:** Existing parent-level stock options continue to be exercised: "During the quarter ended 31 December 2025, the Company has issued 3,83,021 equity shares of face value of  1 each to the eligible employees on exercise of employee stock options." Bonus provisioning: "During the quarter ended 31 December 2025, employee benefit expenses includes provision of 160 crores towards annual performance bonuses across some subsidiary entities, driven by higher profitability in respective businesses and subsidiaries." Treatment of existing grants in connection with the EAAA IPO or the Nido / asset-management transactions, any new EAAA stock option or RSU plan, exercise price or pricing date, and management or insider shareholding in EAAA: not stated.
+- **Insider actions around the separation:** Group selling in the EAAA IPO: "As part of the IPO, Edelweiss Securities and Investments Private Limited (“ESIPL”), a wholly owned subsidiary of the Company  has sold  72,07,207  equity shares  by way of Offer for Sale, at the price of Rs. 1,665 per share." with net consideration of Rs. 1,120.63 crores to ESIPL; the offer for sale "does not fall within the related party transaction s". Group selling in Nido: the Company, ERCSL and EFCL transferred 45% of Nido's paid-up equity for INR 5,80,67,79,525, with a possible "additional payment based upon returns realized by CA Sardo Investments from its investment in Nido". Pledges of group holdings for debt: "Investment of Rs. 149.72 crores in equity shares of Edelweiss Asset Management Limited, a subsidiary of the Company, has been pledged as security against the debt securities issued by Ecap Equities Limited and Edel Finance Company Limited.", "Investment of Rs. 232.11 crores in equity shares of Edel Finance Company Limited, a subsidiary of the Company, has been pledged as security against the debt securities issued by Edelcap Securities Limited.", "Investment of Rs. 140.04 crores in equity shares of Edelweiss Asset Reconstruction Company Limited, a subsidiary of the Company, has been pledged as security against the debt securities issued by Ecap Equities Limited." and a pledge of CCDs of Rs 625 crores issued by Ecap Securities and Investment Limited. No buying, selling, pledging or stated intent by the promoters or management in the shares of Edelweiss Financial Services Limited itself is stated.
 - **Insiders, per the checklist read:** ESIPL, wholly owned subsidiary and "one of the promoters", sold 72,07,207 shares yet still holds 78.43%; EFSL through all subsidiaries holds 83.88%. Management incentives in EAAA not stated. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -183,6 +188,32 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/EDELALTS.csv (consolidated, screener.in); growth and margins computed here.*
 
+**Alternatives business (Alternative Asset Mgt — EAAA India Alternatives Ltd / Edelweiss Alternatives) → EAAA India Alternatives Limited** · unit ₹ million · Annual figures are consolidated segment disclosures (Ind AS 108) in ₹ million: Segment Revenue (no inter-segment line disclosed in FY25/FY26 tables; FY24 restated figure likewise shown gross of nothing separate) and 'Segment results - Profit/(loss) before tax' i.e. PBT = Segment Revenue less Segment Expenditure. No PAT, capex or depreciation is given per segment. Quarterly/annual PAT for this business exists only in the investor presentations and in a DIFFERENT unit (₹ crore / $ Mn): FY26 PAT ₹265 Cr and FY25 PAT ₹230 Cr (Presentation Sep 2026 — page 8); year ended Mar 26 Total Income $102 Mn, Opex $66 Mn, PAT $28 Mn vs year ended Mar 25 $83 Mn / $53 Mn / $24 Mn (Presentation Apr 2026 & Jul 2026 — page 34).
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ million) | 5,842 | 7,865 | 9,638 |
+| Revenue growth (%) | — | +34.6% | +22.5% |
+| Operating profit (₹ million) | 2,127 | 2,843 | 3,485 |
+| Operating profit growth (%) | — | +33.6% | +22.6% |
+| Operating margin (%) | 36.4 | 36.1 | 36.2 |
+| PAT (₹ million) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ million) | 17,585 | 20,836 | 21,722 |
+| Segment liabilities (₹ million) | 10,295 | 11,174 | 10,967 |
+| Capital employed (₹ million) | 7,290 | 9,662 | 10,755 |
+| Return on capital employed (%) | 29.2 | 29.4 | 32.4 |
+| Segment assets / revenue (x) | 3.0 | 2.6 | 2.2 |
+| Capex (₹ million) | — | — | — |
+
+*Sources:* Annual Report 2025 — page 249 (restated comparative; Annual Report 2024 page 155 reported this activity within 'Agency' instead); Annual Report 2025 — page 247; Annual Report 2026 — page 250
+
+*Latest quarter (Q2 FY27):* revenue 280, operating profit None — Presentation Nov 2026 — page 26 (figures in ₹ Cr, not ₹ million: Total Income 280, Opex 168, PAT 88, Fee Paying AUM 49,164, Equity 1,219, annualised RoE 29%)
+
+*Not in the pages read:* No segment PAT, capex or depreciation in ₹ million; PAT only in ₹ crore/$ Mn in presentations. FY2023 Alternatives split not restated.
+
+*Businesses with no numbers in the pages read (3 annual report(s) and 6 presentation(s) on file):* All named entities refer to the one separated Alternatives business (EAAA India Alternatives Ltd), for which figures are given; no other separated business is carried by these pages.
+
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/99940134-ba81-45dc-928d-124b232833f9.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d6252c7d-1eea-4728-8223-e6fdfa78b521.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/fc2679de-97b8-472e-9dfd-2c1a8c79226c.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a879ce8-f0c1-4703-ab7a-885793b97ca7.pdf); [Presentation Sep 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a569578c-793b-4554-b3c7-52dd1544adbf.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b565b0f-7215-4a71-90c0-d3fcd5dc88eb.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81b01795-f3b2-4b77-98f1-c9aa036b1e5d.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=81b01795-f3b2-4b77-98f1-c9aa036b1e5d.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=770d10fc-9ba6-4062-97df-88fe7f1764f4.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
@@ -204,13 +235,28 @@ xychart-beta
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
+**What stays with the parent — its segments, from the same pages:**
+
+| Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
+|---|---:|---:|---:|---:|---|---|
+| Capital business (lending and investment activities; NBFC + Housing Finance) | 49,700 | 2.7% | 21.0% | 4.54x | ₹ million | FY2026 |
+| Insurance business (life and general insurance) | 34,823 | -4.4% | -13.8% | 4.13x | ₹ million | FY2026 |
+| Asset reconstruction business (Edelweiss Asset Reconstruction Company Ltd) | 9,300 | 50.7% | 15.8% | 3.79x | ₹ million | FY2026 |
+| Mutual fund business (Edelweiss Asset Management Ltd) | 2,191 | 36.5% | 31.1% | 1.18x | ₹ million | FY2026 |
+| Other business (custodian and CSR) | 3,000 | 7.0% | 18.1% | 3.64x | ₹ million | FY2026 |
+| Agency business (advisory, transactional and merchant banking) — legacy consolidated segment, replaced by 'Alternatives business' from FY2025 reporting | 8,369 | 16.2% | 15.8% | 1.92x | ₹ million | FY2024 |
+| Treasury business (income from trading activities) — legacy consolidated segment, not reported from FY2025 | 11,524 | 19.5% | 74.8% | 4.27x | ₹ million | FY2024 |
+| Holding company activities (standalone segment) — plus standalone Agency business | 10,132 | 53.8% | 10.9% | 8.31x | ₹ million | FY2024 |
+
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: Consolidated (parent, nine months ended Dec 25): PAT of INR 549 Cr, up 45% YoY; consolidated revenue of INR 8,896 Cr; separated business: Alternative Asset Management: FPAUM up 33% YoY to INR 41,920 Cr; fund raise of INR 7,576 Cr in nine months, up 67% YoY; EAAA total income rose from Rs. 584.25 crores (FY 2023-24) to Rs. 786.54 crores (FY 2024-25) to Rs. 963.76 crores (FY 2025-26) “Industry dominant Alternative Asset Management business showed a steady rise in its FPAUM, with a growth of 33% YoY to INR 41,920 Cr.”
-- **operating margin** — parent / remaining: Consolidated segment results, nine months ended 31 December 2025: Total income 8,900.48 Cr; Total profit before tax 856.38 Cr (including Insurance business loss before tax of 208.68 Cr); separated business: Alternatives business segment, nine months ended 31 December 2025: segment revenue [total income] 698.00 Cr; segment result [profit before tax] 241.40 Cr (FY 2024-25: revenue 786.54 Cr, PBT 284.25 Cr) “Alternatives business 240.84 245.51 186.43 698.00 600.78 786.54”
-- **return on capital** — parent / remaining: Total capital employed (consolidated, 31 December 2025): 5,866.04 Cr; Net Worth at INR 5,866 Cr; separated business: Alternatives business segment capital employed at 31 December 2025: 989.53 Cr; segment assets 2,078.72 Cr, segment liabilities 1,089.19 Cr; EAAA standalone net worth Rs. 1,075.54 crores as on March 31, 2026 “Alternatives business 989.53 1,022.57 918.14 989.53 918.14 966.23”
-- **debt and leverage** — parent / remaining: Consol Net Debt at INR 11,390 Cr; corporate net debt INR 6,520 Cr after a 15% decline over two years; consolidated debt equity ratio 3.46 and total debt to total assets 0.46 for nine months ended 31 December 2025; separated business: not stated “Corporate net debt continues to be on path to reduction, with a 15% decline to INR 6,520 Cr over the last two years.”
-- **cash** — parent / remaining: Comfortable Liquidity of INR 5,600 Cr; "Strong capitalization across businesses, with capital adequacy of nearly 30% across credit entities"; separated business: not stated (EAAA received no fresh issue proceeds; the Rs. 1,120.63 crores net consideration goes to ESIPL) “Comfortable Liquidity of INR 5,600 Cr”
+- **growth** — parent / remaining: Consolidated PAT (pre MI) of INR 549 Cr for nine months ended December 2025, up 45% YoY; consolidated revenue of INR 8,896 Cr; underlying business profits grew at 22% CAGR to INR 452 Cr over the last two years; separated business: Alternative Asset Management PAT grew at 28% CAGR over the same two-year period; FPAUM up 33% YoY to INR 41,920 Cr; EAAA total income grew from Rs. 584.25 crores (FY 2023-24) to Rs. 786.54 crores (FY 2024-25) to Rs. 963.76 crores (FY 2025-26) “In the same period, Alternative Asset Management PAT grew by 2 8% CAGR and Mutual Fund PAT grew by 57% CAGR”
+- **debt and leverage** — parent / remaining: Consolidated net debt at INR 11,390 Cr and consolidated debt equity ratio of 3.46 for nine months ended 31 December 2025 (2.87 a year earlier); standalone debt equity ratio 0.66; corporate net debt INR 6,520 Cr; separated business: not stated for EAAA; capital adequacy of nearly 30% across credit entities is stated at group level “Corporate net debt continues  to be on  path to reduction , with a 15% decline to INR 6,520 Cr over  the last two years”
+- **cash** — parent / remaining: Comfortable liquidity of INR 5,600 Cr and net worth of INR 5,866 Cr at group level; separated business: not stated for EAAA; proceeds of the offer for sale went to ESIPL, not to EAAA — net consideration of Rs. 1,120.63 crores “Comfortable  Liquidity  of INR  5,600 Cr”
+- **operating margin** — parent / remaining: Total profit before tax of INR 856.38 Cr on total income of INR 8,900.48 Cr for the nine months ended 31 December 2025 (segment basis); separated business: Alternatives business segment profit before tax of INR 241.40 Cr on segment revenue of INR 698.00 Cr for the nine months ended 31 December 2025 (INR 284.25 Cr on INR 786.54 Cr for FY 2024-25) “Alternatives business 240.84                      245.51                      186.43                     698.00                       600.78                       786.54”
+- **return on capital** — parent / remaining: Total capital employed of INR 5,866.04 Cr as at 31 December 2025, of which Capital business INR 563.40 Cr, Insurance INR 1,249.87 Cr and Asset reconstruction INR 2,958.63 Cr; separated business: Alternatives business segment capital employed of INR 989.53 Cr as at 31 December 2025 (INR 966.23 Cr as at 31 March 2025), against segment profit before tax of INR 241.40 Cr for nine months “Alternatives business 989.53                       1,022.57                    918.14                      989.53                        918.14                        966.23”
+- **tax** — parent / remaining: Deferred tax charge of 389 crores on the asset management stake sale, plus a 232 crore tax charge on deferred tax assets at other subsidiaries; consolidated deferred tax of INR 565.05 Cr in the December 2025 quarter; separated business: not stated for EAAA “During the quarter, deferred tax liabilities of 389 crores arising from the stake sale of Edelweiss Asset Management Company Limited (EAML) and Edelweiss Trusteeship Company Limited (ETCL) were recognised and charged to the Profit and Loss account in accordance with Ind AS requirements.”
+- **other** — parent / remaining: Consolidated net worth of INR 5,866.04 Cr as at 31 December 2025; discretionary management overlay provision of 920 crores on discontinued Security Receipts and 480 crore of conservative provisions and fair value losses at Ecap Equities, Edelweiss Investment Advisor and Edelweiss Rural and Corporate Services; separated business: EAAA net worth of Rs. 1,075.54 crores as on March 31, 2026; Alternatives segment liabilities of INR 1,089.19 Cr against segment assets of INR 2,078.72 Cr “During the quarter, to further strengthen the resilience of the balance sheet of the Group, the Group has recognised a discretionary management overlay provision of 920 crores on its discontinued Security Receipts (Purchased or Originated Credit-Impaired (POCI) loans) in the consolidated financial results as at 31 December 2025.”
 
 **The checklist:**
 

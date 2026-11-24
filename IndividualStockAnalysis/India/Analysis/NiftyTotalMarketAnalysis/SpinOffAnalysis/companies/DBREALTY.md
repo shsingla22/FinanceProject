@@ -8,46 +8,48 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Advent Hotels International Limited** | Hospitality Business: ownership/licensing/management of multiple hotel properties and services including acco… | listed 2025-11-13 as ADVENTHTL (NSE) | Mr. Rahul Pandit — Managing Director and Chief Ex… |
-| **Esteem Properties Private Limited** | Real estate: developing a 5.4-acre freehold site at Sahar, Andheri (East) near Mumbai International Airport a… | not to be listed — "The equity shares of Petitioner Company… | not stated |
-| **Horizontal Ventures Private Limited** | — | not stated | — |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Advent Hotels International Limited** (earlier Shiva Realtors Suburban Private Limited) | 2024-25 Composite Scheme of Amalgamation and Arrangement — … | Hospitality Business: ownership/licensing/management of multiple hotel properties — Hilton Mumbai (171 keys),… | listed 2025-11-13 as ADVENTHTL (NSE) | Mr. Rahul Pandit — Managing Director and Chief Ex… |
+
+**The other parties to the scheme(s)** — not separated entities: Esteem Properties Private Limited — merged in — no shares for the parent's holders; Advent Convention and Hotels International Limited — merged in — no shares for the parent's holders; Sahyadri Agro and Dairy Private Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** The hospitality (hotel ownership) business of Valor Estate, demerged into Advent Hotels International Limited — class `value_unlocking`.
 
 ### 2. Stages and dates
 
-> **Listing:** LISTED — Advent Hotels International Limited (ADVENTHTL) since 2025-11-13 (NSE equity list); record date 2025-07-18; not yet listed: Esteem Properties Private Limited, Horizontal Ventures Private Limited
+> **Listing:** LISTED — Advent Hotels International Limited (ADVENTHTL) since 2025-11-13 (NSE equity list); record date 2025-07-18
 
 | Date | Event | Source |
 |---|---|---|
-| 2024-04-01 | Appointed date — Amalgamation of Esteem Properties Private Limited with Valor Estate Limited (Appointed Date 1) | as stated: Filing dated 01st July, 2025 – Effective Date intimation; NCLT order … |
+| 2024-04-01 | Appointed date — Amalgamation of Esteem Properties Private Limited with Valor Estate Limited (Appointed Date 1) | as stated: Effective Date intimation dated 01st July 2025 |
 | 2024-06-06 | Stage reached: **announced** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/DBREALTY_06062024185054_amalgamation.pdf) |
-| 2024-06-06 | Board approval — Valor Estate Limited, Esteem Properties Private Limited and Advent Hotels International Private Limited | as stated: Intimation under Regulation 30 of the SEBI (LODR) Regulations, 2015 –… |
-| 2024-09-17 | Filed with exchanges — Valor Estate Limited | as stated: NSE Observation Letter Ref: NSE/LIST/42393 dated December 06, 2024 ("… |
-| 2024-12-05 | SEBI approval — Valor Estate Limited | as stated: NSE Observation Letter dated December 06, 2024 ("SEBI vide its letter… |
-| 2024-12-06 | Exchange no-objection — BSE Limited and National Stock Exchange of India Limited | as stated: Filing dated 7th December, 2024 – receipt of Observation Letters date… |
+| 2024-06-06 | Board approval — Valor Estate Limited, Esteem Properties Private Limited, Advent Hotels International Private Limited | as stated: Intimation under Regulation 30 dated 6th June 2024; NCLT order dated … |
+| 2024-09-17 | Filed with exchanges — Valor Estate Limited | as stated: NSE Observation Letter Ref: NSE/LIST/42393 dated December 06, 2024 (l… |
+| 2024-12-05 | SEBI observations — Valor Estate Limited | as stated: NSE Observation Letter dated December 06, 2024 ("SEBI vide its letter… |
+| 2024-12-06 | Exchange no-objection — BSE Limited and National Stock Exchange of India Limited | as stated: Disclosure under Regulation 30 dated 7th December 2024 — Observation … |
 | 2024-12-07 | Stage reached: **exchange noc** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/DBREALTY_07122024141751_Disclosure_by_Valor_Estate.pdf) |
-| 2025-02-11 | Shareholders / creditors meeting — Valor Estate Limited (equity shareholders' meeting directed to be convened within 60 days; actual meeting date not stated) | as stated: Filing dated February 12, 2025 – Order of Hon'ble NCLT, Mumbai Bench … |
+| 2025-02-11 | NCLT order — Valor Estate Limited — order convening meeting of equity shareholders | as stated: Intimation dated February 12, 2025 (Receipt of Order of the Hon'ble N… |
 | 2025-02-21 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.in/corporate/DBR_21022025195907_Disclosure.pdf) |
-| 2025-04-01 | Appointed date — Demerger of the hospitality business of Valor Estate Limited into Advent Hotels International Private Limited (Appointed Date 2) | as stated: Filing dated 01st July, 2025 – Effective Date intimation; NCLT order … |
-| 2025-04-03 | Other — Joint Company Scheme Petition filed with the Hon'ble NCLT, Mumbai Bench | as stated: Filing dated 6th June 2025 ("the Joint Company Scheme Petition filed … |
-| 2025-04-11 | Other — Company Scheme Petition C.P. (CAA) 68/2025 admitted by NCLT | as stated: Filing dated 6th June 2025; NCLT order dated 11.04.2025 as referred i… |
-| 2025-06-06 | Other — Final hearing before NCLT, Mumbai Bench; order reserved | as stated: Filing dated 6th June 2025 – Update from hearing held before Hon'ble … |
-| 2025-06-12 | NCLT order — Valor Estate Limited, Esteem Properties Private Limited, Advent Hotels International Private Limited | as stated: Filing dated 14th June, 2025 – final order dated 12th June 2025 (upda… |
-| 2025-06-18 | Other — Receipt of certified copy of the NCLT Order | as stated: Filing dated 19th June, 2025 – Receipt of Certified Copy of NCLT Order |
-| 2025-07-01 | Effective date — Composite Scheme of Amalgamation and Arrangement | as stated: Filing dated 01st July, 2025 ("the Effective Date is 1st July 2025, b… |
-| 2025-07-14 | Other — Advent Hotels International Private Limited – appointment of KMP: Rahul Pandit (MD & CEO), Amit Jain (CFO), Chirag Sojitra (CS and Compliance Officer) | as stated: Filing dated 14th July, 2025 – Announcement under Regulation 30 (LODR… |
+| 2025-03-28 | Shareholders / creditors meeting — Equity Shareholders of Valor Estate Limited (NCLT-convened meeting, 3:00 P.M. IST, via VC/OAVM) | as stated: Corrigendum dated March 20, 2025 to the Notice dated February 25, 2025 |
+| 2025-04-01 | Appointed date — Demerger of hospitality business into Advent Hotels International Private Limited (Appointed Date 2) | as stated: Effective Date intimation dated 01st July 2025 |
+| 2025-04-01 | Appointed date — Amalgamation of Sahyadri Agro and Dairy Private Limited with Horizontal Ventures Private Limited | as stated: NCLT Order delivered 29.01.2026, CP (CAA) No. 249/MB/2025 |
+| 2025-04-03 | Other — Valor Estate Limited — Joint Company Scheme Petition filed | as stated: Intimation dated 6th June 2025 (petition filed on 3rd April 2025 and … |
+| 2025-06-06 | Other — NCLT final hearing; order reserved | as stated: Intimation under Regulation 30 dated 6th June 2025 |
+| 2025-06-12 | NCLT order — Valor Estate Limited / Esteem Properties / Advent Hotels — Scheme sanctioned, C.P.(CAA) No. 68/MB-I/2025 | as stated: Intimation dated 14th June 2025; certified copy received 18th June 20… |
+| 2025-07-01 | Effective date — Composite Scheme of Amalgamation and Arrangement | as stated: Intimation dated 01st July 2025 (Effective Date of the Composite Sche… |
 | 2025-07-18 | **Record date** | NSE corporate-actions register |
 | 2025-07-18 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2025-07-18 | Record date — Valor Estate Limited (entitlement of shareholders to shares of AHIL) | as stated: Note 2 to the unaudited standalone/consolidated financial results for… |
-| 2025-08-01 | Allotment — Advent Hotels International Limited – 5,39,42,887 equity shares and 71,75,574 preference shares of Rs.10/- each; cancellation of pre-Scheme capital of 20,000 equity shares held by VEL | as stated: Filing dated 1st August, 2025 and Annexure A letter dated 1st August,… |
-| 2025-09 | Other — Advent Hotels International Limited – management guidance that listing was expected in September 2025 ("LISTING SLATED FOR EARLY SEPTEMBER 2025") | as stated: Press Release for the quarter ended June 30, 2025, filing dated 14th … |
+| 2025-07-18 | Record date — Valor Estate Limited equity (and preference) shareholders | as stated: Intimation of Record Date dated 8th July 2025 |
+| 2025-08-01 | Allotment — Advent Hotels International Limited — 5,39,42,887 equity shares and 71,75,574 preference shares allotted | as stated: Intimation dated 1st August 2025 (Allotment of Shares by Advent Hotel… |
+| 2025-08-18 | Board approval — Sahyadri Agro and Dairy Private Limited and Horizontal Ventures Private Limited | as stated: NCLT Order delivered 29.01.2026, CP (CAA) No. 249/MB/2025 |
+| 2025-10-07 | Filed with exchanges — Sahyadri Agro and Dairy Private Limited / Horizontal Ventures Private Limited scheme | as stated: Intimation dated 30th January 2026 ("We refer to our earlier intimati… |
+| 2025-10-29 | NCLT order — Order in connected Company Scheme Application C.A.(CAA)/243(MB)/2025 directing filing of the joint petition | as stated: NCLT Order delivered 29.01.2026, CP (CAA) No. 249/MB/2025 |
 | 2025-11-13 | **Advent Hotels International Limited** listed (ADVENTHTL) | NSE equity list |
-| 2025-11-13 | Listing and trading — Advent Hotels International Limited – equity shares on NSE and BSE | as stated: Press Release issued by Advent Hotels International Limited dated Nov… |
+| 2025-11-13 | Listing and trading — Advent Hotels International Limited on NSE and BSE | as stated: Press Release issued by Advent Hotels International Limited, 12th Nov… |
 | 2025-11-14 | Stage reached: **effective** | [Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DBR_14112025221835_NSE.pdf) |
 | 2025-11-15 | Stage reached: **nclt sanction** | [Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/DBR_15112025000257_fr.pdf) |
+| 2026-01-29 | NCLT order — Sahyadri Agro and Dairy Private Limited with Horizontal Ventures Private Limited — Scheme sanctioned, appointed date 1st April 2025 | as stated: Intimation under Regulation 30 dated 30th January 2026 |
 
 **The stages, as filed:** announced (2024-06-06) → exchange noc (2024-12-07) → meetings (2025-02-21) → record date (2025-07-18) → effective (2025-11-14) → nclt sanction (2025-11-15)
 
@@ -61,13 +63,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Advent Hotels International Limited | Rs. 47.29 Crores on a consolidated basis for the year ended… | 13.23% | — | 633 | 12.2% | no |
-| Esteem Properties Private Limited | Rs. 0.27 crores — turnover (standalone) for the year ended … | — | — | — | — | not listed |
-| Horizontal Ventures Private Limited | — | — | — | — | — | not listed |
+| Advent Hotels International Limited | Turnover of the Demerged Undertaking for the year ended 31s… | 13.23% | 32.3% (FY2025) | 633 | 12.2% | no |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹4,558 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"The turnover of the Demerged Undertaking for the year ended 31st March, 2024 was Rs. 47.29 Crores on a consolidated basis representing 13.23% of the total consolidated turnover of the Company for the year ended 31st March, 2024." (Annexure I, Part B – Demerger, intimation dated 6 June 2024). The tax-cost apportionment notified to shareholders puts the split at Valor Estate Limited 81.47% / Advent Hotels International Limited 18.53% of the cost of acquisition of equity shares of the Company.”
+**In the documents' words:** “The turnover of the Demerged Undertaking for the year ended 31st March, 2024 was Rs. 47.29 Crores on a consolidated basis representing 13.23% of the total consolidated turnover of the Company for the year ended 31st March, 2024.”
 
 **The judge's read of selling pressure:** likely — Only 1 AHIL share per 10 held, so tiny odd-lot positions; hospitality is a different industry from the parent's real estate.
 
@@ -75,8 +75,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Advent Hotels International Limited:** "1 (One) equity share of INR 10 each fully paid up of Advent for every 10 (Ten) equity shares of INR 10 each fully paid up held by equity shareholders of VEL" and "1 (One) preference share of INR 10 each fully paid up of Advent for every 10 (Ten) preference shares of INR 10 each fully paid up held by preference shareholders of VEL"
-- **Esteem Properties Private Limited:** "As per the proposed Scheme, as EPPL is a wholly owned subsidiary of VEL, in consideration of the amalgamation of EPPL with VEL, there shall be no consideration payable either by issue of shares by VEL or otherwise"
+- **Advent Hotels International Limited:** 1 (One) fully paid-up equity share of AHIL (face value Rs.10) for every 10 (Ten) fully paid-up equity shares of VEL (face value Rs.10) held as on the Record Date, i.e., Friday, 18th July 2025 ("Share Entitlement Ratio"); and 1 fully paid-up preference share of INR 10 of the Resulting Company for every 10 preference share of INR 10 each of the Demerged Company
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -88,9 +87,9 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "upon the Scheme becoming effective, the shares held by VEL in Resulting Company shall stand cancelled and Resulting Company will issue shares on proportionate basis to all shareholders of VEL. Shareholding of Resulting Company shall mirror shareholding of VEL on record date." Also: "There will be no change in the shareholding pattern of VEL as a result of Demerger. Resulting Company is a wholly owned subsidiary of VEL" and "There will not be any change in the shareholding pattern of the Amalgamated Company, as a result of Amalgamation, as the Amalgamating Company is a wholly owned subsidiary of the Amalgamated Company." Promoter percentages: not stated
-- **What a public shareholder receives:** "shareholders of the Company, as on the Record Date of July 18, 2025, were allotted 1 equity share of AHIL (face value Rs.10) for every 10 equity shares held in the Company"; in the NCLT order: "1 fully paid-up equity share of INR 10 of the Resulting Company ("Resulting Company New Equity Shares"), credited as fully paid-up, for every 10 equity shares of INR 10 each of the Demerged Company and 1 fully paid-up preference share of INR 10 of the Resulting Company ("Resulting Company New Preference Shares"), credited as fully paid-up, for every 10 preference share of INR 10 each of the Demerged Company". In total 5,39,42,887 fully paid-up equity shares of face value Rs.10/- each and 71,75,574 fully paid-up preference shares of Rs.10/- each were allotted on 1st August 2025; the preference shares shall remain unlisted, and the equity shares "shall remain frozen until trading approval is received". VEL's own preference shares were reduced by 10% without consideration and consolidated 10-for-9
-- **Management incentives:** "The Nomination and Remuneration Committee of the Board of Directors, at its meeting held on 14th August 2025, approved the grant of 10,00,000 (Ten Lakhs) stock options to eligible employees of the Company, its Subsidiaries, Group Companies, and Associate Companies under the "Valor Estate Limited –Employee Stock Option Plan 2024" (ESOP 2024). Also during the previous quarter ended 30th June, 2025, the Company has allotted 7.39 lakhs equity shares of Rs. 10 each at an exercise price of Rs. 41.45 per share, upon exercise of options granted under the "DB Realty Limited - Employee Stock Option Plan 2022" ("ESOP 2022")." Also: "ESOPs have been considered for the purpose of diluted earning per share, however, impact of ESOPs are anti- dilutive." and "Share based payment expenses 30.87" lakhs for the half year ended September 30, 2025. Treatment of existing grants under the Scheme, any new option/RSU/SAR plan at Advent Hotels International Limited, and management or insider shareholding: not stated
+- **What the promoters will hold in the separated entity:** 2024-25 hospitality demerger: "Following the demerger, Advent Hotels is expected to have mirror-image shareholding as that of VEL as on the record date. Promoters to hold ~47% and remainder to be held by public shareholders." Also: "ADVENT WILL BE A WHOLLY-OWNED SUBSIDIARY OF VALOR ESTATE UNTIL THE COMPOSITE SCHEME IS FULLY SANCTIONED AND WILL HAVE A MIRROR SHAREHOLDING OF VALOR ESTATE UPON LISTING". Esteem amalgamation: "There will not be any change in the shareholding pattern of the Amalgamated Company, as a result of Amalgamation, as the Amalgamating Company is a wholly owned subsidiary of the Amalgamated Company." 2025-26 Sahyadri / Horizontal Ventures amalgamation: not stated.
+- **What a public shareholder receives:** 2024-25 demerger: "Pursuant to the Scheme, shareholders of VEL have been allotted 1 (One) fully paid-up equity share of AHIL (face value Rs.10) for every 10 (Ten) fully paid-up equity shares of VEL (face value Rs.10) held as on the Record Date, i.e., Friday, 18th July 2025"; preference shareholders received "1 fully paid-up preference share of INR 10 of the Resulting Company ... for every 10 preference share of INR 10 each of the Demerged Company" (these preference shares shall remain unlisted), and the paid-up preference share capital of VEL was reduced by 10% without consideration. Post-demerger cost of acquisition apportioned: Valor Estate Limited 81.47, Advent Hotels International Limited 18.53. Esteem amalgamation into VEL: no consideration payable. 2025-26 Sahyadri amalgamation into Horizontal Ventures: not stated (amalgamation of a wholly-owned subsidiary with its holding company within the same corporate group).
+- **Management incentives:** not stated in the documents on file.
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** Mr. Arshad Balwa is Promoter Director of AHIL; Rahul Pandit is MD & CEO; AHIL governed by own Board post-demerger. Shareholders received 1 AHIL share per 10 Valor shares; promoters held 47.43% of Valor. AHIL promoter stake not stated. · *option pricing date:* 14th August 2025 (Nomination and Remuneration Committee approved grant of 10,00,000 options under ESOP 2024); earlier ESOP 2022 options exercised at Rs. 41.45 per share during quarter ended 30th June 2025
 
@@ -203,52 +202,50 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/ADVENTHTL.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Hospitality / Hospitality Business (demerged undertaking) → Advent Hotels International Limited (AHIL)** · unit Rs. in lacs · Consolidated segment reporting under Ind AS 108. Revenue = Segment Revenue (no inter-segment split disclosed). operating_profit = Segment Result, i.e. profit before unallocable (expenditure)/income, interest and finance cost and tax (EBIT-type, stated before finance cost; hospitality finance cost (net) was 3,152.86 lacs in FY2024 and 6,125.95 lacs in FY2025). No segment PAT, capex or depreciation is disclosed. Standalone segment figures for the same business are much smaller (FY2025 revenue 408.15, result 19.44, assets 96,027.79, liabilities nil; FY2024 revenue nil, result nil, assets 2,58,148.57, liabilities nil — AR2024 p.154-155, AR2025 p.164). Demerger effective 1 April 2025 appointed date; carrying value of net assets transferred to AHIL Rs. 1,01,512.91 lakhs (AR2026 p.141).
+**Hospitality / hospitality business (Demerged Undertaking; from FY2026 presented as Discontinued Operations) → Advent Hotels International Limited ("AHIL", Advent Hotels International Private Limited) — Resulting Company** · unit ₹ lakh (Rs. in lacs) · Consolidated segment disclosure under Ind AS 108. Revenue = segment revenue (external; no inter-segment amounts disclosed). Operating profit = 'Segment Results' i.e. profit before unallocable (expenditure)/income, interest and finance cost and tax (EBIT-type, before segment finance cost: FY2024 ₹3,152.86 lacs, FY2025 ₹6,125.95 lacs, and share of JV loss FY2024 (112.75), FY2025 (20.05)). Segment PAT, capex and depreciation are not disclosed. Standalone segment figures for the same business are much smaller (FY2024 revenue nil, result nil, assets 2,58,148.57; FY2025 revenue 408.15, result 19.44, assets 96,027.79, liabilities nil — AR2025 p.164) because standalone only holds the dedicated hospitality investments.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (Rs. in lacs) | 20,095 | 36,650 | — |
+| Revenue (₹ lakh (Rs. in lacs)) | 20,095 | 36,650 | — |
 | Revenue growth (%) | — | +82.4% | — |
-| Operating profit (Rs. in lacs) | 4,355 | 8,378 | — |
+| Operating profit (₹ lakh (Rs. in lacs)) | 4,355 | 8,378 | — |
 | Operating profit growth (%) | — | +92.4% | — |
 | Operating margin (%) | 21.7 | 22.9 | — |
-| PAT (Rs. in lacs) | — | — | — |
+| PAT (₹ lakh (Rs. in lacs)) | — | — | — |
 | PAT growth (%) | — | — | — |
-| Segment assets (Rs. in lacs) | 339,965 | 367,306 | — |
-| Segment liabilities (Rs. in lacs) | 105,626 | 86,089 | — |
-| Capital employed (Rs. in lacs) | 234,339 | 281,217 | — |
+| Segment assets (₹ lakh (Rs. in lacs)) | 339,965 | 367,306 | — |
+| Segment liabilities (₹ lakh (Rs. in lacs)) | 105,626 | 86,089 | — |
+| Capital employed (₹ lakh (Rs. in lacs)) | 234,339 | 281,217 | — |
 | Return on capital employed (%) | 1.9 | 3.0 | — |
 | Segment assets / revenue (x) | 16.9 | 10.0 | — |
-| Capex (Rs. in lacs) | — | — | — |
+| Capex (₹ lakh (Rs. in lacs)) | — | — | — |
 
-*Sources:* Annual Report 2024 — pages 263, 264 (confirmed in Annual Report 2025 — pages 267); Annual Report 2025 — page 267; Annual Report 2026 — pages 180, 282 (hospitality demerged from 1 April 2025; prior-period hospitality results shown as discontinued operations, but no discontinued-operations numbers appear on the supplied pages)
+*Sources:* Annual Report 2024 — pages 263, 264 (consolidated); confirmed in Annual Report 2025 — page 267; Annual Report 2025 — page 267 (consolidated); Annual Report 2026 — pages 141, 180, 282
 
-*Not in the pages read:* No PAT, capex, depreciation, or quarterly hospitality revenue/EBITDA; no FY2026 or discontinued-operations figures; FY2023 nil (segment created FY2024).
+*Not in the pages read:* No FY2026 figures (demerged w.e.f. 1 Apr 2025; shown as discontinued operations with no amounts on these pages, only net assets transferred ₹1,01,512.91 lakhs). No PAT, capex, depreciation or quarterly hospitality revenue/EBITDA.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 4 presentation(s) on file):* Esteem Properties Pvt Ltd, Horizontal Ventures Pvt Ltd, Shiva Realtors Suburban and Advent Hotels International's own standalone accounts carry no figures on these pages — only scheme narrative and the Rs. 1,01,512.91 lakhs net assets transferred.
+*Businesses with no numbers in the pages read (3 annual report(s) and 4 presentation(s) on file):* Horizontal Ventures Private Limited and Shiva Realtors Suburban: named only, no financials. Advent Hotels International Limited: no entity-level (standalone AHIL) financials; only the hospitality segment and ₹1,01,512.91 lakhs net assets transferred.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/999c589b-9faa-4084-b794-b71f09661e2a.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ec35742-c43f-472d-948c-b01998f14cec.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/009c9959-39ea-4d7b-a1af-73cb6cd964d6.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be73df3c-6551-47d0-bef7-50ffadbbbb92.pdf); [Presentation Feb 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2f1a0e9a-0a6b-40eb-a8f0-6fef79933b5b.pdf); [Presentation Nov 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f73beef9-804e-4264-bb83-22366cf0363c.pdf); [Presentation Mar 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=404990bf-591b-413a-ab02-2c4d88838a2f.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (DBREALTY) | Advent Hotels International Limited (ADVENTHT… | Esteem Properties Private Limited | Horizontal Ventures Private Limited |
-|---|---:|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* | *segment numbers (Hospitality / Hospitality Bu…* | *no numbers on file* |
-| Sales (₹ cr) | 1,593 (Mar 2026) | 388 (Mar 2026) | — | — |
-| Sales growth (%) | 40.6 (Mar 2026) | 5.7 (Mar 2026) | 82.4 (FY2025) | — |
-| Operating margin (%) | 1.6 (Mar 2026) | 33.8 (Mar 2026) | 22.9 (FY2025) | — |
-| Operating profit growth (%) | 121 (Mar 2026) | 0 (Mar 2026) | 92.4 (FY2025) | — |
-| PAT margin (%) | 1.7 (Mar 2026) | 16.8 (Mar 2026) | — | — |
-| ROCE % | 2 (Mar 2026) | 7 (Mar 2024) | 3 (FY2025) | — |
-| Debtor Days | 64 (Mar 2026) | 10 (Mar 2025) | — | — |
-| Inventory Days | 490 (Mar 2018) | — | — | — |
-| Days Payable | 18 (Mar 2018) | — | — | — |
-| Cash Conversion Cycle | 537 (Mar 2026) | 10 (Mar 2025) | — | — |
-| Working Capital Days | 182 (Mar 2026) | -2,016 (Mar 2025) | — | — |
-| Debt / equity (x) | 0.2 (Mar 2026) | 0.9 (Sep 2026) | — | — |
-| Borrowings (₹ cr) | 747 (Mar 2026) | 852 (Sep 2026) | — | — |
-| Segment assets / revenue (x) | — | — | 10 (FY2025) | — |
-| Sales (Rs. in lacs) | — | — | 36,650.2 (FY2025) | — |
+| Metric (latest year) | Parent (DBREALTY) | Advent Hotels International Limited (ADVENTHT… |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *its own reported statements* |
+| Sales (₹ cr) | 1,593 (Mar 2026) | 388 (Mar 2026) |
+| Sales growth (%) | 40.6 (Mar 2026) | 5.7 (Mar 2026) |
+| Operating margin (%) | 1.6 (Mar 2026) | 33.8 (Mar 2026) |
+| Operating profit growth (%) | 121 (Mar 2026) | 0 (Mar 2026) |
+| PAT margin (%) | 1.7 (Mar 2026) | 16.8 (Mar 2026) |
+| ROCE % | 2 (Mar 2026) | 7 (Mar 2024) |
+| Debtor Days | 64 (Mar 2026) | 10 (Mar 2025) |
+| Inventory Days | 490 (Mar 2018) | — |
+| Days Payable | 18 (Mar 2018) | — |
+| Cash Conversion Cycle | 537 (Mar 2026) | 10 (Mar 2025) |
+| Working Capital Days | 182 (Mar 2026) | -2,016 (Mar 2025) |
+| Debt / equity (x) | 0.2 (Mar 2026) | 0.9 (Sep 2026) |
+| Borrowings (₹ cr) | 747 (Mar 2026) | 852 (Sep 2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -256,19 +253,17 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Real Estate / Real Estate Business (post-demerger: single segment 'Real Estate Development') | 76,658 | -24.2% | -8.6% | 6.36x | Rs. in lacs | FY2025 |
+| Real Estate / real estate business (real estate development — sole reportable segment from FY2026) | 76,658 | -24.2% | -8.6% | 6.36x | ₹ lakh (Rs. in lacs) | FY2025 |
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: Real estate (remaining business): Q1FY26 revenue Rs. 840.33 crores vs Rs. 6.79 crores in Q1FY25, driven by the 'Ten BKC' project (Rs. 836.36 Cr on partial OC), with a further ~Rs. 800 Cr to be recognised on final OC; Q2FY26 consolidated revenue Rs. 136.85 crores vs Rs. 3.48 crores in Q2FY25; separated business: Hospitality (Advent): Q1FY26 revenue Rs. 80.43 crores, up 11% from Rs. 72.66 crores; portfolio to expand ~6x to 3,100+ keys and EBITDA from under Rs. 200 crore to over Rs. 1,200 crore by FY32 “With five projects under development, the company is on track to expand to 3,100 keys. EBITDA, currently under ₹200 crore, is projected to surpass ₹1,200 crore as these projects mature by FY32, reflecting the company’s robust growth and institutional approach.”
-- **operating margin** — parent / remaining: Real estate: Q1FY26 EBITDA Rs. 45.31 crores on revenue of Rs. 840.33 crores (margin not stated as a percentage); FY25 EBITDA Rs. (179.53) crores on revenue of Rs. 766.58 crores; Q2FY26 EBITDA Rs. 45.10 crores on revenue of Rs. 136.85 crores; separated business: Hospitality: Q1FY26 EBITDA Rs. 25.11 crores, stated at 31% of hospitality revenue; FY25 EBITDA Rs. 134.69 crores on revenue of Rs. 366.50 crores “In Q1FY26, revenue from the hospitality business amounted to Rs 80.43 crores, with an EBITDA of Rs 25.10 crores, representing 31% of hospitality revenue.”
-- **debt and leverage** — parent / remaining: Real estate: debt-to-equity 0.21:1, described as among the lowest in the sector; Rs. 839 crores of the Group's secured debt is against real estate project cashflows and expected to be repaid in the next financial year; consolidated secured debt down to Rs. 730 crores by H1FY26 after redeeming Rs. 235 crore of NCDs from the Rs. 262 crore Aradhya Park, Dahisar conveyance; separated business: Hospitality: Rs. 489 crores of borrowing facility for hotel operations, backed by its assets and cashflows, which flows into the demerged entity; consolidated non-current borrowings fell from Rs. 1,35,061.22 lakhs (31 Mar 25) to Rs. 19,061.85 lakhs (30 Sep 25); borrowings transferred with the Demerged Undertaking: Rs. 46,196.17 lakhs non-current and Rs. 16,028.03 lakhs current “The Group's consolidated secured debt presently amounts to Rs 1,328 crores. Of this, Rs 839 crores are secured against real estate project cashflows, and these real estate project loans are expected to be repaid in the next financial year. The remaining Rs 489 Crores pertains to the borrowing facility for hotel operations (now Advent Hotels), backed by its assets and cashflows which shall flow into the demerged entity upon the hospitality demerger coming through.”
-- **capex and capital intensity** — parent / remaining: Real estate: debt-light / asset-light execution, land aggregation and partnerships for construction, branding and working capital; existing portfolio of 100 million sq. ft.; separated business: Hospitality: explicitly asset-heavy, asset ownership and development — property, plant and equipment of Rs. 1,49,386.00 lakhs, intangibles Rs. 29,117.12 lakhs, CWIP Rs. 16,285.25 lakhs and goodwill Rs. 54,858.00 lakhs transferred out; five projects under development plus a ~5.4-acre Sahar parcel of ~1.50 mn sq ft (~Rs. 4,500 crore GDV) in a 50:50 JV with Prestige Group “As an independent, asset-heavy company with marquee partnerships and a strong development pipeline, we are well-positioned to capture the next phase of growth in India’s premium and luxury hospitality sector.”
-- **return on capital** — parent / remaining: not stated; separated business: Hospitality: stated goal of a mid-teens compounded ROE over the next decade or so “We are committed to building a lean, operationally excellent hotel platform that is maniacally focused on long-term shareholder value creation. Our goal is to deliver a mid-teens compounded ROE over the next decade or so, through careful acquisitions and disciplined capital allocation, ” said Mr. Arshad Balwa, Promoter Director, Advent Hotels International Limited.”
-- **cash** — parent / remaining: Parent/remaining: consolidated closing cash and cash equivalents Rs. 7,262.51 lakhs at 30 September 2025 (vs Rs. 3,719.28 lakhs opening); standalone Rs. 314.77 lakhs (vs Rs. 63.48 lakhs); separated business: Hospitality: cash and cash equivalents of Rs. 505.71 lakhs transferred out with the Demerged Undertaking “Transferred pursuant to demerger (505.71)”
-- **tax** — parent / remaining: 81.47% of the shareholder's cost of acquisition of equity shares is apportioned to Valor Estate Limited; the Company has not recognised deferred tax assets on unabsorbed depreciation and carry forward losses (including capital losses) on prudence basis; separated business: 18.53% of the cost of acquisition is apportioned to Advent Hotels International Limited; the Scheme fulfilled section 2(19AA), the allotment is not regarded as a transfer under section 47(vid), and the original date of acquisition of VEL shares is treated as the acquisition date for AHIL shares; deferred tax liability of Rs. 28,951.71 lakhs transferred with the Demerged Undertaking “The Scheme has fulfilled the provisions of section 2(19AA) of the Income Tax Act, 1961 .  As per Section 47(vid) of the Act, the allotment of equity shares by AHIL will not be regarded as a transfer.”
-- **other** — parent / remaining: Real estate revenue is lumpy — recognised only on project completion and issuance of an occupation certificate; Q2FY26 standalone revenue of Rs. 7,555.00 lakhs came from the Malad land conveyance, and Rs. 89,602.63 lakhs of TDR/Credit Note consideration for the 13,374-tenement PAP project sits as a contract liability; separated business: Hospitality revenue is operating and recurring — in Q1FY26 the 171-key Hilton Mumbai ran at 92% occupancy and the 313-key Grand Hyatt Goa at 81%, contributing Rs. 22 Cr and Rs. 58 Cr respectively “Our real estate business recognizes revenue and other profit and loss only upon project completion and the issuance of an occupation certificate by authorities. Consequently , the revenue recognition will be  asymmetrical  rather than  linear, despite project efforts spanning  multiple financial years.”
-- **other** — parent / remaining: Parent after separation: consolidated total assets Rs. 7,13,634.85 lakhs at 30 September 2025 vs Rs. 8,54,733.09 lakhs at 31 March 2025; equity attributable to owners of the parent Rs. 4,05,133.74 lakhs vs Rs. 4,89,326.83 lakhs; separated business: Demerged Undertaking: total assets Rs. 4,02,208.68 lakhs less total liabilities Rs. 3,00,014.03 lakhs, i.e. net assets of Rs. 1,02,194.65 lakhs transferred as on the Appointed Date (consolidated); Rs. 1,01,512.91 lakhs standalone “Net Assets transferred (A-B) 1,02,194.65”
+- **debt and leverage** — parent / remaining: Of consolidated secured debt of Rs 1,328 crores, Rs 839 crores are secured against real estate project cashflows, expected to be repaid in the next financial year; separated business: Rs 489 crores pertains to the borrowing facility for hotel operations (now Advent Hotels), backed by its assets and cashflows, which shall flow into the demerged entity “The Group's consolidated secured debt presently amounts to Rs 1,328 crores. Of this, Rs 839 crores are secured against real estate project cashflows, and these real estate project loans are expected to be repaid in the next financial year. The remaining Rs 489 Crores pertains to the borrowing facility for hotel operations (now Advent Hotels), backed by its assets and cashflows which shall flow into the demerged entity upon the hospitality demerger coming through.”
+- **debt and leverage** — parent / remaining: Debt-to-equity for real estate among the lowest in the sector at 0.21:1 (Q1FY26); 0.34:1 at FY25, and 0.30:1 including hospitality loans; separated business: not stated “DEBT-TO-EQUITY AMONG THE LOWEST IN THE SECTOR — 0.21:1 (REAL ESTATE)”
+- **operating margin** — parent / remaining: Real estate Q1FY26: revenue Rs 840.33 crore with EBITDA of Rs 45.31 crore and PBT Rs 26.55 crore; separated business: Hospitality Q1FY26: revenue Rs 80.43 crore with EBITDA of Rs 25.10 crore, representing 31% of hospitality revenue “In Q1FY26, revenue from the hospitality business amounted to Rs 80.43 crores, with an EBITDA of Rs 25.10 crores, representing 31% of hospitality revenue.”
+- **growth** — parent / remaining: Real estate revenue surged 123x to ₹840 Cr from ₹6.79 Cr (Q1 FY26 vs Q1 FY25); EBITDA rose 8x to ₹45 Cr from ₹5 Cr; separated business: Hospitality revenue increased by 11% to ₹80 Cr from ₹73 Cr; EBITDA grew by 18% to ₹25 Cr from ₹21 Cr “Revenue surged 123x to ₹840 Cr from ₹6.79 Cr.”
+- **other** — parent / remaining: Real estate recognises revenue only on project completion and issuance of the occupation certificate, so revenue is asymmetrical rather than linear; separated business: Hospitality revenue is operating and recurring — 171-key Hilton Mumbai occupancy 92% and 313-key Grand Hyatt Goa occupancy 81% in Q1FY26 “Our real estate business recognizes revenue and other profit and loss only upon project completion and the issuance of an occupation certificate by authorities. Consequently, the revenue recognition will be asymmetrical rather than linear, despite project efforts spanning multiple financial years.”
+- **capex and capital intensity** — parent / remaining: Debt-light / asset-light approach to real estate development, capitalising on land acquisition expertise while partnering for construction, branding and working capital; separated business: Asset-heavy, independent hospitality platform with five projects under development, expanding to 3,100 keys and EBITDA currently under ₹200 crore projected to surpass ₹1,200 crore by FY32 “As an independent, asset-heavy company with marquee partnerships and a strong development pipeline, we are well-positioned to capture the next phase of growth in India's premium and luxury hospitality sector.”
+- **other** — parent / remaining: Remaining Business — real estate, with differentiated strategy, industry risks, market dynamics, growth trajectory and funding requirements; separated business: Hospitality Business requiring differentiated capital structure, partnerships and management, ready to operate independently as a separate publicly listed entity “Each business of the Demerged Company has a differentiated strategy, different industry specific risks and operates inter alia under different market dynamics, growth trajectory, and funding requirements, structure, and timescales.”
 
 **The checklist:**
 

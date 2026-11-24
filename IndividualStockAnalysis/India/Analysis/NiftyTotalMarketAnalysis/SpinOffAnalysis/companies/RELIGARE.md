@@ -8,9 +8,11 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Religare Finvest Limited** | All financial services business activities of REL including lending activities, broking activities, investmen… | to be listed — "Yes. The equity shares of the Resulting Com… | Mr. Karthik Srinivasan (also referred to as Mr. S… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Religare Finvest Limited** | 2026 demerger of the financial services business of Religar… | All businesses pertaining to the financial services business activities including lending activities, broking… | to be listed | Mr. Karthik Srinivasan, Chief Executive Officer o… |
+
+**The other parties to the scheme(s)** — not separated entities: Religare Digital Solutions Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** REL's financial services business — lending, broking, investment activities and ancillary support services — transferred to Religare Finvest Limited — class `value_unlocking`.
 
@@ -21,13 +23,14 @@
 | Date | Event | Source |
 |---|---|---|
 | 2026-02-03 | Stage reached: **announced** | [News Verification](-) |
-| 2026-02-14 | Board approval — Religare Enterprises Limited and Religare Finvest Limited | as stated: REL intimation to BSE/NSE under Regulation 30 dated February 14, 2026… |
-| 2026-05-22 | Other — NSE submission of the draft scheme to SEBI | as stated: NSE Observation Letter Ref: NSE/LIST/53888 dated July 07, 2026 ("Base… |
+| 2026-02-03 | Other — Religare Enterprises Limited | as stated: Exchange clarification on news item "Religare Enterprises likely to a… |
+| 2026-02-14 | Board approval — Religare Enterprises Limited and Religare Finvest Limited (both boards) | as stated: Intimation of outcome of Board meeting under Regulation 30, dated Feb… |
+| 2026-05-22 | Other — Religare Enterprises Limited | as stated: NSE Observation Letter dated July 07, 2026 — NSE letter reference no.… |
 | 2026-07-07 | Stage reached: **exchange noc** | [Demerger](https://nsearchives.nseindia.com/corporate/RELIGARE_07072026181514_RELUPDATE07072026.pdf) |
-| 2026-07-07 | SEBI observations — Religare Enterprises Limited (draft scheme) | as stated: NSE Observation Letter dated July 07, 2026 ("SEBI vide its letter dat… |
-| 2026-07-07 | Exchange no-objection — NSE 'no objection' and BSE 'no adverse observations' | as stated: REL intimation dated July 07, 2026 ("the Company has received observa… |
-| 2026-08-06 | Other — Religare Enterprises Limited — RBI did not accede to the no-objection / prior approval application for the Scheme | as stated: REL intimation dated August 7, 2026 ("The Company has received a lett… |
-| 2026-08-07 | Other — Religare Finvest Limited — similar RBI communication received | as stated: REL intimation dated August 7, 2026 ("A similar communication dated A… |
+| 2026-07-07 | SEBI observations — Religare Enterprises Limited | as stated: NSE Observation Letter dated July 07, 2026: "SEBI vide its letter dat… |
+| 2026-07-07 | Exchange no-objection — Religare Enterprises Limited (NSE 'no objection'; BSE 'no adverse observations') | as stated: Intimation dated July 07, 2026 enclosing NSE observation letter (Ref:… |
+| 2026-08-06 | Other — Religare Enterprises Limited (RBI letter; request not acceded to) | as stated: Intimation dated August 7, 2026: "The Company has received a letter d… |
+| 2026-08-07 | Other — Religare Finvest Limited (similar RBI communication) | as stated: Intimation dated August 7, 2026: "A similar communication dated Augus… |
 
 **The stages, as filed:** announced (2026-02-03) → exchange noc (2026-07-07)
 
@@ -41,11 +44,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Religare Finvest Limited | "The turnover of the Demerged Undertaking for the year ende… | 6.2% | 1.8% (FY2026) | — | — | not listed |
+| Religare Finvest Limited | The turnover of the Demerged Undertaking for the year ended… | 6.2% | 6.4% (FY2026) | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,982 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"The turnover of the Demerged Undertaking for the year ended 31 March, 2025 was INR 457.29 Crores on a consolidated basis representing 6.2% of the total consolidated turnover of the Company for the year ended 31 March, 2025."”
+**In the documents' words:** “The turnover of the Demerged Undertaking for the year ended 31 March, 2025 was INR 457.29 Crores on a consolidated basis representing 6.2% of the total consolidated turnover of the Company for the year ended 31 March, 2025.”
 
 **The judge's read of selling pressure:** likely — Small (6.2% of FY25 turnover), issued 1:1 to every REL holder, and documents say it suits a different set of investors
 
@@ -63,11 +66,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** "The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025." (ICRA rationale, June 30, 2026 filing). Also stated on the May 13, 2026 call: "during the last quarter, the promoter group also increased stake in the company through open market purchases and the current shareholding is around 30.3%"; and in the Feb 16, 2026 call: "the promoter group on a fully diluted basis after the conversion of recently issued warrants shall hold 29.75% in REL, whereas the public continues to hold -- will continue to hold the remaining 70.25%"
-- **What the promoters will hold in the separated entity:** "Consequently, RFL's post-scheme equity shareholding pattern shall mirror REL's equity shareholding pattern as on Record Date (as defined in the Scheme)."; "Post-demerger, RFL's shareholding pattern will mirror REL's pre-demerger shareholding."; for the parent: "There shall be no change in shareholding pattern of REL pursuant to Scheme."
-- **What a public shareholder receives:** "1 fully paid-up equity share of the Resulting Company having face value of INR 10 (Indian Rupee Ten) each for every 1 (One) fully paid-up equity share of INR 10 (Indian Rupee Ten) each of the Demerged Company"; "REL shareholders shall receive 1 RFL share for every REL share held." No cash consideration: "No cash consideration is payable under the Scheme."
-- **Management incentives:** Treatment of existing stock options / RSUs / SARs in the Scheme, and any new plan in the resulting company, are not stated. Existing grants disclosed elsewhere: "The Company has allotted 3,10,500 and 8,84,500 equity shares during the quarter and nine months ended December 31, 2024 respectively, pursuant to exercise of stock options granted under "Religare Enterprises Limited Employees Stock Option Plan 2019" (REL ESOP Scheme 2019). These equity shares of face value of Rs. 10/- each have been allotted at an exercise price ranging from Rs. 29.43 per share to Rs. 207.20 per share." At the insurance subsidiary: "Care Health Insurance Limited, a subsidiary of the Company (CHIL) had granted 2,27,11,327 Employees Stock Options (ESOPs) to its Non-Executive Chairperson Dr. Rashmi Saluja in her capacity as an employee of the Holding Company Religare Enterprises ltd (REL) as per its ESOPs Scheme, of which 75,69,685 ESOPs have been exercised by her on October 04, 2023", with IRDAI directing "a buyback of 75,69,685 shares at the price at which they were allotted to Dr. Rashmi Saluja i.e. at INR 45.32 per share, and also cancel and revoke the stock options which remains unexercised and/or unvested as on the date of the Order"; on the Feb 16, 2026 call: "ESOPs to the tune of more than 2% of the equity of Care Health Insurance was granted to her" and "The unvested unexercised portion which is two-third of the ESOPs is something, you know, so there is no transaction which has happened as far as those ESOPs are concerned." New capital instruments: "Capital raise via a preferential allotment of convertible warrants for ₹1,500 crore, to the promoters, the Burman family, and other investors during FY26" (exercise price / pricing date not stated). Insider shareholding: "Anuj remains a 5.5% shareholder" (of Care). Stated rationale link to incentives: "Focused management attention: Enable mapping of employee performance and rewards to respective business outcomes, and facilitate attraction and retention of sector-specific talent and resources."
-- **Insider actions around the separation:** Promoter buying: "I must also mention here that during the last quarter, the promoter group also increased stake in the company through open market purchases and the current shareholding is around 30.3%. Upon conversion of outstanding warrants, this stake is expected to rise further." (May 13, 2026 call); "Yes, the promoters have increased their stake in the last quarter. I think the increase has been to the tune of roughly 4%. And post conversion of the warrants, assuming everybody converts their warrants, I mean, promoters should be close to about 34%."; "There is a strong promoter commitment from Burman Group for Religare. The promoters have subscribed to 50% of the preferential rights issue with commitment of INR750 crores during the year."; "REL has proposed a capital raise of Rs. 1,500 crore through preferential warrants, off which ~Rs. 250 crore is earmarked for RHDFCL" (ICRA, June 30, 2026). Stated intent around meeting IRDAI promoter thresholds remains open: "Now whether we can increase our stake to 26%, that is speculative. Time will tell. We have taken a first step." No promoter or management selling or pledging around the separation stated.
+- **Promoters in the parent, per the documents:** "The shareholding of the Burman family has further increased to 30.56% as on June 04, 2026, from 25.2% post the conclusion of the open offer in February 2025." (ICRA rationale, June 30, 2026). On the May 13, 2026 call: "I must also mention here that during the last quarter, the promoter group also increased stake in the company through open market purchases and the current shareholding is around 30.3%." On the February 16, 2026 call: "the promoter group on a fully diluted basis after the conversion of recently issued warrants shall hold 29.75% in REL, whereas the public continues to hold -- will continue to hold the remaining 70.25%."
+- **What the promoters will hold in the separated entity:** 2026 demerger: "There shall be no change in shareholding pattern of REL pursuant to Scheme." and "Consequently, RFL's post-scheme equity shareholding pattern shall mirror REL's equity shareholding pattern as on Record Date (as defined in the Scheme)." / "Post-demerger, RFL's shareholding pattern will mirror REL's pre-demerger shareholding." / "Post-demerger, RFL will be listed on BSE and NSE with mirror image shareholding as REL." On the May 13, 2026 call: "I think the increase has been to the tune of roughly 4%. And post conversion of the warrants, assuming everybody converts their warrants, I mean, promoters should be close to about 34%." Look-through holding in Care: "the look-through shareholding of the promoter group today in CARE is at around 18% to 19%." 2022 RBL/RDSL scheme: not stated.
+- **What a public shareholder receives:** 2026 demerger: "Upon the Scheme becoming effective and in consideration of the transfer and vesting of the Demerged Undertaking from REL to RFL in terms of this Scheme, RFL shall, issue and allot equity shares to all the members of REL, holding fully paid-up equity shares on the Record Date (as defined in the Scheme) in the following manner: "1 fully paid-up equity share of INR 10/- each of the Resulting Company ("Resulting Company New Equity Shares"), credited as fully paid-up, for every 1 equity share of INR 10/- each of the Demerged Company"" and "As consideration for the demerger, RFL will issue fully paid-up equity shares to REL shareholders on a 1:1 basis." / "REL shareholders shall receive 1 RFL share for every REL share held." "No cash consideration is payable under the Scheme." 2022 RBL/RDSL scheme: not stated (intra-group transfer of the E-Governance Undertaking on a "slump sale" basis between a wholly owned subsidiary and its own wholly owned subsidiary).
+- **Management incentives:** Treatment of existing grants under the 2026 Scheme: not stated. Existing plan at the parent: "The Company has allotted 3,10,500 and 8,84,500 equity shares during the quarter and nine months ended December 31, 2024 respectively, pursuant to exercise of stock options granted under "Religare Enterprises Limited Employees Stock Option Plan 2019" (REL ESOP Scheme 2019). These equity shares of face value of Rs. 10/- each have been allotted at an exercise price ranging from Rs. 29.43 per share to Rs. 207.20 per share." Also: "Post end of the quarter / nine months, the Company further allotted 48,000 equity shares of face value of Rs. 10/- each under the REL ESOP Scheme, 2019 on February 03, 2025." Subsidiary ESOPs: "Care Health Insurance Limited, a subsidiary of the Company (CHIL) had granted 2,27,11,327 Employees Stock Options (ESOPs) to its Non-Executive Chairperson Dr. Rashmi Saluja in her capacity as an employee of the Holding Company Religare Enterprises ltd (REL) as per its ESOPs Scheme, of which 75,69,685 ESOPs have been exercised by her on October 04, 2023." IRDAI "issued directions to cause a buyback of 75,69,685 shares at the price at which they were allotted to Dr. Rashmi Saluja i.e. at INR 45.32 per share, and also cancel and revoke the stock options which remains unexercised and/or unvested as on the date of the Order"; on the February 16, 2026 call: "It is public knowledge that ESOPs to the tune of more than 2% of the equity of Care Health Insurance was granted to her, and we also understand that the one-third options which was exercised by her currently are something which is a subject matter of discussion in the courts as well as with the agencies." Scheme rationale cites incentive alignment: "Focused management attention: Enable mapping of employee performance and rewards to respective business outcomes, and facilitate attraction and retention of sector-specific talent and resources." Insider shareholding: "And Anuj remains a 5.5% shareholder." No new plan in the resulting company is stated.
+- **Insider actions around the separation:** Promoter buying around the separation: "I must also mention here that during the last quarter, the promoter group also increased stake in the company through open market purchases and the current shareholding is around 30.3%." and "Yes, the promoters have increased their stake in the last quarter. I think the increase has been to the tune of roughly 4%. And post conversion of the warrants, assuming everybody converts their warrants, I mean, promoters should be close to about 34%." Capital commitment: "Capital raise via a preferential allotment of convertible warrants for ₹1,500 crore, to the promoters, the Burman family, and other investors during FY26" / "we also went ahead and concluded a preferential issue of warrants to the tune of INR1,500 crores, where promoter Group and the other marquee investors participated equally to the extent of INR750 crores each." Stated intent on further buying (to meet the insurance promoter threshold): "Now whether we can increase our stake to 26%, that is speculative. Time will tell. We have taken a first step." Legacy pledge by the erstwhile promoter: "The Decree Holder i.e. Daiichi has filed an application by suppressing the fact that the entire shareholding of RHC Holdings Pvt Ltd in Elive Info Tech Pvt Ltd. has been pledged in favour of RFL, as a security for various loans to group companies of RHC Holdings Pvt Ltd and obtained a status quo order on the brand "Religare"." No promoter or management selling is stated.
 - **Insiders, per the checklist read:** Burman promoter group 30.56% as on June 04, 2026 (~34% post warrant conversion); subscribed ₹750 crore of ₹1,500 crore warrants; RFL shareholding will mirror REL's 1:1 · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -341,73 +344,7 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Investment and Financing (Interest on Loans) Activities → Religare Finvest Limited (RFL)** · unit ₹ lakh · Consolidated Ind AS 108 segment disclosure. operating_profit = 'Segment Results' (pre-tax segment result after allocated expenses). revenue = External Segment Revenue only (inter-segmental revenue disclosed separately: FY24 884.40, FY25 1,236.91, FY26 947.98). Annual Report 2026 restates FY25 on the new segment presentation (external revenue 10,940.17; segment result 149.88; assets 84,504.72; liabilities 4,385.62).
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ lakh) | 17,286 | 10,001 | 15,148 |
-| Revenue growth (%) | — | -42.1% | +51.5% |
-| Operating profit (₹ lakh) | -642 | -470 | 13,143 |
-| Operating profit growth (%) | — | +26.7% | +2895.4% |
-| Operating margin (%) | -3.7 | -4.7 | 86.8 |
-| PAT (₹ lakh) | — | — | — |
-| PAT growth (%) | — | — | — |
-| Segment assets (₹ lakh) | 90,346 | 84,842 | 103,092 |
-| Segment liabilities (₹ lakh) | 27,449 | 15,507 | 6,863 |
-| Capital employed (₹ lakh) | 62,897 | 69,335 | 96,229 |
-| Return on capital employed (%) | -1.0 | -0.7 | 13.7 |
-| Segment assets / revenue (x) | 5.2 | 8.5 | 6.8 |
-| Capex (₹ lakh) | 762 | 764 | 396 |
-
-*Sources:* Annual Report 2024 — pages 270-271; Annual Report 2025 — page 146; Annual Report 2026 — pages 153-154
-
-*Not in the pages read:* No segment-level PAT (tax charged at group level only); no quarterly split of this segment in the annual reports.
-
-**Broking Related Activities → Religare Broking Limited (RBL)** · unit ₹ lakh · Consolidated Ind AS 108 segment disclosure. operating_profit = 'Segment Results' (pre-tax). revenue = External Segment Revenue (inter-segmental shown separately: FY24 193.20, FY25 280.27, FY26 786.58). Annual Report 2025 shows restated FY24 comparatives for assets (1,26,668.78) and liabilities (90,966.52); FY24 row here is as originally reported in Annual Report 2024.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ lakh) | 32,162 | 31,975 | 30,597 |
-| Revenue growth (%) | — | -0.6% | -4.3% |
-| Operating profit (₹ lakh) | 4,000 | 2,335 | 1,800 |
-| Operating profit growth (%) | — | -41.6% | -22.9% |
-| Operating margin (%) | 12.4 | 7.3 | 5.9 |
-| PAT (₹ lakh) | — | — | — |
-| PAT growth (%) | — | — | — |
-| Segment assets (₹ lakh) | 137,022 | 105,118 | 135,667 |
-| Segment liabilities (₹ lakh) | 101,319 | 74,165 | 94,905 |
-| Capital employed (₹ lakh) | 35,702 | 30,953 | 40,762 |
-| Return on capital employed (%) | 11.2 | 7.5 | 4.4 |
-| Segment assets / revenue (x) | 4.3 | 3.3 | 4.4 |
-| Capex (₹ lakh) | 1,032 | 2,446 | 267 |
-
-*Sources:* Annual Report 2024 — pages 270-271; Annual Report 2025 — page 146; Annual Report 2026 — pages 153-154
-
-*Not in the pages read:* No segment PAT (tax only at group level); no quarterly segment data for broking in these pages.
-
-**E-Governance → Religare Broking Limited (RBL)** · unit ₹ lakh · Consolidated Ind AS 108 segment disclosure. operating_profit = 'Segment Results' (pre-tax). revenue = External Segment Revenue (inter-segmental: FY24 0.34, FY25 0.31, FY26 111.44). Business sat in RBL and was transferred to Religare Digital Solutions Ltd. (RBL subsidiary) w.e.f. 19-Aug-2025 under an NCLT scheme dated 13-Jun-2025, so it travels with the broking/financial-services side.
-
-| | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|
-| Revenue (₹ lakh) | 4,518 | 5,859 | 6,176 |
-| Revenue growth (%) | — | +29.7% | +5.4% |
-| Operating profit (₹ lakh) | 566 | 1,153 | 289 |
-| Operating profit growth (%) | — | +103.7% | -75.0% |
-| Operating margin (%) | 12.5 | 19.7 | 4.7 |
-| PAT (₹ lakh) | — | — | — |
-| PAT growth (%) | — | — | — |
-| Segment assets (₹ lakh) | 1,822 | 2,763 | 2,572 |
-| Segment liabilities (₹ lakh) | 1,812 | 2,154 | 1,685 |
-| Capital employed (₹ lakh) | 10.0 | 609 | 887 |
-| Return on capital employed (%) | 5,662 | 189 | 32.5 |
-| Segment assets / revenue (x) | 0.4 | 0.5 | 0.4 |
-| Capex (₹ lakh) | 18.4 | 9.9 | 11.6 |
-
-*Sources:* Annual Report 2024 — pages 270-271; Annual Report 2025 — page 146; Annual Report 2026 — pages 153-154
-
-*Not in the pages read:* No segment PAT; no standalone quarterly E-Governance numbers (presentations merge it into 'Sale of Services').
-
-**Financial Services (Demerged Undertaking — lending, broking, e-governance) → Resulting Company** · unit ₹ crore · Investor-presentation consolidated segment reporting (two segments: Insurance and Financial Services). revenue is before inter-segment revenue adjustments; operating_profit = 'Segment Performance' = Profit/(Loss) before Tax. Results stated as not reflecting any demerger impact, which is still under approval.
+**Financial Services (consolidated segment, as reported in the investor presentations) → Resulting Company (the "Demerged Undertaking" / REL's financial services business, i.e. the integrated financial services platform)** · unit ₹ crore · "Segment Performance" = Profit/(Loss) before Tax (PBT), per the slide footnote; revenue is stated before inter-segment revenue adjustments. Assets/liabilities are segment balances at the period-end date (identical in the FY26 and Q4FY26 tables, and in the H1FY27 and Q2FY27 tables).
 
 | | FY2026 |
 |---|---:|
@@ -429,9 +366,49 @@ xychart-beta
 
 *Latest quarter (Q2 FY27):* revenue 154.28, operating profit 37.29 — Presentation Nov 2026 — page 9
 
-*Not in the pages read:* No FY24/FY25 on this two-segment basis; no PAT, capex or depreciation by segment. Q2 FY27 column label printed out of order; identified by totals (-127.79 PBT).
+*Not in the pages read:* No PAT, capex or depreciation for the segment; no FY25 or earlier year (this segment presentation starts FY26); no segment-level cash flow.
 
-**Religare Broking (RBL combined with Religare Commodities Ltd. and Religare Digital Solutions Ltd.) → Religare Broking Limited (RBL)** · unit ₹ crore · Entity-level combined income statement/balance sheet from investor presentations. operating_profit = Profit Before Tax; pat = Profit After Tax. FY24–FY25 re-instated for the NCLT scheme transferring E-Governance from RBL to RDSL. Balance sheet's printed 'Total Liabilities' line equals total of the balance sheet (equity + borrowings + payables), so segment_liabilities is left null rather than overstated.
+**Investment and Financing (Interest on Loans) Activities → Religare Finvest Limited (RFL) (lending business, incl. Religare Housing Development Finance Corporation)** · unit ₹ lakh · Consolidated Ind AS 108 segment disclosure. operating_profit = "Segment Results" (pre-tax segment result, after allocated finance costs and impairments). revenue = Total Revenue incl. inter-segmental revenue (external revenue separately disclosed: FY24 17,285.65; FY25 10,000.61; FY26 15,148.18). Capex = additions to non-current assets other than financial instruments/DTA. Taxes and PAT are not allocated to segments. FY26 segment result includes large write-backs/lower non-cash charges. AR 2025-26 restates FY25 comparatives (revenue 12,177.08; result 149.88; assets 84,504.72; liabilities 4,385.62).
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh) | 18,170 | 11,238 | 16,096 |
+| Revenue growth (%) | — | -38.2% | +43.2% |
+| Operating profit (₹ lakh) | -642 | -470 | 13,143 |
+| Operating profit growth (%) | — | +26.7% | +2895.4% |
+| Operating margin (%) | -3.5 | -4.2 | 81.7 |
+| PAT (₹ lakh) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ lakh) | 90,346 | 84,842 | 103,092 |
+| Segment liabilities (₹ lakh) | 27,449 | 15,507 | 6,863 |
+| Capital employed (₹ lakh) | 62,897 | 69,335 | 96,229 |
+| Return on capital employed (%) | -1.0 | -0.7 | 13.7 |
+| Segment assets / revenue (x) | 5.0 | 7.5 | 6.4 |
+| Capex (₹ lakh) | 762 | 764 | 396 |
+
+*Sources:* Annual Report 2024 — pages 270-271; Annual Report 2025 — page 146; Annual Report 2026 — pages 153-154
+
+*Not in the pages read:* No segment PAT (tax unallocated). Quarterly presentations do not split lending from broking — they report only a combined "Financial Services" segment.
+
+**Lending — RFL Abridged Income Statement → Religare Finvest Limited (RFL)** · unit ₹ million · Entity-level (RFL) abridged P&L from the FY16 investor presentation: revenue = Total Income; PBT and PAT as reported; depreciation as a separate expense line. Shown because lending was then still a reported REL business with its own entity numbers.
+
+| | FY2015 | FY2016 |
+|---|---:|---:|
+| Revenue (₹ million) | 21,632 | 25,283 |
+| Revenue growth (%) | — | +16.9% |
+| Operating profit (₹ million) | 3,957 | 4,367 |
+| Operating profit growth (%) | — | +10.4% |
+| Operating margin (%) | 18.3 | 17.3 |
+| PAT (₹ million) | 2,568 | 2,951 |
+| PAT growth (%) | — | +14.9% |
+
+*Sources:* Presentation May 2016 — page 15
+
+*Latest quarter (Q4 FY16):* revenue 6775, operating profit 1493 — Presentation May 2016 — page 15
+
+*Not in the pages read:* No RFL balance sheet (assets/liabilities) or capex on these pages; loan book size and NPA ratios only (page 14).
+
+**Religare Broking (RBL combined with Religare Commodities Ltd. and Religare Digital Solutions Ltd.) → Religare Broking Limited (RBL)** · unit ₹ crore · Entity-level combined P&L and balance sheet from investor presentations. revenue = Total Income (brokerage + e-governance + interest + other operational revenue); operating_profit = Profit Before Tax; pat = Profit After Tax. FY24 and FY25 re-instated for the NCLT scheme transferring the E-Governance business from RBL to RDSL w.e.f. Aug 19, 2025. FY23 from the earlier (Feb 2026) deck; FY25 differs slightly across decks (PBT 42.9 / PAT 31.3 in May 2026 vs PAT 31.9 in Nov 2025).
 
 | | FY2023 | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|---:|
@@ -451,27 +428,53 @@ xychart-beta
 
 *Sources:* Presentation Feb 2026 — page 45; Presentation May 2026 — page 44
 
-*Not in the pages read:* No quarterly RBL statements; no capex; depreciation only inside 'Other costs incl. Depreciation'; liabilities not split from equity in the printed total.
+*Not in the pages read:* Liabilities-only figure absent — the deck's "Total Liabilities" (FY26 1,397.3) includes equity. No capex, no standalone depreciation (bundled in "other costs incl. Depreciation"), no quarterly RBL P&L.
 
-**Lending — RFL abridged income statement → Religare Finvest Limited (RFL)** · unit ₹ million · Older-period entity disclosure (RFL was then REL's lending arm and a reported business). revenue = Total Income; operating_profit = PBT; pat = PAT. No inter-segment distinction given.
+**Broking Related Activities (consolidated segment: broking in securities and commodities) → Religare Broking Limited (RBL)** · unit ₹ lakh · Consolidated Ind AS 108 segment disclosure. operating_profit = "Segment Results" (pre-tax). revenue = Total Revenue incl. inter-segmental (external: FY24 32,162.30; FY25 31,975.44; FY26 30,596.56). FY24 assets/liabilities per AR 2024 (137,021.70 / 101,319.44) are restated in AR 2025 to 126,668.78 / 90,966.52. AR 2026 restates FY25 (revenue 32,449.82; result 2,725.26; assets 106,530.15; liabilities 74,502.24).
 
-| | FY2015 | FY2016 |
-|---|---:|---:|
-| Revenue (₹ million) | 21,632 | 25,283 |
-| Revenue growth (%) | — | +16.9% |
-| Operating profit (₹ million) | 3,957 | 4,367 |
-| Operating profit growth (%) | — | +10.4% |
-| Operating margin (%) | 18.3 | 17.3 |
-| PAT (₹ million) | 2,568 | 2,951 |
-| PAT growth (%) | — | +14.9% |
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh) | 32,356 | 32,256 | 31,383 |
+| Revenue growth (%) | — | -0.3% | -2.7% |
+| Operating profit (₹ lakh) | 4,000 | 2,335 | 1,800 |
+| Operating profit growth (%) | — | -41.6% | -22.9% |
+| Operating margin (%) | 12.4 | 7.2 | 5.7 |
+| PAT (₹ lakh) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ lakh) | 137,022 | 105,118 | 135,667 |
+| Segment liabilities (₹ lakh) | 101,319 | 74,165 | 94,905 |
+| Capital employed (₹ lakh) | 35,702 | 30,953 | 40,762 |
+| Return on capital employed (%) | 11.2 | 7.5 | 4.4 |
+| Segment assets / revenue (x) | 4.2 | 3.3 | 4.3 |
+| Capex (₹ lakh) | 1,032 | 2,446 | 267 |
 
-*Sources:* Presentation May 2016 — page 15
+*Sources:* Annual Report 2024 — pages 270-271; Annual Report 2025 — page 146; Annual Report 2026 — pages 153-154
 
-*Latest quarter (Q4 FY16):* revenue 6775, operating profit 1493 — Presentation May 2016 — page 15
+*Not in the pages read:* No segment PAT (tax unallocated); no quarterly broking-only segment figures (quarters show only combined "Financial Services").
 
-*Not in the pages read:* No RFL balance sheet (assets/liabilities) or capex on these pages; no RFL numbers for FY2024–FY2026.
+**E-Governance → Religare Broking Limited (RBL) — carried in Religare Digital Solutions Ltd. (RDSL) after the Aug 19, 2025 transfer** · unit ₹ lakh · Consolidated Ind AS 108 segment disclosure. operating_profit = "Segment Results" (pre-tax). revenue = Total Revenue incl. inter-segmental (external: FY24 4,518.18; FY25 5,859.05; FY26 6,175.95). AR 2026 restates FY25 (revenue 5,665.25; result 762.90; assets 3,306.22; liabilities 2,429.66).
 
-**Retail Broking (RSL, RCL, RCTL & RCDMCC combined) → Religare Broking Limited (RBL)** · unit ₹ million · Older-period combined abridged income statement of the then broking entities (predecessor of today's broking business); drawn by line-by-line addition, not AS-21 consolidation. revenue = Total Income; operating_profit = PBT; pat = PAT.
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh) | 4,519 | 5,859 | 6,287 |
+| Revenue growth (%) | — | +29.7% | +7.3% |
+| Operating profit (₹ lakh) | 566 | 1,153 | 289 |
+| Operating profit growth (%) | — | +103.7% | -75.0% |
+| Operating margin (%) | 12.5 | 19.7 | 4.6 |
+| PAT (₹ lakh) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ lakh) | 1,822 | 2,763 | 2,572 |
+| Segment liabilities (₹ lakh) | 1,812 | 2,154 | 1,685 |
+| Capital employed (₹ lakh) | 10.0 | 609 | 887 |
+| Return on capital employed (%) | 5,662 | 189 | 32.5 |
+| Segment assets / revenue (x) | 0.4 | 0.5 | 0.4 |
+| Capex (₹ lakh) | 18.4 | 9.9 | 11.6 |
+
+*Sources:* Annual Report 2024 — pages 270-271; Annual Report 2025 — page 146; Annual Report 2026 — pages 153-154
+
+*Not in the pages read:* No segment PAT; no quarterly E-Governance split (quarters report broking + e-governance together as "Sale of Services").
+
+**Retail Broking — RSL, RCL, RCTL & RCDMCC combined abridged income statement → Religare Broking Limited (RBL) — predecessor broking entities** · unit ₹ million · Line-by-line combination of the then broking entities (not an AS-21 consolidation), per the FY16 deck. revenue = Total Income; operating_profit = PBT; pat = PAT; depreciation a separate expense line.
 
 | | FY2015 | FY2016 |
 |---|---:|---:|
@@ -489,31 +492,7 @@ xychart-beta
 
 *Not in the pages read:* No balance sheet (assets/liabilities) and no capex for the combined broking entities on these pages.
 
-**Global Asset Management (RGAM Inc., abridged consolidated) → Not among the named entities — RGAM Inc. (Global Asset Management, business since exited; no longer a REL segment)** · unit ₹ million · Older-period disclosure of a business that has since left REL. revenue = Total Income; operating_profit = PBT before exceptional items; pat = PAT before exceptional items (PAT after exceptional items, incl. ₹4,662 mn goodwill impairment: FY16 (4,055)). Balance-sheet 'Total Liabilities' line equals the balance-sheet total (owners' funds + minority + liabilities), hence segment_liabilities null.
-
-| | FY2015 | FY2016 |
-|---|---:|---:|
-| Revenue (₹ million) | 7,984 | 7,409 |
-| Revenue growth (%) | — | -7.2% |
-| Operating profit (₹ million) | 3,011 | 1,803 |
-| Operating profit growth (%) | — | -40.1% |
-| Operating margin (%) | 37.7 | 24.3 |
-| PAT (₹ million) | 2,993 | 1,784 |
-| PAT growth (%) | — | -40.4% |
-| Segment assets (₹ million) | — | 20,336 |
-| Segment liabilities (₹ million) | — | — |
-| Capital employed (₹ million) | — | — |
-| Return on capital employed (%) | — | — |
-| Segment assets / revenue (x) | — | 2.7 |
-| Capex (₹ million) | — | — |
-
-*Sources:* Presentation May 2016 — page 28; Presentation May 2016 — pages 28, 35
-
-*Latest quarter (Q4 FY16):* revenue 1939, operating profit 454 — Presentation May 2016 — page 28
-
-*Not in the pages read:* Liabilities excluding equity and capex not given; no data after FY2016; business not part of the current demerger entity list.
-
-*Businesses with no numbers in the pages read (3 annual report(s) and 9 presentation(s) on file):* Religare Housing Development (RHDFCL) and the MSME lending platform: no own revenue/profit/assets on these pages. 'Religare Enterprises Limited', 'All financial services', 'Remaining Business', 'Demerged Undertaking', 'Resulting Company', 'integrated financial services platform' are labels, covered by the Financial Services / Insurance entries.
+*Businesses with no numbers in the pages read (3 annual report(s) and 9 presentation(s) on file):* Religare Housing Development Finance Corporation, the MSME lending platform, "All businesses pertaining"/Demerged Undertaking as a named unit, and the "integrated financial services platform" carry no separate numbers; they are only inside the lending and Financial Services segments.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/e39a7a22-6788-44a5-98c8-dbca3a254037.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/e61d192e-af83-47ba-a9b3-aa6139413f14.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/66dee373-9e76-41dc-b09e-307e8a5f12b8.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9b70cf85-149b-4188-8add-26249645a67c.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63b20582-f82d-4d1f-9a76-894e5f09272f.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38ef75a5-c95e-408d-8340-384c9799728a.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=eeb99c86-3990-40f3-83d8-d3a3c35c4f1d.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f96baab-04ea-4141-8fe8-ccd98f06a06b.pdf); [Presentation May 2016](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=E52C4BD9_6D7E_489D_B2A2_3376D2D725B1_103932.pdf)
 
@@ -521,20 +500,20 @@ xychart-beta
 
 | Metric (latest year) | Parent (RELIGARE) | Religare Finvest Limited |
 |---|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Investment and Financing (In…* |
+| *Basis* | *reported, consolidated* | *segment numbers (Financial Services (consolid…* |
 | Sales (₹ cr) | 8,459 (Mar 2026) | — |
-| Sales growth (%) | 14.5 (Mar 2026) | 51.5 (FY2026) |
-| Operating margin (%) | 1.6 (Mar 2026) | 86.8 (FY2026) |
-| Operating profit growth (%) | -61.8 (Mar 2026) | 2,895.4 (FY2026) |
+| Sales growth (%) | 14.5 (Mar 2026) | — |
+| Operating margin (%) | 1.6 (Mar 2026) | 28.3 (FY2026) |
+| Operating profit growth (%) | -61.8 (Mar 2026) | — |
 | PAT margin (%) | 0.9 (Mar 2026) | — |
-| ROCE % | 3 (Mar 2026) | 13.7 (FY2026) |
+| ROCE % | 3 (Mar 2026) | 11 (FY2026) |
 | Debtor Days | 5 (Mar 2026) | — |
 | Cash Conversion Cycle | 5 (Mar 2026) | — |
 | Working Capital Days | -289 (Mar 2026) | — |
 | Debt / equity (x) | 0.2 (Mar 2026) | — |
 | Borrowings (₹ cr) | 493 (Mar 2026) | — |
-| Segment assets / revenue (x) | — | 6.8 (FY2026) |
-| Sales (₹ lakh) | — | 15,148.2 (FY2026) |
+| Segment assets / revenue (x) | — | 4.5 (FY2026) |
+| Sales (₹ crore) | — | 537.7 (FY2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -542,22 +521,20 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Insurance (Health Insurance — Care Health Insurance) | 796,580 | -0.6% | -1.8% | 1.51x | ₹ lakh | FY2026 |
-| Insurance (investor-presentation consolidated segment reporting) | 7,969 | -0.6% | -1.8% | 1.51x | ₹ crore | FY2026 |
-| Care Health Insurance — financial profile (subsidiary-level) | 11,417 | 4.5% | — | — | ₹ crore | FY2026 |
-| Health Insurance (RHICL — older-period abridged statements) | 5,033 | -15.7% | — | 1.14x | ₹ million | FY2016 |
-| Unallocated (consolidated) | 883 | -206.3% | -5.8% | 3.05x | ₹ lakh | FY2026 |
+| Insurance (Health Insurance) | 796,905 | -0.6% | -1.8% | 1.51x | ₹ lakh | FY2026 |
+| Support Services (standalone REL segment; aggregated into Investment & Financing Activities from FY2026) | 2,107 | -156.0% | — | 1.06x | ₹ lakh | FY2025 |
+| Investment Others (standalone REL segment) | 273 | 98.9% | 11.4% | 8.67x | ₹ lakh | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **debt and leverage** — parent / remaining: REL is debt free after repaying a ₹75 crore loan out of the preferential issue proceeds; insurance subsidiary Care raised sub debt of INR100 crores in FY26 and has solvency of 1.68 as of 31st March 2026; separated business: RFL is debt-free with no subsisting default, CRAR of 261.9% and no cumulative ALM mismatches; the balance sheets are unlevered, with RHDFCL managed gearing of 0.3 times and CRAR of 130% “"Strengthened balance sheet with net worth of ₹898.8 crore and 261.9% CRAR as of 31st March 2026 following RBI's removal of the Corrective Action Plan (CAP) restrictions and withdrawal of fraud classification by banks"”
-- **cash** — parent / remaining: Cash at REL standalone not stated; of the ₹1,500 crore warrant issue, ₹600 crore is earmarked for Care, of which ₹256 crore was infused in September '25; separated business: RFL holds surplus cash and liquid investments of over ₹591 crore against a core SME book of about ₹60 crore “"RFL reported a profit of INR89 crores in quarter 4 on account of improved recoveries and has a cash balance including liquid investments of over INR591 crores currently."”
-- **growth** — parent / remaining: Health insurance drove consolidated growth: gross written premium ₹11,417 crore in FY26, up 24% YoY, retail market share up from 18.8% to 19.7% in SAHI; management expects growth "anything between 18% to 24%"; separated business: Broking income declined: "On the full year basis for financial year '26, our overall top line saw a marginal decline by 2%, and it came down to INR373 crores"; RHDFCL AUM moderated to Rs. 243 crore as on March 31, 2026 from Rs. 250 crore as on March 31, 2025; RFL's NBFC business "is set to restart operations post RBI CAP removal" “"Consolidated Revenue grew 14.7% YoY to ₹8,493.84 crore in FY26 led by the health insurance business"”
-- **operating margin** — parent / remaining: Care's combined ratio under Ind AS improved by 120 basis points to 101.4% and PBT on 'n' basis rose 38% to ₹539 crore; insurance segment reported a loss of approximately INR46.8 crores at PBT level for FY26; separated business: Financial Services segment PBT of INR127.5 crores for Q4 and INR152.3 crores for FY26; RHDFCL operating expenses elevated at 16.8% in FY2026 vs 15.3% in FY2025 with a full-year loss of about INR18.6 crores “"For the Financial Services segment, PBT of INR127.5 crores was reported for the last quarter and INR152.3 crores on the annual basis."”
-- **return on capital** — parent / remaining: Care: "We continue to deliver mid-teens ROE for the fourth consecutive financial year"; ROE on PBT basis 19.9% in FY26; separated business: Broking ROE in single digits (investor framing on the Feb 16, 2026 call: "we are having 6%, 7% ROE, right?" — "That number we have not done as of now"); RHDFCL PAT and RoMA of Rs. -18.4 crore and -6.7% respectively in FY2026 “"Return on equity based on profit before tax increased to 19.9% from 17.7% in the previous year."”
-- **capex and capital intensity** — parent / remaining: ₹600 crore of the ₹1,500 crore raise is earmarked for Care Health Insurance; ₹256 crore already infused in September '25; separated business: ₹250 crore earmarked for the housing finance company and ₹200 crore for broking; RFL requires no fresh capital — "that obviously does not require any capital"; both lending platforms are in a build-out phase requiring opex and capex before scale “"Out of the INR1,500 crores, INR600 crores is going to Care, INR250 crores is going to the housing finance company, INR200 crores is going to the broking entity. And there's about INR375-odd crores, which is a general corporate purpose fund, which can be allocated depends on the need of these businesses."”
-- **tax** — parent / remaining: The Scheme is structured to comply with Section 2(19AA) of the Income Tax Act; no further tax treatment of the parent stated; separated business: No separate tax treatment of the resulting company stated beyond Section 2(19AA) compliance “"in compliance with the provisions of the SEBI Scheme Circular – Equity (as defined in the Scheme) and the Income Tax Act (as defined in the Scheme), including Section 2(19AA) thereof"”
-- **other** — parent / remaining: REL will be a listed holding company holding a single asset, Care Health Insurance, with the promoter group's look-through stake in Care at around 18%–19%, below the IRDAI promoter threshold discussed on the calls; separated business: RFL will operate as an integrated financial services platform with Religare Broking as a direct subsidiary and Religare Housing Finance as a fellow subsidiary; listing targeted for Q1 FY28 “"So you are right in terms of the fact that the look-through shareholding of the promoter group today in CARE is at around 18% to 19%."”
+- **operating margin** — parent / remaining: Insurance segment reported a loss of approximately ₹46.8 crore at PBT level for FY26 (segment revenue ₹7,969 crore); Care's combined ratio under Ind AS improved 120 bps to 101.4%; separated business: Financial Services segment reported PBT of ₹152.3 crore for FY26 on segment revenue of about ₹537 crore “The profitability for the insurance segment is at INR41 crores for the last quarter, while it reported a loss of approximately INR46.8 crores at PBT level for FY26. For the Financial Services segment, PBT of INR127.5 crores was reported for the last quarter and INR152.3 crores on the annual basis.”
+- **growth** — parent / remaining: Health insurance GWP up 24% YoY to ₹11,417 crore in FY26; retail market share up from 18.8% to 19.7% in SAHI; expected growth "anything between 18% to 24%"; separated business: Broking operating income down 2% to ₹373.4 crore in FY26 with PBT down 31%; RFL core SME book down to about ₹60 crore; RHDFCL AUM down to ₹243 crore from ₹250 crore “Consolidated Revenue grew 14.7% YoY to ₹8,493.84 crore in FY26 led by the health insurance business”
+- **debt and leverage** — parent / remaining: REL repaid its ₹75 crore loan and "REL today is debt free"; Care raised sub debt of ₹100 crore in FY26 and runs investment leverage of 4.07x; separated business: RFL is debt-free with no subsisting default, no cumulative ALM mismatches, CRAR 261.9% and NOF ₹821 crore; RHDFCL managed gearing 0.3 times with 130% CRAR “Debt-free; strong liquidity profile with cash balance, including liquid investment of ~₹591 crore as of 31st March 2026”
+- **cash** — parent / remaining: Capital raise of ₹1,500 crore via convertible warrants at REL, of which ₹600 crore earmarked for Care (₹256 crore infused in September '25); separated business: RFL holds cash including liquid investments of over ₹591 crore, entirely unlevered; ₹250 crore earmarked for RHDFCL and ₹200 crore for broking “RFL reported a profit of INR89 crores in quarter 4 on account of improved recoveries and has a cash balance including liquid investments of over INR591 crores currently.”
+- **return on capital** — parent / remaining: Care: "Return on equity based on profit before tax increased to 19.9% from 17.7% in the previous year"; mid-teens ROE for the fourth consecutive financial year; separated business: Broking ROE in single digits (6%-7%) with no pathway number worked out; RHDFCL PAT and RoMA of Rs. -18.4 crore and -6.7% in FY2026 “So basically, we are having 6%, 7% ROE, right? So I wanted to understand, is there a pathway and how quickly can we go to a normal ROE for a broker, which is in the vicinity of 25%, 30%?”
+- **capex and capital intensity** — parent / remaining: ₹600 crore of the ₹1,500 crore warrant proceeds allocated to Care Health Insurance to support solvency and business growth; separated business: ₹250 crore to housing finance, ₹200 crore to broking, ₹375 crore general corporate purpose; RFL needs no capital infusion; IT platforms being refurbished across RFL, RBL and RHDFCL “Out of the INR1,500 crores, INR600 crores is going to Care, INR250 crores is going to the housing finance company, INR200 crores is going to the broking entity. And there's about INR375-odd crores, which is a general corporate purpose fund, which can be allocated depends on the need of these businesses.”
+- **tax** — parent / remaining: Scheme framed to comply with Section 2(19AA) of the Income Tax Act; details of accounting method to be certified by the Statutory Auditor per SEBI comments; separated business: Scheme framed to comply with Section 2(19AA) of the Income Tax Act “in compliance with the provisions of the SEBI Scheme Circular – Equity (as defined in the Scheme) and the Income Tax Act (as defined in the Scheme), including Section 2(19AA) thereof.”
+- **other** — parent / remaining: REL continues to be barred from declaring dividends as per RBI letter issued in December, 2019; REL retains a single asset (Care) with a stated holding-company discount concern; separated business: RFL's RBI Corrective Action Plan and the banks' fraud classification have been removed; the NBFC business is set to restart operations “Strengthened balance sheet with net worth of ₹898.8 crore and 261.9% CRAR as of 31st March 2026 following RBI's removal of the Corrective Action Plan (CAP) restrictions and withdrawal of fraud classification by banks”
 
 **The checklist:**
 

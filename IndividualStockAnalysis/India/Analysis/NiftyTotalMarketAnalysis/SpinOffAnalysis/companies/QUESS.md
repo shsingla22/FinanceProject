@@ -8,10 +8,12 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Digitide Solutions Limited** | Demerged Undertaking 1 / Resulting Company 1: BPM Services, Insurtech and HRO; AI-driven digital transformati… | listed 2025-06-11 as DIGITIDE (NSE) | Mr. Gurmeet Chahal – CEO of Digitide Solutions Lt… |
-| **Bluspring Enterprises Limited** | Demerged Undertaking 2 / Resulting Company 2: infra services — Facility Management, Food Services, Security S… | listed 2025-06-11 as BLUSPRING (NSE) | Mr. Kamal Pal Hoda – CEO of Bluspring Enterprises… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Digitide Solutions Limited** | 2025 three-way demerger (Composite Scheme of Arrangement be… | Demerged Undertaking 1 / Transferred Business 1: BPM Services, Insurtech and HRO — Conneqt, Allsec, Brainhunt… | listed 2025-06-11 as DIGITIDE (NSE) | Gurmeet Chahal, CEO; Suraj Prasad, CFO |
+| **Bluspring Enterprises Limited** | 2025 three-way demerger (Composite Scheme of Arrangement be… | Demerged Undertaking 2 / Transferred Business 2: infra services — Facility Management, Food Services, Securit… | listed 2025-06-11 as BLUSPRING (NSE) | Kamal Pal Hoda, CEO (elevated from Group CFO of Q… |
+
+**The other parties to the scheme(s)** — not separated entities: Thomas Cook (India) Limited (THOMASCOOK) — the company this one was spun out of
 
 **What is being separated, as the documents put it:** Digitide Solutions (technology/BPM) and Bluspring Enterprises (industrial/facility services) separated from Quess, leaving a pure-play workforce staffing company — class `value_unlocking`.
 
@@ -21,28 +23,29 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2024-02 | Board approval — Quess Corp Limited | as stated: Press Release 'Quess receives NCLT approval for Three-Way Demerger', … |
-| 2024-04-01 | Appointed date — Quess Corp Limited, Digitide Solutions Limited, Bluspring Enterprises Limited | as stated: Filing 2025-03-31 ('the Scheme has become effective with the Appointe… |
-| 2024-07-31 | Exchange no-objection — BSE Limited (for Quess Corp Limited) | as stated: Reply affidavit to RD/ROC Common Report, reproduced in NCLT order dat… |
+| 2024-02-16 | Board approval — Quess Corp Limited | as stated: Intimation regarding receipt of Observation letters, filing dated Aug… |
+| 2024-03-02 | Filed with exchanges — Quess Corp Limited / Digitide / Bluspring | as stated: NSE Observation Letter Ref: NSE/LIST/40413 dated August 01, 2024: "vi… |
+| 2024-04-01 | Appointed date | as stated: Filing dated March 31, 2025 – effective date intimation: "the Scheme … |
+| 2024-07-31 | SEBI observations | as stated: BSE letter DCS/AMAL/AK/R37/3275/2024-25 dated July 31, 2024 and NSE l… |
+| 2024-07-31 | Exchange no-objection — BSE Limited | as stated: Observation letter of BSE dated July 31, 2024, intimated by filing da… |
 | 2024-08-01 | Stage reached: **exchange noc** | [Updates](https://nsearchives.nseindia.in/corporate/QUESS_01082024172801_SEintimation_Observationletters.pdf) |
-| 2024-08-01 | Exchange no-objection — National Stock Exchange of India Limited (for Quess Corp Limited) | as stated: Reply affidavit to RD/ROC Common Report, reproduced in NCLT order dat… |
+| 2024-08-01 | Exchange no-objection — National Stock Exchange of India Limited | as stated: Observation letter of NSE dated August 1, 2024, intimated by filing d… |
 | 2024-09-20 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.in/corporate/QUESS_20092024161308_Quess_Transcript.pdf) |
-| 2024-10-22 | Other — NCLT first motion order (meetings directed/dispensed) — Quess Corp Limited, Digitide Solutions Limited, Bluspring Enterprises Limited | as stated: NCLT Bengaluru Bench order in C.A.(CAA) No. 36/BB/2024, referred to i… |
+| 2024-10-22 | NCLT order — First motion order, C.A. (CAA) No.36/BB/2024 (meetings of equity shareholders of Digitide and Bluspring and secured creditors of Quess dispensed with) | as stated: Filing dated October 24, 2024 – 'Receipt of 1st motion order of Natio… |
 | 2024-10-24 | Stage reached: **nclt sanction** | [Updates](https://nsearchives.nseindia.in/corporate/QUESS_24102024104954_SE_Intimation_Receiptof1stmotionorder.pdf) |
-| 2024-12-09 | Shareholders / creditors meeting — Quess Corp Limited (Equity Shareholders and Unsecured Creditors); votes in favour 99.97% | as stated: Filing 2024-12-09, 'Proceedings of Court Convened General Meeting hel… |
-| 2024-12-12 | Other — second motion petition filed with NCLT — Quess Corp Limited, Digitide Solutions Limited, Bluspring Enterprises Limited | as stated: NCLT Bengaluru Bench order C.P.(CAA) No.47/BB/2024 delivered 4 March … |
-| 2024-12-19 | Other — NCLT admitted the second motion petition — Quess Corp Limited, Digitide Solutions Limited, Bluspring Enterprises Limited | as stated: Filing 2024-12-23, NCLT order dated December 19, 2024 (uploaded 23 De… |
-| 2025-03-04 | NCLT order — Quess Corp Limited, Digitide Solutions Limited, Bluspring Enterprises Limited | as stated: Filing 2025-03-04 (pronouncement) and filing 2025-03-06 (copy of orde… |
-| 2025-03-18 | Other — certified true copy of NCLT order received — Quess Corp Limited | as stated: Filing 2025-03-18, 'Receipt of Certified True Copy of Order and Compo… |
+| 2024-12-09 | Shareholders / creditors meeting — Quess Corp Limited equity shareholders (10:30 A.M., votes in favour 99.97%) and unsecured creditors (12:00 P.M., votes in favour 100%) | as stated: Shareholders meeting filings and Scrutinizer's Reports dated December… |
+| 2024-12-12 | Other — Second Motion Petition CP (CAA) No.47/BB/2024 filed | as stated: NCLT order delivered 04/03/2025, enclosed with filing dated March 06,… |
+| 2024-12-19 | NCLT order — Admission of second motion petition; hearing fixed for 30 January 2025 | as stated: Filing dated December 23, 2024 (order uploaded on NCLT website Decemb… |
+| 2025-03-04 | NCLT order — Hon'ble NCLT, Bengaluru Bench sanctioning the Composite Scheme of Arrangement (certified true copy received, intimated 18 March 2025) | as stated: Filing dated March 04, 2025 and press release dated March 06, 2025 'Q… |
 | 2025-03-31 | Stage reached: **effective** | [General Updates](https://nsearchives.nseindia.in/corporate/QUESS_31032025170754_Quess_SELetter_EffectivenessofScheme_31032025.pdf) |
-| 2025-03-31 | Effective date — Quess Corp Limited, Digitide Solutions Limited, Bluspring Enterprises Limited (Form INC-28 filed with RoC Karnataka) | as stated: Filing 2025-03-31, 'Effective date of the Composite Scheme of Arrange… |
+| 2025-03-31 | Effective date — Quess Corp, Digitide and Bluspring each filed Form No. INC-28 with the Registrar of Companies, Karnataka | as stated: Filing dated March 31, 2025 – 'Effective date of the Composite Scheme… |
 | 2025-04-15 | **Record date** | NSE corporate-actions register |
 | 2025-04-15 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2025-04-15 | Record date — Quess Corp Limited shareholders (entitlement to Digitide and Bluspring shares) | as stated: Filing 2025-04-01, 'Intimation of Record Date for the demerger of the… |
-| 2025-04-21 | Allotment — Digitide Solutions Limited and Bluspring Enterprises Limited — 14,89,49,413 shares of Rs. 10/- each by each company | as stated: Filing 2025-04-21, 'Allotment of shares by Digitide Solutions Limited… |
+| 2025-04-15 | Record date — Quess Corp Limited (Demerged Company) shareholders entitled to shares of Digitide and Bluspring | as stated: Record date intimation dated April 01, 2025 |
+| 2025-04-21 | Allotment — Digitide Solutions Limited and Bluspring Enterprises Limited — 14,89,49,413 shares of Rs. 10/- each allotted by each | as stated: Filing dated April 21, 2025 – 'Allotment of shares by Digitide Soluti… |
 | 2025-06-11 | **Digitide Solutions Limited** listed (DIGITIDE) | NSE equity list |
 | 2025-06-11 | **Bluspring Enterprises Limited** listed (BLUSPRING) | NSE equity list |
-| 2025-06-11 | Listing and trading — Digitide Solutions Limited and Bluspring Enterprises Limited (BSE and NSE) | as stated: Filing 2025-06-09, 'Listing of equity shares of Digitide Solutions Li… |
+| 2025-06-11 | Listing and trading — Digitide Solutions Limited and Bluspring Enterprises Limited (BSE and NSE) | as stated: Filing dated June 09, 2025 – 'Listing of equity shares of Digitide So… |
 
 **The stages, as filed:** exchange noc (2024-08-01) → meetings (2024-09-20) → nclt sanction (2024-10-24) → effective (2025-03-31) → record date (2025-04-15)
 
@@ -50,16 +53,16 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
+**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Digitide Solutions Limited | not stated | 26.47% | 13.6% (FY2024) | 934 | 15.4% | no |
-| Bluspring Enterprises Limited | not stated | 31.82% | 16.3% (FY2024) | 2,433 | 32.2% | no |
+| Digitide Solutions Limited | Global Technology Solutions / Global Technology Services pl… | — | 13.6% (FY2024) | 934 | 15.4% | no |
+| Bluspring Enterprises Limited | Operating Asset Management platform revenue FY24 ₹2,801 cr … | — | 13.6% (FY2024) | 2,433 | 32.2% | no |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,118 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"For the purpose of determining the cost of acquisition of equity shares of the Company, Digitide and Bluspring (post demerger), you are advised to apportion your cost of acquisition of equity shares in the Company in the following manner: 1. Quess Corp Limited 41.71%; 2. Digitide Solutions Limited 26.47%; 3. Bluspring Enterprises Limited 31.82%" (Filing 2025-04-14). Also, post-listing: "The three companies now generate around ₹500 crore in EBITDA and employ over 600,000 people." (19th AGM, 25 August 2026)”
+**In the documents' words:** “"For the purpose of determining the cost of acquisition of equity shares of the Company, Digitide and Bluspring (post demerger), you are advised to apportion your cost of acquisition of equity shares in the Company in the following manner: 1. Quess Corp Limited 41.71% 2. Digitide Solutions Limited 26.47% 3. Bluspring Enterprises Limited 31.82%" (apportionment of % of Cost of Acquisition of Equity Shares of the Company, filing dated 14 April 2025). Segment revenues FY24, as reported: Workforce Management ₹13,442 cr, Global Technology Services ₹2,340 cr, Operating Asset Management ₹2,801 cr, Product Led Business ₹517 cr.”
 
 **The judge's read of selling pressure:** likely — Management notes "the stock saw some weakness immediately following the demerger"; resulting companies sit in different industries (technology, industrial services)
 
@@ -67,8 +70,8 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Digitide Solutions Limited:** "Digitide shall issue and allot 1 (One) fully paid-up equity share of Digitide having face value of Rs 10/- (Rupees Ten) each for every 1 (One) fully paid-up equity share of Rs 10/- (Rupees Ten) each of Quess to the shareholders of Company whose names are recorded in the register of members and/or records of the depository as on the Record Date (i.e., Tuesday, 15th April 2025)." 14,89,49,413 shares of Rs. 10/- each allotted on 21 April 2025
-- **Bluspring Enterprises Limited:** "Bluspring shall issue and allot 1 (One) fully paid-up equity share of Bluspring having face value of Rs 10/- (Rupees Ten) each for every 1 (One) fully paid-up equity share of Rs 10/- (Rupees Ten) each of Quess to the shareholders of Company whose names are recorded in the register of members and/or records of the depository as on the Record Date (i.e., Tuesday, 15th April 2025)." 14,89,49,413 shares of Rs. 10/- each allotted on 21 April 2025
+- **Digitide Solutions Limited:** 1 (One) fully paid-up equity share of Digitide having face value of Rs 10/- (Rupees Ten) each for every 1 (One) fully paid-up equity share of Rs 10/- (Rupees Ten) each of Quess
+- **Bluspring Enterprises Limited:** 1 (One) fully paid-up equity share of Bluspring having face value of Rs 10/- (Rupees Ten) each for every 1 (One) fully paid-up equity share of Rs 10/- (Rupees Ten) each of Quess
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -80,10 +83,10 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "The record date for the demerger has been fixed for the 15th of April 2025 and the shareholders of Quess Corp Limited will receive shares in Digitide and Bluspring which will mirror their existing shareholding." (Press Release, 1 April 2025) — i.e. mirror shareholding; promoter percentages not stated
-- **What a public shareholder receives:** "Upon demerger, all Quess Corp shareholders on the record date will receive one equity share in each of Resulting Company 1 and Resulting Company 2 for every equity share held in Quess Corp." (Press Release, 6 March 2025)
-- **Management incentives:** RD/ROC Common Report observation: "The Demerging Company has certain ESOPS (Employee's Stock Option Scheme). The employees' rights shall not be adversely affected or varied in any case... As per the Scheme, it is stated that the vested ESOPs will be transferred to the Resulting Company 1 and Resulting Company 2 and unvested ESOPs will be cancelled and fresh allotment of shares will be made subject to approval of the Scheme. Hence, the Petitioner Companies may be directed to furnish an undertaking before the Hon'ble NCLT in this regard stating that the interest of all ESOP holders will be protected after Demerger." Petitioner reply: "Clause 12 and Clause 23 of the Scheme provides for necessary safeguards to ensure that the Scheme do not prejudice the rights and benefits of 'Transferred Employees 1' and 'Transferred Employees 2'." Also: "the paid-up capital was increased on account of allotment of shares under Quess Stock Ownership Plan, 2020 ("QSOP 2020") to the eligible employees... the Demerged Company allotted 2,09,015 equity shares of Rs. 10 each to employees, leading to increase in paid up capital from Rs. 1,48,47,83,200 (14,84,78,320 equity shares of Rs. 10/- each) to Rs. 1,48,68,73,350 (14,86,87,335 equity shares of Rs. 10 each)." No new plan in the resulting entities, exercise price or pricing date, or management/insider shareholding stated.
+- **Promoters in the parent, per the documents:** "Shareholding Pattern Promoters 56.6 Public 43.4" — Quess Corp "Current" shareholding, investor presentation dated 28 October 2024 (also 14.8 cr shares each). Consistent with the NCLT-convened meeting voting results as on cut-off date 2 December 2024: Promoter and Promoter Group 8,41,09,774 shares of 14,86,25,678 total.
+- **What the promoters will hold in the separated entity:** 2025 three-way demerger — "Mirror Shareholding": investor presentation pro-forma for the transaction shows for each of "RemainCo: Quess Corp", "Resulting Co 1: Digitide" and "Resulting Co 2: Bluspring" — "Promoters 56.6 Public 43.4", 14.8 cr shares, 1 share held, face value ₹10. Press release: "The record date for the demerger has been fixed for the 15th of April 2025 and the shareholders of Quess Corp Limited will receive shares in Digitide and Bluspring which will mirror their existing shareholding." 2019 TCIL scheme: not stated.
+- **What a public shareholder receives:** 2025 three-way demerger: "Upon demerger, all Quess Corp shareholders on the record date will receive one equity share in each of Resulting Company 1 and Resulting Company 2 for every equity share held in Quess Corp." and "1 equity share of the face value of Rs. 10/- each fully paid-up of the Resulting Company 1 shall be issued and allotted for every 1 equity share of face value of Rs 10/- each fully paid-up held by equity shareholders of the Demerged Company, and 1 equity share of the face value of Rs. 10/- each fully paid-up of the Resulting Company 2 shall be issued and allotted for every 1 equity share of face value of Rs 10/- each fully paid-up held by equity shareholders of the Demerged Company." 2019 TCIL scheme: "in the ratio of 1,889 equity shares of the Company for every 10,000 equity shares of ₹1 each held in TCIL", with fractional entitlements "consolidated and sold, and the net sale proceeds were distributed to the eligible shareholders in proportion to their fractional entitlements."
+- **Management incentives:** not stated in the documents on file.
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** not stated · *option pricing date:* not stated
 
@@ -496,7 +499,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/BLUSPRING.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Global Technology Solutions (BPO services and technology solutions; CGUs MFXchange, Brainhunter, Conneqt transferred to Digitide) → Digitide Solutions Limited (Resulting Company 1)** · unit ₹ million · Profit line is 'Segment result' = segment EBIT before unallocated depreciation/amortisation, finance costs, corporate expenses, exceptional items and tax. Segment revenue is external sale of services; no inter-segment revenue disclosed. Per-entity FY2024 cash flows for Digitide (AR2025 p241): operating +1,599.80, investing (174.65), financing (1,597.51) ₹ mn.
+**Global Technology Solutions (BPO services and technology solutions; CGUs MFXchange Holdings Inc., Brainhunter Systems Ltd and Conneqt Business Solution Limited transferred to Digitide Solutions Limited) → Digitide Solutions Limited (Resulting Company 1)** · unit ₹ million · Profit line is 'Segment result' = segment revenue less allocable segment costs, before other income, depreciation/amortisation, finance costs, unallocated corporate expenses, exceptional items and tax. Revenue is external (disaggregated revenue from contracts with customers); no inter-segment revenue disclosed. Segment-level PAT and depreciation are not reported (depreciation is wholly unallocated).
 
 | | FY2023 | FY2024 |
 |---|---:|---:|
@@ -516,9 +519,9 @@ xychart-beta
 
 *Sources:* Annual Report 2024 — page 291; Annual Report 2024 — page 290
 
-*Not in the pages read:* No segment PAT, depreciation or EBITDA (D&A, finance costs, tax unallocated); no FY2025/FY2026 figures — segment ceased to be reported after the demerger.
+*Not in the pages read:* No PAT, depreciation or capex at Digitide entity level; no FY2025/FY2026 figures (segment ceased on demerger); only FY2024 discontinued-operations cash flows given (AR2025 p.241).
 
-**Operating Asset Management (janitorial, security, electro-mechanical, pest control, food and hospitality, industrial O&M; CGUs IFM and Vedang transferred to Bluspring) → Bluspring Enterprises Limited (Resulting Company 2)** · unit ₹ million · Profit line is 'Segment result' = segment EBIT before unallocated depreciation/amortisation, finance costs, corporate expenses, exceptional items and tax. Segment revenue is external sale of services; no inter-segment revenue disclosed. Per-entity FY2024 cash flows for Bluspring (AR2025 p241): operating (428.06), investing (986.11), financing (680.17) ₹ mn.
+**Operating Asset Management (janitorial, security, electro-mechanical, pest control, food and hospitality, industrial O&M; CGUs Integrated Facility Management and Vedang Cellular transferred to Bluspring Enterprises Limited) → Bluspring Enterprises Limited (Resulting Company 2)** · unit ₹ million · Profit line is 'Segment result' (pre-D&A, pre-finance cost, pre-unallocated corporate expense, pre-exceptional, pre-tax). Revenue is external segment revenue. Segment PAT and depreciation not disclosed by segment.
 
 | | FY2023 | FY2024 |
 |---|---:|---:|
@@ -538,9 +541,9 @@ xychart-beta
 
 *Sources:* Annual Report 2024 — page 291; Annual Report 2024 — page 290
 
-*Not in the pages read:* No segment PAT, depreciation or EBITDA (unallocated at group level); no FY2025/FY2026 figures — segment ceased to be reported after the demerger.
+*Not in the pages read:* No PAT, depreciation or entity-level revenue/profit for Bluspring; no FY2025/FY2026 figures; only FY2024 discontinued-operations cash flows disclosed (AR2025 p.241).
 
-**Product Led Business (break fix services, hiring technology platform, workforce management tool) → Split between Digitide Solutions Limited (Resulting Company 1) and Bluspring Enterprises Limited (Resulting Company 2) — pages do not state the split of this segment** · unit ₹ million · Profit line is 'Segment result' = segment EBIT before unallocated D&A, finance costs, corporate expenses, exceptional items and tax; losses shown negative. Segment revenue is external sale of services. Note: revenue note 29 (AR2024 p276) shows FY2023 5,336.52 vs 5,336.50 in the segment table; segment-table figure used. Part of this business (break-fix/Vedang) went to Bluspring; platform business partly restated into the retained Digital Platforms segment.
+**Product Led Business (break fix services, hiring technology platform, workforce management tool) → Digitide Solutions Limited and Bluspring Enterprises Limited (pages do not split this segment between the two resulting companies)** · unit ₹ million · 'Segment result' as above (loss-making). Revenue external. Segment is absent from the post-demerger segment set; goodwill of ₹1,042.42 mn at 31 March 2024 formed part of the ₹7,470.27 mn goodwill transferred to the resulting entities (AR2025 p.277), but the pages do not allocate this segment's revenue/result between Digitide and Bluspring.
 
 | | FY2023 | FY2024 |
 |---|---:|---:|
@@ -560,9 +563,9 @@ xychart-beta
 
 *Sources:* Annual Report 2024 — page 291; Annual Report 2024 — page 290
 
-*Not in the pages read:* No segment PAT or depreciation; no allocation of this segment between Digitide and Bluspring; no FY2025/FY2026 figures.
+*Not in the pages read:* No PAT, no depreciation, no split by receiving entity, no FY2025/FY2026 figures.
 
-**Discontinued operations transferred under the Composite Scheme of Arrangement (Demerged Undertaking 1 and Demerged Undertaking 2 together) → Digitide Solutions Limited and Bluspring Enterprises Limited (combined discontinued operations of Quess Corp Limited)** · unit ₹ million · Revenue is FY2024 revenue of discontinued operations disclosed in the geographic-information footnote; PAT is 'Profit/(loss) after tax for discontinued operations' in the FY2024 comparative segment table. Combined for both resulting companies — pages carry no entity-wise split of revenue or PAT. Goodwill of 7,470.27 ₹ mn was transferred out of 10,038.63 ₹ mn (AR2025 p277).
+**Discontinued operations (businesses demerged under the Composite Scheme of Arrangement, effective 1 April 2024) → Digitide Solutions Limited and Bluspring Enterprises Limited combined (Demerged Undertaking 1 and Demerged Undertaking 2)** · unit ₹ million · PAT is 'Profit/(loss) after tax for discontinued operations' as reported in the FY2024 comparative segment note; revenue is the FY2024 revenue from discontinued operations stated in the geographic-information footnote. No operating profit, assets, liabilities, capex or depreciation given for discontinued operations as a whole; figures are combined, not per entity.
 
 | | FY2024 |
 |---|---:|
@@ -574,11 +577,11 @@ xychart-beta
 | PAT (₹ million) | 1,450 |
 | PAT growth (%) | — |
 
-*Sources:* Annual Report 2025 — pages 313, 314
+*Sources:* Annual Report 2025 — pages 313 and 314
 
-*Not in the pages read:* No combined EBITDA/segment result, assets, liabilities, capex or depreciation; no entity-wise revenue or PAT split; no post-FY2024 figures (demerger effective 1 April 2024).
+*Not in the pages read:* Operating profit/EBITDA, segment assets and liabilities, capex and depreciation for discontinued operations; any split of these combined figures between Digitide and Bluspring.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* No stand-alone financials for Brainhunter (only CGU discount/terminal-growth rates), the skill development business, Demerged Undertaking 1/2 as labelled, or Digitide/Bluspring entity-level revenue, EBITDA, PAT, assets or liabilities.
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* Brainhunter (only CGU discount/terminal-growth rates), skill development business and 'technology and industrial' (no standalone figures); Demerged Undertaking 1 and 2 only via combined discontinued operations; Digitide/Bluspring entity P&L absent (only FY2024 cash flows).
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/93a79a4f-19f1-4b40-a260-7f4cc857a3bb.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/48ff9bae-94c8-40e2-9b9b-44d1a8f92fa7.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/c8c42337-7926-47ed-9c3e-989d56e028ac.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4a21eecc-7245-471f-a1f0-018133920ed2.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a37e7690-555e-4e67-bf95-5c0a2bd15e68.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9cb0031f-40b6-434d-b6e3-0cc6f0c9b0b3.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee7ae3e-c0fc-4c49-a286-63627552275a.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=148b1f4f-bb37-428e-b7a9-26aa5cc6bc70.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f399263d-0034-47e6-b6ec-f8c23efec045.pdf)
 
@@ -607,22 +610,21 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
+| Workforce Management (pre-demerger segment: general and IT staffing, recruitment and executive search, RPO, payroll, compliance, background verification, training and skill development, logistics) — superseded from FY2025 by General/Professional/Overseas staffing | 134,423 | 2.6% | 74.2% | 0.14x | ₹ million | FY2024 |
 | General Staffing | 131,758 | 1.4% | 123.6% | 0.1x | ₹ million | FY2026 |
 | Professional Staffing | 9,299 | 11.9% | 85.4% | 0.28x | ₹ million | FY2026 |
-| Overseas Business (Overseas Staffing) | 11,973 | 6.4% | 25.9% | 0.39x | ₹ million | FY2026 |
-| Digital Platforms (HamaraJobs, HamaraHR, Hamara Academy, Hamara Benefits, Taskmo) | 21 | -341.5% | -138.3% | 2.94x | ₹ million | FY2026 |
-| Workforce Management (staffing, recruitment and executive search, RPO, payroll, compliance, BGV, training and skill development, logistics) | 134,423 | 2.6% | 74.2% | 0.14x | ₹ million | FY2024 |
-| Quess Corp Limited consolidated (continuing operations total of the four retained segments plus unallocated) | 153,052 | 2.4% | 31.6% | 0.2x | ₹ million | FY2026 |
+| Overseas business (APAC — Singapore, Malaysia, Philippines, Vietnam, Sri Lanka — and Middle East) | 11,973 | 6.4% | 25.9% | 0.39x | ₹ million | FY2026 |
+| Digital platforms (HamaraJobs, HamaraHR, Hamara Academy, Hamara Benefits, TaskMo) | 21 | -341.5% | -138.3% | 2.94x | ₹ million | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **debt and leverage** — parent / remaining: Quess Corp post-demerger is a zero gross debt company: gross debt ₹12 crore / net cash ₹255 crore at FY25; zero gross debt and net cash ₹271 crore at FY26.; separated business: not stated “We closed the year with net cash of ₹271 crore, having fully repaid our gross debt.”
-- **cash** — parent / remaining: Quess converts about 80% of EBITDA into operating cash flow; FY26 net cash ₹271 crore; dividend policy of up to 75% of free cash flow over a rolling three-year block.; separated business: not stated “Quess continues to be a cash positive Company, so we close the financial year at 271 crores of cash. In addition, we continue to generate or convert 80% of our EBITDA to cash.”
-- **capex and capital intensity** — parent / remaining: Quess (remaining staffing business) is not capital-intensive; investments are mainly in AI and technology rather than capex.; separated business: not stated (Bluspring described as replacing heavy CAPEX with flexible OPEX in the Origint model, but no capex figures given) “On the Capex, you know, we are not a capital -intensive sort of business. So, capex will not be significant in terms of what we want to spend.”
-- **operating margin** — parent / remaining: Quess remaining business margin: FY26 EBITDA margin 2.0% (Q4 FY26 2.2%); General Staffing ~1.5%, Professional Staffing 12%+, Overseas 6.2%; Professional Staffing and Overseas together contribute 50% of operating profit.; separated business: not stated “EBITDA was ₹312 crore, a growth of 19% over the previous year, and our EBITDA margin improved by 20 basis points to 2.0%.”
-- **working capital** — parent / remaining: Quess remaining business: DSO at 24–38 days, General Staffing Collect & Pay 76% of headcount.; separated business: not stated “As far as discipline is concerned, accounts receivable DSO has held tightly at 38 days, including our professional staffing and overseas business, which remains a credit business, while our general staffing business with 75% remains a collect and pay business.”
-- **tax** — parent / remaining: Quess (Demerged Company) retains the section 80JJAA / goodwill depreciation disputes and related contingent liability of INR 2,963.84 million; effective tax rate guided at 7–10%.; separated business: not stated “Pending resolution of these Income Tax disputes, the Company has assessed INR 2,963.84 million as contingent liabilities towards demands including interest in the order for these fiscal years.”
-- **other — exceptional demerger costs** — parent / remaining: Quess bore professional fees and employee benefit expense relating to the demerger; FY25 exceptional items INR 1,643.35 million consolidated, with INR 18.51 million more in H1 FY26.; separated business: not stated “The Company incurred certain professional fees relating to demerger and certain employee benefits expense aggregating to INR 18.51 million for the half year ended 30 September 2025 towards the Composite Scheme of Arrangement”
+- **operating margin** — parent / remaining: Workforce Management (the remaining Quess Corp business) FY24 EBITDA margin 2.61%; post-demerger Quess Corp FY25 reported EBITDA margin 1.8% and FY26 2.0%, with General Staffing at ~1.4-1.5%, Professional Staffing ~12% and Overseas ~6-7%; separated business: Global Technology Services (Digitide) FY24 EBITDA margin 18.17%; Operating Asset Management (Bluspring) FY24 5.03%; Product Led Business (foundit, into Bluspring) FY24 (12.15)% “Global Technology Services  Revenue  604 571 6% 588 3% 2,340 2,168 9% EBITDA  113 95 19% 108 5% 425 353 21% EBITDA %  18.76% 16.68% 208bps 18.30%    46bps 18.17% 16.27% 191bps”
+- **cash** — parent / remaining: Post-demerger Quess Corp: gross debt ₹12 crore and net cash ₹255 crore (FY25); net cash ₹271 crore with zero gross debt (FY26); separated business: not stated “Healthy Balance Sheet Gross debt at ₹ 12 crore , net cash position of ₹ 255 croreGlobal Scale Operations”
+- **return on capital** — parent / remaining: Quess Corp (remaining) adjusted ROE of 19%, with a stated aim of 20%; FY26 ROE 20%; separated business: not stated “Shareholder Returns Healthy adj ROE levels of 19% Sustainable dividend policy”
+- **growth** — parent / remaining: Quess Corp FY25 (first results post demerger) revenue up 9% YoY to ₹14,967 cr, EBITDA up 12% to ₹262 cr, Adj. PAT up 54% to ₹210 cr; FY26 revenue ₹15,305 cr (up 2%), EBITDA ₹312 cr (up 19%); separated business: not stated “Quess Corp’s FY25 Revenue up 9% YoY  to ₹14,967 cr  and Adjusted PAT up 54% YoY”
+- **working capital** — parent / remaining: Quess Corp (remaining) DSO at 37 days and EBITDA to OCF at 151% (FY25); General Staffing DSO 24-25 days and Collect & Pay at 76%; separated business: not stated “Strong cashflows DSO at 37 days EBITDA to OCF* at 151%Catalyzed Job Growth”
+- **tax** — parent / remaining: Qualified audit conclusion on the Parent: certain tax deductions claimed by the Parent have been disallowed by the Income Tax Authority and are under challenge; effective tax rate guided at 7%-10% (FY26) / ~10% ; separated business: not stated “As stated in note 5 to the Statement, certain tax deductions claimed by the Parent and recognised in computation of income tax expense in the current and preceding periods have been disallowed by the Income Tax Authority.”
+- **other** — parent / remaining: Rationale stated for all three entities: simplified corporate structure, enhanced management focus, uniquely defined capital allocation strategy, clarity of investment thesis; separated business: Each resulting company gains independence to pursue focused strategies; Quess retains partnership with "our demerged entities - Digitide for AI-first digital solutions and Bluspring for infrastructure management" “3-way Demerger Simplified corporate structure Enhanced management focus Uniquely defined capital allocation strategy Clarity of investment thesisValue Creation”
 
 **The checklist:**
 

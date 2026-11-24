@@ -8,42 +8,43 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Tata Motors Limited** | The Demerged Undertaking — TML's Commercial Vehicles Business: all assets, liabilities and employees of the c… | listed 2025-11-12 as TMCV (NSE) | CEO/MD/chair not stated; Mr. Girish Wagh is descr… |
-| **Tata Motors Passenger Vehicles Limited, CIN U72900MH2020PLC339230 (the Amalgamating Company, wholly owned subsidiary amalgamated into the listed company and dissolved)** | The wholly owned subsidiary undertaking the Passenger Vehicles Business, merged into the listed company to co… | not to be listed (ceased to exist w.e.f. October 1, 2025) | not stated (the postal ballot refers to Mr Shaile… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Tata Motors Limited** (earlier TML Commercial Vehicles Limited) | 2024 Composite Scheme of Arrangement amongst Tata Motors Li… | The Commercial Vehicle undertaking: all assets, liabilities and employees relating to the Commercial Vehicle … | listed 2025-11-12 as TMCV (NSE) | Mr. Girish Wagh, Executive Director of Tata Motor… |
+
+**The other parties to the scheme(s)** — not separated entities: Tata Motors Finance Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** The Commercial Vehicles business of Tata Motors Limited, demerged into a separate listed entity — class `regulatory_strategic`.
 
 ### 2. Stages and dates
 
-> **Listing:** LISTED — Tata Motors Limited (TMCV) since 2025-11-12 (NSE equity list); record date 2025-10-14; not yet listed: Tata Motors Passenger Vehicles Limited, CIN U72900MH2020PLC339230 (the Amalgamating Company, wholly owned subsidiary amalgamated into the listed company and dissolved)
+> **Listing:** LISTED — Tata Motors Limited (TMCV) since 2025-11-12 (NSE equity list); record date 2025-10-14
 
 | Date | Event | Source |
 |---|---|---|
-| 2024-03-04 | Other — Tata Motors Limited | as stated: Letter sc no. 18166 dated March 4, 2024, referred to as the initial a… |
-| 2024-08-01 | Board approval — Tata Motors Limited, TML Commercial Vehicles Limited and Tata Motors Passenger Vehicles Limited | as stated: Intimation of outcome of the Board Meeting, sc no. 18374 dated August… |
+| 2024-03-04 | Other — Tata Motors Limited | as stated: First intimation to the exchanges of the proposed demerger, letter sc… |
+| 2024-08-01 | Board approval — Tata Motors Limited, TML Commercial Vehicles Limited and Tata Motors Passenger Vehicles Limited | as stated: Outcome of Board Meeting, letter sc no. 18374 dated August 1, 2024 ("… |
 | 2024-08-05 | Stage reached: **nclt sanction** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/TATAMOTORS_05082024195129_NSEBSELETTER.pdf) |
 | 2024-09-01 | Stage reached: **effective** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/TATAMOTORS_01092024131630_Reg30IntimationofEffectivenessoftheScheme01092024.pdf) |
-| 2025-02-24 | Exchange no-objection — BSE Limited — letter to Tata Motors Limited | as stated: NCLT order dated August 25, 2025, certified copy enclosed with filing… |
-| 2025-02-25 | Exchange no-objection — National Stock Exchange of India Limited — letter to Tata Motors Limited | as stated: NCLT order dated August 25, 2025, certified copy enclosed with filing… |
-| 2025-03-25 | Other — NCLT Mumbai Bench order in CA (CAA) No. 61/MB/2025 convening the shareholders' meeting of Tata Motors Limited and dispensing with creditors' meetings | as stated: NCLT order dated August 25, 2025, certified copy enclosed with filing… |
-| 2025-05-06 | Shareholders / creditors meeting — Equity shareholders of Tata Motors Limited (meeting held at 3:00 pm); meetings of secured and unsecured creditors of TML and of equity shareholders/creditors of TMLCV and TMPV were dispensed with | as stated: NCLT order dated August 25, 2025, certified copy enclosed with filing… |
-| 2025-07-01 | Appointed date — Composite Scheme of Arrangement ("opening of business hours of July 01, 2025") | as stated: Intimation of effectiveness sc no. 18764 dated October 1, 2025; Annex… |
-| 2025-08-25 | NCLT order — NCLT Mumbai Bench-I, C.P. (CAA) No. 139/MB/2025 | as stated: Intimation sc no. 18733 dated August 25, 2025 |
-| 2025-09-10 | NCLT order — Rectification order (COMP.APPL/269(MB)2025) correcting the order dated 25.08.2025 | as stated: Filing sc no. 18755 dated September 26, 2025 enclosing certified true… |
-| 2025-09-25 | Other — Certified true copies of both NCLT Orders received by the Company; placed before the Boards on September 26, 2025, which resolved to make the Scheme effective on October 1, 2025 | as stated: Filing sc no. 18755 dated September 26, 2025 |
-| 2025-10-01 | Effective date — Composite Scheme of Arrangement (e-Form INC-28 filed with the Registrar of Companies, Mumbai, Maharashtra on October 1, 2025) | as stated: Intimation sc no. 18764 dated October 1, 2025 |
-| 2025-10-10 | Record date — Identified Non-Convertible Debentures (₹2,300 crore) to be transferred from Tata Motors Limited to TML Commercial Vehicles Limited | as stated: Record Date intimation sc no. 18765 dated October 1, 2025 |
-| 2025-10-13 | Other — Name of Tata Motors Limited changed to Tata Motors Passenger Vehicles Limited | as stated: Filing sc no. 18808 dated October 30, 2025 referring to letter sc no.… |
+| 2025-02-24 | Exchange no-objection — BSE Limited observation letter to Tata Motors Limited | as stated: NCLT Order dated August 25, 2025 (filed September 26, 2025) and Scrut… |
+| 2025-02-25 | Exchange no-objection — National Stock Exchange of India Limited observation letter to Tata Motors Limited | as stated: NCLT Order dated August 25, 2025 (filed September 26, 2025) and Scrut… |
+| 2025-03-25 | Other — NCLT, Mumbai Bench order in C.A.(CAA) No. 61/MB/2025 directing the meeting of equity shareholders of TML and dispensing with meetings of equity shareholders of TMLCV and TMPV and of secured and unsecured creditors of the second and third applicant companies | as stated: Notice of Court Convened General Meeting filed April 4, 2025 (sc no. … |
+| 2025-05-06 | Shareholders / creditors meeting — Meeting of the Equity Shareholders of Tata Motors Limited (held 3:00 p.m. IST via VC/OAVM; resolution passed with 99.9995% of votes polled in favour) | as stated: Proceedings and Voting Results filed May 6, 2025 (sc no. 18656) |
+| 2025-07-01 | Appointed date — Composite Scheme of Arrangement (opening of business hours of July 01, 2025) | as stated: Effectiveness intimation sc no. 18764 dated October 1, 2025; NCLT Ord… |
+| 2025-08-25 | NCLT order — NCLT, Mumbai Bench-I, CP(CAA)/139/MB/2025 sanctioning the Composite Scheme | as stated: Intimation dated August 25, 2025 (sc no. 18733) and certified true co… |
+| 2025-09-10 | Other — NCLT Rectification Order (COMP.APPL/269(MB)2025) correcting the August 25, 2025 order, including replacing the share entitlement para with the 1:1 TMLCV ratio | as stated: Certified true copy of Orders filed September 26, 2025 (sc no. 18755) |
+| 2025-09-25 | Other — Certified true copies of both NCLT Orders received by the Company | as stated: Letter sc no. 18755 dated September 26, 2025 |
+| 2025-09-26 | Other — Boards of the respective companies resolved to make the Scheme effective on October 1, 2025, and identified the NCDs to be transferred to TMLCV | as stated: Letter sc no. 18755 dated September 26, 2025 |
+| 2025-10-01 | Effective date — Composite Scheme effective on filing of certified copies of the Orders in e-Form INC-28 with the Registrar of Companies, Mumbai, Maharashtra; TMPV stands amalgamated with the Company and ceases to exist | as stated: Scheme of Arrangement intimation sc no. 18764 dated October 1, 2025 |
+| 2025-10-10 | Record date — Record Date for determining eligible Debenture Holders of identified NCDs (₹2,300 crore) to be transferred from the Demerged Company to the Resulting Company | as stated: Record Date intimation sc no. 18765 dated October 1, 2025, Annexure A |
+| 2025-10-13 | Other — Change of name of the Company from Tata Motors Limited to Tata Motors Passenger Vehicles Limited, w.e.f. October 13, 2025 | as stated: Letter sc no. 18796 dated October 13, 2025, referred to in letter sc … |
 | 2025-10-14 | **Record date** | NSE corporate-actions register |
 | 2025-10-14 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2025-10-14 | Record date — Equity shareholders of Tata Motors Limited entitled to shares of TML Commercial Vehicles Limited | as stated: Record Date intimation sc no. 18765 dated October 1, 2025; shareholde… |
-| 2025-10-15 | Allotment — TML Commercial Vehicles Limited allotted 3,68,23,31,373 fully paid equity shares of ₹2 each in the ratio 1:1; its pre-Scheme capital of 5,00,000 shares cancelled and it ceased to be a wholly owned subsidiary | as stated: Filing sc no. 18799 dated October 15, 2025 |
-| 2025-10-29 | Other — Name of TML Commercial Vehicles Limited changed to Tata Motors Limited (fresh Certificate of Incorporation dated October 29, 2025) | as stated: Filing sc no. 18808 dated October 30, 2025 |
+| 2025-10-14 | Record date — Record Date (Tuesday, October 14, 2025) for shareholders of Tata Motors Limited entitled to 1 share of TMLCV for every 1 share held | as stated: Record Date intimation sc no. 18765 dated October 1, 2025 and shareho… |
+| 2025-10-15 | Allotment — TMLCV allotted 3,68,23,31,373 fully paid equity shares of ₹2 each to equity shareholders of TML in the ratio 1:1; entire pre-Scheme paid-up capital of 5,00,000 shares cancelled; TMLCV ceased to be a wholly owned subsidiary | as stated: General Updates letter sc no. 18799 dated October 15, 2025 |
+| 2025-10-29 | Other — Change of name of TML Commercial Vehicles Limited to Tata Motors Limited (fresh Certificate of Incorporation dated October 29, 2025) | as stated: General Updates letter sc no. 18808 dated October 30, 2025 and TMCV p… |
 | 2025-11-12 | **Tata Motors Limited** listed (TMCV) | NSE equity list |
-| 2025-11-12 | Listing and trading — Tata Motors Limited (formerly TML Commercial Vehicles Limited) — BSE and NSE approval for listing and trading of equity shares effective November 12, 2025 | as stated: Filing sc no. 18818 dated November 10, 2025 |
-| 2025-11-12 | Other — Guidance on apportionment of cost of acquisition — 31.15% to Tata Motors Limited (formerly TML Commercial Vehicles Limited), 68.85% to Tata Motors Passenger Vehicles Limited (formerly Tata Motors Limited) | as stated: Filing sc no. 18821 dated November 12, 2025 |
+| 2025-11-12 | Listing and trading — Tata Motors Limited (formerly TML Commercial Vehicles Limited) — BSE and NSE approval for listing and trading of its equity shares effective November 12, 2025 | as stated: General Updates letter sc no. 18818 dated November 10, 2025 |
 | 2025-11-28 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.com/corporate/TATAMOTORSSJS_28112025190050_Lettertoexchangesforpostalballotfinal.pdf) |
 
 **The stages, as filed:** nclt sanction (2024-08-05) → effective (2024-09-01) → record date (2025-10-14) → meetings (2025-11-28)
@@ -54,16 +55,15 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Tata Motors Limited | ₹73,116.64 crore total income relating to Commercial Vehicl… | 99.0% | 20.5% (FY2025) | 159,667 | 60.1% | yes |
-| Tata Motors Passenger Vehicles Limited, CIN U72900MH2020PLC339230 (the Amalgamating Company, wholly owned subsidiary amalgamated into the listed company and dissolved) | ₹51,206.32 crore total income for the year ended March 31, … | — | 20.5% (FY2025) | — | — | not listed |
+| Tata Motors Limited | "total income relating to Commercial Vehicles Business was … | 99.0% | 20.5% (FY2025) | 159,667 | 60.1% | yes |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹105,853 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"As per audited standalone financial statements as at March 31, 2024, Tata Motors Limited's (“the Company”/ “TML”) total income relating to Commercial Vehicles Business was ₹ 73,116.64 crore, representing ~99% of the total income for FY 2023-24."”
+**In the documents' words:** “As per audited standalone financial statements as at March 31, 2024, Tata Motors Limited's ("the Company"/ "TML") total income relating to Commercial Vehicles Business was ₹ 73,116.64 crore, representing ~99% of the total income for FY 2023-24.”
 
 **The judge's read of selling pressure:** likely — 1:1 shares pushed to all 64,60,243-shareholder base of a large parent; commercial vehicles is a different business from cars/SUVs.
 
@@ -71,8 +71,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Tata Motors Limited:** "Each shareholder of TML ... shall be issued and allotted 1 (one) share of TMLCV (having face value of ₹ 2/- each and fully paid up), for every 1 (one) share of TML (having face value of ₹2/- each and fully paid up), of the same class of shares outstanding and as held by such shareholder in TML. (“Share Entitlement Ratio”)"; allotment of 3,68,23,31,373 shares in the ratio 1:1
-- **Tata Motors Passenger Vehicles Limited, CIN U72900MH2020PLC339230 (the Amalgamating Company, wholly owned subsidiary amalgamated into the listed company and dissolved):** "TMPV is a wholly owned subsidiary of TML. Upon effectiveness of the Scheme, the entire paid-up share capital of TMPV shall stand cancelled in its entirety." — "the investment, in form of shares of TMPV, appearing in the books of accounts of TML shall, without any further act or deed, stand cancelled"
+- **Tata Motors Limited:** "1 (One) share of TMLCV (face value of INR 2/- each fully paid up), for every 1 (One) share of the Company (face value of INR 2/- each fully paid up) of the same class of shares outstanding and as held by such shareholder in the Company on the "Record Date"." Allotment of 3,68,23,31,373 fully paid equity shares of face value ₹2/- each in the ratio of 1:1
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -83,10 +82,10 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** Stated only via the TMLCV mirror table, "Details as on July 26, 2024": Post-Scheme (Indicative) Promoters 41.22%, Public 58.78% ("*Considering Ordinary and 'A' Ordinary shares"), the shareholding of TMLCV mirroring that of TML; at the 81st AGM (cut-off date July 1, 2026) Promoter and Promoter Group held 1,565,402,703 shares of 3,682,582,902 total
-- **What the promoters will hold in the separated entity:** "Upon the effectiveness of the Scheme, the shareholding of TMLCV will mirror the shareholding of TML." — "The shareholding pattern of TMLCV will replicate/ mirror the shareholding pattern of TML." — TMLCV Post-Scheme (Indicative): Promoters 41.22%, Public 58.78%. For the parent: "TML: No change." and "There will be no change in the shareholding pattern of TML pursuant to the Scheme coming into effect." The NCLT order records "creation of two listed companies, forming part of the Tata Group, with identical shareholding (including common promoters)".
-- **What a public shareholder receives:** "Each shareholder of TML whose name is recorded in the register of members and records of the depository as a shareholder as on the Record Date (as defined in the Scheme) shall be issued and allotted 1 (one) share of TMLCV (having face value of ₹ 2/- each and fully paid up), for every 1 (one) share of TML (having face value of ₹2/- each and fully paid up), of the same class of shares outstanding and as held by such shareholder in TML. (“Share Entitlement Ratio”)"; "There is no cash consideration being discharged under the Scheme." Shareholders retain their TML (renamed Tata Motors Passenger Vehicles Limited) shares, no new shares being issued for the amalgamation.
-- **Management incentives:** "In addition to the foregoing, the MD & CEO shall be entitled to share-based benefits as per policies/ rules of the Company, not exceeding the maximum number of securities that may be granted to an eligible employee as per the Company's Share-based Long Term Incentive Scheme 2024 or such other scheme as may be introduced by the Company during the tenure of the MD & CEO pursuant to the Securities and Exchange Board of India (Share Based Employee Benefits and Sweat Equity) Regulations, 2021, and subject to Clause 9 of the Composite Scheme of Arrangement approved by the Hon'ble National Company Law Tribunal, Mumbai Bench (“NCLT”) vide its Order dated August 25, 2025 and Rectification Order dated September 10, 2025 relating to, inter alia, demerger of Commercial Vehicles business of the Company." — "In addition to the above under the Company's Share-based Long Term Incentive Scheme 2024, Mr Shailesh Chandra was granted 15,601 Performance Share Units ('PSUs') in the year 2024, exercisable into 15,601 shares of the Company." Termination terms include "any pro-rated Incentive Remuneration, including Stock Option plans, Performance Share plans (paid at the discretion of the Board), in lieu of such notice." Insider shareholding ("Shareholding in the Company including shareholding as a beneficial owner"): Mr Shailesh Chandra 1,50,029; Mr Pathamadai Balachandran Balaji 4,93,186; Mrs Sudha Krishnan Nil. Exercise price and pricing date: not stated. No new share-based plan in the resulting company is described in these documents.
+- **Promoters in the parent, per the documents:** not stated as a percentage for the parent; the documents state only "TML: No change." in shareholding pattern pursuant to the Scheme, and "There will be no change in the shareholding pattern of TML pursuant to the Scheme coming into effect."
+- **What the promoters will hold in the separated entity:** 2024 Composite Scheme (CV demerger): "Upon the effectiveness of the Scheme, the shareholding of TMLCV will mirror the shareholding of TML." and "The effectiveness of the Scheme would result in creation of two listed companies, forming part of the Tata Group, with identical shareholding (including common promoters) with the Resulting Company housing the Commercial Vehicles Business and the Amalgamated Company housing the Passenger Vehicles Business." TMLCV shareholding (details as on July 26, 2024): Promoters Pre-Scheme 100.00%, Post-Scheme (Indicative) 41.22%; Public Pre-Scheme nil, Post-Scheme 58.78% (*Considering Ordinary and 'A' Ordinary shares). Amalgamation of TMPV into TML: "There will be no change in the shareholding pattern of TML pursuant to the Scheme coming into effect." 2024 TMFL–Tata Capital scheme: "TCL will issue its equity shares to the shareholders of TMFL resulting in TML effectively holding a 4.7% stake in the merged entity." 2024 'A' Ordinary Shares scheme: promoter holding after is not stated.
+- **What a public shareholder receives:** 2024 Composite Scheme (CV demerger): "each shareholder of Demerged Company whose name is recorded in the register of members and records of the depository as a shareholder of the Demerged Company as on the Record Date (ie. October 14, 2025) shall be issued and allotted 1 (one) share of the Resulting Company (face value of INR 2/- each fully paid up), for every 1 (one) share of the Demerged Company (face value of INR 2/- each fully paid up) of the same class of shares outstanding and as held by such shareholder in the Demerged Company, without any further application, act or deed ('Share Entitlement Ratio')." Shareholders also continue to hold their existing shares in TML (renamed Tata Motors Passenger Vehicles Limited), which "shall continue to be a listed entity". 2024 'A' Ordinary Shares scheme: "As per the Scheme, the Company shall issue 7 (seven) fully paid up New Ordinary Shares of the face value of ₹ 2 each for every 10 (ten) 'A' Ordinary Shares of the face value of ₹2 each, as consideration to the 'A' Ordinary Shareholders of the Company as on the Record Date ('Consideration')." 2024 TMFL–Tata Capital scheme: nothing is received by TML's own public shareholders; "the shareholders of TMFL shall receive 37 equity shares of Rs.10/- each in TCL for every 100 equity shares of Rs. 100 each held by them in TMFL."
+- **Management incentives:** Treatment of existing grants under the Composite Scheme is not stated. Resolutions passed at the 79th AGM held on June 24, 2024 (both Special Resolutions): "Tata Motors Limited Share-based Long Term Incentive Scheme 2024 and grant of Performance Share Units to the Eligible Employees under the Scheme" and "Extending the Tata Motors Share-based Long Term Incentive Scheme 2024 to Eligible Employees of Subsidiary companies of the Company". No new plan in the resulting company, no exercise price or pricing date, and no management or insider shareholding are stated. Related manpower action at JLR: "About GBP 40 million of that was associated with a voluntary redundancy program as we resized our cost base" and "We are taking c.500 employees out of our admin base".
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** Promoter and promoter group held 1,565,402,703 of 3,682,582,902 shares (~42.5%), receiving 1:1 shares in the Resulting Company. MD Shailesh Chandra holds 1,50,029 shares plus PSUs under Scheme 2024, subject to Scheme Clause 9. · *option pricing date:* not stated
 
@@ -269,7 +268,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/TMCV.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Commercial vehicle (Tata Commercial Vehicles / CV segment — "Commercial Vehicles Business", the demerged undertaking) → TML Commercial Vehicles Limited (renamed Tata Motors Limited) — the Resulting Company** · unit ₹ crore · Operating profit = segment result, i.e. 'Earnings before other income (excluding incentives), finance costs, foreign exchange gain/(loss) (net), exceptional items and tax' (segment EBIT). Revenue is total segment revenue including inter-/intra-segment revenue (FY24 external 76,961.19 vs total 78,791.21; FY25 external 74,049 vs total 75,055; FY23 external 69,324.40 vs total 70,815.85). No segment-level PAT is disclosed.
+**Commercial Vehicles (segment: "Tata Commercial Vehicles" / "Commercial vehicle" under Tata and other brand vehicles) → TML Commercial Vehicles (renamed Tata Motors Limited, the Resulting Company)** · unit ₹ crore · Revenue = total segment revenue (external + inter/intra-segment); external revenue separately FY24 76,961.19, FY25 74,049. Operating profit = segment result = Earnings before other income (excl. incentives), finance costs, FX gain/(loss), exceptional items and tax (i.e. segment EBIT). No segment PAT disclosed. Capex and depreciation are segment-level.
 
 | | FY2023 | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|---:|
@@ -289,54 +288,52 @@ xychart-beta
 
 *Sources:* Annual Report 2024 — page 373; Annual Report 2024 — page 372; Annual Report 2025 — page 408; Annual Report 2026 — page 422
 
-*Not in the pages read:* No PAT any year. FY2026: CV shown only as discontinued operations (PBT before exceptional disposal gain ₹1,658 crore, Apr–Jun 2025 only); no FY26 revenue, EBIT, assets, liabilities, capex, D&A. No CV quarterly data.
+*Not in the pages read:* No PAT any year. FY26: demerger effective Oct 1, 2025 (segments from Jul 1, 2025 exclude CV); pages carry only discontinued-operations PBT ₹1,658 crore (AR2026 p422). No CV quarterly data in TMPV presentations.
 
-**Vehicle Financing → Tata Motors Finance Limited / vehicle financing undertaking — transferred to Tata Capital Limited (entity not among the names listed above)** · unit ₹ crore · Operating profit = 'Earnings before other income (excluding incentives), finance costs, foreign exchange gain/(loss) (net), exceptional items and tax'. Segment result after finance cost on borrowings sourced by this segment was (1,385.09) in FY23, (897.35) in FY24, (270) in FY25. Revenue is total segment revenue incl. inter-segment. From FY25 the business was transferred to Tata Capital Ltd with appointed date April 1, 2024, so FY25 (and re-presented FY24 = ₹141 crore revenue / ₹80 crore EBIT) show only the residual continuing part.
+**Vehicle Financing → Vehicle Financing business (Tata Motors Finance Ltd., transferred to Tata Capital Ltd. from April 1, 2024 — entity not among those named above)** · unit ₹ crore · Revenue = total segment revenue. Operating profit shown as 'Earnings before other income, finance costs, FX, exceptional items and tax'; segment result after finance costs on borrowings sourced by the segment was FY24 (897.35)/(205) and FY25 (270). No PAT.
 
-| | FY2023 | FY2024 | FY2025 |
-|---|---:|---:|---:|
-| Revenue (₹ crore) | 4,595 | 4,099 | 51.0 |
-| Revenue growth (%) | — | -10.8% | -98.8% |
-| Operating profit (₹ crore) | 1,499 | 1,821 | -2.0 |
-| Operating profit growth (%) | — | +21.4% | -100.1% |
-| Operating margin (%) | 32.6 | 44.4 | -3.9 |
-| PAT (₹ crore) | — | — | — |
-| PAT growth (%) | — | — | — |
-| Segment assets (₹ crore) | 35,651 | 33,288 | 8,172 |
-| Segment liabilities (₹ crore) | 1,241 | 1,543 | 22.0 |
-| Capital employed (₹ crore) | 34,410 | 31,745 | 8,150 |
-| Return on capital employed (%) | 4.4 | 5.7 | -0.0 |
-| Segment assets / revenue (x) | 7.8 | 8.1 | 160 |
-| Capex (₹ crore) | 36.3 | 112 | 58.0 |
+| | FY2023 | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|---:|
+| Revenue (₹ crore) | 4,595 | 4,099 | 51.0 | — |
+| Revenue growth (%) | — | -10.8% | -98.8% | — |
+| Operating profit (₹ crore) | 1,499 | 1,821 | -2.0 | — |
+| Operating profit growth (%) | — | +21.4% | -100.1% | — |
+| Operating margin (%) | 32.6 | 44.4 | -3.9 | — |
+| PAT (₹ crore) | — | — | — | — |
+| PAT growth (%) | — | — | — | — |
+| Segment assets (₹ crore) | 35,651 | 33,288 | 8,172 | — |
+| Segment liabilities (₹ crore) | 1,241 | 1,543 | 22.0 | — |
+| Capital employed (₹ crore) | 34,410 | 31,745 | 8,150 | — |
+| Return on capital employed (%) | 4.4 | 5.7 | -0.0 | — |
+| Segment assets / revenue (x) | 7.8 | 8.1 | 160 | — |
+| Capex (₹ crore) | 36.3 | 112 | 58.0 | — |
 
-*Sources:* Annual Report 2024 — page 373; Annual Report 2024 — page 372; Annual Report 2025 — page 408
+*Sources:* Annual Report 2024 — page 373; Annual Report 2024 — page 372; Annual Report 2025 — page 408; Annual Report 2026 — page 421
 
-*Not in the pages read:* No PAT any year; no FY2026 figures (segment ceased to be reported); no quarterly figures.
+*Not in the pages read:* No PAT. FY26 figures absent — segment folded into Corporate/Unallocable and re-presented (AR2026 p421). FY25 re-presentation in AR2024 vs AR2025 differs (FY24 revenue 4,099 vs 141 re-presented).
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 11 presentation(s) on file):* No standalone own-entity financials for TML Commercial Vehicles Ltd / the Resulting Company or for TMPVL as a separate legal entity; pages carry only consolidated segment data. Also no numbers for the Amalgamated Company as such.
+*Businesses with no numbers in the pages read (3 annual report(s) and 11 presentation(s) on file):* All named entities map to the single separated Commercial Vehicles undertaking, for which numbers exist FY2023–FY2025; no separate standalone financials of TML Commercial Vehicles Ltd. as a legal entity appear on these pages.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/b37e4ca4-826d-4b6c-b250-fcdf423e6bc4.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/18f91098-8691-409d-b771-808c48964a4f.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/0913b647-b205-4a3c-ad9b-8c493f97f972.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad61cc44-2d46-43ca-b854-0a29ca81fda4.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0a68c514-96c1-4dc5-a628-3eda55a7b541.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=10059fad-ae2a-4feb-acc2-09659bc3eb1f.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee5addb0-24c8-45de-9071-c06bf3ba6daa.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dd254e14-5794-42bb-8d6f-1caf2bb991e9.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=66609a3b-bf4c-44fb-936b-35980e120c69.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (TMPV) | Tata Motors Limited (TMCV) | Tata Motors Passenger Vehicles Limited, CIN U… |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* | *segment numbers (Commercial vehicle (Tata Com…* |
-| Sales (₹ cr) | 335,582 (Mar 2026) | 58,217 (Mar 2026) | — |
-| Sales growth (%) | -8.3 (Mar 2026) | — | -4.7 (FY2025) |
-| Operating margin (%) | 5.6 (Mar 2026) | 10.6 (Mar 2026) | 9.1 (FY2025) |
-| Operating profit growth (%) | -61 (Mar 2026) | — | 5.1 (FY2025) |
-| PAT margin (%) | 24.6 (Mar 2026) | 5.5 (Mar 2026) | — |
-| ROCE % | 3 (Mar 2026) | 36 (Mar 2025) | 82.8 (FY2025) |
-| Debtor Days | 14 (Mar 2026) | 12 (Mar 2026) | — |
-| Inventory Days | 85 (Mar 2026) | 35 (Mar 2026) | — |
-| Days Payable | 158 (Mar 2026) | 101 (Mar 2026) | — |
-| Cash Conversion Cycle | -59 (Mar 2026) | -54 (Mar 2026) | — |
-| Working Capital Days | -81 (Mar 2026) | -89 (Mar 2026) | — |
-| Debt / equity (x) | 0.7 (Mar 2026) | 0.4 (Mar 2026) | — |
-| Borrowings (₹ cr) | 79,109 (Mar 2026) | 5,615 (Mar 2026) | — |
-| Segment assets / revenue (x) | — | — | 0.4 (FY2025) |
-| Sales (₹ crore) | — | — | 75,055 (FY2025) |
+| Metric (latest year) | Parent (TMPV) | Tata Motors Limited (TMCV) |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *its own reported statements* |
+| Sales (₹ cr) | 335,582 (Mar 2026) | 58,217 (Mar 2026) |
+| Sales growth (%) | -8.3 (Mar 2026) | — |
+| Operating margin (%) | 5.6 (Mar 2026) | 10.6 (Mar 2026) |
+| Operating profit growth (%) | -61 (Mar 2026) | — |
+| PAT margin (%) | 24.6 (Mar 2026) | 5.5 (Mar 2026) |
+| ROCE % | 3 (Mar 2026) | 36 (Mar 2025) |
+| Debtor Days | 14 (Mar 2026) | 12 (Mar 2026) |
+| Inventory Days | 85 (Mar 2026) | 35 (Mar 2026) |
+| Days Payable | 158 (Mar 2026) | 101 (Mar 2026) |
+| Cash Conversion Cycle | -59 (Mar 2026) | -54 (Mar 2026) |
+| Working Capital Days | -81 (Mar 2026) | -89 (Mar 2026) |
+| Debt / equity (x) | 0.7 (Mar 2026) | 0.4 (Mar 2026) |
+| Borrowings (₹ cr) | 79,109 (Mar 2026) | 5,615 (Mar 2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -344,22 +341,23 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Tata Passenger Vehicles (Passenger vehicle sub-segment, incl. Electric Vehicles) | 58,465 | 1.4% | 9.1% | 0.47x | ₹ crore | FY2026 |
+| Tata Passenger Vehicles (segment: "Passenger vehicle" under Tata and other brand vehicles) | 58,465 | 1.4% | 9.1% | 0.47x | ₹ crore | FY2026 |
+| Electric Vehicles (disclosed as amounts included in Passenger vehicles) | 23,596 | 1.7% | — | — | ₹ crore | FY2026 |
 | Jaguar Land Rover | 273,303 | 1.0% | 2.5% | 0.99x | ₹ crore | FY2026 |
-| Others (IT services; insurance broking services up to FY25) | 5,513 | 13.1% | 22.7% | 1.28x | ₹ crore | FY2026 |
+| Others (IT services; insurance broking up to FY25) | 5,513 | 13.1% | 22.7% | 1.28x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **other** — parent / remaining: Tata Motors Limited standalone total income for the year ended March 31, 2024: ₹73,729.04 crore; the Passenger Vehicles Business came in through Tata Motors Passenger Vehicles Limited, with total income of ₹51,206.32 crore for the year ended March 31, 2024; separated business: Commercial Vehicles Business total income ₹73,116.64 crore for FY 2023-24, representing ~99% of the listed entity's standalone total income “As per audited standalone financial statements as at March 31, 2024, Tata Motors Limited's (“the Company”/ “TML”) total income relating to Commercial Vehicles Business was ₹ 73,116.64 crore, representing ~99% of the total income for FY 2023-24.”
-- **other** — parent / remaining: Tata Motors Limited Net Worth as on March 31, 2024: ₹28,812.11 crore; Tata Motors Passenger Vehicles Limited (amalgamating) Net Worth ₹8,360.91 crore; 68.85% of shareholders' cost of acquisition apportioned to the passenger vehicles entity; separated business: Commercial Vehicles undertaking: book value of net assets transferred ~₹11,000 crore against a third-party valuation of ~₹94,000 crore, giving a notional disposal gain of ~₹83,000 crore with an equal contra deemed-dividend entry; 31.15% of shareholders' cost of acquisition apportioned to it “So, the business was valued at ~Rs. 94,000 Cr by third-party agencies. The book value that was transferred was ~Rs. 11,000 Cr, so the delta is about ~Rs. 83,000 Cr.”
-- **debt and leverage** — parent / remaining: Consolidated net debt of the Tata Motors Passenger Vehicles group ₹30,000 Cr for the year ending March 2026; PV business cash positive at about ₹7,000 Cr; JLR net debt ₹33,000 Cr (net auto debt had moved from a net cash position at end-FY25 to ~₹20,000 Cr by Q2 FY26 and ~₹39,000 Cr at Q3 FY26); separated business: Identified rated, listed, unsecured, redeemable NCDs of ₹2,300 crore (five ISINs) transferred from the Demerged Company to the Resulting Company; the demerged entity's own net debt not stated “The net debt for the year ending March 2026 was Rs. 30,000 Cr, largely representing the Rs. 25,000 Cr of consol cash burn and the Rs. 2,200 Cr of dividends that we paid last year. PV remains cash positive at about Rs. 7,000 Cr, while the net debt at JLR stood at Rs. 33,000 Cr.”
-- **cash** — parent / remaining: Free cash flow for the India (PV) business ₹1,900 Cr for FY26 and ~₹1,700 Cr in Q4 FY26; consolidated FCF for Q4 FY26 ₹11,000 Cr; JLR full year cash loss just over GBP2.2 billion against guidance of minus GBP2.2 billion to minus GBP2.5 billion; separated business: not stated “FCF for the quarter came in at about Rs. 1,700 Cr, both from strong operating profits, favorable working capital, and we also had about Rs. 500 Cr benefit of tax refunds that came in this quarter. FCF for the India business for the year stood at about Rs. 1,900 Cr.”
-- **operating margin** — parent / remaining: Tata Motors Passenger Vehicles India business Q4 FY26: 9.4% EBITDA margin and 4.7% EBIT margin; JLR FY26 EBIT 0.7% (within 0% to 2% guidance), Q4 FY26 EBIT 9.2%; consolidated EBIT margin was negative 4.7% in Q3 FY26; separated business: not stated “We ended the year with 9.4% EBITDA margin for the quarter and 4.7% EBIT margin.”
-- **growth** — parent / remaining: Passenger Vehicles Q2 FY26 sales 144,397 units vs 130,753 units in Q2 FY25 (+10%); FY26 record 6.42 lakh units, over 15% growth, about twice the industry's 8%; Q2 FY27 sales 201,723 units, +40% year-on-year; separated business: Commercial Vehicles Q2 FY26 sales 94,681 units vs 84,281 units in Q2 FY25 (+12%); October 2025 sales 37,530 units vs 34,259 units in October 2024, up 10% YoY “Sales in the domestic & international market for Q2 FY26 stood at 94,681 units, compared to 84,281 units during Q2 FY25.”
-- **capex and capital intensity** — parent / remaining: India PV/EV capex FY26 about ₹4,300 Cr, ~7.5% of revenues, within guidance (year-to-date Q3 FY26 total investment spending ₹3,800 Cr); JLR FY26 investment GBP3.57 billion, of which GBP2.6 billion engineering, engineering capitalisation 64%; separated business: not stated “Capex for the year stood at about Rs. 4,300 Cr that translated to about 7.5% of revenues, well within the guidance range that we gave from the combined Capex for PV and EV.”
-- **tax** — parent / remaining: Cost of acquisition of Ordinary Shares apportioned 68.85% to Tata Motors Passenger Vehicles Limited (formerly Tata Motors Limited); the amalgamation was effected under Section 2(1B) of the Income-tax Act, 1961; an exceptional provision of about ₹400 Cr was taken for stamp duty on the demerger; separated business: Cost of acquisition of Ordinary Shares apportioned 31.15% to Tata Motors Limited (formerly TML Commercial Vehicles Limited); the demerger was effected under Section 2(19AA) of the Income-tax Act, 1961, and the shares issued are not regarded as a transfer under Section 47(vid) “The Scheme complies with the provisions of Section 2(19AA) of the Act. Therefore, the Demerger is not treated as a transfer in the hands of the shareholders.”
-- **other** — parent / remaining: Dividend of ₹3 per share approved for FY26 by Tata Motors Passenger Vehicles Limited, with a cash outflow of about ₹1,100 Cr; separated business: Dividend of ₹4 per share announced by the commercial vehicles entity for FY26 “The TMLCV has announced Rs. 4 of dividend in the results meeting yesterday. So this actually represents a total dividend of Rs. 7 in the year when the demerger was undertaken and an increase over the Rs. 6 that we have paid for the last two years.”
-- **other** — parent / remaining: Tata Motors Passenger Vehicles Limited retains the passenger vehicles business, Tata Passenger Electric Mobility Limited, Jaguar Land Rover and their related investments; Fiat India Automobiles Private Limited remains a 50:50 joint venture with Stellantis; separated business: Entire shareholding in 8 direct subsidiaries, 7 indirect subsidiaries, 5 associates (including Automobile Corporation of Goa Limited 49.77%, Tata Hitachi Construction Machinery Company Private Limited 39.99%), Tata Cummins Private Limited (50.00%) and two joint ventures (50.00% each) transferred to the resulting company “Consequent upon demerger of the Commercial Vehicles business of the Company and the concurrent transfer of its Group Companies to TMLCV, we hereby wish to inform the Exchanges that the entire shareholding held by the Company in the following entities will stand transferred to TMLCV, w.e.f., the effective date of the Scheme.”
+- **other** — parent / remaining: Passenger Vehicles Business retained in the listed entity; Tata Motors Passenger Vehicles Limited (the amalgamating wholly owned subsidiary carrying the PV business) had total income of ₹51,206.32 crore for the year ended March 31, 2024; separated business: Commercial Vehicles Business demerged into TMLCV with total income of ₹73,116.64 crore, ~99% of TML's standalone total income for FY 2023-24 “As per audited standalone financial statements as at March 31, 2024, Tata Motors Limited's ("the Company"/ "TML") total income relating to Commercial Vehicles Business was ₹ 73,116.64 crore, representing ~99% of the total income for FY 2023-24.”
+- **other** — parent / remaining: 68.85% of a shareholder's total cost of acquisition of Ordinary Shares is apportioned to Tata Motors Passenger Vehicles Limited (formerly Tata Motors Limited); separated business: 31.15% of a shareholder's total cost of acquisition of Ordinary Shares is apportioned to Tata Motors Limited (formerly TML Commercial Vehicles Limited), being the proportion the net book value of assets transferred bears to the net worth of the demerged company “The total cost of acquisition of INR 4,00,000/- would be apportioned in the aforesaid ratio - INR 1,24,600/- (31.15% of INR 4,00,000/-) being the total cost of acquisition of 1,000 Resulting Company shares and INR 2,75,400/- (INR 4,00,000/- less INR 1,24,600) being the total cost of acquisition of 1000 original shares of Demerged Company.”
+- **debt and leverage** — parent / remaining: TMPV group net debt of Rs. 30,000 Cr for the year ending March 2026; net auto debt had moved from a net cash position at end FY25 to ~Rs. 20,000 Cr at Q2 FY26; separated business: Identified Rated, Listed, Unsecured, Redeemable NCDs aggregating ₹2,300 crore transferred from the Demerged Company to the Resulting Company (NCD record date October 10, 2025) “The net debt for the year ending March 2026 was Rs. 30,000 Cr, largely representing the Rs. 25,000 Cr of consol cash burn and the Rs. 2,200 Cr of dividends that we paid last year.”
+- **cash** — parent / remaining: PV remains cash positive at about Rs. 7,000 Cr while JLR net debt stood at Rs. 33,000 Cr (FY26); India business was net cash ~Rs. 5,000 Cr at Q2 FY26; separated business: not stated “PV remains cash positive at about Rs. 7,000 Cr, while the net debt at JLR stood at Rs. 33,000 Cr.”
+- **growth** — parent / remaining: Passenger Vehicles sales in Q2 FY26 of 144,397 units vs 130,753 units in Q2 FY25, robust double-digit year-on-year growth of more than 10%; separated business: Commercial Vehicles sales in Q2 FY26 of 94,681 units vs 84,281 units in Q2 FY25, growth of 12% “Overall, in Q2 FY26, Tata Motors Commercial Vehicles delivered sales of 94,681 units, registering a growth of 12% over the same period last year.”
+- **operating margin** — parent / remaining: TMPV India business ended FY26 with 9.4% EBITDA margin for the quarter and 4.7% EBIT margin; PBT before extraordinary expenses in Q4 of Rs. 1,100 Cr; separated business: not stated “We ended the year with 9.4% EBITDA margin for the quarter and 4.7% EBIT margin.”
+- **capex and capital intensity** — parent / remaining: TMPV India capex for FY26 of about Rs. 4,300 Cr, about 7.5% of revenues (combined PV and EV); JLR full-year investment of GBP 3.57 billion, of which GBP 2.6 billion engineering; separated business: not stated “Capex for the year stood at about Rs. 4,300 Cr that translated to about 7.5% of revenues, well within the guidance range that we gave from the combined Capex for PV and EV.”
+- **other** — parent / remaining: TMPV Board approved a dividend of Rs. 3 per share for FY26, cash outflow about Rs. 1,100 Cr; erstwhile Tata Motors paid Rs. 6 in dividends for the last two years; separated business: TMLCV announced Rs. 4 of dividend for FY26 “The TMLCV has announced Rs. 4 of dividend in the results meeting yesterday.”
+- **tax** — parent / remaining: Cost of acquisition of original shares in the demerged company deemed reduced under Section 49(2D); amalgamation of TMPV complies with Section 2(1B) of the Income-tax Act, 1961; separated business: Demerger complies with Section 2(19AA) of the Income-tax Act, 1961; issue of shares by the Resulting Company is not regarded as transfer under Section 47(vid), and holding period of the demerged company's shares carries over “Therefore, the Demerger is not treated as a transfer in the hands of the shareholders.”
+- **other** — parent / remaining: Reporting boundary split: "Passenger Vehicles (PV) businesses for the period 1 April 2025 to 31 March 2026"; the Chinchwad facility in Pune became part of the Company from October 2025; separated business: "Commercial Vehicles (CV) business for the period 1 April 2025 to 30 June 2025", disclosed in Annexure I to the BRSR “As per the Demerger Scheme, the CV business was transferred and vested into a separate entity with effect from the appointed date, being July 1, 2025, while the Passenger Vehicle (PV) business continued to remain with Tata Motors Passenger Vehicles Limited (formerly Tata Motors Limited) (Tata Motors Passenger Vehicles or 'TMPVL' or 'Company').”
 
 **The checklist:**
 

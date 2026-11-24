@@ -8,9 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Piccadily Food & Essentials Limited** | The Sugar Business / Demerged Undertaking — manufacturing, marketing, sales and/or distribution of white crys… | to be listed — "Yes, all the new shares of PFEL will be lis… | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Piccadily Food & Essentials Limited** | 2026 demerger of the Sugar Business into Piccadily Food & E… | Sugar Business: manufacturing, marketing, sales and/or distribution of white crystal sugar from sugarcane and… | to be listed | not stated |
 
 **What is being separated, as the documents put it:** The Sugar Business — white crystal sugar, allied and food products — demerged into wholly owned Piccadily Food & Essentials Limited — class `value_unlocking`.
 
@@ -20,15 +20,13 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2026-04-28 | Board approval — Piccadily Agro Industries Limited (Demerged Company) | as stated: Outcome of Board Meeting under Regulation 30, filing dated April 28, … |
-| 2026-04-28 | Other — scheme of demerger filed with SEBI (as stated by management) — Piccadily Agro Industries Limited | as stated: FY'26 Earnings Conference Call, April 29, 2026 — "with management app… |
-| 2026-07-22 | Other — NSE forwarded the draft scheme to SEBI (letter ref. NSE/LIST/54953) — National Stock Exchange of India Limited / PAIL | as stated: NSE Observation Letter dated August 14, 2026 — "Based on our letter r… |
-| 2026-08-13 | SEBI approval — SEBI comments on the draft scheme — Piccadily Agro Industries Limited / Piccadily Food & Essentials Limited | as stated: NSE Observation Letter dated August 14, 2026 — "SEBI vide its letter … |
-| 2026-08-14 | Exchange no-objection — BSE Limited and National Stock Exchange of India Limited (for PAIL / PFEL) | as stated: Intimation dated August 17, 2026 — "the Company has received the No A… |
-| 2026-08-14 | Other — validity of NSE Observation Letter: six months within which the Scheme shall be submitted to NCLT — Piccadily Agro Industries Limited | as stated: NSE Observation Letter dated August 14, 2026 — "The validity of this … |
+| 2026-04-28 | Board approval — Piccadily Agro Industries Limited | as stated: Outcome of the Board Meeting under Regulation 30 held on April 28, 20… |
+| 2026-04-28 | Other — Piccadily Agro Industries Limited | as stated: Press release dated 28th April 2026: "the demerger scheme has been fi… |
+| 2026-07-22 | Other — National Stock Exchange of India Limited submission of the draft scheme to SEBI (letter reference no. NSE/LIST/54953) | as stated: NSE Observation Letter Ref: NSE/LIST/54953 dated August 14, 2026 |
+| 2026-08-13 | Other — SEBI comment letter on the draft scheme of arrangement | as stated: NSE Observation Letter Ref: NSE/LIST/54953 dated August 14, 2026 ("SE… |
+| 2026-08-14 | Exchange no-objection — BSE Limited and National Stock Exchange of India Limited | as stated: Intimation regarding receipt of Observation Letters dated August 17, … |
 | 2026-08-17 | Stage reached: **exchange noc** | [General Updates](https://nsearchives.nseindia.com/corporate/CSPICCADILY_17082026163842_approval.pdf) |
-| 2026-08-17 | Other — company intimated the exchanges of receipt of the observation letters and hosted them on its website — Piccadily Agro Industries Limited | as stated: Intimation regarding receipt of Observation Letters, filing dated Aug… |
-| 2027-03 | Other — expected completion of the demerger process (management expectation; no appointed date, effective date or record date stated) — Piccadily Agro Industries Limited / Piccadily Food & Essentials Limited | as stated: Press release dated April 28, 2026 — "the demerger scheme has been fi… |
+| 2026-08-17 | Other — Piccadily Agro Industries Limited | as stated: General Updates filing dated August 17, 2026 — intimation to BSE and … |
 
 **The stages, as filed:** exchange noc (2026-08-17)
 
@@ -40,11 +38,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Piccadily Food & Essentials Limited | Annexure B: "The turnover of the Demerged Undertaking of th… | 20.53% | 22.5% (FY2026) | — | — | not listed |
+| Piccadily Food & Essentials Limited | "The turnover of the Demerged Undertaking of the Company fo… | 20.53% | 22.5% (FY2026) | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,444 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31st March 2026 is as follows: (Rs. In Lakh) | Financial Year 2026 | Turnover of the demerged division 233.05 | Percentage to the total turnover of the listed entity 20.53%”
+**In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31% March 2026 is as follows: (Rs. In Lakh) | Financial Year: 2026 | Turnover of the demerged division: 233.05 | Percentage to the total turnover of the listed entity: 20.53%”
 
 **The judge's read of selling pressure:** likely — Entitlement is only 1 PFEL share per 9 PAIL shares; sugar is a different, seasonal industry premium-spirits holders did not buy.
 
@@ -52,7 +50,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Piccadily Food & Essentials Limited:** "for every 9 (Nine) equity shares of face value of Rs. 10/- fully paid up held in the Demerged Company, 1 (One) equity share of face value of Rs. 10/- credited as fully paid up in the Resulting Company." "The Share Entitlement Ratio is fixed keeping in view the turnover of Sugar Business Undertaking and assets of the Sugar Business." No cash consideration; PFEL's existing shares held by PAIL stand cancelled
+- **Piccadily Food & Essentials Limited:** for every 9 (Nine) equity shares of face value of Rs. 10/- fully paid up held in the Demerged Company, 1 (One) equity share of face value of Rs. 10/- credited as fully paid up in the Resulting Company.
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -63,9 +61,9 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "There will be no change in the shareholding pattern of Piccadily Agro Industries Limited. Further the Piccadily Food & Essentials Limited is a wholly owned subsidiary of the Company. Upon effectiveness of the Scheme, the entire pre scheme paid up share capital of PFEL, shall stand cancelled and reduced." and "The effectiveness of the Scheme would result in the creation of two listed companies with proportionate shareholding"; promoter percentages not stated
-- **What a public shareholder receives:** "for every 9 (Nine) equity shares of face value of Rs. 10/- fully paid up held in the Demerged Company, 1 (One) equity share of face value of Rs. 10/- credited as fully paid up in the Resulting Company." Shareholders retain their PAIL shares unchanged, and "There is no cash consideration being discharged under the Scheme." NSE condition: "The shares allotted pursuant to the Scheme shall remain frozen in the depositories system till listing/trading permission is given by the designated stock exchange."
-- **Management incentives:** Treatment of existing stock options in the Scheme, any new plan in the Resulting Company, exercise price or pricing date, and management/insider shareholding: not stated. The only disclosure is the cash-flow line "EMPLOYEES STOCK OPTION SCHEME 584.69" for the year ended 31.03.2026 versus "149.68" for the year ended 31.03.2025 (Rs. in lakhs), alongside "PROCEEDS BY WAY OF ISSUE OF EQUITY SHARE 423.22" and paid-up share capital rising from Rs. 9,433.93 lakhs to Rs. 9,857.15 lakhs
+- **What the promoters will hold in the separated entity:** 2026 demerger: "There will be no change in the shareholding pattern of Piccadily Agro Industries Limited. Further the Piccadily Food & Essentials Limited is a wholly owned subsidiary of the Company. Upon effectiveness of the Scheme, the entire pre scheme paid up share capital of PFEL, shall stand cancelled and reduced." and "The effectiveness of the Scheme would result in the creation of two listed companies with proportionate shareholding with the Resulting Company housing the Sugar Business and the Company housing the Distillery Business." Promoter percentages are not stated.
+- **What a public shareholder receives:** 2026 demerger: "for every 9 (Nine) equity shares of face value of Rs. 10/- fully paid up held in the Demerged Company, | (One) equity share of face value of Rs. 10/- credited as fully paid up in the Resulting Company." and "There is no cash consideration being discharged under the Scheme."
+- **Management incentives:** Treatment of existing grants under the Scheme is not stated, and no new plan in the Resulting Company is stated. The only disclosure is in the cash flow statements: standalone "EMPLOYEES STOCK OPTION SCHEME 584.69" for the year ended 31.03.2026 against "149.68" for the year ended 31.03.2025 (consolidated: "EMPLOYEE STOCK OPTION SCHEME 584.69" / "149.68"), and "PROCEEDS BY WAY OF ISSUE OF EQUITY SHARE 423.22". Diluted EPS Rs. 14.42 versus basic Rs. 14.42 for FY2026 (FY2025: 11.08 diluted versus 11.09 basic). Management or insider shareholding percentages: not stated.
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** Not stated as a percentage; shareholding proportionate — no change in PAIL's pattern; PFEL's pre-scheme capital cancelled, no consideration. Promoter converted 6,36,942 warrants into PAIL shares, listed November 2025. · *option pricing date:* not stated
 
@@ -178,7 +176,7 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Sugar (reportable segment "Sugar" / sugar division; products: Sugar, Molasses, Power and Bagasse) — the Sugar Business Undertaking / Demerged Undertaking → Piccadily Food & Essentials Limited (PFEL) — Resulting Company** · unit ₹ lakh · operating_profit = segment result as labelled 'Profit/(loss) before unallocated expenditure, finance cost and tax' (segment EBIT, i.e. after segment depreciation, before finance cost, unallocable expenditure, exceptional items and tax). Revenue is external only — the note states inter-segment revenue is nil. PAT is not allocated to segments (only company-level PAT is given). Figures are standalone Ind AS-108 segment disclosures. Latest-quarter revenue is stated in the presentation in ₹ crore (6.6) and has been converted ×100 to ₹ lakh to keep one unit.
+**Sugar (reporting segment) — Sugar, Molasses, Power and Bagasse; the Sugar Business / Demerged Undertaking → Piccadily Food & Essentials Limited (PFEL)** · unit ₹ lakh · Annual figures are standalone Ind AS-108 segment disclosures in ₹ lakh. Revenue is total segment revenue with inter-segment revenue reported as nil. Operating profit = segment 'Profit/(loss) before unallocated expenditure, finance cost and tax' (segment result / PBIT). No segment-level PAT, since tax and finance cost are unallocated. Latest-quarter figures come from the earnings presentation and are in ₹ crore (not ₹ lakh): Sugar vertical revenue only; no segment-level EBITDA/profit is disclosed quarterly. FY2025 segment assets read 33,423.33 in a scanned/OCR-degraded table (note 38, AR2025 p.205).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -189,20 +187,20 @@ xychart-beta
 | Operating margin (%) | 1.4 | -1.3 | -3.9 |
 | PAT (₹ lakh) | — | — | — |
 | PAT growth (%) | — | — | — |
-| Segment assets (₹ lakh) | 13,494 | — | 10,554 |
+| Segment assets (₹ lakh) | 13,494 | 33,423 | 10,554 |
 | Segment liabilities (₹ lakh) | 13,254 | 11,684 | 22,167 |
-| Capital employed (₹ lakh) | 241 | — | -11,613 |
-| Return on capital employed (%) | 162 | — | — |
-| Segment assets / revenue (x) | 0.5 | — | 0.5 |
+| Capital employed (₹ lakh) | 241 | 21,740 | -11,613 |
+| Return on capital employed (%) | 162 | -1.5 | — |
+| Segment assets / revenue (x) | 0.5 | 1.3 | 0.5 |
 | Capex (₹ lakh) | 0.0 | 0.0 | 0.0 |
 
-*Sources:* Annual Report 2024 — page 121 (standalone; consolidated same figures on page 158); Annual Report 2025 — page 205 (standalone); Annual Report 2026 — pages 142-143 (standalone; consolidated on page 190: profit -904.94, assets 10,553.97, liabilities 22,166.79, depreciation 199.63)
+*Sources:* Annual Report 2024 — page 121; Annual Report 2025 — page 205; Annual Report 2026 — page 142 and page 143
 
-*Latest quarter (Q2 FY27):* revenue 660, operating profit None — Presentation Nov 2026 — page 8 (Revenue from Sugar Vertical ₹6.6 cr for Q2 FY27; H1 FY27 ₹71.7 cr)
+*Latest quarter (Q2 FY27):* revenue 6.6, operating profit None — Presentation Nov 2026 — page 8
 
-*Not in the pages read:* No segment PAT any year; no segment capex (shown nil); FY2025 segment assets illegible/inconsistent in the scanned page; no segment-level EBITDA or quarterly profit.
+*Not in the pages read:* No PAT, EBITDA, standalone PFEL accounts, or quarterly segment profit for Sugar; FY2024–FY2026 sugar capex shown as nil ('-').
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 10 presentation(s) on file):* Piccadily Food & Essentials Limited / PFEL / Resulting Company: pages carry no standalone financials for it and never mention the demerger scheme or the Sugar Business Undertaking by those names — its numbers are only the Sugar segment above.
+*Businesses with no numbers in the pages read (3 annual report(s) and 10 presentation(s) on file):* Pages carry no standalone or carve-out financials for Piccadily Food & Essentials Limited / PFEL / Resulting Company as an entity; only the parent's Sugar segment numbers stand in for the Sugar Business Undertaking.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/3ca42014-23d1-4a77-9dd3-3f28079ed2c8.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/a5dc1d1f-888f-4d7d-a239-24df1d818bca.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/21b43261-f80c-45e6-b922-337e65902621.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d6b9f236-0f82-412b-856e-cef08d8a95c5.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b2433562-c6fe-411f-b6bb-83d98e625218.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fac98645-ab06-41be-a93c-3f7b81d75309.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=098e8742-32fe-4222-8902-9cbd1098c1a3.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=428cb101-9db0-4ae2-860f-ebf9be7bceb8.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec836cff-71a2-465e-a90c-12508fba0df2.pdf)
 
@@ -210,13 +208,13 @@ xychart-beta
 
 | Metric (latest year) | Parent (PICCADIL) | Piccadily Food & Essentials Limited |
 |---|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Sugar (reportable segment "S…* |
+| *Basis* | *reported, consolidated* | *segment numbers (Sugar (reporting segment) — …* |
 | Sales (₹ cr) | 1,038 (Mar 2026) | — |
 | Sales growth (%) | 30.2 (Mar 2026) | -6.6 (FY2026) |
 | Operating margin (%) | 22.4 (Mar 2026) | -3.9 (FY2026) |
 | Operating profit growth (%) | 27.3 (Mar 2026) | -176.5 (FY2026) |
 | PAT margin (%) | 13.3 (Mar 2026) | — |
-| ROCE % | 18 (Mar 2026) | 161.9 (FY2024) |
+| ROCE % | 18 (Mar 2026) | -1.5 (FY2025) |
 | Debtor Days | 85 (Mar 2026) | — |
 | Inventory Days | 277 (Mar 2026) | — |
 | Days Payable | 57 (Mar 2026) | — |
@@ -233,17 +231,18 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Distillery (including Alcoholic Beverages / Alco-Bev; products: Liquor, Malt, Carbon dioxide Gas and Ethanol) | 90,201 | 26.5% | 22.2% | 1.7x | ₹ lakh | FY2026 |
+| Distillery (including Alcoholic Beverages / Alco-bev) — Liquor, Malt, Carbon dioxide Gas and Ethanol | 90,201 | 26.5% | 22.2% | 1.7x | ₹ lakh | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **operating margin** — parent / remaining: Alco-Bev / distillery EBITDA margin about 31.5% for the current year, described as "one of the highest margin in any Alco-Bev competition"; IMFL EBITDA margins "around 45% to 50%"; overall standalone EBITDA margin 23.4% in FY26, same as 23.4% in FY25; Distillery segment result Rs. 23,872.46 lakhs in FY26 vs Rs. 18,015.50 lakhs in FY25; separated business: Sugar EBITDA margin fell from 11% in Q4 FY25 to 2% in Q4 FY26, dragging the standalone quarterly EBITDA margin down about 300 basis points; Sugar segment result was a loss of Rs. 904.62 lakhs in FY26 vs a loss of Rs. 327.13 lakhs in FY25 (standalone segment report) “That is one of the major factor is because of sugar drop in business, sugar margins drop, which was 11% EBITDA margin last year and last year same quarter and 2% this year quarter.”
-- **growth** — parent / remaining: Alco-bev division revenue INR 908 crore in FY26 from INR 639 crore, up 42.1% YoY; Q4 FY26 alco-bev revenue INR 250 crore, up 67% YoY from INR 150 crore; guidance of 60% to 70% value growth in FY27 and 3x to 4x revenue in the next 3 to 4 years; separated business: Sugar segment revenue Rs. 23,305.03 lakhs in FY26 versus Rs. 24,950.10 lakhs in FY25 (standalone segment report); no growth guidance given for the sugar business, which management calls "a traditional heritage business" “Alco-bev Division: INR 908 crore from INR 639 crore , grew by 42.1% YoY”
-- **working capital** — parent / remaining: Standalone short-term borrowings rose to Rs. 38,552.19 lakhs as at 31.03.2026 from Rs. 16,612.51 lakhs; trade receivables Rs. 24,284.22 lakhs from Rs. 13,686.94 lakhs; inventories Rs. 41,010.99 lakhs from Rs. 30,320.47 lakhs; DSO "around 90 days, 80 to 90 days"; malt inventory up about INR 100 crores; management expects to "bring down this borrowings to the FY '26 levels" in FY27; separated business: The question put to management referred to "sugar season working capital versus distillery inventory financing", but no sugar-specific split was given; answer attributed the increase to sales growth, debtors and malt inventory “The short-term borrowings are mainly towards the working capital. As we can clearly see we have grown our sales, so there are debtors added to the balance sheet. And we have increased our malt also, malt inventory also about INR100 crores.”
-- **debt and leverage** — parent / remaining: Distillery segment liabilities Rs. 45,901.85 lakhs against Distillery segment assets Rs. 1,53,410.18 lakhs as at 31.03.2026 (standalone); total non-current borrowings Rs. 14,510.09 lakhs; finance costs Rs. 2,766.43 lakhs in FY26 vs Rs. 2,782.86 lakhs in FY25; separated business: Sugar segment liabilities Rs. 22,166.79 lakhs against Sugar segment assets Rs. 10,553.97 lakhs as at 31.03.2026 (standalone); allocation of borrowings to the Demerged Undertaking under the Scheme not stated “C. Seqment Assets Sugar- Distillery Other Unallocable Assets 10,553.97 1,53,410.18 35,922.22 ... D. Segment Liabilities : Sugar Distillery Other Unallocable Liabilities 22,166.79 45,901.85 5,604.42”
-- **capex and capital intensity** — parent / remaining: Indri distillery expansion completed October 2025 (ENA/ethanol 78 to 220 KLPD, malt 12 to 30 KLPD); greenfield Mahasamund, Chhattisgarh 200 KLPD plant commissioned December 2025; total capacity 450 KLPD; FY27 capex guided at not more than INR 25 to INR 30 crores, mainly barrels (85,000 to 100,000), warehousing and bottling; standalone net purchase of fixed assets Rs. 18,776.25 lakhs in FY26; separated business: not stated “No, so we don't. So most of the project plans has been done. Now the capex would mainly either to have some more barrels. We have around 85,000 barrels currently. We plan to go about 100,000 barrels this year. ... Should not be more than INR25 to INR30 crores.”
-- **other — seasonality** — parent / remaining: Management attributes quarter-to-quarter EBITDA margin swings in part to the seasonality of the sugar business; the Alco-Bev business is discussed on an annualised basis at 23.4% EBITDA margin; separated business: The sugar segment is the seasonal business; the notes to both standalone and consolidated results flag one segment as seasonal “One of the business segment is of seasonal nature , the performance in any quarter may not be representative of the annual performance of the company.”
-- **other — strategic positioning after separation** — parent / remaining: "Post-demerger, Piccadily Agro will transition into a pure-play alco-beverage company, enabling sharper strategic focus, improved capital allocation, and enhanced value creation for stakeholders."; exploring domestic or international inorganic acquisitions "mainly on the brand side"; Scotland distillery "still in the works" with land, licences and approvals in place; separated business: The sugar business is to be separated and listed as a separate entity; no sale is stated — management says the intent is to "separate it and list it as a separate entity" “Yes, intent is very clear that we want to be a global Alco-Bev company. We want to pool our human and capital resources just for the Alco-Bev business. So sugar business is like a traditional heritage business for us. So we want to separate it and list it as a separate entity than our Alco-Bev company and focus only on the Alco-Bev portfolio.”
+- **operating margin** — parent / remaining: Alco-Bev / distillery EBITDA margin about 31.5% in FY2026, with IMFL EBITDA margins around 45% to 50%; standalone FY2026 EBITDA margin 23.4%, same as FY2025; separated business: Sugar EBITDA margin fell from 11% in the year-ago quarter to 2% in Q4 FY2026, the main reason for the ~300 basis point standalone quarterly EBITDA margin drop “That is one of the major factor is because of sugar drop in business, sugar margins drop, which was 11% EBITDA margin last year and last year same quarter and 2% this year quarter.”
+- **growth** — parent / remaining: Alco-Bev division revenue grew 42.1% YoY in FY2026 to INR 908 crore; Q4 FY2026 brand portfolio revenue up 67% YoY from INR 150 crore to INR 250 crore; guidance of 60% to 70% growth in FY2027; separated business: Sugar segment revenue fell from Rs. 24,950.10 lakh in FY2025 to Rs. 23,305.03 lakh in FY2026; Sugar segment results fell from Rs. 1,334.95 lakh (Q4 FY2025) to Rs. 495.11 lakh (Q4 FY2026) “Alco-bev Division: INR 908 crore from INR 639 crore , grew by 42.1% YoY”
+- **working capital** — parent / remaining: Short-term borrowings attributed mainly to distillery working capital — added debtors on higher sales and about INR 100 crore of additional malt inventory; DSO around 80 to 90 days; borrowings to be brought back to FY2026 levels in FY2027; separated business: Sugar season working capital raised as one of the two possible drivers of the jump in short-term borrowings; sugar is described as the seasonal segment “So on your short-term borrowings which have jumped about 132%. How much of that is because of the sugar season working capital versus distillery inventory financing and what is the expected normalization path, sir?”
+- **other** — parent / remaining: Distillery business described as the growth engine; company to be a pure-play alco-beverage company post demerger; separated business: Sugar described as the seasonal segment whose quarterly performance is not representative of the year “One of the business segment is of seasonal nature , the performance in any quarter may not be representative of the annual performance of the company.”
+- **debt and leverage** — parent / remaining: Distillery segment liabilities Rs. 45,901.85 lakh as at 31.03.2026 (Rs. 31,164.68 lakh as at 31.03.2025), standalone; total standalone current borrowings Rs. 38,552.19 lakh versus Rs. 16,612.51 lakh; separated business: Sugar segment liabilities Rs. 22,166.79 lakh as at 31.03.2026 (Rs. 11,683.77 lakh as at 31.03.2025), standalone “D. Segment Liabilities : Sugar Distillery Other Unallocable Liabilities 22,166.79 45,901.85 5,604.42”
+- **capex and capital intensity** — parent / remaining: Indri distillery expansion completed October 2025 (ENA and ethanol 78 to 220 KLPD, malt 12 to 30 KLPD), Mahasamund Chhattisgarh greenfield 200 KLPD commissioned December 2025, total capacity 450 KLPD; FY2027 capex limited to barrels (85,000 going to 100,000), warehousing and bottling; separated business: not stated “Should not be more than INR25 to INR30 crores.”
+- **return on capital** — parent / remaining: Distillery segment assets Rs. 1,53,410.18 lakh with segment results of Rs. 23,872.46 lakh for FY2026 (standalone); separated business: Sugar segment assets Rs. 10,553.97 lakh as at 31.03.2026 (down from Rs. 33,423.23 lakh) with segment results of a loss of Rs. (327.13) lakh for FY2026 (standalone) “C. Seqment Assets Sugar- Distillery Other Unallocable Assets 10,553.97 1,53,410.18 35,922.22”
+- **cash** — parent / remaining: Standalone closing cash and cash equivalents Rs. 1,071.20 lakh and other bank balances Rs. 13,433.85 lakh as at 31.03.2026; net cash flow from operating activities Rs. 11,709.42 lakh against Rs. (2,527.90) lakh in FY2025; separated business: not stated “NET CASH FLOW FROM OPERATING ACTIVITIES (A) 11,709.42 (2,527.90)”
 
 **The checklist:**
 

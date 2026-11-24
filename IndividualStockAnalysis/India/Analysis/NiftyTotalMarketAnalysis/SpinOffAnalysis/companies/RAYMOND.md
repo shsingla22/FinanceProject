@@ -8,39 +8,43 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Raymond Realty Limited** | Real Estate Business Undertaking of Raymond Limited — development of residential and commercial projects, inc… | listed 2025-07-01 as RAYMONDREL (NSE) | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Raymond Realty Limited** | 2024 Scheme of Arrangement — demerger of the Real Estate Bu… | Real Estate Business Undertaking of Raymond Limited: ~100 acres Thane land parcel and asset-light Mumbai JDA … | listed 2025-07-01 as RAYMONDREL (NSE) | not stated |
+| **Raymond Lifestyle Limited** (earlier Raymond Consumer Care Limited) | 2023 Composite Scheme of Arrangement — demerger of the Life… | Lifestyle Business Undertaking of Raymond Limited: branded textiles, branded apparel, garmenting, high value … | listed 2024-09-05 as RAYMONDLSL (NSE) | not stated |
+
+**The other parties to the scheme(s)** — not separated entities: Ray Global Consumer Trading Limited — merged in — no shares for the parent's holders; JK Maini Precision Technology Limited — merged in — no shares for the parent's holders; JK Maini Global Aerospace Limited — merged in — no shares for the parent's holders; Ring Plus Aqua Limited — merged in — no shares for the parent's holders; Maini Precision Products Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** Real estate/realty business, demerged into Raymond Realty Limited; lifestyle business earlier demerged into Raymond Lifestyle Limited — class `regulatory_strategic`.
 
 ### 2. Stages and dates
 
-> **Listing:** LISTED — Raymond Realty Limited (RAYMONDREL) since 2025-07-01 (NSE equity list); record date 2025-05-14
+> **Listing:** LISTED — Raymond Realty Limited (RAYMONDREL) since 2025-07-01; Raymond Lifestyle Limited (RAYMONDLSL) since 2024-09-05 (NSE equity list); record date 2025-05-14
 
 | Date | Event | Source |
 |---|---|---|
 | 2024-06-21 | Stage reached: **nclt sanction** | [Updates](https://nsearchives.nseindia.in/corporate/RAYMOND_21062024184345_SEintimationsigned.pdf) |
 | 2024-07-04 | Stage reached: **announced** | [Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/RAYMOND_04072024170454_SEintimationsigned.pdf) |
-| 2024-07-04 | Board approval — Raymond Limited and Raymond Realty Limited | as stated: Intimation under Regulation 30 dated July 4, 2024 ("the Board of Dire… |
-| 2024-07-04 | Other — Raymond Realty Limited (share entitlement ratio) | as stated: Valuation report dated 04 July 2024 issued by KPMG Valuation Services… |
-| 2024-09-09 | Other — NSE submission of draft scheme to SEBI | as stated: NSE Observation Letter Ref: NSE/LIST/42938 dated November 21, 2024 ("… |
+| 2024-07-04 | Board approval — Raymond Limited and Raymond Realty Limited | as stated: Outcome of Board Meeting / Press Release, Raymond Limited, July 4, 20… |
+| 2024-09-05 | **Raymond Lifestyle Limited** listed (RAYMONDLSL) | NSE equity list |
+| 2024-09-09 | Filed with exchanges — Raymond Limited | as stated: NSE Observation Letter ref NSE/LIST/42938 dated November 21, 2024 ('B… |
 | 2024-11-21 | Stage reached: **exchange noc** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/RAYMOND_21112024204714_SEintimation.pdf) |
-| 2024-11-21 | SEBI observations — Raymond Limited | as stated: BSE letter DCS/AMAL/Ak/R37/3412/2024-25 dated November 21, 2024 ("SEB… |
-| 2024-11-21 | Exchange no-objection — BSE Limited and National Stock Exchange of India Limited | as stated: Intimation dated November 21, 2024 ("BSE and NSE, vide their letters … |
-| 2024-12-19 | Other — NCLT first-motion order dispensing RRL meetings and directing RL shareholders'/unsecured creditors' meetings within 60 days | as stated: Intimation dated December 19, 2024 enclosing NCLT order C.A.(CAA)/239… |
+| 2024-11-21 | SEBI approval — Raymond Limited | as stated: BSE letter DCS/AMAL/Ak/R37/3412/2024-25 dated November 21, 2024 ('SEB… |
+| 2024-11-21 | Exchange no-objection — BSE Limited and National Stock Exchange of India Limited | as stated: Scheme of Arrangement intimation, Raymond Limited, November 21, 2024 … |
+| 2024-12-19 | Other — NCLT first motion order — meetings of RRL shareholders/creditors and RL secured creditors dispensed with; meetings of RL equity shareholders and unsecured creditors directed | as stated: Scheme of Arrangement intimation, Raymond Limited, December 19, 2024 … |
 | 2025-01-25 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.in/corporate/RAYMOND_25012025175510_RL_summary_of_proceedings_ESH_signed.pdf) |
-| 2025-02-04 | Other — NCLT admission of the joint Company Scheme Petition (uploaded 19 February 2025; final hearing fixed for Friday, March 21, 2025) | as stated: Intimation dated February 19, 2025 (RL/SE/24-25/223) enclosing NCLT o… |
-| 2025-03-27 | NCLT order — Raymond Limited and Raymond Realty Limited | as stated: Intimation dated March 27, 2025 ("the Hon'ble National Company Law Tr… |
-| 2025-04-01 | Appointed date — Scheme of Arrangement | as stated: NCLT order dated 27.03.2025 ("The Scheme is hereby sanctioned, with t… |
+| 2025-01-25 | Shareholders / creditors meeting — Raymond Limited equity shareholders (11:00 a.m.) and unsecured creditors (12 noon), through VC/OAVM | as stated: Summary of Proceedings and E-Voting Results / Scrutinizer's Report, R… |
+| 2025-02-04 | Other — NCLT admitted the joint Company Scheme Petition and fixed March 21, 2025 for final hearing (order uploaded February 19, 2025) | as stated: Scheme of Arrangement intimation, Raymond Limited, February 19, 2025 |
+| 2025-03-27 | NCLT order — NCLT Mumbai Bench, Court-I, C.P.(CAA)/41/MB/2025 — Scheme sanctioned | as stated: Scheme of Arrangement intimation, Raymond Limited, March 27, 2025 (or… |
+| 2025-04-01 | Appointed date — Raymond Limited / Raymond Realty Limited | as stated: NCLT order dated March 27, 2025 ('The Scheme is hereby sanctioned, wi… |
+| 2025-04-08 | Other — Receipt of certified copy of the NCLT order | as stated: Scheme of Arrangement intimation, Raymond Limited, April 8, 2025 |
 | 2025-05-01 | Stage reached: **effective** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/RAYMOND_01052025223806_SEintimationrecorddatesigned.pdf) |
-| 2025-05-01 | Effective date — Raymond Limited and Raymond Realty Limited | as stated: Intimation dated May 1, 2025 (RL/SE/25-26/07): "The Scheme has become… |
+| 2025-05-01 | Effective date — Raymond Limited / Raymond Realty Limited | as stated: Scheme of Arrangement intimation, Raymond Limited, May 1, 2025 ('The … |
 | 2025-05-14 | **Record date** | NSE corporate-actions register |
 | 2025-05-14 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2025-05-14 | Record date — Raymond Limited shareholders eligible for RRL shares | as stated: Intimation dated May 1, 2025 ("The Board of Directors of the Company … |
-| 2025-05-16 | Allotment — Raymond Realty Limited | as stated: Q3/nine months FY26 financial results note 4, filed January 27, 2026 … |
+| 2025-05-14 | Record date — Raymond Limited shareholders eligible for Raymond Realty Limited shares | as stated: Scheme of Arrangement intimation, Raymond Limited, May 1, 2025 ('The … |
 | 2025-07-01 | **Raymond Realty Limited** listed (RAYMONDREL) | NSE equity list |
-| 2025-07-01 | Listing and trading — Raymond Realty Limited (BSE and NSE) | as stated: Q3/nine months FY26 financial results note 4, filed January 27, 2026 … |
+| 2025-07-01 | Listing and trading — Raymond Realty Limited (RAYMONDREL) | as stated: NSE equity list (exchange record) as provided; company letter dated J… |
 
 **The stages, as filed:** nclt sanction (2024-06-21) → announced (2024-07-04) → exchange noc (2024-11-21) → meetings (2025-01-25) → effective (2025-05-01) → record date (2025-05-14)
 
@@ -52,11 +56,12 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Raymond Realty Limited | INR 1,59,265 lakhs — "Turnover of Real Estate Business Unde… | 24.16% | — | 3,886 | 33.7% | no |
+| Raymond Realty Limited | Turnover of Real Estate Business Undertaking as on 31 March… | 24.16% | — | 3,886 | 33.7% | no |
+| Raymond Lifestyle Limited | Lifestyle Business Revenue ₹6,177 Cr in FY25 and ₹6,888 Cr … | — | — | 3,369 | 30.6% | yes |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,649 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"Turnover of Real Estate Business Undertaking as on 31 March 2024": "Real Estate Business Undertaking 1,59,265* ... 24.16%" with "* Revenue from operations on standalone basis" and heading "Percentage to the total turnover of RL as on 31 March 2024" (INR in Lakhs); and "The pre and post Scheme net worth of the Applicant Companies as on 31 March 2024 are as follows: 1. First Applicant Company Pre-Scheme Net worth 2,926.30 Post-Scheme Net worth 1,934.13; 2. Second Applicant Company (1.13) 991.04" (INR crores).”
+**In the documents' words:** “"This strategic move comes as Raymond's Real Estate Business has achieved scale, reporting revenue of INR 1,593 Cr. (43% YoY growth) and EBITDA of INR 370 Cr. in FY24, positioning it well to chart its own growth path as a separate entity." (Press Release, July 4, 2024). The turnover table in the same board disclosure states: "Turnover of Real Estate Business Undertaking as on 31 March 2024 — 1,59,265 [INR in Lakhs]; Percentage to the total turnover of RL as on 31 March 2024 — 24.16%". Apportionment of cost of acquisition of equity shares (May 13, 2025): "Raymond Limited 60.92%" and "Raymond Realty Limited 39.08%".”
 
 **The judge's read of selling pressure:** likely — Realty is a separate industry from lifestyle/engineering and contributed only ~23% of portfolio EBITDA in H1FY27
 
@@ -64,7 +69,8 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Raymond Realty Limited:** "One (1 only) equity share of Raymond Realty Limited of INR 10/- each fully paid up for every One (1 only) equity share of Raymond Limited of INR 10/- each fully paid up" (RRL to issue 6,65,73,731 equity shares of INR 10 each; no cash consideration)
+- **Raymond Realty Limited:** One (1 only) equity share of Raymond Realty Limited of INR 10/- each fully paid up for every One (1 only) equity share of Raymond Limited of INR 10/- each fully paid up
+- **Raymond Lifestyle Limited:** Four [4 Only] equity share of Raymond Lifestyle Limited (formerly known as Raymond Consumer Care Limited) of INR 2/- each fully paid up for every Five [5 Only] equity shares of Raymond Limited of INR 10/- each fully paid up.
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -72,13 +78,14 @@
 |---|---:|---:|---:|---:|---|
 | Raymond Ltd. (RAYMOND) | 48.87% | 7.19% | 6.11% | 37.79% | Sep 2026 |
 | Raymond Realty Limited (RAYMONDREL) | 50.93% | 6.21% | 2.4% | 40.42% | Sep 2026 |
+| Raymond Lifestyle Limited (RAYMONDLSL) | 59.61% | 7.0% | 4.56% | 28.79% | Sep 2026 |
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** 49.01% — "Promoters 3,26,26,525 49.01" in the "Pre and post shareholding pattern of RL" table of the Board-approval intimation dated July 4, 2024 (no as-of date given for the pattern; RL "has 1,72,704 ... Equity Shareholders as on 30 June 2024"). The Raymond Group Q2 & H1 FY2027 update (2 November 2026) states only a range, "PROMOTER STEWARDSHIP 48.87% – 59.62%", with "REPORTING BENCHMARK 30-Sept-2026", without entity-wise figures.
-- **What the promoters will hold in the separated entity:** Mirror shareholding. "Pre and post shareholding of RRL ... Promoters 16,50,000 100.00 [pre] | 3,26,26,525 49.01 [post]; Public - - | 3,39,24,906 50.96; Non Promoter – Non Public - - | 22,300 0.03; Total 16,50,000 100.00 | 6,65,73,731 100.00"; RL unchanged at "Promoters 3,26,26,525 49.01" post-Scheme. "Further, upon allotment of equity shares by RRL, the entire pre scheme paid up share capital of RRL held by RL shall stand cancelled".
-- **What a public shareholder receives:** "One (1 only) equity share of Raymond Realty Limited of INR 10/- each fully paid up for every One (1 only) equity share of Raymond Limited of INR 10/- each fully paid up"; "There is no cash consideration or any other form of consideration issued on demerger"; "the existing shareholders of the Demerged Company would hold the shares of two listed entities after the Scheme becoming effective, giving them flexibility in managing their investment in the two entities having differential dynamic." Fractional entitlements: "the Resulting Company shall not issue fractional shares to such shareholder but shall consolidate all such fractions and round up the aggregate of such fractions to the next whole number and issue consolidated shares to a trustee", sold "within a period of 90 days from the date of allotment of New Equity Shares". Allotment of 6,65,73,731 equity shares of INR 10 each on 16 May 2025; shares "shall remain frozen in the depository system till listing/ trading permission is given by the designated Stock Exchange".
-- **Management incentives:** Scheme Clause 8.6: "In respect of the stock options under the RL-ESOP 2023 scheme it is hereby clarified that the Board of Directors of the Resulting Company may, at its sole discretion put in place suitable stock option scheme on terms and conditions not less favourable to the option holders which will be offered to such option holders whose options have been granted under the RL-ESOP 2023 pursuant to this Clause." Clause 8.7: "While granting stock options, the Resulting Company shall take into account the period during which the option holders held RL-ESOP 2023 granted by the Demerged Company, prior to the issuance of the RL-ESOP 2023, by the Resulting Company for determining minimum vesting period required for stock options granted by the Resulting Company, subject to Applicable Laws." Consideration is issued "on a fully diluted basis". Q3 FY26 results note: "The effect of 738,403 potential equity shares (including ESOPs transferred to Raymond Lifestyle Limited and Raymond Realty Limited pursuant to the implementation of their respective Employee Stock Option Plans w.e.f. 9 January 2026, as a substitution of the Employee Stock Option Plan of Raymond Limited in accordance with the Composite Scheme of Arrangement) outstanding as at 31 December 2025 is anti-dilutive." "RL ESOP" is defined as "Raymond Employees Stock Option Plan 2023, framed by RL under the SEBI (Share Based Employee Benefits and Sweat Equity) Regulations, 2021". Exercise price, pricing date and management/insider shareholding: not stated.
+- **Promoters in the parent, per the documents:** Raymond Limited shareholding pattern in the July 4, 2024 board disclosure: "Promoters 3,26,26,525 — 49.01%" (both pre-Scheme and post-Scheme); "Public 3,39,24,906 — 50.96%"; "Non Promoter – Non Public 22,300 — 0.03%". The Q2/H1 FY2027 group presentation (reporting benchmark 30-Sept-2026) states only a range across the three listed entities: "PROMOTER STEWARDSHIP 48.87% – 59.62% PUBLIC FREE FLOAT 40.36% – 51.10% REPORTING BENCHMARK 30-Sept-2026".
+- **What the promoters will hold in the separated entity:** 2024 real estate demerger — mirror shareholding; pre and post shareholding of RRL as disclosed on July 4, 2024: pre-Scheme "Promoters 16,50,000 — 100.00"; post-Scheme "Promoters 3,26,26,525 — 49.01 / Public 3,39,24,906 — 50.96 / Non Promoter – Non Public 22,300 — 0.03"; "Upon the Scheme coming into effect on the Effective Date (as defined under the Scheme), on demerger, RRL shall issue 6,65,73,731 (Six Crores Sixty Five Lakhs Seventy Three Thousand Seven Hundred and Thirty One) Equity Shares of RRL having face value of INR 10 (Indian Rupees Ten) each to the equity shareholders of RL." 2024 engineering composite scheme — "Post Scheme, RPAL & MPPL will cease to exist and shareholding in JKTTL & RGCEL will change from 100% to 66.3% as subsidiaries of Raymond Limited."; CARE Ratings (July 4, 2025): "Post the process, MPPL and RPAL will cease to exist, and RL & its promoters will hold 67.40%, MPPL promoters 28.5%, and balance will be with the others and minority shareholders of the new companies." 2023 lifestyle demerger — promoter holding in Raymond Lifestyle Limited not stated (shares issued to all RL shareholders in the ratio 4 RLL shares of INR 2 for every 5 RL shares of INR 10).
+- **What a public shareholder receives:** Real estate demerger (2025): "In accordance with provisions of the Scheme, RRL shall issue and allot 1 (One) fully paid-up equity shares of RRL having face value of INR 10/- each for every 1 (One) fully paid up equity shares of INR 10/- each of RL to the shareholders of the Company whose names are recorded in the register of members and / or records of the depository as on the Record Date (i.e., Wednesday, May 14, 2025)." Lifestyle demerger (2024): "Each equity shareholder of Raymond Limited as on the Record Date, will be issued and allotted 4 (four) fully paid-up equity share(s) of INR 2 (Indian Rupees Two) each of Raymond Lifestyle Limited for every 5 (five) fully paid-up equity share(s) of INR 10 (Indian Rupees Ten) each of the Raymond Limited." Engineering composite scheme (NCLT order 2025): shareholders of Raymond Limited receive nothing — "No. The shares issued by JKTTL and RGCEL would not be listed on any of the stock exchanges." and "Not applicable, since the Scheme is between subsidiaries and step-down subsidiaries of the Company." Fractional entitlements under the lifestyle scheme: "Fractional entitlement, if any, shall be consolidated and allotted to the Trustee (as defined in the Scheme), who shall hold such shares in trust on behalf of the relevant security holders entitled to such fractional entitlements, for the specific purpose of selling the same in the market and on such sale, distribute to the relevant security holders in proportion to their respective fractional entitlements, the net sale proceeds of such shares (after deduction of applicable taxes and costs incurred and subject to withholding tax, if any)."
+- **Management incentives:** not stated in the documents on file.
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** Promoter stewardship 48.87%–59.62% across the three listed entities; promoter largest shareholder and chairs the Board. Promoter-group JK Investors (Bombay) took 66,57,373 Raymond Ltd warrants at ₹497; Gautam Hari Singhania ultimate beneficial owner · *option pricing date:* not stated
 
@@ -147,136 +154,154 @@ No stored cash-flow statement for this symbol.
 
 *Source: ProfitStatement/NiftyTotalMarket/RAYMONDREL.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Real estate and development of property (Realty Business / real estate business) → Raymond Realty Limited** · unit ₹ lakhs · Operating profit = consolidated 'Segment Result' (EBIT-type: segment profit before unallocable income/expenses, unallocable finance cost, exceptional items and tax). Revenue = External segment revenue (this segment has no inter-segment revenue). Assets/liabilities = segment assets / segment liabilities (exclude unallocable assets and borrowings). Capex = segment capital expenditure; depreciation = segment depreciation and amortisation. No segment-level PAT is disclosed. Demerged into Raymond Realty Ltd effective 01 May 2025 (appointed date 01 April 2025); from FY2025 it is folded into 'discontinued operations' with no separate realty figures.
+**Raymond Lifestyle Limited (RAYMONDLSL) — as reported since listing**
+
+| | Mar 2024 | Mar 2025 | Mar 2026 |
+|---|---:|---:|---:|
+| Sales (₹ cr) | 6,535 | 6,177 | 6,888 |
+| Sales growth (%) | — | -5.5% | +11.5% |
+| Operating profit (₹ cr) | 937 | 484 | 678 |
+| Operating profit growth (%) | — | -48.3% | +40.1% |
+| Operating margin (%) | 14.3 | 7.8 | 9.8 |
+| PAT (₹ cr) | 2,645 | 38.0 | 46.0 |
+| PAT growth (%) | — | -98.6% | +21.1% |
+| PAT margin (%) | 40.5 | 0.6 | 0.7 |
+| EPS (₹) | 6.3 | 7.6 | 7.1 |
+
+*Source: ProfitStatement/NiftyTotalMarket/RAYMONDLSL.csv (consolidated, screener.in); growth and margins computed here.*
+
+**Textile (Branded fabric) → Raymond Lifestyle Limited** · unit ₹ lakh · Profit line is 'Segment Result' (segment EBIT, before unallocable income/expenses, unallocable finance costs, exceptional items and tax). Revenue is Total Segment Revenue including inter-segment (FY2024 inter-segment ₹26,101.77 lakh, external ₹3,18,890.64 lakh; FY2023 inter-segment ₹23,642.01 lakh, external ₹3,12,765.28 lakh). Capex = segment capital expenditure; depreciation = segment depreciation and amortisation. AR2024 p31 also shows Branded Textile sales of ₹3,450 crore (FY2024) and ₹3,364 crore (FY2023) on a gross-of-elimination basis.
 
 | | FY2023 | FY2024 | FY2025 |
 |---|---:|---:|---:|
-| Revenue (₹ lakhs) | 111,514 | 159,265 | — |
+| Revenue (₹ lakh) | 336,407 | 344,992 | — |
+| Revenue growth (%) | — | +2.6% | — |
+| Operating profit (₹ lakh) | 63,479 | 64,016 | — |
+| Operating profit growth (%) | — | +0.8% | — |
+| Operating margin (%) | 18.9 | 18.6 | — |
+| PAT (₹ lakh) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ lakh) | 185,898 | 215,541 | — |
+| Segment liabilities (₹ lakh) | 106,808 | 114,897 | — |
+| Capital employed (₹ lakh) | 79,090 | 100,644 | — |
+| Return on capital employed (%) | 80.3 | 63.6 | — |
+| Segment assets / revenue (x) | 0.6 | 0.6 | — |
+| Capex (₹ lakh) | 2,512 | 6,340 | — |
+
+*Sources:* Annual Report 2024 — page 318; Annual Report 2025 — page 319
+
+*Not in the pages read:* No segment PAT. FY2025 onward not separable: lifestyle (to 30 June 2024) and realty are shown combined as discontinued operations. No quarterly figures for this segment.
+
+**Shirting (Shirting fabric, B2B / High Value Cotton Shirting) → Raymond Lifestyle Limited** · unit ₹ lakh · Profit line is 'Segment Result' (segment EBIT before unallocables, finance cost, exceptionals, tax). Revenue is Total Segment Revenue including inter-segment (FY2024 inter-segment ₹13,859.68 lakh, external ₹69,139.32 lakh; FY2023 inter-segment ₹7,132.84 lakh, external ₹69,065.65 lakh). AR2024 p31 shows High Value Cotton Shirting sales ₹830 crore FY2024, ₹762 crore FY2023 (gross of elimination).
+
+| | FY2023 | FY2024 | FY2025 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh) | 76,198 | 82,999 | — |
+| Revenue growth (%) | — | +8.9% | — |
+| Operating profit (₹ lakh) | 4,611 | 5,662 | — |
+| Operating profit growth (%) | — | +22.8% | — |
+| Operating margin (%) | 6.1 | 6.8 | — |
+| PAT (₹ lakh) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ lakh) | 59,109 | 68,128 | — |
+| Segment liabilities (₹ lakh) | 19,926 | 24,759 | — |
+| Capital employed (₹ lakh) | 39,183 | 43,369 | — |
+| Return on capital employed (%) | 11.8 | 13.1 | — |
+| Segment assets / revenue (x) | 0.8 | 0.8 | — |
+| Capex (₹ lakh) | 331 | 1,548 | — |
+
+*Sources:* Annual Report 2024 — page 318; Annual Report 2025 — page 319
+
+*Not in the pages read:* No segment PAT. FY2025 onward merged into combined discontinued operations. No quarterly figures.
+
+**Apparel (Branded readymade garments) → Raymond Lifestyle Limited** · unit ₹ lakh · Profit line is 'Segment Result' (segment EBIT). Revenue is Total Segment Revenue; no inter-segment revenue in this segment, so it equals external revenue. AR2024 p31 shows Branded Apparel sales ₹1,587 crore FY2024, ₹1,328 crore FY2023.
+
+| | FY2023 | FY2024 | FY2025 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh) | 132,759 | 158,700 | — |
+| Revenue growth (%) | — | +19.5% | — |
+| Operating profit (₹ lakh) | 7,096 | 6,210 | — |
+| Operating profit growth (%) | — | -12.5% | — |
+| Operating margin (%) | 5.3 | 3.9 | — |
+| PAT (₹ lakh) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ lakh) | 101,483 | 149,764 | — |
+| Segment liabilities (₹ lakh) | 72,783 | 105,241 | — |
+| Capital employed (₹ lakh) | 28,700 | 44,524 | — |
+| Return on capital employed (%) | 24.7 | 13.9 | — |
+| Segment assets / revenue (x) | 0.8 | 0.9 | — |
+| Capex (₹ lakh) | — | 1,592 | — |
+
+*Sources:* Annual Report 2024 — page 318; Annual Report 2025 — page 319
+
+*Not in the pages read:* No segment PAT; FY2023 capex shown as '-'. FY2025 onward merged into combined discontinued operations. No quarterly figures.
+
+**Garmenting (Garment manufacturing) → Raymond Lifestyle Limited** · unit ₹ lakh · Profit line is 'Segment Result' (segment EBIT). Revenue is Total Segment Revenue including inter-segment (FY2024 inter-segment ₹4,772.80 lakh, external ₹1,09,088.72 lakh; FY2023 inter-segment ₹2,227.04 lakh, external ₹1,07,806.07 lakh). AR2024 p31 shows Garmenting sales ₹1,139 crore FY2024, ₹1,100 crore FY2023.
+
+| | FY2023 | FY2024 | FY2025 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh) | 110,033 | 113,862 | — |
+| Revenue growth (%) | — | +3.5% | — |
+| Operating profit (₹ lakh) | 6,405 | 9,012 | — |
+| Operating profit growth (%) | — | +40.7% | — |
+| Operating margin (%) | 5.8 | 7.9 | — |
+| PAT (₹ lakh) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ lakh) | 70,233 | 79,081 | — |
+| Segment liabilities (₹ lakh) | 47,172 | 46,982 | — |
+| Capital employed (₹ lakh) | 23,061 | 32,100 | — |
+| Return on capital employed (%) | 27.8 | 28.1 | — |
+| Segment assets / revenue (x) | 0.6 | 0.7 | — |
+| Capex (₹ lakh) | 367 | 3,944 | — |
+
+*Sources:* Annual Report 2024 — page 318; Annual Report 2025 — page 319
+
+*Not in the pages read:* No segment PAT. FY2025 onward merged into combined discontinued operations. No quarterly figures.
+
+**Real Estate and Development of property (Realty Business) → Raymond Realty Limited** · unit ₹ lakh · Profit line is 'Segment Result' (segment EBIT before unallocables, finance cost, exceptionals, tax). Revenue is segment revenue, all external (no inter-segment); real estate revenue recognised on percentage-completion (Ind AS 115). AR2024 p31 shows the same Real Estate sales as ₹1,593 crore FY2024 and ₹1,115 crore FY2023, with EBITDA margins quoted on a 5-year chart; AR2024 p54 gives standalone real estate revenue ₹1,592.65 crore FY2024 vs ₹1,115.14 crore FY2023.
+
+| | FY2023 | FY2024 | FY2025 |
+|---|---:|---:|---:|
+| Revenue (₹ lakh) | 111,514 | 159,265 | — |
 | Revenue growth (%) | — | +42.8% | — |
-| Operating profit (₹ lakhs) | 27,615 | 35,857 | — |
+| Operating profit (₹ lakh) | 27,615 | 35,857 | — |
 | Operating profit growth (%) | — | +29.8% | — |
 | Operating margin (%) | 24.8 | 22.5 | — |
-| PAT (₹ lakhs) | — | — | — |
+| PAT (₹ lakh) | — | — | — |
 | PAT growth (%) | — | — | — |
-| Segment assets (₹ lakhs) | 104,461 | 207,208 | — |
-| Segment liabilities (₹ lakhs) | 56,454 | 133,222 | — |
-| Capital employed (₹ lakhs) | 48,007 | 73,986 | — |
+| Segment assets (₹ lakh) | 104,461 | 207,208 | — |
+| Segment liabilities (₹ lakh) | 56,454 | 133,222 | — |
+| Capital employed (₹ lakh) | 48,007 | 73,986 | — |
 | Return on capital employed (%) | 57.5 | 48.5 | — |
 | Segment assets / revenue (x) | 0.9 | 1.3 | — |
-| Capex (₹ lakhs) | 2,181 | 1,792 | — |
+| Capex (₹ lakh) | 2,181 | 1,792 | — |
 
-*Sources:* Annual Report 2024 — page 318; Annual Report 2025 — page 318
+*Sources:* Annual Report 2024 — page 318; Annual Report 2025 — page 319
 
-*Not in the pages read:* No segment PAT; no FY2025/FY2026 realty figures (merged into combined discontinued operations); no quarterly realty numbers on these pages.
+*Not in the pages read:* No segment PAT. FY2025/FY2026 realty-only figures absent: AR2025 p319 and AR2026 p344 show realty only inside combined discontinued operations. No quarterly realty figures.
 
-**Textile – Branded fabric (Branded Textile) → Raymond Lifestyle Limited** · unit ₹ lakhs · Operating profit = consolidated 'Segment Result' (EBIT-type, before unallocable items, finance cost, exceptional items, tax). Revenue = External segment revenue (excludes inter-segment revenue of 26,101.77 lakhs in FY2024 / 23,642.01 lakhs in FY2023). Segment assets/liabilities, segment capex and segment depreciation as disclosed. Part of the lifestyle business demerged into Raymond Lifestyle Ltd effective 30 June 2024; from FY2025 shown only inside combined discontinued operations. No segment PAT.
-
-| | FY2023 | FY2024 |
-|---|---:|---:|
-| Revenue (₹ lakhs) | 312,765 | 318,891 |
-| Revenue growth (%) | — | +2.0% |
-| Operating profit (₹ lakhs) | 63,479 | 64,016 |
-| Operating profit growth (%) | — | +0.8% |
-| Operating margin (%) | 20.3 | 20.1 |
-| PAT (₹ lakhs) | — | — |
-| PAT growth (%) | — | — |
-| Segment assets (₹ lakhs) | 185,898 | 215,541 |
-| Segment liabilities (₹ lakhs) | 106,808 | 114,897 |
-| Capital employed (₹ lakhs) | 79,090 | 100,644 |
-| Return on capital employed (%) | 80.3 | 63.6 |
-| Segment assets / revenue (x) | 0.6 | 0.7 |
-| Capex (₹ lakhs) | 2,512 | 6,340 |
-
-*Sources:* Annual Report 2024 — page 318
-
-*Not in the pages read:* Segment PAT; FY2025/FY2026 figures (inside combined discontinued operations); quarterly figures.
-
-**Shirting – Shirting fabric (B2B) (High Value Cotton Shirting) → Raymond Lifestyle Limited** · unit ₹ lakhs · Operating profit = 'Segment Result' (EBIT-type). Revenue = External segment revenue (excludes inter-segment 13,859.68 lakhs FY2024 / 7,132.84 lakhs FY2023). Segment assets/liabilities, segment capex, segment depreciation as disclosed. No segment PAT. Demerged with the lifestyle business into Raymond Lifestyle Ltd (effective 30 June 2024).
-
-| | FY2023 | FY2024 |
-|---|---:|---:|
-| Revenue (₹ lakhs) | 69,066 | 69,139 |
-| Revenue growth (%) | — | +0.1% |
-| Operating profit (₹ lakhs) | 4,611 | 5,662 |
-| Operating profit growth (%) | — | +22.8% |
-| Operating margin (%) | 6.7 | 8.2 |
-| PAT (₹ lakhs) | — | — |
-| PAT growth (%) | — | — |
-| Segment assets (₹ lakhs) | 59,109 | 68,128 |
-| Segment liabilities (₹ lakhs) | 19,926 | 24,759 |
-| Capital employed (₹ lakhs) | 39,183 | 43,369 |
-| Return on capital employed (%) | 11.8 | 13.1 |
-| Segment assets / revenue (x) | 0.9 | 1.0 |
-| Capex (₹ lakhs) | 331 | 1,548 |
-
-*Sources:* Annual Report 2024 — page 318
-
-*Not in the pages read:* Segment PAT; FY2025/FY2026 figures; quarterly figures.
-
-**Apparel – Branded readymade garments (Branded Apparel) → Raymond Lifestyle Limited** · unit ₹ lakhs · Operating profit = 'Segment Result' (EBIT-type). Revenue = External segment revenue (no inter-segment revenue). Segment assets/liabilities, capex and depreciation as disclosed; FY2023 segment capex shown as '-'. No segment PAT. Demerged with the lifestyle business into Raymond Lifestyle Ltd (effective 30 June 2024).
-
-| | FY2023 | FY2024 |
-|---|---:|---:|
-| Revenue (₹ lakhs) | 132,759 | 158,700 |
-| Revenue growth (%) | — | +19.5% |
-| Operating profit (₹ lakhs) | 7,096 | 6,210 |
-| Operating profit growth (%) | — | -12.5% |
-| Operating margin (%) | 5.3 | 3.9 |
-| PAT (₹ lakhs) | — | — |
-| PAT growth (%) | — | — |
-| Segment assets (₹ lakhs) | 101,483 | 149,764 |
-| Segment liabilities (₹ lakhs) | 72,783 | 105,241 |
-| Capital employed (₹ lakhs) | 28,700 | 44,524 |
-| Return on capital employed (%) | 24.7 | 13.9 |
-| Segment assets / revenue (x) | 0.8 | 0.9 |
-| Capex (₹ lakhs) | — | 1,592 |
-
-*Sources:* Annual Report 2024 — page 318
-
-*Not in the pages read:* Segment PAT; FY2023 capex (shown as '-'); FY2025/FY2026 figures; quarterly figures.
-
-**Garmenting – Garment manufacturing → Raymond Lifestyle Limited** · unit ₹ lakhs · Operating profit = 'Segment Result' (EBIT-type). Revenue = External segment revenue (excludes inter-segment 4,772.80 lakhs FY2024 / 2,227.04 lakhs FY2023). Segment assets/liabilities, capex and depreciation as disclosed. No segment PAT. Demerged with the lifestyle business into Raymond Lifestyle Ltd (effective 30 June 2024).
-
-| | FY2023 | FY2024 |
-|---|---:|---:|
-| Revenue (₹ lakhs) | 107,806 | 109,089 |
-| Revenue growth (%) | — | +1.2% |
-| Operating profit (₹ lakhs) | 6,405 | 9,012 |
-| Operating profit growth (%) | — | +40.7% |
-| Operating margin (%) | 5.9 | 8.3 |
-| PAT (₹ lakhs) | — | — |
-| PAT growth (%) | — | — |
-| Segment assets (₹ lakhs) | 70,233 | 79,081 |
-| Segment liabilities (₹ lakhs) | 47,172 | 46,982 |
-| Capital employed (₹ lakhs) | 23,061 | 32,100 |
-| Return on capital employed (%) | 27.8 | 28.1 |
-| Segment assets / revenue (x) | 0.7 | 0.7 |
-| Capex (₹ lakhs) | 367 | 3,944 |
-
-*Sources:* Annual Report 2024 — page 318
-
-*Not in the pages read:* Segment PAT; FY2025/FY2026 figures; quarterly figures.
-
-*Businesses with no numbers in the pages read (3 annual report(s) and 11 presentation(s) on file):* No figures for Raymond Realty/Realty Pillar as a standalone entity, Remaining Undertaking, Invictus by GS, Address by GS, TenX, District Park Street — named only. No aggregate 'lifestyle business' or entity-level Raymond Lifestyle Ltd financials (only its four segments).
+*Businesses with no numbers in the pages read (3 annual report(s) and 11 presentation(s) on file):* No numbers for Invictus by GS, Address by GS, TenX / Ten X Realty, or District Park Street — named only as entities/projects. FY2025-26 lifestyle and realty figures exist only combined as discontinued operations (revenue ₹3,51,126 lakh FY2025, ₹13,754 lakh FY2026; PAT ₹7,58,360 lakh and ₹5,30,753 lakh).
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9acf1216-e428-42a8-8b82-1300b9e55a02.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/53769f36-ec75-47bf-a848-2d73dee7af38.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/f55fbedb-f4f8-4e03-9d35-e950d0c197b3.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc6e83c4-10d6-4b64-9ac8-5faed1fe8b3f.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=42e789a8-3301-4f5f-87b3-3f6b50ccf5cf.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2b554d3a-a655-4a68-a623-3fa709428df6.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8b229a86-8a7a-470c-831e-4ea940fb18b4.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe7ee2b7-128d-45a9-a578-b1d7d139f63b.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d157b7a-64b7-4ae4-b52c-351b318a5ce7.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (RAYMOND) | Raymond Realty Limited (RAYMONDREL) |
-|---|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* |
-| Sales (₹ cr) | — | 2,991 (Mar 2026) |
-| Sales growth (%) | — | 429.4 (Mar 2026) |
-| Operating margin (%) | — | 14.9 (Mar 2026) |
-| Operating profit growth (%) | — | 632.8 (Mar 2026) |
-| PAT margin (%) | — | 10.2 (Mar 2026) |
-| ROCE % | — | 30 (Mar 2024) |
-| Debtor Days | — | 28 (Mar 2024) |
-| Cash Conversion Cycle | — | 28 (Mar 2024) |
-| Working Capital Days | — | 225 (Mar 2024) |
-| Debt / equity (x) | — | 0.8 (Sep 2026) |
-| Borrowings (₹ cr) | — | 1,220 (Sep 2026) |
+| Metric (latest year) | Parent (RAYMOND) | Raymond Realty Limited (RAYMONDREL) | Raymond Lifestyle Limited (RAYMONDLSL) |
+|---|---:|---:|---:|
+| *Basis* | *reported, consolidated* | *its own reported statements* | *its own reported statements* |
+| Sales (₹ cr) | — | 2,991 (Mar 2026) | 6,888 (Mar 2026) |
+| Sales growth (%) | — | 429.4 (Mar 2026) | 11.5 (Mar 2026) |
+| Operating margin (%) | — | 14.9 (Mar 2026) | 9.8 (Mar 2026) |
+| Operating profit growth (%) | — | 632.8 (Mar 2026) | 40.1 (Mar 2026) |
+| PAT margin (%) | — | 10.2 (Mar 2026) | 0.7 (Mar 2026) |
+| ROCE % | — | 30 (Mar 2024) | 4 (Mar 2025) |
+| Debtor Days | — | 28 (Mar 2024) | 50 (Mar 2026) |
+| Inventory Days | — | — | 217 (Mar 2026) |
+| Days Payable | — | — | 165 (Mar 2026) |
+| Cash Conversion Cycle | — | 28 (Mar 2024) | 102 (Mar 2026) |
+| Working Capital Days | — | 225 (Mar 2024) | 17 (Mar 2026) |
+| Debt / equity (x) | — | 0.8 (Sep 2026) | 0.2 (Mar 2026) |
+| Borrowings (₹ cr) | — | 1,220 (Sep 2026) | 2,186 (Mar 2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -284,24 +309,22 @@ No stored cash-flow statement for this symbol.
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Precision technology and auto component (new segment from FY2026; JK Maini Precision Technology Ltd — erstwhile Tools & Hardware, Ring Plus Aqua and auto business of Maini Precision) | 166,658 | 8.7% | 13.9% | 0.88x | ₹ lakhs | FY2026 |
-| Aerospace and defence (new segment from FY2026; JK Maini Global Aerospace Ltd — aero business of erstwhile Maini Precision) | 39,238 | 12.4% | 6.5% | 2.21x | ₹ lakhs | FY2026 |
-| Tools and Hardware (erstwhile segment, replaced from FY2026 by Precision technology and auto component) | 42,600 | 2.7% | 13.3% | 0.47x | ₹ lakhs | FY2025 |
-| Auto components (erstwhile segment, replaced from FY2026 by Precision technology and auto component) | 42,649 | 16.0% | 38.0% | 0.64x | ₹ lakhs | FY2025 |
-| Precision (Maini Precision Products, acquired w.e.f. 28 March 2024; erstwhile segment, split in FY2026) | 97,134 | 4.5% | 2.7% | 1.91x | ₹ lakhs | FY2025 |
-| Others (job processing and non-scheduled airline operations) | 15,314 | -2.4% | -5.7% | 0.72x | ₹ lakhs | FY2026 |
+| Precision technology and auto component (JK Maini Precision Technology Ltd — erstwhile Tools & Hardware, Auto Components and Auto division of Maini Precision) | 166,693 | 8.7% | 13.9% | 0.88x | ₹ lakh | FY2026 |
+| Aerospace and defence (JK Maini Global Aerospace Ltd — Aero business of erstwhile Maini Precision) | 39,238 | 12.4% | 6.5% | 2.21x | ₹ lakh | FY2026 |
+| Others (Job processing and non-scheduled airline operations) | 15,314 | -2.4% | -5.7% | 0.72x | ₹ lakh | FY2026 |
+| Tools & Hardware (pre-restructuring segment, now part of Precision technology and auto component) | 42,613 | 2.7% | 13.3% | 0.47x | ₹ lakh | FY2025 |
+| Auto Components (pre-restructuring segment, now part of Precision technology and auto component) | 42,649 | 16.0% | 38.0% | 0.64x | ₹ lakh | FY2025 |
+| Precision (Maini Precision Products, w.e.f. 28 March 2024; later split into Precision technology/auto and Aerospace & defence) | 97,134 | 4.5% | 2.7% | 1.91x | ₹ lakh | FY2025 |
 
 **What the documents themselves say about the differences:**
 
-- **debt and leverage** — parent / remaining: Raymond Limited: Net Debt/EBITDA -0.34; Long Term Debt 443; Net Long Term Debt -707; Net LTD/FFO -2.86; avg. maturity of LTD 4.57 years; "Continue to be Net Debt free with a net cash surplus of ₹ 214 Cr" (Q3 FY26) and net cash surplus of ₹77 Cr as of September 2026; separated business: Raymond Realty Limited: Net Debt/EBITDA 1.70; Long Term Debt 768; Net Long Term Debt 460; Net LTD/FFO 1.44; avg. maturity of LTD 3.9 years; Net Debt ₹912 Cr, Debt/Equity 0.8x at H1 FY27 “Net Debt of ₹ 912 Cr, Debt to Equity ratio of 0.8x, well below the ceiling of 1.0x .”
-- **operating margin** — parent / remaining: Raymond Limited H1FY27 EBITDA ₹203 Cr, EBITDA % 15.5% (vs 14.9% in H1FY26, ~60 bps improvement); Q2FY27 EBITDA ₹103 Cr at 15.1% (vs 14.1%); separated business: Raymond Realty H1FY27 EBITDA ₹185 Cr, EBITDA margin 14% (vs 13% in H1FY26); Q2FY27 EBITDA ₹115 Cr at 15% (vs 14% in Q2FY26) “Reported an EBITDA at ₹ 185 Cr. In H1FY27 up 30% YoY,  Driven by an optimized product mix, EBIDTA margin of 14% in H1FY27 (13% margin in H1FY26)”
-- **growth** — parent / remaining: Raymond Limited H1FY27 Total Income ₹1,311 Cr, +17% YoY; Aerospace & Defence revenue ₹262 Cr, +56% YoY; Precision Tech & Auto Components ₹915 Cr, +13% YoY; PBT ₹84 Cr, +69% YoY; separated business: Raymond Realty H1FY27 Total Income ₹1,293 Cr, +18% YoY; Pre-Sales ₹1,602 Cr, +111% YoY; Collections ₹1,233 Cr, +57% YoY; PAT ₹66 Cr, (14%) YoY “Strong Booking Value Trajectory: H1 FY27 Booking Value up 111% to Rs1,602 Cr”
-- **cash** — parent / remaining: Raymond Limited: FFO (TTM) 247; Cash Balance 1151 (₹ Cr as of 30 September 2026); separated business: Raymond Realty Limited: FFO (TTM) 319; Cash Balance 308 (₹ Cr as of 30 September 2026) “Net cash surplus of Rs77 Cr as of September 2026, backing disciplined growth investments.”
-- **return on capital** — parent / remaining: not stated; separated business: Raymond Realty FY27 guidance: ROCE of ~20%, EBITDA margin of 17–19% and PAT margin of 9–10%, with ~20% pre-sales growth “FY27 guidance Update: Raymond Realty remains on track for ~20% growth  in pre-sales, ROCE of ~20%, EBITDA margin of 17 –19% and PAT margin of  9 –10%.”
-- **capex and capital intensity** — parent / remaining: not stated; separated business: Raymond Realty: 100 Acre Thane Land ~₹25,000 Cr revenue potential, ~65 acres under development, ~6.7 million sq. ft. RERA carpet area, ~₹16,500 Cr revenue potential, ~₹9,770 Cr sold and ~₹7,977 Cr collected; Asset Light JDA ~₹27,000 Cr revenue potential, 4 JDA projects launched, ~2.8 million sq. ft., ~₹11,500 Cr revenue potential, ~₹3,430 Cr sold and ~₹857 Cr collections; Q2 FY27 booking mix "Asset Light Mumbai JDAs -57%" and "Owned Thane Land Parcel -43%" “Development Velocity: 4 JDA projects launched, ~ 2.8 million sq. ft. of RERA carpet area and a revenue potential of ~ Rs11,500 Cr”
-- **tax** — parent / remaining: The Scheme is a demerger under Section 2(19AA) (not Section 2(1B)) of the Income-tax Act, 1961; "The Income Tax Department will be at liberty to examine the aspect of any tax payable as a result of this Scheme"; RL debited the fair value of the real estate business undertaking of ₹664,136 lakhs to retained earnings and recognised a standalone gain on demerger of ₹532,645 lakhs (₹535,592 lakhs consolidated) as an exceptional item; separated business: Taxes paid or payable by RL after the Appointed Date and specifically pertaining to the Real Estate Business Undertaking are treated as paid or payable by RRL, which may claim the credit, refund or adjustment “Taxes. if any, paid or payable by Demerged Company after Appointed Date and specifically pertaining to Real Estate Business Undertaking shall be treated as paid or payable by the Resulting Company and the Resulting Company shall be entitled to claim the credit, refund or adjustment for the same as may be applicable.”
-- **other** — parent / remaining: Credit ratings (CARE): JK Maini Precision Technology Ltd ₹800 cr A (+) and ₹150 cr A1 (+); JK Maini Global Aerospace Ltd ₹950 cr A and ₹80 cr A1 — "Engineering Pillar ... 100% rated "A Category" ₹1,980 cr"; separated business: Credit ratings (CARE): Raymond Realty Ltd ₹1000 cr A (+) Stable; Ten X Realty Ltd ₹730 cr A (+); Ten X Realty East Ltd ₹500 cr A (-); Ten X Realty West Ltd ₹1000 cr A (-) — "Realty Pillar ... 100% rated "A Category" ₹3,230 cr"; CARE reaffirmed CARE A+ with a Stable outlook in Q2 FY27 “Credit rating Update: CARE reaffirmed CARE A+ with a Stable outlook, citing consistent booking momentum, an improving launch pipeline and healthy execution on the existing portfolio. .”
-- **other** — parent / remaining: Raymond Ltd contributed 21% of Q2 FY27 portfolio EBITDA (₹103 Cr of ₹488 Cr) and 26% of Sep'26 YTD portfolio EBITDA (₹203 Cr of ₹792 Cr); Total Public Shareholders Count 2,50,426; separated business: Raymond Realty Limited contributed 24% of Q2 FY27 portfolio EBITDA (₹115 Cr) and 23% of Sep'26 YTD portfolio EBITDA (₹185 Cr); Total Public Shareholders Count 2,01,721 “Non -lifestyle verticals (Realty + Raymond Ltd.) now generate 49% of YTD EBITDA (388.16 of 792), signalling an increasingly balanced, multi - engine growth profile.”
+- **debt and leverage** — parent / remaining: Raymond Limited (engineering) is in net cash: net cash surplus of ₹77 Cr as of September 2026; Net Debt/EBITDA -0.34 and Net LTD/FFO -2.86 as at 30 September 2026; separated business: Raymond Realty carries net debt of ₹912 Cr with debt/equity 0.8x; Net Debt/EBITDA 1.70 and Net LTD/FFO 1.44 as at 30 September 2026 “Net Debt of ₹ 912 Cr, Debt to Equity ratio of 0.8x, well below the ceiling of 1.0x .”
+- **operating margin** — parent / remaining: Raymond Limited H1FY27 EBITDA ₹203 Cr on Total Income ₹1,311 Cr — EBITDA margin 15.5% (14.9% in H1FY26); PBT margin 6.4% vs 4.4%; separated business: Raymond Realty H1FY27 EBITDA ₹185 Cr on Total Income ₹1,293 Cr — EBITDA margin 14% (13% in H1FY26); PAT margin 5% vs 7% “Reported an EBITDA at ₹ 185 Cr. In H1FY27 up 30% YoY,  Driven by an optimized product mix, EBIDTA margin of 14% in H1FY27 (13% margin in H1FY26).”
+- **growth** — parent / remaining: Engineering Business revenue ₹1,593 Cr FY24 → ₹2,320 Cr FY25 → ₹2,991 Cr FY26 (CAGR 19%); H1FY27 Total Income +17% YoY, aerospace & defence +56% YoY to ₹262 Cr; separated business: Realty Business revenue ₹973 Cr FY24 → ₹1,947 Cr FY25 → ₹2,212 Cr FY26 (CAGR 67%); H1FY27 booking value up 111% to ₹1,602 Cr, Total Income +18% YoY “The real estate division reported an operating revenue of ₹2,313 crore and profit before interest, lease rentals, depreciation and taxation (PBILDT) of ₹507 crore in FY25 .”
+- **return on capital** — parent / remaining: not stated; separated business: Raymond Realty guides to ROCE of ~20% in FY27 along with ~20% pre-sales growth, 17–19% EBITDA margin and 9–10% PAT margin “FY27 guidance Update: Raymond Realty remains on track for ~20% growth  in pre -sales, ROCE of ~20%, EBITDA margin of 17 –19% and PAT margin of  9 –10%.”
+- **capex and capital intensity** — parent / remaining: Raymond Limited is a precision engineering manufacturer scaling aerospace, defence and EV engineering through MPPL; separated business: Raymond Realty runs an asset-light model — in Q2 FY27 asset-light Mumbai JDAs contributed 57% of booking value versus 43% from the owned Thane land parcel; asset-light JDA revenue potential ~₹27,000 Cr against ~₹25,000 Cr for the 100-acre Thane land “Made in India, Made for the world: Scaling aerospace, defense, and EV engineering via MPPL, alongside asset -light sustainable realty.”
+- **cash** — parent / remaining: Raymond Limited cash balance ₹1,151 Cr, long-term debt ₹443 Cr, net long-term debt -₹707 Cr, FFO (TTM) ₹247 Cr as at 30 September 2026; separated business: Raymond Realty Limited cash balance ₹308 Cr, long-term debt ₹768 Cr, net long-term debt ₹460 Cr, FFO (TTM) ₹319 Cr as at 30 September 2026 “Raymond Realty Limited 1.70 319 308 768 460 1.44 3.9”
+- **other** — parent / remaining: Pre-Scheme net worth of Raymond Limited INR 2,926.30 crores, falling to INR 1,934.13 crores post-Scheme (as on 31 March 2024); cost of acquisition apportioned 60.92% to Raymond Limited; separated business: Raymond Realty Limited net worth rises from INR (1.13) crores pre-Scheme to INR 991.04 crores post-Scheme (as on 31 March 2024); cost of acquisition apportioned 39.08% to Raymond Realty Limited “1. First Applicant Company 2,926.30 1,934.13 2. Second Applicant Company (1.13) 991.04”
 
 **The checklist:**
 

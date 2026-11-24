@@ -8,9 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Indian Gas Exchange Limited** | India's only natural gas exchange, an associate company of IEX established in 2020; spot and R-LNG gas tradin… | to be listed | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Indian Gas Exchange Limited** | 2026 IPO of Indian Gas Exchange Limited (offer for sale by … | India's only natural gas exchange; spot and forward trading of domestic gas and R-LNG across 23 delivery poin… | to be listed | not stated |
 
 **What is being separated, as the documents put it:** Indian Gas Exchange (IGX), IEX's 47.3%-held natural gas spot exchange associate, partly sold via IPO — class `regulatory_strategic`.
 
@@ -20,10 +20,10 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2025-12-03 | Other — Indian Gas Exchange Limited | as stated: "In furtherance of our intimation dated December 03, 2025" — IEX Regu… |
-| 2026-07-14 | DRHP filed — Indian Gas Exchange Limited | as stated: IEX Regulation 30 intimation dated July 15, 2026: "has filed a draft … |
-| 2026-07-15 | Filed with exchanges — Indian Energy Exchange Limited (intimation to BSE and NSE on IGX DRHP filing) | as stated: IEX intimation under Regulation 30 to BSE and NSE, dated July 15, 2026 |
-| 2026-12-31 | Other — Indian Energy Exchange Limited (PNGRB-extended deadline to bring IGX holding down to 25%) | as stated: Q4 FY26 earnings call, April 24, 2026: "PNGRB has given us time up to… |
+| 2025-12-03 | Other — Indian Gas Exchange Limited | as stated: Intimation under Regulation 30, IEX filing dated July 15, 2026 ("In f… |
+| 2026-07-14 | DRHP filed — Indian Gas Exchange Limited | as stated: IEX intimation to BSE and NSE dated July 15, 2026 (DRHP dated July 14… |
+| 2026-07-15 | Filed with exchanges — Indian Gas Exchange Limited | as stated: IEX Regulation 30 intimation to BSE (Scrip Code 540750) and NSE (Symb… |
+| 2026-12-31 | Other — Indian Gas Exchange Limited | as stated: Q4 FY26 earnings call, April 24, 2026 — PNGRB extended deadline for I… |
 
 **The partial spin-off:** **Indian Gas Exchange Limited** (associate); parent's stake 47.3% → 25%; IPO stage: DRHP filed; exchange: BSE Limited; timeline: At the IEX Analyst Meet held July 24, 2026 the CFO said "the good part is that they filed the DRHP in this month and hopefully (would be) getting listed soon"; .
 
@@ -37,11 +37,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Indian Gas Exchange Limited | not stated | — | — | — | — | not listed |
+| Indian Gas Exchange Limited | not stated (profit after tax of INR 41.9 crores for FY'26 a… | — | — | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹10,378 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “IEX standalone was around 474 crores, IGX 42 crores and ICX though it's a small beginning, but we hope it will also have the big opportunity in the future.”
+**In the documents' words:** “We achieved Rs.493 crore of consolidated profit during the previous year, which is 17.2% CAGR. IEX standalone was around 474 crores, IGX 42 crores and ICX though it's a small beginning, but we hope it will also have the big opportunity in the future.”
 
 **The judge's read of selling pressure:** unlikely — Listing is an IPO offer for sale by IEX, not a distribution of IGX shares to IEX shareholders; buyers self-select.
 
@@ -49,7 +49,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Indian Gas Exchange Limited:** "The Offer comprises of an offer for sale of up to 16,710,000 equity shares by IEX, and remains subject to receipt of applicable approvals, market conditions, and other relevant considerations."
+- **Indian Gas Exchange Limited:** "The Offer comprises of an offer for sale of up to 16,710,000 equity shares by IEX, and remains subject to receipt of applicable approvals, market conditions, and other relevant considerations." No fresh issue is stated; offer size in rupees not stated. On the July 2026 call: "to sell this 22.3% equity, we have offered that in the IPO."
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -60,10 +60,10 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "As you may be aware that we have already filed a DRHP (Draft Red Herring Prospectus) for IPO of IGX as we today hold 47.3% in IGX. As per PNGRB (Petroleum and Natural Gas Board) regulations, we have to bring this down to 25% within 5 years. In fact, this 5-year period was over in the month of December 2025. So, we took an extension of one year from the PNGRB. And therefore, to sell this 22.3% equity, we have offered that in the IPO."
-- **What a public shareholder receives:** Nothing is offered to IEX public shareholders: "Your point regarding IGX, I don't think it is really possible to have that kind of reservation for the IEX shareholders in the IGX IPO. The IGX IPO is an independent IPO" (Analyst Meet, July 24, 2026, in response to a request that "IEX shareholders can be given a proportionate... reservation for applying for IGX shares while the listing happens").
+- **What the promoters will hold in the separated entity:** For the 2026 IGX IPO, the documents give the parent's (IEX's) holding, not a promoter holding: "As you may be aware that we have already filed a DRHP (Draft Red Herring Prospectus) for IPO of IGX as we today hold 47.3% in IGX. As per PNGRB (Petroleum and Natural Gas Board) regulati ons, we have to bring this down to 25% within 5 years." Earlier calls state 47.5%: "as per the regulations, our holding in the gas exchange is 47.5% and w e have to bring it out to 25% as per regulations." Shareholding norms for the proposed coal exchange: "Nobody can hold more than 25 percent, and no trading member can hold more than 5% ." No promoter-group percentage is stated.
+- **What a public shareholder receives:** Nothing is distributed to IEX shareholders; the IGX listing is an offer for sale by IEX, and a shareholder reservation was expressly ruled out: "Your point regarding IGX, I don't think it is really possible to have that kind of reservation for the IEX shareholders in the IGX IPO. The IGX IPO is an independent IPO"
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** The parent itself is the selling shareholder: "The Offer comprises of an offer for sale of up to 16,710,000 equity shares by IEX" (filing dated July 15, 2026), being IEX's sale of "this 22.3% equity" to bring its 47.3% holding in IGX down to the 25% PNGRB limit. No promoter or management buying, selling or pledging around the separation is stated. On IEX's own shares, management stated on buyback: "but buyback, yes definitely, we will consider it in future because now SEBI also has revised its rules for doing the buyback through the market" (Analyst Meet, July 24, 2026) and "We are definitely considering it... the management is observing all the development and will take a due call considering the benefit of the stakeholders" (Q4 FY26 call, April 24, 2026).
+- **Insider actions around the separation:** IEX itself is the selling shareholder in the IGX IPO: "The Offer comprises of an offer for sale of up to 16,710,000 equity shares by IEX". On a buyback of IEX shares: "but buyback , yes definitely , we will consider it in future because now SEBI also has revised its rules for doing the buyback through the market . So, we will consider that part of it." and "So again, buyback has become one of the good options for distributing money to the shareholders. We are definitely considering it... So the management is observing all the development and will take a due call considering the benefit of the stakeholders." No promoter or management buying, selling or pledging of IEX shares is stated.
 - **Insiders, per the checklist read:** IEX holds 47.3% of IGX and offers for sale up to 16,710,000 shares (22.3%), retaining 25%; management refused any IEX-shareholder reservation, calling it an independent IPO. Other incentives not stated. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -192,12 +192,13 @@ Only the parent's figures are on file: Sales (₹ cr) 616 (Mar 2026); Sales grow
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: FY26 electricity trade of 141 billion units, up 17%; consolidated revenue Rs.747 crore, up 13.6%; PAT Rs.492 crore, up about 15%. Q1 FY27 volume 37.5 billion units, up 16%.; separated business: FY26 gas volume 76.8 million MMBtu with profit of Rs.42 crore, growth of 28% year-on-year; Q1 FY27 trade of 27.5 million MMBtu with profit of Rs.16 crore. “In this last year, they did a volume of almost about 76.8 million MMBtu of gas with a profit of 42 crore rupees and with a growth of 28% on a year-on-year basis. In this quarter also, they have achieved a trade of 27.5 million MMBtu of gas with profit of 16 crore rupees.”
-- **other** — parent / remaining: IEX standalone profit of around Rs.474 crore in FY26 out of Rs.493 crore consolidated profit.; separated business: IGX contributed Rs.42 crore of profit. “We achieved Rs.493 crore of consolidated profit during the previous year, which is 17.2% CAGR. IEX standalone was around 474 crores, IGX 42 crores and ICX though it's a small beginning, but we hope it will also have the big opportunity in the future.”
-- **growth** — parent / remaining: Mature business guided at 15% to 20% volume growth, being 17.5 years old.; separated business: Nascent-stage gas exchange guided at 25% to 30% volume growth over the next four to five years. “See, in case of power exchange IEX, it is operating from the last 17 and a half years. So, it has attained that kind of a maturity. So, growth is going to be in the range of 15% to 20%, which we have been achieving over the years. But in case of gas exchange, it's at the nascent stage. And this year, in the first nine months, the volume increase is almost about 47%, 48%... we expect that the gas volumes will definitely continue to grow at a rate of maybe 25%, 30% over the next 4, 5 years.”
-- **other** — parent / remaining: IEX traded 141 billion units in FY26, a little over 8% of India's total electricity consumption, with 80-85% market share and 9,000-plus participants.; separated business: IGX represents close to 3% of India's overall gas consumption and 20% of the gas spot market, with 50-plus members and 200 registered clients. “The exchange currently represents close to 3% of India's overall gas consumption and 20% of the spot market.”
-- **return on capital** — parent / remaining: Net worth around Rs.1,400 crores, FY26 EPS Rs.5.33, ROE maintained at 42% to 44% over the last four to five years, dividend payout more than 50%, 65%; total cash around Rs.1,500 crores as on 31 December 2025, of which shareholder funds around Rs.1,200 crores.; separated business: not stated “So, the overall value proposition, the net worth of the company is around Rs.1,400 crores and the EPS for the last year was 5.33 rupees, and ROE we are maintaining around 42% to 44% ROE continuously over the last 4-5 years.”
-- **other** — parent / remaining: Core electricity business is 80-90% of revenue; key risk discussed is CERC market coupling of the Day-Ahead Market, with IEX before the Supreme Court.; separated business: IGX volumes exposed to Middle East supply disruption and gas prices; Q1 FY27 growth expected to be nil versus prior-year Q1. “Going forward, till geopolitical challenges in the Middle East ease, volumes could remain impacted, though some of it may be offset domestically.”
+- **growth** — parent / remaining: FY'26 electricity trade of 141 billion units, up 17%; consolidated revenue up 13.6% to Rs.747 crore; PAT Rs.492 crore, up about 15%; Q1 FY'27 volume 37.5 billion units, up 16%; separated business: IGX FY'26 volume 76.8 million MMBtu with profit of Rs.42 crore, growth 28% year-on-year; Q1 FY'27 trade of 27.5 million MMBtu with profit of Rs.16 crore “In this last year, they did a volume of almost about 76.8 million MMBtu of gas with a profit of 42 crore rupees and with a growth of 28% on a year -on-year basis.”
+- **other** — parent / remaining: IEX standalone profit around Rs.474 crore in FY'26 within consolidated PAT of Rs.493 crore; separated business: IGX full-year FY'26 PAT of INR 41.9 crores, up 35% over INR 30.9 crores; Q4 FY'26 PAT INR 9.4 crores “And for the full year, IGX rec orded a profit after tax of INR 41.9 crores, which is higher by 35% compared with INR 30.9 crores in the same period last year.”
+- **other** — parent / remaining: IEX traded 141 billion units in FY'26, "a little over 8% of the (country's) total consumption", with 80-85% market share of power exchanges (83-84% electricity market share); separated business: IGX accounts for close to 3% of India's overall gas consumption and 20% of the gas spot market “IGX currently represent close to 3% of India's overall gas consumption and 20% of the spot market.”
+- **return on capital** — parent / remaining: ROE maintained at around 42% to 44% over the last 4-5 years; EPS Rs. 5.33 for FY'26; dividend payout of more than 50%, 65%; separated business: not stated “and ROE we are maintaining around 42 % to 44% ROE continuously over the last 4 -5 years.”
+- **cash** — parent / remaining: Total cash of around INR1,500 crores as on 31 December 2025, of which shareholder funds around INR1,200 crores; settlement payable about Rs. 500 crores as on 30 September 2025; separated business: not stated “We have a total cash of around INR1,500 crores as on 31st of December. And out of that, the shareholder fund is around INR1,200 crores.”
+- **capex and capital intensity** — parent / remaining: IEX described as an asset-light, high-margin platform business with strong cash flows funding diversification; no additional cost expected for market-coupling software ("No additional costs."); separated business: not stated “This (IEX) is an asset light high -margin platform business .”
+- **operating margin** — parent / remaining: Electricity transaction fee around four paise per unit; REC transaction fee reduced from Rs. 40 to Rs. 20; in the Term Ahead Market, where all three exchanges compete, margins stated to be intact; separated business: not stated “Against INR 0.04 (four paise) , I think the margin is around (3.6 or 3.7 paisa) INR 0.036, INR 0.037. That's the kind of number. So we don't expect significant impact on the margin part of it, the transaction fees part.”
 
 **The checklist:**
 

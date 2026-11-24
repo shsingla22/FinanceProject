@@ -8,9 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **SBI Funds Management Limited** | Not described in the filings beyond "a subsidiary company of State Bank of India"; the calls call it SBI Mutu… | listed 2026-07-21 as SBIFUNDS (NSE) | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **SBI Funds Management Limited** | 2026 IPO (pure offer for sale) of SBI Funds Management Limi… | Asset management — SBI's mutual fund business; described in the calls as "the largest AMC in the country". No… | listed 2026-07-21 as SBIFUNDS (NSE) | not stated |
 
 **What is being separated, as the documents put it:** SBI Funds Management Limited, the bank's asset management (mutual fund) subsidiary, partially listed via offer for sale — class `value_unlocking`.
 
@@ -20,16 +20,16 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2025-11-06 | Other — SBI Funds Management Limited | as stated: Initial intimation of sale of stake in SBIFM, letter no. CC/S&B/AND/2… |
-| 2026-03-19 | DRHP filed — SBI Funds Management Limited | as stated: Filing dated 2026-03-19 (letter CC/S&B/AND/2025-26/920) — DRHP dated … |
-| 2026-07-08 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-08 (letter CC/S&B/AND/2026-27/280) — red herring… |
+| 2025-11-06 | Other — SBI Funds Management Limited | as stated: Letter no. CC/S&B/AND/2025-26/584 dated November 6, 2025 regarding sa… |
+| 2026-03-19 | DRHP filed — SBI Funds Management Limited | as stated: Filing dated 2026-03-19, letter CC/S&B/AND/2025-26/920 — draft red he… |
+| 2026-07-08 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-08, letter CC/S&B/AND/2026-27/280 — red herring … |
 | 2026-07-09 | Other — State Bank of India / SBI Funds Management Limited | as stated: Filing dated 2026-07-09 — share purchase agreements each dated July 9… |
-| 2026-07-10 | Other — State Bank of India / SBI Funds Management Limited | as stated: Filing dated 2026-07-10 (letter CC/S&B/AND/2026-27/288) — transfer of… |
-| 2026-07-11 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-11 (letter CC/S&B/AND/2026-27/289) — intimation … |
-| 2026-07-13 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-08 — "Anchor Investors shall Bid one Working Day… |
-| 2026-07-14 | IPO opened — SBI Funds Management Limited | as stated: Filing dated 2026-07-08 — "IPO will be open for subscription by the p… |
-| 2026-07-16 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-08 — Bid/Offer closes Thursday, July 16, 2026 (Q… |
-| 2026-07-18 | Allotment — SBI Funds Management Limited | as stated: Annexure to filing dated 2026-07-11 — "Allotment is expected to take … |
+| 2026-07-10 | Other — State Bank of India / SBI Funds Management Limited | as stated: Filing dated 2026-07-10, letter CC/S&B/AND/2026-27/288 — transfer of … |
+| 2026-07-10 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-11, letter CC/S&B/AND/2026-27/289 — addendum dat… |
+| 2026-07-13 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-08, letter CC/S&B/AND/2026-27/280 — "Anchor Inve… |
+| 2026-07-14 | IPO opened — SBI Funds Management Limited | as stated: Filing dated 2026-07-08, letter CC/S&B/AND/2026-27/280 — "IPO will be… |
+| 2026-07-16 | Other — SBI Funds Management Limited | as stated: Filing dated 2026-07-08, letter CC/S&B/AND/2026-27/280 as corrected b… |
+| 2026-07-18 | Allotment — SBI Funds Management Limited | as stated: Filing dated 2026-07-11 (SEBI Master Circular annexure) — "Allotment … |
 | 2026-07-21 | **SBI Funds Management Limited** listed (SBIFUNDS) | NSE equity list |
 
 **The partial spin-off:** **SBI Funds Management Limited** (subsidiary); IPO stage: listed; NSE symbol SBIFUNDS; timeline: Allotment is expected to take place on or about July 18, 2026 (per the annexure to the letter dated July 11, 2026); the IPO was open for subscription by the pub.
@@ -46,7 +46,7 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| SBI Funds Management Limited | Total income: Rs. 4,969.09 crores (Fiscal 2026) | 0.7% | — | 105,029 | 9.5% | no |
+| SBI Funds Management Limited | "Total income: Rs. 4,969.09 crores" for Fiscal 2026 | 0.7% | — | 105,029 | 9.5% | no |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹996,923 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
@@ -58,7 +58,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **SBI Funds Management Limited:** IPO is purely an offer for sale, no fresh issue: "In terms of the RHP read with the Addendum, the IPO is an offer for sale of up to 170,956,631 equity shares of face value of Rs. 1 (one) each, representing up to 8.3933% of the paid-up equity share capital of SBIFM" — comprising up to 99,501,649 Equity Shares (4.8851%) by State Bank of India and up to 71,454,982 Equity Shares (3.5082%) by Amundi India Holding; Offer Price Rs. 574.00 per Equity Share (price band Rs. 545 to Rs. 574, employee discount Rs. 54 per Equity Share, minimum bid lot 26 Equity Shares). Originally filed (DRHP/RHP) as up to 203,709,239 Equity Shares, up to 10.0013% of paid-up equity share capital (128,334,397 / 6.3007% by SBI; 75,374,842 / 3.7006% by Amundi India Holding).
+- **SBI Funds Management Limited:** "the IPO is an offer for sale of up to 170,956,631 equity shares of face value of Rs. 1 (one) each, representing up to 8.3933% of the paid-up equity share capital of SBIFM" — comprising up to 99,501,649 Equity Shares (4.8851%) by State Bank of India and up to 71,454,982 Equity Shares (3.5082%) by Amundi India Holding; no fresh issue. Price band Rs. 545 to Rs. 574 per Equity Share, Offer Price fixed at Rs. 574.00; minimum bid lot 26 Equity Shares; employee discount Rs. 54 per Equity Share
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -72,8 +72,8 @@
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
 - **What the promoters will hold in the separated entity:** not stated in the documents on file.
 - **What a public shareholder receives:** not stated in the documents on file.
-- **Management incentives:** ESOPs of the subsidiary are referred to only as a reason for the change in share count: "In light of increase in the equity share capital of SBIFML due to issuance of bonus shares and exercise of ESOPs by eligible employees, the number of Equity Shares being offered for sale by State Bank of India has been revised from up to 3,20,60,000 Equity Shares (amounting to 6.3007% of the paid-up equity share capital of SBIFML as on November 6, 2025) to up to 12,83,34,397 Equity Shares (amounting to 6.3007% of the paid-up equity share capital of SBIFML as on date)." Employee pricing: "An employee discount of Rs. 54.00 per Equity Share was offered to Eligible Employees in accordance with the terms and conditions stipulated in the RHP read with the Addendum." No new plan in the listed entity and no management or insider shareholding is stated.
-- **Insider actions around the separation:** Pre-IPO Transaction by the promoter: "State Bank of India has entered into share purchase agreements each dated July 9, 2026 to sell, in aggregate, 2,88,32,748 equity shares of SBIFM of face value Rs. 1 (one) each ("Equity Shares"), being equivalent to 1.4156% of pre-Offer share capital of SBIFM, to a total of 30 (thirty) investors at Rs. 574.00 per Equity Share, for an aggregate consideration of Rs. 1,655.00 crores"; "the transfer of Equity Shares pursuant to the Pre-IPO Transaction has been completed today, i.e. July 10, 2026." SBI then cut its own offer for sale: "The size of the offer for sale by the State Bank of India in the IPO has been revised from up to 128,334,397 Equity Shares (amounting to 6.3007% of the paid-up equity share capital of SBIFM) to up to 99,501,649 Equity Shares (amounting to 4.8851% of the paid-up equity share capital of SBIFM)." Stated intent on the calls: "we have embarked on listing SBI AMC and hopefully in this financial year we will be able to complete, which will result in capital augmentation, CET-1" (May 2026); "Mutual fund, we are not fully exiting. So, we still have potential to monetize further when market improves" (Feb 2026); "we are serious about listing them and respective boards will take a call in terms of the timing, quantum" (Nov 2025).
+- **Management incentives:** "In light of increase in the equity share capital of SBIFML due to issuance of bonus shares and exercise of ESOPs by eligible employees, the number of Equity Shares being offered for sale by State Bank of India has been revised from up to 3,20,60,000 Equity Shares (amounting to 6.3007% of the paid-up equity share capital of SBIFML as on November 6, 2025) to up to 12,83,34,397 Equity Shares (amounting to 6.3007% of the paid-up equity share capital of SBIFML as on date)." And: "An employee discount of Rs. 54.00 per Equity Share was offered to Eligible Employees in accordance with the terms and conditions stipulated in the RHP read with the Addendum." No new option/RSU/SAR plan in the listed entity, no exercise price or pricing date, and no management or insider shareholding is stated.
+- **Insider actions around the separation:** Pre-IPO Transaction by the promoter-seller: "State Bank of India had entered into share purchase agreements each dated July 9, 2026 to sell, in aggregate, 2,88,32,748 equity shares of SBIFM of face value Rs. 1 (one) each, being equivalent to 1.4156% of pre-Offer share capital of SBIFM, to a total of 30 (thirty) investors at Rs. 574.00 per Equity Share, for an aggregate consideration of Rs. 1,655.00 crores"; "the transfer of Equity Shares pursuant to the Pre-IPO Transaction has been completed today, i.e. July 10, 2026." Consequent reduction of SBI's own sale: "The size of the offer for sale by the State Bank of India in the IPO has been revised from up to 128,334,397 Equity Shares (amounting to 6.3007% of the paid-up equity share capital of SBIFM) to up to 99,501,649 Equity Shares (amounting to 4.8851% of the paid-up equity share capital of SBIFM)." Separately, on the Q4FY26 call regarding NSE: "Within the group we have around 7.3% holding. But Bank itself would be keen on participating in the OFS. We have given our in-principal consent to them." No pledging disclosed.
 - **Insiders, per the checklist read:** SBI sells only up to 4.8851% (cut from 6.3007%) and retains the rest — "we are not fully exiting... still have potential to monetize further"; employees got Rs.54/share discount and ESOPs · *option pricing date:* Price band fixed July 8, 2026 at Rs.545 to Rs.574; Offer Price decided at Rs.574.00 per Equity Share on July 16, 2026
 
 ### 5. Why the demerger — point by point
@@ -220,25 +220,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/SBIFUNDS.csv (consolidated, screener.in); growth and margins computed here.*
 
-**SBI Funds Management / SBIFML (SBI Mutual Fund) — unlisted subsidiary until its July 2026 IPO, listed subsidiary thereafter (SBI stake 61.86% pre-IPO, 55.56% after divesting 6.3007%) → SBI Funds Management Limited** · unit ₹ crore · Only PAT is disclosed, 'as per Ind AS, without OCI', as published by the subsidiary; ROE 33.6% FY25, 43.0% FY26 (recomputed on average networth). No revenue or profit-before-tax/EBIT line, so no segment result is available. Quarterly Average AUM given separately: ₹12.48 lakh crore as on Mar 2026 (15.31% market share), ₹13.1 trillion as on Sep 2026.
-
-| | FY2025 | FY2026 |
-|---|---:|---:|
-| Revenue (₹ crore) | — | — |
-| Revenue growth (%) | — | — |
-| Operating profit (₹ crore) | — | — |
-| Operating profit growth (%) | — | — |
-| Operating margin (%) | — | — |
-| PAT (₹ crore) | 2,531 | 3,051 |
-| PAT growth (%) | — | +20.5% |
-
-*Sources:* Presentation May 2026 — page 53
-
-*Latest quarter (H1FY27 (half-year; PAT ₹1,566 crore, RoE 46.81%; Q1FY27 PAT ₹873 crore, RoE 55.06%)):* revenue None, operating profit None — Presentation Nov 2026 — pages 41 and 43; Presentation Aug 2026 — pages 41 and 43
-
-*Not in the pages read:* Revenue, operating profit, assets, liabilities, capex, depreciation — none carried. No FY2024 figure. H1FY27/Q1FY27 are half-year/quarter PAT only, not annual.
-
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* All named aliases (SBIFM, SBIFML, SBI Mutual Fund, SBI AMC, SBI Funds Management) are one business — SBI Funds Management Ltd. 'Not described in' is not an entity and carries no numbers.
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* SBI Funds Management Ltd. / SBIFM / SBI AMC: pages carry no own financials — it is never a reported segment (sits inside consolidated "Other Banking Operations"). Only parent-level item: ₹7,288 cr one-time stake-sale profit, Q2FY27 (Presentation Nov 2026 — page 20).
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/faa17496-838f-432d-a39f-32d82156799c.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9c6a98f8-f882-4c06-9cb1-7f3b6ae1159f.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e236470-9427-43c7-93e9-c8eb61bb1f72.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=211c37d3-4d09-4ba6-a104-b5715dc05ff7.pdf); [Presentation Aug 2026](https://sbi.bank.in/documents/17836/1275616/07082026_SBI+Analyst+Presentation+Q1FY27.pdf/6e4ca530-1666-574e-22fb-f9e19d553ef5?t=1786091443352); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=460a676a-2477-47a3-bdcf-ffce1a78b8e7.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1F09E6FA-D0C5-4430-BBC1-E445609981AF-135436.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3beaba3f-f163-4d3f-b053-70228d39a157.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f03f41a-c730-4b26-927e-562b52b62c70.pdf)
 
@@ -266,20 +248,18 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Treasury | 135,516 | 15.0% | 9.4% | 15.07x | ₹ crore | FY2026 |
-| Corporate / Wholesale Banking | 149,102 | 21.0% | 12.9% | 15.19x | ₹ crore | FY2026 |
-| Retail Banking (Total, incl. Digital Banking sub-segment) | 264,606 | 22.4% | 25.2% | 12.26x | ₹ crore | FY2026 |
-| Digital Banking (sub-segment of Retail Banking, per RBI circular DOR.AUT.REC.12/22.01.001/2022-23) | 4,125 | 442.4% | — | 7.71x | ₹ crore | FY2026 |
+| Treasury | 130,119 | 11.1% | 5.7% | 15.75x | ₹ crore | FY2026 |
+| Corporate / Wholesale Banking | 153,355 | 21.6% | 13.9% | 14.98x | ₹ crore | FY2026 |
+| Retail Banking (total, incl. Digital Banking sub-segment) | 265,844 | 22.5% | 27.5% | 12.24x | ₹ crore | FY2026 |
 | Insurance Business (SBI Life Insurance Co. Ltd. and SBI General Insurance Co. Ltd.) | 133,260 | 2.5% | 14.2% | 3.95x | ₹ crore | FY2026 |
-| Other Banking Operations (consolidated — all non-banking subsidiaries/JVs other than SBI Life and SBI General; includes SBI Funds Management Ltd. while consolidated) | 34,822 | 28.8% | 28.9% | 3.46x | ₹ crore | FY2026 |
+| Other Banking Operations / Other Banking Business (all non-banking subsidiaries and JVs other than SBI Life and SBI General — includes SBI Funds Management Ltd.) | 34,822 | 28.8% | 28.9% | 3.46x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **other** — parent / remaining: The listing is presented as a source of capital augmentation and CET-1 for the bank, alongside the mark-to-market of strategic investments; SBI's CAR was 15.4% and it says it can fund almost Rs 12 trillion of credit growth even without it.; separated business: SBIFM is being listed through an offer for sale only — no fresh issue — and management says the subsidiaries do not need capital. “We are also seriously, as you are aware, we have embarked on listing SBI AMC and hopefully in this financial year we will be able to complete, which will result in capital augmentation, CET-1.”
-- **cash** — parent / remaining: The bank received a special dividend from the mutual fund business, called out as a one-off in Q3FY26 miscellaneous income (Rs 2,200 crores of the roughly Rs 5,000 crores line).; separated business: SBIFM paid the special dividend up to the parent; Reserves and Surplus of Rs 3,533.09 crores for Fiscal 2026. “If I have to talk about one-off, I think the one item which is a special dividend we have received, around Rs. 2,200 crores from SBI Mutual Fund.”
-- **growth** — parent / remaining: Bank credit growth guidance of 13-15% for FY27, with domestic NIM above 3% and ROA above 1% through the cycles.; separated business: The mutual fund industry is discussed as potentially doubling in five years, with SBI Mutual Fund described as having a very large role. “Yesterday, the global head of BlackRock was here, we are talking about multiplying the mutual fund industry by two in five years.”
-- **other** — parent / remaining: SBI reports total business crossing Rs 109 trillion, a balance sheet of nearly Rs 76 trillion, deposits of more than Rs 59 trillion and advances of more than Rs 49 trillion in FY26.; separated business: SBIFM is described as the largest AMC in the country and a candidate for listing and value unlocking. “AMC, as you mentioned, is the largest AMC in the country.”
-- **capex and capital intensity** — parent / remaining: The parent raised Rs 25,000 crores by QIP in Q2FY26 and says it has adequate capital and liquidity buffers.; separated business: Neither SBI AMC nor SBI General was said to need capital at the time, so the listing is about value unlocking and recognition rather than fund-raising. “I think we need to just look at, see, one is, as I mentioned earlier also, that these two companies do not require capital at this juncture.”
+- **other** — parent / remaining: Listing SBI AMC is presented as capital augmentation / CET-1 accretion for the bank, alongside the mark-to-market unlocking if NSE lists; the bank says it can already fund about Rs 12 trillion of credit growth with current capital.; separated business: SBI Funds Management is the vehicle for that unlocking; only a minority stake is sold and SBI is "not fully exiting". “We are also seriously, as you are aware, we have embarked on listing SBI AMC and hopefully in this financial year we will be able to complete, which will result in capital augmentation, CET -1.”
+- **growth** — parent / remaining: Bank guidance of 13-15% credit growth for FY27, domestic NIM above 3%, ROA above 1% through the cycles and minimum 15% ROE through cycles (ROE 18.5% at end-Q4FY26, 20.68% at end-Q3FY26).; separated business: The mutual fund business is described as having a large growth runway, with talk of the industry doubling in five years and SBI Mutual Fund as the largest AMC in the country. “I see a great opportunity for mutual fund growth and SBI mutual fund will be playing a very, very large role in this.”
+- **other** — parent / remaining: The AMC contributes to the parent through dividends and trail/cross-sell income: a one-off special dividend of about Rs. 2,200 crores from SBI Mutual Fund was a major element of Q3FY26 miscellaneous income (of about Rs. 5,000 crores).; separated business: SBIFM's own Fiscal 2026 total income was Rs. 4,969.09 crores, 0.70% of SBI Group total income; reserves and surplus Rs. 3,533.09 crores, 0.59% of the group's. “If I have to talk about one -off, I think the one item which is a special dividend we have received, around Rs. 2,200 crores from SBI Mutual Fund.”
+- **capex and capital intensity** — parent / remaining: The parent raised Rs 25,000 crores of equity by QIP in Q2FY26 (largest ever in India, oversubscribed 4.5 times) and says neither it nor the listing candidates need capital at this juncture; the listings are for value unlocking and recognition, not funding.; separated business: "these two companies do not require capital at this juncture" — i.e. the AMC (and SBI General) are not being listed to raise money for themselves; the 2026 IPO is a pure offer for sale with no fresh issue. “I think we need to just look at, see, one is, as I mentioned earlier also, that these two companies do not require capital at this juncture.”
 
 **The checklist:**
 

@@ -8,9 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **NLC India Renewables Limited** | Renewable energy: 7 Renewable Energy Assets with total capacity of 1,430 MW hived off from NLC India Limited,… | to be listed | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **NLC India Renewables Limited** | 2025 Business Transfer Agreement hive-off of 1,430 MW renew… | 7 renewable energy assets totalling 1,430 MW hived off from NLCIL under the Asset Monetization Plan; Phase II… | to be listed | not stated |
 
 **What is being separated, as the documents put it:** NLC India Renewables Limited (NIRL) — the group's renewable energy assets, being IPO'd via Offer for Sale — class `regulatory_strategic`.
 
@@ -20,16 +20,16 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2025-08-07 | Board approval — NLC India Limited / NIRL | as stated: General Updates filing dated 31.10.2025 (referring to "our earlier in… |
-| 2025-10-31 | Other — NLC India Limited and NIRL — Business Transfer Agreement executed for hive-off of 7 RE assets (1,430 MW) | as stated: General Updates filing dated 31.10.2025 |
-| 2025-12-31 | Other — NIRL — "the expected date of completion of sale/disposal" stated in the BTA disclosure | as stated: General Updates filing dated 31.10.2025 |
-| 2026-01-01 | Effective date — NIRL — Phase I: transfer of the 7 RE Assets effected | as stated: General Updates filing dated 01.01.2026 ("The aforesaid transfer has … |
-| 2026-01-12 | Board approval — NIRL — in-principle approval for the listing of NIRL | as stated: Outcome of Board Meeting filing dated 04.11.2026 ("The Board had earl… |
-| 2026-09-01 | Appointed date — NIRL — Phase II assets transferred "based on the assets and liabilities as of 1st September 2026" | as stated: Notes to Standalone/Consolidated Unaudited Financial Results, filing … |
-| 2026-09-03 | Other — NIRL — Addendum (second addendum) to the Business Transfer Agreement signed for hiving off 708.96 MW of RE assets including a 4 MW Green Hydrogen Project, for ₹853.97 crore | as stated: General Updates filing dated 03.09.2026; Notes to results dated 04.11… |
+| 2025-08-07 | Board approval — NLC India Limited / NLC India Renewables Limited | as stated: In-principle approval for the Business Transfer Agreement to hive off… |
+| 2025-10-31 | Other — NLC India Limited and NLC India Renewables Limited | as stated: Business Transfer Agreement entered into for hive-off of 7 RE assets … |
+| 2025-12-31 | Other — NLC India Renewables Limited | as stated: "the expected date of completion of sale/disposal; 31st December, 202… |
+| 2026-01-01 | Effective date — NLC India Renewables Limited (Phase I) | as stated: "The aforesaid transfer has been effected on 01st January, 2026" — Ge… |
+| 2026-01-12 | Board approval — NLC India Renewables Limited (listing / IPO) | as stated: "The Board had earlier, at its meeting held on 12.01.2026, accorded i… |
+| 2026-09-01 | Other — NLC India Renewables Limited (Phase II) | as stated: "based on the assets and liabilities as of 1st September 2026" — note… |
+| 2026-09-03 | Other — NLC India Limited and NLC India Renewables Limited | as stated: Addendum (second addendum) to the Business Transfer Agreement signed … |
 | 2026-11-04 | Stage reached: **announced** | [Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026135958_573_BM_-_Outcome_04112026_Signed.pdf) |
 | 2026-11-04 | Stage reached: **record date** | [Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/NLCINDIA_04112026135958_573_BM_-_Outcome_04112026_Signed.pdf) |
-| 2026-11-04 | Board approval — NIRL — Offer for Sale of up to 10,00,00,000 equity shares held by NLCIL, as part of the proposed IPO of NIRL | as stated: Outcome of Board Meeting / Updates filing dated 04.11.2026 |
+| 2026-11-04 | Board approval — NLC India Renewables Limited (OFS as part of proposed IPO) | as stated: Outcome of Board Meeting / Updates filing dated 04.11.2026 |
 
 **The stages, as filed:** announced (2026-11-04) → record date (2026-11-04)
 
@@ -43,11 +43,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| NLC India Renewables Limited | Rs. 701.61 Crore in FY 2025 for the 7 Renewable Energy asse… | 4.59% | 4.2% (FY2026) | — | — | not listed |
+| NLC India Renewables Limited | "Revenue from 7 Renewable Energy assets proposed to be tran… | 4.59% | 4.2% (FY2026) | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹32,989 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"Revenue from 7 Renewable Energy assets proposed to be transferred is Rs. 701.61 Crore in FY 2025, which is 4.59 % of the NLCIL revenue of Rs. 15,282.96 Crore (on consolidated basis) based on Audited Financial Statements of 31st March, 2025." / "Net worth of 7 RE assets is Rs. 3,869.26 Crore, which is 20.67 % of Net-worth of NLCIL i.e., Rs. 18,722.97 Crore (Total equity attributable to owners) based on Audited Financial Statements of 31st March, 2025."”
+**In the documents' words:** “"Revenue from 7 Renewable Energy assets proposed to be transferred is Rs. 701.61 Crore in FY 2025, which is 4.59 % of the NLCIL revenue of Rs. 15,282.96 Crore (on consolidated basis) based on Audited Financial Statements of 31st March, 2025." and "Net worth of 7 RE assets is Rs. 3,869.26 Crore, which is 20.67 % of Net-worth of NLCIL i.e., Rs. 18,722.97 Crore (Total equity attributable to owners) based on Audited Financial Statements of 31st March, 2025." (filing 31.10.2025). For the Phase II tranche: "Revenue from operational Renewable Energy assets proposed to be transferred was Rs. 41.16 Crore for FY 2025-26, which is 0.24 % of the Company's revenue of Rs. 17,489.53 Crore (on consolidated basis) based on Audited Financial Statements of 31st March, 2026." and "Net worth of RE assets was Rs. 925.08 Crore, which is 4.30% of Net-worth of the Company i.e., Rs. 21,524.76 Crore (Total equity attributable to owners) based on Audited Financial Statements of 31st March, 2026." (filing 03.09.2026)”
 
 **The judge's read of selling pressure:** unlikely — No shares distributed to NLCIL holders — separation is via IPO/Offer for Sale by the parent, so no forced spin-off supply.
 
@@ -55,7 +55,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **NLC India Renewables Limited:** "Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Wholly Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL" (no fresh issue component stated; issue size in rupees not stated)
+- **NLC India Renewables Limited:** IPO offer structure: "Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Wholly Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL" (Board, 04.11.2026); any fresh issue component and issue size not stated. Consideration for the asset transfer itself: "The consideration will be paid by NIRL by issuance of equity shares/ acknowledgement of debt." (31.10.2025); "The consideration will be paid by NIRL in cash /acknowledgement of debt." (03.09.2026)
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -66,10 +66,10 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** not stated in the documents on file.
+- **What the promoters will hold in the separated entity:** not stated as a percentage. Before the IPO: "NLC India Renewables Limited (NIRL), a 100% subsidiary of NLC India Limited." The only stated dilution is the parent's own sale: "Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Wholly Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL". No mirror shareholding or post-IPO promoter percentage is disclosed; nothing is stated for the 2025 BTA beyond consideration being paid to the Company.
 - **What a public shareholder receives:** not stated in the documents on file.
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** NLC India Limited, the sole shareholder of NIRL, is to sell up to 10,00,00,000 (Ten Crore) equity shares of Rs.10 each held by it in NIRL by way of an Offer for Sale as part of NIRL's proposed IPO (Board approval 04.11.2026). Before that, NLCIL bought into NIRL: "The company invested 200,00,00,000 equity shares in NLC India Renewables Limited (NIRL), wholly owned subsidiary of the company at Rs. 10 per share aggregating to Rs. 2,000 crore on 12th October 2026. Pursuant to this investment, the Company's total investment in NIRL increased to ₹5,119.75 crore as on 12th October 2026." No pledging or management dealing stated.
+- **Insider actions around the separation:** The promoter-parent is selling down: Board approval on 04.11.2026 of "Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Wholly Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL, subject to compliance with the applicable provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018". Before that the parent injected equity: "The company invested 200,00,00,000 equity shares in NLC India Renewables Limited (NIRL), wholly owned subsidiary of the company at Rs. 10 per share aggregating to Rs. 2,000 crore on 12th October 2026. Pursuant to this investment, the Company's total investment in NIRL increased to ₹5,119.75 crore as on 12th October 2026." No promoter or management buying, selling or pledging in the listed parent's own shares is stated.
 - **Insiders, per the checklist read:** NIRL is NLCIL's wholly owned subsidiary; NLCIL's investment rose to ₹5,119.75 crore as on 12.10.2026; Board approved OFS of up to 10 crore shares held by NLCIL. Management stake not stated. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -161,7 +161,7 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Power - Renewable (reported in quarterly results as "Power - Renewables") → NLC India Renewables Limited (NIRL)** · unit ₹ crore · Operating_profit = 'Segment Result' i.e. segment profit/(loss) before tax and interest (EBIT-type, before finance cost, other income, unallocated corporate expenses and tax). Revenue shown is External Sales; this segment has no inter-segment sales (nil in both FY2026 and FY2025), so external = total segment revenue. Segment-level PAT is not disclosed. Renewables was first carved out as a separate reportable segment in the FY2025-26 consolidated accounts (3 segments: Mining, Power-Thermal, Power-Renewable), with FY2025 restated comparatives; in AR2024 and AR2025 only two segments (Mining, Power Generation) were reported, so renewables numbers are not separable for FY2024.
+**Power - Renewable / Power - Renewables (reportable segment) → NLC India Renewables Limited (NIRL)** · unit ₹ crore · Operating_profit = 'Segment Result' per Ind AS 108 segment note, i.e. segment profit before tax and interest (EBIT-type), stated before other income, unallocated corporate expenses, finance cost and tax. Revenue shown is External Sales (no inter-segment sales reported for this segment; total revenue equals external revenue). Segment assets/liabilities exclude unallocated corporate items. PAT is not disclosed at segment level.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -179,13 +179,13 @@ xychart-beta
 | Segment assets / revenue (x) | — | 8.0 | 12.6 |
 | Capex (₹ crore) | — | 707 | 2,912 |
 
-*Sources:* Annual Report 2024 — page 232 (renewables not a separate segment; subsumed in 'Power Generation'); Annual Report 2026 — page 260
+*Sources:* Annual Report 2024 — page 232 (renewables not a separate reportable segment in FY2024; only Mining and Power Generation reported); Annual Report 2026 — page 260
 
 *Latest quarter (Q1 FY27 (quarter ended 30-06-2026)):* revenue 220.01, operating profit 104.47 — Presentation Aug 2026 — page 14
 
-*Not in the pages read:* No segment PAT, EBITDA, or standalone NIRL-entity revenue/profit. No FY2024 renewables split. Only disclosure: NIRL to take over 1,420 MW renewable assets, net book value ₹5,107 crore (AR2024 p205).
+*Not in the pages read:* No PAT, no FY2024 segment split (renewables sat inside Power Generation), no standalone NIRL entity financials; renewable NBV ₹5,107 crore at 31.03.2024 only.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 8 presentation(s) on file):* All named renewable entities/segments (NIRL, NLC India Renewables, RE Assets, Power - Renewables) map to the single 'Power - Renewable' segment covered above; no separate NIRL standalone or 'Renewable energy: 7' figures appear on these pages.
+*Businesses with no numbers in the pages read (3 annual report(s) and 8 presentation(s) on file):* '7 renewable energy' and NIRL entity-level financials carry no numbers; 'Renewable Energy Assets / RE Assets' appear only as net book value (₹5,107 crore, 1,420 MW, AR2024 p205) and NBV trend (Presentation Nov 2025 p22), not as revenue/profit.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d28b50c9-e932-4f4e-b082-ab8a10dfcc20.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/3820278f-a17a-467b-b3dd-aca7902cc966.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/2683fb6f-c4b1-4f9a-8e7d-302c41933a40.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2641611a-dc69-45c5-b964-6200472856e3.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9b1e76d6-6477-4611-b278-e43e422965b8.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ae523ca7-e933-4ec4-af04-6c514eccddbb.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=09957902-9af7-4f6d-896a-89e23f8d33eb.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64333213-3419-4653-a910-0a7256bd5051.pdf); [Presentation Jan 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bc812425-16c7-4d9e-8489-5d369ef69599.pdf)
 
@@ -193,7 +193,7 @@ xychart-beta
 
 | Metric (latest year) | Parent (NLCINDIA) | NLC India Renewables Limited |
 |---|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Power - Renewable (reported …* |
+| *Basis* | *reported, consolidated* | *segment numbers (Power - Renewable / Power - …* |
 | Sales (₹ cr) | 17,490 (Mar 2026) | — |
 | Sales growth (%) | 14.1 (Mar 2026) | 3.5 (FY2026) |
 | Operating margin (%) | 31.9 (Mar 2026) | 44.4 (FY2026) |
@@ -215,13 +215,15 @@ xychart-beta
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
 | Mining (mining of lignite and coal) | 2,901 | 62.2% | 120.6% | 3.02x | ₹ crore | FY2026 |
-| Power - Thermal (generation of power and sale to power utilities) | 13,862 | 15.2% | 11.5% | 3.05x | ₹ crore | FY2026 |
+| Power - Thermal (FY2024 reported as 'Power Generation', then including renewables) | 13,862 | 15.2% | 11.5% | 3.05x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **capex and capital intensity** — parent / remaining: The remaining NLCIL business retains the mining and thermal power segments; the RE assets accounted for only 4.59 % of consolidated revenue while absorbing 20.67 % of net worth; separated business: The separated renewables business is far more capital-intensive relative to its revenue: 20.67 % of parent net worth against 4.59 % of revenue (FY 2025); on the Phase II tranche, 4.30 % of net worth against 0.24 % of revenue (FY 2025-26) “Net worth of 7 RE assets is Rs. 3,869.26 Crore, which is 20.67 % of Net-worth of NLCIL i.e., Rs. 18,722.97 Crore (Total equity attributable to owners) based on Audited Financial Statements of 31st March, 2025.”
-- **cash** — parent / remaining: NLCIL funded the subsidiary with equity: Rs. 2,000 crore subscribed on 12th October 2026, taking its total investment in NIRL to ₹5,119.75 crore; separated business: NIRL received Rs. 2,000 crore of fresh equity from the parent shortly before the proposed IPO; total parent investment ₹5,119.75 crore “The company invested 200,00,00,000 equity shares in NLC India Renewables Limited (NIRL), wholly owned subsidiary of the company at Rs. 10 per share aggregating to Rs. 2,000 crore on 12th October 2026.”
-- **debt and leverage** — parent / remaining: NLCIL receives the consideration for the hived-off assets in cash or as acknowledgement of debt (earlier tranche: by issuance of equity shares/acknowledgement of debt); separated business: NIRL pays for the transferred assets in cash or by acknowledgement of debt; Phase II involved 708.96 MW of assets for ₹853.97 crore, transferred at book value “The consideration will be paid by NIRL in cash /acknowledgement of debt.”
+- **other** — parent / remaining: Consolidated revenue of ₹17,489.53 crore for FY 2025-26 (audited); separated business: Revenue of the operational RE assets transferred in Phase II was ₹41.16 crore for FY 2025-26, i.e. 0.24% of the parent “Revenue from operational Renewable Energy assets proposed to be transferred was Rs. 41.16 Crore for FY 2025-26, which is 0.24 % of the Company's revenue of Rs. 17,489.53 Crore (on consolidated basis) based on Audited Financial Statements of 31st March, 2026.”
+- **other** — parent / remaining: Net worth (total equity attributable to owners) of ₹18,722.97 crore as at 31.03.2025; separated business: Net worth of the 7 RE assets of ₹3,869.26 crore, 20.67% of the parent's — far larger as a share of net worth than of revenue (4.59%) “Net worth of 7 RE assets is Rs. 3,869.26 Crore, which is 20.67 % of Net-worth of NLCIL i.e., Rs. 18,722.97 Crore (Total equity attributable to owners) based on Audited Financial Statements of 31st March, 2025.”
+- **debt and leverage** — parent / remaining: Parent raises rupee bonds in the nature of debentures by private placement — "Fund raising through Issuance of Bonds in the nature of Debentures of upto Rs. 2,500 Crore in phased manner based on requirement."; separated business: The renewable business is funded through a foreign-currency green loan raised for NIRL “Signed its maiden Green Loan agreement with Sumitomo Mitsui Banking Corporation (SMBC) under the ECB framework , amounting to JPY 15.464 billion (USD 100 million), to fund renewable energy projects through its subsidiary NIRL.”
+- **capex and capital intensity** — parent / remaining: Group capex of ₹6,242 crore up to December 2025, exceeding the FY 2025-26 annual target by 23%; consolidated purchase of PP&E of ₹3,895.33 crore in H1 FY 2026-27; separated business: The parent keeps funding NIRL's equity: ₹2,000 crore injected on 12 October 2026, total investment in NIRL ₹5,119.75 crore “Pursuant to this investment, the Company's total investment in NIRL increased to ₹5,119.75 crore as on 12th October 2026.”
+- **operating margin** — parent / remaining: Consolidated Operating Margin 16.49% for the quarter and 17.44% for the half year ended 30-09-2026 (22.39% for FY 2025-26); standalone 16.58% and 17.79%; separated business: Power-Renewables segment result of ₹132.61 crore on segment revenue of ₹242.26 crore for the quarter ended 30-09-2026 (₹237.08 crore on ₹462.27 crore for the half year); no separate margin is stated for the transferred undertaking “c .Power -Renewables 242.26 220.01 194.11 462.27 373.88 726.06”
 
 **The checklist:**
 

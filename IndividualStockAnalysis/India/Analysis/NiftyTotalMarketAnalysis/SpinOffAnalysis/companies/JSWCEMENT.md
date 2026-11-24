@@ -8,10 +8,11 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Shiva Cement Limited** | Manufacture and sale of cement, clinker and trading of allied products; 1.32 mtpa clinker facility at Sundarg… | listed 2026-08-17 as SHIVACEM (NSE) | not stated |
-| **JSW One Platforms Limited** | not stated | to be listed — "Completion date of the proposed IPO is not … | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **JSW One Platforms Limited** | 2026 proposed initial public offering of JSW One Platforms … | "India's leading tech-led, full-stack B2B e-commerce platform, serving manufacturing and construction MSMEs w… | to be listed | not stated |
+
+**The other parties to the scheme(s)** — not separated entities: Shiva Cement Limited (SHIVACEM) — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** Nothing separated — Shiva Cement, the listed clinker subsidiary, is amalgamated into parent JSW Cement — class `value_unlocking`.
 
@@ -21,12 +22,16 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2026-04-01 | Appointed date — Scheme of amalgamation of Shiva Cement Limited into JSW Cement Limited | as stated: Annexure 1 to Board outcome filing dated September 29, 2026 ("Appoint… |
-| 2026-07-17 | Other — board approval of participation in the proposed IPO of JSW One Platforms Limited as Promoter Selling Shareholder (offer for sale up to Rs. 811 Crores) by JSW Steel Limited — JSW One Platforms Limited (seller: JSW Steel Limited) | as stated: JSW Cement intimation under Regulation 30 dated July 17, 2026, enclos… |
-| 2026-08-13 | Board approval — JSW One Platforms Limited IPO — JSW Cement Limited's participation as Promoter Selling Shareholder (offer for sale up to Rs. 123.00 Crores) | as stated: JSW Cement intimation under Regulation 30 dated August 13, 2026 (Disc… |
-| 2026-08-17 | **Shiva Cement Limited** listed (SHIVACEM) | NSE equity list |
+| 2025-07-24 | Other — JSW Cement Limited (pre-IPO conversion of 160,000,000 CCPS into 235,662,477 equity shares) | as stated: Press release dated May 21, 2026; Investor Presentation February 2026 |
+| 2025-08-14 | Listing and trading — JSW Cement Limited (own IPO) | as stated: Press release dated May 21, 2026 on Q4 FY26 and FY2026 results |
+| 2025-11-07 | Other — Algebra Endeavour Private Limited (earlier intimation preceding the Securities Purchase Agreement) | as stated: General Updates filing dated November 17, 2025 |
+| 2025-11-17 | Other — Algebra Endeavour Private Limited (Securities Purchase Agreement signed; "date on which the agreement for sale has been entered into 17.11.2025") | as stated: General Updates filing dated November 17, 2025 |
+| 2026-04-01 | Appointed date — Shiva Cement Limited / JSW Cement Limited (amalgamation) | as stated: Annexure 1 to Outcome of Board Meeting, filing dated September 29, 20… |
+| 2026-07-17 | Board approval — JSW Steel Limited (participation in JSW One Platforms Limited IPO as Promoter Selling Shareholder, up to Rs. 811 Crores) | as stated: JSW Steel letter JSWSL: MUM: SEC: SE: 2026-27/07/17 dated July 17, 20… |
+| 2026-08-13 | Board approval — JSW Cement Limited (participation in JSW One Platforms Limited IPO as Promoter Selling Shareholder, up to Rs. 123.00 Crores) | as stated: Disclosure of material issue / Regulation 30 intimation dated August … |
 | 2026-09-29 | Stage reached: **nclt sanction** | [Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/JSWCL_29092026191654_JCL_Post_BM_Intimation_signed.pdf) |
-| 2026-09-29 | Board approval — JSW Cement Limited and Shiva Cement Limited (Scheme of Arrangement / amalgamation) | as stated: Outcome of the Board Meeting of JSW Cement held on September 29, 2026… |
+| 2026-09-29 | Board approval — JSW Cement Limited and Shiva Cement Limited (Scheme of Arrangement — amalgamation) | as stated: Outcome of Board Meeting, filing dated September 29, 2026; press rele… |
+| 2026-10-27 | Other — JSW Cement Limited (Scheme reiterated as a Key Business Update; completion expected within 12-14 months subject to approvals) | as stated: Press release dated October 27, 2026 on Q2 FY27 & H1 FY27 results |
 
 **The stages, as filed:** nclt sanction (2026-09-29)
 
@@ -40,16 +45,15 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: not determinable — the documents on file give no size for the separated piece.**
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Shiva Cement Limited | Turnover (FY 2025-26), Transferor Company (Standalone): INR… | — | — | 384 | 2.2% | no |
-| JSW One Platforms Limited | As disclosed by JSW Cement on August 13, 2026 for "amount a… | — | — | — | — | not listed |
+| JSW One Platforms Limited | Per JSW Cement's disclosure, the turnover / revenue / incom… | — | — | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹17,052 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “"The paid-up share capital, net worth and turnover / revenue of the companies involved in the Scheme are as follows: INR in Crores — Company / Paid-up Equity Share Capital / Turnover (FY 2025-26) / Net Worth (as on March 31, 2026): Transferee Company (Standalone) 1,363.36, 5,995.28, 7,029.47; Transferor Company (Standalone) 159.00, 435.17, (30.08)." Also: "JCL holds 66.23% of the paid-up equity share capital of SCL."”
+**In the documents' words:** “2026 amalgamation of Shiva Cement — "The paid-up share capital, net worth and turnover / revenue of the companies involved in the Scheme are as follows: INR in Crores — Company / Paid-up Equity Share Capital / Turnover (FY 2025-26) / Net Worth (as on March 31, 2026): Transferee Company (Standalone) 1,363.36, 5,995.28, 7,029.47; Transferor Company (Standalone) 159.00, 435.17, (30.08)"; and "JCL holds 66.23% of the paid-up equity share capital of SCL." 2026 JSW One Platforms IPO — "amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year; Nil". 2025 Algebra Endeavour sale — "The division / undertaking does not contribute to the turnover / net worth or income of the Company".”
 
 **The judge's read of selling pressure:** unlikely — Only ~1.21 crore new shares on a 136.34 crore base; same industry, larger and more liquid entity, no index exit
 
@@ -57,23 +61,21 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Shiva Cement Limited:** "JSW Cement will issue 5 equity shares of face value INR 10/- for every 41 equity shares of face value INR 2/- held in Shiva Cement to the shareholders of Shiva Cement (other than JSW Cement)." Further: "the Equity Shares held by the Transferee Company in the Transferor Company shall stand cancelled and extinguished and no Equity Shares of the Transferee Company shall be allotted in lieu or in exchange of the same."
-- **JSW One Platforms Limited:** Offer for sale by JSW Cement as Promoter Selling Shareholder: "offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 123.00 Crores (Rupees One Hundred and Three Crores Only) held by the Company ("Sale Shares") in JOPL (subject to any revisions to such amount as may be permissible under applicable law)". JSW Steel's participation: "offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 811 Crores (Rupees Eight Hundred Eleven Crores Only) held by the Company". Fresh issue size: not stated. "The price and other details of the proposed IPO will be determined in due course by the competent body".
+- **JSW One Platforms Limited:** Offer for sale: JSW Cement offering for sale equity shares of face value of Rs. 10 each of JOPL "aggregating up to Rs. 123.00 Crores (Rupees One Hundred and Three Crores Only)"; JSW Steel offering for sale shares "aggregating up to Rs. 811 Crores (Rupees Eight Hundred Eleven Crores Only)"; price and other details to be determined in due course
 
 **Promoters' holding, from the shareholding pattern:**
 
 | Company | Promoters | FIIs | DIIs | Public | Quarter |
 |---|---:|---:|---:|---:|---|
 | JSW Cement Ltd. (JSWCEMENT) | 72.02% | 4.59% | 12.27% | 10.32% | Sep 2026 |
-| Shiva Cement Limited (SHIVACEM) | 66.5% | 0.11% | 0.07% | 33.3% | Sep 2026 |
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** JSW Cement Limited (Transferee Company), Pre-Arrangement: "Promoter/ Promoter Group 98,18,46,640 (72.02%)" of a total 1,36,33,64,936 shares. Shiva Cement Limited (Transferor Company), Pre-Arrangement: "Promoter / Promoter Group 19,61,75,708 (66.50%)" of 29,50,00,000 shares (100%). Date of the shareholding pattern: not stated (disclosed in the Board outcome filing dated September 29, 2026).
-- **What the promoters will hold in the separated entity:** JSW Cement Limited, Post-Arrangement: "Promoter/ Promoter Group 98,19,43,497 (71.39%)"; Public Shareholding "38,05,50,123 (27.67%)"; Non Promotor-Non Public "1,30,19,917* (0.95%)"; Total 1,37,55,13,537. "*Note: Includes one equity share towards fractional entitlement. Actual number of equity shares to be issued towards fractional entitlement will be determined based on the shareholding pattern as on the record date." Promoter holding after the proposed JSW One Platforms IPO: not stated.
-- **What a public shareholder receives:** Public shareholders of Shiva Cement (the subsidiary): "JSW Cement will issue 5 equity shares of face value INR 10/- for every 41 equity shares of face value INR 2/- held in Shiva Cement to the shareholders of Shiva Cement (other than JSW Cement)." And: "The public shareholders of the Transferor Company would become shareholders in the Transferee Company, which has a higher traded equity share base, greater market liquidity, and a diversified institutional investor base, thereby providing shareholders with enhanced liquidity, broader market participation, and improved opportunities for value realization." Public shareholders of JSW Cement receive no new shares; "Shareholders in the Transferee Company get direct access to the economics of the Transferor Company." The New Equity Shares "shall rank pari-passu in all respects with the existing Equity Shares of the Transferee Company, including with respect to dividend, bonus, voting rights and other corporate benefits".
-- **Management incentives:** Treatment of existing stock options/RSUs/SARs in the Scheme, any new plan, exercise price or pricing date, and management/insider shareholding: not stated. The only ESOP disclosure is in the Investor Presentation (February 2026): "Employee costs included ESOP expense of Rs. 6.9 crore, Rs. 3.4 crore and Rs5.2 crore in Q3 FY25, Q2 FY26 and Q3 FY26 respectively".
-- **Insider actions around the separation:** No promoter buying, selling or pledging of JSW Cement or Shiva Cement shares around the amalgamation is stated; "There shall be no consideration involved in respect of the aforesaid reorganization of reserves of the Transferor Company. Thus, there will be no benefit to any promoter/ promoter group/ group companies of the Transferor Company." Separately, in the JSW One Platforms IPO, the Company itself sells down as a promoter: "the Board of Directors of the Company at its meeting held today i.e. August 13, 2026, inter alia, considered and approved the participation of the Company in the proposed initial public offering ("IPO") of JSW One Platforms Limited ("JOPL") as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 123.00 Crores ... held by the Company"; JSW Steel approved an offer for sale "aggregating up to Rs. 811 Crores" on July 17, 2026. Under the Scheme, "the Equity Shares held by the Transferee Company in the Transferor Company shall stand cancelled and extinguished", and the Transferee Company's entire 1% optionally convertible cumulative redeemable preference shareholding in the Transferor Company "shall be deemed to be cancelled without any further act or deed".
+- **Promoters in the parent, per the documents:** JSW Cement Limited, Pre-Arrangement (as disclosed with the September 29, 2026 board approval): "Promoter/ Promoter Group 98,18,46,640 (72.02%)" of total 1,36,33,64,936 shares. Shiva Cement Limited, Pre-Arrangement: "Promoter / Promoter Group 19,61,75,708 (66.50%)" of total 29,50,00,000 shares.
+- **What the promoters will hold in the separated entity:** 2026 amalgamation of Shiva Cement into JSW Cement — "Promoter/ Promoter Group 98,18,46,640 (72.02%) [Pre-Arrangement] ... 98,19,43,497 (71.39%) [Post-Arrangement]"; and "Public Shareholding 36,84,98,380 (27.03%) ... 38,05,50,123 (27.67%)"; "Non Promotor-Non Public 1,30,19,916 (0.95%) ... 1,30,19,917* (0.95%)", total 1,36,33,64,936 to 1,37,55,13,537, with the note "*Note: Includes one equity share towards fractional entitlement. Actual number of equity shares to be issued towards fractional entitlement will be determined based on the shareholding pattern as on the record date." 2026 JSW One Platforms IPO — promoter holding after the IPO: not stated.
+- **What a public shareholder receives:** 2026 amalgamation of Shiva Cement — a public shareholder of Shiva Cement receives "5 (Five) Equity Shares of the face value of INR 10 (Indian Rupees Ten only) each fully paid-up, for every 41 (Forty One) equity shares of the face value of INR 2 (Indian Rupees Two only) each fully paid-up held by such member in the Transferor Company", and "The public shareholders of the Transferor Company would become shareholders in the Transferee Company, which has a higher traded equity share base, greater market liquidity, and a diversified institutional investor base, thereby providing shareholders with enhanced liquidity, broader market participation, and improved opportunities for value realization." A public shareholder of JSW Cement (the parent) receives no new securities; "Shareholders in the Transferee Company get direct access to the economics of the Transferor Company." 2026 JSW One Platforms IPO — nothing is distributed to shareholders; "the transaction is an offer for sale in the proposed IPO" by JSW Cement as Promoter Selling Shareholder; what public shareholders of JSW Cement receive: not stated. 2025 Algebra Endeavour sale — cash consideration to the Company; "There is no scheme of arrangement, hence the same is not applicable."
+- **Management incentives:** Treatment of existing stock options / RSUs / SARs in the Scheme: not stated; no new plan in a new entity is stated. ESOP cost disclosure only: "Employee costs included ESOP expense of Rs. 6.9 crore, Rs. 3.4 crore and Rs5.2 crore in Q3 FY25, Q2 FY26 and Q3 FY26 respectively". Pre-IPO conversion of preference capital: "On 24 July 2025, prior to the IPO of the Company, 160,000,000 CCPS of face value Rs. 100 each were converted into 235,662,477 equity share of face value Rs. 10 each". Management or insider shareholding: not stated. Exercise price or pricing date: not stated.
+- **Insider actions around the separation:** 2026 JSW One Platforms IPO — JSW Cement Limited's Board "considered and approved the participation of the Company in the proposed initial public offering ("IPO") of JSW One Platforms Limited ("JOPL") as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 123.00 Crores ... held by the Company"; JSW Steel Limited's Board approved the same for shares "aggregating up to Rs. 811 Crores ... held by the Company"; both "subject to applicable law, market conditions, receipt of necessary approvals/ regulatory clearances and other considerations." 2026 amalgamation — "Further, the Equity Shares held by the Transferee Company in the Transferor Company shall stand cancelled and extinguished and no Equity Shares of the Transferee Company shall be allotted in lieu or in exchange of the same", and on the reserve reorganizations "There shall be no consideration involved ... Thus, there will be no benefit to any promoter/ promoter group/ group companies". 2025 Algebra Endeavour sale — "None of the buyers belong to the promoter / promoter group companies." No promoter or management buying, selling or pledging of JSW Cement shares is stated.
 - **Insiders, per the checklist read:** JCL holds 66.23% of SCL equity and all its OCCRPS; JSW Cement promoter group goes 72.02% to 71.39% post-merger; Shiva promoter group held 66.50% · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -108,21 +110,7 @@ These texts announce no separation: the only board-approved reorganisation is th
 
 ### 6. On the calls, verbatim
 
-2 call(s), oldest first: **1 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 1 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
-
-#### Feb 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44898427-9c85-44a6-b644-f8c7c89c63d1.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 845 characters in the transcript)*
-
-> **JSW Cement:** Strategically Located Manufacturing Footprint 4.50 MTPA Dolvi (Grinding) 6.00 MTPA Vijayanagar (Grinding)0.80 MTPA Salem (Grinding)4.20 MTPA Nandyal (Integrated Unit)1.50 MTPA Jajpur (Grinding)3.60 MTPA Salboni (Grinding)1.32 MTPA Shiva Cement (Clinker unit) (1) In JSW FZC which is a JV (2) The grinding unit has been set up vide a commercial arrangement with Bhushan Power and Steel Limited, exclusively for use and consumption by Shiva CementUAE2.31 MTPA Fujairah (Clinker unit)UAERegion Grinding Capacity Clinker Capacity South 11.00 2.81 West 4.50 2.31(1) East 6.10 1.32 Total 21.60 6.44Manufacturing Footprint Grinding Unit Limestone Mines Clinker Unit Integrated UnitMulti -regional presence (MTPA ) 1.0 MTPA Sambalpur (Grinding) (2)Diversified Product Mix (9M FY26) 54%42%4% Cement GGBS Clinker 9JSW Cement Investor Presentation Feb 2026
-
-#### May 2026
-
-**Question and answer**
-
-> **Harsh Mittal:** Sure sir. And my second question is a bookkeeping question . What was the total clinker production in FY26 and the clinker sold in the UAE geography?
->
-> **Narinder Singh:** Total clinker production within factories , Nandyal and Shiva , is 3.74 million.
+No call in the last 36 months carries a statement about it (or no transcript is on file).
 
 ### 7. The parent's financial statements
 
@@ -181,67 +169,32 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Shiva Cement Limited (SHIVACEM) — as reported since listing**
+*Businesses with no numbers in the pages read (1 annual report(s) and 7 presentation(s) on file):* Pages carry no separation/demerger scheme at all. No own financials for Shiva Cement Limited, the "Transferor Company", Shiva Cement's clinker unit, or the Sambalpur grinding unit (1.0 MTPA). JSW One Platforms Limited appears only as an equity-method joint venture (13.56% stake), not a separated business; its standalone JV figures (Annual Report 2026 — page 208) are FY2026 revenue 5,743.39 and loss (106.49); FY2025 revenue 3,962.80 and loss (217.03) ₹ crore.
 
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 347 | 311 | 435 |
-| Sales growth (%) | — | -10.4% | +39.9% |
-| Operating profit (₹ cr) | 39.0 | -6.0 | 14.0 |
-| Operating profit growth (%) | +400.0% | -115.4% | +333.3% |
-| Operating margin (%) | 11.2 | -1.9 | 3.2 |
-| PAT (₹ cr) | -68.0 | -142 | -126 |
-| PAT growth (%) | +15.0% | -108.8% | +11.3% |
-| PAT margin (%) | -19.6 | -45.7 | -29.0 |
-| EPS (₹) | -3.3 | -4.8 | -4.3 |
-
-*Source: ProfitStatement/NiftyTotalMarket/SHIVACEM.csv (consolidated, screener.in); growth and margins computed here.*
-
-*Businesses with no numbers in the pages read (1 annual report(s) and 7 presentation(s) on file):* No separated business has numbers: pages show no demerger/spin-off. Shiva Cement, Transferor Company, Shiva Cement's clinker, Sambalpur grinding unit (1.0 MTPA) carry no financials; JSW One Platforms appears only as a 13.56% joint venture summary (Annual Report 2026 — page 208), not a separated segment.
+The segment pages read (1 annual report(s) and 7 presentation(s) on file) do not carry this business's own revenue or profit.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/bdde0cc8-8003-4624-8d25-371985d916bc.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=deea16ec-a9dd-43fb-9e00-8c7c816ca943.pdf); [Presentation Oct 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7affadb2-f88f-4531-a46a-77184f1a43b5.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68e46cd0-76e0-45ba-97f1-7ef52762e7e3.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cddd21f6-db5e-4270-a384-979fa03bb1ce.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=45cf2e4a-da6a-448c-8a0d-0c1e8f0cf16e.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a435c58a-3391-428f-af29-9e070ae9d3e2.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (JSWCEMENT) | Shiva Cement Limited (SHIVACEM) | JSW One Platforms Limited |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* | *no numbers on file* |
-| Sales (₹ cr) | 6,501 (Mar 2026) | 435 (Mar 2026) | — |
-| Sales growth (%) | 12.4 (Mar 2026) | 39.9 (Mar 2026) | — |
-| Operating margin (%) | 19.1 (Mar 2026) | 3.2 (Mar 2026) | — |
-| Operating profit growth (%) | 101.3 (Mar 2026) | 333.3 (Mar 2026) | — |
-| PAT margin (%) | -12.3 (Mar 2026) | -29 (Mar 2026) | — |
-| ROCE % | 11 (Mar 2025) | -1 (Mar 2026) | — |
-| Debtor Days | 48 (Mar 2026) | 0 (Mar 2026) | — |
-| Inventory Days | 132 (Mar 2026) | 232 (Mar 2026) | — |
-| Days Payable | 317 (Mar 2026) | 324 (Mar 2026) | — |
-| Cash Conversion Cycle | -136 (Mar 2026) | -93 (Mar 2026) | — |
-| Working Capital Days | -90 (Mar 2026) | -302 (Mar 2026) | — |
-| Debt / equity (x) | 0.7 (Mar 2026) | -25.9 (Sep 2026
-            
-            (S)) | — |
-| Borrowings (₹ cr) | 4,464 (Mar 2026) | 1,681 (Sep 2026
-            
-            (S)) | — |
-
-*Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
+Only the parent's figures are on file: Sales (₹ cr) 6,501 (Mar 2026); Sales growth (%) 12.4 (Mar 2026); Operating margin (%) 19.1 (Mar 2026); PAT margin (%) -12.3 (Mar 2026); Operating profit growth (%) 101.3 (Mar 2026); Debtor Days 48 (Mar 2026); Inventory Days 132 (Mar 2026); Days Payable 317 (Mar 2026); Cash Conversion Cycle -136 (Mar 2026); Working Capital Days -90 (Mar 2026); ROCE % 11 (Mar 2025); Debt / equity (x) 0.7 (Mar 2026); Borrowings (₹ cr) 4,464 (Mar 2026). The separated business has no comparable numbers in the documents read.
 
 **What stays with the parent — its segments, from the same pages:**
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Manufacturing and sale of cement and cement related product (single reportable segment — Group) | 6,512 | 19.0% | — | — | ₹ crore | FY2026 |
-| Manufacturing and sale of cement and cement related product (single reportable segment — Company/standalone) | 5,995 | — | — | — | ₹ crore | FY2026 |
+| Cement and cement related products — single reportable segment (consolidated); "The Group is primarily in the business of manufacturing and sale of cement and cement related product... there are no other reportable business applicable to the Group" | 6,512 | 19.0% | — | — | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **other — scale (turnover)** — parent / remaining: Transferee Company (JSW Cement, standalone) turnover FY 2025-26 of INR 5,995.28 crore; consolidated FY2026 revenue ₹6,512 Crore; separated business: Transferor Company (Shiva Cement, standalone) turnover FY 2025-26 of INR 435.17 crore “"Company Paid-up Equity Share Capital Turnover (FY 2025-26) Net Worth (as on March 31, 2026) Transferee Company (Standalone) 1,363.36 5,995.28 7,029.47 Transferor Company (Standalone) 159.00 435.17 (30.08)"”
-- **other — net worth and accumulated losses** — parent / remaining: Net worth of INR 7,029.47 crore as on March 31, 2026; post-amalgamation "The balance of SPA in books of Transferee Company is likely to be INR 4,335.67 crore."; separated business: Negative net worth of INR (30.08) crore as on March 31, 2026, with accumulated losses adjusted against securities premium “"With effect from the Appointed Date, and upon coming into effect of the Scheme, the debit balance of Retained Earnings and SPA in the books of Transferor Company is likely to be INR (133.92) crore and Nil respectively."”
-- **capex and capital intensity** — parent / remaining: Cement grinding capacity of 25.10 MTPA with clinkerisation capacity of 9.74 MTPA; expansion toward 46.00 MTPA grinding and 13.04 MTPA clinker; capex of ₹1,962 Crore in FY2026 and guidance of about INR2,300 crores in FY27 and INR2,200 crores in FY28; separated business: A 1.32 mtpa clinker facility at Sundargarh, Odisha, plus a 1.0 MTPA grinding unit commissioned at Sambalpur in FY26 “"The Transferor Company has a clinker manufacturing facility at Sundargarh, Odisha, having a capacity of 1.32 mtpa."”
-- **debt and leverage** — parent / remaining: Consolidated net debt of ₹4,287 Crore as at September 30, 2026 (₹3,635 Crore as at March 31, 2026); "Net Debt/EBITDA (x) 2.90" as at Dec 31, 2025; separated business: not stated “"Net debt: ₹4,287 Crore as at September 30, 2026"”
-- **operating margin** — parent / remaining: "Operating EBITDA: ₹277.8 Crore, increased by 4% YoY, equating to ₹708/MT" in Q2 FY27; FY2026 operating EBITDA ₹1,240.3 Crore at a 19.0% margin; separated business: not stated “"Revenue from operations increased 27% YoY to ₹3,809 Crore, while operating EBITDA declined by 2% YoY to ₹576.0 Crore."”
-- **other — rationale / vertical integration** — parent / remaining: Gains internal clinker supply and backward integration for its cement manufacturing business; separated business: Clinker manufacturing, a key raw material for cement, is folded into the parent “"The internal availability of clinker is expected to reduce dependence on external procurement, improve supply‑chain efficiency, and result in cost savings by avoiding third‑party purchases and associated mark‑ups."”
-- **tax** — parent / remaining: "the resultant reduction in net deferred tax liabilities, consequent to the reduced tax rate in the New tax regime, of ₹ 211.21 crore has been recognised in Q4 FY26 and FY2026"; management confirmed a 25% tax rate for modelling from FY27; separated business: not stated “"Pursuant to the amendments introduced under the Finance Act, 2026, inter alia enabling prescribed treatment of brought-forward MAT credit to the companies under tax regime as per Section 115BAA of the Income-tax Act, 1961 ("New tax regime"), the Company basis its assessment has decided to exercise the option to adopt the New tax regime from financial year 2026–27 onwards."”
+- **other** — parent / remaining: JSW Cement (Transferee Company, standalone): paid-up equity share capital INR 1,363.36 crore, turnover INR 5,995.28 crore (FY 2025-26), net worth INR 7,029.47 crore as on March 31, 2026; separated business: Shiva Cement (Transferor Company, standalone): paid-up equity share capital INR 159.00 crore, turnover INR 435.17 crore (FY 2025-26), net worth INR (30.08) crore as on March 31, 2026; JSW Cement holds 66.23% “JCL holds 66.23% of the paid-up equity share capital of SCL.”
+- **other** — parent / remaining: Post-amalgamation, the Amalgamation Adjustment Deficit Account in JSW Cement's books is to be adjusted against its Securities Premium Account, leaving SPA of INR 4,335.67 crore; separated business: Shiva Cement carries accumulated losses: opening debit balance of Retained Earnings is to be adjusted against its Securities Premium Account, leaving Retained Earnings of INR (133.92) crore and SPA of Nil “With effect from the Appointed Date, and upon coming into effect of the Scheme, the debit balance of Retained Earnings and SPA in the books of Transferor Company is likely to be INR (133.92) crore and Nil respectively.”
+- **debt and leverage** — parent / remaining: JSW Cement consolidated net debt ₹3,635 Crore as at March 31, 2026 and ₹4,287 Crore as at September 30, 2026; Net Debt/EBITDA 2.90x and Net Debt/Equity 0.58 as at Dec 31, 2025; separated business: The amalgamation is expected to improve funding terms and remove inter-company guarantees between JSW Cement and Shiva Cement “Financial Synergies: The proposed amalgamation will lead to greater ability of the consolidated entity to access and raise funds within a single entity on more favorable terms, leading to elimination of inter company guarantees and facilitate more efficient funding arrangements.”
+- **operating margin** — parent / remaining: JSW Cement consolidated operating EBITDA ₹1,240.3 Crore in FY2026 with a margin of 19.0% (Q4 FY26 margin 19.3%, ₹916 per ton); Q2 FY27 operating EBITDA ₹277.8 Crore, ₹708/MT; separated business: Operating margin of Shiva Cement: not stated “Operating EBITDA: ₹1,240.3 Crore, representing a substantial increase of 44% YoY, with an operating EBITDA margin of 19.0%”
+- **growth** — parent / remaining: JSW Cement consolidated revenue grew 33% YoY to ₹1,912 Crore in Q2 FY27 and 12% YoY to ₹6,512 Crore in FY2026; guidance of mid-teens to high-teens volume growth in FY27 excluding the North; separated business: Shiva Cement commissioned a 1.0 MTPA grinding unit at Sambalpur, Odisha in FY26 / October 2025; its own growth rates are not stated “In FY26, Shiva Cement commissioned a state-of-the-art 1.0 MTPA cement grinding unit at Sambalpur in Odisha, vide a commercial arrangement with Bhushan Power and Steel Limited, with an objective of meeting the growing cement demand in the region.”
+- **capex and capital intensity** — parent / remaining: JSW Cement incurred capex of ₹506 Crore in Q4 FY26 and ₹1,962 Crore in FY2026, with guidance of about ₹2,300 crore in FY27 and about ₹2,200 crore in FY28; expansion to 46.00 MTPA grinding and 13.04 MTPA clinker capacity; separated business: Shiva Cement's clinker facility at Sundargarh, Odisha has a capacity of 1.32 mtpa, to be backward-integrated into JSW Cement; separate capex for it is not stated “The Transferor Company has a clinker manufacturing facility at Sundargarh, Odisha, having a capacity of 1.32 mtpa.”
+- **tax** — parent / remaining: JSW Cement recognised a ₹211.21 crore reduction in net deferred tax liabilities in Q4 FY26 on electing the new tax regime under Section 115BAA from FY2026-27, with a ~25% tax rate thereafter; separated business: Tax position of the separated / merging business: not stated “In view of the same, the resultant reduction in net deferred tax liabilities, consequent to the reduced tax rate in the New tax regime, of ₹ 211.21 crore has been recognised in Q4 FY26 and FY2026.”
+- **other** — parent / remaining: JSW Cement remains listed with a larger, more liquid share base; simplification removes the costs of maintaining two listed entities; separated business: Shiva Cement's public shareholders move into the larger listed entity and Shiva Cement ceases to exist “Simplified structure and management efficiency: The proposed amalgamation will result in a simplification of the existing corporate structure and eliminate administrative functions and duplications, reducing regulatory and legal compliances of two listed entities, eliminating multiple record keeping and reducing time and efforts for consolidation of financials at the group level, consequently reducing the administrative costs of maintaining separate companies, while reducing the multiple legal and regulatory compliances.”
 
 **The checklist:**
 

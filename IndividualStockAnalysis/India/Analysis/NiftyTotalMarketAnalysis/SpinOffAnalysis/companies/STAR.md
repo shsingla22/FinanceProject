@@ -8,49 +8,48 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **OneSource Specialty Pharma Limited** | Identified CDMO Business and Soft Gelatin Business demerged from Strides, plus Identified CDMO Business demer… | listed 2025-01-24 as ONESOURCE (NSE) | Neeraj Sharma, CEO of OneSource (Anurag Bhagania,… |
-| **Pivot Path Private Limited, India** | "Life Sciences business and Digital Innovations business of Arco Lab" — life sciences consulting, digital tra… | not to be listed | not stated (no CEO/MD/chair of Pivot Path is name… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **OneSource Specialty Pharma Limited** (earlier Stelis Biopharma Limited) | 2023 Scheme of Arrangement amongst Strides, Steriscience an… | Identified CDMO Business and Soft Gelatin (Oral Technologies) Business of Strides and Identified CDMO Busines… | listed 2025-01-24 as ONESOURCE (NSE) | Neeraj Sharma, CEO of OneSource (Anurag Bhagania,… |
+
+**The other parties to the scheme(s)** — not separated entities: Pivot Path Private Limited — merged in — no shares for the parent's holders; Strides Alathur Private Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** Arco Lab's Life Sciences and Digital Innovation businesses, carved out into Pivot Path Private Limited — class `value_unlocking`.
 
 ### 2. Stages and dates
 
-> **Listing:** LISTED — OneSource Specialty Pharma Limited (ONESOURCE) since 2025-01-24 (NSE equity list); record date 2024-12-06; not yet listed: Pivot Path Private Limited, India
+> **Listing:** LISTED — OneSource Specialty Pharma Limited (ONESOURCE) since 2025-01-24 (NSE equity list); record date 2024-12-06
 
 | Date | Event | Source |
 |---|---|---|
-| 2023-09-25 | Board approval — OneSource (Strides board approving the Scheme of Arrangement) | as stated: Intimation dated May 22, 2024 ("our earlier intimations dated Septemb… |
-| 2023-09-28 | Filed with exchanges — OneSource | as stated: NSE Observation Letter Ref: NSE/LIST/37742 dated May 21, 2024 ("vide … |
-| 2024-04-01 | Appointed date — OneSource (demerged undertakings from Strides and Steriscience vest with OneSource) | as stated: Intimation dated November 27, 2024; NCLT approval intimation dated No… |
-| 2024-05-17 | SEBI observations — OneSource | as stated: NSE Observation Letter dated May 21, 2024 ("SEBI vide its letter date… |
-| 2024-05-21 | Exchange no-objection — OneSource | as stated: Intimation dated May 22, 2024 (BSE and NSE letters dated May 21, 2024… |
+| 2023-09-25 | Board approval — Strides / OneSource scheme | as stated: Intimation dated May 22, 2024 ("our earlier intimations dated Septemb… |
+| 2023-09-28 | Filed with exchanges — Strides / OneSource scheme | as stated: NSE Observation Letter Ref: NSE/LIST/37742 dated May 21, 2024 ("vide … |
+| 2024-04-01 | Appointed date — Demerged undertakings from Strides and Steriscience vesting with OneSource | as stated: Intimation of Effective Date dated November 27, 2024 |
+| 2024-05-17 | SEBI observations — Strides / OneSource scheme | as stated: NSE Observation Letter dated May 21, 2024 ("SEBI vide its letter date… |
+| 2024-05-21 | Exchange no-objection — Strides / OneSource scheme | as stated: Intimation regarding receipt of Observation Letters from BSE and NSE,… |
 | 2024-05-22 | Stage reached: **exchange noc** | [Updates](https://nsearchives.nseindia.in/corporate/STAR_22052024173136_StridesSEIntimation.pdf) |
-| 2024-07-26 | Other — OneSource (NCLT, Mumbai Bench order directing convening of shareholders' and secured creditors' meetings; received July 29, 2024) | as stated: Intimation dated July 30, 2024 |
+| 2024-07-26 | Other — NCLT order directing meetings of equity shareholders and secured creditors | as stated: Update filing dated July 30, 2024 (Order dated July 26, 2024, receive… |
 | 2024-08-08 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.in/corporate/STAR_08082024154754_SEIntimation.pdf) |
-| 2024-09-10 | Shareholders / creditors meeting — OneSource (Strides equity shareholders at 10:30 hrs and secured creditors at 12:00 hrs; Steriscience and OneSource meetings same day) | as stated: Outcome of NCLT Convened Meeting dated September 11, 2024; proceeding… |
-| 2024-10-16 | Other — OneSource (equity commitments of INR 8,010 mn / USD 95 mn at pre-money equity valuation of USD 1.65 bn) | as stated: Press release dated October 16, 2024 |
-| 2024-11-14 | NCLT order — OneSource (NCLT, Mumbai Bench order sanctioning the Scheme; uploaded on NCLT website November 19, 2024; certified copy received November 26, 2024) | as stated: Intimation dated November 19, 2024; intimation dated November 26, 2024 |
-| 2024-11-21 | Other — OneSource (allotment of 6,277,909 equity shares at INR 1,276/- per share approved by Management Committee on November 21 and November 22, 2024; total consideration INR 8,010 million) | as stated: Intimation dated November 25, 2024 |
-| 2024-11-27 | Effective date — OneSource (certified true copy filed with MCA/RoC by Strides, Steriscience and OneSource) | as stated: Intimation of Effective Date dated November 27, 2024 |
+| 2024-09-10 | Shareholders / creditors meeting — Strides equity shareholders (10:30 hrs) and secured creditors (12:00 hrs); Steriscience and OneSource meetings held the same day | as stated: Outcome of NCLT Convened Meeting, filing dated September 11, 2024 |
+| 2024-11-14 | NCLT order — NCLT, Mumbai Bench order sanctioning the Scheme (uploaded on NCLT website November 19, 2024; certified copy received November 26, 2024) | as stated: Demerger filing dated November 19, 2024 and Record Date filing dated … |
+| 2024-11-25 | Other — OneSource pre-listing fundraise of INR 8,010 million (USD 95 million) completed; shares allotted November 21 and 22, 2024 | as stated: General Updates filing dated November 25, 2024 |
+| 2024-11-27 | Effective date — Strides / Steriscience / OneSource | as stated: Intimation of Effective Date for the Scheme of Arrangement, filing da… |
 | 2024-12-06 | **Record date** | NSE corporate-actions register |
 | 2024-12-06 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2024-12-06 | Record date — OneSource (fixed by the Strides Board on November 26, 2024) | as stated: Record Date intimation dated November 26, 2024 |
-| 2024-12-10 | Allotment — OneSource | as stated: Intimation dated December 11, 2024 ("they have completed allotment of… |
+| 2024-12-06 | Record date — Strides shareholders entitled to OneSource shares | as stated: Record Date intimation dated November 26, 2024 |
+| 2024-12-10 | Allotment — OneSource allotted equity shares to Strides' shareholders as on the record date | as stated: Demerger filing dated December 11, 2024 |
 | 2024-12-11 | Stage reached: **listed** | [Demerger](https://nsearchives.nseindia.in/corporate/STAR_11122024193707_StridesSEintimation.pdf) |
 | 2025-01-24 | **OneSource Specialty Pharma Limited** listed (ONESOURCE) | NSE equity list |
+| 2025-01-24 | Listing and trading — Onesource Specialty Pharma Limited (ONESOURCE) | as stated: NSE's equity list (exchange record); the Company's December 11, 2024 … |
 | 2025-03-19 | Stage reached: **announced** | [General Updates](https://nsearchives.nseindia.in/corporate/STRIDES_532531_19032025114639_StridesSEIntimation.pdf) |
-| 2025-03-19 | Board approval — Pivot Path (in-principle approval by Boards of Strides and Arco Lab for the proposed demerger of the Identified Business of Arco Lab) | as stated: Intimation dated March 19, 2025 |
-| 2025-04-10 | Appointed date — Pivot Path (Demerged Undertaking of Arco Lab vests with Pivot Path) | as stated: Intimation dated May 15, 2025; intimation dated May 20, 2026 |
-| 2025-05-15 | Board approval — Pivot Path (Boards of Arco Lab and Pivot Path approving the Scheme of Arrangement) | as stated: Intimation dated May 15, 2025 |
-| 2026-05-18 | NCLT order — Pivot Path (NCLT, Bengaluru Bench pronounced order approving the Scheme; final order made available on NCLT portal May 20, 2026; certified copy received May 25, 2026) | as stated: Intimation dated May 20, 2026; intimation dated June 1, 2026 |
+| 2025-03-19 | Board approval — In-principle approval by Boards of Strides and Arco Lab for the proposed demerger of the Identified Business of Arco Lab | as stated: General Updates filing dated March 19, 2025 |
+| 2025-04-10 | Appointed date — Demerged Undertaking of Arco Lab vesting with Pivot Path | as stated: Demerger filing dated May 15, 2025 and General Updates filing dated M… |
+| 2025-05-15 | Board approval — Boards of Arco Lab and Pivot Path approved the Scheme of Arrangement | as stated: Demerger filing dated May 15, 2025 |
+| 2026-05-18 | NCLT order — NCLT, Bengaluru Bench approved the Arco Lab–Pivot Path Scheme (final order available on NCLT portal May 20, 2026; certified copy received May 25, 2026) | as stated: General Updates filings dated May 20, 2026 and June 1, 2026 |
 | 2026-05-20 | Stage reached: **nclt sanction** | [General Updates](https://nsearchives.nseindia.com/corporate/STRIDES_532531_20052026131652_SEintimationALDemerger.pdf) |
 | 2026-06-01 | Stage reached: **effective** | [General Updates](https://nsearchives.nseindia.com/corporate/STRIDES_532531_01062026172449_SEIntimationEffectivedate.pdf) |
-| 2026-06-01 | Effective date — Pivot Path | as stated: Intimation dated June 1, 2026 ("the Scheme of Demerger has become eff… |
-| 2026-06-27 | Other — Pivot Path (Strides Board approves strategic investment / sale of majority stake to Ascent Capital-led consortium and Vintage Classic; Pivot Path to be reclassified as an Associate) | as stated: Intimation and press release dated June 27, 2026 |
-| 2026-06-30 | Other — Pivot Path (definitive agreements "proposed to be executed before June 30, 2026"; "Sale of shares is expected to be completed by June 30, 2026") | as stated: Annexure A to intimation dated June 27, 2026 |
-| 2026-07-31 | Other — Pivot Path ("Primary infusion by Ascent into Pivot Path is expected to be completed by July 31, 2026") | as stated: Annexure A to intimation dated June 27, 2026 |
+| 2026-06-01 | Effective date — Arco Lab and Pivot Path Scheme of Demerger | as stated: General Updates filing dated June 1, 2026 |
+| 2026-06-27 | Board approval — Board approved strategic investment by Ascent Capital consortium / sale of majority stake in Pivot Path; definitive agreements proposed before June 30, 2026, share sale expected by June 30, 2026 and primary infusion by July 31, 2026 | as stated: Sale or disposal filing and press release dated June 27, 2026 |
 
 **The stages, as filed:** exchange noc (2024-05-22) → meetings (2024-08-08) → record date (2024-12-06) → listed (2024-12-11) → announced (2025-03-19) → nclt sanction (2026-05-20) → effective (2026-06-01)
 
@@ -58,16 +57,15 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
 | OneSource Specialty Pharma Limited | not stated | — | — | 18,463 | 66.4% | yes |
-| Pivot Path Private Limited, India | FY 2025-26, post-demerger basis: "Standalone Basis Turnover… | 3.0% | — | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,352 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “Pivot Path (Annexure A, June 27, 2026): "Turnover Nil [standalone] | Rs. 1,447 million (including revenues for services rendered to Strides) (Contributes 3% to Strides Turnover) [consolidated]; Networth Rs. 100 million (Contributes ~0.3% to Strides Networth) [standalone] | Rs. 360 million (Contributes 1% to Strides Networth) [consolidated]". For the OneSource demerger, no turnover/net-worth percentage of the listed entity is stated; the documents instead size it by value: "Delivering Strides' shareholders an embedded value of INR 663 per share for Strides' holding in OneSource, representing a ~82% premium over the previous embedded value of INR 364 per share as per the Scheme of Arrangement announced earlier in September '23" and "~₹78,800m Incremental Value Delivered for Strides' Shareholders with the Listing of OneSource" against "Strides market Capitalisation at the time announcement of the Scheme of Arrangement (Sept'23) ~₹53,000m".”
+**In the documents' words:** “Delivering Strides' shareholders an embedded value of INR 663 per share for Strides' holding in OneSource, representing a ~82% premium over the previous embedded value of INR 364 per share as per the Scheme of Arrangement announced earlier in September'23. | "The transaction will unlock ~INR 61,000 mn (~USD 725 mn) of value for Strides' shareholders." | For Pivot Path: "Turnover ... Rs. 1,447 million (including revenues for services rendered to Strides) (Contributes 3% to Strides Turnover)" and "Networth Rs. 100 million (Contributes ~0.3% to Strides Networth) ... Rs. 360 million (Contributes 1% to Strides Networth)"”
 
 **The judge's read of selling pressure:** unlikely — Pivot Path shares allotted to Strides, not to its shareholders; no separate listing — majority stake sold privately to Ascent Capital consortium.
 
@@ -75,8 +73,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **OneSource Specialty Pharma Limited:** "One fully paid-up equity share of Rs. 1/- each of Onesource, for every Two fully paid-up equity shares of Rs. 10/- each of Strides, held by such equity shareholder in Strides." (Share Entitlement Ratio 1:2)
-- **Pivot Path Private Limited, India:** "1 (One) fully paid-up equity share of face value of INR 10 (Rupees Ten only) each of Pivot Path Private Limited ("Resulting Company"), for every 1 (One) fully paid-up equity share of face value of INR 10 (Rupees Ten only) each held in the Arco Lab Private Limited ("Demerged Company")" — "exchange ratio of 1:1"; shares issued to Arco Lab's shareholder, i.e. Strides. "There is no cash consideration payable under the Scheme."
+- **OneSource Specialty Pharma Limited:** 1 (One) equity share of Rs. 1/- each of OneSource for every 2 (Two) equity shares of Rs. 10/- held by the shareholder in Strides
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -87,11 +84,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** Percentage not stated. The NCLT-convened meeting voting results (meeting date 10-09-2024; e-voting cut-off date September 3, 2024) show "Promoter and Promoter Group 2,37,67,542" shares held out of a "GRAND TOTAL" of 9,19,58,214 shares (Public-Institutions 4,42,41,607; Public-Non Institutions 2,39,49,065).
-- **What the promoters will hold in the separated entity:** Not stated as such for OneSource; the Scheme allots to every Strides shareholder on the record date — "Onesource is required to issue and allot, to each shareholder of Strides whose name appears in the Register of Members of Strides and/ or in the Depositories as Equity Shareholder of Strides as on the Record Date, One fully paid-up equity share of Rs. 1/- each of Onesource, for every Two fully paid-up equity shares of Rs. 10/- each of Strides" (i.e. mirrored off the Strides register; the documents do not use the word "mirror" or give a promoter %). For Pivot Path, shares go to the listed parent, not to promoters: "Pivot Path shall become a wholly owned subsidiary of Strides"; after the Ascent transaction the "Resultant Capital Structure of Pivot Path" is "Strides' at 19.95%; Investors at 65.05%; ESOP Pool at 15%".
-- **What a public shareholder receives:** OneSource: "In line with the Share Entitlement Ratio, OneSource has allotted One Equity Share of Re. 1/- each of OneSource for every Two Equity Shares of Rs. 10/- held by Strides' shareholders." Allotment in demat only; physical holders' shares consolidated as "unclaimed shares and credit them to a designated account titled 'OneSource – Unclaimed Securities – Suspense Escrow Account'"; "Fractional Entitlement, if any, shall be consolidated and held in trust by 'Catalyst Trusteeship Limited' on behalf of shareholders entitled to such fractional entitlements", to be sold "at any time within 90 days from the date of allotment by OneSource" with net proceeds distributed. Pivot Path: nothing is received directly by public shareholders of Strides — "Shareholders of Arco Lab (i.e., Strides) shall receive Equity Shares of Pivot Path as per the exchange ratio of 1:1 as a consideration for Demerger."
-- **Management incentives:** Only item stated: the "Resultant Capital Structure of Pivot Path" after the Ascent Capital transaction includes "ESOP Pool at 15%". Treatment of existing options/RSUs/SARs under either scheme, any new plan in a resulting entity, exercise price or pricing date, and management/insider shareholding are not stated.
-- **Insider actions around the separation:** No promoter or management buying, selling or pledging around either separation is stated. Related statements: on the Pivot Path stake sale — "Investors do not belong to the Promoter, Promoter Group or Group Companies of Strides Pharma Science Limited" and "The proposed transaction is not a related party transaction"; on the Strides CIS Limited divestment — "Buyers are not related to any of the Promoter/ Promoter Group/ Group Companies of Strides Pharma Science Limited." In the scheme vote, Promoter and Promoter Group polled 2,37,67,542 shares "100.0000" % in favour.
+- **Promoters in the parent, per the documents:** not stated as a percentage; the voting results of the NCLT-convened meeting of equity shareholders held on 10-09-2024 show "Promoter and Promoter Group 2,37,67,542" shares out of a grand total of 9,19,58,214 shares
+- **What the promoters will hold in the separated entity:** Not stated for the 2024 OneSource demerger (shareholders of Strides receive OneSource shares in the 1:2 entitlement ratio, i.e. mirror entitlement, but no promoter percentage is given). For the 2025 Arco Lab–Pivot Path demerger: "Pivot Path shall become a wholly owned subsidiary of Strides." After the 2026 stake sale the documents state the holding of Strides, not of the promoters: "Resultant Capital Structure of Pivot Path — Strides' at 19.95%; Investors at 65.05%; ESOP Pool at 15%"
+- **What a public shareholder receives:** 2023/2024 OneSource scheme: "In line with the Share Entitlement Ratio, OneSource has allotted One Equity Share of Re. 1/- each of OneSource for every Two Equity Shares of Rs. 10/- held by Strides' shareholders." Fractional entitlements "shall be consolidated and held in trust by 'Catalyst Trusteeship Limited' on behalf of shareholders entitled to such fractional entitlements", to be sold within 90 days and the net proceeds distributed. 2025 Arco Lab–Pivot Path scheme: nothing goes to public shareholders of Strides — "Pursuant to demerger, Arco Lab's Investment in Pivot Path shall stand cancelled and Shareholders of Arco Lab (i.e., Strides) shall receive Equity Shares of Pivot Path as per the exchange ratio of 1:1 as a consideration for Demerger."
+- **Management incentives:** Treatment of existing grants is not stated. For Pivot Path after the 2026 transaction: "Resultant Capital Structure of Pivot Path — Strides' at 19.95%; Investors at 65.05%; ESOP Pool at 15%". No exercise price or pricing date and no management or insider shareholding is stated.
+- **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** Pivot Path capital structure: Strides 19.95%, Investors 65.05%, ESOP Pool 15%. Buyers (Ascent Growth Trust, Vintage Classic) do not belong to promoter/promoter group. Promoter stake not stated. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -701,50 +698,50 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/ONESOURCE.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Bio-pharmaceutical business (research, development, manufacture and commercialisation of biological drug products and end-to-end CDMO services) — reported segment until FY2024, consolidated → OneSource Specialty Pharma Limited** · unit ₹ million · Profit line is the Ind AS 108 segment result: 'Profit/(loss) before exceptional items and tax' (nil for this segment) and 'Profit/(loss) before tax' after exceptional items and share of loss of joint ventures/associates — i.e. PBT, not EBITDA. Revenue is external segment revenue (reported as nil in both years; the business was held through an associate, OneSource/Stelis Biopharma, so its results came in only as share of loss of associates). Segment assets are split into assets other than equity-accounted investments and the equity-method investment (shown here as the equity-method investment, with the other-assets figure in notes). Standalone (Annual Report 2024 — page 404-405): Bio-pharmaceutical revenue nil both years; segment assets 5,161.36 (31-Mar-24) and 5,163.65 (31-Mar-23); segment liabilities nil. No segment disclosure from FY2025 onward — after the demerger the group reports a single 'Pharmaceutical' segment.
+**Bio-pharmaceutical business (research, development, manufacture and commercialisation of biological drug products and end-to-end CDMO services) — consolidated reportable segment carved out ahead of the CDMO demerger → OneSource Specialty Pharma Limited** · unit ₹ million · Profit line shown is 'Segment results – profit/(loss) before exceptional items and tax' (= segment result, nil for this segment); revenue is external 'Revenue from operations' (segment reported nil revenue in both years). Segment PBT was a loss driven entirely by share of loss of JV/associates: ₹(1,219.35)m FY24 and ₹(2,553.11)m FY23 (incl. FY23 exceptional net gain ₹191.34m). Segment assets split: assets other than equity-method investments, plus equity-method investment (OneSource/Stelis) of ₹1,807.12m at 31-Mar-24 and ₹3,026.47m at 31-Mar-23, not added into the figure below. Standalone books showed Bio-pharmaceutical segment assets of ₹5,161.36m (31-Mar-24) and ₹5,163.65m (31-Mar-23), nil revenue and nil liabilities (Annual Report 2024 — pages 404-405).
 
-| | FY2023 | FY2024 |
-|---|---:|---:|
-| Revenue (₹ million) | 0.0 | 0.0 |
-| Revenue growth (%) | — | — |
-| Operating profit (₹ million) | 0.0 | 0.0 |
-| Operating profit growth (%) | — | — |
-| Operating margin (%) | — | — |
-| PAT (₹ million) | -2,553 | -1,219 |
-| PAT growth (%) | — | +52.2% |
-| Segment assets (₹ million) | 3,026 | 1,807 |
-| Segment liabilities (₹ million) | 0.0 | 0.0 |
-| Capital employed (₹ million) | 3,026 | 1,807 |
-| Return on capital employed (%) | 0.0 | 0.0 |
-| Segment assets / revenue (x) | — | — |
-| Capex (₹ million) | — | — |
+| | FY2023 | FY2024 | FY2025 |
+|---|---:|---:|---:|
+| Revenue (₹ million) | 0.0 | 0.0 | — |
+| Revenue growth (%) | — | — | — |
+| Operating profit (₹ million) | 0.0 | 0.0 | — |
+| Operating profit growth (%) | — | — | — |
+| Operating margin (%) | — | — | — |
+| PAT (₹ million) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ million) | 5.1 | 2.8 | — |
+| Segment liabilities (₹ million) | 0.0 | 0.0 | — |
+| Capital employed (₹ million) | 5.1 | 2.8 | — |
+| Return on capital employed (%) | 0.0 | 0.0 | — |
+| Segment assets / revenue (x) | — | — | — |
+| Capex (₹ million) | — | — | — |
 
-*Sources:* Annual Report 2024 — pages 294-295
+*Sources:* Annual Report 2024 — page 294; Annual Report 2024 — page 295; Annual Report 2025 — page 316 (segment discontinued: single 'Pharmaceutical' segment post demerger)
 
-*Not in the pages read:* No revenue, EBITDA, capex or true PAT (tax is unallocated; 'PAT' shown is segment PBT). Other-than-equity-method segment assets: 5.10 (FY23), 2.81 (FY24). No post-FY2024 figures.
+*Not in the pages read:* No PAT, capex, or standalone/consolidated revenue for the segment; from FY25 it ceased to be a reported segment, so no FY25/FY26 figures.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* Arco Lab Private Limited / Arcolab's Life Sciences business, Identified CDMO Business, Identified Business and Digital Innovation business carry no financials — only Strides' investment carrying value in Arcolab (1,122.79; 1,339.27 after 216.48 invested in FY26).
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* Arco Lab Private Limited / Arco Lab's Life (only Strides' investment carrying value ₹1,122.79m → ₹1,339.27m, no own financials), Identified CDMO Business, Identified Business, Life Sciences business, Digital Innovation business: no financial figures on these pages.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9034cd74-11a8-4022-b264-1470d9c31d9f.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/7591369b-b3bf-458a-9e6e-710f89f6bd4b.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/f3fef37a-74ee-491f-87fe-2e2cc48005a0.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=559ab198-3e4d-4ed5-8a98-745a31c03b71.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5c454bf8-5387-4dee-91d5-220cf0681c0a.pdf); [Presentation May 2026](https://www.strides.com/Upload/PDF/strides-q4fy26-investor-presentation.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3ada5c53-065b-4cf6-a49a-8e35f2171226.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b5e15d98-b7ee-4831-a7ba-e622041afc97.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97a20ca8-f543-4456-91e9-a60daa8508c0.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (STAR) | OneSource Specialty Pharma Limited (ONESOURCE) | Pivot Path Private Limited, India |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* | *no numbers on file* |
-| Sales (₹ cr) | 4,859 (Mar 2026) | 1,422 (Mar 2026) | — |
-| Sales growth (%) | 6.4 (Mar 2026) | -1.6 (Mar 2026) | — |
-| Operating margin (%) | 19 (Mar 2026) | 21.4 (Mar 2026) | — |
-| Operating profit growth (%) | 15.2 (Mar 2026) | -34.9 (Mar 2026) | — |
-| PAT margin (%) | 11.8 (Mar 2026) | -5.2 (Mar 2026) | — |
-| ROCE % | 18 (Mar 2026) | 1 (Mar 2025) | — |
-| Debtor Days | 97 (Mar 2026) | 177 (Mar 2026) | — |
-| Inventory Days | 305 (Mar 2026) | 360 (Mar 2026) | — |
-| Days Payable | 244 (Mar 2026) | 307 (Mar 2026) | — |
-| Cash Conversion Cycle | 157 (Mar 2026) | 230 (Mar 2026) | — |
-| Working Capital Days | 38 (Mar 2026) | -29 (Mar 2026) | — |
-| Debt / equity (x) | 0.6 (Mar 2026) | 0.3 (Mar 2026) | — |
-| Borrowings (₹ cr) | 1,758 (Mar 2026) | 1,504 (Mar 2026) | — |
+| Metric (latest year) | Parent (STAR) | OneSource Specialty Pharma Limited (ONESOURCE) |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *its own reported statements* |
+| Sales (₹ cr) | 4,859 (Mar 2026) | 1,422 (Mar 2026) |
+| Sales growth (%) | 6.4 (Mar 2026) | -1.6 (Mar 2026) |
+| Operating margin (%) | 19 (Mar 2026) | 21.4 (Mar 2026) |
+| Operating profit growth (%) | 15.2 (Mar 2026) | -34.9 (Mar 2026) |
+| PAT margin (%) | 11.8 (Mar 2026) | -5.2 (Mar 2026) |
+| ROCE % | 18 (Mar 2026) | 1 (Mar 2025) |
+| Debtor Days | 97 (Mar 2026) | 177 (Mar 2026) |
+| Inventory Days | 305 (Mar 2026) | 360 (Mar 2026) |
+| Days Payable | 244 (Mar 2026) | 307 (Mar 2026) |
+| Cash Conversion Cycle | 157 (Mar 2026) | 230 (Mar 2026) |
+| Working Capital Days | 38 (Mar 2026) | -29 (Mar 2026) |
+| Debt / equity (x) | 0.6 (Mar 2026) | 0.3 (Mar 2026) |
+| Borrowings (₹ cr) | 1,758 (Mar 2026) | 1,504 (Mar 2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -752,21 +749,18 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Pharmaceutical business (development, manufacture and commercialisation of pharmaceutical products other than biological drugs); sole reportable segment from FY2025 | 48,587 | 19.0% | 149.7% | 0.54x | ₹ million | FY2026 |
-| Pharmaceutical business (standalone reportable segment; sole segment from FY2025) | 21,801 | 12.3% | 2.5% | 2.47x | ₹ million | FY2026 |
+| Pharmaceutical business (development, manufacture and commercialisation of pharmaceutical products other than biological drugs) — sole reportable segment from FY25 | 48,587 | 19.0% | 149.7% | 0.54x | ₹ million | FY2026 |
+| Pharmaceutical business — standalone reportable segment (sole segment from FY25) | 21,801 | 12.3% | 2.5% | 2.47x | ₹ million | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: Strides FY26 revenue ₹48,587 million, up 6.4% YoY (ex-US markets +21%); FY25 revenue ₹45,653m, +17.2% YoY; separated business: Pivot Path FY26 revenue ₹1,447 million (3% of Strides turnover), EBITDA ₹169 million “Pivot Path has established a profitable operating platform serving specialised, high-value segments within the life sciences industry. For FY26, the carved-out business reported revenue of ₹1,447 million (including revenues for services rendered to Strides) and EBITDA of ₹169 million, demonstrating its operating scale and growth trajectory.”
-- **operating margin** — parent / remaining: Strides FY25 EBITDA ₹8,028m at 17.6% margin, up 252bps YoY, after losing the high-margin Softgel business to OneSource; FY26 EBITDA margin 19%; separated business: Pivot Path FY26 EBITDA ₹169m on revenue ₹1,447m; OneSource guidance in its corporate deck: EBITDA% ~34% for FY2025E rising to >40% over 3–4 years “We also surpassed our EBITDA outlook, delivering ₹8,028m in FY25, reflecting enhanced operational efficiency and margin resilience post-demerger.”
-- **operating margin** — parent / remaining: Strides 9MFY25 EBITDA +43.3% YoY despite loss of the demerged business; separated business: Softgel (high margin) business demerged into OneSource “Our 9MFY25 revenue increased by 17.3% YoY and EBITDA grew by 43.3% YoY despite the demerger of high margin Softgel business.”
-- **debt and leverage** — parent / remaining: Strides net debt reduced from ₹20,350m (Mar'24) to ₹15,222m (Mar'25), Net Debt/EBITDA 1.9x, and to ₹1,437 crores with 1.55x at FY26; separated business: ₹2,833m of debt pushed down to OneSource; ₹7,048m of Strides corporate guarantees to OneSource released “Reduced ₹5,128m of Net Debt (including ₹2,833m pushdown to OneSource) as per the outlook”
-- **debt and leverage** — parent / remaining: Strides: "Corporate guarantees of ₹7,048m to OneSource released, Zero outstanding guarantees as on date"; separated business: OneSource — guarantees from the parent withdrawn after the demerger “Corporate guarantees of ₹7,048m to OneSource released, Zero outstanding guarantees as on date”
-- **cash** — parent / remaining: Strides retained stake in OneSource carried outside net debt: ~₹3,050m (22 May'25), ₹3,672m (28 July'25), ₹3,386m (H1FY26), ₹337 crores (FY26); separated business: OneSource (Strides holds 1.6% shares in OneSource via Arco Lab Pvt Ltd, a 100% subsidiary of Strides) “Strides retained interest in OneSource is currently worth ₹ 3,386 m (not included in net debt)”
-- **cash** — parent / remaining: Strides realises ~₹1,000 million cash from the Pivot Path stake sale (₹750 million at initial closing; ₹250 million on the first anniversary of closing) and retains ~20%; separated business: Pivot Path receives ₹500 million of primary capital from Ascent Capital; valued at ~₹2,300m post-money “The transaction values Pivot Path at ~₹2,300m on a post-money basis, enables Strides to realise ~₹1,000m while retaining a ~20% stake, and includes a primary capital infusion of ₹500 million to accelerate Pivot Path's next phase of growth.”
-- **capex and capital intensity** — parent / remaining: Strides FY25 capex ₹2,425m funded from internal accruals; FY26 capex ₹418 crores (₹236 crores tangible, ₹182 crores intangible); separated business: Pivot Path: "₹500 million primary capital to accelerate growth and technology investments" “Capex of ₹2,425m* funded from internal accruals”
-- **return on capital** — parent / remaining: Strides RoCE 4.48% (FY23), 12.83% (FY24), 14.86% (FY25), 16.0% (Q2FY26), 15.76%/15.8% (FY26); "FY23 and FY24 ratios include the demerged Softgel business to OneSource"; separated business: not stated for OneSource or Pivot Path “This is reflected in our return metrics as well with ROCE improving to 15.76% for FY '26 from single digits just 2 years back.”
-- **working capital** — parent / remaining: Strides cash-to-cash cycle 140 days (FY23), 129 (FY24, including the demerged Softgel business), 117 (FY25), 124 days (FY26); separated business: not stated “FY23 and FY24 ratios include the demerged Softgel business to OneSource”
+- **operating margin** — parent / remaining: EBITDA margin of 19% for FY26 (EBITDA of INR925 crores, 15% growth YoY) and 19.0% in Q2FY26; gross margins in the 58%–60% range; separated business: Pivot Path reported FY26 revenue of ₹1,447 million and EBITDA of ₹169 million “For FY26, the carved-out business reported revenue of ₹1,447 million (including revenues for services rendered to Strides) and EBITDA of ₹169 million, demonstrating its operating scale and growth trajectory.”
+- **growth** — parent / remaining: 9MFY25 revenue increased by 17.3% YoY and EBITDA grew by 43.3% YoY after the demerger; FY25 revenue grew 17.2% YoY with EBITDA of ₹8,028m; separated business: The demerged Softgel business was a high-margin business that left the parent “Our 9MFY25 revenue increased by 17.3% YoY and EBITDA grew by 43.3% YoY despite the demerger of high margin Softgel business.”
+- **debt and leverage** — parent / remaining: Net debt reduced by ₹5,128m in FY25 to ₹15,222m with Net Debt to EBITDA at 1.9x; 1.55x as at March 2026; separated business: ₹2,833m of debt was pushed down to OneSource and corporate guarantees of ₹7,048m to OneSource were released “Reduced ₹5,128m of Net Debt (including ₹2,833m pushdown to OneSource) as per the outlook”
+- **return on capital** — parent / remaining: RoCE of 9.7% in FY24, 14.9% in FY25 and 16.0% in Q2FY26 (15.76% for FY26); Net Debt to EBITDA 3.5x in FY24 versus 1.7x in Q2FY26; separated business: The FY24 (and FY23) ratios still include the Softgel business that went to OneSource “FY24 ratios include the demerged Softgel business to OneSource”
+- **cash** — parent / remaining: Cash and cash equivalents of ₹2,999m at Sept'25; operating cashflow of ₹3,915m in H1FY26; separated business: Strides' retained interest in OneSource was worth ₹3,386m (₹3,672m as of 28 July'25, ~₹3,050m as of 22 May'25, ₹337 crores at March 2026) and is excluded from net debt; Strides holds 1.6% shares in OneSource via Arco Lab Pvt Ltd “Strides retained interest in OneSource is currently worth ₹ 3,386 m (not included in net debt)”
+- **tax** — parent / remaining: Cost of acquisition of equity shares apportioned 89.35% to Strides Pharma Science Limited; separated business: 10.65% apportioned to Onesource Specialty Pharma Limited; receipt of the Resulting Company's shares is not taxable for shareholders “Further, according to the provisions of Section 47 (vi) (d) of the Income Tax Act, the issue of shares of the Resulting Company i.e., Onesource to the equity shareholders of the Demerged Company 1 i.e., Strides pursuant to the Scheme is not a transfer and hence not taxable in the hands of the equity shareholders.”
+- **capex and capital intensity** — parent / remaining: Capex of ₹2,425m in FY25 and INR418 crores in FY26 funded from internal accruals; maintenance capex guided at INR100–150 crores; separated business: Pivot Path receives ₹500 million of primary capital from Ascent Capital to accelerate its next phase of growth “₹500 million primary capital to accelerate growth and technology investments”
 
 **The checklist:**
 

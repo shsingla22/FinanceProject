@@ -6,11 +6,7 @@
 
 **CONFIRMED** (this company IS the resulting company of SKF India Limited's demerger, listed on 2025-12-05 — the spun entity in its first year) · **LISTED <1Y — selling-pressure window; the bargain forms here** · score 5.0/10 · spin-off · 10 filing(s) from CALLS, NSE · first 2026-02-03, latest 2026-08-12
 
-**The separated entities — every one the documents name:**
-
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **SKF India Limited** | The Demerged Company retaining the automotive business; it also manufactures certain products for SKF India (… | listed 1999-01-27 as SKFINDIA (NSE) | not stated |
+**The other parties to the scheme(s)** — not separated entities: SKF India Limited (SKFINDIA) — the company this one was spun out of
 
 **What is being separated, as the documents put it:** SKF India's Industrial Undertaking — bearings and units, condition monitoring and services for industrial sectors — into SKF India (Industrial) Limited — class `value_unlocking`.
 
@@ -20,15 +16,14 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 1999-01-27 | **SKF India Limited** listed (SKFINDIA) | NSE equity list |
-| 2024-12-17 | Other — SKF India (Industrial) Limited — incorporation of the Resulting Company | as stated: MCA Master Data enclosed with Updates filing dated February 09, 2026;… |
-| 2025-09-26 | NCLT order — SKF India Limited (Demerged Company) and SKF India (Industrial) Limited (Resulting Company) | as stated: Updates filing dated February 09, 2026 ("the Order passed by the Hon'… |
-| 2025-10-01 | Appointed date — SKF India (Industrial) Limited | as stated: Note 4 to Unaudited Financial Results, Outcome of Board Meeting filin… |
-| 2025-10-01 | Effective date — SKF India (Industrial) Limited | as stated: Note 4 to Unaudited Financial Results, filing dated February 03, 2026… |
-| 2025-10-15 | Record date — SKF India Limited (Demerged Company) shareholders | as stated: Note 5 to Unaudited Financial Results, Outcome of Board Meeting filin… |
+| 2024-12-17 | Other — SKF India (Industrial) Limited — incorporation of the Resulting Company | as stated: Outcome of Board Meeting, notes to unaudited financial results, filin… |
+| 2025-09-26 | NCLT order — SKF India Limited and SKF India (Industrial) Limited | as stated: Updates filing dated February 09, 2026 and notes to unaudited financi… |
+| 2025-10-01 | Appointed date — SKF India (Industrial) Limited | as stated: Note 4 to unaudited financial results, Outcome of Board Meeting filin… |
+| 2025-10-01 | Effective date — SKF India (Industrial) Limited — certified copy of the NCLT Order filed with the Registrar of Companies | as stated: Note 4 to unaudited financial results, Outcome of Board Meeting filin… |
+| 2025-10-15 | Record date — SKF India Limited (Demerged Company) shareholders | as stated: Note to unaudited financial results, Outcome of Board Meeting filing … |
 | 2025-12-05 | **SKF India (Industrial) Ltd.** itself listed | NSE equity list |
 | 2025-12-05 | Stage reached: **listed** | filing |
-| 2025-12-05 | Listing and trading — SKF India (Industrial) Limited, on BSE and NSE Main Board | as stated: Updates filing dated February 09, 2026; Note 7 to Unaudited Financial… |
+| 2025-12-05 | Listing and trading — SKF India (Industrial) Limited, on BSE and NSE Main Board | as stated: Updates filing dated February 09, 2026 and note to unaudited financia… |
 | 2026-02-09 | Stage reached: **nclt sanction** | [Updates](https://nsearchives.nseindia.com/corporate/SKFINDUS25_09022026164721_NSE.pdf) |
 | 2026-02-09 | Other — SKF India (Industrial) Limited — CIN changed from U28140PN2024PLC236396 to L28140PN2024PLC236396 and status changed from "Unlisted" to "Listed" on MCA Master Data | as stated: Updates filing dated February 09, 2026 |
 
@@ -40,13 +35,7 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
-
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| SKF India Limited | not stated | — | 100.0% (FY2026) | 7,246 | 36.9% | yes |
-
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹12,415 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+The documents on file give no size for the separated piece, and it has no market value yet.
 
 **The judge's read of selling pressure:** unclear — Documents state only the 1:1 allotment to every parent shareholder and the December 5, 2025 listing; no index, size or shareholder-flow detail given
 
@@ -59,13 +48,12 @@
 | Company | Promoters | FIIs | DIIs | Public | Quarter |
 |---|---:|---:|---:|---:|---|
 | SKF India (Industrial) Ltd. (SKFINDUS) | 52.58% | 7.42% | 26.74% | 13.26% | Sep 2026 |
-| SKF India Limited (SKFINDIA) | 52.58% | 7.14% | 25.51% | 14.77% | Sep 2026 |
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
 - **What the promoters will hold in the separated entity:** not stated in the documents on file.
-- **What a public shareholder receives:** the Resulting Company has allotted 49,437,963 fully paid-up equity shares of face value Rs. 10/- each, to the shareholders of the Demerged Company as on the record date i.e. October 15, 2025, in the share exchange ratio 1:1 i.e. 1 (one) fully paid-up equity share of the Resulting Company having face value of Rs. 10/- each for every 1 (one) fully paid-up equity share of Rs. 10/- each of the Company
+- **What a public shareholder receives:** Consequently, the Resulting Company has allotted 49,437,963 fully paid-up equity shares of face value Rs. 10/- each, to the shareholders of the Demerged Company as on the record date i.e. October 15, 2025, in the share exchange ratio 1:1 i.e. 1 (one) fully paid-up equity share of the Resulting Company having face value of Rs. 10/- each for every 1 (one) fully paid-up equity share of Rs. 10/- each of the Company.
 - **Management incentives:** not stated in the documents on file.
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** not stated — documents disclose only 49,437,963 shares allotted 1:1 to all SKF India shareholders on record date October 15, 2025; no promoter stake or management incentive given · *option pricing date:* not stated
@@ -200,81 +188,49 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**SKF India Limited (SKFINDIA) — as reported since listing**
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 4,570 | 4,920 | 3,763 |
-| Sales growth (%) | +6.2% | +7.7% | -23.5% |
-| Operating profit (₹ cr) | 718 | 745 | 449 |
-| Operating profit growth (%) | -4.1% | +3.8% | -39.7% |
-| Operating margin (%) | 15.7 | 15.1 | 11.9 |
-| PAT (₹ cr) | 552 | 566 | 266 |
-| PAT growth (%) | +5.1% | +2.5% | -53.0% |
-| PAT margin (%) | 12.1 | 11.5 | 7.1 |
-| EPS (₹) | 112 | 115 | 53.8 |
-
-*Source: ProfitStatement/NiftyTotalMarket/SKFINDIA.csv (consolidated, screener.in); growth and margins computed here.*
-
-**Industrial Business / Demerged Industrial Undertaking (SKF India (Industrial) Limited, standalone) → SKF India (Industrial) Limited (the 'Resulting Company'; listed BSE 544572 / NSE SKFINDUS) — demerged from SKF India Limited (the 'Demerged Company')** · unit INR million (MINR) · Pages carry entity-level standalone P&L lines, not segment-result tables. The 'operating_profit' field below carries Profit Before Tax (PBT) exactly as disclosed — no EBIT/EBITDA or segment result is given on these pages. Revenue is 'Revenue from operations' (external; Q4FY26 mix shows ~9% is inter-company sales to SKF India, not separately deducted). FY2026 = year ended 31 March 2026. The 'FY2025' row is NOT a full year: it is the stub period 17 December 2024 (incorporation) to 31 March 2025, and those Industrial-undertaking figures were extracted by management from SKF India Limited's records under Appendix C of Ind AS 103. Quarterly revenue from operations (MINR, Presentation May 2026 page 10): 4QFY25 7,206; 1QFY26 8,206; 2QFY26 8,131; 3QFY26 8,610; 4QFY26 9,457. Appointed/Effective Date of demerger 1 October 2025; listed 5 December 2025.
+**Industrial Business / demerged Industrial undertaking (Demerged Undertaking) transferred to the Resulting Company → SKF India (Industrial) Limited** · unit ₹ million (MINR) · Pages carry entity-level (not segment-table) figures for the Resulting Company: Revenue from operations, Profit before Tax and Profit after Tax. No EBIT/EBITDA/segment-result line is disclosed, so operating_profit is left null; PBT was INR 2,212.7 Mn in FY2026 and INR 1,644.0 Mn in the 17-Dec-2024-to-31-Mar-2025 period. Revenue is external revenue from operations (channel mix shown separately includes inter-company sales to SKF India, ~9% of 4QFY26). FY2025 line is a stub period (17th December 2024 to 31st March 2026 incorporation date to year-end), not a full 12 months; comparable 4QFY25 quarterly revenue of 7,206 MINR equals that stub figure.
 
 | | FY2025 | FY2026 |
 |---|---:|---:|
-| Revenue (INR million (MINR)) | 7,206 | 34,404 |
+| Revenue (₹ million (MINR)) | 7,206 | 34,404 |
 | Revenue growth (%) | — | +377.4% |
-| Operating profit (INR million (MINR)) | 1,644 | 2,213 |
-| Operating profit growth (%) | — | +34.6% |
-| Operating margin (%) | 22.8 | 6.4 |
-| PAT (INR million (MINR)) | 1,213 | 2,177 |
+| Operating profit (₹ million (MINR)) | — | — |
+| Operating profit growth (%) | — | — |
+| Operating margin (%) | — | — |
+| PAT (₹ million (MINR)) | 1,213 | 2,177 |
 | PAT growth (%) | — | +79.4% |
-| Segment assets (INR million (MINR)) | — | — |
-| Segment liabilities (INR million (MINR)) | — | — |
-| Capital employed (INR million (MINR)) | — | — |
+| Segment assets (₹ million (MINR)) | — | — |
+| Segment liabilities (₹ million (MINR)) | — | — |
+| Capital employed (₹ million (MINR)) | — | — |
 | Return on capital employed (%) | — | — |
 | Segment assets / revenue (x) | — | — |
-| Capex (INR million (MINR)) | — | 2,397 |
+| Capex (₹ million (MINR)) | — | 2,397 |
 
-*Sources:* Annual Report 2026 — page 83 (stub period 17 Dec 2024 to 31 Mar 2025, not a full fiscal year); Annual Report 2026 — page 83
+*Sources:* Annual Report 2026 — page 83
 
-*Latest quarter (H1 FY2026-27 (six months to 30 Sep 2026; Q2 FY27 not disclosed standalone on these pages). Q1 FY27 alone: revenue INR 9.7 billion, PBT margin 9.0%, cash conversion 63% (Presentation Aug 2026 page 17)):* revenue 20140, operating profit None — Presentation Nov 2026 — page 16 (states 'Revenue from Operations INR 2014 Cr', PBT margin 11.0%, cash conversion 19.5%; 2,014 crore = 20,140 MINR, unit-converted only)
+*Latest quarter (Q1 FY27):* revenue 9700, operating profit None — Presentation Aug 2026 — page 17
 
-*Not in the pages read:* No segment assets, segment liabilities, depreciation, EBIT/EBITDA; no FY2025 capex; no FY2027 annual figures; H1 FY27 absolute PBT not given (margin only).
+*Not in the pages read:* No segment assets, segment liabilities, depreciation, EBIT/EBITDA; no FY2024 (company incorporated Dec 2024); FY2025 capex absent. Q1 FY27 revenue stated as 9.7 BINR with 9.0% PBT margin only.
 
-*Businesses with no numbers in the pages read (1 annual report(s) and 3 presentation(s) on file):* No numbers at all for the business remaining with the parent — SKF India Limited's Automotive business/segment. The pages contain no segment-reporting tables from older SKF India Limited annual reports, so no Automotive or remaining-segment revenue, profit, assets or capex appears.
+*Businesses with no numbers in the pages read (1 annual report(s) and 3 presentation(s) on file):* Pages carry no separate segment financials for any business remaining with the parent: SKF India (Industrial) is a single Industrial-business entity post-demerger; only channel mix (Distribution, OEM, Exports, SKF India, Others) percentages are given, with no profit, assets or liabilities. H1 FY2026-27 revenue INR 2,014 Cr and 11.0% PBT margin (Presentation Nov 2026 — page 16) are half-year, not annual.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/14a18ae7-50d9-407c-b1f9-3fe2268b987e.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b92ae758-f964-4e87-b9c5-8d2f717774a9.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8956b8b9-d063-4638-be74-d543e3a7ddb6.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=58c6120f-ab85-4d9e-a183-9d902375ccc1.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (SKFINDUS) | SKF India Limited (SKFINDIA) |
-|---|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* |
-| Sales (₹ cr) | 3,440 (Mar 2026) | 3,763 (Mar 2026) |
-| Sales growth (%) | 377.1 (Mar 2026) | -23.5 (Mar 2026) |
-| Operating margin (%) | 11.3 (Mar 2026) | 11.9 (Mar 2026) |
-| Operating profit growth (%) | 142.2 (Mar 2026) | -39.7 (Mar 2026) |
-| PAT margin (%) | 6.3 (Mar 2026) | 7.1 (Mar 2026) |
-| ROCE % | 30 (Mar 2025) | 24 (Mar 2025) |
-| Debtor Days | 88 (Mar 2026) | 70 (Mar 2026) |
-| Inventory Days | 84 (Mar 2026) | 52 (Mar 2026) |
-| Days Payable | 116 (Mar 2026) | 89 (Mar 2026) |
-| Cash Conversion Cycle | 56 (Mar 2026) | 33 (Mar 2026) |
-| Working Capital Days | 34 (Mar 2026) | 44 (Mar 2026) |
-| Debt / equity (x) | 0 (Mar 2026) | 0 (Mar 2026) |
-| Borrowings (₹ cr) | 5 (Mar 2026) | 3 (Mar 2026) |
-
-*Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
+Only the parent's figures are on file: Sales (₹ cr) 3,440 (Mar 2026); Sales growth (%) 377.1 (Mar 2026); Operating margin (%) 11.3 (Mar 2026); PAT margin (%) 6.3 (Mar 2026); Operating profit growth (%) 142.2 (Mar 2026); Debtor Days 88 (Mar 2026); Inventory Days 84 (Mar 2026); Days Payable 116 (Mar 2026); Cash Conversion Cycle 56 (Mar 2026); Working Capital Days 34 (Mar 2026); ROCE % 30 (Mar 2025); Debt / equity (x) 0 (Mar 2026); Borrowings (₹ cr) 5 (Mar 2026). The separated business has no comparable numbers in the documents read.
 
 **What the documents themselves say about the differences:**
 
-- **operating margin** — parent / remaining: not stated; separated business: Q3 FY25-26 PBT 13.6% excluding one-time demerger expenses; Q4 FY25-26 reported PBT margin 9.5%, 11.5% excluding demerger expenses (vs 13.1% in Q3 adjusted); Q1 FY26-27 PBT margin 9.0%, down 288 bps YoY; guidance of about 13% near term and about 15% by '29-'30, aspiration 16% to 18% “If you ask what specifically caused the decline in margin from 13.1% to 11.5% if you remove the one -off demerger expenses, the biggest reason was the mix change.”
-- **working capital** — parent / remaining: not stated; separated business: Net working capital reduced 2.8% quarter-on-quarter to 18.7% of sales in Q4 FY25-26, driven by inventory reduction from 16.9% to 16.0% of sales; expected in the range of 19% to 20% of sales going forward “And then in net working capital also, we came in strong, reduced our net working capital by 2.8% quarter -on-quarter and delivered 18.7% of sales net working capital.”
-- **growth** — parent / remaining: not stated; separated business: Q3 FY25-26 revenue Rs. 8,609.5 million, +5.9% QoQ; Q4 FY25-26 sales growth 9.8% QoQ (31% YoY) at INR 9.5 billion; Q1 FY26-27 revenue Rs. 9,707.7 million, +18.3% YoY and +2.6% QoQ; interim growth forecast around 8% “We had a sales growth of 9.8% with INR 9.5 billion of sales.”
-- **capex and capital intensity** — parent / remaining: not stated; separated business: Capex of around INR 800 crores plus over FY26/FY27 to FY29/FY30, largely a new Pune plant approved by the Board on February 03, 2026 and expected to be commissioned by end of calendar year 2028; earlier INR 350 crores to INR 400 crores referenced for channel expansion (DGBB and TRB channels); higher depreciation charges expected as a drag “So, on capex, the o verall plan for the between FY 26, FY27 to FY 29, FY30, we are looking at doing a c apex spend of around INR 800 crores plus, which includes a significant chunk of investment on the new Pune plant which we are in the process of setting up.”
-- **other** — parent / remaining: not stated; separated business: One-time demerger expenses (IT cost, professional services, stamp duty including estimated transfer premium on land transfer) of Rs. 1,800.8 million in the quarter and Rs. 1,961 million in the nine months ended December 31, 2025, plus INR 183 million in Q4 FY25-26, taking Q3 FY25-26 profit before tax to Rs. (671.4) million; Q1 FY26-27 PBT also carried demerger-related expenses “During the quarter and nine months ended 31 December 2025, the Company accounted certain demerger expenses for IT Cost, professional services and stamp duty, including estimated transfer premium payable to statutory authorities to effect transfer of registration of {and acquired under the Scheme, aggregating to Rs. 1,800.8 million and Rs. 1,961 million, respectively, which have been included under "Exceptional items".”
-- **cash** — parent / remaining: not stated; separated business: Significant jump in cash flow in Q4 FY25-26, partly from net working capital reduction, tax adjustments and other items including interest income “But this quarter, we have seen a significant jump in the cash flow, partly due to the net working capital reduction as well as some t ax adjustments which were made.”
-- **debt and leverage** — parent / remaining: not stated; separated business: Finance cost of Rs. 0.1 million for the quarter and Rs. 1.9 million for the nine months ended December 31, 2025 “(f) Finance cost 0.1 0.7 19 14”
-- **tax** — parent / remaining: not stated; separated business: Total tax expense of Rs. (170.5) million for the quarter ended December 31, 2025 (current tax Rs. 151.9 million, deferred tax credit Rs. (322.4) million) and Rs. 326.0 million for the nine months “Total tax expense (170.5) _244.3 326.0 430.9”
+- **working capital** — parent / remaining: not stated; separated business: Net working capital reduced 2.8% quarter-on-quarter to 18.7% of sales in Q4 FY26, driven by inventory reduction from 16.9% to 16.0% of sales; higher receivables from intercompany sales to SKF India Limited and higher payables to SKF India and sister companies; guided to 19%-20% of sales going forward “And then in net working capital also, we came in strong, reduced our net working capital by 2.8% quarter -on-quarter and delivered 18.7% of sales net working capital.”
+- **operating margin** — parent / remaining: not stated; separated business: Q4 FY26 PBT margin 9.5% reported; adjusted for one-off demerger expenses 11.5% in Q4 FY26 versus 13.1% in Q3 FY26, the decline driven by a mix shift to lower-margin OEM business and higher employee cost; Q1 FY27 PBT margin 9.0% (-288 bps YoY) “And so, if you remove both of them, then the previous quarter, that is Q3 '26, would have been 13.1% and the current quarter would have been 11.5%.”
+- **growth** — parent / remaining: not stated; separated business: Q4 FY26 sales growth of 9.8% quarter-on-quarter with INR 9.5 billion of sales and 31% year-on-year; Q1 FY27 revenue Rs. 9,707.7 million, 18.3% growth; OEM mix up from 46% to 50%, distribution down from 38% to 32%; wind grew 91.0% QoQ and rail about 12.0%; forecast growth around 8% until the new plant “We had a sales growth of 9.8% with INR 9.5 billion of sales.”
+- **capex and capital intensity** — parent / remaining: not stated; separated business: Capex of around INR 800 crores plus between FY26, FY27 to FY29, FY30, a big chunk for the new Pune plant (approved by the Board on February 03, 2026) plus DGBB and TRB channels; new Pune plant to be commissioned by end of calendar year 2028; higher depreciation charges seen as a drag on margin until '29-'30 “So, on capex, the o verall plan for the between FY 26, FY27 to FY 29, FY30, we are looking at doing a c apex spend of around INR 800 crores plus, which includes a significant chunk of investment on the new Pune plant which we are in the process of setting up.”
+- **other** — parent / remaining: not stated; separated business: One-time demerger costs in the Resulting Company: IT cost, professional services and stamp duty including estimated transfer premium to effect transfer of registration of land acquired under the Scheme, Rs. 1,800.8 million in the quarter and Rs. 1,961 million in the nine months ended December 31, 2025, plus INR 183 million in Q4 FY26; demerger-related expenses also cited as a headwind in Q1 FY27 “During  the quarter and nine months ended 31 December 2025, the Company accounted certain demerger expenses for IT Cost, professional services  and stamp duty, including estimated  transfer premium payable to statutory authorities to effect transfer of registration of {and acquired  under the Scheme,  aggregating  to Rs. 1,800.8 million  and Rs. 1,961 million,  respectively,  which  have  been  included  under  "Exceptional  items".”
+- **cash** — parent / remaining: not stated; separated business: Significant jump in cash flow in Q4 FY26 after one-offs hit the previous quarter, helped by net working capital reduction, tax adjustments and other items including interest income “But this quarter, we have seen a significant jump in the cash flow, partly due to the net working capital reduction as well as some t ax adjustments which were made.”
+- **tax** — parent / remaining: not stated; separated business: Nine months ended December 31, 2025: current tax Rs. 708.5 million and deferred tax credit Rs. (382.5) million, total tax expense Rs. 326.0 million; for the quarter ended December 31, 2025 a net tax credit of Rs. (170.5) million “Total  tax expense (170.5) _244.3 326.0 430.9”
+- **other** — parent / remaining: not stated; separated business: Royalty and trademark payable on higher sales to the group company increased other expenses by around INR 60-odd million, and a transfer pricing margin is reimbursed to SKF India for manufacturing services availed “Yes. Just to elaborate on other expenses, the big components of other expense cost was one was around royalty and trademark.”
+- **other** — parent / remaining: not stated; separated business: Statutory impact of new Labour Codes presented as an exceptional item: incremental impact consisting of gratuity of Rs. 34 million arising primarily from the change in wage definition “The incremental  impact  consisting  of gratuity  of Rs. 34 Million  primarily  arises  due to change  in wage  definition.”
 
 **The checklist:**
 

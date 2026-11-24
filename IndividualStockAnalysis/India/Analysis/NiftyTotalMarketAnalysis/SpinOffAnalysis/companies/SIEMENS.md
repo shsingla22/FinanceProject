@@ -8,9 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Siemens Energy India Limited** | Energy Business: fully integrated products, solutions and services across the energy value chain of oil and g… | listed 2025-06-19 as ENRIN (NSE) | Mr. Guilherme Mendonca, Managing Director and Chi… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Siemens Energy India Limited** | 2024 demerger of the Energy Business of Siemens Limited (Sc… | Energy Business: fully integrated products, solutions and services across the energy value chain of oil and g… | listed 2025-06-19 as ENRIN (NSE) | Mr. Guilherme Mendonca, Managing Director and Chi… |
 
 **What is being separated, as the documents put it:** The Energy business of Siemens Limited, transferred to Siemens Energy India Limited under a Scheme of Arrangement — class `not stated`.
 
@@ -20,24 +20,26 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2024-05-14 | Board approval — Siemens Limited and Siemens Energy India Limited | as stated: Regulation 30 disclosure / press release dated 14 May 2024; NCLT orde… |
-| 2024-09-17 | SEBI observations — Siemens Limited | as stated: BSE observation letter dated September 17, 2024 and NSE observation l… |
-| 2024-09-17 | Exchange no-objection — BSE Limited ('no adverse observations') | as stated: Filing dated 18th September 2024 enclosing BSE observation letter DCS… |
+| 2024-02-07 | Other — Siemens Energy India Limited | as stated: Incorporation of the Resulting Company ("a wholly owned subsidiary of… |
+| 2024-05-14 | Board approval — Siemens Limited and Siemens Energy India Limited | as stated: Demerger filing dated 14 May 2024; NCLT order: "the Board of Director… |
+| 2024-09-17 | SEBI approval — Siemens Limited | as stated: SEBI comments on the draft scheme conveyed to BSE and NSE, per BSE ob… |
+| 2024-09-17 | Exchange no-objection — BSE Limited | as stated: Filing dated 18 September 2024: "observation letter dated 17th Septem… |
 | 2024-09-18 | Stage reached: **exchange noc** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/SIEMENS_18092024142444_Siemens18092024.pdf) |
-| 2024-09-18 | Exchange no-objection — National Stock Exchange of India Limited ('no objection') | as stated: Filing dated 19th September 2024 enclosing NSE observation letter Ref… |
-| 2024-10-25 | Other — NCLT first motion order directing convening of meetings of equity shareholders and unsecured creditors of Siemens Limited and dispensing with SEIL's meetings | as stated: Filing dated 28 October 2024 enclosing NCLT order dated 25.10.2024 in… |
+| 2024-09-18 | Exchange no-objection — National Stock Exchange of India Limited | as stated: Filing dated 19 September 2024: "observation letter dated 18th Septem… |
+| 2024-10-25 | Other — Siemens Limited | as stated: NCLT Mumbai Bench first motion order in CA (CAA)/160/MB-IV/2024 direc… |
 | 2024-10-30 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.in/corporate/SIEMENS_30102024110723_NoticeofShareholders30102024.pdf) |
-| 2024-12-02 | Shareholders / creditors meeting — Equity Shareholders and Unsecured Creditors of Siemens Limited (approved by requisite majority; 99.9845% of votes polled in favour) | as stated: Filing dated December 2, 2024 with voting results and Scrutinizer's r… |
-| 2025-03-01 | Appointed date — Scheme | as stated: Filing dated March 25, 2025 ("the Appointed Date of the Scheme is Mar… |
-| 2025-03-25 | NCLT order — NCLT, Mumbai Bench sanctioning the Scheme (C.P. (CAA)/237(MB)2024) | as stated: Filing dated March 25, 2025 enclosing the NCLT order |
-| 2025-03-25 | Effective date — Scheme | as stated: Filing dated March 25, 2025 ("the Effective Date of the Scheme is Mar… |
-| 2025-04-01 | Other — Receipt of certified copy of the NCLT order by Siemens Limited | as stated: Filing dated April 1, 2025 |
+| 2024-10-31 | Other — Siemens Limited | as stated: Newspaper advertisement of notices in Business Standard (English) and… |
+| 2024-12-02 | Shareholders / creditors meeting — Siemens Limited | as stated: Voting results filings dated 2 December 2024: equity shareholders app… |
+| 2025-03-01 | Appointed date — Siemens Limited and Siemens Energy India Limited | as stated: Filing dated 25 March 2025: "the Appointed Date of the Scheme is Marc… |
+| 2025-03-25 | NCLT order — Siemens Limited and Siemens Energy India Limited | as stated: Filing dated 25 March 2025: "the Scheme has been sanctioned by the Ho… |
+| 2025-03-25 | Effective date — Siemens Limited and Siemens Energy India Limited | as stated: Filing dated 25 March 2025: "in terms of the Scheme, the Effective Da… |
+| 2025-04-01 | Other — Siemens Limited | as stated: Demerger filing dated 1 April 2025: receipt of the certified copy of … |
 | 2025-04-07 | **Record date** | NSE corporate-actions register |
 | 2025-04-07 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2025-04-07 | Record date — Siemens Limited shareholders entitled to SEIL shares | as stated: Record date filing dated March 25, 2025 under Regulation 42 |
-| 2025-04-14 | Allotment — Siemens Energy India Limited allotted 35,61,20,505 equity shares of INR 2 each; SEIL ceased to be a wholly-owned subsidiary with effect from April 14, 2025 | as stated: Filings dated April 14, 2025 (allotment of equity shares by SEIL; SEI… |
+| 2025-04-07 | Record date — Siemens Limited | as stated: Record Date filing dated 25 March 2025: "the Company and SEIL have mu… |
+| 2025-04-14 | Allotment — Siemens Energy India Limited | as stated: Filing dated 14 April 2025: "the Listing Committee of SEIL at its mee… |
 | 2025-06-19 | **Siemens Energy India Limited** listed (ENRIN) | NSE equity list |
-| 2025-06-19 | Listing and trading — Siemens Energy India Limited on BSE and NSE | as stated: Filing dated 18th June, 2025 |
+| 2025-06-19 | Listing and trading — Siemens Energy India Limited | as stated: Filing dated 18 June 2025: "SEIL has received approval from BSE Limit… |
 | 2025-11-14 | Stage reached: **nclt sanction** | [Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SIEMENS_14112025160459_SL_-_Outcome_of_Board_Meeting_-_Nov_2025.pdf) |
 | 2026-08-11 | Stage reached: **effective** | [Outcome of Board Meeting](https://nsearchives.nseindia.com/corporate/SIEMENS_11082026142118_Letter.pdf) |
 
@@ -51,7 +53,7 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Siemens Energy India Limited | "The turnover [sales (excluding other operating revenues)] … | 34.0% | 41.7% (FY2024) | 111,320 | 46.1% | yes |
+| Siemens Energy India Limited | The turnover [sales (excluding other operating revenues)] o… | 34.0% | 41.7% (FY2024) | 111,320 | 46.1% | yes |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹130,340 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
@@ -63,7 +65,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Siemens Energy India Limited:** "1 (one) fully paid-up equity share(s) of SEIL having face value of Rs. 2/- (Rupees Two only) each for every 1 (one) fully paid-up equity share(s) of face value of Rs. 2/- (Rupees Two only) each of the Company." 35,61,20,505 equity shares of face value INR 2 each were allotted; the entire pre-Scheme paid-up capital of SEIL of INR 1,00,000 stands cancelled and reduced without any consideration.
+- **Siemens Energy India Limited:** 1 (One) fully paid-up equity share of SEIL having a face value of INR 2 (Rupees Two) each for every 1 (One) fully paid-up equity share of INR 2 (Rupees Two) each held in the Company
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -74,11 +76,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** As per financial statements as on 30.09.2023 (NCLT order dated 25.03.2025): Siemens International B.V. 47.70% and Siemens Energy Holding B.V. (formerly known as Siemens Gas and Power Holding B.V.) 24.00%. In the voting results for the shareholders' meeting of 02-12-2024 (record date 25-11-2024), Promoter and Promoter Group held 267,089,913 of 356,120,505 shares.
-- **What the promoters will hold in the separated entity:** "Siemens Energy India Limited will be subsequently listed and will mirror the shareholding of Siemens Limited, upon the receipt of requisite approvals." Indicative change in shareholding pattern of SEIL: Promoters Pre-Scheme 100.00%, Post-Scheme (Indicative) 75.00%; Public Pre-Scheme nil, Post-Scheme (Indicative) 25.00%. In the case of the Company: None.
-- **What a public shareholder receives:** "As per the scheme of arrangement, shareholders of Siemens Limited will receive 1 (one) share of Siemens Energy India Limited for every 1 (one) share of Siemens Limited." Shares were allotted to shareholders on the Record Date of April 7, 2025, mandatorily in demat form, and remained frozen in the depositories system till listing/trading permission was given by the designated stock exchange.
+- **Promoters in the parent, per the documents:** Siemens International B.V. 47.70% and Siemens Energy Holding B.V. (formerly known as Siemens Gas and Power Holding B.V.) 24.00%, as per financial statements as on 30.09.2023 submitted to the Regional Director; Promoter and Promoter Group held 267,089,913 of 356,120,505 equity shares (75.00%) as on the 25-11-2024 record date for the court-convened meeting. The Company has consistently reported that it does not have any significant beneficial owner.
+- **What the promoters will hold in the separated entity:** For the 2024 Energy demerger: "Siemens Energy India Limited will be subsequent ly listed and will mirror the shareholding of Siemens Limited, upon t he receipt of requisite approvals." The brief details of change in shareholding pattern of SEIL state: "Details As on 14.05.2024 Pre-Scheme Post-Scheme (Indicative) Shareholding % Shareholding % Promoters 100.00 75.00 Public - 25.00 Total 100.00 100.00"; and "There shall be no change in the shareholding pattern or control in Siemens Energy India Limited between the record date and the listing which may affect the status of this approval." For the 2025 Low Voltage Motors slump sale: "The transaction will not result in any change in the shareholding pattern of the Company." For the 2026 C&S Electric capital reduction: "Once the C&S Capital Reduction is completed / implemented, C&S will become a wholly owned subsidiary of the Company."
+- **What a public shareholder receives:** 2024 Energy demerger: "1 (one) fully paid-up equity share(s) of SEIL having face value of Rs. 2/- (Rupees Two only) each for every 1 (one) fully paid-up equity share(s) of face value of Rs. 2/- (Rupees Two only) each of the Company" — allotted to "the shareholders of the Company whose names were recorded in the Register of Members of the Company or in the Register of Beneficial Owners maintained by the Depositories as on the Record Date (i.e., April 7, 2025)"; 35,61,20,505 equity shares were allotted, and shareholders were guided to apportion their cost of acquisition 76.18% to Siemens Limited and 23.82% to Siemens Energy India Limited. 2025 Low Voltage Motors slump sale: nothing is received by shareholders — "The transaction will not result in any change in the shareholding pattern of the Company" and the consideration of INR 22 Billion (enterprise value) is received by the Company. 2026 C&S Electric capital reduction: not stated (shares of specified shareholders of C&S, excluding Siemens Limited, are reduced).
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** not stated in the documents on file.
+- **Insider actions around the separation:** No promoter or management buying, selling or pledging is stated. Trading window closures around the separation were disclosed: "In this connection, the trading window under the Company's Code of Conduct for Prohibition of Insider Trading is closed and shall remain closed until March 27, 2025" (NCLT order sanctioning the demerger, 25 March 2025); "The trading window of the Company is currently closed until 16th May 2024" (board approval of the Scheme, 14 May 2024); and for the Low Voltage Motors sale, "the trading window under the Company's Code of Conduct for Prohibition of Insider Trading was closed from 5th December 2025 and shall remain closed until 10th December 2025 (both days inclusive)." Management moves: Mr. Guilherme Vieira De Mendonca (Head of Energy Business) and Mr. Harish Shekar (Head Accounting and Controlling) moved to the Resulting Company as MD & CEO and ED & CFO; Mr. Sunil Mathur continues as Non-executive Chairman of SEIL; Mr. Ketan Thaker ceased to be a Director of SEIL effective 1 April 2025.
 - **Insiders, per the checklist read:** not stated — no promoter or management shareholding, stake, or incentive in Siemens Energy India Limited is disclosed anywhere in these documents · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -259,51 +261,51 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/ENRIN.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Energy (reported as 'Energy - Discontinued operations' in Annual Report 2026; demerged w.e.f. 1 March 2025) → Siemens Energy India Limited (SEIL)** · unit ₹ million · Standalone segment reporting. Revenue = external revenue (inter-segment shown separately: FY2024 273, FY2023 438, 18-month stub 138). Operating profit = segment 'Results' (profit from operations; finance costs, interest income, other income, demerger expenses and taxes are unallocated). No segment PAT is disclosed; Energy PBT as discontinued operation is 9,418 for FY2024 and 5,599 for the 5-month stub to demerger (AR2026 p.182). Capex = additions to PPE, intangibles, ROU assets and CWIP. Carve-out presentation figures for the same business are in ₹ billion (not used here to keep one unit): FY2024 revenue 62.8, EBITDA 9.8, PAT 7.1; FY2023 revenue 59.9, EBITDA 7.6, PAT 5.2 (Presentation Dec 2024 — page 29).
+**Energy (reported as "Energy - Discontinued operations" from the 18-month period ended 31 March 2026; demerged w.e.f. 1 March 2025) → Siemens Energy India Limited** · unit ₹ million · Standalone segment reporting. Revenue = external revenue (Energy total incl. inter-segment: FY2023 60,803; FY2024 63,452 per AR2024, restated 61,853 per AR2026; 18M FY2026 25,746). Operating_profit = segment 'Results' i.e. profit from operations (EBIT-type, before finance costs, interest income, other income, demerger expenses, tax). PAT not disclosed per segment; PBT of Energy discontinued operations is given: FY2024 9,418 and 5,599 for the 18M period (AR2026 p182). AR2026 restates FY2024 Energy on a discontinued-operations basis (external revenue 61,580, result 9,541) versus 63,179 / 9,101 as originally reported in AR2024. Consolidated figures are nearly identical (FY2024 result 9,098; 18M result 5,622). The Dec 2024 presentation gives the carve-out Energy Business in ₹ billion: FY24 revenue 62.8, EBITDA 9.8, PAT 7.1; FY23 revenue 59.9, EBITDA 7.6, PAT 5.2.
 
-| | FY2023 | FY2024 | n/a |
-|---|---:|---:|---:|
-| Revenue (₹ million) | 60,365 | 63,179 | 25,608 |
-| Revenue growth (%) | — | +4.7% | -59.5% |
-| Operating profit (₹ million) | 6,873 | 9,101 | 5,636 |
-| Operating profit growth (%) | — | +32.4% | -38.1% |
-| Operating margin (%) | 11.4 | 14.4 | 22.0 |
-| PAT (₹ million) | — | — | — |
-| PAT growth (%) | — | — | — |
-| Segment assets (₹ million) | 39,656 | 46,493 | — |
-| Segment liabilities (₹ million) | 32,318 | 37,765 | — |
-| Capital employed (₹ million) | 7,338 | 8,728 | — |
-| Return on capital employed (%) | 93.7 | 104 | — |
-| Segment assets / revenue (x) | 0.7 | 0.7 | — |
-| Capex (₹ million) | 679 | 1,515 | 895 |
+| | FY2023 | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|---:|
+| Revenue (₹ million) | 60,365 | 63,179 | — | 25,608 |
+| Revenue growth (%) | — | +4.7% | — | — |
+| Operating profit (₹ million) | 6,873 | 9,101 | — | 5,636 |
+| Operating profit growth (%) | — | +32.4% | — | — |
+| Operating margin (%) | 11.4 | 14.4 | — | 22.0 |
+| PAT (₹ million) | — | — | — | — |
+| PAT growth (%) | — | — | — | — |
+| Segment assets (₹ million) | 39,656 | 46,493 | — | — |
+| Segment liabilities (₹ million) | 32,318 | 37,765 | — | — |
+| Capital employed (₹ million) | 7,338 | 8,728 | — | — |
+| Return on capital employed (%) | 93.7 | 104 | — | — |
+| Segment assets / revenue (x) | 0.7 | 0.7 | — | — |
+| Capex (₹ million) | 679 | 1,515 | — | 895 |
 
-*Sources:* Annual Report 2024 — pages 173, 174; Annual Report 2026 — pages 182, 183
+*Sources:* Annual Report 2024 — page 173 (revenue/result); page 174 (assets, liabilities, capex, depreciation); no annual FY2025 figures on the pages — Energy demerged 1 March 2025; only a 5-month H1 FY25 stub exists (Presentation May 2025 — page 13, in ₹ billion: revenue 25.6, EBITDA 5.8, PBT 4.2); Annual Report 2026 — page 182 (revenue/result); page 183 (capex, depreciation; assets/liabilities held for distribution shown as nil after transfer)
 
-*Not in the pages read:* No PAT, no FY2025 full year (demerged 1 Mar 2025; the fy-null row is only the 5-month stub Oct 2024–Feb 2025, assets/liabilities nil at 31 Mar 2026). No post-demerger quarter. AR2026 restates FY2024 to revenue 61,580 / result 9,541 / capex 1,589 / depreciation 739.
+*Not in the pages read:* No segment PAT, no FY2025 annual, no quarterly figures in ₹ million. FY2026 'year' is the 18-month period to 31 Mar 2026 but Energy is included only to demerger (5 months).
 
-**Low Voltage Motors (LVM) — reported as 'Portfolio Companies' up to FY2024 → Not named in these pages — Low Voltage Motors (LVM) Division, classified as discontinued operations / assets held for sale (separate from the SEIL Energy demerger)** · unit ₹ million · Standalone segment reporting. Revenue = external revenue (inter-segment: FY2024 84, 18-month period 96). Operating profit = segment 'Results'. PBT of LVM as discontinued operation: 785 for FY2024 and 717 for the 18-month period (AR2026 p.182). Assets/liabilities are the amounts classified as held for sale.
+**Low Voltage Motors (LVM) — reported as "Portfolio Companies" in Annual Report 2024 → Low Voltage Motors Division of Siemens Limited — held for sale / discontinued; not one of the named Energy entities** · unit ₹ million · Standalone segment reporting. Revenue = external revenue (total incl. inter-segment: FY2024 9,366; 18M FY2026 15,308). Operating_profit = segment 'Results' (profit from operations). PBT of LVM discontinued operations: FY2024 785; 18M FY2026 717 (AR2026 p182). Assets/liabilities for FY2026 and FY2024 are the held-for-sale balances per AR2026 p183.
 
-| | FY2023 | FY2024 | n/a |
-|---|---:|---:|---:|
-| Revenue (₹ million) | 9,547 | 9,282 | 15,212 |
-| Revenue growth (%) | — | -2.8% | +63.9% |
-| Operating profit (₹ million) | 1,097 | 785 | 710 |
-| Operating profit growth (%) | — | -28.4% | -9.6% |
-| Operating margin (%) | 11.5 | 8.5 | 4.7 |
-| PAT (₹ million) | — | — | — |
-| PAT growth (%) | — | — | — |
-| Segment assets (₹ million) | 2,044 | 2,434 | 2,500 |
-| Segment liabilities (₹ million) | 2,861 | 3,565 | 3,372 |
-| Capital employed (₹ million) | -817 | -1,131 | -872 |
-| Return on capital employed (%) | — | — | — |
-| Segment assets / revenue (x) | 0.2 | 0.3 | 0.2 |
-| Capex (₹ million) | 36.0 | 90.0 | 158 |
+| | FY2023 | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|---:|
+| Revenue (₹ million) | 9,547 | 9,360 | — | 15,212 |
+| Revenue growth (%) | — | -2.0% | — | — |
+| Operating profit (₹ million) | 1,097 | 787 | — | 710 |
+| Operating profit growth (%) | — | -28.3% | — | — |
+| Operating margin (%) | 11.5 | 8.4 | — | 4.7 |
+| PAT (₹ million) | — | — | — | — |
+| PAT growth (%) | — | — | — | — |
+| Segment assets (₹ million) | 2,044 | 2,434 | — | 2,500 |
+| Segment liabilities (₹ million) | 2,861 | 3,565 | — | 3,372 |
+| Capital employed (₹ million) | -817 | -1,131 | — | -872 |
+| Return on capital employed (%) | — | — | — | — |
+| Segment assets / revenue (x) | 0.2 | 0.3 | — | 0.2 |
+| Capex (₹ million) | 36.0 | 101 | — | 158 |
 
-*Sources:* Annual Report 2024 — pages 173, 174; Annual Report 2026 — pages 182, 183
+*Sources:* Annual Report 2024 — page 173 (revenue/result, Portfolio Companies); page 174 (assets, liabilities, capex, depreciation); Annual Report 2026 — page 182 (revenue/result, restated as LVM discontinued); page 183 (held-for-sale assets/liabilities, capex, depreciation). AR2024 p173-174 as originally reported: revenue 9,282, result 785, capex 90, depreciation 94; no FY2025 annual figures on the pages — AR2026 covers an 18-month period; Annual Report 2026 — page 182 (revenue/result); page 183 (held-for-sale assets/liabilities, capex, depreciation)
 
-*Not in the pages read:* No PAT; no FY2025 or FY2026 fiscal year (fy-null row is the 18-month transition period Oct 2024–Mar 2026); no quarterly figures. AR2026 restates FY2024 to revenue 9,360 / result 787 / capex 101 / depreciation 92.
+*Not in the pages read:* No PAT, no FY2025 annual, no quarterly figures. FY2026 is the 18-month period ended 31 March 2026.
 
-*Businesses with no numbers in the pages read (2 annual report(s) and 12 presentation(s) on file):* All named entities refer to one separated business (Energy / SEIL), covered above; the other names ('Remaining Business: technology', 'Energy Business: fully', etc.) are fragments of the same Energy/remaining-business description, not distinct businesses with their own numbers.
+*Businesses with no numbers in the pages read (2 annual report(s) and 12 presentation(s) on file):* All named entities refer to one separated business (Energy / SEIL), for which the pages carry numbers. No separate SEIL standalone company accounts are on these pages — only Siemens Ltd. segment and carve-out data.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/af1c888d-9e71-4ee9-b4eb-8aaf715a20e3.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ec799378-4eb3-4b2b-9237-8bb167a357a9.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69211f8e-0c07-4c3b-a2d8-754b95a897b6.pdf); [Presentation Dec 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb8c2d25-00b3-41da-860f-1858e0deb839.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d9b2610-decc-46e7-8c44-b79a5c39a530.pdf); [Presentation Dec 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=838e2e8e-0f82-4968-a64e-477ccd8cd24a.pdf); [Presentation May 2024](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d44a8eb3-5d8f-4e91-b2f2-62890ac348b5.pdf); [Presentation Dec 2022](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=48ed3930-73eb-4034-9ede-3abd883f95c6.pdf)
 
@@ -332,19 +334,20 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Smart Infrastructure | 112,881 | 13.3% | 37.8% | 0.55x | ₹ million | None |
-| Mobility | 47,227 | 5.5% | 10.4% | 0.79x | ₹ million | None |
-| Digital Industries | 57,414 | 5.3% | 51.4% | 0.31x | ₹ million | None |
-| Others (services to related parties and lease rentals) | 2,732 | 8.1% | 22.0% | 1.12x | ₹ million | None |
+| Smart Infrastructure | 112,881 | 13.3% | 37.8% | 0.55x | ₹ million | FY2026 |
+| Mobility | 47,227 | 5.5% | 10.4% | 0.79x | ₹ million | FY2026 |
+| Digital Industries | 57,414 | 5.3% | 51.4% | 0.31x | ₹ million | FY2026 |
+| Others (services to related parties and lease rentals) | 2,732 | 8.1% | 22.0% | 1.12x | ₹ million | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **capex and capital intensity** — parent / remaining: Industrial business - Siemens Limited continues as a technology-focused company in Industry, Infrastructure and Mobility, with its own core portfolio and capital allocation decisions.; separated business: Energy business - different underlying market drivers and capital allocation requirements; "better capital allocation in accordance with the focused strategic orientation of the business". “The underlying market drivers and capital allocation requirements are fundamentally different in the energy business compared to the industrial business.”
-- **cash** — parent / remaining: Cash and cash equivalents of Rs. 25,478 million left the Company under the Scheme (shown as "Distribution of cash and cash equivalents under the Scheme (25,478)" in financing activities for the twelve months ended 30 September 2025).; separated business: SEIL received cash and cash equivalents of Rs. 25,478 million as an integral part of the net assets of Rs. 37,846 million transferred. “Consequent to the demerger, net assets aggregating Rs. 37,846 million (including cash and cash equivalents of Rs. 25,478 million), were transferred to the demerged entity Siemens Energy India Limited ("SEIL") with consequential adjustments to applicable reserves within equity.”
-- **other** — parent / remaining: 76.18% of the total cost of acquisition of shares of the Company is apportioned to Siemens Limited.; separated business: 23.82% of the total cost of acquisition of shares of the Company is apportioned to Siemens Energy India Limited; the Energy Business was 34% of total turnover in FY 2022-23. “The turnover [sales (excluding other operating revenues)] of the Energy Business for FY 2022-23 stood at Rs. 59,869 million. This represents 34% of the total turnover of the Company for FY 2022-23.”
-- **debt and leverage** — parent / remaining: "as on August 31, 2024, the Demerged Company has 4,342 Unsecured Creditors having an outstanding amount of INR 34,31,68,90,458/-"; no secured creditors; State Bank of India had secured a charge against stock and book debt for fund and non-fund based working capital facilities, with no dues owed as on the date of filing.; separated business: "as on August 31, 2024, the Resulting Company has 2 Unsecured Creditors having an outstanding amount of INR 20,92,540/-"; no secured creditors. “Ld. Counsel for the Applicant Companies submits that, as on August 31, 2024, the Demerged Company and the Resulting Company do not have any Secured Creditors.”
-- **tax** — parent / remaining: Shareholders apportion 76.18% of their total cost of acquisition to Siemens Limited; the Scheme is in compliance with Section 2(19AA) of the Income-Tax Act, 1961.; separated business: Shareholders apportion 23.82% to SEIL; the date of acquisition of Siemens Limited shares is deemed to be the date of acquisition for the SEIL shares. “It may be noted that as per Section 47(vid) of the Act, the aforesaid allotment of equity shares by SEIL pursuant to the Scheme will not be regarded as transfer.”
-- **other** — parent / remaining: Demerger related expenses / separation costs of Rs. 1,011 million for the twelve months ended 30 September 2025 (Rs. 110 million in the year ended 30 September 2024) and Rs. 1,092 million for the eighteen months ended 31 March 2026 were borne in the Company's continuing operations.; separated business: Energy business results up to the appointed date were presented as discontinued operations: profit before tax Rs. 5,599 million (standalone) on revenue from operations of Rs. 25,608 million up to 1 March 2025. “Accordingly, the results of the Energy business up to the appointed date were presented as discontinued operations and therefore, profit from discontinued operations for the twelve months period ended 30 September 2025 and the eighteen months period ended 31 March 2026 include Rs. 4,185 million pertaining to the Energy business.”
+- **growth** — parent / remaining: Continuing operations (Siemens Limited excluding Energy business) in Q1 FY 2025: New Orders up 20% at INR 4,258 crore, Revenue 3% lower at INR 3,587 crore, Profit after Tax lower by 10% at INR 372 crore; separated business: Energy business (discontinued operations) in Q1 FY 2025: Revenue INR 1,431 crore (up 28%) and Profit after Tax INR 243 crore (up 158%), on continued strong demand for Transmission products and solutions, including a favorable one-time impact of INR 98 crore on profitability “Revenue and Profit after Tax for discontinued operations for Q1 FY 2025 was INR 1,431 crore (up 28%) and INR 243 crore (up 158%), respectively .”
+- **operating margin** — parent / remaining: Standalone continuing operations for the year ended 30 September 2024: revenue from operations Rs. 143,386 million with profit before tax of Rs. 25,759 million; for the eighteen months ended 31 March 2026, revenue Rs. 220,254 million with profit before tax Rs. 27,375 million; separated business: Energy business as discontinued operations for the year ended 30 September 2024: revenue from operations Rs. 61,580 million, total income Rs. 61,622 million, total expenses Rs. 52,204 million and profit before tax Rs. 9,418 million; profit for the year from discontinued operations Rs. 6,980 million “Revenue from operations 14,308 20,041 11,157 61,580 Other income 15 38 23 42 Total income 14,323 20,079 11,180 61,622 Total expenses 11,077 15,926 9,912 52,204 Profit before tax for the period/ year 3,246 4,153 1,268 9,418”
+- **debt and leverage** — parent / remaining: No secured creditors and no preference shareholders in Siemens Limited; 4,342 unsecured creditors with an outstanding amount of INR 34,31,68,90,458 as on 31 August 2024; fund and non-fund based working capital facilities availed from State Bank of India with no dues owed at the date of filing the Company Scheme Application; separated business: No secured creditors and no preference shareholders in Siemens Energy India Limited; 2 unsecured creditors having an outstanding amount of INR 20,92,540 as on 31 August 2024 “It is further submitted that since there are no (i) Secured Creditors in Siemens Limited and Siemens Energy India Limited; and (ii) Preference Shareholders in Siemens Limited and Siemens Energy India Limited, this Tribunal had dispensed with the holding and convening of the meetings of Secured Creditors of Siemens Limited and Siemens Energy India Limited and Preference Shareholders of Siemens Limited and Siemens Energy India Limited.”
+- **other** — parent / remaining: Cost of acquisition apportionment for the parent after the demerger: 76.18% of the total cost of acquisition of shares of the Company; separated business: Cost of acquisition apportionment for the resulting company: 23.82% of the total cost of acquisition of shares of the Company “Sr. No. Name of the Entity % of Total Cost of Acquisition of Shares of the Company 1 Siemens Limited 76.18 2 Siemens Energy India Limited 23.82”
+- **other** — parent / remaining: Demerger related expenses charged in the parent: Rs. 148 million in the quarter ended 31 December 2024 and Rs. 110 million in the year ended 30 September 2024; Rs. 1,092 million in the eighteen months ended 31 March 2026 (Rs. 31 million in the quarter ended 30 June 2026). The CFO stated it was 0.1 billion in FY24 and 1 billion in FY25; separated business: not stated “And the second one : we had energy demerger -related e xpenses . In ’24 it was just 0.1 billion. In ’25 it was 1 billion.”
+- **capex and capital intensity** — parent / remaining: Parent retains 25 factories and continues to invest in local manufacturing (vacuum interrupter and gas-insulated switchgear factories in Goa, Mobility factories in Nashik, Chhatrapati Sambhajinagar and Dahod); roughly 65-75% localisation in Smart Infrastructure; separated business: Low Voltage Motors business sold in 2025 has no manufacturing: the Company largely functions as a sales organisation with outsourced contract manufacturing constituting approximately 97% of the revenue of the Business, a sales team of 89 employees, and negative net capital employed of Rs. 1.38 billion “The Company largely functions as a sales organisation in respect of the Business and does not have manufacturing facilities to manufacture the low voltage motors and follows a contract  manufacturing model with Innomotics  design and with stringent quality controls across the supply chain and manufacturing, which constitute approximately 97% of the revenue of the Business.”
+- **working capital** — parent / remaining: Remaining business is investing heavily in working capital, chiefly for Mobility: inventory levels raised and trade receivables and contract assets up with the revenue ramp, so operating cash flow is below prior periods; over dues stable and not at a critical level; separated business: not stated “On one hand, of course, we have CapEx with regards to our investments in manufacturing. Then , also we have OpEx related to th ese investments. And one big portion is also we invest a lot in working capital right now for the Mobility business.”
 
 **The checklist:**
 

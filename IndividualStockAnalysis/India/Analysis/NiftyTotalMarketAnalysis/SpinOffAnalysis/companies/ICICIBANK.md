@@ -8,9 +8,11 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **ICICI Prudential Asset Management Company Limited** | Asset management; also provides portfolio management services and advisory services; from April 1, 2026 also … | listed 2025-12-19 as ICICIAMC (NSE) | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **ICICI Prudential Asset Management Company Limited** | 2025 listing and partial divestment of PCHL's stake in ICIC… | Asset management joint venture providing mutual fund, portfolio management and advisory services; from April … | listed 2025-12-19 as ICICIAMC (NSE) | not stated |
+
+**The other parties to the scheme(s)** — not separated entities: ICICI Pension Fund Management Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** ICICI Prudential Asset Management Company, the group's asset management and portfolio/advisory services subsidiary — class `not stated`.
 
@@ -20,11 +22,11 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2025-02 | Other — ICICI Prudential Asset Management Company Limited / PCHL | as stated: Annual Securities Report filed with Director of Kanto Regional Financ… |
-| 2025-06 | Other — ICICI Bank Limited | as stated: Annual Securities Report filed with Director of Kanto Regional Financ… |
+| 2025-02 | Other — ICICI Prudential Asset Management Company Limited / PCHL | as stated: Annual Securities Report for fiscal year April 1, 2025 to March 31, 2… |
+| 2025-06 | Board approval — ICICI Bank Limited (purchase of up to 2.0% additional shareholding in ICICI Prudential Asset Management Company Limited ahead of the listing) | as stated: Annual Securities Report for fiscal year April 1, 2025 to March 31, 2… |
 | 2025-06-27 | Stage reached: **record date** | [Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/ICICI2022_27062025120055_NSEBSE_27062025.pdf) |
 | 2025-12-19 | **ICICI Prudential Asset Management Company Limited** listed (ICICIAMC) | NSE equity list |
-| 2025-12-19 | Listing and trading — ICICI Prudential Asset Management Company Limited | as stated: Annual Securities Report filed with Director of Kanto Regional Financ… |
+| 2025-12-19 | Listing and trading — ICICI Prudential Asset Management Company Limited (Bombay Stock Exchange and National Stock Exchange) | as stated: Annual Securities Report for fiscal year April 1, 2025 to March 31, 2… |
 
 **The stages, as filed:** record date (2025-06-27)
 
@@ -50,7 +52,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **ICICI Prudential Asset Management Company Limited:** not stated as an offer structure; the documents say only that PCHL "made an announcement regarding a potential listing and partial divestment of its stake in ICICI Prudential Asset Management Company Limited, subject to market conditions, requisite approvals and other considerations" — fresh issue / offer for sale split and offer size not stated
+- **ICICI Prudential Asset Management Company Limited:** Offer for sale by the joint venture partner: "a potential listing and partial divestment of its stake in ICICI Prudential Asset Management Company Limited, subject to market conditions, requisite approvals and other considerations"; no fresh issue, offer-for-sale size or price stated
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -62,10 +64,10 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** We had 53.0% interest in the entity and PCHL owned 34.6% at March 31, 2026.
-- **What a public shareholder receives:** not stated in the documents on file.
-- **Management incentives:** This purchase was primarily for the purposes of maintaining the Bank's majority shareholding in ICICI Prudential Asset Management Company Limited were it to grant stock-based compensation.
-- **Insider actions around the separation:** "In February 2025, the Bank's joint venture partner, PCHL, made an announcement regarding a potential listing and partial divestment of its stake in ICICI Prudential Asset Management Company Limited, subject to market conditions, requisite approvals and other considerations." and "In June 2025, the Board approved the purchase of up to 2.0% additional shareholding in the ICICI Prudential Asset Management Company Limited. Following the receipt of requisite approvals, the Bank purchased 2.0% additional shareholding from PCHL."
+- **What the promoters will hold in the separated entity:** 2025 listing of ICICI Prudential Asset Management Company Limited: "We had 53.0% interest in the entity and PCHL owned 34.6% at March 31, 2026." — after the Bank's purchase of 2.0% from PCHL. 2023 Delisting Scheme: "with effect from March 24, 2025, ICICI Securities Limited has become a wholly owned subsidiary of the Bank". 2025-2026 pension transaction: "the Bank acquired 100% shareholding in ICICI PFM. Accordingly, ICICI PFM is now a wholly owned subsidiary of the Bank." ICICI Prudential Life Insurance Company Limited: "Following this, the Bank's shareholding in ICICI Life stands at approximately 52.8%."
+- **What a public shareholder receives:** not stated for the 2025 listing and partial divestment of ICICI Prudential Asset Management Company Limited — no distribution or entitlement to ICICI Bank's own public shareholders is described (the divestment is of PCHL's stake). Under the 2023 Delisting Scheme the Bank issued its shares to the subsidiary's public shareholders, not to its own: "On March 26, 2025, the Bank allotted its equity shares to the public shareholders of ICICI Securities as of the record date, in accordance with a swap ratio of 67 to 100, as provided in the Delisting Scheme." The 2025-2026 pension and ICICI Venture business transfers were intra-group; nothing is stated as received by public shareholders of the parent.
+- **Management incentives:** "In June 2025, the Board approved the purchase of up to 2.0% additional shareholding in the ICICI Prudential Asset Management Company Limited. Following the receipt of requisite approvals, the Bank purchased 2.0% additional shareholding from PCHL. This purchase was primarily for the purposes of maintaining the Bank's majority shareholding in ICICI Prudential Asset Management Company Limited were it to grant stock-based compensation." For the life insurer: "The Board, at its meeting held in February 2026, approved purchase of up to 2.0% additional shareholding in its subsidiary, ICICI Prudential Life Insurance Company Limited... This purchase was primarily towards maintaining the Bank's majority shareholding in the event of exercise of stock-based compensation of ICICI Prudential Life Insurance Company Limited." Parent capital includes "capital and reserves and surplus including employees' stock options outstanding at year-end fiscal 2026, were Rs. 3,630.6 billion". No treatment of existing grants under a scheme, no new plan in a new entity, and no exercise price or pricing date are stated.
+- **Insider actions around the separation:** "In February 2025, the Bank's joint venture partner, PCHL, made an announcement regarding a potential listing and partial divestment of its stake in ICICI Prudential Asset Management Company Limited, subject to market conditions, requisite approvals and other considerations." "Following the receipt of requisite approvals, the Bank purchased 2.0% additional shareholding from PCHL." For the life insurer: "the Bank has, through multiple tranches executed between July 22, 2026 and September 2, 2026, completed the purchase of approximately 2.0% of ICICI Life's equity share capital at June 30, 2026, through the stock exchange mechanism." "PCHL entered into definitive agreements on May 17, 2026, pursuant to which PCHL has agreed to acquire a 75% stake in Bharti Life Insurance Company Limited" and "ICICI Prudential Life Insurance Company Limited has applied to IRDAI for the reclassification of PCHL from 'promoter' to 'investor'". No pledging is stated.
 - **Insiders, per the checklist read:** Bank held 53.0% and PCHL 34.6% at March 31, 2026; Bank bought 2.0% more from PCHL primarily to keep majority shareholding if stock-based compensation is granted · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -172,7 +174,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/ICICIAMC.csv (consolidated, screener.in); growth and margins computed here.*
 
-**ICICI Prudential Asset Management Company Limited (subsidiary being listed; not a separately reported segment — included in the consolidated "Others" segment) → ICICI Prudential Asset Management Company Limited (ICICI AMC / "ICICI Prudential Asset")** · unit ₹ million · Only the entity's share in consolidated profit or loss (PAT, Indian GAAP as consolidated) from the Schedule III 'Additional information to consolidated accounts' table, plus its net assets (shareholders' equity, not segment assets). No revenue, operating profit, segment assets/liabilities, capex or depreciation are disclosed for the entity — it is subsumed in the consolidated 'Others' segment. MD&A FY2026 states PAT rose from ₹26.48 bn (FY2025) to ₹32.99 bn (FY2026), consistent with the ₹ million figures below.
+**ICICI Prudential Asset Management Company Limited → ICICI Prudential Asset Management Company Limited (ICICI AMC)** · unit ₹ million · No separate segment P&L is disclosed for the AMC — it is subsumed in the consolidated 'Others' segment. The only entity-level figures on these pages are from the Schedule III 'Additional information to consolidated accounts': share in profit or loss (profit after tax) and net assets. PAT is entity-level PAT, not a segment result; no revenue, operating profit, segment assets/liabilities, capex or depreciation is disclosed for the entity. AR2026 MD&A (page 234) corroborates PAT of ₹26.48 bn FY2025 and ₹32.99 bn FY2026.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -186,7 +188,9 @@ xychart-beta
 
 *Sources:* Annual Report 2024 — page 401; Annual Report 2025 — page 397; Annual Report 2026 — page 438
 
-*Not in the pages read:* Revenue, operating profit/PBT, segment assets and liabilities, capex, depreciation, and any quarterly figures for ICICI AMC. Net assets given instead: 24,849.0 / 35,315.8 / 42,218.7 ₹ mn (FY24/25/26).
+*Not in the pages read:* Revenue, operating profit/PBT, segment assets and liabilities, capex, depreciation, AUM and any quarterly figures for the AMC. Net assets are disclosed (₹24,849.0 mn FY2024; ₹35,315.8 mn FY2025; ₹42,218.7 mn FY2026) but not segment assets.
+
+*Businesses with no numbers in the pages read (3 annual report(s) and 11 presentation(s) on file):* All named entities refer to the same separating business, ICICI Prudential Asset Management Company (ICICI AMC); the pages carry only its PAT and net assets. No pages reference an 'asset management joint venture' entity separately.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/01c30537-c969-4503-bbae-a07d51eb09a5.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d80c4401-bed9-4aa4-b532-00255b963376.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9d5f21fd-9b1e-42e5-a48b-84d2623f293c.pdf); [Presentation Oct 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b831cebf-9ddc-48a6-861f-1879e07a86fc.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=881c8fc3-a4c2-40ff-bacf-d68efc0e3d7a.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=245b872b-cdb6-4c0d-b8ae-1c9d3d3ee9af.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a0e8729-682f-40bf-ade8-3daeaa2a1173.pdf); [Presentation Oct 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d2976060-1fb3-415b-952e-d26f9f95b237.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9c02e638-1133-4048-a9a5-be65ae7418b7.pdf)
 
@@ -214,11 +218,14 @@ xychart-beta
 | Other Banking Business | 47,029 | 26.7% | 2.9% | 10.58x | ₹ million | FY2026 |
 | Life insurance (ICICI Prudential Life Insurance Company Limited) | 654,720 | 2.8% | — | 4.87x | ₹ million | FY2026 |
 | General insurance (ICICI Lombard General Insurance Company Limited) | 288,906 | 12.7% | — | 2.61x | ₹ million | FY2026 |
-| Others (includes ICICI Prudential Asset Management Company, ICICI Securities, ICICI Home Finance, ICICI Securities Primary Dealership and other non-banking subsidiaries) | 199,701 | 42.0% | — | 5.18x | ₹ million | FY2026 |
+| Others (non-banking, non-insurance subsidiaries — includes ICICI Prudential Asset Management Company, ICICI Securities, ICICI Home Finance, ICICI Securities Primary Dealership, etc.) | 199,701 | 42.0% | — | 5.18x | ₹ million | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: Consolidated profit after tax of the Bank grew by 6.2% year-on-year to 542.08 billion Rupees in FY2026; consolidated net profit (after minority interest) for fiscal 2026 was Rs. 542.1 billion.; separated business: Net profit of ICICI Prudential Asset Management Company Limited rose from Rs. 26.5 billion in fiscal 2025 to Rs. 33.0 billion in fiscal 2026 (a rise of about 24.5%, computed, not stated). “ICICI Prudential Asset Management Company Limited earned a net profit of Rs. 33.0 billion during fiscal 2026 compared to a net profit of Rs. 26.5 billion during fiscal 2025.”
+- **growth** — parent / remaining: Consolidated profit after tax grew by 6.2% year-on-year to 542.08 billion Rupees in FY2026; profit before tax excluding treasury grew by 7.1% year-on-year to 650.21 billion Rupees; separated business: The listed asset management subsidiary's net profit rose from Rs. 26.5 billion in fiscal 2025 to Rs. 33.0 billion in fiscal 2026 (about 24.5% growth, as computed from the stated figures) “ICICI Prudential Asset Management Company Limited earned a net profit of Rs. 33.0 billion during fiscal 2026 compared to a net profit of Rs. 26.5 billion during fiscal 2025.”
+- **other** — parent / remaining: After the listing and the purchase of 2.0% from PCHL, the Bank retains majority control of the asset management company; separated business: Bank 53.0%, PCHL 34.6% at March 31, 2026; the balance is public float created by the listing “We had 53.0% interest in the entity and PCHL owned 34.6% at March 31, 2026.”
+- **return on capital** — parent / remaining: "Return on average assets and standalone RoE would have been 2.3% and 15.5% respectively in this quarter" (Q3-FY2026, adjusted for the additional standard asset provision); CET-1 ratio 16.35% and total capital adequacy ratio 17.18% at March 31, 2026; separated business: not stated “Return on average assets and standalone RoE would have been 2.3% and 15.5% respectively in this quarter.”
+- **capex and capital intensity** — parent / remaining: The Bank infused capital into subsidiaries rather than receiving separation proceeds: "During the year ended March 31, 2026, the Bank infused capital of Rs. 5.0 billion" into its housing finance subsidiary, and bought 2.0% stakes in the asset management and life insurance subsidiaries; separated business: not stated “During the year ended March 31, 2026, the Bank infused capital of Rs. 5.0 billion.”
 
 **The checklist:**
 

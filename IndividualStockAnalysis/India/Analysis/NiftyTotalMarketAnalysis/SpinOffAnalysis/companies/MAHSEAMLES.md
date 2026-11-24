@@ -8,10 +8,12 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **MSL Seamless Tubes Limited** | Seamless pipe manufacturing business at Mangaon, Maharashtra (125,000 MTPA) and captive 10 MW solar power pla… | to be listed | not stated |
-| **United Seamless Limited** | Seamless pipe manufacturing facility at Narketpally, Telangana (200,000 MTPA), solar power plants at Khetusar… | to be listed | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **MSL Seamless Tubes Limited** | 2026 scheme of arrangement demerging two undertakings into … | Seamless pipe manufacturing business at Mangaon, Maharashtra (125,000 MTPA), captive solar power plant at Bee… | to be listed | not stated |
+| **United Seamless Limited** | 2026 scheme of arrangement demerging two undertakings into … | Seamless pipe facility at Narketpally, Telangana (200,000 MTPA), solar power plants at Khetusar (20 MW) and P… | to be listed | not stated |
+
+**The other parties to the scheme(s)** — not separated entities: United Seamless Tubulaar Private Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** Two seamless pipe plants: Mangaon (125,000 MTPA) with Beed solar; Narketpally Telangana (200,000 MTPA) with Rajasthan solar and rig — class `value_unlocking`.
 
@@ -21,11 +23,11 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2026-05-22 | Board approval — Maharashtra Seamless Limited (Demerged Company), MSL Seamless Tubes Limited, United Seamless Limited | as stated: Scheme of Arrangement intimation under Regulation 30, filing dated 22… |
-| 2026-06-15 | Other — Scheme placed under further review by the Company; to be placed before a subsequent Board Meeting for approval and submitted to Stock Exchanges thereafter — Maharashtra Seamless Limited | as stated: Update under Regulation 30, filing dated 15 June 2026 |
-| 2026-10-01 | Appointed date — Scheme amongst MSL, MSTL and USL | as stated: Scheme of Arrangement intimations dated 22 May 2026 and 07 October 20… |
+| 2026-05-22 | Board approval — Maharashtra Seamless Limited | as stated: Scheme of Arrangement filing MSL/SEC/SE/2026-27 dated 22 May 2026 |
+| 2026-06-15 | Other — Maharashtra Seamless Limited | as stated: General Updates filing dated 15 June 2026: "the said Scheme is under … |
+| 2026-10-01 | Appointed date — Maharashtra Seamless Limited, MSL Seamless Tubes Limited, United Seamless Limited | as stated: Scheme of Arrangement filings dated 22 May 2026 and 07 October 2026 |
 | 2026-10-07 | Stage reached: **announced** | [Scheme of Arrangement](https://nsearchives.nseindia.com/corporate/MAHSEAMLES_07102026172556_MSLIntimationDemerger.pdf) |
-| 2026-10-07 | Board approval (Scheme approved by the Board after the further review; board meeting commenced 3:45 pm and concluded 5:00 pm) — Maharashtra Seamless Limited (Demerged Company), MSL Seamless Tubes Limited, United Seamless Limited | as stated: Scheme of Arrangement intimation under Regulation 30, filing dated 07… |
+| 2026-10-07 | Board approval — Maharashtra Seamless Limited | as stated: Scheme of Arrangement filing MSL/SEC/SE/2026-27 dated 07 October 2026… |
 
 **The stages, as filed:** announced (2026-10-07)
 
@@ -39,12 +41,12 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| MSL Seamless Tubes Limited | Rs. 793 crores operational turnover for FY 2025-26 | 16.98% | 1.7% (FY2026) | — | — | not listed |
-| United Seamless Limited | Rs. 693 crores operational turnover for FY 2025-26 | 14.84% | 1.7% (FY2026) | — | — | not listed |
+| MSL Seamless Tubes Limited | Demerged Undertaking 1: 793 (Operational Turnover for FY 20… | 16.98% | 1.7% (FY2026) | — | — | not listed |
+| United Seamless Limited | Demerged Undertaking 2: 693 (Operational Turnover for FY 20… | 14.84% | 1.7% (FY2026) | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,248 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “Operational Turnover for FY 2025-26 (Rs. crores) / Percentage (%): Demerged Undertaking 1 — 793 — 16.98%; Demerged Undertaking 2 — 693 — 14.84%; Remaining — 3185 — 68.18%; Total — 4671 — 100.00%”
+**In the documents' words:** “Particulars / Operational Turnover for FY 2025 - 26 (Rs. crores) / Percentage (%): Demerged Undertaking 1 793 16.98%; Demerged Undertaking 2 693 14.84%; Remaining 3185 68.18%; Total 4671 100.00%”
 
 **The judge's read of selling pressure:** likely — Each spin tiny: ~15-17% of turnover, only 2,67,99,850 shares, 1 share per 5 held; rig/solar assets differ from pipes.
 
@@ -64,8 +66,8 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** "The above share exchange ratios shall ensure same proportionate shareholding structure of Resulting Company 1 and Resulting Company 2 with Demerged Company and hence Scheme shall be value neutral to the Demerged Company's shareholders." Indicative post-Scheme shareholding of both MSTL and USL (07 October 2026 filing): "Promoter & Promoter Group 1,88,40,507 — 70.3008%"; "Public 79,59,343 — 29.6992%"; "Total 2,67,99,850 — 100.0000%". The earlier 22 May 2026 filing gave indicative "Promoter & Promoter Group 1,88,34,506 70.2784%" and "Public NA 79,65,344 29.7216%", and said the ratios "shall ensure mirror shareholding structure of Resulting Company 1 and Resulting Company 2 with Demerged Company."
-- **What a public shareholder receives:** "the Resulting Company l and the Resulting Company 2 shall issue shares to the shareholders of Demerged Company as on the Record Date (as defined in the Scheme) as follows: (i) 1 equity share of Resulting Company 1 of INR 5 each fully paid-up for every 5 equity shares of the Demerged Company of INR 5 each fully paid-up; and (ii) 1 equity share of Resulting Company 2 of INR 5 each fully paid-up for every 5 equity shares of the Demerged Company of INR 5 each fully paid-up." "There is no cash consideration being discharged under the Scheme." Public shareholders are shown holding 79,59,343 shares (29.6992%) in each of MSTL and USL post-Scheme (indicative), "Subject to the provisions for fractional entitlement in terms of the Scheme".
+- **What the promoters will hold in the separated entity:** 2026 scheme, 07 October 2026 filing — MSTL post Scheme (Indicative): Promoter & Promoter Group 1,88,40,507 shares, 70.3008 %, Public 79,59,343, 29.6992 %; USL post Scheme (Indicative): Promoter & Promoter Group 1,88,40,507 shares, 70.3008 %, Public 79,59,343, 29.6992 %. In the 22 May 2026 filing the same tables read: Promoter & Promoter Group 1,88,34,506, 70.2784%; Public 79,65,344, 29.7216% for both MSTL and USL. "The above share exchange ratios shall ensure same proportionate shareholding structure of Resulting Company 1 and Resulting Company 2 with Demerged Company and hence Scheme shall be value neutral to the Demerged Company's shareholders." (22 May 2026 filing: "shall ensure mirror shareholding structure of Resulting Company 1 and Resulting Company 2 with Demerged Company.")
+- **What a public shareholder receives:** 2026 scheme: "(i) 1 equity share of Resulting Company 1 of INR 5 each fully paid-up for every 5 equity shares of the Demerged Company of INR 5 each fully paid-up; and (ii) 1 equity share of Resulting Company 2 of INR 5 each fully paid-up for every 5 equity shares of the Demerged Company of INR 5 each fully paid-up." "There is no cash consideration being discharged under the Scheme."
 - **Management incentives:** not stated in the documents on file.
 - **Insider actions around the separation:** not stated in the documents on file.
 - **Insiders, per the checklist read:** Promoter & Promoter Group get 70.3008% of each resulting company (1,88,40,507 of 2,67,99,850 shares), mirroring their MSL stake; no cash consideration; no other incentive disclosed. · *option pricing date:* not stated
@@ -266,7 +268,7 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Seamless (seamless pipe manufacturing) — product line disclosed in the quarterly presentations → MSL Seamless Tubes Limited / United Seamless Limited (Demerged Undertaking 1 = Mangaon, Maharashtra seamless; Demerged Undertaking 2 = Narketpally, Telangana seamless) — the pages give ONE combined 'Seamless' line, never split by entity, undertaking or plant** · unit ₹ crore · Operating profit = EBITDA as labelled in the presentation 'Operational & Financial Performance' / 'EBIDTA Mix' slides. No revenue, PAT, asset, liability, capex or depreciation line is given for the Seamless product line; only EBITDA, EBITDA/tonne and volumes (FY24 sales 399 kMT, FY25 442 kMT, FY26 419 kMT). Planned (not actual) capex at the separated plants is listed as Narketpally/USTPL ₹184 cr + captive solar ₹80 cr and Mangaon ₹100 cr + ₹95 cr (Presentation Nov 2026 — page 15).
+**Seamless → MSL Seamless Tubes Limited and United Seamless Limited (combined — the pages do not split the seamless business between the two demerged undertakings)** · unit ₹ crore · Operating profit = EBITDA as disclosed in the quarterly presentation 'Operational & Financial Performance' table and 'EBIDTA Mix' slide. No revenue line is given for Seamless alone (only production/sales volumes: FY24 sales 399 kMT, FY25 442 kMT, FY26 419 kMT); seamless revenue is inside the Steel Pipes & Tubes segment together with ERW.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -282,9 +284,9 @@ xychart-beta
 
 *Latest quarter (Q2 FY27):* revenue None, operating profit 95 — Presentation Nov 2026 — page 9
 
-*Not in the pages read:* Revenue, PAT, assets, liabilities, capex, depreciation; no split between Mangaon/MSL Seamless Tubes and Narketpally/United Seamless.
+*Not in the pages read:* Revenue, PAT, assets, liabilities, capex, depreciation for Seamless alone; no split of these EBITDA figures between Maharashtra and Telangana plants.
 
-**Power - Electricity (annual reports) / Renewable Energy (presentation EBIDTA mix) → MSL Seamless Tubes Limited (captive solar power) and United Seamless Limited (solar power plants) — the pages report one combined power segment, not split between the two** · unit ₹ crore · Standalone Ind AS 108 segment disclosure. Revenue shown here is 'Revenue from Operations' INCLUDING inter-segment sales (captive transfers): FY24 77.41 incl. 49.58 inter-segment (external 27.83); FY25 78.01 incl. 50.42 (external 27.59); FY26 80.34 incl. 55.12 (external 25.22). Operating profit = Segment Results, which equals segment PBT (no finance cost allocated). Quarterly figure is Renewable Energy EBITDA from the EBIDTA-mix slide.
+**Power - Electricity (called 'Renewable Energy' in the presentations) → MSL Seamless Tubes Limited (captive solar power with Demerged Undertaking 1) and United Seamless Limited (solar power plants with Demerged Undertaking 2) — the pages do not split the power segment between them** · unit ₹ crore · Operating profit = Segment Results (EBIT) from standalone segment reporting; PBT equals segment result (no finance cost allocated). Revenue shown is total revenue from operations INCLUDING inter-segment sales (inter-segment 49.58 FY24, 50.42 FY25, 55.12 FY26; external revenue 27.83 FY24, 27.59 FY25, 25.22 FY26). Presentation 'Renewable Energy' EBITDA: FY25 67, FY26 70.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -306,9 +308,9 @@ xychart-beta
 
 *Latest quarter (Q2 FY27):* revenue None, operating profit 18 — Presentation Nov 2026 — page 10
 
-*Not in the pages read:* Segment PAT, capex, depreciation; no split of the solar capacity between the two resulting companies; no quarterly revenue.
+*Not in the pages read:* Segment PAT, capex and depreciation; quarterly revenue. Planned solar capex of ₹80 cr (Narketpally) is forward-looking, not spend incurred.
 
-**RIG → Named above as 'rig Jindal Explorer'; the pages do not state which resulting entity the rig goes to** · unit ₹ crore · Standalone segment disclosure; revenue is external (no inter-segment sales reported for RIG). Operating profit = Segment Results (before finance cost); segment PBT after finance cost was 15.15 in FY24 (finance cost 6.22), 23.11 in FY25 and -9.13 in FY26 (no finance cost). Quarterly figure is the Rig slice of the EBIDTA-mix slide.
+**RIG → Not stated on these pages which resulting company receives it (named among the separating businesses as 'rig Jindal Explorer')** · unit ₹ crore · Operating profit = Segment Results (EBIT) from standalone segment reporting. PBT after allocated finance cost: FY24 15.15 (finance cost 6.22), FY25 23.11, FY26 -9.13. Presentation 'Rig' EBITDA: FY25 46, FY26 25. Revenue is external (no inter-segment sales in this segment).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -330,9 +332,9 @@ xychart-beta
 
 *Latest quarter (Q2 FY27):* revenue None, operating profit 15 — Presentation Nov 2026 — page 10
 
-*Not in the pages read:* Segment PAT, capex, depreciation, quarterly revenue; which resulting entity receives the rig. Presentation EBITDA for rig: FY25 46, FY26 25 (Nov 2026 — page 10).
+*Not in the pages read:* Segment PAT, capex, depreciation; quarterly revenue; which resulting entity the rig goes to.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* No entity- or undertaking-level numbers anywhere on these pages for MSL Seamless Tubes Limited, United Seamless Limited, Demerged Undertaking 1 or 2, or separately for Mangaon vs Narketpally seamless and their solar plants; pages show no scheme/demerger note.
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* No page gives undertaking- or plant-level financials, so MSL Seamless Tubes Limited and United Seamless Limited have no own numbers; seamless appears only combined. No segment PAT, capex or depreciation anywhere; the ₹852 cr capex table is a forward plan.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/1b4ef7e1-b24f-45e6-b22d-8159746a06c7.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/8748b566-f758-4f1b-b0bc-95ffca7105c2.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/c3486d1d-ab32-4b78-ba0b-24c555a4ec6f.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=722e0c4e-4cc4-4bad-83d1-5cd9aa367da9.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8ac4acd4-52bb-45d1-bb95-34cf0f832dda.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ba3e4355-0976-4c02-9218-a6dded8df284.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c5f5e262-bcdb-408d-9b5c-2be042f288a4.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c8087a8-67a4-4cfa-9d98-cffa71a58f59.pdf); [Presentation Jun 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ff950d29-37ba-4646-b351-de172d63ce50.pdf)
 
@@ -340,7 +342,7 @@ xychart-beta
 
 | Metric (latest year) | Parent (MAHSEAMLES) | MSL Seamless Tubes Limited | United Seamless Limited |
 |---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Seamless (seamless pipe manu…* | *segment numbers (Seamless (seamless pipe manu…* |
+| *Basis* | *reported, consolidated* | *segment numbers (Seamless)* | *segment numbers (Seamless)* |
 | Sales (₹ cr) | 4,674 (Mar 2026) | — | — |
 | Sales growth (%) | -11.3 (Mar 2026) | — | — |
 | Operating margin (%) | 14.3 (Mar 2026) | — | — |
@@ -361,19 +363,21 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
+| ERW | — | — | — | — | ₹ crore |  |
 | Steel Pipes & Tubes | 4,615 | 11.4% | 21.5% | 0.63x | ₹ crore | FY2026 |
-| ERW (ERW pipe product line, presentation disclosure) | — | — | — | — | ₹ crore |  |
-| Others (unallocable income/items, incl. treasury) | 387 | 100.0% | 11.1% | 10.08x | ₹ crore | FY2026 |
+| Others (unallocable / other income and assets, as labelled in segment reporting) | 387 | 100.0% | 11.1% | 10.08x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **capex and capital intensity** — parent / remaining: Remaining business (Nagothane, CPE technology) stays with MSL; the Scheme is said to enable better assessment of capital needs and focused deployment of resources across the manufacturing, drilling and renewable energy businesses; separated business: The demerged manufacturing (Mangaon, Telangana), drilling (rig Jindal Explorer) and renewable energy assets are stated to have different capital intensity and funding requirements “Efficient Capital Allocation: The manufacturing, drilling and renewable energy businesses have different capital intensity and funding requirements. The proposed restructuring would enable better assessment of capital needs, focused deployment of resources and improved flexibility for future expansion and growth initiatives.”
-- **other — manufacturing technology platform** — parent / remaining: CPE technology at Nagothane remains with the Demerged Company; separated business: MPM technology at Mangaon goes to MSTL; FQM technology at Telangana goes to USL “Technology-Specific Operational Focus: The manufacturing facilities operate on different technological platforms, including CPE technology at Nagothane, MPM technology at Mangaon and FQM technology at Telangana, each requiring specialized operational management, modernization initiatives and technical expertise.”
-- **other — turnover split** — parent / remaining: Remaining: Rs. 3185 crores, 68.18% of FY 2025-26 operational turnover of Rs. 4671 crores; separated business: Demerged Undertaking 1: Rs. 793 crores (16.98%); Demerged Undertaking 2: Rs. 693 crores (14.84%) “Demerged Undertaking 1 793 16.98% Demerged Undertaking 2 693 14.84% Remaining 3185 68.18% Total 4671 100.00%”
-- **other — installed capacity of the separated plants** — parent / remaining: not stated (capacity of the remaining Nagothane undertaking is not given in the Scheme filings; on the Q3 FY26 call management said "Against, 4,41,000 tons for FY '25, capacity is 5,50,000 tons which is active and utilizable" for the company as a whole); separated business: Mangaon 125,000 MTPA (to MSTL); Narketpally, Telangana 200,000 MTPA (to USL) “Seamless pipe manufacturing business of the Demerged Company located at Mangaon, Maharashtra (125,000 MTPA), captive solar power plant at Beed, Maharashtra (10 MW)”
-- **other — rig / drilling business** — parent / remaining: The pipe manufacturing business is stated to have different operational and commercial characteristics from the rig business; separated business: Rig Jindal Explorer moves into United Seamless Limited with Demerged Undertaking 2; on the Q2 FY26 call management said the rig "is in the final stage of refurbishment and will be deployed in about 10 days' time on its new ONGC contract" “Focused Development of Rig Operations: The rig business has distinct operational and commercial characteristics as compared to the pipe manufacturing business.”
-- **cash** — parent / remaining: Treasury of the listed company was stated on the earnings calls (pre-Scheme, no allocation to the undertakings given): "The second point is the treasury, which is at INR 3,115 crores as on 30th September '25."; separated business: not stated “The second point is the treasury, which is at INR 3,115 crores as on 30th September '25.”
-- **operating margin** — parent / remaining: Company-level seamless pipe margin guidance only, given before the Scheme was announced; no undertaking-wise margins are disclosed; separated business: not stated “We do not give out guidance specifically, but the only thing that I can tell you from some experience is that we don't see margins to decline materially from here. I think it will remain in the range of INR10,000 to INR15,000 per ton.”
+- **capex and capital intensity** — parent / remaining: Manufacturing business retained at Nagothane; capital expenditure plan of INR852 crores, of which the Telangana finishing line (purchase orders of INR90 crores) and the cold drawn pipes project were started, with other items deferred pending reassessment; separated business: The manufacturing, drilling and renewable energy businesses being transferred are stated to have different capital intensity and funding requirements “Efficient Capital Allocation: The manufacturing, drilling and renewable energy businesses have different capital intensity and funding requirements.”
+- **other** — parent / remaining: Nagothane operates on CPE technology; separated business: Mangaon (Demerged Undertaking 1) operates on MPM technology and Telangana (Demerged Undertaking 2) on FQM technology “Technology-Specific Operational Focus: The manufacturing facilities operate on different technological platforms, including CPE technology at Nagothane, MPM technology at Mangaon and FQM technology at Telangana, each requiring specialized operational management, modernization initiatives and technical expertise.”
+- **other** — parent / remaining: Pipe manufacturing business; separated business: Rig business (rig Jindal Explorer) transferred with Demerged Undertaking 2, stated to have distinct operational and commercial characteristics “Focused Development of Rig Operations: The rig business has distinct operational and commercial characteristics as compared to the pipe manufacturing business.”
+- **cash** — parent / remaining: Treasury of INR 3,115 crores as on 30 September 2025; liquid investments of about INR3,500 crores of which close to INR2,957 crores in mutual funds; total portfolio return in excess of 24% for the nine months ending December 2025; separated business: not stated “The second point is the treasury, which is at INR 3,115 crores as on 30th September '25.”
+- **operating margin** — parent / remaining: Q2 FY '26 revenue declined by 5% to INR 1,234 crores, EBITDA declined by 27% to INR 123 crores, PAT declined by 44% to INR 130 crores, EPS INR 10 per share; management expects margins in the range of INR10,000 to INR15,000 per ton; separated business: not stated “We do not give out guidance specifically, but the only thing that I can tell you from some experience is that we don't see margins to decline materially from here. I think it will remain in the range of INR10,000 to INR15,000 per ton.”
+- **growth** — parent / remaining: Order book at INR1,302 crores as of 20th January, of which 33% comprises ONGC and Oil India orders; project awards declining; dispatches of 1,03,000 tons in Q2 and 1,01,000 tons in Q3; separated business: not stated “It says that project awards have declined 27% year-on-year and 13% in quarter 2 FY '26.”
+- **tax** — parent / remaining: Accumulated losses and unabsorbed depreciation in excess of INR1,500 crores in United Seamless Tubulaar Private Limited were set off against Maharashtra Seamless profits after the merger; separated business: not stated “Subsequent to merger of that company with Maharashtra Seamless, we were able to set off the profits of Maharashtra Seamless with the unabsorbed depreciation and accumulated losses of United Seamless Tubulaar, thereby saving tax of around INR375 crores.”
+- **debt and leverage** — parent / remaining: Credit rating remains at AA+, the highest credit rating the company has received in the past 11 to 12 years; separated business: Liabilities pertaining to the respective undertakings shall be assumed and discharged by the respective Resulting Companies in the ordinary course of business “The liabilities towards the creditors of the Demerged Company and/or the Resulting Companies under the Scheme are neither being reduced nor being extinguished and the liabilities pertaining to the respective undertakings shall be assumed and discharged by the respective Resulting Companies in the ordinary course of business.”
+- **other** — parent / remaining: Total renewable energy capacity of 59.5 megawatt, out of which 1 wind and 2 solar plants are in Maharashtra and 2 solar plants are in Rajasthan, earning EBITDA of approximately INR60 crores every year; separated business: Beed solar (10 MW) goes with Demerged Undertaking 1; Khetusar (20 MW) and Pokhran (5 MW) solar plants in Rajasthan go with Demerged Undertaking 2 “We already have 59.5 megawatt of renewable energy capacity, out of which 1 wind and 2 solar plants are in Maharashtra and 2 solar plants are in Rajasthan.”
 
 **The checklist:**
 

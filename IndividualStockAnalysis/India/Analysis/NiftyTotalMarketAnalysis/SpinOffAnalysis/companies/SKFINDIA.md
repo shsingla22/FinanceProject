@@ -8,9 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **SKF India (Industrial) Limited** | Industrial Business: manufacturing, trading, marketing and dealing with products, solutions and services with… | listed 2025-12-05 as SKFINDUS (NSE) | not stated (only Mr. Ranjan Kumar, Company Secret… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **SKF India (Industrial) Limited** | 2024-25 Scheme of Arrangement demerging the Industrial Busi… | Industrial Business: manufacturing, trading, marketing and dealing with rolling bearing, seals, rotating shaf… | listed 2025-12-05 as SKFINDUS (NSE) | not stated |
 
 **What is being separated, as the documents put it:** SKF India's Industrial business (Demerged Undertaking) hived into SKF India (Industrial) Limited on going-concern basis — class `value_unlocking`.
 
@@ -20,26 +20,32 @@
 
 | Date | Event | Source |
 |---|---|---|
+| 2024-09-17 | Other — Aktiebolaget SKF / SKF India Limited | as stated: Press Release filing dated 17th September 2024 enclosing AB SKF press… |
 | 2024-10-08 | Stage reached: **announced** | [Outcome of Board Meeting](https://nsearchives.nseindia.in/corporate/SKFINDIA_08102024180012_NSE.pdf) |
-| 2024-12-26 | Board approval — SKF India Limited and SKF India (Industrial) Limited | as stated: Filing dated 26th December 2024 (Regulation 30 announcement); NCLT or… |
-| 2025-03-27 | SEBI observations — SKF India Limited | as stated: SEBI letter dated March 27, 2025 referred to in BSE and NSE observati… |
-| 2025-03-28 | Exchange no-objection — SKF India Limited | as stated: Filing dated 28th March 2025 — BSE Observation Letter DCS/AMAL/TS/R37… |
-| 2025-06-04 | Other — SKF India Limited (First Applicant Company) | as stated: NCLT (Mumbai Bench) order dated 04.06.2025 in C.A.(CAA)/130(MB)2025 d… |
+| 2024-10-08 | Board approval — SKF India Limited | as stated: Outcome of Board Meeting / Acquisition filing dated 08th October 2024… |
+| 2024-12-17 | Other — SKF India (Industrial) Limited | as stated: Acquisition filing dated 17th December 2024 – Certificate of Incorpor… |
+| 2024-12-26 | Board approval — SKF India Limited and SKF India (Industrial) Limited | as stated: Outcome of Board Meeting and Demerger filings dated 26th December 202… |
+| 2025-03-10 | Filed with exchanges — SKF India Limited | as stated: NSE Observation Letter Ref: NSE/LIST/46505 dated March 28, 2025 – "Ba… |
+| 2025-03-27 | SEBI approval — SKF India Limited | as stated: BSE and NSE Observation Letters dated March 28, 2025 – "SEBI vide its… |
+| 2025-03-28 | Exchange no-objection — SKF India Limited | as stated: Demerger filing dated 28th March 2025 – Observation Letters dated 28t… |
+| 2025-04-09 | Other — SKF India Limited and SKF India (Industrial) Limited | as stated: Compliance Letter dated November 28, 2025 – "the application was file… |
+| 2025-06-04 | NCLT order — SKF India Limited and SKF India (Industrial) Limited | as stated: Demerger filing dated 05th June 2025 – NCLT Order dated 04th June 202… |
 | 2025-07-14 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.in/corporate/SKFINDIA23_14072025192642_NSE.pdf) |
-| 2025-07-14 | Shareholders / creditors meeting — SKF India Limited equity shareholders (meeting of unsecured creditors dispensed with; SKF Industrial shareholders' meeting dispensed with) | as stated: Filing dated 14th July 2025 — proceedings of the NCLT-convened meetin… |
-| 2025-09-26 | NCLT order — SKF India Limited and SKF India (Industrial) Limited | as stated: Filing dated September 26, 2025 — Order pronounced on 26.09.2025 in C… |
-| 2025-09-30 | Other — SKF India Limited | as stated: Filing dated 30th September 2025 — receipt of certified copy of the N… |
-| 2025-10-01 | Effective date — SKF India Limited and SKF India (Industrial) Limited | as stated: Filing dated 01st October 2025 — Scheme made effective by filing cert… |
-| 2025-10-01 | Appointed date — SKF India Limited and SKF India (Industrial) Limited | as stated: Filing dated 01st October 2025 — "The Appointed Date is opening of bu… |
+| 2025-07-14 | Shareholders / creditors meeting — SKF India Limited | as stated: Shareholders meeting filings dated 14th July 2025 – NCLT-convened mee… |
+| 2025-09-26 | NCLT order — SKF India Limited and SKF India (Industrial) Limited | as stated: Demerger filing dated September 26, 2025 – Order of Hon'ble NCLT, Mum… |
+| 2025-09-30 | Other — SKF India Limited | as stated: Demerger filing dated 30th September 2025 – receipt of certified copy… |
+| 2025-10-01 | Appointed date — SKF India Limited and SKF India (Industrial) Limited | as stated: Demerger filing dated 01st October 2025 – "The Appointed Date is open… |
+| 2025-10-01 | Effective date — SKF India Limited and SKF India (Industrial) Limited | as stated: Demerger filing dated 01st October 2025 – "the Scheme is made effecti… |
 | 2025-10-15 | **Record date** | NSE corporate-actions register |
 | 2025-10-15 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2025-10-15 | Record date — SKF India Limited shareholders | as stated: Intimation dated 02nd October 2025, referred to in filings dated 17th… |
+| 2025-10-15 | Record date — SKF India Limited | as stated: Record Date filing dated 02nd October 2025 – Boards of the Company an… |
 | 2025-10-17 | Stage reached: **listed** | [Demerger](https://nsearchives.nseindia.in/corporate/SKFINDIA22_17102025222058_NSE.pdf) |
-| 2025-10-17 | Allotment — SKF India (Industrial) Limited — 4,94,37,963 equity shares of face value Rs. 10 each | as stated: Filing dated 17th October 2025 (Board of the Resulting Company letter… |
+| 2025-10-17 | Allotment — SKF India (Industrial) Limited | as stated: Demerger filing dated 17th October 2025 – Board of the Resulting Comp… |
 | 2025-11-15 | Stage reached: **nclt sanction** | [Press Release](https://nsearchives.nseindia.com/corporate/SKFINDIA25_15112025132755_NSE.pdf) |
-| 2025-11-21 | Other — SKF India Limited and SKF India (Industrial) Limited | as stated: Filing dated 21st November 2025 — communication to shareholders on ap… |
+| 2025-11-27 | Other — SKF India (Industrial) Limited | as stated: Compliance Letter dated November 28, 2025 – newspaper advertisement d… |
 | 2025-11-28 | Stage reached: **exchange noc** | [Updates](https://nsearchives.nseindia.com/corporate/SKFINDIA25_28112025194055_NSE.pdf) |
 | 2025-12-05 | **SKF India (Industrial) Limited** listed (SKFINDUS) | NSE equity list |
+| 2025-12-05 | Listing and trading — SKF India (Industrial) Limited | as stated: NSE's equity list (exchange record) – SKF India (Industrial) Limited … |
 
 **The stages, as filed:** announced (2024-10-08) → meetings (2025-07-14) → record date (2025-10-15) → listed (2025-10-17) → nclt sanction (2025-11-15) → exchange noc (2025-11-28)
 
@@ -53,7 +59,7 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| SKF India (Industrial) Limited | Approximately Rs. 28,978.7 Million for the financial year e… | 63.0% | 64.9% (FY2025) | 12,415 | 63.1% | yes |
+| SKF India (Industrial) Limited | "The turnover of the Demerged Undertaking of the Company fo… | 63.0% | 64.9% (FY2025) | 12,415 | 63.1% | yes |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,246 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
@@ -65,7 +71,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **SKF India (Industrial) Limited:** "1 (One) fully paid-up equity share of INR 10/- (Indian Rupees Ten only) each of the Resulting Company for every 1 (One) fully paid-up equity share of INR 10/- (Indian Rupees Ten only) each held in the Demerged Company." ("Share Entitlement Ratio")
+- **SKF India (Industrial) Limited:** "1 (One) fully paid-up equity share of INR 10/- (Indian Rupees Ten only) each of the Resulting Company for every 1 (One) fully paid-up equity share of INR 10/- (Indian Rupees Ten only) each held in the Demerged Company."
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -76,11 +82,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** 52.58% — shown as the post-Scheme (indicative) promoter shareholding of SKF Industrial which mirrors the Company, in the table headed "Details as on 26th December 2024"; no separate promoter holding percentage of SKF India Limited with a date is stated
-- **What the promoters will hold in the separated entity:** "Upon the effectiveness of the Scheme, the shareholding of SKF Industrial will mirror the shareholding of the Company." / "Mirrored shareholding and listing of SKF Industrial: The shareholding pattern of SKF India Limited will be mirrored by SKF Industrial, pursuant to which SKF Industrial shall also be listed on the stock exchange." Post-Scheme (indicative) shareholding of SKF Industrial: Promoters 52.58%, Public 47.42%.
-- **What a public shareholder receives:** "Shareholders of the Demerged Company (as on the Record Date) will receive 1 fully paid-up share of the Resulting Company (INR 10/- face value) for every 1 fully paid-up share of the Demerged Company (INR 10/- face value) held." "These new shares of the Resulting Company ("Resulting Company New Equity Shares") will be listed on BSE and NSE."
+- **Promoters in the parent, per the documents:** 52.58% – stated in the Regulation 30 disclosure dated 26th December 2024 as the post-Scheme (indicative) promoter shareholding of SKF Industrial, which mirrors SKF India ("Details as on 26th December 2024 … Promoters 100 / 52.58; Public - / 47.42"); the 14th July 2025 NCLT-convened meeting voting results show Promoter and Promoter Group holding 2,59,92,059 of 4,94,37,963 shares
+- **What the promoters will hold in the separated entity:** 2024-25 demerger into SKF India (Industrial) Limited: "Upon the effectiveness of the Scheme, the shareholding of SKF Industrial will mirror the shareholding of the Company." and "The post Scheme shareholding pattern of SKF Industrial will replicate/ mirror the shareholding pattern of SKF India."; indicative post-Scheme shareholding of SKF Industrial: "Promoters 52.58 / Public 47.42". Share Entitlement Ratio Report: "the proposed demerger is a 'mirror image' demerger, i.e. all the shareholders of the Demerged Company shall become shareholders of the Resulting Company and the shareholding pattern of the Resulting Company shall mirror the shareholding pattern of the Demerged Company, on the Record Date."
+- **What a public shareholder receives:** 2024-25 demerger: "Shareholders of the Demerged Company (as on the Record Date) will receive 1 fully paid-up share of the Resulting Company (INR 10/- face value) for every 1 fully paid-up share of the Demerged Company (INR 10/- face value) held." and "the demerger will not adversely impact the shareholding of the public shareholders. The new company will mirror the shareholding of the existing listed company with each shareholder of SKF India receiving one share of SKF Industrial as a consideration of the demerger." Public shareholders also retain their SKF India Limited shares, and "These new shares of the Resulting Company ("Resulting Company New Equity Shares") will be listed on BSE and NSE."
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** not stated in the documents on file.
+- **Insider actions around the separation:** Trading window closure on the promoter's separation announcement (17th September 2024): "The trading window for dealing in shares of the Company by Directors, Promoters, Designated Persons, and other insiders (including relatives thereof) is closed from the conclusion of this Board Meeting till 48 hours after the decision of the Board on this proposal." No promoter or management buying, selling or pledging around the separation is stated.
 - **Insiders, per the checklist read:** Not stated — mirror-image demerger: all shareholders of the Demerged Company become shareholders of the Resulting Company, whose shareholding pattern mirrors it; no promoter stake figures or incentive terms given. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -1411,23 +1417,23 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/SKFINDUS.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Industrial (Industrial Business / Demerged Undertaking demerged into SKF India (Industrial) Limited, effective October 1, 2025)** · unit ₹ million (MINR / INR in Million) · Revenue = segment net sales as disclosed in the segment-wise financial performance chart (Automotive + Industrial equal total company revenue — e.g. 31,909 + 17,290 = 49,199 in FY2025 — so exports are allocated inside the two segments; external revenue, no inter-segment line shown). Profit line given per segment is EBITDA (with EBITDA % of segment revenue: 18%/22%/17%/16% for FY22-FY25) plus a separate segment PAT (13%/15%/12%/11%). FY2026 PAT is the standalone 'Discontinuing operations' profit attributable to equity shareholders from the Annual Report 2026 EPS note, i.e. only April 1 – September 30, 2025 (the six months before the demerger took effect); on that same restated standalone discontinued-operations basis FY2025 PAT is 3,024.9 (AR2026 p288) versus 3,607 on the presentation's segment basis used below.
+**Industrial (Industrial Business / Demerged Undertaking demerged into SKF India (Industrial) Limited w.e.f. October 1, 2025)** · unit ₹ million (MINR) · Operating profit line is EBITDA as labelled in the demerger investor deck (EBITDA% 18/22/17/16 for FY22-FY25); PAT also disclosed (PAT% 13/15/12/11). Revenue is segment net sales to external customers, with exports allocated into the Automotive/Industrial split (Automotive 17,290 + Industrial 31,909 = company FY25 net sales 49,199; EBITDA 3,296 + 5,173 = 8,469; PAT 2,051 + 3,607 = 5,658, all matching the FY24-25 company totals on Presentation Jul 2025 page 5). Separately, AR2026 standalone presents the Industrial business as discontinued operations: profit attributable to shareholders 1,487.9 for Apr-Sep 2025 (part-year, pre-demerger period only) and 3,024.9 for FY2025 (Annual Report 2026 — page 288) — a different basis from the deck's 3,607.
 
-| | FY2022 | FY2023 | FY2024 | FY2025 | FY2026 |
-|---|---:|---:|---:|---:|---:|
-| Revenue (₹ million (MINR / INR in Million)) | 24,985 | 28,980 | 28,979 | 31,909 | — |
-| Revenue growth (%) | — | +16.0% | -0.0% | +10.1% | — |
-| Operating profit (₹ million (MINR / INR in Million)) | 4,430 | 6,421 | 4,987 | 5,173 | — |
-| Operating profit growth (%) | — | +44.9% | -22.3% | +3.7% | — |
-| Operating margin (%) | 17.7 | 22.2 | 17.2 | 16.2 | — |
-| PAT (₹ million (MINR / INR in Million)) | 3,139 | 4,424 | 3,524 | 3,607 | 1,488 |
-| PAT growth (%) | — | +40.9% | -20.3% | +2.4% | -58.7% |
+| | FY2022 | FY2023 | FY2024 | FY2025 |
+|---|---:|---:|---:|---:|
+| Revenue (₹ million (MINR)) | 24,985 | 28,980 | 28,979 | 31,909 |
+| Revenue growth (%) | — | +16.0% | -0.0% | +10.1% |
+| Operating profit (₹ million (MINR)) | 4,430 | 6,421 | 4,987 | 5,173 |
+| Operating profit growth (%) | — | +44.9% | -22.3% | +3.7% |
+| Operating margin (%) | 17.7 | 22.2 | 17.2 | 16.2 |
+| PAT (₹ million (MINR)) | 3,139 | 4,424 | 3,524 | 3,607 |
+| PAT growth (%) | — | +40.9% | -20.3% | +2.4% |
 
-*Sources:* Presentation Jul 2025 — page 8; Annual Report 2026 — page 288 (standalone EPS note, 'For Discontinuing operations'; part-year Apr 1 – Sep 30, 2025 only)
+*Sources:* Presentation Jul 2025 — page 8
 
-*Not in the pages read:* No segment assets, liabilities, capex or depreciation; no absolute quarterly Industrial revenue/profit; FY2026 revenue and EBITDA absent (only part-year discontinued-operations PAT).
+*Not in the pages read:* No segment assets/liabilities, capex or depreciation; no FY2026 or quarterly figures for the industrial entity itself. 2025-30 capex (₹3,500-4,500 Mn channel; ₹4,500-5,000 Mn new Pune plant) is a plan, not actual.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 10 presentation(s) on file):* Exports: reported only as a sales-mix % and growth % (e.g. 8% of sales), with no standalone annual revenue or profit. 'SIIL' / SKF India (Industrial) Limited's own post-demerger standalone statements are not on these pages.
+*Businesses with no numbers in the pages read (3 annual report(s) and 10 presentation(s) on file):* All named variants refer to the single separated Industrial business (SKF India (Industrial) Limited), for which the pages carry FY2022-FY2025 revenue, EBITDA and PAT. No standalone financials of SIIL itself are on these pages.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/eea31abf-a99b-40f8-94e3-19ff8f2e06d2.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/2ecd50c2-a585-400f-82a3-e93f9f67f010.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/129a5235-e25c-48a9-a345-f339b16b8513.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=921a9654-3781-443c-b89a-de70c964ab75.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6fc8549d-ea2f-4cdf-a02f-c74f2f40e661.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=22999b36-438c-4026-8b66-1302cdca34d0.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea8b3635-5385-4cf7-a7e7-35986deec736.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=15f86335-6c7e-44e0-ada0-bacaf0463f90.pdf); [Presentation May 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2af85195-591f-45a4-bcfb-8dbfb10e3dcd.pdf)
 
@@ -1456,18 +1462,18 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Automotive (Retained Business; 'SKF India Limited – Automotive' after the demerger) | 21,296 | 19.1% | — | 0.28x | ₹ million (MINR / INR i… | FY2026 |
-| Bearings (the only reported business segment in the financial statements; revenue split only by geography — within India / outside India) | 37,634 | — | — | 0.16x | ₹ million (INR in Milli… | FY2026 |
+| Automotive | 21,296 | 19.1% | — | 0.28x | ₹ million (MINR) | FY2026 |
+| Bearings (single reported business segment; geographical segment disclosure — whole company) | 21,296 | — | — | 0.28x | ₹ million (INR in Milli… | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **other** — parent / remaining: SKF India Limited: 46.88% of the total cost of acquisition of shares of the Company; separated business: SKF India (Industrial) Limited: 53.12% of the total cost of acquisition of shares of the Company “For the purpose of determining post demerger cost of acquisition of the equity shares of the Company and the equity shares of SKF Industrial, shareholders may apportion the pre demerger cost of acquisition of equity shares in the Company in the following manner: 1 SKF India Limited 46.88% 2 SKF India (Industrial) Limited 53.12%”
-- **growth** — parent / remaining: Post-demerger SKF India Limited (automotive): FY '26 sales grew 12.8% to INR 20.3 billion; Q4 FY '26 sales INR 5.55 billion, up 3% quarter-on-quarter and 14.8% year-on-year; full-year OE sales grew about 20% while exports and distribution dropped; forward growth guidance around 6% to 8% CAGR; separated business: not stated “If you look at our full year performance sales growth. It sales grew by solid 12.8% to amount INR20.3 billion.”
-- **operating margin** — parent / remaining: SKF India Limited: Q4 FY '26 profit before tax about 9% (770 basis points drop quarter-on-quarter); full-year FY '26 profitability about 12.3% (694 basis points drop); FY 2025-26 EBITDA margin 15% (management cited 15.3%); near-term sustainable PBT margin guided at 11-12%; separated business: Management view that the Industrial business carries a somewhat higher margin than automotive; no industrial margin figures stated in these documents “But overall, as per me, Industrial is a little higher margin business than automotive.”
-- **working capital** — parent / remaining: SKF India Limited: net working capital increased by about 4.6% quarter-on-quarter in Q4 FY '26 due to one-off factors, and improved by 3.7% year-on-year for the full year; cash flow for the year INR 4.05 billion at a cash conversion ratio of about 85%; separated business: not stated “For the full year, net working capital improved by 3.7% year -on-year.”
-- **capex and capital intensity** — parent / remaining: SKF India Limited: about INR 500 crores of investment across '26 to '28, of which around INR 200 crores in financial year '26-'27; capacity expansion across Pune, Haridwar and Bengaluru sites; separated business: not stated “So, from '26 to '28, we have around INR 500 crores investment, which will go through each year. This year, '26, will be around INR 200 crores.”
-- **debt and leverage** — parent / remaining: SKF India Limited: no secured creditors; 1,126 unsecured creditors with aggregate value Rs. 612,46,28,040 as on February 28, 2025; positive post-Scheme net worth of INR 956.29 crores; separated business: SKF India (Industrial) Limited: no secured creditors; 1 unsecured creditor of Rs. 40,000 as on February 28, 2025, who consented in writing “The First Applicant Company has 1,126 unsecured creditors with claims of about Rs.612.46 crores; however, as the Scheme does not affect their rights or liabilities and the Company's net worth remains positive post-Scheme, the meeting of unsecured creditors is dispensed with, subject to individual notices and opportunity for representation.”
-- **other** — parent / remaining: SKF India Limited (automotive): more than 90% localized products; buys medium-sized DGBB and tapered roller bearings from SKF Industrial because of capacity shortage, and receives rent plus certain service charges from Industrial as the plant and land belong to SKF India Limited; SKF Industrial share of Q4 FY '26 sales stood at 6%; separated business: SKF India (Industrial) Limited: trading / imported content continuing; the inter-company trading arrangement "is not going to sustain" and "over a period of time, it will go away" “From automotive perspective, we have almost more than 90% localized products.”
+- **operating margin** — parent / remaining: Automotive segment (globally): net sales SEK 30 billion with an adjusted operating margin of 5.6% for full-year 2023; SKF India Limited post-demerger PBT margin guidance of 11–12% in the near term and EBITDA margin of about 15.3% in FY2025-26; separated business: Industrial segment (globally): net sales SEK 73 billion with an adjusted operating margin of 15.4% for full-year 2023; "as per me, Industrial is a little higher margin business than automotive" “As a reference for the full-year 2023, net sales for the Automotive segment amounted to SEK 30 billion with an adjusted operating margin of 5.6%. The corresponding figures for the Industrial segment were SEK 73 billion and 15.4%, respectively.”
+- **return on capital** — parent / remaining: Automotive's return on capital employed was slightly lower, because Automotive is more localized and so carries higher assets and gross block; separated business: Industrial's return on capital employed was higher than Automotive's on the pro forma allocation “Having said that, manufacturing, given that Automotive is more localized, there are going to be higher assets and gross block for Automotive. And that's where you see that the return on capital employed for Automotive was slightly lower than Industrial.”
+- **capex and capital intensity** — parent / remaining: SKF Automotive: ₹4,100–5,100 million earmarked by 2030 to expand capacities across EV, two-wheeler and wheel-end bearing segments in Haridwar, Pune and Bangalore; INR 500 crores of investment from '26 to '28, around INR 200 crores in FY '26-'27; separated business: SKF Industrial: planned investments of ₹8,000–9,500 million by 2030, including a new manufacturing facility in Pune by 2028 “SKF Industrial will drive growth across manufacturing, railways, renewables, cement, and heavy engineering sectors, with planned investments of ₹8,000–9,500 million by 2030, including a new manufacturing facility in Pune by 2028.”
+- **other** — parent / remaining: Automotive manufacturing: large batch sizes, small and medium-sized bearings, few OEM customers, high automation, more than 90% localized products; separated business: Industrial manufacturing: very wide product portfolio, small/medium/large sizes, flexible manufacturing lines, customised solutions, a combination of manufactured and traded product, around 30% to 35% localized “We are already almost 30% to 35% localized and we will continue to leverage our regionalization and increase our localization in this market to be more competitive.”
+- **growth** — parent / remaining: SKF India Limited (Automotive) FY2025-26 sales grew 12.8% to INR 20.3 billion, with OE sales up about 20% while exports and distribution dropped; medium-term growth considered around 6% to 8% CAGR; separated business: SKF Industrial to drive growth across manufacturing, railways, renewables, cement and heavy engineering sectors; Industrial Business was 63% of turnover in FY ended 31st March 2024 “As I said, we had a sales growth of 3% with INR 5.6 billion of the sales.”
+- **working capital** — parent / remaining: SKF India Limited: net working capital increased by about 4.6% in Q4 FY26 due to one-off factors and improved 3.7% year-on-year for the full year; cash flow for the year INR 4.05 billion, a cash conversion ratio of about 85%; separated business: not stated “Moving to our net working capital. It increased by about 4.6% due to one-off factors and this same is expected to normalize as we move forward.”
+- **debt and leverage** — parent / remaining: "The Applicant Companies states that both the Demerged as well as Resulting Company does not have any Secured Creditors as on February 28, 2025."; 1,126 unsecured creditors aggregating Rs. 612,46,28,040 as on 28 February 2025; positive post-Scheme net worth of INR 956.29 crores; separated business: "There is 1 (One) Unsecured Creditor in the Second Applicant Company, having aggregate value of Rs. 40,000 (Rupees Forty thousand only) as on February 28, 2025." “Both Applicant Companies confirmed they have no secured creditors.”
 
 **The checklist:**
 

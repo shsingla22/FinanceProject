@@ -8,10 +8,12 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Ennature Bio Pharma Limited** | Biopharma Undertaking — production of nutraceuticals, phytochemicals, and natural plant-based active pharmace… | listed 2026-11-04 as ENNATURE (NSE) | Ms. Pragya Bhartia Barwale (DIN: 02109262) as Man… |
-| **IGL Spirits Limited** | Spirits and Biofuel Undertaking — manufacturing and production of alcoholic & non-alcoholic beverages, ethano… | listed 2026-11-04 as IGLSPIRITS (NSE) | Shri U.S. Bhartia (DIN: 00063091) as Chairman and… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Ennature Bio Pharma Limited** (earlier Ennature Bio Pharma Private Limited) | 2026 demerger of India Glycols into three entities (Resulti… | Biopharma Undertaking: bio-pharma and bio-polymers businesses; production of nutraceuticals, phytochemicals a… | listed 2026-11-04 as ENNATURE (NSE) | Ms. Pragya Bhartia Barwale (DIN: 02109262) as Man… |
+| **IGL Spirits Limited** | 2026 demerger of India Glycols into three entities (Resulti… | Spirits and Biofuel Undertaking: spirits business including IMFL, country liquor and bio-fuel businesses; man… | listed 2026-11-04 as IGLSPIRITS (NSE) | Shri U.S. Bhartia (DIN: 00063091) as Chairman and… |
+
+**The other parties to the scheme(s)** — not separated entities: Kashipur Holdings Limited — dropped / withdrawn
 
 **What is being separated, as the documents put it:** The Bio Pharma (Biopharma) Undertaking — bio-pharma and bio-polymers businesses, plant-based APIs, nutraceuticals and nicotine derivatives — class `value_unlocking`.
 
@@ -21,36 +23,36 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2025-02-04 | Board approval — Composite Scheme: KHL amalgamation into IGL + demerger of Bio Pharma Undertaking into EBL and Spirits and Biofuel Undertaking into ISL | as stated: Scheme of Arrangement intimation IGL/SE, 4th February 2025 |
-| 2025-05-16 | Board approval — Modified Scheme (demerger only into EBL and ISL); Original Scheme withdrawn, Part I (KHL amalgamation) deleted | as stated: Scheme of Arrangement intimation IGL/SE/2025-26/05, 16th May 2025 |
-| 2025-11-17 | Exchange no-objection — National Stock Exchange of India Limited — Observation letter no. NSE/LIST/48932 | as stated: cited in filings incl. Q1 FY27 results note 4, 12th August 2026, and … |
-| 2025-11-19 | Exchange no-objection — BSE Limited — Observation letter no. DCS/AMAL/TS/R37/3905/2025-26 | as stated: cited in filings incl. Q1 FY27 results note 4, 12th August 2026, and … |
+| 2025-02-04 | Board approval — India Glycols Limited (Composite Scheme of Arrangement: amalgamation of KHL + demerger of Bio Pharma Undertaking into EBL and Spirits and Biofuel Undertaking into ISL) | as stated: Scheme of Arrangement intimation under Regulation 30, 4th February 20… |
+| 2025-05-16 | Board approval — India Glycols Limited (withdrawal of the Original Composite Scheme and approval of the Modified Scheme involving the two demergers only) | as stated: Scheme of Arrangement intimation IGL/SE/2025-26/05, 16th May 2025 |
+| 2025-05-30 | Other — India Glycols Limited (board approved 1:2 stock split; Scheme references to face value Rs. 10 each updated to Rs. 5 each, with the exchange ratios updated accordingly) | as stated: Stock split / Regulation 30 disclosure IGL/SE/2025-26/14, 30th May 20… |
+| 2025-11-14 | SEBI approval — SEBI comments on the draft scheme conveyed through the Stock Exchanges | as stated: NSE Observation Letter Ref: NSE/LIST/48932, 17th November 2025 ("SEBI… |
+| 2025-11-17 | Exchange no-objection — National Stock Exchange of India Limited — Observation Letter with 'No Objection' (Ref: NSE/LIST/48932) | as stated: General Updates on the Scheme of Arrangement IGL/SE/2025-26/63, 20th … |
+| 2025-11-19 | Exchange no-objection — BSE Limited — Observation Letter with 'No Adverse Observations' (DCS/AMAL/TS/R37/3905/2025-26) | as stated: General Updates on the Scheme of Arrangement IGL/SE/2025-26/63, 20th … |
 | 2025-11-20 | Stage reached: **exchange noc** | [General Updates](https://nsearchives.nseindia.com/corporate/INDIAGLYCO_20112025145105_Reg_30_Disclosure_Observation_Letter-ocr.pdf) |
-| 2026-01-15 | Other — NCLT Allahabad Bench first motion order dispensing with certain meetings and directing meetings of Equity Shareholders and Unsecured Creditors of IGL | as stated: NCLT order dated 17.07.2026 and FY26 results note 4, 14th May 2026 |
+| 2026-01-15 | NCLT order — First Motion order, CA (CAA) No. 36/ALD/2025, NCLT Allahabad Bench, Prayagraj (meetings of equity shareholders and unsecured creditors of the Demerged Company directed; other meetings dispensed with) | as stated: Regulation 30 disclosure 'NCLT Order' IGL/SE/2025-26/72, 16th January… |
 | 2026-01-16 | Stage reached: **nclt sanction** | [Updates](https://nsearchives.nseindia.com/corporate/INDIAGLYCO_16012026154638_Reg_30_NCLT_Order.pdf) |
-| 2026-02-16 | Other — NCLT modification order read with the first motion order | as stated: NCLT order dated 17.07.2026; shareholders meeting filings 24th March … |
+| 2026-02-16 | NCLT order — Revised Order in partial modification of the 15th January 2026 order, rescheduling the meetings from 9th March 2026 to 24th March 2026 | as stated: Regulation 30 disclosure 'Revised Order - NCLT' IGL/SE/2025-26/82, 18… |
 | 2026-03-24 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.com/corporate/INDIAGLYCO_24032026201628_OutcomeSM.pdf) |
-| 2026-03-24 | Shareholders / creditors meeting — India Glycols Limited — Equity Shareholders (4,42,48,625 of 4,42,48,626 votes in favour, 1 against) and Unsecured Creditors (36 of 36 participating creditors in favour, 100% in value) | as stated: filings IGL/SE/2025-26/93 and /94, 24th March 2026; Chairperson's Rep… |
-| 2026-03-28 | Other — Second motion Company Petition CP (CAA) No. 07/ALD/2026 filed | as stated: NCLT order dated 17.07.2026 |
-| 2026-04-01 | Appointed date — all three companies | as stated: NCLT order dated 17.07.2026; filing 20th August 2026 |
-| 2026-04-09 | Other — NCLT admitted the Second Motion Petition and directed notices/publication (order uploaded 10th April 2026) | as stated: filing IGL/SE/2026-27/02, 10th April 2026 |
-| 2026-05-05 | Other — newspaper notices of hearing published in Business Standard (English) and Uttar Ujala (Hindi, Nainital Edition) | as stated: NCLT order dated 17.07.2026 |
-| 2026-07-02 | Other — NCLT heard the matter and reserved the order | as stated: filing IGL/SE/2026-27/22, 3rd July 2026, with NCLT order sheet dated … |
-| 2026-07-17 | NCLT order — NCLT Allahabad Bench, Prayagraj sanctioned the Scheme (CP (CAA) No.07/ALD/2026) | as stated: filings IGL/SE/2026-27/24 (17th July 2026) and /25 (20th July 2026) |
-| 2026-08-20 | Other — certified true copy of the NCLT order received by the Company | as stated: filing IGL/SE/2026-27/45, 20th August 2026 |
-| 2026-08-21 | Other — Board resolution by circulation fixing the Effective Date and Record Date; boards of EBL and ISL appoint directors/KMP | as stated: filings IGL/SE/2026-27/47, /48 and /49, 21st August 2026 |
-| 2026-09-01 | Effective date — all three companies; certified copy of NCLT order filed with Registrar of Companies, Uttarakhand; Resulting Companies ceased to be subsidiaries | as stated: filing IGL/SE/2026-27/51, 1st September 2026, with news release |
+| 2026-03-24 | Shareholders / creditors meeting — India Glycols Limited — court-convened meetings of Equity Shareholders (4,42,48,625 votes in favour out of 4,42,48,626) and Unsecured Creditors (36 of 36 participating creditors in favour, 100% in value) | as stated: Shareholders meeting / Updates disclosures IGL/SE/2025-26/93 and IGL/… |
+| 2026-03-28 | Other — Second Motion petition CP (CAA) No. 07/ALD/2026 filed before NCLT Allahabad Bench, Prayagraj | as stated: NCLT Order dated 17.07.2026, enclosed with 'Receipt of NCLT Order' IG… |
+| 2026-04-01 | Appointed date — India Glycols Limited, Ennature Bio Pharma Limited and IGL Spirits Limited | as stated: 'Receipt of NCLT Order' IGL/SE/2026-27/45, 20th August 2026 ("The App… |
+| 2026-04-09 | Other — NCLT order admitting the Second Motion Petition and directing newspaper publication and notices to authorities | as stated: Regulation 30 disclosure IGL/SE/2026-27/02, 10th April 2026 |
+| 2026-07-02 | Other — NCLT heard the matter and reserved the order | as stated: General Updates on the Scheme of Arrangement IGL/SE/2026-27/22, 3rd J… |
+| 2026-07-17 | NCLT order — NCLT Allahabad Bench, Prayagraj sanctioned the Scheme of Arrangement (CP (CAA) No. 07/ALD/2026) | as stated: 'Update on hearing before NCLT, Allahabad Bench at Prayagraj' IGL/SE/… |
+| 2026-08-20 | Other — Certified true copy of the NCLT order dated 17th July 2026 received by the Company | as stated: 'Receipt of NCLT Order' IGL/SE/2026-27/45, 20th August 2026 |
+| 2026-08-21 | Other — Board of India Glycols Limited fixed the Effective Date and the Record Date by resolution passed by circulation | as stated: General Updates (Regulations 30 and 42) IGL/SE/2026-27/47, 21st Augus… |
+| 2026-09-01 | Effective date — India Glycols Limited, Ennature Bio Pharma Limited and IGL Spirits Limited (certified copy of the NCLT order filed with Registrar of Companies, Uttarakhand; "the Resulting Companies have ceased to be the subsidiaries of the Company") | as stated: 'Effectiveness of the Scheme of Arrangement' IGL/SE/2026-27/51, 1st S… |
 | 2026-09-02 | **Record date** | NSE corporate-actions register |
 | 2026-09-02 | Stage reached: **record date** | Record Date (corporate-actions register) |
-| 2026-09-02 | Record date — India Glycols Limited shareholders entitled to shares of EBL and ISL | as stated: filings IGL/SE/2026-27/47 (21st August 2026) and the cost-of-acquisit… |
-| 2026-09-08 | Allotment — Ennature Bio Pharma Limited — 2,23,42,255 fully paid-up equity shares of INR 5/- each in the ratio of 1:3 | as stated: filing IGL/SE/2026-27/59, 8th September 2026 |
-| 2026-09-08 | Allotment — IGL Spirits Limited — 6,70,26,765 fully paid-up equity shares of INR 5/- each in the ratio of 1:1 | as stated: filing IGL/SE/2026-27/58, 8th September 2026 |
+| 2026-09-02 | Record date — India Glycols Limited shareholders entitled to shares of Ennature Bio Pharma Limited and IGL Spirits Limited | as stated: General Updates IGL/SE/2026-27/47, 21st August 2026; Apportionment of… |
+| 2026-09-08 | Allotment — Ennature Bio Pharma Limited allotted 2,23,42,255 equity shares (ratio 1:3) and IGL Spirits Limited allotted 6,70,26,765 equity shares (ratio 1:1), both of INR 5 each; Information Memorandum approved for listing application | as stated: 'Material Update in Connection with IGL Spirits Limited' IGL/SE/2026-… |
 | 2026-10-06 | Stage reached: **effective** | [Updates](https://nsearchives.nseindia.com/corporate/INDIAGLYCO_06102026180443_Apportionment_of_Cost_of_Acquisition.pdf) |
 | 2026-11-02 | Stage reached: **listed** | [Updates](https://nsearchives.nseindia.com/corporate/INDIAGLYCO_02112026231155_Intimation_ISL_.pdf) |
-| 2026-11-02 | Listing and trading — Ennature Bio Pharma Limited (2,23,42,255 shares) and IGL Spirits Limited (6,70,26,765 shares) — Listing and Trading Approvals received from BSE and NSE | as stated: filings IGL/SE/2026-27/72 and /73, 2nd November 2026 |
+| 2026-11-02 | Listing and trading — Ennature Bio Pharma Limited (2,23,42,255 equity shares) and IGL Spirits Limited (6,70,26,765 equity shares) — Listing and Trading Approvals received from BSE and NSE | as stated: Material Update disclosures IGL/SE/2026-27/72 and IGL/SE/2026-27/73, … |
 | 2026-11-04 | **Ennature Bio Pharma Limited** listed (ENNATURE) | NSE equity list |
 | 2026-11-04 | **IGL Spirits Limited** listed (IGLSPIRITS) | NSE equity list |
-| 2026-11-04 | Listing and trading — Ennature Bio Pharma Limited and IGL Spirits Limited — Date of Commencement of Trading | as stated: filings IGL/SE/2026-27/72 and /73, 2nd November 2026 |
+| 2026-11-04 | Listing and trading — Ennature Bio Pharma Limited (NSE: ENNATURE) and IGL Spirits Limited (NSE: IGLSPIRITS) — Date of Commencement of Trading | as stated: Material Update disclosures IGL/SE/2026-27/72 and IGL/SE/2026-27/73, … |
 
 **The stages, as filed:** exchange noc (2025-11-20) → nclt sanction (2026-01-16) → meetings (2026-03-24) → record date (2026-09-02) → effective (2026-10-06) → listed (2026-11-02)
 
@@ -64,12 +66,12 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Ennature Bio Pharma Limited | Biopharma Undertaking — INR 250.47 Crs, turnover as per FY … | 3.16% | 5.8% (FY2026) | 467 | 18.3% | no |
-| IGL Spirits Limited | Spirits and Biofuel Undertaking — INR 6,188.82 Crs, turnove… | 78.15% | 66.5% (FY2026) | 5,521 | 72.6% | no |
+| Ennature Bio Pharma Limited | Biopharma Undertaking turnover as per FY 23-24 financials I… | 3.16% | 5.8% (FY2026) | 467 | 18.3% | no |
+| IGL Spirits Limited | Spirits and Biofuel Undertaking turnover as per FY 23-24 fi… | 78.15% | 66.5% (FY2026) | 5,521 | 72.6% | no |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹2,087 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** ““Turnover of the demerged division and as percentage to the total turnover of the listed entity in the immediately preceding financial year / based on financials of the last financial year — Turnover as per FY 23-24 financials in INR Crs / %: Biopharma Undertaking 250.47 3.16%; Spirits and Biofuel Undertaking 6,188.82 78.15%; Remaining business 1,479.48 18.69%; Total 7,918.77 100%””
+**In the documents' words:** “"Turnover of the demerged division and as percentage to the total turnover of the listed entity in the immediately preceding financial year / based on financials of the last financial year" — "Particulars | Turnover as per FY 23-24 financials in INR Crs | % : Biopharma Undertaking 250.47 3.16%; Spirits and Biofuel Undertaking 6,188.82 78.15%; Remaining business 1,479.48 18.69%; Total 7,918.77 100%" (Scheme of Arrangement intimation, 16th May 2025). Quarterly: "India Glycols reported a net revenue to Rs 345 crore in the June 2026 quarter."; "IGL Spirits Limited reported a net revenue to Rs 694 crore in the June 2026 quarter."; "Ennature Bio Pharma reported a net revenue to Rs 90 crore in the June 2026 quarter." Cost of acquisition apportionment: "1. India Glycols Limited 31.77% 2. Ennature Bio Pharma Limited 20.61% 3. IGL Spirits Limited 47.62%"”
 
 **The judge's read of selling pressure:** likely — Smallest of three entities, only 2,23,42,255 shares on a 1-for-3 ratio creating odd lots; pharma/nutraceuticals unrelated to chemicals or spirits holders bought.
 
@@ -77,8 +79,8 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Ennature Bio Pharma Limited:** “EBL shall issue 1 (One) Equity Share having face value INR 10 (Indian Rupees Ten) each, to the shareholders of IGL holding 3 (Three) Equity Shares of INR 10 (Indian Rupees Ten) each”; after the stock split, per the NCLT order and record-date intimation: 1 (One) Equity Share of face value INR 5 each for every 3 (Three) Equity Shares of INR 5 each held in the Demerged Company
-- **IGL Spirits Limited:** “ISL shall issue 1 (One) Equity Share having face value INR 10 (Indian Rupees Ten) each, to the shareholders of IGL holding 1 (One) Equity Share of INR 10 (Indian Rupees Ten) each”; after the stock split, per the NCLT order and record-date intimation: 1 (One) Equity Share of face value INR 5 each for every 1 (One) Equity Share of INR 5 each held in the Demerged Company
+- **Ennature Bio Pharma Limited:** "1 (One) Equity Share of Resulting Company 1 for every 3 (Three) Equity Shares held in the Demerged Company" (face value INR 5 each); 2,23,42,255 equity shares of Rs. 5/- each allotted and listed
+- **IGL Spirits Limited:** "1 (One) Equity Share of Resulting Company 2 for every 1 (One) Equity Share held in the Demerged Company" (face value INR 5 each); 6,70,26,765 equity shares of Rs. 5/- each allotted and listed
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -90,11 +92,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** Promoters 1,88,91,032 equity shares, 61.01% of voting rights, Pre-Scheme as on 31st March 2025 (same 1,88,91,032 / 61.01 shown Post-Scheme); the same 61.01% is shown as on 31st December 2024 in the 4th February 2025 filing
-- **What the promoters will hold in the separated entity:** Mirror shareholding: “Such withdrawal and simultaneous approval of Modified Scheme would, therefore, not have any impact on the interest of the stakeholders including public shareholders as they will continue to own the same percentage of shares in IGL and Resulting Companies.” Post-Scheme: EBL Promoters 62,97,011 shares = 61.01% (Public 40,23,489 = 38.99%, total 1,03,20,500); ISL Promoters 1,88,91,032 shares = 61.01% (Public 1,20,70,468 = 38.99%, total 3,09,61,500); IGL Promoters 1,88,91,032 = 61.01%. Benefit to promoter/promoter group/group companies from the restructuring: “NIL.”
-- **What a public shareholder receives:** “Each Shareholder of India Glycols on the record date of September 2, 2026, will be entitled to receive one equity share of IGL Spirits Limited for every one equity share held in India Glycols Limited, and one equity share of Ennature Bio Pharma Limited for every three equity shares held in India Glycols Limited.” And: “As a result, a Shareholder holding 300 India Glycols shares on September 2, 2026, will be entitled to receive 300 equity shares of IGL Spirits Limited and 100 equity share of Ennature Bio Pharma Limited, resulting a total of 700 shares across the three entities, including the 300 equity shares held in India Glycols Limited.” Shares allotted rank pari passu with the existing equity shares of the respective Resulting Company; allotment is “Subject to the provisions for fractional entitlement in terms of the Scheme”.
+- **Promoters in the parent, per the documents:** "Promoters 1,88,91,032 61.01" of total 3,09,61,500 equity shares (pre-Scheme, as on 31st March 2025); "there is no change in the aggregate shareholding of promoter and promoter group, which remains at 61.01% of the total paid-up capital of the Company" (3rd December 2024); Kashipur Holdings Limited, Promoter Company, "holds 1,55,88,291 equity shares representing 50.35% of the total paid-up capital of the Company" (2nd December 2024); at the court-convened meeting of 24th March 2026, "Promoter and Promoter Group" held 3,99,67,854 shares of the total 6,70,26,765 shares
+- **What the promoters will hold in the separated entity:** Mirror shareholding in both Resulting Companies. "Pre and post-shareholding pattern of EBL upon demerger": Promoters Pre-Scheme 10,000 (100%) → Post-Scheme 62,97,011 (61.01%); Public Nil → 40,23,489 (38.99%); Total 10,000 → 1,03,20,500. "Pre and post-shareholding pattern of ISL upon demerger": Promoters Pre-Scheme 10,000 (100%) → Post-Scheme 1,88,91,032 (61.01%); Public Nil → 1,20,70,468 (38.99%); Total 10,000 → 3,09,61,500 (Scheme of Arrangement intimation, 16th May 2025; shares then of INR 10 face value, later updated to INR 5 after the stock split). For the parent: "Pre and post-shareholding pattern of IGL": Promoters 1,88,91,032 (61.01) → 1,88,91,032 (61.01); Public 1,20,70,468 (38.99) → 1,20,70,468 (38.99). Under the withdrawn 2025 Composite Scheme the corresponding post-scheme promoter holdings were 60.27% in IGL, EBL and ISL. "There will be no adverse implication on the existing public shareholders of Transferee Company as they will continue to own the same percentage of shares in the Company."
+- **What a public shareholder receives:** "Each Shareholder of India Glycols on the record date of September 2, 2026, will be enƒtled to receive one equity share of IGL Spirits Limited for every one equity share held in India Glycols Limited, and one equity share of Ennature Bio Pharma Limited for every three equity shares held in India Glycols Limited." "As a result, a Shareholder holding 300 India Glycols shares on September 2, 2026, will be enƒtled to receive 300 equity shares of IGL Spirits Limited and 100 equity share of Ennature Bio Pharma Limited, resulƒng a total of 700 shares across the three enƒƒes, including the 300 equity shares held in India Glycols Limited." Under the withdrawn 2025 Composite Scheme, KHL shareholders were additionally to receive "1 (One) Equity Share having face value of INR 10 (Indian Rupees Ten) each, for every 1(one) equity share held by KHL in IGL to shareholders of KHL in proportion to their shareholding in KHL."
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** Promoter subscription ahead of the demerger: the Board on 16th October 2025 approved “Raising funds through Issuance of up to 51,03,765 Equity Shares of Face Value of Rs. 5/- each, at a price of Rs. 915/- per Equity Share, (including a premium of Rs. 910/- per equity share) ... for an aggregate amount of up to Rs.4,66,99,44,975/- on preferential basis”, approved by shareholders at the EGM held on November 12, 2025, with allotment completed on 24th November 2025 (paid-up capital raised to Rs. 33,51,33,825/-; listing and trading approvals 5th January 2026, effective 6th January 2026). The CFO stated on the Nov 2025 call: “the company has decided to come out with the preferential allotment to the promoters, friends and relatives. Out of that, the Board has already approved the issuance of 467 crores equity at the rate of INR 915 to the promoters, friends and relatives”, and on the May 2026 call: “the company has prepaid almost about INR804 crores in this quarter, which has been funded by INR467 crores through equity issue”. At the court-convened meeting of 24th March 2026 the Promoter and Promoter Group cast 3,99,67,854 votes, 100% in favour. Earlier (pre-dating this separation), under a separate composite scheme effective 2nd December 2024, Kashipur Holdings Limited acquired an additional 37,79,819 equity shares representing 12.21% of paid-up capital from promoter group entities (Ajay Commercial Co. 6,11,255; Facit Commosales 10,57,853; JB Commercial 9,77,915; J Boseck & Co. 8,64,401; Lund & Blockley 500; Supreet Vyapaar 2,67,895), taking Kashipur Holdings to 1,55,88,291 shares or 50.35%. No promoter or management pledging, selling or stated intent to sell in the Resulting Companies is stated. Benefit to promoter/promoter group/group companies from the proposed restructuring: “NIL.”
+- **Insider actions around the separation:** Preferential issue to promoters: "IGL has, on 24th November, 2025, successfully allotted, on preferential basis 51,03,765 Equity Shares of Face Value Rs. 5/- each, at an issue price of Rs. 915/- per Equity Share (Including a premium of Rs. 910/-per Equity Share), aggregating to Rs. 466.99 Crore, for cash consideration, as approved earlier by the Board of Directors in its meeting held on 16th October, 2025 and subsequently by the Members at their Extraordinary General Meeting held on 12th November, 2025." "Of the newly issued Equity Shares, Kashipur Holdings Limited (KHL), part of the Promoter Group, was allotted 21,85,790 Equity Shared and 29,17,975 Equity Shares have been allotted to various funds and other investors belonging to the Non-Promoter category." "The funds raised from this preferential issue will be used to reduce IGL's overall debt including term loans and working capital by 31st March, 2026." On the Nov 2025 call: "the company has decided to come out with the preferential allotment to the promoters, friends and relatives." Promoter consolidation: "Acquisition of additional 37,79,819 equity shares by Kashipur Holdings Limited, Promoter Company representing 12.21% of the total paid-up capital of the Company from below mentioned Promoter group entities." — "Consequently, Kashipur Holdings Limited has become the Holding Company of India Glycols Limited w.e.f. 2nd December, 2024." Scheme vote: Promoter and Promoter Group cast 3,99,67,854 votes, 100% in favour, at the court-convened meeting on 24th March 2026. No promoter sale or pledge is stated.
 - **Insiders, per the checklist read:** Promoter family controls it: Pragya Bhartia Barwale Managing Director 5 years (ran the division to Rs 200 crore revenue); father U.S. Bhartia and sister Pooja Jhaver non-executive directors; promoters held 3,99,67,854 of 6,70,26,765 IGL shares, voted 100% in favour. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -686,111 +688,111 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/IGLSPIRITS.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Spirits and Biofuel Undertaking (Spirits Business – IMFL, Country Liquor + Bio-Fuel Business), shown in presentations as "IGL Spirits" → IGL Spirits Limited** · unit ₹ Cr · Entity/undertaking-level view in the demerger presentations: revenue = Net Revenue (net of State Excise Duty); operating_profit = EBITDA. FY26 gross sales ₹ 8,416 Cr vs net ₹ 2,801 Cr (Presentation Jun 2026 — page 23); FY25 gross ₹ 7,477 Cr / net ₹ 2,207 Cr (Presentation Feb 2026 — page 28). No PAT, assets, liabilities, capex or depreciation given at undertaking level.
+**Spirits and Biofuel Undertaking (IGL Spirits Limited — Spirits & Bio-fuels: IMFL, Country Liquor, Bio-Fuel)** · unit ₹ crore · Entity/undertaking-level pro-forma from investor decks. Revenue = NET revenue (net of excise duty); profit line = EBITDA (not EBIT, not PBT). FY26 EBITDA margin 17.6%; FY25 15.8%; FY24 15.4%. No PAT, assets, liabilities, capex or depreciation given at undertaking level. Jun-2026 deck (p23) also shows FY26 standalone gross sales ₹8,416 Cr / net ₹2,801 Cr (67% share); Nov-2025 & Feb-2026 decks (p24 / p28) show FY25 standalone gross ₹7,477 Cr / net ₹2,207 Cr (58.6% share).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ Cr) | 1,460 | 2,219 | 2,801 |
+| Revenue (₹ crore) | 1,460 | 2,219 | 2,801 |
 | Revenue growth (%) | — | +52.0% | +26.2% |
-| Operating profit (₹ Cr) | 224 | 350 | 492 |
+| Operating profit (₹ crore) | 224 | 350 | 492 |
 | Operating profit growth (%) | — | +56.2% | +40.6% |
 | Operating margin (%) | 15.3 | 15.8 | 17.6 |
-| PAT (₹ Cr) | — | — | — |
+| PAT (₹ crore) | — | — | — |
 | PAT growth (%) | — | — | — |
 
-*Sources:* Presentation Sep 2026 — page 8
+*Sources:* Presentation Sep 2026 — page 8; Presentation Sep 2026 — page 8; Presentation Nov 2026 — page 7
 
-*Not in the pages read:* No PAT, assets, liabilities, capex, depreciation or quarterly figures for the combined undertaking; EBITDA margins given (15.4%/15.8%/17.6%).
+*Not in the pages read:* No PAT, balance-sheet, capex, depreciation or post-demerger quarterly figures for the combined Spirits+Biofuel entity; only its two segments carry quarterly data.
 
-**Potable Spirits (IMFL, Country Liquor, ENA) → IGL Spirits Limited** · unit ₹ Lakh · Standalone Ind AS 108 segment disclosure. Revenue = Gross Segment Revenue from external customers (includes State Excise Duty; no inter-segment revenue reported). Profit line = Segment Result (PBIT), i.e. EBIT before interest and tax. Latest quarter is in ₹ Cr and on net revenue.
+**Potable Spirits (reported segment; manufacture and sale of Ethyl Alcohol (Potable), IMFL & Country Liquor) → IGL Spirits Limited** · unit ₹ lakh · Standalone Ind AS 108 segment disclosure. Revenue = Gross Segment Revenue from external customers (includes State Excise Duty; inter-segment nil). Profit line = Segment Result (PBIT) i.e. EBIT, before unallocable items, interest and tax. PAT is not disclosed by segment. Latest-quarter figures below are from the investor deck and are in ₹ crore (NET revenue and EBIT), not ₹ lakh.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ Lakh) | 557,491 | 643,390 | 694,643 |
+| Revenue (₹ lakh) | 557,491 | 643,390 | 694,643 |
 | Revenue growth (%) | — | +15.4% | +8.0% |
-| Operating profit (₹ Lakh) | 16,423 | 25,644 | 28,493 |
+| Operating profit (₹ lakh) | 16,423 | 25,644 | 28,493 |
 | Operating profit growth (%) | — | +56.1% | +11.1% |
 | Operating margin (%) | 2.9 | 4.0 | 4.1 |
-| PAT (₹ Lakh) | — | — | — |
+| PAT (₹ lakh) | — | — | — |
 | PAT growth (%) | — | — | — |
-| Segment assets (₹ Lakh) | 46,638 | 57,923 | 59,660 |
-| Segment liabilities (₹ Lakh) | 39,727 | 33,514 | 32,653 |
-| Capital employed (₹ Lakh) | 6,911 | 24,409 | 27,007 |
+| Segment assets (₹ lakh) | 46,638 | 57,923 | 59,660 |
+| Segment liabilities (₹ lakh) | 39,727 | 33,514 | 32,653 |
+| Capital employed (₹ lakh) | 6,911 | 24,409 | 27,007 |
 | Return on capital employed (%) | 238 | 105 | 106 |
 | Segment assets / revenue (x) | 0.1 | 0.1 | 0.1 |
-| Capex (₹ Lakh) | 2,635 | 2,647 | 3,523 |
+| Capex (₹ lakh) | 2,635 | 2,647 | 3,523 |
 
 *Sources:* Annual Report 2024 — page 146; Annual Report 2025 — page 150; Annual Report 2026 — page 152
 
-*Latest quarter (Q1 FY27):* revenue 361, operating profit 75 — Presentation Aug 2026 — page 28
+*Latest quarter (Q1 FY27):* revenue 361, operating profit 75 — Presentation Aug 2026 — page 28 (figures in ₹ crore: net revenue ₹361 Cr, EBIT ₹75 Cr, margin 20.8%)
 
-*Not in the pages read:* No segment-level PAT. Quarterly figures are ₹ Cr net revenue and EBIT, not the ₹ Lakh gross-revenue basis of the annual rows.
+*Not in the pages read:* Segment PAT not disclosed. Quarterly figures only in ₹ crore (net revenue/EBIT), so not in the segment's ₹ lakh gross-revenue basis.
 
-**Bio-Fuel (Ethanol, DDGS & DWGS) → IGL Spirits Limited** · unit ₹ Lakh · Standalone segment disclosure; segment carved out of BSPC in Q1 FY25, FY2024 figures are the restated comparative. Revenue = Gross Segment Revenue, external customers. Profit line = Segment Result (PBIT). Latest quarter in ₹ Cr on net revenue.
+**Bio-Fuel (reported segment; Ethanol, DDGS & DWGS — carved out of BSPC in Q1 FY25) → IGL Spirits Limited** · unit ₹ lakh · Standalone Ind AS 108 segment disclosure. Revenue = Gross Segment Revenue from external customers (inter-segment nil). Profit line = Segment Result (PBIT) i.e. EBIT. No segment PAT. FY2024 figures are the restated comparative in the FY2025 report (segment did not exist separately in the FY2024 report, where Bio-Fuel sat inside BSPC). Latest-quarter figures below are deck figures in ₹ crore (net revenue).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ Lakh) | 51,225 | 104,355 | 146,993 |
+| Revenue (₹ lakh) | 51,225 | 104,355 | 146,993 |
 | Revenue growth (%) | — | +103.7% | +40.9% |
-| Operating profit (₹ Lakh) | 3,086 | 5,668 | 11,523 |
+| Operating profit (₹ lakh) | 3,086 | 5,668 | 11,523 |
 | Operating profit growth (%) | — | +83.7% | +103.3% |
 | Operating margin (%) | 6.0 | 5.4 | 7.8 |
-| PAT (₹ Lakh) | — | — | — |
+| PAT (₹ lakh) | — | — | — |
 | PAT growth (%) | — | — | — |
-| Segment assets (₹ Lakh) | 82,561 | 111,663 | 142,996 |
-| Segment liabilities (₹ Lakh) | 23,229 | 8,981 | 9,227 |
-| Capital employed (₹ Lakh) | 59,333 | 102,682 | 133,769 |
+| Segment assets (₹ lakh) | 82,561 | 111,663 | 142,996 |
+| Segment liabilities (₹ lakh) | 23,229 | 8,981 | 9,227 |
+| Capital employed (₹ lakh) | 59,333 | 102,682 | 133,769 |
 | Return on capital employed (%) | 5.2 | 5.5 | 8.6 |
 | Segment assets / revenue (x) | 1.6 | 1.1 | 1.0 |
-| Capex (₹ Lakh) | 34,512 | 35,036 | 44,093 |
+| Capex (₹ lakh) | 34,512 | 35,036 | 44,093 |
 
-*Sources:* Annual Report 2025 — page 150; Annual Report 2026 — page 152
+*Sources:* Annual Report 2025 — page 150 (FY2024 comparative column); Annual Report 2025 — page 150; Annual Report 2026 — page 152
 
-*Latest quarter (Q3 FY26):* revenue 394, operating profit None — Presentation Feb 2026 — page 14
+*Latest quarter (Q3 FY26):* revenue 394, operating profit None — Presentation Feb 2026 — page 14 (₹ crore: net revenue ₹394 Cr, EBIT margin 8.4%; EBIT value not stated)
 
-*Not in the pages read:* No segment PAT; Q3 FY26 EBIT given only as margin 8.4%; no Bio-Fuel quarterly data after Q3 FY26 (FY26 net revenue ₹1,470 Cr, EBIT ₹115 Cr).
+*Not in the pages read:* Segment PAT; Q3 FY26 EBIT amount (margin only); no Q1/Q2 FY27 bio-fuel quarter figures on these pages. Deck net revenue FY25 ₹1,044 Cr / FY26 ₹1,470 Cr, EBIT ₹57 Cr / ₹115 Cr (Aug 2026 p37).
 
-**Bio Pharma Undertaking (Bio Pharma Business + Bio Polymers Business), shown in presentations as "Ennature" → Ennature Bio Pharma Limited (EBPL, Resulting Company 1)** · unit ₹ Cr · Entity/undertaking-level view in the demerger presentations: revenue = Net Revenue (= gross sales, no excise); operating_profit = EBITDA. Gross = net sales per structure pages: FY26 ₹ 247 Cr (Presentation Jun 2026 — page 23), FY25 ₹ 258 Cr (Presentation Feb 2026 — page 28). No PAT, assets, liabilities, capex or depreciation at undertaking level.
+**Bio Pharma Undertaking (Ennature Bio Pharma Limited — Bio Pharma business plus Bio Polymers business) → Ennature Bio Pharma Limited (Resulting Company 1 / EBPL)** · unit ₹ crore · Entity/undertaking-level pro-forma from investor decks. Revenue = NET revenue; profit line = EBITDA. EBITDA margins: FY24 24.1%, FY25 16.0%, FY26 11.9%. Nov-2026 deck (p7) calls it 'Nutraceuticals & plant-based APIs', FY26 revenue ₹246 Cr, EBITDA ₹29 Cr (4% of group EBITDA), 1 EBPL share for every 3 IGL shares. Standalone proposed-structure slides show net sales ₹258 Cr for FY25 (3.2% share; Nov 2025 p24 / Feb 2026 p28) and ₹247 Cr for FY26 (6% share; Jun 2026 p23). Bio-polymers sale value alone: ₹39 Cr FY24, ₹37 Cr FY25 (Board's Report).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ Cr) | 250 | 257 | 246 |
+| Revenue (₹ crore) | 250 | 257 | 246 |
 | Revenue growth (%) | — | +2.8% | -4.3% |
-| Operating profit (₹ Cr) | 60.0 | 41.0 | 29.0 |
+| Operating profit (₹ crore) | 60.0 | 41.0 | 29.0 |
 | Operating profit growth (%) | — | -31.7% | -29.3% |
 | Operating margin (%) | 24.0 | 16.0 | 11.8 |
-| PAT (₹ Cr) | — | — | — |
+| PAT (₹ crore) | — | — | — |
 | PAT growth (%) | — | — | — |
 
-*Sources:* Presentation Sep 2026 — page 8
+*Sources:* Presentation Sep 2026 — page 8; Presentation Sep 2026 — page 8; Presentation Nov 2026 — page 7
 
-*Not in the pages read:* No PAT, assets, liabilities, capex, depreciation or quarterly numbers at undertaking level; EBITDA margins given (24.1%/16.0%/11.9%).
+*Not in the pages read:* No PAT, assets, liabilities, capex, depreciation or quarterly figures at undertaking/entity level.
 
-**Ennature Biopharma (Nutraceutical Products) → Ennature Bio Pharma Limited (EBPL, Resulting Company 1)** · unit ₹ Lakh · Standalone Ind AS 108 segment disclosure. Revenue = Gross Segment Revenue from external customers (no inter-segment). Profit line = Segment Result (PBIT), i.e. EBIT before interest and tax. Latest quarter is ₹ Cr net revenue.
+**Ennature Biopharma (reported segment; manufacture and sale of Nutraceutical Products) → Ennature Bio Pharma Limited (Resulting Company 1 / EBPL)** · unit ₹ lakh · Standalone Ind AS 108 segment disclosure (consolidated figures are identical for this segment). Revenue = Gross Segment Revenue from external customers (inter-segment nil). Profit line = Segment Result (PBIT) i.e. EBIT. No segment PAT. Latest-quarter figure below is a deck figure in ₹ crore (net revenue).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ Lakh) | 20,515 | 21,937 | 20,777 |
+| Revenue (₹ lakh) | 20,515 | 21,937 | 20,777 |
 | Revenue growth (%) | — | +6.9% | -5.3% |
-| Operating profit (₹ Lakh) | 3,860 | 2,076 | 723 |
+| Operating profit (₹ lakh) | 3,860 | 2,076 | 723 |
 | Operating profit growth (%) | — | -46.2% | -65.2% |
 | Operating margin (%) | 18.8 | 9.5 | 3.5 |
-| PAT (₹ Lakh) | — | — | — |
+| PAT (₹ lakh) | — | — | — |
 | PAT growth (%) | — | — | — |
-| Segment assets (₹ Lakh) | 42,718 | 44,100 | 42,642 |
-| Segment liabilities (₹ Lakh) | 9,288 | 6,214 | 9,249 |
-| Capital employed (₹ Lakh) | 33,429 | 37,887 | 33,393 |
+| Segment assets (₹ lakh) | 42,718 | 44,100 | 42,642 |
+| Segment liabilities (₹ lakh) | 9,288 | 6,214 | 9,249 |
+| Capital employed (₹ lakh) | 33,429 | 37,887 | 33,393 |
 | Return on capital employed (%) | 11.5 | 5.5 | 2.2 |
 | Segment assets / revenue (x) | 2.1 | 2.0 | 2.0 |
-| Capex (₹ Lakh) | 2,317 | 1,845 | 1,850 |
+| Capex (₹ lakh) | 2,317 | 1,845 | 1,850 |
 
 *Sources:* Annual Report 2024 — page 146; Annual Report 2025 — page 150; Annual Report 2026 — page 152
 
-*Latest quarter (Q3 FY26):* revenue 50, operating profit None — Presentation Feb 2026 — page 14
+*Latest quarter (Q3 FY26):* revenue 50, operating profit None — Presentation Feb 2026 — page 14 (₹ crore: net revenue ₹50 Cr, EBIT margin 4.1%; EBIT value not stated)
 
-*Not in the pages read:* No segment PAT; Q3 FY26 EBIT only as margin 4.1%; no EB quarterly data for FY27 quarters in these pages.
+*Not in the pages read:* Segment PAT; Q3 FY26 EBIT amount (margin only); no FY27 quarterly EB figures (post-demerger decks exclude it). 9MFY26 net revenue ₹144 Cr, margin 2.9% (Feb 2026 p15).
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 9 presentation(s) on file):* All named entities and undertakings carry numbers. No business-wise PAT is disclosed in the annual segment notes; no separate standalone financials of EBPL or IGL Spirits Limited appear in these pages.
+*Businesses with no numbers in the pages read (3 annual report(s) and 9 presentation(s) on file):* Maxicuma and Gingeren (Ennature brands) carry no figures. Bio Polymers business has only sale value in Board's Report (₹39 Cr FY24, ₹37 Cr FY25), no own segment disclosure.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/a6b8fff3-68da-42e8-8040-74f76eefed17.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/7ea40985-c46d-400b-b669-59957d7658ab.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/20671c87-1250-4d68-99c5-5b6258a07de2.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b2e33d12-c614-46a5-9725-e5c4f1b34d22.pdf); [Presentation Sep 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e7d4037-3270-42fc-99fb-5ce8f7e1f498.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a8dfb15f-33b5-4366-aadf-7daffd6110d7.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f522a026-5bc4-4d6e-92ca-ffe799e869eb.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c68849f3-0d26-4447-8688-56a7a3054943.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=be004a65-e6a0-4ee6-b12d-7fc562bf27d2.pdf)
 
@@ -819,18 +821,22 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Bio-based Specialities and Performance Chemicals (Glycols, Glycol Ethers, New Specialties, Industrial Gases; Bio Polymers move out with Bio Pharma) | 120,207 | 11.5% | 4.8% | 2.99x | ₹ Lakh | FY2026 |
-| India Glycols (retained chemicals/gases business, entity-level view in demerger presentations) | 1,164 | 14.5% | — | — | ₹ Cr | FY2026 |
+| Bio-based Specialities and Performance Chemicals (BSPC) — Glycols, Specialty Chemicals, Natural Gum & other related goods | 120,207 | 11.5% | 4.8% | 2.99x | ₹ lakh | FY2026 |
+| India Glycols — Chemicals (Glycols, Bio Glycols, New Specialty Products, Industrial Gases) | 1,164 | 14.5% | — | — | ₹ crore | FY2026 |
+| Bio Based Speciality Materials (incl. Gases) — Bio Glycols, Glycol Ether & GE Esters, industrial/food-grade/medical gases (new post-demerger sub-segment) | 382 | 16.2% | — | — | ₹ crore | n/a |
+| Sustainable & Performance Chemicals — bio-amines, green solvents, application-led chemistries (incl. Clariant JV) (new post-demerger sub-segment) | 313 | 16.3% | — | — | ₹ crore | n/a |
 
 **What the documents themselves say about the differences:**
 
-- **operating margin** — parent / remaining: Chemicals / Bio-based Specialities and Performance Chemicals (stays with IGL): FY26 net revenue INR1,203 crores, down 10.4%, EBIT INR141 crores, up 12.5%, EBIT margin 11.7%; Q4 FY26 EBIT margin 12.2%; separated business: Potable Spirits: FY26 top-line INR1,331 crores, up 14.4%, EBIT INR285 crores, up 11.1%, Q4 EBIT margin 22.1%. Bio-Fuels: FY26 EBIT margin 7.8%, Q4 9.9%. Ennature Biopharma: FY26 top-line broadly flat, Q4 EBIT INR3 crores, margins under pressure “So, in the Chemicals business, we've had a net revenue of INR1,203 crores in FY26, which is down 10.4%, but our EBIT at INR141 crores is up 12.5% and our EBIT margins are up to 11.7%.”
-- **growth** — parent / remaining: Chemicals net revenue down 10.4% in FY26 (INR1,203 crores), with the decline attributed to glycol ethers, gases and lower EO offtake by the joint venture; separated business: Bio-Fuels up 40.9% to INR1,470 crores with EBIT up 103.3%; Potable Spirits up 14.4% to INR1,331 crores; Ennature Biopharma top-line broadly flat “For the Bio-Fuels business, an excellent year with the 40.9% growth delivering a top-line of INR1,470 crores in FY26 and an EBIT of INR115 crores, which is nearly double, which is up 103.3% and an EBIT margin of 7.8%.”
-- **debt and leverage** — parent / remaining: About INR 600 crores of long-term debt allocated to India Glycols (chemicals), out of about INR 1,400 crores long-term debt of the company as at the November 2025 call; management stated the Chemical business is expected to be totally debt-free in FY28-29 after the sale of a further 24% of the JV equity; separated business: About INR 800 crores of long-term debt allocated to IGL Spirits; no debt figure stated for Ennature Bio Pharma Limited “So, in these two companies, India Glycols and IGL Spirits, the segregation what we have done as of date is about INR 600 crores and INR 800 crores. INR 600 crores in India Glycols and INR 800 crores in IGL Spirits.”
-- **capex and capital intensity** — parent / remaining: FY26 standalone Purchase of Property, plant & equipment INR 823.48 crores (FY25 INR 760.47 crores); management said no big-size capex and that any capex would be undertaken only after the demerger; separated business: About INR 400 crores of the FY26 capex went into two grain distilleries (Gorakhpur and Kashipur), i.e. the Spirits and Biofuel Undertaking “Actually, there are two distilleries largely, which are the main capital expenditure. One is the grain distillery in Gorakhpur, and one is the grain distillery in Kashipur.”
-- **tax** — parent / remaining: India Glycols Limited — 31.77% of the total cost of acquisition of equity shares; the demerger is in accordance with Section 2(35) of the Income Tax Act, 2025 (corresponding to Section 2(19AA) of the erstwhile Income-tax Act, 1961); an outstanding demand of Rs. 27,890/- for AY 2024-25 was raised against the Demerged Company and stated to have been discharged; separated business: Ennature Bio Pharma Limited — 20.61%; IGL Spirits Limited — 47.62%; the Income Tax Department reported no demand outstanding against either Resulting Company, and each Resulting Company undertakes liabilities relating to its Demerged Undertaking “Accordingly, f or the purpose of determining the Cost of Acquisition of the Equity Shares of the Company and the Resulting Companies following the Demerger , the shareholders may apportion the original Cost of Acquisition of their Equity Shares of India Glycols Limited in the following manner : 1. India Glycols Limited 31.77% 2. Ennature Bio Pharma Limited 20.61% 3. IGL Spirits Limited 47.62%”
-- **other** — parent / remaining: Standalone split disclosed for the quarter ended June 30, 2026: India Glycols Limited revenue from operations 354.64 crores, EBITDA 40.22 crores; separated business: IGL Spirits Limited revenue from operations 2,541.89 crores, EBITDA 120.10 crores; Ennature Bio Pharma Limited revenue from operations 90.39 crores, EBITDA 9.98 crores “Further, Key details of 3 companies for the quarter ended June 30,2026 are as under:- Company Name Revenue from operations EBITDA India Glycols Limited 354.64 40.22 IGL Spirits Limited 2,541.89 120.10 Ennature Bio Pharma Limited 90.39 9.98”
-- **other** — parent / remaining: The Clariant IGL Specialty Chemicals Private Limited joint venture stays with the chemicals business; consolidated Share of net profit of Joint Venture was INR 20.60 crores in Q1 FY27 and INR 46.42 crores in FY26, and management stated a further 24% of the JV equity is to be sold in FY28-29, the proceeds going to repay term loans; separated business: not stated — no joint venture or associate is stated to transfer to Ennature Bio Pharma Limited or IGL Spirits Limited “And as I have already told that in '28-'29, we are going to sell out 24% more equity as per the agreement.”
+- **growth** — parent / remaining: India Glycols Limited (remaining entity): revenue from operations 354.64 and EBITDA 40.22 for the quarter ended June 30, 2026 (INR Crores); Chemicals net revenue INR1,203 crores in FY26, down 10.4%; separated business: IGL Spirits Limited: revenue from operations 2,541.89, EBITDA 120.10; Ennature Bio Pharma Limited: revenue from operations 90.39, EBITDA 9.98 for the quarter ended June 30, 2026 (INR Crores) “Further, Key details of 3 companies for the quarter ended June 30,2026 are as under:- Company Name Revenue from operations EBITDA India Glycols Limited 354.64 40.22 IGL Spirits Limited 2,541.89 120.10 Ennature Bio Pharma Limited 90.39 9.98”
+- **operating margin** — parent / remaining: Chemicals (Bio-based Specialities and Performance Chemicals, the remaining business): "net revenue of INR1,203 crores in FY26, which is down 10.4%, but our EBIT at INR141 crores is up 12.5% and our EBIT margins are up to 11.7%"; separated business: Potable Spirits FY26 EBIT margin materially higher (EBIT INR285 crores on INR1,331 crores, Q4 EBIT margin 22.1%); Bio-Fuels FY26 EBIT margin 7.8% with EBIT up 103.3%; Ennature Biopharma margins under pressure (Q3 FY26 EBIT margin 4.1%, 9M FY26 2.9%) “As far as the Potable Spirit business is concerned, we posted a top-line of INR1,331 crores in FY26, up 14.4% and an EBIT of INR285 crores, which is up 11.1%.”
+- **debt and leverage** — parent / remaining: About INR 600 crores of long-term debt allocated to India Glycols Limited; management expects "the Chemical business will be totally debt-free" in FY28-29 after the planned sale of a further 24% of the joint venture equity; separated business: About INR 800 crores of long-term debt allocated to IGL Spirits Limited; of FY26-27 normal term-loan repayment of INR 268 crores, "in liquor, it is INR168 crores, and INR100 crores in Chemical" “So, in these two companies, India Glycols and IGL Spirits, the segregation what we have done as of date is about INR 600 crores and INR 800 crores. INR 600 crores in India Glycols and INR 800 crores in IGL Spirits.”
+- **capex and capital intensity** — parent / remaining: Chemicals capex described as incremental and modular: "we are talking about in the range of maybe INR 10 crores to INR 50 crore kind of CAPEX to start with"; plant shutdown 17th March to 2nd April 2026 for catalyst change reduced production and sales; separated business: Of roughly INR830 crores of FY26 capital expenditure, about INR 400 crores was the two grain distilleries (Gorakhpur and Kashipur) that sit in the Spirits and Biofuel Undertaking “Actually, there are two distilleries largely, which are the main capital expenditure. One is the grain distillery in Gorakhpur, and one is the grain distillery in Kashipur.”
+- **tax** — parent / remaining: The Income Tax Department "is permitted to retain recourse for recovery in respect of demand and any other future liabilities of the Demerged Company in respect of the assets sought to be transferred under the Scheme"; counsel noted "the Petitioner Company No.1 which is a demerging company and remains in existence post approval" would be bound by any outstanding demand (Rs.27,890/- outstanding per demand raised on 06th May, 2026); separated business: Tax liabilities, pending appeals and compliances relating to the Biopharma Undertaking and the Spirits and Biofuel Undertaking transfer to the respective Resulting Company from the Appointed Date, 01.04.2026 “The respective Resulting Company shall be responsible for paying any tax liability of the Demerged Company relating to the respective Demerged Undertaking, if any, pending on the Appointed Date, i.e., 01.04.2026 or determined by the Income Tax Department after the Appointed Date, i.e., 01.04.2026.”
+- **cash** — parent / remaining: INR 466.99 crore preferential issue proceeds plus internal accruals used to prepay about INR804 crores of debt in Q4 FY26, saving about INR20 crores of interest; other income of the remaining business includes the Clariant joint venture share (INR20.60 crores for the quarter ended 30 June 2026); separated business: not stated “So, this INR804 crores include the long-term debt, the working capital, and the short-term loans resulting in INR20 crores saving in the interest cost, which is already there in the results.”
+- **return on capital** — parent / remaining: Consolidated India Glycols Limited before the demerger; management also notes debt-to-equity down from 0.7x in FY23 to 0.5x in FY26 and interest coverage up from 2.3x to 3.0x; separated business: not stated (no separate return-on-capital figures given for the demerged undertakings) “And if you look at ROCE over the last few years, it has gone from 7.7% in FY23 to 11.9% in FY26, and RONW has gone up from 7.7% in FY23 to 11.3% in FY26.”
+- **other** — parent / remaining: Segment assets as at 30.06.2026 (standalone): Bio-based Specialities and Performance Chemicals 3,514.26; segment liabilities 577.54 (INR Crores); separated business: Segment assets as at 30.06.2026 (standalone): Potable Spirits 632.16, Bio-Fuel 1,538.06, Ennature Biopharma 417.28; segment liabilities Potable Spirits 385.41, Bio-Fuel 100.20, Ennature Biopharma 107.57 (INR Crores) “Segment assets -Bio-based Specialities and Performance Chemicals 3,514.26 -Potable Spirits 632.16 -Ennature Biopharma 417.28 -Bio- Fuel 1,538.06 -Unallocated 44.35 Total 6,146.11”
+- **working capital** — parent / remaining: not stated; separated business: IMFL expansion within the Spirits business is described as working-capital heavy, which is why the company prioritises government-corporation markets where payment is secure “We are very cautious about giving credit. So, our first focus is on the corporation-led markets in particular where the money is secure, because the working capital required for IMFL is very high.”
 
 **The checklist:**
 

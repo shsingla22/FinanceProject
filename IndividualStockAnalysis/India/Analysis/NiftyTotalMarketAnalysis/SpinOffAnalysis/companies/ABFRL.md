@@ -8,9 +8,11 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Aditya Birla Lifestyle Brands Limited** | Madura Fashion and Lifestyle Business: Louis Philippe, Van Heusen, Allen Solly, Peter England, American Eagle… | listed 2025-06-23 as ABLBL (NSE) | Mr. Ashish Dikshit (DIN: 01842066) as the Managin… |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Aditya Birla Lifestyle Brands Limited** | 2024 demerger of the Madura Fashion and Lifestyle Business … | Madura Fashion and Lifestyle Business: Louis Philippe, Van Heusen, Allen Solly, Peter England, Simon Carter, … | listed 2025-06-23 as ABLBL (NSE) | Mr. Ashish Dikshit, Managing Director; Mr. Vishak… |
+
+**The other parties to the scheme(s)** — not separated entities: TCNS Clothing Co. Limited — merged in — no shares for the parent's holders; Jaypore E-Commerce Private Limited — merged in — no shares for the parent's holders; TG Apparel & Decor Private Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** Madura Fashion & Lifestyle Business, demerged from ABFRL into wholly owned subsidiary Aditya Birla Lifestyle Brands Limited, effective May 1, 2025 — class `not stated`.
 
@@ -20,24 +22,31 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2024-04-01 | Appointed date — Scheme | as stated: NCLT order dated March 27, 2025 ("The appointed date is fixed as 01.0… |
+| 2024-04-01 | Other — Aditya Birla Fashion and Retail Limited | as stated: Press Release / media release, April 1, 2024 — Board authorized the m… |
+| 2024-04-01 | Appointed date — ABFRL / ABLBL | as stated: Effective date intimation, April 23, 2025 ("Appointed Date as per the… |
+| 2024-04-09 | Other — Aditya Birla Lifestyle Brands Limited | as stated: Intimation dated April 9, 2024 — incorporation of ABLBL (CIN U46410MH… |
 | 2024-04-19 | Stage reached: **announced** | [Scheme of Arrangement](https://nsearchives.nseindia.in/corporate/ABFRL_19042024171846_SE.pdf) |
-| 2024-04-19 | Board approval — Aditya Birla Fashion and Retail Limited and Aditya Birla Lifestyle Brands Limited | as stated: Outcome of Board Meeting / Scheme of Arrangement intimation dated Apr… |
-| 2024-10-28 | Exchange no-objection — National Stock Exchange of India Limited observation letter | as stated: NCLT order dated March 27, 2025 (Regional Director report observation… |
+| 2024-04-19 | Board approval — ABFRL and ABLBL | as stated: Scheme of Arrangement filing / Outcome of Board Meeting, April 19, 20… |
+| 2024-07-04 | Filed with exchanges — ABFRL | as stated: NSE Observation Letter Ref: NSE/LIST/41319 dated October 28, 2024 ("B… |
+| 2024-10-25 | SEBI observations — ABFRL | as stated: NSE Observation Letter dated October 28, 2024 ("SEBI vide its letter … |
+| 2024-10-28 | Exchange no-objection — National Stock Exchange of India Limited | as stated: NSE Observation Letter Ref: NSE/LIST/41319 dated October 28, 2024, di… |
 | 2024-10-30 | Stage reached: **exchange noc** | [General Updates](https://nsearchives.nseindia.in/corporate/ABFRL_30102024204414_SE-Observation_letter_intimation.pdf) |
-| 2024-10-30 | Exchange no-objection — BSE Limited observation letter | as stated: NCLT order dated March 27, 2025 (Regional Director report observation… |
-| 2024-11-27 | Other — NCLT order directing the Company to convene the meeting of its equity shareholders for approving the Scheme (received November 28, 2024) | as stated: General Updates intimation dated November 28, 2024 |
+| 2024-10-30 | Exchange no-objection — BSE Limited | as stated: Filing dated October 30, 2024 — Receipt of "No Observation letters" f… |
+| 2024-11-27 | Other — ABFRL | as stated: Filing dated November 28, 2024 — NCLT order dated November 27, 2024 d… |
 | 2025-01-21 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.in/corporate/ABFRL_21012025152425_SE.pdf) |
-| 2025-03-27 | NCLT order — NCLT, Mumbai Bench, Court-1 sanctioning the Scheme (C.P.(CAA)/43/MB/2025) | as stated: Intimation dated March 27, 2025 (Pronouncement of Order by NCLT) |
-| 2025-04-22 | Other — Receipt of certified true copy of the NCLT order | as stated: Audited results note dated May 23, 2025 and intimation dated April 23… |
-| 2025-04-23 | Other — Filing of certified copy of the NCLT order with the Registrar of Companies, Mumbai by ABFRL and ABLBL | as stated: Intimation dated April 23, 2025 |
-| 2025-05-01 | Effective date — Scheme | as stated: Intimation dated April 23, 2025 ("Effective Date in terms of the Sche… |
+| 2025-01-21 | Other — ABFRL | as stated: Corrigendum to EGM Notice dated February 4, 2025 — 6,85,83,059 equity… |
+| 2025-01-21 | Shareholders / creditors meeting — ABFRL equity shareholders | as stated: Proceedings of NCLT-convened meeting, January 21, 2025, and Voting Re… |
+| 2025-02-13 | Other — ABFRL | as stated: Press release February 14, 2025 and Corrigendum dated February 4, 202… |
+| 2025-03-27 | NCLT order — ABFRL and ABLBL | as stated: Filing dated March 27, 2025 — NCLT, Mumbai Bench order in C.P.(CAA)/4… |
+| 2025-04-22 | Other — ABFRL | as stated: Filing dated April 22, 2025 — receipt of certified copy of the NCLT o… |
+| 2025-04-23 | Other — ABFRL and ABLBL | as stated: Filing dated April 23, 2025 — both ABFRL and ABLBL filed the certifie… |
+| 2025-05-01 | Effective date — ABFRL / ABLBL | as stated: Filing dated April 23, 2025 ("Effective Date in terms of the Scheme i… |
 | 2025-05-22 | **Record date** | NSE corporate-actions register |
 | 2025-05-22 | Stage reached: **record date** | [Updates](https://nsearchives.nseindia.in/corporate/ABFRL_22052025113207_SE_Cost_Apportionment.pdf) |
-| 2025-05-22 | Record date — Aditya Birla Fashion and Retail Limited shareholders entitled to ABLBL shares | as stated: Record Date intimation dated May 12, 2025 |
-| 2025-05-26 | Allotment — Aditya Birla Lifestyle Brands Limited allotted 1,22,02,94,773 fully paid-up equity shares | as stated: Material Information/Updates intimation dated May 26, 2025 |
+| 2025-05-22 | Record date — ABFRL | as stated: Record Date intimation dated May 12, 2025 (Thursday, May 22, 2025 fix… |
+| 2025-05-26 | Allotment — Aditya Birla Lifestyle Brands Limited | as stated: Filing dated May 26, 2025 — allotment of 1,22,02,94,773 equity shares… |
 | 2025-06-23 | **Aditya Birla Lifestyle Brands Limited** listed (ABLBL) | NSE equity list |
-| 2025-06-23 | Listing and trading — Aditya Birla Lifestyle Brands Limited, on BSE Limited and the National Stock Exchange of India Limited | as stated: Note 6 to standalone results for the quarter and nine months ended De… |
+| 2025-06-23 | Listing and trading — Aditya Birla Lifestyle Brands Limited | as stated: NSE equity list (ABLBL, listed 2025-06-23); company press release dat… |
 | 2026-02-10 | Stage reached: **effective** | [Updates](https://nsearchives.nseindia.com/corporate/ABFRL_10022026135217_Outcome.pdf) |
 | 2026-07-02 | Stage reached: **nclt sanction** | [General Updates](https://nsearchives.nseindia.com/corporate/ABFRL_02072026181255_SE_Pronouncement_of_order.pdf) |
 
@@ -53,11 +62,11 @@
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Aditya Birla Lifestyle Brands Limited | Rs. 7,607 crores as on March 31, 2023 (turnover of the MFL … | 64.81% | 103.6% (FY2025) | 9,552 | 66.6% | yes |
+| Aditya Birla Lifestyle Brands Limited | MFL Business turnover Rs. 7,607 crores as on March 31, 2023… | 64.81% | 103.6% (FY2025) | 9,552 | 66.6% | yes |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹4,795 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “The turnover of the MFL Business of the Demerged Company as on March 31, 2023, was Rs. 7,607 crores and forms 64.81 % of the total standalone turnover of the Demerged Company as on March 31, 2023.”
+**In the documents' words:** “The turnover of the MFL Business of the Demerged Company as on March 31, 2023, was Rs. 7,607 crores and forms 64.81 % of the total standalone turnover of the Demerged Company  as on March 31, 2023.”
 
 **The judge's read of selling pressure:** unclear — Documents give 1:1 distribution to all shareholders and listing date, but no size, index or shareholder-base detail; same fashion-retail industry.
 
@@ -65,7 +74,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Aditya Birla Lifestyle Brands Limited:** 1 (one) fully paid-up equity share of ₹ 10/- (Rupees Ten) each of Resulting Company for every 1 (one) fully paid-up equity share of ₹ 10/- (Rupees Ten) each of Demerged Company.
+- **Aditya Birla Lifestyle Brands Limited:** "1 (one) fully paid-up equity share of ₹ 10/- (Rupees Ten) each of Resulting Company for every 1 (one) fully paid-up equity share of ₹ 10/- (Rupees Ten) each of Demerged Company." 1,22,02,94,773 equity shares allotted on May 26, 2025; entire pre-Scheme capital of 50,000 shares held by ABFRL cancelled
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -76,11 +85,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** Upon effectiveness of the Scheme, the entire existing equity share capital of the Resulting Company shall stand cancelled and new equity shares (as mentioned in point (e) below) shall be allotted by the Resulting Company to the equity shareholders of the Demerged Company on the Record Date in accordance with the Scheme. Thus, the equity shareholding in the Resulting Company would mirror the shareholding of the Demerged Company.
-- **What a public shareholder receives:** No cash consideration is payable under the Scheme. The consideration for demerger shall be discharged by issue of equity shares by the Resulting Company as follows: 1 (one) fully paid-up equity share of ₹ 10/- (Rupees Ten) each of Resulting Company for every 1 (one) fully paid-up equity share of ₹ 10/- (Rupees Ten) each of Demerged Company.
-- **Management incentives:** Treatment of existing option grants under the Scheme is not stated, and no new plan in the Resulting Company is disclosed. The filings state only, verbatim: "ESOP Share Allotment: Pursuant to various Employees Stock Option Schemes, following Equity Shares of ₹.10 each were allotted /transferred to the option grantees" — 2,25,779 (Non-Trust Route) and 1,60,443 (by way of transfer from ESOP Trust) for the quarter ended December 31, 2025; 4,82,075 and 3,18,344 respectively for the year ended March 31, 2025. The Scheme also provided for "allotment of 5,55,000 8% non-cumulative non-convertible redeemable preference shares shares to Birla Management Centre Services Private Limited pursuant to Clause 4.2.16 of the Scheme". Management or insider shareholding: not stated.
-- **Insider actions around the separation:** Promoter/Promoter Group subscribed to a preferential issue shortly before the demerger became effective: "On January 15, 2025, the Board of Directors of the Company approved the Preferential Issue aggregating to ₹2,378.75 crores to the Promoter Group and to certain Qualified Institutional Buyers under Non-Promoter category", of which "up to 4,08,33,990 equity shares of face value of ₹10 each at issue price of ₹317.75 each (including premium of ₹307.75 each), aggregating to ₹1,297.50 crores to the Promoter/ Promoter Group category" was approved by shareholders on February 13, 2025 and allotted by the Preferential Issue Committee on February 24, 2025. No promoter or management selling or pledging is stated.
+- **Promoters in the parent, per the documents:** Promoter and promoter group: 52,75,17,139 shares, 46.28% pre-issue (pre-issue shareholding includes 6,85,83,059 equity shares allotted on January 21, 2025 pursuant to Qualified Institutional Placement) and 56,83,51,129 shares, 46.58% post the preferential issue, per the Corrigendum to the EGM Notice dated February 4, 2025 (EGM held February 13, 2025). Of this, Indian individuals/HUF 21,56,877 (0.19%) and bodies corporate 52,53,60,262 (46.09%).
+- **What the promoters will hold in the separated entity:** 2024 demerger into ABLBL — mirror shareholding: "Upon effectiveness of the Scheme, the entire existing equity share capital of the Resulting Company shall stand cancelled and new equity shares (as mentioned in point (e) below) shall be allotted by the Resulting Company to the equity shareholders of the Demerged Company on the Record Date in accordance with the Scheme. Thus, the equity shareholding in the Resulting Company would m irror the shareholding of the Demerged Company." 2024 TCNS amalgamation and 2026 Jaypore/TG Apparel amalgamation: no promoter holding in a new entity arises — for the 2026 scheme "the shares held directly by the Amalgamated Company in the Amalgamating Companies along with nominees, will stand cancelled and no consideration whatsoever shall pass from the Amalgamated Company."
+- **What a public shareholder receives:** 2024 demerger into ABLBL: "ABLBL shall issue and allot 1 (One) fully paid-up equity share of ABLBL having face value of Rs 10 (Rupees Ten) each for every 1 (One) fully paid-up equity share of Rs 10 (Rupees Ten) each of the Company to the shareholders of the Company whose names are recorded in the register of members and / or records of the depository a s on the Record Date (i.e., Thursday, 22nd May 2025)." — in addition to their existing shareholding in ABFRL: "the shareholders of ABFRL will get one share of ABLBL for every one share in ABFRL, in addi tion to their existing shareholding in ABFRL." 2024 TCNS amalgamation: ABFRL's own public shareholders received nothing; TCNS shareholders received "11 fully paid-up equity shares of the face value Rs. 10 each of ABFRL for every 6 fully paid-up equity shares of face value of Rs. 2 each held in TCNS." 2026 Jaypore/TG Apparel amalgamation: nothing — no consideration passes and no new shares are issued.
+- **Management incentives:** Treatment of stock options / RSUs / SARs in the schemes is not stated. Insider and employee-trust shareholding is disclosed in Annexure A of the EGM Notice (Corrigendum dated February 4, 2025): "Directors and their relatives (excluding independent directors and nominee directors)  7,08,556  0.06 ... Key Managerial Personnel  1,24,564  0.01" and "Non - Promoter Non - Public Shareholders (Employee Benefit Trust)  44,06,334  0.39" (post-issue 0.06%, 0.01% and 0.36% respectively). The standalone financial results "include the financial information of ABFRL Employee Welfare Trust". On intent to subscribe to the preferential issue: "Other than above, none of the promoters, directors, key management personnel or senior management of the Company intends to subscribe the offer." New ABLBL management appointments were made (Ashish Dikshit as Managing Director, Vishak Kumar as Deputy Managing Director and CEO, Dharmendra Lodha as CFO, Rajeev Agrawal as Company Secretary, and senior managerial personnel Puneet Kumar Malik, Jacob John and Narahari N), but no incentive plan, exercise price or pricing date is stated.
+- **Insider actions around the separation:** Promoter group subscribed to the pre-demerger capital raise: "The board of Aditya Birla Fashion and Retail Limited ("ABFRL") in its meeting today approved raising of USD 500 Mn through a combination of preferential issuance and Qualified Institutional Placement ("QIP") of equity shares. The Preferential issuance of USD 275 Mn will be led by the promoter group investing USD 150 Mn. and Fidelity Investments investing USD 125 Mn. The promoter participation is at a significant premium of 17.5% over yesterday's closing price, signalling strong conviction in the value creation potential of ABFRL." Specifically: "Pilani Investment and Industries Corporation Limited, part of Promoter Group of the Company intends to subscribe up to 4,08,33,990 equity shares in the proposed Preferential Issue" at ₹317.75 per share aggregating up to ₹12,97,50,00,521, taking its holding from 0.35% pre-issue to 3.67% post-issue. At announcement of the demerger: "ABFRL plans to raise ~ Rs. 2500 Cr equity capital within 12 months of demerger with promoter participation" and "The company's promoter group will fully support t he proposed equity raise." Promoter and promoter group voted 52,75,17,139 shares (100%) in favour of the Scheme at the NCLT-convened meeting, and "Whether promoter/ promoter group are intere sted in the agenda/resolution? NO". No promoter or management selling or pledging is stated.
 - **Insiders, per the checklist read:** Not stated. Documents only state every ABFRL shareholder on record date May 22, 2025 received 1 ABLBL share per ABFRL share; no promoter stake or incentive disclosure. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -751,7 +760,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/ABLBL.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Madura Fashion & Lifestyle (shown as Discontinued Operations from FY2025) → Aditya Birla Lifestyle Brands Limited** · unit ₹ crore · Revenue shown is external customers only (total revenue incl. inter-segment was 7,607.05 in FY2023, 7,793.72 in FY2024, 7,829.95 in FY2025). Profit line is 'Segment profit/(loss)' per Ind AS 108 — a segment result after depreciation/amortisation but before unallocated corporate costs, finance costs and tax; not PBT and not EBITDA. Assets/liabilities are segment (operating) assets and liabilities. Capex = additions to PPE and intangibles incl. assets from acquisitions.
+**Madura Fashion & Lifestyle (shown as Discontinued Operations from FY2025) → Aditya Birla Lifestyle Brands Limited (ABLBL) — Resulting Company** · unit ₹ crore · Profit line is 'Segment profit/(loss)' per Ind AS 108 (segment result, after depreciation/amortisation, before unallocated corporate costs, finance costs and tax — i.e. EBIT-like, not EBITDA). Revenue given here is external customer revenue; inter-segment revenue was additionally ₹239.57 Cr (FY24), ₹211.33 Cr (FY25), ₹296.01 Cr (FY23), so total segment revenue was ₹7,793.72 / ₹7,829.95 / ₹7,607.05 Cr. Assets/liabilities are segment operating assets and liabilities. No PAT disclosed at segment level.
 
 | | FY2023 | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|---:|
@@ -771,9 +780,9 @@ xychart-beta
 
 *Sources:* Annual Report 2024 — page 334; Annual Report 2024 — page 333; Annual Report 2026 — page 298; Annual Report 2026 — page 297
 
-*Not in the pages read:* No PAT, EBITDA or quarterly figures for Madura. FY2026 carries none — demerged (distributed) during FY2025; AR2026 p298 shows its assets removed (8,387.74) from the reconciliation.
+*Not in the pages read:* No PAT, and no FY2026 or quarterly figures: segment ceased after demerger (distributed during FY2025); FY2026 reconciliation shows assets '-' vs ₹8,387.74 Cr in FY2025.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 11 presentation(s) on file):* No standalone financials for Aditya Birla Lifestyle Brands Limited (ABLBL) itself as an entity — only its Madura Fashion & Lifestyle segment figures inside ABFRL's consolidated accounts; no separate 'MFL Business' or 'Remaining Business: Pantaloons' scheme-basis statements on these pages.
+*Businesses with no numbers in the pages read (3 annual report(s) and 11 presentation(s) on file):* All named entities refer to the one separated business (Madura Fashion & Lifestyle → ABLBL), which the pages carry FY2023–FY2025 segment numbers for. No standalone ABLBL entity-level financials appear on these pages.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9e4c1179-2b30-4c0f-9910-7b879a0ee39c.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/00a93d8c-d138-4094-9554-418cdb34127d.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/9388dcea-304e-4035-b7be-6d05fb80f614.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=029e21ba-1eb9-4610-b1fa-5b58df4a215a.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=abccbef1-304f-4ae4-9dbe-7a9228a8b9d9.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=841a77fc-68d0-44e1-bddc-b86250cea82b.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7d56c81-55c7-4acb-bd14-92225f5040d4.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6019978b-45a3-4e09-8469-af541d0b349b.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f6c4068-6b52-4456-8104-32405826abe2.pdf)
 
@@ -804,19 +813,33 @@ xychart-beta
 |---|---:|---:|---:|---:|---|---|
 | Pantaloons | 4,560 | -0.4% | -1.3% | 1.28x | ₹ crore | FY2026 |
 | Ethnic & Others | 3,616 | -11.0% | -12.8% | 2.78x | ₹ crore | FY2026 |
-| TMRW (reported grouping within Ethnic & Others segment in the accounts) | 872 | -23.7% | — | — | ₹ crore | FY2026 |
-| Others (includes Luxury Retail / The Collective, Galeries Lafayette) | 596 | 29.4% | — | — | ₹ crore | FY2026 |
+| Ethnic Businesses (presentation sub-line within the Ethnic & Others reported segment) | 2,227 | 10.9% | — | — | ₹ crore | FY2026 |
+| TMRW (presentation sub-line within the Ethnic & Others reported segment) | 872 | -23.7% | — | — | ₹ crore | FY2026 |
+| Others (presentation sub-line; includes Luxury Retail / The Collective, Galeries Lafayette, treasury income) | 596 | 29.4% | — | — | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: Demerged ABFRL revenue grew 14% in FY25, from Rs. 6441 Cr in FY24 to Rs. 7355 Cr in FY25; Q4 FY25 revenue Rs. 1719 Cr, up 9% YoY; separated business: ABLBL revenue grew 1% in FY25, from Rs. 7554 Cr in FY24 to Rs. 7619 Cr in FY25; Q4 FY25 revenue Rs. 1878 Cr, up 3% YoY “ABLBL posted 4% growth YoY , with revenue at Rs. 1942 Cr for the quarter in a tough market environment”
-- **operating margin** — parent / remaining: Demerged ABFRL FY25 EBITDA Rs. 854 Cr on revenue of Rs. 7355 Cr (FY24: Rs. 520 Cr), up 64%; Q4 FY25 EBITDA Rs. 295 Cr, margin 17.2%; separated business: ABLBL FY25 EBITDA Rs. 1269 Cr on revenue of Rs. 7619 Cr (FY24: Rs. 1182 Cr), up 7%; Q4 FY25 EBITDA Rs. 330 Cr, margin 17% “ABLBL EBITDA grew 18% YoY while margin stood at 17%, ~200 bps higher vs LY in Q4”
-- **return on capital** — parent / remaining: Described as a portfolio of multiple businesses; demerged ABFRL reported PAT of -624 Cr in FY25 and -907 Cr in FY24; separated business: Described as having a proven track record of consistent revenue growth, profitability, strong free cash flows and high return on capital; ABLBL PAT 168 Cr in FY25 and 171 Cr in FY24 “The MFL Business has built a leadership position over a long period of time and has a proven track record of delivering consistent revenue growth, profitability, strong free cash flows and high return on capital. The Remaining Business of the Demerged Company ( as defined in the Scheme ) comprises portfolio of multiple businesses.”
-- **debt and leverage** — parent / remaining: Fund raise earmarked towards repayment of debt to make the company debt free; standalone debt equity ratio reported as NA with the note "Company has excess liquid Investment and cash over its debt" as at March 31, 2025 and December 31, 2025; total debts to total assets 0.06; separated business: Net debt for ABLBL was Rs. 781 Cr at March 31, 2025, expected to become debt free in the next 2-3 years; NCD Series 9 (7.97% p.a., redemption due January 29, 2026) transferred to and accounted by ABLBL “Net debt for ABLBL was Rs. 78 1 Cr; expected to become debt free in the next 2-3 years”
-- **cash** — parent / remaining: Post fund raise in Q4 FY25, de-merged ABFRL closed its books with gross cash of ~Rs. 2350 Cr at consolidated level; gross cash Rs. 1,545 crores consolidated and Rs. 1,144 crores standalone as of March 2026, with gross debt Rs. 1,695 crores consolidated and Rs. 748 crores standalone; separated business: not stated (ABLBL described as a strong cash generating company with access to its cash flow) “Post fund raise in Q4, de -merged ABFRL closed its books with gross cash of ~Rs. 2350 Cr.”
-- **other** — parent / remaining: As of March 31, 2025, presence across 1,167 stores spanning 7.3 Mn sq.ft. retail space; separated business: As of March 31, 2025, retail footprint of over 4.6 million sq. ft., comprising 3,253 exclusive brand outlets, presence across 38,000+ multi-brand outlets, and over 7,000 shop-in-shops “As of March 31, 202 5, the Company operates a retail footprint of over 4. 6 million sq. ft., comprising 3,253 exclusive brand outlets, presence across 3 8,000+ multi- brand outlets, and over 7,000 shop -in-shops in department stores across the country.”
-- **tax** — parent / remaining: 75.68% of the pre-demerger cost of acquisition of equity shares is apportioned to Aditya Birla Fashion and Retail Limited; separated business: 24.32% of the pre-demerger cost of acquisition of equity shares is apportioned to Aditya Birla Lifestyle Brands Limited; demerger not taxable in the hands of shareholders “The Scheme has fulfilled the provisions of section 2(19AA) of the Income Tax Act, 1961, and hence, the demerger is in compliance with the provisions of the Act and accordingly, the transaction is not considered as a transfer and hence is not taxable in the hands of the shareholders.”
-- **capex and capital intensity** — parent / remaining: FY26 capex of roughly INR450 crores within total cash utilisation of about INR1,000 crores (including INR150 crores for Galeries Lafayette and OWND! rebranding of INR200 crores in aggregate one-offs); FY27 plan of INR250 crores to INR300 crores capex at consol level; separated business: not stated “In FY '26, our investments were high due to onetime investment in GL and we rebranded OWND, which aggregate to INR200 crores.”
+- **debt and leverage** — parent / remaining: Balance of the ~Rs. 3000 Cr group borrowing stays with ABFRL; the Rs. 2,378.75 crore preferential issue earmarked Rs. 1,185.00 crore for "Prepayment or repayment, in full or part, of all or a portion of certain of the outstanding borrowings availed by Demerged ABFRL"; the fundraise "will make the proposed demerged ABFRL debt free"; separated business: ~Rs. 1000 Cr of debt estimated to be transferred to ABLBL; "Net debt for ABLBL was Rs. 78 1 Cr; expected to become debt free in the next 2-3 years" “In line wi th this, the overall ABFRL borrowing, which is estimated to be ~ Rs. 3000 Cr. as of 31st March 2024, will be split between the two companies. The estimated debt to be transferred to ABL BL will be ~Rs. 1000 Cr., and the balance will continue to stay with ABFRL.”
+- **cash** — parent / remaining: De-merged ABFRL closed FY25 with gross cash of ~Rs. 2350 Cr at consolidated level following the capital raise; by March 2026 gross cash of INR1,545 crores consolidated and INR1,144 crores standalone; separated business: ABLBL described as "a strong cash generating company with access to its cash flow" with net debt of Rs. 781 Cr and "access to free cash flow post-demerger" “Post fund raise in Q4, de -merged ABFRL closed its books  with gross cash of  ~Rs. 2350 Cr.”
+- **growth** — parent / remaining: De-merged ABFRL Q4 FY25 revenue Rs. 1719 Cr, up 9% YoY; FY25 revenue Rs. 7355 Cr, up 14% vs Rs. 6441 Cr in FY24; separated business: ABLBL Q4 FY25 revenue Rs. 1878 Cr, up 3% YoY; FY25 revenue Rs. 7619 Cr, up 1% vs Rs. 7554 Cr in FY24 “1. De-merged ABFRL posted 9% growth YoY in Q4, with revenue at Rs. 1719 Cr”
+- **operating margin** — parent / remaining: De-merged ABFRL Q4 FY25 EBITDA Rs. 295 Cr, up 202% YoY, margin 17.2%; FY25 EBITDA Rs. 854 Cr, up 64%; Pantaloons segment margin up ~470 bps to 15.1% and ethnic brands margin 10%, a ~700 bps expansion YoY; separated business: ABLBL Q4 FY25 EBITDA Rs. 330 Cr, up 18% YoY, margin 17%, ~200 bps higher vs LY; FY25 EBITDA Rs. 1269 Cr, up 7%; Lifestyle brands EBITDA margin 20%, 50 bps gain vs LY “3. ABLBL EBITDA  grew 18% YoY  while margin stood at  17%, ~200 bps higher vs 
+LY in Q4”
+- **return on capital** — parent / remaining: "The Remaining Business of the Demerged Company (as defined hereinafter) comprises portfolio of multiple businesses" — multiple growth platforms, PAT loss of Rs. -624 Cr in FY25 "impacted by investments in newer businesses and higher interest on borrowings during the year"; separated business: MFL Business has "a proven track record of delivering consistent revenue growth, profitability, strong free cash flows and high return on capital"; ABLBL PAT Rs. 168 Cr in FY25 “The MFL Business (as defined in the Scheme) has built a 
+leadership position over a long period of time and has a 
+proven track record of delivering consistent revenue growth, 
+profitability, strong free cash flows and high return on capital.”
+- **capex and capital intensity** — parent / remaining: Rs. 600.00 crore of the preferential issue earmarked for "Investment towards capex and opex across high growth businesses within proposed Demerged ABFRL in business segments of Value Retail (Pantaloons & Style Up), Ethnic (designer led & premium ethnic wear brands) and luxury retail (The Collective & Galeries Lafayette)"; FY26 capex ~INR500 crores including INR150 crores for Galeries Lafayette; FY27 plan INR250–300 crores; separated business: ABLBL "with access to its cash flow will be able to drive accelerated distribution expansion" “2 Investment towards capex and opex across high growth businesses within proposed 
+Demerged ABFRL in business segments of Value Retail (Pantaloons & Style Up), Ethnic 
+(designer led & premium ethnic wear brands) and luxury retail (The Collective & Galeries 
+Lafayette)  600.00”
+- **tax** — parent / remaining: 75.68% of the pre-demerger cost of acquisition of equity shares apportioned to Aditya Birla Fashion and Retail Limited; separated business: 24.32% of the pre-demerger cost of acquisition of equity shares apportioned to Aditya Birla Lifestyle Brands Limited; demerger not a transfer under Section 47(vid), and holding period of ABFRL shares carries over to ABLBL shares “The Scheme has fulfilled the provisions of section 2(19AA) of the Income Tax Act, 1961, 
+and hence, the demerger is in compliance with the provisions of the Act and accordingly, 
+the transaction is  not considered as a transfer and hence is not taxable in the hands of 
+the shareholders.”
+- **other** — parent / remaining: "As of March 31, 2025 , the Company has presence across 1,1 67 stores spanning 7.3 Mn sq.ft. retail space"; aims "to triple in scale and double in profitability over the next 5 years"; separated business: "As of March 31, 202 5, the Company operates a retail footprint of over 4. 6 million sq. ft., comprising 3,253 exclusive brand outlets, presence across 3 8,000+ multi-brand outlets, and over 7,000 shop -in-shops in department stores across the country"; "expected to double in scale with improved profitability over the next five years, emerging as the largest branded fashion play in the country" “With 
+over Rs. 2350 Cr of gross cash  at consolidated  level following the recent capital 
+raise, the Company is all set to pursue aggressive  growth to triple in  scale and 
+double in profitability over the next 5 years.”
 
 **The checklist:**
 

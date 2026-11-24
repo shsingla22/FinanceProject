@@ -8,10 +8,9 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Astra Space Technologies Limited, formerly known as Astra Space Technologies Private Limited (CIN: U30304TS2024PTC182267), currently a wholly owned subsidiary of Astra Microwave Products Limited** | The Space, Meteorology and Hydrology Business of AMPL — all business, undertakings, activities and properties… | to be listed — "Yes, all new shares of ASTPL will be listed… | not stated as CEO/MD/chair; "Mr. S. Gurunatha Red… |
-| **Astra Space Technologies Private Limited** | — | not stated | — |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Astra Space Technologies Limited** (earlier Astra Space Technologies Private Limited) | 2026 demerger of the Space, Meteorology and Hydrology Busin… | Houses the Space, Meteorology and Hydrology businesses transferred on a going-concern basis; satellite hardwa… | to be listed | not stated as CEO/MD/chair; "Mr. S. Gurunatha Red… |
 
 **What is being separated, as the documents put it:** Space, Meteorology and Hydrology Business of Astra Microwave, hived off into wholly owned subsidiary Astra Space Technologies — class `value_unlocking`.
 
@@ -21,16 +20,16 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2026-02-27 | Board approval (in-principle) — Astra Microwave Products Limited | as stated: Outcome of Board Meeting / Press Release, February 27, 2026 — "in-pri… |
+| 2026-02-27 | Board approval — Astra Microwave Products Limited | as stated: Outcome of Board Meeting / Press Release dated February 27, 2026 - in… |
 | 2026-05-26 | Stage reached: **announced** | [Press Release](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_26052026165633_PressRelease.pdf) |
-| 2026-06-01 | Other — intimation of Board Meeting to consider the draft Scheme of Arrangement (Regulation 29) — Astra Microwave Products Limited | as stated: Board Meeting (purpose) intimation letter dated June 01, 2026 (filed … |
-| 2026-06-10 | Board approval — Astra Microwave Products Limited and Astra Space Technologies Private Limited | as stated: Demerger disclosure under Regulation 30, letter dated 10.06.2026; als… |
-| 2026-08-18 | Other — NSE letter (ref. NSE/LIST/55855) submitted to SEBI on the draft scheme — National Stock Exchange of India Limited / SEBI | as stated: NSE Observation Letter ref. NSE/LIST/55855 dated October 29, 2026 |
+| 2026-06-01 | Other — Astra Microwave Products Limited | as stated: Intimation of Board Meeting under Regulation 29 dated June 01, 2026, … |
+| 2026-06-10 | Board approval — Astra Microwave Products Limited and Astra Space Technologies Private Limited | as stated: Demerger announcement dated 10.06.2026 - Board approved the Scheme of… |
+| 2026-08-18 | Other — Astra Microwave Products Limited | as stated: NSE Observation Letter Ref: NSE/LIST/55855 dated October 29, 2026 - N… |
 | 2026-08-22 | Stage reached: **meetings** | [Shareholders meeting](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_22082026141503_AGMNotice.pdf) |
+| 2026-09-30 | Other — Astra Microwave Products Limited / Astra Space Technologies | as stated: Outcome of Board Meeting dated August 10, 2026 - Mr. S. Gurunatha Red… |
 | 2026-10-29 | Stage reached: **exchange noc** | [Scheme of Arrangement](https://nsearchives.nseindia.com/corporate/ASTRAMICRO_29102026164303_NOCLetter.pdf) |
-| 2026-10-29 | SEBI approval — SEBI (comments on the draft scheme) | as stated: NSE Observation Letter dated October 29, 2026 — "SEBI vide its letter… |
-| 2026-10-29 | Exchange no-objection — BSE Limited (“no adverse observations”) and National Stock Exchange of India Limited (“no objection”) | as stated: Scheme of Arrangement disclosure dated October 29, 2026 and NSE Obser… |
-| 2026-10-29 | Other — validity of NSE Observation Letter: six months from October 29, 2026, within which the Scheme shall be submitted to NCLT — Astra Microwave Products Limited | as stated: NSE Observation Letter ref. NSE/LIST/55855 dated October 29, 2026 |
+| 2026-10-29 | SEBI observations — Astra Microwave Products Limited | as stated: NSE Observation Letter Ref: NSE/LIST/55855 dated October 29, 2026 - "… |
+| 2026-10-29 | Exchange no-objection — Astra Microwave Products Limited | as stated: Filing dated October 29, 2026 - observation letter with "no adverse o… |
 
 **The stages, as filed:** announced (2026-05-26) → meetings (2026-08-22) → exchange noc (2026-10-29)
 
@@ -40,16 +39,15 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
 | Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
 |---|---|---:|---:|---:|---:|---|
-| Astra Space Technologies Limited, formerly known as Astra Space Technologies Private Limited (CIN: U30304TS2024PTC182267), currently a wholly owned subsidiary of Astra Microwave Products Limited | approximately INR. 157 Crores for the financial year ended … | 13.58% | 9.4% (FY2026) | — | — | not listed |
-| Astra Space Technologies Private Limited | — | — | 9.4% (FY2026) | — | — | not listed |
+| Astra Space Technologies Limited | "approximately INR. 157 Crores" for the financial year ende… | 13.58% | 9.4% (FY2026) | — | — | not listed |
 
 *Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹16,174 cr, NSE bhavcopy of 2026-11-13), both computed here.*
 
-**In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31st March 2026 was approximately INR. 157 Crores, representing 13.58% of the total turnover of the Demerged Company for the said year.”
+**In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31st March 2026 was approximately INR. 157 Crores , representing 13.58% of the total turnover of the Demerged Company for the said year.”
 
 **The judge's read of selling pressure:** likely — Small (13.58% of turnover), distinct sector from parent's radar/EW/telemetry, 1:1 shares pushed to all holders, promoters only 6.45%.
 
@@ -57,7 +55,7 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Astra Space Technologies Limited, formerly known as Astra Space Technologies Private Limited (CIN: U30304TS2024PTC182267), currently a wholly owned subsidiary of Astra Microwave Products Limited:** "the Resulting Company shall issue 1 fully paid-up equity share of INR 2 (Indian Rupees 2/- only) each for every 1 fully paid-up equity share of INR 2 (Indian Rupees 2/- only) each held in the Demerged Company (“Share Entitlement Ratio”)." The entire pre-scheme paid-up share capital of ASTPL shall stand cancelled and reduced. No cash consideration.
+- **Astra Space Technologies Limited:** "the Resulting Company shall issue 1 fully paid -up equity share of INR 2 (Indian Rupees 2/- only) each for every 1 fully paid -up equity share of INR 2 (Indian Rupees 2/- only) each held in the Demerged Company (“Share Entitlement Ratio”)"
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -67,11 +65,11 @@
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
-- **Promoters in the parent, per the documents:** not stated directly for AMPL. The documents state ASTPL's post-Scheme (indicative) shareholding — Promoters 6.45%, Public 93.55% — and that it will mirror AMPL's; ASTPL pre-Scheme as on 31.03.2026 was Promoters 100.00%, Public 0.00%.
-- **What the promoters will hold in the separated entity:** "Upon the effectiveness of the Scheme, the shareholding of the Resulting Company will mirror the shareholding of the Demerged Company." / "The post Scheme shareholding pattern of ASTPL will replicate/ mirror the shareholding pattern of AMPL." / "Will have mirror shareholding identical to that of Astra." Indicative post-Scheme ASTPL: Promoters 6.45%, Public 93.55%. AMPL: "No change".
-- **What a public shareholder receives:** "ASTPL will issue and allot 1 fully paid-up equity share of INR 2 (Indian Rupees 2/- only) to the eligible shareholders of the Company, in accordance with Share Entitlement Ratio (as defined under the Scheme), without any further application, act or deed. After the Scheme has been effected, the issued shares shall be listed on BSE and NSE." i.e. 1 ASTPL share of INR 2 for every 1 AMPL share of INR 2 held; no cash consideration. Shares allotted "shall remain frozen in the depositories system till listing/trading permission is given by the designated stock exchange."
-- **Management incentives:** No stock option, RSU or SAR plan, and no treatment of existing grants, is stated anywhere in the documents, nor any new plan in the resulting entity. Related items stated: (a) demerger-linked bonus weighting for executive directors — Performance Bonus criteria for Dr. M. V. Reddy (up to 1% of profits, maximum Rs.3,20,00,000) and Mr. Atim Kabra (up to 0.25% of profits, maximum Rs.80,00,000) include "Other intiatives of corporate restructuring like merger/demerger 10.0%" weightage; (b) convertible warrants — "the allotment of up to 20,13,885 convertible warrants each convertible into, or exchangeable for, one fully paid up equity share of the Company, having a face value of Rs. 2, within the period of eighteen months in accordance with the applicable laws at a price of Rs. 864 aggregating up to Rs. 173.99 crores (“issue proceeds”)", of which "the Company has received 25% of the issue proceeds i.e., Rs. 43.50 crores (Upfront monies) on June 23, 2025 and June 24, 2025"; (c) cash compensation of Rs.1,35,68,889/- approved for Mr. S. Gurunatha Reddy for the unexpired portion (7 months) of his tenure as Managing Director (resolution text seeks Rs.1,35,00,000/-); (d) insider shareholding in AMPL as disclosed in the AGM notice: Mr. P. A. Chitrakar 32,40,830 equity shares, Mr. Atim Kabra 33,56,074 equity shares, Dr. M. V. Reddy 63,570 equity shares; (e) shareholdings in the JV Astra Rafael Comsys Private Limited: Mr. S. Gurunatha Reddy 0.20%, Dr. M.V. Reddy 0.20%, Mr. P. A. Chitrakar 0.20%, Mr. Atim Kabra 0.10%, Mr. Suresh Kumar Somani 0.10%.
-- **Insider actions around the separation:** No promoter or management buying, selling or pledging of shares around the separation is stated. Stated management actions around the separation: Mr. S. Gurunatha Reddy stepped down as Managing Director and Director of AMPL with effect from close of business hours on 30 September 2026 — "to oversee the ongoing demerger of the Space and Meteorology business pursuant to the Scheme of Arrangement" — and "thereafter shall join Astra Space Technologies Private Limited (ASTPL) as a Director subject to the approval of the Board"; the Reg. 30 annexure gives the reason for cessation as "Has taken responsibility to over see demerger of the Company and focus in establishing resulting Company." Dr. M. V. Reddy was appointed Managing Director of AMPL with effect from 1 October 2026. NSE condition: "There shall be no change in the shareholding pattern or control in Astra Space Technologies Private Limited between the record date and the listing which may affect the status of this approval."
+- **Promoters in the parent, per the documents:** not stated in the documents on file.
+- **What the promoters will hold in the separated entity:** 2026 demerger into Astra Space Technologies: "Upon the effectiveness of the Scheme, the shareholding of the Resulting Company will mirror the shareholding of the Demerged Company." ASTPL change in shareholding pattern: Pre-Scheme (as on 31.03.2026) Promoters 100.00%, Public 0.00%; Post-Scheme (Indicative) Promoters 6.45%, Public 93.55%. Also: "The post Scheme shareholding pattern of ASTPL will replicate/ mirror the shareholding pattern of AMPL." For AMPL itself: "AMPL: No change". Press release: "Will have mirror shareholding identical to that of Astra ."
+- **What a public shareholder receives:** 2026 demerger into Astra Space Technologies: "ASTPL will issue and allot 1 fully paid -up equity share of INR 2 (Indian Rupees 2/- only) to the eligible shareholders of the Company, in accordance with Share Entitlement Ratio (as defined under the Scheme) , without any further application, act or deed. After the Scheme has been effected, the issued shares shall be listed on BSE and NSE." Also: "There is no cash consideration being discharged under the Scheme." The entire pre-scheme paid up share capital of ASTPL held by AMPL "shall stand cancelled and reduced".
+- **Management incentives:** No stock option, RSU or SAR plan is mentioned in the documents, and no treatment of existing grants in the Scheme is stated. Convertible warrants: "The Board of the Directors of the Company at its meeting held on May 20, 2025 and the shareholders of the company at Extraordinary General Meeting held on June13, 2025 has approved the allotment of up to 20,13,885 convertible warrants each convertible into, or exchangeable for, one fully paid up equity share of the Company, having a face value of Rs. 2, within the period of eighteen months in accordance with the applicable laws at a price of Rs. 864 aggregating up to Rs. 173.99 crores ("issue proceeds"). During the previous year ended March 31, 2026, the Company has received 25% of the issue proceeds i.e., Rs. 43.50 crores (Upfront monies) on June 23, 2025 and June 24, 2025." Managerial performance bonus is linked to restructuring: for Dr. M. V. Reddy and Mr. Atim Kabra the performance criteria include "Other intiatives of corporate restructuring like merger/demerger 10.0%" weightage. Cash compensation on exit of the outgoing MD: "the consent of the Members of the Company be and is hereby accorded for payment of Rs.1,35,00,000/- (Rupees One Crore Thirty-Five Lakhs only) to Mr. S. Gurunatha Reddy (DIN: 00003828) in the nature of cash" (Explanatory Statement: recommended "payment of a cash compensation of Rs.1,35,68,889/-" representing "the remuneration payable for the unexpired portion of his tenure as Managing Director"). Director shareholding in AMPL: Mr. P. A. Chitrakar "32,40,830 Equity Shares.", Mr. Atim Kabra "33,56,074 Equity Shares.", Dr. M. V. Reddy "Holds 63,570 equity shares." Insider holdings in the JV: "Mr. S. Gurunatha Reddy is holding 0.20% shareholding in ARC", "Dr. M.V. Reddy is holding 0.20% shareholding in ARC", "Mr. Atim Kabra is holding 0.10% Shareholding in ARC", "Mr. Suresh Kumar Somani is holding 0.10% Shareholding in ARC", "Mr. P. A. Chitrakar is holding 0.20% Shareholding in ARC."
+- **Insider actions around the separation:** No promoter or management buying, selling or pledging of shares is stated. Stated intent around the separation: "Mr. S. Gurunatha Reddy, Managing Director of AMPL has agreed to take on the additional responsibility of overseeing the ongoing demerger of the Space and Meteorology business and thereafter shall join Astra Space Technologies Private Limited (ASTPL) as a Director subject to the approval of the Board." His resignation letter states: "I am resigning from the position Directorship also with effect from the close of business hours on 30th September, 2026, to oversee the ongoing demerger of the Space and Meteorology business pursuant to the Scheme of Arrangement." Reason for change recorded with the exchanges: "Has taken responsibility to over see demerger of the Company and focus in establishing resulting Company."
 - **Insiders, per the checklist read:** Promoters hold 100% of ASTPL pre-scheme (cancelled on effectiveness); post-scheme promoters 6.45%, public 93.55%, mirroring AMPL. Outgoing MD S. Gurunatha Reddy will join ASTPL as Director; MD/WTD bonus weights "merger/demerger" 10%. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
@@ -403,62 +401,61 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Space → Astra Space Technologies Private Limited (ASTPL)** · unit ₹ lakh · Sector-wise Sales table in MD&A (revenue only, gross sales by sector including domestic deemed-export-free split; exports shown as a separate line so this is domestic space revenue). The company states it operates in a single product segment under Ind AS 108, so no segment result/EBIT/EBITDA, assets, liabilities, capex or depreciation are disclosed for this business.
+**Space → Astra Space Technologies Limited** · unit ₹ lakh (Rs. Lakhs) · Only sector-wise sales (revenue) is disclosed. Figures are the Company's standalone sector-wise sales (external revenue from operations, split by sector); no segment profit line, assets, liabilities, capex or depreciation is given — the notes to accounts state the company operates in a single product segment, so Ind AS 108 segment result/asset disclosures are not provided for Space.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ lakh) | — | 5,848 | 10,975 |
+| Revenue (₹ lakh (Rs. Lakhs)) | — | 5,848 | 10,975 |
 | Revenue growth (%) | — | — | +87.7% |
-| Operating profit (₹ lakh) | — | — | — |
+| Operating profit (₹ lakh (Rs. Lakhs)) | — | — | — |
 | Operating profit growth (%) | — | — | — |
 | Operating margin (%) | — | — | — |
-| PAT (₹ lakh) | — | — | — |
+| PAT (₹ lakh (Rs. Lakhs)) | — | — | — |
 | PAT growth (%) | — | — | — |
 
-*Sources:* Annual Report 2026 — page 191 (table covers FY2025-26 and FY2024-25 only); Annual Report 2026 — page 191
+*Sources:* no sector-wise split disclosed for FY2024 in the pages provided; Annual Report 2026 — page 191
 
-*Not in the pages read:* No profit, PAT, assets, liabilities, capex or depreciation for Space; no quarterly sector revenue; FY2024 sector split absent.
+*Not in the pages read:* No profit, PAT, assets, liabilities, capex or depreciation for Space; no FY2024 split; no quarterly Space revenue (presentations give only quarterly order inflow/order book by sector).
 
-**Metrology/Civil Telecom/Others (meteorology & hydrology portion of the Demerged Undertaking) → Astra Space Technologies Private Limited (ASTPL)** · unit ₹ lakh · Sector-wise Sales table in MD&A — revenue only. This line lumps metrology/meteorology together with Civil Telecom and Others, so it is not a clean figure for the meteorology+hydrology business being demerged. No profit line, assets, liabilities, capex or depreciation disclosed (single-segment reporting).
+**Metrology/Civil Telecom/Others (meteorology and hydrology business) → Astra Space Technologies Limited** · unit ₹ lakh (Rs. Lakhs) · Sector-wise sales (external revenue from operations) only. The line as printed is 'Metrology/Civil Telecom/Others', i.e. meteorology is bundled with civil telecom and other items, so it is not a clean figure for the meteorology+hydrology business being demerged. No profit line, assets, liabilities, capex or depreciation disclosed (single reported product segment).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
-| Revenue (₹ lakh) | — | 3,437 | 4,584 |
+| Revenue (₹ lakh (Rs. Lakhs)) | — | 3,437 | 4,584 |
 | Revenue growth (%) | — | — | +33.4% |
-| Operating profit (₹ lakh) | — | — | — |
+| Operating profit (₹ lakh (Rs. Lakhs)) | — | — | — |
 | Operating profit growth (%) | — | — | — |
 | Operating margin (%) | — | — | — |
-| PAT (₹ lakh) | — | — | — |
+| PAT (₹ lakh (Rs. Lakhs)) | — | — | — |
 | PAT growth (%) | — | — | — |
 
-*Sources:* Annual Report 2026 — page 191 (table covers FY2025-26 and FY2024-25 only); Annual Report 2026 — page 191
+*Sources:* no sector-wise split disclosed for FY2024 in the pages provided; Annual Report 2026 — page 191
 
-*Not in the pages read:* No standalone meteorology or hydrology revenue; no profit, PAT, assets, liabilities, capex, depreciation; no quarterly figures; FY2024 absent.
+*Not in the pages read:* No standalone meteorology or hydrology revenue (bundled with civil telecom/others); no profit, PAT, assets, liabilities, capex, depreciation; no FY2024 split; no quarterly revenue.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 13 presentation(s) on file):* No own financials for Astra Space Technologies / Astra Space Technologies Private Limited / ASTPL as an entity, nor for the Demerged Undertaking as a whole; Electronic Warfare, Telemetry, Missiles, Hydrology and Telecom carry no numbers.
+*Businesses with no numbers in the pages read (3 annual report(s) and 13 presentation(s) on file):* No entity-level financials for Astra Space Technologies Limited / Astra Space Technologies Private Limited (ASTPL) or the Demerged Undertaking; also no numbers for Electronic Warfare, Telemetry or Hydrology business segments.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/006109cf-3709-427d-8b15-87513e040708.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/10122c22-40d6-4556-9b87-34a0ab677b28.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/c307696a-1240-438e-907b-8c9a7c2401de.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1be38ad4-4c04-47d0-ba02-7d5726ad55a6.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4b03964-affd-4c16-a7e2-384c4ab877f4.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=03c484ea-f8f7-4cee-9b9d-ab2696cf9a5d.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=261d1e80-99bc-4c41-a6d1-d71577988dc1.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f02a1760-94f0-4f9a-9111-3a1f0f1d9b2b.pdf); [Presentation Aug 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29ae7a47-5b97-4717-9a51-89fcde383fae.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (ASTRAMICRO) | Astra Space Technologies Limited, formerly kn… | Astra Space Technologies Private Limited |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Space)* | *segment numbers (Space)* |
-| Sales (₹ cr) | 1,163 (Mar 2026) | — | — |
-| Sales growth (%) | 10.7 (Mar 2026) | 87.7 (FY2026) | 87.7 (FY2026) |
-| Operating margin (%) | 28.7 (Mar 2026) | — | — |
-| Operating profit growth (%) | 24.2 (Mar 2026) | — | — |
-| PAT margin (%) | 16.6 (Mar 2026) | — | — |
-| ROCE % | 20 (Mar 2026) | — | — |
-| Debtor Days | 216 (Mar 2026) | — | — |
-| Inventory Days | 394 (Mar 2026) | — | — |
-| Days Payable | 73 (Mar 2026) | — | — |
-| Cash Conversion Cycle | 537 (Mar 2026) | — | — |
-| Working Capital Days | 267 (Mar 2026) | — | — |
-| Debt / equity (x) | 0.2 (Mar 2026) | — | — |
-| Borrowings (₹ cr) | 288 (Mar 2026) | — | — |
-| Sales (₹ lakh) | — | 10,975 (FY2026) | 10,975 (FY2026) |
-| Sales (₹ lakh) | — | 10,975 (FY2026) | 10,975 (FY2026) |
+| Metric (latest year) | Parent (ASTRAMICRO) | Astra Space Technologies Limited |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *segment numbers (Space)* |
+| Sales (₹ cr) | 1,163 (Mar 2026) | — |
+| Sales growth (%) | 10.7 (Mar 2026) | 87.7 (FY2026) |
+| Operating margin (%) | 28.7 (Mar 2026) | — |
+| Operating profit growth (%) | 24.2 (Mar 2026) | — |
+| PAT margin (%) | 16.6 (Mar 2026) | — |
+| ROCE % | 20 (Mar 2026) | — |
+| Debtor Days | 216 (Mar 2026) | — |
+| Inventory Days | 394 (Mar 2026) | — |
+| Days Payable | 73 (Mar 2026) | — |
+| Cash Conversion Cycle | 537 (Mar 2026) | — |
+| Working Capital Days | 267 (Mar 2026) | — |
+| Debt / equity (x) | 0.2 (Mar 2026) | — |
+| Borrowings (₹ cr) | 288 (Mar 2026) | — |
+| Sales (₹ lakh (Rs. Lakhs)) | — | 10,975 (FY2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -466,19 +463,18 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Defense | 83,748 | — | — | — | ₹ lakh | FY2026 |
-| Radar Electronics (Business Segment #1) | 56 | — | — | — | % of Company revenue | FY2026 |
-| Exports (including deemed exports) | 16,228 | — | — | — | ₹ lakh | FY2026 |
-| Other Operating Revenue | 32 | — | — | — | ₹ lakh | FY2026 |
+| Defense | 83,748 | — | — | — | ₹ lakh (Rs. Lakhs) | FY2026 |
+| Exports (including deemed exports) | 16,228 | — | — | — | ₹ lakh (Rs. Lakhs) | FY2026 |
 
 **What the documents themselves say about the differences:**
 
-- **growth** — parent / remaining: AMPL reaffirms 15% to 20% topline growth for FY27 (Q4 FY26 call) / 10% to 15% in the FY26 press release; management speaks of tripling turnover over roughly four-and-a-half to five-and-a-half years on the back of five or six defence programs (QRSAM, Uttam, Su-30 Virupaksha, Su-30 Angad, JV business).; separated business: Space, Meteorology and Hydrology described as a scaled-up, profitable, high-growth opportunity driven by satellite design/assembly and satellite data demand, domestic and international; a standalone entity “would be better positioned to attract investors, strategic partners, lenders, and other stakeholders with sector-specific interests.” “The Space and Weather business represents a scaled-up, profitable, high-growth opportunity, driven by expanding demand for satellite design and assembly, as well as satellite data applications in both domestic and international markets.”
-- **capex and capital intensity** — parent / remaining: AMPL: “in terms of the capex, as you know every year, we are augmenting the existing requirements by spending close to about INR40 crores, INR50 crores. So that will continue. Therefore, there won't be an additional capex beyond this what we are doing normally.”; separated business: The Space, Meteorology and Hydrology business is described as capital-intensive and execution-dependent, with success dependent on scaling technical capabilities, leadership bandwidth and satellite-related offerings. “However, the business is capital-intensive and execution-dependent, requiring focused management attention to realise its significant growth prospects. The success of ASTPL will depend on its ability to scale technical capabilities, enhance leadership bandwidth and expand its satellite-related offerings and solutions.”
-- **operating margin** — parent / remaining: AMPL FY26 standalone EBITDA margin 28.0% (Rs. 324 crore) and PAT margin 15.4%; Q4 FY26 EBITDA margin 32.8%. Gross margins stated at around 45% to 50%.; separated business: Space margins stated to be better than defence, but space was only about 10% to 15% of company sales; space and meteorology contributed around 16% of FY26 revenue. “Definitely the space margins are better compared to even defence also, but when you look at the overall space sales contribution , in the overall sales of the company, it is just around 10% to 15% kind of thing.”
-- **other** — parent / remaining: AMPL standalone order book of Rs. 3,937.00 crores as at September 30, 2026 (including Rs. 251.53 crores of service orders); orders booked April 1 to September 30, 2026 of Rs. 2,230.48 crores; standalone order book Rs. 2,141 crore as on March 31, 2026; consolidated Rs. 4,707.59 crores as at September 30, 2026.; separated business: Space: cumulative orders of over Rs. 750 crore executed for ISRO over two decades, with an additional Rs. 250 crore of orders to be executed by FY28. Meteorology and Hydrology: cumulative contracts over Rs. 330 crore over 20 years and an order book of Rs. 285 crore to be executed by FY28. “Over the last 20 years, the Company has executed cumulative contracts worth over ₹330 crore in this segment and has an order book of ₹285 crore to be executed by FY28.”
-- **cash** — parent / remaining: AMPL FY26 operating cash flow of INR370 crores compared with minus INR99 crores in the prior year; for the half year ended September 30, 2026 net cash outflows from operating activities of Rs. 14,612.63 Lakhs (standalone), with inventories up Rs. 18,496.96 Lakhs.; separated business: not stated “FY26 has been another strong year for the company, characterized by consistent growth, effective execution, margin expansion driven by favourable revenue mix, and improved working capital cycle, resulting in operating cash flow of INR370 crores compared to minus INR99 crores as of last year.”
-- **tax** — parent / remaining: The Scheme is stated to be carried out as a going concern “in compliance with applicable laws and tax provisions”; no further tax treatment is stated.; separated business: The Space, Meteorology and Hydrology Business is demerged “on a going concern basis”; no further tax treatment is stated. “ASTPL will issue shares to AMPL shareholders based on a determined share ratio, and the transaction will be carried out as a going concern in compliance with applicable laws and tax provisions.”
+- **capex and capital intensity** — parent / remaining: Not stated for the remaining Defence business; company-wide capex guidance given on the call as routine augmentation; separated business: Space and Weather business described as capital-intensive and execution-dependent, requiring focused management attention “However, the business is capital -intensive and execution -dependent, requiring focused management attention to realise its significant growth prospects.”
+- **growth** — parent / remaining: FY27 top line growth guidance reaffirmed at 15% to 20%; radar business contributing nearly 60% of revenue; separated business: Space and Weather described as a scaled-up, profitable, high-growth opportunity driven by satellite design and assembly and satellite data applications “The Space and Weather business represents a scaled -up, profitable, high -growth opportunity, driven by expanding demand for satellite design and assembly, as well as satellite data applications in both domestic and international markets.”
+- **operating margin** — parent / remaining: Defence margins lower than space margins; FY26 standalone EBITDA margin 28.0% and PAT margin 15.4%; separated business: Space margins stated to be better than defence, but space is only about 10% to 15% of total sales so its order-book reduction does not hurt overall margins “Definitely the space margins are better compared to even defence also, but when you look at the overall space sales contribution , in the overall sales of the company, it is just around 10% to 15% kind of thing.”
+- **other** — parent / remaining: Radar business contributed nearly 60% of FY26 revenue; separated business: Space and meteorology segment contributed around 16% of FY26 revenue “Our radar business continued to be a primary growth driver, contributing nearly 60% of our revenue, while space and meteorology segment contributed around 16%, demonstrating our expanding footprint in strategic and high -technology domains.”
+- **other** — parent / remaining: Standalone order book of Rs. 2,141 crores as on March 31, 2026; Rs. 3,937.00 crores as at September 30, 2026; separated business: Space: cumulative ISRO orders over Rs. 750 crore with Rs. 250 crore more to be executed by FY28; Meteorology and Hydrology: cumulative contracts over Rs. 330 crore with an order book of Rs. 285 crore to be executed by FY28 “Over the last 20 years, the Company has executed cumulative contracts worth over ₹330 crore in this segment and has an order book of ₹285 crore to be executed by FY28.”
+- **cash** — parent / remaining: FY26 operating cash flow of INR370 crores versus minus INR99 crores in the prior year (company level, pre-demerger); separated business: not stated “FY26 has been another strong year for the company, characterized by consistent growth, effective execution, margin expansion driven by favourable revenue mix, and improved working capital cycle, resulting in operating cash flow of INR37 0 crores compared to minus INR99 crores as of last year.”
+- **working capital** — parent / remaining: Inventories rose to Rs. 79,349.95 Lakhs and current borrowings to Rs. 41,158.92 Lakhs at September 30, 2026 (standalone), with half-year operating cash outflow of Rs. 14,612.63 Lakhs; separated business: not stated “Yes, in terms of the capex, as you know every year , we are augmenting the existing requirements by spending close to about INR40 crores, INR50 crores.”
 
 **The checklist:**
 

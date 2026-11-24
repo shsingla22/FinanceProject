@@ -8,12 +8,12 @@
 
 **The separated entities — every one the documents name:**
 
-| Entity | Business | Listing | Who runs it |
-|---|---|---|---|
-| **Bharat Coking Coal Limited** | not stated | listed 2026-01-19 as BHARATCOAL (NSE) | not stated |
-| **Central Mine Planning & Design Institute Limited** | not stated | listed 2026-03-30 as CMPDI (NSE) | not stated |
-| **Mahanadi Coalfields Limited** | not stated | to be listed | not stated |
-| **South Eastern Coalfields Limited** | not stated | to be listed | not stated |
+| Entity | Scheme | Business | Listing | Who runs it |
+|---|---|---|---|---|
+| **Bharat Coking Coal Limited** | 2025-26 IPO (offer for sale by Coal India Limited) of BCCL | not stated | listed 2026-01-19 as BHARATCOAL (NSE) | not stated |
+| **Central Mine Planning & Design Institute Limited** | 2025-26 IPO (offer for sale by Coal India Limited) of CMPDIL | not stated | listed 2026-03-30 as CMPDI (NSE) | not stated |
+| **Mahanadi Coalfields Limited** | 2026 IPO (offer for sale by Coal India Limited) of MCL | not stated | to be listed | not stated |
+| **South Eastern Coalfields Limited** | 2026 IPO (offer for sale by Coal India Limited) of SECL | not stated | to be listed | not stated |
 
 **What is being separated, as the documents put it:** Coal India's wholly owned coal subsidiaries Mahanadi Coalfields (MCL) and South Eastern Coalfields (SECL), listed via IPO offer for sale — class `regulatory_strategic`.
 
@@ -23,24 +23,34 @@
 
 | Date | Event | Source |
 |---|---|---|
-| 2025-05-20 | Other — CMPDIL and BCCL | as stated: Rumour Verification - Regulation 30(11) filing dated 20.05.2025: "Act… |
-| 2025-05-26 | DRHP filed — Central Mine Planning & Design Institute Limited | as stated: CIL disclosure under Regulation 30 dated 27.05.2025 (DRHP dated May 2… |
-| 2025-05-30 | DRHP filed — Bharat Coking Coal Limited | as stated: CIL disclosure under Regulation 30 dated 31.05.2025 (DRHP dated 30th … |
-| 2025-12-16 | Other — Mahanadi Coalfields Limited and South Eastern Coalfields Limited | as stated: CIL filings dated 23.12.2025: "Ministry of Coal, vide its Office Memo… |
+| 2025-05-20 | Other — Central Mine Planning & Design Institute Limited; Bharat Coking Coal Limited | as stated: Rumour Verification - Regulation 30(11), Market Rumour Verification i… |
+| 2025-05-26 | Other — Central Mine Planning & Design Institute Limited | as stated: Date of the draft red herring prospectus, per filing dated 27.05.2025 |
+| 2025-05-27 | DRHP filed — Central Mine Planning & Design Institute Limited | as stated: General Updates filing dated 27.05.2025 (DRHP filed with SEBI, BSE an… |
+| 2025-05-30 | Other — Bharat Coking Coal Limited | as stated: Date of the draft red herring prospectus, per filing dated 31.05.2025 |
+| 2025-05-31 | DRHP filed — Bharat Coking Coal Limited | as stated: General Updates filing dated 31.05.2025 (DRHP filed with SEBI, BSE an… |
+| 2025-12-16 | Other — Mahanadi Coalfields Limited; South Eastern Coalfields Limited | as stated: Ministry of Coal Office Memorandum I/37811/2025 dated 16.12.2025, cit… |
 | 2025-12-23 | Stage reached: **announced** | [General Updates](https://nsearchives.nseindia.com/corporate/COALINDIA_23122025170458_MCLsigned.pdf) |
-| 2025-12-23 | Board approval — Mahanadi Coalfields Limited and South Eastern Coalfields Limited (in-principle approval by CIL Board through circular resolution) | as stated: CIL filings "In-principle approval of Listing of Mahanadi Coalfields … |
-| 2026-01-02 | Filed with exchanges — Bharat Coking Coal Limited (RHP dated 02.01.2026 filed with SEBI, BSE and NSE) | as stated: CIL General Updates filing dated 03.01.2026 |
-| 2026-01-07 | Other — Bharat Coking Coal Limited (addendum-cum-corrigendum to the red herring prospectus) | as stated: CIL filing dated 14.01.2026 |
-| 2026-01-14 | Other — Bharat Coking Coal Limited (prospectus dated January 13, 2026 filed with the Registrar of Companies, Jharkhand at Ranchi) | as stated: CIL filing "Filing of Prospectus of Bharat Coking Coal Limited (BCCL)… |
+| 2025-12-23 | Board approval — Mahanadi Coalfields Limited | as stated: General Updates filing dated 23.12.2025 (CIL Board circular resolutio… |
+| 2025-12-23 | Board approval — South Eastern Coalfields Limited | as stated: General Updates filing dated 23.12.2025 (CIL Board circular resolutio… |
+| 2026-01-02 | Other — Bharat Coking Coal Limited | as stated: Date of the red herring prospectus, per filing dated 03.01.2026 |
+| 2026-01-03 | Filed with exchanges — Bharat Coking Coal Limited | as stated: General Updates filing dated 03.01.2026 (RHP filed with SEBI, BSE and… |
+| 2026-01-07 | Other — Bharat Coking Coal Limited | as stated: Addendum-cum-corrigendum dated January 7, 2026, cited in filing dated… |
+| 2026-01-13 | Other — Bharat Coking Coal Limited | as stated: Date of the prospectus, per filing dated 14.01.2026 |
+| 2026-01-14 | Other — Bharat Coking Coal Limited | as stated: General Updates filing dated 14.01.2026 (prospectus filed with the Re… |
 | 2026-01-19 | **Bharat Coking Coal Limited** listed (BHARATCOAL) | NSE equity list |
-| 2026-01-19 | Listing and trading — Bharat Coking Coal Limited | as stated: CIL filing "Listing of Bharat Coking Coal Limited, a subsidiary of Co… |
-| 2026-03-12 | Filed with exchanges — Central Mine Planning & Design Institute Limited (RHP dated 12th March, 2026 filed with SEBI, BSE and NSE) | as stated: CIL disclosure under Regulation 30 dated 13.03.2026 |
-| 2026-03-25 | Other — Central Mine Planning & Design Institute Limited (prospectus dated March 24, 2026 filed with the Registrar of Companies, Jharkhand at Ranchi on March 25, 2026) | as stated: CIL disclosure dated 25.03.2026 |
+| 2026-01-19 | Listing and trading — Bharat Coking Coal Limited | as stated: General Updates filing dated 19.01.2026 (listed on BSE Limited and Na… |
+| 2026-03-12 | Other — Central Mine Planning & Design Institute Limited | as stated: Date of the Red Herring Prospectus, per filings dated 13.03.2026 and … |
+| 2026-03-13 | Filed with exchanges — Central Mine Planning & Design Institute Limited | as stated: Updates filing dated 13.03.2026 (RHP filed with SEBI, BSE and NSE) |
+| 2026-03-24 | Other — Central Mine Planning & Design Institute Limited | as stated: Date of the prospectus, per filing dated 25.03.2026 |
+| 2026-03-25 | Other — Central Mine Planning & Design Institute Limited | as stated: Updates filing dated 25.03.2026 (prospectus filed with the Registrar … |
 | 2026-03-30 | **Central Mine Planning & Design Institute Limited** listed (CMPDI) | NSE equity list |
-| 2026-03-30 | Listing and trading — Central Mine Planning & Design Institute Limited | as stated: CIL disclosure under Regulation 30 dated 30.03.26 |
-| 2026-09-01 | DRHP filed — Mahanadi Coalfields Limited | as stated: CIL disclosure under Regulation 30 dated 02.09.2026 (DRHP dated 1st S… |
-| 2026-11-01 | DRHP filed — South Eastern Coalfields Limited | as stated: CIL disclosure under Regulation 30 dated 02.11.2026 (draft red herrin… |
-| 2026-11-13 | Filed with exchanges — Mahanadi Coalfields Limited (RHP dated 13th November, 2026 filed with RoC, SEBI, BSE and NSE) | as stated: CIL disclosure under Regulation 30 dated 14.11.2026 |
+| 2026-03-30 | Listing and trading — Central Mine Planning & Design Institute Limited | as stated: General Updates filing dated 30.03.2026 (listed on BSE Limited and Na… |
+| 2026-09-01 | Other — Mahanadi Coalfields Limited | as stated: Date of the draft red herring prospectus, per filing dated 02.09.2026 |
+| 2026-09-02 | DRHP filed — Mahanadi Coalfields Limited | as stated: General Updates filing dated 02.09.2026 (DRHP filed with SEBI, BSE an… |
+| 2026-11-01 | Other — South Eastern Coalfields Limited | as stated: Date of the draft red herring prospectus, per filing dated 02.11.2026 |
+| 2026-11-02 | DRHP filed — South Eastern Coalfields Limited | as stated: General Updates filing dated 02.11.2026 (DRHP filed with SEBI, BSE an… |
+| 2026-11-13 | Other — Mahanadi Coalfields Limited | as stated: Date of the Red Herring Prospectus, per filing dated 14.11.2026 |
+| 2026-11-14 | Filed with exchanges — Mahanadi Coalfields Limited | as stated: General Updates filing dated 14.11.2026 (RHP dated 13th November, 202… |
 
 **The stages, as filed:** announced (2025-12-23)
 
@@ -69,10 +79,10 @@
 
 **Share swap / entitlement, entity by entity:**
 
-- **Bharat Coking Coal Limited:** Initial public offering by way of an Offer for Sale of up to 465,700,000 Equity Shares of face value ₹10 each by Coal India Limited; sold 465,700,000 Equity Shares at an issue price of ₹23 per share
-- **Central Mine Planning & Design Institute Limited:** Initial public offering by way of an Offer for Sale of up to 107,100,000 Equity Shares of face value ₹2 each by Coal India Limited (DRHP dated May 26, 2025 had stated up to 71,400,000 equity shares); sold 107,100,000 Equity Shares at an offer price of ₹172.00 per share
-- **Mahanadi Coalfields Limited:** Proposed initial public offering comprising an offer for sale of up to 661,836,300 equity shares having a face value of INR 2 each by Coal India Limited
-- **South Eastern Coalfields Limited:** Proposed Initial Public Offering comprising an Offer for Sale of up to 668,056,100 equity shares having a face value of INR 2 each, held by Coal India Limited
+- **Bharat Coking Coal Limited:** Offer for sale of up to 465,700,000 equity shares of face value Rs. 10 each by Coal India Limited; IPO sold 465,700,000 Equity Shares at an issue price of Rs. 23 per share
+- **Central Mine Planning & Design Institute Limited:** DRHP dated May 26, 2025: offer for sale of up to 71,400,000 equity shares by Coal India Limited; RHP dated March 12, 2026: offer for sale of up to 107,100,000 equity shares of face value Rs. 2 each; IPO sold 107,100,000 Equity Shares at an offer price of Rs. 172.00 per share
+- **Mahanadi Coalfields Limited:** Offer for sale of up to 661,836,300 equity shares having a face value of INR 2 each, held by Coal India Limited
+- **South Eastern Coalfields Limited:** Offer for Sale of up to 668,056,100 equity shares having a face value of INR 2 each, held by Coal India Limited
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -85,10 +95,10 @@
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
 - **Promoters in the parent, per the documents:** not stated in the documents on file.
-- **What the promoters will hold in the separated entity:** BCCL: "the Company’s shareholding in Bharat Coking Coal Limited stands reduced from 100% to 90% (i.e., from 4,657,000,000 Equity Shares to 4,191,300,000 Equity Shares) of the issued and paid-up Equity Share capital of Bharat Coking Coal Limited." CMPDIL: "the Company’s shareholding in Central Mine Planning & Design Institute Limited stands reduced from 100% to 85% (i.e., from 714,000,000 Equity Shares to 606,900,000 Equity Shares) of the issued and paid-up Equity Share capital of Central Mine Planning & Design Institute Limited." MCL and SECL: not stated
+- **What the promoters will hold in the separated entity:** BCCL: "the Company’s shareholding in Bharat Coking Coal Limited stands reduced from 100% to 90% (i.e., from 4,657,000,000 Equity Shares to 4,191,300,000 Equity Shares) of the issued and paid-up Equity Share capital of Bharat Coking Coal Limited." CMPDIL: "the Company’s shareholding in Central Mine Planning & Design Institute Limited stands reduced from 100% to 85% (i.e., from 714,000,000 Equity Shares to 606,900,000 Equity Shares) of the issued and paid-up Equity Share capital of Central Mine Planning & Design Institute Limited." MCL and SECL: not stated.
 - **What a public shareholder receives:** not stated in the documents on file.
 - **Management incentives:** not stated in the documents on file.
-- **Insider actions around the separation:** Coal India Limited, the parent/promoter, is the selling shareholder in each listing: it sold 465,700,000 Equity Shares of Bharat Coking Coal Limited at ₹23 per share and 107,100,000 Equity Shares of Central Mine Planning & Design Institute Limited at ₹172.00 per share, both "offered for sale by the Company", and has offered for sale up to 661,836,300 equity shares of MCL and up to 668,056,100 equity shares of SECL. No other promoter or management buying, selling or pledging is stated.
+- **Insider actions around the separation:** Coal India Limited, the parent, sold shares of its subsidiaries in each IPO by way of offer for sale: "Bharat Coking Coal Limited, pursuant to its IPO, has sold 465,700,000 Equity Shares at an issue price of ₹ 23 per share which were offered for sale by the Company"; "Central Mine Planning & Design Institute Limited, pursuant to its IPO, has sold 107,100,000 Equity Shares at an offer price of ₹172.00 per share which were offered for sale by the Company." Proposed offers for sale by Coal India Limited of up to 661,836,300 equity shares of MCL and up to 668,056,100 equity shares of SECL are pending. No other promoter or management buying, selling or pledging is stated.
 - **Insiders, per the checklist read:** Not stated for MCL/SECL. CIL is the sole selling shareholder in each offer for sale; in the completed BCCL and CMPDIL IPOs CIL retained 90% and 85% respectively. · *option pricing date:* not stated
 
 ### 5. Why the demerger — point by point
