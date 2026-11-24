@@ -169,21 +169,38 @@ def exchanges_in(section: str, terms_rx: re.Pattern = SPIN_TERMS_RX) -> list[dic
     return out
 
 
-def entity_terms(names: list[str], company: str = "") -> re.Pattern:
-    """SPIN_TERMS plus the distinctive words of the entities' names (so
-    'when does Fleur list?' is caught without the word demerger)."""
-    skip = {w.lower() for w in re.findall(r"[A-Za-z]+", company)} | set(FN.GENERIC_WORDS)
+def entity_terms(names: list[str], company: str = "", text: str = "") -> re.Pattern:
+    """SPIN_TERMS plus the names of the separated entities, so 'when does
+    Fleur list?' is caught without the word demerger — but only names that
+    MEAN the entity: the first two words of its name when the parent's own
+    name does not contain them ('Vedanta Power', 'ITC Hotels'; not 'Tata
+    Motors' inside Tata Motors Passenger Vehicles), and a single coined
+    word ('Digitide', 'Fleur') — never an ordinary word of the business
+    ('aluminium', 'power', 'steel', 'hotels'), which the transcripts also
+    print in lower case and which would pull in every operating question."""
+    parent = " ".join(re.findall(r"[A-Za-z0-9]+", company)).lower()
+    skip = set(parent.split()) | set(FN.GENERIC_WORDS)
     skip |= {"india", "indian", "limited", "private", "services", "solutions", "enterprises", "industries", "holdings",
              "global", "international", "technologies", "products", "ventures", "national", "management", "company"}
-    words = []
+    terms: list[str] = []
     for n in names:
-        for w in re.findall(r"[A-Za-z][A-Za-z0-9]{4,}", n or ""):
-            if w.lower() not in skip and w.lower() not in words:
-                words.append(w.lower())
-                break                              # the first distinctive word of each name
-    if not words:
+        ws = re.findall(r"[A-Za-z][A-Za-z0-9']*", _stem(SO.clean_entity(n or "")))
+        if len(ws) >= 2:
+            pair = f"{ws[0]} {ws[1]}".lower()
+            if pair not in parent and len(pair) >= 7 and ws[1].lower() not in ("and", "of", "limited", "private"):
+                terms.append(r"\b" + re.escape(ws[0]) + r"\s+" + re.escape(ws[1]) + r"\b")
+        for w in ws:
+            lw = w.lower()
+            if len(w) < 5 or lw in skip:
+                continue
+            ordinary = len(re.findall(r"(?<![A-Za-z])" + re.escape(lw) + r"(?![A-Za-z])", text or "")) >= 3   # printed in lower case
+            if not ordinary:
+                terms.append(r"\b" + re.escape(lw) + r"\b")
+            break                                  # only the first distinctive word of each name
+    terms = list(dict.fromkeys(terms))
+    if not terms:
         return SPIN_TERMS_RX
-    return re.compile(SPIN_TERMS_RX.pattern + "|" + "|".join(r"\b" + re.escape(w) + r"\b" for w in words), re.I)
+    return re.compile(SPIN_TERMS_RX.pattern + "|" + "|".join(terms), re.I)
 
 
 def call_exchanges(symbol: str, today: dt.date, months: int = 36, names: list[str] | None = None,
@@ -194,7 +211,7 @@ def call_exchanges(symbol: str, today: dt.date, months: int = 36, names: list[st
     text = SO.concall_text(symbol)
     if not text:
         return []
-    rx = entity_terms(names or [], company)
+    rx = entity_terms(names or [], company, text)
     cutoff = dt.date(today.year, today.month, 1) - dt.timedelta(days=months * 31)
     out = []
     for label, body in SO.concall_sections(text):
@@ -495,61 +512,96 @@ def _pct(s) -> float | None:
     return float(m.group(1)) if m else None
 
 
+def _reading(share: float | None) -> str:
+    if share is None:
+        return "not determinable — the documents on file give no size for the separated piece"
+    if share < 10:
+        return ("VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders "
+                "who receive it without choosing it tend to sell")
+    if share < 25:
+        return "LIKELY — the piece is small beside the parent; mandates with size limits tend to sell"
+    if share < 50:
+        return "POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker"
+    return "LESS LIKELY on size alone — the piece is the larger part of the business"
+
+
+def stated_split(statement: str, e: dict) -> float | None:
+    """This entity's share in a split the documents print by name — the
+    cost-of-acquisition apportionment a company publishes after a demerger
+    ('Vedanta Aluminium Metal Limited 7.15% | Talwandi Sabo Power Limited
+    12.23%'), under its name or an earlier name."""
+    names = [e.get("name", "")] + [x for x in (e.get("former_names") or []) if isinstance(x, str)] \
+        if isinstance(e.get("former_names"), list) else [e.get("name", "")]
+    for n in names:
+        stem = _stem(SO.clean_entity(n))
+        if len(stem) < 4:
+            continue
+        m = re.search(re.escape(stem) + r"\s*(?:Limited|Ltd\.?)?[^%\d]{0,12}(\d{1,2}(?:\.\d+)?)\s*%", statement or "", re.I)
+        if m:
+            return float(m.group(1))
+    return None
+
+
 def size_view(entities: list[dict], parent_fin: dict, seg_tables: list[dict], parent_symbol: str,
-              mcaps: tuple[str, dict[str, float]] | None = None, members: dict | None = None) -> dict:
-    """The separated piece(s) against the parent, three ways, and the
-    reading for forced selling. Shares are computed here; the stated
-    percentage is the documents' own."""
+              mcaps: tuple[str, dict[str, float]] | None = None, members: dict | None = None,
+              size_statement: str = "") -> dict:
+    """Each separated piece against the WHOLE (the parent plus every
+    separated entity), three ways, and the reading for forced selling —
+    entity by entity, since one company can separate a large piece and a
+    small one. The stated percentage is the documents' own (a turnover
+    share, or the cost-of-acquisition split); the market-cap share is the
+    entity's value over the parent's plus all the separated entities'; the
+    segment share is the business's revenue over the parent's sales. The
+    reading uses the first of these that exists, in that order."""
     rows = []
     mdate, caps = mcaps or ("", {})
     pcap = caps.get(parent_symbol)
+    spun = separated(entities)
+    whole = (pcap + sum(caps.get(e.get("symbol") or "", 0) or 0 for e in spun)) if pcap else None
     parent_sales = None
     if parent_fin.get("available"):
         sales = next((r["values"] for r in parent_fin["rows"] if r["metric"].startswith("Sales (")), [])
         parent_sales = dict(zip(parent_fin.get("years", []), sales))
     best = []
-    for e in entities:
-        if not is_separated(e):
-            continue
-        stated = _pct(e.get("turnover_pct_of_parent"))
+    for e in spun:
+        stated, basis = _pct(e.get("turnover_pct_of_parent")), "share of turnover"
+        if stated is None:
+            stated, basis = stated_split(size_statement, e), ("cost-of-acquisition split" if re.search(
+                r"cost of acquisition", size_statement or "", re.I) else "split stated in the documents")
         cap = caps.get(e.get("symbol") or "")
-        cap_share = round(100 * cap / (cap + pcap), 1) if cap and pcap else None
+        cap_share = round(100 * cap / whole, 1) if cap and whole else None
         seg_share, seg_fy = None, ""
-        for st in seg_tables:
-            if not st.get("available") or st.get("side") == "remaining" \
-                    or not _same_business(st.get("entity", ""), st.get("segment_name", ""), e):
-                continue
-            rev = next((r["values"] for r in st["rows"] if r["metric"].startswith("Revenue (")), [])
-            for fy, v in reversed(list(zip(st.get("years", []), rev))):
-                ps = _parent_sales_for(parent_sales, fy)
-                if v and ps and st.get("unit_factor"):
-                    seg_share, seg_fy = round(100 * v * st["unit_factor"] / ps, 1), fy
-                    break
-            if seg_share is not None:
+        mine = tables_for(e, spun, seg_tables)
+        years = sorted({fy for st in mine for fy in st.get("years", [])}, reverse=True)
+        for fy in years:                               # the latest year the parent's sales cover; several segments add up
+            ps = _parent_sales_for(parent_sales, fy)
+            tot = 0.0
+            for st in mine:
+                rev = next((r["values"] for r in st["rows"] if r["metric"].startswith("Revenue (")), [])
+                v = dict(zip(st.get("years", []), rev)).get(fy)
+                if v and st.get("unit_factor"):
+                    tot += v * st["unit_factor"]
+            if tot and ps:
+                seg_share, seg_fy = round(100 * tot / ps, 1), fy
                 break
-        share = stated if stated is not None else seg_share if seg_share is not None else cap_share
+        share = stated if stated is not None else cap_share if cap_share is not None else seg_share
         if share is not None:
             best.append(share)
         rows.append({"entity": e["name"], "symbol": e.get("symbol", ""),
                      "stated_turnover": e.get("turnover", ""), "stated_pct": stated,
+                     "stated_basis": basis if stated is not None else "",
                      "segment_pct": seg_share, "segment_fy": seg_fy,
                      "mcap_cr": round(cap) if cap else None, "mcap_pct": cap_share,
-                     "index_member": bool(members and e.get("symbol") in members), "share_used": share})
+                     "index_member": bool(members and e.get("symbol") in members), "share_used": share,
+                     "reading": _reading(share).split(" — ")[0]})
     total = sum(best) if best else None
     smallest = min(best) if best else None
-    if smallest is None:
-        reading = "not determinable — the documents on file give no size for the separated piece"
-    elif smallest < 10:
-        reading = ("VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders "
-                   "who receive it without choosing it tend to sell")
-    elif smallest < 25:
-        reading = "LIKELY — the piece is small beside the parent; mandates with size limits tend to sell"
-    elif smallest < 50:
-        reading = "POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker"
-    else:
-        reading = "LESS LIKELY on size alone — the piece is the larger part of the business"
-    return {"rows": rows, "parent_mcap_cr": round(pcap) if pcap else None, "mcap_date": mdate,
-            "total_share": total, "smallest_share": smallest, "reading": reading}
+    reading = _reading(smallest)
+    sized = [r for r in rows if r["share_used"] is not None]
+    if len(sized) > 1 and len({r["reading"] for r in sized}) > 1:
+        reading = "BY ENTITY — " + "; ".join(f"{r['entity']}: {r['reading'].lower()} ({r['share_used']}% of the whole)" for r in sized)
+    return {"rows": rows, "parent_mcap_cr": round(pcap) if pcap else None, "whole_mcap_cr": round(whole) if whole else None,
+            "mcap_date": mdate, "total_share": total, "smallest_share": smallest, "reading": reading}
 
 
 MATCH_SKIP = set(FN.GENERIC_WORDS) | {"enterprises", "industries", "holdings", "global", "international", "technologies",
@@ -557,19 +609,52 @@ MATCH_SKIP = set(FN.GENERIC_WORDS) | {"enterprises", "industries", "holdings", "
                                       "composite", "remaining", "company", "through", "related", "comprising"}
 
 
-def _same_business(entity: str, segment: str, e: dict) -> bool:
-    """Does a segment table belong to entity `e`? First by the entity the
-    judge attached to it (a distinctive word of the entity's name), then by
-    a distinctive word of the entity's business in the segment's name."""
+def _same_business(entity: str, segment: str, e: dict, shared: frozenset = frozenset()) -> bool:
+    """Does a segment table belong to entity `e`? By the entity the judge
+    attached to it — its full name or an earlier name, else the first
+    distinctive word of its name that no other entity shares (not
+    'Vedanta' for Vedanta's five) — then by a distinctive word of the
+    entity's business in the segment's name."""
     ent = SO._norm_name(entity)
+    names = [e.get("name", "")] + ([x for x in e.get("former_names") if isinstance(x, str)]
+                                   if isinstance(e.get("former_names"), list) else [])
+    if any(len(SO._norm_name(n)) >= 5 and SO._norm_name(n) in ent for n in names):
+        return True
     for w in re.findall(r"[A-Za-z]{4,}", e.get("name", "")):
-        if w.lower() not in MATCH_SKIP:
+        if w.lower() not in MATCH_SKIP and w.lower() not in shared:
             if w.lower() in ent:
                 return True
             break                                   # only the first distinctive word of the name
     seg = SO._norm_name(segment)
     return any(w.lower() in seg for w in re.findall(r"[A-Za-z]{6,}", e.get("business", ""))
-               if w.lower() not in MATCH_SKIP)
+               if w.lower() not in MATCH_SKIP and w.lower() not in shared)
+
+
+def tables_for(e: dict, spun: list[dict], seg_tables: list[dict]) -> list[dict]:
+    """The separated-business segment tables that belong to entity `e`. A
+    table the judge attached by full name to ANOTHER entity is never this
+    one's; words several entities share do not identify any of them."""
+    words: dict[str, int] = {}
+    for x in spun:
+        for w in {w.lower() for w in re.findall(r"[A-Za-z]{4,}", x.get("name", ""))}:
+            words[w] = words.get(w, 0) + 1
+    shared = frozenset(w for w, n in words.items() if n > 1) if len(spun) > 1 else frozenset()
+    def named(st, x):
+        ent = SO._norm_name(st.get("entity", ""))
+        ns = [x.get("name", "")] + ([y for y in x.get("former_names") if isinstance(y, str)]
+                                    if isinstance(x.get("former_names"), list) else [])
+        return any(len(SO._norm_name(n)) >= 5 and SO._norm_name(n) in ent for n in ns)
+    out = []
+    for st in seg_tables or []:
+        if not st.get("available") or st.get("side") == "remaining":
+            continue
+        if named(st, e):
+            out.append(st)
+        elif any(named(st, x) for x in spun if x is not e):
+            continue
+        elif _same_business(st.get("entity", ""), st.get("segment_name", ""), e, shared):
+            out.append(st)
+    return out
 
 
 def _parent_sales_for(parent_sales: dict | None, fy: str) -> float | None:
@@ -616,7 +701,7 @@ def working_capital(symbol: str) -> dict:
     if p.exists():
         with open(p) as fh:
             rd = list(csv.reader(fh))
-        years = rd[0][1:]
+        years = [re.sub(r"\s+", " ", y).strip() for y in rd[0][1:]]
         for r in rd[1:]:
             vals = [float(x) if x not in ("", None) else None for x in r[1:]]
             v, y = _last(vals, years)
@@ -625,6 +710,7 @@ def working_capital(symbol: str) -> dict:
     b = BS_DIR / f"{symbol}.csv"
     if b.exists():
         years, series = FN._table(b)
+        years = [re.sub(r"\s+", " ", str(y)).strip() for y in years]
         eq = [(a or 0) + (c or 0) if a is not None or c is not None else None
               for a, c in zip(series.get("Equity Capital", []), series.get("Reserves", []))]
         debt = series.get("Borrowings", [])
@@ -666,8 +752,7 @@ def compare(parent_symbol: str, parent_fin: dict, entities: list[dict], seg_tabl
             cols.append({"label": f"{e['name']} ({sym})", "basis": "its own reported statements",
                          "metrics": {**fin_metrics(own), **working_capital(sym)}})
             continue
-        st = next((t for t in seg_tables if t.get("available") and t.get("side") != "remaining"
-                   and _same_business(t.get("entity", ""), t.get("segment_name", ""), e)), None)
+        st = next(iter(tables_for(e, separated(entities), seg_tables)), None)
         if st:
             m = {}
             yrs = st["years"]

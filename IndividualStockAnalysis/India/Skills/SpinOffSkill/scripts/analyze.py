@@ -872,20 +872,24 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     sz = s.get("size") or {}
     if sz.get("rows"):
         A += [f"**Reading: {sz['reading']}.**", "",
-              "| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |",
-              "|---|---|---:|---:|---:|---:|---|"]
+              "| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |",
+              "|---|---|---:|---:|---:|---:|---|---|"]
         for r in sz["rows"]:
             A.append(f"| {r['entity']} | {_short(r['stated_turnover'] or '—', 60)} | "
-                     + (f"{r['stated_pct']}%" if r["stated_pct"] is not None else "—") + " | "
-                     + (f"{r['segment_pct']}% ({r['segment_fy']})" if r["segment_pct"] is not None else "—") + " | "
+                     + (f"{r['stated_pct']}%" + (f" ({r['stated_basis']})" if r.get("stated_basis") else "")
+                        if r["stated_pct"] is not None else "—") + " | "
                      + (f"{r['mcap_cr']:,}" if r["mcap_cr"] else "—") + " | "
                      + (f"{r['mcap_pct']}%" if r["mcap_pct"] is not None else "—") + " | "
-                     + ("yes" if r["index_member"] else ("no" if r["symbol"] else "not listed")) + " |")
+                     + (f"{r['segment_pct']}% ({r['segment_fy']})" if r["segment_pct"] is not None else "—") + " | "
+                     + ("yes" if r["index_member"] else ("no" if r["symbol"] else "not listed")) + " | "
+                     + (r.get("reading") or "—").split(" on size")[0].lower() + " |")
         A += ["", "*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company "
-                  "publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's "
-                  "sales, and the market-cap share is the entity's value over the entity plus the parent"
-              + (f" (parent ₹{sz['parent_mcap_cr']:,} cr, NSE bhavcopy of {sz['mcap_date']})" if sz.get("parent_mcap_cr") else "")
-              + ", both computed here.*", ""]
+                  "publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — "
+                  "the parent plus every separated entity that trades"
+              + (f" (parent ₹{sz['parent_mcap_cr']:,} cr, whole ₹{sz.get('whole_mcap_cr') or sz['parent_mcap_cr']:,} cr, "
+                 f"NSE bhavcopy of {sz['mcap_date']})" if sz.get("parent_mcap_cr") else "")
+              + "; the segment share is the business's revenue over the parent's reported sales of that year. Both are computed "
+                "here. The reading uses the stated share, else the market-cap share, else the segment share.*", ""]
     elif full:
         A += ["The documents on file give no size for the separated piece, and it has no market value yet.", ""]
     if d.get("size_statement") and not re.match(SO.UNNAMED_RX, str(d["size_statement"])):
@@ -1930,7 +1934,8 @@ def enrich(s: dict, rows: list[dict], ai: bool, today: dt.date, live: dict,
     s["shareholding"] = {k: v for k, v in holders.items() if v}
     s["entity_financials"] = own
     s["size"] = DL.size_view(s["entities"], s["parent_financials"], s["segment_tables"], sym,
-                             DL.latest_mcaps(as_of=today), _members())
+                             DL.latest_mcaps(as_of=today), _members(),
+                             size_statement=str((s.get("deal") or {}).get("size_statement") or ""))
     s["compare"] = DL.compare(sym, s["parent_financials"], s["entities"], s["segment_tables"])
     # ---- the calls, verbatim: every question and answer about it, oldest first
     s["call_exchanges"] = DL.call_exchanges(sym, today, 36, [e["name"] for e in spun], s["company"],

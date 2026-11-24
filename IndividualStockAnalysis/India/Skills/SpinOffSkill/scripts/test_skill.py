@@ -2000,3 +2000,52 @@ def test_roles_are_held_to_what_the_situation_is():
     both = {"kind": "demerger", "also_partial": True, "facts": {}}
     ents = AZ.settle_roles(both, [{"name": "Advanta Enterprises Limited", "role": "listed_subsidiary", "listed_on": "", "dropped": False}])
     assert DL.separated(ents)                                  # the listing question found an IPO: it stays
+
+
+def test_each_entity_is_sized_against_the_whole_with_its_own_reading():
+    """Vedanta: five entities under one name. A segment table belongs to
+    the entity it names in full (also by an earlier name), never to all of
+    them on the shared word; the market-cap share is over the parent plus
+    every separated entity; the cost-of-acquisition split is read by name;
+    a large piece and a small one get different readings."""
+    ents = [{"name": "Vedanta Aluminium Metal Limited", "symbol": "VAML", "role": "resulting", "dropped": False},
+            {"name": "Vedanta Power Limited", "symbol": "VEDPOWER", "role": "resulting", "dropped": False,
+             "former_names": ["Talwandi Sabo Power Limited"]},
+            {"name": "Vedanta Property Platforms Limited", "symbol": "", "role": "resulting", "dropped": False},
+            {"name": "Vedanta Limited", "symbol": "VEDL", "role": "parent", "is_parent": True, "dropped": False}]
+    seg = [{"available": True, "side": "separated", "entity": "Vedanta Aluminium Metal Limited", "segment_name": "Aluminium",
+            "unit_factor": 1.0, "years": ["FY2026"], "rows": [{"metric": "Revenue (₹ crore)", "values": [60000.0]}]},
+           {"available": True, "side": "separated", "entity": "Talwandi Sabo Power Limited (TSPL) / Resulting Company 2", "segment_name": "Power",
+            "unit_factor": 1.0, "years": ["FY2026"], "rows": [{"metric": "Revenue (₹ crore)", "values": [6000.0]}]},
+           {"available": True, "side": "separated", "entity": "Talwandi Sabo Power Limited", "segment_name": "Power — other",
+            "unit_factor": 1.0, "years": ["FY2026"], "rows": [{"metric": "Revenue (₹ crore)", "values": [4000.0]}]}]
+    spun = DL.separated(ents)
+    assert [len(DL.tables_for(e, spun, seg)) for e in spun] == [1, 2, 0]
+    parent = {"available": True, "years": ["FY2026"], "rows": [{"metric": "Sales (₹ cr)", "values": [100000.0]}]}
+    caps = ("2026-11-13", {"VEDL": 100000.0, "VAML": 150000.0, "VEDPOWER": 14000.0})
+    sz = DL.size_view(ents, parent, seg, "VEDL", caps,
+                      size_statement="cost of acquisition: 1 Vedanta Limited 52.34% | 2 Vedanta Aluminium Metal Limited 7.15% | 3 Talwandi Sabo Power Limited 12.23%")
+    rows = {r["entity"]: r for r in sz["rows"]}
+    assert rows["Vedanta Aluminium Metal Limited"]["segment_pct"] == 60.0 and rows["Vedanta Power Limited"]["segment_pct"] == 10.0   # two tables add up
+    assert rows["Vedanta Property Platforms Limited"]["segment_pct"] is None
+    assert rows["Vedanta Aluminium Metal Limited"]["mcap_pct"] == 56.8 and sz["whole_mcap_cr"] == 264000      # over the whole, not the pair
+    assert rows["Vedanta Aluminium Metal Limited"]["stated_pct"] == 7.15 and rows["Vedanta Power Limited"]["stated_pct"] == 12.23
+    assert rows["Vedanta Power Limited"]["stated_basis"] == "cost-of-acquisition split"
+    assert sz["reading"].startswith("BY ENTITY") and "Vedanta Power Limited: likely (12.23% of the whole)" in sz["reading"]
+    # without a stated split the market's own value is used before the segment share
+    sz2 = DL.size_view(ents, parent, seg, "VEDL", caps)
+    assert {r["entity"]: r["share_used"] for r in sz2["rows"]}["Vedanta Power Limited"] == 5.3
+
+
+def test_call_exchanges_are_about_the_separation_not_the_business():
+    """An entity's ordinary business word ('aluminium', 'power') must not
+    pull every operating question into the verbatim section; its name
+    ('Vedanta Aluminium', 'Vedanta Power') and a coined word ('Digitide')
+    do. A name the parent's own name contains identifies nothing."""
+    calls = "the aluminium cost fell; aluminium premium rose; aluminium volumes. power sales; power cost; power plants."
+    rx = DL.entity_terms(["Vedanta Aluminium Metal Limited", "Vedanta Power Limited"], "Vedanta Ltd.", calls)
+    assert not rx.search("Our aluminium cost of production fell") and not rx.search("Power sales grew 30%")
+    assert rx.search("Vedanta Aluminium will list in June") and rx.search("Vedanta  Power has 4.2 GW") and rx.search("post the de-merger")
+    assert not DL.entity_terms(["Tata Motors Limited"], "Tata Motors Passenger Vehicles Ltd.").search("Tata Motors sold more cars")
+    rx = DL.entity_terms(["Digitide Solutions Limited"], "Quess Corp Ltd.", calls)
+    assert rx.search("How is Digitide doing?") and not rx.search("the solutions business")
