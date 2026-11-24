@@ -20,7 +20,7 @@
 
 - **Insiders, per the checklist read:** Promoter and Promoter Group 44.91% pre-issue to 44.68% post-issue; promoter-group Ravi Mazumdar and KMPs (Tambe 20,33,429 shares; Mittal 5,76,634) swapped BBL shares for Biocon shares; Tambe CEO & MD, Rs 18 crore cap plus RSUs/PSUs · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 No rationale on file: no call passages and no scheme rationale text.
 

@@ -2031,10 +2031,18 @@ def test_each_entity_is_sized_against_the_whole_with_its_own_reading():
     assert rows["Vedanta Aluminium Metal Limited"]["mcap_pct"] == 56.8 and sz["whole_mcap_cr"] == 264000      # over the whole, not the pair
     assert rows["Vedanta Aluminium Metal Limited"]["stated_pct"] == 7.15 and rows["Vedanta Power Limited"]["stated_pct"] == 12.23
     assert rows["Vedanta Power Limited"]["stated_basis"] == "cost-of-acquisition split"
-    assert sz["reading"].startswith("BY ENTITY") and "Vedanta Power Limited: likely (12.23% of the whole)" in sz["reading"]
-    # without a stated split the market's own value is used before the segment share
-    sz2 = DL.size_view(ents, parent, seg, "VEDL", caps)
-    assert {r["entity"]: r["share_used"] for r in sz2["rows"]}["Vedanta Power Limited"] == 5.3
+    # the reading rests on the market's own value when the entity trades — not the book-based cost split
+    assert sz["reading"].startswith("BY ENTITY") and "Vedanta Power Limited: very likely (5.3% of the whole, by market value)" in sz["reading"]
+    assert "Vedanta Aluminium Metal Limited: less likely on size alone (56.8% of the whole, by market value)" in sz["reading"]
+    # an entity that does not trade yet: the stated share, else the segment share
+    caps2 = ("2026-11-13", {"VEDL": 100000.0})
+    used = {r["entity"]: (r["share_used"], r["share_basis"]) for r in DL.size_view(ents, parent, seg, "VEDL", caps2,
+            size_statement="cost of acquisition: Vedanta Aluminium Metal Limited 7.15%")["rows"]}
+    assert used["Vedanta Aluminium Metal Limited"] == (7.15, "cost-of-acquisition split")
+    assert used["Vedanta Power Limited"] == (10.0, "by segment revenue")
+    # a saved run's rows are re-read under the same rule
+    again = DL.size_reading({"rows": [{"entity": "A", "mcap_pct": None, "stated_pct": 30.0, "stated_basis": "share of turnover", "segment_pct": 5.0}]})
+    assert again["smallest_share"] == 30.0 and again["reading"].startswith("POSSIBLE")
 
 
 def test_call_exchanges_are_about_the_separation_not_the_business():

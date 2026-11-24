@@ -32,11 +32,11 @@
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Pricol Autotech Limited | "The turnover of the DICVS Business  for the financial year… | 61.17% | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Pricol Autotech Limited | "The turnover of the DICVS Business  for the financial year… | 61.17% (share of turnover) | — | — | — | not listed | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,115 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,115 cr, whole ₹9,115 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the DICVS Business  for the financial year ending March 31, 2026, stood at INR 2,424.63  crores. This represents 61.17%  of the total consolidated turnover of the Company for the financial year ending March 31, 2026 .”
 

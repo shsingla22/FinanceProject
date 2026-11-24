@@ -12,8 +12,6 @@
 |---|---|---|---|---|
 | **ICICI Prudential Asset Management Company Limited** | 2025 listing and partial divestment of PCHL's stake in ICIC… | Asset management joint venture providing mutual fund, portfolio management and advisory services; from April … | listed 2025-12-19 as ICICIAMC (NSE) | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: ICICI Pension Fund Management Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** ICICI Prudential Asset Management Company, the group's asset management and portfolio/advisory services subsidiary — class `not stated`.
 
 ### 2. Stages and dates
@@ -38,13 +36,13 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| ICICI Prudential Asset Management Company Limited | not stated | — | — | 150,274 | 11.7% | yes |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| ICICI Prudential Asset Management Company Limited | not stated | 150,274 | 13.2% | yes |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹1,136,781 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹1,136,781 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — No shares distributed to Bank shareholders; listing came via PCHL's partial divestment, with the Bank retaining 53.0%
 
@@ -70,7 +68,7 @@
 - **Insider actions around the separation:** "In February 2025, the Bank's joint venture partner, PCHL, made an announcement regarding a potential listing and partial divestment of its stake in ICICI Prudential Asset Management Company Limited, subject to market conditions, requisite approvals and other considerations." "Following the receipt of requisite approvals, the Bank purchased 2.0% additional shareholding from PCHL." For the life insurer: "the Bank has, through multiple tranches executed between July 22, 2026 and September 2, 2026, completed the purchase of approximately 2.0% of ICICI Life's equity share capital at June 30, 2026, through the stock exchange mechanism." "PCHL entered into definitive agreements on May 17, 2026, pursuant to which PCHL has agreed to acquire a 75% stake in Bharti Life Insurance Company Limited" and "ICICI Prudential Life Insurance Company Limited has applied to IRDAI for the reclassification of PCHL from 'promoter' to 'investor'". No pledging is stated.
 - **Insiders, per the checklist read:** Bank held 53.0% and PCHL 34.6% at March 31, 2026; Bank bought 2.0% more from PCHL primarily to keep majority shareholding if stock-based compensation is granted · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 There is no separation, demerger or spin-off of a business by ICICI Bank in these texts — the question's premise is not supported by the transcripts or the filing, and the dominant direction of travel is the opposite: consolidation of group entities into the Bank. The nearest things management actually described are four entity-level reorganizations. (1) Pension funds: the Board on July 19, 2025 approved acquiring 100% of ICICI Prudential Pension Funds Management Company Limited from ICICI Prudential Life Insurance, moving it from a step-down subsidiary of ICICI Life to a direct wholly owned subsidiary of the Bank; the share purchase agreement was executed January 12, 2026, and on the Jan 2026 media call Sandeep Batra said the rationale was that 'the synergy with the Bank will be better and the business will be able to expand in a much better fashion,' i.e. 'synergising with the banking set of customers'; ICICI Life booked a Rs. 1.1 billion gain on the sale, which was part of why its FY2026 PAT rose 34.6% to Rs. 16.00 billion (25.0% excluding the sale). (2) ICICI Venture's private equity, venture capital and real estate fund management business was approved in principle on May 8, 2025 for transfer to ICICI Prudential AMC, completed with ICICI Prudential AMC managing the transferred funds effective April 1, 2026; the stated purpose was 'offering of an integrated full range of investment asset classes, including private equity,' while ICICI Venture keeps only 'certain advisory activities' and 'certain residual funds' — ICICI Venture's PAT jumped to Rs. 1.5 billion in FY2026 from Rs. 0.2 billion in FY2025. (3) A small divestment of the Bank's entire stake in the NIIT Institute of Finance and Banking JV (set up around 2006), which Batra on Apr 2025 called 'a very small amount' done to 'rationalise and simplify our own portfolio where we want to remain focused on.' (4) Closure of the Offshore Banking Unit in the SEEPZ, Mumbai, for which RBI gave a no-objection letter in May 2026 (a prior OBU closure had already pushed Rs. 3.40 billion of negative foreign currency translation reserve into the Q4-FY2024 P&L). Against these, the Bank was pulling businesses in, not pushing them out: ICICI Securities was delisted on March 24, 2025 and became wholly owned (56 million ICICI Bank shares issued at a 67:100 swap, which Anindya Banerjee cited as the main reason net worth rose about Rs. 20,000 crore sequentially, 'while it's capital neutral'); the Bank bought ~2% more of ICICI Prudential AMC and ~2% more of ICICI Life, explicitly 'towards maintaining the Bank's majority shareholding' against stock-based compensation dilution; it infused Rs. 5.0 billion (including Rs. 500 crore in Q3-FY2026) into ICICI Home Finance, which Batra justified as meeting 'the regulatory requirement and expansion that is required from their business point of view'; and it acquired the remaining equity of I-Process Services. The only genuine ownership separations described are at the partner/JV level, not the Bank's: ICICI Prudential AMC listed on BSE and NSE effective December 19, 2025 following Prudential Corporation Holdings' February 2025 announcement of a 'potential listing and partial divestment of its stake,' and after PCHL agreed on May 17, 2026 to buy 75% of Bharti Life, ICICI Life applied to IRDAI to reclassify PCHL from 'promoter' to 'investor' and to rename itself 'ICICI Life Insurance Limited' (IRDAI approved the name change August 7, 2026).
 

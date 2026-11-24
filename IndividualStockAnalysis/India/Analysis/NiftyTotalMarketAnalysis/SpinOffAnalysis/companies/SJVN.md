@@ -22,7 +22,7 @@
 
 - **Insiders, per the checklist read:** not stated; parent SJVN Limited is a Joint Venture of Govt. of India & Govt. of H.P., a Navratna CPSE · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 No rationale on file: no call passages and no scheme rationale text.
 

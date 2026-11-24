@@ -60,11 +60,11 @@
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Kwality Wall's (India) Limited | INR 1,595 Crores for the year ended 31st March, 2024 (turno… | 2.7% | 1.9% (FY2026) | 9,871 | 2.1% | no |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Kwality Wall's (India) Limited | INR 1,595 Crores for the year ended 31st March, 2024 (turno… | 2.7% (share of turnover) | 9,871 | 2.1% | 1.9% (FY2026) | no | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹468,250 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹468,250 cr, whole ₹478,121 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Ice Cream Business Undertaking for the year ended 31st March, 2024 was INR 1,595 Crores representing 2.7% of the total standalone turnover of the Company for the year ended 31st March, 2024”
 

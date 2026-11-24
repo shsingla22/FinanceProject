@@ -39,12 +39,12 @@
 
 **Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| MSL Seamless Tubes Limited | Demerged Undertaking 1: 793 (Operational Turnover for FY 20… | 16.98% | 1.7% (FY2026) | — | — | not listed |
-| United Seamless Limited | Demerged Undertaking 2: 693 (Operational Turnover for FY 20… | 14.84% | 1.7% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| MSL Seamless Tubes Limited | Demerged Undertaking 1: 793 (Operational Turnover for FY 20… | 16.98% (share of turnover) | — | — | 1.7% (FY2026) | not listed | likely |
+| United Seamless Limited | Demerged Undertaking 2: 693 (Operational Turnover for FY 20… | 14.84% (share of turnover) | — | — | 1.7% (FY2026) | not listed | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,248 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹7,248 cr, whole ₹7,248 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “Particulars / Operational Turnover for FY 2025 - 26 (Rs. crores) / Percentage (%): Demerged Undertaking 1 793 16.98%; Demerged Undertaking 2 693 14.84%; Remaining 3185 68.18%; Total 4671 100.00%”
 
@@ -111,7 +111,7 @@ This is not a sale but a three-way split by demerger: a Scheme of Arrangement ap
 
 ### 6. On the calls, verbatim
 
-8 call(s), oldest first: **13 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 0 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+7 call(s), oldest first: **11 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 0 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 #### Nov 2023 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=132dfb4c-b880-4f4e-8e84-430872794cb3.pdf)
 
@@ -183,21 +183,7 @@ This is not a sale but a three-way split by demerger: a Scheme of Arrangement ap
 >
 > **Kaushal Bengani:** Yes to both questions. We acquired United Seamless Tubula ar Private Limited from the IBC process in 2020 and amalgamated that entity with our company. So that was one competitor which we had taken over. There aren't any other opportunities right now in India. On the capacity expansion front, like the way we are going ahead with ca pacity expansion, one of our competitors is also doing so.
 
-#### Nov 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92cac794-00b8-4e60-be7b-2e45526b6464.pdf)
-
-**Question and answer**
-
-> **Radha:** Okay. Sir, secondly, according to the Seamless Tubes Manufacturers Association of India, the seamless capacity in India is currently 1.9 milli on tons, whereas the demand is 1.3 million tons. So if we say 20% to 25% of the industry size, so is it the right number if you take 20% to 25% of the 1.3 million ton demand that they have stated recently? Maharashtra Seamless Limited 05 N ovember 2025
->
-> **Kaushal Bengani:** Those numbers are not correct because they refer to nameplate capacity, which is different from actual capacity. Actual production of seamless pipes in India is around 9 lakh tons. So the 20%, 25% is linked to the actual production of 9 lakh tons annually.
-
 #### Feb 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f71803d8-c20b-4934-a1c6-184365d050a4.pdf)
-
-**Question and answer**
-
-> **Ritesh:** Sir, in recent IIP numbers, the base metal sector has seen a good growth. And in the press release also written that ste el tubes market is -- growth has been encouraging. So what are your comments on that and how that impacts our company?
->
-> **Kaushal Bengani:** Who has given this view? I couldn't...
 
 **Question and answer**
 

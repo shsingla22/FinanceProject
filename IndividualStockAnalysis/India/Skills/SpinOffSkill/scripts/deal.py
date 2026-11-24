@@ -552,7 +552,7 @@ def size_view(entities: list[dict], parent_fin: dict, seg_tables: list[dict], pa
     share, or the cost-of-acquisition split); the market-cap share is the
     entity's value over the parent's plus all the separated entities'; the
     segment share is the business's revenue over the parent's sales. The
-    reading uses the first of these that exists, in that order."""
+    reading is `size_reading`'s."""
     rows = []
     mdate, caps = mcaps or ("", {})
     pcap = caps.get(parent_symbol)
@@ -562,7 +562,6 @@ def size_view(entities: list[dict], parent_fin: dict, seg_tables: list[dict], pa
     if parent_fin.get("available"):
         sales = next((r["values"] for r in parent_fin["rows"] if r["metric"].startswith("Sales (")), [])
         parent_sales = dict(zip(parent_fin.get("years", []), sales))
-    best = []
     for e in spun:
         stated, basis = _pct(e.get("turnover_pct_of_parent")), "share of turnover"
         if stated is None:
@@ -584,24 +583,43 @@ def size_view(entities: list[dict], parent_fin: dict, seg_tables: list[dict], pa
             if tot and ps:
                 seg_share, seg_fy = round(100 * tot / ps, 1), fy
                 break
-        share = stated if stated is not None else cap_share if cap_share is not None else seg_share
-        if share is not None:
-            best.append(share)
         rows.append({"entity": e["name"], "symbol": e.get("symbol", ""),
                      "stated_turnover": e.get("turnover", ""), "stated_pct": stated,
                      "stated_basis": basis if stated is not None else "",
                      "segment_pct": seg_share, "segment_fy": seg_fy,
                      "mcap_cr": round(cap) if cap else None, "mcap_pct": cap_share,
-                     "index_member": bool(members and e.get("symbol") in members), "share_used": share,
-                     "reading": _reading(share).split(" — ")[0]})
-    total = sum(best) if best else None
+                     "index_member": bool(members and e.get("symbol") in members)})
+    return size_reading({"rows": rows, "parent_mcap_cr": round(pcap) if pcap else None,
+                         "whole_mcap_cr": round(whole) if whole else None, "mcap_date": mdate})
+
+
+def size_reading(sz: dict) -> dict:
+    """The reading for forced selling, entity by entity, from the rows. The
+    share used is the MARKET's own when the entity trades (its value over
+    the whole — what an index or a mandate actually measures), else the
+    share the documents state (a turnover share, or the cost-of-acquisition
+    split, which rests on book net assets), else the segment revenue
+    share."""
+    rows = sz.get("rows") or []
+    best = []
+    for r in rows:
+        share, basis = None, ""
+        for key, label in (("mcap_pct", "by market value"), ("stated_pct", r.get("stated_basis") or "stated"),
+                           ("segment_pct", "by segment revenue")):
+            if r.get(key) is not None:
+                share, basis = r[key], label
+                break
+        r["share_used"], r["share_basis"] = share, basis
+        r["reading"] = _reading(share).split(" — ")[0]
+        if share is not None:
+            best.append(share)
     smallest = min(best) if best else None
     reading = _reading(smallest)
     sized = [r for r in rows if r["share_used"] is not None]
     if len(sized) > 1 and len({r["reading"] for r in sized}) > 1:
-        reading = "BY ENTITY — " + "; ".join(f"{r['entity']}: {r['reading'].lower()} ({r['share_used']}% of the whole)" for r in sized)
-    return {"rows": rows, "parent_mcap_cr": round(pcap) if pcap else None, "whole_mcap_cr": round(whole) if whole else None,
-            "mcap_date": mdate, "total_share": total, "smallest_share": smallest, "reading": reading}
+        reading = "BY ENTITY — " + "; ".join(
+            f"{r['entity']}: {r['reading'].lower()} ({r['share_used']}% of the whole, {r['share_basis']})" for r in sized)
+    return {**sz, "rows": rows, "total_share": sum(best) if best else None, "smallest_share": smallest, "reading": reading}
 
 
 MATCH_SKIP = set(FN.GENERIC_WORDS) | {"enterprises", "industries", "holdings", "global", "international", "technologies",

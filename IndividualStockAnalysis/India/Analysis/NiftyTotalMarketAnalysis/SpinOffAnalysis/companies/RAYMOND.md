@@ -19,7 +19,7 @@
 
 ### 2. Stages and dates
 
-> **Listing:** LISTED — Raymond Realty Limited (RAYMONDREL) since 2025-07-01; Raymond Lifestyle Limited (RAYMONDLSL) since 2024-09-05 (NSE equity list); record date 2025-05-14
+> **Listing:** LISTED — Raymond Lifestyle Limited (RAYMONDLSL) since 2024-09-05; Raymond Realty Limited (RAYMONDREL) since 2025-07-01 (NSE equity list); record date 2025-05-14
 
 | Date | Event | Source |
 |---|---|---|
@@ -52,14 +52,14 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: BY ENTITY — Raymond Realty Limited: possible (26.1% of the whole, by market value); Raymond Lifestyle Limited: likely (22.6% of the whole, by market value).**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Raymond Realty Limited | Turnover of Real Estate Business Undertaking as on 31 March… | 24.16% | — | 3,886 | 33.7% | no |
-| Raymond Lifestyle Limited | Lifestyle Business Revenue ₹6,177 Cr in FY25 and ₹6,888 Cr … | — | — | 3,369 | 30.6% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Raymond Realty Limited | Turnover of Real Estate Business Undertaking as on 31 March… | 24.16% (share of turnover) | 3,886 | 26.1% | — | no | possible |
+| Raymond Lifestyle Limited | Lifestyle Business Revenue ₹6,177 Cr in FY25 and ₹6,888 Cr … | — | 3,369 | 22.6% | — | yes | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,649 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹7,649 cr, whole ₹14,904 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"This strategic move comes as Raymond's Real Estate Business has achieved scale, reporting revenue of INR 1,593 Cr. (43% YoY growth) and EBITDA of INR 370 Cr. in FY24, positioning it well to chart its own growth path as a separate entity." (Press Release, July 4, 2024). The turnover table in the same board disclosure states: "Turnover of Real Estate Business Undertaking as on 31 March 2024 — 1,59,265 [INR in Lakhs]; Percentage to the total turnover of RL as on 31 March 2024 — 24.16%". Apportionment of cost of acquisition of equity shares (May 13, 2025): "Raymond Limited 60.92%" and "Raymond Realty Limited 39.08%".”
 

@@ -11685,41 +11685,6 @@
  },
  "TRIVENI::segments": {
   "stamps": {
-   "59afd35bb08752f7e8d56df15c919ab0": {
-    "segment_name": "Power transmission (Engineering Businesses) \u2014 Power Transmission Business (PTB), the undertaking being demerged into Triveni Power Transmission Limited (TPTL)",
-    "unit": "\u20b9 crore",
-    "measure_notes": "operating_profit = 'Segment Profit/(loss)', labelled PBIT (Segment Profit) in the MD&A; it is segment revenue less segment expenses, before unallocated expenses (net), finance cost, interest income, exceptional items and tax. Revenue shown is total segment revenue from operations (includes small inter-segment sales); external-customer revenue was FY2024 288.71, FY2025 369.20 (standalone) / 366.89 (consolidated), FY2026 338.90. Standalone and consolidated segment figures for Power transmission are identical for revenue and profit. FY2024 is also reported in \u20b9 lakhs in AR2024 (external 28871.00, total 29180.90, segment profit 10708.88 \u2014 p.146); converted-unit crore figures above are taken as printed in AR2025 p.145. Segment disclosures carry no tax or PAT by segment.",
-    "years": [
-     {
-      "fy": "FY2024",
-      "revenue": 291.81,
-      "operating_profit": 107.09,
-      "pat": null,
-      "source": "Annual Report 2025 \u2014 page 145 (comparative column); same figures in \u20b9 lakhs at Annual Report 2024 \u2014 page 146"
-     },
-     {
-      "fy": "FY2025",
-      "revenue": 369.89,
-      "operating_profit": 126.8,
-      "pat": null,
-      "source": "Annual Report 2025 \u2014 page 145 (MD&A table: Annual Report 2025 \u2014 page 89)"
-     },
-     {
-      "fy": "FY2026",
-      "revenue": 339.94,
-      "operating_profit": 120.43,
-      "pat": null,
-      "source": "Annual Report 2026 \u2014 page 162 (consolidated identical: Annual Report 2026 \u2014 page 215)"
-     }
-    ],
-    "latest_quarter": {
-     "period": "Q3 FY26 (quarter ended December 31, 2025)",
-     "revenue": 79.86,
-     "operating_profit": 28.69,
-     "source": "Presentation Feb 2026 \u2014 page 15 (consolidated identical: Presentation Feb 2026 \u2014 page 18)"
-    },
-    "not_found": "No segment-level PAT, tax, EBITDA or depreciation-adjusted profit. Q1 FY27 segment tables (Presentation Aug 2026, pp.13,16) omit power transmission \u2014 shown only as discontinued operations."
-   },
    "6f428d1926bda7e512a4ac1fef552b44": {
     "segment_name": "Power transmission (Engineering Businesses) \u2014 Power Transmission Business (PTB); product line reported as 'Gears/Gear Boxes (including spares)'",
     "unit": "\u20b9 crore",
@@ -12303,6 +12268,305 @@
      }
     ],
     "not_found": "No numbers on these pages for Triveni Turbine Limited, Triveni Power Transmission GmbH / TRIVENIPT, or the steam turbine business; TPTL itself has no standalone financials here (only TEIL's \u20b96.30 crore investment in it, AR2025 page 90)."
+   },
+   "8d19afa64d2e570dcab4895478729deb": {
+    "businesses": [
+     {
+      "side": "separated",
+      "entity": "Triveni Power Transmission Limited (TPTL) \u2014 the Resulting Company receiving the PTB Undertaking",
+      "segment_name": "Power transmission / Power Transmission Business (PTB)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Profit line is 'Segment Profit/(loss)' = PBIT (segment revenue less segment expenses), before unallocated expenses, finance cost and tax; no segment-level PAT disclosed. Revenue shown is total revenue from operations including inter-segment sales (external-customer revenue: FY2024 288.71, FY2025 369.20, FY2026 338.90). FY2024 taken in \u20b9 crore from the AR2025 comparative column (AR2024 carried the same data in \u20b9 lakhs: revenue 29180.90, profit 10708.88, assets 22641.80, liabilities 7305.85, capex 1108.68, depreciation 1093.94). FY2026 assets/liabilities are the consolidated segment figures; standalone FY2026 segment assets/liabilities for PT are not shown (PTB reported as discontinued operations in the Q1 FY27 statement, assets 572.27 / liabilities 127.25 as at 31-Mar-2026).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 291.81,
+        "operating_profit": 107.09,
+        "pat": null,
+        "segment_assets": 226.42,
+        "segment_liabilities": 73.06,
+        "capex": 11.09,
+        "depreciation": 10.94,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 369.89,
+        "operating_profit": 126.8,
+        "pat": null,
+        "segment_assets": 372.66,
+        "segment_liabilities": 103.93,
+        "capex": 102.26,
+        "depreciation": 11.63,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 339.94,
+        "operating_profit": 120.43,
+        "pat": null,
+        "segment_assets": 542.16,
+        "segment_liabilities": 125.14,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 162 (revenue, profit); Annual Report 2026 \u2014 page 215 (assets, liabilities)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q3 FY26 (quarter ended 31-Dec-2025)",
+       "revenue": 79.86,
+       "operating_profit": 28.69,
+       "source": "Presentation Feb 2026 \u2014 page 15"
+      },
+      "not_found": "No segment PAT any year; FY2026 capex and depreciation absent; Q1 FY27 PTB revenue/result not shown (reported only as discontinued operations)."
+     },
+     {
+      "side": "separated",
+      "entity": "Triveni Power Transmission Limited (TPTL) \u2014 product line of the PTB Undertaking",
+      "segment_name": "Gears/Gear Boxes (including spares)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Revenue-only product disclosure within 'break-up of revenue from major products and services' (sale of finished goods, recognised at a point in time, external revenue). No profit, asset, liability, capex or depreciation data at product level. FY2024 in \u20b9 crore from the AR2025 comparative column (AR2024 showed 28328.06 \u20b9 lakhs for FY2024 and 21928.52 \u20b9 lakhs for FY2023).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 283.28,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 146"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 363.08,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 146"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Profit, PAT, assets, liabilities, capex, depreciation and any quarterly split; FY2026 revenue not on the pages."
+     },
+     {
+      "side": "remaining",
+      "entity": "Triveni Engineering & Industries Ltd (parent)",
+      "segment_name": "Sugar (Sugar & Allied Businesses)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Standalone segment reporting. Profit line is 'Segment Profit/(loss)' = PBIT, before unallocated expenses/finance cost/tax; no segment PAT. Revenue is total revenue from operations including inter-segment sales (external: FY2024 3232.87, FY2025 3270.08, FY2026 3915.06). FY2024 figures taken in \u20b9 crore from the AR2025 comparative column.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 3857.87,
+        "operating_profit": 305.6,
+        "pat": null,
+        "segment_assets": 3131.15,
+        "segment_liabilities": 302.84,
+        "capex": 100.92,
+        "depreciation": 53.83,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 3802.9,
+        "operating_profit": 265.04,
+        "pat": null,
+        "segment_assets": 3270.19,
+        "segment_liabilities": 324.06,
+        "capex": 99.97,
+        "depreciation": 57.73,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 4476.6,
+        "operating_profit": 271.96,
+        "pat": null,
+        "segment_assets": 3740.46,
+        "segment_liabilities": 409.8,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 162 (revenue, profit); Presentation Aug 2026 \u2014 page 13 (assets, liabilities as at 31-Mar-2026)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q1 FY27 (quarter ended 30-Jun-2026)",
+       "revenue": 1234.68,
+       "operating_profit": 13.78,
+       "source": "Presentation Aug 2026 \u2014 page 13"
+      },
+      "not_found": "Segment PAT all years; FY2026 capex and depreciation."
+     },
+     {
+      "side": "remaining",
+      "entity": "Triveni Engineering & Industries Ltd (parent)",
+      "segment_name": "Distillery (Sugar & Allied Businesses)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Standalone segment reporting. Profit line is 'Segment Profit/(loss)' = PBIT; no segment PAT. Revenue is total revenue from operations (no inter-segment sales in this segment; equals external revenue, gross of excise duty on alcoholic beverages). FY2024 in \u20b9 crore from the AR2025 comparative column.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 2204.9,
+        "operating_profit": 180.86,
+        "pat": null,
+        "segment_assets": 1014.73,
+        "segment_liabilities": 81.45,
+        "capex": 231.71,
+        "depreciation": 29.08,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 2585.96,
+        "operating_profit": 46.14,
+        "pat": null,
+        "segment_assets": 1186.29,
+        "segment_liabilities": 97.63,
+        "capex": 83.53,
+        "depreciation": 40.37,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 2882.79,
+        "operating_profit": 119.34,
+        "pat": null,
+        "segment_assets": 1517.26,
+        "segment_liabilities": 96.47,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 162 (revenue, profit); Presentation Aug 2026 \u2014 page 13 (assets, liabilities as at 31-Mar-2026)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q1 FY27 (quarter ended 30-Jun-2026)",
+       "revenue": 742.78,
+       "operating_profit": 30.55,
+       "source": "Presentation Aug 2026 \u2014 page 13"
+      },
+      "not_found": "Segment PAT all years; FY2026 capex and depreciation."
+     },
+     {
+      "side": "remaining",
+      "entity": "Triveni Engineering & Industries Ltd (parent)",
+      "segment_name": "Water / Water & Waste Water Treatment (Engineering Businesses)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Standalone segment reporting. Profit line is 'Segment Profit/(loss)' = PBIT; no segment PAT. Revenue is total revenue from operations, all external (no inter-segment sales). FY2024 in \u20b9 crore from the AR2025 comparative column.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 244.07,
+        "operating_profit": 31.52,
+        "pat": null,
+        "segment_assets": 372.6,
+        "segment_liabilities": 152.77,
+        "capex": 2.28,
+        "depreciation": 2.26,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 233.38,
+        "operating_profit": 34.28,
+        "pat": null,
+        "segment_assets": 447.13,
+        "segment_liabilities": 168.47,
+        "capex": 1.21,
+        "depreciation": 2.17,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 268.14,
+        "operating_profit": 23.29,
+        "pat": null,
+        "segment_assets": 409.93,
+        "segment_liabilities": 174.21,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 162 (revenue, profit); Presentation Aug 2026 \u2014 page 13 (assets, liabilities as at 31-Mar-2026)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q1 FY27 (quarter ended 30-Jun-2026)",
+       "revenue": 42.51,
+       "operating_profit": 1.7,
+       "source": "Presentation Aug 2026 \u2014 page 13"
+      },
+      "not_found": "Segment PAT all years; FY2026 capex and depreciation."
+     },
+     {
+      "side": "remaining",
+      "entity": "Triveni Engineering & Industries Ltd (parent)",
+      "segment_name": "Other Operations (branded/private-label sugar and fuel station retailing)",
+      "unit": "\u20b9 crore",
+      "measure_notes": "Standalone segment reporting. Profit line is 'Segment Profit/(loss)' = PBIT; no segment PAT. Revenue is total revenue from operations including inter-segment sales (external: FY2024 178.59, FY2025 196.78, FY2026 215.59). FY2024 in \u20b9 crore from the AR2025 comparative column.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 182.11,
+        "operating_profit": -0.67,
+        "pat": null,
+        "segment_assets": 11.86,
+        "segment_liabilities": 2.39,
+        "capex": null,
+        "depreciation": 0.44,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 199.8,
+        "operating_profit": 0.0,
+        "pat": null,
+        "segment_assets": 9.47,
+        "segment_liabilities": 2.28,
+        "capex": 0.04,
+        "depreciation": 0.44,
+        "source": "Annual Report 2025 \u2014 page 145"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 219.0,
+        "operating_profit": 0.07,
+        "pat": null,
+        "segment_assets": 10.53,
+        "segment_liabilities": 2.13,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 162 (revenue, profit); Presentation Aug 2026 \u2014 page 13 (assets, liabilities as at 31-Mar-2026)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q1 FY27 (quarter ended 30-Jun-2026)",
+       "revenue": 55.58,
+       "operating_profit": 0.02,
+       "source": "Presentation Aug 2026 \u2014 page 13"
+      },
+      "not_found": "Segment PAT all years; FY2024 capex shown as nil/dash; FY2026 capex and depreciation."
+     }
+    ],
+    "not_found": "Triveni Power Transmission GmbH / TRIVENIPT: pages carry no financials (only a \u20b96.30 crore investment in newly formed Triveni Power Transmission Limited, AR2025 p90). No standalone TPTL entity accounts on these pages."
    }
   }
  },
@@ -25319,6 +25583,234 @@
      }
     ],
     "not_found": "No own numbers for: Lloyds Realty Limited (shell resulting company, pre-demerger); Lloyds Realty Developers Limited standalone; Indrajit Properties Private Limited; Real Estate Business Undertaking as defined in the Scheme. Pages carry only the consolidated Real Estate segment."
+   },
+   "165593d84b59aa78012ee96897b0e860": {
+    "businesses": [
+     {
+      "side": "separated",
+      "entity": "Lloyds Realty Limited (Resulting Company; the Real Estate Business Undertaking demerged after merging Lloyds Realty Developers Limited and Indrajit Properties Private Limited into LEL)",
+      "segment_name": "Real Estate (reportable segment) \u2014 \"Real estate\" / \"Real Estate\" in the consolidated segment note; described as \"Real Estate \u2014 Lloyds Realty Developers Limited (LRDL)\" in the FY26 Business Segment Review",
+      "unit": "\u20b9 lakh",
+      "measure_notes": "Consolidated IND AS-108 segment note. Revenue is external sales (no inter-division/inter-company transfer shown for Real Estate in any year). operating_profit = segment 'Operating Net Profit' (segment result before finance cost and tax). Profit before tax after finance cost: FY2024 (130.98) loss, FY2025 1,330.14, FY2026 83 (\u20b90.83 Cr, incl. exceptional item (4.09) Cr). Assets/liabilities are segment assets and segment liabilities. UNIT NOTE: FY2024 and FY2025 are printed in \u20b9 lakh and are given exactly as printed; the FY2026 consolidated segment table is printed in \u20b9 crore and has been converted \u00d7100 (exact) to keep one unit. As printed in \u20b9 crore for FY2026: external revenue 66.91, operating net profit 5.70, PBT 0.83, segment assets 1,293.06, segment liabilities 854.12.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 1748.32,
+        "operating_profit": -168.77,
+        "pat": null,
+        "segment_assets": 54837.46,
+        "segment_liabilities": 50708.24,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 169"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 8387.52,
+        "operating_profit": 1535.44,
+        "pat": null,
+        "segment_assets": 71960.49,
+        "segment_liabilities": 27809.57,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 230"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 6691,
+        "operating_profit": 570,
+        "pat": null,
+        "segment_assets": 129306,
+        "segment_liabilities": 85412,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 300 (printed in \u20b9 crore: 66.91 / 5.70 / 1,293.06 / 854.12)"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No segment PAT, capex or depreciation; no quarterly real-estate revenue/profit (Q1/Q2 FY27 decks give only pipeline, sq ft and demerger status)."
+     },
+     {
+      "side": "remaining",
+      "entity": "Lloyds Enterprises Limited (parent)",
+      "segment_name": "Steel",
+      "unit": "\u20b9 lakh",
+      "measure_notes": "Consolidated IND AS-108 segment note. revenue = external segment revenue (FY2025 also shows inter-company transfer 960.83 lakh, total 61,715.52 lakh; FY2026 nil inter-company). operating_profit = segment 'Operating Net Profit' before finance cost; PBT after finance cost: FY2025 1,831.33 lakh, FY2026 \u20b9264.79 Cr. UNIT NOTE: FY2025 exactly as printed in \u20b9 lakh; FY2026 printed in \u20b9 crore and converted \u00d7100 (as printed: external 765.82, operating net profit 297.93, assets 3,518.04, liabilities 207.56).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 169 (FY2024 reported Steel combined with Engineering, see separate entry)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 62676.35,
+        "operating_profit": 3458.43,
+        "pat": null,
+        "segment_assets": 256968.69,
+        "segment_liabilities": 47914.08,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 230"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 76582,
+        "operating_profit": 29793,
+        "pat": null,
+        "segment_assets": 351804,
+        "segment_liabilities": 20756,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 300 (printed in \u20b9 crore)"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No segment PAT, capex, depreciation; no FY2024 stand-alone Steel split; no quarterly segment revenue/profit for Steel."
+     },
+     {
+      "side": "remaining",
+      "entity": "Lloyds Enterprises Limited (parent)",
+      "segment_name": "Engineering",
+      "unit": "\u20b9 lakh",
+      "measure_notes": "Consolidated IND AS-108 segment note. revenue = external segment revenue (no inter-company transfer shown). operating_profit = segment 'Operating Net Profit' before finance cost; PBT (after finance cost and unallocable corporate income) FY2025 13,002.34 lakh, FY2026 \u20b9195.76 Cr. FY2026 segment assets 2,151.42 Cr before common-asset adjustment (total 2,128.36 Cr). UNIT NOTE: FY2025 as printed in \u20b9 lakh; FY2026 printed in \u20b9 crore, converted \u00d7100 (as printed: 1,267.27 / 177.69 / 2,151.42 / 698.43). The latest_quarter figures are entity-level for Lloyds Engineering Works Limited (LEWL, ~33% held), not the segment: Q1 FY27 consolidated total income \u20b9540.2 Cr with EBITDA \u20b979.2 Cr (14.7% margin), converted to lakh here; H1 FY27 pro-forma platform income \u20b92,550 Cr, EBITDA \u20b9359 Cr, PAT \u20b9212 Cr (Presentation Nov 2026 \u2014 page 10).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 169 (FY2024 reported Engineering combined with Steel, see separate entry)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 77795.97,
+        "operating_profit": 13567.49,
+        "pat": null,
+        "segment_assets": 84092.84,
+        "segment_liabilities": 24249.97,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 230"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 126727,
+        "operating_profit": 17769,
+        "pat": null,
+        "segment_assets": 215142,
+        "segment_liabilities": 69843,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 300 (printed in \u20b9 crore)"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q1 FY27 (LEWL consolidated, entity-level, not segment)",
+       "revenue": 54020,
+       "operating_profit": 7920,
+       "source": "Presentation Aug 2026 \u2014 page 11 (printed \u20b9540.2 Cr income; \u20b979.2 Cr EBITDA)"
+      },
+      "not_found": "No segment PAT, capex, depreciation; no FY2024 stand-alone Engineering split; no segment-level (as opposed to LEWL entity) quarterly figures."
+     },
+     {
+      "side": "remaining",
+      "entity": "Lloyds Enterprises Limited (parent)",
+      "segment_name": "Electrical",
+      "unit": "\u20b9 lakh",
+      "measure_notes": "Consolidated IND AS-108 segment note. revenue here = external segment revenue; inter-company transfer FY2025 118.94 lakh (total 9,194.03 lakh) and FY2026 \u20b9103.55 Cr (total \u20b983.71 Cr). operating_profit = segment 'Operating Net Profit' before finance cost; PBT FY2025 1,111.53 lakh, FY2026 \u20b97.14 Cr. UNIT NOTE: FY2025 as printed in \u20b9 lakh; FY2026 printed in \u20b9 crore, converted \u00d7100 (as printed: external 187.26, operating net profit 13.53, assets 240.72, liabilities 158.55).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 169 (no Electrical segment reported in FY2024)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 9312.97,
+        "operating_profit": 1147.35,
+        "pat": null,
+        "segment_assets": 16007.95,
+        "segment_liabilities": 8315.82,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 230"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 18726,
+        "operating_profit": 1353,
+        "pat": null,
+        "segment_assets": 24072,
+        "segment_liabilities": 15855,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 300 (printed in \u20b9 crore)"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "No segment PAT, capex, depreciation; no FY2024 Electrical segment; no quarterly segment figures (only Techno Industries H1 FY27 income \u20b990 Cr at entity level)."
+     },
+     {
+      "side": "remaining",
+      "entity": "Lloyds Enterprises Limited (parent)",
+      "segment_name": "Steel and Engineering Products",
+      "unit": "\u20b9 lakh",
+      "measure_notes": "FY2024 consolidated segment note label, before the segment was split into Steel / Engineering / Electrical from FY2025. revenue = external sales (no inter-division transfer). operating_profit = segment 'Operating Net Profit'; profit before tax 9,674.09 lakh. FY2023 comparatives on the same page are blank (nil shown).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 94095.42,
+        "operating_profit": 9082.34,
+        "pat": null,
+        "segment_assets": 184182.54,
+        "segment_liabilities": 77129.41,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 169"
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Segment PAT, capex, depreciation; FY2025/FY2026 figures (segment was re-split); FY2023 comparatives shown as nil; no quarterly figures."
+     }
+    ],
+    "not_found": "Lloyds Realty Developers Limited and Indrajit Properties Private Limited: no entity-level revenue, profit, asset or liability figures on these pages \u2014 only the group Real Estate segment and qualitative pipeline/delivery data."
    }
   }
  },

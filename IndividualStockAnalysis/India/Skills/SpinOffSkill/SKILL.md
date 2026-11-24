@@ -207,14 +207,21 @@ largest gains came not in the first year but in the second.
    speaker turns. Each company is then written in nine parts:
    (1) company and category; (2) stages and dates — every stage with its
    filing, the documents' stated dates, NSE's record date, each entity's
-   listing; (3) size of the separated business beside the parent — stated
-   turnover share, segment revenue share, market-cap share — and the
-   reading for institutional selling (under 10% very likely, under 25%
-   likely, under 50% possible); (4) insider ownership — swap ratio per
+   listing; (3) size of each separated entity beside the WHOLE (the parent
+   plus every separated entity) — market-cap share, the documents' stated
+   share (turnover, or the cost-of-acquisition split read by entity name),
+   segment revenue share — and the reading for institutional selling,
+   entity by entity, from the first of those that exists (under 10% very
+   likely, under 25% likely, under 50% possible); for a subsidiary IPO no
+   shares are distributed, so the section sizes the listed piece beside
+   the parent for the stub instead; (4) insider ownership — swap ratio per
    entity, promoters' holding, management incentives; (5) why, point by
    point; (6) the calls VERBATIM — every question about the separation
    with every answer to it, uncut, oldest first, plus the complete
-   sentences about it from prepared remarks; (7) the parent's statements;
+   sentences about it from prepared remarks; an exchange counts when it
+   uses a separation term or names a separated entity ('Vedanta
+   Aluminium', 'Digitide') — never on an ordinary word of the business
+   ('aluminium', 'power'), which would pull in every operating question; (7) the parent's statements;
    (8) each separated business's statements — its own reported numbers
    once listed and on file, else one segment table per business, with
    segment assets, liabilities, capital employed and capex when the pages

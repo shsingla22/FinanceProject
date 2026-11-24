@@ -59,11 +59,11 @@
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| OneSource Specialty Pharma Limited | not stated | — | — | 18,463 | 66.4% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| OneSource Specialty Pharma Limited | not stated | — | 18,463 | 66.4% | — | yes | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,352 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,352 cr, whole ₹27,815 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “Delivering Strides' shareholders an embedded value of INR 663 per share for Strides' holding in OneSource, representing a ~82% premium over the previous embedded value of INR 364 per share as per the Scheme of Arrangement announced earlier in September'23. | "The transaction will unlock ~INR 61,000 mn (~USD 725 mn) of value for Strides' shareholders." | For Pivot Path: "Turnover ... Rs. 1,447 million (including revenues for services rendered to Strides) (Contributes 3% to Strides Turnover)" and "Networth Rs. 100 million (Contributes ~0.3% to Strides Networth) ... Rs. 360 million (Contributes 1% to Strides Networth)"”
 

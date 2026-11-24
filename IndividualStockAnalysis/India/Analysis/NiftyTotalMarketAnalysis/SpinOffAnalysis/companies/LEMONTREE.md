@@ -46,11 +46,11 @@
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Fleur Hotels Limited | Turnover (Standalone) as on March 31, 2025: Rs. 46,423.84 L… | 59.9% | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Fleur Hotels Limited | Turnover (Standalone) as on March 31, 2025: Rs. 46,423.84 L… | 59.9% (share of turnover) | — | — | — | not listed | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,662 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,662 cr, whole ₹9,662 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “Turnover of demerged division for financials year ended March 31, 2025 is Rs. 23,037.34 Lakhs — Percentage to the total turnover - 59.90%. Also: "Post the Proposed Transaction Fleur will become one of the largest owners of hospitality assets in India. Its owned portfolio will expand significantly, increasing from 3,993 keys and 24 operating hotels to 5,813 keys across 41 hotels." and "In summary, the following are moving from Lemon Tree to Fleur Hotels: 1,563 operating rooms (in 15 hotels); Investment in one under construction hotel in Aurika, Shillong (165 rooms); One under-construction hotel Aurika, Shimla (91 rooms); Exclusivity of all future Development / Ownership / Leasing on hotel assets and transfer of Development Capability / Team"”
 

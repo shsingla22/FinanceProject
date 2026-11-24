@@ -54,11 +54,11 @@
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| ITC Hotels Limited | Pro forma financials of Hotels Business (excluding ITC Gran… | — | 3.0% (FY2025) | 36,161 | 9.2% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| ITC Hotels Limited | Pro forma financials of Hotels Business (excluding ITC Gran… | 13.51% (cost-of-acquisition split) | 36,161 | 9.2% | 3.0% (FY2025) | yes | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹357,120 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹357,120 cr, whole ₹393,281 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"For example, if 1,000 Ordinary Shares of ITC were purchased at ` 400/- per share by a shareholder, the total cost of acquisition would amount to ` 4,00,000/- before the demerger. Based on the Share Entitlement Ratio, 100 shares of ITCHL would be allotted to the said shareholder. The total cost of acquisition of ` 4,00,000/- would be apportioned in the aforesaid ratio - ` 3,45,960/- (86.49% of ` 4,00,000/-) being the total cost of acquisition of 1,000 ITC shares and ` 54,040/- (13.51% of ` 4,00,000/-) being the total cost of acquisition of 100 shares of ITCHL." (apportionment table: ITC Limited 86.49%, ITC Hotels Limited 13.51% of total cost of acquisition of Ordinary Shares of ITC Limited)”
 

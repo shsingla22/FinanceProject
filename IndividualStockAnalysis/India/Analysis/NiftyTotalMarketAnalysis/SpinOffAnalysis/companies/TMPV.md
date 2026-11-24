@@ -57,11 +57,11 @@
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Tata Motors Limited | "total income relating to Commercial Vehicles Business was … | 99.0% | 20.5% (FY2025) | 159,667 | 60.1% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Tata Motors Limited | "total income relating to Commercial Vehicles Business was … | 99.0% (share of turnover) | 159,667 | 60.1% | 20.5% (FY2025) | yes | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹105,853 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹105,853 cr, whole ₹265,521 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “As per audited standalone financial statements as at March 31, 2024, Tata Motors Limited's ("the Company"/ "TML") total income relating to Commercial Vehicles Business was ₹ 73,116.64 crore, representing ~99% of the total income for FY 2023-24.”
 

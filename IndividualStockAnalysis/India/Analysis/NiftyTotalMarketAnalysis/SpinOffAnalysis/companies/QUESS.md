@@ -13,8 +13,6 @@
 | **Digitide Solutions Limited** | 2025 three-way demerger (Composite Scheme of Arrangement be… | Demerged Undertaking 1 / Transferred Business 1: BPM Services, Insurtech and HRO — Conneqt, Allsec, Brainhunt… | listed 2025-06-11 as DIGITIDE (NSE) | Gurmeet Chahal, CEO; Suraj Prasad, CFO |
 | **Bluspring Enterprises Limited** | 2025 three-way demerger (Composite Scheme of Arrangement be… | Demerged Undertaking 2 / Transferred Business 2: infra services — Facility Management, Food Services, Securit… | listed 2025-06-11 as BLUSPRING (NSE) | Kamal Pal Hoda, CEO (elevated from Group CFO of Q… |
 
-**The other parties to the scheme(s)** — not separated entities: Thomas Cook (India) Limited (THOMASCOOK) — the company this one was spun out of
-
 **What is being separated, as the documents put it:** Digitide Solutions (technology/BPM) and Bluspring Enterprises (industrial/facility services) separated from Quess, leaving a pure-play workforce staffing company — class `value_unlocking`.
 
 ### 2. Stages and dates
@@ -53,14 +51,14 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: BY ENTITY — Digitide Solutions Limited: likely (11.0% of the whole, by market value); Bluspring Enterprises Limited: possible (28.7% of the whole, by market value).**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Digitide Solutions Limited | Global Technology Solutions / Global Technology Services pl… | — | 13.6% (FY2024) | 934 | 15.4% | no |
-| Bluspring Enterprises Limited | Operating Asset Management platform revenue FY24 ₹2,801 cr … | — | 13.6% (FY2024) | 2,433 | 32.2% | no |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Digitide Solutions Limited | Global Technology Solutions / Global Technology Services pl… | 26.47% (cost-of-acquisition split) | 934 | 11.0% | 48.2% (FY2024) | no | likely |
+| Bluspring Enterprises Limited | Operating Asset Management platform revenue FY24 ₹2,801 cr … | 31.82% (cost-of-acquisition split) | 2,433 | 28.7% | 50.8% (FY2024) | no | possible |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,118 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹5,118 cr, whole ₹8,485 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"For the purpose of determining the cost of acquisition of equity shares of the Company, Digitide and Bluspring (post demerger), you are advised to apportion your cost of acquisition of equity shares in the Company in the following manner: 1. Quess Corp Limited 41.71% 2. Digitide Solutions Limited 26.47% 3. Bluspring Enterprises Limited 31.82%" (apportionment of % of Cost of Acquisition of Equity Shares of the Company, filing dated 14 April 2025). Segment revenues FY24, as reported: Workforce Management ₹13,442 cr, Global Technology Services ₹2,340 cr, Operating Asset Management ₹2,801 cr, Product Led Business ₹517 cr.”
 

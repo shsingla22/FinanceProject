@@ -869,7 +869,7 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
     full = heavy and "parent_financials" in s           # a list-only run has no numbers
     # ---- 3
     A += ["### 3. Size of the separated business beside the parent — is institutional selling likely?", ""]
-    sz = s.get("size") or {}
+    sz = DL.size_reading(s.get("size") or {})
     ipo = s["kind"] == "subsidiary_listing"        # an IPO hands no shares to the parent's holders
     if sz.get("rows") and ipo:
         pc = sz.get("parent_mcap_cr")
@@ -906,7 +906,7 @@ def render_company(s: dict, heavy: bool, verbatim: bool = False) -> list[str]:
               + (f" (parent ₹{sz['parent_mcap_cr']:,} cr, whole ₹{sz.get('whole_mcap_cr') or sz['parent_mcap_cr']:,} cr, "
                  f"NSE bhavcopy of {sz['mcap_date']})" if sz.get("parent_mcap_cr") else "")
               + "; the segment share is the business's revenue over the parent's reported sales of that year. Both are computed "
-                "here. The reading uses the stated share, else the market-cap share, else the segment share.*", ""]
+                "here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*", ""]
     elif full:
         A += ["The documents on file give no size for the separated piece, and it has no market value yet.", ""]
     if d.get("size_statement") and not re.match(SO.UNNAMED_RX, str(d["size_statement"])):
@@ -1398,6 +1398,7 @@ def render_report(record: dict, idx: dict | None = None) -> str:
           "| Company | Subsidiary | Relation · parent's stake | IPO stage | Listing | Score | Verdict | Evidence |",
           "|---|---|---|---|---|---:|---|---|"]
     also = {s["symbol"] for s in sits if s.get("also_partial")}
+    ents_of = {s["symbol"]: s.get("entities") for s in sits if s.get("also_partial")}
     for s in partial:
         f = s["facts"]
         res = s.get("listing_resolution") or {}
@@ -1406,7 +1407,11 @@ def render_report(record: dict, idx: dict | None = None) -> str:
         when = (f"{s['listed_on']} ({'NSE' if f.get('subsidiary_listing_source') == 'NSE equity list' else 'filings'})"
                 if s.get("listed_on") else ("listed; date not stated" if s["stage"] == "listed"
                                              else _short(f.get("ipo_timeline") or "date not fixed", 110)))
-        more = f"; also {', '.join(str(x) for x in f['other_subsidiaries'] if x)}"[:70] if f.get("other_subsidiaries") else ""
+        # further subsidiaries the listing answer named — not a company the deal sheet shows is the demerger's own
+        ents = s.get("entities") or ents_of.get(s["symbol"]) or []
+        not_ipo = {SO._norm_name(e["name"]) for e in ents if e.get("role") != "listed_subsidiary"}
+        extra = [str(x) for x in (f.get("other_subsidiaries") or []) if x and SO._norm_name(SO.clean_entity(str(x))) not in not_ipo]
+        more = f"; also {', '.join(extra)}"[:70] if extra else ""
         subs = [e for e in DL.separated(s.get("entities")) if e.get("role") == "listed_subsidiary"]
         if len(subs) > 1:                 # several subsidiaries: each with where it stands (Coal India's four)
             main = SO._norm_name(f.get("subsidiary") or "")

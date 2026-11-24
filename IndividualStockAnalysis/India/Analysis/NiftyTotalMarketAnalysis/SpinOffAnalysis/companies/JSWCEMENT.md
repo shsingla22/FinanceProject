@@ -12,8 +12,6 @@
 |---|---|---|---|---|
 | **JSW One Platforms Limited** | 2026 proposed initial public offering of JSW One Platforms … | "India's leading tech-led, full-stack B2B e-commerce platform, serving manufacturing and construction MSMEs w… | to be listed | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Shiva Cement Limited (SHIVACEM) — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** Nothing separated — Shiva Cement, the listed clinker subsidiary, is amalgamated into parent JSW Cement — class `value_unlocking`.
 
 ### 2. Stages and dates
@@ -45,13 +43,13 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: not determinable — the documents on file give no size for the separated piece.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| JSW One Platforms Limited | Per JSW Cement's disclosure, the turnover / revenue / incom… | — | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| JSW One Platforms Limited | Per JSW Cement's disclosure, the turnover / revenue / income contribu… | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹17,052 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹17,052 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “2026 amalgamation of Shiva Cement — "The paid-up share capital, net worth and turnover / revenue of the companies involved in the Scheme are as follows: INR in Crores — Company / Paid-up Equity Share Capital / Turnover (FY 2025-26) / Net Worth (as on March 31, 2026): Transferee Company (Standalone) 1,363.36, 5,995.28, 7,029.47; Transferor Company (Standalone) 159.00, 435.17, (30.08)"; and "JCL holds 66.23% of the paid-up equity share capital of SCL." 2026 JSW One Platforms IPO — "amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year; Nil". 2025 Algebra Endeavour sale — "The division / undertaking does not contribute to the turnover / net worth or income of the Company".”
 
@@ -78,7 +76,7 @@
 - **Insider actions around the separation:** 2026 JSW One Platforms IPO — JSW Cement Limited's Board "considered and approved the participation of the Company in the proposed initial public offering ("IPO") of JSW One Platforms Limited ("JOPL") as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 123.00 Crores ... held by the Company"; JSW Steel Limited's Board approved the same for shares "aggregating up to Rs. 811 Crores ... held by the Company"; both "subject to applicable law, market conditions, receipt of necessary approvals/ regulatory clearances and other considerations." 2026 amalgamation — "Further, the Equity Shares held by the Transferee Company in the Transferor Company shall stand cancelled and extinguished and no Equity Shares of the Transferee Company shall be allotted in lieu or in exchange of the same", and on the reserve reorganizations "There shall be no consideration involved ... Thus, there will be no benefit to any promoter/ promoter group/ group companies". 2025 Algebra Endeavour sale — "None of the buyers belong to the promoter / promoter group companies." No promoter or management buying, selling or pledging of JSW Cement shares is stated.
 - **Insiders, per the checklist read:** JCL holds 66.23% of SCL equity and all its OCCRPS; JSW Cement promoter group goes 72.02% to 71.39% post-merger; Shiva promoter group held 66.50% · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 These texts announce no separation: the only board-approved reorganisation is the opposite — a consolidation. On 29 September 2026 the boards of JSW Cement Limited (JCL) and its 66.23%-owned listed subsidiary Shiva Cement Limited (SCL) approved a Scheme of Arrangement under Sections 230-232 read with Sections 52 and 66, amalgamating SCL into JCL with appointed date 1 April 2026, no cash consideration, and a swap of 5 JCL shares of ₹10 for every 41 SCL shares of ₹2 (JCL's own SCL equity cancelled; the ₹100 crore of 1% OCCRPS it holds also cancelled). The problems management says it solves are: dependence on third-party clinker — SCL's 1.32 mtpa Sundargarh (Odisha) clinker plant becomes backward integration, 'avoiding third-party purchases and associated mark-ups'; split funding — a single entity can raise funds on 'more favorable terms' and inter-company guarantees disappear; two listed entities' duplicated administration, record-keeping, consolidation effort and legal/regulatory compliance; a broken balance sheet at SCL (FY26 turnover ₹435.17 crore, net worth negative ₹30.08 crore versus JCL's ₹5,995.28 crore and ₹7,029.47 crore), whose ₹133.92 crore accumulated losses are written off against its securities premium, while JCL's amalgamation adjustment deficit is set against its own premium account (left at ₹4,335.67 crore) — described as 'right sizing' the financial statements; and SCL's illiquid minority float, whose 33.50% public holders move into a larger, institutionally-held stock. Structurally it is tiny and non-dilutive: shares rise from 1,36,33,64,936 to 1,37,55,13,537, promoters from 72.02% to 71.39%, public from 27.03% to 27.67%. No investor, lender or JV partner is said to have asked for the Shiva merger; valuation was by PwC Business Consulting and BDO Valuation, with fairness opinions from SBI Capital Markets (JCL) and DAM Capital (SCL), JM Financial as exclusive financial advisor and Price Waterhouse & Co as tax adviser; closing is guided at 12-14 months subject to stock exchanges, SEBI, NCLT Mumbai and Odisha Industrial Infrastructure Development Corporation. The genuine separations in these texts are different and smaller: the ₹191.63 crore cash sale of Algebra Endeavour / Vadraj Energy Gujarat Ltd (a Gujarat power plant) to Nuvoco Vistas (SPA 17 November 2025), and JCL selling up to ₹123 crore of JSW One Platforms shares as Promoter Selling Shareholder in that company's IPO (board 13 August 2026, alongside JSW Steel's up to ₹811 crore).
 

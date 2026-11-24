@@ -22,7 +22,7 @@
 
 - **Insiders, per the checklist read:** Greaves Cotton holds 62.48% of GEML, unchanged after the Rs 530 crore rights issue (GCL subscribed Rs 331.12 crore; ALJ Green Mobility Rs 198.87 crore). Post-IPO intent: 'below 51% but... significant large shareholders' · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…did not avail the one-time extension of SEBI observations , considering the proposed rights issue and related regulatory restrictions. Consequently , I PO-related expenses of Rs 1. 72 crore have been recognized in the Statemen t of Profit and…”
 

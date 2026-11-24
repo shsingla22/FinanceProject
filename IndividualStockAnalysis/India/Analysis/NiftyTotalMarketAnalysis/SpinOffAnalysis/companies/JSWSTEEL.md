@@ -12,8 +12,6 @@
 |---|---|---|---|---|
 | **JSW One Platforms Limited** | 2026 proposed initial public offering of JSW One Platforms … | JSW online platform for steel and building materials; JSW Steel holds about 61% equity stake on a fully dilut… | to be listed | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Piombino Steel Limited — merged in — no shares for the parent's holders; Amba River Coke Limited — merged in — no shares for the parent's holders; Monnet Cement Limited — merged in — no shares for the parent's holders; JSW Retail and Distribution Limited — merged in — no shares for the parent's holders; BMM Ispat Limited — merged in — no shares for the parent's holders; National Steel and Agro Industries Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** JSW One Platforms Limited, the group's online platform in which JSW Steel holds ~61%, partly sold via IPO — class `not stated`.
 
 ### 2. Stages and dates
@@ -56,13 +54,13 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| JSW One Platforms Limited | not stated (GMV reached Rs.6,200 crores in FY26, a 57% YoY … | 0.35% | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| JSW One Platforms Limited | not stated (GMV reached Rs.6,200 crores in FY26, a 57% YoY increase; … | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹329,647 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹329,647 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “JSW One Platforms Limited IPO: "Share of profit of JOPL for FY 2025-26: (Rs. 90 crores) [(0.35%) of the consolidated net profit after tax of JSW Steel Limited] Net worth impact of investment in JOPL as at 31 March 2026: Rs. 68 crores [0.06% of the consolidated net worth of JSW Steel Limited]" | Saffron Resources Private Limited 50:50 JV: "The net worth of Saffron as on 31st March, 2025 is INR 4.95 crore Turnover for FY25: Nil" | BMM Ispat amalgamation: "Paid-up share capital, Turnover and Networth of the companies involved in the Scheme for the year ended 31st March, 2026: (Rs. in Crores) JSW Steel Limited 244 / 132,847 / 77,625; BMM Ispat Limited 855 / 4,776 / 2,732"”
 
@@ -89,7 +87,7 @@
 - **Insider actions around the separation:** JSW Steel Limited itself is selling down in the JOPL IPO: "the participation of the Company in the proposed initial public offering ("IPO") of JSW One Platforms Limited ("JOPL") as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 811 Crores ... held by the Company". | BMM Ispat is bought from the promoter group: "Majority stake in BMMIL is held by JSW Projects Limited, a promoter group entity of the Company, while the remaining shareholding is with Mr. Dinesh Kumar Singhi and Mrs. Snehalatha Singhi." and "#post inter se transfer of 4.15% of the issued and paid-up share capital of the Transferor Company, effected pursuant to a share purchase agreement executed between the shareholders of Transferor Company on May 12, 2026." That scheme raises promoter holding in JSW Steel from 45.32% to 45.65%. | Shareholder vote on the Piombino scheme: "The Scheme was approved by 2,032 equity shareholders holding 2,14,82,88,337 equity shares, representing 94.86% of the valid votes cast by the Company's equity shareholders. It was also approved by 1,982 public shareholders holding 1,06,75,43,004 equity shares, representing 97.20% of the valid votes cast by its public shareholders." | Other promoter/management buying, selling or pledging: not stated.
 - **Insiders, per the checklist read:** JSW Steel participates as Promoter Selling Shareholder offering shares up to Rs 811 crores; it holds about 61% equity stake in JOPL on a fully diluted basis. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is the steel business undertaking of Bhushan Power and Steel Limited (BPSL) — the ~4.5 MTPA integrated plant at Jharsuguda/Sambalpur, Odisha, which JSW acquired out of IBC in 2021 at 2.75 MTPA and then expanded to 4.5 MTPA. The mechanics, approved by the Board on December 3, 2025, were a slump sale of BPSL's steel undertaking on a going-concern basis to JSW Sambalpur Steel Limited for Rs. 24,483 crores cash (subject to closing adjustments), with JFE Steel Corporation of Japan subscribing 50% of JSW Sambalpur's holding company JSW Kalinga Steel Limited for Rs. 15,750 crores in two equal tranches of Rs. 7,875 crores — giving a 50:50 JV at an equity value of Rs. 31,500 crores and enterprise value of Rs. 53,000 crores. Management's stated problem was funding growth without stressing the balance sheet: JSW had a 50 MTPA India target by FY31 (raised in May 2026 to 62 MTPA by FY32, plus 16 MTPA across the JFE and POSCO JVs, ~78-80 MTPA in all), and the transaction was 'aimed at securing the Company's growth in a financially prudent manner to enable it to pursue its aspirations across business cycles,' producing a Rs. 32,000 crore cash inflow and ~Rs. 37,000 crores of deleveraging. The second stated problem was capability: BPSL 'has significant growth potential' and the JV would 'enable acceleration of its capacity with best-in-class technology and enable production of high-end value-added steel products,' building on JFE's partnership with JSW since 2009. A third, separate problem was structure — BPSL sat under Piombino Steel Limited, 82.65% JSW Steel and 17.35% JSW Shipping & Logistics (a promoter group entity) — so a parallel scheme amalgamated Piombino into JSW Steel (10 JSW shares of Re. 1 for every 156 Piombino shares of Rs. 10) so JSW could 'directly hold the investment in BPSL,' giving 'a platform to facilitate any transactions and investments related to BPSL's business, thereby enhancing strategic focus without minority shareholders' involvement,' plus 'additional cash to pursue its growth aspirations in a financially prudent manner' and fewer entities/compliances. By May 14, 2026 management reported the JV entity formed by end-March, JFE's first tranche in, ~Rs. 30,000 crores of the Rs. 37,000 crore deleveraging done, net debt Rs. 54,000 crores, leverage down to 1.81x and gearing 0.51x, a credit-rating outlook uplift, a Rs. 18,051 crore exceptional gain on the slump sale (largely sheltered by BPSL's carry-forward losses and unabsorbed depreciation), and BPSL deconsolidated into equity accounting. No text in the filings or the one readable call says investors, lenders or partners demanded the separation; JFE is the counterparty and already had a nominee, Mr. Hiroyuki Ogawa, on JSW Steel's board.
 
@@ -125,7 +123,13 @@ The business being separated is the steel business undertaking of Bhushan Power 
 
 ### 6. On the calls, verbatim
 
-No call in the last 36 months carries a statement about it (or no transcript is on file).
+1 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 1 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+
+#### May 2026 — [transcript](https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf)
+
+**From the prepared remarks** *(the passage about it; the whole turn runs to 15,642 characters in the transcript)*
+
+> **Jayant Acharya:** JSW Steel Limited May 14, 202 6 The J SW online platform in which we have about 61% equity stake on a fully diluted basis continued to see strong momentum during the year. In quarter 4, it turned profitable for the first time. The steel volumes gr ew by 50% Y oY and the GMV reached Rs.6,200 cror es, a 57% YoY increase. Over Rs.2,000 crores of this GMV was driven by JSW One's credit offerings. Looking ahead, we expect our coking coal cost to be higher by $12 to $15 in Quarter 1. And for FY27, we expect consolidated steel productio n at 29.75 millio n tonnes and a sale of 28.6 million tonnes. This includes volumes fr om BMM Ispat, which is being acquired by us, b ut excludes volume from our JFE joint venture.
 
 ### 7. The parent's financial statements
 

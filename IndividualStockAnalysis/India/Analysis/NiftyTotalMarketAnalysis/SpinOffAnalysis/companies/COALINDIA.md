@@ -62,16 +62,16 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Bharat Coking Coal Limited | not stated | — | — | 14,688 | 5.6% | no |
-| Central Mine Planning & Design Institute Limited | not stated | — | — | 13,509 | 5.2% | no |
-| Mahanadi Coalfields Limited | not stated | — | — | — | — | not listed |
-| South Eastern Coalfields Limited | not stated | — | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Bharat Coking Coal Limited | not stated | 14,688 | 5.9% | no |
+| Central Mine Planning & Design Institute Limited | not stated | 13,509 | 5.4% | no |
+| Mahanadi Coalfields Limited | not stated | — | — | not listed |
+| South Eastern Coalfields Limited | not stated | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹248,666 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹248,666 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — Offers for sale to new IPO buyers, not distributions of shares to existing CIL shareholders; no index exclusion stated.
 
@@ -101,7 +101,7 @@
 - **Insider actions around the separation:** Coal India Limited, the parent, sold shares of its subsidiaries in each IPO by way of offer for sale: "Bharat Coking Coal Limited, pursuant to its IPO, has sold 465,700,000 Equity Shares at an issue price of ₹ 23 per share which were offered for sale by the Company"; "Central Mine Planning & Design Institute Limited, pursuant to its IPO, has sold 107,100,000 Equity Shares at an offer price of ₹172.00 per share which were offered for sale by the Company." Proposed offers for sale by Coal India Limited of up to 661,836,300 equity shares of MCL and up to 668,056,100 equity shares of SECL are pending. No other promoter or management buying, selling or pledging is stated.
 - **Insiders, per the checklist read:** Not stated for MCL/SECL. CIL is the sole selling shareholder in each offer for sale; in the completed BCCL and CMPDIL IPOs CIL retained 90% and 85% respectively. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The texts do not contain any management-stated rationale for a separation: what the filings actually show is not a demerger or carve-out of a business line but the government-directed partial listing of Coal India's existing wholly-owned coal subsidiaries through pure offers for sale by CIL, with no rationale, synergy argument or use-of-proceeds ever explained in the three earnings calls. The only stated 'why' anywhere in the material is a directive: the Ministry of Coal's Office Memorandum I/37811/2025 dated 16.12.2025 'advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year', after which the CIL Board gave in-principle approval by circular resolution on 23.12.2025 for onward submission to DIPAM — i.e. the asker was the owner/government (MoC and DIPAM), not investors, lenders or partners. The word 'further' implies a programme already under way: Bharat Coking Coal Limited (BCCL) listed on 19.01.2026 after selling 465,700,000 equity shares of ₹10 face value at ₹23 per share, cutting CIL's holding from 100% to 90% (4,657,000,000 to 4,191,300,000 shares); Central Mine Planning & Design Institute Limited (CMPDIL) listed on 30.03.2026 after selling 107,100,000 shares of ₹2 face value at ₹172.00, cutting CIL from 100% to 85% (714,000,000 to 606,900,000 shares). Both remain subsidiaries, so no business is being separated operationally — only minority equity is being sold, and because each is an offer for sale by CIL, proceeds accrue to the parent and not to the subsidiary. The pipeline then moved to the two largest producers: MCL's DRHP dated 01.09.2026 and RHP dated 13.11.2026 for an OFS of up to 661,836,300 shares (₹2 face value), and SECL's DRHP dated 01.11.2026 for up to 668,056,100 shares (₹2 face value), each 'subject to receipt of applicable approvals, prevailing market conditions'. The calls supply only indirect context for why these particular units are separable: management described sharply different subsidiary economics and problems — MCL producing 89.4 mt in H1 FY24 with just 21,523 employees and very low overburden versus SECL/ECL carrying ~30-35 old underground mines and high manpower (CIL total ~2,35,000 employees in Nov 2023, ~2.20 lakh by May 2025, ~12,000 superannuating a year); SECL repeatedly missing targets (197 mt target vs 162 mt FY23; ~8-9 mt short in FY24; heavy rainfall and land acquisition in FY25); BCCL as the pure coking-coal entity (36.18 mt FY23, 41 mt FY24 target) whose output cannot be used fully 'because of the lack of washing capacities', prompting washery monetisation (2 mt Durga washery won by JSW Steel); and CMPDIL building CIL's in-house e-auction platform from Ranchi to phase out MSTC. None of that was ever linked by management to listing or separation, so any value-unlocking logic is inference, not something the company stated.
 
@@ -385,12 +385,8 @@ xychart-beta
 | Days Payable | 215 (Mar 2016) | 338 (Mar 2021) | — | — | — |
 | Cash Conversion Cycle | 31 (Mar 2026) | 77 (Mar 2026) | 164 (Mar 2023) | — | — |
 | Working Capital Days | 11 (Mar 2026) | -39 (Mar 2026) | 133 (Mar 2023) | — | — |
-| Debt / equity (x) | 0.1 (Mar 2026) | 0.4 (Sep 2026
-            
-            (S)) | 0 (Mar 2023) | — | — |
-| Borrowings (₹ cr) | 14,072 (Mar 2026) | 2,478 (Sep 2026
-            
-            (S)) | 1 (Mar 2023) | — | — |
+| Debt / equity (x) | 0.1 (Mar 2026) | 0.4 (Sep 2026 (S)) | 0 (Mar 2023) | — | — |
+| Borrowings (₹ cr) | 14,072 (Mar 2026) | 2,478 (Sep 2026 (S)) | 1 (Mar 2023) | — | — |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 

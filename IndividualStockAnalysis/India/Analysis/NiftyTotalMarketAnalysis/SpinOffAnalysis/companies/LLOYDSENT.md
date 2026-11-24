@@ -11,9 +11,8 @@
 | Entity | Scheme | Business | Listing | Who runs it |
 |---|---|---|---|---|
 | **Lloyds Realty Limited** | 2025 Composite Scheme of Arrangement (board approved 22 Dec… | Real Estate Business Undertaking of Lloyds Enterprises Limited — real estate development across the Mumbai Me… | to be listed | not stated |
-| **Steel Infra Solutions Company Limited** | 2026 acquisition of 88.12% of Steel Infra Solutions Company… | Heavy steel fabrication and infrastructure solutions across energy, infrastructure and industrial segments; s… | to be listed | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Lloyds Realty Developers Limited — merged in — no shares for the parent's holders; Indrajit Properties Private Limited — merged in — no shares for the parent's holders; Lloyds Infrastructure & Construction Limited — merged in — no shares for the parent's holders; Metalfab Hightech Private Limited — merged in — no shares for the parent's holders; Techno Industries Private Limited — merged in — no shares for the parent's holders
+**The other parties to the scheme(s)** — not separated entities: Lloyds Realty Developers Limited — merged in — no shares for the parent's holders; Indrajit Properties Private Limited — merged in — no shares for the parent's holders; Lloyds Infrastructure & Construction Limited — merged in — no shares for the parent's holders; Metalfab Hightech Private Limited — merged in — no shares for the parent's holders; Techno Industries Private Limited — merged in — no shares for the parent's holders; Steel Infra Solutions Company Limited — no listing of it on the record
 
 **What is being separated, as the documents put it:** The Real Estate Business Undertaking of Lloyds Enterprises Limited, demerged into Lloyds Realty Limited, a new unlisted resulting company — class `value_unlocking`.
 
@@ -50,20 +49,17 @@
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Lloyds Realty Limited | not stated for the Real Estate Business Undertaking as such… | — | 3.8% (FY2026) | — | — | not listed |
-| Steel Infra Solutions Company Limited | Turnover: Rs. 816.87 Crores and Net Profit: Rs. 43.42 Crore… | — | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Lloyds Realty Limited | not stated for the Real Estate Business Undertaking as such… | — | — | — | 3.8% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹10,184 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹10,184 cr, whole ₹10,184 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **The judge's read of selling pressure:** likely — Small real-estate entity split from a trading/engineering-and-investment holding company; newly listed, in no index; shares frozen until listing permission
 
 ### 4. Insider ownership — share swap, promoters' holding, management incentives
 
-**Share swap / entitlement, entity by entity:**
-
-- **Steel Infra Solutions Company Limited:** Acquisition of 3,57,80,117 equity shares (88.12%) for about Rs. 1,073.40 Cr: Lloyds Enterprises Limited 73,00,000 shares (17.98%) in cash for about Rs. 219 Cr; Lloyds Engineering Works Limited up to 2,11,80,117 shares (52.16%) partly cash (Rs. 1,31,84,72,100 for 43,94,907 shares) and partly share swap (LEWL to issue and allot 7,06,74,554 equity shares on a preferential basis at INR 71.25 per equity share for up to 1,67,85,210 SISCOL shares); Streamland Estate LLP 73,00,000 shares (17.98%) in cash for about Rs. 219 Cr
+**Share swap / entitlement:** 1 for every 2
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -168,7 +164,7 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Real Estate (reportable segment in consolidated segment reporting; "Real estate" in FY2024) → Lloyds Realty Limited (Resulting Company) — real estate subsidiaries Lloyds Realty Developers Limited and Indrajit Properties Private Limited to be merged into LEL first, then the Real Estate Business demerged** · unit ₹ lakh · Profit line is the segment result labelled "Operating Net Profit" (before finance cost, before tax). Revenue is external sales; no inter-division/inter-company transfer shown for real estate in any year. Segment PBT after finance cost: FY2024 ₹(130.98) lakh, FY2025 ₹1,330.14 lakh, FY2026 ₹83 lakh (₹0.83 crore, after an exceptional item of ₹(4.09) crore). No segment PAT, capex or depreciation disclosed. One unit used throughout: FY2024/FY2025 as printed in ₹ lakh; FY2026, printed in ₹ crore, multiplied by 100 to ₹ lakh.
+**Real Estate (reportable segment) — "Real estate" / "Real Estate" in the consolidated segment note; described as "Real Estate — Lloyds Realty Developers Limited (LRDL)" in the FY26 Business Segment Review → Lloyds Realty Limited (Resulting Company; the Real Estate Business Undertaking demerged after merging Lloyds Realty Developers Limited and Indrajit Properties Private Limited into LEL)** · unit ₹ lakh · Consolidated IND AS-108 segment note. Revenue is external sales (no inter-division/inter-company transfer shown for Real Estate in any year). operating_profit = segment 'Operating Net Profit' (segment result before finance cost and tax). Profit before tax after finance cost: FY2024 (130.98) loss, FY2025 1,330.14, FY2026 83 (₹0.83 Cr, incl. exceptional item (4.09) Cr). Assets/liabilities are segment assets and segment liabilities. UNIT NOTE: FY2024 and FY2025 are printed in ₹ lakh and are given exactly as printed; the FY2026 consolidated segment table is printed in ₹ crore and has been converted ×100 (exact) to keep one unit. As printed in ₹ crore for FY2026: external revenue 66.91, operating net profit 5.70, PBT 0.83, segment assets 1,293.06, segment liabilities 854.12.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -186,34 +182,34 @@ xychart-beta
 | Segment assets / revenue (x) | 31.4 | 8.6 | 19.3 |
 | Capex (₹ lakh) | — | — | — |
 
-*Sources:* Annual Report 2024 — page 169; Annual Report 2025 — page 230; Annual Report 2026 — page 300 (printed as ₹66.91 cr revenue, ₹5.70 cr operating net profit, ₹1,293.06 cr assets, ₹854.12 cr liabilities)
+*Sources:* Annual Report 2024 — page 169; Annual Report 2025 — page 230; Annual Report 2026 — page 300 (printed in ₹ crore: 66.91 / 5.70 / 1,293.06 / 854.12)
 
-*Not in the pages read:* No quarterly/half-year real-estate segment revenue or profit; no PAT, capex, depreciation; no standalone LRDL or Indrajit Properties financials (only ~1.75 cr sq ft pipeline, ₹3,500 cr value delivered).
+*Not in the pages read:* No segment PAT, capex or depreciation; no quarterly real-estate revenue/profit (Q1/Q2 FY27 decks give only pipeline, sq ft and demerger status).
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 5 presentation(s) on file):* No own numbers for: Lloyds Realty Limited (shell resulting company, pre-demerger); Lloyds Realty Developers Limited standalone; Indrajit Properties Private Limited; Real Estate Business Undertaking as defined in the Scheme. Pages carry only the consolidated Real Estate segment.
+*Businesses with no numbers in the pages read (3 annual report(s) and 5 presentation(s) on file):* Lloyds Realty Developers Limited and Indrajit Properties Private Limited: no entity-level revenue, profit, asset or liability figures on these pages — only the group Real Estate segment and qualitative pipeline/delivery data.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/82f67229-7245-4268-a22b-49994f6ffe86.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/5408c4f6-594d-400d-aadf-28e17b39561e.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/a7a8ca2e-3583-4f27-aebb-5b7d1f551745.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fdabd7ba-7d33-4b1c-a882-21e996f77334.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f5d58a2-e1d3-465f-adc5-9ae67e65228e.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ab3a8e5-a800-4b69-b625-35fe1fc04a32.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ab99cba-2335-421f-95ed-9aed16902edd.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=66a44a24-9f87-4f73-b5b6-0a3bbb213a59.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (LLOYDSENT) | Lloyds Realty Limited | Steel Infra Solutions Company Limited |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Real Estate (reportable segm…* | *no numbers on file* |
-| Sales (₹ cr) | 1,756 (Mar 2026) | — | — |
-| Sales growth (%) | 18 (Mar 2026) | -20.2 (FY2026) | — |
-| Operating margin (%) | 6.7 (Mar 2026) | 8.5 (FY2026) | — |
-| Operating profit growth (%) | -0.8 (Mar 2026) | -62.9 (FY2026) | — |
-| PAT margin (%) | 23.7 (Mar 2026) | — | — |
-| ROCE % | 4 (Mar 2025) | 1.3 (FY2026) | — |
-| Debtor Days | 56 (Mar 2026) | — | — |
-| Inventory Days | 188 (Mar 2026) | — | — |
-| Days Payable | 74 (Mar 2019) | — | — |
-| Cash Conversion Cycle | 170 (Mar 2026) | — | — |
-| Working Capital Days | 198 (Mar 2026) | — | — |
-| Debt / equity (x) | 0.2 (Mar 2026) | — | — |
-| Borrowings (₹ cr) | 798 (Mar 2026) | — | — |
-| Segment assets / revenue (x) | — | 19.3 (FY2026) | — |
-| Sales (₹ lakh) | — | 6,691 (FY2026) | — |
+| Metric (latest year) | Parent (LLOYDSENT) | Lloyds Realty Limited |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *segment numbers (Real Estate (reportable segm…* |
+| Sales (₹ cr) | 1,756 (Mar 2026) | — |
+| Sales growth (%) | 18 (Mar 2026) | -20.2 (FY2026) |
+| Operating margin (%) | 6.7 (Mar 2026) | 8.5 (FY2026) |
+| Operating profit growth (%) | -0.8 (Mar 2026) | -62.9 (FY2026) |
+| PAT margin (%) | 23.7 (Mar 2026) | — |
+| ROCE % | 4 (Mar 2025) | 1.3 (FY2026) |
+| Debtor Days | 56 (Mar 2026) | — |
+| Inventory Days | 188 (Mar 2026) | — |
+| Days Payable | 74 (Mar 2019) | — |
+| Cash Conversion Cycle | 170 (Mar 2026) | — |
+| Working Capital Days | 198 (Mar 2026) | — |
+| Debt / equity (x) | 0.2 (Mar 2026) | — |
+| Borrowings (₹ cr) | 798 (Mar 2026) | — |
+| Segment assets / revenue (x) | — | 19.3 (FY2026) |
+| Sales (₹ lakh) | — | 6,691 (FY2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -221,11 +217,10 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Steel (standalone metals trading business; "Steel" reportable segment) | 76,582 | 38.9% | 9.0% | 4.59x | ₹ lakh | FY2026 |
-| Engineering (via Lloyds Engineering Works Limited) | 126,727 | 14.0% | 12.2% | 1.7x | ₹ lakh | FY2026 |
+| Steel | 76,582 | 38.9% | 9.0% | 4.59x | ₹ lakh | FY2026 |
+| Engineering | 126,727 | 14.0% | 12.2% | 1.7x | ₹ lakh | FY2026 |
 | Electrical | 18,726 | 7.2% | 16.5% | 1.29x | ₹ lakh | FY2026 |
 | Steel and Engineering Products | 94,095 | 9.7% | 8.5% | 1.96x | ₹ lakh | FY2024 |
-| Steel Infra Solutions Company Limited (SISCOL) — full-stack structural steel / heavy steel fabrication | 817 | — | — | — | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 

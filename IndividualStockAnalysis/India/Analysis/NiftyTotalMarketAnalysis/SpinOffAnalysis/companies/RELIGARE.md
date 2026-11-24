@@ -42,11 +42,11 @@
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Religare Finvest Limited | The turnover of the Demerged Undertaking for the year ended… | 6.2% | 6.4% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Religare Finvest Limited | The turnover of the Demerged Undertaking for the year ended… | 6.2% (share of turnover) | — | — | 17.1% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,982 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹7,982 cr, whole ₹7,982 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking for the year ended 31 March, 2025 was INR 457.29 Crores on a consolidated basis representing 6.2% of the total consolidated turnover of the Company for the year ended 31 March, 2025.”
 

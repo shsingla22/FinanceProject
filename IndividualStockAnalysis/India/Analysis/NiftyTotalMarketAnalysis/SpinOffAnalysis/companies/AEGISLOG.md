@@ -12,8 +12,6 @@
 |---|---|---|---|---|
 | **Aegis Vopak Terminals Limited** | 2025 initial public offering (IPO) of material subsidiary A… | Gas and liquid storage terminalling at Indian ports: cryogenic LPG terminals, liquid tank terminals, ammonia … | listed 2025-06-02 as AEGISVOPAK (NSE) | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Hindustan Aegis LPG Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** Aegis Vopak Terminals Limited (AVTL), the group's liquid and gas storage/terminalling subsidiary, separately listed — class `regulatory_strategic`.
 
 ### 2. Stages and dates
@@ -42,13 +40,13 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Aegis Vopak Terminals Limited | not stated | — | — | 31,681 | 42.4% | yes |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Aegis Vopak Terminals Limited | not stated | 31,681 | 73.7% | yes |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹42,976 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹42,976 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — AVTL listed via fresh INR 2,800 crore primary issuance, not a share distribution to parent shareholders; documents state no shareholding-pattern change
 
@@ -74,7 +72,7 @@
 - **Insider actions around the separation:** No promoter or management buying, selling or pledging is stated. Related disclosures: "The trading window for dealing in the securities of the Company, which was closed for Company’s Director/designated persons associated with the Company from Tuesday, April 1, 2025 continues to remain closed till the conclusion of 48 hours after the declaration of audited financial results (standalone and consolidated) approved by the Board of Directors of the Company." (May 29, 2025); "None of the Directors/Key Managerial Personnel of the Company/their relatives are in any way, concerned or interested, financially or otherwise in the Special Resolution set out except to the extent to their shareholding in the Company, if any." (Postal Ballot Notice, December 10, 2024); and, at the subsidiary level, "Itochu Corporation has acquired a 10% stake in Aegis Terminal Pipavav Limited coming in as a strategic partner with an intention to raise that to 25% stake over the next 3 years."
 - **Insiders, per the checklist read:** Promoter Raj Chandaria is Chairman & MD; parent holds "44% shareholder of AVTL", earns ~25% margin developing assets billed to AVTL; Itochu took 10% of ATPL, intending 25% · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 Across these texts Aegis is not demerging a division to its own shareholders — one filing states plainly "Yes, transaction is outside the Scheme of Arrangement" — it is carving its port terminalling business out of Aegis Logistics Ltd (ALL) into the Royal Vopak joint venture Aegis Vopak Terminals Ltd (AVTL), IPO-ing it, and then migrating terminal assets into AVTL and its subsidiaries by slump sale; ALL retains Mumbai Liquid, Mumbai LPG, LPG/ammonia Distribution, Infrastructure Development (EPC), Sourcing and treasury. Management's stated reason is capital: the group is funding roughly USD 1.2 billion of gross capex (about INR 10,000 crores) by FY27 and a USD 5 billion pipeline to 2030 (including a non-binding INR 20,000 crore Vadhavan MoU, INR 1,675 crores at JNPA/J2, INR 525 crores per ammonia terminal), and Murad Moledina said the AVTL IPO's "primary objective was to reduce debt and strengthen the balance sheet enabling us to seize future growth opportunities and continue our GATI strategy" — GATI being Gateway Access to India. The dilution problem is answered two ways: in Nov 2024 he argued equity infused into the JV "will be value accrued into the holdco because we are eliminating interest cost which is a very high cost for infrastructure companies," so rising minority interest is offset by interest savings; post-listing he called it EPS accretive because reinvested proceeds more than compensate for profit shared with minorities. The split is engineered so cash returns to the parent: ALL (or a 100% subsidiary) builds the assets and bills AVTL at arm's length with a ~20–25% margin — 30% on signing the framework agreement (INR 500 crores of the INR 1,675 crore J2 project) and 70% on completion — so "we recover back whatever we have spent and the margin remains in cash," eliminated on consolidation but real at the standalone level, while ALL also keeps 44.71% of AVTL and management control, so AVTL is still consolidated line by line. Partner structure, not lender pressure, shapes it: Vopak dilutes equally alongside ALL; SEBI rules legally oblige a Phase-II equity infusion within three years; Itochu has taken 10% of Aegis Terminal (Pipavav) Ltd with intent to reach 25%; L&T (Kandla green ammonia) and Hindustan Zinc (15-year ammonia take-or-pay) sit on the project side. Consolidation of stragglers followed — Haldia's Hindustan Aegis LPG (25,000 MT, HPCL contract to 2038) moved 75% into AVTL, with 51% sold by Aegis Gas for INR 701.6 crores, and the Pipavav ammonia terminal transferred to ATPL for INR 525 crores — and performance has been strong throughout: FY26 revenue INR 8,333 crores (+23%), normalised EBITDA INR 1,599 crores (+36%), PAT INR 1,107 crores (+41%), EPS 25.59, cash and investments ~INR 5,939 crores versus INR 150 crores in FY22, consolidated debt-to-equity 0.04 and no net debt.
 

@@ -55,11 +55,11 @@
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| HEG Limited | "The turnover of the Demerged Undertaking i.e. Graphite Bus… | 94.41% | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| HEG Limited | "The turnover of the Demerged Undertaking i.e. Graphite Bus… | 94.41% (share of turnover) | — | — | — | not listed | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,163 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,163 cr, whole ₹9,163 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"The turnover of the Demerged Undertaking i.e. Graphite Business of the Company, as on 31st March, 2024 was INR 2,394.90 crore. The turnover of the Graphite Business is 94.41% to the total turnover of the Company in the financial year ending 31st March, 2024." (Modified Scheme disclosure, 10 March 2025; identical statement in the 22 May 2024 disclosure). The 2026 cost-of-acquisition guidance apportions shareholders' pre-demerger cost 27.60% to HEG Advanced Materials Limited (formerly HEG Limited) and 72.40% to HEG Graphite Limited.”
 

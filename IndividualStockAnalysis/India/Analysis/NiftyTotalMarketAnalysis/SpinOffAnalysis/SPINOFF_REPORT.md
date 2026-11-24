@@ -32,12 +32,12 @@
 | **PICCADIL** | Piccadily Food & Essentials Limited | exchange_noc | NOT YET (exchange_noc); timeline stated | 4.3 | PRE-SPIN |
 | **THOMASCOOK** | Sterling Holiday Resorts Limited | nclt_sanction | NOT YET (nclt_sanction); timeline stated | 4.3 | PRE-SPIN |
 | **HEGAM** | HEG Limited | record_date | RECORD DATE 2026-09-07; listing awaited | 4.2 | LISTED <1Y |
-| **LLOYDSENT** | Lloyds Realty Limited; Steel Infra Solutions Company Limited | exchange_noc | NOT YET (exchange_noc); timeline stated | 4.2 | PRE-SPIN |
+| **LLOYDSENT** | Lloyds Realty Limited | exchange_noc | NOT YET (exchange_noc); timeline stated | 4.2 | PRE-SPIN |
 | **MAHSEAMLES** | MSL Seamless Tubes Limited; United Seamless Limited | announced | NOT YET (announced); timeline stated | 4.2 | PRE-SPIN |
-| **RAYMOND** | Raymond Realty Limited (RAYMONDREL, listed 2025-07-01); Raymond Lifestyle Limited (RAYMONDLSL, listed 2024-09-05) | record_date | LISTED 2024-09-05: RAYMONDREL, RAYMONDLSL | 4.2 | LISTED 1–2Y |
+| **RAYMOND** | Raymond Realty Limited (RAYMONDREL, listed 2025-07-01); Raymond Lifestyle Limited (RAYMONDLSL, listed 2024-09-05) | record_date | LISTED: RAYMONDLSL 2024-09-05, RAYMONDREL 2025-07-01 | 4.2 | LISTED 1–2Y |
 | **ABFRL** | Aditya Birla Lifestyle Brands Limited (ABLBL, listed 2025-06-23) | record_date | LISTED 2025-06-23: ABLBL | 3.6 | LISTED 1–2Y |
 | **ABLBL** | this company — spun out of Aditya Birla Fashion and Retail Limited (ABFRL) | listed | THIS IS THE SPIN-OFF — listed 2025-06-23 | 3.6 | LISTED 1–2Y |
-| **TRIVENI** | Triveni Power Transmission Limited (TRIVENIPT, listed 2026-10-12); Triveni Turbine Limited (TRITURBINE, listed 2011-10-28) | listed | LISTED 2011-10-28: TRIVENIPT, TRITURBINE | 3.6 | LISTED <1Y |
+| **TRIVENI** | Triveni Power Transmission Limited (TRIVENIPT, listed 2026-10-12) | listed | LISTED 2026-10-12: TRIVENIPT | 3.6 | LISTED <1Y |
 | **ITC** | ITC Hotels Limited (ITCHOTELS, listed 2025-01-29) | record_date | LISTED 2025-01-29: ITCHOTELS | 3.3 | LISTED 1–2Y |
 | **STLTECH** | STL Networks Limited (STLNETWORK, listed 2025-09-04) | record_date | LISTED 2025-09-04: STLNETWORK | 2.9 | LISTED 1–2Y |
 | **REFEX** † | Refex Mobility Limited | nclt_sanction | NOT YET (nclt_sanction) | 5.7 | PRE-SPIN |
@@ -57,12 +57,12 @@ The parent keeps a stake and the piece gets its own price (the notes' Sears case
 | **ICICIBANK** | ICICI Prudential Asset Management Company Limited | joint venture · 53.0% | listed | 2025-12-19 (NSE) | 3.6 | PARTIAL SPIN-OFF, LISTED <1Y | “Effective December 19, 2025, ICICI Prudential Asset Management Company Limited is listed on Bombay Stock Exchange and National Stock Exchange.” |
 | **AEGISLOG** | Aegis Vopak Terminals Limited | subsidiary · 44% | listed | 2025-06-02 (NSE) | 2.9 | PARTIAL SPIN-OFF, LISTED 1–2Y | “This year also marked a significant achievement for one of our subsidiaries, Aegis Vopak Terminals Limited (AVTL), with successfully listing of its equity share” |
 | **EDELWEISS** | EAAA India Alternatives Limited | subsidiary · 83.88% held by the Company through all i | listed | 2026-11-02 (NSE) | 2.1 | PARTIAL SPIN-OFF, LISTED <1Y | “In continuation of our earlier intimations made in connection with the Initial Public Offering ("IPO") of EAAA India Alternatives Limited ("EAAA"), a subsidiary” |
-| **UPL** | Advanta Enterprises Limited; also UPL Global Sustainable Agri Solutions Limited *(the company also has a demerger on file)* | subsidiary · not stated | DRHP filed | date not fixed | 7.1 | PARTIAL SPIN-OFF, IPO IN MOTION | “In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (“SEBI Listin” |
+| **UPL** | Advanta Enterprises Limited *(the company also has a demerger on file)* | subsidiary · not stated | DRHP filed | date not fixed | 7.1 | PARTIAL SPIN-OFF, IPO IN MOTION | “In accordance with the provisions of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations 2015 (“SEBI Listin” |
 | **JSWSTEEL** | JSW One Platforms Limited | joint venture · about 61% equity stake on a fully dilute | board approval | Completion date of the proposed IPO is not available as on date. (filing dated July 17, 2026) | 5.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meetin” |
 | **AMBER** | IL JIN Electronics (India) Limited | subsidiary · 89.72% | DRHP filed | date not fixed | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “IL JIN Electronics (India) Limited (formerly known as IL JIN Electronics (India) Private Limited), a material subsidiary of the Company, has filed the Draft Red” |
 | **FIRSTCRY** | Swara Baby Products Limited | subsidiary · 76.59% | DRHP filed | date not fixed | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “In this connection, we wish to inform you that Swara Baby has filed a DRHP dated July 02, 2026 with the Securities and Exchange Board of India, BSE Limited and ” |
 | **JSWCEMENT** | JSW One Platforms Limited | joint venture · not stated | board approval | Per the August 13, 2026 filing: "Completion date of the proposed IPO is not available as on date." | 4.3 | PARTIAL SPIN-OFF, IPO IN MOTION | “Pursuant to the Regulation 30 read with Schedule III of SEBI Listing Regulations, this is to inform you that the Board of Directors of the Company at its meetin” |
-| **COALINDIA** | Mahanadi Coalfields Limited; also South Eastern Coalfields Limited, Central Mine Planning & Desig | subsidiary · 100% (described as a wholly owned subsid | SEBI observations | Filing dated 23.12.2025: Ministry of Coal Office Memorandum I/37811/2025 dated 16.12.2025 "had advised CIL to… | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “The RHP filing pertains to the proposed initial public offering (“IPO”) of MCL comprising an offer for sale of up to 661,836,300 equity shares by Coal India Lim” |
+| **COALINDIA** | Mahanadi Coalfields Limited; also Bharat Coking Coal Limited — listed 2026-01-19 (BHARATCOAL); Central Mine Planning & Design Institute Limited — listed 2026-03-30 (CMPDI); South Eastern Coalfields Limited — IPO in motion | subsidiary · 100% (described as a wholly owned subsid | SEBI observations | Filing dated 23.12.2025: Ministry of Coal Office Memorandum I/37811/2025 dated 16.12.2025 "had advised CIL to… | 3.6 | PARTIAL SPIN-OFF, IPO IN MOTION | “The RHP filing pertains to the proposed initial public offering (“IPO”) of MCL comprising an offer for sale of up to 661,836,300 equity shares by Coal India Lim” |
 | **GAIL** | GAIL Gas Limited | subsidiary · 100% (wholly owned subsidiary of GAIL) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “This is to inform that GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly ” |
 | **IEX** | Indian Gas Exchange Limited | associate · 47.3% → 25% | DRHP filed | At the IEX Analyst Meet held July 24, 2026 the CFO said "the good part is that they filed the DRHP in this mo… | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “In furtherance of our intimation dated December 03, 2025, and in terms of Regulation 30 of the SEBI Listing Regulations, we wish to inform that the Indian Gas E” |
 | **NLCINDIA** | NLC India Renewables Limited | subsidiary · 100% (Wholly Owned Subsidiary) | board approval | date not fixed | 2.9 | PARTIAL SPIN-OFF, IPO IN MOTION | “Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Who” |
@@ -1057,12 +1057,12 @@ What is left after every row has been read and settled: management's own indicat
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| UPL Global Sustainable Agri Solutions Limited | Nil turnover for the year ended March 31, 2025 (as per audi… | — | 82.6% (FY2025) | — | — | not listed |
-| Advanta Enterprises Limited | Advanta revenue INR 6,837 crore for FY26, 23% growth (platf… | — | 73.8% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| UPL Global Sustainable Agri Solutions Limited | Nil turnover for the year ended March 31, 2025 (as per audi… | — | — | — | 80.0% (FY2026) | not listed | less likely |
+| Advanta Enterprises Limited | Advanta revenue INR 6,837 crore for FY26, 23% growth (platf… | — | — | — | 87.0% (FY2026) | not listed | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹47,223 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹47,223 cr, whole ₹47,223 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"Turnover of the Demerged Undertaking (as defined in the Scheme) (INR Mn) 24,120 | % of Turnover of UPL 1* 31.15% *Calculated after adding the turnover of UPL SAS to UPL 1 as on March 31, 2025 as per the details provided in point 1 above"; entity sizes stated as: "UPL 1 INR 53,313 Mn / INR 120,210 Mn; UPL SAS INR 24,120 Mn / INR 22,016 Mn; UPL 2 Nil / INR 0.02 Mn; UPL Cayman USD 4,187 Mn / USD 1,599 Mn" (turnover for the year ended March 31, 2025 and net worth as on March 31, 2025)”
 
@@ -1126,21 +1126,21 @@ Management's stated reason is that UPL is a conglomerate whose crop protection b
 
 ### 6. On the calls, verbatim
 
-11 call(s), oldest first: **40 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 58 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+11 call(s), oldest first: **21 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 35 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Nov 2023 | 3 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/0ussbQSi5IxleJvTMVGTsuI6rIRn4OmYGia3kAX4/UPL-Q2FY24-Earnings-Concall-Transcript--30Oct23.pdf) |
-| Feb 2024 | 3 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/nAtDABPyh2l5KTic5YOGQZ7IuGb8PYHHg1G0hiab/UPL---Q3FY24---Concall-Transcript.pdf) |
-| May 2024 | 0 | 15 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/zaxOgmebcdVCtsoXkSJyMhAZN2hMF3KlGyacJvlF/UPL-CMD-2024-Transcription.pdf) |
-| Aug 2024 | 2 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/A3dmKMDiVIcJ5zQibljMk2FspK1UnhPvBxhJHtNc/UPL---Q1FY25---Concall-Transcript.pdf) |
-| Nov 2024 | 6 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/EZtfZnMxwzcO9VFDQ6KwKcL5VH7GW6XH0TEYTtFW/UPL---Q2FY25---Concall-Transcript.pdf) |
-| Jan 2025 | 8 | 4 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/9DyAsm9UB52Kn6Za4Ryuqpae2kOB58CLDfHR4eh4/UPL---Q3FY25---Concall-Transcript.pdf) |
-| May 2025 | 0 | 7 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/7mkodaFuvV69UHvH2dd08jzTCjsin2KsSA8h0afY/UPL-CMD-2025-Transcription.pdf) |
-| Aug 2025 | 6 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/r3nhTBqvvaJwil4Yfw2svFbm3ssp7pXGaXZJVwLM/UPL---Q1FY26---Earnings-call-transcript.pdf) |
-| Nov 2025 | 8 | 4 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/UPL-Q2FY26-Earnings-call-transcript.pdf) |
-| Feb 2026 | 4 | 3 | — |
-| May 2026 | 0 | 10 | [transcript](https://www.upl-ltd.com/financial_pdfs/cmd-2025-transcript.pdf) |
+| Nov 2023 | 0 | 2 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/0ussbQSi5IxleJvTMVGTsuI6rIRn4OmYGia3kAX4/UPL-Q2FY24-Earnings-Concall-Transcript--30Oct23.pdf) |
+| Feb 2024 | 0 | 2 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/nAtDABPyh2l5KTic5YOGQZ7IuGb8PYHHg1G0hiab/UPL---Q3FY24---Concall-Transcript.pdf) |
+| May 2024 | 0 | 8 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/zaxOgmebcdVCtsoXkSJyMhAZN2hMF3KlGyacJvlF/UPL-CMD-2024-Transcription.pdf) |
+| Aug 2024 | 1 | 2 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/A3dmKMDiVIcJ5zQibljMk2FspK1UnhPvBxhJHtNc/UPL---Q1FY25---Concall-Transcript.pdf) |
+| Nov 2024 | 6 | 2 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/EZtfZnMxwzcO9VFDQ6KwKcL5VH7GW6XH0TEYTtFW/UPL---Q2FY25---Concall-Transcript.pdf) |
+| Jan 2025 | 2 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/9DyAsm9UB52Kn6Za4Ryuqpae2kOB58CLDfHR4eh4/UPL---Q3FY25---Concall-Transcript.pdf) |
+| May 2025 | 0 | 2 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/7mkodaFuvV69UHvH2dd08jzTCjsin2KsSA8h0afY/UPL-CMD-2025-Transcription.pdf) |
+| Aug 2025 | 3 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/r3nhTBqvvaJwil4Yfw2svFbm3ssp7pXGaXZJVwLM/UPL---Q1FY26---Earnings-call-transcript.pdf) |
+| Nov 2025 | 5 | 3 | [transcript](https://www.upl-ltd.com/financial_result_and_report_pdfs/UPL-Q2FY26-Earnings-call-transcript.pdf) |
+| Feb 2026 | 4 | 2 | — |
+| May 2026 | 0 | 6 | [transcript](https://www.upl-ltd.com/financial_pdfs/cmd-2025-transcript.pdf) |
 
 **The full verbatim text of every exchange is in [companies/UPL.md](companies/UPL.md#6-on-the-calls-verbatim).**
 
@@ -1415,11 +1415,11 @@ xychart-beta
 
 **Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Astra Space Technologies Limited | "approximately INR. 157 Crores" for the financial year ende… | 13.58% | 9.4% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Astra Space Technologies Limited | "approximately INR. 157 Crores" for the financial year ende… | 13.58% (share of turnover) | — | — | 13.4% (FY2026) | not listed | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹16,174 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹16,174 cr, whole ₹16,174 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31st March 2026 was approximately INR. 157 Crores , representing 13.58% of the total turnover of the Demerged Company for the said year.”
 
@@ -1482,21 +1482,14 @@ Astra Microwave is splitting itself into two sector-focused listed companies: th
 
 ### 6. On the calls, verbatim
 
-11 call(s), oldest first: **29 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 23 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+4 call(s), oldest first: **2 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 2 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Nov 2023 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7ff3df9-a487-433d-8218-8ad93bfff339.pdf) |
-| Feb 2024 | 6 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9edbd90-3b61-4994-82bc-2f1a07176049.pdf) |
-| May 2024 | 1 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=51894a8e-05b9-45c2-97c3-a640c31addc8.pdf) |
-| Aug 2024 | 4 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7eb70fbb-8890-48a4-85d9-af5c27274526.pdf) |
-| Nov 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b0527413-e100-4fb3-8252-231bfcfcc3cc.pdf) |
-| Feb 2025 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0502c674-78b1-4151-8d2f-da59e6e97b83.pdf) |
-| May 2025 | 4 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a87d22a-4d49-44dd-8273-a4a664fbe476.pdf) |
-| Aug 2025 | 1 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8665322a-8313-49d9-b271-c9f46183b085.pdf) |
-| Nov 2025 | 4 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8920e2b3-bd77-473a-94ef-a0dba0be3236.pdf) |
-| Feb 2026 | 2 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82557eb2-8eb5-49c4-b6db-4fe6f8761102.pdf) |
-| Jun 2026 | 5 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78f3aacc-b7ef-4d51-b1e1-d6e5863786b8.pdf) |
+| Aug 2024 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7eb70fbb-8890-48a4-85d9-af5c27274526.pdf) |
+| May 2025 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2a87d22a-4d49-44dd-8273-a4a664fbe476.pdf) |
+| Aug 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8665322a-8313-49d9-b271-c9f46183b085.pdf) |
+| Jun 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78f3aacc-b7ef-4d51-b1e1-d6e5863786b8.pdf) |
 
 **The full verbatim text of every exchange is in [companies/ASTRAMICRO.md](companies/ASTRAMICRO.md#6-on-the-calls-verbatim).**
 
@@ -1719,11 +1712,11 @@ xychart-beta
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Fleur Hotels Limited | Turnover (Standalone) as on March 31, 2025: Rs. 46,423.84 L… | 59.9% | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Fleur Hotels Limited | Turnover (Standalone) as on March 31, 2025: Rs. 46,423.84 L… | 59.9% (share of turnover) | — | — | — | not listed | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,662 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,662 cr, whole ₹9,662 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “Turnover of demerged division for financials year ended March 31, 2025 is Rs. 23,037.34 Lakhs — Percentage to the total turnover - 59.90%. Also: "Post the Proposed Transaction Fleur will become one of the largest owners of hospitality assets in India. Its owned portfolio will expand significantly, increasing from 3,993 keys and 24 operating hotels to 5,813 keys across 41 hotels." and "In summary, the following are moving from Lemon Tree to Fleur Hotels: 1,563 operating rooms (in 15 hotels); Investment in one under construction hotel in Aurika, Shillong (165 rooms); One under-construction hotel Aurika, Shimla (91 rooms); Exclusivity of all future Development / Ownership / Leasing on hotel assets and transfer of Development Capability / Team"”
 
@@ -1993,11 +1986,11 @@ Only the parent's figures are on file: Sales (₹ cr) 1,444 (Mar 2026); Sales gr
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Natco Crop Health Sciences Limited | "The turnover of the Demerged Undertaking i.e., Agrochemica… | 1.48% | 3.4% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Natco Crop Health Sciences Limited | "The turnover of the Demerged Undertaking i.e., Agrochemica… | 1.48% (share of turnover) | — | — | 3.4% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹15,898 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹15,898 cr, whole ₹15,898 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking i.e., Agrochemicals Business division as on 31st March, 2025 was ₹ 60,62,03,918 /-. The turnover of the Demerged Undertaking is 1.48% to the total turnover of the Company in the financial year ending 31st March, 2025.”
 
@@ -2056,22 +2049,12 @@ NATCO is demerging its Crop Health Sciences (Agrochemicals) division into Natco 
 
 ### 6. On the calls, verbatim
 
-12 call(s), oldest first: **9 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 17 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+2 call(s), oldest first: **3 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 0 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Nov 2023 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69ef4068-751c-4c97-ae82-a551c697e63b.pdf) |
-| Feb 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98ef9451-83a8-4657-acce-18d31611b872.pdf) |
-| Jun 2024 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99cc0f91-9fd5-4d78-b404-a4e50d143d60.pdf) |
-| Aug 2024 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dba08330-79f4-449b-bfa2-8f5fde18a088.pdf) |
-| Nov 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bfa2b366-9531-46e4-a6e5-1be622bc6b51.pdf) |
-| Feb 2025 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=649d3521-2c1e-4ecd-ab9c-0b1292bb5559.pdf) |
-| Jun 2025 | 1 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d43e2593-6819-4d99-b9a6-c3019c901490.pdf) |
-| Jul 2025 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26c8d332-fc11-4299-9977-cb8dc43d0153.pdf) |
-| Aug 2025 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ecea13a-21ca-404b-8fdf-e05856f77026.pdf) |
-| Nov 2025 | 2 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf) |
-| Feb 2026 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ea4dc21-a77e-4e6d-967e-2da2d51bc890.pdf) |
-| Jun 2026 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf) |
+| Nov 2025 | 2 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf) |
+| Jun 2026 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf) |
 
 **The full verbatim text of every exchange is in [companies/NATCOPHARM.md](companies/NATCOPHARM.md#6-on-the-calls-verbatim).**
 
@@ -2316,17 +2299,17 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: BY ENTITY — Vedanta Aluminium Metal Limited: less likely on size alone (51.9% of the whole, by market value); Vedanta Power Limited: very likely (4.8% of the whole, by market value); Vedanta Oil and Gas Limited: very likely (4.2% of the whole, by market value); Vedanta Iron and Steel Limited: very likely (3.6% of the whole, by market value); Vedanta Property Platforms Limited: very likely (0.001% of the whole, share of turnover).**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Vedanta Aluminium Metal Limited | not stated for the undertaking (Aluminium segment FY26 EBIT… | — | 83.9% (FY2026) | 148,517 | 59.4% | no |
-| Vedanta Power Limited | not stated for the undertaking (FY26 power sales grew 30% Y… | — | 83.9% (FY2026) | 13,655 | 11.9% | no |
-| Vedanta Oil and Gas Limited | not stated for the undertaking (FY26 average gross operated… | — | 83.9% (FY2026) | 12,071 | 10.6% | no |
-| Vedanta Iron and Steel Limited | not stated for the undertaking (FY26: iron ore production 6… | — | 83.9% (FY2026) | 10,300 | 9.2% | no |
-| Vedanta Property Platforms Limited | INR 1.26 crore for the year ended March 31, 2026 (turnover … | 0.001% | 83.9% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Vedanta Aluminium Metal Limited | not stated for the undertaking (Aluminium segment FY26 EBIT… | 7.15% (cost-of-acquisition split) | 148,517 | 51.9% | 83.9% (FY2026) | no | less likely |
+| Vedanta Power Limited | not stated for the undertaking (FY26 power sales grew 30% Y… | 12.23% (cost-of-acquisition split) | 13,655 | 4.8% | 11.3% (FY2026) | no | very likely |
+| Vedanta Oil and Gas Limited | not stated for the undertaking (FY26 average gross operated… | 21.49% (cost-of-acquisition split) | 12,071 | 4.2% | 12.2% (FY2026) | no | very likely |
+| Vedanta Iron and Steel Limited | not stated for the undertaking (FY26: iron ore production 6… | 6.79% (cost-of-acquisition split) | 10,300 | 3.6% | 17.5% (FY2026) | no | very likely |
+| Vedanta Property Platforms Limited | INR 1.26 crore for the year ended March 31, 2026 (turnover … | 0.001% (share of turnover) | — | — | — | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹101,545 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹101,545 cr, whole ₹286,088 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “2023/2026 composite demerger — "For the purpose of determining post-demerger cost of acquisition of the Equity Shares of the Company and the Resulting Companies, shareholders may apportion their total cost of acquisition of the Company in the following manner: 1 Vedanta Limited 52.34% | 2 Vedanta Aluminium Metal Limited 7.15% | 3 Talwandi Sabo Power Limited 12.23% | 4 Malco Energy Limited 21.49% | 5 Vedanta Iron and Steel Limited 6.79%" and "The aforesaid ratio has been determined based on the net worth of the Company and the net assets of the Aluminum Undertaking, Merchant Power Undertaking, Oil and Gas Undertaking, and Iron Ore Undertaking, in accordance with Sections 73 of the Income-tax, Act, 2025." Post-listing: "Combined market cap of all Demerger resulting companies grew by over ₹ 71k crore in Q1". 2026 real estate demerger — "The turnover (including other operating income) of the Demerged Undertaking for the year ended March 31, 2026 was INR 1.26 crore representing 0.001 % of the total standalone turnover of Vedanta Limited for the year ended March 31, 2026."”
 
@@ -2399,20 +2382,20 @@ Management presented the separation as the heart of "Vedanta 2.0": dismantling o
 
 ### 6. On the calls, verbatim
 
-10 call(s), oldest first: **71 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 59 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+10 call(s), oldest first: **24 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 29 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Nov 2023 | 7 | 3 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/Transcript_VEDL_Earnings_Call_2QFY24.pdf) |
-| Jan 2024 | 4 | 8 | — |
-| Aug 2024 | 10 | 8 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/call-transcript-fy2025.pdf) |
-| Nov 2024 | 6 | 5 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/Vedanta-Earnings-Nov08-2024.pdf) |
-| Feb 2025 | 3 | 3 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/VedantaEarnings-transcript-Jan31-2025.pdf) |
-| Apr 2025 | 8 | 5 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/Vedanta-CallTranscript-Apr30-2025_v2.pdf) |
-| Aug 2025 | 6 | 6 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Vedanta_Transcript_Jul31_2025.pdf) |
-| Nov 2025 | 7 | 6 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/VEDL_Q2FY26_Transcript.pdf) |
-| Jan 2026 | 10 | 8 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Transcript_29Jan2026.pdf) |
-| Apr 2026 | 10 | 7 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Vedanta-Transcript-Apr29-2026.pdf) |
+| Nov 2023 | 0 | 3 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/Transcript_VEDL_Earnings_Call_2QFY24.pdf) |
+| Jan 2024 | 0 | 2 | — |
+| Aug 2024 | 1 | 4 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/call-transcript-fy2025.pdf) |
+| Nov 2024 | 3 | 2 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/Vedanta-Earnings-Nov08-2024.pdf) |
+| Feb 2025 | 0 | 1 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/VedantaEarnings-transcript-Jan31-2025.pdf) |
+| Apr 2025 | 1 | 3 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/Vedanta-CallTranscript-Apr30-2025_v2.pdf) |
+| Aug 2025 | 3 | 2 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Vedanta_Transcript_Jul31_2025.pdf) |
+| Nov 2025 | 4 | 3 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/VEDL_Q2FY26_Transcript.pdf) |
+| Jan 2026 | 8 | 5 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Transcript_29Jan2026.pdf) |
+| Apr 2026 | 4 | 4 | [transcript](https://www.vedantalimited.com/uploads/investor-overview/financial-results/2026/Vedanta-Transcript-Apr29-2026.pdf) |
 
 **The full verbatim text of every exchange is in [companies/VEDL.md](companies/VEDL.md#6-on-the-calls-verbatim).**
 
@@ -2659,26 +2642,20 @@ xychart-beta
 
 | Metric (latest year) | Parent (VEDL) | Vedanta Aluminium Metal Limited (VAML) | Vedanta Power Limited (VEDPOWER) | Vedanta Oil and Gas Limited (VOGL) | Vedanta Iron and Steel Limited (VISL) | Vedanta Property Platforms Limited |
 |---|---:|---:|---:|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* | *its own reported statements* | *its own reported statements* | *its own reported statements* | *segment numbers (Aluminium (Aluminium Underta…* |
+| *Basis* | *reported, consolidated* | *its own reported statements* | *its own reported statements* | *its own reported statements* | *its own reported statements* | *no numbers on file* |
 | Sales (₹ cr) | 78,437 (Mar 2026) | 66,891 (Mar 2026) | 8,799 (Mar 2026) | 9,606 (Mar 2026) | 0 (Mar 2026) | — |
-| Sales growth (%) | 25.1 (Mar 2026) | — | — | — | — | 12.5 (FY2026) |
-| Operating margin (%) | 29.6 (Mar 2026) | 37.6 (Mar 2026) | 17.7 (Mar 2026) | 30.6 (Mar 2026) | — | 38.7 (FY2026) |
-| Operating profit growth (%) | 24.8 (Mar 2026) | — | — | — | — | 43.3 (FY2026) |
+| Sales growth (%) | 25.1 (Mar 2026) | — | — | — | — | — |
+| Operating margin (%) | 29.6 (Mar 2026) | 37.6 (Mar 2026) | 17.7 (Mar 2026) | 30.6 (Mar 2026) | — | — |
+| Operating profit growth (%) | 24.8 (Mar 2026) | — | — | — | — | — |
 | PAT margin (%) | 32 (Mar 2026) | 21.2 (Mar 2026) | -19.2 (Mar 2026) | -5.1 (Mar 2026) | — | — |
-| ROCE % | 16 (Mar 2026) | — | — | — | — | 42.7 (FY2026) |
+| ROCE % | 16 (Mar 2026) | — | — | — | — | — |
 | Debtor Days | 6 (Mar 2026) | — | — | 31 (Mar 2026) | — | — |
 | Inventory Days | 66 (Mar 2026) | — | — | — | — | — |
 | Days Payable | 88 (Mar 2026) | — | — | — | — | — |
 | Cash Conversion Cycle | -16 (Mar 2026) | — | — | 31 (Mar 2026) | — | — |
 | Working Capital Days | -121 (Mar 2026) | — | — | -208 (Mar 2026) | — | — |
-| Debt / equity (x) | 0.7 (Mar 2026) | 1.4 (Sep 2026) | 1.7 (Mar 2025
-            
-            (S)) | 0.1 (Sep 2026) | 0.8 (Sep 2026) | — |
-| Borrowings (₹ cr) | 32,947 (Mar 2026) | 32,849 (Sep 2026) | 6,238 (Mar 2025
-            
-            (S)) | 2,787 (Sep 2026) | 4,663 (Sep 2026) | — |
-| Segment assets / revenue (x) | — | — | — | — | — | 1.2 (FY2026) |
-| Sales (₹ crore) | — | — | — | — | — | 65,847 (FY2026) |
+| Debt / equity (x) | 0.7 (Mar 2026) | 1.4 (Sep 2026) | 1.7 (Mar 2025 (S)) | 0.1 (Sep 2026) | 0.8 (Sep 2026) | — |
+| Borrowings (₹ cr) | 32,947 (Mar 2026) | 32,849 (Sep 2026) | 6,238 (Mar 2025 (S)) | 2,787 (Sep 2026) | 4,663 (Sep 2026) | — |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -2820,11 +2797,11 @@ xychart-beta
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Apollo Healthtech Limited | "The turnover of the Identified Business Undertaking I deme… | 0.86% | 42.8% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Apollo Healthtech Limited | "The turnover of the Identified Business Undertaking I deme… | 0.86% (share of turnover) | — | — | 42.8% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹122,591 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹122,591 cr, whole ₹122,591 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Identified Business Undertaking I demerged division for the year ended March 31, 2025 was INR 70.13 Crores representing 0.86% of the total standalone turnover of the Company for the year ended March 31, 2025.”
 
@@ -3140,11 +3117,11 @@ xychart-beta
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Kwality Wall's (India) Limited | INR 1,595 Crores for the year ended 31st March, 2024 (turno… | 2.7% | 1.9% (FY2026) | 9,871 | 2.1% | no |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Kwality Wall's (India) Limited | INR 1,595 Crores for the year ended 31st March, 2024 (turno… | 2.7% (share of turnover) | 9,871 | 2.1% | 1.9% (FY2026) | no | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹468,250 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹468,250 cr, whole ₹478,121 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Ice Cream Business Undertaking for the year ended 31st March, 2024 was INR 1,595 Crores representing 2.7% of the total standalone turnover of the Company for the year ended 31st March, 2024”
 
@@ -3397,8 +3374,6 @@ xychart-beta
 | **Digitide Solutions Limited** | 2025 three-way demerger (Composite Scheme of Arrangement be… | Demerged Undertaking 1 / Transferred Business 1: BPM Services, Insurtech and HRO — Conneqt, Allsec, Brainhunt… | listed 2025-06-11 as DIGITIDE (NSE) | Gurmeet Chahal, CEO; Suraj Prasad, CFO |
 | **Bluspring Enterprises Limited** | 2025 three-way demerger (Composite Scheme of Arrangement be… | Demerged Undertaking 2 / Transferred Business 2: infra services — Facility Management, Food Services, Securit… | listed 2025-06-11 as BLUSPRING (NSE) | Kamal Pal Hoda, CEO (elevated from Group CFO of Q… |
 
-**The other parties to the scheme(s)** — not separated entities: Thomas Cook (India) Limited (THOMASCOOK) — the company this one was spun out of
-
 **What is being separated, as the documents put it:** Digitide Solutions (technology/BPM) and Bluspring Enterprises (industrial/facility services) separated from Quess, leaving a pure-play workforce staffing company — class `value_unlocking`.
 
 ### 2. Stages and dates
@@ -3437,14 +3412,14 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: BY ENTITY — Digitide Solutions Limited: likely (11.0% of the whole, by market value); Bluspring Enterprises Limited: possible (28.7% of the whole, by market value).**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Digitide Solutions Limited | Global Technology Solutions / Global Technology Services pl… | — | 13.6% (FY2024) | 934 | 15.4% | no |
-| Bluspring Enterprises Limited | Operating Asset Management platform revenue FY24 ₹2,801 cr … | — | 13.6% (FY2024) | 2,433 | 32.2% | no |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Digitide Solutions Limited | Global Technology Solutions / Global Technology Services pl… | 26.47% (cost-of-acquisition split) | 934 | 11.0% | 48.2% (FY2024) | no | likely |
+| Bluspring Enterprises Limited | Operating Asset Management platform revenue FY24 ₹2,801 cr … | 31.82% (cost-of-acquisition split) | 2,433 | 28.7% | 50.8% (FY2024) | no | possible |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,118 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹5,118 cr, whole ₹8,485 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"For the purpose of determining the cost of acquisition of equity shares of the Company, Digitide and Bluspring (post demerger), you are advised to apportion your cost of acquisition of equity shares in the Company in the following manner: 1. Quess Corp Limited 41.71% 2. Digitide Solutions Limited 26.47% 3. Bluspring Enterprises Limited 31.82%" (apportionment of % of Cost of Acquisition of Equity Shares of the Company, filing dated 14 April 2025). Segment revenues FY24, as reported: Workforce Management ₹13,442 cr, Global Technology Services ₹2,340 cr, Operating Asset Management ₹2,801 cr, Product Led Business ₹517 cr.”
 
@@ -3824,11 +3799,11 @@ xychart-beta
 
 **Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Siemens Energy India Limited | The turnover [sales (excluding other operating revenues)] o… | 34.0% | 41.7% (FY2024) | 111,320 | 46.1% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Siemens Energy India Limited | The turnover [sales (excluding other operating revenues)] o… | 34.0% (share of turnover) | 111,320 | 46.1% | 47.9% (FY2024) | yes | possible |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹130,340 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹130,340 cr, whole ₹241,660 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover [sales (excluding other operating revenues)] of the Energy Business for FY 2022-23 stood at Rs. 59,869 million. This represents 34% of the total turnover of the Company for FY 2022-23.”
 
@@ -3889,12 +3864,12 @@ Siemens Ltd. has separated two businesses, and the one management explained in t
 
 ### 6. On the calls, verbatim
 
-5 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 15 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+5 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 11 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
 | May 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f0d19dfa-6df4-4e8d-8e29-373746233b5e.pdf) |
-| Dec 2024 | 0 | 11 | [transcript](https://assets.new.siemens.com/siemens/assets/api/uuid:dc7b02ca-736c-4db6-8118-da2b47754aa6/Analyst-Call-Transcript-website.pdf) |
+| Dec 2024 | 0 | 7 | [transcript](https://assets.new.siemens.com/siemens/assets/api/uuid:dc7b02ca-736c-4db6-8118-da2b47754aa6/Analyst-Call-Transcript-website.pdf) |
 | May 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ae69c31-b96b-4781-9858-035146160df1.pdf) |
 | Dec 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=82783258-f887-444b-a6f1-cbeaf34f0b62.pdf) |
 | Jun 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8a31e42-7fdf-46ab-8ac9-a4540a097f8b.pdf) |
@@ -4153,11 +4128,11 @@ xychart-beta
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| SKF India (Industrial) Limited | "The turnover of the Demerged Undertaking of the Company fo… | 63.0% | 64.9% (FY2025) | 12,415 | 63.1% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| SKF India (Industrial) Limited | "The turnover of the Demerged Undertaking of the Company fo… | 63.0% (share of turnover) | 12,415 | 63.1% | 64.9% (FY2025) | yes | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,246 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹7,246 cr, whole ₹19,661 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31st March 2024 was approximately Rs. 28,978.7 Million, representing 63% of the total turnover of the Company for the said year.”
 
@@ -4226,21 +4201,18 @@ SKF India separated its Industrial bearings business out of the listed company i
 
 ### 6. On the calls, verbatim
 
-11 call(s), oldest first: **86 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 123 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+8 call(s), oldest first: **26 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 22 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Feb 2024 | 0 | 73 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f9dd3070-f0be-4441-b8b3-290f7ea5eae3.pdf) |
-| Aug 2024 | 10 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=802e8a3b-6fa1-470a-9190-6b5b7d425c97.pdf) |
-| Aug 2024 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=802e8a3b-6fa1-470a-9190-6b5b7d425c97.pdf) |
-| Feb 2025 | 31 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=458af4e6-8be5-4ce2-b4f1-119e53cd4c5a.pdf) |
-| Apr 2025 | 6 | 3 | — |
-| May 2025 | 17 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78b3fd3b-6609-4f9b-ac56-5ec9fc26a320.pdf) |
-| Jul 2025 | 0 | 29 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3d94636c-b87c-4f11-91b6-556b4efcce20.pdf) |
-| Aug 2025 | 11 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6801dc1e-769f-42ac-9ea4-5ada85787e74.pdf) |
-| Aug 2025 | 0 | 4 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6801dc1e-769f-42ac-9ea4-5ada85787e74.pdf) |
+| Feb 2025 | 9 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=458af4e6-8be5-4ce2-b4f1-119e53cd4c5a.pdf) |
+| Apr 2025 | 3 | 3 | — |
+| May 2025 | 3 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78b3fd3b-6609-4f9b-ac56-5ec9fc26a320.pdf) |
+| Jul 2025 | 0 | 5 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3d94636c-b87c-4f11-91b6-556b4efcce20.pdf) |
+| Aug 2025 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6801dc1e-769f-42ac-9ea4-5ada85787e74.pdf) |
+| Aug 2025 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6801dc1e-769f-42ac-9ea4-5ada85787e74.pdf) |
 | Aug 2025 | 0 | 7 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6801dc1e-769f-42ac-9ea4-5ada85787e74.pdf) |
-| May 2026 | 11 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa739605-3c56-43bc-8950-6cc1db2e700e.pdf) |
+| May 2026 | 8 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fa739605-3c56-43bc-8950-6cc1db2e700e.pdf) |
 
 **The full verbatim text of every exchange is in [companies/SKFINDIA.md](companies/SKFINDIA.md#6-on-the-calls-verbatim).**
 
@@ -4468,11 +4440,11 @@ xychart-beta
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Tata Motors Limited | "total income relating to Commercial Vehicles Business was … | 99.0% | 20.5% (FY2025) | 159,667 | 60.1% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Tata Motors Limited | "total income relating to Commercial Vehicles Business was … | 99.0% (share of turnover) | 159,667 | 60.1% | 20.5% (FY2025) | yes | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹105,853 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹105,853 cr, whole ₹265,521 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “As per audited standalone financial statements as at March 31, 2024, Tata Motors Limited's ("the Company"/ "TML") total income relating to Commercial Vehicles Business was ₹ 73,116.64 crore, representing ~99% of the total income for FY 2023-24.”
 
@@ -4793,11 +4765,11 @@ xychart-beta
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Ashok Cloud Private Limited | Demerged Undertaking turnover 145.90 crores as on March 31,… | 8.96% | 7.0% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Ashok Cloud Private Limited | Demerged Undertaking turnover 145.90 crores as on March 31,… | 8.96% (share of turnover) | — | — | 7.0% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹17,222 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹17,222 cr, whole ₹17,222 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “As on March 31, 2026: Particulars Turnover* (in Crores) / Demerged Undertaking 145.90 / Total 1627.72 / Percentage 8.96% . *The turnover has been calculated after taking impact of Part -II of the Composite Scheme i.e. the merger of ARCPL with ARL through aggregation of the turnover of ARCPL and ARL”
 
@@ -5069,11 +5041,11 @@ xychart-beta
 
 **Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Advent Hotels International Limited | Turnover of the Demerged Undertaking for the year ended 31s… | 13.23% | 32.3% (FY2025) | 633 | 12.2% | no |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Advent Hotels International Limited | Turnover of the Demerged Undertaking for the year ended 31s… | 13.23% (share of turnover) | 633 | 12.2% | 32.3% (FY2025) | no | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹4,558 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹4,558 cr, whole ₹5,192 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking for the year ended 31st March, 2024 was Rs. 47.29 Crores on a consolidated basis representing 13.23% of the total consolidated turnover of the Company for the year ended 31st March, 2024.”
 
@@ -5329,11 +5301,11 @@ xychart-beta
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Pricol Autotech Limited | "The turnover of the DICVS Business  for the financial year… | 61.17% | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Pricol Autotech Limited | "The turnover of the DICVS Business  for the financial year… | 61.17% (share of turnover) | — | — | — | not listed | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,115 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,115 cr, whole ₹9,115 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the DICVS Business  for the financial year ending March 31, 2026, stood at INR 2,424.63  crores. This represents 61.17%  of the total consolidated turnover of the Company for the financial year ending March 31, 2026 .”
 
@@ -5547,11 +5519,11 @@ Only the parent's figures are on file: Sales (₹ cr) 4,041 (Mar 2026); Sales gr
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Religare Finvest Limited | The turnover of the Demerged Undertaking for the year ended… | 6.2% | 6.4% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Religare Finvest Limited | The turnover of the Demerged Undertaking for the year ended… | 6.2% (share of turnover) | — | — | 17.1% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,982 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹7,982 cr, whole ₹7,982 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking for the year ended 31 March, 2025 was INR 457.29 Crores on a consolidated basis representing 6.2% of the total consolidated turnover of the Company for the year ended 31 March, 2025.”
 
@@ -6221,11 +6193,11 @@ Only the parent's figures are on file: Sales (₹ cr) 3,440 (Mar 2026); Sales gr
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| OneSource Specialty Pharma Limited | not stated | — | — | 18,463 | 66.4% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| OneSource Specialty Pharma Limited | not stated | — | 18,463 | 66.4% | — | yes | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,352 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,352 cr, whole ₹27,815 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “Delivering Strides' shareholders an embedded value of INR 663 per share for Strides' holding in OneSource, representing a ~82% premium over the previous embedded value of INR 364 per share as per the Scheme of Arrangement announced earlier in September'23. | "The transaction will unlock ~INR 61,000 mn (~USD 725 mn) of value for Strides' shareholders." | For Pivot Path: "Turnover ... Rs. 1,447 million (including revenues for services rendered to Strides) (Contributes 3% to Strides Turnover)" and "Networth Rs. 100 million (Contributes ~0.3% to Strides Networth) ... Rs. 360 million (Contributes 1% to Strides Networth)"”
 
@@ -6763,11 +6735,11 @@ Only the parent's figures are on file: Debtor Days 12 (Mar 2026); Inventory Days
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Harita ARC Limited | "The turnover of the Demerged Undertaking for the period en… | — | 0.0% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Harita ARC Limited | "The turnover of the Demerged Undertaking for the period en… | — | — | — | 0.0% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹213,552 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹213,552 cr, whole ₹213,552 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking for the period ended 30th September 2026 was Rs. 3,921  Crore out of the total turnover of Rs. 35,770 Crore of the Company .”
 
@@ -7108,14 +7080,14 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: BY ENTITY — Ennature Bio Pharma Limited: very likely (5.8% of the whole, by market value); IGL Spirits Limited: less likely on size alone (68.4% of the whole, by market value).**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Ennature Bio Pharma Limited | Biopharma Undertaking turnover as per FY 23-24 financials I… | 3.16% | 5.8% (FY2026) | 467 | 18.3% | no |
-| IGL Spirits Limited | Spirits and Biofuel Undertaking turnover as per FY 23-24 fi… | 78.15% | 66.5% (FY2026) | 5,521 | 72.6% | no |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Ennature Bio Pharma Limited | Biopharma Undertaking turnover as per FY 23-24 financials I… | 3.16% (share of turnover) | 467 | 5.8% | 10.8% (FY2026) | no | very likely |
+| IGL Spirits Limited | Spirits and Biofuel Undertaking turnover as per FY 23-24 fi… | 78.15% (share of turnover) | 5,521 | 68.4% | 266.4% (FY2026) | no | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹2,087 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹2,087 cr, whole ₹8,074 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"Turnover of the demerged division and as percentage to the total turnover of the listed entity in the immediately preceding financial year / based on financials of the last financial year" — "Particulars | Turnover as per FY 23-24 financials in INR Crs | % : Biopharma Undertaking 250.47 3.16%; Spirits and Biofuel Undertaking 6,188.82 78.15%; Remaining business 1,479.48 18.69%; Total 7,918.77 100%" (Scheme of Arrangement intimation, 16th May 2025). Quarterly: "India Glycols reported a net revenue to Rs 345 crore in the June 2026 quarter."; "IGL Spirits Limited reported a net revenue to Rs 694 crore in the June 2026 quarter."; "Ennature Bio Pharma reported a net revenue to Rs 90 crore in the June 2026 quarter." Cost of acquisition apportionment: "1. India Glycols Limited 31.77% 2. Ennature Bio Pharma Limited 20.61% 3. IGL Spirits Limited 47.62%"”
 
@@ -7193,21 +7165,21 @@ Management presented the separation as a focus-and-investor-base argument, not a
 
 ### 6. On the calls, verbatim
 
-11 call(s), oldest first: **32 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 44 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+11 call(s), oldest first: **19 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 28 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
 | Nov 2023 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=43cf98b1-158d-4aa9-9a57-e8d74c011449.pdf) |
-| Feb 2024 | 0 | 7 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=938871a7-abe3-4aec-a16d-ed622582e084.pdf) |
-| Jun 2024 | 0 | 6 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=47d07394-61eb-4ec4-8e04-35c30855d685.pdf) |
-| Aug 2024 | 0 | 6 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab5c2dd-5699-4ed5-8c94-5842dd2bb5cb.pdf) |
-| Nov 2024 | 0 | 8 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7af74fac-28a7-4606-9be7-11c176ebaba8.pdf) |
-| Feb 2025 | 11 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1385769f-cd04-4add-bcad-ce6e44567146.pdf) |
-| May 2025 | 8 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d532715b-c088-4be2-b619-e7a41528d1e7.pdf) |
-| Aug 2025 | 3 | 1 | — |
-| Nov 2025 | 3 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c9d5844-41a1-4f6e-9b31-893a125e6567.pdf) |
-| Feb 2026 | 3 | 4 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=203f7ec9-7aed-4447-a8fd-baa9312eabd6.pdf) |
-| Jun 2026 | 4 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee0fd2a1-60d1-4359-bc99-952a6b3e22b8.pdf) |
+| Feb 2024 | 0 | 4 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=938871a7-abe3-4aec-a16d-ed622582e084.pdf) |
+| Jun 2024 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=47d07394-61eb-4ec4-8e04-35c30855d685.pdf) |
+| Aug 2024 | 0 | 4 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab5c2dd-5699-4ed5-8c94-5842dd2bb5cb.pdf) |
+| Nov 2024 | 0 | 4 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7af74fac-28a7-4606-9be7-11c176ebaba8.pdf) |
+| Feb 2025 | 6 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1385769f-cd04-4add-bcad-ce6e44567146.pdf) |
+| May 2025 | 3 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d532715b-c088-4be2-b619-e7a41528d1e7.pdf) |
+| Aug 2025 | 2 | 1 | — |
+| Nov 2025 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2c9d5844-41a1-4f6e-9b31-893a125e6567.pdf) |
+| Feb 2026 | 3 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=203f7ec9-7aed-4447-a8fd-baa9312eabd6.pdf) |
+| Jun 2026 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee0fd2a1-60d1-4359-bc99-952a6b3e22b8.pdf) |
 
 **The full verbatim text of every exchange is in [companies/INDIAGLYCO.md](companies/INDIAGLYCO.md#6-on-the-calls-verbatim).**
 
@@ -7531,7 +7503,7 @@ xychart-beta
 |---|---|---|---|---|
 | **Inox Renewable Solutions Limited** (earlier Resco Global Wind Services Limited) | 2024 demerger of Power Evacuation Business from Inox Green … | Power Evacuation Business Undertaking — all assets and liabilities of the Demerged Company pertaining to the … | to be listed — "Yes. The equity shares to be issued by Resc… | not stated (Mr. Heera Lal is the Authorized Signa… |
 
-**The other parties to the scheme(s)** — not separated entities: Inox Wind Limited (INOXWIND) — the company this one was spun out of; Inox Clean Energy Limited — merged in — no shares for the parent's holders; Inox Neo Energies Private Limited — merged in — no shares for the parent's holders; Flurry Wind Energy Private Limited — merged in — no shares for the parent's holders; Flutter Wind Energy Private Limited — merged in — no shares for the parent's holders
+**The other parties to the scheme(s)** — not separated entities: Inox Clean Energy Limited — merged in — no shares for the parent's holders; Inox Neo Energies Private Limited — merged in — no shares for the parent's holders; Flurry Wind Energy Private Limited — merged in — no shares for the parent's holders; Flutter Wind Energy Private Limited — merged in — no shares for the parent's holders
 
 **What is being separated, as the documents put it:** The Power Evacuation Business (substation/evacuation infrastructure undertaking) of Inox Green, demerged into Inox Renewable Solutions Limited — class `value_unlocking`.
 
@@ -7578,11 +7550,11 @@ xychart-beta
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Inox Renewable Solutions Limited | "Turnover* of Power Evacuation Business as on 31st March 20… | 6.19% | 5.2% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Inox Renewable Solutions Limited | "Turnover* of Power Evacuation Business as on 31st March 20… | 6.19% (share of turnover) | — | — | 5.2% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹4,706 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹4,706 cr, whole ₹4,706 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"Turnover* of Power Evacuation Business as on 31St March 2024 (Rs. in Crore) 14.93 | Percentage to the total turnover of IGESL as on 31st March 2024 6.19% | *On standalone basis"; and from the Q4 FY'26 call: "With this gross block of approximately INR1,000 crores has been eliminated from Inox Green's balance sheet. And subsequently, the annual depreciation of approximately INR50 crores to INR55 crores has been eliminated, thereby increasing the profitability."”
 
@@ -7645,18 +7617,18 @@ The separation is the demerger of Inox Green Energy Services Ltd's (IGESL) power
 
 ### 6. On the calls, verbatim
 
-8 call(s), oldest first: **21 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 15 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+8 call(s), oldest first: **16 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 13 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
 | Nov 2023 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78c2f017-6d71-4c74-bb9e-44b23bfca78e.pdf) |
-| Aug 2024 | 4 | 1 | [transcript](https://inoxgreen.com/PDF/MOSL-InoxGreenEnergy-Aug09-2024_IGESL.pdf) |
+| Aug 2024 | 3 | 1 | [transcript](https://inoxgreen.com/PDF/MOSL-InoxGreenEnergy-Aug09-2024_IGESL.pdf) |
 | Nov 2024 | 0 | 1 | [transcript](https://www.inoxgreen.com/PDF/MOSL-InoxGreenEnergy-Oct25-2024.pdf) |
 | Feb 2025 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a6149a06-42db-4b82-ae77-0dc15e5abe49.pdf) |
-| Sep 2025 | 3 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac349021-05a3-4a4e-84a8-edb5f23d90bd.pdf) |
-| Nov 2025 | 1 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12a9f200-8091-44c1-a30e-eb06b0e51134.pdf) |
-| Feb 2026 | 4 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d934a5d2-25cf-4a13-92c1-68d279362ad8.pdf) |
-| Jun 2026 | 5 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78c64939-3c62-49ac-9827-562fd6465a1b.pdf) |
+| Sep 2025 | 2 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac349021-05a3-4a4e-84a8-edb5f23d90bd.pdf) |
+| Nov 2025 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12a9f200-8091-44c1-a30e-eb06b0e51134.pdf) |
+| Feb 2026 | 3 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d934a5d2-25cf-4a13-92c1-68d279362ad8.pdf) |
+| Jun 2026 | 4 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=78c64939-3c62-49ac-9827-562fd6465a1b.pdf) |
 
 **The full verbatim text of every exchange is in [companies/INOXGREEN.md](companies/INOXGREEN.md#6-on-the-calls-verbatim).**
 
@@ -7871,11 +7843,11 @@ xychart-beta
 
 **Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Piccadily Food & Essentials Limited | "The turnover of the Demerged Undertaking of the Company fo… | 20.53% | 22.5% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Piccadily Food & Essentials Limited | "The turnover of the Demerged Undertaking of the Company fo… | 20.53% (share of turnover) | — | — | 22.5% (FY2026) | not listed | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,444 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹5,444 cr, whole ₹5,444 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31% March 2026 is as follows: (Rs. In Lakh) | Financial Year: 2026 | Turnover of the demerged division: 233.05 | Percentage to the total turnover of the listed entity: 20.53%”
 
@@ -8150,11 +8122,11 @@ xychart-beta
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Sterling Holiday Resorts Limited | SHRL FY26 total revenue INR 5,487 million; Q4 FY26 total re… | 0.4% | 6.6% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Sterling Holiday Resorts Limited | SHRL FY26 total revenue INR 5,487 million; Q4 FY26 total re… | 0.4% (share of turnover) | — | — | 6.7% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,168 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹5,168 cr, whole ₹5,168 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"The turnover of the Demerged Undertaking for the year ended 31st December 2025 was INR 70 Crores representing ~0.4% of the total standalone turnover of the Company for the year ended 31st December 2025." (Also, on the merger leg: "Paid up capital of following companies as on 31 March 2025: a) TCVSL : Rs. 0.05 cr b) JTSL : Rs. 1 cr c) BTSL : Rs. 0.05 cr d) TCIL : Rs. 47.04 cr. Turnover of following companies for the year ended 31 March 2025: a) TCVSL : Rs. 1.2 cr b) JTSL : Nil c) BTSL : Nil d) TCIL : Rs. 2,243.97 cr")”
 
@@ -8483,11 +8455,11 @@ xychart-beta
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| HEG Limited | "The turnover of the Demerged Undertaking i.e. Graphite Bus… | 94.41% | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| HEG Limited | "The turnover of the Demerged Undertaking i.e. Graphite Bus… | 94.41% (share of turnover) | — | — | — | not listed | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹9,163 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹9,163 cr, whole ₹9,163 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"The turnover of the Demerged Undertaking i.e. Graphite Business of the Company, as on 31st March, 2024 was INR 2,394.90 crore. The turnover of the Graphite Business is 94.41% to the total turnover of the Company in the financial year ending 31st March, 2024." (Modified Scheme disclosure, 10 March 2025; identical statement in the 22 May 2024 disclosure). The 2026 cost-of-acquisition guidance apportions shareholders' pre-demerger cost 27.60% to HEG Advanced Materials Limited (formerly HEG Limited) and 72.40% to HEG Graphite Limited.”
 
@@ -8723,9 +8695,8 @@ No stored cash-flow statement for this symbol.
 | Entity | Scheme | Business | Listing | Who runs it |
 |---|---|---|---|---|
 | **Lloyds Realty Limited** | 2025 Composite Scheme of Arrangement (board approved 22 Dec… | Real Estate Business Undertaking of Lloyds Enterprises Limited — real estate development across the Mumbai Me… | to be listed | not stated |
-| **Steel Infra Solutions Company Limited** | 2026 acquisition of 88.12% of Steel Infra Solutions Company… | Heavy steel fabrication and infrastructure solutions across energy, infrastructure and industrial segments; s… | to be listed | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Lloyds Realty Developers Limited — merged in — no shares for the parent's holders; Indrajit Properties Private Limited — merged in — no shares for the parent's holders; Lloyds Infrastructure & Construction Limited — merged in — no shares for the parent's holders; Metalfab Hightech Private Limited — merged in — no shares for the parent's holders; Techno Industries Private Limited — merged in — no shares for the parent's holders
+**The other parties to the scheme(s)** — not separated entities: Lloyds Realty Developers Limited — merged in — no shares for the parent's holders; Indrajit Properties Private Limited — merged in — no shares for the parent's holders; Lloyds Infrastructure & Construction Limited — merged in — no shares for the parent's holders; Metalfab Hightech Private Limited — merged in — no shares for the parent's holders; Techno Industries Private Limited — merged in — no shares for the parent's holders; Steel Infra Solutions Company Limited — no listing of it on the record
 
 **What is being separated, as the documents put it:** The Real Estate Business Undertaking of Lloyds Enterprises Limited, demerged into Lloyds Realty Limited, a new unlisted resulting company — class `value_unlocking`.
 
@@ -8762,20 +8733,17 @@ No stored cash-flow statement for this symbol.
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Lloyds Realty Limited | not stated for the Real Estate Business Undertaking as such… | — | 3.8% (FY2026) | — | — | not listed |
-| Steel Infra Solutions Company Limited | Turnover: Rs. 816.87 Crores and Net Profit: Rs. 43.42 Crore… | — | — | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Lloyds Realty Limited | not stated for the Real Estate Business Undertaking as such… | — | — | — | 3.8% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹10,184 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹10,184 cr, whole ₹10,184 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **The judge's read of selling pressure:** likely — Small real-estate entity split from a trading/engineering-and-investment holding company; newly listed, in no index; shares frozen until listing permission
 
 ### 4. Insider ownership — share swap, promoters' holding, management incentives
 
-**Share swap / entitlement, entity by entity:**
-
-- **Steel Infra Solutions Company Limited:** Acquisition of 3,57,80,117 equity shares (88.12%) for about Rs. 1,073.40 Cr: Lloyds Enterprises Limited 73,00,000 shares (17.98%) in cash for about Rs. 219 Cr; Lloyds Engineering Works Limited up to 2,11,80,117 shares (52.16%) partly cash (Rs. 1,31,84,72,100 for 43,94,907 shares) and partly share swap (LEWL to issue and allot 7,06,74,554 equity shares on a preferential basis at INR 71.25 per equity share for up to 1,67,85,210 SISCOL shares); Streamland Estate LLP 73,00,000 shares (17.98%) in cash for about Rs. 219 Cr
+**Share swap / entitlement:** 1 for every 2
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -8880,7 +8848,7 @@ xychart-beta
 
 **The business being separated — its own numbers**, entity by entity: its reported statements once it is listed and on file, and the segment numbers the annual reports and presentations carry for it before that.
 
-**Real Estate (reportable segment in consolidated segment reporting; "Real estate" in FY2024) → Lloyds Realty Limited (Resulting Company) — real estate subsidiaries Lloyds Realty Developers Limited and Indrajit Properties Private Limited to be merged into LEL first, then the Real Estate Business demerged** · unit ₹ lakh · Profit line is the segment result labelled "Operating Net Profit" (before finance cost, before tax). Revenue is external sales; no inter-division/inter-company transfer shown for real estate in any year. Segment PBT after finance cost: FY2024 ₹(130.98) lakh, FY2025 ₹1,330.14 lakh, FY2026 ₹83 lakh (₹0.83 crore, after an exceptional item of ₹(4.09) crore). No segment PAT, capex or depreciation disclosed. One unit used throughout: FY2024/FY2025 as printed in ₹ lakh; FY2026, printed in ₹ crore, multiplied by 100 to ₹ lakh.
+**Real Estate (reportable segment) — "Real estate" / "Real Estate" in the consolidated segment note; described as "Real Estate — Lloyds Realty Developers Limited (LRDL)" in the FY26 Business Segment Review → Lloyds Realty Limited (Resulting Company; the Real Estate Business Undertaking demerged after merging Lloyds Realty Developers Limited and Indrajit Properties Private Limited into LEL)** · unit ₹ lakh · Consolidated IND AS-108 segment note. Revenue is external sales (no inter-division/inter-company transfer shown for Real Estate in any year). operating_profit = segment 'Operating Net Profit' (segment result before finance cost and tax). Profit before tax after finance cost: FY2024 (130.98) loss, FY2025 1,330.14, FY2026 83 (₹0.83 Cr, incl. exceptional item (4.09) Cr). Assets/liabilities are segment assets and segment liabilities. UNIT NOTE: FY2024 and FY2025 are printed in ₹ lakh and are given exactly as printed; the FY2026 consolidated segment table is printed in ₹ crore and has been converted ×100 (exact) to keep one unit. As printed in ₹ crore for FY2026: external revenue 66.91, operating net profit 5.70, PBT 0.83, segment assets 1,293.06, segment liabilities 854.12.
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -8898,34 +8866,34 @@ xychart-beta
 | Segment assets / revenue (x) | 31.4 | 8.6 | 19.3 |
 | Capex (₹ lakh) | — | — | — |
 
-*Sources:* Annual Report 2024 — page 169; Annual Report 2025 — page 230; Annual Report 2026 — page 300 (printed as ₹66.91 cr revenue, ₹5.70 cr operating net profit, ₹1,293.06 cr assets, ₹854.12 cr liabilities)
+*Sources:* Annual Report 2024 — page 169; Annual Report 2025 — page 230; Annual Report 2026 — page 300 (printed in ₹ crore: 66.91 / 5.70 / 1,293.06 / 854.12)
 
-*Not in the pages read:* No quarterly/half-year real-estate segment revenue or profit; no PAT, capex, depreciation; no standalone LRDL or Indrajit Properties financials (only ~1.75 cr sq ft pipeline, ₹3,500 cr value delivered).
+*Not in the pages read:* No segment PAT, capex or depreciation; no quarterly real-estate revenue/profit (Q1/Q2 FY27 decks give only pipeline, sq ft and demerger status).
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 5 presentation(s) on file):* No own numbers for: Lloyds Realty Limited (shell resulting company, pre-demerger); Lloyds Realty Developers Limited standalone; Indrajit Properties Private Limited; Real Estate Business Undertaking as defined in the Scheme. Pages carry only the consolidated Real Estate segment.
+*Businesses with no numbers in the pages read (3 annual report(s) and 5 presentation(s) on file):* Lloyds Realty Developers Limited and Indrajit Properties Private Limited: no entity-level revenue, profit, asset or liability figures on these pages — only the group Real Estate segment and qualitative pipeline/delivery data.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/82f67229-7245-4268-a22b-49994f6ffe86.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/5408c4f6-594d-400d-aadf-28e17b39561e.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/a7a8ca2e-3583-4f27-aebb-5b7d1f551745.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fdabd7ba-7d33-4b1c-a882-21e996f77334.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f5d58a2-e1d3-465f-adc5-9ae67e65228e.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1ab3a8e5-a800-4b69-b625-35fe1fc04a32.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ab99cba-2335-421f-95ed-9aed16902edd.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=66a44a24-9f87-4f73-b5b6-0a3bbb213a59.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (LLOYDSENT) | Lloyds Realty Limited | Steel Infra Solutions Company Limited |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *segment numbers (Real Estate (reportable segm…* | *no numbers on file* |
-| Sales (₹ cr) | 1,756 (Mar 2026) | — | — |
-| Sales growth (%) | 18 (Mar 2026) | -20.2 (FY2026) | — |
-| Operating margin (%) | 6.7 (Mar 2026) | 8.5 (FY2026) | — |
-| Operating profit growth (%) | -0.8 (Mar 2026) | -62.9 (FY2026) | — |
-| PAT margin (%) | 23.7 (Mar 2026) | — | — |
-| ROCE % | 4 (Mar 2025) | 1.3 (FY2026) | — |
-| Debtor Days | 56 (Mar 2026) | — | — |
-| Inventory Days | 188 (Mar 2026) | — | — |
-| Days Payable | 74 (Mar 2019) | — | — |
-| Cash Conversion Cycle | 170 (Mar 2026) | — | — |
-| Working Capital Days | 198 (Mar 2026) | — | — |
-| Debt / equity (x) | 0.2 (Mar 2026) | — | — |
-| Borrowings (₹ cr) | 798 (Mar 2026) | — | — |
-| Segment assets / revenue (x) | — | 19.3 (FY2026) | — |
-| Sales (₹ lakh) | — | 6,691 (FY2026) | — |
+| Metric (latest year) | Parent (LLOYDSENT) | Lloyds Realty Limited |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *segment numbers (Real Estate (reportable segm…* |
+| Sales (₹ cr) | 1,756 (Mar 2026) | — |
+| Sales growth (%) | 18 (Mar 2026) | -20.2 (FY2026) |
+| Operating margin (%) | 6.7 (Mar 2026) | 8.5 (FY2026) |
+| Operating profit growth (%) | -0.8 (Mar 2026) | -62.9 (FY2026) |
+| PAT margin (%) | 23.7 (Mar 2026) | — |
+| ROCE % | 4 (Mar 2025) | 1.3 (FY2026) |
+| Debtor Days | 56 (Mar 2026) | — |
+| Inventory Days | 188 (Mar 2026) | — |
+| Days Payable | 74 (Mar 2019) | — |
+| Cash Conversion Cycle | 170 (Mar 2026) | — |
+| Working Capital Days | 198 (Mar 2026) | — |
+| Debt / equity (x) | 0.2 (Mar 2026) | — |
+| Borrowings (₹ cr) | 798 (Mar 2026) | — |
+| Segment assets / revenue (x) | — | 19.3 (FY2026) |
+| Sales (₹ lakh) | — | 6,691 (FY2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -8933,11 +8901,10 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Steel (standalone metals trading business; "Steel" reportable segment) | 76,582 | 38.9% | 9.0% | 4.59x | ₹ lakh | FY2026 |
-| Engineering (via Lloyds Engineering Works Limited) | 126,727 | 14.0% | 12.2% | 1.7x | ₹ lakh | FY2026 |
+| Steel | 76,582 | 38.9% | 9.0% | 4.59x | ₹ lakh | FY2026 |
+| Engineering | 126,727 | 14.0% | 12.2% | 1.7x | ₹ lakh | FY2026 |
 | Electrical | 18,726 | 7.2% | 16.5% | 1.29x | ₹ lakh | FY2026 |
 | Steel and Engineering Products | 94,095 | 9.7% | 8.5% | 1.96x | ₹ lakh | FY2024 |
-| Steel Infra Solutions Company Limited (SISCOL) — full-stack structural steel / heavy steel fabrication | 817 | — | — | — | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
@@ -9009,12 +8976,12 @@ xychart-beta
 
 **Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| MSL Seamless Tubes Limited | Demerged Undertaking 1: 793 (Operational Turnover for FY 20… | 16.98% | 1.7% (FY2026) | — | — | not listed |
-| United Seamless Limited | Demerged Undertaking 2: 693 (Operational Turnover for FY 20… | 14.84% | 1.7% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| MSL Seamless Tubes Limited | Demerged Undertaking 1: 793 (Operational Turnover for FY 20… | 16.98% (share of turnover) | — | — | 1.7% (FY2026) | not listed | likely |
+| United Seamless Limited | Demerged Undertaking 2: 693 (Operational Turnover for FY 20… | 14.84% (share of turnover) | — | — | 1.7% (FY2026) | not listed | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,248 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹7,248 cr, whole ₹7,248 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “Particulars / Operational Turnover for FY 2025 - 26 (Rs. crores) / Percentage (%): Demerged Undertaking 1 793 16.98%; Demerged Undertaking 2 693 14.84%; Remaining 3185 68.18%; Total 4671 100.00%”
 
@@ -9081,7 +9048,7 @@ This is not a sale but a three-way split by demerger: a Scheme of Arrangement ap
 
 ### 6. On the calls, verbatim
 
-8 call(s), oldest first: **13 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 0 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+7 call(s), oldest first: **11 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 0 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
@@ -9091,8 +9058,7 @@ This is not a sale but a three-way split by demerger: a Scheme of Arrangement ap
 | Nov 2024 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=527a8802-c766-46b3-bf40-c501d9bde473.pdf) |
 | Feb 2025 | 2 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daab9f9c-f377-44ab-81ff-c957deffd107.pdf) |
 | Aug 2025 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f4e9de0-b4a6-4b5e-9282-3cedd1bc0c79.pdf) |
-| Nov 2025 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=92cac794-00b8-4e60-be7b-2e45526b6464.pdf) |
-| Feb 2026 | 3 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f71803d8-c20b-4934-a1c6-184365d050a4.pdf) |
+| Feb 2026 | 2 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f71803d8-c20b-4934-a1c6-184365d050a4.pdf) |
 
 **The full verbatim text of every exchange is in [companies/MAHSEAMLES.md](companies/MAHSEAMLES.md#6-on-the-calls-verbatim).**
 
@@ -9305,7 +9271,7 @@ xychart-beta
 
 ### 2. Stages and dates
 
-> **Listing:** LISTED — Raymond Realty Limited (RAYMONDREL) since 2025-07-01; Raymond Lifestyle Limited (RAYMONDLSL) since 2024-09-05 (NSE equity list); record date 2025-05-14
+> **Listing:** LISTED — Raymond Lifestyle Limited (RAYMONDLSL) since 2024-09-05; Raymond Realty Limited (RAYMONDREL) since 2025-07-01 (NSE equity list); record date 2025-05-14
 
 | Date | Event | Source |
 |---|---|---|
@@ -9338,14 +9304,14 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: BY ENTITY — Raymond Realty Limited: possible (26.1% of the whole, by market value); Raymond Lifestyle Limited: likely (22.6% of the whole, by market value).**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Raymond Realty Limited | Turnover of Real Estate Business Undertaking as on 31 March… | 24.16% | — | 3,886 | 33.7% | no |
-| Raymond Lifestyle Limited | Lifestyle Business Revenue ₹6,177 Cr in FY25 and ₹6,888 Cr … | — | — | 3,369 | 30.6% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Raymond Realty Limited | Turnover of Real Estate Business Undertaking as on 31 March… | 24.16% (share of turnover) | 3,886 | 26.1% | — | no | possible |
+| Raymond Lifestyle Limited | Lifestyle Business Revenue ₹6,177 Cr in FY25 and ₹6,888 Cr … | — | 3,369 | 22.6% | — | yes | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹7,649 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹7,649 cr, whole ₹14,904 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"This strategic move comes as Raymond's Real Estate Business has achieved scale, reporting revenue of INR 1,593 Cr. (43% YoY growth) and EBITDA of INR 370 Cr. in FY24, positioning it well to chart its own growth path as a separate entity." (Press Release, July 4, 2024). The turnover table in the same board disclosure states: "Turnover of Real Estate Business Undertaking as on 31 March 2024 — 1,59,265 [INR in Lakhs]; Percentage to the total turnover of RL as on 31 March 2024 — 24.16%". Apportionment of cost of acquisition of equity shares (May 13, 2025): "Raymond Limited 60.92%" and "Raymond Realty Limited 39.08%".”
 
@@ -9697,11 +9663,11 @@ No stored cash-flow statement for this symbol.
 
 **Reading: LESS LIKELY on size alone — the piece is the larger part of the business.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Aditya Birla Lifestyle Brands Limited | MFL Business turnover Rs. 7,607 crores as on March 31, 2023… | 64.81% | 103.6% (FY2025) | 9,552 | 66.6% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Aditya Birla Lifestyle Brands Limited | MFL Business turnover Rs. 7,607 crores as on March 31, 2023… | 64.81% (share of turnover) | 9,552 | 66.6% | 103.6% (FY2025) | yes | less likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹4,795 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹4,795 cr, whole ₹14,347 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the MFL Business of the Demerged Company as on March 31, 2023, was Rs. 7,607 crores and forms 64.81 % of the total standalone turnover of the Demerged Company  as on March 31, 2023.”
 
@@ -9768,19 +9734,16 @@ The business being separated is the Madura Fashion & Lifestyle / western-wear br
 
 ### 6. On the calls, verbatim
 
-10 call(s), oldest first: **73 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 9 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+7 call(s), oldest first: **26 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 7 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Nov 2023 | 6 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bf42de6b-979f-4684-9f29-726d098766f8.pdf) |
-| Feb 2024 | 6 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=161992c6-9b74-48ad-86ac-d84fc82f213c.pdf) |
-| Jun 2024 | 15 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=89e45256-4dbf-4247-b593-895c275dc6fb.pdf) |
-| Aug 2024 | 11 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ba9eff0-1a9c-47ed-9e66-6e1752dfe5c1.pdf) |
-| Nov 2024 | 12 | 1 | — |
-| Feb 2025 | 10 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86aee500-e77b-4d18-9566-af83384f5a37.pdf) |
-| May 2025 | 9 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29b83308-dd71-4b41-9802-e328e83350ee.pdf) |
+| Jun 2024 | 10 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=89e45256-4dbf-4247-b593-895c275dc6fb.pdf) |
+| Aug 2024 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4ba9eff0-1a9c-47ed-9e66-6e1752dfe5c1.pdf) |
+| Nov 2024 | 3 | 1 | — |
+| Feb 2025 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86aee500-e77b-4d18-9566-af83384f5a37.pdf) |
+| May 2025 | 7 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29b83308-dd71-4b41-9802-e328e83350ee.pdf) |
 | Aug 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=605235b0-2e2b-4b89-9dcf-9a88f5115fa7.pdf) |
-| Feb 2026 | 4 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f409de30-fb04-44d8-9dad-9deb9933f8a6.pdf) |
 | May 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cf16c559-ad8d-4518-802d-9e35cc221c92.pdf) |
 
 **The full verbatim text of every exchange is in [companies/ABFRL.md](companies/ABFRL.md#6-on-the-calls-verbatim).**
@@ -10216,19 +10179,17 @@ Only the parent's figures are on file: Sales (₹ cr) 8,396 (Mar 2026); Sales gr
 | Entity | Scheme | Business | Listing | Who runs it |
 |---|---|---|---|---|
 | **Triveni Power Transmission Limited** | 2024 Composite Scheme of Arrangement — demerger of the PTB … | PTB Undertaking — power transmission business consisting of gears and defence business segments (Gears, Defen… | listed 2026-10-12 as TRIVENIPT (NSE) | Mr. Dhruv M. Sawhney (Non-Executive Chairman of t… |
-| **Triveni Turbine Limited** | Earlier Scheme of Arrangement — demerger of TEIL's steam tu… | The Company's steam turbine division; industrial steam turbines and renewable energy-based applications | listed 2011-10-28 as TRITURBINE (NSE) | Mr. Nikhil Sawhney, Vice Chairman and Managing Di… |
 
-**The other parties to the scheme(s)** — not separated entities: Sir Shadi Lal Enterprises Limited — merged in — no shares for the parent's holders
+**The other parties to the scheme(s)** — not separated entities: Sir Shadi Lal Enterprises Limited — merged in — no shares for the parent's holders; Triveni Turbine Limited (TRITURBINE) — an earlier separation — listed 2011-10-28
 
 **What is being separated, as the documents put it:** Power Transmission Business: high-speed and niche low-speed gearboxes, gear internals, defence products, aftermarket and retro-fitment services — class `value_unlocking`.
 
 ### 2. Stages and dates
 
-> **Listing:** LISTED — Triveni Power Transmission Limited (TRIVENIPT) since 2026-10-12; Triveni Turbine Limited (TRITURBINE) since 2011-10-28 (NSE equity list); record date 2026-07-22
+> **Listing:** LISTED — Triveni Power Transmission Limited (TRIVENIPT) since 2026-10-12 (NSE equity list); record date 2026-07-22
 
 | Date | Event | Source |
 |---|---|---|
-| 2011-10-28 | **Triveni Turbine Limited** listed (TRITURBINE) | NSE equity list |
 | 2024-12-10 | Board approval — Triveni Engineering & Industries Limited (and SSEL, TPTL board resolutions dated 10.12.2024 / 09.12.2024) | as stated: Outcome of Board Meeting filing dated December 10, 2024 |
 | 2025-03-21 | Filed with exchanges — NSE submission of draft scheme to SEBI | as stated: NSE Observation Letter Ref: NSE/LIST/46129 dated August 06, 2025 ("ou… |
 | 2025-04-01 | Appointed date — Appointed date for the scheme (amalgamation of SSEL into TEIL) | as stated: Q4 FY26 earnings conference call transcript, June 04, 2026 |
@@ -10270,14 +10231,13 @@ Only the parent's figures are on file: Sales (₹ cr) 8,396 (Mar 2026); Sales gr
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Triveni Power Transmission Limited | "As per audited standalone financial statements as at March… | 4.75% | 5.7% (FY2026) | 4,680 | 45.8% | no |
-| Triveni Turbine Limited | not stated | — | 5.7% (FY2026) | 16,205 | 74.5% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Triveni Power Transmission Limited | "As per audited standalone financial statements as at March… | 4.75% (share of turnover) | 4,680 | 45.8% | 5.7% (FY2026) | no | possible |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,544 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹5,544 cr, whole ₹10,225 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"As per audited standalone financial statements as at March 31, 2024, of the Demerged Company, total turnover relating to PTB Undertaking was INR 291.81 crore, representing 4.75% of the total turnover of the Demerged Company, for financial year 2023-24." For cost-of-acquisition allocation purposes: "Triveni Engineering & Industries Limited 86.60% / Triveni Power Transmission Limited 13.40%"”
 
@@ -10295,7 +10255,6 @@ Only the parent's figures are on file: Sales (₹ cr) 8,396 (Mar 2026); Sales gr
 |---|---:|---:|---:|---:|---|
 | Triveni Engineering & Industries Ltd. (TRIVENI) | 60.58% | 7.5% | 6.18% | 25.75% | Sep 2026 |
 | Triveni Power Transmission Limited (TRIVENIPT) | 72.35% | 5.54% | 5.11% | 16.99% | Oct 2026 |
-| Triveni Turbine Limited (TRITURBINE) | 55.84% | 18.39% | 17.84% | 7.93% | Sep 2026 |
 
 *Source: screener.in shareholding pattern, stored under `ShareholdingPattern/NiftyTotalMarket/`. In a mirror demerger each shareholder holds the same proportion of the new company as of the parent on the record date.*
 
@@ -10348,21 +10307,17 @@ Triveni Engineering & Industries Ltd. (TEIL) put through a single composite sche
 
 ### 6. On the calls, verbatim
 
-11 call(s), oldest first: **31 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 16 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+7 call(s), oldest first: **7 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 6 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Nov 2023 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7f3b37d2-411b-4a10-b371-f1cee4eefe22.pdf) |
-| Mar 2024 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74fd41dd-e8dd-4a18-9ff2-68d334c5e42e.pdf) |
-| May 2024 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=84c93b5a-5f3e-49b2-92f9-949a10f21102.pdf) |
-| Aug 2024 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bb23a689-684e-47fa-a5ca-14787169e0a3.pdf) |
-| Nov 2024 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72a31abe-4f36-4e2d-b192-c1b78ee28444.pdf) |
-| Feb 2025 | 4 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32ebf539-4c61-4455-9d21-3cc24a97dd7a.pdf) |
+| Nov 2024 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=72a31abe-4f36-4e2d-b192-c1b78ee28444.pdf) |
+| Feb 2025 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=32ebf539-4c61-4455-9d21-3cc24a97dd7a.pdf) |
 | Jun 2025 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=24085d8d-b7bb-42bb-bd4f-8cb00e75ea19.pdf) |
-| Aug 2025 | 5 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a50ea3c4-1d70-4e28-a663-9393cce6158b.pdf) |
-| Nov 2025 | 3 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec578aab-464f-47c2-8bc5-cb3982d61b3e.pdf) |
-| Feb 2026 | 3 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2bc4c751-c2b8-4a3a-a75a-a00326d1ee32.pdf) |
-| Jun 2026 | 4 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=113e1acd-25ed-4260-8b7f-62ac04ca5fd6.pdf) |
+| Aug 2025 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a50ea3c4-1d70-4e28-a663-9393cce6158b.pdf) |
+| Nov 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec578aab-464f-47c2-8bc5-cb3982d61b3e.pdf) |
+| Feb 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2bc4c751-c2b8-4a3a-a75a-a00326d1ee32.pdf) |
+| Jun 2026 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=113e1acd-25ed-4260-8b7f-62ac04ca5fd6.pdf) |
 
 **The full verbatim text of every exchange is in [companies/TRIVENI.md](companies/TRIVENI.md#6-on-the-calls-verbatim).**
 
@@ -10439,23 +10394,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/TRIVENIPT.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Triveni Turbine Limited (TRITURBINE) — as reported since listing**
-
-| | Mar 2024 | Mar 2025 | Mar 2026 |
-|---|---:|---:|---:|
-| Sales (₹ cr) | 1,654 | 2,006 | 2,181 |
-| Sales growth (%) | +32.5% | +21.3% | +8.7% |
-| Operating profit (₹ cr) | 321 | 439 | 449 |
-| Operating profit growth (%) | +36.6% | +36.8% | +2.3% |
-| Operating margin (%) | 19.4 | 21.9 | 20.6 |
-| PAT (₹ cr) | 269 | 359 | 349 |
-| PAT growth (%) | +39.4% | +33.5% | -2.8% |
-| PAT margin (%) | 16.3 | 17.9 | 16.0 |
-| EPS (₹) | 8.5 | 11.2 | 11.0 |
-
-*Source: ProfitStatement/NiftyTotalMarket/TRITURBINE.csv (consolidated, screener.in); growth and margins computed here.*
-
-**Power transmission / Power Transmission Business (PTB) — the PTB Undertaking demerged into TPTL → Triveni Power Transmission Limited** · unit ₹ crore · operating_profit = Segment Profit (PBIT / segment result) as reported in segment reporting = segment revenue less segment expenses; excludes unallocated expenses, finance cost and interest income. Revenue shown is total segment revenue from operations (external + inter-segment); external-only revenue was 288.71 (FY24), 369.20 (FY25), 338.90 (FY26). Figures are standalone (same as consolidated for this segment). No segment PAT is disclosed. FY2024 figures taken from the ₹ crore comparative column of AR2025 (AR2024 reports the same segment in ₹ lakhs: revenue 29180.90, segment profit 10708.88, assets 22641.80, liabilities 7305.85, capex 1108.68, depreciation 1093.94).
+**Power transmission / Power Transmission Business (PTB) → Triveni Power Transmission Limited (TPTL) — the Resulting Company receiving the PTB Undertaking** · unit ₹ crore · Profit line is 'Segment Profit/(loss)' = PBIT (segment revenue less segment expenses), before unallocated expenses, finance cost and tax; no segment-level PAT disclosed. Revenue shown is total revenue from operations including inter-segment sales (external-customer revenue: FY2024 288.71, FY2025 369.20, FY2026 338.90). FY2024 taken in ₹ crore from the AR2025 comparative column (AR2024 carried the same data in ₹ lakhs: revenue 29180.90, profit 10708.88, assets 22641.80, liabilities 7305.85, capex 1108.68, depreciation 1093.94). FY2026 assets/liabilities are the consolidated segment figures; standalone FY2026 segment assets/liabilities for PT are not shown (PTB reported as discontinued operations in the Q1 FY27 statement, assets 572.27 / liabilities 127.25 as at 31-Mar-2026).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -10473,13 +10412,13 @@ xychart-beta
 | Segment assets / revenue (x) | 0.8 | 1.0 | 1.6 |
 | Capex (₹ crore) | 11.1 | 102 | — |
 
-*Sources:* Annual Report 2025 — page 145 (standalone segment note, comparative year); also Annual Report 2024 — pages 146-147 in ₹ lakhs; Annual Report 2025 — page 145 (standalone); PTB turnover 369.89 / PBIT 126.80 also in Annual Report 2025 — page 89; Annual Report 2026 — page 162 (standalone revenue/result); Annual Report 2026 — page 215 (segment assets/liabilities)
+*Sources:* Annual Report 2025 — page 145; Annual Report 2026 — page 162 (revenue, profit); Annual Report 2026 — page 215 (assets, liabilities)
 
-*Latest quarter (Q3 FY26 (quarter ended 31-Dec-2025)):* revenue 79.86, operating profit 28.69 — Presentation Feb 2026 — page 15 (standalone segment results)
+*Latest quarter (Q3 FY26 (quarter ended 31-Dec-2025)):* revenue 79.86, operating profit 28.69 — Presentation Feb 2026 — page 15
 
-*Not in the pages read:* FY2026 capex and depreciation; segment PAT for all years; Q4 FY26 and Q1 FY27 PTB figures (Q1 FY27 statements show it only as discontinued operations, 572.27 assets / 127.25 liabilities at 31-Mar-26).
+*Not in the pages read:* No segment PAT any year; FY2026 capex and depreciation absent; Q1 FY27 PTB revenue/result not shown (reported only as discontinued operations).
 
-**Gears/Gear Boxes (including spares) — product revenue line of the Power Transmission Business → Triveni Power Transmission Limited** · unit ₹ crore · Revenue only: sale of finished goods 'Gears/Gear Boxes (including spares)' from the break-up of revenue by major product, recognised at a point in time. This is a product-level disclosure inside the Power transmission segment, not a separate segment, so no profit, assets, liabilities, capex or depreciation are given for it. FY2024 also reported in ₹ lakhs (28328.06) in AR2024.
+**Gears/Gear Boxes (including spares) → Triveni Power Transmission Limited (TPTL) — product line of the PTB Undertaking** · unit ₹ crore · Revenue-only product disclosure within 'break-up of revenue from major products and services' (sale of finished goods, recognised at a point in time, external revenue). No profit, asset, liability, capex or depreciation data at product level. FY2024 in ₹ crore from the AR2025 comparative column (AR2024 showed 28328.06 ₹ lakhs for FY2024 and 21928.52 ₹ lakhs for FY2023).
 
 | | FY2024 | FY2025 | FY2026 |
 |---|---:|---:|---:|
@@ -10491,32 +10430,32 @@ xychart-beta
 | PAT (₹ crore) | — | — | — |
 | PAT growth (%) | — | — | — |
 
-*Sources:* Annual Report 2025 — page 146 (standalone, comparative); Annual Report 2024 — page 147 in ₹ lakhs; Annual Report 2025 — page 146 (standalone; consolidated 360.78 on page 196)
+*Sources:* Annual Report 2025 — page 146
 
-*Not in the pages read:* FY2026 revenue; all profit, PAT, assets, liabilities, capex, depreciation and quarterly figures for this product line.
+*Not in the pages read:* Profit, PAT, assets, liabilities, capex, depreciation and any quarterly split; FY2026 revenue not on the pages.
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* No numbers on these pages for Triveni Turbine Limited, Triveni Power Transmission GmbH / TRIVENIPT, or the steam turbine business; TPTL itself has no standalone financials here (only TEIL's ₹6.30 crore investment in it, AR2025 page 90).
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* Triveni Power Transmission GmbH / TRIVENIPT: pages carry no financials (only a ₹6.30 crore investment in newly formed Triveni Power Transmission Limited, AR2025 p90). No standalone TPTL entity accounts on these pages.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/407be97b-dc62-4396-b07c-783e877e1296.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/b50a1aeb-2a73-46a1-8a98-a02a3b91bbf3.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff2b2236-baa5-4913-9cf6-987eda36a8cb.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1d2eb358-63e7-40dd-84aa-ab498d5f88f6.pdf); [Presentation Aug 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7460914-cd28-419f-9573-467254e60bd9.pdf); [Presentation Jun 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=29af85f6-ae3c-4c0a-b775-2eb6311ada5f.pdf); [Presentation May 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aa015718-7a18-4501-aa00-7962ad1a1aac.pdf); [Presentation Feb 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5f544e48-7cab-42de-a92a-5e79b66f2eec.pdf); [Presentation Nov 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad08b66a-3a4c-4631-a99c-589d7b653b65.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (TRIVENI) | Triveni Power Transmission Limited (TRIVENIPT) | Triveni Turbine Limited (TRITURBINE) |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* | *its own reported statements* |
-| Sales (₹ cr) | 5,952 (Mar 2026) | 0 (Mar 2026) | 2,181 (Mar 2026) |
-| Sales growth (%) | 4.6 (Mar 2026) | — | 8.7 (Mar 2026) |
-| Operating margin (%) | 6.8 (Mar 2026) | — | 20.6 (Mar 2026) |
-| Operating profit growth (%) | -15 (Mar 2026) | — | 2.3 (Mar 2026) |
-| PAT margin (%) | 4.5 (Mar 2026) | — | 16 (Mar 2026) |
-| ROCE % | 7 (Mar 2026) | -8.5 (Mar 2025) | 36 (Mar 2026) |
-| Debtor Days | 34 (Mar 2026) | — | 107 (Mar 2026) |
-| Inventory Days | 243 (Mar 2026) | — | 77 (Mar 2026) |
-| Days Payable | 36 (Mar 2026) | — | 176 (Mar 2026) |
-| Cash Conversion Cycle | 241 (Mar 2026) | — | 8 (Mar 2026) |
-| Working Capital Days | 75 (Mar 2026) | — | 118 (Mar 2026) |
-| Debt / equity (x) | 0.7 (Mar 2026) | 0 (Sep 2026) | 0 (Mar 2026) |
-| Borrowings (₹ cr) | 2,161 (Mar 2026) | 2.5 (Sep 2026) | 36 (Mar 2026) |
+| Metric (latest year) | Parent (TRIVENI) | Triveni Power Transmission Limited (TRIVENIPT) |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *its own reported statements* |
+| Sales (₹ cr) | 5,952 (Mar 2026) | 0 (Mar 2026) |
+| Sales growth (%) | 4.6 (Mar 2026) | — |
+| Operating margin (%) | 6.8 (Mar 2026) | — |
+| Operating profit growth (%) | -15 (Mar 2026) | — |
+| PAT margin (%) | 4.5 (Mar 2026) | — |
+| ROCE % | 7 (Mar 2026) | -8.5 (Mar 2025) |
+| Debtor Days | 34 (Mar 2026) | — |
+| Inventory Days | 243 (Mar 2026) | — |
+| Days Payable | 36 (Mar 2026) | — |
+| Cash Conversion Cycle | 241 (Mar 2026) | — |
+| Working Capital Days | 75 (Mar 2026) | — |
+| Debt / equity (x) | 0.7 (Mar 2026) | 0 (Sep 2026) |
+| Borrowings (₹ cr) | 2,161 (Mar 2026) | 2.5 (Sep 2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -10527,7 +10466,7 @@ xychart-beta
 | Sugar (Sugar & Allied Businesses) | 4,477 | 6.1% | 8.2% | 0.84x | ₹ crore | FY2026 |
 | Distillery (Sugar & Allied Businesses) | 2,883 | 4.1% | 8.4% | 0.53x | ₹ crore | FY2026 |
 | Water / Water & Waste Water Treatment (Engineering Businesses) | 268 | 8.7% | 9.9% | 1.53x | ₹ crore | FY2026 |
-| Other Operations (branded/private-label sugar, fuel station retailing) | 219 | 0.0% | 0.8% | 0.05x | ₹ crore | FY2026 |
+| Other Operations (branded/private-label sugar and fuel station retailing) | 219 | 0.0% | 0.8% | 0.05x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
@@ -10661,11 +10600,11 @@ xychart-beta
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| ITC Hotels Limited | Pro forma financials of Hotels Business (excluding ITC Gran… | — | 3.0% (FY2025) | 36,161 | 9.2% | yes |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| ITC Hotels Limited | Pro forma financials of Hotels Business (excluding ITC Gran… | 13.51% (cost-of-acquisition split) | 36,161 | 9.2% | 3.0% (FY2025) | yes | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹357,120 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹357,120 cr, whole ₹393,281 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"For example, if 1,000 Ordinary Shares of ITC were purchased at ` 400/- per share by a shareholder, the total cost of acquisition would amount to ` 4,00,000/- before the demerger. Based on the Share Entitlement Ratio, 100 shares of ITCHL would be allotted to the said shareholder. The total cost of acquisition of ` 4,00,000/- would be apportioned in the aforesaid ratio - ` 3,45,960/- (86.49% of ` 4,00,000/-) being the total cost of acquisition of 1,000 ITC shares and ` 54,040/- (13.51% of ` 4,00,000/-) being the total cost of acquisition of 100 shares of ITCHL." (apportionment table: ITC Limited 86.49%, ITC Hotels Limited 13.51% of total cost of acquisition of Ordinary Shares of ITC Limited)”
 
@@ -10939,13 +10878,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
+**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| STL Networks Limited | "Revenue From Operations" STL Networks (Resulting Co) Post … | — | 35.7% (FY2024) | 2,226 | 5.7% | no |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| STL Networks Limited | "Revenue From Operations" STL Networks (Resulting Co) Post … | — | 2,226 | 5.7% | 35.7% (FY2024) | no | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹36,537 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹36,537 cr, whole ₹38,763 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “Annexure P2 - Consolidated balance sheet as on March 31, 2023 (all figures are in INR crores): "Revenue From Operations" STL (Demerged Co) Pre Demerger 7,020 / STL (Demerged Co) Post Demerger 5,403 / STL Networks (Resulting Co) Post Demerger 1,617; "PAT" 127 / 107 / 19; "Total Assets" 8,864 / 5,830 / 3,034; "Total Equity" 2,095 / 972 / 1,123. Apportionment of cost of acquisition of equity shares consequent upon demerger: "1. Sterlite Technologies Limited 42.23" and "2. STL Networks Limited 57.77" (% of Cost of Acquisition of Equity Shares).”
 
@@ -11003,22 +10942,20 @@ The business being separated is STL's Global Services (system integration / netw
 
 ### 6. On the calls, verbatim
 
-12 call(s), oldest first: **5 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 39 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+10 call(s), oldest first: **2 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 26 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Nov 2023 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ada3a160-f761-4b79-bd64-2b5f16f5d072.pdf) |
-| Mar 2024 | 0 | 5 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5000d23-d4f3-41f2-ac2e-af2d6ab05dd4.pdf) |
-| May 2024 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab8a5353-690d-44b9-9a2c-85e662c1313e.pdf) |
+| Nov 2023 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ada3a160-f761-4b79-bd64-2b5f16f5d072.pdf) |
+| Mar 2024 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a5000d23-d4f3-41f2-ac2e-af2d6ab05dd4.pdf) |
+| May 2024 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab8a5353-690d-44b9-9a2c-85e662c1313e.pdf) |
 | Aug 2024 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fb5088c5-7916-4e9a-97b1-03812320978e.pdf) |
 | Nov 2024 | 0 | 6 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=46ac8e7e-9211-4d2f-beb8-498619b060ec.pdf) |
 | Jan 2025 | 0 | 4 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98f6b077-32ee-41f8-b96d-a36366cf2a48.pdf) |
-| May 2025 | 0 | 6 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3a33a16d-778d-4047-8e61-79e95df6983b.pdf) |
-| Jul 2025 | 0 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8111472f-4f00-4159-9e5a-70f93bf1b0d8.pdf) |
-| Nov 2025 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6103688c-1b5b-4922-b304-d2d348f60fea.pdf) |
-| Jan 2026 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e0a51053-117e-457b-90f3-4487eed18370.pdf) |
-| May 2026 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d9792f14-5da1-407c-988c-72dc2efbbfc7.pdf) |
-| Jul 2026 | 2 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a08fac5-bc05-4f79-acee-f6a5076525cd.pdf) |
+| May 2025 | 0 | 5 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3a33a16d-778d-4047-8e61-79e95df6983b.pdf) |
+| Jul 2025 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8111472f-4f00-4159-9e5a-70f93bf1b0d8.pdf) |
+| Nov 2025 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6103688c-1b5b-4922-b304-d2d348f60fea.pdf) |
+| Jul 2026 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8a08fac5-bc05-4f79-acee-f6a5076525cd.pdf) |
 
 **The full verbatim text of every exchange is in [companies/STLTECH.md](companies/STLTECH.md#6-on-the-calls-verbatim).**
 
@@ -11237,11 +11174,11 @@ xychart-beta
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Refex Mobility Limited | RML itself: "Turnover: NIL* ... *The company was incorporat… | 1.18% | 4.4% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Refex Mobility Limited | RML itself: "Turnover: NIL* ... *The company was incorporat… | 1.18% (share of turnover) | — | — | 4.4% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹3,194 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹3,194 cr, whole ₹3,194 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Green Mobility Business division (vested in RIL upon merger), which is getting demerged as per Part C of the Scheme, the turnover for the financial year ending March 31, 2025 is Rs. 2,897.62 Lakhs which represents 1.18% of RIL (post-merger under Part B).”
 
@@ -11301,17 +11238,13 @@ composite scheme comprising two steps.” — *[Nov 2025](https://www.bseindia.c
 
 ### 6. On the calls, verbatim
 
-8 call(s), oldest first: **35 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 9 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+4 call(s), oldest first: **10 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 5 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| May 2024 | 5 | 1 | [transcript](https://www.refex.co.in/pdf/Refex-Industries-Q4-FY24-Earnings-Call-Transcript.pdf) |
-| Aug 2024 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c00970da-89da-44d9-8bc4-359c7d70dd23.pdf) |
-| Nov 2024 | 3 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ee7293e-cb1e-492d-b5da-0be29b1cddfb.pdf) |
-| Apr 2025 | 6 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=162e778d-67b5-41c3-a245-daaee5637513.pdf) |
-| Aug 2025 | 6 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=308de71b-7879-459a-8396-d6990b0a31cb.pdf) |
+| Aug 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=308de71b-7879-459a-8396-d6990b0a31cb.pdf) |
 | Nov 2025 | 2 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2733f9d-0910-4f38-8c2d-f74a1600e438.pdf) |
-| Jan 2026 | 6 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63755f06-063b-42e8-b635-b18c38eb7a4a.pdf) |
+| Jan 2026 | 4 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63755f06-063b-42e8-b635-b18c38eb7a4a.pdf) |
 | Jun 2026 | 4 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f1aa0b70-a34f-4c91-8973-009a48c493d3.pdf) |
 
 **The full verbatim text of every exchange is in [companies/REFEX.md](companies/REFEX.md#6-on-the-calls-verbatim).**
@@ -11557,13 +11490,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| SBI Funds Management Limited | "Total income: Rs. 4,969.09 crores" for Fiscal 2026 | 0.7% | — | 105,029 | 9.5% | no |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| SBI Funds Management Limited | "Total income: Rs. 4,969.09 crores" for Fiscal 2026 | 105,029 | 10.5% | no |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹996,923 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹996,923 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “Financial information of SBIFM for Fiscal 2026: Total income: Rs. 4,969.09 crores (0.70% of Total Income of SBI Group) Reserves and Surplus: Rs.3,533.09 crores (0.59% of reserves and surplus of SBI Group)”
 
@@ -11591,7 +11524,7 @@ xychart-beta
 - **Insider actions around the separation:** Pre-IPO Transaction by the promoter-seller: "State Bank of India had entered into share purchase agreements each dated July 9, 2026 to sell, in aggregate, 2,88,32,748 equity shares of SBIFM of face value Rs. 1 (one) each, being equivalent to 1.4156% of pre-Offer share capital of SBIFM, to a total of 30 (thirty) investors at Rs. 574.00 per Equity Share, for an aggregate consideration of Rs. 1,655.00 crores"; "the transfer of Equity Shares pursuant to the Pre-IPO Transaction has been completed today, i.e. July 10, 2026." Consequent reduction of SBI's own sale: "The size of the offer for sale by the State Bank of India in the IPO has been revised from up to 128,334,397 Equity Shares (amounting to 6.3007% of the paid-up equity share capital of SBIFM) to up to 99,501,649 Equity Shares (amounting to 4.8851% of the paid-up equity share capital of SBIFM)." Separately, on the Q4FY26 call regarding NSE: "Within the group we have around 7.3% holding. But Bank itself would be keen on participating in the OFS. We have given our in-principal consent to them." No pledging disclosed.
 - **Insiders, per the checklist read:** SBI sells only up to 4.8851% (cut from 6.3007%) and retains the rest — "we are not fully exiting... still have potential to monetize further"; employees got Rs.54/share discount and ESOPs · *option pricing date:* Price band fixed July 8, 2026 at Rs.545 to Rs.574; Offer Price decided at Rs.574.00 per Equity Share on July 16, 2026
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is SBI Funds Management Limited (SBIFM) — SBI Mutual Fund, the bank's asset-management joint venture with Amundi — which SBI is partially separating by listing it, not by demerging it; management repeatedly framed the purpose as "value unlocking" and, in Chairman C.S. Setty's words, "more importantly, value recognition for the industry" (Nov 2025), with SBI General Insurance named alongside AMC as the other listing candidate. The driver management gave was that SBI's own stock does not reflect the conglomerate's worth: Setty called SBI's valuation "a conundrum, considering our return on equity and growth metrics" (Nov 2025, with ROE 19.7%–20.68% and ROA >1% through FY26), and the same theme runs through the hidden-value argument on strategic holdings — of the group's ~7.3% NSE stake he said "the moment NSE gets listed, the whole shareholding by SBI will be available as reserve to us to mark to market" (May 2026). Explicitly NOT a capital-need story at first: in Nov 2025 Setty said "these two companies do not require capital at this juncture. Neither the parent requires because we just raised Rs. 25,000 crores" (the July 2025 QIP, India's largest, 4.5x oversubscribed on a >Rs. 1.1 trillion book, >60% cross-border), which is why timing was left to "respective boards"; by May 2026 the rationale had hardened into a capital one — the listing "will result in capital augmentation, CET-1" on top of CAR already up 115bps to 15.4%. The structure confirms it is monetisation, not a fix for the business: the IPO is a pure offer for sale (no fresh issue), SBI offering 6.3007% and JV partner Amundi India Holding 3.7006%, total up to 10.0013% / 203,709,239 shares at Rs. 1 face value, so no money reaches SBIFM itself. Management stressed that separation does not break the franchise link — SBIFM stays the country's largest AMC inside the "One SBI" cross-sell engine (a special dividend of ~Rs. 2,200 crore came up to the bank in Q3FY26, cross-sell/CVE income targeted at $1 billion, YONO "deep integration with subsidiary production"), and Setty was explicit that "Mutual fund, we are not fully exiting. So we still have potential to monetize further when market improves" (Feb 2026). The push came from the sell side and retail investors — Sushil Choksey (Indus Equity), Manoj Alimchandani and Kunal Shah (Citigroup) raised monetisation/value-unlocking on four of the five calls, Alimchandani even arguing in Feb 2026 that delaying the IPO five years could fetch three times the market cap — rather than from lenders or regulators; the only regulator-linked nudge cited was the SEBI chairman on NSE's listing. No problem with SBIFM's performance was ever offered as a reason: it was described only as "the largest AMC in the country," contributing Rs. 4,969.09 crore of FY26 total income, just 0.70% of group income.
 
@@ -11624,17 +11557,12 @@ The business being separated is SBI Funds Management Limited (SBIFM) — SBI Mut
 
 ### 6. On the calls, verbatim
 
-8 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 8 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+3 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 3 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| May 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68b86c74-1a02-41cf-9daf-d040d60cd34d.pdf) |
-| Aug 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c380dde0-c8f5-403a-b4b2-f229f050d921.pdf) |
-| Feb 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=517b8824-3ed3-4763-8900-061c1455cfb2.pdf) |
-| May 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bba71336-f98b-40e2-8d50-c9435948876b.pdf) |
 | Aug 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2fa1b8da-c066-4091-b913-b10127270df1.pdf) |
 | Nov 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad15487a-d1a9-4e33-90e9-624255749750.pdf) |
-| Feb 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8fabbe0f-593e-4701-b565-d5fce57385a2.pdf) |
 | May 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9a3280a0-5ce9-445e-a881-6b7c505e9a90.pdf) |
 
 **The full verbatim text of every exchange is in [companies/SBIN.md](companies/SBIN.md#6-on-the-calls-verbatim).**
@@ -11792,8 +11720,6 @@ xychart-beta
 |---|---|---|---|---|
 | **HDB Financial Services Limited** | 2025 initial public offering (IPO) of HDB Financial Service… | Upper layer non-deposit taking Non-Banking Financial Company; "HDBFS delivers a wide range of solutions throu… | listed 2025-07-02 as HDBFS (NSE) | not stated (Dipti Khandelwal named as Company Sec… |
 
-**The other parties to the scheme(s)** — not separated entities: Housing Development Finance Corporation Limited — merged in — no shares for the parent's holders; HDFC Investments Limited — merged in — no shares for the parent's holders; HDFC Holdings Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** HDB Financial Services Limited, the Bank's non-deposit-taking NBFC subsidiary, separately listed via IPO (fresh issue plus Bank's offer for sale) — class `not stated`.
 
 ### 2. Stages and dates
@@ -11823,13 +11749,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| HDB Financial Services Limited | Total revenue of HDBFS during FY 2024-2025: Rs. 16,300.28 c… | — | — | 47,055 | 3.7% | yes |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| HDB Financial Services Limited | Total revenue of HDBFS during FY 2024-2025: Rs. 16,300.28 crore (FY 2… | 47,055 | 3.8% | yes |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹1,239,503 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹1,239,503 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — Listing was an IPO/offer for sale, not a share distribution to parent shareholders; no index exclusion or forced holder reshuffle stated.
 
@@ -11855,7 +11781,7 @@ xychart-beta
 - **Insider actions around the separation:** The parent itself sold shares in the IPO: "Under the OFS, the Bank divested 13,51,35,135 equity shares off 10 each of HDBFS at? 740/-per share, for a consideration aggregating to? 10,000.00 crore"; "Post reduction of the customary offer expenses, the Bank has received a net consideration of Rs. 9814,51,63,982, in cash."; "the net gain to the Bank on sale of shares under the OFS is? 9,179.40 crore (before tax and net of IPO related expenses)" (standalone) and "? 7,000.27 crore" (consolidated). The sale "was approved by the Reserve Bank of India" and "The offer for sale will not fall within related party transactions." Trading window: "the window for trading in Securities of the Bank by its designated persons and their immediate relatives shall open on Tuesday, January 20, 2026." No promoter or management buying, selling or pledging around the separation is stated ("The Bank has no promoter/ promoter group company.").
 - **Insiders, per the checklist read:** Bank retains 74.1% stake in HDBFSL post-IPO; HDB Employee Welfare Trust is consolidated as a subsidiary. No promoter or management stake or incentive in HDBFS is stated. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 These texts contain no separation, demerger, spin-off or scheme of arrangement for HDFC Bank, and management never explains one; the question's premise is not supported by the documents supplied. The only business that was partly separated from the Bank is HDB Financial Services Limited (HDBFS), the group's non-deposit-taking NBFC, and that was done by listing it rather than by demerging it: a June 25, 2025 IPO comprising a fresh issue of Rs 2,500.00 crore plus an offer for sale of Rs 10,000.00 crore of the Bank's shares (13,51,35,135 shares of Rs 10 each at Rs 740 per share), after which the Bank still held 74.1%. Management gave no reason for the listing at all — no regulatory mandate, no capital need, no valuation argument, no investor or lender demand was cited; Sashidhar Jagdishan only reported that 'we carried out the HDB Financial Services listing process, wherein the bank also diluted some stake' and thanked IPO investors. The only strategic point made about HDBFS was in answer to Pranav Gundlapalle (Jul 2025), who asked about customer conflict between the two entities: management said HDBFS serves a segment 'a notch or two below' the Bank, with 'zero or very minimal overlap' expected to persist, i.e. the two are kept distinct by customer segment and pricing, not separated to fix a problem. Financially the event was treated as a one-off gain — Rs 9,179.40 crore standalone and Rs 7,000.27 crore consolidated (before tax, net of IPO expenses) — which Srinivasan Vaidyanathan later flagged (Jul 2026) as a base-effect distortion making reported PAT growth 5% versus 9.8% adjusted. Every other corporate action in these texts runs the other way: deepening the 2023 HDFC Limited merger (Apr 2026: e-HDFC home-loan customers' liability penetration up from 36% to ~50%, their CASA balances up from about Rs 50,000 crore to Rs 86,000 crore, 98% of new home loans opening a liability account, 23% carrying active Bank credit cards) and the Apr 16, 2026 board approval to invest up to Rs 1,000 crore in HDFC Life's preferential issue. The closest thing to a forward-looking separation hint is Jagdishan's unprompted remark on surplus capital (Oct 2025): if options arise 'to sort of delight shareholders, we would be more than happy to do so' — unspecified, with no business named.
 
@@ -11884,22 +11810,14 @@ These texts contain no separation, demerger, spin-off or scheme of arrangement f
 
 ### 6. On the calls, verbatim
 
-12 call(s), oldest first: **17 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 18 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+4 call(s), oldest first: **2 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 2 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Feb 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d34bd589-124e-40f2-80b5-82f360a98639.pdf) |
-| Apr 2024 | 2 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=880ee466-e764-4e05-9ef3-3d9bb8e485f4.pdf) |
-| Jul 2024 | 2 | 2 | — |
-| Oct 2024 | 1 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7affe75-673f-4507-b421-a7d5bab9d3e6.pdf) |
-| Jan 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7e4ad26-5c9e-4ffe-a610-28241b35c3b0.pdf) |
-| Apr 2025 | 1 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ff4ae1b4-cf07-4f6d-b097-3bd8139fb570.pdf) |
-| Jul 2025 | 2 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1268138-e288-4335-9764-7a944dfa3570.pdf) |
-| Oct 2025 | 2 | 1 | — |
-| Jan 2026 | 1 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e45f8a0-0fe6-40a3-8e5a-51c53713e6f0.pdf) |
-| Mar 2026 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf) |
-| Apr 2026 | 2 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf) |
-| Jul 2026 | 2 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf) |
+| Apr 2024 | 1 | 0 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=880ee466-e764-4e05-9ef3-3d9bb8e485f4.pdf) |
+| Jul 2024 | 1 | 0 | — |
+| Oct 2024 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c7affe75-673f-4507-b421-a7d5bab9d3e6.pdf) |
+| Jul 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d1268138-e288-4335-9764-7a944dfa3570.pdf) |
 
 **The full verbatim text of every exchange is in [companies/HDFCBANK.md](companies/HDFCBANK.md#6-on-the-calls-verbatim).**
 
@@ -12078,13 +11996,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Linjemontage i Grästorp Aktiebolag | "Gross Consolidated Turnover of LMG for F.Y. ended 31-03-20… | 11.14% | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Linjemontage i Grästorp Aktiebolag | "Gross Consolidated Turnover of LMG for F.Y. ended 31-03-2026: Approx… | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹23,046 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹23,046 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “"Gross Consolidated Turnover of LMG for F.Y. ended 31-03-2026: Approx. SEK 3,225.11 Million (~USD 341.16 Million)* % of Consolidated Revenue of KPIL for F.Y. ended 31-03-2026: ~11.14% Consolidated Net worth of LMG as on 31-03-2026: Approx. SEK 334.25 Million (~USD 35.36 Million)* % of Consolidated Net worth of KPIL as on 31-03-2026: ~ 4.5% *Exchange rate used for conversion 1 USD = SEK 9.45" (For the VEPL disinvestment: "Revenue for F.Y. ended 31-03-2024: ~Rs. 85.07 Crores % of Consolidated Revenue for F.Y. ended 31-03-2024: ~0.43% Net worth as on 31-03-2024: ~Rs. 144.55 Crores % of Consolidated Net worth as on 31-03-2024: ~2.81%")”
 
@@ -12111,7 +12029,7 @@ xychart-beta
 - **Insider actions around the separation:** Selling: KPTS (KPIL's wholly owned subsidiary) sold 13,319,670 LMG shares in the base offering plus 1,877,911 shares under the over-allotment option, cutting its holding from 96.12% to 66.45%, and "Kalpataru Sweden has indicated an intention to remain a long-term major shareholder and to continue supporting the Company's strategic development following completion of the Offering." Lock-up: "The Selling Shareholders, as well as the members of the Board of Directors and Group Management, will commit to, subject to certain exceptions, not to sell their respective holdings (or otherwise make certain transactions with similar effect) for a certain period after the date of the Listing. The lock-up period will be 360 days from the date of listing for Kalpataru Sweden, the members of the Board of Directors and Group Management." Buying by insiders of LMG: the pre-IPO sale of 6,900 shares (3.45%) and grant of up to 900 options (0.45%) to identified employees and directors of LMG at SEK 5,190.48 per share, part-financed by "financing arrangements relating to their respective acquisitions of shares in the Company." Pledging in the parent (Q4 FY26 call): "But we have always said that pledge will continue to come down. That's what is the comfort given by promoters. And we've seen that over the last 6 quarters, every quarter pledge has come down. I think the promoters from whatever discussion I've had with them, continue to be on the track of bringing down pledge." Stated intent before the IPO (Q3 FY26 call): "we have appointed bankers to advise us on fundraising at Sweden, which is also progressing well. We do not know which options and what timing it exactly is, but we have appointed bankers to look at exploring fund option raising at Sweden also, which I'm expecting in FY26-27 should give us further cash flows."
 - **Insiders, per the checklist read:** KPTS (KPIL wholly owned subsidiary) retains 66.45% / 34,042,919 shares, down from 96.12%; 360-day lock-up for Kalpataru Sweden, board and group management; employee/director shareholders sold 991,950 shares mainly to repay acquisition financing · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is Linjemontage i Grästorp AB (LMG), KPIL's Swedish power-grid EPC subsidiary held through Kalpataru Power Transmission Sweden AB (KPTS) — separated not by demerger but by an offer-for-sale IPO on Nasdaq Stockholm (listed 25 September 2026), in which KPTS sold down from 96.12% to 66.45% rather than giving LMG new capital. The trigger management cited on the calls was value crystallisation and cash: LMG had compounded from ~INR1,000 crores revenue in FY24 to INR1,800+ crores in FY25 (PBT INR21 crores to INR70+ crores) to ~INR3,000 crores in FY26 with EBITDA ~INR200 crores and PBT ~INR170 crores (both up over 100%), i.e. SEK1.3bn to SEK3.2bn net sales at a 56.6% CAGR with adjusted EBITA margin rising from 4.4% to 7.6%, net cash of SEK172.1m, ROCE of 48.1% and an order book of SEK4,349m — yet it was only ~11.14% of KPIL's consolidated revenue and ~4.5% of consolidated net worth. Mohnot repeatedly placed the Sweden 'fundraise' inside the same bucket as the noncore exits (Vindhyachal road asset sold January 2026 for ~INR799 crores EV / INR600+ crores net, Indore real estate, Shree Shubham Logistics), i.e. as a source of 'further cash flows' to cut leverage and fund the INR800-900 crores/year capex programme and lift ROCE; the IPO delivered KPTS gross proceeds of ~SEK711.45m at SEK46/share, valuing LMG at SEK2,356.6m (~INR2,324 crores). The second problem it solves is that LMG's economics are structurally different from KPIL's: management argued a 6%-7% PBT in a 'mature market' is fine there because 'the ROCE numbers are very, very high and they are cash positive always' — a profile the consolidated KPIL multiple was not reflecting. LMG's own filings justify the separation on strategic grounds: visibility, credibility and brand recognition with customers, partners and employees, transparency, a platform for long-term value creation, a broadened shareholder base, and support for its ambition to lead Nordic power-infrastructure EPC in a Swedish serviceable market growing from ~SEK19bn (2025) to ~SEK31bn (2030) at 11% CAGR (transmission 17%), with ~80% of Sweden's transmission grid over 40 years old and Statnett planning NOK150-200bn of 2025-2034 investment. Pressure came from investors and analysts, not lenders: Carnelian and DAM Capital pushed management on why a T&D business sitting inside a T&D company needed its own listing, while cornerstone demand from Tredje AP-fonden and Unionen (SEK290m) anchored the book; LMG's management/employee shareholders (991,950 shares) sold mainly to repay the financing they had used to buy their shares. KPIL stressed continuity, not exit: KPTS 'indicated an intention to remain a long-term major shareholder', is locked up for 360 days, and LMG remains a step-down subsidiary.
 
@@ -12310,9 +12228,8 @@ Only the parent's figures are on file: Sales (₹ cr) 27,143 (Mar 2026); Sales g
 | Entity | Scheme | Business | Listing | Who runs it |
 |---|---|---|---|---|
 | **Jio Platforms Limited** | 2026 initial public offer of Jio Platforms Limited (fresh i… | Technology arm of Reliance; digital services and, through wholly owned subsidiary Reliance Jio Infocomm Limit… | listed 2026-10-28 as JPL (NSE) | "Shri. Akash M. Ambani, Managing Director, Jio Pl… |
-| **Reliance Consumer Products Limited** (earlier Tira Beauty Limited) | 2025 composite scheme of arrangement among RRL, RRVL, RCPL … | Consumer Brands Business Undertaking demerged from RRVL — FMCG: beverages (Campa), daily essentials (Independ… | not stated | "Sh Ketan Mody, Executive Director, Reliance Cons… |
 
-**The other parties to the scheme(s)** — not separated entities: Star Television Productions Limited — merged in — no shares for the parent's holders
+**The other parties to the scheme(s)** — not separated entities: Reliance Consumer Products Limited — a scheme inside the group, not a listing for the parent's holders
 
 **What is being separated, as the documents put it:** Consumer Brands (FMCG) business undertaking demerged from Reliance Retail Ventures Ltd into Tira Beauty Ltd, renamed Reliance Consumer Products Ltd — class `value_unlocking`.
 
@@ -12350,14 +12267,13 @@ Only the parent's figures are on file: Sales (₹ cr) 27,143 (Mar 2026); Sales g
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Jio Platforms Limited | "the revenue for the year at Rs.1,46,085 Crores, which was … | — | 13.9% (FY2026) | 1,289,909 | 41.6% | no |
-| Reliance Consumer Products Limited | "we closed our revenue of Rs.22,000 Crores in 2026 and for … | — | 2.1% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Jio Platforms Limited | "the revenue for the year at Rs.1,46,085 Crores, which was up 14.6% y… | 1,289,909 | 71.1% | no |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹1,812,954 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹1,812,954 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — No listing stated; shares allotted to shareholders of unlisted RRVL, with RIL retaining 83.56% — no index exclusion mechanism disclosed.
 
@@ -12366,7 +12282,6 @@ Only the parent's figures are on file: Sales (₹ cr) 27,143 (Mar 2026); Sales g
 **Share swap / entitlement, entity by entity:**
 
 - **Jio Platforms Limited:** "Initial Public Offer by way of a fresh issue of up to 27,00,00,000 (Twenty seven crore) equity shares of face value of ₹10 each of Jio Platforms Limited (JPL), a subsidiary of the Company"; "JPL has today finalised the Issue Price (including the anchor investor issue price) at ₹1,119 per Equity Share of face value of ₹10 each"; reservations of up to Rs. 500 crore for Eligible Employees and up to Rs. 2,500 crore for Eligible RIL Shareholders; no offer for sale stated
-- **Reliance Consumer Products Limited:** "New RCPL will allot 1 (one) fully paid-up equity share of Rs. 10 (Rupees ten only) each for every 2 (two) fully paid-up equity shares of Rs. 10 (Rupees ten only) each of RRVL, to the shareholders of RRVL"
 
 **Promoters' holding, from the shareholding pattern:**
 
@@ -12384,7 +12299,7 @@ Only the parent's figures are on file: Sales (₹ cr) 27,143 (Mar 2026); Sales g
 - **Insider actions around the separation:** No promoter or management buying, selling or pledging of the parent's shares, and no stated intent around the separation, is disclosed. Group-level transactions around the 2024 media JV are disclosed: "The Company has today, at around 3:01 p.m. (IST), acquired shares representing 63.16% of Star Television Productions Limited ("STPL") from the existing Disney shareholder of STPL, for a consideration of Rs. 211.59 crore."; "The Company has acquired Paramount Global's entire 13.01% of the diluted equity share capital in Viacom18 for a consideration of Rs. 4,286 crore."; "The Company invested Rs. 11,500 crore in SIPL and has been allotted 26,05,19,406 equity shares."; sale of the 65% FSDL stake by RIL and RISE to Viacom18 for Rs. 94.54 crore. On promoter interest: "The acquisition of shares of STPL is not a related party transaction and none of the Company's promoter / promoter group / group companies have any interest in the said transaction. No governmental or regulatory approvals were required for this transaction."
 - **Insiders, per the checklist read:** Promoter holding not stated. New RCPL becomes an 83.56% direct subsidiary of RIL; RRVL shareholders get 1 New RCPL share per 2 RRVL shares. Ketan Mody is Executive Director, RCPL. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is Reliance's FMCG/consumer-brands arm, Reliance Consumer Products Ltd (RCPL) — Campa, Independence, Good Life, Ravalgaon/Toffeeman/Lotus, Velvette, Glimmer, Enzo, SIL, Maliban, Alan's, plus acquisitions Udhaiyam, Manna, Sosyo, Goodness Group and the Toni & Guy/Brylcreem/Badedas/Matey brands — which was carved out of Reliance Retail Ventures Ltd (RRVL) under a composite scheme effective 1 December 2025: the 'Consumer Brands Business Undertaking' was demerged from RRVL into Tira Beauty Ltd (renamed RCPL), the old RCPL was dissolved, RRVL shareholders received 1 new RCPL share for every 2 RRVL shares, and the new entity became an 83.56% direct subsidiary of RIL rather than a retail subsidiary. The only rationale management actually articulates is in the Chairman's 16 January 2026 statement: the consumer products vertical is 'progressing on its accelerated growth trajectory with a focused organizational structure' — i.e. a dedicated, directly-held vehicle for a business scaling far faster than retail (Q3 FY26 Rs 5,000 crore, +60% Y-o-Y; 9M FY26 Rs 15,000 crore; FY26 Rs 22,000 crore, 2x Y-o-Y; Q4 FY26 Rs 7,350 crore; Q1 FY27 Rs 8,600 crore, 2x; Campa Rs 4,700 crore and India's 4th largest CSD brand; Independence Rs 2,600 crore; beverages over Rs 6,000 crore; 3rd largest packaged water player; 5,000+ distributors, 3 million outlets, 40 export markets; target Rs 1 lakh crore by FY2030). The problem it visibly solves, though never stated as the reason, is mixing an only-breakeven, capex-hungry FMCG build-out (12 plants, integrated food parks, Kurnool and 'one of the largest beverage plants in Asia', edible-oil facility in West Bengal) into Reliance Retail's P&L: on every call since, management has had to strip RCPL out to show the underlying retail trend — Q3 FY26 8.1% reported, Q4 FY26 11% reported vs ~14% adjusted, Q1 FY27 7.4% reported vs 11.6% adjusted — while Ketan Mody confirms RCPL itself is only 'breakeven on EBITDA terms'. Two parallel separations run alongside it: the Jio Platforms IPO (DRHP 19 June 2026 for a fresh issue of up to 27 crore shares of Rs 10, SEBI observation 28 August 2026, RHP 14 October 2026, priced at Rs 1,119 on 24 October 2026, with Rs 500 crore reserved for employees and Rs 2,500 crore for individual/HUF RIL shareholders), and the carve-out of AI/data-centre activity into 'Reliance Intelligence'/RIL so that JPL stays asset-light — capex at RIL or Reliance Intelligence, service provision and products accessed by Jio under long-term leases. No investor, lender or partner is recorded as having asked for any of this; analysts' only questions on the demerger were for like-for-like revenue and EBITDA adjustments, and management expressly deferred the EBITDA impact to the next quarter.
 
@@ -12421,7 +12336,7 @@ The business being separated is Reliance's FMCG/consumer-brands arm, Reliance Co
 
 ### 6. On the calls, verbatim
 
-14 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 18 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+14 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 14 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
@@ -12435,10 +12350,10 @@ The business being separated is Reliance's FMCG/consumer-brands arm, Reliance Co
 | Apr 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3e36b485-0a6c-4f84-bf74-7d60b0e26d9d.pdf) |
 | Jul 2025 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38a33049-ed9e-4544-ace5-a92e5f984f23.pdf) |
 | Oct 2025 | 0 | 1 | — |
-| Jan 2026 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| Jan 2026 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
-| Apr 2026 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf) |
-| Jul 2026 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf) |
+| Jan 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| Jan 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf) |
+| Apr 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf) |
+| Jul 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf) |
 
 **The full verbatim text of every exchange is in [companies/RELIANCE.md](companies/RELIANCE.md#6-on-the-calls-verbatim).**
 
@@ -12515,7 +12430,7 @@ xychart-beta
 
 *Source: ProfitStatement/NiftyTotalMarket/JPL.csv (consolidated, screener.in); growth and margins computed here.*
 
-**Jio Platforms Limited (JPL Consolidated) — technology arm / digital services, listed via IPO** · unit ₹ crore · Company-level JPL consolidated P&L from quarterly presentations. Revenue = Operating Revenue (revenue from operations); Gross Revenue (value of services) FY26 = 172,317. Profit line given is EBITDA (pre-D&A, pre-finance cost); PAT includes share of associates and JVs. No segment asset/liability or capex disclosure.
+**Jio Platforms Limited (JPL Consolidated)** · unit ₹ crore · Operating profit = EBITDA as reported by the company; revenue = Operating Revenue (Revenue from operations); Gross Revenue (value of services) FY26 was 1,72,317. PAT includes share of associates and JVs. JPL listed via India's largest IPO (₹30,188 crore) in Q2 FY27.
 
 | | FY2026 |
 |---|---:|
@@ -12531,9 +12446,33 @@ xychart-beta
 
 *Latest quarter (Q1 FY27):* revenue 39173, operating profit 20865 — Presentation Jul 2026 — page 21
 
-*Not in the pages read:* FY2024 and FY2025 full-year JPL figures; assets, liabilities, capex; Q2 FY27 financials (only IPO/subscriber data given).
+*Not in the pages read:* No FY2024 or FY2025 full-year JPL figures; no assets, liabilities or capex for JPL on these pages.
 
-**RCPL / FMCG (Consumer Brands Business demerged from RRVL) → Reliance Consumer Products Limited** · unit ₹ crore · Only Gross Revenue (gross sales) disclosed; FY26 gross revenue includes RCPL sales before de-merger from RRVL. No EBITDA, PAT, assets, liabilities, capex or depreciation line for RCPL/FMCG anywhere on these pages; FMCG sits inside the unreported 'Others' segment.
+**Digital Services (RIL reportable segment) → Jio Platforms Limited** · unit ₹ crore · Revenue = Revenue from Operations (Net of GST), which includes inter-segment turnover (FY26 inter-segment 1,16,387; external turnover FY26 59,777, FY25 50,318, FY24 41,663). Operating profit = Segment Result before Interest and Taxes (EBIT), including interest/other income of the segment. Segment PAT not disclosed.
+
+| | FY2024 | FY2025 | FY2026 |
+|---|---:|---:|---:|
+| Revenue (₹ crore) | 113,175 | 131,336 | 149,965 |
+| Revenue growth (%) | — | +16.0% | +14.2% |
+| Operating profit (₹ crore) | 33,124 | 39,717 | 48,211 |
+| Operating profit growth (%) | — | +19.9% | +21.4% |
+| Operating margin (%) | 29.3 | 30.2 | 32.1 |
+| PAT (₹ crore) | — | — | — |
+| PAT growth (%) | — | — | — |
+| Segment assets (₹ crore) | 555,269 | 598,015 | 633,700 |
+| Segment liabilities (₹ crore) | 237,800 | 243,664 | 237,786 |
+| Capital employed (₹ crore) | 317,469 | 354,351 | 395,914 |
+| Return on capital employed (%) | 10.4 | 11.2 | 12.2 |
+| Segment assets / revenue (x) | 4.9 | 4.5 | 4.2 |
+| Capex (₹ crore) | 57,378 | 38,438 | 33,101 |
+
+*Sources:* Annual Report 2024 — page 164; Annual Report 2025 — page 157; Annual Report 2026 — page 168
+
+*Latest quarter (Q4 FY26):* revenue None, operating profit 20041 — Presentation Apr 2026 — page 11
+
+*Not in the pages read:* Segment PAT not disclosed; no segment revenue for the latest quarter (only segment EBITDA).
+
+**RCPL / FMCG (Consumer Brands business) → Reliance Consumer Products (Consumer Brands Business Undertaking demerged from RRVL)** · unit ₹ crore · Only gross revenue disclosed (FY26 gross revenue includes RCPL sales before de-merger from RRVL). No profit line given — FMCG EBITDA sits inside the 'Others' segment in RIL reporting and is not split out.
 
 | | FY2026 |
 |---|---:|
@@ -12549,31 +12488,62 @@ xychart-beta
 
 *Latest quarter (Q4 FY26):* revenue 7350, operating profit None — Presentation Apr 2026 — page 32
 
-*Not in the pages read:* All profit, PAT, asset, liability, capex, depreciation lines; FY2024/FY2025 revenue. Brand-level FY26 gross sales only: Campa ₹4,700+ crore, Independence ~₹2,600 crore (same page).
+*Not in the pages read:* No EBITDA, PAT, assets, liabilities, capex or depreciation; no FY2024/FY2025 figures; no post-demerger quarterly revenue (Q1/Q2 FY27).
 
-*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* No numbers at all for: Tira Beauty Limited; New RCPL; Consumer Brands Business Undertaking as a standalone unit; consumer products division/vertical as a reported segment (FMCG sits inside 'Others').
+**Campa → Reliance Consumer Products (brand within RCPL)** · unit ₹ crore · Brand-level gross sales only, stated as '₹4,700+ Cr gross sales in FY26'; no profit measure. India's 4th largest carbonated soft drinks brand.
+
+| | FY2026 |
+|---|---:|
+| Revenue (₹ crore) | 4,700 |
+| Revenue growth (%) | — |
+| Operating profit (₹ crore) | — |
+| Operating profit growth (%) | — |
+| Operating margin (%) | — |
+| PAT (₹ crore) | — |
+| PAT growth (%) | — |
+
+*Sources:* Presentation Apr 2026 — page 32
+
+*Not in the pages read:* Everything except FY26 gross sales: no profit, assets, liabilities, capex, depreciation, or quarterly figures.
+
+**Independence → Reliance Consumer Products (brand within RCPL)** · unit ₹ crore · Brand-level sales only, stated as '~₹2,600 Cr sales' for FY26; no profit measure disclosed.
+
+| | FY2026 |
+|---|---:|
+| Revenue (₹ crore) | 2,600 |
+| Revenue growth (%) | — |
+| Operating profit (₹ crore) | — |
+| Operating profit growth (%) | — |
+| Operating margin (%) | — |
+| PAT (₹ crore) | — |
+| PAT growth (%) | — |
+
+*Sources:* Presentation Apr 2026 — page 32
+
+*Not in the pages read:* Everything except FY26 brand sales: no profit, assets, liabilities, capex, depreciation, or quarterly figures.
+
+*Businesses with no numbers in the pages read (3 annual report(s) and 12 presentation(s) on file):* Tira Beauty Limited, New RCPL, Good Life, Sosyo and the 'technology arm' carry no numbers on these pages. Consumer products division/vertical figures appear only as the RCPL/FMCG entry above.
 
 *Documents on file:* [Annual Report 2026](https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf); [Annual Report 2025](https://www.bseindia.com/xml-data/corpfiling/AttachHis/468b09a3-a212-4066-bbaa-4b0ba524d2ce.pdf); [Annual Report 2024](https://www.bseindia.com/xml-data/corpfiling/AttachHis/d473280d-1c2b-4037-8ff9-dfbb82aa2c7e.pdf); [Presentation Nov 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0dc8ebe7-5e2d-4946-85ee-1e536c461a71.pdf); [Presentation Jul 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=01d1656c-cf53-4d52-94c3-7ed0edd50271.pdf); [Presentation Apr 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5145c56f-ff81-4812-9663-f9b2461c4b2c.pdf); [Presentation Jan 2026](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d0e06e07-5a3e-4bc0-a6a6-76635bc53238.pdf); [Presentation Oct 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a050d55-ad53-4d57-8735-cbcf20bb412b.pdf); [Presentation Jul 2025](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=49a01d99-854c-4c3a-b62c-e1fb3619029f.pdf)
 
 ### 9. Other financial differences — working capital, margins, returns, debt
 
-| Metric (latest year) | Parent (RELIANCE) | Jio Platforms Limited (JPL) | Reliance Consumer Products Limited |
-|---|---:|---:|---:|
-| *Basis* | *reported, consolidated* | *its own reported statements* | *segment numbers (RCPL / FMCG (Consumer Brands…* |
-| Sales (₹ cr) | 1,055,780 (Mar 2026) | 146,885 (Mar 2026) | — |
-| Sales growth (%) | 9.7 (Mar 2026) | 14.6 (Mar 2026) | — |
-| Operating margin (%) | 17 (Mar 2026) | 50 (Mar 2026) | — |
-| Operating profit growth (%) | 8.1 (Mar 2026) | 16.3 (Mar 2026) | — |
-| PAT margin (%) | 9.1 (Mar 2026) | 20.5 (Mar 2026) | — |
-| ROCE % | 10 (Mar 2026) | 12 (Mar 2024) | — |
-| Debtor Days | 20 (Mar 2026) | 6 (Mar 2026) | — |
-| Inventory Days | 88 (Mar 2026) | — | — |
-| Days Payable | 84 (Mar 2026) | — | — |
-| Cash Conversion Cycle | 25 (Mar 2026) | 6 (Mar 2026) | — |
-| Working Capital Days | -66 (Mar 2026) | -94 (Mar 2026) | — |
-| Debt / equity (x) | 0.5 (Mar 2026) | 0.2 (Sep 2026) | — |
-| Borrowings (₹ cr) | 402,962 (Mar 2026) | 69,351 (Sep 2026) | — |
-| Sales (₹ crore) | — | — | 22,000 (FY2026) |
+| Metric (latest year) | Parent (RELIANCE) | Jio Platforms Limited (JPL) |
+|---|---:|---:|
+| *Basis* | *reported, consolidated* | *its own reported statements* |
+| Sales (₹ cr) | 1,055,780 (Mar 2026) | 146,885 (Mar 2026) |
+| Sales growth (%) | 9.7 (Mar 2026) | 14.6 (Mar 2026) |
+| Operating margin (%) | 17 (Mar 2026) | 50 (Mar 2026) |
+| Operating profit growth (%) | 8.1 (Mar 2026) | 16.3 (Mar 2026) |
+| PAT margin (%) | 9.1 (Mar 2026) | 20.5 (Mar 2026) |
+| ROCE % | 10 (Mar 2026) | 12 (Mar 2024) |
+| Debtor Days | 20 (Mar 2026) | 6 (Mar 2026) |
+| Inventory Days | 88 (Mar 2026) | — |
+| Days Payable | 84 (Mar 2026) | — |
+| Cash Conversion Cycle | 25 (Mar 2026) | 6 (Mar 2026) |
+| Working Capital Days | -66 (Mar 2026) | -94 (Mar 2026) |
+| Debt / equity (x) | 0.5 (Mar 2026) | 0.2 (Sep 2026) |
+| Borrowings (₹ cr) | 402,962 (Mar 2026) | 69,351 (Sep 2026) |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -12581,11 +12551,10 @@ xychart-beta
 
 | Remaining segment | Revenue | Operating margin | ROCE | Segment assets / revenue | Unit | Year |
 |---|---:|---:|---:|---:|---|---|
-| Oil to Chemicals (O2C) | 662,401 | 7.7% | 21.6% | 0.78x | ₹ crore | FY2026 |
-| Oil and Gas (E&P) | 23,861 | 56.4% | 86.8% | 1.29x | ₹ crore | FY2026 |
-| Retail | 371,085 | 5.6% | 13.1% | 0.67x | ₹ crore | FY2026 |
-| Digital Services | 176,164 | 27.4% | 12.2% | 3.6x | ₹ crore | FY2026 |
-| Others (includes Media, FMCG, Real Estate, New Energy) | 80,522 | 4.3% | 1.2% | 4.87x | ₹ crore | FY2026 |
+| Retail | 328,202 | 6.3% | 13.1% | 0.76x | ₹ crore | FY2026 |
+| Oil to Chemicals (O2C) | 640,972 | 7.9% | 21.6% | 0.81x | ₹ crore | FY2026 |
+| Oil and Gas | 23,837 | 56.5% | 86.8% | 1.29x | ₹ crore | FY2026 |
+| Others (includes Media, FMCG, Real Estate, New Energy etc.) | 70,813 | 4.9% | 1.2% | 5.53x | ₹ crore | FY2026 |
 
 **What the documents themselves say about the differences:**
 
@@ -12649,8 +12618,6 @@ xychart-beta
 |---|---|---|---|---|
 | **ICICI Prudential Asset Management Company Limited** | 2025 listing and partial divestment of PCHL's stake in ICIC… | Asset management joint venture providing mutual fund, portfolio management and advisory services; from April … | listed 2025-12-19 as ICICIAMC (NSE) | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: ICICI Pension Fund Management Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** ICICI Prudential Asset Management Company, the group's asset management and portfolio/advisory services subsidiary — class `not stated`.
 
 ### 2. Stages and dates
@@ -12675,13 +12642,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| ICICI Prudential Asset Management Company Limited | not stated | — | — | 150,274 | 11.7% | yes |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| ICICI Prudential Asset Management Company Limited | not stated | 150,274 | 13.2% | yes |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹1,136,781 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹1,136,781 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — No shares distributed to Bank shareholders; listing came via PCHL's partial divestment, with the Bank retaining 53.0%
 
@@ -12707,7 +12674,7 @@ xychart-beta
 - **Insider actions around the separation:** "In February 2025, the Bank's joint venture partner, PCHL, made an announcement regarding a potential listing and partial divestment of its stake in ICICI Prudential Asset Management Company Limited, subject to market conditions, requisite approvals and other considerations." "Following the receipt of requisite approvals, the Bank purchased 2.0% additional shareholding from PCHL." For the life insurer: "the Bank has, through multiple tranches executed between July 22, 2026 and September 2, 2026, completed the purchase of approximately 2.0% of ICICI Life's equity share capital at June 30, 2026, through the stock exchange mechanism." "PCHL entered into definitive agreements on May 17, 2026, pursuant to which PCHL has agreed to acquire a 75% stake in Bharti Life Insurance Company Limited" and "ICICI Prudential Life Insurance Company Limited has applied to IRDAI for the reclassification of PCHL from 'promoter' to 'investor'". No pledging is stated.
 - **Insiders, per the checklist read:** Bank held 53.0% and PCHL 34.6% at March 31, 2026; Bank bought 2.0% more from PCHL primarily to keep majority shareholding if stock-based compensation is granted · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 There is no separation, demerger or spin-off of a business by ICICI Bank in these texts — the question's premise is not supported by the transcripts or the filing, and the dominant direction of travel is the opposite: consolidation of group entities into the Bank. The nearest things management actually described are four entity-level reorganizations. (1) Pension funds: the Board on July 19, 2025 approved acquiring 100% of ICICI Prudential Pension Funds Management Company Limited from ICICI Prudential Life Insurance, moving it from a step-down subsidiary of ICICI Life to a direct wholly owned subsidiary of the Bank; the share purchase agreement was executed January 12, 2026, and on the Jan 2026 media call Sandeep Batra said the rationale was that 'the synergy with the Bank will be better and the business will be able to expand in a much better fashion,' i.e. 'synergising with the banking set of customers'; ICICI Life booked a Rs. 1.1 billion gain on the sale, which was part of why its FY2026 PAT rose 34.6% to Rs. 16.00 billion (25.0% excluding the sale). (2) ICICI Venture's private equity, venture capital and real estate fund management business was approved in principle on May 8, 2025 for transfer to ICICI Prudential AMC, completed with ICICI Prudential AMC managing the transferred funds effective April 1, 2026; the stated purpose was 'offering of an integrated full range of investment asset classes, including private equity,' while ICICI Venture keeps only 'certain advisory activities' and 'certain residual funds' — ICICI Venture's PAT jumped to Rs. 1.5 billion in FY2026 from Rs. 0.2 billion in FY2025. (3) A small divestment of the Bank's entire stake in the NIIT Institute of Finance and Banking JV (set up around 2006), which Batra on Apr 2025 called 'a very small amount' done to 'rationalise and simplify our own portfolio where we want to remain focused on.' (4) Closure of the Offshore Banking Unit in the SEEPZ, Mumbai, for which RBI gave a no-objection letter in May 2026 (a prior OBU closure had already pushed Rs. 3.40 billion of negative foreign currency translation reserve into the Q4-FY2024 P&L). Against these, the Bank was pulling businesses in, not pushing them out: ICICI Securities was delisted on March 24, 2025 and became wholly owned (56 million ICICI Bank shares issued at a 67:100 swap, which Anindya Banerjee cited as the main reason net worth rose about Rs. 20,000 crore sequentially, 'while it's capital neutral'); the Bank bought ~2% more of ICICI Prudential AMC and ~2% more of ICICI Life, explicitly 'towards maintaining the Bank's majority shareholding' against stock-based compensation dilution; it infused Rs. 5.0 billion (including Rs. 500 crore in Q3-FY2026) into ICICI Home Finance, which Batra justified as meeting 'the regulatory requirement and expansion that is required from their business point of view'; and it acquired the remaining equity of I-Process Services. The only genuine ownership separations described are at the partner/JV level, not the Bank's: ICICI Prudential AMC listed on BSE and NSE effective December 19, 2025 following Prudential Corporation Holdings' February 2025 announcement of a 'potential listing and partial divestment of its stake,' and after PCHL agreed on May 17, 2026 to buy 75% of Bharti Life, ICICI Life applied to IRDAI to reclassify PCHL from 'promoter' to 'investor' and to rename itself 'ICICI Life Insurance Limited' (IRDAI approved the name change August 7, 2026).
 
@@ -12899,8 +12866,6 @@ xychart-beta
 |---|---|---|---|---|
 | **Aegis Vopak Terminals Limited** | 2025 initial public offering (IPO) of material subsidiary A… | Gas and liquid storage terminalling at Indian ports: cryogenic LPG terminals, liquid tank terminals, ammonia … | listed 2025-06-02 as AEGISVOPAK (NSE) | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Hindustan Aegis LPG Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** Aegis Vopak Terminals Limited (AVTL), the group's liquid and gas storage/terminalling subsidiary, separately listed — class `regulatory_strategic`.
 
 ### 2. Stages and dates
@@ -12929,13 +12894,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Aegis Vopak Terminals Limited | not stated | — | — | 31,681 | 42.4% | yes |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Aegis Vopak Terminals Limited | not stated | 31,681 | 73.7% | yes |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹42,976 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹42,976 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — AVTL listed via fresh INR 2,800 crore primary issuance, not a share distribution to parent shareholders; documents state no shareholding-pattern change
 
@@ -12961,7 +12926,7 @@ xychart-beta
 - **Insider actions around the separation:** No promoter or management buying, selling or pledging is stated. Related disclosures: "The trading window for dealing in the securities of the Company, which was closed for Company’s Director/designated persons associated with the Company from Tuesday, April 1, 2025 continues to remain closed till the conclusion of 48 hours after the declaration of audited financial results (standalone and consolidated) approved by the Board of Directors of the Company." (May 29, 2025); "None of the Directors/Key Managerial Personnel of the Company/their relatives are in any way, concerned or interested, financially or otherwise in the Special Resolution set out except to the extent to their shareholding in the Company, if any." (Postal Ballot Notice, December 10, 2024); and, at the subsidiary level, "Itochu Corporation has acquired a 10% stake in Aegis Terminal Pipavav Limited coming in as a strategic partner with an intention to raise that to 25% stake over the next 3 years."
 - **Insiders, per the checklist read:** Promoter Raj Chandaria is Chairman & MD; parent holds "44% shareholder of AVTL", earns ~25% margin developing assets billed to AVTL; Itochu took 10% of ATPL, intending 25% · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 Across these texts Aegis is not demerging a division to its own shareholders — one filing states plainly "Yes, transaction is outside the Scheme of Arrangement" — it is carving its port terminalling business out of Aegis Logistics Ltd (ALL) into the Royal Vopak joint venture Aegis Vopak Terminals Ltd (AVTL), IPO-ing it, and then migrating terminal assets into AVTL and its subsidiaries by slump sale; ALL retains Mumbai Liquid, Mumbai LPG, LPG/ammonia Distribution, Infrastructure Development (EPC), Sourcing and treasury. Management's stated reason is capital: the group is funding roughly USD 1.2 billion of gross capex (about INR 10,000 crores) by FY27 and a USD 5 billion pipeline to 2030 (including a non-binding INR 20,000 crore Vadhavan MoU, INR 1,675 crores at JNPA/J2, INR 525 crores per ammonia terminal), and Murad Moledina said the AVTL IPO's "primary objective was to reduce debt and strengthen the balance sheet enabling us to seize future growth opportunities and continue our GATI strategy" — GATI being Gateway Access to India. The dilution problem is answered two ways: in Nov 2024 he argued equity infused into the JV "will be value accrued into the holdco because we are eliminating interest cost which is a very high cost for infrastructure companies," so rising minority interest is offset by interest savings; post-listing he called it EPS accretive because reinvested proceeds more than compensate for profit shared with minorities. The split is engineered so cash returns to the parent: ALL (or a 100% subsidiary) builds the assets and bills AVTL at arm's length with a ~20–25% margin — 30% on signing the framework agreement (INR 500 crores of the INR 1,675 crore J2 project) and 70% on completion — so "we recover back whatever we have spent and the margin remains in cash," eliminated on consolidation but real at the standalone level, while ALL also keeps 44.71% of AVTL and management control, so AVTL is still consolidated line by line. Partner structure, not lender pressure, shapes it: Vopak dilutes equally alongside ALL; SEBI rules legally oblige a Phase-II equity infusion within three years; Itochu has taken 10% of Aegis Terminal (Pipavav) Ltd with intent to reach 25%; L&T (Kandla green ammonia) and Hindustan Zinc (15-year ammonia take-or-pay) sit on the project side. Consolidation of stragglers followed — Haldia's Hindustan Aegis LPG (25,000 MT, HPCL contract to 2038) moved 75% into AVTL, with 51% sold by Aegis Gas for INR 701.6 crores, and the Pipavav ammonia terminal transferred to ATPL for INR 525 crores — and performance has been strong throughout: FY26 revenue INR 8,333 crores (+23%), normalised EBITDA INR 1,599 crores (+36%), PAT INR 1,107 crores (+41%), EPS 25.59, cash and investments ~INR 5,939 crores versus INR 150 crores in FY22, consolidated debt-to-equity 0.04 and no net debt.
 
@@ -13158,8 +13123,6 @@ xychart-beta
 |---|---|---|---|---|
 | **EAAA India Alternatives Limited** (earlier Edelweiss Alternative Asset Advisors Limited) | 2026 IPO of EAAA India Alternatives Limited (offer for sale… | Acts as the Investment Manager to the funds under alternate asset domain; alternative asset management (FPAUM… | listed 2026-11-02 as EDELALTS (NSE) | not stated (Deepak Mukhija is named as Company Se… |
 
-**The other parties to the scheme(s)** — not separated entities: Edelweiss Retail Finance Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** EAAA India Alternatives Limited, the alternative asset management (investment manager to alternate-asset funds) business, part-listed via IPO offer for sale — class `value_unlocking`.
 
 ### 2. Stages and dates
@@ -13190,13 +13153,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| EAAA India Alternatives Limited | Total Income of EAAA during FY 2025-26: Rs. 963.76 crores; … | — | 9.3% (FY2026) | 12,764 | 49.8% | no |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| EAAA India Alternatives Limited | Total Income of EAAA during FY 2025-26: Rs. 963.76 crores; FY 2024-25… | 12,764 | 99.0% | no |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹12,891 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹12,891 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “For Nido Home Finance Limited (Regulation 30 annexure, "The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year", As on March 31, 2025): "Income  520.63  5.47%" and "Net Worth  828.2  13.99%" of "% contribution to EFSL consolidated financials". For EAAA, the documents give only absolute figures — "Total Income of EAAA during FY 2025 -26: Rs.  963.76 crores ." and "Net worth of EAAA as on March 31, 2026: Rs. 1,075.54 crores ." — with no stated percentage of the parent.”
 
@@ -13224,7 +13187,7 @@ xychart-beta
 - **Insider actions around the separation:** Group selling in the EAAA IPO: "As part of the IPO, Edelweiss Securities and Investments Private Limited (“ESIPL”), a wholly owned subsidiary of the Company  has sold  72,07,207  equity shares  by way of Offer for Sale, at the price of Rs. 1,665 per share." with net consideration of Rs. 1,120.63 crores to ESIPL; the offer for sale "does not fall within the related party transaction s". Group selling in Nido: the Company, ERCSL and EFCL transferred 45% of Nido's paid-up equity for INR 5,80,67,79,525, with a possible "additional payment based upon returns realized by CA Sardo Investments from its investment in Nido". Pledges of group holdings for debt: "Investment of Rs. 149.72 crores in equity shares of Edelweiss Asset Management Limited, a subsidiary of the Company, has been pledged as security against the debt securities issued by Ecap Equities Limited and Edel Finance Company Limited.", "Investment of Rs. 232.11 crores in equity shares of Edel Finance Company Limited, a subsidiary of the Company, has been pledged as security against the debt securities issued by Edelcap Securities Limited.", "Investment of Rs. 140.04 crores in equity shares of Edelweiss Asset Reconstruction Company Limited, a subsidiary of the Company, has been pledged as security against the debt securities issued by Ecap Equities Limited." and a pledge of CCDs of Rs 625 crores issued by Ecap Securities and Investment Limited. No buying, selling, pledging or stated intent by the promoters or management in the shares of Edelweiss Financial Services Limited itself is stated.
 - **Insiders, per the checklist read:** ESIPL, wholly owned subsidiary and "one of the promoters", sold 72,07,207 shares yet still holds 78.43%; EFSL through all subsidiaries holds 83.88%. Management incentives in EAAA not stated. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 On the documentary record available, Edelweiss is not executing a demerger scheme but a sequence of subsidiary-level separations that convert a holding-company conglomerate into separately capitalised, separately owned businesses — described in its own press release as "seven independent and well-governed businesses" each with "dedicated management teams and strong boards." The clearest stated reason is the Alternative Asset Management arm, EAAA India Alternatives: management said the IPO was "the first step towards building EAAA as a standalone institutionalized platform," i.e. separating the fastest-growing, fee-income business (FPAUM INR 41,920 Cr, +33% YoY; nine-month fund raise INR 7,576 Cr, +67% YoY; total income Rs 963.76 Cr in FY26 versus Rs 584.25 Cr in FY24; net worth Rs 1,075.54 Cr) from the credit-heavy parent so it can be valued and institutionalised on its own. Critically, the EAAA listing was a pure offer for sale by holdco subsidiary ESIPL (originally up to Rs 15,000 mn, cut to Rs 12,000 mn in the RHP, finally Rs 1,200 Cr gross / Rs 1,120.63 Cr net at Rs 1,665 per share) — no primary money went to EAAA, so the cash accrues to the Edelweiss holding structure, which fits the stated priority of "focused reduction in corporate net debt" (down 15% to INR 6,520 Cr over two years, with consolidated net debt INR 11,390 Cr and a 3.46x debt-equity ratio). The second separation is Housing Finance: Nido Home Finance was handed to a strategic majority investor, CA Sardo Investments (The Carlyle Group) with Salisbury Investments (Aditya Puri's family vehicle), investing ~INR 2,100 Cr — Rs 580.68 Cr of secondary for 45% plus Rs 1,446.14 Cr of primary equity and warrants at INR 193 — taking them to 58.26% immediately and 72.70% fully diluted within 18 months, so Nido "ceased to be a subsidiary" and Edelweiss fell to 38.91% (25.46% diluted). Here the separation solves a growth-capital problem Edelweiss itself was not funding: a business contributing only 5.47% of consolidated income (Rs 520.63 Cr) but consuming 13.99% of net worth (Rs 828.2 Cr) was recapitalised with third-party primary money, with Edelweiss retaining upside via a minority stake and "an additional payment based upon returns realized by CA Sardo Investments." The same template was applied to the Mutual Fund arm, where a 15% sale of Edelweiss Asset Management and Edelweiss Trusteeship to WestBridge moved both into joint control, crystallising a Rs 2,440 Cr unrealised and Rs 281 Cr realised gain (and a Rs 389 Cr deferred tax charge) — evidence that the separations are also being used to mark up carrying value and lift reported net worth/PAT (nine-month PAT Rs 549 Cr, +45% YoY). Taken together, the stated logic is: each business reaches scale, then gets its own owner, its own capital and its own valuation, while the parent de-levers.
 
@@ -13440,8 +13403,6 @@ xychart-beta
 |---|---|---|---|---|
 | **JSW One Platforms Limited** | 2026 proposed initial public offering of JSW One Platforms … | JSW online platform for steel and building materials; JSW Steel holds about 61% equity stake on a fully dilut… | to be listed | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Piombino Steel Limited — merged in — no shares for the parent's holders; Amba River Coke Limited — merged in — no shares for the parent's holders; Monnet Cement Limited — merged in — no shares for the parent's holders; JSW Retail and Distribution Limited — merged in — no shares for the parent's holders; BMM Ispat Limited — merged in — no shares for the parent's holders; National Steel and Agro Industries Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** JSW One Platforms Limited, the group's online platform in which JSW Steel holds ~61%, partly sold via IPO — class `not stated`.
 
 ### 2. Stages and dates
@@ -13484,13 +13445,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| JSW One Platforms Limited | not stated (GMV reached Rs.6,200 crores in FY26, a 57% YoY … | 0.35% | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| JSW One Platforms Limited | not stated (GMV reached Rs.6,200 crores in FY26, a 57% YoY increase; … | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹329,647 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹329,647 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “JSW One Platforms Limited IPO: "Share of profit of JOPL for FY 2025-26: (Rs. 90 crores) [(0.35%) of the consolidated net profit after tax of JSW Steel Limited] Net worth impact of investment in JOPL as at 31 March 2026: Rs. 68 crores [0.06% of the consolidated net worth of JSW Steel Limited]" | Saffron Resources Private Limited 50:50 JV: "The net worth of Saffron as on 31st March, 2025 is INR 4.95 crore Turnover for FY25: Nil" | BMM Ispat amalgamation: "Paid-up share capital, Turnover and Networth of the companies involved in the Scheme for the year ended 31st March, 2026: (Rs. in Crores) JSW Steel Limited 244 / 132,847 / 77,625; BMM Ispat Limited 855 / 4,776 / 2,732"”
 
@@ -13517,7 +13478,7 @@ xychart-beta
 - **Insider actions around the separation:** JSW Steel Limited itself is selling down in the JOPL IPO: "the participation of the Company in the proposed initial public offering ("IPO") of JSW One Platforms Limited ("JOPL") as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 811 Crores ... held by the Company". | BMM Ispat is bought from the promoter group: "Majority stake in BMMIL is held by JSW Projects Limited, a promoter group entity of the Company, while the remaining shareholding is with Mr. Dinesh Kumar Singhi and Mrs. Snehalatha Singhi." and "#post inter se transfer of 4.15% of the issued and paid-up share capital of the Transferor Company, effected pursuant to a share purchase agreement executed between the shareholders of Transferor Company on May 12, 2026." That scheme raises promoter holding in JSW Steel from 45.32% to 45.65%. | Shareholder vote on the Piombino scheme: "The Scheme was approved by 2,032 equity shareholders holding 2,14,82,88,337 equity shares, representing 94.86% of the valid votes cast by the Company's equity shareholders. It was also approved by 1,982 public shareholders holding 1,06,75,43,004 equity shares, representing 97.20% of the valid votes cast by its public shareholders." | Other promoter/management buying, selling or pledging: not stated.
 - **Insiders, per the checklist read:** JSW Steel participates as Promoter Selling Shareholder offering shares up to Rs 811 crores; it holds about 61% equity stake in JOPL on a fully diluted basis. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is the steel business undertaking of Bhushan Power and Steel Limited (BPSL) — the ~4.5 MTPA integrated plant at Jharsuguda/Sambalpur, Odisha, which JSW acquired out of IBC in 2021 at 2.75 MTPA and then expanded to 4.5 MTPA. The mechanics, approved by the Board on December 3, 2025, were a slump sale of BPSL's steel undertaking on a going-concern basis to JSW Sambalpur Steel Limited for Rs. 24,483 crores cash (subject to closing adjustments), with JFE Steel Corporation of Japan subscribing 50% of JSW Sambalpur's holding company JSW Kalinga Steel Limited for Rs. 15,750 crores in two equal tranches of Rs. 7,875 crores — giving a 50:50 JV at an equity value of Rs. 31,500 crores and enterprise value of Rs. 53,000 crores. Management's stated problem was funding growth without stressing the balance sheet: JSW had a 50 MTPA India target by FY31 (raised in May 2026 to 62 MTPA by FY32, plus 16 MTPA across the JFE and POSCO JVs, ~78-80 MTPA in all), and the transaction was 'aimed at securing the Company's growth in a financially prudent manner to enable it to pursue its aspirations across business cycles,' producing a Rs. 32,000 crore cash inflow and ~Rs. 37,000 crores of deleveraging. The second stated problem was capability: BPSL 'has significant growth potential' and the JV would 'enable acceleration of its capacity with best-in-class technology and enable production of high-end value-added steel products,' building on JFE's partnership with JSW since 2009. A third, separate problem was structure — BPSL sat under Piombino Steel Limited, 82.65% JSW Steel and 17.35% JSW Shipping & Logistics (a promoter group entity) — so a parallel scheme amalgamated Piombino into JSW Steel (10 JSW shares of Re. 1 for every 156 Piombino shares of Rs. 10) so JSW could 'directly hold the investment in BPSL,' giving 'a platform to facilitate any transactions and investments related to BPSL's business, thereby enhancing strategic focus without minority shareholders' involvement,' plus 'additional cash to pursue its growth aspirations in a financially prudent manner' and fewer entities/compliances. By May 14, 2026 management reported the JV entity formed by end-March, JFE's first tranche in, ~Rs. 30,000 crores of the Rs. 37,000 crore deleveraging done, net debt Rs. 54,000 crores, leverage down to 1.81x and gearing 0.51x, a credit-rating outlook uplift, a Rs. 18,051 crore exceptional gain on the slump sale (largely sheltered by BPSL's carry-forward losses and unabsorbed depreciation), and BPSL deconsolidated into equity accounting. No text in the filings or the one readable call says investors, lenders or partners demanded the separation; JFE is the counterparty and already had a nominee, Mr. Hiroyuki Ogawa, on JSW Steel's board.
 
@@ -13553,7 +13514,13 @@ The business being separated is the steel business undertaking of Bhushan Power 
 
 ### 6. On the calls, verbatim
 
-No call in the last 36 months carries a statement about it (or no transcript is on file).
+1 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 1 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+
+| Call | Q&A exchanges | Prepared-remarks passages | Transcript |
+|---|---:|---:|---|
+| May 2026 | 0 | 1 | [transcript](https://jsw-steel-s3.s3.ap-south-1.amazonaws.com/jsw-steel-images/uploads/2026/05/JSWSteel-Earnings-May14-2026_vF.pdf) |
+
+**The full verbatim text of every exchange is in [companies/JSWSTEEL.md](companies/JSWSTEEL.md#6-on-the-calls-verbatim).**
 
 ### 7. The parent's financial statements
 
@@ -13682,8 +13649,6 @@ Only the parent's figures are on file: Sales (₹ cr) 185,470 (Mar 2026); Sales 
 |---|---|---|---|---|
 | **IL JIN Electronics (India) Limited** (earlier IL JIN Electronics (India) Private Limited) | 2026 proposed Initial Public Offer of IL JIN Electronics (I… | Printed circuit board assemblies and electronic components for air conditioners, washing machines, fans, cool… | to be listed | Mr. Sanjay Arora – Whole-Time Director, ILJIN Ele… |
 
-**The other parties to the scheme(s)** — not separated entities: AmberPR Technoplast India Private Limited — merged in — no shares for the parent's holders; Ever Electronics Private Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** IL JIN Electronics, Amber's material subsidiary in electronics manufacturing services (EMS), being separately listed via proposed IPO — class `regulatory_strategic`.
 
 ### 2. Stages and dates
@@ -13728,13 +13693,13 @@ Only the parent's figures are on file: Sales (₹ cr) 185,470 (Mar 2026); Sales 
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: POSSIBLE — the piece is a sizeable minority of the whole; forced selling on size alone is weaker.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| IL JIN Electronics (India) Limited | not stated for the entity; Electronics division revenue of … | — | 26.8% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| IL JIN Electronics (India) Limited | not stated for the entity; Electronics division revenue of INR3,268 c… | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹23,883 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹23,883 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “From the 7 September 2024 filing, for AmberPR only: "The amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year" — "Turnover FY 2023-24" "12,092.63" and "Net Worth FY 2023-24" "2,923.57" (Amount in Lakh); "% of Turnover or Revenue or Income and Net Worth contributed by AmberPR of the Company" "2.68%" and "1.71%". No size statement is given for IL JIN relative to Amber.”
 
@@ -13759,7 +13724,7 @@ Only the parent's figures are on file: Sales (₹ cr) 185,470 (Mar 2026); Sales 
 - **Insider actions around the separation:** No promoter or management buying, selling or pledging of Amber shares is stated. The documents do state, on the Ascent management shareholding: "We have taken our -- earlier, we acquired 60%, now we own 98.5%. Yes, because of the arrangement in the agreement, Mr. Manjunath had to step down because he's no more a shareholder in the Ascent." Third-party capital raises around the separation: "ILJIN Electronics has successfully concluded fundraise with the entire INR1,750 crores received from marquee investors" (CCPS plus a small portion of equity; tranches of INR370 crores in September, INR280 crores in October and ChrysCapital's INR1,100 crores) and "Amber Enterprises raised equity fund of INR1,000 crores from marquee investors through QIP". Also "share of loss of Shivalik JV is INR64 crores from 1st January '26 till 30th March '26, the date of sale of Shivalik shares." On an earlier demerger report, the Company told NSE on 24 December 2024: "As on date, there is no such event that triggers the disclosure obligations under Regulation 30 of SEBI LODR Regulations."
 - **Insiders, per the checklist read:** Amber holds 60,98,240 IL JIN shares, 89.72% post rights issue (Rs 296.02 crore subscribed); promoters Jasbir Singh and Daljit Singh are directors on IL JIN's board; CCPS holders' maximum dilution ~30% · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is Amber's Electronics / EMS arm, housed in IL JIN Electronics (India) Ltd — PCB assembly (~INR2,281cr of FY26 revenue), bare PCB through Ascent Circuits (98.5% owned), Shogini Technoarts (80%) and the Ascent-K/Korea Circuit HDI JV (~INR600cr), plus Power-One Microsystems (60%, power electronics, ~15% EBITDA) and 50.4% of Israel-listed Unitronics (industrial automation, 24-25% EBITDA) — leaving Amber with the RAC/consumer-durables division (INR8,383cr FY26) and Sidwal railway/defence (INR535cr). The stated driver is funding: essentially all of the group's capex sits in electronics, with more than INR4,500cr of ECMS investment approvals (Ascent multilayer INR991cr, Ascent-K HDI INR3,200cr, Shogini INR500cr), asset turns of only 0.75-1.1x, and the 48% MeitY plus 42% UP incentives arriving 5-6 years after the spend, so FY27 capex of INR1,800-2,000cr (INR1,100-1,200cr cash) and ~INR1,400-1,500cr in FY28 must be pre-funded against a board policy never to exceed 2x debt/EBITDA and Jasbir Singh's pledge to be net-debt-free. Management said investors asked for it: private equity funds were 'chasing to invest in the electronic division', and instead of loading Amber's balance sheet they raised INR1,750cr inside ILJIN (mostly CCPS, including ChrysCapital's INR1,100cr) while Amber separately did a INR1,000cr QIP. Separation also gives electronics its own margin and valuation identity — 2.8% EBITDA when ILJIN was bought in 2018 on INR300cr revenue, 6.9% FY25, 8.8% FY26, 10.8% in Q4 FY26, 26% ROCE, guidance of 40% FY27 growth at 9.5-10% and a $1bn revenue target at 11.5-12% EBITDA — against a weather-driven RAC business that saw quarters of -30% to -35% and nine bad seasons in 25 years. The outside CCPS holders also need a price: conversion happens 'based on the future multiple and valuation' (auditors provisioned up to ~30% dilution in NCI), which a listing supplies; and their presence already constrains group structuring, since management could not say whether the new Oppo mobile-phone business would sit in ILJIN 'because we have other shareholders also in the IL JIN cap table'. It is being done as a listing of the subsidiary, not a demerger: in April 2026 Amber put another INR296.02cr into an INR328.12cr ILJIN rights issue (89.58% to 89.72%); in July 2026 ILJIN split shares from Rs10 to Rs5, raised authorised capital to Rs250cr, issued a 25:1 bonus, converted from private to public limited, shifted its registered office from Pune to Greater Noida and resolved to explore fund-raising 'including... public issue'; the DRHP was filed on 7 November 2026. In parallel Amber is cleaning up the rest of the portfolio — merging wholly-owned AmberPR Technoplast into itself for compliance/cost reduction and peer benchmarking, and selling Sidwal's entire 49% Shivaliks (Titagarh Firema) JV for a nominal Rs1,09,798.85 after INR112cr of FY26 impairment/JV losses, 'to curtail future losses'.
 
@@ -13792,23 +13757,7 @@ The business being separated is Amber's Electronics / EMS arm, housed in IL JIN 
 
 ### 6. On the calls, verbatim
 
-11 call(s), oldest first: **74 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 25 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
-
-| Call | Q&A exchanges | Prepared-remarks passages | Transcript |
-|---|---:|---:|---|
-| Feb 2024 | 7 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9124ca7f-7d48-4df9-a782-1ea985c2c963.pdf) |
-| May 2024 | 9 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b3593f24-44d1-400e-970b-ec0032f47b98.pdf) |
-| Aug 2024 | 6 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fc895c56-6ee9-421b-a9b2-54dfd39172f1.pdf) |
-| Oct 2024 | 9 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=13b0e5d0-a4db-4cb2-b10c-a3f76f990548.pdf) |
-| Jan 2025 | 7 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=813804ee-c3a7-4425-bb42-2057de6be8b1.pdf) |
-| May 2025 | 7 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=069162e3-fda9-42bb-9c69-0db5b0c2a202.pdf) |
-| Aug 2025 | 9 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=445f7c35-5bf5-4f56-9d6f-e16495c40233.pdf) |
-| Nov 2025 | 9 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0bcb53ba-69d0-4386-9199-d20b4b029d9c.pdf) |
-| Feb 2026 | 7 | 3 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99744db3-5ae9-451c-8d73-b33d28177128.pdf) |
-| May 2026 | 4 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=469945ff-af54-4664-8bd7-ed051c694aff.pdf) |
-| Jun 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e758d7f3-9942-4baf-b20b-0e80b2d6971a.pdf) |
-
-**The full verbatim text of every exchange is in [companies/AMBER.md](companies/AMBER.md#6-on-the-calls-verbatim).**
+No call in the last 36 months carries a statement about it (or no transcript is on file).
 
 ### 7. The parent's financial statements
 
@@ -13971,8 +13920,6 @@ xychart-beta
 |---|---|---|---|---|
 | **Swara Baby Products Limited** (earlier Swara Baby Products Private Limited) | 2026 IPO of Swara Baby Products Limited (fresh issue plus o… | Contract manufacturing of disposable hygiene products — baby diapers, adult diapers and sanitary napkins; man… | to be listed | "It is completely managed by a separate team – le… |
 
-**The other parties to the scheme(s)** — not separated entities: Solis Hygiene Private Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** Swara Baby, the group's hygiene contract-manufacturing business (baby/adult diapers, sanitary napkins), via a separate IPO — class `unrelated`.
 
 ### 2. Stages and dates
@@ -13998,13 +13945,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: not determinable — the documents on file give no size for the separated piece.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Swara Baby Products Limited | "the revenue from operations of Swara Baby for FY 26 is Rs.… | — | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Swara Baby Products Limited | "the revenue from operations of Swara Baby for FY 26 is Rs. 11,639 Mi… | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹8,374 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹8,374 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “Swara Baby (2026 IPO): "If we refer to the summary of restated consolidated Profit and Loss account of Swara Baby as disclosed in page no. 75 of the DRHP, the revenue from operations of Swara Baby for FY 26 is Rs. 11,639 Million. Further, post adjustment of the inter-company transaction between Swara Baby and Brainbees of Rs. 2,634.61 Million as disclosed in the Risk Factor No. 2 on Page No. 23 of Swara Baby's DRHP, the revenue from operations is Rs. 9,004.39 Million which got consolidated in the revenue from operations of India Multi-channel business of Brainbees." | Solis Hygiene (2025 restructuring): "Solis Hygiene Private Limited (“Solis Hygiene”) has contributed Turnover of Rs. 240.7 Crore and Net Worth of Rs. 84.8 Crore amounting to 3% and 2% of the Consolidated Turnover and Net Worth, respectively of the Company, during the financial year 2024-25." | Mush (2026 sale): "Amount: Rs. 11.34 Crore Percentage Contribution: 0.13%" of turnover and "Amount: Rs. 2.09 Crore Percentage Contribution: 0.04%" of net worth for financial year 2025-26.”
 
@@ -14031,7 +13978,7 @@ xychart-beta
 - **Insider actions around the separation:** Parent selling down into the IPO: "the Board of Directors of the Company has today i.e. July 01, 2026, considered and approved the participation in the Offer for Sale up to such number of equity shares of face value of Rs. 2/- each of Swara Baby, a Subsidiary of the Company, for an amount aggregating up to Rs. 3,000 million, held by the Company". Stated intent: "Partial monetization of a successful investment allows us to crystallize value, improve return on investment and maintain flexibility for future strategic opportunities." and "We continue to remain invested and supportive of the business of Swara Baby and Swara Baby will continue to remain as Subsidiary Company of Brainbees." Buyers in the Mush sale: "Mr. Nihar Gosalia, existing shareholder of Mush and Mr. Vaishvik Brahmbhatt (“Proposed Buyers”) have agreed to acquire 13.45% and 38.09% shareholding, respectively." On buybacks (Q4 FY26 call, May 26, 2026): "Yes, we have sufficient cash on the company, but we haven't discussed any of these buybacks and stuff like that so far, in our internal discussions or even board discussions." No promoter or management buying, selling or pledging of the parent's shares is stated; the Company states it has no identifiable promoter or promoter group.
 - **Insiders, per the checklist read:** Brainbees holds 76.59% and remains Promoter of Swara Baby; it will sell up to Rs 3,000 million in the Rs 5,000 million OFS. Operations led by Mr. Alok Birla and Mr. Udit Birla; Supam Maheshwari and Gautam Sharma are non-executive directors. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is Swara Baby Products Limited, Brainbees' diaper/hygiene manufacturing subsidiary, which filed a DRHP on July 02, 2026 for an IPO of up to Rs 10,000 million (Rs 5,000 million fresh issue plus Rs 5,000 million offer for sale), with Brainbees itself selling up to Rs 3,000 million in the OFS (board approval July 01, 2026). Management's stated reason is drift in purpose: Brainbees invested Rs 906.17 million in 2020 for 53.45% (fully diluted) purely as backward integration — "to scale up our home brands within diaper category" with "more control on quality at scale, production timelines and continued innovation in diaper manufacturing" — but Swara then became the largest contract manufacturer by value in Fiscal 2025 in Indian hygiene manufacturing, adding adult diapers and sanitary napkins (similar absorbent raw materials and processes), third-party and multinational customers, and exports via a US subsidiary (Swara Corp, incorporated 08 December 2025). Brainbees' share of Swara's revenue fell from 27.03% in FY24 to 22.64% in FY26, so management says Swara "has charted a very different long term vision as compared to the original alignment with Brainbees," with "different capex and working capital needs" it should "bridge their own capital requirement" rather than draw on Brainbees' cash. On selling into the OFS despite holding cash, management argued "holding cash and holding an investment are two different capital allocation decisions" and that partial monetisation lets it "crystallize value, improve return on investment and maintain flexibility for future strategic opportunities." Control and commercials are explicitly unchanged: Brainbees stays Promoter at 76.59% (raised from 75.92% in a December 2025 swap that moved Solis Hygiene under Swara to put the hygiene vertical "under a single roof"), Swara remains a subsidiary, Brainbees' management has no involvement in running it (Alok Birla and Udit Birla lead; Supam Maheshwari and Gautam Sharma sit as non-executive directors), and "terms of trade" stay at arm's length with "no impact either on supply chain or pricing." Swara contributed Rs 11,639 million revenue in FY26 (Rs 9,004.39 million after eliminating Rs 2,634.61 million of inter-company sales) and Rs 1,445.7 million of adjusted EBITDA into the India multi-channel segment. No lender, partner or investor is named as having demanded it; analysts had only pushed on a separate asset, GlobalBees, where Supam said in August 2025 that "the most probable outcome for Globalbees... will be listing" given its separate board, management and investors (Premji, Lightspeed, Chiratae).
 
@@ -14199,8 +14146,6 @@ Only the parent's figures are on file: Sales (₹ cr) 8,548 (Mar 2026); Sales gr
 |---|---|---|---|---|
 | **JSW One Platforms Limited** | 2026 proposed initial public offering of JSW One Platforms … | "India's leading tech-led, full-stack B2B e-commerce platform, serving manufacturing and construction MSMEs w… | to be listed | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Shiva Cement Limited (SHIVACEM) — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** Nothing separated — Shiva Cement, the listed clinker subsidiary, is amalgamated into parent JSW Cement — class `value_unlocking`.
 
 ### 2. Stages and dates
@@ -14232,13 +14177,13 @@ Only the parent's figures are on file: Sales (₹ cr) 8,548 (Mar 2026); Sales gr
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: not determinable — the documents on file give no size for the separated piece.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| JSW One Platforms Limited | Per JSW Cement's disclosure, the turnover / revenue / incom… | — | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| JSW One Platforms Limited | Per JSW Cement's disclosure, the turnover / revenue / income contribu… | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹17,052 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹17,052 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “2026 amalgamation of Shiva Cement — "The paid-up share capital, net worth and turnover / revenue of the companies involved in the Scheme are as follows: INR in Crores — Company / Paid-up Equity Share Capital / Turnover (FY 2025-26) / Net Worth (as on March 31, 2026): Transferee Company (Standalone) 1,363.36, 5,995.28, 7,029.47; Transferor Company (Standalone) 159.00, 435.17, (30.08)"; and "JCL holds 66.23% of the paid-up equity share capital of SCL." 2026 JSW One Platforms IPO — "amount and percentage of the turnover or revenue or income and net worth contributed by such unit or division or undertaking or subsidiary or associate company of the listed entity during the last financial year; Nil". 2025 Algebra Endeavour sale — "The division / undertaking does not contribute to the turnover / net worth or income of the Company".”
 
@@ -14265,7 +14210,7 @@ Only the parent's figures are on file: Sales (₹ cr) 8,548 (Mar 2026); Sales gr
 - **Insider actions around the separation:** 2026 JSW One Platforms IPO — JSW Cement Limited's Board "considered and approved the participation of the Company in the proposed initial public offering ("IPO") of JSW One Platforms Limited ("JOPL") as a Promoter Selling Shareholder by offering for sale, such number of equity shares of face value of Rs. 10 each of JOPL aggregating up to Rs. 123.00 Crores ... held by the Company"; JSW Steel Limited's Board approved the same for shares "aggregating up to Rs. 811 Crores ... held by the Company"; both "subject to applicable law, market conditions, receipt of necessary approvals/ regulatory clearances and other considerations." 2026 amalgamation — "Further, the Equity Shares held by the Transferee Company in the Transferor Company shall stand cancelled and extinguished and no Equity Shares of the Transferee Company shall be allotted in lieu or in exchange of the same", and on the reserve reorganizations "There shall be no consideration involved ... Thus, there will be no benefit to any promoter/ promoter group/ group companies". 2025 Algebra Endeavour sale — "None of the buyers belong to the promoter / promoter group companies." No promoter or management buying, selling or pledging of JSW Cement shares is stated.
 - **Insiders, per the checklist read:** JCL holds 66.23% of SCL equity and all its OCCRPS; JSW Cement promoter group goes 72.02% to 71.39% post-merger; Shiva promoter group held 66.50% · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 These texts announce no separation: the only board-approved reorganisation is the opposite — a consolidation. On 29 September 2026 the boards of JSW Cement Limited (JCL) and its 66.23%-owned listed subsidiary Shiva Cement Limited (SCL) approved a Scheme of Arrangement under Sections 230-232 read with Sections 52 and 66, amalgamating SCL into JCL with appointed date 1 April 2026, no cash consideration, and a swap of 5 JCL shares of ₹10 for every 41 SCL shares of ₹2 (JCL's own SCL equity cancelled; the ₹100 crore of 1% OCCRPS it holds also cancelled). The problems management says it solves are: dependence on third-party clinker — SCL's 1.32 mtpa Sundargarh (Odisha) clinker plant becomes backward integration, 'avoiding third-party purchases and associated mark-ups'; split funding — a single entity can raise funds on 'more favorable terms' and inter-company guarantees disappear; two listed entities' duplicated administration, record-keeping, consolidation effort and legal/regulatory compliance; a broken balance sheet at SCL (FY26 turnover ₹435.17 crore, net worth negative ₹30.08 crore versus JCL's ₹5,995.28 crore and ₹7,029.47 crore), whose ₹133.92 crore accumulated losses are written off against its securities premium, while JCL's amalgamation adjustment deficit is set against its own premium account (left at ₹4,335.67 crore) — described as 'right sizing' the financial statements; and SCL's illiquid minority float, whose 33.50% public holders move into a larger, institutionally-held stock. Structurally it is tiny and non-dilutive: shares rise from 1,36,33,64,936 to 1,37,55,13,537, promoters from 72.02% to 71.39%, public from 27.03% to 27.67%. No investor, lender or JV partner is said to have asked for the Shiva merger; valuation was by PwC Business Consulting and BDO Valuation, with fairness opinions from SBI Capital Markets (JCL) and DAM Capital (SCL), JM Financial as exclusive financial advisor and Price Waterhouse & Co as tax adviser; closing is guided at 12-14 months subject to stock exchanges, SEBI, NCLT Mumbai and Odisha Industrial Infrastructure Development Corporation. The genuine separations in these texts are different and smaller: the ₹191.63 crore cash sale of Algebra Endeavour / Vadraj Energy Gujarat Ltd (a Gujarat power plant) to Nuvoco Vistas (SPA 17 November 2025), and JCL selling up to ₹123 crore of JSW One Platforms shares as Promoter Selling Shareholder in that company's IPO (board 13 August 2026, alongside JSW Steel's up to ₹811 crore).
 
@@ -14474,16 +14419,16 @@ Only the parent's figures are on file: Sales (₹ cr) 6,501 (Mar 2026); Sales gr
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Bharat Coking Coal Limited | not stated | — | — | 14,688 | 5.6% | no |
-| Central Mine Planning & Design Institute Limited | not stated | — | — | 13,509 | 5.2% | no |
-| Mahanadi Coalfields Limited | not stated | — | — | — | — | not listed |
-| South Eastern Coalfields Limited | not stated | — | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Bharat Coking Coal Limited | not stated | 14,688 | 5.9% | no |
+| Central Mine Planning & Design Institute Limited | not stated | 13,509 | 5.4% | no |
+| Mahanadi Coalfields Limited | not stated | — | — | not listed |
+| South Eastern Coalfields Limited | not stated | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹248,666 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹248,666 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **The judge's read of selling pressure:** unlikely — Offers for sale to new IPO buyers, not distributions of shares to existing CIL shareholders; no index exclusion stated.
 
@@ -14513,7 +14458,7 @@ Only the parent's figures are on file: Sales (₹ cr) 6,501 (Mar 2026); Sales gr
 - **Insider actions around the separation:** Coal India Limited, the parent, sold shares of its subsidiaries in each IPO by way of offer for sale: "Bharat Coking Coal Limited, pursuant to its IPO, has sold 465,700,000 Equity Shares at an issue price of ₹ 23 per share which were offered for sale by the Company"; "Central Mine Planning & Design Institute Limited, pursuant to its IPO, has sold 107,100,000 Equity Shares at an offer price of ₹172.00 per share which were offered for sale by the Company." Proposed offers for sale by Coal India Limited of up to 661,836,300 equity shares of MCL and up to 668,056,100 equity shares of SECL are pending. No other promoter or management buying, selling or pledging is stated.
 - **Insiders, per the checklist read:** Not stated for MCL/SECL. CIL is the sole selling shareholder in each offer for sale; in the completed BCCL and CMPDIL IPOs CIL retained 90% and 85% respectively. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The texts do not contain any management-stated rationale for a separation: what the filings actually show is not a demerger or carve-out of a business line but the government-directed partial listing of Coal India's existing wholly-owned coal subsidiaries through pure offers for sale by CIL, with no rationale, synergy argument or use-of-proceeds ever explained in the three earnings calls. The only stated 'why' anywhere in the material is a directive: the Ministry of Coal's Office Memorandum I/37811/2025 dated 16.12.2025 'advised CIL to take concrete steps to ensure further listing of subsidiaries namely MCL and SECL in the upcoming financial year', after which the CIL Board gave in-principle approval by circular resolution on 23.12.2025 for onward submission to DIPAM — i.e. the asker was the owner/government (MoC and DIPAM), not investors, lenders or partners. The word 'further' implies a programme already under way: Bharat Coking Coal Limited (BCCL) listed on 19.01.2026 after selling 465,700,000 equity shares of ₹10 face value at ₹23 per share, cutting CIL's holding from 100% to 90% (4,657,000,000 to 4,191,300,000 shares); Central Mine Planning & Design Institute Limited (CMPDIL) listed on 30.03.2026 after selling 107,100,000 shares of ₹2 face value at ₹172.00, cutting CIL from 100% to 85% (714,000,000 to 606,900,000 shares). Both remain subsidiaries, so no business is being separated operationally — only minority equity is being sold, and because each is an offer for sale by CIL, proceeds accrue to the parent and not to the subsidiary. The pipeline then moved to the two largest producers: MCL's DRHP dated 01.09.2026 and RHP dated 13.11.2026 for an OFS of up to 661,836,300 shares (₹2 face value), and SECL's DRHP dated 01.11.2026 for up to 668,056,100 shares (₹2 face value), each 'subject to receipt of applicable approvals, prevailing market conditions'. The calls supply only indirect context for why these particular units are separable: management described sharply different subsidiary economics and problems — MCL producing 89.4 mt in H1 FY24 with just 21,523 employees and very low overburden versus SECL/ECL carrying ~30-35 old underground mines and high manpower (CIL total ~2,35,000 employees in Nov 2023, ~2.20 lakh by May 2025, ~12,000 superannuating a year); SECL repeatedly missing targets (197 mt target vs 162 mt FY23; ~8-9 mt short in FY24; heavy rainfall and land acquisition in FY25); BCCL as the pure coking-coal entity (36.18 mt FY23, 41 mt FY24 target) whose output cannot be used fully 'because of the lack of washing capacities', prompting washery monetisation (2 mt Durga washery won by JSW Steel); and CMPDIL building CIL's in-house e-auction platform from Ranchi to phase out MSTC. None of that was ever linked by management to listing or separation, so any value-unlocking logic is inference, not something the company stated.
 
@@ -14737,12 +14682,8 @@ xychart-beta
 | Days Payable | 215 (Mar 2016) | 338 (Mar 2021) | — | — | — |
 | Cash Conversion Cycle | 31 (Mar 2026) | 77 (Mar 2026) | 164 (Mar 2023) | — | — |
 | Working Capital Days | 11 (Mar 2026) | -39 (Mar 2026) | 133 (Mar 2023) | — | — |
-| Debt / equity (x) | 0.1 (Mar 2026) | 0.4 (Sep 2026
-            
-            (S)) | 0 (Mar 2023) | — | — |
-| Borrowings (₹ cr) | 14,072 (Mar 2026) | 2,478 (Sep 2026
-            
-            (S)) | 1 (Mar 2023) | — | — |
+| Debt / equity (x) | 0.1 (Mar 2026) | 0.4 (Sep 2026 (S)) | 0 (Mar 2023) | — | — |
+| Borrowings (₹ cr) | 14,072 (Mar 2026) | 2,478 (Sep 2026 (S)) | 1 (Mar 2023) | — | — |
 
 *Each figure is the latest on file, with its year. Working-capital days and ROCE come from the stored working-capital file; segment figures from the pages cited in part 8. A dash means the documents do not carry it.*
 
@@ -14798,8 +14739,6 @@ xychart-beta
 |---|---|---|---|---|
 | **GAIL Gas Limited** | 2026 IPO / listing of GAIL Gas Limited (in-principle board … | Wholly owned subsidiary of GAIL; city gas distribution — with its JVs/subsidiaries 12,46,000 DPNG connections… | to be listed | not stated |
 
-**The other parties to the scheme(s)** — not separated entities: Konkan LNG Limited — merged in — no shares for the parent's holders
-
 **What is being separated, as the documents put it:** GAIL Gas Limited, GAIL's wholly owned city gas distribution subsidiary, listed via IPO diluting up to 25% — class `not stated`.
 
 ### 2. Stages and dates
@@ -14817,13 +14756,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| GAIL Gas Limited | "In Q3 FY26, turnover of GAIL Gas stood at Rs.3 ,292 crore … | — | 5.2% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| GAIL Gas Limited | "In Q3 FY26, turnover of GAIL Gas stood at Rs.3 ,292 crore s as again… | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹123,612 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹123,612 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “Transferee Company - GAIL (India) Limited (GAIL) Turnover for FY 2025 -26: Rs. 1,41,483 Crore ... Transferor Company - Konkan LNG Limited (KLL) Turnover for FY 2025 -26: Rs. 741 Crore”
 
@@ -14850,7 +14789,7 @@ xychart-beta
 - **Insider actions around the separation:** GAIL (promoter of GGL) has stated the intent to dilute its own holding: "GAIL Board in its meeting held today i.e. 30.10.2026 accorded in-principle approval for Listing of shares of GAIL Gas Limited, (a wholly owned subsidiary of GAIL) (GGL) on the Indian stock exchanges through Initial Public Offering (IPO) route by diluting GAIL's equity in GGL upto 25%." No promoter or management buying, selling or pledging of GAIL shares is stated.
 - **Insiders, per the checklist read:** GGL is a wholly owned subsidiary of GAIL; GAIL dilutes equity in GGL upto 25%, retaining at least 75%. No management incentives stated. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is GAIL's own directly-authorised city gas distribution (CGD) retail business — the six geographical areas Varanasi, Patna, Ranchi, East Singhbhum (Jamshedpur), Cuttack and Khordha (Bhubaneswar) — which the Board resolved to hive down into its 100% subsidiary GAIL Gas Limited as a slump sale on a going-concern basis, effective 01.01.2027, with the subsidiary then to be listed via IPO diluting up to 25% of GAIL's equity. Management's stated reason was structural, not financial distress: CMD Sandeep Kumar Gupta said it was 'in order to have a single entity for development of GAIL's CGD business and for bringing business synergy, efficiency and retail focused business approach' — i.e. GAIL group CGD was split across GAIL's own balance sheet (six GAs, 0.36–0.55 MMSCMD, 195→215 CNG stations and 3.53→4.64 lakh DPNG connections over FY25–Q3FY26, volumes up ~25% in FY25 but 'currently in their early stages of development'), GAIL Gas (16 GAs plus 9 JVs, 7.0→7.8 MMSCMD, 12.46 lakh DPNG connections, 674 CNG stations, FY25 turnover Rs 12,231 crore, PBT Rs 615 crore up 42%, PAT Rs 451 crore up 40%) and 72 group GAs in all. A pipeline-and-marketing parent was also an awkward owner of a retail business: management said 'we are constantly reviewing these CGDs to optimize costs and enhance efficiencies', and segment reporting of the CGD/marketing split was itself confusing analysts (the Rs 400 crore standalone-to-consolidated regrouping queried in Jul 2025). The upside case cited was CGD demand: a PNGRB projection of consumption rising '2.5 times to 3.5 times by 2030 and 6 times to 7 times by 2040 from the baseline of approximately 37 MMSCMD in FY 24' (~15% CAGR), PNGRB capping CNG/domestic-PNG tariffs at Zone 1 and expected GST inclusion lowering CGD input costs. For the IPO, the argument was scale and timing — 'GAIL Gas is one of the biggest company in the country in terms of city gas distribution... now is high time that we started the process of listing GAIL Gas' — with a consultant already selected and a roughly one-year timeline. The impetus came largely from sell-side investors (Citi's Saurabh Handa on restructuring CGD investments in Nov 2024; Alliance Services' Balaji Das on the IPO consultant in Oct 2025); the only external consent management named was CCEA, 'since these six GAs were authorized to GAIL by CCEA' — no lender or JV-partner demand was cited. Running in the opposite direction, GAIL simultaneously pulled Konkan LNG Limited in: it bought out MSEB Holding's 7,40,55,220 shares via a NCLT-approved capital reduction (paid 06.07.2026, GAIL to 100%) and then merged KLL (FY26 turnover Rs 741 crore, versus GAIL's Rs 1,41,483 crore) into GAIL to 'create a larger and stronger vertically integrated entity, simplify and rationalize group structure'.
 
@@ -14887,11 +14826,18 @@ The business being separated is GAIL's own directly-authorised city gas distribu
 
 ### 6. On the calls, verbatim
 
-1 call(s), oldest first: **1 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 0 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+8 call(s), oldest first: **5 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 16 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 | Call | Q&A exchanges | Prepared-remarks passages | Transcript |
 |---|---:|---:|---|
-| Jan 2024 | 1 | 0 | [transcript](https://www.gailonline.com/pdf/InvestorsZone/EarningsCallTranscript290124.pdf) |
+| Jan 2024 | 1 | 1 | [transcript](https://www.gailonline.com/pdf/InvestorsZone/EarningsCallTranscript290124.pdf) |
+| May 2024 | 0 | 2 | [transcript](https://www.gailonline.com/pdf/InvestorsZone/GailInvestorsAndAnalystMeet2024.pdf) |
+| Aug 2024 | 0 | 1 | [transcript](https://www.gailonline.com/pdf/InvestorsZone/GAIL_Q1%20FY25_Earning_Call.pdf) |
+| Nov 2024 | 2 | 1 | [transcript](https://gailonline.com/pdf/InvestorsZone/GAIL_Earnings_Call_Q2_FY25_11112024.pdf) |
+| Jan 2025 | 0 | 1 | [transcript](https://www.gailonline.com/pdf/InvestorsZone/GAIL_Earnings_Call_Q3_FY25.pdf) |
+| May 2025 | 0 | 8 | [transcript](https://www.gailonline.com/pdf/InvestorsZone/GAIL%20Analysts%20Meet%20Q4%20FY25%2014.05.2025.pdf) |
+| Oct 2025 | 2 | 1 | — |
+| Feb 2026 | 0 | 1 | [transcript](https://www.gailonline.com/pdf/InvestorsZone/GAIL_Earnings_Call_Q3_FY_26.pdf) |
 
 **The full verbatim text of every exchange is in [companies/GAIL.md](companies/GAIL.md#6-on-the-calls-verbatim).**
 
@@ -15073,13 +15019,13 @@ xychart-beta
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: not determinable — the documents on file give no size for the separated piece.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Indian Gas Exchange Limited | not stated (profit after tax of INR 41.9 crores for FY'26 a… | — | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Indian Gas Exchange Limited | not stated (profit after tax of INR 41.9 crores for FY'26 and volume … | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹10,378 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹10,378 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “We achieved Rs.493 crore of consolidated profit during the previous year, which is 17.2% CAGR. IEX standalone was around 474 crores, IGX 42 crores and ICX though it's a small beginning, but we hope it will also have the big opportunity in the future.”
 
@@ -15106,7 +15052,7 @@ xychart-beta
 - **Insider actions around the separation:** IEX itself is the selling shareholder in the IGX IPO: "The Offer comprises of an offer for sale of up to 16,710,000 equity shares by IEX". On a buyback of IEX shares: "but buyback , yes definitely , we will consider it in future because now SEBI also has revised its rules for doing the buyback through the market . So, we will consider that part of it." and "So again, buyback has become one of the good options for distributing money to the shareholders. We are definitely considering it... So the management is observing all the development and will take a due call considering the benefit of the stakeholders." No promoter or management buying, selling or pledging of IEX shares is stated.
 - **Insiders, per the checklist read:** IEX holds 47.3% of IGX and offers for sale up to 16,710,000 shares (22.3%), retaining 25%; management refused any IEX-shareholder reservation, calling it an independent IPO. Other incentives not stated. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The separation here is not a demerger of IEX's own operations but the carve-out of its gas arm, Indian Gas Exchange (IGX), via an offer-for-sale IPO, driven purely by PNGRB's exchange ownership rules, which cap any single shareholder at 25% and any trading member at 5%. IEX held 47.3%-47.5% of IGX and had to cut that to 25% within five years; that five-year window expired in December 2025, so IEX took a one-year extension from PNGRB, now running to 31 December 2026. Management said the original slippage was commercial, not strategic: 'there were huge challenges in the gas market and gas exchange' and the 'business ramp-up has not happened at the rate at which we were expecting it' (Nov 2025). With IGX now scaled - FY26 volume 76.8 million MMBtu (+28% YoY, over 40% CAGR), PAT Rs 41.9-42 crore (+35%), roughly 3% of India's gas consumption and 20% of the spot market, 23 delivery points versus 4 in FY22 and 10 contract types versus 6 - IEX chose the IPO over other divestment options and formally asked IGX to proceed. The DRHP was filed on 14 July 2026 with SEBI and BSE as a pure offer for sale of up to 16,710,000 shares by IEX, i.e. the 22.3% it must shed; no fresh issue, proceeds or valuation was discussed. The same ownership-cap logic makes IEX house each new commodity in its own company: Indian Coal Exchange Ltd was incorporated in June 2026 with board approval, a mineral exchange company is planned, and its shareholding rules are 'similar to what has been notified for the power exchange and the gas exchange.' The only parties asking for the separation were regulators (PNGRB; the Ministry of Coal rules for the coal exchange) - not investors, lenders or partners; investors asked only about timing and for a proportionate reservation in the IGX IPO, which Goel refused because it is 'an independent IPO'. Separately, management rejected the analyst suggestion that the exchange's clearing and settlement function must be hived into its own entity, saying the PSS Act requires registration, not separation, with no financial impact.
 
@@ -15140,7 +15086,15 @@ The separation here is not a demerger of IEX's own operations but the carve-out 
 
 ### 6. On the calls, verbatim
 
-No call in the last 36 months carries a statement about it (or no transcript is on file).
+3 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 4 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+
+| Call | Q&A exchanges | Prepared-remarks passages | Transcript |
+|---|---:|---:|---|
+| Aug 2024 | 0 | 2 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77a737ff-110e-43b7-9bb3-00d0baf22ff8.pdf) |
+| Feb 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea303d49-0bbd-4685-9ae8-0171e9c43ebc.pdf) |
+| Apr 2026 | 0 | 1 | [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3908d8d0-1956-4b09-9086-99d514549c00.pdf) |
+
+**The full verbatim text of every exchange is in [companies/IEX.md](companies/IEX.md#6-on-the-calls-verbatim).**
 
 ### 7. The parent's financial statements
 
@@ -15299,13 +15253,13 @@ Only the parent's figures are on file: Sales (₹ cr) 616 (Mar 2026); Sales grow
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| NLC India Renewables Limited | "Revenue from 7 Renewable Energy assets proposed to be tran… | 4.59% | 4.2% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| NLC India Renewables Limited | "Revenue from 7 Renewable Energy assets proposed to be transferred is… | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹32,989 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹32,989 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “"Revenue from 7 Renewable Energy assets proposed to be transferred is Rs. 701.61 Crore in FY 2025, which is 4.59 % of the NLCIL revenue of Rs. 15,282.96 Crore (on consolidated basis) based on Audited Financial Statements of 31st March, 2025." and "Net worth of 7 RE assets is Rs. 3,869.26 Crore, which is 20.67 % of Net-worth of NLCIL i.e., Rs. 18,722.97 Crore (Total equity attributable to owners) based on Audited Financial Statements of 31st March, 2025." (filing 31.10.2025). For the Phase II tranche: "Revenue from operational Renewable Energy assets proposed to be transferred was Rs. 41.16 Crore for FY 2025-26, which is 0.24 % of the Company's revenue of Rs. 17,489.53 Crore (on consolidated basis) based on Audited Financial Statements of 31st March, 2026." and "Net worth of RE assets was Rs. 925.08 Crore, which is 4.30% of Net-worth of the Company i.e., Rs. 21,524.76 Crore (Total equity attributable to owners) based on Audited Financial Statements of 31st March, 2026." (filing 03.09.2026)”
 
@@ -15332,7 +15286,7 @@ Only the parent's figures are on file: Sales (₹ cr) 616 (Mar 2026); Sales grow
 - **Insider actions around the separation:** The promoter-parent is selling down: Board approval on 04.11.2026 of "Offer for Sale (OFS) of up to 10,00,00,000 (Ten Crore) equity shares of face value of Rs.10 each held by the Company in NLC India Renewables Limited (NIRL), Wholly Owned Subsidiary, as part of the proposed Initial Public Offering (IPO) of NIRL, subject to compliance with the applicable provisions of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018". Before that the parent injected equity: "The company invested 200,00,00,000 equity shares in NLC India Renewables Limited (NIRL), wholly owned subsidiary of the company at Rs. 10 per share aggregating to Rs. 2,000 crore on 12th October 2026. Pursuant to this investment, the Company's total investment in NIRL increased to ₹5,119.75 crore as on 12th October 2026." No promoter or management buying, selling or pledging in the listed parent's own shares is stated.
 - **Insiders, per the checklist read:** NIRL is NLCIL's wholly owned subsidiary; NLCIL's investment rose to ₹5,119.75 crore as on 12.10.2026; Board approved OFS of up to 10 crore shares held by NLCIL. Management stake not stated. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The business being separated is NLC India Ltd's renewable energy (solar/wind) portfolio, carved out of the lignite-mining and thermal-power parent into NLC India Renewables Limited (NIRL), a wholly owned subsidiary. The filings state the reason explicitly as policy-driven monetisation, not a strategic idea originated by management: the 31.10.2025 intimation says the hive-off of 7 RE assets totalling 1,430 MW is 'under Asset Monetization Plan approved by the Ministry of Coal, Administrative Ministry', and the Q2 FY27 accounts repeat that it is 'In line with the National Monetization Pipeline and in consultation with the Ministry of Coal'. Scale cited: the 7 assets earned Rs 701.61 crore of revenue in FY25 (4.59% of consolidated revenue of Rs 15,282.96 crore) but carried net worth of Rs 3,869.26 crore (20.67% of owners' equity of Rs 18,722.97 crore) — i.e. a capital-heavy, low-revenue block being moved off the parent's balance sheet at book value, with consideration by equity shares/acknowledgement of debt, and Government of India approval already received. Execution was phased: Phase I (1,430 MW) transferred w.e.f. 01.01.2026; a second addendum dated 03.09.2026 added 708.96 MW (including a 4 MW green hydrogen project, assets at various stages of construction/operation) for Rs 853.97 crore, contributing only Rs 41.16 crore of FY26 revenue (0.24%) and Rs 925.08 crore of net worth (4.30%). The separate vehicle is visibly being used to raise third-party capital and partners that the parent could not house: a maiden green loan with Sumitomo Mitsui Banking Corporation of JPY 15.464 billion (USD 100 million) under the ECB framework 'to fund renewable energy projects through its subsidiary NIRL', a PTC India JV for 2,000 MW, an OREDA MoU/JV, a DIPAM-approved JV with MAHAPREIT, an SJVNL 200 MW wind PPA and an NCRTC LoA for 110 MW captive solar — now sitting as step-down subsidiaries NARL, NRRL, NNRL, NORL and NPRL. The end state is a listing: the Board gave in-principle approval for listing NIRL on 12.01.2026 and on 04.11.2026 approved an Offer for Sale of up to 10,00,00,000 equity shares of Rs 10 each held by NLCIL in NIRL as part of NIRL's proposed IPO, after NLCIL injected a further Rs 2,000 crore of equity on 12.10.2026 taking its NIRL investment to Rs 5,119.75 crore.
 
@@ -16057,7 +16011,7 @@ No rationale on file: no call passages and no scheme rationale text.
 
 - **Insiders, per the checklist read:** not stated; parent SJVN Limited is a Joint Venture of Govt. of India & Govt. of H.P., a Navratna CPSE · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 No rationale on file: no call passages and no scheme rationale text.
 
@@ -16125,7 +16079,7 @@ No rationale on file: no call passages and no scheme rationale text.
 
 - **Insiders, per the checklist read:** Greaves Cotton holds 62.48% of GEML, unchanged after the Rs 530 crore rights issue (GCL subscribed Rs 331.12 crore; ALJ Green Mobility Rs 198.87 crore). Post-IPO intent: 'below 51% but... significant large shareholders' · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 Mechanical read only (judge not run). Stated reasons: regulatory / strategic knot — “…did not avail the one-time extension of SEBI observations , considering the proposed rights issue and related regulatory restrictions. Consequently , I PO-related expenses of Rs 1. 72 crore have been recognized in the Statemen t of Profit and…”
 
@@ -16186,7 +16140,7 @@ Mechanical read only (judge not run). Stated reasons: regulatory / strategic kno
 
 - **Insiders, per the checklist read:** Promoter and Promoter Group 44.91% pre-issue to 44.68% post-issue; promoter-group Ravi Mazumdar and KMPs (Tambe 20,33,429 shares; Mittal 5,76,634) swapped BBL shares for Biocon shares; Tambe CEO & MD, Rs 18 crore cap plus RSUs/PSUs · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 No rationale on file: no call passages and no scheme rationale text.
 
@@ -16241,7 +16195,7 @@ No call in the last 36 months carries a statement about it (or no transcript is 
 
 - **Insiders, per the checklist read:** PHVL is a material wholly owned subsidiary, shares held entirely by the Company and its nominees; CPPIB to take ~27%. Promoter/management personal stake or incentives in PHVL not stated · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 No rationale on file: no call passages and no scheme rationale text.
 

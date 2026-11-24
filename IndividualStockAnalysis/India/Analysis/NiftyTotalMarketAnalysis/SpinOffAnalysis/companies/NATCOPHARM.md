@@ -38,11 +38,11 @@
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Natco Crop Health Sciences Limited | "The turnover of the Demerged Undertaking i.e., Agrochemica… | 1.48% | 3.4% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Natco Crop Health Sciences Limited | "The turnover of the Demerged Undertaking i.e., Agrochemica… | 1.48% (share of turnover) | — | — | 3.4% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹15,898 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹15,898 cr, whole ₹15,898 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking i.e., Agrochemicals Business division as on 31st March, 2025 was ₹ 60,62,03,918 /-. The turnover of the Demerged Undertaking is 1.48% to the total turnover of the Company in the financial year ending 31st March, 2025.”
 
@@ -101,127 +101,9 @@ NATCO is demerging its Crop Health Sciences (Agrochemicals) division into Natco 
 
 ### 6. On the calls, verbatim
 
-12 call(s), oldest first: **9 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 17 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
-
-#### Nov 2023 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=69ef4068-751c-4c97-ae82-a551c697e63b.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 1,898 characters in the transcript)*
-
-> **Rohit Bhat:** Thank you. Good morning everyone and welcome to Natco Pharma Q2FY24 Earnings Conference Call ho sted by B&K Securities. From Natco Pharma management, we have with us Mr. Rajeev Nannapaneni , Director and Chief Executive Officer and Rajesh Chebiyam , Executive Vice President, Crop Health Sciences. We'll request Rajesh to give brief opening remarks about Natco's 2Q results before we open the floor for Q&A session. Over to you, Rajesh. Raje sh Chebiyam : Thank you, Rohit.
-
-**Question and answer**
-
-> **Robert Joseph:** Yes, sir. Congratulations for the good set of numbers. And especially growth on the agrochemical business. Sir, act ually, I have only one question. During your last AG M, you were answering a retail investor. During that time, he was asking about the... Because our market cap was consolidating for the past five to six years in the same space. So, is there any action you are going to take regarding the increasing of the market cap of the share? You told that time that you may consider issuing a bonus for the last time, sir, in order to reward them. So, do you have any ideas still regarding this issue of bonus, sir?
->
-> **Rajeev Nannapaneni:** As of now, no, my friend. I can't answer your question at this time. We look at different options. We have done a buyback. We have reduced equity by about 2%. NATCO Pharma Limited November 15, 2023
->
-> **Robert Joseph:** Okay, sir. Thank you, sir.
->
-> **Rajeev Nannapaneni:** We have given a reaso nable amount of dividend. And I would like to say that our financial performance has been very strong. And as I also said, we have a good amount of cash in our books. The company is in the pink of health. So, beyond that, I can't answer your question I mean, Yes. But I think you just have to articulate our position that this is what we are doing. And this is the pipeline. And this is how we are going forward. I think that's all I can do.
->
-> **Robert Joseph:** Thank you. Thank you.
-
-#### Feb 2024 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=98ef9451-83a8-4657-acce-18d31611b872.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 2,230 characters in the transcript)*
-
-> **Rajesh Chebiyam:** Very briefly on the segmental split for the quarter, for Q3, API clocked INR46.3 crores. Formulation domestics, INR99.4 crores. Formulation exports, which includes pro fit share and foreign subs, was INR605.6 crores. Crop health clocked INR14.1 crores. The rest were in operating, nonoperating income. Thank you, all. We'll open up for questions.
-
-#### Jun 2024 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=99cc0f91-9fd5-4d78-b404-a4e50d143d60.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 469 characters in the transcript)*
-
-> **Hrishikesh Patole:** Hello. Good morning, everyone. On behalf of B&K Securities, I welcome you all to the Q4 FY '24 Earnings Conference Call of Natco Pharma. I hope everyone is in good health and doing well. On behal f of Natco today, we have with us Mr. Rajeev Nannapaneni – Director and CEO; Mr. Rajesh Chebiyam – Executive VP, Crop Health Science. I now hand over the call to Rajesh for the Management's Opening Remarks , post which we will open the session for Q&A. Over to you, Rajesh.
-
-**Question and answer**
-
-> **Chetan Doshi:** Congratulations for the excellent set of numbers. And as per the guidance, you have performed very well. So, congratulations to the entire team. So, my specific question is that we have taken a hit as far as API revenue is concerned for the last quarter. So, this is onetime, or this is going to be a regular feature. And the second question is regarding the Crop Health Science, wherein you have underutili zed that division. So, you are planning to launch some products and buy some raw material and then it was discarded? What is it that Rs. 30 crores is you have accounted for?
->
-> **Rajeev Nannapaneni:** The hit is a onetime overall, the Rs. 90 crores . So,the domestic, as we explained a few minutes ago, it was a change in the business model. The secondary sale is consistent and close to Rs. 100 crores a quarter. So, I don't see any challenge there. Your question is specifically why we take a hit on the agro. So, what we did was we built some intermediate s capability at a third -party site and w e were using it for the launch of the agrochemicals that we are making internally at Natco. What has happened is there has been a dramatic change in the market environment where the pricing has dropp ed dramatically for the intermediates and we are not utilizing that intermediate capability. So, because we are not utilizing the intermediate capability, we had to make a provision for non -utilization of that. So, we took a hit on depreciation of amo unt and certain advance we gave to that supplier. So, I think that's why we took a Rs. 30 crores hit .
-
-#### Aug 2024 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=dba08330-79f4-449b-bfa2-8f5fde18a088.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 480 characters in the transcript)*
-
-> **Hrishikesh Patole:** Thank you. Good morning, everyone. On behalf of B&K Securities, I welco me you all to the Q1 FY '25 Earnings Conference Call of Natco Pharma. Hope everyone is in good health and doing well. On behalf of Natco today, we have with us Mr. Rajeev Nannapaneni, Director and CEO; Mr. Rajesh Chebiyam, Executive Vice President, Crop He alth Sciences. I now hand over the call to Rajesh for the management's opening remarks, post which we'll open the session for Q&A. Over to you, Rajesh.
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 1,887 characters in the transcript)*
-
-> **Rajesh Chebiyam:** Natco recorded consolidated total revenue of INR1,410.7 crores for the first quarter which ended the 30th June 2024, as against INR1,160.2 crores for the same period last year, reflecting a growth of 21.6% in revenue. The net profit for the period on a consolidated basis was INR668.5 crores as against INR420.3 crores same period last year, reflecting 59% grow th in profits. The growth in revenue and profits were primarily driven by export formulation business as our domestic pharma business remains stable. On the overall segmental split, formulation exports including profit share and foreign subs carried INR1,2 10.10 crores, formulation domestics INR102.2 crores, API INR39.2 crores, crop health INR15.6 crores, other operating and non -operating income clocked roughly INR43.6 crores. All totalling to INR1,410.7 crores. Thank you all. Now we'll open up for Q&A.
-
-#### Nov 2024 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bfa2b366-9531-46e4-a6e5-1be622bc6b51.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 481 characters in the transcript)*
-
-> **Hrishikesh Patole:** Good morning. Good morning, everyone. On behalf of B&K Securities, I welcome you all to the Q2 FY '25 Earnings Conference Call of NATCO Pharma. Hope everyone is in good health and doing well. On behalf of NATCO today, we have with us Mr. Rajeev Nannapaneni: , Director and CEO; Mr. Rajesh Chebiyam , Executive Vice President, Crop Health Sciences. I now hand over the call to Rajesh for the management's opening remarks, post which we'll open the session for Q&A. Over to you, sir.
-
-#### Feb 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=649d3521-2c1e-4ecd-ab9c-0b1292bb5559.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 489 characters in the transcript)*
-
-> **Hrishikesh Patole:** Thank you. Good morning , everyone. On behalf of B &K Securities, I welcome you all to the Q3 FY '2 5 Earnings Conference Call of Natco Pharma. Hope everyone is in good health and do ing well. On behalf of Natco today, we have with us , Mr. Rajeev Nannapaneni, Vice -Chairman and CEO; Mr. Rajesh Chebiyam, Executive Vice President, Crop Health Sciences. I now hand over the call to Rajesh for the management's opening remarks, post which we will open the session for Q&A. Over to you, sir.
-
-**Question and answer**
-
-> **Chetan Dhosi:** Sorry to interrupt, but there is no backup plan from the company that suppose this product doesn't come in, then the other product has to be concentrated.
->
-> **Rajeev Nannapaneni:** You can't do backup plans, my friend. See, I think that question is wrong. I think we are here to state what the present financial position is. You can't have backup plans for revenue. You have what you have. And what you don't have, you don't have. I don't think that question is right. What you have is what you have. What you book is what you book. What you don't have, you just say that you don't have. That's how business works.
->
-> **Chetan Dhosi:** This Crop Health Sciences …
->
-> **Rajeev Nannapaneni:** My friend, I will not answer that question the way you, I don't like the way you are asking that question. It is w hat you have sold, you sold. And what you don't have, you don't have. You have to accept it. That's it. Next caller, please.
-
-#### Jun 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d43e2593-6819-4d99-b9a6-c3019c901490.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 503 characters in the transcript)*
-
-> **Hrishikesh Patole:** Good morning, everyone. On behalf of B&K Securities, I welcome you all to the Q4 and Full Year FY '25 Earnings Conference Call of NATCO Pharma. Hope everyone is in good health and doing well. On behalf of NATCO today, we have with us Mr. Rajeev Nannapaneni, Vice Chairman and Chief Executive Officer; Mr. Rajesh Chebiyam, Executive Vice President, Crop Health Sciences. I now hand over the call to Rajesh for the management's opening remarks, post which we'll open the session for Q&A. Over to you, sir.
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 2,393 characters in the transcript)*
-
-> **Rajesh Chebiyam:** This is the result of decades of our diligence and focused strategy. For the fourth quarter ended on March 31, 2025, the company recorded a net revenue of INR1,287.3 crores on a consolidated basis as against INR1,110.3 crores during Q4 of FY '24. Natco Pharma Limited May 29 , 202 5 Profit for the fourth quarter on a consolidated basis was INR406 crores as against INR386.3 crores same period last year. During the quarter, the company took an impairment charge of INR50 crores in the Crop Health Science business related to property, plant and machinery and a chargeback adjustment of roughly INR25 crores in its U.S. subsidiary, apart from incurring higher R&D expenses. As of today, the company has a strong cash position of over INR3,500 crore as it prepares for headwinds coming from its U.S. business during the financial year FY '26. The company estimates a possible dip in revenue by 20% and profits by 30% due to geopolitical uncertainties and pricing pressure in its core product po rtfolio in the U.S. and increased R&D expenses. Thank you all.
-
-**Question and answer**
-
-> **Rahul:** I was just going through the segment reporting. Sir, in the Crop Health division year-on-year, our top line has reduced, sales have reduced and obviously, the losses have also increased. I think we have set a segment loss of around INR150 crores this year. Your optimism in the coming years is based on what, sir, because historically, we have reduced numbers. What is the...
->
-> **Rajeev Nannapaneni:** The loss also represents the impairment that we have taken, okay? Let's start with that. And the second is , what has happened was when we stopped the product 2 years ago. Then basically, what happens is a lot of the stock came back as returns. So , the sale reduction is because of returns of the previous year. It's a new business. I mean it's not a good place to be. But because it's a new business, it took us a while to sort of figure out how the distribution works, how do you manage the controls, how do you make sure that the stock is liquidated. So, I think it's getting better. I mean, as I said, because of the returns and all, we had to take a loss, and a reduction in sale. So, when something come back as returned, then you have to reduce the sales. But I think it's looking better. I think if you look at the cash flow, the sale was INR60 crores, we actually had a cash flow of almost INR85 crores to INR90 crores. So, cash flow in my world is a true indicator of whether you're selling the product. Natco Pharma Limited May 29 , 202 5 So, I think we're getting there. So , 150 is a number that we need to be there. So, I believe that we'll be able to get there this year. But see, I tell you, my friend, generally, when you start a new business, it is not a fairytale, right? You come in and then you start making money on day 1. And especially when you're doing a business that you're not having a setup, what I call before, a greenfield, it's always going to be a challenge. To build a business, in my experience has always been it takes about 4 to 5 years. And sometimes you get luck y and things turn around in a year or 2. So unfortunately, Agro is coming in that median where it is a 4 to 5 years’ time line. But I think we're getting there. It's not as bad as it looks.
-
-#### Jul 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26c8d332-fc11-4299-9977-cb8dc43d0153.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 0 characters in the transcript)*
-
-> **(speaker not labelled):** 29th July, 2025 Corporate Relationship Department Manager – Listing M/s. BSE Ltd. M/s. National Stock Exchange of India Ltd Mumbai 400 001 Mumbai 400 051 Scrip Code: 524816 Scrip Code: NATCOPHARM Dear Sir Sub: - Transcript of conference call held on July 23, 2025 Ref:- Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements), Regulations, 2015 We are enclosing herewith the copy of transcript of the Company's conference call for Proposed Investment held on July 23, 2025. Th e transcript is also available on the website of the company i.e., www.natcopharma.co.in. Thanking you Yours faithfully For NATCO Pharma Limited Ch. Venkat Ramesh Company Secretary & Compliance Officer 1 NATCO's Call for Proposed Investment July 23, 2025 − Host: − Good evening and welcome to NATCO's Call for Proposed Investment in A dcock Ingram Holdings Limited . I now hand over the call to Mr. Rajesh Chebiyam, Executive Vice President, Crop Health Sciences, NATCO Pharma Ltd. for his opening remarks. Thank you and over to you, sir. − Mr. Rajesh Chebiyam - Executive Vice President (Crop Health Sciences), NATCO Pharma Ltd.: − Thank you, Vandit. , I welcome all of you for our evening call today to update on the acquisition and thank you for joining on a very short notice. So, during the call, we may be making certain forward -looking statements about the acquisition or future events about it. So, anything said on the call which reflects our outlook for future, must be reviewed in conjunction with the risks that the company faces. − We are very excited that we are offering to acquire a stake in Adcock Ingram Ltd., one of the largest pharmaceutical and healthcare companies in the African continent. The press release and the presentation related to the same has been uploaded with the stock exchanges and on our website. So, with that said, we'll delve into the key highlights of the transaction and then open the floor for the Q&A. I would like Mr. Rajeev Nannapaneni, our Vice Chairman and CEO, to take you guys through the presentation and share his thoughts. Thank you. − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − Good evening, everyone. First , I'd like to thank everyone for participating and showing interest in our call today and turning up. − Let me start off with the first slide. So, we'll just run through the presentation and for us, it's a very large transaction for our firm. It's probably the biggest investment that we ever made in our life. So, it gives us a good global presence. It’s 35.75% stake in this company. At this time, this was the share that was available, but still, it's a very substantial minority's position and we get to consolidate the profits of the company into our books. We also get an avenue to send our products there and work in a market that we are not present in. I'll just walk through the company and the major highlights of the transaction. − So, the name of the company, as you have seen, is Adcock Ingram. So, we're proposing a 35.75% shareholding, and Bidvest is going to own 64.25%. We're paying ZAR 75 (South African Rands) for buying the shares, which are in public, and we will delist the company and make it a private holding company. It will cost us about 2,000 crores. Financial highlights, last year it did about US$536 million and half year it did about US$262 million. 2 − So, a little bit of background. It has a very long history. It was established in 1890 in South Africa. It's the second largest company in the private market, and it's there in private and public sector. It is having a nice portfolio of Prescription, OTC, Hospital
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 0 characters in the transcript)*
-
-> **(speaker not labelled):** transaction. − Mr. Kunal Randeria – Participant: − Fair enough , second question. South Africa , you’ve made an entry here. You still have the cash on the books. So future acquisitions again would be in countries where you do not have a footprint at the moment? − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − I think so, This is not the only transaction we want to do. I think we've been saying that. Finally, we accomplished one. So, I think that's good. So, I'm also looking for another transaction and hopefully we can do something as large as this or even bigger than this so that we can solidify our position in our key markets that we operate in and bring more diversification and stability in our core earnings. That’s what my thinking is. And I think that's where we're going, and this is part of that accomplishment. − Mr. Kunal Randeria – Participant: − Yeah. And so just to kind of take this forward. So , would it be fair to assume it will not be Canada and Brazil where we already have some presence? − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − I think I said there are only three things in this business that works, right? One is , you need to have great products and great R&D. Two, you need to have global scale and three, you need to have multiple markets that you're there. If you get three right, then you're building a wonderful business. If you don't get these three things right, it's tough to compete in this business. I think our strength has always been R&D , our problem has been market access and a lot of times we don't have access, or we did sharing . So, I think that's what we're trying to sort of address so that we have access, and we have scale so that we can bring value to the pipeline. − Mr. Kunal Randeria – Participant: − Right. Okay, thanks. Thanks for answering my question. − Host: − Next question is from Nirali Shah. − Ms. Nirali Shah – Participant: − Yeah, congratulations. I have one question. I just wanted to know what are the 2-3 immediate synergies or any near -term wins that you're targeting from this deal? Whether it's a dossier monetization or R&D collaboration or any supply chain 8 leverage ? And if you could mention by, when should we expect them to reflect in numbers? − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − It will take some time. We have a few filings in South Africa. So, we'll try to see whether we can monetize those assets through our associate firm. Those, I think, will start kicking in immediately. It will be immediately earnings -accretive because we'll be able to consolidate the numbers. − The real value for the asset, we'll be able to see in the next two to three years, I would believe. Once the new registrations start coming in, we start filing, start getting approved and we launch products, I think that's where the real value is. I think you have to look at medium -term, not in the near -term. Near -term, you'll see some value, but the real value will come in the next three years. − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − Anything else, Nirali? − Ms. Nirali Shah – Participant: − No, thanks . − Host: − The next question is from Neeraj, requesting everyone to please identify themselves and their company name, please. − Mr. Neeraj Kayal – Retail Investor: − Thank you for the opportunity. I'm a retail investor, individual investor. I wanted to ask, does this company have asse ts like first -to-file or new molecules? − And the second question is, we are paying a significant premium. Is it because we are taking the company private? Is that why we are paying the premium? − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − Okay. Let me answer that question . First , their geographical expanse is Southern Africa. They sell primarily in South Africa specifically and countries nearby and majority of the sale is coming from South Africa per se. It's a very highly concentrated single geography business. − The second question you had was what? − Mr. Rajesh Chebiyam - Executive Vice President (Crop Health Sciences), NATCO
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 0 characters in the transcript)*
-
-> **(speaker not labelled):** − Your first question about market access, I think this company has very good access in South Africa , obviously, which is one of the most dynamic economies in the African continent, and in the neighbouring countries too is has very good access. I think we’ve been discussing with them how we can expand this reach to more countries in Africa. Those discussions are ongoing. I think, once we settle down as a shareholder and take it forward, I think lot of these plans will come through. − Mr. Karthik – ICICI: − And to acquire controlling stake in this company? − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − At this time, it’s not available, Karthik. We had this discussion. I was very keen on a higher stake; I’m always very keen. So, I think the only consensus we could build is, at this time, it’s not for offer. But in the future, if they’re interested in selling, we have the first right of refusal. So, if that opportunity comes, we’ll be very happy to take. But for now, this is what is up for offer. But even thought it’s a strong 36%, but an asset like this we won’t get every day. So, I thought it’s worth doing it, because to build this type of business in South Africa, for us, it’s simply not possible. It will take us decades to do that. And I think the valuations are far more reasonable in our country. You know that as well, right? So, this I feel is a far superior transaction than anything we have seen. − Mr. Karthik – ICICI: 13 − Congratulations, Rajeev. − Mr. Rajeev Nannapaneni - CEO & Vice Chairman, NATCO Pharma Ltd.: − Yeah, thank you. So, this is my last question for today. Again, I appreciate the time you guys have spent attending this call. Again, it’s a monumental achievement for us that we’re able to do this transaction which allows us to gain size and stability. And we look forward to your support. Thank you so much guys. − Mr. Rajesh Chebiyam - Executive Vice President (Crop Health Sciences), NATCO Pharma Ltd.: − Thank you. − Host: − Thank you for joining us. You may now disconnect your lines and exit the webinar. Thank you. − END OF TRANSCRIPT
-
-#### Aug 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ecea13a-21ca-404b-8fdf-e05856f77026.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 2,011 characters in the transcript)*
-
-> **Rajesh Chebiyam:** This is also reflected in other expenses being higher for the quarter. The Board of Directors have declared an interim dividend of INR2 per equity share during the quarter. On the segmental split for the quarter, I'll just briefly outline, which is also shared. The API business clocked INR52.6 crores; domestic formulation, INR107 crores; formulation exports, including profit share and subsidiaries, was INR1,126.5 crores; crop health sciences, INR34.7 crores; other operating and non-operating was INR69.8 crores; totaling INR1,390.6 crores for the quarter. Natco Pharma Limited August 13, 202 5 Thank you all. We'll take the questions now. We can take the questions when you're ready.
-
-**Question and answer**
-
-> **Rashmi:** Okay. And my second question is related to the crop health sciences. This time, we have seen a good pickup. So how is the demand picking up? And are we on track to achieve that INR140 crore s, INR150 crore s of sales for this year?
->
-> **Rajeev Nannapaneni:** I think we had a good start and got good receivable. I think things are settling down. We think that this sale will continue. We're losing still money. I think we lost about INR3.2 crores . So, I think we're coming very close to breakeven we're almost there. I think we're doing well.
+2 call(s), oldest first: **3 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 0 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
 
 #### Nov 2025 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ac8f848f-8703-4403-9ae3-cb2d420d47da.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 482 characters in the transcript)*
-
-> **Hrishikesh:** Thank you. Good afternoon, everyone. On behalf of B &K Securities, I welcome you all to the Q2 FY26 Earnings Conference Call of Natco Pharma. Hope everyone is in good health and doing well. On behalf of Natco today, we have with us Mr. Raj eev Nannapaneni, Vice Chairman & CEO, Mr. Rajesh Chebiyam , Executive Vice President , Crop Health Sciences. I now hand over the call to the “Management's Opening Remarks” p ost which we would open the session for the Q&A . Over to you , sir.
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 1,858 characters in the transcript)*
-
-> **Rajesh Chebiyam:** The net profit for the period on a consolidated basis was Rs 517.9 crores. Natco Pharma Limited November 14, 2025 During the quarter, the company has incurred substantial R&D expenses on bioequivalence and one - time employee bonuses in addition to other business -related provisions. The board of directors have declared an interim dividend of Rs. 1.5 per equity share of Rs.2 during the quarter. On the segmental revenue split for Quarter 2, the API clocked 53.9 crores, domestic formulations Rs 105.4 crores, formulation exports including the profit share and subsidiaries clocked Rs 1,147 crores, crop health sciences clocked Rs 52.4 crores, other operating and non-operating income was Rs 104.3 crores, all consolidating to Rs 1,463 crores. Thank you, all. We will take Q&A now.
 
 **Question and answer**
 
@@ -239,23 +121,7 @@ NATCO is demerging its Crop Health Sciences (Agrochemicals) division into Natco 
 >
 > **Rajeev Nannapaneni:** Thank you.
 
-#### Feb 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ea4dc21-a77e-4e6d-967e-2da2d51bc890.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 493 characters in the transcript)*
-
-> **Hrishikesh Patole:** Hello. Thank you. Good afternoon, everyone. On behalf of B&K Securities, I welcome you all to the Q3 FY '26 Earnings Conference Call of NATCO Pharma. Hope everyone is in good health and doing well. On behalf of NATCO today, we have with us Mr. Rajeev Nannapaneni , Vice Chairman and CEO; Mr. Rajesh Chebiyam, Executive Vice President, Crop Health Sciences. I now hand over the call to Rajesh for the management's opening remarks, post which we'll open the session for Q&A. Over to you, Rajesh.
-
-**Question and answer**
-
-> **Candice Pereira:** Okay. That is helpful. And sir, is there any time line for the Crop Health Sciences de -merger in place for now?
->
-> **Rajeev Nannapaneni:** I think we have started the process. So , I think roughly, we're thinking by October, November, but I don't want to say any definite time lines, but this is our, what should I say, goal to do. But I mean, there's a lot of processes that we have to run, right? So I think the process will take whatever time it will take . But our end goal is that we should be able to do it in the next 8, 9 months. But again, we'll keep you updated to give you more accurate timelines . But as of now, that is the expectation.
-
 #### Jun 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=230327e4-9a77-4095-b46d-b9c836cc9b96.pdf)
-
-**From the prepared remarks** *(the passage about it; the whole turn runs to 526 characters in the transcript)*
-
-> **Hrishikesh Patole:** Good afternoon, everyone. On behalf of 360 ONE, I welcome you all to the Q4 FY '26 Earnings Conference Call of NATCO Pharma. Hope everyone is in good health and doing well. On behalf of NATCO today, we have with us Mr. Management: , Vice Chairman and CEO; Mr. Management: , CFO; Mr. Rajesh Chebiyam: , Executive Vice President, Crop Health Sciences; and Mr. Rajeev Menon, Investor Relations. I now hand over the call to Rajesh for the management's opening remarks, post which we'll open the sessi on for Q&A. Over to you, sir.
 
 **Question and answer**
 

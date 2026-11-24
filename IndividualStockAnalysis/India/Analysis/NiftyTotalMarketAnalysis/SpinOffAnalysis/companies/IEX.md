@@ -33,13 +33,13 @@
 
 ### 3. Size of the separated business beside the parent — is institutional selling likely?
 
-**Reading: not determinable — the documents on file give no size for the separated piece.**
+**Reading: NO FORCED SELLING ON SIZE — an IPO distributes no shares to the parent's shareholders, so nobody receives a piece they did not choose. Size matters here for the stub: how much of the parent's market value the listed piece accounts for.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Indian Gas Exchange Limited | not stated (profit after tax of INR 41.9 crores for FY'26 a… | — | — | — | — | not listed |
+| Entity | Stated turnover | Market cap (₹ cr) | Its market value beside the parent's | Index member |
+|---|---|---:|---:|---|
+| Indian Gas Exchange Limited | not stated (profit after tax of INR 41.9 crores for FY'26 and volume … | — | — | not listed |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹10,378 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*The last column is the subsidiary's whole market value over the parent's (parent ₹10,378 cr, NSE bhavcopy of 2026-11-13), computed here; the parent's own value already contains the stake it keeps, so the stub is the parent's value less that stake.*
 
 **In the documents' words:** “We achieved Rs.493 crore of consolidated profit during the previous year, which is 17.2% CAGR. IEX standalone was around 474 crores, IGX 42 crores and ICX though it's a small beginning, but we hope it will also have the big opportunity in the future.”
 
@@ -66,7 +66,7 @@
 - **Insider actions around the separation:** IEX itself is the selling shareholder in the IGX IPO: "The Offer comprises of an offer for sale of up to 16,710,000 equity shares by IEX". On a buyback of IEX shares: "but buyback , yes definitely , we will consider it in future because now SEBI also has revised its rules for doing the buyback through the market . So, we will consider that part of it." and "So again, buyback has become one of the good options for distributing money to the shareholders. We are definitely considering it... So the management is observing all the development and will take a due call considering the benefit of the stakeholders." No promoter or management buying, selling or pledging of IEX shares is stated.
 - **Insiders, per the checklist read:** IEX holds 47.3% of IGX and offers for sale up to 16,710,000 shares (22.3%), retaining 25%; management refused any IEX-shareholder reservation, calling it an independent IPO. Other incentives not stated. · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 The separation here is not a demerger of IEX's own operations but the carve-out of its gas arm, Indian Gas Exchange (IGX), via an offer-for-sale IPO, driven purely by PNGRB's exchange ownership rules, which cap any single shareholder at 25% and any trading member at 5%. IEX held 47.3%-47.5% of IGX and had to cut that to 25% within five years; that five-year window expired in December 2025, so IEX took a one-year extension from PNGRB, now running to 31 December 2026. Management said the original slippage was commercial, not strategic: 'there were huge challenges in the gas market and gas exchange' and the 'business ramp-up has not happened at the rate at which we were expecting it' (Nov 2025). With IGX now scaled - FY26 volume 76.8 million MMBtu (+28% YoY, over 40% CAGR), PAT Rs 41.9-42 crore (+35%), roughly 3% of India's gas consumption and 20% of the spot market, 23 delivery points versus 4 in FY22 and 10 contract types versus 6 - IEX chose the IPO over other divestment options and formally asked IGX to proceed. The DRHP was filed on 14 July 2026 with SEBI and BSE as a pure offer for sale of up to 16,710,000 shares by IEX, i.e. the 22.3% it must shed; no fresh issue, proceeds or valuation was discussed. The same ownership-cap logic makes IEX house each new commodity in its own company: Indian Coal Exchange Ltd was incorporated in June 2026 with board approval, a mineral exchange company is planned, and its shareholding rules are 'similar to what has been notified for the power exchange and the gas exchange.' The only parties asking for the separation were regulators (PNGRB; the Ministry of Coal rules for the coal exchange) - not investors, lenders or partners; investors asked only about timing and for a proportionate reservation in the IGX IPO, which Goel refused because it is 'an independent IPO'. Separately, management rejected the analyst suggestion that the exchange's clearing and settlement function must be hived into its own entity, saying the PSS Act requires registration, not separation, with no financial impact.
 
@@ -100,7 +100,29 @@ The separation here is not a demerger of IEX's own operations but the carve-out 
 
 ### 6. On the calls, verbatim
 
-No call in the last 36 months carries a statement about it (or no transcript is on file).
+3 call(s), oldest first: **0 question-and-answer exchange(s)** given in full — the question and every answer to it, nothing trimmed — and 4 passage(s) from management's prepared remarks (the complete sentences about it; the whole remarks are in the linked transcript). Text is as the transcript prints it.
+
+#### Aug 2024 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77a737ff-110e-43b7-9bb3-00d0baf22ff8.pdf)
+
+**From the prepared remarks** *(the passage about it; the whole turn runs to 892 characters in the transcript)*
+
+> **Aparna Garg:** Good Evening Everyone and Welcome to the Analyst M eet of the Indian Energy Exchange . I am Aparna Garg and I would be anchoring the event today. With us from the IEX Management , we have Mr . S N Goel Chairman and MD of IEX ; Mr. Rohit Bajaj - Executive Director Business Development, Strategy, Regulatory Affairs and IT ; Mr Vineet Harlalka - Chief Financial Officer & Company Secretary ; and Mr. Amit Kumar, Executive Director Market Operations, New Product Initiatives and Exchange Technology . We also have with us Mr. Deepak Mehta, who is the Chief Business Officer from Indian Gas Exchange . And we have Mr. Aditya Wali , who is the Investor Relations Officer at IEX. We will be beginning with t he opening remarks from Mr. Goe l, followed by a detailed presentation by each of the leaders. And without wasting muc h time I now request Mr. SN Goe l to please share his opening remarks.
+
+**From the prepared remarks** *(the passage about it; the whole turn runs to 61,120 characters in the transcript)*
+
+> **SN Goel:** Further, since lot of renewable capacity addition is happening and based on the feedback received from these (RE) generators, because renewable generation has large variability , they wanted a green RTM market. So , we have filed a petition with C ERC for approval of green RTM market also. That will be the next new product . Friends, as you are aware, IEX also incorporated Indian Gas Exchange in 2020. And IGX is doing good business from the last three and half years . It has been making profit . And Government of India has a vision to increase gas consumption from 6% of energy basket to 15% of energy basket.
+
+#### Feb 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ea303d49-0bbd-4685-9ae8-0171e9c43ebc.pdf)
+
+**From the prepared remarks** *(the passage about it; the whole turn runs to 14,546 characters in the transcript)*
+
+> **Rohit Bajaj:** This segment would facilitate trading of power during high -demand hours such as late evening and early mornings. Stakeholder consultation on the same has been completed and the matter awaits further proceedings. Moving on to IGX performance. December 2025 marked five years of operations for the Indian Gas Exchange, IGX. IGX currently represent close to 3% of India's overall gas consumption and 20% of the spot market. Over the years, IGX has steadily expanded its market footprint, increasing the delivery points availabl e from 4 in FY '22 to 23 today, covering both domestic as well as R -LNG. The product portfolio at IGX has also grown over the last 5 years, up from 6 contract types available initially to 10 contract types currently available.
+
+#### Apr 2026 — [transcript](https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3908d8d0-1956-4b09-9086-99d514549c00.pdf)
+
+**From the prepared remarks** *(the passage about it; the whole turn runs to 15,708 characters in the transcript)*
+
+> **Aparna Garg:** To support the development of merchant storage capacity, we have filed a petition with CERC seeking introduction of peak DAM and peak RTM segments. These segments are intended to enable power trading during high demand periods such as late evening and early morning. The CERC's order on this petition is currently reserved. On the IGX front, the Indian Gas Exchange completed five years of operations in financial year '26. The exchange currently represents close to 3% of India's overall gas consumption and 20% of the spot market. For quarter four of financial year '26, IGX traded gas volumes of 18.6 million MMBtu, lower by 8% over Q4 FY25, largely on account of supply disruptions in t he Middle East beginning March. For the full year, IGX traded gas volumes of 76.8 million MMB TU, a growth of 28% on a year -on-year basis, led by demand from domestic gas producers, heightened power demand and demand from city gas distribution.
 
 ### 7. The parent's financial statements
 

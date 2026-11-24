@@ -22,7 +22,7 @@
 
 - **Insiders, per the checklist read:** PHVL is a material wholly owned subsidiary, shares held entirely by the Company and its nominees; CPPIB to take ~27%. Promoter/management personal stake or incentives in PHVL not stated · *option pricing date:* not stated
 
-### 5. Why the demerger — point by point
+### 5. Why the listing — point by point
 
 No rationale on file: no call passages and no scheme rationale text.
 

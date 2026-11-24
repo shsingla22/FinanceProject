@@ -44,11 +44,11 @@
 
 **Reading: VERY LIKELY — the piece is under a tenth of the whole; index funds and large holders who receive it without choosing it tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Sterling Holiday Resorts Limited | SHRL FY26 total revenue INR 5,487 million; Q4 FY26 total re… | 0.4% | 6.6% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Sterling Holiday Resorts Limited | SHRL FY26 total revenue INR 5,487 million; Q4 FY26 total re… | 0.4% (share of turnover) | — | — | 6.7% (FY2026) | not listed | very likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,168 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹5,168 cr, whole ₹5,168 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “"The turnover of the Demerged Undertaking for the year ended 31st December 2025 was INR 70 Crores representing ~0.4% of the total standalone turnover of the Company for the year ended 31st December 2025." (Also, on the merger leg: "Paid up capital of following companies as on 31 March 2025: a) TCVSL : Rs. 0.05 cr b) JTSL : Rs. 1 cr c) BTSL : Rs. 0.05 cr d) TCIL : Rs. 47.04 cr. Turnover of following companies for the year ended 31 March 2025: a) TCVSL : Rs. 1.2 cr b) JTSL : Nil c) BTSL : Nil d) TCIL : Rs. 2,243.97 cr")”
 

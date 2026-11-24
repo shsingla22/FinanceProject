@@ -36,11 +36,11 @@
 
 **Reading: LIKELY — the piece is small beside the parent; mandates with size limits tend to sell.**
 
-| Entity | Stated turnover | Stated share of the whole | Segment revenue share | Market cap (₹ cr) | Share of combined market cap | Index member |
-|---|---|---:|---:|---:|---:|---|
-| Piccadily Food & Essentials Limited | "The turnover of the Demerged Undertaking of the Company fo… | 20.53% | 22.5% (FY2026) | — | — | not listed |
+| Entity | Stated turnover | Stated share of the whole | Market cap (₹ cr) | Share of the whole by market cap | Segment revenue share | Index member | Selling on size |
+|---|---|---:|---:|---:|---:|---|---|
+| Piccadily Food & Essentials Limited | "The turnover of the Demerged Undertaking of the Company fo… | 20.53% (share of turnover) | — | — | 22.5% (FY2026) | not listed | likely |
 
-*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value); the segment share is this business's revenue over the parent's sales, and the market-cap share is the entity's value over the entity plus the parent (parent ₹5,444 cr, NSE bhavcopy of 2026-11-13), both computed here.*
+*Stated figures are the documents' own (a turnover share, or the cost-of-acquisition split the company publishes for tax, which reflects relative value). The market-cap share is the entity's value over the whole — the parent plus every separated entity that trades (parent ₹5,444 cr, whole ₹5,444 cr, NSE bhavcopy of 2026-11-13); the segment share is the business's revenue over the parent's reported sales of that year. Both are computed here. The reading uses the market-cap share when the entity trades, else the stated share, else the segment share.*
 
 **In the documents' words:** “The turnover of the Demerged Undertaking of the Company for the financial year ended 31% March 2026 is as follows: (Rs. In Lakh) | Financial Year: 2026 | Turnover of the demerged division: 233.05 | Percentage to the total turnover of the listed entity: 20.53%”
 
