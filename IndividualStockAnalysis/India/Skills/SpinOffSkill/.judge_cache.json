@@ -34991,6 +34991,587 @@
      "source": null
     },
     "not_found": "No operating profit/EBITDA for the demerged business any year; no FY2025 or FY2026 figures (deconsolidated from 1 April 2024); no quarterly data; no separate Digitide vs Bluspring revenue/profit split."
+   },
+   "19faddfc24cd46d0119ed61ad8d21bf5": {
+    "businesses": [
+     {
+      "entity": "Quess Corp Limited (Remaining demerged company)",
+      "segment_name": "General Staffing",
+      "unit": "\u20b9 million (annual segment tables); \u20b9 crore for the quarterly figure",
+      "measure_notes": "operating_profit = \"Segment result\" (segment revenue less segment costs, before depreciation/amortisation, finance costs, unallocated corporate expenses, exceptional items and tax); revenue is segment revenue as disclosed (no inter-segment column shown). Quarterly figure is 'Operational EBITDA' in \u20b9 crore.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 117463.9,
+        "operating_profit": 1847.13,
+        "pat": null,
+        "segment_assets": 15059.31,
+        "segment_liabilities": 13535.59,
+        "capex": 15.57,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313 (FY2024 restated/reclassified for the Scheme of Arrangement)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 129945.88,
+        "operating_profit": 1936.24,
+        "pat": null,
+        "segment_assets": 14110.21,
+        "segment_liabilities": 12543.66,
+        "capex": 16.34,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313; also Annual Report 2026 \u2014 page 301"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 131758.48,
+        "operating_profit": 1886.86,
+        "pat": null,
+        "segment_assets": 12973.77,
+        "segment_liabilities": 14333.3,
+        "capex": 8.45,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 301"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q2 FY27",
+       "revenue": 3823,
+       "operating_profit": 57,
+       "source": "Presentation Nov 2026 \u2014 page 36"
+      },
+      "not_found": "No segment-level PAT or depreciation (both unallocated)."
+     },
+     {
+      "entity": "Quess Corp Limited (Remaining demerged company)",
+      "segment_name": "Professional Staffing",
+      "unit": "\u20b9 million (annual segment tables); \u20b9 crore for the H1 figure",
+      "measure_notes": "operating_profit = \"Segment result\" (before depreciation, finance costs, unallocated corporate expenses, exceptional items, tax); revenue as disclosed segment revenue.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 7415.37,
+        "operating_profit": 545.18,
+        "pat": null,
+        "segment_assets": 2070.39,
+        "segment_liabilities": 958.04,
+        "capex": 8.35,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313 (FY2024 restated)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 8254.45,
+        "operating_profit": 772.18,
+        "pat": null,
+        "segment_assets": 2494.68,
+        "segment_liabilities": 3018.69,
+        "capex": 7.56,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313; also Annual Report 2026 \u2014 page 301"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 9298.84,
+        "operating_profit": 1105.58,
+        "pat": null,
+        "segment_assets": 2560.33,
+        "segment_liabilities": 1265.47,
+        "capex": 3.24,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 301"
+       }
+      ],
+      "latest_quarter": {
+       "period": "H1 FY27 (half-year, not a quarter)",
+       "revenue": 506,
+       "operating_profit": 55,
+       "source": "Presentation Nov 2026 \u2014 page 30"
+      },
+      "not_found": "No segment PAT or depreciation; no stand-alone Q2 FY27 quarterly split (only H1)."
+     },
+     {
+      "entity": "Quess Corp Limited (Remaining demerged company)",
+      "segment_name": "Overseas Business (Overseas Staffing)",
+      "unit": "\u20b9 million (annual segment tables); \u20b9 crore for the H1 figure",
+      "measure_notes": "operating_profit = \"Segment result\" (before depreciation, finance costs, unallocated corporate expenses, exceptional items, tax).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 12010.43,
+        "operating_profit": 641.64,
+        "pat": null,
+        "segment_assets": 4181.05,
+        "segment_liabilities": 1294.68,
+        "capex": 7.57,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313 (FY2024 restated)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 11421.66,
+        "operating_profit": 634.31,
+        "pat": null,
+        "segment_assets": 4047.1,
+        "segment_liabilities": 1307.16,
+        "capex": 5.34,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313; also Annual Report 2026 \u2014 page 301"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 11973.16,
+        "operating_profit": 766.75,
+        "pat": null,
+        "segment_assets": 4645.47,
+        "segment_liabilities": 1684.53,
+        "capex": 17.31,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 301"
+       }
+      ],
+      "latest_quarter": {
+       "period": "H1 FY27 (half-year, not a quarter)",
+       "revenue": 651,
+       "operating_profit": 43,
+       "source": "Presentation Nov 2026 \u2014 page 30"
+      },
+      "not_found": "No segment PAT or depreciation; no stand-alone quarterly split."
+     },
+     {
+      "entity": "Quess Corp Limited (Remaining demerged company)",
+      "segment_name": "Digital Platforms",
+      "unit": "\u20b9 million (annual segment tables); \u20b9 crore for the H1 figure",
+      "measure_notes": "operating_profit = \"Segment result\" (loss shown negative), before depreciation, finance costs, unallocated corporate expenses, exceptional items, tax.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 61.2,
+        "operating_profit": -148.61,
+        "pat": null,
+        "segment_assets": 161.62,
+        "segment_liabilities": 58.54,
+        "capex": 68.48,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313 (FY2024 restated)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 50.0,
+        "operating_profit": -54.85,
+        "pat": null,
+        "segment_assets": 73.82,
+        "segment_liabilities": 34.15,
+        "capex": 0.13,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 313; also Annual Report 2026 \u2014 page 301"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 21.39,
+        "operating_profit": -73.04,
+        "pat": null,
+        "segment_assets": 62.88,
+        "segment_liabilities": 63.13,
+        "capex": 0.31,
+        "depreciation": null,
+        "source": "Annual Report 2026 \u2014 page 301"
+       }
+      ],
+      "latest_quarter": {
+       "period": "H1 FY26 (half-year; latest period shown separately)",
+       "revenue": 1,
+       "operating_profit": -4,
+       "source": "Presentation Nov 2025 \u2014 page 9"
+      },
+      "not_found": "No segment PAT or depreciation; FY27 presentations fold Digital Platforms into the total, so no separate FY27 period figure."
+     },
+     {
+      "entity": "Quess Corp Limited (Remaining demerged company)",
+      "segment_name": "Quess Corp consolidated \u2014 continuing operations (post-demerger: General + Professional + Overseas Staffing + Digital Platforms)",
+      "unit": "\u20b9 million (annual); \u20b9 crore for the quarterly figure",
+      "measure_notes": "operating_profit = total of segment results (reported EBITDA in presentations differs: FY2025 \u20b92,623 Mn, AR2025 p54); pat = profit after tax for continuing operations. FY2024 segment assets/liabilities/capex per AR2025 p313 still include balances of discontinued operations (unallocated column), so they are not clean continuing-business figures.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 136950.9,
+        "operating_profit": 2885.34,
+        "pat": 1354.08,
+        "segment_assets": 62550.43,
+        "segment_liabilities": 32904.41,
+        "capex": 1271.64,
+        "depreciation": 580.52,
+        "source": "Annual Report 2025 \u2014 page 313 (restated; assets/liabilities/capex include discontinued operations)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": 149671.99,
+        "operating_profit": 3287.88,
+        "pat": 458.89,
+        "segment_assets": 28118.28,
+        "segment_liabilities": 17258.41,
+        "capex": 36.25,
+        "depreciation": 412.1,
+        "source": "Annual Report 2025 \u2014 page 313"
+       },
+       {
+        "fy": "FY2026",
+        "revenue": 153051.87,
+        "operating_profit": 3686.15,
+        "pat": 2222.01,
+        "segment_assets": 30391.12,
+        "segment_liabilities": 18708.86,
+        "capex": 85.31,
+        "depreciation": 418.38,
+        "source": "Annual Report 2026 \u2014 page 301"
+       }
+      ],
+      "latest_quarter": {
+       "period": "Q2 FY27",
+       "revenue": 4396,
+       "operating_profit": 86,
+       "source": "Presentation Nov 2026 \u2014 page 32 (EBITDA \u20b986 Cr; adj. EBITDA excl. ESOP \u20b992 Cr; PAT \u20b975 Cr)"
+      },
+      "not_found": "Nothing material missing; FY2024 balance-sheet lines are not demerger-adjusted in the segment table."
+     },
+     {
+      "entity": "Quess Corp Limited (pre-demerger reporting; includes the skill development / training business later transferred out)",
+      "segment_name": "Workforce Management (pre-demerger segment)",
+      "unit": "\u20b9 million",
+      "measure_notes": "operating_profit = \"Segment result\". Segment as defined in AR2024 covers general/IT staffing, recruitment and executive search, RPO, payroll, compliance, BGV, training and skill development, logistics \u2014 i.e. it mixes businesses retained by Quess with the skill-development business.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 134422.84,
+        "operating_profit": 3511.82,
+        "pat": null,
+        "segment_assets": 19004.98,
+        "segment_liabilities": 14269.54,
+        "capex": 62.98,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 290"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "PAT, depreciation; segment discontinued as a reporting line from FY2025 (replaced by the four post-demerger segments), so no FY2025/FY2026 figures."
+     },
+     {
+      "entity": "Digitide Solutions Limited (\"Resulting Company 1\")",
+      "segment_name": "Global Technology Solutions (BPO services and technology solutions) \u2014 pre-demerger segment",
+      "unit": "\u20b9 million",
+      "measure_notes": "operating_profit = \"Segment result\" (before depreciation, finance costs, corporate expenses, exceptional items, tax). Attribution to Digitide is not stated on the segment page itself; it rests on AR2025 p278, which records the technology/BPM CGUs (MFXchange Holdings Inc., Brainhunter Systems Ltd, Conneqt Business Solution Limited) as transferred to Digitide Solutions Limited.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 23400.26,
+        "operating_profit": 4252.98,
+        "pat": null,
+        "segment_assets": 15018.86,
+        "segment_liabilities": 7310.62,
+        "capex": 709.57,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 290 (revenue also at Annual Report 2024 \u2014 page 276)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "PAT, depreciation; no FY2025/FY2026 or quarterly figures \u2014 segment ceased to be reported by Quess after the demerger."
+     },
+     {
+      "entity": "Bluspring Enterprises Limited (\"Resulting Company 2\")",
+      "segment_name": "Operating Asset Management (janitorial, security, electro-mechanical, pest control, food and hospitality, industrial O&M) \u2014 pre-demerger segment",
+      "unit": "\u20b9 million",
+      "measure_notes": "operating_profit = \"Segment result\". Attribution to Bluspring is not stated on the segment page; it rests on AR2025 p278, which records the Integrated Facility Management (IFM) and Vedang Cellular Services CGUs as transferred to Bluspring Enterprises Limited.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 28007.37,
+        "operating_profit": 1409.83,
+        "pat": null,
+        "segment_assets": 13950.95,
+        "segment_liabilities": 5982.45,
+        "capex": 112.17,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 290 (revenue also at Annual Report 2024 \u2014 page 276)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "PAT, depreciation; no FY2025/FY2026 or quarterly figures \u2014 segment ceased to be reported after the demerger."
+     },
+     {
+      "entity": "Resulting Company 1 / Resulting Company 2 \u2014 the pages do not state which resulting company this segment went to",
+      "segment_name": "Product Led Business (break-fix services, hiring technology platform, workforce management tool) \u2014 pre-demerger segment",
+      "unit": "\u20b9 million",
+      "measure_notes": "operating_profit = \"Segment result\" (loss). This segment is not carried forward into Quess's post-demerger segments, and the pages do not allocate it to Digitide or Bluspring.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 5170.86,
+        "operating_profit": -628.49,
+        "pat": null,
+        "segment_assets": 1588.01,
+        "segment_liabilities": 1368.42,
+        "capex": 364.63,
+        "depreciation": null,
+        "source": "Annual Report 2024 \u2014 page 290 (revenue also at Annual Report 2024 \u2014 page 276)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Entity allocation, PAT, depreciation; no FY2025/FY2026 or quarterly figures."
+     },
+     {
+      "entity": "Digitide Solutions Limited and Bluspring Enterprises Limited (combined, as discontinued operations of Quess)",
+      "segment_name": "Discontinued operations (businesses demerged into Resulting Company 1 and Resulting Company 2)",
+      "unit": "\u20b9 million",
+      "measure_notes": "pat = \"Profit/(loss) after tax for discontinued operations\"; revenue = revenue from discontinued operations disclosed in the geographic-information footnote. Combined for the two resulting companies \u2014 not split by entity.",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": 54050.43,
+        "operating_profit": null,
+        "pat": 1449.95,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 314 (revenue footnote) and Annual Report 2025 \u2014 page 313 (PAT)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Operating profit, assets, liabilities, capex, depreciation; entity-wise split of revenue and PAT; goodwill transferred out was \u20b97,470.27 Mn (AR2025 p277)."
+     },
+     {
+      "entity": "Digitide Solutions Limited (\"Resulting Company 1\")",
+      "segment_name": "Digitide Solutions Limited \u2014 discontinued-operations cash flows (entity-level disclosure)",
+      "unit": "\u20b9 million",
+      "measure_notes": "Only cash flow lines are given for this entity: FY2024 net cash from operating \u20b91,599.80 Mn, investing \u20b9(174.65) Mn, financing \u20b9(1,597.51) Mn. No P&L or balance-sheet line items. Allotted 148,918,541 equity shares of \u20b910 each to Quess shareholders in 1:1 ratio (record date 15 April 2025).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 241 (cash flows only)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Entity-level revenue, operating profit, PAT, assets, liabilities, capex, depreciation \u2014 pages carry only FY2024 discontinued-operations cash flows."
+     },
+     {
+      "entity": "Bluspring Enterprises Limited (\"Resulting Company 2\")",
+      "segment_name": "Bluspring Enterprises Limited \u2014 discontinued-operations cash flows (entity-level disclosure)",
+      "unit": "\u20b9 million",
+      "measure_notes": "Only cash flow lines are given for this entity: FY2024 net cash from operating \u20b9(428.06) Mn, investing \u20b9(986.11) Mn, financing \u20b9(680.17) Mn. No P&L or balance-sheet line items. Allotted 148,918,541 equity shares of \u20b910 each to Quess shareholders in 1:1 ratio (record date 15 April 2025).",
+      "years": [
+       {
+        "fy": "FY2024",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": "Annual Report 2025 \u2014 page 241 (cash flows only)"
+       },
+       {
+        "fy": "FY2025",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       },
+       {
+        "fy": "FY2026",
+        "revenue": null,
+        "operating_profit": null,
+        "pat": null,
+        "segment_assets": null,
+        "segment_liabilities": null,
+        "capex": null,
+        "depreciation": null,
+        "source": null
+       }
+      ],
+      "latest_quarter": {
+       "period": null,
+       "revenue": null,
+       "operating_profit": null,
+       "source": null
+      },
+      "not_found": "Entity-level revenue, operating profit, PAT, assets, liabilities, capex, depreciation \u2014 pages carry only FY2024 discontinued-operations cash flows."
+     }
+    ],
+    "not_found": "Brainhunter (only CGU discount/terminal-growth rates), the skill development business, and the \"technology and industrial\" grouping carry no stand-alone financials on these pages."
    }
   }
  },
@@ -81964,6 +82545,123 @@
     "listing_sought": "not stated",
     "timeline": "not stated",
     "quote": "This is in continuation to our earlier communication dated December 19, 2024 regarding the subject matter cited above, wherein we had informed you that the Scheme of Amalgamation of Kosei Minda Aluminum Company Private Limited (\"Transferor Company No.1\"), Kosei Minda Mould Private Limited (\"Transferor Company No. 2\"), Minda Kosei Aluminum Wheel Private Limited (\"Transferor Company No. 3\") (Transferor Company No. 1, Transferor Company No. 2 and Transferor Company No. 3 are collectively referred to as \"Transferor Companies\") with Uno Minda Limited (formerly known as Minda Industries Ltd.) (\"Transferee Company\") and their respective Shareholders and Creditors (the \"Scheme\"), has been sanctioned by the Hon'ble National Company Law Tribunal, Court VI, New Delhi ('NCLT') vide its Order dated December 18, 2024."
+   }
+  }
+ },
+ "QUESS::deal": {
+  "stamps": {
+   "69c94bac527d25f2f0130eadb7b7102c": {
+    "entities": [
+     {
+      "name": "Quess Corp Limited",
+      "business": "Remaining demerged company: workforce, talent and technology \u2014 General Staffing, Professional Staffing, Overseas business and Digital Platforms",
+      "swap_ratio": "not stated",
+      "listing": "listed on 2016-07 (\"It is 10 years since Quess listed on the Indian stock exchanges in July 2016\")",
+      "turnover": "FY26 revenue INR 15,305 crore (consolidated); FY25 consolidated revenue from operations INR 1,49,671.99 million; General Staffing INR 13,176 crore, Professional Staffing INR 930 crore, Overseas INR 1,197 crore in FY26",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "Consolidated total equity INR 11,164.45 million and total assets INR 30,527.70 million as at 30 September 2025 (standalone total equity INR 9,144.03 million); its share of the pre-demerger parent: not stated",
+      "who_runs_it": "Mr. Ajit Isaac, Chairman; Mr. Lohit Bhatia, Executive Director and Group CEO (elevated to Chief Executive Officer effective 1 January 2026); Mr. Guruprasad Srinivasan, Executive Director (Whole-time director) and Group Chief Executive Officer; Mr. Neeraj Jain, Chief Financial Officer (joined 3 December 2025)",
+      "quote": "What remains with you is Quess Corp, an independent workforce, talent and technology company, with no debt on its books."
+     },
+     {
+      "name": "Digitide Solutions Limited",
+      "business": "\"Resulting Company 1\" under the Composite Scheme; documents state only that the two demerged businesses \"have gone on to build strong technology and industrial services platforms\" and that Brainhunter moved into Digitide",
+      "swap_ratio": "not stated",
+      "listing": "listed (one of \"three separately listed companies\"); date not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated",
+      "quote": "With all of those business with high EBITDA margins, we were averaging around 4%, 4.5%, but that businesses have been discontinued and Brainhunter as part of demerger has moved into Digitide."
+     },
+     {
+      "name": "Bluspring Enterprises Limited",
+      "business": "\"Resulting Company 2\" under the Composite Scheme; documents state only that the two demerged businesses \"have gone on to build strong technology and industrial services platforms\"",
+      "swap_ratio": "not stated",
+      "listing": "listed (one of \"three separately listed companies\"); date not stated",
+      "turnover": "not stated",
+      "turnover_pct_of_parent": "not stated",
+      "net_worth_or_assets": "not stated",
+      "who_runs_it": "not stated",
+      "quote": "Where there was one company, there are now three separately listed companies: Quess Corp, Bluspring Enterprises and Digitide Solutions, each with its own focus and its own management."
+     }
+    ],
+    "size_statement": "\"In FY25, we completed a three-way demerger. Where there was one company, there are now three separately listed companies: Quess Corp, Bluspring Enterprises and Digitide Solutions, each with its own focus and its own management. The value creation from the demerger was made possible by the \u20b91,270 crore of capital raised through the Quess IPO and IPP, which was subsequently reinvested in the businesses. The three companies now generate around \u20b9500 crore in EBITDA and employ over 600,000 people.\" (Quess Corp FY26 revenue stated separately as \u20b915,305 crore with EBITDA of \u20b9312 crore; no separate turnover or net worth is given for Digitide or Bluspring)",
+    "promoter_holding_parent": "not stated",
+    "promoter_holding_after": "not stated",
+    "public_shareholders_get": "Not stated for the three-way demerger (Quess Corp / Digitide Solutions / Bluspring Enterprises). For the earlier Composite Scheme of Arrangement between Thomas Cook (India) Limited and Quess Corp Limited, under which Quess was the resulting company: \"the Board of Directors of Quess Corp Limited (\"the Company\"), on December 09, 2019, allotted 7,14,56,240 equity shares of face value \u20b910 each, fully paid-up, to the eligible equity shareholders of Thomas Cook (India) Limited (\"TCIL\") as on December 06, 2019 (\"Record Date\"), in the ratio of 1,889 equity shares of the Company for every 10,000 equity shares of \u20b91 each held in TCIL.\" Fractional entitlements were handled as: \"In accordance with the Scheme, the fractional entitlements arising from this allotment were consolidated and sold, and the net sale proceeds were distributed to the eligible shareholders in proportion to their fractional entitlements.\"",
+    "management_incentives": "How existing grants were treated in the scheme, any new plan in the resulting companies, exercise price or pricing date, and management/insider shareholding: not stated. The filings record only ESOP costs and exercises: standalone H1 FY26 cash flow shows \"Employee stock option cost 23.50\" and, within exceptional items, \"-Employee stock option cost 5.16\" (INR millions), and \"Shares issued on exercise of employee stock options 1.66\"; paid-up equity share capital moved from INR 1,489.19 million (31 March 2025) to INR 1,490.85 million (30 September 2025). Scheme-related employee cost is disclosed as: \"The Company incurred certain professional fees relating to demerger and certain employee benefits expense aggregating to INR 18.51 million for the half year ended 30 September 2025 towards the Composite Scheme of Arrangement\".",
+    "insider_actions": "not stated",
+    "dates": [
+     {
+      "event": "appointed date",
+      "date": "2024-04-01",
+      "entity": "Composite Scheme of Arrangement between Quess Corp Limited, Digitide Solutions Limited and Bluspring Enterprises Limited",
+      "source": "Q3 FY26 earnings call, January 29, 2026 \u2014 \"we underwent a demerger, which was since 1st April 2024. And if you look at our financials, Bluspring and Digitide are not part of the company.\""
+     },
+     {
+      "event": "record date",
+      "date": "2019-12-06",
+      "entity": "Quess Corp Limited (Composite Scheme of Arrangement between Thomas Cook (India) Limited and Quess Corp Limited)",
+      "source": "Reminder letter to eligible shareholders on unclaimed fractional sale proceeds, filing dated October 05, 2026"
+     },
+     {
+      "event": "allotment",
+      "date": "2019-12-09",
+      "entity": "Quess Corp Limited (Thomas Cook (India) Limited composite scheme) \u2014 7,14,56,240 equity shares allotted to TCIL shareholders",
+      "source": "Reminder letter to eligible shareholders on unclaimed fractional sale proceeds, filing dated October 05, 2026"
+     },
+     {
+      "event": "other",
+      "date": "2026-12-20",
+      "entity": "Quess Corp Limited \u2014 last date for eligible shareholders to claim unpaid/unclaimed sale proceeds of fractional entitlements before transfer to IEPF",
+      "source": "Reminder letter to eligible shareholders, filing dated October 05, 2026"
+     }
+    ],
+    "other_differences": [
+     {
+      "metric": "operating margin",
+      "parent_or_remaining": "Post-demerger Quess Corp consolidated EBITDA margin 2.0% in FY26 (Q4 FY26 2.2%, up from 1.6% range at the start of the year); General Staffing 1.4%\u20131.5%, Professional Staffing ~12%, International ~7%",
+      "separated_business": "The pre-demerger mix, which included skill development and Brainhunter (Brainhunter having moved into Digitide), averaged around 4%\u20134.5% EBITDA margin",
+      "quote": "With all of those business with high EBITDA margins, we were averaging around 4%, 4.5%, but that businesses have been discontinued and Brainhunter as part of demerger has moved into Digitide."
+     },
+     {
+      "metric": "debt and leverage",
+      "parent_or_remaining": "Quess Corp is zero gross debt with net cash of INR 271 crore at FY26 close (consolidated borrowings nil at 30 September 2025 vs INR 120.63 million at 31 March 2025)",
+      "separated_business": "not stated",
+      "quote": "We closed the year with net cash of \u20b9271 crore, having fully repaid our gross debt."
+     },
+     {
+      "metric": "other",
+      "parent_or_remaining": "Quess Corp FY26 EBITDA INR 312 crore and over 4,78,594 associates and employees",
+      "separated_business": "Quess Corp, Bluspring Enterprises and Digitide Solutions together",
+      "quote": "The three companies now generate around \u20b9500 crore in EBITDA and employ over 600,000 people."
+     },
+     {
+      "metric": "other",
+      "parent_or_remaining": "Quess Corp share price after the separation",
+      "separated_business": "not stated",
+      "quote": "While the stock saw some weakness immediately following the demerger, it has since recovered strongly and delivered a return of around 25% over the past year, although the broader Indian equity market has remained largely flat."
+     },
+     {
+      "metric": "other",
+      "parent_or_remaining": "Remaining Quess Corp took an exceptional expected credit loss of INR 120 crore in Q4 FY25 on receivables of the skilling/government business discontinued as part of the demerger; collections against it were still pending in Q3 FY26 and any recovery would be a write-back",
+      "separated_business": "not stated",
+      "quote": "If you recollect, in Q4, these were the discontinued businesses as part of the demerger that we had announced to the Street, and we had taken an exceptional credit loss on that."
+     },
+     {
+      "metric": "working capital",
+      "parent_or_remaining": "General Staffing DSO 24 days including unbilled revenue (ARDSO 15 days), Collect & Pay mix 76%, and 80% of EBITDA converted to operating cash flow in FY26",
+      "separated_business": "not stated",
+      "quote": "Our DSO remained tightly controlled at 24 days, including unbilled revenue, with the ARDSO standing at 15 days."
+     },
+     {
+      "metric": "tax",
+      "parent_or_remaining": "Guided effective tax rate of 7%\u201310% for the remaining business; INR 2,963.84 million of contingent liabilities assessed on the disputed 80JJAA and goodwill-depreciation claims, with an audit qualification on those deductions",
+      "separated_business": "not stated",
+      "quote": "Pending resolution of these Income Tax disputes, the Company has assessed INR 2,963.84 million as contingent liabilities towards demands including interest in the order for these fiscal years."
+     }
+    ]
    }
   }
  }

@@ -279,6 +279,31 @@ def latest_holding(shp: dict, holder: str = "Promoters") -> tuple[float | None, 
     return None, ""
 
 
+def fetch_entity_statements(symbol: str) -> list[str]:
+    """Pull the profit statement, balance sheet and working-capital ratios
+    of a LISTED resulting company that is not on file (it is not an index
+    member, so the routine fetchers never asked for it), with the same
+    fetchers and into the same folders. Returns what was written."""
+    wrote = []
+    jobs = (("ProfitStatement", "fetch_profit_loss", "fetch_company_detailed", FN.PNL),
+            ("BalanceSheet", "fetch_balance_sheets", "fetch_company_detailed", BS_DIR),
+            ("WorkingCapital", "fetch_working_capital", "fetch_company", WC_DIR))
+    for folder, module, func, out_dir in jobs:
+        path = out_dir / f"{symbol}.csv"
+        if path.exists():
+            continue
+        try:
+            sys.path.insert(0, str(INDIA / folder))
+            mod = __import__(module)
+            df = getattr(mod, func)(symbol)[0]
+            if df is not None and len(df):
+                df.to_csv(path)
+                wrote.append(folder)
+        except Exception:                                         # noqa: BLE001
+            continue
+    return wrote
+
+
 # ------------------------------------------------------------ market caps
 
 _MCAP: tuple[str, dict[str, float]] | None = None
@@ -379,7 +404,8 @@ def size_view(entities: list[dict], parent_fin: dict, seg_tables: list[dict], pa
         cap_share = round(100 * cap / (cap + pcap), 1) if cap and pcap else None
         seg_share, seg_fy = None, ""
         for st in seg_tables:
-            if not st.get("available") or not _same_business(st.get("entity", ""), st.get("segment_name", ""), e):
+            if not st.get("available") or st.get("side") == "remaining" \
+                    or not _same_business(st.get("entity", ""), st.get("segment_name", ""), e):
                 continue
             rev = next((r["values"] for r in st["rows"] if r["metric"].startswith("Revenue (")), [])
             for fy, v in reversed(list(zip(st.get("years", []), rev))):
@@ -414,13 +440,24 @@ def size_view(entities: list[dict], parent_fin: dict, seg_tables: list[dict], pa
             "total_share": total, "smallest_share": smallest, "reading": reading}
 
 
+MATCH_SKIP = set(FN.GENERIC_WORDS) | {"enterprises", "industries", "holdings", "global", "international", "technologies",
+                                      "ventures", "corporation", "under", "which", "their", "other", "businesses", "including",
+                                      "composite", "remaining", "company", "through", "related", "comprising"}
+
+
 def _same_business(entity: str, segment: str, e: dict) -> bool:
-    blob = SO._norm_name(f"{entity} {segment}")
-    for cand in (e.get("name", ""), e.get("business", "")):
-        for w in re.findall(r"[A-Za-z]{5,}", cand):
-            if w.lower() not in FN.GENERIC_WORDS and w.lower() in blob:
+    """Does a segment table belong to entity `e`? First by the entity the
+    judge attached to it (a distinctive word of the entity's name), then by
+    a distinctive word of the entity's business in the segment's name."""
+    ent = SO._norm_name(entity)
+    for w in re.findall(r"[A-Za-z]{4,}", e.get("name", "")):
+        if w.lower() not in MATCH_SKIP:
+            if w.lower() in ent:
                 return True
-    return False
+            break                                   # only the first distinctive word of the name
+    seg = SO._norm_name(segment)
+    return any(w.lower() in seg for w in re.findall(r"[A-Za-z]{6,}", e.get("business", ""))
+               if w.lower() not in MATCH_SKIP)
 
 
 def _parent_sales_for(parent_sales: dict | None, fy: str) -> float | None:
@@ -445,10 +482,8 @@ def unit_factor(unit: str) -> float | None:
     u = (unit or "").lower()
     if re.search(r"usd|\$|eur|€|gbp|£|sek", u):
         return None
-    for k, f in UNIT_FACTOR.items():
-        if re.search(rf"\b{k}\b", u):
-            return f
-    return None
+    hits = [(m.start(), f) for k, f in UNIT_FACTOR.items() for m in [re.search(rf"\b{k}\b", u)] if m]
+    return min(hits)[1] if hits else None          # the first unit the string names
 
 
 # ---------------------------------------------------------------- compare
@@ -519,7 +554,8 @@ def compare(parent_symbol: str, parent_fin: dict, entities: list[dict], seg_tabl
             cols.append({"label": f"{e['name']} ({sym})", "basis": "its own reported statements",
                          "metrics": {**fin_metrics(own), **working_capital(sym)}})
             continue
-        st = next((t for t in seg_tables if t.get("available") and _same_business(t.get("entity", ""), t.get("segment_name", ""), e)), None)
+        st = next((t for t in seg_tables if t.get("available") and t.get("side") != "remaining"
+                   and _same_business(t.get("entity", ""), t.get("segment_name", ""), e)), None)
         if st:
             m = {}
             yrs = st["years"]

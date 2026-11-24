@@ -1357,6 +1357,13 @@ def test_shareholding_market_caps_entities_and_size(tmp_path, monkeypatch):
     assert sz["smallest_share"] == 15.0 and sz["reading"].startswith("LIKELY") and sz["parent_mcap_cr"] == 500000
     assert DL.size_view([], parent, [], "QUESS")["reading"].startswith("not determinable")
     assert (DL.unit_factor("₹ crore"), DL.unit_factor("INR million"), DL.unit_factor("USD million"), DL.unit_factor("")) == (1.0, 0.1, None, None)
+    assert DL.unit_factor("₹ million (annual segment tables); ₹ crore for the quarterly figure") == 0.1      # the first unit named
+    # a segment that STAYS with the parent is never taken for a separated entity's, nor matched on the parent's own name
+    stay = [{**seg[0], "side": "remaining", "entity": "Quess Corp Limited (remaining)", "segment_name": "General Staffing"}]
+    assert DL.size_view(ents, parent, stay, "QUESS", (date, caps))["rows"][1]["segment_pct"] is None
+    weak = {"name": "Bluspring Enterprises Limited", "business": "businesses of Quess Corp under the Composite Scheme"}
+    assert not DL._same_business("Quess Corp Limited", "General Staffing", weak)
+    assert DL._same_business("Bluspring Enterprises Limited", "Operating Asset Management", weak)
 
 
 def test_segment_tables_one_per_business_and_the_comparison(tmp_path, monkeypatch):
