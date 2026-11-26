@@ -1,0 +1,1522 @@
+....
+
+KP 11·
+July 30, 2025
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400001.
+
+National Stock Exchange of India Ltd.,
+Exchange Plaza, C/1, G Block,
+Bandra - Kurla Complex, Sandra (E),
+Mumbai - 400051.
+
+Scrip ID: KPITTECH
+Scrip Code: 542651
+
+Symbol: KPITTECH
+Series: EQ
+
+Kind Attn: The Manager,
+Department of Corporate Services
+
+Kind Attn: The Manager,
+Listing Department
+
+Dear Sir / Madam,
+Subject: - Outcome of the Board Meeting held on Wednesday, July 30, 2025.
+Ref:Disclosure of events & information pursuant to Regulation 30 SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015
+Time of Commencement of the Board Meeting: 9.15 am 1ST.
+Time of Conclusion of the Board Meeting: 02:00 pm 1ST.
+We wish to inform you that the Board of Directors of the Company, at its meeting held
+today, inter alia, has approved Un-audited Consolidated Financial Results and
+Standalone Financial Results for the quarter ended June 30, 2025. An unqualified
+opinion has been issued by the Statutory Auditor on said Financial Results.
+Un-audited Consolidated Financial Results and Standalone Financial Results for the
+quarter ended June 30, 2025, along with Limited Review Reports thereon and Investor
+Update are being sent separately.
+Kindly take the same on your records.
+Thanking you.
+
+Yours faithfully,
+For KPIT Technologies Limited
+
+Ashish Malhotra
+General Counsel & Company Secretary
+
+i
+
+-:§'�,
+�,
+•.
+
+KPIT Technologies Ltd.
+Registered & Corporate Office: Plot No. 17, Rajiv Gandhi lnfotech Park, MIDC-SEZ,
+Phase-Ill, Maan, Taluka-Mulshi, Hinjawadi, Pune-411057, India.
+GIN: L74999PN2018PLC174192
+
+0 +91 20 6770 6000
+E info@kpit.com
+W kpit.com
+
+
+KPIT TECHNOLOGIES LIMITE D
+Registered & Corporate Office: Plot- 17, Rajiv Gandhi lnfotech Park, MIDC -S EZ, Phase- Ill, Maan, Hinjawadi, Taluka - Mulshi, Pune - 411057
+Phone : +91 20 6770 6000 I grievances@kpit.com I www.kpit.com I CIN : L74999PN2018PLC174192
+PART I: STAT EMENT OF UNAUDI TE D CONSO LI DATE D FINANCIAL RESULTS FOR THE QUARTER ENDED 30 JUNE 2025
+
+Particulars
+
+Revenue from operations
+Other incom e (Refer note 4, 5 and 6)
+Total income
+
+15,387.61
+159.60
+15,547.21
+
+Quarter ended
+31 March 2025
+(Audited)
+(Refer note 8)
+15,283.44
+461 .59
+15,745.03
+
+Expenses
+Cost of materials consumed
+Changes in inventories of fin ished goods and work-in-progress
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Other expenses (Refer note 4)
+Total expenses
+
+179.97
+29 .90
+9 ,754.42
+120.28
+628.81
+2,424 .56
+13,137.94
+
+30 June 2025
+(Unaudited)
+
+r in million (except per share data)
+Year ended
+31 March 2025
+30 June 2024
+(Au dited)
+(Un audited)
+13,646.30
+544.4 4
+14,190.74
+
+58,423.45
+1,673.22
+60,096.67
+
+151.80
+61.54
+9 ,549.73
+91 .88
+579.23
+2,290.46
+12,724.64
+
+10.37
+68.56
+8 ,743.65
+127.31
+525.14
+1,942.12
+11,417.15
+
+487.64
+70.00
+36,992.71
+423.92
+2,249.60
+8,575.35
+48,799 .22
+
+2,409.27
+
+3,020.39
+
+2,773 .59
+
+11,297.45
+
+(51 .17)
+
+141.36
+
+(6.62)
+
+28 .02
+
+Profit before tax
+
+2,358.10
+
+3,161.75
+
+2,76 6.97
+
+11,325.47
+
+Tax expense (Refer note 5)
+Current tax
+Deferred tax (benef it )/charge
+Total tax expense
+
+925.61
+(286 .50)
+639.11
+
+544.99
+169.51
+714.50
+
+998 .29
+(272.92)
+725.37
+
+3,093.13
+(163.66)
+2,929.47
+
+Profit for the period/year
+
+1,71 8.99
+
+2,447.25
+
+2,041.60
+
+8,396.00
+
+12.02
+(4.68)
+
+10.08
+(3.41)
+
+(9 .13)
+3.26
+
+(27.28)
+9 .76
+
+595.48
+213.49
+
+417.17
+27.40
+
+(61.29)
+(28.18)
+
+337.94
+26.35
+
+816.31
+
+451.24
+
+(95.34)
+
+346.77
+
+Total comprehensive income for the period / year
+
+2,535.30
+
+2,898.49
+
+1,946.26
+
+8,742.77
+
+Profit attributable to
+Owners of the Company
+Non - controlling interests
+Profit for th e period/year
+
+1,718.99
+1,718.99
+
+2,447.25
+
+2,041 .60
+
+8,396.00
+
+-
+
+-
+
+2,447.25
+
+2,041.60
+
+8,396.00
+
+816.31
+
+451.24
+
+(95.34)
+
+346.77
+
+-
+
+-
+
+-
+
+816 .31
+
+451.24
+
+(95 .34)
+
+346.77
+
+2,535.30
+
+2,898.49
+
+1,946.26
+
+8,742.77
+
+-
+
+-
+
+-
+
+Profit before share
+associate and tax
+
+of
+
+profit/(loss)
+
+of j oint
+
+venture
+
+and
+
+Share of profit/(loss) of joint venture and associate (net of tax)
+
+Other comprehensive income
+A.
+(i) Items that will not be reclassified to profit or loss
+(ii) Income tax on items that will not be reclassified to
+profit or loss
+B.
+(i) Items that will be reclassified to profit or loss
+(ii) Income tax on items that will be reclassified to p rofit
+or loss
+Total other comprehensive in come/(loss), net of tax
+
+Other comprehensive incom e/(loss) attributable to
+Owners of th e Company
+Non - controlling interests
+Other comprehensive income/(loss) for the period/year
+Total comprehensive income attributable to
+Owners of t he Company
+Non -controlling interests
+Total comprehensive incom e for the oeriod /year
+
+2,535.30
+
+2,898.49
+
+1,946.26
+
+8,742.77
+
+Paid-up equity share capital (face value of f 10 per share)
+
+2,719.25
+
+2,717.02
+
+2,713 .54
+
+2,717.02
+26,404.56
+
+Othe r equity
+Earnings per equity share (face value off 10 per share)*
+Basic
+Dil uted
+*EPS are not annualised for the interim periods.
+
+6.32
+6.28
+
+9.01
+8.94
+
+7.53
+7.47
+
+30.93
+30 .70
+
+
+KP IT TECHNOLOG IES LIM IT ED
+Registered & Corporate Office: Plot-17, Rajiv Gandhi lnfotech Park, MIDC-SEZ, Phase-Ill, Maan, Hinjawadi, Taluka - Mulshi, Pune - 411057
+Phone: +91 20 6770 6000Igrievances@kpit.comIwww .kpit. com I CIN : L74999PN2018PLC174192
+PART II : SEGMENT WISE REVENU E, RESU LTS, ASS ETS AND LI AB ILITIES
+
+Sr
+No
+
+Particulars
+
+1
+
+Segment revenue
+Americas
+UK & Europe
+Rest of the World
+T otal
+
+2
+
+30 June 2025
+(Un audited)
+
+4
+
+30 June 2024
+(Unaudited)
+
+~ in million
+Year ended
+31 March 2025
+(Audited)
+
+4,569.92
+7,268.01
+7,986.83
+19,824.7 6
+
+4,346.00
+6,914.48
+8,455.21
+19,71 5.69
+
+3,945.30
+7,2 88.33
+6,611.49
+17,845.12
+
+16,302.68
+29,134.78
+30,039.75
+75,477.21
+
+Less : Inter segment revenue
+
+4,437.15
+
+4,432.25
+
+4,198.82
+
+17,053.76
+
+Revenue from operations
+
+15,387.61
+
+15,283.44
+
+13,646.30
+
+58,423.45
+
+Segment resu lts
+Americas
+UK & Europe
+Rest of the World
+Total
+
+1,013.73
+1,186.09
+1,616.57
+3,816.39
+
+1,041.48
+1,232.28
+1,536.71
+3,810.47
+
+1.000.95
+1,702.92
+1,062.35
+3,766.22
+
+3,759.17
+6,328.98
+5,380.67
+15,468.82
+
+120.28
+1,286.84
+
+91.88
+698.20
+
+127.31
+865.32
+
+423.92
+3,747.45
+
+2,409.27
+
+3,020.39
+
+2,773.59
+
+11,297.45
+
+(51 .17)
+
+141.36
+
+(6 .62)
+
+28.02
+
+Profit before tax
+
+2,358.10
+
+3,1 61 .75
+
+2,766.97
+
+11,325.47
+
+Segment assets
+Americas
+UK & Europe
+Rest of the World
+Total
+
+2,584.26
+5,164.68
+1,811.02
+9,559.96
+
+2,780.33
+4,516.86
+1,885.48
+9 ,1 82.6 7
+
+2,953.62
+5,317.01
+988.02
+9,258.65
+
+2,780.33
+4,516.86
+1,885.48
+9,182.67
+
+Unallocated assets
+
+43,677.96
+
+41,146.95
+
+34,842.65
+
+41,146.95
+
+Total assets
+
+53 ,237.92
+
+50,329.62
+
+44,101.30
+
+50 ,329.62
+
+Segment liabilities
+Americas
+UK & Europe
+Rest of the World
+Total
+
+289.15
+4,222.37
+1,785.19
+6,296.71
+
+251.07
+4,546.01
+1,583.73
+6,380.81
+
+192.18
+3,446.30
+995.79
+4 ,634.27
+
+251.07
+4,546.01
+1,583.73
+6 ,380.81
+
+Unallocated liabilities
+
+15,184.11
+
+14,827.23
+
+15,744.96
+
+14,82 7.23
+
+21,480.82
+
+21,208.04
+
+20,379.23
+
+21,208.04
+
+Less:
+Fi nance costs
+Other unallocable expenditure (net of unallocable
+income)
+Profit before share of profit/(loss) of joint venture and
+associate and tax
+Share of profit/(loss) of joint venture and associate
+(net of tax)
+
+3
+
+Qu arter ended
+31 March 2025
+(Au d ited)
+(R efer note 8)
+
+Total liab ili t ies
+a
+
+Segment assets oth er th an t rade receivables (includ ing unbilled) and contract assets and segment liabilities other than contract
+liabilities (unearned revenue) and advance from customers used in the Company's business are not identified to any reportable
+segments, as these are used interch angeably between segments.
+
+b
+
+The cost incurred during the period/year to acquire property, plant and equipment and intangible assets, depreciation/amo rtisation
+and non-cash expenses are not attributable to any reportable segm ent.
+
+
+Notes:
+1
+
+The above unaudited consolidated financial results have been reviewed by the Audit Committee and thereafter approved and taken
+on record by the Board of Directors in their meetings held on 30 July 2025. These unaudited consolidated financial results have been
+prepared in accordance with the In dian Accounting Standards ("Ind-AS") as per the Companies (Indian Accounting Standards) Rules ,
+2015, as amended from t ime to t ime, notified under section 133 of the Companies Act, 2013 ("Act") and other relevant provisions of
+the Act.
+
+2
+
+The Statutory auditors of the Company have conducted a limited review on the above unaudited consolidated financial results of the
+Company for the quarter ended 30 June 2025. An unqualified review conclusion has been issued by them thereon .
+
+3
+
+The above unaudited consolidated financial resul ts include 22 wholly - owned subsidiaries, one joint venture, and one associate as on
+30 June 2025.
+
+4
+
+Details of foreign exchange gain / loss included in above results:
+Particulars
+30 June 2025
+{Unaudited)
+Fo reign exchange gain (net) in cluded in other in come
+Foreign excha nge loss (net) included in other expenses
+
+5
+
+Quarter ended
+31 March 2025
+(Audited)
+(Refer note B)
+2.99
+
+30 June 2024
+{Unaudited)
+81.99
+
+Year ended
+31 March 2025
+(Audited)
+82.98
+
+240.30
+
+During the quarter ended 30 June 2024, ZF Fried r ichshafen AG ("ZF") had invested EURO 1.35 million in Qo rix GmbH , a wholly owned
+subsidiary of KPIT Technologies Lim ited (KPIT), based on definitive terms of the Joint Venture Agreement entered into by KPIT and ZF
+to make an independent company focused on the creatio n of worldclass automotive middleware stack. Consequently, Qorix GmbH
+had become a Joint Venture Company of KPIT and ZF having 50:50 ownership. ZF has further invested EURO 13.65 million till date and
+assigned its relevant IP into Qorix GmbH.
+Qorix GmbH being a Joint Venture Company, KP IT does not have majority control in Qorix and thereby, as per the provisions of the
+appl icable Ind-AS, had:
+a.
+derecognised the assets and liabilities of Qorix GmbH and recognised the resu lting one-time gain of ~ 199.07 million under
+"Oth er income" in the Consolidated Statement of Profit and Loss account for the quarter ended 30 June 2024;
+b.
+recognised a one-time gain of ~ 197.22 million on transfer of IPs to Qorix GmbH under "Other income" in the Consolidated
+Statement of Profit and Loss account for the quarter ended 30 June 2024, along with the related tax expense of ~ 68.92
+million under "Tax expense".
+Duri ng the quarter ended 31 March 2025, Qualcomm Ventures LLC ("Qualcomm") joined as a strategic minority shareholde r in Qorix
+GmbH with KPIT and ZF as significant shareholders. This partnership further strengthened the position of Qorix GmbH as a Leading
+provider of middleware solutions for Software-Defined Vehicles (SDVs). Pursuant to this, Qualcomm had invested an amount of EURO
+10.00 million, through an equity in fusion, for a stake of 11.11% in Qorix GmbH. Accordingly, KPI T had recognised a one-time "Gain on
+dil ution" of~ 271.49 million under "Other income" in the Consolidated Statement of Profit and Loss account.
+
+6
+
+Dur ing the year ended 31 March 2025, the Company had recognised a one-time taxable gain of t 450.00 million on settlement of an
+insurance claim under "Other income" in the Consolidated Statement of Profit and Loss account.
+
+7
+
+The Board of Directors of the Company, at its meeting held on 6 May 2025, has approved the 100% acquisition of:
+a.
+Caresoft Global Technologies, Inc., United States of America;
+b.
+Caresoft Engineering Services Limited, United Kingdom;
+c.
+CAREGLOTECH de RL de CV, Mexico;
+d.
+OXI SRL, Italy.
+(together referred to as "Caresoft Entities")
+Caresoft Global is a leader in automotive benchmarking and cost reduction oriented engineering solutions, and will:
+a.
+Augment KPIT's growth in Trucks and Off-highway segment
+b.
+Boost value creation for KP IT clients w ith full vehicle cost reduction solutions
+c.
+Enhance KPIT's manufacturing engineering solutions portfolio
+d.
+Accelerate KPIT's foray into China Market
+The Group, through KPIT Technologies Limited, India along with its wholly-owned subsidiaries KPIT Technologies Inc., United States
+and KPIT Techn ologies (UK) Limited , has entered into a definitive Share Purchase Agreement with the Sellers: Caresoft Global Holdings
+Limited, Sabella Davies & Richard Ambadipudi; Guarantor, Mathew Vachaparampil.
+Definitive Share Purchase Agreement governing the acquis ition outlines certain closing conditions that need to be satisfied by both
+the parties. Both th e pa rties are work ing towards completion of these closi ng conditions and they are expected to be completed
+shortly, barring any unforeseen circumstances.
+
+
+Notes:
+8
+
+The figures for t he quarter ended 31 March 2025 as reported in these financial results, are the balancing figures between the audited
+f igures in respect of the full financial year and unaudited published year to date figu res upt o t he end of the third quarter of the
+relevant financial ye ar.
+
+9
+
+The consolidated results of the Company are available on the Company's website, www.k pit.com an d also on the website of the BSE
+Limited , www. bseindia.com and Nation al Stock Exc hange of India Limited, www.nseindia.com, where the shares of the Company are
+listed.
+
+For and on behal f of t h e Boa rd of Dire ctors of
+KPIT TEC HNO LOG IES LI MITED
+
+•
+Place: Pune
+Date: 30 J ul
+
+2025
+
+Pati
+
+(
+
+CEO & Manr:t,g Director
+DIN : 00076190
+
+~
+n Tik ekar
+P;ehident & Joint Managing Director
+DIN: 02918460
+
+
+BS R & Co. LLP
+Chartered Accountants
+
+8th floor, Business Plaza
+Westin Hotel Campus
+3613-B , Koregaon Park Annex
+Mundhwa Road , Ghorpadi
+Pune - 41 1 001 , India
+Telephone: +91 (20) 6747 7300
+Fax: +91 (20) 6747 7100
+
+Limited Review Report on unaudited consolidated financial results of KPIT
+Technologies Limited for the quarter ended 30 June 2025 pursuant to Regulation 33
+of Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended
+To the Board of Directors of KPIT Technologies Limited
+1.
+
+We have reviewed the accompanying Statement of unaudited consolidated financial results of KPIT
+Technologies Limited (hereinafter referred to as "the Parent") , and its subsid iaries (the Parent and its
+subsidiarie s together referred to as "the Group") and its share of the net loss after tax and total
+comprehensive loss of its associate and joint venture for the quarter ended 30 June 2025 ("the
+Statement"), being submitted by the Parent pursuant to the requirements of Regulation 33 of the
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended (" Listing Regulations").
+
+2.
+
+This Statement, which is the responsibility of the Parent's management and approved by the Pa rent's
+Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"),
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+accepted in India and in compliance with Regulation 33 of the Listing Regulations . Our responsibility
+is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity'', issued by the Institute of Chartered Accountants of India. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Aud iting and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion .
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+4.
+
+The Statement includes the results of the entities mentioned in Annexure I to the Statement:
+
+5.
+
+Attention is drawn to the fact that the figures for the three months ended 31 March 2025 as reported
+in the Statement are the balancing figures between audited figures in respect of the full previous
+financial year and the published year to date figures up to the third quarter of the previous financial
+year. The figures up to the end of the third quarter of previous financial year had only been reviewed
+and not subjected to audit.
+
+6.
+
+Based on our review conducted and procedures performed as stated in paragraph 3 above and based
+on the consideration of the review report of the other auditor referred to in paragraph 7 below, nothing
+has come to our attention that causes us to believe that the accompanying Statement, prepared in
+accordance with the recognition and measurement principles laid down in the aforesaid Indian
+Accounting Standard and other accounting principles generally accepted in India, has not disclosed
+the information required to be disclosed in terms of Regulation 33 of the Listing Regulations , including
+the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+Registered Office :
+BS R & Co. (a partnership fim, with Registration No. BA61 223) converted into B s R & Co. LLP (a
+Limited Liability Pa rtnership with LLP R egistration No. AAB-8 181) with effect from October 14, 20 13
+
+14th Floor. Central B Wng and North C Wng , Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East} , Mumbai - 400063
+
+Page 1 of 4
+
+
+BS R & Co. LLP
+Limited Review Report (Continued)
+KPIT Technologies Limited
+7.
+
+We did not review the interim financial information of one Subsidiary included in the Statement, whose
+interim financial information reflects total revenues (before consolidation adjustments) of INR
+2,099.02 million, total net profit after tax (before consolidation adjustments) of INR 266.19 million and
+total comprehensive income (before consolidation adjustments) of INR 266.19 million, for the quarter
+ended 30 June 2025, as considered in the Statement. This interim financial information has been
+reviewed by other aud itor whose report has been furn ished to us by the Parent's management and
+our conclusion on the Statement, in so far as it relates to the amounts and disclosures included in
+respect of this subsid iary, is based solely on the report of the other auditor and the procedures
+performed by us as stated in paragraph 3 above.
+This subsidiary is located outside India whose interim financial information has been prepared in
+accordance with accounting principles generally accepted in its country and wh ich has been reviewed
+by other auditor under generally accepted auditing standards applicable in its country. The Parent's
+management has converted the interim financial information of such subsidiary located outside India
+from accounting principles generally accepted in its country to accounting principles generally
+accepted in India. We have reviewed these conversion adjustments made by the Pa rent's
+management. Our conclusion in so far as it relates to the balances and affairs of such subsidiary
+located outside India is based on the report of other auditor and the conversion adjustments prepared
+by the management of the Parent and reviewed by us.
+Our conclusion is not modified in respect of th is matter.
+For B S R & Co. LLP
+
+Chartered Accountants
+Firm 's Registration No. : 101248W/W-100022
+Dig itally signed by
+
+SHIRAZ AZIZ SH IRAZ AZIZ
+VASTAN I
+VASTANI
+Date: 2025.07.30
+13:41 :37 +05'30'
+
+Shiraz Vastani
+Partner
+Jaipur
+30 July 2025
+
+Membership No.: 103334
+UDIN :25103334BMOWJ9378
+
+Page 2 of4
+
+
+BS R & Co. LLP
+Limited Review Report (Continued)
+KPIT Technologies Limited
+Annexure I
+List of entities included in unaudited consolidated financial results.
+Sr. No
+
+Name of component
+
+Relationsh ip
+
+1
+
+KPIT Technologies (UK) Limited
+
+Subsidiary
+
+2
+
+KPIT (Shanghai) Software Technology Co. Limited
+
+Subsidiary
+
+3
+
+KPIT Technologies Netherland B.V.
+
+Subsidiary
+
+4
+
+KPIT Technologies GmbH
+
+Subsid iary
+
+5
+
+KPIT Technologias LTDA.
+
+Subsidiary
+
+6
+
+MicroFuzzy lndustrie-Elektronic GmbH
+
+Subsidiary
+
+7
+
+KPIT Technologies GK
+
+Subsidiary
+
+8
+
+KPIT Technolog ies Inc.
+
+Subsidiary
+
+9
+
+KPIT Technologies Holding Inc.
+
+Subsidiary
+
+10
+
+KPIT Tech (Thai land ) Co ., Limited
+
+Subsidiary
+
+11
+
+PathPartner Technology Private Limited
+
+Subsidiary
+
+12
+
+PathPartner Technology Inc.
+
+Subsidiary
+
+13
+
+PathPartner Technology GmbH (liquidated on 2 October 2024)
+
+Subsidiary
+
+14
+
+Samit Solutions Limited
+
+Subsidiary
+
+15
+
+Som it Solutions Inc.
+
+Subsidiary
+
+16
+
+KPIT Technologies SAS
+
+Subsidiary
+
+17
+
+Technica Engineering GmbH
+
+Subsidiary
+
+18
+
+Technica Electronics Barcelona , S.L.
+
+Subsidiary
+
+19
+
+Technica Eng ineering Spain S.L.
+
+Subsidiary
+
+20
+
+Techn ica Eng ineering Inc.
+
+Subsidiary
+Page 3 of 4
+
+
+BS R & Co. LLP
+Limited Review Report (Continued)
+KPIT Technologies Limited
+21
+
+FMS Future Mobility Solutions GmbH (merged with
+Technologies GmbH with effect from 3 September 2024)
+
+KPIT
+
+Subsidiary
+
+22
+
+KPIT Technologies Limited Employee Welfare Trust (ESOP Trust)
+
+Subsidiary
+
+23
+
+KPIT Engineering SUARL
+
+Subsidiary
+
+24
+
+KPIT Technologies AB
+
+Subsidiary
+
+25
+
+Qorix GmbH
+
+Joint venture
+
+26
+
+Qorix India Private Limited
+
+Subsidiary of Joint
+venture
+
+27
+
+N Dream AG
+
+Associate
+
+Page 4 of 4
+
+
+KPIT TECHNOLOGIES LIMITED
+Registered & Corporate Office : Plot- 17, Rajiv Gandhi lnfo t ech Park , MIDC-SEZ, Phase- Ill , Maan , Hinjawadi, Taluka - Mulshi , Pune - 411057
+Phone : +91 20 6770 6000 I grievances@kpit.com I www.kpit.com I CIN : L74999PN2018PLC174192
+PART I: STATEME NT OF UNAUD ITED STANDALONE FIN ANC IAL RESULTS FOR THE QUARTER ENDED 30 JUNE 2025
+
+Particu Lars
+30 June 2025
+(Unaudited)
+
+Revenue from operations
+Other income (Refer note 3, 4 and 5)
+Total Income
+
+Quarter ended
+31 March 2025
+(Audited)
+(R efer note 6 )
+
+l' in million (except per share data)
+Year ended
+31 March 2025
+30 June 2024
+(Audited )
+(Unaudited)
+
+6,495.83
+84.74
+6 ,5 80 .57
+
+5,684 .36
+63.23
+5,747.59
+
+25,639.34
+819 .95
+26,459.29
+
+3,847.55
+41.00
+360.71
+
+1.99
+3,904.30
+27.47
+324.64
+
+7.96
+15,348.53
+112.74
+1,245.20
+
+-
+
+-
+
+0.57
+3,614.45
+41.53
+287.87
+1.66
+
+6,399 .16
+1,281.51
+7,680.67
+
+Expenses
+Cost of mate rials consumed
+Employee benefits expe nse
+Finance costs
+Depreciation and amortization expense
+Net loss on investments carried at fair value through profit
+and l oss
+Oth er expenses (Refer n ote 3)
+Total expenses
+
+834.69
+5,083 .95
+
+591.37
+4,849 .77
+
+817.37
+4 ,763.45
+
+3,383.75
+20 ,098.18
+
+Profit before tax
+
+2,596.72
+
+1,730 .80
+
+984.14
+
+6 ,361.11
+
+328.40
+(20.91)
+307.49
+
+395.45
+14.21
+409.66
+
+276.37
+(45.10}
+231.27
+
+1,587.24
+{44.51)
+1,542.73
+
+2,289.23
+
+1,321.14
+
+752.87
+
+4 ,818.38
+
+16.94
+(5 .9 2)
+
+8 .91
+{3.1 1)
+
+(10.10)
+3.53
+
+(29.87)
+10.44
+
+-
+
+Tax expense
+Current tax
+Deferred ta x (benefit)/c harge
+Total tax expense
+Profit for the period/year
+Other comprehensive income
+A.
+(i) Items that wi ll not be r eclass ified to profit or loss
+(ii) Income tax on items that will not be reclass ifi ed to
+profit or loss
+B.
+(i) Items that will be reclassi fied to profit or loss
+(ii) Incom e tax on items that w ill be r eclassified to
+profit or loss
+Total other comprehens ive inc ome/(loss), net of tax
+
+{610.95}
+213.49
+
+{78.40}
+27.40
+
+80 .64
+(28.18)
+
+(75.40}
+26.35
+
+(386.44)
+
+(45.2 0}
+
+45.89
+
+(68.48)
+
+Total comprehensive income for the period/year
+
+1,902.79
+
+1,275.94
+
+79 8 .76
+
+4,749.90
+
+Paid-up equity share capital (face v alue of t 10 per share)
+
+2,719.25
+
+2,717.02
+
+2,713.54
+
+2,717.02
+
+Other equity
+
+16,801.58
+
+Earnings pe r equity share (face value of t 10 per share) *
+Basic
+Diluted
+*EPS are nor annualised for the interim periods.
+
+8.42
+8 .36
+
+4.86
+4.83
+
+2.78
+2 .76
+
+17.75
+17.62
+
+
+Notes:
+The above unaudited standalone finan cial results have been reviewed by the Audit Committee and thereafter approv ed and taken on
+record by the Board of Directors in their meetings held on 30 July 2025. These unaudited standalone f inancial results have been
+prepared in accordance with the Indian Accounting Standards ("Ind-AS") as per the Companies (Indian Accounting Standards) Rules,
+2015, as amended from time to time , notified under section 133 of the Companies Act, 2013 ("Act ") and other relevant provisions of
+the Act.
+2
+
+The statutory auditors of the Company have conducted a limited review of the above unaudited standalone financial results of the
+Company for the quarter ended 30 June 2025. An unqualified review conclusion has been issued by them thereon.
+
+3
+
+Details of forei n exchan e ain / loss included in above results:
+Particulars
+
+Foreign exchange gain (net) included in other income
+Foreign exchange loss (net) included in other expenses
+
+Year ended
+
+Quarter ended
+
+30 June 2025
+(Unaudited)
+
+31 March 2025
+(Audited)
+(R efer note 6)
+36.49
+
+30 June 2024
+(Unaudited)
+44.66
+
+31 March 2025
+(Audited )
+199.55
+
+124.32
+
+4
+
+During the year ended 31 March 2025, the Company had recognised a one-time taxable gain of { 450.00 million on settlement of an
+insurance claim under "Other income " in the statement of profit and loss account.
+
+5
+
+During the quarter ended 30 June 2025 , the Company has received dividend of { 709.79 million and ~ 500.00 million from its whollyowned subsid iaries KP IT Technologies GK, Japan and Path Partner Technology Private Limited , India respectively .
+
+6
+
+The figures for the quarter ended 31 March 2025 as reported in these financ ial results, are the balancing figures between the audited
+figures in respect of the full financial year and unaudited published year to date figures upto the end of the third quarter of the
+relevant financial year.
+
+7
+
+Where financial results contain both consolidated financ ial results and standalone financial results of the parent, segment
+information is required to be presented only in th e consolidated financial results. Accordingly, segment information has been
+presented in the consolidated financial resu lts.
+
+8
+
+The standalone results of the Company are available on the Company's website, www.kpit.com and also on the website of the BSE
+Limited , www.bseindia.com and National Stock Exchange of India Limited , www .nseindia.com, where the shares of the Company are
+listed.
+
+For and on behalf of the Board of Directors of
+KPIT TECHNOLOGIES LIMITED
+
+Place : Pune
+Date: 30 Jul
+
+2025
+
+S~ a nkeka,
+P;~ent & Joint Managing Director
+DIN: 02918460
+
+
+8 SR & Co. LLP
+Chartered Accountants
+
+8th floor, Business Plaza
+Westin Hotel Campus
+36/3-B , Koregaon Park Annex
+Mundhwa Road , Ghorpadi
+Pune - 411 001 , India
+Telephone : +91 (20) 6747 7300
+Fax +91 (20) 6747 7100
+
+Limited Review Report on unaudited standalone financial results of KPIT
+Technologies Limited for the quarter ended 30 June 2025 pursuant to Regulation 33
+of Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended
+To the Board of Directors of KPIT Technologies Limited
+1.
+
+We have reviewed the accompanying Statement of unaudited standalone financial results of KPIT
+Technologies Limited (hereinafter referred to as "the Company") for the quarter ended 30 June 2025
+("the Statement") (in which are included interim financial information from an Employee Stock Option
+Plan (ESOP) trust).
+
+2.
+
+This Statement, which is the responsibility of the Company's management and approved by its Board
+of Directors , has been prepared in accordance with the recognition and measurement principles laid
+down in Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed under
+Section 133 of the Companies Act, 2013 , and other accounting principles generally accepted in India
+and in compliance with Regulation 33 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations , 2015, as amended (" Listing Regulations").
+Our responsibility is to issue a report on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity", issued by the Institute of Chartered Accountants of India. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion .
+
+4.
+
+Attention is drawn to the fact that the figures for the three months ended 31 March 2025 as reported
+in the Statement are the balancing figures between audited figures in respect of the full previous
+financial year and the published year to date figures up to the third quarter of the previous financial
+year. The figures up to the end of the third quarter of previous financial year had only been reviewed
+and not subjected to audit.
+
+5.
+
+Based on our review conducted as above, nothing has come to our attention that causes us to believe
+that the accompanying Statement, prepared in accordance with the recognition and measurement
+principles laid down in the aforesaid Indian Accounting Standard and other accounting principles
+generally accepted in India , has not disclosed the information required to be disclosed in terms of
+
+Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed, or that it
+
+Registered Office:
+BS R & Co. (a partnership firm with Reg istrat ion No. BA61223) conve rted into 8 s R & Co. LLP (a
+Limited Liability Partne rship with LLP Reg istration No. AAB-818 1) with effect from October 14. 2013
+
+14th Floor, Central B \Ning and North C Wing, Nesco IT Park 4. Nesco
+Center. Western Express Hig hway, Go regaon (East), Mumbai• 400063
+
+Page 1 of 2
+
+
+BS R & Co. LLP
+Limited Review Report (Continued)
+KPIT Technologies Limited
+contains any material misstatement.
+
+For B S R & Co. LLP
+Chartered Accountants
+
+Firm's Reg istration No.: 101248W/W-100022
+Dig ita lly signed by
+
+SH IRAZ Aziz SHI RAZ AZIZ VASTANI
+Date: 2025.07.30
+VASTANI
+13:41:09 +05'30'
+Shiraz Vastani
+Partner
+Jaipur
+
+30 July 2025
+
+Membership No.: 103334
+
+UDIN :25103334BMOWl7184
+
+Page 2 of 2
+
+
+KP 11·
+July 30, 2025
+To,
+National Stock Exc h ange of In d ia Limited
+Exchange Plaza, C/1, G Block,
+Sandra - Kurla Complex,
+Sandra (E), Mumbai - 400051 .
+Symbo l: KP ITTECH
+Series: EQ
+Dear Sir/ Madam,
+Kin
+
+Att n:
+
+Th e Manage r, Listing Dep artment
+
+Sub ·ec : -
+
+Un-Audited fi nanc ial re su lt s of KP IT Techno l ogies Limited ("the
+Company") for the quarter ended June 30, 2025.
+
+With reference to t he captioned subject, we wis h to subm it that there is a
+d ifference of Rs. 22.1 8 million in the paid - up equity share capital of the Company
+as re po rted in the shar ehold ing pat ern su b m itted for the quarter ended Ju ne 30,
+2025 (Rs. 2,741.43 million) and un aud ited fin anc ial res ults fo r the quarte r ended
+June 30, 2025 (Rs . 2,71 9 .25 million) on accou nt of elimination of shares held by KPIT
+Technologies Employees We lfa re Tru st (the "Trust') as th e Company conso li dates
+the financ ials of the Tru st. The Tru st holds 2.21 million equity shares in the Company
+(total face va lue of Rs. 22.18 million Rs. 10/- per share) as on June 30, 2025.
+Request yo u t o please take note of the sa r e.
+Thanking yo u.
+Yours fa ithfully,
+For KP IT T echno logies Limited
+
+Ashish Malhotra
+General Counse l & Company Secretary
+
+KP IT Technologies Ltd.
+Registered & Corporate Office: Plot No. 17, Rajiv Gandhi lnfotech Park, MIDC-SEZ,
+Phase-Ill, Maan, Taluka-Mu lshi, Hinjawadi , Pune - 411057, India.
+
+CIN: L74999PN2018PLC174192
+
+0 +91 20 6770 6000
+E info@kpit.com
+w kpit.com
+
+
