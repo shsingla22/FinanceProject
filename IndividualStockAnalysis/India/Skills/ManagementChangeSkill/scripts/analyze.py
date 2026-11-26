@@ -596,7 +596,8 @@ def settle_own(c: dict, res: dict) -> dict:
     # how much of the capital the exchange's own registers show moving
     mv, ss, dd = c["own"].get("shareholding") or {}, c["own"].get("sast") or {}, c["own"].get("deals") or {}
     moved = max(abs(mv.get("change") or 0), abs(mv.get("max_step") or 0), ss.get("promoter_sold") or 0, ss.get("promoter_bought") or 0,
-                dd.get("top_seller_pct") or 0, dd.get("top_buyer_pct") or 0)
+                dd.get("top_seller_pct") or 0, dd.get("top_buyer_pct") or 0,
+                max((x.get("pct_acquired") or 0 for x in ss.get("outsiders") or []), default=0))
     out["moved_pct"] = round(moved, 2)
     if v == "stake_change_no_control_change" and moved < STAKE_MIN:
         out["keep"] = False
