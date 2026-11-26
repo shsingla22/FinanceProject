@@ -1,0 +1,2180 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 19,  2025  
+ 
+To, 
+The Listing Department,  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  
+Scrip code: 544603  
+ To, 
+The Listing Department  
+National Stock Exchange of India Ltd., 
+Exchange Plaza,  
+Bandra Kurla Complex,  Bandra (East),  
+Mumbai – 400051  
+Scrip code: GROW W
+Dear Sir / Madam,  
+ 
+Sub.: Notice of Postal Ballot seeking shareholder approval  
+ 
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations 2015 ('Listing Regulations'), we attach herewith a copy of 
+the Postal Ballot Notice (‘Notice’) of the Company dated December 19, 2025, along with the 
+Explanatory Statement, for seeking approval of the Members of the Company on the following 
+resolutions:  
+ 
+Sr. No  Description of resolution  Type of resolution  
+1.  Approval for amendment and ratification of Billionbrains 
+Garage Ventures Limited Employee Stock Option Scheme 
+2024 as per SEBI (Share Based Employee Benefits and Sweat 
+Equity) Regulations, 2021  Special Resolution  
+2. Approval for extension of grant of options to the eligible 
+employees of the subsidiary company(ies) and associate 
+company(ies), of the company under Billionbrains Garage 
+Ventures Limited Employee Stock Option Scheme 2024.  Special Resolution  
+3. Approval for acquisition of equity shares by way of secondary 
+acquisition by trust under Billionbrains Garage Ventures 
+Limited Employee Stock Option Scheme 2024.  Special Resolution  
+4. Approval for provision of money to the Groww Employee 
+Welfare Trust by the company for purchase of its own shares 
+by the trust for the benefit of employees for the implementation 
+of Billionbrains Garage Ventures Limited Employee Stock 
+Option Scheme 2024.  Special Resolution  
+5. Alteration of Articles of Association of the Company  Special Resolution  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In accordance with the relevant circulars issued by the Ministry of Corporate Affairs (‘MCA 
+Circulars’), the Notice indicating, inter alia, the process and manner of remote e -voting, is being 
+sent only through electronic mode to the Members whose names app ear on the Register of 
+Members / List of Beneficial Owners as on Thursday , December 18, 2025 (“cut -off date”) received 
+from the Depositories and whose e -mail address are registered with the Company / Depositories.  
+ 
+The Company has engaged the services of MUFG Intime India Private Limited  (formerly known as 
+Link Intime India P rivate  Limited ) for the purpose of providing remote e -voting facility to all its 
+members . The remote e -voting period commences on Saturday, December 20, 2025, at 09:00 a.m. 
+(IST) and ends on Sunday, January 18, 2026, at 05.00 p.m. (IST) . 
+ 
+The said Notice is also being made available on the website of the Company at 
+https://groww.in/investor -relations/announcements , the website of the RTA at 
+https://web.in.mpms.mufg.com/client -downloads.html .  
+ 
+Kindly take the same on record.  
+ 
+Thanking you,  
+Yours faithfully,  
+ 
+For Billionbrains Garage Ventures Limited  
+(Formerly known as Billionbrains Garage Ventures Private Limited)  
+ 
+ 
+ 
+Roshan Dave  
+Company Secretary and Compliance Officer   
+  
+ 
+ 
+ 
+  1 
+1 
+  
+    
+ 
+ 
+Billionbrains Garage Ventures Limited  
+(Formerly known as Billionbrains Garage Ventures Private Limited)  
+CIN: U72900KA2018PLC109343  
+ 
+Registered Office and Corporate Office : Vaishnavi Tech Park, South Tower, 3rd Floor, Survey No.16/1 and 17/2, 
+Ambalipura Village, Varthur Hobli, Bellandur, Bangalore, Bangalore South, Karnataka, India, 560103  
+Telephone : +91 80 -69601300; Email : corp.secretarial@groww.in; Website : www.groww.in  
+ 
+ 
+POSTAL BALLOT NOTICE  
+ 
+Pursuant to Section(s) 108 and 110 of the Companies Act, 2013 read with Rule(s) 20 and 22 of the Companies 
+(Management and Administration) Rules, 2014  
+ 
+Dear Members,  
+ 
+NOTICE is hereby given that pursuant to the provisions 
+of Section(s) 108, 110 and other applicable provisions, 
+if any, of the Companies Act, 2013 (“ the Act ”) read with 
+Rules 20 and 22 of the Companies (Management and 
+Administration) Rules, 2014 (“ the Rules ”), Secretarial 
+Standard on General Meetings issued by the Institute of 
+Company Secretaries of India (“SS -2”), the Securities 
+and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“ SEBI 
+Listing Regulations ”) including any statutory 
+modification(s), clarification(s) or re -enactment(s) 
+thereof for the time being in force, read with the General 
+Circular Nos. 14/2020 dated April 08, 2020, 17/2020 
+dated April 13, 2020 and subsequent circulars issued in 
+this regard, the latest being 3/2025 dated September 
+22, 2025  , by the Ministry of Corporate Affairs (“ MCA ”), 
+(collectively referred to as the “ MCA Circulars ”), and 
+Securities and Exchange Board of India (“ SEBI ”) Master 
+Circulars and applicable SEBI Circulars, other 
+applicable laws, rules and regulations (including any 
+statutory modification(s), clarification(s), substitution(s) 
+or re -enactment(s) thereof for the time being in force 
+and as amended from time to t ime), the proposed 
+resolution(s) as set out in this Notice are proposed for 
+consideration and approval by the Members of 
+Billionbrains Garage Ventures Limited (formerly known 
+as Billionbrains Garage Ventures Private Limited) (“ the 
+Company ”) through Postal Ballot, only by way of voting 
+through electronic means (“ remote e -voting ”). 
+ 
+In compliance with the MCA Circulars, the Company is 
+sending this Postal Ballot Notice along with explanatory 
+statement (“ Notice ”) and remote e -voting instructions 
+only by email to all its Members who have registered 
+their email address with the Company/ MUFG Intime 
+India Private Limited (formerly known as Link Intime 
+India Private Limited), Registrar and Share Transfer 
+Agent (“RTA ”) or depository(ies)/ depository 
+participants as on Thursday , December 1 8, 2025 (“ the 
+cut-off date” ). If your email address is not registered 
+with the Company/ RTA/ Depositories/ Depository 
+Participants, please follow the process provided in note 
+no. 13 of the notes to this Notice. The communication of assent /dissent of the Members on the resolution(s) 
+proposed in the Notice will only take place through the 
+remote e -voting system. The Company has engaged 
+services of the MUFG Intime India Private Limited for 
+the purpose of providing remote e -voting facil ity to all its 
+Members.  
+ 
+A detailed explanatory statement pursuant to Section 
+102 of the Act and other applicable provisions of the Act, 
+setting out the material facts relating to the resolution(s) 
+are appended to this Notice.  
+ 
+The Notice shall be uploaded on the website of the 
+Company https://groww.in/investor -
+relations/announcements , the website of the RTA at 
+https://web.in.mpms.mufg.com/client -downloads.html  
+and on the websites of National Stock Exchange of 
+India Limited https://www.nseindia.com/  and the BSE 
+Limited https://www.bseindia.com/  (jointly referred to as 
+“Stock Exchanges” ). 
+ 
+The Company has appointed CS Pramod S M (FCS No - 
+7834) or failing him CS Biswajit Ghosh (FCS No - 8750), 
+Partners of M/s BMP & Co. LLP, Practicing Company 
+Secretary firm, Bengaluru (FRN L2017KR003200), as 
+the Scrutinizer, for conducting the Postal Ballot re mote 
+e-voting process in a fair and transparent manner. The 
+remote e -voting period commences on Saturday, 
+December 20, 2025, at 09:00 a.m. (IST) and ends on 
+Sunday, January 18, 2026, at 05.00 p.m. (IST). The 
+details of the procedure to cast the vote throug h remote 
+e-voting provided in note no. 17 of the notes of this 
+Notice.  
+ 
+The voting results along with the scrutinizer’s report will 
+be intimated to the Stock Exchanges and the same will 
+also be uploaded on the Company’s website at 
+https://groww.in/investor -relations/announcements , and 
+on the website of RTA at 
+https://web.in.mpms.mufg.com/client -downloads.html  
+immediately.  
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+  2 
+1 
+SPECIAL BUSINESSES:  
+ 
+1. APPROVAL FOR AMENDMENT AND 
+RATIFICATION OF BILLIONBRAINS GARAGE 
+VENTURES LIMITED EMPLOYEE STOCK 
+OPTION SCHEME 2024 AS PER SEBI (SHARE 
+BASED EMPLOYEE BENEFITS AND SWEAT 
+EQUITY) REGULATIONS, 2021.  
+ 
+To consider and, if thought fit, to pass with or without 
+modification(s), the following resolution as a ‘ Special 
+Resolution’:  
+ 
+“RESOLVED THAT pursuant to the provisions of 
+Section 62(1)(b) and all other applicable provisions, if 
+any, of the Companies Act, 2013 and rules made there 
+under (including any statutory modification(s) or re -
+enactment thereof), Regulation 3, 7 and 12 of Securities 
+and Ex change Board of India (Share Based Employee 
+Benefit and Sweat Equity) Regulations, 2021 and other 
+applicable provisions, if any, including any statutory 
+modification(s) or re - enactment thereof for the time 
+being in force  (“ SEBI SBEB & SE Regulations ”), 
+applicable provisions of the Foreign Exchange 
+Management Act, 1999, as amended or restated and 
+rules, circulars, guidelines and notifications, issued 
+thereunder (“ FEMA ”), the Memorandum of Association 
+and Articles of Association of the Company and any 
+other applicable and prevailing statutory Guidelines / 
+Circulars in that behalf and subject further to such other 
+approval(s), consent(s), permission(s), and / or 
+sanction (s) as may be necessary from the appropriate 
+regulatory authority(ies) / institution(s) and such 
+conditions and modifications as may be prescribed / 
+imposed by the appropriate regulatory authority(ies) / 
+institution(s) while granting such approval(s), 
+cons ent(s), permission(s) and / or sanction(s), the 
+consent of the members of the Company be and is 
+hereby accorded for amendment in the Billionbrains 
+Garage Ventures Limited Employee Stock Option 
+Scheme 2024 (“Scheme”) relating to change the mode 
+of implementation and administration of the Scheme 
+from direct route to trust route through an already setup, 
+an irrevocable employee welfare trust of the Company, 
+namely “Groww Employee Welfare Trust” (“ Trust ”), 
+formed as per the provisions of Applicable Laws, 
+including without limitation, Indian Trust Act, 1882, Act 
+and Rules made thereunder, and other amendments  
+under the Scheme,  and ratification of the  Scheme  
+within the meaning of SEBI SBEB & SE Regulations as 
+detailed in the explanatory statement and hereby 
+accords authority to the Board of Directors of the 
+Company,  (hereinafter referred to as the ‘Board of 
+Directo rs’, which term shall include the Nomination and 
+Remuneration Committee constituted by the Board of 
+Directors or any other committee which the Board of 
+Directors may constitute to act as the ‘Compensation 
+Committee’ under the SEBI SBEB & SE Regulations  or 
+their delegated authority and to exercise its powers, 
+including the powers conferred by this resolution),  to 
+create, grant, offer, reissue, allot, transfer in one or more 
+tranches, Employee Stock Options (“Options”)  to the 
+employees of the Company and to such persons as may, from time to time, be allowed to be eligible for the 
+benefits of the Scheme (as permitted under the 
+applicable laws) convertible into Equity Shares 
+(“Shares”) of face value of Rs. 2/ - each, at such price 
+and on such terms and in such manner as the Boa rd of 
+Directors may decide in accordance with the provisions 
+of the applicable laws and the provisions of the Scheme 
+and as mentioned in the explanatory statement . 
+ 
+RESOLVED FURTHER THAT  it is hereby noted that 
+the amendments to the Scheme are being carried out to 
+change the route of the Scheme, inter alia, provide for 
+implementation of Scheme from direct route to trust 
+route through Trust established by the Company as the 
+settlor, wherei n the Trust will acquire the Shares by way 
+of fresh allotment from the Company or by way of 
+secondary acquisition from the market and shall transfer 
+the Shares to the employees upon valid exercise of 
+Options as per the Scheme.  
+ 
+RESOLVED FURTHER THAT  the proposed 
+amendments to the Scheme are not prejudicial to the 
+interests of the current option holders.   
+ 
+RESOLVED FURTHER THAT  the Equity Shares to be 
+issued and allotted/transferred by the Company to the 
+Trust and/or by the Trust to eligible employees under 
+the Scheme shall rank pari –passu in all respects with 
+the then existing Equity Shares of the Company.   
+ 
+RESOLVED FURTHER THAT in case of any corporate 
+action(s) such as rights issue, bonus issue, split or 
+consolidation of shares, merger/ amalgamation or sale 
+of division / undertaking or other re -organisation etc. 
+requisite adjustments (which may include adjustments 
+to the number of options under the Scheme) shall be 
+appropriately made, in a fair and reasonable manner, in 
+accordance with the Scheme.  
+ 
+RESOLVED FURTHER THAT if the Equity Shares of 
+the Company are either sub -divided or consolidated, the 
+number of Equity Shares arising out of and/or the price 
+of acquisition payable by the employees under the 
+Scheme shall automatically stand increased or reduced, 
+as the case may  be, in the same proportion as the 
+present face value per equity share bears to the revised 
+face value of the equity shares of the Company after 
+such subdivision or consolidation, without affecting any 
+other rights or obligations of the said grantees.  
+ 
+RESOLVED FURTHER THAT the Board of Directors 
+(including any Committee thereof), be and is hereby 
+authorised to do all such acts and deeds as are required 
+for regulatory and legal compliance including making 
+application to the recognised stock exchanges to seek 
+requisite approva ls for trading of equity shares allotted 
+under Plan in terms of the SEBI SBEB & SE Regulations 
+and Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 
+2015 and for filing any required forms, applications wi th 
+the registrar of companies, depositories and execution 
+of all relevant documents as may be required in order to 
+give effect to the above resolutions.   
+ 
+ 
+  
+ 
+ 
+ 
+  3 
+1 
+RESOLVED FURTHER THAT  the Board of Directors 
+(including any Committee thereof), subject to 
+compliance with the SEBI SBEB & SE Regulations, and 
+other applicable laws, rules and regulations, be and are 
+hereby authorized at any time to modify, change, vary, 
+alter, amend, suspend or terminate the Scheme and to 
+do all such acts, deeds, matters and things as it may in 
+its absolute discretion deems fit for such purpose and 
+also to settle any issues, questions, difficulties or doubts 
+that may arise in this regard a nd further to execute all 
+such documents, writings and to give such directions 
+and/or instructions as may be necessary or expedient to 
+give effect to such modification, change, variation, 
+alteration, amendment, suspension or termination of the 
+Scheme and d o all other things incidental and ancillary 
+thereof.  
+ 
+RESOLVED FURTHER THAT  Board of Directors of the 
+Company be and are hereby authorized to do all such 
+acts, deeds, matters and things, as may be deemed 
+necessary for giving effect to this resolution, including 
+but not limited to, making any filings, if any, with the 
+relevant gov ernment authorities.”  
+ 
+2. APPROVAL FOR EXTENSION OF GRANT OF 
+OPTIONS TO THE ELIGIBLE EMPLOYEES OF 
+THE SUBSIDIARY COMPANY(IES) AND 
+ASSOCIATE COMPANY(IES), OF THE 
+COMPANY UNDER BILLIONBRAINS GARAGE 
+VENTURES LIMITED EMPLOYEE STOCK 
+OPTION SCHEME 2024.  
+ 
+To consider and, if thought fit, to pass with or without 
+modification(s), the following resolution as a ‘ Special 
+Resolution’:  
+ 
+“RESOLVED THAT  pursuant to the provisions of 
+Section 62(1)(b) of the Companies Act, 2013 and other 
+applicable provisions, if any, read with Rules made 
+thereunder including any statutory modifications or re -
+enactment thereof, Regulation 6(3)(c) and other 
+applicable provi sions, if any, of Securities and 
+Exchange Board of India (Share Based Employee 
+Benefit and Sweat Equity) Regulations, 2021 including 
+any statutory modification(s) or re - enactment thereof 
+for the time being in force (“SEBI SBEB & SE 
+Regulatio ns”), the Memorandum of Association and 
+Articles of Association of the Company and any other 
+applicable and prevailing statutory Guidelines / 
+Circulars in that behalf and subject further to such other 
+approval(s), consent(s), permission(s), and / or 
+sanction(s ) as may be necessary from the appropriate 
+regulatory authority(ies) / institution(s) and such 
+conditions and modifications as may be prescribed / 
+imposed by the appropriate regulatory authority(ies) / 
+institution(s) while granting such approval(s), 
+consent(s), permission(s) and / or sanction(s), the 
+consent of the members of the Company be and is 
+hereby accorded to extend the benefits of Billionbrains 
+Garage Ventures Limited Employee Stock Option 
+Scheme 2024 (“ Scheme ”) to or for the benefit of 
+Employees of the existing or future  Subsidiary  
+Company(ies) and Associate Company (ies) of the Company whether in India or overseas (as may be 
+permitted under applicable laws) and to such other 
+persons as may, from time to time, be allowed to be 
+eligible for the benefits of the Scheme (as permitted 
+under the applicable laws from time to time) on such 
+terms and in such manner as the Board of Directors of 
+the Company may decide in accordance with the 
+provisions of the applicable laws and provisions of the 
+Scheme.  
+ 
+RESOLVED FURTHER THAT  the Board of Directors 
+(including any Committee thereof) be and are hereby 
+severally authorized to take such steps as may be 
+necessary and to settle all matters arising out of and 
+incidental thereto and sign and execute all deeds, 
+applications, documents and writings that may be 
+required, on behalf of the Compan y and generally to do 
+all acts, deeds and things that may be necessary, 
+proper, expedient or incidental for the purpose of giving 
+effect to the aforesaid Resolution. ” 
+ 
+3. APPROVAL FOR ACQUISITION OF EQUITY 
+SHARES BY WAY OF SECONDARY 
+ACQUISITION BY TRUST UNDER 
+BILLIONBRAINS GARAGE VENTURES LIMITED 
+EMPLOYEE STOCK OPTION SCHEME 2024.  
+ 
+To consider and if thought fit, to pass with or without 
+modification(s), the following resolution as a ‘ Special 
+Resolution’ :  
+ 
+“RESOLVED THAT pursuant to the provisions of 
+Regulation 6(3)(a) and other applicable provisions, if 
+any, of the Securities and Exchange Board of India 
+(Share Based Employee Benefits and Sweat Equity) 
+Regulations, 2021 including any statutory 
+modification(s) or re - enactm ent thereof for the time 
+being in force (“SEBI SBEB & SE Regulations”) , 
+Securities and Exchange Board of India (Prohibition of 
+Insider Trading) Regulations, 2015, ( “SEBI (PIT) 
+Regulations, 2015”) ,  applicable provisions of the 
+Companies Act , 2013 if any, and the Rules made there 
+under (including any statutory modification(s) or re -
+enactment thereof), relevant provisions of the Securities 
+and Exchange Board of India (Listing Obligations and 
+Disclo sure Requirements) Regulations, 2015 (“SEBI 
+(LODR) Regulations”) , relevant provisions of the 
+Memorandum of Association and Articles of Association 
+of the Company and any other applicable and prevailing 
+statutory Guidelines / Circulars in that behalf and 
+subject further to such other approval(s), consent(s), 
+permission( s), and / or sanction(s) as may be necessary 
+from the appropriate regulatory authority(ies) / 
+institution(s) and such conditions and modifications as 
+may be prescribed / imposed by the appropriate 
+regulatory authority(ies) / institution(s) while granting 
+such approval(s), consent(s), permission(s) and / or 
+sanction(s), the consent of the members of the 
+Company be and is hereby accorded to the Board of 
+Directors of the Company (  which term shall be deemed 
+to include any Committee, including the Nomination and 
+Remuneration Committee, which the Board of Directors 
+has constituted to exercise its powers, including the 
+powers, conferred by this resolution) for secondary 
+  
+ 
+ 
+ 
+  4 
+1 
+acquisition of Equity Shares (“Shares”)  of the 
+Company by Groww Employee Welfare Trust (“Trust”) , 
+in one or more tranches, and at such price or prices and 
+on such terms and conditions, as may be determined by 
+the Board of Directors, for the purpose of 
+implementation of the Billionbrains Garage Ventures 
+Limited Employee Stock Option Scheme 2024 
+(“Scheme”)  and in due compliance with the provisions 
+of the SEBI SBEB & SE Regulations and SEBI (PIT) 
+Regulations, 2015.  
+ 
+RESOLVED FURTHER THAT  the total number of 
+Shares under secondary acquisition held by the Trust in 
+pursuance to the Scheme or any other share -based 
+Employee benefit Scheme implemented in the past, 
+shall at no time, exceed 5 (five) percent of the Paid -up 
+Equity Capital of the Co mpany at the end of the financial 
+year immediately prior to the year in which the 
+shareholders’ approval is obtained in due compliance 
+with the provisions of the SEBI SBEB & SE Regulations, 
+as amended from time to time.  
+ 
+RESOLVED FURTHER THAT  the secondary 
+acquisition by the Trust in any financial year shall not 
+exceed 2 (two) percent of the paid -up Equity capital as 
+at the end of the respective previous financial year as 
+prescribed under the provisions of the SEBI SBEB & SE 
+Regulations, as am ended from time to time.  
+ 
+RESOLVED FURTHER THAT  the above limits shall 
+automatically include within their ambit the expanded or 
+reduced capital of the company where such expansion 
+or reduction has taken place on account of corporate 
+action(s) including issue of bonus shares, stock splits, 
+consolidation s, rights issue, buy -back, or other re -
+organisation of the Company as may be applicable from 
+time to time.  
+ 
+RESOLVED FURTHER THAT  the Trustees of the Trust 
+shall ensure compliance of the provisions of the SEBI 
+SBEB & SE Regulations, SEBI (PIT) Regulations, 2015, 
+Companies Act, 2013 and all other applicable laws at all 
+times in connection with dealing with the Equity Shares 
+of the Co mpany including but not limited to maintenance 
+of proper books of account, records, and documents as 
+prescribed.  
+ 
+RESOLVED FURTHER THAT the Board of Directors 
+(including any Committee thereof) be and is hereby 
+authorized to do all such acts, deeds, and things, as it 
+may, in its absolute discretion deem necessary and 
+incidental for the effective implementation and 
+administration of the Scheme and to make applications 
+to the appropriate Authoritie s, for their requisite 
+approvals and take all necessary actions and to settle 
+all such questions, difficulties or doubts whatsoever that 
+may arise while implementing this resolution.  
+ 
+RESOLVED FURTHER THAT  the Board of Directors 
+be and is hereby authorized to do all ancillary and 
+consequential matters and to take such steps and to do 
+such acts, deeds, matters and things as they may deem 
+proper and give/send such notices, directions as may 
+be necessary to gi ve effect to the above resolution.”  
+ 4. APPROVAL FOR PROVISION OF MONEY TO 
+THE GROWW EMPLOYEE WELFARE TRUST BY 
+THE COMPANY FOR PURCHASE OF ITS OWN 
+SHARES BY THE TRUST FOR THE BENEFIT OF 
+EMPLOYEES FOR THE IMPLEMENTATION OF 
+BILLIONBRAINS GARAGE VENTURES LIMITED 
+EMPLOYEE STOCK OPTION SCHEME 2024.  
+To consider and if thought fit, to pass with or without 
+modification(s), the following resolution as a ‘ Special 
+Resolution’ :  
+ 
+“RESOLVED THAT  pursuant to the provisions of 
+Section 67(3) of the Companies Act, 2013 (the ‘Act’)  
+read with Rule 16 of the Companies (Share Capital and 
+Debentures) Rules, 2014 and other applicable 
+provisions, if any, of the Act, the SEBI (Share Based 
+Employee Benefits and Sweat Equity) Regulations, 
+2021 including any statutory modification(s) or re - 
+enactment thereof for the time being in force (“SEBI 
+SBEB & SE Regulations”)  and other applicable laws 
+and subject to such other approvals, permissions and 
+sanctions as may be necessary and such conditions 
+and modifications as may be prescribed or imposed 
+while granting such approvals, permissions and 
+sanctions, the consent of the  members of the Company 
+be and is hereby accorded to the Board of Directors of 
+the Company (which term shall be deemed to include 
+any Committee, including the Nomination and 
+Remuneration Committee, which the Board of Directors 
+has constituted to exercise i ts powers, including the 
+powers, conferred by this resolution) to grant loan, to 
+provide guarantee or security in connection with a loan 
+granted or to be granted to Groww Employee Welfare 
+Trust (“Trust”) in one or more tranches such that the 
+total amount of provision of loan for subscription or 
+purchase of fully paid - up Equity shares in the Company 
+by the Trust shall not exceed 5% of the aggregate of 
+paid up capital and free reserves of the Company, or 
+other limit as prescribed under the applicable laws, from 
+time to time, for the purpose of subscription and/or 
+purchase of Equity Shares of the Company by the Trust 
+/ Trustees, in one or more tranches, subject to the 
+ceiling of Equity Shares (“Shares”) as may be 
+prescribed under Billionbrains Garage Ventures Limited 
+Employee Stock Option Scheme 2024 (“Scheme”)  or 
+any other share based Employee benefit Scheme which 
+may be introduced by the Company from time to time 
+(“Employee Benefit Scheme(s)”) , with a view to 
+purchase such Shares in line with contemplated 
+objectives of the Scheme or for any other purpose(s) as 
+permitted under and in due compliance with the 
+provisions of the SEBI SBEB & SE Regulations , 
+Companies Act, 2013 and any other applicable laws 
+and regulations.  
+ 
+RESOLVED FURTHER THAT  the above -prescribed 
+limit shall be taken on a consolidated basis for all 
+Employee Benefits Scheme(s) as may be undertaken 
+by the Company from time to time.  
+ 
+RESOLVED FURTHER THAT at the discretion of the 
+Board of Directors, the Company may provide the  
+interest -free loan and shall be repayable by the Trust by 
+  
+ 
+ 
+ 
+  5 
+1 
+utilizing the proceeds realized from the Exercise of 
+Options by the Grantees and the accruals of the Trust 
+during the tenure of the Scheme or at the termination of 
+the Scheme and in accordance with the relevant 
+provisions of the applicable laws & regulatio ns. 
+ 
+RESOLVED FURTHER THAT  the Trustees of the Trust 
+shall ensure compliance with the provisions of the SEBI 
+SBEB & SE Regulations, Companies Act, 2013 and all 
+other applicable laws at all times in connection with 
+dealing with the Equity Shares of the Company 
+including but not limi ted to maintenance of proper books 
+of account, records and documents as prescribed.  
+ 
+RESOLVED FURTHER THAT  the Board of Direct ors 
+be and is hereby authorized to do all ancillary and 
+consequential matters and to take such steps and to do 
+such acts, deeds, matters and things as they may deem 
+proper and give/send such notices, directions as may 
+be necessary to give effect to the above resolution.”  
+ 
+5. ALTERATION OF THE ARTICLES OF 
+ASSOCIATION OF THE COMPANY  
+To consider and if thought fit, to pass with or without 
+modification(s), the following resolution as a ‘ Special 
+Resolution’ :  
+ 
+"RESOLVED THAT pursuant to Section 5, Section 14  
+and other applicable provisions of the Companies Act, 
+2013, and rules made thereunder, including the 
+Companies (Incorporation) Rules, 2014, if any 
+(including any statutory modification(s) or re -enactment 
+thereof, for the time being in force) and in order to align 
+the Articles of Association with the requirements of the 
+Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 
+2015, as amended, the Securities Contracts 
+(Regulation ) Act, 1956, as amended and the Securities Contracts (Regulation) Rules, 1957, as amended, the 
+Securities and Exchange Board of India (Issue of 
+Capital and Disclosure Requirements) Regulations, 
+2018, the Foreign Exchange Management Act, 1999 
+and the rules and regulations made thereunder, and 
+other applicable laws, rules and regulations, guidelines 
+(including any statutory modification(s) thereof for the 
+time being in force) and subject to the necessary 
+approvals required, of the Registrar of Companies 
+("ROC "), and further subject to such other terms, 
+conditions, stipulations, alterations, amendments or 
+modifications as may be required, specified or 
+suggested by the ROC, and the Articles of Association 
+of the Company, consent and approval of the Members 
+of the Company is hereby accorded to amend the 
+Articles of Association by inserting sub -clause (4) in 
+Clause 156 of the existing Articles of Association : 
+ 
+(i) Peak XV Partners Investments VI -1 shall have 
+the right to nominate a non -executive director 
+to the Board till such time that Peak XV 
+Partners Investments VI -1 holds (i) the most 
+number of equity shares of the Company; and 
+(ii) also holds at least 10% of th e outstanding 
+fully paid up equity shares of the Company.  
+(ii) Each founder (Mr. Lalit Keshre,  Mr. Harsh Jain, 
+Mr. Ishan Bansal and Mr. Neeraj Singh) being 
+a promoter, shall have the right to nominate a 
+director on the Board, which right shall fall 
+away upon such founder ceasing to be a 
+promoter of the Company.  
+RESOLVED FURTHER THAT  the Board of Directors 
+be and is hereby authorized to do all ancillary and 
+consequential matters and to take such steps and to do 
+such acts, deeds, matters and things as they may deem 
+proper and give/send such notices, directions as may 
+be necessary to give effect to the above r esolution.”
+ 
+ 
+     By Order of the Board of Directors  
+For Billionbrains Garage Ventures Limited  
+(Formerly known as Billionbrains Garage Ventures Private Limited)  
+ 
+ 
+Roshan Dave  
+Company Secretary and Compliance Officer  
+Membership no. A26472   
+ 
+ 
+Address:  Vaishnavi Tech Park, South Tower, 3rd Floor, Survey No.16/1 and 17/2, Ambalipura Village, Varthur Hobli, 
+Bellandur, Bangalore South, Karnataka, India, 560103  
+ 
+E-mail Id:  corp.secretarial@groww.in  
+Date:  December 19, 2025
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  6 
+1 
+Notes : 
+ 
+1. The Explanatory Statement pursuant to the 
+provisions of Section 102 and Section 110 of the 
+Companies Act, 2013 (“ the Act ”) read with the 
+applicable rules made thereunder, setting out the 
+material facts in respect of the business proposed 
+at item no(s). 01 to 05 is annexed hereto and forms 
+part of this Postal Ballot Notice (“ Notice ”). 
+ 
+2. In compliance with the MCA Circulars and SS -2, 
+this Notice along with the explanatory statement 
+and remote e -voting instructions are being sent 
+only through electronic mode to all those Members 
+whose e -mail addresses are registered with the 
+Company, RTA/ D epositories/ Depository 
+Participants and whose names appear in the 
+Register of Members of the Company and/ or in 
+the Register of Beneficial Owners maintained by 
+the Depositories as on Thursday , December 1 8, 
+2025 (“ Cut-off date ”). A person who is not a 
+Member as on the Cut -off date should treat this 
+Notice for informational purposes only.  
+ 
+3. The voting rights of Members shall be in proportion 
+to the equity shares held by them in the paid -up 
+equity share capital of the Company as on Cut -off 
+date. A person, whose name is recorded in the 
+Register of Members of the Company and/ or in 
+the Register of Beneficial Owners maintained by 
+the Depositories as on the Cut -off date, shall only 
+be entitled to cast vote through remote e -voting.  
+ 
+It is however clarified that, all Members of the 
+Company as on the Cut -Off Date (including those 
+Members who may not have received this Notice 
+due to non -registration of their e -mail addresses 
+with the RTA / Depositories / Depository 
+Participants) shall be  entitled to vote in relation to 
+the aforementioned Resolution in accordance with 
+the process specified in this Notice . 
+ 
+4. In Compliance with the provisions of Section 108 
+and 110 of the Act read with Rules 20 and 22 of 
+the Companies (Management and Administration) 
+Rules, 2014, SS -2, Regulation 44 of the Securities 
+and Exchange Board of India (Listing Obligations 
+and Disclosur e Requirements) Regulations, 2015  
+and the MCA Circulars, the Members are provided 
+with the facility to cast their vote electronically 
+through remote e -voting. Accordingly, the physical 
+copies of this Notice along with postal ballot forms 
+and pre -paid business envelopes will not be sent 
+to the Members and accordingly, the Members are 
+required to communicate their assent or dissent 
+through remote e -voting system only.  
+ 
+5. The remote e -voting period shall commence at 
+09:00 a.m. (IST) on Saturday, December 20, 2025 
+and shall conclude at 05:00 p.m. (IST) on Sunday, 
+January 18, 2026 (both days inclusive). During this 
+period, Members of the Company holding equity shares either in physical or dematerialized form as 
+on the Cut -off date (including those Members who 
+may not have received this Notice due to non -
+registration of their e -mail address with the 
+Company or the Depositories / Depository 
+Participants or RTA), m ay cast their vote 
+electronically, in respect of the resolution(s) as set 
+out in this Notice only through remote e -voting. 
+The remote e -voting module shall be disabled by 
+RTA thereafter. Once the vote on resolution is cast 
+by a Member, no changes shall be allowed 
+subsequently.  
+ 
+6. The Company has appointed CS Pramod S M or 
+failing him CS Biswajit Ghosh, Partners of M/s 
+BMP & Co. LLP, Practicing Company Secretary 
+firm, Bengaluru, as the Scrutinizer, for conducting 
+the Postal Ballot remote e -voting process in a fair 
+and transparent manner. The details of the 
+procedure to cast the vote through remote e -voting 
+provided in note no. 17 of the notes of this Notice.  
+ 
+7. The Scrutinizer(s), immediately after the 
+conclusion of voting, shall unblock the votes cast 
+through remote e -voting, in the presence of at 
+least two witnesses, who are not in the 
+employment of the Company. The Scrutinizer’s 
+decision on the validity of the  Postal Ballot shall be 
+final. Upon completion of scrutiny of the remote e -
+voting, the Scrutinizer shall submit his report to the 
+Chairman, or any other person authorized by the 
+Board. The results of the Postal Ballot will be 
+announced by the Chairman, or any other person 
+authorized by the Chairman in writing for this 
+purpose on or before Tuesday, January 20, 2026. 
+The said result along with Scrutinizer’s report will 
+also be displayed at the Registered Office of the 
+Company. Additionally, the results will a lso be 
+uploaded on the website of the Company at 
+https://groww.in/investor -
+relations/announcements  as well as on the 
+website of RTA at 
+https://web.in.mpms.mufg.com/client -
+downloads.html . The result shall simultaneously 
+be communicated to the Stock Exchanges.  
+ 
+8. The resolution(s), if passed by the requisite 
+majority, shall be deemed to have been passed as 
+if the same had been duly passed at a General 
+Meeting of the Members convened in that behalf, 
+and shall be deemed to have been passed on the 
+last date of remote e-voting i.e. Sunday, January 
+18, 2026.  
+ 
+9. The vote in this Postal Ballot cannot be exercised 
+through proxy.  
+ 
+10. The dispatch of the Notice and the Explanatory 
+Statement shall be announced through an 
+advertisement in at least 1 (One) English 
+newspaper and at least 1 (One) Kannada 
+  
+ 
+ 
+ 
+  7 
+1 
+newspaper, each with wide circulation in the 
+district, where the Registered Office of the 
+Company is situated, and also be published on the 
+Company’s website at https://groww.in/investor -
+relations/announcements . 
+ 
+11. The Members desirous of inspecting the 
+documents referred to in the Notice or Explanatory 
+Statement may send their requests to 
+corp.secretarial@groww.in  from their registered e -
+mail addresses mentioning their names, DP ID 
+and Client ID between the period from Saturday, 
+December 20, 2025 to Sunday, January 18, 2026.  
+ 
+12. Corporate members are entitled to appoint 
+authorized representatives to vote on their behalf 
+on the resolution(s) proposed in this Notice. 
+Institutional/ Corporate members (i.e., other than 
+individuals, HUF, NRI, etc.) are required to send a 
+scanned, certi fied copy (PDF/ JPG Format) of their 
+Board or governing body’s resolution/ 
+Authorization, authorizing their representative to 
+vote through remote e -voting to the Scrutinizer 
+through e -mail at corp.secretarial@groww.in .  
+ 
+13. Members who have not registered/ updated their 
+email address are requested to register/ update 
+the same (i) in case of shares held in demat mode, 
+as per the process advised by concerned 
+Depository Participant; and (ii) In case of share 
+held in physical for m, may get their e -mail 
+addresses registered with RTA, by clicking the 
+link: 
+https://web.in.mpms.mufg.com/EmailReg/Email_
+Register.html  and follow the registration process 
+as guided therein.  
+ 
+14. SEBI vide its notification dated January 24, 2022, 
+and circular dated January 25, 2022, mandated 
+listed companies to issue securities in demat form 
+only while processing service requests viz. Issue 
+of duplicate securities certificate, claim from 
+Unclaimed Suspense Account, Renewal/ 
+Exchange of securities certificate, endorsement, 
+subdivision/ splitting of securities certificate, 
+consolidation of securities certificates/ folios, 
+transmission and transposition.  
+ 
+15. SEBI has mandated the submission of PAN by 
+every participant in the securities market. 
+Members holding shares in dematerialised form 
+are therefore requested to submit their PAN to the 
+DP’s with whom they are maintaining their 
+dematerialised accounts. As pe r the provisions of 
+Section 72 of the Act, the facility for making 
+nominations is available for the Members in 
+respect of the shares held by them. Members who 
+have not yet registered their nomination are 
+requested to register the same by submitting Form 
+No. SH -13. If a Member desires to opt out or 
+cancel the earlier nomination and record a fresh nomination, he/she may submit the same in Form 
+ISR-3 or SH -14 as the case may be. Members are 
+requested to submit the said details to their 
+Depository Participants in case the shares are 
+held by them in dematerialized form and to RTA in 
+case the shares are  held in physical form.  
+ 
+16. In case of any queries, you may contact 
+INSTAVOTE helpdesk by sending a request at 
+enotices@in.mpms.mufg.com  or Company at 
+corp.secretarial@groww.in . 
+ 
+17. Instructions for remote e -voting are as below:  
+ 
+In terms of SEBI circular no. 
+SEBI/HO/CFD/PoD2/CIR/P/2023/120 dated July 11, 
+2023, Individual shareholders holding securities in 
+demat mode are allowed to vote through their demat 
+account maintained with Depositories and Depository 
+Participants.  
+ 
+Shareholders are advised to update their mobile 
+number and email id correctly in their demat  accounts 
+to access e -Voting facility.  
+ 
+Login method for Individual shareholders holding 
+securities in demat mode is given below:  
+ 
+Individual Shareholders holding securities in demat 
+mode with NSDL  
+ 
+METHOD 1 - Individual Shareholders registered with 
+NSDL IDeAS facility  
+ 
+Shareholders who have registered for NSDL IDeAS 
+facility:  
+a. Visit URL: https://eservices.nsdl.com  and click 
+on “Beneficial Owner ” icon under “ Login ”. 
+b. Enter User ID and Password. Click on “ Login ” 
+c. After successful authentication, you will be 
+able to see e -Voting services under Value 
+added services. Click on “ Access to e -Voting ” 
+under e -Voting services.  
+d. Click on “ MUFG InTime ” or “ evoting link 
+displayed alongside Company’s Name ” and 
+you will be redirected to InstaVote website for 
+casting the vote during the remote e -voting 
+period.  
+OR 
+ 
+Shareholders who have not registered for NSDL 
+IDeAS facility:  
+a) To register, visit URL: 
+https://eservices.nsdl.com  and select 
+“Register Online for IDeAS Portal ” or click on 
+https://eservices.nsdl.com/SecureWeb/Ideas
+DirectReg.jsp  
+b) Proceed with updating the required fields.  
+c) Post successful registration, user will be 
+provided with Login ID and password.  
+d) After successful login, you will be able to see 
+e-Voting services under Value added services. 
+  
+ 
+ 
+ 
+  8 
+1 
+Click on “ Access to e -Voting ” under e -Voting 
+services.  
+e) Click on “ MUFG InTime ” or “ evoting link 
+displayed alongside Company’s Name ” and 
+you will be redirected to InstaVote  website for 
+casting the vote during the remote e -voting 
+period.  
+ 
+METHOD 2 - Individual Shareholders directly 
+visiting the e -voting website of NSDL  
+ 
+a) Visit URL: https://www.evoting.nsdl.com  
+b) Click on the “ Login ” tab available under 
+‘Shareholder/Member ’ section.  
+c) Enter User ID (i.e., your sixteen -digit demat 
+account number held with NSDL), 
+Password/OTP and a Verification Code as 
+shown on the screen.  
+d) Post successful authentication, you will be re -
+directed to NSDL depository website wherein 
+you will be able to see e -Voting services under 
+Value added services. Click on “ Access to e -
+Voting ” under e -Voting services.  
+e) Click on “ MUFG InTime ” or “ evoting link 
+displayed alongside Company’s Name ” and 
+you will be redirected to InstaVote website for 
+casting the vote during the remote e -voting 
+period.  
+Individual Shareholders holding securities in demat 
+mode with CDSL  
+ 
+METHOD 1 – Individual Shareholders registered 
+with CDSL Easi/ Easiest facility  
+ 
+Shareholders who have registered/ opted for CDSL 
+Easi/ Easiest facility:  
+ 
+a) Visit URL: 
+https://web.cdslindia.com/myeasitoken/Home/
+Login  or www.cdslindia.com . 
+b) Click on New System Myeasi Tab  
+c) Login with existing my easi username and 
+password  
+d) After successful login, user will be able to see 
+e-voting option. The evoting option will have 
+links of e -voting service providers i.e., MUFG 
+InTime, for voting during the remote e -voting 
+period.  
+e) Click on “ MUFG InTime ” or “ evoting link 
+displayed alongside Company’s Name ” and 
+you will be redirected to InstaVote website for 
+casting the vote during the remote e -voting 
+period.  
+OR 
+ 
+Shareholders who have not registered for CDSL 
+Easi/ Easiest facility:  
+ 
+a) To register, visit URL:  
+https://web.cdslindia.com/myeasitoken/Home/
+EasiRegistration  /  https://web.cdslindia.com/myeasitoken/Home/
+EasiestRegistration  
+b) Proceed with updating the required fields.  
+c) Post registration, user will be provided 
+username and password.  
+d) After successful login, user able to see e -
+voting menu.  
+e) Click on “ MUFG InTime ” or “ evoting link 
+displayed alongside Company’s Name ” and 
+you will be redirected to InstaVote website for 
+casting the vote during the remote e -voting 
+period.  
+ 
+METHOD 2 - Individual Shareholders directly 
+visiting the e -voting website of CDSL  
+ 
+a) Visit URL: https://www.cdslindia.com   
+b) Go to e -voting tab.  
+c) Enter Demat Account Number (BO ID) and 
+PAN No. and click on “ Submit ”. 
+d) System will authenticate the user by sending 
+OTP on registered Mobile and Email as 
+recorded in Demat Account  
+e) After successful authentication, click on 
+“MUFG InTime ” or “ evoting link displayed 
+alongside Company’s Name ” and you will be 
+redirected to InstaVote website for casting the 
+vote during the remote e -voting period.  
+ 
+Individual Shareholders holding securities in demat 
+mode with Depository Participant  
+ 
+Individual shareholders can also login using the login 
+credentials of your demat account through your 
+depository participant registered with NSDL / CDSL for 
+e-voting facility.  
+ 
+a) Login to DP website  
+b) After Successful login, user shall navigate 
+through “ e-voting ” option.  
+c) Click on e -voting option, user will be redirected 
+to NSDL / CDSL Depository website after 
+successful authentication, wherein user can 
+see e -voting feature.  
+d) After successful authentication, click on 
+“MUFG InTime ” or “ evoting  link displayed 
+alongside Company’s Name ” and you will be 
+redirected to InstaVote website for casting the 
+vote during the remote e -voting period.  
+ 
+Login method for shareholders holding securities in 
+physical mode / Non -Individual Shareholders 
+holding securities in demat mode  
+ 
+Shareholders holding shares in physical mode / Non -
+Individual Shareholders holding securities in demat 
+mode as on the cut -off date for e -voting may register for 
+InstaVote as under:  
+ 
+a) Visit URL: https://instavote.linkintime.co.in   
+ 
+Shareholders who have not registered for 
+  
+ 
+ 
+ 
+  9 
+1 
+INSTAVOTE facility:  
+ 
+b) Click on “Sign Up” under ‘SHARE HOLDER’ tab 
+and register with your following details:  
+ 
+A. User ID:  
+ 
+NSDL demat account – User ID is 8 Character DP ID 
+followed by 8 Digit Client ID.  
+CDSL demat account – User ID is 16 Digit Beneficiary 
+ID. 
+Shareholders holding shares in physical form – User ID 
+is Event No + Folio Number registered with the 
+Company.  
+ 
+B. PAN:  
+ 
+Enter your 10 -digit Permanent Account Number (PAN)  
+(Shareholders who have not updated their PAN with the 
+Depository Participant (DP)/ Company shall use the 
+sequence number provided to you, if applicable.  
+ 
+C. DOB/DOI:  
+Enter the Date of Birth (DOB) / Date of Incorporation 
+(DOI) (As recorded with your DP / Company - in 
+DD/MM/YYYY format)  
+ 
+D. Bank Account Number:  
+ 
+Enter your Bank Account Number (last four digits), as 
+recorded with your DP/Company.  
+*Shareholders holding shares in NSDL form , shall 
+provide ‘D’ above  
+**Shareholders holding shares in physical form but 
+have not recorded ‘C’ and ‘D’,shall provide their Folio 
+number in ‘D’ above  
+❖ Set the password of your choice  
+(The password should contain minimum 8 characters, 
+at least one special Character (!#$&*), at least one 
+numeral, at least one alphabet and at least one capital 
+letter).  
+❖ Enter Image Verification (CAPTCHA) Code  
+❖ Click “ Submit ” (You have now registered on 
+InstaVote).  
+ 
+Shareholders who have registered for INSTAVOTE 
+facility:  
+c) Click on “Login” under ‘SHARE HOLDER’ tab.  
+A. User ID: Enter your User ID  
+B. Password: Enter your Password  
+C. Enter Image Verification (CAPTCHA) Code  
+D. Click “ Submit ” 
+ 
+d) Cast your vote electronically:  
+A. After successful login, you will be able to see the 
+“Notification for e -voting ”. 
+B. Select ‘View’ icon.  
+C. E-voting page will appear.  
+D. Refer the Resolution description and cast your vote 
+by selecting your desired option ‘Favour / Against’ (If 
+you wish to view the entire Resolution details, click on 
+the ‘View Resolution’ file link).  
+E. After selecting the desired option i.e. Favour / Against, click on ‘Submit’. A confirmation box will be 
+displayed. If you wish to confirm your vote, click on 
+‘Yes’, else to change your vote, click on ‘No’ and 
+accordingly modify your vote.  
+ 
+NOTE: Shareholders may click on “Vote as per Proxy 
+Advisor’s Recommendation” option and view proxy 
+advisor recommendations for each resolution before 
+casting vote. “Vote as per Proxy Advisor’s 
+Recommendation” option provides access to expert 
+insights durin g the e -Voting process. Shareholders may 
+modify their vote before final submission.  
+ 
+Once you cast your vote on the resolution, you will not 
+be allowed to modify or change it subsequently.  
+ 
+Guidelines for Institutional shareholders 
+(“Custodian / Corporate Body/ Mutual Fund”)  
+ 
+STEP 1 – Custodian / Corporate Body/ Mutual Fund 
+Registration  
+ 
+a) Visit URL: https://instavote.linkintime.co.in   
+b) Click on “Sign Up” under “ Custodian / 
+Corporate Body/ Mutual Fund ” 
+c) Fill up your entity details and submit the form.  
+d) A declaration form and organization ID is 
+generated and sent to the Primary contact 
+person email ID (which is filled at the time of 
+sign up). The said form is to be signed by the 
+Authorised Signatory, Director, Company 
+Secretary of the entity & stamped and  sent to 
+insta.vote@linkintime.co.in   
+e) Thereafter, Login credentials (User ID; 
+Organisation ID; Password) is sent to Primary 
+contact person’s email ID. (You have now 
+registered on InstaVote)  
+STEP 2 – Investor Mapping  
+ 
+     a) Visit URL: https://instavote.linkintime.co.in and 
+login with InstaVote Login credentials.  
+     b) Click on “Investor Mapping” tab under the Menu 
+Section  
+     c) Map the Investor with the following details:  
+           A. ‘Investor ID’ – 
+i. NSDL demat account – User ID is 8 
+Character DP ID followed by 8 Digit Client 
+ID i.e., IN00000012345678  
+    ii. CDSL demat account – User ID is 16 Digit 
+Beneficiary ID.  
+B. ‘Investor’s Name - Enter Investor’s Name as 
+updated with DP.  
+C. ‘Investor PAN’ - Enter your 10 -digit PAN.  
+D. ‘Power of Attorney’ - Attach Board 
+resolution or Power of Attorney.  
+ 
+*File Name for the Board resolution/ Power of 
+Attorney shall be – DP ID and Client ID or 16 
+Digit Beneficiary ID. Further, Custodians and 
+Mutual Funds shall also upload specimen  
+signatures.  
+E. Click on Submit button. (The investor is now 
+mapped with the Custodian / Corporate Body/ 
+  
+ 
+ 
+ 
+  10 
+1 
+Mutual Fund Entity). The same can be viewed 
+under the “ Report Section ”. 
+STEP 3 – Voting through remote e -voting  
+ 
+The corporate shareholder can vote by two methods, 
+during the remote e -voting period.  
+ 
+METHOD 1 - VOTES ENTRY  
+ 
+a) Visit URL: https://instavote.linkintime.co.in  and 
+login with InstaVote Login credentials.  
+b) Click on “ Votes Entry ” tab under the Menu 
+section.  
+c) Enter the “ Event No .” for which you want to 
+cast vote. Event No. can be viewed on the 
+home page of InstaVote under “ On-going 
+Events ”. 
+d) Enter “ 16-digit Demat Account No. ” for which 
+you want to cast vote.  
+e) Refer the Resolution description and cast your 
+vote by selecting your desired option ‘Favour / 
+Against’ (If you wish to view the entire 
+Resolution details, click on the ‘View 
+Resolution’ file link).  
+f) After selecting the desired option i.e. Favour / 
+Against, click on ‘Submit’. A confirmation box 
+will be displayed. If you wish to confirm your 
+vote, click on ‘Yes’, else to change your vote, 
+click on ‘No’ and accordingly modify your vote . 
+OR 
+ 
+METHOD 2 - VOTES UPLOAD  
+ 
+a) Visit URL: https://instavote.linkintime.co.in   
+and login with InstaVote Login credentials.  
+b) After successful login, you will be able to see 
+the “Notification for e -voting ”. 
+c) Select “ View ” icon for “ Company’s Name / 
+Event number ”. 
+d) E-voting page will appear.  
+e) Download sample vote file from “ Download 
+Sample Vote File ” tab.  
+f) Cast your vote by selecting your desired option 
+'Favour / Against' in the sample vote file and 
+upload the same under “ Upload Vote File ” 
+option.  
+g) Click on ‘ Submit ’. ‘Data uploaded 
+successfully’ message will be displayed.  
+(Once you cast your vote on the resolution, 
+you will not be allowed to modify or change it 
+subsequently).  
+ 
+Helpdesk:  
+ 
+Shareholders holding securities in physical mode / Non -
+Individual Shareholders holding securities in demat 
+mode:  
+ 
+Shareholders holding securities in physical mode / Non -
+Individual Shareholders holding securities in demat 
+mode facing any technical issue in login may contact 
+INSTAVOTE helpdesk by sending a request at 
+enotices@in.mpms.mufg.com or contact on: - Tel: 022 – 4918 6000.  
+ 
+Individual Shareholders holding securities in demat 
+mode:  
+ 
+Individual Shareholders holding securities in demat 
+mode may contact the respective helpdesk for any 
+technical issues related to login through Depository 
+i.e., NSDL and CDSL.  
+ 
+Login type  Helpdesk details  
+Individual 
+Shareholders 
+holding 
+securities in 
+demat mode 
+with NSDL  Members facing any technical 
+issue in login can contact NSDL 
+helpdesk by sending a request at 
+evoting@nsdl.co.in or call at : 022 - 
+4886 7000  
+Individual 
+Shareholders 
+holding 
+securities in 
+demat mode 
+with CDSL  Members facing any technical 
+issue in login can contact CDSL 
+helpdesk by sending a request at 
+helpdesk.evoting@cdslindia.com 
+or contact at toll free no. 1800 22 
+55 33  
+ 
+Forgot Password:  
+ 
+Shareholders holding securities in physical mode / 
+Non-Individual Shareholders holding securities in 
+demat mode:  
+ 
+Shareholders holding securities in physical mode / Non -
+Individual Shareholders holding securities in demat 
+mode have forgotten the USER ID [Login ID] or 
+Password or both then the shareholder can use the 
+“Forgot Password ” option available on:  
+ 
+https://instavote.linkintime.co.in   
+▪ Click on “Login” under ‘SHARE HOLDER’ tab.  
+▪ Click “forgot password?”  
+▪ Enter User ID, select Mode and Enter Image 
+Verification code (CAPTCHA).  
+▪ Click on “SUBMIT”.  
+ 
+In case shareholders have a valid email address, 
+Password will be sent to his / her registered e -mail 
+address. Shareholders can set the password of his/her 
+choice by providing information about the particulars of 
+the Security Question and Answer, PAN, DOB/ DOI, 
+Bank Account Number (last four digits) etc. The 
+password should contain a minimum of 8 characters, at 
+least one special character (!#$&*), at least one 
+numeral, at least one alphabet and at least one capital 
+letter.  
+ 
+User ID:  
+ 
+NSDL demat account – User ID is 8 Character DP ID 
+followed by 8 Digit Client ID.  
+CDSL demat account – User ID is 16 Digit Beneficiary 
+ID. 
+Shareholders holding shares in physical form – User ID 
+is Event No + Folio Number registered with the 
+Company.  
+ 
+In case Custodian / Corporate Body/ Mutual Fund has 
+  
+ 
+ 
+ 
+  11 
+1 
+forgotten the USER ID [Login ID] or Password or both 
+then the shareholder can use the “ Forgot Password ” 
+option available on:  https://instavote.linkintime.co.in  
+ 
+▪ Click on ‘ Login ’ under “ Custodian / Corporate Body/ 
+Mutual Fund ” tab 
+▪ Click “ forgot password? ” 
+▪ Enter User ID, Organization ID and Enter Image 
+Verification code (CAPTCHA).  
+▪ Click on “ SUBMIT ”. 
+ 
+In case shareholders have a valid email address, 
+Password will be sent to his / her registered e -mail 
+address. Shareholders can set the password of his/her 
+choice by providing information about the particulars of 
+the Security Question and Answer, PAN, DOB/ DOI etc. 
+The password should contain a minimum of 8 
+characters, at least one special character (!#$&*), at 
+least one numeral, at least one alphabet and at least 
+one capital letter.  
+ 
+Individual Shareholders holding securities in demat 
+mode with NSDL/ CDSL has forgotten the 
+password:  
+ 
+Individual Shareholders holding securities in demat 
+mode have forgotten the USER ID [Login ID] or 
+Password or both, then the Shareholders are advised to 
+use Forget User ID and Forget Password option 
+available at above mentioned depository/ depository 
+participants website.  
+❖ It is strongly recommended not to share your 
+password with any other person and take utmost care 
+to keep your password confidential.  
+❖ For shareholders/ members holding shares in 
+physical form, the details can be used only for voting on 
+the resolutions contained in this Notice.  
+❖ During the voting period, shareholders/ members can 
+login any number of time till they have voted on the 
+resolution(s) for a particular “ Event ”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ EXPLANATORY STATEMENT PURSUANT TO 
+SECTION 102 OF THE COMPANIES ACT, 2013.  
+ 
+Item No : 1, 2, and 3  
+ 
+In order to reward the Employees for their association 
+and performance as well as to motivate them , the Board 
+of Directors has in its meeting held on December 19, 
+2025 approved the Amendment and Ratification of 
+Billionbrains Garage Ventures Limited Employee Stock 
+Option Scheme 2024 to or for the benefit of such 
+Employees as defined in the Scheme.  
+  
+In accordance with the provisions of Regulation 12 of 
+the Securities and Exchange Board of India (Share 
+Based Employee Benefit and Sweat Equity) 
+Regulations, 2021 (“SEBI SBEB & SE Regulations”) , 
+the shareholders are informed that, subsequent to the 
+listing of equity shares, a Company is not permitted to 
+make any fresh grants that involve the allotment or 
+transfer of shares to its employees under any pre -IPO 
+plan unless:  
+ 
+(i) The pre -IPO plan is in conformity with these 
+regulations, and  
+(ii) The pre -IPO plan is ratified by the shareholders 
+subsequent to the IPO.  
+It is further apprised that the change in the route of the 
+implementation of the Scheme from ‘Direct’ route 
+requires the Company to issue new shares directly to 
+employees each time an employee exercises ESOPs. 
+This results in significant inefficiency in ad ministering 
+ESOPs from a time and resource perspective. In 
+contrast, under the Trust route, all the shares available 
+for grant under the ESOP Schemes are issued upfront 
+by the Company to an ESOP trust as part of a single 
+transaction or acquired by the Trus t through secondary 
+acquisition and thereafter, shares are transferred to 
+employees upon exercise of ESOPs.  
+ 
+This makes the Trust route (a) simpler and more 
+efficient, (b) benefits employees (who hold options 
+currently or may do so in the future) by reducing share 
+allotment time, and (c) brings uniformity across all 
+ESOP schemes. Further, none of the terms and 
+conditions of the Schemes would change except the 
+amendment to mode of implementation, as proposed 
+above.  
+ 
+The Special Resolution set out at Item No. 1  is to seek 
+your approval for the said purpose.  
+ 
+Further, as per Regulation 6(3)(c) of SEBI SBEB & SE 
+Regulations, approval of the shareholders by way of 
+separate Special Resolution is also required for grant of 
+Options to Employees of a Subsidiary Company(ies) 
+and Associate Company(ies) in India or outs ide India, of 
+the Company. The Special Resolution set out at Item 
+No. 2  seeks your approval for the said purpose.  
+ 
+Further, as per Regulation 6(3)(a) of SEBI SBEB & SE 
+Regulations, approval of the shareholders by way of a 
+separate Special Resolution is also required for 
+  
+ 
+ 
+ 
+  12 
+1 
+Secondary Acquisition of Equity Shares by the Trust for 
+implementation of the Scheme. The Special Resolution 
+set out at  Item No. 3  seeks your approval for the said 
+purpose.  
+ 
+The main features and other details of the Scheme as 
+per Regulation 6(2) of the SEBI SBEB & SE 
+Regulations, are as under:  
+ 
+1. Brief Description of the Scheme:  
+This Scheme shall be called the Billionbrains 
+Garage Ventures Limited Employee Stock Option 
+Scheme 2024 (“Scheme”).  
+ 
+The purpose of the Scheme includes the 
+followings:  
+i. To reward the Employees for their 
+association and performance.  
+ii. To motivate the Employees to contribute 
+to the growth and profitability of the 
+Company in future.  
+ 
+2. The total number of options, SARs, shares or 
+benefits , as the case may be, to be offered and 
+granted:  
+The maximum number of options of the Company 
+that may be granted pursuant to exercise of all 
+options granted to the participants under 
+Billionbrains Garage Ventures Limited Employee 
+Stock Option Scheme 2024 (“Scheme”) shall not 
+exceed 33,15,18,413 (Thirty Three Crore Fifteen 
+Lakhs Eighteen Thousand Four Hundred and 
+Thirteen) Employee Stock Options which shall be 
+convertible into equal number of Shares i.e. 
+33,15,18,413 (Thirty Three Crore Fifteen Lakhs 
+Eighteen Thousand  Four Hundred and Thirteen) 
+Equity Shares of the Company (subject to 
+adjustments as may be required due to any 
+corporate action or change in capital structure of the 
+Company) .  
+A summary of the ESOP position prior to listing is as 
+follows:  
+Particulars  Number of 
+options  
+(resultant 
+shares)  
+ESOP pool (A) 33,15,18,413  
+Options granted prior to listing 
+(B) 26,43,19,709  
+Options exercised (C) 10,91,94,344  
+Options  
+forfeited/lapsed/cancelled (D) 2,32,72,883  
+Total options granted and not 
+exercised (B -C-D) = (E) 13,18,52,482  
+Total options available for 
+further grant (including options  
+forfeited/lapsed/cancelled  
+(A-C-E) = (F) 9,04,71,587  
+ No grants have been made under the Scheme 
+subsequent to the listing of the equity shares of the 
+Company, i.e., from November 12, 2025,  onwards.  
+3. Identification of classes of employees entitled 
+to participate and be beneficiaries in the 
+Scheme:  
+(a) An employee as designated by the 
+Company, who is exclusively working in 
+India or outside India; or  
+(b) A director of the Company, whether a 
+Whole Time Director or not, including a 
+non-executive director who is not a 
+Promoter or member of the Promoter 
+Group, but excluding an Independent 
+Director; or  
+(c)  an employee as defined in clauses (a) or 
+(b), of a Subsidiary Company(ies) and 
+Associate Company(ies) of the Company, 
+in India or outside,  
+        
+ but does not include - 
+(a) an employee who is a Promoter or a person 
+belonging to the Promoter Group; or  
+(b) a director who, either himself or through his 
+Relative or through any Body Corporate, 
+directly or indirectly, holds more than ten 
+percent of the outstanding equity shares of 
+the Company.  
+ 
+4. Requirement of Vesting and period of Vesting:  
+All future Eligible Employees of the Company who 
+have been granted Options under the Scheme, 
+shall be subject to vesting of Options over a 4 (four) 
+year period, with the first 25% of such Options 
+vesting following 12 months of continued 
+employment or servi ce and the remaining Options 
+vesting over the following 36 months of continued 
+employment or service, or such other vesting terms 
+that is determined by the Committee and 
+mentioned in the Grant Letter.  
+ 
+5. Maximum period within which the options / 
+SARs / benefits  shall be vested:  
+All Eligible Employees of the Company to whom 
+the Options have been granted or to be granted 
+under the Scheme, shall be subject to vesting of 
+Options over a 4 (four) year period, with the first 
+25% of such Options vesting following 12 months 
+of continued e mployment or service and the 
+remaining Options vesting over the following 36 
+months of continued employment or service, or 
+such other vesting terms that is determined by the 
+Nomination and Remuneration Committee 
+(“Committee/Administrator ”) and mentioned in 
+the Grant Letter.  
+ 
+6. Exercise Price, SAR price, purchase price  or 
+pricing formula:  
+The Administrator shall in accordance with 
+Scheme and Applicable Laws, in its absolute 
+discretion, determine the Exercise Price of the 
+  
+ 
+ 
+ 
+  13 
+1 
+Options to be Granted after giving due discount on 
+the Market Price, if deems fit.  
+ 
+However, in any case, the Exercise Price shall not 
+be less than the Face Value of the Company.  
+ 
+7. Exercise period /offer period  and process of 
+Exercise /acceptance of offer : 
+ 
+For all ESOP grants made prior to the Listing of 
+Equity Shares of the Company, the exercise 
+period shall continue to be maximum of 20 
+(Twenty) years from the date of vesting.  
+ 
+Further, any grants of ESOPs done post listing, the 
+exercise period shall be maximum 10 (ten) years 
+from the date of vesting subject to the terms and 
+conditions of the Scheme.  
+ 
+8. Appraisal process for determining the eligibility 
+of the Employees for the Scheme(s):  
+The specific Employees to whom the Options 
+would be Granted and their Eligibility Criteria 
+(including but not limited to criteria such as 
+performance, merit, grade, conduct length of 
+service of the Employee and future potential) would 
+be determined by the Committee.  
+ 
+9. The Maximum number of Options SARs, 
+shares, as the case may be , to be offered and 
+issued per employee and in aggregate, if any:  
+The maximum number of options that may be 
+granted under the Scheme shall not exceed 
+33,15,18,413 ( Thirty -Three  Crore Fifteen Lakhs 
+Eighteen Thousand Four Hundred and Thirteen) 
+Employee Stock Options which shall be convertible 
+into equal number of Shares i.e. 33,15,18,413 
+(Thirty -Three  Crore Fifteen Lakhs Eighteen 
+Thousand Four Hundred and Thirteen) Equity 
+Shares of the Company.  
+ 
+Notwithstanding the foregoing, subject to a specific 
+resolution passed by the Shareholders of the 
+Company in a general meeting, the Administrator 
+may Grant to the Eligible Employee(s), during any 
+1 (one) year, Options aggregating to Shares equal 
+to or exce eding 1% of the issued share capital as 
+on the date of the Grant (excluding outstanding 
+options and conversions) in accordance with the 
+Applicable Laws.  
+ 
+10. The Maximum quantum of benefits to be 
+provided per Employee under the Scheme:  
+The maximum quantum of benefits that will be 
+provided to every Eligible Employee under the Plan 
+will be the difference between the market value of 
+Company’s Share on the Recognized Stock 
+Exchanges as on the date of Exercise of Options 
+and the Exercise Pric e paid by the Option Grantee.  
+ 
+Pursuant to a specific resolution passed by the 
+Shareholders of the Company in a general 
+meeting, the Committee may Grant to the Employee(s), Options aggregating to Shares 
+during the 1 (one) year, equal to or exceeding 1% 
+of the issued share capital as on the date of the 
+Grant (excluding outstanding options and 
+conversions) in accordance with the Applicable 
+Law.  
+ 
+11. Whether the Scheme is to be implemented and 
+administered directly by the Company or 
+through a Trust:  
+The Scheme shall be implemented through an 
+already set up, an irrevocable employee welfare 
+trust of the Company, namely “Groww Employee 
+Welfare Trust” (“Trust”) , formed as per the 
+provisions of Applicable Laws.  
+ 
+12. Whether the Scheme involves new issue of 
+shares by the company or secondary 
+acquisition by the Trust or both:  
+The Scheme involves Fresh Allotment and/or 
+Secondary Acquisition from the market.  
+ 
+The primary method of acquisition shall be through 
+Fresh Allotment by the Company. However, if 
+deemed appropriate by the Committee, acquisition 
+may also be carried through Secondary 
+Acquisition from the Market.  
+ 
+13. The amount of loan to be provided for 
+implementation of the Scheme by the Company 
+to the Trust, its tenure, utilization, repayment 
+terms, etc.:  
+For the purpose of acquisition of Shares by the said 
+Trust, the Trust may be funded by the Company, 
+either through an interest free loan or any other 
+form of financial assistance permissible under 
+Applicable Laws. Further, the Trust may take loan 
+from bank s or any other person/source under 
+Applicable Laws.  
+ 
+The Board at its discretion may provide an interest 
+free loan to the Trust for implementation of the 
+Scheme and shall not exceed the maximum limit 
+prescribed under Applicable Law, from time to time, 
+presently not exceeding 5% (five percent) of the 
+paid-up capital and free reserves as provided in 
+Companies Act, 2013 and the rules prescribed 
+therein. The tenure of such loan shall be the point 
+where the objects of the Trust are accomplished or 
+the repayment of loan is made, whichever is earlier. 
+The utilizatio n of such loan shall be for the objects 
+of the Trust as mentioned in the trust deed including 
+the implementation of the Scheme wherein it will 
+purchase the Shares of the Company either 
+through Secondary Acquisition and/or fresh 
+allotment from the Company. The Trust shall repay 
+the loan to the Company by utilising the proceeds 
+realised from Exercise of Options by the Grantees 
+and the accruals of the Trust during the tenure of 
+the Plan or termination of the Scheme.  
+ 
+14. The Maximum percentage of secondary 
+acquisition (subject to limits specified under 
+  
+ 
+ 
+ 
+  14 
+1 
+the regulations) that can be made by the Trust 
+for the purposes of the Scheme:  
+The Trust shall acquire the Shares subject to the 
+limits as prescribed under SEBI SBEB & SE 
+Regulations from time to time.  
+ 
+The total number of Shares under Secondary 
+Acquisition held by the Trust in pursuance to the 
+Scheme or any other share based Employee 
+benefit Scheme implemented or to be implemented 
+in the future, shall at no time, exceed 5 (Five) 
+percent of the Paid -up Eq uity Capital of the 
+Company as at the end of the financial year 
+immediately prior to the year in which the 
+Shareholder approval is obtained for such 
+Secondary Acquisition in due compliance with the 
+provisions of the SEBI SBEB & SE Regulations, as 
+amended f rom time to time.  
+ 
+The secondary acquisition by the Trust in any 
+financial year shall not exceed 2 (two) percent of 
+the paid -up Equity capital as at the end of the 
+respective previous financial year as prescribed 
+under the provisions of the SEBI SBEB & SE 
+Regulations, as ame nded from time to time.  
+15. Statement to the effect that the company shall 
+conform to the accounting policies specified in 
+regulation 15:  
+The Company shall comply with the disclosure 
+requirements and accounting policies specified in 
+the SEBI SBEB & SE Regulations or as may be 
+prescribed by regulatory authorities from time to 
+time.  
+16. The method which the Company shall use to 
+value its Options or SARs :  
+The Company shall comply with the accounting 
+standards for share based employee benefits as 
+prescribed under IND AS and shall use fair value 
+method and the fair value of Options would be 
+calculated as per the prescribed method under the 
+applicable regulati ons. 
+ 
+17. Statement with regard to Disclosure in 
+Director’s Report:  
+As the company is adopting fair value method, 
+presently there is no requirement for disclosure in 
+director’s report. However, if in future, the 
+Company opts for expensing of share based 
+employee benefits using the intrinsic value, then 
+the difference betwe en the employee 
+compensation cost so computed and the employee 
+compensation cost that shall have been recognized 
+if it had used the fair value, shall be disclosed in the 
+Directors’ report and the impact of this difference 
+on profits and on earnings per sha re (“EPS”) of the 
+company shall also be disclosed in the Directors' 
+report.  
+ 
+18. Period of lock -in: 
+The Shares transferred to the Grantees pursuant to Exercise of Options will not be subject to any lock -
+in period and can be freely sold by the Grantee.  
+ 
+19. Terms & conditions for buyback, if any, of 
+specified securities:  
+The Committee will determine the procedure for buy -
+back of Options granted under the Scheme, if to be 
+undertaken at any time by the Company, and the 
+applicable terms and conditions in accordance with the 
+Applicable Laws.  
+ 
+In terms of Regulation 7 and Regulation 12 of Securities 
+and Exchange Board of India (Share Based Employee 
+Benefits and Sweat Equity) Regulations, 2021, the 
+approval of the Shareholders is sought by way of 
+Special Resolution for the approval of the amendme nt 
+and ratification in the Billionbrains Garage Ventures 
+Limited Employee Stock Option Scheme 2024.  
+ 
+A draft of the ESOP Scheme with the proposed 
+amendments shall be available at the registered office 
+of the Company, for inspection during business hours of 
+the Company from Saturday, December 20, 2025,  up to 
+the last date of remote e -voting  i.e. Sunday, January 18, 
+2026 . 
+ 
+The Board of Directors recommends the Special 
+Resolutions as set out at Item nos. 1, 2 and 3 for 
+approval by the members of the Company.  
+ 
+None of the Directors, Manager and Key Managerial 
+Personnel of the Company, and any relatives of such 
+Director, Manager and Key Managerial Personnel are in 
+anyway concerned or interested in the resolution except 
+to the extent of Equity Shares held by them in the 
+Company or the options may be granted under the 
+Scheme.  
+ 
+Item No. 04  
+ 
+In order to execute Billionbrains Garage Ventures 
+Limited Employee Stock Option Scheme 2024 through 
+Trust Route, the Company needs to make provision of 
+funds to the Trust to enable it to purchase the Shares of 
+the Company.  
+ 
+In terms of the provisions of Section 67(3) of the 
+Companies Act, 2013, read with Rule 16 of Companies 
+(Share Capital and Debentures) Rules, 2014, the 
+provision by a company of money in accordance with 
+any scheme approved by company through special 
+resolut ion, for the purchase of, or subscription for, fully 
+paid-up shares in the Company, if the purchase of, or 
+the subscription for, the equity shares held by trustees 
+for the benefit of the employees;  
+ 
+The disclosures as per Rule 16 of Companies (Share 
+Capital and Debentures) Rules, 2014, are as under:  
+ 
+1.  The class of 
+Employees for 
+whose benefit the 
+Scheme is being 
+implemented, and a) An employee as 
+designated by the 
+Company, who is 
+exclusively 
+working in India or 
+  
+ 
+ 
+ 
+  15 
+1 
+money is being 
+provided for 
+purchase of or 
+subscription to 
+Shares.  outside India; or  
+b) A director of the 
+Company, whether 
+a Whole Time 
+Director or not, 
+including a non -
+executive director 
+who is not a 
+Promoter or 
+member of the 
+Promoter Group, 
+but excluding an 
+Independent 
+Director; or  
+c)  an employee as 
+defined in clauses 
+(a) or (b), of a 
+Subsidiary and its 
+Associate 
+Company, in India 
+or outside,  
+ 
+but does not include - 
+ 
+i. an employee who 
+is a Promoter or a 
+person belonging 
+to the Promoter 
+Group; or  
+ii. a director who, 
+either himself or 
+through his 
+Relative or 
+through any Body 
+Corporate, 
+directly or 
+indirectly, holds 
+more than ten 
+percent of the 
+outstanding 
+equity shares of 
+the Company.  
+2.  Particulars of Trust  Name of the Trust: 
+Groww  Employee 
+Welfare Trust . 
+ 
+Address of the Trust: 
+Vaishnavi Tech Park, 
+South Tower, 3rd Floor, 
+Survey No.16/1 and 
+17/2, Ambalipura 
+Village, Varthur Hobli , 
+Bellandur, Bangalore 
+South, Karnataka, India, 
+560103  
+3.  The particulars of 
+the Trustee or 
+Employees in 
+whose favor such 
+Shares are to be 
+registered.  Name of the Trust: 
+Groww Employee 
+Welfare Trust . 
+ 
+Name of the Trustees:  
+ 
+1) Mr. Aman Sethia  
+2) Ms. Suma M N  
+4.  Name, Address, Name:  Mr. Aman Sethia  Occupation and 
+Nationality of 
+Trustees . Address : Vaishnavi 
+Tech Park, South 
+Tower, 3rd Floor, 
+Survey No.16/1 and 
+17/2, Ambalipura 
+Village, Varthur Hobli, 
+Bellandur, Bangalore 
+South, Karnataka, India, 
+560103  
+Occupation : Service  
+Nationality: Indian  
+ 
+Name: Ms. Suma M N  
+Address : Vaishnavi 
+Tech Park, South 
+Tower, 3rd Floor, 
+Survey No.16/1 and 
+17/2, Ambalipura 
+Village, Varthur Hobli , 
+Bellandur, Bangalore 
+South, Karnataka, India, 
+560103  
+Occupation : Service  
+Nationality: Indian  
+5.  Relationship of 
+Trustees with 
+Promoters, 
+Directors or Key 
+Managerial 
+Personnel, if any.  None  
+6.  Any interest of Key  
+Managerial 
+Personnel,  
+Directors or 
+Promoters  
+in such Scheme or 
+Trust and effect  
+thereof.  The Key Managerial 
+personnel and Directors 
+are interested in the 
+Scheme only to the 
+extent, to the Options 
+that may be granted to 
+them, if any, under the 
+Scheme.  
+7.  The detailed 
+particulars of 
+benefits which will 
+accrue to the 
+Employees from 
+the 
+implementation of 
+the Scheme.  To reward the 
+Employees for their 
+association and 
+performance.  
+ 
+To motivate the 
+Employees to contribute 
+to the growth and 
+profitability of the 
+Company.  
+ 
+Further, the Employees 
+will be entitled to 
+exercise the options 
+granted to them at the 
+exercise price during 
+the exercise period 
+pursuant to Scheme.  
+8. 8
+. The details about 
+who would 
+exercise and how 
+the voting rights in 
+respect of the 
+shares to be 
+purchased or 
+subscribed under The Trust would be 
+considered as the 
+registered Shareholder 
+of the Company till the 
+date of transfer of 
+Shares to the 
+Employees.  
+ 
+  
+ 
+ 
+ 
+  16 
+1 
+the scheme would 
+be exercised.  However, the Trustees 
+will not have any right to 
+vote on the Equity 
+Shares held by the 
+Trust.  
+ 
+Once the shares are 
+transferred to the 
+Employees upon their 
+Exercise, then the 
+Employees will be 
+treated as the 
+Shareholder of the 
+Company and shall 
+exercise the right to vote 
+in respect of such 
+shares.  
+ 
+In terms of the Section 67(3) Companies Act, 2013, read 
+with Rule 16 of Chapter IV of the Companies Act, 2013, 
+the approval of the Shareholders is sought by way of 
+Special Resolution for the approval for the provisioning 
+of money to the Trust to fulfil the  requirements of 
+Billionbrains Garage Ventures Limited Employee Stock 
+Option Scheme 2024.  
+ 
+Therefore, the Board of Directors recommends the 
+Special Resolution set out in Item No. 4  for approval by 
+the members of the Company.  
+ 
+None of the Directors, Manager, Key Managerial 
+Personnel of the Company, and any relatives of such 
+Director, Manager, Key Managerial Personnel is in any 
+way concerned or interested, financially or otherwise, in 
+these resolutions except to the extent of Equ ity Shares 
+held by them in the Company or the Options that may 
+be granted under the said Scheme.  
+ 
+Item No. 05  
+ 
+The Members of the Company in their extraordinary 
+general meeting held on August 19, 2025, have 
+approved the latest Articles of Association of the 
+Company. Part B of the Articles of Association was 
+applicable until the listing date. All articles in Part B 
+automatically terminated and ceased to have any force 
+or effect on and from the date of listing of the equity 
+shares of the Company on National Stock Exchange of 
+India Limited and BSE Limited i.e. November 12, 2025. 
+Accordingly, Part A of the Articles of A ssociation is 
+applicable to the Company post -listing.  
+ 
+Pursuant to the Prospectus in connection with Initial Public Offering dated November 07, 2025 , filed with 
+SEBI, Stock Exchanges and Registrar of Companies , 
+the following rights are required to be incorporated in 
+Articles of Association after Company’s listing:  
+ 
+a) right of Peak XV Partners Investments VI -1 to 
+nominate a non -executive director to the Board, 
+as long as it holds (i) the most number of Equity 
+Shares; and (ii) at least 10% of the outstanding 
+fully paid -up Equity Shares, and  
+ 
+b) Each founder (Mr. Lalit Keshre, Mr. Harsh Jain, 
+Mr. Ishan Bansal and Mr. Neeraj Singh) being a 
+promoter, shall have the right to nominate a 
+director on the Board, which right shall fall away 
+upon such founder ceasing to be a promoter of 
+the Company.  
+Regulation 31B of Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 requires that any special right 
+granted to the shareholders of a listed entity shall be 
+subject to the approval by the members in a  general 
+meeting by way of a special resolution once in every five 
+years starting from the date of grant of such special 
+right.  
+ 
+Mr. Lalit Keshre, Mr. Harsh Jain, Mr. Ishan Bansal and 
+Mr. Neeraj Singh, promoters of the Company and their 
+relatives to the extent of their shareholding in the 
+Company and Mr. Ashish Agrawal, Nominee Director of 
+Peak XV Partners Investments VI -1 are deemed to be 
+interested in the special resolution set out at Item No. 
+05.  
+ 
+The Articles of Association with the proposed 
+amendments shall be available at the registered office 
+of the Company, for inspection during business hours of 
+the Company from Saturday, December 20, 2025,  up to 
+the last date of remote e -voting , i.e. Sunday, January 
+18, 2026.  
+ 
+Therefore, the Board of Directors recommends the 
+Special Resolution set o ut in Item No. 5 f or approval by 
+the members of the Company.  
+ 
+Except as mentioned above, no other Directors, 
+Manager, Key Managerial Personnel of the Company, 
+and their relatives are in any way concerned or 
+interested, financially or otherwise, in these resolutions 
+except to the extent of Equity Shares held by them i n 
+the Company.
+ 
+By Order of the Board of Directors  
+For Billionbrains Garage Ventures Limited  
+(Formerly known as Billionbrains Garage Ventures Private Limited)  
+ 
+Roshan Dave  
+Company Secretary and Compliance Officer  
+Membership no. A26472   
+Address:  Vaishnavi Tech Park, South Tower, 3rd Floor, Survey No.16/1 and 17/2, Ambalipura Village, Varthur Hobli, 
+Bellandur, Bangalore South, Karnataka, India, 560103  
+E-mail Id:  corp.secretarial@groww.in  
+Date:  December 19, 2025  

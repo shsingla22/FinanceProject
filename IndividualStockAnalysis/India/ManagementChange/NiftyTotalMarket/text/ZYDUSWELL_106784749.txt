@@ -1,0 +1,33 @@
+--- CIM_2952_WebXMLFile_20260918_180547820_1.xml (the exchange's structured disclosure) ---
+NSESymbol: ZYDUSWELL ; Name Of The Company: ZYDUS WELLNESS LIMITED ; Scrip Code: 531335 ; MSEISymbol: NOTLISTED ; ISIN: INE768C01028 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-18 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-18 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Management ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Arijit Sengupta ; Effective Date Of Reason Of Change: 2026-09-18 ; Salutation: Mr. ; Name Of The Person: Arijit Sengupta ; Designation Of Person: Senior Management ; Date On Which The Resignation Letter Was Received: 2026-06-18 ; Effective Date Of Resignation: 2026-09-18 ; Reason Of Resignation In Brief: Personal circumstances which require relocation
+
+--- Annexure-1_-_Resignation_letter_2.pdf ---
+Annexure-“1”
+Date: 18-Jun-26
+
+To,
+Mr. Tarun Arora
+Chief Executive Officer
+Zydus Wellness
+
+Subject: Resignation from the Position of Chief Marketing Officer
+
+Dear Ta run,
+This is to inform you that I would like to tender my resignation w.e.f. today.
+This has been a very difficult decision. Zydus Wellness has been a great place to work with
+an exciting future. However, there are very difficult personal circumstances which require
+me to relocate to Mumbai.
+I am grateful for the opportunities and support extended to me during my tenure with the
+Company. I have had a valuable experience working with the organisation and contributing
+to its growth and business objectives.
+My last working day is 18-Sep-26. I wish you and organization very best!
+
+Yours sincerely,
+
+Arijit Sengupta
+
+Chief Marketing Officer
+Zydus Wellness
+Emp Id: 2305767
+
+

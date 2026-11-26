@@ -1,0 +1,884 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Registered Office   
+Linde India Limited  Phone +91 33 6602 1600  
+Oxygen House, P43 Taratala Road  Fax +91 33 2401 4206  
+Kolkata 700 088, India  customercare.lg.in@linde.com  
+CIN L40200WB1935PLC008184                                                  www.linde.in  
+ 
+Sect/ 72 
+ 
+25 July 2024  
+ 
+To, 
+The General Manager [BSE Listing Centre]  
+Department of Corporate Services  
+BSE Limited  
+New Trading Ring,  
+Rotunda Building 1st Floor  
+P.J. Towers, Dalal Street  
+Fort, Mumbai – 400 001  
+ 
+SCRIP CODE: 523457  To, 
+The Manager [NEAPS]  
+Listing Department  
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Plot No. C/1, G - Block  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400 051  
+ 
+SYMBOL: LINDEINDIA  
+ 
+Dear Sir/Madam,  
+ 
+Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 – SEBI Order  
+ 
+In continuation to the previous  disclosures  made by the Company vide its letter nos. Sect/41 dated 30 April 
+2024 and Sect/48 dated 22 May 2024, SEBI  vide its Order no. WTM/AB/ CFID/CFID -SEC3/30578/2024 -25 
+dated 24 July 2024, has re-iterated its position on the subject proceedings over the Company’s r elated party 
+transactions and business allocation . The said Order has been passed under Sections 11(1), 11(4) and 11B  of 
+the Securities and Exchange Board of India Act, 1992.   
+ 
+Details of the aforesaid Order as required to be disclosed as per Regulation 30 read with Para A of Part A of 
+Schedule III of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and SEBI Circular no. 
+SEBI/HO/CFD/PoD2/CIR/P/2023/120 dated 11 July 2023 are menti oned below : 
+ 
+Sl. No.  Particulars  Details  
+1. Name of the authority  Securities and Exchange Board of India . 
+2. Nature and details of the action(s) 
+taken, initiated or order(s) passed  This is an Order  issued by SEBI.  
+ 
+Details of the Order passed:  
+(i) Linde India Limited shall test the materiality of future 
+RPTs as per the threshold provided under Regulation 
+23(1) of the LODR Regulations on the basis of the 
+aggregate value of the transactions entered into with 
+any related party in a financial year, irres pective of the 
+number of transactions or contracts involved.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Registered Office   
+Linde India Limited  Phone +91 33 6602 1600  
+Oxygen House, P43 Taratala Road  Fax +91 33 2401 4206  
+Kolkata 700 088, India  customercare.lg.in@linde.com  
+CIN L40200WB1935PLC008184                                                  www.linde.in  
+ 
+(ii) In the event the aggregate value of the related party 
+transactions,  calculated as provided in clause (a), 
+exceeds the materiality threshold  provided under 
+Regulation 23(1), L inde India Limited shall obtain 
+approvals as mandated  under Regulation 23 (4) of the 
+SEBI LODR  Regulations . 
+(iii) NSE shall appoint a registered valuer to carry out a 
+valuation of the business foregone and received, 
+including by way of geographic allocation, in t erms of 
+Annexure IV of the JV&SHA.  
+ 
+3. Date of receipt of direction or order, 
+including any ad -interim or interim 
+orders, or any other communication 
+from the authority  24 July 2024  
+4. Details of the violation(s)/  
+contravention(s) committed or 
+alleged to be committed  (i) Failure of L inde India Limited  in obtaining shareholder  
+approvals for material related party  transactions 
+("RPTs ”) undertaken with P raxair India Private Limited, a 
+related party of the Company.  
+(ii) Irregularities alleged in respect of a business agreement 
+entered by L inde India Limited  with P raxair India Private 
+Limited  wherein certain products and geographic areas 
+were allocated between the companies.  
+5. Impact on financial, operation or 
+other activities of the listed entity, 
+quantifiable in monetary terms to 
+the extent possible  The Company is examining the next steps  to be taken in this 
+matter and is analyzing the impact , if any,  of this Order on 
+Company’s financial, operation or any other activities at the 
+moment.  
+ 
+A copy of the SEBI’s aforesaid Order dated 24 July 2024 is enclosed herewith for  dissemination of the same for 
+information of the shareholders and investors of the Company.  
+ 
+Thanking you,  
+ 
+Yours  faithfully,  
+ 
+ 
+ 
+Amit Dhanuka  
+Company Secretary  
+ 
+Encl. As above  
+ 
+Order in the matter of Linde India Ltd.               Page 1 of 23 WTM/AB/CFID/CFID -SEC3/30578/2024 -25 
+ 
+SECURITIES AND EXCHANGE BOARD OF INDIA  
+ 
+ORDER  
+ 
+Under Sections 11(1), 11(4) and 11B of the Securities and Exchange Board of 
+India Act, 1992  
+ 
+In respect of:  
+ 
+Name of the Noticee  PAN  
+Linde India Ltd.  AAACB2528H  
+___________________________________________________________________  
+1. Securities and Exchange Board of India (“ SEBI ”) passed an Ad Interim Ex Parte 
+Order dated April 29, 2024 (“ Interim Order ”), addressing certain prima facie  
+issues raised in complaints received against Linde India Ltd. (“ LIL / Company ”). 
+The complaints predominantly concerned various transactions and agreements 
+the Company had entered into with Praxair India Pvt. Ltd. (“ PIPL ”) and Linde 
+South Asia Services Pvt. Ltd. (“ LSASPL ”), which are related parties of the 
+Company.  
+2. The Interim Order was passed based on the preliminary findings of the initial 
+examination conducted by SEBI, directed as under:  
+a. LIL shall test the materiality of future RPTs as per the threshold provided 
+under Regulation 23(1)  of the SEBI (Listing Obligations and Disclosure 
+Requirements) (LODR) Regulations, 2015 (“ LODR Regulations ”) on the 
+basis of the aggregate value of the transactions entered into with any 
+related party in a financial year, irrespective of the number of transactions 
+or contracts involved.  
+b. In the event the aggregate value of the related party transactions, 
+calcu lated as provided in clause (a), exceeds the materiality threshold  
+provided under Regulation 23(1), LIL shall obtain approvals as mandated 
+under Regulation 23(4) of the LODR Regulations.  
+ 
+Order in the matter of Linde India Ltd.               Page 2 of 23  
+c. NSE shall appoint a registered valuer to carry out a valuation of t he 
+business  foregone and received, including by way of geographic 
+allocation, in terms of Annexure IV of the Joint Venture and Share 
+Holders’ Agreement (“ JV&SHA ”). 
+3. The Company preferred an appeal against the SEBI Order before the Hon’ble 
+Securities Appella te Tribunal (“ SAT”). The SAT vide its Order dated May 22, 
+2024 (“ SAT Order ”), set aside the SEBI Order. It was noted by the Tribunal that 
+“it would not be just and appropriate to continue the impugned Interim Ex -Parte 
+Order any further keeping in view that:   
+ the appellant has been directed to file reply within 21 days ; and  
+ SEBI has made a statement before us to pass orders within 30 days from 
+the date of conclusion of hearing and in the event of any adverse order, 
+SEBI is enjoined with all powers to pass appropriate directions including an 
+order of disgorgement.”     
+4. The Tri bunal, while allowing the Appeal, directed LIL to appear before SEBI for 
+inspecting the records on May 27, 2024 and, thereafter, file its reply within a 
+week. The representatives of LIL availed the opportunity of inspection on May 
+27, 2024, and subsequentl y filed written submission vide letter dated June 4, 
+2024.  
+5. The Company was granted an opportunity of personal hearing on June 12, 
+2024. The company vide email dated June 07, 2024, requested that the hearing 
+be rescheduled to June 13, 2024 and the request was acceded to. 
+Subsequently, vide email dated June 11, 2024, the authorised representative 
+for the Company requested for the postponement of the hearing citing non -
+availability of the Senior Counsel representing the Company. It was requested 
+that the hear ing be held on June 21, 24, 25 or on any date post July 1, 2024.  
+6. The request made on behalf of the Noticee was acceded to and the hearing 
+was scheduled on June 21, 2024, the earliest date indicated by the Noticee. 
+The Noticee was represented by Mr. Venkat esh Dhond, Senior Advocate. After 
+the hearing, the Company filed additional written submissions dated July 8, 
+2024. The written and oral submissions made by the Noticee are discussed in 
+subsequent paragraphs.  
+ 
+Order in the matter of Linde India Ltd.               Page 3 of 23  
+Preliminary Objections  
+7.  It was argued by the N oticee that the SAT Order clearly recognises that there 
+was no urgency in the present matter warranting issuance on Ad Interim Ex 
+Parte Order . The Company, therefore, contended that SEBI should complete 
+its investigation and thereafter, based on findings, consider issuing a show 
+cause notice if the situation so warranted. In this regard, it is noted that the SAT 
+Order clearly recognises the power of SEBI to proceed with this matter. It has 
+been specifically noted in the Order that:  
+“SEBI has made a statement before us to pass orders within 30 days from the 
+date of conclusion of hearing and in the event of any adverse order, SEBI is 
+enjoined with all powers to pass appropriate directions including an order of 
+disgorgement.”  
+8.  Further, it has also been noted that direction of the Hon’ble SAT was to grant 
+an opportunity of hearing to the Noticee before passing an Order. The Hon’ble 
+SAT has in no way restrained SEBI from passing directions at this stage. Given 
+the same, I do not find any merit in the preli minary objection advanced by the 
+Noticee.  
+Findings   
+9. As the prima facie  findings in the Interim Order relate to transactions/ contracts 
+entered by LIL with related parties, a brief background of the entities involved, 
+extracted from the Interim Order, is p rovided below for ease of reference.  
+10. LIL (formerly BOC India Ltd.) has been listed on the National Stock Exchange 
+of India Ltd. (“ NSE”) and BSE Ltd. (“ BSE”) since June 1999. LIL is engaged in 
+the business of:  
+i) Gases and Related Products  comprising manufacturing and sale of 
+industrial, medical and special gases, equipment as well as related 
+products; and  
+ii) Project Engineering Division  comprising manufacturing and sale of 
+cryogenic and non –cryogenic vessels as well as designing, supplying, 
+testing, erecting and commissioning of projects across diverse industries.  
+ 
+Order in the matter of Linde India Ltd.               Page 4 of 23 11. LIL was a subsidiary of BOC Group Ltd., an unlisted UK -based company. Linde 
+AG (a German company) acquired BOC Group Ltd. in 2006. Consequently, 
+BOC India Ltd. changed its name to L IL in February 2013.   
+12. In 2018, there was a global merger between Linde AG and Praxair Inc. This 
+resulted in the formation of Linde Plc., which is a NASDAQ -listed entity. Praxair 
+Inc. had an unlisted subsidiary in India – PIPL, which was also predominantly  
+engaged in the production and supply of various gases. Pursuant to the merger, 
+Linde Plc had two subsidiaries operating in India – (i) LIL which was a listed 
+entity wherein it held 75% of the beneficial ownership and (ii) PIPL which was 
+a 100% step -down s ubsidiary.  
+13. LIL and PIPL, subsequently, entered into a JV&SHA , whereby both LIL and 
+PIPL were to hold a 50% stake in LSALPL, a company engaged in providing 
+administrative and support services to both LIL and PIPL.  
+14. Consequent to the announcement by the Comp any about entering into the 
+JV&SHA, SEBI started receiving investor complaints alleging that the business 
+allocation between LIL and PIPL, which was part of the JV&SHA, was not in the 
+interest of the public shareholders of LIL. Based on these complaints, S EBI 
+started an investigation.  
+ 
+Issues for consideration  
+15. There were two broad issues which were considered in the Interim Order. I am 
+now proposing to examine the same in light of the replies submitted by the 
+Noticee and other material available on record. The two issues are  
+a. Failure of LIL in obtaining shareholder approvals for material related party 
+transactions (“ RPTs”) undertaken with PIPL.  
+b. Irregularities alleged in respect of a business agreement entered by LIL 
+with PIPL wherein certain products and geographic areas were allocated 
+between the companies.  
+ 
+Related Party Transactions  
+16. The main allegation in the complaints pertained to alleged material –RPTs being 
+undertaken by LIL with PIPL without seeking the approval of the shareholders 
+of the Company. Section 2(zb) of the LODR Regulations, which defines the 
+ 
+Order in the matter of Linde India Ltd.               Page 5 of 23 term “Related Party” , adopts the definition provided under Section 2(76) of the 
+Companies Act, 2013 , with certain modifications. The text of the relevant 
+provisions is reproduced below:  
+ 
+“(zb) “related party” means a related party as defined under sub -section (76) of 
+section 2 of the Companies Act, 2013 or under the applicable accounting 
+standards:   
+Provided that:  
+(a) any person or entity forming a part of the promoter or promoter group of   the 
+listed entity; or    
+(b) any person or any entity, holding equity shares:   
+(i) of twenty per cent or more; or  
+(ii) of ten per cent or more, with effect fro m April 1, 2023;  
+in the listed entity either directly or on a beneficial interest basis as provided 
+under  section  89  of  the  Companies  Act,  2013,  at  any  time,  during  the   
+immediate preceding financial year;  
+shall be deemed to be a related par ty: 
+Provided   further  that  this  definition  shall  not  be  applicable  for  the  units   
+issued by mutual funds which are listed on a recognised stock exchange(s)    
+(76) “related party”, with reference to a company, means —    
+(i) a director or his re lative;     
+(ii) a key managerial personnel or his relative;     
+(iii) a firm, in which a director, manager or his relative is a partner;    
+(iv) a private company in which a director or manager or his relative is a member 
+or director;     
+(v) a public com pany in which a director or manager is a director or and holds 
+along with his relatives, more than two per cent of its paid -up share capital;     
+(vi) any body corporate whose Board of Directors, managing director or 
+manager is accustomed to act in accorda nce with the advice, directions or 
+instructions of a director or manager;     
+(vii) any person on whose advice, directions or instructions a director or 
+manager is accustomed to act:    Provided that nothing in sub -clauses (vi) and 
+ 
+Order in the matter of Linde India Ltd.               Page 6 of 23 (vii) shall apply to the  advice, directions or instructions given in a professional 
+capacity;    
+(viii) any body corporate which is —     
+(A) a holding, subsidiary or an associate company of such company;     
+(B) a subsidiary of a holding company to which it is also a subsidiary; or     
+(C) an investing company or the venturer of a company;     
+Explanation. —For the purpose of this clause, “the investing company or the 
+venturer of a company” means a body corporate whose investment in the 
+Company  would result in the Company  becoming an associate company of the 
+body corporate.     
+(viii)…  
+(ix) such other person as may be prescribed.”  
+17. Related parties, it can be noted, are entities which may have influence over or 
+are associated with the decision makers of a given company. Given the same, 
+the LODR Regulations, recognising the possibility that transactions entered 
+with such entities may n ot be at arm’s length or such transactions could 
+potentially be utilised for diverting assets of the company, impose higher 
+decisional and disclosure thresholds (for such transactions). The higher 
+decisional thresholds imposed for such transactions, under  the LODR 
+Regulations, is in recognition of the inherent conflict of interest involved if such 
+transactions come within the decisional purview of interested controlling 
+persons.  
+18. Norms governing RPTs are primarily contained in Regulations 23 of LODR 
+Regu lations, which read as under:  
+ 
+“Related party transactions.  
+23. (1) The listed entity shall formulate a policy  on materiality of related party 
+transactions and on dealing with related party transactions including clear 
+threshold limits duly approved by the  board of directors  and such policy shall 
+be reviewed by the board of directors at least once every three years and 
+updated accordingly:  
+Provided that a  transaction  with  a  related  party  shall  be  considered  
+material,  if  the transaction(s)  to  be   entered  into  individually  or  taken  
+ 
+Order in the matter of Linde India Ltd.               Page 7 of 23 together  with  previous  transactions during  a  financial  year,  exceeds  rupees  
+one  thousand  crore  or  ten  per  cent  of  the  annual consolidated  turnover  
+of  the  listed  entity   as  per  the  last  au dited  financial  statements  of  the 
+listed entity, whichever is lower. …”  
+… 
+(4) All material related party transactions and subsequent material 
+modifications as defined by the audit committee under sub -regulation (2) shall 
+require prior approval of the s hareholders through resolution  and no related 
+party shall vote to approve such resolutions whether the entity is a related party 
+to the particular transaction or not:”  
+ 
+19. As per Regulation 23 of the LODR Regulations, RPTs can be undertaken by a 
+listed company with the prior approval of the Audit Committee. The Regulations, 
+however, impose a higher decisional threshold for ‘ material’  RPTs by making 
+prior approval from shareholders mandatory for such class of RPTs. It can, 
+therefore, be noted that RPTs are categorised into two buckets with each 
+having a different approval requirement – (a) material RPTs that have to be 
+approved by the shareholders and (b) non –material RPTs which only require 
+Audit Committee app roval.  
+20. The issue at hand in respect of the first issue involves determining how the 
+‘materiality threshold’ , provided in the proviso1 to sub -regulations (1) of 
+Regulation 23, is to be calculated. The Interim Order held that RPTs are 
+deemed to be material if their value during a financial year exceeds 10% of the 
+company's turnover during the previous financial year. The Company, on the 
+other hand, contended that only transactions executed under a common 
+contract should be consider ed while determining this 10% threshold.  
+                                                           
+1 Proviso to Regulation 23(1) was inserted vide the SEBI (Listing Obligations and Disclosure 
+Requirements) (Sixth Amendment) Regulations, 2021, w.e.f. 1.4.2022. The proviso replaced the 
+following explanation:  
+“Explanation. -A transaction with a related party shall be considered material if the transaction(s) to be 
+entered into individually or taken together with previous transactions during a financial year, exceeds 
+ten percent of the annual   consoli dated turnover of the  listed entity as per  the  last audited  financial  
+statements of the  listed entity.”  
+ 
+Order in the matter of Linde India Ltd.               Page 8 of 23 21. As the issue involves interpreting the proviso  to Regulation 23(1) of LODR 
+Regulations, it is important to carefully examine the text of the regulatory 
+provision, which is extracted below:  
+“Provided that a transaction   with  a  related  party  shall  be  considered  
+material,  if  the transaction(s)  to  be  entered  into  individually  or  taken  
+together  with  previous  transactions during  a  financial  year,  exceeds  rupees  
+one  thousand  crore  or  ten  per  cent  of  the  annual consolidated  turnover  
+of  the  listed  entity   as  per  the  last  audited  financial  statements  of  the 
+listed entity, whichever is lower”  
+22. It can be noted that a plain reading of the proviso  would indicate t hat no 
+restriction that confines the calculation to transactions under a common 
+contract  can be found in the text. It is well established that the primary rule for 
+interpretation of statutes, including regulations framed by statutory bodies, is 
+the literal  rule. In this context, G.P Singh’s Principles of Statutory Interpretation,  
+the seminal work in this field in India, relying on a catena of cases, notes that 
+“The words of a statute are first understood in their natural, ordinary or popular 
+sense and phras es and sentences are construed according to their grammatical 
+meaning, unless that leads to some absurdity or unless there is something in 
+the context, or in the object of the statute to suggest the contrary .”2 
+23. I, therefore, note that a plain literal inter pretation of the statutory provision does 
+not support the interpretation advanced by the Company. The proviso  is explicit 
+in its directive: it establishes a clear and unambiguous criterion for materiality 
+based on the 10% threshold relative to the company's annual turnover. It is, 
+therefore, noted that there is no textual basis, within the proviso , for confining 
+the calculation of the ‘materiality threshold’  only to transactions under a 
+common contract, as sought to be contended by the Company.  
+24. The Company of the other hand, in support of its contention that only contracts 
+of a similar nature need to be added up while considering the materiality 
+threshold , relies on three separate Legal Opinions  dated September 7, 2021, 
+December 22, 2022, and December 27, 2022, obtained from Mr. Sandeep 
+Parekh, Advocate, Mr. Abhishek Manu Singhvi, Senior Advocate, an d Justice 
+(Retd.) B.N. Srikrishna, former Judge, Supreme Court of India, respectively . It, 
+                                                           
+2 G.P Singh, Principles of Statutory Interpretation, 15th Edition, Page 64  
+ 
+Order in the matter of Linde India Ltd.               Page 9 of 23 therefore, becomes imperative to examine these opinions to understand 
+whether the interpretation advanced by the Company has merit.   
+25. It is noted that all the three Legal Opinions  essentially adopt the same approach 
+to arrive at the interpretation adopted by Linde. Their reading relies heavily on 
+the words “ in a contract ” appearing in the definition of RPT. The opinions argue 
+that the use of the words  “in a contract ” denotes that the only transactions under 
+a common contract fall within the definition of RPTs and, consequently, while 
+computing the materiality threshold  only such transactions, which come within 
+the definition of RPT, can be consid ered.  
+26. In support of this position, the Legal Opinions  rely on a Guidance Note  issued 
+by the Institute of Company Secretaries of India ( “ICSI”) dated March 20, 2019. 
+While the validity of relying on a Guidance Note  issued by ICSI in respect of 
+provision of the LODR, where there is no apparent ambiguity, is itself 
+questionable, however for the purpose of this examination, I am proceeding to 
+consider the same as it has been extensively relied upon by the Noticee.  
+ 
+27. To examine the guidance relied upon by the Noticee, it would be useful to 
+extract the same:  
+ 
+“Further, Regulation 23 requires that all material related party transactions shall 
+require approval of the shareholders through a resolution and no related party 
+shall vote to approve such resolution whether the entity is a related party to the 
+particular transaction or not. Such approval is required irrespective of whether 
+the transaction is in the ordinary course of business or whether the same is on 
+arm's length basis.  
+In this connection, it may be noted that Regulation 2(1)(zc) of the Listing 
+Regulations provides that a transaction with a related party shall be construed 
+to include a single transaction or a group of transactions in a contract. In other 
+words, for the purpose of computing the 10% limit, such transactions would be 
+aggregated as they are undertaken under a single contract  
+The Act provides for individual thresholds for each type of related party 
+transaction for the purpose of taking shareholder ’s approval through ordinary 
+resolution. However, the Listing Regulations prescribe a common threshold i.e. 
+ 
+Order in the matter of Linde India Ltd.               Page 10 of 23 10% of annual consolidated turnover for transaction(s) to be termed as material 
+related party transaction. For which approval of shareholders is req uired. 
+For this purpose, it is noteworthy that all such transactions are to be taken 
+together, provided the said transactions are undertaken under a common 
+contract.  In some cases, this might lead to a situation in which a transaction, 
+which otherwise woul d be exempt from shareholder's approval under the Act, 
+might have to be approved by the shareholders under the Listing Regulations, 
+or vice versa.”  
+ 
+28. It must be highlighted that the even the Guidance Note relies on the words “in 
+a contract”  appearing in the  definition of RPT to note that transactions under a 
+common contract are to be taken together while examining the materiality of 
+RPTs. As noted above, this interpretation appears to be at odds with the 
+interpretation emerging from a plain reading of the provision.   
+29. In this context, I note that SEBI in the context of an Informal Guidance issued 
+on May 31, 2023, has clearly stated that any guidance given by ICSI or any 
+other authority which is at variance with the express provisions of the LODR 
+Regulati ons is not relevant and cannot be taken into consideration. Given the 
+same, I note that while such guidance can offer interpretative support, it cannot 
+supersede the explicit mandate under a Regulation.   
+30. The Legal Opinions , relying on the ab ove Guidance Note , takes the position 
+that while determining the materiality of any contract vis -a-vis the Materiality 
+threshold , only those transactions can be considered which are executed under 
+a common contract. The Opinions then move on to consider various case laws 
+providing guiding principles for determining the kinds of transactions that can 
+be considered to be falling unde r a common contract.  
+31. Having considered case laws cited in the Legal Opinions , I am of the view that 
+they need to be considered only in the event the  interpretation advanced by the 
+company  is accepted. If the said interpretation does not hold then the case laws 
+contained in the Legal Opinions would not be applicable to the present context. 
+Given the same, I am moving on to consider the arguments made on behalf of 
+the Company in light of definition of RPTs  in the LODR Regulations.  
+ 
+Order in the matter of Linde India Ltd.               Page 11 of 23 32. It is noted that all the three Legal Opinions  along with the Guidance Note  relies 
+on the words “in a contract ” appearing in the definition of the term RPTs. To 
+understand the import of these words, the relevant portion of the definition is 
+being extracted below to place the said words in their proper context : 
+“transaction” with a related party shall be construed to include a single 
+transaction or a group of transactions in a contract . 
+ 
+33.  It is noted that relying on the use of the words “in a contract”  in the definition of 
+RPTs, the Legal Opinions  try to advance the position that word “transactions”  
+appearing in the proviso  to Regulation 23(1) of the LODR Regulations, would 
+also be restricted to transactions under a common contract and therefore, while 
+testing the materiality threshold  only such transactions can be considered.  
+34. It can be noted from the aforesaid discussion t hat the interpretation of the 
+proviso , advocated by Linde, essentially boils down to the meaning that is to be 
+attributed to the term “transactions”  appearing in the proviso  to Regulation  23(1) 
+of the LODR Regulations.  
+35. The Legal Opinions  have gone to great lengths to put across the view that the 
+meaning to be attributed to the term “transactions”  should be the same as the 
+term “transaction”  (in the singular) appearing in the definition of RPT under the 
+LODR Regulations. Even assuming that this interpretation is accepted, the 
+contention advanced by the Company does not factor the use of the term in 
+plural in the definition. The aforesaid usage (of the term in plural), it can very 
+well be argue d, reflects the regulatory intent  to include more than one 
+transaction, of the kind argued by the Noticee, within the ambit of the proviso . 
+Such a reading would provide that all transactions – i.e. grossing up all the 
+individual transactions under commo n contracts – would be required while 
+computing the materiality threshold .  
+36. It is further noted that the words “in a contract”  is preceded by the word 
+“includes”  and not “means” . It is a well settled positon of law that the word 
+“include”  appearing in a definition clause serves to expand the scope or 
+meaning of the words occurring in the body of a Statute/ Regulation . If this 
+interpretation is adopted, it would posit that the words “in a single transaction 
+or group of transactions  in a contract”  appearing in the definition merely serve 
+ 
+Order in the matter of Linde India Ltd.               Page 12 of 23 to clarify that multiple contracts appearing within the same contract will get 
+covered under the definition of RPTs under the LODR Regulations. Given the 
+same, I am of the considered view that the interpretation that prevails is the one 
+adopted by SEBI in the Interim Order.  
+37. Any other reading of the proviso , in my considered view, militates against not 
+just the plain re ading of the proviso  but also the regulatory intent behind 
+introducing such a proviso . As stated earlier, the LODR Regulations, taking into 
+account the inherent potential that such transactions are not to be in the interest 
+of non-controlling sha reholders or non-related parties, takes the decision in 
+respect of such transactions out of the Board and places it in the hands of the 
+Audit Committee, which as per LODR Regulations need not just be headed by 
+an Independent Director (“ ID”) but the Committee also has to have a majority 
+of IDs. Further, with respect to material RPTs, the LODR Regulations impose 
+an even higher decisional threshold, and mandates obtaining shareholder 
+approval.  
+38. It can be noted that the LODR Regulations, un like the Companies Act, 2013, 
+consciously avoids excluding transaction undertaken at an arm’s length while 
+computing RPTs. Similarly, for calculating material RPTs, the LODR 
+Regulations provide  a clear bright line rule i.e. whether the transactions taken 
+together exceed 10% of the turnover of the preceding year . The Company 
+/Noticee cannot be permitted to read in additional restrictions to this definition 
+where none exist. Neither the text of the proviso  to Regulation 23(1) of the 
+LODR R egulations nor the legislative intent supports such a reading.  
+39. It can also be noted that if the interpretation adopted by the Company is 
+adopted, then it would be possible for a given company to structure all its 
+transactions as RPTs and such a move would  not need to be placed before the 
+shareholders for approval. All that will be required will be for the company to 
+ensure that such transactions are entered pursuant to different contracts.   
+40. It would also be useful to examine how other companies have under stood this 
+provision. For this purpose,  the practice adopted by other listed companies 
+where IDs of LIL serve on the Board  is brought out as under:   
+ 
+ 
+ 
+Order in the matter of Linde India Ltd.               Page 13 of 23 Jyotin Kantilal Mehta  
+ 
+ Company  RPT Policy aligns 
+with interpretation in 
+Interim Order  RPT Policy aligns 
+with interpretation 
+advanced by LIL  
+1. JSW Ispat Special 
+Products Limited    
+2. Suryoday Small Finance 
+Bank Limited    
+3. Amal Ltd  
+  
+4. Epack Durable Limited  
+  
+5. Westlife Foodworld Ltd.  
+  
+ 
+Shalini Sarin  
+ 
+ Company  RPT Policy aligns 
+with interpretation in 
+Interim Order  RPT Policy aligns 
+with interpretation 
+advanced by LIL  
+1. Kirloskar Oil Engines 
+Limited    
+2. ISMT Limited  
+  
+3. Kirloskar Ferrous 
+Industries Limited    
+*Arun Balakrishnan was noted to be not serving on the Board of any other listed 
+company as on date.  
+41. The findings unequivocally demonstrate that these companies adhere to the 
+practice of aggregating all RPTs, regardless of whether they are under a single 
+contract or multiple contracts, while determining the materiality threshold . This 
+uniform approach aligns with the clear and unambiguous language of the 
+statutory provision specified by SEBI under the LODR Re gulations.  
+42. Given the above, it is noted that the interpretation advanced by the Company —
+limiting the calculation of material RPTs to transactions under a common 
+contract — finds no support in the statutory language or practice adopted by 
+companies listed  above and is contrary to the regulatory intent and established 
+principles of statutory interpretation.  The interpretation  advanced by the 
+Company can be termed as an exercise in semantics which is contrary to letter 
+and spirit  of regulatory provision under question.  
+
+ 
+Order in the matter of Linde India Ltd.               Page 14 of 23 43. Finally,  the interpretation adopted by the Company  in respect of how the 
+“materiality threshold”  was to be calculated prior to obtaining the  Legal 
+Opinions , was what really mattered . It was noted in the Interim Order that “LIL 
+had, in fact, sought shareholder approval for RPTs to be entered with PIPL at 
+its 85th AGM held on June 24, 2021. This resolution was rejected by the 
+shareholders with approximately 93.94% of the votes cast by eligible 
+shareholders being against the resolutio n.” The Interim Order also noted that 
+“the first Legal Opinion dated September 7, 2021, was obtained in the backdrop 
+of the fai lure by LIL to get shareholder approval for the RPTs.” 
+44. The Company in its reply vigorously contended that this prima facie finding 
+recorded in the Interim Order was not borne out by the facts on record. The 
+reply of the Company on this point is extracte d below:  
+“92. At the foremost, it is submitted that SEBI misconstrued the nature of the 
+resolutions of the 85th AGM and made bald innuendos in its Order to claim that 
+the Company had taken similar interpretation of Regulation 23 as SEBI at its 
+85th AGM. It is clarified that the resolution proposed at the 85th AGM was for an 
+omnibus approval of transactions owing to the specified sub -limits for RPTs 
+prescribed under Section 188 of the Companies Act, 2013 read with Rule 15 of 
+the Companies (Meeting  of Board and its Powers) Rules, 2014 (“Companies 
+Rules”).”  
+45. The answer to the question as to whether SEBI resorted to making bald 
+innuendos  and had misconstrued the nature of the resolution put before the 85th 
+AGM, as contended by the Company, can be obtained from the Explanatory 
+statement to the Notice placed before the AGM. In the said Notice , it has been 
+categorically stated by the Company that the resolution was being put before 
+the shareholders for approval as the transactions with Praxair  and LSASPL are 
+being considered material under LODR Regulations as they as they exceed 
+10% of the annual consolidated turnover of the company . The relevant portion 
+of the statement (on page 20) is worth quoting in full and is therefore being 
+extracted bel ow 
+“Although, your Company always seeks to enter into transactions with related 
+parties in the ordinary course of business and at arm's length basis , yet as per 
+the amended Regulation 23 of the SEBI Listing Regulations, 2015, all 
+ 
+Order in the matter of Linde India Ltd.               Page 15 of 23 related party transactions  even though exempted under Section 188(1) of 
+the Companies Act, 2013, have to be approved by the Members by way of 
+an ordinary resolution in case such transactions are of material nature as 
+defined in Regulation 23 of the SEBI Listing Regulations, 2015, i .e. the 
+transactions exceed 10% of annual consolidated turnover.  
+Considering the dynamic business environment and the need to pursue growth 
+opportunities in the Gases and Project Engineering business of the Company, 
+the aggregate of all transactions entere d into by the Company during any 
+financial year with Praxair India Private Ltd.  (a wholly owned subsidiary of 
+the Linde PIc Group) and Linde South Asia Services Private Ltd., the JV 
+Company, may meet the criteria of materiality  as aforesaid at any time dur ing 
+the validity of this resolution. The Company is therefore, under an obligation 
+to seek the approval of its shareholders by way of an ordinary resolution .” 
+ 
+46. Given the above, the contention raised on behalf of the Company that  the 
+resolution p roposed at the AGM was “only out of apprehension that such RPTs 
+might breach the specified sub -limits  given under the Companies Act, 2013 
+read with the Companies Rules or that the value of a single contract  with Praxair 
+might cross the Materiality Threshold at a later date owing to the pandemic” 
+can, at its charitable best, be termed as dishonest and misleading.  It can 
+unequivocally be noted that the contentions raised in this respect before me is 
+contradic tory to the written record; the explanatory statement to the Notice 
+mentioned in paragraph 4 5. The statement extracted above leaves no room for 
+doubt that the understanding of the Company, regarding the interpretation of 
+the materiality threshold, was earl ier in alignment with interpretation adopted by 
+SEBI in the Interim Order.  
+47. Given the above, I am firmly of the view that the only interpretation that can be 
+reasonably ascribed to the proviso to  Regulation 23(1) of the LODR Regulations 
+is the one being advanced by SEBI  in the Interim Order .  
+Joint Venture agreement and allocation of business between LIL and PIPL.  
+48. I am now going to address the second issue: the allocation of business between 
+Linde India Limited ( “LIL”) and Praxair India Private Limited ( “PIPL ”). Before 
+delving into the specifics of this allocation, it is important to briefly review the 
+ 
+Order in the matter of Linde India Ltd.               Page 16 of 23 events leading up to this issue. Following the merger, which has already been 
+discussed in this Order, the promoters attempted to delist LIL. However, this 
+attempt was unsuccessful as the discovered price, through the Reverse Book 
+Building process, was significantly higher than the floor price indicated by the 
+Promoters. The relevant background provided in the Interim Order is extracted 
+below:  
+ 
+“The announcement of the global merger between Linde AG and Praxair, Inc. 
+triggered a requirement for making a mandatory open offer to the public 
+shareholders of LIL. The open offer was announced on 24 October 2018 and 
+the promoters along with the open offe r also conveyed their intention to 
+voluntarily delist the Company. The offer price, discovered under the Reverse 
+Book Building process mandated under the SEBI (Delisting of Equity Shares) 
+Regulations, 2009 was Rs. 2,025/ -. The acquirers rejected the discov ered price 
+and the equity shares of LIL continued to remain listed on the stock exchanges.  
+Subsequent to the failure to delist the Company, the promoters of LIL began 
+exploring options for achieving operational synergy between LIL and PIPL. It is 
+noted from the records that at the meeting of the Board held on December 17, 
+2019, options for poten tial integration between LIL and PIPL were discussed. 
+Moloy Banerjee, Head – South Asia Linde Group PLC, attended the meeting 
+as a special invitee. He informed the Board that various options were explored 
+for the potential integration between LIL and PIPL and four options, given 
+below, have been shortlisted for the consideration of the Board: -  
+Option 1  LIL and PIPL  to remain separate entities and operate 
+independently  
+Option 2:   
+ Remain Separate Entities – Set up a New JV company 
+between LIL and PIPL  to render Operation & Management 
+services to the two companies  
+Option 3  Consolidation of overlapping Gases business at unlisted 
+subsidiary level  
+Option 4  Consolidation at listed entity level - merger of LIL into PIPL  
+ 
+Order in the matter of Linde India Ltd.               Page 17 of 23  
+49. The management , it is noted, recommended Option 2 to the Board of LIL as the 
+most attractive option considering the costs involved. Option 2, apart from the 
+forming of a JV, also involved product and geographical allocation between LIL 
+and PIPL. In this context, it is i mportant to emphasise that the discussion at the 
+Board Meeting pertaining to the potential integration between LIL and PIPL was 
+led by the representative of Linde Plc, who was a special invitee to the Board 
+Meeting. The IDs of the Comp any, it is noted from the minutes, raised questions 
+regarding the impact on the future growth prospects of LIL due to the split of 
+business between LIL and PIPL. It is also noted that as per the minutes, the 
+Board had directed the management to place befor e it a comprehensive 
+proposal in respect of Option 2 for consideration at the next Board meeting.  
+50. At the next meeting of the Board of LIL held on March 24, 2020, the approval 
+for execution of the JV&SHA  with PIPL and LSASPL, was granted. Pursuant to 
+the e xecution of the JV&SHA, LIL and PIPL were to each hold 50% of the equity 
+share capital of LSASPL. The JV&SHA  also contained a clause which provided 
+for the product allocation and geographical allocation of the businesses of LIL 
+and PIPL (“ Business Allocation ”) which provided :  
+a) Geographic Allocation (north , east and west  2 regions were allotted to Linde 
+whereas south , cent ral and west 1 regions  were allotted to PIPL ), and  
+b) Product Allocation  [Linde got exclusivity with respect to the Project 
+Engineering Business and PIPL  got exclusivity in HyCO, Hydrogen, Carbon 
+Monoxide  and CO2 including carbon capture businesses (“ HyCO ”).] 
+51. Subsequent to the decision of the Board of LIL to delineate the businesses, SEBI 
+started receiving complaints from the shareholders of the Company alleging that 
+the business allocation, referred to above, essentially involved granting 
+promising future busi ness opportunities to PIPL, which was a related party. The 
+complaints also alleged that the business allocation would require  shareholders’ 
+approval  under the applicable regulatory provisions.  The Company , however, it 
+is noted, was of the view that the bus iness allocation did not provide for or 
+contemplate the transfer of any existing assets to PIPL and, therefore, did not 
+require the approval of its shareholders . 
+ 
+Order in the matter of Linde India Ltd.               Page 18 of 23 52. Given the above, the issue that arises for consideration is the decisional 
+threshold applicabl e for a transaction of this nature – is the Board of LIL 
+competent to approve the transaction or would shareholder approval be 
+required?  
+53. Before addressing the decisional threshold question, it is useful to examine the 
+details of the transaction under question. The records indicate that the air gases 
+business was identified as the only area where both LIL and PIPL had significant 
+overlap. The other businesses, PED and HyCO, were considered unique to 
+either LIL or PIPL. Consequently, it was decided that these unique businesses 
+would remain with the respective companies. For the air gases business, a 
+geographic division was proposed, granting each company exclusive rights to 
+operate in distinct geographic areas. The intention behind this allocation was to 
+ensure that within any given geographic area, only one company would operate 
+in each vertical, thereby preventing competition between LIL and PIPL.  
+54. It is noted that the Board took the decision to demarcate business between LIL 
+and PIPL without the benefit of a Valuation Report. Records do not indicate any 
+material being placed before the Board to help determine the gain or loss for LIL 
+and PIPL resulting from this business allocation. The driving factor behind the 
+merger appears to be operational synergy at  the holding company level. While 
+this objective might benefit the Promoters, it may not always align with the 
+interests of LIL’s public shareholders.  
+55. The complaints received by SEBI had gone into significant detailing regarding 
+the importance of HyCO busi ness to the Company and how the allocation of the 
+said business to PIPL would adversely affect the future prospects of the 
+Company. The Interim Order had captured the concerns expressed in the 
+complaints in some detail. It is, however, noted that it may no t be necessary to 
+get into the actual mechanics of the business allocation to answer the question 
+before us. The issue to be considered is whether Board of LIL, without 
+conducting a valuation exercise to understand the impact of the business 
+allocation, co uld have approved this transaction with a related party.  
+56. The overarching question that therefore needs to be considered is whether 
+transactions of this nature undertaken with a related party get covered with in the 
+ 
+Order in the matter of Linde India Ltd.               Page 19 of 23 ambit of RPTs ? While answering this question it needs to borne in mind that the 
+rationale for requiring a higher threshold for RPTs is to ensure that disinterested 
+shareholders have a vote in ‘material’  transactions involving interested parties.  
+57. In this respect, the Interim Order notes that relinquishing the rights to carry on a 
+future business and the consequent opportunities of growth, earnings and cash 
+flows can be considered equivalent /synonymous to the transfer of business / 
+resources /asset s. The effect of both actions on the balance sheet of the 
+Company would  be similar.  
+58. The company submitted a detailed response elaborating the rationale for undertaking 
+the business allocation. It was submitted that the allocation was in the in terest of the 
+Company. It was contented that to classify the business allocation as RPT, it would be 
+necessary to establish that such allocation was a “transfer of resources, services or 
+obligations” . The reply stated that business allocation is distinc t from transferring assets 
+since the same would not have any implications on the current or future revenues of 
+either entity until such business is actually undertaken and materialized.  
+59. The Company’s argument that the agreement to divide future businesses does 
+not constitute a RPT because it does not involve a direct exchange of assets or 
+services is not tenable in my considered view. Allocation of a revenue generating 
+product vertical of a Company is bound to have an impact on the financials of 
+the Company. The nature and extent of the impact can be best understood by 
+undertaking a valuation or  an impact assessment exercise.  
+60. To accept the Company’s argument would entail that the Board is within its rights 
+to hive off an entire vertical of the Company in  favor of related party without 
+having to approach the shareholders. Further, the potential impact of the 
+transaction cannot be estimated because the Company conten ds that there is 
+no requirement of conducting a valuation exercise prior to undertaking such 
+allocation. This scenario can be better explained by way of an illustration. As 
+noted earlier, the Company had two main business segme nts – Gases and 
+related products and Projects Engineering Division. The segment -wise sales 
+and profits reported by the Company for FY 23 are given below:  
+ 
+ 
+ 
+Order in the matter of Linde India Ltd.               Page 20 of 23  
+(In Rs. million)  
+ 
+61. It can be noted from the above that a significant portion of the sales and profits 
+of the Company is accounted for by the ‘Gases and related products’  segment, 
+which under the business allocation proposal, in coming years, will be restricted 
+to certain def ined geographic areas. This decision, the Company contends , can 
+be approved by the Board even without carrying out a valuation exercise. If this 
+argument, made by the Company, is extended a little further, it would imply that 
+the Board of LI L would be within its rights to reserve the entire gases and related 
+products segment for a related party in the coming years, without getting 
+shareholder approval.  Surely, this cannot be allowed to be the likely outcome. 
+To argue otherwise, would be a tro ubling overreach of board authority, 
+undermining the safeguards provided under the LODR Regulations intended to 
+protect shareholder s’ interest .  
+62. Given the facts before me, it is evident that the business allocation, though 
+characterized as a division of future business rather than a current transaction, 
+effectively alters the distribution of business opportunities between the related 
+parties. Such arrangements can result in a redistribution of corporate business 
+and opportunities that would otherwise benefit the company. This seemingly 
+benign but arbitrary reallocation of business presents a potential risk to the 
+future growth prospects of LIL, which may not serve the best interests of the 
+public shareholders.  
+
+ 
+Order in the matter of Linde India Ltd.               Page 21 of 23 63. Transactions of this nature must be subjected to rigorous scrutiny and require 
+approvals akin to traditional RPTs to ensure that investor interests are 
+safeguarded. The business allocation between LIL and PIPL  prima facie  
+constitutes a transfer of resources by a listed company to a related party. This 
+transfer should have been preceded  by a valuation exercise or financial impact 
+analysis to enable the Board of LIL to make an informed decision. Even LIL’s 
+own assessment indicated that activities relating to Hydrogen had significant 
+future potential, underscoring the necessity for a prope r valuation before the 
+Board’s decision.  
+Conclusion  
+64. It has been clearly brought out in the preceding  paragraphs that the only 
+reasonable interpretation that can be  imputed to the proviso to Regulation 23(1) 
+is the one adopted by SEBI in the Interim Order. The proviso  clearly lays downs 
+that for computing the materiality threshold , transaction entered int o individually 
+or taken together with previous transactions during a financial year should be 
+taken into consideration while testing the ‘materiality threshold’.  The proviso  
+does not restrict the definition to transactions of a similar nature or any such 
+other qualifying or limiting criteria while calculating the threshold.  
+65. The endeavour of LIL to go ahead with transactions that had been voted down 
+by the shareholders , by taking cover of the Legal Opinions , in my considered 
+view, cannot be allowed to pass muster . The attempt to colour the prima facie  
+findings made in this regard in the Interim Order as ‘bald innuendos’  can, 
+therefore , only be looked at as an elaborate effort on the part of the Company 
+to cover up its earlier actions. The explanatory statement shows that the Legal 
+Opinions  were obtained by the Company as part of a desperate attempt to 
+override the shareholders’ vote. To contend otherwise, to put it mildly, would be 
+a self -repudiation of the written record.  
+66. In respect of the second issue, it is noted that a valuation exercise would have 
+illuminated whether the decision required approval solely from the Audit 
+Committee or necessitated shareholder approval as well. In light of these 
+considerations, it is my view that the business allocation between LIL and PIPL, 
+a related party, is fundamentally flawed because a valuation exercise was not 
+conducted prior to the Board granting approval for the transaction.   
+ 
+Order in the matter of Linde India Ltd.               Page 22 of 23 67. Given the above, I propose to issue directions which are remedial in nature. 
+Directions which, as contemplated in the LODR Regulations, restore the  voice 
+of the shareholders in  transactions undertaken with related parties.  
+Directions  
+68. Keeping in view the findings recorded in the preceding paragraphs, I, in exercise 
+of the powers conferred upon me under Sections 11(1), 11(4) and 11B read with 
+Section 19 of the SEBI Act, 1992, hereby direct as under:  
+a) LIL shall test the materiality of future RPTs as per the threshold provided 
+under Regulation 23(1)  of the LODR Regulations on the basis of the 
+aggregate value of the transactions entered into with any related party in 
+a financial year, irrespective of t he number of transactions or contracts 
+involved.  
+b) In the event , the aggregate value of the  RPTs , calculated as provided in 
+clause (a), exceeds the materiality threshold provided under Regulation 
+23(1), LIL shall obtain approvals as mandated under Regulation 23(4) of 
+the LODR  Regulations .  
+c) NSE shall appoint a registered valuer to carry out a valuation of the 
+business  foregone and received, including by way of geographic 
+allocation, in terms of Annexure IV of the JV&SHA . 
+69. LIL shall reimburse the expen ses incurred by NSE in respect of the valuation to 
+be carried out as per the directions at paragraph 67 above.  
+70. LIL and its management and their statutory auditors shall extend full cooperation 
+and provide necessary assistance to the valuer appointed by NSE in compliance 
+with the directions contained in this Order.  
+71. NSE shall share the valuation report received from the valuer appointed in 
+compliance with the directions contained in this Order with the Company and 
+SEBI.  
+72. LIL shall within two weeks of receiv ing the valuation report place it before the 
+Audit Committee and the Board.  
+ 
+Order in the matter of Linde India Ltd.               Page 23 of 23 73. LIL shall make a disclosure on the stock exchanges providing a summary of the 
+key observations in the valuation report along with management comments on 
+the same.  
+74. The above direction s shall take effect immediately . 
+75. The issue in respect of determining  materiality  of RPTs (as discussed  in the 
+preceding paragraphs ) attain finality with this Order .  In respect of the allegations 
+concerning the busine ss allocation under the JV& SHA, further course of action 
+will be determined  post receipt of the valuation report .  The role/ culpability of 
+the Directors / Officers  of LIL, if any,  for issues covered under this Order, will also 
+be addresse d separately.   
+76. A copy of this order shall be served upon the Company, its Statutory Auditors, 
+and NSE for necessary action and compliance with the above directions  
+ 
+ 
+Place: Mumbai  ASHWANI BHATIA  
+Date:  July 24, 2024   WHOLE TIME MEMBER  
+          SECURITIES AND EXCHANGE BOARD OF INDIA  
+ 

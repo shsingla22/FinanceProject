@@ -1,0 +1,220 @@
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala,  
+Bengaluru -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com  
+  August  19, 2024 
+Listing Compliance & Legal Regulatory  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Mumbai 400 001  
+Stock Code: 543227 , 974728, 974820 & 975101  Listing & Compliance  
+National Stock  Exchange  of India  Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai 400 051  
+Stock Code: HAPPSTMNDS  
+  Dear  Sir/Madam,  
+S
+ub: Transcript  of Earnings  Call held  on August  13, 2024 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,  
+2015 read with SEBI  (Listing  Obligations and Disclosure Requirements) (Second  Amendment ) 
+Regulations, 2021, please find enclosed the transcript of the Earnings Call held on August 13, 2024, 
+post  announcement of financial results of the Company for the quarter ended  as on June  30, 2024 . 
+The transcript is also uploaded on the Company ’s website  
+(https://www.happiestminds.com/investors ). 
+Th
+is is for your  information  and records . 
+ Thanking  you,  
+   Yours  faithfully,  
+   For  Happiest  Minds  Technologies  Limited  
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer   
+Membership  No. F6706  
+
+Page 1 of 14  
+  
+ 
+“Happiest Minds Technologies Limited  
+Q1 FY25 Earnings  Conference Call” 
+August 13 , 2024  
+ 
+ 
+     
+ 
+MANAGEMENT : Mr. Ashok Soota –  Executive Chairman  
+ Mr. Joseph Anantharaju –  Executive Vice Chairman and 
+Chief Executive Officer – Product & Digital Engineering 
+Services  
+ Mr. Venkatraman Narayanan –  Managing Director and Chief 
+Financial Officer  
+ Mr. Rajiv Shah –  Executive Director & Member of 
+Executive Board 
+ Mr. Ram Mohan –  President and Chief Executive Officer –  
+Infrastructure Management and Security Services  
+ Mr. Sunil Gujjar – Head of Investor Relations  
+ 
+   
+MODERATOR : Mr. Smit Shah – Adfactors PR  
+  
+
+ Happiest Minds Technologies Limited  
+  August 13, 202 4 
+ 
+Page 2 of 14  
+ 
+Moderator:  Ladies and gentlemen, good day and welcome to Happiest Minds Technologies Limited 
+Earnings Conference Call. As a reminder, all participant lines will be in the listen -only mode, 
+and there will be an opportunity for you to ask questions after the presentation concludes. Should you need assistance during the conference call, please signal an operator by pressing s tar then 
+zero on your touchtone phone. Please note that this conference is being recorded.  
+ I now hand the conference over to Mr. Smit Shah from Adfactors PR, Investor Relations. Thank you. And over to you, sir.  
+Smit Shah  Thank you, Steve. Good morning, ladies and gentlemen. Thank you for joining us today on the Q1 FY 2025 earning con call of Happiest Minds Technologies Limited. Today, we have with us Mr. Ashok Soota , Executive chairman; Mr. Joseph Anantharaju , Executive Vice Chairman & 
+CEO  – Product & Digital Engineering Services ; Mr. Venkatraman Narayanan , Managing 
+Director and Chief Financial Officer; Mr. Rajiv Shah, Executive Director and member of Executive Board; Mr. Ram Mohan, President and CEO  – Infrastructure Management and 
+Security Services ; Mr. Aurobinda Nanda , President & COO  – Product & Digital Engineering 
+Services ; Mr. Sridhar Mantha, President & CEO – Generative AI Business Services ; Mr. Sunil 
+Gujjar, Head of Investor Relations.  
+ With this, I would now hand over to Mr. Sunil for Safe Harbor statement and to take the 
+proceedings forward. Thank you. And over to you, sir.  
+Sunil Gujjar  Thank you, Smit. Good morning to all participants in the call. Welcome to this conference call 
+to discuss the financial results for the first quarter ended June 30, 2024. I'm Sunil, Head of Investor Relations. We hope you have had an opportunity to review the earnings release which 
+we issued yesterday evening.  
+Let me quickly outline the agenda for today's call. Ashok will begin the call by sharing his 
+perspectives on the business environment and our results. Venkat, Joseph will then speak about 
+financial and operational highlights, after which we will have the floor open for Q&A.  
+ Before I hand over, let me begin with the Safe Harbor statement. During the call, we could make 
+forward -looking statements. These statements consider the environment we see as of today and 
+carry a risk in terms of uncertainty because of which the actual results could be different. We do not undertake to update those statements periodically.  
+ Now, let me pass it on to Ashok.  
+Ashok Soota  Thank you, Sunil. A very good morning to all participants in this call. I'm pleased to share with you that the current quarter has been a transformational quarter for Happiest Minds. Not only 
+that, it has laid the foundation for making FY 2025 our best eve r year since the IPO  in absolute 
+terms . We have begun the year with yet again industry- leading performance on both top line 
+growth and sustaining our margins above the guidance for seventeen  quarters in a row. I will 
+leave Venkat to provide you the specifi c numbers.  
+ The reason I call the reported quarter and the year as transformational is because of three 
+significant milestones for Happiest Minds.  
+ Happiest Minds Technologies Limited  
+  August 13, 202 4 
+ 
+Page 3 of 14  
+ 
+• Our Generative AI business unit has had a great start. With universal recognition now of the 
+importance of Gen AI, we are eyeing towards long- term leadership in this critical technology. I 
+will let Joseph give some more color on how we intend to achieve th is.  
+• Second, the reorganization of the Company with the industry groups as profit centers has taken off and has enabled us to be thought leaders in providing domain-specific solutions and services 
+to our customers . Each of these industry groups will be an engine of growth for long-term 
+success of Happiest Minds.  
+• Third, and the most important is that we closed two significant acquisitions. PureSoftware of significant size and Aureus, a company which has got deep capabilities in reinsurance space. These developments will propel  the growth of this fiscal to our best years since IPO  in absolute 
+terms . 
+ I am happy to share that we have expanded our Board of Directors to include Mittu Sridhara and 
+Rajiv Shah. Mittu is one of the most strategic minds I've known for many years,  and he is a 
+seasoned executive, renowned for his strategic acumen in the technology sector and brings in 
+extensive experience in steering market -leading technology companies.  Rajiv Shah, who has 
+been a key leader at Happiest Minds as a member of the Executive Board is now inducted to the 
+Board of Directors. Rajiv has played an important role in driving the expansion of the Company's 
+digital business unit over the past four years. The induction of Mittu and Rajiv will add 
+considerable depth to the Board's expertise. With these additions, Happiest Minds Board of 
+Directors now comprises eight members.  
+ Moving on to other updates. I am happy to also share with you that during the reported quarter, 
+Happiest Minds won the CNBC TV18's India Risk Management Award for 2024. Being 
+honoured at such a prestigious platform is a validation of our commitment over the years to plan 
+and execute on best practices and risk management.  
+Our Happiest Minds are an integral part of our business. And our systems, policies and practices are crafted to foster an open culture, enabling our people to discover their potential and 
+participate in shaping their own work-life experience.  Over the years, we have been recognized 
+on people -first initiatives on many forums. During the reported quarter, we were recognized as 
+only one amongst top 30 Future Ready Workplaces of India by Fortune
+® India.  
+A few of you have written to me inquiring why you have sold some of my Happiest Minds 
+shares, particularly since the C ompany has been delivering industry -leading results and we have 
+projected FY 2025 to be our best year since the IPO  in absolute terms . This was done primarily 
+to fund my other two institutions: SKAN, a not -for-profit medical research trust and Happiest 
+Health. Both required investments to fund their growth  as they are on their way to become 
+greater institutions.  
+ In the past I have also mentioned that I will not permit my shareholding in Happiest Minds to go below 40%. The current sale has brought my shareholding down to about 45%. And I do not 
+expect to make any further sale in the next two to four years. I have a lso exchanged a mail with 
+the shareholders explaining this reasoning. I'm happy to tell you that I've received over 500 
+replies and I'm delighted at this engagement with our shareholders.  
+ Happiest Minds Technologies Limited  
+  August 13, 202 4 
+ 
+Page 4 of 14  
+ 
+ In closing, let me assure you that my commitment to you, the shareholders and investors and 
+Happiest Minds is unwavering and I remain confident of achieving our vision of achieving our 
+billion -dollar revenue goal by 2031.  
+ With this, I conclude my commentary. And over to you, Venkat.  
+Venkatraman Narayanan  I am happy to share that we have delivered exceptional performance with revenues of US $ 55.5 Million for the quarte r which is a  growth of 10.9% Q -o-Q and 16.8% Y -o-Y. Now that number 
+in constant currency is even better at 11.4% Q -o-Q growth and 17.8% Y -o-Y. 
+The growth is a combination of our organic growth engine with a strong impetus from our 
+recently concluded acquisitions. We reported a total income of ₹ 489 crores, which is a growth 
+of 20.6% from the previous year.  
+As a result of the reorganization, our investor presentation and fact sheet have undergone a few 
+changes.   
+• We are now calling out our Generative AI business services  or GBS  revenues separately. 
+The GBS BU revenues include AI services, which is embedded in our revenues from the 
+analytics and terms of excellence.  
+• We now have Product and Digital Engineering Services  (PDES)  as a new BU formed by the 
+merger of the erstwhile Product Engineering Services  (PES)  and Digital Business Services  
+(DBS) into Product & Digital Engineering Services (PDES) .  
+ Revenues of PureSoftware and Aureus have been consolidated into the PDES business, and they 
+have been consolidated with effective May 22 and May 24, 2024, respectively. O ur results 
+include 40 days of PureSoftware and 38 days of Aureus. PureSoftware has taken us into new 
+markets of APAC and Africa, while Aureus takes us into Hyderabad. These new markets that 
+have come through acquired businesses have also been shown in our fact sheet.  
+ Coming to the other financial metrics. We reported an EBITDA of ₹ 117 crores, which is 23.9% 
+of total income and has shown a growth of 13.3% Y -o-Y and 7.8% Q -o-Q. We continue to 
+maintain our good margin profile, which includes the acquisitions and  by influencing the levers 
+available to us like utilization and other operational efficiencies.  
+We also continue to make investments in new technology areas and the new BU of  GBS . We 
+reported an operating profit, which we define as EBITDA, excluding other income at 19.8% of 
+revenue. This is similar to the previous quarters , at ₹92 crores, this metric showed a Q -o-Q 
+growth of 9.6% and Y -o-Y growth of 2.4%.  
+ A question that comes up from our result s is the drop in our PBT and PAT. During the quarter 
+coming out of the two acquisitions from an accounting standpoint, we have taken significant 
+increases on account of two non- cash charges and one cash charge. The non -cash charges are 
+amortization of intan gibles and unwinding interest cost on deferred payments. The one -time cash 
+charge is acquisition -related costs.  
+ Happiest Minds Technologies Limited  
+  August 13, 202 4 
+ 
+Page 5 of 14  
+ 
+The non-cash charges of amortization and intangible show an increase of ₹  6.8 crores and ₹ 1.5 
+crores, respectively.  
+ We also had a one -time acquisition related cost of ₹  6.4 crores. This is a real one-time cost and 
+a cash charge which will not repeat. On top of this, we also had an exceptional write-back of ₹ 
+13 crores in the previous quarter. So, if you consider the ₹ 13 crores of exceptional write-back in 
+the previous quarter, take it along with the cash charge of the ₹ 6.5 crores of acquisition cost, we 
+are talking about a swing of ₹20 crores on account of one -time exceptional costs. If one were to 
+adjust for these cos ts, our PBT would have been similar to that of the previous quarters in 
+absolute terms.  
+ Coming to certain other metrics. We have improved our DSO from 87 to 84 days. Cash on our 
+books is about ₹1,560 crores. This is after considering upfront payments of PureSoftware and 
+Aureus, which have been funded through a combination of internal accruals and overdraft 
+facilities that we have availed on our fixed deposits. Cash expended on payment of upfront 
+consideration for the two acquisitions was about ₹ 712 crores. We continue to report solid cash 
+conversion ratios and our free cash conversion was at  about ₹ 116 crores and almost equal to 
+100% of our EBITDA.  
+ Return on capital metrics of ROCE and ROE are at 22.4% and 13.9%, respectively. These ratios 
+are expected to gradually move up as the benefits of consolidation of the acquired entities start 
+to trickle in. Including PureSoftware and Aureus, Happiest Minds is now 6,600 strong with a 
+strong net addition of 1,431. These numbers also include 112 campus hires that we made during the quarter. Our gender diversity ratio stands at 27.7%. Attrition on a trailing 12-month basis 
+has dropped to 13.5% from the 16.6% in the previous year. We expect these numbers to trend at 
+these levels.  
+ Our utilization for the quarter has edged up to 78.2% compared to 75.1% in Q1. Here I would 
+like to say there was a significant influence of both PureSoftware and Aureus which have a 
+reasonably good utilization numbers when compared to Happiest Minds. Util ization in the next 
+quarter is expected to trend a little lower, considering the campus joiners and also we have got 
+lesser number of billing days.  
+There is a Non Convertible Debenture ( NCD) press release that you would have seen that we 
+are planning to raise non-convertible debentures. We have taken an in -principle  approval from 
+the Board to raise up to ₹  250 crores through a combination of NCD and term loans. These NCDs 
+will be short- term debt instruments,  and we have been tapping this route to raise funds for 
+general corporate purposes and as these come at an attractive effective yield.  
+ On the M&A part, we had a great start to the year with the two acquisitions that we talked about. 
+Both the acquired companies are excellent businesses which have complemented our capabilities 
+and strengthened our presence in the BFSI and Healthcare vertical. They've also taken us to the 
+new markets. An integration team is in place which is working with an immediate imperative of 
+realizing operational synergies with the acquired entities. We are very optimistic that these 
+efforts will start yielding positiv e results in the coming quarters.  

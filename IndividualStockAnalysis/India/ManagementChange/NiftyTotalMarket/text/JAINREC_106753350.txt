@@ -1,0 +1,29 @@
+--- ROID_25795_WebXMLFile_20260822_131100272_2.xml (the exchange's structured disclosure) ---
+NSESymbol: JAINREC ; Name Of The Company: JAIN RESOURCE RECYCLING LIMITED ; Scrip Code: 544537 ; MSEISymbol: NOTLISTED ; ISIN: INE0YD401026 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-08-22 ; Time Of Occurrence Of Event Or Information: 11:10:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-08-22 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 14004532 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-22 ; Salutation: Ms. ; Name Of The Person: REVATHI RAGHUNATHAN ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-08-19 ; Effective Date Of Resignation: 2026-08-19 ; Reason Of Resignation In Brief: The resignation is due to personal reasons ; Name Of Director: REVATHI RAGHUNATHAN ; Name Of The Company In Which Holding Directorship: Veranda Learning Solutions Limited ; Category Of Directorship: Independent Director ; Membership Of Board Committee: Audit Committee Chairperson NRC Member SRC Member ; Name Of The Company In Which Holding Directorship: WS INDUSTRIES (INDIA) LIMITED ; Membership Of Board Committee: Audit Committee Member NRC Member SRC Member Allotment Committee Chairperson
+
+--- RID_544537_22082026131058_1.pdf ---
+19th August 2026
+To
+The Board of Directors,
+Jain Resource Recycling Ltd
+The Lattice 4th Floor
+Old No 7/1, New No.20,
+Bishop Erza Sarugunam Road
+Kilpauk, Chennai - 600010
+Sub: Resignation from the position of Independent Director.
+Dear Sirs,
+I , Revathi S Raghunathan, holding DIN 1254043, hereby tender my resignation as
+Independent Director of Jain Resource Recycling Ltd Ltd, eVective from today, the 19th
+August, 2026.
+The resignation is due to personal reasons. I further conﬁrm that there are no other
+material reasons for my resignation other than the one mentioned above.
+I would like to thank the Board of Directors for their support and guidance during my
+tenure and I wish the company success in its future endeavours.
+Kindly acknowledge the receipt of this resignation and initiate the necessary forms with
+the Registrar of Companies (ROC) and the Stock Exchanges.
+
+Yours Sincerely
+Revathi S Raghunathan
+DIN No: 1254043
+
+

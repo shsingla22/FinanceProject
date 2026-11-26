@@ -1,0 +1,39 @@
+--- CIM_1583_WebXMLFile_20260831_213558636_1.xml (the exchange's structured disclosure) ---
+NSESymbol: BANKBARODA ; Name Of The Company: Bank Of Baroda ; Scrip Code: 532134 ; MSEISymbol: NOTLISTED ; ISIN: INE028A01039 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-31 ; Time Of Occurrence Of Event Or Information: 21:05:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-31 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: CGM, OFFICER ON SPECIAL DUTY, IT PROJECTS, BCC, MUMBAI ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: SHUKLA SAURABH RAVISHANKAR ; Effective Date Of Reason Of Change: 2026-08-31 ; Salutation: Mr. ; Name Of The Person: SHUKLA SAURABH RAVISHANKAR ; Designation Of Person: CGM, OFFICER ON SPECIAL DUTY, IT PROJECTS, BCC, MUMBAI ; Date On Which The Resignation Letter Was Received: 2026-06-01 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: Personal & Professional aspirations
+
+--- VRS_2.pdf ---
+Chief General Manager (HRM & Marketing)
+Bank of Baroda,
+Baroda Corporate Center,
+Mumbai -400051
+
+01.06.2026
+
+Subject: Application for Voluntary Retirement Under Pension Regulations
+Dear Sir,
+I wish to formally submit my application for Voluntary Retirement from the services of the Bank
+under the applicable Voluntary Retirement Scheme under the Pension Regulations, with effect
+from 01.06.2026 and request the relieving on 31.08.2026.
+After more than two decades of association with the Bank, this decision comes after careful
+consideration and reflection on my personal and professional aspirations.
+I am deeply grateful to the Bank for the trust and confidence reposed in me throughout my career.
+I have been fortunate to work with inspiring leaders, dedicated colleagues, and talented teams
+whose support, collaboration, and commitment have enabled every achievement.
+My tenure with the Bank has been immensely fulfilling and enriching. I have had the privilege of
+serving in diverse roles across Information Technology and Digital functions, contributing to key
+initiatives that supported the Bank's modernization and transformation journey. The opportunities
+entrusted to me over the years have enabled me to grow as a professional, leader, and individual.
+I would like to convey my sincere thanks to the Board and the leadership team for their continuous
+guidance and support. I wish the Bank continued success and greater achievements in the years
+ahead.
+I remain committed to ensuring a smooth transition of responsibilities and will extend my full
+cooperation during the period leading up to my retirement.
+Thank you for providing me with the opportunity to serve this esteemed institution and contribute
+to its growth and transformation.
+
+Yours faithfully,
+
+Saurabh Shukla
+Chief Technology Officer
+
+

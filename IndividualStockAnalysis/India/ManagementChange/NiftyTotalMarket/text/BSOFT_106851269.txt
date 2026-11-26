@@ -1,0 +1,237 @@
+--- CIM_1826_WebXMLFile_20261106_181854771_2.xml (the exchange's structured disclosure) ---
+NSESymbol: BSOFT ; Name Of The Company: BIRLASOFT LIMITED ; Scrip Code: 532400 ; MSEISymbol: NOTLISTED ; ISIN: INE836A01035 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-11-06 ; Start Time Of Board Meeting: 17:45:00 ; End Time Of Board Meeting: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-11-06 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: CEO-MD ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Angan Guha ; Effective Date Of Reason Of Change: 2026-12-07 ; Type Of Change: Appointment ; Name Of Designated Person: Madhavan Hariharan ; Effective Date Of Reason Of Change: 2026-12-08 ; Term Of Appointment In Months: 24 ; Brief Profile: Mr. Madhavan Hariharan is a seasoned professional with extensive international experience in finance, strategy and governance, with a strong focus on institution building and talent development. Since January 2018, he has been associated with the CKA Birla Group, New Delhi, as Group CFO & Head of Strategy, with responsibility for group strategy, finance, governance and risk management across the Group’s businesses in India, Europe and the USA, comprising four listed companies, five unlisted companies and multiple non-profit institutions. Prior to joining the CKA Birla Group, he held various leadership roles with Ashok Leyland, PepsiCo, Tata SIA and Royal Philips, Netherlands. He holds a Bachelor of Commerce degree from Vivekananda College, Chennai (1986), and is a qualified Chartered Accountant (ICAI, 1989), Company Secretary (ICSI, 2004) and Certified Information Systems Auditor (ISACA, USA, 2004). He has also completed the Mobilizing Non-Profit Boards programme at Harvard University (2016) and various executive development programmes, including at Wharton and IIM-D. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Not related to any Directors ; Salutation: Mr. ; Name Of The Person: Angan Guha ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-11-06 ; Effective Date Of Resignation: 2026-12-07 ; Reason Of Resignation In Brief: Personal reasons
+
+--- CIMG_532400_06112026181836_1.pdf ---
+November 6, 2026
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400001.
+
+National Stock Exchange of India Ltd.,
+Exchange Plaza, C/1, G Block,
+Bandra - Kurla Complex, Bandra (E),
+Mumbai – 400051.
+
+Scrip ID: BSOFT
+Scrip Code: 532400
+
+Symbol: BSOFT
+Series: EQ
+
+Kind Attn: The Manager,
+Department of Corporate Services
+
+Kind Attn: The Manager,
+Listing Department
+
+Subject:
+
+Intimation under Regulation 30 of the Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”)
+
+Dear Sir/Madam,
+Pursuant to Regulation 30 of the Listing Regulations, this is to inform you that the Board of
+Directors of the Company, at its meeting held today, i.e. Friday, November 6, 2026, inter alia,
+considered and noted/approved the following:
+a) Resignation of Mr. Angan Guha as Director, Chief Executive Officer and Managing
+Director
+The Board took note of the resignation of Mr. Angan Guha (DIN: 09791436) as a Director,
+and from the position of Chief Executive Officer and Managing Director (“CEO and MD”)
+and Key Managerial Personnel of the Company, due to personal reasons.
+Mr. Guha will accordingly cease to be a Director, CEO and MD and Key Managerial
+Personnel of the Company with effect from the close of business hours on December 7,
+2026.
+b) Appointment of Mr. Madhavan Hariharan as Additional Director, Chief Executive Officer
+and Managing Director
+Based on the recommendation of the Nomination and Remuneration Committee, the
+Board approved the appointment of Mr. Madhavan Hariharan (DIN: 07217072) as an
+Additional Director, to be designated as Chief Executive Officer and Managing Director
+and Key Managerial Personnel of the Company, for a period of 2 years with effect from
+December 8, 2026, subject to the approval of the members of the Company and such
+other approvals as may be required under applicable law.
+
+
+Mr. Madhavan Hariharan is not debarred from holding the office of Director by virtue of
+any order passed by the Securities and Exchange Board of India or any other such
+authority.
+The details required pursuant to Regulation 30 of the Listing Regulations read with the
+applicable SEBI Master Circular, as amended from time to time, are enclosed as Annexure A
+and Annexure B, respectively. A copy of the resignation letter received from Angan Guha is
+also enclosed.
+The Board meeting commenced at 5.45 pm and concluded at 6 pm.
+This intimation is also being made available
+https://www.birlasoft.com/company/investors.
+Kindly take the same on record.
+Thanking you.
+Yours faithfully,
+For Birlasoft Limited
+
+Sneha
+Prashant
+Padve
+
+Digitally signed by
+Sneha Prashant Padve
+Date: 2026.11.06
+18:08:24 +05'30'
+
+Sneha Padve
+Company Secretary & Compliance Officer
+Membership No. A9678
+
+on
+
+the
+
+Company’s
+
+website
+
+at
+
+
+Annexure A – Appointment of Mr. Madhavan Hariharan as Additional Director, Chief Executive
+Officer & Managing Director of the Company
+Sr. No
+
+Particulars
+
+1.
+
+Reason for change viz.
+appointment
+
+2.
+
+Date of appointment
+
+3.
+
+Brief profile (in case of
+appointment)
+
+4.
+
+Disclosure of relationships
+between Directors (in case of
+appointment of a director)
+
+Details
+Appointment of Mr. Madhavan Hariharan
+(DIN: 07217072) as an Additional Director, to be
+designated as Chief Executive Officer and Managing
+Director and Key Managerial Personnel of the
+Company.
+With effect from December 8, 2026, for a period of
+2 years, subject to the approval of the members of
+the Company and such other approvals as may be
+required under applicable law.
+Mr. Madhavan Hariharan is a seasoned professional
+with extensive international experience in finance,
+strategy and governance, with a strong focus on
+institution building and talent development. Since
+January 2018, he has been associated with the CKA
+Birla Group, New Delhi, as Group CFO & Head of
+Strategy, with responsibility for group strategy,
+finance, governance and risk management across
+the Group’s businesses in India, Europe and the
+USA, comprising four listed companies, five unlisted
+companies and multiple non-profit institutions.
+Prior to joining the CKA Birla Group, he held various
+leadership roles with Ashok Leyland, PepsiCo, Tata
+SIA and Royal Philips, Netherlands. He holds a
+Bachelor of Commerce degree from Vivekananda
+College, Chennai (1986), and is a qualified
+Chartered Accountant (ICAI, 1989), Company
+Secretary (ICSI, 2004) and Certified Information
+Systems Auditor (ISACA, USA, 2004). He has also
+completed the Mobilizing Non-Profit Boards
+programme at Harvard University (2016) and
+various executive development programmes,
+including at Wharton and IIM-D.
+Mr. Madhavan Hariharan is not related to any
+Directors of the Company.
+
+
+Annexure B – Resignation of Angan Guha as Director, Chief Executive Officer and Managing
+Director
+Sr. No
+
+Particulars
+
+1.
+
+Reason for change viz.
+resignation
+
+2.
+
+Date of Cessation
+
+3.
+
+Brief profile (in case of
+appointment)
+Disclosure of relationships
+between Directors (in case of
+appointment of a director)
+
+4.
+
+Details
+Mr. Angan Guha (DIN: 09791436) has tendered his
+resignation as a Director and from the position of
+Chief Executive Officer and Managing Director and
+Key Managerial Personnel of the Company, due to
+personal reasons.
+With effect from the close of business hours on
+December 7, 2026.
+Not Applicable
+Not Applicable
+
+
+Subject:
+
+FW: Resignation from the Post of Managing Director and CEO
+
+From: Angan Guha <
+Sent: 06 November 2026 10:02
+To: Arnita Birla <
+Subject: Resignation from the Post of Managing Director and CEO
+Classification: Public
+Dear Arnita
+I am hereby resigning from the post of Managing Director and CEO due to personal reasons. I will abide by the
+terms and condition of my employment contract.
+I agree to complete all requisite formalities ( in any} to give effect to my resignation
+I thank the Board for the support provided to me during my tenure and wish the company future success
+Thanking you
+Yours Truly
+Angan
+
+Thanks & regards,
+Angan Guha
+
+MD&CEO
+
+birlasoft Limited
++
+US Cell
++
+India Cell
+
+**************************************************************************************************
+********************************************************************************** "This email and
+any files transmitted with it are confidential and intended solely for the use of the individual or entity to
+which they are addressed. If you have received this email in error, please notify on the
+mailadmin@birlasoft.com immediately without opening the mail and attachment. Please note that any
+views or opinions presented in this email are solely those of the author and do not necessarily represent
+those of the company. Finally, the recipient should check this email and any attachments for the
+presence of viruses. The company accepts no liability for any damage caused by any virus transmitted by
+this email"
+**************************************************************************************************
+**********************************************************************************
+1
+
+

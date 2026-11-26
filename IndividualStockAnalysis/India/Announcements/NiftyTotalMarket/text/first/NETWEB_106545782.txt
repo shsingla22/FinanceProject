@@ -1,0 +1,155 @@
+ 
+Netweb Technologies India Limited  
+Plot No. H -1, Block -H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, Haryana 
+121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E -mail : complianceofficer@netwebindia.com  
+ 
+CIN : L72100HR1999PLC103911  
+Date: 26.02.2026  
+ 
+To 
+National Securities Depository Ltd.  
+Trade World, 4th Floor  
+Kamala Mills Compound  
+Senapati Bapat Marg,  Lower Parel  
+Mumbai – 400 013  To, 
+Central Depository Services (India) Ltd.  
+16th Floor, P.J. Towers,  
+Dalal Street, Fort,  
+Mumbai – 400 001  
+ 
+ 
+Sub: General Update  
+ 
+Dear Sir,  
+This is in reference to the press release issued by the Vert iv Holding s Co dated 26.02.2026 , annex to 
+this intimation (Annexure 1)  mentioning a  strategic collaboration with our Company.  
+In this regard , we wish to clarify that based on the Company’s internal assessment of materiality in 
+accordance with Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, the same does not qualify as a material event requiring mandatory disclosure to 
+the stock exchanges at this stage .  
+However, in view of the press release issued by the Vertiv Holdings Co , and in order to maintain 
+transparency , avoid any potential market speculation, and uphold principles of good corporate 
+governance  we are submitting  this update to the stock exchange.  
+Kindly take the same on your records.   
+ 
+Thanking You,   
+Yours faithfully,  
+For Netweb Technologies India Limited  
+ 
+ 
+Lohit Chhabra  
+Company Secretary and Compliance officer  
+ 
+ 
+ 
+ Vertiv News Release  
+ 1 
+Vertiv and Netweb Technologies to Deliver Advanced Liquid -Cooled Rack Solutions for AI 
+Data Centers in India  
+ 
+Mumbai, India [February 26, 2026 ] – Vertiv (NYSE: VRT), a global leader in critical digital infrastructure, 
+today announced a collaboration with Netweb Technologies India Ltd., a leading Indian high-end computing 
+solutions provider, to  jointly engineer and validate  Netweb’s cutting -edge , in-house designed  GPU compute 
+platforms with Vertiv’s integrated, end -to-end AI data center solutions . 
+ 
+Netweb ’s rack -scale solutions  will leverage Vertiv’s , liquid cooling infrastructure , including  coolant distribution 
+units  and free cooling chillers ;and advanced power infrastructure that includes busways, and uninterruptible 
+power supply ( UPS) systems  with power conversion and dynamic load management.  The collaboration will 
+allow customers to address the rapidly rising  power  demands of AI workloads and the extreme thermal 
+densities driven by high -performance accelerators .. The validated rack -scale solutions will enable higher rack 
+densities, faster deployment, and reliable  performance for the most demanding AI training and inference 
+environments.  
+ 
+“AI workloads are fundamentally reshaping data center design, pushing power densities and thermal limits 
+beyond what traditional infrastructure can support,”  said Shrirang Deshpande,  general manager for strategic 
+planning new business development  at Vertiv India . “By combining Vertiv’s global expertise in liquid cooling, 
+power, and critical infrastructure with Netweb’s indigenous high -performance compute platforms , such as 
+their latest and most powerful  Netweb  Tyrone platform s designed using next generation GPUs , we are 
+enabling scalable, future -ready  AI infrastructure that is engineered and manufactured in India, for India and 
+global markets.”  
+ 
+Both Vertiv and Netweb operate design, engineering, and manufacturing facilities in India, reinforcing the 
+Make in India  initiative and strengthening the country’s position as a global hub for AI infrastructure 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vertiv News Rel ease  
+ 2 innovation and export. This “India for India, India for the world” approach enhances domestic self -reliance 
+while supporting global supply chains.  The engagement between Vertiv and Netweb aligns with the 
+preferential tax regulations for foreign cloud service providers and data centre operators in India, further 
+supporting  the country’s  position as a global AI and digital infrastructure hub . 
+“This initiative allows us to collaboratively work on designing complex cooling technologies , including Direct 
+to Chip cooling for our GPU accelerated AI & HPC Systems , right at the stage  of conceptualization of product 
+designs —deliver fully validated, rack -scale AI systems where compute, cooling, and power are designed to 
+work together,”  said Hirdey Vikram , senior vice president  at Netweb Technologies . “OEM -level collaboration 
+with Vertiv to jointly work strengthens our ability to design and manufacture world’s latest architecture GPU 
+systems  and populate with DLC technologies to cross 2 00KW IT load limits per rack unit . This engagement 
+will support India’s  and world’s growing  AI ecosystem while delivering high -density  and future -ready AI 
+infrastructure for enterprises, cloud providers, and research institutions worldwide.”  
+ 
+Environmental r esponsib ility is a core focus of the collaboration. Vertiv’s liquid cooling solutions  are designed 
+to significantly improve energy efficiency compared to conventional air -cooled architectures  and to reduce 
+water usage compared to traditional water -cooled technologies , helping lower the environmental impact of 
+power -intensive AI workloads while supporting  India’s energy efficiency  and environmental responsibility 
+goals.  
+ 
+The integrated liquid -cooled rack stack solutions are designed to enhance overall data center operational and 
+energy efficiency, offering superior thermal performance, optimized power utilization, and scalable 
+architectures to support large -scale AI deployments. The collaboration underscores both companies’ 
+commitment to advancing resilient, efficient, and reliable  AI infrastructure for the next phase of digital growth.  
+ 
+To learn more about Vertiv, visit Vertiv.com . To learn more about Netweb Technologies, visit 
+Netweb india.com.  
+ 
+# # #  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vertiv News Rel ease  
+ 3  About Vertiv  
+ 
+Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ 
+vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most 
+important challenges facing today’s data centers, communication networks and commercial and industrial facilities 
+with a portfolio of power, cooling and IT infrastructure solutions and services that extends from the cloud to the 
+edge of the network. Headquartered in Westerville, Ohio , USA, Vertiv does business in more than 130 countries. 
+For more information, and for the latest news and content from Vertiv, visit Vertiv.com . 
+ 
+Forward -Looking Statements  
+This release contains forward -looking statements within the meaning of the Private Securities Litigation Reform 
+Act of 1995, Section 27 of the Securities Act, and Section 21E of the Securities Exchange Act. These statements 
+are only a prediction. Actual ev ents or results may differ materially from those in the forward -looking statements 
+set forth herein. Readers are referred to Vertiv’s filings with the Securities and Exchange Commission, including its 
+most recent Annual Report on Form 10 -K and any subseque nt Quarterly Reports on Form 10 -Q for a discussion of 
+these and other important risk factors concerning Vertiv and its operations. Vertiv is under no obligation to, and 
+expressly disclaims any obligation to, update or alter its forward -looking statements, whether as a result of new 
+information, future events or otherwise.  
+ 
+About Netweb Technologies  
+NETWEB (NSE: NETWEB) the leading Indian OEM  for high-end computing solutions (HCS) comprising  High 
+Performance Computing Systems , Private Cloud -HCI , AI Systems , High Performance Storage Systems and Data 
+Centre Servers , have fully integrated design , SMT (surface mount technology) and manufacturing capabilities  in 
+India .  
+ 
+ 
+For media inquiries, please contact:   
+Himanshu Gonsola  
+Adfactors PR  
+E: Himanshu.gonsola@adfactorspr.com   
+ 
+ 

@@ -1,0 +1,566 @@
+Aug
+ust 13, 2024  
+Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400 001  
+Scr
+ip Code: 500271  Listing Department  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (East)  
+Mumbai – 400 051  
+Nam
+e of Scrip: MFSL  
+Sub.
+:   Disclosure under SEBI (LODR) Regulations, 2015 – Outcome of Board meeting 
+on approval of financial results 
+Dear
+ Sir/Madam,  
+Pl
+ease refer to our letter dated June 26, 2024, on the above subject.  In this regard, we wish 
+to inform you that the Board of Directors of the Company in its meeting held today has, inter -
+alia considered and approved the following:  
+(i) U
+naudited Standalone and Consolidated financial results of the Company for the quarter
+ended June 30, 2024,  and noted the Limited Review  Report  thereon  issued by the
+Statutory Auditors.   The said financial results and the Limited Review Report for the said
+period are attached herewith; and
+(ii) A
+ppointment of M/s Sanjay Grover & Associates, Company Secretaries, as the
+Secretarial Auditors of the Company to conduct the Secretarial Audit for the financial
+year 2024- 25. The details required under Regulation 30 of the Listing Regulations read
+with SEBI Circular No SEBI/HO/CFD/CFD‐ PoD1/P/CIR/2023/123 dated July 13, 2023 ,
+are enclosed as Annexure – A.
+The Board meeting commenced at 1630 hrs . and concluded at 1815 hrs. today . 
+You 
+are kindly requested to take note of the  above on record and arrange to disseminate the 
+information to the public.  
+s 
+Thanking you,  
+Yours faithfully,  
+For Max Financial Services Limited 
+Pi
+yush Soni  
+Company Secretary & Compliance Officer  
+Enc
+l.: As above 
+12th Floor, The Ruby
+29 Senapati Bapat Marg
+Dadar (West)
+Mumbai - 400 028, India
+Tel: +91 22 6819 8000
+Independent Auditor’s Review Report on the Quarterly Unaudited Standalone Financial Results of the
+Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended
+Review Report to
+The Board of Directors
+Max Financial Services Limited
+1.We have reviewed the accompanying statement of unaudited standalone financial results of Max Financial
+Services Limited (the “Company”) for the quarter ended June 30, 2024 (the “Statement”) attached herewith,
+being submitted by the Company pursuant to the requirements of Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (the “Listing Regulations”).
+2.The Company’s Management is responsible for the preparation of the Statement in accordance with the
+recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) “Interim
+Financial Reporting” prescribed under Section 133 of the Companies Act, 2013 as amended, read with
+relevant rules issued thereunder and other accounting principles generally accepted in India and in
+compliance with Regulation 33 of the Listing Regulations. The Statement has been approved by the
+Company’s Board of Directors. Our responsibility is to express a conclusion on the Statement based on our
+review.
+3.We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410, “ Review of Interim Financial Information Performed by the Independent Auditor of the Entity”
+issued by the Institute of Chartered Accountants of India. This standard requires that we plan and perform
+the review to obtain moderate assurance as to whether the Statement is free of material misstatement. A
+review of interim financial information consists of making inquiries, primarily of persons responsible for
+financial and accounting matters, and applying analytical and other review procedures. A review is
+substantially less in scope than an audit conducted in accordance with Standards on Auditing and
+consequently does not enable us to obtain assurance that we would become aware of all significant matters
+that might be identified in an audit. Accordingly, we do not express an audit opinion.
+4.Based on our review conducted as above, nothing has come to our attention that causes us to believe that
+the accompanying Statement, prepared in accordance with the recognition and measurement principles laid
+down in the aforesaid Indian Accounting Standards (‘Ind AS’) specified under Section 133 of the Companies
+Act, 2013 as amended, read with relevant rules issued thereunder and other accounting principles generally
+accepted in India, has not disclosed the information required to be disclosed in terms of the Listing
+Regulations, including the manner in which it is to be disclosed, or that it contains any material
+misstatement.
+ForS.R. Batliboi & Co. LLP
+Chartered Accountants
+ICAI Firm Registration Number: 301003E/E300005
+per Pikashoo Mutha
+Partner
+Membership No: 131658
+UDIN: 24131658BKGLME2002
+Place of Signature: Gurugram
+Date: August 13, 2024
+Max Financial Services Limited 
+L24223P81988P1C008031 
+Registered Office: Ithai Mohan Singh Nagar, Rail Majra, Tehsil Salachaur, District Nawanshahr, Punjab - 144533 
+WebsIts: www.maxfinancialservices.com 
+STATEMENT OF STANDALONE FINANCIAL RESULTS FOR THE QUARTER ENDED JUNE 30, 2024 
+data) 
+Particulars 3 months ended 
+30.06.2024 3 months ended 
+31.03.2024 3 months ended 
+30.06.2023 Year ended 
+31.03.2024 
+(Unaudited) (Unaudited) 
+(See note 3) (Unaudited) (Audited) 
+1. Revenue from operations 
+(a) Interest Income 0.88 0.97 0.55 2.79 
+(b) Rental Income - . -
+(c) Gain on fair value changes 
+- on investments In mutual funds 0.21 0.29 0.68 2.04 
+(d) Sale of services 2.63 3.25 3.85 16.60 
+2. Total revenue from operations 3.72 4.51 5.08 21.43 
+3. Other Income 0.05 0.25 0.04 0.29 
+4. Total Income (2+3) 3.77 4.76 5.12 21.72 
+5. Expenses 
+(a) Finance costs 0.03 0.04 0.03 0.11 
+(b) Employee benefits expenses 1.23 1.24 1.26 6.18 
+(c) Depreciation, amortisation and Impairment 0.31 0.31 0.59 1.59 
+(d) Legal and professional expenses 2.77 4.14 3.89 16.19 
+(e) Other expenses 1.75 2.98 1.52 9.21 
+6. Total expenses 6.09 8.71 7.29 33.28 
+7. Profit / (loss) before tax (4-6) (2.32) (3.95) (2.17) (11.56) 
+8. Tax expense 
+(a) Current tax expense / (credit) . . - -
+(b) Deferred tax charge / (credit) 0.28 (0.27) 0.20 (0.32), 
+9. Total tax expense / (credit) 0.28 (0.27) 0.20 (0.32) 
+10. Profit / (loss) for the period / year (7-9) (2.60) (3.68) (2.37) (11.24) 
+11. Other comprehensive income / (loss): 
+Items that will not be reclassified to profit or loss: 
+- Remeasurement of the defined benefit obligations (0.03) (0.02) (0.13) 
+Income tax relating to items that will not be reclassified to profit or loss 0.01 0.03 
+12. Total other comprehensive income / (loss) (0.02) (0.02) (0.10) 
+13. Total comprehensive income / (loss) (10+12) (2.62) (3.68) (2.39) (11.34) 
+14. Paid-up equity share capital (Face value of Rs. 2) 69.02 69.02 69.02 69.02 
+15, Other eoulty 6.683.05 
+16. Earnings per share (EPS) (Rs.) (not annualised) 
+(a) Basic EPS (0.08) (0.11) (0.07) (0.33) 
+(b) Diluted EPS (0.081 (0.111 (0.071 (0.331 
+See accompanying notes to the standalone financial results 
+cazoliCe 
+Date : August 13, 2024 
+Place : Gurugram By Order of the Board 
+Malin Sinah 
+Chairman 
+DIN : 00029641 
+
+Max Financial Services Limited 
+CIN:124223PB1988PLC008031 
+Registered Office: Thal Mohan Singh Nagar, Rail MaJra, Tehail Balachaur, District Nawanshahr, Punjab - 144533 
+Website: www.maxfinancialservices.com 
+Notes to the standalone financial results: 
+1 These standalone unaudited financial results for the quarter ended June 30, 2024 have been reviewed by the Audit Committee and approved by the 
+Board of Directors of the Company at its meeting held today. These results have been reviewed by the statutory auditors of the Company. 
+2 The standalone unaudited finandal results of the Company have been prepared in accordance with the recognition and measurement principles laid 
+down in Ind AS 34 "Interim Financial Reporting" prescribed under section 133 of the Companies Act, 2013 read with relevant rules issued 
+thereunder and other accounting principles generally accepted in India. 
+3 Figures for the quarter ended March 31, 2024 are the balancing figures between audited figures in respect of the full financial year and published 
+year to date unaudited figures upto the third quarter of the year ended March 31, 2024. 
+4 The Company is an Unregistered Core Investment Company (Unregistered CIC), and is primarily engaged in the business of growing and nurturing 
+business investments and providing management advisory services to group companies in India. The Company views these activities as one 
+business segment, therefore there are no separate reportable segments as per Indian Accounting Standard -108 (Ind AS-108) on Operating 
+Segment. 
+5 The Board of Directors of the Company in its meeting held on April 27, 2020 approved entering into definitive agreements with Axis Bank for the 
+sale of equity share capital of Max Life Insurance Company Limited ("MLIC"), a subsidiary of the Company, to Axis Bank, subject to receipt of 
+shareholders' approval and other requisite regulatory approvals. The shareholders of the Company approved the transaction on June 16, 2020. 
+On October 30, 2020, the Company, MUG, Axis Bank and its subsidiaries (together "Axis Entities"), i.e. Axis Capital Limited and Axis Securities 
+Limited ("Axis Bank subsidiaries") entered into agreements for acquisition of upto 19.002% of the equity share capital of MLIC ("Agreements"). 
+Pursuant to receipt of all approvals, Axis Bank had acquired 9.002% of the equity share capital of MLIC and Axis Bank subsidiaries acquired 3% of 
+the share capital of MLIC as per Rule 11UA valuation of the Income-tax Rules, 1962 upto March 31, 2022. 
+On January 9, 2023 the Company executed revised agreements with the parties in terms of which Axis Entities have the right to purchase the 
+balance 7% equity stake of MLIC from the Company at Fair Market Value using Discounted Cash Flows instead of valuation as per Rule 11UA of the 
+Income Tax Rules, 1962. This revision in valuation methodology has been done consequent to the guidance received by MLIC from IRDAI. 
+The Board of Directors of the Company in its meeting held on August 9, 2023 took note of MUC's proposal to raise further capital by way of a 
+preferential issue of equity shares to Axis Bank, for an aggregate investment of up to Rs. 1,612 crores in MLIC, at fair market value determined 
+basis DCF methodology ("Capital Infusion"). This revision from secondary sale of transfer of shares to primary issuance of MLIC shares to Axis Bank 
+has been done consequent to the MLIC funding requirements. 
+In this regard, the shareholders of the Company approved the transaction on September 27, 2023. Max Life has received approval from 1RDAI vide 
+its letter dated February 6, 2024 for the Capital infusion. Axis Bank has received approval from Competition Commission of India (CCI) vide its 
+letter dated April 2, 2024 for the Capital infusion. Pursuant to receipt of all regulatory approvals, Axis Bank had subscribed to 6.02% of the equity 
+share capital of MLIC on April 17, 2024. On completion of the Capital Infusion, Axis Entities collectively hold 19.02% of the equity share capital of 
+Max Life and the Company's shareholding in Max Life stood reduced to 80.98% of the equity share capital of Max Life effective April 17, 2024. 
+In addition, the Axis Entitles would have the right to purchase 0.98% of the equity share capital of MLIC from the Company within the timeframe 
+which was earlier agreed between the parties (i.e., 42 months from April 6, 2021). Pending receipt of requisite regulatory approvals, the said 
+transaction cannot be considered concluded at the current date and hence, no adjustments have been made in the financial results. 
+6 On February 15, 2024, the Public Interest litigation ("PIL") filed before the Montle High Court of Delhi by Dr. Subramanian Swamy alleging that 
+Axis Bank & its group companies have made undue profits/ gain from the purchase and sale of the equity shares of the material subsidiary of the 
+Company i.e. Max Life Insurance Company Limited. 
+In this regard, after hearing the arguments from all the parties concerned, the Delhi High Court on August 12, 2024, has declined to admit the PIL. 
+The Hon'ble High Court of Delhi has disposed the matter noting that the matter is under the consideration of concerned regulators and has directed 
+them to complete their inquiry expeditiously and in accordance with the law. Accordingly, management believes that there is no impact on the 
+financials of the Company arising from this PIL. 
+7 The figures for the previous period/year have been regrouped / reclassified wherever necessary, to make them comparable. 
+By Order of the Board 
+-0( 
+Date : August 13, 2024 
+Place : Gurugram Anaijit Singh 
+Chairman 
+DIN : 00029641 
+
+12th Floor, The Ruby
+29 Senapati Bapat Marg
+Dadar (West)
+Mumbai - 400 028, India
+Tel: +91 22 6819 8000
+Independent Auditor’s Review Report on the Quarterly Unaudited Consolidated Financial Results of the
+Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended
+Review Report to
+The Board of Directors
+Max Financial Services Limited
+1. We have reviewed the accompanying Statement of Unaudited Consolidated Financial Results of Max Financial
+Services Limited  (the “Holding Company”) and its subsidiaries (the Holding Company and its subsidiaries
+together referred to as “the Group”), for the quarter ended June 30, 2024  (the “Statement”) attached herewith,
+being submitted by the Holding Company pursuant to the requirements of Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended (the “Listing Regulations”).
+2. The Holding Company’s Management is responsible for the preparation of the Statement in accordance with the
+recognition and measurement principles laid down in Indian Accounting Standard 34, (Ind AS 34) “Interim
+Financial Reporting” prescribed under Section 133 of the Companies Act, 2013 as amended, read with relevant
+rules issued thereunder and other accounting principles generally accepted in India and in compliance with
+Regulation 33 of the Listing Regulations. The Statement has been approved by the Holding Company’s Board
+of Directors. Our responsibility is to express a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410, “Review of Interim Financial Information Performed by the Independent Auditor of the Entity”issued by
+the Institute of Chartered Accountants of India. This standard requires that we plan and perform the review to
+obtain moderate assurance as to whether the Statement is free of material misstatement. A review of interim
+financial information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope than an
+audit conducted in accordance with Standards on Auditing and consequently does not enable us to obtain
+assurance that we would become aware of all significant matters that might be identified in an audit.
+Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the Master Circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+4. The Statement includes the results of the following entities:
+a. Max Life Insurance Company Limited (“MLIC")
+b. Max Life Pension Fund Management Limited (“MLPFM”)
+c. Max Financial Employees Welfare Trust (“MFEWT”)
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based on the
+consideration of the review report of other auditor referred to in paragraph 6 below and the certificate of the
+appointed actuary referred to in paragraph 8 below, nothing has come to our attention that causes us to believe
+that the accompanying Statement, prepared in accordance with recognition and measurement principles laid
+down in the aforesaid Indian Accounting Standards (‘Ind AS’) specified under Section 133 of the Companies
+Act, 2013, as amended, read with relevant rules issued thereunder and other accounting principles generally
+accepted in India, has not disclosed the information required to be disclosed in terms of the Listing Regulations,
+including the manner in which it is to be disclosed, or that it contains any material misstatement.
+6. The accompanying Statement includes the unaudited interim financial results and other financial information, in
+respect of:
+One subsidiary, whose unaudited interim financial results include total revenues of Rs 1.25 crores, total
+net loss after tax of Rs. 0.71 crores, total comprehensive loss of Rs. 0.71 crores for the quarter ended June
+30, 2024, as considered in the Statement which have been reviewed by their independent auditor.
+The independent auditor’s report on interim financial results of Max Life Pension Fund Management Limited
+have been furnished to us by the Management and our conclusion on the Statement, in so far as it relates to the
+amounts and disclosures in respect of this subsidiary is based solely on the report of such auditor and procedures
+performed by us as stated in paragraph 3 above.
+7. The accompanying Statement includes unaudited interim financial results and other unaudited financial
+information in respect of:
+One subsidiary, whose interim financial results and other financial information reflect total revenues of Rs
+2.47 crores, total net loss after tax of Rs. 0.97 crores, total comprehensive loss of Rs. 0.97 crores for the
+quarter ended June 30, 2024.
+The unaudited interim financial results and other unaudited financial information of the Max Financial Employee
+Welfare Trust have not been reviewed by any auditor and have been approved and furnished to us by the
+Management and our conclusion on the Statement, in so far as it relates to the affairs of this subsidiary is based
+solely on such unaudited interim financial results and other unaudited financial information. According to the
+information and explanations given to us by the Management, these interim financial results are not material to
+the Group.
+8. In respect of MLIC, subsidiary company, determination of the following as at and for the quarter ended June 30,
+2024 is the responsibility of the subsidiary company's Appointed Actuary.
+a. The actuarial valuation of liabilities for life policies in force and for policies in respect of which
+premium has been discontinued but liability exists as at June 30, 2024 is the responsibility of the
+Company's Appointed Actuary (the "Appointed Actuary"). The actuarial valuation of these liabilities
+for life policies in force and for policies in respect of which premium has been discontinued but liability
+exists as at June 30, 2024 has been duly certified by the Appointed Actuary and in his opinion, the
+assumptions for such valuation are in accordance with the guidelines and norms issued by the Insurance
+Regulatory and Development Authority of India ("IRDAI") and the Institute of Actuaries of India in
+concurrence with the IRDAI; and
+b. As confirmed by the Appointed Actuary, required adjustments were made to comply with Indian
+Accounting Standard 104 Insurance Contracts.
+The auditors' of MLIC have relied upon the certificate of the Appointed Actuary in this regard for forming their
+opinion on the valuation of liabilities for life policies in force and for policies in respect of which premium has
+been discontinued but liability exists.
+Our conclusion on the Statement in respect of matters stated in para 6,7 and 8 above is not modified with respect
+to our reliance on the work done and the report of the other auditor and the financial results certified by the
+Management.
+ForS.R. Batliboi & Co. LLP
+Chartered Accountants
+ICAI Firm Registration Number: 301003E/E300005
+per Pikashoo Mutha
+Partner
+Membership No: 131658
+UDIN: 24131658BKGLMF4810
+Place of Signature: Gurugram
+Date: August 13, 2024
+Max Financier Service* Limited 
+L24223P81988PL0006031 
+Registered Office: Mud Mohan Singh Mager, Reenters, Trail SaMeteor, District Newanshehr, Punjab 144533 
+WebsRe: www.magfinanclaisentices.com 
+STATEMENT OF CONSOLI FINANCIAL RESULTS FOR THE QUARTER ENDED JUNE 30, 2024 
+Particulars 3 month. ended 
+30.06.2024 
+(Unaudited) 3 months ended 
+31.03.2024 
+(Unaudited) 
+(See note 2) 3 months ended 
+30.06.2023 
+(Unaudited) Veer ended 
+31.03.2020 
+(Audited) 
+1. Revenue from operations 
+(a) Interest Income 121.98 99.33 91.80 370.29 
+(b) Dividend Income 1.22 0.44 0.76 3.19 
+(c) Rental Income 1.78 1.79 1.72 6.75 
+(d) Net gain on fair value changes 97.36 11.04 31.28 73.55 
+(e) Policyholders' Income from Life Insurance operations 11,626.27 14,773.65 9,041.26 46,116.83 
+(f) Sale of services 0.23 1.56 1.30 5.60 
+2. Total Revenue from operations 11,7118.84 14,857.61 9,1611.12 46,576.22 
+3. Other Income 3.19 10.71 3.39 42.09 
+4. Total Income (2+3) 11,502.03 10,898.52 9,171.46 46,618.31 
+5. expenses 
+(a) Finance costs 9.28 10.81 9.32 43.64 
+(b) Impairment on financial instruments (Including reversals) (0.07) 0.05 (0.94) (4.92) 
+(c) Employee benefits expenses 6.67 6.02 11.31 35.05 
+(d) Depredation, amortisation and impairment 0.72 0.66 0.99 3.19 
+(e) Legal and profeSsional expenses 2.82 9.30 3.95 16.49 
+(f) Policyholders' Expenses of Life Insurance operations 11,599.81 14,920.04 9,022.31 46,075.12 
+(9) Other expenses 6.05 16.03 6.02 34.92 
+6. Total expenses 11,620.28 14,957.91 9,053.48 46,203.49 
+7. Profit before Ma (4-6) 181.75 (59.39) 116.00 414.82 
+8. Tex expense 
+Relating to other than revenue account of Lee Insurance policyholders 
+Current tax 20.43 (9.67) 14.14 49.46 
+Deferred tax charge/ (Credit) 5.38 0.28 2.73 7.03 
+Adjustment of tax relating to earlier periods (See note 5) 0.08 (34.25) 
+Total tax expense 25.81 (9.31) 16.57 22.24 
+9. Profit for the period/ year (7-8) 155.94 (50.08) 101.13 392.58 
+10. Other comprehensive Income (OC1) 
+Relining to revenue account of life Insurance Policyholders 
+(I) Items that will not be reclassified to profit or loss in subsequent periods (1.83) 1.50 (1.51) (7.39) 
+(II) Items that will be reclassified to profit or loss in subsequent periods 381.32 2,246.29 829.42 2,273.39 
+Less: Transferred to policyholders' slid in the balance sheet (379.49) (2,247.79) (827.91) (2,266.05) 
+Relating to Others 
+(I) Items that will not be reclassified to profit or loss In subsequent periods (0.03) (0.02) (0.13) 
+Income tax relating to items that will not be reclassified to profit or loss 0.01 0.03 
+(li) Items that will be reclassified to profit or loss In subsequent periods (0.01) 4.31 3.53 2.59 
+Income tax relating to items that will be reclassified to profit or loss (0.63) (0.51) (0.38) 
+11. Other comprehensive income/(loss) (0.03) 3.68 3.00 2.11 
+12. Total comprehensive Income (9+11) 155.91 (46.40) 104.13 394.69 
+13. Profit attributable to 
+Owners of the company 127.29 (44.05) 87.68 340.08 
+Non-controlling InterestS 29.65 (6.03) 13.45 52.50 
+19. other comprehensive Income/(bee) attributable to 
+Owners of the company (0.03) 3.20 2.61 1.82 
+Non-controlling interests 0.48 0.39 0.29 
+15. Total comprehensive Income attributable to 
+Owners of the company 127.26 (40.85) 90.29 341.90 
+Non-controlling interests 28.65 (5.55) 13.84 52.79 
+16. Paid up Equity Share Capital (Face value of Rs. 2 each) 66.68 68.73 68.71 68.73 
+'17. Other Equity 3,797.20 
+18. Earnings per Share (EPS) (Rs.) (not annualised) 
+(a) Basic EPS 3.69 (1.26) 2.54 9.85 
+(b) Diluted EPS 3.69 (1.28) 2.54 9.85 
+See accompanying notes to the consolidated financial results 
+By Order of the Board 
+oces 
+co Q' fQ 
+a 
+Date ; August 13, 2024 
+Place ; Gurugram 41 Nen Armen Singh 
+Chairman 
+DIN : 00029641 
+
+Max Financial Services Limited 
+CIN: L24223PB1988PLC008031 
+Registered Office: Bhal Mohan Singh Nagar, RaSmoke, Tahiti( Balachaur, District Nawanshahr, Punjab - 144533 
+Website: www.maxfinanclalservices.com 
+CONSOLIDATED SEGMENTWISE REVENUE AND RESULTS FOR THE QUARTER ENDED JUNE 30, 2024 
+(Rs. in 
+Particulars 3 months ended 
+30.06.2024 
+(Unaudited) 3 month. ended 
+31.03.2024 
+(Unaudited) 
+(See note >1 3 months ended 
+30.06.2023 
+(Unaudited) year ended 
+31.03.2024 
+(Audited) 
+1 Segment Revenue 
+a) Life Insurance 11,797.52 14,884.99 9,165.61 46,565.72 
+b) Business Investments 6.43 6.94 7.31 30.92 
+Total 11,803.95 14,891.93 9,172.92 46,596.64 
+Inter segment elimination (net) 5.11 4.1.2 4.80 20.42 
+Revenue from operations (net) 11,798.84 14,887.81 9,168.12 46,576.22 
+2 Segments Results 
+a) Life Insurance 192.89 (55.18) 127.45 427.26 
+b) Business Investments (5.05) (4.11) (3.48) (10.87) 
+Total 187.84 (59.29) 123.97 416,39 
+Inter segment elimination (net) .. .. 
+Sub-total 187.64 (59.29) 123.97 416.39 
+Unallocated (6.09) (0.10) (5.97) (1.57) 
+Profit before tax 181.75 (59.39) 118.00 414.82 
+Provision for taxation (Includes provision for Deferred Tax) 25.81 (9.31) 16.87 22.24 
+Profit for the period/ Year 155.94 (50.08) 101.13 392.58 
+The Operating Segments have been identified on the basis of business activities from which the Group earns revenues and incurs expenses and whose operating results 
+are reviewed by the Chief Operating Decision Maker (CODM) of the Group to make decisions about the resources to be allocated and assess performance and for which 
+discrete financial information is available. 
+tes 
+0-
+
+Max Financial Services Limited 
+CIN:124223P81988PLC008031 
+Registered Office: She' Mohan Singh Nagar, Railmajra, Tehs8 flalacheur, District Navranshahr, Punjab - 144533 
+Webalte: www.marlinancialservices.com 
+following are the Policyholders' Income and Expenses from Life Insurance Operations included In above retells 
+Particulars 3 months ended 
+30.06.2024 
+(unaudited) 3 months ended 
+31.03.2024 
+(unaudited) 
+fees note 21 3 months ended 
+30.06.2023 
+(Unaudited) Year ended — 
+31.03.2024 
+(Audited) 
+A Policyholders' Income from life insurance fund 
+Premium Income (Net) 5,224.66 10,600.56 4,718.40 28,934.27 
+Interest Income 1,896.68 1,790.28 1,626.03 6,826.54 
+Dividend Income 131.41 92.17 149.30 506.54 
+Rental Income 18.42 18.51 16.40 69.17 
+Net gain /(loss) (loss) on fair value changes- Policyholders' Investments 5,210.69 2,684.78 3,413.03 12,310.43 
+Other income (3.71) (0.64) 3.37 3.30 
+Sub-Total 12,478.15 15,185.66 9,926.53 48,650.25 
+Less/ (Add): Restricted life Insurance surplus retained in Policyholders' Fund 851.88 412.01 885.27 2,533.42 
+Total 11,636.37 14,773.65 9,041.26 46,116.83 
+8 Policyholders' Expense of Life Insurance fund 
+Commission to selling agents 452.58 933.99 302.32 2,398.49 
+Employee Benefits and Other Operating Expenses 981.86 1,320.19 866.98 4,141.11 
+Benefits payout (net) 3,582.90 4,484.41 2,797.02 13,321.21 
+Net change in insurance contract liabilities 6,455.76 8,216.98 4,969.68 25,969.63 
+Net change In investment contract liabilities 59.87 (99.37) 39.58 16.34 
+Finance cost 12.57 14.54 11.21 49.49 
+Impairment loss (including reversals) (0.05) 0.02 (0.22) (2.14) 
+Depreciation and amortisation expenses 51.98 57.79 48.23 209.72 
+Sub-Total 11,597A7 14,928.50 9,034.60 46,103.85 
+Add/ (Less): Restricted life Insurance surplus retained In Policyholders' Fund (2.66) (8,46) (12.49) (28.73) 
+Total 11,594.61 14,920.04 9,022.31 46,075.12 
+tv\ 
+
+Max Financial Services Limited 
+aft L24223PIMOSSPLC008031 
+Registered Office: Sisal Mohan Singh Nagar, Ralimajra, Tehsil Balacheur, District Nawanshahr, Punjab - 144533 
+Website: www.maxfinancialsenrices.com 
+Notes to the consolidated financial results 
+1 These consolidated unaudited financial results for the quarter ended June 30, 2024 have been reviewed by the Audit Committee and approved by the Board of Directors of the 
+Company at its meeting held today. These results have been reviewed by the statutory auditors of the Company. 
+2 The consolidated unaudited financial results for the quarter ended March 31, 2024 are the balancing figures between audited figures In respect of the full financial year and the 
+published year to date figures up to the third quarter of the year ended March 31, 2024 of the Company respectively which have been subjected to review by the statutory 
+auditors. 
+3 The consolidated financial results have been prepared in accordance with the recognition and measurement principles laid down in Ind AS 34 "Interim Financial Reporting" 
+prescribed under section 133 of the Companies Act, 2013 read with relevant rules issued thereunder and other accounting principles generally accepted in India. The 
+consolidated financial results comprise the financial results of Max Financial Services Limited ('the Parent or 'the Company') and its subsidiary company's (collectively referred as 
+the 'Group'). Details of subsidiary company's are as under: 
+Name of Subsidiaries/entitles County of 
+incorporation Portion of 
+ownership as at 
+June 30, 2024 Portion of 
+ownership as at 
+March 31, 2024 
+Max Life Insurance Company Limited India 80.98% 87,00% 
+Max Life Pension Fund Management Limited India 100,00% 100.00% 
+Max Financial Employees Welfare Trust India 
+4 The Board of Directors of the Company in its meeting held on April 27, 2020 approved entering into definitive agreements with Axis Bank for the sale of equity share capital of 
+Max Life Insurance Company Limited ("MLIC"), a subsidiary of the Company, to Axis Bank, subject to receipt of shareholders' approval and other requisite regulatory approvals. 
+The shareholders of the Company approved the transaction on June 16, 2020. 
+On October 30, 2020, the Company, MUG, Axis Bank and its subsidiaries (together "Axis Entities"), I.e. Axis Capital United and Axis Securities Limited ("Axis Bank subsidiaries") 
+entered into agreements for acquisition of upto 19.002% of the equity share capital of MLIC ("Agreements"). Pursuant to receipt of all approvals, Axis Bank had acquired 
+9.002% of the equity share capital of MUG and Axis Bank subsidiaries acquired 3% of the share capital of MUG as per Rule I1UA valuation of the Income-tax Rules, 1962 upto 
+March 31, 2022. 
+On January 9, 2023 the Company executed revised agreements with the parties in terms of which Axis Entitles have the right to purchase the balance 7% equity stake of MLIC 
+from the Company at Fair Market Value using Discounted Cash Flows Instead of valuation as per Rule 11UA of the Income Tax Rules, 1962. This revision in valuation 
+methodology has been done consequent to the guidance received by MUC from IRDAL 
+The Board of Directors of the Company in its meeting held on August 9, 2023 took note of MLIC's proposal to raise further capital by way of a preferential issue of equity shares 
+to Axis Bank, for an aggregate investment of up to Rs. 1,612 crams in MUC, at fair market value determined basis DCF methodology ("Capital infusion). This revision from 
+secondary sale of transfer of shares to primary issuance of MLIC shares to Axis Bank has been done consequent to the MLIC funding requirements. 
+In this regard, the shareholders of the Company approved the transaction on September 27, 2023. Max Life has received approval from IRDAI vkle its letter dated February 6, 
+2024 for the Capital infusion. Axis Bank has received approval from Competition Commission of India (CO) vide its letter dated April 2, 2024 for the Capital infusion. Pursuant to 
+receipt of all regulatory approvals, Axis Bank had subscribed to 6.02% of the equity share capital of MLIC on April 17, 2024. On completion of the Capital Infusion, Axis Entitles 
+collectively hold 19.02% of the equity share capital of Max Life and the Company's shareholding in Max Life stood reduced to 80.98% of the equity share capital of Max Life 
+effective April 17, 2024. 
+In addition, the Axis Entitles would have the right to purchase 0.98% of the equity share capital of MLIC from the Company within the timeframe which was earlier agreed 
+between the parties (i.e., 42 months from April 6, 2021). Pending receipt of requisite regulatory approvals, the said transaction cannot be considered concluded at the current 
+date and hence, no adjustments have been made in the financial results. 
+5 Max Life Insurance Company Limited ("MUG"), a subsidiary of the Company received a favorable order from the Hontle Delhi High Court in August 2023 directing the Income 
+Tax Authority to release the refunds of past assessment years which had been adjusted with outstanding demands of the Assessment year 2017-18. The Company has 
+accounted for such refunds pertaining to earlier years during the year ended March 31, 2023. Accordingly, the Provision for Taxation in Statement of Profit 9 Loss comprises the 
+provision for current tax of Rs. 49 crams for the year ended March 31, 2024 and reversal of provision for tax of Rs. 34 crones for earlier periods. 
+6 On February 15, 2024, the Public Interest Litigation ("PIL") flied before the Montle High Court of Deihl by Dr. Subramanian Seamy alleging that Axis Bank 8 Its group 
+companies have made undue profits/ gain from the purchase and sale of the equity shares of the material subsidiary of the Company I.e. Max Life Insurance Company Limited. 
+In this regard, after hearing the arguments from all the parties concerned, the Delhi High Court on August 12, 2024, has declined to admit the PIL. The Hon'ble High Court of 
+Delhi has disposed the matter noting that the matter is under the consideration of concerned regulators and has directed them to complete their inquiry expeditiously and in 
+accordance with the law. Accordingly, management believes that there is no impact on the financials of the Company arising from this ML. 
+Figures for the previous periods/ year have been regrouped / reclassified wherever necessary, to make them comparable. 
+By Order of the Board 
+C. 
+et.
+Date : August 13, 2024 I 
+Anal* Singh 
+Chairman 
+Place : Guruoram DIN : 00029641 
+
+ 
+ 
+ 
+  
+ 
+Annexure – A 
+ 
+ 
+The details required under Regulation 30 of the Listing Regulations read with SEBI Circular 
+No SEBI/HO/CFD/CFD ‐PoD1/P/CIR/2023/123 dated July 13, 2023, as under:  
+ 
+ 
+Appointment of Secretarial Auditor : 
+Sr. 
+No. Particulars  Details  
+ 
+1. Name of the Company  Max Financial Services Limited  
+ 
+2. Name of the Secretarial Auditor   M/s Sanjay Grover & Associates , 
+Company Secretaries  (FRN: 
+P2001DE052900)  
+ 
+3. Reason for change viz., appointment, 
+resignation, removal, death or otherwise Appointment as Secretarial Auditor  of the 
+Company for the financial year 2024- 25. 
+ 
+4. Effective date of appointment & term of 
+appointment  
+ August 13, 2024  
+ 
+Appointed as a Secretarial Auditor of the 
+Company for  the financial year 2024 -25 
+to conduct the Secretarial  Audit.  
+ 
+5. Brief profile  M/s Sanjay Grover & Associates (‘SGA’) 
+was founded by the late Mr. Sanjay 
+Grover in 2001. SGA has been a leading 
+firm in the practice  of company 
+secretaries pioneering in many areas of 
+practices, specialising in Secretarial 
+Audit and others Company Law matters. SGA is dedicated to delivering top- tier 
+professional services coupled with its 
+team's extensive expertise which 
+enables it to p rovide customized 
+solutions. SGA is known for its 
+knowledge- based consultancy & 
+deliverables in Secretarial Practices and 
+SGA continuously innovates to deliver 
+the most effective and efficient services.  
+ 
+6. Disclosure of relationships between 
+directors (in case of appointment of a 
+director)  
+ Not applicable  
+ 

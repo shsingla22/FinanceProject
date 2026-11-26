@@ -1,0 +1,94 @@
+ 
+ March  05, 2026  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+Dear Sir s/Madam , 
+ 
+Sub: Press Release - “Tata Elxsi Launches DevStudio.ai, a Multi -Agent, ASPICE -Aligned GenAI 
+Platform to Accelerate Automotive Software Engineering ”  
+ 
+Please find enclosed the Press Release dated March  05, 2026, titled  “Tata Elxsi Launches DevStudio.ai, a 
+Multi -Agent, ASPICE -Aligned GenAI Platform to Accelerate Automotive Software Engineering .” 
+ 
+This disclosure is made in compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015.  
+ This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Sneha V  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+Tata Elxsi Launches DevStudio.ai, a Multi -Agent, ASPICE -Aligned 
+GenAI Platform to Accelerate  Automotive Software Engineering  
+• Multi -Agentic suite designed as an AI co -engineer across the SDLC , supporting multiple LLMs  
+• Customer deployments have demonstrate d clear speed -to-market  and productivity gains 
+across multiple domains, including body, chassis, infotainment, and SDV architectures  
+• Enables automotive -grade software quality, at speed  
+Bengaluru, India – March  5, 2026 – Tata Elxsi, a global leader in design and technology services, 
+today announced the launch of DevStudio.ai , an automotive multi -agenti c solution  purpose -built to 
+accelerate the automotive software development lifecycle  (SDLC) for OEMs, system  suppliers, and 
+semiconductor companies.  
+DevStudio.ai is an ASPICE -aligned solution powered by multi -agentic architectures, enabling 
+collaboration between  automotive engineer s and  AI across engineering workflows. A key 
+architectural highlight is its ability to operate on both cloud -based infrastructure and air -gapped on -
+premise  environments, delivering deployment flexibility and choice aligned with enterprise 
+infrastru cture and  AI policies.  
+While several generative AI tools are emerging to support software development, most are designed 
+for broad -based application development. DevStudio.ai is purpose -built for the automotive SDLC , 
+combining Tata Elxsi’s deep domain expertise with generative AI  to address the complexity, safety, 
+and compliance requirements of automotive software engineering.  
+The platform supports all key stages of the ASPICE V -cycle, including system and software 
+requirements, architecture, implementation, testing, and qualification, while maintaining end -to-
+end traceability across the engineering lifecycle. It also integrates seamlessly with widely used OEM 
+and Tier -1 engineering toolchains, enabling teams to embed DevStudio.ai  co-engineers directly into 
+existing development environments.  
+Sundar Ganapathi, Chief Technology Officer – Automotive, Tata Elxsi , said, “The automotive 
+industry is at an inflection point . Competitive pressures now demand software development at China 
+speed . At the same time, companies must maintain  automotive -grade quality and meet global 
+industry standards. DevStudio.ai helps address this challenge. It brings the power of generative AI 
+into the automotive software development lifecycle. This ena bles OEMs  and suppliers accelerate 
+development, while maintaining the rigor required for safety -critical automotive systems. ” 
+DevStudio.ai is now in select programs of global OEMs and Tier -1 suppliers in North America, Japan, 
+and India, across body, chassis, infotainment, and SDV architectures , with early deployments 
+demonstrating clear speed -to-market and productivity gains . 
+ 
+ 
+ 
+ 
+Pallavi Dalal, Head – Automotive GenAI and AI Practice , Tata Elxsi , added, “DevStudio.ai represents 
+the culmination of intensive research and development between our automotive domain and GenAI 
+specialist teams . We see the future of automotive software development where an AI co -engineer 
+works alongside every engineer. To reali se this vision , we are partnering with the entire innovation 
+ecosystem, from leading GenAI companies  to hyperscalers, to build and scale DevStudio.ai. This is 
+Future forward for automotive engineering .” 
+Learn more about how Tata Elxsi and Dev Studio.ai can help you co -engineer your development 
+lifecycle s. Explore DevStudio.ai  
+About Tata Elxsi  
+Tata Elxsi is among the world’s leading p roviders of design and technology services across industries 
+including automotive, broadcast, communications, healthcare, and transportation. Tata Elxsi works 
+with leading OEMs and suppliers in the automotive and transportation industries for R&D, design, 
+and product engineering services from architecture to launch and beyond. It brings together domain 
+experience across autonomous, electric, connected and software -defined vehicles (SDVs), and deep 
+digital and AI capabilities, supported by a worldwide networ k of design studios, development 
+centre s and digital innovation hubs . 
+For more information, please visit: www.tataelxsi.com/industries/automotive  
+Media Contact:  
+Tata Elxsi  
+Hari Balan/Ayushi Moudgil  
+Corporate Communications  
+Email: media@tataelxsi.com  
+ 

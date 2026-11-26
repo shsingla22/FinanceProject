@@ -1,0 +1,1396 @@
+Ref: STEX/SECT/2026
+February 04, 2026
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort,
+Mumbai – 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor,
+Plot No. C/1, G Block, Bandra – Kurla Complex,
+Bandra (East), Mumbai – 400 051
+
+BSE Scrip Code: 500480
+
+NSE Symbol: CUMMINSIND
+
+Sub: Outcome of Board Meeting
+Dear Sir/ Madam,
+We wish to inform that the Board of Directors (“Board”) of Cummins India Limited (“Company”) at their
+meeting held today i.e. on February 04, 2026, inter-alia, unanimously approved the following:
+1. Unaudited Financial Results along with Statutory Auditor’s Limited Review Report
+In terms of Regulation 33 and 30 read with Schedule Ill of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“SEBI Listing Regulations”), we are enclosing copy of the unaudited
+standalone and consolidated financial results (“Unaudited Financial Results”) for the quarter and nine
+months ended December 31, 2025.
+We are also enclosing a copy of ‘Limited Review’ report given by the Statutory Auditors for the said
+Unaudited Financial Results.
+2. Interim Dividend for the FY 2025-26 and fixing of Record Date
+The Board of Directors have approved and declared an Interim Dividend of Rs. 20/- per equity share
+i.e. at the rate of 1,000% (Face Value Rs. 2/- each), on 27,72,00,000 equity shares for the Financial
+Year 2025-26.
+Further, in terms of Regulation 42 of the SEBI Listing Regulations, the Board has fixed Wednesday,
+February 11, 2026, as the Record Date for determining entitlement of Members for the said interim
+dividend. The Interim Dividend will be paid on or around Monday, March 02, 2026.
+Board Meeting start time: 18:18 hrs.
+Board Meeting end time: 19:10 hrs.
+This intimation is also being uploaded on the website of the Company at www.cumminsindia.com.
+Kindly take this intimation on your record.
+Yours faithfully,
+For Cummins India Limited
+Digitally signed by
+
+Vinaya
+Vinaya Abhijit Joshi
+2026.02.04
+Abhijit Joshi Date:
+20:03:40 +05'30'
+
+Vinaya A. Joshi
+Company Secretary & Compliance Officer
+Membership No.: A25096
+Encl.: As above
+Cummins India Limited
+Registered Office
+Cummins India Office Campus
+Tower A, 5th Floor, Survey No. 21, Balewadi
+Pune 411 045 Maharashtra, India
+
+Phone +91 20 67067000 Fax +91 20 67067015
+cumminsindia.com
+
+cil.investors@cummins.com
+
+CIN : L29112PN1962PLC012276
+
+
+CUMMINS INDIA LIMITED
+Registered Office: Cummins India Office Campus, Tower A, 5th Floor, Survey No. 21, Balewadl , Pune 411045, Maharashtra, India
+[CIN : L29112PN1962PLC012276J, Telephone : 020 67067000, Fax : 020 67067015,
+Email : cll.lnvestors@cummlns.com, Website : www.cumminsindla.com
+Unaudited consolidated financial results for the quarter and nine months ended December 31, 2025
+(' Crore)
+Year ended
+
+Nine months ended
+
+Quarter ended
+
+Particulars
+December 31,
+2025
+
+September 30,
+2025
+
+December 31,
+2024
+
+December 31,
+2025
+
+December 31,
+2024
+
+March 31 ,
+2025
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+Income
+(a)
+
+Revenue from operations
+3,121 .58
+
+3,052.15
+
+8,986.53
+
+7,791.11
+
+48.68
+
+48.69
+
+44.00
+
+145.48
+
+129.20
+
+171.45
+
+115.98
+
+122.77
+
+111.39
+
+372.63
+
+320.43
+
+446.92
+
+3,170.90
+
+3,293.04
+
+3,207.54
+
+9,504.64
+
+8,240.74
+
+10,837.61
+
+(a) Cost of materials consumed
+
+1,676.17
+
+1,804.45
+
+1,625.43
+
+5,257.00
+
+4,488.04
+
+5,911.18
+
+(b) Purchases of traded goods
+
+200.27
+
+196.82
+
+182.23
+
+61 1.33
+
+522.34
+
+700.24
+
+(b) Other income
+To1al Income
+2
+
+Expenses
+
+(c)
+
+Change in inventories of finished goods, work-in-progress and traded goods
+
+22.08
+
+11.06
+
+209.38
+
+(125.85)
+
+41.41
+
+(16.56)
+
+(d)
+
+Employee benefits expense
+
+200.30
+
+198.60
+
+239.66
+
+598.33
+
+626.25
+
+797.49
+
+(e)
+
+Finance cost
+
+4.78
+
+2.55
+
+3.02
+
+9.98
+
+10.56
+
+15.85
+
+(f)
+
+Depreciation and amortisation expense
+
+50.36
+
+49.18
+
+49.28
+
+147.47
+
+138.58
+
+185.07
+
+(g)
+
+Other expenses
+
+Total expenses
+
+321.63
+
+264.55
+
+241.88
+
+838.44
+
+687.46
+
+918.30
+
+2,475.59
+
+2,527.21
+
+2,550.88
+
+7,336.70
+
+6,514.64
+
+8,511 .57
+
+765.83
+
+656.66
+
+2,167.94
+
+1,726.10
+
+2,326.04
+
+1,726.10
+
+2,326.04
+
+3
+
+Profit before exceptional items and tax (1 -2)
+
+695.31
+
+4
+
+Exceptional items (expense) / income (Note 1 and 4)
+
+(126.54)
+
+5
+
+Profit after exceptional Items before share of profit of Joint venture and associate and
+before tax (3+4)
+
+568.77
+
+6
+
+Share of profit of joint venture and associate after tax
+
+(113.95)
+765.83
+
+656.66
+
+2,053.99
+
+56.75
+
+58.20
+
+56.93
+
+180.23
+
+176.40
+
+266.77
+
+625.52
+
+824.03
+
+713.59
+
+2,234.22
+
+1,902.50
+
+2,592.81
+
+Current tax
+
+144.15
+
+199.44
+
+159.26
+
+523.96
+
+435.78
+
+598.05
+
+(b) Deferred tax
+
+(6.51)
+
+2.26
+
+(4.13)
+
+(3.85)
+
+(3.72)
+
+(4.05)
+
+1.82
+
+0.00
+
+(1.13)
+
+7 Profit before tax (5+6)
+8
+
+10,219.24
+
+3,006.24
+
+Sales/Income from operations
+Other operating income
+
+Tax expense
+(a)
+
+(C)
+
+Tax for earlier years
+
+1.82
+
+Total tax expenses
+
+139.46
+
+201 .70
+
+155.13
+
+521.93
+
+432.06
+
+592.87
+
+Profit after tax (7-8)
+
+486.06
+
+622.33
+
+558.46
+
+1,712.29
+
+1,470.44
+
+1,999.94
+
+Remeasurement (loss)/ gain on defined benefit plans
+
+1.76
+
+17.86
+
+(3.98)
+
+18.95
+
+(18.03)
+
+(19.30)
+
+Income tax effect
+
+(0.44)
+
+(4.50)
+
+1.00
+
+(4.77)
+
+4.54
+
+4.86
+
+Changes in the fair value of financial instruments
+
+(1.56)
+
+(0.84)
+
+0.07
+
+(0.13)
+
+0.87
+
+2.27
+
+income tax effect
+
+0.39
+
+0.21
+
+(0.02)
+
+0.03
+
+(0.22)
+
+(0.57)
+
+Other comprehensive (expense) I Income, net of tax (a+b)
+
+0.15
+
+12.73
+
+(2.93)
+
+14.08
+
+(12.84)
+
+(12.74)
+
+11 Share in joint venture's and associate's OCI after tax (net) not to
+in subsequent periods
+
+0.09
+
+0.80
+
+(0. 21)
+
+0.59
+
+(0.74)
+
+0.01
+
+9
+
+10 Other comprehensive (expense) / Income
+(a)
+
+(b)
+
+Items not to be reclassified to profit or loss in subsequent periods
+
+items to be reclassified to profit or loss in subsequent periods
+
+0.24
+
+13.53
+
+(3.14)
+
+14.67
+
+(13.58)
+
+(12.73)
+
+13 Total comprehensive Income (9+ 12)
+
+486.30
+
+635.86
+
+555.32
+
+1,726.96
+
+1,456.86
+
+1,987.21
+
+14 Paid-up equity share capital (Face valu e f 2 each)
+
+55.44
+
+55.44
+
+55.44
+
+55.44
+
+55.44
+
+12 Total Other comprehensive (expense) I Income, net
+
+55. 44
+7,505.96
+
+15 Other equity
+
+E
+
+16 Earnings per share
+Basic and diluted EPS for the period on net profit (Not
+
+-,~s
+
+~
+
+17.53
+
+22.45
+
+20.15
+
+61.77
+
+53.05
+
+72.15
+
+-.:,
+
+* /)
+
+
+CUMMINS INDIA LIMITED
+Registered Office: Cummins India Office Campus, Tower A, 5th Floor, Survey No. 21, Balewadi, Pune 411045, Maharashtra, India
+[CIN: L29112PN1962PLC012276], Telephone: 020 67067000, Fax: 020 67067015,
+Email : cil.lnvestors@cummins.com, Website : www.cumminsindia.com
+Unaudited standalone financial results for the quarter and nine months ended December 31, 2025
+, Crore
+Year ended
+
+Nine months ended
+
+Quarter ended
+
+Particulars
+December 31,
+2025
+
+September 30,
+2025
+
+December 31,
+2024
+
+December 31,
+2025
+
+December 31,
+2024
+
+March 31,
+2025
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+Income
+(a) Revenue from operations
+10,166.21
+
+3,006.24
+
+3,121 .58
+
+3,041.42
+
+8,986 .53
+
+7,751 .85
+
+48.68
+
+48.69
+
+44.59
+
+145.48
+
+130.66
+
+173.19
+
+139.73
+
+196.37
+
+120.89
+
+488.98
+
+414.22
+
+626.13
+
+3,194.65
+
+3,366.64
+
+3,206.90
+
+9,620.99
+
+8,296.73
+
+10,965.53
+
+1,676.17
+
+1,804.45
+
+1,637.25
+
+5,257.00
+
+4,519.34
+
+5,952.23
+
+200.27
+
+196.82
+
+168.61
+
+611.33
+
+486.15
+
+656.53
+
+(c) Change in inventories of finished goods, work-in-progress and traded goods
+(d) Employee benefits expense
+
+22.08
+200.30
+
+11.06
+198.60
+
+207.29
+233.24
+
+(125.85)
+598.33
+
+42.31
+607.21
+
+(17.19)
+774.00
+
+(e) Finance cost
+(f) Depreciation and amortisation expense
+(g) Other expenses
+
+4.78
+
+2.55
+
+2.65
+
+9.98
+
+9.97
+
+15.12
+
+50.36
+321.63
+
+49.18
+264.55
+
+48.07
+239.63
+
+147.47
+838.44
+
+137.16
+679.14
+
+182.90
+905.80
+
+2,475.59
+
+2,527.21
+
+2,536.74
+
+7,336.70
+
+6,481.28
+
+8,469.39
+
+719.06
+
+839.43
+
+670.16
+
+2,284.29
+
+1,815.45
+
+2,496.14
+
+Sales/Income from operations
+Other operating income
+(b) Other income
+
+Total Income
+2 Expenses
+(a) Cost of materials consumed
+(b) Purchases of traded goods
+
+Total expenses
+3 Profit before exceptional items and tax (1-2)
+4 Exceptional items (expense) I income (Note 1 and 4)
+
+(126.54)
+
+5 Profit before tax (3+4)
+
+592.52
+
+839.43
+
+670.16
+
+2,201.90
+
+1,815.45
+
+2,496.14
+
+144.15
+
+199.44
+
+158.23
+
+523.96
+
+433.66
+
+594.34
+
+(6.55)
+
+2.30
+
+(2.07)
+
+(3.94)
+
+(2.62)
+
+(2.84)
+
+(82.39)
+
+6 Tax expense
+(a) Current tax
+(b) Deferred tax
+(c) Tax for earlier years
+
+(1.14)
+
+1.82
+
+1.82
+
+Total tax expenses
+
+139.42
+
+201.74
+
+156.16
+
+521.84
+
+431.04
+
+590.36
+
+7 Profit after tax (5-6)
+
+453.10
+
+637.69
+
+514.00
+
+1,680.06
+
+1,384.41
+
+1,905.78
+
+Remeasurement (loss) / gain on defined benefit plans
+
+1.76
+
+17.86
+
+(3.98)
+
+18.95
+
+(18.03)
+
+(19.26)
+
+Income tax effect
+
+(0.44)
+
+(4.50)
+
+1.00
+
+(4.77)
+
+4.54
+
+4.85
+
+Changes in the fair value of financial instruments
+Income tax effect
+
+(1.56)
+
+(0 .84)
+
+0.07
+
+(0.13)
+
+0.87
+
+2.27
+
+0.39
+
+0.21
+
+(0.02)
+
+0.03
+
+(0.22)
+
+(0.57)
+
+Total Other comprehensive (expense) / income, net of tax (a
+9 Total comprehensive Income, net of tax (7+8)
+
+0.15
+453.25
+
+12.73
+650.42
+
+(2.93)
+511.07
+
+14.08
+1,694.14
+
+(12.84)
+1,371.57
+
+(12.71)
+1,893.07
+
+10 Paid-up equity share capital (Face value f 2 each)
+
+55.44
+
+55.44
+
+55.44
+
+55.44
+
+55.44
+
+8 Other comprehensive (expense)/ Income
+(a) Items not to be reclassified to profit or loss in subsequent periods
+
+(b) Items to be reclassified to profit or loss in subsequent periods
+
+55.44
+6,962.59
+
+11 Other equity
+
+12 Earnings per share
+Basic and diluted EPS for the period on net profit (Not an
+
+16.35
+
+23.00
+
+18.54
+
+60.61
+
+68.75
+
+
+Notes
+
+1 The Consolidated financial results include resu lts of the following companies :
+Name of the Company
+
+As at December 31, 2025 #
+Consolidated as
+
+% holding
+
+Cumm ins Sales & Service Private Limited·
+Cummins Generator Technologies India
+Priva1e Limited ••
+Valvoli ne Cummins Private Limited
+
+48.74%
+
+Associate
+
+50%
+
+Joint Venture
+
+As at Seotember 30, 2025
+Consolidated as
+
+% holding
+
+48.74%
+50%
+
+Associate
+
+As at December 31, 2024
+%hold ing
+Consolidated as
+100%
+Subsidiary
+48.74%
+Associate
+
+Joint Venture
+
+50%
+
+Joint Venture
+
+# Same position as at March 31 , 2025
+• Exceptional items during the nine months ended December 31 , 2025 pertain to gain on sale of 100% stake in its wholly owned subsidiary, namely, Cumm ins Sales
+& Service Private Limited ("CSSPL") amounting to t 12.59 Cr. and t 44 .1 5 Cr. in consolidated financial resu lts and standalone financial results respectively.
+Consequent to the transfer of 100% of its shares , CSSPL ceased to be a subsidiary of the Company effective April 1, 2025, pursuant to the requ isite approvals.
+•• With effect from December 18, 2024 , the Company's shareholding in Cumm ins Generator Technologies India Private Limited ("CGT") increased from 48.54% to
+48.74%, pursuant ta the approval by the National Campany Law Tribunal (NCLT) of the scheme for reduction of share capital of CGT. The scheme was approved by
+the Board of Directors of CGT on February 11, 2022 and by its shareholders on March 17, 2022.
+2 This statement has been reviewed by the Aud it Comm inee and approved by the Board of Directors at its meeting held on February 4, 2026.
+3 Operating segment information:
+On a review of all the relevant aspects including, in particu lar, the system of internal financial reporting to the Board of Directors, wh ich is the Chief Operating
+Decision Maker ('CODM') , and considering the econom ic characteristics of the operations , the Group is of the view that it operates in two segments viz. 'E ng ines'
+and 'Lubes'. Lubes segment comprises of a joint venture viz. Valvoli ne Cumm ins Private Limited , which is accounted for as per equity method under relevant Ind AS.
+The CODM evaluates the Group's performance based on an ana lysis of various parameters. Eng ine segment comprises of Cummins India Limited and other Group
+Companies which have been aggregated considering the nature of products, class of customer etc.
+Following information is prov ided to the CODM for Lubes segment for mon itoring its performance:
+Particulars
+
+c,
+
+December 31 ,
+2025
+(Unaud ited)
+Sales
+Eng ines
+Lubes·
+Total
+Less : Elimination/Adjustments
+Net sales
+
+3,006.24
+733.94
+3,740.18
+733.94
+3,006.24
+
+3,121.58
+710.64
+3,832.22
+710.64
+3,121 .58
+
+3,052.15
+531 .83
+3,583.98
+531.83
+3,052.15
+
+8,986 .53
+2,087 .74
+11,074.27
+2,087.74
+8,986 .53
+
+7,791.11
+1,718.35
+9,509 .46
+1,718.35
+7,791 .11
+
+10,219.24
+2,352.27
+12,571.51
+2,352.27
+10,219.24
+
+Profit before tax
+Engines
+Lubes·
+Total
+Less : Elimination/Adjustments
+Total Profit before tax
+
+607.84
+47.68
+655.52
+30.00
+625.52
+
+804.51
+52.59
+857.10
+33.07
+824.03
+
+696.30
+46.64
+742.94
+29.35
+713.59
+
+2,168.15
+177.86
+2,346.01
+111 .79
+2,234.22
+
+1,839.73
+168.91
+2,008.64
+106.14
+1,902.50
+
+2,492.42
+269.15
+2,761.57
+168.76
+2,592.81
+
+Profit alter tax
+Engines
+Lubes·
+Total
+Less: Eli mination/Adjustments
+Total Profit alter tax
+
+468.38
+35.35
+503.73
+17.67
+486.06
+
+602.81
+39.03
+641.84
+19.51
+622.33
+
+541.17
+34.58
+575.75
+17.29
+558.46
+
+1,64622
+132.1 3
+1,778.35
+66 .06
+1,71 2.29
+
+1,407.67
+125.54
+1,533.2 1
+62.77
+1,470.44
+
+1,899.55
+200.78
+2,100.33
+100.39
+1,999.94
+
+December 31 ,
+2024
+(Unaudited)
+
+Nine months ended
+December 31 ,
+December 31,
+2025
+2024
+(Unaudited)
+(Unaudited)
+
+Crore)
+Year ended
+March 31,
+2025
+(Audited)
+
+Quarter ended
+September 30,
+2025
+(Unaudited)
+
+• The above numbers represent fu ll numbers in the Statement of Profit and Loss of Valvol ine Cumm ins Private Limited and are not Group's proportionate share.
+4 The Government of India, on November 21 , 2025 , notified the four Labour Codes - Code on Wages , 2019; Industrial Re lations Code , 2020 ; Code on Social
+Security, 2020 ; and Occupational Safety, Health and Working Conditions Code , 2020 - subsum ing 29 existing labou r laws. The incremental impact of the initial
+assessment based on best available information, arising mainly from the revised wage definition amounts to gratu ity of ~ 124 crore and long-term compensated
+absences of t 3 crore. As th is impact is material, regu latory-driven , and non-recurring, the same is presented under "Exceptional Items" in the consolidated and
+standalone financial resu lts for the quarter and nine months ended December 31, 2025. The incremental impact on the share of prof it of associate and joint venture
+amounting to ~ 4 crore and f 6 crore respectively , has been considered under "Share of profi1 of joint venture and associate after tax" in the Consolidated Financial
+Statements. The Company continues to mon itor further regu latory updates and will recognise additional impacts, if any, in subsequent periods.
+5 The Board of Directors of the Company at its meeting held on February 4, 2026 declared an interim dividend of { 20 per equity share on 277,200,000 shares of { 2
+each fully paid-up for the financial year 2025-26.
+
+For Cummins India Limited
+
+Pune
+Date : February 4, 2026
+
+
+Price Waterhouse & Co Chartered Accountants LLP
+Review Report
+
+To
+The Board of Directors
+Cummins India Limited
+Cummins India Office Campus, Tower A,
+5 th Floor, Survey No. 21 , Balewadi, Pune - 411045
+1.
+
+We have reviewed the consolidated unaudited financial results of Cummins India Limited (the
+"Company"), and its share of the net profit after tax and total comprehensive income of its joint venture
+and associate company (refer Note 1 on the Statement) for the quarter ended December 31, 2025 and
+the year to date results for the period April 01 , 2025 to December 31, 2025 which are included in the
+accompanying 'Unaudited consolidated financial results for the quarter and nine months ended
+December 31 , 2025' (the "Statement"). The Statement is being submitted by the Company pursuant to
+the requirement of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended (the "Listing Regulations, 2015") , which has been initialled by us for
+identification purposes.
+
+2.
+
+This Statement, which is the responsibility of the Company's Management and has been approved by
+the Company's Board of Directors, has been prepared in accordance with the recognition and
+measurement principles laid down in Indian Accounting Standard 34 "Interim Financial Reporting",
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+accepted in India. Our responsibility is to express a conclusion on the Statement based on our review.
+
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+('SRE') 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity", issued by the Institute of Chartered Accountants of India. This Standard requires that we plan
+and perform the review to obtain moderate assurance as to whether the Statement is free of material
+misstatement. A review of interim financial information consists of making inquiries, primarily of
+persons responsible for financial and accounting matters, and applying analytical and other review
+procedures. A review is substantially less in scope than an audit conducted in accordance with
+Standards on Auditing and consequently does not enable us to obtain assurance that we would become
+aware of all significant matters that might be identified in an audit. Accordingly, we do not express an
+audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation
+33 (8) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended,
+to the extent applicable.
+4. The Statement includes the results of the following entities:
+N rune of the Entity
+
+As at December 31, 2025
+
+% Holding
+
+Associate
+
+Cummins Generator Technologies India Private Limited
+Valvoline Cummins Private Limited
+
+Consolidated as
+
+50%
+
+Joint Venture
+
+Price Waterhouse & Co Chartered Accountants LLP, 7th Floor, Tower A - Wing 1, Business
+Pune - 411 006
+~ + 91(20)69050558
+Registered office and Head office: Plot No. 56 & 57, Block ON, Sector-V. Salt Lake, Kolkata - 700 091
+Price Waterhouse & Co. (a Partnership Firm) converted into Price Waterhouse & Co Chartered Accountants LLP (a Limited Li ability Pa
+LLPIN AAC-4362) with effect from July 7, 2014. Post its conversion to Price Waterhouse & Co Chartered Accountants LLP , its ICAIA~l=:a:lil:li:i:llll!m!rie,
+304026E/E300009 (ICAI registration number before conversion was 304026E)
+
+
+Price Waterhouse & Co Chartered Accountants LLP
+5.
+
+Based on our review conducted and procedures performed as stated in paragraph 3 above, nothing has
+come to our attention that causes us to believe that the accompanying Statement has not been prepared
+in all material respects in accordance with the recognition and measurement principles laid down in
+the aforesaid Indian Accounting Standard and other accounting principles generally accepted in India
+and has not disclosed the information required to be disclosed in terms of Regulation 33 of the Listing
+Regulations, 2015 including the manner in which it is to be disclosed, or that it contains any material
+misstatement.
+
+6. The consolidated unaudited financial results include the Company's share of net profit after tax of Rs.
+39.05 crores and Rs. 113.97 crores and total comprehensive income of Rs. 39.14 crores and Rs. 114.58
+crores for the quarter ended December 31, 2025 and for the period from April 01, 2025 to December
+31, 2025, respectively, as considered in the consolidated unaudited financial results, in respect of one
+associate based on their interim financial information, which have not been reviewed by us. According
+to the information and explanations given to us by the Management, these interim financial
+information are not material to the Company.
+Our conclusion on the Statement is not modified in respect of the above matter.
+
+For Price Waterhouse & Co Chartered Accountants LLP
+Firm Registration Number: 304026E/E-300009
+
+Pravin Rajani
+Partner
+Membership Number: 127460
+UDIN: 26127460DZLIOU5350
+Place: Pune
+Date: February 04, 2026
+
+
+Price Waterhouse & Co Chartered Accountants LLP
+Review Report
+
+To
+The Board of Directors
+Cummins India Limited
+Cummins India Office Campus, Tower A,
+5 th Floor, Survey No 21, Balewadi, Pune - 411045
+1.
+
+We have reviewed the unaudited financial results of Cummins India Limited (the "Company") for the
+quarter ended December 31, 2025 and the year to date results for the period April 01, 2025 to
+December 31, 2025, which are included in the accompanying 'Unaudited standalone financial results
+for the quarter and nine months ended December 31, 2025' (the "Statement"). The Statement has
+been prepared by the Company pursuant to Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended (the "Listing Regulations, 2015"), which
+has been initialled by us for identification purposes. The Statement is the responsibility of the
+Company's management and has been approved by the Board of Directors. Our responsibility is to
+issue a report on the Statement based on our review.
+
+2. We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410, "Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity" issued by the Institute of Chartered Accountants of India. This Standard requires that we plan
+and perform the review to obtain moderate assurance as to whether the Statement is free of material
+misstatement.
+3 . A review is limited primarily to inquiries of company personnel and analytical procedures applied to
+financial data and thus provides less assurance than an audit. We have not performed an audit and
+accordingly, we do not express an audit opinion.
+4.
+
+Based on our review conducted as above, nothing has come to our attention that causes us to believe
+that the Statement has not been prepared in all material respects in accordance with the applicable
+Accounting Standards prescribed under Section 133 of the Companies Act, 2013 and other recognised
+accounting practices and policies and has not disclosed the information required to be disclosed in
+terms of Regulation 33 of the Listing Regulations, 2015 including the manner in which it is to be
+disclosed, or that it contains any material misstatement.
+
+For Price Waterhouse & Co Chartered Accountants LLP
+Firm Registration Number: 304026E/E-300009
+
+Pravin Rajani
+Partner
+Membership Number: 127460
+UDIN: 26127460AVKBNW7861
+Place: Pune
+Date: February 04, 2026
+
+Price Waterhouse & Co Chartered Accountants LLP, 7th Floor, Tower A - Wing 1, Business Bay, Airport Road, Yerwada
+Pune - 411 006
+T: +91(20)69050558
+Registered office and Head office: Plot No. 56 & 57, Block DN , Sector-V, Salt Lake, Kolkata - 700 091
+Price Waterhouse & Co. (a Partnership Firm) converted into Price Waterhouse & Co Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no:
+LLPIN AAC-4362) with effect from July 7, 2014. Post its conversion to Price Waterhouse & Co Chartered Accountants LLP, its ICAI registration number is
+304026E/E300009 (ICAI registration number before conversion was 304026E)
+
+

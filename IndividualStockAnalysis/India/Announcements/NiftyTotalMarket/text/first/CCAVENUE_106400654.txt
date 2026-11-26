@@ -1,0 +1,98 @@
+ 
+INFIBEAM AVENUES LIMITED 
+Regd. Office: 28th Floor, GIFT Two Building, Block No . 56, Road-5C, Zone-5, GIFT CITY,  
+Gandhinagar – 382 050, CIN: L64203GJ2010PLC061366  
+Tel: +91 79 67772204 | Fax: +91 79 67772205 | Email: ir@ia.ooo  | Website: www.ia.ooo  October 08, 2025      
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort, Mumbai - 400 001   Company Code No.: 539807 National Stock Exchange of India Limited 
+Exchange Plaza, Bandra Kurla Complex, Bandra (East), Mumbai - 400 051  Company Symbol: INFIBEAM 
+ Dear Sir / Madam,  
+Sub: Press Release 
+ 
+In compliance with the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we 
+are pleased to enclose a copy of Press Release titled  “Phronetic AI Introduces PayCentral.ai: Pioneering 
+India’s First Agentic Payment Platform Technology”, issued by the Company. 
+ The above information is also available on the website of the Company at www.ia.ooo .  
+ 
+Kindly take the same on your records.  
+Thanking you, 
+ Yours faithfully,  For Infibeam Avenues Limited 
+   Shyamal Trivedi Sr. Vice President & Company Secretary  Encl.: As above  
+ 
+                                                                                                                                                                    
+ 
+1 
+ 
+ 
+Media Release 
+Phronetic AI Introduces PayCentral.ai: 
+Pioneering India’s First Agentic Payment 
+Platform Technology  
+Gandhinagar, October 08, 2025  – Phronetic AI is India’s first full-stack Agentic AI platform and a AI tech 
+company backed by Infibeam Avenues Ltd, today announced the launch of PayCentral.ai, the country’s 
+first Agentic Payment Platform that allows AI agents to transact on behalf of merchants and enterprises.  
+Built as an intelligent payment infrastructure layer, PayCentral.ai integrates seamlessly with existing 
+payment gateway providers and any other payment platforms, empowering their merchant networks to 
+deliver faster, automated, and intelligent payment experiences. The platform represents a foundational 
+leap toward the future of Agent-to-Agent (A2A) payments. 
+PayCentral.ai is built on Google’s AP2 (Agent Payment Protocol) and designed to sit on top of multiple 
+Payment Aggregators’ MCPs, creating a unified layer of autonomous, auditable, and secure payment 
+orchestration. With this integration, merchants can now allow AI agents to create dynamic payment links, 
+handle refunds, manage subscriptions, and reconcile accounts—without human intervention. 
+“Agentic Payments are the next frontier in digital commerce,” said Rajesh Kumar S A, CEO of Phronetic 
+AI. “By integrating Google’s AP2 standards with MCPs of India’s leading payment aggregators and our 
+Agent Operating System, we are building a secure, auditable and scalable ecosystem where any AI agent 
+can pay, and any AI agent can be paid.” 
+Key Highlights of PayCentral ( https://paycentral.ai ) 
+● Universal Interoperability : AP2 ensures agents can transact seamlessly across platforms and 
+services including multiple underlying PSPs. 
+ 
+● Aggregator-First Architecture : Integrated with multiple RBI approved MCP enabled Payment 
+Aggregators, starting with CCAvenue, for broad market reach and redundancy. 
+ 
+● Autonomous Merchant Services : AI agents dynamically create links, process refunds, and 
+manage subscriptions. 
+ 
+● Secure & Auditable : Every transaction is traceable through Phronetic’s Agent Operating System, 
+with compliance-ready logs. 
+ 
+● Sovereign Deployment for Compliance : Sensitive data stays within the geographical borders, 
+meeting enterprise and regulatory requirements. 
+ 
+● Scalable Future : Unlocks micropayments, recurring billing and AI-driven commerce at national 
+scale. 
+ 
+                                                                                                                                                                    
+ 
+2 
+ 
+About Phronetic AI 
+Phronetic AI is India’s first full-stack Agentic AI platform and a AI tech company backed by Infibeam 
+Avenues Ltd, pioneering autonomous agents that act across digital and physical domains. Its innovations 
+include proprietary vision-language models (Owlet), reasoning models (RZN), and the Agent Operating 
+System (AOS). PayCentral.ai extends this vision into payments, creating a secure, auditable ecosystem for 
+AI-native commerce. 
+ 
+About Infibeam Avenues Limited 
+ 
+Infibeam Avenues Ltd. is one of the leading global financial technology (fintech) company offering 
+comprehensive digital payment solutions, Artificial Intelligence (AI) solutions and enterprise software 
+platforms to businesses and governments across industry verticals. The company's payment 
+infrastructure solution includes acquiring and issuing solutions and offering infrastructure for banks. The 
+core Payment Gateway (PG) business provides over 200 plus payment options to the merchants allowing 
+them to accept payments through website and mobile devices in 27 international currencies. Infibeam 
+Avenues' enterprise software platform hosts India's largest online marketplace for government 
+procurement. The company processed transaction worth INR 8.67 trillion (US$ 106 billion) in FY25. 
+Company currently has over 10 million plus clients across digital payments and enterprise software 
+platforms. The company's vast clientele includes merchants, enterprises, corporations, governments, and 
+financial institutions in both domestic (India) as well as international markets. Infibeam Avenues' 
+international operations are based in the United Arab Emirates, Kingdom of Saudi Arabia, Australia, and 
+the United States of America. We also have business presence in Oman working with three of the largest 
+banks in the country. 
+  
+For further press queries please email or call  
+Vishal Dutta | (M) +91 9924387860, vishal.dutta@ia.ooo  
+ 
+For more info please visit -- www.ia.ooo, www.phronetic.ai and www.ccavenue.com  
+ 

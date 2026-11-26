@@ -1,0 +1,127 @@
+ 
+ 
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 1 20 4306000  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -1100 19, India  
+ 
+ 
+ 
+ 
+October 12, 2026 
+ 
+ 
+The General Manager  
+BSE Limited  
+Listing Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street Mumbai - 400 001 
+ 
+ 
+BSE Scrip Code: 532281 The Manager  
+National Stock Exchange of India Limited 
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C -1, Block -G 
+Bandra-Kurla Complex, Bandra(E)  
+Mumbai -400 051 
+ 
+NSE Scrip Code: HCLTECH 
+ 
+ 
+Subject: Release –  “HCLTech and Anthropic sign Global Premier Partnership to scale governed 
+Agentic AI across global enterprises”    
+  
+Dear Sir / Madam,  
+ 
+ 
+Enclosed please find a release on the captioned subject being issued by the Company today.  
+  This is for your information and records. 
+  
+Yours faithfully,  
+For HCL Technologies Limited 
+  
+ Manish Anand 
+Company Secretary  
+ 
+ 
+Encl.:a/a  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+HCLTech and Anthropic sign Global Premier Partnership to scale governed Agentic 
+AI across global enterprises 
+HCLTech to establish a dedicated Anthropic Business Unit and Centre of Excellence (CoE) to 
+accelerate deployments of Claude in enterprise environments  
+HCLSoftware becomes an Anthropic ISV partner, embedding Claude and Claude Code into 
+select enterprise products with frontier safety guardrails  
+ 
+Santa Clara, USA and NOIDA, India, Oct 12, 2026 -  HCLTech , a leading global technology 
+company, today announced a Global Premier Partnership with Anthropic, to accelerate 
+enterprise adoption of Agentic AI with a focus on safety, cybersecurity and governance. 
+HCLTech’s services teams will build industry solutions  and offerings powered by Claude, 
+Cowork and Claude Code, while HCLSoftware, as an Anthropic ISV partner, will embed these 
+into it select enterprise products.  
+HCLTech will establish a dedicated Anthropic Business Unit with a Center of Excellence (CoE ) 
+to build Agentic AI solutions and provide secure sandbox environments for enterprise 
+deployments of Claude through FDEs. It will also help clients adopt AI- native engineering 
+practices, train their workforces and build the organizational capabilities nee ded to operate 
+Agentic AI safely at scale.  
+As an ISV, HCLSoftware  will embed Claude capabilities and have access to advanced models 
+to integrate into select enterprise products across cybersecurity, automation and business 
+process application and application development, including HCL BigFix and HCL AppScan, 
+while enabling Actian AI analyst.  
+Additionally, HCLTech will integrate Claude and Claude Code in its agentic software 
+engineering platform AIForce  across IT support, code remediation and digital employee 
+services. These workflows are supported by policy guardrails, exception handling and human oversight for high- impact changes.   
+Additionally, HCLTech will integrate Claude and Claude Code in its agentic software 
+engineering platform AIForce across IT support, code remediation and digital employee 
+services. These workflows are supported by policy guardrails, exception handling and h uman 
+oversight for high- impact changes.   
+"AI can only be as useful as it is trustworthy, and we build Claude to give companies the 
+confidence to bring it into their most sensitive and valuable work. HCLTech manages those 
+kinds of systems for banks, hospitals, telecom companies and manufacturers, and we’re 
+excited to partner with them as they integrate Claude and Claude Code. This partnership —  and 
+our broader commitment to advancing capability and safety together —  is how AI will change 
+the way entire industries run for the better ,” said, Daniela Amodei, Co -founder and President of 
+Anthropic.  
+“Few technology companies combine the scale of a global systems integrator with the product 
+depth of an ISV. That gives us a rare advantage to securely engineer and deploy Agentic AI at 
+scale and deliver the business outcomes that matter most to our clients. Our partnership with 
+Anthropic further strengthens our capabilities to achieve the same.” said C Vijayakumar, CEO & 
+Managing Director, HCLTech.  
+ 
+2 
+ 
+The collaboration builds on HCLTech’s broader AI capabilities  across engineering, data, cloud 
+and software. By combining these capabilities with Anthropic’s commitment to advancing AI 
+and safety together, HCLTech will help clients move from AI experimentation to enterprise 
+deployment safely and at scale.  
+About HCLTech  
+HCLTech  is a global technology company, home to more than 223,000 people across 60 
+countries, delivering industry -leading capabilities centered around AI, digital, engineering, 
+cloud and software, powered by a broad portfolio of technology services and products. We work with clients across all major verticals, providing industry solutions for Financial Services, Manufacturing, Life Sciences and H ealthcare, Technology & Services, Semiconductor, Telecom 
+and Media, Retail and CPG, Mobility and Public Services. Consolidated revenues as of 12 months ending June 2026 totaled $14.8 billion. To learn how we can supercharge progress for 
+you, visit hcltech.com . 
+For further details, please contact: 
+Meredith Bucaro, Americas -  meredith -bucaro@hcltech.com  
+Elka Ghudial, Europe - elka.ghudial@hcltech.com  
+James Galvin, APAC -  james.galvin@hcltech.com  
+Nitin Shukla, India, Middle East & Africa - nitin -shukla@hcltech.com   
+ 
+ 
+ 

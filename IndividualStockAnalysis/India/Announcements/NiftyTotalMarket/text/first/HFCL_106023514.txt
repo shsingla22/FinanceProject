@@ -1,0 +1,182 @@
+ 
+ 
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan- 173213 (H.P.) Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466  
+HFCL/SEC/ 24-25                      October  15, 2024  
+ 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001 
+corp.relations@bseindia.com  
+Security Code No.: 500183 The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051 
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+ 
+RE: Intimation under Regulation 30 read with Para B of Part A of Schedule III to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and  SEBI Circular No. 
+SEBI/HO/CFD/CFD -PoD -1/P/CIR/2023/123 dated 13
+th July, 2023 
+ 
+Subject:  Product Launch  & Press Release:  HFCL Unveils two Innovative UBR Solutions: Advanced 4G & 5G 
+Backhauling and Energy -Efficient Rural Broadband Connectivity  Solutions  
+ Dear Sir(s)/ Madam, 
+ 
+We are pleased to announce to all our stakeholders that the Company has launched  two revolutionary Unlicensed 
+Band Radio (UBR) products  today at the India Mobile Congress 2024 , held in New Delhi .  
+ Promising to address the surging data  demands of today’s network environments and yet maintaining sustainability, 
+HFCL’s new launches include (a) 1 Gbps Small Form Factor 4G/5G backhauling Radio offering unprecedented spectral 
+and power efficiency, and (b) Energy efficient 2 Gbps Point -to-Multipoint Rural connectivity UBR . 
+ 
+The details as required under Regulation 30 of the SEBI Listing Regulations, 2015 read with SEBI Circular No. 
+SEBI/HO/CFD/CF D-PoD -1/P/CIR/2023/123 dated 13
+th July, 2023 are as under:  
+ 
+Details of Product : 
+ 
+Particulars  Details  
+a) Name of the product  1 Gbps Small Form Factor 
+UBR  2 Gbps Point -to-Multipoint 
+UBR  
+b) Date of launch  October 15, 2024  October 15, 2024  
+c) Category of the product  Wireless Access Network 
+Connectivity  Wireless Access Network 
+Connectivity  
+d) Whether caters to domestic/international 
+market  Domestic & International  
+ Domestic & International  
+ 
+e) Name of the countries in which the product is 
+laun ched (in case of international)  India  India  
+ 
+We are also enclosing herewith a Press Release in connection with  launch of 1 Gbps Small Form Factor UBR and 2 
+Gbps Point -to-Multipoint UBR.  
+ 
+We request to take the above information on  your  record s and disseminate the same on your respective websites.  
+ 
+Thanking you.  
+ Yours faithfully,  
+For HFCL Limited    
+ 
+ 
+ 
+ 
+(Manoj Baid)  
+President & Company Secretary  
+ Encl.: Press Release.  
+ 
+Press Release  
+For immediate Release  
+ 
+HFCL Unveils two Innovative UBR Solutions: Advanced 4G & 5G Backhauling and 
+Energy- Efficient Rural Broadband Connectivity Solutions  
+ 
+• HFCL’s newly launched advanced 4G & 5G backhauling solutions are highly cost -effective, reducing 
+the total cost of ownership (TCO) to just one -tenth of that of conventional microwave or E -band 
+backhaul solutions.  
+• The Rural connectivity solutions consume less than one -third of the power required by typical 
+microwave or E -band solutions.  
+• Since the launch of their first -generation Unlicensed Band Radio (UBR) products in 2020, HFCL has 
+already shipped over 500,000 UBR units globally, reaching markets in India, the UK, Europe, the 
+Middle East, and Africa.  
+• ⁠The 2 Gbps UBR enables high -bandwidth connectivity across multiple remote villages from a single 
+fiber -PoP, making it ideal for point -to-multipoint deployments.  
+• Designed for extensive use in rural areas, this solution ensures efficient and scalable network coverage 
+for underserved regions, supporting the Prime Minister’s initiative for rural transformation by 
+fostering digital inclusion and driving economic growth.  
+ 
+New Delhi, October 15 , 2024:  HFCL Limited (HFCL), a le ading technology enterprise and next -gen 
+communications solution provider today announced the launch of two revolutionary Unlicensed Band 
+Radio (UBR) products at the India Mobile Congress 2024, Pragati Maidan, New Delhi.   
+ 
+Promising to address the surging data demands of today’s network environments  and yet maintaining 
+sustainability , HFCL’s new launches include : (a) 1 Gbps Small Form Factor 4G/5G backhauling Radio 
+offering unprecedented spectral and power efficiency, and (b) Energy efficient 2 Gbps Point -to-Multipoint 
+Rural connectivity UBR .  
+ 
+These designed in India UBR products underline HFCL’s position as a key player in the industry for 4G/ 5G 
+wireless backhauling  and rural connectivity solutions . HFCL’s new UBR devices offer fibr e-like speeds , 
+power efficiency,  and significant cost reductions  on utilities and tower space , enabling telcos and service 
+providers to save on CAPEX  and OPEX alike . Unlike any of traditional backhauling solutions, be it fibr e 
+optics, which can be costly and limited in reach, microwave systems which have  inherent capacity 
+constraints, and E -band radios which face reliability issues, HFCL’s UBRs deliver superior performance , 
+ultra -high capacity and high reliability  at almost one-tenth cost as compared to conventional backhauling 
+methods.  
+ 
+1 Gbps Small Form Factor UBR: Compact Powerhouse  
+The 1 Gbps UBR features a compact, portable design with an integrated antenna, making it exceptionally 
+easy to transport and install. Its small form factor is ideal for ra pid deployment in both urban and rural 
+environments and is packed with advanced features like bandwidth aggregation, low latency, minimized 
+jitter, and long range etc. making this ideal for 4G and 5G backhauling . Even in compact form, the device 
+provides 1  Gbps throughput, ensuring reliable and fast last-mile access and backhaul connectivity  over 
+longer distances . It also includes advanced RF interference mitigation technologies to enhance signal 
+integrity and achievable throughput , optimizing network performance in challenging environments.  
+ 
+2 Gbps Point -to-Multipoint UBR: Energy Efficient and Scalable  
+The 2 Gbps UBR is ideal for providing connectivity in remote villages from a G ram Panchayat in point -to-
+multipoint scenario, allowing simultaneous delivery of high -bandwidth to multiple  villages from a single 
+fibre -PoP. This makes it an ideal solution for extensive deployments in remote and rural environments.  
+ 
+These innovative UBRs are d esigned to deliver high  throughput in last-mile and offers telcos and service 
+providers with a scalable and robust wireless backhauling solution.  
+ 
+What sets HFCL apart is that these new UBR devices, among other wireless and wired products in its 
+portfolio, can be easily controlled, monitored, and managed  through an advanced Element Management 
+System (EMS). A single -pane-of-glass  interface that simplifies network management for large -scale 
+deployments for telcos and enterprises. Additionally, our Link Plann ing tool LinkXpert allows for 
+meticulous network p lanning in advance, ensuring optimal resource utilization and maximizing network 
+efficiency.  
+ 
+The Company has also hit a significant milestone of over 500,000 successful deployments of UBRs across 
+its key markets including India, the UK, Europe, Middle Eas t and Africa  
+ 
+On the launch of the two UBRs, Mr. Mahendra Nahata, Managing Director, HFCL,  said, “ We are proud to 
+be the first company to launch these cutting -edge indigenously -made UBR solutions that provide high -quality, 
+reliable, and innovative telecom solutions for 5G network expansion. Over half a million successful deployment 
+serving global customers is a testimony to the rising demand for the Unlicensed Band Radios to meet the 
+connectivity requirements. These groundbreaking solutions demonstrate our commitment to address unique 
+challenges faced by our telco customers and drive the future of global telecom infrastructure .” 
+ 
+About HFCL  
+ 
+HFCL is a leading technology company specializing in creating digital networks for telcos, enterprises, and 
+government s. Over the years, HFCL has emerged as a trusted partner offering sustainable high -tech 
+solutions with a commitment to providing the latest technology products to its customers. HFCL’s strong 
+R&D expertise coupled with its global system integration service s and decades of experience in fibre optics 
+enable it to deliver innovative digital network solutions required for the most advanced networks.  
+ 
+The Company’s in- house R&D Centres located in India at Gurgaon, Bengaluru and Hyderabad along with 
+invested R&D houses and other R&D collaborators at different locations in India and abroad, innovate a futuristic range of technology products and solutions. HFCL has developed capabilities to provide premium 
+quality Optical Fibre and Optical Fibre Cables, state - of-the-art telecom products including 5G Radio Access 
+Network (RAN) products, 5G Transport Products, Wi -Fi Systems (Wi -Fi 6, Wi -Fi 7), Unlicensed Band 
+Radios, Switches, Routers and Defence electronics products.  
+ 
+The Company has state -of-the-art Optical Fibre an d Optical Fibre Cable manufacturing plants in Hyderabad, 
+and Optical Fibre Cable manufacturing plants in Goa and at its subsidiary HTL Limited in Chennai.  
+ 
+HFCL is a partner of choice for its customers across India, UK, Europe, Asia Pacific, the Middle East, Africa, and North America. HFCL’s commitment to quality and environmental sustainability inspires it to innovate 
+solutions for the ever - evolving customer needs.  
+ Visit www.hfcl.com  for more information.  
+ For further details, please contact:  
+ 
+ 
+HFCL  Limited  
+Manoj  Baid  | Amit  Agarwal | Alok  Chander  
+ 
+Email:  manoj.baid@hfcl.com 
+amit.agarwal@hfcl.com  
+alok@hfcl.com  
+ 
+Contact:  011  35209400  Adfactors  PR 
+Snigdha Nair  | Vasundhra  Sethi  | Akshataa Acharya  
+ 
+Email:  snigdha.nair@adfactorspr.com  
+vasundhra.sethi@adfactorspr.com  
+akshataa.acharya@adfactorspr.com  
+ 
+Contact:  9920481191  | 7428508927  | 9148730795  
+ 
+  
+                      

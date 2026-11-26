@@ -1,0 +1,241 @@
+                              
+ 
+Adani Power Limited            Tel +91 79 2656 7555  
+“Adani Corporate House ”           Fax +91 79 2555 7177   
+Shantigram, Near Vaishno Devi Circle, info@adani.com  
+S. G. Highway, Khodiyar,             www.adanipower.com  
+Ahmedabad -382421 , Gujarat India  
+CIN: L40100GJ1996PLC030533 
+ 
+Registered Office: “Adani Corporate House”, Shantigram , Near Vaishno Devi Circle, S. G. Highway, Khodiyar, Ahmedabad -382421  
+ 
+Date: September 19, 2025  
+ 
+To  
+ 
+BSE Limited  
+Floor 25, P J Towers,  
+Dalal Street,  
+Mumbai – 400 001  National Stock Exchange of India Limited  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai –  400 051  
+Scrip Code: 533096  Scrip Code: ADANIPOWER  
+ 
+  
+  
+Dear Sir / Madam,  
+ We would like to inform that the Securities and Exchange Board of India has issued two order s, both dated September 18, 2025, bearing reference nos . 
+WTM/KV/CFID/CFID- TPD/31671/2025 -26 and WTM/KV/CFID/CFID- SEC1/31672/2025 -
+26  (“Orders”).  
+ Copy of both the Orders  are attached herewith.  
+ We request you to please take th e same  on record.  
+ 
+Thanking You,  
+ 
+For Adani Power Limited  
+  
+ 
+Deepak S Pandya  
+Company Secretary  
+ Encl.: as above 
+ 
+ 
+ 
+Final order in the matter of Hindenburg Allegations against Adani Group with respect to transactions with Adicorp 
+Enterprises Private Limited    Page 1 of 63 
+ 
+WTM/KV/CFID/CFID -TPD/31671/2025 -26 
+ 
+SECURITIES AND EXCHANGE BOARD OF INDIA  
+FINAL ORDER  
+ 
+UNDER SUB -SECTION S (1) AND (4) OF SECTION 11, SUB -SECTION (4A) OF 
+SECTION 11 , SUB -SECTIONS (1) AND (2) OF SECTION 11B OF THE 
+SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 ; SUB -SECTIONS 
+(1) AND (2) OF SECTION  12A OF THE SECURITIES CONTRACTS 
+REGULATION ACT, 1956  
+ 
+IN THE MATTER OF HINDENBURG ALLEGATIONS AGAINST ADANI GROUP 
+WITH RESPECT TO TRANSACTIONS WITH ADICORP ENTERPRISES 
+PRIVATE LIMITED  
+In respect of : 
+Noticee 
+no. Name of the Noticee  PAN  
+1 Adani Ports & Special 
+Economic Zone Limited  AAA CG7917K  
+2 Adani Power Limited  AABCA2957L  
+3 Adicorp Enterprises Pvt. Ltd.  AAACB7826J  
+4 Mr. Gautam Shantilal Adani  ABKPA0965H  
+5 Mr. Rajesh Shantilal Adani  ABKPA0962A  
+(The aforesaid entities are hereinafter individually referred to by their respective 
+names/Noticee no. and collectively referred to as “Noticees” unless the context 
+specifies otherwise)  
+ 
+  
+ 
+ 
+ 
+Final order in the matter of Hindenburg Allegations against Adani Group with respect to transactions with Adicorp 
+Enterprises Private Limited    Page 2 of 63 
+ 
+Table of Contents  
+ 
+A. BACKGROUND  ................................ ................................ ................................ ..................  3 
+B. ALLEGATIONS MADE AGAI NST NOTICEES IN THE SHOW CAUSE NOTICE 
+(SCN)                                                                                                                                                                  4 
+B.1.  Allegations in the SCN with regard to financial transactions entered into between 
+Noticee nos. 1 and 2  through the Noticee no.3  ................................ ................................ ...... 4 
+B.2.  Allegations  in the SCN with respect to the requirement of disclosures by Noticee 
+no.1 and Noticee no.2  with respect to Audit Committee review/approvals for the alleged 
+transactions : ................................ ................................ ................................ ................................ . 9 
+B.3.  Allegations in the SCN with respect to requ irements of Board approval/  
+shareholder approval for the alleged transactions between Noticee nos.1 and 2  : ........  11 
+B.4.  Specific allegations alleged in the SCN  ................................ ................................ ..... 12 
+C. HEARING AND SUBMISSIONS OF NOTICEES  ................................ ........................  16 
+C.1.  Hearing  ................................ ................................ ................................ ...........................  16 
+C.2.  Summary of replies filed by Noticees  ................................ ................................ .... 17 
+D. CONSIDERATION OF ISSUES:  ................................ ................................ ....................  32 
+D.1.  Consideration on Preliminary Issues : ................................ ................................ ... 32 
+D.2.  Issues  for Consideration  ................................ ................................ ...........................  35 
+D.3.  Determination  of two main issues  ................................ ................................ ..........  35 
+D.3.1.  Issue no 1:  Whether the loan transactions between Noticee  no 1 and Noticee  
+no. 2  and ALL, through the Noticee no. 3  during the period from F. Yrs 2012 -13 to 
+2020 -21 can be classified as related party transactions under the earlier Listing 
+Agreement or subsequent LODR Regulations?  ................................ ................................ ... 35 
+D.3.2.  Issue no 2:   Whether there was a scheme or artifice to conceal related party 
+transaction that otherwise fall under the Listing Agreement/LODR Regulations?  ..........  55 
+D. 3.3 Other violations alleged in the SCN  ................................ ................................ .......  59 
+E. Conclusion  ................................ ................................ ................................ ............................  60 
+F. Direction  ................................ ................................ ................................ ................................  63 
+ 
+  
+ 
+ 
+ 
+Final order in the matter of Hindenburg Allegations against Adani Group with respect to transactions with Adicorp 
+Enterprises Private Limited    Page 3 of 63 
+ 
+A. BACKGROUND  
+1. Hindenburg Research, a United States based financial research firm and 
+shortseller  published a report on January 24, 2023, against Adani Group 
+(hereinafter referred to as “ Hindenburg Report”/ “HR ”) which inter-alia, alleged 
+that Adicorp Enterprises Private Limited (hereinafter referred to as “ Adicorp ” or 
+“Noticee no.3 ”) was used as a conduit to route funds from various Adani group 
+companies to fund publicly listed Adani Power Limited ( hereinafter referred to as 
+“APL” or “ Noticee no.2 ”) stating that  
+“Despite Adicorp Enterprises’ modest financial profile, 4 Adani Group 
+companies lent the  company a total of INR 6.2 billion (U.S. $87.4 Million) in 
+2020. We found no disclosure of these transactions in the financial statements 
+of the Adani Group lenders, several of which are publicly listed. The loans 
+seem financially ill -advised. Given its n et profit, it would take Adicorp 
+Enterprises around 900 years to earn enough to pay back the loans even 
+without interest. In 2020, Adicorp Enterprises used its newfound capital to loan 
+INR 6.1 billion (U.S. $86 million) to Adani Power on an unsecured basis . The 
+loan to Adani Power represented about 98% of the funds it received from the 
+4 other Adani entities. In short, it looks like Adicorp has simply been used to 
+route funds from various Adani Group companies to publicly listed Adani 
+Power ”. 
+ 
+2. In response to the aforesaid allegations, the Adani Group provided its 
+clarification to stock exchanges namely, National Stock Exchange of India Ltd. 
+and BSE Ltd.  vide corporate announcement dated January 29, 2023 and also to 
+Securities and Exchange Board of India ( hereinafter referred to as “SEBI” ), as 
+under:  
+“Adicorp is not a related party, and transactions with Adicorp are not ‘related 
+party transactions’ under laws of Indian or accounting standards and these 
+have been undertaken in compliance with applicable law.”  
+ 
+ 
+ 
+ 
+ 
+Final order in the matter of Hindenburg Allegations against Adani Group with respect to transactions with Adicorp 
+Enterprises Private Limited    Page 4 of 63 
+ 
+B. ALLEGATIONS MADE AGAINST NOTICEES IN THE SHOW CAUSE 
+NOTICE (SCN)  
+3. Considering the allegations  made in the Hindenburg Report , SEBI carried out a 
+detailed investigation in the matter in order to ascertain whether  the listed Adani 
+Group of Companies , by way of any possible material misrepresentation in the 
+financial statements, attempted to circumvent the provisions of the Securities 
+and Exchange Board of India Act, 1992 (hereinafter referred to as ‘ SEBI Act’ ); 
+SEBI (Listing Obligations and Disclosure s Requirements) Regulations, 2015 
+(hereinafter referred to as “ LODR R egulations ”); SEBI  (Prohibition of 
+Fraudulent and Unfair Trade Practices Relating to Securities Market) 
+Regulations, 2003 (hereinafter referred to as “ PFUTP Regulations ”) or any 
+Rules or Regulations made thereunder for the period from financial year 2012 -
+13 to 2020 -21 (hereinafter referred to as “investigation p eriod ”).  
+ 
+4. With respect to allegations of funding by Adani Group in respect of  transactions 
+with the Noticee no.3 , it was observed in the SCN that Adani Ports & Special 
+Economic Zone Limited (hereinafter referred to as  “APSEZ”  or “Noticee no.1 ”)  
+and Noticee no.2  had entered into financial transactions with the Noticee no.3  to 
+route funds from the Noticee no.1 to the Noticee no.2 .  Details of the fund 
+transactions is given under : 
+ 
+B.1. Allegations  in the SCN with regard to financial transactions entered into between 
+Noticee no s. 1 and 2  through the Noticee no.3  
+5. The analysis of bank account statements of the Noticee no. 3, showed that 
+during FY 2012 -13 and FY 2018 -19, the Noticee no. 1  transferred ₹1282 crore 
+to the Noticee no. 3  which in turn transferred the same amount to the Noticee 
+no. 2  on the same day or  the next day. Further, the Noticee no. 2  repaid the 
+amount to the Noticee no. 3, with interest which in turn repaid the amount to the 
+Noticee no. 1  and its’ 100% subsidiary ALL on the same day or the next day.  
+ 
+ 
+ 
+ 
+Final order in the matter of Hindenburg Allegations against Adani Group with respect to transactions with Adicorp 
+Enterprises Private Limited    Page 5 of 63 
+ 
+The details of fund transactions  entered into  between Noticee no s. 1 and 2  
+through the Noticee no. 3  is given below:       
+Table no. 1  
+(In Crore)  
+ 
+Sr. 
+no. F.Y. Fund recd. 
+from  Amount  Onward 
+transfer to  Amount  
+1 2012 -13 APSEZ  57.00  APL 57.00  
+2 50.00  50.00  
+3 200.00  200.00  
+4 2018 -19 APSEZ  500.00  APL 500.00  
+5 475.00  475.00  
+ Total   1282.00   1282.00  
+ 
+6. The transactions observed from the bank account of the Noticee no. 3 to the 
+Noticee no. 1  and Adani Logistics Ltd. ( ALL) which  is a 100% subsidiary of  the 
+Noticee no.1 , is as under:  
+Receipt of loan from ALL by the Noticee no. 3  
+Table no. 2  
+     (In crore)  
+S. 
+No Date  Funds 
+received 
+from  Amount  Date  Onward 
+transfer to  Amount  
+1 02/04/2019  ALL 495.00  03/04/2019  APSEZ  495.00  
+ 
+7. The repayment of amount received from the Noticee no. 2  to the Noticee no. 1  
+or to ALL through the Noticee no. 3  are as under : 
+Table no. 3  
+          (In crore)  
+S. 
+No. F.Y./Date  Receipt
+s from  Amount  Date  Onward 
+transfer to  Amount  
+1 2014 -15 APL 337.00  2014 -15 APSEZ  337.00  
+2 10.40  10.37  
+3 28/09/2018  APL 475.00  28/09/2018  APSEZ  475.00  
+4 2020 -21 APL 102.85  2020 -21 ALL 49.28  
+APSEZ  53.54  
+5 528.62  ALL 518.98  
+APSEZ  5.24 
+ Total 
+receipts   1453.87  Total onward 
+transfers   1449.41 * 
+ 
+*This amount does not include INR 495 crores returned to APSEZ which is listed at Table 
+no.2 above  

@@ -1,0 +1,163 @@
+--- CIM_20913_WebXMLFile_20260831_221905062_1.xml (the exchange's structured disclosure) ---
+NSESymbol: SIGNATURE ; Name Of The Company: SIGNATUREGLOBAL (INDIA) LIMITED ; Scrip Code: 543990 ; MSEISymbol: NOTLISTED ; ISIN: INE903U01023 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-31 ; Time Of Occurrence Of Event Or Information: 17:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-31 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: President-Sales ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sandeep Kumar Mittal ; Effective Date Of Reason Of Change: 2026-08-31 ; Salutation: Mr. ; Name Of The Person: Sandeep Kumar Mittal ; Designation Of Person: President-Sales ; Date On Which The Resignation Letter Was Received: 2026-08-21 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: Personal Reasons
+
+--- CIMG_543990_31082026221838_2.pdf ---
+Date: 31st August, 2026
+The Manager
+BSE Limited
+Corporate Relationship Department,
+1st Floor, New Trading Ring,
+Rotunda Building
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai 400 001
+
+The Manager
+National Stock Exchange of India Limited
+Listing Department
+Exchange Plaza
+5th Floor, Plot no C/1, G Block
+Bandra Kurla Complex
+Bandra (E), Mumbai – 400 051
+
+Scrip Code : 543990
+Debt Segment : Scrip Code-977218
+
+Symbol : SIGNATURE
+
+Subject: Intimation pursuant to Regulation 30 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 - Change in Senior Management
+Personnel
+Dear Sir/ Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (“Listing Regulations”), we would like to inform that Mr. Sandeep Kumar
+Mittal, President – Sales, designated as Senior Management Personnel of the Company, has
+tendered his resignation from the said position, due to personal reasons. The said resignation
+has been accepted and is effective from the closing of business hours on 31st August, 2026.
+The details required pursuant to Regulation 30 of the Listing Regulations read with SEBI
+Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated 30 th January, 2026,
+are enclosed as Annexure - I and a copy of said resignation letter is also enclosed as
+Annexure - II.
+Kindly take the above information on your record.
+Thanking You,
+For SIGNATUREGLOBAL (INDIA) LIMITED
+
+Meghraj
+Bothra
+
+Digitally signed by Meghraj Bothra
+DN: c=IN, o=Personal, postalCode=110034, l=North
+West Delhi, st=Delhi, street=2890/1 SF SANT NAGAR,
+RANI BAGH, Delhi India 110034, title=1802,
+2.5.4.20=1e047b4394bcf4c5de5a2639f513863aef8454
+9a8b2d054ffc19a6606d774e57,
+serialNumber=c32479ccd87a4ef81e06f955d3a91f5d1
+b6ae7532fb94d948a50c7d2b1ff9f20,
+email=bothramr@yahoo.co.in, cn=Meghraj Bothra
+Date: 2026.08.31 21:40:01 +05'30'
+
+(M R BOTHRA)
+COMPANY SECRETARY
+Encl: A/a
+
+SIGNATUREGLOBAL (INDIA) LIMITED
+CIN: L70100DL2000PLC104787
+Regd. Off : 13 FLOOR DR. GOPAL DAS BHAWAN, 28 BARAKHAMBA ROAD, CONNAUGHT PLACE, NEW DELHI- 110001 Phone: 011-49281700
+Corp. Off. : UNIT NO.101,GROUND FLOOR, TOWER-A, SIGNATURE TOWER, SOUTH CITY-1 GURUGRAM HR- 122001Phone: 0124-4398011
+E-mail: compliance@signatureglobal.in, Website: www.signatureglobal.in
+TH
+
+
+Annexure – I
+Details as required under Regulation 30 read with Part A of Schedule III of the Listing
+Regulations and SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026
+dated 30th January, 2026 are as under:
+S.
+Particulars
+No.
+1.
+Reason for change viz.
+appointment,
+reappointment,
+resignation, removal,
+death or otherwise;
+2.
+Date of appointment/reappointment/cessation
+(as applicable) & term
+of
+appointment/reappointment;
+3.
+Brief profile (in case of
+appointment);
+4.
+Disclosure
+of
+relationships between
+directors (in case of
+appointment
+of
+a
+director).
+
+Information of such event
+Resignation of Mr. Sandeep Kumar Mittal as President –
+Sales.
+
+Closing of business hours on 31st August, 2026
+
+N.A.
+N.A.
+
+SIGNATUREGLOBAL (INDIA) LIMITED
+CIN: L70100DL2000PLC104787
+Regd. Off : 13 FLOOR DR. GOPAL DAS BHAWAN, 28 BARAKHAMBA ROAD, CONNAUGHT PLACE, NEW DELHI- 110001 Phone: 011-49281700
+Corp. Off. : UNIT NO.101,GROUND FLOOR, TOWER-A, SIGNATURE TOWER, SOUTH CITY-1 GURUGRAM HR- 122001Phone: 0124-4398011
+E-mail: compliance@signatureglobal.in, Website: www.signatureglobal.in
+TH
+
+
+Annexure - II
+Date: 21“August 2026
+
+To,
+
+Mr. Ravi Aggarwal
+Managing Director
+Signatureglobal (India) Limited
+
+Subject: Resignation from services at Signatureglobal (India) Limited
+Dear Mr. Aggarwal,
+
+Please accept this letter as formal notification that | am resigning from my position as
+
+President - Sales at Signatureglobal (India) Limited, to be effective from the closing of
+business hours of 31* August 2026 due to personal reasons.
+
+| have
+This decision was not made lightly, as | have valued my work at Signature Global.
+grateful for the
+gained valuable experience and skills during my tenure here, and | am
+opportunities | have been provided.
+
+departure. |am happy to
+lam committed to ensuring a smooth transition during my
+ibilities.
+in any way possible to facilitate the handover of my respons
+
+assist
+
+at Signature Global. | wish you and the
+Thank you again for the opportunity to work
+company all the best in the future.
+
+Sincerely,
+
+Pande
+
+Sandeep Kumar Mittal
+
+President - Sales
+
+5
+Employee ID: 100088
+
+

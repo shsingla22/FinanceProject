@@ -1,0 +1,193 @@
+ 
+CIN : L99999MH1946PLC004768  Larsen & Toubr o Limited  
+Secretarial  Departm ent 
+L&T House, Ballard Estate 
+Narottam Morarjee Marg 
+Mumbai - 400 001, INDIA 
+Tel: +91 22 6752 5656    
+Fax: +91 22 6752 5858   
+www.Larsentoubro.com  
+Email: igrc@larsentoubro.com  
+ 
+  
+ 
+ 
+ 
+SEC/ 2024                                 September 30, 2024  
+ 
+ 
+BSE Limited  
+Phiroze Jejeebhoy Towers,  
+Dalal Street,  
+MUMBAI - 400 001  
+STOCK CODE: 500510  
+  
+National Stock Exchange of India Limited  
+Exchange Plaza,  5th Floor 
+Plot No.C/1, G Block  
+Bandra -Kurla Complex  
+Bandra (E), Mumbai - 400 051  
+STOCK CODE: LT  
+ 
+ 
+Dear Sirs,  
+ 
+Re :  L&T makes new strides in Digital Energy Solutions business  
+Secured mandate to implement Energy Management Systems in South India  
+and expands portfolio in United States  
+ 
+We send h erewith  a copy of P ress Release that is being issued by the Company 
+today, in connection with the above. 
+ 
+We request yo u to take note of the same.  
+ 
+Thanking  you, 
+      Yours faithfully,  
+         for LARSEN & TOUBRO LIMITED  
+                                                                                      
+ 
+ 
+ 
+                            SIVARAM NAIR A 
+                              COMPANY SECRETARY  &  
+COMPLIANCE  OFFICER  
+               (FCS 3939)  8 LARSEN & TOUBRO 
+ 
+  
+L&T makes new strides in  Digital Energy Solutions business  
+Secured mandate to implement Energy Management  Systems in South India  
+and expands portfolio in United States  
+ 
+Mumbai, September 30 2024 : The Digital Energy Solutions (DES) arm of Larsen & Toubro’s 
+Power Transmission & Distribution (PT&D) business has received the mandate to develop 
+and implement  Energy Management Systems in regional and state load dispatch centers in 
+South India. This order is the latest addition to such digitally based intelligent projects being 
+executed by L&T DES globally.  
+ 
+Digital Energy Solutions (DES)  
+ 
+The Digital Energy Solutions arm of L&T’s Power Transmission & Distribution vertical is a 
+specialized set -up of power system experts offering advanced grid services, energy 
+consulting services and system integration solutions to speed up the digitalization  of electric 
+grid in India, Middle East and the USA.  
+ 
+Transmission & Distribution Management and Control  
+ 
+As part of the order in Southern India, Energy Management S ystem  and associated software 
+systems  will be implemented for 12 set of control rooms . These systems are being 
+implemented for main and backup configurations for the Southern Regional Load Dispatch 
+Centre (RLDC) and the State Load Dispatch Centers (SLDC) of Andhra Pradesh, Kerala, 
+Puducherry, Tamil Nadu and Telangana. The integration and implementation of these 
+systems will be carried out without causing any downtime for the existing system.  
+ 
+L&T DES will implement this upgradation of control rooms with power system applications 
+supplied by the world’s  leading OEM to monitor and control the energy flow in electricity 
+transmission network in real time to ensure reliable and secure grid operations. The upgrade 
+work will leverage L&T -Spark -CRIMTM (Control Room Integration Middleware) Platform to 
+integrate substation data.   
+ 
+Through a nother  recent mandate, L&T DES team will implement upgradation  of power  and 
+transmission control room in the western United States, with one of the most complex 
+configuration s involving  more than 15 EMS hosts , deploying  advanced applications to monitor 
+and control the energy flow in real -time. The scope  includes design and implementation of (fi) LARSEN & TOUBRO www w,entouhro com 
+L& T Press Release 
+Issued by Corporate Brand Management & Communications L&T House 
+Ballard Estate, Mumbai 400 001 
+Tel. 91 22 6752 5656 
+CIN L99999MH1946PLC004768 
+ 
+ power and transmission network operation situational awareness to assist operators and 
+analyst s to improve grid reliability.   
+ 
+L&T is already executing a slew of advanced grid modernization and digitalization orders in 
+India, including the upgradation work in  National and Regional Transmission Asset 
+Management Centers consisting of 13 control rooms nation -wide integrating 270 EHV 
+transmission substations.  
+ 
+On the Distribution Grid Management side, L&T DES is implementing advanced distribution 
+management systems in Mumbai and Vadodara.  
+ 
+Renewable Integration and Control  
+ 
+L&T DES team implement s L&T-Spark -HECSTM (Hybrid Energy Management and Control 
+System) to monitor and control the renewable hybrid plant of 185 MW Solar cum 254 MWH 
+energy storage  capacity which L&T is executing in Bihar.  
+ 
+With fast evolving buildout of renewable hybrid plants, the business is engaged worldwide 
+in providing Solar -Storage Power Plant Controller implementations for large renewable 
+energy projects.  Currently,  L&T-Spark -PPCTM (Solar Power Plant Controller) has been 
+powering 6 solar plants with multiple gigawatts  of peak production capacity ensuring  full 
+regional grid compliance in India and Middle East regions.   
+ 
+In a recent milestone,  700 MW ArRass solar plant went live in production powered by L&T -
+Spark -PPCTM, monitoring and controlling 200+ solar inverters to meet the plant performance 
+while honoring the real -time deployment signals from Saudi Electric Central Region Control 
+Center (CRCC) assisting in reliable grid operation with advanced control functions in cluding 
+synthetic inertia.  
+ 
+In Puerto Rico, United States, L&T DES team has been working on  an interconnection 
+simulation study and Substation control engineering  assignment involving  8 grid interactive 
+renewable hybrid substation s consisting of solar and storage. Upon the successful 
+completion of engineering design phase for the first substation, L&T DES team in USA has 
+been awarded to implement L&T -Spark -HECSTM (Hybrid Energy Management and Control 
+System) thus providing end to end solution delivery from design to completion. The of fered  
+solution will be one of the first fully integrated implementation s combining Solar, Energy  
+Storage and Substation supervisory monitoring and control , from a single platform with full 
+functional Historian and Hyper Local Energy Forecasting duly integrated with weather 
+monitoring system.  
+ 
+L&T DES has established the technical team as a specialized set -up of world leading power 
+system experts offering advanced grid services providing complete simulation study for 
+renewable grid interconnection followed by grid interactive renewable hybrid su bstation 
+engineering and control design.   
+ 
+Advanced Grid & Energy Innovation Services  
+ 
+L&T DES  business in USA continues to be the center of excellence for providing advanced 
+consulting services and research & development assignments  for energy systems and grid . 
+ 
+ This includ es resilience planning, feasibility assessment, simulation studies, bulk power 
+balancing authority services, cybersecurity compliance etc. for various digitalization and 
+decarbonization projects in United States.  
+ 
+L&T DES team will work on recently awarded grant projects, being carried out for partners 
+under contract with California Energy Commission (CEC) and USA Department of Energy  as 
+part of the California Energy Commission (CEC) grant funding opportunity “GFO -20-305: 
+California Community Microgrid - Reimagining Affordable Mixed -Use Development in a 
+Carbon -Constrained Future” . The grant is  aimed at building an all -electric, transit -
+integrated, affordable, and supportive community. Salient features of this demonstration 
+include  the first  scaled bi -directional EV Charging in the USA  and the first 95 %-100% resilient 
+apartment community in the world.  Ultimately, this will  serve  as a new template for rapid 
+utility interconnection to comply with SB 410 , the Powering Up Californians Act  aimed at  
+speed ier customer interconnections to the utility grid.  
+ 
+Hybrid Energy Network Operation Center  
+ 
+L&T DES business in USA is all set  to provide  turnkey solution for 300 MW Solar “Balancing 
+Authority ” services in western United States. Balancing Authority (BA) services enable 
+renewable plant integration while meeting NERC (North Electric Reliability Council) criteria 
+administered by regional reliability council for reliable  operation of  renewable asset and 
+grid. These  services will facilitate  multiple monetary value streams by allowing energy 
+transactions within and beyond the local utility jurisdiction , availin g most optimum 
+combination of trades and transactions while meeting NERC and WECC (Westen Electric 
+Coordination Council) reliability compliance.  The project will be delivered by the facility 
+called HENOC (Hybrid Energy Network Operation Center) in Fairfie ld, California, USA. The 
+facilities and personnel involved in the project have been certified by NERC.  
+ 
+Commenting on the development Mr T. Madhava Das, Whole -Time Director & Senior 
+Executive Vice President (Utilities)  – Larsen & Toubro said: “ In line with L&T’s ethos of 
+technology for sustainable growth , and banking on our deep domain expertise in Power T&D 
+and Renewable generation areas, we are happy to speed up the data driven transition of 
+our customers . 
+ 
+Background:  
+ 
+Larsen & Toubro  is a USD 2 7 billion Indian multinational engaged in EPC Projects, Hi -Tech Manufacturing , and 
+Services , operating across multiple geographies . A strong, customer –focused  approach and the constant quest 
+for top -class quality have enabled L&T to attain and sustain  leadership in its major lines of business for over 
+eight decades . 
+ 
+Media Contacts:  
+Sumeet Chatterjee  
+Head - Corporate Brand Management & Communications  
+sumeet.chatterjee@larsentoubro.com  

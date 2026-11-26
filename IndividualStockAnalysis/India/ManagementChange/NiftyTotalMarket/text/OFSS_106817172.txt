@@ -1,0 +1,110 @@
+--- CIM_2021_WebXMLFile_20261014_145225995_1.xml (the exchange's structured disclosure) ---
+NSESymbol: OFSS ; Name Of The Company: ORACLE FINANCIAL SERVICES SOFTWARE LIMITED ; Scrip Code: 532466 ; MSEISymbol: NOTLISTED ; ISIN: INE881D01027 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-14 ; Time Of Occurrence Of Event Or Information: 09:58:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-10-14 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: NIAN NIAN YUAN ; Effective Date Of Reason Of Change: 2026-10-15 ; Salutation: Mr. ; Name Of The Person: NIAN NIAN YUAN ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-14 ; Effective Date Of Resignation: 2026-10-15 ; Reason Of Resignation In Brief: Due to other professional and personal commitments
+
+--- CIMG_532466_14102026145128_2.pdf ---
+Oracle Financial Services Software Limited
+
+Oracle Park
+Off Western Express Highway
+Goregaon (East)
+Mumbai, Maharashtra 400063
+India
+
+phone +91 22 6718 3000
+fax
++91 22 6718 3001
+oracle.com/financialservices
+
+October 14, 2026
+To,
+Asst. Vice President, Listing & Compliance
+
+Asst. General Manager, Listing & Compliance
+
+National Stock Exchange of India Limited
+
+BSE Ltd.
+
+Exchange Plaza, Bandra-Kurla Complex
+
+1st Floor, Phiroze Jeejeebhoy Towers,
+
+Bandra (East), Mumbai 400 051
+
+Dalal Street, Mumbai 400 001
+
+Scrip Code – OFSS
+
+Scrip Code – 532466
+
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, we hereby inform you that Mr. Nian Nian Yuan (DIN 11107498),
+Non-Executive, Non-Independent Director of the Company, has tendered his resignation which
+will be effective from the close of business hours of October 15, 2026.
+The relevant details as per the requirement of Regulation 30 of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, read with SEBI Circular SEBI/HO/CFD/CFD-PoD1/P/CIR/2023/123 dated July 13, 2023, are given in the enclosed Annexure A and a copy of the
+resignation letter received from Mr. Yuan is enclosed as Annexure B.
+Thanking you,
+Yours sincerely,
+For Oracle Financial Services Software Limited
+Digitally signed by
+
+ONKAR NATH ONKAR NATH BANERJEE
+Date: 2026.10.14
+BANERJEE
+14:32:47 +05'30'
+
+Onkarnath Banerjee
+Company Secretary & Compliance Officer
+Membership No. ACS8547
+
+Registered Office: Oracle Park, Off Western Express Highway, Goregaon (East), Mumbai, Maharashtra 400063, India
+CIN: L72200MH1989PLC053666
+
+
+Annexure A
+Details as per the requirement of Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, read with SEBI Circular SEBI/HO/CFD/CFD-PoD1/P/CIR/2023/123 dated July 13, 2023
+Reason for change
+
+Date cessation
+
+Resignation of Mr. Nian Nian Yuan (DIN 11107498),
+Non-Executive, Non-Independent Director of the
+Company.
+October 15, 2026
+
+Brief profile (in case of appointment);
+
+Not applicable
+
+Disclosure of relationships between
+directors (in case of appointment of a
+director).
+
+Not Applicable
+
+
+Annexure B
+Date: October 14, 2026
+The Board of Directors
+Oracle Financial Services Software Limited
+Oracle Park, Off Western Express Highway, ð
+Goregaon (East), Mumbai – 400063
+Maharashtra, India
+Dear Members of the Board,
+Subject: Resignation from the Board of Directors of Oracle Financial Services Software
+Limited (“the Company”)
+I hereby tender my resignation from the Board of Directors of the Company as NonExecutive, Non-Independent Director with effect from the close of business hours of
+October 15th, 2026 due to my other professional and personal commitments.
+I hereby take this opportunity to thank my colleagues on the Board for the co-operation
+extended to me during my tenure and wish the Company the very best in its future
+endeavors.
+Thank you,
+
+Nian Nian Yuan
+DIN: 11107498
+
+

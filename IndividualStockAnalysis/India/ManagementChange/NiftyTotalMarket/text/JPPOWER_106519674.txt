@@ -1,0 +1,2361 @@
+JAIPRAKASH
+POWER VENTURES LIMITED
+4th February, 2026
+
+Ref: JPVL:SEC:2026
+
+The General Manager,
+The General Manager
+Listing Department,
+Department of Corporate Services
+National Stock Exchange of India Ltd., BSE Limited,
+"Exchange Plaza", C-1, Block G,
+25 th Floor, New Trading Ring,
+Bandra-Kurla Complex,
+Rotunda Building,
+Bandra (E),
+P J Towers, Dalal Street, Fort,
+Mumbai -400 051
+Mumbai - 400 001
+
+Scrip Code: JPPOWER
+
+Scrip Code: 532627
+
+Sub: Un-audited Standalone and Consolidated Financial Results of the
+Company for the quarter and nine months ended 31 st December,
+2025
+Dear Sirs,
+We are enclosing herewith the Un-audited Standalone and Consolidated
+Financial Results for the quarter and nine months ended 31 st December,
+2025 in the prescribed format as required under Regulation 33(3) of
+Securities & Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015. The results have been reviewed by the
+Audit Committee and approved by the Board of Directors in their respective
+meetings held on 4th February, 2026.
+Further, as required under Regulation 33(2)(c) of the Securities and
+Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, also enclosed herewith a copy each of "Limited Review
+Report" by the Statutory Auditors on the Un-audited Standalone and
+Consolidated Financial Results of the Company for the quarter and nine
+months ended 31 st December, 2025. The "Limited Review Report" has been
+placed before the Board of Directors in their meeting held on 4th February,
+2026.
+The meeting commenced at 12.00 Noon and concluded at 3.40 P.M.
+Thanking you,
+Yours faithfully,
+For JAIPRAKASH POWER VENTURES LIMITED
+MAHESH
+KUMAR
+CHATURVEDI
+(Mahesh Chaturvedi)
+General Manager & Company Secretary
+(FCS: 3188)
+Digitally signed by MAHESH KUMAR CHATURVEDI
+DN: c=IN, postalCode=110058, st=DELHI, street=HOUSE NO.
+24, 2ND FLOOR, BLOCK D-2, ,JANAKPURI, ,WEST DELHI,NEW
+DELHI - 110058 ,110058, l=WEST DELHI, o=Personal,
+serialNumber=2daa0bdba4bf94e131b7b7721f43e683433ed14
+a771718457fa66d7e0eb899fd,
+pseudonym=04d192d085594cabaf6cec95c2b94fb2,
+2.5.4.20=8b3abcb378eb3f74cc88942d7bc12866101a4552f0a6
+53d7960f36577b22501a,
+email=CS.MAHESHCHATURVEDI@GMAIL.COM, cn=MAHESH
+KUMAR CHATURVEDI
+Date: 2026.02.04 16:00:25 +05'30'
+
+Corp. Office: 'JA House' 63, Basant Lok, Vasant Vihar, New Delhi-H0057 (India)
+Ph. :+91 (H) 26.141358 Fax: +91(11) 26145389, 26..\43591
+Regd. Office: Complex of Jaypee Nigrie Super Thermal Power Plant, Nigrie Tehsil Sarai,
+Distt. Singrauli-486669, (M.P.) Ph. : +91 (7801) 286021-39 Fax: +91 (7801) 286020
+E-mail: jpvl.investor@jalindia:co.in, Website : www.jppowerventures.com
+elN : L40101MP1994PLC042920
+
+
+JAIPRAKASH POWER VENTURES LIMITED
+
+Regd. Office: Complex of Jaypee Nigrie Super Thermal Power Plant, Nigrie, Tehsil Sarai, District Singrauli - 486 669, (Madhya Pradesh)
+Corporate Office: 'JA House' 63, Basant Lok, Vasant Vihar, New Delhi - 110057 (India)
+Website: www.jppowerventures.com
+Email: jpvl.investor@jalindia.co.in
+CIN : L40101MP1994PLC042920
+
+STATEMENT OF STANDALONE & CONSOLIDATED UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED 31 st DECEMBER ,2025
+Standalone
+Nine Months Ended
+Year Ended
+31.12.2024
+31.12.2025 31.12.2024
+31.03.2025
+Unaudited
+Unaudited
+Unaudited
+Audited
+
+Particulars
+31.12.2025
+Unaudited
+I
+II
+III
+IV
+
+Revenue from operations
+Other income
+Total Income (1+11)
+Expenses
+Cost of material and operation expenses
+Purchases of stock-in-trade
+Changes in inventories of finished goods, work-in-progress and stock-in-trade
+
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expenses
+Other expenses
+Total expenses (IV)
+V Profit I (loss) before exceptional items and tax (III-IV)
+VI Exceptional items (net)(Gain)/Loss
+VII Profit I (loss) before tax (V-VI)
+VIII Tax expense
+(1) Current tax
+(2) MAT Credit Entitlement
+(3) Income tax of earlier years
+(4) Reversal of MAT credit entitlement of earlier years
+(5) Deferred tax
+IX Net Profitl(loss) after tax (VII-VIII)
+X
+
+XI
+
+Quarter Ended
+30.09.2025
+Unaudited
+
+1,15,557
+5,583
+1,21,140
+
+1,43,830
+4,013
+1,47,843
+
+1,14,017
+11,618
+1,25,635
+
+4,17,703
+14,311
+4,32,014
+
+4,12,128
+21,868
+4,33,996
+
+5,46,219
+24,411
+5,70,630
+
+1,15,557
+5,588
+1,21,145
+
+1,43,830
+4,019
+1,47,849
+
+1,14,017
+11,646
+1,25,663
+
+4,17,703
+14,379
+4,32,082
+
+4,12,128
+21,960
+4,34,088
+
+5,46,219
+24,536
+5,70,755
+
+85,083
+
+84,048
+
+78,276
+
+2,57,614
+
+2,44,079
+
+3,25,023
+
+85,083
+
+84,048
+
+78,276
+
+2,57,614
+
+2,44,079
+
+3,25,023
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+4,180
+9,976
+11,915
+8,529
+1,18,648
+29,201
+
+3,658
+9,742
+11,649
+3,087
+1,06,412
+19,251
+
+12,846
+28,805
+35,595
+22,678
+3,57,538
+74,544
+
+10,704
+31,676
+35,433
+10,727
+3,32,619
+1,01,469
+
+15,234
+41,417
+47,020
+20,500
+4,49,194
+1,21,561
+
+5,019
+9,131
+11,947
+7,977
+1,19,157
+1,983
+
+Other Comprehensive Income
+A (i) Items that will not be reclassified to profit or loss
+(ii) Income tax relating to items that will not be reclassified to profit or loss
+B (i) Items that will be reclassified to profit or loss
+(ii) Income tax relating to items that will be reclassified to profit or loss
+Other comprehensive income for the period
+Total comprehensive income for the period (IX+X) (Comprising Profit (Loss)
+and Other comprehensive income for the period)
+Profit I (loss) attributable to :
+Owners of the parent
+Non-controlling interest
+
+31.12.2025
+Unaudited
+
+(Rs in Lakhs except Earning Per Share)
+Consolidated
+Quarter Ended
+Nine Months Ended
+Year Ended
+31.12.2024
+31.12.2025
+31.12.2024
+31.03.2025
+30.09.2025
+Unaudited
+Unaudited
+Audited
+Unaudited
+Unaudited
+
+4,177
+10,003
+11,915
+8,527
+1,18,670
+29,173
+
+-
+
+3,655
+9,738
+11,649
+3,085
+1,06,403
+19,232
+
+12,839
+28,801
+35,595
+22,550
+3,57,399
+74,615
+
+-
+
+-
+
+10,701
+31,672
+35,433
+10,724
+3,32,609
+1,01,387
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+29,173
+
+19,232
+
+74,615
+
+1,01,387
+
+1,21,456
+
+1,862
+
+29,201
+
+19,251
+
+74,544
+
+1,01,469
+
+1,21,561
+
+377
+(377)
+
+5,083
+(5,083)
+
+3,349
+(3,349)
+
+13,030
+(13,030)
+
+10,495
+(10,495)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+12,518
+(12,518)
+(494)
+
+5,089
+(5,084)
+16
+
+3,355
+(3,341)
+(198)
+
+12,540
+(12,521)
+(690)
+
+-
+
+-
+
+10,970
+18,203
+
+6,767
+12,465
+
+28,128
+46,487
+
+35,863
+65,524
+
+40,877
+81,073
+
+10,970
+18,210
+
+6,767
+12,668
+
+13,032
+(13,030)
+9
+5
+28,128
+46,400
+
+10,511
+(10,497)
+(196)
+
+1,494
+489
+
+368
+(375)
+(7)
+5
+1,494
+377
+
+35,863
+65,788
+
+40,877
+81,355
+
+(38)
+13
+
+1
+(1 )
+
+6
+(2)
+
+(36)
+12
+
+17
+(6)
+
+4
+(2)
+
+(38)
+13
+
+1
+(1 )
+
+6
+(2)
+
+(36)
+12
+
+17
+(6)
+
+4
+(2)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(25)
+464
+
+18,203
+
+4
+12,469
+
+(24)
+46,463
+
+11
+65,535
+
+2
+81,075
+
+(25)
+352
+
+18,210
+
+4
+12,672
+
+(24)
+46,376
+
+11
+65,799
+
+2
+81,357
+
+377
+
+18,210
+
+12,668
+
+46,400
+
+65,788
+
+81,355
+
+-
+
+-
+
+-
+
+65788
+
+81,355
+
+-
+
+-
+
+-
+
+5,020
+9,135
+11,947
+8,098
+1,19,283
+1,862
+
+1,983
+
+-
+
+-
+
+15,228
+41,413
+47,020
+20,490
+4,49,174
+1,21,456
+
+Other Comprehensive Income attributable to :
+Owners of the parent
+Non-controlling interest
+
+-
+
+377
+
+18,210
+
+(25)
+
+-
+
+-
+
+Total Comprehensive income attributable to :
+Owners of the parent
+Non-controlling interest
+
+-
+
+-
+
+12,668
+
+46,400
+
+4
+
+(24)
+
+11
+
+-
+
+-
+
+-
+
+-
+
+XIII Equity Share Capital (Face value of Rs. 10/- per share)
+XIV Earn ings Per Share (Rs.)
+Basic
+Diluted
+
+d&~
+(~ N*'h;~
+<'
+
+0<:)
+
+""'?:
+
+.-
+
+.
+
+~
+
+(9
+~
+'/'(9(/ AccoY>
+
+-
+
+2
+-
+
+(25)
+
+-
+
+4
+
+(24)
+
+11
+
+2
+
+352
+
+18,210
+
+12,672
+
+46,376
+
+65,799
+
+81,357
+
+-
+
+-
+
+-
+
+-
+
+352
+
+18,210
+
+12,672
+
+46,376
+
+65,799
+
+81,357
+
+-
+
+1,61,978
+
+XII Other equity
+
+-
+
+1,62,221
+
+6,85 ,346
+
+6,85,346
+
+6,85 ,346
+
+6,85,346
+
+6,85,346
+
+6,85,346
+
+6,85,346
+
+6,85,346
+
+6,85,346
+
+6,85,346
+
+6,85,346
+
+6,85,346
+
+0.0048
+0.0048
+
+0.20
+020
+
+0.14
+0.14
+
+0.51
+0.51
+
+0.73
+0.73
+
+0.89
+0.89
+
+0.0036
+0.0036
+
+0.20
+0.20
+
+0.14
+0.14
+
+0.51
+0.51
+
+0.74
+0.74
+
+0.89
+0.89
+
+'L'!o\
+~:
+' ,r....0.. JI. Ji].111"~
+
+f~[
+CI)
+
+\~~
+
+f
+
+"''''
+\ Ol •\
+
+);J:" :
+
+j~ .
+
+~"""~~~'-'-~-' ~.J.;:,../j
+2>
+.\.~ .laM
+
+.. d
+
+~
+
+
+Notes:
+1. In respect of Vishnuprayag Hydro Electric Plant (VHEP), the water availability in the first half of the financial year is
+nonnally higher as compared to the second half of the financial year. As such, the power generation in the first two
+quarters (based on past experience/ data) lies between 75-80% of the annual power generation, while balance 25-20%
+is generated in the last two quarters.
+
+2.
+(a) The Company has accounted for revenue for the quarter and nine months ended 31 st December, 2025 on the basis of
+Multi Year Tariff (MYT) for the control period 2024-25 to 2028-29 for Jaypee Bina TPP (JBTPP) and Jaypee Nigrie
+STPP (JNSTPP) which are subject to true up / final assessment.
+(b) Revenue in respect of Vishnuprayag HEP for the quarter and nine months ended 31 st December, 2025 has been
+accounted for on the basis of provisional tariff which is subj ect to true up/final assessment.
+3.
+(a) (i) On filing of petition by the ICICI Bank Ltd. during the quarter ended 30 th June 2024, under the Insolvency and
+Bankruptcy Code, 2016 (Code) the Hon'ble National Company Law Tribunal bench at Allahabad (NCLT) vide its Order
+dated 3rd June 2024, admitted Jaiprakash Associates Limited (JAL) (the party to whom the company is an associate)
+into Corporate Insolvency Resolution Process (CIRP). In earlier year, the Company had given the corporate guarantee
+(CG) to State Bank of India (SBI) of USD 1,500 lakhs (31 st March, 2025 USD 1,500 Lakhs) against loans granted by
+SBI to JAL. Further in this regard, SBI had filed a case in DRT -III at Delhi, in earlier year, against JAL along with other
+parties for recovery of dues where Company was also made a party being a corporate guarantor. In previous year, the
+Company has written to SBI that in view of CIRP process against JAL has been commenced the DRT proceedings
+against the borrowers (JAL) will be on hold and also the Company has filed its replies with the DRT. Further, also the
+company has filed its claim for amounting to USD 1,500 lakhs (equivalent to Rs. 123,915 lakhs converted at the
+exchange rate of Rs. 82.61 per USD as on 3rd June 2024) with RP of JAL against the said corporate guarantee (CG),
+which was considered/taken on record to the extent of Rs. 51,173 lakhs [as provisional contingent amount by the RP
+
+
+basis the amount which has been directly claimed by the lender (lender of JAL) in the capacity of financial creditor] and
+same has been admitted by the RP. In this regard, the actual settlement of dues, claims and crystalisation of the
+contingency will depend on the future legal recourse, if any. As noted, SBI has assigned its fund-based outstanding dues
+of JAL (including claim against CG) to the National Asset Reconstruction Company Limited (NARCL) and Hon'ble
+DRT, Delhi, vide its Order date 25 th September 2025 has permitted NARCL to be substituted in place of SBI.
+(ii) In the financial year 2019-20, the Company had accounted for impact of the 'Framework Agreement' with its lenders
+for debt restructuring and subsequent to the accounting of 'Framework Agreement', the Company had initiated process
+for the release of above stated corporate guarantee (CG) provided to SBI. During the year ended 31st March 2024, the
+SBI had sent a legal demand cum recall notice to the Company, however, the Company has disputed the same. Also, as
+stated in note no. 3(b) below for recovery of additional amount (advance payment), the Company has filed claims (which
+is presently pending) with the RP. Considering the facts stated above and status as on date, in the opinion of the
+management, presently amount is unascertainable and the company has considered, it is not necessary to make
+provisions against the above stated CG.
+(b) The JAL has been engaged by the Company to carry out construction, repairs & maintenance work under different
+contracts and total advance (net) amounting to Rs. 1571 lakhs (balance as per books as on 31 st December, 2025) (Rs.
+3,4341akhs (net) balance as per books as on 31 st March, 2025) was paid to the JAL. As stated above in para (a), the JAL
+had been admitted under CIRP process [under the Insolvency and Bankruptcy Code, 2016] and in terms of the public
+announcement for inviting claims of operational creditors and financial creditors, the Company has also filed its claims
+ofRs.128,756 lakhs (net) with the RP [including claim against CG provided as stated in para (a) above] as of 3rd June
+2024 {read with para (a) above}. Considering above stated facts and status, the Company has considered, not necessary
+to make any provision against the outstanding advance amount (net) ofRs. 1571lakhs and same is considered good and
+fully recoverable by the management.
+
+
+4. During the nine-month ended 31 st December,2025, based on Management assessment there is fair valuation gain in the
+carrying value of long-term investment in Trust of Rs. 9,978 lakhs and as per the past practice impact, if any will be
+carried out at year end. (nine months ended 31 st December,2024 fair valuation gain of amounting to Rs. 8,430 lakhs)
+(year/quarter ended 31st March 2025 fair valuation loss accounted for of amounting to Rs. 3,442Iakhs).
+5. In the earlier years, Uttar Pradesh Power Corporation Ltd. (UPPCL) had sent notice/recovery plan in respect of unit
+VHEP for recovery of Rs. 46,863 lakhs (including carrying cost of Rs. 837 lakhs and Rs. 279 lakhs for the nine months
+and quarter ended 31 st December, 2025 respectively and Rs.17, 165 lakhs for the financial years from 2018-19 to 202425) (as at 31 st March,2025 Rs. 46,026Iakhs) being amount excess paid to the Company as assessed and estimated by the
+UPPCL including carrying cost (excess payment made to the Company towards income tax and secondary energy
+charges for financial years 2007-08 to 2019-20 and 2014-15 to 2019-20 respectively) and hold back Rs.37,888 Lakhs
+till 31 st December, 2025 (up to 3 pt March, 2025 Rs. 34,063 Lakhs) including recovery for carrying cost of Rs. 18,002
+lakhs (up to 31 st March 2025 Rs.17,165 Lakhs) as stated above. Based on the legal opinion obtained by the
+Company, the action of UPPCL for denying income tax and secondary charges and holding / deducting amount, is not
+as per the terms of the power purchase agreement (PPA). The Company had filed a petition with Uttar Pradesh Electricity
+Regulatory Commission (UPERC) against UPPCL for the aforesaid recovery and UPERC vide its order dated 12th June,
+2020 had disallowed the claims of the Company and upheld the recovery/proposed recovery of excess payment made.
+Against the Order ofUPERC, the Company has preferred an appeal before APTEL. Meanwhile in 2020-21, UPPCL and
+Company both have agreed that recovery of amount paid in excess (subject to ongoing reconciliations and final outcome
+of appeal filed with APTEL for revision in design energy) to be made from monthly power sale invoices raised/to be
+raised for 7 years starting from FY 2021-22 till FY 2027-28, with carrying cost charges on outstanding amount @ SBI
+MCLR plus 350 basis points. In view of the above and considering prudence, from 2020-21 onwards, revenue from
+UPPCL has been accounted for net of the component of income tax till 31 st March 2024 and excess secondary energy
+charges. However, from the FY 24-25 onwards there is change in taxable situation of the Company, hence Tax on Income
+is being claimed in the tariff billed to UPPCL. Pending the [mal decision on Company's appeal filed with APTEL, as
+stated above, no provision in these financial results has been considered necessary by the management against the
+disallowances of income tax and secondary energy charges of Rs.46,863 lakhs (including carrying cost of
+
+
+Rs.18,002 lakhs till 31 st December, 2025). Further the management believes that it has credible case in its favour and
+accordingly, amount which has been deducted by UPPCL of Rs. 37,888 lakhs (shown as part of trade receivables) is
+considered good and fully recoverable from UPPCL as per the PP A terms.
+6. As per Ind-AS 108 Operating segment, segment information has been provided on consolidated financial results basis.
+7. (a) The Company had been carrying out sand mining activities in the State of Andhra Pradesh (AP) in terms of and as
+per the main contract(s) (three nos.) dated 3rd May 2021 signed with Director Mines & Geology (DMG), Govt of Andhra
+Pradesh for a period of two years and the said contract(s) were sub -contracted on back-to-back basis and DMG was
+informed/intimated in this regard (however the escrow account was pending to be opened in terms of the contracts with
+DMG). Further as required under the contract terms, Performance Bank Guarantees of Rs. 12,000 lakhs was provided
+by the sub-contractor to the DMG. The contract period of said contract(s) was over in May 2023, however the Company
+was allowed by the DMG, to continue sale of sand from the sand stock till November 2023.
+During the quarter/year ended 31 st March, 2024, the balance unsold stock (including sand stock which was handed over
+by APMDC, Prakasam) had been taken over by the DMG with dues payable to APMDC for the Assets handed over by
+them, advance outstanding of Andhra Pradesh State Housing Corporation Limited (APSHCL) and balance dues ofDMG
+then had been adjusted there against as per letters / statements ofDMG. On basis of 'No due certificate' ofDMG and
+as per the statement received from DMG, no amount is /were remaining to be payable by the Company to DMG.
+(b) (i) Subsequently in the year 2024-25 as well as during the current nine months period ended 31 st December,2025,
+the Company has received nos. of show cause notices (SCN) /demand notices ('notices') and till 31 st December 2025
+notices of amounting to Rs. 8,38,386 lakhs (including amount estimated based on show cause notices ofRs. 6,16,732
+lakhs) [including Rs.1,79,083 lakhs till 31 st March, 2025, this includes amount estimated based on show cause notices
+ofRs.10,468Iakhs] from various district office(s) ofDMG alleging illegal extraction, storing, transportation and selling
+of sand and the Company has suitably replied. The Company has disputed the notices, as notices which DMG has issued,
+basis inspection/survey carried out by the offices of DMG after gap of considerable period when above all contracts of
+the Company with DMG were got expired and also during the intervening period another agency was engaged by the
+DMG for carrying out sand mining activities, for period over six months. In this regard summons and notices also have
+. y.p.. & Co
+
+('
+
+o~ *
+-0
+
+-;
+f\!e
+()
+'::$
+
+<>''/:
+
+Ihi j!]
+~
+~'b
+
+&red ACCO~
+
+.(~~~~i~~~
+"..,~o
+..0\"\
+·
+
+/, ~ ,.r
+
+, "':I (
+
+! ..L: ~ 1~ \
+• .,..
+... (
+• ~\.
+
+..
+
+)
+
+~~~
+
+CD
+
+~ I
+
+"'~- ~ 0'()
+
+'I
+
+S'a Jo'.r.........##
+
+.,~
+
+•
+
+J-, •
+
+.J
+
+..........
+
+
+been received by the Company from GST Authority which were replied suitably [for above, DMG has also filed FIRs
+with police authority against the Company and its officials]. The management believes that liability in this regard has
+duly been discharged by the sub-contractor (party who was carrying out the sand mining activities as sub-contractor) as
+DMG has provided 'No due certificate' and also DMG had released the Bank Guarantees provided by the sub-contractor
+to the DMG for the above stated contracts. On filing of Appeals, the Hon'ble High Court of Andhra Pradesh has granted
+interim stay in respect of above stated demand notices of DMG, to the extent of Rs. 2,21,654 lakhs and for balance
+amount (estimated) based on show cause notices, the Company has filed its replies with the concerned officials (DMG).
+The Company has been legally advised that it has creditable case in its favour as per above stated facts that all the
+contracts were sub-contracted on back-to-back basis, Sub-contractor was/is responsible/liable under the Contracts terms
+and hence in the opinion of management, it is not necessary to make any provision in this regard.
+(b )(ii) As stated above all contracts were sub-contracted on back-to-back basis and in earlier year/period, purchases, sale
+and inventory were accounted for based on details/statement as made available by the sub-contractor/ DMG. Balance in
+the account of sub-contractor is pending for the confirmation and reconciliation as on 31 st December, 2025. In the
+opinion of the management on final reconciliation! confirmation there will be no material impact.
+The management believes that action initiated by the DMG as stated in para (a) above is/will have no impact on state of
+affairs of the Company as contracts were sub-contracted on back-to-back basis and DMG was informed in this regard,
+and (b) on/after expiry of contract period(s) new party had been engaged by DMG to carry out sand mining operations.
+Further in the opinion of the management and as advised, there will be no impact of the matter as stated in para (a) above
+on the profit for the quarter/nine months and Company has creditable case in its favour.
+8. In respect of investigation conducted by the Securities and Exchange Board of India (SEBI), the Company and its four
+Directors (which includes one erstwhile Whole Time Director), MD and CEO, and CFO had been served Show Cause
+Notice (SCN) in earlier year under Rule 4(1) of SEBI (Procedure for holding inquiry and imposing penalties), Rules,
+1995 on issues related with non-compliances of certain accounting standards/ Ind AS etc. during period from financial
+years 2012-13 to 2021-22 and SEBI Vide its Order dated 27th December 2024 has imposed a penalty ofRs. 14lakhs on
+the Company (excluding penalty of Rs.40 lakhs i ~~. as on MD & CEO, CFO and four directors). The management
+l . . r6'. 'QL,.--... ..,~ -0\
+(3
+
+:
+
+)0.
+
+J(
+
+• *<.(
+4
+
+(
+
+. ) '"
+
+)<
+
+~
+
+•
+:
+
+J et> ~
+)'t •
+
+.-ol
+.. JI)~,'I
+.. s ~-~ '00 '/
+"'.. SJn' 4~
+JJ ' \ :
+
+. . . . ......
+
+~
+
+
+believes that there was no non-compliances in past as full disclosers were made for the basis of then decision taken.
+Further the Company has preferred an appeal before SEBI Appellate Tribunal (SAT) against the above referred SEBI
+Order and SAT vide its order dated 6th March, 2025 has granted stay on deposit of 50% of penalty amount imposed by
+SEBI and Order in this regard is awaited.
+9. The Company has dispute with a capital good supplier and Arbitral Tribunal pronounced its awards partly against the
+Company on 4th October, 2023. Later on, the Company has filed appeals in the Hon'ble Delhi High Court (also the
+capital good supplier filed appeals for seeking deposit as per award and modification of award, of above Arbitral
+Tribunal awards before Hon 'ble Delhi High Court) against the Order of Arbitral Tribunal. Subsequent to the 31 st
+December 2025, on 23rd January 2026, Hon'ble Delhi High Court has ordered the Company to deposit Rs. 24,909Iakhs.
+The management believes that in this regard no additional amount is required to be provided for as carry over provision
+ofRs. 11,742 lakhs, in books, on account of due liability has been reasonably assessed and on final decision will have
+no material impact on the state of affairs of the Company. Further, presently the Company is in process of evaluating
+and in discussion with experts including for other available legal options.
+10. In terms of the Framework Agreement (FA) signed by the lenders in the year 2019-20 with the Company for debt
+restructuring, the lenders have right of recompense subject to availability of free cashflow and other conditions as stated
+in FA. Subsequent to 31 8t December, 2025, ICICI bank has claimed [demand letter dated 9th January, 2026, as lead
+banker] Rs. 5,69,651Iakhs on account of recompense amount. The Company has challenged the amount so demanded
+and advised ICICI bank to explain the basis for amount so demanded. The Management of the Company believes that
+based on present free cashflow situation and taking into consideration the extent RBI guidelines, nothing is payable/due
+as on 31 8t December, 2025. As explained, part of the payment in this regard, if any, is/will be recoverable under PP As
+hence, will have no significant material impact on state of affairs of the Company.
+11. (a) The Company has investment of Rs. 990 lakhs and outstanding loan amount of Rs. 30 lakhs (net of interest of Rs.
+72 lakhs which has been waived off) in a subsidiary company- Bina Mines and Supply Limited (BMSL). BMSL in tum
+has paid to a party for purchase of capital asset. As subsidiary company has cancelled order of capital asset due to
+various reasons including delay in regulatory appro:r. z. ~~e auditors of subsidiary company has drawn attention and
+".~'( ,.._~ ...h.¢~
+
+:. ~ r
+
+""
+
+:f"":l(L~o~
+(
+):Z.t
+
+- *<
+~
+
+~ro.
+
+. t
+
+, '""T :
+
+\ • ~;?\,.
+':
+'> ~,
+6
+". / s aj \"-/_./
+
+..
+
+'.. ..,. ..,..- or
+
+
+commented on the recoverability of advance so paid, in view of uncertainty and absence of underlying assets and
+modified the conclusion in their report. The Management of the subsidiary has initiated steps for the recovery of advance
+amount so paid, hence considered the same as good.
+(b) Advances including long overdue advances (including paid to coal agents/CHAs) of amounting to Rs. 3,512 lakhs
+where legal and other necessary steps have been initiated for recovery. The management is confident about
+recovery/releasability and these have been considered good. Considering the present status management has decided
+not to make any provision against above stated amount, presently.
+
+12. The constitution Bench of Nine Judges of the Hon'ble Supreme Court vide its judgement dated 25 th July 2024 and Order
+dated 14th August 2024 has ruled that the Mines and Minerals (Development & Regulation) Act does not prevent the
+States from levying tax on mineral rights. In the opinion of the management, pending clarity on the various issues
+involved, the impact of aforementioned matter on the Company is currently unascertainable.
+13. On 21 st November, 2025, the Government of India notified the four Labour Codes - The Code on Wages, 2019, The
+Industrial Relations Code, 2020, The Code on Social Security, 2020, and The Occupational Safety, Health and Working
+Conditions Code, 2020 (known as new labour codes), consolidating numerous existing labour Jaws. The Ministry of
+Labour & Employment published draft Central Rules and FAQs to enable assessment of the financial impact due to
+changes in regulations. The Company has assessed and disclosed the incremental impact of these changes on the basis
+of information available, consistent with the guidance provided by the Institute of Chartered Accountants of India. The
+Company has recognised estimated additional provisions for past service obligations/ cost on account of gratuity and
+compensated absences of Rs 987 lakhs and same been included under 'Employee Benefits' in its standalone and
+consolidated financial results of the current quarter and period ended 31 st December, 2025. The Company continues to
+monitor the finalization of Central / State Rules and clarifications from the Government on other aspects of the Labour
+Code and would consider appropriate accounting impact on the basis of such developments, as needed.
+
+,
+
+
+14. The above unaudited financial results for the quarter and nine months ended 31 st December, 2025 have been reviewed
+by Audit Committee and approved by the Board of Directors at their respective meetings held on 4th February, 2026.
+
+For and on behalf of the Board
+
+Place: New Delhi
+
+Managing Director & CEO
+
+Date: 4th February, 2026
+
+DIN: 00011026
+
+
+STANDALONE UNAUDITED SEGMENT-WISE REVENUE, RESULTS AND CAPITAL EMPLOYED
+FOR THE QUARTER AND NINE MONTHS ENDED 31st DECEMBER,2025
+
+Standalone
+Particulars
+
+Quarter Ended Quarter Ended Quarter Ended
+31.12.2025
+Unaudited
+
+1
+
+31.12.2024
+Unaudited
+
+31.12.2025
+Unaudited
+
+Year Ended
+
+31.12.2024
+Unaudited
+
+31.03.2025
+Audited
+
+Segment Revenue
+i) Power
+
+1,15,556
+
+1,43,839
+
+1,14,033
+
+4,17,719
+
+4,12,154
+
+5,46,254
+
+ii) Coal
+
+18,052
+
+20,257
+
+19,712
+
+57,401
+
+50,689
+
+72,979
+
+iii).Sand Mining
+
+-
+
+-
+
+-
+
+-
+
+iv) Others, Cement Grinding etc.
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Total
+
+1,33,608
+
+1,64,096
+
+1,33,745
+
+4,75,120
+
+4,62,843
+
+6,19,233
+
+Less: Inter segment eliminations
+
+18,051
+
+20,266
+
+19,728
+
+57,417
+
+50,715
+
+73,014
+
+Add : Other income
+
+5,583
+
+4,013
+
+11,618
+
+14,311
+
+21,868
+
+24,411
+
+1,21,140
+
+1,47,843
+
+1,25,635
+
+4,32,014
+
+4,33,996
+
+5,70,630
+
+i) Power
+
+22,528
+
+52,532
+
+39,935
+
+1,39,387
+
+1,66,845
+
+2,11,175
+
+ii) Coal
+
+791
+
+786
+
+772
+
+2,338
+
+2,242
+
+2,998
+
+iii) Sand Mining
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+iv) Others, Cement Grinding etc.
+
+(258)
+
+(2,227)
+
+(88)
+
+(2,714)
+
+(595)
+
+(4,284)
+
+23,061
+
+51,091
+
+40,619
+
+1,39,011
+
+1,68,492
+
+2,09,889
+
+[a] Interest expenses
+
+9,131
+
+10,003
+
+9,738
+
+28,801
+
+31,672
+
+41,413
+
+[b) Depreciation and amortisation expenses
+
+11,947
+
+11,915
+
+11,649
+
+35,595
+
+35,433
+
+47,020
+
+Total
+
+21,078
+
+21,918
+
+21,387
+
+64,396
+
+67,105
+
+88,433
+
+Profit / (loss) before exceptional items and tax
+
+1,983
+
+29,173
+
+19,232
+
+74,615
+
+1,01,387
+
+1,21,456
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1,983
+1,494
+
+29,173
+10,970
+
+19,232
+6,767
+
+74,615
+28,128
+
+1,01,387
+35,863
+
+1,21,456
+40,383
+
+489
+
+18,203
+
+12,465
+
+46,487
+
+65,524
+
+81,073
+
+(25)
+
+-
+
+4
+
+(24)
+
+11
+
+2
+
+Total sales I income from operations
+
+2
+
+30.09.2025
+Unaudited
+
+Nine Months Ended
+
+Segment Results
+Profit I (loss) from operations before finance
+charges, depreciation and amortisation,
+exceptional items and tax
+
+Total
+Less:
+
+Exceptional items net (Gain)/Loss
+Profit / (loss) before tax
+Tax Expenses (net)
+Net Profit / (loss) after tax
+Other Comprehesive Income (Net of Tax)
+Total comprehensive income for the period
+(Comprising Profit (Loss) and Other
+comprehensive income for the period)
+
+,
+
+464
+
+18,203
+
+12,469
+
+46,463
+
+65,535
+
+81,075
+
+i) Power
+
+16,33,368
+
+16,57,923
+
+16,19,196
+
+16,33,368
+
+16,19,196
+
+16,28,311
+
+ii) Coal
+
+37,182
+
+36,514
+
+34,314
+
+37,182
+
+34,314
+
+35,978
+957
+
+3
+
+Capital Employed
+
+a
+
+Segment Assets
+
+iii) Sand Mining
+
+b
+
+-
+
+957
+
+957
+
+968
+
+957
+
+iv) Others, Cement Grinding etc.
+
+1,17,625
+
+1,12,790
+
+1,18,443
+
+1,17,625
+
+968
+1,18,443
+
+Total
+
+17,89,132
+
+18,08,184
+
+17,72,921
+
+17,89,132
+
+17,72,921
+
+1,12,639
+17,77,885
+
+i) Power
+
+1,29,646
+
+1,35,825
+
+1,50,643
+
+1,29,646
+
+1,50,643
+
+1,48,105
+
+ii) Coal
+
+13,488
+
+15,024
+
+14,617
+
+13,488
+
+14,617
+
+14,748
+
+-
+
+-
+
+-
+
+-
+
+-
+
+68,222
+
+49,232
+
+52,193
+
+2,11,356
+
+2,14,492
+
+2,15,046
+
+15,58,429
+
+15,62,839
+
+Segment Liabilities
+
+iii) Sand Mining
+iv) Others, Cement Grinding etc.
+Total Liabilities
+
+68,222
+2,11,356
+
+67,964
+2,18,813
+
+49,232
+2,14,492
+
+c
+
+Capital Employed *
+
+15,77,776
+
+15,89,371
+
+15,58,429
+
+* Note :- Capital employed = Equity + long term borrowings including current maturities of long term borrowings
+
+15,77,776
+
+I
+
+
+CONSOLIDATED UNAUDITED SEGMENT-WISE REVENUE, RESULTS AND CAPITAL EMPLOYED
+FOR THE QUARTER AND NINE MONTHS ENDED 31st DECEMBER,2025
+
+(Rs. in Lakhs)
+Consolidated
+Particulars
+
+1
+
+Quarter Ended
+
+Quarter Ended
+
+Quarter Ended
+
+31.12.2025
+Unaudited
+
+30.09.2025
+Unaudited
+
+31.12.2024
+Unaudited
+
+Nine Months Ended
+31.12.2025
+Unaudited
+
+Year Ended
+
+31.12.2024
+Unaudited
+
+31.03.2025
+Audited
+
+Segment Revenue
+i) Power
+
+1,15,556
+
+1,43,839
+
+1,14,033
+
+4,17,719
+
+4,12,154
+
+5,46,254
+
+ii) Coal
+
+18,052
+
+20,257
+
+19,712
+
+57,401
+
+50,689
+
+72,979
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+iii) .Sand Mining
+iv) Others, Cement Grinding etc.
+Total
+Less: Inter segment eliminations
+
+1,33,608
+
+1,64,096
+
+1,33,745
+
+4,75,120
+
+4,62,843
+
+6,19,233
+
+18,051
+
+20,266
+
+19,728
+
+57,417
+
+50,715
+
+73,014
+
+-
+
+5,588
+
+4,019
+
+11,646
+
+14,379
+
+21,960
+
+24,536
+
+1,21,145
+
+1,47,849
+
+1,25,663
+
+4,32,082
+
+4,34,088
+
+5,70,755
+
+i) Power
+
+22,411
+
+52,533
+
+39,958
+
+1,39,320
+
+1,66,931
+
+2,11,284
+
+ii) Coal
+
+791
+
+786
+
+772
+
+2,338
+
+2,242
+
+2,998
+
+iii) Sand Mining
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+iv) Others, Cement Grinding etc.
+
+(258)
+
+(2,227)
+
+(88)
+
+(2,714)
+
+(595)
+
+(4,284)
+
+22,944
+
+51,092
+
+40,642
+
+1,38,944
+
+1,68,578
+
+2,09,998
+
+[a) Interest expenses
+
+9,135
+
+9,976
+
+9,742
+
+28,805
+
+31,676
+
+41,417
+
+[b) Depreciation and amortisation expenses
+
+11,947
+
+11,915
+
+11,649
+
+35,595
+
+35,433
+
+47,020
+
+Total
+
+21,082
+
+21,891
+
+21,391
+
+64,400
+
+67,109
+
+88,437
+
+Profit / (loss) before exceptional items and tax
+
+1,862
+
+29,201
+
+19,251
+
+74,544
+
+1,01,469
+
+1,21,561
+
+Exceptional items net (Gain)/Loss
+Profit / (loss) before tax
+Tax Expenses (net)
+
+-
+
+-
+
+-
+
+1,862
+1,485
+
+29,201
+10,991
+
+19,251
+6,583
+
+74,544
+28,144
+
+1,01,469
+35,681
+
+1,21,561
+40,206
+
+12,668
+
+46,400
+
+65,788
+
+81,355
+
+4
+
+(24)
+
+11
+
+2
+
+Add : Other income
+Total sales I income from operations
+
+2
+
+Segment Results
+Profit I (loss) from operations before finance
+charges, depreciation and amortisation,
+exceptional items and tax
+
+Total
+Less:
+
+Net Profit / (loss) after tax
+
+(25)
+
+-
+
+Total comprehensive income for the period
+(Comprising Profit (Loss) and Other
+comprehensive income for the period)
+
+352
+
+18,210
+
+12,672
+
+46,376
+
+65,799
+
+81,357
+
+i) Power
+
+16,57,166
+
+16,81,818
+
+16,43,059
+
+16,57,166
+
+16,43,059
+
+16,52,164
+
+ii) Coal
+
+37,182
+
+36,514
+
+34,314
+
+37,182
+
+34,314
+
+35,978
+
+957
+
+957
+
+968
+
+957
+
+968
+
+957
+
+94,447
+17,89,752
+
+89,612
+
+95,265
+
+95,265
+
+89,461
+
+18,08,901
+
+17,73,606
+
+94,447
+17,89,752
+
+17,73,606
+
+17,78,560
+
+i) Power
+
+1,30,110
+
+1,36,275
+
+1,51,104
+
+1,30,110
+
+1,51,104
+
+1,48,537
+
+ii) Coal
+
+13,488
+
+15,024
+
+14,617
+
+13,488
+
+14,617
+
+14,748
+
+-
+
+-
+
+-
+
+-
+
+Capital Employed
+
+a
+
+Segment Assets
+
+iii) Sand Mining
+iv) Others, Cement Grinding etc.
+Total
+Segment Liabilities
+
+iii) Sand Mining
+iv) Others,Cement Grinding etc.
+
+c
+
+18,210
+
+Other Comprehesive Income (Net of Tax)
+
+3
+
+b
+
+377
+
+-
+
+-
+
+-
+
+67,964
+
+Total Liabilities
+
+68,222
+2,11,820
+
+2,19,263
+
+49,232
+2,14,953
+
+68,222
+2,11,820
+
+49,232
+2,14,953
+
+52,193
+2,15,478
+
+Capital Employed *
+
+15,77,932
+
+15,89,638
+
+15,58,653
+
+15,77,932
+
+15,58,653
+
+15,63,082
+- --
+
+* Note :- Capital employed = Equity + long term borrowings including current maturities of long term borrowings
+
+
+LODHA
+& CO llP
+
+12, Bhagat Singh Marg, New Delhi - 110 001, India
+Telephone : 91 11 23710176/23710177 123364671/2414
+E-mail
+: delhi@lodhaco.com
+
+Chartered Accountants
+
+Independent Auditor's Review Report on Quarterly and Year to Date Unaudited Standalone
+Financial Results of Jaiprakash Power Ventures Limited pursuant to the Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+To The Board of Directors of
+Jaiprakash Power Ventures Limited
+1. We have reviewed the accompanying statement of unaudited standalone financial results of
+JAIPRAKASH POWER VENTURES LIMITED ('the Company') for the quarter ended December 31,
+2025 and year to date from April 1, 2025 to December 31, 2025. ("the Statement"), attached
+herewith, being submitted by the Company pursuant to the requirements of Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements), 2015, as amended ("the Listing
+Regulations").
+2. This Statement, which is the responsibility of the Company's Management and approved by the
+Board of Directors of the Company, has been prepared in accordance with the recognition and
+measurement principles laid down in Indian Accounting Standard 34 "Interim Financial
+Reporting" ("Ind AS 34"), prescribed under Section 133 of the Companies Act, 2013 read with
+Rules issued thereunder and other accounting principles generally accepted in India and in
+compliance with Regulation 33 of the Listing Regulations. Our responsibility is to express a
+conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review
+Engagements (SRE) 2410, "Review of Interim Financial Information Performed by the
+Independent Auditor of the Entity" issued by the Institute of Chartered Accountants of India. This
+standard requires that we plan and perform the review to obtain moderate assurance as to
+whether the Statement is free of material misstatement. A review of interim financial information
+consists of making enquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in
+scope than an audit conducted in accordance with Standards on Auditing specified under Section
+143 (10) of the Companies Act, 2013 and consequently does not enable us to obtain assurance that
+we would become aware of all significant matters that might be identified in an audit. Accordingly,
+we do not express an audit opinion.
+
+4. Basis for Qualified conclusion
+Attention is drawn to:
+1. (A) Note no. 3(a) regarding non provision against corporate guarantee provided to lenders (SBI) of
+JAL as stated in the note no. 3(a) of the accompanying financial results. On filing of the petition
+by a commercial bank before the National CompanyLaw Tribunal (NCLT) bench at Allahabad,
+Jaiprakash Associates Limited (JAL) (the party to whom the company is an associate) has been
+admitted into/for Corporate Insolvency Resolution Process (CIRP) vide NCLT Order dated 3rd
+June, 2024 and RP was appointed. As stated in the said note, the Company had given a corporate
+guarantee (CG) to State Bank of India (SB!) of USD 1,500 lakhs (31st March, 2025 USD 1,500
+Lakhs) [equivalent Rs. 123,915lakhs, USD converted at the exchange rate ofRs. 82.61 per USD]
+against loans granted by SBI to JAL. Also, during the earlier year, the Company has received a
+legal demand cum recall notice from SBI for corporate guarantee provided by the Company,
+however for the reasons as stated in the said note, the Company has disputed the same. Further
+
+
+as stated in the note no. 3(a), the SBI has filed a case for recovery in DRT-III at Delhi against JAL
+along with other parties where Company has also been made a party as a corporate guarantor.
+Read with above to that extent non-compliance of Ind AS 113 as fair valuation has not been
+carried out of stated Corporate Guarantee. Also, attention is drawn to the note no. 3(a) read with
+note no. 8 where as stated in the said notes, there was/is non -compliance of SEBI Circular dated
+17 th April, 2014.
+As stated in note no. 3(a) of the accompanying financial results, in the OpInIOn of the
+management, pending claims of the Company before RP and pending decision on release of the
+corporate guarantee (which Company has submitted) in view of the Framework Agreement,
+presently the impact (amount) is unascertainable as stated in the said note.
+As stated in para (A) above, impact is unascertainable in the opinion of the management.
+(B) As stated in para in (A) above, JAL has been admitted into Corporate Insolvency Resolution
+Process (CIRP) and RP was appointed. We draw the attention to the note no. 3(b) of the
+accompanying financial results thatthe Company has paid advance (net) ofRs. 1571lakhs to/for
+carrying out certain works/repairs under different contracts. Against advance payment made to
+JAL, no provision has been made for the reasons stated in the said note. Further, as stated in the
+said note the Company has filed claims with RP for advance amount paid and other claims [note
+no. 3(b)] which are pending, hence presently in the opinion of the management, impact is
+unascertainable.
+Matters stated in para (A) and (B) above had also been qualified in our audit report on the
+standalone financial statements for the year ended 31 st March, 2025 and limited review report
+for the corresponding quarter and nine months ended 31 st December, 2024 and previous
+quarter ended 30 th September,2025 .
+2.
+
+Note no. 10 of the accompanying financial results regarding non provision against the recompense
+claim amount of Rs. 5,69,651Iakhs claimed by the lenders (ICICI bank as lead) as sated in the
+said note. As stated in the said note, the Company has challenged the amount demanded and
+advised ICICI bank to explain basis for amount so demanded. Management of the Company
+believes that based on present free cashflow situation and taking into consideration the extent
+RBI guidelines, nothing is payable/due as on 31st December, 2025.Further in the opinion of the
+management, impact if any, will not be material, on the state of affairs as same is recoverable,
+under PPAs as stated in the note no. 10. In the opinion of the management, impact, if any, cannot
+be ascertained.
+
+3.
+
+Note no. l1(a) of the accompanying financial results where no provision of Rs. 1,020 lakhs has
+been made against diminution in value of investment and loan made to a subsidiary and to that
+extent profit is overstated.
+
+4.
+
+Note No.11(b) of the accompanying financial results regarding overdue advances
+paid/outstanding of Rs. 3,512 lakhs against which no provision has been made. As stated in the
+said note, legal and other action has been initiated for recovery and in the opiniOn of the
+management these are good and recoverable and to that extent profit is overstated.
+
+5.
+
+Qualified Conclusion:
+Based on our review conducted as above, except for the effects/ possible effects of our observation
+stated in paragraph 4 above (including non-quantification for the reasons stated therein in above
+para 1 and 2), nothing has come to our attention that causes us to believe that the accompanying
+Statement prepared in all material respects in accordance with the applicable Indian Accounting
+Standards prescribed u/s 133 of the Companies Act, 2013 read with relevant rules issued there
+
+
+under and other recognised accounting practices and policies generally accepted in India has not
+disclosed the information required to be disclosed in terms of the Listing Regulations, including
+the manner in which is to be disclosed, or that it contains any material misstatement.
+6.
+
+Emphasis of matters:
+We draw attention to the following matters:
+(a) Attention is invited to note no. 5 of accompanying financial results regarding dues ofRs. 46,863
+lakhs being the amount excess paid to the Company as assessed and estimated by the UPPCL as
+stated in note including carrying cost (excess payment made to the Company towards income
+tax and secondary energy charges for financial years 2007-08 to 2019-20 and 2014-15 to 201920 respectively) against which UPPCL has also hold back Rs. 37,888 lakhs (including carrying
+cost of Rs. 18,002Iakhs) up to 31 st December, 2025. As stated in the said note in the opinion of
+the management, Company has credible case in its favour and disallowance made by the UPPCL
+on account of income tax and secondary energy charges are not in line with the terms of PPA
+signed with UPPCL. Accordingly, as stated in the said note, no provision against the stated
+amount and carrying cost has been considered necessary by the management at this stage (note
+no. 5 of accompanying financial results) and the amount deducted / retained by UPPCL of
+amounting to Rs. 37 ,888lakhs is shown as recoverable and considered good by the management.
+(b) As stated in note no. 48 (i) of the audited standalone financial statements for the year ended 31 st
+March, 2025, no provision has been considered necessary by the management against Entry Tax
+in respect of Unit- Nigrie STPP (including Nigrie Cement Grinding Unit) amounting to Rs. 10,871
+lakhs (31 st March, 2025 Rs. 10,871 lakhs) and interest thereon (impact unascertainable). In
+respect of the stated unit, receipts of approval for extension of the time for eligibility for
+exemption from payment of entry tax is pending from concerned authority, as stated in the said
+note, for which the company has made representations before the concerned authority and
+management is confident for favourable outcome. Against the above entry tax demand, till date
+of Rs. 6,685 lakhs (31st March, 2025 Rs. 6,685 lakhs) has been deposited and shown as part of
+other non-current assets which in the opinion of the management is good and recoverable.
+(c) As stated in note no. 59(a) & 59(c) of the audited standalone financial statements for the year
+ended 31 st March, 2025 regarding pending confirmations/reconciliation of balances of certain
+secured [including interest recompense, note no 44 (g) of the audited standalone financial
+statements for the year ended 31 st March, 2025] and unsecured borrowing, trade receivables
+and trade payables (including MSME parties, CHAs and of Sub-contractor [read with note no. 7
+(b)(ii) of the accompanying financial results]) and others current financial liabilities (including
+capital order processing and capital creditors), receivables/payables from/to related parties,
+loans & advances and inventory lying with third parties/in transit. In this regard, as stated in the
+stated note, internal control is being strengthened through process automation (including for as
+stated in note no. 59 (b) of the audited standalone financial statements for the year ended 31 st
+March, 2025 regarding offuel procurement and consumption accounting processes which are in
+process
+of further strengthening). The management is
+confident that on
+confirmation/reconciliation there will not be any material impact on the state of affairs as stated
+in said notes.
+
+(d) (i) note no. 7(b) [read with note no. 7(a)] ofthe accompanying financial results regarding show
+cause/demand notices served by DMG ofRs. 8,38,386Iakhs to the Company for recovery against
+alleged illegal extraction and sale of sand as stated in the said note (and also FIRs with police has
+been filed by the DMG.against the officials of the Company and the Company). As stated in the
+said note, sand mining Contracts were carried out by Sub-contractor on back- to back basis and
+'Guarantees' rovided by the Sub-contractor to DMG had been released along with issuance of
+y..(>.. & Co
+0<:)
+
+('
+
+-J
+
+('
+
+g* Ne 'e/hi ~
+<,»~
+
+&r
+
+'f
+
+~"
+
+f'!(j Acco0
+
+

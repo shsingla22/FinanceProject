@@ -1,0 +1,857 @@
+• 
+PCBL Limited 
+~ ~ RP·$.anjlv QolN'lk• Registered Office : 31, Netaji Subhas Road, Kolkata • 700 001. CIN : L23109WB1960PLC024602 ·- ~ Group Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2024 .PCBL Olt•lf>t\t1Htt 
+Website : www.pcblltd.com, Phone No. : (+91) 33 40870500/600 
+(Rs in Crores unless otherwise stated) 
+Standalone 
+Quarter ended Six Months ended Year ended 
+Particulars 30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Revenue from Operations 1,536.09 1,491.02 1,398.30 3,027.11 2,695.59 5,674.32 
+Other Income 2.37 7.25 1.37 9.62 4.25 30.98 
+Total Income 1,538.46 1,498.27 1,399.67 3,036.73 2,699.84 5,705.30 
+Expenses 
+Cost of materials consumed 1,098.84 973.90 1,018.59 2,072.74 1,898.16 3,971.21 
+Purchases of stock-in-trade 20.31 12.68 - 32.99 - 0.44 
+Change in inventories of finished goods (49.95) 19.87 (40.69) (30.08) (21.09) (26.31) 
+Employee benefits expense 54.80 56.90 50.35 111.70 100.63 204.95 
+Finance costs 68.80 72.72 17.15 141.52 34.72 126.20 
+Depreciation and amortisation expense 38.94 37.85 37.77 76.79 72.35 150.53 
+Other expenses 138.88 160.23 135.38 299.11 272.17 557.47 
+Total Expenses ,_ 1,370.62 1,334.15 1,218.55 2,704.77 2,356.94 4,984.49 
+Profit before tax 167.84 164.12 181.12 331.96 342.90 720.81 
+Tax expense 1~ 
+Current Tax 45.85 48.01 48.06 93.86 91.01 181.37 
+Deferred Tax charge/ (credit) (7.05) (0.17) 0.70 (7.22) 1.46 8.79 
+Tax relating to earlier years charge/ (credit) (2.64) 
+Total tax expense 38.80 47.84 48.76 86.64 92.47 187.52 
+Profit after tax ,_ 129.04 116.28 132.36 245.32 250.43 533.29 ,~ 
+Other Comprehensive Income/ (Loss) (OCI) 
+r Items that will not be reclassified to profit or loss 
+. Remeasurements of post employment defined benefit plans (0.70) (0.71) 0.48 (1.41) 0.96 (2.82) 
+Changes in fair value of equity instruments through OCI 162.06 75.70 41.76 237.76 64.30 161.70 
+Income Tax relating to items that will not be reclassified to Profit or Loss 
+- - (16.80) (9.07) (5.56) (25.87) (9.88) (242!3}_ 
+Other Comprehensive Income/ (Loss) 
+- - 144.56 65.92 36.68 21M!, 55.38 133.90 
+Total Comprehensive Income - 273.60 182.20 169.04 455.80 ,_ 305.81 667.19 
+(Comprising Profit after tax and Other Comprehensive Income) 
+- ~ 
+Paid-up Equity Share Capital (Face value of Re. 1/- each) - 37.75 37.75 37.75 37.75 -1Ll§., 37.75 - Other Equity 3,241.46 
+Earnings per equity share (EPS) ( Rs) 
+(Nominal value per share Re. 1/-) 
+Basic 3.42* 3.08* 3.51* 6.50* 6.63* 14.13 
+Diluted 3.41*# 3.08* 3.51* 6.49*# 6.63* 14.13 
+(* not annualised) 
+(# after considering impact of share warrants (Refer Note 5)) 
+Notes to the Unaudited Standalone Financial Results 
+1. Segment Information (Refer Note 7) 
+Standalone 
+Quarter ended Six Months ended Year ended 
+Particulars 30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+C, - I. Segment Revenue : 
+(a) Carbon Black 1,496.27 1,448.71 1,354.16 2,944.98 2,613.19 5,511.16 
+(b) Power 60.08 61.93 63.87 122.01 120.65 239.54 
+Total 1,556.35 1,510.64 1,418.03 3,066.99 2,733.84 5,750.70 
+Less : Inter Segment Revenue 20.26 19.62 19.73 39.88 38.25 76.38 
+Net Sales/ Revenue from Operations 1 536.09 1 491.02 1,398.30 3 027.11 2 695.59 5,674.32 
+II. Segment Profit Before Interest and Tax : 
+(a) Carbon Black 252.97 284.20 204.51 537.17 408.74 896.76 
+(b) Power 36.29 37.74 41.57 74.03 73.67 147.22 
+Total 289.26 321.94 246.08 611.20 482.41 1,043.98 
+Less : (i) Finance cost 68.80 72.72 17.15 141.52 34.72 126.20 
+(ii) Other Un-allocable Expenditure net of Un-allocable 52.62 85.10 47.81 137.72 104.79 196.97 
+Income 
+Total Profit Before Tax 167.84 164.12 181.12 331.96 342.90 720.81 
+Ill. Segment Assets 
+Carbon Black 3,741.18 3,424.20 3,575.35 3,741.18 3,575.35 3,722.21 
+Power 394.62 401.12 419.95 394.62 419.95 409.70 
+Unallocated 4,331.37 4,371.33 1,452.68 4,331.37 1,452.68 4,051.86 
+Total 8,467.17 8,196.65 5,447.98 8,467.17 5,447.98 8,183.77 
+IV. Segment liabilities 
+Carbon Black 2,425.47 2,324.17 1,746.84 2,425.47 1,746.84 2,613.55 
+Power 267.03 311.00 156.84 267.03 156.84 290.16 
+Unallocated 1,927.67 1,988.06 418.87 1,927.67 418.87 2,000.85 
+Total 4,620.17 4,623.23 2,322.55 4,620.17 2,322.55 4,904.56 
+
+Notes: 
+2 Statement of Unaudited Standalone Assets and Liabilities as at Seotember 30, 2024 
+- Particulars 
+ASSETS 
+Non-current assets 
+Property, Plant and Equipment 
+Capital work-in-progress 
+Investment Property 
+Intangible assets 
+Right of use assets 
+Financial Assets 
+(i) Investments 
+(ii) Loans 
+(iii) Other Financial Assets 
+Non current tax assets (Net) 
+Other non-current assets 
+Total Non-current assets 
+Current assets 
+Inventories 
+Financial Assets 
+(i) Trade receivables 
+(ii) Cash and cash equivalents 
+(iii) Other bank balances 
+(iv) Loans 
+(v) Other Financial Assets 
+Other current assets 
+Total Current assets 
+TOTAL ASSETS 
+EQUITY AND LIABILITIES 
+EQUITY 
+Equity Share Capital 
+Other Equity 
+TOTAL EQUITY 
+LIABILITIES 
+Non-current liabilities 
+Financial Liabilities 
+(i) Borrowings 
+(ii) Lease Liabilities 
+(iii) Other financial liabilities 
+Provisions 
+Deferred tax liabilities (Net) 
+Total Non-current liabilities 
+Current liabilities 
+Financial Liabilities 
+(1) ~orrowmgs 
+(ii) Lease Liabilities 
+(iii) Trade payables 
+a) Total Outstanding Dues of Micro Enterprises and Small Enterprises 
+b) Total Outstanding Dues of creditors other than Micro Enterprises and Small 
+Enterprises 
+(iv) Other financial liabilities 
+Provisions 
+Other current liabilities 
+Total Current liabilities 
+TOTAL LIABILITIES 
+TOTAL EQUITY AND LIABILITIES (Rs in Crores) 
+Standalone 
+As at As at 
+30.09.2024 31.03.2024 
+(Unaudited) (Audited) 
+1,993.08 2,040.29 
+252.50 162.86 
+4.48 4.48 
+1.74 2.04 
+55.65 59.70 
+4,053.71 3,674.96 
+7.27 7.69 
+31.42 27.92 
+16.33 31.73 
+24.84 14.61 
+6 441.02 6 026.28 
+501.16 563.44 
+1,283.43 1,287.45 
+76.24 163.06 
+5.60 5.89 
+0.52 0.63 
+43.39 48.30 
+115.81 88.72 
+2 026.15 2 157.49 
+8,467.17 8,183.77 
+37.75 
+3,809.25 37.75 
+3,241.46 
+3 847.00 3,279.21 
+2,151.43 2,266.05 
+49.24 51.32 
+5.34 2.48 
+10.18 10.18 
+303.36 284.35 
+2 519.55 2 614.38 
+586.55 50Ul4 
+17.66 20.10 
+43.53 33.13 
+1,186.60 1,402.64 
+164.29 129.55 
+91.21 85.52 
+10.78 17.70 
+2,100.62 2,290.18 
+4,620.17 4,904.56 
+8,467.17 8,183.77 
+Q.8~\.. LIAf1~ 
+I KOLKATA a) 
+* 
+
+PCBL LIMITED 
+3.Statement of Unaudited Standalone Cash Flows for the period ended September 30, 2024 
+Particulars 
+A. Cash Flow from Operating Activities 
+Profit before Tax 
+Adjustments to reconcile profit before tax to net cash flows: 
+Depreciation and amortisation expense 
+Finance costs 
+Allowance for doubtful debts / expected credit losses - trade receivables 
+Interest income from certain financial assets 
+Gain on sale I fair valuation of investments carried at FVTPL 
+(Profit)/Loss on disposal/discard of property, plant and equipment 
+Provisions/ write back for claims and litigations (net) 
+Unrealised Foreign exchange differences (net) 
+Operating profit before changes in operating assets and liabilities 
+Working capital adjustments 
+(lncrease)/Decrease in inventories 
+(lncrease)/Decrease in trade receivables 
+(lncrease)/Decrease in other financial and non-financial assets 
+lncrease/(Decrease) in trade payables 
+lncrease/(Decrease) in other financial and non-financial liabilities 
+Cash generated from operations 
+Income taxes paid (net of refunds) 
+NET CASH FLOWS GENERATED FROM OPERATING ACTIVITIES 
+B. Cash Flow from Investing Activities 
+Purchase of property, plant and equipment 
+Proceeds from disposal of property, plant and equipment 
+Investment in Equity shares of subsidiaries 
+Investment in Preferences shares of subsidiary 
+Investment in Optional Convertible Debenture (OCD) of subsidiary 
+Purchase of current investments 
+Proceeds from sale/redemption of current investments 
+NET CASH FLOWS USED IN INVESTING ACTIVITIES 
+C. Cash Flow from Financing Activities 
+Proceeds from issue of share warrants 
+Proceeds from non-current borrowings 
+Repayment of non-current borrowings 
+Payment of lease liabilities, including interest thereon 
+Proceeds from current borrowings 
+Repayment of current borrowings 
+Finance cost paid 
+NET CASH FLOWS USED IN FINANCING ACTIVITIES 
+Net (decrease)/ increase in Cash and Cash Equivalents 
+Opening Cash and Cash Equivalents 
+Closing Cash and Cash Equivalents (All amounts in Rs Crores, unless otherwise stated) 
+Six Months ended Six Months ended 
+September 30, 2024 September 30, 2023 
+Unaudited Unaudited 
+331.96 342.90 
+76.79 72.35 
+141.52 34.72 
+0.11 
+(0.16) (0.31) 
+(5.95) (1.69) 
+(2.67) (0.04) 
+1.24 1.65 
+(050) (615) 
+210.38 100.53 
+542.34 443.43 
+62.28 (82.34) 
+5.72 (34.57) 
+(25.73) (30.55) 
+(206.96) 174.11 
+(0.63) (16.44) 
+(165.32) 10.21 
+377.02 453.64 
+(78.10) (85.32) 
+298.92 368.32 
+(114.54) (126.03) 
+3.51 0.07 
+(2.55) (7.15) 
+(150.00) 
+(138.28) 
+(2,290.89) (1,187.94) 
+2,296.84 1,189.63 
+(245.91) (281.42) 
+112.00 
+140.00 
+(112.15) (45.49) 
+(13.19) (14.92) 
+890.00 834.98 
+(910.00) (945.00) 
+(10649) (3896) 
+(139.83) (69.39) 
+(86.82) 17.51 
+163.06 36.79 
+76.24 54.30 
+PCBL Internal Document 
+
+Notes to the Unaudited Standalone Financial Results 
+4. Additional information as per Regulation 52(4) and 54(3) of SEBI (listing Obligations and Disclosure Requirements) Regulations, 2015 
+The Company has issued 70,000 rated, listed, secured, redeemable, non-convertible debentures of face value of Rs.1,00,000 each, aggregating to Rs. 700 crores on January 29, 2024, 
+subscribed by DBS Bank Limited, Reliance General Insurance Company Limited, Aditya Birla Sun Life Mutual Fund (Credit Risk Fund) and Aditya Birta Sun Life Mutual Fund (Medium Term 
+Plan) (collectively referred to as the "Debentures") which have remained outstanding as on September 30, 2024 and accordingly the following disclosures are being made as per Regulation 
+52(4) and 54(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 
+Standalone 
+Quarter ended Six Months ended Year ended 
+Particulars 30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Debt-Equity Ralio 0.71 0.84 0.22 0.71 0.22 0.87 
+Debt Service Coverage Ratio 1.87 2.31 4.21 2.05 4.41 3.63 
+Interest Service Coverage Ratio 4.38 3.65 32.61 3.98 22.92 9.98 
+Net Worth (Rs Crore) 3,238.67 3,110.16 2,789.26 3,238.67 2,921.97 2,994.41 
+Net Profit after tax ( Rs Crore) 129.04 116.28 132.36 245.32 250.43 533.29 
+Earnings per share (Basic) 3_42• 3.00· 3_51• 6.5o· 6.63· 14.13 
+Earnings per share (Diluted) 3.41 "# 3.00· 3_51• 6.49.# 6.63· 14.13 
+Current Ratio 0.96 1.02 1.11 0.96 1.11 0.94 
+Long Term Debt to Working Capital 10.59 7.02 1.36 10.59 1.36 15.21 
+Bad Debts to Account receivable Ratio## 0.00 0.00 0.00 - (0.00) 
+Current Liability Ratio 0.45 0.45 0.73 0.45 0.73 0.47 
+Total Debts to Total Assets 0.32 0.36 0.12 0.32 0.12 0.35 
+Debtor Turnover-Days 68 67 66 67 66 67 
+Inventory Turnover-Days 30 20 37 25 36 35 
+Operating Margin (%) 16.22% 16.89% 15.55% 16.54% 15.40% 15.81% 
+Net Profit Margin (%) 8.45% 7.82% 9.51% 8.14% 9.33% 9.44% 
+• not annualised 
+(# after considering impact of share warrants (Refer Note 5)) 
+## Ratio is below the rounding off norm adopted by the Company. 
+The debentures subscribed by DBS Bank Limited for Rs 615 crores, Reliance General Insurance Company Limited for Rs 50 crores, Aditya Birta Sun Life Mutual Fund (Credit Risk 
+Fund) for Rs 15 crores and Aditya Birla Sun Life Mutual Fund (Medium Term Plan) for Rs 20 crores are secured by way of first ranking exclusive pledge over certain identified shares 
+held by Advaya Chemical Industries Limited (a subsidiary of the Company) ("Subsidiary") to the extent of the security cover of 1.5x in terms of the share pledge agreement dated 
+January 20, 2024 executed between the Subsidiary and the debenture trustee. 
+There is no deviation or variation in the use of proceeds of issue of the Debentures from the objects stated in the Information Memorandum. 
+The Company does not have any Outstanding redeemable preference shares as at end of each period presented 
+There is no requirement of creation of capital redemption reserve/ debenture redemption reserve as per the Companies Act, 2013 
+As at end of each period presented, the Company had no outstanding listed commercial papers. 
+Formula for computation of above ratios are as follows: 
+Debt Equity Ratio= Non Current Borrowings + Current Borrowings I Total Equity 
+Debt Service Coverage Ratio= Net profit after tax+ Depreciation and amortisation expense + (Finance costs excluding interest on lease liabilities+net gain on foreign currency 
+transaction+Gain & Loss on disposal of property, plant and equipment)/ Debt Service ( Interest+ Principal Loan repayment). 
+Interest Service Coverage Ratio = (Profit Before Tax +Finance costs excluding interest on lease liabilities+net gain on foreign currency transaction)/(Finance costs excluding interest on 
+lease liabilities+net gain on foreign currency transaction) 
+- Net worth = Equity Share Capital excluding money received against share warrant+ Securities Premium + General Reserve + Retained Earnings. 
+Current Ratio= Total Current Assets I Total Current Liabilities 
+Long term Debt to Working Capital = Non current borrowings including current maturities of long-term debts/ (Current Assets- Current Liabilities excluding current maturities of long term 
+debts) 
+Bad Debt to Accounts Receivable ratio = Bad Debt ( including allowance for doubtful debts/ expected credit loss)/ Trade Receivables 
+Current Liability Ratio= Total Current Liabilities/ Total Liabilities 
+Total Debts to Total Assets= (Non Current Borrowings+ Current Borrowings)/ Total Assets 
+Debtors Turnover Ratio Days = Sales( Sales of Finished Goods and Traded Goods including GST +Sale of Power)/ Trade Receivables". 
+'The Company's turnover is highly sensitive to the changes in crude prices which may fluctuate widely between quarters. The Company, therefore, believes that the Debtors turnover 
+days computed on the basis of simple average of the turnover days for each of the four quarters of the year will be more appropriate and reflective of company's operations. The 
+turnover days for each quarter is derived by dividing the quarter-end outstanding debtors balance with sales for the respective quarter. 
+Inventory Turnover= Sales( Sales of Finished Goods and Traded Goods without GST +Sale of Power)/ •Inventories(Raw Materials + Finished Goods + Stores and spares parts 
+(including packing material). 
+"Ihe Company's turnover is highly sensitive to the changes in crude prices which may fluctuate widely between quarters. The Company, therefore, believes that the Inventory turnover 
+days computed on the basis of simple average of the turnover days for each of the four quarters of the year will be more appropriate and reflective of company's operations. The 
+turnover days for each quarter is derived by dividing the quarter-end outstanding inventory balance with sales for the respective quarter. 
+Operating Margin (%)= Operating Profit (Profit Before Tax +Depreciation and amortisation expenses+Finance Costs+Payment of Lease Liability+Net gain on foreign currency 
+lransaction+Loss/ (Profit) on disposal of property, plant and equipment -Other Income)/ Revenue from Operations. 
+Net Profit Margin(%) = Net Profit ( Profit after Tax)/ Net Sales ( Sales of Finished Goods and Traded Goods without GST +Sale of Power) 
+
+Notes to the Unaudited Standalone Financial Results 
+5 During the period ended September 30, 2024, the Preferential Issue Committee of the Board of Directors of PCBL Limited ("Company") 
+at its Meeting held on May 7, 2024, has approved the allotment of warrants of the Company, on a preferential basis by way of a private 
+placement. The Company had allotted 1,36,00,000 convertible warrants to Rainbow Investments Limited (Promoter) and 12,00,000 
+convertible warrants each to Quest Capital Markets Limited (Promoter Group) and STEL Holdings Limited (Promoter Group) on May 7, 
+2024 for an issue price of Rs 280 per warrant. Out of total issue price, Rs 70 (25% of the issue price) per warrant amounting to Rs 112 
+crores was received as the initial subscription amount at the time of allotment of the warrants during the period. The amount raised, has 
+been used fully for the purposes for which the funds were raised.This has been considered for calculating diluted earnings per equity 
+shares for the quarter and period ended September 30, 2024, as per Ind AS 33-Earnings Per Share. 
+6 The Board of Directors at its meeting held on August 28, 2024 and PCBL's shareholders approved through Postal Ballot passed on 
+October 6, 2024 has approved the change of name of the Company from "PCBL Limited" to "PCBL Chemical Limited".The Company 
+has made necessary application for name change with Ministry of Corporate Affairs. 
+7 During the current year, Chief Operating Decision Maker ("CODM") of the Company has changed the structure of its internal 
+organisation resulting in allocation of borrowings and related interest accrued but not due which were earlier classified under 
+"Unallocated" segment to "Carbon Black" and "Power" segment. Accordingly, as per Ind AS 108 Operating Segments, information for 
+corresponding periods has also been restated. · 
+8 Basis recommendation received from the Audit Committee of Advaya Chemical Industries Limited ("ACIL"), a subsidiary of the 
+Company, the Board of Directors of ACIL at its meeting held on August 1, 2024 has approved the Scheme of Amalgamation of 
+Aquapharm Chemicals Private Limited ("ACPL"), a wholly owned subsidiary of ACIL, with ACIL and their respective shareholders under 
+Section 233 and other applicable provisions of the Companies Act, 2013. The Scheme provides for merger of ACPL with ACIL and other 
+matters incidental thereto. 
+9 The Board of Directors of the Company, at its board meetings granted authorisation to execute the Joint Venture Agreement dated 
+March 16, 2024 between the Company and Kinaltek Pty Ltd ("Kinaltek") as novated and amended vide joint venture novation and 
+amendment agreement between the Company, Kinaltek and Kindia Pty Ltd as a trustee of Kindia Unit Trust ("Kindia") dated September 
+17, 2024 ("Joint Venture Agreement"). The Company incorporated a wholly owned subsidiary Nanovace Technologies Limited ("JV 
+Company"), on March 29, 2024. 
+During the period ended September 30, 2024, the Company invested Rs 2.55 Crore as equity contribution which represents 51 % of the 
+shareholding in the JV Company and Kindia invested Rs 2.45 Crore as equity contribution which represents 49% of the shareholding in 
+the JV Company. Further, the Company invested Rs. 138.28 Crore by way of subscription to optionally convertible debenture (OCDs) 
+and Kindia invested Rs 1.66 Crore by way of subscription to compulsorily convertible debentures (CCDs). The above amount has been 
+utilized towards acquisition of intellectual properties of nano-silicon based products for battery applications and for acquisition of Enersil 
+Pty Ltd. 
+10 Advaya Chemicals Limited, wholly owned subsidiary of the Company, has been struck off with effect from October 15, 2024 by Register 
+of Companies, Pune (ROC). 
+11 The above unaudited standalone financial results of the Company for the quarter and period ended September 30, 2024 have been 
+reviewed by_ the Audit Committee and thereafter approved by the Board of Directors at their respective meetings held on October 29, 
+2024. These unaudited standalone financial results have been subjected to limited review by the statutory auditors of the Company in 
+accordance with Regulation 33 and 52 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations 2015 ("the 
+Regulations") who has issued an unmodified conclusion on these unaudited standalone financial results. 
+- ~ _. RP-SanjivGoenka 
+,~ Group 
+Growing Legacies 
+Kolkata 
+October 29, 2024 , &, Kaushik Roy ~ 
+Managing Director 
+DIN: 06513489 
+
+• PCBL Limited 
+~iPCBL ~~ RP•SanjtvOOeftkfi Registered Office: 31, Netaji Subhas Road, Kolkata - 700 001. CIN: L23109WB1960PLC024602 ~ .,..,,, Statement of Unaudited Consolidated Financial Results for the quarter and half year ended September 30, 2024 o,...i~oi,o,u., 
+Website : www.pcblltd.com, Phone No. : (+91) 33 40870500/600 
+/Rs In Crores unless otherwise stated) 
+Consolidated 
+Quarter ended Six Months ended Year ended 
+Particulars 30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Revenue from Operations 2,163.20 2,143.56 1,486.71 4.306.76 2,834.23 6,419.77 
+Olher Income 5.65 10.88 2.68 16.53 6.66 37.03 
+Total Income 2,168.85 2,154.44 1,489.39 4,323.29 2,840.89 6,456.80 
+Expenses 
+Cost of materials consumed 1,512.87 1,435.94 1,090.23 2,948.81 2,020.39 4,533.92 
+Purchases of stock-in-trade 1.93 12.96 14.89 1.74 
+Change in inventories of finished goods & stock-in-trade (16.17) 0.15 (41.93) (16.02) (36.77) (69.87) 
+Employee benefits expense 98.49 100.10 55.98 198.59 108.42 250.41 
+Finance costs 118.92 121.11 20.97 240.03 40.22 180.78 
+Depreciation and amortisation expense 86.41 84.47 48.24 170.88 89.42 217.26 
+Other expenses 202.57 236.14 144.31 438.71 293.30 666.23 
+Total Expenses 
+- 2,005.02 1,990.87 1,317.80 3,995.89_ 2,514.98 5,780.47 
+Profit before tax 163.83 163.57 171.59 327.40 325.91 676.33 
+Tax expense - Current Tax 53.29 58.71 48.06 112.00 91.01 187.89 
+Deferred Tax charge/ (credit) (12.91) (13.06) 0.70 (25.97) 2.72 (0.03) 
+Tax relating to earlier years charge/ (credit) (2.64) 
+Total tax expense 40,38 45.65 48.76 86.03 93.73 185.22 
+Profit after tax 123,45 117.92 122.83 241,37 232.18 491.11 
+Other Comprehensive Income/ (Loss) (OCI) 
+Items that will be reclassified to profit or loss 
+Exchange differences on translation of foreign operations 0.25 2.73 (1.11) 2.98 (1.51) (1.11) 
+Net movement on cash flow hedges (0.22) 
+Income tax relating to above 0.06 
+Hems that will not be reclassified to profit or loss 
+Remeasurements of post employment defined benefit plans (0.69) (0.70) 0.46 (1.39) 0.92 (2.70) 
+Changes in fair value of equity instruments through OCI 162.06 75.70 41.76 237.76 64.30 161.70 
+Income Tax relating to items that will not be reclassified to Profit or Loss 
+- ,_ (16.80) (~ (5~ (25.87) 
+- ~7) (~ 
+Other Comprehensive Income I (Lou) 
+- ,- 14'U2 68.66 35.56 ~ 53.84 1~ 
+Total Comprehensive Income ~ ,~ 268.27 186.58 158.39 454.85 286.02 623.88 
+(Comprising Profit after tax and Other Comprehensive Income) 
+Profit attributable to : - ,_ 
+Owners of the equity 123.37 11802 122.64 241.39 231.81 490.94 
+Non-controlling interest 0.08 (0.10) 0.19 (0.02) 0.37 0.17 
+Other Comprehensive Income attributable to · 
+Owners of the equity 145.10 68.26 35.73 213.36 54.08 133.18 
+Non-controlling interest (0.28) 0.40 (0.17) 0.12 (0.24) (0.41) 
+Total Comprehensive Income attributable to : 
+Owners of the equity 268.47 186.28 158.37 454.75 285.89 624.12 
+Non-controlling interest (0.20) 0.30 0.02 0.10 0.13 (0.24) 
+Paid-up Equity Share Capital ace value of Re. 1/- each) - 37.75 37& 37.75 37.75 ~ 37.75· - Ulher ~qu,ly J,~U8Y4 
+Earnings per equity share (EPS) (Rs.) 
+(Nominal value per share Re. 1/-) 
+Basic 3.27' 3.13' 3.25' 6.39' 6.14' 13.00 
+Diluted 3.26'# 3.13' 3.25' 6.38'# 6.14' 13.00 
+(' not annualised) 
+/# after considerina imoact of share warrants (Refer Note 5)) 
+Notes to the Unaudited Consolidated Financial Results 
+1. Segment Information (Refer Note 7) 
+Consolidated 
+Quarter ended Six Months ended Year ended 
+Particulars 30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+I. Segment Revenue : 
+(a) Carbon Black 1,753.09 1,734.29 1,442.57 3,487.38 2,751.83 6,012.83 
+(b) Power 80.70 81.28 63.87 161.98 120.65 256.95 
+(c) Chemical 360.87 357.37 718.24 239.07 
+Total 2,194.66 2,172.94 1,506.44 4,367.60 2,872.48 6,508.85 
+I A55 · lnlAr $AQmPnt RPvPn11P 31.4R 2q :1A rn7:i AOA4 38.25 8908 
+Net Sales / Revenue from Operations 2 163.20 2 143.56 1,486.71 4 306.76 2,834.23 6 419.77 
+II. Segment Profit Before Interest and Tax : 
+(a) Carbon Black 271.99 304.27 199.10 576.26 397.60 909.46 
+(b) Power 49.65 55.33 41.57 104.98 73.67 162.25 
+(c) Chemical 19.59 15.79 35.38 (8.15) 
+Total 341.23 375.39 240.67 716.62 471.27 1,063.56 
+Less: (i) Finance cost 118.92 121.11 20.97 24003 40.22 180.78 
+(ii) Other Un-allocable Expenditure net of Un-allocable 58.48 90.71 48.11 149.19 105.14 206.45 
+Income 
+Total Profit before tax 163.83 163.57 171.59 327.40 325.91 676.33 
+Ill. Segment Assets 
+Carbon Black 5,264.82 4,889.80 4,917.01 5,264.82 4,917.01 5,208.00 
+Power 543.21 550.93 528.63 543.21 528.63 533.78 
+Chemical 4,813.32 4,831.98 4,813.32 4.725.34 
+Battery Chemical 145.00 145.00 
+Unallocated 978.28 1.198.24 610.90 978.28 610.90 828.29 
+11 744.63 11,470.95 6,056.54 11 744.63 6,056.54 11 295.41 
+IV. Segment Liabilities - Carbon Black 
+~\. LIM1~ 3,605.76 3,491.43 2,432.26 3,605.76 2,432.26 3,730.32 
+Power 399.19 445.07 213.26 399.19 213.26 406.41 
+Chemical 
+C 3,444.81 3,482.61 3,444.81 3,424.67 
+Battery Chemical 
+I KOLKATA ('.) l Unallocated 473.51 502.84 285.70 473.51 285.70 483.59 
+7,923.27 7,921.95 2,931.22 7,923.27 2,931.22 8,044.99 
+oc:11-,,.,,..,::.0,....,.,,. 
+'-._/ 
+* - 
+
+Notes: 
+2 Statement of Unaudited Consolidated Assets and Liabilities as at September 30, 2024 
+Particulars /Rs in Crores) 
+Consolidated 
+As at 
+30.09.2024 
+(Unaudited) As at 
+31.03.2024 
+(Audited) 
+ASSETS 
+Non-current assets 
+Property, Plant and Equipment 
+Capital work-in-progress 
+Investment Property 
+Goodwill 
+Intangible assets 
+Right of Use Assets 
+Financial Assets 
+(i) Investments 
+(ii) Loans 
+(iii) Other Financial Assets 
+Non current tax assets (Net) 
+Other non-current assets 
+Total Non-current assets 
+Current assets 
+Inventories 
+Financial Assets 
+(i) Investments 
+(ii) Trade receivables 
+(iii) Cash and cash equivalents 
+(iv) Other bank balances 
+(v) Loans 
+(vi) Other Financial Assets 
+Other current assets 
+Total Current assets 
+TOTAL ASSETS 
+EQUITY AND LIABILITIES 
+EQUITY 
+Equity Share Capital 
+Other Equity 
+Equity attributable to Equity Holders of the Parent 
+Non Controlling Interest 
+TOTAL EQUITY 
+LIABILITIES 
+Non-current liabilities 
+Financial Liabilities 
+(i) Borrowings 
+(ii) Lease Liabilities 
+(iii) Other financial liabilities 
+Provisions 
+Deferred tax liabilities (Net) 
+Total Non-current liabilities 
+Current liabilities 
+Financial Liabilities 
+(i) Borrowings 
+(ii) Lease Liabilities 
+(iii) Trade payables 
+a) Total Outstanding Dues of Micro Enterprises and Small Enterprises 
+b) Total Outstanding Dues of creditors other than Micro Enterprises and Small 
+Enterprises 
+(iv) Other financial liabilities 
+Provisions 
+Current Tax Liabilities (Net) 
+Other current liabilities 
+Total Current liabilities 
+TOTAL LIABILITIES 
+TOTAL EQUITY AND LIABILITIES - <J,,\.. LIM1~ 
+i~ I {KOLKATAJ ) 3,456.57 
+541.37 
+4.48 
+1,161.48 
+2,250.58 
+164.61 
+634 09 
+1.11 
+43.33 
+17.39 
+70.08 3,387.03 
+433.04 
+4.48 
+1,161.37 
+2,166.24 
+173.12 
+396.17 
+1.54 
+38.61 
+35.09 
+59.97 
+8,345.09 7,856.66 
+980.66 
+38.40 
+1,774.83 
+182.63 
+74.06 
+0.53 
+21.88 
+326.55 999.31 
+36.85 
+1,710.24 
+312.29 
+72.51 
+0.64 
+25.28 
+281.63 
+3,399.54 3,438.75 
+11,744.63 11,295.41 
+37.75 
+3,775.67 37.75 
+3,208.94 
+3,813.42 
+7.94 3,246.69 
+3.73 
+3 821.36 3,250.42 
+3,574 51 ·3,776.64 
+12604 132 05 
+43.35 38.89 
+15.66 15.67 
+871.23 870.97 
+4,630.79 4,834.22 
+1,175.86 1,043.05 
+29.78 31.36 
+51.44 45.03 
+1,661.91 1,756.99 
+246.92 214.43 
+97.18 90.81 
+7.97 0.12 
+21.42 28.98 
+3,292.48 3,210.77 
+7,923.27 8,044.99 
+11,744.63 11,295.41 
+
+PCBL LIMITED 
+3.Statement of Unaudited Consolidated Cash Flows for the period ended September 30, 2024 
+Particulars Six Months ended 
+September 30, 2024 
+Unaudited (All amounts in Rs Crores, unless otherwise stated) 
+Six Months ended 
+September 30, 2023 
+Unaudited 
+A. Cash Flow from Operating Activities 
+Profit before Tax 
+Adjustments to reconcile profit before tax to net cash flows: 
+Depreciation and amortisation expense 
+Finance costs 
+Allowance for doubtful debts/ expected credit losses - trade receivables 
+Interest income from certain financial assets 
+Exchange differences on translation of foreign subsidiaries 
+Gain on sale/ fair valuation of investments carried at FVTPL 
+Provisions/ Liabilities no longer required written back 
+(Profit)/Loss on disposal/discard of property, plant and equipment 
+Provisions/ write back for claims and litigations (net) 
+Unrealised Foreign exchange differences (net) 
+Operating profit before changes in operating assets and liabilities 
+Working capital adjustments 
+(lncrease)/Decrease in inventories 
+(lncrease)/Decrease in trade receivables 
+(lncrease)/Decrease in other financial and non-financial assets 
+lncrease/(Decrease) in trade payables 
+lncrease/{Decrease) in other financial and non-financial liabilities 
+Cash generated from operations 
+Income taxes paid (net of refunds) 
+NET CASH FLOWS GENERATED FROM OPERATING ACTIVITIES 
+B. Cash Flow from Investing Activities 
+Purchase of property, plant and equipment 
+Proceeds from disposal of property, plant and equipment 
+Purchase of current investments 
+Proceeds from sale/redemption of current investments 
+Fixed deposits (placed) /matured with banks 
+Interest received 
+NET CASH FLOWS USED IN INVESTING ACTIVITIES 
+C. Cash Flow from Financing Activities 
+Proceeds from issue of share warrants 
+Proceeds from issue of equity shares and Compulsory Convertible Debenture 
+{CCDs) to Non Controlling Interest 
+Proceeds from non-current borrowings 
+Repayment of non-current borrowings 
+Payment of lease liabilities, including interest thereon 
+Proceeds from current borrowings 
+Repayment of current borrowings 
+Finance cost paid 
+NET CASH FLOWS (USED IN)/ GENERATED FROM FINANCING ACTIVITIES 
+Net {Decrease)/ Increase in Cash and Cash Equivalents 
+Opening Cash and Cash Equivalents 
+Closing Cash and Cash Equivalents 325.91 
+170.88 
+240.03 
+0.11 
+(2.23) 
+2.98 
+(9.22) 
+(0.26) 
+(2.72) 
+1.24 
+(1.95) 
+116.87 
+442.78 
+18.65 
+(62.49) 
+(45.53) 
+(89.35) 
+(27.15) 
+(424.09) 
+4.01 
+(2,893.75) 
+2,901.42 
+(1.84) 
+1.01 -----,-,-,-, 327.40 
+89.42 
+40.22 
+{2.38) 
+(1.51) 
+{2.03) 
+(0.04) 
+1.65 
+(8.46) 
+398.86 
+726.26 
+(116.12) 
+(104.05) 
+(48.05) 
+311.01 
+(16.55) 
+(20587) 
+520.39 
+(8616) 
+434.23 
+(338.95) 
+0.07 
+(1,351.93) 
+1,335.96 
+0.60 
+1.81 
+(413.24) 26.24 
+469.02 
+(85.32) 
+383.70 
+(352.44) 
+112.00 
+4.11 
+(148.20) 
+(21.92) 
+1,406.09 
+{1,330.97) 
+(171.76) 
+(150.65) 140.00 
+(61.12) 
+(19.42) 
+934.98 
+(945.00) 
+(48.55) 
+0.89 
+(129.66) 
+312.29 32.15 
+40.22 
+182.63 72.37 
+- 
+PCBL Internal Document 
+
+Notes to the Unaudited Consolidated Financial Results 
+4. Additional information as per Regulation 52(4) and 54(3) of SEBI (Listing Obligations and Dis closure Requirements) Regulations, 2015 
+The Parent Company has issued 70,000 rated, listed, secured, redeemable, non-convertible debentures of face value of Rs. 1,00,000 each, aggregating to Rs. 700 crores subscribed by DBS 
+Bank Limited, Reliance General Insurance Company Limited, Aditya Birla Sun Life Mutual Fund (Credit Risk Fund),Aditya Birla Sun L~e Mutual Fund (Medium Term Plan) and subsidiary of the 
+Parent Company, Advaya Chemical Industries Limited has issued 55,000 rated, listed, secured, redeemable, non-convertible debentures of face value of Rs. 1,00,000 each aggregating to Rs. 
+550 crores subscribed by DBS Bank Limited (collectively referred to as the "Debentures") which have remained outstanding as on September 30, 2024 and accordingly the following disclosures 
+are being made as per Regulation 52(4) and 54(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015. 
+Consolidated 
+Quarter ended Six Months ended Year ended 
+Particulars 30.09.2024 30.06.2024 30.09.2023 30.09.2024 30.09.2023 31.03.2024 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Debt-Equity Ratio 1.25 1.41 0.32 1.25 0.32 1.48 
+Debt Service Coverage Ratio 3.05 2.23 4.21 2.56 3.64 2.80 
+Interest Service Coverage Ratio 2.82 2.55 40.81 2.67 24.00 6.71 
+Net Worth (Rs crores) 3,193.71 3,071.01 2,921.97 3,193.71 2,921.97 2,953.51 
+Net Profit after tax ( Rs crores) 123.45 117.92 122.83 241.37 232.18 491.11 
+Earnings per share (Basic) 3.27" 3_13• 3.25• 6_39• 6.14* 13.00 
+Earnings per share (Diluted) 3.26·# 3_13• 3_25• 6.38·# 6.14* 13.00 
+Current Ratio 1.03 1.10 1.12 1.03 1.12 1.07 
+Long Term Debt to Working Capital 5.94 4.71 1.50 5.94 1.50 5.64 
+Bad Debts to Account receivable Ratio ## 000 000 (0.00) 
+Current Liability Ratio 0.42 0.40 0.71 0.42 0.71 0.40 
+Total Debts to Total Assets 0.40 0.44 0.17 0.40 0.17 0.43 
+Debtor Turnover-Days 68 66 66 68 69 68 
+Inventory Turnover-Days 41 34 42 41 44 42 
+Operating Margin(%) 15.11% 15.64% 14.25% 15.37% 14.47% 14.64% 
+Net Profit Margin(%) 5.74% 5.52% 8.30% 5.63% 8.24% 7.69% 
+• not annualised 
+(# after considering impact of share warrants (Refer Note 5)) 
+## Ratio is below the rounding off norm adopted by the Group. 
+The debentures of the Parent Company is subscribed by DBS Bank Limited for Rs 615 crores, Reliance General Insurance Company Limited for Rs 50 crores, Aditya Birla Sun Life Mutual 
+Fund (Credit Risk Fund) for Rs 15 crores and Aditya Birla Sun L~e Mutual Fund (Medium Term Plan) for Rs 20 crores are secured by way of first ranking exclusive pledge over certain 
+identitied shares held by Advaya Chemical Industries Limited (a subsidiary of the Company) ("Subsidiary") to the extent of the security cover of 1.5x in terms of the share pledge agreement 
+dated January 20, 2024 executed between the Subsidiary and the debenture trustee. 
+The debentures of the subsidiary of the Parent Company, Advaya Chemical Industries Limited subscribed by DBS Bank Limited for Rs 550 crores are secured by way of exclusive pledge 
+over certain iden@ed shares to the extent of the security cover of 1x in terms of the share pledge agreement dated January 20, 2024 executed between the Subsidiary and the debenture 
+trustee. 
+There is no deviation or variation in the use of proceeds of issue of the Debentures from the objects stated in the Information Memorandum. 
+The Group does not have any Outstanding reedemable preference shares as at end of each period presented 
+There is no requirement of creation of capital redemption reserve/ debenture redemption reserve as per the Companies Act, 2013 
+As at end of each period presented, the Group had no outstanding listed commercial papers. 
+Formula for computation of above ratios are as follows: 
+Debt Equity Ratio= Non Current Borrowings + Current Borrowings / Total Equity 
+Debt Service Coverage Ratio= Net profit after tax+ Depreciation and amortisation expense + (Finance costs excluding interest on lease liabilities+net gain on foreign currency 
+transaction+Gain & Loss on disposal of property, plant and equipment)/ Debt Service ( Interest+ Principal Loan repayment). 
+- Interest Service Coverage Ratio = (Profit Before Tax +Finance costs excluding interest on lease liabilities+net gain on foreign currency transaction)/(Finance costs excluding interest on 
+lease liabilities+net gain on foreign currency transaction) 
+Net worth= Equity Share Capital excluding money received against share warrant+ Securities Premium + General Reserve + Retained Earnings. 
+Current Ratio = Total Current Assets / Total Current Liabilities 
+Long term Debt to Working Capital = Non current borrowings including current maturities of long-term debts/ (Current Assets- Current Liabilities excluding current maturities of long term 
+debts) 
+Bad Debt to Accounts Receivable ratio = Bad Debt ( including allowance for doubtful debts/ expected credit loss ) / Trade Receivables 
+Current Liability Ratio= Total Current Liabilities/ Total Liabilities 
+Total Debts to Total Assets= (Non Current Borrowings+ Current Borrowings)/ Total Assets 
+Debtors Turnover Ratio Days = Sales( Sales of Finished Goods and Traded Goods including GST +Sale of Power)/ Trade Receivables• 
+"The Company's turnover is highly sensitive to the changes in crude prices which may fluctuate widely between quarters. The Company, therefore, believes that the Debtors turnover days 
+computed on the basis of simple average of the turnover days for each of the four quarters of the year will be more appropriate and reflective of company's operations. The turnover days 
+for each quarter is derived by dividing the quarter-end outstanding debtors balance with sales for the respective quarter. 
+Inventory Turnover= Sales( Sales of Finished Goods and Traded Goods without GST +Sale of Power)/ "Inventoriestfcaw Materials + Finished Goods + Stores and spares parts (including 
+packing material). 
+"The Company's turnover is highly sensitive to the changes in crude prices which may fluctuate widely between quarters. The Company, therefore, believes that the Inventory turnover days 
+computed on the basis of simple average of the turnover days for each of the four quarters of the year will be more appropriate and reflective of company's operations. The turnover days 
+for each quarter is derived by dividing the quarter-end outstanding inventory balance with sales for the respective quarter. 
+Operating Margin (%)= Operating Profit (Profit Before Tax +Depreciation and amortisation expenses+Finance Costs+Payment of Lease Liability+Net gain on foreign currency 
+transaction+Loss/ (Profit) on disposal of property, plant and equipment -Other Income)/ Revenue from Operations 
+Net Profit Margin(%) = Net Profit ( Profit after Tax)/ Net Sales ( Sales of Finished Goods and Traded Goods without GST +Sale of Power) 
+
+- Notes to the Unaudited Consolidated Financial Results 
+5 During the period ended September 30, 2024, the Preferential Issue Committee of the Board of Directors of PCBL Limited ("Parent 
+Company") at its Meeting held on May 7, 2024, has approved the allotment of warrants of the Parent Company, on a preferential 
+basis by way of a private placement. The Parent Company had allotted 1,36,00,000 convertible warrants to Rainbow Investments 
+Limited (Promoter) and 12,00,000 convertible warrants each to Quest Capital Markets Limited (Promoter Group) and STEL Holdings 
+Limited (Promoter Group) on May 7, 2024 for an issue price of Rs 280 per warrant. Out of total issue price, Rs 70 (25% of the issue 
+price) per warrant amounting to Rs 112 crores was received as the initial subscription amount at the time of allotment of the warrants 
+during the period. The amount raised, has been used fully for the purposes for which the funds were raised.This has been 
+considered for calculating diluted earnings per equity shares for the quarter and period ended September 30, 2024, as per Ind AS 33- 
+Earnings Per Share. 
+6 The Board of Directors of Parent Company at its meeting held on August 28, 2024 and its shareholders approved through Postal 
+Ballot passed on October 6, 2024 has approved the change of name of the Company from "PCBL Limited" to "PCBL Chemical 
+Limited".The Parent Company has made necessary application for name change with Ministry of Corporate Affairs. 
+7 During the current year, Chief Operating Decision Maker ("CODM") of the Group has changed the structure of its internal organisation 
+resulting in allocation of borrowings and related interest accrued but not due which were earlier classified under "Unallocated" 
+segment to "Carbon Black" , "Power'' and " Chemicals" segment. Accordingly, as per Ind AS 108 Operating Segments, information for 
+corresponding periods has also been restated. 
+8 Basis recommendation received from the Audit Committee of Advaya Chemical Industries Limited ("ACIL"), a subsidiary of the Parent 
+Company, the Board of Directors of ACIL at its meeting held on August 1, 2024 has approved the Scheme of Amalgamation of 
+Aquapharm Chemicals Private Limited ("ACPL"), a wholly owned subsidiary of ACIL, with ACIL and their respective shareholders 
+under Section 233 and other applicable provisions of the Companies Act, 2013. The Scheme provides for merger of ACPL with ACIL 
+and other matters incidental thereto. 
+9 The Board of Directors of the Parent Company, at its board meetings granted authorisation to execute the Joint Venture Agreement 
+dated March 16, 2024 between the Parent Company and Kinaltek Pty Ltd ("Kinaltek") as novated and amended vide joint venture 
+novation and amendment agreement between the Parent Company, Kinaltek and Kindia Pty Ltd as a trustee of Kindia Unit Trust 
+("Kindia") dated September 17, 2024 ("Joint Venture Agreement"). The Parent Company incorporated a wholly owned subsidiary 
+Nanovace Technologies Limited ("JV Company"), on March 29, 2024. 
+During the period ended September 30, 2024, the Parent Company invested Rs 2.55 Crore as equity contribution which represents 
+51% of the shareholding in the JV Company and Kindia invested Rs 2.45 Crore as equity contribution which represents 49% of the 
+shareholding in the JV Company. Further, the Parent Company invested Rs. 138.28 Crore by way of subscription to optionally 
+convertible debenture (OCDs) and Kindia invested Rs 1.66 Crore by way of subscription to compulsorily convertible debentures 
+(CCDs). The above amount has been utilized towards acquisition of intellectual properties of nano-silicon based products for battery 
+applications and for acquisition of Enersil Pty Ltd. 
+The Board of Directors of Nanovace Technologies Limited (subsidiary company) , at its meeting held on September 23, 2024, 
+approved the share purchase agreement dated September 23 ,2024 between Nanovace Technologies , Kinaltek and Enersil Pty Ltd 
+("Enersil"). Post approval, Nanovace Technologies Limited acquired 100 shares of Enersil, for an aggregate consideration of Rs 11.51 
+crores (subject to agreed adjustments) representing 100% of the issued and paid-up share capital of Enersil ("Transaction").Pursuant 
+to acquisition, the Group has provisionally recognised identifiable tangible assets amounting to Rs. 11.51 crores in accordance with 
+Ind AS 103 "Business Combination". 
+10 Advaya Chemicals Limited, wholly owned subsidiary of the Parent Company, has been struck off with effect from October 15, 2024 
+by Register of Companies, Pune (ROC). 
+11 The above statement of unaudited consolidated financial results for the quarter and period ended September 30, 2024 are not 
+comparable with corresponding quarter/period on account of acquisition of Aquapharm Chemicals Private Limited ("ACPL") through 
+one of its subsidiary, Advaya Chemical Industries Limited on January 31, 2024. 
+12 The above unaudited consolidated financial results of the Group for the quarter and period ended September 30, 2024 have been 
+reviewed by the Audit Committee and thereafter approved by the Board of Directors at their respective meetings held on October 29, 
+2024. These unaudited consolidated financial results have been subjected to limited review by the statutory auditors of the Group in 
+accordance with Regulation 33 and 52 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations 2015 ("the 
+Regulations") who has issued an unmodified conclusion on these unaudited consolidated financial results. 
+Kolkata 
+October 29, 2024 ~ ~ RP•Sanjlv Goenka 
+,~ Group 
+Growing Legacies 

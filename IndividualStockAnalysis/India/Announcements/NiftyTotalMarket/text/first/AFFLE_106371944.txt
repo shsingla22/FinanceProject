@@ -1,0 +1,71 @@
+ 
+Affle 3i Limited 
+(Formerly known as Affle (India) Limited) 
+Regd. Office | A47 Lower Ground Floor, Hauz Khas, Off Amar Bhawan, New Delhi-110016  
+Communication Office | 8th floor, Unitech Commercial Tower - 2, Sector - 45, Gurugram - 122003, Haryana 
+(P) 0124-4598749 (W) www.affle.com ; CIN: L65990DL1994PLC408172  
+  
+Affle/SE/2025-26                                                 September 12, 2025 
+   
+To 
+ 
+BSE Limited 
+Phiroze Jeejeebhoy Towers,                                 
+Dalal Street, Mumbai 400 001 
+Scrip Code: 542752 National Stock Exchange of India Ltd 
+Exchange Plaza, 5th Floor, Plot No. C-l, G 
+Block, Bandra Kurla Complex, Bandra (East), 
+Mumbai - 400 051 
+Symbol: AFFLE 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 (“SEBI Listing Regulations”) 
+ 
+This is to inform that the Company has been granted another patent in the US. This grant adds to our 
+expanding tech IP portfolio and augments the performance and effectiveness of our conversion-driven 
+CPCU model, as we further fortify our AI-powered consumer platform stack. 
+ 
+The patent’s subject area is “Method and System for Hardware and Software Based User Identification for 
+Advertisement Fraud Detection”. It introduces a smart framework for detecting digital advertisement fraud 
+and online commerce fraud, by combining plurality of hardware and software level data to distinguish 
+genuine human actions from bot-initiated or manipulated activity. Unlike conventional approaches that rely 
+solely on software identifiers, this system also analyses multi-layered data in real-time through various 
+hardware touchpoints like device sensors, biometrics and connectivity signals. The fraud detection engine 
+builds unique device/user behavioural profiles and calculates probabilistic scores by correlating data with 
+pre-defined baselines, cross-device mapping and digital fingerprinting techniques. 
+ 
+The system’s real-time design employs supervised & unsupervised machine learning and intelligent 
+algorithms to adapt to the continuously evolving fraud patterns. It also analyses data from third-party 
+connected devices (such as IoT, smart wearables, connected TVs, etc.) which are assigned unique identities 
+and communicate via wireless protocols. By correlating this data with sensor-based indicators such as 
+gyroscope, accelerometer data, touch interactions and other user device signals, the system strengthens 
+cross-device fraud detection and enables blocking of fraudulent publishers/devices in real-time. This 
+significantly reduces cost leakages and optimises campaign efficiencies at scale across a plurality of 
+connected devices. 
+ 
+This marks the 16th patent granted to Affle, expanding our robust IP portfolio which comprises a total of 
+36 unique patent applications filed to date. It reinforces our ongoing commitment to building secure, 
+transparent and high-impact advertising technologies that deliver trusted outcomes for advertisers globally. 
+ 
+The inventors of this patent include Anuj Khanna Sohum, Charles Yong and Anurag Singh. 
+ 
+Submitted for your information and records. 
+ 
+Thanking You, 
+ 
+ 
+Affle 3i Limited 
+(Formerly known as Affle (India) Limited) 
+Regd. Office | A47 Lower Ground Floor, Hauz Khas, Off Amar Bhawan, New Delhi-110016  
+Communication Office | 8th floor, Unitech Commercial Tower - 2, Sector - 45, Gurugram - 122003, Haryana 
+(P) 0124-4598749 (W) www.affle.com ; CIN: L65990DL1994PLC408172  
+ Yours Faithfully, 
+For Affle 3i Limited 
+(Formerly known as Affle (India) Limited)  
+ 
+ 
+ 
+Parmita Choudhury 
+Company Secretary & Compliance officer  

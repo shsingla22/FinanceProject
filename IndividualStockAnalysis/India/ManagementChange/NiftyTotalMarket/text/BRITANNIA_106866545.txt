@@ -1,0 +1,77 @@
+--- CIM_761_WebXMLFile_20261119_185113198_2.xml (the exchange's structured disclosure) ---
+NSESymbol: BRITANNIA ; Name Of The Company: BRITANNIA INDUSTRIES LIMITED ; Scrip Code: 500825 ; MSEISymbol: NOTLISTED ; ISIN: INE216A01030 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-30 ; Time Of Occurrence Of Event Or Information: 17:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-19 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Vice President - Sales ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Rahul Mahajan ; Effective Date Of Reason Of Change: 2026-11-30 ; Salutation: Mr. ; Name Of The Person: Rahul Mahajan ; Designation Of Person: Vice President - Sales ; Date On Which The Resignation Letter Was Received: 2026-09-01 ; Effective Date Of Resignation: 2026-11-30 ; Reason Of Resignation In Brief: Mr. Rahul Mahajan, Vice President - Sales, has decided to pursue an opportunity outside Britannia and has resigned from the services of the Company.
+
+--- CIMG_500825_19112026185052_1.pdf ---
+Date: 18 November 2026
+To,
+The Corporate Relations Department,
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort, Mumbai - 400 001
+Scrip Code: 500825
+
+The Listing Department,
+National Stock Exchange of India Limited,
+Exchange Plaza, C-1, Block G, Bandra-Kurla Complex,
+Bandra (East), Mumbai - 400 051
+Symbol: BRITANNIA
+
+Dear Sir/Madam,
+Sub
+
+:
+
+Intimation under Regulation 30 of the Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (‘SEBI Listing Regulations,
+2015’)
+
+Ref
+
+:
+
+SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+
+Pursuant to Regulation 30 read with Clause 7 of Para A of Part A of Schedule III of the SEBI Listing
+Regulations, 2015, this is to inform you that Mr. Rahul Mahajan, Vice President - Sales, has decided to
+pursue an opportunity outside Britannia and has resigned from the services of the Company.
+He shall be relieved from the services of the Company with effect from the close of business hours on
+30 November 2026. A Copy of his resignation letter along with the reasons is enclosed as ‘Annexure I’.
+Request you to please take the above information on record.
+Thanking you,
+Yours faithfully,
+For Britannia Industries Limited
+
+SONA
+RAJORA
+
+Digitally signed by SONA
+RAJORA
+Date: 2026.11.18 17:37:10
++05'30'
+
+Sona Rajora
+Company Secretary and Compliance Officer
+ICSI Membership No.: A35468
+Encl.: As above
+
+
+Annexure I
+
+01 Sept, 2026
+
+To,
+Mr. Vipin Kumar Kataria,
+Chief Commercial Officer - Sales & Replenishment,
+Britannia Industries Limited
+Subject: Resignation as the Vice President - Sales, Britannia Industries Limited
+After due consideration, I have decided to move on from Britannia to pursue
+opportunities outside. Please treat this letter as my resignation.
+I would like to be relieved on 30t h November 2026. Would appreciate it if that can be
+considered.
+Wishing Team-Britannia the very best.
+
+Warm Regards,
+
+Rahul Mahajan
+
+

@@ -1,0 +1,453 @@
+Oc
+tober 29, 2025  
+To, 
+B
+SE Limited   National Stock Exchange of India Ltd 
+Scrip Code: 532478     Symbol : UBL  
+Dea
+r Sir, 
+Sub
+: Amendment to the “ Code of Practices & Procedures for Fair Disclosure s of Unpublished Price 
+Sensitive Information ” 
+In
+ compliance with Regulation 8(2) of the SEBI (Prohibition of Insider Trading) Regulations, 2015, the 
+Company at its Board Meeting held today  i.e. October 29, 2025, has amended the “ Code of Practice s 
+& Procedure s for Fair Disclosure s of Unpublished Price Sensitive Information ” (“Code of Fair 
+Disclosure s”), inter alia , incorporating the recent amendments to SEBI (Prohibition of Insider Trading) 
+Regulations, 2015, which has been effective from June 10, 2025.  
+A c
+opy of the Code of Fair Disclosure s is also enclosed  herewith . 
+The
+ aforementioned information is also being made available on the Company's website 
+www.unitedbreweries.com  
+This
+ is for your information and records . 
+Th
+anking you,  
+You
+rs faithfully  
+For UNITED BREWERIES LIMITED  
+__________
+________________________  
+NIKHIL MALPANI  
+Company Secretary & Compliance Officer  
+Enc
+k: as above  
+1 
+UNITED  BREWERIES LIMITED  
+CODE  OF PRACTICES  & PROCEDURES  FOR  FAIR  DISCLOSURES OF 
+UNPUBLISHED PRICE SENSITIVE INFORMATION  
+[Under Regulation 8(1)  of the Securities and Exchange Board of  India  
+(Prohibition of Insider Trading) Regulations, 2015]  
+Version  - 3.0 
+Approved  By - Board of Directors 
+Approved on   - 20.05.2019 
+Amended on  - 10.10.2021  
+ Amended on       -   29. 10.2025  
+© 2019 UNITED  BREWERIES  LIMITED  Annexure
+2  CODE OF PRACTICES AND PROCEDURES FOR FAIR DISCLOSURE OF 
+UNPUBLISHED PRICE SENSITIVE INFORMATION  
+ 
+Introduction  
+ 
+The Securities and Exchange Board of India (“ SEBI ”) has notified the SEBI (Prohibition of  
+Insider Trading) Regulations, 2015 (hereinafter the/these “ Regulations ”) inter alia to put 
+in place a framework for prohibition of Insider Trading in securities. The Regulations 
+come into force with effect from May 15, 2015. The Company had formulated and 
+adopted this Code of Practices and Procedures for Fair Disclosures of Unpublished 
+Price Sensitive Information (hereinafter “ the Code ”). 
+ 
+Securities & Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 
+(hereinafter referred to as “the Regulations”) were notified by SEBI on January 15, 2015 which became  effective  from  May  14, 2015.  Further,  SEBI  also  constituted  
+Vishwanathan Committee to look into the changes required in the aforesaid Regulations. Based on the recommendations of this Committee, SEBI vide Notifications dated December 31, 2018 (which become  effective  from  April  01, 2019)  January  21, 
+2019,  July  25, 2019,  September  17, 2019,
+ March 13, 2020, July 17, 2020, October 19, 
+2020, October 29, 2020, April 26, 2020 and August 05, 2021, October 10, 2021 made 
+further amendments to the aforesaid Regulations. As per Regulation 8(1)  of the 
+Amendment Regulations,  United  Breweries  Limited  (“the  Company”)  has  adopted a 
+revised or amended Code namely “Code of Practices & Procedures for fair disclosure of Unpublished Price Sensitive Information” (“
+Fair Disclosure Code ”) by 
+passing a Board Resolution on October 29, 2025 to be line with the amendments 
+made by SEBI  from time to time.  
+ 
+Objective of Fair  Disclosures Code  
+ 
+The Fair Disclosure Code is aimed to (i) ensure timely and adequate disclosure of Unpublished Price  Sensitive  Information (“
+UPSI ”) (as defined  below)  which  may have  
+impact  on the price of the Company’s Securities (as defined below) and (ii) maintain the 
+uniformity, transparency and  fairness  in dealing  with  all stakeholders  and in ensuring  
+adherence  to applicable  laws and regulations.  Further,  the Company endeavours  to 
+preserve  the confidentiality of UPSI and to prevent misuse of such information.  
+ 
+The Company will adhere to the following code/process so as to  ensure fair disclosure 
+of information that could have impact on the price of its securities in the market and also adhere  to each  of the principles  set out in Schedule A to the Regulations.
+ 
+ 
+1. Definitions  
+ 
+1.1. “Act”  means  the Securities  and Exchange  Board  of India  Act,  1992 (15 of 1992);  
+1.2. “Board” means  Board of Directors  of the Company,  as constituted from  time  to 
+time;  
+ 
+1.3. “Compliance Officer” means any senior officer, designated so and reporting to 
+the Board or head of the organization in case Board is not there, who is financially literate (means  a person  who  has  the ability to read  and understand  basic  
+financial statements  i.e. balance  sheet,  profit and loss  account,  and  
+statement  of cash  flows) and is capable of appreciating requirements for legal 
+and regulatory compliance under the Regulations and who shall be responsible 
+3  for compliance of policies, procedures, maintenance  of records,  monitoring  
+adherence  to the rules  for the preservation of UPSI, monitoring of trades and 
+the implementation of the codes specified in the Regulations under the overall 
+supervision of the Board of the Company  or the head of  an organisation,  as the 
+case may be; 
+ 
+1.4. “Connected  Person” shall  mean:  
+(i) Any person who is or has during the six months prior to the concerned act , 
+associated with the Company, in any capacity , directly or indirectly, 
+including by reason of frequent  communication  with  its officers  or by 
+being in any  contractual,  fiduciary  or employment relationship  or by being  
+a Director, officer or an employee of the Company or holds any position  
+including a professional or  business relationship , whether temporary or 
+permanent, with the Company, that allows such person, directly or 
+indirectly, access to UPSI or is reasonably expected to allow such access.  
+ 
+(ii) Without prejudice to the generality of the foregoing, the persons falling within the 
+following categories shall be deemed to be Connected Persons unless the contrary is established-
+ 
+(a) a relative  of Connected  Persons  specified  in clause  (i); or 
+(b) a Holding company  or Associate  company  or Subsidiary  company;  or 
+(c) an intermediary as specified in Section 12 of the Act or an employee or 
+Director thereof; or  
+(d) an investment company,  trustee  company,  asset  management  company  
+or an employee or director thereof; or  
+(e) an official  of a Stock  Exchange  or of clearing  house  or corporation;  or 
+(f) a member of board of trustee of a mutual fund or a member of the board of 
+directors of the asset management company of a mutual fund or is an 
+employee thereof; or  
+(g) a member of the board of directors or an employee, of a public financial 
+institution as defined in Section 2(72) of the Companies Act, 2013; or  
+(h) an official or an employee of a self -regulatory organization recognized or 
+authorized by SEBI; or  
+(i) a banker  of the Company;  or 
+(j) a concern, firm, trust, Hindu undivided family, company or association 
+of persons  wherein  a director of a Company  or his Relative  (as defined 
+below)  or banker  of the Company,  has  more  than  ten percent  of the 
+holding  or interest  or 
+(k) a firm or its partner or its employee in which a connected person specified in sub -
+clause (i) of clause (d) is also a partner; or  
+(l) a person sharing household or residence with a connected person specified in 
+sub -clause (i) of clause (d);  
+ 
+1.5. ’Default ’’ shall have the same meaning as referred to in Clause 6 of paragraph A 
+of Part A of Schedule III of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+ 
+ 
+1.6. “Designated  Persons”  shall  mean:  
+ 
+a) All promoters  of the Company;  
+ 
+b) All directors  of the Company;  
+4  c) Key  Managerial  Personnel  (“KMP ”) of the Company;   
+ 
+d) Employees of Job Grade 25 and above of the Company and equivalent positions of 
+its subsidiaries  on case -to-case basis and as may be applicable ; 
+ 
+e) Executive  Secretaries  of the Directors/KMP;  
+f) All employees of Legal & Secretarial, Internal Audit, Corporate Affairs, 
+Corporate Communication and employees in Head Office in Finance  and  
+Accounts . 
+ 
+g) Other persons  as may be designated by the Board of Directors in consultation 
+with Compliance Officer of the company; and  
+ 
+h) Immediate  Relatives  or persons  covered  under  clause  (a) to (g) above.  
+ 
+1.7. ‘‘Fraud’’  shall have the same meaning as referred to in Regulation 2(1)(c) of 
+Securities and Exchange Board of India (Prohibition of Fraudulent and Unfair 
+Trade Practices relating to Securities Market) Regulations, 2003.  
+1.8. “Generally available information” means information that is accessible to the 
+public on a non- discriminatory basis;  
+ 
+1.9. “Immediate Relative” means spouse or a person, and includes parent, 
+sibling, and child of  such person  or of the  spouse, any of whom is either  
+dependent  financially on such person or consults such person in taking 
+decision relating to trading in Securities;  
+ 
+1.10.  “Insider”  means any  person  who is 
+(i) a connected person;  or 
+(ii) in possession of or having  access  to unpublished price  sensitive  
+information; It  is clarified  that  the Insider  will  also  include  all Designated  
+Persons;  
+ 
+1.11.  “Key Managerial Personnel (KMP)” shall have the same meaning as defined in 
+sub - section  (51)  of Section 2  of the Companies  Act,  2013;  
+1.12.  “Legitimate Purpose” shall include sharing of unpublished price sensitive 
+information in the ordinary course of business by an Insider with partners, collaborators, lenders, customers, suppliers, merchant bankers, legal advisors, auditors, insolvency professionals or other advisors or consultants, provided that such sharing has not been carried out to evade or circumvent the prohibitions of the Regulations.
+ 
+ 
+1.13.  “Proposed to be listed”  includes  Securities  of an unlisted  company:  
+(i) if such unlisted companies has filed offer documents or other documents, as the case may be, with SEBI, stock exchange(s) or registrar of companies in connection with the listing; or
+ 
+(ii) if such  unlisted  company is getting  listed  pursuant  to any merger  or 
+amalgamation and has filed a copy of such scheme of merger or amalgamation under the Companies Act, 2013.
+ 
+ 
+ 
+5  1.14.  “Relative” shall mean the following:  
+(i) spouse of the person;  
+(ii) parent of the person and parent of its spouse;  
+(iii) sibling of the person and sibling of its spouse;  
+(iv) child of the person and child of its spouse;  
+(v) spouse of the person listed at sub -clause (iii); and  
+(vi) spouse of the person listed at sub -clause (iv)  
+ 
+1.15.  “SEBI ” shall  mean the Securities  and Exchange  Board  of India  
+1.16.  “Securities ” shall have the meaning assigned to it under the Securities Contracts 
+(Regulation) Act,  1956  (42 of 1956) or  any modification thereof except  units  of 
+a mutual fund.  
+ 
+1.17.  “Stock  Exchange ” means  where  Securities  of the Company are listed  or proposed  
+to be listed.  
+ 
+1.18.  “Unpublished  Price Sensitive Information  (“UPSI”)  means  any information, 
+relating to the Company or its Securities, directly or indirectly, that is not 
+generally available  and which  upon becoming  generally  available,  is likely  to 
+materially  affect the price of the Securities and shall, ordinarily including but not 
+restricted to, information relating to the following: - 
+ 
+(i) Financial  results.  
+(ii) Declaration of dividends  (both  interim  and  final)  
+(iii) Change  in Capital  Structure  including  Issue  securities  and buy -
+back  of securities  or forfeiture  of shares  or change  in market  lot of 
+shares;  
+(iv) Acquisition, Merger, Demerger,  Amalgamation,  Restructuring,  
+Scheme of arrangement or takeovers , award or termination of 
+order/contracts not in the normal course of business] and such other transactions;
+ 
+(v) Disposal,  spin  off or selling  division  of whole  or substantially  whole  of 
+the undertaking;  
+(vi) Any  major  expansion  plans  or execution  of new projects  or any  
+significant changes in policies, plans or operations of the Company;  
+(vii) Changes in Key Managerial Personnel , other than due to superannuation or 
+end of term, and resignation of a Statutory Auditor or Secretarial Auditor ; 
+(viii) Matters inserted under Securities  and Exchange Board of India (Prohibition of 
+Insider Trading) (Amendment) Regulations, 2025 (w.e.f. June 10, 2025) ; 
+(ix) Other matters as may be prescribed by SEBI or Considered by the Compliance Officer to be price sensitive from time to time.  
+ 
+Explanation - For identification of events enumerated in this clause as UPSI, the 
+guidelines for materiality referred at paragraph A of Part A of Schedule III of the SEBI Listing Regulations as may be specified by the Board from time to time and materiality as referred at paragraph B of Part A of Schedule III of the SEBI Listing Regulations shall be applicable.  
+ 
+All the words and expressions used but not defined in this code/policy but are defined  under  the Act,  the Regulations,  the Securities  Contracts  (Regulation)  Act, 
+1956  (42 of 1956), the Depositories Act, 1996 (22 of 1996) or the Companies Act, 
+2013 and the rules  and  regulations  made  thereunder  shall  have  the meanings  
+respectively  assigned to them in those legislation.
+ 
+6  2. Norms  for disclosure  of UPSI  
+2.1. Prompt  public  disclosure  of UPSI : 
+ 
+The UPSI shall be disclosed to stock exchanges promptly on a continuous 
+basis as soon as credible and concrete information comes into being and for the purpose of disclosure to stakeholders and public in order to make such information generally available. For this purpose, UPSI includes any 
+information which relates directly or indirectly  to the Company  and which,  if 
+published,  is likely  to affect  the price  discovery of shares of the Company.
+ 
+ 
+2.2. Uniform  and  Universal  dissemination  of UPSI:  
+The UPSI shall be disseminated uniformly and universally to all stakeholders 
+through Stock Exchanges. The Company shall use its best endeavours to avoid 
+selective disclosure of price sensitive information. However, if any Information 
+gets disclosed selectively or inadvertently or otherwise, endeavour shall be made 
+to make generally available  the above  information through  dissemination  of 
+the same  to Stock Exchanges and/or  by posting  the same on  the official website 
+of the Company as soon as  practicable.  The  Compliance  Officer  shall  deal  
+with  dissemination  of information and disclosure of UPSI.  
+ 
+3. Overseeing  and  co-ordinating  disclosure:  
+ The  Compliance  Officer,  for the purpose  of these  Regulations,  shall  oversee 
+disclosures and deal with dissemination of the price sensitive information and  
+disclosure of same in the aforesaid manner.  
+ 
+ The Compliance Officer shall be responsible for ensuring that the Company complies with disclosure requirements and overseeing and co -ordinating 
+disclosure of price sensitive information to Stock Exchanges, on the website of 
+the Company for public dissemination and media.
+ 
+ 
+ If information is accidentally disclosed without prior approval of  Compliance 
+Officer,  the person responsible may inform the Compliance Officer immediately, 
+even if the information is not considered price sensitive. In such event of 
+inadvertent, selective disclosure of the price sensitive information, the Compliance Officer shall take prompt  action to ensure  that  such  information  
+is generally  available.
+ 
+ 
+4. Responding  to market  rumours : 
+ The Compliance Officer shall promptly respond to any queries on news reports and or requests  for verification of  market rumours  by exchanges.
+ 
+ 
+ The Compliance Officer shall be responsible for deciding whether a public announcement is necessary for verifying or denying rumours and then making the disclosure. He/she shall also provide  appropriate  assistance and fair 
+response to the regulatory authorities including the stock exchanges for verification of news reports and market rumours.
+ 
+ 
+  
+7  5. Process  of disseminating  information  in order  to make  the  price  
+sensitive  information generally available:  
+ 
+ Disclosure/dissemination  of information  may  be done  through various  media  
+so as to achieve maximum reach and quick dissemination.  
+ 
+ Company  shall  ensure  that  disclosure  to stock  exchanges  is made  promptly.  
+6. Manner  of dealing  with  analyst  and  research  personnel:  
+(i) Only  Public  and generally available  information  to be provided  – The  Company 
+shall only provide only public and generally available information to the 
+analysts/research persons/investors like institutions. Alternatively, the 
+information being given to the analysts  should  be simultaneously  made  public  
+at the earliest.  
+(ii) Handling of unanticipated questions  – The  Company  should  be careful  while  
+dealing with analysts’ questions that raise issues outside the intended scope of discussion. Unanticipated questions may be taken on notice and a considered response may be  given later. If the answer includes price sensitive information, 
+a public announcement should be made before responding.
+ 
+(iii) Simultaneous release of Information  - When the Company organizes 
+meetings with analysts, the Company shall make a press release or post relevant information on its website after every such meet.
+ 
+(iv) Prompt dissemination of unpublished price sensitive information that gets disclosed selectively,  inadvertently  or otherwise  to make such  information  
+generally available
+ 
+(v) Transcript  of discussion  - All analyst or institutional  investor meetings  shall  
+be attended by the CFO and/ or CEO as deemed appropriate. For any analyst 
+calls on quarterly results, in order to avoid  misquoting  or misrepresentation,  
+a transcript  of the call shall be published on the Company’s website as soon as 
+practically possible following the call.  
+(vi) Medium of disclosure/dissemination - The Company shall disclose / 
+disseminate all Unpublished Price Sensitive Information on a continuous and 
+in a timely manner to Stock Exchanges where its Securities are listed and thereafter to the press.
+ 
+ 
+As a good corporate  practice,  the Unpublished  Price  Sensitive Information  
+disclosed to  the Stock  Exchanges  and to the press  may also  be supplemented  
+by prompt updates on the Company's web site.  The Company may also consider 
+other modes of public disclosure of Unpublished Price Sensitive Information so as to improve investor access to the same.
+ 
+ 
+7. UPSI  on Need- to-Know  basis:  
+ 
+UPSI shall be handled on a “need to know” basis i.e. UPSI shall be disclosed only to those within the Company or persons connected with the Company who need the information  for Legitimate  Purpose,  or to  discharge  their official  
+duties  or discharge  of legal obligations.  
+ 
+8  8. Disclosure  of Code on Public  Domain:  
+ 
+This  code  and any  amendment  thereof  will  be published  on the Company’s  
+website  www.unitedbreweries.com  
+ 
+9. Policy  for Legitimate Purposes:  
+The  Company has  framed  a policy  for determination  of ‘Legitimate  Purposes’  as a 
+part  of the Fair  Disclosures  Code,  which  is Annexed as Annexure -I. 
+ 
+10. Amendment  of the  Code  
+ 
+The  Board shall  have  power  to amend any of the provisions  of the code,  
+substitute any of the provisions with a new provision or replace the code entirely 
+with a new code according to subsequent  modification(s)/amendment(s) to the 
+Regulations  and  shall be promptly intimated to the Stock Exchange where the 
+securities of the Company are listed.  
+ 
+********  
+9  Annexure  – I 
+ 
+POLICY FOR  DETERMINATION  OF LEGITIMATE  PURPOSES  
+(As a part  of Code of Fair  Disclosure  and  Conduct)  
+ 
+PRESERVATION  OF CONFIDENTIALITY  OF PRICE SENSITIVE  INFORMATION  
+ 
+NEED  TO KNOW  BASIS  
+UPSI  is to be handled on a "need  to know" basis.  
+ 
+It should be disclosed only to those within the Company or persons  connected with the 
+Company who need the information for Legitimate Purpose, or to discharge their official 
+duties or discharge of legal obligations and whose possession of such information will not 
+give rise to a conflict of interest or appearance of misu se of the information.  
+ 
+SHARING OF INFORMATION  FOR  LEGITIMATE PURPOSE  
+ 
+“Legitimate Purpose”  shall mean sharing of UPSI in the  ordinary course of 
+business or on  a need -to-know basis. The Company may share the UPSI if required 
+in the interest of the Company.  
+ 
+Legitimate  Purpose  shall  interalia  include  sharing  of UPSI on need  to know  basis  by an 
+insider with partners, collaborators, lenders, customers, suppliers, merchant 
+bankers, legal advisors, auditors, insolvency professionals or other advisors or consultants, provided that such sharing has not been carried out to evade or circumvent the prohibitions of the Regulations. (Regulation 3(2A) and 3(2B)).
+ 
+In following  cases which  are illustrative  in nature,  sharing  of UPSI  would  also  be 
+considered as legitimate purpose:  
+i. Sharing of UPSI for investigation, inquiry, or request for information by statutory or governmental authorities or any other administrative body recognized by law;
+ 
+ii. Sharing  of UPSI  under  any  proceedings  or pursuant  to any order of courts  or tribunals;  
+iii. Sharing of UPSI as part of compliance with applicable laws, regulations, rules and 
+requirements;  
+iv. Sharing  of UPSI  arising  out  of any  contractual  obligations  or arrangement  entered  
+by the Company set forth in any contract, agreement, arrangement, settlement, 
+understanding or undertaking.  
+v. Sharing  of UPSI  arising  out of business requirement  including  requirement  for 
+the purposes of promoting the business and Strategies of business  which may 
+require sharing  of information with Promoters and Promoters in turn with their 
+Promoters as well as by Promoters  with  their  advisors,  consultants,  intermediaries,  
+fiduciaries  etc.  A few illustrative examples are mentioned below:  
+• Sharing the relevant UPSI by Company or Promoters for advice, consultation, 
+valuation,  fund  raising  or other  intermediation  and approvals  in relation  to the 
+subject matter of a proposed deal/assignment/tie -up/venture/fund raising;  
+• Sharing the relevant UPSI by Company or Promoters with intermediaries, 
+fiduciaries, merchant  bankers,  advisors,  lawyers,  bankers,  consultants,  
+valuers,  auditors, insolvency professionals, business support agents, 
+transaction processing service providers in order to avail professional services from them;
+ 
+10  • Sharing the relevant UPSI by Company or Promoters for advice, consultation, 
+transaction support, intermediation and approvals on projects relating to enterprise transformation, strategy, change management, analytics, re -
+organization, operation improvement,  technology, and similar domains;
+ 
+• Sharing  the relevant  UPSI by Company  or Promoters  with  business  partners  
+essential to fulfil the terms and conditions of a business contract with a client, vendor, collaborator, or lender;
+ 
+• Sharing the relevant UPSI by Company or Promoters for advice, consultation,  
+transaction support, intermediation, and approvals in the process of evaluation of new products,  business opportunities  and new  lines  of business;
+ 
+• Sharing the relevant UPSI by Company or Promoters for statutory consolidation requirements or related customary disclosure obligations;
+ 
+• Sharing the relevant UPSI by Company or Promoters with persons engaged or involved in the processes leading to disclosure of events set out in Schedule III to SEBI (Listing Obligations  and Disclosure Requirements)  Regulations,  2015;
+ 
+Any  person in receipt  of UPSI  pursuant  to a “legitimate  purpose”  shall  be considered  
+an “insider”  for purposes  of the Regulations  and shall  comply with  the Code.  
+MAINTENANCE  OF A STRUCTURED  DATA  BASE  
+A structured digital database shall be maintained containing the names of such 
+persons or entities as the case may be with whom UPSI is shared under the Regulations 
+along with the Permanent Account Number  or any  other identifier authorized  by law 
+where  Permanent Account Number is not available. Such databases shall be 
+maintained with adequate internal controls and checks such as time stamping and audit trails to ensure non- tampering of the database.
+ 
+ 
+CONSIDERATION  OF THE PERSON  AS AN INSIDER  
+Any person in receipt of UPSI pursuant to a “Legitimate Purpose” shall be considered an “Insider” for  purposes  of this  Fair  Disclosure  Code  and the Regulations.  Further due  
+notice  shall  be given to such persons  to maintain confidentiality of such UPSI that is being 
+shared with them. Further such persons shall also be informed that they shall not communicate the unpublished price  sensitive information with any other person or trade 
+in the securities of the company while being  in possession of the unpublished  price  
+sensitive information.
+ 
+ 
+SYSTEM  AUDIT  
+Audit  may  be conducted  as may  be prescribed.  
+ 
+NON -DISCLOSURE  
+All parties including Designated Persons with whom information is being shared for Legitimate Purpose  shall  maintain confidentiality  and  there  shall  be a nondisclosure  
+obligation  on the part of such parties who shall keep information so received confidential, 
+except in the furtherance of Legitimate Purpose, performance of official duties or discharge of legal obligations and shall not otherwise  trade  in securities  of the Company when  in 
+possession of UPSI.
+ 
+ 
+  
+11  DISCLAIMER  
+The onus of establishing “connected persons or not” will be on the Designated Persons 
+covered under (i to vii) of sub -clause ‘1.5’ of Clause 1 based on whether the connected 
+persons is in possession of UPSI.  
+ 
+POLICY REVIEW  
+The Policy shall be reviewed periodically in accordance with review of internal control and 
+check  as well  as changes  or any  regulatory  requirements  from  time  to time.  
+In the events of inconsistency of this Policy with any legal provisions,  the provisions of the 
+law  shall override this Policy.  
+ 
+********  

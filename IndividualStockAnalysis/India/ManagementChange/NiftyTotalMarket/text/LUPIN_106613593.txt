@@ -1,0 +1,2586 @@
+LUPIN
+May 07, 2026
+National Stock Exchange of India Limited
+Exchange Plaza,
+Bandra Kurla Complex,
+Bandra (East),
+Mumbai - 400 051
+Symbol: LUPIN
+
+BSE Limited
+P. J. Towers, Dalal Street,
+Mumbai Samachar Marg,
+Mumbai - 400 001
+
+Scrip Code: Equity - 500257
+
+Subject: Outcome of Board Meeting - Audited Financial Results for the quarter and year ended
+March 31, 2026 and recommendation of Dividend
+Dear Sir/ Madam,
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (‘SEBI Listing Regulations’), we wish to inform you that the Board of Directors
+of the Company, at its meeting held on Thursday, May 07, 2026, inter alia, considered and unanimously:
+(i) Approved the Audited Standalone and Consolidated Financial Results of the Company for the quarter and
+year ended March 31, 2026.
+(ii) Recommended a Dividend of ₹ 18/- (Rupees Eighteen only) per Equity Share (i.e. 900%) of the face value
+of ₹ 2/- (Rupees Two only) each fully paid up, for the financial year ended March 31, 2026, subject to
+declaration by the Members at the ensuing Annual General Meeting (‘AGM’). The Dividend shall be paid within
+30 days from the date of declaration by the Members at the AGM.
+Further, pursuant to Regulation 33 of the SEBI Listing Regulations, the abovementioned Audited Financial Results
+along with the Auditor’s Reports of the Statutory Auditors and a declaration by the Chief Financial Officer of the
+Company with respect to unmodified opinion on the said Audited Financial Results are enclosed herewith.
+The Board meeting commenced at 01:45 p.m. (IST) and concluded at 07:25 p.m. (IST).
+The above is for your information and dissemination.
+Thanking you.
+For LUPIN LIMITED
+
+AMIT
+KUMAR
+GUPTA
+
+Digitally signed by AMIT KUMAR GUPTA
+DN: c=IN, st=Maharashtra,
+2.5.4.20=f72cf02f52d2a7e595b45b84659b
+dca28c8f26a939bb35835a169f2a237229a
+3, postalCode=400705, street=C701
+Shivdarshan CHS Ltd Sector16 Plot No5
+Navi Mumbai,
+pseudonym=d3a468d0d03546efabffd2a7c
+b7aaaae, title=7875,
+serialNumber=de9bbd80d8994e4be9f0dd
+2399144eba7e782d70287df6aad1994f0b5
+22fa08a, o=Personal, cn=AMIT KUMAR
+GUPTA
+Date: 2026.05.07 20:34:07 +05'30'
+
+AMIT KUMAR GUPTA
+COMPANY SECRETARY & COMPLIANCE OFFICER
+(ACS -15754)
+Encl.: a/a
+
+LUPIN LIMITED
+Registered Office: 3rd Floor, Kalpataru Inspire, Off W. E. Highway, Santacruz (East), Mumbai - 400 055 India. Tel: (91-22) 6640 2323.
+
+Corporate Identity Number: L24100MH1983PLC029442
+
+info@lupin.com | www.lupin.com
+
+
+~
+LU Pl N
+
+LUPIN LIMITED
+Registered Office: 3rd Floor, Kalpataru Inspire, Off Western Express Highway, Santacruz (East), Mumbai 400 055.
+Corporate Identity Number: L24100MH1983PLC029442
+Tel: (91-22) 6640 2323
+E-mail: info@lupin.com
+Website: www.lupin.com
+STATEMENT OF AUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED MARCH 31, 2026
+(fin million)
+
+Particulars
+
+Quarter
+Quarter
+Quarter
+Ended
+Ended
+Ended
+31/03/2026
+31/12/2025
+31/03/2025
+(Audited)
+(Unaudited)
+(Audited)
+(Refer note 10)
+(Refer note 10)
+
+Year
+Ended
+31/03/2026
+(Audited)
+
+Year
+Ended
+31/03/2025
+(Audited)
+
+1) Revenue from operations
+a) Sales / income from operations
+b) Other operating income
+Total Revenue from operations
+
+2) Other income
+3) Total income (1+2)
+
+51,522.6
+823.4
+
+44,339.6
+672.3
+
+43,826.9
+1,029.8
+
+190,444.2
+4,682.4
+
+164,585.8
+5,089.2
+
+52,346.0
+
+45,011.9
+
+44,856.7
+
+195,126.6
+
+169,675.0
+
+888.3
+
+998.0
+
+487.9
+
+3,127.7
+
+1,740.5
+
+53,234.3
+
+46,009.9
+
+45,344.6
+
+198,254.3
+
+171,415.5
+
+9,955.3
+2,745.8
+(335.1)
+
+9,095.5
+2,961 .3
+(175.2)
+
+9,236.0
+2,777.4
+(256.5)
+
+36,783.6
+11 ,923.2
+46.6
+
+37,167.2
+12,468.5
+(383.5)
+
+6,606.5
+387.7
+1,770.5
+13,667.5
+(3,110.1)
+
+6,315.1
+360.2
+1,786.8
+11 ,321 .8
+(673.4)
+
+5,524.2
+338.5
+2,079.8
+10,131.2
+(16.9)
+
+25,448.8
+1,214.7
+7,071 .8
+49,159.8
+(6,271 .0)
+
+23,120.7
+845.0
+6,476.9
+43,370.7
+(793.4)
+
+31,688.1
+
+30,992.1
+
+29,813.7
+
+125,377.5
+
+122,272.1
+
+21,546.2
+
+15,017.8
+
+15,530.9
+
+72,876.8
+
+49,143.4
+
+4,065.7
+
+(772.2)
+
+4) Expenses
+a)
+b)
+c)
+
+Cost of materials consumed
+Purchases of stock-in-trade
+Changes in inventories of finished goods,
+work-in-progress and stock-in-trade [(increase)/decrease]
+d) Employee benefits expense
+e) Finance cost
+f)
+Depreciation, amortisation and impairment expense (Refer note 7)
+g) Other expenses (Refer note 5 and 6)
+h) Net (gain)/ loss on foreign currency transactions
+Total expenses
+
+5) Profit before exceptional item and tax (3-4)
+6) Exceptional Items (Refer note 4)
+
+4,477.3
+
+(6,338.4)
+
+.
+
+7) Profit before tax (5+6)
+
+26,023.5
+
+8,679.4
+
+15,530.9
+
+76,942.5
+
+48,371 .2
+
+Current tax (net)
+Deferred tax (net)
+Total tax expense
+
+4,711 .2
+(324.6)
+4,386.6
+
+1,414.0
+90.9
+1,504.9
+
+2,702.5
+(85.1)
+2,617.4
+
+13,512.9
+(236.0)
+13,276.9
+
+8,571 .2
+70.4
+8,641 .6
+
+9) Net Profit after tax (7-8)
+
+21,636.9
+
+7,174.5
+
+12,913.5
+
+63,665.6
+
+39,729.6
+
+46.4
+
+(77.4)
+
+(178.7)
+
+61 .8
+
+(222.4)
+
+(16.2)
+
+27.0
+
+62.4
+
+(21 .6)
+
+77.7
+
+53.7
+
+(12.9)
+
+.
+
+(324.3)
+
+.
+
+(18.8)
+
+4.5
+
+.
+
+113.3
+
+.
+
+65.1
+
+(58.8)
+
+(116.3)
+
+(170.8)
+
+(144.7)
+
+21,702.0
+
+7,115.7
+
+12,797.2
+
+63,494.8
+
+39,584.9
+
+914.4
+
+913.7
+
+913.2
+
+914.4
+
+913.2
+
+300,423.3
+
+241 ,869.2
+
+8) Tax expense
+
+10) Other comprehensive income/ (loss)
+(a) (i) Items that will not be reclassified subsequently to
+profrt or loss
+(ii) Income tax relating to Items that will not be redassified
+subsequently to profrt or loss
+(b) (i) Items that will be reclassified subsequently to profrt or
+loss
+(ii) Income tax relating to Items that will be redassified to
+profrt or loss
+Other comprehensive income / (loss), net of tax
+
+11) Total comprehensive income / (loss), net of tax (9+10)
+12) Paid up equity share capltal (Face value, 2/- each)
+13) Other equity
+14) Earnings per share (Face value of, 2/- each)
+(Not annualised for the quarters)
+(A) Before exceptional items
+a) Basic (in ')
+b) Diluted (in ')
+
+37.01
+36.92
+
+27.16
+27.09
+
+28.30
+28.21
+
+129.18
+128.84
+
+88.80
+88.48
+
+(8) After exceptional Items
+a) Basic (in ')
+b) Diluted (in ')
+
+47.35
+47.24
+
+15.71
+15.67
+
+28.30
+28.21
+
+139.38
+139.01
+
+87.10
+86.79
+
+See accompanying notes to the standalone financial results.
+continued on Page 2 ..
+
+
+..... Page2 .....
+NOTES:
+1. The above Standalone Financial Results were reviewed by the Audit Committee and thereafter approved and taken on record by the
+Board of Directors at their meeting held on May 07, 2026.
+2. The Board of Directors have, at its meeting held on May 07, 2026 recommended a dividend of, 18/- per equity share of the face value of
+, 21- each aggregating , 8,229.2 million. The recommended dividend is subject to the approval of the shareholders at the ensuing
+Annual General Meeting.
+3. During the quarter ended March 31, 2026, 380,305 (year to date 614,066) equity shares of, 21- each, fully paid-up, were allotted upon
+exercise of the vested stock options pursuant to the Lupin Employees Stock Option Plans (ESOPs), resulting in an increase in the paidup equity share capital by , 0. 7 million (year to date , 1.2 million) and securities premium account by , 463.2 million (year to date ,
+719.7 million).
+4. Exceptional items
+a.
+
+The Company and its subsidiary are exposed to multiple civil lawsuits alleging anticompetitive behavior related to certain products
+and a possible violation of federal and state antitrust laws.These lawsuits were combined into the collection of similar cases referred
+to as In Re Generic Pharmaceuticals Antitrust Litigation. Such litigation are often resolved through settlement agreements. During
+the quarter ended 31 December 2025, the Company on best estimate recorded a provision of , 4,493.9 million (USO 50.0 million)
+towards this litigation without admission of liability or wrongdoing. During the quarter ended 31 March 2026, this provision has been
+recorded by the subsidiary and consequently reversed in the standalone results. In April 2026, the wholly owned subsidiary settled
+one of the ongoing dispute for an amount of, 2,654.1 million (USO 30.0 million) without admission of liability or wrongdoing.
+
+b.
+
+On February 09, 2026, Lupin Limited and its subsidiary entered into a settlement agreement with Astellas towards ongoing dispute
+related to Mirabegron ER Tablets a generic version of Myrbetriq ER Tablets in US markets and agreed to pay USO 90.0 million.
+During the quarter ended December 31, 2025 and year ended March 31, 2026, the Company has compensated LPI for the
+settlement payment oH 1,364.7 million (USO 15.0 million) made by it and accordingly expensed. The balance amount of USO 75.0
+million towards prepaid option has been paid and capitalised by the subsidiary.
+
+c.
+
+The Government of India has consolidated 29 existing labour legislations into a unified framework comprising four labour codes as
+follows: Code on Wages, 2019, Code on Social Security, 2020, Industrial Relations Code, 2020 and Occupational Safety, Health and
+Working Conditions Code, 2020 (collectively referred to as the "New Labour Codes"). The New Labour Codes are effective from
+November 21, 2025 and introduce changes that include, among other things, setting a uniform definition of wages. The Company
+has assessed the implications of the New Labour Codes and has recognized an incremental cost of , 496.4 million during the
+quarter ended December 31, 2025 and year ended March 31, 2026. The Company continues to monitor the developments
+pertaining to the New Labour Codes and the impact, if any, will be accounted in accordance with applicable accounting standards.
+
+d.
+
+During the year ended March 31, 2026, the Company has transferred its Over the Counter ('OTC') and API R&D business in India to
+its wholly owned subsidiaries Lupinlife Consumer Healthcare Limited and Lupin Manufacturing Solutions Limited respectively, as a
+going concern on slump sale basis for a consideration of, 8,200.0 million and, 180.0 million resulting in gain on divestment of,
+6,589.6 million and, 37.2 million respectively.
+As at March 31, 2025, assets and liabilities related to transfer of such business were shown as "Assets held for sale".
+
+e.
+
+During the year ended March 31, 2026, the Company has determined that the carrying value of investment in a subsidiary is higher
+than the recoverable amount and has provided for diminution in the value of investment of , 700.0 million. During the year ended
+March 31, 2025, the Company had provided for diminution in the value of investments in subsidiaries of, 772.2 million.
+
+5. During the year ended March 31, 2025, the Company has transferred its generic business in India to its wholly owned subsidiary Lupin
+Life Sciences Limited (formerly known as Lupin Atharv Ability Limited), as a going concern on slump sale basis resulting in loss on
+divestment of, 6.4 million.
+6. During the year ended March 31, 2025, Lupin Limited and its subsidiary, agreed to settle the dispute for an amount of , 750.5 million
+(USO 9.0 million) in connection with the drug Glumetza® without admitting any liability for any wrongdoing, with a view to avoid the costs
+and uncertainties of continued litigation.
+7. During the quarter and year ended March 31, 2025, the Company has recognised an impairment charge of, 410.9 million related to
+property, plant and equipment, commercialised intangibles and capital work in progress.
+continued on Page 3 ..
+
+
+..... Page3 .....
+8. Standalone Balance Sheet:
+Particulars
+
+A. ASSETS
+1) Non-Current Assets
+a. Property, Plant and Equipment
+b. Capital Work-in-Progress
+c. Right-of-use-Assets
+d. Goodwill
+e. Intangible Assets
+f. Intangible Assets Under Development
+g. Financial Assets
+(i) Non-Current Investments
+- In Subsidiaries (Refer note 4e)
+- In Others
+(ii) Non-Current Loans
+(iii) Other Non-Current Financial Assets
+h. Non-Current Tax Assets (Net)
+i. Other Non-Current Assets
+Total Non-Current Assets
+2) Current Assets
+a. Inventories
+b. Financial Assets
+(i) Current Investments
+(ii) Trade Receivables
+(iii) Cash and Cash Equivalents
+(iv) Other Bank Balances
+(v) Current Loans
+(vi) Other Current Financial Assets
+c. Current Tax Assets (Net)
+d. Other Current Assets
+e. Assets included in disposal group held for sale (Refer note 4d)
+Total Current Assets
+
+Asat
+31/03/2026
+(Audited)
+
+(fin million)
+Asat
+31/03/2025
+(Audited)
+
+31,685.1
+4,294.3
+6,273.3
+
+34,456.7
+2,319.0
+3,447.5
+
+-
+
+-
+
+10,767.3
+931.7
+
+11,554.4
+464.7
+
+121,370.9
+634.6
+1,271.1
+26,052.6
+396.2
+1,401.2
+205,078.3
+
+108,919.9
+594.8
+1,282.7
+743.9
+426.9
+1,163.8
+165,374.4
+
+33,507.8
+
+32,272.2
+
+34,247.7
+69,220.3
+1,116.3
+164.4
+1,023.7
+6,405.9
+4.3
+10,260.2
+
+10,035.6
+56,643.5
+3,418.0
+1,167.8
+345.7
+3,919.8
+
+-
+
+155,950.6
+
+9,012.7
+2,130.2
+118,945.5
+
+361,028.9
+
+284,319.9
+
+B. EQUITY AND LIABILITIES
+1) Equity
+a. Equity Share Capital
+b. Other Equity
+Total Equity
+
+914.4
+300,423.3
+301,337.7
+
+913.2
+241,869.2
+242,782.4
+
+Liabilities
+I) Non-Current Liabilities
+a. Financial Liabilities
+(i) Lease Liabilities
+(ii) Other Non-Current Financial Liabilities
+b. Non-Current Provisions
+c. Deferred Tax Liabilities (Net)
+d. Other Non-Current Liabilities
+Total Non-Current Liabilities
+
+3,906.5
+316.0
+4,527.8
+1,225.1
+1,392.5
+11,367.9
+
+1,899.8
+358.6
+3,985.0
+1,552.9
+743.8
+8,540.1
+
+5,768.8
+1,476.0
+
+601.5
+
+1,335.0
+23,952.4
+
+764.6
+18,923.1
+
+4,635.4
+3,855.7
+1,733.9
+5,566.1
+48,323.3
+
+2,880.8
+3,915.7
+1,793.6
+3,445.9
+672.2
+32,997.4
+
+Total Liabilities
+
+59,691.2
+
+41,537.5
+
+TOTAL EQUITY AND LIABILITIES
+
+361,028.9
+
+284,319.9
+
+TOTAL ASSETS
+
+II) Current Liabilities
+a. Financial Liabilities
+(i) Current Borrowings
+(ii) Lease Liabilities
+(iii) Trade Payables
+- Total outstanding dues of micro enterprises and small enterprises
+- Total outstanding dues of creditors other than micro enterprises
+and small enterprises
+(iv) Other Current Financial Liabilities
+b. Other Current Liabilities
+c. Current Provisions
+d. Current Tax Liabilities (Net)
+e. Liabilities included in disposal group held for sale (Refer note 4d)
+Total Current Liabilities
+
+-
+
+-
+
+-
+
+continued on Page 4 ..
+
+
+..... Page4 .....
+9. Standalone Statement of Cash Flows:
+Particulars
+
+A. Cash Flow from Operating Activities
+Profit before Tax
+Adjustments for:
+Depreciation, Amortisation and Impairment Expense
+Loss I (Profit) on Sale I Write-off of Property, Plant and Equipment/ Intangible Assets
+Loss/(Profit) on Divestment of Business Undertaking
+Gain on Sale of Investments
+Finance Costs
+Interest on Deposits with Banks and Others
+Interest on Income Tax Refund
+Unrealised Loss I (Gain) on Investments
+Unrealised Loss I (Gain) on Non-Current Investment
+Doubtful Trade Receivables / Advances provided
+Bad Trade Receivables / Advances Written off
+Share Based Payments Expense
+Impairment in value of Non-Current investments
+Unrealised Exchange Loss I (Gain) on Revaluation
+Operating Profit before Working Capital Changes
+Changes in working capital:
+(Increase) I Decrease in Inventories
+(Increase) I Decrease in Trade Receivables
+(Increase) I Decrease in Other Asset
+Increase/ (Decrease) in Trade Payables
+Increase/ (Decrease) in Other Liabilities
+Cash Generated from Operations
+Net Income tax paid
+Net Cash Flow generated from/ (used in) Operating Activities
+B. Cash Flow from Investing Activities
+Payment for Purchase of Business
+Payment for acquisition of Property, Plant and Equipment (including capital work-inprogress, other intangible assets, intangible assets under development, capital advances
+and capital creditors)
+Proceeds from Sale of Property, Plant and Equipments/ Intangible Assets
+Proceeds from Disposal of Business Undertaking Net of Cash and Cash Equivalent
+Investments in subsidiaries
+Purchase of Investment
+Proceeds from Sale of Investments
+Change in other bank balance and cash not available for immediate use
+Loan given to Subsidiaries
+Loan Repaid by Subsidiaries
+Interest Received
+Net Cash Flow generated from/ (used in) Investing Activities
+C. Cash Flow from Financing Activities
+Proceeds from I (Repayment of) Current Borrowings
+Proceeds from Issue of Equity Shares (induding Share Application Money)
+Payment of Principal Portion of Lease Liabilities
+Interest Paid on Lease Liabilities
+Finance Costs Paid
+Dividend Paid
+Net Cash Flow generated from/ (used in) Financing Activities
+Net Increase/ (Decrease) in Cash and Cash Equivalents
+Cash and Cash Equivalents as at the Beginning of the Year
+Unrealised loss I (gain) on Foreign Currency Cash and Cash Equivalents
+Cash and Cash Equivalents as at End of the Year
+
+Year
+ended
+31/03/2026
+(Audited)
+
+(fin million)
+Year
+ended
+31/03/2025
+(Audited)
+
+76,942.5
+
+48,371.2
+
+7,071.8
+(33.0)
+(6,626.8)
+(941.6)
+1,214.7
+(797.8)
+(541.2)
+(20.3)
+291.9
+(1.9)
+131.2
+700.0
+(3,814.9)
+73,574.6
+
+6,476.9
+(31.2)
+6.4
+(416.2)
+845.0
+(742.1)
+(24.1)
+(9.5)
+(6.6)
+(63.9)
+359.6
+173.1
+772.2
+(218.4)
+55,492.4
+
+(1,367.3)
+(8,774.5)
+(3,294.6)
+
+(3,027.2)
+(17,945.5)
+553.2
+
+5,271.5
+1,547.5
+66,957.2
+(11,558.7)
+55,398.5
+
+(333.9)
+(2,210.6)
+32,528.4
+(8,081.9)
+24,446.5
+
+(95.6)
+(7,170.4)
+
+(91.3)
+(12,943.8)
+
+2,606.1
+8,380.0
+(38,531.1)
+(162,009.9)
+139,261.2
+1,003.4
+(1,750.0)
+1,050.0
+767.4
+(56,488.9)
+
+98.6
+1,100.0
+(4,038.2)
+(149,701.0)
+149,752.8
+(1,018.4)
+(1,802.5)
+252.5
+728.1
+(17,663.2)
+
+5,768.8
+164.6
+(953.8)
+(265.4)
+(442.1)
+(5,483.4)
+(1,211.3)
+
+(181.3)
+398.6
+(678.0)
+(160.8)
+(327.7)
+(3,653.1)
+(4,602.3)
+
+(2,301.7)
+3,418.0
+
+2,181.0
+1,237.0
+
+-
+
+-
+
+-
+
+1,116.3
+
+3,418.0
+
+continued on Page 5 ..
+
+
+..... Page 5 .....
+
+10. The figures for the quarter ended March 31 , 2026 and March 31, 2025 are the balancing figures between audited figures in respect of the
+full financial year and the unaudited published year-to-date figures up to the third quarter ended December 31, 2025 and December 31 ,
+2024 respectively.
+
+By Order of the Board
+For Lupin Limited
+
+Nilesh
+Digitally signed by
+Nilesh Deshbandhu
+Deshband Gupta
+Date: 2026.05.07
+hu Gupta 19:29:39+os•30•
+Place : Mumbai
+Date : May 07, 2026
+
+Nilesh D. Gupta
+Managing Director
+DIN: 01734642
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+14th Floor, Central B Wing and North C Wing
+Nesco IT Park 4, Nesco Center
+Western Express Highway
+Goregaon (East), Mumbai – 400 063, India
+Telephone: +91 (22) 6257 1000
+Fax: +91 (22) 6257 1010
+
+Independent Auditors’ Report
+To the Board of Directors of Lupin Limited
+Report on the audit of the Standalone Annual Financial Results
+Opinion
+We have audited the accompanying standalone annual financial results of Lupin Limited (hereinafter
+referred to as the “Company”) for the year ended 31 March 2026, attached herewith, being submitted by
+the Company pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing
+Regulations").
+In our opinion and to the best of our information and according to the explanations given to us, the
+aforesaid standalone annual financial results:
+a.
+
+are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+regard; and
+
+b.
+
+give a true and fair view in conformity with the recognition and measurement principles laid down in
+the applicable Indian Accounting Standards, and other accounting principles generally accepted in
+India, of the net profit and other comprehensive loss and other financial information for the year ended
+31 March 2026.
+
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Standalone Annual Financial Results section of our
+report. We are independent of the Company, in accordance with the Code of Ethics issued by the Institute
+of Chartered Accountants of India together with the ethical requirements that are relevant to our audit of
+the financial statements under the provisions of the Act, and the Rules thereunder, and we have fulfilled
+our other ethical responsibilities in accordance with these requirements and the Code of Ethics. We
+believe that the audit evidence obtained by us, is sufficient and appropriate to provide a basis for our
+opinion on the standalone annual financial results.
+Management’s and Board of Directors’ Responsibilities for the Standalone Annual Financial
+Results
+These standalone annual financial results have been prepared on the basis of the standalone annual
+financial statements.
+The Company’s Management and the Board of Directors are responsible for the preparation and
+presentation of these standalone annual financial results that give a true and fair view of the net profit/
+loss and other comprehensive income and other financial information in accordance with the recognition
+and measurement principles laid down in Indian Accounting Standards prescribed under Section 133 of
+the Act and other accounting principles generally accepted in India and in compliance with Regulation 33
+of the Listing Regulations. This responsibility also includes maintenance of adequate accounting records
+in accordance with the provisions of the Act for safeguarding of the assets of the Company and for
+preventing and detecting frauds and other irregularities; selection and application of appropriate
+accounting policies; making judgments and estimates that are reasonable and prudent; and the design,
+implementation and maintenance of adequate internal financial controls, that were operating effectively
+for ensuring accuracy and completeness of the accounting records, relevant to the preparation and
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+Page 1 of 3
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Lupin Limited
+presentation of the standalone annual financial results that give a true and fair view and are free from
+material misstatement, whether due to fraud or error.
+In preparing the standalone annual financial results, the Management and the Board of Directors are
+responsible for assessing the Company’s ability to continue as a going concern, disclosing, as applicable,
+matters related to going concern and using the going concern basis of accounting unless the Board of
+Directors either intends to liquidate the Company or to cease operations, or has no realistic alternative
+but to do so.
+The Board of Directors are responsible for overseeing the Company’s financial reporting process.
+Auditor’s Responsibilities for the Audit of the Standalone Annual Financial Results
+Our objectives are to obtain reasonable assurance about whether the standalone annual financial results
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an auditor’s
+report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a guarantee
+that an audit conducted in accordance with SAs will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate,
+they could reasonably be expected to influence the economic decisions of users taken on the basis of
+these standalone annual financial results.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+–
+
+Identify and assess the risks of material misstatement of the standalone annual financial results,
+whether due to fraud or error, design and perform audit procedures responsive to those risks, and
+obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error,
+as fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of
+internal control.
+
+–
+
+Obtain an understanding of internal control relevant to the audit in order to design audit procedures
+that are appropriate in the circumstances. Under Section 143(3) (i) of the Act, we are also responsible
+for expressing our opinion through a separate report on the complete set of financial statements on
+whether the company has adequate internal financial controls with reference to financial statements
+in place and the operating effectiveness of such controls.
+
+–
+
+Evaluate the appropriateness of accounting policies used and the reasonableness of accounting
+estimates and related disclosures in the standalone annual financial results made by the Management
+and Board of Directors.
+
+–
+
+Conclude on the appropriateness of the Management’s and Board of Directors’ use of the going
+concern basis of accounting and, based on the audit evidence obtained, whether a material
+uncertainty exists related to events or conditions that may cast significant doubt on the
+appropriateness of this assumption. If we conclude that a material uncertainty exists, we are required
+to draw attention in our auditor’s report to the related disclosures in the standalone annual financial
+results or, if such disclosures are inadequate, to modify our opinion. Our conclusions are based on
+the audit evidence obtained up to the date of our auditor’s report. However, future events or conditions
+may cause the Company to cease to continue as a going concern.
+
+–
+
+Evaluate the overall presentation, structure and content of the standalone annual financial results,
+including the disclosures, and whether the standalone annual financial results represent the
+underlying transactions and events in a manner that achieves fair presentation.
+
+We communicate with those charged with governance regarding, among other matters, the planned scope
+and timing of the audit and significant audit findings, including any significant deficiencies in internal control
+that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant
+ethical requirements regarding independence, and to communicate with them all relationships and other
+matters that may reasonably be thought to bear on our independence, and where applicable, related
+safeguards.
+Page 2 of 3
+
+
+B S R & Co. LLP
+Independent Auditor’s Report (Continued)
+Lupin Limited
+Other Matter
+a.
+
+The standalone annual financial results include the results for the quarter ended 31 March 2026 being
+the balancing figure between the audited figures in respect of the full financial year and the published
+unaudited year to date figures up to the third quarter of the current financial year which were subject
+to limited review by us.
+
+For B S R & Co. LLP
+Chartered Accountants
+
+Firm’s Registration No.:101248W/W-100022
+Sudhir
+Murlidhar
+Soni
+
+Digitally signed by
+Sudhir Murlidhar
+
+Soni
+Date: 2026.05.07
+20:07:25 +05'30'
+
+Sudhir Soni
+Partner
+
+Mumbai
+07 May 2026
+
+Membership No.: 041870
+UDIN:26041870BEHJAJ5256
+
+Page 3 of 3
+
+
+~
+
+LUPIN LIMITED
+Registered Office: 3rd Floor, Kalpataru Inspire, Off. Western Express Highway, Santacruz (Eastl, Mumbai 400 055.
+Corporate Identity Number: 124100MH1983PLC029442
+Tel: (91-22) 6640 2323
+E-mail: info@>lupin.com
+Website: www.lupin.com
+
+LU Pl N
+
+STATEMENT OF AUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND YEAR ENDED MARCH 31, 2026
+(~in million)
+
+Particulars
+
+Quarter
+Ended
+31/03/2026
+(Audited)
+
+Quarter
+Ended
+31/12/2025
+(Unaudited)
+
+(Refer note 13)
+
+1)
+
+Revenue from operations
+a)
+Sales/ income from operations
+b)
+
+Other operating income
+
+73,919.1
+
+Year
+
+Year
+
+Ended
+31/03/2026
+(Audited)
+
+Ended
+31/03/2025
+(Audited)
+
+55,622.0
+
+274,875.4
+
+1,049.3
+56,671.3
+
+4,704.9
+279,580.3
+
+221,921.1
+5,157.9
+227,079.0
+
+Quarter
+Ended
+31/03/2025
+(Audited)
+
+(Refer note 13)
+
+71,004.5
+670,7
+
+Total Revenue from operations
+
+827.5
+74,746.6
+
+2)
+
+Other income
+
+1,407.1
+
+1,147.0
+
+569.5
+
+4,244.5
+
+1,958.2
+
+3)
+
+Total income (1+2)
+
+76,153.7
+
+72,822.2
+
+57,240.8
+
+283,824.8
+
+229,037.2
+
+4)
+
+Expenses
+12,313.0
+7,084.1
+(880.8)
+
+11,248.2
+7,197.3
+335,8
+
+11,094.6
+5,756.9
+
+46,219.0
+28,670.1
+
+44,574.1
+26,426.2
+
+10.5
+
+(1,624.5)
+
+(2,577 .8)
+
+71,675.2
+
+a)
+b)
+
+Cost of materials consumed
+Purchases of stock-in-trade
+
+c)
+
+Changes in Inventories of finished goods, work-in-progress
+and stock-in-trade [(increase)/ decrease)
+
+d)
+e)
+
+Employee benefits expense
+Finance costs
+
+12,426.9
+1,201.6
+
+11,432.8
+1,149.8
+
+10,012.5
+891.0
+
+45,745.3
+4,344.9
+
+39,642.0
+2,948.7
+
+f)
+g)
+h)
+
+Depreciation, amortisation and impairment expense (Refer note 10)
+Other expenses (Refer note 7,8 and 9)
+
+4,467.9
+22,092.7
+
+3,129.6
+19,366.2
+
+3,931 .8
+16,875.6
+
+13,755.0
+78,975.1
+
+(3,145.1)
+
+(523.6)
+
+(290.5)
+
+(6,564.7)
+
+11,692.6
+66,239.3
+(57,9)
+
+Total expenses
+
+55,560.3
+
+53,336.1
+
+48,282.4
+
+209,520.2
+
+188,887.2
+
+5)
+
+Profit/ (Loss) before share of profit of joint venture and tax (3-4)
+
+20,593.4
+
+19,486.1
+
+8,958.4
+
+74,304.6
+
+40,150.0
+
+6)
+
+Share of profit from joint venture {net of tax)
+
+7)
+
+Profit/ (Loss) before Tax and Exceptional items (5+6)
+
+20,593.4
+
+19,486.1
+
+8,958.4
+
+74,304.6
+
+40,150.0
+
+8)
+
+Exceptional items (Refer note 6)
+
+(1,313.4)
+
+(4,265.7)
+
+9)
+
+Profit/ (Loss) before Tax (7+8)
+
+19,280.0
+
+15,220.4
+
+8,958.4
+
+68,725.5
+
+40,150.0
+
+10)
+
+Tax expense
+Current tax (net)
+Deferred tax (net)
+
+5,079.2
+(485.9)
+
+2,045.5
+
+2,811.1
+(1,676.5)
+
+15,273.5
+(102.7)
+
+9,906.9
+(2,819.5)
+
+Total tax expense
+
+4,593.3
+
+1,369.8
+3,415.3
+
+1,134.6
+
+15,170.8
+
+7,087.4
+
+11)
+
+Profit/ (Loss) after tax (9-10)
+
+14,686.7
+
+11,805.1
+
+7,823.8
+
+53,554.7
+
+33,062.6
+
+12)
+
+Other Comprehensive Income/ (Loss)
+(a)
+(i) Items that will not be reclassified subsequently to profit or loss
+
+5.2
+(19.3)
+
+(59,3)
+
+(178.1)
+
+(63,9)
+
+(233.7)
+
+(ii) Income tax relating to items that will not be reclassified
+
+27.0
+
+64.3
+
+1.1
+
+79.6
+
+subsequently to profit or loss
+(i) Items that will be reclassified subsequently to profit or loss
+(ii) Income tax relating to items that will be reclassified
+
+517.6
+
+1,228.8
+
+344.1
+
+4,195.6
+
+(760.6)
+
+139.1
+
+4.5
+
+(b)
+
+Net (gain)/ loss on foreign currency transactions
+
+(5,579.1)
+
+271 .2
+
+subsequently to profit or loss
+other comprehensive Income/ (Loss), net of tax
+
+642.6
+
+1,201.0
+
+230.3
+
+4,404.0
+
+(914.7)
+
+13)
+
+Total comprehensive Income/ (Loss), net of tax (11+12)
+
+15,329.3
+
+13,006.1
+
+8,054.1
+
+57,958.7
+
+32,147.9
+
+14)
+
+Profit/ (Loss) attributable to :
+Owners of the Company
+
+14,603.4
+
+11,755.5
+
+7,725.2
+
+83.3
+14,686.7
+
+49.6
+11,805.1
+
+98.6
+7,823.8
+
+53,328.4
+226,3
+
+32,816.2
+246,4
+
+53,554.7
+
+33,062.6
+
+Owners of the Company
+Non-Controlling Interest of the Company
+
+616,4
+
+1,201.5
+(0.5)
+
+223,4
+6.9
+
+4,356.3
+47.7
+
+(914.3)
+
+26.2
+
+other Comprehensive Income/ (Loss) for the period
+
+642.6
+
+1,201.0
+
+230.3
+
+4,404.0
+
+(914.7)
+
+Total Comprehensive Income/ (Loss) attributable to:
+Owners of the Company
+
+15,219.8
+
+12,957.0
+
+7,948.6
+
+49.1
+13,006.1
+
+105.5
+8,054.1
+
+57,684.7
+274,0
+
+31,901.9
+246,0
+
+57,958.7
+
+32,147.9
+
+913.7
+
+913.2
+
+914.4
+
+913.2
+
+223,568.3
+
+171,121.8
+
+Non-Controlling Interest of the Company
+Profit/ (Loss) for the period
+
+15)
+
+16)
+
+Other Comprehensive Income/ (Loss) attributable to:
+
+Non-Controlling Interest of the Company
+Total Comprehensive Income/ (Loss) for the period
+
+109.5
+15,329.3
+
+17)
+
+Paid up equity share capital (Face value of~ 2/· each)
+
+914.4
+
+18)
+
+Other Equity
+
+19)
+
+Earnings per share (Face value of~ 2/- each)
+(Not annualised for the quarters)
+
+(0.4)
+
+(A) Before exceptional items
+a) Basic (in~)
+b) Diluted (in ~)
+
+34.83
+
+32.97
+
+16.93
+
+128.45
+
+71.95
+
+34.75
+
+32.88
+
+16.87
+
+128.11
+
+71.69
+
+(B) After exceptional items
+a) Basic (in~)
+b) Diluted (in ~)
+
+31.96
+
+25.74
+
+16.93
+
+25.67
+
+16.87
+
+116.75
+116,44
+
+71.95
+
+31.89
+
+71.69
+
+See accompanying notes to the consolidated financial results.
+continued on Page 2..
+
+
+..... Pagel .....
+Segment Information
+Particulars
+
+1)
+
+b) Others
+Total
+Less: Inter segment revenue
+Total revenue from operations
+
+b) Others
+Total profit before tax (after exceptional items)
+
+74,347.4
+404.7
+
+71,308.9
+369.6
+
+56,361.1
+315.6
+
+278,123.6
+1,473.9
+
+226,043.1
+1,054.5
+
+74,752.1
+
+71,678.5
+
+56,676.7
+
+279,597.5
+
+227,097.6
+
+5.5
+
+3.3
+
+5.4
+
+17.2
+
+18.6
+
+74,746.6
+
+71,675.2
+
+56,671.3
+
+279,580.3
+
+227,079.0
+
+19,771.0
+(491.0)
+
+15,673.5
+(453.1)
+
+9,322.0
+(363.6)
+
+70,502.7
+(1,777.2)
+
+41,608.1
+(1,458.1)
+
+19,280.0
+
+15,220.4
+
+8,958.4
+
+68,725.5
+
+40,150.0
+
+381,286.0
+2,394.6
+
+349,748.6
+2,530.9
+
+292,826.1
+2,749.2
+
+381,286.0
+2,394.6
+
+292,826.1
+2,749.2
+
+383,680.6
+
+352,279.5
+
+295,575.3
+
+383,680.6
+
+295,575.3
+
+32.3
+
+37.9
+
+3,526.5
+
+32.3
+
+3,526.5
+
+383,648.3
+
+352,241.6
+
+292,048.8
+
+383,648.3
+
+292,048.8
+
+157,462.2
+1,084.7
+
+140,946.6
+998.4
+
+118,208.6
+2,966.9
+
+157,462.2
+1,084.7
+
+118,208.6
+2,966.9
+
+158,546.9
+
+141,945.0
+
+121,175.5
+
+158,546.9
+
+121,175.5
+
+32.3
+
+36.5
+
+2,070.2
+
+32.3
+
+2,070.2
+
+158,514.6
+
+141,908.5
+
+119,105.3
+
+158,514.6
+
+119,105.3
+
+Assets
+a) Pharmaceuticals
+
+b) Others
+Total
+Less: Inter segment assets
+Total assets
+4)
+
+!"In million)
+Year
+Ended
+31/03/2026 31/03/2025
+(Audited)
+(Audited)
+Year
+Ended
+
+Results
+a) Pharmaceuticals
+
+3)
+
+Quarter
+Quarter
+Ended
+Ended
+31/12/2025 31/03/2025
+(Unaudited)
+(Audited)
+(Refer note 13)
+
+Revenue
+a) Pharmaceuticals
+
+2)
+
+Quarter
+Ended
+31/03/2026
+(Audited)
+(Refer note 13)
+
+Liabilities
+a) Pharmaceuticals
+
+b) Others
+Total
+Less: Inter segment liabilities
+Total liabilities
+
+NOTES:
+1 The above Consolidated Financial Results were reviewed by the Audit Committee and thereafter approved and taken on record by the Board of Directors at
+their meeting held on May 07, 2026.
+2
+
+The Consolidated Financial Results include the financial results of the subsidiaries, Lupin Pharmaceuticals, Inc. - U.S.A., Lupin Australia Pty Limited Australia, Nanomi B.V. - Netherlands, Pharma Dynamics (Proprietary) Limited - South Africa, Hormosan Pharma GmbH - Germany, Multicare
+Pharmaceuticals Philippines Inc. - Philippines, Lupin Atlantis Holdings SA - Switzerland, Lupin Healthcare (UK) Limited - U.K., Lupin Pharma canada Limited Canada, Generic Health Pty Limited - Australia, Lupin Mexico S.A. de C.V. - Mexico, Lupin Philippines Inc. - Philippines, Lupin Diagnostics Limited - India,
+Generic Health SDN. BHD. - Malaysia, Lupin Inc. - U.S.A., Laboratories Grin S.A. de C.V. - Mexico, Medquimica lndustria Farmaceutica LTDA - Brazil, Novel
+Laboratories, Inc.- U.S.A., Lupin Research Inc. - U.S.A., Lupin Management Inc. - U.S.A, Lupin Europe GmbH - Germany, Lupin Biologics Limited - India, Lupin
+Oncology Inc. - U.S.A, Lupin Digital Health Limited - India, Avenue Coral Springs LLC - U.S.A., Southern Cross Pharma Pty Ltd - Australia, Lupin Life Sciences
+Limited - India (formerly known as Lupin Atharv Ability Limited - India), Lupin Manufacturing Solutions Limited - India, Medisol S.A.S. - France, Lupin Lanka
+(Private) Ltd. - Sri Lanka (w.e.f. August OS, 2024), Lupin NZ Ltd. - New Zealand (w.e.f. August 08, 2024), Lupinlife Consumer Healthcare Limited - India
+(w.e.f. March 08, 2025), Renascience Pharma Limited - U.K. (w.e.f. April 02, 2025) and a joint venture, YL Biologics Limited -Japan.
+
+3
+
+The Consolidated Financial Statements are prepared in accordance with Ind AS 110 "Consolidated Financial Statements" and Ind AS 28 "Investments in
+Associates and Joint Ventures".
+
+4
+
+The Board of Directors have, at its meeting held on May 07, 2026 recommended a dividend of "! 18/- per equity share of the face value of "! 2/- each
+aggregating"' 8,229.2 million. The recommended dividend is subject to the approval of the shareholders at the ensuing Annual General Meeting.
+
+5
+
+During the quarter ended March 31, 2026, 380,305 (year to date 614,066) equity shares of "! 2/- each, fully paid-up, were allotted upon exercise of the
+vested stock options pursuant to the Lupin Employees Stock Option Plans (ESOPs), resulting in an increase in the paid-up equity share capital by"' 0.7
+million (year to date"! 1.2 million) and securities premium account by"! 463.2 million (year to date"! 719.7 million).
+
+6
+
+Exceptional items
+a. The Group is exposed to multiple civil lawsuits alleging anticompetitive behavior related to certain products and possible violation of federal and
+state antitrust laws. These lawsuits were combined into the collection of similar cases referred to as In Re Generic Pharmaceuticals Antitrust
+Litigation. Such litigation are often resolved through settlement agreements. During the quarter ended March 31, 2026 and December 31, 2025; the
+Group has based on best estimate, created a provision, of~ 1,323.1 million (U5D 15.8 million) and of~ 4,493.8 million (USD 50 million) respectively,
+resulting in cumulative provision of !I! 5,816.9 million (USD 65.8 million) at year ended March 31, 2026 related to antitrust litigation matters. In April
+2026, LPI, a wholly owned subsidiary of the Group, settled one of the ongoing antitrust matters for an amount of ~ 2,654.1 million (U5D 30.0
+million) without admission of liability or wrongdoing. The remaining provision continues to be carried by the Group towards future settlements
+related to similar cases.
+b. On February 09, 2026, Lupin Limited and its subsidiary entered into a settlement agreement with Astellas towards ongoing dispute related to
+Mirabegron ER Tablets a generic version of Myrbetriq ER Tablets in US markets. In respect of the same, LPI paid "! 8,475.5 million (USD 90.0 million),
+which includes"! 7,110.8 million (USD 75.0 million) as Prepaid Option and "! 1,364.7 million (USD 15.0 million) as one-time payment towards the
+settlement. During the quarter ended December 31, 2025 and year ended March 31, 2026, the Group has expensed out"' 1,364.7 million (USD 15.0
+million) and has capitalised the balance amount towards Prepaid Option.
+c. The Government of India has consolidated 29 existing labour legislations into a unified framework comprising four labour codes as follows: Code on
+Wages, 2019, Code on Social Security, 2020, Industrial Relations Code, 2020 and Occupational Safety, Health and Working Conditions Code, 2020
+(collectively referred to as the 11 New Labour Codes"). The New Labour Codes are effective from November 21, 2025 and introduce changes that
+include, among other things, setting a uniform definition of wages. The Group has assessed the implications of the New Labour Codes and has
+recognized an incremental cost of !I! 512.2 million during the quarter ended December 31, 2025 and year ended March 31, 2026. The Group
+continues to monitor the developments pertaining to the New Labour Codes and the impact, if any, will be accounted in accordance with applicable
+accounting standards.
+d. During the quarter ended December 31, 2025 and year ended March 31, 2026, the Group entered into a settlement agreement with an income of"'
+873.7 million (USD 10.0 million).
+e. During the quarter ended December 31, 2025 and year ended March 31, 2026, the Group has received an arbitration award, consequently
+accounted an income of"! 603.2 million (USD 6.9 million) and a reversal of expense provision of"! 611.6 million (USD 7.0 million).
+
+7
+
+During the year ended March 31, 2026, the Company through its wholly owned subsidiary Nanomi B.V., Netherlands ('Nanomi') has entered into a
+definitive agreement to acquire 100% share capital of VISUfarma B.V., Netherlands. The acquisition was concluded on April 01, 2026, with total
+consideration of"' 20,902.7 million (Euro 192.8 million). The acquisition related costs are accounted in "Other expenses".
+continued on Page 3..
+
+
+..... Page3 .....
+8
+
+During the year ended March 31, 2026, the Company through its wholly owned step-down subsidiary, Lupin Healthcare {UK) Limited, U.K., acquired 100%
+equity share capital of Renascience Pharma Limited, U.K., for a consideration of iif.; 1,361.6 million {GBP 12.3 million). Fair value of intangibles acquired it;;
+1,239.4 million, deferred tax liability"- 309.8 million, Goodwill if.; 325.9 million has been accounted based on report of independent valuer. The acquisition
+related costs are accounted in "Other expenses".
+
+9
+
+During the year ended March 31, 2025, Lupin Limited and its subsidiary, agreed to settle the dispute for an amount of USD 9.0 million (0: 750.5 million) in
+connection with the drug Glumetza., without admitting any liability for any wrongdoing, with a view to avoid the costs and uncertainties of continued
+litigation.
+
+10 During the quarter and year ended March 31, 2026 & quarter and year ended March 31, 2025, the Group has recognised an impairment charge of 0: 879.1
+
+milion and !I! 1,130.1 milion & 9' 1,135.3 milion and 9': 1,209.0 milion respectively related to certain property, plant and equipment, capital work-inprogress, intangible assets, intangible assets under development and goodwill.
+11 Consolidated Balance Sheet:
+(-:in million)
+
+Particulars
+
+A.
+
+Asat
+31/03/2026
+(Audited)
+
+Asat
+31/03/2025
+(Audited)
+
+a. Property, Plant and Equipment
+
+46,685.6
+
+46,998.6
+
+b. Capital Work-in-Progress
+
+6,951.6
+
+3,554.5
+
+c. Right-of-use Assets
+
+7,805.4
+
+4,483.2
+
+ASSETS
+
+1) Non-Current Assets
+
+d. Goodwill
+
+26,585.3
+
+22,326.1
+
+e. Other Intangible Assets
+
+28,862.5
+
+23,385.6
+
+f. Intangible Assets Under Development
+g. Investments accounted for using equity method
+h. Financial Assets
+(i) Non-Current Investments
+(ii) Non-Current Loans
+(iii) Other Non-Current Financial Assets
+i. Deferred Tax Assets (Net)
+j. Non-Current Tax Assets (Net)
+k. Other Non-Current Assets
+Total Nan-Current Assets
+
+3,209.5
+
+1,611.9
+
+289.8
+
+276.9
+
+635.6
+
+595.8
+
+2) Current Assets
+a. Inventories
+b. Financial Assets
+(i) Current Investments
+
+32.7
+
+14,515.8
+
+12,934.7
+
+5,647.2
+
+5,591.0
+
+489.8
+
+461.9
+
+1,675.3
+
+1,810.1
+
+143,374.5
+
+124,063.0
+
+60,832.5
+
+54,763.5
+
+35,771.3
+
+10,591.1
+
+(ii) Trade Receivables
+
+66,040.6
+
+54,971.0
+
+(iii) cash and Cash Equivalents
+
+41,677.3
+
+15,436.9
+
+(iv) Other Bank Balances
+
+14,851.7
+
+15,986.4
+
+(v) Current Loans
+
+(vi) Other Current Financial Assets
+c. Current Tax Assets (Net)
+
+B.
+
+21.1
+
+29.3
+
+50.2
+
+5,629.8
+
+3,321.1
+
+14.S
+
+346.3
+
+15,426.8
+
+12,519.3
+
+d. Other Current Assets
+Total Current Assets
+
+240,273.8
+
+167,985.8
+
+TOTAL ASSETS
+
+383,648.3
+
+292,048.8
+
+EQUITY AND LIABILITIES
+
+1) Equity
+a. Equity Share Capital
+
+914.4
+
+913.2
+
+b. Other Equity
+
+223,568.3
+
+171,121.8
+
+c. Non-Controlling Interest
+Total Equity
+
+651.0
+
+908.5
+
+225,133.7
+
+172,943.5
+
+2) Liabilities
+I) Non-Current Uablllties
+a. Financial Liabilities
+(i) Non-Current Borrowings
+
+16,433.9
+
+17,662.3
+
+(ii) Lease Liabilities
+
+4,948.7
+
+2,642.7
+
+(iii) Other Non-Current Financial Liabilities
+b. Non-Current Provisions
+
+526.S
+
+516.4
+
+5,327.0
+
+4,360.8
+
+c. Deferred Tax Liabilities (Net)
+
+2,187.7
+
+2,264.1
+
+d. Other Non-Current Liabilities
+Total Nan-Current Uablllties
+
+2,578.4
+
+2,045.1
+
+32,002.2
+
+29,491.4
+
+a. Financial Liabilities
+(i) Current Borrowings
+
+42,668.1
+
+33,104.2
+
+(ii) Lease Liabilities
+
+2,111.1
+
+1,068.5
+
+II) Current Liabilities
+
+(iii) Trade Payables
+
+-Total outstanding dues of micro enterprises and small enterprises
+-Total outstanding dues of creditors other than micro enterprises and small enterprises
+(iv) Other Current Financial Liabilities
+b. Other Current Liabilities
+c. Current Provisions
+d. Current Tax Liabilities (Net)
+
+1,573.1
+
+858.7
+
+40,158.2
+
+28,722.9
+
+11,220.2
+
+7,324.9
+
+16,488.9
+
+11,401.2
+
+5,612.4
+
+2,731.8
+
+6,680.4
+
+4,401.7
+
+Total Current Liabilities
+
+126,512.4
+
+89,613.9
+
+Total Llabllltles
+
+158,514.6
+
+119,105.3
+
+TOTAL EQUITY AND LIABILITIES
+
+383,648.3
+
+292,048.8
+
+continued on Page 4..
+
+
+..... Page4 .....
+12 Consolidated Statement of Cash Flows:
+
+Particulars
+
+A. cash Flow from Operating Activities
+Profit before Tax
+Adjustments for:
+Depreciation, Amortisation and Impairment Expense
+(Profit)/ Loss on sale/ write-off of Property, Plant and Equipment/ Intangible Assets
+(Profit) on divestment of business undertaking
+Finance Costs
+Gain on Sale of Investments
+
+Interest on Deposits with Banks and Others
+Interest on Income Tax Refund
+Bad Trade Receivables/ Advances written off
+Unrealised Loss/ (Gain) on Investments
+Impairment Allowances for Doubtful Trade Receivables/ Other Receivables/ Deposits/ Advances
+Provisions/ Credit balances no longer required written back
+Provision for Dimunition in value of Non-Current investments
+Share Based Payment Expense
+Net (Gain)/ Loss on Financial Assets/ Financial Liabilities Measured at Fair Value Through Profit or Loss
+Unrealised Exchange (Gain)/ Loss on Revaluation
+Operating Profit before Working Capital Changes
+Changes in working capital:
+(Increase)/ Decrease in Trade Receivables
+(Increase)/ Decrease in Inventories
+(Increase)/ Decrease in Other Assets
+Increase/ (Decrease) in Trade Payables
+Increase/ (Decrease) in Other Liabilities
+Cash Generated from Operations
+Net Income tax paid
+Net Cash Flow generated from/ (used in) Operating Activities
+
+B. cash Flow from Investing Activities
+Payment for acquisition of business, net of cash acquired
+Payment for acquisition of Property, Plant and Equipment (including capital work-in-progress, other intangible assets,
+intangible assets under development, capital advances and capital creditors)
+Proceeds from sale of Property, Plant and Equipment/ Intangible Assets
+Proceeds from Business Divestment
+Purchase of Investments
+Proceeds from sale of Investments
+Change in other bank balance and cash not available for immediate use
+Interest received
+Net Cash Flow generated from/ (used in) Investing Activities
+
+Year
+Ended
+
+!"In million)
+Year
+Ended
+
+31/03/2026
+(Audited)
+
+31/03/2025
+(Audited)
+
+68,725.5
+
+40,150.0
+
+13,755.0
+(42.7)
+(279.4)
+4,344.9
+(970.2)
+(2,168.7)
+(17.4)
+212.4
+(592.8)
+426.7
+
+11,692.6
+(2.8)
+
+(4,101.2)
+79,681.6
+
+2,948.7
+(452.1)
+(1,298.5)
+(61.3)
+3.8
+(12.5)
+164.8
+(44.0)
+38.0
+422.5
+(1.6)
+(382.4)
+53,165.2
+
+(7,387.5)
+(5,859.0)
+(4,889.5)
+11,905.6
+12,567.3
+86,018.5
+(12,673.5)
+73,345.0
+
+(7,809.3)
+(5,412.4)
+831.5
+11.2
+(1,726.4)
+39,059.8
+(9,060.4)
+29,999.4
+
+(1,357.5)
+(20,548.5)
+
+(462.6)
+(16,824.3)
+
+2,477.0
+306.9
+(188,465.3)
+164,661.5
+2,111.3
+2,168.7
+(38,645.9)
+
+293.5
+
+389.5
+
+C. cash Flow from Financing Activities
+Proceeds from Non-Current Borrowings
+Repayment of Non-Current Borrowings
+
+(170,480.1)
+170,156.1
+(25,700.0)
+1,298.5
+(41,718.9)
+
+12,208.7
+
+Interest paid on Lease Liabilities
+Finance Costs Paid
+Dividend paid
+Net Cash Flow generated from / (used in) Financing Activities
+
+2,790.4
+(670.7)
+164.6
+(1,263.3)
+(381.6)
+(3,614.7)
+(5,483.4)
+(8,458.7)
+
+398.6
+(1,152.7)
+(256.2)
+(2,295.2)
+(3,653.1)
+17,318.8
+5,599.3
+
+Proceeds from/ (Repayment of) Current Borrowings
+Buyback of shares
+Proceeds from issue of equity shares (including share application money)
+Payment of Principal Portion of Lease Liabilities
+
+12,068.7
+
+Net Increase/ (decrease) in cash and Cash Equivalents
+
+26,240.4
+
+Cash and Cash Equivalents as at the beginning of the year
+
+15,436.9
+
+9,837.6
+
+Cash and Cash Equivalents as at the end of the year
+
+41,677.3
+
+15,436.9
+
+40,235.0
+1,442.3
+41,677.3
+
+15,277.7
+159.2
+15,436.9
+
+Reconciliation of cash and Cash Equivalents with the Balance Sheet
+Cash and Cash Equivalents
+Effect of Exchange Rate Changes on Cash and cash Equivalents
+Cash and Cash Equivalents as at the end of the year as per Balance Sheet
+
+continued on Page 5..
+
+
+..... Pages .....
+
+13 The figures for the quarter ended March 31, 2026 and March 31, 2025 are the balancing figures between audited figures in respect of the full financial
+year and the unaudited published year-to-date figures up to the third quarter ended December 31, 2025 and December 31, 2024 respectively.
+
+By order of the Board
+For Lupin Limited
+
+Nl'lesh
+
+Digitally signed
+by Nilesh
+
+Deshband Gupta
+Deshbandhu
+hu Gupta Date:2026.05.07
+19:31 :57 +05'30'
+Nilesh D. Gupta
+
+Place : Mumbai
+
+Managing Director
+
+Date : May 07, 2026
+
+DIN: 01734642
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+14th Floor, Central B Wing and North C Wing
+Nesco IT Park 4, Nesco Center
+Western Express Highway
+Goregaon (East), Mumbai – 400 063, India
+Telephone: +91 (22) 6257 1000
+Fax: +91 (22) 6257 1010
+
+Independent Auditors’ Report
+To the Board of Directors of Lupin Limited
+Report on the audit of the Consolidated Annual Financial Results
+Opinion
+We have audited the accompanying consolidated annual financial results of Lupin Limited (hereinafter
+referred to as the “Holding Company”) and its subsidiaries (Holding Company and its subsidiaries together
+referred to as “the Group”), its joint venture for the year ended 31 March 2026, attached herewith, being
+submitted by the Holding Company pursuant to the requirement of Regulation 33 of the Securities and
+Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations").
+In our opinion and to the best of our information and according to the explanations given to us and based
+on the consideration of reports of other auditors on separate/ consolidated audited financial statements /
+financial information of the subsidiaries and joint venture, the aforesaid consolidated annual financial
+results:
+a.
+
+include the annual financial results of the entities mentioned in Annexure I to the aforesaid
+consolidated annual financial results.
+
+b.
+
+are presented in accordance with the requirements of Regulation 33 of the Listing Regulations in this
+regard; and
+
+c.
+
+give a true and fair view in conformity with the recognition and measurement principles laid down in
+the applicable Indian Accounting Standards, and other accounting principles generally accepted in
+India, of consolidated net profit and other comprehensive income and other financial information of
+the Group for the year ended 31 March 2026.
+
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (“SAs”) specified under section
+143(10) of the Companies Act, 2013 (“the Act”). Our responsibilities under those SAs are further described
+in the Auditor’s Responsibilities for the Audit of the Consolidated Annual Financial Results section of our
+report. We are independent of the Groupand its joint venture in accordance with the Code of Ethics issued
+by the Institute of Chartered Accountants of India together with the ethical requirements that are relevant
+to our audit of the financial statements under the provisions of the Act, and the Rules thereunder, and we
+have fulfilled our other ethical responsibilities in accordance with these requirements and the Code of
+Ethics. We believe that the audit evidence obtained by us, along with the consideration of reports of the
+other auditors referred to in sub paragraph no. (a) of the “Other Matters” paragraph below, is sufficient
+and appropriate to provide a basis for our opinion on the consolidated annual financial results.
+Management’s and Board of Directors’ Responsibilities for the Consolidated Annual Financial
+Results
+These consolidated annual financial results have been prepared on the basis of the consolidated annual
+financial statements.
+The Holding Company’s Management and the Board of Directors are responsible for the preparation and
+presentation of these consolidated annual financial results that give a true and fair view of the consolidated
+net profit/ loss and other comprehensive income and other financial information of the Group including its
+joint venture in accordance with the recognition and measurement principles laid down in Indian
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+Page 1 of 6
+
+

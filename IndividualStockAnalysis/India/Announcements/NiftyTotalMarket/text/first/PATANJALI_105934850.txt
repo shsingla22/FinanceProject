@@ -1,0 +1,98 @@
+ 
+             PATANJALI FOODS LIMITED  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Regd. Office : 616, Tulsiani  Chambers, Nariman Point, Mumbai – 400021, Maharashtra  
+Phone : 022 22828172/69061600, E -mail : corporate@patanjalifoods.co.in, www.patanjalifoods.com  
+ 
+ 
+PFL/202 4                                   August  01, 202 4 
+ 
+To 
+BSE Ltd.                                National Stock Exchange of India Ltd.,  
+Floor No. 25,                               Exchange Plaza,  
+Phiroze  Jeejeebhoy Tower,                             Bandra -Kurla Complex,  
+Dalal Street,                               Bandra (E),  
+Mumbai – 400 001                              Mumbai – 400 051  
+ 
+BSE Scrip Code: 500368                             NSE Symbol: PATANJALI  
+ 
+ 
+Sub.: Details of Equity Shares De -materialized during the month of July , 202 4 
+ 
+Dear Sir/Madam,  
+ 
+Kindly find enclosed herewith the detail of equity shares dematerialized with National Securities 
+Depository Limited (NSDL)  and Central Depository  Servi ces (In dia) Limited  (CDSL)  during the 
+month of July, 202 4, for your records.  
+ 
+ 
+Thanking you,  
+ 
+For Patanjali Foods Limited  
+ 
+ 
+ 
+ 
+Ramji Lal Gupta  
+Company Secretary  
+ 
+Encl.:  As above  
+ 
+ 
+ 
+ 
+ 
+  
+PATANJALI FOODS LIMITED                                                                                            DATE : 01/08/2024
+REGISTER OF DEMAT REQUESTS (NSDL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO.  MEET.DATE         DRN NO.  DP ID.  CLIENT ID   QTY-RECD S.NO. FOLIO  CERTIFICATE NUMBERS     DISTINCTIVE NUMBERS   QTY-DEMT
+  S.NO.  RECT.DATE         DR DATE  FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    307 11/07/2024  10000000321399  IN303028 50819616         10     1                       2207      118532-     118541         10
+      1 08/07/2024      04/07/2024  00002331
+                                    SURESH MANGESH TINAIKAR
+                                    SUVARNA SURESH TINAIKAR
+------------------------------------------------------------------------------------------------------------------------------------
+    308 11/07/2024  10000000243097  IN301313 21890272          5     1                        275        2153-       2157          5
+      2 10/07/2024      04/07/2024  00002573
+                                    S GNANAMBIGAI
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :              2
+                                  No. of Inward Certificates        :              2
+                                  Shr/Deb in Deed                   :             15
+                                  Shr/Deb in Cert Entered           :             15
+====================================================================================================================================
+PATANJALI FOODS LIMITED                                                                                            DATE : 01/08/2024
+REGISTER OF DEMAT REQUESTS (CDSL)                                                                                  PAGE : 1
+------------------------------------------------------------------------------------------------------------------------------------
+INW NO. MEET.DATE     DRN NO.   DP ID CLIENT ID         QTY-RECD  S.NO. FOLIO    CERTIFICATE NUMBERS   DISTINCTIVE NUMBERS  QTY-DEMT
+  S.NO. RECT.DATE     DR DATE         FOLIO / NAME /JOINT NAME(S) & ADDRESS
+------------------------------------------------------------------------------------------------------------------------------------
+    179 05/07/2024   11224899   10900 1201090037408514        10      1                 172               1168-       1177        10
+      1 01/07/2024 26/06/2024         00000196
+                                      BIPIN RAMESHKUMAR JAIN
+                                      RAMESH KUMAR JAIN
+------------------------------------------------------------------------------------------------------------------------------------
+    180 05/07/2024   11230909   44500 1204450000089096         5      1                  99                614-        618         5
+      2 04/07/2024 02/07/2024         00000118
+                                      MR. UMESH  KOTHARI
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+                                                      S U M M A R Y
+                                                      =============
+                                  No. of Inward Deeds               :            2
+                                  No. of Inward Certificates        :            2
+                                  Shr/Deb in Deed                   :           15
+                                  Shr/Deb in Cert Entered           :           15
+====================================================================================================================================

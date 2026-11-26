@@ -1,0 +1,413 @@
+ 
+ 
+ 
+4 
+July 
+ 202
+ 6 
+ 
+To, 
+The Manager  
+Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai 
+ - 
+400 001  
+To, 
+The Manager  
+Listing Department  
+National Stock Exchange of India Limited  
+Exchange Plaza, C
+ -
+1 Block G  
+Bandra 
+ - 
+Kurla Complex, Bandra (East)  
+Mumbai 
+ - 
+400 051  
+BSE Code: 544252  
+ NSE Code: BAJAJHFL 
+ - 
+EQ 
+ 
+Dear Sir/Madam,  
+ 
+Sub:  
+Business Responsibility and Sustainability Report for FY202
+ 6 
+ 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations 2015, please find enclosed herewith Business Responsibility and Sustainability 
+Report for the financial year ended 31 March 202
+ 6 
+including assurance report 
+ (Reasonable 
+and Limited)  
+by 
+SGS India 
+ Private Limited
+ , which also forms part of Annual Report FY202
+ 6
+. 
+ 
+The aforesaid document 
+ is 
+a
+l
+s
+o 
+available on Company’s website at  
+https://www.bajajhousingfinance.in/annual
+ -
+reports
+ . 
+ 
+We request you to kindly take this on record.  
+ 
+Thanking you,  
+ 
+Yours Faithfully,  
+For 
+ Bajaj Housing Finance Limited  
+ 
+ 
+ 
+ 
+Atul Patni  
+Company Secretary  
+Email id
+ : 
+bhflinvestor.service@bajajhousing.co.in  
+Encl.: As above  
+Cc: Catalyst Trusteeship Ltd., Pune (Debenture Trustee)  
+110 18th	Annual	Report 	2025-26
+Business Responsibility & Sustainability Reporting
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity L65910PN2008PLC132228
+2. Name of the Listed Entity Bajaj	Housing	Finance	Limited	(Referred	 to	as	'the	
+Company'/'BHFL')
+3. Year of incorporation 2008
+4.Registered office address Bajaj	Auto	Limited	Complex,	Mumbai-	Pune	Road,	
+Akurdi,	Pune	–	411035,	Maharashtra
+5. Corporate address 5th	Floor,	B2,	Cerebrum	IT 	Park,	Kumar 	City,	Kalyani	
+Nagar,	Pune	–	411014,	Maharashtra
+6. E-mail bhflinvestor.service@bajajhousing.co.in
+7. Telephone 020-71878060
+8. Website https://www.bajajhousingfinance.in
+9. Financial year for which reporting is being done 2025-2026
+10. Name of the Stock Exchange(s) where shares 
+are listedBSE	Limited	and	National	Stock 	Exchange	of 	India	
+Limited
+11. Paid-up Capital H	8,328.66	crore*
+12. Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR reportName	and	designation	
+of	the	personAtul	Patni
+Company 	Secretary
+Contact	Details 020-71878060
+Email	ID atul.patni@bajajhousing.co.in
+13. Reporting boundary-Are the disclosures under 
+this report made on a standalone basis (i.e. only for 
+the entity) or on a consolidated basis (i.e. for the 
+entity and all the entities which form a part of its 
+consolidated financial statements, taken together).Standalone	basis
+14. Name of assessment or assurance provider SGS	India	Private	Limited
+15. Type of assessment or assurance obtained BRSR	Core:	Reasonable	assurance
+BRSR	Non-Core:	Limited	assurance
+*Net	of	36,72,613	equity	shares	of	 H 10	each	held	in	trust	for	employees	under	employee	stock	option	plan	scheme.
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover)
+S. 
+No. Description of Main Activity Description of Business Activity % of Turnover of the entity
+1.Financial	and	Insurance	Services Other	Financial	activities 100.00%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover)
+S. 
+No.Product/Service NIC Code % of Total Turnover contributed 
+1.Activities	of 	house	financing	companies 65922 100.00%
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated
+Location Number of Plants#Number of 
+Offices* Total
+NationalNot	applicable226* 226
+International Nil Nil
+#	BHFL	is	not	engaged	in	manufacturing	activities	and	accordingly	it	does	not	have	any	plants.
+*Includes	corporate	office	and	branches	as	on	31	March	2026.
+111
+Financial	 	
+StatementsStatutory  
+ReportsCorporate	 	
+Overview
+19. Markets served by the entity
+a. Number of locations
+Location Number 
+National	(No.	of 	States) 18	States	and	2	Union	 Territories	(UTs)
+International	(No.	of 	Countries) Nil
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+	 Nil.	BHFL	doesn’t	have	export	business	operations.
+c. A brief on types of Customers
+		BHFL	is	one	of	the	largest	housing	finance	companies	with	diversified	mortgage	product	suite	for	retail	as	
+well	as	commercial	clients.	It	is	focused	on	building	sustainable	mortgage	business	with	scalable	Balance	
+Sheet	and	low-risk	business	Model.	The	Company’s	full	mortgage	product	suite	spans	across:
+•	Home	Loans
+•	Loans	Against	Property
+•	Lease	Rental	Discounting
+•	Developer	Financing;	and
+•	Others,	covering 	non-collateralised 	loans.
+		Under	its	retail	product	suite,	BHFL	caters	to	all	customer	types	i.e.	salaried,	self-employed	and	
+professional	across	all	customer	segments	(prime	as	well	as	non-prime)	by	offering	all	transaction	types	of	
+purchase,	resale,	self-construction	and	balance	transfer.	The	Company	covers	the	entire	spectrum	of	retail	
+mortgage 	products.
+		In	the	commercial	product	suite,	the	Company	offers	Lease	Rental	Discounting	(LRD)	on	commercial,	retail,	
+warehousing	and	industrial	properties	to	commercial	clients	spanning	across	developers,	high	net	worth	
+individuals	(HNI)	and	corporates	and	its	Developer	Financing	(DF)	product	covers	both	residential	as	well	
+as	commercial	construction	finance	offering	to	real	estate	developers.	This	product	suite	covers	the	entire	
+spectrum	of	commercial	real	estate	needs	from	greenfield	assets	to	stabilized	assets.
+		Prime	home	loans	and	LRD	are	the	two	anchor	products	of	the	Company	which	deliver	scale	as	well	as	low	
+risk	with	higher	mix	of	low-risk	salaried	customers	in	home	loans	portfolio	coupled	with	marquee	and	good	
+rated	customer	mix	in	LRD	portfolio	spanning	across	REITs,	sovereign	wealth	funds,	large	corporates	and	
+large	commercial	developers	—	all	of	which	enable	maintain	a	lower	Gross	NPA	at	the	overall	level.
+IV. Employees
+20. Details as at the end of Financial Year
+a. Employees and workers (including differently abled)
+S. 
+No. Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Employees
+1.Permanent	(D) 2,052 1,917 93.42% 135 6.58%
+2.Other	than	Permanent	(E)* 2,704 2,471 91.38% 233 8.62%
+3.Total	employees	(D+E)	 4,756 4,388 92.26% 368 7.74%
+Workers
+4.Permanent	(F)
+NA 5.Other	than	Permanent	(G)
+6.Total	workers	(F+G)	
+*Includes	fixed	term	contract	employees.
+NA:	BHFL	is	engaged	in	financial	services	businesses	which	do	not	require	services	of	workers.Section A Section B Section C
+112 18th	Annual	Report 	2025-26
+b. Differently abled Employees and workers
+S. 
+No. Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Differently abled Employees
+1.Permanent	(D) 1 1 100% 0 0
+2.Other	than	Permanent	(E) 0 0 0 0 0
+3.Total	differently 	abled	employees	(D+E) 1 1 100% 0 0
+Differently abled Workers
+4.Permanent	(F)
+NA 5.Other	than	Permanent	(G)
+6.Total	differently 	abled	workers	(F+G)	
+NA:	BHFL	is	engaged	in	financial	services	businesses	which	does	not	require	services	of	workers.
+Note:	Basis	disability	certificates	voluntarily	disclosed	by	employees.
+21. Participation/Inclusion/Representation of women   
+Total (A)No. and percentage of 
+Females
+No. (B) % (B / A)
+Board	of 	Directors 8 1 12.50%
+Key	Management	Personnel* 3 0 0%
+Note:	The	above	information	pertains	as	on	31	March	2026.	
+*Key	Managerial	personnel	are	as	per	section	203(1)	of	the	Companies	Act,	2013
+22. Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY2026 FY2025 FY2024
+MaleFemale Total MaleFemale Total MaleFemale Total
+Permanent	Employees	 30% 18% 30% 39% 47% 40% 40% 24% 39%
+Permanent	 Workers NA NA NA NA NA NA NA NA NA
+NA:	BHFL	is	engaged	in	financial	services	businesses	which	do	not	require	services	of	workers.
+Note	1:	The	turnover	rate	has	been	calculated	as	per	the	guideline	provided	by	SEBI.
+Note	2:	The	turnover	 of	employees	 in	FY2026	 would	have	been	at	28.39%	excluding	 Bajaj	Group	(Bajaj	Holdings	 &	Investment	 Limited,	 along	
+with	its	subsidiaries	and	associates,	including	the	subsidiaries	of	its	associates)	transfer.
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. Names of holding/subsidiary/associate companies/joint ventures
+S. 
+No.Name of the holding/subsidiary/
+associate companies/joint 
+ventures (A)Indicate whether 
+holding/subsidiary/
+Associate/Joint 
+Venture% of shares 
+held by listed 
+entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1.Bajaj	Finance	Ltd. Holding	Company 86.70% Yes
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+	 (ii) Turnover for FY2026 ( E in crore): 	11,150.29
+	 (iii) Net Worth* ( E in crore): 	22,527.07
+	 *As	per	section	2(57)	of	Companies	Act,	2013
+113
+Financial	 	
+StatementsStatutory  
+ReportsCorporate	 	
+Overview
+VII. Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines 
+on Responsible Business Conduct
+Stakeholder 
+group from 
+whom 
+complaint is 
+received  Grievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No) 
+(If yes, then 
+provide 
+web-link for 
+grievance 
+redress 
+policy) FY2026 FY2025
+Number	of	
+complaints 	
+filed	during	
+the	yearNumber	of	
+complaints 	
+pending 	
+resolution 	at	
+close	of	the	
+yearRemarksNumber	of	
+complaints 	
+filed	during	
+the	yearNumber	of	
+complaints 	
+pending 	
+resolution 	 	
+at	close	of	
+the	year Remarks
+Shareholders Yes 9 0Complaints	
+received	on	
+SCORES	portal	
+of	Company 	
+and	Registrar 	
+to	an	issue	and	
+Share	transfer	
+agent	(KFin)368 2All	pending
+complaints
+have	been
+resolved	in
+FY2026.
+Investors	
+(other	than	
+shareholders)Yes
+Nil
+Employee	and	
+workersYes Please	refer 	Q.6	under 	'Essential	Indicators	of 	'P5-Business	should	respect	and	promote	
+human	rights'	 for	the	complaints	related	 to	employees.
+Customers Yes Please	refer 	Q.3	under 	'Essential	Indicators'	of 	'P9	–	Businesses	should	engage	 with	and	
+provide	value	to	their	consumers	in	a	responsible	manner'	 for	the	complaints	related	 to	
+customers
+Value	Chain	
+PartnersYesNil
+Communities Yes Nil
+Others NA
+BHFL,	in	line	with	its	policies,	practices	and	processes	engages	with	its	stakeholders	and	strives	to	
+resolve	differences	raised	by	them	in	a	just,	fair,	equitable	and	consistent	manner	and	if	warranted	takes	
+corrective 	measures.
+26. Overview of the entity’s material responsible business conduct issues
+Sr. 
+NoMaterial issue 
+identifiedRisk or 
+Opportunity 
+(R/O)Rationale for identifying the risk/
+opportunityIn case of risk, approach to 
+adapt or mitigateFinancial 
+implications 
+of the Risk or 
+Opportunity
+1Risk	
+ManagementOpportunity A	strong	risk 	management	
+framework 	helps	BHFL 	identify,	
+assess,	and	respond	 to	credit,	
+market,	and	operational	risks	early.	
+This	improves	decision-making,	
+protects	assets,	and	ensures	long-
+term	stability 	in	a	dynamic	 financial	
+environment.PositiveSection A Section B Section C
+114 18th	Annual	Report 	2025-26
+Sr. 
+NoMaterial issue 
+identifiedRisk or 
+Opportunity 
+(R/O)Rationale for identifying the risk/
+opportunityIn case of risk, approach to 
+adapt or mitigateFinancial 
+implications 
+of the Risk or 
+Opportunity
+2Regulatory 	
+Compliance	
+and	
+TransparencyRisk BHFL	operates	 in	a	highly	regulated	
+financial	sector 	where	compliance	
+with	RBI	and	other 	regulatory 	
+bodies	is	critical.	Non-compliance	
+can	lead	 to	penalties,	legal	issues,	
+and	loss	of 	stakeholder 	trust.	
+Transparency 	also	strengthens	
+credibility 	with	investors	and	
+customers.BHFL	is	committed	 to	
+complying	 with	all	applicable	
+laws,	regulations,	 and	guidelines	
+set	by	regulatory 	authorities,	
+prioritises	 the	protection	of 	
+its	customers’	interests	and	
+data.	BHFL 	has	dedicated	
+Chief	Compliance	Officer 	(CCO)	
+and	robust	compliance	unit,	
+ensures	 that	under 	the	CCO’s	
+supervision	 the	compliance	
+function	identifies	and	assesses	
+compliance	risks,	provides	
+guidance	on	related	matters,	
+and	conducts	compliance	
+monitoring	 viz	testing	of 	
+products	before	and	after 	
+launch	across	 the	organisation.Negative
+3Corporate	
+GovernanceOpportunity Strong	governance	ensures	clear 	
+roles,	accountability,	and	ethical	
+decision-making	at	all	levels.	It	
+builds	investor 	confidence	and	
+supports	sustainable	growth	
+through	better 	oversight	and	
+control	mechanisms.Positive
+4Business	
+EthicsOpportunity Ethical	behavior 	in	lending,	
+collections,	and	operations	
+helps	build	long-term	 trust	
+with	customers,	regulators,	and	
+partners.	It	reduces	 the	risk	of	
+misconduct	and	supports	a	
+responsible	business	culture.Positive
+5Data	Privacy 	
+and	SecurityRisk BHFL	handles	sensitive	customer 	
+financial	data,	making	it	a	key 	
+target	for	cyber	threats.	Any	data	
+breach	can	result	in	 financial	loss,	
+regulatory 	penalties,	and	damage	
+to	customer 	trust.•	 Institutionalised	cyber-
+security	policy	to	
+protect	its	information	
+infrastructure	on	the	
+internet,	prevent	and	
+respond	to	cyber	threats;	
+reduce	vulnerabilities;	and	
+minimise	damage	from	
+cyber	incidents.Negative
+•	 Strong 	governance 	
+process	with	executive	and	
+Board	oversight.
+•	 Preparedness	for	response	
+to	incidents.
+•	 Cyber	Threats	Awareness	
+programmes	and	training.
+•	 Led	by 	a	strong	commitment	
+to	protecting	 the	privacy 	of	
+personal	data.
+•	 Formulated	a	 well	structured	
+Data	Privacy 	Policy.

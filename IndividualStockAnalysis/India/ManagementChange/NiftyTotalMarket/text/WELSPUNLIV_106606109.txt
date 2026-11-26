@@ -1,0 +1,89 @@
+--- xml_CIM_WebXMLFile_20260430_180901534_2.xml (the exchange's structured disclosure) ---
+NSESymbol: WELSPUNLIV ; Name Of The Company: WELSPUN LIVING LIMITED ; Scrip Code: 514162 ; MSEISymbol: NOTLISTED ; ISIN: INE192B01031 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-04-30 ; Time Of Occurrence Of Event Or Information: 17:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-04-30 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Retainer Director – Manufacturing ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Ashok Kumar Joshi ; Effective Date Of Reason Of Change: 2026-04-30 ; Salutation: Mr. ; Name Of The Person: Ashok Kumar Joshi ; Designation Of Person: Retainer Director – Manufacturing ; Date On Which The Resignation Letter Was Received: 2026-04-30 ; Effective Date Of Resignation: 2026-04-30 ; Reason Of Resignation In Brief: Retirement
+
+--- Reg30_Intimation_AKJoshi_signed_1.pdf ---
+WLL/SEC/2026
+BSE Limited
+Department of Corporate Services,
+SP. J. Towers, Dalal Street,
+Mumbai – 400 001
+(Scrip Code-514162)
+
+April 30, 2026
+National Stock Exchange of India Limited
+Listing Compliance Department
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (E), Mumbai – 400 051
+(Symbol: WELSPUNLIV)
+
+Dear Sirs/ Madam,
+Subject: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 for change in Senior Management Personnel
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (the SEBI Listing Regulations), this is to inform you that Mr. Ashok Kumar
+Joshi, Retainer Director – Manufacturing, Senior Management Personnel of the Company is
+retiring from the Company effective from close of business hours of April 30, 2026. A copy
+of the letter submitted by Mr. Ashok Kumar Joshi to that effect is enclosed herewith.
+The other details as required under the SEBI Listing Regulations read with the circulars
+issued thereunder, as amended from time to time, are given below:
+Name of Senior Management Personnel
+Reason for change, viz., resignation or
+Otherwise
+Date of cessation
+
+Mr. Ashok Kumar Joshi
+Retirement
+Effective from close of business hours
+on April 30, 2026
+Not applicable
+
+Brief Profile (in case of appointment)
+Disclosure of relationship between directors
+Not applicable
+(in case of appointment of a Director)
+You are kindly requested to take the same on record.
+Thanking you,
+Yours faithfully,
+For Welspun Living Limited
+signed
+Shraddha Digitally
+by Shraddha
+Mahesh Mahesh Popat
+Date: 2026.04.30
+Popat
+17:26:02 +05'30'
+
+Shraddha Popat
+Company Secretary
+ACS: 54561
+
+
+April 30, 2026
+Ashok Kumar Joshi
+
+D-1501(15th Floor), Empress Tower,
+
+The Botanika, Gachibowli, Hyderabad,
+Telangana - 500032.
+To,
+
+Managing Director
+
+Welspun Living Limited
+Dear Madam,
+
+Sub.: Resignation from the position of Retainer Director - Manufacturing and Senior
+Management Personnel of the Company.
+
+1, Ashok Kumar Joshi, hereby tender my resignation from the position of Retainer
+Director - Manufacturing and Senior Management Personnel of the Company with
+
+effect from April 30, 2026, consequent upon my retirement.
+Youare requested to take the above on record.
+
+Thanking you,
+Yours Fajthfully,
+Ashok Kumar Joshi
+DIN: 08607214
+
+

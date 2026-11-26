@@ -1,0 +1,175 @@
+ 
+    
+ 
+Ref: K/953/NSE&BSE/26 -27 
+Date: 13.10.2026  
+ 
+The Secretary  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+Scrip Code: 523610  The Manager  
+National Stock Exchange of India Limited  
+Exchange Plaza,  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai - 400 051  
+Scrip Code: ITI  
+ 
+Dear Sir/Madam,  
+ 
+Sub:    Annual Report of the Company for the Financial Year 2025 -26 
+Ref: Regulation 34(1) of SEBI (Listing Obligations and Disclosure  Requirements) 
+Regulations, 2015  
+ 
+With reference to the captioned subject, please find enclosed herewith “ Annual Report ” 
+of the Company for the Financial Year 2025 -26. 
+ 
+The Annual Report for FY 2025 -26 is also available on the Com pany’s website at the 
+following  link: 
+https://www.itiltd.in/Investor%20information/2025/Annual_Report_2026_Final.pdf  
+ 
+ 
+This is for your kind information and records pleas e. 
+ 
+Thanking you.  
+ 
+Yours faithfully  
+For ITI Limited  
+ 
+ 
+ 
+Y Sathyan  
+Company Secretary & Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ITI Limited, Registered and Corporate Office, ITI Bhavan, Doorvaninagar, Bengaluru -560 016, India  
+आईटीआई लिलिटेड , पंजीक ृ त एवं लिगलित कार्ाािेर् , आईटीआई भवि दूरवािीिगर, बेंगिुरु- 560 016, भारत 
+Phone: +(91) (80) 2561 4466, Fax: +(91) (80) 2561 7525, Website:www.itiltd.in  
+CIN: L32202KA1950GoI000640, Email: cosecy_crp@itiltd.co.in  
+
+
+ANNUAL REPORT 2025 - 26
+2CHAIRMAN’S MESSAGE  
+Dear Shareholders, 
+It gives me immense pleasure to address you as the Chairman and Managing Director of ITI Limited 
+and to reflect upon the Company’s performance and progress during the Financial Year 2025–26. The 
+year has been one of continued transformation, strengthening of capabilities and renewed focus across 
+Telecommunications, Defence, Electronics, Digital Infrastructure and Renewable Energy. 
+At the outset, I extend my sincere gratitude to all our stakeholders—our employees, customers, partners, 
+Ministry of Communications, Department of Telecommunications, government agencies, bankers, 
+shareholders and other stakeholders—for their continued trust, support and confidence in ITI Limited. 
+The achievements of the Company are a reflection of the collective commitment and dedication of our 
+workforce. 
+During FY 2025–26, ITI Limited achieved a turnover of  Rs 2,465 crore. The Company recorded a Profit 
+After Tax of Rs 293 crore during the year. Our order book stood at approximately  Rs 18,637 crore, 
+comprising major strategic projects including ASCON Phase-IV and the three BharatNet Phase-III (ABP) 
+packages currently under execution, covering NE-II comprising Manipur, Nagaland and Arunachal Pradesh, 
+West Bengal & Andaman and Nicobar Islands, and Himachal Pradesh. This strong order position provides 
+a robust foundation for the Company’s future growth. 
+ITI continues to strengthen its position as a strategic technology and execution partner for the Government of India and various State Governments. The Company 
+is currently executing major national programmes including ASCON Phase-IV, BharatNet Phase-III (ABP), NFS and TANFINET, while continuing to contribute to 
+the expansion of secure and reliable telecommunications infrastructure across the country. 
+A significant achievement during the year was ITI’s successful participation in 4G LTE-R trial projects for Indian Railways. ITI secured projects from RDSO and 
+RailTel for deployment of LTE-R systems in the South Central Railway zone, with the Bengaluru Plant manufacturing and supplying indigenous RRHs and BBUs 
+for these trials. This demonstrates ITI’s growing capabilities in next-generation railway communication infrastructure. 
+ITI also continued to contribute to the electoral infrastructure of the country through the manufacturing and supply of EVMs to the West Bengal State Election 
+Commission. The Company’s Defence business remained an important pillar of its strategic portfolio, with orders secured for advanced encryption and secure 
+communication systems for organisations including PMO DCN, Eastern Command, NSIL and CAIR. ITI’s long-standing expertise in indigenous encryption 
+technologies continues to support the secure communication requirements of the Armed Forces and other strategic organisations. 
+Our commitment to Atmanirbhar Bharat is reflected in the continued development and manufacturing of indigenous products such as Defence Encryptors, 4G 
+Radio equipment, EVMs, Optical Fibre Cables, HDPE ducts, ONTs, OLTs, Outdoor Cabinets, Smart Racks, laptops and solar-energy products. The Company has 
+also expanded its capabilities into contract manufacturing, creating additional opportunities for growth and better utilisation of its manufacturing infrastructure. 
+Our manufacturing units across Bengaluru, Palakkad, Mankapur, Raebareli, Naini and Srinagar continued to contribute to the Company’s diversified business 
+portfolio. Bengaluru remained an important centre for Telecom, Defence and Electronics manufacturing, while Palakkad strengthened its capabilities in space 
+electronics, IT hardware and Electronic Manufacturing Services. Mankapur continued to support BharatNet and telecom infrastructure through HDPE ducts, 
+Smart Racks, GPON products and other electronic and mechanical products. Raebareli continued its contribution to national Telecom and Defence infrastructure 
+through Optical Fibre Cables, GPON systems and SMPS services. Naini further strengthened its presence in renewable energy and strategic infrastructure through 
+solar projects and other national initiatives. The Srinagar Unit continues to serve as a major office supporting the execution of ITI’s Defence projects, particularly 
+the ASCON Phase-IV Project. 
+Our R&D Division continued to focus on indigenous development of Encryption systems, Network Solutions, EVMs, Digital Mobile Radio, Smart Energy Meters, 
+Power Supply Modules and other strategic products. These efforts are central to ITI’s vision of developing and manufacturing technology solutions that contribute 
+
+ANNUAL REPORT 2025 - 26
+3to national self-reliance and technological advancement. 
+ITI is also expanding its presence in emerging areas such as Data Centres, Cloud Services, Cyber Security and Start-up ecosystems. Our Bengaluru Data Centre 
+continues to provide secure hosting, cloud, managed infrastructure and digital services to government, public-sector and private-sector customers. The Security 
+Operations Centre provides round-the-clock cybersecurity monitoring and managed security services, while the Start-up Hub is fostering collaboration with 
+emerging technology companies in areas including Electronics, Defence and IT infrastructure. 
+As experienced employees retire from the organisation, ITI is also taking steps to induct young employees through the Young Professional Scheme. The infusion 
+of young talent is bringing fresh ideas, new skills and greater technological adaptability into the organisation. These young employees are helping ITI respond 
+to rapid technological changes and are also contributing to the execution of projects in challenging and geographically difficult locations. This combination of 
+experience and youthful talent is strengthening the organisation’s ability to meet evolving technological and operational requirements. 
+As part of its efforts to overcome cash constraints and reduce financial liabilities, ITI has also undertaken strategic monetisation of its land assets. During the 
+year, the Company sold a parcel of land to the GST authorities for around Rs 914 crore. The proceeds have helped reduce the Company’s outstanding loans, 
+thereby bringing down the monthly interest outgo and strengthening its financial position. 
+As we look ahead, ITI is well positioned to leverage the opportunities emerging from India’s digital transformation, expansion of Telecom networks, Defence 
+modernisation, indigenous electronics manufacturing, renewable energy and secure digital infrastructure. We remain committed to innovation, quality, operational 
+efficiency and customer-centric execution, while contributing to the Government of India’s vision of Atmanirbhar Bharat. 
+I sincerely appreciate the dedication of our employees and thank the Ministry of Communications, Department of Telecommunications, customers, partners, 
+bankers, shareholders and all other stakeholders for their continued support. 
+With collective effort and renewed determination, I am confident that ITI Limited will continue to strengthen its capabilities and contribute meaningfully to India’s 
+digital and strategic infrastructure. 
+Thank you.
+RAJESH RAI
+Chairman & Managing Director
+Place: Bengaluru
+Note : This does not purport to be record of the proceedings of 76th Annual General Meeting
+ANNUAL REPORT 2025 - 26
+4VISION, MISSION and VALUES
+ VALUES
+We aspire to achieve our goal by focusing on innovation, continuous improvement and collaborating 
+with strategic market players (partnerships/alliances) in transparent and responsible manner.
+  Innovation: 
+ There is a constant want for Innovation through facilitation, resource provisions, encouragement 
+& recognitions that drive our growth.
+ Continuous Improvement: 
+ We focus on continuous improvements which lead to more sophisticated and overall more 
+economically competitive offerings.
+ Collaboration with Strategic Partner: 
+ We just don’t do business but help our customers and other stakeholders to transform the lives 
+we touch.
+ Transparency: 
+ We will be fair, honest and ethical in our conduct; everything we do, must stand the test of 
+scrutiny.
+ Responsible Manner: 
+ We will integrate environmental and social principles in our businesses, ensuring that what we 
+generate goes back to the stakeholders. VISION
+“To Lead India’s transformation towards self-reliance in the domain of Telecommunications, 
+Electronics, and ICT products, services and solutions that change lives for better”
+ MISSION
+“To provide in-house developed convergence solutions, products and services to our clients in 
+the area of Telecommunications, Electronics, Defence System, Space Technologies and Smart 
+Connected Technology”
+ANNUAL REPORT 2025 - 26
+5ANNUAL REPORT 2025-2026
+CONTENTS
+Description  Page No
+Company Information............................................................... 06
+Notice...................................................................................... 07
+Ten Year Digest........................................................................ 17
+Figures at a glance................................................................... 19
+Directors’ Report....................................................................  21
+Report on Corporate Governance............................................  86
+Standalone Financial Statements
+ Material Accounting Policies ............................................  103
+  Balance Sheet .................................................................. 110
+ Statement of Profit and Loss........................................... 114
+  Cash Flow Statement...................................................... 115
+  Notes to Financial Statements ........................................ 116
+  Independent Auditor’s Report ......................................... 161
+Consolidated Financial Statements
+  Material Accounting Policies .......................................... 179
+  Balance Sheet ................................................................ 186
+  Statement of Profit and Loss .......................................... 190
+  Cash Flow Statement ..................................................... 191
+ Notes to Financial Statements ........................................ 192
+ Independent Auditor’s Report ......................................... 234
+Comments of the C&AG of India ............................................ 251

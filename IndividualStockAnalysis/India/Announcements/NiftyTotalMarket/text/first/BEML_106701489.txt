@@ -1,0 +1,411 @@
+ 
+ 
+ 
+ 
+ 
+ಪ ౳ උನಕ೎ೕค Corporate Office:  
+’¦ೆĳ¬ೌÕಧ ’, ೨೩/೧, ೪£ೇಮುಖÍರ±ೆÃ , ಸಂಪಂĖªಾಮನಗರ , ¦ೆಂಗಳರು  - ೫೬೦೦೨೭ .ದೂರ®ಾĥಸಂೆÍ  : +೯೧೮೦೨೨೨೨೩೦೬೫  
+¥ಾÍಕÕùಂೆÍ  : +೯೧೮೦೨೨೧೦೪೦೯೯  
+BEML Soudha, 23/1, 4th. Main, S R Nagar,Bangalore –  560027,Tel. +91 80 22963142/211, Fax. +91 80 22963 142 
+e-mail:cs@beml.co.in @cmdbeml @BEMLHQ 
+CIN:L35202KA1964GOI001530,    GST NO. 29AAACB8433D1 ZU, www.bemlindia.in  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Ref: CS/SE/2026-27/824                                    17.07.2026 
+ 
+National Stock Exchange of India Ltd. 
+Listing Compliance Department 
+Exchange Plaza, Bandra - Kurla 
+Complex, Bandra (East), 
+MUMBAI - 400 051 
+Symbol: BEML  The BSE Limited 
+Listing Compliance Department 
+P.J. Towers, 26" Floor, 
+Dalal Street, 
+MUMBAI - 400 001 
+Scrip Code: 500048  
+ 
+Dear Sir/ Madam, 
+ 
+Sub: Revised Independent Auditors’ Report for the FY 2025-26. 
+Ref: Letter no. CS/SE/2026-27/800 dated: 29.05.2026- Outcome of Board Meetin g. 
+ 
+This is to inform that Independent Auditors’ Report for the FY 2025-26 of BEML Limited is revised 
+based on the observations issued by Comptroller and Auditor General of India , the same is having no 
+financial implications and enclosed herewith.  
+ 
+This is for your information and records. 
+ 
+Thanking you, 
+ 
+For BEML Limited 
+ 
+ 
+Urmi Chaudhury 
+Company Secretary & Compliance Officer 
+ICSI Mem. No.- 29400 
+Place: Bangalore 
+ 
+G Natesan & Co .                              Offices:  Chennai, Kumbakonam, Kochi, Tanjore,  
+CHARTERED ACCOUNTANTS                                                     Salem, Trichy, Bengaluru, & Hyderabad  
+   
+ 
+www.gnatesanandco.com     hognc@gnatesanandco.com     94431 28378              No 40/18, II Floor, Oliver Road, 
+                                                                                                     94430 70401              Mylapore, Chennai – 600 004 
+                                               AMEN DED INDEPENDENT AUDITOR’S REPORT 
+ 
+We are issuing this revised audit report which supersed es our earlier report dated 29 May 2026 
+concurring to the opinion of the Comptroller and Auditor G eneral of India under Section 143(6) of the 
+Companies Act, 2013 only with respect to certain discl osures in the financial statements as stated in 
+the Other Matter paragraph.  
+ 
+To the members of M/s  BEML LIMITED 
+ 
+Report on the Audit of the Standalone Financial Statements  
+ 
+Opinion 
+We have audited the accompanying standalone Ind AS finan cial statements of M/s. BEML LIMITED  
+(“the Company”), which comprise the Balance Sheet as a t March 31, 2026, and the Statement of Profit 
+and Loss (including Other Comprehensive Income), the Statemen t of Changes in Equity and the 
+Statement of Cash flow for the year then ended, and Notes t o the standalone Ind AS financial 
+statements including summary of the Material Accountin g Policies and other explanatory information 
+(hereinafter referred to as “Standalone Ind AS financial  statements”). 
+In our opinion and to the best of our information and ac cording to the explanations given to us, the 
+aforesaid Standalone Ind AS financial statements give t he information required by the Companies 
+Act, 2013 (“the Act”) in the manner so required and g ive a true and fair view in conformity with the 
+Indian Accounting Standards prescribed under section 1 33 of the Act read with Companies (Indian 
+Accounting Standards) Rules,2015, as amended (“IND AS” ) and other accounting principles generally 
+accepted in India , of the state of affairs of the Com pany as at March 31, 2026, and Profit (Including 
+Other Comprehensive Income), changes in Equity and its C ash Flows for the year ended on that date. 
+Basis for Opinion 
+ 
+We conducted our audit in accordance with the Standards on  Auditing (SAs) specified under Section 
+143 (10) of the Act. Our responsibilities under those S As are further described in the Auditor’s 
+Responsibilities for the Audit of the Standalone Ind AS  Financial Statements section of this report. 
+We are independent of the Company in accordance with the Code of Ethics issued by the Institute of 
+Chartered Accountants of India (ICAI) together with th e ethical requirements that are relevant to our 
+audit of the standalone Ind AS financial statements un der the provisions of the Act and the Rules 
+thereunder, and we have fulfilled our other ethical respo nsibilities in accordance with these 
+requirements and the Code of Ethics. We believe that the aud it evidence we have obtained is sufficient 
+and appropriate to provide a basis for our opinion on th e standalone Ind AS financial statements.  
+ 
+Key Audit Matters 
+ 
+Key Audit Matters (“KAM”) are those matters that, in our  professional judgment, were of the most 
+significance in our audit of the standalone Ind AS fin ancial statements for the year ended March 31, 
+2026. These matters were addressed in the context of our a udit of the standalone Ind AS financial 
+statements as a whole, and in forming our opinion thereon , and we do not provide a separate opinion 
+on these matters. We have determined the matters described bel ow to the Key Audit Matter to be 
+communicated in our report. 
+ 
+G Natesan & Co .                              Offices:  Chennai, Kumbakonam, Kochi, Tanjore,  
+CHARTERED ACCOUNTANTS                                                     Salem, Trichy, Bengaluru, & Hyderabad  
+   
+ 
+www.gnatesanandco.com     hognc@gnatesanandco.com     94431 28378              No 40/18, II Floor, Oliver Road, 
+                                                                                                     94430 70401              Mylapore, Chennai – 600 004 
+ 
+Key Audit Matter How our audit addressed the 
+Key Audit Matter 
+1.Provision for Onerous Contracts: 
+The Company enters into long-term contracts 
+for manufacture and supply of products / 
+equipment, some of which involve extended 
+execution cycles, customer approvals, 
+inspection milestones and exposure to 
+changes in material prices, labour costs, 
+directly attributable overheads, foreign 
+exchange rates and delivery schedules. 
+Under Ind AS 37, a provision is recognised 
+when the unavoidable costs of meeting the 
+obligations under a contract exceed the 
+economic benefits expected to be received 
+from that contract. The assessment involves 
+significant management judgement in 
+estimating costs to complete, expected 
+recoveries / escalations, costs of non-
+performance, expected completion timelines, 
+and foreign currency denominated revenues 
+and costs. 
+We consider this matter to be a key audit 
+matter because the amount recognised is 
+significant and due to high degree of 
+estimation uncertainty involved in determining 
+the unavoidable costs and economic benefits 
+associated with such contracts 
+Reference: 
+Note # 37: Onerous Contract Provision ( 
+Expenditure for the year-Rs 23,257.52 lakhs. 
+Note # 28: Provision for Onerous Contracts @ 
+31.03.2026-Rs 25,024.15 lakhs.  
+Accounting Policy:  P Our audit procedures included the following: 
+- Obtained an understanding of management's 
+process and tested the design and operating 
+effectiveness of relevant controls over 
+identification, assessment and measurement of 
+onerous contracts. 
+- Tested, on a sample basis, contracts executed and 
+under execution, including review of contract 
+terms, pricing arrangements, delivery schedules, 
+escalation / variation clauses, penalty clauses 
+and foreign currency terms. 
+- Compared management's estimated costs to 
+complete with, bill of materials, purchase orders, 
+service orders, latest procurement prices, 
+technical estimates, production plans, historical 
+cost trends and subsequent cost experience, 
+where available. 
+- Assessed whether the costs considered as 
+unavoidable costs were directly related to 
+fulfilling the contracts and were determined 
+consistently with the requirements of Ind AS 37. 
+- Evaluated management's assumptions relating to 
+expected completion dates, production 
+efficiencies, design changes if any, material and 
+labour cost estimates, overhead absorption and 
+expected recoveries / escalations. 
+- Tested the exchange rates used for foreign 
+currency denominated revenue and cost 
+components and checked the mathematical 
+accuracy of the computation. 
+- Evaluated whether impairment indicators existed 
+for assets dedicated to such contracts before 
+recognition of the onerous contract provision. 
+- Assessed the adequacy of the related   disclosures 
+in the standalone financial statements. 
+2. Capitalisation of property, plant and 
+equipment, intangible assets and capital 
+work-in-progress  
+The Company has incurred during the year 
+substantial capital expenditure on 
+infrastructure and capacity expansion, 
+technology upgradation, refurbishment / 
+improvement of existing facilities and long -Our audit procedures included the following: 
+- Obtained an understanding of management's 
+process for initiation, approval, recording and 
+monitoring of capital expenditure and evaluated 
+the accounting policies adopted by the Company 
+with reference to Ind AS 16 and Ind AS 38. 
+- Tested the design and operating effectiveness of 
+relevant controls over approval of capital 
+G Natesan & Co .                              Offices:  Chennai, Kumbakonam, Kochi, Tanjore,  
+CHARTERED ACCOUNTANTS                                                     Salem, Trichy, Bengaluru, & Hyderabad  
+   
+ 
+www.gnatesanandco.com     hognc@gnatesanandco.com     94431 28378              No 40/18, II Floor, Oliver Road, 
+                                                                                                     94430 70401              Mylapore, Chennai – 600 004 
+gestation projects.  
+Determining whether expenditure meets the 
+recognition criteria for capitalisation under Ind 
+AS 16 and Ind AS 38 involves judgement, 
+particularly in distinguishing capital 
+expenditure from revenue expenditure, 
+identifying directly attributable costs, 
+ascertaining the need for capitalisation of 
+borrowing costs, determining the point at 
+which an asset is ready for its intended use, 
+and assessing the appropriateness of 
+amounts classified as capital work-in-
+progress. 
+We consider this matter to be a key audit 
+matter because of the significance of the 
+balances and additions during the year, and 
+because management judgement is involved in 
+capitalisation, commencement of depreciation 
+/ amortisation and assessment of long-
+outstanding capital work-in-progress. 
+ 
+Reference:  
+Additions to PPE & Intangible Assets during the 
+year:  
+Rs 17,964.47 lakhs.  
+CWIP @ 31.03.2026-Rs 27,632.71 lakhs 
+ expenditure, recording of additions, transfer from 
+capital work-in-progress and commencement of 
+depreciation / amortization. 
+- Tested, on a sample basis, additions to property, 
+plant and equipment, intangible assets and 
+capital work-in-progress by inspecting purchase 
+orders, invoices, goods receipt records, work 
+completion certificates, technical approvals, 
+commissioning documents and trial run / 
+readiness certificates, as applicable. 
+- Evaluated whether expenditure was appropriately 
+classified as capital or revenue with reference to 
+the nature of expenditure, underlying technical 
+assessment and the expected future economic 
+benefits. 
+- Assessed whether directly attributable costs and 
+eligible borrowing costs were capitalized were 
+consistent with the requirements of applicable 
+Ind AS and whether items not eligible for 
+capitalisation were expensed. 
+- Reviewed ageing of capital work-in-progress, 
+status of major projects, delays, cost overruns 
+and management's assessment of impairment 
+indicators in respect of long-pending projects. 
+- Evaluated the appropriateness of useful lives, 
+residual values and depreciation / amortisation 
+commencement dates based on management's 
+assessment and technical evaluation, where 
+applicable. 
+- Assessed the adequacy of the related disclosures 
+in the standalone financial statements.  
+3. Estimation and accounting of 
+liquidated damages and other customer 
+recoveries  
+The Company's contracts with customers 
+include clauses for liquidated damages in the 
+event of delayed delivery and other recoveries 
+for specified deficiencies. The Company's 
+products generally involve extended 
+manufacturing periods, design approvals and 
+inspection by customers at various stages, 
+which may result in delays in certain cases.  
+Management estimates liquidated damages 
+with reference to contractual terms, expected 
+or actual delivery dates, period and cause of 
+delay, customer approvals / waivers, 
+contractual caps, correspondence with Our audit procedures included the following: 
+- Obtained an understanding of management's 
+process and tested relevant controls over 
+identification, monitoring, estimation and 
+accounting of liquidated damages. 
+- Selected samples of customer contracts and 
+inspected the relevant clauses relating to delivery 
+obligations, liquidated damages rates, 
+contractual caps, waiver provisions and other 
+relevant terms. 
+- Compared management's assessment of period 
+of delay with production records, dispatch 
+records, customer inspection reports, delivery 
+documents, correspondence with customers and 
+subsequent settlement / waiver evidence, where 
+available. 
+G Natesan & Co .                              Offices:  Chennai, Kumbakonam, Kochi, Tanjore,  
+CHARTERED ACCOUNTANTS                                                     Salem, Trichy, Bengaluru, & Hyderabad  
+   
+ 
+www.gnatesanandco.com     hognc@gnatesanandco.com     94431 28378              No 40/18, II Floor, Oliver Road, 
+                                                                                                     94430 70401              Mylapore, Chennai – 600 004 
+ 
+Emphasis of Matter 
+We draw attention to Note No. 11 to the standalone financ ial statements regarding the company’s 
+outlay on the MAMC Consortium and the related advance to MAMC Industries Ltd .  
+ 
+Our opinion is not modified in respect of the above matter . 
+ 
+Information other than the Standalone Financial Statemen ts and Auditor’s Report thereon  
+ 
+The Company’s Board of Directors is responsible for the other  information. The other information 
+comprises the information included in the Director’s Repor t and Management discussion and analysis 
+but does not include the Standalone Financial Statements an d auditor’s report thereon, which we 
+obtained prior to the date of this auditors’ report.  
+Our opinion on the Standalone Financial Statements does not cover the other information and we do 
+not express any form of assurance conclusion thereon. In  connection with our audit of the Standalone 
+Financial Statements, our responsibility is to read the o ther information and, in doing so, consider 
+whether the other information is materially inconsistent w ith the Standalone Financial Statements, or 
+our knowledge obtained in the audit or otherwise appears to be materially misstated.  
+If, based on the work we have performed on the other inform ation that we obtained prior to the date 
+of this auditor’s report, we conclude that there is a m aterial misstatement of this other information; 
+we are required to report that fact. We have nothing to rep ort in this regard.  
+When we read the Management Discussion and Analysis and B oard of Directors’ Report along with 
+its Annexures, if we conclude that there is a material mis statement therein, we are required to 
+communicate the matter to those charged with governance a nd describe actions applicable under 
+the applicable laws and regulations.  customers, past experience and subsequent 
+settlements. 
+Depending on the substance of the contractual 
+terms, such amounts are accounted for as 
+provision / expense for contracts executed 
+during the year. The LD for contracts to be 
+executed before the end of the financial year 
+but delayed is stated as Contingent Liability. 
+Other recoveries are recognized when the 
+customer makes the deduction.  
+We consider this matter to be a key audit 
+matter because the amount recognized is 
+significant and the estimate involves 
+judgement in assessing contractual 
+obligations, probability of levy / waiver and the 
+appropriate accounting treatment. 
+Reference: 
+Liquidated Damages expensed: Rs 6,788.78 
+lakhs. 
+Liquidated Damages @ 31.03.2026 on contracts 
+pending execution:-Contingent Liability: Rs 
+2,240.20 lakhs  - Evaluated management's assessment of causes 
+of delay, enforceability of liquidated damages 
+clauses, probability of levy or waiver, and 
+expected settlement amount. 
+- Tested the mathematical accuracy of the 
+computation, including period of delay, rate of 
+liquidated damages, contractual caps and 
+amounts already recovered / deducted by 
+customers. 
+- Evaluated whether the accounting treatment as 
+provision / expense was consistent with the 
+substance of the contracts and applicable Ind AS 
+requirements. 
+- Performed subsequent event procedures by 
+reviewing post year-end customer 
+correspondence, deductions, settlements and 
+waivers, where relevant. 
+- Assessed the adequacy of the related disclosures 
+in the standalone financial statements. 
+G Natesan & Co .                              Offices:  Chennai, Kumbakonam, Kochi, Tanjore,  
+CHARTERED ACCOUNTANTS                                                     Salem, Trichy, Bengaluru, & Hyderabad  
+   
+ 
+www.gnatesanandco.com     hognc@gnatesanandco.com     94431 28378              No 40/18, II Floor, Oliver Road, 
+                                                                                                     94430 70401              Mylapore, Chennai – 600 004 
+Responsibilities of Management and Those Charged with Go vernance for the Standalone Financial 
+Statements  
+ 
+The Company’s Board of Directors is responsible for the ma tters stated in section 134(5) of the 
+Companies Act, 2013 (“the Act”) with respect to the prepa ration of these standalone Ind AS financial 
+statements that give a true and fair view of the financ ial position, financial performance, including 
+other comprehensive income, changes in equity and cash f lows of the Company in accordance with 
+the accounting principles generally accepted in India, including the Indian Accounting Standards (Ind 
+AS) prescribed under Section 133 of the Act read with r elevant rules issued thereunder. 
+This responsibility also includes maintenance of adequat e accounting records in accordance with the 
+provisions of the Act for safeguarding the assets of t he Company and for preventing and detecting 
+frauds and other irregularities; selection and applica tion of appropriate accounting policies; making 
+judgments and the estimates that are reasonable and pruden t; and the design, implementation and 
+maintenance of adequate internal financial controls that were operating effectively for ensuring the 
+accuracy and completeness of the accounting records relev ant to the preparation and presentation 
+of the standalone Ind AS financial statements that giv e a true and fair view and are free from material 
+misstatement, whether due to fraud or error. 
+In preparing the standalone financial statements, manag ement and Board of Directors are 
+responsible for assessing the Company’s ability to con tinue as a going concern, disclosing, as 
+applicable, matters related to going concern and using the going concern basis of accounting unless 
+management either intends to liquidate the Company or to cease operations, or has no realistic 
+alternative but to do so. The Board of Directors are als o responsible for overseeing the Company’s 
+financial reporting process. 
+ 
+Auditor’s Responsibilities for the Audit of the Standalo ne Financial Statements 
+Our objectives are to obtain reasonable assurance about whet her the standalone financial statements 
+as a whole are free from material misstatement, whether due to fraud or error, and to issue an 
+auditor’s report that includes our opinion. Reasonable ass urance is a high level of assurance but is 
+not a guarantee that an audit conducted in accordance with SAs will always detect a material 
+misstatement when it exists. Misstatements can arise fro m fraud or error and are considered material 
+if, individually or in the aggregate, they could reason ably be expected to influence the economic 
+decisions of users taken on the basis of these standalone f inancial statements. 
+As part of an audit in accordance with SAs, we exercis e professional judgment and maintain 
+professional skepticism throughout the audit. We also: 
+ Identify and assess the risks of material misstatement of  the standalone financial statements, 
+whether due to fraud or error, design and perform audit p rocedures responsive to those risks, and 
+obtain audit evidence that is sufficient and appropria te to provide a basis for our opinion. The risk of 
+not detecting a material misstatement resulting from frau d is higher than for one resulting from error, 
+as fraud may involve collusion, forgery, intentional omi ssions, misrepresentations, or the override of 
+internal controls. 
+ Obtain an understanding of internal financial controls  relevant to the audit in order to design 
+audit procedures that are appropriate in the circumsta nces. Under section 143(3)(i) of the Act, we are 
+also responsible for expressing our opinion on whether the C ompany has adequate internal financial 
+control with reference to standalone financial statement s in place and the operating effectiveness of 
+such controls. 

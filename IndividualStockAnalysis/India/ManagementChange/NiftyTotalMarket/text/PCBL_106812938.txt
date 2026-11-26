@@ -1,0 +1,114 @@
+--- CIM_721_WebXMLFile_20261009_183509056_1.xml (the exchange's structured disclosure) ---
+NSESymbol: PCBL ; Name Of The Company: PCBL CHEMICAL LIMITED ; Scrip Code: 506590 ; MSEISymbol: NOTLISTED ; ISIN: INE602A01031 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-08 ; Time Of Occurrence Of Event Or Information: 20:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-10-09 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief - International Markets, Rubber ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Gautam Kalia ; Effective Date Of Reason Of Change: 2026-10-09 ; Salutation: Mr. ; Name Of The Person: Gautam Kalia ; Designation Of Person: Chief - International Markets, Rubber ; Date On Which The Resignation Letter Was Received: 2026-10-08 ; Effective Date Of Resignation: 2026-10-09 ; Reason Of Resignation In Brief: To pursue an aspiration outside the organisation
+
+--- CIMG_506590_09102026183441_2.pdf ---
+9th October, 2026
+The Manager,
+Listing Department,
+National Stock Exchange of India Ltd,
+Exchange Plaza,
+Plot No. – C – 1, G Block,
+Bandra – Kurla Complex,
+Bandra (East),
+Mumbai – 400051
+
+The General Manager,
+Department of Corporate Services,
+BSE Limited,
+1st Floor, New Trading Ring,
+Rotunda Building,
+P.J. Towers,
+Dalal Street, Fort,
+Mumbai – 400001
+
+NSE Code – PCBL
+
+BSE Code (Equity) – 506590
+BSE Code (Debt) – 975353
+
+Dear Sir,
+Sub:- Intimation under Regulations 30 & 51 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended
+Pursuant to Regulations 30 and 51 read with Schedule III of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (‘Listing Regulations’), we write to inform you that Mr.
+Gautam Kalia, Chief – International Markets (Rubber), Senior Management Personnel of the Company
+has resigned from the services of the Company and he would be relieved from the services of the
+Company with effect from the close of business hours on 9th October, 2026.
+The brief details as prescribed under the Listing Regulations read with SEBI Master Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated 30th January, 2026, are enclosed as Annexure I.
+Copy of the resignation letter is enclosed as Annexure II.
+We request you to take the afore-mentioned information in record and oblige.
+
+Yours faithfully,
+For PCBL Chemical Limited
+Digitally signed by
+
+Varma
+Ravi Varma Ravi
+Date: 2026.10.09
+18:17:29 +05'30'
+
+Ravi Varma
+Company Secretary and Compliance Officer
+Enclo: As above
+
+
+“Annexure – I”
+
+SL No.
+
+Particulars
+
+Details
+
+1
+
+Reason for change viz. appointment, reappointment, resignation, removal, death or
+otherwise
+
+Resignation
+
+2
+
+Date of appointment / re appointment, resignation,
+cessation (as applicable) & term of appointment /
+re-appointment
+
+9th October, 2026
+
+3
+
+Brief Profile (in case of appointment)
+
+Not applicable
+
+4
+
+Disclosure of relationships between Directors (in
+case of appointment of a Director)
+
+Not applicable
+
+
+'Annexure - II'
+
+28th September, 2026
+
+The Managing Director,
+PCBL Chemical Limited,
+Kolkata
+Sub: Resignation from the position of Chief- International Markets (Rubber) of the Company
+Dear Sir,
+After much consideration, I tender my resignation from the position of Chief - International
+Markets (Rubber) of the Company to pursue an aspiration outside the organisation.
+I would request you to relieve me from the services of the Company w.e.f. s'" October, 2026.
+I wish to thank and will remain forever indebted to the RPSG Group and the entire PCBL family for
+all the love, encouragement and cooperation extended to me during my tenure as Chief International Markets. I also wish to thank the entire Senior Management team in PCBL and RPSG
+Group for their cooperation during my association with the Company.
+
+Thanking you,
+
+Gautam Kalia
+Chief- International Markets (Rubber)
+
+

@@ -1,0 +1,110 @@
+ 
+ 
+ 
+ 
+Ref No: RML/2024 -25/562 
+ 
+Date:  March 5, 2025  
+ 
+To, 
+BSE Limited                                                                             National  Stock Exchange  of India  Limited  
+Scrip  Code:  543228                                                             Symbol:  ROUTE  
+ 
+Dear  Sir/Madam,  
+ 
+Sub:  Announcement  under  Regulation  30- Press Release  
+Please find enclosed P ress Release issued by Belgacom International Carrier Services (“ BICS”) 
+titled -“Proximus Global and Nokia partner to offer network APIs to help developers 
+create enterprise applications ”. BICS is a 100% subsi diary of Proximus Global  S.A.; Proximus 
+Global S .A. being the promoter company of Route Mobile  Limited . 
+This disclosure  is made  in accordance with  Regulation  30 of the Securities and Exchange  Board 
+of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 .  
+You are requested to take the above information on record.  
+ 
+The same  is also  uploaded on the Company’s  website  at www.routemobile.com  
+ 
+Thanking you,  
+Yours truly,  
+For Route Mobile Limited  
+  
+ __________________________________________________________________________ 
+Rathindra Das 
+Group Head - Legal, Company Secretary & Compliance Of�icer  
+Membership No: F12663 
+ 
+Encl: as above  
+ 
+  
+ 
+      
+ 
+ Registered & Corporate Office: 
+Route Mobile Limited 
+San Raj Corporate Park -4th Dimension, 3rd floor, 
+Mind Space, Malad (West), Mumbai -400 064, India 
++97 22 4033 7676/77-99 I Fax: +97 22 4033 7650 
+info@routemobile.com I www.routemobile.com 
+CIN No: L72900MH2004PLC746323 
+ 
+ 
+. Proximus Global and Nokia partner to offer 
+network APIs to help developers create 
+enterprise applications #MWC25  
+The parties will further develop APIs to enable developers to create new 
+applications for enterprises, including financial services and healthcare.  
+Brussels – 04 March 2025 –  Proximus Global, the leading global digital communications company 
+combining the strengths of BICS, Telesign and Route Mobile, today announced that it  will partner with 
+Nokia to explore opportunities that utilize their respective strengths in network API solutions to support 
+developers as they create new applications for enterprises. The collaboration aims to expose Proximus Global and Nokia APIs on each other’s marketplaces, bridging the gap between the various industry 
+segments and the telecom ecosystem.  
+Proximus Global’s network APIs will be exposed on Nokia’s Networ k as Code platform with developer 
+portal , while Nokia will benefit from Proximus Global’s presence within the telco market to make its 
+CAMARA and 5G APIs available globally. The collaboration will enable enterprises and operators to 
+leverage rapidly expanding API capabilities within a range of areas, including network slicing, a key 
+enabler in 5G private networks, as well as fraud protection and other services.  
+Proximus Global will also seek to utilize Nokia’s Network Exposure Platform and its Enterprise A PI Hub to 
+give developers easy access to Proximus Global’s network capabilities for creating software applications 
+that work across its 5G and 4G networks. Nokia’s Network Exposure Platform  is an implementation of the 
+GSMA Operator Platform,  a standard for a common platform exposing operator capabilities to dev elopers.  
+“Proximus Global has traditionally offered a rich set of communication API through our CPaaS offering. We aim now to complement these with network API to allow enterprise and developers to easily access network capabilities. Our collaboration with Nokia will strengthen our API capabilities, and the work we are doing with developers, all with the aim of providing Proximus Global enterprise and wholesale customers 
+with new, value- added solutions,” said Christophe Van De Weyer, Chief Product Officer at Proximus 
+Global, and CEO of Telesign.  
+Proximus Global is targeting several applications, including a real -time fraud prevention API that uses 
+location data to detect and prevent suspicious transactions, as well as network slicing capabilities, for example in mass gathering events, such as concerts. APIs provide access to deep functionality and data 
+within networks, allowing developers to utilize those network capabilities to build new use cases for their customers.  @ telesign I :> 1 cs I C) routemobile 
+Proximus Global 
+ 
+“We are very pleased to expand Nokia’s  relationship with Proximus Global to the area of network APIs. 
+Our collaboration will give greater access and organization to how Proximus Global’s network is integrated 
+into developer ecosystems and platforms. This will ensure choice, flexibility, and security in creating new 
+applications,” said Shkumbin Hamiti, Head of Network Monetization Platform, Cloud and Network 
+Services at Nokia.  
+Since launching the Network as Code platform in September 2023, Nokia’s ecosystem of Network as Code platform partners h as grown to 55 currently and includes BT, Deutsche Telekom, Orange, StarHub, 
+Telefonica, and Telecom Argentina. Nokia’s commitment to API monetization extends beyond network -
+side aggregation and includes hyperscalers like Google Cloud; Communications Platf orm as a Service 
+(CPaaS) platform providers such as Infobip; vertical independent software vendors like Elmo; and the 
+world’s largest public API hub through Nokia’s acquisition of Rapid.  
+About Nokia 
+At Nokia, we create technology that helps the world act together.  
+As a B2B technology innovation leader, we are pioneering networks that sense, think and act by 
+leveraging our work across mobile, fixed and cloud networks. In addition, we create value with intellectual 
+property and long- term research, led by the  award- winning Nokia Bell Labs.  
+With truly open architectures that seamlessly integrate into any ecosystem, our high- performance 
+networks create new opportunities for monetization and scale.  
+Service providers, enterprises and partners worldwide trust Nokia to deliver secure, reliable and 
+sustainable networks today – and work with us to create the digital services and applications of the future.  
+About Proximus Global  
+Proximus Global, combining the strengths of Telesign, BICS, and Route Mobile, is transforming the future 
+of communications and digital identity. Together, our solutions fuel innovation across the world's largest 
+companies and emerging brands. Our unrivaled global reach empowers businesses to create engaging 
+experiences with built -in fraud protect ion across the entire customer lifecycle. Our comprehensive suite of 
+solutions – from our super network for voice, messaging, and data, to 5G and IoT; and from verification 
+and intelligence to CPaaS for personalized omnichannel engagement –  enables busines ses and 
+communities to thrive. Reaching over 5 billion subscribers, securing more than 180 billion transactions annually, and connecting 1,000+ destinations, we honor our commitment to connect, protect and engage 
+everyone, everywhere.  
+Press Contact:  
+Name: Marcus Hedenberg  
+Email: marcus.hedenberg@babelpr.com   
+Tel: +44 7494 784779   
+  
+ 

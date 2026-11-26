@@ -1,0 +1,144 @@
+ 
+ 
+Internal to Wipro  
+  
+ 
+ 
+March 19, 2025  
+ The Manager - Listing  
+BSE Limited  
+(BSE: 507685)  
+  
+The Manager - Listing  
+National Stock Exchange of India Limited  
+(NSE: WIPRO)  
+  
+The Market Operations  
+NYSE: New York  
+(NYSE: WIT)  
+ Dear Sir/Madam,  
+ 
+Sub: Press Release  
+ 
+Please find attached herewith copy of the Press Release which is being released today.  
+ Thanking you,  
+ 
+For Wipro Limited  
+ 
+ 
+ 
+ 
+M Sanaulla Khan  
+Company Secretary  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wipro Brings Sovereign AI Services with NVIDIA AI to Governments 
+and Enterprises Around the World  
+Agentic AI services focus on developing and implementing country specific solutions to 
+enhance citizen experiences  
+EAST BRUNSWICK, N.J. | BENGALURU, India  – March 19, 2025 : Wipro Limited (NYSE: WIT, 
+BSE: 507685, NSE: WIPRO), a leading technology services and consulting company, today 
+announced new agentic AI services to empower nations around the globe to develop and deploy 
+artificial intelligence (AI) capabilities leveraging their unique infrastructure, data, workforce and business networks to drive innovation, economic growth and sovereignty.  
+The offerings leverage AI for local impact by bringing together Wipro’s locally governed AI 
+frameworks powered by Wipro’s WeGA Studio and NVIDIA  AI Enterprise
+ software to enable:  
+● A wide range of applications through an Agentic AI powered ecosystem, that can 
+transform citizen experiences in Banking & Financial services, Emergency services, 
+Healthcare services and Education services, driving public sector innovation and fostering 
+economic growth.  
+● The unlocking of customized large language models (LLM) for local languages, starting 
+with Thai and expanding to other languages in India and South Asian countries, including Arabic that can deliver more accurate and culturally relevant AI interactions.  
+● Access to pre -built responsible AI accelerators to help clients rapidly build customized use 
+cases and high- performance models that support their unique objectives.  
+● Privacy and security compliance that ensures data and AI sovereignty. 
+Wipro’s WeGA Sovereign AI solutions are built on NVIDIA  NeMo ™
+ microservices, including:  
+● NVIDIA NeMo Customizer – a high- performance, scalable microservice that simplifies the 
+fine-tuning and alignment of LLMs.  
+● NVIDIA NeM Curator – high quality multi- lingual synthetic data generation models for 
+training LLM models.  
+● NVIDIA NeMo Evaluator – supports model quality evaluations and benchmark 
+preparation.  
+● NVIDIA NeM Retriever – a collection of microservices that provide world- class information 
+retrieval with high accuracy and maximum data privacy.  
+These NVIDIA technologies, combined with NVIDIA NIM ™ microservices  and NVIDIA Blueprints  
+help create scalable and flexible architectures, enable the development, optimization, and 
+deployment of AI models within the sovereign AI environment, ensuring data sovereignty, security and localized control.  
+ 
+ 
+ 
+ 
+ 
+ “There’s a rising demand for ethical AI practices and transparency in AI decision- making 
+processes,” said Nagendra Bandaru, President and Managing Partner , Wipro Technology 
+Services.  “Organizations are seeking AI solutions that are not only effective but also ethical and 
+transparent. By working together with NVIDIA, we will be able to quickly deploy AI agent systems 
+and technologies while addressing the increased concerns many government agencies and 
+organizations have over data privacy, security, and national sovereignty.”  
+“AI agents can help rapidly serve the changing needs of growing populations, ” said John Fanelli, 
+Vice President, Enterprise Software at NVIDIA . “Wipro’s experience with the NVIDIA AI 
+Software platform provides a powerful foundation for assisting nations and local governments in 
+building and deploying AI agent services that are tailored to the needs of their languages and 
+culture.”  
+Ratanaphon Wongnapachant, CEO, SIAM .AI Cloud , who recently collaborated with Wipro to 
+deliver sovereign AI services to the Tourism Authority of Thailand , added, “Thailand's AI future 
+thrives when we harness our local resources and empower Thai talent using world-class technology. As Thailand's first NVIDIA Cloud Partner (NCP), SIAM.AI CLOUD provides the foundation for our nation's sovereign AI strategy —combining global technological excellence with 
+local expertise to address our unique challenges while preserving our cultural values and technological independence. Our recent collaboration with Wipro to deliver AI services to the 
+Tourism Authority of Thailand demonstrates how strategic partnerships enhance our capabilities. 
+Working alongside technology partners like Wipro and NVIDIA, we're building a self -sufficient AI 
+ecosystem that includes emergency and financial services which enables Thailand to lead in the 
+AI era on our own terms.”  
+For more information on Wipro’s collaboration with NVIDIA and Sovereign AI solutions, please  
+visit https://www.wipro.com/ai/sovereign- ai. 
+ 
+About Wipro Limited  
+Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading technology services and 
+consulting company focused on building innovative solutions that address clients’ most complex 
+digital transformation needs. Leveraging our holistic portfolio of capabilities in consulting, design, engineering, and operations, we help clients realize their boldest ambitions and build future- ready, 
+sustainable businesses. With over 23 0,000 employees and business partners across 65 
+countries, we deliver on the promise of helping our clients, colleagues, and communities thrive in 
+an ever -changing world. For additional information, visit us at  www.wipro.com
+. 
+ 
+Media Contact:  
+Wipro Media Relations  
+media- relations@wipro.com    
+ 
+ 
+ 
+ 
+ 
+ Forward  Looking Statements  
+The forward- looking statements contained herein represent Wipro’s beliefs regarding future events, many 
+of which are by their nature, inherently uncertain and outside Wipro’s control. Such statements include, but 
+are not limited to, statements regarding Wipro’s growth prospects, its future financial operating results, and its plans, expectations and intentions. Wipro cautions readers that the forward- looking statements 
+contained herein are subject to risks and uncertainties that could cause actual results to differ materially from the results anticipated by such statements. Such risks and uncertainties include, but are not limited to, risks and uncertainties regarding fluctuations in our earnings, revenue and profits, our ability to generate and manage growth, complete proposed corporate actions, intense competition in IT services, our ability to maintain our cost advantage, wage increases in India, our ability to attract and retain highly skilled 
+professionals, time and cost overruns on fixed- price, fixed- time frame contracts, client concentration, 
+restrictions on immigration, our ability to manage our international operations, reduced demand for 
+technology in our key focus areas, disruptions in telecommunication networks, our ability to successfully complete and integrate potential acquisitions, liability for damages on our service contracts, the success of the companies in which we make strategic investments, withdrawal of fiscal governmental incentives, 
+political instability, war, legal restrictions on raising capital or acquiring companies outside India, 
+unauthorized use of our intellectual property and general economic conditions affecting our business and industry.  
+Additional risks that could affect our future operating results are more fully described in our filings with the United States Securities and Exchange Commission, including, but not limited to, Annual Reports on Form 
+20-F. These filings are available at  www.sec.gov
+. We may, from time to time, make additional written and 
+oral forward- looking statements, including statements contained in the company’s filings with the Securities 
+and Exchange Commission and our reports to shareholders. We do not undertake to update any  forward-
+looking statement that may be made from time to time by us or on our behalf.  
+ 

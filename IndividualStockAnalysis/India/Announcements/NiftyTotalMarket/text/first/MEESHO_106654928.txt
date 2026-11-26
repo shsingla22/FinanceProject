@@ -1,0 +1,136 @@
+ (Formerly known as  “Meesho Private Limited ” and “Fashnear Technologies Private Limited ”) 
+ 
+CIN: L74900KA2015PLC082263   
+Registered  Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, 
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103  
+T: +91 9108021923 | E: cs@meesho.com  | W: www.meesho.com   
+ MEESHO LIMITED  
+June 04, 2026  
+ 
+To,  To, 
+Listing Department   Department of Corporate Services  
+National Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza, Bandra -Kurla Complex,  
+Bandra (East), Mumbai - 400 051  Phiroze  Jeejeebhoy Towers, Dalal Street, 
+Mumbai - 400 001    
+Symbol: MEESHO  Scrip Code: 544632  
+ 
+Dear Sir/Ma’am,  
+ 
+Sub: Press Release  
+ 
+Ref: Disclosure  under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 as amended (“SEBI Listing Regulations”)  
+ 
+Pursuant to Regulation 30 of SEBI Listing Regulations, please  find enclosed the press release titled  Meesho's PRISM 
+Brings Intent -Driven Discovery to 264 million  Indians . 
+ 
+The above information will also be made available on the Company’s website at:  www.meesho.com  
+ 
+You are requested to take the above information on record.   
+ 
+Thanking you,  
+ 
+For Meesho Limited  
+(Formerly known as Meesho Private Limited and Fashnear Technologies Private Limited)  
+ 
+ 
+ 
+Rahul Bhardwaj  
+Company Secretary & Compliance Officer  
+Membership No.: A41649  
+Encl: As above  
+  
+ (Formerly known as  “Meesho Private Limited ” and “Fashnear Technologies Private Limited ”) 
+ 
+CIN: L74900KA2015PLC082263   
+Registered  Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, 
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103  
+T: +91 9108021923 | E: cs@meesho.com  | W: www.meesho.com   
+ MEESHO LIMITED  
+ 
+Meesho's PRISM Brings Intent -Driven Discovery to 264 Million 
+Indians  
+ 
+ 
+Bengaluru, June 04, 2026 : Meesho, India’s largest e -commerce platform by Annual Transacting Users 
+and Placed Orders, revealed the growing impact of PRISM (Personalised Ranking & Intent Signal 
+Module) , its proprietary  AI intelligence system  designed to transform how millions of Indians discover 
+products, shop online, and engage across the platform.  
+ 
+Much like shopping in a local bazaar, consumers on Meesho often browse, explore, and discover products 
+rather than search with fixed intent. Built for a platform serving 264 million annual transacting users and 
+717 million placed orders in Q4 FY26,  PRISM is designed for this reality, shifting commerce from 
+keyword -led search to real -time intent understanding and product discovery. Traditional e -commerce was 
+built around the search bar, assuming users can clearly articulate what they want. For a larg e part of India, 
+that assumption breaks down. Today, over 75% of orders on Meesho originate from AI -driven 
+personalised feeds powered by PRISM.  
+ 
+At the core of PRISM is a real -time intelligence and ranking architecture built to understand how Bharat 
+shops online. The system continuously interprets behavioural, transactional, and contextual signals across 
+users and their browsing journeys, powered b y a network of more than 100 AI ranking models  and trained 
+on over 400 trillion input signals and executing more than 6 trillion inferences every day within 
+milliseconds. Further, this enables sellers to reach high -intent audiences more effectively by surfacing 
+their products to users who are most likely to engage and purchase.  
+ 
+It supports 10+ multilingual experiences across Hindi, Bengali, Marathi, Tamil, Telugu, Kannada, 
+Malayalam, Gujarati, Punjabi, and Odia. The system is powered by BharatMLStack , Meesho's in -house 
+ML infrastructure platform built to support high -throughput AI workloads at significantly lower inference 
+costs than conventional cloud infrastructure.  
+ 
+While traditional e -commerce platforms were designed around consumers searching with clear intent, 
+PRISM enables a more intuitive and discovery -led shopping experience built for Bharat. Through  
+Trendpulse,  its LLM -powered discovery engine, PRISM  interprets emerging demand patterns across 
+regions, cities, and local consumer clusters, enabling Meesho to surface highly relevant products aligned 
+with evolving shopping behaviours India’s diverse consumer cohorts.  
+ 
+Speaking on the impact of PRISM , Debdoot Mukherjee, Chief Data Scientist, Head of AI and Demand 
+Engineering, Meesho , said: "The next hundred million Indians coming online will not search, they will 
+discover. They will not type, they will speak, browse, and expect technology to meet them where they are. 
+This is the most significant shift in consumer internet India has seen, and  it demands infrastructure built 
+from the ground up for this reality.  
+ 
+PRISM brings together real -time intelligence and ranking systems to understand how Bharat discovers 
+products, expresses intent, and makes purchase decisions online. It continuously interprets behavioural, 
+transactional, and contextual signals across users, produ cts, sellers, and browsing journeys, shifting 
+commerce from keyword -led search to real -time intent understanding, for consumers who are discovery -
+first, multilingual, and increasingly voice -led. It does not wait for a consumer to articulate what they want.  
+During peak sale events, PRISM  processes nearly 100 million inferences per second to power real -time 
+personalised discovery at scale.  
+AI in commerce must go beyond efficiency and become something closer to intuition, a system that learns 
+continuously, anticipates intelligently, and makes discovery feel effortless for every Indian. That is the 
+infrastructure we are building for Bharat's next era of commerce. And we ar e only at the beginning."  
+ (Formerly known as  “Meesho Private Limited ” and “Fashnear Technologies Private Limited ”) 
+ 
+CIN: L74900KA2015PLC082263   
+Registered  Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village, 
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103  
+T: +91 9108021923 | E: cs@meesho.com  | W: www.meesho.com   
+ MEESHO LIMITED  
+ 
+PRISM  already powers personalised recommendations, intent -led discovery, trend intelligence, catalogue 
+understanding, and seller growth systems across Meesho. Its capabilities are strengthened by the scale of 
+the Meesho ecosystem, with 263 million monthly active users, 17 billion product views per day, 1,592 
+million ratings, and 505 million reviews , one of India's largest commerce intelligence networks spanning 
+consumers, sellers, creators, listings, and logistics partners.  
+ 
+As discovery -led commerce continues to grow across India, PRISM  will power the next generation of 
+shopping experiences on Meesho, helping consumers discover more naturally, enabling sellers to reach 
+demand more efficiently, and continuously compounding intelligence across billions of real -world 
+interactions.  
+—----------------------------------------------------------------------------------------------------------------------------- -----------  
+ 
+ 
+About Meesho:  
+ 
+Meesho is a multi -sided technology platform driving e -commerce in India by connecting consumers, sellers, 
+logistics partners, and content creators. As India’s largest e -commerce platform by Annual Transacting 
+Users and Placed Orders, the platform has built  innovative technology to create an accessible and 
+affordable e -commerce ecosystem for a billion Indians. It enables entrepreneurship at scale by 
+empowering millions of small businesses and individuals to build and grow online with minimal upfront 
+investme nt. AI is the operating system that powers how Meesho builds, enabling faster iteration and 
+continuous improvement. Each system removes barriers between millions of Indians and e -commerce, 
+while driving technology -led efficiencies to serve Bharat at scale.  
+ 
+*** 
+ 

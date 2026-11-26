@@ -1,0 +1,198 @@
+ 
+  
+  
+ 
+Solitaire Corporate Park Office:  IndusInd Bank Limited, Building No.7, Ground floor, Solitai re Corporate 
+Park, Andheri –Ghatkopar Link Road, Chakala Andheri (E), Mumbai – 400 093, India, Tel: (022) 66412442  
+ 
+Registered Office:  2401 Gen. Thimmayya Road, Pune 411001, India  
+Contact us :(020) 2634 3201| Email us:  reachus@indusind.com | Visit us :www.in dusind.com  
+CIN: L65191PN1994PLC076333  
+ May 28, 2025 
+ 
+BSE Limited  (Scrip Code: 532187)  
+Natio nal Stock Exchange of India Limited  (Symbol: INDUSINDBK)  
+Luxembourg Stock Exchange  
+ 
+Dear Sir  / Madam , 
+ 
+Ref.:  Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 201 5 (“Listing Regulations ”) 
+ 
+This disclosure is being made pursuant to Regulation 30 read with Part A of Schedule III of the 
+Listing Regulations in relation to an ex -parte interim order dated 28 May 2025 (“ Interim Order ”) 
+passed by the Securiti es and Exchange Board of India (“ SEBI ”) in respect of certain employees of 
+IndusInd Bank Limited (“ IBL”).  A copy of the Interim Order is enclosed herewith as Annexure A.  
+ 
+The details relating to the Interim Order as required under Regulation 30 of the Lis ting Regulations 
+are as follows:  
+ 
+S. No.  Particulars  Remarks  
+1.  Name of authority  Securities and Exchange Board of India  
+2.  Nature and details of the action(s) 
+taken, initiated or order(s) passed  The Interim Order was issued by SEBI under 
+Section 11 of the Securities and Exchange 
+Board of India Act , 1992 . 
+3.  Date of receipt of direction or order, 
+including any ad -interim or interim 
+orders, or any other communication 
+from the authority  The Interim Order was issued by SEBI on 28 
+May 2025 .   
+4.  Details of the vio lation(s)/  
+contravention(s) committed or alleged 
+to be committed  In terms of the Interim Order, SEBI has 
+found in its preliminary examination that  
+certain officers of IBL (details of which are 
+included in the enclosed order)  prima facie 
+violated provisions  of sub-regulation (1) of 
+regulation (4) of the Securities and Exchange 
+Board of India (Prohibition of Insider 
+Trading) Regulations, 2015 . 
+5.  Impact on financial, operation or other 
+activities of the listed entity, 
+quantifiable in monetary terms to the 
+extent possible  There is no impact on the financial, operation 
+or other activities of IBL arising out of the 
+Interim Order.    
+ 
+ 
+This is also being  uploaded on the Bank’s website at www.indusind.com . 
+Solitaire Corporate Park Office:  IndusInd Bank Limited, Building No.7, Ground floor, Solitai re Corporate 
+Park, Andheri –Ghatkopar Link Road, Chakala Andheri (E), Mumbai – 400 093, India, Tel: (022) 66412442  
+Registered Office:  2401 Gen. Thimmayya Road, Pune 411001, India  
+Contact us :(020) 2634 3201| Email us:  reachus@indusind.com | Visit us :www.in dusind.com  
+CIN: L65191PN1994PLC076333  We request you to t ake the above information on record.  
+Thanking you,  
+Yours faithfully,  
+For IndusInd Bank Limited  
+Anand Kumar Das  
+Company Secretary  
+Ex-Parte Interim Order in the matter of Insider Trading by certain entities in the scrip of 
+IndusInd Bank Limited                                                                                         Page 1 of 32 
+WTM/KV/ISD/ISD-SEC-5/31437/2025-26 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+EX-PARTE INTERIM ORDER 
+UNDER SUB-SECTION (1) OF SECTION 11, SUB-SECTION (4) OF SECTION 11, SUB-
+SECTION (4A) OF SECTION 11 AND SUB-SECTION (1) OF SECTION 11B OF THE 
+SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 
+IN THE MATTER OF INSIDER TRADING BY CERTAIN ENTITIES IN THE SCRIP OF 
+INDUSIND BANK LIMITED      
+In respect of: 
+Sr. No. Name of the Noticees  PAN 
+1. Arun Khurana ABBPK3785A 
+2. Sumant Kathpalia AINPK0032B 
+3. Sushant Sourav ANLPS6798R 
+4. Rohan Jathanna AAFPJ1378P 
+5. Anil Marco Rao AAAPR0288H 
+(The entities mentioned above are individually referred to by their respective names or Noticee 
+N Noticees , unless the context specifies otherwise)1 
+TABLE OF CONTENTS 
+A.BACKGROUND .................................................................................................................... 2
+B.BRIEF FINDINGS OF PRELIMINARY EXAMINATION BY SEBI  ........................ 5 
+B.1 ISSUANCE OF MASTER DIRECTION BY RBI  ................................................. 5 
+B.2 ASSESSMENT OF IMPACT OF RBI MASTER DIRECTION ON
+ACCOUNT OF IBL.  ............................................................................................................. 6 
+INTERNAL TEAM  .............................................................................................................. 12 
+B.4 TRADES OF NOTICEES  DURING EXISTENCE OF UPSI  .......................... 14 
+C.CONSIDERATION OF ISSUES AND PRIMA FACIE  FINDINGS  ...................... 17 
+D.NEED FOR AN EX-PARTE INTERIM ORDER  ........................................................ 25 
+E.BASIS OF CALCULATION OF DISGORGEMENT AMOUNT AND
+DEBARMENT  ...................................................................................................................... 28 
+F.CLARIFICATION  ................................................................................................................ 29 
+G.INTERIM ORDER  ............................................................................................................... 29 
+1 Some names who are not Noticees  are anonymised and actual name would be supplied to Noticees  Annexure A
+ 
+ 
+Ex-Parte Interim Order in the matter of Insider Trading by certain entities in the scrip of 
+IndusInd Bank Limited                                                                                         Page 2 of 32 
+ 
+ 
+A. BACKGROUND 
+1. Securities and Exchange Board of India (hereinafter referred to as " SEBI") 
+conducted a suo-motu  preliminary examination in the matter, after taking 
+cognizance of the significant fall in price of shares of IndusInd Bank Limited 
+IndusInd /IBL, pursuant to an announcement 
+made by IBL on March 10, 2025 on the platforms of Exchanges. While the 
+examination was being carried out, SEBI also received certain 
+complaints/Media articles alleging insider trading by Key Managerial Persons 
+of IBL. 
+ 
+2. SEBI examined the matter for the period from September 12, 2023 to March 
+10, 2025 Examination Period  to ascertain as to 
+whether the trading activities of certain person/entities, were in violation of 
+provisions of the Securities and Exchange Board of India Act, 1992 (hereinafter 
+SEBI Act  and the Securities and Exchange Board of India 
+(Prohibition of Insider Trading) Regulations, 2015 PIT 
+Regulations . 
+ 
+3. On March 10, 2025, IBL made the following announcement on the Exchange 
+platforms, after-market hours (i.e. at 18:34:45 hrs): 
+Liability accounts of the derivative portfolio, post implementation of RBI 
+Master Direction - Classification, Valuation and Operation of Investment 
+Portfolio of Commercial Banks (Directions), 2023 issued in September 
+2023, including accounting of Derivatives, applicable from April 01, 2024, 
+Bank noted some discrepancies in these account balances. Bank's 
+detailed internal review has estimated an adverse impact of 
+ The 
+Bank has also, in parallel, appointed a reputed external agency to 
+independently review and validate the internal findings. A final report of the 
+external agency is awaited and basis which the Bank will appropriately 
+ 
+ 
+Ex-Parte Interim Order in the matter of Insider Trading by certain entities in the scrip of 
+IndusInd Bank Limited                                                                                         Page 3 of 32 
+ 
+consider any resultant impact in its financial statements. The Bank's 
+profitability and capital adequacy remains healthy to absorb this one-time 
+impact. (bold emphasis supplied)  
+ 
+4. As per the aforesaid Exchange filing, IBL estimated the impact due to 
+discrepancies in the account balance of Derivative Portfolio  (hereinafter 
+discrepancies
+in 
+of Bank  
+ending December 31, 2024, -worth was 65,101.65 Crores and 
+accordingly the estimated impact due to discrepancies, as announced by IBL 
+in the above Exchange filing was around 1,529.88 Crores 
+ 
+5. Based on the above Exchange filing, inter alia, the following is noted: 
+i. Post issuance of RBI Master Direction, IBL conducted an internal review 
+of processes relating to Other Asset and Other Liability accounts of the 
+derivative portfolio; 
+ii. During this internal review of processes, IBL noted some discrepancies 
+in the account balance of derivative portfolio; 
+iii. Bank's detailed internal review estimated an adverse impact of 
+ which 
+comes to be around 1,529.88 Crores; 
+iv. The Bank appointed an external agency to independently review and 
+validate the internal findings; and 
+v. The bank acknowledged to appropriately consider any resultant impact 
+in its financial statements post the final report. 
+ 
+6. The price movement around the date of announcement on the Exchanges from 
+March 03, 2025 to March 17, 2025 is provided as under: 
+ 
+ 
+ 
+ 
+ 
+Ex-Parte Interim Order in the matter of Insider Trading by certain entities in the scrip of 
+IndusInd Bank Limited                                                                                         Page 4 of 32 
+ 
+ 
+Table 1 
+                                  
+ 
+7. It is observed from the Price-Volume data in the above table, that after the 
+aforementioned announcement on March 10, 2025, the price of IBL scrip fell by 
+244.65 (on close to close basis) between March 10, 2025 (closing) and March 
+11, 2025 (closing) which is a fall of 27.165%. The chart of the price movement 
+around the date of announcement from March 3, 2025 to March 17, 2025 is 
+provided as under: 
+ 984.20987.90
+971.70971.05936.80900.60
+655.95684.70672.10
+676.95
+ - 10,00,000 20,00,000 30,00,000 40,00,000 50,00,000 60,00,000
+500.00600.00700.00800.00900.001000.001100.00Price Volume Graph
+No.of Shares Close Price

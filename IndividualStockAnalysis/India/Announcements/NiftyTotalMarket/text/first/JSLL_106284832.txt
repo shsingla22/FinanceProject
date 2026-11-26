@@ -1,0 +1,429 @@
+ 
+  
+ 
+Date: 30.06.2025 
+To,                                                                                                                                          
+The Manager  
+Listing Compliance Department  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (East), Mumbai -400051  
+ 
+SYMBOL: JSLL  
+ISIN: INE0J5801029  
+ 
+Subject:  Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 – Publication of Research Articles  
+ 
+Dear Sir/Madam,  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulat ions, 
+2015, we wish to inform you that the following Research and Review Articles have been authored by 
+experts associated with Jeena Sikho Lifecare Limited, including our Managing Director, medical 
+consultants, and senior Ayurvedic professionals.  
+ 
+These articles reflect the Company’s continuous engagement in Ayurvedic research and clinical 
+advancements and are detailed as under:    
+S. No.  Type  Name  
+1.  Research Article  Resolving Azoospermia (Shukra Kshaya) with an Ayurvedic 
+Approach : A Case Study  
+2.  Research Article  Integrative Ayurvedic Approach in the Management of Chronic 
+Kidney Disease: A Case Report and Therapeutic Insights  
+3.  Research Article  Comprehensive Approach on Integrative Ayurvedic Strategies 
+in Chronic Kidney Disease: A Case Report  
+4.  Research Article  Ayurvedic Approach Enhancing Renal Health and Well  Being 
+in Chronic Kidney Disease: A Case Report  
+5.  Research Article  Comprehensive  Ayurvedic  Approach in the Management of 
+Chronic  Kidney Disease: A Case Report  
+6.  Research Article  Alleviating Rheumatoid Arthritis (Aamvata) through 
+Ayurvedic  Medicine and Panchakarma: A Case Study  
+7.         Review  Article  Therapeutic Management  of Uterine Fibroid/Garbhashayagata 
+Granthi with Ayurveda  
+8.  Research Article  Management of the Symptoms of Metastatic Lung Cancer with 
+Ayurveda : A Case Study  
+9.  Research Article  Charma Rog (Skin Disease) Ekkustha (Psoriasis) Management 
+by Ayurvedic Chikitsa Paddhati (Line of Treatment): A Case 
+Study  
+10.  Research Article  Integrative Ayurvedic management of chronic kidney disease 
+stage V: A case study on therapeutic efficacy and patient 
+outcomes   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+The above -mentioned articles have been authored  by Acharya Manish Ji (Managing Director) along 
+with the following professionals associated with Jeena Sikho Lifecare Limited:  
+ 
+Dr. Gitika Chaudhary, Dr. Richa, Dr. Pawan Singh Rawat, Dr. Suyash Pratap Singh, Dr. Manjeet Singh, 
+Dr. Ankit Sharma, Dr. Anshuma, Dr. Pooja Yadav, Dr. Shweta Singh, Dr. Neha Sharma, Dr. Garima, 
+Prof. Ish Sharma, Dr. Vikas Saini, and Dr.  Srijan Chaudhary.  
+ 
+Copies of the articles are enclosed as Annexures A to J for your records.  
+ 
+This is for your kind information and record.  
+ 
+Thanking you , 
+Yours faithfully,  
+ 
+For Jeena Sikho Lifecare Limited  
+ 
+ 
+ 
+Manish Grover  
+Managing Director  
+DIN:  07557886  
+Place:  Zirakpur, Punjab  
+Date: 30 .06.2025  
+ 
+ 
+ISSN: 2322 - 0902 (P)  
+ISSN: 2322 - 0910 (O)  
+     IJAPR | April  2025 | Vol 13 | Issue 4  108  International Journal of Ayurveda  
+and Pharma Research  
+ 
+Case study  
+ 
+RESOLVING AZOOSPERMIA (SHUKRA KSHAYA)  WITH AN AYURVEDIC APPROACH  
+Acharya Manish Ji1, Gitika Chaudhary2*, Richa3, Pawan Singh Rawat4 
+1Director, Meditation Guru, Jeena Sikho Lifecare limited . 
+*2Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ay.), Jeena Sikho lifecare limited . 
+3Research Officer, BAMS, PGDIP, CICR, CAIM, Jeena Sikho lifecare limited .  
+4Consultant, BAMS, MPH, Jeena Sikho lifecare limited Clinic Dehradun . 
+Article info  
+Article History :  
+Received: 05-03-2025 
+Accepted: 11-04-202 5 
+Published: 15-05-202 5 
+KEYWORDS :  
+Shukra Kshaya , 
+Azoospermia, 
+Ayurveda 
+medicines  ABSTRACT  
+Azoospermia, characterized by the absence of sperm in the ejaculate, is a significant 
+contributor to male infertility. Traditional treatment approaches often combine hormonal 
+therapies, surgical interventions and assisted reproductive techniques, yet not all cases 
+resolve successfully. This paper explores a treatment approach using Ayurvedic  therapies. 
+The study focuses on a 37 -year -old male diagnosed with azoospermia, initially presented 
+with the symptoms of sleeplessness, fatigue and general weakness. The patient underwent a 
+treatment regimen including Ayurvedic  formulations over a period of six months.  
+Post -treatment evaluations revealed significant improvements: total sperm concentration 
+increased from nil to 28 million/ml, progressive motility improved to 50%, and sperm 
+morphology normalized with 96% of sperm showing normal forms. Subjective symptoms 
+also showed remarkable improvement with the Insomnia Severity Index score reducing 
+from 18 to 8, and the Fatigue Severity Scale score reducing from 45 to 25. These findings 
+suggest that integrating Ayurvedic  medicine with conventional treatments can effectively 
+enhance fertility outcomes and overall quality of life in patients with azoospermia . The 
+study advocates for further research through larger clinical trials to validate and potentially 
+standardize this integrative treatment approach.   
+INTRODUCTIO N
+Azoospermia, often correlated with Shukra 
+Kshaya  in classical Ayurvedic  texts, represents a 
+significant male reproductive anomaly, characterized 
+by the complete absence of sperm in the ejaculate. In 
+modern medicine, azoospermia affects approximately 
+1% of the male population and accounts for about 10 -
+15% of cases of male infertility.[1] A comprehensive 
+understanding of this condition from both 
+contemporary and ancient perspectives is crucial for 
+developing effective treatment strategies.  
+From an Ayurvedic  standpoint, ancient texts 
+such as the 'Charaka Samhita ' and 'Sushruta Samhita ' 
+elaborate on Shukra Dhatu  (semen), emphasizing its 
+role in reproduction and general vitality.[2] These 
+scriptures categorize Shukra Dosha  disturbances into 
+various types, each having implications on fertility.  
+Access this article online  
+Quick Response Code   
+ https://doi.org/10.47070/ijapr.v13i4.3688  
+Published by Mahadev Publications (Regd.) 
+publication licensed under a Creative Commons 
+Attribution -NonCommercial -ShareAlike  4.0 
+International (CC BY -NC-SA 4.0)  Ayurvedic  scholars like Vagbhata  in 'Ashtanga 
+Hridayam'  have also documented treatments ranging 
+from Ayurvedic  treatments to dietary adjustments and 
+lifestyle modifications aimed at rectifying the 
+imbalanced Doshas  that contribute to azoospermia.[3] 
+Previous works highlight the relevance of 
+Panchakarma  (bio -purification procedures),  
+particularly  Basti  (medicated enema) which is often 
+recommended to tackle reproductive disorders.[4] 
+In terms of modern medical insights, 
+azoospermia can be due either to an obstruction 
+preventing sperm passage or a failure in sperm 
+production, classified respectively as obstructive and 
+non-obstructive azoospermia.[5] The pathophysiology 
+behind non -obstructive azoospermia involves 
+testicular dysfunction or hormonal imbalances 
+inhibiting sperm development, whereas obstructive 
+azoospermia is usually due to blockages in the ductal 
+system. Epidemiologically, general risk factors include 
+genetic conditions such as Klinefelter syndrome, 
+previous infections, surgeries and lifestyle factors like 
+smoking and exposure to toxins. 
+Annexure A
+Acharya Manish Ji  et al.  Resolving Azoospermia (Shukra Kshaya) with an Ayurvedic Approach   
+     IJAPR | April  2025 | Vol 13 | Issue 4  109  The Ayurveda  aspect of azoospermia's 
+pathogenesis or Samprapti , revolves around the 
+imbalance in the Vata and Pitta Doshas  along with 
+Dhatu kshaya  (depletion of tissues), particularly the 
+Shukra Dhatu . According to the principles of Ayurveda , 
+impairment in the diet and lifestyle that increases Vata 
+and Pitta  leads to the obstruction of the reproductive 
+channels ( Strotas ) and thereby causes Shukra Kshaya  
+(depletion of semen).[6] The restoration focuses on 
+Sodhana  (purification), Shamana  (pacification) and the 
+use of Rasayana  (rejuvenation) formulations aimed at 
+enhancing Shukra Dhatu . 
+Integrating these diverse viewpoints provides 
+a holistic understanding of azoospermia and supports 
+the formulation of a multifaceted treatment approach 
+combining the strengths of both Ayurveda  and Modern 
+medicine.  
+Case Report  
+Patient History and Information  
+The subject of this case study is a 37 -year -old 
+male recently diagnosed with azoospermia, presented 
+with symptoms of sleeplessness, fatigue and general 
+weakness. Despite these complaints, there was no 
+significant family history concerning genetic diseases 
+or fertility issues that could suggest a predisposition to 
+reproductive disorders. The patient had no notable 
+medical or surgical history that might correlate with 
+his current diagnosis. However, it was important to 
+note that the patient had a long -standing tobacco 
+addiction, which could be, impactful reason, to 
+established the links between tobacco use and reduced 
+semen quality. He was a married man and had one 
+child aged 13, suggesting that the onset of azoospermia 
+occurred after the birth of his child.  
+Diet and Lifestyle History  
+The patient’s diet was predominately reliant on 
+processed foods with minimal intake of fresh fruits, 
+vegetables and whole grains, which is not optimal for 
+overall health and might have contributed to his 
+symptoms. His lifestyle was sedentary, with minimal 
+physical activity, which must have influenced his 
+general feelings of fatigue and weakness. Furthermore, 
+the patient reported erratic sleep patterns exacerbated 
+by his job requirements that included irregular hours 
+and high levels of stress. These elements combined 
+illustrated a lifestyle that could potentially aggravate 
+Vata  and Pitta  doshas , according to Ayurvedic  principles, leading to the depletion ( Kshaya ) of Shukra 
+Dhatu  (reproductive tissue).  
+Medicine History  
+Previously, the patient had not pursued any significant 
+treatment for infertility but had occasionally used 
+over -the-counter slip aids and multivitamin 
+supplements. He reported no prior use of prescribed 
+allopathic or Ayurvedic  medications related to fertility 
+before his diagnosis.  
+Surgical History: The patient had no significant 
+surgical history.  
+Onset and Disease Progression  
+The diagnosis of azoospermia was confirmed 
+three months ago following an investigation into the 
+couple's difficulty conceiving. Initial semen analysis 
+revealed complete absence of spermatozoa in the 
+ejaculate, leading to further assessments by a urologist 
+specialized in male infertility. Subsequent 
+examinations, including hormonal profiles were 
+conducted to determine the subtype of azoospermia; 
+however, these investigations did not indicate  any 
+obstructive or anatomical anomalies, hence suggested 
+a non -obstructive azoospermia. This case study will 
+explore the effects of selected Ayurvedic  treatments 
+and their efficacy in managing and possibly reversing 
+this patient’s condition.  
+Vital Parameters  
+• Body Mass Index (BMI):  The patient presents 
+with a BMI of approximately 19.6 kg/m2 suggestive 
+of a normal BMI.  
+• Blood Pressure:  130/90 mmHg.  
+• Heart Rate:  Regular, at 86 beats per minute.  
+Samprapti of the Disease  
+Sukhradosha  in Ayurveda  refers to conditions 
+stemming from disorders of the Shukra dhatu , which 
+primarily affects reproductive health, manifesting as 
+issues like infertility, menstrual irregularities, or 
+impotency. The pathogenesis begins with causative 
+factors such as improper diet, lifestyle, or 
+psychological stress leading to an imbalance in the 
+three Doshas - Vata, Pitta, and Kapha . This imbalance 
+disrupts the Shukra dhatu  (reproductive tissue), 
+leading to its qualitative or quantitative decline. The 
+impairment subsequently affects the Shukravaha 
+Strotas , the channels responsible for transporting 
+reproductive tissues, causing conditions such as 
+obstructions, excessive activity or abnormal locations 
+of reproductive components.  
+ 
+ 
+ 
+ 
+ 
+ 
+Int. J. Ayur. Pharma Research, 20 25;13(4):108 -115  
+     Available online at: http://ijapr. in  110  Table 1 : Samprapti Ghataka  
+Ghataka  (Factor)  Details  
+Dosha  Vata, Pitta, and Kapha  
+Dushya  (Tissue)  Primarily Shukra Dhatu  
+Strotas  (Channel)  Shukravaha Strotas  
+Srotodushti ( Channel impairment type ) Sanga  (obstructi on), Atipravritti  (hyperacti vity), Vimargagamana  
+(ectopic m ovement), or Siragranthi  (constriction)  
+Agni  (Digestive/metabolic fire ) Dhatvagni , particularly Shukra Dhatvagni  
+Ama  (Toxic residue from improper 
+digestio n) Accumulation of Ama   
+Adhishthana  (Primary site of disease ) Reproductive organs  
+Roga Marga  (Pathway of disease ) Abhyantara Marga  
+Ayurvedic Examination  
+Table 2 : Ashtavidha Pariksha  (Eight -fold Examination)  
+S.No  Examination  Findings  
+1.  Nadi (Pulse)  Vata - Pittaja  
+2.  Mutra (Urine)  Ishat peeta  
+3.  Mala (Stool)  Abadh  
+4.  Jihva (Tongue)  Saam  
+5.  Shabda (Voice)  Spashta  
+6.  Sparsha (Touch)  Anushnasheeta  
+7.  Drik (Eyes)  Prakrita  
+8.  Akriti (Appearance)  Avikrita  
+Table 3 : Dashavidha  Pariksha  (Ten -fold Examination)  
+Sr.No  Examination  Findings  
+1.  Prakriti  (Constitution)  Vata Pitta  
+2.  Vikriti  (Imbalance)  Vata Pittaja  
+3.  Sara  (Tissue excellence)  Madhyam  
+4.  Samhanana  (Body build)  Moderate  
+5.  Pramana  (Body proportions)  Within normal limits  
+6.  Satmya  (Adaptability)  Moderate  
+7.  Satva  (Psychological strength)  Madhyam  
+8.  Ahara Shakti  (Digestive strength)  Madhyam  
+9.  Vyayama Shakti  (Exercise capacity)  Moderate  
+10.  Vaya  (Age)  Yuvavastha  
+Systemic Examination  
+• Cardiovascular and Respiratory Systems:  Both 
+systems presented as normal with no abnormalities 
+detected in heart rate, rhythm and lung sounds.  
+• Gastrointestinal System:  Abdominal examination 
+showed no signs of tenderness or masses, with 
+normal bowel sounds.  
+• Genitourinary System:  External genitalia and 
+testes were normal in appearance and texture, with 
+no palpable abnormalities.  • Neurological System:  The patient was alert with 
+fully intact cranial nerves, motor, sensory functions 
+and symmetrical reflexes.  
+• Endocrine, Musculoskeletal and Dermatological 
+Systems:  No evidence of hormonal imbalances such 
+as gynecomastia or abnormal hair distribution and 
+no joint issues or skin lesions were observed.  
+ 
+ 
+Acharya Manish Ji  et al.  Resolving Azoospermia (Shukra Kshaya) with an Ayurvedic Approach   
+     IJAPR | April  2025 | Vol 13 | Issue 4  111  Diagnostic Assessment   
+Laboratory Results  
+1. Sperm Analysis Done on 08/07/24 s/o of 
+Volume:  1.0 mL  
+a. Liquefaction time:  30 mins  
+b. Appearance:  Viscous, whitish grey  
+c. pH: 7.8 
+d. Total Sperm Concentrate:  Nil 
+e. Sperm Motility:  
+a. PR: Nil 
+b. NPM:  Nil 
+c. NM:  Nil 
+f. Sperm Viability:  Nil 
+g. Sperm Morphology:  Nil 
+h. Pus cells/WBC:  3% 
+i. Immature Germ cells:  Nil 
+j. Debris:  2% 
+Assessment Parameters Used in this Case Report  
+Objective Parameters - Semen Analysis  
+1. Total Sperm Concentrate[7] 
+• Scale : Count per millilitre (ml). Normal range 
+is ≥ 20 million/mL.  
+2. Sperm Motility : 
+• Scale : Classified into:  
+o PR (Progressive motility): Sperms moving 
+actively, either linearly or in a large circle, ≥ 
+32%.  
+o NPM (non -progressive motility): Sperms 
+move but do not progress forward, ≥ 60%.  
+o NM (Non -motile): Sperms that do not move, ≤ 
+75%.  
+3. Sperm Morphology[8] 
+• Scale : Percentage of sperms with normal 
+morphology. Normal range is ≥ 1 million/mL.  
+4. Sperm Viability : 
+• Scale : Viability percentage. Normal is ≥ 4%.  
+Subjective Parameters - Sleeplessness, Fatigue, and 
+Weakness  
+1. Sleeplessness (Insomnia)[9] 
+• Scale : Insomnia Severity Index (ISI), a 7 -item 
+self-report questionnaire assessing the nature, 
+severity and impact of insomnia. The total score 
+categorizes insomnia severity.  
+2. Fatigue[10] 
+• Scale : Fatigue Severity Scale (FSS), which has 9 
+statements that the patient rates from 1 
+(strongly disagree) to 7 (strongly agree) 
+regarding their fatigue levels.  
+3. Weakness[11] 
+• Scale : Medical Research Council (MRC) Scale for 
+Muscle Strength. This is a 6 -point scale ranging 
+from 0 (no muscle contraction) to 5 (normal 
+strength).  
+ Therapeutic Intervention  
+I. Ayurvedic  Diet Plan[12]  
+The dietary guidelines provided by Jeena Sikho 
+Lifecare Limited Hospital included the following key 
+commendations:  
+a. Foods to be avoided  
+• Do not consume wheat, refined food, milk and 
+milk products, coffee and tea and packed food.  
+• Avoid eating after 8 PM.  
+• During solid consume as small bite and chew 32 
+times.  
+b. Hydration:  
+• During water intake, take sip by sip and drink 
+slowly to ensure the amount of water intake each 
+time.  
+• Drink about 2 -3 liters of alkaline water 3 to 4 
+times throughout the day.  
+• Include Herbal tea, living water, and turmeric -
+infused water part of your daily routine.  
+• Boil 4 liters water and reduce up to 2 liters and 
+consume.  
+c. Millet Intake:  
+• Incorporate five types of millet into your diet: 
+Foxtail ( Setaria italica ), Barnyard ( Echinochloa 
+esculenta ), Little ( Panicum sumatrense ), Kodo 
+(Paspalum scrobiculatum ) and Browntop 
+(Urochloa ramose ). 
+• Use only steel cook wares for preparing the 
+millets  
+• Cook the millets only using mustard oil.  
+d. Meal Timing and Structure:  
+1. Early Morning (5:45 AM): Herbal tea, curry leaves 
+(1 leaf -1 min/5 leaves - 5 min) along with raw 
+ginger and turmeric.  
+2. Breakfast (9:00 -10:00 AM): The patient had 
+steamed fruits ( seasonal), steamed sprouts 
+(according to the season) and a fermented millet 
+shake (4 -5 types).  
+3. Morning Snacks (11:00AM): The patient given red 
+juice (150 ml) and soaked almonds.  
+4. Lunch (12:30 PM - 2:00 PM): The patient received 
+Plate 1 and Plate 2. Plate 1 included a steamed 
+salad, while Plate 2 with cooked millet -based dish.  
+5. Evening Snacks (4:00 – 4:20 PM): Green juice 
+(100 -150ml) along with 4 -5 almonds.  
+6. Dinner (6:15 -7:30 PM): The patient served a 
+steamed salad, chutney, and soup, as plate 1, along 
+with millet khichdi as Plate 2.  
+e. Fasting  
+• It is advised to observe one -day fasting.  
+f. Special Instructions  
+• Express gratitude to the divine before consuming 
+food or drinks.  
+• Sit in Vajrasana  (a yoga posture) after each meal.  

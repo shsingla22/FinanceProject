@@ -1,0 +1,136 @@
+ 
+ 
+ Larsen & Toubro Limited  
+Secretarial Department  
+L&T House, Ballard Estate  
+Narottam Morarjee Marg  
+Mumbai - 400 001, INDIA  
+Tel: +91 22 6752 5656    
+Fax: +91 22 6752 5858   
+www.Larsentoubro.com  
+Email: igrc@larsentoubro.com  
+CIN:L99999MH1946PLC004768  
+  
+ 
+ 
+ 
+SEC/202 6                                 February 18, 2026  
+ 
+ 
+BSE Limited  
+Phiroze Jejeebhoy Towers,  
+Dalal Street,  
+MUMBAI - 400 001  
+STOCK CODE: 500510  
+  
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Plot No.C/1, G Block  
+Bandra -Kurla Complex  
+Bandra (E), Mumbai - 400 051  
+STOCK CODE: LT  
+ 
+ 
+Dear Sirs,  
+ 
+Re :  L&T Teaming with NVIDIA to Build India’s Largest Gigawatt -
+Scale AI Factory  
+ 
+We enclose herewith a copy of Press Release that is being issued by the Company 
+today, in connection with the above.  
+ 
+We request you to take note of the same.  
+ 
+Thanking you,  
+      Yours faithfully,  
+         for LARSEN & TOUBRO LIMITED  
+                                                                                      
+ 
+ 
+ 
+                                        SUBRAMANIAN NARAYAN  
+                              COMPANY SECRETARY  &  
+COMPLIANCE OFFICER  
+               (ACS 16354 ) 
+ 
+ 
+ e LARSEN & TOUBRO 
+An ISO 9001:2015 Certified Department 
+ 
+Sensitivity: LNT Construction Internal Use   
+ 
+ 
+L&T Teaming with NVIDIA to Build India’s 
+Largest Gigawatt -Scale AI Factory  
+“Larsen & Toubro  to establish India as a global AI powerhouse 
+serving domestic requirements, global hyperscalers, cloud 
+providers, & enterprises as a strategic AI hub with NVIDIA AI 
+infrastructure”  
+Mumbai, February 18, 2026 — At the India AI Summit, Larsen & Toubro (L&T) today announce s 
+a proposed venture  under the India AI Mission to build sovereign, scalable GW-scale NVIDIA 
+AI factory infrastructure to reinforce India’s position as a global AI powerhouse . 
+This partnership is aimed at India’s enterprises, policymakers, industry leaders, global off 
+takers, and analysts seeking production -grade AI capacity anchored in India’s digital and 
+industrial transformation.  
+It integrates L&T’s engineering, infrastructure development, and execution with NVIDIA AI 
+infrastructure including NVIDIA GPUs, CPUs, Networking, NVIDIA -accelerated storage platforms 
+from leading providers, the NVIDIA AI Enterprise  software stack, and reference  architectures 
+to enable rapid, secure AI adoption. It will deploy AI -ready datacenter infrastructure, 
+advanced computing platforms, and ecosystem enablement required to support large -scale AI 
+workloads across priority sector s.   
+In alignment with the IndiaAI Mission, this venture will support the creation of sovereign AI 
+infrastructure that allows critical data, models, and AI workloads to be built, trained, and 
+deployed within India, while remaining interoperable with global ecos ystems. This sovereign 
+by-design fabric is intended to serve domestic requirements, global hyperscalers, cloud 
+providers, and enterprises looking to deploy large -scale AI capacity from India as a strategic 
+hub.   
+The venture plans to develop gigawatt -scale AI data center factory, providing AI -ready 
+capacity for high -density, next -generation workloads so customers can expand in India 
+efficiently and sustainably.  
+The venture will scale NVIDIA GPU cluster deployment at its Chennai DC up to 30 MW capacity 
+in its 300 acres Gigawatt scalable campus & at the new 40 MW Datacenter in Mumbai currently 
+under execution.  (fi} LARSEN & TOUBRO • • • • 
+L& T Press Release 
+Issued by Corpom:e Brand Management & Communications UT Mot.isi, 
+Ballard Ea1a1& Murrea• 400 001 
+TE-! 91 22 6752 5656 
+CIN l.9999!1MH l9A.6PlCOOo1 i'o8 
+ 
+Sensitivity: LNT Construction Internal Use   
+ 
+This AI factory model will be able to deliver advanced AI services to global off takers, 
+hyperscalers & India Inc, including manufacturing, infrastructure, energy, financial services, 
+healthcare, and public services thereby moving from experimentation to p roduction -scale 
+deployment. It is designed to provide standardized, enterprise -grade AI capabilities, enabling 
+predictable performance, security, and time -to value for industrial and services use cases.  
+ 
+This will also enable L&T & its group companies to deploy live AI agents on Sovereign Cloud, 
+fostering a self -sustaining innovation hub like LTTS’s Lights -Out Factory framework that 
+leverages NVIDIA Omniverse  libraries  to transform industrial operations, LTM’s Blueverse and 
+LTFS’s agentic AI deployment along with L&T’s own AI agents developed for internal 
+consumption.  
+Mr. S. N. Subrahmanyan, Chairman & Managing Director L&T added: “India’s enterprises are 
+ready to move from AI pilots to production -scale deployment. The investment establishes  the 
+foundation — secure, scalable, and sovereign infrastructure — required to power 
+manufacturing, energy, financial services, healthcare, and public services. With NVIDIA’s 
+platforms and L&T’s execution strength, we are building infrastructure that will enable AI to 
+deliver measurable economic impact.”  
+Mr. Jensen Huang, Founder and CEO of NVIDIA said: “AI is driving the largest infrastructure 
+buildout in human history —everyone will use it, every company will be powered by it, and 
+every country will build it. Prime Minister Modi has outlined a bold vision to democratize AI 
+access across the Global South and position India as a global hub for digital infrastructure. 
+Together with L&T —an 88 -year-old engineering and nation -building leader —we are laying the 
+foundation for world -class AI infrastructure that wil l power India’s growth and help realize the 
+full vision of India AI.”  
+The venture is enabling AI factories at national scale —sovereign by design, optimized for 
+accelerated computing, and ready to serve global and domestic AI demand, thereby advancing 
+India’s AI Mission and its vision of “Making AI in India and Making AI Work for India”.  
+Background:  
+Larsen & Toubro is a USD 30 billion Indian multinational engaged in EPC Projects, Hi -Tech Manufacturing, 
+and Services, operating across multiple geographies. A strong, customer –focused approach and the constant 
+quest for top -class quality have enabled L&T to attain and sustain leadership in  its major lines of business 
+for eight decades.  
+Media Contact:  
+Sumeet Chatterjee  
+Head - Corporate Brand Management & Communications  
+sumeet.chatterjee@larsentoubro.com  

@@ -1,0 +1,52 @@
+--- XML_FILE_CIM_WebXMLFile_20260731_183826255_2.xml (the exchange's structured disclosure) ---
+NSESymbol: AAVAS ; Name Of The Company: Aavas Financiers Limited ; Scrip Code: 541988 ; MSEISymbol: NOTLISTED ; ISIN: INE216P01012 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-07-31 ; Time Of Occurrence Of Event Or Information: 17:51:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-07-31 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Chairperson ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sandeep Tandon ; Effective Date Of Reason Of Change: 2026-07-31 ; Type Of Change: Appointment ; Name Of Designated Person: Vellur Gopalaraghavan Kannan ; Effective Date Of Reason Of Change: 2026-08-01 ; Term Of Appointment In Months: 60 ; Brief Profile: Mr. Kannan is a seasoned banking professional with over 40 years of leadership experience in the Banking, Financial Services and Insurance (BFSI) sector. He Joined the State Bank of India (SBI) as a Probationary Officer in 1978 and progressed to the Board position of Managing Director, overseeing SBI’s domestic subsidiaries and associate banks until July 2016. Prior to joining the SBI Board, he served as Managing Director & CEO of SBI Capital Markets Ltd., India’s leading investment banking subsidiary. He possesses extensive expertise in Credit & Risk Management, Treasury, Capital Markets, Investment Management, Agriculture & Rural Finance, MSME Banking, Insurance, Asset Management, Credit Cards, and Fund Management. He has held several key leadership positions within SBI, including Chief General Manager – Mid Corporate Group, managing funded assets exceeding ₹1.80 trillion; Head of Forex & Money Markets at SBI Central Treasury and SBI Hong Kong; Network General Manager, Chennai; and Assistant General Manager (Fixed Income Markets), SBI Corporate Treasury, Mumbai. As Managing Director (Associate Banks & Subsidiaries), he spearheaded the successful merger process of SBI’s five Associate Banks with SBI, completing one of the largest banking integration exercises in India within a year. Under his leadership, SBI’s subsidiaries delivered strong financial performance, enabling significant dividend contributions and paving the way for the subsequent listing of several subsidiaries. Post-retirement, he served as Chief Executive of the Indian Banks’ Association (IBA) from December 2016 to December 2019, acting as the principal spokesperson for the banking industry and working closely with regulators and the Government on policy, operational and systemic banking matters. Subsequently, he served as advisor to a large international investment fund specializing in stressed asset investments from November 2019 to March 2023, providing strategic guidance on investment and asset resolution opportunities. He also chaired the RBI-appointed Committee on ATM Interchange Fees (2019) and served as a Member of the RBI Committee on the Creation of a Secondary Market for Corporate Loans (2018). Additionally, he was a Permanent External Expert Member of the Regulatory Oversight Committee of the National Stock Exchange (NSE) from 2018 to 2024. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Kannan is not related to any director of the Company. ; Salutation: Mr. ; Name Of The Person: Sandeep Tandon ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-07-31 ; Effective Date Of Resignation: 2026-07-31 ; Reason Of Resignation In Brief: Mr. Sandeep Tandon has resigned as Chairperson and Non-Executive Independent Director of the Company due to personal and professional commitments. ; Name Of Director: Sandeep Tandon ; Name Of The Company In Which Holding Directorship: SYRMA SGS TECHNOLOGY LIMITED ; Category Of Directorship: Director ; Membership Of Board Committee: CSR Committee - Member ; Name Of The Company In Which Holding Directorship: 360 ONE WAM LIMITED ; Category Of Directorship: Independent Director ; Membership Of Board Committee: I.IT Strategy Committee - Chairperson II.SRC- - Chairperson III.NRC- Chairperson
+
+--- Resignation_letter_1.pdf ---
+Date: July 31,2026
+To,
+The Board of Directors
+Aavas Financiers Limited
+201-202 , 2nd Floor, Southend Square,
+Mansarovar Industrial Area,
+Jaipur, Rajasthan, 302020
+Subject: Resignation from the position of Independent Director and Chairperson
+of the Board.
+
+Dear Members of the Board,
+1.
+
+I hereby tender my resignation from the position of Independent Director and
+Chairperson of the Board of Directors of Aavas Financiers Limited with effect
+from the close of business hours on July 31 , 2026, due to personal and
+professional commitments. Consequently, I shall also cease to be a member
+and chairperson of all committees of the Board of Aavas Financiers Limited on
+which I am currently serving.
+
+2.
+
+I confirm that my resignation is due to the reasons set out above, and that there
+is no other material reason for my resignation.
+
+3.
+
+I would like to express my sincere gratitude to the Board, the management, and
+all stakeholders of the Company for the support and cooperation extended to
+me during my tenure. It has been a privilege to serve as an Independent
+Director and Chairperson of the Company.
+
+4.
+
+I request the Board to take note of my resignation and arrange to file the
+necessary forms, intimations, and disclosures with the Registrar of Companies,
+Stock Exchanges, and any other regulatory authorities as may be required
+under applicable laws.
+
+Thank you once again for the opportunity to have been associated with the Company.
+I wish the Company continued success in all its future endeavours.
+Yours faithfully,
+
+Sandeep Tandon
+DIN: 00054553
+Independent Director & Chairperson
+
+

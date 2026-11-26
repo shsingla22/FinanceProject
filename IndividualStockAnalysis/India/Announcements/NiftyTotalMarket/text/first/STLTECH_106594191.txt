@@ -1,0 +1,56 @@
+ 
+   
+   
+ 
+www.s tl.tech 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India.                                 
+CIN - L31300PN2000PLC202408  
+April 20, 2026 
+ 
+National Stock Exchange of India Limited 
+Exchange Plaza, 5th Floor, 
+Plot No. C-1, G Block, 
+Bandra Kurla Complex, Bandra (East) 
+Mumbai – 4000517  
+Scrip ID - STLTECH BSE Limited 
+Phirozee Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai – 400001 
+  
+Scrip Code - 532374  
+Sub: - Press Release – STL launches ‘Neuralis’ in the US: A high-performance Data Center portfolio 
+engineered for the AI era 
+ Ref.: Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 
+ 
+Dear Sir/Madam, 
+ 
+STL Optical Connectivity NA, LLC, (STLOC), a U.S. subsidiary of the Company announced the U.S. 
+launch of Neuralis, its flagship suite of data center connectivity solutions, at Data Center World 2026 in 
+Washington, D.C. A copy of the press rel ease in this regard is enclosed herewith. 
+ 
+Kindly take the above on record. 
+ Thanking you. 
+ 
+Yours faithfully, 
+For Sterlite Technologies Limited 
+ 
+ 
+ Mrunal Asawadekar 
+Company Secretary & Compliance Officer 
+Membership No.: A 24346 
+ 
+Enclosure: As above 
+  
+ 
+       
+ 
+www.stl.tech  
+Sterlite Technologies Limited Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                 CIN - L31300PN2000PLC202408   PRESS RELEASE                                              STL launches ‘Neuralis’ in the US: A high-performance Data Center portfolio engineered for the AI era Washington, United States, 20/April/2026: STL Optical Connectivity NA, LLC,  (STLOC),  a U.S. subsidiary of STL (Sterlite Technologies Ltd.) [NSE: STLTECH], a leading connectivity solutions provider for AI-ready digital infrastructure, today announced the U.S. launch of Neuralis, its flagship suite of data center connectivity solutions, at Data Center World  2026 in Washington, D.C. As AI, hyperscale computing, and edge workloads redefine the digital landscape, STL Neuralis emerges as the "central nervous system" for modern data centers. Drawing its name from the intricate, interconnected pathways of a neural network, STL Neuralis portfolio is designed to provide the seamless connectivity and ultra-high-speed processing power required to sustain today’s most demanding data center environments. 
+ Click here for the video – https://www.youtube.com/watch?v=e1E8D2Wyz5o Neuralis is the result of deep co-creation with STL’s customers, solving density and space challenges for data center builders. With a nationwide presence, STLOC is committed to helping U.S. Data Center operators scale their AI infrastructure with speed, reliability, and high-quality products. Modern AI data centers are shifting from traditional North-South traffic to intensive East-West traffic patterns, driven by front-end and back-end networks and AI training workloads. Neuralis addresses these challenges by offering a robust, integrated foundation that scales effortlessly. The STL Neuralis suite is categorized into two mission-critical pillars: • Maximizing the AI Whitespace: Utilizing ultra-high-density, MMC and MPO cabling, Neuralis supports the massive fiber counts required by GPU clusters. By moving terminations to the factory, STL reduces onsite labor risks and accelerates deployment timelines. 
+
+       
+ 
+www.stl.tech  
+Sterlite Technologies Limited Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                 CIN - L31300PN2000PLC202408  • High-Speed Data Center Interconnect (DCI): Engineered for the Data Center campus edge, this infrastructure ensures petabyte-scale data moves seamlessly. The flagship Celesta IBR series leads the industry with ultra-compact cables featuring up to 6,912 rollable ribbon fibers, available in SM A2 fiber with 8,12 & 16F ribbon, designed to withstand the intense thermal and safety demands of AI deployments. With the launch of STL Neuralis, STL further establishes its unique position as a fully vertically integrated partner with its customers, incorporating  the entire lifecycle of connectorization:  1. Ultra-Pure Preform: Creating the glass preform from silica  2. Fiber Drawing: Precision-pulling  fiber to exacting standards. 3. Advanced Cabling: Integrating fibers into the Celesta IBR series. 4. Connectorization: Delivering tested, plug-and-play pre-terminated assemblies and associated connectivity hardware. "AI demands a level of precision and density that traditional cabling simply cannot meet," said Ankit Agarwal, Managing Director, STL. "With STL Neuralis, we are providing the high-speed, low-latency foundation that allows GPU clusters to perform at their peak, moving complexity out of the field and into a controlled, high-precision factory environment." The launch of STL Neuralis marks a significant milestone in STL’s journey to enable customers in North America. By combining its state-of-the-art manufacturing capabilities in Lugoff, South Carolina, STL ensures that hyperscalers and Neoclouds providers can build future-ready AI infrastructure that meets the specific demands of the US digital economy. About STLOC – STL Optical Connectivity NA, LLC: STLOC,  a  U.S. subsidiary of STL, is focused on the design, manufacture, and sales of high-quality, advanced connectivity products for North American data center operators and customers. With sales and support personnel located throughout the United States, STLOC is strategically situated to enable it to effectively serve and support its growing clientele across the United States and North America. About STL STL (Sterlite Technologies Ltd.) is a global leader in advanced connectivity solutions, providing end-to-end solutions for building AI-ready infrastructure, FTTx, Rural, Enterprise and Data Centre networks. Read more | Contact us | stl.tech | Twitter | LinkedIn | YouTube For more information, contact:  Media Relations Shaily Rai Sinha Phone: +91 22 30450450 stl.communications@stl.tech Investor Relations Rahul Darak Phone: +91 22 30514000 investor@stl.tech    

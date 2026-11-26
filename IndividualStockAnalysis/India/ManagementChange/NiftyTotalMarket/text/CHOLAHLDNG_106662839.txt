@@ -1,0 +1,27 @@
+--- CIMG_504973_85202615950_CIM_WebXMLFile_20260613_232957313_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CHOLAHLDNG ; Name Of The Company: CHOLAMANDALAM FINANCIAL HOLDINGS LIMITED ; Scrip Code: 504973 ; MSEISymbol: NotListed ; ISIN: INE149A01033 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-05-08 ; Start Time Of Board Meeting: 12:00:00 ; End Time Of Board Meeting: 14:15:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Date Of Report: 2026-05-08 ; Type Of Change: Tenure completion ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Manager ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Ganesh ; Effective Date Of Reason Of Change: 2026-06-15 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Chief Financial Officer ; Type Of Change: Appointment ; Name Of Designated Person: Shyam Shankar ; Term Of Appointment In Months: 60 ; Brief Profile: A qualified Chartered Accountant and Cost Accountant with over 20 years of experience in senior finance roles within regulated financial services environments. Brings strong expertise in financial reporting oversight, audit governance, internal financial controls, and investor communications. ; Salutation: Mr. ; Name Of The Person: Ganesh ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-05-07 ; Effective Date Of Resignation: 2026-06-15 ; Reason Of Resignation In Brief: Mr. Ganesh has tendered resignation due to his other professional commitments. He has further conveyed that this decision is purely professional in nature and that there is no other material reason associated with the same.
+
+--- CIMG_504973_08052026150950_2.pdf ---
+Annexure B
+May 7, 2026
+To
+The Board of Directors
+Cholamandalam Financial Holdings Limited
+'Dare House', No. 234 NSC Bose Road
+Chennai - 600001
+Subject: Resignation from the position of Chief Financial Officer of Cholamandalam Financial Holdings
+Limited ("the Company")
+Dear Sir/ Madam
+I, N Ganesh, hereby tender my resignation from the position of Chief Financial Officer of the Company
+with effect from the close of business hours on June 14, 2026, due to my other professional commitments.
+Further, I wish to convey that this decision is purely professional in nature and that there is no other
+material reason associated with the same.
+I request the Board of Directors to kindly accept my resignation and take the same on record.
+I sincerely thank the Board of Directors and the management for their support, guidance, and cooperation
+during my tenure.
+I wish the Company continued success in the future.
+Thanks n regards,
+
+N Ganesh
+
+

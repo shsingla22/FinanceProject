@@ -1,0 +1,1269 @@
+
+=== page 1 ===
+ 
+12th June 2026. 
+ 
+National Stock Exchang e of India Limited, 
+“Exchange Plaza”, 
+Bandra-Kurla Complex, Bandra (East), 
+Mumbai-400051. BSE Limited, P.J. Towers, 
+Dalal Street, 
+Mumbai-400001. 
+ Dear Sirs, 
+ 
+Sub.: Investors’ Meet. 
+ In continuation to our earlier communication in the subject mat ter, enclosed please find the copy of the 
+Presentation, which is also availa ble on the website of the Com pany ( www.suzlon.com ). 
+ 
+This is for your information as also for the information of you r members and the public at large. 
+ Thanking you, 
+ Yours faithfully, For Suzlon Energy Limited 
+ 
+ 
+Geetanjali S.Vaidya, 
+Company Secretary.   
+Encl.: As above. 
+=== page 2 ===
+Industry Outlook
+=== page 3 ===
+Global electricity generation 
+has entered a structural super -cycle fueled by…Electricity generation CAGR per 10- year period (%)
+Sources: Energy Institute; Enerdata; EIA; IEA; BCG Analysis
+Note: Based on Enerfuture Base Case scenario, EIA Reference Case, IEA Stated Policies (STEPS). All decade intervals run from January 1 of the start yea r
+through December 31 of the end year. CAGR = compound annual growth rate; PWh= petawatt-hour.
+1. Includes data from Indonesia, Malaysia, Philippines, Singapore, Thailand, and Vietnam.Total absolute increase
+in global power generation 
+by decade
+2010-2019 +5300 TWh
+2020-2029 +7100 TWh
+2030-2039 +7400 TWh6
+0 06
+4
+25
+25
+3
+26
+4
+25
+3
+2 234
+3 34 4
+US Europe India China South 
+AmericaASEAN1 Africa Middle East2010- 2019 2020- 2029 2030- 2039
+India forecasted to have fastest growth pace over next 1.5 decade
+=== page 4 ===
+…structural demand drivers 
+across major economies (esp. China + India)Projected annual electricity growth by driver, 2025– 2030 (TWh)1 
+Sources: Energy Policy Simulator; Energy Institute; EIA; IEA; TSE Research; Vasudha (2024); BCG Analysis
+Note: Sectoral global split follows the IEA and BCG data center model. TWh = terawatt -hours.
+1. Data is for the EPS BAU and IEA STEPS scenario.Global split by driver (TWh)
+40
+580
+2030
+15202570
+1510 1050
+10530 30
+101
+China EU US India225
+The Global South is leading this shift -China and India alone are expected to drive 30% to 50% growth in 
+national consumption by 2030, with many ASEAN and African economies on similar trajectoriesData Centers +110- 170
+~3X jump in DC power demand by 2030
+Transport +120- 140
+50% of new vehicle sales electric by 2035; 50M EVs 
+already on road in 2025
+Buildings +240- 300
+~50% growth in floor area and building electrification 
+helps drive 3 ×rise
+Industry +300- 600
+Power for Green H2/molecules a significant driver 
+for growth
+Cooling +80-120
+AC to drive >20% of India's electricity demand growth 
+by 2030+350- 450 +90-120 +100- 130 +50-70
+=== page 5 ===
+Energy security is replacing 
+climate ambition as the primary policy driver –and renewables 
+form the backbone of an electro -stateTrajectories of China & Germany show that scaling renewables structurally 
+reduces dependence on imported energy
+Sources: IRENA; IEA World Energy Balances 2024; Energy Institute Statistical Review of World Energy 2024; World Bank WDI 
+(EG.IMP.CONS.ZS); Energy Institute Statistical Review of World Energy 2024; IEA World Energy Balances 2024; ODYSSEE-MURE Germany Country Profile; World Bank WDI (EG.IMP.CONS.ZS); Umweltbundesamt; BCG Energy Transition's Next Chapter (Sep25); BCG analysisNote: Counterfactual assumes each additional EJ of domestic RE directly displaces 1 EJ of fossil fuel imports (IEA marginal fuel convention for Germany). EJ 
+= exajoule;Energy security now cited 
+as #1 transition driver across 
+US, EU, China, and India policy 
+frameworks
+The policy shift from "climate 
+subsidy" to "energy sovereignty mandate" fundamentally changes the durability of RE policy —it is 
+now backed by national security logic as indigenous generation reduces import exposure and stabilizes industrial energy costs#1
+China: Growth economy –RE contained imports below what demand 
+growth would have implied
+Annual net energy imports and total energy consumption (EJ)Germany: Mature economy - imports fell in absolute EJ terms driven 
+by efficiency + accelerated by RE
+Annual netenergy imports andtotalenergy consumption (EJ) -Estimated
+Germany’s total energy 
+consumption has 
+declined via efficiency 
+levers + structural shifts 
+in economy
+15 ppt Reduction in 
+energy import ratio via RE
+2005 2010 2015 20200204060
+2000120
+100
+10 ppt Reduction 
+in energy import ratio via RE
+2005 2010 2015 202008
+2000121416
+10
+Total Energy Supply / TES (EJ) Actual Net Energy Imports (EJ) Net Energy Imports if no RE growth (EJ)
+=== page 6 ===
+2004006008001,0001,2001,400
+10
+02468
+01214%
+2010 2015 2019 2020 2021 2022 2023 2024 2025GWGlobally wind is sustainably 
+outpacing total power capacity growth; In India, Opportunity for Industry to drive inflection in trajectory to 13- 15 GW/yearGlobal | Wind has steadily increased power 
+capacity share to 13%; ~2X abs. capacity 
+growth in last 5 years
+Source: IRENA, GWEC, LBNL; NREL; IEA; CEA –Apr 2023; Teri Global | Wind installed capacity (GW) & share of total 
+installed capacity (%)India | Wind installed capacity (GW) & share of total 
+installed capacity (%)India | Accelerating pace of capacity addition 
+in recent years – need for industry to sustain 
+trajectoryIndia | All scenarios forecast 100GW+ (avg. 
+~130 GW) of wind by 2030; 13 -15 GW/year avg. 
+required pace
+India | Annual pace of wind addition needed to meet 2030 
+target wind capacity in scenario (GW/year)
+102030405060
+10
+02468
+01214%
+2010 2015 2019 2020 2021 2022 2023 2024 2025GW
+16
+22
+1010 20 30 0
+1514
+18
+Wind as % of Total Installed Capacity (%) -right axis Wind Installed Capacity (GW) - left axis
+
+=== page 7 ===
+Wind already on track to 
+become 100GW+ by 2030 …Planned supply mix for 2030 GW
+Source: LBNL; NREL; IEA; CEA – Apr2023; Teri; MEC+ analysis290 252 229 225 25225 14 2516 19 12 15 57131142 164103 330307220 293
+IEA  India Vision Case1563
+62 6476
+LBNL Least cost6 249 16
+Teri scenario19
+10059
+NREL Base case60
+CEA Base case656924862
+686778
+2
+12115
+1145
+All scenarios require 100 –164 GW wind →100 GW is the common minimum requirement
+Coal Hydro Solar Nuclear Storage Gas Others WindGeneral Consensus on avg. 130 GW Wind in India by 2030
+Optimal Generation Capacity Mixfor2030 
+=== page 8 ===
+… and even at projected 2047 
+capacity, accounts for <35% of total wind potentialWind Energy Potential in India at 150 m hub height (in GW)
+Source: India’s Wind Potential at 150m; NIWE; Global Wind Atlas; CII report "Energy transition for Viksit Bharat 2047”; CEA O ptimal Generation Mix 35-36• India has1,164 GW of wind potential, primarily concentrated in eight states
+• Rajasthan hasthehighest potential at 284 GW, followed byGujarat with 181 GW
+• With 56 GW of installed capacity , India still has1,108 GW of untapped wind energy potentialWind capacity addition is expected to reach 400 GW by 2047…… this will be 1/3rd of Wind Energy Potential of 1164 GW
+56
+100155400
+30
+FY30 FY26 FY47 FY36130+23%+7%95
+Tamil Nadu55
+Telangana55
+28428
+Others1,164
+Total Wind 
+PotentialAndhra 
+Pradesh123
+Karnataka169
+Maharashtra174
+Gujarat181
+Rajasthan Madhya 
+Pradesh
+=== page 9 ===
+Key Market Trends
+=== page 10 ===
+We see 3 key trends 
+for the industry to capitalize onDispatchability is the new value 
+driver & wind can play a critical role 
+in lowering system LCOE1
+Wind in India faces a supply (not 
+demand) gap; Building execution 
+capacity is a key unlock2
+ALMM (Wind) equalizing with global 
+frameworks –rewarding deep 
+domestic supply chains
+India's ALMM framework for wind turbines now 
+mirrors EU and US trade and industrial policy
+Both actively incentivise domestic content in 
+clean -energy manufacturing and tighten cyber -
+security in critical infrastructure
+This rewards OEMs and developers with deep, 
+localised supply chains, building durable 
+competitive advantage3
+Demand for wind in India is unambiguous —every 
+credible scenario requires 100+ GW by 2030
+The binding constraint is execution: wind trails on 
+delivery due to land acquisition, skilled -
+manpower, and grid -connectivity challenges
+Closing this execution gap will determine the realization rate of India's wind ambitionAs grids shift from baseload to peak -demand 
+logic, wind's evening profile naturally complements solar
+Paired with solar and storage, wind lowers system 
+LCOE by cutting the storage burden solar -only 
+FDRE requires
+Recent auctions validate this by pricing in wind's 
+firm-power contribution, not just generation cost
+=== page 11 ===
+EstimateImplications on capacity 
+planning given need for improved system dispatchability
+Source: Central Electricity Authority –Optimal Genration Mix & Capacity addition data
+Note: FY27- FY30E is.aderived path basis FY30E Optimal Generation MixSolar to lead absolute capacity addition (as low cost) 
+but growth to flatten/slow due to large surplus in 
+solar hoursNeed for storage (BESS + PSP) at urgent levels given 
+solar curtailement risks –capacity addition needs 
+~10x ramp up
+India annual capacity additions (GW) by source India annual BESS + PSP energy storage capacity addition required to be meet FY30 optimal mix 
+target (GWh)
+10203040506070
+0
+FY21GW
+FY23 FY24 FY25 FY26 FY27E FY28E FY29E FY30E FY22
+Solar additions (GW) —LHS Non-solar additions (GW) —LHSFY29E FY30E Cum. FY30E FY25 Cum. FY28E FY27E FY26E~10X
+In 5 years
+Inaddition tostorage, significant Wind capacity (~2x by 2030) needed to
+improve system dispatchability (as Solar +Wind +Storage creates ideal profile)1
+=== page 12 ===
+0246810
+114.517.120.121.2
+3.2 3.63.14.2
+19-May 20-May 21-May 18-May~5X2.34
+3.12
+3.35
+6.27Solar + BESS 
+Intraday
+Wind-Solar 
+Hybrid + 
+Peak Supply
+Solar+Bess 
+only FDRESolar 
+Standalone
++2.92Market trends show growing 
+role of wind in improving dispatchability of systemMerchant market dynamics indicate a growing 
+supply gap in evening/ night peaks which 
+command a premium
+Source: IEX Market Data –21st May 26‘, NLDC / SCADA daily generation reports, Select auction resultsBlock wise buy/sell bid ratio -21st May 26’ Night peak capacity –trailing week (GW)Wind plays a ~5x larger role than storage in 
+filling this gap; Recent week has shown a ~50% 
+uptick in night windRecent tender results also price wind’s 
+complementarity in FDRE at a Rs. 
+~2.9/kWh discount
+Feb-Mar 26’ select auction tariffs (Rs./kWh) Wind Storage
+Block wise market clearing price (Rs/kWh)  -21st May 26’
+02468101
+=== page 13 ===
+125250375500
+0
+246 0 1012141618202224 85 10 15 20 00100200300
+25Favorable profile driving 
+acceleration in pace of wind addition
+Source: CEA Optimal Generation Mix 2029–2030; MEC+ AnalysisAs we exceed 15% intermittent RE in Generation mix, continued solar heavy growth will accentuate Duck curve Forward looking solar addition pace to be capped by Wind and storage addition
+Current Contribution to Demand (GW)
+Hours of Day [0 = 12 midnight]125250375500
+0
+246 0 1012141618202224 8
+Therma Gas Solar Nuclea Wind HydroDuck CurveDuck Curve
+Flattening 
+the curve ...
+RE (Solar heavy) RE (with wind and storage)FY-32
+RE Curtailment1
+=== page 14 ===
+100200300
+0
+0 1 2 3 4 5 6 7 8 9MW
+11 12 13 14 15 16 17 18 19 20 21 22 23 10
+Wind+Solar+BESS Solar+BESSSolar+Wind+BESS Hybrid best 
+suited for meeting baseload 
+req. with 2 peak scenario whereas Solar+BESS preferred 
+for peak need augmentationSample power profile comparison of Solar+BESS and Solar+Wind+BESS
+2 discharge cycle for PV+Wind+Storage system between 5- 7AM and 10PM- 12AM
+Batt. Discharge for PV -Storage Hybrid Batt. Discharge for PV -Wind-Storage Hybrid1 discharge cycle for Solar+
+BESS between 6PM -10PM Similar power profile 
+during non- peak hours1
+=== page 15 ===
+20406080
+021%Allocated Capacity (GW)
+34%
+202339%
+202450%
+2025 2022… same reflected in share of 
+complex constructs in tendersShift already visible through increase in share of Hybrid/RTC tenders
+Source: Tender allocation data from public sources Standalone Solar Solar + ESS PV-Wind -Storage Hybrid Standalone Wind Complex Construct (%)2 PV-Wind Hybrid1
+=== page 16 ===
+Industry needs to ramp up 
+execution reliability to support growth momentumWind projects are running on avg. ~9 months delayed vs. ~3 months delay for Solar projects (for which few large 
+projects running ahead of schedule)
+Fewlarge solar and hybrid projects arerunning ahead ofschedule ; Negligible quantum forwind
+Source: Central Electricity Authority, Renewable Project Monitoring Division, Quarterly Report on Under -Construction RE Projects, December 2025250MW-10 -5 0 5 10 15 20 25 30 -15 40 45 50 35
+Anticipated delay from schedule CoD date (months)3 Months
+Avg. delay
+9 Months
+Avg. delaySolar
+HybridWind2
+=== page 17 ===
+Wind -specific industrial -policy 
+levers have converged across 
+India, EU, and US
+Tailwind for players with deep 
+domestic supply chains –to build durable 
+competitive advantage
+Source: Secondary research on select policy documentsLever India -ALMM (Wind), Jul 2025 EU -Wind Power Package &NZIA US -IRA 45X & Section 232
+National security 
+framingWind classified as critical infrastructure; 
+data sovereignty mandate (no real -time 
+data export)European Wind Charter signed by 26 member states + EC commits to "Made in Europe" wind supply baseSection 232 national -security investigation 
+into wind turbine imports launched Aug 2025 —tariffs likely 25 –50%
+Mandatory local 
+supply chainALMM -WTC component list: blades, towers, 
+gearboxes, generators & bearings must be 
+sourced from approved domestic vendors"Resilience" criterion mandatory in >30% of wind auction volume from Dec 2025Per-MW manufacturing tax credit for US -made wind 
+blades, nacelles, towers & offshore platforms
+In-country R&D / IPR&D centres & control systems must be physically located in India; domestic prototyping required for ALMM listing"Innovation" weighted as award criterion (15–30%); EU -developed IP preferred 
+in non -price scoringCredits tied to US -produced technology; 
+advanced energy project credit for US wind manufacturing facilities
+Cyber -security & 
+qualityWind farms must implement cyber risk-management; incidents reported to national CSIRT; type cert tailored to Indian conditionsCyber -security & data security as 
+mandatory pre -qualification criterion 
+under NZIA (binding from Jan 2026)NERC CIP cyber standards mandatory for grid-connected wind; FERC Order 2222 
+cyber compliance for aggregators
+Market access 
+enforcementNon-listed turbines barred from all government -
+supported tenders; physical plant inspection by 
+MNRENon-price criteria carry 15 –30% of auction scoring 
+weight; supply chain depth a pre -qualification 
+gateSteel/aluminium content already subject to50%
+Section 232tariffs from Aug2025; direct -pay credits 
+conditional on domestic content3
+=== page 18 ===
+We see 2 key themes in 
+conversations with the Industry: Need for execution certainty + shift towards integrated/firm constructsTheme 1 | Wind demand is unambiguous; Execution is 
+the binding constraintTheme 2 | Shift toward hybrid and firm- dispatchable 
+constructs as the new procurement norm
+“We want to do far more wind than we are doing —but we are struggling 
+to execute at the pace we need”
+—Central public -sector generator
+“Wind fits our tender load profile better than solar — but solar + BESS 
+gives us the execution certainty we need to bid.”
+—Large IPP
+“We need OEMs to deliver to schedule —execution reliability is now the 
+decisive factor”
+—Recurring theme, multiple customers“We need a hybrid profile to maximise our green replacement”
+—Cement major (C&I offtaker )
+“We will have to back down our thermal PPAs to accommodate must -run 
+solar —wind fits better with the load profile.
+—State Discom
+Net implication: Across central PSUs, DISCOMs, C&Iofftakers andlarge IPPs, theaskisnolonger thecheapest turbine —itisfirm, dispatchable REdelivered ontime
+=== page 19 ===
+Key considerations to capitalize 
+on the opportunity Value chain integration as the engine of
+market development#1
+E2E ownership required to build a competitive moat and lead the industry#2
+Efficiently managing risk for the customer requires controlling 
+the full asset lifecycle — from site development and turbine 
+supply through to long -term O&M and performance guarantees
+E2E players will command stronger customer relationships, higher margin capture, and a flywheel that pure -play 
+equipment suppliers cannot replicateThe market has moved from “who has the lowest turbine cost” to “who can deliver guaranteed firm power across a 25 -year 
+lifecycle”
+Players with the right vertical and technological stack stand 
+to capture greater share of 
+the opportunity
+=== page 20 ===
+Suzlon 
+Investor Meet 
+JUNE 2026
+=== page 21 ===
+© SUZLONSuzlon
+Seeded, shaped and 
+scaled the Indian wind marketThe challenge for wind
+Unviable technology to 
+support growthSuzlon innovated 
+for……growing the Industry and…
+ …delivering e2e growth 
+1 2 3 4
+Unattractive commercially 
+to drive scale 
+Tailored technology: Market -defining 
+products for Indian conditions
+Customer -first delivery: Reliability 
+and trust built into the offeringManufacturing excellence: Vertically 
+integrated production baseNew business model: End-to-end 
+delivery plus long -term wind parks
+1
+2
+3
+4
+100x scale- up to 56 GW
+20x turbine size, to 5 MW
+20 GW manufacturing base
+3x headroom, to 1.1 TW33% share, 18 GW fleet
+1,900 customers, 100 wind clusters
+Tech leadership for India
+20x turbine size, lowest carbon intensityDifferentiated model
+E2E, GW wind parks, lifetime serviceTwo decades of mfg leadership
+80% localisation + 2000 MSME suppliers
+1
+2
+3
+4
+=== page 22 ===
+© SUZLONSuzlon
+Strong Performance
+Stronger Momentum
+6,49710,85116,679
+FY24 FY25 FY267101,5502,456
+FY24 FY25 FY267142,0723,163
+FY24 FY25 FY261,0291,8573,022
+FY24 FY25 FY26Deliveries (MW) 58% YoY Revenue (₹ Cr.) 54% YoY EBITDA (₹ Cr.) 63% YoY PAT* (₹ Cr.) 53% YoY
+*Note: Based on Consolidated Financials| Includes Deferred Tax Recognition 
+=== page 23 ===
+© SUZLONMarket 
+Evolution
+FDRE the new normal across 
+all customer segments Wind complements 
+dispatchability and helps 
+lower system LCOEIndia one of the leaders with 
+5x growth by 2050
+E2E integrated delivery to 
+drive scale and value creation
+5
+ 4
+ 3World has entered an 
+electricity super -cycle with 
+2x growth by 2050
+1
+ 2
+5
+=== page 24 ===
+© SUZLONFour structural 
+market shifts powering the next growth phaseDispatchability is the next 
+key value driverBuilding execution capacity is a key unlock ALMM equalizing with global frameworks Large export opportunity in sight
+Wind naturally complements 
+solar through stronger evening 
+generation profile
+Wind + Solar + Storage 
+lowers system LCOE by 
+reducing storage and grid requirements
+Auctions increasingly reward 
+firm & dispatchable power value , not just generation costIndia requires 130+ GW of wind 
+capacity by 2030 for meeting non-solar peak demand
+Key execution bottlenecks includes –land, manpower, 
+infrastructure andgrid 
+connectivity
+Addressing these constraints is 
+critical to converting demand 
+into installed capacityIndia's ALMM framework 
+mirrors the direction of policy 
+across developed markets
+Policies are actively incentivizing 
+domestic content in clean 
+energy manufacturing
+Localized OEMs with deep 
+supply chains gain durable competitive advantageIndustrialization, electrification and data center expansion 
+driving electricity growth
+Geopolitical developments are 
+making energy security critical
+Supply- chains diversification and 
+growing preference forChina + 1 sourcing destinations1 2 3 4
+=== page 25 ===
+Late Shri. Tulsi Tanti‘s Dream
+“Be the best Renewable Energy 
+Company in the world”
+5
+
+=== page 26 ===
+Suzlon 2.0 
+Wind first, full- stack RE 
+solutions company
+JUNE 2026
+=== page 27 ===
+© SUZLONSuzlon 1.0 Suzlon 2.0 stack
+Technology
+“What we offer”Renewable Energy Landscape
+Wind
+RE Tech: Wind + Solar + Storage + RE Solutions stack Strategic outcomeSuzlon 2.0 Wind first, 
+full-stack RE solutions 
+companyRE Technologies
+Suzlon 2.0
+Wind
+Solar
+Storage
+EMS
+=== page 28 ===
+© SUZLONSuzlon 2.0 Wind first, 
+full-stack RE solutions 
+companyProject 
+DevelopmentEquipment Projects OMS
+Storage — — — —Solar — — — —
+End to End Wind Solutions
+Wind Solar Storage Not offered todaySuzlon 1.0
+Leading Wind Player
+WindSuzlon 2.0
+Wind First Full stack RE
+Project 
+DevelopmentEquipment Projects OMS
+StorageSolar
+End to End RE Solutions
+Wind Solar StorageWind
+End to End Solutions Strategic outcomeValue Chain
+=== page 29 ===
+© SUZLONGeographical ExpansionSuzlon 2.0 Wind first, 
+full-stack RE solutions 
+companyGlobal Wind Market
+Geography
+“Where we sell”Suzlon 1.0 Suzlon 2.0 stack
+India
+India + International: Global RE solutions footprint Strategic outcomeMENA Region South East Asia
+Europe +South America + AustraliaSuzlon 2.0
+India
+=== page 30 ===
+© SUZLONSuzlon 2.0 RE stackSuzlon 2.0 Wind first, 
+full-stack RE solutions 
+companyTechnology
+“What we offer”
+Value Chain“How we play”
+Geography
+“Where we sell”Suzlon 2.0 Suzlon 1.0 Suzlon 2.0 stack Strategic outcome
+Wind
+Solar
+Storage
+Energy Management Solutions
+RE DevCoRE Tech:
+Wind + Solar + Storage +
+RE Solutions stack
+RE DevCo + RE Projects + 
+RE AMS:
+End-to-end
+pipeline ownership
+India + International:
+Global RE solutions footprintWind
+Wind Project Development
+Wind Equipment
+Wind Projects
+Wind OMS
+IndiaRE Equipment
+RE Projects
+RE Asset Management
+India
+International
+=== page 31 ===
+© SUZLONSuzlon 2.0 aims to 
+reshape its business by FY31 through five 
+measurable 
+enterprise ambitions
+EPC Share India Wind40%+
+MARKET SHARE
+India Wind60%+
+BY FY31
+Co-Dev Share Exports3+ GW
+ORDER INTAKE
+Exports RE AUM70+ GW
+PORTFOLIO
+RE AUM India Wind25%+
+CAGR
+Revenue Growth
+=== page 32 ===
+© SUZLONSuzlon 2.0 
+5 Year Growth 
+PathDRIVER 01
+RE Order Book
+5.5 GWFROM
+15 GWTO~2.7×
+DRIVER 02
+RE Sales
+2.5 GWFROM
+10 GWTO~4×
+DRIVER 03
+RE AUM
+18 GWFROM
+70 GWTO~3.9×
+=== page 33 ===
+
+=== page 34 ===
+© SUZLONSuzlon 2.0 pillars are 
+centered around strong growth by solving key 
+industry challenges
+
+=== page 35 ===
+© SUZLONRE Tech
+Integrated and 
+Engineered Tech Solution for the project
+Challenges faced by customers
+WTGs not perfected for Indian conditions -real-world 
+power curve adherence is poor 
+No single OEM offers integrated solution (Wind + Solar 
++ BESS) -we are forced to switch OEMs and carry the 
+integration risk ourselves
+One integrated stack. One technology 
+partner. Built for India.
+Wind anchored -unmatched depth with 30 years of field 
+operations data and experience 
+One integrated technology portfolio across Wind, Solar, BESS
+Made- in-India, made -for-India, resilient supply chain across 
+technologies
+In-house Energy Management System —hardware and software 
+designed to work together
+
+=== page 36 ===
+© SUZLON
+Land, connectivity locked -in upfront. 
+Predictable delivery, every time.
+>50% of land secured and early grid connectivity locked in  
+before execution begins, lower IDC
+Captive control over Suzlon- developed sites —tighter discipline, 
+predictable cycles
+Co-development model —Suzlon brings de -risked pipeline, you 
+bring capital and offtake
+Project sales evolve into long- horizon partnerships through 
+framework agreements, not transactions
+Execution bottlenecks related to site -
+readiness
+Projects routinely delayed 6– 12 months due to land, 
+RoW, and connectivity issues
+Securing grid connectivity is getting harder every year 
+—the single biggest threat to the pipelineRE DevCo
+Shovel -ready projects 
+with end- to-end site 
+control
+=== page 37 ===
+© SUZLONRE DevCo
+Long -term visibility 
+and a de -risked 
+development pipelineTurning India’s development bottleneck into opportunity 
+Structural 
+constraints
+Suzlon’s Solution
+Today
+2-3 years
+With RE DevCo  15-18 monthsProject 
+Execution 
+Cycle Pre-developed sites 
+before customer 
+commitmentOnly player with a unique combination of capabilities creating a differentiated platform
+Integrated value chain 
+advantage
+End- to-end integrationProven co- development 
+modelStructural advantage 
+on-site
+•Validated through 3 years of incubation and pilot projects •Development of land, clearances and connectivity with in -house EPC execution
+Domestic manufacturing base
+•In-house WTG manufacturing with 
+strong supplier ecosystemTried & tested platform
+Long -term partnerships
+•3+ year co -development relationships 
+create visibility ahead of project awardsFungibility
+•All of Suzlon’s existing customers can benefit from this structural advantageSite expansion capabilities
+•Wind site can host both wind + solar (Hybrid) but not the other way around
+3-5 years
+of forward visibilityOnly solution
+to industry bottlenecksGreater
+volume pullLand acquisition 
+takes 12-18 
+monthsStatutory 
+clearances takes 
+6-12 monthsCTU/STU grid 
+connectivity takes 
+18-36 months
+Secures wind -rich
+land through local 
+relationshipsDecoupling of 
+development from execution
+Maintains a portfolio of 
+shovel -ready
+projectsLocks in grid 
+connectivity upfront
+=== page 38 ===
+© SUZLON
+Slow execution speed, 
+further challenged by need for FDRE
+Vendor ecosystem for RE projects is immature —reliable 
+EPC partners are hard to find
+Vendor capabilities siloed within Wind or Solar —almost 
+no cross -technology depth
+End to End full scope contracts hard to award —
+splitting scope needs more bandwidth, slows growth
+Full EPC contract. One partner. 
+Full RE stack.
+Wind EPC capability at scale —now extended to bundled Wind + 
+Solar + BESS FDRE delivery
+DevCo pull -through —projects arrive with land and connectivity 
+already secured
+Productionised execution — systematic compression of project 
+delivery cycle time
+Restores the option of full EPC contract to one partner —at 
+full scale
+RE Projects
+Productionized, full -stack 
+project delivery
+=== page 39 ===
+© SUZLON
+RE Projects
+Faster, fully de -risked 
+turnkey deliverySuzlon 2.0 will take it wider and deeper
+Sites Infra Installations Grid Comm.Technology solutions
+Project CapabilitiesWind+
+Solar+
+BESS EMS
+> > > >Expand addressable market by leveraging existing capabilities and infrastructure
+Wind Full RE•Project management 
+•Sub-contractor management 
+•Field service teams 
+•SCADA + monitoring 
+•Customer relationships
+•Regulatory navigation
+Capability overlap
+Buyer universe overlapExisting 
+customer 
+relationships 
+act as a 
+natural 
+channel to 
+cross -sellEfficient and economical execution
+Enhanced integrated value propositionSuzlon 2.0
++
+ +
+> > > >+
+=== page 40 ===
+© SUZLON
+Complex, long -life OMS needs;
+Non-core to the business
+OEMs may not exist for the 25- year asset life -OMS 
+quality is not up to the mark/ Spare availability issues
+Solar and BESS O&M with 3rdparties —OEMs not 
+partnering for full lifecycle
+Multiple 3rd party OMS service providers per customer  -
+increased work for driving efficiencies across the 
+portfolio 
+No single O&M provider across technologies —integrated 
+energy management is impossible
+One AMS partner. One platform. For 
+the full lifecycle.
+India's deepest wind AMS fleet —extended seamlessly to Solar 
+and BESS
+Digital- first, tech -enabled —predictive maintenance lowers 
+failures, lifts uptime
+Continuous Upgradation through Value added products 
+& services, Reliable Engineering team
+Repowering and life -extension at end- of-life —relationship 
+continues past warranty
+RE AMS
+Towards India's largest 
+RE asset management franchise —across every 
+technology
+=== page 41 ===
+© SUZLONRE AMS
+Target AUM of 70+ GWEvery MW sold 
+creates locked -in 
+revenue•Long term OMS visibility is integral to the turbine sales
+•Every MW commissioned enters the annuity base
+32 GW MBAMS TAM
+Massive Solar + BESS AMS •Fully synergistic – Know- how, Infrastructure, Manpower
+•35 GW available within 50 km radius of existing sites•Multi-brand expertise, 14 OEMs currently in AUM
+•Opportunity to grow the Renom AUM significantly
+SuzlonRenom
+SolarBESS
+=== page 42 ===
+© SUZLONInternational
+A known name, turning 
+stronger: Expands the market beyond IndiaMassive global opportunity
+Total Wind Installed 
+Capacity
+(end 2025)1,299 GW
+Capacity Addition in 
+2025 –Highest ever 
+Est. Wind Installed 
+Capacity (by 2030)165 GW
+2,000 GWWhat Is Driving Electricity Demand?
+Strong demand
+RE Adoption rising
+Repowering supercycle
+Geopolitics + “China -plus-one”•Industrialization, Electrification and Data center 
+expansion driving Electricity Growth
+•Recent Ukraine & Middle East crises have led to Energy Security becoming critical
+•Aging fleet, permitting & grid bottlenecks, efficient technologies
+•Diversification in sourcing, securing supply -chains, 
+partnering with preferred countriesExport Opportunity in Addressable Markets
+ReadinessLaunching Blue Sky Platform with 
+country/grid specific certifications
+Existing customer relationship with 
+6+ GW installations
+Establish
+ScaleEntry in select market with 3 GW 
+order intake 
+Becoming one of the leading player 
+in each of the selected marketsAdditional Repowering Opportunity 
+at ~18 GW16181921
+2027 2028 2029 2030
+=== page 43 ===
+© SUZLONFour integrated pillars 
+convert Suzlon's wind depth into scalable 
+solutions, execution, 
+and annuity value
+◎International:  Wind-led entry —solid product + certainty of execution + long -term serviceRE Tech
+Wind
+Continue to deliver market -defining turbines 
+–local & global Resilient supply chain, 
+cement leadership
+Solar
+One stop shop for customer for RE integration for project risk management Partner- sourced, asset -light
+Leverage ecosystem
+Storage
+Tailored for India BESS solution. BESS Pack Assembly + partnership for end use application with optimum design
+System IntegrationDigital layer of energy management with Suzlon hybrid controller + smart energy 
+management softwareRE Projects
+Wind EPC scale -Time compression
+Crash Project Delivery Cycle timeProductionized execution (Decentralized 
+Organization design with empowerment)
+FDRE EPC End to End Integration 
+leverage expertise of complex Wind EPC to 
+dive excellence in FDRE EPC. Single point accountability for RE Project integration
+DevCo Pull through for timely 
+completionReady projects with land + connectivityDelivery certainty for customers
+Reliable Vendor EcosystemLeveraging strong Vendor Ecosystem across Wind, Solar and StorageRE AMS
+Single point multi- Brand Wind AMS
+Lifetime AMS –Suzlon + multi -brand fleet 
+Value added products & services, Reliable Engineering team
+Responsive on ground Solar AMS
+Leverage existing OMS setups of wind clusters from 18 GW wind asset in service 
+Reliable BESS AMS 
+Quick TAT via pan -India service network 
+along with reliability in Warranty
+Digital first, tech -enabled
+Predictive maintenance
+Lower failure rates, better uptime, 
+customer experienceRE DevCo
+Predictable Project execution 
+Long-horizon partnership starting with 
+Joint Project Development
+Secured Project Connectivity
+>50% of land + early connectivity locked 
+in upfront Lowers late -stage execution risk
+Multi year Project Portfolio
+large scale multi -GW and long horizon 
+customer partnerships for assured CoD for year 3 -4-5Reduce construction risk De-coupling project development : Secure 
+site readiness before starting construction
+=== page 44 ===
+RE Tech
+=== page 45 ===
+© SUZLONWe design for 
+performance and quality
+Developing world -
+class technologies in 
+India and Europe
+We are advancing 
+from Wind to RE solutions
+Building the capabilities 
+needed for ongoing, long-term success
+We offer an 
+enhanced portfolio beyond turbines
+Leveraging experience 
+from the largest fleet in IndiaSuzlon 
+Technologyin Brief
+We keep advancing
+=== page 46 ===
+© SUZLON
+R&D Centers in Germany, Denmark and 
+Netherland
+Engineering capabilities in India 
+Overall 400+ Professionals across 4 countries
+State-of -the-art testing facilities for key 
+componentsSuzlon 
+Technology
+R&D Centers in Europe, 
+Detailed Engineering in India
+=== page 47 ===
+© SUZLONHighlights from 
+the Last 3 Years
+Selected achievements from a 
+period of strong growth and progress2023 2024 2025 2026S144 
+Launch 
+Entry into 3 MW 
+classAward for S144 
+received by ‘Wind Power Monthly’
+20 GW
+installed 
+worldwide, 
+across 17 countries
+Grid Simulator 
+developed to ensure product 
+grid complianceS144: India’s lowest 
+carbon footprint 
+WTG6.17g CO2
+kWhRepowering 
+workstream started for 2 
+MW turbines
+Blue Sky Launch 
+at Madrid Wind Fair
+For International
+Blue
+Sky
+First Turbine 
+Installation
+5.x MWHybrid Plant 
+Controller introduction
+Best 
+Turbine
+AI-powered 
+advanced tools
+incl. forecasting and 
+predictive maintenance
+
+=== page 48 ===
+© SUZLONWorld Class 
+Technology
+Our products are specifically 
+designed for India –We 
+make India’s low -wind sites 
+techno -commercially 
+feasibleHigh performant 
+rotor blades
+High lift profile blade 
+with flat back carbon 
+girder & advanced 
+aerodynamics.
+Optimal for Indians 
+dust heavy air.Local sourcing and a 
+robust supply chain
+>80% local sourcing from 
+Indian Tier -1 suppliers for our 
+S120 and S144 turbines.
+Making us less dependent on 
+global supply chain disruptions.Engineered to 
+minimize CO₂ emissions
+The S144’s 140 m lattice towers 
+use 100 tons less steel than a 
+competitor’s tubular tower. 
+2.5 less emissions due to use of  
+scrap-based, low -carbon steel. 
+Designed for a 25 -year 
+extended service life. 
+We design to cover 80% of the Indian market -from remote locations to well -accessible wind parksEngineered for 
+grid compliance
+Extensive expertise in grid 
+compliance and grid integration. 
+Advanced testing against site -
+specific grid requirements, 
+including voltage, frequency, and fault scenarios .
+Trusted by 
+Indian and international grid authorities.
+Rotor design is based on high-efficiency drive trains.High efficiency 
+balanced with 
+competitive costs
+Developed in 
+Europe –Detailed, 
+and manufactured in India
+We have R&D centers in 
+Denmark, Netherlands 
+and Germany.
+We optimize 
+and manufacture in India.
+
+=== page 49 ===
+© SUZLONTechnical 
+Highlights
+Driving wind energy 
+innovation
+Inhouse developed
+Allows for compliance with 
+Indian grid regulatory 
+requirements
+Successfully demonstrated: frequency 
+control, voltage regulation, and reactive power controlSuzlon Hybrid Park 
+Controller
+Industry -leading hub heights 
+of up to 160 m
+Innovative transition unit –
+holding together lattice and tubular sections 
+Easier Logistics compared to equivalent tubular towersOur lightweight 
+lattice towers
+High-resolution images of 
+inaccessible areas 
+Simultaneous capture of RGB and thermal imagery
+Inspection in both non-
+operational and loaded 
+operating statesWind turbine drone 
+inspection
+S144 HTV (High Temperature Variant) can operate in air temperatures up to 52 °C
+Soon be available for direct 
+ordering
+Existing S144 units can be upgraded with an HTV 
+packageS144 HTV – Suited for 
+harshest climates
+
+=== page 50 ===
+© SUZLONTesting & 
+Validation
+We design for high 
+qualityDuring turbine design, 
+we perform several tests, including:
+Blade life-cycle testing 
+Grid Compliance testing 
+Generator & Converter testing 
+Blade testing 
+in BarodaGrid Compliance 
+testing at 
+prototype site 
+Generator & 
+Converter testingOur goal is to deliver best -in-class turbines, which requires 
+extensive and rigorous testing across all critical components and 
+systems
+
+=== page 51 ===
+© SUZLONTurbine Portfolio 
+We have developed a strong portfolio 
+over the past years
+Our new Low- wind sites 
+flagshipOur new Mid – High Wind 
+sites flagshipThe current go -to turbine for 
+IndiaWe repower smaller 
+turbines to this version
+First Turbine installation in H1 2027 5.X First Turbine installed in May 2026Our established 
+products
+in 2-3 MW class
+Hub HeightMW Rating
+S120120 m
+2.10 MW
+105-140 m
+144 m
+S144
+3.15 –3.30 MW
+105-160 m
+S175
+5.x MW
+120-160 m
+163 m
+S163
+6.x MW
+119-149 m Our next 
+generation product 
+under development 175 m
+Blue Sky Platform
+=== page 52 ===
+© SUZLONRepowering 
+the S88
+50+% AEP 
+improvement possibleHigher AEP through 
+repowering
+Multiple repowering options available 
+for the S88 platform -increasing AEP by 
+up to 56% 
+Clear feasibility checklist 
+available for repowering 
+assessment Easy repowering feasibility 
+review
+S88 2.1 
+SFS5%
+S88 2.1 
+DFIG19%
+S97 2.1 S120 2.15%
+S120 
+Power 
+UpgradeS120 
+2.25100%52%157%Minimal structural modifications
+Only minor structural modifications 
+required, such as a tower adapter 
+ring installation 
+Tower adapter ring
+
+=== page 53 ===
+© SUZLONPortfolio of 
+Value- Added 
+Products
+Enhancing our turbine 
+portfolio with innovative, value -adding products
+Suzlon provides lifelong 
+service support of wind 
+energy projects
+15,000 MW service fleet
+4,000+ field technicians 
+90% repeat customersFleet Services
+Real -time SCADA data 
+available
+Strong turbine connectivity 
+Data security is a key priority
+Improves reliability, 
+flexibility, and operational 
+support SCADA
+Weather forecast and 
+SCADA data are merged
+AI models trained with 
+data
+AImodels generate and 
+continuously improve 
+live and day -ahead 
+power forecasts Power
+Forecasting
+Historic SCADA data is 
+analyzed using AI models 
+AImodels learn the 
+normal operational behavior
+Anomalies are detected in real -timePredictive 
+Maintenance
+
+=== page 54 ===
+Suzlon
+5.x MW
+
+=== page 55 ===
+
+=== page 56 ===
+© SUZLONSuzlon 2.0 
+differentiates through one accountable 
+partner across the full 
+RE lifecycleCustomer Value Proposition 03
+World- class products,
+locally tailored
+•Proven international R&D and IP, deployed through 
+Indian manufacturing scale 
+•Reliable RE partner –local + global footprintGlobal -grade tech, India cost base,
+export -competitive economicsCustomer Value Proposition 01
+One-stop shop for 100% of
+customer RE needs
+•Co-developed FDRE pipeline via DevCo → land + 
+STU + turnkey delivery
+•RTC-shaped energy outcomes, not just MW 
+suppliedIntegrated Wind + Solar + BESSCustomer Value Proposition 02
+Lifetime service partner
+across the RE portfolio 
+•India's largest wind AMS franchise, extended across Solar + BESS with international heritage 
+•Co-located portfolio management plus repowering 
+and life -extension at end of life Asset Management Services across RE Portfolio
+=== page 57 ===
+© SUZLONSuzlon 2.0 will create 
+value through full- stack 
+leadership, India -led 
+expansion and customer- centric 
+execution
+VECTOR 1
+Full- stack RE leadership
+Wind-anchored, Solar + BESS attached
+•One platform: DevCo → Tech → 
+Projects → AMS
+•Lead the FDRE shift; 
+own the lifecycle
+•Margin uplift from bundling + annuityVECTOR 2
+India first, world next
+Lead India, build selective beachheads
+•Reinforce India leadership position
+•Fuel growth with RE business 
+•Global expansion VECTOR 3
+Customer centricity
+Anchor relationships, not transactions
+•Multi- year tie -ups with large customers
+•Provide scale & certainty of execution for customers
+•AMS expanded to solar, BESS, multi-brand
+Wind heritage
+•Deepest India wind track record
+#1 Wind AMS fleetTech & R&D
+•Next-gen WTG platform
+•In-house BESS firmware, 
+EMSIndustrial base
+•India-anchored mfg
+•Resilient supply chainBalance sheet
+•Net-cash fuel for 
+new BU initiatives and Global expansionFoundational 
+CapabilitiesStrategic
+Vectors
+=== page 58 ===
+© SUZLONRE DevCo
+Shovel Ready ProjectsRE Projects
+End-to-end projects engineRE Asset Management
+Lifetime annuity engineRE Tech
+Integrated RE Solution
+25+ GW
+3-5 yr
+15+ GW
+40%+25%
+15%
+Tech. enabled 
+Manufacturing
+Asset -light60%
+Wind+Solar+
+Storage
+Reduced PDC
+Repowering40%
+15%
+Digital first
+VAS, VAP, EMSWind Market Size 
+Suzlon Market Share 
+(FY31 installations)Pipeline (next 5- yr RE)
+Forward Contract
+Storage approach
+Solar approachFirm RE orderbook%
+Wind Export Revenue1 
+Execution speed
+Additional UpsideCo-Dev share
+FDRE EPC Coverage
+Operating Model
+Enabling SolutionsMarket Share: Wind AUM (cum.)
+Market share: Solar + BESS
+Land + Connectivity Single end- to-end Solutions Provider Multi-tech, Multi -brand Resilient Supply Chain
+1. % of Total Wind Revenue
+=== page 59 ===
+© SUZLONSuzlon 2.0 
+5 Year Ambition
+EPC Share India Wind40%+
+MARKET SHARE
+India Wind60%+
+BY FY31
+Co-Dev Share Exports3+ GW
+ORDER INTAKE
+Exports RE AUM70+ GW
+PORTFOLIO
+RE AUM India Wind25%+
+CAGR
+Revenue Growth
+=== page 60 ===
+
+=== page 61 ===
+Vote of Thanks
+=== page 62 ===
+© SUZLONDisclaimerThispresentation andtheaccompanying slides (the“Presentation”), hasbeen prepared bySuzlon Energy Limited (the“Company”),
+solely forinformation purposes andDOES notconstitute anyoffer, recommendation orinvitation topurchase orsubscribe forany
+securities, andshall notform thebasis oforberelied oninconnection withanycontract orbinding commitment whatsoever inany
+jurisdiction .ThePresentation isnotintended toform thebasis ofortoberelied upon asadvise toanyinvestor oranyinvestment
+decision byaprospective investor .Nooffering ofsecurities oftheCompany willbemade except bymeans ofastatutory offering
+document containing detailed information about theCompany .
+ThisPresentation hasbeen prepared bytheCompany based oninformation anddatawhich theCompany considers reliable, including
+information derived from public sources thathasnotbeen independently verified .norepresentation orwarranty, express orimplied,
+whatsoever, isbeing made inrelation tothecorrectness, accuracy, reliability, completeness, orfairness oftheinformation, conclusion or
+opinions expressed herein .Thefinancial information included inthispresentation ispreliminary, unaudited andsubject torevision upon
+completion oftheCompany's closing andaudit processes .Norepresentation orwarranty whatsoever isgiven inrelation tothe
+reasonableness orachievability ofanyprojections contained inthePresentation orinrelation tothebases andassumptions underlying
+suchprojections andyoumust satisfy yourself inrelation tothereasonableness, achievability andaccuracy thereof .
+Certain matters discussed inthisPresentation may contain statements regarding theCompany’s market opportunity andbusiness
+prospects thatare,individually orcollectively, forward -looking statements .Such forward -looking statements arenotguarantees of
+future performance andaresubject toknown andunknown risks, uncertainties andassumptions thataredifficult topredict. These risks
+anduncertainties include, butarenotlimited to,theperformance oftheIndian economy andoftheeconomies ofvarious international
+markets, theperformance ofthewind power industry inIndia andworld -wide, theCompany’s ability tosuccessfully implement its
+strategy, theCompany’s future levels ofgrowth andexpansion, technological implementation, changes andadvancements, changes in
+revenue, income orcash flows, theCompany’s market preferences anditsexposure tomarket risks, aswellasother risks.Inevitably,
+some assumptions willnotmaterialize, andunanticipated events andcircumstances mayaffect theultimate financial results .TheCompany’s actual results, levels ofactivity, performance orachievements could differ materially andadversely from results expressed in
+orimplied bythisPresentation .TheCompany assumes noobligation toupdate orrevise anyforward -looking information contained in
+thisPresentation toreflect events orcircumstances thatarise after thedatemade ortoreflect theoccurrence ofunanticipated events .
+Anyforward -looking statements andprojections made bythird parties included inthisPresentation arenotadopted bytheCompany
+andtheCompany isnotresponsible forsuch third-party statements andprojections .Anyliability inrespect ofthecontents of,orany
+omission from, thisPresentation isexpressly excluded .
+Noresponsibility orliability isaccepted foranylossordamage howsoever arising thatyoumaysuffer asaresult ofthisPresentation
+andanyandallresponsibility andliability isexpressly disclaimed bytheManagement, theShareholders andtheCompany oranyof
+them oranyoftheirrespective directors, officers, affiliates, employees, advisers oragents .
+Nooffering oftheCompany’s securities willberegistered under theU.S.Securities Actof1933,asamended (the“Securities Act”).
+Accordingly, unless anexemption from registration under theSecurities Actisavailable, theCompany’s securities maynotbeoffered,
+sold, resold, delivered ordistributed, directly orindirectly, intotheUnited States orto,orfortheaccount orbenefit of,anyU.S.Person
+(asdefined inregulation Sunder theSecurities Act).
+Thedistribution ofthisdocument incertain jurisdictions mayberestricted bylawandpersons intowhose possession thispresentation
+comes should inform themselves about andobserve anysuchrestrictions .Anyfailure tocomply withthese restrictions mayconstitute a
+violation ofthelawsofsuchjurisdiction .
+=== page 63 ===

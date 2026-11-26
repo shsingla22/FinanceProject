@@ -1,0 +1,254 @@
+ 
+ 
+ 
+Date: December 15, 2025  
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001  
+ 
+BSE Scrip Code: 544642   
+National Stock Exchange of India Limited, 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+ 
+NSE Scrip Symbol: WAKEFIT  
+ 
+Subject: Intimation under Regulation 8(2) of the Securities Exchange Board of India 
+(Prohibition of Insider Trading) Regulations, 2015 (“PIT Regulations”)  
+ 
+Dear Sir/Ma’am,  
+ 
+This is to inform you that pursuant to Regulation 8(2) of the PIT Regulations, Wakefit 
+Innovations  Limited (“the Company”) has framed the Wakefit Prohibition of Insider Trading 
+Rules which includes Code of Practices and Procedures for Fair Disclosure of Unpublished 
+Price Sensitive Information  in accordance with Regulation 8(1) of the SEBI PIT Regulations.  
+ 
+A copy of the said Rules is enclosed herewith and has also been uploaded on the Company’s 
+website.   
+ 
+You are requested to kindly take the same on record .
+ 
+Thank you.  
+ 
+For Wakefit Innovations Limited  
+(Formerly known as Wakefit Innovations Private  Limited)  
+ 
+ 
+  
+Surbhi Sharma  
+Company Secretary and Compliance Officer  
+Membership Number: A 57349  
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+WAKEFIT INNOVATIONS  LIMITED  
+ 
+WAKEFIT PROHIBITION OF INSIDER TRADING RULES  
+ 
+Document version  Approved By  Date of approval  Date of Amendment  
+1.0 Board of Directors  November 27, 2025  - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+Table of Contents  
+ 
+1. Introduction  ................................ ................................ ................................ ................  3 
+2. Definitions ................................ ................................ ................................ ..................  3 
+3. Restriction on communication and trading by Insiders  ................................ .............  9 
+4. Trading when in possession of Unpublished Price Sensitive Information  ..............  10 
+5. Trading restrictions  ................................ ................................ ................................ .. 11 
+6. Chinese wall procedures  ................................ ................................ ..........................  15 
+7. Role and responsibilities of the Compliance Officer  ................................ ...............  15 
+8. Trading Plans  ................................ ................................ ................................ ...........  16 
+9. Disclosure requirements  ................................ ................................ ...........................  17 
+CODE OF FAIR DISCLOSURE OF UPSI  ................................ ................................ ... 18 
+10. Uniform and Universal dissemination of Unpublished Price Sensitive Information to 
+avoid selective disclosure  ................................ ................................ ................................ .. 18 
+11. Disclosure/dissemination of Unpublished Price Sensitive Information with special 
+reference to analysts and institutional investors  ................................ ................................  18 
+12. Responding to Market Rumours  ................................ ................................ ..............  20 
+POLICY FOR DETERMINATION OF LEGITIMATE PURPOSE  .........................  20 
+13. Determination of Legitimate Purpose  ................................ ................................ ...... 20 
+13.1  Digital Database  ................................ ................................ ................................ ....... 21 
+14. SDD Tab on JumpCloud  ................................ ................................ ..........................  21 
+15. Penalty for contravention of the Rules  ................................ ................................ ..... 21 
+16. Review and Amendment  ................................ ................................ ..........................  23 
+Annexure I  ................................ ................................ ................................ ........................  24 
+Annexure II ................................ ................................ ................................ .......................  26 
+Annexure III  ................................ ................................ ................................ .....................  28 
+Annexure IV  ................................ ................................ ................................ .....................  30 
+Annexure V  ................................ ................................ ................................ .......................  31 
+Annexure VI  ................................ ................................ ................................ .....................  32 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+1. Introduction  
+ 
+'Insider Trading' as understood under Indian law means trading in the securities of the Company by 
+persons while in possession of Unpublished Price Sensitive Information ("UPSI") and includes 
+procurement or communication of UPSI otherwise than for legitimate purposes, performance of duties 
+or discharge of legal obligations.  
+The Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015, as 
+amended (“SEBI PIT Regulations”) seek to govern the conduct of Insiders, connected persons and 
+persons who are deemed to be connected persons on matters relat ing to Insider Trading.  
+Insider Trading involves trading in the securities of a Company listed or proposed to be listed  by 
+connected or any persons in possession of or with access to UPSI  not available to the general public, 
+who can take advantage of or benefit from such Unpublished Price Sensitive Information. Trading in 
+securities by an ‘Insider’ is regarded as unfair when it is predicated upon the utilization of ‘inside’ 
+information to profit at the expense of other investors who do not have access to the same information.  
+SEBI PIT Regulations also mandates every listed company must formulate a code of conduct to 
+regulate, monitor and report insider trading by its employees and connected persons. Accordingly, the 
+Wakefit Prohibition of Insider Trading Rules, 2015 ( “Rules ”) are being adopted.  
+This Rules are only an internal Code of conduct and one of the measures to monitor Insider Trading by 
+Designated Persons. It shall be the responsibility of each person covered under the SEBI PIT 
+Regulations  and Comprehensive FAQs on SEBI PIT Regulations  to ensure compliance of the applicable 
+laws.  
+It is clarified that these Rules are pursuant to and in furtherance, and not in derogation, of the laws 
+applicable to insider trading in India.  
+2. Definitions  
+ 
+1. “Board of Directors ” or “ Board ”, in relation to a Company, means the board of directors of the 
+Company.  
+ 
+2. “Chief Investor Relations Officer ” shall mean the Chief Financial Officer of the Company  or 
+such other officer/employee as authorised by the Board .  
+ 
+3. “Chinese Wall”  means all information shall be handled within the organization on a need -to-know 
+basis and no Unpublished Price Sensitive Information shall be communicated to any person except 
+in furtherance of the Insider’s legitimate purposes, performance of duties or discharge of his legal 
+obligations.    
+ 
+4. “Company ” means Wakefit Innovations Limited  (Formerly known as Wakefit Innovations Private 
+Limited ). 
+ 
+ 
+ 
+4 
+ 
+5. “Compliance Officer ” means Company Secretary of the Company or any other senior officer, 
+designated so from time to time and reporting to the Board, who is financially literate and is capable 
+of appreciating requirements for legal and regulatory compliance under the Regulati ons, and who 
+shall be responsible for compliance of policies, procedures, maintenance of records, monitoring 
+adherence to the rules for the preservation of Unpublished Price Sensitive Information (UPSI), 
+monitoring of trades and the implementation of the C odes under the overall supervision of the 
+Board of the Company.  
+In the absence of a Company Secretary, the Board may authorise such other officer of the Company 
+to discharge duties of Compliance Officer under the SEBI PIT Regulations  
+6. “Connected Person ” means – 
+ 
+i. any person who is or has been, during the six months prior to the concerned act, associated with 
+a company, in any capacity, directly or indirectly, including by reason of frequent 
+communication with its officers or by being in any contractual, fiduciary o r employment 
+relationship or by being a director, officer or an employee of the company or holds any position 
+including a professional or business relationship, whether temporary or permanent, with the 
+company, that allows such a person, directly or indire ctly, access to unpublished price sensitive 
+information or is reasonably expected to allow such access.  
+ 
+ii. Without prejudice to the generality of the foregoing, the persons falling within the following 
+categories shall be deemed to be connected persons unless the contrary is established -  
+a. a relative of connected persons specified in clause (i); or  
+b. a holding company or associate company or subsidiary company; or  
+c. an intermediary as specified in section 12 of the Act or an employee or director thereof; or  
+d. an investment company, trustee company, asset management company or an employee or 
+director thereof; or  
+e. an official of a stock exchange or of clearing house or corporation; or  
+f. a member of board of trustees of a mutual fund or a member of the board of directors of 
+the asset management company of a mutual fund or is an employee thereof; or  
+g. a member of the board of directors or an employee, of a public financial institution as 
+defined in section 2 (72) of the Companies Act, 2013; or  
+h. an official or an employee of a self -regulatory organization recognised or authorized by 
+the Securities and Exchange Board  of India  ("SEBI "); or  
+i. a banker of the company; or  
+j. a concern, firm, trust, Hindu undivided family, company or association of persons wherein 
+a director of a company or his relative or banker of the company, has more than ten per 
+cent. of the holding or interest; or  
+k. a firm or its partner or its employee in which a connected person specified in sub -clause 
+(i) of clause 2.6  is also a partner; or  
+l. a person sharing household or residence with a connected person specified in sub -clause 
+(i) of clause 2. 6; 
+Note: A connected person is one who has a connection with the Company that is expected to 
+put him in possession of Unpublished Price Sensitive Information. Relatives and other 
+ 
+ 
+5 
+ 
+categories of persons specified above are also presumed to be connected persons, but such a 
+presumption is a deeming legal fiction and is rebuttable. This also includes persons who may 
+seemingly not occupy any position in the Company but are in regular tou ch with the Company 
+and its officers and are involved in the know of the Company’s operations, and any person who 
+would have access to or could access Unpublished Price Sensitive Information about any 
+Company or class of companies by virtue of any connecti on that would put them in possession 
+of Unpublished Price Sensitive Information . 
+ 
+7. “Contra Trade ’’ means a trade or transaction which involves buying or selling any number of 
+securities of the Company and within 6 months, trading or transacting in an opposite transaction 
+involving sell or buy following the prior transaction   
+ 
+8. “Designated Persons ” shall mean persons to be covered by the Rules  and so designated by the 
+Board in consultation with Compliance Officer and shall include :  
+i. Promoters, Directors and Key Managerial Personnel of the Company;  
+ii. Such e mployees of the Company in the finance department, human resource, legal, 
+marketing, secretarial department, IT department and any other department  including any 
+support staffs, who have access to  Unpublished Price Sensitive Information and  as 
+deemed necessary but excluding employees in the grades Junior Manager and below who 
+are based out of operations, procurement and sales units ;  
+iii. Employees of material subsidiaries of the Company designated based on their functional 
+role or access to unpublished price -sensitive information in the organization by their 
+Board of Directors;  
+iv. Chief Executive Officer and employees up to two levels below Chief Executive Officer 
+of the Company and material subsidiaries irrespective of their functional role in the 
+Company or ability to have access to Unpublished Price Sensitive Information;  
+v. Such other persons as may be identified by the Compliance Officer on a case -to-case 
+basis, who could be reasonably expected to have access to unpublished price -sensitive 
+information(s) relating to the Company and material subsidiaries.  
+ 
+9. “Dealing in securities ” or “ Trading in securities ” means and includes subscribing, redeeming, 
+switching, buying, selling, dealing, or agreeing to subscribe, redeem, switch, buy, sell, deal in any 
+securities, and "trade" shall be construed accordingly. It also includes creation/ invocation/ 
+revocation of pledge.  
+ 
+10. “Employee ” means every employee of the Company, including the Directors who are in 
+employment of the Company.  
+ 
+11. “Generally available information ” means information that is accessible to the public on a non - 
+discriminatory basis and shall not include unverified event or information reported in print or 
+electronic media.  
+ 

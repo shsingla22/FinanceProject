@@ -1,0 +1,29 @@
+--- ROD_VEDL_29042026_ROID_WebXMLFile_20260429_182059837_2.xml (the exchange's structured disclosure) ---
+NSESymbol: VEDL ; Name Of The Company: VEDANTA LIMITED ; Scrip Code: 500295 ; MSEISymbol: NOTLISTED ; ISIN: INE205A01025 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-04-29 ; Time Of Occurrence Of Event Or Information: 14:35:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-04-29 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 12849235 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Remarks For Website Dissemination: The Board of Directors has noted that Ms. Pallavi Joshi Bakhru (DIN: 01526618) will step down from the position of Independent Director of the Company with effect from the close of business hours on April 30, 2026. The cessation is consequent to her association as a Designated Partner at Grant Thornton Bharat LLP and the proposed appointment of Walker Chandiok & Co LLP, member firms of Grant Thornton International, as statutory auditors for certain Vedanta Group companies and is in order to ensure compliance with applicable independence and governance requirements. ; Date Of Report: 2026-04-29 ; Salutation: Ms. ; Name Of The Person: Pallavi Joshi Bakhru ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-04-29 ; Effective Date Of Resignation: 2026-05-01 ; Reason Of Resignation In Brief: The cessation is consequent to her association as a Designated Partner at Grant Thornton Bharat LLP and the proposed appointment of Walker Chandiok & Co LLP, member firms of Grant Thornton International, as statutory auditors for certain Vedanta Group companies and is in order to ensure compliance with applicable independence and governance requirements. ; Name Of Director: Pallavi Joshi Bakhru ; Name Of The Company In Which Holding Directorship: Hindustan Zinc Limited ; Category Of Directorship: Independent Director ; Membership Of Board Committee: Chairperson of Audit Committee Member of CSR Committee Chairperson of NRC, Member of COD Committee ; Name Of The Company In Which Holding Directorship: Neuland Laboratories Limited ; Membership Of Board Committee: Chairperson of SRC , Member of Audit Committee, Member of NRC and Member of CSR Committee ; Name Of The Company In Which Holding Directorship: Grant Thornton Advisory Private Limited ; Category Of Directorship: Director ; Membership Of Board Committee: NIL ; Name Of The Company In Which Holding Directorship: Ferro Alloys Corporation Limited ; Membership Of Board Committee: Member of Audit Committee ; Name Of The Company In Which Holding Directorship: Gabriel India Limited ; Membership Of Board Committee: Chairperson of Audit Committee, Member of CSR Committee and Chairperson of Risk Management Committee ; Name Of The Company In Which Holding Directorship: Tenon Facility Management India Private Limited
+
+--- ResignationLetter_1.pdf ---
+To
+The Board of Directors
+Vedanta Limited
+
+Date: April 29, 2026
+
+Subject: Resigna on from the posi on of Independent Director
+Dear Members of the Board,
+I hereby step down from the posi on of Independent Director of Vedanta Limited with eﬀect from the close of
+business hours on April 30, 2026.
+The resigna on is on account of my associa on with Grant Thornton Bharat LLP and the proposed appointment of
+Walker Chandiok & Co LLP, as statutory auditors of certain group companies of Vedanta Limited. Both ﬁrms are
+members of Grant Thornton Interna onal and the resigna on is to comply with applicable independence
+requirements and good corporate governance prac ces.
+I conﬁrm that my resigna on is solely for the reason stated above and that there are no other material reasons for
+my resigna on.
+Yours sincerely,
+
+Ms. Pallavi Joshi Bakhru
+DIN:01526618
+Independent Director
+
+Sensitivity: Internal (C3)
+
+

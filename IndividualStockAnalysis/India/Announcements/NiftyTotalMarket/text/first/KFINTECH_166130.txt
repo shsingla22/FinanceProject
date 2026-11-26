@@ -1,0 +1,346 @@
+CIN: L72400T G2017PL C117649 
+A 
+ 
+ 
+compliance.corp@kfintech.com  October 28 , 2024  CS&G/STX/ DQ2024 /09 
+1) National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+Scrip Symbol: KFINTECH  2) BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 543720  
+ 
+Sub.  : Outcome of Board Meeting and Submission of Standalone and Consolidated 
+Unaudited Financial Results  
+Ref. : Regulations 30 and 33 of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)  
+Dear Sir / Madam,  
+Further to our previous intimation bearing  reference no. CS&G /STX/ DQ2024/0 1 dated October  08, 
+2024 , pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, this is to 
+inform that the Board of Directors of the Company at its meeting held today i.e., October 28 , 2024 , 
+has inter -alia approved the standalone and consolidated unaudited financial results of the Compa ny 
+for the quarter and half-year ended September 30 , 202 4.  
+The Board meeting commenced at 03: 30 p.m. and concluded at 05:05  p.m.  
+Pursuant to Regulation 33 and other applicable provisions of the LODR Regulations, please find 
+enclosed herewith the standalone and consolidated unaudited financial results of the Compa ny for the 
+quarter and half-year ended September 30 , 202 4, along with the limited review reports thereon issued 
+by B S R and Co, Chartered Accountants, Statutory Auditors of the Company.  
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For KFin Technologies Limited  
+Alpana Kundu  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: F10191  
+Encl.: a/a  
+ 
+B S R and Co
+Chartered AccountantsSalarpuria Knowledge City, Orwell 
+B Wing, 6th Floor, Unit-3, Sy No. 83/1
+Plot No. 02, Raidurg
+Hyderabad – 500 081, India
+Telephone + 91 407 182 2000
+Fax + 91 407 182 2399
+Principal Office:
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco Center, 
+Western Express Highway, Goregaon (East), Mumbai - 400063
+Page 1 of 3Limited Review Report on unaudited consolidated financial results of KFin 
+Technologies Limited for the quarter ended 30 September 2024 and year to date 
+results for the period from 01 April 2024 to 30 September 2024 pursuant to Regulation 
+33 of Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, as amended
+To the Board of Directors of KFin Technologies Limited
+1. We have reviewed the accompanying Statement of unaudited consolidated financial results of KFin 
+Technologies Limited (hereinafter referred to as “the Parent”), and its subsidiaries (the Parent and its 
+subsidiaries together referred to as “the Group”) and its share of the net profit after tax and total 
+comprehensive income of its associate for the quarter ended 30 September 2024 and year to date 
+results for the period from 01 April 2024 to 30 September 2024 (“the Statement”), being submitted by 
+the Parent pursuant to the requirements of Regulation 33 of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended ("Listing 
+Regulations").
+2. This Statement, which is the responsibility of the Parent’s management and approved by the Parent’s 
+Board of Directors, has been prepared in accordance with the recognition and measurement 
+principles laid down in Indian Accounting Standard 34 “ Interim Financial Reporting ” (“Ind AS 34”), 
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally 
+accepted in India and in compliance with Regulation 33 of the Listing Regulations. Our responsibility 
+is to express a conclusion on the Statement based on our review.
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial 
+information consists of making inquiries, primarily of persons responsible for financial and accounting 
+matters, and applying analytical and other review procedures. A review is substantially less in scope 
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable 
+us to obtain assurance that we would become aware of all significant matters that might be identified 
+in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange 
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+4. The Statement includes the results of the following entities:
+S No Name of the component Country Relationship
+1 KFin Technologies (Bahrain) W.L.L. Bahrain Subsidiary
+2 KFin Technologies (Malaysia) SDN. BHD. Malaysia Subsidiary
+3 KFin Services Private Limited India Subsidiary
+4 Hexagram Fintech Private Limited India Subsidiary
+5 Hexagram Fintech SDN. BHD. Malaysia Subsidiary
+B S R and Co
+Limited Review Report (Continued)
+KFin Technologies Limited
+Page 2 of 36 KFin Global Technologies (IFSC) Limited India Subsidiary
+7 WebileApps (India) Private Limited India Subsidiary
+8 WebileApps Technology Services Private Limited India Subsidiary
+9Fintech Products and Solutions (India) Private Limited 
+(disposed off w.e.f. 03 July 2024)India Associate
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based 
+on the consideration of the review reports of the other auditors referred to in paragraph 7 below, 
+nothing has come to our attention that causes us to believe that the accompanying Statement, 
+prepared in accordance with the recognition and measurement principles laid down in the aforesaid 
+Indian Accounting Standard and other accounting principles generally accepted in India, has not 
+disclosed the information required to be disclosed in terms of Regulation 33 of the Listing Regulations, 
+including the manner in which it is to be disclosed, or that it contains any material misstatement.
+6. We draw attention to Note 3 of the statement of unaudited consolidated financial results for the quarter 
+and for the period from 01 April 2024 to 30 September 2024, where the pre-amalgamated Company 
+was the Registrar and Transfer Agent (“RTA”) of a past client (“the Client”) until 5 April 2021. The 
+Client had a demat account with one of the Depository Participants (“DP”) for depositing its shares in 
+escrow for the purposes of its initial public offering (“IPO”). The Parent Company identified that 
+1,294,489 shares were transferred by the DP (in 2011 and 2020) from the said escrow account of the 
+Client to the DP’s own demat account and to a Third Party’s demat account through an off-market 
+transaction without any authorisation from the Client. The Board of Directors of the Parent Company 
+after considering legal advice transferred 1,294,489 shares to the escrow account of the Client on a 
+‘good faith and no fault’ basis, after reducing the amount payable upon redemption, in future, of the 
+Redeemable Preference Shares issued in October 2021, by INR 300 million, pursuant to an indemnity 
+clause contained in the agreement for the issuance of such Redeemable Preference Shares. The 
+dividend received on such shares by the Parent Company in the financial year 2021-22 of INR 4.08 
+million was also transferred back to the Client. 
+The Parent Company has recognised an amount of INR 81.34 million as a provision as of 30 
+September 2024 in the statement of unaudited consolidated financial results related to potential 
+claims by the Client (including dividends on such shares for the earlier periods). Pending the final 
+settlement of terms to be agreed with the Client, the Parent Company has measured the said provision 
+at its best estimate. The Parent Company will initiate proceedings against the concerned parties, 
+including certain minority shareholders, for recovery of the amount paid and payable by the Parent 
+Company to the Client in connection with this matter upon completion of final settlement with the 
+Client.
+Our conclusion is not modified in respect of this matter.
+B S R and Co
+Limited Review Report (Continued)
+KFin Technologies Limited
+Page 3 of 37. We did not review the financial information of 6 subsidiaries included in the Statement, whose financial 
+information reflects total assets (before consolidation adjustments) of INR 531.09 million as at 30 
+September 2024 and total revenues (before consolidation adjustments) of INR 185.93 million and 
+INR 348.77 million, total net profit after tax (before consolidation adjustments) of INR 23.23 million 
+and INR 29.94 million and total comprehensive income (before consolidation adjustments) of INR 
+27.66 million and INR 34.58 million, for the quarter ended 30 September 2024 and for the period from 
+01 April 2024 to 30 September 2024 respectively, and cash flows (net) (before consolidation 
+adjustments) of INR 11.64 million for the period from 01 April 2024 to 30 September 2024. as 
+considered in the Statement. This interim financial information has been reviewed by other auditors 
+whose reports have been furnished to us by the Parent’s management and our conclusion on the 
+Statement, in so far as it relates to the amounts and disclosures included in respect of these 
+subsidiaries, is based solely on the reports of the other auditors and the procedures performed by us 
+as stated in paragraph 3 above.
+Certain of these subsidiaries are located outside India whose interim financial information has been 
+prepared in accordance with accounting principles generally accepted in their respective countries 
+and which has been reviewed by other auditors under generally accepted auditing standards 
+applicable in their respective countries. The Parent’s management has converted the interim financial 
+information of such subsidiaries located outside India from accounting principles generally accepted 
+in their respective countries to accounting principles generally accepted in India. We have reviewed 
+these conversion adjustments made by the Parent’s management. Our conclusion in so far as it 
+relates to the balances and affairs of such subsidiaries located outside India is based on the reports 
+of other auditors and the conversion adjustments prepared by the management of the Parent and 
+reviewed by us.
+Our conclusion is not modified in respect of this matter.For B S R and Co
+Chartered Accountants
+Firm’s Registration No.:128510W
+Amit Kumar Bajaj
+Partner
+Hyderabad Membership No.: 218685
+28 October 2024 UDIN:24218685BKGPPY5472AMIT 
+KUMAR 
+BAJAJ Digitally signed by 
+AMIT KUMAR BAJAJ 
+Date: 2024.10.28 
+16:22:02 +05'30' 
+KFin Technologies Limited 
+CIN: L72400TG2017PLC117649 
+Registered office address: Selenium, Tower B, Plot No-31 & 32, Financial District, Nanakramguda, Serilingampally, Hyderabad, Rangareddi, Telangana -500032 
+Statement of unaudited consolidated financial results for the quarter and half-year ended September 30, 2024 
+SI. Particulars No. September 30, 2024 
+(Unaudited) 
+Income 
+1 Revenue from operations 2,804.74 
+2 Other income 105.45 
+Total income 2,910.19 
+3 Expenses 
+Employee benefits expense 1,017.51 
+Finance costs 10.80 
+Depreciation, impairment and amortisation expense 165.33 
+Other expenses 521.87 
+Total expenses 1,715.51 
+4 Profit before share of loss of associate and tax (1 + 2-3) 1,194.68 
+5 Share of loss of associate (net of tax) -
+6 Profit before tax (4+5) 1,194.68 
+7 Tax expense 301.46 
+8 Profit for the period/ year ( 6-7) 893.22 
+9 Other comprehensive income ("OCI") 
+A. Items that will not be reclassified subsequently to statement of profit or loss 
+Remeasurement of defined benefit plans -
+Income tax relating to remeasurement of defined benefit plans -
+B. Items that will be subsequently reclassified to statement of profit or loss 
+Exchange differences on translation of foreign operations 14.36 
+IO Total comprehensive income for the period/ year (8+9) 907.58 
+11 Earnings per equity share (Face value on. 10 per share fully paid) inf.* 
+Basic 5.21 
+Diluted 5.16 
+12 Paid up equity share capital -Face value oH. IO per share 1,714.07 
+13 Other equity 
+(• Not annualised for the periods) Consolidated 
+Quarter ended 
+June 30, 2024 September 30, 2023 
+(Unaudited) (Unaudited) 
+2,375.62 
+80.86 
+2,456.48 
+958.36 
+11.65 
+147.78 
+420.63 
+1,538.42 
+918.06 -
+918.06 
+237.34 
+680.72 
+--
+0.09 
+680,81 
+3.98 
+3.94 
+1,713.20 
+for and on behalf of the Board of Directors of 
+KFin Technologies Limited 
+CIN: L72400TG2017PLC117649 
+Digit.ally signed byVENKATA SANA 
+NAGA SREEKANTH NADELLA 
+Date: 2024.10.28 16:07:55 +05'30' 
+Venkata Satya Naga Sreekanth Nadella 
+Managing Director and Chief Executive Officer 
+DIN: 08659728 
+Place: Hyderabad 
+Date: October 28, 2024 2,089.72 
+63.00 
+2,152.72 
+759.76 
+32.04 
+125.70 
+393.30 
+1,310.80 
+841.92 
+(4.80) 
+837.12 
+223.33 
+613.79 
+--
+1.20 
+614.99 
+3.62 
+3.58 
+1,702.54 Half-year ended 
+September 30, 2024 September 30, 2023 
+(Unaudited) (Unaudited) 
+5,180.36 3,904.75 
+186.31 116.16 
+5,366.67 4,020.91 
+1,975.87 1,515.47 
+22.45 61.53 
+313.11 250.02 
+942.50 748.34 
+3,253.93 2,575.36 
+2,112.74 1,445.55 - (9.90) 
+2,112.74 1,435.65 
+538.80 388.11 
+1,573.94 1,047.54 
+- 21.18 - (5.33) 
+14.45 (3.04) 
+1,588.39 1,060.35 
+9.19 6.17 
+9.11 6.11 
+1,714.07 1,702.54 (~. in millions) 
+For the year ended 
+March 31, 2024 
+(Audited) 
+8,375.33 
+246.51 
+8,621.84 
+3,196.64 
+84.35 
+530.20 
+1,512.75 
+5,323.94 
+3,297.90 
+(24.08) 
+3,273.82 
+813.34 
+2,460.48 
+(1.54) 
+0.39 
+(3.28) 
+2,456.05 
+14.46 
+14.34 
+1,709.89 
+9,700.01 
+Segment information: (t. in millions) 
+Consolidated 
+SL Particulars Quarter ended Half-year ended For the year ended 
+No. September 30, 2024 June 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 March 31, 2024 
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited) 
+1 Segment revenue 
+Domestic mutual fund investor solutions 1,983.49 1,743.30 1,430.09 3,726.79 2,735.50 5,864.97 
+Issuer solutions 417.92 267.15 345.75 685.07 583.90 1,274.12 
+International and other investor solutions 323.60 272.72 224.67 596.32 399.48 887.94 
+Global business services 79.73 92.45 89.21 172.18 185.87 348.30 
+Total revenue 2,804.74 2,375.62 2,089.72 5,180.36 3,904.75 8,375.33 
+2 Segment results 
+Domestic mutual fund investor solutions 1,198.20 1,010.98 842.74 2,209.18 1,576.97 3,370.29 
+Issuer solutions 219.20 102.34 159.22 321.54 246.52 608.27 
+International and other investor solutions 45.83 6.51 12.22 52.34 0.61 42.60 
+Global business services 42.70 59.43 52.95 102.13 116.68 209.96 
+Total 1,505.93 1,179.26 1,067.13 2,685.19 1,940.78 4,231.12 
+Unallocated (expenses)/ income 
+(a) Unallocable expenses (405.90) (330.41) (260.97) (736.31) (559.76) (1,119.46) 
+(b) Finance costs (10.80) (11.65) (32.04) (22.45) (61.53) (84.35) 
+( c) Other income 105.45 80.86 63.00 186.31 116.16 246.51 
+Profit before tax 1,194.68 918.06 837.12 2,112.74 1,435.65 3,273.82 
+3 Tax expense 301.46 237.34 223.33 538.80 388.11 813.34 
+4 Profit for the period/ year 893.22 680.72 613.79 1,573.94 1,047.54 2,460.48 
+5 Segment assets 
+Domestic mutual fund investor solutions 7,339.30 7,136.56 6,754.11 7,339.30 6,754.11 6,743.11 
+Issuer solutions 994.13 887.43 996.30 994.13 996.30 916.18 
+International and other investor solutions 1,761.06 1,580.97 1,268.21 1,761.06 1,268.21 1,607.53 
+Global business services 165.34 198.41 161.92 165,34 161.92 152.05 
+Total 10,259.83 9,803.37 9,180.54 10,259.83 9,180.54 9,418.87 
+Unallocated 5,043.84 5,373.62 4,988.53 5,043.84 4,988.53 4,768.05 
+Total 15,303.67 15,176.99 14,169.07 15,303.67 14,169.07 14,186.92 
+6 Segment liabilities 
+Domestic mutual fund investor solutions 512.13 510.03 506.14 512.13 506.14 476.95 
+Issuer solutions 88.48 89.40 107.30 88.48 107.30 87.40 
+International and other investor solutions 134.27 59.85 58.30 134.27 58.30 59.98 
+Global business services 23.30 24.52 28.86 23.30 28.86 22.09 
+Total 758.18 683.80 700.60 758.18 700.60 646.42 
+Unallocated 2,386.45 2,312.10 3,573.35 2,386.45 3,573.35 2,130.60 
+Total 3,144.63 2,995.90 4,273.95 3,144.63 4,273.95 2,777.02 
+(a) The Group is engaged m followmg busmess segments : Domestic mutual fund mvestor solutions, Issuer solutions, International and other mvestor solutions and Global busmess semces. Based on the "Management approach" as defined m 
+Ind AS 108 -'Operating Segments', the Chief Operating Decision Maker ('CODM') evaluates the Group's performance and allocates resources based on an analysis of various performance indicators by business segments . The accounting 
+principles used in the preparation of the fmancial results are consistently applied to record revenue and expenditure in individual segments. 
+(b) Segment result represents the profit before interest and tax earned by each segment without allocation of central administrative costs and other income. 
+(c) As allowed under Ind AS 108-"Operating Segments", the segment information disclosed above is based on the consolidated fmancial results. 
+for and on behalf of the Board of Directors of 
+KFin Technologies Limited 
+CIN: L72400TG2017PLC117649 
+Digitally signed byVENKATASATYA 
+NAGA SREEKANTH NADELLA 
+Date: 2024.10.28 16:08:34 +05'30' 
+Venkata Satya Naga Sreekanth Nadella 
+Managing Director and Chief Executive Officer 
+DIN:08659728 
+Place: Hyderabad 
+Date: October 28, 2024 

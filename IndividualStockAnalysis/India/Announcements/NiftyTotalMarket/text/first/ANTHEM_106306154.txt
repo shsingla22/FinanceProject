@@ -1,0 +1,272 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: July 21, 2025  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544449  National Stock Exchange of India Limited, 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: ANTHEM  
+ 
+Subject:  Intimation under Regulation 8(2) of the Securities Exchange Board of India (Prohibition of 
+Insider Trading) Regulations, 2015  
+ 
+Dear Sir/Ma’am,  
+ 
+Pursuant to Regulation 8(2) of the Securities Exchange Board of India (Prohibition of Insider Trading) 
+Regulations, 2015 (‘SEBI PIT Regulations’), please find attached herewith the Code of Practices and 
+Procedures for Fair Disclosure of Unpublished Price S ensitive Information framed under Regulation 8 
+(1) of SEBI PIT Regulations.  
+ 
+Kindly take the above intimation on record.  
+ 
+Thank you,  
+ 
+ 
+For Anthem Biosciences  Limited  
+(Formerly known as Anthem Biosciences  Private Limited)  
+ 
+ 
+ 
+______________________  
+Divya Prasad  
+Company Secretary and Compliance Officer  
+Membership No. A41438  
+ 
+ 
+Encl: Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive Information  
+ 
+ 
+ 
+ 
+ 
+ 
+ANTHEM BIOSCIENCES  LIMITED  
+ 
+ 
+ 
+ 
+ 
+______________________________________________________________ ________ ____________  
+ 
+CODE OF CONDUCT TO REGULATE, MONITOR AND REPORT TRADING BY ITS 
+EMPLOYEES AND OTHER CONNECTED PERSONS  
+ 
+__________________________________________________________________________________  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(Effective from December 14, 2025)  
+ 
+ 
+Document version  Approved By  Date of approval  
+1.0 Board of Directors  December 14, 2025  
+2.0 Board of Directors  July 16, 2025  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Page 2 of 23 
+  
+ 
+ 
+ 
+Contents  
+ 
+1. Introduction  ................................ ................................ ................................ ..............................  3 
+2. Definitions  ................................ ................................ ................................ ................................ . 3 
+3. Restriction on communications and trading by insiders  ................................ ......................  6 
+4. Trading when in possession of unpublished price sensitive information  ............................  8 
+5. Chinese wall procedures  ................................ ................................ ................................ ..........  9 
+6. Role and responsibilities of the compliance officer  ................................ .............................  10 
+7. Trading plans  ................................ ................................ ................................ .........................  10 
+8. Trading restrictions  ................................ ................................ ................................ ...............  12 
+9. Disclosure requirements  ................................ ................................ ................................ ........  15 
+10. Penalty for contravention of the code  ................................ ................................ ..................  16 
+11. Amendment  ................................ ................................ ................................ ............................  16 
+Annexure I ................................ ................................ ................................ ..............................  17 
+Annexure II ................................ ................................ ................................ ............................  19 
+Annexure III ................................ ................................ ................................ ...........................  21 
+Annexure IV ................................ ................................ ................................ ...........................  23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 23 
+  
+ 
+ 
+ 
+1. Introduction  
+  
+1.1.  The Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 
+2015 (SEBI PIT Regulations) seek to govern the conduct of insiders, connected persons and 
+persons who are deemed to be connected persons on matters relating to Insider  Trading.  
+1.2.  Insider Trading involves trading in the securities of a company listed or proposed to be 
+listed, by connected or any persons in possession of or with access to unpublished price -
+sensitive information not available to the general public, who can take advant age of or 
+benefit from such unpublished price sensitive information. Trading in securities by an 
+‘insider’ is regarded as unfair when it is predicated upon the utilization of ‘inside’ 
+information to profit at the expense of other investors who do not have access to the same 
+information.  
+1.3.  This policy is only an internal code of conduct and one of the measures to avoid Insider 
+Trading. It will be the responsibility of each person covered under the SEBI PIT Regulations 
+to ensure compliance of the applicable laws.  
+  
+2. DEFINITIONS  
+  
+2.1.  “Act”  means the Securities and Exchange Board of India Act, 1992.  
+ 
+2.2.  “Board”  means the Board of Directors of the Company.  
+ 
+2.3.  “Chinese Wall”  means all information shall be handled within the organization on a need -
+to-know  basis and no UPSI shall be communicated to any person except in furtherance of 
+the insider’s legitimate purposes, performance of duties or discharge of his legal obligations.  
+ 
+2.4.  “Code”  or “Code of Conduct” shall mean this code of prohibition of insider trading.  
+ 
+2.5.  "Company"  means Anthem Biosciences  Limited.  
+ 
+2.6.  “Compliance officer”  means Company Secretary  of the Company or any other senior 
+officer, designated so from time to time and reporting to the Board, who is financially 
+literate and is capable of appreciating requirements for legal and regulatory compliance 
+under the Insider Trading Regulations, and w ho shall be responsible for compliance of 
+policies, procedures, maintenance of records, monitoring adherence to the rules for the 
+ 
+Page 4 of 23 
+ preservation of Unpublished Price Sensitive Information (UPSI), monitoring of trades and 
+the implementation of the Codes under the overall supervision of the Board of the Company.  
+ 
+2.7.  “Connected person"  means such person as defined under Regulation  2(1)(d) of the 
+Securities and Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 
+or as amended from time to time.  
+ 
+2.8.  
+ 
+ 
+ “Contra Trade ’’ means a trade or transaction which involves buying or selling any number 
+of securities of the Company and within 6 months, trading or transacting in an opposite 
+transaction involving sell or buy following the prior transaction  
+2.9.  “Designated Persons ” shall include – 
+ • Promoters & Promoter Group of the Company;  
+ • Members of the board of directors of the Company;  
+ • Key Managerial Personnel and Senior Management;  
+ • Employees of the Company and its material subsidiaries based on their functional role 
+including but not limited to corporate finance, controllership, Human Resource, legal, 
+treasury, marketing, sales secretarial department, IT department and any other 
+depa rtment, as deemed necessary in the opinion of the Compliance Officer;  
+ • Employees of material subsidiaries of the Company designated based on their 
+functional role or access to unpublished price -sensitive information in the organization 
+by their Board of Directors;  
+ • Any support staff of the Company, such as IT staff or secretarial staff Legal Staff, 
+Finance Staff, or Strategy Staff who have access to unpublished price -sensitive 
+information;  
+ • Such other persons  as may be identified by the Compliance Officer on a case -to-case 
+basis, who could be reasonably expected to have access to unpublished price -sensitive 
+information(s) relating to the Company.  
+ 
+2.10. “Employee”  means every employee of the Company, including the Directors who are in 
+employment of the Company.  
+ 
+2.11. “Generally available information”  means information that is accessible to the public on a 
+non- discriminatory basis and shall not include unverified events or information reported in 
+print or electronic media.  
+ 
+ 
+Page 5 of 23 
+ 2.12. “Immediate  relative”  means a spouse of a person, and includes parent, sibling, and child 
+of such person or of the spouse, any of whom is either dependent financially on such person, 
+or consults such person in taking decisions relating to trading in  securities;  
+ 
+2.13. “Informant”  means an individual, who voluntarily submits to the SEBI a Voluntary 
+Information Disclosure Form relating to an alleged violation of insider trading laws that has 
+occurred, is occurring or has a reasonable belief that it is about to occur, in a manner 
+provided under the SEBI PIT Regulations, regardless of whether such individual(s) satisfies 
+the requirements, procedures and conditions to qualify for a Reward.  
+ 
+2.14. “Insider”  means any person who is:  
+ • a connected person;  or 
+ • in possession of or having access to unpublished price sensitive  information;  
+ 
+2.15. “Key Managerial  Personnel”  means a person as defined in Section 2(51) of the Companies 
+Act, 2013.  
+ 
+2.16. “Material Subsidiary”  shall be as defined under Regulation 16(1)(c) of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations 2015 or as may be amended in the 
+SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015 from time to 
+time.   
+ 
+2.17. “Promoter”  shall have the meaning assigned to it under the Securities and Exchange Board 
+of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any 
+modification thereof.  
+ 
+2.18. “Promoter group"  shall have the meaning assigned to it under the Securities and Exchange 
+Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018 or any 
+modification thereof . 
+ 
+2.19. “Reward”  means any gratuitous monetary amount for which an Informant is declared 
+eligible as per the provisions of SEBI PIT Regulations.  
+ 
+2.20. “SEBI” means Securities and Exchange Board of India constituted under Securities and 
+Exchange Board of India Act, 1992 and any modifications or amendments thereto for the 
+time being in force.  

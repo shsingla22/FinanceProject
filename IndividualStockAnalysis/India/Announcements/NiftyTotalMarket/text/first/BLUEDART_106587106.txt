@@ -1,0 +1,44 @@
+ 
+April 10, 2026  
+  
+To, 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort  
+Mumbai – 400 001  
+Scrip Code - 526612  
+    
+National Stock Exchange of India Ltd  
+Exchange Plaza, C -1, Block G  
+Bandra Kurla Complex, Bandra East,  
+Mumbai – 400 051  
+NSE Symbol - BLUEDART  
+Dear Sir / Madam,  
+  
+Sub: Intimation of IT Security Incident  
+  
+This is to inform you that a low severity cyber security incident has been identified 
+within our parent group . 
+  
+There is no sensitive data that got breached, hence risk is classified as low  (mainly 
+phishing and impersonation exposure). No customer/business data are impacted.  
+  
+As required, the CERT -In Authorities have been notified.   
+  
+Immediate remedial measures were taken to mitigate the risk.  
+  
+The incident has been assessed and contained, with no significant financial impact 
+observed on business operations or sensitive data.  
+  
+This is for your kind information and record.  
+  
+Thanking you,  
+ 
+Yours faithfully  
+For Blue Dart Express Limited  
+ 
+ 
+Tushar Gunderia  
+Head (Legal & Compliance) &  
+Company Secretary  
+ 

@@ -1,0 +1,152 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 31/2025-26 
+ 
+September 10, 2025  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ AI and Digital Twins Set to 
+Redefine Aerospace by 2035 , reveals TCS Study ” which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+AI and Digital Twins Set to Redefine Aerospace by 2035 , reveals 
+TCS Study  
+The TCS Future -Ready Skies Study 2025 reveals that 60% of aerospace leaders say human expertise will 
+remain critical in an AI -driven manufacturing futur e 
+Nearly two -thirds of aerospace respondents are open to allowing Agentic AI to operate their supply chains  
+WASHINGTON DC  | MUMBAI, September  10, 2025:  A new study by Tata Consultancy Services  (TCS) (BSE: 
+532540, NSE: TCS), a global leader in IT services, consulting, and business solutions, reveals that 1 in 3  
+aerospace executives believe artificial intelligence (AI) for real -time decision -making will be the biggest driver 
+of change in aircraft manufacturing by 2035. The TCS Future -Ready Skies Study 2025  examines how 
+aerospace companies are preparing for a digitally enabled  and AI-powered future across manufacturing, 
+maintenance, mobility, and supply chains.  
+The report captures an industry in transition, with companies increasingly investing in intelligent, sustainable 
+operations. It highlights how  manufacturers expect human involvement to remain essential in 60% of their 
+production  processes , on average, reinforcing a hybrid future where human expertise and AI work together. 
+While AI leads the charge, aerospace executives  also identified digital twins and robotics as the key enablers 
+for transformation.  The study surveyed over 323 senior aerospace executives, including aerospace 
+manufacturers, Advanced Air Mobility (AAM) companies and Manufacturing, Repair and Overhaul (MRO ) 
+providers, and  electric vertical takeoff and landing ( eVTOL ) companies across Europe and North America. 
+With the aerospace market projected to surpass $1 trillion by 2030, and the MRO segment alone expected 
+to reach $137 billion, the study offers a crucial pulse check on where the industry stands and a look into the 
+future . It also aligns with key developments such as the anticipated certifi cation of eVTOL aircraft and the 
+increasing regulatory and operational complexity across global supply chains.  
+Steve Lucas, Chairman and CEO, Boomi , said, “The Future -Ready Skies Study shows that the aerospace 
+industry is at an inflection point where the promise of AI depends on getting the fundamentals right. Change 
+only happens, however, at the speed of trust and that trust begins with data. Agentic AI can  only succeed 
+when it’s built on a strong foundation of connected, reliable data. By integrating and connecting everything 
+across their complex ecosystems, companies can accelerate decisions, scale innovation, and turn complexity 
+into a true competitive ad vantage.”   
+Key takeaways from the survey:    
+* A striking 63% of aerospace executives are open to adopting agentic AI to manage supply chains, but only 
+6% currently do so , underscoring both readiness and the innovation gap.  
+* On average, respondents anticipate only 40% of their manufacturing operations to be  lights out (a 
+manufacturing process that uses a high level of automation) , requiring minimal human intervention, within 
+the next 5 -7 years . 
+* Over half (51%) of MRO providers, on average, anticipate a return on investment in advanced technology 
+in five years or sooner , with nearly two -thirds (64%) expecting predictive analytics and agentic AI to deliver 
+measurable ROI in that same timeframe.  
+* Only a third (34%) of AAM companies cited "public acceptance" as an obstacle to such services as urban air 
+ 
+Page 2 of 3 
+ 
+taxis ; in fact, 70% are already building commercial platforms, reflecting industry momentum.  
+* Just 5% of MRO executives say their digital MRO strategy is already sufficiently scaled for the industry’s 
+next phase. For the rest, 80% anticipate a negative impact from rising operational costs, increased downtime, 
+revenue, and customer churn if their di gital MRO strategies fail to scale in the next three  years.  
+* Digital thread integration is underway, with 59% of manufacturers reporting at least partial 
+implementation, though full lifecycle integration remains elusive . 
+Anupam Singhal, President, Manufacturing, TCS,  said,  "The aerospace industry has always been one where 
+ambition is matched by precision and safety. Today, ambition is redefined as AI moves from supporting 
+operations to shaping enterprise strategy —advancing passenger experience, safety, and sustainability. At 
+TCS, we see this as a leadership opportunity to help aerospace enterprises build resilient, adaptive ecosystems 
+and shape skies that are bold, transformative, and future -defining. ”   
+As more organizations invest in foundational capabilities, the stage is set for greater real -time decision 
+intelligence and operational transparency across the value chain.  A critical finding is that less than a third 
+(28%) of aerospace firms say they could pivot sourcing within 30 days of a Tier -1 disruption, exposing the 
+fragility of today’s supply chains.  In the MRO segment, leaders are beginning to lay the groundwork for 
+advanced automation. However, only 2% of the surveyed leaders anticipate having fully autonomous 
+processes - from detection to repair decisions - by 2030. In the fast -growing Advanced Air Mobility sector, 
+including electric aircraft, 70% of surveyed companies are actively building commercial platforms, reflecting 
+a clear industry commitment to next -generation mobility. While challenges around regulation, economics, 
+and infrastructure remain, these barriers are being steadily addressed as the sector advances toward broader 
+adoption.  Crucially, the momentum around digital transformation is translating into measurable 
+expectations, 32% of aerospace leaders anticipate R oI on MRO technologies within three years, and 80% 
+acknowledge that accelerating digital adoption is vital to reducing future risks and inefficiencies. This growing 
+alignment between investment and impact points to a sector that is preparing not just to evo lve—but to lead 
+with intelligence, agility, and resilience . 
+With multiple decades of experience , TCS is a trusted partner across the aerospace and defe nce value chain —
+supporting OEMs, tier suppliers, airlines, airports, and MROs. TCS’ end-to-end capabilities span consulting, 
+engineering, IT modernization, and digital solutions, driving innovation across the product lifecycle and 
+enabling enterprises to stay perpetually ready for the future.  With three decades of leadership in aviation, 
+TCS partners with the world’s leading airlines, offering consulting -led innovation, cognitive -powered 
+portfolio of business, and technology and engineering services. TCS leverages industry -specific solutions, l ike 
+TCS Aviana ™, a unified, autonomous, digital, cloud -ready solution for intelligent airline operations.  
+ 
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner 
+of choice for industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest 
+standards of innovation, engineering excellence and customer service.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce of over 600,000 
+employees  in 55 countries and 202 service delivery centers across the world, the company has been 
+recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, 
+the company has built long term partnerships with its clients – helping them emer ge as perpetual ly adaptive 
+enterprises. Many of these relationships have endured into decades and navigated every technology cycle, 
+ 
+Page 3 of 3 
+ 
+from mainframes in the 1970s to Artificial Intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  
+ 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025.  For 
+more information, visit  www.tcs.com  
+ 
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS Media Contacts:  
+  
+Corporate Communications & 
+India  Email: corporate.communications@tcs.com  
+Email:  saxena.kritika@tcs.com | Phone: +91 22 6778 9999  
+Email:  santosh.castelino@tcs.com   | Phone: +91 22 67789098  
+North America  andrew.corcione@tcs.com  | Phone: +1  646 617 8221  
+ 
+### 
+ 

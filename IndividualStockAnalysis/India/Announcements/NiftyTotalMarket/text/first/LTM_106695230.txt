@@ -1,0 +1,98 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 92402 97500  
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/55                                                                                                   July 13, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM The BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+ 
+We are attaching herewith copy of the Press Release titled “LTM Partners with Anthropic 
+to Accelerate Claude Adoption and Expand Enterprise Delivery” which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl.: As above 
+ 
+ 
+ 
+ 
+LTM Partners with Anthropic to Accelerate Claude Adoption and Expand Enterprise Delivery 
+  
+Claude and Claude Code embedded into LTM BlueVerseTM AI Delivery Fabric to power AI-led transformations 
+ 
+Mumbai, India — July 13, 2026 —  LTM, the Business Creativity partner to the world's largest enterprises, today 
+announced a partnership with Anthropic , the frontier AI company behind Claude, to accelerate enterprise-scale adoption 
+of Claude, Claude Code and Claude Cowork across engineering, modernization, and business workflows. 
+ 
+LTM will combine Claude, Claude Code and Claude Cowork with its enterprise implementation expertise to help clients 
+move from pilots to production with market-leading productivity, throughput, quality underscored by assurance and 
+transparency. LTM will specifically bring this expertise and capability to BFSI, Hi-Tech, Consumer and Production Industry 
+domains. 
+ 
+The three strategic focus areas of partnership include: 
+ LTM BlueVerseTM: AI Delivery Fabric 
+LTM BlueVerse AI Delivery Fabric will serve as the enterprise implementation layer for Claude adoption, integrating 
+Claude and Claude Code into delivery workflows across AI-led software engineering, application modernization, agent 
+orchestration, Site Reliability Engineering (SRE), Observability, and Chaos Engineering.  
+ LTM AI1000: Talent Enablement program  
+LTM will also scale its AI1000 initiative to train and deploy thousands of Claude-certified architects and Forward 
+Deployed Engineers (FDEs) who can work with clients from assessment and architecture through assessment, 
+implementation, and continuous improvement. 
+ Claude Center of Excellence (CoE) 
+LTM will establish a dedicated Center of Excellence (CoE) for Claude as the partnership's scale engine – to build 
+reusable Skills, agentic MVPs, reference architectures, and playbooks spanning cloud-native and platform-based 
+applications. The CoE will provide governance backbone across responsible use, agent lifecycle, model governance, 
+and data-privacy/residency compliance. It will also keep delivery aligned with Claude's evolving capabilities. 
+ 
+"LTM brings delivery expertise, trained people, and long-standing client relationships across industries, and their 
+customers want to embed Claude into the systems they rely on. LTM is embedding Claude and Claude Code in BlueVerse, 
+bringing trusted frontier AI technology to the center of how they do what they do best - help their clients build, modernize, 
+and run their software," said Chris Ciauri, Managing Director of International, Anthropic . 
+ 
+“LTM helps clients accelerate AI adoption and translate AI investments into measurable business outcomes through our 
+partnership with Anthropic. Combining Claude with LTM’s BlueVerse ecosystem, deep domain expertise, technology 
+capabilities, and AI1000 talent initiative creates a powerful foundation for enterprises to embed AI across their business 
+and modernize at scale,” said Venu Lambu, CEO and Managing Director, LTM . 
+ 
+The partnership will include joint go-to-market initiatives focussed on measurable business outcomes. LTM will also scale 
+internal adoption by embedding Claude, Claude Code, and Claude Cowork into its delivery model to establish consistent 
+adoption patterns and market-leading productivity benchmarks across the SDLC, with autonomous learning feedback into 
+the Claude CoE and BlueVerse ecosystem. 
+ 
+About LTM 
+LTM — a Larsen & Toubro Group Company — is an AI-centric global technology services company and the Business Creativity partner to the world’s 
+largest enterprises. We bring human insights and intelligent systems together to help clients create greater value at the intersection of technology 
+and domain expertise. Our capabilities span integrated operations, transformation, and business AI — enabling new ways of working, new 
+productivity paradigms, and new roads to value. Together with over 87,000 employees across 40 countries and our global network of partners, LTM 
+owns outcomes for our clients, helping them not just outperform the market, but Outcreate it. Read more at LTM.com .   
+ 
+Media Contact:  Shambhavi Revandkar | Global Media Relations | Shambhavi.revandkar@ltm.com  

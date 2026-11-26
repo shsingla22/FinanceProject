@@ -1,0 +1,881 @@
+MEESHO LIMITED
+(Formerly known as “Meesho Private Limited” and “Fashnear Technologies Private Limited”)
+
+CIN: U74900KA2015PLC082263
+Registered Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village,
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103
+T: +91 9108021923 | E: cs@meesho.com | W: www.meesho.com
+
+January 30, 2026
+To,
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (East), Mumbai - 400 051
+Symbol: MEESHO
+
+To,
+Department of Corporate Services
+BSE Limited
+Phiroze Jeejeebhoy Towers, Dalal Street,
+Mumbai - 400 001
+Scrip Code: 544632
+
+Dear Sir / Madam,
+Subject: Shareholders’ Letter dated January 30, 2026.
+Ref.: Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+and Disclosure Requirements) Regulations, 2015 as amended (“SEBI Listing Regulations”)
+Pursuant to Regulation 30 of SEBI Listing Regulations, please find enclosed the Shareholders’ Letter for Q3
+2025-26 dated January 30, 2026.
+This information will also be made available on the Company’s website at: www.meesho.com
+You are requested to take the above information on record.
+Thanking you,
+For Meesho Limited
+(Formerly known as Meesho Private Limited and Fashnear Technologies Private Limited)
+Digitally signed by
+
+RAHUL
+RAHUL BHARDWAJ
+2026.01.30
+BHARDWAJ Date:
+17:37:04 +05'30'
+Rahul Bhardwaj
+Company Secretary and Compliance Officer
+Membership No.: A41649
+Encl.: As above
+
+
+
+Disclaimer
+This shareholder letter (“Letter”) has been prepared by Meesho Limited (the “Company”) solely for informational
+purposes of general public. This Letter does not constitute or form part of and should not be construed as a prospectus,
+offering circular or offering memorandum, or an offer to sell or issue or invitation or solicitation to subscribe to or
+purchase any securities of the Company or any of its subsidiaries or affiliates in any jurisdiction or as an inducement to
+enter into investment activity. No part of this document, nor the fact of its distribution, shall form the basis of or be relied
+upon in connection with, any contract or binding commitment or investment decision whatsoever. Any offering of
+securities of the Company will be made only by means of a statutory offering document containing detailed information
+about the Company and its securities. This document is not financial, legal, tax or other product advice.
+This Letter has been prepared by the Company based on information and data which the Company considers reliable.
+However, the Company makes no representation, warranty or undertaking, express or implied, as to the truth, accuracy,
+completeness, fairness, reasonableness or correctness of the information or the opinions contained in this Letter. No
+reliance should be placed on its contents by members of the public or an investor or shareholder. This Letter may not
+be all-inclusive and may not contain all information that a prospective investor may consider material. None of the
+Company or any of its affiliates, advisors or representatives shall have any liability whatsoever (in negligence or
+otherwise) for any loss howsoever arising from any use of this Letter or its contents or otherwise arising in connection
+with the Letter.
+The Company may alter, modify or otherwise change in any manner the contents of this Letter, without obligation to
+notify any person of such revision or changes. By accessing this Letter, you acknowledge that you will be solely
+responsible for your own assessment of the market and the market position of the Company and that you will conduct
+your own analysis and be solely responsible for forming your own view of the potential future performance of the
+business of the Company.
+This Letter has not been and will not be reviewed or approved by a regulatory authority in India or by any stock exchange
+in India. This document and its contents should not be forwarded, delivered or transmitted in any manner to any other
+person other than its intended recipient and should not be reproduced in any manner whatsoever.
+Forward-looking Statements
+This Letter contains certain "forward-looking statements" within the meaning of applicable securities laws and
+regulations. These forward-looking statements can be identified by the use of words such as “aim”, “may,” “will,” “seek
+to”, “should,” ”goal”, “expect,” “anticipate,” “project,” “estimate,” “intend,” “should”, “ will continue”, “will pursue”, “likely
+to”, “objective”, “predicts”, “plans” or “believe” or other words or phrases of similar import. These statements include,
+but are not limited to, those relating to the Company’s business strategy, growth prospects, future financial performance
+and market opportunities.
+Actual results may differ materially from such expectations, projections etc., whether directly or indirectly, expressed or
+implied. These forward-looking statements are based on various assumptions, expectations and other factors which are
+not limited to, known and unknown risks and uncertainties, including, regulatory changes pertaining to the industry in
+which our Company has businesses and our ability to respond to them, our ability to successfully implement our strategy,
+our growth and expansion, technological changes, our exposure to market risks, general economic and political
+conditions in India and globally which have an impact on our business activities or investments, the monetary and fiscal
+policies of India, inflation, deflation, unanticipated turbulence in interest rates, foreign exchange rates, equity prices or
+other rates or prices, the performance of the financial markets in India and globally, incidence of any natural calamities
+and/or acts of violence, changes in laws, regulations and taxes and changes in competition in our industry. These factors
+may affect our ability to successfully implement our business strategy.
+The Company cannot, therefore, guarantee that the ‘forward-looking’ statements made herein shall be realized. The
+Company, may alter, amend, modify or make necessary corrective changes in any manner to any such forwardlooking statement contained herein or make written or oral forward-looking statements as may be required from time
+to time on the basis of subsequent developments and events.
+
+1
+
+
+Dear Shareholders,
+In 2015, Sanjeev and I watched India's e-commerce platforms compete to serve primarily affluent
+consumers through branded products. Meanwhile, 85% of India's retail was served by local manufacturers
+and MSME sellers who were excluded by both platform economics and complexity. And so were their
+consumers. We asked a question that seemed naive: what if we could build a platform not for the top 50
+million Indians, but one that truly Democratised Internet Commerce for Everyone? That question became
+our mission, and that mission became Meesho.
+Ten years later, we now serve 251 million consumers and enable business growth for 846k sellers annually.
+Many are ﬁrst-time e-commerce users. We have made participation in e-commerce affordable and
+accessible for consumers and sellers who couldn't meet traditional e-commerce requirements. As I write
+our ﬁrst shareholder letter as a public company, I'm humbled by how far we've come and energised by how
+much remains. To everyone who made this possible; our sellers who bet their businesses on us, our
+consumers who have trusted us, our employees who built Meesho through cycles of uncertainty, our
+investors who have backed us, and now our public shareholders who have entrusted us with capital - Thank
+you. This is not a milestone we take lightly.
+Becoming a public company expands our accountability and how we demonstrate it. Every quarter, we will
+explain what happened and why. We will share our frameworks, our reasoning, our mistakes. If you
+understand how we think, you can evaluate whether we are thinking correctly and hold us accountable when
+we are not. But being public does not change what we optimise for. We will not sacriﬁce platform health for
+quarterly optics. We will not pretend that accounting proﬁts are the same as cash generation. The same
+discipline that brought us here will guide us going forward.
+
+Our Mission and Why It Governs Every Decision
+Meesho exists to Democratise Internet Commerce for India. This is not a tagline; it's the barometer for every
+decision we make. Internet commerce cannot be democratised if prices remain high or adoption barriers
+prevent participation.
+We make e-commerce both affordable and accessible to all Indians:
+We have built the lowest cost channel for sellers to reach customers by reimagining e-commerce. We
+fundamentally reduce logistics costs, automate seller operations and encourage competitive pricing on the
+platform through business model and technology innovations. Our scale of order volume adds advantage
+through better terms of trade with our vendors and operating leverage in fixed costs.
+We meet users where they are. We started Meesho as a WhatsApp-based platform, enabling commerce
+through an interface millions of users already understood. This significantly lowered friction for first-time ecommerce users and enabled adoption beyond digitally native urban consumers. We continue to innovate
+on this axis. Our app performs equally well on low-end smartphones and in low-bandwidth environments.
+We enable participation through recommendation-led shopping that reduces reliance on search skills,
+supported by easy cataloguing, multi-lingual interfaces, and image and vernacular voice experience.
+Every decision at Meesho gets tested against one question: Does this make internet commerce
+affordable and accessible to a billion Indian consumers and millions of businesses?
+If the answer is no, we don't pursue it, regardless of near-term ﬁnancial optics.
+
+2
+
+
+Flywheel First
+Our philosophy is to build healthy platforms with self-reinforcing ﬂywheel effects, and proﬁtability follows.
+Optimizing short-term proﬁtability at the expense of destabilising our ﬂywheels could create a fragile
+business that struggles to sustain results. We evaluate our ﬂywheels through three lenses:
+■ Commerce Flywheel – Is our
+consumer base increasing? Are
+consumers returning to our app
+more frequently? Are sellers
+growing their businesses? Are their
+economics sustainable? Can they
+invest in selection and quality
+because they trust the platform?
+■ Logistics Flywheel – Is delivery
+density improving? Are logistics
+partners growing? Are we building
+structural cost advantages?
+
+■ Content Commerce Flywheel – Is
+our creator base increasing? Are
+creators growing their earnings? Are
+they
+creating
+content
+more
+frequently?
+When these elements are healthy, proﬁtable growth is an output. When they are unhealthy, any
+proﬁts are borrowed from the future.
+This is fundamentally different from businesses that grow by adding more of the same through capex. A
+platform that is twice the size in terms of consumers and sellers; interactions and transactions does not
+merely have twice the efficiency; it develops structural cost and network effects that are difficult to replicate.
+Platform businesses exhibit increasing returns to scale, which is why we prioritise growth today: to build
+compounding advantages that translate into durable proﬁtability.
+
+Thinking Long-Term
+When we started, we looked beyond what existing e-commerce players were serving. We experimented
+and learned our way to where we are. But we are still early in our mission. We are solving problems no
+platform has solved before. So, we codified long-term thinking into our operating structure. Not just as a
+Meesho Mantra, but as how we actually allocate resources and make decisions.
+We organise our resources and capital across the company into two horizons.
+Horizon 1 (Scale): Initiatives or businesses with proven economics and demonstrated payback. H1
+comprises our proven bets, where teams focus on scaling further. Impact from investing more resources or
+capital in these initiatives is expected to accrue within a year.
+
+3
+
+
+Horizon 2 (Experiment): Experiments with unproven traction and economics, expected to drive long-term
+impact. The objective is learning, not scale initially. We define learning objectives upfront and test through
+controlled experimentation to establish product-market fit and economic viability before scaling.
+Teams run small-scale H2 experiments on questions that push the current boundaries: Can we reach users
+and sellers who do not have access to affordable credit? Can agentic commerce create value? Can a voiceguide that performs reliably in low-end devices help non-tech savvy users onboard faster?
+Our logistics platform started as an H2 experiment with a question: Can the future of e-commerce logistics
+lie in orchestrating thousands of local entrepreneurs who know their streets better than any centralised
+infrastructure could? Our creator marketplace began the same way: Can creators drive discovery and
+conversion better than traditional browsing? Both graduated to H1 after proving economics and
+demonstrating we could scale them.
+How we deploy capital?
+Capital is deployed for H1 initiatives only when investments clear long-term Free Cash Flow return
+thresholds. If returns deteriorate, investment is reduced or withdrawn, regardless of the near-term topline
+impact.
+We cap total H2 spending annually as a learning budget and deﬁne explicit learning goals upfront. We
+dedicate a portion of our team’s bandwidth to Horizon 2 initiatives which are reviewed periodically. This
+framework ensures we are systematically discovering future opportunities while maintaining spending
+discipline on unproven bets.
+
+How We Measure Progress
+Our north star is Free Cash Flow per share. It captures what accounting metrics often miss: working
+capital discipline, capital intensity, and the actual cash generated after reinvestment. Our negative working
+capital cycle and asset-light model create structural cash ﬂow advantages and avoid capital intensity that
+has historically destroyed returns in consumer-facing business. We use the following metrics to assess our
+performance, guide operational and ﬁnancial decision making, and measure progress against our strategy:
+■
+
+Net Merchandise Value (NMV)
+NMV refers to the cumulative checkout value of successfully delivered orders to consumers on our
+marketplace in each period inclusive of all taxes. It reﬂects the true value delivered to the consumer
+rather than the vanity metric of GMV. We evaluate all metrics as % of NMV.
+
+■ Contribution Margin (CM)
+As a pure-play platform, our marketplace revenue and costs are fundamentally different from inventory
+led or other traditional retail businesses. Contribution Margin helps identify the proﬁtability generated
+from our operating activities by measuring the marketplace revenue earned from sellers, net of cost
+directly attributable to Placed Orders.
+Contribution Margin is our unit economics proﬁtability metric. It shows whether the underlying
+transaction economics generate cash, not just whether we’re growing NMV. Critically, it distinguishes
+real product-market ﬁt from growth manufactured through discounts and subsidy.
+
+4
+
+
+■
+
+Last Twelve Months Free Cash Flow (LTM FCF)
+Many consumer businesses report EBITDA as a headline metric while deploying significant capital into
+warehouses, fulfillment centers, logistics infrastructure and inventory. The cash consumed by these
+investments never appears in the headline metric. Asset-light platforms like ours expense similar
+investments in building capacity through aggregation; cost is visible in the period it occurs, while benefits
+to the platform accrue long-term.
+EBITDA excludes capital expenditure and working capital requirements, both of which materially
+inﬂuence cash generation in consumer facing business. For the last 3 years, we scaled our business by
+1.9x Placed Orders without consuming capital in the normal course of business.
+We focus on Free Cash Flow because it reflects what actually remains after re-investment. We monitor
+LTM FCF closely and consider it in our decision-making processes. Decisions such as investments into
+marketing and technology are evaluated through the lens of their impact on FCF generation in the longterm.
+We consider trailing twelve months FCF to normalise for the inherent seasonality in the business. We
+believe it truly reﬂects the health of the business, without being distorted by accounting proﬁtability that
+can mask the underlying capital intensity and long-term value creation dynamics.
+
+Closing
+There is enormous work still to be done.
+We are India’s largest e-commerce platform in terms of Annual Transacting Users. The opportunity ahead
+is larger than what we've built. India's internet commerce penetration is still single digits. Hundreds of
+millions of consumers and millions of small businesses remain outside the digital economy. They want to
+participate. No one has built for them. We have. And we're just getting started.
+Every percentage point of that gap we close represents tens of millions of people participating in internet
+commerce for the ﬁrst time, and tens of thousands of small businesses reaching customers they could never
+have reached before. This is the opportunity we are building toward. Not to capture a larger share of existing
+e-commerce, but to expand what e-commerce can be in India.
+
+Sincerely,
+
+Vidit Aatrey | Founder and CEO
+
+5
+
+
+Progress towards our Mission – Q3 FY26
+
+Q3 FY2026
+
+9 months ending
+Dec FY2026
+
+251 Mn
+
+251 Mn
+
+YoY 34%
+
+YoY 34%
+
+690 Mn
+
+1,951 Mn
+
+YoY 36%
+
+YoY 46%
+
+₹10,995 Cr
+
+₹30,189 Cr
+
+YoY 26%
+
+YoY 37%
+
+2.3%
+
+3.3%
+
+Adjusted EBITDA
+Marketplace as % of NMV
+
+(4.2%)
+
+(3.2%)
+
+LTM Free Cash Flow
+
+₹56 Cr
+
+₹56 Cr
+
+LTM Free Cash Flow
+to Equity
+
+₹437 Cr
+
+₹437 Cr
+
+₹7,277 Cr
+
+₹7,277 Cr
+
+Metrics
+
+Annual Transacting Users
+
+Placed Orders
+
+Net Merchandise Value
+
+Contribution Margin
+as % of NMV
+
+Cash balance
+
+6
+
+
+Key takeaways
+■ We remained the most downloaded shopping app in India for Q3 FY26 as per Sensor Tower. Our Annual
+Transacting Users grew by 34% YoY to 251 million, making Meesho the largest platform by both
+Annual Transacting Users and Placed Orders. New user onboarding improved signiﬁcantly due to AIdriven initiatives across platform recommendations and targeted marketing.
+■ Annual Transacting Sellers grew by 81% YoY to 846k sellers through seller growth initiatives across
+faster onboarding and discovery.
+■ Q3 NMV reached ₹10,995 crores, growing 26% YoY. But the more meaningful comparison combines
+Q2 and Q3 to normalise for festive calendar shifts: together these quarters delivered ₹21,510 crores in
+NMV, growing 37% YoY which is on a like-to-like basis. For the 9 months ended Dec FY26, NMV grew
+by 37%. For the same period, our Placed Orders grew by 46%
+■ Contribution Margin was at 2.3% (-104 bps QoQ and -198 bps YoY) due to accelerated Valmo scale-up
+following 3PL industry consolidation. This is expected to normalise in the coming quarters.
+■ LTM Free Cash Flow stood at ₹56 crores and LTM Free Cash Flow to Equity stood at ₹437 crores; with
+cash balance of ₹7,277 crores.
+■ Adjusted EBITDA – Marketplace margin for Q3 FY26 was at -4.2% (₹-460 Crores) due to lower
+Contribution Margin and accelerated user growth and engineering investments
+■ Adjusted EBITDA – New Initiatives was at (₹19) Crores (44% QoQ) and (30%) YoY with continuous
+improvement in user adoption for ﬁnancial services platform.
+■ Deepening integration of AI into our platform
+-
+
+Our AI customer support is getting better with smarter responses, 63% of customer support queries
+are now end-to-end handled by AI
+
+-
+
+AI-based voice search is getting better through new launches during the quarter improving new user
+conversions.
+
+7
+
+
+Our assessment of the quarter
+Net Merchandise Value – Marketplace
+
+UoM
+
+Q3 FY25
+
+Q2 FY26
+
+Q3 FY26
+
+YOY
+%
+
+9M
+ended
+Dec FY25
+
+9M
+ended
+Dec FY26
+
+YOY
+%
+
+ATUs
+
+# million
+
+187
+
+234
+
+251
+
+34%
+
+187
+
+251
+
+34%
+
+Frequency
+
+#
+
+8.98
+
+9.70
+
+9.78
+
+9%
+
+8.98
+
+9.78
+
+9%
+
+Placed Orders
+
+# million
+
+509
+
+699
+
+690
+
+35%
+
+1,333
+
+1,951
+
+46%
+
+GMV – Marketplace
+
+₹ crores
+
+13,950
+
+18,349
+
+18,285
+
+31%
+
+36,562
+
+51,769
+
+41%
+
+NMV – Marketplace
+
+₹ crores
+
+8,699
+
+10,515
+
+10,995
+
+26%
+
+22,016
+
+30,189
+
+37%
+
+More consumers buying more often:
+■
+
+LTM Annual Transacting Users (ATUs) reached an all-time high of 251 million with frequency climbing
+to 9.78x transactions per consumer annually.
+
+■
+
+Placed Orders on our platform grew by 35% YoY in Q3 FY26, thus strengthening our flywheel.
+
+Impact of festive season shift
+■
+
+Diwali fell in mid-October this year vs. early November last year, shifting some festival shopping from
+Q3 into Q2. For instance, our festive Meesho Mega Blockbuster Sale started on 19th Sept in 2025, vs
+27th Sept in 2024.
+
+■
+
+Hence, a more meaningful comparison combines Q2 and Q3 FY26 for festive calendar
+together these quarters delivered ₹21,510 crores in NMV, growing 37% YoY.
+
+shifts:
+
+Technology improving new consumer onboarding
+■
+
+Improved home page experience for first-time e-commerce consumers through use of deep-learning
+recommendation models that personalise their feed with limited onboarding signals.
+
+■
+
+Voice search improvements drove higher new user conversion in regional language markets.
+
+Expanding use cases
+■
+
+Leading brands such as Dabur are scaling on Meesho Mall, bringing national brands at competitive
+prices to value-conscious customers across India.
+
+8
+
+
+Contribution Margin - Marketplace
+
+* For Q1FY26 and Q2 FY26 certain revenue related to last mile logistics and corresponding costs paid to last mile riders
+are not included in our revenue and costs due to change in operating structure. However, this was reverted in Q3 FY26,
+where both revenue and cost are included in the financial statements
+
+Valmo’s platform model: Resilience through flexibility
+■
+
+Accelerated growth in FY26 combined with one-time impact of 3PL industry consolidation required rapid
+Valmo scale-up during Q2 FY26 and Q3 FY26.
+
+■
+
+Valmo’s platform approach made us resilient to such external shocks; we deployed nodes and
+onboarded partners quickly without slow network build-out or multi-year capex commitment.
+
+■
+
+During Q2 and Q3 FY26, we rapidly expanded Valmo logistics network resulting in temporary
+inefficiencies such as under-utilised routes, redundant nodes and longer delivery distances, which
+impacted Contribution Margins by 1.1 percentage point in Q2 FY26 and a further 1.0 percentage point
+in Q3 FY26. This also includes a one-time network restructuring cost of 16 bps in Q3 FY26.
+
+Optimisation underway in Q4
+■
+
+We have been shedding redundant nodes, refining delivery routes and increasing throughput in the
+newly scaled nodes – this will drive down per-order cost.
+
+■
+
+Incremental costs from Q2 and Q3 FY26 are expected to normalise over the next two quarters as these
+optimisations take effect.
+
+9
+
+
+LTM Free Cash Flow - Marketplace
+
+UoM
+
+Q3 FY25
+
+Q2 FY26
+
+Q3 FY26
+
+9M
+ended
+Dec FY25
+
+9M
+ended
+Dec FY26
+
+Contribution Margin –
+Marketplace
+
+₹ crores
+
+371
+
+349
+
+251
+
+1,144
+
+984
+
+Contribution Margin –
+Marketplace %
+
+%
+
+4.3%
+
+3.3%
+
+2.3%
+
+5.2%
+
+3.3%
+
+Adjusted EBITDA –
+Marketplace
+
+₹ crores
+
+(21)
+
+(371)
+
+(460)
+
+(14)
+
+(979)
+
+Adjusted EBITDA –
+Marketplace %
+
+%
+
+(0.2%)
+
+(3.5%)
+
+(4.2%)
+
+(0.1%)
+
+(3.2%)
+
+Adjusted EBITDA –
+New Initiatives
+
+₹ crores
+
+(28)
+
+(13)
+
+(19)
+
+(82)
+
+(49)
+
+LTM FCF
+
+₹ crores
+
+334
+
+581
+
+56
+
+334
+
+56
+
+10
+
+
+Adjusted EBITDA - Marketplace
+Increased H1 investments in user growth to onboard next wave of internet
+commerce users in India
+■
+
+We have increased our investment into Advertising and Sales Promotion to 2.4% of NMV in Q3 FY26
+(from 1.3% of NMV in Q3 FY25)
+
+■
+
+Our expanded investments are deployed in awareness building, traffic acquisition and initial customer
+incentives where it justifies our long-term FCF return thresholds.
+
+■
+
+We are continuously witnessing better year 1 and subsequent frequencies of our new cohorts of
+customers being acquired, leading to accelerated investments and thereby NMV growth.
+
+Increased H1 investments in technology talent in FY26
+■
+
+Our Employee Benefit Expenses (excl. ESOPs) increased from to 1.5% of NMV in Q3 FY26 (from 1.2%
+of NMV in Q3 FY25)
+
+■
+
+The increase was primarily due to increased investments in AI/ML and engineering headcount.
+
+■
+
+These investments follow our H1 framework: we are scaling technology talent to execute initiatives with
+proven return profiles like ranking improvements, search infrastructure and fulfilment optimisation where
+expected returns justify our threshold.
+
+■
+
+We also expanded our non-technology talent in FY26 in rapidly scaling parts of Meesho like Valmo,
+Content Commerce and Meesho Mall.
+
+Positive LTM FCF supported by working capital cycle and minimal capex
+■ LTM FCF for Q3 FY26 of ₹56 Crores supported by accelerated NMV growth
+■ Asset-light approach, with minimal capital expenditure and a negative working capital cycle, supports
+strong cash ﬂow generation
+■ Cash balance as of 31st Dec 2025 is at ₹7,277 Crores, including 4,088 Crores raised through initial
+public offering in Dec FY26.
+
+Outlook
+■
+
+We expect significant improvement in Adjusted EBITDA margin in the next 2 quarters returning to Q1
+FY26 levels; driven by logistics cost recovery and operating leverage on user growth and technology
+investments made in FY26.
+
+Adjusted EBITDA – New Initiatives
+Adjusted EBITDA for new initiatives, including Financial Services and Low-Cost Logistics Network, for Q3
+FY26 remained range bound and was (₹19) crores, compared to (₹28) crores in Q3 FY25. Given our assetlight approach, the major investment here is into technology and people.
+
+11
+
+
+Key decisions explained
+Now and going forward, we will continue to explain our key decisions for the quarter, which may require
+additional details for shareholders to understand our decision making better.
+
+Why didn't we raise order fulﬁlment charges in Q2 and Q3 FY26 when logistics
+costs increased?
+■
+
+■
+
+This was a rapid scale-up cost which is temporary, not structural inflation
+-
+
+In an asset-light platform logistics model, scale-up investments flow through P&L, not capital
+expenditure in the balance sheet. Same economics; different accounting.
+
+-
+
+External 3PL consolidation in Q1 FY26 accelerated network scale-up in FY26, especially to ensure
+the festive season customer experience remained intact.
+
+Platform trust over quarterly optics
+-
+
+Temporary pricing volatility during festive season is adverse for long-term retention of consumers
+
+-
+
+We absorbed these costs because we have clear line of sight to normalisation. If any structural cost
+changes emerge, we will pass them through to our consumers.
+
+Why did we increase customer acquisition spending in FY26?
+■ Expansion of market by bringing offline users online
+-
+
+First-time e-commerce users require awareness and first purchase incentives. We spend primarily
+on new user acquisition, not subsidizing repeat behavior.
+
+-
+
+Traditional retail and inventory e-commerce businesses capitalise growth investments (stores and
+warehouses). As a platform, customer acquisition is our primary growth investment expensed
+immediately, despite multi-year returns.
+
+-
+
+We scale this spend, like all others, by measuring marginal IRR of long-term FCF, not short-term
+margins.
+
+■ Better payback and customer behavior
+- New customers continue to convert at higher year 1 frequency than cohorts onboarded two years
+ago. Better payback enables larger investments.
+- In a platform business, flywheel compounds. Delaying customer acquisition despite attractive
+payback periods to optimise near-term EBITDA would slow down these compounded benefits.
+
+Execution priorities for the next four quarters
+Logistics costs recovery and structural improvement
+Cost per delivered order reduction from Q4 FY26 onwards lifting Contribution Margin. Beyond baseline
+recovery, we are pursuing structural cost reduction across near, mid and long-term horizons.
+
+12
+
+
+■ Network design optimisation
+-
+
+Fewer touchpoints and shorter distances through better node placement, parcel consolidation and
+routing algorithms.
+
+-
+
+Higher prepaid order ratios through product initiatives and customer behavior shaping.
+
+■ Network leakage reduction
+-
+
+Trust and safety initiatives targeting fraud, fake delivery attempts, and address veriﬁcation failures
+each of which creates redundant logistics touches.
+
+■ Platform innovations
+-
+
+Tailor-made automations of sorting and alternate delivery models.
+
+-
+
+Each will be tested as H2 experiments before scaling.
+
+Platform growth and expansion
+800+ million Indians use internet for communication and social media but transact offline because ecommerce has not been made relevant yet at their price points and use cases.
+■
+
+■
+
+Pushing frontiers of Affordability and Accessibility
+-
+
+Reducing platform costs through platform innovations to profitably serve transactions previously
+uneconomical; thereby expanding and shifting consumption from offline to online.
+
+-
+
+Building state-of-the art recommendation systems that personalise from limited signals, multilingual
+experience and assisted shopping for non-tech-savvy users.
+
+-
+
+Lowering friction for sellers’ supply, scaling Meesho Mall to bring national and regional brands at
+competitive prices to value-conscious customers
+
+Disciplined investment in market expansion
+-
+
+Investing aggressively when payback periods validate it and pull back when they don't. Monitoring
+early signals like ﬁrst-purchase completion rates, retention, and year 1 frequency continuously.
+
+-
+
+Scaling content commerce to make discovery-led shopping more engaging and credible
+
+Advertising and monetisation
+We don't intend to add a toll to our platform in the form of commission or platform fees. We monetise through
+services that add value to stakeholders; currently primarily through order fulﬁllment services and advertising.
+■
+
+Building the e-commerce Ads ecosystem for sellers
+-
+
+Improving ad activation for our sellers by making ads predictable and low risk for sellers: clear
+objectives, platform handles optimisation.
+
+-
+
+Deploying deep learning models to personalise ads for customers, driving better Ad ROI
+
+-
+
+Improving ad catalog adoption through higher seller ROI driven by better ad relevance
+
+13
+
+

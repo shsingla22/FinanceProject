@@ -1,0 +1,78 @@
+ 
+HEXAWARE TECHNOLOGIES LIMITED  
+Regd. Office: 8th Floor, 13th Level,Q 1, Loma Co -Developers1 Private Limited, Plot No.Gen -4/1,TTC Industrial Area, 
+Ghansoli, Navi Mumbai -400710, Maharashtra, India  |  Tel: +91 022 3326  8585   |  Email: investori @hexaware.com   
+CIN: L 72900MH1992PLC069662  |  URL: www.hexaware.com  
+ 
+  
+HEXT/SE/202 6/23  
+Date: February  24, 2026  
+To,  To, 
+Listing Department   Department of Corporate Services  
+National Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza, Bandra -Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East), Mumbai - 400 051  Dalal Street,  Mumbai - 400 001   
+Symbol: HEXT  Scrip Code: 544362  
+ 
+Dear Sir, 
+Sub: Press Release  
+Please find enclosed Press Release on Hexaware to Transform Software Engineering with 
+AI-powered SDLC Solutions . 
+ This information will also be hosted on the Company’s website at www.hexaware.com  
+ 
+Kindly take the same on record.  
+ Yours faithfully,  
+ 
+For HEXAWARE TECHNOLOGIES LIMITED  
+   
+   
+Gunjan Methi  
+Company Secretary  and Compliance Officer  
+ 
+PRESS RELEASE  
+Hexaware to Transform Software Engineering with AI -powered SDLC Solutions  
+ Hexaware RapidX ® to turn AI -assisted coding into production -grade delivery discipline  
+ Mumbai, Feb 24, 2026 : Hexaware Technologies (NSE: HEXT), a global provider of IT services and 
+solutions , has expanded its collaboration with  Amazon Web Services (AWS ) to deliver AI -enabled 
+software development lifecycle (SDLC) capabilities to enterprises worldwide. This collaboration builds 
+on Hexaware’s Strategic Collaboration Agreement (SCA) with AWS to accelerate cloud adoption, 
+application modernization, and AI -led transformation.  
+The collaboration will leverage Hexaware ’s RapidX® , an AI -driven platform for software engineering, 
+and Kiro, an agentic integrated development environment (IDE) that helps teams move from prototype 
+to production -ready code in a more structured way. The solution  focuses on delivering four key 
+outcomes for software teams: reducing time -to-market, improving developer productivity, delivering 
+production -ready code at scale, and modernizing legacy applications without increasing operational 
+risk. 
+“Our clients want releases they can trust, even as they adopt AI in development,” said Sanjay  Salunkhe, 
+President & Global Head –  Digital and Software Services, Hexaware . “With RapidX ® and Kiro, we aim 
+to bring more structure, standards, and traceability into the SDLC so large programs can move faster 
+without increasing delivery risk.”  
+Key Highlights  
+• AI-powered Development Experience  
+o Virtual subject matter experts and spec -driven development model s help translate  natural 
+language requirements into structured, production -ready implementations  
+o Enterprise SDLC experience and agentic tooling in a single development workﬂow  
+• Enterprise -grade Security and Governance  
+o Solutions to be deployed within customer AWS environments with private LLM options via 
+Amazon Bedrock  
+o Enterprise SecOps alignment with organizational data residency, access controls, 
+monitoring, and audit support  
+• Comp rehensive SDLC Coverage  
+o From idea to release, covering requirements gathering, backlog creation, design thinking, 
+blueprinting, coding, testing, and documentation  
+o Support for application modernization, transition, and ongoing maintenance across 
+complex application estates  
+Hexaware  aims to help enterprises deliver software faster, improve quality, and modernize complex 
+systems with greater conﬁdence and control.  
+https://aws.amazon.com/marketplace/pp/prodview -juulkumbwkrig  
+ 
+About Hexaware  
+Hexaware is a global technology and business process services company. Every day, Hexawarians wake 
+up with a singular purpose: to create smiles through great people and technology. With oﬃces across the world, we empower enterprises worldwide to realize digital transformation at scale and speed by 
+partnering with them to build, transform, run, and optimize their technology and business processes. 
+Learn more about Hexaware at https://hexaware.com.  
+For details, please contact: 
+Reena Kamble  
+Aishwarya Pillai  
+Hexaware Technologies Limited  
+mediarelations@hexaware.com  

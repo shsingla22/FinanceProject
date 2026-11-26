@@ -1,0 +1,34 @@
+--- CIM_2505_WebXMLFile_20260925_164006155_1.xml (the exchange's structured disclosure) ---
+NSESymbol: LUMAXTECH ; Name Of The Company: LUMAX AUTO TECHNOLOGIES LIMITED ; Scrip Code: 532796 ; MSEISymbol: NOTLISTED ; ISIN: INE872H01027 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-25 ; Time Of Occurrence Of Event Or Information: 15:33:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-09-25 ; Type Of Change: Cessation ; Category Of Cessation: Superannuation or retirement ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Cessation ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sanjay Bhagat ; Effective Date Of Reason Of Change: 2026-09-30 ; Category Of Cessation: Resignation ; Designation Of Designated Person: Resignation ; Name Of Designated Person: Satish Sundaresan ; Effective Date Of Reason Of Change: 2026-09-25 ; Salutation: Mr. ; Name Of The Person: Satish Sundaresan ; Designation Of Person: Resignation ; Date On Which The Resignation Letter Was Received: 2026-06-18 ; Effective Date Of Resignation: 2026-09-25 ; Reason Of Resignation In Brief: To pursue interests outside the organisation.
+
+--- Resignation_letter_Satish_Sundaresan_2.pdf ---
+ANNEXURE-B
+
+To,
+
+Date: I~- JV ,-J .. 2..-'0 2....£
+
+The Nomination and Remuneration Committee,
+The Board of Directors
+Lumax Auto Technologies Limited
+Plot No. 878, Udyog Vihar, Phase - V,
+Gurugram, Haryana 122016 ·
+Subject: Resignation from the position of Chief Technology Officer designated as Senior
+Management Personnel of the Company
+Dear Sir/Ma'am,
+I hereby tender my resignation from the position of Chief Technology Officer designated as Senior
+Management Personnel of the Company as I have decided to pursue my interests outside the
+organisation.
+I request you to kindly accept my resignation and relieve me from my duties and responsibilities. My
+last day of working shall be September 25, 2026.
+I affirm that there is no other material reason for submitting the resignation apart from the one stated
+above.
+I would like to thank the management for the opportunity and I wish Lumax Auto Technologies Limited
+all the success in its future endeavours.
+Thanking you,
+
+Satish Sundaresan
+
+I
+
+

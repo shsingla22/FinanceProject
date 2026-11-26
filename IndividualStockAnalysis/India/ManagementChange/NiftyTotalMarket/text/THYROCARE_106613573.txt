@@ -1,0 +1,76 @@
+--- CIMG_539871_752026203816_CIM_WebXMLFile_20260507_203828591_1.xml (the exchange's structured disclosure) ---
+NSESymbol: THYROCARE ; Name Of The Company: Thyrocare Technologies Limited ; Scrip Code: 539871 ; MSEISymbol: NOTLISTED ; ISIN: INE594H01019 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-05-07 ; Start Time Of Board Meeting: 15:35:00 ; End Time Of Board Meeting: 17:40:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 7 ; Date Of Report: 2026-05-07 ; Type Of Change: Appointment ; Category For Change: Auditors ; Designation Of Designated Person: Statutory Auditor ; Salutation Of Designated Person: M/s. ; Name Of Designated Person: Price Waterhouse Chartered Accountants LLP ; Effective Date Of Reason Of Change: 2026-04-01 ; Term Of Appointment In Months: 60 ; Brief Profile: Price Waterhouse Chartered Accountants LLP, (the “Firm”) having a Firm Registration No. 012754N/N500016, is a firm of Chartered Accountants registered with the Institute of Chartered Accountants of India. The Firm was established in the year 1991 and was converted into a limited liability partnership in the year 2014. The registered office of the Firm is at Sucheta Bhawan, 11A Vishnu Digambar Marg, New Delhi - 110 002 and has seventeen (17) branch offices in various cities in India. The Firm is primarily engaged in providing auditing and other assurance services to its clients and is a member firm of Price Waterhouse & Affiliates, a network of firms registered with the Institute of Chartered Accountants of India having Network Registration No. NRN/E/14. Price Waterhouse & Affiliates is a network of separate, distinct and independent Indian Chartered Accountant firms, each of which is registered with the Institute of Chartered Accountants of India. The Firm has more than 125 Assurance Partners as of December 31, 2025. It has a valid peer review certificate and audits various companies listed on stock exchanges in India. ; Designation Of Designated Person: Cost Auditors ; Name Of Designated Person: Jitender Navneet & Co. Cost Accountants ; Term Of Appointment In Months: 12 ; Brief Profile: M/s. Jitender, Navneet &amp; Co. is a firm of Cost Accountants registered with the Institute of Cost Accountants of India. The firm is engaged in the field of cost audit, management consultancy, and advisory services. It is empanelled with various regulatory and financial institutions and has experience in handling cost audits and related assignments across industries. The firm is also registered with the PCAOB (USA) and is empanelled with authorities such as the Income Tax Department (including for assignments under Section 142(2A) of the Income-tax Act, 1961), IFCI (for PLI schemes), and GST authorities as Special Auditors. The firm was established in 2003 and has carried out assignments on a pan-India basis. Mr. Navneet Kumar Jain, Managing Partner of the firm, is currently serving as a Member of the Central Council of the Institute of Cost Accountants of India (ICMAI). ; Type Of Change: Re-appointment ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Chairperson ; Position Of Director In Board Three: CEO-MD ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Rahul Franklin Guha ; Effective Date Of Reason Of Change: 2027-05-04 ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Name Of Designated Person: Uday Patel Kadam ; Effective Date Of Reason Of Change: 2026-05-08 ; Term Of Appointment In Months: 1 ; Brief Profile: Mr. Uday Patel Kadam is a seasoned business leader with over 18 years of diverse experience across healthcare, technology, telecom and financial services sectors, with strong expertise in business strategy, P&L management, operations and supply chain. He is currently associated with API Holdings Limited as Chief Operating Officer & Chief Business Officer, where he is responsible for driving business strategy, operational excellence and growth initiatives, with end-to-end accountability for key business verticals, including supply chain and procurement functions. Prior to this, he has held leadership roles at Ninjacart as Business Head – Ninja Kisaan Platform, where he played a key role in building and scaling platform-led businesses and managing large-scale supply chain operations across India. Earlier, he was associated with Bharti Airtel for over six years in various senior leadership roles across sales, marketing, finance and business operations, including Head of Sales & Distribution (Karnataka) and Chief Commercial Officer – Airtel Mumbai. He began his career with HSBC and Deutsche Bank in finance and credit risk functions. Mr. Kadam holds a Master of Business Administration (MBA) from the Indian School of Business and brings strong leadership capabilities and strategic acumen, which will be valuable to the Company. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Nil ; Name Of Designated Person: Gaurav Verma ; Brief Profile: Mr. Gaurav Verma is a seasoned business leader with over 19 years of experience in marketing, consumer strategy and business leadership across the healthcare, food-tech and FMCG sectors. He currently serves as Chief Business Officer at API Holdings Limited (PharmEasy), where he is responsible for driving business growth, consumer strategy, and key strategic initiatives across e-pharmacy, e-diagnostics, partnerships and other healthcare initiatives of the Platform business. He previously served as Chief Marketing Officer at PharmEasy, playing a key role in brand building, customer engagement and growth during a transformative phase of the business. Prior to API Holdings, he held senior leadership roles at Zomato as Chief Marketing Officer, and subsequently as Global Growth Head (Dining Out). Before Zomato, he spent over nine years at PepsiCo, where he led marketing for marquee brands such as Kurkure, Lay's and Tropicana. He began his career with ITC and has also worked with Tata Tea Limited and Lenovo. Mr. Verma holds a Post Graduate Program in Management from the Indian Institute of Management, Bangalore, and a B.Tech in Electronics from the Indian Institute of Technology, Madras. His expertise in consumer insights, brand building and business scaling will add significant value to the Company. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Dharmil Nirupam Sheth ; Effective Date Of Reason Of Change: 2026-05-07 ; Name Of Designated Person: Dhaval Rajesh Shah ; Salutation: Mr. ; Name Of The Person: Dharmil Nirupam Sheth ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-04-30 ; Effective Date Of Resignation: 2026-05-07 ; Reason Of Resignation In Brief: Due to pre-occupation and other professional commitments ; Name Of The Person: Dhaval Rajesh Shah
+
+--- CIMG_539871_07052026203816_2.pdf ---
+April 30, 2026
+To,
+The Board of Directors,
+Thyrocare Technologies Limited
+D-3 7 /1, TTC MIDC Industrial Area,
+Turbhe, Navi Mumbai - 400703
+Maharashtra, India
+Subject: Resignation from the Directorship of the Company
+Dear Board Members,
+At the outset, I wish to express my gratitude to the Company and its shareholders for the
+opportunity to serve as a Non-Executive Non-Independent Director on the Board of Thyrocare
+Technologies Limited ("the Company").
+Due to preoccupation and other professional commitments, I hereby tender my resignation from
+the position of Non-Executive Non-Independent Director, with effect from the close of business
+hours on May 07, 2026. Consequently, I shall also cease to be a member of the following Board
+Committees with effect from the said date:
+•
+•
+•
+
+Nomination and Remuneration Committee
+Stakeholders Relationship Committee
+Risk Management Committee
+
+I confirm that there is no other material reason for my resignation other than what has been stated
+above.
+I sincerely thank the Board of Directors and the management team of the Company for their
+continuous support and cooperation during my tenure. I wish the Company continued growth and
+success in the future.
+Thanking you,
+Yours faithfully,
+
+·'
+Dharmil
+Nirupam Sheth
+DIN: 06999772
+
+
+April 30, 2026
+To,
+The Board of Directors,
+Thyrocare Technologies Limited
+D-37 /1, TTC MIDC Industrial Area,
+Turbhe, Navi Mumbai - 400703
+Maharashtra, India
+Subject: Resignation from the Directorship of the Company
+Dear Board Members,
+At the outset, I wish to express my gratitude to the Company and its shareholders for the
+opportunity to serv~ as a Non-Executive Non-Independent Director on the Board ofThyrocare
+Technologies Limited ("the Company").
+Due to preoccupation and other professional commitments, I hereby tender my resignation
+from the position of Non-Executive Non-Independent Director, with effect from the close of
+business hours on May 07, 2026. Consequently, I shall also cease to be a member of the
+following Board Committees with effect from the said date:
+•
+
+Corporate Social Responsibility Committee
+
+I confirm that there is no other material reason for my resignation other than what has been
+stated above.
+I sincerely thank the Board of Directors and the management team of the Company for their
+continuous support and cooperation during my tenure. I wish the Company continued growth
+and success in the future.
+Thanking you,
+Yours faithfully,
+
+~
+
+Dhaval Shah' ' •
+DIN: 07485688
+
+

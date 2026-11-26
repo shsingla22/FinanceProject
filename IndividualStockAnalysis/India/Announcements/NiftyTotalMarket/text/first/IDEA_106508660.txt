@@ -1,0 +1,192 @@
+ 
+  
+ 
+ 
+27 January 2026  
+ 
+National Stock Exchange of India Limited  
+“Exchange Plaza”,  
+Bandra - Kurla Complex,  
+Bandra (E),  
+Mumbai – 400 051  BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+ 
+ 
+Dear Sirs,  
+ 
+Sub: Quarterly Report for T hird Quarter and Nine months e nded 3 1 December  2025  
+ 
+Ref: “Vodafone Idea Limited” (IDEA / 532822)  
+ 
+In continuation with  our letter of even date, we hereby enclose  a copy of the Quarterly 
+Report being issued on the performance of the Company for the third  quarter and nine 
+months ended 31 December  2025.  
+ The above is for your information and dissemination to the public at large.  
+ Thanking you,  
+ 
+Yours truly,  
+For Vodaf one Idea Limited 
+ 
+ 
+ 
+Pankaj Kapdeo  
+Company Secretary  
+ 
+Encl: As above  
+ 
+ 
+ 
+ 
+ 
+ 
+Quarterly Report  Dec’25 Page 1 of 17 
+
+Quarterly Report  Dec’25 Page 2 of 17 
+Unless stated otherwise, the financial data in this report is derived from our un -audited / audited financial 
+statements prepared in accordance with Ind AS adopted in Q1FY17, with transition date of April 01, 2015. Our 
+financial year ends on March 31 of ea ch year, so all references to a particular financial year are to the twelve 
+months ending March 31 of that year. In this report, any discrepancies in any table between the total and the sums 
+of the amounts listed are due to rounding -off. There are signific ant differences between Indian GAAP, IFRS, Ind AS 
+and U.S. GAAP; accordingly, the degree to which the Ind AS financial statements will provide meaningful 
+information is dependent on the reader’s familiarity with Indian accounting practices. Any reliance by  persons not 
+familiar with Indian accounting practices on the financial information presented in this report should accordingly 
+be limited. We have not attempted to explain such differences or quantify their impact on the financial data 
+included herein.  
+Unless stated otherwise, industry data used throughout this report has been obtained from industry publications. 
+Industry publications generally state that the information contained in those publications has been obtained from 
+sources believed to be reliable  but that their accuracy and completeness are not guaranteed and their reliability 
+cannot be assured. Although we believe that industry data used in this report is reliable, it has not been 
+independently verified.  
+Actual results may differ materially from those suggested by the forward -looking statements due to risks or 
+uncertainties associated with our expectations with respect to, but not limited to, our ability to successfully 
+implement our strategy, our growth and expansion, technological changes, our e xposure to market risks, general 
+economic and political conditions in India which have an impact on our business activities or investments, the 
+monetary and interest policies of India, inflation, deflation, unanticipated turbulence in interest rates, forei gn 
+exchange rates, equity prices or other rates or prices, the performance of the financial markets in India and 
+globally, changes in domestic and foreign laws, regulations and taxes and changes in competition in the industry.
+
+Quarterly Report  Dec’25 Page 3 of 17 
+Vodafone India Limited merged into Idea Cellular Limited (ICL) on August  31, 2018. Consequently, the 
+name of the C ompany has been changed from ICL to Vodafone Idea Limited.  Vodafone Idea Limited is 
+an Aditya Birla Group and Vodafone Group partnership. The C ompany  offers  Voice an d Data services on 
+2G, 4G and/or 5G technologies  across 22 service areas  in India . With its large spectrum portfolio to 
+support the growing demand for data and voice, the C ompany is committed to deliver delightful 
+customer experiences and contribute towards creating a truly ‘Digital India’ by enabling millions of 
+citizens to connect and build a better tomorrow. The Company is developing world -class infrastructure 
+to introduc e newer and smarter technologies, making both retail and enterprise customers future ready 
+with innovative offerings, conveniently accessible through an ecosystem of digital c hannels as well as 
+extensive on the ground presence. The Company is listed on the National Stock Exchange (NSE) and the 
+BSE in India.  
+Promoter Groups  
+Vodafone is a leading European and African telecoms company.  It serve s over 360 million mobile and 
+broadband customers, operating networks in 15 countries with investments in a further f ive and 
+partners in over 40 more. It has  capacity on more than 70 subsea cable systems – the backbone of the 
+internet – and is developing a new direct -to-mobile satellite communications service to connect areas 
+without coverage. Vodafone runs one of the wo rld’s largest IoT platforms, with over 220 million IoT 
+connections globally, and provide s financial services to around 94 million customers across seven African 
+countries – managing more transactions than any other provider.  
+The Aditya Birla Group  is amongst India’s largest business conglomerates and a leading multinational 
+enterprise globally. With a turnover exceeding $67 billion (FY25), emanating from sector leadership 
+across its portfolio — from manufacturing in cement, metals and mining, carbon bl ack, renewables, 
+chemicals and paints, to consumer -focused businesses such as mobile telecommunications, fashion 
+retail, financial services, real estate and jewellery retail. The Group is uniquely global, with overseas 
+operations in more than 40 countries contributing approximately 42% of the revenues.  
+Quarterly Report  Dec’25 Page 4 of 17 
+Corporate Structure  
+  * Directly or indirectly  
+Other subsidiaries  (Insignificant business / non -operating ) 
+•Vodafone  Idea  Technology Solutions Limited
+Business Segments  
+a.Mobility
+•Voice Business – The Company  offers Voice services  in all 22 service areas.  The C ompany covers
+91.3% of  India ’s population# with coverage in over 487,000  Census towns and villages with  its
+Voice services . The C ompany also offer s 4G VoLTE across all  22 circles to provide enhanced voice
+experience to its 4G subscribers  as well as Voice over Wi-Fi (VoWi Fi) in several circles . This quarter
+the Company has also expanded  its 5G services in 43 cities across all 17 priority circles .
+•Broadband Services  – The broadband services of  the Company  on 4G platform is available in all
+22 service areas of India. The Company’s 4G coverage is available in over 407,500  Census towns
+and villages  and covers over 8 5% of population#. 
+#Basis the Census 2011 data adjusted for 2020 by using Aadhaar Card data and proportionately extrapolating for all census dat a
+points, reported by an independent third -party  consultant.
+•Content and Digital Offerings - In line with its core strategy, the co mpany has been deeply
+invested in building a comprehensive portfolio of digital products & services to complement the
+core business. The Company  has launched several digital initiatives keeping in mind the  ever -
+evolving  needs of today's consumers and enabl ed them with  a range of benefits. The company
+has over the past 2 years launched propositions like Vi Movies & TV, Vi Games, Vi Shop, Vi Finance,
+which continue to evolve and scale.
+oVi Movies & TV:  It is an OTT app , which is available across Smartphones , Smart TVs,
+laptops, PCs & tablets. Vi Movies & TV offers access to 20+ OTTs through various
+subscription options to the Company’s  prepaid & postpaid users. The OTTs available on Vi
+Movies & TV include Zee5, JioHotstar, SonyLiv, Lionsgate, Fancode, SunNxt,  Amazon MX
+Player, Chaupal, Malayalam Manorama, Nammaflix, Playflix & more, and over 300 Live TV
+Vodafone 
+Idea 
+Manpower 
+Services 
+LimitedVodafone Idea 
+Business 
+Services 
+LimitedVodafone Idea 
+Communication 
+Systems LimitedVodafone Idea 
+Shared 
+Services 
+LimitedYou 
+Broadband 
+India LimitedVodafone 
+FoundationVodafone Idea 
+Telecom 
+Infrastructre 
+LimitedVodafone Idea 
+Next-Gen 
+Solutions Limited 
+(earlier Vodafone 
+M-Pesa Limited)
+Manpower 
+ServicesData Centre,
+OSP ServicesTrading of 
+communication 
+devicesShared 
+service center Fixed line 
+BroadbandSection 8 
+Company - 
+CSR 
+activitiesFibre assets New Age Digital 
+Business
+
+Quarterly Report  Dec’25 Page 5 of 17 
+channels. The Vi Movies & TV plans are bundled with additional data this allows the 
+consumers to watch freely without worrying about their data getting exhaust ed. Vi 
+Movies & TV has  grown well in terms of adoption and consumption in the last 18 months 
+since its launch and, the focus is to continue to scale, ingest more varied content and build 
+distinct features to make  the app  a destination of choice for more & more consumers.  
+oVi Finance:  Our latest endeavour launched on Vi App during th is quarter, is 'Vi Finance'
+under which the Company offer s Personal Loans, Fixed Deposits and Credit Cards to users.
+The Company  has entered into a strategic partnership with Aditya Birla Capital and very
+recently with InstaMoney, to offer personal loans. The Company has  a roadmap to use
+their expertise & customer intelligence to expand offerings to other loan products in near
+future. Customers will also be able to make fixed deposits on Vi App - choosing from a
+range of options between banks & NBFCs and get attractive interest rates on their savings.
+oVi Ads:  The Company  also has its own Ad -tech platform called 'Vi Ads' providing Digit al
+Advertising services for Media Agencies & Brands for running targeted marketing
+campaigns . The  Ad-tech platform, through its AI/ML enabled insights empowers
+marketers to engage with their users, as per their targeting requirements . The platform is
+avail able  on both  the Company’s media assets as well as external media channels and
+publisher partners of Vi Ads. Vi Ads is now empanelled with almost all the top media
+agencies and is a part of the media plan for some of the big brands in the country. The
+Comp any is focussed  to scale Vi Ads  and has  signed some strategic partnerships that will
+drive next phase of growth.
+oVi Games:  The Company offers gaming service - Vi Games on Vi App. Vi Games offers a
+wide variety of individual hyper casual games in partnership with OnMobile. The Company
+also has multiplayer or social games under Vi Games. This includes casual games like
+Solitaire, Carrom, Wordle, Ludo, Sudoku, Cricket, Soccer, Rummy, etc . which one can play
+with acquaintances or online players or eve n participate in ongoing daily tournaments.
+oVi Shop: Leveraging telco data and access capabilities to create a digital marketplace, the
+Company has launched ' Vi Shop' section on Vi App in partnership with leading players
+across categories like entertainme nt, food, shopping and travel. The Company  has also
+integrated Vi Shop with ONDC to aid their agenda of democratising ecommerce and
+bring ing value to customers.
+With a view  to establish Vi App as a preferred destination, the app has  also integrated 'utility bill 
+payment' functionality enabling users to pay their electricity bills, water bills, LPG bills, insurance  

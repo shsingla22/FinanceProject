@@ -1,0 +1,335 @@
+ 
+ 
+Sai Life Sciences Limited (CIN: L24110TG1999PLC030970 ) 
+Corporate office  
+# L4-01 & 02, SLN Terminus,  Survey 
+#133, Gachibowli Miyapur Road, 
+Gachibowli, Hyderabad – 500032, 
+Telangana, India.  Registered office  
+Plot No. DS -7, IKP Knowledge Park, Turkapally 
+(V), Shameerpet Mandal, Medchal -Malkajgiri  
+(Dist), Hyderabad -500078, Telangana, India.  Contact us  
+T: +91 40 6815 6000,  
+F: +91 40 6815 6199  
+E: info@sailife.com  
+W: www.sailife.com  
+ 05 February  2026 
+ 
+To 
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G, Bandra Kurla 
+Complex, Bandra (E), Mumbai – 400 051  
+NSE Scrip Symbol: SaiLife  To 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, Dalal Street  
+Mumbai – 400001  
+BSE Scrip Code: 544306  
+. 
+Sub:  Outcome of the Board Meeting dated 05 February 2026  
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 , 33 and any other provisions of the SEBI (Listing Obligations and 
+Disclosure Requirements)  Regulations, 2015, we hereby inform you that, the Board of 
+Directors of the Company, at its meeting  held  on Thurs day, 05 February 2026 , inter -alia 
+considered and approved the following:  
+ 
+1. Unaudited Financial Results (Standalone and Consolidated) of the Company and noted 
+the Limited Review Report  of the Statutory Auditors, M/s. Deloitte Haskins & Sells LLP 
+for the quarter and nine months ended  on 31 December  2025. A copy of the same are 
+enclosed herewith . 
+ 
+The Meeting of the Board of Directors was duly commenced at 08:00 PM (IST) and concluded 
+at 08:33 PM (IST).  
+ 
+We request you to take note of the same and oblige.  
+ 
+Thank you.  
+ 
+For Sai Life Sciences Limited  
+ 
+ 
+ 
+ 
+Runa Karan  
+Company Secretary & Compliance Officer  
+Mem bership No.: A13721  
+ 
+Encl: As above  
+31 December 
+202530 September 
+202531 December 
+202431 December 
+202531 December 
+202431 March 2025
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+INCOME
+IRevenue from operations 5,491.79                  5,266.69              4,286.02              15,588.86           10,750.42           16,420.48        
+IIOther income 84.47                        149.33                 94.48                   333.86                 275.16                 373.35              
+III Total income (I + II) 5,576.26                  5,416.02             4,380.50             15,922.72           11,025.58           16,793.83       
+IV EXPENSES
+Cost of material, chemicals & reagents consumed 1,127.57                  1,417.76              1,169.21              4,098.64              2,914.56              4,455.19           
+Changes in inventories of work-in-progress 137.78                     (53.74)                  (2.55)                    (97.44)                  (62.04)                  41.30                 
+Employee benefits expense 1,592.27                  1,460.37              1,210.55              4,478.49              3,510.11              4,855.57           
+Finance costs 80.61                        76.97                   216.59                 264.54                 608.74                 700.32              
+Depreciation and amortisation expense 405.96                     362.11                 310.70                 1,111.32              919.38                 1,260.33           
+Other expenses 844.45                     1,043.84              796.87                 2,791.02              2,022.32              3,163.96           
+Total expenses (IV) 4,188.64                  4,307.31             3,701.37             12,646.57           9,913.07             14,476.67       
+V Profit before exceptional items and tax (III - IV) 1,387.62                  1,108.71             679.13                 3,276.15             1,112.51             2,317.16           
+VI Exceptional Items, Loss  (refer note 3) (82.93)                      -                        -                        (82.93)                  -                        -                     
+VII Profit before tax (V + VI) 1,304.69                  1,108.71             679.13                 3,193.22             1,112.51             2,317.16           
+VIII Tax expense
+(i) Current tax 307.89                     292.77                 99.02                   739.23                 162.87                 338.16              
+(ii) Deferred tax 20.50                        (13.55)                  69.54                   64.50                   114.37                 244.38              
+Total tax expense (VIII) 328.39                     279.22                 168.56                 803.73                 277.24                 582.54              
+IX Profit for the period / year (VII - VIII) 976.30                     829.49                 510.57                 2,389.49             835.27                 1,734.62           
+XOther comprehensive income:
+A.Items that will not be reclassified to profit or loss:
+(i)  Re-measurement of defined benefit plans 8.74                          (9.25)                    (2.81)                    (1.08)                    (8.43)                    4.53                   
+(ii) Income-tax on items that will not be reclassified to profit or loss (2.20)                         2.33                      0.71                      0.27                      2.12                      (1.14)                  
+B.Items that will  be reclassified to profit or loss:
+(i) Effective portion of gain/(loss) on designated portion of hedging instruments in a 
+cash flow hedge(7.56)                         (213.30)                (65.84)                  (200.32)                (76.99)                  7.70                   
+(ii) Income-tax on items that will be reclassified to profit or loss 1.90                          53.69                   16.57                   50.42                   19.37                   (1.94)                  
+Total other comprehensive income/(loss) for the period / year, net of tax (A + B) 0.88                          (166.53)                (51.37)                  (150.71)                (63.93)                  9.15                   
+Total comprehensive income for the period / year (IX + X) 977.18                     662.96                 459.20                 2,238.78             771.34                 1,743.77           
+Paid-Up Equity share capital (Face value of Rs. 1 each) (refer note 4) 211.23                     209.83                 207.99                 211.23                 207.99                 208.41              
+Other equity 21,466.23        
+XI Earnings per equity share Not Annualised Not Annualised Not Annualised Not Annualised Not Annualised Annualised
+a) Basic 4.64                          3.97                      2.74                      11.42                   4.49                      9.00                   
+b) Diluted 4.58                          3.89                      2.69                      11.26                   4.40                      8.78                   
+See accompanying notes to the standalone financial resultsSI.No ParticularsQuarter EndedSAI LIFE SCIENCES LIMITED
+CIN: L24110TG1999PLC030970 | Website: www.sailife.com
+Registered Office: DS-7, IKP Knowledge Park, Turkapally Village, Shameerpet Mandal, Medchal-Malkajgiri District-500078, Telangana, India
+Year Ended(Rs. in million, except per share data)STATEMENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED 31 DECEMBER 2025
+Nine Months Ended
+Notes:
+1
+2
+3
+4
+5
+(Rs. in million)
+Objects of the offer as per ProspectusAmount to be 
+UtilisedUtilisation up to 
+31 December 2025Unutilised as at 
+31 December 2025
+Repayment /prepayment, infullorpart ofallorcertain
+outstanding borrowings availed by our company                       7,200.00                                  7,200.00                                                 -   
+General corporate purposes                        1,898.84                                  1,898.84                                                 -   
+Total                        9,098.84                                  9,098.84                                                 -   
+For and on behalf of Board of Directors
+Sai Life Sciences Limited
+Krishnam Raju
+Managing Director
+Place : Hyderabad DIN No: 00064614
+Date : 05 February 2026SAI LIFE SCIENCES LIMITED
+CIN: L24110TG1999PLC030970 | Website: www.sailife.com
+Registered Office: DS-7, IKP Knowledge Park, Turkapally Village, Shameerpet Mandal, Medchal-Malkajgiri District-500078, Telangana, India
+The above Standalone financial results ofSaiLife Sciences Limited ('the Company') forthequarter and nine months ended 31December
+2025 have been prepared inaccordance with therecognition and measurement principles laid down intheIndian Accounting Standards
+(Ind AS") -34"Interim Financial Results" prescribed under Section 133 ofthe Companies Act, 2013, read with relevant rules issued
+thereunder and interms ofRegulation 33oftheSecurities and Exchange Board ofIndia (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended.
+The Standalone financial results oftheCompany have been reviewed bytheAudit Committee and approved bytheBoard ofDirectors of
+the Company attheir respective meetings held on05February 2026. The Standalone financial results forthe quarter and nine months
+ended 31December 2025 have been reviewed bythe statutory auditors ofthe Company. The statutory auditors ofthe Company have
+issued an unmodified conclusion in respect of the limited review for the quarter and nine months ended 31 December 2025.
+During theprevious year ended 31March 2025, theCompany hascompleted itsInitial Public Offer ofequity shares offace value ofRs.1
+each ataissue price ofRs.549 pershare (including premium ofRs.548 pershare) comprising ofOffer forSale of38,116,934 equity shares
+byselling share holders aggregating toRs.20,962.19 million and fresh issue of17,304,189 equity shares aggregating toRs.9,500.00
+million. The equity shares ofthe Company got listed onNational Stock Exchange ofIndia Limited and Bombay Stock Exchange on18
+December 2024.
+The total offer expenses areestimated tobeRs.1,284.81 million (inclusive oftaxes) which areproportionately allocated between the
+selling shareholders and the Company inthe ratio ofequity shares sold bythe selling shareholders and issued bythe Company. The
+utilisation of IPO proceeds of Rs. 9,098.84 million (net of provisional IPO expenses of Rs. 401.16 million) is summarized below:On21November 2025, theGovernment ofIndia notified provisions oftheCode onWages, 2019, theIndustrial Relations Code, 2020, the
+Code onSocial Security, 2020 and theOccupational Safety, Health and Working Conditions Code, 2020,(‘LabourCodes’) which consolidate
+twenty-nine existing labour laws into aunified framework governing employee benefits during employment and post-employment. The
+Labour Codes, amongst other things introduce achange inthedefinition ofwages. The Company hasassessed thefinancial implications of
+this change which has resulted inincrease ingratuity liability arising out ofpast service cost and increase inleave liability ofRs.82.93
+million. 
+Considering theimpact arising outofanenactment ofthenew legislation isanevent ofnon-recurring nature, theCompany haspresented
+this incremental amount as“Exceptional Item” intheStandalone financial results forthequarter and nine months ended 31December
+2025. Incase ofany further clarification from the Govemment onother aspects ofthe Labour Codes, the Company will evaluate and
+account for differential impact, if any, in subsequent periods.
+During thequarter ended 31December 2025, theNomination and Remuneration Committee approved, byway ofcircular resolution, the
+grant of205,000 employee stock options(“ESOPs”) under theSaiLife Sciences Limited Management ESOP Scheme–2018(“MES2018”)
+with thegrant date effective 13November 2025. Ofthetotal options granted, 95,000 options willvest inequal annual instalments over a
+period of four years and the remaining 110,000 options will vest in equal annual instalments over a period of five years.
+ 
+Regd Office  :31st Floor, Tower  3, One International Center , Senapati  Bapat  Marg,  Elphinstone  Road 
+(West),  Mumbai  – 400013  
+ 
+Page 1 of 1 Chartered Accountants  
+Prestige Trade Tower, Level 19   
+46, Palace Road, High Grounds  
+Bengaluru – 560 001  
+Karnataka, India 
+ 
+Tel: +91 80  6188 6000 
+Fax: +91 80 6188 6011  
+ 
+                                                                                             
+INDEPENDENT AUDITOR’S REVIEW REPORT ON REVIEW OF INTERIM STANDALONE 
+FINANCIAL RESULTS  
+      
+TO THE BOARD OF DIRECTORS OF SAI LIFE SCIENCES LIMITED  
+ 
+1. We have reviewed the accompanying Statement of Unaudited Standalone Financial Results of Sai Life Sciences Limited (“the Company”), for the quarter  and nine months  ended Decembe r 
+31, 2025 (“the Statement”), being submitted by the Company pursuant to the requirement of 
+Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+as amended (“the Listing Regulations”).   
+ 
+2. This Statement, which is the responsibility of the Company’s Management and approved by the 
+Company’s Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in the Indian Accounting Standard 34 “Interi m Financial 
+Reporting” (“Ind AS 34”), prescribed under Section 133 of the Companies Act, 2013 read with 
+relevant rules issued thereunder and other accounting principles generally accepted in India and 
+in compliance with Regulation 33  of the Listing Regula tions. Our responsibility is to express a 
+conclusion on the Statement based on our review.  
+ 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 ‘Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity’, issued by the Institute of Chartered Accountants of India 
+(ICAI). A review of interim financial information consists of making inquiries, primarily of the 
+Company’s personnel responsible for financial and accounting matters and applying analytical and other review procedures. A review is substantially less in s cope than an audit conducted in 
+accordance with Standards on Auditing specified under section 143(10) of the Companies Act, 
+2013 and consequently does not enable us to obtain assurance that we would become aware of all significant matters that might be ide ntified in an audit. Accordingly, we do not express an 
+audit opinion.   
+ 
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our 
+attention that causes us to believe that the accompanying Statement, prepared in accordance with the recognition and measurement principles laid down in the aforesaid Ind ian Accounting 
+Standard and other accounting principles generally accepted in India, has not disclosed the information required to be disclosed in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as am ended, including the manner in which it 
+is to be disclosed, or that it contains any material misstatement.  
+  
+ 
+For DELOITTE HASKINS & SELLS LLP  
+Chartered Accountants 
+(Firm’s Registration No. 117366W/W -100018)  
+   
+ 
+Sathya P Koushik  
+(Partner)  
+(Membership No. 206920)  
+(UDIN: 26206920BIVVBP3320)  
+Place: Bengaluru  
+Date: February 05, 2026 
+SPK/RK/202 6 
+Year Ended
+31 December 
+202530 September 
+202531 December 
+202431 December 
+202531 December 
+202431 March 
+2025
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+INCOME
+IRevenue from operations 5,564.64              5,374.70              4,397.78              15,903.53           11,150.63           16,945.70    
+II Other income 83.80                   153.25                 91.15                   336.09                 271.80                 367.79           
+III Total income (I + II) 5,648.44              5,527.95              4,488.93              16,239.62           11,422.43           17,313.49    
+IV EXPENSES
+Cost of material, chemicals & reagents consumed 1,142.42              1,451.83              1,215.31              4,189.29              3,039.24              4,607.95      
+Changes in inventories of work-in-progress 137.10                 (50.60)                  (7.01)                    (97.44)                  (58.83)                  49.69             
+Employee benefits expense 1,729.87              1,627.93              1,329.35              4,964.01              3,980.24              5,491.18      
+Finance costs 96.99                   93.51                   231.27                 314.14                 652.77                 761.64           
+Depreciation and amortisation expense 440.75                 397.48                 340.93                 1,215.47              1,010.85              1,385.73      
+Other expenses 676.72                 887.29                 662.60                 2,301.57              1,709.10              2,740.27      
+Total expenses (IV) 4,223.85              4,407.44              3,772.45              12,887.04           10,333.37           15,036.46    
+V Profit before exceptional items and tax (III - IV) 1,424.59              1,120.51              716.48                 3,352.58              1,089.06              2,277.03      
+VI Exceptional Items, Loss  (refer note 4) (82.93)                  -                       -                       (82.93)                  -                       -                 
+VII Profit before tax (V + VI) 1,341.66              1,120.51              716.48                 3,269.65              1,089.06              2,277.03      
+VIII Tax expense
+(i) Current tax 313.85                 296.53                 99.08                   751.24                 162.97                 338.44           
+(ii) Deferred tax 24.06                   (14.46)                  78.89                   71.67                   107.46                 237.27           
+Total tax expense (VIII) 337.91                 282.07                 177.97                 822.91                 270.43                 575.71           
+IX Profit for the period / year (VII - VIII) 1,003.75              838.44                 538.51                 2,446.74              818.63                 1,701.32      
+X Other comprehensive income:
+A.(i) Items that will not be reclassified to profit or loss:
+(a) Re-measurement of defined benefit plans 8.74                     (9.25)                    (2.81)                    (1.08)                    (8.23)                    4.52               
+(ii) Income-tax on items that will not be reclassified to profit or loss (2.20)                    2.33                     0.71                     0.27                     2.12                     (1.17)              
+B.(i) Items that will  be reclassified to profit or loss:
+(a) Effective portion of gain/(loss) on designated portion of hedging instruments 
+in a cash flow hedge(7.56)                    (213.30)                (65.84)                  (200.32)                (77.00)                  7.70               
+(b) Exchange differences on translating foreign operations 8.23                     24.19                   12.41                   33.63                   2.20                     2.78               
+(ii) Income-tax on items that will be reclassified to profit or loss 1.90                     53.69                   16.58                   50.42                   19.38                   (1.94)              
+Total other comprehensive income/(loss) for the period/year, net of tax (A + B) 9.11                     (142.34)                (38.95)                  (117.08)                (61.53)                  11.89             
+Total comprehensive income for the period / year (IX + X) 1,012.86              696.10                 499.56                 2,329.66              757.10                 1,713.21      
+Paid-Up Equity share capital (Face value of Rs. 1 each) (refer note 7) 211.23                 209.83                 207.99                 211.23                 207.99                 208.41           
+Other equity 21,075.13    
+XI Earnings per equity share Not Annualised Not Annualised Not Annualised Not Annualised Not Annualised Annualised
+a) Basic 4.77                     4.01                     2.89                     11.69                   4.40                     8.83               
+b) Diluted 4.71                     3.93                     2.84                     11.53                   4.31                     8.61               
+See accompanying notes to the consolidated financial resultsNine Months EndedSAI LIFE SCIENCES LIMITED
+CIN: L24110TG1999PLC030970 | Website: www.sailife.com
+Registered Office: DS-7, IKP Knowledge Park, Turkapally Village, Shameerpet Mandal, Medchal-Malkajgiri District-500078, Telangana, India
+STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED 31 DECEMBER 2025
+(Rs. in million, except per share data)
+SI.No ParticularsQuarter Ended
+Notes:
+1
+2
+3
+4
+5 Information of Standalone financial results: (Rs. in million)
+Year Ended
+31 December 2025 30 September 2025 31 December 2024 31 December 2025 31 December 2024 31 March 2025
+Unaudited Unaudited Unaudited Unaudited Audited Audited
+Total Income 5,491.79                   5,266.69                        4,286.02                    15,588.86                 10,750.42                   16,420.48               
+Profit before tax 1,304.69                   1,108.71                        679.13                       3,193.22                   1,112.51                     2,317.16                 
+Profit after tax 976.30                      829.49                           510.57                       2,389.49                   835.27                        1,734.62                 
+6
+(Rs. in million)
+Amount to be 
+UtilisedUtilisation up to 
+31 December 2025Unutilised as at 
+31 December 2025
+                    7,200.00                    7,200.00                                  -   
+                    1,898.84                    1,898.84                                  -   
+                    9,098.84                    9,098.84                                  -   
+7
+8
+For and on behalf of Board of Directors
+Sai Life Sciences Limited
+Krishnam Raju
+Place: Hyderabad Managing Director
+Date: 05 February 2026 DIN No: 00064614The Consolidated financial results oftheGroup have been reviewed bytheAudit Committee and approved bytheBoard ofDirectors oftheCompany attheir
+respective meetings held on05February 2026. The Consolidated financial results forthe quarter and nine months ended 31December 2025 have been
+reviewed bythestatutory auditors oftheCompany. The statutory auditors oftheCompany have issued anunmodified conclusion inrespect ofthelimited
+review for the quarter and nine months ended 31 December 2025.
+During theprevious year ended 31March 2025, theCompany hascompleted itsInitial Public Offer ofequity shares offace value ofRs.1each ataissue price
+ofRs.549 pershare (including premium ofRs.548 pershare) comprising ofOffer forSale of38,116,934 equity shares byselling share holders aggregating to
+Rs.20,962.19 million and fresh issue of17,304,189 equity shares aggregating toRs.9,500.00 million. The equity shares oftheCompany gotlisted onNational
+Stock Exchange of India limited and Bombay Stock Exchange on 18 December 2024.
+The total offer expenses areestimated tobeRs.1,284.81 million (inclusive oftaxes) which areproportionately allocated between theselling shareholders and
+theCompany intheratio ofequity shares sold bytheselling shareholders and issued bytheCompany. The utilisation ofIPO proceeds ofRs.9,098.84 million
+(net of provisional IPO expenses of Rs. 401.16 million) is summarized below:
+The Group operates inasingle segment ofproviding "Contract Research, Development and Manufacturing Services (CRDMO)". Hence, noseparate segment
+disclosures is required under "Ind AS-108 on Operating Segments".Quarter EndedParticularsNine Months Ended
+Objects of the offer as per Prospectus
+Repayment / prepayment, in full or part of all or certain outstanding 
+borrowings availed by our company
+General corporate purposes
+Total
+During thequarter ended 31December 2025, theNomination and Remuneration Committee approved, byway ofcircular resolution, thegrant of205,000
+employee stock options(“ESOPs”) under the SaiLife Sciences Limited Management ESOP Scheme–2018(“MES2018”) with the grant date effective 13
+November 2025. Ofthetotal options granted, 95,000 options will vest inequal annual instalments over aperiod offour years and the remaining 110,000
+options will vest in equal annual instalments over a period of five years.On21November 2025, the Government ofIndia notified provisions ofthe Code onWages, 2019, the Industrial Relations Code, 2020, the Code onSocial
+Security, 2020 and theOccupational Safety, Health and Working Conditions Code, 2020,(‘LabourCodes’) which consolidate twenty-nine existing labour laws
+into aunified framework governing employee benefits during employment and post-employment. The Labour Codes, amongst other things introduce a
+change inthedefinition ofwages. The Group has assessed thefinancial implications ofthis change which has resulted inincrease ingratuity liability arising
+out of past service cost and increase in leave liability of Rs. 82.93 million. 
+Considering the impact arising out ofanenactment ofthe new legislation isanevent ofnon-recurring nature, the Group has presented this incremental
+amount as“Exceptional Item” inthe Consolidated financial results forthe quarter and nine months ended 31December 2025. Incase ofany further
+clarification from theGovemment onother aspects oftheLabour Codes, theGroup will evaluate and account fordifferential impact, ifany, insubsequent
+periods.SAI LIFE SCIENCES LIMITED
+CIN: L24110TG1999PLC030970 | Website: www.sailife.com
+Registered Office: DS-7, IKP Knowledge Park, Turkapally Village, Shameerpet Mandal, Medchal-Malkajgiri District-500078, Telangana, India
+The above Consolidated financial results oftheGroup forthequarter and nine months ended 31December 2025 have been prepared inaccordance with the
+recognition and measurement principles laid down intheIndian Accounting Standards (Ind AS") -34"Interim Financial Results" prescribed under Section 133
+oftheCompanies Act, 2013, read with relevant rules issued thereunder and interms ofRegulation 33oftheSecurities and Exchange Board ofIndia (Listing
+Obligations and Disclosure Requirements) Regulations, 2015, as amended.The Consolidated financial results include the financial results of the Parent - Sai Life Sciences Limited and the financial results of the following subsidiaries:
+i.  Sai Life Sciences Inc, USA
+ii. Sai Life GmBH, Germany
+iii. Sai Life Pharma Limited, India
+The Company and the Subsidiaries are collectively referred to as 'the Group'.

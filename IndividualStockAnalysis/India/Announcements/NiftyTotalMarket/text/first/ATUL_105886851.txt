@@ -1,0 +1,120 @@
+  
+ 
+         
+June 20, 2024  
+ 
+The Manager  
+Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street,  
+Mumbai – 400 001   
+Through: BSE Listing portal  The Manager  
+Listing Department  
+National Stock Exchange of India Limited  
+“Exchange Plaza” C –  1, Block G  
+Bandra Kurla Complex, Bandra (East)   
+Mumbai – 400 051   
+Through: Digital Exchange portal  
+SCRIP CODE: 500027  SYMBOL: ATUL  
+                                              
+Dear Sirs,  
+ 
+ Sub.:  Information regarding duplicate register . 
+Ref.:  Regulation 39(3) of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+ 
+Pursuant to Regulation 39(3) of the Securities and Exchange Board of India  (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 , we are forwarding information  received on June 19, 
+2024  from Link Intime India Pvt Ltd, Registrar and Share Transfer Agent regarding duplicate register . 
+ 
+Kindly take the above on records.  
+ Thank you,  
+ 
+For Atul Limited  
+  Lalit Patni  
+Company Secretary and Chief Compliance Officer  
+ Encl.: as above. 
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN505733TO: TN505730FROM:Atul Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN505730 000239
+ANSUYA B PATEL 19/06/2024
+DUP 10.00OLD 25  7867666  7867642  25  123089  123090 
+ 25 ---------------
+ 10.00NEW 25  7867666  7867642  25  819402  819402 
+ 25 ---------------
+TN505731 004239
+NOMAN LOOKMANJI RUPAWALA 19/06/2024
+DUP 10.00OLD 5  263861  263857  5  6286  6286 
+ 10.00OLD 1  7911981  7911981  1  127435  127435 
+ 6 ---------------
+ 10.00NEW 5  263861  263857  5  819403  819403 
+ 10.00NEW 1  7911981  7911981  1  819403  819403 
+ 6 ---------------
+TN505732 006090
+SAMINA NOMAN RUPAWALA 19/06/2024
+DUP 10.00OLD 5  305502  305498  5  9050  9050 
+ 10.00OLD 1  7920972  7920972  1  129287  129287 
+ 6 ---------------
+ 10.00NEW 5  305502  305498  5  819404  819404 
+ 10.00NEW 1  7920972  7920972  1  819404  819404 
+ 6 ---------------
+TN505733 015620
+NARANDAS JETHALAL MODI
+JAYANTILAL JETHALAL MODI19/06/2024
+DUP 10.00OLD 10  1171844  1171835  10  30744  30744 
+ 10.00OLD 2  8092091  8092090  2  143343  143343 
+ 10.00OLD 10  10285694  10285685  10  231583  231583 
+ 10.00OLD 5  13830520  13830516  5  314785  314785 
+19/06/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN505733TO: TN505730FROM:Atul Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+DUP 10.00OLD 15  16990795  16990781  15  439085  439085 
+ 42 ---------------
+ 10.00NEW 10  1171844  1171835  10  819405  819405 
+ 10.00NEW 2  8092091  8092090  2  819405  819405 
+ 10.00NEW 10  10285694  10285685  10  819405  819405 
+ 10.00NEW 5  13830520  13830516  5  819405  819405 
+ 10.00NEW 15  16990795  16990781  15  819405  819405 
+ 42 ---------------
+19/06/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        4 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                3 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 79 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN505733TO: TN505730 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Atul Limited
+ 10 
+ 0 
+ 0  11 
+ 11 
+19/06/2024 3 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

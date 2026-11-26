@@ -1,0 +1,285 @@
+
+=== page 1 ===
+ 
+30th January, 2026 
+ 
+To, 
+BSE Limited  
+Listing Dept. / Dept.  of Corporate Services, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001.  
+ 
+Security Code: 500101 
+Security ID: ARVIND  To, 
+National Stock Exchange of India Limited 
+Listing Dept., Exchange Plaza, 5th Floor, 
+Plot No. C/1, G. Block, 
+Bandra-Kurla Complex, 
+Bandra (E), 
+Mumbai - 400 051. 
+ 
+Symbol: ARVIND 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Investor Presentation on Unaudited financial results for the quarter ended on 31st 
+December, 2025 
+Ref.:  Regulations 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 
+ 
+Pursuant to Regulations 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we enclose herewith Investor Presentation issued by the Company in respect 
+of Unaudited financial results for the quarter ended on 31st December, 2025. 
+ 
+You are requested to take the same on records. 
+ 
+Thanking you 
+ 
+ 
+Yours faithfully,  
+For, Arvind Limited 
+ 
+ 
+Jayesh Shah 
+Whole Time Director & Group CFO 
+DIN: 00008349 
+ 
+Encl.: As above. 
+ 
+ 
+ 
+=== page 2 ===
+30th Jan 2026| AhmedabadArvind Limited Q3 FY26 Results
+Investor Review Note
+=== page 3 ===
+2
+Safe harbour statement
+Certain statements contained in this document may be statements of future expectations and 
+other forward looking statements that are based on management‘s current view and 
+assumptions and involve known and unknown risks and uncertainties that could cause actual 
+results, performance or events to differ materially from those expressed or implied in such 
+statements. None of Arvind Limited or any of its affiliates, advisors or representatives shall have 
+any liability whatsoever (in negligence or otherwise) for any loss howsoever arising from any use 
+of this document or its content or otherwise arising in connection with this document. This 
+document does not constitute an offer or invitation to purchase or subscribe for any shares and 
+neither it nor any part of it shall form the basis of or be relied upon in connection with any 
+contract or commitment whatsoever.
+=== page 4 ===
+3
++Arvind’s key growth engines AMD & Garmenting 
+delivered strong revenue expansion of 32% & 23%.
++Textile business reports robust volume growth in Denim 
+& Garmenting
++Garmenting division records 2ndconsecutive quarter of 
+10 Mn+ Pcs
++All round performance in AMD including resumption of 
+defense orders, favorable product mix, revival of 
+composite business (Mass transport, pultrusion & glass 
+fiber fabric)
++Visible improvement in margins on account of 
+management action on cost
++Direct revenue exposure to US stands at ~23% of topline.
++Tangible progress on ESG initiatives led to an improved 
+sustainability score of 73 & global rank of 6thby S&P DJSI 
++AAML assigned credit rating of “AA” with a stable 
+outlook➢Global trade remains volatile, with disruptions 
+increasingly structural rather than episodic.
+➢Tariff situation was expected to be resolved earlier
+➢Margin expansion was partly offset by tariff and 
+related costs of ~₹63 Cr during 9M FY26.
+➢One time provision of ₹23.5 Cr (net of tax) due to 
+implementation of new Labour CodeWhat went right What could have gone betterQ3 reflections –hits & misses 
+AAML: Arvind Advanced Materials Limited
+=== page 5 ===
+4
+Strong performance in Q3 reflects a resilient business model
+•Textile
+– Consistent volume growth across key segments
+– Favourable product mix & realisation gain led to a revenue growth of 
+23% in garmenting business.
+– Overall textile business reports a 9% revenue growth. 
+•AMD
+– As guided, the division reported highest ever Revenue of ₹ 496 Cr, a 
+growth of 32%.
+– EBITDA growth (36%) mirrors growth in revenue while margins 
+improves by ~50 bps on account of favourable operating leverage.
+– This performance is backed by strong growth across sub segment & 
+resumption of defence orders.
+•EBITDA, EBITDA margin & PAT
+– Highest quarterly EBITDA of ₹286 Cr #, a growth of 15% YoY
+– EBITDA margin crossed 12%
+– PAT^(before exceptional items) registers a growth of 17%
+# Without Tariff impact of ₹25 Cr, EBITDA would be ₹311 Cr
+^ Impact of Labour code ₹23.5 (net of tax) is considered in exceptional itemsRevenues
+EBITDA
+PAT (Before exceptional items )2373 14%
+286 15%
+125 17%
+Closing Net Debt
+12361270
+(30thSep 2025)YoY₹ Cr
+=== page 6 ===
+5
+#EBITDA includes other incomeQ3 FY26 | Summary P&L
+Double Digit growth in top line & bottom line. 
+₹ Cr
+Particulars Q3 FY26 Q3 FY25YoY 
+ChangeQ2 FY26QoQ 
+Change
+Revenue from Operations 2,373 2,089 14% 2,371 0%
+Other Income 12 11 15
+EBITDA#286 248 15% 262 9%
+EBIDTA % 12.0% 11.9% 11.0%
+Interest 42 40 41
+Depreciation^ 72 62 72
+PBT 172 146 18% 149 16%
+Tax 46 39 42
+PAT$125 106 17% 107 17%
+Cash Accruals 198 169 179
+^ Depreciation in Q3FY25 was lower due to phasing out of Ethiopia’s asset in earlier Qtr.
+$ Exceptional Item: PAT doesn’t include Labour code impact of ~₹23.5 Cr (Total Gross Labour code impact is ~₹31.5 Cr, tax saving on the same ~₹8 
+Cr)
+=== page 7 ===
+6
+Segment Performance
+@ Reported revenue for textile division stood at ₹1831 Cr, the difference of ₹114 Cr (₹1831 -₹1717) represents inter 
+division sales between Textile & AMD which is eliminated to present a fair picture
+Run rate ROCE considering normalized EBIT#and invested capital in use*improved by ~335  bps to ~19% (Reported 
+ROCE is 16%)
+# excluding one offs| *Capital Employed {without CWIP} | Inter Segment constitutes elimination in consolidation for inter segment transactions₹ Cr
+Particulars Q3 FY26 Q3 FY25 Δ YoY
+Business Revenue EBIDTA EBIDTA % ROCE % Revenue EBIDTA EBIDTA % ROCE % Revenue
+Textiles @1717 193 11.2% 15.8% 1577 177 11.2% 15.3% 8.9%
+Advanced Material 496 77 15.5% 39.1% 376 57 15.0% 27.3% 31.8%
+Others 200 16 177 14
+Inter Segment @-41 -41
+Total 2373 286 12.0% 16.0% 2089 248 11.9% 14.6% 13.6%
+=== page 8 ===
+7
+6.69.57.610.48.75.45.1
+5.44.85.2
+Q3 FY25 Q4 FY25 Q1 FY25 Q2 FY26 Q3 FY2612.014.613.015.213.922.0 21.517.121.5 21.213.0 11.7
+12.013.6 15.5
+Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY2635.033.229.135.1 36.7
+9.3 9.5 9.810.7 10.3
+Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26DENIM WOVENS GARMENTSComparison for Q3 FY26 (YoY)
+•With ~37 Mn Mtr, Woven 
+division reported a growth of 
+5% on YoY basis & 4% 
+sequentially
+•Denim volumes registers a 
+growth of 16% backed by 
+higher verticalization.
+•Second consecutive Qtrof 10 
+Mn+ full garmentsMillion MMillion M
+Million PcsTextiles
+* Export volumes includes sales made to export customers and shipments made to their garment factories in IndiaDomestic
+Export*
+Domestic
+Export*Sustained growth momentum across textile segment
+=== page 9 ===
+8
+Textile revenues*Textile
+Q3 FY26 (YoY)
+•Higher demand combined with 
+higher capacity utilization resulted 
+a strong growth in Woven.
+•Volume -led revenue progression in 
+Denim was enabled by a balanced 
+product mix and deeper vertical 
+integration.
+•Garmenting revenue improved on 
+the back of volume growth & 
+better realization.
+250 223403 493294335704757
+-74
+Q3 FY25-92
+Q3 FY26Woven
+Denim
+Garments
+Others
+Inter Segment1,5771,717+9%
+14%
+23%8%Garmenting & core fabric segments reports healthy growth 
+while knits underperformed 
+*Reported revenue for textile division stood at ₹1831 Cr, the difference of ₹114 Cr (₹1831 -₹1717) represents inter division sales between textile & AMD 
+which is eliminated to present a fair picture(₹ Cr) 
+=== page 10 ===
+9
+Fabric realisation ₹/mtrsTextile
+Textile Margin
+EBITDA Margins (%)
+11.2 11.2
+8.410.011.2
+Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26239245 246
+236 236
+197206 207 206201
+Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3 FY26Denim
+WovensMargins preserved on the back of steady realisation
+=== page 11 ===
+10
+Comments AMD performance summary
+1011427194204259
+Q3 FY25 Q3 FY26Human
+Protection
+Industrials
+Composites376496+32%
+EBITDA 
+margins (%)Human Protection
+•Favorable product mix
+•Defense order resumed
+Industrials
+•Improved demand in non woven segment
+•Improvement in belting reinforcement business.
+Composites
+•Increased pultrusion volumes in US market
+•Revival of glass fabric demand across European & 
+US market
+•Mass transport commenced delivery of recently 
+won orders.
+Operational efficiency, Operating leverage & focus on 
+cost led to improvement in margin.Advanced Materials
+15.0% 15.5%AMD performance is in line with the guidance
+27%
+40%33%Revenue ₹ Cr
+=== page 12 ===
+11
+ArvindOther Updates..
+Sustainability credentials driving this scoreS&P Global CSA
+Water Stewardship
+GIWCA initiative for textile water sustainabilityJAN’24
+Textile Waste Circularity
+Purfi’s 360°traceable recycling solutionJAN’25
+Carbon Neutrality
+Peak Venture torrefaction project (India -first, industrial scale)NOV’25Renewable Energy Transition 
+Hybrid captive power with Torrent (60% captive)MAY’25
+Climate Action & Responsive Consumption
+SBTi -approved net -zero targets (FY2050)JUL’25
+Water & Resource Efficiency
+First supercritical CO₂ dyeing in IndiaSEP’25
+Circularity in textiles
+Partnership with Circ Inc. (USA)SEP’25Carbon Neutrality
+CO₂-reducing biomass boiler enabling coal -free operationsMAR’24
+Collectively, these initiatives have positioned Arvind as a recognized ESG leader, acknowledged by customers and formally cer tified through 
+improvement in the S&P DJSI Global Sustainability score and ranked 6thgloballyUpdate on S&P Global Corporate Sustainability Assessment (CSA)
+Ranked #2 in India and #6 globally
+=== page 13 ===
+12
+Outlook for Q4 FY26 & Full Year FY26
+Macro Environment
+•Uncertainty & volatility at new heights due to multiple fronts in geopolitics & global trade
+•Domestic discretionary consumption is expected to have a higher percentage in Indian GDP
+•Signing of European FTA presents a ~$140 Bn opportunity for Indian textile exporters.
+•US consumption remains strong; Fed rate cuts expected to maintain/ boost momentum
+Business Outlook for Q4 FY26 & Full Year FY26
+•Despite headwinds, demand situation remains robust reflecting in a healthy order book for Q4
+•Textile (Fabrics & Garmenting) revenue to achieve guided growth of 10% to 12%.
+•AMD to continue growth momentum to clock 17% -20% revenue growth for full year FY26.
+•Tariffs to impact certain parts of direct to US business (20 -25% of overall revenue)
+–₹20-25 Cr impact on quarterly EBITDA
+•Full year margin to remain stable after absorbing tariff of ~ ₹90 Cr
+Capital Allocation
+•FY26 CAPEX: ₹400 –450 Cr, with ₹348 Cr invested to dateOutlook for FY26
+=== page 14 ===
+Thank You!

@@ -1,0 +1,41 @@
+--- CIM_2642_WebXMLFile_20261125_155740727_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CENTRALBK ; Name Of The Company: Central Bank of India ; Scrip Code: 532885 ; MSEISymbol: NOTLISTED ; ISIN: INE483A01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-25 ; Time Of Occurrence Of Event Or Information: 12:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-25 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Company Secretary and Compliance Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Chandrakant Bhagwat ; Effective Date Of Reason Of Change: 2026-11-27 ; Salutation: Mr. ; Name Of The Person: Chandrakant Bhagwat ; Designation Of Person: Company Secretary and Compliance Officer ; Date On Which The Resignation Letter Was Received: 2026-11-25 ; Effective Date Of Resignation: 2026-11-27 ; Reason Of Resignation In Brief: Personal
+
+--- CIMG_532885_25112026155719_2.pdf ---
+Date: 25th November, 2026
+To,
+
+Board of Directors,
+Central Bank of lndia
+
+Central Office,
+Mumbai
+Sirs,
+
+Subject: Resignation from the position of Company Secretary & Compliance Officer of Bank.
+With reference to above, I hereby tender my resignation from the position of Company
+Secretary & Compliance Officer (KMP) of Central Bank of India to pursue career opportunity
+outside the Bank and request you to relieve me from the services of Bank by 27.11.2026.
+Isincerely appreciate the professional and personal growth opportunities that have been
+provided to me during my tenure with the Bank.
+
+I would also like to extend my heartfelt gratitude to the Board of Directors and Management
+Team for their guidance, support and encouragement throughout my time with the Bank.
+I wish the Bank continued success and prosperity in the future.
+
+Kindly take the same on your record and oblige.
+
+Thanking you.
+
+Yours sincerely,
+
+Chandrákant Bhagwat
+Copy to:
+Chief General Manager,
+
+HCM,
+Central Bank of India
+
+Central Office, Mumbai
+
+

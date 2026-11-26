@@ -1,0 +1,118 @@
+
+
+
+Particulars Year ended 
+31.12.2024 30.09.2024 31.12.2023 31.12.2024 31.12.2023 31.03.2024
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited
+IRevenue from operations 80,534.86      82,332.16          79,754.48       2,29,343.22    2,18,770.28        2,95,826.04    
+IIOther Income 392.58            335.28               842.91             911.82             1,007.84             1,413.82          
+III Total Income (I + II) 80,927.44      82,667.44          80,597.39       2,30,255.04    2,19,778.12        2,97,239.86    
+IV Expenses
+     (a)     Cost of materials consumed 20,964.25      18,843.21          18,336.59       56,570.31       50,981.91           69,219.72       
+     (b)     Purchases of stock-in-trade -                 -                     -                  -                  -                      -                  
+     (c)     Changes in inventories of finished goods, stock-in-trade and work-in-progress  (2,740.59)      (915.53)              802.74             (4,634.41)        1,422.01             1,661.33          
+     (d)     Excise duty 46,491.89      44,846.62          42,085.73       1,26,508.33    1,15,253.17        1,56,430.74    
+     (e)     Employee benefits expense 1,388.48        1,424.63            1,101.62          4,123.25          3,143.16             4,684.05          
+     (f)      Finance costs 235.96            334.60               805.10             986.86             2,181.08             2,673.93          
+     (g)     Depreciation and amortization expense 776.73            775.42               800.05             2,324.84          2,405.21             3,189.32          
+     (h)     Other expenses 8,396.08        11,535.25          12,288.70       29,129.38       34,248.08           45,285.40       
+Total expenses 75,512.80      76,844.20          76,220.53       2,15,008.56    2,09,634.62        2,83,144.49    
+VProfit/(Loss) before exceptional items and tax (III-IV) 5,414.64        5,823.24            4,376.86          15,246.48       10,143.50           14,095.37       
+VI Exceptional items ( Net )  ( Refer Note No. 6) -                 -                     -                  -                  512.45                (294.27)           
+VII Profit/(Loss) Before Tax (V+/-VI) 5,414.64        5,823.24            4,376.86          15,246.48       10,655.95           13,801.10       
+VIII Tax Expense
+    (a)      Current tax -                 -                     -                  -                  -                      -                  
+    (b)      Taxes for Earlier Years -                 -                     -                  -                  -                      -                  
+    (c)      Deferred tax -                 -                     -                  -                  -                      -                  
+Total tax expense -                 -                     -                  -                  -                      -                  
+IX Profit/(Loss) for the period before share of Profit/(Loss) of associate (VII-VIII) 5,414.64        5,823.24            4,376.86          15,246.48       10,655.95           13,801.10       
+XShare of Profit/(Loss) of associate (21.98)            -                     -                  (21.98)             -                      -                  
+XI Profit/(Loss) for the period (IX+X) 5,392.66        5,823.24            4,376.86          15,224.50       10,655.95           13,801.10       
+XII Other Comprehensive Income/(Loss)
+    (a) Items that will not be reclassified to Profit & Loss
+         (i)  Remeasurement gain /(loss) in respect of the defined benefit plans (5.01)              (5.01)                  (10.85)             (15.03)             (32.56)                 (20.04)             
+         (ii)  Net Gain / (Loss) on Fair Value through OCI - Equity Instruments 7.03               (27.11)                -                  (20.08)             -                      -                  
+         (iii) Tax on above -                 -                     -                  -                  -                      -                  
+    (b) Items that will be reclassified to Profit & Loss -                 -                     -                  -                  -                      -                  
+Total Other Comprehensive Income/(Loss) for the period [(a) +(b)] 2.02               (32.12)                (10.85)             (35.11)             (32.56)                 (20.04)             
+XIII Total Comprehensive Income/(Loss) for the period (XI+XII) 5,394.68        5,791.12            4,366.01          15,189.39       10,623.39           13,781.06       
+XIV Profit/Loss for the period attributable to
+  (a)  Owners of the Company 5,392.66        5,823.24            4,376.86          15,224.50       10,655.95           13,801.10       
+  (b)  Non-Controlling Interests -                 -                     -                  -                  -                      -                  
+XV Other Comprehensive Income/(Loss) for the period attributable to
+  (a)  Owners of the Company 2.02               (32.12)                (10.85)             (35.11)             (32.56)                 (20.04)             
+  (b)  Non-Controlling Interests -                 -                     -                  -                  
+XVI Total Comprehensive Income/(Loss) for the period attributable to
+  (a)  Owners of the Company 5,394.68        5,791.12            4,366.01          15,189.39       10,623.39           13,781.06       
+  (b)  Non-Controlling Interests -                  -                      -                  
+XVII Paid-up Equity Share Capital (Face value of Rs. 10/- per Share) 19,363.40      19,295.64          19,237.91       19,363.40       19,237.91           19,273.04       
+XVIII Other Equity as per Balance Sheet 46,115.72       
+XIX Earnings Per Equity Share of Rs. 10 /- each (not annualized)
+    (a)    Basic (Rs.) 2.79               3.02                   2.28                 7.89                 5.59                    7.23                 
+    (b)    Diluted (Rs.) 2.77               2.99                   2.25                 7.83                 5.54                    7.16                 Quarter ended Nine Months ended TILAKNAGAR INDUSTRIES LTD. (CIN: L15420PN1933PLC133303)
+Corporate Office: 3rd Floor, Industrial Assurance Building, Churchgate, Mumbai, Maharashtra - 400 020
+Regd.Office : P.O. Tilaknagar, Tal. Shrirampur, Dist. Ahmednagar, Maharashtra - 413 720
+Email: investor@tilind.com; Website: www.tilind.com; Phone: +91 22 22831716/18; Fax: +91 22 22046904
+(Rs. in Lacs except EPS)
+Statement of Consolidated Unaudited Financial Results for the Quarter &  Nine months ended December 31, 2024
+Notes :
+1
+2
+3
+4
+5
+6 Income / 
+(Expenses) a 512.45
+b -806.72
+-294.27
+7
+8
+9
+10
+11
+12
+On behalf of the Board
+For Tilaknagar Industries Ltd.
+Amit  Dahanukar
+Place: Mumbai Chairman & Managing Director
+DIN: 00305636The Revenue from Operations includes Rs Nil lacs for the quarter ended Dec 30, 2024, Rs 1,035.74 lacs  for the quarter ended Sept 30, 2024 and Rs 1,592.13 lacs for the nine months ended Dec 2024 
+received as partial Subsidy from Government of Maharashtra under Package Scheme of Incentives, 2007, relating to past investments. 
+During thequarter ended Sept 2024, theFinance Committee oftheBoard ofDirectors approved afollow-on investment ofRs.1,315 lacs inSpaceman Spirits LabPrivate Limited(“SSL”), makers of
+premium Indian craft ginSamsara andcraft rumSitara. TheCompany shall invest Rs.1,315 lacs across 3tranches over an18month period bysubscribing to(a)2,546 Equity Shares and(b)16,890
+Compulsory Convertible Preference Shares(“CCPS”). Earlier, theCompany hadexecuted aShare Subscription andInvestment Agreement on27th March 2023, against which theCompany had
+subscribed to6,636 Equity Shares and7,374 CCPS ofSSL equivalent to10% ofshare capital onafullydiluted basis forINR975lacs. Thetotal shareholding percentage oftheCompany inSSL after the
+proposed investment shall stand increased to 20.02% (on a fully diluted basis). The first tranche of investment of Rs 399.99 lacs was made on Sept 20, 2024. 
+During thequarter ended Sept 2024, theFinance Committee oftheBoard ofDirectors approved aninvestment ofRs.802.85 lacsinRound theCocktails Private Limited(“Bartisans”) which isa'ready to
+pour' beverage company, engaged inthebusiness ofdeveloping, producing, marketing andselling non-alcoholic beverages which canbemixed with alcohol tocreate cocktails, andcanalso be
+consumed ontheir own asmocktails. OnOctober 03,2024, theCompany hasinvested Rs.802.85 lacs by(a)Subscribing to2,352 Compulsory Convertible Preference Shares ("CCPS") and1equity
+share ofBartisans equivalent to13.52% ofshare capital onafully diluted basis forINR 300lacs; and(b)Purchasing from existing shareholders, 163equity shares and3,781 CCPS ofBartisans
+equivalent to22.65% ofshare capital onafully diluted basis forINR 502.85 lacs. Inaggregate, theCompany now owns 36.17% oftheshare capital ofBartisans onafully diluted basis post its
+investment. The Company has accounted for its share of losses from Bartisans of Rs. 21.98 lacs in the financial results for the quarter and nine months ended Dec 31 2024. 
+TheStandalone andConsolidated unaudited financial results oftheCompany forthequarter andperiod ended Dec31,2024 areavailable ontheCompany’s website (www.tilind.com) andonthewebsite
+of BSE (www.bseindia.com) and NSE (www.nseindia.com). 
+The previous period figures have been regrouped and reclassified wherever necessary.
+Date  : February 04 , 2025Exceptional Items in the year ended March 31, 2024 includes :
+During thequarter ended September 30,2023, theCompany hadmade apre-payment oftheRestructured debt ofEdelweiss Asset Reconstruction Company (EARC) acting astrustee of
+EARC Trust SC241. Accordingly, thetotal Restructured debt ofRs.17,622 lacs asonJune 30,2023 ofEARC Trust SC241now stands reduced toRs.Nil.Consequent totheabove
+prepayment, thecorresponding Balance debt ofEARC Trust SC241ofRs.362.45 lacshasbeen waived byEARC andhasbeen written back bytheCompany along withadiscount ofRs
+150lacs ontheRestructured debt received from EARC atthetime ofpre-payment. TheCompany hasnow completely repaid theRestructured debt ofallthethree EARC Trusts i.eEARC
+Trust SC233, EARC Trust SC241andEARC Trust SC269aspertheMaster Restructuring Agreement (MRA) dated February 06,2020 andstands discharged ofallliabilities, dues,
+demands or claims in respect of the Restructured Facilities. 
+During thequarter andyear ended March 31,2024, Prag Distillery (P)Ltd(Prag), awholly owned subsidiary, hadwritten offTrade Receivables ofRs.586.55 lacs andEarnest Money
+Deposit of Rs 182.05 lacs receivable from Andhra Pradesh Beverage Corporation Ltd.( the Corporation) and other receivables of Rs 38.12 lacs .
+Total expenses in exceptional Items ( Net)  in the year ended March 31, 2024
+Subsequent tothequarter ended December 31,2024, TheDeputy Commissioner ofIncome tax(DCIT) hasreassessed theincome pursuant tothesearch conducted inFebruary 2024, andhaspassed
+theassessment orders from AY2016-17 toAY2023-24 aspertheapplicable provisions oftheIncome taxAct,1961. Certain additions/disallowances were made tothereturned income ofthecompany.
+TheIncome taxdepartment hassetoffthebrought forward losses ofthecompany against theassessed income. There isnodemand raised forthesaid years except Rs0.03 lacsforAY2023-24 anda
+refund ofRs138.43 lacs forAY2021-2022. Consequently, thecarry forward losses including unabsorbed depreciation now stand atRs9515 lacs asonMarch 31,2023. Based ontheCompany’s risk-
+assessment process andapplicable laws, there isnomaterial impact onthefinancial position, operation orother activities oftheCompany. Thecompany shall filefurther appeals against theabove
+assessment orders and expects a favourable outcome.Theabove consolidated results have been reviewed bytheAudit Committee andapproved bytheBoard ofDirectors atitsMeeting held onFebruary 4,2025. TheStatutory Auditors have expressed
+qualified conclusion.
+Theabove results have been prepared inaccordance withIndian Accounting Standards ("Ind AS") prescribed under Section 133oftheCompanies Act,2013 read withrelevant rules issued thereunder
+and other accounting principles generally accepted in India.
+Theabove results have been prepared bytheCompany inaccordance with IND-AS 110: Consolidated Financial Statements andIND-AS 28:Accounting forInvestments inAssociate inConsolidated
+Financial Statements prescribed under Section 133 of the Companies Act, 2013 and other  accounting principles generally accepted in India.
+TheGroup ispredominantly engaged inthebusiness ofmanufacture andsale ofIndian Made Foreign Liquor (IMFL) anditsrelated products, which constitute asingle business segment asperIND-AS
+108: Operating Segments. Accordingly, disclosure in accordance with the provisions of Circular issued by the SEBI on July 05, 2016 is not applicable. 
+TheParent Company expects torestart thegrain distillery plant post incurring ofrelevant capital expenditure. Inview ofthis, themanagement believes thatthere isnoimpairment invalue ofitsENA
+Plant and hence the recoverable amount of the ENA Plant is not required to be estimated.

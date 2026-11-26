@@ -1,0 +1,93 @@
+The National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Bandra -Kurla Complex  
+Bandra (East), Mumbai - 400 051       
+Fax No. (022) 26598120  
+Symbol: RAYMOND  RL/SE/24-25/2
+April 3, 2024 
+To 
+The Departm ent of Corporate Service s - CRD 
+BSE Limited 
+P.J. Towers, Dalal Street 
+Mumba i - 400 001       
+Fax No. 022-22721919 
+Scrip Cod e: 500330 
+Dear Sir/Madam, 
+Sub: Raymond Limited: Intimation under Regulation 39(3) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”)  
+Pursuant to Regulation 39(3) of Listing Regulations, please find enclosed the intimation for issuance 
+of duplicate share certificates to shareholder(s) as detailed in the “Register of New Share Certificates 
+Issued  on Duplication”.  
+Please take the above information on record.  
+Thanking you . 
+Yours faithfully , 
+For Raymond Limited  
+Rakesh Darji  
+Company Secretary  
+Encl.: a/a  
+STUSPAID SHARES TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN17257TO: TN17255FROM:Raymond Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN17255 00331960
+LAUREL SECURITIES PVT.LTD 01/04/2024
+DUP 10.00OLD  5  9642075  9642071  5  3292732  3292732 
+ 10.00OLD  40  21841901  21841862  40  3720342  3720342 
+ 10.00OLD  5  21875268  21875264  5  3721912  3721912 
+ 50 ---------------
+ 10.00NEW  5  9642075  9642071  5  1072009  1072009  881  881 
+ 10.00NEW  40  21841901  21841862  40  1072009  1072009  881  881 
+ 10.00NEW  5  21875268  21875264  5  1072009  1072009  881  881 
+ 50 ---------------
+TN17256 00155547
+MAGANLAL PREMCHAND VORA
+PRAFUL MAGANLAL VORA01/04/2024
+DUP 10.00OLD  4  29644074  29644071  4  165752  165752 
+ 10.00OLD  5  9467575  9467571  5  3257832  3257832 
+ 10.00OLD  5  21418875  21418871  5  3676247  3676247 
+ 10.00OLD  7  50523797  50523791  7  5029903  5029903 
+ 21 ---------------
+ 10.00NEW  5  9467575  9467571  5  1072010  1072010  882  882 
+ 10.00NEW  5  21418875  21418871  5  1072010  1072010  882  882 
+ 10.00NEW  4  29644074  29644071  4  1072010  1072010  882  882 
+ 10.00NEW  7  50523797  50523791  7  1072010  1072010  882  882 
+ 21 ---------------
+TN17257 Z0031824
+BHUPESH BHATIA
+SUMAN BHATIA01/04/2024
+DUP 10.00OLD  4  28787822  28787819  4  116917  116917 
+ 4 ---------------
+ 10.00NEW  4  28787822  28787819  4  1072011  1072011  883  883 
+ 4 ---------------
+01/04/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS    3 
+2. TOTAL NO.OF OLD CERTIFICATES  
+3. TOTAL NO.OF NEW CERTIFICATES  
+4. TOTAL NO.OF PAGES   2 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE
+6. TOTAL NO.OF DUPLICATED SHARES     75 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE
+8. TOTAL NO.OFSUB DIVIDED SHARES     
+10.TOTAL NO.OF CONSOLIDATED SHARES9. TOTAL NO.OF CONSOLIDATED CERTIFICATETN17257TO: TN17255 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Raymond Limited
+ 8 
+ 0 
+ 0  8 
+ 8 
+01/04/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

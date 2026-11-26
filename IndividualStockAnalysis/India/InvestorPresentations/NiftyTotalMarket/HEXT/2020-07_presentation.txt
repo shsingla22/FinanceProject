@@ -1,0 +1,410 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ 
+ 
+Date: 28th July, 2020 
+ 
+To, 
+The Manager Listing, 
+Bombay Stock Exchange Limited  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Fort,  
+Mumbai – 400 023 
+ To, 
+The Manager Listing, 
+National Stock Exchange of India Limited  
+Exchange Plaza, 
+Plot no. C/1, G Block, 
+Bandra-Kurla Complex 
+Bandra (E), Mumbai - 400 051 
+Subject: Presentation to Analysts on the financial results for the quarter ended 30th June, 2020 
+ 
+Dear Sir / Madam, 
+ 
+This is with reference to and in continuation to our letter dated July 24, 2020, wherein we had intimated 
+that the Company will be hosting a conference call with Analysts/Investors on 28th July, 2020 at 6.00 pm 
+for discussion on the financial results of the Company for the quarter ended June 30, 2020. 
+ 
+In this regard, we have enclosed the presentation to be made to the Analysts/Investors during the 
+conference call on the financial results and performance of the Company for the quarter ended June 30, 
+2020 
+ 
+This is also being made available at the website of the Company i.e www.hexaware.com  
+ 
+Kindly take the same on your record.  
+ 
+ 
+Thanking you, 
+Yours faithfully,  
+For Hexaware Technologies Limited  
+ 
+ 
+ 
+ 
+Gunjan Methi 
+Company Secretary 
+ 
+ 
+ 
+=== page 2 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 1
+© Hexaware Technologies. All rights reserved. |  www.hexaware.com Investor Update
+Q2 2020
+28thJuly 2020
+=== page 3 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 2
+Certain statements onthispresentation concerning ourfuture growth prospects areforward -looking statements, which involve a
+number ofrisks, and uncertainties that could cause actual results todiffer materially from those insuch forward -looking statements .
+Therisksand uncertainties relating tothese statements include, butarenotlimited to,risksand uncertainties regarding fluctuations
+inearnings, ourability tomanage growth, intense competition inITservices including those factors which may affect ourcost
+advantage, wage increases, ourability toattract and retain highly skilled professionals, time and cost overruns onfixed -price,
+fixed -time frame contracts, client concentration, restrictions onimmigration, ourability tomanage ourinternational operations,
+reduced demand fortechnology inourkey focus areas, disruptions intelecommunication networks, ourability tosuccessfully
+complete and integrate potential acquisitions, liability fordamages onourservice contracts, thesuccess ofthecompanies in
+which Hexaware hasmade strategic investments, withdrawal ofgovernmental fiscal incentives, political instability, legal restrictions
+onraising capital oracquiring companies, and unauthorized useofourintellectual property and general economic conditions
+affecting ourindustry
+COVID -19 Update
+TheGroup hasassessed theimpact ontherecoverability ofthereceivables (including unbilled) and other current and non-current
+assets including goodwill considering both internal and external information available tilldate .Ithasalso assessed, theprobability
+ofoccurrence offorecasted transactions inthehedging relations, credit riskofthecounter party tothederivative contracts and
+banks .TheGroup, based ontheanalysis onassumption used, believes that thecarrying value ofthese assets arerecoverable .
+Considering thefact that theglobal situation isevolving day byday with new facts and numbers, theeconomic impact of
+pandemic could bedifferent from theestimated tilldate bythemanagement .Themanagement iscontinuously monitoring the
+material changes .Safe Harbor Statement
+=== page 4 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 3
+Hexaware has included non-GAAP financial measures inthispresentation tosupplement Hexaware’s consolidated financial
+statements presented onaGAAP basis .These non-GAAP financial measures may have limitations asanalytical tools, and these
+measures should notbeconsidered inisolation orasasubstitute foranalysis ofHexaware’s results asreported under GAAP .
+The non-GAAP financial information that we provide also may differ from the non-GAAP information provided byother
+companies .Wecompensate forthelimitations onouruseofthese non-GAAP financial measures byrelying primarily onourGAAP
+financial statements and using non-GAAP financial measures only supplementally .We also provide robust and detailed
+reconciliations ofnon-GAAP earnings tothemost directly comparable GAAP earnings, and weencourage investors toreview
+those reconciliations carefully .
+Webelieve that providing these non-GAAP financial measures inaddition totherelated GAAP measures provides investors with
+greater transparency .We further believe that providing thisinformation better enables investors tounderstand Hexaware’s
+operating performance and financial condition .Use of Non -GAAP Financials
+=== page 5 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 4
+Financial Highlights
+Q2 Revenue
+$ 208.1 M
+•Q/Q decline of1.2%;0.9%inCC
+•Y/Ygrowth of10.4%;11.3%inCC
+•FlatQ/Q excluding supply side impact ~$1.3M
+•Volume growth of1.6%Q/Q partially offset by
+price discounts
+Q2 NN Wins
+$ 46 M
+•Strong NNwins ;H1’20NNwins of$115M
+(H1’17:$65M,H1’18:$69M&H1’19:$72M)
+•Material, “V” shaped improvement in
+activity levels with customers from late May
+•Market -share growth inmany existing
+customers
+•Material improvement inpipeline
+Q2 EBITDA%
+17.3%
+•Q/Q growth of240bps;GM improvement of
+230bps and SG&A improvement of10bps
+(nocapability reduction onSG&A)
+•Y/Ygrowth of110bps
+•EBITDA of$36.0M•Q/Q decline of12.9%
+•Y/Ygrowth of0.5%
+•EPSimpacted byforex lossonhedge
+MTM &translation impact .Q2lossof
+1.0MvsQ1gains of5.8MQ2 EPS
+₹5.10 
+Q2 Cash Balance
+$ 117.4 M
+•Q220DSO at77days, improvement of5
+days over Q1
+•OCF/EBITDA at171%vs73%inQ1
+Dividend
+₹1.5 
+•Interim Q2dividend of₹1.5(75%)
+=== page 6 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 5
+Business Highlights
+People Update
+Closing HC -18,825
+•Work-from -Home :IT~99%+;BPS~ 85%ofrevenue
+•Q/Q Headcount NetChange :-1173
+•Q2Attrition at14%
+•Utilization of79.8%;highest inlastfour quarters
+driven byhigher volumes and paused intake of
+new batches ;Campus hiring resumed from Q3•Expect Q2 to be the bottom. Flat to 
+small volume growth in Q3 and Q4, with 
+normal cyclical effects overlaid in Q4
+•One of the Top 3 account -Growth in 
+Q2 and expect volume growth for next 
+2 quartersRevenue
+Updates
+EBIDTA 
+OutlookPost-COVID 
+Themes
+•Instituted anumber ofstructural and
+sustainable cost improvement
+measures
+•Near term sustainable margins inthe
+range ofH1actuals +/-30bpsLaunched 4new post-COVID themes, allofwhich
+have strong resonance :
+•Touchless, Immersive Customer Experiences
+•Digital Leapfrogging &Resilience onCloud
+•Engaging theAnywhere Employee
+•Automation -ledSustainable Cost Takeout•Anew, patent -pending platform for
+automated re-platforming ofapplications to
+thecloud
+•Launched inJune
+•Very strong early traction ;Three F500
+customers from pre-launch
+
+=== page 7 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 6
+Q2 2020 
+Business Update
+=== page 8 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 7
+Q2 20 | Financial Performance
+Amounts in US$ M Q2 2020 Q1 2020GROWTH 
+QoQQ2 2019GROWTH 
+YoY
+Revenue 208.1 210.6 -1.2% 188.5 10.4%
+EBITDA 37.1 32.4 14.5% 31.1 19.4%
+EBITDA % 17.8% 15.4% 2.4% 16.5% 1.3%
+EBITDA (post RSU) 36.0 31.3 14.8% 30.5 17.9%
+EBITDA % (post RSU) 17.3% 14.9% 2.4% 16.2% 1.1%
+EBIT (post RSU) 27.5 24.3 13.3% 27.6 0.0%
+EBIT % 13.2% 11.6% 1.7% 14.6% -1.4%
+PAT 20.2 23.4 -13.6% 21.8 -7.2%
+PAT % 9.7% 11.1% -1.4% 11.6% -1.8%
+EPS Basic (INR) 5.10 5.86 -12.9% 5.08 0.5%
+=== page 9 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 8
+Revenue Walk | QoQ
+$M
+210.6 (0.6)
+(3.1)
+(1.7)
+0.9 3.3 (1.3)
+208.1 
+Q1 20 Forex Mix Bill Rates Calendar Volume Supply Side
+ImpactQ2 20
+Increase Decrease
+=== page 10 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 9
+14.9 0.8 0.3 (0.5)
+0.2 1.7 (0.7)0.5 0.1 17.3 Q1 20
+Forex
+Mix
+Bill Rates
+Calendar
+Utilization
+Visa Costs
+Other Costs
+SG&A
+Q2 20
+Increase DecreaseEBITDA Walk | QoQ
+% of revenue
+* EBIDTA (post ESOP cost)
+=== page 11 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 10
+Q2 20 | GAAP to Non -GAAP Reconciliation
+*Basic EPSQ2 ’20 Q1 ’20 Q2 ’19
+Amounts in $ M PBT Tax PAT EPS* (INR) EPS* (INR)
+Reported (GAAP numbers) 25.0 4.8 20.2 5.10 5.86 5.08
+Q2 ‘20 GAAP EPS Change -0.76 0.02
+% Change -12.96% 0.47%
+Non-GAAP Adjustments
+Amortization of intangibles 1.6 0.4 1.2 0.29
+NPV of deferred payments 0.2 0.1 0.1 0.04
+Adjusted Non -GAAP 26.8 5.3 21.5 5.43 6.18 5.55
+Q2 ‘20 Non -GAAP EPS Change -0.75 -0.11
+% Change -12.12% -2.06%
+Note: The US marginal tax rate considered is 27.5%
+=== page 12 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 11
+Improved Depth of Customer Relationships
+•Account classification based on LTM revenue
+$50+ 
+$30 -$50 
+$20 -$30 
+$10 -$20 
+$5 -$10 
+$1 -$5 
+>$1Q2 2020 Q2 2019
+3 3
+0 0
+2 3
+6 7
+24 18
+8588
+119 120Client Contribution for Q2 20 and Q2 19
+Top Clients Q2 20 Q2 19Contribution 
+Change YoY
+Top 5 Clients 37.4% 37.3% 0.0%
+Top 10 Clients 47.5% 46.4% 1.2%
+=== page 13 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 12
+Key Wins
+USD 46 million NN Deal wins in Q2’20
+Business process transformation for a leading US
+ -based background screening services company 
+Workforce management service transformation for a leading chain of supermarkets in Australia
+Automated DevOps platform for a leading player in the European Insurance market
+Cloud migration services for a leading European FinTech firm
+Mobile App development for a US
+ -based neuroscience technology company 
+Strategic digital assurance partner for one of the largest payment firms in the US
+Voice
+ -powered virtual assistant solution for a leading US -based communications provider
+eCommerce solution for one of the largest office furniture manufacturers in the world
+
+=== page 14 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 13
+78.2%79.0% 78.7% 79.0%80.7%79.0% 78.5%
+76.5%79.8%
+Q2
+2018Q3
+2018Q4
+2018Q1
+2019Q2
+2019Q3
+2019Q4
+2019Q1
+2020Q2
+2020UTILIZATION EMPLOYEE  ATTRITION
+14.4%15.7%17.0%18.2% 18.2%
+17.3%
+15.8%15.1%
+14.0%
+ Q2
+2018 Q3
+2018 Q4
+2018 Q1
+2019 Q2
+2019 Q3
+2019 Q4
+2019 Q1
+2020 Q2
+2020Employee Metrics
+=== page 15 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 14
+North 
+America
+75.3%Europe
+17.4%APAC
+7.3%
+ATM
+40.6%
+ES
+8.7%DA
+16.4%BIBA
+12.6%BPS
+7.7%IMS
+14.0%
+HORIZONTALGROWTH
+QoQGROWTH
+YoY
+ATM -5.5% 21.4%
+ES 3.4% 2.3%
+DA 1.9% 2.0%
+BIBA 9.1% 13.3%
+BPS -9.9% 5.6%
+IMS 2.9% -1.1%
+TOTAL -1.2% 10.4%GEOGRAPHYGROWTH
+QoQGROWTH
+YoY
+North America 0.4% 8.3%
+Europe -3.6% 37.4%
+APAC -10.7% -13.1%
+TOTAL -1.2% 10.4%VERTICALGROWTH
+QoQGROWTH
+YoY
+BFS 3.4% 6.9%
+GTT -27.2% -20.0%
+H&I 3.5% 20.9%
+M&C -4.4% 16.4%
+HTPS 2.1% 20.2%
+TOTAL -1.2% 10.4%BFS
+38.5%
+GTT
+7.3%H&I
+21.1%M&C
+16.9%HTPS
+16.2%Q2 20 Revenue Results
+=== page 16 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 15
+Finance Update
+=== page 17 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 16
+❑Q2’20 revenue of $ 208.1 M
+▪Q/Q decline of 1.2%, 0.9% in CC
+▪Y/Y growth of 10.4%, 11.3% in CC
+❑Q2’20 revenue of INR 15,691 M
+▪Q/Q growth of 1.8% and Y/Y growth of 19.9%Key HighlightsQ2 20 Performance
+188.5210.5214.3210.6208.1
+Q2'19 Q3'19 Q4'19 Q1'20 Q2'20US$ M
+QoQ 4.7% 11.7% 1.8% -1.7% -1.2%
+YoY 12.0% 23.1% 21.7% 17.0% 10.4%
+13,08314,81315,288 15,41815,691
+Q2'19 Q3'19 Q4'19 Q1'20 Q2'20INR M
+QoQ 3.5% 13.2% 3.2% 0.8% 1.8%
+YoY 15.1% 22.5% 22.1% 22.0% 19.9%
+=== page 18 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 17
+Outstanding Hedge Position and Rates
+Currency PairQ2’20 Avg. Rate (Previous Qtrs.)
+Amount (M.) Avg. Rate Q1'20 Q4'19 Q3'19
+USDINR ($) 212.98 77.20 75.77 74.85 74.15
+EURINR (€) 6.00 89.71 89.04 89.02 89.72
+GBPINR (£) 13.36 100.32 100.11 99.14 98.73
+Total ($) 236.13
+Notes: 
+1.Hedges outstanding are full -term hedges.
+2. EUR converted @ 1.1225/USD & GBP converted  @ 1.2288/USD
+3. Avg. Rate=Average of the forward rate at which the hedges have been booked.
+=== page 19 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 18
+•Q2'20registered aforex lossof$1.0M
+•Forex Gain expected innext two quarters
+basis Q2closing exchange rate ofINR
+75.51perUSD are:
+oQ3’20~$1.0M
+oQ4’20~$0.4MForex Gain/(Loss)
+USD M
+1.0 2.8 
+0.1 5.8 
+(1.0)1.0 
+0.4 
+Q2'19 Q3'19 Q4'19 Q1'20 Q2'20 Q3'20 (F) Q4'20 (F)
+=== page 20 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 19
+2529.935.458.2117.4
+Q2'19 Q3'19 Q4'19 Q1'20 Q2'20Cash Balance ($M)
+Effective Tax Rate (%)DSO (days)
+Capex ($M)Balance Sheet & Other Updates
+77 7680 8277
+545159 57 55
+23 25212522
+Q2'19 Q3'19 Q4'19 Q1'20 Q2'20Total Billed Unbilled
+25.2%
+22.0%
+19.7%17.7%18.6% 19.1%
+FY'16 FY'17 FY'18 FY'19 Q1'20 Q2'204.6
+4.44.6
+4.5
+4.4
+Q2'19 Q3'19 Q4'19 Q1'20 Q2'20
+Dividend : ₹1.5 (75 %) in Q2’20
+=== page 21 ===
+w ww.hexaware.com  | © Hexaw are Technologies. All rights reserved. 20
+Innovative Services
+Passionate Employees
+Delighted CustomersThank you
+www.hexaware.com

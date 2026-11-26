@@ -1,0 +1,172 @@
+ 
+ 
+ 
+September  15, 2026 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,                                                                        
+MUMBAI - 400 001  
+ 
+Scrip Code: 526299    The Manager, Listing  
+National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, 
+G-Block, Bandra -Kurla Complex,  
+MUMBAI – 400 051 
+ 
+Scrip Symbol: MPHASIS  
+ 
+Dear Sir /Madam , 
+ 
+ Sub: Intimation of Press Release  
+ 
+Pursuant to the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, p lease find enclosed 
+herewith a press release titled  “Mphasis and Plaksha University Build Future -Ready Talent through Second 
+Edition of ‘TrackShift Innovation Challenge’ ”. 
+ 
+The press release will also be available on the website of the Company at www.mphasis.com . 
+ We request you to kindly take the above intimation on record . 
+          
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Mphasis Limited  
+ 
+ 
+Mayank Verma  
+Senior Vice President and Company Secretary  
+Membership No.: ACS 18776  
+ 
+Encl: As above  
+ 
+Docusign Envelope ID: 9272D307-468F-8E81-80F1-3ED41AF8CD72
+
+ 
+ 
+Mphasis and Plaksha University Build Future -Ready Talent through Second Edition of ‘TrackShift 
+Innovation Challenge’  
+~Students from across India tackle real -world motorsport engineering problems in AI, computer vision and predictive 
+modelling  
+   
+ 
+Bengaluru, September 1 5, 2026  
+Mphasis Foundation , in partnership with Plaksha University , hosted the second edition of the TrackShift Innovation 
+Challenge on September 12 –13, 2026, at the Plaksha University campus. The 24 -hour applied innovation challenge 
+brought together more than 1 80 undergr aduate and postgraduate student innovators from across India to develop 
+scalable proofs of concept at the intersection of artificial intelligence, mobility and intelligent systems.  
+ 
+Developed as part of Mphasis' multi -year association with the TGR Haas F1 Team, TrackShift 2026 challenged students to 
+apply emerging technologies including computer vision, data science and predictive modelling to engineering problems 
+drawn directly from the realities of elite motorsport. This year's edition placed a sharper focus on applied engineering 
+rigour, with problem statements inspired by the technical constraints and decision -making scenarios of the 2026 racing 
+season.  
+ 
+The challenge drew over 3 600 applications from students across India, including those from IITs, NITs, IIIT -Hyderabad, 
+BITS Pilani, and a significant number of regional and tier 2 - 3 institutions. Approximately one-third  of applicants were 
+female students, a reflection of the initiative's commitment to women in STEM education and broadening participation in 
+high -complexity technology challenges.  
+ 
+This year's challenge featured three problem statements:  
+• Energy & Overtake Intelligence: Build a real -time decision engine that recommends optimal energy deployment 
+modes and evaluates the risk -reward ratio of overtake windows.  
+• Track Limits Detection: Develop an AI -powered video analysis system to detect track -limit violations using 
+computer vision and car telemetry.  
+• Tyre Degradation Intelligence: Create a predictive model that strips external noise from practice sessions to 
+generate clean tyre performance degradation curves.  
+ 
+Solutions developed during the challenge will be made available through an open repository on the TrackShift website, 
+accessible to industry partners, academia, startups and research labs ensuring that promising ideas can continue to evolve 
+beyond the chal lenge itself.  
+ 
+“Motorsport brings together some of the most complex challenges in engineering, data and technology, and TrackShift 
+allows students to engage with these challenges from a practical perspective. By working on problems inspired by the 
+realities of motorsport , participants were able to apply their technical knowledge, explore new approaches and develop 
+solutions that have relevance beyond the track. It was particularly interesting to observe how the students approached 
+this year’s challenges and the fresh pers pectives they brought to these complex engineering problems,” said  Jason Kew, 
+Head of Information, TGR Haas F1 Team.  
+ 
+Docusign Envelope ID: 9272D307-468F-8E81-80F1-3ED41AF8CD72
+  
+   
+ “The TGR Haas F1 Team partnership gives TrackShift something rare: engineering problems with real stakes and real 
+complexity. What excites me is that students from IITs and from tier 2 colleges across India are sitting in the same room, 
+working on the same hard problems that pr ofessionals at the frontier of motorsport technology deal with every day. That 
+is exactly the kind of talent pipeline India's technology industry needs and the kind Mphasis is committed to building ,” 
+said Veda Iyer, Global Chief Marketing Officer, Head of Hyperscalers & Strategic Partnerships, and Head Sales - APAC, 
+Mphasis.  
+ 
+"Engineers are shaped by the problems they are given. TrackShift puts that belief to the test every year, and this edition, 
+with its focus on overtake intelligence, track limit detection and tyre degradation intelligence, pushed students into the 
+kind of com plexity our industry partners deal with daily. That is the standard we want our graduates to be ready for,” said 
+Prof. M. Balakrishnan, Distinguished Visiting Professor, Plaksha University.  
+The top three winning teams received cash prizes of ₹1,00,000, ₹50,000, and ₹25,000, respectively, along with 
+mentorship -based internships at Mphasis. The winning teams are:  
+− 1st prize : Vellore Institute of Technology, Vellore  
+− 2nd Prize : Yeshwantrao Chavan College of Engineering (YCCE) , Nagpur  
+− 3rd prize: Maharaja Agrasen Institute of Technology, Delhi  
+ 
+The top three teams will receive a share of the cash  prize , along with a fully sponsored visit to the TGR Haas F1 Team 
+facility in the United Kingdom. Selected participants will receive mentoring during their  internship  (up to two months ) at 
+Mphasis, working on live AI and innovation projects. Participants will  receive  innovation kits  and certificates , meet 
+industry experts, academic leaders and the TGR Haas F1 Team, along with networking opportunities with global 
+technology leaders.  
+ 
+Mphasis Foundation, a CSR arm  of Mphasis, reflects the company's belief that technology excellence and purposeful 
+innovation can drive meaningful social impact.  
+ 
+About Mphasis:  
+At Mphasis, engineering has been in our DNA since inception.  
+ 
+Mphasis is an AI -led, platform -driven company with human -in-the-loop intelligence, helping global enterprises modernize, infuse AI, 
+and scale with agility. The Mphasis.ai  unit and Mphasis AI -powered ‘Tribes’ are focused on client outcomes and embed artificial 
+intelligence and autonomy into every layer of the enterprise technology and process stack.   
+ 
+Mphasis built NeoIP ™, a breakthrough AI platform which orchestrates a powerful pack of AI platforms and solutions to deliver 
+impactful outcomes across the entire enterprise IT value chain, because we believe ‘ AI Without Intelligence Is Artificial.TM’ Mphasis 
+NeoIP is powered by the Ontosphere, a dynamic and ever -evolving knowledge base, delivering continuous and constant innovation 
+through perpetual  intelligent engineering - driving end -to-end enterprise transformation.  
+ 
+At the heart of our approach is customer -centricity —reflected in our proprietary Front2Back ™ transformation framework, which uses 
+the exponential power of cloud and cognitive to deliver hyper -personalized digital experiences (C=X2C2 ™ = 1) and build strong 
+relationships with marquee clients. Our Service Transformation solutions enable enterprises to pivot from legacy systems and 
+operations to secure, adaptive, cloud -first operating models with minimal disruption. Continuous investments  in platforms, such as 
+the Neo series, enable enterprises to stay efficient, relevant, and ahead  in a dynamic AI -first world. Mphasis is a  Hi-Tech, Hi -Touch, Hi -
+Trust company, rooted in a learning and growth culture.  Click here  to know more.   (BSE: 526299 ; NSE: MPHASIS ) 
+ 
+Docusign Envelope ID: 9272D307-468F-8E81-80F1-3ED41AF8CD72
+  
+   
+ About Plaksha University:  
+Founded by a global community of more than 100 technology and business leaders, Plaksha envisions reimagining technology 
+education and research for India and the world. With strong partnerships with UC Berkeley, Purdue, UC San Diego, Cornell 
+University, Pe nn Engineering, IIT Kanpur and IISc Bengaluru, Plaksha aims to nurture and empower a generation of catalytic 
+leaders and create an ecosystem of research and innovation. The university collapses the traditional boundaries of engineerin g 
+and promotes interdi sciplinary learning by combining technology, design and entrepreneurship.  
+ 
+Plaksha is guided by an eminent academic board including Vijay Kumar, Nemirovsky Family Dean of Penn Engineering, University 
+of Pennsylvania; Prof. S Shankar Sastry, Thomas Siebel Distinguished Professor of Computer Science, Venkatesh Narayanamurthi,  
+forme r Dean of the Harvard School of Engineering and Applied Sciences; Sriram Rajamani, Corporate Vice President, Microsoft 
+Research India; Julia Ross, Dean of Engineering, Virginia Tech; Krishna Palepu, Ross Graham Walker Professor of Business 
+Administration, Harvard Business School; Sanjay Sarma, Fred Fort Flowers and Daniel Fort Flowers Professor of Mechanical 
+Engineering, MIT; and business leaders such as Neeraj Aggarwal, Vice -Chair, Asia -Pacific at Boston Consulting Group; Rakesh 
+Bharti Mittal, Vice Chairma n, Bharti Enterprises; Hitesh Oberoi, Co -promoter &; CEO, Info Edge (Naukri.com); Alok Mittal, 
+Cofounder and Executive Chairman, Indifi Technologies Pvt Ltd; Manas Human, Co - Founder, Nagarro; Prashanth Prakash, 
+Partner, Accel; Subrata Mitra, Partner, Acce l; Ritesh Malik, Founder and CEO, Innov8; Dalip Pathak, Special Limited Partner, 
+Warburg Pincus LLC; Srikanth Velamakanni, Cofounder and Group CEO, Fractal; Pramod Bhasin, Chairman, Clix Capital among 
+others. Corporate donors include companies like Bharti Airtel Foundation, Axis Bank, Indorama Ventures, Havells, Harish and Bina 
+Shah Foundation, Binny Bansal, Co -founder Flipkart and founder Xto10x, HT Parekh Foundation, Mphasis, Info Edge, and Motilal 
+Oswal. The global community of business leaders who found ed Plaksha can be seen  here . 
+ 
+For further information, please contact:  
+Mphasis Corporate Communications  
+Deepa Nagaraj  
+deepa.nagaraj@mphasis.com  |  
++ 1 (646) 424 -5160 |+91 9845 256 283   
+ 
+Sumana Bhat  
+sumana.bhat@mphasis.com  |  
++91 9902 980 980  
+ 
+Docusign Envelope ID: 9272D307-468F-8E81-80F1-3ED41AF8CD72

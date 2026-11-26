@@ -1,0 +1,103 @@
+ 
+Netweb Technologies India Limited  
+(Formerly Known as Netweb Technologies India Private Limited)  
+Plot No. H -1, Block-H, Pocket No. 9, Faridabad Industrial Town, Sector -57, Faridabad, 
+Haryana 121004  
+Tel. No. : +91 -129-2310400  
+Website : www.netwebindia.com ; E-mail : complianceofficer@netwebindia.com  
+ CIN : L72100HR1999PLC103911  
+Date: 19.02.202 5 
+To,   
+The Manager    
+Listing Department    
+BSE Limited    
+Phiroze Jeejeebhoy Towers Dalal Street   
+Mumbai - 400001    
+Scrip Code: 543945    To,  
+The Manager    
+Listing Department    
+National Stock Exchange of India Limited    
+Exchange Plaza, Bandra Kurla Complex   
+Bandra East, Mumbai - 400051   
+Scrip Code: NETWEB    
+ 
+SUBJECT: INTIMATION OF PRESS RELEASE  
+Dear Sir/ Madam,  
+Please find enclosed herewith the Press Release dated February 19, 2025 , titled Netweb Technologies 
+introduces Skylus.ai: Simplified and Easy Way to Set up a GPU -based AI Lab infrastructure  
+issued by the Company.  
+ 
+Kindly take the same on record.  
+Thanking you,  
+For Netweb Technologies India Limited  
+ 
+ 
+Lohit Chhabra  
+Company Secretary & Compliance Officer  
+M.NO A36610  
+Netweb Technologies Introduces Skylus.ai: Simplified 
+and Easy Way to Set up a GPU -based AI Lab 
+infrastructure  
+ 
+• Netweb Technologies launches Skylus.ai , an appliance  for optimized GPU resource management 
+across multi -vendor environments.  
+• Skylus.ai enables flexible  resource allocation, maximizing GPU utilization for AI workloads.  
+• The platform integrates with Tyrone HyperScale NAS —ParallelStor, ensuring high throughput and 
+low latency for large -scale AI applications.  
+• Skylus.ai includes Kubyts, a workbench offering pre -tested,  pre-built  ready -to-deploy container 
+images, simplifying application deployment.  
+• Skylus.ai supports industries  such as  pharmaceuticals, finance, education,  automotive design,  or any 
+organization looking to leverage  the power of  AI. 
+• It also facilitates Research as a Service (ReaaS) and Innovation as a Service (IaaS), enabling seamless 
+AI adoption  across industries and use cases.  
+[India, New Delhi, February 19th, 2025 ] – Netweb  Technologies , the leading Indian OEM  in 
+high -end computing domain and innovative IT solutions, today announced the launch of 
+Skylus.ai, a groundbreaking composable GPU aggregation -disaggregation appliance  designed to 
+optimize GPU resource management for AI  including GenAI workloads . It addresses the critical 
+challenges faced by organizations in utilizing multi -vendor GPU and CPU resources, offering a 
+vendor -agnostic solution that drives faster ideation, fosters collaboration, and accelerates 
+experimentation while optimizing resource utilization and total cost of ownership . 
+Skylus.ai simplifies the integration of multi -vendor GPUs and CPUs, enabling the creation of 
+tailored workspaces that align with specific workload needs. Whether utilizing CPUs, full GPUs, 
+or slices of multi -instance GPUs, Skylus.ai ensures seamless and ef ficient resource allocation. 
+The platform  also  uses Tyrone Kubyts, a workbench featuring a  pre-tested, pre -built, optimized, 
+and qualified set of curated container images in the form of an Image marketplace . This allows 
+users to access packaged containers  or VM disk images that are ready to deploy, saving time 
+and reducing the complexity of application deployment from scratch.  
+Skylus.ai resource composability transforms static resource allocation into a dynamic  model, 
+allowing for the optimal provisioning of resources based on unique workload requirements. For 
+example, an enterprise GPU server with 8 GPUs can dynamically allocate slices of these GPUs to 
+different teams, maximizing utilization and controlling cos ts.  
+In addition to its advanced resource management capabilities, Skylus.ai integrates seamlessly 
+with Tyrone HyperScale NAS —ParallelStor, a hyperscale storage solution that supports file and 
+object access, ensures throughput and latency, and manages large vol umes of small files with 
+ease. This integration eliminates the need for multiple data copies and supports global data 
+management across on -premises and cloud environments  
+Mr. Sanjay Lodha, Chairman and Managing Director (CMD) of Netweb Technologies India 
+Limited, said, "We are thrilled to unveil Skylus.ai, a revolutionary, Make -in-India AI technology 
+platform poised to transform AI infrastructure and GPU resource management. AI workloads are 
+expanding rapidly, creating major challenges in resource allocation, provisioning, and 
+management. Businesses struggle with GPU wastage, inefficiencies, and infrastructure 
+bottlenecks, slowing AI adoption and innovation.  Skylus. ai addres ses these pain points with an 
+intelligent, scalable, and vendor -agnostic solution. It optimizes AI workloads, reduces GPU 
+wastage, and optimizes  resource management, enabling businesses to focus on AI innovation  - 
+not infrastructure issues.  More than just a tool, Skylus.ai is a catalyst for AI -driven transformation, 
+setting new benchmarks in efficiency, innovation, and performance. To top it , these innovations 
+are all Made in India."  
+ About Netweb Technologies  
+Netweb is a publicly listed Indian OEM in the space of high -end computing with fully integrated 
+design, manufacturing, and integration capabilities. It designs, manufactures, 
+integrates/assembles, and deploys high -end computing IT hardware and solutions co mprising 
+proprietary middleware solutions, end -user utilities, and pre -compiled application stack. 
+Netweb’s HCS products/solutions offerings include high -performance computing 
+(Supercomputing/HPC) systems, private cloud and hyper -converged infrastructure ( HCI), AI 
+(Artificial Intelligence) systems, and enterprise workstations, high -performance storage (HPS/ 
+Enterprise Storage System) solutions, data center servers, software and services for their HCS 
+offerings, spare and others.  
+Link  -  
+Skylus.ai is available globally. Organizations interested in learning more or scheduling a demo can visit   
+https://tyronesystems.com/skylus.ai/  
+ 
+ 
+ 
+ 

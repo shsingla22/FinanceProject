@@ -1,0 +1,550 @@
+--- CIM_787_WebXMLFile_20261105_151548451_2.xml (the exchange's structured disclosure) ---
+NSESymbol: DABUR ; Name Of The Company: Dabur India Limited ; Scrip Code: 500096 ; MSEISymbol: NOTLISTED ; ISIN: INE016A01026 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-11-04 ; Start Time Of Board Meeting: 14:00:00 ; End Time Of Board Meeting: 16:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 6 ; Date Of Report: 2026-11-05 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: CEO ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Mohit Malhotra ; Effective Date Of Reason Of Change: 2026-11-13 ; Type Of Change: Appointment ; Position Of Director In Board Three: Not Applicable ; Name Of Designated Person: Herjit Singh Bhalla ; Effective Date Of Reason Of Change: 2026-11-14 ; Term Of Appointment In Months: 60 ; Brief Profile: Mr. Bhalla, joined Dabur earlier this year, bringing over 25 years of experience in building brands, scaling businesses and driving sustainable growth across diverse geographies and business environments. Mr. Bhalla spent over 16 years at Unilever in management roles across India and international markets, followed by global leadership positions at The Hershey Company and METRO cash & Carry India. He holds a B.com (Hons.) degree from Delhi University (1997) and an MBA from MDI Gurugram (2000). ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: None ; Designation Of Designated Person: Non - Executive Independent Director ; Name Of Designated Person: Gopal Krishna Jain ; Effective Date Of Reason Of Change: 2026-12-31 ; Term Of Appointment In Months: 24 ; Brief Profile: Mr. Gopal Krishna Jain, aged 59 years holds a bachelor's degree in economics from University of Delhi and an M.A. (Oxon) degree in English Law from the University of Oxford. He is a designated Senior Advocate since2014, with over 30 years of experience in arbitration, commercial litigation, and regulatory advisory. Admitted to the Bar in 1992, he has represented leading Indian and multinational clients in complex disputes before the Supreme Court of India, more than 20 High Courts, and multiple tribunals. His core expertise includes experience in Constitutional Law & Regulatory Frameworks, Commercial Arbitration (Domestic & International), Corporate Governance & Board Advisory Infrastructure, Telecom & Energy Sectors, Risk, Compliance & Policy Strategy and Commercial Litigation. ; Category Of Cessation: Superannuation or retirement ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Compliance Officer ; Name Of Designated Person: Ashok Kumar Jain ; Effective Date Of Reason Of Change: 2026-11-30 ; Name Of Designated Person: Ankush Jain ; Effective Date Of Reason Of Change: 2026-12-01 ; Brief Profile: Mr. Ankush Jain is a qualified Chartered Accountant and a qualified Company Secretary. Mr. Ankush Jain has rich and varied exposure in globally renowned MNCs. He is currently serving as the Chief Financial Officer (CFO) of the Company and is designated as a Key Managerial Personnel (KMP) and Senior Management Personnel (SMP) of the Company. Mr. Jain shall act as Compliance Officer of the Company with effect from December 1, 2026, in addition to his existing role as Chief Financial Officer of the Company. As a finance professional with over three decades of experience, Mr. Jain oversees the Accounting, Business Support, Treasury, Corporate Secretarial, Information Technology, Financial Planning and Analysis, Mergers & Acquisitions, Internal audit and Tax functions at Dabur globally. ; Category For Change: Auditors ; Designation Of Designated Person: Others ; Description Of Other Designation: Joint Internal Auditors ; Salutation Of Designated Person: M/s. ; Name Of Designated Person: Ernst & Young LLP ; Effective Date Of Reason Of Change: 2026-11-04 ; Term Of Appointment In Months: 17 ; Brief Profile: Ernst & Young (EY) LLP is one of the largest enterprise Risk & Internal Audit (IA) firms in India & Globally. EY has a focussed FMCG & Consumer team enabled by emerging Al/Digital enablers to service leading companies in India. ; Salutation: Mr. ; Name Of The Person: Mohit Malhotra ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-11-03 ; Effective Date Of Resignation: 2026-11-13 ; Reason Of Resignation In Brief: Accepted a leadership role overseas
+
+--- CIMG_500096_05112026151310_1.pdf ---
+1)a1Jur
+Ind/a Lid.
+
+Ref: SEC/SE/2026-27
+Date: November 04, 2026
+To,
+Corporate Relations Department
+BSE Ltd.
+Phiroze Jeejeebhoy Towers
+Dalal Street,
+Mumbai- 400001
+
+Listing Department
+National Stock Exchange of India Ltd.
+Exchange Plaza, 5th Floor
+Plot No. C/1, G Block, Sandra Kurla Complex
+Sandra (E), Mumbai - 400051
+··
+
+SSE Scrip Code: 500096
+
+NSE Scrip Symbol: DABUR
+
+Sub: Outcome of Board Meeting held on November 04, 2026: Change in Directors, Key
+Managerial Personnel and Compliance Officer
+Dear Sir/Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 ("Listing Regulations"), as amended from time to time, we wish to inform you
+that the Board of Directors of Dabur India Limited ('the Company') at its meeting held today, i.e.,
+Wednesday, November 4, 2026, has approved following changes in the Directors, Key .·
+Managerial Personnel and Compliance Officer:
+i) Accepted the resignation of Mr. Mohit Malhotra {DIN: 08346826), Global Chief Executive
+Officer and Whole-time Director, from the Company, with effect from November 13, 2026 as
+he wishes to pursue personal interests. Resignation letter of Mr. Malhotra is attached as
+Annexure A.
+ii) Appointed Mr. Herjit Singh Bhalla {DIN: 07688008), Chief Executive Officer-India Business,
+as an Additional Director and also a Whole-time Director of the Company with effect from
+November 14, 2026 for a period of (5) five years, subject to regulatory approvals. Mr. Bhalla
+will continue to lead the growth agenda for the India business, representing the Company and
+advancing its strategic priorities in its principal market.
+Mr. P. D. Narang, an existing Whole-time Director, will continue to provide strategic guidance
+across the Dabur Group's businesses, including the responsibility for oversight of the
+International business. This structure clarifies leadership responsibilities and accountability
+while ensuring continuity as the Company advances its priorities and prepares for its next
+phase of growth~
+
+DABUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi-110 002, Tel.: +91 11 71206000.
+Regd. Office: 8/3, Asaf Ali Road, New Delhi -110 002 (India)
+CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+
+Dahur
+Ind/a Ltd.
+
+Mr. Narang has been associated with Dabur from 1983 and brings over four decades of
+experience in corporate finance, strategic planning, capital markets, M&A and governance.
+A qualified professional with degrees and credentials including B.com, FCA, FCS and AICWA,
+he has played a significant role in Dabur's professionalisation, international expansion and
+major acquisitions.
+iii) Appointed Mr. Gopal Krishna Jain (DIN: 02050486) as a Non-Executive Independent Director
+on the Board of the Company for a period of (2) two consecutive years with · effect ·from
+December 31 , 2026 till December 30, 2028, subject to requisite approval of shareholders of
+the Company to.be obtained through postal ballot.
+iv) Designated Mr. Romesh Sobti (DIN: 00031034), Independent Director, as the Lead
+Independent Director, with effect from January 01, 2027 in place of Mr. Mukesh Hari Butani,
+Independent Director who is currently designated as the Lead Independent Director of the
+Company, whose term is ending on December 31, 2026.
+v) Mr. Ashok Kumar Jain, Executive Vice President (Finance), Group Company Secretary & Chief
+Compliance Officer (Key Managerial Personnel) shall superannuate from the services of the
+Company with effect from close of business hours on November 30, 2026. Accordingly, the
+Board has designated Mr. Ankush Jain who is presently Chief Financial Officer as Compliance
+Officer also in terms of Regulation 6( 1) of the Listing Regulations and other applicable SEBI
+Regulations, with effect from December 01, 2026.
+Mr. Ankush Jain is a qualified Company Secretary, holding Membership No. ACS 18053.
+The above information is being submitted in respect of both listed equity shares and listed Nonconvertible debentures of the Company.
+The Company shall be seeking requisite approval of the shareholders of the Company by way of
+postal ballot for the aforesaid appointment of Directors. The process, timelines and other requisite
+details of the postal ballot will be communicated in due course.
+The requisite disclosures in respect of the above change in Directors/Key Managerial Personnel
+& Compliance Officer, as prescribed under Regulation 30 of the Listing Regulations read with the
+SEBI Master Circular No. H0/49/14/14(7)2025-CFD-P0[)2/l/3762/2026 dated January 30, 2026,
+are enclosed herewith as Annexure B.
+The Board meeting commenced at 2 P.M. and concluded at
+
+'f
+
+P.M.
+
+The aforesaid disclosures are also being made available on the website of the Company at
+https://www.dabur.com/
+
+w
+
+__v
+
+DABlJR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi-110 002, Tel.: +91 11 71206000
+Re~d. Office: 8/3, Asaf Ali Road, New Delhi - 110 002 (India)
+, CIN: L24230Dl1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+
+1)a!Jur
+tndla ltd.
+
+This is for your information and records.
+Thanking You,
+Yours faithfully,
+For Dabur India Limited
+
+Ashok
+Kumar Jain
+
+Digitally signed by Ashok Kumar Jain
+DN: c=IN, o=Personal, title=2634,
+pseudonym=fzxn5h6lv9a4tm20edjrgcpks8q3o7w1,
+2.5.4.20=08443b3bbbcf5f80cd46cc26add8b8bdd652ffd2
+0caa6b7340b03564e4b39dfa, postalCode=110092,
+st=Delhi,
+serialNumber=ecb3e1fdc2a028c70333c2d10a7e968110c
+5d0645b352ed6dfd1bc6aad8147b3, cn=Ashok Kumar
+Jain
+Date: 2026.11.04 16:48:28 +05'30'
+
+ar Jain}
+any Secretary and Chief Compliance Officer
+Encl.: as above
+
+DABUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi-11 0 002, Tel.: +91 11 71206000 .,
+Re~d. Office: 8/3, Asaf Ali Road, New Delhi - 110 002 (India)
+, CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+I
+
+
+Annexure-A
+
+3 November 2026
+Mr Mohit Burman
+Chairman
+Dabur India Limited
+Subject: Resignation as Whole-time Director and Global Chief Executive Officer
+
+Dear Mohit,
+Further to our recent conversations, please accept this letter as my formal resignation as Whole-time
+Director on the Board of Dabur India Limited and as Global Chief Executive Officer.
+I have accepted a leadership role overseas, effective 16 November 2026. I would be grateful if the
+Board could relieve me before that date, and I will ensure that the handover is complete and seamless
+before I leave.
+Since I joined Dabur as a Management Trainee more than three decades ago, I have watched it grow
+from a '1;250-crore company into a transnational enterprise with a footprint in over 100 countries and
+revenues of more than '1;13,000 crore. Along this journey, from Management Trainee to Global CEO, I
+have had the privilege of building brands and businesses from scratch into multi-crore profit centres.
+I have also had the honour of leading talented, multicultural teams across the Americas, Europe,
+Africa, the Middle East, Asia and India . It has been immensely satisfying to see these businesses
+flourish, and to see our brands become ones that consumers around the world trust and love.
+I am deeply grateful to the Burman family, the Board and my colleagues for their unwavering
+confidence in me, and for the ever-larger responsibilities placed in my hands over the years. Together,
+we have made Dabur an iconic brand and the world's largest Ayurvedic company.
+I believe this is the right moment in my career to take on a new challenge. I leave with pride and
+gratitude, knowing that the strong legacy, clear strategy and highly capable leadership team in place
+will continue to steer Dabur to new heights.
+Thank you for an extraordinary journey. I will always remain a proud ambassador for Dabur.
+With gratitud~ and respect,
+
+~.
+Whole-time Director and Global Chief Executive Officer
+Dabur India Limited
+Corporate Office, Kau shambi, Sahibabad 201010, District Ghaziabad
+Tel : +91120 396 2100
+
+I www .dabu r. com
+
+
+1la/Jur
+India Ltd.
+
+Annexure B
+Change in Directors/Key Managerial Personnel
+Disclosure in terms of Regulation 30 of the Listing Regulations read with the SEBI Master
+Circular No. H0/49/14/14(7)2025-CFD-POD2/l/3762/2026 dated January 30, 2026
+SI.
+No.
+
+Particulars
+
+Mr. Gopal Krishna
+Jain
+
+1.
+
+Reason
+for
+change
+viz.
+appointment, reappointment
+resignation,
+removal, death
+or otherwise;
+Date
+of
+appointment/ reappointment
+/cessation (as
+applicable)
+&
+term
+of
+appointment/ reappointment
+
+Appointment of Mr
+Gopal Krishna Jain
+{DIN:02050486)asan
+Non-Executive
+Independent Director
+of the Company.
+
+2.
+
+3.
+
+Mr. Herjit Singh Bhalla
+
+Mr. Mohit Malhotra
+
+Appointment of Mr Herjit Resignation
+Singh
+Bhalla
+(DIN:
+07688008)
+as
+an
+Additional Director &
+Whole-time Director of
+the
+Company
+(Key
+ManaQerial Personnel).
+With
+effect
+from Appointed as Additional November 13, 2026
+December 31, 2026, Director with effect from
+for the period of 2 November 14, 2026.
+(two) years i.e. till
+December 30, 2028, Appointed as Whole-time
+subject to approval of Director for a period of 5
+the shareholders of (five) years with effect
+the Company through from November 14, 2026
+postal ballot.
+subject to approval of the
+shareholders
+of
+the
+Company through postal
+ballot.
+Brief profile (in Mr. Gopal Krishna Mr. Bhalla, joined Dabur Not Applicable
+case
+of Jain, aged 59 years, earlier this year, bringing
+25
+years
+of
+appointment)
+holds a bachelor's over
+experience
+in
+building
+degree in economics
+scaling
+from
+University of brands,
+businesses
+and
+driving
+Delhi and an M.A.
+sustainable
+growth
+(Oxon)
+degree
+in
+across
+diverse
+English Law from the
+geographies
+and
+University of Oxford.
+business environments.
+He is a designated
+Senior Advocate since
+
+Mr. Bhalla spent over 16
+years at Unilever in
+management
+roles
+
+DABUR INDIA LIMITED, Punjabi Bhawan. 10, Rouse Avenue, New Delhi-110 002, Tel.: +91 11 71206000
+Re~d. Office: 8/3, Asaf Ali Road, New Delhi - 110 002 (India)
+CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+
+1)a/Jur
+Ind/a ltd.
+
+2014, with over 30
+years of experience in
+arbitration,
+commercial litigation,
+and
+regulatory
+advisory.
+
+4.
+
+~
+
+across
+India
+and
+international
+markets,
+followed
+by
+global
+leadership positions at
+The Hershey Company
+and METRO cash &
+Carry India.
+
+Admitted to the Bar in He holds a B.com (Hons .)
+1992,
+he
+has degree
+from
+Delhi
+represented
+leading University (1997) and an
+Indian
+and MBA from MDI Gurugram
+multinational clients in (2000).
+complex
+disputes
+before the Supreme
+Court of India, more
+than 20 High Courts,
+and multiple tribunals.
+His core expertise
+includes experience in
+Constitutional Law &
+Regulatory
+Frameworks,
+Commercial
+Arbitration (Domestic
+&
+International),
+Corporate
+Governance & Board
+Advisory
+Infrastructure,
+Telecom & Energy
+Sectors,
+Risk,
+Compliance & Policy
+Strategy
+and
+Commercial Litigation.
+None
+of None
+
+Disclosure
+relationships
+between
+directors
+(in
+of
+case
+appointment of
+a director)
+
+Not Applicable
+
+~
+
+DABUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi-110 002, Tel.: +91 11 71206000
+Re~d. Office: 8/3, Asaf Ali Road, New Delhi - 110 002 (India)
+CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+
+DizDur
+Ind/a Ltd.
+
+5
+
+Information as
+required under
+Circular
+No.
+LIST/COMP/14/
+2018-19
+and
+NSE/CML/
+2018/24 dated
+June 20, 2018
+issued by the
+SSE and NSE,
+respectively
+
+Mr. Gopal Krishna Jain
+is not debarred from
+holding the office of a
+director by virtue of
+any order of SEBI or
+any
+other
+such
+Authority
+
+Mr. Herjit Singh Bhalla is Not Applicable
+not debarred from holding
+the office of a director by
+virtue of any order of
+SEBI or any other such
+Authority
+
+DABUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi-110 002, Tel.: +91 11 71206000
+Regd. Office: 8/3, Asaf Ali Road, New Delhi - 110 002 (India)
+·, CIN: L24230DL 1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+
+~ur
+Ind/a Ltd.
+
+Change in Compliance Officer
+Disclosure in terms of Regulation 30 of the Listing Regulations read with the SEBI Master
+Circular No. H0/49/14/14(7)2025-CFD-POD2/l/3762/2026 dated January 30, 2026
+SI.
+No.
+
+Particulars
+
+Mr. Ashok Kumar Jain
+
+Mr. Ankush Jain
+
+1.
+
+Reason for change
+viz. appointment, · reappointment
+resignation, removal,
+death or otherwise;
+
+Superannuation/
+Retirement
+
+The Board of Directors at its
+meeting
+held
+today,
+i.e.,
+Wednesday, November 04, 2026,
+designated Mr. Ankush Jain who is
+presently Chief Financial Officer as
+Compliance Officer also in terms of
+Regulation 6(1) of the SEBI Listing
+Regulations.
+
+2.
+
+Date of appointment/ November 30, 2026
+re-appointment
+/cessation
+(as
+applicable) & term of I
+appointment/
+reappointment
+Brief profile (in case of Not Applicable
+appointment)
+
+3.
+
+I
+
+December 01, 2026
+Term: As per the terms
+employment of the Company
+
+of
+
+Mr. Ankush Jain is a qualified
+Chartered Accountant and a I
+qualified Company Secretary.
+,
+Mr. Ankush Jain has rich and I
+varied
+exposure
+in
+globally I
+renowned MNCs.
+He is currently serving as the Chief
+Financial Officer (CFO) of the
+Company and is designated as a
+Key Managerial Personnel (KMP)
+and
+Senior
+Management
+Personnel (SMP) of the Company.
+Mr. Jain shall act as Compliance
+Officer of the Company with effect
+from December 1, 2026, in addition
+to his existing role as Chief
+Financial Officer of the Company.
+
+DA.BUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi-110 002 Tel.: +91 11 71206000
+Re!!d. Office: 8/3, Asaf Ali Road, New Delhi - 110 002 (India)
+·, CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+
+1)Q/)ur
+India ltd.
+
+As a finance professional with over
+three decades of experience, Mr.
+Jain oversees the Accounting,
+Business
+Support,
+Treasury,
+Corporate Secretarial, Information
+Technology, Financial Planning
+and
+Analysis,
+Mergers
+&
+Acquisitions, Internal audit and Tax
+functions at Dabur globally.
+
+4.
+
+Disclosure
+of Not Applicable
+relationships between
+directors (in case of
+appointment of a
+director
+
+Not Applicable
+
+DABUR INDIA LIMITED. Punjabi Bhawan, 10, Rouse Avenue, New Delhi-110 002, Tel.: +91 11 71206000 .
+Re~d. Office: 8/3, Asaf Ali Road, New Delhi - 110 002 (India)
+. CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com, Website: www.dabur.com
+
+

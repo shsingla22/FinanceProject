@@ -1,0 +1,123 @@
+ 
+ 
+01st July 2024  
+ 
+ 
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street  
+Mumbai 400 001  
+Scrip Code: 543232  National Stock Exchange of India Limited  
+Exchange Plaza, 5th floor, Plot No. C/1, 
+G Block, Bandra Kurla Complex, Bandra  
+(East), Mumbai 400 051  
+Trading Symbol: CAMS  
+                         
+ 
+Dear Sir / Madam,  
+  
+Sub:  Updated Press Release titled - “CAMS collaborates with Google Cloud to build 
+Cloud -Native platform to Transform its Asset Management Business Services ”  
+ 
+Computer Age Management Services Limited (CAMS), India’s largest registrar and transfer 
+agent of mutual funds (a SEBI regulated entity ), and Google Cloud have come together to 
+revolutionize the financial services landscape by building a next -generation platform for the 
+various business services provided by CAMS  
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requir ements) 
+Regulations, 2015, enclosed herewith is a Press Release issued by the Company on the cited 
+subject, content of which is self -explanatory.  
+ 
+We request you to take the same on records.  
+ 
+ 
+Yours faithfully,  
+For Computer Age Management Services Limited  
+  
+ 
+ 
+ 
+G Manikandan  
+Company Secretary and Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAMS collaborates with Google Cloud to build Cloud -Native platform to 
+Transform its Asset Management Business Services  
+ Initiative aims to modernize the largest platform serving the Indian asset management industry to 
+bring next generation capabilities  
+Chennai, 1 July 2024: Computer Age Management Services Limited  (CAMS), India’s largest registrar 
+and transfer agent of mutual funds (a SEBI regulated entity) , and Google Cloud have come together to 
+revolutionize the financial services landscape by building  a next -generation platform for  the various 
+business services  provided by CAMS.   
+CAMS’s platform  has been integral to the asset management industry of India for nearly 3 decades, 
+supporting the industry’s growth for new product launches, market expansion, strengthened 
+intermediation, regulatory compliance and differentiated investo r services . The next generation 
+platform , envisaged with Google Cloud, is a strategic step of the company to leverage the multiple 
+benefit s of cloud -based platforms (and emerging technologies ) for the rapidly growing asset 
+management industry and to serve the new generation, digital native investors.    
+The key building blocks of the platform will be design based on first principles, modulari ty and 
+reusability with a rich service s ecosystem, AI/ML powered digital products and data platform.  AI and 
+Automation will be integrated at every stage of the platform for automated, event -driven transaction 
+processing with increased efficiency and accur acy. CAMS and Google Cloud have engaged closely to 
+bring in several unprecedented functionalities for the Indian market in the areas of digital sovereignty 
+and enhanced security measures.   
+Commenting on the initiative, Anuj Kumar, Managing Director at CAMS , said, “Our technology 
+platform has been the financial infrastructure for the Indian Mutual Fund industry , serving investors 
+and the complex ecosystem diligently , while scaling up to build a market -share of about 68% in this 
+arena. While the current platform continues to stand  the test of time, the company is gearing -up for the 
+industry’s growth momentum with a modernized platform that will adopt a distributed, service -oriented, 
+cloud -native architecture with a modular design to ensure flexibility, scalabi lity & improved time -to-
+market, and will ensure zero -downtime deployments. We are excited to traverse this modernization 
+agenda with Google Cloud who amply demonstrated their domain expertise and brought to the table a 
+robust solution that is best-in-breed  and compliant to the laws and regulatory standards.”  
+ 
+Bikram Singh Bedi, Vice President and Country MD at Google Cloud India added, “The Indian 
+mutual fund industry has experienced remarkable growth and transformation over the past decade, 
+emerging as a p referred investment avenue for both retail and institutional investors. Our collaboration 
+with CAMS is enabling them to digitally transform and re -architect their mutual fund processing and 
+record -keeping platform , thereby ensuring easy and safe transactio ns for their investors across the 
+country. We are delighted to be their partner of choice in this journey.”  
+The platform will be designed and developed over a five -year period with specific modules going live 
+in phases. The incremental investments in this  transformation project will be met by CAMS from 
+internal accruals and is not expected to impact margins materially during the implementation phase.  
+ 
+ 
+
+ 
+ 
+About CAMS Limited (www.camsonline.com) BSE: 543232; NSE: CAMS  
+CAMS is a financial infrastructure and servi ce partner to the asset management industry and provides 
+platform -based services to the BFSI segment. The Company is India's largest registrar and transfer agent 
+of mutual funds with an aggregate market share of ~68% based on mutual fund average assets und er 
+management (“AAUM”). The Company has grown its market share from approximately 61% in March 
+2015 to ~68 %, based on AAUM services. Its mutual fund clients include ten of the fifteen largest 
+mutual funds. The Company is the market -leading platform and se rvice partner to alternative investment 
+funds and portfolio managers serving over 420 mandates of 180 funds with full -stack digital and fund 
+administration services. CAMSPay specializes in providing secure, seamless and innovative payment 
+solutions for Mut ual funds, BFSI sector and Ed Techs. Services to insurance companies and eInsurance 
+services are provided via the subsidiary CAMSRep. The company has also forayed into new areas like 
+Account Aggregator and Central Record -Keeping Agency (“CRA”) services for  the National Pension 
+Scheme. CAMS acquired a majority stake in Think360.ai, a full -stack Data Science and AI -focused 
+firm and in Fintuple Technologies, a digital transformation partner for capital market entities.  
+About Google Cloud  
+Google Cloud is the ne w way to the cloud, providing AI, infrastructure, developer, data, 
+security, and collaboration tools built for today and tomorrow. Google Cloud offers a powerful, 
+fully integrated and optimized AI stack with its own planet -scale infrastructure, custom -built 
+chips, generative AI models and development platform, as well as AI -powered applications, to 
+help organizations transform. Customers in more than 200 countries and territories turn to 
+Google Cloud as their trusted technology partner.  
+ 
+For media queries, please contact:  
+Google Cloud PR  
+Sneha Iyer | snehaiyer@google.com   
+Six Degrees BCW for Google Cloud  
+Shrinidhi Rao | +91 9871909335 | shrinidhi.rao@sixdegrees -bcw.com    
+Vasvi Satija | +91 8377075791 | vasvi.satija@sixdegrees -bcw.com  
+ 
+ 
+ 

@@ -1,0 +1,117 @@
+ 
+ 
+Classification: Confidential  August 20, 2025 
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block,  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400 051        
+ 
+Symbol: LALPATHLAB         BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400 001  
+ 
+Scrip Code: 539524  
+ 
+Sub: Press Release  
+ 
+Ref:  Compliances under SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015 (“Listing Regulations”)  
+ Dear Sir/  Madam,  
+ 
+Pursuant to Regulation 30 of the Listing Regulations, please find enclosed herewith the 
+Press Release titled “Dr. Lal PathLabs Pioneers AI Integration in Cancer Diagnosis in India ”. 
+ We request you to please take the same on record.  
+ 
+Thanking You,  
+Yours Faithfully,  
+ For Dr. Lal PathLabs Limited  
+  
+Vinay Gujral  
+Company Secretary & Compliance Officer  
+ 
+Encl: As above  
+ 
+ 
+Regd. Office: Dr. Lal PathLabs Lta., Block E, Sector-IS, Rohini, New Delhi-110085, +91-11-30258600, Fax: +91-11-2788-2134 
+Corporate Office: Dr. Lal PathLabs Ltd., 12th Floor, Tower B, SAS Tower, Medicity, Sectm-38, Gurugram -122 00 I, Haryana +91-124-3016-500, Fax: +91-124-4234-468 
+E-mail: lalpathlabs@lalpathlabs.com, Web: www.lalpathlabs.com, CIN No.: L74899DL I 995PLC065388 
+ 
+ 
+Classification: Confidential  PRESS RELEASE  
+Dr. Lal PathLabs Pioneers AI Integration in Cancer Diagnosis in India  
+New Delhi,  August 20, 2025  – In a pioneering move set to transform cancer diagnostics in India, Dr. 
+Lal PathLabs (DLPL)  has become the first laboratory in the country  to adopt a deep learning -based AI 
+module to detect lymph node metastasis , including micrometastasis, in cancer cases. This cutting -
+edge technology, validated  in collaboration with Qritive , was showcased at USCAP 2025  one of the 
+world’s leading pathology conferences.  
+Accurate identification of cancer spread to lymph nodes is vital in determining the stage and treatment 
+path for patients . If the spread of cancer to the lymph nodes is left unde tected, it can allow the disease 
+to progress to later stages, increasing the risk of metastasis to distant organs and significantly reducing 
+survival rates.  Therefore, the identification of occult metastases in patients with early -stage cancer 
+could have a  substantial clinical impact on treatment planning and optimal therapy for patients with 
+cancer.  
+Detecting micrometastases —tiny clusters of cancer cells in lymph nodes —usually takes a lot of time 
+and special tests. The AI tool QiAI Lymph Node Dx  changes that by using deep learning to quickly and 
+accurately spot cancer cells on digital slides. Adding this technology to regular medical practice makes 
+diagnosing cancer faster and more reliable.  
+Key Highlights:  
+• 100% Sensitivity & Negative Predictive Value: The AI model detected all metastatic cases 
+with no false negatives, making it a powerful screening tool.  
+• Enhanced Accuracy: Even single cancer cell metastasis was detected and later confirmed using 
+immunohistochemistry.  
+• Tumour Agnostic: The AI modul e has been validated across multiple cancer types, including 
+breast cancer (which accounts for approximately 28.2%1 of cancer cases among women in 
+India) —demonstrating its versatility and broad clinical applicability.  
+• Clinical Benefit:  This leads to earlier, more accurate diagnoses —improving treatment 
+decisions for patients . 
+ “At Dr. Lal PathLabs, we are proud to lead the way in bringing AI -powered diagnostics to India,”  said 
+Mr. Shankha Banerjee, CEO, Dr. Lal PathLabs . “This advanced technology allow s us to identify cancer 
+spread with exceptional precision and speed —  particularly micrometastasis that may be missed by 
+the human eye. By integrating AI into our pathology workflow, we are not only enhancing diagnostic 
+accuracy but also enabling quicker clinical decisions, which can significantly improve treatment outcomes and quality of life for patients.”  
+The AI system was tested on digital slides from breast, colon, stomach, and esophageal cancer cases. 
+It accurately detected single- cell and micrometast ases that had been missed during manual reviews. 
+These results were later validated through immunohistochemistry (IHC), confirming the system’s 
+reliability.  
+“The role of a pathologist is evolving rapidly, and we must evolve with it. Introducing AI into our  
+diagnostic workflow is not just about adopting technology —  it’s about reimagining how we detect 
+and respond to disease ,” said Dr . Vandana Lal , Executive Director, Dr Lal PathLabs . “This 
+                                                           
+1 https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.35188   
+ 
+ 
+Classification: Confidential  advancement strengthens our ability to identify even the most elusive signs of cancer, like 
+micrometastasis, with greater speed and certainty. It’s a significant leap forward in how we serve our clinicians and patients, and a proud moment in our commitment  to driving precision diagnostics in 
+India.  
+Commenting on the development, Mr. Bruno Occhipinti, CEO, Qritive Pte. Ltd.  said:  “We previously 
+got the opportunity to collaborate with the team at Dr Lal PathLabs on a study, which resulted in the abstract pres ented at USCAP’25 in Boston. Following extensive testing and workflow validation, we 
+are now excited to go live and enable the transformative impact of our AI -powered solution on critical 
+diagnoses. This has the potential to unlock massive efficiency and accuracy gains in large volume settings, further enhancing Lal PathLabs’ excellence in its operations."  
+As cancer cases continue to rise, the integration of AI -powered diagnostic tools like QiAI Lymph Node 
+Dx is expected to play a key role in transforming t he accuracy and efficiency of cancer care in India.  
+*** 
+About Dr. Lal PathLabs Limited:  
+Dr. Lal PathLabs is a provider of diagnostic and related healthcare tests and services in India. Through its integrated, nationwide network, the Company offers patients  and healthcare providers a broad 
+range of diagnostic and related healthcare tests and services for use in core testing, patient diagnosis 
+and the prevention, monitoring and treatment of disease and other health conditions. As on March 
+31, 2025 the Company  has 298 clinical laboratories (including National Reference Lab at Delhi, 
+Regional Reference Lab at Kolkata, Bangalore & Mumbai), 6607 Patient Service Centers (PSCs) and 
+12,365 Pick -up Points (PUPs). Its’ customers include individual patients, hospitals a nd other healthcare 
+providers and corporate customers.  
+About Qritive: 
+Headquartered in Singapore, Qritive is a breakthrough Artificial Intelligence (AI) solution developer 
+that is advancing digital pathology for cancer diagnosis and improving health outcom es. Qritive 
+leverages deep learning technology to support the interpretation of pathology biopsies for time and 
+resource -strapped pathologists, enabling faster diagnosis and reducing time to treatment for patients. 
+Qritive is dedicated to empowering health care professionals across the globe with AI -powered 
+solutions to operate collaboratively at the peak of their performance despite complexity and distance.  
+For more information, please connect with:  
+Chehak Mishra  
+Adfactors PR  +91 8505824666 
+Chehak.mishra@adfactorspr.com   
+ 
+ 

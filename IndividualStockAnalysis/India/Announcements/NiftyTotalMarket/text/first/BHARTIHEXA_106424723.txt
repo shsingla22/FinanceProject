@@ -1,0 +1,332 @@
+November 03, 2025 
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G 
+Sandra Kurla Complex, Sandra (E) 
+Mumbai -400051, India 
+Symbol: BHARTIHEXA 
+BSE Limited 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Mumbai -400001, India 
+Scrip Code: 544162 
+Sub: Financial results for the second quarter (Q2) and six months ended September 30, 
+2025 
+Dear Sir/ Madam, 
+In compliance with Regulations 30 and 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 ('SEBI Listing Regulations'), we are enclosing herewith the 
+following for the second quarter (Q2) and six months ended September 30, 2025: 
+►Audited standalone financial results as per Ind AS
+►Auditor's reports on the aforesaid financial results
+The above financial results have been  reviewed by the Audit Committee in its meeting held  on 
+Monday, November 03, 2025, and based on its recommendation, approved by the Board of 
+Direct ors in its meeting being held on Mond ay, November 03, 2025. 
+The Board meeting commenced on Friday, October 31, 2025 at 1ST 1600 Hrs. and concluded 
+on Monday, November 03, 2025  at 1ST 1545 Hrs. 
+Kindly take the same on record. 
+Thanking you, 
+Sincerely yours, 
+For Bharti Hexacom Limit 
+Amit Chaturvedi 0: 4 1, 
+� �" 
+,, 
+Company Secretary & Compliance Officer 
+Bharti Hexacom Limited 
+Regd. Office Airtel Center, Plot No. 16. Udyog Vihar, Prase-lV, Gurugram -122015 India 
+Corporate Office; Bharti Crescent, 1 Nelson Mandela Road. Vasant Kunj. Phase II New Delhi-110 Q,Q India 
+Tel: 91-124-4222222 : Fax: +91-124-4248 063 
+E-mail: bhartihexacom@bharti.in Website : W'NW bha ;1hexacom in
+CIN: L74899HR199 1i0LC132187 
+Bharti Hexacom Limited 
+CIN: L74899HR 1995PLC132187 
+Registered Office: Airtel Center, Plot no. 16, Udyog Vihar, Phase -IV, Gurugram -122015, India 
+T: +91-124-4222222 , F: +91-124-4248063 , Email id: bhartihexacom@bharti .in 
+Statement of Audited Financial Results for the quarter and six months ended September 30, 2025 
+(Rs. in Millions; except per share data] 
+Quarter ended Six months ended Previous year 
+ended 
+Particulars September June September September September March 
+30, 2025 30, 2025 30, 2024 30, 2025 30, 2024 31, 2025 
+Audited Audited Audited Audited Audited Audited 
+Income 
+Revenue from operations 23,173 22,630 20,976 45,803 40,082 85,479 
+Other income 612 475 491 1,087 890 1,818 
+23,785 23,105 21,467 46,890 40,972 87,297 
+Expenses 
+Network operating expenses 5,303 5,219 4,764 10,522 9,438 19,047 
+Access charges 1,675 1,630 2,238 3,305 4,447 9,219 
+License fee / Spectrum charges 2,138 2,114 1,923 4,252 3,657 7,824 
+Employee benefits expense 320 210 322 530 619 1,342 
+Sales and marketing expenses 963 1,007 1,142 1,970 2,178 4,073 
+Other expenses 693 843 568 1,536 966 2,002 
+11,092 11,023 10,957 22,115 21,305 43,507 
+Profit before depreciation , amortisation, finance costs, exceptional 12,693 12,082 10,510 24,775 19,667 43,790 
+items and tax 
+Depreciation and amortisation expenses 5,543 5,273 5,361 10,816 10,318 20,945 
+Finance costs 1,509 1,541 1,754 3,050 3,369 6,883 
+Profit before exceptiona l items and tax 5,641 5,268 3,395 10,909 5,980 15,962 
+Exceptional items (net) (3,183) (2,126) 
+Profit before tax 5,641 5,268 3,395 10,909 9,163 18,088 
+Tax expense / ( credit) 
+Current tax 1,762 1,657 1,384 3,419 2,440 5,013 
+Deferred tax (333) (305) (520) (638] (920) (1,861} 
+1,429 1,352 864 2,781 1,520 3,152 
+Profit for the period / year 4,212 3,916 2,531 8,128 7,643 14,936 
+Other comprehensive income 
+Items not to be reclassified to profit or loss: 
+-Re-measurement (gain)/ loss on defined benefit plans (0) (4) 1 (4) (4) (3) 
+-Tax credit 0 1 0 1 1 1 
+Other comprehensive (loss)/ income for the period/ year (0) (3) 1 (3) (3) (2) 
+Total comprehensive income for the period / year 4,212 3,913 2,532 8,125 7,640 14,934 
+Earnings per share 
+(Face value: Rs. 5 each) 
+Basic and diluted earnings per share* 8.42 7.83 5.06 16.25 15.29 29.87 
+Paid-up equity share capital (Face value: Rs. 5 each) 2,500 2,500 2,500 2,500 2,500 2,500 
+Other equity 59,946 60,734 49,527 59,946 49,527 56,821 
+*Earnings per share are not annualised for the periods. 
+Audited Balance Sheet as of September 30, 2025 
+(Rs. in Millions) 
+Asof 
+Particulars September 30, 2025 March 31, 2025 
+Audited Audited 
+Assets 
+Non-current assets 
+Property, plant and equipment 54,001 54,165 
+Capital work-in-progress 2,620 2,973 
+Right-of-use assets 29,321 30,643 
+Intangible assets 60,219 62,521 
+Intangible assets under development -
+Financial assets 
+-Investments 0 0 
+-Other financial assets 4,552 4,576 
+Income tax assets (net) 4,291 4,242 
+Deferred tax assets (nel::) 10,859 10,220 
+Other non-current assets 3,831 3,987 
+169,694 173,327 
+Current assets 
+Financial assets 
+-Investments 2,869 739 
+-Derivative instruments 58 6 
+-Trade receivables 958 1,083 
+-Cash and cash equivalents 212 171 
+-Other bank balances 269 199 
+-Other financial assets 11,522 11,065 
+Other current assets 4,157 5,920 
+20,045 19,183 
+Total assets 189,739 192,510 
+Equity and liabilities 
+Equity 
+Equity share capital 2,500 2,500 
+Other equity 59,946 56,821 
+62,446 59,321 
+Non-current liabilities 
+Financial liabilities 
+-Borrowings 26,181 26,522 
+-Lease liabilities 29,634 30,690 
+-Other financial liabilities 136 1n 
+Deferred revenue 6,547 7,129 
+Provisions 257 263 
+62,755 64,776 
+Current liabilities 
+Financial liabilities 
+-Borrowings 5,083 11,277 
+-Derivative instruments 0 15 
+-Lease liabilities 5,172 5,039 
+-Trade payables 
+-Total outstanding dues of micro enterprises 
+and small enterprises 35 46 
+-Total outstanding dues of creditors other 
+than micro enterprises and small enterprises 19,909 15,814 
+-Other financial liabilities 7,197 8,015 
+Deferred revenue 7,038 6,968 
+Provisions 14,423 13,871 
+Current tax liabilities (net) 4,608 4,611 
+Other current liabilities 1,073 2,757 
+64,538 68,413 
+Total liabilities 127,293 133,189 
+Total equity and liabilities 189,739 192,510 
+Audited Segment-wise Revenue, Results, Assets and Liabilities as of and for the quarter and six months ended 
+September 30, 2025 
+Quarter ended / As of 
+Particulars September June 30, 
+30,2025 2025 
+Audited Audited 
+1. Segment Revenue 
+-Mobile Services 22,385 21,916 
+-Homes, Office and Other Services 880 784 
+Total segment revenue 23,265 22,700 
+Less: Inter-segment eliminations 92 70 
+Total revenue 23,173 22,630 
+2. Segment Results 
+Profit before finance costs (net), charity and donation, 
+exceptional items (net) and tax 
+-Mobile Services 7,006 6,885 
+-Homes, Office and Other Services 14 14 
+Total segment results 7,020 6,899 
+Less: 
+(i) Finance costs (net)* 1,379 1,506 
+(ii) Charity and donation 0 125 
+(iii) Exceptional items (net) 
+Profit before tax 5,641 5,268 
+3. Segment Assets 
+-Mobile Services 173,191 172,542 
+-Homes, Office and Other Services 12,316 10,244 
+Total segment assets 185,507 182,786 
+-Unallocated 9,787 10,220 
+-Inter-seqment eliminations (5,555' (4,815' 
+Total assets 189,739 188,191 
+4. Segment Liabilities 
+-Mobile Services 93,247 92,005 
+-Homes, Office and Other Services 9,152 8,071 
+Total segment liabilities 102,399 100,076 
+-Unallocated/\ 30,449 29,696 
+-Inter-seciment eliminations (5,555' (4,815) 
+Total liabilities 127,293 124,957 
+*net of interest income and net gain on fair value through profit and loss. 
+"mainly includes borrowings (including deferred payment liabilities). September 
+30, 2024 
+Audited 
+20,433 
+599 
+21,032 
+56 
+20,976 
+5,044 
+59 
+5,103 
+1,708 
+-
+-
+3,395 
+179,395 
+7,520 
+186,915 
+10,071 
+(3,668) 
+193,318 
+89,897 
+3,375 
+93,272 
+51,687 
+(3,668) 
+141,291 (Rs. in Millions) 
+Six months ended / As of Previous year 
+ended/ As of 
+September September 30, March 
+30,2025 2024 31, 2025 
+Audited Audited Audited 
+44,301 39,037 83,217 
+1,664 1,167 2,521 
+45,965 40,204 85,738 
+162 122 259 
+45,803 40,082 85,479 
+13,891 9,147 22,620 
+28 116 156 
+13,919 9,263 22,776 
+2,885 3,283 6,690 
+125 124 
+- (3,183) (2,126) 
+10,909 9,163 18,088 
+173,191 179,395 177,809 
+12,316 7,520 9,235 
+185,507 186,915 187,044 
+9,787 10,071 9,887 
+(5,555) (3,668) (4,421) 
+189,739 193,318 192,510 
+93,247 89,897 92,795 
+9,152 3,375 6,970 
+102,399 93,272 99,765 
+30,449 51,687 37,845 
+(5,555) (3,668) (4,421) 
+127,293 141,291 133,189 
+Audited Statement of Cash Flows for the six months ended September 30, 2025 
+(Rs. in Millions) 
+Six months ended 
+Particulars September 30, 2025 September 30, 2024 
+Audited Audited 
+Cash flows from operating activities 
+Profit before tax 10,909 9,163 
+Adjustments for: 
+Depreciation and amortisation e,xpenses 10,816 10,318 
+Finance costs 3,043 3,370 
+Exceptional items (net) (3,183) 
+Interest income (16) (37) 
+Net gain on derivative financial instruments {86) -
+Net gain on fair value through profit and loss instruments (62) (49) 
+Provision for doubtful debt / bad debts written off 136 129 
+Loss on sale of property, plant and equipment 61 -
+Other non -cash items (net) (28) 15 
+Operating cash flow before changes in assets and liabilities 24,773 19,726 
+Changes in assets and liabilities 
+Trade receivables 43 1,205 
+Trade payables 4,037 2,307 
+Provisions 368 370 
+Other financial and non-financial liabilities (2,285) 433 
+Other financial and non-financial assets 1,248 1,986 
+Net cash generated from operations before tax 28,184 26,027 
+Income tax paid -(net) (3,472) (2,547) 
+Net cash generated from operating activities (a) 24,712 23,480 
+Cash flows from investing activities 
+Purchase of property, plant and equipment and capital work-in-progress (6,685) (8,612) 
+Proceeds from sale of property, plant and equipment 65 97 
+Purchase of intangible assets (151) (104) 
+(Purchase)/ Proceeds from sale of current investments (net) (2,068) 1,755 
+Payment towards Spectrum (including deferred payment liability)* (405) {1,362) 
+Interest received 18 22 
+Net cash used in investing activities {b) (9,226) (8,204) 
+Cash flows from financing activities 
+Repayment of tong term borrowings - (20,000) 
+(Repayment of)/ Proceeds from short-term borrowings (net) (6,293) 11,554 
+Interest and other finance charges paid;, (2,272) (3,389) 
+Payment of lease liabilities (1,880) (1,505) 
+Dividend paid (5,000) (2,000) 
+Net cash used in financing activities ( c) (15,445) (15,340) 
+Net increase/ (decrease) in cash and cash equivalents during the 41 (64) 
+period (a+b+c) 
+Add : Cash and cash equivalents as at the beginning of the period 171 398 
+Cash and cash equivalents as at the end of the period 212 334 
+*Cash flows towards spectrum acquisitions to Department of Telecommunications includes upfront/ deferred payments . 
+#includes interest towards payment of deferred liabilities pertaining to spectrum acquired in auction of year 2022. 
+For the purpose of Audited Statement of Cash Flows, cash and cash equivalents comprise of following: 
+(Rs. in Millions) 
+Asof 
+Particulars Seotember 30, 2025 September 30, 2024 
+Audited Audited 
+Cash and cash equivalents as per Audited Balance Sheet 212 334 
+Less : Bank overdraft - -
+Cash and cash equivalents as per Audited Statement of Cash Flows 212 334 
+Notes to the Audited Financia l Results 
+1. The Audited Financial Results for the quarter and six months ended September 30, 2025 have been reviewed by the Audit 
+Committee and approved by the Board of Directors at their respective meetings held on November 3, 2025. 
+2. These Audited Financial Results are compiled from the Audited Interim Condensed Financial Statements for the quarter and 
+six months ended September 30, 2025, Audited Interim Condensed Financial Statements for the quarter ended June 30, 
+2025 and Audited Financial Statements for the year ended March 31, 2025. The Audited Interim Condensed Financial 
+Statements for the quarter and six months ended September 30, 2025 have been prepared in accordance with Indian 
+Accounting Standard ('Ind AS') 34, 'Interim Financial Reporting ' as prescribed under Section 133 of the Companies Act, 
+2013 read together with Rule 3 of the Companies (Indian Accounting Standards) Rules, 2015 (as amended from time to 
+time) and other accounting principles generally accepted in India. 
+3. During the quarter ended September 30, 2025, the Company has issued commercial papers ('CP's), which are listed on 
+National Stock Exchange of India Limited, aggregating to Rs. 2,500 million of which CP's outstanding carrying value as on 
+September 30, 2025 is Rs. 2,494 million, net of discounts . 
+4. The disclosure required as per the provisions of Regulation 52(4) of SEBI (Listing Obligations and Disclosure Requirements ) 
+Regulations , 2015 is given below: 
+Quarter ended Six months ended Previous Year 
+ended 
+September June September September September March 
+S.No. Particulars * 30, 2025 30, 2025 30, 2024 30, 2025 30, 2.024 31, 2025 
+Audited Audited Audited Audited Audited Audited 
+(i) Debt -equity ratio -[ no. of times] 0.50 0,46 0.93 0.50 0.93 0.63 
+(ii) Net worth -[Rs. in millions] 61,573 62,361 51,154 61,573 51,154 58,448 
+(iii) Current ratio -[ no. of times] 0.31 0.29 0.30 0.31 0.30 0.28 
+(iv) Long term debt to working capital -[ no. of times t (0.59) (0.61) (0,78) {0.59) {0.78) (0.54) 
+(v) Current liability ratio -[ no. of times] 0.51 0.49 0.47 0.51 0.47 0.51 
+(vi) Total debts to total assets -[ no. of times] 0.35 0.34 0.44 0.35 0.44 0.38 
+(vii) Debtors turnover -[no. of days] 4 4 13 4 17 12 
+(viii) Debt service coverage ratio ('DSCR') -[ no. of times] 4.82 5.39 2.86 5.08 0.76 1.42 
+(ix) Interest service coverage ratio ('ISCR') -[ no. of times] 10.03 9.10 6.72 9.55 6.53 7.25 
+(x) Bad debts to Account receivable ratio(%) 0.2% 0.1% 0.4% 0.2% 0.5% 2.1% 
+(xi) Operating margin(%) 28.2% 28% 22.2% 28.1% 21.1% 24.6% 
+(xii) Net profit margin(%) 18.2% 17.3% 12.1% 17.7% 19.1% 17.5% 
+(xiii) Debenture redemption reserve -[Rs. in millions] N.A. N.A. N.A. N.A. N.A. N.A. 
+(xiv) Capital redemption reserve -[Rs. in millions] N.A. N.A. N.A. N.A. N.A. N.A. 
+(xv) Outstanding redeemable preference shares N.A. N.A. N.A. N.A. N.A. N.A. 
+* As the principal activities of the Company are in the nature of services, hence inventory turnover ratio is not relevant. 
+#networking capital is negative 

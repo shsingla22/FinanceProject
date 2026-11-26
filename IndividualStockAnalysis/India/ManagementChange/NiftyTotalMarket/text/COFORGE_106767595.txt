@@ -1,0 +1,862 @@
+September 03, 2026
+The Manager,
+Department of Corporate Services
+BSE Limited
+Floor 25, P.J. Towers,
+Dalal Street, Mumbai – 400 001
+BSE Scrip code – 532541
+Equity ISIN INE591G01025
+
+The General Manager,
+Department of Corporate Services
+The National Stock Exchange of India Limited
+Exchange Plaza,
+Plot No. C/1, G Block, Bandra Kurla Complex,
+Bandra, Mumbai – 400 051
+NSE Symbol – COFORGE
+
+Dear Sir/Madam,
+Subject: Sustainability Report for FY 2025-26
+Please find enclosed herewith the Company’s Sustainability Report for the financial year 2025-26.
+Thanking you,
+Yours faithfully,
+For Coforge Limited
+signed by
+BARKHA Digitally
+BARKHA SHARMA
+Date: 2026.09.03
+SHARMA 10:46:58 +05'30'
+
+Barkha Sharma
+Company Secretary & Compliance Officer
+Encl.: As above
+
+Coforge Limited
+
+Special Economic Zone, Plot No. TZ-2& 2A
+Sector - Tech Zone, Greater Noida (UP) - 201308, India
+T: +91 120 4592300 | F: +91 120 4592 301
+
+Registered office:
+
+Plot No. 13, Udyog Vihar, Phase-IV, Sector-18,
+Palam Road, Gurugram - 122015, Haryana, India
+T: 0124-4627837
+
+www.coforge.com
+
+Secretarial@coforge.com
+CIN: L72100HR1992PLC128382
+
+
+
+Contents
+About This Report
+
+3
+
+Introduction to the theme
+
+4
+
+Message From Leadership
+
+6
+
+Coforge at a Glance
+
+11
+
+Business overview
+
+12
+
+Key financials
+
+13
+
+Business segments
+
+13
+
+Partnerships
+
+14
+
+Energy management and efficiency
+initiatives
+
+58
+
+Governance
+
+116
+
+Responsible data centre management
+
+60
+
+Corporate governance - Board
+composition
+
+117
+
+Net-zero roadmap
+
+61
+
+Ethics and integrity
+
+123
+
+Internal carbon pricing
+
+62
+
+Tax strategy
+
+126
+
+Climate risk assessment
+
+63
+
+Data privacy and information security
+
+127
+
+Water stewardship
+
+69
+
+Responsible AI and digital ethics
+
+129
+
+Waste and circularity
+
+71
+
+Biodiversity
+
+134
+
+74
+
+Sustainable Procurement
+and Supply Chain
+Sustainable procurement strategy
+
+135
+
+Supplier Code of Conduct
+
+135
+
+Sustainable procurement policy
+
+137
+
+Value creation model
+
+16
+
+Progress against commitments
+
+17
+
+Sustainable revenues and responsible
+digital solutions
+
+75
+
+Awards & recognitions
+
+19
+
+Environmental training
+
+76
+
+ESG Strategy & Governance
+
+21
+
+77
+
+Coforge ESG strategy
+
+Supplier assessments and audits
+
+138
+
+22
+
+Environmental compliance and
+certifications
+
+Strategic pillars: Environment,
+Social and Governance
+
+Social
+
+78
+
+Responsible sourcing framework
+
+140
+
+24
+
+Human capital management
+
+79
+
+Supplier training and engagement
+
+142
+
+ESG roadmap
+
+26
+
+84
+
+ESG governance structure
+
+Supplier feedback and grievance
+mechanism
+
+143
+
+27
+
+Talent hiring, retention, and workforce
+planning
+
+Stakeholder engagement
+
+32
+
+Health, safety and wellbeing
+
+88
+
+Independent Assurance Statement
+
+144
+
+Double materiality assessment
+
+35
+
+Occupational health and safety
+
+91
+
+GRI Index
+
+153
+
+Enterprise risk management and ESG
+risk integration
+
+47
+
+Diversity, equity, inclusion &
+belongingness
+
+93
+
+Research and development
+
+53
+
+Learning & development
+
+95
+
+Environment
+
+54
+
+Performance review and career
+progression
+
+100
+
+Climate strategy
+
+55
+
+Customer relationships and trust
+
+101
+
+Emissions management
+
+55
+
+Air emissions
+
+57
+
+Serving communities, building
+institutions
+
+106
+
+
+About this
+Report
+Scope, Standards, and Approach
+
+
+About this report
+Transparency, accountability, and responsible growth are fundamental to how we create long-term value
+for our stakeholders. This Sustainability Report reflects our commitment to open, and meaningful disclosure
+of our environmental, social, and governance (ESG) performance, enabling stakeholders to understand how
+sustainability is embedded within our business strategy and operations.
+This report provides an overview of Coforge’s sustainability priorities, initiatives, performance highlights, and
+governance mechanisms for the reporting period. It has been developed to support informed stakeholder
+engagement while reinforcing our focus on continuous improvement and responsible business conduct.
+
+Introduction to the theme ccelerating gro th, scaling purpose
+The theme of this report, “Accelerating Growth, Scaling Purpose,” reflects Coforge’s belief that sustainable
+value creation is achieved when business growth and purpose advance together.
+As Coforge continues to scale its operations, expand its service and geographic footprint, and deepen client
+partnerships, we remain focused on ensuring that growth is underpinned by responsible practices, ethical
+decision-making, and positive social and environmental impact. This theme highlights our intent to embed
+sustainability more deeply into business strategy, operational excellence, human capital management, and
+stakeholder engagement, while strengthening governance and risk management frameworks to support
+long-term resilience.
+
+Reporting boundary, period
+and rame or s
+This Sustainability Report covers Coforge Limited and its
+subsidiaries, collectively referred to as “Coforge,” unless stated
+otherwise.
+• Reporting period: 1 April 2025 to 31 March 2026
+(FY2025–26/FY26)
+• Reporting boundary: The reporting boundary aligns with
+the Company’s operational and financial boundaries.
+- Qualitative disclosures in this report cover the
+Company’s India and global operations.
+- Quantitative performance covers India operations.
+• Reporting frameworks: The report has been prepared with
+reference to globally recognised sustainability reporting
+principles and practices, including:
+- Global Reporting Initiative (GRI) Standards (as
+applicable)
+- Task Force on Climate-Related Financial Disclosures
+(TCFD)
+- International Financial Reporting Standards (IFRS) S1
+and S2
+- Securities and Exchange Board of India’s (SEBI) Business
+Responsibility and Sustainability Reporting (BRSR)
+- Sustainability Accounting Standards Board (SASB)
+- United Nations Sustainable Development Goals (UNSDG)
+- United Nations Global Compact (UNGC)
+External communications and reporting
+Coforge publicly discloses its environmental performance,
+strategy, and progress through multiple reporting
+channels, including:
+• Business Responsibility and Sustainability Report (BRSR)
+disclosures in line with regulatory requirements in India
+(integrated with the Annual Report)
+
+4 | Coforge Limited
+
+Sustainability Report 2025-26
+
+
+Assurance approach
+To enhance the credibility and reliability of the
+information disclosed, Coforge follows established
+internal controls, review mechanisms, and data
+validation processes across functions. Sustainability
+data is collated from relevant business units and
+reviewed at multiple levels of management prior
+to publication.
+Selective key disclosures may be subject to independent
+assurance or verification, in line with regulatory
+requirements and stakeholder expectations. Third-party
+assurance provider, Bureau Veritas (India) Pvt. Ltd.,
+provided limited assurance of selected GRI indicators to
+enhance the credibility of our disclosures. Independent
+assurance ensures that our sustainability data meets
+established standards for reliability and transparency.
+The assurance statement is available from page number
+144 onward.
+
+For ard loo ing statements
+This Sustainability Report may contain forwardlooking statements, including statements related to
+Coforge’s sustainability ambitions, targets, strategies,
+and future initiatives. These statements are based on
+management’s current expectations, assumptions, and
+information available at the time of reporting.
+Actual results may differ materially due to various risks,
+uncertainties, regulatory changes, and external factors
+beyond the Company’s control. Coforge undertakes no
+obligation to update these forward-looking statements
+to reflect events or circumstances occurring after the
+date of this report.
+
+5 | Coforge Limited
+
+Sustainability Report 2025-26
+
+
+Message from
+Leadership
+Leading with Purpose
+
+
+Dear Stakeholders,
+The technology services industry is undergoing one of the most
+profound transformations in decades. Artificial intelligence
+is reshaping how enterprises operate and deliver value, while
+elevating the importance of trust, transparency, security,
+and ethical deployment. As clients seek innovation at pace,
+sustainability has emerged as a defining lever for long-term
+growth. In this environment, enduring success will belong to
+organisations that balance innovation with discipline, agility with
+trust, and growth with responsibility.
+
+This philosophy is reflected in our performance. Our repeat
+business rate stands at 95.5%, and we have achieved 40.4%
+growth with our top ten clients, demonstrating deep client
+confidence, particularly in complex and highly regulated
+environments where execution excellence and trust are critical.
+
+At Coforge, we view growth through a broader lens, measured
+not only in financial outcomes, but in the success of our people,
+the progress of our clients, and the wellbeing of the communities
+we serve.
+
+Our flagship community initiative, the Coforge Public Library,
+exemplifies what it means to scale purpose with intent. Over
+the past two and a half years, we have established four libraries,
+with a commitment to open 30 more over the next four years,
+expanding access to knowledge and helping democratize
+education across Delhi NCR.
+
+Sudhir Singh
+
+We believe sustained growth is not accidental, it is engineered.
+
+Chief Executive Officer
+& Executive Director
+
+We believe growth and responsibility are not parallel pursuits, but
+a shared journey.
+And we believe that accelerating growth while scaling purpose
+is essential to creating lasting value for business, society, and
+the planet.
+
+7 | Coforge Limited
+
+We are also making steady progress towards our environmental
+commitments, advancing our journey to become Carbon Neutral,
+Water Positive, and Zero Waste to Landfill by 2040.
+
+As the pace of change accelerates, our purpose remains our
+north star. We will continue to invest in our people, deepen
+client trust, advance innovation responsibly, and strengthen our
+commitment to sustainability, while creating enduring value for
+every stakeholder.
+Thank you for your continued trust and partnership as we build
+the future, together.
+
+Sustainability Report 2025-26
+
+
+Dear Stakeholders,
+In a dynamic and evolving business environment, our focus
+remains clear: delivering disciplined growth while strengthening
+long-term financial resilience. At Coforge, responsible growth is
+inseparable from financial stewardship, risk discipline, and capital
+allocation that supports sustainable value creation.
+Our FY26 performance reflects this philosophy. Revenue grew
+29.2% in US dollar terms, while EBITDA margins expanded by
+431 basis points to 18.6%. EBIT grew 73.7% in USD terms, and
+free cash flow grew 68.4% YoY to reach $135 million, the highest
+in our history. These outcomes are the result of consistent
+execution, enhanced productivity, operating leverage, and focused
+portfolio optimisation.
+
+Saurabh Goel
+Chief Financial Officer
+
+We exited the year with an EBIT margin of 16.6%, driven by
+structural improvements, including AI-led efficiencies, delivery
+rationalisation, and the exit of a low-margin India portfolio. This
+provides a strong foundation as we move into FY27, where we are
+guiding for consolidated EBITDA margins of 20.5% to 21%.
+As we accelerate growth, we are equally committed to
+scaling purpose through robust financial stewardship and
+forward-looking capital allocation. Over the past year, we have
+strengthened the integration of sustainability into our financial
+and risk management frameworks.
+
+8 | Coforge Limited
+
+Our climate risk assessment has enabled a deeper understanding
+of both physical risks, such as exposure of delivery locations to
+extreme weather, and transition risks, including evolving carbon
+regulations and shifting client expectations. These insights are
+now embedded into business continuity planning, insurance
+strategies, and infrastructure investments, ensuring that climate
+considerations are systematically reflected in financial decisionmaking.
+Our internal carbon pricing mechanism further reinforces this
+approach. By factoring emissions-related costs into investment
+decisions alongside traditional financial metrics, we are embedding
+sustainability into the core of our operational and capital
+allocation processes.
+Our balance sheet remains strong and resilient, providing the
+flexibility to invest in strategic priorities while continuing to
+deliver shareholder value. We will continue to allocate capital with
+discipline, embed sustainability into financial decision-making, and
+support growth that is both accelerated and responsible, creating
+enduring value for our business, our stakeholders, and the broader
+ecosystem we serve.
+
+Sustainability Report 2025-26
+
+
+Dear Stakeholders,
+At Coforge, responsible growth is increasingly visible in how
+we operate, deliver, and engage with clients. As we scale, we
+are strengthening our delivery ecosystem to ensure that
+execution excellence, resilience, and responsibility are built into
+every engagement.
+Sustainability is no longer an adjunct expectation, it is becoming
+central to how clients define outcomes. Increasingly, they seek
+partners who can enable responsible AI adoption, strengthen
+operational resilience, and support ESG-led transformation. In
+response, we are embedding these priorities into our delivery
+frameworks through scalable solutions, structured operating
+models, and deeper integration across our service lines.
+
+John Speight
+President & Executive Director
+
+9 | Coforge Limited
+
+On the environmental front, we are translating strategy into
+execution. Our climate approach integrates risk and resilience
+into delivery planning, supported by climate risk assessments and
+internal carbon pricing mechanisms. At the same time, we continue
+to reduce our operational footprint, our transition to 100% green
+energy at the Greater Noida campus has materially reduced Scope
+2 emissions, demonstrating how targeted operational decisions
+can drive measurable impact.
+
+Our people remain central to sustaining quality and consistency
+in delivery. We continue to invest in building future-ready
+capabilities, strengthening inclusion, and enabling meaningful
+career progression. Recognition as one of the ET Edge Best
+Organisations for Women reflects our commitment to building a
+more inclusive and equitable workplace.
+We are also investing in the long-term talent pipeline. Initiatives
+such as the Coforge Data & AI Lab at IIT (BHU) Varanasi, along with
+partnerships like DiversITy in the UK, are helping bridge the gap
+between education and industry, creating pathways for diverse
+talent to participate in the digital economy.
+This progress is underpinned by a strengthened governance
+framework, with closer alignment to the UN Global Compact,
+improved ESG ratings, and enhanced transparency in disclosures.
+As expectations evolve, we will continue to strengthen our
+delivery capabilities, embed sustainability into every engagement,
+and build solutions that are not only innovative and scalable,
+but also responsible, creating enduring value for our clients, our
+people, and the communities we serve.
+
+Sustainability Report 2025-26
+
+
+Dear Stakeholders,
+FY26 marked another year of steady progress in our sustainability
+journey, guided by disciplined execution, strengthened governance, and
+a deep sense of purpose. As the organisation’s sustainability function,
+our role is to convert ambition into measurable systems, credible
+disclosures, and accountable progress across environmental, social, and
+governance priorities.
+We continued to advance toward our long-term ambition of becoming
+Carbon Neutral, Water Positive, and Zero Waste to Landfill by 2040.
+While this is a multi-year transformation, we are encouraged by the
+momentum we have built and the systems we have put in place to
+deliver on these commitments.
+
+Anuradha Sehgal
+Chief Sustainability
+& Branding Officer
+
+Our sustainability approach remains firmly aligned with leading global
+frameworks, including GRI, TCFD, IFRS S1 & S2, ESRS, SBTi, the UN
+Sustainable Development Goals, ISO 20400, and SA8000. This ensures
+that our disclosures are robust, comparable, and decision-useful. A key
+milestone this year was the validation of our science-aligned climate
+targets by the Science-Based Targets initiative (SBTi).
+We also completed a Double Materiality Assessment, enabling us
+to evaluate both the impact of external sustainability factors on
+our financial performance and the impact of our operations on the
+environment and society. The outcomes of this exercise are now deeply
+embedded in our strategic priorities, investments, and stakeholder
+engagement approach.
+In line with IFRS S2, we strengthened our understanding of climaterelated risks by undertaking a comprehensive climate risk assessment,
+capturing both physical risks, such as extreme weather, and transition
+risks, including evolving carbon regulations and client expectations.
+
+10 | Coforge Limited
+
+These risks are increasingly being translated into financial terms to
+support better decision-making.
+To further embed sustainability into business decisions, we introduced
+an internal carbon pricing, linking climate considerations with capital
+allocation. In parallel, we enhanced our supplier assessment framework
+to extend environmental and social commitments across our value
+chain, with progress underway toward ISO 20400 and SA8000
+alignment in FY27.
+Beyond compliance and risk management, we continued to invest in
+initiatives that create meaningful societal impact. The Coforge Public
+Libraries initiative is helping democratize access to knowledge and build
+stronger, more inclusive communities across age groups and socioeconomic segments. In FY2025–26, we expanded our footprint with
+two new libraries and opened a fourth in June 2026, furthering our
+commitment to education-led social transformation.
+Our environmental efforts during the year focused on ecosystem
+restoration and community wellbeing, including wetland and pond
+rejuvenation, development of biodiversity parks and green belts, and
+enhancement of public spaces. These initiatives are complemented
+by animal welfare programmes, contributing to safer and
+healthier communities.
+As we look ahead, our focus remains on deepening integration,
+embedding sustainability into every business decision, strengthening
+transparency, and accelerating progress on our long-term goals. We
+recognise that the journey ahead requires collaboration, innovation, and
+sustained commitment, and we are confident in our ability to deliver.
+
+Sustainability Report 2025-26
+
+
+Coforge
+at a Glance
+Performance with Purpose
+
+
+Business overview
+We are a global AI-native engineering services leader, where AI is the
+very foundation of how we design, build, and deliver intelligent solutions
+for our clients. We use AI and hyperspecialised industry expertise to
+engineer autonomous enterprises. We combine AI agents with our
+AI-enabled workforce, including specialized FDEs in hybrid pod-based
+delivery units.
+With a deep focus on trusted AI, our solutions are secure, governed,
+and enterprise-grade. We are outcome-led by design. Moving beyond
+AI experimentation, we deliver measurable business outcomes - lower
+operating costs, faster cycle times, higher conversion rates, and
+sustained margin growth.
+Coforge has uniquely balanced global presence, with scaled AI-led
+engineering at the intersection of deep domain teams in Americas,
+UK & Europe, India, Asia Pacific, ANZ, and Middle East. This makes us
+official global innovation partners to some of the leading companies
+in the world.
+We cater to a focused set of industries, including Banking & Financial
+Services, Insurance, Travel and Tourism, Hospitality, Retail, Healthcare,
+and the Public Sector, providing end-to-end digital, technology,
+and business solutions to support enterprise modernization and
+operational excellence.
+With a global delivery model and a robust approach to ESG integration,
+Coforge continues to create long-term value for its customers,
+employees, investors, and the communities it serves, aligning financial
+performance with sustainable development outcomes.
+
+Operational footprint
+Coforge has a presence across 32 countries spanning the
+Americas, Africa, Asia Pacific, Europe, and the Middle East,
+supported by a network of 54 delivery centres that enable
+seamless service delivery to clients worldwide.
+12 | Coforge Limited
+
+Sustainability Report 2025-26
+
+
+e ﬁnancials
+
+Business segments
+
+Coforge continued its trajectory of consistent, purpose-led growth during FY2025–26,
+reflecting strong demand across its core verticals and expanded client engagements.
+
+Coforge offers digital services and solutions, and AI engineering across a focused
+portfolio of industry verticals which include:
+
+Banking and Financial Services
+Coforge provides digital, application, and operations solutions to banking and financial
+services organisations, enhancing customer experience, risk management, and
+platform modernisation.
+
+Key performance indicators, FY2025–26
+
+Revenue:
+
+164,207Mn
+ 35.9% YoY in INR terms
+
+EBITDA:
+
+30,464Mn
+
+$1,870Mn
+ 29.2% YoY in USD terms
+
+ 68.2% YoY in USD terms
+
+23,645Mn
+
+ 73.7% YoY in USD terms
+
+
+
+
+
+431bps YoY
+
+Profit After Tax (PAT):
+
+15,557Mn
+
+ 91.6% YoY in INR terms
+
+13 | Coforge Limited
+
+370bps YoY
+
+$177.4Mn
+
+The company supports leading insurers across property & casualty, life, and
+reinsurance with specialised platforms, intelligent automation, data modernisation,
+and claims transformation services.
+
+Public Sector
+
+$269.6Mn
+EBIT Margin:
+
+Hi-Tech
+
+Insurance
+
+ 82.7% YoY in INR terms
+
+EBITDA Margin:
+
+Coforge works with healthcare providers and related organisations to improve
+process efficiency, strengthen data interoperability, and enhance patient-centric
+capabilities through digital and cloud solutions.
+
+Coforge’s AI-first engineering, deep product expertise, and global delivery helps Hi-Tech
+enterprises accelerate innovation, scale platforms, and deliver measurable outcomes.
+
+EBIT:
+
+ 76.9% YoY in INR terms
+
+$347Mn
+
+Healthcare and Life Sciences
+
+The company serves public sector entities with secure, compliant, and scalable digital
+platforms to drive citizen-centric services and administrative modernisation.
+
+Retail, Consumer Packaged Goods, and Hospitality
+Through digital engineering and advanced analytics, Coforge enables retailers to
+modernise omnichannel systems, optimise supply chains, and deliver personalised
+customer experiences.
+
+(14.4%)
+
+ 82.1% YoY in USD terms
+
+Telecom, Media, Automotive, and Energy Solutions
+Coforge enables telecom, media, automotive, and energy organisations to modernise
+legacy infrastructure through AI-driven engineering and software-defined solutions,
+enhancing agility while ensuring reliability, quality, and safety.
+
+Travel
+Coforge offers solutions to airlines, travel distributors, hotels, and tourism platforms,
+focusing on inventory management, customer engagement, real-time operations, and
+passenger experience.
+Sustainability Report 2025-26
+
+
+Partnerships
+The company collaborates with leading global technology, cloud, and platform providers, investing in joint capabilities, certifications, and intellectual property to deliver high-impact,
+outcome-driven solutions.
+
+Key technology partnerships
+
+Collaboration approach
+
+Strategic value creation
+
+Coforge maintains strategic collaborations with a
+broad network of industry-leading partners, including:
+
+Coforge’s partnership model is built on:
+
+Through its partner ecosystem, Coforge is able to:
+
+Cloud and Hyperscale Platforms
+AWS, Google Cloud, Microsoft Azure
+
+Enterprise and Business Platforms
+Oracle, SAP, Salesforce, ServiceNow
+
+Data and Analytics Platforms
+Snowflake, Databricks
+
+Low-code / Automation
+and Integration Platforms
+
+Appian, Mendix, OutSystems, Pega
+
+Security Platforms
+Zscaler
+
+14 | Coforge Limited
+
+Co-innovation and solution development
+aligned with client needs
+
+Accelerate cloud, AI, and digital adoption
+
+Deep domain integration across key
+industries such as Banking and Financial
+Services, Healthcare, Insurance, and Travel
+
+Enhance speed-to-market and
+scalability of solutions
+
+Capability building through certifications
+and joint investments in technology and IP
+
+Strengthen domain-led innovation
+across industries
+
+The company also works closely with client
+organisations through long-term engagements,
+integrating consulting, technology, and domain
+expertise to deliver measurable business outcomes.
+
+Enable future-ready, resilient digital
+architectures
+
+These partnerships reinforce Coforge’s position as a
+domain-led digital integrator, enabling the delivery of
+differentiated, scalable, and future-ready solutions
+across its global client base.
+
+Sustainability Report 2025-26
+
+

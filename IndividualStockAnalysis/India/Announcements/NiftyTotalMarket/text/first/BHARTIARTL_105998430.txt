@@ -1,0 +1,119 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise)  
+Regd. Office:  Airtel Center, Plot No. 16, Udyog Vihar, Phase -IV, Gurugram – 122015, India  
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110 070, India  
+T.: +91 -124-4222222, F.: +91 -124-4248063, Email id: compliance.officer@bharti.in , www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+ 
+ 
+ 
+September 25 , 2024 
+  
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1 Block G  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India  
+Symbol: BHARTIARTL/ AIRTELPP  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street, Mumbai – 400001, India  
+Scrip Code: 532454/ 890157  
+ 
+Sub: Press Release  
+ 
+Dear Sir/ Ma’ am, 
+ 
+We are enclosing herewi th a press release dated September 25, 2024 titled  ‘Airtel 
+cracks down on SPAM, launches India’s first AI -powered network solution for SPAM 
+detection ’ being issued by the Company.  
+ 
+Kindly take the same on record.  
+ 
+Thanking you,  
+Sincerely y ours,  
+ 
+For Bharti Airtel Limited  
+ 
+ 
+ 
+Rohit Krishan Puri  
+Joint Company Secretary & Compliance Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Airtel cracks down on SPAM, launches India ’s first AI -powered network 
+solution for SPAM detection   
+AI solution processes 1 trillion records on a real time basis. Flags  100 million spam calls and 3 
+million SMSes  every  day 
+New Delhi, September 25, 2024:  In a pioneering move to curb the country ’s spam menace, Bharti 
+Airtel (“Airtel ”), today, launched India ’s first network -based, AI -powered spam detection solution 
+that will significantly solve the issue of spam calls and messages for its customers.  
+ A firs t-of-its-kind solution by a telecom service provider in the country, the tool will alert 
+customers in real -time to all suspected spam calls and SMSes. The solution is free of cost and will 
+get auto -activated for all Airtel customers without them having to raise a service request or 
+download an app.  
+Gopal Vittal, Managing Director and Chief Exe cutive Officer, Bharti Airtel said, “Spam has 
+become a menace for customers. We have spent the last twelve months to solve this 
+comprehensively. Today marks a milesto ne as we launch the country ’s first AI -powered spam free 
+network that will shield our customers from the continuous onslaught of intrus ive and unwanted 
+communications ”. 
+“Designed as a dual -layer protection, the solution has two filters – one at the network layer and 
+the second at the IT systems layer. Every call and SMS passes through this dual -layered AI shield. 
+In 2 milliseconds our solution proc esses 1.5 billion messag es and 2 .5 billion calls every day. This 
+is equivalent to processing 1 trillion records on a real time basis using the power of AI. Our 
+solution has been able to successfully identify  100 million potential spam calls and 3 million spam 
+SMSes originating ev ery day. For us , keeping our customers secure is a burning priority. ”  Vittal  
+added.  
+Developed in -house by Airtel ’s data scientists, the AI -powered solution  uses a proprietary 
+algorithm to identify and classify calls and SMSes as "Suspected SPAM". The net work powered 
+by state -of-the-art AI algorithm analyses various parameters such as the caller or sender's usage 
+patterns, call/SMS frequency , call duration amongst several others,  on a real time basis. By cross -
+referencing this information against known spa m patterns, the system flags suspected spam calls 
+and SMSes accurately.   
+Additionally, the solution also alerts customers to malicious links received via SMS. For this, Airtel 
+has built a centralised database of blacklisted URLs and every SMS is scanned i n real time by a 
+state-of-the-art AI algorithm to caution users from accidently clicking on suspicious links. The 
+solution can also detect anomalies such as frequent IMEI changes – a typical indicator of 
+fraudulent behavior. By layering these protective me asures, the company is ensuring its customers 
+receive maximum level of defense against the evolving landscape of spam and fraud threats.  
+ 
+ 
+ 
+ 
+ 
+How does India ’s AI-powered SPAM free network work?  
+ 
+ 
+  
+Note to the Editor  
+The Government of India (GoI) has allocated 10 -digit numbers with the prefix 160 to for service 
+and transactional calls. Customers can expect to receive calls from these 160 -prefix series assigned 
+to Banks, Mutual Funds, Insurance Companies,   Stockbrokers, other financial institutions, 
+Corporates, Enterprises, SMEs, big and small businesses used for making transactional and service 
+calls.   
+ Additionally, those customers who have not opted for Do -not-disturb (DND) and have subscribed 
+to receiving promotional calls will continue to receive t hem from a 10 -digit number with the prefix 
+140.  
+  
+About Bharti Airtel Limited  
+Headquartered in India, Airtel is a global communications solutions provider with over 550 million customers in 17 
+countries across South Asia and Africa. The company ranks amongst the top three mobile operators globally and its 
+networks cover over two bil lion people. Airtel is India’s largest integrated communications solutions provider and the 
+second largest mobile operator in Africa. Airtel’s retail portfolio includes high-speed  4G/5G mobile broadband, Airtel 
+Xstream Fiber that promises speeds up to 1 Gb ps with convergence across linear and on -demand entertainment, 
+streaming services spanning music and video, digital payments and financial services. For enterprise customers, Airtel 
+offers a gamut of solutions that includes secure connectivity, cloud and d ata centre services, cyber security, IoT, Ad 
+Tech and cloud based communication. For more details visit www.airtel.com  
+ 
+ 

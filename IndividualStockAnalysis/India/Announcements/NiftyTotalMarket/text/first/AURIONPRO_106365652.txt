@@ -1,0 +1,129 @@
+ 
+05th September, 202 5 
+ 
+Dear Sir/Madam,  
+Sub: Notice of 2 8th Annual General Meeting (“AGM”) along with Annual Report, 
+Book Closure & E -Voting  
+We would like to inform you that the 2 8th Annual General Meeting of the Company for the 
+Financial Year 202 4-25 is scheduled to be held on Monday, 2 9th September, 202 5, at 10.30 
+a.m. (IST) through Video Conferencing (“VC”) or Other Audio Visual Means (“OAVM”).  
+We further inform you that, pursuant to Section 91 of the Companies Act, 2013, and 
+Regulation 42 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, the Register of Members and Share Transfer Books of the Company will remain 
+closed from Tuesda y, 23rd September, 20 25 to Tuesday, 30th September, 202 5 (both days 
+inclusive) for the purpose of AGM and payment of dividend.  
+Further, we have made  arrangements to provide remote e -voting facilities to the 
+shareholders of the Company for voting on the resolutions proposed at  the 28th Annual 
+General Meeting (AGM), scheduled to be held on Monday, 29th September 2025, as per 
+the following schedule:  
+E-voting at the web -site of NSDL: www.evoting.nsdl.com  
+Cut-off Date for remote e -voting:  Monday, 22nd September, 2025  
+Date of commencement of remote e -voting: Friday, 2 6th September, 202 5 
+Start Time: 09.00 A.M.  
+Date of end of remote e -voting: Sunday, 28th September, 202 5 
+End Time: 05.00 P.M.  
+Notice of AGM along with Annual Report is enclose d herewith.  
+Thanking You,  
+Yours faithfully,  
+For Aurionpro Solutions Limited  
+ 
+Ninad Kelkar  
+Company Secretary  To, 
+National Stock Exchange of India Limited  
+Exchange Plaza’. C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai - 400 051.  
+NSE SYMBOL: AURIONPRO  To,                                         
+The BSE Limited,                     
+25th Floor, P. J. Towers,                   
+Fort, Mumbai: 400 001.  
+SCRIP CODE: 532668  
+© 2025 Aurionpro Solutions Ltd. All Rights ReservedANNUALREPORT2024-25
+www.aurionpro.com
+
+Content
+Letter from Chairman  ............................................................................................................................................................ ..........02
+CEO’s Message  ........................................................................................................................................................................................ 04
+Aurionpro Today  ............................................................................................................................................................ ......................... 07
+Board of Directors ............................................................................................................................................................. .................... 25
+Company Information  ..................................................................................................................................................................... 30
+Management Discussion & Analysis  .................................................................................................................................. 31
+Directors’ Report  .................................................................................................................................................................................... 45
+Corporate Governance Report  ................................................................................................................................................ 61
+Consolidated Financial Statements  ................................................................................................................................... 81
+Standalone Financial Statements  ..................................................................................................................................... 142
+AGM Notice  ............................................................................................................................................................. .................................... 213
+Aurionpro Solutions Limited   |  Annual Report 2024-25 01
+Letter from The Chairman
+Dear Shareholders,
+It is with immense pride and satisfaction that I write this: another 
+year marked by strong performance. This is the fourth consecutive 
+year in which Aurionpro has delivered robust growth. If we look at 
+our growth since covid year bottom, we have grown on an average 
+33% in revenue and 30% in EBITDA over the last four years. All this 
+while continuing to invest in newer products, newer infrastructure, 
+expanding product portfolio, geographical coverage and 
+continuing to build a strong and dedicated top & senior 
+management team. As impressive as this performance is, I believe 
+we have it in us to continue this level for many years to come. It is 
+amazing that, after more than 28 years of existence, we crossed 
+revenue of INR 1000 crores. To believe with great confidence that by 
+March 2027, we should cross INR 2000 crores, is an immense feat 
+and for that, I congratulate our team led by Ashish Rai and 3000 + 
+team members of Aurionpro.
+We continue to plan to expand our business as we have over last few years. As we embark on scaling 
+higher and more challenging peaks, I believe quality of our team, immense depth of our product portfolio, 
+wider and deeper geographical coverage, and deepening relationship with our key customers and 
+partners will allow us to execute on our vision. I must also add that the acquisitions we have had over the 
+last couple of years are also pivotal in expanding and deepening our offerings and help us expand into 
+newer geographies. All this would not be possible without a clear vision and a well-defined roadmap by 
+Ashish and able execution by Shekhar Mullatti, Sanjay Bali, Sanjay Varma, and their top teams.
+On the Banking and Fintech front, the year began on the solid foundation of several large-ticket deal wins, 
+both in India and across global markets. Our primary focus was on ensuring the seamless delivery of these 
+projects, and I am pleased to share that most are now nearing completion. I especially wish to 
+congratulate our delivery teams for their phenomenal efforts in executing these large and complex 
+engagements with precision, reinforcing our reputation for quality and timelines.
+The year was equally eventful for our Tech Innovation Group (TIG), led by strong momentum in our Smart 
+Mobility and Data Centre segments, alongside several marquee technology projects with governments. 
+We recorded significant big-ticket deal wins, forged key partnerships, and expanded into new geographies. 
+Globally, the mass mobility space is undergoing a major transformation, with a clear shift towards faster, 
+contactless ticketing, and seamless payment solutions. This presents a large and growing market Paresh Zaveri, Chairman & 
+Managing Director
+02 Annual Report 2024-25
+opportunity. Our transit wins, especially Delhi Metro, and more recently our largest win, MMRDA for Mumbai 
+line 4 and 4A valued at close to INR 250 crores are a testament to the opportunities ahead.
+One area emerging powerfully for us in the Transit space is our transformation into an integrated solutions 
+provider, combining software expertise with hardware design and production. We had embarked on our 
+backward integration in transit four years back with majority stake acquisition in Toshi Automatic, now 
+Aurionpro Toshi Automatic. Over the last four years, we have grown our capabilities multifold and yet this 
+is just the beginning. Our front-to-back ability to offer end-to-end solution has made Aurionpro the best 
+and most competitive player in the Automatic Fare Collection (AFC) market in India and a strong emerging 
+player globally. With key focus on Make in India, large and growing size of opportunity for Metros, bus 
+services, and future long-distance railways, we see immense opportunities to expand this business further, 
+multifold, in the years to come. Equally encouraging is our progress in the Data Centre business, where 
+strategic partnerships are driving growth. We successfully completed the design and implementation of 
+complex facilities last year, and with demand fueled by e-commerce growth and data localisation laws, 
+the outlook remains highly positive. Aurionpro today boasts one of the best data centre teams in the 
+country.
+On the financial front, our balance sheet is strong and resilient, with continued improvement across all key 
+financial ratios. The receivable cycle, which was previously extended due to legacy government contracts, 
+has improved significantly and we expect it to remain stable going forward. As business matures, I am 
+pleased that we have started the trend of quarterly dividends to our shareholders. While it is a small step, 
+this is a sign of our commitment to return more capital to shareholders in the years to come. 
+We have been consistently investing in our workforce and at Aurionpro, we take pride in fostering a 
+democratic and innovation-driven environment that encourages innovative ideas. For the third 
+consecutive year, Aurionpro has been recognized as a Great Place to Work, a testament to the culture we 
+have built. Our team members are at the core of our growth journey, and we are committed to providing a 
+workplace that is both engaging and highly productive. In the last one year, we added over 400 new 
+colleagues, including senior professionals from leading industry players, reflecting our growing reputation 
+as an attractive destination for top talent. Our attrition levels remain below industry averages, and we will 
+continue to build a workforce that is diverse and inclusive. While we invest in our people, one of our key goals 
+is to focus on productivity improvements through the IP-led nature of our business model to ensure that we 
+do not require significant additions to the workforce to achieve our guided growth, which also enhances our 
+operational efficiency.
+I take this opportunity to extend my heartfelt gratitude to all our stakeholders—especially our shareholders, 
+customers, partners, vendors, and governments—for their continued trust and support, without which this 
+journey would not have been possible. With your unwavering encouragement, I am confident that this is just 
+the beginning, and together we will take Aurionpro to even greater heights of success.
+Thank you!
+03 Annual Report 2024-25

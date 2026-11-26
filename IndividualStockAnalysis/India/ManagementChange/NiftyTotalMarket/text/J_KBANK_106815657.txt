@@ -1,0 +1,34 @@
+--- CIM_1675_WebXMLFile_20261013_125049579_2.xml (the exchange's structured disclosure) ---
+NSESymbol: J&KBANK ; Name Of The Company: THE JAMMU & KASHMIR BANK LIMITED ; Scrip Code: 532209 ; MSEISymbol: NOTLISTED ; ISIN: INE168A01041 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-13 ; Time Of Occurrence Of Event Or Information: 00:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-10-13 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Mandeep K Bhandari, IAS ; Effective Date Of Reason Of Change: 2026-10-13 ; Salutation: Mr. ; Name Of The Person: Mandeep K Bhandari, IAS ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-13 ; Effective Date Of Resignation: 2026-10-13 ; Reason Of Resignation In Brief: Due to his Official Engagements
+
+--- Signed_Resignation_Readable_1.pdf ---
+,
+
+To,
+The Board of Directors of
+Jammu and Kashmir Bank Limited
+Sub:
+
+Resignation from the Board of Jammu and Kashmir Bank Limited
+
+Dear Sir(s)/Madam,
+Owing to my official commitments, I hereby tender my resignation from the Board of
+Directors of the Bank, with immediate effect.
+I take this opportunity to place on record my sincere appreciation to the Board,
+Management and my fellow Directors for the cooperation and support during my tenure.
+It has been a privilege and an honour to have served on the Board of the Bank.
+I convey my best wishes to the Bank and its Management for continued growth, success
+and prosperity in the years ahead.
+Thanking you.
+Yours Sincerely,
+
+~\~yb
+Dr. Mandeep K Bhandari, lAS
+DIN: 07310347
+Non-Executive Non-Independent
+Date: 13.10.2026
+Place: New Delhi
+
+Director
+
+

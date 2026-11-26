@@ -1,0 +1,126 @@
+ 
+INFIBEAM 	AVENUES 	LIMITED 	
+Regd.	Office:	28th Floor, GIFT Two Building, Block No. 56, Ro ad-5C, Zone-5, GIFT CITY, Gandhinagar,  
+Taluka & District - Gandhinagar – 382 355, CIN:	L64203GJ2010PLC061366  
+Tel:	+91 79 67772204 | Fax:	+91 79 67772205 | Email:	ir@ia.ooo  | Website: 	www.ia.ooo   
+ 
+ 
+March 17, 2025 
+ 
+BSE	Limited  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort, Mumbai - 400 001   Company 	Code	No.:	539807	National 	Stock	Exchange 	of	India	Limited	
+Exchange Plaza, Bandra Kurla Complex, Bandra (East), Mumbai - 400 051  Company 	Symbol:	INFIBEAM 	
+ 
+Dear Sir / Madam,  
+Sub:	Press	Release	
+	
+In compliance with the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we 
+are pleased to enclose a copy of Press Release titl ed “Infibeam Avenues Ltd and Indian Institute of 
+Sciences (IISc) Signs MoU to Develop Real-Time Deepfake Detection Systems for Government, Corporates, Organisations to Combat Scammers”, issued by the Company. 
+ 
+The above information is also available on the website of the Company at www.ia.ooo .  
+ 
+Kindly take the same on your records.  Thanking you,  Yours faithfully,  For Infibeam 	Avenues 	Limited	
+			Shyamal 	Trivedi	
+Sr.	Vice	President 	&	Company 	Secretary 	
+	
+	
+Encl.:	As above 	
+  
+    
+ 
+1 
+ 
+ 
+Media Release 
+Infibeam Avenues Ltd and Indian Institute of Sciences (IISc) 
+Signs MoU to Develop Real-Time Deepfake Detection 
+Systems for Government, Corporates, Organisations to 
+Combat Scammers  
+ 
+Gandhinagar, March 17, 2025  – : Infibeam Avenues Ltd, a leading fintech company, has 
+announced signing of a strategic MoU for Research and Development (R&D) with the Indian 
+Institute of Sciences (IISc) Bangalore, one of the world’s top-ranking universities known for its 
+research excellence. This collaboration aims to research and develop advanced real-time deepfake 
+detection systems designed to enhance digital security for government entities, corporations, and 
+organizations, effectively combating the rising threat of AI-generated deception. 
+ 
+As deepfake technology continues to evolve, it poses significant risks to personal and corporate 
+integrity. These sophisticated AI-generated media can create hyper-realistic but false 
+representations of individuals and events, leading to misinformation, cyberbullying, harassment, 
+financial fraud, and identity theft. Such threats have far-reaching implications for businesses, 
+government institutions, and the general public. 
+ 
+A notable incident highlighting the urgency of this issue occurred in January 2024, when a Hong 
+Kong-based multinational company lost approximately $25 million (around Rs 207 crore) due to 
+a deepfake scam. Scammers executed a convincing live video call using deepfake technology to 
+impersonate company executives, leading to a severe financial loss before the deception was 
+uncovered. (Source: South China Morning Post and Business Insider) 
+ 
+“Digital communications and a digital India will thrive only as long as there is trust,” said Mr. 
+Rajesh Kumar SA, CEO of Phronetic.AI, an AI unit of Infibeam Avenues Ltd.  “This 
+partnership is a pivotal step in restoring trust in digital communications. Together, we will equip 
+users with the necessary tools to differentiate between truth and fabrication in an increasingly 
+complex digital landscape, thereby mitigating fraud risks and enhancing digital trust.” 
+ 
+Under the terms of the Memorandum of Understanding (MoU), Infibeam Avenues Ltd’s AI 
+business unit, Phronetic.AI, and the IISc team will collaboratively develop anti-deepfake 
+technology specifically tailored for real-time video communication. The partnership will focus on 
+selecting the most effective detection models for various scenarios, ensuring that real-time 
+deepfake detection operates efficiently and cost-effectively at scale. 
+ 
+“We are committed to staying ahead of malicious actors by developing innovative AI solutions 
+that ensure digital authenticity,” said Mr. Vishal Mehta, Chairman and Managing Director of 
+Infibeam Avenues Ltd.  “This partnership is a crucial step toward enhancing cybersecurity and 
+preventing the misuse of deepfake technology for fraudulent activities.” 
+ 
+Despite the availability of various deepfake detection tools in the market, only a limited number 
+possess the capability for real-time operation. In a pioneering effort, Infibeam’s Phronetic.AI team 
+has developed an advanced video AI agent that can detect deepfakes in real-time through a novel 
+interventional technique. This agent actively engages in live video conversations, alerting users 
+when the other participant is identified as a deepfake. Infibeam has already filed a patent for its 
+innovative real-time deepfake detection algorithm.   
+    
+ 
+2 
+ 
+ 
+Recognizing the increasing sophistication of deepfakes and the necessity for detection algorithms 
+to evolve continuously to address this growing threat, the company has collaborated with Vision 
+and AI Lab (VAL) of the Indian Institute of Science (IISc), where it aims to improve these 
+algorithms further, ensuring robust defenses against the challenges posed by increasingly realistic 
+deepfake technology. 
+ 
+“As Generative AI continues to advance at an unprecedented pace, the rise of deepfakes poses a 
+significant challenge. Without proactive measures, the spread of AI-generated misinformation 
+could become a major concern. Addressing this requires ongoing efforts from AI researchers to 
+monitor emerging generative models and develop robust techniques to detect deepfakes 
+effectively.” said Prof. Venkatesh Babu, Professor and Chair of the Dept. of Computational 
+and Data Sciences (CDS) IISc.    
+ 
+Additionally, the research will prioritize the development of a user-friendly interface, enabling 
+easy access for non-experts to verify the authenticity of live visuals and audio. This scalable 
+detection system will be adaptable across various sectors, including banking, healthcare, 
+insurance, finance, fintech, HR recruitment, government organizations, police, armed forces, and 
+personal communications, addressing the diverse needs of industries particularly vulnerable to 
+deepfake technology. 
+ 
+This research initiative aims to offer Real-Time Deepfake detection AI Agent that enhances public 
+confidence and protect the reputations of its users whether it’s a government institutions, 
+organizations, or a corporations. 
+ 
+About Infibeam Avenues Limited:  
+Infibeam Avenues Ltd. is one of the leading global financial technology (fintech) company offering comprehensive digital payment 
+solutions and enterprise software platforms to businesses and governments across industry verticals. The company's payment 
+infrastructure solution includes acquiring and issuing solutions and offering infrastructure for banks. The core Payment Gateway 
+(PG) business provides over 200 plus payment options to the merchants allowing them to accept payments through website and 
+mobile devices in 27 international currencies. Infibeam Avenues' enterprise software platform hosts India's largest online 
+marketplace for government procurement. The company processed transaction worth INR 7 trillion (US$ 86 billion) in FY24. 
+Company currently has over 10 million plus clients across digital payments and enterprise software platforms. The company's vast 
+clientele includes merchants, enterprises, corporations, governments, and financial institutions in both domestic (India) as well as 
+international markets. Infibeam Avenues' international operations are based in the United Arab Emirates, Australia, and the United 
+States of America. We also have business presence in Oman working with three of the largest banks in the country. 
+For further press queries please email or call  
+Vishal Dutta | (M) +91 9924387860, vishal.dutta@ia.ooo 
+ 
+For more information on the company, please go to, www.ia.ooo , www.phronetic.ai  and www.ccavenue.com  

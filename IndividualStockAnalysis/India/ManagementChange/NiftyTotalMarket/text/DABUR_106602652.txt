@@ -1,0 +1,236 @@
+--- XML_CIM_WebXMLFile_20260428_160250065_1.xml (the exchange's structured disclosure) ---
+NSESymbol: DABUR ; Name Of The Company: Dabur India Limited ; Scrip Code: 500096 ; MSEISymbol: NOTLISTED ; ISIN: INE016A01026 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-04-27 ; Start Time Of Board Meeting: 13:52:00 ; End Time Of Board Meeting: 22:18:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-04-28 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Additional General Manager - IR & M&A ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Rahul Sarawagi ; Effective Date Of Reason Of Change: 2026-04-28 ; Brief Profile: Mr. Rahul Sarawagi is a Chartered Accountant from the Institute of Chartered Accountants of India (2008), with over 18 years of extensive experience across the finance function. He has worked with leading organizations including PwC, Goldman Sachs, ICICI Bank, Reliance Industries, and Dabur India, holding diverse roles across treasury, investments, and financial management. He most recently served as Chief Financial Officer at Ace International Ltd. Mr. Sarawagi brings deep expertise in capital markets, foreign exchange management, and structured financing, along with a proven ability to support board-level decision-making through robust financial insights, governance, and risk management practices. In his earlier role as Head – Treasury at Dabur India, he demonstrated strong leadership in driving capital efficiency, optimizing funding structures, and executing complex financial strategies. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Head-Investor Relations & M&A ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Isha Lamba ; Effective Date Of Reason Of Change: 2026-05-02 ; Salutation: Ms. ; Name Of The Person: Isha Lamba ; Designation Of Person: Head-Investor Relations & M&A ; Date On Which The Resignation Letter Was Received: 2026-02-04 ; Effective Date Of Resignation: 2026-05-02 ; Reason Of Resignation In Brief: As per the email attached with the PDF submission
+
+--- Letter_2.pdf ---
+Ref: SEC/SE/2026-27
+Date: April 28, 2026
+To,
+Corporate Relations Department
+BSE Ltd.
+Phiroze Jeejeebhoy Towers
+Dalal Street,
+Mumbai- 400001
+
+Listing Department
+National Stock Exchange of India Ltd.
+Exchange Plaza, 5th Floor
+Plot No. C/1, G Block, Bandra Kurla Complex
+Bandra (E), Mumbai – 400051
+
+BSE Scrip Code: 500096
+
+NSE Scrip Symbol: DABUR
+
+Ref: Submission of information under Regulation 30 of the SEBI (Listing Obligations &
+Disclosure Requirements) Regulations, 2015
+Sub: Change in Senior Management
+Dear Sir/Madam,
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), we wish to inform that the Board
+of Directors of the Company on Monday i.e. April 27, 2026 have:
+i)
+
+noted resignation of Ms. Isha Lamba, Head-Investor Relations & M&A, in the category of Senior
+Management Personnel of the Company, with effect from the close of business hours of May 01,
+2026.
+
+ii) Upon recommendation of the Nomination & Remuneration Committee, approved the appointment
+of Mr. Rahul Sarawagi as “Additional General Manager - IR & M&A” in the category of Senior
+Management Personnel of the Company with effect from April 28, 2026.
+Pursuant to provisions of Regulation 30 of the Listing Regulations read with SEBI Master Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 issued on July 11, 2023 (last updated on January 30,
+2026), requisite disclosures with respect to aforementioned resignation and appointment is attached
+as Annexure A. Further, copy of the resignation letter/email is enclosed as Annexure B.
+The above information shall also be made available on the Company's website at www.dabur.com.
+This is for your kind information and records.
+Thanking You,
+Yours faithfully,
+For Dabur India Limited
+Ashok Kumar
+Jain
+
+Digitally signed by Ashok Kumar Jain
+DN: c=IN, o=Personal, title=2634,
+pseudonym=fzxn5h6lv9a4tm20edjrgcpks8q3o7w1,
+2.5.4.20=08443b3bbbcf5f80cd46cc26add8b8bdd652ffd20caa6b
+7340b03564e4b39dfa, postalCode=110092, st=Delhi,
+serialNumber=ecb3e1fdc2a028c70333c2d10a7e968110c5d0645
+b352ed6dfd1bc6aad8147b3, cn=Ashok Kumar Jain
+Date: 2026.04.28 10:18:07 +05'30'
+
+(Ashok Kumar Jain)
+Group Company Secretary and Chief Compliance Officer
+Encl: as above
+
+DABUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi – 110 002, Tel.: +91 11 71206000 Fax: +91 11 23222051
+Regd. Office: 8/3, Asaf Ali Road, New Delhi – 110 002 (India)
+CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com Website: www.dabur.com
+
+
+Annexure A
+DISCLOSURE OF APPOINTMENT AND RESIGNATION
+Sl.
+No.
+1.
+
+2.
+
+3.
+
+4.
+
+Particulars
+
+Mr. Rahul Sarawagi
+(Appointment)
+Reason
+for Appointment
+of
+Mr.
+Rahul
+change
+viz. Sarawagi as “Additional General
+appointment, re- Manager - IR & M&A” in the
+appointment
+category of Senior Management
+resignation,
+Personnel of the Company.
+removal, death
+or otherwise
+Date of
+Appointment with effect from April
+appointment/ re- 28, 2026
+appointment
+/cessation (as
+applicable) &
+term of
+appointment/ reappointment
+
+Ms. Isha Lamba
+(Resignation)
+Resignation of Ms. Isha
+Lamba,
+Head-Investor
+Relations & M&A, in the
+category
+of
+Senior
+Management Personnel of
+the Company.
+Cessation with effect from
+the close of business hours
+of May 01, 2026
+
+Brief profile (in Mr. Rahul Sarawagi is a Chartered Not Applicable
+case
+of Accountant from the Institute of
+Appointment)
+Chartered Accountants of India
+(2008), with over 18 years of
+extensive experience across the
+finance function. He has worked
+with
+leading
+organizations
+including PwC, Goldman Sachs,
+ICICI Bank, Reliance Industries,
+and Dabur India, holding diverse
+roles across treasury, investments,
+and financial management. He
+most recently served as Chief
+Financial
+Officer
+at
+Ace
+International Ltd. Mr. Sarawagi
+brings deep expertise in capital
+markets,
+foreign
+exchange
+management,
+and
+structured
+financing, along with a proven
+ability to support board-level
+decision-making through robust
+financial insights, governance, and
+risk management practices. In his
+earlier role as Head – Treasury at
+Dabur India, he demonstrated
+strong leadership in driving capital
+efficiency,
+optimizing
+funding
+structures, and executing complex
+financial strategies.
+Disclosure
+of Not applicable
+Not Applicable
+relationships
+between
+
+DABUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi – 110 002, Tel.: +91 11 71206000 Fax: +91 11 23222051
+Regd. Office: 8/3, Asaf Ali Road, New Delhi – 110 002 (India)
+CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com Website: www.dabur.com
+
+
+directors of the
+Company
+(in
+case
+of
+appointment of a
+director)
+
+DABUR INDIA LIMITED, Punjabi Bhawan, 10, Rouse Avenue, New Delhi – 110 002, Tel.: +91 11 71206000 Fax: +91 11 23222051
+Regd. Office: 8/3, Asaf Ali Road, New Delhi – 110 002 (India)
+CIN: L24230DL1975PLC007908, Email: corpcomm@dabur.com Website: www.dabur.com
+
+
+Annexure B
+
+Sharda Rajesh
+From:
+Sent:
+To:
+Cc:
+Subject:
+
+Sharda Rajesh
+27 April 2026 17:47
+Lamba Isha
+Malhotra Mohit; Baksi Biplab
+Resignation - Acceptance
+
+Dear Isha
+This has reference to your letter dated 4th February 2026 submitting your resignation from the services of Dabur India Limited.
+In this regard, we wish to inform you that your resignation has been accepted, and basis our discussion and mutual alignment you will be relieved from the services
+of the company close of working hours of 1st May 2026.
+Please handover the charge and company’s assets etc. accordingly.
+With warm regards and wishing you all the very best in your future career endeavours.
+
+With Warm Regards
+Rajesh Sharda
+HR
+Dabur India Limited
+Corporate O ice, Kaushambi, Sahibabad 201010, Dist Ghaziabad
+https://www.dabur.com/
+
+From: Lamba Isha
+Sent: 04 February 2026 19:24
+To: Baksi Biplab
+Cc: Malhotra Mohit
+Subject: Resignation
+1
+
+
+Sir,
+Pursuant to our conversation, please accept this as my formal resignation from my position at Dabur India Ltd.
+I would like to express my sincere gratitude for the opportunities, trust, and support extended to me during my tenure with the organisation.
+Request you to consider 15th March, 2026 as my last working day and will certainly ensure a smooth and seamless transition.
+Thanks & Regards
+Isha
+
+2
+
+

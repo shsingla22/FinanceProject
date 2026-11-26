@@ -1,0 +1,2223 @@
+Biocon Limited
+20th KM, Hosur Road
+Electronic City
+Bangalore 560 100, India
+T 91 80 2808 2808
+F 91 80 2852 3423
+CIN : L24234KA1978PLC003417
+www.biocon.com
+
+BIO/SECL/TG/2025-26/173
+
+February 12, 2026
+To,
+The Secretary
+BSE Limited
+Department of Corporate Services
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai – 400 001
+Scrip Code - 532523
+
+To,
+The Secretary
+National Stock Exchange of India Limited
+Corporate Communication Department
+Exchange Plaza, Bandra Kurla Complex
+Mumbai – 400 050
+Scrip Symbol - BIOCON
+
+Dear Sir/Madam,
+Subject: Outcome of the Board Meeting
+Pursuant to Regulation 30 and 33 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (‘SEBI Listing Regulations’), we wish to inform you that the
+Board of Directors at its meeting held today, i.e. on Thursday, February 12, 2026, inter alia, has approved
+the following:
+Financial results:
+•
+
+The un-audited financial results (standalone and consolidated) of the Company prepared as per
+Indian Accounting Standard (Ind-AS) for the quarter and nine months ended December 31, 2025.
+A copy of the aforesaid un-audited financial results along with the Limited Review Report is
+enclosed herewith.
+
+Acquisition of equity shares of Biocon Biologics Limited, an unlisted material subsidiary:
+•
+
+This is in reference to the Press Release dated December 06, 2025, whereby it was informed about
+the proposed full integration of Biocon Biologics Limited (“BBL”) with the Company making it a wholly
+owned subsidiary (“WOS”) through the acquisition of minority stakes in BBL. The Company vide letter
+dated January 21, 2026, further informed about acquisition of equity shares of BBL thereby increasing
+its stake in BBL to ~98% of paid-up equity share capital on fully diluted basis.
+The Board has now granted in-principle approval to acquire the remaining ~2% of BBL’s paid-up
+equity share capital on fully diluted basis from employees of the Biocon Group, who presently hold
+or will hold BBL’s equity shares pursuant to exercise of Stock Options granted under the Stock Option
+Plans and other shareholders of BBL.
+
+
+Consideration for such acquisition of the BBL shares from the employees and other shareholders will
+be discharged by way of preferential allotment of the equity shares of the Company in terms of
+Chapter V of the Securities and Exchange Board of India (Issue of Capital and Disclosure
+Requirements) Regulations 2018, the terms of which will be determined and approved by the Board
+in due course.
+The proposal is also subject to necessary approvals including approval of the shareholders of the
+Company and other regulatory / statutory approvals, as may be required. Following this acquisition,
+BBL will become a WOS of the Company.
+The above information will also be available on the website of the Company at www.biocon.com.
+Further, the Board Meeting commenced at 4:45 P.M. and concluded at 6:45 P.M.
+Kindly take the above information on record and acknowledge.
+
+Thanking You,
+Yours faithfully,
+For Biocon Limited
+signed
+RAJESH Digitally
+by RAJESH U
+SHANOY
+U
+Date: 2026.02.12
+SHANOY 19:03:43 +05'30'
+
+Rajesh U. Shanoy
+Company Secretary and Compliance officer
+ICSI Membership Number: A16328
+Encl: As above
+
+
+BIOCON LIMITED
+CIN: l24234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20th KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE · S60 100
+STATEM ENT OF UNAUDITED STANDALONE FINANCIAL RESULTS FOR THE QUARTER ANO NINE MONTHS ENDED DECEMBER 31, 2025
+IRs, in Million, except per equity share data]
+
+SI . No . Partlculars
+
+1
+
+Income
+Revenue from operations
+
+31.12.2025
+
+9 months ended
+31.12.2024
+
+Year ended
+
+(Unaudited)
+
+(Unaudited)
+
+fUnauditedl
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+31.03.2025
+
+6,213
+748
+
+5,833
+
+5,628
+
+17,41 7
+
+15,988
+
+22,426
+
+1,338
+
+2,699
+
+6,96 1
+
+7,171
+
+642
+6,270
+
+20,116
+
+1,785
+17,773
+
+24,849
+
+a) Cost of materials consumed
+b) Purchases of stock-in·tr~de
+c) Chances in inventories of finished goods, work-In-progress and
+stock-in-trade
+
+2,876
+
+3,207
+
+2,768
+
+8,963
+
+7,630
+
+10,854
+
+(155)
+
+(784)
+
+(129)
+
+(1,482)
+
+(486)
+
+(546)
+
+d) Employee benefits expense
+
+1,Z17
+23
+
+1,262
+
+1,319
+653
+
+3,736
+
+340
+
+338
+
+338
+
+3,770
+1,802
+948
+
+5,013
+
+672
+
+Other income
+Total income
+2
+
+Previous
+
+3 months ended
+31.12.2024
+
+9 months ended
+
+31.12.2025
+
+3 months ended
+30.09.2025
+
+3 months ended
+
+2,423
+
+Expenses
+
+e) Finance costs
+f} Depreciation and amortisation expense
+g) Other expenses
+
+452
+
+241
+
+1,257
+
+2,369
+
+1,542
+
+1,378
+
+1,402
+
+1,011
+4,286
+
+4,039
+
+1,278
+5,478
+
+5,843
+
+6,314
+
+6,351
+
+18,223
+
+17,703
+
+24,446
+
+(45)
+
+(6)
+
+(114)
+
+(131)
+
+Less: Recovery of cost from co•development partners (net)
+Total expenses
+
+5,843
+
+6,314
+
+6,306
+
+18,217
+
+17,589
+
+24,315
+
+Profit/ (loss) before tax and exceptional items (1-2)
+
+1,118
+
+857
+
+(36)
+
+1,899
+
+184
+
+534
+
+4
+
+Exceptional items {net) [refe r note 14}
+
+(1,963)
+
+6,075
+
+(1,963)
+
+6,0 75
+
+6,075
+
+5
+
+Profit/ (loss) before tax (3 + 4)
+Tax expense [refer note 14]
+
+857
+
+6,039
+
+(611)
+
+6,259
+
+6,609
+
+89
+
+32
+
+41
+138
+
+306
+
+116
+
+84
+115
+
+132
+
+(170)
+
+3
+
+6
+
+Current tax
+Deferred taK
+Tax expense on removal of indexation benefit
+7
+
+Net Profit/ (loss) for the period/ year (5-6)
+
+8
+
+Other comprehensive income/ (lo5s]
+A (i) Items that will not be reclassified to profit or loss
+(Ii) lncometax relating to items that will not be reclassffied to prof1l or loss
+
+9
+10
+11
+12
+
+(845)
+
+(58)
+
+199
+
+11
+199
+
+5,881
+
+6,093
+
+(764)
+
+709
+
+S,840
+
+(138)
+
+(64)
+(6)
+
+(21)
+
+29
+
+(19)
+
+9
+
+{46)
+
+{26)
+(105)
+26
+
+6
+
+63
+
+(1)
+
+{9)
+
+B (i) Items that will be reclassified to profit or loss
+(ii) Income tax relating to items that will be reclassified to profit or loss
+
+(26)
+
+{61)
+16
+
+(16)
+
+(80)
+
+(9S)
+
+7
+
+4
+
+21
+
+24
+
+Other comprehensive income/ (loss}, net of taxes
+
+{14)
+
+9
+
+(82)
+
+171)
+
+(88)
+
+(124)
+5,969
+
+Total comprehensive income/ (loss) for the period/ year (7+8)
+Paid-up equity share capital (Face value of Rs. 5 each)
+Reserves i.e. Other equity
+Earnings per sh,re (Face vaue of Rs. 5 each]
+(a) Baste
+(b) Diluted
+
+See accompanying notes to the financial results
+
+(778)
+
+718
+
+5,758
+
+(209)
+
+5,793
+
+6,685
+
+6,685
+
+6,003
+
+6,685
+
+6,003
+
+6,003
+1,09,241
+
+(not annualised)
+
+(not annualised)
+
+(not annualised)
+
+(not annualised)
+
+(not annualised)
+
+(annualised}
+
+(0.57)
+
+0.55
+0.55
+
+4.88
+4.87
+
+(0.11)
+(0.11)
+
+4.91
+4.91
+
+5.09
+5.09
+
+(0.57)
+
+
+BIOCON LIMITED
+
+CIN: LJ4234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20th kM HOSUR ROAD, ELECTRONIC CllY P.O., BANGALORE - 560 100
+STATEMENT OF UNAUDITED CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2025
+
+(Rs. in Million, except per equity share data)
+
+SI.No.
+
+1
+
+Particulars
+
+Income
+Revenue from operations
+Sill e of products
+
+(Unaudited)
+
+(Unaudited)
+
+3 months ended
+
+31.12.2025
+
+30.09.2025
+
+[Unaudited)
+
+(Unaudited)
+
+31.12.2024
+
+Previous
+year ended
+
+31.03.2025
+(Audited)
+
+33,848
+8,777
+330
+42,955
+930
+43,885
+
+28,580
+9,150
+484
+38,214
+348
+38,562
+
+96,632
+26,324
+1,148
+1,24,104
+2,900
+1,27,004
+
+81,521
+25,420
+1,506
+1,08,447
+11,713
+1,20,160
+
+1,15,378
+35,144
+2,095
+1,52,617
+12,082
+1,64,699
+
+13,273
+1,679
+(1,559)
+
+13,675
+1,350
+445
+
+12,930
+855
+(192)
+
+39,188
+11,400
+(7,674)
+
+31,625
+5,431
+190
+
+42,767
+
+8,877
+2,722
+4,730
+10,386
+42,185
+(132)
+42,053
+
+7,883
+2,234
+4,254
+9,561
+37,525
+
+Less: Reco11ery of cost from co-developml!-nt partners. (n1tt)
+Total e>epenses
+
+8,751
+2,099
+5,153
+11,782
+41,178
+(531)
+40,647
+
+37,184
+
+25,959
+7,588
+14,433
+31,890
+1,22,784
+(1,009)
+1,21,775
+
+23,333
+6,850
+12,507
+28,093
+1,08,029
+(1,106)
+1,06,923
+
+31,444
+8,974
+16,870
+39,011
+1,48,274
+(1,476)
+1,46,798
+
+Profit before share of profit of joint venture and associate, e>eceptiona1 items and
+
+2,256
+
+1,832
+
+1,378
+
+5,229
+
+13,237
+
+17,901
+
+2,256
+(2,934)
+(678)
+
+1,832
+(119)
+1,713
+
+1,378
+181
+1,559
+
+5,229
+(3,225)
+2,004
+
+13,237
+761
+13,998
+
+17,901
+965
+18,866
+
+670
+(830)
+
+593
+(2081
+
+1.136
+(3881
+
+1,930
+(1,628)
+
+(518)
+
+1,328
+
+811
+
+1,702
+
+3,632
+467
+199
+9,700
+
+3,693
+680
+199
+14,294
+
+513
+8
+
+3,501
+(215)
+
+(3,557)
+(134)
+
+2,176
+(112)
+
+1,971
+(120)
+
+(148)
+(26)
+
+Other comprehensive income/ {loss) for the period/ year, net of taxes
+
+2,607
+(71)
+3,057
+
+5,872
+540
+9,698
+
+3,762
+495
+566
+
+7,893
+743
+10,700
+
+3,983
+371
+6,205
+
+4,070
+471
+4,367
+
+Total comprehensive Income/ {loss) for the period/ year (9 + 10)
+
+2,539
+
+11,026
+
+1,377
+
+12,402
+
+15,905
+
+18,661
+
+1,438
+(1,956)
+(518)
+
+845
+483
+1,328
+
+251
+560
+811
+
+2,597
+(895)
+1,702
+
+6,688
+3,012
+9,700
+
+10,133
+4,161
+14,294
+
+2,571
+486
+3,057
+
+8,784
+914
+9,698
+
+(107)
+673
+566
+
+9,306
+1,394
+
+10,700
+
+5,484
+721
+6,205
+
+3,563
+804
+4,367
+
+4,009
+(1,470)
+2,539
+6,685
+
+9,629
+1,397
+11,026
+6,685
+
+144
+1,233
+1,377
+6,003
+
+11,903
+499
+12,402
+6,685
+
+12,172
+3,733
+15,905
+6,003
+
+13,696
+4,965
+18,661
+6,003
+2,10,437
+
+{not annualised)
+
+{not annualised)
+0.66
+
+(not annualised)
+0.21
+0.21
+
+(not annualised)
+
+(not annualised)
+
+(annualised)
+
+2.01
+2.01
+
+5.59
+5.58
+
+8.46
+
+Other operating revenue
+Other Income
+
+Total income
+Expenses
+
+a} Cost of materials consumed
+b) Purchases of stock-in-trade
+c) Changi::is in inventories of finished goods, work-in-progress and
+stock-in-trade
+d) Employee benet'lt5 expi::inse
+e} Finance costs
+f) Depreciation and amortisation expense
+g) Other expenses
+
+3
+
+(Unaudited}
+
+3 months ended
+
+32,114
+9,116
+500
+41,730
+1,173
+42,!l03
+
+Sale of services
+
+2
+
+9 months ended
+
+31.12.2024
+
+9 months ended
+31.12.2025
+
+3 months ended
+
+(341)
+
+6,266
+
+2,942
+
+tax(1·2)
+4
+5
+6
+7
+8
+
+Share of loss of Joint venture and associate (r,et)
+Profit before exceptional Items and tax (3+4)
+E,cceptional items {net) [refer note 14]
+Profit/ (loss) before tax (S -t 6)
+Tax e,cpense [refernote 11 and note 14J
+Current tax
+Deferred tax
+Tax expense on removal of indexation benefit
+
+9
+
+Profit/ (los,J for the period/year (7 • 8)
+
+10
+
+Other comprehensive Income/ (loss}
+A (i) Items that will not be reclassified to profit or loss
+(ii) Income tax relating to items that will not be reclassified to profit or loss
+B (i) Items that will be reclassified to profit or loss
+(ii) Income tax relating to items that will be reclassifi1:d to profit or loss
+
+11
+
+Profit/ (loss) attributable to:
+Shareholders of the Company
+Non-controlling interest
+Profit/ (loss) for the period/ year
+Other comprehensive income/ (loss} attributable to:
+Shareholders of the Company
+Non-controlling interest
+Other comprehensive income/ {loss) for the period/ year
+Total comprehensfve income/ (loss} attributable to:
+Sharehold ers of the Company
+Non-controlling interest
+
+12
+13
+14
+
+Total comprehensive income/ (loss) for the period/ year
+Paid-up equity share capital (Face value of Rs. 5 each)
+Reserves i.e. Other equity
+Earnings per share (Face vaue of Rs. S each)
+(a) Basic
+(b) Diluted
+
+See accompanying notes to the financial results
+
+1.08
+1.07
+
+0.65
+
+8.46
+
+
+BIOCON LIMITED
+CIN : L24234KA1978PLC003417 Website: www.biocon.com
+Registered office: 20TH KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE - 560100
+SEGMENT DETAILS OF UNAUDITED CONSOLIDATED RESULTS FOR THE QUARTER AND NINE M ONTHS ENDED DECEMBER 31, 2025
+(Rs. in M Iiiion)
+
+Particulars
+
+Segment revenue
+Generics
+a
+b Biosimilars
+
+3 months ended
+
+3 months ended
+
+3 months ended
+
+9 months ended
+
+9 months ended
+
+Previous Year ended
+
+31.12.2025
+
+30.09.2025
+
+31.12.2024
+
+31.12.2025
+
+31.12.2024
+
+31.03.2025
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Unaudited)
+
+(Audited)
+
+CRDMO*
+C
+Total
+Less: lnter~segment revenue
+
+8,513
+24,967
+9,171
+42,651
+(921)
+
+7,736
+27,211
+9,106
+44,053
+(1,098)
+
+6,864
+22,890
+9,437
+39,191
+(977)
+
+23,214
+76,756
+27,022
+1,26,992
+(2,888)
+1,24,104
+
+19,700
+65,540
+26,244
+1,11,484
+(3,037)
+1}08,447
+
+Net sales/ Income from continuing operations
+
+41,730
+
+42,955
+
+38,214
+
+1,52,617
+
+a
+
+Profit before tax from each segment
+Generics
+b Biosimilars
+CRDMO*
+C.
+
+(229)
+1,117
+990
+
+(326)
+1,119
+852
+
+(135)
+7
+1,808
+
+(1,225 )
+3,368
+2,855
+
+(53)
+10,485
+3,874
+
+1,755
+10,876
+6,279
+
+Total
+
+1,878
+
+Less:
+Other un-allocable ex penditure/ (income) net
+Profit before tax and exceptional items
+
+(378)
+
+1,645
+
+1,680
+
+4,998
+
+14,306
+
+18,910
+
+(187)
+
+302
+
+(231)
+
+1,069
+
+1,009
+
+2,256
+
+l,832
+
+l,378
+
+5,229
+
+13,237
+
+17,901
+
+87,422
+4,61,061
+65,421
+6,13,904
+13,694
+
+78,8 36
+
+Unallocable
+
+90,662
+4,62,308
+64,652
+6,17,622
+17,913
+
+4,47,148
+60,866
+5,86,850
+(6,708)
+
+90,662
+4,62,308
+64,652
+6,17,622
+17,913
+
+78,836
+4,47,148
+60,866
+5,86,850
+(6,708)
+
+83,271
+4,44,400
+67,959
+5,95,630
+(7,657)
+
+Total segment assets
+
+6,35,535
+
+6,27,598
+
+5,80,142
+
+6,35,535
+
+5,80,142
+
+5,87,973
+
+36,334
+2,19,988
+16,990
+2,73,312
+22,082
+
+33,503
+2,29,269
+18,072
+2,80,844
+16,202
+
+26,872
+2,47,176
+16,045
+2,90,093
+14,393
+
+36,334
+2,19,988
+16,990
+2,73,312
+22,082
+
+26,872
+2,47,176
+16,045
+2,90,093
+14,393
+
+31,004
+2,39,121
+20,691
+2,90,816
+20,032
+
+2,95,394
+
+2,97,046
+
+3,04,486
+
+2,95,394
+
+3,04,486
+
+3,10,848
+
+Unallocable
+
+54,328
+2,42,320
+47,662
+3,44,310
+(4,169)
+
+53,919
+2,31,792
+47,349
+3,33,060
+(2,508)
+
+51,964
+1,99,972
+44,821
+2,96,757
+(21,101)
+
+54,328
+2,42,320
+47,662
+3,44,310
+(4,169)
+
+51,964
+1,99,972
+44,821
+2,96,757
+(21,101)
+
+52,267
+2,05,279
+47,268
+3,04,814
+(27,689)
+
+Total capital employed
+
+3,40,141
+
+3,30,552
+
+2,75,656
+
+3,40,141
+
+2,75,656
+
+2,77,125
+
+30,175
+90,174
+36,424
+1,56,773
+(4,156)
+
+Segment results
+
+Segm ent assets
+Generics
+b Bioslmilars
+CRDMO•
+C
+
+•
+
+d
+
+Segment liabilities
+a Generics
+b Biosimilars
+c. CRDMO*
+d Unallocable
+Total segment liabilities
+Capital employed
+a Generics
+b Biosimilars
+CRDMO*
+C
+d
+
+*'Research services' is renamed as Contract Research, Development, and Manufacturing Organisation (CRDMO) to align with Syngene's current business model as reviewed by the Chief
+Operating Decision Maker (CODM).
+
+
+BIOCON LIMITED
+CIN: L24Z34KA1978PLC003417 Website: www.biocon.com
+Reais~red office: 2oth KM HOSUR ROAD, ELECTRONIC CITY P.O., BANGALORE - 560 100
+Annexure to Standalone financial results
+Additional disclosure as per regulation 52(4) of Securities and Exchange Board of India (Listing Obligations and Disclosure R~u irements) Rtf:ulations, 2015
+
+Particulars
+
+N~ worth
+Debenture redemp ho n reserve
+Debt equity ratio fin times}
+Debt servke coverage ratio (in times),.,
+Interest service coveri1I11: ratio {in tim es),.,
+Current ratio fin times)
+long term debt to working C..Jprtu l (in times)
+Bad debt$ to Account receivablM r~tfo (in trmes)
+Current liability ratio (in times)
+llatal cfebb to total assets (in times)
+Debtors turnover (in times) (Annualized)
+Inventory turnover (in times) (Annuallt ed)
+Operating margin (in%)
+Net profit m•rJin (in%)
+
+Rqulation No.
+
+3 months ended
+31.12.2025
+
+3 months l:!!nded
+30.09.2025
+
+52(41(1)
+52(4)(eJ
+
+1,59,207
+
+1,59,831
+
+52(4J(al
+52(4)(b)
+52(4)(c)
+52(4)(i)
+52(4)U)
+52(4)(k)
+52(4)(1)
+
+0.21
+41.55
+S3.54
+1.15
+121
+0.00
+0.9~
+0.16
+2.93
+115
+23.84%
+16.06%
+
+0.16
+0 30
+70.58
+1.22
+2.76
+·0.01
+0.94
+0.13
+3.06
+1.17
+32.01%
+
+52(4J(m)
+52(4)(n)
+52(41(0)
+52(4l(p)
+52(4)(q)
+
+11.95%
+
+3 months ended
+31.12.2024
+
+9 months ended
+31.12.2025
+
+1,14,84:E
+
+1.59,207
+
+0.20
+46.66
+
+Sfi S2
+
+0.21
+0.33
+45 .85
+
+2.02
+2.04
+0 00
+0.31
+
+1.21
+--0.00
+0.95
+
+0.15
+2.45
+1.31
+16.97%
+·0.64~
+
+(Rs in Mill/on eKcept per equitv share data)
+9 months ended
+Previous Year
+31.12.2024
+ended 31.03.2025
+
+us
+
+0.16
+2.61
+1.18
+
+2Hl!I,
+9 4-4'M,
+
+Ratios have been computed as follows;
+(a) Detlt equity ratio: Totaf debt/ Net worth
+Total debt: Loni lctm borrowings (ind. cu rrl!fll matumlf' s of lon1 term borrowinpl• 5t19rt term borrowlflll
+Net worth· Equity share capfb11I f- Other equity
+(b) Debt service covera1e ratio: (EBIDTA aher tax payments)/ (1ntt feit payments on debt and lease + Pnm-.ipal repayments of Ion& term debt including lease payment).
+
+(c) Interest service covcniiae ratio: (EBIOTA .ilte:r tax payments)/ (Interest payments on debt and lease)
+(d) Current llltlo : Current assets/ Current liabilities
+(e) I..Ol'IC term debt to wotkU'I capital: Lena term debt (incl. current maturities of horrowll'll,S,}/ Net working capital
+Net Working capllil : current assets - current liabilities {eKcl. current maturities of long term borrowings)
+(f) Bad debts to Account receivables ratio: Allowances for credit loss/ Gross trade receivables
+(g} Current liability ratio: Current liabflities / Total liabllltles (excl. total equity)
+{h) Total debts to total assets: Total borrowing/ Total iilssets
+Total borrowing . long term borrowings+ current maturities of Ion& term Lor rowings+ short term borrowings
+(I} Debtors turnover : Net sales/ Average trade receivables
+
+j) Inventory turnover: COGS/ Averc1ge Inventories
+COGS= Cost of material consumed+ Purchases of stod::-in-trade + Changes in Inventories of finished goods, work-in-progress and stock-in-trade
+(k) Operating margin% : Profit before tax, interest, depreciation and exceptional items:/ Revenue from operations
+(I) Net profit margin%: Net Profit before exceptional items and tax thereon/ Total lnc;ome
+Nd: profit includ<':-l dividend received from subsidiaries.
+,., Annualised based on trailing quarter,;:
+
+1,14,846
+
+1,15,262
+
+0.20
+
+0.25
+28.Sl
+33 .52
+1.25
+4.74
+0.01
+0.42
+0.18
+2.39
+1.37
+18.64%
+2.38"
+
+22.34
+
+24.94
+2.02
+2.04
+0.00
+0.31
+0.15
+2.21
+1.28
+18.35%
+1.0•t"4
+
+
+BIOCON LIMITED
+
+aN: L24234KA1978PlCODl417 Website: WWW biocon.com
+Rqhtt!fl!'d office: 20th KM HOSUR ROAD, ELECTRONIC OTY P.a .• BANGALORE - 560 100
+
+Annexure to Consotidlled financial resu lts
+Additional disclosure as per ff11,1 1ation 52(4) of Securit ies and Exch1n1e Board of India (Listing Obll1atfans and Disclosure Requirements} Regulations, 2015
+
+Particulars
+
+Net worth
+Debenture redernptJon reserve
+Debt equity ratio (in times)
+Debt service coverage ratio (in times)"
+Interest service coverage ratio (in times)"
+Current ratio (in times)
+Lor1• term debt to working capital (1n times)
+Bad debts to Account rec@ivables ratio (in tlmes)
+Current liability ratio (in times)
+Total debts to total assets {in ttmes)
+Debtors turnover (in times) (Annualized)
+Inventory turnover (in times) (Annualized)
+Opefillt\n1 m.np" (m % )
+Net profit margin (in %)
+
+Regulation No.
+
+52(4)11)
+52[4)(e)
+52(4)(•1
+52(4)1b)
+52(4)1c)
+52[4)(i)
+52(4)0)
+Sl(4)(k)
+52(4)11)
+52(4l(m)
+52(4)1n)
+52(41(0)
+52[4)1p)
+52(4)(q)
+
+3 months ended
+.U.12.toU
+
+3 month$ ended
+30M ZOZS
+
+), 40,141
+0.50
+259
+2.93
+1.13
+
+] 24
+0.00
+0.57
+0.27
+2.87
+0.92
+22.78%
+$ 26%
+
+3 months ended
+31.12.2024
+
+9 month$ ended
+:JLU.2025
+
+3,30,5S2
+
+2. 75.65G
+1,311
+
+3.40,141
+
+0.48
+1.01
+
+0.63
+
+4.29
+
+0.50
+1.20
+
+14.15
+1.16
+2.55
+-0.00
+0.55
+0.25
+3.02
+1.07
+21.61%
+4.26"
+
+5.1.1
+
+3.88
+
+1.20
+5.00
+0.00
+0.43
+0.30
+2.45
+1.09
+20.5!1'
+3.6.1"
+
+1.13
+3. 24
+0 00
+0.57
+
+an
+2.85
+L06
+21.96%
+
+4. 120<
+
+Ratios llave b.,n computed as follows:
+la} Debt equity ratio: Total debt/ Net worth
+Total debt· Long term borf01Nlnis (ind current matuntlH of long term b.or rowingsl, Shon term borrowings
+Net worth · Equitv share capital 1- 0th~~ equity
+(b) Debt Hrvica cov11rqe r•llo: !EBIDTA after tax payment-=)/ (lr•IPO!st payments on debt aod lease • Principal ttp.1ymeT1h of looa tenn debt indudine lease payment}
+(c) Interest servic• coverage ratio: (EBIDTA .ifter tax payments)/ {Interest ~ymenl'5a on debt and lease)
+(d) Cummt Ratio: Current assets/ Current liabilities
+
+(e) Long term debt toworlcln,; capital: Long term debt (incl c1.1rtM1i maturities of borrowings}/ Net workins c.apltal
+Net Working capital : current assets - current liabilities (exd. current maturities of lori& term borrow11,.-i;I
+(f] Sad dabts to Account receivables ratio: Allowances for credit loss/ Gross trade recef\lables
+(g) Current liability ratio; Current llilblHtles / Tota! liabilities (excl. total equity)
+(h) Total debts to total assets: Total borrowing/ rot.11 assets
+Total borrowing: longto11tn1 borrowings+ current maturities of long tenn borrowings+ short term borrowings
+(i) Debtors turnover : Net sales/ Average trade receivables
+j) Inventory turnover. COGS/ Ave~ee Inventories
+COGS= Cost of material consumed+ Purchases of stodl: in-trade+ C!lan1u in inventories of finished goods, work-in•p!Olf~S and stock-in-trade
+
+(k) Operating margin%: Profit before tax, interest, depreciation and exceptional items/ Revenue from operations
+(I) Net profit margfll"-! Net Profit before exceptional items and tax thereon/ Total Income
+"Annualised based on trailing quarters
+
+(Rs in Million except PB eauity share data)
+9 months ended
+Previous Vear
+ended 31.03.2025
+31.12.2024
+
+2,75,656
+1,311
+0.63
+2.84
+6.39
+1.20
+5.10
+0.00
+0.43
+D.30
+2.30
+0.99
+30.D6%
+
+11.02%
+
+2,77,125
+1,311
+0.64
+3.U
+6.62
+1.14
+3.22
+0.01
+0.46
+0.30
+2.60
+1.05
+28.66'4
+11.73%
+
+
+Biocon Limited
+Unaudited financial results for the quarter and nine months ended December 31, 2025
+Notes:
+
+1.
+
+The unaudited standalone and consolidated financial results for the quarter and nine months ended December
+31, 2025 in respect of Biocon Limited ('the Company') have been reviewed by the Audit Committee and
+approved by the Board of Directors of the Company at their meetings held on February 11, 2026 and February
+12, 2026 respectively. The above results have been subjected to limited review by the statutory auditors of the
+Company. The reports of the statutory auditors are unqualified.
+
+2.
+
+These financial results have been prepared in accordance with Indian Accounting Standards ('Ind AS') prescribed
+under Section 133 of the Companies Act, 2013 and other accounting principles generally accepted in India and
+in terms of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.
+
+3.
+
+The consolidated financial results include the financial results of the Company and its subsidiaries as follows:
+
+i.
+ii.
+iii.
+
+Syngene International Limited ('Syngene')
+Biocon Biologics Limited ('BBL')
+Biocon Pharma Limited ('BPL')
+
+iv.
+v.
+
+Biocon Academy
+Biocon SA
+
+~vii.
+viii.
+ix.
+x.
+xi.
+xii.
+xiii.
+xiv.
+xv.
+xvi.
+xvii.
+xviii.
+xix.
+xx.
+xxi.
+xxii.
+xxiii.
+xxiv.
+xxv.
+xxvi.
+xxvii.
+xxviii.
+xxix.
+xxx.
+xxxi.
+xxxii.
+xxxiii.
+xxxiv.
+XXXV.
+
+xxxvi.
+xxxvii.
+xxxviii.
+xxxix.
+
+moconSDN.BHD
+Biocon FZ LLC
+Biocon Biologics International Limited (formerly known as Biocon Biologics UK Limited)
+Biocon Pharma Inc.
+Biocon Biologics Healthcare Malaysia SON. BHD
+Biocon Pharma Ireland Limited
+Biocon Pharma UK Limited
+Biocon Biosphere Limited
+Biocon Biologics Inc.
+Biocon Biologics Do Brasil LTDA
+Biocon Biologics FZ-LLC
+Biocon Pharma Malta Limited
+Biocon Pharma Malta I Limited
+Syngene USA Inc.
+Syngene Manufacturing Solutions Limited
+Syngene Scientific Solutions Limited
+Biosimilar Collaborations Ireland Limited
+Biocon Biologics UK PLC (formerly known as Biosimilars Newco Limited)
+Biocon Biologics Canada Inc.
+Biocon Biologics Germany GmbH
+Biocon Biologics France S.A.S
+Biocon Biologics Spain, S.L.U
+Biocon Biologics Switzerland AG
+Biocon Biologics Belgium BV
+Biocon Biologics Finland OY
+Biocon Generics Inc.
+Biocon Biologics Morocco S.A.R.L.A.U
+Biocon Biologics Greece Single Members P.C.
+Biocon Biologics South Africa (PTY) Ltd
+Biocon Biologics (Thailand) Co. Ltd
+Biocon Biologics Philippines Inc
+Biocon Biologics Italy S.R.L
+Biocon Biologics Croatia LLC
+Biocon Biologics Global PLC
+
+
+Biocon Limited
+Unaudited financial results for the quarter and nine months ended December 31, 2025
+Biocon Limited and its subsidiaries are collectively referred to as 'the Group'. In addition to the above, the
+consolidated financial results also include the financial results in respect of Biocon Indi a Limited Employee
+Welfare Trust, Biocon Limited Employees Welfare Trust, Biocon Biologics Employees Welfare Trust and Syngene
+Em ployees Welfare Trust. The Company has also accounted for its share of interest in the joint venture i.e.
+NeoBiocon FZ-LLC ('JV') and share of investment in the associate i.e. latrica Inc., under the equity method.
+4.
+
+During the quarter ended June 30, 2025, the Company raised funds by way of allotment of 136,363,635 Equity
+Shares of face value Rs. 5 each at a price of Rs. 330 per Equity Share under 'Qualified Institutional Placement'
+for an aggregate amount of Rs. 45,000 million, to meet certain financial commitments and/ or debt obligations
+of the Company and its subsidiary, BBL and/ or for other purposes as mentioned in the Placement Document
+('PD'). Out of these proceeds:
+(a) The Company acquired 1,125 outstanding Optionally Convertible Debentures ('OCDs') issued by BBL from
+Goldman Sachs India AIF Scheme- 1 and Goldman Sachs India Alternative Investment Trust AIF Scheme - 2
+for an aggregate value of Rs. 16,980 million with a right to convert into equity shares or redeem at maturity.
+Further the Company has issued a commitment letter effective July 1, 2025, committing to exercise its right
+to convert OCDs on maturity as per the terms of Subscription Agreement.
+(b) During the quarter ended September 30, 2025, the Company has settled Commercial paper ('CP') for an
+aggregate value of Rs. 5,988 million; and
+(c) During the quarter ended December 31, 2025, the Company has made early and full redemption of the
+107,000 unlisted, secured, rated, redeemable, Non-convertible Debentures ('NCDs') that were issued to
+Kotak Special Situations Fund for an aggregate value to Rs. 15,090 million.
+
+5.
+
+On November 11, 2025, the Company entered into Debenture Purchase Agreement ('DPA') with ESOF Ill
+Investment Fund and EAAA India Alternatives Limited (collectively referred to as 'Edelweiss') for acquisition of
+10,686,044 unlisted, secured, Compulsorily Convertible Debentures ('CCDs') of BBL for an aggregate value of
+Rs. 4,735 million against the gross obligation of Rs. 3,915 million. Resultant loss of Rs. 820 million is accounted
+under 'other equity' in line with accounting policy choice at time of initial recognition. The consideration towards
+the acquisition of these CCDs was subsequently paid on January 05, 2026 by the Company.
+
+6.
+
+On December 6, 2025, the Company entered into Share Swap Agreement ('SSA') with Tata Capital Growth Fund
+II and Activ Pine LLP for purchase of 33,957,771 equity shares in BBL against 23,863,769 equity shares of the
+Company on a preferential basis for consideration other than cash, aggregating up to Rs. 9,683 million against
+the gross obligation of Rs. 10,493 million. Resultant gain of Rs. 810 million is accounted under "other equity" in
+line with accounting policy choice at time of initial recognition. The preferential allotment of these shares were
+made subsequently on January 05, 2026 by the Company.
+
+7.
+
+During the quarter ended September 30, 2025, Syngene has written off Rs. 277 million as unrecoverable
+balances in receivables due to cumulative changes in foreign exchange rates. Consequent tax impact of Rs. 75
+million is included within tax expense for the period.
+
+8.
+
+During the quarter ended June 30, 2025, Syngene has been granted license for one of the drug substance
+production line and bonded warehouse license at biologics manufacturing facility, Bangalore, India which was
+acquired from Stelis Biopharma Limited and was recorded as capital work in progress in earlier years.
+Consequently, Rs. 3,438 million has been capitalized as property, plant and equipment which has resulted in a
+higher depreciation of Rs. 70 million and Rs. 176 million during the quarter and nine months ended December
+31, 2025, respectively.
+
+9.
+
+In April 2024, BBL sold to Eris Lifesciences ('Eris') its business in relation to Metabolics, Oncology, and Critical
+Care products in India for a consideration of Rs. 12,420 million. Further, BBL signed a 10 year supply agreement
+with Eris. This resulted in a gain of Rs. 10,573 million after taking into account working capital and expenses
+incurred towards commercial collaboration and the same is disclosed under "Other income" in the consolidated
+financial results for nine months ended December 31, 2024 and for the year ended NJ.arch 31, 2025.
+
+
+Biocon Limited
+Unaudited financial results for the quarter and nine months ended December 31, 2025
+10. During the quarter ended December 31, 2024, Biocon Biologics Global PLC, one of the subsidiary of BBL, raised
+Rs . 67,056 million by issue of senior secured Notes ('Bonds'), listed on Singapore Stock Exchange. The
+transaction was settled on October 9, 2024. Additionally, BBL raised Rs. 26,705 million under a commitment
+agreement for a new syndicate debt facility. The proceeds from the Bonds, along with the new syndicate debt
+facility, have been utilized to substantially refinance existing debt of USD 1.1 billion (Rs. 92,202 million). This
+refi nancing has enhanced the Group's liquidity profile, provide financial flexibility, and create opportunities for
+reinvestment in the business.
+11. During the quarter ended December 31 2024, Syngene has opted for "Vivad se Vishwas Scheme, 2024" which
+has resulted in settlement of pending TDS assessments related to non-resident tax deductions. Consequent to
+this, tax expense under the scheme amounting to Rs. 95 million was recorded under the head "Current tax".
+12. During the year ended 31 March 2025, Syngene USA Inc. {wholly-owned subsidiary of Syngene) acquired
+biologics site in the USA fitted with multiple monoclonal antibody (mAbs) manufacturing lines from Emergent
+Manufacturing Operations Baltimore, LLC (a subsid iary of Emergent BioSolutions Inc.) and accounted for this
+transaction as an 'asset acquisition' under Ind AS 103.
+The costs incurred till March 31, 2025 eligible for capitalization were accumulated as Capital Work in Progress
+amounting to Rs. 2,981 million. An amount of Rs. 311 million has been capitalized as Land. These amounts
+include pre-transaction costs of Rs. 101 million. During the quarter and nine months ended December 31, 2025,
+additional pre-operating cost of Rs. 139 million and Rs. 304 million respectively, eligible for capitalisation has
+been accumulated under capital work in progress.
+
+13. Events after the reporting period:
+a. On January 14, 2026, the Company has raised funds by way of allotment of 112,664,585 Equity Shares of face
+value Rs. 5 each at a price of Rs. 368.35 per Equity Share under 'Qualified Institutional Placement' for an
+aggregate amount of Rs. 41,500 million, to acquire BBL equity shares from Mylan Inc., acquisition of CCDs of BBL
+from Edelweiss and general corporate purposes.
+b. The Company has made early and full redemption of the 50,000 unlisted, secured, rated, redeemable NonConvertible Debentures ('NCDs') of face value Rs. 100,000 each for an aggregate value of Rs. 6,795 million, issued
+and allotted by the Company on May 19, 2023, subsequent to the approval by its Board of Directors in their
+meeting held on November 11, 2025. Accordingly, these NCDs were redeemed on January OS, 2026.
+c. Pursuant to the Board approval, the Company has issued and allotted the Commercial Paper of Rs . 18,000 million
+on December 22, 2025 and of Rs. 2,000 million on January 02, 2026. The Company has made early and full
+redemption of the Commercial Paper on January 30, 2026.
+d. On January 05, 2026, the Company has acquired 112,860,496 equity shares of BBL from Serum Institute Life
+Sciences Private Limited, Tata Capital Growth Fund II and Activ Pine LLP and issued 79,312,534 equity shares of
+the Company on a preferential basis for consideration other than cash, aggregating up to Rs. 32,183 million
+subsequent to the approval by its Board of Directors in their meeting held on December 06, 2025 and
+shareholders meeting at the Extraordinary General Meeting ("EGM") held on December 31, 2025.
+
+14. Exceptional items:
+a. On November 21, 2025, the Government of India notified the four Labour Codes consolidating 29 existing labour
+laws. The Group has assessed and disclosed the incremental impact of these changes on the basis of current
+assessment based on the best information available, consistent with the guidance provided by the Institute of
+Chartered Accountants of India. The Company has presented such incremental impact consisting of gratuity of
+Rs. 491 million and Rs. 1,748 million in the standalone and consolidated financial results respectively primarily
+arose due to change in "wage" definition for the quarter ended December 31, 2025. The associated tax impact
+of Rs. 70 million and Rs. 270 million in the standalone and consolidated financial results respei tively is included
+1
+in the tax expense for the period.
+~
+
+cf
+
+~r ~
+~~
+'VGALO :-c,
+
+
+Biocon Limited
+Unaudited financial results for the quarter and nine months ended December 31, 2025
+b. On December 6, 2025, the Company entered into Share Swap and Share Purchase Agreement (SSPA) with Mylan
+Inc for purchase of 292,726,366 equity shares in BBL for consideration of Rs. 73,560 million (USO 815 million).
+Pursuant to above, the Company remeasured the derivative liability recorded earlier in relation to investment
+in BBL by Mylan Inc and recorded a gain of Rs. 1,842 million as an "exceptional item" in the consolidated financial
+results for the quarter ended December 31, 2025. The Company obtained shareholder's approval at the Extra
+Ordinary General Meeting (EGM) held on December 31, 2025, the Company and accordingly (i) issued
+91,967,019 equity shares on a preferential basis at a consideration other than cash aggregating to Rs. 37,318
+million (USO 415 million) to acquire 149,056,984 equity shares of BBL on January 05, 2026; and (ii) paid cash
+consideration of Rs. 18,053 million {USO 200 million) and Rs. 18,189 million (USO 200 million) on January 05,
+2026 and January 21, 2026 respectively to acquire 143,669,382 equity shares of BBL.
+
+c. In connection with various transactions referred to note 13(b) to note 13{d) above, the Company has incurred
+cost towards advisory and legal consultancy, premium on hedges, bridge financing cost, differential finance cost
+for IRR true up, settlement of receivables etc. for an aggregate value of Rs. 1,455 million and Rs. 2,216 million as
+an "exceptional item" in the standalone and consolidated financial results respectively for the quarter ended
+December 31, 2025. The associated tax impact of Rs. 183 million and Rs. 290 million is included in the tax expense
+for the period in the standalone and consolidated financial results.
+d. During quarter ended December 31, 2025, BBL has recorded an exceptional provision of Rs 762 million for
+inventories in respect of certain molecules in line with its assessment to liquidate these inventories. The
+provision recorded on these inventories, being high value and non-recurring, same is classified as an exceptional
+item. The associated tax impact of Rs. 107 million is included in the tax expense for the period.
+e. During year ended Ma rch 31, 2025, one of the subsidiary of Biocon Pharma Limited ('BPL'), pursuant to the
+uncertainty in commercialization of product in certain territories, recorded an impairment of the carrying value
+of the intangible asset amounting to Rs. 86 million.
+f.
+
+During the year ended March 31, 2025, the Group invested Rs. 75 million in the equity shares issued by Indian
+Foundation for Quality Management ('IFQM') a Company incorporated under section 8 of the Companies Act,
+2013. As at March 31, 2025, the Group has fair valued such investment and has recorded fair value charge of Rs.
+75 million.
+During quarter ended December 31, 2025, the Group invested Rs. 50 million in the equity shares issued by IFQM
+a Company incorporated under section 8 of the Companies Act, 2013. The Group has fair valued such investment
+and has recorded fair value charge of Rs. 17 million and Rs. 50 million in the standalone and consolidated
+financial results respectively.
+
+g. During the quarter ended December 31, 2024, the Company sold 8,000,000 equity shares of Rs. 10 each of
+Syngene in the open market. The gain arising from sale of aforesaid equity shares amounting to Rs. 6,075 million
+has been recorded as an exceptional item in the standalone financial results. Consequent tax impact of Rs. 261
+million is included within tax expense for the year.
+The sale proceeds arising from such sale of aforesaid equity shares net of amount transferred to Non-Controlling
+Interest account, has been accounted in other equity in the consolidated financial results since there is no loss
+of control.
+h. During the year ended March 31, 2024, one of the subsidiaries of BBL recorded provision for inventory for a
+product due to its low demand and consequentially lower probability of liquidation under the head 'Exceptional
+Item'. Subsequently, during the quarter ended December 31, 2024 and year ended March 31, 2025, BBL
+liquidated such inventory amounting to Rs. 260 million and Rs. 885 million, respectively. Hence, the related
+provision has been reversed and reflected as an exceptional item in the consolidated financial results.
+Consequential tax impact of Rs. 30 million and Rs. 147 million is included within tax expense for the respective
+period/ year.
+
+
+Biocon Limited
+Unaudited financial results for the quarter and nine months ended December 31, 2025
+i.
+
+Pursuant to repayment of the acquisition debt, as referred to in note 8 above, BBL had written off the
+unamortized portion of debt raise cost amounting to Rs. 1,216 million pertaining to acquisition debt pursuant to
+pre-payment of such debt. This has been recorded as an expense in the consolidated financial results for the
+quarter ended December 31, 2024. Consequent tax impact of Rs. 304 million is included within tax expense for
+the period.
+
+j.
+
+During the quarter ended December 31, 2024, BBL had received Rs. 2,518 million towards working capital under
+the existing arrangements, which was recorded at fair value of Rs. 1,382 million having regard to the timing and
+profitability of recovery. The resulting difference of Rs. 1,136 million is recorded as a gain in the consolidated
+financial results. Consequential tax impact of Rs. 284 million is included within tax expense.
+
+k. During the quarter ended September 30, 2025, one of the subsidiaries of BBL has reached settlement on a
+litigation matter with one of its customers for a settlement amount of Rs. 291 million and disclosed under
+"exceptional item". Pursuant to settlement, the amount disclosed under "other expenses" pertaining to previous
+quarter has been re-classified to "exceptional item". The associated tax impact of Rs. 73 million is included in
+the tax expense for the period.
+I.
+
+During the year ended March 31, 2025, Syngene received its final claim of Rs. 320 million from the insurance
+company for the loss of fixed assets in fire incident on December 12, 2016.
+
+Bangalore,
+February 12, 2026
+
+For and on behalf of the Board of Directors of Biocon Limited
+KIRAN
+D;gitally sigoedby
+KIRAN MAZUMDAR
+MAZUMD SHAW
+Date: 2026.02.12
+AR SHAW , s,31,22+os·ao·
+Kiran Mazumdar-Shaw
+Executive Chairperson
+DIN: 00347229
+
+I
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+Embassy Golf Links Business Park
+Pebble Beach, B Block, 3rd Floor
+No. 13/2, off Intermediate Ring Road
+Bengaluru - 560 071, India
+Telephone: +91 80 4682 3000
+Fax: +91 80 4682 3999
+
+Limited Review Report on unaudited standalone financial results of Biocon Limited
+for the quarter ended 31 December 2025 and year to date results for the period from
+01 April 2025 to 31 December 2025 pursuant to Regulation 33 and Regulation 52(4)
+of Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended, as prescribed in Securities and
+Exchange Board of India operational circular SEBI/HO/DDHS/P/CIR/2021/613 dated
+10 August 2021, as amended
+To the Board of Directors of Biocon Limited
+1.
+
+We have reviewed the accompanying Statement of unaudited standalone financial results of Biocon
+Limited (hereinafter referred to as “the Company”) for the quarter ended 31 December 2025 and year
+to date results for the period from 01 April 2025 to 31 December 2025 (“the Statement”) (in which are
+included interim financial information of its Employee Welfare Trusts).
+
+2.
+
+This Statement, which is the responsibility of the Company’s management and approved by its Board
+of Directors, has been prepared in accordance with the recognition and measurement principles laid
+down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34”), prescribed under
+Section 133 of the Companies Act, 2013, and other accounting principles generally accepted in India
+and in compliance with Regulation 33 and Regulation 52(4) of the Securities and Exchange Board of
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended (“Listing
+Regulations”), as prescribed in Securities and Exchange Board of India operational circular
+SEBI/HO/DDHS/P/CIR/2021/613 dated 10 August 2021, as amended. Our responsibility is to issue a
+report on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion.
+
+4.
+
+Based on our review conducted as above, nothing has come to our attention that causes us to believe
+that the accompanying Statement, prepared in accordance with the recognition and measurement
+principles laid down in the aforesaid Indian Accounting Standard and other accounting principles
+generally accepted in India, has not disclosed the information required to be disclosed in terms of
+Regulation 33 and Regulation 52(4) of the Listing Regulations, as prescribed in Securities and
+Exchange Board of India operational circular SEBI/HO/DDHS/P/CIR/2021/613 dated 10 August 2021,
+as amended, including the manner in which it is to be disclosed, or that it contains any material
+
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+Page 1 of 2
+
+
+B S R & Co. LLP
+Limited Review Report (Continued)
+Biocon Limited
+misstatement.
+
+For B S R & Co. LLP
+Chartered Accountants
+Firm’s Registration No.:101248W/W-100022
+
+Sudhir Soni
+Partner
+Mumbai
+12 February 2026
+
+Membership No.: 041870
+UDIN:26041870BWCBRI5999
+
+Page 2 of 2
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+Embassy Golf Links Business Park
+Pebble Beach, B Block, 3rd Floor
+No. 13/2, off Intermediate Ring Road
+Bengaluru - 560 071, India
+Telephone: +91 80 4682 3000
+Fax: +91 80 4682 3999
+
+Limited Review Report on unaudited consolidated financial results of Biocon Limited
+for the quarter ended 31 December 2025 and year to date results for the period from
+01 April 2025 to 31 December 2025 pursuant to Regulation 33 and Regulation 52(4)
+of Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, as amended, as prescribed in Securities and
+Exchange Board of India operational circular SEBI/HO/DDHS/P/CIR/2021/613 dated
+10 August 2021, as amended
+To the Board of Directors of Biocon Limited
+1.
+
+We have reviewed the accompanying Statement of unaudited consolidated financial results of Biocon
+Limited (hereinafter referred to as “the Parent”), and its subsidiaries (the Parent and its subsidiaries
+together referred to as “the Group”) and its share of the net loss after tax and total comprehensive
+loss of its associate and joint venture for the quarter ended 31 December 2025 and year to date
+results for the period from 01 April 2025 to 31 December 2025 (“the Statement”), being submitted by
+the Parent pursuant to the requirements of Regulation 33 and Regulation 52(4) of the Securities and
+Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ("Listing Regulations"), as prescribed in Securities and Exchange Board of India operational
+circular SEBI/HO/DDHS/P/CIR/2021/613 dated 10 August 2021, as amended.
+
+2.
+
+This Statement, which is the responsibility of the Parent’s management and approved by the Parent’s
+Board of Directors, has been prepared in accordance with the recognition and measurement
+principles laid down in Indian Accounting Standard 34 “Interim Financial Reporting” (“Ind AS 34”),
+prescribed under Section 133 of the Companies Act, 2013, and other accounting principles generally
+accepted in India and in compliance with Regulation 33 and Regulation 52(4) of the Listing
+Regulations, as prescribed in Securities and Exchange Board of India operational circular
+SEBI/HO/DDHS/P/CIR/2021/613 dated 10 August 2021, as amended. Our responsibility is to express
+a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements
+(SRE) 2410 “Review of Interim Financial Information Performed by the Independent Auditor of the
+Entity”, issued by the Institute of Chartered Accountants of India. A review of interim financial
+information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope
+than an audit conducted in accordance with Standards on Auditing and consequently does not enable
+us to obtain assurance that we would become aware of all significant matters that might be identified
+in an audit. Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the Securities and Exchange
+Board of India under Regulation 33(8) of the Listing Regulations, to the extent applicable.
+
+4.
+
+The Statement includes the results of the following entities:
+
+i. Biocon Limited
+ii. Syngene International Limited
+iii. Biocon Biologics Limited
+iv. Biocon Biologics International Limited (formerly known as Biocon Biologics UK Limited)
+v. Biocon Pharma Limited
+vi. Biocon Academy
+vii. Biocon SA
+viii. Biocon SDN. BHD
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP (a
+Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14, 2013
+
+14th Floor, Central B Wing and North C Wing, Nesco IT Park 4, Nesco
+Center, Western Express Highway, Goregaon (East), Mumbai - 400063
+
+Page 1 of 3
+
+

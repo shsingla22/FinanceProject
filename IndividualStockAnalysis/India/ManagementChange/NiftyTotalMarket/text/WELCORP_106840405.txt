@@ -1,0 +1,92 @@
+--- CIM_2285_WebXMLFile_20261102_185256350_1.xml (the exchange's structured disclosure) ---
+NSESymbol: WELCORP ; Name Of The Company: WELSPUN CORP LIMITED ; Scrip Code: 532144 ; MSEISymbol: NOTLISTED ; ISIN: INE191B01025 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-02 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-02 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Management Personnel ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Rakesh Mehta ; Effective Date Of Reason Of Change: 2026-11-02 ; Salutation: Mr. ; Name Of The Person: Rakesh Mehta ; Designation Of Person: Senior Management Personnel ; Date On Which The Resignation Letter Was Received: 2026-05-22 ; Effective Date Of Resignation: 2026-11-02 ; Reason Of Resignation In Brief: Personal reason
+
+--- CIMG_532144_02112026185237_2.pdf ---
+WCL/SEC/2026
+To,
+BSE Ltd.
+Listing Department,
+P. J. Towers, Dalal Street,
+Mumbai – 400 001.
+(Scrip Code: Equity - 532144),
+(NCD – 973309)
+
+November 2, 2026
+
+National Stock Exchange of India Ltd.
+Exchange Plaza,
+Bandra-Kurla Complex,
+Bandra (E), Mumbai – 400 051.
+(Symbol: WELCORP, Series EQ)
+
+Dear Sirs/ Madam,
+Sub: Resignation of Senior Management Personnel (SMP) of the Company
+Ref.: a. Regulation 30 read with Para A (7) of Part A of Schedule III and other applicable
+provisions of the SEBI (Listing Obligations & Disclosure Requirements)
+Regulations, 2015, as amended from time to time ('SEBI Listing Regulations')
+b. ISIN: INE191B01025
+In terms of the SEBI Listing Regulations, we wish to inform you that Mr. Rakesh Mehta, Chief
+Human Resource Officer (CHRO) and Senior Management Personnel (SMP) of the
+Company, has resigned from the said position effective from the close of business hours on
+November 2, 2026, due to personal reason.
+The requisite details as required under SEBI Listing Regulations, read with SEBI Master
+Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 are
+enclosed herewith as Annexure A. A copy of the resignation letter is also enclosed for your
+reference.
+Kindly take the same on record, please.
+Thanking you.
+Yours faithfully,
+For Welspun Corp Limited
+
+Kamal Rathi
+
+Digitally signed by
+Kamal Rathi
+Date: 2026.11.02
+18:32:25 +05'30'
+
+Kamal Rathi
+Company Secretary and Compliance Officer
+ACS-18182
+Encl. a/a.
+
+
+Annexure A
+Sr. Particulars
+No.
+1. Name
+of
+Senior
+Personnel (SMP)
+
+Details
+management Mr. Rakesh Mehta
+
+2.
+
+Reason for change, viz, appointment, Resignation from the position of Chief
+re-appointment, resignation, removal, Human Resource Officer (CHRO) and
+death or otherwise.
+Senior Management Personnel (SMP) of
+the Company, due to personal reason.
+
+3.
+
+Date of appointment/ re-appointment/ Close of business hours of November 2,
+cessation (as applicable) & term of 2026
+appointment/ re-appointment.
+
+4.
+
+Brief Profile (in case of appointment)
+
+5.
+
+Disclosure of relationship between Not Applicable
+directors (in case of appointment of a
+Director)
+
+Not Applicable
+
+
+

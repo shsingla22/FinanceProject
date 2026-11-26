@@ -1,0 +1,301 @@
+CIN: L72400T G2017PL C117649 
+A 
+ 
+ 
+compliance.corp@kfintech.com  August  01, 202 4 CS&G/STX/ SQ202 4/19 
+1) National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+Scrip Symbol: KFINTECH  2) BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 543720  
+ 
+Sub.  : Submission of Annual Report for the Financial Year 202 3-24 including the Notice of 
+the 7th Annual General Meeting of the Company  
+Ref. : Regulation 34  of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)  
+Dear Sir / Madam,  
+This is f urther to our previous intimation s bearing reference no s. CS&G/STX/JQ2024/19  dated May 
+24, 202 4, regarding the 7th Annual General Meeting of the Company (“ AGM ”), and CS&G/STX / 
+SQ2024/06  dated July 17, 2024 intimating the information regarding the  AGM  to be held through 
+video conferencing / other audio -visual means, published in the newspapers . Pursuant to Regulation 
+34 and other applicable provisions of the LODR Regulations, please find enclosed herewith the 
+Annual Report for the Financial Year 202 3-24 including the Notice of the AGM.  
+The AGM of the Company will be held on Thursday, August 29, 2024, at 04:00 p.m. (IST) through 
+Video Conferencing / Other Audio -Visual means.  
+In compliance with the General Circular No. 09/2023 issued by the Ministry of Corporate Affairs 
+(“MCA ”) on September 2 5, 2023 and other circulars issued by MCA in this respect, and Circular No. 
+SEBI/HO/CFD/CFD -PoD-2/P/CIR/2023/167 issued by the Securities and Exchange Board of India 
+(“SEBI ”) on October 07, 2023 (hereinafter collectively referred to as “ the Circulars ”), the Annual 
+Report for the Financial Year 202 3-24 including the Notice of the AGM along with the instructions 
+regarding e -voting is being sent by electronic mode only to those members whose names appear in the 
+Register of Members / list of Beneficial Owners, maintained by the Depositories as on Friday , July 
+26, 2024 , and whose e -mail ids are registered with the Registrar and Transfer Agent / Depository 
+Participants . 
+The details such as manner of registering / updating e -mail ids, procedure for remote e -voting and 
+joining the AGM through VC facility and e -voting thereat have been set out in the Notice of the 
+AGM.  
+Members whose names appear in the Register of Members / list of Beneficial Owners, maintained by 
+the Depositories as on Friday, August 23, 2024 , being the cut -off date, are entitled to vote on the 
+resolutions set out in the Notice of the AGM and attend the AGM.  
+  
+ 
+ 
+ 
+ 
+The Company has engaged the services of National Securities Depository Limited as the agency to 
+provide the e -voting facility. The remote e-voting period will commence at 9:00 a.m. (IST) on 
+Monday, August 2 6, 2024, and will end at 5:00 p.m. (IST) on Wednesday, August 28, 2024 . In 
+addition, the facility for voting through e-voting system shall also be made available during the AGM.  
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For KFin Technologies Limited  
+Alpana Kundu  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: F10191  
+Encl.: a/a  
+
+Contents
+64 Management Discussion and Analysis 
+77 Board’s Report
+95 Corporate Governance Report 
+115 Business Responsibility and Sustainability Report
+147 Independent Auditor’s Report (Standalone)
+158 Standalone Financial Statements
+230 Independent Auditor’s Report (Consolidated)
+240 Consolidated Financial Statements
+317 Salient Features of Financial Statements of  
+ Subsidiaries and Associate Companies
+320 Notice of Annual General Meeting1
+2
+3Forward-looking statements 
+This Report contains statements 
+that set out anticipated results 
+based on the Management’s plans 
+and assumptions. We have tried, 
+wherever possible, to identify such 
+statements by using words like 
+‘anticipate’, ‘estimate’, ‘expects’, 
+‘projects’, ‘intends’, ‘plans’, ‘believes’, 
+and words of similar substance, 
+in connection with any discussion 
+of future performance. These 
+projections are based on prudent 
+assumptions, and we cannot 
+guarantee that they will be realized. 
+Should any known or unknown 
+risk or uncertainty materialise, or 
+should underlying assumptions 
+prove inaccurate, actual results 
+could vary materially from those 
+anticipated, estimated or projected.  
+We undertake no obligation to 
+publicly update any forward-looking 
+statements, whether as a result 
+of new information, future events 
+or otherwise.To get this report online and for 
+any other information, log on to:
+www.kfintech.com
+CORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS04 Our Journey Towards Tomorrow: From Innovation to  
+ Transformation to Value Creation!
+06 Key Numbers that Define Us
+10 Key Facts that Distinguish Us
+11 Delighting Clients with Technology-driven Services to  
+ Global Asset Managers 
+21 Letter from the Chairman
+25 Message from the MD & CEO
+30 Transforming to Drive Future Growth
+36 Our Value Creation Model
+38 Empowering Stakeholders for a Better Tomorrow
+42 Our Approach to Effective Risk Management
+46 Our Environmental, Social & Governance (ESG) Journey
+47 Driving Sustainability by Reducing Carbon Footprints
+48 Enhancing Customer Experience
+52 Fostering an Inclusive Work Environment
+57 Empowering Youth to Drive Sustainable Development
+59 Transforming Responsibly and Ethically
+60 Board of Directors and Committees
+63 Leadership Team
+Domestic Mutual Fund  
+Solutions
+ Gained market share in the overall 
+AAUM in domestic mutual fund 
+segment; Equity AAUM market 
+share stable; SIP market share 
+strong and stable at 40%; Five of 
+the top 10 fastest growing asset 
+management companies are 
+clients of KFintech
+ Won maiden contract for Datalake 
+product from a large domestic 
+mutual fund company where 
+KFintech is not the Registrar and 
+Transfer Agent
+ Proud to have developed and 
+launched a SUPTECH platform 
+– P .A.R.A.S – Portal for Alerts, 
+Reports & Analytics for SEBI; 
+Launched Guardian, a trade 
+reporting and compliance 
+management platform for 
+organizations involved in 
+capital marketIssuer  
+Solutions
+ Acquired 708 new corporate 
+clients and added 14.30 million 
+investor folios; Won marquee 
+logos including Jio Financial 
+Services, State Bank of India, and 
+Vishal Mega Mart
+ Stable and leading market share 
+in NSE 500 companies in terms 
+of number of clients, number of 
+folios, and market capitalization; 
+Managed 45.0% of the main 
+board IPOs in India in terms of 
+the issue size
+ Launched services for listed 
+clients for managing claims 
+under Investor Education and 
+Protection FundInternational and Other Investor 
+Solutions
+ Won 16 new clients in the 
+international business; Won maiden 
+fund administration contract from 
+the fifth-largest bank in Thailand
+ Won maiden multi-year fund 
+administration contracts from LIC 
+Pension Fund and one of the largest 
+custodian banks in India; Won a 
+multi-year deal from a large non-
+banking finance company in India for 
+wealth technology platform
+ Launched XAlt, an integrated fund 
+administration platform for AIFs, 
+digital onboarding platform for 
+PWM/PMS clients, and front office 
+order management platform for 
+PMS clients
+ Continue to gain market share in 
+NPS; KFintech’s NPS subscriber base 
+growing at double the pace of the 
+industry growth
+ Acquired and fully integrated 
+WebileApps India Private LimitedKey operational highlights FY 2023-24
+ KFintech continues to be the largest investor and issuer solutions provider in India
+Key financial highlights FY 2023-24 Key statistics FY 2023-24
+` 8,375.3  million
+Revenue from Operations
+` 2,510.4  million
+Non-MF Revenue
+` 505.5  million
+VAS Revenue
+` 3,665.9  million
+EBITDA
+` 2,460.5  million
+PAT
+0.0*
+Debt-to-Equity
+*Debt as on March 31, 2024, represents lease liabilities and there are no outstanding borrowings.
+*1 out of 25 is yet to start operations and 4 out of 47 are yet to start operations.16.3%
+Y-o-Y Growth20.3%
+3-Yr CAGR
+12.7%
+Y-o-Y Growth17.2%
+3-Yr CAGR30.0%
+Non-MF Share
+32.8%
+Y-o-Y Growth22.4%
+3-Yr CAGR6.0%
+VAS Share
+23.0%
+Y-o-Y Growth20.0%
+3-Yr CAGR43.8%
+Margin
+25.7%
+Y-o-Y Growth29.1%
+3-Yr CAGR29.4%
+Margin
+24.5%
+Return on Equity54.1%
+EBITDA to 
+Free Cashflow  
+ 25* domestic mutual  
+fund clients
+Out of 47* Asset Management 
+Companies in India with 53.2% 
+market share
+` 17.4  trillion
+Overall AAUM serviced 
+with 32.1% market share` 10.0  trillion
+Equity AAUM serviced with 
+33.4% market share
+` 76.3  billion
+Monthly SIP inflows in Mar-24  
+with 39.6% market share138  million
+Mutual Fund investor foliosDomestic mutual fund investor solutions
+124  million
+Issuer Solution investor folios46.1%  market share
+Based on market capitalization 
+of NSE 500 companies6,071
+Corporate clientsIssuer solutions
+` 1.0  trillion
+AUM serviced265  AIF clients
+Serviced in India & GIFT City472  AIF funds
+Serviced in India & GIFT City 
+with 36.3% market shareAIF/PMS/PWM investor solutions
+` 409.4  billion
+AUM serviced1.2  million subscribers
+under National Pension Scheme 
+with 8.3% market share2,327
+No. of corporate  
+clientsNational pension scheme
+800
+BitSight Security  
+Score66.6
+ESG Rating1.8  million
+Average daily  
+transactions5,818
+Total employees including  
+940 IT engineersOther statistics8 Geographies
+Serviced with Fund Administration 
+platform & servicesUSD 7.2  billion
+AUM57  clients
+No. of international clientsInternational investor solutions
+03 02
+KFin Technologies LimitedCORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTSAnnual Report  2023-24
+Our Journey Towards Tomorrow: From 
+Innovation to Transformation to Value 
+Creation!
+At KFintech, transformation is a way of life. It is the driving 
+force that steers our futuristic journey of growth and value 
+creation. It is the core around which we have developed 
+our strategic charter, to ensure sustained customer 
+delight. It is the cornerstone of our business philosophy, 
+which is designed to empower our stakeholders, and 
+propel their consistent progress.
+A key lever of our transformational odyssey 
+is our unwavering focus on innovation, 
+which we are continually nurturing 
+and strengthening. We have embraced 
+technology, digitalization and automation 
+as the building blocks of our innovation-led 
+growth strategy. Our deep understanding of 
+the evolving needs and aspirations of our 
+customers and other stakeholders equip 
+us to innovate the best-in-class offerings to 
+boost their engagement and enhance their 
+experience with KFintech.
+04
+Annual Report  2023-24 05KFin Technologies LimitedCORPORATE OVERVIEW
+STATUTORY REPORTS
+FINANCIAL STATEMENTS
+05

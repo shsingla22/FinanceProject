@@ -1,0 +1,201 @@
+ 
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala,  
+Bengaluru -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com  
+   
+ June  02, 2026  
+ 
+   Listing Compliance & Legal Regulatory  
+   BSE Limited  
+   Phiroze Jeejeebhoy Towers  
+   Dalal Street, Mumbai 400 001  
+   Stock Code: 543227  & 975101  Listing & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra East, Mumbai 400 051  
+Stock Code: HAPPSTMNDS  
+ 
+     Dear  Sir/Madam,  
+ 
+Sub:  Transcript  of Earnings  Call held  on May  29, 2026  
+ 
+Pursuant to Regulation 30  read with Para A of Part A of Schedule III  of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations,  2015, please  find enclosed the transcript of the Earnings Call held 
+on May  29, 2026, post  announcement of financial results of the Company for the quarter and financial 
+year  ended as on March  31, 202 6. The transcript is also uploaded on the Company’s website 
+(https://www.happiestminds.com/investors ). 
+ 
+This is for your  information  and records.  
+ 
+   Thanking  you,  
+   Yours  faithfully,  
+   For Happiest  Minds  Technologies  Limited  
+ 
+ 
+ 
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer   
+Membership  No. F6706  
+ 
+
+Page 1 of 32 
+  
+ 
+“Happiest Minds Technologies Limited  
+Q4 FY’26 Earnings Conference Call”  
+May 29, 2026  
+ 
+      
+ 
+Management:  Mr. Joseph Anantharaju  – Co-Chairman and Chief Executive Officer  
+ Mr. Venkatraman Narayanan  – Managing Director  
+ Mr. Ram Mohan  – Chief Executive Officer, Infrastructure 
+Management and Securities Services (IMSS)  
+ Mr. Sridhar Mantha  –Chief Executive Officer, Generative AI Business 
+Services (GBS)  
+ Mr. Anand Balakrishnan  – Chief Financial Officer  
+ Mr. Praveen Darshankar  – Company Secretary and Compliance 
+Officer  
+ Ms. Priyanka Sharma  – Head of Investor Relations  
+  
+Moderator:  Mr. Vinesh Vala – HDFC Securities Limited  
+Moderator:  Ladies and gentlemen, good day, and welcome to Happiest Minds 
+Technologies Limited Q4 FY26  Earnings Conference Call hosted by 
+HDFC Securities Limited. As a reminder, all participant lines will be in 
+the listen -only mode and there will be an opportunity for you to ask 
+
+  Happiest Minds  Technologies Limited  
+  May 29, 2026  
+ 
+Page 2 of 32 
+ 
+questions after the presentation concludes. Should you need 
+assistance during this conference, please signal an operator by pressing 
+star and then zero on your touchtone phone. Please note that this 
+conference is being recorded.  
+I now hand the conference over to Mr. Vinesh Vala from HDFC 
+Securities Limited. Thank you, and over to you, Mr. Vala.  
+Vinesh Vala : Good morning, ladies and gentlemen. Thank you for joining us today 
+on the Q4 Earnings Call of Happiest Minds Technologies Limited. On 
+behalf of HDFC Securities, I would like to thank the management of 
+Happiest Minds for giving us the opportunity to host this call.  
+Today, we have with us Mr. Joseph Anantharaju, Co -Chairman and CEO; 
+Mr. Venkatraman Narayanan, Managing Director; Mr. Ram Mohan, 
+CEO, Infrastructure Management and Security Services Business; Mr. 
+Sridhar Mantha, CEO, Generative AI Business Services; Mr. Pr aveen 
+Darshankar, Company Secretary and Compliance Officer; Mr. Anand 
+Balakrishnan, CFO; Ms. Priyanka Sharma, Head, Investor Relations.  
+I will now hand over to Priyanka Sharma for the safe harbor statement 
+and to take the proceedings forward. Thank you, and over to you, 
+Priyanka.  
+Priyanka Sharma : Thank you, Vinesh. Good morning to all participants on the call, and 
+welcome to the Conference Call to discuss the financial results for the 
+fourth quarter and year ended March 31, 2026. I'm Priyanka Sharma, 
+Head of Investor Relations. We hope you have had an opportunity to 
+review the earnings release issued yesterday.  
+Now let me quickly walk you through the agenda for today's call. Joseph 
+will begin by sharing his perspectives on the business environment, our 
+strategic priorities and overall business performance. Sridhar will touch 
+  Happiest Minds  Technologies Limited  
+  May 29, 2026  
+ 
+Page 3 of 32 
+ 
+upon our enterprise AI platform, AI -led transformation initiatives and 
+progress around Gen AI -led engagements and capabilities. Thereafter, 
+Mr. Venkat will walk you through the financial and operational 
+performance for the quarter and full year, followed b y our outlook for 
+FY27 . 
+Following the management's commentary, we'll open the floor for 
+questions. Before we begin, let me read the safe harbor statement. 
+During this call, we may make forward -looking statements. These 
+statements reflect the environment we see as of today and inv olve risks 
+and uncertainties that could cause actual results to differ materially. 
+We do not undertake any obligation to update these statements 
+periodically. With that, let me now hand it over to Joseph.  
+Joseph Anantharaju:  Thank you, Priyanka. Good morning, everyone, and thank you for 
+joining us today. FY26  was an important year for Happiest Minds 
+Technologies from both a business and strategic standpoint.  
+We delivered healthy growth, sustained strong profitability, improved 
+utilization, crossed 300 active customers, took several platforms to 
+market and further strengthened our positioning as an AI -first digital 
+engineering partner.  FY26  also marked 15 years since the founding of 
+Happiest Minds, a proud milestone, giving us an opportunity to reflect 
+on the journey so far and more importantly, the opportunities ahead.  
+Let me start with a quick view on the market. The year continued to be 
+shaped by a mixed macroeconomic environment. While discretionary 
+spending remains selective in some of the traditional areas, we saw 
+increasing momentum and budget allocation in AI -led business 
+transformation, modernization, automation of internal processes and 
+productivity -focused programs.  
+  Happiest Minds  Technologies Limited  
+  May 29, 2026  
+ 
+Page 4 of 32 
+ 
+AI and GenAI are now central to most customer conversations, and this 
+is translating into Happiest Minds being viewed as a strategic partner, 
+strong customer engagement, robust pipeline growth and improving 
+conversion visibility. There also has been increa sing discussion around 
+platform companies entering the services arena. Our view remains 
+clear. We see this as a positive structural shift for the industry and for 
+Happiest Minds.  
+Historically, when platform companies such as SAP and Microsoft 
+expanded into services, it spurred further demand and created 
+significantly larger opportunities for the broader IT services ecosystem. 
+Platform providers often generate demand through co -inno vation and 
+partnership programs and have traditionally relied on partners for scale 
+and execution.  
+Turning to performance. FY26  revenues crossed INR2,315 crores, 
+representing a year -on-year growth of 12.3% in INR terms, while the 
+constant currency growth for the year came in at 9.2%, which is among 
+the higher growth rates in the industry. EBITDA margins remained 
+within our guided range of 20% to 22% despite continued investments 
+in AI capabilities, platforms, sales  expansion and future -ready talent.  
+From a customer standpoint, we ended FY26  with 306 active 
+customers, including 51 additions during the year, reflecting the 
+success of our enhanced strategy. We also continue to deepen 
+engagement across large enterprise accounts and today serve over $91 
+billion  corporations globally.  
+Importantly, during Q4, we saw a record pipeline growth of 27%, which 
+gives us increasing confidence in our FY27  outlook. Based on this 
+momentum, the Board has reconfirmed FY27  growth guidance of 
+12.5%, while we continue to remain aspirational about a 15% growth 
+trajectory. This is reflected in the planned headcount of 1,050 for FY27  
+  Happiest Minds  Technologies Limited  
+  May 29, 2026  
+ 
+Page 5 of 32 
+ 
+with the bulk of hiring taking place in the generative AI business unit 
+and the analytics and AI CoE.  
+Over the last few quarters, we have spoken about our early 
+investments around GenAI and our broader AI -first strategy, which 
+Sridhar will expound further on. During FY26 , we saw this translate 
+more meaningfully into scaled engagements, customer adoption and 
+stronger pipeline momentum.  
+Enterprises today are increasingly looking for partners who can help 
+them move AI initiatives from experimentation towards measurable 
+business outcomes, and that is where Happiest Minds is seeing strong 
+relevance.  
+Based on our internal innovation initiatives and experience 
+implementing AI strategies for our customers, we recently announced 
+the launch of our enterprise AI platform.  The platform is designed to 
+help enterprises accelerate AI adoption in a secure, scalable and 
+enterprise -ready manner while reducing execution complexity and 
+implementation risk.  
+The overall momentum buildup was also reflected in several strategic 
+wins during the quarter, including engagements such as a U.S. -based 
+insurance and financial service provider for product engineering 
+services, a global warehouse automation leader for eng ineering and 
+security applications and a European health care software company for 
+modernization of its hospital management platform.  
+Sridhar will talk a little bit about some of our experiences in the AI 
+space. From a vertical perspective, growth during the year was led by 
+BFSI and Healthcare and Life Sciences, both of which continue to see 
+strong momentum driven by AI -led transformatio n, digital engineering 
+and modernization programs.  

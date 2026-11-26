@@ -1,0 +1,263 @@
+ 
+ MBFSL/CS/202 6-27                                                                                 23rd June, 202 6 
+ 
+To, 
+National Stock Exchange of India Ltd,  
+Exchange Plaza, C - 1, Block G,  
+Bandra Kurla Complex, Bandra (East),  
+Mumbai – 400051  
+Scrip Code: BECTORFOOD  
+ 
+Subject:  Clarification /Confirmation on news item appearing in “Media/Publication”  
+Dear Sir/Madam,   
+This has reference to your letter bearing reference no NSE/CM/Surveillance/17139 dated June 
+22, 2026 seeking clarification on the recent news item which appeared in the “Website -
+www.economictimes.com” dated June 22, 2026 captioned “CCPA fines Storia Foods,  English 
+Oven Rs 1 lakh each for misleading 100% claims on food labels”  
+In this regard, we would like to state that PART A of SCHEDULE III of SEBI (LODR) 
+Regulations, 2015 demonstrates the DISCLOSURES OF EVENTS OR INFORMATION: 
+SPECIFIED SECURITIES in relation to Regulation 30 shall be made to the stock exchanges 
+if: 
+(i) disclosure of fine or penalty of rupees one lakh or more imposed by sectoral regulator or 
+enforcement agency and fine or penalty of rupees ten lakhs or more imposed by other 
+authority or judicial body shall be disclosed within twenty four hours.  
+(ii) disclosure of fine or penalty imposed which are lower than the monetary thresholds 
+specified in the clause (i) above on a quarterly basis in the format as may be specified.  
+Further pursuant to Industry Standards Note on Regulation 30 of the LODR Regulations, the 
+regulator for Diversified FMCG is Food Safety and Standards Authority of India (FSSAI), 
+Food and Drug Administration (FDA)  
+As per Regulation 5 of the said standards on Materiality for disclosure under Para A(20) of 
+Part A of Schedule III. Action taken or Order Passed by all other Regulators / Authorities 
+(Other than Regulators under paragraph 5.1.1): Action taken or order pass ed by a 
+regulatory/statutory/enforcement/judicial/quasi -judicial authority would be required to be 
+disclosed only if such action or order, where quantifiable, exceeds the threshold specified by 
+SEBI which is ten lakh rupees.  
+Further, imposition of fine or penalty below the quantifiable thresholds mentioned in 
+paragraphs 5.1.1 and 5.1.2 above, should be disclosed by the listed entity on a quarterly basis.  
+In the present case , the  Central Consumer Protection Authority (CCPA) (an authority 
+constituted under the provisions of the Consumer Protection Act, 2019) is merely an authority 
+ 
+ and not the  sectorial  Regulator . Furthermore , since the penalty imposed by the CCPA is Rs. 
+One Lakh which is less than Rs. Ten Lakhs, therefore, the  company is required to intimate the 
+concerned stock exchanges on quarterly basis  only.  
+Following good corporate governance practice we would like to inform the stock exchanges 
+and public at large that the CCPA vide its order dated 09.06.2026 has imposed a penalty of Rs. 
+1 Lakh on the Company for the use of the word 100% whole wheat on its bread products  i.e. 
+“100% Atta Bread” / “100% Whole Wheat Bread” . The concerned authority i.e. the CCPA  has 
+misinterpreted the use of the word as it overlooked and ignored to appreciate the fact that a 
+bread, by its very nature, necessarily contains ingredie nts other than flour, including water, 
+yeast, salt, oil, preservatives and other permitted ingredients, without which bread cannot be 
+manufactured at all.  
+The expression “100% Atta” was used only as a flour -source assurance to convey that the bread 
+contained whole wheat flour as the sole flour source and did not contain maida or any substitute 
+cereal flour.  
+The Company had also disclosed on the packaging the complete ingredient list and the 
+approximate Atta content i.e. 87%, which is above the prescribed minimum threshold of 75% 
+for Atta/Whole Wheat Bread.  
+The Company is currently in process of taking legal advice for challenging the order dated 
+09.06.2026 and to file an appeal against before the appropriate authority  as per the provisions 
+of the Consumer Protection Act, 2019 . 
+It is hereby clarified that t here is no material  / financial  impact of this article on the Company 
+as company has already filed an application before  the FSSAI , wherein , the Company , without 
+prejudice to its legal rights and contentions  and without admitting anything , informed the Food 
+Safety and Standards Authority of India (“FSSAI”) vide communication dated 09.05.2026 that 
+it shall voluntarily discontinue the usage of the descriptor “100% Atta” from the packaging and 
+labelling of its bread products in a phased manne r within a period of six months.  
+We would like to inform you that the Company is in compliance with SEBI (Listing Obligation 
+and Disclosure Requirements) Regulations, 2015 and has been promptly informing the Stock 
+Exchanges on all events and information, which have a bearing on operations  or performance 
+of the Company.  
+There is no undisclosed / price sensitive information or any impending announcement / 
+corporate action which needs to be informed to the exchange at this point of time. It is solely 
+because the CCPA overlooked and ignored the submissions of the Company, the said order 
+dated 09.06.2026 was passed.  
+Further, we would like to assure you that the Company will, as required under SEBI (Listing 
+Obligation and Disclosure Requirements) Regulations, 2015 continue to promptly inform the 
+exchanges of all material events / information / actions.  
+Kindly take the same on record and acknowledge the receipt.  
+Thanking you,  
+Yours faithfully,  
+For Mrs.Bectors Food Specialities Limited  
+Atul Sud  
+Company Secretary and Compliance Officer  
+M.No. F10412
+Annexure: The Industry Standards Note on Regulation 30 of the SEBI LODR Regulations, 
+formulated by the Industry Standards Forum (ISF) comprising the CII, ASSOCHAM, and 
+FICCI Attached  for reference.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Page 1 of 17 
+ 
+Industry Standards Note on Regulation 30 of the LODR Regulations  
+ 
+Purpose of this Industry Standards Note 
+ 
+This Industry Standards Note has been published to:  
+ 
+ Facilitate uniform approach and assist listed entities in complying with their obligations in respect 
+of disclosures under Regulation 30 read with Schedule III of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015 (“ LODR 
+Regulations ”) and circulars issued thereunder (referred to below as the “ Continuous Disclosure 
+Requirements ”)1; and  
+ 
+ Set out standard operating procedures for compliance with the Continuous Disclosure 
+Requirements.  
+ 
+This Industry Standards Note has been prepared in consultation with SEBI. Any addition/ modification/ 
+alteration to this Industry Standards Note shall be made only in consultation with SEBI. This Industry 
+Standards Note is available on the websites of BSE Limited (“ BSE”) and National Stock Exchange of 
+India Limited (“ NSE”) (collectively, the “ Stock Exchanges ”). Further, the same is hosted on the 
+websites of the Federation of Indian Chambers of Commerce and Industry (FICCI) accessible at 
+https://ficci.in/, the Associated Chambers of Commerce & Industry of India (ASSOCHAM), accessible 
+at https://www.assocham.org/, and the Confederation of Indian Industry (CII), accessible at 
+https://www.cii.in/. 
+ 
+The listed entities shall follow this Industry Standards Note to ensure compliance with the Continuous 
+Disclosure Requirements.  
+ 
+Main Aspects covered : 
+ 
+1. Applicability of numerical thresholds to certain companies  for Para A(1) of Part A of 
+Schedule III 
+ 
+2. Interpretation of “value or the expected impact in terms of value” under Regulation 
+30(4)(i)(c). 
+ 
+3. Interpretation of “last audited consolidated financial statements” under Regulation 
+30(4)(i)(c). 
+ 
+4. Interpretation of “significant market reaction” under Regulation 30(4)(i)(b). 
+ 
+5. Materiality for disclosure under Para A(20) of Part A of Schedule III. 
+ 
+6. Disclosure relating to other persons under Para A(19) and (20) of Part A of Schedule III. 
+ 
+ 
+1 Excluding Regulation 30(11) of the LODR Regulations. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Page 2 of 17 
+ 
+7. Interpretation of “cumulative basis” (as referred in Master circular dated November 11, 
+20242 read with circular dated December 31, 20243 issued by SEBI) for disclosure of 
+pending litigations or disputes under Regulation 30(4) read with Para B(8) of Part A of 
+Schedule III.  
+ 
+8. Disclosure of show cause notices under (i) Para A(20) of Part A of the Schedule III, and 
+(ii) Para B(8) of Part A of Schedule III. 
+ 
+9. Disclosure of confidential litigation / dispute / order / action initiated or taken under (i) Para 
+A(19) and (20) of Part A of the Schedule III, and (ii) Para B(8) of Part A of Schedule III. 
+ 
+10. Compliance of timelines for disclosure under Regulation 30(6). 
+ 
+11. Disclosure of events or information which emanate from a decision taken in a meeting of 
+board of directors under Regulation 30(6) read with Master circular dated November 11, 
+2024 read with circular dated December 31, 2024 issued by SEBI. 
+ 
+12. Disclosure of communication from regulatory, statutory, enforcement or judicial authority 
+under Regulation 30(13). 
+ 
+13. Disclosure of fraud or default under Regulation 30 read with Para A(6) of Part A of 
+Schedule III. 
+ 
+14. Disclosure for resignation key managerial personnel, senior management, etc under Para 
+A(7C) of Part A of Schedule III. 
+ 
+15. Disclosure of winding up petition under Regulation 30 read with Para A(11) of Part A of 
+Schedule III. 
+ 
+16. Disclosure of frauds or defaults by employees of the listed entity under Regulation 30(4) 
+read with Para B(9) of Part A of Schedule III. 
+ 
+17. Disclosure of guarantees and indemnity under Regulation 30(4) read with Para B(11) of 
+Part A of Schedule III. 
+ 
+18. Disclosure of announcement/ communication through social media intermediaries or 
+mainstream media under Regulation 30(4) read with Para A(18) of Part A of Schedule III.  
+ 
+19. Disclosure of schedule of analysts or institutional investors meet at least two working days 
+in advance under Para A(15(a)) of Part A of Schedule III. 
+ 
+20. Disclosure of proceedings of AGMs and EGMs of the listed entity under Para A(13) of Part 
+A of Schedule III. 
+ 
+21. Intimation of forfeiture/restriction on transferability under Para A(2) of Part A of Schedule 
+III.
+ 
+2 Master circular for compliance with the provisions of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 by listed entities 
+(SEBI/HO/CFD/PoD2/CIR/P/0155) 
+3 Circular for implementation of recommendations of the Expert Committee for facilitating ease of doing business 
+for listed entities (SEBI/HO/CFD/CFD-PoD-2/CIR/P/2024/185) 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Page 3 of 17 
+ 
+ 
+Industry Standards for Compliance 
+ 
+1. Applicability of numerical thresholds to certain companies for Para A(1) of Part A of 
+Schedule III  
+ 
+1.1. For insurance companies and non-banking financial companies (“ NBFC(s) ”), including, core 
+investment companies, registered with the Reserve Bank of India (“ RBI”), the stipulation in 
+Explanation (1)(ii)(c) to Para A(1) of Part A of Schedule III, should be understood as follows:  
+ 
+1.1.1. In case of acquisitions of listed (or to be listed) equity, convertible or debt securities 
+of another entity, a disclosure of an acquisition would be required to be made only if 
+the cost of acquisition or the price at which the listed (or to be listed) equity, 
+convertible or debt securities are acquired exceeds the threshold specified in 
+Regulation 30(4)(i)(c)(2), i.e., two percent of net worth, as per the last audited 
+consolidated financial statements of the investor entity. In such instances, the 
+materiality thresholds specified in Regulation 30(4)(i)(c)(1) and Regulation 
+30(4)(i)(c)(3) would not be applicable.  
+ 
+1.1.2. For any other type of acquisition, each of the prescribed materiality thresholds under 
+Regulation 30(4)(i)(c) would continue to apply to assess whether a disclosure of the 
+acquisition is triggered. 
+  
+2. Interpretation of “value or the expected impact in terms of value” under Regulation 
+30(4)(i)(c)  
+ 
+2.1. In computing the “expected impact in terms of value” of an event/information, a listed entity 
+should, where applicable, consider the expected impact in the four ensuing quarters (including 
+the quarter in which the event occurs if the event occurs in the first 60 days of the quarter). 
+Illustration in this regard are provided below: 
+ 
+2.1.1. If an event has occurred on May 29, 2023, which is a date in the first 60 days of the 
+quarter, then the computation of the four ensuing quarters for the purposes of 
+assessing the expected impact of the event would include the ongoing quarter 
+beginning April 1, 2023. Accordingly, the period of assessment would be the four 
+quarters beginning April 1, 2023, till March 31, 2024.  
+ 
+2.1.2. However, if an event has occurred on June 1, 2023, which is date not in the first 60 
+days of the quarter, then the computation of four ensuing quarters for the purposes of 
+assessing the expected impact of the event would not include the ongoing quarter. 
+Accordingly, the period of assessment would then be from July 1, 2023 till June 30, 
+2024. 
+ 
+2.2. Disclosure / non-disclosure would typically be in compliance with the regulatory requirements 
+if while undertaking the assessment of the “value” and “expected impact in terms of value”, the 
+listed entity places reliance on the principles for measurement set out under the applicable 
+accounting standards (such as the PPR test formulated basis the principles for measurement set 
+out under Ind AS 37), so as to ensure consistency between the disclosures made to the stock 
+exchanges, and the disclosures made in the financial statements. For instance, if the outcome 
+for a matter (above the materiality threshold) falls within probable or possible category then it 
+may be disclosed, however, if it falls within remote category then disclosure may not be 
+required under Para B(8) of Part A of Schedule III.  

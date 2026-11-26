@@ -1,0 +1,423 @@
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra-  411 001, India .                                 
+CIN - L31300PN2000PLC202408  
+ July 05, 2024 
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor,  
+Plot No. C -1, G Block,  
+Bandra Kurla Complex, Bandra (East)    
+Mumbai - 400 051.  
+ BSE Limited  
+Phirozee Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001.  
+ 
+Sub.: Submission of Business Responsibility and Sustainability Report for FY202 3-24 
+Ref.: Scrip ID - STLTECH/ Scrip Code -  532374 
+Dear Sir/Madam,  
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations & Disclosure Requirements) Regulations 2015, 
+we are submitting herewith the Business Responsibility and Sustainability Report ('BRSR') for the financial 
+year ended March  31, 2024 , which forms part of Annual Report for FY2023 -24.  
+The same is also being uploaded on the website of the Company at https://www.stl.tech/   
+Kindly take the same on record.  
+Thanking you.  
+Yours faithfully,  
+For Sterlite Technologies Limited  
+ 
+Amit Des hpande  
+General Counsel & Company Secretary (ACS 17551)  
+ Encl.: As above.  
+Annual Report 2023-24122
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1 Corporate Identity Number (CIN) of the Company L31300PN2000PLC202408
+2 Name of the Company STERLITE TECHNOLOGIES LIMITED
+3 Date of Incorporation March 24, 2000
+4 Registered office address 4th Floor, Godrej Millennium, Koregaon Road 9, 
+STS 12/1, Pune-411001, Maharashtra
+5 Corporate office address Godrej Millenium 9, Koregaon Road, Pune - 411 
+001 Maharashtra, India
+6 E-mail id stl.communications@stl.tech
+7 Telephone +91 20 30514000
+8 Website https:/ /www.stl.tech
+9 Financial year for which reporting is being done April 01, 2023 to March 31, 2024 (FY 2023-24)
+10 Name of the Stock Exchange(s) where shares are listed
+S. 
+No.Name of stock exchange Description of other 
+stock exchangeName of the country
+a. National Stock Exchange 
+of India Limited (NSE)- India
+b. BSE Limited (BSE) - India
+11 Paid-up capital ` 79.82 Crores
+12 Name and contact details of the person who may 
+be contacted in case of any queries on the BRSR 
+reportAnjali Byce, Chief Human Resources Officer
++91-20-30514000; anjali.byce@stl.tech
+13 Reporting Boundary Standalone basis
+14 Whether the company has undertaken reasonable 
+assurance of the BRSR Core?No
+15 Name of assurance provider -
+16 Type of assurance obtained -
+II. Products/services
+ 17. Details of business activities (accounting for 90% of the turnover):
+S. 
+NoDescription of main activity Description of 
+business activity% Of 
+turnover
+1 STL is a leading global optical company. Telecom operators, 
+cloud companies, citizen networks, and large enterprises 
+recognise and rely on STL for advanced capabilities in 
+optical connectivityOptical Networking 
+Business59.54%
+2 Global services offer system integration services in ICT 
+space by integrating different technological products, 
+networks, data centre and applications.Global Service 
+Business32.89%
+3 STL Neox is a leading provider of cutting-edge Next 
+Generation Voice Services with a strong global market 
+presence and unmatched expertise in IP technology. 
+Neox is a Unified Communication platform, featuring a 
+comprehensive suite of UCaaS, CCaaS, and CPaaS offerings.STL Digital 0.35%
+4 The Optical Connectivity Solution has been created to 
+help telecom operators, ISPs, citizen networks, and major 
+corporations build out networks more quickly, more 
+effectively, and more affordably. We are offering end-to-
+end functionality, including optical fibre components, pre-
+connectorized kits, and post-sales support.Optical Interconnect 7.22%BUSINESS RESPONSIBILITY & SUSTAINABILITY REPORT
+123
+01Corporate 
+Overview 02Statutory 
+Reports 03Financial 
+Statements 18. Products/services sold by the entity (accounting for 90% of the entity’s turnover)
+S. 
+No.Product/Service NIC Code % Of total turnover 
+contributed
+1 Optical fibre cable 2731 30.33%
+2 Optical fibre 2310 18.59%
+3 Copper telecom cables 2732 10.61%
+4 Fibre optical cable laying services 4321 32.89%
+5 Software Business 4651 0.35%
+6 Optical Interconnect 2620 7.22%
+III. Operations
+ 19. Number of locations where plants and/or operations/offices of the entity are situated
+Location Number of plants Number of offices Total
+National 5 3 8
+International 0 0 0
+ 20. Markets served by the entity
+  a. Number of locations
+Locations Number
+National (No. of states) 28
+International (No. of countries) 32
+  b. What is the contribution of exports as a percentage of the total turnover of the entity?
+   27%
+  c. A brief on types of customers
+   STL manufacturing facilities serve diverse customers across the entire value chain-
+   • Telecom companies
+   • Cloud companies
+   • Large enterprises
+IV. Employees
+ 21. Details as on March 31, 2024
+  a. Employees and workers (including differently abled)
+S. 
+No.Particulars Total 
+(A)Male Female Other
+No. (B) % (B/A) No. (C) % (C/A) No. (H) %(H/A)
+EMPLOYEES
+1 Permanent (D) 1274 1125 88.30% 149 11.70% 0 0.00%
+2 Other than 
+Permanent (E)825 767 92.97% 58 7.03% 0 0.00%
+3 Total employees 
+(D+E)2099 1892 90.14% 207 9.86% 0 0.00%
+WORKERS
+1 Permanent (F) 22 18 81.82% 4 18.18% 0 0.00%
+2 Other than 
+Permanent (G)1825 1615 88.49% 210 11.51% 0 0.00%
+3 Total workers (F+G) 1847 1633 88.41% 214 11.59% 0 0.00%
+Annual Report 2023-24124
+  b. Differently abled employees and workers
+S. 
+No.Particulars Total 
+(A)Male Female Other
+No. (B) % (B/A) No. (C) % (C/A) No.(H) %(H/A)
+DIFFERENTLY ABLED EMPLOYEES
+1 Permanent (D) 3 3 100.00% 0 0.00% 0 0.00%
+2 Other than 
+Permanent (E)0 0 0.00% 0 0.00% 0 0.00%
+3 Total differently 
+abled employees 
+(D+E)3 3 100.00% 0 0.00% 0 0.00%
+DIFFERENTLY ABLED WORKERS
+1 Permanent (F) 0 0 0.00% 0 0.00% 0 0.00%
+2 Other than 
+Permanent (G)6 6 100.00% 0 0.00% 0 0.00%
+3 Total differently 
+abled workers 
+(F+G)6 6 100.00% 0 0.00% 0 0.00%
+ 22. Participation/inclusion/representation of women
+Total (A)No. and percentage of females
+No. (B) % (B/A)
+Board of Directors 8 1  12.50%
+Key Management Personnel 3 0 0.00%
+ 23. Disclose trends for the past 3 years
+ Turnover rate in current  FY24 Turnover rate in previous FY23 Turnover rate in the year prior to 
+the previous FY22
+Male Female Other Total Male Female Other Total Male Female other Total
+Permanent 
+Employees22.40% 34.23% 0.00% 23.78% 20.03% 31.69% 0.00% 21.37% 23.40% 35.31% 0.00% 25.09%
+Permanent 
+Workers0.00% 0.00% 0.00% 0.00% 19.23% 16.67% 0.00% 18.75% 0.00% 0.00% 0.00% 0.00%
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+ 24.
+ a. Names of holding / subsidiary / associate companies / joint ventures:
+S. 
+No.Name of Holding/Subsidiary/
+Associate Companies/Joint Venture 
+(A)Indicate whether 
+Holding/ 
+Subsidiary/ 
+Associate/Joint 
+Venture% Of 
+shares 
+held by 
+listed 
+entityDoes the entity 
+indicated in column 
+A, participate in the 
+Business Responsibility 
+initiatives of listed 
+entity? (Yes/No)
+1Twin Star Overseas Limited, Mauritius 
+(Immediate holding company)Holding 52.47% No
+2Jiangsu Sterlite Fiber Technology Co. 
+Ltd.Subsidiary 100% Yes
+3Sterlite Global Ventures (Mauritius) 
+LimitedSubsidiary 100% No
+4Sterlite Technologies UK Ventures 
+LimitedSubsidiary 100% No
+5 Speedon Network Limited Subsidiary 100% No
+6Elitecore Technologies (Mauritius) 
+LimitedSubsidiary 100% No
+7Elitecore Technologies SDN BHD. 
+(Malaysia)Subsidiary 100% No
+125
+01Corporate 
+Overview 02Statutory 
+Reports 03Financial 
+StatementsS. 
+No.Name of Holding/Subsidiary/
+Associate Companies/Joint Venture 
+(A)Indicate whether 
+Holding/ 
+Subsidiary/ 
+Associate/Joint 
+Venture% Of 
+shares 
+held by 
+listed 
+entityDoes the entity 
+indicated in column 
+A, participate in the 
+Business Responsibility 
+initiatives of listed 
+entity? (Yes/No)
+8Sterlite (Shanghai) Trading Company 
+LimitedSubsidiary 100% No
+9 Sterlite Tech Holding Inc. Subsidiary 100% No
+10 Sterlite Technologies Inc. Subsidiary 100% Yes
+11 Metallurgica Bresciana S.p.A Subsidiary 100% Yes
+12 Sterlite Innovative Solutions Limited Subsidiary 100% No
+13 STL Digital Limited Subsidiary 100% Yes
+14 Sterlite Tech Cables Solutions Limited Subsidiary 100% Yes
+15 STL Digital UK Limited Subsidiary 100% No
+16 PT Sterlite Technologies Indonesia Subsidiary 100% No
+17 Sterlite Technologies Pty. Ltd Subsidiary 100% No
+18 Sterlite Technologies DMCC Subsidiary 100% No
+19 STL Optical Interconnect S.p.A. Subsidiary 100% Yes
+20 Optotec S.p.A. Subsidiary 100% Yes
+21 Optotec International S.A. Subsidiary 100% No
+22 STL Networks Limited Subsidiary 100% No
+23 STL Tech Solutions Limited, UK Subsidiary 100% Yes
+24 STL UK Holdco Limited, UK Subsidiary 100% No
+25 STL Digital Inc. (USA) Subsidiary 100% No
+26 Clearcomm Group Limited, UK Subsidiary 100% Yes
+27 STL Optical Tech Limited Subsidiary 100% No
+28 STL Solutions Germany GmbH Subsidiary 100% No
+29 Sterlite Conduspar Industrial Ltda Jointventure 50% No
+VI. CSR Details
+ 25. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: Yes
+   a. Turnover (in `) - 3951.53 Crores
+   b. Net worth (in `) - 1720.88 Crores
+VII. Transparency and Disclosures Compliances
+ 26.  Complaints/grievances on any of the principles (Principles 1 to 9) under the National 
+Guidelines on Responsible Business Conduct (NGRBC)
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No)(if yes, then 
+provide 
+web-link for 
+grievance 
+redress policyFY24 FY23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities Yes https:/ /www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf0 0 - 0 0 -
+Investors 
+(other than 
+shareholders)Yes https:/ /www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf0 0 - 0 0 -
+Annual Report 2023-24126
+Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance 
+Redressal 
+Mechanism 
+in Place 
+(Yes/No)(if yes, then 
+provide 
+web-link for 
+grievance 
+redress policyFY24 FY23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks Number of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Shareholders Yes https:/ /www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf909 0 - 596 0 -
+Customers Yes https:/ /www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf0 0 - 0 0 -
+Value Chain 
+PartnersYes https:/ /www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf0 0 - 0 0 -
+Employees 
+and workersYes https:/ /www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf0 0 - 0 0 -
+Other Yes https:/ /www.stl.
+tech/pdf/coc/
+Whistle%20
+Blower%20
+Policy.pdf115 9 - 68 7 -
+ 27. Overview of the entity’s material responsible business conduct issues
+   Please indicate material responsible business conduct and sustainability issues pertaining to 
+environmental and social matters that present a risk or an opportunity to your business, rationale for 
+identifying the same, approach to adapt or mitigate the risk, as per the following format:
+S. 
+No.Material 
+issue 
+identifiedIndicate 
+whether 
+risk or 
+opportunity 
+(R/O)Rationale for identifying 
+the risk / opportunityIn case of risk, approach 
+to adapt or mitigate.Financial 
+implications of the 
+risk or opportunity 
+(Indicate positive 
+or negative 
+implications)
+1 Carbon 
+pricing R Carbon pricing 
+mechanisms are 
+being implemented to 
+encourage companies 
+to reduce their carbon 
+footprint.STL has taken a goal 
+to be Net zero and 
+is working towards 
+reducing its carbon 
+footprintNegative 
+Implications
+2 Sustainable 
+supply chainO Customers and investors 
+are increasingly 
+demanding that 
+companies adopt 
+sustainable practices 
+throughout their supply 
+chains.STL is identifying 
+and assessing the 
+sustainability of its 
+suppliers and taking 
+steps to ensure that they 
+meet our sustainability 
+standardsPositive 
+Implications
+3 Climate-
+related 
+regulationsR Worldwide regulations 
+are being implemented 
+to promote energy 
+efficiency and reduce 
+greenhouse gas 
+emissions.STL is investing in energy 
+efficiency measures and 
+exploring possibilities of 
+renewable energyPositive 
+Implications

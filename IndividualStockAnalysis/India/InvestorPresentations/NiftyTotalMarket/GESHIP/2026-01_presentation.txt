@@ -1,0 +1,841 @@
+
+=== page 1 ===
+ 
+ 
+www.greatship.com  
+ 
+ 
+Our Ref.: S/2026/SEC             January 29 , 202 6 
+ 
+ 
+BSE Limited      National Stock Exchange of India Limited  
+1st Floor, Phiroze Jeejeebhoy Towers,  Exchange Plaza, 5th Floor, Plot No. C/1, 
+Dalal Street,      Bandra Kurla Complex, Bandra (East),  
+Mumbai  – 400 001     Mumbai – 400 051 
+ 
+ 
+BSE Scrip code: 500620                     Trading Symbol - GESHIP  
+ 
+Dear Sir / Madam , 
+  We enclose herewith Investor Presentation pertaining to the Unaudited  Financial 
+Results  for the quarter  ended December  31, 20 25. 
+ 
+You are requested to take note of the above.  
+ 
+ 
+Thanking You,  
+Yours faithfully,  
+For The Great Eastern Shipping Co mpany  Limited   
+ 
+ 
+ 
+ 
+Anand Punde  
+Company Secretary  
+Email Id: anand_punde@greatship.com  
+   
+   
+ 
+=== page 2 ===
+INVESTOR PRESENTATION
+Q3FY26
+
+=== page 3 ===
+Disclaimer
+2This presentation and the accompanying slides (the “Presentation”), which have been prepared by Great Eastern Shipping Company Ltd (the “Company”), have
+beenpreparedsolelyforinformationpurposesanddonotconstituteanyoﬀer,recommendationorinvitationtopurchaseorsubscribeforanysecurities,andshall
+notformthebasisorbereliedoninconnectionwithanycontractorbindingcommitmentwhatsoever.NooﬀeringofsecuritiesoftheCompanywillbemade
+exceptbymeansofastatutoryoﬀeringdocumentcontainingdetailedinformationabouttheCompany.
+This Presentation has been prepared by the Company based on information and data which the Company considers reliable, but the Company makes no
+representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy, completeness, fairness and reasonableness of
+the contents of this Presentation. This Presentation may not be all inclusive and may not contain all the information that you may consider material. Any liability in
+respect of the contents of, or any omission from, this Presentation is expressly excluded.
+Certain matters discussed in this Presentation may contain statements regarding the Company’s market opportunity and business prospects that are individually
+and collectively forward-looking statements. Such forward-looking statements are not guarantees of future performance and are subject to known and unknown
+risks, uncertainties and assumptions that are difficult to predict. These risks and uncertainties include, but are not limited to, the performance of the Indian
+economy and of the economies of various international markets, the performance of the industry in India and world-wide, competition, the company’s ability to
+successfully implement its strategy, the Company’s future levels of growth and expansion, technological implementation, changes and advancements, changes in
+revenue,incomeorcashﬂows,theCompany’smarketpreferencesanditsexposuretomarketrisks,aswellasotherrisks.TheCompany’sactualresults,levelsof
+activity,performanceorachievementscoulddiﬀermateriallyandadverselyfromresultsexpressedinorimpliedbythisPresentation.TheCompanyassumesno
+obligation to update any forward-looking information contained in this Presentation. Any forward-looking statements and projections made by third parties
+included in this Presentation are not adopted by the Company and the Company is not responsible for such third-party statements and projections.
+All Maps used in the document are not to scale. All data, information and maps are provided "as is" without warranty or any representation of accuracy,
+timeliness or completeness.
+=== page 4 ===
+Financial Highlights
+=== page 5 ===
+3Q-FY2026 Results Highlights
+4•3Q26 Net Profit (Reported): Consol Net Profit of INR 813Cr ; Standalone Net Profit of INR 654Cr
+•NAV as on 31-Dec-25: Consol NAV of INR 1,566/share ; Standalone NAV of INR 1,233/share
+•Interim Dividend: Declared dividend of INR 9.00/share for 3Q26 (16thconsecutive quarterly
+dividend)
+=== page 6 ===
+Reported Financials
+5Consolidated Standalone
+9m FY26 Q3 FY25 Q3 FY26 9m FY26 Q3 FY25 Q3 FY26 Figures in INR Crores
+Income Statement
+4,455 1,501 1,737 3,088 1,227 1,222 Revenue*
+2,764 875 1,118 2,107 875 874 EBITDA*
+1,898 594 813 1,502 679 654 Net Profit
+Balance Sheet
+18,319 18,065 18,319 15,157 14,839 15,157 Total Assets
+15,952 14,017 15,952 13,210 11,864 13,210 Equity
+1,049 2,651 1,049 1,049 1,951 1,049 Gross Debt
+(7,277) (5,372) (7,277) (5,534) (4,755) (5,534) Net Debt 
+Cash Flows
+2,054 570 751 1,522 495 604 - From Operating Activities
+(329) 529 (237) (693) 532 (206) - From Investing Activities
+(1,631) (294) (395) (925) (237) (394) - From Financing Activities
+94 805 119 (96) 790 4 Net Cash Inflow/Outflow
+* Including Other Income
+=== page 7 ===
+Normalised Financials
+6Consolidated Standalone
+9m FY26 Q3 FY25 Q3 FY26 9m FY26 Q3 FY25 Q3 FY26 Figures in INR Crores
+Income Statement
+4,455 1,501 1,737 3,088 1,227 1,222 Revenue*
+2,642 826 1,082 1,987 820 842 EBITDA*
+1,808 569 777 1,417 644 632 Net Profit
+Balance Sheet
+18,319 18,065 18,319 15,157 14,839 15,157 Total Assets
+15,952 14,017 15,952 13,210 11,864 13,210 Equity
+1,407 3,127 1,407 1,407 2,427 1,407 Gross Debt
+(6,919) (4,897) (6,919) (5,176) (4,280) (5,176) Net Debt 
+* Including Other Income
+Normalised Financial Workings: The impact of the exchange rate on foreign currency loans and current assets and liabilities,
+including cash and bank balances, has been removed
+NCD & Currency Swaps:
+•Funds raised through NCDs have been swapped into USD using INR-FCY swaps, thus creating synthetic fixed rate USD loans.
+•The MTM change of these swaps impacts the reported numbers.
+•Normalized numbers are worked out after making necessary adjustments to reported numbers to reflect the effective cost of the
+synthetic USD loans.
+=== page 8 ===
+Normalised Financial Highlights
+7Consolidated Standalone
+9m FY26 Q3 FY25 Q3 FY26 9m FY26 Q3 FY25 Q3 FY26 Key Financial Highlights 
+16% 17% 20% 15% 22% 20% Return on Equity 
+15% 14% 18% 14% 19% 18% Return on Capital Employed
+0.09 0.22 0.09 0.11 0.20 0.11 Gross Debt/Equity (x)
+(0.43) (0.35) (0.43) (0.39) (0.36) (0.39) Net Debt/Equity (x)
+126.62 39.82 54.41 99.27 45.10 44.25 Earning Per Share (INR/Share)
+173.36 54.21 71.66 130.42 54.39 56.22 Cash Profit Per Share (INR/Share)
+23.40 8.10 9.00 23.40 8.10 9.00 Dividend Per Share (INR/Share)
+1,542-1,590 1,378-1,435 1,542-1,590 1233 1,138 1233 Net Asset Value Per Share (INR/Share)
+* Including Other income
+=== page 9 ===
+P&L Statement – Industry Format
+8Consolidated Standalone
+9m FY26 Q3 FY25 Q3 FY26 9m FY26 Q3 FY25 Q3 FY26 Figures in INR Crores
+3,880 1,225 1,449 2,599 866 957 Operating Revenue
+521 182 181 273 97 87 Less: Direct Operating Expense/Voyage Expense
+3,359 1,043 1,268 2,326 770 870 Time Charter Equivalent (A)
+160 266 159 160 266 159 Profit on sale of ships and other asset
+416 10 128 330 95 106 Other Income
+575 276 287 489 361 265 Total Other Income (B)
+976 379 346 614 230 213 Other Operating Expense
+317 111 126 215 81 80 Administrative and General Expense
+1,293 490 472 829 310 294 Total Expense (C)
+2,642 829 1,084 1,987 820 842 EBITDA (D) = [(A)+(B)-(C)]
+667 205 246 445 133 171 Depreciation and Amortisation (E)
+- - - - - - Impairment/(Reversal of Impairment) on certain ships (F)
+1,975 624 837 1,542 687 671 Operating Profit including Other Income (G) = [(D)-(E)-(F)]
+113 61 25 83 44 25 Finance Expense (H)
+74 37 15 70 31 12 Derivative Losses/(Gains) (I)
+(196) (83) (49) (191) (87) (44) Foreign Currency Exchange Losses/(Gains) (J)
+85 14 34 78 20 25 Income Tax Expense (K)
+1,898 594 813 1,502 679 654 Net Profit [(G)-(H)-(I)-(J)-(K)]
+=== page 10 ===
+Business Overview 
+=== page 11 ===
+Crude and Product Tanker 
+10Sources: Industry Reports% change 9m FY25 9m FY26 USD/day
+-13% 25,041 21,765 MR% change 9m FY25 9m FY26 USD/day
+32% 44,517 58,691 SuezmaxCrude Tankers
+•Global dirty trade witnessed strong growth, with volumes up 7% y/y in Q3 FY26.
+•Unwinding of OPEC+ production cuts resulted in a 11% y/y rise in MEG exports,
+while South American exports surged 22% led by Brazil & Guyana.
+•China continued to absorb large share of these volumes, with import growth of 10%
+y/y in Q3 FY26. Chinese inventory build up continued throughout the quarter.
+•Russia sustained an elevated pace of loading activity; however, these barrels are
+struggling to find end markets, resulting in a build-up of floating storage.
+•The crude tanker fleet grew by only 1% to the previous year. However, nearly ~35
+LR2 tankers have switched to dirty in Q3 FY26. Congestion for VLCC tankers built up
+at Chinese ports.
+Product Tankers
+•Total seaborne product trade declined by 1% y/y in Q3 FY26. However, long haul
+East-West & West-East flows were stronger y/y, supporting the product tanker
+market.
+•Nominal product tanker fleet expanded by approximately 5% y/y, but the switching
+of LR2 to dirty roughly negated 2% of the fleet growth.
+Tanker asset prices & order book
+•Asset prices for Crude & Product tankers inched up 5-10% q/q across age & vessel 
+type.
+•The orderbook for crude and product tankers is currently 17% and 19% of 
+respective fleet .010,00020,00030,00040,00050,00060,00070,00080,00090,0001,00,000
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb MarAvg. Suezmax Earnings (USD/day)
+FY22 FY23 FY24 FY25 FY26
+010,00020,00030,00040,00050,000
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb MarAvg. MR Earnings (USD/day)
+FY22 FY23 FY24 FY25 FY26
+=== page 12 ===
+Dry Bulk 
+11% change 9m FY25 9m FY26 USD/day
+11% 21,794 24,213 Capesize
+% change 9m FY25 9m FY26 USD/day
+-1% 13,729 13,529 Supramax Sources: Industry Reports•Spot earnings grew significantly y/y in Q3 FY26. Capesize earnings rose by 65% y/y, 
+while Kamsarmax and Supramax earnings increased y/y by 53% & 32%, respectively.
+•Iron ore trade witnessed substantial growth of 10% y/y during Q3 FY26 as China 
+continued to stock-up on Brazilian and Australian supply, resulting in a noticeable rise in 
+China’s iron ore inventory levels. 
+•Coal trade remained muted & declined by 1% y/y in Q3 FY26 as demand from China 
+& India remained subdued. Improving coal exports from Russia were countered by a 
+decline in Indonesian exports.
+•Grain trade grew by 7% y/y in Q3 FY26 as China continued importing grains from 
+South America. China’s imports of US grains also recovered post announcement of a 
+US-China soybean trade deal.
+•Minor Bulks trade also remained firm, aided by continued strength of bauxite trade 
+which grew during the quarter by 13% y/y.
+•Bulker Carrier asset prices firmed 3-5% during the quarter.
+•Bulk carrier fleet grew by 3% y/y during Q3 FY26.
+•Order book for the dry bulk sector stands at ~12.5% of fleet. 010,00020,00030,00040,00050,00060,00070,000
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb MarAvg. Baltic Capesize 5T/C Earnings (USD/day)
+FY22 FY23 FY24 FY25 FY26
+05,00010,00015,00020,00025,00030,00035,00040,000
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb MarAvg. Baltic Supra BSI-58 10T/C Earnings 
+(USD/day)
+FY22 FY23 FY24 FY25 FY26
+=== page 13 ===
+LPG Gas
+12% change 9m FY25 9m FY26 USD/day
+37% 40,321 55,284 VLGC
+Sources: Industry Reports•VLGC spot earnings  grew by 56% y/y in Q3 FY26.
+•Trade volumes were down 4% y/y, as exports from US to China
+collapsed to one third owing to the trade war.
+•U.S. export volumes that previously transited to China via the Panama Canal 
+were redirected to Indonesia and India through the Cape of Good Hope. 
+•Overall, US production continue to grow but exports declined during the
+quarter, resulting in inventory buildup.
+•Asset prices were flat y/y during the quarter.
+•VLGC fleet grew by 3% y/y in Q3 FY26. 
+•The total VLGC orderbook-to-fleet remains elevated at 29%.  - 20,000 40,000 60,000 80,000 1,00,000 1,20,000 1,40,000 1,60,000
+April May June July Aug Sep Oct Nov Dec Jan Feb MarAvg. VLGC Earnings (USD/day)
+FY 22 FY23 FY24 FY25 FY26
+=== page 14 ===
+Asset Price Movement 
+13Sources: Industry Reports147
+80100120140160180
+Jan-20
+May-20
+Sep-20
+Jan-21
+May-21
+Sep-21
+Jan-22
+May-22
+Sep-22
+Jan-23
+May-23
+Sep-23
+Jan-24
+May-24
+Sep-24
+Jan-25
+May-25
+Sep-25
+Jan-265 Yr Old Asset Value Movement (Product)
+MR
+183
+80100120140160180200
+Jan-20
+May-20
+Sep-20
+Jan-21
+May-21
+Sep-21
+Jan-22
+May-22
+Sep-22
+Jan-23
+May-23
+Sep-23
+Jan-24
+May-24
+Sep-24
+Jan-25
+May-25
+Sep-25
+Jan-265 Yr Old Asset Value Movement (Dry Bulk)
+Capesize134
+90100110120130140150
+Jan-20
+May-20
+Sep-20
+Jan-21
+May-21
+Sep-21
+Jan-22
+May-22
+Sep-22
+Jan-23
+May-23
+Sep-23
+Jan-24
+May-24
+Sep-24
+Jan-25
+May-25
+Sep-25
+Jan-265 Yr Old Asset Value Movement (LPG)
+VLGC158
+7595115135155
+Jan-20
+May-20
+Sep-20
+Jan-21
+May-21
+Sep-21
+Jan-22
+May-22
+Sep-22
+Jan-23
+May-23
+Sep-23
+Jan-24
+May-24
+Sep-24
+Jan-25
+May-25
+Sep-25
+Jan-265 Yr Old Asset Value Movement (Crude)
+Series1
+=== page 15 ===
+Historical Order Book as % of Fleet
+1416.519.4
+12.529.3
+0.010.020.030.040.050.060.070.080.090.0
+Crude Tankers Product Tankers Dry Bulk Carriers LPG Carriers (65k+ cbm)Historic Order Book as a % of fleet (Calendar Year)
+=== page 16 ===
+Global Order Book and Scrapping Potential
+1516%21%13%29%
+24%21%13%11%
+0% 5% 10% 15% 20% 25% 30% 35%CrudeProductDrybulkLPG
+Aging Fleet % of Total Fleet Orderbook % of Total Fleet
+Scrapping Potential: For LPG carriers 25+ age is considered while all other vessel category 20+ is considered
+=== page 17 ===
+Global Order Book 
+16Sources: Industry Reports4.1%8.3%
+6.7%
+4.3%9.4%
+6.5%7.7%
+5.6%
+3.9%12.4%
+4.8%
+3.6%
+2.3%2.8%6.9%
+1.1% 0.9%0.6%1.6%
+0.5%
+0.0%2.0%4.0%6.0%8.0%10.0%12.0%14.0%
+Crude Product Product (Ex LR2) Drybulk LPGOrderbook % of Fleet
+2026 2027 2028 2029 & Beyond
+=== page 18 ===
+Global Scrapping
+17CY 2016 CY 2017 CY 2018 CY 2019 CY 2020 CY 2021 CY 2022 CY 2023 CY 2024 CY 2025Vessel 
+Category
+0.39 2.43 4.39 0.55 0.52 2.18 0.67 0.08 0.14 0.48 Crude 
+0.56 1.22 1.74 0.60 0.56 2.03 0.76 0.14 0.06 0.86 Product
+3.79 1.85 0.54 0.93 1.74 0.57 0.45 0.55 0.37 0.48 Dry Bulk
+Fleet in Dwt MnScrapping (% Beginning world fleet)
+=== page 19 ===
+72 
+5055606570758085
+200250300350400450
+Jan 2010
+Jul 2010
+Jan 2011
+Jul 2011
+Jan 2012
+Jul 2012
+Jan 2013
+Jul 2013
+Jan 2014
+Jul 2014
+Jan 2015
+Jul 2015
+Jan 2016
+Jul 2016
+Jan 2017
+Jul 2017
+Jan 2018
+Jul 2018
+Jan 2019
+Jul 2019
+Jan 2020
+Jul 2020
+Jan 2021
+Jul 2021
+Jan 2022
+Jul 2022
+Jan 2023
+Jul 2023
+Jan 2024
+Jul 2024
+Jan 2025
+Jul 2025Jack Up Utilisation 
+Under Contract Total Util %Offshore Market Trends – Jackup Rig Utilization
+18Sources: Industry Reports
+=== page 20 ===
+FLEET SUPPLY – Rigs & OSVs
+19Sources: Industry ReportsCurrent Fleet 495 3349
+Cold stacked more than 3 years 62 441
+No of Vessels/Rigs more than 20/30 years old (% Fleet) 31% 25%
+Under Contract Fleet 356 2307
+Order Book 11 96
+O/B to Current Fleet 2.2% 2.9%Rigs OSVs
+=== page 21 ===
+Company Overview
+=== page 22 ===
+Key Highlights
+2140
+Vessels
+26
+Tankers
+3202836
+Deadweight Ton
+GIL: 4 RIGs 
+& 19 OSVs
+1948
+Foundation
+India Largest  
+Shipping & 
+Oilfield Services 
+Provider
+14
+Dry Bulk Carrier
+AAA
+GESCO Credit Rating
+
+=== page 23 ===
+Shareholding Pattern as on 31stDecember 2025
+22
+Promoters
+30%
+Public
+28%DII/FI
+16%FII/FPI
+26%
+=== page 24 ===
+Fleet profile
+23Fleet (30-Jan-2026) Fleet Profile – Shipping
+Avg. Age (Yrs) DWT No Fleet 
+14.97 6,91,049 5 Crude Carrier
+16.45 9,99,204 16 Product Carrier
+18.24 2,39,927 5 Gas Carrier
+11.30 12,72,656 14 Dry Bulk Carrier
+14.68 32,02,836 40 Total
+Fleet (30-Jan-2026) Fleet Profile – Offshore
+Avg. Age (Yrs) No Fleet 
+14.29 4 Jack Up Rigs
+16.47 4 Platform Supply Vessel
+16.54 9 Anchor Handling Tug cum Supply Vessels
+15.75 2 Multipurpose Platform Supply & Support Vessels
+14.30 4 ROV Support Vessels
+=== page 25 ===
+Sale & Purchase Activities in 3Q26
+24Vessels added to the fleet in 3Q26 (Purchases)
+Built DWT Type Vessel Name Sr. No.
+2016 81,922 Kamsarmax (Dry Bulk Carrier) Jag Anjali 1
+2010 1,64,715 Suezmax (Crude Tanker) Jag Laadki 2
+Vessels added to the fleet in Jan’26 (Purchases)
+2015 54,564 Very Large Gas Carrier Jag Vijay 3
+2019 63,480 Ultramax (Dry Bulk Carrier) Jag Riddhi 4
+Vessels removed from the fleet in 3Q26 (Sales)
+Built DWT Type Vessel Name Sr. No.
+2005 48,539 Medium Range (Product Tanker) Jag Pooja 1
+2005 1,58,280 Suezmax (Crude Tanker) Jag Lok 2
+Vessel removed from the fleet in Jan’26 (Sales)
+2011 80,324 Kamsarmax (Dry Bulk Carrier) Jag Aarati 3
+=== page 26 ===
+Performance Review
+25* Relates to the inchartered ships in GES IFSCBreakup of Revenue Days – Shipping
+Q3 FY25 Q3 FY26 Revenue Days
+3,611 3,581 Owned Tonnage 
+184 184 Inchartered Tonnage*
+3,795 3,765 Total Revenue Days
+3.10 3.22 Total Owned Tonnage (mm. dwt)
+Breakup of Revenue Days – Offshore
+Q3 FY25 Q3 FY26 Revenue Days
+1,464 1,639 Offshore Logistics
+291 308 Drilling Services 
+1,756 1,947 Total
+Avg TCYs in various category
+YoY % Q3 FY25 QoQ % Q2 FY26 Q3 FY26 Avg. TCYs (USD/day)
+18% 40,082 58% 29,974 47,281 Crude Carriers
+6% 23,655 0% 25,110 25,117 Product Carriers
+6% 41,137 1% 43,146 43,611 LPG Carriers
+12% 16,030 15% 15,695 17,983 Dry Bulk
+=== page 27 ===
+Revenue Coverage  
+26Coverage of Operating Days – Shipping
+Q4 FY26 Category
+57% Crude Carriers
+58% Product Carriers
+100% LPG Carriers
+59% Dry Bulk
+Coverage of Operating Days – Offshore
+Q4 FY26 Revenue Days
+71% Jack Up Rigs
+86% AHTSV
+100% MPSVV
+100% PSV/ROVSV
+=== page 28 ===
+Financial Parameters (Reported Basis)
+2718%
+13%31%
+25%
+19%
+16%13%
+8%28%
+23%
+18%17%
+0%5%10%15%20%25%30%35%
+FY21 FY22 FY23 FY24 FY25 FY26 YTDROE (%) 
+Standalone Consol14% 11%25%21%18%
+15%
+9% 8%22%20%
+16%16%
+0%5%10%15%20%25%30%
+FY21 FY22 FY23 FY24 FY25 FY26 YTDROCE (%) 
+Standalone Consol
+7055165 162 152
+105
+6343180 183164
+133
+050100150200
+FY21 FY22 FY23 FY24 FY25 FY26 YTDEarnings Per Share (INR/Share)
+Standalone Consol10085196 194193
+13611391230 233 225
+180
+050100150200250
+FY21 FY22 FY23 FY24 FY25 FY26 YTDCash Profit Per Share (INR/Share)
+Standalone Consol
+=== page 29 ===
+NAV Movements
+28489 1,233 
+ - 200 400 600 800 1,000 1,200 1,400
+FY21 FY22 FY23 FY24 FY25 Q3 FY26Standalone NAV (INR/share)
+CAGR: 21%
+538 1,566 
+ - 200 400 600 800 1,000 1,200 1,400 1,600 1,800
+FY21 FY22 FY23 FY24 FY25 Q3 FY26Consolidated NAV (INR/share)
+CAGR: 25%
+1,138 167 
+(44) (28)1,233 
+NAV Dec'24 Cash Profit Fleet Value Dividend NAV Dec'25-200 400 600 800 1,000 1,200 1,400 Changes in Standalone NAV (INR/share) 
+1,418 (46) (28)1,566 223 
+NAV Dec'24 Cash Profit Fleet Value Dividend NAV Dec'25-200 400 600 800 1,000 1,200 1,400 1,600 1,800 Changes in Consolidated NAV (INR/share)
+=== page 30 ===
+1,566 
+1,233 
+0.76
+0.300.400.500.600.700.800.901.00
+ - 200 400 600 800 1,000 1,200 1,400 1,600
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 Q3-FY26
+Consolidated NAV Standalone NAV Share Price/Consol. NAV (RHS)SHARE PRICE TO CONSOLIDATED NAV
+29INR/Share
+* For Q3FY26 we have taken closing share price as on 29thJanuary 2026 (INR 1,187/share)
+=== page 31 ===
+Dividend Payout 
+3013.5
+10.1
+7.25.48.199.928.836.3
+29.7
+23.4
+0510152025303540
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY26 YTDGESCO Dividends (INR/Share)
+* FY26 YTD includes dividend of INR 9.00/share declared for 3Q26
+=== page 32 ===
+STRONG CASHFLOWS
+31Peak Net Debt USD 361mn to Net Cash of USD 574mn
+361 
+(574)0.49 
+(0.39) (0.50) (0.40) (0.30) (0.20) (0.10) - 0.10 0.20 0.30 0.40 0.50 0.60
+ (800) (600) (400) (200) - 200 400 600
+FY15 FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 3Q-FY26
+Net Debt Net Debt/Equity (RHS)Net Debt Expansion Phase Net Debt Reduction Phase
+USD mn
+=== page 33 ===
+67
+2366157 157
+90
+66
+0
+050100150200
+020406080
+Dec-25 Mar-26 Mar-27 Mar-28 Mar-29GESCO - Standalone (USD mn)
+Repayments Loan O/s (RHS)Debt Repayment Schedule 
+32
+=== page 34 ===
+GIL – Fleet Pricing
+3314 4
+17
+2
+01 1 1
+0 0 01
+012345678
+H2FY26 H1FY27 H2FY27 H1FY28 H2FY28 H1FY29 H2FY29GIL – Fleet Repricing
+Vessels Rigs
+=== page 35 ===
+Board of Directors & ESG
+=== page 36 ===
+Mr. K. M. Sheth
+(Chairman Emeritus)Mr. K. M. Sheth joined the company in 1952; was inducted on the Board of Directors of the Company in 1970; became the Deputy Chairman
+and Managing Director in 1975 and rose to become the Chairman and Managing Director in 1992. In recognition of Mr. K. M. Sheth's lifelong
+and distinguished service to the Company and his invaluable contribution to the Indian maritime industry, the Board of Directors has
+appointed him as ‘Chairman Emeritus’ of the Company for life consequent upon his stepping down as Chairman and member of the Board
+of the Company in Nov’25.
+Mr. Bharat K. Sheth
+(Chairman & Managing 
+Director)Mr. Bharat K. Sheth was appointed Chairman and Managing Director in Nov’25, after guiding the Company in its strategic and decision-
+making policies as Deputy Chairman & Managing Director for more than 20 years. Since joining the company in 1981, he has worked closely
+with his colleagues, seen many shipping cycles and gained expertise in all the critical functions of the shipping business.
+He is also the Chairman of Greatship (India) Ltd.
+Mr. Amitabh Kumar
+(Independent Director)Mr. Amitabh Kumar has distinguished service of 37+ years in Government of India, including 7+ years at the helm of Maritime
+Administration as Director General of Shipping. He retired as Principal Chief Commissioner of Income Tax at the level of Secretary to
+Government of India.
+Mr. Berjis Desai
+(Non-Executive 
+Director)Mr. Berjis Desai is an eminent solicitor. He has extensive experience both as an Arbitrator and Counsel in international commercial as well
+as domestic arbitrations. Mr. Berjis Desai has been practicing law since 1980. He specializes in financial and securities laws, and structured
+finances. He has been a working journalist with a leading Indian daily and is a columnist in Indian newspapers.
+Mrs. Bhavna Doshi
+(Independent Director)With specialization in the fields of taxation and corporate restructuring, Mrs. Bhavna Doshi has been providing advisory services to national
+and multi-national entities for over 30 years. She was elected to the Council of the Institute of Chartered Accountants of India (ICAI) for four
+terms of three years each. She has chaired Accounting Standards Board Research, Vision 2021 and other Committees of ICAI.Board of Directors
+35
+=== page 37 ===
+Mrs. Kalpana 
+Morparia 
+(Independent Director)Mrs. Kalpana Morparia has been recognized by several international and national media for her role as one of the leading women
+professionals. She is also a member of the Governing Board of Bharti Foundation, Foundation for Audit Quality (FAQ) and Krea University.
+She is also a Director of Generation India Foundation. She has been conferred the Padma Shri award in the category of Trade and Industry
+by the Government of India in January 2024.
+Mr. Keki Mistry
+(Independent Director)Mr. Keki Mistry is a Chartered Accountant from the Institute of Chartered Accountants of India (ICAI). Mr. Keki Mistry brings with him over
+four decades of varied work experience in the Banking and Financial Services domain. With the amalgamation of HDFC, Mr. Mistry
+superannuated from HDFC (Vice-Chairman & CEO) and has been appointed as a Non-Executive Director on the Board of HDFC Bank
+Limited from June 30, 2023.
+Mr. Raju Shukla
+(Independent Director)Mr. Shukla is the Founder of Ariana Investment Management, a fund management company regulated by Monetary Authority of Singapore
+(MAS) with offices in Singapore and Mumbai. He was also Non-Executive Chairman of Ocean Dial Asset Management that manages over
+USD 500 Mn of assets investing in listed Indian equities. Mr. Raju Shukla is a senior banking and investment industry professional with over
+20 years’ experience.
+Mr. Ranjit Pandit
+(Independent Director)As erstwhile Managing Director – India for McKinsey & Co., he served a number of major U.S. and other global companies in a variety of
+areas, including corporate governance/leadership, corporate finance, alliances and operations management. Mr. Ranjit Pandit is currently
+an investor and a philanthropist with a controlling interest in several manufacturing businesses.
+Mr. T. N. Ninan
+(Independent Director)Mr. Ninan has widely considered to be a pioneering editor and trend-setter in Indian business journalism with a career spanning five
+decades. He has been chairman of the board of trustees of Independent and Public-Spirited Media Foundation, the largest charitable
+funder of independent news websites. He was an independent director of The Press Trust of India Ltd, India’s leading wire service.Board of Directors
+36
+=== page 38 ===
+Mr. Uday Shankar
+(Independent 
+Director)An acclaimed entrepreneur and executive, he is credited with transforming the media and entertainment industry in India and Asia Pacific
+over the last three decades. Mr. Uday began his career as a journalist before assuming leadership of Star India (later Disney Star) and
+creating the largest media and entertainment business in the Asia-Pacific region.
+Mr. Ravi K. Sheth
+(Non-Executive 
+Director)Mr. Ravi K. Sheth has been providing outstanding leadership as Managing Director of GIL and has significantly contributed to the progress
+and growth of GIL, which is today one of India’s largest offshore oilfield services providers. With a view to focus on the offshore business,
+at his request, Mr. Ravi K. Sheth was relieved from the position of the ‘Executive Director’ of the Company w.e.f. April 01, 2015. Since
+then, he continues to be the Non-Executive Director of the Company.
+Mr. G. Shivakumar
+(Executive Director & 
+CFO)He joined the Company as a management trainee immediately after completing his management in 1990 and contributed to the Company
+through stints in key functions like Treasury, Corporate Finance, Human Resources and Strategic Planning. He rose to become the ‘Chief
+Financial Officer’ of the Company in 2008 and the ‘Executive Director & CFO’ of the Company on November 14, 2014. He is also Chief
+Financial Officer of our subsidiary Greatship (India) Limited.Board of Directors
+37Mr. Shivshankar 
+Menon
+(Independent Director)Ambassador Shivshankar Menon is currently visiting professor at Ashoka University, India, and Chair of the Ashoka Centre for China Studies. 
+He was previously National Security Advisor to the Prime Minister of India, Jan 2010-May 2014; Foreign Secretary of India, October 2006-
+July 2009; and has served as the Indian Ambassador or High Commissioner to China, Pakistan, Sri Lanka and Israel. He is also Chairman, 
+Advisory Board, Institute of Chinese Studies, New Delhi; Distinguished Fellow of the Centre for Social and Economic Progress, India; 
+Member, Board of Trustees, International Crisis Group; and, a Distinguished Fellow, Asia Society Policy Institute, New York.
+
+=== page 39 ===
+ESG
+38Environmental Social Governance
+CO2 Emission reduction measures:
+High performance paint, Mewis duct, 
+& redesigned propellers.
+Regulatory compliance: 
+Ballast water treatment on all vessels 
+& digitalisation of environment records
+Effective management of Fuel EU / EU 
+ETS regulations : Use of bio-fuels, 
+participation in carbon credits & 
+Environment Ship Index program.Company specific training:
+Company specific crew training on 
+safety, digital navigation, and 
+emergency drills.
+Seafarer’s well-being:
+Medical insurance, mental-health 
+support, offshore communication &  
+internet facilities.
+CSR investments via GE Foundation:
+Education, healthcare, & livelihood 
+development in eastern & 
+northeastern India.Regulatory compliance:
+Robust Integrated Management 
+System (IMS) certified under ISO 
+14001, ISO 45001, and ISO 9001.
+Corporate governance:
+Strong Board diversity with 
+independent oversight; transparent 
+BRSR & ESG disclosures.
+Quality risk management:
+Zero-tolerance toward corruption, data 
+breaches, and non-compliance; active 
+whistle-blower mechanism.
+
+=== page 40 ===
+Since 2015 , GEF has 
+partnered with 61 
+NGOs under the three 
+key CSR focus areas.Education: More than 
+2.65 Lakh students 
+reached out through 
+primary and secondary 
+education. Health: Around 89,000 
+women, 13,000 girls 
+and 50,000 children 
+provided with health 
+services – including 
+maternal care, 
+nutrition support 
+through clinics and 
+community programs. Livelihoods: Around 
+46,000 women 
+provided with 
+entrepreneurship 
+trainings and business 
+handholding support 
+in agriculture, non-
+agriculture sectors and 
+handloom weaving. FY 2025-26: Currently, 
+supporting 34 NGOs 
+working under 
+education, health and 
+livelihoods across 22 
+States and Union 
+Territories in India.Great Eastern Shipping Foundation 
+39
+=== page 41 ===
+Great Eastern Shipping Foundation
+40Livelihood Health Education
+1. Access Livelihoods Foundation 1. Animedh Charitable Trust 1. Adhyayan Quality Education Foundation
+2. Ayang Trust2. Anushkaa Foundation for Eliminating Clubfoot 
+(AFEC)2. Akanksha Foundation
+3. Foundation for Promotion of Sports and Games 
+(OGQ program)3. CanSupport3. Alumni Association of College of Engineering, 
+Guindy (AACEG)
+4. Impact Foundation (India)/ Dasra 4. Cuddles Foundation 4. ATMA Education
+5. Forum for Knowledge and Social Impact/IDR 5. Every Infant Matters Association 5. IIT Madras
+6. Mauna Dhwani Foundation 6. Inga Health Foundation (IHF) 6. Educational Initiatives
+7. Medha Learning Foundation 7. Nourishing Schools Foundation (NSF) 7. Saajha
+8. Nudge Lifeskills Foundation 8. Studeasy Bharat Foundation
+9. Sri Arunodayam Charitable Trust 9. Teach to Lead (TFI program)
+10. Vrutti 10. Ummeed Child Development Center
+11. Samast Mahajan 11. Vision Empower
+12. Under The Mango Tree Society 12. 17000ft Foundation
+13. Eastern Himalayan Foundation
+14. Open Links Foundation
+15. Rocket Learning
+=== page 42 ===
+CSR
+41
+INR 145 Crore
+Total CSR Spent61
+No. of NGO partners supported22 States & UT
+Geography Covered
+=== page 43 ===
+Thank You!
+Read the Story of GE Shipping – Coffee Table Book
+Visit us at www.greatship.com
+=== page 44 ===
+Fleet Details
+=== page 45 ===
+Shipping Fleet 
+44
+BUILT GRT DWT TYPE VESSEL NAME SR.NO
+2010 81,427 1,57,642 Suezmax JAG LEENA 1
+2011 81,427 1,57,642 Suezmax JAG LAKSHYA 2
+2010 84,795 1,64,715 Suezmax JAG LAADKI 3
+2011 57,249 1,05,525 Aframax JAG LEELA 4
+2012 57,249 1,05,525 Aframax JAG LAXMI 5BUILT GRT DWT Type VESSEL NAME SR.NO
+2009 57,142 1,05,900 Long Range 2 JAG LOKESH 6
+2012 59,024 1,05,258 Long Range 2 JAG LARA 7
+2008 42,403 74,841 Long Range 1 JAG AABHA 8
+2008 42,403 74,811 Long Range 1 JAG AANCHAL 9
+2009 42,403 74,500 Long Range 1 JAG AMISHA 10
+2009 42,403 74,859 Long Range 1 JAG APARNA 11
+2003 27,627 46,273 Medium Range JAG PANKHI 12
+2007 29,909 47,400 Medium Range JAG PRAKASH 13
+2007 29,909 47,400 Medium Range JAG PUSHPA 14
+2007 30,028 47,400 Medium Range JAG PRERANA 15
+2008 29,733 51,464 Medium Range JAG PAVITRA 16
+2016 29,967 49,717 Medium Range JAG PUNIT 17
+2008 30,170 46,197 Medium Range JAG PARTH 18
+2010 28,465 49,999 Medium Range JAG PRIYA 19
+2013 29,762 51,486 Medium Range JAG PRACHI 20
+2013 29,708 49,990 Medium Range JAG PRIYANKA 21
+Crude Tanker (Oil) Product Tanker
+=== page 46 ===
+Shipping Fleet 
+45
+LPG Carrier Dry Bulk Carrier
+BUILT GRT DWT TYPE VESSEL NAME SR.NO
+2006 23,003 26,427 MGC JAG VIKRAM 22
+2002 44,673 49,996 VLGC JAG VISHNU 23
+2006 48,772 54,490 VLGC JAG VASANT 24
+2015 47,347 54,564 VLGC JAG VIJAY 25
+2007 48,772 54,450 VLGC JAG VIRAAT 26BUILT GRT DWT TYPE VESSEL NAME SR.NO
+2011 93,227 1,79,250 Capesize JAG ANAND 27
+2014 92,155 1,80,694 Capesize JAG ALAIA 28
+2011 43,790 80,325 Kamsarmax JAG ADITI 29
+2015 43,007 80,699 Kamsarmax JAG ARNAV 30
+2016 44,127 82,094 Kamsarmax JAG AJAY 31
+2016 44,113 82,023 Kamsarmax JAG AALOK 32
+2016 44,113 82,044 Kamsarmax JAG AKSHAY 33
+2017 44,127 82,084 Kamsarmax JAG AMAR 34
+2014 43,430 80,919 Kamsarmax JAG AMAIRA 35
+2015 43,184 81,843 Kamsarmax JAG AMOL 36
+2016 43,036 81,922 Kamsarmax JAG ANJALI 37
+2019 35,842 63,480 Ultramax JAG RIDDHI 38
+2009 32,354 58,133 Supramax JAG RADHA 39
+2013 31,751 56,103 Supramax JAG RAJIV 40
+=== page 47 ===
+Offshore Fleet 
+46Year Build DWT (MT) Vessel / Rig Name Category 
+2005 3,329 Greatship Dipti
+Platform Supply Vessel2008 3,329 Greatship Dhriti
+2008 3,304 Greatship Dhwani
+2015 4,149 Greatship Prachi
+2010 2,242 Greatship Ramya
+R Class Supply Vessel2011 3,609 Greatship Rashi
+2012 3,656 Greatship Roopa
+2012 3,674 Greatship Rachna
+2008 2,188 Greatship Anjali
+Anchor Handling Tug cum Supply Vessel2008 2,045 Greatship Amrita
+2009 1,634 Greatship Ahalya
+2009 1,650 Greatship Aarti
+2009 2,045 Greatship Aditi
+2012 3,289 Greatship Vidya
+2012 3,331 Greatship Vimla
+2007 1,650 Greatship Amaira
+2009 4,252 Greatship Maya
+Multi-purpose Platform Supply and Support Vessels
+2010 4,221 Greatship Manisha

@@ -1,0 +1,128 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/ PR/SE/43/2024 -25 
+ 
+February 20, 202 5 
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ TCS Partners with Salesforce 
+to Unlock the Power of AI for Manufactur ers, Semiconductor Supplier s” which will 
+be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ 
+Encl: As above  
+ 
+ 
+Page 1 of 2 
+ 
+Confidential  TCS Partners with Salesforce to Unlock the Power of AI for 
+Manufactur ers, Semiconductor Suppliers  
+The collaboration will leverage the combined industry expertise, AI, and cloud capabilities of TCS and 
+Salesforce to help manufacturers and semiconductor chip makers  to unlock data -driven insights  for smarter 
+selling and exceptional service  
+As part of the collaboration, TCS launched three initiatives  that will help customers enhance sales efficiency, 
+optimize field operations and elevate customer experience  
+NEW YORK | MUMBAI , FEBRUARY  20, 2024: Tata Consultancy Services  (TCS) (BSE: 532540, NSE: T CS), a global 
+leader in IT services, consulting, and business solutions , announced a new collaboration  with Salesforce 
+(NYSE: CRM), the global leader in CRM, to help customers in the manufacturing and semiconductor industries 
+drive value from artificial intelligence. As part of this collaboration , TCS launched three initiatives : 
+Semiconductor Sales Accelerator  for increasing sales with data -driven insights , Seller for the Future  for 
+providing near real -time insights, predictive analytics, and personalized recommendations  and Digital Field 
+Service  to equip technicians on field with real -time information, predictive maintenance insights, and 
+optimized scheduling.  
+One of the key challenges for organizations in their AI adoption journeys is to unlock the true value of their 
+data . For large organizations, data is often stored in unstructured silos. Recognizing the unique challenges 
+and opportunities within the manufacturing and semiconductor industries , this collaboration leverages the 
+combined strengths of both companies to digitally transform how customers in these industries sell and 
+service their products.  
+Indira Gillingham, Vice President of Alliances at Salesforce , said, “We are excited to collaborate with TCS to 
+bring transformative AI and data -driven solutions across industr ies through Salesforce Data Cloud . Leveraging 
+TCS’ extensive industry expertise, deep knowledge of complex data landscapes, and the power of TCS 
+Crystallus ™ on Salesforce, combined with Salesforce’s leading CRM capabilities, we enable customers  to 
+harness advanced Vector Database solutions for AI -powered insights.”  
+Semiconductor Sales Accelerator : TCS has over two decades of semiconductor expertise spanning research, 
+architecture, design, manufacturing, assembly, and advanced packaging . The Semiconductor Sales 
+Accelerator addresses a critical challenge in the industry – the need to quickly and accurately navigate vast 
+amounts of complex technical data to meet customer demands and reduce overall cycle time. This combines 
+TCS' deep domain e xpertise in the semiconductor market with Salesforce's leading AI and cloud capabilities.  
+Prashant Shirgur, Global Head of Enterprise Solutions for Technology, Software and Services at TCS , said,  
+"In today's fast -paced semiconductor market, access to accurate, real -time information is essential for sales 
+success, and TCS is committed to equipping clients with the insights they need to efficiently grow their 
+business," said "  TCS CrystallusTM on Salesforce, equips sales teams with the intelligent tools they need to 
+engage customers with confidence, shorten sales cycles, and drive revenue growth."  
+The impact of the Semiconductor Sales Accelerator extends beyond operational efficiency. By providing sales 
+teams with immediate access to relevant information and AI -powered insights, organizations are seeing 
+accelerated sales cycles and improved win rate s. The automation of routine tasks creates space for sales 
+representatives to focus on relationship building and deal closure, while the delivery of precise technical 
+ 
+Page 2 of 2 
+ 
+Confidential  information and personalized recommendations at every customer touchpoint is revolutionizing the 
+customer experience, leading to enhanced satisfaction and loyalty.  
+Seller for the Future:  Empowers sales teams with a 360 -degree view of customer data, providing near real -
+time insights, predictive analytics, and personalized recommendations directly within the Salesforce 
+platform. This helps sales teams anticipate customer needs, identify cross -selling and upselling opportunities, 
+and close more deals faster — ultimately driving higher revenue growth. Targeted Business outcomes include 
+increased up -sell/cross -sell rates, improved win rates, reduced deal cycle times, and enhanced sales team 
+productivity.  
+Digital Field Service : Transforms field service operations by leveraging AI, the Internet of Things (IoT), and 
+machine learning to equip technicians with real -time information, predictive maintenance insights, and 
+optimized scheduling. It enables remote diagnostics capabilities, AI-driven knowledge base integration, 
+predictive maintenance alerts, and seamless data visualization within a unified platform. It reduces downtime 
+and maintenance costs, improves first -time fix rates, increases technician productivity, and enhances 
+custom er satisfaction.  
+Amit Bajaj, Salesforce Global Practice Head, Enterprise Solutions , TCS, said, “TCS is dedicated to 
+empowering industries with the digital tools they need to thrive in today’s dynamic market. Our mission is to 
+equip our clients with the digital core they need in order to thrive amid constant changes. Our work with 
+Salesforce underscores this commitment, and we have a long tra ck record of servicing companies in 
+manufacturing and semiconductor industries . We are excited to deliver solutions that will drive tangible 
+business value for our clients.”    
+This announcement reinforces TCS’ strong presence in North America, the largest market for the organization 
+with more than 4 6,000 associates and 3 2 sales, delivery, and data center locations. In the 50 years of 
+operations in the region, TCS has established itself as a partner of choice for digital transformation by clients 
+across industry sectors.  
+ 
+About  Tata  Consultancy  Services  (TCS)  
+Tata Consultancy Services is an IT services, consulting and business solutions organization that has been partnering 
+with many of the world’s largest businesses in their transformation journeys for over 56 years. Its consulting -led, 
+cognitive powered, portfolio of business, technology and engineering services and solutions is delivered through 
+its unique Location Independent Agile ™ delivery model, recognized as a benchmark of excellence in software 
+development.  
+A part of the Tata group, India's largest multinational business group, TCS has over 6 07,000 of the world’s best -
+trained consultants in 55 countries. The company generated consolidated revenues of US $29 billion in the fiscal 
+year ended March 31, 2024, and is listed on the BSE and the NSE in India. TCS' proactive stance on climate change 
+and aw ard-winning work with communities across the world have earned it a place in leading sustainability indices 
+such as the MSCI Global Sustainability Index and the FTSE4 Good Emerging Index. For more information, visit  
+www.tcs.com   
+TCS media contacts:  
+Corporate Communications & 
+India  Email: corporate.communications@tcs.com  
+Email:  saxena.kritika@tcs.com | Phone: +91 22 6778 9999  
+Email : kimberly.solomon@tcs.com  | Phone: +91 22 67789098  
+ 

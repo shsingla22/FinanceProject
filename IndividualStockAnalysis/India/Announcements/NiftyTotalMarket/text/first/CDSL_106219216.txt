@@ -1,0 +1,202 @@
+ 
+ Central  Depository  Services  (India)  Limited  
+ 
+ 
+ 
+ 
+CDSL/CS/NSE/RG/2025/131            May 03 , 202 5 
+ The Manager,  
+Listing  Compliance  Department,  
+National  Stock  Exchange  of India  Ltd, 
+Exchange  Plaza,  Bandra  Kurla  Complex , 
+Bandra (East), Mumbai – 400051 . 
+ 
+Symbol:  CDSL  
+ISIN:  INE736A01011  
+ 
+Sub: Intimation under Regulation 8(2) of the SEBI (Prohibition of Insider Trading)  
+Regulations, 2015 (“PIT Regulations”).  
+ 
+Dear  Sir/Madam,  
+ 
+Pursuant to the provisions of Regulation 8(2) of the PIT Regulations, please find enclosed 
+herewith a copy of the amended “Code of Practices and Procedures for Fair Disclosure of 
+Unpublished  Price  Sensitive  Information”  (“Fair  Disclosure  Code”),  as approved  by the Board 
+of Directors of the Company at its meeting held today, i.e., May 03, 202 5. 
+ 
+The above  information  is also  available  on the website  of the Company:  www.cdslindia.com  
+ 
+This  is for your  information  and records.  
+ 
+For Central  Depository  Services  (India)  Limited  
+ 
+ 
+ 
+Nilay  Shah  
+Company  Secretary  & Compliance Officer  
+ACS No.: A20586  
+ 
+Encl:  As above  
+ 
+ 
+ 
+ 
+ 
+ 
+Regd.  Office:  Marathon  Futurex,  A Wing,  25th  Floor,  
+Mafatlal Mills Compound, N M Joshi Marg, Lower Parel (E), Mumbai - 400 013. 
+Phone:  91-22-2302  3333  • Fax:  91-22-2300  2036  • CIN:  L67120MH1997PLC112443  
+Website:  www.cdslindia.com  
+
+CDSL -(Secretarial  & Compliance Department) -POL - (008)   
+Page 1 of 8   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CODE  OF PRACTICES  AND  PROCEDURES  FOR FAIR  
+DISCLOSURE  OF UNPUBLISHED  PRICE  SENSITIVE 
+INFORMATION  
+(Version  number  06) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        Owner:  Secretarial  & Compliance   
+                             Review  Frequency:  1[Once in every 3 (Three ) financial years ] 
+                            Last  Reviewed  On: May 03, 2025  
+ 
+1 Amended by the Board of Directors in its meeting held on May 03, 2025  
+CDSL -(Secretarial  & Compliance Department) -POL - (008)   
+Page 2 of 8   
+Document  Control  
+ 
+Version  Author  Reviewer  Approved  by Date  
+01 N.V.S.  Pavan  Kumar  MD & CEO  Board  of Directors  December  24, 2016  
+02 Lalit  Sharma  MD & CEO  Board  of Directors  April  08, 2019  
+03 Nilay Shah  Nayana  Ovalekar  Board  of Directors  November  25, 2021  
+04 Nilay Shah  Nayana  Ovalekar  Board  of Directors  October  28, 2023  
+05 Nilay Shah  Nayana  Ovalekar  Board  of Directors  February 03, 2024  
+06 Nilay Shah  Nehal Vora  Board of Directors  May 03, 2025  
+CDSL -(Secretarial  & Compliance Department) -POL - (008)   
+Page 3 of 8  Table  of Contents : 
+ 
+Sr. No. Particulars  Page  nos.  
+1. Introduction/Background/  Purpose  of the Code  4 
+2. Scope  4 
+3. Terms  and Definition  4 
+4. Policy  Details  5-6 
+5. The “Policy for determination of Legitimate Purposes”  6 
+6. Sharing of UPSI for legitimate purpose  6 
+7. Maintenance of Structured Digital Database  7 
+8. Amendments /Policy Review  8 
+CDSL -(Secretarial  & Compliance Department) -POL - (008)    
+Page 4 of 8   
+1. Introduction/Background/  Purpose  of the Code:  
+ 
+1.1. 2[The Securities  and Exchange  Board  of India  (“SEBI”)  vide Gazette notification no. 
+LAD -NRO/GN/2014 -15/21/85 dated 15th January 2015 issued SEBI (Prohibition of Insider 
+Trading) Regulations, 2015 (“SEBI PIT Regulations”). ]   
+ 
+1.2. Pursuant  to Regulation  8 of the PIT Regulations,  Central  Depository  Services  India 
+Limited (“CDSL” or the “Company”) is required to formulate a Code of Practices 
+and Procedures for Fair Disclosure of Unpublished Price Sensitive Information 
+(“UPSI”) (“Fair Disclosure Code”).  3[This Fair Disclosure Code has been prepared 
+in compliance with SEBI PIT Regulations and further amendments and 
+modifications notified by the Securities Exchange Board of India (“SEBI”) from 
+time to time. ] 
+ 
+1.3. Accordingly,  the Governing Board  of CDSL  has formulated  and adopted  this Fair 
+Disclosure Code.  
+ 
+2. Scope:  
+ 
+2.1. CDSL  endeavors  to preserve  the confidentiality  of UPSI  and to prevent  its misuse. 
+To achieve  these  objectives,  and in compliance  with  the PIT Regulations,  CDSL  has 
+adopted this Fair Disclosure Code.  
+ 
+2.2. This Fair Disclosure Code ensures timely and adequate disclosure of UPSI which 
+would impact the price of its securities and to maintain uniformity, transparency 
+and fairness in dealing with all its stakeholders.  
+ 
+2.3. CDSL  is committed  to timely  and accurate  disclosure  based  on applicable  legal  and 
+regulatory requirements.  
+ 
+3. Terms  and  Definitions : 
+ 
+3.1. Words and expressions used but not defined in this Fair Disclosure Code shall have 
+the same meaning assigned to them in the SEBI PIT Regulations or the Securities 
+and Exchange Board of  India Act,  1992, the Securities Contracts (Regulation) Act, 
+1956, the Depositories Act, 1996 or the Companies Act, 2013 and the rules and 
+regulations made thereunder, as the case may be or in any amendment thereto . 
+  
+ 
+2 Newly added pursuant to amendment  by the Board of directors in its meeting held on February 03, 2024.  
+3 Newly added pursuant to amendment  by the Board of directors in its meeting held on February 03, 2024.  
+CDSL -(Secretarial  & Compliance Department) -POL - (008)    
+Page 5 of 8   
+4. Policy  Details:  
+ 
+4.1. Chief  Investor  Relations  Officer:  
+ 
+4.1.1.  “Chief  Investor  Relations  Officer  (CIRO) ” means  the Company  Secretary  & 
+Compliance Officer4 of the Company or  such  other  senior  officer  of the Company  
+appointed  by the Board  of directors  to deal  with  dissemination  of information  
+and disclosure  of UPSI  in a fair and unbiased manner to the stock exchanges, 
+analysts, shareholders and media.  
+ 
+4.1.2.  Information disclosure/dissemination needs to be approved in advance by the 
+CIRO.  
+ 
+4.1.3.  If information is accidentally  disclosed without prior approval, the person 
+responsible or the person who discovers or comes in contact with such 
+accidentally disclosed information should inform the CIRO immediately who in 
+turn will promptly inform the Managing Director & Chief Executi ve Officer for 
+further action.5 
+ 
+4.1.4.  The CIRO  shall take prior approval of the Managing Director & Chief Executive 
+Officer or any other appropriate authority, as may  be decided by the Board, before 
+dissemination/disclosure of UPSI.6 
+ 
+4.2. Principles  of Fair  Disclosure:  
+ 
+To adhere  with  the principles  as mentioned  in Schedule  A to the SEBI PIT 
+Regulations, CDSL shall ensure the following:  
+ 
+4.2.1.  Promptly  disclose  publicly  any UPSI  that  would  impact  price  discovery  no sooner 
+than  credible  and concrete  information  comes  into  being  so that  such  information 
+is generally available.  
+ 
+4.2.2.  Uniformly  and universally  disseminate  in a timely  manner  UPSI  to avoid  selective 
+disclosure by communicating the same to the stock exchange(s) and disclosing 
+the same on its website before releasing such information to media or analysts.  
+ 
+4.2.3.  Employees  of CDSL  shall  not respond  under  any circumstances  to enquiries  from 
+the Stock Exchanges, the media or others , unless authorized  to do so by the 
+Managing  Director  & Chief  Executive  Officer  (MD  & CEO)  or any other  office r as 
+may be decided by the Board of Directors of CDSL (including any committee of 
+the Board of Directors of CDSL) in this regard.  
+ 
+ 
+4.2.4.  Make a public announcement with respect to any matter only after CDSL has 
+taken  a final  or definitive  decision.  When  there  are rumors  or news reports  and 
+ 
+4 Amended by the Board of directors in its meeting held on November 25, 2021.  
+5 Amended by the Board of directors in its meeting held on November 25, 2021 . 
+6 Amended by the Board of directors in its meeting held on November 25, 2021 . 

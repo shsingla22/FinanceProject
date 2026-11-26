@@ -1,0 +1,1140 @@
+Date: December 25, 2025
+To
+BSE Limited
+P J Towers,
+Dalal Street,
+Mumbai – 400 001
+
+The National Stock Exchange of India Limited
+“Exchange Plaza”,
+Bandra – Kurla Complex,
+Bandra (E), Mumbai – 400 051
+
+Scrip Code: 541450
+
+Scrip Code: ADANIGREEN
+
+Dear Sir,
+Sub: Compliance Certificate of RG I
+Please find attached herewith Compliance Certificate for the period ended
+September 30, 2025 for RG I entities (i.e. Parampujya Solar Energy Limited,
+Prayatna Developers Limited and Adani Green Energy (UP) Limited) comprising
+of solar projects of 930 MW in compliance with Note Trust Deed dated March
+12, 2024.
+You are requested to take the same on your record.
+Thanking You
+Yours Faithfully,
+For, Adani Green Energy Limited
+PRAGNESH
+SHASHIKANT
+DARJI
+
+Digitally signed by
+PRAGNESH SHASHIKANT
+DARJI
+Date: 2025.12.25 13:37:49
++05'30'
+
+Pragnesh Darji
+Company Secretary
+Note: This is voluntary submission and not to be considered as an intimation
+under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements), Regulations, 2015.
+
+Adani Green Energy Limited
+Adani Corporate House, Shantigram,
+Nr Vaishno Devi Circle, S G Highway
+Khodiyar, Ahmedabad 382 421
+Gujarat, India
+CIN: L40106GJ2015PLC082007
+
+Tel +91 79 2555 5555
+Fax +91 79 2555 5500
+investor.agel@adani.com
+www.adanigreenenergy.com
+
+Registered Office: Adani Corporate House, Shantigram, Nr. Vaishno Devi Circle,
+S G Highway, Khodiyar, Ahmedabad – 382 421, Gujarat, India
+
+
+COMPLIANCE CERTIFICATE
+(September 30th, 2025)
+
+RG-I COMPRISING OF SOLAR
+PROJECTS OF 930 MW
+
+
+Contents
+Executive Summary ................................................................................................................... 2
+Compliance Certificate and Its Workings ............................................................................... 8
+Computation of Operating Account Waterfall as per Note Trust Deed ............................ 9
+Summary of the Covenant ...................................................................................................... 10
+A. Financial Matrix ................................................................................................................... 10
+A.1. Debt Service Coverage Ratio (DSCR) ......................................................................... 10
+A.2. FFO to Net debt ............................................................................................................ 10
+A.3. Project Life Cover Ratio (PLCR) .................................................................................. 11
+A.4. EBITDA from Sovereign Equivalent Counterparty ................................................... 11
+B. Operational Performance (CUF) ......................................................................................... 11
+B.1. CUF for RG-I Period wise .............................................................................................. 11
+B.2. CUF for PDL Period wise ............................................................................................. 12
+B.3. CUF for PSEL Period wise ........................................................................................... 13
+B.4. CUF for AGEUPL Period wise ..................................................................................... 14
+C. Receivable position ............................................................................................................. 15
+C.1. Receivable Position of RG-I ......................................................................................... 15
+C.2. Receivable Position of PDL ......................................................................................... 15
+C.3. Receivable Position of PSEL ....................................................................................... 15
+C.4. Receivable Position of AGEUPL ................................................................................. 16
+Appendix - 1............................................................................................................................ 17
+Annexure 1 ......................................................................................................................... 19
+Annexure 2 ........................................................................................................................ 21
+Annexure 3 ........................................................................................................................ 22
+Annexure 4 ........................................................................................................................ 24
+Annexure 5 ........................................................................................................................ 25
+Annexure 6 ........................................................................................................................ 26
+Annexure 7 ........................................................................................................................28
+Appendix - 2 .......................................................................................................................... 29
+
+1
+
+
+Executive Summary
+Adani Green Energy Obligor Group (AGEL RG-I)
+420 MW of Parampujya Solar Energy Limited (PSEL), 220 MW of Prayatna Developers
+Limited (PDL) and 290 MW of Adani Green Energy (UP) Limited (AGEUPL) formed an
+obligor group of 930 MW.
+AGEL RG-I Portfolio Credit Rating:
+International Ratings:
+x Fitch: BBB- (Stable)
+x Moody's: Ba1 (Stable) (Outlook revised from Negative to Stable)
+Commentary by Moody’s:
+
+The outlook change to stable reflects our expectation that the two AGEL restricted
+groups could maintain credit profiles supportive of their respective Ba1 ratings over the
+next 12-18 months.
+Domestic Ratings:
+x Indian Ratings: AA+ (Positive)
+x CRISIL: AAA (Stable) (1 notch upgraded)
+Commentary by CRISIL:
+
+The upgrade reflects the actual generation being consistently better than the Crisil
+Ratings base expectations of P90 levels for the last five fiscals. Furthermore, Crisil
+Ratings understands that the generation for the current fiscal remains strong against
+P-90 benchmarks. Crisil Ratings expect continued better than P90 performance for
+the RG 1, which, along with fully amortised debt structure, shall support strong and
+better-than-expected debt coverage metrics at or above 1.45 times.
+The rating also reflects the strong revenue visibility for AGEL RG 1 in the form of longterm power purchase agreement (PPA) at a healthy tariff, co-obligor structure of
+special-purpose vehicles (SPVs) providing diversity benefit, and restricted payment and
+cash trap conditions, along with strong liquidity reserve in the form of two quarters’
+DSRA (debt service reserve account) already in place.
+
+2
+
+
+Off-takers wise EBITDA (%) (30th September 2025)
+
+Off-taker wise EBITDA %
+
+38.6%
+
+61.4%
+
+NTPC/SECI
+
+Others
+
+1. Recent Developments of AGEL
+Adani Green Energy Limited (AGEL) is India’s largest and one of the leading renewable
+energy companies in the world enabling the clean energy transition. AGEL currently has
+an operating renewable portfolio of 16.7 GW, the largest in India, spread across 12
+states. The company has set a target of achieving 50 GW by 2030 aligned to India’s
+decarbonization goals.
+AGEL is progressing well to develop the world’s largest renewable energy plant of 30
+GW by 2029 at Khavda, Gujarat having operationalized 7.1 GW (incl. capacities set up
+for Adani Group Companies) of solar and wind capacity within less than three years of
+commencing construction. Achieved a high wind capacity utilization factor (CUF) of
+38% with the new wind capacity in Khavda contributing CUF of 40% H1 FY26.
+(i) Operational capacity increased by 49% Y-o-Y to 16,680 MW, with a greenfield
+addition of 5,496 MW
+Operationalized 4,200 MW Solar power plants
+x 2,900 MW in Khavda, Gujarat
+x 1,050 MW in Rajasthan
+x 250 MW in Andhra Pradesh
+Operationalized 491 MW Wind power plants
+x 491 MW in Khavda, Gujarat
+Operationalized 805 MW Hybrid power plants
+x 805 MW in Khavda, Gujarat
+(ii) Sale of Energy at 19,569 Mn units increased by 39% in H1 FY26 vs 14,128 Mn units
+in H1 FY25, having steady growth at a CAGR of 45% with increasing proportion of
+Merchant power over last 5 years.
+(iii) India Ratings has upgraded AGEL’s rating to AA/Stable from AA-/Stable. The
+upgrade reflects the strong debt profile with no holding company debt and a shift
+to project life-linked loan structures, reducing refinancing risk and lowering
+3
+
+
+borrowing costs. Refinancing obligations have fallen sharply, and operational cash
+flows are expected to comfortably meet repayments. Leverage is projected to
+remain below 5.5x, ensuring healthy free cash flow to fund equity needs without
+external support. Strong execution capability and reduced capacity additions
+further stabilize financial metrics.
+(iv) CRISIL and CARE have assigned a rating of AA/Stable to AGEL.
+
+2. RG-I Portfolio consistently generates electricity significantly above commitment under
+PPA.
+
+3. ESG updates:
+(i) Emission prevented:
+x
+
+Target: Committed to avoid GHG emissions through development of 50 GW RE
+project by 2030 ~ Achieved an operational Capacity of 16.70 GW as on H1
+FY26
+14.23 Mn ton CO2e emissions avoided by AGEL during H1 FY26 out of which
+0.6 Mn tons CO2e avoided by RG-I.
+
+x
+
+(ii) Zero water usage through robotic cleaning: Waterless Robotic cleaning deployed
+over 9.6 GW solar capacity, India’s largest, representing 67.5% of total solar fleet of
+14.23 GW
+(iii) Water Positive certified company for 100% operational portfolio:
+x
+x
+
+Target: To be Water Positive for 100% operational portfolio by FY26
+Achieved and sustained net water positive for 100% operational portfolio
+
+(iv) EV Commitment: Target of 65% EV by FY30 in company owned fleet ~ Achieved
+46% target against 65% EV by FY30 as part of EV 65 commitment.
+(v) ‘No Net Loss’ of Biodiversity: Work in progress to achieve ‘No net loss’ of
+biodiversity across all plants as per technical standard adopted, developed in
+association with Confederation of Indian Industry (CII) following IBBI principles and
+IUCN standard, to ensure ‘No Net Loss’ of biodiversity across all plants.
+(vi) Corporate social responsibility: Through various CSR initiatives at its operating and
+project locations, AGEL has contributed to the following focus areas
+x
+x
+x
+x
+x
+x
+
+Sustainable Livelihood Development through Women Empowerment and
+Kamdhenu project
+Empowering Communities Through Quality Education - Project Utthan
+Self-reliance in Communities
+Community Infrastructure Development
+Taking Climate Action and Creating Sustainable Infrastructures through
+pond deepening and tree plantation
+Ensuring Access to Good Community Health
+
+4
+
+
+(vii) ESG Risk rating: x
+x
+x
+x
+x
+x
+x
+
+Topmost ESG rating globally with Prime Band ‘A-’ by ‘ISS ESG’
+Ranked 1st globally in the Alternative Electricity Subsector by ‘FTSE
+RUSSELL’
+Ranked 1st in India and 7th globally by ‘SUSTAINALYTICS’
+1st rank in the Power Sector for the fourth consecutive year by ‘CRISIL’
+Ranked 2nd in Indian electric utility sector by DJSI-S&P Global with Y-o-Y
+increase in ESG score
+Ranked 1st by NSE Sustainability Ratings & Analytics Ltd rating in utilities
+/ power sector
+Included in Nifty100 ESG Index, Sector Leaders Index & Enhanced ESG
+Index
+
+4. Tariff related regulatory updates
+There is an ongoing tariff dispute with UPPCL wherein APTEL vide its order dt.
+28.11.2022, partially allowed the appeal by approving the negotiated tariff of
+Rs.7.02/kWh vs. bid discovered tariff of Rs. 8.44/kWh. In the Civil Appeal filed by UPPCL,
+Hon’ble SC directed UPPCL to pay the past dues at Rs. 7.02/kWh and further directed
+it to pay the ongoing energy bills at Rs.5.07/kWh as against Rs. 7.02/kWh allowed by
+APTEL. The matter is pending for final adjudication in Hon’ble Supreme Court.
+
+5
+
+
+Financial Performance
+EBITDA Projected vs Actual
+10,552
+323
+2,150
+
+7,853
+
+7,827
+
+186
+
+182
+
+8,079
+
+7,667
+
+Projected TTM Sept 2025
+EBITDA from Power Supply
+
+7,646
+
+Actual TTM Sept 2025
+Projected FY 26
+Other Income VGF / GST Claim Receipt Total EBITDA
+
+*Projected EBITDA numbers are taken from financial model.
+
+Operational Performance
+Summary of operational performance of RG-I entities on aggregate basis
+30.0%
+25.0%
+
+22.2%
+
+22.9%
+
+Apr'25 to Sep'25
+
+Oct'24 to Sep'25
+
+19.8%
+
+20.0%
+15.0%
+10.0%
+5.0%
+0.0%
+Jul'25 to Sep'25
+P90 CUF Target
+
+P75 CUF Target
+
+P50 CUF Target
+
+Actual CUF
+
+RG-I Minimum Generation as per PPA v/s Actual Generation
+2,100
+
+113%
+
+112%
+
+113%
+
+114%
+
+113%
+
+54% met in H1 FY26
+1,683
+MUs
+
+1,900
+
+907
+MUs
+1,700
+
+1,500
+FY21
+
+FY22
+FY23
+FY24
+FY25
+Generation Required as per PPA (MN Units)
+Actual Generation (Mn Units)
+Performance against PPA requirement (%)
+
+6
+
+Annual
+Generation
+Required as
+per PPA
+
+H1 FY26
+Actual
+
+
+Covenant
+RG-I on aggregate basis has achieved following ratios:
+
+Particulars
+Debt Service
+Coverage Ratio
+(DSCR)
+(Refer Annexure: 1)
+FFO / Net Debt
+(Refer Annexure: 2)
+Project Life Cover
+Ratio (PLCR)
+(Refer Annexure: 3)
+EBITDA from
+Sovereign
+Equivalent
+Counterparty
+(Refer Annexure: 5)
+
+Summary of the Covenant (Trailing 12 Months)
+Stipulated Mar 23 Sep 23 Mar 24 Sep 24
+
+Mar 25
+
+Sep 25
+
+1.55*
+
+1.81
+
+1.89
+
+1.80
+
+1.95
+
+2.18
+
+2.28
+
+6.0%
+
+12.6%
+
+17.2%
+
+11.8%
+
+13.9%
+
+18.9%
+
+20.7%
+
+1.60
+
+1.71
+
+1.69
+
+1.83
+
+1.82
+
+1.82
+
+1.84
+
+55.00%
+
+59.72%
+
+61.74%
+
+63.14%
+
+58.46%
+
+60.58%
+
+61.40%
+
+*For maximum distribution level
+
+PPA Customers Receivable position as of 30th September 2025
+
+Month
+Sep-25
+
+RG-I – PPA Receivable Ageing (INR Mn)
+61-90
+91-120
+121-180
+0-60 Days
+Days
+Days
+Days
+1,211
+-
+
+> 180
+Days
+-
+
+Total
+1,211* **
+
+*Includes unbilled revenue of Rs 680 Mn
+** The above receivables do not include Rs. 399 Mn on account of Tarriff Difference from UPPCL which is pending at
+Supreme Court for adjudication.
+
+In RG-I portfolio, all the off-takers i.e SECI, NTPC, PSPCL and major Karnataka Discoms
+are generally making the payments of the monthly invoices within due date.
+Below is the update on the status: *The Appellate Tribunal for Electricity (APTEL) has issued an order allowing a tariff of
+Rs. 7.02/kWh, as opposed to the Rs. 5.07/kWh, to ensure parity with other bidders.
+UPPCL challenged APTEL’s order in Hon’ble Supreme Court, Supreme Court directed
+UPPCL to make future payment. at the old rate of 5.07/kWh and also directed UPPCL
+to make a provision in its books for differential tariff between of Rs. 5.07/kWh and Rs.
+7.02/kWh, until the matter is coming up for hearing.
+Hence, we are billing UPPCL at 7.02/Kwh however as per the directions of the court
+they are paying at INR 5.07/Kwh, we are keeping balance amount as receivable from
+the offtaker.
+
+7
+
+
+Compliance Certificate and Its Workings
+Information on Compliance Certificate and Its Workings
+Dated: December 25, 2025
+To:
+IDBI TRUSTEESHIP SERVICES LIMITED (the “Security Trustee”)
+GLAS TRUST Company LLC (the “Note Trustee”)
+Note Holders for U.S. $ 409,000,000 Senior Secured Notes Due on FY 42
+From:
+ADANI GREEN ENERGY (UP) LIMITED
+PARAMPUJYA SOLAR ENERGY LIMITED
+PRAYATNA DEVELOPERS LIMITED
+Dear Sirs/Madam,
+Prayatna Developers Limited, Parampujya Solar Energy Limited and Adani Green
+Energy (UP) Limited (together as “Issuers”) - Note Trust Deed dated 12 March 2024
+(the “Note Trust Deed”)
+We refer to the Note Trust Deed. This is a Compliance Certificate given in respect of the
+Calculation Date occurring on 30th September 2025. Terms used in the Note Trust Deed
+shall have the same meaning in this Compliance Certificate.
+The Certificate is based on the following documents:
+1. Restricted Group’s Aggregated Accounts for 12 months period ended on
+September 30th, 2025.
+2. The Cash Flow Waterfall Mechanism as detailed in the Note Trust Deed
+3. Working annexures
+
+8
+
+
+Computation of Operating Account Waterfall as per Note Trust Deed
+We hereby make the Operating Account Waterfall and distributable amount
+calculation.
+Operating Account Waterfall calculation
+Particulars
+Opening cash balance (A)
+Operating EBITDA (B) (Refer Annexure 6)
+Working Capital Loan Drawn/ (Repayment) (C )
+Working capital & Other Movements (D)
+Capital Expenditure (E)
+Cash Flow Available for Debt Servicing and Reserves
+(F=A+B+C+D+E)
+Debt Servicing and other Reserves
+Prepayment of Existing $500 Mn Note (Inc. Premium)
+Proceeds from Issuance of $409 Mn Note
+Hedge Inflow Including Hedge gain on Termination of
+Hedge contract for Existing $500 Mn
+Interest Service (Refer Annexure 6)
+Debt Service (Repayment)
+Investment in Capital Expenditure Reserve Account
+(Addition)/Release of DSRA
+Investment In Senior Debt Restricted Amortization
+Account
+Total Debt Servicing and other Reserves (G)
+Cash Available post Debt Servicing and Reserves
+(H = F+G)
+Funds distributed during period (I)
+Cash Available for transfer to Distribution Account (J)
+Funds earmarked for prudent liquidity
+Funds earmarked for Capital Expenditure Payments
+Funds earmarked for O&M expenses
+(equivalent to 1 month period)
+Total Funds Earmarked (K)
+Net Cash Available for transfer to Distribution Account
+(L = J+K)
+
+INR Mn
+Oct 1st, 2024,
+to Sep 30th,
+2025
+
+INR Mn
+Oct 1st, 2023,
+to Sep 30th,
+2024
+
+1,101
+10,552
+(977)
+(417)
+
+3,197
+10,224
+322
+(201)
+
+10,259
+
+13,543
+
+-
+
+(41,582)
+33,843
+
+-
+
+5,239
+
+(3,671)
+(1,039)
+-
+
+(4,466)
+(868)
+(4)
+200
+
+(461)
+
+1,069
+
+(5,170)
+
+(6,569)
+
+5,089
+
+6,975
+
+(3,395)
+1,694
+
+(5,873)
+1,101
+
+(100)
+
+(100)
+
+(81)
+
+(81)
+
+(181)
+
+(181)
+
+1,513
+
+921
+
+We confirm that:
+In accordance with the workings set out in the attached Annexure 1, the Debt Service
+Cover Ratio for the Calculation Period ended on the relevant Calculation Date was
+2.28:1.
+(a) copies of the Restricted Group’s Aggregated Accounts in respect of the Calculation
+Period are attached.
+(b) as at the Calculation Date, the aggregate amount for transfer to our Distributions
+Account in accordance with the Operating Account Waterfall is Rs 1,694 Mn.
+(c) acting prudently the cash balance which can be distributed as permitted under the
+relevant Transaction Documents is Rs 1,513 Mn.
+(d) to the best of our knowledge having made due enquiry, no Default subsists.
+
+9
+
+
+Summary of the Covenant
+Particulars
+Debt Service
+Coverage Ratio
+(DSCR)
+(Refer Annexure: 1)
+FFO / Net Debt
+(Refer Annexure: 2)
+Project Life Cover
+Ratio (PLCR)
+(Refer Annexure: 3)
+EBITDA from
+Sovereign
+Equivalent
+Counterparty
+(Refer Annexure: 5)
+
+Summary of the Covenant (Trailing 12 Months)
+Stipulated Mar 23 Sep 23 Mar 24 Sep 24
+
+Mar 25
+
+Sep 25
+
+1.55*
+
+1.81
+
+1.89
+
+1.80
+
+1.95
+
+2.18
+
+2.28
+
+6.0%
+
+12.6%
+
+17.2%
+
+11.8%
+
+13.9%
+
+18.9%
+
+20.7%
+
+1.60
+
+1.71
+
+1.69
+
+1.83
+
+1.82
+
+1.82
+
+1.84
+
+55.00%
+
+59.72%
+
+61.74%
+
+63.14%
+
+58.46%
+
+60.58%
+
+61.40%
+
+*For maximum distribution level
+
+A. Financial Matrix
+A.1. Debt Service Coverage Ratio (DSCR)
+2.40
+2.20
+2.00
+1.80
+1.60
+1.40
+1.20
+1.00
+Sep.22
+
+Mar.23
+
+Sep.23
+
+Mar.24
+
+Sep.24
+
+Mar.25
+
+Sep.25
+
+100% Distribution Level
+
+60% Distribution Level
+
+50% Distribution Level
+
+100% Lockup Level
+
+Event of Default
+
+Actual DSCR
+
+Note: The Actual DSCR of 2.28x is for 12 months ended on September 30th, 2025
+
+A.2. FFO to Net debt
+25.00%
+20.00%
+15.00%
+10.00%
+5.00%
+0.00%
+Sep.22
+
+Mar.23
+
+Sep.23
+
+Mar.24
+
+100% Distrbution Level
+
+Sep.24
+FFO / Net Debt
+
+Note: The Actual FFO/Net Debt of 20.7% is for 12 months ended on September30th, 2025
+
+10
+
+Mar.25
+
+Sep.25
+
+
+A.3. Project Life Cover Ratio (PLCR)
+1.90
+1.85
+1.80
+1.75
+1.70
+1.65
+1.60
+1.55
+1.50
+1.45
+Sep.22
+
+Mar.23
+
+Sep.23
+
+Mar.24
+
+Sep.24
+
+100% Distribution Level
+
+Mar.25
+
+Sep.25
+
+PLCR
+
+Note: The Actual PLCR of 1.84x is the Debt Sizing Cover from NPV of Future EBITDA of PPA as on September 30th, 2025.
+
+A.4. EBITDA from Sovereign Equivalent Counterparty
+64.0%
+62.0%
+60.0%
+58.0%
+56.0%
+54.0%
+52.0%
+50.0%
+Sep.22
+
+Mar.23
+
+Sep.23
+
+Mar.24
+
+Sep.24
+
+Mar.25
+
+Sep.25
+
+Covenanted EBIDTA from Sovereign Equivalent Counterparty
+EBIDTA from Sovereign Equivalent Counterparty
+Note: The Actual EBITDA from Sovereign Equivalent Counterparty is 61.4% for 12 months period ended on September
+30th, 2025.
+
+B. Operational Performance (CUF)
+B.1. CUF for RG-I Period wise
+30.0%
+25.0%
+20.0%
+15.0%
+
+22.2%
+
+22.9%
+
+Apr'25 to Sep'25
+
+Oct'24 to Sep'25
+
+19.8%
+
+10.0%
+5.0%
+0.0%
+Jul'25 to Sep'25
+P90 CUF Target
+
+P75 CUF Target
+
+11
+
+P50 CUF Target
+
+Actual CUF
+
+
+The Generation in terms of Million Units (“MU”) is presented as below:
+Particulars
+P50 Target MU
+P75 Target MU
+P90 Target MU
+Actual Generation MU
+Average Operational Capacity (MW)
+
+Jul'25 to
+Sep'25
+423
+405
+389
+407
+930
+
+Apr'25 to
+Sep'25
+960
+919
+883
+907
+930
+
+Oct'24 to
+Sep'25
+2,030
+1,944
+1,867
+1,867
+930
+
+RG-I Minimum Generation as per PPA v/s Actual Generation
+2,100
+
+113%
+
+112%
+
+113%
+
+114%
+
+54% met in H1 FY26
+
+113%
+
+1,683
+MUs
+
+1,900
+907
+MUs
+1,700
+
+1,500
+FY21
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+Generation Required as per PPA (MN Units)
+Actual Generation (Mn Units)
+Performance against PPA requirement (%)
+
+H1 FY26
+Actual
+
+Annual
+Generation
+Required as
+per PPA
+
+B.2. CUF for PDL Period wise
+30.0%
+25.0%
+20.0%
+15.0%
+
+22.4%
+
+21.4%
+
+Apr'25 to Sep'25
+
+Oct'24 to Sep'25
+
+20.1%
+
+10.0%
+5.0%
+0.0%
+Jul'25 to Sep'25
+P90 CUF Target
+
+P75 CUF Target
+
+P50 CUF Target
+
+Actual CUF
+
+*CUF targets as per revised EYA
+
+The Generation in terms of Million Units is presented as below:
+Particulars
+P50 Target MU
+P75 Target MU
+P90 Target MU
+Actual Generation MU
+Average Operational Capacity (MW)
+
+Jul'25 to
+Sep'25
+101
+97
+93
+97
+220
+
+12
+
+Apr'25 to
+Sep'25
+224
+214
+206
+217
+220
+
+Oct'24 to
+Sep'25
+435
+417
+400
+412
+220
+
+
+PDL Minimum Generation as per PPA v/s Actual Generation
+600
+
+116%
+
+57% met in H1 FY26
+111%
+
+110%
+
+500
+
+107%
+
+111%
+
+377
+MUs
+217
+MUs
+
+400
+300
+200
+FY21
+
+FY22
+
+FY23
+
+FY24
+
+FY25
+
+Generation Required as per PPA (MN Units)
+Actual Generation (Mn Units)
+Performance against PPA requirement (%)
+
+H1 FY26
+Actual
+
+Annual
+Generation
+Required as
+per PPA
+
+B.3. CUF for PSEL Period wise
+30.0%
+25.0%
+20.0%
+
+23.4%
+
+24.5%
+
+Apr'25 to Sep'25
+
+Oct'24 to Sep'25
+
+21.0%
+15.0%
+10.0%
+5.0%
+0.0%
+Jul'25 to Sep'25
+P90 CUF Target
+
+P75 CUF Target
+
+P50 CUF Target
+
+Actual CUF
+
+*CUF targets as per revised EYA
+
+The Generation in terms of Million Units is presented as below:
+Particulars
+P50 Target MU
+P75 Target MU
+P90 Target MU
+Actual Generation MU
+Average Operational Capacity (MW)
+
+Jul'25 to
+Sep'25
+196
+188
+180
+194
+420
+
+13
+
+Apr'25 to
+Sep'25
+451
+432
+415
+432
+420
+
+Oct'24 to
+Sep'25
+974
+933
+896
+902
+420
+
+

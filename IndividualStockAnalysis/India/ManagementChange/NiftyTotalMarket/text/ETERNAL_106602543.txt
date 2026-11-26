@@ -1,0 +1,453 @@
+Department of Corporate Services,
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street, Mumbai – 400 001
+
+Listing Department,
+National Stock Exchange of India Limited
+C-1, G-Block, Bandra - Kurla Complex
+Bandra (E), Mumbai – 400 051
+
+Scrip Code: 543320, Scrip Symbol: ETERNAL
+ISIN: INE758T01015
+Sub.: Shareholders’ letter dated April 28, 2026
+Dear Sir/ Ma’am,
+Pursuant to Regulations 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, please find enclosed Shareholders’ letter dated April 28, 2026.
+The above information will also be hosted on the website of the Company i.e.
+www.eternal.com.
+For Eternal Limited
+(Formerly known as Zomato Limited)
+signed by
+SANDHY Digitally
+SANDHYA SETHIA
+2026.04.28
+A SETHIA Date:
+15:14:09 +05'30'
+
+Sandhya Sethia
+Company Secretary & Compliance Officer
+Date: April 28, 2026
+Encl.: As above
+
+ETERNAL LIMITED (Formerly known as Zomato Limited)
+Registered Address: Ground Floor 12A, 94 Meghdoot, Nehru Place, New Delhi - 110019, India
+CIN: L93030DL2010PLC198141, Telephone Number: 011 - 40592373
+
+
+0
+
+
+1
+
+
+Headline Results for Q4FY26
+(Quarter ending March 31, 2026)
+
+* Sharp increase in YoY Adjusted Revenue growth mainly due to shift to 1P model in quick commerce from Q1FY26 onwards, where
+Revenue now also includes the full monetary value of goods sold (and not just the marketplace commission).
+** Like-for-like (“LFL”) consolidated Adjusted Revenue is calculated as consolidated Adjusted Revenue (-) Revenue from Hyperpure’s
+non-restaurant business (-) cost of goods sold in case of own inventory sales in quick commerce.
+Notes:
+1)​
+
+NOV (B2C business) is defined as the combined net order value (NOV) of consumer facing businesses i.e. food delivery, quick
+commerce and going-out. NOV (B2C business) excludes the NOV of Bistro business which is part of the ‘Others’ segment.
+
+2)​ Adjusted Revenue defined as consolidated revenue from operations as per financials (+) actual customer delivery charges
+paid in the food delivery business (net of any discounts, including free delivery discounts on Zomato Gold program) (+)
+platform fee and other charges paid on food delivery Orders that are not already included in revenue from operations.
+3)​ Adjusted EBITDA = EBITDA (+) share-based payment expense (-) rental paid for the period pertaining to ‘Ind AS 116 leases’.
+
+2
+
+
+Letter from the Founder
+In 2008, I was collecting restaurant menus on a motorbike in Delhi, scanning them, and uploading them to a
+website. I wasn't building a business. I was merely solving a problem I knew others had, in the spirit of
+service. I never intended it to become a business. Zomato, the company, was started two years later in
+2010, when I started getting advertiser interest on the website which used to get a little over 5,000 visitors
+a day. Over the years, one thing led to another.
+Last year (FY26), 109 million Indians completed transactions worth over $10 billion through Blinkit, District,
+and Zomato. The company I accidentally started now touches how India eats, shops, and goes out. But it
+took us 18 years to get to $10 billion (per year).
+How we got here matters more than the number - because it tells you where this is going.
+The cost of finding a large business
+Zomato started as a restaurant listing website. We spent nine years iterating: reviews, discovery, table
+reservations, international expansion. We didn't even start delivering food until 2017. The business that
+processes billions today didn't exist for the first nine years.
+Grofers started in 2014 as a delivery logistics company. It went through multiple pivots and iterations
+before becoming Blinkit in 2021, the quick commerce model that now defines a category, globally.
+District looks recent, but its roots go back to 2011, when we did our first ticketing for New Year's Eve
+events.
+The pattern is the same every time. You start with a core insight, pull ten threads around it, and if you're
+disciplined and lucky, one of them becomes a large business. The other nine aren't failures. They're the
+cost of finding the one that works.
+This means the financial outcomes are naturally
+backloaded. You spend years building track before
+the first train runs. Our first annual $10 billion in
+NOV took 18 years. This doubling to $20 billion
+annual NOV will take less than two years from here.
+Similarly, it took 16 years to reach Adjusted EBITDA
+profitability in FY24. From there, we expect to
+reach $1 billion of Adjusted EBITDA, hopefully by
+FY29. The acceleration is real because the
+foundation is already laid. The systems, the supply
+chains, the customer trust, the operational muscle.
+All of it compounds.
+Our moat is physical
+Every order on Zomato is a real-world coordination problem. A meal has to be prepared by a restaurant we
+don't control, picked up within minutes by a delivery partner navigating traffic we can't predict, and
+delivered while the food is still hot. Get any one of those wrong and the experience breaks.
+Blinkit takes this complexity several notches up. We run our own supply chain. 17 million square feet of
+warehousing and dark store space. Procuring, storing, and managing inventory across thousands of
+stores, then delivering in minutes. The margin for error is measured in seconds and centimetres of shelf
+space.
+District operates in a world where tens of thousands of people converge on a single venue for a few hours,
+and the experience depends on everything from sound engineering and crowd flow to parking, security,
+and weather.
+3
+
+
+But here's the thing about the physical world: it doesn't always cooperate. Weather shuts down roads.
+Demand spikes without warning. Restaurants run out of ingredients mid-rush. Delivery partners get stuck.
+And if that complexity weren't enough, we build in India. Our systems interact with the real India - cities
+where addresses are approximate, road infrastructure is always catching up, supply chains that still run
+largely on cash and handshake relationships, a workforce that is largely informal, and a merchant
+ecosystem that is fragmented in ways that would be unrecognizable to most global tech companies. This
+isn't a complaint - it's a description of our moat. Because anyone who figures out how to build reliably in
+this environment has built something very hard to replicate.
+Over the last two decades, that's what we've done. We've built systems that don't just work in ideal
+conditions but hold up under real-world stress. As a result of this reliability, our platforms have become a
+part of daily life for over 100 million customers in the country. This trust extends across the ecosystem.
+Today, our platforms support livelihoods for over 1 million delivery partners, 400k+ restaurants, 100k+
+supply chain workers, and thousands of brands. As our scale grows, so does the economic value and
+impact that we create for our partners.
+AI is our friend, not a threat
+Some people wonder whether AI chat interfaces will become the new front door for commerce, shifting
+demand away from apps like ours.
+We've seen such a story play out before. Google spent over a decade trying to pull transactional behaviour
+into its own platform. Google Flights. Google Hotels. Google Shopping. Restaurant ordering built into
+Google Maps. They had the largest demand surface on earth, billions of searches a day, and the strongest
+distribution advantage in the history of the world. And yet Booking.com is still here. Expedia is still here.
+Amazon is still here. The vertical apps that consumers had built habits around didn't get displaced.
+The reason is simple. General-purpose interfaces are good for general-purpose queries. They are poor
+interfaces for complex, high-frequency, habitual transactions. Ordering food involves browsing menus,
+comparing restaurants, ratings and delivery times, substituting items and tracking orders in real time.
+And more fundamentally, consumer behaviour is the hardest thing in the world to change. People who
+order dinner on Zomato four times a week, or groceries on Blinkit every other day, are not going to reroute
+those habits through a chat window. The people who are excited about experimenting with ordering food
+through AI assistants are a real but early segment, and currently, nowhere close to disrupting our business.
+Brand associations are even harder to change than habits. When someone is hungry, they think Zomato.
+When they need groceries within minutes, they think Blinkit. When they want to go out, they think District.
+This is by design. It is why we run separate apps, and focus on creating super brands, rather than a single
+super app. Each brand owns a specific trigger in the customer's mind. That mental real estate, built over
+years of consistent delivery on a specific promise, is not something that gets dislodged easily.
+Also, most of our business happens in the offline realm. AI will not replace the need to move food through
+traffic. It will not stock shelves in a dark store. It will not manage crowd flow at a 50,000-person event. It
+will not build cold chain infrastructure or negotiate with suppliers in tier 2 cities. The physical world doesn't
+get disrupted by language models.
+Nevertheless, if something similar didn't work in the past, it doesn't mean it won't work in the future.
+Agentic commerce is similar to, and also different from, Google's attempt at owning transactions. At this
+point, we believe there is nothing to panic about. But we will keep our eyes open, without an iota of
+complacency or wishful thinking, and edit the contours of our business where needed to make it even more
+defensible in the long term.
+Now, what AI actually does for us.
+We are one of the largest deployers of AI in India. Demand prediction, route optimisation, supply-chain
+management, customer experience, fraud detection, catalogue quality, and partner support already use AI
+4
+
+
+across our platforms. These systems are trained on billions of real interactions, where the cost of getting
+something wrong — a late delivery, a wrong order, a failed refund, an unavailable item, is immediate and
+measurable.
+But the more important question is not how AI helps us reduce cost. That is useful, but not enough. The
+sharper question we ask ourselves is: how does AI expand the market?
+In our businesses, markets expand when more people can participate — more customers, more delivery
+partners, more restaurants, more sellers, more brands, and more local businesses. AI reduces the friction
+required for each of them to participate.
+For customers, conversational interfaces let customers express intent in full sentences rather than
+two-word search queries, which is a far richer signal to convert against. It lowers the friction caused by
+static search and filters into intent-led discovery, especially for older users, non-native language speakers,
+first-time online buyers, and tier 2 and 3 city consumers who may struggle with app flows. Zomato’s
+Healthy Mode and Natural Language Search (NLS) are early examples of this. They could not have been
+built without AI.
+For delivery partners, AI will make onboarding, training, and day-to-day guidance conversational and
+personalised thereby expanding the earning opportunity to people who may otherwise struggle with app
+flows, language, documentation, or lack of confidence.
+For restaurant partners and sellers, AI will make high-quality business guidance available from day one —
+the kind of growth-guidance that historically our teams could provide to a limited set of partners.
+AI lets us serve people and businesses that were previously too hard, too small, too fragmented, or too
+operationally expensive to serve well. Operational efficiency will follow, but it is not the ambition. Our moat
+remains the physical world. AI makes that moat wider by allowing more of India to participate in it.
+What Eternal means
+It was humbling for me to name this company Eternal, because it is a name you have to earn every single
+day. Eternal is a commitment to building something that deserves to last. An institution where culture
+outlasts strategy, where systems outlast individuals, where the work of one generation creates the
+foundation for the next.
+Companies face multiple cycles of disruption in their lifetime. We have faced several over the last 18 years.
+But it is our ability to pivot, to disrupt ourselves, sometimes to cannibalise ourselves, with the intention to
+survive, that makes us come out at the other end as ongoing contenders.
+Through all such cycles, we just need to stay focused on two things: survival, and making sure the span of
+our impact increases. If we do that, we will outlast all the noise, all the incoming challenges, and come out
+as the company that focused on the real signal all along: where are our customers going.
+Most of our early competitors didn't make it. We stayed. Not because we were smarter, but because we
+kept going. In India, where everything takes longer than you expect, the ability to remain in the game,
+financially, emotionally, institutionally, is the single biggest competitive advantage. Resilience sounds like
+a virtue in retrospect. In the moment, it often just feels like stubbornness.
+In 2008, I collected menus on a motorbike because I thought it would be useful to someone. That same
+instinct still drives everything we build. The scale has changed, and what’s at stake has changed. But the
+spirit hasn't.
+Deepinder
+
+5
+
+
+In the letter below, we address the key questions that we think investors might have.
+Please refer to Annexure A for the key financial and operating metrics data.
+
+Q1. How was the business performance in Q4FY26?
+Akshant: Key takeaways from Q4FY26 business performance are as follows Food delivery (Zomato) NOV growth at 18.8% YoY (-0.9% QoQ) continues to improve for the third quarter in a
+row, inching closer to our long-term expectation of 20%+ YoY. GOV growth was at 22.5% YoY. On the
+margin front, Adjusted EBITDA margin (as a % of NOV) improved to 5.5% this quarter with the business
+delivering an absolute Adjusted EBITDA of INR 532 crore, a YoY growth of 24%.
+Quick commerce (Blinkit) NOV growth remains strong at 95.4% YoY (8.2% QoQ). 216 net new stores were
+added in the quarter taking the total store count to 2,243 stores as at the end of the quarter. Adjusted
+EBITDA improved to INR 37 crore (0.3% of NOV) vis-à-vis INR 4 crore in the previous quarter.
+Going-out (District) NOV growth accelerated to 46.5% YoY (5.8% QoQ) while Adjusted EBITDA losses
+reduced to INR 81 crore vs INR 121 crore loss in Q3FY26. As a result, Adjusted EBITDA margin (as a % of NOV)
+improved to -3.0% from -4.7% in Q3FY26.
+Hyperpure’s restaurant supply Revenue growth improves to 37% YoY vs 33% in the previous quarter, with
+overall Adjusted EBITDA margin improving to 0.5% resulting in absolute Adjusted EBITDA profit of INR 5
+crore (as compared to INR 1 crore in the previous quarter).
+At a consolidated level, Adjusted Revenue grew 186% YoY (6% QoQ) to INR 17,680 crore, though like-for-like
+growth was 64% YoY (the difference reflects the accounting shift to inventory ownership in quick
+commerce, where revenue now includes the full value of goods sold rather than just marketplace
+commission).
+Consolidated Adjusted EBITDA increased 160% YoY to INR 429 crore while increasing 18% QoQ (vs INR 364
+crore in Q3FY26). B2C NOV grew 54% YoY (4% QoQ) to INR 26,880 crore.
+
+QUICK COMMERCE
+
+Q2. Blinkit's NOV growth, while still high, looks like it is decelerating. In your view,
+is QC TAM approaching saturation levels?
+Albinder: Between FY23 and FY26, Blinkit's NOV grew
+at 104% CAGR. Growth rates are now naturally
+moderating off a much larger base. Over the next three
+years, NOV growth CAGR should easily be north of 60%.
+That translates to the business growing to >4x its
+current scale in three years.
+Quick commerce today is still concentrated in the top
+15-20 cities and in a relatively narrow set of categories.
+The headroom for growth on geography, assortment,
+and frequency is substantial.
+
+Q3. What are the building blocks of 60%+ NOV CAGR from here?
+Albinder: Three things - assortment expansion, geographic coverage, and demand densification while
+improving the quality and reliability of our service. In the top eight cities, the primary growth lever is
+6
+
+
+assortment (more SKUs require more stores, even in areas we already serve). In the cities beyond the top
+eight, it's all three working simultaneously - geographic rollout, assortment build-out, and the demand
+flywheel we've already seen play out in Delhi NCR.
+1.​ Assortment expansion - In Delhi NCR, we now offer close to 80k SKUs, versus about 50k+ in the
+next seven cities and 20k beyond the top eight. Even within Delhi NCR, this depth is limited to
+select neighbourhoods. Broader selection consistently drives higher retention, wallet share, and
+NAOV - we see this clearly in the data. The headroom to expand both breadth and depth across all
+cities is significant. In the top eight cities specifically, we expect this to be a primary driver of store
+additions going forward.
+2.​ Geographic expansion - Our top eight cities are approaching coverage maturity, with 80-90% of pin
+codes already serviceable. Incremental geographic growth comes from cities beyond the top eight,
+where average pin code coverage is lower than 30%. Early experience in these markets has been
+encouraging - store ramp-up is faster and profitability is comparable to mature markets despite
+lower NAOVs, driven by lower real estate and operating costs.
+3.​ Demand density - Delhi NCR has roughly 2x the store density of the next seven cities and 8x the
+density beyond the next seven, on a stores-per-serviceable-pin-code basis. That density followed
+strong customer adoption. As other cities mature along the same curve, they'll support
+significantly more stores per neighbourhood - improving delivery speed and assortment
+availability, which in turn drives further adoption. The flywheel is proven in Delhi NCR. Early signs in
+our next set of cities suggest it's already beginning.
+The net effect across all three vectors is growth in both transacting customers and spend per customer,
+leading to growth in stores per city with the cities beyond the top eight contributing disproportionately to
+this growth.
+
+Q4. Won’t high competition negatively impact the growth assumptions going
+forward?
+Albinder: High competition can have adverse impact in certain periods of time, like the one we are going
+through now, where aggressive discounting is leading to poor-quality growth centred around select
+low-margin SKUs. But more broadly and longer term, good competition will aid our growth as well as the
+growth of the market over the next few years. That is because when multiple players simultaneously invest
+in infrastructure, acquire customers, and build awareness for the category, the overall market expands
+faster than any single player could achieve alone. We have seen this play out even over the last three years.
+In a mature, saturated market, competition is zero-sum. But quick commerce is a nascent category that is
+still being created, and has a long way to go before it becomes a zero sum game.
+
+Q5. On a QoQ basis, the NOV growth was just 8% in Q4FY26. Based on what you
+have said above, should we expect a bounceback in the next quarter?
+Akshant: Yes, we expect Q1FY27 to be meaningfully stronger on a QoQ basis.
+Q4 is seasonally the weakest quarter for quick commerce, and this year was no exception. Two structural
+factors compress QoQ growth in Q4 every year - fewer days in the quarter versus Q3, and a lower share of
+long-tail categories coming off the festive period, which pulls down NAOV. Neither reflects any change in
+underlying demand trends. The demand signals we're seeing in April indicate that the recovery this quarter
+will be strong.
+
+7
+
+
+Q6. What does the path and timeline for your steady state Adjusted EBITDA
+margin guidance for Blinkit of 5-6% look like? How are you thinking about
+balancing growth and profitability?
+Albinder: As we noted last quarter, some of our larger,
+more mature cities - including Delhi NCR - are already
+approaching the 5-6% steady-state Adjusted EBITDA
+margin. The underlying economics are solid, and
+what's encouraging is that these markets have
+remained resilient even during elevated competition throughput per store continues to improve, customer
+retention remains strong, and wallet share keeps
+expanding. These are not temporary profits. They are
+structurally sound and durable.
+At an aggregate level, the profitability has improved
+year-on-year consistently (see chart) and we expect that trend to continue. We are more confident of
+getting to our guidance of 5-6% margins today than ever before - the only variable is the speed at which we
+get there. The path of margin expansion may not be linear though, given the multiple moving parts, but we
+are confident we will get there soon.
+Akshant: Our focus is squarely on solving for durable growth. Profitability is an outcome of executing our
+growth plan well, not an independent goal that we're optimising for.
+​
+FOOD DELIVERY & GOING-OUT
+
+Q7. Food delivery NOV growth seems to be accelerating consistently over the last
+three quarters. Are there any structural reasons that are driving this growth?
+Deepinder: Yes, growth has been accelerating over the last three quarters after bottoming out in Q1FY26.
+And we believe the improvement is structural, driven primarily by deliberate interventions to expand the
+addressable market into more price-sensitive segments.
+From Q2FY26, we lowered the minimum order value for free delivery to INR 99 from INR 199 for Gold
+members, stepped up targeted activation for budget-conscious customers, and curated assortment
+specifically for this segment - meals under INR 250, for example. The results have been encouraging order volume growth is being driven by MTC growth, both from new-to-platform customers and higher
+frequency among existing budget-conscious customers.
+A declining NAOV is a natural and intended consequence of this strategy. If we can make restaurant food
+affordable for a much larger base of Indians, the addressable market expands significantly. What matters
+is whether the economics hold as NAOV comes down - and they do. Revenue per order continues to
+improve and operating cost efficiencies have kept pace, which is why margins have remained stable even
+as the order mix has shifted towards lower-value orders. Ultimately, we are optimizing for absolute
+Adjusted EBITDA (and not %), and the current tactics are working well to drive that.
+Two additional tailwinds give us confidence that the improvement in growth is structural and not
+transient. App opens have been trending higher over the last few quarters, signalling improving
+demand independent of our interventions. And while quick commerce did impact food delivery
+growth when it first scaled, that effect has now plateaued - food delivery frequency has been stable
+for several quarters, suggesting the two categories have largely settled into distinct use cases.
+8
+
+
+We expect growth to continue trending toward our long-term expectation of 20%+ YoY NOV growth, with
+margins remaining in the 5-6% range.
+
+Q8. Do you expect the recent LPG shortage in India to impact the growth/
+profitability outcomes in the current quarter (Q1FY27)?
+Deepinder: No meaningful impact yet. When localised supply disruptions happen - whether from LPG
+shortages, weather, or anything else - we typically see demand redistribute across the platform rather than
+it going away. The breadth of restaurant selection across cuisines, price points, and geographies means
+customers have alternatives within the app. Some restaurants in affected pockets did see temporary
+disruption, but platform-level throughput wasn’t impacted.
+
+Q9. NOV growth in District rebounded strongly to 47% YoY as compared to 20%
+YoY in the previous quarter. What drove this acceleration?
+Akshant: Going-out NOV grew 42% YoY for the full year FY26, and we'd encourage looking at the annual
+number rather than individual quarters. This is an inherently lumpy business - Q3 is events-heavy, Q1 is
+IPL-heavy, and the movies NOV depends entirely on the release calendar. Quarter-to-quarter swings will be
+large and are not indicative of underlying momentum. The annual growth rate is a more robust signal.
+FY26 is also a meaningful baseline year for us. This is the first full year with the District app in its current
+form - a unified going-out platform where today a customer can book a restaurant, buy movie tickets, buy
+concert tickets, find and reserve a playing arena, or discover local retail stores. No other platform in India
+brings together this breadth of going-out use cases in a single app - and the more use cases we add, the
+higher the engagement frequency and the stronger the retention. Each category reinforces the others.
+We have previously guided toward $3 billion in NOV and $150 million in Adjusted EBITDA by FY30, implying
+approximately 30%+ YoY NOV growth from here. Despite significant INR depreciation (since the time we
+gave the guidance ), we remain confident in that trajectory.
+
+🙂
+
+​
+EVERYTHING ELSE
+
+Q10. Can you share an update on the cash balance as at the end of Q4FY26?
+Akshant: Cash balance increased to INR 17,972 crore (vs INR 17,820 crore in Q3FY26). Two things to note –
+1) NWC decreased QoQ mainly driven by settlements with sellers subsequent to transition to the 1P model
+in our quick commerce business.
+2) The negative cash movement in ‘Other items’ was largely on account of the marked-to-market (MTM)
+movements in the value of debt securities held by us, where the uncertain macro environment led to lower
+bond prices. To be clear, these are not realized losses but are adjustments made to cash balance to reflect
+the lower current market value of the securities held. Since we are going to hold these bonds to maturity,
+this does not impact our treasury returns now or in the future.
+
+9
+
+
+Q11. Any ESG updates?
+Deepinder: Yes, we have been making progress on multiple fronts.
+Greening India - our agroforestry initiative, is now live across six states with over 3,000 farmer partners.
+Since launch, we have distributed approximately 1 million saplings, of which 600,000+ have already been
+planted across roughly 5,000 acres - at no cost to farmers. These plantations have the potential to
+sequester ~600,000 tonnes of CO₂ from the atmosphere over the next 30 years. We are scaling rapidly and
+are targeting distribution of 2.5 million additional saplings to be planted across 10,000 acres of land in
+FY27.
+EVs & Plastic waste - EV adoption among our delivery partners has crossed a meaningful threshold. Active
+EV-based delivery partners doubled from 52,000 in March 2025 to over 100,000 in March 2026. In a city like
+Delhi NCR, close to 25% of our monthly active delivery partners now make deliveries on electric vehicles.
+Alongside this, we continued to focus on our 100% plastic neutral deliveries initiative, voluntarily recycling
+15,000 MT of plastic waste in FY26 and crossing a cumulative total of 60,000+ MT recycled since the
+programme's inception.
+Delivery partner welfare - one of our key initiatives this year has been to help delivery partners unlock
+government entitlements they are legally eligible for but often unable to access without support. Through
+offline enrolment camps, partners are screened across central and state government schemes and
+enrolled based on eligibility. To date, this has unlocked approximately INR 200 crore in benefits for our
+partners. We are now extending this programme to warehouse workers, with a target of covering 1 lakh gig
+and contract workers in FY27.
+Feeding India - we continue to build on the work we are doing to reduce the burden of malnutrition in India.
+Through Feeding India, 1.4 lakh+ children now receive nourishing meals daily across 2,300+ centres in 150+
+cities. In FY26, we deepened this work by revamping approximately 400 Anganwadis across Varanasi,
+Nandurbar, and Gurugram into dedicated meal centres, and by deploying facial recognition technology
+across a significant part of our centre network to track meal distribution digitally - ensuring both
+accountability and scale without adding administrative burden.
+---THE END
+
+10
+
+
+Annexure A - Quarterly disclosures
+
+Notes:
+1)​ NOV (B2C business) excludes the NOV of Bistro business which is part of the ‘Others’ segment.
+2)​ On a like-for-like (“LFL”) basis, quick commerce Revenue grew 171% YoY (44% QoQ), 153% YoY (13% QoQ) and 126% YoY (9% QoQ)
+in Q2FY26, Q3FY26 and Q4FY26 respectively. LFL quick commerce Revenue is calculated as quick commerce Revenue (-) cost
+of goods sold in case of own inventory sales.
+3)​ On a like-for-like (“LFL”) basis, consolidated Adjusted Revenue grew 65% YoY (22% QoQ), 64% YoY (11% QoQ) and 64% YoY (5%
+QoQ) in Q2FY26, Q3FY26 and Q4FY26 respectively. LFL consolidated Adjusted Revenue is calculated as consolidated Adjusted
+Revenue (-) Revenue from Hyperpure’s non-restaurant business (-) cost of goods sold in case of own inventory sales in quick
+commerce.
+4)​ Adjusted Revenue shown above does not include inter-segment revenue.
+5)​ There could be some totalling anomalies in the numbers displayed above due to the impact of rounding off.
+6)​ Others segment includes all other non-material businesses and any new initiatives that we may launch from time to time.
+
+11
+
+
+12
+
+
+Notes:
+1)​
+
+On a like-for-like (“LFL”) basis, quick commerce Revenue grew 171% YoY (44% QoQ), 153% YoY (13% QoQ) and 126% YoY (9% QoQ)
+in Q2FY26, Q3FY26 and Q4FY26 respectively. LFL quick commerce Revenue is calculated as quick commerce Revenue (-) cost
+of goods sold in case of own inventory sales.
+2)​ NOV per day, per store is calculated as a simple average of total NOV transacted per day divided by total number of stores
+operational for the day, for that period.
+
+Note: Treasury income is as per actual cash received (and not on accrual basis). Hence, there will be quarterly variation in the
+quantum.
+
+13
+
+

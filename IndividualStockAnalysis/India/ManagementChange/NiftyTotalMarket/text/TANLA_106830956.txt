@@ -1,0 +1,1658 @@
+October 27, 2026
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (East),
+Mumbai - 400 051
+
+Scrip Code: 532790
+
+Symbol: TANLA
+
+Sub: Letter to Shareholders for quarter and half year ended September 30, 2026
+Dear Sir/ Ma’am,
+With reference to the subject cited, we are enclosing herewith Letter to Shareholders for quarter and
+half year ended September 30, 2026.
+Request you to take the same on record and oblige.
+Thanking you
+Yours faithfully,
+For Tanla Platforms Limited
+
+signed by
+SESHANURA Digitally
+SESHANURADHA CHAVA
+2026.10.27
+DHA CHAVA Date:
+19:02:11 +05'30'
+
+Seshanuradha Chava
+General Counsel and Company Secretary
+ACS-15519
+
+
+Protecting every
+digital citizen!
+
+Shareholders’
+Letter and Results
+
+Q2 FY27
+
+
+Table of Contents
+Financial Performance
+
+03
+
+Message from Chairman
+
+04
+
+Management Discussion Q&A
+
+09
+
+Quarterly Disclosures
+
+11
+
+Policies
+
+18
+
+Deep-Dive Charts
+
+22
+
+
+Financial Performance Q2 FY27
+Revenue
+
+Gross Profit
+
+EBITDA
+
+₹13,517 Mn
+
+₹3,531 Mn
+
+₹2,143 Mn
+
+PAT
+
+EPS
+
+Cash and Cash equivalents1
+
+₹1,464 Mn
+
+₹11.09 Per Share
+
+₹14,474 Mn
+
+Revenue
+
+Gross Profit
+
+EBITDA
+
+₹1,047 Mn
+
+₹1,033 Mn
+
+₹820 Mn
+
+10.2% QoQ and 25.3% YoY
+
+3.0% QoQ and 17.1% YoY
+
+6.6% QoQ and 20.8% YoY
+
+8.2% QoQ and 23.1% YoY
+
+3.0% QoQ and 17.7% YoY
+
+Digital Platforms
+
+1.6% QoQ and 6.4% YoY
+
+1.7% QoQ and 6.5% YoY
+
+78.6% Margin
+
+Enterprise Communications
+Revenue
+
+Gross Profit
+
+EBITDA
+
+₹12,470 Mn
+
+₹2,498 Mn
+
+₹1,323 Mn
+
+11.0% QoQ and 27.2% YoY
+
+11.2% QoQ and 31.6% YoY
+
+10.7% Margin
+
+Significant Events
+•
+•
+•
+•
+•
+
+ValueFirst Overseas Acquisition: Tanla completed the acquisition of ValueFirst’s overseas business,
+strengthening its international presence.
+Panel Discussion at London Business School: Tanla and London Business School hosted a panel discussion
+on Trust in an AI-driven Digital Economy, bringing together leaders from industry, regulation and academia.
+Fast Company: Tanla ranked #8 on Fast Company’s Best Workplaces for Innovators 2026 list, recognising its
+culture of innovation.
+BIG Sustainability Awards 2026: Tanla received the Sustainability Leadership Award, recognising its
+commitment to responsible and sustainable business practices.
+Global Fintech Fest 2026: Karix showcased its AI-powered customer engagement solutions, highlighting the
+role of AI and trust in transforming enterprise communications.
+
+We delivered another strong quarter with double-digit growth across all key financial
+metrics. Our Enterprise Business grew 27.2% YoY, reflecting the strength of our customer
+relationships and competitive position. With over 14,400 Mn in cash and a debtfree balance sheet, we are well positioned to pursue our growth ambitions while
+maintaining financial discipline.
+- Uday Reddy, Founder Chairman & CEO
+
+1. Cash balance includes liquid funds which are held as investments and fixed deposits having a maturity period of greater than twelve months
+
+Shareholder Report Q2 FY27
+
+3
+
+
+MESSAGE FROM
+THE CHAIRMAN
+“Dear Shareholders,
+As we enter the festive season, I wish you and your
+families a very Happy Diwali. Tanla delivered another
+strong quarter, extending the growth momentum
+we have sustained over the past six quarters. Our
+performance reflects the strength of our business,
+deeper customer relationships and consistent
+execution.
+Revenue grew 25.3% YoY and 10.2% QoQ, gross profit
+increased 23.1% YoY and 8.2% QoQ, and EBITDA grew
+20.8% YoY and 6.6% QoQ. Our revenue retention of
+119% reflects continued expansion within our existing
+customer relationships.
+Our financial position remains strong. We generated
+₹2,316 Mn in free cash flow during the quarter and
+closed with ₹14,474 Mn in cash and zero debt. The
+Board has declared an interim dividend of ₹6 per share.
+Enterprise Business - Sustaining Market-Leading
+Growth
+Our Enterprise Business delivered 27.2% YoY revenue
+growth, continuing to outpace the Indian enterprise
+communications industry. This performance reflects
+our strong competitive position, deep customer
+relationships and ability to capture opportunities
+across communication channels. Our scale, telecom
+partnerships and execution capabilities continue to
+differentiate us in the market.
+We are particularly encouraged by the momentum
+among our large enterprise customers. Our ₹500
+Mn-plus customer cohort grew 11% QoQ, reflecting
+the growing depth of our customer relationships.
+WhatsApp continues to be a significant growth driver,
+with strong enterprise adoption of conversational
+communication.
+During the quarter, we completed the acquisition of
+ValueFirst’s international operations, expanding our
+presence in the Middle East and Southeast Asia. The
+acquired business contributed ₹285 Mn in revenue from
+two months of consolidation. Our priority is to integrate
+these operations effectively, deepen customer
+relationships and build a stronger, more profitable
+international business.
+
+Shareholder Report Q2 FY27
+
+4
+
+
+While revenue and gross profit growth remain
+strong, improving operating leverage continues
+to be a priority. EBITDA growth was also impacted
+by the consolidation of ValueFirst’s international
+operations, which currently operate at lower
+profitability levels.
+
+Looking Ahead
+As we enter the second half of FY27, I am
+encouraged by the momentum in our Enterprise
+Business, our strengthening competitive position
+and the long-term opportunities emerging from AI
+and intelligent communications.
+
+Platform Business - Progress and Priorities
+Our Platform Business grew 6.4% YoY, below our
+expectations. The prolonged delay in the regulatory
+implementation of India’s consent framework has
+affected the anticipated commercial rollout and
+growth of our Consent platform. We have continued
+investing in the platform and remain positioned to
+respond as the regulatory framework progresses.
+
+Our priorities are clear sustain growth ahead of
+the market, expand margins, accelerate platform
+commercialisation and maintain strong cash
+generation. With six quarters of sustained growth,
+a debt-free balance sheet and strong customer
+relationships, we have a solid foundation for the
+next phase of Tanla’s growth.
+Thank you for your continued trust and support.”
+
+Meanwhile, Wisely.ai continues to demonstrate
+the impact of AI-powered intelligence through its
+deployment at Indosat in Indonesia. The platform
+has helped protect millions of consumers from spam
+and scams, demonstrating its effectiveness at scale.
+This initiative has also attracted academic interest,
+including a case study at London Business School,
+with participation from members of our leadership
+and Board.
+
+Uday Reddy
+Founder Chairman & CEO
+
+Our focus remains on accelerating platform
+adoption, strengthening commercial execution and
+translating technology investments into sustainable
+revenue and gross profit growth.
+AI and the Future of Communications
+The global communications industry is entering an
+important phase of transformation. AI is changing
+how enterprises engage with customers, automate
+interactions and deliver personalised experiences.
+We believe the next phase of industry growth will
+increasingly be shaped by intelligence, identity,
+security and trusted customer engagement,
+alongside traditional communications
+infrastructure. For Tanla, this evolution presents a
+meaningful opportunity. Our established enterprise
+relationships, telecom partnerships and experience
+in large-scale communications technology
+provide a strong foundation to participate in this
+transformation.
+Our ambition is to create differentiated solutions
+that deliver measurable customer value and
+contribute to sustainable, profitable growth.
+
+Shareholder Report Q2 FY27
+
+5
+
+
+Case Study
+Protecting Bank Customers from
+Scams at National Scale
+How Tanla’s Wisely.ai stopped smishing (SMS phishing)
+at the source for a leading private-sector bank
+From Telecom to Banking: Wisely.ai Scales Scam Protection
+After protecting over 100 million users in Indonesia, Tanla’s Wisely.ai has protected
+21 million customers of one of India’s top-5 private-sector banks, blocking 91 million
+scam messages in FY26.
+
+Introduction
+
+A leading private-sector bank, among India’s top-5 by market capitalization, serves around 55 million
+customers through a pan-India retail, corporate and SME franchise. Its scale made it a prime target for
+impersonation. In FY26, the bank deployed Tanla’s Wisely.ai to stop impersonation scams before they reached
+customers.
+
+Scale
+
+91M
+scam
+
+21M
+customers
+
+30-40%
+fewer smishing
+complaints within
+6 months
+
+<0.2%
+false positives
+
+protected
+(38% of base)
+
+messages
+blocked
+
+The Challenge
+
+Scammers impersonated the bank at scale, using spoofed sender IDs to send fake cashback offers, loan
+approvals and reward-point redemptions by SMS. These messages routed customers to look-alike phishing
+pages built to harvest banking credentials. Every scam cost customers money and trust, and eroded the
+bank’s brand equity.
+
+Shareholder Report Q2 FY27
+
+7
+
+
+The Solution: Detect → Drop → Take Down
+Wisely.ai is a real-time, AI-native anti-scam and smishing protection platform that sits at the messaging layer:
+
+Detect: Every inbound SMS and message analyzed in under 50ms, combining
+reputation signals, semantic analysis and call-to-action detection for suspicious
+URLs, mobile numbers and email IDs.
+Drop: Scam and impersonation messages dropped before they reach the
+customer, removing the need for customer vigilance as the first line of defense.
+Take down: Impersonation URLs and fraudulent sender accounts taken down
+through partnerships with iZOOlogic, Google and Meta (WhatsApp), typically
+within hours, 24 hours at most.
+
+Key Changes Driven by Wisely.ai
+Area
+
+Before Wisely.ai
+
+After Wisely.ai
+
+Scam messages
+
+Delivered to
+customers’ inboxes
+
+Dropped in under 50ms,
+before delivery
+
+First line of defense
+
+Customer vigilance
+
+Real-time AI detection at the
+messaging layer
+
+Phishing links and
+sender accounts
+
+Reused across SMS,
+WhatsApp and other
+channels
+
+Taken down, typically within
+hours, 24 hours at most
+
+Fraud response
+
+Reactive, incident
+by incident
+
+Proactive, at the source
+
+Genuine bank
+messages
+
+Risk of being blocked
+by blunt filters
+
+Delivered without disruption
+(under 0.2% false positives)
+
+Key Results
+In FY26, Wisely.ai also:
+• Identified and blocked 3.2 million fraudulent links
+• Flagged 1.2 million scammer numbers and accounts for blocking and regulatory action
+• Tracked and neutralized 15 distinct scam patterns
+• Delivered an estimated ₹360+ crore in annual economic impact from fraud losses prevented
+and customer revenue retained
+
+This solution has shifted us from reacting to fraud incidents to proactively preventing them. The
+platform's accuracy and stability give our team the confidence to run it at national scale without
+disrupting genuine customer communication.
+					
+
+— SVP, Fraud Risk Intelligence, a leading private-sector bank
+
+Conclusion
+
+With scams stopped before delivery and their infrastructure taken down, the bank now protects both its
+customers and its brand at national scale. The deployment extends Wisely.ai from telecom into banking,
+showing that the same platform can identify the scam, protect the user and eliminate the scammer in both.
+Shareholder Report Q2 FY27
+
+8
+
+
+Management Discussion
+Q1
+Q3
+
+FY27?
+
+Can you summarise overall
+financial performance in Q2
+
+We delivered double-digit YoY growth across all our
+key financial metrics, with revenue, gross profit and
+EBITDA growing by more than 20%. More importantly, the
+quarter reflects the strength of our underlying business,
+with growth in existing customers continuing to drive
+performance.
+Revenue grew by 10.2% QoQ and 25.3% YoY to ₹13,517
+Mn. Of the 10.2% QoQ revenue growth, 7.9% came from
+our existing business, while the inorganic contribution
+was 2.3%. The quarter also benefited from one-time
+campaigns from select customers. Our OTT contribution
+to overall revenue is at 36.2% in Q2 FY27.
+Gross profit grew by 8.2% QoQ and 23.1% YoY to ₹3,531
+Mn, with a gross margin of 26.1%. Gross profit grew by
+₹269 Mn QoQ and ₹662 Mn YoY due to revenue growth,
+partially offset by a 48bps contraction in gross margin
+in both periods. Sequential gross margin contracted by
+48 bps due to a change in revenue mix, with a higher
+contribution from the Enterprise business.
+EBITDA grew by 6.6% QoQ and 20.8% YoY to ₹2,143
+Mn, with an EBITDA margin of 15.9%. Sequential EBITDA
+increased by ₹132 Mn, driven by higher gross profit of
+₹269 Mn and offset by higher indirect costs of ₹137 Mn, of
+which ₹60 Mn relates to the newly acquired VF overseas
+business. YoY EBITDA increased by ₹369 Mn, driven by
+higher gross profit and offset by higher indirect expenses.
+PAT grew 3.0% QoQ and 17.1% YoY to ₹1,464 Mn.
+Sequential and YoY growth was driven by higher EBITDA,
+partly offset by higher depreciation and amortisation,
+including amortisation of intangible assets recognised on
+acquisition, and lower other income.
+We generated ₹2,316 Mn in free cash flow (158% of PAT),
+during the quarter and closed with ₹14,474 Mn in cash
+and zero debt.
+
+Deep-Dive Chart
+
+Q2
+
+How is Digital Platforms
+performing, and what are the
+growth opportunities?
+
+Digital Platforms revenue grew by 1.6% QoQ and 6.4% YoY
+to ₹1,047 Mn. It contributed 7.7% of overall revenue in Q2
+FY27.
+Existing telecom and banking deployments of Wisely.
+ai provide a base to pursue similar opportunities with
+additional customers and across new geographies. Our
+focus remains on accelerating platform adoption and
+strengthening commercial execution to convert the
+pipeline into sustainable revenue and gross profit growth.
+
+Q4
+
+What is driving growth in
+Enterprise Communications?
+
+Enterprise Communications revenue grew 11.0% QoQ and
+27.2% YoY to ₹12,470 Mn, continuing to outpace the Indian
+enterprise communications industry.
+WhatsApp was a key growth driver, with volumes
+doubling both QoQ and YoY across customer segments.
+This broad-based momentum reflects a shift in
+enterprise communication spend towards WhatsApp,
+with customers allocating a higher share of their
+communication budgets to the channel.
+RCS was a partial offset to growth. With significant
+pricing changes effective September 2026, adoption
+at the higher price point will depend on delivering
+better engagement and conversion for enterprises
+commensurate to the change.
+Revenue from new customer additions was ₹65 Mn in Q2
+FY27, contributing to overall business growth.
+Gross profit grew 11.2% QoQ and 31.6% YoY to ₹2,498 Mn,
+ahead of revenue growth on a YoY basis.
+Our priorities remain focused on acquiring new customers
+across domestic and international markets, expanding
+wallet share within existing customers, and increasing
+adoption of omnichannel solutions.
+
+Can you share an update on
+the acquisition of the ValueFirst
+International business?
+
+Q5
+
+We completed the acquisition of ValueFirst International
+during the quarter, with the business consolidated in
+Q2 FY27 results. It contributed ₹285 Mn in revenue for
+two months, representing 2.3% of contribution to overall
+growth.
+
+Customer cohorts are based on annualised revenue
+calculated using quarterly revenue. Growth was driven
+by higher wallet share within the existing customer base.
+Customers generating revenue above ₹10 Mn grew 10.1%
+QoQ and 24.1% YoY to ₹12,997 Mn.
+
+How did customer cohorts
+perform in Q2 FY27?
+
+The >₹500 Mn cohort grew 42.5% YoY, contributing nearly
+43% of total revenue, with BFSI customers driving growth.
+Shareholder Report Q2 FY27
+
+9
+
+
+The ₹100-₹500 Mn cohort grew 4.8% QoQ and 10.8%
+YoY, while the ₹10-₹100 Mn cohort grew 19.0% QoQ,
+includes ValueFirst’s overseas customers. Of the
+previous year’s top 20 customers, 12 remained in the
+top 20 in Q2 FY27, while the remaining eight ranked
+within the top 30.
+
+Deep-Dive Chart
+
+Q6
+
+What drove the increase in
+indirect expenses, and how
+did it impact EBITDA growth?
+
+Indirect expenses increased by ₹137 Mn QoQ,
+including ₹60 Mn attributable to ValueFirst’s overseas
+operations. The remaining ₹77 Mn increase was
+primarily driven by higher employee costs, marketing
+spends, travel and other general expenses, partly
+offset by lower forex costs. Marketing spends are
+typically higher in Q2/Q3 each year, driven by
+participation in key industry events such as Global
+Fintech Festival (GFF) and India Mobile Congress
+(IMC).
+Indirect costs increased by 26.9% YoY, while costs for
+the existing business grew by 21.3%, primarily due to
+higher spends on employee cost, marketing, travel,
+professional and legal spends. Employee costs
+increased by 14.5% YoY, due to annual increments and
+net additions. Disciplined investments in Innovation
+and GTM team will continue.
+EBITDA grew 6.6% QoQ and 20.8% YoY to ₹2,143 Mn.
+EBITDA growth was impacted by the consolidation of
+ValueFirst’s international operations, which currently
+operate at lower profitability levels. We remain
+focused on improving operating efficiency, business
+mix and profitability as we scale.
+
+Q8
+
+What explains the PAT
+performance in Q2 FY27?
+
+PAT grew 3.0% QoQ and 17.1% YoY to ₹1,464 Mn in Q2
+FY27. Sequential PAT growth was driven by higher
+EBITDA, partly offset by higher depreciation and
+amortisation, and lower other income. Other income
+decreased by ₹20 Mn QoQ, as Q1 FY27 included onetime interest income of ₹34 Mn on income tax refunds.
+ETR was 21.8%.
+
+Deep-Dive Chart
+
+Q9
+
+How was cash flow
+performance during the
+quarter, and what is the current cash
+and liquidity position?
+
+Cash generation remained strong in Q2 FY27, with
+cash generated from operations of ₹2,593 Mn,
+representing 121% of EBITDA. Free cash flow stood at
+₹2,316 Mn after capex of ₹277 Mn, representing 158%
+of PAT.
+Cash balance increased by ₹2,504 Mn QoQ to
+₹14,474 Mn including fixed deposits and investments
+in Q2 FY27. DSO declined by 16 days, to 63 days in Q2
+FY27, reflecting improved working capital efficiency.
+The company remains debt-free, providing financial
+flexibility to fund growth investments while returning
+cash to shareholders. The Board has declared an
+interim dividend of ₹6 per share, amounting to a total
+payout of ₹796 Mn.
+
+Deep-Dive Chart
+
+Deep-Dive Chart
+
+Q7
+
+On sequential basis, there
+seems to be sharp increase
+in Depreciation and Amortization.
+Can you provide some insights on the
+movement?
+
+Depreciation and amortisation grew by 13.6% QoQ
+and 25.9% YoY to ₹373 Mn. The sequential increase
+of ₹45 Mn was primarily attributable to ₹22 Mn of
+amortisation of intangible assets recognised on
+acquisition and ₹18 Mn of depreciation on additions
+to leasehold improvements.
+
+Deep-Dive Chart
+Shareholder Report Q2 FY27
+
+10
+
+
+Annexure- 1 Quarterly Disclosures
+(In ₹ Mn, unless otherwise stated)
+
+Three months ended Sep 30
+(Unaudited)
+
+Six months ended Sep 30
+(Unaudited)
+
+Q2 FY27
+
+Q2 FY26
+
+H1 FY27
+
+H1 FY26
+
+Revenue from operations
+
+13,517
+
+10,785
+
+25,781
+
+21,191
+
+Gross profit
+
+3,530
+
+2,868
+
+6,792
+
+5,475
+
+Gross margin
+
+26.1%
+
+26.6%
+
+26.3%
+
+25.8%
+
+EBITDA
+
+2,143
+
+1,775
+
+4,154
+
+3,414
+
+EBITDA margin
+
+15.9%
+
+16.5%
+
+16.1%
+
+16.1%
+
+EBITDA/Gross profit
+
+60.7%
+
+61.9%
+
+61.2%
+
+62.4%
+
+EBIT
+
+1,770
+
+1,478
+
+3,452
+
+2,846
+
+EBIT margin
+
+13.1%
+
+13.7%
+
+13.4%
+
+13.4%
+
+Other Income
+
+120
+
+89
+
+262
+
+209
+
+Profit after tax
+
+1,464
+
+1,250
+
+2,886
+
+2,435
+
+Profit after tax margin
+
+10.8%
+
+11.6%
+
+11.2%
+
+11.5%
+
+Free cash flow
+
+2,316
+
+1,645
+
+3,575
+
+1,337
+
+Earnings per share (In INR)
+
+11.09
+
+9.43
+
+21.86
+
+18.24
+
+Cash and Cash equivalents
+
+14,474
+
+8,814
+
+14,474
+
+8,814
+
+ROCE - (Including CCE)
+
+26.5%
+
+25.6%
+
+33.8%
+
+24.6%
+
+63
+
+77
+
+66
+
+84
+
+1,081
+
+1,004
+
+1,081
+
+1,003
+
+DSO days
+Average number of
+employees
+
+Shareholder Report Q2 FY27
+
+11
+
+
+CONDENSED CONSOLIDATED INCOME STATEMENT
+(In ₹ Mn, unless otherwise stated)
+
+Three months ended Sep 30
+(Unaudited)
+
+Six months ended Sep 30
+(Unaudited)
+
+Q2 FY27
+
+Q2 FY26
+
+H1 FY27
+
+H1 FY26
+
+Revenue from operations
+
+13,517
+
+10,785
+
+25,781
+
+21,191
+
+Cost of services
+
+9,987
+
+7,917
+
+18,989
+
+15,717
+
+Gross profit
+
+3,530
+
+2,868
+
+6,792
+
+5,475
+
+Indirect expenses
+
+1,387
+
+1,093
+
+2,638
+
+2,061
+
+EBITDA
+
+2,143
+
+1,775
+
+4,154
+
+3,414
+
+Depreciation
+
+(373)
+
+(297)
+
+(702)
+
+(568)
+
+EBIT
+
+1,770
+
+1,478
+
+3,452
+
+2,846
+
+Finance cost
+
+(17)
+
+(12)
+
+(28)
+
+(26)
+
+Other income
+
+120
+
+89
+
+262
+
+209
+
+Profit before tax
+
+1,873
+
+1,555
+
+3,686
+
+3,029
+
+Tax expenses
+
+409
+
+305
+
+800
+
+595
+
+Profit after tax
+
+1,464
+
+1,250
+
+2,886
+
+2,435
+
+Earnings per share (In ₹ )
+
+11.09
+
+9.43
+
+21.86
+
+18.24
+
+CONDENSED CONSOLIDATED BALANCE SHEET
+(In ₹ Mn, unless otherwise stated)
+
+Sep 30,2026 (Unaudited)
+
+Jun 30,2026 (Unaudited)
+
+ASSETS
+
+Property, plant and equipment
+
+1,952
+
+2,018
+
+Platforms
+
+1,700
+
+1,745
+
+Customer Relationships
+
+803
+
+171
+
+Brands
+
+(4 )
+
+(0 )
+
+Non-Compete
+
+25
+
+7
+
+Technology & Software
+
+461
+
+455
+
+Intangible assets under development
+
+662
+
+593
+
+3,552
+
+2,646
+
+Right-of-use-lease assets
+
+611
+
+375
+
+Capital work in progress
+
+1
+
+-
+
+Investment Property
+
+16
+
+16
+
+4,308
+
+459
+
+Deferred tax assets (net)
+
+486
+
+466
+
+Other non-current assets
+
+255
+
+207
+
+Total non-current assets
+
+14,828
+
+9,158
+
+Trade receivables
+
+9,243
+
+10,718
+
+Goodwill
+
+Financial assets
+
+Shareholder Report Q2 FY27
+
+12
+
+
+Investments
+
+1,209
+
+259
+
+Cash and bank balances
+
+9,124
+
+11,488
+
+Other Financial assets
+
+5,397
+
+5,012
+
+Other current assets
+
+1,718
+
+1,453
+
+Total current assets
+
+26,691
+
+28,930
+
+TOTAL ASSETS
+
+41,519
+
+38,088
+
+Sep 30,2026 (Unaudited)
+
+Jun 30,2026 (Unaudited)
+
+EQUITY AND LIABILITIES
+
+(In ₹ Mn, unless otherwise stated)
+Equity share capital
+
+EQUITY AND LIABILITIES
+133
+
+133
+
+Other equity
+
+27,091
+
+25,441
+
+Total equity
+
+27,224
+
+25,573
+
+643
+
+391
+
+21
+
+19
+
+41
+
+38
+
+705
+
+448
+
+Trade payables
+
+7,267
+
+6,614
+
+Lease liabilities
+
+106
+
+106
+
+Other financial liabilities
+
+5,253
+
+4,383
+
+Other current liabilities
+
+217
+
+278
+
+Short term provisions
+
+157
+
+181
+
+Liabilities for current tax (net)
+
+589
+
+505
+
+Total Current liabilities
+
+13,590
+
+12,067
+
+TOTAL EQUITY AND LIABILITIES
+
+41,519
+
+38,088
+
+Non current liabilities
+Financial Liabilities
+Lease liabilities
+Other financial liabilities
+Provisions
+Total Non Current Liabilities
+Current liabilities
+Financial Liabilities
+
+Shareholder Report Q2 FY27
+
+13
+
+
+CONDENSED CONSOLIDATED STATEMENT OF SHAREHOLDERS’ EQUITY
+Share
+capital
+
+Reserves
+
+Retained
+earnings
+
+Other
+contributions
+
+Total
+
+135
+
+2,387
+
+19,762
+
+400
+
+22,683
+
+Profit for the period
+
+-
+
+-
+
+5,091
+
+-
+
+5,091
+
+Other comprehensive income
+
+-
+
+-
+
+-
+
+396
+
+396
+
+Issue of equity shares
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Purchase of treasury shares
+
+-
+
+(182 )
+
+-
+
+-
+
+(182 )
+
+Employee stock compensation expense
+
+-
+
+287
+
+-
+
+-
+
+287
+
+Shares bought back
+
+(2)
+
+(1,789)
+
+(2)
+
+-
+
+(1,793)
+
+Dividend Paid
+
+-
+
+-
+
+(1,603)
+
+-
+
+(1,603)
+
+Others
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Closing balance 31 Mar 2026
+
+133
+
+703
+
+23,248
+
+796
+
+24,880
+
+Opening balance 01 April 2026
+
+133
+
+703
+
+23,248
+
+797
+
+24,880
+
+Profit for the period
+
+-
+
+-
+
+2,886
+
+-
+
+2,886
+
+Other comprehensive income
+
+-
+
+-
+
+-
+
+168
+
+168
+
+0.02
+
+56
+
+-
+
+-
+
+56
+
+Purchase of treasury shares
+
+-
+
+4
+
+-
+
+-
+
+4
+
+Employee stock compensation expense
+
+-
+
+25
+
+-
+
+-
+
+25
+
+Shares bought back
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Dividend Paid
+
+-
+
+(796)
+
+-
+
+(796)
+
+Others
+
+0
+
+-
+
+-
+
+-
+
+0
+
+133
+
+788
+
+25,338
+
+965
+
+27,224
+
+(In ₹ Mn, unless otherwise stated)
+Opening balance 01 April 2025
+
+Issue of equity shares
+
+Closing balance 30 Sep 2026
+
+Shareholder Report Q2 FY27
+
+14
+
+
+CONDENSED STATEMENT OF CASH FLOWS AND LIQUIDITY POSITION
+H1 FY27
+(Unaudited)
+
+FY26
+(Audited)
+
+4,392
+
+7,775
+
+109
+
+(403)
+
+Cash generated from operations
+
+4,501
+
+7,372
+
+Taxes
+
+(352)
+
+(1,630)
+
+Cash flow from operating activities
+
+4,149
+
+5,742
+
+Net investments in tangible and intangible assets
+
+(574)
+
+(I974)
+
+(Purchase)/Sale of investments - (Short term liquid funds)
+
+(939)
+
+970
+
+Interest and other income received
+
+226
+
+309
+
+(2,064)
+
+(37)
+
+(78)
+
+-
+
+Cash flow from investing activities
+
+(3,429)
+
+268
+
+Purchase/Issue of Treasury shares
+
+0
+
+-
+
+Dividend received from/(purchase) of treasury Shares
+
+4
+
+-182
+
+Buyback of shares
+
+-
+
+-1,793
+
+Dividend paid during the year
+
+(796)
+
+(1,603)
+
+Interest paid on lease liabilities
+
+(86)
+
+(173)
+
+Cash flow from financing activities
+
+(878)
+
+(3,752)
+
+Cash flow for the period
+
+(158)
+
+2,258
+
+Cash and cash equivalents at the beginning of period
+
+7,273
+
+5,015
+
+77
+
+-
+
+Cash and cash equivalents at the end of period
+
+7,192
+
+7,273
+
+Investments in Liquid fund
+
+1,209
+
+255
+
+Fixed deposits and other bank balances
+
+6,073
+
+4,009
+
+Cash and cash equivalents closing balance
+
+14,474
+
+11,538
+
+(In ₹ Mn, unless otherwise stated)
+Cash flow before changes in working capital
+Changes in working capital
+
+Movement in bank balances
+Investment in subsidiary
+
+Cash Acquired on ValueFirst Acquisition
+
+Note: Cash balance includes liquid funds which are held as investments and fixed deposits having a maturity period of
+greater than twelve months
+
+Shareholder Report Q2 FY27
+
+15
+
+

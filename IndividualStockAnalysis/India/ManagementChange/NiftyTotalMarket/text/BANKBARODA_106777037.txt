@@ -1,0 +1,48 @@
+--- CIM_1583_WebXMLFile_20260909_223415864_1.xml (the exchange's structured disclosure) ---
+NSESymbol: BANKBARODA ; Name Of The Company: Bank Of Baroda ; Scrip Code: 532134 ; MSEISymbol: NOTLISTED ; ISIN: INE028A01039 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-09 ; Time Of Occurrence Of Event Or Information: 20:47:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-09 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: HEAD - LARGE CORPORATE RELATIONSHIPS ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: SACHDEVA SUMIT ; Effective Date Of Reason Of Change: 2026-09-09 ; Salutation: Mr. ; Name Of The Person: SACHDEVA SUMIT ; Designation Of Person: HEAD - LARGE CORPORATE RELATIONSHIPS ; Date On Which The Resignation Letter Was Received: 2026-08-13 ; Effective Date Of Resignation: 2026-09-09 ; Reason Of Resignation In Brief: Personal & Professional aspirations
+
+--- CIMG_532134_09092026223339_2.pdf ---
+Outlook
+Resignation from Service
+From Sum it Sachdeva [Head - Large Corp Relationships] <sumit.sachdeva@bankofbaroda.bank.in >
+Date Thu 13-Aug-26 10:37 PM
+To
+
+Ashwini Kumar [CGM - HRM] <cgm.hrm@bankofbaroda.bank in>
+
+Cc
+
+Lal Singh [Executive Director) <ed.ls@bankofbaroda.com>
+
+Dear Sir,
+I hereby tender my resignation from the services of Bank of Baroda.
+After considerable thought, I have decided to pursue a new professional opportunity beyond banking
+and take the next step in my career. This has been a difficult decision, given my long and enriching
+association with Bank of Baroda and the opportunities the Bank has provided me over the years.
+I am deeply grateful to the Bank and to all my seniors, colleagues and team members for their support,
+guidance and the many opportunities I have received during my tenure.
+
+I will ensure a smooth and comprehensive transition of my responsibilities and will extend my full
+cooperation during the notice period.
+
+I request you to kindly accept my resignation and advise me regarding the formalities and I will
+coordinate with HR department on the last working date which I request to be as early as Sep first
+
+-
+
+week.
+
+I remain sincerely grateful to Bank of Baroda for being such an important part of my professional
+journey and wish the Bank and its people continued success.
+
+Thanks and Regards,
+
+Sumit Sachdeva
+Head- Large Corporate Relationships
+Baroda Corporate Centre, 6 Floor, C 26, GBlock,
+Bandra-Kurla Complex, Bandra(East),
+Mumbai -400051
+D: +91 22 6698 5601_
+M: +91 9167930039
+
+

@@ -1,0 +1,162 @@
+--- CIMG_543397_1962026184723_CIM_WebXMLFile_20260619_184812951_1.xml (the exchange's structured disclosure) ---
+NSESymbol: SAPPHIRE ; Name Of The Company: SAPPHIRE FOODS INDIA LIMITED ; Scrip Code: 543397 ; MSEISymbol: NOTLISTED ; ISIN: INE806T01020 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-06-19 ; Time Of Occurrence Of Event Or Information: 17:50:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-06-19 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non-Executive - Nominee Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Vinod Nambiar ; Effective Date Of Reason Of Change: 2026-06-19 ; Type Of Change: Appointment ; Name Of Designated Person: Vikram Agarwal ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Vikram Agarwal is a Chartered Accountant from the Institute of Chartered Accountants of India and a commerce graduate from Shri Ram College of Commerce, Delhi. With an experience of over 18 years in the field of private equity, he is currently working as Managing Director and Chief Financial Officer with Samara India Advisors Private Limited, responsible for overseeing the financial reporting, compliance, legal, and governance work within the firm. Previously, Vikram Agarwal had worked with PwC Delhi where he spent over seven years in tax and regulatory practice. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Vikram Agarwal is not related to any Director of the Company. ; Salutation: Mr. ; Name Of The Person: Vinod Nambiar ; Designation Of Person: Non-Executive - Nominee Director ; Date On Which The Resignation Letter Was Received: 2026-04-21 ; Effective Date Of Resignation: 2026-06-19 ; Reason Of Resignation In Brief: Mr. Vinod Nambiar has tendered his resignation from the position of Non-Executive Nominee Director of Sapphire Foods India Limited due to certain pre-existing professional engagements. It is further informed that there is no other material reason for the resignation other than the reason mentioned above.
+
+--- CIMG_543397_19062026184723_2.pdf ---
+Date: 19th June 2026
+
+To,
+National Stock Exchange of India Limited
+Exchange Plaza, Block G, C/1, Bandra Kurla
+Complex, Bandra (E), Mumbai – 400051
+Symbol: SAPPHIRE
+
+Dear Sir/Madam,
+
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai – 400001
+Scrip Code: 543397
+
+Sub: Intimation of Change of Directors of the Company
+Re: Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing
+Regulations”)
+Pursuant to Regulation 30 of Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), we wish to inform the
+following changes in the composition of the Board of Directors of the Company:
+1. Resignation of Mr. Vinod Nambiar (DIN: 07290613), from the office of Non-Executive
+Nominee Director, representing the promoter shareholder viz., Sapphire Foods Mauritius
+Limited (“SFML”), on the Board of Directors of the Company.
+
+2. Appointment of Mr. Vikram Agarwal (DIN: 03038370) as an Additional Director, in the
+capacity of Non-Executive Nominee Director, representing promoter shareholder viz.,
+Sapphire Foods Mauritius Limited (“SFML”), on the Board of Directors of the Company.
+
+The appointment of Mr. Vikram Agarwal has been approved by the Board of Directors, based
+on the recommendation of the Nomination and Remuneration Committee and shall be subject
+to the approval of the members of the Company, as applicable.
+
+The details as required under relevant SEBI circular is enclosed herewith at Annexure A.
+
+The copy of the resignation letter as received from Mr. Vinod Nambiar is enclosed herewith at
+Annexure B.
+Request you to kindly take the same on record.
+Thanking you,
+For Sapphire Foods India Limited
+signed by
+SACHIN Digitally
+SACHIN TUKARAM
+DUDAM
+TUKARAM
+Date: 2026.06.19
+DUDAM 18:20:43 +05'30'
+Sachin Dudam
+Company Secretary and Compliance Officer
+
+Sapphire Foods India Limited
+
+CIN: L55204HR2009PLC145722
+
++91 022 67522300
+info@sapphirefoods.in
+www.sapphirefoods.in
+
+Registered Office: SCO 328, Sector - 9, Panchkula -134109, Haryana
+Corporate Office: 702, Prism Tower, A-Wing, Mindspace, Link Road, Goregaon (W), Mumbai- 400062
+
+
+ANNEXURE A
+Details under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 read with SEBI Circular No. SEBI/HO/CFD/CFD-PoD1/P/CIR/2023/123
+dated 13th July 2023:
+1) Cessation of Mr. Vinod Nambiar (DIN: 07290613) as Non-Executive Nominee Director:
+Particulars
+Information w.r.t. the event
+Reason for change viz. Resignation of Mr. Vinod Nambiar as Non-Executive Nominee
+appointment, reappointment, Director from the Board of Directors of the Company.
+resignation, removal, death or
+otherwise;
+Date of appointment/re- 19th June 2026
+appointment/cessation
+(as
+applicable)
+&
+term
+of
+appointment/re-appointment
+
+Brief Profile (in case of Not Applicable
+appointment)
+Disclosure of relationships Not Applicable
+between directors (in case of
+appointment of a director).
+2) Appointment of Mr. Vikram Agarwal (DIN: 03038370) as an Additional Director
+designated as Non-Executive Nominee Director:
+Particulars
+Reason for change viz.
+appointment, reappointment,
+resignation, removal, death or
+otherwise;
+
+Date of appointment/reappointment/cessation
+(as
+applicable)
+&
+term
+of
+appointment/re-appointment
+
+Information w.r.t. the event
+Pursuant to the resignation of Mr. Vinod Nambiar, as NonExecutive Nominee Director, representing Sapphire Foods
+Mauritius Limited (“Promoter Shareholder”), from the Board
+of Directors, the Company has received nomination notice
+from Promoter Shareholder recommending the appointment
+of Mr. Vikram Agarwal as Director in the capacity of NonExecutive Nominee Director on the Board of the Company.
+
+Based on the recommendation of the Nomination and
+Remuneration Committee and subject to the approval of the
+shareholders of the Company, Mr. Vikram Agarwal is
+appointed as Additional Director, in the capacity of NonExecutive Nominee Director, with effect from 19th June 2026
+and his term shall be liable to retire by rotation.
+
+
+Brief Profile
+appointment)
+
+(in
+
+case
+
+of Mr. Vikram Agarwal is a Chartered Accountant from the
+Institute of Chartered Accountants of India and a commerce
+graduate from Shri Ram College of Commerce, Delhi. With an
+experience of over 18 years in the field of private equity, he is
+currently working as Managing Director and Chief Financial
+Officer with Samara India Advisors Private Limited,
+responsible for overseeing the financial reporting, compliance,
+legal, and governance work within the firm. Previously,
+Vikram Agarwal had worked with PwC Delhi where he spent
+over seven years in tax and regulatory practice.
+
+Disclosure of relationships
+between directors (in case of
+appointment of a director).
+Information
+required
+pursuant to BSE Circular no.
+LIST/COMP/14/2018-19 and
+the NSE Circular no. NSE/
+CML/2018/24, both dated 20
+June 2018.
+
+Mr. Vikram Agarwal is not related to any Director of the
+Company.
+
+Mr. Vikram Agarwal is not debarred from holding the office of
+Director by virtue of any SEBI order or any other such
+Authority.
+
+
+Annexure B
+
+

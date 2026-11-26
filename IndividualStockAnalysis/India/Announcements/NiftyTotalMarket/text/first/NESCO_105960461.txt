@@ -1,0 +1,149 @@
+” nesco 
+20 August 2024 
+National Stock Exchange India Limited, 
+Exchange Plaza, C-1, Block-G, 
+Bandra Kurla Complex, Bandra-(East) 
+Mumbai-400051 
+Scrip Code: NESCO 
+Kind Attn: Ms Reema Punjani. 
+Sub: Machine Readable Format of Financial Results 
+Dear Madam, NESCO LIMITED 
+Nesco Center 
+Western Express Highway 
+Goregaon (East) 
+Mumbai 400 063 T+9122 6645 0123 
+F+91 22 6645 0101 
+E contact@nesco.in 
+W www.nesco.in 
+In response to your e-mail dated 14 August 2024, we are re-submitting the financial 
+results for the quarter ended 30 June 2024 along with the auditors report thereon in 
+machine-readable format. 
+Thanks and Regards, 
+For Nesco Limited Digtally signed by Shalini Dinesh syin e kanatn Dae 20340820 Kamath 18:373140530" 
+Shalini Kamath 
+Company Secretary & Compliance Officer 
+M No. A14933 
+Enc: as above 
+CIN L17100MH1946PLC004886
+Goregaon (East) W www.nesco.in 
+Mumbai 400 063 NESCO LIMITED T+91 22 6645 0123 
+Nesco Center F+91 22 6645 0101 
+nesco Wesa bowesghway £ ctactaneson 
+2 August 2024 
+BSE Limited National Stock Exchange of India Limited 
+Department of Corporate Services 5" Floor, Exchange Plaza, 
+25" Floor, Phiroze Jeejeebhoy Towers, Bandra Kurla Complex, 
+Dalal Street, Bandra (East), 
+Mumbai - 400 001. Mumbai - 400 051. 
+Ref : 505355 Ref : NESCO 
+Dear Sir/Madam, 
+Sub: Outcome of Board Meeting held on 2 August 2024 
+We would like to inform you that the Board of Directors at its meeting held today, i.e. Friday, 2 
+August 2024 inter-alia have approved the Unaudited Financial Results for the quarter ended 30 
+June 2024. 
+Enclosed herewith please find herewith: 
+a) Unaudited Financial Results for the quarter ended 30 June 2024. 
+b) Limited review report of the auditors on Unaudited Financial Results for the quarter ended 
+30 June 2024. 
+The Board Meeting commenced at 11.00 a.m. and concluded at 1:45 p.m. 
+Kindly take the above on record. 
+Thanking You, 
+For Nesco Limited Digitally signed by Sha“n' Shalini Dinesh 
+Dinesh Kamath Date: 2024.08.02 Kamath 13:46:30 +0530° 
+Shalini Kamath 
+Company Secretary & Compliance Officer 
+M No. A14933 
+CIN L17100MH1946PLCO04886
+” nesco 
+Statement of Profit & Loss NESCO LIMITED 
+Registered Office : Nesco Center, Western Express Highway, Goregaon (East), Mumbai 400063. 
+Statement of Unaudited Financial Results for the Quarter Ended 30 June 2024 
+(2 in lakhs) Quarter Ended Year Ended o 30.06.2024 31.03.2024 30.06.2023 31.03.2024 
+St o Particulars (Unaudited) (Audited) (Unaudited) (Audited) Refer Note No 2 Income 
+(a) [Revenue from Operations 14,135.30 18,897.45 13,659.22 67,818.49 b) _|Other Income 2,955.94 3,090.70 2,453.50 10,494.38 1 _|TotalTncome 17,091.24 21,988.15 16,112.72 78,312.87 Expenses (a) |Cost of Materials Consumed 945,45 2,117.56 1,069.21 6,211.71 (b)  [Change in Inventories of Finished Goods, Work-In-Progress and 128,65 (262.25) 107.70 (267.60) Stock-In-Trade () |Employee Benefits Expenses 839.16 702.83 640.94 2,765.45 (d) |Finance Cost 328.09 33.99 302.60 1,405.45 (e) |Depreciation and Amortisation Expenses 1,186.88 1,183.51 1,402.87 5,416.51 () _|Other Expenses 3,614.05 461141 3,231.64 16,482.80 2 _[TotalExpenses 7,042.28 5,387.05 6,754.96 32,014.32 3 [Profit before exceptional items and tax (1-2) 10,048.96 13,601.10 9,357.76 46,298.55 4 |Exceptional items - - - = 5__[Profit before tax 10,048.96 13,601.10 5,357.76 46,298.55 Tax Expense (a) |current Tax 2,279.57 3,121.49 2,076.00 10,534.49 (b) _|Deferred Tax 790.80 (32.87) (327.87) (514.30) 6 [Total Tax Expense 3,070.37 3,088.62 1,748.13 10,020.19 
+7 |Profit after tax for the period (5- 6 ) 6,978.59 10,512.48 7,609.63 36,278.36 Other Comprehensive Income (OCI) A |Items that will not be reclassified to Statement of Profit and Loss 
+(a)  |Remeasurement of Defined Benefit Plans - Net of Tax - 79.29 - 79.29 (b)  [Net Fair Value Gain/(Loss) on Investment in Equity Instruments 0.34 0.27 2.57 1121 Through Other Comprehensive Income 
+8 [Total Other Comprehensive Income 034 79.56 2.57 50.50 9 [Total Comprehensive Income for the period (7 + 8) ,978.93 10,592.04 7,612.20 36,368.86 
+10 |Paid up Equity Share Capital (Face Value < 2/- each) 1,409.20 1,409.20 1,409.20 1,409.20 11 [Reserves excluding Revaluation Reserves as per balance sheet ) - . 2,28,241.31 
+12 |Basic and Diluted Earnings Per Share (in €) (*not annualised) %9.90 51.49 
+CIN L17100MH1946PLC004886 
+” nesco 
+Segment Reporting NESCO LIMITED 
+Registered Office : Nesco Center, Western Express Highway, Goregaon (East), Mumbal 400063. 
+Statement of Unaudited Financial Results for the Quarter Ended 30 June 2024 
+(2 in lakhs) Quarter Ended Year Ended 30.06.2024 31.03.2024 30.06.2023 31.03.2024 Ll (Unaudited) (Audited) (Unaudited) (Audited) 
+Refer Note No 2 Seament Revenue (2) Nesco Realty - IT Park 8,798.80 8,193.47 7,308.39 31,832.30 (b) Bombay Exhibition Centre 2,415.54 6,277.00 2,974.67 20,907.50 () Indabrator 1,022.50 1,525.48 1,176.21 5,149.92 (d) Nesco Foods 1,896.46 2,901.50 2.199.95 9.928.77 Revenue from Operations T4,135.30 18.897.45 13.659.22 67,818.49 (e) Income from investments/other income. 955,94 3,000.70 2.453.50 10,494.3; Total Revenue 17,091.24 21,988.15 16,112.72 78,312.87 
+Seament Profit before tax & finance costs 
+() Nesco Realty - IT Park 7,323.02 6,808.80 6,074.03 25,963.53 (b) Bombay Exhibition Centre 683.58 3,991.47 132159 12,298.45 () Indabrator 50,17 137.01 (3.1 122.88 (d) Nesco Foods 127.54 425.49 5.45 1,759.30 Total 8,184.31 11,362.77 7,950.96 40,144.16 
+Less ¢ Finance Costs 328.00 33.99 302.60 1,405.45 Add:  Other Unallocable Income 2,944.55 2,988.45 2,452.40 10.385.42 Less: Other Unallocable Expenses 75181 16,15 743.00 2,825.58 Operating profit before tax 10,048.96 15.601.10 9.357.76 46,298.55 
+Seament Assets 
+(2) Nesco Realty - IT Park 85,474.41 83,439.65 87,170.16 83,430.65 (b) Bombay Exhibition Centre 22,913.99 19,262.68 12,733.29 19,262.68 () Indabrator 4,551.28 4,256.16 3,813.01 4,256.16 (d) Nesco Foods 4,552.22 4,293.27 4,201.23 4,203, Total Segment Assets 1,17,491.90 1,11,251.76 1,08,007.69 1,11,251.76 
+Unallocable Asset? 1,56,277.75 1,53.770.83 1,27,227.60 1,53,779.83 Total 2.73,769.65 2,65,031.50 2,35,235.20 3,65,031.59 
+Seament iabilities (2) Nesco Realty - IT Park 23,017.07 22,565.18 20,401.12 22,565.18 (b) Bombay Exhibition Centre 8,535.55 6,308.06 4,867.03 6,308.06 () Indabrator 1,020.68 920.40 925.84 920,40 (d) Nesco Foods 1.714.99 1,650.61 108122 1,650.61 Total Seament Liab 33,288.20 31,444.25 27,275.21 31,444.25 Unallocable Liabilities 3,851.92 3,936.83 3,895.53 3.936.83 Total 37,140.21 35,381.08 31,170.74 35,381.08 
+Seament Canital Emploved (Seament Assets - Seament Liabilities) () Nesco Realty - IT Park 62,457.34 60,874.46 66,769.04 60,874.46 (b) Bombay Exhibition Centre 14,378.44 12,954.63 7,866.26 12,954.63 (<) Indabrator 3,530.60 3,335.76 2,887.17 3,335.76 (d) Nesco Food: 2,837.24 2,642.66 3,210.01 2,642.66 
+Total Seament Capltal Emploved 3,203.62 79,807.51 80,732.48 75,807.51 nallocable Net Assets / (Net Liabilifies) 1,53,425.8 1,49,843,00 1,23,332.07 1,49,843.00 Total 2,36,629.44 3,29,650.51 2,04,064.55 2,29,650.51 
+CIN L17100MH1946PLC004886
+nesco 
+NESCO LIMITED 
+Registered Office : Nesco Center, Western Express Highway, Goregaon (East), Mumbai 400063. 
+Statement of Unaudited Financial Results for the Quarter ended 30 June 2024 
+Notes: 
+1 The above financial results have been prepared in accordance with Indian Accounting Standards ("Ind AS") notified under Section 133 of the 
+Companies Act 2013, read together with the Companies (Indian Accounting Standards) Rules, 2015 (as amended). 
+2 The figures for the quarter ended 31 March 2024 are the balancing figures between the audited figures in respect of the full financial year 
+and the published unaudited year to date figures upto the third quarter of the relevant financial year. 
+3 The above financial results have been reviewed and recommended by the Audit Committee and approved by the Board of Directors at their 
+respective meetings held on 02 August 2024. 
+4 The figures of previous periods have been regrouped wherever necessary. 
+For Nesco Limited 
+= i Krishna S. Patel 
+' Chairman and Managing Director 
+DIN : 01519572 Mumbai, 02 August 2024 
+CIN L17100MH1946PLC004886
+Manubhai & Shah LLP 
+Chartered Accountants 
+Independent Auditor's Review Report on the Quarterly Unaudited Financial Results of 
+the Company Pursuant to the Regulation 33 of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, as amended 
+To 
+The Board of Directors of NESCO LIMITED 
+I; We have reviewed the accompanying statement of unaudited financial results of Nesco 
+Limited (the ‘Company’) for the quarter ended June 30, 2024 (the ‘Statement’) being 
+submitted by the Company pursuant to the requirement of Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended. 
+The preparation of the Statement in accordance with the recognition and measurement 
+principles laid down in Indian Accounting Standard 34, (Ind AS 34) "Interim Financial 
+Reporting" prescribed under Section 133 of the Companies Act, 2013, as amended, read 
+with relevant rules issued thereunder and other accounting principles generally accepted in 
+India is the responsibility of the Company's management and has been approved by the 
+Board of Directors of the Company. Our responsibility is to issue report on the statement 
+based on our review. 
+We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410 “Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity”, issued by the Institute of Chartered Accountants of 
+India. This standard requires that we plan and perform the review to obtain moderate 
+assurance as to whether the statement is free of material misstatement. A review is limited 
+primarily to inquiries of company personnel and analytical procedures applied to financial 
+data and thus provide less assurance than an audit. We have not performed an audit and 
+accordingly, we do not express an audit opinion. 
+Based on our review conducted as above, nothing has come to our attention that causes us 
+to believe that the accompanying statement of unaudited financial results prepared in 
+accordance with applicable Indian Accounting Standards (“Ind AS™) specified under 
+Section 133 of the Companies Act, 2013 as amended, read with relevant rules issued 
+thereunder and other recognised accounting practices and policies has not disclosed the 
+information required to be disclosed in terms of Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 including the manner in 
+which it is to be disclosed, or that it contains any material misstatement. 
+FOR MANUBHAI & SHAH LLP 
+CHARTERED ACCOUNTANTS 
+FRN: 106041W/ W100136 
+ASHISH SHAH Mumbai, 2™ August, 2024 #1 
+PARTNER 
+Membership No. 103750 
+UDIN: 24103750BKEXTF4462 
+Manubhai & Shah LLP, a Limited Liability Partnership with LLP identity No.AAG-0878 
+3C, Maker Bhavan - 2, 18, New Marine Lines, Mumbai-400 020. Phone : +91-22-6633 3558 / 59 
+Regd. Office : G-4, Capstone, Opp. Chirag Motors, Sheth Mangaldas Road, Ellisbridge, Ahmedabad - 380 006. 
+Gujarat, India. Phone : +91-79-2647 0000 
+Email : infomumbai@msglobal.co.in Website : www.msglobal.co.in 
+Ahmedabad * Mumbai * New Delhi « Rajkot *+ Jamnagar * Vadodara *+ Gandhinagar * Udaipur * Indore

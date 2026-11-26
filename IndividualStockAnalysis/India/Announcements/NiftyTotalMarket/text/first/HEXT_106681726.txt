@@ -1,0 +1,99 @@
+ 
+ 
+HEXAWARE TECHNOLOGIES LIMITED 
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1 Private Limited, Plot No.Gen-4/1,TTC Industrial Area, 
+Ghansoli, Navi Mumbai-400710, Maharashtra, India  |  Tel: +91 022 3326 8585  |  Email: investori@hexaware.com  
+CIN: L72900MH1992PLC069662  |  URL: www.hexaware.com 
+ 
+ 
+  
+   
+HEXT/SE/202 6/64 
+  
+  Date: June 30, 2026 
+ 
+To,  To, 
+LisƟng Department   Department of Corporate Services  
+NaƟonal Stock Exchange of India Limited  BSE Limited  
+Exchange Plaza, Bandra-Kurla Complex,   Phiroze Jeejeebhoy Towers,   
+Bandra (East), Mumbai - 400 051  Dalal Street, Mumbai - 400 001   
+Symbol: HEXT  Scrip Code: 544362  
+ 
+ 
+Dear Sir, 
+ 
+Sub: Press Release  
+ 
+Please find enclosed Press Release on  “Hexaware Launches Tensai® for Reasoning Ops to Bring Agentic 
+AI to Enterprise IT Operations”. 
+ 
+This information will also be hosted on the Company’s website at www.hexaware.com . 
+ 
+Kindly take the same on record.  
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+For HEXAWARE TECHNOLOGIES LIMITED  
+    
+        
+  
+  
+Gunjan Methi 
+Company Secretary & Compliance Officer 
+ 
+Encl.: as above. 
+ 
+Hexaware Launches Tensai® for Reasoning Ops to Bring Agen Ɵc AI to Enterprise IT Opera Ɵons 
+Tensai® for Reasoning Ops brings evidence-based agents to IT opera Ɵons, shiŌing the focus from 
+resolving demand faster to removing it altogether  
+Mumbai, June 30th 2026: Hexaware Technologies [NSE: HEXT], a global provider of IT solu Ɵons and 
+services, today announced the launch of Tensai® for Reasoning Ops, the ﬁrst generally available opera Ɵng 
+stage of its Tensai® Agen Ɵc ITOps pla ƞorm. Agents read live opera Ɵonal signals, reason over enterprise 
+context, and recommend evidence-backed ac Ɵons, while human experts validate and execute. It is a ﬁrst 
+step toward opera Ɵons that remove demand rather than simply resolve it faster.  
+For a decade, enterprises have relied on scripts and runbooks that automate tasks but cannot reason, 
+interpret context, or work across systems—leaving fragmented tools, siloed knowledge, and a gap in 
+system-level intelligence. Tensai® for Reasoning Ops closes this gap by grounding decisions in opera Ɵonal 
+context from observability, conﬁgura Ɵon management database (CMDB), topology, change, and 
+dependency data. In Tensai® for Reasoning Ops, agents reason across signals, context, and policy instead 
+of relying solely on scripted automa Ɵon. They run a con Ɵnuous, governed loop that moves from detec Ɵon 
+through evalua Ɵon, veriﬁca Ɵon, acƟon, and learning—on a single rule: no signal, no safe ac Ɵon.  
+Four ideas set the model apart:  
+ Evidence ﬁrst: No recommenda Ɵon is made without suppor Ɵng signal and context.  
+ Policy-aware: Every decision is checked against risk and policy before it reaches a human.  
+ Cross-tower: Agents reason across silos that humans and scripts treat as separate.  
+ Self-improving: Every validated outcome makes the next decision be Ʃer. 
+Tensai® for Reasoning Ops is the ﬁrst live stage in Hexaware’s Tensai® maturity journey from Tradi Ɵonal 
+Ops and Automa Ɵon Ops to Autonomous Ops and Preven Ɵve Ops. Early outcomes focus on improving 
+operaƟonal eﬃciency, service quality, and demand reduc Ɵon. 
+Measured against each customer’s pre-AI baseline, Tensai® for Reasoning Ops is benchmarked to target 
+25–40% faster MTTR, 35–45% lower manual touch, 10–18% lower cost-to-serve, 10–20% be Ʃer SLA and 
+user experience, and 5–12% lower incident demand. Results will vary by environment and will be validated 
+through customer-speciﬁc baselining and the Tensai® Customer Value Scorecard. Tensai® for Reasoning 
+Ops is available now to mid-to-large enterprises.  
+“With Tensai® for Reasoning Ops, we’re helping enterprises move from reac Ɵve support to more 
+autonomous, self-healing IT opera Ɵons. The pla ƞorm brings reasoning, evidence, and governance into 
+operaƟonal decisions, helping clients reduce manual interven Ɵon, improve SLA reliability, and build a 
+stronger path toward preven Ɵve operaƟons,” said R Srikrishna, CEO & Execu Ɵve Director, Hexaware.  
+“As enterprises adopt AI in IT opera Ɵons, the opportunity is to go beyond faster Ɵcket resolu Ɵon and move 
+toward reducing predictable demand before it enters the IT opera Ɵons queue. Tensai® for Reasoning Ops 
+helps organiza Ɵons address the causes of demand rather than simply responding to it,” said Siddharth 
+Dhar, President & Global Head – AI, Hexaware.  
+ 
+ 
+About Hexaware  
+Hexaware is a global technology and business process services company. Every day, Hexawarians wake up 
+with a singular purpose: to create smiles through great people and technology. With oﬃces across the 
+world, we empower enterprises worldwide to realize digital transforma Ɵon at scale and speed by 
+partnering with them to build, transform, run, and op Ɵmize their technology and business processes. 
+Learn more about Hexaware at  hƩps://hexaware.com . 
+For details, please contact:  
+Reena Kamble  
+mediarela Ɵons@hexaware.com  
+Hexaware Technologies Limited  
+Aishwarya Pillai  
+mediarela Ɵons@hexaware.com  
+Hexaware Technologies Limited  
+ 
+ 

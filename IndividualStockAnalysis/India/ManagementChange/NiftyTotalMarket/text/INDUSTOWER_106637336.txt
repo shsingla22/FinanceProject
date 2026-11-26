@@ -1,0 +1,32 @@
+--- CIMGINDUSTOWER22052026_CIM_WebXMLFile_20260522_233943296_2.xml (the exchange's structured disclosure) ---
+NSESymbol: INDUSTOWER ; Name Of The Company: Indus Towers Limited ; Scrip Code: 534816 ; MSEISymbol: NOTLISTED ; ISIN: INE121J01017 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-05-21 ; Time Of Occurrence Of Event Or Information: 19:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-05-22 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Vikas Poddar ; Effective Date Of Reason Of Change: 2026-08-18 ; Salutation: Mr. ; Name Of The Person: Vikas Poddar ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-05-21 ; Effective Date Of Resignation: 2026-08-18 ; Reason Of Resignation In Brief: To pursue a new professional opportunity
+
+--- Resignation_Letter_1.pdf ---
+Date: 21 May 2026
+
+To
+The Board of Directors
+Indus Towers Limited
+Building No.10, Tower A
+DLF Cyber City, Gurugram 122002
+Haryana
+Subject: Resignation from the position of Chief Financial Officer and Key Managerial Personnel
+Dear Sirs,
+I hereby tender my resignation from the position of Chief Financial Officer and Key Managerial
+Personnel of Indus Towers Limited, with effect from the close of business on 18th August 2026. In
+accordance with the terms of my employment, I shall serve the notice period to enable a smooth
+transition.
+The reason for my resignation is to pursue a new professional opportunity. I confirm that there are
+no material reasons for my resignation other than those stated herein.
+1would like to express my sincere gratitude to the Board and the management team for the trust and
+
+support extended to me during my tenure. It has been a privilege to be associated with the Company.
+The Board is requested to kindly take note of my resignation and arrange to file the necessary
+intimations with the stock exchanges and regulatory authorities.
+Thank you.
+Yours sincerely,
+
+~ )
+Vikas Poddar
+
+

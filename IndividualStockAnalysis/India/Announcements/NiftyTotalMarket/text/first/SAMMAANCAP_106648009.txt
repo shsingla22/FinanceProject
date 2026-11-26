@@ -1,0 +1,173 @@
+ 
+ 
+Date: May 29, 2026  
+ 
+SAMMAANCAP/EQ, SCLPP  
+National Stock Exchange of India Limited                    
+“Exchange Plaza”, Bandra-Kurla Complex,                         
+Bandra (East),                                                                              
+Mumbai – 400051 Scrip Code – 535789, 890192  
+BSE Limited  
+1st Floor, P.J. Towers 
+Dalal Street,  
+Mumbai-400001  
+ 
+                                                                                                            
+Sub:   Intimation in terms of Regulation  57 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations,  2015, 
+regarding payment of principal and interest  amount  on Secured Redeemable Non -Convertible Debentures issued by the Company through Public Issue, and 
+listed on the Stock Exchange s. 
+ 
+Dear Sirs,  
+ 
+Pursuant to Regulation 57 of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby certify that our Company has 
+made timely payment of principal and interest amount in respect of the Secured Redeemable Non-Convertible Debentures, issued by our Company, through Public Issue, and listed 
+on the Stock Exchanges:  
+ 
+The details as required under SEBI Master Circular Ref. No. SEBI/HO/DDHS/DDHS -PoD -1/P/CIR/2025/0000000103 dated July 11, 2025 is provided below: - 
+ 
+A) Whether Interest payment/redemption payment made (yes/no): Yes, the Company has paid entire principal and interest amount.  
+ 
+B)  Details of Interest Payment:  
+ 
+ 
+Sr. No  ISIN  Issue 
+Size 
+(in INR 
+lacs) Interest 
+Amount to 
+be paid on 
+due date (in 
+INR lacs)  Frequency - 
+quarterly/ 
+monthly/ 
+yearly Change in 
+frequency 
+of payment 
+(if any)  Details of 
+such 
+change  Interest 
+payment 
+record date  
+ Due date for 
+interest 
+payment Actual date 
+for interest 
+payment Amount of 
+interest paid  
+(in INR 
+lacs) Date of last 
+interest 
+payment 
+ Reason for 
+non-
+payment/ 
+delay in 
+payment  
+1. INE148I07TC5  830.99  6.31756  Monthly  No NA 18/05/2026  31/05/2026  29/05/2026  6.31756  01/05/2026  NA 
+2. INE148I07TD3  7 0.05109  Monthly  No NA 18/05/2026  31/05/2026  29/05/2026  0.05109  01/05/2026  NA 
+3. INE148I07TG6  1582.35  13.04905  Monthly  No NA 18/05/2026  01/06/2026  29/05/2026  13.04905  01/05/2026  NA 
+4. INE148I07TH4  1030  7.89037  Monthly  No NA 18/05/2026  01/06/2026  29/05/2026  7.89037  01/05/2026  NA 
+5. INE148I07TL6  1247.86  10.04756  Monthly  No NA 18/05/2026  01/06/2026  29/05/2026  10.04756  01/05/2026  NA 
+6. INE148I07TN2  1305.58  11.36579  Monthly  No NA 18/05/2026  01/06/2026  29/05/2026  11.36579  01/05/2026  NA 
+7. INE148I07TQ5  1650  12.96299  Monthly  No NA 18/05/2026  01/06/2026  29/05/2026  12.96299  01/05/2026  NA 
+8. INE148I07TU7  4.10 0.03413  Monthly  No NA 18/05/2026  01/06/2026  29/05/2026  0.03413  01/05/2026  NA 
+9. INE148I07TW3  298.47  2.54257  Monthly  No NA 18/05/2026  01/06/2026  29/05/2026  2.54257  01/05/2026  NA 
+10. INE148I07SZ8  26.90  2.48825  Annually  No NA 18/05/2026  31/05/2026  29/05/2026  2.48825  31/05 /2025  NA 
+11. INE148I07TE1  757.64  73.11280  Annually  No NA 18/05/2026  31/05/2026  29/05/2026  73.11280  31/05 /2025  NA 
+12. INE148I07TB7  926.50  179.33334  Cumulative  No NA 18/05/2026  31/05/2026  29/05/2026  179.33334  29/05/2026  NA 
+13. INE148I07TA9  549.14  111.10166  Cumulative  No NA 18/05/2026  31/05/2026  29/05/2026  111.10166  29/05/2026  NA 
+14. INE148I07TI2  710.00  66.74000  Annually  No NA 18/05/2026  31/05/2026  29/05/2026  66.74000  31/05 /2025  NA 
+15. INE148I07TF8  1923.60  190.43640  Annually  No NA 18/05/2026  31/05/2026  29/05/2026  190.43640  31/05 /2025  NA 
+16. INE148I07TR3  677.03  68.71868  Annually  No NA 18/05/2026  31/05/2026  29/05/2026  68.71868  31/05 /2025  NA 
+17. INE148I07TO0  140 14 Annually  No NA 18/05/2026  31/05/2026  29/05/2026  14 31/05 /2025  NA 
+18. INE148I07TK8  180.62  18.96510  Annually  No NA 18/05/2026  31/05/2026  29/05/2026  18.96510  31/05 /2025  NA 
+19. INE148I07TP7  899.16  96.65994  Annually  No NA 18/05/2026  31/05/2026  29/05/2026  96.65994  31/05 /2025  NA 
+ 
+C) Details of Redemption:  
+ 
+Sr. No.  ISIN  Type of 
+redemption 
+(full/ 
+partial)  If partial 
+redemption, 
+then  
+a. By face 
+value 
+redemption 
+b. By 
+quantity 
+redemption If 
+redemptio
+n is based 
+on 
+quantity, 
+specify, 
+whether 
+on: 
+a. Lot basis  
+b. Pro- rata 
+basis  Reason for 
+redemption 
+(call, put, 
+premature 
+redemption, 
+maturity, 
+buyback, 
+conversion, 
+others (if 
+any))  Redempti
+on date 
+due to 
+put 
+option (if 
+any)  Redempti
+on date 
+due to 
+call 
+option (if 
+any)  Quantity 
+redeemed 
+(no. of 
+NCDs) Due date 
+for 
+redemption 
+/ maturity  Actual date 
+for 
+redemption  Amount 
+redeemed  
+(in INR 
+lacs) Outstandi
+ng 
+amount 
+(in INR 
+lacs) Date of last 
+Interest payment  
+1. INE148I07SZ8  Full N.A.  N.A.  Maturity  N.A.  N.A.  N.A.  31/05/2026  29/05/2026  26.90  0 31/05 /2025  
+2. INE148I07TE1  Full N.A.  N.A.  Maturity  N.A.  N.A.  N.A.  31/05/2026  29/05/2026  757.64  0 31/05 /2025  
+3. INE148I07TD3  Full N.A.  N.A.  Maturity  N.A.  N.A.  N.A.  31/05/2026  29/05/2026  7 0 01/05/2026  
+4. INE148I07TC5  Full N.A.  N.A.  Maturity  N.A.  N.A.  N.A.  31/05/2026  29/05/2026  830.99  0 01/05/2026  
+5. INE148I07TB7  Full N.A.  N.A.  Maturity  N.A.  N.A.  N.A.  31/05/2026  29/05/2026  926.50  0 29/05/2026  
+6. INE148I07TA9  Full N.A.  N.A.  Maturity  N.A.  N.A.  N.A.  31/05/2026  29/05/2026  549.14  0 29/05/2026  
+ 
+Please take the aforesaid certification on record.  
+  
+Thanking you,  
+  
+Yours truly,   
+ 
+For Sammaan Capital Limited 
+(Formerly known as Indiabulls Housing Finance Limited) 
+ 
+ 
+Amit Jain 
+Company Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+Sammaan Capital Limited (formerly known as Indiabulls Housing Finance Limited) (CIN: L65922DL2005PLC136029)  
+Corp. Off.  1st Floor, Tower 3A, DLF Corporate Greens, Sector-74A, Gurgaon, Narsinghpur, Haryana – 122 004, India. T. +91 1246048213 F. +91 1246048214 
+Reg. Off. A -34, 2nd & 3rd Floor, Lajpat Nagar -II, New Delhi – 110 024, India. T. +91 1148147506 F. +91 1148147501 
+Email. homeloans@sammaancapital.com Web. www.sammaancapital.com 

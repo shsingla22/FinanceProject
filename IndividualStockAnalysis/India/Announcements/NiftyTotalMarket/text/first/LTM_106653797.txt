@@ -1,0 +1,87 @@
+ 
+LTM Limited 
+(Formerly LTIMindtree Limited) 
+L&T Technology Center, Tower 1, Gate No. 5, Saki Vihar Road, Powai, Mumbai - 400072, Maharashtra, India.  
+T: +91 22 6776 6776   
+Registered Office: L&T House, Ballard Estate, Mumbai - 400 001, India.  
+W: ltm.com • E: info@ltm.com • CIN: L72900MH1996PLC104693  LTM/SE/STAT/2026-27/36                                                                                                         June 3, 2026 
+ 
+ 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E),  
+Mumbai - 400 051 
+ 
+NSE Symbol:  LTM The BSE Limited, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001 
+ 
+BSE Scrip Code:  540005 
+ 
+ 
+Dear Sir(s)/Madam, 
+ 
+Subject: Press Release 
+ 
+ 
+We are attaching herewith copy of the Press Release titled “LTM Launches Managed 
+Secure Service Edge (SSE) Solution with Cisco” which is self-explanatory.  
+ 
+The same is submitted for public dissemination and for your records. 
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For LTM Limited 
+ 
+ 
+ 
+Angna Arora 
+Company Secretary & Compliance Officer 
+ 
+Encl.: As above 
+ 
+ 
+ 
+ 
+Cisco Conﬁdential  LTM Launches Managed Secure Service Edge (SSE) Solution with 
+Cisco 
+Launching at Cisco Live 2026, this solution helps enterprises safely deploy generative AI, strengthen zero 
+trust, and simplify access management  
+Las Vegas, USA, Mumbai, India — June 3, 2026: LTM , the Business Creativity partner to the world’s largest 
+enterprises, launches its new Managed Secure Service Edge (SSE) solution at Cisco Live 2026. Built directly 
+upon Cisco Secure Access- Cisco's dedicated SSE solution, this o Ưering is designed for cloud-ﬁrst and 
+hybrid work environments. By combining the robust security of Cisco Secure Access with LTM’s AI-powered 
+managed services, the solution secures access to applications and enables secure use of AI applications 
+and models for the modern enterprise.  
+Cisco SSE brings networking and security together in a cloud-native, zero-trust framework, enabling 
+identity- and context-aware access with consistent protection across users, devices, and locations. By 
+unifying Zero Trust Network Access, Secure Web Gateway and Cloud Access Security Broker capabilities 
+under centralized policy control, the solution simpliﬁes security operations while delivering end -to-end 
+visibility at enterprise scale.   
+In addition to Cisco SSE capabilities, LTM’s managed SSE o Ưering combines deep cybersecurity domain 
+expertise with AI-led managed services, ensuring seamless transformation and robust operations. Backed 
+by 4,000+ security professionals and nine Cyber Defense Resiliency Centers, LTM delivers 24x7 AI -driven 
+threat detection and optimization.  
+“Modern enterprises need AI-powered security that adapts to how people work today, anywhere, on any 
+device, at any time. Our partnership with Cisco delivers a uniﬁed, cloud-native SSE solution that simpliﬁes 
+protection, improves visibility, and empowers organizations to operate securely at scale,” said Chandan 
+Pani, Chief Information Security O Ưicer, LTM .  
+“By combining Cisco’s world-class innovation with LTM’s deep technical expertise, we are making 
+enterprise-grade security more accessible for today’s organizations. LTM’s managed SSE solution balances 
+business agility with a seamless user experience. Cisco’s security portfolio—including Secure Access—
+has been purpose-built to be consumed as a service, enabling organizations to adopt and scale modern 
+security with greater simplicity and speed,” said Raj Chopra, Senior Vice President and Chief Product 
+OƯicer, Cisco Security . 
+Cisco Live 2026 is Cisco’s premier global event, bringing together industry leaders and technology experts 
+to explore the latest innovations in networking, security, and cloud through keynotes, technical sessions, 
+and live demonstrations. [https://www.ltm.com/services/cyber-security/secure-service-edge ] 
+About LTM  
+LTM is a global technology services and consulting company and the business creativity partner to the world’s largest 
+and most disruptive companies. We bring human insights and intelligent systems together to help enterprises across 
+industries rewire their business models, accelerate innovation, and drive AI-centric growth. With our integrated 
+operations, transformation, and business AI services, we design and deliver solutions that create new productivity 
+paradigms and new roads to value. Together with 87,000 employees across 40 countries and our global network of 
+hyperscaler partners, LTM—a Larsen & Toubro company—owns  business outcomes for over 700 clients, helping them 
+to not simply outperform the market, but to Outcreate it.  

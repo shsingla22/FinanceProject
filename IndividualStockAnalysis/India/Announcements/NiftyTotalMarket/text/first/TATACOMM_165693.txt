@@ -1,0 +1,266 @@
+ 
+ Tata Communications Limited  
+Plot No. C21 & C 36 ‘G’ Block Bandra Kurla Complex Bandra (East) Mumbai 400098 India  
+Regd. Office: VSB  Mahatma Gandhi Road  Fort Mumbai  400 001  India  
+Tel: + 91 22 6659 1968  email: investor.relations@tatacommunications.com  
+CIN: L64200MH1986PLC039266 website: www.tatacommunications.com  
+ 
+  
+HQ/CS/CL.24B/18028  
+October  17, 2024  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Mumbai – 400 051  
+SYMBOL: TATACOMM  BSE Limited  
+P.J. Towers, Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 500483  
+ 
+Dear Sir / Madam,  
+ 
+Sub:  Outcome of Board Meeting scheduled on October  17, 2024.  
+ 
+Pursuant to Regulation 33 and Regulation 52 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we enclose the Unaudited Standalone and Consolidated 
+Financial Results of the Company for the quarter and half year  ended September  30, 2024 , which 
+have been approved and taken on record at the meeting of the Board of Directors of the Company 
+held today ( Attachment A ).  
+ 
+We would like to state that S.R. Batliboi & Associates, LLP, Statutory Auditors of the Company, 
+have issued a Limited Review Report with an unmodified opinion on the above -mentioned 
+financial results ( Attachment B ). 
+ 
+A press release in this regard is also enclosed ( Attachment C ). These documents are available 
+on the website of the Company at www.tatacommunications.com/investors/results/ . 
+ 
+The meeting of the Board of Directors commenced at 12 :00 hours IST and concluded at 14:30 
+hours IST.  
+ 
+Thanking you,  
+ Yours faithfully,  
+For Tata Communications Limited  
+ 
+ 
+ 
+Zubin Adil Patel  
+Company Secretary and Compliance Officer  
+Encl.: as above  
+ 
+Page 1of 18
+TATA COMMUNICATIONS LIMITED
+REGD. OFFICE:  VSB, M.G. ROAD, FORT, MUMBAI-400001.
+                    
+     (`in crores)
+A. STATEMENT OF CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND HALF YEAR ENDED SEPTEMBER
+30, 2024
+ParticularsFor the quarter ended
+(refer note 9)For the half year ended
+(refer note 9)For the year 
+ended
+September 30 
+2024June 30
+2024September 30 
+2023September 
+30 2024September 
+30 2023March
+31 2024
+(Refer notes below) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+1 Income from operations (Refer note 8) 5,767.35 5,633.37 4,872.50 11,400.72 9,643.86 20,968.82
+2Other income, net 14.12 26.34 25.36 40.46 213.99 282.47
+3 Total income (1 + 2) 5,781.47 5,659.71 4,897.86 11,441.18 9,857.85 21,251.29
+4 Expenses
+a. Network and transmission expense 2,462.20 2,363.78 1,800.69 4,825.98 3,474.01 8,086.44
+b. Employee benefits expense 1,198.56 1,144.57 1,072.27 2,343.13 2,115.74 4,452.95
+c. Finance costs 192.56 172.20 137.42 364.76 268.45 644.15
+d. Depreciation and amortisation expense 660.58 647.37 605.12 1,307.95 1,184.86 2,469.67
+e. Other expenses 989.57 1,000.81 984.09 1,990.38 2,014.62 4,199.33
+Total expenses (4a to 4e) 5,503.47 5,328.73 4,599.59 10,832.20 9,057.68 19,852.54
+5 Profit before exceptional items, tax & share in 
+profit of associates (3 - 4)278.00 330.98 298.27 608.98 800.17 1,398.75
+6 Exceptional items (Refer note 2) 42.90 85.71 - 128.61 1.97 (235.66)
+7 Profit -before tax and share in profit of 
+associates (5 + 6)320.90 416.69 298.27 737.59 802.14 1,163.09
+8 Tax expense/(benefit): (Refer note 2b, 5 and 6)
+  a. Current tax 233.40 125.25 70.18 358.65 221.89 601.63
+  b. Deferred tax (135.78) (38.46) 7.70 (174.24) (13.38) (388.13)
+9 Profit before share in profit of associates (7 -
+8)223.28 329.90 220.39 553.18 593.63 949.59
+10 Share in Profit of associates 3.99 3.03 0.87 7.02 9.38 19.99
+11 Profit for the period/year (9 + 10) 227.27 332.93 221.26 560.20 603.01 969.58
+Attributable to:
+Equity holders of the parent 227.23 332.84 220.66 560.07 602.35 968.34
+Non-controlling interest 0.04 0.09 0.60 0.13 0.66 1.24
+12Other Comprehensive Income/(loss) (net of 
+tax) (82.95) (24.95) (64.67) (107.90) 1.05 (35.62)
+Attributable to:
+Equity holders of the parent (82.96) (24.94) (64.67) (107.90) 1.05 (39.20)
+Non-controlling interest 0.01 (0.01) - - - 3.58
+13Total Comprehensive income/(loss) for the 
+period/year (11+12)144.32 307.98 156.59 452.30 604.06 933.96
+Attributable to:
+Equity holders of the parent 144.27 307.90 155.99 452.17 603.40 929.14
+Non-controlling interest 0.05 0.08 0.60 0.13 0.66 4.82
+14Paid up equity share capital (Face value of `10 
+per share)285.00 285.00 285.00 285.00 285.00 285.00
+15 Reserves excluding Revaluation reserve 1,295.36
+16Earnings per share (of ` 10/- each) (not 
+annualised)
+(i) Basic (`) 7.97 11.68 7.74 19.65 21.14 33.98
+(ii) Diluted earnings per share (`) 7.97 11.67 7.74 19.64 21.13 33.96
+      
+Page 2of 18
+B. Consolidated Business Segment Information:
+i. Consolidated Segment wise revenue and results:                                                                                                       
+                                                                                                                                                                                                                             ( `in crores)
+ParticularsFor the quarter ended
+(refer note 9)For the half year ended
+(refer note 9)For the year 
+ended
+September 30 
+2024June 30 
+2024September 30 
+2023September 30 
+2024September 30 
+2023March 31 2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+Income from operations
+Voice Solutions 425.48 422.69 428.68 848.17 846.97 1,699.06
+Data Services (Refer note 8) 4,854.42 4,709.31 4,007.15 9,563.73 7,938.28 17,240.23
+Payment Solutions 31.95 35.56 39.44 67.51 84.01 166.02
+Transformation Services 286.38 308.32 384.54 594.70 751.39 1,550.43
+Real Estate 59.86 59.62 58.87 119.48 117.95 237.07
+Campaign Registry 158.44 145.44 - 303.88 - 264.52
+Less: Inter Segment Revenue (49.18) (47.57) (46.18) (96.75) (94.74) (188.51)
+Total 5,767.35 5,633.37 4,872.50 11,400.72 9,643.86 20,968.82
+Segment result
+Voice Solutions 47.65 39.33 53.88 86.98 107.37 184.64
+Data Services (Refer note 8) 255.33 291.09 329.60 546.42 706.19 1,304.15
+Payment Solutions (3.38) (3.84) (12.70) (7.22) (25.79) (34.54)
+Transformation Services 15.27 19.28 (4.72) 34.55 (11.44) 0.51
+Real Estate 35.22 31.19 44.27 66.41 78.30 146.51
+Campaign Registry 106.35 99.79 - 206.14 - 159.16
+Total 456.44 476.84 410.33 933.28 854.63 1,760.43
+Less: 
+(i) Finance Costs 192.56 172.20 137.42 364.76 268.45 644.15
+(ii) Other un-allocable (income) 
+net of un-allocable expenditure(57.02) (112.05) (25.36) (169.07) (215.96) (46.81)
+Profit before tax and share of 
+profit of associates 320.90 416.69 298.27 737.59 802.14 1,163.09
+Page 3of 18
+ii.  Consolidated Segment Assets and Liabilities:
+                                                                                                                                                                                                              (`in crores)
+ParticularsAs at
+September30
+2024June 30 2024September 30 
+2023
+(refer note 9)March31 2024
+(Unaudited) (Unaudited) (Unaudited) (Audited)
+Segment Assets
+Voice Solutions 321.06 322.66 366.23 393.88
+Data Services 18,320.30 17,735.44 14,950.80 17,194.20
+Payment Solutions 93.81 112.51 147.82 122.84
+Transformation Services 452.47 514.40 582.96 559.04
+Real Estate 248.19 429.66 446.31 439.47
+Campaign Registry 906.18 872.21 - 855.06
+20,342.01 19,986.88 16,494.12 19,564.49
+Unallocated Assets 4,875.09 4,825.60 4,059.60 4,996.85
+Total Segment Assets 25,217.10 24,812.48 20,553.72 24,561.34
+Segment Liabilities
+Voice Solutions 390.56 426.31 409.98 443.77
+Data Services 9,779.25 9,323.30 9,132.25 9,674.92
+Payment Solutions 248.24 257.42 256.79 266.08
+Transformation Services 234.23 269.20 368.62 347.22
+Real Estate 92.55 98.93 110.44 84.12
+Campaign Registry 65.32 36.12 - 33.12
+10,810.15 10,411.28 10,278.08 10,849.23
+Unallocated Liabilities 12,626.21 12,295.30 8,820.07 11,921.81
+Total Segment Liabilities 23,436.36 22,706.58 19,098.15 22,771.04
+iii. Notes to Segments:  
+Solutions, Data Services, Payment Solutions, Transformation services, Real Estate& Campaign Registry. The composition 
+of the operating segments is as follows:
+Voice Solutions includes International and National Long Distance Voice services.
+Data Services includes Core connectivity services andDigital platforms & connected services.
+Payment Solutions includes end-to-end ATM deployment, end-to-end POS enablement, hosted core banking, end to end 
+financial inclusion and card issuance and related managed services and switching services to banking sector carried out by 
+owned subsidiary Tata Communications Payment Solutions Limited.
+Transformation Services includes the business of providing telecommunication network management and support services. 
+Limited and its subsidiaries. 
+Campaign Registry includes the business of collecting robotically driven campaign information and processing and sharing 
+that information with mobile operators and the messaging ecosystem to reduce spam. These services are carried out by the 
+wholly owned indirect subsidiaryof the Company.
+Real Estate segment includes lease rentals for premises given on lease .
+Page 4of 18
+C. Statement of Consolidated Assets and Liabilities:
+(`in crores)
+ParticularsAs at As at 
+September 302024 March 312024
+(Unaudited) (Audited)
+ASSETS
+Non-current assets
+(a) Property, plant and equipment 7,323.77 7,429.73
+(b) Capital work-in-progress 1,098.77 1,176.53
+(c) Right-of-use assets 1,077.77 1,103.49
+(d) Investment property 197.97 385.71
+(e) Goodwill 1,894.32 1,783.73
+(f) Other intangible assets 2,757.35 2,764.75
+(g) Intangible assets under development 171.29 150.50
+(h) Financial assets
+(i)  Investments
+(a) Investments in associates 1,313.74 1,306.83
+(b) Other investments 156.34 152.11
+(ii) Other financial assets 139.72 144.02
+(i) Deferred tax assets (net) 874.15 717.01
+(j) Non-current tax assets(net) 1,109.91 1,216.99
+(k) Other non-current assets 230.87 231.01
+Total Non-current assets 18,345.97 18,562.41
+Current assets
+(a) Inventories 247.76 83.54
+(b) Financial assets
+(i) Other investments 268.94 149.28
+(ii) Trade receivables 4,337.00 3,758.36
+(iii) Cash and cash equivalents 428.92 732.05
+(iv) Bank balances other than (iii) above 106.04 110.40
+(v) Other financial assets 96.91 155.75
+(c) Other current assets 1,187.91 899.01
+6,673.48 5,888.39
+Assets classified as held for sale 197.65 110.54
+Total Current assets 6,871.13 5,998.93
+TOTAL ASSETS 25,217.10 24,561.34
+Page 5of 18
+C. Statement of Consolidated Assets and Liabilities:
+(`in crores)
+ParticularsAs at As at 
+September 302024 March312024
+(Unaudited) (Audited)
+EQUITY AND LIABILITIES
+EQUITY
+(a) Equity share capital 285.00 285.00
+(b) Other equity 1,492.96 1,501.42
+Equity attributable to equity holders of the 
+parent1,777.96 1,786.42
+Non-controlling interests 2.78 3.88
+Total Equity 1,780.74 1,790.30
+LIABILITIES 
+Non-current liabilities
+(a) Financial liabilities
+(i) Borrowings 8,074.59 4,745.73
+(ia) Lease liabilities 865.73 822.38
+(ii) Other financial liabilities 154.33 159.74
+(b) Provisions 776.38 749.68
+(c) Deferred tax liabilities (net) 157.09 195.90
+(d) Other non-current liabilities 2,141.18 2,426.96
+Total Non-current liabilities 12,169.30 9,100.39
+Current liabilities
+(a) Financial liabilities
+(i) Borrowings 3,212.32 5,372.03
+(ia) Lease liabilities 267.73 323.03
+(ii) Trade payables 3,712.95 3,656.23
+(iii) Other financial liabilities 1,034.41 928.52
+(b)   Provisions 185.31 179.57
+(c) Current tax liabilities (net) 743.66 1,140.80
+(d) Other current liabilities 2,110.65 2,070.44
+11,267.03 13,670.62
+Liabilities relating to assets held for sale 0.03 0.03
+Total Current liabilities 11,267.06 13,670.65
+TOTAL EQUITY AND LIABILITIES 25,217.10 24,561.34

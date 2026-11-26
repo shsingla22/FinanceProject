@@ -1,0 +1,105 @@
+ 
+ 
+ 
+ 
+July 08, 202 6 CS&G/STX/ SQ2026/03 
+1) National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+Scrip Symbol: KFINTECH  2) BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 543720  
+ 
+Sub.  : Press Release  
+Ref. : Regulation 30 of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”)  
+Dear Sir / Madam,  
+Pursuant to Regulation 30 and other applicable provisions of the LODR Regulations, please find 
+enclosed herewith the Press Release titled “ KFintech’s Finex Accelerates Same -Day Physical SIPs 
+to Redefine Wealth Creation ”. 
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For KFin Technologies Limited  
+Alpana Kundu  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: F10191  
+Encl.: a/a  
+ 
+KFintech ’s Finex Accelerates Same -Day Physical SIPs to Redeﬁne 
+Wealth Creation  
+AI-led process transformation raises same -day SIP registration from 15% to 90%, introducing next -
+generation onboarding speed for investors, distributors, and AMCs.  
+MUMBAI, 8thJuly 2026  As India’s mutual fund industry scales exponentially, handling physical 
+Systematic Investment Plan (SIP) and mandate registrations has traditionally required a de liberate, 
+multi -step verification cycle to ensure absolute compliance and data integrity. While digitization has 
+optimized these timelines over the years, physical processing workflows across the ecosystem have 
+historically averaged 21 to 30 days from appl ication to first activation.  
+KFin Technologies Limited (“KFintech”), a leading provider of global investor and issuer solutions, has introduced a benchmarking shift in processing speed through its newly deployed Finex transformation programme. By pairing d eep institutional workflows with modern operational engineering, KFintech's 
+Finex successfully transitions physical SIP registration into a same -day reality.  
+The traditional physical SIP framework was originally designed to support meticulous, multi -layere d 
+compliance standards through structured sequential handling and dedicated manual touchpoints. To support the next phase of the industry's growth, KFintech's Finex upgrades this structured framework into a single, cohesive digital ecosystem, replacing seq uential handling with an intelligent, parallel 
+processing pipeline:  
+• Agentic AI -Driven Exception Processing:  Dynamically evaluates and approves the vast 
+majority of  standard registrations in a single pass. By performing real -time root -cause analysis 
+on payment gateway variances, the platform autonomously resolves routine execution exceptions, routing only genuine anomalies to specialized analysts for review.  
+• AI-Power ed Recognition (OCR/ICR):  Instantly captures and digitizes physical onboarding 
+documentation upon submission, establishing an immediate structured data pipeline and eliminating the latencies associated with manual transcription.  
+• Intelligent Validation Engi nes:  Conducts real -time, synchronous verification of investor and 
+banking credentials against source KYC and institutional records, proactively identifying and correcting data discrepancies at the initial point of entry.  
+• Automated Workflows:  Seamlessly orc hestrates the progression of verified applications 
+through each consecutive milestone of the registration lifecycle, eliminating the operational friction of manual inter- departmental handoffs.  
+"India has made investing remarkably accessible over the last d ecade, and our goal is to ensure that 
+KFintech is actively enabling and accelerating investment lifecycles ”, said Praveen Shankaran, Chief 
+Operating Officer –  Domestic Fund Services, KFintech . "With KFintech's Finex, we set out to 
+streamline the administra tive journey of getting a SIP activated, optimizing the processing timeline for 
+investors. By bringing together AI, automation, and intelligent workflow design, we have turned a multi -week operational track into an experience that increasingly happens on t he same day. This is a 
+meaningful step towards a more responsive, investor -centric mutual fund ecosystem."  
+Conceived, built, and deployed entirely in -house by a dedicated unit of over 250 engineers and domain 
+experts, the engineering framework behind KFint ech's Finex has yielded dramatic velocity across live 
+Asset Management Companies (AMCs):  
+ 
+• Same -Day SIP Activation:  Elevated from 15% to  90%  for investors signing up through 
+KFintech, putting money to work immediately.  
+• Fresh Mandate Setup: Turnaround times for successfully setting up fresh mandates within 7 
+days surged from 65% to  90%  (and up to 99% across fully optimized tracks).  
+• Exception Tracking & Resolution:  Achieved  100% resolution tracking , ensuring registrations 
+that hit a network exception can be mo nitored and corrected end -to-end.  
+• AI-Driven Rejection Insights:  Implemented intelligent analysis of rejection patterns, enabling 
+AMCs to proactively recover failed SIP registrations, improve win -back rates, and drive higher 
+business conversion.  
+For investo rs, capital begins compounding from day one, maximizing the long -term wealth creation 
+potential of household savings by removing operational latency. For distributors, accelerated 
+processing strengthens the investor relationship by minimizing the gap betwe en commitment and 
+activation, effectively optimizing client conversion rates. Meanwhile, for Asset Management Companies (AMCs), committed Assets Under Management (AUM) become operational faster, 
+providing fund managers with immediate visibility into capita l deployment schedules while AI -driven 
+insights help recover failed registrations efficiently.  
+Crucially, KFintech's Finex bridges infrastructure blind spots known as "data dark spots" by providing 100% end -to-end visibility across payment networks, giving  business teams immediate insights to 
+support distributors and investors seamlessly.  
+About  KFin Technologies  Limited  (www.kﬁntech.com/ ; BSE:  543720; NSE:  KFINTECH):  
+KFin Technologies Limited (“KFintech ”) is a leading technology driven financial services 
+platform providing comprehensive services and solutions to the capital markets ecosystem 
+including asset  managers  and corporate  issuers across  asset  classes  in India  and provide  
+comprehensive investor solutions including transfer agency, fund administration, fund 
+accounting, data analytics,  digital  onboarding,  transaction  origination  and processing  for 
+alternate  investments, mutual funds, private market funds, digital assets, unit trusts, 
+insurance inve stments, and private  retirement  schemes  to global  asset  managers  across  
+18 jurisdictions.  In India,  KFintech is the largest investor solutions provider to Indian 
+mutual funds, based on number of AMCs serviced as on March 31, 2026, and the largest 
+issuer so lutions provider based on number of clients serviced as on March 31, 2026. KFintech 
+is the only investor and issuer solutions provider in India that offers services to asset 
+managers such as mutual funds, alternative investment funds, wealth managers and 
+pension as well as corporate issuers and is one of the three operating  central  record  
+keeping  agencies  for the National  Pension  System  in India.  KFintech  is listed on the National 
+Stock Exchange of India Limited and BSE Limited. General Atlantic Singapore  Fund  Pte Ltd 
+(“GASF”),  a leading  global  private  equity investor,  is the promoter  of the company.  
+ 
+ 
+For media  queries:  
+• Hanisha  Vadlamani  
+Hanisha.vadlamani@kfintech.com  
+ 
+ 

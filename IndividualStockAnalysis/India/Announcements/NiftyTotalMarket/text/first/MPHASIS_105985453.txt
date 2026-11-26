@@ -1,0 +1,107 @@
+ 
+ 
+ 
+                   
+11 September  2024 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,                                                                        
+MUMBAI - 400 001   
+ The Manager, Listing  
+National Stock Exchange of India Ltd  
+Exchange Plaza, Plot No. c/1,  
+G-Block, Bandra-Kurla Complex,  
+MUMBAI – 400 051  
+ 
+ 
+Dear Sirs,  
+  Sub: Intimation of Press Release  
+ 
+Please find enclosed herewith a press release titled  “Mphasis Silverline Partners with AgentSync for 
+Insurance Compliance Solutions ” which is being released from our end.    
+ The press release will also be available on the website of the Company at www.mphasis.com . 
+ We request you to kindly take the above on record as required under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.  
+          
+Thanking you,  
+ Yours faithfully,  
+ For Mphasis Limited  
+ 
+ 
+Subramanian Narayan  
+Senior Vice President and Company Secretary  
+ Encl: As above  
+ 
+
+Mphasis Silverline Partners with AgentSync for Insurance Compliance Solutions  
+New York , September  11, 202 4 
+ 
+Successfully managing insurance compliance requires diligence, accuracy, and a strict adherence to timelines. 
+Onboarding, licensing, appointments, and terminations can be extremely labor -intensive, error prone, and expensive 
+without the right technology in  place, which is why AgentSync developed a SaaS platform to help insurance companies 
+streamline their end -to-end producer management processes.  
+ 
+Mphasis Silverline  is excited to announce that it has partnered with AgentSync  to bring their producer and compliance 
+management solution to our insurance clients. Built directly on the Salesforce Platform, AgentSync Manage gives 
+organizations the power to use intelligent automation to simplify producer management and compliance, gaining valuable customer insights in the process.  
+ “We've had to custom -build these solutions or integrate into another system for a lot of insurance clients over the 
+years,” said Danielle Laffey, Senior Director of Insurance of Mphasis Silverline . “AgentSync’s solution is native to the 
+Salesforce Platform and can be easily configured to the particular needs of the insurance community.”  
+ 
+Prior to AgentSync, insurance compliance vendors operated on infrastructure that looked similar to the legacy insurers 
+they served: dated, complex, custom -coded, and difficult to use. Today, however, many of the largest insurance carriers 
+and agencies are adopting modern technology and digitally transforming the way they manage compliance, improving operations and reducing financial, legal, and reputational risks.   
+ AgentSync is the only insurance compliance management solution that takes an agency or carrier’s processes from hours of manual data entry, including cross -referencing websites and spreadsheets, to a few minutes of activity in a single 
+platform.  
+ “When we were evaluating compliance technology solutions, other products looked dated, bland, and didn’t seem to be 
+customizable. They were hard to navigate around, and hard to read. AgentSync was the opposite. It felt modern, 
+purpose -built, and innovative  and the interface was appealing to look at,” said Matt Brockmeier, Business Development 
+Specialist at Veterans United Insurance and an AgentSync customer . “AgentSync showed a level of insurance industry 
+expertise that we didn’t see in other vendors we wer e looking at.”  
+ Using APIs and a cloud -native, low -code architecture, AgentSync’s robust integrations and unparalleled data accuracy 
+break through the milieu of outdated legacy tech to modernize and simplify operations and compliance in the insurance branch of the financial services industry.  
+ “AgentSync knows compliance,” said Laffey . “They are experts, and their platform demonstrates that expertise. They 
+understand the nuances and state -level requirements across the producer lifecycle – from licensing and appointing to 
+continuing education and renewals – and make it really easy and efficient for organizations to achieve and maintain 
+compliance and leverage producer data to drive reporting, analytics, and distribution strategies.”  
+ AgentSync is committed to building insurance infrastructure that is current, automatic, and integrated into an organization’s technology ecosystem. With a daily sync, the first -of-its-kind API to connect customers to the industry’s 
+source of truth on produ cer licensing and state appointments, customers get a real- time view into their workforce’s 
+compliance and can understand ready -to-sell status across all jurisdictions, without anyone having to perform manual 
+checks or validation.  
+ 
+The combination of AgentSync’s insurance compliance expertise with Mphasis Silverline’s deep Salesforce knowledge 
+provides a significant opportunity for our clients to transform their compliance processes on the Salesforce Platform.  
+ Learn more  about what our insurance experts can do for your organization.  
+ 
+About Mphasis  
+ 
+Mphasis’ purpose is to be the “ Driver in Driverless Car ” for Global Enterprises by applying next -
+generation  design, architecture, and engineering services, to deliver scalable and sustainable 
+software and technology solutions. Customer centricity  is foundational  to Mphasis,  and is reflected  in 
+the Mphasis’ Front2Back ™ Transformation  approach.  Front2Back ™ uses the exponential power of cloud and cognitive to provide 
+hyper -personalized (C= X2C2TM=1) digital experience to clients  and their  end customers.  Mphasis’  Service  Transformation  approach  
+helps  ‘shrink  the core’  through the application of digital technologies across legacy environments within an enterprise, enabling 
+businesses to stay ahead in a changing world. Mphasis’ core reference architectures and tools, speed and innovation with 
+domain expertise and specialization, comb ined with an integrated sustainability and purpose -led approach across its operations 
+and solutions are key to building strong relationships with marquee clients. Click hereto know more. ( BSE: 526299; NSE: 
+MPHASIS ) 
+ About AgentSync  
+AgentSync builds modern insurance infrastructure that connects carriers, agencies, MGAs, and producers. With customer -centric 
+design, seamless APIs, automation, and unparalleled service, AgentSync’s solutions provide data intelligence and streamlined onboarding and compliance management processes that reduce costs, increase efficiency, and get producers ready to sell in hours instead of weeks. Founded in 2018 by Niranjan “Niji” Sabharwal and Jenn Knight, and headquartered in Denver, CO, AgentSync has been recognized as one of Denver’s Best Places to Work, a Forbes Magazine Cloud 100 Rising Star, and as an 
+Insurtech Insights Future 50 winner, and was ranked 65 in Forbes – America’s Best Startup Employers 2023. To  learn more, 
+visit www.agentsync.io .  
+  
+For further information, please contact:  
+Mphasis Corporate Communications  
+Deepa Nagraj  
+deepa.nagaraj@mphasis.com  
++ 1 (646) 424 -5160 |+91 9845 256 283  
+Sumana  Bhat  
+sumana.bhat@mphasis.com  
++91 9902 980 980  Mphasis Silverline contact  
+Danielle Laffey  
+Senior Director, Insurance  
+danielle.laffey@mphasis.com  
+ 
+ 

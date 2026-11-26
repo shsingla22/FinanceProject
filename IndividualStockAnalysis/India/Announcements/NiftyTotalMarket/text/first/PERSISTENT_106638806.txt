@@ -1,0 +1,166 @@
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411  016, Maharashtra, India    
+CIN - L72300PN1990PLC 056696  
+Tel:  +91 (20) 6703  5555  | Fax  - +91 (20) 6703 6003 | E-mail - info@persistent.com  | Website  - www.persistent.com   
+   
+    
+ 
+NSE & BSE / 2026-27 / 035 
+ 
+      May 25, 202 6 
+ 
+The Manager,   
+Corporate  Services,  
+National Stock Exchange of India Limited          
+Exchange Plaza, Bandra Kurla Complex,  Bandra  (E),  
+Mumbai 400  051 
+ 
+Ref: Symbol:  PERSISTENT  The Manager , 
+Corporate Services,  
+BSE Limited  
+P J Towers, Dalal Street,  
+Mumbai 400 001  
+ 
+  Ref: Scrip  Code:  533179  
+ 
+Dear  Sir/Madam,  
+ 
+Sub: Press Release titled ‘Persistent and Kong Announce Strategic Partnership to Help 
+Enterprises Securely Move AI into Production ’ 
+ 
+We wish to inform you that Persistent Systems Limited ( the ‘Company ’) has made a press release  
+dated May 25, 202 6, titled ‘Persistent and Kong Announce Strategic Partnership to Help Enterprises 
+Securely Move AI into Production ’. 
+ 
+A copy of the Press Release is enclosed for your reference.  
+ 
+This is for your information and records.  
+ 
+Please acknowledge the receipt.  
+ 
+Thanking you,  
+ 
+Yours Sincerely,  
+For Persistent Systems Limited  
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.: A CS 20507  
+ 
+Encl.: As above  
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  1  
+ 
+ 
+ 
+Persistent and Kong Announce Strategic 
+Partnership to Help Enterprises Securely 
+Move AI into Production  
+Defines a new enterprise architecture for governing APIs, data and 
+AI systems across hybrid and multi -cloud environments   
+May 25, 2026 
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE: 533179 and NSE: PERSISTENT), a global Digital Engineering and 
+Enterprise Modernization leader  and Kong , a leading developer of API and AI connectivity, 
+today announced a strategic partnership to help enterprises implement  the control layer 
+required to scale AI securely  and reliably.  Persistent is uniquely positioned as Kong’s global 
+system s integrat ion partner , combining its engineering -led approach with Kong’s unified API and 
+AI connectivity platform to simplify integration, strengthen governance and accelerate enterprise 
+AI adoption.  
+ 
+As enterprises move from AI experimentation to production, the challenge is no longer access to 
+models. It is how AI systems are connected, governed and operated at scale. APIs, data 
+pipelines, models and agents are converging into a single operational fab ric. Without a unified 
+control layer, this fabric becomes fragmented, difficult to govern and increasingly complex to 
+scale .  
+ 
+This partnership addresses that gap by enabling enterprises to implement Kong’s governed , 
+scalable connectivity layer across APIs, data and AI services. Together, Persistent and Kong 
+will enable organizations to modernize legacy API  environments , strengthen governance and 
+reduce operational costs, while supporting high-performance workloads seamlessly across 
+hybrid and multi -cloud environments.  
+ 
+The collaboration also enables enterprises to operationalize GenAI and agentic workflows, 
+including Model Context Protocol -based architectures, with built -in security, observability and 
+policy -driven control.  This includes policy -driven safeguards such as Personally Identifiable 
+
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  2 
+Information  (PII) protection, centralized access management and end -to-end observability, 
+ensuring enterprise -grade security and compliance across API and AI interactions.  
+ 
+The partnership advances Persistent’s AI -first, platform -driven approach by creating a more 
+predictable path from AI ambition to enterprise -scale execution. By combining Kong’s AI 
+Gateway and unified  API and AI  connectivity platform with Persistent’s GenAI Hub  and 
+engineering -led delivery, organizations can move beyond isolated use cases toward governed, 
+production -grade AI systems with greater control, lower risk and faster realization of business 
+value.  
+Anand Krishnan , Executive Vice President , Persistent  
+“Enterprise AI will not be defined by who has access to models. It will be defined by how 
+effectively organizations can govern how intelligence flows across their systems.  APIs are no 
+longer just integration points. They are the control layer for enterprise AI.  Our partnership with 
+Kong brings together Persistent’s engineering -led approach with a unified connectivity platform 
+to help clients move from fragmented AI initiatives to scalable, production -grade systems. 
+Together, we are enabling enterprises to bu ild AI that is secure, controlled and ready to deliver 
+real business outcomes. ” 
+ Ken Kim , Senior Vice President  and Head of Business Development , Kong  
+“Enterprises are moving fast to put AI into production, and APIs are critical for connecting 
+services, data, and model endpoints across complex environments. At Kong, we are building 
+the AI Connectivity infrastructure so organizations can secure, manage, govern, and scale traffic 
+across APIs and AI workloads on any model or any cloud. We are excited to have Persistent as 
+a key global integration partner, bringing deep digital engineering expertise that complement s 
+our unified API and AI platform.  Together, we can help customers modernize integration and 
+deploy enterprise AI with consistent policy enforcement, secure access controls, and strong 
+observability and audit trails .” 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  3 
+About Kong Inc.  
+Kong Inc., a leading developer of API and AI connectivity technologies, is building the connectivity layer of AI. Trusted by the 
+Fortune 500® and AI -native startups alike, Kong’s unified API and AI platform enables organizations to secure, manage, accelerate, 
+govern, and monetize the flow of intelligence across APIs and AI traffic — on any model, any cloud. For more information, visit 
+www.konghq.com . 
+About Persistent  
+Persistent Systems (BSE:  533179 and NSE: PERSISTENT) is a global services and solutions company delivering AI -led, platform -driven 
+Digital Engineering and Enterprise Modernization to businesses across industries. With over 2 7,500 employees located in 21 countries, the 
+Company is committed to innovation and client success. Persistent offers a comprehensive suite of services, including softwar e 
+engineering, product development, data and analytics, CX transformation, cloud computing, and intelligent automat ion. The Company is 
+part of the MSCI India Index and is included in key indices of the National Stock Exchange of India, including the Nifty Midc ap 50, Nifty IT, 
+and Nifty MidCap Liquid 15, as well as several on the BSE such as the S&P BSE 100 and S&P BSE SENSEX Next 50. Persistent is also a 
+constituent of the Dow Jones Best -in-Class World Index . The Company has achieved carbon neutrality, reinforcing its commitment to 
+sustainability and responsible business practices. Persistent has also been named one of America’s Greatest Workplaces for In clusion & 
+Diversity 2025 by Newsweek and Plant A Insigh ts Group. As a participant of the United Nations Global Compact, the Company is 
+committed to aligning strategies and operations with universal principles on human rights, labor, environment, and anti -corruption, as well 
+as take actions that advance societa l goals. With 468% growth in brand value since 2020, Persistent is the fastest -growing IT services 
+brand in ‘Brand Finance India 100’ 2025 Report.  
+www.persistent.com  
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+For Media Queries: media@persistent.com  
+ 
+ 

@@ -1,0 +1,189 @@
+ 
+ 
+IDFC FIRST Bank Limited  
+Corporate Office:  IDFC FIRST Bank Tower, (The Square), C -61, G Block, Bandra -Kurla Complex, Bandra (East), Mumbai - 400 051. Tel: +91 22 7132 5500  
+Registered Office : KRM Towers, 7th Floor, No.1, Harrington Road, Chetpet, Chennai - 600 031, Tamil Nadu. Tel: +91 44 4571 6477  
+CIN : L65110TN2014PLC097792   | E-mail : bank.info@idfcfirst.bank.in   | Website : : www.idfcfirst.bank.in  
+IDFCFIRSTBANK/SD/ 60/202 6-2027          June 05, 202 6 
+  
+National Stock Exchange of India Limited  
+Mumbai 400 051  
+NSE Symbol: IDFCFIRSTB  BSE Limited  
+Mumbai 400 001  
+BSE Scrip Code: 539437  
+ 
+Sub: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015   
+ 
+Ref: Earlier disclosures dated February 21, February 22, February 24, March 10 and March 13, 2026.  
+ 
+Dear  Sir/ Madam,  
+ 
+This is with reference to our earlier disclosure s, regarding the ongoing review  of the unauthorised and fraudulent activities 
+(“Incident ”) detected by the Bank linked to its Sector 32 branch in Chandigarh  (“Branch ”). We wish to update that t he 
+Bank has received the Forensic Review Report from KPMG  today . The Board of Directors of the Bank, at its meeting held 
+today, took note of the findings set out in the aforesaid report . The management comments are set out below:  
+ 
+a. The findings reaffirm that the Incident involved fraudulent activities linked to the aforesaid Branch, arising from 
+collusion involving certain employees / ex-employees  of the Bank at the said Branch, certain  employees of customers 
+(i.e. departments of the State Governments) and some third parties.  
+b. This was an isolated incident involving one branch of the Bank and such incidents have not been observed at any of the 
+Bank's other branches.  
+c. The net principal amount of ~₹ 646 crore quantified in the Forensic Report is in line with the Bank’s previous disclosures.  
+d. The Bank paid the aforesaid  amount  and applicable interest  to the concerned departments  and has recognised the  
+same in the books of accounts in Q4FY26.  The Bank is a victim of this financial fraud and is working with investigative 
+authorities . 
+e. The records in the Core Banking System (CBS) of the Bank were accurate. Customers were provided with monthly 
+account statements reflecting their balances and transactions, and were notified, where applicable as per process, 
+through SMS alerts regarding tra nsactions in their accounts .  
+f. Post the Incident , the Bank sent physical and/or email statements reflecting closing balances as of February 28, 2026, 
+to all relevant government  and TASC (Trust, Association, Societies & Clubs) account holders across India. No 
+discrepancies or claims have been received from any other customers.  
+g. The Bank has implemented additional preventive controls to strengthen oversight, particularly collusion risk  at the 
+Branch level . These additional measures include, inter alia , implementation of oversight processes by a centralized 
+team in addition to branch -level authorization , enhanced customer communication processes, and other technology -
+led system control s. 
+ 
+The additional measures implemented pursuant to the Incident , will significantly enhance the control framework and help 
+the Bank grow on stronger foundations, and pursue its vision to build a world -class bank in India. We sincerely thank all 
+our stakeholders for their confidence and continued support.  
+ 
+The Board Meeting commenced at 06: 00 p.m. and concluded at 0 7:45 p.m.  We request you to kindly take the same on 
+record.  
+ 
+For IDFC FIRST Bank Limited.  
+ 
+ 
+Satish Gaikwad  
+General Counsel and Company Secretary  
+ 
+Enclosure : Report  on Chandigarh inci dent  
+ 
+ 
+Project Ultra  
+ 
+Report on findings of Forensic review  
+ 
+Strictly private and confidential  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+KPMG  
+June 2026  
+This report contains 10 pages  
+ Project Ultra_Report of Findings_05062026_Final  
+© 20 26 KPMG, an Indian Partnership and a member firm of the KPMG network of independent member firms affiliated with KPMG Internatio nal 
+Cooperative (“KPMG International”), a Swiss entity. All rights reserved.  
+ 
+ 
+       
+Project Ultra  
+Report on findings of forensic review  
+6/5/2026  
+ 
+ Project Ultra_Report of Findings_05062026_Final    i 
+© 2026  KPMG . All rights reserved.  
+Document classification:       Glossary  
+Sr. No.  Acronym  Description  
+1 AML Anti-Money Laundering  
+2 CCTV  Closed -Circuit Television  
+3 EL Engagement Letter  
+4 FD Fixed Deposit  
+5 FDA Fixed Deposit Advice  
+6 GBG  Government Banking Group  
+7 NEFT  National Electronic Funds Transfer  
+8 RTGS  Real Time Gross Settlement  
+9 SAM  Shardul Amarchand Mangaldas & Co  
+10 TASC  Trust Association Society and Club  
+11 UFA Unauthorised  and Fraudulent Activities  
+ 
+  
+Project Ultra  
+Report on findings of forensic review  
+6/5/2026  
+ 
+ Project Ultra_Report of Findings_05062026_Final    ii 
+© 2026  KPMG . All rights reserved.  
+Document classification:       Contents  
+1 Notice to the reader  3 
+2 Findings of the Forensic review  5 
+2.1 Background  5 
+2.2 Appointment of KPMG  5 
+2.3 KPMG’s Scope of work  6 
+2.4 Broad methodology of review  6 
+2.5 Quantification of the UFAs  7 
+2.6 Unauthorised and Fraudulent Activities (UFAs)  7 
+2.7 Recipients and potential beneficiaries of UFAs  8 
+2.8 Modus operandi  9 
+2.9 Process compliances  9 
+2.10 Select suggestions  9 
+Project Ultra  
+Report on findings of forensic review  
+6/5/2026  
+ 
+Project Ultra_Report of Findings_05062026_Final  3 
+ 1 Notice to the reader  
+a. This report has been prepared solely for the purpose set out in the Engagement Letter 
+signed with IDFC FIRST Bank Limited ( “IDFC FIRST Bank ” or the “Bank ”) and Shardul 
+Amarchand Mangaldas & Co ( “SAM ”), dated 11 April 2026  w.e.f . 25 February 2026  
+(referred to as “EL”), and is not, without our prior written consent, to be used for any  
+purpose other than as stipulated under the said EL.  
+b. KPMG’s views are not binding on any person, entity, authority, or Court, and hence, no 
+assurance is given that a position contrary to the contents of this report  will not be 
+asserted by any person, entity, authority and/or sustained by an appellate authority or a 
+court of law.  
+c. All amounts reported are in Indian Rupees, unless otherwise specified.  
+d. This report is provided for information only and KPMG does not owe duty of care 
+(whether in contract or in tort or under statute or otherwise) to any person or party or 
+entity, other than the addressee of the report, to whom the report is circulated, and 
+neither KPMG (nor any of its partners, directors or employees) shall be liable  (including 
+for their negligence)  to any such person or party or entity who uses or relies on this 
+report. The report is provided on an “as is” basis and KPMG thus disclaim s all 
+responsibility or liability for any costs, damages, losses, liabilities, expenses incurred by 
+such third party arising out of or in connection with the report or any part thereof.  
+e. The scope of work performed by us under this engagement was as considered 
+necessary at the given point in time. This report is based on information and data 
+obtained as a result of work completed until 25 May 2026  subject to certain restrictions 
+and limitations . We reserve the right to amend any findings, if deemed necessary by us, 
+should any further information become available to us post submission of this report.  
+f. KPMG has not performed an audit and does not express an opinion or any other form of 
+assurance. Further, comments in our report are not intended, nor should they be 
+interpreted to be legal advice or opinion. KPMG does not make any form of 
+representation re garding the sufficiency of procedures that it has performed.  
+g. While performing work, KPMG assumed the genuineness and authenticity of all original 
+documents and KPMG has not independently verified the correctness or authenticity of 
+the same,  unless  specifically mentioned in the report . 
+h. Our findings are based on the extent of procedures carried out during the engagement.  
+i. Our procedures were limited to understanding the incident, to the extent possible, the 
+financial impact and people responsible for the same. Hence, our procedures that 
+included selective testing of data and understanding of process may not identify all 
+errors/risks, including process risks and other illegal acts/regulatory non -compliance 
+having a direct or indirect financial impact.  
+j. Given the limitations of access to data, information and records beyond what was 
+provided by the Bank, the results of our work with respect to review of transactions should 
+Project Ultra  
+Report on findings of forensic review  
+6/5/2026  
+ 
+Project Ultra_Report of Findings_05062026_Final  4 
+ be considered only as a guide. Our report and comments should not be considered as a 
+definitive pronouncement on any individual or entity.  
+k. In preparing this report, KPMG:  
+1. may have used and relied on information gathered from the Bank, public domain, 
+secondary sources, through research reports and discussions with personnel within 
+KPMG, as well as personnel in related industries.  
+2. assumes no responsibility for the accuracy and completeness of the information and 
+will not be held liable for it under any circumstances.  
+3. has neither conducted due diligence, nor validated the financial statements and 
+projections provided by the Bank or any of the quoted companies or personnel.  
+l. By reading the report, the reader shall be deemed to have accepted the terms 
+mentioned hereinabove.  This report shall be disclosed to those authorized in entirety 
+only without removing 'Notice to  the reader' section of the report.  
+ 

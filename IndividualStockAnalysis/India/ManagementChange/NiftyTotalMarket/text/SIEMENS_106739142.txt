@@ -1,0 +1,129 @@
+--- CIM_619_WebXMLFile_20260812_162234735_1.xml (the exchange's structured disclosure) ---
+NSESymbol: SIEMENS ; Name Of The Company: SIEMENS LIMITED ; Scrip Code: 500550 ; MSEISymbol: NA ; ISIN: INE003A01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-11 ; Time Of Occurrence Of Event Or Information: 11:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Date Of Report: 2026-08-12 ; Type Of Change: Cessation ; Category Of Cessation: Cessation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Head of the Company’s Digital Industries Business ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Swapnil Deosthali ; Effective Date Of Reason Of Change: 2026-08-16 ; Remarks For Change In Management: Mr. Swapnil Deosthali is taking up a new role within Siemens ; Type Of Change: Appointment ; Designation Of Designated Person: Interim Head of the Company’s Digital Industries Business ; Name Of Designated Person: Mr. Suprakash Chaudhuri ; Effective Date Of Reason Of Change: 2026-08-17 ; Term Of Appointment In Months: 99 ; Brief Profile: Mr. Suprakash Chaudhuri is Head of Digital Industries, Asia-Pacific, and a member of the Global Sales Leadership of Digital Industries. Over his 30+ years of cross-industry experience, he has been helping businesses of all sizes increase their digital resilience by transforming them into digital enterprises. Prior to assuming his regional role, he was the Head of the Company’s Digital Industries business, prior to which he led Siemens Digital industries Software in India. Mr. Chaudhuri has been associated with leading global technology and consulting companies like Ernst & Young, SAP and Oracle. He was previously a Partner with EY India’s Advisory business and was engaged with manufacturing & consumer companies helping them drive business outcomes by leveraging technology. Prior to that, he served as the Managing Director, SAP Indian sub-continent, and also held numerous sales management and leadership positions in Oracle. He also co-chairs the FICCI Technology Committee and plays an active role in helping the industry. Mr. Chaudhuri is based out of India and is an engineering graduate and a post-graduate in Business Management from IMT, Ghaziabad. ; Category Of Cessation: Resignation ; Designation Of Designated Person: Finance Head of the Company’s Digital Industries Business ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Sapna Rawat ; Name Of Designated Person: Ashish Handa ; Brief Profile: Mr. Ashish Handa is based in India and is a senior finance and business leader with over 25 years of experience across India and Europe, spanning business finance, strategy, assurance, investments and transformation. He is currently Head of Finance for the Asia Pacific Zone of Siemens Digital Industries’ Automation business, with responsibility for India, ASEAN, South Korea, Japan and Australia. Prior to assuming his current role, he held global leadership responsibilities in Siemens’ Controlling and Finance Assurance function. He served as Global Head for audits at Digital Industries and as Global Head for Digitalization and IT assurance, leading a 25-member team across Germany, the USA and China. Prior to joining Siemens, he has worked with Jubilant Lifesciences and KPMG India, among others. Mr. Handa completed the Post-Graduate Program in Management at the Indian School of Business, where he was awarded the Chairman’s All-Rounder Gold Medal. He is a Chartered Accountant and a rank holder at both the Intermediate and Foundation examinations and holds a Bachelor of Commerce (Honors) from the University of Delhi – Shri Ram College of Commerce. ; Salutation: Ms. ; Name Of The Person: Sapna Rawat ; Designation Of Person: Finance Head of the Company’s Digital Industries Business ; Date On Which The Resignation Letter Was Received: 2026-08-10 ; Effective Date Of Resignation: 2026-08-16 ; Reason Of Resignation In Brief: Seeking career opportunities outside Siemens
+
+--- SE_Announcement_2.pdf ---
+SIEMENS
+11th August 2026
+National Stock Exchange of India Limited
+BSE Limited
+Scrip Code –
+National Stock Exchange of India Limited: SIEMENS EQ
+BSE Limited: 500550
+Information pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“Listing Regulations”)
+Dear Sir / Madam,
+Pursuant to Regulation 30 and other applicable Regulations of the Listing Regulations, please find
+enclosed (Annexure - A) the details about the changes in the Senior Management personnel of the
+Company.
+Kindly take the same on record.
+Yours faithfully,
+For Siemens Limited
+Digitally signed by
+KETAN
+KETAN NANDKISHOR
+NANDKISH THAKER
+Date: 2026.08.11
+OR THAKER 20:26:18 +05'30'
+Ketan Thaker
+Company Secretary
+
+Encl: as above
+
+Siemens Limited
+Management: Sunil Mathur
+
+Dr Annie Besant Rd.
+400030 Mumbai
+INDIA
+
+Tel.: +91 22 6251 2191
+www.siemens.com
+
+Registered Office: Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai – 400030; Corporate Identity number: L28920MH1957PLC010839;
+Tel.: +91 22 6251 7000; Fax: +91 22 2436 2404; Contact / Email: www.siemens.co.in/contact; Website: www.siemens.co.in.
+Sales Offices: Ahmedabad, Bengaluru, Chennai, Gurugram, Hyderabad, Kolkata, Mumbai, Nagpur, Kalwa, Puducherry, Pune, Vadodara.
+
+
+SIEMENS
+Annexure – A
+1. Mr. Swapnil Deosthali will cease to be the Head of the Company’s Digital Industries Business,
+effective 16th August 2026 as he is taking up a new role within Siemens.
+2. Mr. Suprakash Chaudhuri will take responsibility as Interim Head of the Company’s Digital Industries
+Business, effective 17th August 2026. Brief profile of Mr. Chaudhuri is as under.
+Mr. Suprakash Chaudhuri is Head of Digital Industries, Asia-Pacific, and a member of the
+Global Sales Leadership of Digital Industries.
+Over his 30+ years of cross-industry experience, he has been helping businesses of all sizes
+increase their digital resilience by transforming them into digital enterprises. Prior to assuming his
+regional role, he was the Head of the Company’s Digital Industries business, prior to which he led
+Siemens Digital industries Software in India.
+Mr. Chaudhuri has been associated with leading global technology and consulting companies like
+Ernst & Young, SAP and Oracle. He was previously a Partner with EY India’s Advisory business and
+was engaged with manufacturing & consumer companies helping them drive business outcomes by
+leveraging technology. Prior to that, he served as the Managing Director, SAP Indian sub-continent,
+and also held numerous sales management and leadership positions in Oracle. He also co-chairs
+the FICCI Technology Committee and plays an active role in helping the industry.
+Mr. Chaudhuri is based out of India and is an engineering graduate and a post-graduate in
+Business Management from IMT, Ghaziabad.
+3. Ms. Sapna Rawat will cease to be the Finance Head of the Company’s Digital Industries Business,
+effective 16th August 2026, further to her resignation from the Company. (her resignation letter is
+enclosed)
+4. Mr. Ashish Handa will take responsibility as the Interim Finance Head of the Company’s Digital
+Industries Business., effective 17th August 2026. Brief profile of Mr. Handa is as under:
+Mr. Ashish Handa is based in India and is a senior finance and business leader with over 25 years
+of experience across India and Europe, spanning business finance, strategy, assurance, investments
+and transformation.
+He is currently Head of Finance for the Asia Pacific Zone of Siemens Digital Industries’ Automation
+business, with responsibility for India, ASEAN, South Korea, Japan and Australia.
+Prior to assuming his current role, he held global leadership responsibilities in Siemens’ Controlling
+and Finance Assurance function. He served as Global Head for audits at Digital Industries and as
+Global Head for Digitalization and IT assurance, leading a 25-member team across Germany, the
+USA and China.
+Prior to joining Siemens, he has worked with Jubilant Lifesciences and KPMG India, among others.
+Mr. Handa completed the Post-Graduate Program in Management at the Indian School of Business,
+where he was awarded the Chairman’s All-Rounder Gold Medal. He is a Chartered Accountant and
+a rank holder at both the Intermediate and Foundation examinations and holds a Bachelor of
+Commerce (Honors) from the University of Delhi – Shri Ram College of Commerce.
+
+Siemens Limited
+Management: Sunil Mathur
+
+Dr Annie Besant Rd.
+400030 Mumbai
+INDIA
+
+Tel.: +91 22 6251 2191
+www.siemens.com
+
+Registered Office: Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai – 400030; Corporate Identity number: L28920MH1957PLC010839;
+Tel.: +91 22 6251 7000; Fax: +91 22 2436 2404; Contact / Email: www.siemens.co.in/contact; Website: www.siemens.co.in.
+Sales Offices: Ahmedabad, Bengaluru, Chennai, Gurugram, Hyderabad, Kolkata, Mumbai, Nagpur, Kalwa, Puducherry, Pune, Vadodara.
+
+
+Resignation Letter
+
+Date: August10,2026
+To
+
+Siemens Limited
+
+Subject: Resignation
+
+Dear Wolfgang, Sabine,
+Please accept this letter as formal notice of my resignation from Siemens Limited.
+This decision comes with mixed emotions. I am grateful for the opportunities, experiences,
+and trust that the organization has given me throughout my journey. The learning,
+professional growth, and relationships built here will always remain special to me.
+While I am excited about the next chapter, it is not easy to leave a place that has contributed
+so significantly to my career and personal development.
+I will do my best to ensure a smooth transition during my notice period.
+Thank you once again for all the support and opportunities. I wish the organization and my
+colleagues continued success in the future.
+
+Yours sincerely,
+
+~
+
+Sapna R
+RC-IN DI F
+
+

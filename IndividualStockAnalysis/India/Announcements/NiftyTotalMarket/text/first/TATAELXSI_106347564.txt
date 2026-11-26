@@ -1,0 +1,96 @@
+ 
+ August 2 1, 2025  
+ 
+DGM – Corporate Relations    The Listing Department  
+BSE Ltd.  National Stock Exchange of India Ltd.  
+Phiroze Jeejeebhoy Towers          Exchange Plaza, Plot No. C -1, Block G  
+Dalal Street  
+Mumbai – 400 001  
+Scrip Code:  500408   Bandra – Kurla Complex Bandra (East)  
+Mumbai – 400 051  
+Scrip Code: TATAELXSI  
+ 
+Dear Sir s/Madam , 
+ 
+Sub: Press Release - “Tata Elxsi Establishes ‘SUZUKI –TATA ELXSI Cloud HIL Center’ to 
+Accelerate Software- Defined Vehicle Programs ”  
+ 
+Please find enclosed the Press Release dated August  21, 2025, titled  “Tata Elxsi Establishes ‘SUZUKI –
+TATA ELXSI Cloud HIL Center’ to Accelerate Software -Defined Vehicle Programs.”  
+ 
+This disclosure is made in compliance with Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015.  
+ This is for your information and records.  
+ 
+Yours faithfully,  
+For Tata Elxsi Limited  
+ 
+ 
+ 
+Sneha V  
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above  
+ 
+ 
+ 
+Tata Elxsi Establishes ‘SUZUKI–TATA ELXSI Cloud HIL Center ’ to 
+Accelerate Software -Defined Vehicle Programs  
+Trivandrum, India – August 21, 2025:  Tata Elxsi , a global leader in design and technology services, 
+and Suzuki Motor Corporation , a Japanese multinational mobility manufacturer, today inaugurated 
+the SUZUKI –TATA ELXSI Cloud HIL Center  in Trivandrum, India . This dedicated facility is Suzuki’s first 
+full-vehicle cloud -enabled Hardware -in-the-Loop  (HIL)  validation center and represents the second 
+engineering center established under the Tata Elxsi –Suzuki partnership , following the Offshore 
+Development Center (ODC) in Pune.  
+The Cloud HIL Center is engineered for early -stage, full -vehicle simulation and validation through a 
+cloud -native infrastructure. It enables Suzuki’s development and test teams to remotely access HIL 
+infrastructure  integrated with Electronic Control Units (ECUs )—reducing reliance on physical 
+prototypes and accelerating validation  cycles across R&D centers worldwide . This aligns with 
+Suzuki’s roadmap for Software -Defined Vehicles (SDVs ), reinforcing a shi ft toward  software -led, 
+scalable development . 
+Purpose -built to support this transformation,  the facility integrates Tata Elxsi’s domain expertise in  
+automotive Verification and Validation (V&V) , test automation, and simulation, enabling 
+transformative advancements in development speed, quality, and future readiness.  
+As part of Suzuki’s global  “SDV Right ” strategy for Electrical and Electronic (E/E) Virtual  
+Development , the Cloud HIL Center plays  a foundational role in delivering continuous integration, 
+faster release cycles, and system reliability.  
+This new centre  marks a strategic step in the Tata Elxsi –Suzuki partnership, complementing the 
+success of the Pune ODC and anchoring long -term engineering collaboration for future mobility 
+programs worldwide.  
+
+ 
+Katsuhiro Kato, Director and Executive Vice President of Suzuki, said , “The SUZUKI -TATA ELXSI 
+Cloud HIL Center is a new base that leverages Tata Elxsi's expertise and deep  experien ce to build an 
+advanced and efficient development system. We hope that Suzuki will promote virtualization to 
+realize minimization of energy and contribute to the development of next -generation mobility 
+significantly."  
+Manoj Raghavan , CEO and Managing Direc tor, Tata Elxsi, said,  “We thank Kato -san and Suzuki 
+Motor Corporation for their continued trust. This new Cloud HIL Center builds on the strong 
+foundation of our Pune ODC and marks a forward leap in our SDV -focused collaboration. It reflects 
+our shared vi sion for sustainable  and smarter mobility .” 
+It leverages T ata Elxsi ’s long standing scaled presence wit h engineering  excellence to drive  high -
+impact localization of global  vehicle  programs. This center is designed to evolve with next -gen 
+architectures —providing a modular, future -ready foundation that supports agile integration, system 
+continuity, and long -term value creation.  
+About Tata Elxsi  
+Tata Elxsi  is among the world’s leading providers of design and technology services across industries 
+including automotive, broadcast, communications, healthcare, and transportation. Tata Elxsi works 
+with leading OEMs and suppliers in the automotive and transportati on industries for R&D, design, 
+and product engineering services from architecture to launch and beyond.  
+It brings together domain experience across autonomous, electric, connected vehicle technologies, 
+and software -defined vehicles (SDVs), supported by a w orldwide network of design studios, 
+development centres, and a global talent pool of over 13,000 engineers and specialists. For more 
+information, please visit:  Automotive Engineering & Dig ital Solutions | Tata Elxsi  
+Media Contact  
+Tata Elxsi  
+Hari Balan /Ayushi Moudgil  
+Corporate Communications  
+Email: media@tataelxsi.com  
+About Suzuki  
+Suzuki Motor Corporation is one of Japan’s leading carmakers and a global motorcycle 
+manufacturer. The company’s non -vehicle products include outboard motors for boats and 
+motorized wheelchairs. It builds its lineup on its own and through numerous subsidia ries and joint 
+ventures outside Japan. Suzuki was established in 1920 and has headquarters in Hamamatsu, 
+Shizuoka. Toshihiro SUZUKI is President of the company.  
+Website: https://www.globalsuzuki.com  
+ 

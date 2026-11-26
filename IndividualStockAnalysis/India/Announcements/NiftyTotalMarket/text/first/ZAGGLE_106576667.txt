@@ -1,0 +1,108 @@
+                                                                                  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ZAGGLE/ 26-27/02 
+April  01, 2026 
+To 
+Listing Department  
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED  
+Exchange Plaza, Plot No C/1, G Block  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai -400 051, Maharashtra  
+ 
+Company Symbol: ZAGGLE  To 
+The Corporate Relations Department  
+BSE LIMITED  
+Phiroz Jeejeebhoy Towers  
+25th Floor, Dalal Street  
+Mumbai -400 001, Maharashtra  
+ 
+Company Scrip Code: 543985  
+ 
+Dear Sir / Madam,  
+Sub: Intimation of presentation on AI Strategy – April 2026  
+Please find attached herewith  presentation on AI Strategy – April 2026  of Zaggle Prepaid Ocean Services 
+Limited . 
+Please take the information on record s.  
+Thanking you  
+Yours faithfully,  
+For Zaggle Prepaid Ocean Services Limited  
+ 
+ 
+Hari Priya  
+Company Secretary and Compliance Officer  
+ 
+Encl.: As above  
+AI Strategy
+Zaggle Prepaid Ocean Services LimitedZaggle Prepaid Ocean Services LimitedZaggle Prepaid Ocean Services Limited
+April 2026
+
+2
+Safe harbor
+This presentation and the accompanying slides (the “Presentation”), which have been prepared by Zaggle Prepaid Ocean Services Limited
+(the “Company”), have been prepared solely for information purposes and do not constitute any offer, recommendation or invitation to
+purchase or subscribe for any securities, and shall not form the basis or be relied on in connection with any contract or binding commitment
+whatsoever. No offering of securities of the Company will be made except by means of a statutory offering document containing detailed
+information about the Company.
+This Presentation has been prepared by the Company based on information and data which the Company considers reliable, but the
+Company makes no representation or warranty, express or implied, whatsoever, and no reliance shall be placed on, the truth, accuracy,
+completeness, fairness and reasonableness of the contents of this Presentation. This Presentation may not be all inclusive and may not contain
+all of the information that you may consider material. Any liability in respect of the contents of, or any omission from, this Presentation is
+expressly excluded.
+This presentation contains certain forward-looking statements which are subject to a number of risks and uncertainties and the actual results
+could materially differ from those in such forward-looking statements. The risks and uncertainties relating to these statements include, but are
+not limited to, risks and uncertainties regarding fluctuations in earnings, our ability to manage growth, competition (both domestic and
+international), economic growth in India and abroad, ability to attract and retain highly skilled professionals, time and cost over runs on
+contracts, our ability to manage our international operations, government policies and actions regulations, interest and other fiscal costs
+generally prevailing in the economy. The Company does not undertake to make any announcement in case any of these forward-looking
+statements become materially incorrect in future or update any forward-looking statements made from time to time by or on behalf of the
+Company.
+3
+AI in the Spend management space in 
+India
+Key AI Trends in the Spend Management Space
+Overview Key Trend
+•Enterprise Corporates are transitioning from reports to predictive analytics to now prescriptive 
+analytics
+•The ask has progressed from reporting to forecasting budgets (predictive) to now 
+recommendations on how to achieve those budgetsShift towards Prescriptive 
+analytics
+•Corporates have always struggled with long-tail spends at scale.
+•The ask has now changed for autonomous negotiation of smaller contracts as well as complete 
+data visibility using NLP (Natural Language Processing) models to standardise reportingTail-spend management
+•Trust levels at an Enterprise Corporates are still very low on AI
+•There is an increasing ask for guardrail frameworks as well as explainable audit trails backed by 
+human in the loop approval workflows for justification to regulatory authorities and auditorsHuman in the loop 
+governance
+•Enterprise corporates are looking at preventive measures and real time flagging of compliance 
+breachesReal time Fraud Detection
+•With local data protection laws and ever-changing compliance norms, Enterprise Corporates are 
+looking for more agile workflows to protect from cross-border policy breaches across their vast 
+operationsCross border complianceStrategic insights from 100+ enterprise customers and key decision makers
+What’s Next
+We expect organizationsto move beyond applying AI to existing problems to reimagining their entire business 
+model around AI. This will naturally create a major shift in India’s digital economy 
+01Rise of Deep Vertical AIand SLMs
+The initial wave was horizontal (e.g., general LLMs). The next wave will be deeply vertical, solving complex, domain-
+specific problems for India's unique market.
+AI-first startups are already buildingSLMstrained on regional languages, local regulatory nuances, and informal 
+economy data unlocking new marketsto counter for the high cloud costs and new data privacy regulations
+02Emergence of AI Native Infrastructure
+India's digital public infrastructure is world-class and sits on a massive pool of data. The next layer will be AI-Native 
+Infrastructure with companies building the foundational tools to make AI development cheaper, faster, and more secure 
+for everyone else leveraging the digital public infrastructure
+This includes specialized, low-latency LLMs optimized for Indian markets, secure data governance platforms for 
+sensitive financial data, and AI-powered services that leverage India's vast talent pool.
+03Export of AI First Solutions
+Indian startups have a unique advantage: they are built to solve problems of scale, complexity, and resource constraint. 
+An AI-first solution that works efficiently for 1.4 billion people in India, navigating diverse languages, low-bandwidth 
+environments, and complex regulations, is inherently robust. 
+The next wave of Indian AI-first companies will not just serve the domestic market; they will export their AI models and 
+platforms to other high-growth, complex markets in SEA and MENA establishing India as a global AI powerhouse.

@@ -1,0 +1,860 @@
+October 26, 2026
+To,
+Listing Compliance Department
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street,
+Mumbai - 400 001.
+Scrip Code: 543280
+
+Listing Compliance Department
+National Stock Exchange of India Limited
+Exchange Plaza, Plot No. C/1. G Block,
+Bandra -Kurla Complex, Bandra (East),
+Mumbai- 400051.
+Scrip Symbol: NAZARA
+
+Dear Sir/Madam,
+Subject: Intimation of Investor Presentation for the Quarter and Half-year ended September
+30, 2026
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 as amended, please find enclosed herewith the Investor
+Presentation for the quarter and half-year ended September 30, 2026.
+This is for your information and records.
+Thanking you,
+Yours faithfully,
+For Nazara Technologies Limited
+Digitally signed by
+
+SHIVA
+ARUN SHIVA ARUN
+BHANDARI
+BHANDARI Date: 2026.10.26
+19:40:11 +05'30'
+
+Arun Bhandari
+Company Secretary and Compliance Officer
+Encl. As above
+
+
+Q2FY27 & H1FY27 Results
+Building a Global Gaming Platform
+
+
+Q2FY27 at a Glance : EBITDA Grew by 93% to Reach INR 120 Crores in Q2FY27
+All figures in INR Crores
+
+Consolidated Performance: Q2FY27
+
+Consolidated Performance: H1FY27
+
+• Revenue: 803 (+53% YoY)
+• EBITDA: 120 (+93% YoY)
+
+• Revenue: 1,232 (+20% YoY)
+• EBITDA: 166 (+52% YoY)
+
+• EBITDA Margin: 14.9% (+311 bps YoY)
+
+• EBITDA Margin: 13.5% (+281 bps YoY)
+
+Gaming Segment Performance: Q2FY27
+
+Gaming Segment Performance: H1FY27
+
+• Revenue: 656 (+122% YoY) and EBITDA: 141 (+114% YoY)
+
+• Revenue: 931 (+74% YoY) and EBITDA: 194 (+56% YoY)
+
+• Contributes to 82% in Revenue and 100% in EBITDA
+(before Corporate Costs)
+
+• Contributes to 76% in Revenue and 98% in EBITDA
+(before Corporate Costs)
+
+• Organic growth of 11% in Revenue and 17% in EBITDA
+
+• Organic growth of 12% in Revenue and 5% in EBITDA
+
+Balance Sheet Metrics: Sep-26
+• Net Cash: 438 (vs. 624 in Mar-26)
+Bluetile Integration
+Bluetile delivering: For Aug–Sep, revenue grew 49% YoY and EBITDA grew 64%
+One platform: Four group CoEs are live across Marketing, Data, Product and Tech. The Marketing CoE produced 290+ AI-built creatives
+across three studios in one month.
+Note: Bluetile is consolidated into Nazara books from 1st August 2026
+2
+
+
+Nazara Gaming Platform: One Platform Powering Growth Across Gaming IPs
+Gaming IPs
+Games and audiences
+across segments
+
+Mobile
+\
+
+PC & Console
+
+Nazara platform
+Shared capabilities
+every game IP runs on
+
+Marketing
+Central creative
+production, UA
+and ASO
+
+Data and AI
+One data stack,
+AI analysts and
+dashboards
+
+Outcomes
+Gaming, Q2FY27 vs
+Q2FY26
+
++122%
+gaming revenue growth, to 656
+Crores
+
+Product
+Shared IEC
+prioritisation
+across studios
+
+21.5%
+gaming EBITDA margin
+
+Offline
+
+Tech
+AI dev
+frameworks,
+shared
+knowledge,
+security
+
+Capital and
+M&A
+Group capital
+allocation and
+acquisitions
+
++17%
+organic gaming EBITDA growth
+
+3
+
+
+Platform Leadership: New Team in Place; Bluetile Integrated
+Leadership Changes
+
+RS
+
+Raymond A. Stauffer
+Chief Executive Officer
+From 16-Sep-26
+
+• Founder and former CEO of Bluetile and
+BestPlay
+• Former Trust & Safety Team Lead at
+Google
+• Leads strategy, capital allocation and
+operations
+
+MS
+
+Mithun Sacheti
+Executive Director2
+From 12-Oct-26
+
+• Founder of CaratLane
+• Deep experience in entrepreneurship,
+consumer brands, digital commerce and
+building scaled omnichannel businesses
+• Oversees strategic initiatives and
+operations
+
+AA
+
+Arun Agarwal
+Chief Financial Officer
+From 16-Oct-26
+
+• Former Global CFO, Ness Digital
+Engineering
+• Former CFO, Mastek
+• Leads finance, process excellence and
+strategic transformation
+
+Bluetile and BestPlay Integration
+Consolidated
+From 01-Aug-26; two months in
+Q2FY27
+
+5.8% shareholding
+Bluetile leadership team has 5.8%
+ownership in Nazara
+
+Group-level CoEs
+Bluetile capabilities elevated to
+group centers of Excellence
+
+1. Founder and Managing Director Nitish Mittersain re-designated to Founder and Non-Executive Director from 12-Oct-26
+2. Executive Director appointment subject to shareholder approval
+4
+
+
+Platform Capabilities: Group CoEs Strengthened by Bluetile Leadership
+Marketing
+
+AN
+
+Alex NC
+CoE head
+
+Data
+
+J
+
+Judit
+
+CoE head
+
+Product
+
+F
+
+Florin
+
+CoE head
+
+Tech
+
+AO
+
+Alex Osou
+CoE head
+
+Creative production
+
+Data architecture
+
+Prioritisation
+
+AI game development
+
+Central ad creatives built with AI;
+over 290 creatives across three
+studios in one month
+
+One lean, future-proof data stack
+built for AI. Semantic layers
+improving AI performance
+
+IEC matrix (impact, effort,
+confidence) shared across studios
+
+AI frameworks and tools cut
+production timelines
+
+Campaign operations
+
+AI Agent Marketplace
+
+Shared feature releases
+
+Shared knowledge
+
+Any CoE member can run
+campaigns for any studio,
+reducing FTE need
+
+Marketing, product, admon and
+data analyst agents ready to
+deploy across departments
+
+High-impact, low-effort features
+built once, used by several
+studios
+
+Central know-how on
+performance, scaling and AI
+
+App Store Optimisation
+
+AI-assisted analytics
+
+Greenlight process
+
+Security operations
+
+Automated ASO events with
+continuous A/B testing
+
+AI builds and fine-tunes
+dashboards
+
+Stage gates from prototype to
+soft launch to global, each with
+KPI thresholds
+
+Security run across Nazara and all
+studios
+
+One system, every studio: shared CoEs strengthen Nazara's ability to scale faster, as each new game or acquisition plugs into capabilities that
+already work
+5
+
+
+AI Runs Through the Platform: Building, Marketing and Running Games
+Build games
+Tech & Product CoE
+
+Scale games
+In motion
+
+Marketing CoE
+
+• AI development frameworks and
+tools shorten game and feature
+production timelines
+
+Quality gate
+AI eval harness that checks every
+game build before release
+
+In progress
+
+Foundation
+AI-ready data from the Data CoE
+
+In motion
+
+• AI-powered ad creatives produced
+centrally for every studio
+
+• Shared knowledge on performance,
+scaling and AI across studios
+
+In progress
+
+Optimising the business
+
+• Automated ASO events with
+continuous A/B testing
+
+Data CoE
+
+In motion
+
+• AI marketplace plugins: AI analysts
+for marketing, product and ad
+monetisation
+• AI-assisted analytics that build and
+fine-tune dashboards
+
+AI playtesting at scale
+
+Game AI scorecards
+
+Release gate
+
+Faster, safer launches
+
+Agents play each build
+to catch progression
+and balance bugs
+
+NPCs and agents scored
+against expected
+behaviour
+
+No model, prompt or
+balance change ships
+until it passes
+
+Aim: less manual QA
+and fewer post-launch
+fixes
+
+One data stack
+
+Semantic layers
+
+Connected AI agents
+
+Lean, flexible and future-proof
+architecture built for AI
+
+Structured data that improves
+the accuracy of AI tools
+
+Agents linked to company and
+department data
+
+6
+
+
+Where the Platform Plays: A $214B Market Across Segments and Geographies
+Large global market
+
+Diversified across segments
+
+$214B
+
+82%
+
+Market by platform, 2026E
+
+Gaming revenue by segment, Q2FY27
+
+Global games market, 2026E
+
+Mobile
+
+Console
+
+North America
+
+of Group revenue from gaming, Q2FY27
+
+$121.1B
+
+$46.9B
+
+Present across geographies
+
+Mobile
+
+PC & Console
+
+84%
+
+UK and Europe
+
+12%
+India
+
+Offline
+PC
+
+4%
+
+$45.9B
+
+Source: Newzoo Global Games Market Report, Aug-26 update (2026 projection, excludes hardware). Segment mix based on Q2FY27 gaming revenue
+
+7
+
+
+Platform in Action: Consolidated Q2FY27 EBITDA up 93% to INR 120 Crores
+Gaming1
+
+Others
+
+Revenue: 656 (+122% YoY)
+
+Revenue: 147
+
+EBITDA: 141 (+114% YoY)
+
+EBITDA: (0.3)
+
+EBITDA Margin: 21.5%
+
+EBITDA Margin: (0.2)%
+
+(All figures in INR Crores)
+
+Consolidated (pre-Corporate Costs)
+Revenue: 803 (+53% YoY)
+EBITDA: 141 (+86% YoY)
+Margin: 17.5% (+318 bps)
+
+Corporate Costs: (21)
+
+Consolidated Q2FY27:
+Revenue: 803 (+53% YoY)
+EBITDA: 120 (+93% YoY)
+Margin: 14.9% (+311 bps)
+
+1. Bluetile business consolidated from 01-Aug-26
+
+8
+
+
+Gaming
+Mobile · PC & Console · Offline
+
+82%
+
+100%
+
+of Group revenue
+
+of Group EBITDA
+(pre-Corporate Costs)
+
+Revenue and EBITDA contribution in Q2FY27
+
+9
+
+
+Gaming: Existing Business EBITDA Grew by 17% in Q2FY27; Bluetile Added Further
+Scale
+All figures in INR Crores
+
+Revenue Bridge: Q2FY26 to Q2FY271
+
++329
+
+EBITDA Bridge: Q2FY26 to Q2FY27
+
+Q2FY26
+Gaming
+
+Bluetile
++ BP
+
+Q2FY27
+Gaming
+
++17%
+YoY
++11
+66
+
++31
+
+Gaming
+organic
+
+141
+
+656
+
++11%
+YoY
+296
+
++64
+
+Bluetile
++ BP
+
+Q2FY27
+Gaming
+
+Q2FY26
+Gaming
+
+Gaming
+organic
+
+1. Bluetile business consolidated from 01-Aug-26
+10
+
+
+Our Gaming Business: Growth and Profitability Across Segments
+All figures in INR Crores
+
+Mobile
+
+PC & Console
+
+Offline
+
+Casual, kids and live-ops games across
+global app stores
+
+Publishing and development for premium
+platforms
+
+Family entertainment centers in India
+
+Bluetile's games, Love Island, Big Brother,
+Bigg Boss, Kiddopia, Animal Jam and others
+
+Curve Games' titles such as Wobbly Life,
+Human: Fall Flat, For the King II and others
+
+Smaaash and Funky Monkeys
+
+84%
+
+73%
+
+12%
+
+21%
+
+4%
+
+5%
+
+Revenue share
+
+EBITDA share1
+
+Revenue share
+
+EBITDA share1
+
+Revenue share
+
+EBITDA share1
+
+550
+
+103
+
+77
+
+30
+
+29
+
+8
+
+(+167% YoY)
+
+(+151% YoY)
+
+(+27% YoY)
+
+(+61% YoY)
+
+EBITDA margin: 18.8%
+
+EBITDA margin: 38.9%
+
+(+29% YoY)
+EBITDA margin: 26.2%
+
+Note: 1. Percentage of total EBITDA before Corporate Costs
+
+11
+
+
+Mobile Gaming: Revenue and EBITDA Grew by 167% YoY and 151% respectively
+All figures in INR Crores
+
+Revenue by business
+
+EBITDA by business
+
+YoY growth
+
+YoY growth
+
+Total +167%
+
+Total +151%
+
+550
+57
+22
+35
+107
+
+Kiddopia +21%
+Others2 −5%
+Wildworks +41%
+
+47
+24
+24
+
+329
+
+Bluetile & BestPlay1
+
+Others2 −3%
+Wildworks +39%
+
+41
+7
+5
+5
+
+Fusebox +7%
+
+Q2FY27
+
+Q2FY26
+■ Bluetile & BestPlay
+
+• Fusebox revenue fell 4% YoY on lower
+organic installs, similar mobile game
+downloads declined globally
+• Wildworks content launches (slide 13)
+drove 41% and 39% YoY growth in
+revenue and EBITDA respectively
+• In Others, Telco EBITDA grew by
+optimising ad spend
+
+Bluetile & BestPlay1
+
+64
+
+24
+
+111
+Q2FY26
+
+2
+
+26
+
+Fusebox −4%
+
+206
+
+Kiddopia −77%
+
+103
+4
+7
+
+• Updates for Bluetile and BestPlay are
+covered on the next slide
+
+Q2FY27
+
+■ Fusebox ■ Wildworks
+
+■ Others
+
+• Kiddopia revenue grew 21% YoY as
+subscribers rose 5% and ARPU rose 8%
+to $7.94. EBITDA declined as Kiddopia
+stepped up user acquisition spend to
+accelerate subscriber growth, while
+keeping unit economics within our
+target thresholds
+
+■ Kiddopia
+
+1. Bluetile and BestPlay are consolidated from 01-Aug-26. Q2FY27 therefore includes two months of their results (Aug-26 and Sep-26)
+2. Others includes CATS + King of Thieves, WCC + UTP and Nazara Telco
+
+12
+
+
+Mobile Gaming: Bluetile and BestPlay Grew Revenue 49% and EBITDA 64% YoY
+All figures in INR Crores
+
+Gross revenue
+
+EBITDA
+
++49%
+
+BestPlay scaling
+• High-velocity app iteration: Continuous, rapid-cadence updates to onboarding,
+core features, and live events drove immediate revenue uplifts of +5% to +10%
+per key initiative.
+• Global market expansion: Scaled footprint into new international territories,
+anchored by strong adoption in new countries.
+
++64%
+
+329
+
+222
+
+64
+
+Marketing efficiency
+• Automated & profitable UA: Sharpened EBITDA focus while fully automating
+campaign management, App Store Optimisation, and creative pipelines via AI.
+• Portfolio cross-promotion: Activated internal traffic routing to funnel high-LTV
+users between portfolio titles and BestPlay.
+
+39
+
+AI transformation
+• Strategic capital allocation: Heavily reallocated capacity across all departments
+following proprietary AI breakthroughs.
+• 90% automation target: Building core systems to automate 90% of operations and
+compress release cycles from months down to days.
+
+Aug–Sep-25
+
+Aug–Sep-26
+
+Aug–Sep-25
+
+Aug–Sep-26
+
+Team synergy
+• Top-tier executive hiring: Scaled key leadership across Product, Data, Marketing,
+and hired a Head of AdMon to build and lead the Group’s AdMon CoE.
+• Group-wide synergies: Reallocated senior bandwidth to drive high-priority group
+initiatives, technology transfers, and operational alignment across Nazara.
+
+13
+
+
+Mobile Gaming: New Content Launches Provide Growth Momentum
+
+Narrative
+Gaming
+
+New game
+Traitors launched;
+Opened with 4.9 and
+4.6 iOS and Android
+ratings respectively
+
+New season
+Big Brother: House of
+Temptation, from 01Sep-26
+
+New ranking
+Love Island was the
+#1 free game in the
+Role-Playing
+category on the US
+App Store in Jul-26
+
+Animal Jam
+
+New event
+Mythical Jam live
+tournament
+
+New IP Partnership
+season
+Monster Highthemed season
+
+New pet
+Indian Giant Squirrel
+bundle
+
+App of the Day
+App Store US,
+Australia and New
+Zealand
+
+Webby nominee
+2026 Annual Webby
+Awards
+
+Kiddopia
+
+223,075
+
+$7.94
+
+iOS subscribers
++5% YoY
+
+Avg. ARPU
++8% YoY
+
+14
+
+

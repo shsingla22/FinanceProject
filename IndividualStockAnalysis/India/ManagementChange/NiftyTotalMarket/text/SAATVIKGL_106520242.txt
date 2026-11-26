@@ -1,0 +1,1794 @@
+Ref.: SGEL/SE/2025-26/57
+
+February 04, 2026
+
+To,
+Listing Department
+BSE Limited
+Phiroze Jeejeebhoy Towers, Dalal Street
+Mumbai – 400001
+
+To,
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G, Bandra Kurla
+Complex Bandra (E), Mumbai – 400 051
+
+Scrip Code: 544526
+
+Symbol: SAATVIKGL
+
+Sub.: Sustainability Report for the financial year 2024-25
+Dear Sir/Madam,
+Please find enclosed herewith the Sustainability Report for the FY 2024-25. The same is also being
+hosted on the Company’s website at i.e., https://saatvikgroup.com.
+You are requested to kindly take the above information on your record.
+Thanking you,
+For Saatvik Green Energy Limited
+(Formerly known as Saatvik Green Energy Private Limited)
+signed by
+BHAGYA Digitally
+BHAGYA HASIJA
+2026.02.04
+HASIJA Date:
+18:49:28 +05'30'
+
+Bhagya Hasija
+Company Secretary & Compliance Officer
+Encl.: a/a
+
+Saatvik Green Energy Limited
+
+(formerly known as Saatvik Green Energy Private Limited)
+(a Saatvik Group Company)
+
+Corporate Office: Tower A, IFFCO Complex, Plot No. 3, Institutional Area, Sector 32, Gurugram, Haryana- 122001,
+Tel.: 1800-547-1151 | W.: www.saatvikgroup.com | E.: info@saatvikgroup.com| CIN: L40106HR2015PLC075578
+Registered Office: Village Dubli, V.P.O. Bihta, Tehsil Ambala, Haryana- 133101, India
+
+
+Powering
+Progress
+
+GROWING TOGETHER FOR
+A GREENER FUTURE
+
+SUStainability REPORT
+
+FY 2024-25
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Table of
+Contents
+04
+
+Reporting Approach
+About the report
+
+21
+
+Our Governance Framework
+
+08
+
+Message from the desk of
+
+22
+
+Business Ethics & Transparency
+
+Chief Executive Officer
+
+23
+
+Strengthening Cybersecurity
+
+Message from Chief Financial
+Officer
+
+12
+
+24
+
+Key Highlights for FY 24-25
+
+Corporate Overview
+14
+
+About Saatvik
+
+15
+
+Vision and Mission
+
+15
+
+What We Do
+
+17
+
+Industry Collaborations and
+
+32
+
+Memberships
+17
+18
+
+Corporate Governance
+
+04
+
+10
+
+14
+
+20
+
+Awards and Accolades
+
+Saatvik’s Sustainability Journey
+19
+
+Stakeholder Engagement
+
+19
+
+Material Issues and Relevant
+SDGs
+
+Pioneering our environmental responsibility
+25
+
+GHG Emissions
+
+27
+
+Energy Management
+
+28
+
+Water Management
+
+29
+
+Waste Management
+
+People at the Core
+33
+
+Our Workforce
+
+36
+
+Employee Wellbeing
+
+39
+
+Human Rights
+
+41
+
+Corporate Social Responsibility
+
+48
+
+Occupational Health & Safety
+
+56
+
+Our Path Forward
+
+58
+
+GRI Content Index
+
+60
+
+BRSR and SDG Mapping
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+About the
+report
+
+This sustainability report reflects our unwavering
+
+Saatvik’s sustainability reporting covers all key entities
+
+commitment to impactful sustainability practices
+
+within its operational scope:
+
+and furthering our push towards a low carbon
+
+◆ Saatvik Green Energy Limited
+
+economy. Our report has been developed on the
+
+◆ Saatvik Solar Industries Private Limited
+
+theme ‘Powering Progress: Growing together for a
+Saatvik Group, herein after referred to as “we,” “us,” “our Company,” or “Saatvik,” is a
+pioneering force in the field of clean and high quality solar energy solutions. We are proud
+to introduce our first Sustainability Report which marks a defining milestone in our ESG
+journey and demonstrates how sustainability principles are integrated into our strategy,
+operations, and stakeholder value creation. This report marks a significant milestone in
+our ongoing commitment towards sustainability. Moving forward, we are committed
+to publishing our sustainability report annually, with each report serving to deepen
+our disclosures and further elevate our sustainability performance. It will also ensure
+transparency, continuous improvement, and accountability to our stakeholders.
+
+greener future’, symbolizing our long-term vision of
+
+The reporting boundary is based on the operational
+
+sustainable growth driven by collaboration, innovation,
+
+control approach, ensuring that all data and
+
+and responsibility..
+
+disclosures reflect activities where Saatvik has direct
+management control. This comprehensive reporting
+
+The Report has been prepared to communicate
+
+approach ensures that the report reflects the full
+
+Saatvik’s environmental, social, and governance (ESG)
+
+spectrum of our activities and impact across the
+
+performance risks, opportunities and future roadmap
+
+renewable energy value chain.
+
+in a structured and measurable manner. It also aims
+to align Saatvik’s sustainability journey with India’s
+
+Currently, supply chain operations and assets under
+
+national goals under the SEBI BRSR framework, the
+
+construction are excluded from the reporting
+
+National Guidelines on Responsible Business Conduct
+
+boundary. However, we plan to progressively include
+
+(NGRBC), and the UN Sustainable Development Goals
+
+our value chain partners, suppliers, logistics, and
+
+(SDGs).
+
+product end-of-life data in future reports to provide a
+more holistic view of our sustainability performance.
+
+Saatvik has reported with reference to the Global
+Reporting Initiative (GRI) Standards 2021 and in
+
+All data presented in this Report has been validated
+
+alignment with the Business Responsibility and
+
+internally by Saatvik’s sustainability team and relevant
+
+Sustainability Report (BRSR) and United Nations
+
+department heads through multi-level review to
+
+Sustainable Development Goals (SDG) frameworks.
+
+ensure accuracy and consistency.
+
+The reporting period is from 1 April 2024 to 31 March
+2025. The Universal Standards and Topic Standards
+detailed in the GRI 2021 Standards were considered
+while preparing this Report. Our reporting approach
+aligns with the disclosure requirements of these
+reporting frameworks and ensures accurate and
+transparent reporting of sustainability performance
+and impacts.
+Saatvik reports “with reference to” the GRI
+Standards for FY 2024–25, as this inaugural report
+focuses on building data maturity and disclosure
+completeness. In future reports, we aim to transition
+to “in accordance with” GRI and adopt India’s BRSR
+framework.
+
+05
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+The topics and disclosures covered in this Report are
+
+Since this is Saatvik’s inaugural report, there is no
+
+guided by Saatvik’s preliminary materiality analysis,
+
+significant changes or restatements of information
+
+which identifies the ESG issues most significant
+
+have been made. However, should any adjustments
+
+to our business and stakeholders. These topics will
+
+or revisions be necessary in the future, they will be
+
+be revisited through a formal double-materiality
+
+reflected in subsequent reports.
+
+assessment in subsequent reporting cycles to align
+with evolving stakeholder expectations and global
+sustainability norms.
+
+Forward-Looking Statement
+This report contains forward-looking statements
+
+We encourage stakeholders to consider that actual
+
+regarding potential initiatives and plans that may
+
+outcomes may differ. The Company does not
+
+impact our future operations. While these projections
+
+undertake any obligation to update these forward-
+
+are based on certain assumptions, they are subject to
+
+looking statements after the report’s publication, even
+
+uncertainty. These forward-looking statements include
+
+if events or circumstances change. By sharing our
+
+our aspirations for carbon neutrality, circular economy
+
+goals and initiatives, we are setting a clear foundation
+
+initiatives, renewable energy expansion, and supply
+
+for our future growth. This reflects our commitment to
+
+chain sustainability.
+
+sustainable development, driven by data, action, and
+integrity, and provides a benchmark for measuring the
+progress we aim to achieve.
+
+Feedback and Continuous Improvement
+We place great value on the feedback of our stakeholders and encourage you to share your insights,
+as they are invaluable in refining our practices and enhancing our overall ESG performance. For any
+feedback, questions, or comments on this Report, please email us at: amresh.ray@saatvikgroup.com
+
+06
+
+07
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Message from the desk of
+
+Chief Executive
+Officer
+
+Dear Stakeholders,
+
+workplace. Our safety practices, aligned with SDG 3
+(Good Health and Well-being), go beyond compliance,
+
+It is with immense pride that I present to you Saatvik
+
+they embody our belief that our people are our greatest
+
+Group’s inaugural Sustainability Report, developed
+
+asset.
+
+with reference to the Global Reporting Initiative (GRI)
+Standards. This milestone marks not just a reflection
+
+Transparency and accountability remain central to how
+
+of our Environmental, Social, and Governance (ESG)
+
+we operate. ESG considerations are deeply embedded
+
+performance, but a reaffirmation of our unwavering
+
+into our governance and decision-making structures,
+
+commitment to building a cleaner, greener, and more
+
+guided by Board-level oversight and a dedicated
+
+resilient future.
+
+sustainability leadership team. We continuously
+benchmark ourselves against global standards and
+
+ESG considerations
+are deeply
+embedded into
+our governance
+and decisionmaking structures,
+guided by Boardlevel oversight
+and a dedicated
+sustainability
+leadership team.
+We continuously
+benchmark
+ourselves against
+global standards
+and engage openly
+with stakeholders,
+because building
+trust is just as
+critical as building
+solar capacity.
+08
+
+Since our founding, Saatvik has been driven by a
+
+engage openly with stakeholders, because building
+
+singular vision: to transform the renewable energy
+
+trust is just as critical as building solar capacity.
+
+landscape through high-efficiency solar solutions,
+integrated value chains, and responsible business
+
+Our commitment to social values is equally strong.
+
+practices.
+
+Through our CSR efforts, we have made meaningful
+contributions in education, healthcare, rural
+
+Our operations today extend across India and
+
+development, and clean water access. We believe that
+
+global markets. Anchored by our state-of-the-art
+
+our success must tangibly uplift the lives of those in the
+
+manufacturing facility in Ambala, we are expanding
+
+communities where we operate.
+
+further with new EPC capabilities and our plans for
+an integrated manufacturing hub in Odisha. This
+
+These achievements are grounded in the trust our
+
+expansion underscores our conviction that clean energy
+
+stakeholders place in us, the dedication of our teams,
+
+is vital to inclusive and sustainable development.
+
+and our aspiration to create lasting positive impact.
+As we forge ahead, our guiding principles will be
+
+As India charts its course toward 500 GW of non-fossil
+
+transparency, continuous innovation, and inclusive
+
+capacity by 2030 and a net-zero economy by 2070,
+
+collaboration, all toward realizing our goal of becoming
+
+Saatvik is determined to play a pivotal role in realizing
+
+India’s most trusted and premium solar brand.
+
+India’s energy targets. We continue to invest in clean
+manufacturing practices, energy-efficient technologies,
+
+As we move forward, we remain rooted in humility and
+
+and renewable power sourcing at our manufacturing
+
+continuous learning. I extend my sincere gratitude
+
+facilities to reduce our carbon footprint. Our water
+
+to every employee, partner, shareholder, customer,
+
+stewardship efforts, including advanced treatment
+
+and community member who stands with us on this
+
+systems, water reuse, and process optimization, reflect
+
+journey. Together, we will build not just a successful
+
+our resolve to manage natural resources responsibly
+
+enterprise, but one that embodies resilience, purpose,
+
+and sustainably.
+
+and long-term impact — for people, planet, and
+progress.
+
+The health, safety, and well-being of our people remain
+at the heart of everything we do. Through regular
+
+Prashant Mathur
+
+fire drills, toolbox talks, noise monitoring, emergency
+
+Chief Executive Officer
+
+preparedness exercises, and partnerships with
+
+Saatvik Green Energy Limited
+
+healthcare providers, we ensure a safe and healthy
+
+09
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Dear Stakeholders
+
+Message from
+
+Chief Financial
+Officer
+
+As we continue
+to lead the
+renewable energy
+transformation,
+we are pleased to
+share that Saatvik
+is undertaking a
+major expansion of
+its manufacturing
+infrastructure.
+We are laying the
+groundwork for an
+integrated solar
+cell and module
+production facility in
+Odisha—an initiative
+that represents a
+critical milestone
+in strengthening
+India’s domestic
+solar value chain.
+10
+
+In addition to the operational milestones achieved
+during the reporting period, we took a significant
+
+It is a privilege to share with you Saatvik’s inaugural
+
+step towards fueling our future growth by successfully
+
+Sustainability Report, a milestone that represents
+
+launching our Initial Public Offering (IPO) in
+
+not just a new chapter in our journey, but also a
+
+September 2025. While the IPO falls outside the
+
+deeper integration of sustainability into the heart of
+
+current reporting period, it is the result of the strategic
+
+our financial strategy and decision-making. As Chief
+
+investments and growth initiatives we implemented
+
+Financial Officer, I am proud that for the first time, we
+
+during FY 2024-25. This key milestone positions us
+
+are disclosing a comprehensive set of sustainability
+
+to accelerate our expansion plans and capitalize on
+
+metrics, underscoring our belief that financial strength
+
+new opportunities, enabling Saatvik to enter the next
+
+and environmental and social responsibility are not
+
+phase of its growth journey with greater financial
+
+competing priorities, they are mutually reinforcing
+
+flexibility and market visibility.
+
+pillars of long-term value creation.
+This includes our goal to increase the consumption
+Today, sustainability is far more than an ethical choice
+
+of renewable energy in operations, supported by
+
+— it is a core driver of business performance, risk
+
+initiatives such as the installation of 1600 kW of
+
+resilience, and future growth. My role as CFO is to
+
+rooftop solar capacity at our Ambala manufacturing
+
+ensure that our capital allocation, financial planning,
+
+facility. Furthermore, we have strengthened our
+
+and strategic investments are closely aligned with
+
+waste management practices, ensuring compliance
+
+our ESG ambitions. By embedding sustainability
+
+with India’s waste management rules, with specific
+
+considerations into our financial framework, we are
+
+initiatives in e-waste recycling through authorized
+
+shaping a growth trajectory that not only delivers
+
+vendors and hazardous waste management for used
+
+shareholder value but also advances our mission to
+
+oil and solvents.
+
+accelerate the clean energy transition and contribute
+meaningfully to society.
+
+Looking ahead, we remain committed to prudent
+financial management, strategic investment,
+
+As we continue to lead the renewable energy
+
+regulatory compliances and ESG integration — all
+
+transformation, we are pleased to share that Saatvik is
+
+aimed at creating enduring value for our stakeholders.
+
+undertaking a major expansion of its manufacturing
+
+As we scale new heights in manufacturing, innovation,
+
+infrastructure. We are laying the groundwork for an
+
+and sustainability, our goal is to position Saatvik as
+
+integrated solar cell and module production facility
+
+a global clean energy leader that not only delivers
+
+in Odisha—an initiative that represents a critical
+
+financial returns but also drives transformative change
+
+milestone in strengthening India’s domestic solar
+
+for the planet and the communities we serve.
+
+value chain. This state-of-the-art facility will include a
+cutting-edge 4.8 GW solar cell manufacturing unit,
+
+Thank you for your continued trust and support as we
+
+targeted for completion by FY 2026–27.
+
+build a stronger, more sustainable future together.
+
+In addition, we will build a 4 GW Solar PV module
+
+Abani Jha
+
+manufacturing plant by FY’26, positioning us to not
+
+Chief Financial Officer
+
+only meet but exceed the growing global demand for
+
+Saatvik Green Energy Limited
+
+clean, renewable energy solutions.
+
+11
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Key Highlights
+for FY 24-25
+
+Total Energy consumed from
+
+Avoided CO2 emissions
+
+All manufacturing facilities
+
+Renewable Sources
+
+certified with
+
+2698 GJ
+
+544.75
+tCO2e
+
+Total Training Hours
+
+CSR Spend
+
+11282
+
+Rs
+8,574,570
+
+12
+
+ISO 9001,
+ISO 14001 and
+ISO 45001
+
+Zero
+
+Loss Time Injury (LTI)
+
+13
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Corporate
+Overview
+About Saatvik
+Saatvik Green Energy Limited is a leading Indian renewable energy enterprise committed
+to delivering advanced solar PV modules and comprehensive turnkey solar solutions.
+Established in 2015 in Gurugram, Haryana, our company operates a state-of-the-art
+manufacturing facility in Ambala, Haryana. We are also expanding, with a major integrated
+facility in Odisha. Saatvik Solar Industries Pvt. Ltd, a wholly owned subsidiary of Saatvik
+Green Energy Ltd, is also working further to reinforce our dedication to innovation, quality,
+and sustainable energy solutions.
+
+Vision and Mission
+
+Vision
+
+Mission
+
+Our vision has always been to
+
+Our mission is to be an
+
+embrace change. We, at Saatvik
+
+organization that is known for
+
+have always taken a dynamic
+
+its Quality & Customer Service.
+
+approach to our work. One
+
+We strive to create an ecosystem
+
+of the important moves that
+
+where we nurture Talent and
+
+demonstrate our vision is to
+
+continuously create value for our
+
+provide valuable, single-sourced,
+
+investors, suppliers & employees.
+
+efficient energy solutions
+with enthusiasm, experience,
+
+Saatvik group aims to become
+
+teamwork, and a relentless focus
+
+the most premium Solar PV
+
+on customer satisfaction.
+
+Module brand in India with an
+expansive distribution network
+
+Our corporate vision is to become
+
+and the most technologically
+
+one of the strongest and largest
+
+advanced products available in
+
+Renewable Energy company.
+
+the Indian market.
+
+What We Do
+We manufacture high-efficiency solar PV
+modules—including Mono-PERC, Bifacial and
+N-TOPCon G12R technologies—with a current
+annual production capacity of approximately 3.8
+GW at our Ambala facility, targeting expansion
+to 4.8 GW cells + 4 GW modules in Odisha by
+FY 2026-27.
+We deliver end-to-end EPC (Engineering,
+Procurement & Construction) solar solutions
+for rooftop, ground-mounted and floating solar
+installations across residential, commercial,
+industrial and utility scale applications.
+We also provide specialized solutions such
+as solar DC pumps and on-grid inverters,
+supporting sustainable energy access for
+agriculture and smaller-scale users.
+
+15
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Our Key Strengths
+
+Our Commitment to Sustainability
+Sustainability is at the heart of Saatvik’s identity and business strategy.
+We not only produce renewable energy solutions but also strive to operate responsibly across our value chain—
+reducing carbon footprint, managing waste responsibly, conserving resources, and uplifting local communities.
+Our ongoing sustainability priorities include:
+
+We operate a state-of-the-art
+
+Our expansion plan in Odisha
+
+Our product range is designed
+
+manufacturing facility in Ambala,
+
+(Ganjam district) is designed to
+
+for diverse geographies and
+
+backed by rigorous quality
+
+support India’s “Make in India”
+
+environments, with advanced cell-
+
+testing and certifications—
+
+ambition, with a purpose-built
+
+technologies delivering efficiencies
+
+our module portfolio includes
+
+integrated cell and module
+
+up to 23.5% in N-TOPCon
+
+product warranties up to 12 years
+
+facility located in the Gopalpur
+
+bifacial modules.
+
+and performance warranties
+
+Industrial Park.
+
+Energy-efficient operations and
+
+Circular economy practices
+
+Local community engagement
+
+renewable electricity adoption.
+
+through waste reduction, reuse,
+
+and skill development programs
+
+and responsible end-of-life
+
+around our plants.
+
+management.
+By aligning with India’s renewable energy vision and global ESG standards, Saatvik continues to “Power Progress”
+responsibly, creating lasting value for people, planet, and prosperity.
+
+up to 30 years.
+
+Industry Collaborations
+and Memberships
+
+Our Market & Outlook
+We cater to both domestic and international
+
+Our medium-term growth ambitions include
+
+Saatvik is associated with the following Industry
+
+solar markets, across the full value chain—from
+
+capturing a 7–10% share of the Indian solar-module
+
+bodies:
+
+manufacturing to project delivery. We are committed
+
+market by the end of 2026, powered by our capacity
+
+to expanding our footprint and capturing meaningful
+
+expansion, technology leadership and integrated
+
+share in the fast-growing Indian solar market,
+
+operations.
+
+Great Place to Work®
+Indian Solar Manufacturers
+Association (ISMA)
+
+while scaling global exports and building strategic
+
+Awards and
+Accolades
+Certification (2025–
+2026) - Saatvik Green
+Energy Limited has been
+certified as a Great Place
+
+manufacturing capacity.
+Solar Energy Society of India
+(SESI)
+
+At Saatvik, we are guided by the following core values:
+
+to Work® under the
+Mid-Size Organizations
+category for the period
+April 2025 to April 2026.
+
+Confederation of Indian Industry (CII)
+– Renewable Energy Council
+Quality Assurance
+
+Reliability
+
+Trust: Customer Centric
+
+Our commitment to quality and
+
+With a solid track record and a
+
+Approach
+
+innovation ensures each module
+
+strong presence in the market,
+
+We prioritize customer satisfaction
+
+meets international standards for
+
+Saatvik Solar is trusted by clients
+
+and tailor our solutions to meet
+
+reliability and efficiency.
+
+across India and abroad.
+
+specific project requirements.
+
+16
+
+This recognition reflects
+Saatvik’s commitment
+to creating a positive
+workplace culture and
+
+Federation of Indian Chambers of
+
+employee experience
+
+Commerce & Industry
+
+17
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Saatvik's
+Sustainability
+Journey
+At Saatvik, sustainability is not a separate initiative, it is the foundation of how we think,
+operate, and grow. We believe that long-term business success and environmental
+stewardship go hand in hand, driving both financial value and societal well-being. Guided
+by our purpose of “Powering Progress: Growing Together for a Greener Future,” our
+sustainability journey reflects a deep commitment to responsible growth, innovation, and
+
+Our Approach to Sustainability
+Saatvik’s sustainability framework is built on three strategic pillars:
+
+Environmental Stewardship
+
+Social Responsibility
+
+Governance Excellence
+
+Minimizing our ecological footprint
+
+Empowering people and
+
+Upholding transparency, ethics,
+
+through carbon reduction, energy
+
+communities through safe
+
+and accountability through
+
+efficiency, waste management,
+
+workplaces, inclusive practices, and
+
+strong corporate governance and
+
+and water conservation.
+
+CSR initiatives that improve lives.
+
+stakeholder trust.
+
+These pillars are closely aligned with Saatvik’s mission and with India’s national commitments to the UN
+Sustainable Development Goals (SDGs) and Net Zero by 2070.
+
+transparency.
+
+Stakeholder Engagement
+Since our inception in 2015, Saatvik has evolved from a solar module manufacturer to a fully
+
+Saatvik recognizes that meaningful engagement with
+
+practices with environmental, social, and governance
+
+integrated clean energy solutions provider. This transformation has been accompanied by
+
+stakeholders is essential for shaping its sustainability
+
+objectives.
+
+a structured approach to embed ESG (Environmental, Social, and Governance) principles
+
+priorities and drive continuous improvement. The
+
+across all aspects of our business—from product design and operations to governance and
+
+company maintains open channels of communication
+
+We believe that transparent and continuous dialogue
+
+stakeholder engagement.
+
+with customers, employees, suppliers, investors, local
+
+builds trust, enhances accountability, and ensures that
+
+communities and regulatory bodies to understand
+
+our sustainability initiatives reflect the shared values
+
+their expectations and feedback. Insights from these
+
+and needs of our ecosystem.
+
+interactions guide Saatvik in aligning its business
+
+Material Issues and Relevant SDGs
+Saatvik has identified a set of material topics that represent our most significant economic, environmental,
+and social impacts, and that influence the decisions of our stakeholders. This initial assessment was informed
+by peer benchmarking, alignment with GRI 2021 Standards, and India’s BRSR framework. We have also
+undertaken continuous dialogue and collaborations with our stakeholders to understand the emerging trends
+and stakeholder interests responsibly. The following topics, grouped under the three sustainability pillars, were
+deemed to be material to Saatvik by closely examining several internal and external factors:
+Environmental Stewardship
+
+Social Responsibility
+
+Governance Excellence
+
+The outcome of this analysis enables Saatvik to focus
+
+assessment in alignment with GRI 2021 and ESRS
+
+resources on the most critical ESG issues, measure
+
+(European Sustainability Reporting Standards), which
+
+performance effectively, and communicate progress
+
+will identify both impact materiality (external effects)
+
+through credible data and stories. In the next phase,
+
+and financial materiality (risks to the business).
+
+Saatvik will conduct a formal double-materiality
+
+19
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Corporate
+Governance
+
+Our Governance Framework
+Saatvik’s governance framework is designed to
+
+woman Independent Director), ensuring compliance
+
+uphold the highest standards of transparency and
+
+with all SEBI regulations and diversity principles.
+
+accountability while promoting sustainable growth.
+
+Saatvik presently does not have any board member
+
+The Board of Directors provides strategic oversight on
+
+representing minority or vulnerable groups.
+
+financial, operational, and ESG matters, supported by
+Strong corporate governance lies at the heart of Saatvik’s success and long-term resilience. It
+provides the foundation for ethical leadership, responsible decision-making, and transparent
+stakeholder relationships. Our governance philosophy is built on the principles of integrity,
+accountability, fairness, and sustainability, ensuring that every business decision contributes
+to long-term stakeholder value and societal good.
+
+well-defined policies and structured committees.
+
+To oversee ESG activities across Saatvik operations,
+Board shall constitute an ESG Council in FY 2025-26.
+
+The Board of Directors comprises of 6 members,
+including 2 Executive Directors, 1 Non-Executive
+
+To strengthen oversight and decision-making, the
+
+Director, and 3 Independent Directors (with one-
+
+Board has constituted several committees, like:
+
+At Saatvik, we view good governance not merely as a regulatory obligation, but as a strategic
+
+Audit Committee
+
+differentiator that drives trust, innovation, and ESG excellence.
+
+Oversees financial reporting integrity, internal controls, and statutory compliance.
+
+Through a robust governance framework, we continuously strengthen oversight, risk
+
+Nomination and Remuneration Committee
+
+management, and sustainability integration across our operations and value chain.
+
+Ensures merit-based selection, diversity, and performance-linked executive compensation.
+
+Stakeholders’ Relationship Committee
+Addresses stakeholder grievances and fosters transparent communication.
+
+Corporate Social Responsibility Committee
+Guides community-development initiatives and social investments.
+
+Risk Management Committee
+Identifies and mitigates key operational, financial, and ESG risks.
+
+These committees play a pivotal role in monitoring financial integrity, risk management, stakeholder
+engagement, and sustainability initiatives. The tenure of Board members is 5 years, and the Chairperson also
+serves as the Managing Director, with robust mechanisms in place to prevent conflicts of interest.
+
+Ratio of the annual total compensation for the organization’s highest-paid individual to the median
+annual total compensation for all employees is 55.27
+
+21
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Governance Practices and Policies
+
+Approach to Tax
+
+Our tax strategy is built upon the principles of
+
+Saatvik’s governance practices are anchored in policies that ensure ethical conduct, compliance, and
+
+At Saatvik, we are committed to good tax practices
+
+integrity and compliance. We diligently observe all
+
+transparency across all functions.
+
+and ensure that all tax compliance and regulatory
+
+applicable laws, rules, and regulations ensuring that
+
+requirements are fulfilled in a timely manner.
+
+our tax compliance requirements are met in a timely
+
+Our vision is to deliver sustainable value to our
+
+manner. We strive to maintain our reputation as a
+
+stakeholders through tax strategy implementation.
+
+fair contributor to the economy, where tax forms a
+
+We stand by our commitment to delivering high
+
+significant part of that contribution. Our proactive
+
+standards of business practices. We look at tax
+
+engagement with tax authorities is aimed at
+
+compliance as a moral responsibility to society rather
+
+minimising disputes and achieving early agreement
+
+than a legal mandate.
+
+on any disputed issues.
+
+Key policies include
+
+Code of Conduct and
+
+Whistleblower Policy
+
+Conflict of Interest
+
+Anti-Bribery and
+
+Ethics Policy – guides
+
+(Vigil Mechanism) –
+
+Policy – ensures
+
+Corruption Policy –
+
+directors and employees
+
+provides a secure and
+
+transparent disclosures
+
+promotes zero tolerance
+
+on ethical standards and
+
+confidential channel
+
+of potential conflicts.
+
+for unethical practices
+
+professional integrity.
+
+for employees to report
+
+in all operations and
+
+misconduct without fear
+
+dealings.
+
+of retaliation.
+
+ESG Policy
+Saatvik’s ESG Policy formalizes our commitment to integrate sustainability into governance structures and strategic
+planning. ESG performance is reviewed by the ESG Council quarterly and reported to the Board biannually.
+Key elements of ESG governance include:
+
+Insider Trading
+
+Information Security
+
+ESG Policy –
+
+Policy – ensures fair
+
+and Cybersecurity
+
+integrates sustainability
+
+disclosure and trading
+
+Policy – protects digital
+
+considerations into
+
+Board Oversight –
+
+Management
+
+Transparency and
+
+Stakeholder
+
+in compliance with SEBI
+
+assets, customer data,
+
+corporate governance
+
+Board and ESG Council
+
+Accountability –
+
+Disclosure – ESG data is
+
+Engagement –
+
+regulations.
+
+and intellectual property.
+
+and operational
+
+review progress against
+
+Departmental heads
+
+collected and validated
+
+Feedback from
+
+practices.
+
+environmental, social,
+
+own specific ESG KPIs
+
+centrally to ensure
+
+investors, employees,
+
+and governance targets.
+
+linked to operational
+
+accuracy in reporting.
+
+and customers informs
+
+Our governance culture is strengthened by an internal control framework that includes periodic management
+reviews, external audits, and ISO-certified integrated management systems.
+
+Business Ethics & Transparency
+Saatvik is committed to conducting business with
+
+In FY 2024–25, no incidents of corruption, anti-
+
+integrity and fairness. We maintain a zero-tolerance
+
+competitive behavior, or customer-privacy breaches
+
+stance on bribery, corruption, and unethical behavior
+
+were reported. To ensure continual improvement, we
+
+across all tiers of our organization and supply
+
+conduct periodic training sessions on anti-bribery
+
+chain. Our policies emphasize compliance with all
+
+compliance, ethical leadership, and responsible
+
+applicable laws, anti-bribery measures, and ethical
+
+procurement practices.
+
+practices across all our operations. As we strengthen
+our policy implementation, 26% of our suppliers have
+
+Signing off of Supplier Code of Conduct, Supplier
+
+signed an undertaking and agreed to comply with
+
+assessments and audits will be progressively
+
+our Supplier Code of Conduct.
+
+expanded from FY 2025–26 onwards as part of
+Saatvik’s Responsible Sourcing Program.
+
+performance.
+
+future ESG strategy
+refinements.
+
+This structure ensures that sustainability is not a parallel function but an integrated component of Saatvik’s core
+governance framework, influencing investment decisions, risk management, and long-term planning.
+
+Strengthening Cybersecurity
+In the digital era, data security is a key component
+
+complaints were recorded during the year, supported
+
+of corporate governance. At Saatvik, we follow a
+
+by proactive monitoring and robust security
+
+structured approach to protect information assets,
+
+protocols.
+
+mitigate cyber risks, and ensure business continuity.
+We conduct internal audits and management
+
+Looking ahead, Saatvik plans to adopt advanced
+
+reviews annually, complemented by monthly security
+
+cybersecurity frameworks, obtaining ISO 27001
+
+incident reviews. In FY 2024-25, 98 employees
+
+certification by 2027 and expand employee training
+
+received cybersecurity training, and at least 50
+
+programs to maintain resilience against evolving
+
+employees were trained on IT security awareness
+
+threats.
+
+during induction. No data breaches or privacy
+
+22
+
+23
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+Pioneering our
+environmental
+responsibility
+
+Our business model naturally supports low-carbon
+
+17368.20
+
+tCO2e
+Scope 1 and Scope 2 Emissions
+
+development, but we recognize that growth brings new
+environmental challenges. We are therefore committed
+to proactively managing our environmental footprint
+through resource efficiency, carbon management, and
+circular economy practices that go beyond compliance.
+
+0.66 tonnes of used oil
+diverted from disposal
+
+All operational sites are certified to ISO 14001:2015
+
+At Saatvik, environmental responsibility is at the heart of how we operate and
+grow. We believe that sustainable manufacturing and renewable innovation can
+coexist with ecological preservation. Our approach is rooted in the principle
+of “growth with care”, ensuring that every watt of solar energy we produce
+contributes to a cleaner, more resilient planet.
+
+(Environmental Management System) ensuring
+systematic monitoring of environmental performance.
+
+350 KLD Rainwater
+
+Our endeavours for environmental stewardship
+
+Harvesting Facility
+
+includes Climate Action & GHG Reduction, Energy
+Efficiency & Renewable Integration, Water Stewardship
+& Circular Use and Waste & Resource Management.
+
+40 KLD Water Treatment
+
+Additionally, we source materials only from conflict-
+
+Facility
+
+free, recycled, or certified suppliers aligning to our
+supplier Code of Conduct.
+
+SDGs Impacted
+
+GHG Emissions
+Managing GHG emissions is very important to
+
+used in our operations. Our present year’s emissions
+
+measure and monitor emissions effectively. Our team
+
+are listed in the table here, this will help us in
+
+collects relevant data from each plant, which is then
+
+undertaking targeted decarbonization measures.
+
+consolidated on a monthly basis by the sustainability
+team at headquarter. Our data covers all facilities
+
+Particulars
+
+UoM
+
+under the operational control boundary. We have
+
+Scope 1
+
+tCO2e
+
+204.21
+
+followed the Greenhouse Gas (GHG) Protocol, while
+
+Emissions
+
+calculating our emissions ensuring accuracy and
+
+Scope 2
+
+tCO2e
+
+17164.00
+
+transparency in reporting. We have quantified our
+
+Emissions
+Total S1+ S2 Emission
+
+tCO2e
+
+17368.20
+
+GHG Intensity (MW of
+
+tCO2e/MW
+
+Scope 1 and Scope 2 emissions. Scope 1 includes
+emissions from our directly owned facilities, while
+Scope 2 covers emissions from purchased electricity
+
+FY 2024-25
+
+12.51
+
+energy produced)
+
+25
+
+
+Powering Progress
+
+GROWING TOGETHER FOR A GREENER FUTURE
+
+We are actively promoting cleaner transportation
+
+Energy Management
+
+options for our employees as part of our sustainability
+efforts. This includes providing a company bus
+
+Saatvik is committed towards continuously
+
+Our energy consumptions from all our resources for
+
+service and encouraging carpooling. This helps
+
+optimizing its energy consumption throughout our
+
+the current Financial year is reported below.
+
+Saatvik in reducing our emissions from employee
+
+operations. By implementing advanced energy-
+
+commute. We have also distributed 6 electric
+
+efficient technologies and practices, we aim to
+
+scooters among our employees to reduce vehicular
+
+reduce energy usage, lower operational costs, and
+
+emissions. Additionally, we have also installed 2 EV
+
+minimize our environmental impact. Our approach
+
+charging points at our plants to support the use of
+
+involves investing in high-efficiency equipment,
+
+electric vehicle and encourage employees towards
+
+regularly optimizing processes, and integrating
+
+transitioning to electric vehicles.
+
+renewable energy solutions. These efforts are
+
+We conduct third-party verification of stack
+
+Particulars
+
+UoM
+
+FY 2024-25
+
+Energy from
+
+GJ
+
+1,996.00
+
+Energy from Electricity (Grid)
+
+GJ
+
+84,994.00
+
+Energy from Electricity (RE)
+
+GJ
+
+2,697.54
+
+designed to enhance operational performance while
+
+Total Energy Consumed
+
+GJ
+
+89,687.52
+
+contributing to our broader sustainability objectives.
+
+Energy Intensity
+
+GJ/MW
+
+Non-Renewable Fuel
+
+64.61
+
+(MW of energy produced)
+
+emissions of our DG sets and ensure full compliance
+with the Central Pollution Control Board (CPCB) and
+State Pollution Control Board (SPCB) norms. These
+measures are part of our broader commitment to
+
+Some of the leading initiatives undertaken are:
+
+reducing our environmental impact and improving
+operational efficiency. Saatvik is also planning to
+conduct inventory of its Scope 3 Emissions by FY
+Tree plantation
+
+2028, which will help determine the complete
+emissions inventory of our organization.
+
+Installation of 1600 kW of
+
+Use of energy-efficient
+
+Optimization of power
+
+rooftop solar capacity for on-site
+
+equipment, including IE3-
+
+consumption through an auto
+
+renewable energy generation.
+
+rated motors, air compressors,
+
+power factor correction system.
+
+pumps, chillers, lighting,
+and ACs.
+
+Regular monitoring of
+
+Tree plantation initiatives
+
+Process optimization through
+
+emissions from DG sets, with
+
+contributing to carbon
+
+fuel switching, electrification,
+
+third-party verification for
+
+sequestration and reducing
+
+and deployment of energy-
+
+compliance and efficiency.
+
+heat load.
+
+efficient equipment.
+
+Saatvik aims to reduce total energy intensity per Wp of production by 10 % by FY 2027 through continuous
+efficiency measures.
+
+26
+
+27
+
+

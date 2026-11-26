@@ -1,0 +1,501 @@
+ 
+ 
+Firstsource Solutions Ltd  
+1st Floor, Athena Towers, Mindspace Malad, Goregaon (W), Mumbai –  400 063 India  
+Tel: +91 (22) 6666 0888 | Fax: +91 (22) 6666 0887 | Web: www.firstsource.com  
+  
+                                                      (CIN: L64202MH2001PLC134147 ) 
+ 
+ 
+14th July 2026  
+ 
+To: 
+ 
+National Stock Exchange of India Limited  
+(Scrip Code: FSL)  
+Exchange Plaza,  Plot no. C/1, G Block, 
+Bandra-Kurla Complex 
+Bandra (East), 
+Mumbai - 400 051   
+BSE Limited  
+(Scrip Code: 532809)  
+Phiroze Jeejeebhoy Towers, Dalal Street, 
+Mumbai - 400 001 
+ 
+ 
+Dear Madam/ Sir, 
+ 
+Sub: Business Responsibility and Sustainability Reporting FY 2025-26 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, we are submitting herewith 
+the Business Responsibility and Sustainability Report for Financial Year 2025- 26 along 
+with Independent Practitioners’ Limited Assurance Report on the BRSR Core Indicators, 
+provided by Deloitte Haskins & Sells LLP, which also forms part of the Annual Report for 
+Financial Year 2025-26. 
+ You are kindly requested to take the same on record and oblige.
+ 
+ Thanking you, 
+ 
+For Firstsource Solutions Limited 
+ 
+  
+ 
+Pooja Nambiar 
+Company Secretary  
+ Encl: A/a 
+ 
+ 
+ 
+Corporate Overview1   |   Annual Report 2025 - 26
+Statutory Reports Financial ReportsBusiness Responsibility and Sustainability Report
+Section A: General Disclosures
+I.  Details of the listed entity
+1 Corporate Identity Number (CIN) of the Listed Entity L64202MH2001PLC134147
+2 Name of the Listed Entity Firstsource Solutions Limited
+3 Y ear of incorporation December 6, 2001
+4 Registered office address 1st Floor, Athena T owers, Mindspace Malad, Goregaon (W), 
+Mumbai – 400 063 India
+5 Corporate address 1st Floor, Athena T owers, Mindspace Malad, Goregaon (W), 
+Mumbai – 400 063 India
+6 E-mail investor.relations@firstsource .com
+7 T elephone +91 22 6666 0888
+8 Website https://www.firstsource.com/
+9 Financial year for which reporting is being done April 1, 2025 – March 31, 2026
+10 Name of the Stock Exchange(s) where shares are listed • BSE Limited
+• National Stock Exchange of India Limited (NSE)
+11 Paid-up Capital ` 6,969.91 million
+12 Name and contact details (telephone, email address) of the person 
+who may be contacted in case of any queries on the BRSR reportName: Ms Shamita Mukherjee
+Designation: Chief Human Resource Officer (CHRO)
+E-mail id: investor.relations@firstsource.com
+Contact: +91 22 6666 0888
+13 Reporting boundary - Are the disclosures under this report made on a 
+standalone basis (i.e. only for the entity) or on a consolidated basis (i.e. 
+for the entity and all the entities which form a part of its consolidated 
+financial statements, taken together)The disclosures contained in this Business Responsibility and 
+Sustainability Report (BRSR) are presented on a consolidated 
+basis and encompass Firstsource Solutions Limited and all 
+entities included in its consolidated financial statements for FY 
+2025–26. The report covers operations across all geographies in 
+which the Group has presence, including India, the United States, 
+the United Kingdom, the Philippines, Mexico, Australia, South 
+Africa, Romania, Trinidad & T obago, and the United Arab Emirates. 
+Unless otherwise specified, all quantitative and qualitative 
+disclosures reflect consolidated performance and data for the 
+Group as a whole. 
+FY 2025–26 marks the first year in which the BRSR disclosures 
+have been prepared on a consolidated basis. Accordingly, certain 
+disclosures may not be directly comparable with FY 2024–25, as 
+the previous year's BRSR was prepared on a standalone basis and 
+reflected data pertaining only to Firstsource Solutions Limited. 
+Any material limitations to year-on-year comparability arising from 
+this change in reporting boundary should be considered while 
+interpreting performance trends and metrics.
+14 Name of assessment or assurance provider Deloitte Haskins & Sells LLP
+15 Type of assessment or assurance obtained BRSR Core KPI's - Limited Assurance
+II.  Products/services
+16.  Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.Description of Main Activity Description of Business Activity% of Turnover of 
+the entity
+1 BPS services (NIC Code: 63999) T o provide IT enabled BPS services to Banking and Financial services, 
+Healthcare, Communication Media and T echnology and Other Diverse 
+Industries.100.00%
+17.  Products/Services sold by the entity (accounting for 90% of the entity's Turnover):
+Sr. 
+No.Product/Service NIC Code% of total Turnover 
+contributed
+1 Healthcare 63999 33.40%
+2 Banking, Financial Services 63999 32.40%
+3 Communication Media & technology 63999 21.20%
+4 Other Diverse Industries 63999 13.00%
+Firstsource Solutions Limited   |   2   III.  Operations
+18.  Number of locations where plants and/or operations/offices of the entity are situated:
+Locations Number of plants Number of offices To t a l
+National 0 20 20
+International 0 37 37
+19.  Markets served by the entity:
+a.  Number of locations
+Locations Number
+National (No. of States) 8
+International (No. of Countries) 9
+Note : These are operational locations as on 31st March 2026
+b.  What is the contribution of exports as a percentage of the total turnover of the entity?
+ 99.74%
+c.  A brief on types of customers
+ Firstsource assists customers in reimagining business processes and enhancing efficiency through digital interventions and 
+solutions in the banking and financial services, healthcare, communications, media & technology, and other diverse industries. 
+Firstsource's customers represent a wide range of industry sectors across the world. Firstsource serves more than 150 
+clients, including Fortune 500 and FTSE 100 companies across diversified sectors
+IV .  Employees
+20.  Details as at the end of Financial Y ear:
+a.  Employees and workers (including differently abled):
+Sr. 
+No.Particulars T otal (A)Male Female Others
+No. (B) % (B/ A) No. (C) %(C/ A) No. (E) % (E/ A)
+EMPLOYEES
+1 Permanent (D) 8292 4938 59.55% 3350 40.40% 4 0.05%
+2 Other than Permanent (E) 17 7 41.18% 10 58.82% 0 0
+3 T otal employees (D + E) 8309 4945 59.51% 3360 40.44% 4 0.05%
+WORKERS
+4 Permanent (F) 25300 12436 49.15% 12816 50.66% 48 0.19%
+5 Other than Permanent (G) 2596 1197 46.11% 1399 53.89% 0 0
+6 T otal workers (F + G) 27896 13633 48.87% 14215 50.96% 48 0.17%
+b.  Differently abled Employees and workers:
+Sr. 
+No.Particulars T otal (A)Male Female Others
+No. (B) % (B/ A) No. (C) %(C/ A) No. (D) %(D/ A)
+DIFFERENTL Y ABLED EMPLOYEES
+1 Permanent (D) 78 36 46.15% 42 53.85% 0 0
+2 Other than Permanent (E) 0 0 0.00% 0 0.00% 0 0
+3 T otal differently abled employees (D + E) 78 36 46.15% 42 53.85% 0 0
+DIFFERENTL Y ABLED WORKERS
+4 Permanent (F) 300 92 30.67% 202 67.33% 6 2.0%
+5 Other than Permanent (G) 8 3 37.50% 5 62.50% 0 0
+6 T otal differently abled workers (F + G) 308 95 30.84% 207 67.21% 6 1.95%
+21.  Participation/Inclusion/Representation of women
+T otal (A)No. and percentage of 
+Females
+No. (B) % (B/ A)
+Board of Directors 11* 2 18.18%
+Key Management Personnel 3 1 33.33%
+Note:  *Mr Sunil Mitra, Independent Director, passed away in January 12, 2026 and has therefore not been included in the reported count as of the reporting date. 
+Mr Paras Kumar Chowdhary, who was appointed as an Independent Director with effect from March 5, 2026 has been included in the count. 
+Accordingly, the disclosure reflects the composition of the Board as at the end of the reporting period.
+Corporate Overview3   |   Annual Report 2025 - 26
+Statutory Reports Financial Reports22.  Turnover rate for permanent employees and workers (Disclose trends for the past 3 years)
+FY 2025-26  
+(Turnover rate in current FY)FY 2024-25  
+(Turnover rate in previous FY)FY 2023-24  
+(Turnover rate in the year prior to 
+the previous FY)
+Male Female To t a l Male Female To t a l Male Female To t a l
+Permanent employees 18.39% 17.37% 17.99% 16.68% 18.98% 17.46% 15.71% 20.16% 17.00%
+Permanent workers 35.62% 34.18% 34.92% 33.30% 31.17% 32.49% 36.50% 39.12% 37.51%
+Note: 
+1. The turnover excludes ‘less than 180 days’ and ‘ramp-down turnover’.
+2. All categories, such as permanent, part-timers, etc. have been included in the employee and worker category.
+V .  Holding, Subsidiary and Associate Companies (including joint ventures)
+23.  (a)  Names of holding / subsidiary / associate companies / joint ventures
+Sr. 
+No.Name of the holding/subsidiary/associate 
+companies/joint ventures (A)Indicate whether 
+holding/ Subsidiary/ 
+Associate/ Joint 
+Venture% Of shares held by 
+listed entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed entity? 
+(Y es/No)
+1 RPSG Ventures Limited Holding 53.66% Ye s
+2 Firstsource Process Management Services Limited Subsidiary 100.00% Ye s
+3Firstsource Provider Services Private Limited 
+(Formally Known as Quintessence Business Solutions 
+& Services Private Limited)Subsidiary100.00% Ye s
+4 Accunai India Services Private Limited Subsidiary 100.00% Ye s
+5 Firstsource Solutions UK Limited UK Subsidiary 100.00% Ye s
+6 Firstsource Solutions S. A. Argentina Subsidiary 99.98% Ye s
+7 Firstsource B.P .O. Ireland Ltd. Ireland Subsidiary 100.00% Ye s
+8 Firstsource - Dialog Solutions Pvt. Ltd. Sri Lanka Subsidiary 74.00% Ye s
+9 Firstsource Group USA Inc. USA Subsidiary 100.00% Ye s
+10 Firstsource Business Process Services LLC USA Subsidiary 100.00% Ye s
+11 Firstsource Advantage LLC USA Subsidiary 100.00% Ye s
+12 One Advantage LLC USA Subsidiary 100.00% Ye s
+13 MedAssist Holding LLC USA Subsidiary 100.00% Ye s
+14 Firstsource Solutions USA LLC USA Subsidiary 100.00% Ye s
+15Firstsource Health Plans and Healthcare Services 
+LLCSubsidiary100.00% Ye s
+16 Sourcepoint Inc. Subsidiary 100.00% Ye s
+17 Sourcepoint Fulfillment Services Inc. Subsidiary 100.00% Ye s
+18 PatientMatters LLC Subsidiary 100.00% Ye s
+19 Medical Advocacy Services For Healthcare INC. Subsidiary 100.00% Ye s
+20 Karmer T echnologies LLC Subsidiary 100.00% Ye s
+21 The StoneHill Group Inc. Subsidiary 100.00% Ye s
+22 American Recovery Service Incorporated Subsidiary 100.00% Ye s
+23 Firstsource Solutions México S. de R.L. de C. V Subsidiary 100.00% Ye s
+24 Firstource Solutions Jamaica Limited Subsidiary 100.00% Ye s
+25 Firstsource BPO South Africa (Pty) Ltd. Subsidiary 100.00% Ye s
+26 Firstsource Solutions Australia Pty Limited Subsidiary 100.00% Ye s
+27 Quintessence Health LLC Subsidiary 100.00% Ye s
+28 Ascensos Limited UK Subsidiary 100.00% Ye s
+29 Ascensos South Africa (RF) (PTY) Ltd Subsidiary 100.00% Ye s
+30 Ascensos Trinidad Limited Subsidiary 100.00% Ye s
+31 Ascensos Contact Centres Romania SRL Subsidiary 100.00% Ye s
+32 Firstsource Solutions Limited Colombia S.A.S Subsidiary 100.00% Ye s
+33 Pastdue Credit Solutions Limited Subsidiary 100.00% —
+34 Firstsource Middle East Services LLC Subsidiary 100.00% Ye s
+35 Jaye Inc. d/b/a T eleMedik Subsidiary 100.00% Ye s
+36 Firstsource Solutions Canada Inc Subsidiary 100.00% Ye s
+37 Nanobi Data and Analytics Private Limited Associate 22.93% —
+Firstsource Solutions Limited   |   4   VI.  CSR Details
+24.   (i)  Whether CSR is applicable as per section 135 of Companies Act, 2013: Y es
+(ii)  T urnover (in `): 23, 121.30 million
+(iii)  Net worth (in `): 25,758.45 million
+VII.  Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+Stakeholder group 
+from whom complaint is 
+receivedGrievance Redressal 
+Mechanism in place (Y es/
+No) (If Y es, then provide 
+web-link for grievance 
+redress policy)FY 2025-26  
+(Current Financial Y ear)FY 2024-25  
+(Previous Financial Y ear)
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities Ye s 0 0 - 0 0 -
+Investors (other than 
+shareholders)Ye s0 0 - 0 0 -
+Shareholders Ye s 75 0 - 52 0 -
+Employees and workers Ye s112 3 Investigation 
+process is 
+underway for 
+open cases241 8 Investigation 
+process is 
+underway for 
+open cases
+Customers Ye s 0 0 - 0 0 -
+Value Chain Partners Ye s 0 0 - 0 0 -
+Other (please specify) Ye s115 3 Investigation 
+process is 
+underway for 
+open cases0 0 -
+Note:  Grievance Redressal Policy – https://www.firstsource.com/sites/default/files/2025-11/Global-Grievance-Redressal-Policy-5.1.pdf
+New subsidiaries (Pastdue Credit Solutions Limited & Jaye Inc. d/b/a T eleMedik) Grievance redressal processes is yet to be 
+integrated with our global policy/process.
+26.  Overview of the entity’s material responsible business conduct issues
+Sr. 
+No.Material issue 
+IdentifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the 
+risk / opportunityIn case of risk, approach to 
+adapt or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+1 Cybersecurity/ 
+Data Privacy Risk &
+OpportunityRisk:
+• Cyberattacks pose a major 
+threat to data safety and 
+privacy protection.
+• Firstsource may suffer 
+due to cyber-attacks/data 
+breach incidents which 
+can harm Firstsource's 
+reputational image.
+Opportunity:
+• By adopting leading 
+information security 
+practices and aligning 
+with global information 
+security standards, we 
+have the opportunity to 
+enhance client trust, gain 
+a competitive edge, and 
+secure long-term business 
+growth.Certifications and Compliance:
+• Operation centers are 
+ISO 27001 certified, with 
+processes certified under 
+HIPAA, HITRUST , and 
+SOC2. Regular audits 
+ensure adherence, with a 
+zero-tolerance policy for 
+non-compliance.
+T echnical Controls and User  
+Security:
+• Deployment of controls 
+at network perimeters, 
+servers, data centers, and 
+end-user computing. End 
+users access systems via 
+a High Secure VPN with 
+Two-Factor Authentication 
+and are protected by EDR, 
+DLP , Encryption, DNS Layer 
+Security, and a Secure Mail 
+Gateway.Negative  
+Costs of Implementation :
+• The financial outlay for 
+maintaining certifications, 
+conducting regular audits, 
+and deploying advanced 
+security technologies can 
+be significant.
+Potential Fines:
+• Non-compliance with 
+security standards can 
+result in substantial fines 
+and penalties.
+Positive Risk Mitigation:
+• Effective security measures 
+reduce the risk of costly 
+data breaches, ransomware 
+attacks, and related 
+financial losses.
+Corporate Overview5   |   Annual Report 2025 - 26
+Statutory Reports Financial ReportsSr. 
+No.Material issue 
+IdentifiedIndicate 
+whether risk 
+or opportunity 
+(R/O)Rationale for identifying the 
+risk / opportunityIn case of risk, approach to 
+adapt or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate positive or negative 
+implications)
+Threat and Vulnerability 
+Management:
+• Proactive detection and 
+mitigation of infrastructure 
+vulnerabilities, 
+complemented by 
+third-party assessments, 
+including vulnerability 
+and penetration tests, 
+web application security 
+assessments, PCI DSS 
+compliance scans, source 
+code reviews, and cloud 
+infrastructure reviews.
+Continuous Monitoring
+• 24/7 monitoring helps 
+reinforce our security 
+posture while preventing, 
+detecting, analyzing, and 
+responding to real-time 
+cybersecurity incidents. 
+Firstsource has deployed 
+EDR /XDR on all the 
+endpoints, servers and 
+cloud and these digital 
+assets are monitored 
+through 24/7 * 365 using 
+MDR services (Managed 
+Detection and threat 
+response service ) using 
+X-Vigil from SentinelOne.
+•  Digital Footprint monitoring 
+is done through Security 
+Scorecard that rates 
+cybersecurity postures of 
+corporate entities through 
+completing scored analysis 
+of cyber t hreat intelligence.Reputation and Trust:
+• Robust security enhances 
+the company's reputation, 
+leading to increased 
+customer trust and 
+potentially higher revenue.
+Operational Efficiency:
+• Proactive threat 
+management and 
+continuous monitoring 
+can prevent disruptions, 
+ensuring stable business 
+operations and avoiding 
+revenue loss.
+2 T echnology Risk 
+s (leveraging 
+AI & emerging 
+tech)Risk In the rapidly evolving business 
+landscape, emerging disruptive 
+technologies are reshaping 
+the dynamics between clients 
+and suppliers. Clients, facing 
+persistent budget constraints, 
+are increasingly inclined to 
+reduce back-office costs, 
+while suppliers are innovating 
+to offer additional services 
+and generate supplementary 
+revenues. T echnologies like 
+Cloud Computing, Artificial 
+Intelligence, Data Analytics 
+software, Social Media 
+platforms, and Process 
+Automation software are 
+revolutionizing the Business 
+Process Services (BPS) 
+industry, empowering 
+businesses to enhance 
+efficiency and lower operational 
+costs. BPS companies are 
+swiftly adapting, leveraging 
+these technologies to 
+provide value-added services 
+through strategic technology 
+enablement, partnerships, and 
+alliances.Digital Solutions Development:
+• Recognizing the 
+importance of digital 
+transformation, the 
+Company has invested 
+in the development of 
+a wide suite of Digital 
+Solutions. These solutions 
+encompass Robotics 
+Process Automation, Digital, 
+and Analytics, aligning with 
+the industry's shift towards 
+automation and data-driven 
+decision-making.
+• As part of its productization 
+strategy, the Company 
+has integrated domain 
+expertise with cutting 
+edge technology to create 
+innovative offerings.
+• By combining industry 
+knowledge with best-
+in-class digital tools, it 
+aims to deliver high-value 
+solutions that address the 
+evolving needs of clients 
+and capitalize on emerging 
+market opportunities.Digital Solutions Development:
+Positive Investing in digital 
+solutions enhances 
+competitiveness and revenue 
+potential. Automation 
+efficiencies lead to long-term 
+cost savings and profitability.
+Negative Initial investment 
+costs may arise but are offset by 
+potential revenue streams and 
+efficiency gains.
+Productization Initiatives:
+Positive Leveraging expertise 
+for specialized offerings boosts 
+customer satisfaction and 
+revenue. Scalable streams 
+lead to improved financial 
+performance.
+Negative Upfront investment in 
+development and marketing is 
+required but yields long-term 
+growth and market positioning 
+benefits.

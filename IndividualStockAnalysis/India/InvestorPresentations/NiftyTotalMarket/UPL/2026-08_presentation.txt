@@ -1,0 +1,694 @@
+
+=== page 1 ===
+UPL Limited , Uniphos House,  
+C.D. Marg, 11th Road, Madhu Park, 
+Khar (West), Mumbai –  400052, 
+India  
+ 
+w: www.upl -ltd.com  
+e: contact@upl -ltd.com  
+t: +91 22 6856 8000  
+ 
+Registered Office: 3- 11, GIDC, Vapi , Valsad - 396 195, Gujarat, India. P +91 260 2432716 CIN: L24219GJ1985PLC025132  
+ August 3, 2026  
+ 
+BSE Limited  
+Mumbai  
+ 
+SCRIP CODE –  512070  National Stock Exchange of India Ltd.  
+Mumbai  
+ SYMBOL: UPL  
+ 
+Sub.: Investor Presentation  for Q1 FY 202 7 
+  
+Dear Sir/Madam,  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we are enclosing the investor presentation for the quarter ended June 30, 2026.  
+ We request you to take the above information on records.  
+ 
+Yours faithfully,  
+For UPL Limited  
+ 
+ 
+Sandeep Deshmukh  
+Company Secretary and  
+Compliance Officer  
+(ACS -10946)  
+Encl.: As above  
+Cc.: 1. London Stock Exchange  
+       2. Singapore Stock Exchange  
+       3. NSE IX  
+=== page 2 ===
+UPL Limited
+Consolidated Financial Results 
+and Business Update 
+Q1FY27
+Investor Presentation
+03rdAugust 2026
+=== page 3 ===
+2This document  contains  certain  forward -looking  statements  with respect  to the financial  condition,  results  of operations  and business  of 
+UPL Limited  (UPL)  and certain  of the plans  and objectives  of UPL with respect  to these  items . Examples  of forward -looking  statements  
+include  statements  made  about  our strategy,  estimates  of sales  growth,  future EBITDA and future  developments  in our organic  business . 
+Forward -looking  statements  can be identified  generally  as those  containing  words  such  as “anticipates”,  “assumes”,  “believes”,  “estimates”,  
+“expects”,  “should”,  “will”,  “will likely  result”,  “forecast”,  “outlook”,  “projects”,  “may”  or similar  expressions . By their  nature,  forward -looking  
+statements  involve  risk and uncertainty  because  they  relate  to future  events  and circumstances  and there  are many  factors  that could  
+cause  actual  results  and developments  to differ  materially  from  those  expressed  or implied  by these  forward -looking  statements . These  
+factors  include,  but are not limited  to, domestic  and global  economic  and business  conditions,  the successful  implementation  of our 
+strategy  and our ability  to realize  the benefits  of this strategy,  our ability  to develop  and market  new products,  changes  in legislation,  legal  
+claims,  changes  in exchange  and interest  rates,  changes  in tax rates,  raw materials  and employee  costs,  our ability  to identify  and 
+complete  successful  acquisitions  and to integrate  those  acquisitions  into our business,  our ability  to successfully  exit certain  businesses  or 
+restructure  our operations,  the rate of technological  changes,  political,  economic  and other  developments  in countries  where  UPL 
+operates,  industry  consolidation  and competition . As a result,  UPL’s  actual  future  results  may differ  materially  from  the plans,  goals  and 
+expectations  set forth  in such  forward -looking  statements . For a discussion  of factors  that could  cause  future  results  to differ  from  such  
+forward -looking  statements,  please  refer  to theRisk Management  Section  of our Annual  Report .Safe Harbor Statement
+=== page 4 ===
+Content
+3Agenda
+I. Financial and Business Segment
+Key Macro Trends for the Quarter 4–5
+II. FY27 Guidance 27–28Q1 Performance Update 6–19
+Performance Dashboard 6–7
+P&L Analysis: Revenue, EBITDA and PATMI 8–13
+Balance Sheet Analysis: Working Capital, Net Debt and Leverage Ratios 14–18
+Platform -wise Q1 Performance Update 20–26Cash Flow Analysis 19
+Group Strategy and ESG 30–31III. Others  (Non -Financial Enablers) 29–35
+Board of Directors and Leadership Team 33–34
+Glossary of Key Terms 35
+=== page 5 ===
+Key Macro Trends for the Quarter
+4UPL Limited | Q1FY27 Update
+▪Ongoing geopolitical volatility and overall macro uncertainties
+▪El Niño impact on planting delays across major regions (e.g., India, Europe)
+▪Commodity prices improving, farm income stress continues across key regions
+▪Strong continued growth in specialty chemicals segment
+▪Stable demand in global crop protection and seeds, driving grower consumption
+▪Stable SOFR rate
+=== page 6 ===
+5UPL Limited Q1FY27 | Key Corporate Updates
+Ratings upgradeRe-organization of crop 
+protection businesses2
+3Advanta IPO1SEBI Approval received on 3rd June 2026 
+CCI Approval received on 2nd June 2026; no adverse observation 
+letter received from BSE and NSE on 29th July; process on track
+CARE Edge has upgraded UPL Ltd. long -term rating to 
+CARE AA+ (Stable)
+ESG index inclusion4UPL maintains FTSE4Good index inclusion with 
+improved ESG Score of 4.4 vs. 4.1 LY
+=== page 7 ===
+6UPL Limited | Margin expansion trend across seven quarters
+Structural improvement in business quality led contribution and EBITDA 
+margin expansion for the seventh consecutive quarter as . . .
+Contribution margin EBITDA margin
+Quarters CY LY Change CY LY Change
+Q1FY27 45.2% 43.4% ▲ 14.7% 14.1% ▲
+Q4FY26 38.6% 38.1% ▲ 21.9%(1)20.8% ▲
+Q3FY26 42.6% 41.0% ▲ 19.8% 19.8% ▲
+Q2FY26 41.9% 37.7% ▲ 18.3% 14.2% ▲
+Q1FY26 43.4% 39.5% ▲ 14.1% 12.6% ▲
+Q4FY25 38.1% 29.4% ▲ 20.8% 13.7% ▲
+Q3FY25 41.0% 27.2% ▲ 19.8% 4.2% ▲
+(1) Not considering one -off group provisions
+=== page 8 ===
+UPL delivers on guidance with further improved gearing; strong performance 
+despite macro headwinds; seventh consecutive quarter of revenue and EBITDA 
+growth; strongest Q1 net income (PATMI) in past three years
+7UPL Limited Q1FY27 | Performance Dashboard Summary
+(1) Calculated on TTM basisV₹10 cr | (₹88 cr) Q1FY26
+₹19 cr | (₹78 cr) Q1FY26PATMI
+Op. PATMIIIContribution
+Margin₹4,607  cr | +15%
+45.2% | +180  bpsIINet Debt
+/ EBITDA(1) 2.4x | 2.6x
+IIIEBITDA
+Margin₹1,500 cr | +15%
+14.7%  | +60 bpsIIINet Debt
+/ Equity(1) 0.6x | 0.6xvs. LY vs. LY
+I Revenue₹10,181  cr | +10%
+V: (3%) | P: + 3% | F: +10%I Net Debt$2,498 Mn | $2,492 Mn
+₹23,649 cr | ₹21,371 crQ1FY27 Q1FY27
+Maintained
+IV PBT (₹109 cr) | (₹190 cr) Q1FY26 IVNWC Days(1)
+NWC (₹)110 Days | 86 Days
+₹15,941 cr | ₹11,025 cr
+=== page 9 ===
+P&L Analysis
+=== page 10 ===
+9Strongest Q1 revenue and EBITDA growth in past four years; continued 
+margin expansion led highest PATMI (up by ~₹100 cr vs. LY) in past three years
+Revenue•V: (3%) | P: +3% | F: +10%
+•Volume decline in crop protection segment; strong 
+growth (vol. pricing) in Advanta and SSC segments
+•Favourable pricing action in key crop protection 
+geographies (e.g., India, Europe)
+•Broad -based growth across regions
+Contribution 
+and margin•Improved capacity utilization, overall pricing
+and favorable portfolio mix
+EBITDA•Strong growth led by higher revenue 
+and margin expansion
+Operational 
+PATMI•Positive, driven by EBITDA growth and supported by 
+lower net finance cost and net exchange differenceUPL Limited Q1FY27 | Performance Summary
+Particulars  (₹ cr) Q1FY26 Q1FY27 Change YoY
+Revenue 9,216 10,181 10%
+Contribution 4,001 4,607 15%
+Contribution Margin (%) 43.4% 45.2% +180 bps
+SG&A 2,698 3,107 15%
+EBITDA 1,303 1,500 15%
+EBITDA Margin (%) 14.1% 14.7% +60 bps
+Other (income) (38) (76) n.m.
+Depreciation & amortization expenses 731 832 14%
+Net exchange difference 178 143 (19%)
+Share of loss/ (profit) from associates and JVs (18) 83 n.m.
+Exceptional items 9 9 flat
+Net finance costs 631 618 (2%)
+PBT (190) (109) n.m.
+Taxation (14) (36) n.m.
+PAT (176) (73) n.m.
+Non-controlling interests (89) (84) n.m.
+PATMI (88) 10 n.m.
+Operational PATMI (78) 19 n.m.
+=== page 11 ===
+10Strong overall positive pricing, supported by FX; 
+significant volume growth in Advanta and specialty chemicals segment
+9,216 
+5,957 
+1,136 1,396 2,558 10,181 
+6,374 
+1,140 1,754 2,919 
+UPL Ltd. UPL Corp UPL SAS Advanta SUPERFORMpositive +26% +14% +7% YoY +10%Q1 Platform -wise Revenue(1)(₹ cr)
+Q1FY26 Q1FY27UPL Corp•V: (7%) | P: flat | F: +14%
+•Volume pressure due to unfavourable weather in Europe; 
+overall pressure in Latin American countries
+•Positive pricing in Europe, North America and APAC regions
+UPL SAS•V: (8%) | P: +8% | F: flat
+•Low vol. impact due to delayed weather offset by 
+positive pricing action (mainly herbicides)Advanta(2)•V: +12% | P: +10% | F: +4%
+•Strong growth led by field corn (India, Indonesia, 
+Latin America), rice (India) and sunflower (Argentina)
+SUPERFORM•V: (2%) | P: +16% | F: flat
+•Spechem vol. growth (+17% vs LY), lower AI vol. (phasing led)
+•Strong pricing growth in spechem (+34% YoY), higher AI prices
+(1) This is for UPL Limited total and four “pure -play” platforms, with applicable proforma adjustments, and without considering gro up elimination; (2) Revenue variances are for Advanta seeds only UPL Limited Q1FY27 | Revenue: Platform -wise Analysis
+=== page 12 ===
+Q1 DriversLatin America
+•Mainly driven by Brazil 
+(acephate, clethodim)
+•Growth in Argentina seeds 
+(sunflower) offset by 
+crop protection segmentNorth America
+•Growth led by herbicides 
+(e.g., s -metolachlor), fungicides 
+vol. and post -harvest segmentEurope
+•Unfavorable weather impact 
+(herbicides vol. in Germany)
+•NPP decline due to lower 
+sulphur volumes (e.g., Italy)
+•Favorable FX impact (Euro) India
+•Higher AI pricing offset lower 
+vol. due to delayed monsoon 
+•Strong vol. growth in seeds 
+(field corn) and SSC segmentRoW
+•Robust performance in 
+Indonesia (crop protection & 
+field corn) and South Asia 9,216 202 244 62 340 117 10,181 
+Q1FY26 LATAM NAM Europe India ROW Q1FY27
+11UPL Limited Q1FY27 | Revenue: Region -wise Analysis
+Q1 Region -wise Revenue (₹ cr)
++8% +18% +4% +15% +7%Broad -based growth across region, led by India and Americas
+2,603 1,582 1,598 1,797 2,602 Q1FY27 Revenue (₹ cr)
+=== page 13 ===
+1,303 
+386 253 288 333 1,500 
+532 340 359 358 
+UPL Ltd. UPL Corp UPL SAS Advanta SUPERFORM
+(1) This is for UPL Limited total and four “pure -play” platforms, with applicable proforma adjustments, and without considering gro up elimination Broad -based EBITDA growth, led by overall pricing action, 
+favourable  portfolio mix, and supported by FX gains
+12Q1FY26 Q1FY27UPL Corp•Revenue led, along with growth and margin improvement 
+in key regions (e.g., Europe and North America), driven by 
+product mix, and lower ECL impact
+UPL SAS •Price increase supported by favourable product mixAdvanta •Strong growth led by revenue
+SUPERFORM•Moderate EBITDA growth led by strong revenue, 
+partially offset by higher overheads in the quarter+34% +24% +7% +38% YoY +15%Q1 Platform -wise EBITDA(1)(₹ cr)
+EBITDA % 14% 15% 6% 8% 22% 30% 21% 20% 13% 12%UPL Limited Q1FY27 | EBITDA Analysis: Platform -wise
+=== page 14 ===
+198 
+(101)13 34 37 22 
+(102) (4)
+(78)19 
+Q1FY26 EBITDA D&A NFC FX/ Hedging cost Oth. inc./ loss Tax A.I. NCI Q1FY27
+Q1 DriversNFC
+•Favourable SOFR rates
+•Lower outstanding debt due 
+to strategic repayment earlier 
+this yearFx / Hedging cost 
+•Mainly due to lower exchange 
+impact in Brazil, Argentina and 
+other countriesAssociate income / JV
+•Mainly due to losses 
+in Brazilian JV entityOthers
+•Increased tax credit vs. LYSignificant improvement in operational PATMI (~₹100 cr vs. LY), led mainly by 
+higher EBITDA, FX related expenses and lower finance cost, among others
+13UPL Limited Q1FY27 | PATMI Analysis
+D&A: Depreciation and Amortization | NFC: Net Finance Cost | FX: Exchange impact | A.I.: Associate income/ joint ventures | N CI: Non-controlling interestsQ1FY27 Operational PATMI Bridge (₹ cr)
+
+=== page 15 ===
+Balance Sheet Analysis
+=== page 16 ===
+15UPL Limited Q1FY27 | Balance Sheet Analysis
+Particulars Jun’25 (₹) Mar’26 (₹) Jun’26 (₹)Change
+vs. Mar’26
+Uses of Capital
+Fixed Capital(1)42,467 45,891 46,281 390
+Right -of-use assets 1,361 1,440 1,389 (51)
+Working capital 11,025 8,119 15,941 7,822
+Cash & Bank balance 
+(incl. current investments)5,464 6,720 4,921 (1,799)
+Others 2,840 2,675 2,698 23
+Total 63,157 64,845 71,230 6,385
+Sources of Capital
+Total Equity 29,267 34,696 34,700 4
+Non-controlling interests 5,618 6,573 6,489 (84)
+Short -term debt 8,487 6,511 13,056 6,545
+Long -term debt 18,348 15,535 15,514 (21)
+Lease liabilities 1,437 1,530 1,471 (59)
+Total 63,157 64,845 71,230 6,385Higher short -term debt vs. Mar’26 due to seasonality 
+led increased working capital requirement
+•Working capital  increased vs. Mar’26; 
+mainly due to seasonality, leading to 
+increase in short term debt lines’ utilization
+•Cash balance  movement vs. Mar’26 due to 
+working capital utilization and higher investments
+(1) Fixed Capital includes PPE & CWIP, Intangible assets & IAUD, Goodwill & Investments
+=== page 17 ===
+Long -term assets are funded by long -term sources of capital, ~60% working 
+capital is funded by long -term sources; resilient capital structure
+16UPL Limited Q1FY27 | Sources and Uses of Capital Analysis
+(1) Fixed Capital includes PPE & CWIP, Intangible assets & IAUD, Goodwill & Investments41,189 47,670 16,519 15,941 13,522 4,921 2,698 
+Sources of Capital Uses of Capitalin ₹ cr
+Fixed Capital(1) 
+(incl. ROU assets)Working CapitalCashOthers
+Long -term Debt 
+& Lease LiabilitiesShort -term Debt 
+& Lease Liabilities
+Equity
+(incl. NCI)71,230 71,230
+~60% working capital funded 
+by long -term sources
+=== page 18 ===
+Inventory
+₹14,041  cr ₹17,768 crJun’25 Jun’26
+110123
+Jun'25 Jun'26Receivables
+₹16,514 cr ₹20,457 crJun’25 Jun’26Payables
+₹19,530 cr ₹22,284 crJun’25 Jun’26
+₹11,025 cr ₹15,941 crJun’25 Jun’26
+129141
+Jun'25 Jun'26152 154
+Jun'25 Jun'2686110
+Jun'25 Jun'26Net Working Capital
+DIO DSO DPO Net DaysNWC days up by 24 days, due to higher 
+inventory, receivables days and FX translation impact
+17UPL Limited Q1FY27 | Working Capital Analysis
+Note: As a risk management measure, receivables are factored on non -recourse basis to banks; non -recourse receivables factoring as of 30 Jun’26: ₹6,755 cr ($714 Mn), 30 Jun’25: ₹5,940 cr ($693 Mn) ​Q1 DriversDIO Higher by ~13 Days
+from lower Q1 vol. sales, higher 
+replacement input cost, inventory 
+build up due to anticipated Q2 
+(seeds and other agchem)DSO Increased by ~12 Days
+mainly due to lower crop protection 
+sales in Europe and delayed 
+season impact in India seedsDPO Increased by ~2 Days
+mainly due to FX 
+translation of payablesNet Working Capital
+higher by ~24 Days vs. Jun’25
+
+=== page 19 ===
+Particulars ($ Mn) Q1FY26 Q4FY26 Q1FY27vs.
+Q1FY26 vs. 
+Q4FY26
+Gross Debt(2)3,129 2,325 3,018 (111) 693
+Cash and Cash Equivalent(3)637 709 520 (117) (189)
+Net Debt 2,492 1,616 2,498 6 882Particulars (₹ cr)(1)Q1FY26 Q4FY26 Q1FY27vs.
+Q1FY26 vs. 
+Q4FY26
+Gross Debt(2)26,835 22,045 28,570 1,735 6,525
+Cash and Cash Equivalent(3)5,464 6,720 4,921 (543) (1,799)
+Net Debt 21,371 15,325 23,649 2,278 8,324
+Net Debt Adj. for Currency 
+Impact21,371 - 21,424 54
+Net debt to EBITDA 2.6x 1.6x 2.4x
+Net debt to Equity 0.6x 0.4x 0.6xDisciplined capital management led gross debt reduction of >$100 Mn vs. LY, 
+despite higher seasonal working capital requirement, planned capex 
+and investments; gearing ratios improved vs. LY
+18UPL Limited Q1FY27 | Net Debt Analysis
+(1) USD/ INR depreciated from 85.76 as on 30th Jun 2025 to 94.67 as on 30th Jun 2026; (2) Gross Debt includes all external debt including short -term and long -term; (3) Includes liquid investment of ₹466 cr ($54Mn) as of Jun’25 and ₹662 cr ($70Mn) in Jun’26Sustainability Linked Loan Bonds Term Loan Debt repayment schedule 
+500 500 400 449 276 
+FY27 FY28 FY29 FY31
+=== page 20 ===
+19(1) Non-cash items mainly include ECL, provisions, fair -value change in investments, share based payments, etc. 
+(2) This is operational cash flow and excludes proceeds from current borrowings and dividend payment. Cash and cash equivalent in clude current investmentAdjusted cash flows on expected lines; 
+lower vs. LY due to higher planned capex and investmentsUPL Limited Q1FY27 | Cash Flow Analysis
+Particulars  (₹ cr) Q1FY26 Q1FY27 Change vs. LY
+EBITDA ±non-cash items(1)1,293 1,233 (60)
+Changes in working capital (4,082) (7,833) (3,751)
+Other non -current & current assets, liabilities & FCTR 103 396 293
+Net Operating cash flow (2,687) (6,204) (3,518)
+Income tax paid (136) (471) (335)
+Capex (294) (434) (140)
+Investments (24) (669) (645)
+Free cash flow to firm (FCFF) (3,141) (7,778) (4,638)
+Net interest paid (897) (598) 299
+Free cash flow to equity (FCFE)(2)(4,038) (8,376) (4,339)
+FCFE adjusted for “changes in working capital” (seasonal)(2)45 (543) (588)
+=== page 21 ===
+Platform Updates
+=== page 22 ===
+Revenue growth despite macro headwinds, supported by FX; robust EBITDA 
+growth and margin expansion led by product and regional mix
+21UPL Corp Q1FY27 | Performance Summary
+Particulars  (₹ cr) Q1FY26A Q1FY27A vs. LY
+Revenue 5,957 6,374 7%
+Contribution 2,072 2,437 18%
+Contribution Margin (%) 34.8% 38.2% 340 bps
+SG&A 1,686 1,904 13%
+EBITDA 386 532 38%
+EBITDA Margin (%) 6.5% 8.4% 190 bpsRevenue•V: (7%) | P: flat | F: +14%
+•Volume decline in EU due to weather 
+and overall pressure in Latin America
+Contribution 
+and margin•Margin expansion led by product and regional mix
+•Expansion in most key regions
+EBITDA•Driven by contribution expansion, partially offset by 
+unfavorable FX led overheads
+=== page 23 ===
+Broad -based growth across geographies, led by Americas region
+22UPL Corp Q1FY27 | Region -wise Revenue Analysis
+5,957110131 211016,374
+Q1FY26 LATAM NAM Europe ROW Q1FY27Latin 
+America•Mainly led by Brazil (acephate, clethodim), partially 
+offset by other LATAM countries (e.g., Argentina)
+•Favorable FX related upside
+North 
+America•Growth led by herbicides (e.g., s -metolachlor),
+and fungicides volumes
+Europe•Overall unfavourable weather impact
+•NPP decline due to lower sulphur volumes
+•Favourable FX impact
+Rest of 
+World•Asia Pacific region driven by volumes 
+(e.g., Indonesia), offset by decline in AfricaQ1 Region -wise Revenue (₹ cr)
++5% +11% +2% +8%
+2,266 1,295 1,425 1,291 Q1FY27
+Revenue (₹ cr)
+=== page 24 ===
+Particulars  (₹ cr) Q1FY26A Q1FY27A vs. LY
+Revenue 1,136 1,140 positive
+Contribution 371 474 28%
+Contribution Margin (%) 32.7% 41.6% 890 bps
+SG&A 118 134 14%
+EBITDA 253 340 34%
+EBITDA Margin (%) 22.3% 29.8% 750 bpsRevenue•V: (8%) | P: +8% | F: flat
+•Growth in key brands (Centurion® EZ, Canora® EZ, 
+Brucia® and Harmetry®) offset by overall volume 
+decline due to delayed weather
+Contribution 
+and margin•Margin accretion from price improvements 
+and favourable mix
+EBITDA •Driven by improved contribution margin
+23UPL SAS Q1FY27 | Performance Summary
+Strong performance amid El Niño, war disruption and liquidity crunch;
+Price discipline and differentiated portfolio helped in navigating headwinds
+Note: Above financials pertain to India Crop Protection business only, based on proforma adjustments and exclude ‘Nurture’
+=== page 25 ===
+Strong revenue growth led by key crops, driving robust EBITDA growth
+24Advanta Q1FY27 | Performance Summary
+Particulars(1) (₹ cr) Q1FY26A Q1FY27A vs. LY
+Revenue 1,396 1,754 26%
+Contribution 780 971 24%
+Contribution Margin (%) 55.9% 55.4% (50 bps)
+SG&A 492 612 24%
+EBITDA 288 359 24%
+EBITDA Margin (%) 20.6% 20.4% (20 bps)Revenue(2)•V: +12% | P: +10% | F: +4%
+•Led by field corn (India, Latin America, 
+Indonesia), rice (India) and sunflower (Argentina)
+Contribution 
+and margin•Revenue led contribution growth; 
+stable contribution margin vs. LY
+EBITDA •Strong EBITDA growth in line with revenue
+(1) Advanta’s financial statements for the current period and comparative period last year reflect the acquisition of Decco  under common control; (2) Revenue variances are for Advanta standalone only
+=== page 26 ===
+Key growth led by Asia (mainly India) and Americas
+25Advanta Q1FY27 | Region -wise Revenue Analysis
+1,396 78 281 
+(5)4 1,754 
+Q1FY26 Americas Asia / Africa Australia Europe Q1FY27Americas•Field corn (Latin America) and sunflower (Argentina), 
+offset by grain sorghum
+•Post -harvest segment increase in USA and Chile
+Asia / Africa•Field corn growth mainly in India and Indonesia, 
+supported by rice (India)
+•Post -harvest segment increase led by South Africa
+Australia•Sales season preponed to Q4 last year; 
+season expected to pickup from Q3 onwards
+Europe •Post -harvest segment impacted in Italy and Spain Q1 Region -wise Revenue(1)(₹ cr)
+422 1,231 34 68Q1FY27
+Revenue (₹ cr)
+(1) Advanta’s financial statements for the current period and comparative period last year reflect the acquisition of Decco  under common control
+=== page 27 ===
+Strong specialty chemicals performance (both volume and pricing) 
+led revenue growth; EBITDA partially offset by higher Q1 overheads 
+26SUPERFORM Q1FY27 | Performance Summary
+Particulars  (₹ cr) Q1FY26A Q1FY27A vs. LY
+Revenue 2,558 2,919 14%
+Contribution 638 727 14%
+Contribution Margin (%) 24.9% 24.9% flat
+SG&A 305 369 21%
+EBITDA 333 358 7%
+EBITDA Margin (%) 13.0% 12.3% (70 bps)Revenue•V: (2%) | P: 16% | F: flat
+•Spechem (+51% vs. LY), strong volume growth 
+(+17% YoY); mainly led by contract manufacturing 
+(e.g., lubricants)
+•AI (+9% YoY) led by strong price improvement (+13%)
+Contribution 
+and margin•Growth in line with revenue
+EBITDA•Growth led by improved contribution, 
+offset by higher overheads
+•Improved mix (share of SSC up to 29% vs. 26% LY) 
+=== page 28 ===
+FY27 Guidance
+=== page 29 ===
+FY26 FY27
+Revenue 
+Growth 4–8% 7–11%
+EBITDA 
+GrowthInitial
+10–14%10–14%
+28UPL Limited in FY27
+FY27 Guidance
+Guidance
+Strategic priorities for FY27 remain intact: improvement in Margins, PATMI, Deleveraging and ReturnsKey Assumptions . . .
+•No further adverse weather 
+conditions (including El Niño)
+•No major escalation in West 
+Asia, disrupting logistics and 
+input prices
+=== page 30 ===
+29Our financial performance is underpinned by a clear 
+long-term strategy and a commitment to 
+sustainability linked value creation.Non-financial enablers
+=== page 31 ===
+Focused execution today for sustainable value creation tomorrow
+30Our Strategy: Strong Roots, Resilient Core, Meaningful Growth
+Building a resilient core today to create a focused, financially stronger and future -ready UPLOur Strong Roots
+Strong Governance
+& EthicsGlobal Scale & 
+Diversified PresenceStrong Portfolio
+& InnovationIntegrated Operations 
+& Manufacturing ScaleDeep Customer
+Relationships
+Experienced board, robust 
+governance and ethical 
+business practicesExtensive reach across 
+geographies and marketsBroad portfolio backed by 
+innovation and R&D leadershipLarge -scale, efficient and 
+cost-competitive operationsTrusted partner to farmers 
+and channel partners worldwideSimplify & sharpen focus
+Rationalize portfolios and 
+countries; create focused, 
+scalable platformsImprove quality of earnings
+Better mix, operational efficiency 
+and disciplined business choicesDrive profitable growth 
+Sustainable growth with stronger 
+margins and consistent returns
+Strengthen financials
+Deleveraging, capital discipline 
+and improving cash flows and 
+returnsResilient Core
+Simpler, Stronger, 
+Future -ready
+
+=== page 32 ===
+Implemented powered 
+by artificial intelligence 
+and data science EmployeesSocial Governance Environment
+Driving Sustainable Agriculture, Creating Long -term ValueESG at UPL
+Reduction in carbon 
+emission intensity from 
+baseline FY 2019 –20Reduction in water 
+consumption intensity 
+from baseline FY 2019 –20
+Reduction in waste 
+disposal intensity from 
+baseline FY 2019 –20Renewable share in 
+electricity consumption
+Dependency on
+ground water
+None of our plants 
+are located in very high 
+biodiversity risk zonesMangrove saplings 
+planted across 240 acres
+Lost Time Injury 
+Frequency RateMan -hours of safety 
+trainings provided
+R&D Crop
+Protection Centres
+Annual revenue 
+reinvested in R&DBio-solutions Company
+Agrochemical Company 
+in the WorldSustainable Sourcing
+Revenue from differentiated 
+and sustainable solutions
+Products Registered(1)~3%55%
+Biodiversity 
+Protection
+55%
+39%
+   46%
+1.6%
+ 0.45
+ 57
+12,000+
+#1
+#5
+ 36%
+In-house Sustainability
+Data Tracker
+ 16,000+
+5.29 Lakhs+
+ 1,28,350
+ 64%
+31SBTi Verified 
+& Approved TargetIncluded in DJSI, 
+World IndexCommitted to Upholding, 
+Ten Principles of UNGCHighest Score 
+Among AgrochemicalsLogo Holder
+RC & FTSE4GoodHighest Score 
+Among Agrochemicals
+(1) UPL Corp.
+=== page 33 ===
+32Our performance, both financial and non -financial, 
+are governed by experienced board and 
+global leadership team
+=== page 34 ===
+Supplemented by a passionate and experienced global leadership team
+33UPL Limited | Leadership Team
+(1) Additionally, he is also CEO, SUPERFORM Chemistries
+Mr. S. K. Mohanty
+Independent Director57 1
+Mr. Suresh Kumar
+Lead Independent Director23 1 4
+Mr. Hardeep Singh
+Non-Executive Director23 1 7
+Mr. Vikram R. Shroff
+Vice-Chairman and Co -CEO45 1 6
+Mr. Raj Tiwari(1)
+Whole -Time Director46 1 7
+Mr. Jaidev R. Shroff
+Chairman and Group CEO1
+Ms. Naina Lal Kidwai
+Independent Director156
+Ms. Usha Monari
+Independent Director23 1
+Ms. M. V. Bhanumathi
+Independent Director21Board of Directors
+Note: Detailed profiles of 
+Directors are available on our 
+website; to view the profiles, 
+click on the link below:
+https://www.upl -
+ltd.com/investors/corporate -
+governance/board -of-directorsChairperson
+Member1Board
+2Audit
+3NRC
+4CSR
+5Sustainability
+6SRC
+7RMCCurrent Leadership Team
+Mr. Rajan Gajaria
+Vice Chairman
+Advanta
+Mr. Bhupen Dubey
+Chief Executive Officer
+Advanta
+Mr. Bikash Prasad
+Group Chief Financial 
+Officer
+Mr. Toshan Tamhane
+Group Chief Operating 
+Officer
+Mr. Sanjay Singh
+Global Chief Human 
+Resources Officer
+Mr. Ashish Dobhal
+Head of Sales
+UPL Corp.
+Mr. Mike Frank
+Chief Executive Officer
+UPL Corp.
+Mr. Ravi Cherukuri
+Chief Executive Officer
+UPL SAS
+
+=== page 35 ===
+Strong governance with highly experienced board members
+34Resilience through Strong Governance Across Platforms
+PlatformInternational Crop 
+Protection PlatformIndia Crop Protection 
+PlatformGlobal Seeds + Post Harvest 
+PlatformManufacturing and 
+Specialty Chemicals
+UPL Corporation Ltd. UPL Sustainable Agri Solutions Ltd. Advanta Enterprises Ltd. SUPERFORM
+Chairman Mr. Jai Shroff
+No. of Directors 13 7 12 7
+Independent Directors
+(%) 53% 29% 50% 29%
+Average Experience
+(Independent Directors) 36 Years 34 Years 31 Years 31 Years
+=== page 36 ===
+35Glossary of Key Terms
+Abbreviation Meaning Abbreviation Meaning
+A.I. Active Ingredient IPO Initial Public Offering
+A.I./JV Associate Income / Joint Ventures n.m. Not Measurable
+APAC Asia Pacific Region NCI Non-controlling Interests
+Bn / Mn Billion / Million NFC Net Finance Cost
+bps Basis Points NPP Natural Plant Protection (Biologicals Portfolio)
+Capex Capital Expenditure NWC Net Working Capital
+D&A Depreciation and Amortization Op PATMIOperational PATMI 
+(PATMI Adjusted for Exceptional Items)
+DIO Days Inventory Outstanding P / V / F Price / Volume / FX variances
+DPO Days Payable Outstanding PATMI Profit After Tax & Minority Interest
+DSO Days Sales Outstanding ROU Right of Use
+ECL Expected Credit Loss SG&A Selling, General & Administrative Expenses
+FCFE Free Cash Flow to Equity SOFR USD overnight interest rate for secured loans
+FCFF Free Cash Flow to Firm SSCSuper Specialty Chemicals 
+(Specialty Chemicals Sales Externally)
+FX Foreign Exchange TTM Trailing Twelve Months
+=== page 37 ===
+Thank You
+For more details, please connect withFY26
+Annual ReportFY26
+Sustainability ReportFY25
+CSR Report
+Anurag Gupta
+anurag.gupta@upl -ltd.comAstitva Chauhan
+astitva.chauhan@upl -ltd.com

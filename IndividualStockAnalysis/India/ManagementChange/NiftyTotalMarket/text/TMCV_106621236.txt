@@ -1,0 +1,344 @@
+--- SMP_CIM_WebXMLFile_20260513_194854708_1.xml (the exchange's structured disclosure) ---
+NSESymbol: TMCV ; Name Of The Company: Tata Motors Limited ; Scrip Code: 544569 ; MSEISymbol: NOTLISTED ; ISIN: INE1TAE01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-05-13 ; Start Time Of Board Meeting: 11:30:00 ; End Time Of Board Meeting: 15:55:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Remarks For Website Dissemination: 1.We have entered '0' in terms of appointment coloumn, as the cell was not accepting the term of appointment as Not Applicable. 2. The Resignation of Mr Sitaram Kandi as Chief Human Resources Officer (‘CHRO’) and SMP of the Company, is with effect from the close of business hours on May 28, 2026. ; Date Of Report: 2026-05-13 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Company Secretary and Compliance Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sudipto Kumar Das ; Effective Date Of Reason Of Change: 2026-06-01 ; Type Of Change: Appointment ; Name Of Designated Person: Ranjan Kumar ; Term Of Appointment In Months: 0 ; Brief Profile: Ranjan Kumar brings over more than 25 years of experience in the domains of Legal, Secretarial, Ethics, Corporate Affairs, and Sustainability across India and South- East Asian markets. He joins the Company from SKF India Limited, where he served as Director – Ethics, Legal, Sustainability & Corporate Affairs, bearing responsibility for India, South- East Asia and the Middle East. Prior to this role, he has held positions several esteemed organizations, including Carlsberg India, Coca-Cola, Vodafone, and Dabur Ayurvet. During his journey across the industries, Ranjan has demonstrated extensive expertise in leading corporate legal strategy, regulatory compliance, governance, risk management, commercial contracting and dispute resolution across complex business environments. With diverse experience in corporate governance, regulatory compliance, board management, and secretarial practices, Ranjan has successfully led various corporate restructuring projects, managed complex JV relationships and helped implementing best-in-class Board practices across various companies. His strong knowledge of Companies Act, SEBI regulations, corporate governance standards, secretarial compliances with recognized professionalism, interpretational skills, analytical thinking, confidentiality, and effective communication have helped businesses finding objective solutions to complex issues. ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Human Resources Officer ; Name Of Designated Person: Sitaram Kandi ; Effective Date Of Reason Of Change: 2026-05-28 ; Name Of Designated Person: DP Nambiar ; Effective Date Of Reason Of Change: 2026-05-29 ; Brief Profile: HR leader with 30 years at TCS across industry units, horizontal units, corporate functions, and major geographies including leadership roles in the USA and Europe. Known for operating at C-suite level while staying closely connected to business leaders and the on-ground talent reality across business groups, delivery centres, and geographies. Currently, leads HR for TCS Geographies and all Corporate Functions, partnering closely with the CHRO and C-suite on strategic programmes, including “The TCS Way” culture campaign (focused on newer/next-generation employees) and organisation right-sizing to future-proof the company. In addition, also owns compliance and adherence to the Labour Codes and their implementation. ; Salutation: Mr. ; Name Of The Person: Sudipto Kumar Das ; Designation Of Person: Company Secretary and Compliance Officer ; Date On Which The Resignation Letter Was Received: 2026-05-13 ; Effective Date Of Resignation: 2026-06-01 ; Reason Of Resignation In Brief: On account of the proposed transition to another company within the Group ; Name Of The Person: Sitaram Kandi ; Designation Of Person: Chief Human Resources Officer ; Date On Which The Resignation Letter Was Received: 2026-05-12 ; Effective Date Of Resignation: 2026-05-28 ; Reason Of Resignation In Brief: On account of the proposed transition to another company within Tata Group
+
+--- FINALSMP_2.pdf ---
+.,.
+
+TATA
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort
+Mumbai 400 001
+
+National Stock Exchange of India Ltd.
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex,
+Bandra (E), Mumbai 400 051
+
+May 13, 2026
+Sc. no.- 65
+Dear Sir/Madam,
+Sub:
+
+Change in Key Managerial Personnel (‘KMP’) and Senior Management Personnel
+(‘SMP’) - Disclosure under Regulation 30 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”)
+
+Pursuant to Regulation 30 of the SEBI Listing Regulations, we wish to inform you that the Board
+of Directors of Tata Motors Limited (formerly TML Commercial Vehicles Limited) (‘the Company’),
+at its Meeting held today, i.e., May 13, 2026, based on the recommendation of the Nomination
+and Remuneration Committee, has noted/approved the following changes in KMP and SMP of
+the Company:
+A. Changes in KMP:
+i.
+ii.
+
+Resignation of Mr Sudipto Kumar Das as Company Secretary & Compliance Officer and
+KMP of the Company, w.e.f., June 1, 2026, on account of the proposed transition to another
+company within the Group; and
+Appointment of Mr Ranjan Kumar as Company Secretary & Compliance Officer and KMP of
+the Company, w.e.f., June 1, 2026.
+
+B. Changes in SMP:
+i.
+ii.
+
+Resignation of Mr Sitaram Kandi as Chief Human Resources Officer (‘CHRO’) and SMP of
+the Company, with effect from the close of business hours on May 28, 2026, on account of
+the proposed transition to another company within Tata Group; and
+Appointment of Mr DP Nambiar as CHRO and SMP of the Company, w.e.f., May 29, 2026.
+
+We are enclosing herewith the following:
+a.
+
+Relevant details as prescribed under the SEBI Listing Regulations, read with the SEBI Master
+Circular no. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, as
+Annexure A.
+
+b.
+
+Copies of resignation letters received from Mr Sudipto Kumar Das and Mr Sitaram Kandi,
+collectively marked as Annexure B.
+
+c.
+
+Brief profiles of Mr Ranjan Kumar and Mr DP Nambiar, collectively marked as Annexure C.
+
+TATA MOTORS LIMITED
+Formerly TML Commercial Vehicles Limited
+Bombay House 24 Homi Mody Street Stock Exchange Mumbai 400001
+Tel 91 22 6665 8282 cv.tatamotors.com CIN L29102MH2024PLC427506
+
+
+.,.
+
+TATA
+The Board Meeting commenced at 11:30 a.m. (IST) and concluded at 3:55 p.m. (IST).
+Yours faithfully,
+Tata Motors Limited
+(formerly TML Commercial Vehicles Limited)
+Digitally signed by
+SUDIPTO
+SUDIPTO KUMAR DAS
+2026.05.13
+KUMAR DAS Date:
+17:07:16 +05'30'
+
+Sudipto Kumar Das
+Company Secretary
+Encl: as above
+
+TATA MOTORS LIMITED
+Formerly TML Commercial Vehicles Limited
+Bombay House 24 Homi Mody Street Stock Exchange Mumbai 400001
+Tel 91 22 6665 8282 cv.tatamotors.com CIN L29102MH2024PLC427506
+
+
+.,.
+
+TATA
+Annexure A
+Details under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 read along with SEBI Mater Circular no. HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026
+Sr.
+No.
+
+Particulars
+
+1.
+
+Reason for change
+viz.
+appointment,
+re-appointment,
+resignation, removal,
+death or otherwise;
+
+2.
+
+Date
+of
+appointment/reappointment/cessation
+(as applicable) & term
+of
+appointment/reappointment;
+
+3.
+
+Brief profile (in case of
+appointment);
+
+N.A.
+
+Enclosed
+as
+Annexure C
+
+N.A.
+
+Enclosed
+as
+Annexure C
+
+4.
+
+Disclosure
+of
+relationships between
+directors (in case of
+appointment
+of
+a
+Director);
+
+N.A.
+
+N.A.
+
+N.A.
+
+N.A.
+
+Mr Sudipto
+Kumar Das
+Resignation as
+Company
+Secretary
+&
+Compliance
+Officer
+and
+KMP of the
+Company.
+June 1, 2026
+
+Details of
+Mr Ranjan
+Mr Sitaram
+Kumar
+Kandi
+Appointment as Resignation
+Company
+as CHRO and
+Secretary
+& SMP of the
+Company.
+Compliance
+Officer
+and
+KMP of the
+Company.
+June 1, 2026
+Close
+of
+business
+hours on May
+28, 2026
+
+TATA MOTORS LIMITED
+Formerly TML Commercial Vehicles Limited
+Bombay Hou se 24 Homi Mody Street Stock Exchange Mum bai 400001
+Tel 9 1 22 666S 8282 cv.tatamotors.corn CIN L29102MH2024PLC427S06
+
+Mr DP Nambiar
+Appointment as
+CHRO and SMP
+of the Company.
+
+May 29, 2026
+
+
+Annexure B
+
+May 13, 2026
+
+To
+The Board of Directors
+Tata Motors Limited
+(formerly TML Commercial Vehicle Limited)
+Bombay House,
+24 Homi Mody Street, Fort
+Mumbai - 400001
+Respected Members of the Board,
+
+Subject: Resignation as Company Secretary and Compliance Officer
+
+I, Sudipto Kumar Das, Company Secretary ("CS") and Compliance Officer (Key Managerial
+Personnel) of Tata Motors Limited (formerJy TML Commercial Vehicles Limited) ("the
+Company"), hereby tender my resignation from the position of CS and Compliance Officer of
+the Company, effective June 1, 2026, on account of my proposed transition to another
+company within the Group.
+I am thankful to the Board and the Senior Management for providing me the responsibility of
+incorporating the Company, listing the Company on the Stock Exchanges and setting up the
+secretarial processes of a listed company.
+I request the Board to kindly take note of my resignation.
+Thanking you.
+Yours fr Jr:ly,
+
+(Su~
+
+u: a, Das)
+
+ACS: 63781
+
+
+Annexure B
+
+Date: May 12, 2026
+
+To
+The Board of Directors
+Tata Motors Limited
+(formerly TML Commercial Vehicle Limited)
+Bombay House,
+24 Homi Mody Street, Fort,
+Mumbai - 400001
+Dear Members of the Board,
+Subject: Resignation as Chief Human Resources Officer of the Company
+
+I, Sitaram Kandi, designated as the Chief Human Resources Officer ('CHRO') and Senior
+Managerial Personnel ('SMP') of Tata Motors Limited (formerly TML Commercial Vehicles
+Limited) ('the Company'), hereby tender my resignation from the position of CHRO and SMP
+of the Company, with effect from the close of business hours on May 28, 2026, on account of
+my proposed transition to another company within Tata Group.
+I request the Board to kindly take note of my resignation.
+
+Thanking you,
+
+(Sitaram Kandi)
+
+
+ANNEXURE C
+BRIEF PROFILE OF MR. RANJAN KUMAR
+
+Name: Ranjan Kumar
+ACS No.: 16192
+DIN: 085333300
+Date of Birth: 27th November 1975
+Educational Qualifications:
+• Member of the Institute of Company Secretaries
+of India (ICSI)
+• Bachelor of Laws (LLB) from the University
+of Delhi
+• Bachelor of Science in Mathematics (Honours)
+from Ranchi University
+Background:
+Ranjan Kumar brings over more than 25 years of experience in the domains of Legal,
+Secretarial, Ethics, Corporate Affairs, and Sustainability across India and South- East Asian
+markets. He joins the Company from SKF India Limited, where he served as Director – Ethics,
+Legal, Sustainability & Corporate Affairs, bearing responsibility for India, South- East Asia and
+the Middle East. Prior to this role, he has held positions several esteemed organizations,
+including Carlsberg India, Coca-Cola, Vodafone, and Dabur Ayurvet.
+During his journey across the industries, Ranjan has demonstrated extensive expertise in
+leading corporate legal strategy, regulatory compliance, governance, risk management,
+commercial contracting and dispute resolution across complex business environments. With
+diverse experience in corporate governance, regulatory compliance, board management, and
+secretarial practices, Ranjan has successfully led various corporate restructuring projects,
+managed complex JV relationships and helped implementing best-in-class Board practices
+across various companies. His strong knowledge of Companies Act, SEBI regulations,
+corporate governance standards, secretarial compliances with recognized professionalism,
+interpretational skills, analytical thinking, confidentiality, and effective communication have
+helped businesses finding objective solutions to complex issues.
+
+
+ANNEXURE C
+
+Brief Profile of Mr DP Nambiar
+Career Trajectory at TCS:
+2022 – till date VP and Head of HR – Geographies & Corporate
+Functions, Mumbai
+2020-2022 VP and Head of HR – Service Lines & Corporate
+Functions, Mumbai
+2014-2020 Global Head of Business HR, Mumbai
+2009-2014 CHRO – Europe, Amsterdam
+2004-2009 Global Head of Talent Acquisition, Mumbai
+2000-2004 Head of Staffing, North America, Denver
+1995-2000 HR Business Partner, Bangalore
+HR leader with 30 years at TCS across industry units, horizontal units, corporate functions,
+and major geographies including leadership roles in the USA and Europe. Known for operating
+at C-suite level while staying closely connected to business leaders and the on-ground talent
+reality across business groups, delivery centres, and geographies.
+Currently, leads HR for TCS Geographies and all Corporate Functions, partnering closely with
+the CHRO and C-suite on strategic programmes, including “The TCS Way” culture campaign
+(focused on newer/next-generation employees) and organisation right-sizing to future-proof
+the company. In addition, also owns compliance and adherence to the Labour Codes and
+their implementation.
+During his tenure across roles, the HR team under his guidance, has led major recruitment
+and reskilling drives across the globe; integrated talent from insourcing and acquisitions,
+ensured progressive and positive relations with the organised workforce in Europe and other
+markets, helped shape the Employer Brand / EVP, supported restructuring initiatives and
+enabled enterprise level recognition as a Global Top Employer certified in 34 countries.
+Additionally, he was instrumental in driving a high-impact COVID vaccination programme to
+protect TCS and Tata Group employees and their families, activated major partnerships,
+including TCS as the Official Skills Partner at the World Economic Forum. DP also serves as
+an official spokesperson, representing TCS with media, forums, and government/regulatory
+bodies, and Chairs the NASSCOM Chapter for Mumbai.
+Having directly led the HR function for units that accounted for a significant part of the
+company’s headcount and revenues, DP has a good understanding of the ground situation of
+the company and is deeply connected with its business leaders and associates in business
+groups, delivery centres and geographies.
+He strongly believes that while organisations should take great pride in their heritage and
+successful history, they should also never hesitate to disrupt themselves and innovate
+constantly in people practices, just like in technology.
+
+

@@ -1,0 +1,354 @@
+218
+Business Responsibility and Sustainability 
+Report FY 24
+I. Details of the listed entity
+ 1. Corporate Identity Number (CIN) of the Listed Entity
+L72900MH2012PLC232169
+ 2. Name of the Listed Entity
+L&T Technology Services Limited
+ 3. Year of incorporation
+14 Jun 2012
+	 4.	 Registered	office	address
+L&T House, N.M. Marg, Ballard Estate, Mumbai 400 001
+ 5. Corporate address
+West Block-II, L&T Knowledge City (IT/ITES) SEZ, N.H. No. 8, Ajwa Waghodia Crossing, Vadodara - 390 019
+ 6. E-mail
+corporate.sustainability@ltts.com
+ 7. Telephone
+91-22-68925257
+ 8. Website
+www.ltts.com
+ 9. Financial year for which reporting is being done
+1st April 2023- 31st March 2024
+ 10. Name of the Stock Exchange(s) where shares are listed
+BSE and NSE
+ 11. Paid-up Capital
+INR 211.5 million
+ 12.  Name and contact details (telephone, email address) of the person who may be contacted in case of any 
+queries on the BRSR report
+SL No. Particulars Details
+1 Name Jayashree Ramasubbu
+2 Designation Chief Risk Officer
+3 Telephone Number (022) 68925257
+4 Email ID corporate.sustainability@ltts.com
+ 13. Reporting boundary
+The BRSR report provides details of our non-financial performance from April 1, 2023 to March 31, 2024. All 
+non-financial disclosures are done on standalone basis except energy, water and waste data which is collected 
+from our 32 major offices in India and 8 major offices at international locations. Except 1 subsidiary, all of our 
+subsidiaries operate from LTTS’ standalone premises.SECTION A: GENERAL DISCLOSURES
+219
+Integrated 
+ReportManagement
+Discussion and AnalysisStatutory 
+ReportsFinancial 
+StatementsThe following table represents the boundary conditions specific to the BRSR Core Attributes:
+Sr. No. Attribute Parameter Measurement Cross – reference
+to the BRSRBoundary of Assurance
+1 Green-house gas 
+(GHG) footprint 
+Greenhouse gas 
+emissions may 
+be measured in 
+accordance with the 
+Greenhouse Gas 
+Protocol: A Corporate 
+Accounting and 
+Reporting StandardTotal Scope 1 emissions (Break-up of 
+the GHG into CO2, CH4, N2O, HFCs, PFCs, 
+SF6, NF3, if available)GHG (CO2e) Emission in Mn MT 
+/ KT / MT Direct emissions from 
+organization’s owned- or controlled 
+sourcesPrinciple 6, Question 7 
+of Essential IndicatorsBoundary of assurance covers data from 
+1 Apr 2023 to 31 Mar 2024. This data is 
+from the DG set emissions and fugitive 
+emissions from our Indian locations.
+Total Scope 2 emissions (Break-up of 
+the GHG (CO2e) into CO2, CH4, N2O, 
+HFCs, PFCs, SF6, NF3, if available)GHG (CO2e) Emission in Mn MT / 
+KT / MT Indirect emissions from the 
+generation of energy that is purchased 
+from a utility providerPrinciple 6, Question 7 
+of Essential IndicatorsBoundary of assurance covers data from 
+1 Apr 2023 to 31 Mar 2024. This data is 
+from the purchased electricity emissions 
+from our Indian locations.
+GHG Emission Intensity (Scope 1 +2) Total Scope 1 and Scope 2 emissions 
+(MT) / Total Revenue from Operations 
+adjusted for PPPPrinciple 6, Question 7 
+of Essential IndicatorsBoundary of assurance covers data from 
+1 Apr 2023 to 31 Mar 2024. This data 
+is from the DG set emissions, fugitive 
+emissions and purchase electricity 
+emissions from our Indian locations.
+Total Scope 1 and Scope 2 emissions 
+(MT) / Total Output of Product or 
+ServicesPrinciple 6, Question 7 
+of Essential IndicatorsNot Applicable
+2 Water footprint Total water consumption Mn Lt or KL Principle 6, Question 3 
+of Essential IndicatorsThe BRSR report provides details of 
+our non-financial performance from 
+April 1, 2023 to March 31, 2024. The 
+data is collected from our 32 major 
+offices in India and 6 major offices at 
+international locations.Water consumption intensity Mn Lt or KL / Rupee adjusted for PPP Principle 6, Question 3 
+of Essential Indicators
+Mn Lt or KL / Product or Service Principle 6, Question 3 
+of Essential Indicators
+Water Discharge by destination and 
+levels of Treatment Mn Lt or KL Principle 6, Question 4 
+of Essential Indicators
+3 Energy footprint Total energy consumed
+% of energy consumed from renewable 
+sourcesIn Joules or multiples
+In % termsPrinciple 6, Question 1 
+of Essential IndicatorsBoundary of assurance covers data from 
+April 1, 2023 to March 31, 2024. This 
+data is from the renewable and non 
+renewable energy consumption from 32 
+Indian offices and 8 international officesEnergy intensity Joules or multiples / Rupee adjusted 
+for PPPPrinciple 6, Question 1 
+of Essential Indicators
+Joules or multiples / Product or Service Joules or multiples / Product or Service Principle 6, Question 1 
+of Essential Indicators
+220
+ Sr. No. Attribute Parameter Measurement Cross – reference
+to the BRSRBoundary of Assurance
+4 Embracing circularity 
+- details related to 
+waste management by 
+the entityPlastic waste (A) Kg or MT Principle 6, Question 9 
+of Essential IndicatorsBoundary of assurance covers data from 
+April 1, 2023 to March 31, 2024. This 
+data is from 14 major Indian offices.E-waste (B) Kg or MT
+Bio-medical waste (C ) Kg or MT
+Construction and demolition waste (D) Kg or MT
+Battery waste (E ) Kg or MT
+Radioactive waste (F) Kg or MT
+Other Hazardous waste. Please specify, 
+if any. (G)Kg or MT
+Other Non-hazardous waste generated 
+(H). Please specify, if any. (Break-up by 
+composition i.e., by materials relevant 
+to the sector)Kg or MT
+Total waste generated ((A+B + C + D + E 
++ F + G + H)Kg or MT
+Waste intensity Kg or MT / Rupee adjusted for PPP
+Kg or MT / Unit of Product or Service
+Each category of waste generated, total 
+waste recovered through recycling, re-
+using or other recovery operationsKg or MT
+Intensity
+For each category of waste generated, 
+total waste disposed by nature of 
+disposal methodKg or MT
+Intensity
+5 Enhancing Employee 
+Wellbeing and SafetySpending on measures towards well 
+being of employees and workers –cost 
+incurred as a % of total revenue of the 
+companyIn % terms Principle 3, Question 
+1(c) of Essential 
+IndicatorsBoundary of assurance covers data 
+from April 1, 2023 to March 31, 2024. 
+This data is from 32 Indian offices and 8 
+international offices.
+Details of safety related incidents for 
+employees and workers (including 
+contract-workforce e.g. workers in the 
+company's construction sites)Number of Permanent Disabilities Principle 3, Question 
+11 of Essential 
+Indicators
+Lost Time Injury Frequency Rate (LTIFR) 
+(per one million-person hours worked)Principle 3, Question 
+11 of Essential 
+Indicators
+No. of fatalities Principle 3, Question 
+11 of Essential 
+Indicators
+221
+Integrated 
+ReportManagement
+Discussion and AnalysisStatutory 
+ReportsFinancial 
+StatementsSr. No. Attribute Parameter Measurement Cross – reference
+to the BRSRBoundary of Assurance
+6 Enabling Gender 
+Diversity in BusinessGross wages paid to females as % of 
+wages paidIn % terms Principle 5, Question 
+3(b) of Essential 
+IndicatorsBoundary of assurance covers data 
+from April 1, 2023 to March 31, 2024. 
+This data is from 32 Indian offices and 8 
+international offices. Complaints on POSH Total Complaints on Sexual 
+Harassment (POSH) reported  
+Complaints on POSH as a % of female 
+employees / workers Complaints on 
+POSH upheldPrinciple 5, Question 7 
+of Essential Indicators
+7 Enabling Inclusive 
+DevelopmentInput material sourced from following 
+sources as % of total purchases – 
+Directly sourced from MSMEs/ small 
+producers and from within IndiaIn % terms – As % of total purchases 
+by valuePrinciple 8, Question 4 
+of Essential IndicatorsBoundary of assurance covers data 
+from April 1, 2023 to March 31, 2024. 
+This data is from 32 Indian offices and 8 
+international offices.
+Job creation in smaller towns – Wages 
+paid to persons employed in smaller 
+towns (permanent or non-permanent /
+on contract) as % of total wage costIn % terms – As % of total wage cost Principle 8, Question 5 
+of Essential Indicators
+8 Fairness in Engaging 
+with Customers and 
+SuppliersInstances involving loss / breach of 
+data of customers as a percentage of 
+total data breaches or cyber security 
+eventsIn % terms Principle 9, Question 7 
+of Essential IndicatorsBoundary of assurance covers data 
+from April 1, 2023 to March 31, 2024. 
+This data is from 32 Indian offices and 8 
+international offices.
+Number of days of accounts payable (Accounts payable *365) / Cost of 
+goods/services procuredPrinciple 1, Question 8 
+of Essential Indicators
+9 Open-ness of business Concentration of purchases & sales 
+done with trading houses, dealers, and 
+related parties
+Loans and advances & investments 
+with related partiesPurchases from trading houses as % of 
+total purchases Purchases from top 10 
+trading houses as % of total purchases 
+from trading houses Number of 
+trading houses where purchases are 
+made fromPrinciple 1, Question 9 
+of Essential IndicatorsBoundary of assurance covers data 
+from April 1, 2023 to March 31, 2024. 
+This data is from 32 Indian offices and 8 
+international offices.
+Sales to dealers / distributors as % 
+of total sales Number of dealers / 
+distributors to whom sales are made 
+Sales to top 10 dealers / distributors as 
+% of total sales to dealers / distributors
+Share of RPTs  
+(as respective %age) in - 
+ y Purchases
+ y Sales
+ y Loans & advances
+ y Investments
+222
+ 14. Name of assurance provider
+DNV Business Assurance India Pvt Ltd
+ 15. Type of assurance obtained
+Reasonable Assurance for Core Attributes
+II. Products/services
+ 16. Details of business activities (accounting for 90% of the turnover):
+Sr. 
+No.Description of 
+Main ActivityDescription of Business Activity % of Turnover 
+of the entity
+1 Transportation The global customers of LTTS in this business vertical include top 
+OEMs (original equipment manufacturers) and Tier 1 suppliers 
+across the Automotive, Trucks & Off-Highway Vehicles and Aerospace 
+segments. LTTS provides strong expertise across SDV, ADAS & Safety 
+Systems, EACV, Infotainment & Driver Information Systems, Body 
+Electronics & Comfort Systems, Aerospace Aftermarket Services, Inflight 
+Entertainment & Communication Services, among others.32.8%
+2 Industrial 
+ProductsLTTS industrial products offerings span across Industrial machinery and 
+building automation, Electrical drives and power utilities, machinery 
+and handling equipment. This translates into a robust presence 
+across building automation, home and office product design, energy 
+management, process control, and machinery design.16.9%
+3 Telecom & Hi-
+techLTTS offers engineering services and solutions across five key segments: 
+Telecom, Consumer Electronics, Semiconductor, ISV, and Media & 
+Entertainment. LTTS’ engineers are leveraging emerging technologies 
+including AI, SDX, and cybersecurity, to unlock new value paradigms for 
+global customers.26.4%
+4 Plant 
+EngineeringLTTS’ comprehensive chip-to-cloud capabilities – from design and 
+engineering to project management – help drive delivery, maintenance, 
+and sustenance of bespoke solutions for a global Plant Engineering 
+clientele. With its focus on Engineering, Procurement, and Construction 
+Management (EPCM), the Company supports every phase of a plant's 
+lifecycle management through its industry-leading consulting-driven 
+approach and multi-geography Value Engineering Centers.14.0%
+5 Medical Devices LTTS helps enable remote medical care, ensure regulatory compliances 
+and approvals (QARA), transform in-vitro diagnostics, drive new age 
+AI-enabled solutions and surgical services, facilitate software-defined 
+wellness journeys, and streamline the growing adoption of the Medical 
+Internet of Things (MIoT).9.8%
+ 17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+Sr. 
+No.Product/Service NIC Code % of total Turnover 
+contributed
+To Provide a range of Engineering Services and related technologies 
+in the areas of Embedded Systems, Mechanical etc and to act as a 
+services provider to companies in India and abroad620 100%
+III. Operations
+	 18.	 Number	of	locations	where	plants	and/or	operations/offices	of	the	entity	are	situated:
+Location Number of plants Number	of	offices Total
+National   23 23
+International   46 46
+ 19. Markets served by the entity:
+19.a. Number of locations
+Locations Number
+National (No. of States) 24
+International (No. of Countries) 60
+223
+Integrated 
+ReportManagement
+Discussion and AnalysisStatutory 
+ReportsFinancial 
+Statements19.b. What is the contribution of exports as a percentage of the total turnover of the entity?
+78.1%
+19.c. A brief on types of customers
+LTTS caters to a wide range of customers across industries and creates targeted partnership models that 
+address specific challenges and business goals. The Company has a customer base covering 57 of the 
+world’s top 100 ER&D companies across 5 Major segments:
+  Transportation: Our global customers in the transportation sector are the top Original Equipment 
+Manufacturers (OEMs) and Tier 1 suppliers across the Automotive, Trucks & Off-Highway vehicles and 
+the Aerospace sector
+  Telecom & Hi-Tech: We offer engineering services and solutions for five key segments: Telecom, 
+Consumer Electronics, Semiconductor, ISV and Media & Entertainment. LTTS’ team of experts that 
+work across the value chain to provide digital services and solutions for Communications Service 
+Providers, Networking and Technology System Operators, OEMs, and chipset makers.
+  Industrial Products: Our varied global customers who seek for services across building automation, 
+home and office product design, energy management, process control, machinery design and digital 
+manufacturing.
+  Plant Engineering: LTTS provides end-to-end solutions across designing, engineering, project 
+management, handover operations and the delivery and maintenance of customized digital solutions. 
+As a leading Engineering, Procurement, and Construction Management (EPCM) services specialist, we 
+support all key stages across a modern plant life-cycle — from conceptualization to commissioning for 
+our global customers.
+  Medical Devices: We help medical device OEMs worldwide accelerate product development cycles, 
+reduce time to market, deliver sustained value engineering, and ensure seamless multi-geography 
+compliant product launches. LTTS collaborates with leading global medical device manufacturers 
+and healthcare providers to offer solutions around remote medical care, regulatory compliances, 
+and approvals, invitro diagnostics, patient mobility solutions, surgical services, home healthcare, and 
+Medical Internet of Things (MIoT).
+IV. Employees
+ 20. Details as at the end of Financial Year:
+20.a.	 Employees	and	workers	(including	differently	abled):
+S. No. Particulars Total (A) Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+EMPLOYEES
+1. Permanent (D) 21,271 16,750 79% 4,521 21%
+2. Other than Permanent (E) 2,772 2,109 76% 663 24%
+3. Total Employees (D+E) 24,043 18,859 78% 5,184 22%
+WORKERS
+4. Permanent (F) NA NA NA NA NA
+5. Other than Permanent (G) NA NA NA NA NA
+6. Total Workers (F + G) NA NA NA NA NA
+20.b.	 Differently	abled	Employees	and	workers:
+S. No. Particulars Total (A) Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D) 25 23 92% 2 8%
+2. Other than Permanent (E) 7 7 100% 0 0%
+3. Total differently abled 
+employees (D+E)32 30 94% 2 6 %

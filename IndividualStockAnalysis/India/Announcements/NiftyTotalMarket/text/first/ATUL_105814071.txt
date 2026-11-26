@@ -1,0 +1,98 @@
+  
+ 
+         
+April 12, 2024  
+ 
+The Manager  
+Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street,  
+Mumbai – 400 001   
+Through: BSE Listing portal  The Manager  
+Listing Department  
+National Stock Exchange of India Limited  
+“Exchange Plaza” C –  1, Block G  
+Bandra Kurla Complex, Bandra (East)   
+Mumbai – 400 051   
+Through: Digital Exchange portal  
+SCRIP CODE: 500027  SYMBOL: ATUL  
+                                              
+Dear Sirs,  
+ 
+ Sub.:  Information regarding duplicate register . 
+Ref.:  Regulation 39(3) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015.  
+ 
+Pursuant to Regulation 39(3) of the SEBI (Listing Obligations and Disclosure Requirements)  
+Regulations, 2015, we are forwarding information  received on April 11, 2024  from Link Intime India 
+Pvt Ltd, Registrar and Share Transfer Agent regarding duplicate register . 
+ 
+Kindly take the above on records.  
+ Thank you,  
+ 
+For Atul Limited  
+  Lalit Patni  
+Company Secretary and Chief Compliance Officer  
+ Encl.: as above. 
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN505707TO: TN505706FROM:Atul Limited
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN505706 088243
+VIRENDRAKUMAR JAYANTILAL 
+FADIA11/04/2024
+DUP 10.00OLD 50  6902124  6902075  50  84759  84759 
+ 10.00OLD 100  6902074  6901975  100  115414  115415 
+ 10.00OLD 150  9423890  9423741  150  195430  195432 
+ 10.00OLD 150  14111398  14111249  150  336793  336795 
+ 10.00OLD 12  9423902  9423891  12  789973  789973 
+ 10.00OLD 28  12505678  12505651  28  789973  789973 
+ 10.00OLD 10  14111408  14111399  10  789973  789973 
+ 500 ---------------
+ 10.00NEW 150  6902124  6901975  150  819378  819378 
+ 10.00NEW 162  9423902  9423741  162  819378  819378 
+ 10.00NEW 28  12505678  12505651  28  819378  819378 
+ 10.00NEW 160  14111408  14111249  160  819378  819378 
+ 500 ---------------
+TN505707 088242
+VIRENDRAKUMAR JAYANTILAL 
+FADIA11/04/2024
+DUP 10.00OLD 28  14111436  14111409  28  336797  336799 
+ 10.00OLD 564  17833543  17832980  564  472725  472743 
+ 592 ---------------
+ 10.00NEW 28  14111436  14111409  28  819379  819379 
+ 10.00NEW 564  17833543  17832980  564  819379  819379 
+ 592 ---------------
+11/04/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        2 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                2 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 1092 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN505707TO: TN505706 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::Atul Limited
+ 6 
+ 0 
+ 0  32 
+ 32 
+11/04/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------

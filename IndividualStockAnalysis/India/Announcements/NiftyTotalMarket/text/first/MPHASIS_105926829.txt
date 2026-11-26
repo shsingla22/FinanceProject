@@ -1,0 +1,133 @@
+ 
+ 
+ 
+                   
+26 July 2024 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,                                                                        
+MUMBAI - 400 001   
+ The Manager, Listing  
+National Stock Exchange of India Ltd  
+Exchange Plaza, Plot No. c/1,  
+G-Block, Bandra -Kurla Complex,  
+MUMBAI – 400 051  
+ 
+Dear Sirs,  
+ 
+ Sub: Intimation of Press Release  
+ 
+Please find enclosed herewith a press release titled “ Mphasis Unveils Mphasis NeoCruxTM and Mphasis 
+NeoZetaTM: A Powerful Duo for AI -Driven Software Engineering and Enterprise Modernization ” which is 
+being released from our end.    
+ 
+The press release will also be available on the website of the Company at www.mphasis.com . 
+ 
+We request you to kindly take the above on record as required under the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015.  
+          
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Mphasis Limited  
+ 
+ 
+Subramanian Narayan  
+Senior Vice President and Company Secretary  
+ 
+Encl- As above  
+ 
+Docusign Envelope ID: 76DD72B3-B5E9-48AD-816D-EF0D96136785
+
+Mphasis Unveils Mphasis NeoCruxTM and Mphasis NeoZetaTM: A Powerful 
+Duo for AI -Driven Software Engineering and Enterprise Modernization  
+ 
+ Early projections suggest NeoCrux’s platform  improve s an engineer’s productivity by 40%  and accelerates 
+Idea2Launch Velocity by up to  60%  
+ 
+ NeoZeta , an AI powered Modernization platform minimize Time to Market (TTM)  and reduce cost of modernization  
+by up to  60% . 
+ 
+Bengaluru , July 26, 202 4 
+ 
+Mphasis , (BSE: 526299; NSE: MPHASIS), an Information Technology (IT) solutions provider specializing in  cloud  and 
+cognitive  services, today announced the l aunch of Mphasis NeoCruxTM, an industry -first tool designed to improve 
+software engineer ’s productivity by streamlining the Software Development Lifecycle with the help of Generative AI 
+(Gen AI) powered Agent Orchestrator . This is one of the first platform s in the market that provides  flexibility to 
+engineers to integrate fit -for-purpose AI Agents instead of limiting their access to one AI agent . In addition to NeoCrux, 
+Mphasis also launched the only Gen AI -based Enterprise Modernization Platform in the marketplace, NeoZetaTM, that 
+offers full transparency  into the re-learning process so organizations can modernize mission -critical  systems  with 
+confidence . 
+ 
+NeoCrux platform supports all critical  resources  with in agile teams to deliver measurable acceleration  in Idea2Launch IT 
+Value Stream. The first release is an in -IDE assistant for software engineers, that will be followed by an AI -powered 
+requirement engineering workbench for product owners.  NeoCrux  platform extends beyond basic agent orchestration; 
+its enterprise edition is fuelled  by powerful personalized AI assistance for engineers that learns and adapts  to individual 
+engineers’  behaviours .  
+ 
+Key benefits  of Mphasis NeoCrux  include : 
+ Improved Developer Productivity: Mphasis NeoCrux has the potential to significantly improve engineers’ 
+efficiency by offering AI assistance thus reducing time on context switching  
+ Enhance personalized experiences : The platform can boost experience for dev elopers, quality engineers, and 
+product owners alike   
+ The Enterprise edition offers a 360 view with recommendation engine , thus accelerat ing Idea2Launch Velocity . 
+ 
+Mphasis NeoCrux basic edition will be available on Microsoft Visual Studio Marketplace and will provide out-of-the-box 
+integration into GitHub Copilot.  
+ 
+Mphasis NeoZeta , is not an AI -powered code converter but an innovative platform that  tackles the challenge of 
+enterprise application modernization. The platform unleashes enterprise knowledge hidden in code  and other  technical 
+artifacts and documents, offering virtually unlimited shelf -life for the software system s developed on NeoZeta . One of 
+the key features  of the platform is transparency: NeoZeta design avoids black -box conversions and with the help of open 
+standards and knowledge graph technologies, ensures  both humans and AI agents can participate in the modernization 
+journey . 
+ 
+"Mphasis NeoCrux and NeoZeta are game changers for engineers  and enterprises ," said Ramanathan Srikumar, Chief 
+Solutions Officer, Mphasis . “Revolutionizing the development landscape, Mphasis NeoCrux bridges the gap between 
+innovation and efficiency by seamlessly integrating essential tools and harnessing the transformative capabilities of Gen 
+AI agents. At the same time, NeoZeta transforms enterprise application modernization by unlocking hidden knowledge 
+Docusign Envelope ID: 76DD72B3-B5E9-48AD-816D-EF0D96136785
+ 
+in code, non-code artifacts like architecture documents, meeting transcripts  etc. Together, 
+these platforms  empower its users  to focus on innovation while enhancing personalized 
+experiences  and delivering exceptional software solutions more efficiently  for enterprises ." 
+ 
+Key benefits of Mphasis NeoZeta include:  
+ Reduced Modernization Costs: By leveraging enterprise knowledge, NeoZeta can  lower the time and cost of per -
+line-of-code modernization by 60% or more  
+ Broad Applicability : The initial release of NeoZeta supports relearning from Cobol, Naturals, Java, and C++    
+ Supports AI-assisted  validations by SMEs at all stages of the modernization journey.  
+ 
+NeoZeta pilot programs across diverse industries ( including a multi -national wealth management organization  and large 
+North American  railway operator) has shown its ability to adapt  to individual organization taxonomies successfully.   
+ 
+NeoZeta Re -learning Agents converse well with Mphasis NeoCrux forward engineering Agents to provide a complete 
+software engineering ecosystem for knowledge -driven development. NeoZeta will be available on the ‘ Gen AI Foundry 
+for Financial Services ’, a coll aboration between AWS and Mphasis .AI business unit . 
+ 
+About Mphasis  
+Mphasis’ purpose is to be the “ Driver in Driverless Car ” for Global Enterprises  by applying next -generation  design, architecture, and 
+engineering services, to deliver scalable and sustainable software and technology solutions.  Customer centricity is foundational to 
+Mphasis, and is reflected in the Mphasis ’Front2Back ™ Transformation approach. Front2Back™ uses the exponential power of cloud 
+and cognitive to provide hyper -personalized ( C=X2C2TM=1) digital experience to clients and their end customers.  Mphasis’ Service 
+Transformation approach helps ‘shrink the core’ through the application of digital technolo gies across legacy environments within an 
+enterprise, enabling businesses to stay ahead in a changing world. Mphasis’ core reference architectures and tools, speed and  
+innovation with domain expertise and specialization, combined with an integrated sustain ability and purpose -led approach across its 
+operations and solutions are key to building strong relationships with marquee clients. Clic k here  to know more.  (BSE: 526299 ; NSE: 
+MPHASIS ) 
+ 
+For further information, please contact:   
+Mphasis Corporate Communications  
+Deepa Nagaraj   
+deepa.nagaraj@mphasis.com  |  
++ 1 (646) 424 -5160 |+91 9845 256 283  
+  
+ 
+Sumana  Bhat  
+sumana.bhat@mphasis.com  |  
++91 9902 980 980  
+ 
+Docusign Envelope ID: 76DD72B3-B5E9-48AD-816D-EF0D96136785

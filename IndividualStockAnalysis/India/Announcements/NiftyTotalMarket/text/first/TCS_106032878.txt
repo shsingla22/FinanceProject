@@ -1,0 +1,158 @@
+ 
+  
+ 
+TATA Consultancy Services Limited  
+9th Floor Nirmal Building Nariman  Point Mumbai  400 021  
+Tel. 91 22 6778 9595 Fax 91 22 6778 9660 e -mail corporate.office@tcs.com   website www.tcs.com   
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021.  
+Corporate identification No. (CIN): L22210MH1995PLC084781  
+ 
+ 
+ 
+TCS/PR/SE -23/2024-25 
+ 
+October 24, 2024  
+ 
+ 
+National Stock Exchange of India Limited    BSE Limited  
+Exchange Plaza, Bandra Kurla Complex,    P. J. Towers, Dalal Street,  
+Mumbai -400051                                                                    Mumbai -400001  
+Symbol: TCS                                                                         Scrip Code No. 532540  
+ 
+ 
+Dear Sirs,  
+ 
+ 
+We are sending herewith copy  of the Press Release titled “TCS Launches NVIDIA 
+Business Unit to Accelerate AI Adoption for Customers Across Industries ” which  
+will be disseminated shortly.  
+ 
+The Press release is self -explanatory.  
+ 
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For Tata Consultancy Services Limited  
+ 
+ 
+ 
+ 
+Pradeep Manohar Gaitonde  
+Company Secretary  
+ 
+ 
+Page 1 of 3 
+ 
+TCS Launches NVIDIA Business Unit to Accelerate AI 
+Adoption for Customers Across Industries  
+The new unit will leverage TCS’ global centers of excellence, investments in the NVIDIA AI platform, 
+including NVIDIA AI Enterprise and NVIDIA Omniverse, and skilled resources to offer industry -specific 
+offerings for manufacturing, BFSI, telecom, retail, and automotive businesses  
+SANTA CLARA , CA | MUMBAI, OCTOBER  24, 2024: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) , 
+a global leader in IT services, consulting, and business solutions,  has expanded its collaboration  with NVIDIA 
+to launch industry -specific solutions and offerings that will help customers adopt artificial intelligence (AI) 
+faster and at scale. These solutions and offerings will be delivered through TCS’ new business unit focused 
+on NVIDIA, under its AI.Cloud business unit. TCS’ new business unit builds on a collaboration with NVIDIA for 
+over five years, brings together the complementary capabilities of both organizations and offers tailored 
+offerings for various industries.  
+Enterprises worldwide are racing to adopt AI but there is no consensus on an AI adoption strategy, according 
+to the recent TCS AI for Business Study . The AI adoption journey for every enterprise is unique and involves 
+an interplay of AI and existing enterprise capabilities. AI adoption at scale requires an intimate understanding 
+of the enterprise and its practices and  building AI models that are customized for the context. The new unit 
+will design and deliver curated AI adoption strategies by leveraging global centres of excellence (CoEs), 
+investments in the NVIDIA AI platform - including accelerated computing and  AI software, and the NVIDIA AI 
+Enterprise  and NVIDIA Omniverse  platforms - and skilled resources  
+The new unit also offers TCS’ proprietary framework, which brings together its deep domain expertise, 
+enterprise contextual knowledge and NVIDIA AI technology for building and deploying agentic AI solutions  - 
+including NVIDIA NIM  microservices and NVIDIA NIM Agent Blueprints , which are part of the NVIDIA AI 
+Enterprise  software platform and NVIDIA AI Foundry  – to deliver value at scale to customers. TCS and NVIDIA 
+have collaborated to build innovative, value chain -centric solutions and offerings for industry verticals on the 
+NVIDIA AI platform. They include:  
+1. TCS Manufacturing AI for Industrials:  This offering leverages the power of AI and large language models 
+(LLMs) to transform raw data into actionable insights for manufacturing enterprises. While general -
+purpose LLMs lack the capabilities to understand specific industry nuances, TCS’ Manufactu ring AI for 
+Industrials LLMs leverage the company’s contextual  knowledge, technical prowess and the power of 
+NVIDIA’s application frameworks to help accurately address industry challenges.  
+2. TCS AI Spectrum for BFSI:  This offering delivers innovative and secure ways of infusing the power of 
+LLMs and AI into BFSI lines at enterprise scale. Built on the NVIDIA AI Enterprise platform, it enables 
+faster decision -making, improved regulatory compliance and enhanced risk mana gement for financial 
+institutions.  
+3. TCS Cognitive Visual Receiving:  This is a holistic composite AI offering built on NVIDIA AI Enterprise and 
+Omniverse that revolutionizes retail warehousing with greater accuracy, efficiency and speed by 
+automating quality check, product identification, measurement and attribute extracti on. 
+4. TCS AI -Native Telco Offerings:  These offering s built on NVIDIA AI and NVIDIA Aerial Omniverse Digital 
+Twin  enables  telcos to rapidly create custom telco domain -specific models to meet business needs such 
+as autonomous network anomaly management, billing & revenue assurance, 3D network visualization 
+and customer experience .  
+5. TCS AI -based Autonomous Vehicle Platform:  TCS’ IoT and Digital Engineering unit is working with 
+ 
+Page 2 of 3 
+ 
+NVIDIA to leverage generative AI and deep learning technologies, such as Omniverse for simulation and 
+NVIDIA AI Enterprise for synthetic data generation, to accelerate the development of end -to-end 
+autonomous features and capabilities for automotive OEMs and tier 1 suppliers.  
+Jay Puri, Executive Vice President of Worldwide Field Operations at NVIDIA, said, “The fusion of TCS’ deep 
+industry expertise with NVIDIA AI technology is set to introduce a new era of intelligent enterprise 
+transformation. TCS’ new NVIDIA business unit is poised to accelerate AI and simulation with NVIDIA AI 
+Enterprise for building age ntic AI solutions and NVIDIA Omniverse for building physical AI solutions, paving 
+the way for AI -driven innovation across India and the world.”  
+Siva Ganesan, Head, AI.Cloud Unit, TCS,  said, “Curated AI journeys are derived at the intersection of deep -
+domain and deep -tech. This is a space that TCS has excelled at during every business transformation cycle. 
+Our unique vantage point, at the intersection of business and technology, helps us identify the right 
+opportunities for our customers. With the innovative and efficient NVIDIA AI platform, and our wide scale and 
+proven track record in delivering value, our customers now have a means to faster value realization.”  
+TCS offers clients vast domain expertise across industries, global delivery capabilities, and deep 
+understanding of diverse business processes and industry knowledge. TCS leverages NVIDIA AI, accelerated 
+computing, software , and development platforms in its offerings to cater to the specific needs of each 
+industry and help enterprises unlock the full potential of AI.  
+Anupam Singhal, President – Manufacturing, TCS, said, "Manufacturers can now achieve unprecedented 
+accuracy and access the tacit knowledge to optimize their operations, improve decision -making, and drive 
+impactful innovation. This is possible with TCS' Manufacturing AI for Industrials  offering , which leverages 
+NVIDIA technology to harness the power of LLMs (large language models) and is fine -tuned with TCS' deep 
+manufacturing industry expertise.  TCS is committed to providing manufacturing enterprises with the 
+transformative AI solutions they need to make them future -ready and lead the charge toward a smarter, more 
+sustainable future .” 
+The collaboration with NVIDIA is part of TCS' broader efforts to strengthen its AI -readiness and build end -to-
+end capabilities powered by NVIDIA technology to foster enterprise -wide AI transformation for its key 
+customers.   
+John Fanelli, Vice President, Enterprise Software, NVIDIA,  said, “Factories, warehouses and robotics are the 
+next grounds for physical AI innovation at scale. Combining cutting edge AI and simulation capabilities can 
+unlock unprecedented potential for intelligent manufacturing operations for TCS clients.”  
+To help manufacturers embrace the next wave of digital manufacturing, TCS is also working on a new suite 
+of digital twin  solutions built on the NVIDIA Omniverse development platform, enabling clients to design, 
+simulate, operate, and optimize products and production facilities across heavy industries:  
+1. Factory of the Future: Real -time factory planning, monitoring, and predictive maintenance in a virtual 
+environment, reducing downtime and speeding up time to market.  
+2. In-Car Digital Twin: Autonomous vehicle simulation using Omniverse’s physics -based simulations, 
+reducing the need for physical testing.  
+3. Aero Care Efficiency: Digital twins creation for aircraft components, enabling immersive training, 
+enhanced problem -solving and the early detection of failures, helping improve safety and reduce 
+operational risks.   
+4. Smart Farming Digital Twin: Farming scenario simulations with real -world physics, including soil 
+interactions, terrain analysis, and weather conditions to improve equipment performance, process 
+optimization and sustainability in modern agriculture.  
+ 
+Page 3 of 3 
+ 
+ 
+ 
+About Tata Consultancy Services  
+Tata Consultancy Services is an IT services, consulting and business solutions organization that has been 
+partnering with many of the world’s largest businesses in their transformation journeys for over 56 years. Its 
+consulting -led, cognitive powered, port folio of business, technology and engineering services and solutions 
+is delivered through its unique Location Independent Agile ™ delivery model, recognized as a benchmark of 
+excellence in software development.  
+A part of the Tata group, India's largest multinational business group, TCS has over 61 2,700 of the world’s 
+best -trained consultants in 55 countries. The company generated consolidated revenues of US $29 billion in 
+the fiscal year ended March 31, 2024, and is listed on the BSE and the NSE in India. TCS' proactive stance on 
+climate change and award -winning work with communities across the world have earned it a place in leadi ng 
+sustainability indices such as the MSCI Global Sustainability Index and the FTSE4Good Emerging Index. For 
+more information, visit  www.tcs.com   
+TCS media contacts:  
+Corporate Communications & 
+India   Email: corporate.communications@tcs.com   
+Email: saxena.kritika@tcs.com  | Phone: +91 22 6778 9999   
+Email: vanshika.sood@tcs.com  | Phone: +91 22 67789098   
+### 
+ 

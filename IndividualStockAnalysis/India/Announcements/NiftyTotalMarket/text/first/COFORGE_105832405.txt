@@ -1,0 +1,175 @@
+ 
+ 
+ 
+Coforge Limited                                                                                    Registered office:                                                                      www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      8, Balajl Estate, Third Floor, Guru Ravi Das Marg  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                Kalkaji, New Delhi -110019, India                                         CIN: L72100DL19 92PLC048753  
+T: +91 120 4592300 | F: +91 120 4592 301                                         T: +91 11 41029 297| F: +91 11 2641 4900  Email: Secretarial@coforge.com  
+ 
+ 
+     May 02 , 2024  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai –  400 001  
+BSE Scrip code – [532541]  
+Equity ISIN INE591G01017 
+Non-Convertible Bond ISIN INE591G08012  
+ 
+ The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India 
+Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Scrip code – [COFORGE]  
+ 
+Dear Sir/Madam,  
+ 
+Subject : General Update of Acquisition Rationale  
+ 
+In continuation to the press re lease dated May 0 2, 2024, please find enclosed the copy Acquisition  
+Rationale.  
+ 
+You are requested to take note of the same.  
+ 
+For Coforge Limited  
+  
+ 
+Barkha  Sharma  
+Company Secretary  
+     ACS No. 24060  
+ 
+Encl .: As above  
+  
+  
+ 
+ 
+ 
+Acquisition Rationale  
+Coforge believes that the acquisition  of Cigniti will not only help it grow into a USD 2 Bn 
+firm by FY’27 but equally importantly the ensuing synergies will ensure that the Coforge 
+operating margins shall improve by 150 – 250 bps in that timeframe too.  
+There are three key reasons why this acquisition will be a game changer for Coforge . 
+These are:  
+1. Three new scaled -up industry verticals will be added to  Coforge.  
+The acquisition of Cigniti enables Coforge to scale up and create three new verticals  –– 
+in Retail, in Hi-Tech and in Healthcare . The merged firm ’s Retail vertical will be operating 
+at close to USD 100 Mn per annum in size while the Hi -Tech and Healthcare verticals will 
+be operating at around 50 Mn per annum size immediately  post-merger. Our oft stated 
+intent to create scaled up verticals in these three industries gets a significant head -start 
+with this acquisition . 
+2. Our objective of  materially  scaling up our presence across the South -west, Mid -
+west and West US will be realized  
+Coforge currently  derives only 48% of its global revenues from its North American 
+operations  because Coforge’ s  presence has largely been East Coast centric in the USA.   
+Rapid expansion in North America has been a key objective for Coforge. The acquisition 
+of Cigniti will expand Coforge’ s North America revenue by ~33% and help us establish a 
+significant beachhead in the crucial West , South-West and Mid-West markets.  
+Across these regions, with this acquisition, twenty-eight new Fortune 500 companies 
+shall enter  our customer base . We believe we will  grow these relationships further 
+through cross -selling of additional services.  Illustratively, t he largest global client for 
+Cigniti is one of the world’s leading airlines where Coforge has been attempting to sign a 
+partnership over the last decade.  
+3.  Addressing the significant opportunities that the proliferation of AI is creating for 
+specialized Assurance services  
+The introduction of AI is going to bring substantial changes in the traditional software 
+development and maintenance life cycle. Increase in adoption of AI  highlights  a crucial 
+point – higher AI adoption  isn’t going to eliminate the need for testing – it is expected to 
+instead increase the need for assurance as new complexities and opportunities arise in 
+areas like model validation, model performance testing, core algorithms, enterprise 
+LLMs, and output validations to reduce AI hallucinations .   Illustratively , let’s imagine a 
+scenario where airlines utilize AI for price optimization - a malfunction in the algorithm 
+could lead to massive revenue losses for the airline. Traditional functional testing alone 
+won't suffice . We will need specialized approaches to ensure these AI systems perform 
+as intended  with factors lik e security and performance becoming paramount . Cigniti 
+brings a strong track record in precisely these emerging areas. Their expertise in non -
+functional testing , encompassing security, performance,  and automation, will be 
+crucial in the development and deployment of trustworthy and reliable AI -powered 
+applications. Cigniti has made significant investments into its next -gen quality 
+engineering platform, BlueSwan  which started in 2016 as an automation platform and 
+has evolved into an AI led platform with a suite of eight offerings including app 
+experience analyzer  and sentiment analyzer .  
+Importantly, w e believe that there is a further scope to build a horizontal “ AI Assurance” 
+offering including modules  for data interrogation, bias detection, stability/precision drift 
+testing and model optimization  leveraging cross disciplinary teams skilled in QE for AI 
+projects. 
+Our confidence in creating this new test bed for AI offerings is borne out of Coforge’s 
+extensive AI experience/offerings under its own six-year-old AI CoE, which has created 
+the Coforge Quasar AI platform , and combining that with Cigniti’s proven  BlueSwan 
+platform that has been successfully deployed at multiple customers .  
+It is pertinent to note that Cigniti has been  positioned as a ‘Disruptor’ in the HFS Horizon 
+Report on Generative Enterprise ™ Services, 2023  for embedding AI and Automation to 
+deliver market leading innovative solutions. Furthermore , Cigniti is rated as a “Leader 
+and Star performer ” in Everest Group’s Quality Engineering P EAK Matrix’s 2023  and was 
+positioned as a Leader in Nelson Hall’s NEAT charts for Software testing and Quality 
+engineering in 2023 . 
+ 
+Concluding note  
+Coforge has clocked one of the highest growth rates in the industry over the last six 
+years and even in a tough year like FY’24 has delivered  an organic growth rate of 13.3% 
+in CC terms .  Given our sustained investment in our proven sales engine  we remain 
+confident of effective cross sell across all the existing  Cigniti clients and realizing the 
+business case underlying the acquisition.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix – Combined Entity - Key Metrics  
+Proforma Combined entity size  
+FY24  Coforge  Combined*  
+Revenue - Rs Mn  91,790  109,940  
+PAT - Rs Mn  8,080  9,939 
+* Audited FY24 Consolidated financials. Cigniti PAT 
+adjusted for Rs . 203Mn towards one -time long service 
+award  
+      
+FY24  Coforge  Combined*  
+Revenue - $ Mn  1,119  1,340  
+PAT - $ Mn  98 121  
+PAT %  8.8%  9.0%  
+* Rs/$ conversion at 82.05 for Cigniti    
+ 
+  
+Disclaimer  
+This presentation has been prepared by and is the sole responsibility of Coforge  Limited (together with its 
+subsidiaries, referred to as the “Company” or “ Coforge ”. By accessing this presentation, you are agreeing to be 
+bound by the trailing restrictions.  
+This presentation does not constitute or does not intend to constitute or form part of any offer or invitation or 
+inducement to sell, or any solicitation of any offer or recommendation to purchase, any securities of the 
+Company, nor shall it or any part of  it or the fact of its distribution form the basis of, or be relied on in connection 
+with, any contract or commitment therefor. This presentation is not intended to be a prospectus or offer 
+document under the applicable laws of any jurisdiction, including India. No representation or warranty, express 
+or implied, is made as to, and no reliance should be placed on, the fairness, accuracy, completeness or 
+correctness of the information or opinions contained in this presentation. Such information and opinions a re in 
+all events not current after the date of this presentation. There is no obligation to update, modify or amend this 
+communication or to otherwise notify the recipient if information, opinion, projection, forecast, or estimate set 
+forth herein, changes  or subsequently becomes inaccurate. However, the Company may alter, modify, or 
+otherwise change in any manner the content of this presentation, without obligation to notify any person of such 
+change or changes.  
+These  materials  are being  given  solely  for your  information  and may  not be copied,  reproduced or  redistributed  
+to any other  person  in any manner.  The distribution  of these  materials  in certain  jurisdictions  may  be restricted  
+by law and the persons  into whose  possession  these  materials  come  should  inform  themselves  about  and 
+observe  any such  restrictions.  Certain statements contained in this presentation that are not statements of 
+historical fact constitute “forward -looking statements.” You can generally identify forward -looking statements by 
+terminology such as “aim”, “anticipate”, “believe”, “continue”, “could”, “estimate”, “expect”, “intend”, “may”, 
+“objective”, “goal”, “plan”, “potential”, “project”, “pursue”, “shall”, “should”, “will”, “would”, or other words or 
+phrases of similar import. These forward -looking statements involve known and unknown risks, uncerta inties, 
+assumptions, and other factors that may cause the Company’s actual results, performance, or achievements to 
+be materially different from any future results, performance or achievements expressed or implied by such 
+forward -looking statements or othe r projections. Important factors that could cause actual results, performance 
+or achievements to differ materially include, among others: (a) material changes in the regulations governing the 
+Company’s businesses; (b) the Company's ability to comply with t he capital adequacy norms prescribed by the 
+RBI; (c) decreases in the value of the Company's collateral or delays in enforcing the Company's collateral upon 
+default by borrowers on their obligations to the Company; (d) the Company's ability to control the level of NPAs 
+in the Company's portfolio effectively; (e) internal or external fraud, operational errors, systems malfunctions, or 
+cyber security incidents; (f) volatility in interest rates and other market conditions; and (g) any adverse changes 
+to the In dian economy.  
+This presentation is for general information purposes only.  
+ 

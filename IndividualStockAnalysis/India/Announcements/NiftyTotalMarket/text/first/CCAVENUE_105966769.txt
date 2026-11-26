@@ -1,0 +1,144 @@
+ 
+INFIBEAM AVENUES LIMITED 
+Regd. Office: 28th Floor, GIFT Two Building, Block No. 56, Road-5C, Zone-5, GIFT CITY, Gandhinagar,  
+Taluka & District - Gandhinagar – 382 355, CIN: L64203GJ2010PLC061366  
+Tel: +91 79 67772204 | Fax: +91 79 67772205 | Email: ir@ia.ooo  | Website: www.ia.ooo   
+ 
+ 
+August 27, 2024 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, 
+Mumbai - 400 001 
+ 
+ 
+Company Code No.: 539807 National Stock Exchange of India Limited 
+Exchange Plaza, 
+Bandra Kurla Complex, 
+Bandra (East), 
+Mumbai - 400 051 
+ 
+Company Symbol: INFIBEAM 
+ 
+Dear Sir / Madam, 
+ 
+Sub: Press Release 
+ 
+In compliance with the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we 
+are pleased to enclose a copy of Press Release titled “Infibeam Avenues Ltd’s Phronetic.AI Unveils 
+Women’s Safety feature in ‘AI Facility Manager’ for CCTVs”, issued by the Company. 
+ 
+The above information is also available on the website of the Company at www.ia.ooo .  
+ 
+Kindly take the same on your records. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For Infibeam Avenues Limited 
+ 
+ 
+ 
+Shyamal Trivedi 
+Sr. Vice President & Company Secretary 
+ 
+ 
+Encl.: As above  
+ 
+ 
+    
+ 
+1 
+ 
+ 
+Media Release 
+Infibeam Avenues Ltd’s Phronetic.AI 
+Unveils Women’s Safety feature in  
+‘AI Facility Manager’ for CCTVs . 
+ 
+Theia Vision AI Technology to Bolster CCTV Capabilities, ensuring Greater Women Safety in 
+Public & Workplaces.  
+ 
+Gandhinagar, August 27, 2024  – Phronetic.AI, the Artificial Intelligence subsidiary company of India’s 
+leading publicly listed fintech company, Infibeam Avenues Ltd (BSE: 539807) (NSE: INFIBEAM),  introduces 
+a new 'women safety' feature to its ‘AI Facility Manager’ solution. Th is enhancement leverages its 
+proprietary Theia vision AI technology to bolster CCTV capabilities, ensuring greate r safety for women in 
+public and workplace environments, while also driving operational efficiencies for corporates and 
+organisations.  
+ 
+This new feature - ‘women safety’ has been added to the ‘AI Facility Manager’, using Human Action 
+Recognition (HAR) that specifically designed and programmed to enhance CCTV capabilities  for 
+surveillance purposes in public and workplaces by enabling automated analysi s and understanding of 
+human actions in real-time or using recorded video footage.  
+ 
+In June, the company launched its first AI solution, the 'AI Facility Manager’ and  implemented it at a 
+leading educational institute. The company is also conducting pilot projects with several potential 
+corporate clients both in India and internationally. Initially the solution was desig ned for unlocking 
+unprecedented operational efficiencies for corporate and institutional clients by empowerin g 
+organisations to seamlessly integrate the activity-based management into their daily operations.  
+ 
+Following a recent tragic incident in Kolkata, the company has experienced a signifi cant increase in 
+requests from its corporate clients, where it is conducting pilot projects. These cl ients are seeking the 
+addition of a 'women safety' feature to the AI Facility Manager solution, alongsid e enhancements in 
+overall corporate operational efficiencies. 
+ 
+“Along with enhancing business efficiency in public and workplaces; governments, ins titutes or any 
+private organisation have taken a proactive approach for enhancing women & girl safety as well.  
+Integrating Theia vision AI to existing CCTV cameras will help in alerting and pre venting incidents to ensure 
+a quicker response to emergencies, ” said Mr. Rajesh Kumar, CEO of Phronetic.AI, the Artificial Intelligence 
+business unit of Infibeam Avenues Ltd. 
+ 
+The women specific safety feature technology now added to ‘AI Facility Manager’ transforms trad itional 
+CCTV systems from passive video recording devices into an active and in telligent surveillance tool that 
+can enhance women’s/girls' safety in public and workplaces without requirement for any new hardwar e. 
+It can also be deployed for overall safety for all individuals as it has  inbuilt AI technology capable of 
+responding to security threats.  
+ 
+The in- house research team has built to embed ‘women’ specific safety feature, which can recognize 
+predefined actions and the system can automatically flag unusual or suspicious beha viour for further 
+investigation or action. The deep learning model on which it has been buil t has an ability to detect and 
+classify specific human actions from normal behaviour like walking, and sitting;  to potentially dangerous 
+or suspicious activities like fighting, loitering, trespassing, and stalking.  
+    
+ 
+2 
+ 
+ 
+It has the ability to identify anomalies as well, where it can identify any ki nd of anomalies or deviations in 
+normal behaviour patterns. For instance, if someone runs in a typically calm area or if someone falls, th e 
+system will detect these anomalies and alert the security personnel immediately.  
+ 
+“AI Facility Manager with inbuilt ‘women safety’ feature is cost -effective as it can easily integrate into the 
+existing CCTV infrastructure and can be scaled to monitor multiple cameras across multiple locations, 
+providing a unified platform for surveillance and thereby reducing dependence on man power for 
+monitoring purposes. This scalability and cost-effectiveness makes the soluti ons budget-friendly for 
+organisatio ns and ideal for creating a safe environment in public and workplaces,” added Mr Rajes h 
+Kumar, CEO of Phronetic.AI. 
+ 
+Phronetic.AI has designed the software in such a manner that it can analyse patterns of behaviou r over 
+time and such behavioural insights will help the users to optimize security measures an d allocate 
+resources more effectively. It can also be programmed to focus only on specific actions or tasks or areas.  
+ 
+In case of an incident, it can provide detailed reports within a few hours thus providi ng valuable evidence 
+for any post-incident analysis or legal proceedings. The action logs can be used for forensic analysis, 
+helping investigators understand the sequences of events and identify any perpetrators.  
+EOM 
+ 
+About Infibeam Avenues Limited:  
+Infibeam Avenues Ltd. is one of the leading global finan cial technology (fintech) company offering comprehe nsive digital payment solutions and 
+enterprise software platforms to businesses and governments across industry verticals. The company's payment infrastru cture solution includes 
+acquiring and issuing solutions and offering infrastruc ture for banks. The core Payment Gateway (PG) business p rovides over 200 plus payment 
+options to the merchants allowing them to accept payments t hrough website and mobile devices in 27 international c urrencies. Infibeam Avenues' 
+enterprise software platform hosts India's largest online  marketplace for government procurement. The company pr ocessed transaction worth INR 
+7.0 trillion (US$ 86 billion) in FY24. Company curr ently has over 10 million plus clients across digital pay ments and enterprise software platforms. 
+The company's vast clientele includes merchants, enterpri ses, corporations, governments, and financial institutions in both domestic (India) as well 
+as international markets. Infibeam Avenues' international o perations are based in the United Arab Emirates, Kingdo m of Saudi Arabia, Australia, 
+and the United States of America. We also have business p resence in Oman working with three of the largest bank s in the country.  
+  
+For further press queries please email or call  
+Vishal Dutta | (M) +91 9924387860, vishal.dutta@ia.ooo  
+ 
+For more information on the company, please go to, www.ia.ooo  , www.phronetic.ai  and www.ccavenue.com  
+ 

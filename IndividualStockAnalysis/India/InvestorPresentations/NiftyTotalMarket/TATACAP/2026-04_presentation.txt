@@ -1,0 +1,4286 @@
+
+=== page 1 ===
+ 
+ 
+April 23 , 202 6 
+ 
+To, 
+The Listing Department  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers, Dalal Street,  
+Mumbai – 400001  
+Scrip Code: 544574        
+To, 
+The Listing Department  
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (East), Mumbai – 400051  
+Symbol: TATACAP   
+Dear Sir / Madam,  
+ 
+Sub.: Investor Presentation on A udited Financial Results for the quarter and year ended 
+March  31, 2026  
+ 
+Ref.: Tata Capital Limited (“Company”)  
+ 
+Pursuant to the Regulation 30 read with Schedule III of the Securities and Exchange Board of 
+India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended  from 
+time to time,  and further to o ur letter dated April 18, 2026 , informing about the Earnings 
+Conference call scheduled on  April 23, 202 6 at 6:30 p.m. IST in respect of the A udited Standalone 
+and Consolidated Financial Results of the Company for the quarter and year ended   
+March 31, 202 6, please find enclosed the presentation for the said Earnings Conference call.  
+ 
+The said presentation is also being made available on the  website of the Company at 
+https://www.tatacapital.com/about -us/investor -information -and-financials.html .  
+ 
+We request you to take the above on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Tata Capital Limited  
+ 
+ 
+  
+Sarita Kamath  
+Chief Legal and Compliance Officer & Company Secretary  
+ 
+Encl.: as above  
+ 
+=== page 2 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_04/4485076 -001_Tata Capital_Avinash Anand_Cover and dividers
+Q4FY26 Investor Presentation
+23 Apr 2026
+
+=== page 3 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+2
+Disclaimer
+This presentation  is being  furnished  solely  for your information  and may not be reproduced  or redistributed  to any other  person  or used  without  the express  consent  of Tata Capital  Ltd. (“Company”) . 
+The term  “Company”  shall include  its subsidiaries  unless  repugnant  to the context .
+This presentation has been prepared by the Company to provide general information on the Company and does not purport to cont ain all the information. Forward -looking statements contained 
+herein regarding past trends or activities or future business plans, strategy, financial condition, growth prospects or devel opments in industry, competitive or regulatory environment should not be 
+taken as a representation that such trends or activities will continue in the future. There is no obligation to update or rev ise any forward -looking statements. Actual results may differ materially from 
+these forward -looking statements due to a number of factors.
+This presentation does not constitute a prospectus, offering circular or offering memorandum or an offer to acquire any secur ities or instruments and nothing in this presentation should be construed 
+as advice or solicitation to invest in the Company or any of its instruments or securities or otherwise. 
+Neither the Company nor any of its affiliates, shareholders, directors, employees, agents or representatives makes any warran ty or representation as to the completeness of the information contained 
+herein (including statements of opinion and expectation) or as to the reasonableness of any assumptions contained herein and shall not be liable for any loss or damage (direct or indirect) suffered as 
+a result of reliance upon any statements contained in, or any omission here -from.
+By viewing this presentation or by accepting any copy of the slides presented, you agree to be bound by the foregoing terms.  
+=== page 4 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+3
+•28% YoY growth in Net AUM (₹ 2,51,885 Cr).
+•51% YoY growth in PAT (₹ 1,459 Cr).
+•Annualized Credit Cost at 0.8% (vs. 1.0% in Q3FY26).
+•GNPA at 1.5% | NNPA at 0.5% (vs. GNPA at 1.6% | NNPA at 0.6% in Q3FY26).
+•Annualized ROA 2.5% (vs. 2.1% in Q4FY25) | ROE 14.6% (vs. 14.2% in Q4FY25).Q4FY26 Performance (Excluding Motor Finance)
+Q4FY26 Performance (Including Motor Finance)Including Motor Finance
+₹ 2,77,275 Cr
+AUM
+6.4% QoQ
+38.3%
+Cost to income
+Q3FY26 – 38.4%
+₹ 1,502 Cr
+PAT
+16.4% QoQ
+2.3%
+ROA
+Q3FY26 – 2.1%
+0.9%
+Credit Cost
+Q3FY26 – 1.2%Executive Summary – Q4FY26 Performance Update (1/3)
+Note: For better understanding, we have presented figures both excluding and including Motor Finance business. While figures excluding Motor Finance can be compared on YoY and QoQ basis, figures including Motor Finance are best 
+viewed on a QoQ basis; All ratios are calculated excluding the impact of non -recurring items.₹ 2,51,885 Cr
+AUM
+27.9% YoY | 7.6% QoQ
+36.1%
+Cost to income
+Q4FY25 37.8% | Q3FY26 35.7% 
+₹ 1,459 Cr
+PAT
+51.4% YoY | 13.6% QoQ
+2.5%
+ROA
+Q4FY25 2.1% | Q3FY26 2.3%
+0.8%
+Credit Cost
+Q4FY25 1.1% | Q3FY26  1.0% Excluding Motor Finance
+•6% QoQ growth in Net AUM (₹ 2,77,275 Cr).
+•16% QoQ growth in PAT (₹ 1,502 Cr). 
+•Annualized Credit Cost at 0.9% (vs. 1.2% in Q3FY26).
+•GNPA at 2.0% (vs.2.2% in Q3FY26) | NNPA at 0.9% (vs. 1.0% in Q3FY26).
+•Annualized ROA 2.3% (vs. 2.1% in Q3FY26) | ROE 13.9% (vs. 13.1% in Q3FY26).
+=== page 5 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+4
+⚫Excluding Motor Finance:
+oAnnualized credit cost declined to 0.8% in Q4FY26 (vs. 1.0% in Q3FY26).
+oGNPA & NNPA stood at 1.5% & 0.5%, respectively, as of Mar -26 (vs. GNPA of 1.6% and NNPA of 0.6% as of Dec -25).
+⚫Including Motor Finance:
+oAnnualized credit cost declined to 0.9% in Q4FY26 (vs. 1.2% in Q3FY26).
+oGNPA & NNPA stood at 2.0% & 0.9%, respectively, as of Mar -26 (vs. GNPA of 2.2% and NNPA of 1.0% as of Dec -25).Asset quality
+⚫Excluding Motor Finance, PAT for Q4FY26 at ₹ 1,459cr (up 51% YoY | up 14% QoQ); Including Motor Finance, PAT for Q4FY26 at ₹ 1,502cr (up 16% QoQ).
+⚫Excluding Motor Finance: ROA for Q4FY26 at 2.5% (vs. 2.1% in Q4FY25). ROE for Q4FY26 at 14.6% (vs. 14.2% in Q4FY25).
+⚫Including Motor Finance: ROA for Q4FY26 at 2.3% (vs. 2.1% in Q3FY26). ROE for Q4FY26 at 13.9% (vs. 13.1% in Q3FY26).Profitability Executive Summary – Q4FY26 Performance Update (2/3)
+⚫Excluding Motor Finance, AUM at ₹ 2,51,885cr (up 28% YoY | up 8% QoQ). Including Motor finance, AUM at ₹ 2,77,275cr (up 6% QoQ). 
+⚫Net AUM addition in Q4FY26 – ₹ 17,771cr (excluding Motor Finance), and ₹ 16,577cr (including Motor Finance).
+⚫Continued uptick in Unsecured Retail disbursements. Slippages showing declining trend.
+⚫Retail + SME constitute ~86% of Net AUM. Unsecured Retail loans form 10.3% of Net AUM.Scale
+Note: All figures and ratios are calculated excluding the impact of non -recurring items.
+=== page 6 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+5
+⚫1,477 branch locations across 27 states and union territories . 
+⚫Combining physical presence with end -to-end digital capabilities, providing Phygital network.
+⚫As of Mar -26, our customer franchise stood a t 8.4mn. Distribution 
+⚫Total equity as of Mar -26 at ₹ 44,658cr.
+⚫Total Borrowings as of Mar -26 at ₹ 2,35,977cr. Total Borrowings to Total Equity ratio at 5.3x.
+⚫In Q4FY26, Average Cost of Borrowings was at 7.1% vs. 7.2% in Q3FY26. 
+⚫Liquidity buffer of ₹ 29,489cr as of Mar -26 on consolidated basis.Liability and NetworthExecutive Summary – Q4FY26 Performance Update (3/3)
+⚫Excluding Motor Finance, Net interest income: ₹ 3,127cr (up 28% YoY). Including Motor Finance, Net interest income at ₹ 3,477cr (up 5% QoQ).
+⚫Excluding Motor Finance, Cost to income ratio: 36.1% (vs. 37.8% in Q4FY25). Including Motor Finance, cost to income ratio at 38.3% (vs. 38.4% in Q3FY26).
+⚫On-roll employees count stood at 29,816.Operating efficiency
+=== page 7 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_05/4524828 -001_Avinash Anand_Section Dividers
+Company Overview
+=== page 8 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+7
+About Tata Capital
+Tata Securities Ltd.
+Tata Capital Pte. Ltd.
+(Singapore)100% 100% 100%
+Tata Capital Housing 
+Finance Ltd. (“TCHFL”)
+Group
+85.4%
+Distributes mutual funds 
+and other financial products
+Operates fund management 
+business
+Engaged in housing finance 
+business
+Other subsidiaries: Tata Capital has other step -down subsidiaries through which it operates its 
+domestic private equity business
+Non-lending businesses
+Distribution of 
+insurance and 
+credit cardsWealth 
+management
+Private 
+equity
+Tata Capital Limited (“TCL”) completed merger with Tata Motors 
+Finance Limited (“TMFL”) in May -25 with an appointed date of Apr 
+1, 2024
+Tata Capital is an upper layer NBFC with a 100% owned housing 
+finance subsidiary 
+~₹ 2.8tn Net AUM as of Mar 31, 2026
+ Retail & SME for m ~86% of Net AUM
+Tata Sons: 78.8%
+=== page 9 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+8
+Lead with Trust
+We respect and reinforce the trust that is placed in 
+us. We are the partner the country can rely on.
+Better Together
+We actively collaborate with customers, 
+partners, employees, group companies, 
+communities; their success is our success . 
+Futuready
+We innovate and leverage technology to anticipate, serve 
+and shape future needs; setting the path for others to follow.Delivering Delight
+We go above and beyond to care and make people 
+happy; We deliver delight to all stakeholders.
+Capital & more
+We serve the customer through the life -cycle 
+of needs; We are facilitators and counsellors in 
+helping customers achieve their dreams.
+Fast Forward
+We bring speed and simplicity; accelerating the 
+pace at which the future becomes the present.Our Purpose – Responsible Financial Partner Fulfilling India’s Aspirations
+
+=== page 10 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+9
+1,1691,5792,3052,773
+2007 2017 2018 2022 2023 2024 2025 2026Mar-23Mar-24Mar-25Mar-26
+Note: Net AUM data represented as of March 31 for the FY; TCFSL: Tata Capital Financial Services Limited; TCCL: Tata Cleantec h Capital Limited; TMFL: Tata Motor Finance Limited; (1) By CRISIL.Strong track record with 18 years of profitability; Delivering growth across economic cyclesCrossed ₹ 500bn 
+mark in terms of 
+loan book
+Crossed ₹ 1tn 
+mark in terms 
+of loan book
+International BBB - credit 
+rating by S&P , FitchTCFSL and TCCL 
+merged into TCLMr. Rajiv 
+Sabharwal took 
+over as MD & 
+CEO
+Credit 
+rating 
+upgrade 
+(domestic) 
+from AA+ 
+to AAA(1)
+ Commenced 
+lending 
+operations
+Net AUM ( ₹ bn)
+Crossed ₹ 2tn mark in terms of loan book
+TMFL merged into TCLOur Journey – Building a Diversified Retail and SME Focused Book
+Successfully listed on NSE and BSE in Oct -25
+
+=== page 11 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+10
+Our Key Strengths
+Source: CRISIL Report; Note: (1) Based on total gross loans as of Jun 30, 2025
+                      
+                 Omni -channel 
+“Phygital” model 
+powered by nationwide 
+network, partnerships, 
+and digital platforms3rd largest diversified 
+NBFC in India with a 
+comprehensive product 
+suitePrudent risk culture and 
+strong underwriting 
+driving stable asset 
+quality
+Digital, GenAI, and 
+analytics at the core , 
+driving superior experiences 
+and outcomes
+Highest credit rating 
+and diversified liabilities 
+ensuring lower cost of 
+funds
+Led by a highly experienced management team (combined experience of over 400 years) and guided by best -in-class 
+governance standards“Tata” brand name 
+                        
+                     
+=== page 12 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+11
+Tata Capital Limited – Financial Performance Summary
+Particulars (₹ crores) FY18 FY19 FY20 FY21 FY22 FY23 FY24FY25 
+(ex-TMFL)FY25FY26 
+(ex-TMFL)FY26
+Assets under management (net) 59,480 74,710 75,096 73,935 90,337 1,16,944 1,57,875 1,96,942 2,30,455 2,51,885 2,77,275
+Total Gross loans 60,442 75,964 77,070 76,380 93,315 1,20,197 1,61,231 1,98,164 2,26,553 2,50,066 2,73,392
+Total N et loans 58,521 74,104 74,681 73,626 90,120 1,16,789 1,57,761 1,94,518 2,21,950 2,45,932 2,68,203
+Total Income 6,784 9,205 9,791 9,985 10,307 12,918 18,198 23,205 28,008 28,124 31,583
+Finance Cost 3,882 5,188 5,771 5,213 4,889 6,601 9,568 12,598 15,030 14,258 15,985
+Net Total Income 2,902 4,017 4,020 4,772 5,417 6,317 8,630 10,607 12,978 13,866 15,597
+Operating expenses 1,519 1,993 1,803 1,704 2,101 2,665 3,624 4,249 5,404 4,932 5,973
+Pre-provisioning operating profit 1,383 2,024 2,217 3,068 3,316 3,652 5,006 6,358 7,574 8,934 9,624
+Credit cost 338 665 1,581 1,450 1,078 582 602 1,530 2,806 2,311 3,023
+Profits before tax 1,045 1,358 636 1,618 2,238 3,070 4,404 4,828 4,768 6,624 6,602
+PAT (excl. non -recurring income)(1)605 780 296 1,126 1,688 2,317 3,150 3,589 3,542 4,896 4,879
+Non recurring income (PAT impact) - - - - - 712 - 123 123 (27) (33)
+Profits after tax (PAT) 605 780 296 1,126 1,688 3,029 3,150 3,712 3,665 4,869 4,846
+Ratios FY18 FY19 FY20 FY21 FY22 FY23 FY24FY25 (ex -
+TMFL)FY25FY26 (ex -
+TMFL)FY26
+Cost to income 52.3% 49.6% 44.8% 35.7% 38.8% 42.2% 42.0% 40.1% 41.6% 35.6% 38.3%
+Cost to Average Assets 2.8% 2.9% 2.4% 2.3% 2.6% 2.6% 2.6% 2.4% 2.6% 2.2% 2.4%
+Credit cost 0.6% 1.0% 2.1% 2.0% 1.3% 0.6% 0.4% 0.9% 1.4% 1.0% 1.2%
+GNPA 2.4% 1.7% 1.9% 2.5% 1.9% 1.7% 1.5% 1.5% 1.9% 1.5% 2.0%
+NNPA 0.4% 0.4% 0.6% 0.9% 0.6% 0.4% 0.4% 0.5% 0.8% 0.5% 0.9%
+PCR 83.6% 79.7% 71.8% 65.4% 71.0% 77.1% 70.7% 65.8% 58.5% 65.1% 56.2%
+Return on Assets (2 -point average) 1.1% 1.1% 0.4% 1.5% 2.1% 2.2% 2.3% 2.0% 1.7% 2.2% 2.0%
+Return on Assets (Daily average) 1.1% 1.2% 0.4% 1.6% 2.2% 2.3% 2.4% 2.1% 1.8% 2.3% 2.1%
+Return on Equity (2 -point average) 15.3% 13.2% 3.6% 12.0% 15.3% 15.8% 15.5% 13.8% 12.3% 14.3% 12.9%
+Return on Equity (Daily average) 15.6% 13.9% 3.7% 12.2% 16.0% 17.9% 17.6% 14.7% 12.7% 14.4% 13.0%
+Basic EPS (Rs.) 2.1 2.6 0.9 3.2 4.7 8.4 8.6 9.4 9.3 ~ 11.8
+Note: (1) Adjusted for non -recurring income and expenses largely attributed to PE exit in Q2FY25 and impact of new labour codes in Q3FY26.
+=== page 13 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_04/4485076 -001_Tata Capital_Avinash Anand_Cover and dividers
+Business Overview
+
+=== page 14 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+13
+539 1,477 
+Mar-23 Mar-26
+In-house sales supported by 
+External Partner ecosystem
+Pan-India “Phygital” Distribution Model
+Note: All values are for Q4 FY26 / as of Mar -26, unless specified otherwise; (1) Includes C orporate, Retail and Motor Finance app downloads ; (2) During the period Jan -26 to Mar -26.27 States and UTs
+1,074 Locations
+1,477  Branches
+Branch network
+# of branches
+2.7xSignificant addition
+Leveraging geo -analytics  to 
+identify high potential areas with 
+focus on deeper markets 
+In-house sales 
+team20,241
+DSAs30K+
+Phygital  ecosystem ( Digital 
+presence through app & website)
+156 Lakh+
+Mobile app 
+downloads(1)
+76 Lakh+
+Monthly website 
+traffic(2)Chandigarh
+Punjab
+Haryana
+Delhi
+Rajasthan
+Gujarat
+Madhya Pradesh
+Goa
+Karnataka
+KeralaMaharashtraJammu & Kashmir
+Himachal Pradesh
+Uttarakhand 
+Uttar Pradesh
+Bihar
+Assam
+West Bengal
+Jharkhand
+Odisha
+Chhattisgarh 
+Telangana
+Andhra Pradesh
+Tamil NaduPuducherry158105
+20141356
+9763924
+11221
+36 35
+4817
+118
+167
+2
+1981734192
+Meghalaya1
+Tripura 1
+=== page 15 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+14
+Home loans 
+15.9%
+Loan against 
+property 
+14.0%
+Personal / 
+Business loans 
+9.0%
+Motor Finance 
+9.2%CEQ/TW 
+5.1%Other Retail 
+loans 
+5.1%SME 
+27.4%Corporate 
+14.3%
+Retail
+58.3%Product Offerings – Retail and SME Driven Growth
+Comprehensive product suite which helps manage risk across economic cycles
+Note: All values are as of Mar 31, 2026; HFCs: Housing finance companies;  Other Retail loans include education loan, microfinance, loan against securities, and car loans. 
+SME loans include Supply chain finance, equipment finance, and leasing solutions (+) term loans, cleantech and infrastructure  finance, and developer finance to businesses with latest available turnover of <= ₹ 2.5bn.
+Corporate loans include Term loans, cleantech and infrastructure finance, and developer finance to businesses with latest ava ilable turnover of > ₹ 2.5bn. 
+Motor Finance includes commercial vehicle, portion of car loans & supply chain finance; (1) Retail unsecured loans include pe rsonal loans, business loans, microfinance loans and education loans. (2) Loans with ticket size < ₹ 10mn.Net AUM: ₹ 2,77,275 cr
+25+ lending products – 
+comprehensive suite
+Retail unsecured(1) 
+at 10.3% 
+of Net AUM
+Organic book
+~99%
+Granular(2)
+~99%
+Retail : SME : Corporate
+58.3% : 27.4% : 14.3% 
+TCHFL - one of the 
+largest HFCs with best -
+in-class return profile
+=== page 16 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+15
+Amount (₹ cr) % MixBusiness Segment Wise Net AUM
+Particulars Mar-25 Jun-25 Sep-25 Dec-25 Mar-26 Mar-25 Jun-25 Sep-25 Dec-25 Mar-26
+Home loans 38,230 39,989 41,096 42,606 44,203 16.6% 16.8% 16.8% 16.3% 15.9%
+Loan against property 28,519 30,964 33,578 36,193 38,812 12.4% 13.0% 13.8% 13.9% 14.0%
+Personal / Business loans 23,334 23,132 23,373 24,019 25,053 10.1% 9.7% 9.6% 9.2% 9.0%
+CEQ / Two -Wheeler 14,347 12,508 12,842 13,627 14,129 6.2% 5.3% 5.3% 5.2% 5.1%
+Other Retail loans 10,974 11,592 12,145 12,908 14,083 4.8% 4.9% 5.0% 5.0% 5.1%
+SME 56,148 60,132 64,099 70,549 75,965 24.4% 25.3% 26.3% 27.1% 27.4%
+Corporate 25,389 28,818 28,441 34,213 39,640 11.0% 12.1% 11.7% 13.1% 14.3%
+Total (excl. Motor Finance) 1,96,942 2,07,134 2,15,574 2,34,114 2,51,885 85.5% 87.2% 88.4% 89.8% 90.8%
+Motor Finance 33,513 30,374 28,322 26,584 25,390 14.5% 12.8% 11.6% 10.2% 9.2%
+Total (incl. Motor Finance) 2,30,455 2,37,508 2,43,896 2,60,698 2,77,275 100.0% 100.0% 100.0% 100.0% 100.0%
+Note: Other Retail loans include education loan, microfinance, loan against securities, and car loans. 
+SME loans include Supply chain finance, equipment finance, and leasing solutions (+) term loans, cleantech and infrastructure  finance, and developer finance to businesses with latest available turnover of <= ₹ 2.5bn.
+Corporate loans include Term loans, cleantech and infrastructure finance, and developer finance to businesses with latest ava ilable turnover of > ₹ 2.5bn; Motor Finance includes commercial vehicle, portion of car loans & supply chain finance.
+=== page 17 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+16
+100430
+204420Q1FY24
+Q2FY24
+Q3FY24
+Q4FY24
+Q1FY25
+Q2FY25
+Q3FY25
+Q4FY25
+Q1FY26
+Q2FY26
+Q3FY26
+Q4FY26100128
+118137
+132173Q1FY24
+Q2FY24
+Q3FY24
+Q4FY24
+Q1FY25
+Q2FY25
+Q3FY25
+Q4FY25
+Q1FY26
+Q2FY26
+Q3FY26
+Q4FY26100136
+91145Q1FY24
+Q2FY24
+Q3FY24
+Q4FY24
+Q1FY25
+Q2FY25
+Q3FY25
+Q4FY25
+Q1FY26
+Q2FY26
+Q3FY26
+Q4FY26
+Personal Loan  (PL) Disbursement Trend
+ Microfinance Loan (MFI)  Disbursement Trend
+ Business Loan (BL)  Disbursement Trend
+•Identified credit quality concerns in Q3FY24.
+•Slowed down disbursements - declined by ~33% 
+from peak to trough. 
+•Addressed key issues - introduced leverage 
+scorecard, bureau check at disbursement , 
+tightened Fraud checks.
+•Strengthened collections
+•Witnessed satisfactory results - delinquency trends 
+corrected. 
+•Scaled up disbursements from Q1FY26 onwards.•Proactively addressed specific segment credit 
+quality concerns through policy interventions (low 
+ticket micro business loan, leverage score). 
+•No major credit quality concerns for our portfolio.
+•Did not slow down disbursements significantly. 
+•However, remained extremely watchful during 
+industry wide stress.
+•Securing portfolio through government schemes – 
+CGTMSE, CGFMU•Identified credit quality concerns in Q1FY25.
+•Slowed down disbursements - declined by ~52% 
+from peak to trough.
+•MFIN Guardrails 2.0 implemented in Dec -24
+•Witnessed satisfactory results - delinquency trends 
+corrected. 
+•Scaled up disbursements from Q1FY26 onwards.
+Note: CGTMSE - Credit Guarantee Fund Trust for Micro and Small Enterprises; CGFMU - Credit Guarantee Fund for Micro Units.PL Slippages down 60% since Q1FY26 BL Slippages down 34% since Q1FY26 MFI Slippages down 70% since Q1FY26Unsecured Retail Disbursement Trend (Indexed At 100 in Q1FY24)
+=== page 18 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+17
+Products Description Net AUM
+(₹ cr)% share in Net AUM YoY growth (%)Average ticket size 
+(₹ lakh)
+Home loansLoans to salaried and self -employed individuals through TCHFL (51% of Net 
+AUM to salaried individuals) 44,203 15.9% 15.6% 32.7
+Loan against 
+propertySecured loans largely to salaried and self -employed
+individuals to finance personal or business expenditures38,812 14.0% 36.1% 38.0
+Commercial vehicle 
+loansLoans to primarily individuals, small fleet operators, market load operators and 
+strategic customers who operate large fleets to finance the purchase of new / 
+pre-owned CVs 24,743 8.9% (23.0)% 15.9
+Personal loans Unsecured personal loans to individuals, primarily salaried individuals 15,127 5.5% 3.2% 4.2
+Business loansLoans for working capital, asset acquisitions, business growth, establishment of 
+new businesses or ancillary units9,926 3.6% 14.4% 14.1
+Two-wheeler loans Loans to salaried and self -employed individuals 7,886 2.8% 19.9% 1.1
+Construction 
+equipment loansLoans to individual operators, fleet operators to finance the purchase of 
+construction equipment and machinery  6,243 2.2% 7.5% 81.5
+Car loansLoans to salaried and self -employed individuals for the purchase of new / pre -
+owned passenger cars 6,143 2.2% 13.0% 6.4
+Loan against 
+securitiesLoans secured by pledge of the borrowers’ invested securities 4,942 1.8% 29.7% 53.8
+Microfinance loans Loans under the joint liability group model to women from low -income groups 2,490 0.9% 9.9% 0.5
+Education Loans Student loans for higher education at institutions in India and overseas 946 0.3% ~ 36.3
+Retail products
+Note: All values are as of Mar 31, 2026, unless specified otherwise.Product Offerings – Retail
+=== page 19 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+18
+Note: All values are as of Mar 31, 202 6, unless specified otherwise; 
+(1) SME loans include Supply chain finance, equipment finance, and leasing solutions (+) term loans, cleantech and infrastruc ture finance, and developer finance to businesses with latest available turnover of <= ₹ 2.5bn.
+Corporate loans include Term loans, cleantech and infrastructure finance, and developer finance to businesses with latest ava ilable turnover of > ₹ 2.5bn . (2) Denotes finance lease; TCL also offers operating leases / rental solution. Product Offerings – SME & Corporate(1)
+Supply chain finance
+•Working capital solutions to distributors 
+and dealers in the form of channel finance 
+and factoring and to the suppliers in the 
+form of vendor finance 
+•SME Average ticket size (₹ cr) : 3.3
+Equipment finance
+•Financing of equipment ranging from heavy 
+machinery to office equipment 
+•SME Average ticket size (₹ cr) : 1.7
+Leasing solutions(2)
+•Solutions tailored to SMEs & corporates for 
+multiple categories of assets, such as cars, 
+IT assets, CV/CEs, plant and machinery, 
+electric vehicles etc. 
+•SME Average ticket size (₹ cr) : 20.4
+Term loans
+•Loans typically to fund brownfield and 
+greenfield projects, capital investments such 
+as machinery, working capital requirements 
+or other general purposes
+•Average ticket size (₹ cr) : 41.8
+Developer finance
+•Loans (through TCHFL) to real estate 
+developers, secured by way of mortgage 
+and / or hypothecation over the underlying 
+project (relationships with 150 active 
+developers in 11 cities)
+•Average ticket size (₹ cr) : 75.4
+Cleantech and Infrastructure finance
+•Term loans to finance projects in renewable 
+energy, energy efficiency, electric mobility, 
+waste management, water management 
+sectors and other infrastructure projects 
+(financed 500+ cleantech projects)
+•Average ticket size (₹ cr) : 167.5
+=== page 20 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+19
+Note: All values are as of Mar 31, 2026. Distribution of Insurance
+⚫Holds corporate agent (composite) 
+license from IRDAI for the 
+distribution of life, general and 
+health insurance products
+9.9mn+
+Insurance policies in force 
+across life, general and 
+health categories
+Private Equity
+⚫Currently focused on two themes:
+Growth Healthcare 
+Focused on 
+urbanisation, 
+manufacturing 
+and strategic 
+servicesFocused on pharmaceuticals, 
+hospitals, contract research 
+and manufacturing services, 
+diagnostic chains and other 
+healthcare services
+₹ 8,585cr   
+Raised across domestic funds 
+and offshore funds
+⚫Planning to launch Decarbonization 
+Fund53 deals  
+in over 15 years
+⚫Currently in the process of raising 
+Fund III  for both these themesWealth Management
+⚫Offers wealth management 
+services for high -net-worth 
+individuals and retail clients 
+through “Tata Capital Wealth”
+⚫Dedicated team of wealth 
+managers and investment 
+product specialists
+₹ 7,381cr 
+21% CAGR
+(Mar-23 to Mar -26)Scale
+GrowthNon-Lending Businesses
+=== page 21 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+20
+Consolidated Financial Performance (Excluding Motor Finance)
+Particulars (₹ crores) Q4FY25 Q3FY26 Q4FY26 YoY growth FY25 FY26 YoY growth
+Assets under management (net) 1,96,942 2,34,114 2,51,885 28% 1,96,942 2,51,885 28%
+Total Gross loans 1,98,164 2,33,319 2,50,066 26% 1,98,164 2,50,066 26%
+Total N et loans 1,94,518 2,29,134 2,45,932 26% 1,94,518 2,45,932 26%
+Net interest income 2,438 2,939 3,127 28% 8,901 11,217 26%
+Fee income(2)477 589 646 35% 1,577 2,327 47%
+Investment income (54) 66 (32) ~ 129 323 ~
+Net total income 2,861 3,594 3,740 31% 10,607 13,866 31%
+Operating expense(2)1,081 1,283 1,350 25% 4,249 4,932 16%
+Pre-provisioning operating profit 1,781 2,311 2,390 34% 6,358 8,934 41%
+Loan losses and provisions 534 581 470 (12)% 1,530 2,311 51%
+Profit before tax 1,247 1,730 1,920 54% 4,828 6,624 37%
+Profit after tax (excl. non -recurring items) 964 1,285 1,459 51% 3,589 4,896 36%
+Non-recurring items (PAT impact)(1)- (27) - ~ 123 (27) ~
+Profit after taxes (attributable to owners of the company) 964 1,258 1,459 51% 3,712 4,869 31%
+Ratios(2)
+Annualized operating expense on average net loan book 2.3% 2.3% 2.3% 2.4% 2.2%
+Cost to income ratio 37.8% 35.7% 36.1% 40.1% 35.6%
+Annualized credit cost on average net loan book 1.1% 1.0% 0.8% 0.9% 1.0%
+Annualized Return on average net loan book 2.1% 2.3% 2.5% 2.0% 2.2%
+Annualized Return on average equity 14.2% 14.4% 14.6% 13.8% 14.3%
+Note: (1) Reflects impact of new labour codes for Q3FY26 and FY26, and non -recurring income and expenses largely attributed to PE exit for  FY25 ; (2) Excl. non -recurring items. 
+=== page 22 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+21
+Consolidated Financial Performance (Including Motor Finance)
+Particulars (₹ crores) Q1FY26 Q2FY26 Q3FY26 Q4FY26 QoQ growth FY25 FY26 YoY growth
+Assets under management (net) 2,37,508 2,43,896 2,60,698 2,77,275 6% 2,30,455 2,77,275 20%
+Total Gross loans 2,33,399 2,39,960 2,57,140 2,73,392 6% 2,26,553 2,73,392 21%
+Total N et loans 2,28,579 2,34,991 2,51,890 2,68,203 6% 2,21,950 2,68,203 21%
+Net interest income 2,866 3,006 3,318 3,477 5% 10,694 12,667 18%
+Fee income(2)576 663 668 701 5% 1,980 2,608 32%
+Investment income 184 105 66 (32) ~ 304 323 ~
+Net total income 3,626 3,774 4,052 4,146 2% 12,978 15,597 20%
+Operating expense(2)1,335 1,497 1,555 1,586 2% 5,404 5,973 11%
+Pre-provisioning operating profit 2,291 2,277 2,497 2,560 3% 7,574 9,624 27%
+Loan losses and provisions 909 773 759 582 (23)% 2,806 3,023 8%
+Profit before tax 1,383 1,503 1,738 1,978 14% 4,768 6,602 38%
+Profit after tax (excl. non -recurring items) 990 1,097 1,290 1,502 16% 3,542 4,879 38%
+Non-recurring items (PAT impact)(1)- - (33) - ~ 123 (33) ~
+Profit after taxes (attributable to owners of the company) 990 1,097 1,257 1,502 19% 3,665 4,846 32%
+Ratios(2)
+Annualized operating expense on average net loan book 2.4% 2.6% 2.5% 2.5% 2.6% 2.4%
+Cost to income ratio 36.8% 39.7% 38.4% 38.3% 41.6% 38.3%
+Annualized credit cost on average net loan book 1.6% 1.3% 1.2% 0.9% 1.4% 1.2%
+Annualized Return on average net loan book 1.8% 1.9% 2.1% 2.3% 1.7% 2.0%
+Annualized Return on average equity 12.5% 13.0% 13.1% 13.9% 12.3% 12.9%
+Merger with Tata Motors Finance became effective on May 8,  2025 - Q1FY26 is the first quarter of combined operations
+Note: (1) Reflects impact of new labour codes for Q3FY26 and FY26, and non -recurring income and expenses largely attributed to PE exit for  FY25 ; (2) Excl. non -recurring items. 
+=== page 23 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+22
+Asset Quality Update (1/3)
+Particulars 31-Mar-25 30-Jun-25 30-Sep-25 31-Dec-25 31-Mar-26 30-Jun-25 30-Sep-25 31-Dec-25 31-Mar-26
+Total Gross loans 1,98,164 2,07,609 2,15,286 2,33,319 2,50,066 2,33,399 2,39,960 2,57,140 2,73,392 
+Gross loan mix
+Gross Stage 1 97.4% 97.3% 97.4% 97.5% 97.7% 95.9% 95.9% 96.2% 96.7%
+Gross Stage 2 1.1% 1.1% 1.0% 0.9% 0.8% 2.0% 1.9% 1.6% 1.3%
+Gross Stage 3 1.5% 1.6% 1.6% 1.6% 1.5% 2.1% 2.2% 2.2% 2.0%
+Provision coverage
+Stage 1 0.6% 0.6% 0.5% 0.6% 0.6% 0.6% 0.6% 0.6% 0.6%
+Stage 2 15.8% 15.1% 14.5% 13.1% 13.2% 12.9% 12.2% 11.6% 11.6%
+Stage 3 65.8% 64.2% 64.0% 64.5% 65.1% 53.9% 52.8% 53.6% 56.2%
+Overall 1.8% 1.7% 1.7% 1.7% 1.6% 2.0% 2.0% 2.0% 1.9%
+Net loan mix
+Net Stage 1 98.5% 98.4% 98.5% 98.6% 98.8% 97.2% 97.2% 97.5% 97.9%
+Net Stage 2 0.9% 1.0% 0.9% 0.8% 0.7% 1.8% 1.7% 1.5% 1.2%
+Net Stage 3 0.5% 0.6% 0.6% 0.6% 0.5% 1.0% 1.1% 1.0% 0.9%Excluding Motor Finance Consolidated
+=== page 24 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+23
+Particulars Mar-25 Jun-25 Sep-25 Dec-25 Mar-26 Mar-25 Jun-25 Sep-25 Dec-25 Mar-26 Mar-25 Jun-25 Sep-25 Dec-25 Mar-26
+Home loans 0.6% 0.7% 0.7% 0.8% 0.7% 0.3% 0.3% 0.4% 0.4% 0.4% 51.2% 50.7% 50.0% 48.0% 49.1%
+Loan against property 1.5% 1.4% 1.4% 1.3% 1.3% 0.6% 0.6% 0.6% 0.6% 0.6% 57.7% 56.4% 54.7% 55.4% 54.5%
+Personal / Business loans 5.2% 5.5% 5.7% 5.8% 5.6% 1.5% 1.7% 1.8% 1.8% 1.7% 73.2% 70.5% 70.3% 70.8% 70.9%
+CEQ / Two -Wheeler 3.1% 3.3% 3.4% 3.5% 3.2% 1.6% 1.6% 1.7% 1.7% 1.4% 50.5% 52.4% 51.8% 53.6% 56.3%
+Other Retail loans 2.0% 2.7% 3.3% 3.7% 3.1% 0.5% 0.9% 1.1% 1.3% 1.0% 75.8% 67.1% 67.6% 66.6% 67.4%
+SME 0.7% 0.7% 0.7% 0.6% 0.6% 0.2% 0.2% 0.2% 0.2% 0.2% 70.5% 68.6% 69.7% 71.2% 71.3%
+Corporate 0.3% 0.2% 0.2% 0.2% 0.1% 0.1% 0.1% 0.1% 0.0% 0.0% 70.4% 71.2% 71.1% 85.0% 94.4%
+Total (excl. Motor Finance) 1.5% 1.6% 1.6% 1.6% 1.5% 0.5% 0.6% 0.6% 0.6% 0.5% 65.8% 64.2% 64.0% 64.5% 65.1%
+Motor Finance 4.1% 5.9% 7.7% 8.4% 8.0% 2.5% 4.1% 5.3% 5.8% 5.1% 39.2% 31.9% 32.3% 33.4% 38.8%
+Total (incl. Motor Finance) 1.9% 2.1% 2.2% 2.2% 2.0% 0.8% 1.0% 1.1% 1.0% 0.9% 58.5% 53.9% 52.8% 53.6% 56.2%Provision Coverage Net Stage 3 Gross Stage 3Asset Quality Update (2/3)
+Note : Other  Retail  loans  include  education  loan,  microfinance,  loan against  securities,  and car loans .; Motor  Finance  business  includes  commercial  vehicle,  portion  of car loans,  supply  chain  finance .
+=== page 25 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+24
+Particulars Jan-25 Feb-25 Mar-25 Apr-25 May-25 Jun-25 Jul-25 Aug-25 Sep-25 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26
+Home Loan 99.8% 99.8% 99.8% 99.8% 99.9% 99.8% 99.9% 99.9% 99.8% 99.8% 99.8% 99.9% 99.9% 99.9% 99.9%
+Loan Against 
+Property99.6% 99.6% 99.7% 99.6% 99.7% 99.7% 99.6% 99.7% 99.7% 99.7% 99.7% 99.7% 99.8% 99.8% 99.8%
+Personal Loan 99.0% 98.9% 99.2% 98.7% 99.2% 98.9% 99.2% 99.2% 99.1% 99.2% 99.3% 99.3% 99.3% 99.3% 99.5%
+Business Loan 99.2% 99.1% 99.3% 98.9% 99.2% 98.9% 99.3% 99.2% 99.2% 99.3% 99.2% 99.4% 99.4% 99.4% 99.5%
+Two-wheeler 98.8% 98.5% 99.0% 98.0% 99.0% 98.7% 98.4% 98.8% 98.7% 98.9% 99.1% 99.2% 99.2% 99.2% 99.2%
+Used Car Loans 98.9% 98.9% 99.2% 98.3% 99.1% 98.9% 99.0% 99.0% 99.0% 99.0% 99.1% 99.2% 99.2% 99.1% 99.3%Asset Quality Update – Collection Efficiency (3/3)
+Note: Collection efficiency defined as POS of 0 DPD customers who cleared dues / POS of 0 DPD customers.
+=== page 26 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_05/4524828 -001_Avinash Anand_Section Dividers
+Material Subsidiary
+TCHFL
+=== page 27 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+26
+AUM
+PBT26,384 Cr
+127 CrFY1927,074 Cr
+255 CrFY2024,855 Cr
+478 CrFY2128,604 Cr
+760 CrFY2236,995 Cr
+1,101 CrFY2351,455 Cr
+1,539 CrFY2467,252 Cr
+2,013 CrFY25
+FY 22 - FY 26 : CAGR 32%
+FY 22 - FY 26 : CAGR 34%
+•29% YoY growth in Net AUM (₹ 86,653 Cr).
+•34% YoY growth in PAT at (₹ 527 Cr).
+•Best-in-class asset quality with Annualized Credit Cost at 0.1%.
+•GNPA at 0.7% | NNPA at 0.3%.
+•Annualized ROA 2.6% (vs. 2.5% in Q4FY25) | ROE 19.9% (vs. 19.2% in Q4FY25).
+•Branches increased from 57 in Mar -19 to 350 in Mar -26. 
+•Granular book – ATS at ₹ 32 Lakh for Retail and ₹ 75 Cr for Developer Finance.
+•Among the top originators in Affordable Home Loans.
+•Home loans Salaried and Self -Employed customer mix: 50% : 50%.
+•Sourcing mix: 63% direct and 37% DSA.FY2686,653 Cr
+2,457 Cr(1)Tata Capital Housing Finance Limited (TCHFL) Overview
+Note: (1) Q3FY26 and FY26 figures exclude impact of new labour codes. ₹ 86,653 Cr
+AUM
+29% YoY | 6% QoQ₹ 527 Cr
+PAT
+34% YoY | 14% QoQ
+29.4%
+Cost to Income
+Q4FY25 32.0% | Q3FY26 31.8%2.6%
+ROA
+Q4FY25 2.5% | Q3FY26 2.4%
+0.3%
+Net NPA
+Q4FY25 0.3% | Q3FY26 0.4%19.9%
+ROE
+Q4FY25 19.2% | Q3FY26 18.6 %TCHFL Q4FY26 Performance Summary(1)
+=== page 28 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+27
+TCHFL Portfolio Overview
+40% 20%
+21%
+18%
+1%34,569cr
+15,415cr18,233cr17,399cr
+1,036  Cr
+ •Includes Affordable Home Loans + LAP
+•Catering to first time home buyers, new to 
+credit with household income <6lakhs
+•Presence in Tier 3, 4 & beyond markets
+•ATS of ₹ 18lakhsAffordable Housing Finance (AHF) 
+including Micro Housing (MH)
+•Funding for undertaking construction & 
+development of real estate projects
+•Present in select 11 cities
+•ATS of ₹ 75crDeveloper Finance (DF)
+•Catering to Salaried & SENP customers
+•Presence in Metro, Tier 1 & 2 cities
+•Granular Book with ATS of ₹ 41lakhsPrime and Near Prime Home Loans
+•Catering to Metro, Tier 1 & 2 cities
+•Granular Book with ATS of ₹ 30lakhs
+•Overall LAP ₹ 24,218cr: 
+•₹ 17,399cr prime LAP
+•₹ 6,818cr  part of Affordable LAPLoan Against Property
+Prime & Near 
+Prime HL Prime LAP
+DF
+AHF
+MH
+Note: MH – Micro housing; SENP – Self-employed non -professional; ATS – Average ticket size; LAP – Loan against property. 
+FY26 Net AUM 
+₹ 86,653cr
+=== page 29 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+28
+Particulars (₹ crores) Q4FY25 Q3FY26 Q4FY26 YoY growth FY25 FY26 YoY growth
+Assets under management (net) 67,252 81,585 86,653 29% 67,252 86,653 29%
+Total Gross loans 66,955 79,883 84,439 26% 66,955 84,439 26%
+Total N et loans 66,405 79,279 83,808 26% 66,405 83,808 26%
+Net interest income 661 768 818 24% 2,347 2,956 26%
+Fee income 135 159 187 39% 423 657 55%
+Investment income 12 8 11 ~ 63 63 ~
+Net total income 808 934 1,016 26% 2,834 3,676 30%
+Operating expense 259 297 298 15% 972 1,144 18%
+Pre-provisioning operating profit 549 637 717 31% 1,862 2,533 36%
+Loan losses and provisions 20 16 24 22% (151) 76 ~
+Profit before tax 529 621 693 31% 2,013 2,457 22%
+Profit after tax 394 464 527 34% 1,499 1,842 23%
+Non-recurring items (PAT impact)(1)- (6) - ~ - (6) ~
+Profit after taxes (attributable to owners of the company) 394 458 527 34% 1,499 1,836 22%
+Ratios(2)
+Annualized operating expense on average net loan book 1.6% 1.5% 1.5% 1.7% 1.5%
+Cost to income ratio 32.0% 31.8% 29.4% 34.3% 31.1%
+Annualized credit cost on average net loan book 0.1% 0.1% 0.1% (0.3)% 0.1%
+Annualized Return on average net loan book 2.5% 2.4% 2.6% 2.5% 2.5%
+Annualized Return on average equity 19.2% 18.6% 19.9% 19.3% 18.3%TCHFL – Financial Performance Summary
+Note: (1) Reflects impact of new labour codes for Q3FY26 and FY26 ; (2) Excl. non -recurring items. 
+=== page 30 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_04/4485076 -001_Tata Capital_Avinash Anand_Cover and dividers
+Motor Finance Update
+
+=== page 31 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+30
+Net AUM mix (Mar -26)Motor Finance Business Overview
+HCV-New
+42%ILMSCV
+23%Used Vehicle
+32%
+Others
+3%Realigning portfolio mix to improve 
+granularity, book yield, and asset quality
+Note: All values are as of Mar -26 or for Q4FY26, unless specified otherwise; ILMSCV – Intermediate, Light, Medium & Small Commercial Vehicles;  HCV – Heavy Commercial Vehicles.33,513 
+30,374 28,322 
+26,584 25,390 
+Mar-25 Jun-25 Sep-25 Dec-25 Mar-26
+One of India’s leading vehicle financiers
+Workforce
+Disbursement
+Extensive network
+Net AUM
+Customers served
+Dealer touchpoints
+Net AUM movement
+4,849₹ 2,627 Cr
+385₹ 25,390 Cr
+2.5mn+
+940+Consolidating loan book in line with 
+strategy to improve business metrics
+Between Mar -25 and Mar -26, Net AUM 
+lower by ₹ 8,123 Cr
+Q2FY26: ₹ 1,703 Cr | Q3FY26: ₹ 1,985 Cr
+Q4FY25: 6,351 | Q3FY26: 5,276
+=== page 32 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+31
+•Multi OEM model•Tied up with multiple OEMs. Contribution of other OEMs in disbursement of new vehicle loans increasing. 
+•Added over 400 dealers in last nine months.Disbursements Q4FY25 Q2FY26 Q3FY26 Q4FY26
+Non-Tata OEM contribution 0% 13% 19% 26%
+•Pivoting towards Used business and within New, focusing on ILMSCV. 
+•Used vehicle disbursement – GST impact (price between new and old vehicles narrowed) + prioritizing granularity.
+Disbursement mix Q4FY25 Q2FY26 Q3FY26 Q4FY26
+Used proportion 42% 47% 40% 40%
+HCV new 37% 29% 30% 31%
+ILMSCV new 16% 23% 28% 27%
+•All liabilities have been repriced.•Tata Motors Finance acquisition completed on May 8, 2025. Transformation progressing as planned amid a closely monitored CV c ycle. 
+Key Drivers Updates
+•Change in product mix
+•Liability optimization Turnaround Strategy for Motor Finance Business
+Note: ILMSCV – Intermediate, Light, Medium & Small Commercial Vehicles;  HCV – Heavy Commercial Vehicles.•Rationalized over 90 branches with current network of 385 branches 
+•Rolled out Motor Finance products in 117 TCL branches since Mar -25. 
+•Optimized manpower (current employee strength at 4,849 vs. 6,351 in Mar -25).•Cost reduction
+•IT integration with TCL is in progress; Target completion by Q1/Q2 FY27 •IT systems
+=== page 33 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_05/4524828 -001_Avinash Anand_Section Dividers
+Liability & Asset Profile
+=== page 34 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+33
+Diversified & Stable Liability Profile
+8% 7% 6% 4% 5% 6% 5% 4% 4% 4% 4% 4% 4% 4%24% 30%27% 31%34%38% 43% 41% 41% 39% 38% 36% 35%40%1%4%5% 5%6%7%8% 9% 9% 11% 12%12% 12%12% 34%36% 42% 41%39%35%30% 31% 31% 30% 34% 35% 33%32% 5%6%7% 7%5% 5% 4% 4% 4% 4%4% 4%4%3%27%19%13% 13% 11% 10% 10% 10% 10% 12% 8% 9% 12% 9%69,801 72,030 69,524 86,220 1,13,336 1,48,185 1,83,167 1,91,739 1,98,145 2,08,415 2,11,852 2,12,888 2,19,870 2,35,977
+Mar'19 Mar'20 Mar'21 Mar'22 Mar'23 Mar'24 Jun'24 Sep'24 Dec'24 Mar'25 Jun'25 Sep'25 Dec'25 Mar'26
+NHB Bank Loans ECB/ MTN NCD Tier II/ Perpetual CP/ WCDL
+Diversified Funding Sources (Total Borrowings)
+₹ Cr
+Highest possible domestic credit rating
+AAA with stable outlook
+Int’l credit rating of BBB
+1st USD bond issue in Jan’25
+Access to diverse pool of domestic and 
+international lenders at competitive rates
+One of the Lowest Average Cost of Borrowings
+8.3%8.1%
+7.4%
+6.3%6.6%7.3%7.8% 7.8% 7.8% 7.9% 7.8%7.4%7.2% 7.1%8.1% 8.1% 8.1% 8.1% 7.9%7.7%7.5% 7.4%
+FY19 FY20 FY21 FY22 FY23 FY24 Q1FY25 Q2FY25 Q3FY25 Q4FY25 Q1FY26 Q2FY26 Q3FY26 Q4FY26Two-point average
+Daily average
+Note: NHB: National Housing Bank, ECB: External commercial borrowing, MTN: Medium term note, NCD: Non -convertible debenture, CP:  Commercial paper, WCDL: Working capital demand loan
+=== page 35 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+34
+Key Ratios
+16.7%16.5% 16.4% 16.2%16.8%16.5%17.2%20.2%
+19.0%
+11.9%11.6%12.0% 12.0%12.7% 12.7%13.7%16.8%
+15.9%
+4.9% 4.9%4.3% 4.1% 4.1%3.8%3.6% 3.4%3.1%6.3x6.8x 6.9x 6.8x 6.7x 6.6x
+6.1x
+5.1x5.3x
+Q4FY24 Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26 Q3FY26 Q4FY26
+Total CRAR Tier-I Tier-II Regulatory CRAR Total Borrowings to Total Equity
+15%
+Note: CRAR, Tier -I, and Tier -II for TCL Standalone; Total Borrowings to Total Equity ratio  for TCL Consolidated. The figures / ratios in the previous year / period have been regrouped wherever necessary, in order to make 
+them comparable to the current year / period. 
+=== page 36 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+35
+11% 12%15%21%25%33%47%68%81%100%
+2% 3%6%10%16%24%39%72%77%100%
+0%10%20%30%40%50%60%70%80%90%100%
+0%20%40%60%80%100%120%
+1 to 7 Days 8 to 14 Days 15 days to 1M 1 to 2M 2 to 3M 3 to 6M 6M to 1y 1y to 3y 3y to 5y Over 5yChart Title
+Cumulative Inflows (%) Cumulative Outflows (%) Cumulative Surplus / (Gap) (%)ALM Bucketing (Standalone)
+Cumulative Inflows & Outflows
+9%
+ 9%
+ 9%
+ 10%
+ 9%
+ 9%
+ 9%
+ (3)%
+ 3%
+ 0%
+=== page 37 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_05/4524828 -001_Avinash Anand_Section Dividers
+Guidance
+=== page 38 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+37
+Particulars(1) Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q4FY26 FY26 FY26 
+AUM growth (YoY) 25% 22% 26% 28% 22 – 25% 28% 22 – 25%
+Credit cost 1.4% 1.1% 1.0% 0.8% 0.8 – 0.9% 1.0% 1.0 – 1.1%
+Cost to income 33.7% 36.6% 35.7% 36.1% ~ 35.6% 35 – 36%
+ROA 2.1% 2.2% 2.3% 2.5% 2.4 – 2.5% 2.2% 2.2 – 2.3%
+ROE 14.3% 14.9% 14.4% 14.6% ~ 14.3% 14 – 15%
+PAT growth (YoY) 20% 33% 39% 51% ~ 36% ~32 – 35%
+NNPA 0.6% 0.6% 0.6% 0.5% 0.6 – 0.7% 0.5% 0.6 – 0.7%GuidancePerformance vs. Guidance (Excluding Motor Finance)
+Note: (1) Excl. non -recurring items. Guidance
+=== page 39 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+38
+Particulars(1) Q1FY26 Q2FY26 Q3FY26 Q4FY26 Q4FY26 FY26 FY26 
+AUM growth (YoY) 18% 15% 18% 20% 18 – 20% 20% 18 – 20%
+Credit cost 1.6% 1.3% 1.2% 0.9% < 1% 1.2% ~1.2%
+Cost to income 36.8% 39.7% 38.4% 38.3% ~ 38.3% 38 – 39%
+ROA 1.8% 1.9% 2.1% 2.3% 2.3 – 2.4% 2.0% 2.0 – 2.1%
+ROE 12.5% 13.0% 13.1% 13.9% ~ 12.9% 13 – 14%
+PAT growth (YoY) 118% 14% 20% 43% ~ 38% ~35%
+NNPA 1.0% 1.1% 1.0% 0.9% < 1.0% 0.9% < 1.0%Performance vs. Guidance (Including Motor Finance)
+Note: (1) Excl. non -recurring items. Guidance Guidance
+=== page 40 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+39
+FY28 Guidance (including Motor Finance)
+AUM CAGR
+(FY25 -28E)
+23% – 25%
+Cost to income
+33% – 34%
+Credit cost
+< 1.0%
+Net NPA
+< 1.0%
+PAT CAGR
+(FY25 -28E)
+> 30%
+ROA
+2.5%  – 2.7%
+Return on Equity 
+17% – 18%
+Note: Same as indicated in Q2FY26 investor presentation.
+=== page 41 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_04/4485076 -001_Tata Capital_Avinash Anand_Cover and dividers
+Technological Capabilities
+
+=== page 42 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+41
+Digital First – Essence of Our Organization
+•Digital -first NBFC
+•Technology at the core of how we 
+think, work and deliver
+•Transforming products to create 
+seamless, scalable and smarter 
+financial journeys
+•Harnessing AI to reimagine finance 
+and deliver superior customer 
+experiences
+•Leverage AI to achieve operational 
+excellence, empowering workforce and 
+unlocking new possibilities
+•Every product design, experience, and 
+promise is shaped around customers’ 
+needs and aspirations
+•Empowering customer ambitions and 
+fulfilling their dreams
+AI > Next
+ Customer at the Core
+2
+ 3
+Digital DNA
+1
+
+=== page 43 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+42
+Digital DNA Driving Impact
+Note: All values are for Q4 FY26 / as of Mar 31, 2026, unless specified otherwise stated. (1) In retail finance; (2) BRE – Busin ess rule engine.Digitizing entire loan lifecycle to improve customer experience and create a seamless & efficient process 
+Customers 
+onboarded via 
+digital platforms
+97%Disbursements(1) 
+via scorecards / 
+BRE(2)
+98%Collections via 
+digital channels
+99%Customer queries 
+address able 
+digitally
+98%Digital 
+partnerships
+180+Profile checks, digital KYCs, loan -linked 
+insuranceOnboarding & 
+cross -sales
+Digital partnerships to 
+enhance reach
+Pre-approved loan offers
+API-enabled process flowsUnderwriting
+GenAI powered credit memos 
+BRE(2) based underwriting
+Data integration
+Multiple Digital Payment Channels , 
+predictive analytics for loan recoveryCollections
+Digital workflow system
+Field collection app
+Statistical models for early 
+bucket resolutionCustomer service
+Multilingual Capabilities
+DIY service via multiple 
+channels
+Omnichannel customer service
+Integrate data from credit bureaus, 
+financial statements etc, AI based risk 
+assessmentGenAI enabled e -mail replies & chatbot. 
+IVR, push notifications and Marketing 
+communications
+=== page 44 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+43
+An AI -First NBFC – Harnessing AI capability 
+AI for Conversation
+AI for TechnologyAI for People Capability AI for Document Intelligence
+AI in Advance AnalyticsUnified voice hub powers sales, service & 
+collection conversations
+Improved conversions | Deeper engagements 
+| Faster resolutions | Improve collection 
+efficiencyVision AI – extract, process & refine data for 
+consistent decision -making
+Faster processing | Enhanced productivity | 
+Quality checkAI ready culture - training the workforce  
+Employee assist platforms - 12,000+ 
+employees trained
+Agentic platform using multiple LLM, and 
+RAG based architecture with vectoring and 
+embedding capabilities 
+100% hybrid cloud environmentAI-led insights across the loan lifecycle
+↑ Revenues | Accelerate decisioning | Mitigate 
+risk | Capture untapped opportunities
+
+=== page 45 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+44
+AI > Next – Building an AI -First NBFC (1/2)
+AI in Underwriting
+FinSight :
+▪In-house AI powered bank 
+statement analyzer for faster, 
+sharper underwriting decisions
+AI powered document intelligence:
+2cr+  documents processed
+87%  adoption in 2W
+90%  adoption in MFI
+➢Smarter & faster underwriting assistance 
+➢Insights to support credit decisions
+➢Improved TAT and greater standardization ➢Document intelligence
+➢Automated AI workflows
+➢Reduced manual intervention
+AI in Operations
+AI powered underwriting assist:
+30% increase in underwriting 
+productivity
+85%  adoption rate in SME
+Operational efficiency:
+▪80+ bots operational
+▪35% increase in productivity
+AI generated marketing:
+80%  campaign creatives
+75% mailers and banners
+50%  of videos and blogs
+AI in Marketing 
+& Onboarding
+Driving business:
+▪15% of direct PL business
+➢AI-generated creatives
+➢Multilingual AI interactions
+➢Improved lead to sales ratio
+
+=== page 46 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+45
+AI in Collections
+AI powered collections:
+80+  predictive models used to improve collection 
+efficiency
+30%  early bucket collections using voice AI agents
+Strengthening collections:
+▪Unsecured retail X bucket efficiency improved 
+by 20%
+AI > Next – Building an AI -First NBFC (2/2)
+AI in Service
+AI powered customer interactions:
+90% of welcome calls through AI
+80%  reduction in manpower for welcome calls
+➢Scalable & intelligent customer service
+➢Agentic AI workflows for voice and email communication
+Improved customer service:
+▪70%+ emails serviced through AI assist➢AI agents managing outreach
+➢Streamlining recovery workflows & strengthening 
+collection efficiency
+
+=== page 47 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+46
+Loan and 
+Wealth AppCustomer 
+PortalDigital First Approach – Customer -Centric and Experience -Driven
+Digital 
+onboardingCustomer friendly
+ journeysPersonalized 
+offeringsDigital 
+self-servicing
+Services for 
+Retail
+Services for 
+Corporate
+Customer 
+Journeys
+Product 
+Suite167+
+120+
+25+
+25+
+
+=== page 48 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_04/4485076 -001_Tata Capital_Avinash Anand_Cover and dividers
+ESG Overview
+
+=== page 49 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+48
+Tata Capital ESG Initiatives – Commitments (1/3)
+Key Pillars of Sustainability Commitments
+Board Independence 
+and Diversity
+Diverse Board, with five out of eight 
+members serving as independent directors, 
+bringing industry expertise, including two 
+female independent directors. 
+Data & Risk 
+Governance
+Advanced cybersecurity, enterprise risk 
+management and compliance with data 
+protection regulations.Leadership Commitments 
+toward Sustainability
+Strong leadership accountability through 
+robust oversight. Sustainability is 
+governed under Risk Committee of the 
+Board which has adopted a Sustainability 
+Policy.
+Sustainability -Focused 
+Business 
+ESG-aligned business strategies for 
+sustainable growth - Cleantech Financing; 
+Financial Inclusion; Affordable Housing, 
+MF LoansEthical
+ Framework
+100% of Employees trained in Tata Code 
+of Conduct articulating values, ethics and 
+business principles; POSH; Anti -Bribery 
+and Anti -Corruption Policy; Whistleblower 
+policy.
+Strengthening Communities 
+through Responsible Action
+Tata Capital’s robust CSR strategy focusses on 
+uplifting communities, protecting 
+environment, and fostering an equitable 
+future. The role serves as a catalyst for 
+sustainable development and inclusive growth.
+=== page 50 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+49
+Tata Capital ESG Initiatives – Sustainability Indicators  (2/3)
+A pioneer in Cleantech financing in the country, TCL has built a robust foundation to push the ESG agenda. Guided by 
+our long term vision and unwavering commitment, we are embedding ESG considerations across our portfolio to 
+power India’s ambition of achieving a low carbon future alongside inclusive economic growth .  
+Environmental KPIs Social KPIs Governance KPIs
+Sustainability agenda governed under 
+Risk Committee of the Board 
+The Tata Code of Conduct governs our 
+integrity, trust and transparency
+AAA by Crisil, ICRA, CARE & India 
+Ratings
+BBB by S&P Global
+100% employees trained on Ethics, 
+Anti-Bribery, etc.
+10% women in workforce
+Pioneer in Cleantech Financing in 
+India
+600+ MF branches across the country
+ More than 600+ Cleantech projects
+8 Lakh+ Women empowered by MF 
+Loans
+30 GW+ renewable capacity financed
+3.7+ mn lives impacted by CSR 
+projects till date
+2.5+ Lakh saplings planted till date 
+with 80% survival rate
+All figures as of Mar 31, 2026.
+=== page 51 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+50
+Catalyzing Green Projects Through Cleantech Finance (3/3)
+Deep partnerships with global climate investors 
+enabling access to long -tenure, low -cost capital
+In-house sourcing for Cleantech
+and Infrastructure Finance
+Focus Areas
+ Renewable Energy
+ Electric Mobility
+ Energy Efficiency
+Green & Sustainable 
+Financing
+Waste ManagementIn 2011, our erstwhile subsidiary TCCL(1) was set up by our Company and International Finance Corporation, with a primary focus on green and sustainable financingFinancing green  projects through Cleantech Finance
+Cleantech Financing
+EV Financing
+600+
+Cleantech projects financed
+30GW+
+Renewable capacity financed
+45,000 Cr+
+Disbursals till date
+75,000+
+Live EV customers
+1,750+
+Customers added every month
+~7%
+of 2W portfolio
+Note: (1) Tata Cleantech Capital Limited – merged into TCL.
+=== page 52 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+51
+Tata Capital ESG Initiatives – CSR Flagship Programmes  (1/2)
+The Green Switch
+ JalAadhar
+Vanaropan for 
+Neutrality (VN)
+Key CSR programmes dedicated to environmental impact
+Providing Water Security to water -
+stressed areas 
+•Aims to achieve water security in water -stressed 
+communities through integrated watershed 
+development (IWD), waterbody rejuvenation 
+(WR) and water access (WA) models.
+•Impacted 410 villages benefitting over 8 lakh+ 
+individuals. Created 50,000+ lakh litres  of 
+water harvesting capacity and rejuvenated 
+1,000+ water bodies across 4 states .Providing Energy Security to Unelectrified 
+communities
+•Use solar micro off -grid systems to provide 
+24X7 power to households, streetlights, 
+common areas, and community buildings
+•24/7 clean electricity now powers 6,000+ 
+homes in 124 hamlets across 4 states, 
+touching ~28,000 lives. The total installed 
+solar capacity is of ~ 1.7 MWp. Creating Additional Carbon Sink
+•Under the VN program, 41+ ha  of land has 
+been afforested  with 2.5+ lakh  native forest 
+and mangrove saplings in Thane, Delhi, 
+Hyderabad, Gujarat and Tamil Nadu.
+•~3,500+ tons of carbon will be sequestered 
+upon full growth of the saplings.
+10,31,530+ Lives impacted till date, across all climate action initiatives
+Note: All figures as of Mar 31, 2026.
+=== page 53 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+52
+Tata Capital ESG Initiatives – CSR Flagship Programmes  (2/2)
+Education Aarogyatara
+18,67,000+ lives impacted till dateEradication of curable blindness
+•Mentor and fund the education of young academic achievers from 
+economically underprivileged families. Till date, a total of 40,000+ 
+Pankh scholarships were awarded to students.
+•Through our financial literacy programme , awareness outreach to 
+communities enables knowledge and confidence to make informed 
+financial decisions, creating a lasting impact in their lives.
+•Skilling initiatives focus on building future -ready and livelihood -
+oriented capabilities, like STEM (robotics, AI), life skills and 
+entrepreneurship.•The company is deeply committed to restoring sight and 
+transforming lives by working to eradicate curable blindness, 
+especially among underserved and rural communities.
+•Till date, screened 18.67 Lakh individuals and supported 1.96 Lakh 
+individuals with vision correction surgeries.
+5,24,330+ lives impacted till date
+Pankh Scholarship | Upskilling Initiatives | Financial Literacy
+Note: All figures as of Mar 31, 2026.Key CSR programmes dedicated to healthcare and education 
+=== page 54 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+53
+Awards and Recognition
+Recognition for 
+JalAadhar and The 
+Green Switch Projects as 
+Best Practice at the Tata 
+Group Ethics and 
+Affirmative Action 
+Summit 2025Innovative Use of 
+Existing Medium – Metro 
+(Bronze) for Mitaye 
+Faasle at e4m NEONS 
+OOH Awards 2025Best use of Quora 
+(Bronze) at afaqs! Digies 
+Awards 2025Platinum Category 
+Award at the 15th 
+Annual EEF Global 
+Environment Awards 
+2025Awarded ‘Excellence in 
+Data -Driven Credit 
+Innovation’ at the ETBFSI 
+Exceller  Awards 2025Multiple awards for 
+Social Media at afaqs! 
+Marketers Xcellence 
+Awards 2025India Green Energy 
+Award winner for 
+Electric Vehicle 
+Financing at India Green 
+Energy Awards (IFGE) 
+2025
+Tata Innovista Award for 
+our Gen AI -powered 
+CAM Project - 2025
+Best Data Quality Award 
+in the NBFC Consumer 
+Emerging Segment – 
+Silver Category by 
+TransUnion CIBIL
+ET Martech Awards 2025 
+for Innovative AI & 
+Automated Campaigns
+Awarded ‘Customer 
+Centric Company of the 
+Year’ at the 24th CX 
+Strategy Summit and 
+Awards 2026Best BFSI Brand 2025 by 
+ET Edge
+NBFC and Fintech 
+Excellence Awards 2026 
+for Innovative 
+Application of AI 
+(Corporate Finance)Global Environment 
+Award 2025 for the 
+Green Finance Sector
+
+=== page 55 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_04/4485076 -001_Tata Capital_Avinash Anand_Cover and dividers
+Thank You
+=== page 56 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_04/4485076 -001_Tata Capital_Avinash Anand_Cover and dividers
+Annexures
+=== page 57 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+56
+Select prior experience
+⚫Associated with Tata Consultancy Services
+for 29+ years
+Co-founder of Pacific Paradigm Advisors LLP 
+Select prior experience
+⚫Senior Managing Director, Blackstone
+⚫Independent Director - Infosys and JSW Steel, 
+among others
+Chief Strategy Officer – Tata Sons
+Select prior experience
+⚫Managing director in Global Investment 
+Banking, DSP Merrill Lynch
+⚫Infosys Technologies
+Select prior experience
+⚫Retired from civil services as principal chief 
+commissioner of income tax after serving
+for 35+ years
+Tata Sons representative Independent Directors MD & CEOStrong governance practices aimed at ensuring resilience
+Nagaraj Ijari Punita Kumar Sinha
+Independent Director Independent DirectorAnkur Verma
+Additional & Non -Executive DirectorGeetha Ravichandran
+Additional & Independent Director
+Select prior experience
+⚫Associated with State Bank of India
+for 34 years
+⚫Deputy Managing Director (Corporate 
+Accounts Group), SBI
+Select prior experience
+⚫Executive Director, Board of ICICI Bank
+⚫Chairman, ICICI Home Finance Company
+⚫Board, ICICI Prudential Life Insurance Company
+⚫Partner, True North Managers
+Executive Director, Group CFO – Tata Sons
+Select prior experience
+⚫Chief Strategy Officer, Corporate Strategy & 
+Business Development cell with Aditya Birla 
+Management Corporation
+⚫Head, Corporate Advisory and Finance (South 
+Asia and SEA) with Standard Chartered Bank
+Select prior experience
+⚫Associated with State Bank of India
+for 37 years
+⚫President and Chief Operating Officer and 
+Whole Time Director in SBI Capital MarketsSujit Kumar Varma Rajiv Sabharwal
+Independent Director Managing Director & CEOSaurabh Agrawal
+Chairman & Non -Executive DirectorRamanathan Viswanathan
+Independent Director
+Distinguished Board
+=== page 58 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+57
+Manish Chourasia 
+Chief Operating Officer - 
+Corporate & Cleantech 
+FinanceNeeraj Dhawan 
+Chief Operating Officer - 
+Motor Finance and DSMGNarendra Kamath
+Chief Operating Officer - 
+SME FinanceVivek Chopra 
+Chief Operating Officer - 
+Retail FinanceAbonty Banerjee
+Chief Operating Officer – 
+IT, Digital, Operations & 
+MarketingRakesh Bhatia 
+Chief Financial Officer
+•American Express
+•IDBI Bank
+•Board, International Asset 
+Reconstruction
+Kiran Joshi 
+Head – TreasuryAvijit Bhattacharya 
+Chief Human Resource 
+OfficerSandeep Tripathy 
+Head of Strategy & 
+Investor RelationsNitin Dharma
+Chief Risk OfficerSarita Kamath
+Chief Legal and 
+Compliance Officer & 
+Company SecretarySaurav Basu 
+CBO – Wealth & Advisory 
+BusinessAbha Sarda 
+Chief Internal Auditor
+Rajiv Sabharwal
+Managing Director 
+and CEO
+•ED, Board of ICICI Bank
+•Board, ICICI Prudential Life 
+Insurance Company
+•Chairman, ICICI Home Finance
+•Partner, True North Managers
+Select prior experience: (36 yrs)
+•ICICI Bank
+•Tata Cleantech Capital
+•IL&FS Infra Asset 
+ManagementSelect prior experience: (31 yrs)
+•Jio Finance
+•ICICI Bank, HDFC Bank, CSB 
+Bank, Yes Bank
+•GE Capital TransportationSelect prior experience: (31 yrs)
+•Tata MotorsSelect prior experience: (28 yrs)
+•ICICI BankSelect prior experience: (26  yrs)
+•ICICI Bank
+•Ernst & YoungSelect prior experience: (30 yrs) Select prior experience: (30 yrs)
+•Tata Motors Finance •Tata Group companies •Tata Sons
+•Goldman Sachs (India)•ICICI Bank
+•Birla Global Asset Finance•Tata Services •Citibank, NA •Tata Capital Housing Finance
+•Times of India Group
+Sarosh Amaria 
+Managing Director - 
+TCHFL
+Select prior experience: (28 yrs)
+•Founding team member of 
+Tata Capital (since 2007)
+Select prior experience: (32 yrs) Select prior experience: (17 yrs) Select prior experience: (29 yrs) Select prior experience: (2 5 yrs) Select prior experience: ( 27 yrs) Select prior experience: (21 yrs) Select prior experience: (35 yrs)Dedicated management team instrumental in driving sustainable growthExperienced Management Team
+=== page 59 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+58
+Consolidated Balance Sheet
+Particulars (₹ crores) Mar-25 Mar-26
+Total Net Loans  2,21,950 2,68,203
+Investments 9,866 9,508
+Other financials assets 16,503 12,792
+Total Assets 2,48,320 2,90,504
+Total Borrowings 2,08,415 2,35,977
+Other financials liabilities 5,679 7,419
+Networth  33,046 45,861
+Total Equity 31,238 44,658
+Instruments entirely equity in nature 1,808 1,203
+Non Controlling Interest 1,179 1,246
+Total Liabilities and equity 2,48,320 2,90,504
+The figures in the previous year / period have been regrouped wherever necessary, in order to make them comparable to the cur rent year / period.
+=== page 60 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+59
+Total Gross Loans
+Particulars (₹ crores) Mar-25 Mar-26
+Retail Gross Loan 1,41,114 1,56,532 
+SME Gross Loan 59,463 76,490 
+Corporate Finance Gross Loans 25,976 40,370 
+Total Gross Loans 2,26,553 2,73,392 
+Total Gross Loans YoY Growth % 40.5% 20.7%
+Secured Gross Loans as % of Total Gross Loans 79.0% 79.2%
+=== page 61 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+60
+Additional Metrics (Based on Reported Financials)
+Note: The figures in the previous year / period have been regrouped wherever necessary, in order to make them comparable to t he current year / period.Particulars (₹ crores) FY25 FY26 YoY growth
+Disbursement 1,42,302 1,69,660 19%
+Interest Income 25,724 28,652 11%
+Fee income 2,342 2,608 11%
+Investment income 305 323 6%
+Total Income 28,370 31,583 11%
+Finance Cost 15,030 15,985 6%
+Net Total Income 13,340 15,597 17%
+NIM + Fee Income Margin 13,036 15,275 17%
+Operating expense (incl. exceptional items) 5,613 6,017 7%
+Credit Cost 2,827 3,023 7%
+Profit after taxes (attributable to owners of the company) 3,665 4,846 32%
+Ratios % 
+Average Yield 12.6% 11.7%
+Average Cost of Borrowings 7.8% 7.2%
+Net Interest Margin 5.2% 5.2%
+NIM + Fee Income Ratio 6.4% 6.2%
+Cost to Income Ratio 42.1% 38.6%
+Operating Expenses Ratio 2.7% 2.5%
+Credit Cost Ratio 1.4% 1.2%
+Return On Assets 1.8% 2.0%
+Return On Equity 12.7% 12.8%
+=== page 62 ===
+/Admin/ADVANCED GRAPHICS/Cover and Template/2025/2025_05/4524828 -001_Avinash Anand_Section Dividers
+Glossary and definitions
+=== page 63 ===
+COLOR PALETTE
+Text
+ 50    56    62
+Accent bar
+ 25    97    172
+ACCENT
+S1
+Bullets25
+ 97
+ 172146
+ 191
+ 239
+2221
+ 220
+ 14248
+ 248
+ 152
+3177
+ 177
+ 177224
+ 224
+ 224
+491
+ 155
+ 213189
+ 215
+ 238
+5112
+ 173
+ 71197
+ 224
+ 180
+6126
+ 215
+ 247203
+ 239
+ 252
+Hyperlink25
+ 97
+ 172146
+ 191
+ 239
+Followed
+Hyperlink221
+ 220
+ 14248
+ 248
+ 152
+Lines50
+ 56
+ 62
+Highlights25
+ 97
+ 172TABL
+E
+62
+Term Definition 
+Average cost of borrowings ratio Finance cost as a percentage of average total borrowings for the relevant fiscal / period.
+Tier IComputed from the standalone financial statements of the company, as tier I capital divided by total risk weighted assets, in  accordance with relevant RBI guidelines as at the last 
+day of the relevant fiscal / period.
+Capital risk adequacy ratio or CRAR Computed from the standalone financial statements of the company, TCHFL, as applicable, as the sum of CRAR - tier I and CRAR - tier II.
+Cost to income ratio Operating expenses as a percentage of net total income for the relevant fiscal / period.
+Credit cost ratio Credit cost as a percentage of average total net loans (annualized).
+Fee income Rental income, fees and commission income, net gain on derecognition of financial instruments and other income as reported in  the restated consolidated financial information for 
+the relevant fiscal / period.
+Gross stage 3 loans Total gross loans which are more than 90 DPD from their contractual payments or as prescribed by applicable regulations and i ncludes Purchased or Originated Credit Impaired 
+Loans (POCI).
+Gross stage 3 loans ratio Ratio of gross stage 3 loans as a percentage of total gross loans as at the last day of the relevant fiscal / period.
+Investment incomeDividend income, net gain on fair value changes and net gain on derecognition of associates as reported in the restated conso lidated financial information for the relevant fiscal / 
+period.
+Net stage 3 loans Gross stage 3 loans as reduced by impairment loan allowances provided on gross stage 3 loans as at the last day of the specif ied fiscal / period.
+Net stage 3 loans ratio Gross stage 3 loans as reduced by impairment allowances provided on gross stage 3 loans as a percentage of total gross loans as reduced by impairment allowances provided on 
+gross stage 3 loans as at the last day of the relevant fiscal / period.
+Net total income Total income reduced by finance cost for the relevant fiscal / period.
+Operating expenses ratio Operating expenses as a percentage of average total net loans.
+Provision coverage ratio or PCR Impairment allowances provided on gross stage 3 loans as a percentage of gross stage 3 loans as at the last day of the releva nt fiscal / period.
+Return on assets or ROA Profit after tax as a percentage of average total net loans.
+Return on equity or ROE Profit after tax as a percentage of average total equity.
+Total equity Equity attributable to owners of the company reduced by instruments entirely equity in nature as reported in the restated con solidated financial information as at the last day of the 
+relevant fiscal / period.
+Total gross loans Total net loans adjusted for unamortised loan sourcing fees, unamortised loan sourcing costs and impairment allowances as at the last day of the relevant fiscal / period.
+Total net loans Loans as at the last day of the relevant Fiscal / period.
+Net AUM Total Net Loans plus outstanding balance of loans transferred through direct assignmentDefinition of Key Terms

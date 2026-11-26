@@ -1,0 +1,28 @@
+--- CIM_2032_WebXMLFile_20260901_182302052_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CANBK ; Name Of The Company: CANARA BANK ; Scrip Code: 532483 ; MSEISymbol: NOTLISTED ; ISIN: INE476A01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-01 ; Time Of Occurrence Of Event Or Information: 15:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Remarks For Website Dissemination: https://www.canarabank.bank.in/pages/disclosure-of-events-or-information ; Date Of Report: 2026-09-01 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief General Manager ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Mahesh M Pai ; Effective Date Of Reason Of Change: 2026-09-01 ; Type Of Change: Change in designation ; Previous Designation Of Designated Person: General Manager ; Name Of Designated Person: Sunil Kumar Yadav ; Salutation: Mr. ; Name Of The Person: Mahesh M Pai ; Designation Of Person: Chief General Manager ; Date On Which The Resignation Letter Was Received: 2026-07-08 ; Effective Date Of Resignation: 2026-09-01 ; Reason Of Resignation In Brief: To pursue better prospects in Banking Sector.
+
+--- Resignation_letter_2.pdf ---
+Date:- 07/07/2026
+To
+The Managing Director andChief Executive Officer
+Canara Bank,
+Head Office,
+112, JC Road,
+Bengaluru - 560002
+Respected Sir,
+Sub:- Resignation from the services of the Bank
+I hereby submit my resignation from the position ofChief General Manager of
+Canara Bank, as I pursue better prospects in the banking sector. I kindly request
+you to relieve me from my responsibilities effective 31st July 2026.
+I am grateful for all the opportunities, guidance and encouragement that I have
+received during my service inCanara Bank. Further, I thank all my seniors and
+colleagues present and past who have helped me to grow in this great
+organisation founded by Late Sri. Ammembal Subbaro Pai.
+I extend my best wishes for the Bank's continued achievements in the future.
+Thank you once again for your support and guidance.
+Yours sincerely,
+
+Mahesh M Pai (Staff No. 854815)
+Chief General Manager
+
+

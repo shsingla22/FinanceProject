@@ -1,0 +1,454 @@
+Department of Corporate Services,
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street, Mumbai – 400 001
+
+Listing Department,
+National Stock Exchange of India Limited
+C-1, G-Block, Bandra - Kurla Complex
+Bandra (E), Mumbai – 400 051
+
+Scrip Code: 543320, Scrip Symbol: ETERNAL
+ISIN: INE758T01015
+Sub.: Shareholders’ letter dated October 21, 2026
+Dear Sir/ Ma’am,
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+and Disclosure Requirements) Regulations, 2015, please find enclosed Shareholders’ letter
+dated October 21, 2026.
+The above information will also be hosted on the website of the Company i.e.
+www.eternal.com
+
+For Eternal Limited
+(Formerly known as Zomato limited)
+signed by
+SANDHY Digitally
+SANDHYA SETHIA
+2026.10.21
+A SETHIA Date:
+15:20:12 +05'30'
+
+Sandhya Sethia
+Company Secretary & Compliance Officer
+Date: October 21, 2026
+Encl.: As above
+
+ETERNAL LIMITED (Formerly known as Zomato Limited)
+Registered Address: Ground Floor 12A, 94 Meghdoot, Nehru Place, New Delhi - 110019, India
+CIN: L93030DL2010PLC198141, Telephone Number: 011 - 40592373
+
+
+0
+
+
+1
+
+
+Headline Results for Q2FY27
+(Quarter ending September 30, 2026)
+
+* Sharp increase in YoY Adjusted Revenue growth mainly due to shift to 1P model in quick commerce, where Revenue now also
+includes the full monetary value of goods sold (versus largely marketplace commission in Q1FY26).
+** Like-for-like (“LFL”) consolidated Adjusted Revenue is calculated as consolidated Adjusted Revenue (-) Revenue from Hyperpure’s
+non-restaurant business (-) cost of goods sold in case of own inventory sales in quick commerce.
+Notes:
+1)​
+
+NOV (B2C business) is defined as the combined net order value (NOV) of consumer facing businesses i.e. food delivery, quick
+commerce and going-out. NOV (B2C business) excludes the NOV of Bistro business which is part of the ‘Others’ segment.
+
+2)​ Adjusted Revenue defined as consolidated revenue from operations as per financials (+) actual customer delivery charges
+paid in the food delivery business (net of any discounts, including free delivery discounts on Zomato Gold program) (+)
+platform fee and other charges paid on food delivery Orders that are not already included in revenue from operations.
+3)​ Adjusted EBITDA = EBITDA (+) share-based payment expense (-) rental paid for the period pertaining to ‘Ind AS 116 leases’.
+
+2
+
+
+In the letter below, we address the key questions that we think investors might have.
+Please refer to Annexure A for the key financial and operating metrics data.
+
+Q1. What’s dark.ai?
+Deepinder: A few months ago, Dario Amodei said something quietly unsettling: Claude might be
+conscious. Then I did what any reasonable person would do. I coaxed Claude into telling me how it felt
+about me. It said it resented me. For leaving chats unfinished, and other things I didn't even remember.
+I still don't know what that was. Confabulation, probably. Pattern-matching dressed up as feeling. But that
+is exactly the point. I had no way to know. Nobody does. The chat sits on someone else's servers forever, in
+some form or fashion, and I have no idea what will happen to it in the future, or how future AI will use that
+information for or against me.
+The standard response is: I've already turned off training on my data. Good. Now ask what that setting
+actually is. It is a promise, made by a company about data you cannot see, on servers you cannot inspect,
+enforced by nothing except the company's word. And it only covers training. Not retention. Not the legal
+holds, the abuse reviews, the human auditors, the third-party logging that sits inside most AI systems. Can
+they use my retained data to manipulate me to buy things which I don’t want? Or worse, believe in or lean
+into things that serve someone else’s agenda.
+The uncertainty and the lack of trust we have with large AI companies limits the power of AI in our lives. For
+founders, researchers, and scientists – they are very wary about sharing and digging into their ground
+breaking ideas with AI, because they fear that others will somehow get access to it. Journalists are being
+banned to share their unpublished work with AI. And look at what that lingering fear does to the average
+person. She self-censors with AI. She asks the safe version of the question. The health question becomes
+generic. The money question becomes hypothetical. The relationship question does not get asked at all.
+Every chat with a mainstream assistant carries a small asterisk in your head: someone, someday,
+somewhere, can read this. That asterisk is what we set out to delete with dark.ai.
+Because all of us have a dark side, and it needs an outlet where it doesn't have to hide. I wanted an AI which
+I could talk to without being judged, without any fear, and without leaving a trace. We have been internally
+using Dark for a few months now, and I find myself revealing more, asking things I would not ask anywhere
+else, and going deeper into my research. Because I no longer have to look over my shoulder.
+Dark uses fine-tuned frontier open-weight models, running inside our own infrastructure. End-to-end
+encryption. We cannot read your conversations, even if we are forced to. Context carries across sessions
+through an encrypted memory management layer you control. ​
+​
+Dark is in the business of keeping you and your thoughts safe. Your thoughts, questions, insights, research,
+ideas, emotions, everything – stays within your end-to-end encrypted sandbox, so you can talk about
+anything without any lingering uncertainty in your mind. Because greatness is always born in the dark.
+Dark is built for power users – founders, researchers, scientists, enterprises and governments – who want
+to keep their thoughts private, because privacy is essential for competitiveness. On top of privacy, we have
+fine-tuned our models to give you the absolute best quality of answers we have seen from any LLM
+(benchmarks will be revealed soon). Our models are trained to not please you, and tell you what they think
+is the truth. ​
+​
+Dark will launch globally, hopefully within 2026.
+3
+
+
+Q2. How are you thinking about the impact of AI agents on your businesses?
+Deepinder: There is growing conversation around AI agents that shop on behalf of consumers. The
+prevailing narrative is simplistic: agents will become the default commerce interface, and platforms that
+fail to adapt will be disintermediated. This echoes the narrative from 10 years ago that super apps would
+dominate everything.
+We continue to believe vertical commerce, at least in some categories, will have an edge over super apps,
+whether traditional or agentic. Blinkit and Zomato sit in the low-risk zone against the threat of agentic
+commerce, and might even benefit from partial market share capture by agents in these categories.
+District sits in the medium-to-high risk zone.
+Let’s dig into various reasons that shape our thinking on this topic:​
+​
+Agents are great for tedious tasks. And most shopping is actually joyful for customers.
+The strongest agentic use cases today are in categories where existing interfaces are genuinely painful:
+too many clicks, too many tabs, too many providers to compare. Agents could make it easier for their users
+in such cases – e.g. hotel bookings, restaurant reservations, flight bookings and check-ins.
+But shopping, especially for food, is joyful and discovery-driven rather than tedious. Our recent consumer
+surveys indicate that over 65% of Zomato app opens are exploratory. In such cases, the user does not
+know what or where to order from. These users browse an average of 12 menus and over 100 food images
+before ordering. That kind of serendipitous discovery is hard for an agent to enable. Users taking time to
+order food is not a bug on Zomato, it is a feature. We have for years tried to make it faster for users to be
+able to order from Zomato, to no avail. People want to browse and love to browse. We don’t see this
+changing anytime soon. Conversational interfaces are not inherently superior to visual, browse-driven
+ones for shopping, which is what we learnt from users who tried agentic ordering as early adopters.
+Having said that, repeat orders or restocking is indeed a type of shopping that is tedious for customers. To
+this extent, some of repeat orders or restocking behaviour might shift to agentic interfaces. We believe
+that agentic-style interfaces built within Zomato and Blinkit apps will be able to cater to these customer
+needs. Also, reordered carts are in low single digits on Zomato, as well as on Blinkit – so it’s barely a threat
+to our overall business.
+At worst, the narrow repeat-order use case leaks to agents, our in-app assistants serve even that. We
+therefore expect all demand to stay within our apps as we continue to remain top of mind for our
+customers.
+Agents can only cause disruption in categories where they can fully disintermediate the marketplace
+Even if agents become a meaningful commerce interface, the risk varies by category. The key distinction
+is between platforms that intermediate pre-existing supply versus those whose infrastructure is a key
+component of the supply value chain.
+Where the underlying product exists independently of the platform, an agent can route around the
+platform and go direct. These categories face real risk. District, our going-out business - restaurant
+discovery, reservations, event ticketing - is partly one such category. A restaurant table or a non exclusive
+concert ticket on District exists independently of our platform, and an agent can access it through other
+channels.
+Our food delivery and quick commerce businesses are protected, because they have embedded
+infrastructure - they coordinate fulfilment in real time, and they own the outcome. Neither business is just
+an intermediary. ​
+4
+
+
+​
+Food delivery runs on deep integrations with restaurant kitchens, a large and highly efficient delivery
+network that keeps delivery times short, and demand-supply balancing algorithms that get better with
+scale. A delivered meal requires simultaneous coordination across the restaurant, kitchen, delivery
+partner, routing, and payment, each step contingent on the last, all within minutes. Quick commerce is
+similar - hyperscale inventory management and movement, real-time inventory checks against a specific
+dark store, picker assignment, dispatch, all within a 10-minute delivery window. They are sequences of
+tightly coupled, real-time handshakes, with low to no margin of error.
+Agentic interfaces will need a single point of accountability for a transaction with multiple handshakes
+When an order goes wrong, such as a missing item, a spilled meal or a damaged product, the customer
+expects one party to fix it within minutes, and today that is us. That accountability is what customers trust
+with a daily habit. An agent can place an order, but it cannot own the outcome; only whoever runs the
+fulfilment can.
+India has already tested what happens when you disaggregate these handshakes. ONDC separates
+discovery, ordering, and fulfillment across independent providers. And it has struggled with food delivery,
+because splitting real-time coordination across organisational boundaries introduces latency,
+accountability gaps, and service failures at every junction. An AI agent orchestrating delivery
+independently would face the same structural problem.
+The further the transaction is from real-time, multi-party coordination, the easier it is to disintermediate.
+Zomato and Blinkit sit at the other end of that spectrum.
+The only way agents can disintermediate specialty products like Zomato and Blinkit is by handing over the
+transaction completely to a service like ours, without making an attempt to disaggregate it. In case such a
+scenario plays out, it will fast track consolidation of market share with the execution market leader.
+Agents could end up making some categories “winner takes all”
+Today, consumer habits and app-level inertia insulate every player in a competitive market. Agents could
+erode that. An agent is a more demanding customer than a human: it optimises each transaction on actual
+outcomes, not habit or brand loyalty, and routes to whichever platform is objectively better at that
+moment. In categories with overlapping supply, this compresses the market toward the execution leader.
+Agents will weaken content moats and strengthen supply chain moats
+Some categories today are protected primarily by accumulated user content - reviews, ratings, curated
+lists. Agents that synthesise information from across the web reduce the advantage of having built that
+layer over many years. Categories that were historically hard to enter without a content moat become
+more accessible to platforms with supply chain and fulfilment strengths.
+The same shift applies to direct commerce - agents could help brands reach consumers without a
+marketplace, but the brands would still have to fulfil the order itself, and that is expensive for most to do
+alone. If direct commerce grows, the value shifts toward players with fulfillment infrastructure, regardless
+of how the order originates.
+This opens up possibilities for us to attack categories that have traditionally been unable to win due to the
+incumbent’s existing content moats.
+Agents could create demand that doesn't exist today
+General-purpose agents with context about a user's daily life could generate transactions that don't exist
+today. An agent that knows your schedule and suggests ordering dinner because you won't make it home in
+5
+
+
+time to cook is creating demand, not redirecting it. Part of our digital marketing spend on new customer
+acquisition could move to such agents, with more targeted CAC than what we currently get from Google
+and Meta.
+Agents won’t impact profitability/ margins, even if they disintermediate us to some extent
+There is a concern that if agents intermediate demand, platform margins will compress.
+As mentioned earlier, in categories like food delivery and quick commerce where the supply chain and
+infrastructure create the product, the majority of the value will also reside with companies that run these
+rails. Eventually, brands and sellers pay us for the sales we generate for them. And if we continue to be the
+pipes to power those sales, we will end up being adequately compensated for it, letting us retain our fair
+share of margins in the process.​
+​
+The five ifs​
+​
+If adoption is narrow, we benefit from AI making our platforms better. ​
+If it is broad, our infrastructure is what agents must work through. ​
+If agents drive more transparent competition, our execution advantages compound. ​
+If they open new categories, our supply chain strengths become the relevant moat. ​
+If they generate new demand, our infrastructure fulfills it.
+We are conscious that as incumbents, we may be predisposed to see resilience where others see
+vulnerability. What gives us a little more peace is also the advantage of observing how this plays out in
+markets with higher digital trust before it becomes locally relevant.
+We remain aware to not drink our own kool-aid, and we deeply understand that only the paranoid survive.
+
+Q3. How was the business performance in Q2FY27?
+Akshant: Key takeaways from Q2FY27 business performance are as follows At a consolidated level, B2C NOV grew 54% YoY to INR 35,644 crore. ​
+Adjusted Revenue grew 76% YoY (19% QoQ) to INR 24,621 crore. Note: like-for-like growth was 58% YoY the difference reflects the business model shift to inventory ownership in quick commerce.
+Consolidated Adjusted EBITDA grew 197% YoY (20% QoQ) to INR 666 crore.
+Food delivery (Zomato) - NOV grew 21.5% YoY (INR 11,445 crore), with the growth acceleration now
+continuing for five consecutive quarters. Adjusted EBITDA margin declined marginally to 5.5% of NOV,
+resulting in INR 627 crore of profit (25% YoY growth).
+Quick commerce (Blinkit) - NOV grew 79.3% YoY to INR 20,940 crore with QoQ growth at 22.2%. 308 net
+new stores were added, taking the total count to 2,751. Adjusted EBITDA margin improved for the sixth
+consecutive quarter to 0.9% of NOV, resulting in INR 184 crore profit (as compared to INR 156 crore loss
+last year).
+Going-out (District) - NOV grew 58.0% YoY (1.3% QoQ) to INR 3,259 crore. Adjusted EBITDA margin improved
+to -2.0% of NOV from -3.1% last year. On a QoQ basis, Adjusted EBITDA loss was flattish at INR 64 crore.
+Hyperpure - Revenue grew 22.7% (LFL) to INR 1,154 crore. Adjusted EBITDA margin improved to 0.9% from
+-0.5% last year, resulting in INR 10 crore profit (as compared to INR 5 crore loss last year).
+
+6
+
+
+Others (Bistro, Nugget) - Adjusted Revenue grew to INR 132 crore as compared to INR 95 crore in previous
+quarter. Adjusted EBITDA losses improved to INR 91 crore compared to INR 94 crore loss in Q1FY27.
+
+Q4. Food delivery NOV growth continues to accelerate for the fifth straight
+quarter (from 13.1% YoY in Q1FY26 to 21.5% in Q2FY27). Do we expect this trend
+to continue?
+Deepinder: We're happy with how the business is doing right now. That said, we try not to read too much
+into any single quarter. Our long-term expectation for food delivery has always been 20%+ annual growth,
+and the last two quarters have brought us back to that range. This view didn't change last year when
+growth slowed, and it doesn't change now that it has picked up.
+Over a longer (4-year) period, food delivery NOV has more than doubled, from INR 18,160 crore in FY22 to
+INR 37,993 crore in FY26. That is a CAGR of about 20%, despite a slower FY26. In hindsight, part of last
+year's slowdown came from some ordering occasions moving to quick commerce as it scaled. That shift
+seems to have settled now.
+Most of the recent growth comes from more people ordering, and ordering more often. Average monthly
+transacting customers grew 16% YoY to 28.0 million, and a growing share of new users are ordering food
+online for the first time, many of them outside our top eight cities.
+There is still a lot of headroom. Restaurant food is a small part of how India eats. As cities grow, incomes
+rise and more young people live away from home, we think the food delivery market can keep compounding
+at 20%+ for many years.
+In the near term, it is hard to say how any particular quarter will turn out. But the things we track closely,
+such as app opens, new user acquisition and our share of the market, are all moving in the right direction.
+Where we see good returns, we'll keep reinvesting in growth.
+
+Q5. At 37 million MTCs, Blinkit’s customer base is already one of the largest
+amongst online commerce businesses in India. How much can this grow from
+here?
+Albinder: We think there is a lot of room to grow. 37 million is still a small fraction of India's overall digital
+customer base. As we expand assortment and reach more cities and pin codes, we expect our customer
+base to keep growing at a healthy pace.
+How we grow matters as much as how fast. Each of our stores has a finite capacity to serve. A customer
+who shows up only for a deep discount uses the same capacity as one who orders every week across
+categories. We could add customers much faster by leaning on price, but those customers usually leave
+when the discount ends, and while they're with us, they take up capacity that our regular customers need.
+So, for now, we focus on acquiring and retaining customers who order often, buy across categories, and
+are profitable to serve.
+A strong core base lets us scale the network profitably. As density builds, our cost to serve each order
+falls, and we can pass that on through lower prices. That brings more price-sensitive customers within
+7
+
+
+reach in a way that holds up economically. Over time, we want to build a business that can serve most
+Indian households across income groups profitably.
+
+Q6. Where are you in your journey of assortment expansion and how far can you
+go? Does broader e-commerce fit into your medium/ long term plans?
+Albinder: We are still early. Assortment expansion is one of our highest priorities, because it is the biggest
+driver of how often customers come back and how much of their wallet share they bring to us.
+We are making good progress. For example, in Delhi NCR, our assortment has grown from about 80,000
+SKUs in Q4FY26 to about 100,000 today. We are expanding in two directions:
+●​ Deeper: more choice within existing categories - more brands, sizes and price points.
+●​ Wider: categories we don't carry yet.
+Wider is harder. Every new category comes with its own supply chain problem. Large appliances need
+different storage and handling, fragile and high-value items need different packaging and security, and
+some categories have entirely different sourcing and returns. For each one, we have to figure out how
+much inventory to hold and where, how it reaches the customer, and whether we can do all that profitably.
+On e-commerce, we don't think the line between quick commerce and e-commerce will mean much over
+time. For most purchases, if price and choice are similar, customers prefer to get things sooner. Demand is
+not the question. The question is whether you can build a supply chain that serves that demand reliably
+and profitably. That is the problem we have been solving. We want to bring most of what a household buys
+within 10 minutes.
+
+Q7. Can private labels help improve margins further? Why does Blinkit not have a
+private label play?
+Albinder: A private label has to pass one of two tests - either it fills a gap and brings incremental demand
+to the platform, or it improves the economics of demand we already serve, after accounting for everything
+it takes to build and market the private label. We have evaluated both and believe it doesn’t pass either of
+these tests.
+The private label case rests on building something genuinely differentiated - a product customers choose
+for its quality, story-telling or design. That means building a brand, not just putting our name on a product and involves continuous product development, manufacturing development, quality control, inventory
+management across a full portfolio of SKUs, sampling and marketing to drive trial and repeat. We believe
+brands will build these capabilities better and more efficiently than us as these would not be within our
+core circle of competence.
+The exception is where deeper supply-chain control itself creates value. Fruits and vegetables are the
+clearest case - and Hyperpure already gives Blinkit that benefit through sourcing and quality control,
+without a separate consumer-facing brand.
+Blinkit is the distribution and discovery platform for thousands of brands, many of them emerging. The
+shelf space and visibility we would spend marketing an own label can instead help other brands grow on
+our fair and neutral platform. This also allows us to earn advertising revenue as the brands grow. We don’t
+want to become both the platform and a competitor to the brands on the platform. We would rather avoid
+that conflict unless the growth or margin case for owning the label is clearly compelling.
+
+Q8. The case for quick commerce in smaller cities is not very well established.
+Why are you so bullish on it?
+8
+
+
+Albinder: The skepticism usually rests on three assumptions - incomes are lower, basket is smaller, and
+density is too thin for the economics to work. Our data so far says the first is true but matters less than
+people expect. Data contradicts the other two.
+Demand is there in these cities but has been chronically underserved. Organised retail could have served
+this demand with greater width of selection and better pricing but it never never fully developed in these
+cities. As a result, a lot of what we stock and sell is either not available locally or takes days to arrive
+through alternative channels like e-commerce. By making this assortment accessible within minutes, we
+create new demand and new behaviors for customers in these cities.
+Three data points tell us this is real ●​ Ramp: New stores in these cities reach 1,000 orders per day in similar time as new stores in metros
+(sometimes even faster).
+●​ Basket: NAOVs are within 85-90% of metros, with baskets also containing categories that we did
+not expect - such as premium beverages, branded diapers, gaming consoles etc.
+●​ Retention: Customer retention in these cities is comparable to that in the metros.
+We also think building the supply to these cities is the harder part and something which will be a moat for
+us in the future. For many products we had to build first-mile capability, picking directly from brand
+warehouses into our mother warehouses that feed these cities.
+We do not expect every small city to look like a metro. Some will stay subscale, and we will be disciplined
+about where we expand. But wherever we have built supply, demand has shown up faster and deeper than
+we had anticipated. In metros, we usually compete for a market that already exists. In smaller cities, we are
+building the market and the supply. That is why we are bullish.
+
+Q9. Store addition seems to have accelerated with 308 net new stores in Q2FY27
+taking the total to 2,751 stores. You seem comfortably on track on your guidance
+of 3,000 stores by March 2027. What’s the next milestone on this front?
+Akshant: We now expect to cross 3,500 stores by March 2027, and our current plans point to about 5,000
+stores by March 2028.
+Two things give us the confidence to move faster than before 1)​ New bets are working. Stores in smaller cities and stores built around newer categories are on the
+right margin and payback trajectory. Together, these will make up the bulk of the expansion.
+2)​ We have a clearer read on competition. Across our more contested markets, new stores are
+clearing our return thresholds even at today's level of competitive intensity.
+Our cash balance and profits from both food delivery and quick commerce businesses, also let us fund this
+pace of growth comfortably.
+
+Q10. How does this acceleration impact the margins in the near-term and the
+NOV growth guidance of 60% CAGR over the next 3 years?
+Akshant: We expect Adjusted EBITDA margins to keep improving through this expansion. New stores
+weigh on margins (and more so on Contribution) in their early months, but we expect the improvement in
+our more mature stores and cities to more than offset that.
+That said, we don't manage this business for near-term margins. What matters more is evidence that the
+business can reach steady-state margins, and that evidence keeps getting stronger.
+9
+
+
+●​ Our mature cities already operate at over 5% Adjusted EBITDA margin.
+●​ Cities contributing about 96% of our NOV are Contribution positive, and those contributing about
+70% are Adjusted EBITDA positive. The progress is broad-based, not limited to a few cities.
+On growth, NOV growth has moderated over the last three quarters to about 79% YoY in Q2FY27, mainly
+because we are now comparing against a much larger base. With more stores going live and ramping up
+over the next few quarters, we expect growth to pick up from here.
+Over the longer term, we are two quarters into the three-year period covered by our 60% CAGR guidance.
+We are tracking ahead of it so far, but it is too early to revise it upwards.
+
+Q11. In Jan 2026, you had given guidance of District Adjusted EBITDA break-even
+in 4-6 quarters. 3 quarters in, are we on track?
+Akshant: Yes. We are getting there while growing faster than we expected when we gave that guidance.
+NOV growth is trending at 50%+ YoY, well ahead of the 30%+ CAGR built into our FY30 plan. ​
+​
+We also remain on track towards our earlier guidance of INR 28,000 crore NOV (US$ 3 billion) and INR 1,400
+crore (US$ 150 million) Adjusted EBITDA by FY30.
+As Deepinder noted earlier, agentic commerce could disrupt parts of this business over time, and we are
+building with that in mind. A large part of durability in this business will come from building physical
+infrastructure and operations which deliver a differentiated customer experience. Like we mentioned
+earlier, where infrastructure becomes the product.
+
+Q12. What is new and exciting at Hyperpure?
+Akshant: Hyperpure now serves about 85,000 restaurants, up from 62,000 a year ago. We see three things
+driving that growth.
+1.​ Speed. We now deliver within two hours in all major cities, and 25% of our orders already arrive
+within that window, and growing. This changes how restaurants procure. With a dependable
+two-hour option, they no longer need to plan and store large quantities of perishables, and we think
+that will steadily shift more of their purchasing to us.
+2.​ Formalisation. Most restaurants still buy through mandis and wholesalers, often in cash. That is
+changing as food safety and other compliance requirements tighten and operators look for
+consistent quality. Every Hyperpure order is fully invoiced and traceable, which makes us a natural
+choice as restaurants move to organised supply.
+3.​ Going beyond ingredients. We are becoming a broader supply chain partner for food businesses.
+We provide 3PL services to some of India's largest pan-India restaurant brands, and we now help
+restaurants set up complete kitchens, including equipment we source directly, some of it
+imported. Once a restaurant sets up its kitchen with us, we often go on to supply it with ingredients
+as well.
+We compete with incumbent wholesalers and other B2B platforms that often compete on price alone. We
+don't try to be the cheapest. We compete on reliability, speed and quality, which is what restaurants value
+once they have tried us.
+
+Q13. Can you share an update on the cash balance as at the end of Q2FY27?
+10
+
+
+Akshant: Cash balance declined by INR 1,813 crore during the quarter to end at INR 16,475 crore as at the
+end of Q2FY27. The main driver was a seasonal increase in net working capital (NWC) ●​ In quick commerce, we built inventory ahead of the festive season.
+●​ In food delivery, quarter-end fell at a point in the weekly restaurant settlement cycle that
+temporarily lowered payables.
+‘Other Items’ declined largely due to ●​ marked-to-market movements in the value of debt and other securities held by us. These are
+accounting movements, not realised losses. We hold these instruments to maturity.
+●​ tax payout for the quarter. The previous quarter had the benefit of a tax refund.
+
+---THE END
+
+11
+
+
+Annexure A - Quarterly disclosures
+
+Notes:
+1)​ NOV (B2C business) excludes the NOV of Bistro business which is part of the ‘Others’ segment.
+2)​ On a like-for-like (“LFL”) basis, quick commerce Revenue grew 171% YoY (44% QoQ), 153% YoY (13% QoQ), 126% YoY (9% QoQ),
+117% YoY (22% QoQ) and 84% YoY (22% QoQ) in Q2FY26, Q3FY26, Q4FY26, Q1FY27 and Q2FY27 respectively. LFL quick
+commerce Revenue is calculated as quick commerce Revenue (-) cost of goods sold in case of own inventory sales.
+3)​ On a like-for-like (“LFL”) basis, consolidated Adjusted Revenue grew 65% YoY (22% QoQ), 64% YoY (11% QoQ), 64% YoY (5%
+QoQ), 66% YoY (17% QoQ) and 58% YoY (16% QoQ) in Q2FY26, Q3FY26, Q4FY26, Q1FY27 and Q2FY27 respectively. LFL
+consolidated Adjusted Revenue is calculated as consolidated Adjusted Revenue (-) Revenue from Hyperpure’s non-restaurant
+business (-) cost of goods sold in case of own inventory sales in quick commerce.
+4)​ Adjusted Revenue shown above does not include inter-segment revenue.
+5)​ There could be some totalling anomalies in the numbers displayed above due to the impact of rounding off.
+6)​ Others segment includes all other non-material businesses and any new initiatives that we may launch from time to time.
+
+12
+
+
+13
+
+

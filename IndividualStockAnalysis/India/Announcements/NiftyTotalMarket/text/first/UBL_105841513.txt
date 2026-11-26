@@ -1,0 +1,405 @@
+Rs. in Lakhs
+Particulars As at
+March 31, 2024As at
+March 31, 2023
+Audited Audited
+ASSETS
+Non-current assets
+(a) Property, plant and equipment (including right of use assets) 1,75,864                         1,83,089                      
+(b) Capital work-in-progress 17,257                            7,708                           
+(c) Intangible assets 904                                  1,223                           
+(d) Financial assets
+(i) Investments 1,562                              1,570                           
+(ii) Other financial assets 3,902                              4,078                           
+(e) Income tax assets (net) 21,132                            22,134                         
+(f) Deferred tax asset (net) 5,287                              4,496                           
+(g) Other non-current assets 37,769                            34,427                         
+2,63,677                        2,58,725                     
+Current assets
+(a) Inventories 1,36,645                         1,42,597                      
+(b) Financial assets
+(i) Trade receivables 2,31,329                         1,40,707                      
+(ii) Cash and cash equivalents 12,863                            32,952                         
+(iii) Bank balances other than (ii) above 7,956                              6,543                           
+(iv) Other financial assets 254                                  104                               
+(c) Other current assets 51,118                            45,009                         
+4,40,165                         3,67,912                      
+(d) Assets held for sale 486                                  486                               
+4,40,651                        3,68,398                     
+Total assets 7,04,328                        6,27,123                     
+EQUITY AND LIABILITIES
+Equity
+(a) Equity share capital 2,644                              2,644                           
+(b) Other equity 4,14,763                         3,93,482                      
+4,17,407                        3,96,126                     
+Liabilities
+Non-current liabilities
+(a) Financial liabilities
+(i) Lease liabilities 1,690                              1,074                           
+(ii) Other financial liabilities 1,461                              1,845                           
+(b) Provisions 916                                  417                               
+4,067                              3,336                           
+Current liabilities
+(a) Financial liabilities
+(i) Borrowings 7,741                              -                                
+(ii) Lease liabilities 772                                  488                               
+(iii) Trade payables
+- Total outstanding dues to micro and small enterprises 12,493                            9,529                           
+- Total outstanding dues of creditors other than micro and small enterprises 82,325                            62,110                         
+(iv) Other financial liabilities 86,648                            77,821                         
+(b) Other current liabilities 83,323                            67,514                         
+(c) Provisions 9,552                              10,199                         
+2,82,854                        2,27,661                     
+Total liabilities 2,86,921                        2,30,997                     
+Total equity and liabilities 7,04,328                        6,27,123                     UNITED BREWERIES LIMITED
+Registered office: UB Tower, UB City, 24, Vittal Mallya Road, Bengaluru - 560001
+Phone: 080 - 45655000 Fax: 080 - 22211964, 22229488
+CIN: L36999KA1999PLC025195 Email: ublinvestor@ubmail.com Website: www.unitedbreweries.com
+Statement of audited standalone assets and liabilities
+
+Rs. in Lakhs
+Particulars
+March 31, 
+2024December 31, 
+2023March 31, 
+2023 March 31,
+2024 March 31,
+2023
+Unaudited* Unaudited Unaudited* Audited Audited
+1 INCOME
+4,78,683            4,15,318              4,07,960              18,37,224          16,64,288          
+(b) Other income 2,632                   2,406                   1,163                   7,293                  4,927                 
+Total income 4,81,315             4,17,724              4,09,123              18,44,517          16,69,215          
+2 EXPENSES
+(a) Cost of materials consumed 1,22,054             1,00,959              1,10,891              4,57,586            4,23,321            
+(b) Purchase of traded goods 2,563                   3,316                   994                       11,825                9,247                 
+(405)                     (2,193)                  (3,559)                  (3,290)                (5,140)                
+2,65,530            2,33,052              2,31,513              10,25,685          9,15,117            
+(e) Employee benefits expense 12,426                 10,846                 11,626                 44,753                40,776               
+(f) Contract employee expense 5,016                   4,843                   4,296                   19,525                18,368               
+(g) Finance costs 175                      205                       122                       689                     464                     
+(h) Depreciation and amortisation expense 5,771                   5,177                   5,065                   21,164                21,032               
+(i) Other expenses 57,301                 49,938                 46,854                 2,11,648            2,01,173            
+Total expenses 4,70,431             4,06,143              4,07,802              17,89,585          16,24,358          
+3 Profit before exceptional items and tax 10,884                 11,581                 1,321                   54,932                44,857               
+4Exceptional items (refer Note 6) -                       -                       -                       -                      (3,312)                
+5 Profit before tax 10,884                 11,581                 1,321                   54,932                41,545               
+6 Tax expense 
+ (a) Current tax 3,234                   3,425                   76                         14,842                11,967               
+ (b) Deferred tax charge/(credit) (434)                     (329)                     272                       (849)                    (768)                   
+Total tax expense 2,800                   3,096                   348                       13,993                11,199               
+7Profit for the period/year 8,084                   8,485                   973                       40,939                30,346               
+8Other comprehensive income/(loss) (OCI)
+Re-measurement gains/(losses) on defined benefit plans (188)                     (100)                     425                       230                     457                     
+Income tax effect on above 47                        25                         (107)                     (58)                      (115)                   
+Total other comprehensive income/(loss), net of taxes (141)                     (75)                       318                       172                     342                     
+9 Total comprehensive income for the period/year 7,943                   8,410                   1,291                   41,111                30,688               
+10 Paid up equity share capital (Face value of Re. 1 each) 2,644                   2,644                   2,644                   2,644                  2,644                 
+11 4,14,763           3,93,482            
+12
+(a) Basic 3.06                     3.21                     0.37                     15.48                  11.48                 
+(b) Diluted 3.06                     3.21                     0.37                     15.48                  11.48                 
+**Not annualised for interim periods
+Segment information (also refer Note 3)
+Rs. in Lakhs
+March 31, 
+2024December 31, 
+2023March 31, 
+2023 March 31,
+2024 March 31,
+2023
+Unaudited* Unaudited Unaudited* Audited Audited
+1 Segment revenue
+Beer 4,78,249             4,15,246              4,07,850              18,36,689          16,63,294          
+Non-alcoholic beverages 434                      72                         110                       535                     994                     
+Total segment revenue 4,78,683             4,15,318              4,07,960              18,37,224          16,64,288          
+2 Segment results
+Beer 20,612                 20,090                 9,710                   90,962                75,839               
+Non-alcoholic beverages 7                          (784)                     (266)                     (2,444)                (3,734)                
+Total segment results 20,619                 19,306                 9,444                   88,518                72,105               
+Other income 2,632                   2,406                   1,163                   7,293                  4,927                 
+Finance costs (175)                     (205)                     (122)                     (689)                    (464)                   
+Other unallocable expenses (12,192)               (9,926)                  (9,164)                  (40,190)              (31,711)              
+Profit before exceptional items and tax 10,884                 11,581                 1,321                   54,932                44,857               
+Exceptional items (refer Note 6) -                       -                       -                       -                      (3,312)                
+Profit before tax 10,884                 11,581                 1,321                   54,932                41,545               
+* Refer note 9
+See accompanying notes to the standalone financial resultsEarnings per equity share in Rs. (nominal value per share Re. 1)**Other equity
+Year endedYear ended
+(d) Excise duty on sale of products
+Items that will not be reclassified to profit or loss in subsequent periods(c) Changes in inventories of finished goods, work-in-progress
+      and stock-in-trade(a) Revenue from operations (gross of excise duty) Quarter ended
+Particulars Quarter endedUNITED BREWERIES LIMITED
+Registered office: UB Tower, UB City, 24, Vittal Mallya Road, Bengaluru - 560001
+Phone: 080 - 45655000 Fax: 080 - 22211964, 22229488
+CIN: L36999KA1999PLC025195 Email: ublinvestor@ubmail.com Website: www.unitedbreweries.com
+Statement of standalone financial results for the quarter and year ended March 31, 2024
+
+Rs. in Lakhs
+Particulars
+March 31, 
+2024March 31, 
+2023
+Audited Audited
+A Cash flow from operating activities
+Profit before tax 54,932            41,545             
+Adjustments for: 
+Depreciation and amortisation expense 21,164            21,032             
+Bad debts/advances written off 6                       -                   
+Loss allowance for trade receivables 1,274               818                   
+Provision for doubtful advances/deposits 358                  181                   
+Unrealised foreign exchange differences (net) 11                    (148)                 
+Net gain on sale of property, plant and equipment (37)                   (146)                 
+Liabilities no longer required written back (669)                 (297)                 
+Loss allowance for trade receivables, no longer required written back (50)                   (4)                      
+Impairment loss on property, plant and equipment (included under exceptional items) -                   3,312               
+Interest expense 670                  443                   
+Interest income (4,495)             (3,312)              
+Dividend income (23)                   (23)                   
+Operating profits before working capital changes 73,141           63,401            
+Changes in working capital:
+(Increase)/decrease in Inventories 5,952               (49,156)           
+(Increase)/decrease in Trade receivables (91,847)           (16,143)           
+(Increase)/decrease in Other financial assets 221                 307                   
+(Increase)/decrease in Other assets (10,312)          (27,565)          
+Increase/(decrease) in Trade payables 23,356           8,361              
+Increase/(decrease) in Other financial liabilities 5,121              21,960            
+Increase/(decrease) in Other current liabilities and provisions 15,891            676                   
+Cash generated from operations 21,523            1,841               
+Direct taxes paid (13,840)          (13,906)          
+Net cash from/(used in) operating activities  (A) 7,683               (12,065)           
+B Cash flow from investing activities
+Purchase of property, plant and equipment including
+capital work-in-progress, intangible assets and capital advances (19,112)          (15,614)           
+Proceeds from sale of property, plant and equipment 82                    203                   
+Proceeds from sale of investments 9                       30                     
+Investments in bank deposits (having original maturity of more than three months) (133)                 (56)                   
+Redemption/maturity of bank deposits (having original maturity of more than three months) 16                    46                     
+Interest received 4,345               3,323               
+Dividend received from subsidiary company 23                    23                     
+Net cash used in investing activities (B) (14,771)           (12,045)           
+C Cash flow from financing activities
+Payment of lease liabilities (727)                (998)                
+Proceeds from short-term borrowings 7,741              -                   
+(185)                (415)                 
+(19,830)          (27,763)           
+Net cash used in financing activities (C) (13,001)           (29,176)           
+Net decrease in cash and cash equivalents (A+B+C) (20,089)           (53,286)           
+Cash and cash equivalents at the beginning of the year 32,952            86,238             
+Cash and cash equivalents at the end of the year 12,863           32,952            
+*Includes amount transferred to separate bank accounts earmarked for unpaid dividendInterest paid
+Dividend paid to equity shareholders*UNITED BREWERIES LIMITED
+Registered office: UB Tower, UB City, 24, Vittal Mallya Road, Bengaluru - 560001
+Phone: 080 - 45655000 Fax: 080 - 22211964, 22229488
+CIN: L36999KA1999PLC025195 Email: ublinvestor@ubmail.com Website: www.unitedbreweries.com
+Year to date endedAudited standalone statement of cash flows for the year ended March 31, 2024
+
+Rs. in Lakhs
+Particulars As at
+March 31, 2024As at
+March 31, 2023
+Audited Audited
+ASSETS
+Non-current assets
+(a) Property, plant and equipment (including right of use assets) 1,76,009                       1,83,235                   
+(b) Capital work-in-progress 17,268                          7,713                        
+(c) Intangible assets 904                                1,223                        
+(d) Goodwill on consolidation 645                                645                           
+(e) Financial assets
+(i) Investments 797                                805                           
+(ii) Other financial assets 3,937                             4,676                        
+(f) Income tax assets (net) 21,135                          22,138                      
+(g) Deferred tax asset (net) 5,293                             4,501                        
+(h) Other non-current assets 37,802                          34,458                      
+2,63,790                       2,59,394                  
+Current assets
+(a) Inventories 1,36,874                       1,42,781                   
+(b) Financial assets
+(i) Trade receivables 2,31,384                       1,40,732                   
+(ii) Cash and cash equivalents 12,915                          32,986                      
+(iii) Bank balances other than (ii) above 8,505                             6,543                        
+(iv) Other financial assets 254                                104                           
+(c) Other current assets 51,122                          45,013                      
+4,41,054                       3,68,159                   
+(d) Assets held for sale 493                                486                           
+4,41,547                       3,68,645                  
+Total assets 7,05,337                       6,28,039                  
+EQUITY AND LIABILITIES
+Equity
+(a) Equity share capital 2,644                             2,644                        
+(b) Other equity 4,15,190                       3,93,845                   
+Equity attributable to equity holders of holding company 4,17,834                       3,96,489                  
+Non-controlling interest 522                                461                           
+4,18,356                       3,96,950                  
+Liabilities
+Non-current liabilities
+(a) Financial liabilities
+(i) Lease liabilities 1,690                             1,074                        
+(ii) Other financial liabilities 1,461                             1,845                        
+(b) Provisions 917                                424                           
+4,068                            3,343                        
+Current liabilities
+(a) Financial liabilities
+(i) Borrowings 7,741                             -                            
+(ii) Lease liabilities 772                                488                           
+(iii) Trade payables
+- Total outstanding dues to micro and small enterprises 12,566                          9,530                        
+- Total outstanding dues of creditors other than micro and small enterprises 82,279                          62,168                      
+(iv) Other financial liabilities 86,664                          77,835                      
+(b) Other current liabilities 83,327                          67,518                      
+(c) Provisions 9,564                             10,207                      
+2,82,913                       2,27,746                  
+Total liabilities 2,86,981                       2,31,089                  
+Total equity and liabilities 7,05,337                       6,28,039                  UNITED BREWERIES LIMITED
+Registered office: UB Tower, UB City, 24, Vittal Mallya Road, Bengaluru - 560001
+Phone: 080 - 45655000 Fax: 080 - 22211964, 22229488
+CIN: L36999KA1999PLC025195 Email: ublinvestor@ubmail.com Website: www.unitedbreweries.com
+Statement of audited consolidated assets and liabilities
+
+Rs. in Lakhs
+Particulars
+March 31, 
+2024December 31, 
+2023March 31, 
+2023 March 31,
+2024 March 31,
+2023
+Unaudited* Unaudited Unaudited* Audited Audited
+1INCOME
+4,78,868              4,15,498              4,08,101             18,37,953          16,65,109     
+(b) Other income 2,646                    2,477                     1,179                    7,374                   4,943             
+Total income 4,81,514             4,17,975              4,09,280             18,45,327          16,70,052    
+2EXPENSES
+(a) Cost of materials consumed 1,21,785              1,00,768              1,10,674             4,56,755            4,22,476       
+(b) Purchase of traded goods 2,563                    3,316                     994                       11,825                9,247             
+(418)                      (2,223)                   (3,548)                  (3,345)                  (5,187)            
+2,65,530              2,33,052               2,31,513              10,25,685           9,15,117        
+(e) Employee benefits expense 12,557                 10,963                  11,729                45,210                41,183          
+(f) Contract employee expense 5,016                    4,843                     4,296                    19,525                18,368          
+(g) Finance costs 175                        205                        122                       689                      464                
+(h) Depreciation and amortisation expense 5,776                    5,184                     5,072                    21,190                21,059          
+(i) Other expenses 57,554                 50,179                  47,080                2,12,679            2,02,282       
+Total expenses 4,70,538             4,06,287              4,07,932             17,90,213          16,25,009    
+3Profit before exceptional items and tax 10,976                 11,688                 1,348                   55,114                45,043          
+4Exceptional items (refer Note 6) -                         -                         -                        -                       (3,312)           
+5Profit before tax 10,976                 11,688                 1,348                   55,114                41,731          
+6Tax expense 
+ (a) Current tax 3,257                    3,437                     90                         14,879                12,035          
+ (b) Deferred tax charge/(credit) (436)                      (329)                       271                       (851)                     (772)               
+Total tax expense 2,821                    3,108                     361                       14,028                11,263          
+7Profit for the period/year 8,155                    8,580                     987                       41,086                 30,468           
+8Other comprehensive income/(loss) (OCI)
+Re-measurement gains/(losses) on defined benefit plans (186)                      (100)                       425                       232                      457                
+Income tax effect on above 46                          25                          (107)                      (59)                       (115)               
+Total other comprehensive income/(loss), net of taxes (140)                      (75)                         318                       173                      342                
+9Total comprehensive income for the period/year 8,015                    8,505                     1,305                   41,259                30,810          
+10Profit for the period/year attributable to:
+Equity shareholders of the Holding Company 8,120                    8,534                     981                       41,003                30,398          
+Non-controlling interest 35                          46                          6                            83                         70                   
+8,155                    8,580                     987                       41,086                30,468          
+11Other comprehensive income/(loss) (OCI) attributable to:
+Equity shareholders of the Holding Company (140)                      (75)                         318                       173                      342                
+Non-controlling interest -                         -                         -                        -                       -                 
+(140)                      (75)                         318                       173                      342                
+12
+Equity shareholders of the Holding Company 7,980                    8,459                     1,299                    41,176                30,740          
+Non-controlling interest 35                          46                          6                            83                         70                   
+8,015                    8,505                     1,305                   41,259                30,810          
+13Paid up equity share capital (Face value of Re. 1 each) 2,644                    2,644                     2,644                    2,644                   2,644             
+14 4,15,190            3,93,845       
+15
+(a) Basic 3.07                       3.23                       0.37                      15.51                   11.50            
+(b) Diluted 3.07                       3.23                       0.37                      15.51                   11.50            
+**Not annualised for interim periods
+Segment information (also refer Note 3)
+Rs. in Lakhs
+March 31, 
+2024December 31, 
+2023March 31, 
+2023 March 31,
+2024 March 31,
+2023
+Unaudited* Unaudited Unaudited* Audited Audited
+1Segment revenue
+Beer 4,78,434              4,15,426              4,07,991             18,37,418          16,64,115     
+Non-alcoholic beverages 434                        72                          110                       535                      994                
+Total segment revenue 4,78,868             4,15,498              4,08,101             18,37,953          16,65,109    ```````````
+2Segment results
+Beer 20,690                 20,126                  9,721                    91,063                76,009          
+Non-alcoholic beverages 7                            (784)                       (266)                      (2,444)                 (3,734)           
+Total segment results 20,697                 19,342                 9,455                   88,619                72,275          
+Other income 2,646                    2,477                     1,179                    7,374                   4,943             
+Finance costs (175)                      (205)                       (122)                      (689)                     (464)               
+Other unallocable expenses (12,192)                (9,926)                   (9,164)                 (40,190)              (31,711)         
+Profit before exceptional items and tax 10,976                 11,688                 1,348                   55,114                45,043          
+Exceptional items (refer Note 6) -                         -                         -                        -                       (3,312)           
+Profit before tax 10,976                 11,688                 1,348                   55,114                41,731          
+* Refer Note 9
+See accompanying notes to the consolidated financial results(d) Excise duty on sale of products
+Items that will not be reclassified to profit or loss in subsequent periodsYear ended
+Year ended Quarter ended ParticularsEarnings per equity share in Rs. (nominal value per share Re. 1)**Other equity(a) Revenue from operations (gross of excise duty) 
+Total comprehensive income for the period/year attributable to:Quarter ended
+(c) Changes in inventories of finished goods, work-in-progress 
+and stock-in-tradeUNITED BREWERIES LIMITED
+Registered office: UB Tower, UB City, 24, Vittal Mallya Road, Bengaluru - 560001
+Phone: 080 - 45655000 Fax: 080 - 22211964, 22229488
+CIN: L36999KA1999PLC025195 Email: ublinvestor@ubmail.com Website: www.unitedbreweries.com
+Statement of consolidated financial results for the quarter and year ended March 31, 2024
+
+Rs. in Lakhs
+Particulars
+March 31, 
+2024March 31, 
+2023
+Audited Audited
+A Cash flow from operating activities
+Profit before tax 55,114              41,731            
+Adjustments for: 
+Depreciation and amortisation expense 21,190              21,059            
+Bad debts/advances written off 6                        -                   
+Loss allowance for trade receivables 1,274                818                  
+Provision for doubtful advances/deposits 358                    181                  
+Unrealised foreign exchange differences (net) 11                      (148)                 
+Net gain on sale of property, plant and equipment (37)                     (135)                 
+Liabilities no longer required written back (730)                   (297)                 
+Loss allowance for trade receivables, no longer required written back (50)                     (4)                     
+Impairment loss on property, plant and equipment (included under exceptional items) -                     3,312               
+Interest expense 670                    443                  
+Interest income (4,535)               (3,341)             
+Operating profits before working capital changes 73,271             63,619           
+Changes in working capital:
+(Increase)/decrease in Inventories 5,907                (49,200)           
+(Increase)/decrease in Trade receivables (91,877)             (16,132)           
+(Increase)/decrease in Other financial assets 224                    300                 
+(Increase)/decrease in Other assets (10,314)            (27,564)          
+Increase/(decrease) in Trade payables 23,384             8,425              
+Increase/(decrease) in Other financial liabilities 5,123               21,887           
+Increase/(decrease) in Other current liabilities and provisions 15,891              682                  
+Cash generated from operations 21,609              2,017               
+Direct taxes paid (13,876)            (13,974)          
+Net cash from/(used in) operating activities  (A) 7,733                (11,957)           
+B Cash flow from investing activities
+Purchase of property, plant and equipment including
+capital work-in-progress, intangible assets and capital advances (19,150)            (15,628)           
+Proceeds from sale of property, plant and equipment 82                      198                  
+Proceeds from sale of equity and debt securities 9                        30                    
+Investments in bank deposits (having original maturity of more than three months) (167)                   (616)                 
+Redemption/maturity of bank deposits (having original maturity of more than three months) 61                      581                  
+Interest received 4,385                3,352               
+Net cash used in investing activities (B) (14,781)             (12,083)           
+C Cash flow from financing activities
+Payment of lease liabilities (727)                   (998)                
+Repayment of short-term borrowings 7,741               -                   
+(185)                   (451)                 
+(19,852)            (27,785)           
+Net cash used in financing activities (C) (13,023)             (29,234)           
+Net decrease in cash and cash equivalents (A+B+C) (20,071)             (53,274)           
+Cash and cash equivalents at the beginning of the year 32,986              86,260            
+Cash and cash equivalents at the end of the year 12,915             32,986           
+*Includes amount transferred to separate bank accounts earmarked for unpaid dividend and also includes dividend paid for non-
+controlling interestInterest paid
+Dividend paid*UNITED BREWERIES LIMITED
+Registered office: UB Tower, UB City, 24, Vittal Mallya Road, Bengaluru - 560001
+Phone: 080 - 45655000 Fax: 080 - 22211964, 22229488
+CIN: L36999KA1999PLC025195 Email: ublinvestor@ubmail.com Website: www.unitedbreweries.com
+Year endedAudited consolidated statement of cash flows for the year ended March 31, 2024

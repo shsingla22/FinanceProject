@@ -1,0 +1,81 @@
+ 
+ 
+ 
+ 
+ 
+ 
+December 29, 2025 
+ 
+BSE Limited  
+Corporate Relationship Department, 
+1st Floor, New Trading Ring, 
+Rotunda Building, P. J. Towers, 
+Dalal Street, Fort, 
+Mumbai – 400 001 
+Scrip Code: 543277  National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (E), 
+Mumbai – 400 051 
+Trading Symbol: LXCHEM 
+ 
+ 
+Dear Sir / Madam, 
+ 
+Sub: Disclosure regarding fulfilment of payment obligations relating to Commercial Paper issued 
+dated September 30, 2025  
+ 
+Ref: Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015  
+ 
+This is further to our letter dated September 30, 2025, whereby we had intimated that the Company had 
+issued the Commercial Paper (CP) amounting to ₹ 50 Crores on September 30, 2025, in favour of Kotak 
+Mahindra Bank Limited, having a maturity date of December 29, 2025. 
+ 
+In this regard, we hereby confirm that the Redemption amount of the aforesaid CP has been duly paid on 
+December 29, 2025. 
+ 
+We request that you kindly take the above on record. 
+ 
+Thanking you, 
+ 
+ 
+For Laxmi Organic Industries Limited 
+ 
+ 
+ 
+ 
+_________________ 
+Aniket Hirpara 
+Company Secretary and Compliance Officer 
+ICICI  Bank Limited
+Redemption Certificate
+Date:29-12-2025
+To 
+Vice President
+Issuer Interface Department 
+National Securities Depository Limited 
+4th Floor, A wing, Trade World 
+Kamala Mills Compound 
+Senapati Bapat Marg, Lower Parel 
+Mumbai-400 013.
+Dear Sir,
+Sub:Redemption of Commercial Paper
+We hereby certify that LAXMI ORGANIC INDUSTRIES LIMITED ,the Issuer has appointed us as the Issuing and Paying Agent 
+(IPA) for the CP under reference and have entered into a valid IPA agreement with us.
+For redemption of the CP issued under reference, we have been authorized by LAXMI ORGANIC INDUSTRIES LIMITED ,the 
+Issuer to make a request to NSDL to extinguish the CPs from investor's accounts as a debit corporate action after fully redeeming 
+the CPs.
+We hereby confirm that all the necessary redemption payments have been made to the beneficiaries of CP under reference.
+We therefore request you to extinguish the CP with below mentioned details from the beneficiary holders accounts:
+ISIN INE576O14049
+Date of Maturity (Date of 
+Extinguishment) 29-12-2025
+Full Redemption(De-activate ISIN 
+after redemption)Reason for Extinguishment (tick 
+any one as applicatble)
+Partial Redemption
+Redemption Details Number of records(with CP holdings) Number of Securities(Quantity)
+IN NSDL 1 1000
+IN CDSL 0 0
+Total 1 1000
+Yours faithfully

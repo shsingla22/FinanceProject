@@ -1,0 +1,108 @@
+                                                                                                                       
+KEI Industries Limited         
+ 
+Registered and Corporate Office:  D-90, Okhla Industrial Area, Phase-1, New Delhi- 110020 CIN: L74899DL1992PLC051527  
+Tel.: +91-11-26818840/8642/0242, Email: info@kei-ind.com    Website:  www.kei-ind.com  
+ 
+ 
+KEI/BSE/2026-27                               Date: 21.04.2026                                                                    
+The Manager,     
+Listing Operation, 
+BSE Limited, 
+25th Floor, Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort, Mumbai- 400 001. The Manager,  
+Listing Division, 
+The National Stock Exchange of India Ltd., 
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra Kurla Complex, Bandra (E), Mumbai – 
+400 051 
+Sub.: Intimation of receipt of ISO/ IEC 27001:2022 Certification for Information Security Management 
+System (ISMS) 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we wish to inform you that KEI Industries Limited has been awarded the 
+ISO/IEC 27001:2022 certification for its Information Security Management System (ISMS) by 
+INTERCERT INC. 
+ 
+The Company has adopted and implemented the ISO/IEC 27001:2022 framework to 
+systematically identify, assess, and manage information security risks across its operations. The 
+certified ISMS comprises the management, operation and protection of information assets, IT 
+infrastructure, enterprise applications and supporting business processes, ensuring 
+confidentiality, integrity and availability of information supporting corporate and operational 
+activities. 
+ 
+The copy of Certificate is enclosed. 
+ 
+This is for your information and record.  
+ 
+Thanking You, 
+ 
+Yours faithfully, 
+For KEI INDUSTRIES LIMITED 
+ 
+ 
+ 
+(KISHORE KUNAL) 
+  SR. VP (CORPORATE FINANCE) & COMPANY SECRETARY 
+  FCS. No.: 9429 
+ 
+Issued on behalf of InterCert
+Head - Certifications
+The validity of this certificate can be verified at www.intercert.com or through email at info@intercert.com. This certificate is
+the property of INTERCERT INC, 2001 Timberloch Place - Suite 500, The Woodlands, Texas 77380, United States and must be
+returned on request.
+INTERCERT hereby certifies that the Information Security Management Systems of
+KEI Industries Limited
+D-90, Okhla Industrial Area, Phase-I, New Delhi-110020, India
+See Annexure for additional sites and additional site scopes
+Has been successfully assessed as per the requirements of
+ISO/IEC 27001:2022
+For the scope of
+Information Security Management System covering the management, operation, and
+protection of information assets, IT infrastructure, enterprise applications, and
+supporting business processes, ensuring confidentiality, integrity, and availability of
+information supporting corporate and operational activities.
+SOA Version:-1.0
+Initial Certification Date
+: April 20, 2026
+Certificate Issue Date
+: April 20, 2026     
+Surveillance Validity Date
+: April 19, 2027
+Recertification Date
+: April 19, 2029
+Registration Number: IC-IS-2604220
+Page No 01 of 02
+
+Issued on behalf of InterCert
+Head - Certifications
+The validity of this certificate can be verified at www.intercert.com or through email at info@intercert.com. This certificate is
+the property of INTERCERT INC, 2001 Timberloch Place - Suite 500, The Woodlands, Texas 77380, United States and must be
+returned on request.This annexure identifies the locations covered by the management system of:
+KEI Industries Limited
+This annexure is linked to the Main Certificate # IC-IS-2604220 and cannot be shown nor
+reproduced without it.
+ Site Name & Address
+ Scope
+ 
+KEI Industries Limited
+D-90, Okhla Industrial Area, Phase-I, New
+Delhi-110020, India
+Information Security Management System covering the management,
+operation, and protection of information assets, IT infrastructure, enterprise
+applications, and supporting business processes, ensuring confidentiality,
+integrity, and availability of information supporting corporate and operational
+activities.
+KEI Industries Limited
+SP 919-920-922 RIICO Industrial Area, Phase
+III, Bhiwadi, Dist- Alwar, Pin Code —301019,
+Rajasthan, India
+Information Security Management System covering the management,
+operation, and protection of information assets, IT infrastructure, enterprise
+applications, and supporting business processes, ensuring confidentiality,
+integrity, and availability of information supporting corporate and operational
+activities.
+Note:- Validity of this certificate depends on the validity of the main certificate.
+Page No 02 of 02

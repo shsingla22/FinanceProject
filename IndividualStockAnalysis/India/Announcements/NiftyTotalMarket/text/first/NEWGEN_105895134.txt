@@ -1,0 +1,456 @@
+ 
+ 
+ 
+                                                                    
+Newgen Software Technologies Limited  
+CIN: L 72200DL 1992PLC049074, Registered Office: E-44/13, Okhla Phase II, New Delhi 110020, India  
+Tel: +91 11 46533200, 26384060, 26384146   Fax:+91 11 26383963  
+ 
+                                                   
+ 
+Date:  27th June 2024 
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400051  
+Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+Scrip Code – 540900  Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+ 
+  Sub: Business Responsibility and Sustainability Report for the Financial Year 202 3-24 
+ 
+Dear Sir/Ma’am,  
+ 
+Pursuant to Regulation 34  of the Securities and Exchange Board of India (Listing  Obligations & 
+Disclosure Requirements) Regulations 2015, we are submitting herewith the  Business Responsibility 
+and Sustainability Report (‘BRSR’) for Financial Year  2023-24, which forms part of  the Integrated 
+Annual Report FY 202 3-24. 
+ 
+The BRSR is also available on the website of the Company at  https://newgensoft.com . 
+ 
+You are requested to kindly take the same on record.  
+ 
+Thanking you,  
+ 
+For Newgen Software Technologies Limited  
+ 
+ 
+ 
+Aman M ourya  
+Company Secretary  
+ 
+Encl.: a/a  
+Business Responsibility & 
+Sustainability Reporting
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Company: L72200DL1992PLC049074
+2. Name of the Company: Newgen Software Technologies Limited
+3. Year of Incorporation: 05-06-1992
+4. Registered Office Address: E-44/13 Okhla Phase II, New Delhi South Delhi DL 
+110020
+5. Corporate Address: E-44/13 Okhla Phase II, New Delhi South Delhi DL 
+110020
+6. E-mail id: cs.compliance@newgensoft.com
+7. Telephone: +91 11 46533200
+8. Website: https://newgensoft.com
+9. Financial Year reported: 1st April 2023 to 31st March 2024
+10. Name of the Stock Exchange(s) where shares are listed: Bombay Stock Exchange (BSE)
+National Stock Exchange of India (NSE)
+11. Paid-up Capital: Rs. 14,029 lakhs
+12. Name and contact detail (telephone, email address) of 
+the person who may be contacted in case of any queries 
+on the BRSR report:Arun Kumar Gupta
+cs.compliance@newgensoft.com
++91 11 46533200
+13. Reporting boundary - Are the disclosures under this 
+report made on a standalone basis (i.e., only for the 
+entity) or on a consolidated basis (i.e. for the entity and all 
+the entities which form a part of its consolidated financial 
+statements, taken together).Disclosures made in this report are on a standalone 
+basis and pertain only to Newgen Software 
+Technologies Limited
+14. Name of assurance provider Not applicable
+15. Type of assurance obtained Not applicable
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+S. 
+No.Description of Main 
+ActivityDescription of Business Activity% of Turnover of 
+the entity
+1. Software & IT services Software application development Services and related activities 99%
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+No.Product/Service NIC Code% of total Turnover 
+contributed
+1. Sale of Software/SaaS/ATS/AMC 9983 48%
+2. Sale of Services/ Others 9983 52%
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+ 
+Location Number of plants Number of offices Total
+National NA 1728International NA 11
+SECTION A: GENERAL DISCLOSURESAnnexure 7
+Statutory Reports
+79
+
+19. Markets served by the entity:
+a. Number of locations
+Locations Number
+National (No. of States) 28 States and 8 Union Territories
+International (No. of Countries) 76
+b.  What is the contribution of exports as a percentage of the total turnover of the entity?
+ 65%
+c. A brief on types of customers:
+ Our customers are Business to Business Customers or Enterprise Customers in the Banking and Financial Services, 
+Government, Shared Services, Healthcare, Insurance and other domains.
+IV. Employees
+20. Details as at the end of Financial Year:
+a. Employees and workers*** (including differently abled):
+S. 
+No.ParticularsTotal
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+EMPLOYEES
+1. Permanent* (D) 3890 2957 76.0% 933 24.0%
+2. Other than Permanent** (E) 521 381 73.1% 140 26.9%
+3. Total employees (D + E) 4411 3338 75.7% 1073 24.3%
+ *Permanent Employees include on-roll employees of Newgen including those who are on Probation.
+ ** Other than Permanent Employees include Temporary, Casual, Contractual & named Third-Party Employees dedicatedly deployed at 
+Newgen premises, Trainees.
+ *** All employees are categorized as Employees and none as Workers.
+b. Differently abled Employees and workers: 
+S.
+NoParticularsTotal
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D)* 7 7 100% 0 0
+2. Other than Permanent (E) 0 0 0 0 0
+3. Total differently abled employees (D + E) 7 7 100% 0 0
+ * Diversity, Equity & Inclusion at workplace policy came into effect on 1 March 2023, and the Company started the process of collecting the 
+Unique Disability ID of persons with disabilities thereafter. During the year, the Company had 29 differently abled employees as per the 
+self-declaration in our internal survey, however only 7 of them have provided their Unique Disability ID
+21. Participation/Inclusion/Representation of women
+Total
+(A)No. and Percentage  
+of Females
+No. (B) % (B/A)
+Board of Directors 7 2 29%
+Key Management Personnel* 8 1 13%
+ * Key Managerial Personnel includes Managing Director and Whole Time Directors
+22. Turnover rate for permanent employees and workers:
+FY 2023-24 FY 2022-23 FY 2021-22
+Male Female Total Male Female Total Male Female Total
+Permanent Employees* 16% 20% 17% 30% 30% 30% 48% 56% 50%
+ * Turnover Rate computed as per the SEBI formula which is different from the industry practice and voluntary attrition calculations. Based 
+on calculations as per industry practices, the Turnover rate is 10.4% for Males and 15.2% for Females for FY23-24, 22.4% for Males and 26.3% 
+for Females for FY22-23, 41.6% for Males and 47.7% for Females for FY21-22
+80
+Annual Report 2023-24 Newgen Software Technologies Limited
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+S.
+No.Name of the holding/ 
+subsidiary/ associate 
+companies/ joint ventures (A)Indicate whether 
+holding/ subsidiary/ 
+associate/ joint 
+venture% of shares 
+held by listed 
+entityDoes the entity indicated 
+at column A, participate 
+in Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1 Newgen Software Inc. USA WOS 100 % Yes
+2 Newgen Software Technologies 
+Pte. Ltd.WOS 100 % Yes
+3 Newgen Software Technologies 
+Canada Ltd.WOS 100 % Yes
+4 Newgen Software Technologies 
+(UK) LimitedWOS 100 % Yes
+5 Newgen Software Technologies 
+Pty Ltd.WOS 100 % Yes
+6 Newgen Computers 
+Technologies Limited.WOS 100 % Yes
+7 Newgen Software Technologies 
+LLCWOS 100 % Yes
+8 Newgen Software Technologies 
+Company LimitedWOS 100 % Yes
+  WOS- Wholly o wned Subsidiary
+	  During the year, Number Theory Software Technologies Limited, a wholly-owned subsidiary of the 
+Company merged with the Company pursuant to the Order issued by Hon’ble National Company Law 
+Tribunal (NCLT), New Delhi.
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No)  Yes
+ (i) Turnover (in Rs.) 1,13,611.93 lakhs
+ (iii)  Net worth (in Rs.) 1,14,757.71 lakhs
+VII. Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link for 
+grievance redress 
+policy)FY 2023-24 FY 2022-23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Communities NA NA NA NA NA _
+Investors 
+(other than 
+shareholders)Yes
+https://newgensoft.
+com/company/investor-
+relations/NA NA NA NA _
+Shareholders Yes
+https://scores.sebi.gov.in/
+scores-home
+https://smartodr.in/login
+https://newgensoft.
+com/company/investor-
+relations/10 0 16 0 _
+Employees 
+and workersYes
+https://investors.
+newgensoft.com/
+wp-content/uploads/
+investor/Whistle%20
+Blower%20Policy.pdf82 0 1 0 _
+Statutory Reports
+81
+
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link for 
+grievance redress 
+policy)FY 2023-24 FY 2022-23
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Customers Yes, we have a 
+mechanism in place to 
+understand and resolve 
+customer complaints10 0 6 0 _
+Value Chain 
+PartnersNA NA NA NA NA _
+Other (please 
+specify)NA NA NA NA NA _
+26. Overview of the entity’s material responsible business conduct issues
+  Please indicate material responsible business conduct and sustainability issues pertaining to environmental 
+and social matters that present a risk or an opportunity to your business, rationale for identifying the same, 
+approach to adapt or mitigate the risk along-with its financial implications, as per the following format:
+S. 
+No.Material 
+issue 
+identifiedIndicate 
+whether risk Or 
+opportunity (R/O)Rationale for
+Identifying the 
+risk / opportunityIn case of risk,
+Approach to adapt 
+or mitigateFinancial implications of the risk 
+or opportunity (Indicate positive 
+or negative implications)
+1. GHG 
+Emissions 
+and Climate 
+ChangeRisk and 
+OpportunityLinked to 
+Climate Change 
+Risk
+Opportunity in 
+engaging clients 
+on climate 
+actions through 
+our solutionsUndertake 
+initiatives on 
+energy efficiency, 
+renewable energyIncreased operating costs in 
+meeting the environmental 
+standards/ initiatives
+Scope to capitalize on the 
+opportunity through our 
+solutions
+2. Diversity, 
+Equity and 
+InclusionRisk and 
+opportunityLinked to Human 
+Capital riskClear policies, 
+processes and 
+governance 
+structures to 
+monitorThis could have a positive 
+and negative impact on 
+Productivity, innovation or 
+retention of talent thus having 
+employee cost implications
+3. Employee 
+EngagementRisk and 
+opportunityLinked to Human 
+Capital riskIncreased 
+initiatives for 
+Employee 
+engagement, 
+retention and 
+support. Focus 
+on career and 
+leadership 
+development. 
+Occupational 
+health and safety 
+measuresImpact on employer 
+reputation, increased cost of 
+talent, etc.
+Scope to create and retain 
+a talent pool and support in 
+customer’s digital journeys
+4. Data 
+Privacy and 
+Information 
+ManagementRisk and 
+opportunityLinked to 
+Business and 
+Continuity Risk/ 
+Reputation RiskEnsuring robust 
+cybersecurity 
+and data privacy 
+frameworks 
+and controls. 
+Continued 
+investment in 
+technologyIncreased operational cost 
+for technological investments 
+and hiring and training talent. 
+Impact on reputation and 
+business
+Build a competitive edge 
+through adoption of stringent 
+data privacy standards
+5. Corporate 
+Governance 
+and Business 
+EthicsRisks and 
+opportunityLinked to 
+Business and 
+Continuity Risk/ 
+Reputation RiskStipulated policies, 
+processes and 
+systems to ensure 
+ethical conduct 
+and strong 
+governance.Positive and negative legal 
+and financial implications and 
+reputational consequences 
+impacting business
+82
+Annual Report 2023-24 Newgen Software Technologies Limited
+This section is aimed at helping businesses demonstrate the structures, policies and processes 
+put in place towards adopting the NGRBC Principles and Core Elements.
+Disclosure Questions P 1 P 2 P 3 P 4 P 5 P 6 P 7 P 8 P 9
+Policy and management processes
+1.  a.  Whether your entity’s policy/
+policies cover each principle 
+and its core elements of the 
+NGRBCs. (Yes/No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+ b.   Has the policy been approved 
+by the Board? (Yes/No)Yes No* No* Yes Yes Yes No Yes Yes
+ c.   Web Link of the Policies, if 
+available# # # # # # # # #
+2.  Whether the entity has translated 
+the policy into procedures. (Yes / 
+No)Yes Yes Yes Yes Yes Yes Yes Yes Yes
+3.   Do the enlisted policies extend to 
+your value chain partners? (Yes/
+No)Yes Yes Yes Yes Yes Yes No No Yes
+4.   Name of the national and 
+international codes/certifications/
+labels/ standards (e.g. Forest 
+Stewardship Council, Fairtrade, 
+Rainforest Alliance, Trustee) 
+standards (e.g. SA 8000, OHSAS, 
+ISO, BIS) adopted by your entity 
+and mapped to each principle.ISO 9001:2015- Quality Management System
+ISO 27001:2013- Information Security Management
+ISO 27017- Information Security Controls in Cloud environment
+ISO 27018- Personal Data Security Controls
+SOC-1 Compliance- System and Organization Controls
+SOC-2 Compliance- Service organization Control
+GDPR - General Data Protection Regulation
+HIPAA- The Health Insurance Portability and Accountability Act of 1996
+PCI DSS- PCI Data Security Standard
+5.  Specific commitments, goals 
+and targets set by the entity with 
+defined timelines, if any.The Company is working towards defining the goals and targets.
+6.  Performance of the entity against 
+the specific commitments, goals 
+and targets along-with reasons in 
+case the same are not met.Not applicable
+Governance, leadership and oversight
+7.  Statement by director responsible 
+for the business responsibility 
+report, highlighting ESG 
+related challenges, targets and 
+achievements (listed entity has 
+flexibility regarding the placement 
+of this disclosure)Please refer to the Chairman’s Speech for the same
+8.  Details of the highest authority 
+responsible for implementation 
+and oversight of the Business 
+Responsibility policy (ies).Arun Kumar Gupta
+Chief Financial Officer
+cs.compliance@newgensoft.com
++91 11 46533200
+9.  Does the entity have a specified 
+Committee of the Board/ Director 
+responsible for decision making 
+on sustainability related issues? 
+(Yes / No). If yes, provide details.Yes, Mr. Diwakar Nigam (Chairman and Managing Director)
+*Approved by the Senior Management
+#Weblink of the Policies:
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+Statutory Reports
+83

@@ -1,0 +1,307 @@
+ 
+SWIGGY LIMITED  
+(formerly known as “Swiggy Private Limited ” and “Bundl Technologies Private Limited ”) | CIN: U74110KA2013PLC096530  
+www.swiggy.com   | T: 080 -68422422  
+Registered & Corporate Office:  No.55 Sy No.8 -14, Ground Floor, I&J Block, Embassy Tech Village, Outer Ring Road, Devarbisanahalli, Bengaluru 
+- 560103  
+ 
+ 
+ 
+ 
+Ref: SWIGGY/ SE/ 2024 -25-3 
+ 
+Date: November 13, 2024  
+ 
+To  
+National Stock Exchange of India Ltd.,  
+Exchange Plaza, C -1, Block G  
+Bandra Kurla Complex,  
+Bandra (E), Mumbai – 400 051  
+NSE Scrip Symbol: SWIGGY  
+ To  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai – 400001  
+Scrip Code : 544285  
+ 
+ 
+Sub Intimation under Regulation 8(2) of the Securities Exchange Board of India (Prohibition of Insider Trading) 
+Regulations, 2015  
+ 
+Dear Sir/ Ma dam, 
+ 
+Pursuant to Regulation 8(2) of the Securities Exchange Board of India (Prohibition of Insider Trading) 
+Regulations, 2015 (‘SEBI PIT Regulations’), please find attached herewith the Code of Practices and 
+Procedures for Fair Disclosure of Unpublished Price Sensitive Information framed under R egulation 8 (1) of 
+SEBI PIT Regulations.  
+ 
+This is for your information and records.  
+ 
+Thanking you  
+ 
+For Swiggy Limited  
+ 
+ 
+ 
+_________________  
+M. Sridhar  
+Company Secretary & Compliance Officer  
+Membership No: F9606  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page  1of 11  
+ 
+  
+ 
+ 
+ 
+SWIGGY LIMITED1 
+ 
+SWIGGY CODE  OF PRACTICES  AND PROCEDURES  FOR  FAIR  DISCLOSURE  OF 
+UNPUBLISHED PRICE SENSITIVE INFORMATION  
+INTRODUCTION:  
+This Code is framed based on the principles of fair disclosure outlined in the Securities and Exchange 
+Board  of India  (Prohibition of  Insider  Trading) Regulations, 2015, as amended  (“SEBI PIT  
+Regulations ”), specifically  under Regulation 8 read with Schedule A of the SEBI PIT Regulations. 
+The Purpose of the Code is to clearly  outline  procedures and practical  guidelines  that would  be 
+followed  by Swiggy Limited  (the “Company ”) for the  consistent, transparent, regular  and timely public 
+disclosure and dissemination of unpublished price sensitive information (“UPSI ”). 
+The Company is committed to factual, timely and accurate disclosures.  
+APPLICABILITY:  
+This Code hereinafter referred to as “ Code/Fair Disclosure Code” shall be applicable and binding on all 
+the employees, officers, directors and those persons Authorized to speak on behalf of the Company. 
+DEFINITIONS : 
+i. Act means the Securities and Exchange Board of India Act, 1992.  
+ii. Applicable Law shall mean the Securities and Exchange Board of India (Prohibition of Insider 
+Trading) Regulations, 2015, including any amendments thereto, or any statute, law, listing 
+agreement, regulation, ordinance, rule, judgment, order, decree, bye‐law, clearance, directive, 
+guideline, policy, requirement, notifications and clarifications, circulars or other governmental instruction and/or mandatory standards and or guidance notes as may be applicable in the matter of 
+trading by an Insider ( defined below ). 
+iii. Audit Committee means Audit Committee of the Board constituted as per the regulatory requirements.  
+iv. Board means the Board of Directors of the Company.  
+v. CFO means the Chief Financial Officer of the Company .  
+vi. CIRO means the Chief Financial Officer, or any other person as may be nominated from time to 
+time, as the C hief Investor R elation Officer of the Company for the purpose of this Code.  
+vii. Compliance Officer shall mean the Company Secretary or means any senior officer, designated so 
+and reporting to the Board, who is financially literate and is capable of appreciating requirements for legal and regulatory compliance under the SEBI PIT Regulations , and who shall be responsible for 
+compliance of policies, procedures, maintenance of records, monitoring adherence to the rules of preservation of Unpublished Price Sensitive Information, monitoring of trades and the implementation of the codes specified under the SEBI PIT Regulations under the overall supervision 
+of the Board.  
+viii. Company Shares shall mean Securities of the Company  
+ix. Connected Person means:  
+(i) Any person who is or has during the six months prior to the concerned act, been associated with the 
+Company, directly or indirectly, in any capacity including by reason of frequent communication with its officers or by being in any contractual, fiduciary or employment relationship or by being a director, 
+officer or an employee of the Company or holds any position including a professional or business 
+relationship between himself / herself and the Company whether temporary or permanent, that allows 
+ 
+1 Formerly Bundl Technologies Private Limited and Swiggy Private Limited  
+Page  2of 11  
+ 
+  
+ 
+ 
+such person, directly or indirectly, access to Unpublished Price Sensitive Information or is reasonably 
+expected to allow such access.  
+x. Without prejudice to the generality of the foregoing, the persons falling within the following categories shall be deemed to be connected persons unless the contrary is established: -  
+• An Immediate Relative of connected persons specified in clause (i); or  
+• A holding company or associate company or subsidiary company; or  
+• An intermediary as specified in Section 12 of the Securities and Exchange Board of India Act, 1992 or an employee or director thereof; or  
+• An investment company, trustee company, asset management company or an employee or director thereof; or  
+• An official of a Stock Exchange or of clearing house or corporation; or  
+• A member of Board of trustees of a mutual fund or a member of the Board of Directors of the asset 
+management company of a mutual fund or is an employee thereof; or  
+• A member of the Board of Directors or an employee, of a public financial institution as defined in 
+section 2 (72) of the Companies Act, 2013; or  
+• An official or an employee of a self -regulatory organization recognized or authorized by the Board; or  
+• A banker of the Company; or  
+• A concern, firm, trust, Hindu Undivided Family, company, or association of persons wherein a director of the Company or his immediate relative or banker of the Company, has more than ten per cent of the 
+holding or interest.  
+Connected Person Includes Employees who have resigned and relieved from the services upto 6 months 
+from the date of relieving  
+xi. Designated Person(s) for the Company shall include the following persons:  
+a) CEO and employees two level below CEO of the Company and its material subsidiary. 
+b) All Directors, Key Managerial Personnel, Senior Management Personnel, All Employees of 
+designation Associate Vice President and above, Functional/ Departmental Heads, All 
+employees in Secretarial, Information Technology, Business Finance.  
+c) Employees in Finance & Accounts, Investor Relations, Tax, Audit, Legal, Risk & Assurance, 
+Trust & Safety, Corporate Development, and Public Relations and other employees that have been granted access to UPSI.  
+d) Employee of material subsidiaries designated as such on the basis of  their functional role or 
+as by board of directors.  
+e) Support staff of co./ intermediary/ fiduciary e.g. consultants having access to UPSI.  
+f) Any other person identified by CEO/MD/CFO in consultation with the Compliance 
+Officer on the basis of their functional role and where such function would provide them 
+access to UPSI.  
+xii. “Fiduciaries” shall mean professionals such as lender(s), bank(s), analyst(s), merchant(s) 
+banker(s),legal advisor(s), auditor(s), audit firm(s), diligence professional(s), insolvency 
+professional(s) or other advisor(s) / consultant(s) etc., assisting, advising or engaging with the 
+Company from time to time.  
+xiii. "Generally available” means information that is accessible to the public on a non-  discriminatory 
+basis. Information which is published on the website of Stock Exchange/s where the securities of the Company are listed or published by way of a press release by the Company would ordinarily be 
+considered generally available. 
+xiv. “Immediate Relative” of a person means a spouse (which includes any individual, who has been 
+identified/declared as live -in and/or same gender partner) or the parent, sibling or child of that 
+person or his or her spouse, if they are either dependent financially on such person or consult 
+Page  3of 11  
+ 
+  
+ 
+ 
+such  person in taking decisions relating to Trading in securities.  
+xv. "Insider” means any person who is : i) a connected person; or ii) in possession of or having access 
+to unpublished price sensitive information;  
+xvi. “Material Subsidiary” shall have the same meaning assigned to it under Regulation 16(1)(c) of the 
+Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended from time to time. This includes a subsidiary, whose income or net 
+worth exceeds ten percent of the consolidated income or net worth respectively, of the Company and 
+its subsidiaries in the immediately preceding accounting year.  
+xvii. “KMP” means persons as defined in Section 2(51) of the Companies Act, 2013  
+xviii. “PIT Code” shall mean Code of Conduct for Prevention of Insider Trading of the Company  
+xix. “Securities” shall have the meaning assigned to it under the Securities Contracts (Regulation) Act, 
+1956 (42 of 1956) or any modification thereof except units of a mutual fund.  
+xx. “Stock Exchange (s)” shall mean the recognized stock exchange (s) on which the Securities of the 
+Company are listed.  
+xxi. “Unpublished Price Sensitive Information (“UPSI”)” means any information, relating to a 
+company or its securities, directly or indirectly, that is not generally available which upon becoming 
+generally available, is likely to materially affect the price of the securities and shall, ordinarily 
+including but not restricted to, information relating to the following:   
+a) Financial Results;  
+b) Dividends;  
+c) Change in capital structure;  
+d) Mergers, de -mergers, acquisitions, de -listings, disposals and expansion of business and such other 
+transactions;  
+e) Changes in key managerial personnel  
+OVERSEEING  AND  CO-ORDINATING  DISCLOSURE:  
+The Board of the Company shall designate a senior officer as the Chief Investor Relations Officer 
+(“CIRO ”) from time to time, who would be responsible to ensure timely, adequate, uniform and universal  
+dissemination  of information  and disclosure  of UPSI  pursuant  to this  Code  as required under the  SEBI 
+PIT Regulations  so as to avoid  selective  disclosures.  
+Employees must not respond under any circumstances to inquiries from the stock exchanges,  the media or 
+others, unless authorised to do so by any of the Director of the Company.  
+BASIC  PRINCIPLES  OF DISCLOSURES:  
+• The CIRO  shall ensure:  
+1) Prompt public disclosures of UPSI that would impact price discovery no sooner than credible and concrete information comes into being in order to make such information generally available;  
+2) Uniform  and universal  dissemination  of UPSI  to avoid selective disclosure;  and 
+3) Prompt dissemination of UPSI that gets disclosed selectively, inadvertently  or otherwise to ensure 
+that this information is made generally available.  
+• It is clarified  that information  to be termed  UPSI  should  be specific  and intended  to be generally  
+made  available at a  point  of time  to ensure  it does not lead  to creation  of a false market in securities. 
+For the purpose of disclosure, the CIRO may consult such officials within the Company to ensure the 
+correctness and credibility  of the UPSI.  
+• The CIRO should authorise  disclosure or  dissemination of  UPSI (i) by way of intimation  to the stock 
+exchanges, such that further disclosure can be made from the stock exchange websites; (ii) on the official website to ensure official confirmation and documentation; and (iii) in any other  manner as 
+may be decided  by the CIRO to facilitate  uniform  and universal dissemination of UPSI.  
+• All communications of UPSI with the stock exchange shall be approved by the CIRO and communicated through appropriate personnel under his direction. 
+• The CIRO shall also be responsible for overseeing the contents of UPSI to be posted on the  website  of 
+the Company  for the purposes  of this code  and shall give appropriate directions for the 
+publication of the same. No other person shall be authorised to post any  UPSI  in the absence of any 
+Page  4of 11  
+ 
+  
+ 
+ 
+directions from the CIRO.  
+• Disclosures must be complete  in all material respects  and should not be misleading.  
+• To facilitate timely disclosure of UPSI, all employees, designated persons or insiders will be required 
+to communicate any UPSI to the CIRO as soon as credible and concrete information comes into being.  
+• If information is accidentally disclosed without prior approval out of accidental omission, selectively, inadvertently or otherwise, then the person responsible shall inform the CFO/CIRO immediately, even 
+if the information is not considered price sensitive. The CFO/CIRO shall promptly take appropriate 
+corrective actions, including informing Stock Exchanges, to make the information generally available. 
+• The CFO/CIRO shall handle all the UPSI on a need -to-know basis only, post executing the Non-
+Disclosure/ Confidentiality Agreement or on serving notices of confidentiality. In case of any doubt, the CFO/CIRO shall consult and seek approval of the Managing Director and Chief Executive Officer 
+before dissemination of such information. 
+DELAY  IN DISCLOSING  MATERIAL  INFORMATION : 
+Under  certain circumstances,  the Company may keep  UPSI confidential for a limited period of time 
+because immediate disclosure may  compromise certain strategic business opportunities of the Company or 
+may not be disclosable due to third- party confidentiality restrictions or uncertainty of events.  
+The determination  of when  not to  disclose  UPSI immediately  shall be made by any Executive 
+Director of the Company.  
+RESPONDING  TO MARKET  RUMOURS : 
+The CIRO  shall ensure  that appropriate  and fair responses  are provided  to queries  on news  reports 
+and requests for verification of market rumors by  Regulatory  Authorities.  
+MEDIUM  OF DISCLOSURE/DISSEMINATION:  
+The Company shall disseminate all credible and concrete UPSI on a continuous and in a timely manner  to 
+stock  exchanges  where  its securities  are listed  in accordance with the  requirements of applicable 
+law and thereafter to the press.  
+As a good corporate  practice,  the UPSI  disclosed  to the Stock  Exchanges  and to the Press  
+may also be supplemented by prompt updates on the Company’s website. The Company may also consider 
+other modes of public disclosures of UPSI so as to improve investor  access to  the same.  
+GENERAL OBLIGATION OF  PRESERVING  UPSI : 
+All employees, directors and  insiders of the Company are required to ensure that handling of all UPSI, 
+including onward communication, is done on a need- to-know basis and in line with any other applicable 
+codes, policies and procedures of the Company, including, specifically, this Code and the Insider Trading 
+Code; except that are required to be disclosed in performance of his or her duties or under applicable laws 
+or regulations or in legal proceedings.  
+DISCLOSURE / DISSEMINATION OF PRICE SENSITIVE INFORMATION WITH SPECIAL 
+REFERENCE TO ANALYSTS, RESEARCH PERSONNEL, INSTITUTIONAL INVESTORS : 
+a) Only generally available public information should be provided to the analyst/research persons, institutional 
+investors, and fund managers. In case there is any unintentional disclosure of UPSI to analysts, research personnel or institutional investors, the same should also be made generally available information at the earliest.  
+b) To bring in uniformity of information dispersal, the CFO/CIRO, along with at least  one representative of the 
+Company, wherever possible may be present at meetings with analysts, research personnel, brokers or 
+Institutional Investors and discussion shall be recorded (either an audio recording or video recording). For the 
+sake of clarity, no person except those authorized shall disclose any information at such meetings.  
+Page  5of 11  
+ 
+  
+ 
+ 
+c) The Company should be cautious while dealing with analysts, research personnel and Institutional investors that 
+raise questions beyond the intended scope of discussions. Unanticipated questions may be taken on record and a 
+careful response may be provided later.  
+d) The Company shall make written transcripts and audio/ video recordings of the meetings or other interactions 
+with analysts, research personnel, brokers or Institutional Investors, available on the website of the Company and 
+intimate to the Stock Exchanges within given statutory time limit.  
+e) If any UPSI is shared in any meetings with analysts/research personnel/investor meet (attended by persons representing the Company, whether one on one or group meet), it shall tantamount to “selective disclosure” and 
+accordingly the Company will disclose audio recordings or transcripts of all such information where UPSI is 
+shared irrespective of whether the meeting was organized by the Company or any other entity.  
+POLICY  FOR  DETERMINATION  OF “LEGITIMATE  PURPOSES"  
+In line with clause 2A of Regulation 3 of the SEBI PIT Regulations, Policy for determination of legitimate 
+purposes is provided under Annexure 1 of this Code.  
+MAINTENANCE  OF DISCLOSURE  RECORDS : 
+The Company  shall maintain  and store  records  in respect  of disclosures  made  by it through  any 
+means under the relevant provisions of the Companies Act, 2013, Rules made thereunder, SEBI  Act, 
+1992, rules, regulations and guidelines  issued  there  under  and the  Listing  Agreements, for audit and 
+future reference.  
+SWIGGY  SECURITIES  DEALING  CODE : 
+No Employee including his/her immediate Relatives shall either on his/her own behalf or on behalf  of any 
+other  person, trade  or undertake  to trade  or cause  to trade  in the Securities of the Company  
+a)  when he/she is in possession of any Unpublished Price Sensitive Information and  
+b) during the Restricted Trading Period.  
+ENFORCEMENT : 
+In case of any violation of the Fair Disclosure Code by the Designated Person (including for his / her Immediate 
+Relatives), penal action may be taken against such person by the Company pursuant to the Applicable Law. 
+Additionally such persons may also be subjected to disciplinary action including termination of employment, 
+suspension, wage freeze, forfeiture of vested options, non ‐participation in future employee stock option or any 
+other appropriate action as may be decided by the Audit Committee / Inquiry Committee. 
+Action taken by the Company for violation of this Fair Disclosure Code against any Designated Person will not 
+preclude SEBI from initiating any action for violation of the SEBI PIT Regulations or any other applicable laws, 
+rules, directions, etc. Accordingly, in addition to the action taken by the Company, the person violating this Fair 
+Disclosure Code and SEBI PIT Regulations will also be subject to action by SEBI including but not limited to 
+monetary penalties or imprisonment as per Applicable Law.  
+AMENDMENTS  AND  MODIFICATION : 
+The Board reserves the power to review and amend this Code from time to time. All provisions of this Code 
+would be subject to revision / amendment in accordance with applicable  laws as may be issued  by 
+relevant  statutory,  governmental  and regulatory authorities, from time to time. In case of any 
+amendment(s), clarification(s), circular(s) etc. issued  by the relevant  statutory,  governmental  and regulatory 
+authorities are not consistent with the provisions laid down under this Policy, then such amendment(s), clarification(s), circular(s) etc. shall prevail upon the provisions hereunder.  
+Note: Words not define d herein shall have the meaning as per the Securities and Exchange Board of India 
+(SEBI) (Prohibition of Insider Trading) Regulations, 2015  

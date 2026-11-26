@@ -1,0 +1,155 @@
+Scrip code 505533
+NSE Symbol WESTLIFE
+MSEI Symbol NA
+ISIN INE274F01020
+Name of the company Westlife Foodworld Limited
+Type of meeting AGM
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)11-09-2024
+Start time of the meeting 02:30 PM
+End time of the meeting 03:45 PMGeneral information about companyHome Validate
+ Import  XML
+Name of the Scrutinizer Dipali Shah
+Firms Name MSDS and Associates
+Qualification CS
+Membership Number A25422
+Date of Board Meeting in which appointed 25-07-2024
+Date of Issuance of Report to the company 12-09-2024Scrutinizer DetailsHome Validate
+
+Record date 04-09-2024
+Total number of shareholders on record date 32867
+a) Promoters and Promoter group 0
+b) Public 0
+a) Promoters and Promoter group 16
+b) Public 20
+No. of resolution passed in the meeting 3
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 84155622 95.9371 84155619 3 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 87719622 84155622 95.9371 84155619 3 100.0000 0.0000
+E-Voting 45993403 84.1696 45993403 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 54643742 45993403 84.1696 45993403 0 100.0000 0.0000
+E-Voting 146777 1.0814 146777 0 100.0000 0.0000
+Poll 4000003 29.4707 4000003 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 13572801 4146780 30.5521 4146780 0 100.0000 0.0000
+Total Total 155936165 134295805 86.1223 134295802 3 100.0000 0.0000
+* this fields are optional
+No. of Votes
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryPublic- Non 
+Institutions13572801Resolution (1)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredAdopting of:
+•  the audited financial statements of the Company for the financial year ended 31st March, 2024 
+and the reports of the Board of Directors and the Auditors thereon.
+Promoter and 
+Promoter Group87719622
+Public- 
+Institutions54643742Home Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 84104333 95.8786 84104330 3 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 87719622 84104333 95.8786 84104330 3 100.0000 0.0000
+E-Voting 43889791 80.3199 39559890 4329901 90.1346 9.8654
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 54643742 43889791 80.3199 39559890 4329901 90.1346 9.8654
+E-Voting 146777 1.0814 145812 965 99.3425 0.6575
+Poll 4000003 29.4707 4000003 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 13572801 4146780 30.5521 4145815 965 99.9767 0.0233
+Total Total 155936165 132140904 84.7404 127810035 4330869 96.7225 3.2775
+* this fields are optional
+No. of Votes
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryPublic- Non 
+Institutions13572801Resolution (2)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution consideredAppointment of Mr Amit Jatia (DIN: 00016871), who retires by rotation and being eligible, offers 
+himself for re-appointment. 
+Promoter and 
+Promoter Group87719622
+Public- 
+Institutions54643742Home Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes 
+against on votes 
+polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 84155622 95.9371 84155622 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 87719622 84155622 95.9371 84155622 0 100.0000 0.0000
+E-Voting 45993403 84.1696 45989875 3528 99.9923 0.0077
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 54643742 45993403 84.1696 45989875 3528 99.9923 0.0077
+E-Voting 146777 1.0814 145876 901 99.3861 0.6139
+Poll 4000003 29.4707 4000003 0 100.0000 0.0000
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 13572801 4146780 30.5521 4145879 901 99.9783 0.0217
+Total Total 155936165 134295805 86.1223 134291376 4429 99.9967 0.0033
+* this fields are optional
+No. of Votes
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryPublic- Non 
+Institutions13572801Resolution (3)
+Resolution required: (Ordinary / Special) Special
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution considered Appointment of Mr Rajendra Mariwala (DIN: 00007246) as a Director (Non - Executive 
+Independent Director).
+Promoter and 
+Promoter Group87719622
+Public- 
+Institutions54643742Home Validate
+Add Notes

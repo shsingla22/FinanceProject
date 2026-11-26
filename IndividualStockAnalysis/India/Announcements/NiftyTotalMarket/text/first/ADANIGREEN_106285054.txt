@@ -1,0 +1,222 @@
+ 
+Adani Green Energy Limited  Tel +91 79 2555 5555 
+Adani Corporate House, Shantigram,  Fax +91 79 2555 5500 
+Nr Vaishno Devi Circle, S G Highway  investor.agel@adani.com 
+Khodiyar, Ahmedabad 382 421  www.adanigreenenergy.com 
+Gujarat, India 
+CIN: L40106GJ2015PLC082007 
+ 
+Registered Office: Adani Corporate House, Shantigram, Nr. Vaishno Devi Circle,  
+S G Highway, Khodiyar, Ahmedabad – 382 421, Gujarat, India  
+Date: June 30, 2025 
+ 
+To 
+BSE Limited    The National Stock Exchange of India Limited 
+P J Towers,    “Exchange Plaza”, 
+Dalal Street,    Bandra – Kurla Complex,  
+Mumbai – 400 001  Bandra (E), Mumbai – 400 051 
+ 
+Scrip Code: 541450  Scrip Code: ADANIGREEN 
+ 
+Dear Sir, 
+ 
+Sub: Compliance Certificate of RG II 
+ 
+Please find attached herewith Compliance Certificate for the period ended 
+March 31, 2025 for RG II entities (i.e. Adani Renewable Energy (RJ) Limited, 
+Wardha Solar (Maharashtra) Private Limited and Kodangal Solar Parks Private 
+Limited) comprising of solar projects of 570 MW in compliance with Note Trust 
+Deed dated October 15, 2019. 
+ 
+You are requested to take the same on your record. 
+ 
+Thanking You 
+ 
+Yours Faithfully, 
+For, Adani Green Energy Limited 
+ 
+ 
+Pragnesh Darji 
+Company Secretary 
+ 
+Note: This is voluntary submission and not to be considered as an intimation 
+under Regulation 30 of the SEBI (Listing Obligations and Disclosure 
+Requirements), Regulations, 2015.  
+ 
+ 
+ 
+COMPLIANCE CERTIFICATE 
+(March 31st, 2025) 
+ 
+RG-2 COMPRISING OF SOLAR PROJECTS OF  
+570 MW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+1 
+ 
+Contents 
+Executive Summary .................................................................................................................... 2 
+Information on Compliance Certificate and Its Workings ......................................................... 7 
+Computation of Operating Account Waterfall as per Note Trust Deed .................................... 8 
+Summary of the Covenant ......................................................................................................... 9 
+A. Financial Matrix ..................................................................................................................... 9 
+A.1 Debt Service Coverage Ratio (DSCR) ......................................................................................... 9 
+A.2 FFO to Net debt ........................................................................................................................ 9 
+A.3 Project Life Cover Ratio (PLCR) ............................................................................................... 10 
+A.4 EBITDA from Sovereign Equivalent Counterparty .................................................................. 10 
+B. Operational Performance (CUF) .......................................................................................... 11 
+B.1 CUF for RG 2 Period wise ........................................................................................................ 11 
+B.2 CUF for WSMPL Period wise ................................................................................................... 12 
+B.3 CUF for KSPPL Period wise ...................................................................................................... 13 
+B.4 CUF for ARERJL Period wise .................................................................................................... 14  
+C. Receivable Position .............................................................................................................. 14 
+C.1 Receivable Position of RG 2 .................................................................................................... 15 
+C.2 Receivable Position of WSMPL ............................................................................................... 15 
+C.3 Receivable Position of KSPPL .................................................................................................. 15 
+C.4 Receivable Position of ARERJL ................................................................................................ 15  
+Appendix -1 .............................................................................................................................. 17 
+Annexure 1 .................................................................................................................................... 19 
+Annexure 2 .................................................................................................................................... 21 
+Annexure 3 .................................................................................................................................... 22 
+Annexure-4 ................................................................................................................................... 24 
+Annexure 5 .................................................................................................................................... 25 
+Annexure 6 .................................................................................................................................... 26 
+Annexure 7 .................................................................................................................................... 28  
+Appendix  2 ............................................................................................................................ 29 
+ 
+  
+2
+Executive Summary
+AdaniGreen Energy Obligor Group (RG 2)
+200 MW of Adani Renewable Energy (RJ) Limited (ARERJL), 350 MW of Wardha Solar (Maharashtra) 
+Private Limited (WSMPL)and 20 MW of Kodangal Solar Parks Private Limited(KSPPL) formed an obligor 
+group of 570 MW i.e. RG 2. 
+Fitch:-BBB-(Stable) 
+Off-takers wise EBITDA (%)(31stMarch2025)
+72%28%Off-taker wise EBITDA %
+NTPC/ SECI Others
+ 
+3 
+ 
+ 
+1. Recent Developments of AGEL 
+ 
+companies in the world enabling the clean energy transition. AGEL currently has an operating 
+renewable portfolio of 14.2 GW, the largest in India, spread across 12 states. The company has set a 
+ 
+ 
+Khavda, Gujarat having operationalized 4.1 GW of solar and wind capacity within two years of 
+commencing construction. We delivered high solar capacity utilization factor (CUF) of 32.4% in Q4 
+FY25. 
+Gujarat, covering 538 square kilometers, an area five times larger than Paris.  
+ nationwide utility-scale solar and 14% of wind installations in FY25. 
+ 
+(i) Operational Capacity increases by 30% to 14,243 MW with greenfield addition of 3,309 MW 
+ 
+Operationalized 2,710 MW Solar power plants 
+ 1,460 MW in Khavda, Gujarat 
+ 1,000 MW in Rajasthan 
+ 250 MW in Andhra Pradesh 
+ 
+Operationalized 599 MW Wind power plants 
+ 599 MW in Khavda, Gujarat 
+ 
+(ii) Sale of Energy at  27,969 mn units increased by  28% vs 21,878 mn units in FY24, having steady 
+growth at a CAGR of 45% over the last 5 years with increasing proportion of Merchant power. 
+ 
+(iii) Refinanced USD 1.06 Bn  maiden construction facility with a 19-year tenor debt with amortizing    
+structure, aligning closely with PPA cashflows.   
+ 
+(iv) Signed PPA with MSEDCL to supply 5 GW solar power for a period of 25 years. 
+ 
+2. RG2 Portfolio achieved power generation performance above P90 Level during the period April to 
+March 2025. 
+ 
+3. ESG updates: 
+ 
+(i) Emission prevented:  
+ Target: Committed to avoid GHG emissions through development of 50 GW RE project by 2030.  
+   ~Achieved  operational Capacity of 14.2GW . 
+ 20.33 Mn ton CO2 emissions avoided by AGEL during the year out of which 0.94 Mn on  CO2       
+ avoided by RG2 entities. 
+ 
+(ii) Waterless module cleaning through robotic: Implemented robotic module cleaning system 
+for 7685  MW  which is 54% of total operational capacity ensuring  water usage for solar 
+module cleaning.  
+ 
+ 
+ 
+ 
+4 
+ 
+(iii) Water Positive: 
+ Target: To be water for 100% operational portfolio by FY26 ~ Achieved 100% in FY25, 1 year  
+ ahead of target.  
+ Achieved Water Positive Goal for 100% operational portfolio with a water balance index of  
+ 1.64 (assured by Intertek, an independent global assurance agency).  
+ 
+(iv) EV Commitment: Target of 65% EV by FY30 ~ Achieved  46% target against 65% EV by FY30 as part  
+ of EV 65 commitment  
+ 
+(v) 
+plants as per technical standard adopted, developed in association with Confederation of Indian 
+Industry (CII) following IBBI principles and IUCN standard, to ensure  Net  of biodiversity 
+across all plants. 
+ 
+(vi) Corporate social responsibility: Through various CSR initiatives at its operating and project  
+ locations, AGEL has contributed directly or through Adani Foundation in the following 
+ focus areas:  
+ Creating Sustainable Livelihood  Promoting Self-reliance in Communities  
+ Community Infrastructure Development  Taking Climate Action and Creating Sustainable  
+ Infrastructures  
+ Empowering Communities Through Quality Education  
+ Ensuring Access to Good Health  
+ 
+(vii)  ESG Risk rating: 
+ ISS ESG  Prime band (A-), AGEL has been ranked 1st in Asia and part if top 5 RE players  
+ globally.  
+ Achieved sustain alytics ESG risk rating of   with a score of 15, significantly better than  
+ global industry average of 32.2. AGEL has been ranked in the top 10 global players within the 
+ renewable energy (RE) sector.  
+ DJSI-S&P Global Corporate Sustainability Assessment - Ranked 2nd best in Indian electricity  
+ utility sector ESG benchmark with an ESG score of 74  
+ FTSE  Ranked 3rd globally in the Alternative Electricity Subsector with a percentile rank of 93 
+ in the Utilities Supersector. ESG rating of 4.2 and constituent of  index series 
+ 
+4. Regulatory Updates  
+ 
+During the period KSPPL had received amount of Rs 244 Mn vide favorable APTEL order dt. 14th May 
+2024 and dated 30th May 2024, towards discharge of full tariff under respective project PPA along with 
+carrying cost as per respective PPA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  

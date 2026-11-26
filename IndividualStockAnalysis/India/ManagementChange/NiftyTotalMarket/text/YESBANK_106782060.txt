@@ -1,0 +1,26 @@
+--- CIM_2304_WebXMLFile_20260916_172336398_2.xml (the exchange's structured disclosure) ---
+NSESymbol: YESBANK ; Name Of The Company: YES Bank Limited ; Scrip Code: 532648 ; MSEISymbol: NOTLISTED ; ISIN: INE528G01035 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-15 ; Time Of Occurrence Of Event Or Information: 18:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Remarks For Website Dissemination: Mr. Binu Soman, Chief Vigilance Officer (CVO), had tendered his resignation from the services of the Bank on account of better career growth on June 17, 2026. The Bank has relieved Mr. Binu Soman from his duties effective from close of business hours on September 15, 2026. ; Date Of Report: 2026-09-16 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Vigilance Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Binu Soman ; Effective Date Of Reason Of Change: 2026-09-15 ; Salutation: Mr. ; Name Of The Person: Binu Soman ; Designation Of Person: Chief Vigilance Officer ; Date On Which The Resignation Letter Was Received: 2026-06-17 ; Effective Date Of Resignation: 2026-09-15 ; Reason Of Resignation In Brief: better career growth
+
+--- CVO_Resignation_Letter_1.pdf ---
+Date: June 17, 2026.
+
+To,
+MD and CEO,
+YES BANK LTD
+
+Sub: Resignation Binu Soman.
+Dear Vi nay Sir,
+I would like to inform you about my decision to pursue career outside of the Bank. My last
+day of employment with the Bank will be September 15, 2026.
+This has not been an easy decision but considering my career advancement I have decided
+to take the leap forward. I want to thank you for the support and guidance. Please do let me
+know if I can be of any assistance in the days to come. I wish you and the YBL family all the
+best in future.
+
+w
+7
+Binu Soma n
+Chief Vigilance Officer
+YES BANK LTD
+
+

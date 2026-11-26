@@ -1,0 +1,145 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 36/2025-26 
+ 
+September 17, 2025  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ TCS and Qualcomm 
+Collaborate to Develop AI -Driven Smart, Sustainable Capabilities for Industries ” 
+which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+Confidential  TCS and Qualcomm Collaborate to Develop AI -Driven Smart, 
+Sustainable Capabilities for Industries  
+ 
+A new co-innovation lab in Bengaluru  will pioneer Software Defined Everything ( SDx) and Edge AI 
+Capabilities to charge digital transformation journeys of global enterprises  
+BENGALURU  | MUMBAI , September 17 , 2025 : Tata Consultancy Services  (TCS) (BSE: 532540, NSE: T CS), a 
+global leader in IT services, consulting, and business solutions  has partnered with Qualcomm to set up the 
+‘TCS Innovation Lab ’, a space  for co -innovation  with Qualcomm in Bengaluru . TCS and Qualcomm wi ll co-
+create  smart , scalable, and sustainable Edge A I capabilities utilising Qualcomm® platforms  for industries 
+moving towards a software -driven  approach to make their systems more efficient and resilient  in the lab . 
+The co -innovation  lab will enable the  creation of  customi sed low -cost solutions that can be deployed on  
+intelligent  device s, on location  and in real time to streamline processes at large enterprise s.  
+Located in India’s start -up and innovation capital, Bengaluru, th e lab will be part of the IoT focused Bringing 
+Life to Things Network lab. The lab, which is equipped with 5G private network infrastructure and other hi -
+tech network and equipment, will develop capabilities for sectors that need agile IoT solutions such as 
+security and surveillance, healthcare, smart infrastructure , and manufacturing. With its  strategic location and 
+advanced infrastructure, the lab is designed to support the rapid prototyping, experimentation, and large -
+scale implementation of Edge AI capabilities built on a Software Defined Everything (SDx)  approach.   
+Savi Soin, Sr. Vice President & President, Qualcomm India , said, “Our collaboration with TCS marks an 
+important step in bringing practical, real -time Edge AI solutions to industries that are rapidly evolving. The 
+TCS Innovation Lab in Bengaluru will serve as a space where advanced AI and connectivity  meet real -world 
+challenges. Together, we aim to develop solutions that are cost-effective, efficient, scalable, and tailored to 
+the needs of enterprises looking to modernize and grow in a software -defined world.”  
+Enterprises across sectors  need to develop and deploy intelligent devices that can autonomously make 
+decisions to run processes efficiently, creating a rise in demand for smart, compact , energy efficient  and high -
+performance self-healing  devices. TCS shall leverage  advanced E dge AI and SDx capabilities  that are 
+hardware -agnostic, highly configurable, secure, and service -oriented . These will  help global enterprises build 
+robust , agile  systems  that adapt  quickly  to changes in industry ecosystems  and business process es. The 
+proposed solutions shall find applications in medical devices, smart handheld s for control ling industrial 
+processes and machinery,  smart infrastructure  and advanced safety and surveillance mechanisms . Running 
+TCS’ SDx capabilities on Qualcomm  Technologies ’ Edge AI -enabled  System -on-Chips will  connect the physical 
+and digital worlds  more seamlessly . 
+V Rajanna, Business Group Head, Technology, Software and Services, TCS,  said, “We are excited to announce  
+the launch of a state -of-the-art co -innovation lab focused on advancing Software Defined Everything (SDx) 
+and Edge AI platforms. This lab will drive the development of next -generation solutions for diverse 
+applications —including intelligent medical devices, smart industrial handhelds, and advanced safety and 
+surveillance systems. TCS remains committed to investing in innovation and harnessi ng the power of AI to 
+help enterprises unlock greater agility, efficiency, and long -term business value. ” 
+The latest collaboration between TCS and Qualcomm Technologies, Inc ., builds on the  large transformational 
+projects  carried out by both companies  across engineering services including silicon solution design and IT 
+support. Leveraging this collaboration with Qualcomm  Technologies , TCS recently developed a real-time 
+smart v isual anomaly detection  capability for material inspection for a  large automotive manufacturer . The 
+ 
+Page 2 of 3 
+ 
+Confidential  NextGen approach processes live camera feeds  to scan for surface defects  for industrial , aerial and terrestrial 
+inspections . It identif ies even  the tiniest  imperfections  on various surfaces , including steel and painted 
+surfaces . The capability achieved state -of-the-art visual detection  with 90%  real-time  accuracy by  using  a 
+smart  and inexpensive  on-premise edge device  from Qualcomm  Technologies .  
+Regu Ayyaswamy, Global Head, IoT & Digital Engineering, TCS, said,  "This engagement strengthens our long -
+standing relationship with Qualcomm Technologies and reinforces our vision of building an intelligent, 
+connected future. By combining TCS’ Software Defined X approach with Qualcomm  Technologies ’ Edge AI 
+platforms, TCS will create next -gen industry solutions that are adaptive, scalable, and sustainable – delivering 
+exceptional value to our clients across sectors. As the demand for intelligent, automated solutions is on the  
+rise, TCS continues to be committed to developing solutions that will support industries in staying agile .” 
+TCS utilizes its decades of expertise in building platforms and solutions for industrial applications and its 
+domain knowledge  in Engineering, Research and Development (ER&D) . A significant advantage of SDx 
+capabilities  is the ability to create a  network of smart services, provide intelligent controls  and sensors, 
+conduct device prognostics, and run AI agents and AI models with in an intelligent fabric.  SDx capabilities  are 
+backed by AI enable d enhanced  automation  and bring resilience in enterprise environments. It provide s an 
+agile business framework  for migrating to next -generation network technology platforms.   
+ 
+About  Tata  Consultancy  Services  (TCS)  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner 
+of choice for industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest 
+standards of innovation, engineering excellence and customer service.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce of over 600,000 
+employees  in 55 countries and 202 service delivery centers across the world, the company has been 
+recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, 
+the company has built long term partnerships with its clients – helping them emer ge as perpetual ly adaptive 
+enterprises. Many of these relationships have endured into decades and navigated every technology cycle, 
+from mainframes in the 1970s to Artificial Intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  TCS generated consolidated revenues of over US $30 billion in 
+the fiscal year ended March 31, 2025.  
+ 
+For more information, visit www.tcs.com .  
+ 
+Follow TCS on LinkedIn| Instagram | YouTube| X  
+ 
+TCS Media Contacts:  
+Corporate Communications 
+& India  Email: corporate.communications@tcs.com  
+Email: saxena.kritika@tcs.com  | Phone: +91 22 6778 9999  
+ 
+Page 3 of 3 
+ 
+Confidential  Email: santosh.castelino@tcs.com  | Phone: +91 22 67789098  
+ 
+Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its 
+subsidiaries. Qualcomm patents are licensed by Qualcomm Incorporated.  
+Qualcomm and Snapdragon are trademarks or registered trademarks of Qualcomm Incorporated.  
+ 
+ 
+ 
+### 
+ 

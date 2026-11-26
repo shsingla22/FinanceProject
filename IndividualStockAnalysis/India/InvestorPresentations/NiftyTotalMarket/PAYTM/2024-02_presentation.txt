@@ -1,0 +1,58 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ 
+ 
+ Corporate Office - One Skymark, Tower -D, Pl ot No. H-10B, Sector -98, Noida -201304  
+T: +91120 4770770   F: +91120 4770771 CIN: L72200DL2000PLC108985  
+Registered Office -  136, First Floor, Devika Tower, Nehru Place, New Delhi -110019  One 97 Communications Limited 
+compliance.officer@paytm.com 
+www.paytm.com  
+ February 1 , 2024 
+ 
+BSE Limited  
+Department of Corporate Services ,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Scrip Code: 543396   National Stock Exchange of India Limited  
+The Listing Department,  
+Exchange Plaza , 
+Bandra Kurla Complex,  
+Mumbai - 400 051  
+ 
+Symbol: PAYTM  
+  
+Sub. :  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 – Presentation and Audio recording of the Conference Call dated  
+February 1 , 2024  
+    
+Dear Sir / Ma’ am, 
+ In furtherance to our earlier letter dated February 1 , 2024 , and in terms of Regulation 30 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, please find enclosed copy of the presentation made during the conference call held today i.e. February 1 , 2024 , on update on R eserve 
+Bank of I ndia  direction to P aytm Payments Bank Limited .  
+ The audio recording of the conference call has been uploaded on the website of the Company at  
+https://ir.paytm.com/investor -events  and t he presentation will also be hosted on the aforesaid link.  
+ Kindly take the same on record.  
+ Thanking you , 
+ Yours Sincerely,  
+For One 97 Communications Limited  
+   
+Sunil Kumar Bansal  
+Company Secretary & Compliance Officer  
+ 
+Encl. : as Above  
+ 
+=== page 2 ===
+Update on RBI direction to PPBL,OCL’s relationship with PPBL and the way forwardFebruary 2023
+=== page 3 ===
+DisclaimerBy attending the presentation or by reading the presentation slides you agree to be bound as follows: This Presentation is prepared by One 97 Communications Limited (“Company”) and is for information purposes only without regards to specific objectives, financial situations or needs of any -particular person and is not and nothing in it shall be construed as an invitation, offer, solicitation, recommendation or advertisement in respect of the purchase or sale of any securities of the Company or any affiliates in any jurisdiction or as an inducement to enter into investment activity and no part of it shall form the basis of or be relied upon in connection with any contract or commitment or investment decision whatsoever. This Presentation does not take into account, nor does it provide any tax, legal or investment advice or opinion regarding the specific investment objectives or financial situation of any person. Before acting on any information you should consider the appropriateness of the information having regard to these matters, and in particular, you should seek independent financial advice. This Presentation and its contents are confidential and proprietary to the Company and/or its affiliates and no part of it or its subject matter be used, reproduced, copied, distributed, shared, retransmitted, summarised or disseminated, directly or indirectly, to any other person or published in whole or in part for any purpose, in any manner whatsoever. The information contained in this Presentation is a general background information of the Company and there is no representation that all information relating to the context has been taken care of in the Presentation. We do not assume responsibility to publicly amend, modify or revise any information contained in this Presentation on the basis of any subsequent development, information or events, or otherwise. This Presentation includes certain statements that are, or may be deemed to be, “forward-looking statements” and relate to the Company and its financial position, business strategy, events and courses of action.Forward-looking statements and financial projections are based on the opinions and estimates of management at the date the statements are made and are subject to a variety of risks and uncertainties and other factors that could cause actual events or results to differ materially from those anticipated in the forward-looking statements and financial projections. Representative examples of factors that could affect the accuracy of forward looking statements include (without limitation) the condition of and changes in India’s political and economic status, government policies, applicable laws, international and domestic events having a bearing on Company’s business, and such other factors beyond our control.Forward-looking statements and financial projections include, among other things, statements about: our expectations regarding our transaction volumes, expenses, sales and operations; our future merchant and consumer concentration; our anticipated cash needs, our estimates regarding our capital requirements, our need for additional financing; our ability to anticipate the future needs of our merchants and consumers; our plans for future products and enhancements of existing products; our future growth strategy and growth rate; our future intellectual property; and our anticipated trends and challenges in the markets in which we operate. Forward-looking statements are not guarantees of future performance including those relating to general business plans and strategy, future outlook and growth prospects, and future developments in its businesses and its competitive and regulatory environment. These forward-looking statements represent only the Company’s current intentions, beliefs or expectations, and no representation, warranty or undertaking, express or implied, is made or assurance given that such statements, views, projections or forecasts in the Presentation, if any, are correct or that any objectives specified herein will be achieved. We, or any of our affiliates, shareholders, directors, employees, or advisors, as such, make no representations or warranties, express or implied, as to, and do not accept any responsibility or liability with respect to, the fairness, accuracy, completeness or correctness of any information or opinions contained herein and accept no liability whatsoever for any loss, howsoever, arising from any use or reliance on this Presentation or its contents or otherwise arising in connection therewith. The information contained herein is subject to change without any obligation to notify any person of such revisions or change and past performance is not indicative of future results.This document has not been and will not be reviewed or approved by a regulatory authority in India or by any stock exchange in India. No rights or obligations of any nature are created or shall be deemed to be created by the contents of this Presentation. Use of Operating MetricsThe operating metrics reported in this Presentation are calculated using internal Company data based on the activity of our merchants, consumers and other participants in our ecosystem. While these numbers are based on what we believe to be reasonable estimates of engagement, for the applicable period of measurement, there are inherent challenges in measuring usage across our large online, offline, in-store and mobile presence. The methodologies used to measure these metrics require significant judgment and are also susceptible to algorithm or other technical errors. We regularly review our processes for calculating these metrics, and from time to time we may discover inaccuracies in our metrics or may make adjustments to improve their accuracy, which can result in adjustments to previously disclosed metrics. In addition, our metrics will differ from estimates published by third parties due to differences in methodology.We have converted financial amounts from ₹ millions into ₹ Cr and hence there could be some totaling anomalies in the numbers. 
+2
+=== page 4 ===
+1.PPBL has received regulatory directive from RBI and is taking immediate steps to comply with RBI directions2.PPBL users can use their savings accounts balances, Wallets, FASTagsand NCMC account etc till 29 Feb 20243.OCL, as a payments aggregator for online and offline merchants, works with various banks including PPBL. From hereon it will leverage it’s relationship with other banks and not with PPBL4.OCL has already been working with other banks since last 2 years. We will now accelerate the plans and completely move to other bank partners. Going forward, Paytm will be working only with other banks, and not with PPBL5.With regard to the direction on termination of nodal account of OCL and Paytm Payments Services Limited (PPSL) by February 29, 2024, OCL and PPSL is in the process of moving nodal account to other large commercial banks6.OCL’s marketing and financial services business, are not affected due to directions towards our associate company PPBL7.There will be requirement to have some operational changes for which the work has started wherever customers or merchants have relationship with PPBLKey UpdatesUpdate on OCL’s relationship with PPBL; Impact of recent action on PPBL and the way forward
+3
+=== page 5 ===
+Thank You

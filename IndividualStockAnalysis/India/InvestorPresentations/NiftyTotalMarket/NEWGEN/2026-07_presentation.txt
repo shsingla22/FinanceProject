@@ -1,0 +1,677 @@
+
+=== page 1 ===
+                                                                    
+Newgen Software Technologies Limited  
+CIN: L 72200DL 1992PLC049074, Registered Office: E-44/13, Okhla Phase II, New Delhi 110020, India  
+Tel: +91 11 46533200, 26384060, 26384146   Fax:+91 11 26383963  
+ 
+                                                                  
+ 
+Date:  16th July 2026  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  
+ National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400051  
+ 
+Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+Scrip Code – 540900  Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+ 
+ 
+   Sub. : Investor Presentation on Financial Results for the quarter ended  30th June  2026 
+ 
+Dear Sir/ Ma'am,  
+ 
+Pursuant to the above -mentioned subject, we are hereby enclosing the Investor Presentation  on Financial 
+Results for the  quarter ended 30th June 202 6.  
+ 
+This is for your kind information and record.  
+ 
+Thanking you.  
+ 
+For Newgen Software Technologies Limited  
+ 
+ 
+ 
+Aman Mourya  
+Company Secretary  & Head -Legal  
+ 
+ 
+  Encl. : a/a 
+ 
+=== page 2 ===
+Investor Presentation -Q1 FY’27
+
+=== page 3 ===
+Orchestrating Intelligent Enterprises2
+Newgen –Key Highlights (FY’26)
+34 years  
+of Innovation, Passion,
+and Excellence 
+Presence in 
+79countries
+~500 Active Customers
+47 New Logo additions
+67 patent filings till date, 
+12 patents filed and 2
+granted in the year 
+Consistently recognized by 
+Gartner and ForresterGreat Place to Work certified 
+Second time in a row
+17 verticals 
+Major Verticals includingAI Products introduced for Lending, 
+Trade , Insurance, Knowledge 
+Management, Onboarding
+Banking & FS, Insurance, Government
+101 customers over Rs 50mn billing
+All Figures as of March 31, 2026
+
+=== page 4 ===
+Orchestrating Intelligent Enterprises3
+Newgen –Financial Snapshot (FY’26)
+Rs 15,744 Million 
+Revenue
+(6% YoY Growth) 
+Rs 3,343 Million
+PAT (excl. Exceptional items)**
+(6.0% YoY Growth)Rs 3,691 Million
+US Geography Revenue
+(17% YoY Growth)
+Rs 4,058 Million
+EBITDA
+(7.9% YoY Growth)Rs 9,684 Million
+Annuity Revenues*
+(62% of Revenues) 
+• Annuity revenues comprise of ATS/AMC and Cloud/ Subscription License revenue streams and Support rev enues
+** Excludes Exceptional items, Net of tax adjustment
+All Figures as of March 31, 2026Rs 2,318 Million
+Net Cash Flow from Operations
+=== page 5 ===
+Orchestrating Intelligent Enterprises4
+NewgenONE Platform: Six Pillars of Dependable AI
+NewgenONE : Enterprise orchestration layer designed to coordinate human expertise, enterprise systems, business 
+processes and AI agents within a single governed environment
+Orchestration
+Governed workflow execution ensuring 
+policy compliance, correct approvals 
+routing, and regulatory audit trailsContent Orb
+The enterprise knowledge hub grounding 
+AI in verified, real -time data across 
+policies, records, and regulations.Customer Communication Management
+Delivering personalized, multi -channel, 
+compliant enterprise communications.
+Data Science Studio
+Continuous improvement engine 
+with ML model integration, data 
+pipelines, and decisioning 
+intelligence.Intelligent Document Processing
+Intelligent Document Processing for 
+automated classification, extraction, and 
+downstream workflow acceleration.The platform unifies six critical components into a single governed ecosystem —creating a closed -loop orchestration fabric that d elivers traceable, 
+compliant, and accountable outcomes at scale.
+NewgenONE Orchestration Layer
+Agent Studio
+Build, orchestrate, and deploy 
+enterprise -grade AI agents with low -
+code tools and governed
+execution models.
+=== page 6 ===
+Orchestrating Intelligent Enterprises5
+Enterprise -wide unified Enterprise AI Agent Platform
+Enterprise Content Management (ECM) Business Process Management (BPM) Customer Communication Management (CCM)
+BRMS, Service Flow, Workflow Orchestration
+=== page 7 ===
+Orchestrating Intelligent Enterprises6
+The Newgen AI Advantage
+Newgen gives Enterprises in Banking, Insurance & Healthcare and Government verticals the platform to 
+continuously innovate —embedding AI, automating workflows, and processing intelligence —without disruptions
+Reduce cost and eliminate 
+redundancy across loan origination, 
+claims processing, document 
+handling, and customer 
+communication Efficiency at Scale
+Faster, frictionless journeys —from 
+instant loan decisions to 
+personalized communications to 
+real-time claims —that delight 
+customers and build loyaltyCustomer Experience That 
+Differentiates
+Audit -ready, regulation -aligned 
+processes at scale —
+with full traceability, explainability, 
+and governance
+built into every AI decision and 
+workflowCompliance Without 
+Compromise
+All from a single governed platform
+=== page 8 ===
+Orchestrating Intelligent Enterprises7
+Newgen AI in Banking: End-to-end Agentic Orchestration
+Process 
+ModelerForm 
+BuilderBREAgent 
+StudioReports/DashboardsDocument 
+ManagementDS 
+StudioNewgen LCAPCORPORATE TRANSACTIONAL BANKING
+HORIZONTAL AGENTS
+Communication Agent Document Forensics Agent Document Classification AgentRETAIL
+Loan Origination Solution
+Account Onboarding
+Collections Management• Customer Engagement Agent
+• Content Processing Agent
+• Documentation Agent
+• Verification Agent
+• Credit Decisioning Engine
+• Product Recommendation
+• Anomaly Detection
+• Strategy Simulator
+• Call Analytics/Conversational AI
+• Probability of PaymentTrade Finance –AURA AI
+• Intent Sensing Agent
+• Document Intelligent Agent
+• Compliance validation agent
+• Discrepancy detection agent
+• Probability of default
+• STP / NSTP classifier Agent
+• Pricing ModelSupply Chain Finance
+• Payment Fraud monitoring 
+AgentPaymentsLoan Origination Solution
+• Document AI Agent
+• Financial Spreading 
+• Fin Sight Agent
+• Behavioral Agent
+• 360-degree risk 
+advisor(Sector & Macro, 
+Contagion Risk, Negative 
+news analytics)
+• AI Based CAM
+Lead Management
+• Call to Text Agent
+• Lead Scoring Agent
+• RM Assist
+IDP
+=== page 9 ===
+Orchestrating Intelligent Enterprises8
+Process
+ModelerForm
+BuilderBREAgent
+StudioReports/DashboardsDocument
+ManagementDS
+StudioNewgen LCAPHORIZONTAL AGENTS
+Communication Agent Document Forensics Agent Document Classification AgentSales & 
+Distribution
+IDPUnderwritingClaims Servicing
+• Lead Scoring & Qualification 
+Agent
+• Product Recommendation 
+Agent
+• Agent/Broker Assist Copilot
+• Quote Generation Agent• Underwriting Twin Agent
+• Data Enrichment Agent
+• Risk Assessment Agent
+• Policy Issuance Decision 
+Agent• First Notice of Loss Agent
+• Claims Adjudication Agent
+• Document Verification 
+Agent
+• Fraud Detection Agent
+• Settlement 
+Recommendation Agent• Endorsement Processing 
+Agent
+• Renewal & Retention Agent
+• Lapse Prediction Agent
+• Customer 360 Insight AgentLife Motor Health GeneralNewgen AI in Insurance: Streamlining Insurance Operations and Journeys
+=== page 10 ===
+Orchestrating Intelligent Enterprises9
+Newgen AI in Government Product Portfolio
+01Records Management 
+System02 e-Gov 03IDP (Public health, 
+grants and Case 
+management)04 Tender Management
+• Intelligent Record Classification
+• Folder Recommendation
+• RAG based NLP search 
+• Automated Keyword and Metadata 
+Tagging   
+• Q&A and Summarization
+•  AI driven Email Filing
+• AI agents for departmental work like 
+contract drafting, policy drafting etc
+• AI Assisted filing across productivity 
+application
+• AI-powered PII detection with auto -
+redaction at ingestion• AI-Assisted Draft Generation
+• Natural Language Report Generation
+• Cross -Record Summarization & 
+Knowledge Extraction
+• AI-Powered History & Transaction 
+Insights
+• Draft Response Preparation from 
+Historical Records
+• Smart routing suggestions• Document Intake across citizen, 
+patient, applicant and admin records
+• AI Data Extraction for names, IDs, 
+dates and reference numbers
+• Auto -Classification using custom 
+document models
+• Smart Verification with suggested 
+corrections
+• Exception Handling for incomplete or 
+unclassified documents
+• Archival & Integration with 
+OmniDocs and core systems• Tender Planning with type 
+recommendation and cost estimates
+• Tender Drafting for technical and 
+commercial documents
+• Compliance & Approval validation
+• Bid Intake Processing and bid 
+opening statement generation
+• Bid Evaluation with compliance 
+checks and price analysis
+• RAG -based tender drafting from 
+policies and past awards
+• Automated vendor comparison and 
+clarification assistance
+• AI-generated evaluation summary 
+and award recommendations
+=== page 11 ===
+Orchestrating Intelligent Enterprises10
+Key Recognitions
+ Recognized as a “Leader” in The Forrester 
+Wave
+ Content Platforms, Q1 2025
+ Recognized as a “Strong Performer” in The Forrester 
+Wave
+ Digital Process Automation Software, Q3 
+2025 
+ Recognized as a “Contender” in The Forrester 
+Wave
+ Insurance Agency Management Systems, 
+Q4 2025
+ Recognized in Forrester’s The Document Mining 
+and Analytics Platforms Landscape, Q4 2025
+ Recognized in Forrester’s The Accounts Payable 
+Invoice Automation Software Landscape, Q4 2025
+ Recognized in Forrester’s Insurance Agency 
+Management Systems Landscape Q3 2025
+ Recognized inForrester’s The Digital Process Autom
+ation Landscape, Q2 2025 Recognized as a “Niche Player” in Gartner® Magic Quadrant for 
+Business Orchestration and Automation Technologies
+ Recognized in Gartner® Market Guide for Government Grant 
+Management Solutions
+ Recognized in Gartner® Market Guide for Commercial Loan 
+Origination Solutions.
+ Recognized in Gartner® Market Guide for Commercial Banking 
+Trade Finance
+ Recognized in Gartner® Market Guide for Commercial Banking 
+Cash Management
+ Recognized in Gartner® Market Guide for U.S.Healthcare Payers ‘ 
+Provider Network Management Applications
+ Recognized in Gartner® Market Guide for U.S. Healthcare    
+Provider Credentialing
+ Recognized in Gartner® Hype Cycle for U.S. Healthcare Payers
+ Recognized in Gartner® Hype Cycle for Bank Lending
+=== page 12 ===
+Orchestrating Intelligent Enterprises11
+Resilient Business Model in Place
+(1) Annuity comprises ATS/AMC, Cloud/ Subscription License and Support revenuesSale of Services Sale of Products62% 16%22%
+Annuity Revenues(1) Large annuity revenues streams
+Mission critical solutions across  key verticalsFY26 Revenue Split by Segment
+USA India31% 29% 23%
+EMEA17%
+APAC Diversification across geographies
+FY26 Revenue Split by GeographyInsurance & Healthcare Govt.68% 8% 16%
+Banking & FS9%
+Others
+FY26 Revenue Split by Segment
+=== page 13 ===
+Orchestrating Intelligent Enterprises12
+7,790
+9,740
+12,438
+14,869
+15,744
+F Y '2 2 F Y '2 3 F Y '2 4 F Y '2 5 F Y '2 6
+4,565
+5,945
+7,498
+8,337
+9,684
+FY'22 FY'23 FY'24 FY'25 FY'26Strong Acceleration in Revenues and Profits
+Revenues (INR Mn)Revenues (INR Mn)
+(INRm )Annuity Revenues (INR Mn)Annuity Revenues (INR Mn)
+(INRm )
+(1) Annuity Revenues comprise of ATS/AMC, Cloud/ Subscription fee for License and Support revenue stream s
+(2) Excludes Exceptional Items, Net of tax adjustment. Post considering the impact of Labour Codes and Provision for legal claim, the Profit after Tax is Rs 106 crfor Q4 FY’26 and Rs 301 crfor FY’26, Basic EPS is Rs 7.56 for Q4 FY26 and Rs 
+21.38 for FY’26. 21% CAGR 
+Growth19% CAGR 
+Growth
+1,642
+1,763
+2,516
+3,152
+3,343
+F Y '2 2 F Y '2 3 F Y '2 4 F Y '2 5 F Y '2 6Profit after Tax (INR Mn) (Excl. 
+Exceptional items)*Profit after Tax (INR Mn) (Excl. 
+Exceptional items)*
+(INRm )
+19% CAGR 
+Growth
+=== page 14 ===
+Orchestrating Intelligent Enterprises13
+Board of Directors
+Saurabh Srivastava
+Independent 
+DirectorSubramaniam 
+Ramnath Iyer
+Independent Director
+Padmaja Krishnan
+Independent
+Director
+Diwakar Nigam
+Chairman and 
+Managing Director
+T.S. Varadarajan
+Vice Chairman and Whole 
+Time Director
+Priyadarshini Nigam
+Whole 
+Time Director
+Sudhir Sethi
+Independent Director
+Shubhi Nigam
+Non-Executive Director
+
+=== page 15 ===
+Orchestrating Intelligent Enterprises14
+Leadership Team
+Diwakar Nigam
+Chairman and Managing Director
+Tarun Nandwani
+Chief Operating Officer
+Anand Raman
+EVP & COO -Newgen Software Inc. 
+Rajvinder Singh Kohli
+Sr. VP –Global GSI Sales
+Virender Jeet
+Chief Executive Officer
+Dr. S.J. Raj
+EVP –Global Business Strategy and HR
+Arun Kumar Gupta
+Chief Financial Officer
+Sunil Pandita
+Sr. VP –Sales (India & South Asia)
+Vivek Bhatnagar
+Sr. VP –Sales (MEA)
+
+=== page 16 ===
+Orchestrating Intelligent Enterprises15
+Leadership Team
+R. Krishna Kumar
+VP –Sales 
+(Australia)
+Pramod Kumar
+VP –Sales (APAC)
+Anurag Kumar Shah
+VP –Product & 
+Solutions 
+(Americas)Arpan Bansal
+VP –Marketing 
+(Govt. & GSI 
+Initiatives)
+Nikhil Sawhney
+VP –Customer 
+Relations 
+(EMEA, APAC)
+Prashant Sahai
+VP –Sales  
+(Middle East)
+Atin Kumar
+VP-Global 
+Delivery
+Sandeep Hinduja 
+VP –Sales 
+(Americas)
+Nitin Gupta
+VP –Customer 
+Success (Americas)
+Ritesh Varma
+VP –Product & 
+Solutions (India, 
+EMEA, APAC) 
+Shikha Bhatt
+VP –Delivery 
+(India)
+Sanjay Pandey
+VP –Product 
+EngineeringVarun Goswami
+VP –Product 
+Management
+Runki Goswami
+VP –Marketing
+Purushotam Savlani
+VP -Sales  (KSA)
+Rajnish Kumar
+VP –HR (Talent 
+Management & DEI)
+Deepika Kapoor
+VP –ProductDinesh Kumar 
+Parikh
+VP –ProductKaushal Verma
+VP –New 
+Solutions Group 
+(Banking)Anagat Pareek
+VP –Cloud and 
+Cyber SecuritySaras Agarwal
+VP –Healthcare 
+COE and Strategic 
+Accounts (US)Jagadish Yarlagadda 
+VP –Sales 
+(Americas)
+Kashish Daya Kapoor
+CHRO
+
+=== page 17 ===
+Orchestrating Intelligent Enterprises16
+Leadership for What’s Ahead
+Tarun Nandwani appointed as CEO and Pramod Kumar appointed at CGO effective August 1, 2026, reflecti ng Newgen's commitment to scaling 
+its next phase of growth
+•Played a pivotal role in shaping Newgen's business strategy, 
+customer -centric culture, operational excellence, and 
+growth agenda.
+•Under his leadership, Newgen strengthened its global 
+footprint, expanded strategic product portfolios, deepened 
+customer relationships, and enhanced execution capabilities 
+across the organization. 
+•Instrumental in establishing and scaling several strategic 
+business lines, including Trade Finance, Lending, Liability 
+Products, Payments, Insurance Policy Administration, and 
+Loan Management Solutions. 
+•Holds a bachelor's degree in engineering from the University 
+of Delhi. Pramod Kumar | Chief Growth Officer 
+•Brings a unique combination of technology, product, 
+strategy, marketing, and business leadership experience 
+•Held leadership positions across Product Management, R&D, 
+Strategy, Marketing, Business Development, and Regional 
+Operations at Newgen over last 27 years
+•Led the growth of Newgen's APAC business, helping increase 
+regional revenues by ~ 27% CAGR over 5 years. Instrumental 
+in acquisition of 75 logos in APAC establishing and scaling 
+Newgen's government business in the region
+•Championed growth through strategic partnerships, market 
+expansion initiatives, advisory networks, and ecosystem 
+development
+•Holds a bachelor’s degree in engineering from the National 
+Institute of Technology, Allahabad, and MBA from the 
+International Management Institute, New Delhi. Tarun Nandwani | Chief Executive Officer
+=== page 18 ===
+Orchestrating Intelligent Enterprises17
+Q1 FY’27 Results
+=== page 19 ===
+Orchestrating Intelligent Enterprises18
+Financial Summary (Consolidated)
+YoY 
+GrowthFY'25 FY’26 YoY 
+GrowthQ1FY26 Q1FY27 Particulars 
+5.9% 14,869 15,744 11.2% 3,207 3,567 Revenue from operationsRevenue 
+(INR Mn) 5.4% 636 670 23.4% 294 363 Other Income
+5.9% 15,505 16,414 12.3% 3,500 3,930 Total Income
+7.9% 3,762 4,058 24.2% 450 559 EBITDAProfits 
+(INR Mn) 6.0% 3,152 3,343 26.3% 497 628 Profit after tax (excl. 
+Exceptional items)*
+25.3% 25.8% 14.0% 15.7% EBITDAMargin (%) 21.2% 21.2% 15.5% 17.6%Profit after tax (excl. 
+Exceptional items)* (on 
+revenue)
+5.5% 22.53 23.77 25.3% 3.55 4.44 Basic*EPS 
+(INR) 7.9% 21.89 23.62 28.0% 3.45 4.41 Diluted **
+Q1FY’27v/sQ1FY’26
+•Revenue growth of11%Q1YoY with strong growth across major geographies
+•EBIDTA witnessed agrowth of24%,with margins expanding from 14%to15.7%
+•Profit after Taxwitnessed agrowth of26%Q1YoY with margins expanding from 15.5%to17.6%
+** Excluding Exceptional items, net of tax adjustment
+=== page 20 ===
+Orchestrating Intelligent Enterprises19
+Revenues Across Verticals and Geographies
+Q1 FY’27 Revenue Split by VerticalQ1 FY’27 Revenue Split by Vertical Q1 FY’27 Revenue Split by GeographyQ1 FY’27 Revenue Split by Geography Q1 FY’27 Revenue Split by SegmentQ1 FY’27 Revenue Split by Segment
+Banking
+63%Govt.
+6%Insurance & 
+Healthcare
+22%Others
+9%
+ India
+27%
+EMEA
+32%USA
+25%APAC (Ex -
+India) …
+Sale of 
+Products
+16%
+SaaS
+17%
+ATS/AMC
+24%Support
+30%Implementati
+on & other 
+services
+13%
+=== page 21 ===
+Orchestrating Intelligent Enterprises20
+Key Business Highlights
+Delivered broad -based geographic growth ,ledbythe Americas, where revenues
+grew 27%YoY, followed byAPAC at12%YoY and EMEA at10%YoY, reflecting healthy
+demand across key international markets .
+Added 10new enterprise customers during the quarter ,further strengthening
+theCompany's global customer base across priority industries .
+Recognized inThe Forrester WaveTM:Accounts Payable Invoice Automation
+Software, Q22026 *
+Recognized inForrester’s ‘The Adaptive Process Orchestration Software
+Landscape, Q22026 ’*
+Recognized inForrester’s ‘The AppGen and Low -Code Platforms Landscape, Q2
+2026 ’*
+*Press Releases | Newgen Software
+=== page 22 ===
+Orchestrating Intelligent Enterprises21
+Key Wins
+Secured several strategic customer wins across banking, insurance, and enterprise content 
+management, including: 
+ACore Insurance Platform (Policy Administration System) transformation project fora
+customer inKuwait ,valued atKWD 875,000 (approximately ₹26.7crore) .
+ARetail Loan Origination Solution deployment foranorganization inthe Philippines ,
+valued atUSD 1.71million (approximately ₹16.2crore) .
+Anorder from Annapurna Finance Private Limited inIndia fortheimplementation and
+maintenance ofAI-enabled Loan Origination and Collections System ,valued at₹15.6
+crore .
+Anengagement with aleading UKenterprise toimplement Newgen's Enterprise
+Content Management platform ,including cloud software licences, implementation, and
+migration services, valued atGBP 1.13million (approximately ₹14.5crore) .
+=== page 23 ===
+Orchestrating Intelligent Enterprises22
+Debtors Days
+Debtor Days (Based on Net Debtors)
+Note: The business is seasonal in nature with proportionately higher revenues and debtor days in the  year end period (March)112117 118138
+123 124 125164
+145
+020406080100120140160180
+Q1 FY'25 Q2 FY'25 Q3 FY'25 Q4 FY'25 Q1 FY'26 Q2 FY'26 Q3 FY'26 Q4 FY'26 Q1 FY'27
+=== page 24 ===
+Orchestrating Intelligent Enterprises23
+Disclaimer
+This presentation may contain certain forward -looking 
+statements concerning Newgen Software Technologies’ 
+future business prospects and business profitability, which 
+are subject to several risks and uncertainties and the actual 
+results could materially differ from those in such 
+forward -looking statements. 
+The risks and uncertainties relating to these statements 
+include, but are not limited to, risks and uncertainties 
+regarding fluctuations in earnings, our ability to manage 
+growth and new business opportunities, competition (both 
+domestic and international), economic growth in India and 
+the target countries for business, ability to attract and retain 
+highly skilled professionals, time and cost over runs on 
+projects, our ability to manage our international operations, 
+government policies, interest and other fiscal costs generally 
+prevailing in the economy and general economic conditions 
+affecting the industry. Past performance may not be
+indicative of future performance. 
+The company does not undertake to make any 
+announcement in case any of these forward -looking 
+statements become materially incorrect in future or update 
+any forward -looking statements made from time to time by
+or on behalf of the company. For any investor queries, please contact:
+Deepti Mehra Chugh
+Head –Investor Relations
+Phone: +91 11 46 533 200
+Mail : deepti.chugh@newgensoft.com     www.newgensoft.comFor any investor queries, please contact:
+Deepti Mehra Chugh
+Head –Investor Relations
+Phone: +91 11 46 533 200
+Mail : deepti.chugh@newgensoft.com     www.newgensoft.comIndia Offices include Mumbai, Chennai, Bengaluru, Kolkata, Hyderabad, Noida, New Delhi!
+Mississauga, ON
+Tampa, FL
+McLean, VALondon, UK
+Dubai, AENew Delhi, IN
+Mumbai, IN
+Bengaluru, INChennai, IN
+Singapore, SGSydney, AU
+Global Offices
+San Francisco, CANew York, NYRiyadh, KSA
+Saudi Arabia
+=== page 25 ===
+Orchestrating Intelligent Enterprises24
+P&L Statement
+FY 2025 FY 2026 Q1 FY 2026 Q4 FY 2026 Q1 FY 2027(All amounts in INR Mn, except per share data 
+and unless otherwise stated) 
+Revenue 
+14,868.8 15,744.0 3,206.6 4,526.7 3,566.8 Revenue from operations 
+635.8 670.1 293.9 43.5 362.7 Other income 
+15,504.6 16,414.0 3,500.4 4,570.2 3,929.6 Total revenue 
+Expenses 
+7,410.4 7,422.7 1,815.1 1,828.0 1,901.0 Employee benefits 
+47.7 54.7 12.2 9.9 8.6 Finance costs 
+330.4 365.9 90.6 93.7 92.1 Depreciation and amortization 
+3,696.3 4,263.5 941.5 1,177.4 1,106.8 Other expenses 
+11,484.9 12,106.8 2,859.4 3,109.0 3,108.4 Total expenses 
+4,019.7 4,307.2 641.1 1,461.2 821.2 Profit before tax 
+- 434.3 83.3 Exceptional Items
+Tax expenses 
+987.2 1,085.0 151.9 392.8 185.7 Current tax / Tax expense for earlier years
+-119.9 -217.9 -8.1 -77.9 7.2 Deferred tax (credit)/charge
+3,152.4 3,005.8 497.2 1,063.0 628.2 Profit after tax for the year 
+35.4 274.5 30.2 123.9 12.1 Other comprehensive income/(loss) for the year, net of income 
+tax
+3,187.9 3,280.3 527.4 1,186.8 640.3 Total comprehensive income for the year
+Earnings per equity share (face value of Rs. 10 per share) 
+22.53 21.38 3.55 7.56 4.44 Basic earning per share 
+21.89 21.24 3.45 7.51 4.41 Diluted earning per share 
+=== page 26 ===
+Orchestrating Intelligent Enterprises
+info@newgensoft.com www.newgensoft.com

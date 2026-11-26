@@ -1,0 +1,355 @@
+
+=== page 1 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.17th July 2026
+Scrip: BSE 544028, NSE: TATATECHQ1’ FY27Investor Presentation
+#EngineeringASoftwareDefinedFuture
+=== page 2 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Disclaimer 
+2This release may include opinions and assumptions about future performance which could be 
+considered forward -looking statements. Forward -looking statements intrinsically cover several risks and 
+uncertainties, which may lead to a  material difference between actual results and the statements 
+themselves. Such statements comprise the company’s current visibility on market movements, client 
+discussions, and related factors. Tata Technologies Limited does not assume an obligation to update or 
+revise any forward -looking statements.
+Certain analysis undertaken and represented in this document may constitute an estimate from the 
+Company and may differ from the actual underlying results.
+Other Details
+• Reported EBITDA is defined to exclude other income. 
+• Reported EBIT is defined as reported EBITDA plus share of profit from the equity accounted investee,  
+  plus deferred income, less depreciation & amortization
+=== page 3 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Q1 FY27 Financial highlights
+•Total Operating Revenue at ₹16,646 million, up 5.9% 
+QoQ; up 33.8% YoY ; up 26.9% YoY organically•Operating EBITDA at ₹2,674 million; up 6.1% QoQ; up 
+33.6% YoY. EBITDA Margin at 16.1%, up 10 bps QoQ
+3Revenue Profitability
+•Services Segment Revenue at ₹12,969 million, up 6.3% 
+QoQ; up 34.6% YoY ; up 25.7% YoY organically
+•In USD, Total Operating Revenue came in at $175.4 
+million, up 4.3% QoQ in cc; up 19.1% YoY organic cc
+•In USD, Services Segment Revenues came in at $136.6 
+million, up 4.3% QoQ in cc; up 16.6% organic cc•EBIT stood at ₹2,386 million for the quarter; up 8.3% 
+QoQ*; up 31.1% YoY. EBIT Margin at 14.3%
+•Net Income at ₹1,808 million; up 11.3% QoQ*; up 6.1% 
+YoY
+•Net Income Margin at 10.9%
+*QoQ EBIT and Net Income growth is after excluding one -time exceptional reversal due to new labor code in Q4'26
+
+=== page 4 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+I am encouraged by the continued momentum in our business, with the strong 
+execution in the second half of FY26 carrying into Q1 and delivering a solid 34% YoY 
+increase in revenues. The demand environment remains constructive, reflected in 
+healthy activity across our strategic growth areas, a robust pipeline of large 
+opportunities, improving deal conversion, and greater visibility across key customer 
+programs. Combined with our ongoing investments in AI, disciplined focus on 
+operational efficiency, and continued portfolio diversification, we believe we are well 
+positioned to deliver strong double -digit organic revenue growth in FY27.Message from the CEO & MD and the CFO
+4
+We remain encouraged by a constructive demand environment that continues to 
+support strategic investments in engineering, digital transformation, and next -
+generation mobility. While we remain mindful of the evolving macroeconomic 
+backdrop, our focus remains firmly on disciplined execution, operational excellence, 
+and prudent capital allocation. These priorities, together with our diversified business 
+mix and resilient margins, position us well to capture emerging opportunities while 
+continuing to invest in capabilities that strengthen our long -term competitiveness. 
+Warren Harris 
+CEO and MD
+Uttam Gujrati
+CFO
+
+=== page 5 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Strategic wins and new developments
+5Tata  Technologies  has been  entrusted  with a multi -year  engagement  by a leading  European  luxury  automotive  OEM,  taking  
+ownership  across  engineering,  manufacturing,  supply  chain,  purchasing,  and IDT domains . 
+Tata  Technologies  won strategic  PLM and Engineering  Data  Platform  transformation  engagement  with a leading  European  automotive  
+OEM,  focused  on modernizing  enterprise  engineering  systems  and enhancing  digital  product  lifecycle  capabilities .Tata  Technologies  has been  selected  by a North  American  Industrial  equipment  manufacturer  to accelerate  its digital  engineering  
+transformation  and advance  next -generation  software -defined  platform  initiatives,  underscoring  the growing  demand  for our 
+integrated  engineering  and digital  capabilities .Tata  Technologies  secured  a $100 million  strategic  partnership  with Tenneco,  covering  engineering,  digital,  and business  process  
+transformation,  leveraging  AI and automation  to drive  greater  efficiency,  scalability,  and business  outcomes  across  the delivery  
+model .
+A leading  Japanese  automotive  OEM  has selected  Tata  Technologies  for a full vehicle  engineering  program,  reinforcing  our end-to-
+end vehicle  engineering  credentials,  marking  a scaled  entry  into the Japanese  market  while  strengthening  our Asia footprint .
+A leading  European  automotive  OEM  has partnered  with Tata  Technologies  for a significant  engineering  engagement  spanning  
+critical  vehicle  engineering  and propulsion  programs  across  body  electronics,  steering  systems,  and propulsion  & energy  engineering  
+- supporting  the development  of next -generation  vehicle  platforms  and advancing  the customer’s  electrification  roadmap .
+
+=== page 6 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Financial & 
+operational data
+
+=== page 7 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Income statement -consolidated
+IND AS INR Mn Q1 FY26 Q4 FY26 Q1 FY27 QoQ YoY
+Revenue from operations 12,443 15,722 16,646 5.9% 33.8%
+Services Segment 9,637 12,196 12,969 6.3% 34.6%
+Technology Solutions segment 2,806 3,526 3,677 4.3% 31.0%
+Gross Profit 3,191 4,277 4,600 7.5% 44.2%
+Services Segment 2,666 3,572 3,958 10.8% 48.5%
+Technology Solutions segment 525 705 642 -8.9% 22.3%
+Operating EBITDA 2,001 2,521 2,674 6.1% 33.6%
+EBIT* 1,819 2,204 2,386 8.3% 31.1%
+PBT** 2,326 2,272 2,517 10.8% 8.2%
+Net Income ** 1,703 1,625 1,808 11.3% 6.1%
+EPS (diluted)** 4.19 4.00 4.45 11.2% 6.1%
+7Margins (%)
+Gross Margin 25.6% 27.2% 27.6%
+Service Segment 27.7% 29.3% 30.5%
+Technology Solutions segment 18.7% 20.0% 17.5%
+Operating EBITDA Margin 16.1% 16.0% 16.1%
+EBIT Margin 14.6% 14.0% 14.3%
+Net Income Margin 13.7% 10.3% 10.9%
+*EBIT includes “share of profit from equity accounted investees” and “other deferral income” **Q4’26 margins exclude one -time exceptional reversal due to new labor codeUSD Mn Q1 FY26 Q4 FY26 Q1 FY27 QoQ YoYIn Constant Currency
+QoQ YoY 
+Revenue from operations 145.3 170.8 175.4 2.7% 20.7% 4.3% 25.2%
+Service Segment 112.5 132.6 136.6 3.0% 21.4% 4.3% 24.4%IND AS
+=== page 8 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.Q1FY27 Key metrics
+8Employee  metrics
+Q1 FY26 Q4 FY26 Q1 FY27
+DSO : Billed + Unbilled (days) 87 95 97
+Cash and Cash Equivalent ($ Mn) (1)158.7(3) 195.5 118.7
+FCF (INR Mn)(2)1,890 2,349 2,479Liquidity  metrics
+1) As on last day of the respective reporting period. Excludes restricted cash, if any
+2) FCF computed as Adj. EBITDA ( -) Net Capital Expenditure
+3) This is after ~$55 million in dividends paid out in Q1 FY26Q1 FY26 Q4 FY26 Q1 FY27
+Headcount 12,407 12,646 12,579
+Voluntary attrition, LTM 13.8% 16.2% 16.0%
+Headcount includes FTEs and contractorsServices: Customer pyramid (LTM)
+Q1 FY26 Q4 FY26 Q1 FY27
+> 50 Mn 2 3 3
+10-50 Mn 3 5 5
+5-10 Mn 8 6 7
+1-5 Mn 32 33 34
+=== page 9 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
++20.7% YoY; +2.7% QoQ9,637 12,196 12,969 
+Q1 FY26 Q4 FY26 Q1 FY27INR MillionRevenue from Services Segment
+112.5 132.6 136.6 
+Q1 FY26 Q4 FY26 Q1 FY27USD MillionRevenue from Services Segment12,443 15,722 16,646 
+Q1 FY26 Q4 FY26 Q1 FY27INR MillionRevenue from Operations
++33.8% YoY; +5.9% QoQQ1 FY27 Financial highlights
+9+34.6% YoY; +6.3% QoQ
++21.4% YoY; +3.0% QoQ
+145.3 170.8 175.4 
+Q1 FY26 Q4 FY26 Q1 FY27USD MillionRevenue from Operations
+=== page 10 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Q1 FY27 Financial highlights
+1027.7%29.3%30.5%
+Q1 FY26 Q4 FY26 Q1 FY27Gross Margin: Services Segment
+16.1% 16.0% 16.1%
+Q1 FY26 Q4 FY26 Q1 FY27Operating EBITDA Margin25.6%27.2% 27.6%
+Q1 FY26 Q4 FY26 Q1 FY27Gross Margin %
+14.6%14.0% 14.3%
+Q1 FY26 Q4 FY26 Q1 FY27EBIT Margin
+=== page 11 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Q1 FY27 Financial highlights
+Offshore revenue represents Services revenue delivered from India & Romania and sourced outside India & Romania77% 78% 78%23% 22% 22%
+Q1 FY26 Q4 FY26 Q1 FY27% of Operating Revenue
+Services Segment Technology Solutions Segment83% 81% 81%17% 19% 19%
+Q1 FY26 Q4 FY26 Q1 FY27% of Services Segment Revenue
+        Auto       Non-Auto
+1140% 33% 34%60% 67% 66%
+Q1 FY26 Q4 FY26 Q1 FY27Revenue Mix
+Offshore  % Onshore %
+=== page 12 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.From Engineering 
+to
+Enterprise
+Intelligence embedded 
+across products, plants, 
+and platforms
+=== page 13 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Award Recognition –JLR Global Supplier Excellence Award
+This award celebrates the dedication of our teams 
+and the power of trusted collaboration. As strategic 
+partners, we remain committed to supporting JLR’s 
+transformation journey through innovation, 
+accountability, and value -driven execution, while 
+continuing to shape the future of mobility together.We are proud to receive the 2026 JLR Global 
+Supplier Excellence Award – The Visionary, a 
+recognition that reflects the strength of our 
+partnership with JLR and our shared commitment to 
+innovation, engineering excellence, and delivering 
+meaningful business outcomes.
+13
+
+=== page 14 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Award Recognition –Frost & Sullivan Honors Tata Technologies
+The recognition reflects Tata Technologies’ full -vehicle, 
+lifecycle -driven engineering approach, spanning 
+concept development, system architecture, validation, 
+industrialization, and post -launch support. By 
+combining deep expertise across mechanical, 
+electrical, electronic, and software engineering, Tata 
+Technologies is helping OEMs accelerate the transition 
+to software -defined and autonomous mobility while 
+driving innovation at scale.Tata Technologies has been recognized by Frost & 
+Sullivan as the 2026 Asia -Pacific Company of the Year 
+in End -to-End Solutions for Autonomous Vehicles, 
+highlighting its leadership in delivering integrated, 
+scalable, and production -ready autonomous and 
+ADAS engineering solutions.
+14
+
+=== page 15 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Tenneco and Tata Technologies Expand $100 Million Strategic Partnership
+Tata Technologies and Tenneco marked a key 
+milestone in their global partnership with the signing 
+of a strategic agreement at Bombay House, Mumbai. 
+The expanded engagement reflects both companies’ 
+commitment to innovation, engineering excellence, 
+and long -term growth.
+Building on a partnership that began in 2021, Tata 
+Technologies will support Tenneco through its Global 
+Engineering Center  in Pune, leveraging engineering, 
+digital, and AI -led capabilities to drive innovation and 
+value across its global operations. The engagement is 
+backed by an investment of over $100 million over the 
+next five years.
+15
+=== page 16 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+SAP PartnerEdge –Strengthening Enterprise & AI -Led Transformation
+This milestone enhances Tata Technologies’ ability to 
+help enterprises modernize with SAP ERP Cloud, SAP 
+Business AI, and data -driven decision -making. 
+Combining manufacturing expertise with intelligent 
+automation, Tata Technologies is enabling organizations 
+to accelerate innovation, improve productivity, and 
+build future -ready businesses.Tata Technologies has secured SAP PartnerEdge  Sell 
+authorization across India and the United States, 
+strengthening its role in the SAP ecosystem and 
+enabling end -to-end enterprise transformation from 
+advisory and legacy ERP modernization to 
+implementation and value realization.
+16
+
+=== page 17 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Uphoria 2026 –Celebrating Excellence, Energy & Limitless Possibilities
+Tata Technologies came together at Uphoria  2026 to 
+celebrate the achievements, passion, and spirit of our 
+people. From recognizing excellence through the Apex 
+League CEO Awards to meaningful CSR initiatives, 
+inspiring performances, and an unforgettable evening 
+featuring Papon and a high -energy DJ night, the event 
+reflected the culture, collaboration, and limitless 
+potential that drive us forward as one team.
+17
+
+=== page 18 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Leadership Perspectives on Evolving Industry Trends
+18
+India is emerging as 
+the next big story 
+for global 
+automakers after 
+China: 
+Tata 
+Technologies’ 
+Nachiket 
+Paranjpe
+Tata Technologies' President, Global 
+Industries & ESS Delivery explains why 
+shifting geopolitical dynamics and SDVs 
+are making India central to the future of 
+the global automotive industry.After nearly 18 months of paused 
+investments amid US tariff uncertainty 
+and EV incentive rollbacks, customers 
+across automotive and industrial heavy 
+machinery are starting to commit to new 
+product cycles, said Warren Harris, MD & 
+CEO, Tata Technologies
+Customers have 
+started 
+committing to 
+new product 
+cycles: Tata 
+Technologies 
+MD & CEO
+We are proud of the scale at which we 
+are reskilling our workforce. By equipping 
+over 70% of our employees with future -
+ready capabilities, we ensure that the 
+input from our reskilling initiatives quickly 
+translates into output in the form of 
+faster execution, higher quality, and 
+greater innovation.A strong cybersecurity culture begins 
+with people. When employees stay 
+vigilant, think before they click, and take 
+ownership of security, cyber awareness 
+becomes part of everyday work.AI could 
+reshape jobs 
+globally despite 
+hiring optimism: 
+HR leaders: 
+Geena Binoy, 
+CHRO, Tata 
+TechnologiesOne call 
+answered… 
+and the bank 
+account was 
+emptied: 
+Abhishek Jha, 
+CISO, Tata 
+Technologies
+
+=== page 19 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.About Tata Technologies 
+Tata Technologies (BSE: 544028, NSE: TATATECH) is a global product engineering and digital services company helping 
+manufacturers design , develop , and deliver better products . The company partners with global OEMs and enterprises 
+across automotive, aerospace, industrial heavy machinery,  and other manufacturing sectors .
+Driven by its vision of #EngineeringABetterWorld,  Tata Technologies enables enterprises to innovate faster and deliver 
+differentiated customer experiences through engineering excellence and digital transformation .
+With deep domain expertise in Embedded Systems and Software Solutions, Engineering Research & Development (ER&D) 
+Services, and Digital Enterprise Solutions,  Tata Technologies helps enterprises accelerate time -to-market, optimize 
+product development costs, improve operational efficiency , and build smarter, safer, and more sustainable products .
+For more, visit us at https ://www.tatatechnologies.com/ or learn more here . Follow us on Instagram , LinkedIn , Twitter , 
+Facebook , and YouTube  for the latest updates.
+19
+=== page 20 ===
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.
+Contact Us
+20ir@tatatechnologies.com
++91 20 66529090Vijay LohiaFor investor queries
+Nikita.Crasta@adfactorspr.com
++91 22 67574600Nikita CrastaFor media queries
+Nikunj Ambegaonker
+nikunj.ambegaonker@tatatechnologies.com
+
+=== page 21 ===
+ASIA PACIFIC 
+25Rajiv Gandhi Infotech Park
+Hinjawadi, Pune
+India
+411057
+Tel:+91 206652 9090
+EUROPE 
+The European Innovation
+and Development Centre (EIDC)
+Olympus Avenue
+Tachbrook Park
+Warwick, UK
+CV34 6RJ
+Tel:+44 (0)8443 759 685
+NORTH AMERICA
+6001 Cass Avenue
+Suite 600
+Detroit MI
+USA 48202
+Tel:+1248 426 1482/TataTechnologies 
+@tatatechnologies
+/TataTech_News
+/TataTechnologies
+/TataTechnologies
+tatatechnologies.com
+© Copyright 2026 Tata Technologies. All rights reserved. All other trademarks are trademarks of their respective owners.

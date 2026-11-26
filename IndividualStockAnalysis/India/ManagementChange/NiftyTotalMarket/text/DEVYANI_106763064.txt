@@ -1,0 +1,120 @@
+--- CIM_19461_WebXMLFile_20260831_192948875_2.xml (the exchange's structured disclosure) ---
+NSESymbol: DEVYANI ; Name Of The Company: Devyani International Limited ; Scrip Code: 543330 ; MSEISymbol: NOTLISTED ; ISIN: INE872J01023 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-31 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-31 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: CEO Sanook Kitchen ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Rohan Kichlu ; Effective Date Of Reason Of Change: 2026-08-31 ; Salutation: Mr. ; Name Of The Person: Rohan Kichlu ; Designation Of Person: CEO Sanook Kitchen ; Date On Which The Resignation Letter Was Received: 2026-08-27 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: Due to personal reasons and pursue other career opportunities outside the organisation.
+
+--- CIMG_543330_31082026192944_1.pdf ---
+August 31, 2026
+To,
+National Stock Exchange of India Ltd.
+Exchange Plaza, Block G, C/1, Bandra Kurla
+Complex, Bandra (E), Mumbai – 400 051
+Email: cmlist@nse.co.in
+Symbol: DEVYANI
+
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai – 400 001
+Email: corp.relations@bseindia.com
+Security Code: 543330
+
+Subject: Disclosure under Regulation 30 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 - Change in Senior Management
+Personnel
+Dear Sir/ Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (‘SEBI Listing Regulations’), we wish to inform that Mr. Rohan Kichlu, CEO
+– Sanook Kitchen (designated as Senior Management Personnel) has tendered his
+resignation from the services of the Company effective from close of business hours of August
+31, 2026. Copy of the resignation letter is attached as Annexure I.
+The detailed disclosure as required under Regulation 30 of the SEBI Listing Regulations read
+with SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated
+January 30, 2026, is attached as Annexure II.
+You are requested to kindly take the same on record.
+Yours faithfully,
+For Devyani International Limited
+
+Pankaj
+Virmani
+
+Digitally signed by Pankaj Virmani
+DN: c=IN, o=Personal, title=2659,
+pseudonym=41ee088140664bf4937c17ce41b71
+4d5,
+2.5.4.20=370761598635a32ec12880bd20f9d6bf1
+e0cea828f618cb9ab4297719f2e4aad,
+postalCode=121001, st=Haryana,
+serialNumber=662a532e90644d78d21acc7a66f8f
+a746a569f819b8498cde6d1a476746030b2,
+cn=Pankaj Virmani
+Date: 2026.08.31 19:06:59 +05'30'
+
+Pankaj Virmani
+Chief Sustainability Officer & Company Secretary
+Encl.: As above
+
+
+Annexure I
+
+August 27, 2 0 2 6
+
+To,
+
+Mr. Manish Dawar,
+Whole-time Director (President & Group CEO)
+Devyani International Limited
+
+Subject: Resignation from the position of CEO- Sanook Kitchen
+
+Dear Sir,
+
+I hereby tender my resignation from the position of C E O - Sanook Kitchen, due to personal reasons
+and pursue other career opportunities outside the organisation. I would request you to relieve me
+of my duties with effect from the close of business hours on August 3 1 , 2 0 2 6 .
+
+I wish to thank all my colleagues for their support during my tenure and wish the Company
+success in all its endeavours.
+
+Thanks & regards,
+
+Z
+4
+
+Rohan Kichlu
+CEO- Sanook Kitchen
+
+
+Annexure II
+
+Disclosures under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015
+S. No.
+Particulars
+Reason
+for
+change
+viz.
+1.
+resignation, appointment, reappointment, removal, death or
+otherwise
+2.
+Date of cessation/ appointment/
+re-appointment (as applicable) &
+term of appointment/ reappointment
+Brief profile (in case of
+3.
+appointment)
+Disclosure
+of
+relationships
+4.
+between directors (in case of
+appointment of a director)
+
+Details
+Resignation of Mr. Rohan Kichlu as CEO – Sanook Kitchen, Senior
+Management Personnel of the Company
+With effect from close of business hours on August 31, 2026.
+
+Not Applicable
+Not Applicable
+
+

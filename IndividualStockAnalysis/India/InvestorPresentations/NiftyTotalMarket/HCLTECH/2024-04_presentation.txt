@@ -1,0 +1,872 @@
+
+=== page 1 ===
+Q4 & Annual FY 2024
+Investor Release
+April 26, 2024
+Noida, India 
+
+=== page 2 ===
+Safe Harbor Statement 
+Certain  statements  in this release  are forward -looking  statements,  which  involve  a number  of risks,  uncertainties,  assumptions  and other  factors  that  could  
+cause  actual  results  to differ  materially  from  those  in such  forward -looking  statements . All statements,  other  than  statements  of historical  fact  are statements  
+that  could  be deemed  forward  looking  statements,  including  but not limited  to the statements  containing  the words  'planned',  'expects',  'believes',  'strategy',  
+'opportunity',  'anticipates',  'hopes'  or other  similar  words . The risks  and uncertainties  relating  to these  statements  include,  but are not limited  to, risks  and 
+uncertainties  regarding  impact  of pending  regulatory  proceedings,  fluctuations  in earnings,  our ability  to manage  growth,  intense  competition  in IT services,  
+Business  Process  Outsourcing  and consulting  services  including  those  factors  which  may  affect  our cost  advantage,  wage  increases  in India,  customer  
+acceptances  of our services,  products  and fee structures,  our ability  to attract  and retain  highly  skilled  professionals,  our ability  to integrate  acquired  assets  in 
+a cost  effective  and timely  manner,  time  and cost  overruns  on fixed -price,  fixed -time  frame  contracts,  client  concentration,  restrictions  on immigration,  our 
+ability  to manage  our international  operations,  reduced  demand  for technology  in our key focus  areas,  disruptions  in telecommunication  networks,  our ability  
+to successfully  complete  and integrate  potential  acquisitions,  the success  of our brand  development  efforts,  liability  for damages  on our service  contracts,  the 
+success  of the companies  / entities  in which  we have  made  strategic  investments,  withdrawal  of governmental  fiscal  incentives,  political  instability,  legal  
+restrictions  on raising  capital  or acquiring  companies  outside  India,  and unauthorized  use of our intellectual  property,  other  risks,  uncertainties  and general  
+economic  conditions  affecting  our industry . There  can be no assurance  that  the forward -looking  statements  made  herein  will prove  to be accurate,  and 
+issuance  of such  forward  looking  statements  should  not be regarded  as a representation  by the Company  or any other  person  that  the objective  and plans  of 
+the Company  will be achieved . All forward -looking  statements  made  herein  are based  on information  presently  available  to the management  of the Company  
+and the Company  does  not undertake  to update  any forward -looking  statement  that  may  be made  from  time  to time  by or on behalf  of the Company .
+=== page 3 ===
+FY 2024 Highlights
+1Revenue
+•INR Revenue of ₹ 109,913 Crore , up 8.3%
+•Constant Currency (CC) Revenue up 5.0%
+•USD Revenue of US$ 13,270 Mn,  up 5.4%
+•HCLTech Services CC Revenue up 5.4% led by growth in 
+Financial Services (up 12.1% )
+•Digital CC Revenue up 5.3% ; contributes 37.3% of Services
+•HCLSoftware CC Revenue up  2.3%
+•HCLSoftware ARR at US$ 1.02 Bn , up 0.7% CC
+2Profitability & Return Metrics
+•EBIT at ₹ 20,027 Crore  (18.2%  of revenue), up 8.4%
+•Net Income at ₹ 15,702 Crore  (14.3%  of revenue), up 5.7%
+•EPS (Diluted) at ₹ 57.86 , up 5.6%
+•ROIC – Company at 33.8%,  up 341 bps ; Services at 41.6%, up 430 bps  
+•OCF at US$ 2,711 Mn (up 21.6% ) and FCF at US$ 2,584 Mn (up 27.7% )
+•OCF/NI at  143%  & FCF/NI at  136%
+•Full Year Dividend at ₹ 52/ - per share. Payout ratio of 89.6% for FY’243Bookings 
+•TCV (New Deal wins) at US$ 9,759 Mn , up 10.0%   
+•Won 73 New Large deals – 36 in Services &
+37 in Software
+4People  
+•Total People Count at  227,481;  Net addition of 1,537
+•Added 12,141  freshers
+•LTM Attrition at 12.4%* 
+(down from 19.5%  in Q4 of last year)Note: All Financial Growth Metrics are YoY except if stated otherwise
+*Note: Attrition excludes involuntary attrition and digital process operations.FY’25 Guidance
+•Company CC Revenue growth expected to be 
+between 3.0%  - 5.0%  YoY
+•Services CC Revenue growth expected to be 
+between 3.0% - 5.0%  YoY
+•EBIT margin expected to be between 18.0% - 19.0%5
+=== page 4 ===
+Q4 FY 2024 Highlights
+1Revenue
+•INR Revenue of ₹ 28,499 Crore,  up 0.2% QoQ  & up 7.1% YoY
+•Constant Currency (CC) Revenue up 0.3% QoQ  & up 6.0% YoY
+•USD Revenue of US$ 3,430 Mn,  up 0.4% QoQ  & up 6.0% YoY
+•Services CC Revenue up 3.0% QoQ  & up 6.7% YoY  led by 
+growth in Telecommunications, Media, Publishing & 
+Entertainment (up 21.6% QoQ & up  39.2% YoY ) 
+•Digital CC Revenue up 6.3% YoY;  contributes 37.1%  of Services
+•HCLSoftware ARR at US$ 1.02 Bn,  up 0.7% YoY CC
+2Profitability & Return Metrics
+•EBIT at ₹ 5,018 Crore  (17.6% of revenue), down 10.6% QoQ  & up 3.8% YoY 
+•Net Income at ₹ 3,986 Crore (14.0% of revenue), down 8.4% QoQ &
+up 0.1% YoY
+•ROIC (on LTM basis) – Company at 33.8%,  up 341 bps YoY ; Services at 
+41.6%, up 430 bps YoY  
+•OCF at US$ 2,711 Mn  and FCF at US$ 2,584 Mn  (on LTM basis)
+•OCF/NI at  143%  & FCF/NI at  136%  (on LTM basis)
+•Dividend of ₹ 18/ - per share, 85th consecutive quarter of dividend pay -out
+*Note: Attrition excludes involuntary attrition and digital process operations.3Bookings 
+•TCV (New Deal wins) at US$ 2,290 Mn
+•Won 21 New  Large deals - 13 in Services & 
+8 in Software 
+4People  
+•Total People Count at 227,481;  
+Net addition: 2,725
+•Added 3,096 freshers
+•LTM Attrition at 12.4%*, 
+(down from 19.5%  in Q4 of last year )
+5ESG
+•HCLTech earns leadership rating from 
+CDP for climate change actions
+=== page 5 ===
+Leadership Comments
+“HCLTech continues to lead the industry in FY24 with 
+good USD revenue growth of 5.4% YoY during 
+challenging times through our strong commitment to 
+our clients and our people.  More importantly, we have 
+translated this growth into even higher value creation 
+for our shareholders with our OCF coming at US$ 2,711 
+Mn, up 21.6% YoY and FCF at US$ 2,584 Mn, up 27.7% 
+YoY. As we look ahead, global enterprise technology 
+spend will only grow with adoption of AI. We are well 
+positioned to capitalize with our AI led propositions, 
+Global delivery model and ideal mix of technology 
+services and products.”“Led by a differentiated portfolio, 
+HCLTech continues to grow despite 
+global economic and geopolitical 
+headwinds. Our focus on doing 
+business sustainably and responsibly 
+is sharper than ever as we scale our 
+community initiatives beyond India."“HCLTech’s  FY24 performance underlines the 
+resilience of our business model with Revenue at INR 
+109,913 Cr, growing 8.3%. We delivered this industry 
+leading growth with EBIT at 20,027 Cr, up 8.4%. Net 
+Income (NI) for the year came in at ₹ 15,702 crores, 
+up 5.7%, translating to an EPS of ₹ 57.86. Our Board 
+is pleased to declare ₹ 18/share as the Dividend for 
+the quarter, bringing the total to ₹ 52/share for 
+FY24, which is 90% of the EPS. Our razor -sharp 
+focus on cash generation resulted in OCF/NI coming 
+at 143% and FCF/NI at 136%. We continue to expand 
+ROIC, with the Company’s ROIC up 341 bps YoY at 
+33.8% and Services’ ROIC up 430 bps YoY at 41.6%.”Prateek Aggarwal
+Chief Financial Officer
+HCLTechRoshni Nadar Malhotra
+Chairperson
+HCLTechCVijayakumar
+CEO & Managing Director
+HCLTech
+
+=== page 6 ===
+Annual Performance Trends – ₹
+HCLTech Consolidated 
+13,91115,43716,20418,48320,027
+FY'20 FY'21 FY'22 FY'23 FY'24EBIT
+11,057 11,14513,49914,85115,702
+FY'20 FY'21 FY'22 FY'23 FY'24Net Income
+In ₹ Crore In ₹ Crore
+70,67675,37985,651101,456109,913
+FY'20 FY'21 FY'22 FY'23 FY'24In ₹ CroreRevenues
+16.7%
+1.1%12.7% 13.7%
+5.0%12.7%
+-1.4%14.9%15.8%
+5.4%
+FY'20 FY'21 FY'22 FY'23 FY'24Revenue Growth YoY CC Services YoY CC
+19.7%20.5%18.9%18.2% 18.2%
+FY'20 FY'21 FY'22 FY'23 FY'24EBIT Margin
+15.6%
+14.8%15.7%14.6%14.3%
+FY'20 FY'21 FY'22 FY'23 FY'24Net Income Margin
+=== page 7 ===
+Annual Performance Trends – US$
+HCLTech Consolidated 
+19.7%20.5%18.9% 18.2%18.2%
+FY'20 FY'21 FY'22 FY'23 FY'24EBIT Margin
+15.6%
+14.8%15.7%14.6%14.3%
+FY'20 FY'21 FY'22 FY'23 FY'24Net Income Margin1,9542,0862,1702,2882,418
+FY'20 FY'21 FY'22 FY'23 FY'24EBIT
+1,5531,5061,8071,8371,896
+FY'20 FY'21 FY'22 FY'23 FY'24Net Income
+In US$ Mn In US$ Mn
+9,93610,17511,48112,58613,270
+FY'20 FY'21 FY'22 FY'23 FY'24In US$ MnRevenues
+16.7%
+1.1%12.7% 13.7%
+5.0%12.7%
+-1.4%14.9%15.8%
+5.4%
+FY'20 FY'21 FY'22 FY'23 FY'24Revenue Growth YoY CC Services YoY CC
+=== page 8 ===
+Annual Performance Trends
+HCLTech Consolidated 
+40.75 41.0749.7754.7957.86
+FY'20 FY'21 FY'22 FY'23 FY'24EPS (Diluted)
+1,5531,5061,807 1,8371,896 1,8782,651
+2,265 2,2302,711
+FY'20 FY'21 FY'22 FY'23 FY'24OCF/NIIn ₹
+In US$ Mn
+5 Year Average: ~136% OCF/NI: 143%NI OCFClient Category
+Number of Clients
+FY’20 FY’21 FY’22 FY’23 FY’24
+US$ 100+Mn US$ 50+Mn US$ 10+Mn US$ 5+Mn US$ 1+Mn
+
+=== page 9 ===
+Quarterly Performance Trends – ₹
+HCLTech Consolidated 
+4,836
+4,4604,9345,615
+5,018
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24EBIT
+3,983
+3,5343,8324,350
+3,986
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24Net Income
+26,60626,29626,67228,446 28,499
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24In ₹ CroreRevenues
+In ₹ Crore In ₹ Crore
+18.1%
+17.0%18.5%19.8%
+17.6%
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24EBIT Margin
+14.9%
+13.4%14.4%15.3%
+14.0%
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24Net Income Margin
+10.5%
+6.3%
+3.4%4.3%6.0%10.6%
+7.1%
+3.4%4.2%6.7%
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24Revenue Growth YoY CC Services YoY CC
+=== page 10 ===
+Quarterly Performance Trends – US$
+HCLTech Consolidated 
+584
+543597675
+603
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24EBIT
+481
+430464522
+480
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24Net Income
+3,2353,2003,2253,415 3,430
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24In US$ MnRevenues
+In US$ Mn In US$ Mn
+18.1%
+17.0%18.5%19.8%
+17.6%
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24EBIT Margin
+14.9%
+13.4%14.4%15.3%
+14.0%
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24Net Income Margin
+10.5%
+6.3%
+3.4%4.3%6.0%10.6%
+7.1%
+3.4%4.2%6.7%
+Mar'23 Jun'23 Sep'23 Dec'23 Mar'24Revenue Growth YoY CC Services YoY CC
+=== page 11 ===
+Segment -wise Highlights
+HCLTech Consolidated Revenue Mix and Growth
+Quarter Ended Year Ended
+Details 31-Mar -23 31-Dec -23 31-Mar -24 YoY CC Growth QoQ CC Growth 31-Mar -23 31-Mar -24 YoY CC Growth
+IT and Business Services (A) 73.8% 71.7% 74.4% 6.7% 4.0% 73.0% 73.8% 6.2%
+Engineering and R&D Services (B) 16.1% 16.4% 16.1% 6.4% (1.6%) 16.6% 16.0% 1.6%
+HCLTech Services (A + B) 89.9% 88.2% 90.5% 6.7% 3.0% 89.5% 89.8% 5.4%
+HCLSoftware (C) 10.6% 12.3% 10.0% - (18.5%) 10.9% 10.6% 2.3%
+Inter -segment * (D) (0.4%) (0.4%) (0.5%) (0.5%) (0.5%)
+HCLTech (A + B + C + D) 100.0% 100.0% 100.0% 6.0% 0.3% 100.0% 100.0% 5.0%
+*Inter -segment revenue is related to products and services of HCLSoftware used by Services business in rendering services to thei r customers.  
+EBIT Margin
+Quarter Ended Year Ended
+Details 31-Mar -23 31-Dec -23 31-Mar -24 YoY BPS change QoQ BPS change 31-Mar -23 31-Mar -24 YoY BPS change
+IT and Business Services 17.1% 17.1% 16.5% (55) (55) 16.6% 16.9% 36
+Engineering and R&D Services 18.8% 21.1% 19.7% 92 (139) 20.2% 19.3% (89)
+HCLTech Services 17.4% 17.8% 17.1% (29) (73) 17.2% 17.4% 11
+HCLSoftware 23.0% 32.9% 21.2% (181) (1,176) 25.1% 24.7% (40)
+HCLTech 18.1% 19.8% 17.6% (48) (218) 18.2% 18.2% 4
+=== page 12 ===
+Return on Invested Capital (ROIC)
+HCLSoftware P&L (Quarter ended) 31-Mar -23 30-Jun-23 30-Sep -23 31-Dec -23 31-Mar -24
+Revenues 342.3 332.5 318.3 419.1 341.5
+EBITDA 130.3 116.4 110.4 198.7 122.8
+EBIT 78.6 76.1 61.6 138.0 72.3
+NOPAT 68.5 59.6 47.5 110.4 57.5(Amount in US$ Million)
+Estimated Invested Capital 
+(Quarter ended)31-Mar -23 30-Jun-23 30-Sep -23 31-Dec -23 31-Mar -24 Average
+HCLTech  Services 3,735 3,732 3,714 3,747 3,532 3,692
+HCLSoftware 1,687 1,725 1,635 1,749 1,545 1,668
+Invested  Capital 5,421 5,457 5,349 5,496 5,076 5,360
+Cash  & Treasury  Balance 2,536 2,395 2,558 2,617 3,110
+Total 7,958 7,852 7,907 8,114 8,186
+LTM ROIC 31-Mar -23 30-Jun-23 30-Sep -23 31-Dec -23 31-Mar -24
+HCLTech  Services 37.3% 38.0% 39.4% 40.1% 41.6%
+HCLSoftware 15.5% 15.9% 16.2% 16.6% 16.5%
+HCLTech 30.4% 31.1% 32.2% 32.8% 33.8%
+•Estimated effective tax rate for HCLSoftware segment has been arrived at by applying the tax on Specific units/entities from whe re HCLSoftware business operates. Residual tax has been allocated to Services business.
+•Common assets and liabilities have been allocated between the businesses in ratio of last twelve months revenues.
+•NOPAT = EBIT*(1 – Effective Tax Rate) 
+•Average invested capital has been computed using average of last 5 quarters.
+=== page 13 ===
+HCLSoftware Metrics
+HCLSoftware RevenueQuarter Ended Year Ended
+31-Mar -23 30-Jun-23 30-Sep -23 31-Dec -23 31-Mar -24 31-Mar -23 31-Mar -24
+Perpetual License Upfront & Others 49.8 36.0 30.6 47.6 31.6 215.2 145.8
+Subscription  & Support 270.4 277.1 267.1 349.8 288.5 1,084.8 1,182.6
+Professional  Services 22.0 19.4 20.5 21.6 21.4 77.3 83.0
+Total Revenue 342.3 332.5 318.3 419.1 341.5 1,377.2 1,411.4
+•Perpetual License upfront and others revenue includes upfront revenue recognized from perpetual licenses and compliance revenues. 
+•Subscription and Support revenue includes all term subscription revenues, support revenues (including those attributable to perpetual licenses) and 
+Software -as-a-Service (SaaS) revenues.
+•Revenue share from IP Partnerships is included in respective lines above based on the information provided by the partners.
+HCLSoftware ARRQuarter Ended Year Ended
+31-Mar -23 30-Jun-23 30-Sep -23 31-Dec -23 31-Mar -24 31-Mar -23 31-Mar -24
+ARR 1,028.2 1,038.3 1,032.5 1,062.8 1,024.3 1,028.2 1,024.3
+ARR  Growth  YoY  CC 5.2% 4.7% 3.9% 2.9% 0.7% 5.2% 0.7%
+Annual Recurring Revenue (ARR) is the annualized value of all term subscription licenses, support obligations (including those attributable to perpetual 
+licenses) and Software -as-a-Service (SaaS) contracts that are active on the last day of the quarter. In respect of IP Partnershi ps, ARR is computed based on 
+annualized value of HCL’s revenue share of the revenue reported by the partners for support services and new license sales in  the current quarter. ARR 
+excludes upfront revenue recognized on sale of perpetual licenses, professional services and any other non -recurring revenue.
+ARR is an operating metric, which should be viewed independently of revenue and is not a forecast of future revenues. Growth in ARR may not always be 
+reflected in Revenue growth. 
+=== page 14 ===
+HCLTech Services Revenue Mix and Growth
+By Geographies 
+Quarter Ended Year Ended
+Details 31-Mar -23 31-Dec -23 31-Mar -24 YoY CC Growth QoQ CC Growth 31-Mar -23 31-Mar -24 YoY CC Growth
+Americas 63.8% 64.5% 65.2% 9.2% 4.2% 64.1% 64.7% 6.8%
+Europe 28.9% 29.0% 28.9% 5.7% 2.3% 28.4% 28.8% 5.5%
+ROW 7.3% 6.4% 5.9% (11.3%) (5.9%) 7.6% 6.5% (7.1%)
+HCLTech 100.0% 100.0% 100.0% 6.7% 3.0% 100.0% 100.0% 5.4%
+By Verticals
+Quarter Ended Year Ended
+Details 31-Mar -23 31-Dec -23 31-Mar -24 YoY CC Growth QoQ CC Growth 31-Mar -23 31-Mar -24 YoY CC Growth
+Financial Services 21.2% 21.7% 21.6% 8.6% 2.8% 20.7% 22.1% 12.1%
+Manufacturing 19.0% 20.1% 20.4% 14.3% 4.1% 19.1% 19.9% 9.8%
+Lifesciences & Healthcare 17.5% 16.4% 16.3% (1.0%) 2.0% 16.9% 16.9% 5.4%
+Technology and Services 14.4% 12.8% 12.3% (8.7%) (1.1%) 14.9% 12.9% (8.6%)
+Telecommunications, Media, 
+Publishing & Entertainment8.8% 9.7% 11.5% 39.2% 21.6% 9.2% 9.2% 6.5%
+Retail & CPG 9.0% 9.6% 9.1% 9.4% (1.5%) 9.1% 9.3% 8.2%
+Public Services# 10.2% 9.7% 8.8% (7.0%) (6.3%) 10.2% 9.6% 0.1%
+HCLTech 100.0% 100.0% 100.0% 6.7% 3.0% 100.0% 100.0% 5.4%
+# Public Services include Energy & Utilities, Travel - Transport - Logistics and Government.
+=== page 15 ===
+Client Metrics
+Number of Million Dollar Clients (LTM) 31-Mar -23 31-Dec -23 31-Mar -24 YoY Change QoQ Change
+100 Million  dollar  + 19 20 22 3 2
+50 Million  dollar  + 46 49 46 - (3)
+20 Million  dollar  + 131 132 137 6 5
+10 Million  dollar  + 229 250 254 25 4
+5 Million  dollar  + 375 401 395 20 (6)
+1 Million  dollar  + 939 958 951 12 (7)
+Client Contribution to Revenue (LTM) 31-Mar -23 31-Dec -23 31-Mar -24
+Top 5 Clients 10.1% 9.8% 10.4%
+Top 10 Clients 17.7% 17.7% 18.8%
+Top 20 Clients 27.8% 28.0% 29.0%
+Days Sales Outstanding 31-Mar -23 31-Dec -23 31-Mar -24
+Days Sales Outstanding* 66 67 61
+*Excluding unbilled receivables
+=== page 16 ===
+Key Deal Wins
+In Q4 FY24, HCLTech won 21 large deals – 13 in services and eight  in software – across all industries
+The Central Bank of Ireland selected HCLTech to set up a resilient and secure hybrid 
+cloud foundation to improve business agility. HCLTech will transform and manage the 
+client’s data center and IT infrastructure services to deliver the hybrid cloud foundation.
+A leading US -based enterprise software provider chose HCLTech as the strategic 
+partner to set up a GenAI -powered Technical Assistance Center to enhance operational 
+efficiency and deliver improved customer experience.The Canada Life Assurance Co expanded its digital transformation partnership with 
+HCLTech to modernize IT infrastructure operations and enhance workplace experience. 
+HCLTech will leverage its global delivery model combined with next -generation 
+transformation levers to accelerate the modernization.
+A US -based energy infrastructure company selected HCLTech to accelerate its 
+transformation journey to cloud while modernizing the network and boosting the 
+security posture. HCLTech will leverage AI/ML -led automation to deliver the 
+transformation that will lead to improved employee and customer experience.A US -based manufacturing company selected HCLTech to establish a product -aligned 
+IT operating model to bring IT and business together for a faster go -to-market. HCLTech 
+will transform the network backbone, underlying commercial applications and critical 
+business processes worldwide and leverage AI/ML technologies and extreme automation 
+to accelerate the client’s digital transformation journey.
+A US -headquartered global biopharmaceutical company has expanded its partnership 
+with HCLTech to consolidate its application development and support. HCLTech will 
+provide the client with an AI -led integrated application, infrastructure and IP -led 
+solutions to enhance the client’s business efficiency.
+A US -based technology company selected HCLTech as a strategic professional services 
+partner to help drive product adoption and enable business growth. HCLTech will provide 
+product implementation, cloud migration, site reliability engineering and other 
+associated services to global marquee customers of the client.A leading US -based financial services provider selected HCLTech to accelerate cloud 
+adoption and digital transformation to deliver improved experience to customers. 
+HCLTech will implement an agile operating model for integrated IT operations that 
+provides end -to-end observability and operational efficiency.A Japan -based global medical technology major selected HCLTech as its strategic 
+partner for R&D transformation and innovation. HCLTech will provide new product 
+development, sustenance and digital engineering services to support the client's global 
+design centers and manufacturing sites. 
+A US -based biotechnology company selected HCLTech to automate and transform its 
+cybersecurity posture with advanced processes and technologies. HCLTech’s  services 
+will enable timely detection and mitigation of potential threats.
+=== page 17 ===
+Key Deal Wins
+Popular, Inc., a financial institution headquartered in Puerto Rico, entered into a multi -
+year agreement with HCLTech to operate and modernize the IT infrastructure of its US 
+subsidiary Popular Bank.  HCLTech will help accelerate Popular Bank’s digital 
+transformation while providing superior end -user experience.
+A Europe -based manufacturing company selected HCLTech as the IT transformation 
+partner to manage its ERP landscape across SAP and other connected business systems. 
+HCLTech will help the client accelerate innovation, enhance user experiences and 
+establish the foundation for enabling future enterprise transformation programs, 
+including SAP S/4HANA adoption.A Europe -based energy technology major expanded its partnership with HCLSoftware to 
+deploy Actian Data Platform to support the upgrade and modernization of its power 
+management system to deliver reliable and sustainable energy to customers.
+A Europe -based aviation services major selected HCLTech to establish an independent IT 
+organization. HCLTech will help the client move to a secure, AI -first and cloud -first 
+environment and provide next -gen services to enhance user productivity and experience. 
+HCLTech will leverage its next generation DRYiCE  SX platform for the automation.
+A Europe -based global automotive technology major selected HCLTech to transform its 
+workplace experience across 43 countries. HCLTech will deploy its suite of digital 
+workplace solutions to enable enterprise -wide management of end -user devices and 
+applications and ensure an efficient and personalized workplace experience.
+A leading North American insurance provider expanded its partnership with HCLSoftware 
+to deploy Domino to accelerate digital transformation and enhance workplace 
+experience.A Europe -based accreditation and awarding authority will use HCLSoftware's Actian Data 
+Management solution for assessment and certification of non -degree qualifications. A US -based advertising and marketing technology services provider has expanded its 
+partnership with HCLSoftware. The advertising company will deploy Unica to deliver data -
+driven marketing campaigns and services to its clients, reaching millions of customers 
+every month.
+A global leader in customer experience management has chosen HCLSoftware’s BigFix to 
+standardize its endpoint security. The deployment will enable the client to automate the 
+remediation of vulnerabilities through this advanced solution.
+A European citizen services platform selected HCLSoftware’s DX and Discover to 
+transition its intranet -only employee channel to a truly multichannel employee interaction 
+platform and deliver superior experience to end -users.
+=== page 18 ===
+Key GenAI  Deal Wins
+A leading  US-based  technology  company  selected  HCLTech  to transform  its 
+product  validation  and sustenance  experience  with  GenAI . HCLTech  will leverage  
+its AI capabilities  and framework  to provide  next -gen tools  and services  along  
+with  complete  life cycle  product  engineering  and support  services  to enhance  
+customer  experience,  reduce  cycle  times  and optimize  cost . 
+A US -based biopharmaceutical company selected HCLTech to leverage GenAI  
+and data engineering to automate the extraction of structured and unstructured 
+data from diverse sources. The solution will empower the client to prioritize and 
+monitor its products effectively and enhance customer experience.  A leading US -based telecommunications company selected HCLTech to leverage 
+data engineering and GenAI  to automate the data pipeline for analytics and 
+reporting needs of sales and marketing teams for enterprises, ensuring 
+governance and quality. A US -based technology major selected HCLTech to optimize its data center 
+using GenAI . HCLTech's  comprehensive data center pre -production validation 
+will rigorously test the infrastructure for compatibility with GenAI  workloads, 
+mitigating risks and accelerating deployments.A US-based  global  technology  major  is collaborating  with  HCLTech  to leverage  
+GenAI  to automate  the creation  of presentations . The solution  will replace  the 
+manual  process  to significantly  enhance  user  experience  and efficiency .
+A US -based pharmaceutical and medtech  company has partnered with HCLTech 
+to develop an intelligent self -service chat platform using digitalCOLLEAGUE , 
+HCLTech’s  collaboration and orchestration platform, to accelerate the client’s 
+GenAI -led transformation.A US -based financial services provider selected HCLTech to migrate its existing 
+machine learning models to new -age GenAI  platforms for greater agility, 
+improvement and innovation in service delivery. 
+A US -based technology company has partnered with HCLTech to build a data 
+factory for the client’s GenAI  solutions. HCLTech’s  GenAI  solution will enable the 
+annotation of a variety of industry information sources and data documents to 
+train industry specific LLMs.  
+=== page 19 ===
+Client Comments
+“Canada Life is working with HCLTech for select Canada operations 
+because technology and its related skill sets are evolving faster than 
+ever. This change will help us meet our customers where they are and 
+give them confidence we will grow alongside their needs.  We 
+selected HCLTech as a partner because of their global and industry 
+expertise, operational resiliency, and proven experience in supporting 
+large, complex organizations.”
+-  Tim Nickerson, Senior Vice President & Chief Technology Officer, 
+Canada Life
+“From embracing inclusivity to fostering innovation, HCLTech's  
+dedication to making a meaningful difference shines through in 
+every step of our engagement. I appreciate their unwavering 
+support and forward -thinking approach that is helping NatWest 
+to transform its Debit Cards landscape leveraging modern 
+technologies.”
+– Sue Rees, Domain Head, Everyday Banking, NatWest Group“We couldn't have asked for a better technology and digital 
+transformation partner. HCLTech has been a digital transformation 
+partner to Cricket Australia since 2019, and their deep expertise, 
+innovative technology solutions and unwavering support have been 
+instrumental in our digital transformation journey for the benefit of 
+the whole Australian cricket community.” 
+– Nick Hockley, CEO, Cricket Australia
+“For over a decade, HCLTech has supported technology services for 
+Syneos  Health. Our collaboration, marked by a commitment to 
+quality, reliability and excellence, is now expanding into application 
+services. We’re excited for this new opportunity to work together 
+and look forward to achieving greater innovation, benefits and 
+efficiencies.”
+– Larry Pickett, Chief Information & Digital Officer, Syneos  Health 
+=== page 20 ===
+People Metrics
+Details (Quarter ended) 31-Mar -23 30-Jun-23 30-Sep -23 31-Dec -23 31-Mar -24
+Total People Count 225,944 223,438 221,139 224,756 227,481
+Technical 211,445 209,066 206,745 210,417 213,059
+Sales and Support 14,499 14,372 14,394 14,339 14,422
+Net Addition 3,674 (2,506) (2,299) 3,617 2,725
+Freshers Added 4,480 1,597 3,630 3,818 3,096
+Attrition (LTM)* 19.5% 16.3% 14.2% 12.8% 12.4%
+Women Employees (%) 29.2% 29.0% 29.1% 29.1% 29.1%
+*Note: Attrition excludes involuntary attrition and digital process operations.
+HCLTech was certified as a Top Employer in 26 
+countries, with No. 1 ranking in 15 countries. 
+Certified as a regional Top Employer in three key 
+geographies of its operations: Top Employer North 
+America 2024 (ranked No. 1), Top Employer Asia 
+Pacific 2024 (ranked No. 1) and Top Employer 
+Europe 2024 (ranked No. 2).HCLTech’s  Value Creation Portal is a unique grassroots innovation platform that 
+enables employees to contribute ideas and create value for its clients.  5,500+ 
+unique employees leveraged Value Creation Portal in Q4 FY24, generating, 
+reviewing and approving 4,400+ ideas and implementing 2,400+ ideas that 
+delivered customer signed -off value worth $300 million.
+In line with its tradition of ideapreneurship and a culture of innovation, a total of 80 
+patents were filed and granted (32 filings, 48 grants) in Q4 FY24. 
+
+=== page 21 ===
+Analyst Recognitions
+HCLTech has received 55+  leadership positions in analyst recognitions in Q4 FY24, which further strengthens our credentials to be a partner of choice for 
+large enterprises in their cloud and digital transformation journey.
+Digital Business
+•HCLTech positioned as a Leader in IDC MarketScape : Worldwide Application Modernization Services to Google Cloud Platform 2024 Vendor Assessment (doc #US50607723, 
+January 2024)
+•HCLTech positioned as a Leader in IDC MarketScape  Worldwide Application Modernization Services to Azure 2024 Vendor Assessment (doc # US50607623, January 2024)
+•HCLTech positioned as a Leader in IDC MarketScape : Worldwide Application Modernization Services to AWS 2024 Vendor Assessment (doc # US50607523, January 2024) 
+•HCLTech positioned as a Leader in Everest Group’s Retail IT Services PEAK Matrix® Assessment 2024 
+•HCLTech positioned as a Leader in Everest Group’s Consumer Packaged Goods (CPG) IT Services PEAK Matrix® Assessment 2024 
+•HCLTech positioned as a Leader in Everest Group’s Application Transformation Services PEAK Matrix® Assessment 2024 – North Ameri ca , Europe
+•HCLTech positioned as a Leader in Avasant’s  SAP S/4HANA Services 2023 -2024 RadarView
+•HCLTech positioned as a Leader in Avasant’s  Digital Commerce Services 2023 –2024 RadarView
+•HCLTech positioned as a Leader in Avasant’s  Airlines and Airports Digital Services 2024 RadarView
+HCLTech Positioned as a Leader in:
+•ISG Provider Lens
+  Analytics Services - Data Engineering Services – Large - U.S., Europe 2023
+•ISG Provider Lens
+  Telecom, Media & Entertainment Services - Media and Entertainment Intelligent Business Process Services (BPS) - North America 2 023
+•ISG Provider Lens
+  Sustainability and ESG (Environmental, Social, Governance) - Strategy and Enablement Services - U.S., Europe 2023
+•ISG Provider Lens
+  Healthcare Digital Services - Payer Digital Transformation Services - U.S. 2023
+•ISG Provider Lens
+  Healthcare Digital Services - Provider Digital Transformation Services - U.S. 2023
+Digital Operations
+•HCLTech positioned as a Leader in HFS Horizons: The Best Service Providers for Asset and Wealth Management, 2024
+•HCLTech positioned as a Leader in HFS Horizons: Manufacturing Intelligent Operations Services, 2024
+=== page 22 ===
+Analyst Recognitions
+HCLTech positioned as a Leader in:
+•ISG Provider Lens
+  Intelligent Automation – Services and Solutions - Artificial Intelligence for IT Operations (AIOps) - U.S. 2023
+•ISG Provider Lens
+  Intelligent Automation – Services and Solutions - Next -Gen Automation - U.S. 2023
+•ISG Provider Lens
+  Multi Public Cloud Services - FinOps Services and Cloud Optimization – Germany, France 2023
+•ISG Provider Lens
+  Oracle Cloud and Technology Ecosystem - Implementation and Integration Services - U.S. Europe 2023
+*Gartner  and Magic  Quadrant  are registered  trademarks  and service  marks  of Gartner,  Inc. and/or  its affiliates  and is used  herein  with  permission . All rights  reserved . Gartner  does  not endorse  any vendor,  product  or service  depicted  in its research  
+publications  and does  not advise  technology  users  to select  only  those  vendors  with  the highest  ratings  or other  designation . Gartner  research  publications  consist  of the opinions  of Gartner’s  research  organization  and should  not be construed  as 
+statements  off act. Gartner  disclaims  all warranties,  expressed  or implied,  with  respect  to this research,  including  any warranties  of merchantability  or fitness  for a particular  purpose . 
+*The  Gartner  content  described  herein  (the “Gartner  Content”)  represent(s)  research  opinion  or viewpoints  published,  as part of a syndicated  subscription  service,  by Gartner,  Inc. ("Gartner"),  and are not representations  of fact. Gartner  Content  
+speaks  as of its original  publication  date  (and  not as of the date  of this Quarterly  report),  and the opinions  expressed  in the Gartner  Content  are subject  to change  without  notice . Engineering and R&D Services
+•HCLTech positioned as a Leader in Everest Group’s Software Product Engineering Services PEAK Matrix® Assessment 2024
+•HCLTech positioned as a Leader in HFS Horizons: Manufacturing Intelligent Operations Services, 2024 Digital Foundation
+•HCLTech positioned as a Leader in Gartner®, Magic Quadrant
+  for Outsourced Digital Workplace Services, March 2024
+•HCLTech positioned as a Leader in IDC MarketScape : Canadian Managed Multicloud  Services 2024 Vendor Assessment (doc # CA50302123, February 2024)
+•HCLTech positioned as a Leader in Avasant’s  Intelligent Automation Services 2023 -2024 RadarView
+•HCLTech positioned as a Leader in Avasant’s  Oracle Cloud ERP Services 2023 -2024 RadarView
+HCLSoftware
+•HCLSoftware (DX) positioned as a Challenger in 2024 Gartner® Magic Quadrant
+  for Digital Experience Platforms
+•HCLSoftware (BigFix) mentioned among Notable Vendors in The End -User Experience Management Solutions Landscape, Q1 2024 by Forre ster
+•HCLSoftware named as a Major Player in the IDC MarketScape : Worldwide Enterprise B2C Digital Commerce Applications 2024 Vendor Assessment 
+(doc #US49742623, March 2024)
+•HCLSoftware (Volt MX) mentioned in Constellation Research for 2024 Shortlist for Enterprise Low -Code Tools & Platforms
+•HCLSoftware (HCL Connections) mentioned in Constellation Research for 2024 Shortlist for Employee Digital Workspaces
+=== page 23 ===
+Awards and Recognitions
+•Recognized by Ethisphere as one of the World’s Most Ethical Companies 2024
+•Rated as the fastest -growing IT services brand with 15.9% YoY growth in brand value among the top 10 IT companies 
+globally, as per the 2024 Brand Finance Global 500 and IT Services Top 25 Report
+•Included in the S&P Global Sustainability Yearbook 2024 for the second year in a row
+•Received A - leadership rating for climate change initiatives from CDP, a global environment non -profit 
+•Gold at the ETHRWorld  Future Skills Awards in the Excellence in the Learning Impact Measurement category
+•ETHREX Award for Exceptional Employee Experiences in the Large Enterprise Category
+•Silver at the ET Human Capital Award 2024 for the “Aspire” program under the category “Excellence in Creating a 
+Culture of Continuous Learning and Upskilling”
+•Wins at Google Cloud Next’24: Global Talent Development Partner of the Year Award, Industry Solution Services Partner 
+of the Year Award for Telecommunications, and Cloud Migration Specialization Partner of the Year Award
+•IBM Partner Excellence Award in the cloud business category
+•2024 Intel EPIC Outstanding Supplier Award
+•Winner of AWS EMEA Financial Services Innovation Challenge on Sustainability
+•HCLTech Chairperson Roshni Nadar Malhotra recognized as one of the Most Powerful Women in Business by Fortune India
+•HCLTech Chairperson Roshni Nadar Malhotra won the Legacy Entrepreneur Award at the Express Awards for Women Entrepreneurs 202 4
+•HCLTech CFO Prateek Aggarwal received the "Group CFO of the Year - Large Enterprise" award at the ETCFO Awards 2024
+=== page 24 ===
+Supercharging progress for our communities and the planet
+India -focused initiatives through HCLFoundation Global Initiatives
+•10,406 people trained 
+for open school exams  
+•9.5M liters of milk 
+collected from farmers, 
+generating income of 
+₹494M for farmers
+•24,257 medical 
+consultations provided
+Sports for 
+Change 
+9,856 students 
+(44% female) 
+participated in 
+district -level 
+competitions •3 STEM labs established in 
+government schools
+•1M+ people (58% female) reached 
+via integrated community projects
+•500 training sessions conducted 
+for anganwadi  workers
+•225,000+ mangrove saplings 
+planted 
+•MoU with Greater Noida 
+Industrial Development 
+Authority for sterilization and 
+vaccination of stray dogs 
+HCLTechies  from 14 cities 
+across the Americas 
+collaborated for hunger 
+relief by providing 32,000  
+meals and nutritious food 
+items to 5,000+ individuals. 
+Further, food and essential 
+packages were distributed 
+to 700+  families.•The Corbett Foundation (environment), 
+Sangath  (health) and Makkala  Jagriti 
+(education) were awarded ₹5 crore 
+(appx. $609,000) each in grants under 
+HCLTech Grant to scale their projects
+•₹146.95 crore ($18 million approx ) 
+committed so far transforming nearly 2 
+million lives across 27,542 villages in India
+Power of 
+One 
+4,470+ 
+employee 
+volunteering 
+hours 
+•85,000+ kg waste 
+managed 
+•9,000+ citizens 
+sensitized on waste 
+management 
+practices 
+
+=== page 25 ===
+Annual Results 
+Annexure
+=== page 26 ===
+Financials for the Year ended 31 -Mar -24
+Consolidated Income Statement
+Income StatementIn ₹ Crores In US$ Million % of Revenue
+31-Mar -23 31-Mar -24 31-Mar -23 31-Mar -24 31-Mar -23 31-Mar -24
+Revenues 101,456 109,913 12,585.6 13,269.7 100.0% 100.0%
+Direct  Costs 64,523 70,474 8,007.7 8,508.8 63.6% 64.1%
+Gross  Profits 36,933 39,439 4,577.9 4,760.9 36.4% 35.9%
+Research  & Development 1,632 1,651 202.5 199.3 1.6% 1.5%
+SG & A 12,673 13,588 1,572.6 1,640.5 12.5% 12.4%
+EBITDA 22,628 24,200 2,802.8 2,921.1 22.3% 22.0%
+Depreciation  & Amortization 4,145 4,173 514.5 503.5 4.1% 3.8%
+EBIT 18,483 20,027 2,288.3 2,417.6 18.2% 18.2%
+Foreign  Exchange  Gains/(Loss) 91 (2) 11.1 (0.1) 0.1% 0.0%
+Other  Income,  net 914 942 113.5 113.7 0.9% 0.9%
+Provision  for Tax 4,643 5,257 576.6 634.4 4.6% 4.8%
+Non -controlling  interest (6) 8 (0.7) 1.0 0.0% 0.0%
+Net  Income 14,851 15,702 1,837.1 1,895.8 14.6% 14.3%
+EPS  (in ₹)
+Basic 54.85 57.99 54.85 57.99
+Diluted 54.79 57.86 54.79 57.86
+=== page 27 ===
+Cost Breakup for Year ended 31 -Mar -24 
+Particu larsIn ₹ Crores In US$ Million % of Revenue
+31-Mar -23 31-Mar -24 31-Mar -23 31-Mar -24 31-Mar -23 31-Mar -24
+Employee benefits expense 55,280 62,480 6,861.0 7,543.6 54.5% 56.8%
+Outsourcing costs
+(Subcontractors + Outsourced Work)14,950 14,578 1,854.9 1,760.2 14.7% 13.3%
+Cost of hardware and software sold 2,005 1,797 248.6 216.9 2.0% 1.6%
+Travel and conveyance 1,235 1,314 153.4 158.6 1.2% 1.2%
+Software license fee 1,037 1,000 128.9 120.7 1.0% 0.9%
+Facility Cost* 1,158 1,204 143.7 145.4 1.1% 1.1%
+Recruitment, training and development 552 297 68.5 35.9 0.5% 0.3%
+Legal and professional charges 547 619 67.8 74.8 0.5% 0.6%
+Communication costs 502 573 62.3 69.1 0.5% 0.5%
+CSR Expense 240 264 30.0 32.0 0.2% 0.2%
+Doubtful debts 25 117 3.2 14.1 0.0% 0.1%
+Other expenses 1,297 1,470 160.5 177.3 1.3% 1.3%
+Depreciation & Amortization 4,145 4,173 514.5 503.5 4.1% 3.8%
+Total Costs 82,973 89,886 10,297.3 10,852.1 81.8% 81.8%
+EBIT 18,483 20,027 2,288.3 2,417.6 18.2% 18.2%
+Note: *Facility cost includes Repairs and Maintenance, Power and Fuel, and Rent
+=== page 28 ===
+Quarterly Results 
+Annexure
+=== page 29 ===
+Constant Currency Reporting (Quarter ended)
+HCLTech Revenue 31-Mar -23 30-Jun-23 30-Sep -23 31-Dec -23 31-Mar -24
+Reported  Revenue  (US$ Mn) 3,234.6 3,200.0 3,224.7 3,415.0 3,429.9
+Growth % (CC)
+QoQ (1.2%) (1.3%) 1.0% 6.0% 0.3%
+YoY 10.5% 6.3% 3.4% 4.3% 6.0%
+HCLTech Services Revenue
+Reported  Revenue  (US$ Mn) 2,906.6 2,882.7 2,922.0 3,010.8 3,104.2
+Growth % (CC)
+QoQ 0.6% (1.0%) 1.6% 3.1% 3.0%
+YoY 10.6% 7.1% 3.4% 4.2% 6.7%
+Average Rates For Quarter
+USD  - INR 82.30 82.17 82.72 83.28 83.10
+GBP  - USD 1.22 1.25 1.26 1.25 1.27
+EUR  - USD 1.07 1.09 1.08 1.08 1.08
+USD  - SEK 10.40 10.60 10.81 10.51 10.43
+AUD  - USD 0.68 0.67 0.65 0.66 0.66(Amount in US$ Million)
+=== page 30 ===
+Financials in ₹ for the Quarter ended 31 -Mar -24 (Ind AS)
+Consolidated Income Statement
+(Amount in ₹ Crores)
+Income StatementQuarter Ended % of Revenue
+31-Mar -23 31-Dec -23 31-Mar -24 31-Mar -23 31-Dec -23 31-Mar -24
+Revenues 26,606 28,446 28,499 100.0% 100.0% 100.0%
+Direct  Costs 16,889 17,998 18,527 63.6% 63.3% 65.0%
+Gross  Profits 9,717 10,448 9,972 36.4% 36.7% 35.0%
+Research  & Development 438 418 435 1.6% 1.5% 1.5%
+SG & A 3,416 3,272 3,426 12.9% 11.5% 12.0%
+EBITDA 5,863 6,758 6,111 21.9% 23.8% 21.4%
+Depreciation  & Amortization 1,027 1,143 1,093 3.9% 4.0% 3.8%
+EBIT 4,836 5,615 5,018 18.1% 19.8% 17.6%
+Foreign  Exchange  Gains/(Loss) (40) 29 6 (0.2%) 0.1% 0.0%
+Other  Income,  net 397 230 245 1.5% 0.8% 0.9%
+Provision  for Tax 1,214 1,523 1,274 4.6% 5.4% 4.5%
+Non -controlling  interest (2) 1 9 0.0% 0.0% 0.0%
+Net  Income 3,983 4,350 3,986 14.9% 15.3% 14.0%
+LTM  EPS  (in ₹)
+Basic 54.85 57.98 57.99
+Diluted 54.79 57.87 57.86
+=== page 31 ===
+Cost Breakup in ₹ for Quarter ended 31 -Mar -24 
+Particu larsQuarter Ended % of Revenue
+31-Mar -23 31-Dec -23 31-Mar -24 31-Mar -23 31-Dec -23 31-Mar -24
+Employee benefits expense 14,665 15,862 16,351 55.2% 55.8% 57.4%
+Outsourcing costs
+(Subcontractors + Outsourced Work)3,786 3,732 3,710 14.2% 13.1% 13.0%
+Cost of hardware and software sold 563 350 510 2.1% 1.2% 1.8%
+Travel and conveyance 350 311 348 1.3% 1.1% 1.2%
+Software license fee 263 251 268 1.0% 0.9% 0.9%
+Facility Cost* 295 306 319 1.1% 1.1% 1.1%
+Recruitment, training and development 113 69 77 0.4% 0.2% 0.3%
+Legal and professional charges 134 139 182 0.5% 0.5% 0.6%
+Communication costs 132 149 155 0.5% 0.5% 0.5%
+CSR Expense 59 71 71 0.2% 0.2% 0.2%
+Doubtful debts 6 37 30 0.0% 0.1% 0.1%
+Other expenses 377 409 367 1.4% 1.4% 1.3%
+Depreciation & Amortization 1,027 1,144 1,093 3.9% 4.0% 3.8%
+Total Costs 21,770 22,831 23,482 81.9% 80.2% 82.4%
+EBIT 4,836 5,615 5,018 18.1% 19.8% 17.6%(Amount in ₹ Crores)
+Note: *Facility cost includes Repairs and Maintenance, Power and Fuel, and Rent
+=== page 32 ===
+Financials in US$ for the Quarter ended 31 -Mar -24 (IFRS)
+Consolidated Income Statement
+(Amount in US$ Million)
+Income StatementQuarter Ended % of Revenue
+31-Mar -23 31-Dec -23 31-Mar -24 31-Mar -23 31-Dec -23 31-Mar -24
+Revenues 3,234.6 3,415.0 3,429.9 100.0% 100.0% 100.0%
+Direct  Costs 2,056.3 2,160.5 2,230.5 63.6% 63.3% 65.0%
+Gross  Profits 1,178.3 1,254.5 1,199.5 36.4% 36.7% 35.0%
+Research  & Development 53.2 49.9 52.6 1.6% 1.5% 1.5%
+SG & A 415.9 392.4 412.4 12.9% 11.5% 12.0%
+EBITDA 709.1 812.2 734.5 21.9% 23.8% 21.4%
+Depreciation  & Amortization 125.0 137.3 131.2 3.9% 4.0% 3.8%
+EBIT 584.1 674.9 603.3 18.1% 19.8% 17.6%
+Foreign  Exchange  Gains/(Loss) (5.0) 3.6 0.7 (0.2%) 0.1% 0.0%
+Other  Income,  net 49.2 27.3 29.8 1.5% 0.8% 0.9%
+Provision  for Tax 147.8 182.9 153.1 4.6% 5.4% 4.5%
+Non -controlling  interest (0.3) 0.2 1.0 0.0% 0.0% 0.0%
+Net  Income 480.9 522.7 479.7 14.9% 15.3% 14.0%
+LTM  EPS  (in ₹)
+Basic 54.85 57.98 57.99
+Diluted 54.79 57.87 57.86
+=== page 33 ===
+Cost Breakup in US$ for Quarter ended 31 -Mar -24 
+(Amount in US$ Million)
+Note: *Facility cost includes Repairs and Maintenance, Power and Fuel, and RentParticu larsQuarter Ended % of Revenue
+31-Mar -23 31-Dec -23 31-Mar -24 31-Mar -23 31-Dec -23 31-Mar -24
+Employee benefits expense 1,786.2 1,904.0 1,968.4 55.2% 55.8% 57.4%
+Outsourcing costs
+(Subcontractors + Outsourced Work)460.3 447.9 446.7 14.2% 13.1% 13.0%
+Cost of hardware and software sold 68.5 41.8 61.4 2.1% 1.2% 1.8%
+Travel and conveyance 42.7 37.3 41.9 1.3% 1.1% 1.2%
+Software license fee 32.0 30.2 32.3 1.0% 0.9% 0.9%
+Facility Cost* 35.8 36.7 38.4 1.1% 1.1% 1.1%
+Recruitment, training and development 13.7 8.3 9.3 0.4% 0.2% 0.3%
+Legal and professional charges 16.3 16.7 21.9 0.5% 0.5% 0.6%
+Communication costs 16.0 17.9 18.7 0.5% 0.5% 0.5%
+CSR Expense 7.3 8.5 8.6 0.2% 0.2% 0.2%
+Doubtful debts 0.8 4.4 3.6 0.0% 0.1% 0.1%
+Other expenses 45.9 49.0 44.2 1.4% 1.4% 1.3%
+Depreciation & Amortization 125.0 137.3 131.2 3.9% 4.0% 3.8%
+Total Costs 2,650.5 2,740.1 2,826.6 81.9% 80.2% 82.4%
+EBIT 584.1 674.9 603.3 18.1% 19.8% 17.6%
+=== page 34 ===
+Consolidated Balance 
+Sheet & Cash Flow 
+Summary
+=== page 35 ===
+Consolidated Balance Sheet (₹ and US$)
+ParticularsIn ₹ Crores In US$ Million
+As on 31 -Mar -23 As on 31 -Mar -24 As on 31 -Mar -23 As on 31 -Mar -24
+Assets
+Cash  and Cash  Equivalents 9,065 9,456 1,103 1,134
+Accounts  Receivables,  net 19,572 19,483 2,381 2,337
+Unbilled  Receivables 5,934 6,038 722 724
+Treasury  Investments 13,647 18,532 1,661 2,222
+Other  Current  Assets 5,359 5,822 652 698
+Total  Current  Assets 53,577 59,331 6,520 7,115
+Property  and Equipment,  net 5,411 4,999 659 600
+Right -of-use assets 2,337 2,910 284 349
+Intangible  Assets,  net 26,911 27,262 3,276 3,271
+Treasury  Investments 378 287 46 34
+Deferred  Tax Assets 1,252 1,031 152 124
+Other  Investments  (incl . equity  method  investment) 110 94 14 11
+Other  Assets 3,435 3,863 418 463
+Total  Assets 93,411 99,777 11,370 11,967
+Liabilities  & Stockholders  Equity
+Total  Current  Liabilities 20,420 21,532 2,485 2,583
+Borrowings 2,251 2,327 274 280
+Lease  Liabilities 2,535 3,429 308 411
+Other  Liabilities 2,807 4,218 342 507
+Total  Liabilities 28,013 31,506 3,409 3,781
+Non -Controlling  Interests (7) 8 (1) 1
+Total  Stockholders  Equity 65,405 68,263 7,962 8,185
+Total Equity 65,398 68,271 7,961 8,186
+Total  Liabilities  and  Equity 93,411 99,777 11,370 11,967
+=== page 36 ===
+Consolidated Cash Flow Summary
+ParticularsIn ₹ Crores In US$ Million
+For Year Ended 
+March 2023For Year Ended 
+March 2024For Quarter Ended
+March 2024For Year Ended 
+March 2023For Year Ended 
+March 2024For Quarter Ended
+March 2024
+Profit Before Tax 19,488 20,967 5,269 2,413 2,531 634
+Adjustments for:
+Depreciation, Amortization and Impairment 4,145 4,173 1,093 514 503 131
+Others (620) (785) (249) (78) (94) (30)
+Changes in Assets and Liabilities, net:
+Accounts Receivable and Unbilled Receivable (3,240) 248 689 (400) 30 83
+Other Assets and Liabilities 1,934 2,057 1,874 241 250 225
+Income Taxes paid (Net of refunds) (3,698) (4,212) (876) (460) (509) (105)
+Net Operating Cash Flow 18,009 22,4 48 7,800 2,230 2,711 938
+Purchase of PP&E and Intangibles (1,661) (1,048) (282) (206) (127) (34)
+Free Cash Flow 16,348 21,400 7,518 2,024 2,584 904
+Payments for Acquisitions (738) (2,048) (2) (96) (248) (1)
+Dividend paid (12,995) (14,073) (3,246) (1,614) (1,699) (391)
+Gross  Cash  & Net  CashIn ₹ Crores In US$ Million
+For Year Ended 
+March 2023For Year Ended 
+March 2024For Year Ended 
+March 2023For Year Ended 
+March 2024
+Cash & Cash Equivalents 9,065 9,456 1,103 1,134
+Fixed Deposits including Deposits under lien 8,638 11,774 1,051 1,411
+Investment Securities 5,385 7,043 655 845
+Gross Cash 23,089 28,273 2,810 3,390
+Less: Borrowings 2,251 2,327 274 280
+Net Cash 20,838 25,946 2,536 3,110
+=== page 37 ===
+About HCLTech
+HCLTech  is a global  technology  company,  home  to more  than  227,000  people  across  60 
+countries,  delivering  industry -leading  capabilities  centered  around  digital,  engineering,  cloud  and 
+AI, powered  by a broad  portfolio  of technology  services  and products . We work  with  clients  across  
+all major  verticals,  providing  industry  solutions  for Financial  Services,  Manufacturing,  Life Sciences  
+and Healthcare,  Technology  and Services,  Telecom  and Media,  Retail  and CPG,  and Public  
+Services . Consolidated  revenues  as of 12 months  ending  March  2024  totaled  $ 13.3 billion . To learn  
+how  we can supercharge  progress  for you,  visit  hcltech .com .
+Contact Details
+Investor Relations Corporate Communications
+Nitin Mohta
+nitin.mohta@hcl.com
++91-120-6126000  Ashutosh Sharma
+ashutosh.sharma@hcl.com
++91-120-6126000  

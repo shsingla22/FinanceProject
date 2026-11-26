@@ -1,0 +1,168 @@
+ 
+ 
+Sun Pharmaceutical Industries Limited  
+Sun House, Plot No. 201 B/1,  
+Western Express Highway, Goregaon (E),  
+Mumbai – 400 063, Maharashtra, INDIA.  
+Tel.: (91- 22) 4324 4324  
+Fax: (91- 22) 4324 4343  
+Website: www.sunpharma.com  
+Email: secretarial@sunpharma.com   
+CIN: L24230GJ1993PLC019050   
+  
+ 
+ 
+Registered Office: SPARC, Tandalja, Vadodara –  390 012, Gujarat, INDIA.  
+ 
+Reaching People. Touching Lives.  March 10, 2025  
+ 
+National Stock Exchange of India Limited  
+Scrip Symbol: SUNPHARMA  
+ BSE Limited  
+Scrip Code: 524715  
+ 
+ 
+Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 – Additional Information  
+ 
+Further to the intimation about our press release titled ‘Sun Pharma  to Acquire  Checkpoint Therapeutics ’ 
+submitted earlier today, i.e. March 10, 2025, please find enclosed herewith the copies of  (i) the 
+Agreement and Plan of Merger, dated as of March 9, 2025,  including the form of Contingent Value 
+Rights Agreement, the Royalty Agreement, dated as of March 9, 2025 and the form of Tra nsition 
+Services Agreement  and (ii) the Support Agreement, dated as of March 9, 2025 entered into in 
+connection with the acquisition.  
+ For Sun Pharmaceutical Industries Limited  
+ 
+ 
+ 
+(Anoop Deshpande)  
+Company Secretary and Compliance Officer   
+ICSI Membership No.: A23983  
+ 
+ 
+AGREEMENT AND PLAN OF MERGER 
+by and among 
+CHECKPOINT THERAPEUTICS , INC., 
+SUN PHARMACEUTICAL INDUSTRIES , INC. 
+and 
+SNOOPY MERGER SUB, INC. 
+___________________________ 
+Dated as of March 9, 2025 
+___________________________ 
+TABLE OF CONTENTS  
+Page 
+ -i-  ARTICLE I THE MERGER .......................................................................................................... 2
+Section 1.1 Merger of Merger Sub into the Company ............................................ 2
+Section 1.2 Effect of the Merger ............................................................................. 2
+Section 1.3 Closing; Effective Time. ...................................................................... 3
+Section 1.4 Certificate of Incorporation and Bylaws; Directors and Officers ........ 3
+Section 1.5 Conversion of Shares. .......................................................................... 3
+Section 1.6 Surrender of Certificates; Stock Transfer Books. ................................ 4
+Section 1.7 Appraisal Rights ................................................................................... 7
+Section 1.8 Treatment of Equity Awards. ............................................................... 7
+Section 1.9 Treatment of Company Warrants ......................................................... 8
+Section 1.10 Further Action ...................................................................................... 9
+ARTICLE II REPRESENTATIONS AND WARRANTIES OF THE COMPANY .................. 10
+Section 2.1 Due Organization; Subsidiaries, Etc. ................................................. 10
+Section 2.2 Organizational Documents ................................................................. 10
+Section 2.3 Capitalization, Etc. ............................................................................. 11
+Section 2.4 SEC Filings; Financial Statements..................................................... 12
+Section 2.5 Absence of Changes ........................................................................... 14
+Section 2.6 Title to and Sufficiency of Assets ...................................................... 15
+Section 2.7 Real Property ..................................................................................... 15
+Section 2.8 Intellectual Property ........................................................................... 15
+Section 2.9 Contracts ............................................................................................ 18
+Section 2.10 Liabilities ........................................................................................... 20
+Section 2.11 Compliance with Legal Requirements; Regulatory Matters; 
+Export Controls and Sanction Laws .................................................. 20
+Section 2.12 Certain Business Practices ................................................................. 22
+Section 2.13 Governmental Authorizations ............................................................ 22
+Section 2.14 Tax Matters ........................................................................................ 22
+Section 2.15 Employee Matters; Benefit Plans....................................................... 24
+Section 2.16 Environmental Matters....................................................................... 26
+Section 2.17 Insurance ............................................................................................ 27
+TABLE OF CONTENTS  
+(continued) 
+Page 
+ -ii-  Section 2.18 Legal Proceedings; Orders ................................................................. 28
+Section 2.19 Authority; Binding Nature of Agreement .......................................... 28
+Section 2.20 Related Party Transactions ................................................................ 29
+Section 2.21 Merger Approval ................................................................................ 29
+Section 2.22 Non-Contravention; Consents ............................................................ 29
+Section 2.23 Fairness Opinions............................................................................... 30
+Section 2.24 Financial Advisors ............................................................................. 30
+Section 2.25 Takeover Laws ................................................................................... 30
+Section 2.26 No Other Representations or Warranties; Acknowledgment by 
+the Company. ..................................................................................... 31
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF PARENT AND 
+MERGER SUB .............................................................................................. 31
+Section 3.1 Due Organization ............................................................................... 31
+Section 3.2 Merger Sub......................................................................................... 31
+Section 3.3 Authority; Binding Nature of Agreement .......................................... 32
+Section 3.4 Non-Contravention; Consents ............................................................ 32
+Section 3.5 Disclosure .......................................................................................... 32
+Section 3.6 Absence of Litigation ......................................................................... 33
+Section 3.7 Sufficiency of Funds .......................................................................... 33
+Section 3.8 Stockholder and Management Arrangements .................................... 33
+Section 3.9 Ownership of Company Common Stock ........................................... 33
+Section 3.10 No Debarment or Exclusion ............................................................... 33
+Section 3.11 No Other Representations or Warranties; Acknowledgement by 
+Parent and Merger Sub....................................................................... 34
+ARTICLE IV CERTAIN COVENANTS OF THE COMPANY ................................................ 35
+Section 4.1 Access and Investigation.................................................................... 35
+Section 4.2 Operation of the Companys Business. .............................................. 36
+Section 4.3 No Solicitation. .................................................................................. 40
+ARTICLE V ADDITIONAL COVENANTS OF THE PARTIES .............................................. 42
+Section 5.1 Company Board Recommendation. ................................................... 42
+Section 5.2 Proxy Statement ................................................................................. 44
+TABLE OF CONTENTS  
+(continued) 
+Page 
+ -iii-  Section 5.3 Filings, Consents and Approvals. ...................................................... 46
+Section 5.4 Employee Benefits ............................................................................. 48
+Section 5.5 Indemnification of Officers and Directors. ........................................ 51
+Section 5.6 Securityholder Litigation ................................................................... 53
+Section 5.7 Disclosure .......................................................................................... 53
+Section 5.8 Takeover Laws ................................................................................... 53
+Section 5.9 Section 16 Matters ............................................................................. 53
+Section 5.10 Merger Sub Stockholder Consent ...................................................... 54
+Section 5.11 Company Warrants ............................................................................ 54
+Section 5.12 Special Committee ............................................................................. 54
+Section 5.13 CVR Agreement; Transition Services Agreement ............................. 55
+Section 5.14 Interim Period Financing ................................................................... 55
+ARTICLE VI CONDITIONS PRECEDENT TO THE MERGER ............................................. 55
+Section 6.1 Conditions to Each Partys Obligations to Effect the Merger ........... 55
+Section 6.2 Conditions to the Obligations of Parent and Merger Sub .................. 56
+Section 6.3 Conditions to the Companys Obligations to Effect the Merger ....... 56
+Section 6.4 Frustration of Closing Conditions ...................................................... 57
+ARTICLE VII TERMINATION ................................................................................................. 57
+Section 7.1 Termination ........................................................................................ 57
+Section 7.2 Manner and Notice of Termination; Effect of Termination. .............. 59
+Section 7.3 Expenses; Termination Fee. ............................................................... 60
+ARTICLE VIII MISCELLANEOUS PROVISIONS .................................................................. 62
+Section 8.1 Amendment ........................................................................................ 62
+Section 8.2 Waiver ................................................................................................ 63
+Section 8.3 No Survival of Representations, Warranties, Covenants and 
+Agreements ........................................................................................ 63
+Section 8.4 Entire Agreement; Counterparts ........................................................ 63
+Section 8.5 Applicable Legal Requirements; Jurisdiction; Specific 
+Performance; Remedies. .................................................................... 64
+Section 8.6 Assignability ...................................................................................... 65
+Section 8.7 No Third Party Beneficiaries ............................................................. 65
+TABLE OF CONTENTS  
+(continued) 
+Page 
+ -iv-  Section 8.8 Notices ............................................................................................... 65
+Section 8.9 Severability ........................................................................................ 67
+Section 8.10 Obligation of Parent ........................................................................... 67
+Section 8.11 Transfer Taxes ................................................................................... 67
+Section 8.12 Construction. ...................................................................................... 67
+ 
+Exhibit A Certain Definitions 
+Exhibit B Form of CVR Agreement 
+Exhibit C Form of Transition Services Agreement 
+Exhibit D Royalty Agreement 
+Exhibit E Form of Surviving Corporation Certificate of Incorporation 
+Exhibit F Form of Surviving Corporation Bylaws 
+ 
+ 

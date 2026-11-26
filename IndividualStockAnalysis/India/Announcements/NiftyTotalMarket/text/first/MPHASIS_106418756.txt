@@ -1,0 +1,118 @@
+ 
+ 
+ 
+                   
+29 October  2025 
+ 
+The Manager, Listing                                                         
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,                                                                        
+MUMBAI - 400 001  
+Scrip Code: 526299    The Manager, Listing  
+National Stock Exchange of India Ltd  
+Exchange Plaza, Plot No. c/1,  
+G-Block, Bandra -Kurla Complex,  
+MUMBAI – 400 051 
+Scrip Symbol: MPHASIS  
+ 
+Dear Sir /Madam , 
+ 
+ Sub: Intimation of Press Release  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith a press release titled  “Mphasis introduces Mphasis qCryptsecTM – Quantum Safe 
+Cryptography and Mphasis QOptiDecisionTM - Quantum enhanced optimization solutions for future -ready 
+enterprise security and decision intelligence .” 
+ 
+The press release will also be available on the website of the Company at www.mphasis.com . 
+ We request you to kindly take the above intimation on record . 
+          
+Thanking you,  
+ 
+Yours faithfully,  
+ 
+For Mphasis Limited  
+ 
+ 
+Mayank Verma  
+Senior Vice President and Company Secretary  
+Membership No.: ACS 18776  
+ 
+Encl: As above  
+ 
+
+Mphasis introduces Mphasis qCryptsecTM – Quantum Safe Cryptography and  
+Mphasis QOptiDecisionTM - Quantum enhanced optimization solutions for future -ready  enterprise 
+security and decision intelligence  
+ 
+ 
+ 
+New York | Bengaluru, October 29, 2025  
+ 
+Mphasis , (BSE: 526299 ; NSE: MPHASIS ), an Information Technology (IT) solutions provider specializing in  cloud  and 
+cognitive  services, today announced the launch of two quantum  technology -focused  solutions :  
+• Mphasis qCryptsecTM for quantum -safe cryptography  to strengthen enterprise resilience  
+o Mphasis qCryptsec , the Quantum Cryptography solution, reduce s risk from cybersecurity threats, 
+regulatory non -compliance, and operational disruptions  
+• Mphasis QOptiDecisionTM for quantum computing -enhanced  decision intelligence in the quantum era  
+o Mphasis QOptiDecision  brings the power of hybrid quantum -classical and quantum -inspired computing  to 
+accelerate  complex enterprise decisions with  more accura cy. 
+ 
+Mphasis qCryptsec  provide s organizations with a clear roadmap to achieve quantum -safe security. The solution supports a 
+structured transition from assessment to quantum -ready operations. It  includes  scanning tools to discover cryptographic 
+assets, such as algorithms, keys,  and certificates , of an enterprise , resulting in a cryptographic inventory -Cryptographic 
+Bill of Materials (CBOM) . It also  provides a multi -layered defence  against threats through  post -quantum  cryptographic 
+(PQC)  implementation  and secure key transfer using Quantum Key Distribution (QKD).   
+Mphasis qCryptse c reduce s risk by identifying vulnerable  cryptograph ic assets , support s compliance, and prepare s 
+organizations for faster incident response and quantum readiness.  This ensures comprehensive enterprise -wide coverage, 
+seamless integration, full supply chain visibility, and actionable risk insights.  
+Mphasis QOptiDecision  solution leverages hybrid quantum -classical and quantum -inspired optimization technologies to 
+solve  large -scale complex scheduling, routing  and resource allocation  challenges . Mphasis QOptiDecision  deliver s 
+enhanced  outcomes without impacting runtime.  This approach uses adaptive parameter tuning to balance multiple 
+objectives and an iterative workflow that finds high -quality, optimized  solutions.   
+Mphasis QOptiDecision  integrate s with current enterprise decision systems , allowing for seamless transition to a 
+disruptive , future -focused  technology. These capabilities have been successfully  appli ed in areas such as last -mile route 
+optimization, 3-D bin packing , wealth advisor assignments , airline passenger re -accommodation, and crew scheduling.  
+ 
+“Our early investments in applied quantum research and development have  enabled this industry -first milestone in the 
+enterprise adoption of quantum  technology.  We are very proud of the end-to-end quantum solutions our team has 
+delivered  to reduce risk, ensure compliance, and safeguard against evolving threats , while optimiz ing complex enterprise 
+decisions with greater accuracy ,” said Nitin Rakesh, Chief Executive Officer and Managing Director, Mphasis.  
+ 
+Building on this success, Mphasis is advancing its services with an Agentic AI approach to further transform and 
+modernize enterprise operations, driving innovation at the intersection of quantum computing and intelligent 
+automation.  
+ 
+  
+ 
+ 
+About Mphasis  
+Mphasis is an AI -led, platform -driven company with human -in-the-loop intelligence, helping global 
+enterprises modernize, infuse AI, and scale with agility. The Mphasis.ai  unit and Mphasis AI -powered 
+‘Tribes’ are focused on client outcomes and embed artificial intelligence and autonomy into every layer of the enterprise tec hnology 
+and process stack.   
+  
+Mphasis built NeoIP ™, a breakthrough AI platform which orchestrates a powerful pack of AI platforms and solutions to deliver 
+impactful outcomes across the entire enterprise IT value chain, because we believe ‘ AI Without Intelligence Is ArtificialTM’.  NeoIP ™ is 
+powered by the Ontosphere, a dynamic and ever -evolving knowledge base, delivering continuous and constant innovation through 
+perpetual  intelligent engineering - driving end -to-end enterprise transformation.  
+  
+At the heart of our approach is customer -centricity —reflected in our proprietary Front2Back ™ transformation framework, which uses 
+the exponential power of cloud and cognitive to deliver hyper -personalized digital experiences (C=X2C2 ™ = 1) and build strong 
+relationships with marquee clients. Our Service Transformation solutions enable enterprises pivot from legacy systems and ope rations 
+to secure, adaptive, cloud -first operating models with minimal disruption. Continuous investments in  platforms, such as the Neo 
+series, enable enterprises to stay efficient, relevant, and ahead  in a dynamic AI -first world. Mphasis is a  Hi-Tech, Hi -Touch, Hi -Trust 
+company, rooted in a learning and growth culture.   Click here  to know more.   (BSE: 526299 ; NSE: MPHASIS ) 
+  
+ 
+For further information, please contact:   
+Mphasis Corporate Communications  
+Deepa Nagaraj   
+deepa.nagaraj@mphasis.com  
++ 1 (646) 424 -5160 |+91 9845 256 283   
+ 
+Sumana  Bhat  
+sumana.bhat@mphasis.com  
++91 9902 980 980  
+ 

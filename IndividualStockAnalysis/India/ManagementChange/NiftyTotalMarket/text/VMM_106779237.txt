@@ -1,0 +1,125 @@
+--- CIM_24077_WebXMLFile_20260911_184514943_1.xml (the exchange's structured disclosure) ---
+NSESymbol: VMM ; Name Of The Company: Vishal Mega Mart Limited ; Scrip Code: 544307 ; MSEISymbol: NOTLISTED ; ISIN: INE01EA01019 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-11 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-11 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Operations Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Manoj Kumar ; Effective Date Of Reason Of Change: 2026-09-11 ; Salutation: Mr. ; Name Of The Person: Manoj Kumar ; Designation Of Person: Chief Operations Officer ; Date On Which The Resignation Letter Was Received: 2026-07-16 ; Effective Date Of Resignation: 2026-09-11 ; Reason Of Resignation In Brief: Personal Reasons
+
+--- Intimation_to_Stock_Exchanges_Resignation_of_Manoj_Kumar_2.pdf ---
+VISHAL MEGA MART LIMITED
+(Formerly known as Vishal Mega Mart Private Limited)
+Corporate & Regd. Office: 5th Floor, Platinum Tower, Plot No. 184
+Udyog Vihar, Phase – 1, Gurugram, Haryana-122016, India.
+Phone: +91-124-4980000 Fax: +91-124-4980001
+Email: secretarial@vishalwholesale.co.in, Website: www.aboutvishal.com
+
+CIN: L51909HR2018PLC073282
+Date: September 11, 2026
+To
+National Stock Exchange of India Ltd.,
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex,
+Bandra (E), Mumbai – 400 051
+NSE Scrip Symbol: VMM
+
+To
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai – 400001
+Scrip Code: 544307
+
+Dear Sir/ Madam,
+Subject:
+
+Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 - Change in Senior Management Personnel
+
+Pursuant to Regulation 30 read with Schedule III to the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“SEBI Listing Regulations”), we refer to our disclosure dated July 16,
+2026, wherein we had informed that Mr. Manoj Kumar, Chief Operations Officer and Senior Management
+Personnel of the Company, had tendered his resignation from the services of the Company on July 16, 2026,
+due to personal reasons, and that his last working day with the Company would be September 11, 2026.
+We would now like to inform that Mr. Manoj Kumar has been relieved from his duties with effect from the
+close of business hours on September 11, 2026. Accordingly, he ceases to be a Senior Management
+Personnel of the Company.
+A copy of his resignation letter is enclosed herewith as Annexure - I. The disclosures required under
+Regulation 30 of the SEBI Listing Regulations read with the SEBI Master Circular dated January 30, 2026,
+are enclosed as Annexure - II.
+Further, please refer to the Company’s disclosure dated June 15, 2026, regarding the appointment of Mr.
+Sashi Gumma as Chief of Operations.
+You are requested to take the above on record.
+Thanking you.
+For Vishal Mega Mart Limited
+signed
+Rahul Digitally
+by Rahul Luthra
+2026.09.11
+Luthra Date:
+18:15:26 +05'30'
+
+_______________________
+Rahul Luthra
+Company Secretary & Compliance Officer
+ICSI Membership No: F9588
+Encl: As above
+
+
+Annexure-I
+
+From: Manoj Kumar – COO <aaaaaaaaa@aaaaaaaaaaaaaaaa>
+Sent: 16 July 2026 04:25 PM
+To: Gunender Kapur <aaaaaaaaaaaaa@aaaaaaaaaaaaaaa>
+Cc: Dhruva Kumar Dubey <aaaaaaaaaaaaa@aaaaaaaaaaaaaa>; Sidhant Dalal
+<aaaaaaaaaaa@aaaa.com>
+Subject: Resignation
+
+Hi GK,
+As discussed during our meeting, please accept this email as my formal resignation
+from my position as Chief Operations Officer (COO) and Senior Management Personnel
+of the Company, due to personal reasons.
+I will serve my full notice period, and my last working day will be September 11, 2026. I
+will do my best to ensure a smooth transition during my remaining time.
+Thank you for your trust, support, and the opportunity to serve the Company. It has been
+a privilege to contribute to the Company’s growth and success.
+I wish the Company and the entire team continued success.
+Sincerely,
+Manoj
+
+
+VISHAL MEGA MART LIMITED
+(Formerly known as Vishal Mega Mart Private Limited)
+Corporate & Regd. Office: 5th Floor, Platinum Tower, Plot No. 184
+Udyog Vihar, Phase – 1, Gurugram, Haryana-122016, India.
+Phone: +91-124-4980000 Fax: +91-124-4980001
+Email: secretarial@vishalwholesale.co.in, Website: www.aboutvishal.com
+
+CIN: L51909HR2018PLC073282
+Annexure-II
+Disclosures under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 read with the SEBI Master Circular dated January 30, 2026
+Sl. No.
+1.
+
+2.
+
+3.
+4.
+
+Particulars
+Reason for change viz. resignation,
+appointment, re-appointment, removal,
+death or otherwise
+Date of cessation/ appointment/
+reappointment (as applicable) & term of
+appointment/ re-appointment
+Brief profile (in case of appointment)
+Disclosure of relationships between
+directors (in case of appointment of a
+director)
+
+Details
+Resignation Mr. Manoj Kumar –Chief Operations
+Officer and a Senior Management Personnel of
+the Company, due to personal reasons.
+With effect from close of business hours on
+September 11, 2026
+Not Applicable
+Not Applicable
+
+

@@ -1,0 +1,279 @@
+ 
+ 
+                                                                                                                              Date: April 28, 2026 
+                                                                                                                              Place: Chennai  
+Ref: SHAI/B & S/SE/ 13/2026-27  
+                                                                                         
+To,        To, 
+The Manager      The Manager  
+Listing Department     Listing Department  
+BSE Limited       National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers     Exchange Plaza, 5th Floor, Plot C/1,  
+Dalal Street       G Block, Bandra-Kurla Complex 
+Mumbai – 400001      Mumbai – 400051. 
+Maharashtra, India                                                               Maharashtra, India  
+Scrip Code: 543412       Symbol: STARHEALTH 
+ 
+ 
+Dear Sir/ Madam, 
+Sub: Amended to Policy on Insider Trading. 
+In compliance with the provisions of  Regulation 8(2) of the Securities and Exchange Board of India  
+(Prohibition of Insider Trading) Regulations, 2015, please find enclosed a copy of the amended Policy on 
+Insider Trading (inclusive of the Code of P ractices and Procedures for Fair Disclosure of Unpublished Price 
+Sensitive Information ) as approved by the Board of Directors in their meeting held on April 28, 2026 for 
+your information and records.  
+ 
+The said policy is also being hosted on the Company's website at www.starhealth.in 
+ 
+Thanking you, 
+For Star Health and Allied Insurance Company Limited  
+ 
+ 
+Jayashree Sethuraman  
+Company Secretary & Compliance Officer  
+ 
+Encl: as above. 
+ This document is confidential and intended only for the internal use by Star Health and Allied Insurance Company Limited. The  
+recipient(s) should ensure that this document is not reproduced or circulated to external entities in any form or means inclu ding 
+electronic, mechanical, photocopying or otherwise without prior approval of the document owner or the primary recipients of t his 
+document. Should there be any conflict between the policy and the regulatory notifications, the latter shall prevail.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Policy on  Insider Trading  
+ 
+ 
+April  2026 
+  
+
+Policy  on Insider Trading    
+ 
+ Page 2 of 17  
+Key Policy Information : 
+ 
+Policy reference number  Policy Owner  Policy Approver  Creation date  
+SHAIC - PIT Board & Secretarial  Board  May 23 2021  
+ 
+Summary - Version Control : 
+ 
+Version  Reviewed By  Approved By  Revision date  Reason for review  
+1.0 Audit Committee  Board  2020 -21 / 
+May 23 2021  Initial Policy  
+2.0 Audit Committee  Board  2022 -23 / 
+November  09 2022 Periodic Review  
+3.0 Audit Committee  Board  2023 -24/January 31 
+2023  Periodic Review  
+4.0 Audit Committee  Board  2024 -25/April 30 
+2024  Periodic Review  
+4.1 Audit Committee  Board  2024 -25/July 30 
+2024  Regulatory changes   
+4.2 Audit Committee  Board  2024 -25/January 28 
+2025  Regulatory changes   
+4.2 Audit Committee  Board  2025-26/ 
+April 29,  2025  Periodic Review  
+4.3 Audit Committee  Board  2026 -27/ 
+April 28, 2026  Annual  Review  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Policy  on Insider Trading    
+ 
+ Page 3 of 17  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents  
+1. Introduction  ................................ ................................ ................................ ................................ .... 4 
+1.1. Background  ................................ ................................ ................................ ..............................  4 
+1.2. Objective  ................................ ................................ ................................ ................................ ... 4 
+1.3. Applicability  ................................ ................................ ................................ ..............................  4 
+1.4. Review and approval of Policy  ................................ ................................ ...............................  4 
+2.      Policy Requirements  ................................ ................................ ................................ ................  4 
+2.1. Policy Statement  ................................ ................................ ................................ .......................  4 
+2.2. Roles and Responsibilities  ................................ ................................ ................................ ...... 5 
+2.3. Prohibition on Communicating or Procuring UPSI  ................................ ...............................  5 
+2.4. Prohibition on Insider Trading  ................................ ................................ ................................ .... 6 
+2.5. Trading Window  ................................ ................................ ................................ ..........................  7 
+2.6. Pre-Clearance of Trading  ................................ ................................ ................................ .........  8 
+2.7. Trading Plan ................................ ................................ ................................ ...............................  8 
+2.8. Disclosures  ................................ ................................ ................................ ................................  9 
+2.9. Penal Provisions  ................................ ................................ ................................ ......................  9 
+3. Compliance and Reporting  ................................ ................................ ................................ ...........  9 
+4. Appendices  ................................ ................................ ................................ ................................ .... 9 
+4.1. Definitions  ................................ ................................ ................................ ................................ .. 9 
+4.2. Code of Practices and Procedures for Fair Disclosure UPSI  ................................ .............  13 
+4.3. Policy for Inquiry in case of Leak or Suspected Leak of UPSI  ................................ ...........  15 
+ 
+ 
+ 
+  
+Policy  on Insider Trading    
+ 
+ Page 4 of 17  
+ 
+1. Introduction  
+ 
+1.1. Background  
+ 
+In terms of PITR 2015, this Policy seeks to prevent Insider Trading by regulating communication, or 
+procurement or otherwise dealing in UPSI.  
+ 
+Insider trading is defined as an unethical practice resorted to by those in power and/or who are privy to 
+certain UPSI relating to a Company to profit at the expense of the general investors who do not have 
+access to such information.  
+ 
+Given the above, this Policy has been formulated, as required under the LODR 2015, CA 2013 and 
+CGR 2024, and other applicable laws as amended from time to time.  
+ 
+This Policy also functions as the Code of Conduct to regulate, monitor and report trading by Designated 
+Persons. The following form an integral part of this Policy  
+ 
+a. Code of Practices and Procedures for Fair Disclosure of UPSI (Appendix 4.2)  
+b. Policy and Procedures for Inquiry in case of Leak of UPSI or Suspected Leak of UPSI (Appendix 
+4.3) 
+ 
+1.2. Objective  
+ 
+The Policy deals with regulating trading in the securities of the Company by Designated Persons defined 
+in this Policy or any other persons in possession of or with access to UPSI  not available to the general 
+public to prevent them profiting from such act, at the expense of investors who do not have access to 
+such information.  
+ 
+The Policy also seeks to establish mechanisms for fair disclosure of UPSI and inquiry in case of leak or 
+suspected leak of UPSI.  
+ 
+1.3. Applicability  
+ 
+The Policy is applicable to all Insiders of the Company, including Designated Persons.  
+ 
+This Policy is also applicable to Insiders who engage portfolio managers to trade in securities and hence 
+the Insiders are expected to take due precaution while trading in securities through portfolio managers. 
+If any trading is done by portfolio managers,  it will be treated as trading done by the Insider.  
+ 
+1.4. Review and approval of Policy  
+ 
+The Board may review the Policy as and when required.  
+ 
+The Policy is effective from the date of listing of the securities of the Company in the recognized Stock 
+Exchange/s and the revised versions come into effect from the date of approval of the Board.  
+ 
+In case of any amendment(s), clarification(s), circular(s) etc. issued by the relevant authorities, not being 
+consistent with the provisions laid down under this Policy, then such amendment(s), clarification(s), 
+circular(s), etc. shall prevail upon the pro visions in this Policy.  
+ 
+2. Policy Requirements  
+ 
+2.1. Policy Statement   
+ 
+The Board has formulated this Policy to comply with the PITR 2015.   
+ 
+ 
+ 
+Policy  on Insider Trading    
+ 
+ Page 5 of 17  
+2.2. Roles and Responsibilities  
+ 
+A. Board of Directors  
+ 
+The Board shall be responsible for the following:  
+ 
+a. Specifying the Designated Persons to be covered under this Policy, in consultation with the 
+Compliance Officer  
+b. Ensuring that the Chief Executive Officer / Managing Director put in place adequate and effective 
+system of internal controls to ensure compliance with the PITR 2015  
+c. Ensuring that Structured Digital Database is maintained as per the PITR 2015  
+d. Ensuring that necessary Codes and Policies as per the PITR 2015 are formulated and updated  
+ 
+B. Chief Executive Officer / Managing Director  
+ 
+The Chief Executive Officer /Managing Director will be responsible for:  
+ 
+a. Putting in place adequate and effective system of internal controls to ensure compliance with the 
+PITR 2015  
+b. Recommending any amendments to this Policy, to the Board  
+ 
+C. Compliance Officer  
+ 
+The Company Secretary shall be the Compliance Officer for the purpose of this Policy and in the 
+absence of the Company Secretary, such other person as authorized by the Board shall act as the 
+Compliance Officer for discharging the functions.  
+ 
+The Compliance Officer shall be responsible for:  
+ 
+a. Maintenance of the list of Designated Persons and updating the same regularly;  
+b. Grant of pre -clearance approvals to the Designated Persons for trading in the Company‘s Securities 
+by them / their Immediate Relatives and monitoring of such trading;  
+c. Assist all the Designated Persons in addressing any clarifications regarding the PITR 2015 and this 
+Policy;  
+d. Educating the insiders and making them aware of the duties and responsibilities attached to UPSI, 
+and the liability in case of misuse or unwarranted use of such information or communication;  
+e. Closing the trading window for such periods as he/she may deem fit in compliance with the 
+provisions of this Policy;  
+f. Maintenance of records as required under this Policy;  
+g. Granting relaxation from strict application of contra trade restriction for reasons to be recorded in 
+writing provided that such relaxation does not violate the PITR 2015.  
+h. Approval of trading plans;  
+i. Reporting all details of trading in securities by the Designated Persons including any violations of 
+this Policy to the Audit Committee and the Board on quarterly basis.  
+j. Maintenance of the Structured Digital Database as prescribed under the PITR 2015.  
+ 
+D. Audit Committee  
+ 
+The Audit Committee shall review the compliance with the provisions of this Policy and shall verify that 
+the systems for internal control are adequate and are operating effectively on an annual basis.  
+ 
+2.3. Prohibition on Communicating or Procuring UPSI  
+ 
+a. An Insider shall not – communicate, provide, or allow access to any UPSI, relating to the Company 
+or its securities, to any person including other Insiders.  
+ 
+b. No person shall procure from or cause the communication by an Insider of UPSI, relating to the 
+Company or its securities;  
+ 

@@ -1,0 +1,257 @@
+ 
+ 
+Vodafone Idea Limited 
+An Aditya Birla Group & Vodafone partnership 
+Birla Centurion, 10th to 12th Floor, Century Mills Compound, Pandurang Budhkar Marg, Worli, Mumbai - 400030. 
+T: +91 88287 66000 
+Registered Office: Suman Tower, Plot No. 18, Sector 11, Gandhinagar - 382011, Gujarat.   
+T: +91 79667 14000 | F: +91 79 2323 2251 | CIN: L32100GJ1996PLC030976 
+12 November 2026 
+ 
+National Stock Exchange of India Limited 
+“Exchange Plaza”, 
+Bandra - Kurla Complex, 
+Bandra (E), 
+Mumbai – 400 051 BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai – 400 001 
+ 
+ 
+Dear Sirs, 
+ 
+Sub: Quarterly Report for the Second Quarter and Half year ended 30 September 
+2026 
+ 
+Ref: “Vodafone Idea Limited” (IDEA / 532822) 
+ 
+In continuation with our letter of even date, we hereby enclose a copy of the Quarterly 
+Report being issued on the performance of the Company for the second quarter and 
+half year ended 30 September 2026. 
+ 
+The above is for your information and dissemination to the public at large. 
+ 
+Thanking you, 
+ 
+Yours truly, 
+For Vodafone Idea Limited 
+ 
+ 
+ 
+Pankaj Kapdeo 
+Company Secretary  
+ 
+Encl: As above 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                
+  
+C1 – Vodafone Idea External  
+Quarterly Report  Sep’26                                                                                                                                                     Page 1 of 18 
+ 
+   
+Quarterly Report  Sep’26   
+   
+
+                                                                
+  
+C1 – Vodafone Idea External  
+Quarterly Report  Sep’26                                                                                                                                                     Page 2 of 18 
+ 
+   
+Quarterly Report  Sep’26  
+Supplemental Disclosures  
+Unless stated otherwise, the financial data in this report is derived from our un -audited / audited financial 
+statements prepared in accordance with Ind AS adopted in Q1FY17, with transition date of April 01, 2015. Our 
+financial year ends on March 31 of each year, so all references to a particular financial year are to the twelve 
+months ending March 31 of that year. In this report, any discrepancies in any table between the total and the sums 
+of the amounts listed are due to rounding -off. There are sig nificant differences between Indian GAAP, IFRS, Ind AS 
+and U.S. GAAP; accordingly, the degree to which the Ind AS financial statements will provide meaningful 
+information is dependent on the reader’s familiarity with Indian accounting practices. Any relian ce by persons not 
+familiar with Indian accounting practices on the financial information presented in this report should accordingly 
+be limited. We have not attempted to explain such differences or quantify their impact on the financial data 
+included herei n. 
+Unless stated otherwise, industry data used throughout this report has been obtained from industry publications. 
+Industry publications generally state that the information contained in those publications has been obtained from 
+sources believed to be reliab le but that their accuracy and completeness are not guaranteed and their reliability 
+cannot be assured. Although we believe that industry data used in this report is reliable, it has not been 
+independently verified.  
+Actual results may differ materially from those suggested by the forward -looking statements due to risks or 
+uncertainties associated with our expectations with respect to, but not limited to, our ability to successfully 
+implement our strategy, our growth a nd expansion, technological changes, our exposure to market risks, general 
+economic and political conditions in India which have an impact on our business activities or investments, the 
+monetary and interest policies of India, inflation, deflation, unantic ipated turbulence in interest rates, foreign 
+exchange rates, equity prices or other rates or prices, the performance of the financial markets in India and 
+globally, changes in domestic and foreign laws, regulations and taxes and changes in competition in t he industry.   
+ 
+ 
+Report Structure                 
+Page No
+ .  
+1. 
+Q2FY27 Update 
+ – 
+Key Performance Indicators  
+ 3 
+2. 
+Q2FY27 Financial Highlights  
+ 4 
+3. 
+Management Discussion and Analysis  
+ 6 
+4. 
+Stock Market Highlights  
+ 8 
+5. 
+Shareholding Pattern  
+ 8 
+6. 
+About Vodafone Idea Ltd  
+ 9 
+7. 
+The Company's Strengths  
+ 13 
+8. 
+Glossary  
+ 17 
+ 
+                                                                
+  
+C1 – Vodafone Idea External  
+Quarterly Report  Sep’26                                                                                                                                                     Page 3 of 18 
+ 
+   
+Quarterly Report  Sep’26   
+1. 
+Q2FY27 Update 
+ – 
+Key Performance Indicators  
+ 
+* Includes all technology 2G, 4G and 5G  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Growth
+Q2FY26 Q3FY26 Q4FY26 Q1FY27 Q2FY27
+Subscriber Base (EoP) mn 196.7         192.9         192.8         193.1         194.4         
+Postpaid Subscribers mn 27.9            28.8            30.1            31.9            33.9            
+Total Data Subscribers* mn 134.7         134.9         135.0         136.0         136.4         
+4G/5G Subscribers mn 127.8         128.5         128.9         130.1         131.0         
+VLR Subscribers (EoP) mn 171.5         169.5         169.3         167.0         167.8         
+Average Revenue per User (ARPU) Blended INR 167             172             174             177             178             
+Customer ARPU (excluding M2M) INR 180             186             190             195             198             
+Blended Churn % 4.3% 4.4% 3.9% 3.8% 4.0%
+4G Coverage - No. of Census Towns & Villages no. 398,779    407,515    414,573    429,730    431,445    
+4G Population Coverage % 84.4% 85.5% 86.3% 87.0% 87.8%
+2G Coverage - No. of Census Towns & Villages no. 487,173 487,173 487,173 487,173 487,173
+2G Population Coverage % 91.3% 91.3% 91.3% 91.3% 91.3%
+Total Unique Towers (EoP) no. 198,428    203,555    206,981 209,269    216,560    
+Total Unique Broadband Towers (EoP) no. 191,096    197,692    202,008 204,893    213,616    
+Total Broadband sites no. 527,012    548,027    566,376 580,883    610,521    
+Total Minutes of Use bn min 346             345             346             341             340             
+Average Minutes of Use per User (MoU) min 585             592             599             590             585             
+Data Usage Pb/day 73.6            76.5            83.0            88.4            93.6            
+Average Data Usage by 4G/5G Subscriber GB 18.5            19.2            20.2            21.7            23.0            Mobility KPIs Unit
+                                                                
+  
+C1 – Vodafone Idea External  
+Quarterly Report  Sep’26                                                                                                                                                     Page 4 of 18 
+ 
+   
+Quarterly Report  Sep’26  
+2. 
+Q2FY27 Financial Highlights   
+A.  
+Profit and Loss Account (Rs. Cr)  
+     
+Particulars Q2FY26 Q3FY26 Q4FY26 Q1FY27 Q2FY27
+Revenue from Operations 11,195          11,323          11,332          11,689          11,884          
+Opex 6,510            6,505            6,443            6,655            6,903            
+EBITDA 4,685            4,818            4,889            5,034            4,981            
+EBITDA Margin 41.9% 42.6% 43.1% 43.1% 41.9%
+Depreciation & Amortisation 5,568            5,551            5,518            5,467            5,505            
+EBIT (882)              (733)              (629)              (433)              (524)              
+Interest and Financing Cost (net) 4,683            5,635            4,886            4,925            4,975            
+Exceptional Items 38                  1,078            57,491          1,611            (462)              
+PBT (5,527)           (5,290)           51,976          (3,747)           (5,961)           
+Tax Expenses (3)                   (4)                   6                    7                    14                  
+PAT (5,524)           (5,286)           51,970          (3,754)           (5,975)           
+Other comprehensive income (net of Tax) (1)                   2                    16                  3                    (4)                   
+Total comprehensive income for the period (5,526)           (5,284)           51,986          (3,751)           (5,979)           
+Cash EBITDA (pre-IndAS 116) 2,246            2,358            2,432            2,475            2,498            
+Cash EBITDA Margin % 20.1% 20.8% 21.5% 21.2% 21.0%
+PAT adj. for exceptional item (5,562)           (6,364)           (5,521)           (5,365)           (5,513)           
+                                                                
+  
+C1 – Vodafone Idea External  
+Quarterly Report  Sep’26                                                                                                                                                     Page 5 of 18 
+ 
+   
+Quarterly Report  Sep’26  
+B. 
+Balance Sheet (Rs. Cr)  
+    
+Variance vs Jun
+31-Mar-26 30-Sep-26
+Assets
+Non-current assets
+Property, plant and equipment (including RoU assets) 64,240                   71,194                   
+Capital work-in-progress 1,454                      2,175                      
+Intangible assets 78,846                   88,508                   
+Intangible assets under development 13,820                   65                           
+Investments accounted for using the equity method -                          6                             
+Financial assets
+Other non-current financial assets 3,356                      4,739                      
+Deferred Tax Assets (net) 17                           9                             
+Other non-current assets 8,029                      7,313                      
+Total non-current assets (A) 169,762                174,009                
+Current assets
+Inventories 21                           1                             
+Financial assets
+Current investments 107                         1,425                      
+Trade receivables 1,969                      2,195                      
+Cash and cash equivalents 2,106                      3,967                      
+Bank balance other than cash and cash equivalents 3,625                      1,361                      
+Other current financial assets 2,131                      2,102                      
+Current Tax Assets (Net) 10                           -                          
+Other current assets 11,907                   12,349                   
+Total current assets (B) 21,876                   23,400                   
+Total Assets (A+B+C) 191,638                197,409                
+Equity and liabilities
+Equity
+Equity share capital 108,343                 108,343                 
+Other equity (144,101)                (152,641)                
+Total equity (A) (35,758)                 (44,298)                 
+Non-Current Liabilities:
+Financial liabilities
+Long term borrowings
+  Loans from banks and others 3,275                      1,134                      
+  Deferred payment obligations 142,473                 146,974                 
+Lease liabilities 36,221                   42,014                   
+Other non-current financial liabilities 5,293                      5,203                      
+Long term provisions 54                           76                           
+Deferred tax liabilities (net) 8                             8                             
+Other non-current liabilities 383                         362                         
+Total Non-Current Liabilities (B) 187,707                195,771                
+Current Liabilities:
+Financial liabilities
+Short term borrowings
+  Loans from banks and others 726                         3,091                      
+  Deferred payment obligations 2,981                      2,987                      
+Lease liabilities 6,852                      7,106                      
+Trade payables 8,826                      8,868                      
+Other current financial liabilities 14,431                   17,013                   
+Other current liabilities 5,597                      6,589                      
+Short term provisions 17                           23                           
+Current tax liability (net) 259                         259                         
+Total Current Liabilities (C) 39,689                   45,936                   
+Total equity and liabilities (A+B+C) 191,638                197,409                Particlulars

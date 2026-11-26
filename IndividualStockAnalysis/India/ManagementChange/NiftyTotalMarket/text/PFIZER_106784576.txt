@@ -1,0 +1,30 @@
+--- CIM_245_WebXMLFile_20260918_165450542_2.xml (the exchange's structured disclosure) ---
+NSESymbol: PFIZER ; Name Of The Company: Pfizer Limited ; Scrip Code: 500680 ; MSEISymbol: NOTLISTED ; ISIN: INE182A01018 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-18 ; Time Of Occurrence Of Event Or Information: 14:39:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-18 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Senior Director - Policy & Public Affairs ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sharad Goswami ; Effective Date Of Reason Of Change: 2026-09-25 ; Salutation: Mr. ; Name Of The Person: Sharad Goswami ; Designation Of Person: Senior Director - Policy & Public Affairs ; Date On Which The Resignation Letter Was Received: 2026-09-18 ; Effective Date Of Resignation: 2026-09-25 ; Company Remarks: NA
+
+--- CIMG_500680_18092026165445_1.pdf ---
+Annexure – B
+
+From: Goswami, Sharad Tarun <Sharad.Goswami@pfizer.com>
+Sent: Friday, September 18, 2026 2:39 PM
+To: Nevatia, Meenakshi <Meenakshi.Nevatia@pfizer.com>
+Cc: Parida, Reshma <Reshma.Parida@pfizer.com>
+Subject: Resignation
+
+September 18, 2026
+To,
+Managing Director
+Pfizer Limited
+Mumbai.
+Dear Madam,
+Sub: Resignation
+I hereby tender my resignation from the services of the Company, eƯective close of business on
+September 25, 2026, to pursue opportunities outside Pfizer.
+I would like to thank the management and colleagues for their support extended to me during my tenure
+with the Company.
+Yours truly,
+_________________
+Sharad Goswami
+
+1
+
+

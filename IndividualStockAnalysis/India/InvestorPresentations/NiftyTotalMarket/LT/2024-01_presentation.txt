@@ -1,0 +1,612 @@
+
+=== page 1 ===
+ 
+CIN : L99999MH1946PLC004768  Larsen & Toubro Limited  
+Secretarial  Departme nt 
+L&T House, Ballard Estate 
+Narottam  Morarje e Marg  
+Mumbai - 400 001, INDIA  
+Tel: +91 22 6752 5656    
+Fax: +91 22 6752 5858   
+www.Larsentoubro.co m 
+ 
+  
+ 
+ 
+ 
+SEC/ 2024                              January 30, 2024 
+ 
+ 
+BSE Limited  
+Phiroze Jejeebhoy Towers,  
+Dalal Street,  
+MUMBAI - 400 001  
+STOCK CODE: 500510  
+  
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Plot No.C/1, G Block  
+Bandra -Kurla Comp lex 
+Bandra (E), Mumbai - 400 051  
+STOCK CODE: LT  
+ 
+         
+Dear Sir s, 
+  
+Sub.:  Analyst Presentation .- Q3 / 9M  FY24  
+  
+ 
+Pursuant to Regulation  30 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we enclose herewit h a cop y of Analys t 
+Presentation on financials of  Q3 / 9M  FY24  which will be uploaded to our Investor 
+Website https://investors.larsentoubro.com . 
+ 
+We request you to take note of the same.  
+ 
+Thanking you,  
+ 
+      Your s faithfully, 
+         for LARSEN & TOUBRO LIMITED  
+                                                                                     
+ 
+ 
+ 
+                            SIVARAM NAIR A  
+                              COMPANY SECRETARY  
+               (FCS 3939)  
+Encl. as above 
+ 8 LARSEN & TOUBRO 
+=== page 2 ===
+Technology takes a bow
+Earnings Call Presentation 
+Q3 / 9M FY24
+30thJanuary, 2024TIMELESS HERITAGE     MODERN MARVEL
+=== page 3 ===
+2DisclaimerThis presentation contains certain forward looking statements concerning L&T’s future business prospects
+andbusiness profitability, which aresubject toanumber ofrisks anduncertainties andtheactual results
+could materially differ from those insuch forward looking statements .
+The risks and uncertainties relating tothese statements include, butarenotlimited to,risks and
+uncertainties regarding fluctuations inearnings, ourability tomanage growth, competition (both domestic
+andinternational), economic growth inIndia andthetarget countries forexports, ability toattract and
+retain highly skilled professionals, time and cost over runs oncontracts, ourability tomanage our
+international operations, government policies andactions with respect toinvestments, fiscal deficits,
+regulations, etc.,interest andother fiscal costs generally prevailing intheeconomy .Pastperformance may
+notbeindicative offuture performance .
+The company does notundertake tomake anyannouncement incase anyofthese forward looking
+statements become materially incorrect infuture orupdate anyforward looking statements made from time
+totime byoronbehalf ofthecompany .
+Representative image of Raintree Boulevard, Bengaluru
+=== page 4 ===
+3
+Key Highlights
+India’s longest sea bridge “Shri Atal Bihari Vajpayee Trans Harbour Link”, 
+inaugurated on 12thJanuary 2024
+
+=== page 5 ===
+25%
+ 19%
+ 20%
+16.6%
+ 15.2%Aided by strong ordering 
+momentum in the Middle EastDriven by a large order book On account of improved activity levels
+Vs 19.0% in Dec’22 Improves 280 basis points over Dec’22
+Electrolyser Semiconductor Design
+Pilot project goes liveSuccessfully manufactured 
+first electrolyser of 1MWIncorporated L&T Semiconductor 
+Technologies Limited (LTST)Buoyant Q3 performance supported by Capex tailwinds
+Update on New Business initiatives
+Data Centre
+=== page 6 ===
+Key Financial Indicators
+5(Amount in ₹ bn)
+607 760 25% Order Inflow 1544 2307 49%
+Order Book 3843 4698 22%
+464 551 19% Revenue 1250 1540 23%
+10.9% 10.4% EBITDA (%) 11.1% 10.6%
+25 29 20% Recurring PAT 64 87 36%
+26 29 15% Overall PAT 65 87 34%
+ Particulars 9M FY23 9M FY24
+Net Working Capital 19.0% 16.6%
+ROE (TTM) (%) 12.4% 15.2%9M FY23 9M FY24 (y-o-y) Q3 FY23 Q3 FY24 (y-o-y)  Particulars
+=== page 7 ===
+6
+Group Performance
+ Sudair Solar Plant, Saudi Arabia
+
+=== page 8 ===
+Q3 / 9M FY24 Order Inflow/Order Book
+7454254
+153506Order Inflow Order BookQ3 FY24 Q3 FY23
+Domestic International28631835
+31-Dec-22 31-Dec-2322%
+3843 4698
+2822102125%(Amount in ₹ bn)
+607760
+1039928
+50513799M FY24 9M FY231544230749%
+•Strong capex momentum in the Middle East drives order inflow; 9M FY24 order inflow surpasses FY23 level
+•International orders constitute 39% of the Dec’23 order book
+•Robust prospects pipeline @ ₹ 6.3 trillion in the near term
+=== page 9 ===
+Group Performance –Revenue to EBITDA
+•Strong execution momentum continues in
+theProjects andManufacturing portfolio
+•MCO expense variation isreflective of
+activity levels and cost pressures inthe
+Projects portfolio
+•Staff costs variation due toresource
+augmentation and salary hikes across
+businesses
+•SG&A expenses inline;PYhadimpact of
+merger integration costs inLTIMindtree
+* Manufacturing, Construction and Operating expenses
+**Finance cost of financial services business and finance lease activity
+8Q3 FY23 Q3 FY24 % Var Rs Billion 9M FY23 9M FY24 % Var
+463.9 551.3 19% Revenue 1250.1 1540.3 23%
+37% 44% International Rev. 37% 42%
+278.1 352.3 27% MCO Exp.* 726.2 956.9 32%
+15.8 14.4 -9% Fin. Charge Opex** 45.1 43.0 -5%
+95.3 102.5 8% Staff Costs 272.3 304.4 12%
+24.0 24.5 2% Sales & Admin. 67.2 73.5 9%
+413.2 493.7 19% Total Opex 1110.9 1377.7 24%
+50.7 57.6 14% EBITDA 139.2 162.6 17%
+10.9% 10.4% EBITDA % 11.1% 10.6%
+Remarks for the quarter
+8
+=== page 10 ===
+Group Performance –EBITDA to PAT
+•Finance cost commensurate with level and 
+price of borrowing
+•Higher other income is a function of average 
+treasury investments & improved yields 
+•Share of JV / Associate PAT primarily 
+comprises results of Power and Hydrocarbon 
+JVs. L&T IDPL profit consolidation has been 
+discontinued from Q4FY23 being classified as 
+“Held for Sale”
+•Recurring PAT growth reflective of strong 
+execution momentum and lower tax expense
+9Q3 FY23 Q3 FY24 % Var Rs Billion 9M FY23 9M FY24 % Var
+50.7 57.6 14% EBITDA 139.2 162.6 17%
+(8.0) (9.0) 13% Fin. Cost (23.9) (26.2) 9%
+(8.3) (9.2) 12% Depreciation (26.5) (26.6) 0%
+7.6 8.4 11% Other Income 21.9 31.2 42%
+(12.7) (11.8) -7% Tax Expense (30.2) (35.3) 17%
+(0.1) (0.0) -78% JV/Associates PAT Share (1.1) (0.3) -70%
+(4.7) (6.5) 38% Non-controlling Int. (15.5) (18.7) 21%
+24.6 29.5 20% Recurring PAT 63.9 86.6 36%
+1.0 -Exceptionals (net of tax 
+and NCI)1.0 -
+25.5 29.5 15% Reported PAT 64.8 86.6 34%Remarks for the quarter
+=== page 11 ===
+10
+10
+Segment Performance 
+Highlights
+Mansourah -Massarah Gold Processing Project
+10
+
+=== page 12 ===
+Buildings & Factories
+Development Projects
+Roads / Trans. Line *
+Segment Composition
+Buildings & Factories
+Others
+Realty
+Hyderabad Metro 
+Nabha Power
+Green BOO
+Development Projects
+L&T IDPL**
+Buildings & Factories
+Transportation Infra
+Heavy Civil
+Water
+Power T&D
+Infrastructure 
+Projects
+Minerals & Metals
+11**Held for Sale
+Power
+Green Energy EPC
+Hydrocarbon
+Energy Projects
+Hi
+-
+Tech Manufacturing
+Heavy Engineering
+Defence Engineering
+Electrolyser 
+Manufacturing
+Financial Services
+Retail Lending
+Wholesale Lending
+Smart World & 
+Communications*
+Industrial Machinery & 
+Products
+Others
+Realty
+Hyderabad Metro 
+Nabha Power
+Development Projects
+L&T IDPL**
+Green Hydrogen BOO
+Hyderabad Metro 
+Nabha Power
+Development Projects
+L&T IDPL**
+Energy Projects
+Hi
+-
+Tech Manufacturing
+*Effective from 1st April’23, a portion of Smart World and 
+Communication business has been transferred to LTTS that will 
+form part of IT&TS Segment and Military Communications business 
+to  Defence , as part of the Hi -Tech Manufacturing Segment. The 
+remaining (retained) business will continue to form part of Smart 
+World and Communication under “Others” Segment
+LTTS
+Digital Platforms
+Data Centers
+LTIMindtree
+IT & TS
+Semiconductor Design
+=== page 13 ===
+12Order Inflow Composition –Q3 / 9M FY24
+Q3 FY24 Rs. 760 Bn 9M FY24 Rs. 2307 BnGeography Segment
+Domestic , 33%Middle East , 
+52%USA & Europe , 
+13%
+ROW, 2%
+Infrastructure , 
+48%Energy , 26%Hi-Tech 
+Manufacturing , 2%
+Others , 3%
+Services , 21%
+Infrastructure , 
+57%Energy , 17%Hi-Tech 
+Manufacturing , 3%
+Others , 2%
+Services , 21%
+Domestic , 40%Middle East , 
+45%USA & Europe , 
+12%
+ROW, 3%
+=== page 14 ===
+13Order Book as on 31 -Dec-2023
+Segment Geography
+Domestic , 61%Middle East , 36%
+USA & Europe , 
+0.4%
+ROW, 3%
+Infrastructure , 
+68%Energy , 24%
+Hi-Tech 
+Manufacturing , 5%
+Others , 3%
+Order Book : ₹ 4698 Bn
+=== page 15 ===
+14Revenue Composition –Q3 / 9MFY24
+Q3 FY24 Rs. 551 Bn 9M FY24 Rs. 1540 BnGeography Segment
+Infrastructure , 
+50%Energy , 14%Hi-Tech 
+Manufacturing , 4%Others , 3%
+Services , 29%
+Domestic , 56%Middle East , 
+23%
+USA & Europe , 
+18%
+ROW, 3%
+Infrastructure , 
+48%Energy , 14%Hi-Tech 
+Manufacturing , 4%Others , 3%
+Services , 31%
+Domestic , 58%Middle East , 
+19%
+USA & Europe , 
+19%
+ROW, 4%
+=== page 16 ===
+15EBITDA Margin 6.7% 5.3%
+Infrastructure Projects Segment
+Net Revenue: 34%  
+11.4
+Domestic Domestic International
+544.6
+200.6554.9 745.2
+9MFY24(Amount in ₹bn)
+Net Revenue: 27%  
+EBITDA Margin 7.0% 5.5%
+174.1198.045.380.5278.5
+219.4
+Q3 FY23 Q3 FY24
+445.9
+109.0
+9MFY23
+•Strong ordering momentum in Middle East drives order inflow growth
+•Healthy near term prospects pipeline; possible deferment s due to impending domestic elections 
+•Robust execution momentum led by a growing order book 
+•Margin stays subdued; legacy jobs tapering off 
+=== page 17 ===
+16Energy Projects Segment
+Net Revenue: 26%  
+11.4
+Domestic Domestic International
+92.0
+121.3169.9 213.3
+9M FY24(Amount in ₹bn)
+Net Revenue: 24%  
+EBITDA Margin 8.7% 9.7%
+38.228.925.149.778.6
+63.3
+Q3 FY23 Q3 FY24
+110.5
+59.4
+9M FY23
+EBITDA Margin 8.5% 9.4%
+EBITDA M argin inclusive of recently started Green EPC business•Receipt of a mega order in Middle East boosts Hydrocarbon order book; Power business benefits from the receipt of an FGD order
+•Strong execution ramp upininternational projects drives Hydrocarbon revenue growth ;lower revenues inPower reflective ofdepleting
+Order Book
+•Hydrocarbon margin in line; favorable customer claim in Power aids margin improvement in Power
+=== page 18 ===
+17Hi-Tech Manufacturing Segment
+•Receipt of a multiple orders contributes to order inflow growth in Defence ; whereas deferrals impact Heavy Engineering order inflow
+•Strong execution momentum continues in Defence ; Heavy Engineering revenue growth impacted by subdued progress in Nuclear jobs
+•Defence margin reflective of job mix; customer claims aids Heavy Engineering margin improvement
+TheDefence Engineering business does notmanufacture anyexplosives norammunition ofanykind, including cluster munitions oranti-personnel landmines ornuclear weapons or
+components forsuch munitions .Thebusiness alsodoes notcustomise anydelivery systems forsuch munitionsEBITDA Margin 17.2% 16.1%
+Net Revenue: 30%  
+11.4
+Domestic Domestic International
+38.2
+19.144.0 57.3
+9M FY24(Amount in ₹bn)
+Net Revenue: 23%  
+EBITDA Margin 17.5% 16.7%
+13.2 13.83.56.920.7
+16.7
+Q3 FY23 Q3 FY24
+34.9
+9.1
+9M FY23
+EBITDA M argin inclusive of recently started Electrolyser manufacturing business
+=== page 19 ===
+18IT & Technology Services Segment
+•LTIMindtree revenue growth led by Manufacturing & Resources 
+•LTTS revenue growth led by Telecom & Hi -Tech and Medical Devices
+•Improved utilization levels drive margin improvement in LTIMindtree
+Revenues and margin of Digital Platforms business are not significant as they have been launched recently.EBITDA Margin 20.7% 20.5%
+Net Revenue: 9%  
+11.4
+Domestic LTIMindtree LTTS
+263.2
+69.0306.2 332.3
+9M FY24(Amount in ₹bn)
+Net Revenue: 5%  
+EBITDA Margin 18.9% 20.7%
+85.0 88.221.223.7112.0106.3
+Q3 FY23 Q3 FY24
+242.7
+63.4
+9M FY23
+=== page 20 ===
+Financial Services Segment
+19•Completed merger of L&T Finance Ltd, L&T Infra Credit Ltd and  andL&T Mutual Fund Trustee Ltd. with L&T Finance Holdings Ltd to create a 
+‘Single Lending Entity’
+•Q3 revolved around strong retail disbursements (highest ever in a quarter), better asset quality and run down of wholesale bo ok
+•Strong balance sheet; adequate Provision Coverage Ratio (PCR) and in built macro prudential buffers
+•Sufficient g rowth capital available (CRAR @ 24.93%)Retailisation Retail Book Growth Retail Asset Quality Retail ROA
+Lakshya 2026 Goals > 80% > 25% CAGRGS3  <3%
+NS3  <1%2.8% -3%Lakshya 2026 Goals achieved two years in advanceFintech@Scale
+Q3 Q3
+FY23 FY24
+33.5 34.1 2% Income from Operations 94.6 95.1 1%
+4.5 6.4 41% Reported PAT 11.2 17.7 57%
+3.0 4.2 42% PAT (Net of NCI) accruing to the group 7.4 11.7 58% % Var  Rs. Bn 9M FY23 9M FY24  % Var 
+
+=== page 21 ===
+20Development Projects Segment
+•Segment includes Hyderabad Metro and Power Development (Nabha Power) 
+•Improved ridership in Hyderabad Metro and higher PLF in Nabha drive segment revenue growth
+•Higher segment margin primarily due to improved Metro performance and consolidation of Nabha profits
+•Profit consolidation of L&T IDPL at PAT level has been discontinued from Q4FY23, post signing of definitive agreement for sale of st ake. The 
+investment in the JV is classified as “Held for Sale”EBITDA Margin 5.4% 25.6%Net Revenue: 15%  
+11.4
+Domestic Power Development HydMetro
+32.0
+11.638.0 43.6
+9M FY24(Amount in ₹bn)
+Net Revenue: 10%  
+EBITDA Margin 6.8% 16.2%
+9.2 10.01.82.212.211.1
+Q3 FY23 Q3 FY24
+32.9
+5.1
+9M FY23
+
+=== page 22 ===
+21Others Segment
+•Segment comprises Realty, Industrial Valves, Construction Equipment &Mining Machinery, Rubber Processing Machinery andSmart World &
+Communications (residual portion)
+•Q3 revenue growth and margin improvement mainly due to higher handover of residential flats in Realty EBITDA Margin 19.2% 20.7%Net Revenue: 26%  
+11.4
+Domestic International
+48.7
+4.842.5 53.5
+9MFY24(Amount in ₹bn)
+Net Revenue: 12%  
+EBITDA Margin 21.6% 24.4%
+Q3 FY23 Q3 FY24
+12.3 13.31.32.0
+39.0
+3.5
+9MFY23
+13.615.3
+=== page 23 ===
+Projects boost in India & ME (primarily KSA)
+INDIA SAUDI ARABIA
+Saudi Vision 2030 –A decadal capex super cycle
+Upstream & 
+DownstreamEnergy 
+TransitionTransportation & 
+Logistics
+Metals & Mining Water Treatment
+Growth continuing to be led by investments
+Rs trn FY20 FY21 FY22 FY23 FY24 BE
+Public Capex 13.9 14.1 16.7 19.6 25.1
+% of GDP 6.9% 7.1% 7.1% 7.2% 8.3%
+Private Capex -Visible revival 
+Public Private Partnership  –Yet to pick up
+Public Capex –Continues to be strong
+Stable macros
+✓Growth ✓Inflation ✓Current Account ✓Govt Balances 
+RISKS
+1.Continuing geo -political tensions   2. Elections     3.  Supply chain disruptionsInvestments of approx. USD 3.3 trillion planned between 
+2021 -2030
+Poised to benefit from investments across the five areas:
+OUTLOOK ORDER INFLOW REVENUE MARGIN
+22
+=== page 24 ===
+Thank You
+Investor Relations:
+P Ramakrishnan ( P .Ramakrishnan@larsentoubro.com )
+Harish Barai ( Harish.Barai@larsentoubro.com )
+Shalmali Dange ( Shalmali.Dange@larsentoubro.com )
+23
+=== page 25 ===
+24Balance Sheet
+₹ Billion Mar-23 Dec-23 Incr / (Decr)
+Equity & Reserves 893 819 -74
+Non Controlling Interest 142 155 13
+Borrowings - Financial Services 820 756 -64
+                    Development Projects 179 166 -13
+                    Others 187 282 95
+Sources of Funds 2221 2178 -43
+Fixed Assets (incl ROU assets) 164 179 15
+Intangible Assets & Investment Property 293 281 -12
+Loans towards Financing Activities 738 753 15
+Finance lease receivable 62 58 -5
+Net Non-Current Assets 180 191 11
+Current Investments, Cash & Cash 
+Equivalents581 456 -125
+Net Current Assets 193 250 57
+Assets held for Sale (net) 10 10 1
+Application of Funds 2221 2178 -43
+Gross Debt / Equity Ratio 1.14 1.23
+Net Debt / Equity Ratio 0.62 0.81
+=== page 26 ===
+25Cash Flow
+*Q3FY24 mainly includes tax on buyback of equity shares
+Q3 FY23 Q2 FY24 Q3 FY24 ₹ Billion 9M FY23 9M FY24
+        51.9         55.7         61.2   Operating Profit       146.3  168.8 
+        13.3         (8.0)          1.4   Changes in Working Capital [(Inc)/Dec]       (21.8)  (56.7)
+      (11.5)       (12.6)    (14.8)   Direct Taxes (Paid) / Refund [Net]       (38.4)  (39.0)
+53.7       35.0       47.8         Net Cash from / (used in) Operations (A) 86.0        73.1        
+      (13.7)       (10.7)       (13.9)   Net Investment in Fixed Assets (incl. Intangible & Investment Property)       (30.3)  (31.0)
+        21.9         (9.3)         (1.4)   Net (Purchase) / Sale of Long Term investments          11.2  (19.9)
+      (20.0)         59.4       (11.2)   Net (Purchase) / Sale of Current investments     (18.4)   76.7 
+         0.1          0.2            -    Loans/Deposits made with JV/Associate Cos.          0.2    0.2 
+         4.9          7.5          5.3    Interest & Dividend Received          12.1  19.5 
+(6.8)       47.3       (21.2)       Net Cash from /(used in) Investing Activities (B) (25.3)       45.5        
+        (0.4)         (6.1)         (2.0)   Issue of Share Capital / NCI         (4.2)    (8.1)
+      (23.9)         62.9          1.8   Net Borrowings [Inc/(Dec)]          14.7   18.8 
+         6.2         (3.2)       (28.7)   Loans towards financing activities (Net)         (19.5)  (12.0)
+        (8.4)       (46.0)         (6.1)  Interest & Dividend paid         (58.2)    (69.9)
+           -       (100.3)       (22.5)  Buyback of equity shares (including tax and expenses on buyback)*              -    (122.8)
+(26.5)     (92.7)     (57.4)       Net Cash from / (used in) Financing Activities (C) (67.3)       (194.0)     
+20.4       (10.5)     (30.8)       Net (Dec) / Inc in Cash & Bank (A+B+C) (6.6)          (75.5)       
+=== page 27 ===
+Segment Margin –Q3 FY24
+*Finance cost and tax provisions of parent company are reflected under Corporate
+**For Financial Services EBITDA is PBDT ₹ 100 crore = ₹ 1 bn
+26
+ Net Revenue  EBITDA  EBITDA
+%  Net Revenue EBITDA EBITDA
+% 
+ Infrastructure Projects Segment                 21944                    1527 7.0%                           27845                    1522 5.5%
+ Energy Projects Segment                    6333                      548 8.7%                             7864                      760 9.7%
+ Hi-Tech Manufacturing Segment                    1673                      293 17.5%                             2066                      344 16.7%
+ Others Segment                    1361                      294 21.6%                             1530                      373 24.4%
+ Total (Projects & Manufacturing)                 31310                    2662 8.5%                           39305                    2999 7.6%
+ IT & Technology Services Segment                 10625                    2013 18.9%                           11196                    2319 20.7%
+ Financial Services Segment                    3348                      660 19.7%                             3407                      853 25.0%
+ Developmental Projects Segment                    1105                        75 6.8%                             1220                      198 16.2%
+ Total (Services & Concessions)                 15079                    2748 18.2%                           15823                    3370 21.3%
+ Total                 46389                    5410 11.7%                           55128                    6369 11.6%
+Particulars IT&TSFinancial 
+Services**Dev. ProjectsProjects & 
+Manufacturing*Corporate Total
+EBITDA                    2319                      853                      198                             2999                      228                    6597 
+Depreciation                    (348)                      (29)                      (79)                             (458)                        (5)                    (921)
+Segment Result                    1971                      824                      118                             2541                      222                    5676 
+Finance Cost & Tax Expense                    (565)                    (185)                    (277)                             (112)                    (943)                 (2081)
+Non-controlling interest                    (440)                    (216)                         -                                      2                           9                    (645)
+Share in profit/(loss) of JV and associate                        (0)                                  (1)                        (2)
+PAT                      966                      423                    (159)                             2429                    (712)                    2947  Segment (₹ Crore)  Q3 FY23 
+EBITDA to PAT (Q3 FY24) Q3 FY24 
+=== page 28 ===
+Segment Margin –9M FY24
+*Finance cost and tax provisions of parent company are reflected under Corporate
+**For Financial Services EBITDA is PBDT ₹ 100 crore = ₹ 1 bn
+27
+ Net Revenue  EBITDA  EBITDA
+%  Net Revenue EBITDA EBITDA
+% 
+ Infrastructure Projects Segment                 55495                    3733 6.7%                           74516                    3972 5.3%
+ Energy Projects Segment                 16991                    1452 8.5%                           21334                    2013 9.4%
+ Hi-Tech Manufacturing Segment                    4401                      755 17.2%                             5734                      925 16.1%
+ Others Segment                    4246                      815 19.2%                             5349                    1105 20.7%
+ Total (Projects & Manufacturing)                 81133                    6755 8.3%                         106933                    8015 7.5%
+ IT & Technology Services Segment                 30618                    6341 20.7%                           33229                    6812 20.5%
+ Financial Services Segment                    9459                    1684 17.8%                             9510                    2422 25.5%
+ Developmental Projects Segment                    3796                      204 5.4%                             4362                    1116 25.6%
+ Total (Services & Concessions)                 43873                    8229 18.8%                           47102                 10350 22.0%
+ Total               125006                 14984 12.0%                         154034                 18365 11.9%
+Particulars IT&TSFinancial 
+Services**Dev. ProjectsProjects & 
+Manufacturing*Corporate Total
+EBITDA                    6812                    2422                    1116                             8015                    1011                 19376 
+Depreciation                 (1023)                      (87)                    (241)                           (1275)                      (36)                 (2661)
+Segment Result                    5789                    2334                      876                             6740                      975                 16715 
+Finance Cost & Tax Expense                 (1642)                    (571)                    (928)                             (337)                 (2671)                 (6149)
+Non-controlling interest                 (1302)                    (595)                         -                                      4                        21                 (1871)
+Share in profit/(loss) of JV and associate                        (0)                                (32)                      (32)
+PAT                    2846                    1169                      (53)                             6375                 (1674)                    8663 EBITDA to PAT (9M FY24) Segment (₹ Crore)  9M FY23  9M FY24 
+=== page 29 ===
+28Breakup of Energy and Hi -Tech Manufacturing Segment
+Hi-Tech Manufacturing SegmentEnergy Segment
+ Q3 FY23  Q3 FY24  Y-o-Y  ₹ Bn  9M FY23  9M FY24  Y-o-Y 
+90.5 132.8 47% Energy Segment 218.6 606.7 >100%
+88.5 123.8 40% Hydrocarbon 204.4 582.2 >100%
+2.0 9.0 >100% Power 14.2 24.5 73%
+63.3 78.6 24% Energy Segment 169.9 213.3 26%
+53.6 69.6 30% Hydrocarbon 141.0 189.5 34%
+9.8 9.0 -7% Power 28.9 23.8 -18%
+8.7% 9.7% 100 bps Energy Segment 8.5% 9.4% 90 bps
+9.6% 9.5% -10 bps Hydrocarbon 9.7% 9.7%
+5.1% 10.6% 550 bps Power 3.9% 8.8% 490 bpsOrder Inflow
+Revenue
+EBITDA Margin
+ Q3 FY23  Q3 FY24  Y-o-Y  ₹ Bn  9M FY23  9M FY24  Y-o-Y 
+19.3 20.4 6% Hi-Tech Manufacturing 71.9 54.9 -24%
+13.8 10.6 -23% Heavy Engineering 33.5 24.1 -28%
+5.5 9.8 77% Defence Engineering 38.4 30.7 -20%
+16.7 20.7 23% Hi-Tech Manufacturing 44.0 57.3 30%
+8.9 9.5 6% Heavy Engineering 21.6 27.2 26%
+7.8 11.2 43% Defence Engineering 22.4 30.1 34%
+17.5% 16.7% -80 bps Hi-Tech Manufacturing 17.2% 16.1% -110 bps
+16.3% 20.4% 410 bps Heavy Engineering 15.6% 18.5% 290 bps
+18.9% 15.4% -350 bps Defence Engineering 18.6% 14.7% -400 bpsRevenue
+EBITDA MarginOrder Inflow
+=== page 30 ===
+29Share in Profit/(Loss) of JVs/Associates
+*Profit consolidation ofL&TIDPL atPATlevel hasbeen discontinued from Q4FY23,post signing ofdefinitive
+agreement forsaleofstake .Theinvestment intheJVisclassified as“Held forSale”
+**Others mainly includes Hydrocarbon andDefence JVs
+ Q3 FY23  Q3 FY24  ₹ Bn  9M FY23  9M FY24 
+0.02 (0.04) L&T Power JVs (0.01) (0.13)
+(0.23) 0.00 L&T IDPL Group* (0.76) 0.00
+0.14 0.03 Others** (0.30) (0.19)
+(0.07) (0.02) Total (1.06) (0.32)

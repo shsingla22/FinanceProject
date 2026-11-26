@@ -1,0 +1,317 @@
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+June 6, 2026  
+Sc no - 86 
+ 
+Dear Sir/Madam , 
+  
+Sub:  Business Responsibility and Sustainability Report for the Financial Y ear 2025 -26 
+ 
+Pursuant to Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirement s) Regulations, 2015 , we are enclosing herewith the 
+Business Responsibility and Sustainability Report (‘BRSR’) for the Financial  Year 2025 -26, 
+along with an Independent  Reasonable  Assurance Opinion Statement  on the BRSR Core 
+Indicators  (‘Statement’), provided by KPMG Assurance and Consulting Services LLP . The BRSR 
+and Statement both form an integral part of the Integrated Annual Report of Tata  Motors Limited  
+(formerly TML Commercial Vehicles Limited)  (‘the Company’)  for the Financial Y ear 2025 -26. 
+ The above information is also being made available on the Company’s website at  
+https://cv.tatamotors.com/annual -reports   
+ This is for information of the Exchanges and the Members.  
+ 
+Yours faithfully,  
+Tata Motors Limited  
+(formerly T ML Commercial Vehicles  Limited)  
+ 
+ 
+ 
+Ranjan Kumar  
+General Counsel and Company Secretary  
+ 
+ 
+Encl: a s above  BSE Limited    
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort  
+Mumbai 400 001 National Stock Exchange of India Ltd.  
+Exchange Plaza, C -1, Block G,  
+Bandra- Kurla Complex,  
+Bandra (East), Mumbai 400 051  
+Business Responsibility and  
+Sustainability Report
+I. Details of the listed entity i.e Tata Motors Limited (Formerly TML Commercial Vehicles Limited)
+1. Corporate Identity Number (CIN): L29102MH2024PLC427506
+2. Name of the Listed Entity: Tata Motors Limited (Formerly TML Commercial Vehicles Limited)
+3. Year of Incorporation:  2024
+4. Registered Office Address: Bombay House, 24, Homi Mody Street, Mumbai, Maharashtra- 400001, India
+5. Corporate Address: Bombay House, 24, Homi Mody Street, Mumbai, Maharashtra- 400001, India
+6. E-mail:  investors@tatamotors.com
+7. Telephone:  +91 22 66658282
+8. Website:  https://cv.tatamotors.com
+9. Financial year for which reporting is 
+being done:  2025-26
+10. Name of the Stock Exchange(s) where 
+shares are listed: BSE Limited
+National Stock Exchange of India Limited.
+11. Paid-up Capital: H736 crore 
+12. Name and contact details (telephone, 
+email address) of the person who may 
+be contacted in case of any queries on 
+the BRSR report: Name: Mr. Jyotindran Sastabhavan Kutty
+Designation:  Chief Sustainability Officer
+Telephone Number: +91 20 6613 2781
+E-mail address: kutty@tatamotors.com
+ 13. Reporting boundary: TML Commercial Vehicles Limited (now Tata Motors Limited) (“TML” or the “Company” or “Tata 
+Motors”) was incorporated in June 23, 2024 as a wholly owned-unlisted entity, to house the commercial vehicle business 
+of erstwhile Tata Motors Limited (now Tata Motors Passenger Vehicles Limited). TML Commercial Vehicles Limited had 
+never entered into any business transaction until the composite Scheme of Arrangement which was sanctioned by 
+the Hon’ble National Company Law Tribunl, Mumbai Bench. Pursuant to the Scheme of Arrangement, the commercial 
+vehicles business of erstwhile Tata Motors Limited was transferred with effect from October 1, 2025 and the adherence 
+and reporting obligation under SEBI Listing Regulation were applicable since date of listing on the said Stock Exchanges. 
+The Company was listed on both the Stock Exchanges on November 12, 2025.
+  For the current financial year, the Company has reported data on a standalone basis for the full twelve-month period, 
+i.e., April 2025 to March 2026, across all applicable indicators. Pursuant to the transfer of the Chinchwad facility in 
+Pune, Maharashtra to Tata Motors Passenger Vehicle Limited (TMPVL) effective October 1, 2025, disclosures across all 
+parameters for this facility have been presented for April–September 2025*. For the previous financial year, disclosures 
+cover a nine-months period from July-2024 to March-2025,  since incorporation to the end of that financial year. The 
+Company is maintaining uniformity between financial and non-financial reporting standards, and necessary transparency 
+in reporting information, reciprocating data of nine-months period from July-2024 to March-2025, pertaining to 
+erstwhile Tata Motors Limited (now known as Tata Motors Passenger Vehicles Limited). Accordingly:
+	 FY 2025–26 disclosures reflect performance for the complete twelve-month reporting period.
+	 FY 2024–25 disclosures are limited to nine months and would not be comparable with the current year’s data.
+  Reporting of environmental and safety related KPIs such as energy, emissions, water, waste under Principle 3 and 6  
+do not include the non-manufacturing locations  (regional and corporate offices) of Tata Motors. The Company has 
+evaluated and does not believe that this exclusion is material both qualitatively and quantitatively to the reporting 
+under BRSR. The scope of this Report excludes the joint operations of Tata Cummins Private Limited, as the Company 
+does not exercise operational control over these operations.
+  This is the First Year of reporting and the assurance has been sought on the BRSR Core and other selected indicators for FY26.
+  This approach ensures appropriate representation of the Company’s sustainability performance within the defined 
+reporting boundary while maintaining transparency regarding the operations post-demerger.
+  The information/data measurement techniques used, and the basis of calculations and estimates have been mentioned 
+in the relevant sections of this report.
+ *For Environment KPIs, data for April 2025 to September 2025 has been considered however, the facility belongs to TMPVL and does not form 
+part of TML financial statement.SECTION A: GENERAL DISCLOSURES
+144
+ 14. Name of Assurance Provider: KPMG Assurance and Consulting Services LLP (KPMG)
+ 15.  Type of assurance obtained:  Reasonable assurance has been obtained on BRSR core indicators and limited assurance 
+has been provided on select BRSR indicators (which are not part of BRSR core).
+II. Products/services
+ 16. Details of business activities (accounting for 90% of the Turnover):
+Description of main activity Description of business activity % of turnover 
+Automobile Manufacturing Manufacturing, Sales & Marketing, and Customer Support 98
+ 17. Products / Services sold by the entity (accounting for 90% of the entity’s turnover):
+Sr. No. Products/ Services NIC Code % of total turnover contributed
+1 Vehicles 291, 292, 293 85
+2 Spare parts 453 10
+III. Operations
+ 18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants Number of offices Total
+National 7* 35 42
+International - 2 2
+   *The seven facilities include the Chinchwad facility of the passenger vehicle business in Pune, Maharashtra, which was part of Tata Motors 
+Limited for the first six months of the FY26 (until September 2025). Post the demerger, the facility was retained in Tata Motors Passenger 
+Vehicle Limited.
+ 19. Markets served by the entity:
+  a) Number of locations: 
+Locations Number
+National (no. of states) Pan - India
+International (no. of countries) 45+
+  b) What is the contribution of exports as a percentage of the total turnover of the entity?
+   4%
+  c) A brief on types of customers: 
+   The Company  caters to a diverse range of customers with varying needs and requirements. Customers  
+include - fleet owners, transporters, government agencies, defense, public transport utilities, small and medium 
+enterprises (SMEs), agriculture and rural segment, mining and construction industry etc.
+IV. Employees
+ 20. Details as at the end of financial year: FY26
+  a) (i) Employees and workers (including differently abled)*:
+Sr. 
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Employees
+1. Permanent employees (D) 7,919 7,243 91 676 9
+2. Other than Permanent employees (E) 72 45 63 27 38
+3. Total Employees (D + E) 7,991 7,288 91 703 9
+Business Responsibility and Sustainability Report
+145
+Sr. 
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Workers
+4. Permanent (F) 12,716 12,166 96 550 4
+5. Other than Permanent (G) 19,871 15,937 80 3,934 20
+6. Total Workers (F + G) 32,587 28,103 86 4,484 14
+   *Pursuant to the applicability of Labour Codes on 21 November 2025, a defined segment of the workforce may qualify for classification 
+as ‘workers’, and corresponding financial provisions have been recognized in the financial statements. However, separate systems for 
+identifying relevant worker categories and ensuring compliance with the Labour Codes are in the process of implementation.
+   Tata Motors, a flagship company of the Tata Group, has built its remarkable journey on a foundation of inclusivity, 
+empathy, and strong cultural values. As a leader in the automotive sector, it has taken significant strides in 
+promoting diversity, equity, and inclusion (DEI) across its workforce, supply chains, and customer base. This holistic 
+approach is deeply rooted in the Tata Group’s philosophy, which centres on building a sustainable and equitable 
+world for all. Tata Motors’ commitment to these principles has positioned it as not only a leader in the automotive 
+sector but also a champion of social equity and inclusivity. 
+   The Company respects differences that are fundamental to an individual’s identity, such as age, gender, ethnicity, 
+race, physical ability, mental ability, and sexual orientation, as well as latent and invisible differences that shape our 
+perspectives, like education, work experience, parental status, etc. The Company is committed to being an equal 
+opportunity employer, maintaining dignity and respect for all. 
+   The Company has a clear Equal Opportunity Employer Policy  adhering with how DEI is defined, establishing an 
+environment where diversity is embraced as a natural and integral part in the Company. The Company believes 
+and have witnessed-that a gender-balanced workforce leads to increased productivity, better decisions, enhanced 
+collaboration, and more innovative ideas. The Company is gradually focusing on moving beyond gender and have 
+received well-accepted dipstick research to support this as well.
+   In order to mobilize DEI in our DNA, the 10-point Lighthouse Approach has been framed to build a standardized, 
+mature model of DEI that helps to stay abreast of the latest societal developments and simultaneously implement 
+the same in the organization. These include enhancing gender diversity in the workforce along with representation 
+at the leadership level, with the goal of having 10% women in leadership by 2026. Adhering to the Rights of 
+Persons with Disabilities Act, 2016, the Company also has hiring pilots for the differently abled, along with making 
+the working environment conducive for them to function well through steps like infrastructure readiness. This 
+year, the Company has hired a total of 84 PwDs and the hiring drive is still on owing to the positive feedback 
+received from business.
+   The Company is working towards creating an inclusive workplace culture through its policies and processes. The 
+Company organizes sensitisation and awareness campaigns to help create an open mind and culture to leverage 
+diversity at the workplace. The Company also keeps enhancing its DEI principles in the workforce through processes 
+like ISO DEI Audits, Culture Surveys, etc., thereby making its initiatives more holistic in contributing better towards 
+the empowerment of vulnerable sections of society and thus towards building a better future for all.
+   (ii) Differently abled employees and workers:
+Sr. 
+No.Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+Differently Abled Employees
+1. Permanent employees (D) 1 1 100 - -
+2. Other than Permanent employees (E) 3 3 100 - -
+3. Total Employees (D + E) 4 4 100 - -
+Differently Abled Workers
+4. Permanent (F) 2 2 100 - -
+5. Other than Permanent (G) 247 194 78 53 21
+6. Total Workers (F + G) 249 196 79 53 21
+Business Responsibility and Sustainability Report
+146
+   The Company have an established Equal Opportunity Employer Policy. The Company is committed to providing equal 
+opportunity to all its employees without regard to their race, caste, gender, religion, colour, nationality, disability 
+etc. All employee (includes permanent, temporary, trainees and contract employees) are treated with dignity with 
+a view to maintain a safe work environment. Moreover, we recognize the Rights of Persons with Disabilities (RPWD) 
+Act of 2016 in India serving as a guiding light, mandating measures to ensure equal opportunities and access for 
+people with disabilities. As the Company strives to adhere to these regulations, they are presented with various 
+strategies to enhance premise and office accessibility, especially in locations that pose unique challenges.
+ 21. (a) Participation / Inclusion / Representation of women:
+Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 8 1 12.50
+Key Management Personnel 2* - -
+   * Key Managerial Personnel excludes Managing Director and CEO as already included under Board of Directors.
+ 22. (i) Turnover rate for permanent employees and workers:
+FY26 FY25 (Q2-Q4)
+Male Female Total Male Female Total
+Permanent Employees  6.84% 7.61% 6.90% 7.21% 10.39% 7.49%
+Permanent Workers 3.11% 0.93% 3.04% 3.40% 3.06% 3.39%
+   Note: Turnover rate includes those who leave voluntarily or involuntarily due to dismissal, termination, retirement or death.
+V. Holding, Subsidiary and Associate Companies (including Joint Ventures)
+ 23. Names of holding / subsidiary / associate companies / joint ventures:
+  Refer to Form AOC-1 provided in this Integrated Annual Report for the list of subsidiary companies. From the list of 
+subsidiary companies mentioned in AOC-1, the subsidiaries listed below participate in the Business Responsibility 
+initiatives of the Company. However, this BRSR covers information on sustainability information of the Company only.
+  1. Tata Motors Global Services Limited (Formerly known as TML Business Services Limited)
+  2. TML Smart City Mobility Solutions Limited
+  3. Tata Motors Body Solutions Limited (Formerly known as Tata Marcopolo Motors Limited)
+  4. Tata Daewoo Mobility Company Ltd. - South Korea
+  5. Automobile Corporation of Goa Limited
+  6. TML CV Mobility Solutions Limited
+  7. TML Smart City Mobility Solutions (J&K) Private Limited
+VI. CSR Details
+ 24. CSR Activities
+  I. Whether CSR is applicable as per section 135 of Companies Act, 2013:
+   No. CSR spending/ activities were undertaken voluntarily for the financial year under review. 
+  II. Turnover:
+   H76,112 crore
+  III. Net worth:
+   H12,700 crore
+Business Responsibility and Sustainability Report
+147
+VII. Transparency and Disclosures Compliances
+ 25.  Complaints / Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible  
+Business Conduct:
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance redressal 
+mechanism in placeFY26 FY25 (Q2-Q4)
+If Yes, then provide web-link 
+for grievance redress policyNumber of 
+complaints 
+filedNumber of 
+complaints 
+pending 
+resolution at 
+the end of 
+the yearRemarksNumber of 
+complaints 
+filedNumber of 
+complaints 
+pending 
+resolution at 
+the end of 
+the yearRemarks
+Communities Yes. The Company has 
+a community feedback 
+mechanism across its CSR 
+projects, and any aggrieved 
+individuals or groups can 
+express their grievances 
+through this annual exercise 
+or on an as-and-when-
+required basis.
+The Whistleblower Policy 
+has been formulated with a 
+view to provide a mechanism 
+for any other stakeholders 
+of the Company, including 
+communities, to approach the 
+Ethics Counsellor, Apex Ethics 
+Committee, Chairperson of 
+the Audit Committee of the 
+Company, or other channels 
+set out in this Policy, to 
+report violations of the Code 
+of Conduct or any other 
+grievances.Nil Nil Nil Nil
+All WIP cases as 
+on 31st March, 
+2026 were closed 
+with necessary 
+recommendationsInvestors 
+(other than 
+shareholders)Yes, the dispute resolution 
+mechanism is available at 
+https://www.tatamotors.
+com/newsroom/investor-
+contacts/Nil Nil Nil Nil
+Shareholders Yes, the shareholders can 
+register their grievances on 
+SEBI-SCORES https://scores.
+sebi.gov.in/  and under ODR 
+mechanism https://smartodr.
+in/login89 24 183 22
+Employees and 
+workersYes. the Whistleblower Policy 
+has been formulated with a 
+view to provide a mechanism 
+for directors, employees as 
+well as other stakeholders 
+of the Company to approach 
+the Ethics Counsellor / 
+Apex Ethics Committee / 
+Chairperson of the Audit 
+Committee of the Company 
+or other channels set out in 
+this policy, to report violations 
+of the Code of Conduct or any 
+other grievances.35 1 38 1
+Business Responsibility and Sustainability Report
+148

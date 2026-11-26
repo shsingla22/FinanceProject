@@ -1,0 +1,656 @@
+
+=== page 1 ===
+Corporate Office - One Skymark, Tower -D, Pl ot No. H-10B, Sector -98, Noida -201304  
+T: +91120 4770770      F: +91120 4770771     CIN: L72200DL2000PLC108985  
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi -110019  
+One 97 Communications  Limited 
+July 22, 2025 
+BSE Limited 
+Department of Corporate Services, 
+Phiroze Jeejeebhoy Towers,      
+Dalal Street, Fort,  
+Mumbai – 400 001  
+Scrip Code: 543396 National Stock Exchange of India Limited 
+The Listing Department, 
+Exchange Plaza,  
+Bandra Kurla Complex, 
+Mumbai – 400 051 
+Symbol: PAYTM 
+Sub.:  Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 - Earnings Release 
+Dear Sir / Ma’am, 
+In continuation to our earlier letter dated July 12, 2025, and pursuant to Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 read with NSE Master Circular No. 
+NSE/CML/2025/25 dated April 30, 2025 and BSE Master Circular No. dated April 30, 2024, please find 
+enclosed copy of Earning Release for the quarter ended June 30, 2025.  
+The Earning Release will also be hosted on the Company's website viz. 
+h t tp s: //ir .pa y tm .c om /financialr e sults. 
+Kindly take the same on record. 
+Thanking you 
+Yours Sincerely, 
+For One 97 Communications Limited 
+Sunil Kumar Bansal 
+Company Secretary and Compliance Officer 
+E ncl: As Above 
+=== page 2 ===
+1Earnings Release
+For the quarter ending June 2025
+22ndJuly 2025
+
+=== page 3 ===
+2Earnings Release  |Q1 FY 2026
+Revenue Growth Momentum Continues
+Jun-24 Sep-24 Dec-24 Mar-25 June-25₹1,828 Cr
+₹1,660 Cr
+₹1,502 Cr₹1,918 Cr
+(Qtrending)₹1,841 Cr28% YoYFinancial Highlights for Q1 FY 2026:
+•Operating revenue grew by 28% YoY to ₹1,918 Cr, due to increase in number of 
+subscription merchants, higher GMV and growth in revenues from distribution of financial 
+services
+•Contribution profit at ₹1,151 Cr (up 52% YoY), with a contribution margin of 60% (up 10 
+percentage points YoY), driven by improved net payment revenue, higher share of 
+distribution of financial services revenue, and reduction in direct expenses
+•EBITDA and PAT turned profitable at ₹72 Cr (margin of 4%) and ₹123 Cr respectively, 
+demonstrating AI -led operating leverage, disciplined cost structure and higher other 
+income
+•Cash balance of ₹12,872 Cr, providing capital flexibility to expand merchant payments, 
+distribution of financial services, and AI -led innovations
+Business Highlights:
+•Net payment revenue was up 38% YoY to ₹529 Cr, led by growth in high quality 
+subscription merchants and increase in payment processing margins
+•Distribution of financial services revenue increased by 100% YoY to ₹561 Cr, driven by 
+growth in merchant loans, trail revenue from DLG portfolio, and improved collection 
+performance
+•Undisputed leadership in merchant payments continues with 1.30 Cr merchant device 
+subscriptions across MSMEs and enterprise payment merchantsPaytm Solidifies Unrivalled Leadership in India's 
+Merchant Payment Business, turns Profitable with ₹123 
+Cr PAT in Q1 FY26
+Company achieves milestone of profitability across all key financial metrics, including EBITDA 
+and PAT, and expects further improvement in profitability 
+For like -to-like comparison, Revenue and PAT excludes one -time items as below:
+1. ₹70 Cr of UPI incentive in Q4 FY 2025, 2. Gain from sale of entertainment ticketing business of ₹1,345 Cr in Q2 FY 2025 3. One-time 
+exceptional charge of ₹522 Cr towards acceleration of ESOP expense and other impairments in Q4 FY 2025Achieved PAT Profitability
+₹(840) Cr₹(415) Cr₹(208) Cr₹(93) Cr₹123 Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-25
+(Qtrending)₹ 963 Cr YoY 
+Improvement
+=== page 4 ===
+3Earnings Release  |Q1 FY 2026
+Paytm is India’s Full Stack Merchant Payment Leader 
+serving MSMEs and Enterprise Payment Merchants 
+Over the past 15 years, Paytm has built India’s first AI powered omni -channel payment platform and pioneered 
+products to cater to all merchants. Since our inception, we are the only platform which provides an end -to-end 
+seamless payments tech stack including hardware, software and services along with business specific 
+solutions. We are proud to have contributed towards the country’s progress on digital infrastructure and 
+financial inclusion.
+Our technology investments combined with the largest fleet on the street has enabled us to build the largest 
+merchant acquiring platform. Through this platform, we have deepened market penetration, including in tier -2 
+and tier -3 cities, and reinforced our leadership by delivering best -in-class products and service to India’s 
+merchant ecosystem.
+Our subscription merchants, who pay for devices and services, are at an all time high at 1.30 crores. We see 
+potential of over 10 Cr merchants who will accept payments and we believe that, over a period of time, 40 -
+50% of these merchants will need subscription services for managing their business needs. We are uniquely 
+positioned to capitalize on the vast and growing market, especially as we have strategically identified 
+monetisation opportunities across the merchant ecosystem.
+Winning Enterprise Merchants with AI Intelligence
+We have a leading position in offering payment platforms to enterprise merchants, through our online 
+payment gateway, as well as All -in-One POS (EDC terminals for card and QR acceptance) which supports 
+all payment methods with industry leading success rates. We have also pioneered and scaled products 
+like Card Soundbox and Dynamic QR, to address market gaps that existed before our entry into this 
+segment. Our monetization is enhanced through affordability offerings (such as EMI), DCC, along with 
+commerce services solutions including advertising and deals via the Paytm app. We are also investing to 
+expand offerings, including issuance products solutions, positioning us as a unique end -to-end partner 
+offering omni -channel payments, financing, and commerce services.
+Offers AI -powered Full Tech nology Stack
+ Across Enterprise Merchants and MSMEs 
+
+=== page 5 ===
+4Earnings Release  |Q1 FY 2026
+Merchant Payments -led Model, Offers Large Scale Monetisation 
+Opportunity
+Our payments business serves as a core merchant acquisition engine, operated at break -even, with significant 
+monetisation potential in payments value -added services, merchant loan distribution and enabling commerce 
+through marketing services. These monetisation levers, particularly merchant loan distribution, offers significant 
+profitability, while giving us the financial ability to continue to invest in the merchant ecosystem. 
+Paytm’s in -house AI platforms such as Paytm ARMS (merchant lifecycle insights platform) and Paytm Pi (fraud and 
+risk detection system) automate merchant onboarding, fraud detection, segmentation and pricing optimization. This 
+creates a high -retention flywheel and lifetime merchant value that is unmatched by competitors.In enterprise offline merchants, there are 2 types of 
+merchant relationships. 1) POS provider model, where the 
+bank owns the merchant relationship, with the payment 
+company providing the hardware, and 2) Payment 
+gateway model, where the payment company owns the 
+merchant relationship and the bank is used for fulfilment. 
+The payment gateway model enables payment players to 
+better identify and cater to specific merchant needs, 
+improve retention and drive superior lifetime value. Paytm 
+has primarily focused on the full stack payment gateway 
+model, wherein we aggregate all major payment 
+instruments, negotiate rates with our merchant partners as 
+well as acquiring banks, provide cutting -edge hardware 
+and technology, and earn payment processing margins on 
+every transaction in addition to the subscription fees. We 
+have also started integrating with multiple brands and 
+have tied -up with banks under the POS provider model. 
+Our model outperforms traditional capex -led POS provider 
+model, and we have become a major player in offline 
+enterprise payments within 6 years of starting. 
+AI is at the heart of it all. From real -time onboarding to 
+fraud detection, churn prediction, and personalized cross -
+sell, our intelligent systems deliver merchant -specific 
+insights and operational excellence, making Paytm the 
+platform of choice for India’s enterprise merchants.
+From Cash to Paytm: Digitising India’s MSME Sector
+We continue to drive financial inclusion for India’s MSME sector, which has traditionally relied on cash and had 
+limited access to digital payments. Our zero -cost QR solution has enabled over 4 crore MSME merchants to join 
+the digital economy. Building on this, our Soundbox innovation equipped with real -time voice payments 
+confirmations has increased merchant engagement and created a growing subscription -based revenue stream. 
+The adoption of these devices has enhanced merchant trust, loyalty, improved retention, and boosted transaction 
+volumes. Additionally, our partnerships with financial institutions have enabled tailored lending products aligned 
+with MSME cashflows, advancing the government's vision of a digital economy and financial inclusion. POS
+Soundbox
+
+=== page 6 ===
+5Earnings Release  |Q1 FY 2026
+Driving Growth and Efficiency through Embedded 
+AI Capabilities
+We were early and aggressive adopters of AI, and now use its potential of assimilation into each product and 
+service journey. True to our DNA, we use state of the art AI tools, and build AI -first platforms to get deep 
+contextual data insights and drive enhancements and efficiencies in our business. Across the organisation, our 
+workflow is moving towards AI led systems to become machine first, supervised by humans. This has 
+accelerated product development, enhanced risk and fraud management, and is helping us deliver superior 
+products faster, resulting in elevated customer experience which will fuel our next phase of growth
+Driving efficiency through Machine first systems, supervised by humans:
+•Merchant Onboarding -AI led quality checks for onboarding and profile updates (MCC Deduction from 
+Shop Photo, Name Match Algo, OCR). This approach has significantly contributed to growth of high quality 
+device merchants
+•Transaction Monitoring -Our proprietary, real -time fraud and risk detection engine continuously monitors 
+merchant activity to flag anomalies and predict chargeback risks, including scenarios such as HTR (High 
+Ticket Refund). This ensures a proactive stance on transactional integrity and reduces downstream risk
+•Customer Delight -We endeavour to provide end -to-end resolution of merchant and consumer queries 
+through 24x7, conversational AI agents delivering highly personalised, contextual assistance via text and 
+voice across 11+ languages, ensuring a consistently high satisfaction experience across our ecosystem
+Creating AI -led incremental revenue opportunities:
+•Enhanced cross -sell -Using AI -driven insights via our ‘Paytm ARMS’ platform, we map the right product to 
+the right merchant. Through providing real -time, data -driven merchant profiling to our partners, optimising 
+approval rates and pricing decisions, we are able to identify high -transacting merchant prospects, improve 
+retention while boosting support efficiency
+•Improved Marketing Stack for Customers -Our AI -powered marketing infrastructure enables sharper 
+audience segmentation and targeting, reducing customer acquisition costs and improving ROI. With 
+multilingual support, we also unlock access to a broader user base across geographies and segments
+•Improved Asset Quality -Advanced AI models predict merchant churn and delinquency with high 
+precision. Through micro -cohorting and early warning systems, we enable timely, segment -specific 
+interventions, leading to improved asset quality for partners and increased collection bonuses for us
+•Additional customer features to improve product funnels -We've enhanced the app with features like an 
+AI Smart Filter for travel ticketing, making navigation and product discovery easier, and an AI -led Portfolio 
+Analyzer for mutual funds and equities, offering performance ranking and benchmarking to improve user 
+experience and funnel conversion
+
+=== page 7 ===
+6Earnings Release  |Q1 FY 2026
+Key Focus Areas
+•Continue to Lead India’s Enterprise and MSME Merchants: We lead with first -to-
+market payment innovations including QR, Soundbox, All -in-One POS card machines. 
+We are focused on scaling our leadership across small and large merchants by 
+deepening penetration of these products and services
+•Expanding distribution of credit:  Through i ncrease in number of partners, 
+introduction and scaling of new products, and further enhancing collections 
+performance using AI
+•AI-First in every customer product and internal process: AI-led onboarding, fraud 
+detection, and retention across products to drive scalable monetisation and customer 
+experience
+•Consumer Acquisition: Product led innovation is showing early signs of success, 
+through higher retention and market share gains despite low marketing spends. We 
+are committed to continue  market share 
+•International Expansion: Our technology led merchant payments and financial 
+services distribution model has the potential for expansion in international markets. 
+For additional long -term growth, we are exploring opportunities in select international 
+geographies, which will start showing results after 3 years
+
+=== page 8 ===
+7Earnings Release  |Q1 FY 2026
+Financial Update for quarter ending June 2025     
+(Q1 FY 2026)
+Payment Services: Consolidating leadership in merchant payments
+In Q1 FY 2025, Payment Services revenue (including 
+other operating revenue) was up 23% YoY at ₹1,110 Cr. 
+Net payment revenue was up 38% YoY at ₹529 Cr due to 
+increase in payment processing margin and device 
+additions. Net payment revenue is comprised of:
+1. Payment Processing Margin: 
+In Q1 FY 2026, GMV grew by 27% YoY to ₹5.39 Lakh Cr 
+In this quarter, Payment processing margin was 
+comfortably above the guided 3bps margin.
+2. Subscription revenues: 
+As of June 2025, merchant subscriptions were at an all -
+time high of 1.30 Cr, an increase of 21 lakh YoY, on the 
+back of high quality devices and superior service 
+network.
+To further strengthen tier -1 market position and expand in 
+tier-2 and tier -3 cities, we are investing in expanding our 
+sales network (sales people costs are up 19% YoY). At 
+the same time, we continue to enhance operational 
+efficiencies by lowering device costs, ramping up the 
+refurbishment of old devices, and increasing sales team 
+productivity and the same is reflected in lower capex 
+despite significant device growth over the last few years.
+These improvements have allowed us to pass on the 
+benefits to our most engaged merchants, resulting in 
+stronger retention, increased market share and a larger 
+loan distribution funnel, which is leading to overall higher 
+merchant monetization.
+Consistent growth in Monthly Transacting 
+Users (MTU)
+In Q1 FY 2026, our average MTU has reached 7.4 Cr. We 
+will continue to drive MTU growth with focus on 
+delivering superior products to enhance consumer 
+retention. 
+We are seeing early signs of user growth and retention, 
+resulting in market share gains for the past few months. 
+This will help us to improve monetization (mainly from 
+pick-up in personal loans, advertising and equity broking).
+₹383 Cr₹465 Cr₹488 Cr₹508 Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-25Net Payment Revenue
+(Excluding UPI Incentive)(Qtrending)
+38% YoY ₹529 Cr
+4.3 L Cr4.5 L Cr5.0 L Cr5.1 L Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-255.4 L CrGross Merchandise Value 
+27% YoY(Qtrending)
+Merchant Subscriptions
+(including Devices)
+1.09 Cr1.12 Cr1.17 Cr1.24 Cr1.30 Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-2521 Lakh YoY(Qtrending)
+Capex
+697 Cr814 Cr
+317 Cr
+79 Cr
+FY23 FY24 FY25 Q1 FY26Annual
+SpendQuarterly
+Spend
+=== page 9 ===
+8Earnings Release  |Q1 FY 2026
+Distribution of Financial Services: Low penetration 
+offers significant opportunity
+In Q1 FY 2026, distribution of financial services 
+revenue grew 100% YoY to ₹561 Cr, driven by 
+continued expansion in merchant loans, trail 
+revenue from Default Loss Guarantee (DLG) 
+portfolio, and improved asset quality our partners 
+are experiencing. This has led to higher 
+disbursements from existing financial institutions 
+and continued interest from new financial 
+institutions to partner with us.
+In Q1 FY 2026, 5.6 Lakh key financial services 
+customers (consumers and merchants) availed 
+loans, equity broking, and insurance, through our 
+platform. We have witnessed significant revenue 
+growth in recent quarters despite the financial 
+services customer count being range -bound, dueFinancial Services Revenue (Qtrending)
+₹280 Cr₹376 Cr₹502 Cr₹545 Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-25₹561 Cr 100% YoY
+5.9 6.0 5.9 5.5 5.6
+During the quarter, we continued to see robust growth in merchant loan disbursements, in line with 
+erstwhile trends. The majority of merchant loans were distributed under the non -DLG model, with more 
+than 50% of loans distributed to repeat borrowers, reflecting strong product -market fit. For personal loans, 
+based on the current trends, there are early signs of recovery in the credit cycle, leading to higher 
+disbursements sequentially led by growth from both existing and new partners that have been added over 
+the last year. We expect this trend to continue during the year. 
+In a significant development starting this quarter (as reported in the stock exchange filing), our largest
+lending partner is doing disbursements under the non -DLG model as against DLG model in the previous 
+quarters. The disbursement growth through this lending partner continues to increase quarter on quarter,
+even as the outstanding overall DLG partners’ AUM has reduced from ₹6,324 Cr (March 31, 2025) to 
+₹4,444 Cr (June 30, 2025).
+Going forward, we expect a higher share of non -DLG disbursements, which reduces upfront DLG costs 
+and also lifetime revenue by corresponding amount. Hence, distribution of financial services revenue 
+growth will be slower sequentially as compared to the disbursements growth (we saw revenue growth 
+higher than disbursement growth since start of DLG model in Q2 FY 2025). Key Financial Services Customers (# Lakh) 
+to the personal loan credit cycle and slowdown in our equity broking business (Paytm Money) resulting from 
+capital market regulatory adjustments. We have enhanced our focus in Paytm Money, on both mutual funds 
+distribution and equity broking. Looking ahead, we anticipate growth in financial services customers within 
+both loan distribution and Paytm Money.
+=== page 10 ===
+9Earnings Release  |Q1 FY 2026
+To be discussed if 
+these images have to 
+be retained₹ 282 Cr₹ 268 Cr ₹ 267 Cr ₹ 267 Cr
+₹247 Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-25Marketing Services Revenue (Qtrending)Marketing Services: Driving additional monetization
+from Merchants
+•In our advertising business, we are focusing on 
+delivering higher ROI for advertisers by using AI 
+for sharper customer cohorting , and deeper 
+relationships with advertisers
+•The GMV for ticketing, deals & gift vouchers, 
+etc., was ₹2,087 Cr. There was a marginal QoQ 
+decline in the travel segment, in line with the 
+industry trend
+•We have partnered with various financial 
+institutions and offer various marketing services 
+to them such as co -branded credit cards, 
+advertising or selling their own productsWe offer merchants and financial institutions to market their services on our Apps. Marketing Services 
+portfolio primarily includes advertising, marketing of financial services, sale of deals, gift vouchers and travel 
+tickets.
+In Q1 FY 2026, Marketing Services revenue was ₹247 Cr. On a like -to-like basis, after adjusting for sale of the 
+entertainment ticketing business in Q2 FY 2025, the revenue was down 12% YoY on account of lower MTU. 
+Advertising Services
+Sale of Travel 
+TicketsMarketing of 
+Financial Services
+For like -to-like comparison, Marketing services revenue 
+excludes revenue from entertainment ticketing business in 
+Q1 and Q2 FY 2025 which was sold in Q2 FY2025 
+=== page 11 ===
+10Earnings Release  |Q1 FY 2026
+Operating revenue grew 28% YoY to ₹1,918 Cr (up 
+31% YoY on a like -to-like basis after adjusting for 
+sale of entertainment ticketing business), driven by 
+strong growth in number of merchant subscriptions, 
+GMV and distribution of financial services revenue. 
+Contribution profit at ₹1,151 Cr (up 52% YoY), with a 
+Contribution margin of 60%, an increase of 10 
+percentage point YoY, on account of higher share 
+of distribution of financial services revenue, 
+increase in net payment revenue and lower direct 
+expenses. We expect the Contribution margin to be 
+in the mid to high 50s percent for the year. Revenue and Contribution Profit
+₹1,502 Cr₹1,660 Cr₹1,828 Cr ₹1,841 Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-25Operating Revenue (Qtrending)
+₹1,918 Cr 28% YoY
+₹ 755 Cr₹ 894 Cr₹ 959 Cr₹ 1,001 Cr₹1,150 Cr
+Jun-24 Sep-24 Dec-24 Mar-25 June-25Contribution Profit (Qtrending)
+52% YoY
+Jun-24 Sep-24 Dec-24 Mar-25 June-25Contribution Margin
+(as a % of Revenue)(Qtrending)
+50%54%
+52%54%60%
+Note: All numbers are excluding UPI Incentive•Payment processing charges were higher by 12% YoY at ₹581 Cr, as compared to payment revenue 
+(including operating revenue) growth of 23% YoY
+•Promotional cashbacks and incentives was ₹37 Cr, versus ₹44 Cr in Q1 FY 2025
+•Other direct expenses decreased by 20% YoY to ₹148 Cr, despite robust business growth and DLG costs. 
+This is on account of reduction in collection cost for Personal Loans (lower AUM for collection business), 
+sale of entertainment ticketing business and cost optimisation across businesses
+=== page 12 ===
+11Earnings Release  |Q1 FY 2026
+Indirect Expenses (Qtrending)
+(in ₹ Cr) Jun -24 Sep -24 Dec -24 Mar -25 June -25 YoY Change (%)
+Marketing 177 125 104 102 62 (65)%
+Sales employees 224 228 227 243 266 19%
+Non-sales employee costs 482 385 348 336 346 (28)%
+Software & Cloud expenses 182 158 154 146 168 (8)%
+Other indirect expenses 236 184 167 165 207 (12) %
+Total Indirect Expenses
+(excl. ESOP Costs)1,301 1,080 1,000 991 1,049 (19)%
+ESOP Costs 247 218 182 169 30 (88)%
+Total Indirect Expenses 1,548 1,298 1,182 1,160 1,079 (30)%Starting this quarter, we will be showing ESOP costs as part of employee costs under indirect expenses. In Q1 
+FY 2026, Indirect Expenses stood at ₹1,079 Cr. However for like -to-like comparison, we will show ESOP cost 
+separately this quarter. Indirect Expenses (excluding ESOP cost), stood at ₹1,049 Cr, a decline of 19% YoY and 
+an increase of 6% QoQ, including the impact of year -end appraisals. We expect indirect expenses as a percent 
+of revenues to continue declining over time, despite investment for growth (even as there might be some 
+quarterly volatility). 
+•Marketing costs for consumer acquisition dropped to ₹62 Cr, as we are prioritizing innovative payments and 
+financial services products to increase retention. We are seeing early signs of success through market share 
+gains despite low marketing spends
+•Our sales employees cost, which focuses on expanding our merchant distribution network, has risen to ₹266 
+Cr (up 19% YoY), as we have increased market share and monetization, and are now expanding in tier -2 and 
+tier-3 cities to further increase monetisation
+•Our non -sales employee cost has declined by 28% YoY to ₹346 Cr as we continue to leverage AI for 
+improving productivity across businesses. This includes the impact of year end appraisals, leading to modest 
+3% QoQ growth
+•Software, cloud and data centre expenses declined by 8% YoY and increased by 15% QoQ to ₹168 Cr
+•Other indirect expenses declined by 12% YoY and increased by 26% QoQ to ₹206 Cr (cost of refurbishment 
+of devices is included in other indirect expenses). While there can be quarterly volatility, we expect other 
+indirect expenses to grow slowly on an annual basis
+•ESOP costs are significantly lower QoQ largely because of the voluntary surrender of ESOPs by our CEO. In 
+our last quarterly earnings, we had given a guidance of ₹75 -₹100 Cr; our ESOP costs this quarter are lower 
+on account of new appraisal grants given late in the quarter (full quarterly cost impact of new grants will be 
+seen from Q2 FY 2026). For FY 2026, we expect ESOP cost to be in the range of ₹250 Cr -₹275 Cr.
+As we are focusing on EBITDA and PAT as the primary profitability metric, and since the ESOP cost as a % of 
+revenue has significantly reduced, the Employee cost will include ESOP cost going forward. Hence, we will be 
+discontinuing ESOP cost schedule disclosure that was provided periodically.Indirect Expenses 
+=== page 13 ===
+12Earnings Release  |Q1 FY 2026
+EBITDA and Profit After Tax
+Depreciation & Amortization 
+In Q1 FY 2026, D&A was at ₹166 Cr, a reduction of 7% YoY and increase of 11% QoQ. D&A is expected to be in 
+the range of ₹500 -₹600 Cr in FY 2026, lower than FY 2025 cost. Lower D&A YoY is largely on account of 
+reduction in cost of devices and focus on refurbishment of devices (cost of refurbishment of devices is 
+included in other indirect costs).EBITDA turned profitable at ₹72 Cr (margin of 4%), demonstrating robust growth, improvement in margin and 
+disciplined cost structure. 
+PAT was at ₹123 Cr, on account of improvement in EBITDA and higher other income (receipt of interest on tax 
+refund in Q1 FY 2026). Other income will have a gradual impact on account of reinvestment of maturing 
+investments at lower yields (100 bps repo rate cut earlier in the year).
+Cash Balance
+Our cash balance is ₹12,872 Cr as of quarter ending June 2025, as compared to ₹8,108 Cr as of quarter ending 
+June 2024. The above excludes Paytm Money Ltd (PML) customer funds & Merchant Funds in Escrow of ₹420 
+Cr & ₹2,832 Cr respectively for June 2025 quarter & ₹449 Cr & ₹2,995 Cr respectively for June 2024 
+quarter. Our cash balance has increased by ₹4,764 Cr in the last 1 year, primarily on account of monetization of 
+two non -core assets (entertainment ticketing business, & our stock acquisition rights in PayPay) for ₹4,386 Cr.
+Breakup of available Cash and investable balance (Net Cash Balances)
+Particulars (in ₹ Cr) Jun -24 Sep -24 Dec -24 Mar -25 June -25
+Cash and Bank Balances 5,322 4,928 4,451 4,539 4,561
+Deposits with banks 3,486 3,617 6,997 7,018 6,478
+Investments (Mutual Funds/T -Bills/CP/G -
+Sec/NCD/NBFC FDs)2,743 4,540 4,143 4,046 5,086
+Total Balances 11,552 13,085 15,591 15,602 16,124
+Paytm Money Ltd (PML) customer funds 449 412 287 326 420
+Merchant Funds in Escrow 2,995 2,674 2,454 2,467 2,832
+Total Balances (excluding PML and merchant funds) 8,108 9,999 12,850 12,809 12,872
+Regulatory Update
+SEBI Show Cause Notice Settlement
+This matter stands settled as per the settlement order issued by SEBI on 8th May, 2025, along the lines of the 
+update that we had provided in last quarter's results.
+=== page 14 ===
+13Earnings Release  |Q1 FY 2026
+Particulars (in ₹ Cr)Quarter Ended
+June -25 
+(Unaudited) June -24 
+(Unaudited) YoYMar -25
+(Unaudited) QoQ
+Payment Services 1,044 884 18% 1,046 (0)%
+Distribution of Financial 
+Services561 280 100% 545 3%
+Marketing Services 247 321 (23)% 267 (7)%
+Other Operating Revenue 67 16 319% 52 29%
+Revenue from Operations 1,918 1,502 28% 1,911 0%
+Payment processing charges 581 517 12% 520 12%
+As % of GMV 0.11% 0.12% (1) bps 0.10% 1 bps
+Promotional cashback & 
+incentives37 44 (16)% 41 (10)%
+Other direct expenses 148 185 (20)% 278 (47)%
+Total Direct Expenses 767 746 3% 840 (9)%
+Contribution Profit 1,151 755 52% 1,071 7%
+Contribution Margin % 60% 50% 972 bps 56% 397bps
+Indirect Expenses (Excl ESOP 
+Costs)1,049 1,301 (19)% 991 6%
+Marketing 62 177 (65)% 102 (39)%
+Employee cost
+(Excl ESOPs)613 706 (13)% 579 6%
+Software, cloud and
+data center168 182 (8)% 146 15%
+Other indirect expenses 207 236 (12)% 165 25%
+EBITDA Before 
+ESOP Cost102 (545) nm 81 26%
+Margin % 5% (36)% nm 4% 110 bps
+ESOP Cost 30 247 (88)% 169 (82)%
+EBITDA 72 (792) nm (88) nm
+Margin % 4% (53)% nm (5)% nmSummary of Consolidated Financial Performance
+=== page 15 ===
+14Earnings Release  |Q1 FY 2026
+Reconciliation of EBITDA with Profit / (Loss) for the 
+period
+Particulars (in ₹ Cr)Quarter Ended
+June -25 
+(Unaudited) June -24 
+(Unaudited) YoYMar -25
+(Unaudited) QoQ
+EBITDA 72 (792) nm (88) nm
+Finance costs (C) (4) (4) 0% (4) 0%
+Depreciation and amortization expense 
+(D)(166) (178) (7)% (150) 11%
+Other income (E) 241 138 75% 224 8%
+Share of profit/(loss) of 
+associates/joint ventures (F)0 (1) (100)% 0 nm
+Exceptional items (G) (17) 0 nm (522) (97)%
+Income Tax expense (H) (4) (2) 100% (3) 33%
+Profit / (Loss) for the period/year
+(J=sum of A to H)123 (840) nm (545) nm
+Summary of Key Operational Metrics
+Operational KPIsUnitsQuarter Ended
+June -25 
+(Unaudited) June -24 
+(Unaudited) YoYMar -25
+(Unaudited ) QoQ
+Registered Merchants (end of period) Cr 4.5 4.1 11% 4.4 3%
+Subscription Merchants including devices 
+(cumulative; end of period)Cr 1.30 1.09 20% 1.24 5%
+GMV ₹ Lakh Cr 5.4 4.3 27% 5.1 6%
+Merchant Transactions Cr 1,303 981 33% 1,184 10%
+Total Transactions Cr 1,464 1,103 33% 1,317 11%
+Average Number of Sales Employees # 38,945 31,604 23% 36,724 6%
+Cost of Sales Employees (including training) ₹Cr 266 224 19% 243 10%
+MTU (average over the period) Cr 7.4 7.8 (6)% 7.2 2%
+Key financial services customers Lakh 5.6 5.9 (4)% 5.5 3%
+=== page 16 ===
+15Earnings Release  |Q1 FY 2026
+ESOP Pool Schedule 
+As of July 22, 2025 (in Cr.)
+Basic shares outstanding 63.8
+ESOPs vested and unexercised 0.2
+ESOPs granted and unvested 1.2
+ESOPs available for distribution 2.7
+Estimated fully diluted shares 67.9
+Indicative Performance Metrics for Loan Distribution (June 2025 quarter)
+Merchant Loans
+Bounce Rates NA
+Bucket 1 Resolution % 83% to 90%
+Recovery Rate Post 90+ 30% to 35%
+ECL% 4.5% to 5.0%
+Loans are underwritten and booked by our lending partners in their balance sheets. Paytm acts as a collection 
+outsourcing partner and the numbers are hence indicative of those efforts
+Definitions for Metrics & Key Performance Indicators
+Metric Definition
+GMVGMV is the rupee value of total payments made to merchants through transactions on our app or our in -
+store payment solutions, and payments processed through Paytm payment gateway, over a period. It 
+excludes any consumer -to-consumer payment service such as money transfers
+Monthly Transacting 
+User (MTU)Number of unique users in a particular calendar month who have successfully completed a transaction on 
+the Paytm App or have used the Paytm for Business App
+Net Payment 
+RevenuePayment revenues (including other operating revenue) less payments processing charges
+Contribution ProfitContribution profit is a non -GAAP financial measure. We define Contribution profit as revenue from 
+operations less payment processing charges, promotional cashback & incentives expenses, connectivity & 
+content fees, contest, ticketing expenses & logistics, deployment & collection cost of our businesses
+Key Financial 
+Services customers Key financial services customers are unique consumers and merchants who have availed Paytm’s and
+group entity’s financial services offerings, i.e. equity broking, insurance and credit products, such as
+merchant and consumer loans distributed through our platform. However, it does not include customers
+availing mutual fund distribution, Postpaid loans, gold distribution or any attachment insurance products, as 
+they contribute negligible revenue/profitability
+=== page 17 ===
+16Earnings Release  |Q1 FY 2026
+`x
+Pioneer of India’s
+mobile payment revolution
+Paytm is India's leading mobile payments and financial services 
+distribution company. Pioneer of the mobile QR payments revolution 
+in India, Paytm builds technologies that help small businesses with 
+payments and commerce. Our mission is to serve half a billion Indians 
+and bring them to mainstream of economy with help of technology.
+Pre-Registration
+Pre-Registration
+ir.paytm.comDownload the report atJuly 2025
+06:00 PM –06:45 PM 22ndQ1 FY 2026 Earnings Call
+Please join for our Earnings Conference 
+call for the shareholders, investors and 
+analysts to discuss financial results of 
+the Company for the quarter ended
+June,2025.
+
+=== page 18 ===
+17Earnings Release  |Q1 FY 2026
+By reading this release you agree to be bound as 
+follows: 
+This earnings release is prepared by One 97 Communications Limited (“Company”) and is for information 
+purposes only without regards to specific objectives, financial situations or needs of any -particular person 
+and is not and nothing in it shall be construed as an invitation, offer, solicitation, recommendation or 
+advertisement in respect of the purchase or sale of any securities of the Company or any affiliates in any 
+jurisdiction or as an inducement to enter into investment activity and no part of it shall form the basis of or be 
+relied upon in connection with any contract or commitment or investment decision whatsoever. This earnings 
+release does not take into account, nor does it provide any tax, legal or investment advice or opinion regarding 
+the specific investment objectives or financial situation of any person. Before acting on any information you 
+should consider the appropriateness of the information having regard to these matters, and in particular, you 
+should seek independent financial advice. This earnings release and its contents are confidential and 
+proprietary to the Company and/or its affiliates and no part of it or its subject matter be used, reproduced, 
+copied, distributed, shared, retransmitted, summarized or disseminated, directly or indirectly, to any other 
+person or published in whole or in part for any purpose, in any manner whatsoever. 
+The information contained in this earnings release is a general background information of the Company and 
+there is no representation that all information relating to the context has been taken care of in the earnings 
+release. We do not assume responsibility to publicly amend, modify or revise any information contained in this 
+earnings release on the basis of any subsequent development, information or events, or otherwise. This 
+earnings release includes certain statements that are, or may be deemed to be, “forward -looking statements” 
+and relate to the Company and its financial position, business strategy, events and courses of action. 
+Forward -looking statements and financial projections are based on the opinions and estimates of management 
+as on the date such statements are made and are subject to a variety of risks and uncertainties and other 
+factors that could cause actual events or results to differ materially from those anticipated in the forward -
+looking statements and financial projections. Representative examples of factors that could affect the 
+accuracy of forward looking statements include (without limitation) the condition of and changes in India’s 
+political and economic status, government policies, applicable laws, international and domestic events having 
+a bearing on Company’s business, and such other factors beyond our control. 
+Forward -looking statements and financial projections include, among other things, statements about: our 
+expectations regarding our transaction volumes, expenses, sales and operations; our future merchant and 
+consumer concentration; our anticipated cash needs, our estimates regarding our capital requirements, our 
+need for additional financing; our ability to anticipate the future needs of our merchants and consumers; our 
+plans for future products and enhancements of existing products; our future growth strategy and growth rate; 
+our future intellectual property; and our anticipated trends and challenges in the markets in which we operate. 
+Forward -looking statements are not guarantees of future performance including those relating to general 
+business plans and strategy, future outlook and growth prospects, and future developments in its businesses 
+and its competitive and regulatory environment. These forward -looking statements represent only the 
+Company’s current intentions, beliefs or expectations, and no representation, warranty or undertaking, express 
+or implied, is made or assurance given that such statements, views, projections or forecasts in the earnings 
+release, if any, are correct or that any objectives specified herein will be achieved. 
+We have converted financial amounts from ₹ millions into ₹ Cr and hence there could be some totaling 
+anomalies in the numbers.
+=== page 19 ===
+18Earnings Release  |Q1 FY 2026
+Notes and Disclaimers for Earnings Release
+We, or any of our affiliates, shareholders, directors, employees, or advisors, as such, make no representations 
+or warranties, express or implied, as to, and do not accept any responsibility or liability with respect to, the 
+fairness, accuracy, completeness or correctness of any information or opinions contained herein and accept 
+no liability whatsoever for any loss, howsoever, arising from any use or reliance on this earnings release or its 
+contents or otherwise arising in connection therewith. The information contained herein is subject to change 
+without any obligation to notify any person of such revisions or change and past performance is not indicative 
+of future results. 
+This document has not been and will not be reviewed or approved by a regulatory authority in India or by any 
+stock exchange in India. No rights or obligations of any nature are created or shall be deemed to be created by 
+the contents of this earnings release.
+Use of Operating Metrics
+The operating metrics reported in this earnings release are calculated using internal Company data based on 
+the activity of our merchants, consumers and other participants in our ecosystem. While these numbers are 
+based on what we believe to be reasonable estimates of engagement, for the applicable period of 
+measurement, there are inherent challenges in measuring usage across our large online, offline, in -store and 
+mobile presence. The methodologies used to measure these metrics require significant judgment and are also 
+susceptible to algorithm or other technical errors. We regularly review our processes for calculating these 
+metrics, and from time to time we may discover inaccuracies in our metrics or may make adjustments to 
+improve their accuracy, which can result in adjustments to previously disclosed metrics. In addition, our 
+metrics will differ from estimates published by third parties due to differences in methodology.
+Non -GAAP Financial Measures
+In addition to our results determined in accordance with Ind AS, we believe the following Non -GAAP measures 
+are useful to investors in evaluating our operating performance. We use the following Non -GAAP financial 
+information to evaluate our ongoing operations and for internal planning and forecasting purposes. We believe 
+that Non -GAAP financial information, when taken collectively with financial measures prepared in accordance 
+with Ind AS, may be helpful to investors because it provides an additional tool for investors to use in evaluating 
+our ongoing operating results and trends and in comparing our financial results with other companies in our 
+industry because it provides consistency and comparability with past financial performance. However, our 
+management does not consider these Non -GAAP measures in isolation or as an alternative to financial 
+measures determined in accordance with Ind AS. 
+Non-GAAP financial information is presented for supplemental informational purposes only, has limitations as 
+an analytical tool and should not be considered in isolation or as a substitute for financial information 
+presented in accordance with Ind AS. Non -GAAP financial information may be different from similarly -titled 
+Non-GAAP measures used by other companies. The principal limitation of these Non -GAAP financial measures 
+is that they exclude significant expenses and income that are required by IndAS to be recorded in our financial 
+statements, as further detailed below. In addition, they are subject to inherent limitations as they reflect the 
+exercise of judgment by management about which expenses and income are excluded or included in 
+determining these Non -GAAP financial measures. A reconciliation is provided below for each Non -GAAP 
+financial measure to the most directly comparable financial measure prepared in accordance with Ind AS. 
+Investors are encouraged to review the related Ind AS financial measures and the reconciliation of Non -GAAP 
+financial measures to their most directly comparable Ind AS financial measures included below and to not rely 
+on any single financial measure to evaluate our business.

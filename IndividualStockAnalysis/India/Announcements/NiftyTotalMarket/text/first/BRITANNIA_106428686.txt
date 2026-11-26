@@ -1,0 +1,304 @@
+ 
+ 
+ 
+5th November, 2025 
+    To,   The Corporate Relations Department BSE Limited, The Listing Department 
+National Stock Exchange of India Limited, 
+Phiroze Jeejeebhoy Towers, Exchange Plaz a, C/1, G Block, Bandra-Kurla Complex, 
+Dalal Street, Fort, Mumbai - 400 001 Bandra (East), Mumbai - 400 051 Scrip Code: 500825 Scrip Code: BRITANNIA  
+Dear Sir/Madam, 
+Sub : Outcome of the Board Meeting held on 5
+th November, 2025  
+Ref : Regulation 30, 33 and other applic able provisions of the Securiti es and Exchange Board of India 
+(Listing Obligations and Disclosure Requirement s) Regulations, 2015 (‘SEBI Listing Regulations, 
+2015’) 
+ With reference to the subject cited above, this is to in form you that the Board of Directors of the Company at 
+their Meeting held today i.e., 5
+th November, 2025, have inter-alia , considered and approved the Unaudited 
+Consolidated and Standalone Financial Results of the Company for the qua rter and half year ended                       
+30th September, 2025 and authorized Mr. Nu sli N. Wadia, Chairman of the Comp any, to sign the results to be 
+submitted to the Stock Exchanges. 
+Pursuant to Regulation 33 of the SEBI Listing Regulat ions, 2015, the Unaudited Cons olidated and Standalone 
+Financial Results of the Company for the quarter and half year ended 30th September, 2025 alo ng with the Limited 
+Review Reports issued by M/s. Walker Chandiok  & Co LLP, Statutory Auditors are enclosed as ‘Annexure-I’ . 
+Further, pursuant to Regulation 47 of the SEBI Listing Re gulations, 2015, the said Financial Results along with a 
+Quick Response (QR) code and the details of the webpage  where complete Financial Results are available, will 
+be published in the Newspapers. 
+The above information shall also be made available on the website of the Company at www.britannia.co.in .  
+The Board Meeting commenced at 1:00 P.M. IST and concluded at 6:30 P.M. IST. 
+Request you to take the above information on records. 
+Yours faithfully, 
+For Britannia Industries Limited 
+ 
+  T.V. Thulsidass Company Secretary 
+Membership No.: A20927 
+ Encl.: as above  
+PART I (₹ in Crores)
+Statement of Consolidated Financial Results for the quarter and six months ended 30 September 2025
+ YEAR ENDED 
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024 31.03.2025
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+IRevenue from operations
+Sale of goods            4,752.17            4,534.86            4,566.23 9,287.03            8,696.15            17,535.02              
+Other operating revenues 88.46 87.36 101.34 175.82 221.71 407.65 
+Total revenue from operations           4,840.63           4,622.22           4,667.57 9,462.85            8,917.86            17,942.67             
+IIOther income 52.11 57.01 46.00 109.12 101.61 227.09 
+IIITotal income (I+II)           4,892.74           4,679.23           4,713.57 9,571.97            9,019.47            18,169.76             
+IVExpenses
+Cost of materials consumed 2,647.16           2,550.87           2,578.05           5,198.03            4,789.92            9,859.45 
+Purchases of stock-in-trade 182.35              206.80              212.28              389.15 402.62 809.35 
+Changes in inventories of finished goods, stock-in-trade and work-in-progress (6.61) 1.43 (60.89) (5.18) (57.69) (64.75) 
+Employee benefits expense 181.08              241.86              232.28              422.94 434.23 704.59 
+Finance costs 34.68 26.15 34.64 60.83 63.59 138.80 
+Depreciation and amortisation expense 85.05 82.04 76.07 167.09 150.00 313.34 
+Other expenses 882.13              864.21              922.44              1,746.34            1,811.71            3,446.88 
+Total expenses 4,005.84           3,973.36           3,994.87           7,979.20            7,594.38            15,207.66             
+VProfit before share of profit / (loss) of associates and joint venture (III-IV) 886.90              705.87              718.70              1,592.77            1,425.09            2,962.10 
+VIShare of loss in associates and joint venture, net (3.28) (4.85) (3.40) (8.13) (4.05) (10.74) 
+VIIProfit before exceptional items and tax (V+VI) 883.62              701.02              715.30              1,584.64            1,421.04            2,951.36 
+VIII Exceptional item - Expense (Refer note 6) - - 0.15 - 24.79 24.79 
+IXProfit before tax (VII-VIII) 883.62              701.02              715.15 1,584.64            1,396.25            2,926.57 
+XTax expense :
+(i) Current tax 233.50 185.41 185.67 418.91 365.12 741.68 
+(ii) Deferred tax charge / (credit) (4.94) (4.52) (2.07) (9.46) (5.30) 7.03 
+Total tax expense 228.56              180.89              183.60              409.45 359.82 748.71 
+XINet profit for the period / year (IX-X) 655.06              520.13              531.55 1,175.19            1,036.43            2,177.86 
+XIIOther comprehensive income / (loss) (net of tax)
+A (i) Items that will not be reclassified subsequently to profit or loss
+- Remeasurements of the net defined benefit plans - - - - - (1.92) 
+(ii) Income tax relating to items that will not be reclassified subsequently to profit or loss - - - - - 0.50 
+B  Items that will be reclassified subsequently to profit or loss
+- Foreign currency translation reserve 8.29 0.97 1.46 9.26 2.84 7.68 
+Total other comprehensive income (net of tax) 8.29 0.97 1.46 9.26 2.84 6.26 
+XIII Total comprehensive income for the period / year (XI+XII) 663.35              521.10              533.01              1,184.45            1,039.27            2,184.12 
+XIV Profit / (loss) attributable to:
+Owners of the Company 654.47 520.72 531.45 1,175.19            1,037.09            2,178.73 
+Non-controlling interests 0.59 (0.59) 0.10 - (0.66) (0.87) 
+Profit for the period / year 655.06              520.13              531.55              1,175.19            1,036.43            2,177.86 
+XVOther comprehensive income / (loss) attributable to:
+Owners of the Company 8.20 0.97 1.43 9.17 2.09 5.85 
+Non-controlling interests 0.09 - 0.03 0.09 0.75 0.41 
+Other comprehensive income for the period / year 8.29 0.97 1.46 9.26 2.84 6.26 
+XVI Total comprehensive income / (loss) attributable to:
+Owners of the Company 662.67 521.69 532.88 1,184.36            1,039.18            2,184.58 
+Non-controlling interests 0.68 (0.59) 0.13 0.09 0.09 (0.46) 
+Total comprehensive income for the period / year 663.35 521.10 533.01 1,184.45            1,039.27            2,184.12 
+XVII Paid-up equity share capital (face value of ₹ 1 each) 24.09 24.09 24.09 24.09 24.09 24.09 
+XVIII Other equity 4,331.63 
+XIX Earnings per share (face value of ₹ 1 each) (not annualised):
+(a) Basic (₹) 27.17 21.62 22.06 48.79 43.06 90.45 
+(b) Diluted (₹) 27.17 21.62 22.06 48.79 43.06 90.45 
+ See accompanying notes to the consolidated financial results continued…BRITANNIA INDUSTRIES LIMITED
+(Corporate Identity Number: L15412WB1918PLC002964)
+Registered Office: 5/1A, Hungerford Street, Kolkata - 700 017, West Bengal, India
+Tel: +91 33 22872439/2057, +91 80 37687100
+Website: www.britannia.co.in ; E-mail id: investorrelations@britindia.com
+Consolidated Financial Results
+PARTICULARS S.No.QUARTER ENDED SIX MONTHS ENDED
+Annexure-I
+(₹ in Crores)
+S.No. 30.09.2025 31.03.2025
+(Unaudited) (Audited)
+IAssets
+(1)Non-current assets
+(a) Property, plant and equipment 2,749.43        2,734.61             
+(b) Capital work-in-progress 72.65               89.20                  
+(c) Investment property 28.44               28.90                  
+(d) Goodwill 137.43             132.78                
+(e) Other intangible assets 6.22                 7.51                     
+(f) Investment in associates and joint venture 475.49             483.62                
+(g) Financial assets
+     (i) Investments 1,191.39        1,270.17             
+     (ii) Loans receivable 25.00               25.00                  
+     (iii) Other financial assets 21.98               28.19                  
+(h) Deferred tax assets (net) 46.05               36.59                  
+(i) Tax assets (net) 35.30               46.26                  
+(j) Other non-current assets 33.97               42.04                  
+Total non-current assets 4,823.35        4,924.87            
+(2)Current assets
+(a) Inventories 2,199.63        1,236.51             
+(b) Financial assets
+     (i) Investments 626.49             1,111.64             
+     (ii) Trade receivables 497.27             448.61                
+     (iii) Cash and cash equivalents 77.98               132.78                
+     (iv) Bank balances other than (iii) above 216.11             179.70                
+     (v) Loans receivable 50.00               50.00                  
+    (vi) Other financial assets 767.81             630.46                
+(c) Other current assets 191.26             123.98                
+Total current assets 4,626.55        3,913.68            
+Total assets 9,449.90        8,838.55            
+IIEquity and Liabilities
+(1)Equity 
+(a) Equity share capital 24.09               24.09                  
+(b) Other equity 3,709.48        4,331.63             
+Equity attributable to equity holders of the parent 3,733.57        4,355.72            
+Non-controlling interests 25.69               25.60                  
+Total equity 3,759.26        4,381.32            
+(2)Liabilities
+(A)Non-current liabilities
+(a) Financial liabilities
+     (i) Borrowings 616.98             712.94                
+     (ii) Lease liabilities 18.87               19.45                  
+     (iii) Other financial liabilities 97.86               72.21                  
+(b) Deferred tax liabilities (net) 1.80                 1.80                     
+(c) Provisions 35.10               32.57                  
+Total non-current liabilities 770.61             838.97                
+(B)Current liabilities
+(a) Financial liabilities
+     (i) Borrowings 1,557.91        511.83                
+     (ii) Lease liabilities 2.54                 2.29                     
+     (iii) Trade payables -                       
+         (a) total outstanding dues of micro enterprises and small enterprises 64.70               27.83                  
+        (b) total outstanding dues of creditors other than micro enterprises and small enterprises 1,817.61        1,724.40             
+     (iv) Other financial liabilities 379.26             429.34                
+(b) Other current liabilities 217.58             194.70                
+(c) Provisions 632.05             604.66                
+(d) Tax liabilities (net) 248.38             123.21                
+Total current liabilities 4,920.03        3,618.26            
+Total equity and liabilities 9,449.90        8,838.55            
+continued…PARTICULARSConsolidated Balance Sheet
+As at
+Consolidated Statement of Cash Flows
+(₹ in Crores)
+Particulars
+30.09.2025 30.09.2024
+Cash flows from operating activities
+Profit before tax and share of profits / (loss) of associates and joint venture and after exceptional items 1,592.77                       1,400.30                       
+Adjustments for :
+Depreciation and amortisation expense 167.09                          150.00                          
+Net gain on financial asset measured at fair value through Statement of Profit and Loss (28.27)                           (27.04)                           
+Profit on sale of property, plant and equipment (0.60)                             (0.90)                             
+Interest income from financial assets carried at amortised cost (75.01)                           (67.26)                           
+Finance costs 60.83                            63.59                            
+Changes in 
+Inventories (961.36)                         (790.97)                         
+Trade receivables (44.99)                           (116.30)                         
+Other financial assets and other assets (175.26)                         (162.92)                         
+Trade payables, other financial liabilities, other liabilities and provisions 146.31                          372.50                          
+Cash generated from operating activities 681.51                          821.00                          
+Income-tax paid, net of refund (282.78)                         (275.16)                         
+Net cash generated from operating activities 398.73                          545.84                          
+Cash flow from investing activities
+Acquisition of property, plant and equipment, capital work-in-progress and other intangible assets (160.84)                         (197.04)                         
+Proceeds from sale of property, plant and equipment and assets held-for-sale 0.99                              6.16                              
+Purchase of non-current investments (153.84)                         (31.11)                           
+Proceeds from sale / redemption of non-current investments 105.08                          391.58                          
+Proceeds from sale / (purchase) of current investments, net 642.96                          (29.35)                           
+Inter-corporate deposits placed -                                (25.00)                           
+Inter-corporate deposits redeemed -                                225.00                          
+Change in other bank balances and fixed deposits (32.01)                           (15.61)                           
+Interest received 48.67                            76.49                            
+Net cash generated from investing activities 451.01                          401.12                          
+Cash flow from financing activities
+Interest paid (55.01)                           (83.68)                           
+Principal payment of lease liabilities (1.03)                             (1.82)                             
+Interest paid on lease liabilities (0.41)                             (0.44)                             
+Repayment of non-current borrowings (95.93)                           (52.50)                           
+Repayment of bonus debentures -                                (698.52)                         
+Proceeds from /(Repayment of) working capital borrowings, net* 1,047.79                       1,435.67                       
+Contribution from non-controlling interest -                                1.56                              
+Dividends paid (1,801.29)                      (1,764.97)                      
+Net cash used in financing activities (905.88)                        (1,164.70)                     
+Net change in cash and cash equivalents (56.14)                           (217.74)                        
+Effect of exchange rate changes on cash and cash equivalents 3.08                              0.63                              
+Cash and cash equivalents at beginning of the period (net of bank overdraft) 125.24                          319.45                          
+Cash and cash equivalents at end of the period (net of bank overdraft) 72.18                            102.34                          
+Cash and cash equivalents 77.98                            111.15                          
+Bank overdraft (5.80)                             (8.81)                             
+Cash and cash equivalents at end of the period (net of bank overdraft) 72.18                            102.34                          
+ continued… (Unaudited) Six months ended
+*Bank overdraft isnetted offwith cash and cash equivalents asperrequirement ofIND AS7.Hence, proceeds from borrowings under financing activity
+does not include the movement in bank overdraft. 
+ Notes:
+1.
+(₹ in Crores)
+YEAR ENDED
+30.09.2025 30.06.2025 30.09.2024  30.09.2025  30.09.2024 31.03.2025
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited)
+Total revenue from operations         4,664.51         4,452.74         4,500.84          9,117.25          8,595.28           17,295.92 
+Profit before tax            912.75            674.20            694.85          1,586.95          1,370.50             2,867.77 
+Net profit for the period / year            689.95            498.27            514.41          1,188.22          1,016.49             2,130.72 
+Total comprehensive income            689.95            498.27            514.41          1,188.22          1,016.49             2,129.41 
+2.
+3.
+4.
+5.
+6.
+Place: Mumbai
+Date: 5 November 2025Exceptional item forthesixmonths ended 30September 2024 and year ended 31March 2025 includes cost incurred of₹18.51 crores towards own workers with respect toVoluntary
+Retirement Scheme announced bytheCompany inone ofitsfactories. Inaddition, cost was incurred bytheCompany towards contract labourers ofthesaid factory of₹0.15 crores forthe
+quarter ended  30 September 2024, ₹ 6.28 crores for the six months ended 30 September 2024 and  year ended  31 March 2025.The Statutory Auditors oftheCompany have carried outalimited review oftheabove unaudited consolidated financial results forthequarter and sixmonths ended 30September 2025 and
+they have issued an unmodified Review Report on the same. The Review Report of the Statutory Auditors is being filed with the NSE and BSE and is also available on the Company's website.The results have been reviewed and recommended by the Audit Committee and approved by the Board of Directors on 5 November 2025.The operating segment oftheGroup isidentified tobe"Foods", astheChief Operating Decision Maker reviews business performance atanoverall Group level asone segment. Therefore,
+the disclosure as per Regulation 33(1)(e) read with Clause (L) of Schedule IV of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 is not applicable to the Group.The unaudited standalone financial results forthequarter and sixmonths ended 30September 2025 can beviewed onthewebsite oftheCompany, National Stock Exchange ofIndia
+Limited ('NSE') and BSE Ltd('BSE') atwww.britannia.co.in ,www.nseindia.com and www.bseindia.com respectively. Information ofunaudited standalone financial results oftheCompany in
+terms of Regulation 47(1)(b) of the Securities and Exchange Board of India ('SEBI') (Listing Obligations and Disclosure Requirements) Regulations, 2015 is as under:
+PARTICULARS QUARTER ENDED 
+The unaudited consolidated financial results forthequarter and sixmonths ended 30September 2025 ('the results') ofBritannia Industries Limited ('the Company') and itssubsidiaries
+(collectively 'the Group') and itsassociates and itsjoint venture have been prepared inaccordance with Indian Accounting Standards ('Ind AS') prescribed under Section 133 ofCompanies
+Act, 2013 ('The Act') read with the relevant rules thereunder and in terms of Regulation 33  of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015.SIX MONTHS ENDED
+ChairmanNusli N. WadiaOn behalf of the Board of Directors
+For Britannia Industries Limited
+ 
+ 
+    Walker Chandiok & Co LLP  
+5th Floor, No.65/2, Block “A”, 
+Bagmane Tridib, Bagmane  
+Tech Park, C V Raman Nagar, 
+Bengaluru 
+560093                                                                                                                       
+ 
+T  +91 80 4243 0700 
+F +91 80 4126 1228  
+ 
+ 
+   
+   
+   
+   
+Chartered Accountants 
+ 
+Offices in Bengaluru, Chandigarh, Chennai, Gurugram, Hyderabad, Kochi, Kolkata, Mumbai, New Delhi, Noida and Pune 
+ Walker Chandiok & Co LLP is registered  
+with limited liability with identification  
+number AAC-2085 and its registered office  
+at L-41 Connaught Circus, New Delhi,  
+110001, India   
+ 
+ 
+ 
+ 
+ 
+Independent Auditor’s Review Report on the Consolidated Unaudited Quarterly Financial Results and Year to 
+Date Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (as amended) 
+To the Board of Directors of Britannia Industries Limited  
+ 
+1. We have reviewed the accompanying statement of the consolidated unaudited financial results (‘the Statement’) of 
+Britannia Industries Limited  (‘the Holding Company’) and its subsidiaries (the Holding Company and its subsidiaries 
+together referred to as ‘the Group’), its associates and joint venture for the quarter ended 30 September 2025  and the 
+consolidated year to date results for the period 01 April 2025 to 30 September 2025 being submitted by the  
+Holding Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 (as amended), (‘Listing Regulations’). The Statement includes the results of the 
+entities as given in Annexure 1. 
+  
+2. This Statement, which is the responsibility of the Holding Company’s management and approved by the  
+Holding Company's Board of Directors, has been prepared in accordance with the recognition and measurement 
+principles laid down in Indian Accounting Standard 34, Interim Financial Reporting (‘Ind AS 34’), prescribed under 
+Section 133 of the Companies Act, 2013 (‘the Act’), and other accounting principles generally accepted in India and 
+is in compliance with the presentation and disclosure requirements of Regulation 33 of the Listing Regulations. Our 
+responsibility is to express a conclusion on the Statement based on our review. 
+ 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410, 
+Review of Interim Financial Information Performed by the Independent Auditor of the Entity, issued by the  
+Institute of Chartered Accountants of India. A review of interim financial information consists of making inquiries, 
+primarily of persons responsible for financial and accounting matters, and applying analytical and other review 
+procedures. A review is substantially less in scope than an audit conducted in accordance with the Standards on 
+Auditing specified under Section 143(10) of the Act, and consequently, does not enable us to obtain assurance that 
+we would become aware of all significant matters that might be identified in an audit. Accordingly, we do not express 
+an audit opinion. 
+ 
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33 (8) of the 
+Listing Regulations, to the extent applicable. 
+ 
+ 
+  

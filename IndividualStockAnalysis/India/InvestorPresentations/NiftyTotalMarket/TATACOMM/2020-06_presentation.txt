@@ -1,0 +1,406 @@
+
+=== page 1 ===
+ 
+ 
+ 
+ 
+Regd. Office  : VSB Mahatma Gandhi Road Fort Mumbai – 400 001  
+Tel  91  22  6659 196 8  email  : manish.sansi @tatacommunications.com  
+CIN no.  : L64200MH1986PLC039266 web site  :  www.tatacommunications.com  Tata Communications Limited  
+HQ/CS/ CL.24B /16972B 
+June 2 6, 2020 
+ 
+Sir, 
+ 
+Sub:  Presentation to  Analyst / Institutional Investor Meetings pursuant to Regulation  
+30(2)  of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015 . 
+ 
+This is further to our intimation dated June 23, 2020 regarding the Tata Communications Analyst 
+Meet scheduled through a virtual webinar on  June  26, 2020  
+ 
+We attach herewith t he presentation for the afore -mentioned Analyst Meet. The presentation is 
+also available on the website of the Company.  
+ 
+Kindly take the same on  your record s. 
+ 
+Thanking you,  
+Yours faithfully,  
+For Tata Communications Limited  
+ 
+ 
+PP Manish Sansi  
+Company Secretary  &  
+General Counsel (India)   
+ 
+To: 
+ 
+1) Security Code 500483, BSE Ltd, Phiroze Jeejeebhoy Towers,  Dalal Street, Mumbai - 400001.   
+2) Security Code TATACOMM, National Stock Exchange of India Limited. Exchange Plaza, C -1, Block G, Bandra 
+Kurla Complex, Bandra (E), Mumbai, Maharashtra 400051  
+ 
+
+=== page 2 ===
+0WELCOME TO 
+TATA COMMUNICATIONS 
+ANALYST DAY 
+26THJUNE 2020
+=== page 3 ===
+
+=== page 4 ===
+WHAT ARE THE CUSTOMER DRIVERS?
+BOOSTING
+PRODUCT 
+INNOVATION 
+AND 
+CUSTOMER 
+EXPERIENCE
+ENABLING
+BORDERLESS 
+GROWTH
+BUILDING
+AGILITY
+IMPROVING
+PRODUCTIVITY 
+AND 
+EFFICIENCY
+MANAGING 
+RISK
+=== page 5 ===
+WHAT IS DIGITAL? 
+DIGITAL IS 
+DATA APPLICATIONS CONNECTIVITY
+
+=== page 6 ===
+OUR OPPORTUNITY LANDSCAPE
+
+=== page 7 ===
+AVAILABLE MARKET 
+6 key platforms have been identified to significantly 
+contribute to our growth in revenue.
+MOBILITY & IoT
+NEXT GENERATION 
+CONNECTIVITY
+VOICECOLLABORATION
+CLOUD, EDGE & 
+SECURITY
+NETFOUNDRY
+Available Market 2023
+Mobility & IoT
+CAGR +3.9%
+2022 $243 Bn
+2019 $217 Bn
+Collaboration
+CAGR +12.2%
+2022 $35 Bn
+2019 $25 Bn
+Voice
+CAGR (6.6)%
+2022 $8 Bn
+2019 $7 BnNetFoundry
+CAGR +25.5%
+2022 $109 Bn
+2019 $55 Bn
+Next Generation Connectivity
+CAGR 0.2%
+2022 $145 Bn
+2019 $145 BnCloud, Edge & Security
+CAGR +12.0%
+2022 $224 Bn
+2019 $159 Bn
+SOURCE: GARTNER, CISCO VNI, OVUM, F&S, TELEGEOGRAPHY, WAINHOUSE, INTERNAL REPORTS
+=== page 8 ===
+237 25414514556387 406 
+2019 2023Global Network Spends (USD Bn)
+Service Provider IP
+Transit market
+Enterprises –Network 
+Spend
+Enterprises –Mobile 
+SpendSHIFT HAPPENING IN GLOBAL ENTERPRISE NETWORK SPEND
+63.6%
+-0.2%
+2.6%CAGR83%84%17%16%
+201396
+2019 2022Consumer and Business data 
+(EB per month)
+Business
+Consumer25%
+23%
+26%CAGR
+Source: Cisco VNI: Forecast and trends 2017 -2022
+0 6 14 10 45 50 68 60 19 17 1 2 
+2018 2023Cloud Connect
+P2P- IPL, Ethernet
+MPLS
+Internet
+Traditional Managed Services
+SD-WAN Managed ServicesGlobal Enterprise Data Network Spending (USD Bn)
+145 145CAGR
+-2%
+-3%22%
+2%
+-6%
+76%
+Source: Gartner1,2%
+Source: Enterprise network and mobile spend from Gartner; 
+SP IP spend based on internal estimates
+=== page 9 ===
+Enterprise 
+User7WELL POSITIONED TO BE PREFERRED DIGITAL PARTNER
+Retail end 
+customerEnterprise Ecosystem$145 Bn $145 BnEnterprise Network Spend
+$237 Bn $254 BnEnterprise Mobility SpendSP Ecosystem
+Factory
+Branches/ 
+Offices
+ Vendors/
+Suppliers
+IoT solutionsData Centers
+SP PoPSP PoP
+Enterprise 
+Office
+Base stations Base stations
+SET OF OPPORTUNITIES
+1 2 Network 
+transformationEnterprise mobility 
+and apps 
+performance
+3Service wrap4Network securityOTT/Cloud Ecosystem 
+DC to DC 
+connectivity
+2019 2023Not addressable by TCL
+Addressable by TCL
+New opportunity for TCL
+Source: Cisco VNI, Gartner, Telegeography
+=== page 10 ===
+IDENTIFYING KEY PILLARS
+MOVETMIoT -Platform 
+enabling intelligent, agnostic 
+and network independent 
+global cellular connectivity
+Collaboration -Fully managed 
+collaboration services for 
+enterprises
+Network++1-Enabling enterprise 
+network transformation to adopt 
+cloud, internet and software -
+defined services (including SD -
+WAN)
+Media (Video Connect) –
+Seamless and dedicated video 
+content delivery network 
+InstaCC –Cloud based digital 
+Customer and employee 
+experience portfolio for 
+enterprises across multiple 
+channels
+MMX –Omnichannel Mobile 
+messaging service enabling 
+digital customer experience for 
+enterprises
+
+=== page 11 ===
+DIGITAL ECOSYSTEM ENABLER: INTRODUCING SCDXSECURE CONNECTED DIGITAL EXPERIENCE ( SCDX )
+9
+SECURE CONNECTED DIGITAL WORKPLACE
+(WORKPLACE SOLUTIONS)
+DIGITAL CUSTOMER EXPERIENCE PLATFORM
+(VIRTUAL SERVICE ENABLEMENT)
+EXTRANET PLATFORM (WIP)
+(CONNECTED ECO -SYSTEM SOLUTIONS)Driving Principles
+▪Build to suit the new 
+ways of working 
+▪Create technology 
+solutions to solve 
+operational hurdles
+▪Understand the IT 
+priorities that 
+surround their 
+offerings
+▪Show FlexibilitySECURE 
+CONNECTED 
+DIGITAL 
+EXPERIENCE 
+(SCDX)
+=== page 12 ===
+WHO OWNS THE CUSTOMER
+IN THE DIGITAL ECOSYSTEM
+PRODUCT –
+OEMSINDEPENDENT 
+SOFTWARE 
+VENDORS
+SYSTEM
+INTEGRATORS
+IT
+CONSULTANTSVALUE ADDED
+RESELLERS
+PRODUCT –
+OEMSPLATFORM
+PROVIDERS
+=== page 13 ===
+WHO ‘CAN’ OWN THE CUSTOMER?
+IN THE DIGITAL ECOSYSTEM
+TATA 
+COMMUNICATIONS
+as a
+ENABLER OF 
+THE DIGITAL 
+ECOSYSTEM 
+TELECOM 
+CONNECTIVITY 
+PROVIDERSINDEPENDENT 
+SOFTWARE 
+VENDORS
+SYSTEM
+INTEGRATORS
+IT
+CONSULTANTSVALUE ADDED
+RESELLERS
+PLATFORM
+PROVIDERS
+=== page 14 ===
+OUR AMBITION
+TO ACHIEVE  PROFITABLE GROWTH 
+AND BECOME 
+A LEADING DIGITAL ECOSYSTEM ENABLER
+IN THE EYES OF OUR CUSTOMERS 
+AND THE INDUSTRY
+=== page 15 ===
+OUR STRATEGY
+HEALTHY BALANCE SHEET     AND    DOUBLE DIGIT PROFITABLE GROWTH
+WHAT
+ HOW
+ WHO
+50 DRIVE LEADERHSIP BEHAVIOURSPOSITIONING AS A DIGITAL ECOSYSTEM ENABLER
+FINANCIAL 
+FITNESS
+GROWTH 
+PLAN
+CULTURE
+=== page 16 ===
+WHAT HOW WHOPOSITIONING AS A DIGITAL ECOSYSTEM ENABLER
+GROWTH 
+PLAN
+DRIVE LEADERHSIP BEHAVIOURS
+ CULTUREHEALTHY BALANCE SHEET             AND            DOUBLE DIGIT PROFITABLE GROWTH
+FINANCIAL 
+FITNESS
+Profitable Data Revenue Growth
+Double Digit EBITDA Growth with 
+focus on optimal cost structure
+Significant Reduction of Net Debt
+in 3 years
+RoCE at 20% in next 3 yearsOUR STRATEGY
+=== page 17 ===
+
+=== page 18 ===
+CLEANER 
+STRUCTUREOWNERSHIP OF 
+OUTCOMESAUTOMATION 
+TRANSPARENCY
+SINGLE POINT OF 
+OWNERSHIP
+Named account 
+ownerEFFECTIVE 
+ENGAGEMENTS
+Customer service 
+team
+Customer success 
+managerOPTIMUSSIMPLIFYING OURSELVES IN THE EYES OF THE CUSTOMER
+SEGMENTATION
+DEEPER WITH 
+FEWER
+
+=== page 19 ===
+Our infrastructure spans the world to allow end -to-end programme delivery at any scale. We promise consistency, reliability and speed of content distribution.TRANSFORMING THE LIVE MEDIA INDUSTRY ONE EVENT AT A TIME
+2 Bn+ sports fansReaching over 
+10,000 +TB
+Content storage & transfer
+approx. 1.5 million standard DVDs5000+ live events
+delivered, over 750
+remotely producedLIVE EVENT SERVICES
+KEY 
+CUSTOMERS2014
+2015
+2016
+2017
+2018•Frost & Sullivan’s Managed Services Provider of the year for Video 
+Services (Two years in a row)
+•Leadership quadrant in Omdia’s Global Video CDN Services 
+scorecard
+•World’s first truly live 4K 360o video streamed from a race
+•Pioneering next -gen media infrastructure supporting world’s 
+majority of global sports events through production, distribution & 
+consumption
+•Media focused cloud & edge services supporting the industry to 
+transition to a virtualised environment enabling safe re -opening of 
+sports events
+•Helping media broadcasters' transition from traditional satellite 
+delivery to Fiber /IP based delivery & supporting their digital OTT 
+ambitions 
+•Dominant leadership position:
+•LIVE 4K Tier 1 Global sports contribution & distribution 
+•Global Motorsports distribution (Mainly European)
+•India sports market (IPL, PBL, PKL)
+•Remote Production for Global sports eventsPathbreaking technology ownership
+800+
+television channels 
+across US, Europe & AsiaManage distribution for 
+With sports content 
+delivered through 90% of ALL 
+Global sports broadcasters
+=== page 20 ===
+
+=== page 21 ===
+FOCUS ON BUILDING THE RIGHT PRODUCTS
+3 DESIGN PRINCIPLES
+1. 
+Capex 
+efficiency
+2. 
+Platform 
+based3. 
+Agile NPI
+4 BUSINESS VALIDATIONS
+SCALABLE revenues from 
+products and services PROFITABLE and 
+improving over time
+DIFFERENTIATED product 
+and service designRELEVANT to industry 
+trends and technology shifts
+=== page 22 ===
+ENABLING ENTERPRISE DIGITAL TRANSFORMATION
+Building 
+agilityEnhancing 
+Productivity and 
+EfficiencyBoosting product 
+innovation and 
+customer experienceManaging 
+riskEnabling 
+borderless 
+growth
+CUSTOMER 
+DRIVERS 
+PLATFORMS
+AND 
+EXPERIENCE
+Sustainability Innovation Artificial Intelligence
+ COMMITMENTS
+NEXT 
+GENERATION 
+CONNECTIVITYCLOUD, 
+EDGE AND 
+SECURITYCOLLABORATIONNETFOUNDRY MOBILITY 
+AND IOT
+VOICECustomer intimacy Services Wrap
+
+=== page 23 ===
+OUR NET PROMOTER SCORE (NPS)
+YEAR 2019:
+
+=== page 24 ===
+OUR NET PROMOTER SCORE (NPS)
+YEAR 2020:
+
+=== page 25 ===

@@ -1,0 +1,702 @@
+
+=== page 1 ===
+ 
+Ref No: RML/2026-27/673 
+ 
+Date: May 08, 2026 
+ 
+To,  
+BSE	Limited        National 	Stock	Exchange 	of	India	Limited  
+Scrip	Code:	543228	  				 Symbol:	ROUTE	
+ 
+Sub:	Investor 	Presentation 	
+	
+Dear Sir/Madam,  
+	Further to our Intimation Letter No. RML/2026-27/672  dated May 07, 2026 and pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we are enclosing herewith the presentation on Strategy and Earning update, that will be pr esented today, i.e. Friday, May 08, 2026,  in connection 
+with the Strategy Update and Audited Financial Results of the Company for the quarter and year ended March 31, 
+2026. The management of the Company will discuss this presentation during the Strategy and Earnings Update call scheduled to be held today, i.e. May 8, 2026 at 4:00 P.M. (IST).  
+The same is also available on the Company’s website at www.routemobile.com  
+ 
+You are requested to take the above information on record. 
+ 
+Thanking you,  
+Yours truly, 
+For Route	Mobile	Limited  
+ 
+ 
+ Tejas	Shah	
+Company Secretary & Compliance Officer 
+ICSI Membership No.: A34829 
+ 
+Encl: as above 
+=== page 2 ===
+Strategy and Earnings 
+Update 
+(Q4 & FY25 -26)
+May 8, 2026
+=== page 3 ===
+Safe Harbor
+Certain statements mentioned in this presentation concerning our future growth prospects are forward looking statements 
+(the “Forward Statements”) and are based on reasonable expectations of the management, which involves a number of risks, 
+and uncertainties that could cause actual results to differ materially from those in such Forward Statements. The risks and 
+uncertainties relating to these Forward Statements include, but are not limited to, risks and uncertainties regarding 
+fluctuations in our earnings, fluctuations in foreign exchange rates, revenue and profits, our ability to generate and manage
+growth, competition in CPaaS globally, wage increases in India, our ability to attract and retain highly skilled professional s, 
+time and cost overruns on fixed -price and fixed time frame contracts, industry segment concentration, our ability to manage 
+our international operations, our revenues being highly dependent on clients in the United States of America, reduced 
+demand for technology in our key focus areas, disruptions in telecommunication networks or system failures, our ability to 
+successfully complete and integrate potential acquisitions, liability for damages on our service contracts, withdrawal of fis cal
+governmental incentives, political instability, adverse impact of global pandemics (including COVID -19 impact), war, legal 
+restrictions on raising capital or acquiring companies, unauthorized use of our intellectual property( ies) and general economic 
+conditions affecting our businesses and industry. We may, from time to time, make additional written and oral Forward 
+Statements . We do not undertake to update any Forward Statements that may be made from time to time by us or on our 
+behalf, unless required under the law.
+2
+=== page 4 ===
+Seckin Arikan
+CEO of Proximus Global
+Chairman of Route Mobile BoardTushar Agnihotri
+Chief Executive Officer,
+Route Mobile
+Rajdipkumar Gupta
+Managing Director,
+Route Mobile
+Vinay Binyala
+Chief Strategy Officer & Investor Relations Officer,
+Route Mobile
+Raj Gill
+Group Chief Financial Officer,
+Route Mobile
+
+=== page 5 ===
+01Growth Playbook
+The way forward for Route Mobile
+Agenda05Growth Strategy & 
+Value Creation Drivers
+Leveraging the key growth engines to 
+drive value creation
+02Route Mobile –built on a 
+strong foundation
+Company overview, key differentiators 
+and our proven growth foundation
+07Financial Performance
+Revenue, margins, cash flow trends 03Route Mobile within 
+Proximus Global
+How Proximus Group backing creates a 
+powerful strategic multiplier
+08Outlook & 
+Capital Allocation
+Financial ambition and capital allocation 
+framework04Market Context & 
+Industry Dynamics
+Structural shifts in CPaaS : A2P SMS decline, 
+omnichannel rise and AI opportunity06Key Business Metrics
+Customer cohorts and revenue mix
+=== page 6 ===
+The reset creates a stronger foundation
+•A2P SMS decline largely behind us; higher -quality business now ready to reaccelerate
+•Gross margins expanding as low -quality volume exits; business mix structurally healthierFoundation
+Two primary growth engines
+CPaaS & AI
+Omnichannel + AI as the next revenue engine
+•RCS, WhatsApp & AI messaging growing at 43% CAGR (FY22–26)
+•AI embedded across stack –routing, predictive engagementMNO Solutions
+Building a full operator monetization franchise
+•A2P SMS firewall + voice firewall + fraud intelligence
+•High -margin, resilient revenue stream
+Differentiated by two structural advantages
+India as the global innovation hub
+•Route Mobile as Proximus Global's innovation engine
+•“Incubate in India, deploy worldwide”Proximus Global
+A two -way strategic multiplier
+•Route Mobile is CPaaS & omnichannel layer of the Group
+•Cross -sell to 900+ MNO relationships + global enterprise baseInnovation
+Balance sheet actively put to work
+•Bolt -on acquisitions to deepen enterprise solution stickiness –targeted, capability -led
+•Returning value to shareholders –excess cash on balance sheet being deployed meaningfullyCapital allocationDisciplined capital deploymentOur growth playbook
+5
+=== page 7 ===
+Route Mobile is 
+built on a strong 
+foundation
+
+=== page 8 ===
+From A2P SMS to AI -powered network APIs –a single platform serving both enterprise and operator needsFull-stack CPaaS with multiple, growing revenue streams
+280+
+Direct MNO 
+Connections(1)INR 44,082 M
+Revenue
+(FY 25 -26)3,100+
+Clients175 B
+Messages 
+Processed/Year900+
+Total MNO 
+Connections
+Messaging
+Engagement
+VoiceSMS P2A Email
+WhatsApp 
+BusinessViber RCS
+IVR Click -to-callNumber 
+MaskingKonera
+Silent Verification Number Verification
+SIM Swap Detection Device Location
+Enabling operators to monetise network data 
+and enterprises to deploy frictionless, AI -
+powered customer engagement at scaleEnterprise Solutions MNO Solutions Network API Solutions
+A2P SMS 
+FirewallReal -time AI driven A2P SMS 
+analysis to detect and block 
+fraudulent traffic before it 
+reaches the network
+Voice FirewallReal -time detection and blocking of 
+fraudulent voice traffic
+Fraud 
+PreventionAI-driven threat intelligence and 
+analytics to secure transactions 
+between enterprises and their 
+consumers
+Serving both sides of the value chain –enterprises and operators –creates a structural competitive advantage
+(1) 280+ direct MNO connects of Route Mobile7
+=== page 9 ===
+We differentiate across three key dimensions...
+Global 
+connectivity
+Direct routes to 450+ carriers 
+globally(1)
+•Unmatched direct carrier 
+connections for reliability and speed
+•End -to-end control ensuring best -in-
+class delivery rates
+•Secure and scalable infrastructure 
+meeting the strictest SLAsFull-stack CPaaS
+platform
+One platform for every
+communication channel.
+•SMS, voice, email, RCS, WhatsApp & 
+omnichannel in one suite
+•Developer -friendly APIs and no -code 
+enterprise solutions
+•AI-ready features embedded 
+natively across channelsEnterprise -trusted
+global partner
+Serving the world's leading brands
+with compliance and scale.
+•Trusted by Fortune 500s and top -tier 
+financial institutions
+•Local expertise and 24/7 support 
+globally
+•Glocal approach –go global, stay local –
+feet on street across domestic markets 
+in APAC, LatAm and MEA
+8(1) 280+ direct MNO connects of Route Mobile and 170+ additional direct MNO connects of BICS)
+=== page 10 ===
+Systematic roadmap to create sustained 
+growth momentum
+Boot strapped the 
+company with
+c.US$2,000Started as an 
+aggregator of 
+traffic to gain 
+MNO access
+Hosted SMSCs 
+in India and UKOpened offices in 
+Europe, MEA and SEAsia 
+Ramped up sales team 
+in global marketsOn boarded marquee 
+clients across industry 
+verticals including new 
+age tech, finserv ,
+amongst others
+Consummated acquisition 
+of 365squared, Cellent
+Technologies, Start Corp 
+India and Call2Connect Successful transition 
+from an aggregator 
+model to a direct 
+enterprise model
+Onboarded several 
+blue chip 
+customers 
+including Global 
+Fortune 
+enterprisesDeveloped Next 
+Gen services like 
+RBM and OTT 
+messagingEntered lucrative 
+North American 
+market
+Became hubbing
+partners with top 
+telecom operators 
+globally
+Full messaging 
+technology stack 
+through TeleDNA
+acquisitionSuccessfully listed on 
+Indian Stock 
+Exchanges
+Stage 1 
+Bootstrapped
+Profitable since first year 
+of operations
+Stage 2
+Transition to an Enterprise Business, 
+Global Expansion with differentiated 
+acquisitionsStage 3
+Omni -channel Stack
+Marquee Clients
+Blockbuster IPO Sep’20Expanded product portfolio 
+and geographic presence 
+through acquisitions
+Stage 4
+Expanding Product Portfolio and 
+Geographical footprint
+Successfully 
+accomplished Global 
+API Challenge –
+Hackathon
+Raised ₹8,675mn via 
+QIP from marquee 
+investors
+Buyback of 
+₹1,200mn 
+completedLaunched TruSense, 
+a digital identity and 
+security suite
+Proximus completes the 
+acquisition of a majority 
+stake in Route Mobile
+9
+=== page 11 ===
+Route Mobile 
+plays a vital 
+role within 
+Proximus 
+Global
+
+=== page 12 ===
+Our unique blend of strengths creates a resilient 
+foundation for long -term stability
+Top 5, at -scale leading innovator 
+in Omnichannel solutions 
+Allowing enterprises to reach their 
+customers via their preferred 
+channelNumber one interoperability service provider, with a network of networks
+Enabling voice calls and SMS sending across the world
+One of the key players in a highly 
+fragmented digital identity market
+Providing anti -fraud protection for 
+enterprises through identity 
+verification (e.g. OTP)Connect
+Engage
+Protect
+11
+
+=== page 13 ===
+Route mobile plays a crucial role in advancing in the 
+Proximus Global mission
+Trusted by several 
+Fortune 500 clients
+(enterprises, OTTs 
+and mobile 
+operators) across 
+the globeWith a reach of 5+ 
+billion individuals(1), 
+carrying half the 
+world's data 
+roaming trafficDetecting over 20 
+fraud attempts 
+every second(2),
+before customers 
+ever felt the 
+impactDelivering 200+bn 
+digital 
+communications(3), 
+over people's preferred 
+channels (SMS, 
+WhatsApp, RCS, 
+chatbots...)
+We enable seamless global connectivity and trusted engagements
+to power the world's interactions
+Connecting people 
+all around the world 
+with each other, 
+businesses and 
+machines
+12(1) Reach of Proximus Global; (2) Metric for Telesign; (3)  Annual A2P communication volume supported by Proximus Global
+=== page 14 ===
+Why Route Mobile –within Proximus Global –
+is a compelling opportunity
+Part of Proximus Global 
+–with full support of 
+Elevate 2030 strategic 
+agendaGroup -backed 
+platform
+900+ MNO connections, 
+20 global offices, 175Bn 
+annual transactions –a 
+differentiated operator -
+grade infrastructureScale & 
+connectivity
+US/Europe entry, plus 
+growing demand for 
+omnichannel, digital 
+identity, and network 
+API solutionsExpanding 
+addressable 
+market
+Strategic pivot to higher -
+margin customers, 
+portfolio optimization, 
+and AI -led engagement 
+capabilitiesQuality growth 
+focus
+13
+=== page 15 ===
+Market 
+Context and 
+Growth Drivers 
+/Strategy
+
+=== page 16 ===
+Navigating the Reset: Industry Headwinds
+STRUCTURAL
+A2P SMS / ILD 
+Structural Decline
+•ILD A2P SMS –Route Mobile’s significant revenue 
+driver –is in structural, secular decline 
+•Enterprises are actively migrating to WhatsApp, 
+RCS and OTT channels: richer experience, lower cost 
+FRAUD / ECOSYSTEM
+Artificially Inflated 
+Traffic (AIT) Clean -up
+•AIT clean -up across the industry triggered a broad -
+based decline in A2P SMS volumes globally 
+•Route Mobile, as an aggregator, was exposed to 
+upstream AIT –volumes flowing in from 
+intermediary aggregators that contained a 
+proportion of artificially inflated traffic MACRO
+Enterprise Cost 
+Optimization Wave
+•Global Enterprise CPaaS spend contracted over the 
+past two years –global cost restructuring programs
+•Discretionary communication budgets were among 
+the first to be cut
+TRANSITION RISK
+New Products Not Yet Filling the Gap
+•New Products grew 11.3 % YoY –but from a small base. New products are ~8% of revenue and 
+need to grow more rapidly to help offset ILD revenue loss
+•Route Mobile’s product mix needs to evolve in line with the accelerating channel shiftINTEGRATION RISK
+Integration
+challenges
+•Rushed transformation 
+post -acquisition
+•Complex organizational and 
+financial structure
+15
+=== page 17 ===
+Navigating the Reset: The Strategic Response
+Route Mobile is accelerating its shift to platform defensibility –and this is the Playbook
+INNOVATE TO STRENGTHEN PLATFORM
+ELEVATE
+Omnichannel Platform 
+•Scale RCS, WhatsApp & OCEAN –the omnichannel layer
+•Move up the value chain: clock higher margins, stronger lock -inINNOVATE
+AI & Innovation Hub
+•GenAI -ready CPaaS: chatbots, CRM/ERP integrations, AI deployment
+•India as Proximus Global's innovation hub –piloting for global rollout
+GROWTH EXECUTION –NEAR TERM ENGINES
+DEEPEN
+Core Market Penetration
+•3,100+ enterprise clients –most on a single channel today
+•Wallet share expansion: the highest -ROI near -term leverEXPAND
+Geographic Growth
+•Mexico, Philippines, US & Europe –backed by Proximus Global
+•Telesign access + Proximus network as distribution multiplier
+M&A & PARTNERSHIPS –ACCELERATOR FOR ALL INITIATIVES
+ACCELERATE
+AI-Led Acquisitions
+Target conversational AI & CPaaS -adjacent 
+companiesNew Markets & Partner GTM
+M&A for high -value geographies. ISV / SI 
+ecosystem + telco white -label for distributionProximus Cross -sell
+Joint GTM into BICS and Telesign enterprise 
+bases. Capital -light. High -ROI
+161
+3
+52
+4
+=== page 18 ===
+Growth Strategy | Pillar 1: Elevate Platform through Innovation
+ELEVATE
+Platform &
+Innovation
+A differentiated, scalable AI 
+ready platform is Route 
+Mobile's strongest assetEvery step up the value chain –from SMS to AI -native Customer Experience solutions 
+to Network APIs –creates deeper lock -in and new revenue pools
+Omnichannel Scale (RCS, WhatsApp & OCEAN)
+Scale BSP capabilities in WhatsApp Business and expand RCS coverage.
+Grow non -SMS revenue via OCEAN –Route Mobile's omnichannel orchestration layer.
+AI & GenAI -Native CPaaS
+Enhancing the platform to support enterprise GenAI use cases -enabling AI -powered customer 
+interactions across chat, voice and messaging channels, delivered at CPaaS scale.
+Firewall & Network API Solutions
+A2P SMS and Voice Firewall solutions for MNOs: AI -powered fraud detection and traffic protection –a  
+proven, growing managed -service revenue stream with strong operator demand.
+Network APIs leveraging MNO backend infrastructure (number verification, SIM swap, device location) –
+differentiated enterprise solutions with high competitive barriers.
+17
+=== page 19 ===
+Growth Strategy | Pillar 2: Innovative Initiatives
+INNOVATE
+AI &
+Innovation
+Hub
+Innovation as a differentiator as 
+the market moves to AI. India is 
+the lab. The world is the market.India is the Proximus Global innovation lab. What gets proven here gets deployed 
+globally. This is Route Mobile’s structural R&D and AI advantage.
+AI-Powered Operations
+Leveraging AI extensively for business process optimization: AI -powered support resolution, engineering 
+assistance, and automated testing and deployment –measurably reducing cycle times and cost -to-serve.
+AI-generated code, process optimization and intelligent automation being implemented across functions.
+Faster, leaner, smarter operations across the entire Route Mobile organisation.
+GenAI -Native CPaaS Platform
+Building significantly advanced GenAI -powered engagement solutions -AI-native chatbots and voice 
+agents that meet the growing enterprise demand for intelligent, conversational customer experiences.
+Delivered across chat, voice and messaging channels –Route Mobile as the trusted CPaaS layer for 
+enterprise GenAI adoption.
+Network APIs & India Innovation Hub
+Deployed network API -powered Silent Verification to Aakash Education –users experience enhanced 
+significantly by reducing friction across the engagement. Proven at scale in India.
+Now scaling globally: this solution will be taken to enterprise customers across the Proximus footprint –
+India was the lab. The world is the market.
+18
+=== page 20 ===
+Growth Strategy | Pillar 3: Core Market Penetration
+DEEPEN
+Core Market
+Penetration
+A stronger, stickier base 
+generates the recurring 
+revenue and customer 
+intelligence that powers the 
+next pillar: geographic 
+expansion.With 3,100+ enterprise clients –most on a single channel today –Route Mobile's 
+highest -ROI near -term growth opportunity is already inside the house.
+Enterprise Account Deepening
+Deploy KAM -led account management for top accounts. The target: shift clients from transactional, single -product 
+relationships to multi -year, multi -channel platform engagements –increasing switching cost and lifetime value.
+Cross -sell & Upsell
+Upgrade existing SMS -only clients to higher -value channels –RCS, WhatsApp Business, Email & Voice. Single -
+channel to multi -channel migration delivers meaningful revenue uplift per account, with minimal incremental sales 
+& marketing cost.
+Solutions -Led Sales
+Transform from transactional API sales to platform -solution engagements –campaign management, analytics 
+dashboards, and full CPaaS suite deployments. Platform deals are larger, stickier, and margin -accretive.
+19
+=== page 21 ===
+Growth Strategy | Pillar 4: Geographic Expansion
+EXPAND
+Geographic
+Growth
+Expanded reach creates the 
+scale that justifies deeper 
+platform investment.Route Mobile enters new markets not as a standalone challenger –but backed by 
+Proximus Global infrastructure and a ready enterprise base to cross -sell into.
+Emerging Markets: Mexico & Philippines
+Ground -up presence targeting BPO, BFSI and e -commerce.
+First -mover advantage in high -growth, under -penetrated CPaaS markets.
+US & European Build -out
+Leverage Telesign infrastructure for US entry.
+GDPR -compliant messaging for EU financial services and logistics.
+The Proximus Global Network Effect
+Route Mobile as the CPaaS layer across the full Proximus footprint.
+Unlocks group -wide distribution –a structural advantage no competitor can replicate.
+20
+=== page 22 ===
+Growth Strategy | Pillar 5: M&A & Partnerships
+ACCELERATE
+M&A &
+Partnerships
+M&A compounds the returns on 
+each of other strategic 
+initiativesM&A and Proximus cross -sell are Route Mobile's levers for non -linear, accelerated 
+value creation.
+AI-Led Inorganic Acquisitions
+Target conversational AI, chatbot and CPaaS -adjacent companies.
+Compress a 2 -3 years organic build into 12 –18 months.
+New Market Entry & Partner GTM
+Evaluate M&A as an option to speed up entry into high -value geographies.
+ISV ecosystem + telco white -label for scalable, low -cost distribution.
+Proximus Global Cross -sell
+Joint GTM into BICS and Telesign enterprise customer bases.
+High -ROI, capital -light –a structural advantage unique to Proximus Global.
+21
+=== page 23 ===
+Key Business 
+Metrics
+
+=== page 24 ===
+New Products Revenue Evolution
+Route Mobile  |  Next -Generation CPaaS Product Revenue Growth Trajectory (FY22 –FY26)
+8521,4722,2903,1683,526
+0500100015002000250030003500
+FY22 FY23 FY24 FY25 FY26— +73% +56% +38%+11% YoY
+NEW PRODUCTS AS % OF TOTAL REVENUE
+4 4678
+0510
+FY22 FY23 FY24 FY25 FY26% of Total Revenue
+New products revenue  FY26: ~₹3,526 mn  |  4 -year CAGR FY22 -FY26: +43%ANNUAL NEW PRODUCTS REVENUE  (₹ MN)
+23
+=== page 25 ===
+Geographic Revenue Mix
+Route Mobile  |  Year -on-Year Comparison by Termination Geography & Client HQ Continent (FY24 –FY26)
+BY TERMINATION GEOGRAPHY(1)(%)
+613101648
+71091550
+913131241
+AmericasMid East & AfricaEuropeAPAC ex-IndiaIndia
+FY26 FY25 FY24By customer HQ continent(2)(%)
+3143142
+2113642
+2143538
+AfricaEuropeAsiaAmericas
+FY26 FY25 FY24
+•India continues to be the largest geography (by termination) despite decline in ILD revenue from global enterprises (decrease d contribution from 
+US headquartered customers)
+•Growth in domestic business across local markets –added new large customers + growth in revenue from existing clients in Europe
+(1) Top 50 countries contribute c. 88% of  FY25 -26 revenue from operations  
+(2) Top 150 customers -contribute c. 90% of  FY25 -26 revenue from operation 24
+=== page 26 ===
+2101022214
+29961716
+27961115
+Retail, Travel and HospitalityEcommerceTier 1 CPaaS PartnersTelecom & Allied PartnersDigital NativeFinserv
+FY26
+FY25
+FY24Industry Vertical Analysis
+Route Mobile  |  Year -on-Year Revenue Contribution by Sector (FY24 –FY26)
+Revenue Contribution By Industry Vertical  (%)
+25•Finserv continues to be the largest vertical, with growth in revenues from several domestic Indian BFS and Fintech customers
+•Digital native witnessed decline as a specific US headquartered customer switched to alternate channels of communication
+•Decline in contribution of e -commerce towards total revenue reflects the loss of ILD traffic from a global major client
+=== page 27 ===
+Customer Cohort Analysis
+Route Mobile  |  Client Concentration, Revenue Cohort by Account Size (FY24 –FY26)
+Client Concentration  (% Of Revenue) Clients By Account Size  (No. Of Accounts)
+8 91870
+582173
+0102030405060708090
+>$15mn >$10mn >$5mn >$1mn
+FY24-25 FY25-26324475
+334876
+334376
+020406080100
+Top 5 Top 10 Top 50
+FY24 FY25 FY26
+26•Customer mix shift: ILD revenue –concentrated in a few high -value (but lower gross margin) accounts –was partially replaced by domestic 
+customers at significantly lower revenue (relatively higher gross profit) per account, compressing overall revenue despite vo lum e recovery
+•Pricing compression: ILD transactions command substantial pricing premiums over domestic –similar transaction volumes generated lower 
+revenue y -o-y
+=== page 28 ===
+Financial 
+Performance
+
+=== page 29 ===
+Analysis of Q4 FY 25 -26 Performance
+Gross Profit (In ₹ mn) & Gross Profit Margin (%)
+2,264 2,712 2,639 19.3%24.5% 23.3%
+Q4 24-25 Q3 25-26 Q4 25-2611,750 11,071 11,30940.5 45.1 45.1
+Q4 24-25 Q3 25-26 Q4 25-26Q4 25 -26 revenue performance
+•Revenue increased by 2.2% Q -o-Q, and decreased by 3.8% Y -o-Y
+•Sustained Q3 25 -26 revenue momentum in Q4 25 -26
+•Strategic focus on domestic markets (primarily India) driving revenue growth
+Trends in Gross Profit
+•Gross Profit increased by 16.6% Y -o-Y and decreased by 2.7% Q -o-Q
+•Gross Profit Margin is 23.3% in Q4 25 -26 vs. 24.5 % in Q3 25 -26 as against 19.3% in Q4 24 -25
+Y-o-Y Gross margin expansion reflects increased focus on regional business
+•Focus on retention of higher margin traffic from existing customer 
+•Enhanced routing strategy delivering higher gross profit margins.
+•Slight moderation in relatively lower gross profit ILDO businessRevenue (in ₹ mn) & Billable Transactions (# bn) 
+28
+=== page 30 ===
+Analysis of Q4 FY 25 -26 Performance (continued)
+Adj. PAT (In ₹ mn) & Adj. PAT Margin (%)Adj. EBITDA(1)(In ₹ mn) & Adj. EBITDA Margin (%)
+Adj. EBITDA analysis
+•Adj. EBITDA decreased by 6.0 % Q -o-Q  and increased by 11.9% Y -o-Y
+•The changes in Gross Profit flowed through to Adj. EBITDA
+•Increase in operating cost, adjusted for non -core items(2), by +10% Y -o-Ydue to salary 
+increments and certain trade receivables written off
+Adj. PAT analysis
+•Adj. PAT increased by 11.6% Q -o-Qand by 34.6 % Y-o-Y.
+•Adj. PAT excludes exceptional item sand includes Forex gain of INR 181.5 mn in Q4 25 -26 and 
+forex gain of INR 36.2mn in Q3 25 -26 as against loss of 8.3 mn in Q4 24 -25. Refer Slide 31for 
+calculation of Adj. PAT1,200 1,429 1,343 10.2%12.9%
+11.9%
+Q4 24-25 Q3 25-26 Q4 25-26
+850 1,026 1,144 7.2%9.3%10.1%
+Q4 24-25 Q3 25-26 Q4 25-26
+1. Refer Slide 31 for calculation of EBITDA (Non GaaP)
+2. Non core items include sEmployee stock option expense and Net loss on foreign currency transactions and translation
+29
+=== page 31 ===
+FY 25 -26 Performance
+45,756 44,082 155.8174.9
+FY 24-25 FY 25-26Revenue (in ₹ mn) & Billable Transactions (# bn) Gross Profit (In ₹ mn) & Gross Profit Margin (%)
+9,509 10,073 20.8%22.9%
+FY 24-25 FY 25-26
+Adj. EBITDA(1)(In ₹ mn) & Adj. EBITDA Margin (%)
+5,239 5,259 11.5%11.9%
+FY 24-25 FY 25-26Adj. PAT(2)(In ₹ mn) & Adj. PAT Margin (%)
+3,524 3,761 7.7%8.5%
+FY 24-25 FY 25-26
+1. Refer Slide 31 for calculation of EBITDA (Non GaaP )
+2. Refer Slide 31 for calculation of Adj. PAT3.7% Y -o-Y 5.9% Y -o-Y
+6.7% Y -o-Y 0.4% Y -o-Y
+30
+=== page 32 ===
+Adjusted EBITDA/ PAT
+Management uses the non -GAAP financial information, collectively, to evaluate its ongoing operations and for internal planning a nd forecasting purposes. Non -GAAP financial information is presented for supplemental informational 
+purposes only, should not be considered a substitute for financial information presented in accordance with Indian Accounting Standard (Ind AS), and may be different from similarly titled non -GAAP measures used by other companies. (1) EBITDA = Profit before exceptional item minus ( -)  Other income plus (+) Finance cost and depreciation.. (In ₹ mn) Quarter Ended Twelve Months
+31.03.2026 31.12.2025 31.03.2025 31.03.2026 31.03.2025
+EBITDA 1,362.3 1,463.9 1,219.0 5,372.5 5,277.6
+(+) Employee stock option expense (non cash) - (1.4) 5.6 10.1 31.1
+(+) Net loss on foreign currency transactions and translation - - 8.3 - -
+(-) Intangible assets under development 19.3 33.3 32.5 123.5 108.2
+(+) Non -cash impact related to refundable security deposit provided to MNO - - - - 38.8
+Adjusted EBITDA (Non -GAAP) 1,343.0 1,429.2 1,200.4 5,259.1 5,239.3
+EBITDA margin % on a Non -GAAP basis 11.9% 12.9% 10.2% 11.9% 11.5%
+(In ₹ mn) Quarter Ended Twelve Months
+31.03.2026 31.12.2025 31.03.2025 31.03.2026 31.03.2025
+Reported PAT 1,144.3 1,025.6 602.8 2,569.4 3,339.3
+(+) Exceptional Item - - 247.3 1,358.7 184.5
+(-) Tax Impact on above - - - 166.9 -
+Adjusted PAT 1,144.3 1,025.6 850.1 3,761.2 3,523.8
+31
+=== page 33 ===
+Outlook and 
+Capital 
+Allocation 
+
+=== page 34 ===
+FY 26 -27 Guidance
+Revenue
+INR 44,082 mnFY 25 -26
+Actuals
+Growth of Mid 
+to High single 
+DigitAround 12%Adj. EBITDA 
+Margin
+11.9%FY 25 -26
+Actuals
+Increased to a 
+sustainable 
+₹16.5/share Gross 
+Dividend/Share
+₹11FY 25 -26
+Actuals
+=== page 35 ===
+Q&A

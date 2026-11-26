@@ -1,0 +1,257 @@
+ 
+  May 06, 2025  
+ 
+To  
+National Stock Exchange of India Ltd  
+Exchange Plaza, 5th Floor , C-1, Block  G,  
+Bandra  Kurla Complex , Bandra (E), Mumbai 400051  
+Scrip Code:  ATHERENERG  
+ To  
+BSE Limited  
+1st Floor, Phiroze Jeejeebhoy Towers  
+Dalal Street Mumbai – 400001  
+Script Code:  544397   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dear Sir/ Madam, 
+Sub: Intimation under Regulation 8(2) of the Securities and Exchange Board of India (Prohibition of Insider 
+Trading) Regulations, 2015 
+Pursuant to Regulation 8(2) of the Securities and Exchange Board of India (Prohibition of Insider Trading) 
+Regulations, 2015,  as amended (‘SEBI PIT Regulations’), please find enclosed herewith the Code of Practices and 
+Procedures for Fair Disclosure of Unpublished Price Sensitive Information framed under Regulation 8(1) 
+of SEBI PIT Regulations 
+Kind ly take the above information on record. 
+Thanking you 
+For Ather Energy Limited 
+Puja Aggarwal 
+Company Secretary and Complian ce officer 
+Membership no: A49310 
+ 
+ 
+ 
+Page 1 of 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATHER ENERGY  LIMITED  
+ 
+CODE  OF PRACTICES AND PROCEDURES FOR FAIR DISCLOSURE OF 
+UNPUBLISHED PRICE SENSITIVE INFORMATION  
+ 
+Document version  Approved By  Date of approval  Date of Amendment  
+1.0 Board of Directors  August 27, 2024  - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 2 of 9 
+ 
+ 
+Contents  
+ 
+1. Introduction  ................................ ................................ ................................ ..................  3 
+2. Definitions  ................................ ................................ ................................ .....................  3 
+3. Prompt public disclosure of Unpublished Price Sensitive Information:  ................  5 
+4. Uniform and Universal dissemination of Unpublished Price Sensitive 
+Information to avoid selective disclosure  ................................ ................................ ... 5 
+5. Overseeing and co -coordinating disclosure  ................................ ...............................  5 
+6. Responding to Market Rumours  ................................ ................................ ................  6 
+7. Timely reporting of shareholdings / ownership and changes in ownership  ...........  6 
+8. Disclosure/dissemination of Unpublished Price Sensitive Information with 
+special reference to analysts and institutional investors  ................................ ..........  6 
+9. Need to know basis  ................................ ................................ ................................ ....... 7 
+10. Determination of Legitimate Purpose  ................................ ................................ ........  7 
+11. Digital Database  ................................ ................................ ................................ ...........  9 
+12. Restrictions on Communication and Trading by Insiders  ................................ ....... 9 
+13. Code for Sharing of UPSI with Insiders  ................................ ................................ .... 9 
+14. Review and Amendment ................................ ................................ ..............................  9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 3 of 9 
+ 
+ CODE  OF PRACTICES AND PROCEDURES FOR FAIR DISCLOSURE OF 
+UNPUBLISHED PRICE SENSITIVE INFORMATION  
+ 
+1.  Introduction  
+ 
+ Regulation 8 of t he Securities and Exchange Board of India (Prohibition of Insider Trading) 
+Regulations, 2015, as amended  (“SEBI PIT Regulations ”), require every listed Company  
+to formulate a code of practices and procedures for fair disclosure of Unpublished Price 
+Sensitive Information , inter alia , containing the principles of fair disclosure as stipulated in 
+the SEBI PIT Regulations.  
+ 
+Accordingly, Ather Energy Limited (the “ Company ”) has formulated this Code  to provide 
+for framework to ensure timely and adequate disclosure of Unpublished Price Sensitive 
+Information as defined in Regulation 2(n) of the SEBI PIT Regulations.  
+  
+2.  Definitions  
+2.1.  “Board of Directors” or “Board” , in relation to a Company , means the board  of directors 
+of the Company . 
+2.2.  “Code  of Fair Disclosure” or “ Code ” means this Code  of practices and procedures for fair 
+disclosure of Unpublished Price Sensitive Information  formulated by the Company  and as 
+amended from time to time.  
+2.3.  “Company ” means Ather Energy Limited . 
+2.4.  “Compliance officer”  means Company  Secretary of the Company  or any other senior 
+officer, designated so from time to time and reporting to the Board, who is financially literate 
+and is capable of appreciating requirements for legal and regulatory compliance under the 
+Regulations, and who shall be responsible for co mpliance of policies, procedures, 
+maintenance of records, monitoring adherence to the rules for the preservation of 
+Unpublished Price Sensitive Information  (UPSI), monitoring of trades and the 
+implementation of the Code s under the overall supervision of th e Board of the Company . 
+2.5.  “Designated Persons ” shall  mean persons to be covered by the Code and so designated by 
+the Board in consultation with Compliance Officer and shall  include :  
+• Promoters & Promoter Group of the Company ; 
+• Members of the board of directors of the Company ; 
+• Employees of the Company  designed based on their functional role or access to 
+unpublished price -sensitive information including but not limited to finance, Human 
+Resource, legal, marketing, sales, manufacturing, operations, Product, Program, 
+secretarial department, IT department and any other department, as deemed necessary 
+in the opinion of the Board;  
+• Employees of material subsidiaries of the Company  designated based on their functional 
+role or access to unpublished price -sensitive information in the organization by their 
+Board of Directors;  
+• Chief Executive Officer and employees up to two levels below Chief Executive Officer 
+of the Company  and material subsidiaries irrespective of their functional role in the 
+Company  or ability to have access to Unpublished Price Sensitive Information ; 
+• Any support staff of the Company , such as IT staff or secretarial staff, Legal Staff, 
+Finance Staff,  Intellectual Property staff  or Strategy Staff  who have access to 
+unpublished price -sensitive information;  
+ 
+Page 4 of 9 
+ 
+• Such other persons as may be identified by the Compliance Officer on a case -to-case 
+basis, who could be reasonably expected to have access to unpublished price -sensitive 
+information(s) relating to the Company  and material subsidiaries.  
+2.6.  “Dealing in securities” or “Trading in securities ” means and includes subscribing, 
+buying, selling or agreeing to subscribe, buy, sell, deal in any securities, and “trade” shall 
+by construed accordingly. It also includes creation/ invocation/ revocation of pledge.  
+2.7.  “Insider”  means any person who is:  
+ • a connected person; or  
+ • in possession of or having access to Unpublished Price Sensitive Information ; 
+2.8.     “Legitimate Purpose”  shall include sharing of the UPSI in the ordinary course of 
+business by an insider with partners, collaborators, lenders, customers, suppliers, merchant 
+bankers, legal advisors, auditors, insolvency professionals or other advisors or consultants, 
+provided that such sharing has not been carried out to evade or circumvent the prohibitions 
+of these regulations  in relation to the following:  
+ • Performance of duty  
+ • Discharge of legal obligation  
+ • Under subpoena, direction or order of a court or tribunal of competent jurisdiction;  
+ • Ordinary course of business;  
+ • Under any requirement of legal process, regulation or governmental order, decree in 
+compliance with applicable laws, rules or regulations;  
+ • For any audit or for obtaining any certifications;  
+ • On a need -to-know basis for entering into  contracts or other business prospects or 
+obtaining any legal opinion or advisory services which necessitates the same;  
+ • any other purpose as the Board may determine for sharing of information on need -to-
+know basis depending upon the transaction.  
+2.9.  “Regulations” shall mean Securities and Exchange Board of India (Prohibition of Insider 
+Trading) Regulations, 2015 . 
+2.10.  “Stock Exchanges”  shall mean the stock exchanges on which the Securities of the Company  
+are listed.  
+2.11 “Unpublished price sensitive  information (UPSI)”  means any information, relating to the 
+Company  or its securities, directly or indirectly, that is not generally available which upon 
+becoming generally available, is likely to materially affect the price of the securities of the 
+Company  and shall, ordinarily include but not restricted to, information relating to the 
+following:  
+ • financial results;  
+ • dividends;  
+ • change in capital structure;  
+ • mergers, de -mergers, acquisitions, de -listings, disposals and expansion of business 
+and such other transactions;  
+ • changes in key managerial personnel;  
+• such other information as may be determined by the Board / CEO/CFO or 
+Compliance Officer from time to time.  
+ 
+ 
+ 
+ 
+  
+ 
+Page 5 of 9 
+ 
+3.  Prompt public disclosure of Unpublished Price Sensitive Information:  
+ 
+Unpublished Price Sensitive Information shall be disclosed to the Stock Exchanges and  
+disseminated promptly on a continuous basis as soon as credible and concrete information 
+comes into being in order to make such information generally available.  
+ 
+4.  Uniform and Universal dissemination of Unpublished Price Sensitive Information to 
+avoid selective disclosure  
+ 
+The Unpublished Price Sensitive Information shall be disseminated uniformly and 
+universally to all stakeholders through Stock Exchanges and by posting the same on official 
+website of the Company  i.e. https://www.atherenergy.com/ . The Company  shall use its best 
+endeavours to avoid selective disclosure of price sensitive information. However, if any 
+information gets disclosed selectively or inadvertently or otherwise, endeavour shall be 
+made to make generally available the above information thr ough dissemination of the same 
+to Stock Exchanges and/or by posting the same on the official website of the Company  as 
+soon as practicable.  
+ 
+5.  Overseeing and co -coordinating disclosure  
+ 
+5.1.  The Board shall identify a Senior Officer who woul d be respons ible for ensuring  
+timely and ade quate disclosure of Unpublished Pric e Sensiti ve Information (“Head  
+Investor Relations” ) pursuan t to this Code  as required under the  
+Regulations. In cas e Head  Investor Relations  is not appointed or unavailable , all such duties 
+and responsibilities shall be performed by the Compliance  Officer .  
+5.2.  In case the Head Investor Relations is not th e Compliance Offi cer, he shall  
+report to, and abide by the directions and instructions issued by, the CEO/ Whole -time 
+Director / CFO  and shall als o co-ordinate with the Com pliance Officer.  
+5.3.  The Head  Investor Relations  shall be responsible for ensuring that the  
+Company  compli es with continuou s disclosure requirements, overseeing and  
+coordinating disclosure   of un published price sensitive   informat ion to   stock  
+exchanges, analysts, shareholders and media, and educating  emplo yees on  
+disclosure policie s and pr ocedures.  
+5.4.  All disclosure/dis semination whatsoever of  any inform ation (save and except  
+disclosure requir ed to b e made und er any law (including the Regul ations) or und er  
+this Code ) on behalf  of the Company  shall be first marked to the Head  Investor Relations  
+for approval.  Any such information  shall be made p ublic or published on behalf of the 
+Company  only if the same is approved by the Head  Investor Relations . In case of doubt, 
+the Head  Investor Relations  shall consult and seek approval of the CEO/ Whole -time 
+Director /CFO  before disclosure / dissemination of such inform ation.  
+5.5.  Should any disclo sure / d issemination of informati on on  behalf of t he Company  take  
+place accidentally without  the prior ap proval referred to above, the  person  
+responsible for such disclosure / dissemination  shall forthwith inform  the Head  Investor 
+Relations  about such disclosure / dissemination, irrespective of whether su ch inform ation 
+is Price Sens itive Information or not.  
+ 
+ 
+  

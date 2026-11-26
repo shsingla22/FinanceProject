@@ -1,0 +1,28 @@
+--- CIM_18642_WebXMLFile_20260813_204044065_2.xml (the exchange's structured disclosure) ---
+NSESymbol: MAXHEALTH ; Name Of The Company: MAX HEALTHCARE INSTITUTE LIMITED ; Scrip Code: 543220 ; MSEISymbol: NOTLISTED ; ISIN: INE027H01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-13 ; Start Time Of Board Meeting: 11:48:00 ; End Time Of Board Meeting: 14:19:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 3 ; Date Of Report: 2026-08-13 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Director - Chief Supply Chain & Procurement Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Ajay Vij ; Effective Date Of Reason Of Change: 2026-08-14 ; Brief Profile: Mr. Ajay Vij has been appointed as Director - Chief Supply Chain & Procurement Officer. He is a seasoned business leader with over 35 years of experience across the healthcare, retail, consulting and manufacturing sectors. He has extensive expertise in business transformation, P&L management, supply chain, digital transformation, project execution and operational excellence. He has held key leadership positions at Fortis Healthcare Limited, Reliance Retail Limited, Siemens Information Systems Limited and most recently served as Co-Founder of WHA-Partners Pvt. Ltd., where he advised healthcare organizations and investors on strategic growth, due diligence, and business planning. Mr. Vij holds a Bachelor of Engineering (Industrial Engineering), a Post Graduate Diploma in Management (Finance) and professional qualifications as a Cost and Works Accountant (ICWA) and a Chartered Financial Analyst (CFA). ; Designation Of Designated Person: Senior Director - Chief Experience & Brand Officer ; Name Of Designated Person: Pawan Kumar Marella ; Effective Date Of Reason Of Change: 2026-08-17 ; Brief Profile: Mr. Pawan Kumar Marella has been appointed as Senior Director - Chief Experience & Brand Officer. He is a seasoned commercial and marketing leader with over 22 years of experience across India, East Africa and global markets, with expertise in commercial strategy, P&L management, digital transformation and business growth. He has held senior leadership positions with Unilever Global and Hindustan Unilever Limited, including Vice President - Strategic Growth & Marketing Capabilities, Strategy Director & Chief of Staff - Digital & Commercial Centre of Excellence and Marketing Director & Commercial Lead - East Africa. He has successfully led large-scale commercial transformation initiatives, global capability development, market expansion and organizational redesign, delivering sustainable business growth across multiple geographies. Mr. Marella holds an MBA from IIM Calcutta and a B.Tech. from IIT Kharagpur. He is also the author of Dear Rookie, Don't Panic (Hay House India, 2025). ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Senior Director & Chief Procurement Officer ; Name Of Designated Person: N. Venkatesan ; Effective Date Of Reason Of Change: 2026-08-31 ; Salutation: Mr. ; Name Of The Person: N. Venkatesan ; Designation Of Person: Senior Director & Chief Procurement Officer ; Date On Which The Resignation Letter Was Received: 2026-08-13 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: To pursue opportunities outside the organisation
+
+--- Letter_1.pdf ---
+August 13, 2026
+To
+Mr. Abhay Soi
+Chairman & Managing Director
+Max Healthcare Institute Limited
+Sub: Resignation from the position of Senior Director
+& Chief Procurement Officer
+Dear Sir,
+I hereby tender my resignation from the position of Senior
+Director & Chief Procurement Officer, identified as Senior
+Management Personnel of the Company to pursue opportunities
+outside the organisation and my last working day at the
+Company will be August 31, 2026.
+I would like to place on record my sincere gratitude to the
+management of the Company for the support extended during
+my tenure at the Company.
+I wish the Company the best of it endeavours.
+Thanking you,
+Yours sincerely,
+
+Dr. N. Venkatesan
+Senior Director & Chief Procurement Officer
+
+

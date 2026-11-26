@@ -1,0 +1,741 @@
+Rubicon®
+RESEARCH
+
+~
+INNOVATION I QUALITY I CARE
+
+Date: July 22, 2026
+To,
+The Manager
+Listing Department
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street – Fort
+Mumbai 400 001
+Scrip Code: 544578
+
+To,
+The Manager
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, 5th floor, Plot no. C/1, G Block
+Bandra Kurla Complex, Bandra (East),
+Mumbai - 400 051
+NSE Symbol: RUBICON
+
+Ref: Disclosure under Regulation 37(6) of SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (‘LODR Regulations’)
+Sub: Filing of Scheme of Merger of Kia Health Tech Private Limited (Wholly Owned Subsidiary) with Rubicon
+Research Limited – For Disclosure Purposes Only, in terms of the Exemption under Paragraph 4 of SEBI
+Master Circular No. SEBI/HO/CFD/POD-2/P/CIR/2023/93 dated June 20, 2023
+Dear Sir/Madam,
+We refer to the captioned Scheme of Merger of Kia Health Tech Private Limited (“Transferor Company”), a
+wholly owned subsidiary of Rubicon Research Limited (“Company”/ “Transferee Company”), with the
+Company, approved by the Board of Directors of the Company at its meeting held on July 20, 2026, under
+Section 233 of the Companies Act, 2013 read with Rule 25 of the Companies (Compromises, Arrangements
+and Amalgamations) Rules, 2016 (“Scheme”).
+The Scheme is conditional upon and subject to necessary statutory and regulatory approvals/permissions and
+approval of the members and consent from the secured and unsecured creditors of Transferor and Transferee
+Company. Any amendments, modifications, or revisions to the Scheme arising from stakeholder approvals or
+regulatory observations/approvals shall be promptly intimated to the relevant Stock Exchange(s).
+The Transferor Company is a wholly owned subsidiary of the Company and the entire paid-up equity share
+capital of the Transferor Company is held by the Company, either directly or through its nominees. The
+Scheme solely provides for the merger of the Transferor Company with the Company, and does not involve
+any other entity, any change in the shareholding pattern of the Company, or any issuance of shares or
+payment of consideration.
+In terms of Paragraph 4 of the Preliminary Section of SEBI Master Circular No. SEBI/HO/CFD/POD2/P/CIR/2023/93 dated June 20, 2023 (“Master Circular”), read with the proviso to Regulation 37 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (“LODR Regulations”), the provisions of
+the said Master Circular – including the requirement to obtain prior approval or a no-objection letter (“NOC”)
+from the Stock Exchange(s) before filing a scheme of arrangement with the National Company Law
+Tribunal/Regional Director – shall not apply to schemes which solely provide for the merger of a wholly owned
+____________________________________________________________________________________________________
+Rubicon Research Limited (formerly known as Rubicon Research Private Limited) | CIN: L73100MH1999PLC119744
+Registered Office: Plot No. B-75, MedOne House, Road No. 33, Wagle Estate, Thane West, PIN – 400 604, Maharashtra, India
+긓 +91-22-61414000 / 50414000 | 긼
+긒
+김 reachus@rubicon.co.in | 艒 www.rubicon.co.in
+긿
+긾
+긽
+
+
+Rubicon®
+
+,....--------..
+RESEARCH
+
+INNOVATION I QUALITY I CARE
+
+subsidiary with its parent company. As the Scheme falls squarely within this exemption, application for an
+NOC/observation letter under Regulation 37 of the LODR Regulations in relation to the Scheme is not required.
+Accordingly, and solely for the purpose of disclosure as contemplated under the proviso to Paragraph 4 of the
+aforesaid Master Circular, we enclose herewith:
+1. A signed and stamped copy of the Scheme; and
+2. A certified true copy of the Board Resolution dated July 20, 2026, approving the Scheme.
+We request you to kindly take the above on record and arrange to disseminate the Scheme on the website of
+the Exchange, in terms of Paragraph 4 of the Master Circular referred to above.
+This letter is submitted without prejudice to, and does not constitute, an application under Regulation 37 of
+the LODR Regulations, and should not be treated as such.
+Kindly acknowledge receipt of this letter and its enclosures.
+Yours faithfully,
+For Rubicon Research Limited
+(Formerly known as Rubicon Research Private Limited)
+DEEPASHR
+EE OMKAR
+TANKSALE
+Deepashree Tanksale
+Company Secretary
+M. No. A28132
+Digitally signed by DEEPASHREE OMKAR
+TANKSALE
+DN: c=IN, o=PERSONAL, title=9602,
+2.5.4.20=a80b214753a3728a0e066d1b692ae
+b28c8fdde1958b7190c8f1512294e4c6614,
+postalCode=400603, st=Maharashtra,
+serialNumber=4ab53e9ad917b69cf20091072
+3632675c1ef67f880d460105a99c9762ba5ee1
+8, cn=DEEPASHREE OMKAR TANKSALE
+Date: 2026.07.22 19:28:24 +05'30'
+
+Encl. as above
+
+____________________________________________________________________________________________________
+Rubicon Research Limited (formerly known as Rubicon Research Private Limited) | CIN: L73100MH1999PLC119744
+Registered Office: Plot No. B-75, MedOne House, Road No. 33, Wagle Estate, Thane West, PIN – 400 604, Maharashtra, India
+긓 +91-22-61414000 / 50414000 | 긼
+긒
+김 reachus@rubicon.co.in | 艒 www.rubicon.co.in
+긿
+긾
+긽
+
+
+SCHEME OF ARRANGEMENT AND AMALGAMATION
+OF
+KIA HEALTH TECH PRIVATE LIMITED
+(TRANSFEROR COMPANY)
+WITH
+RUBICON RESEARCH LIMITED
+(TRANSFEREE COMPANY)
+
+(UNDER SECTION 233 AND OTHER APPLICABLE PROVISIONS OF THE
+COMPANIES ACT, 2013 AND RULES THEREUNDER)
+
+Page 1 of24
+
+
+A.
+
+PREAMBLE
+This Scheme (defined in Part I below) of arrangement and amalgamation is presented
+pursuant to the provisions of the Act (defined in Part I below) for the restructuring of
+the businesses of Rubicon Research Limited ("Rubicon / Transferee Company")
+(formerly known as Rubicon Research Private Limited) and Kia Health Tech Private
+Limited ("Kia/ Transferor Company") by way of the amalgamation of Kia (in terms
+of Part III of the Scheme) with Rubicon.
+
+B.
+
+BACKGROUND OF THE COMPANIES
+
+1.
+
+Rubicon Research Limited ("Rubicon / Transferee Company")
+
+2.
+
+(a)
+
+Rubicon (CIN: L73100MH1999PLC119744) is a public limited company,
+incorporated on May 6,1999 under the provisions of the Companies Act, 1956.
+The registered office of Rubicon is situated at Medone House, B-75, Road No.
+33 Wagle Estate, Thane West, Maharashtra, India, 400604.
+
+(b)
+
+Rubicon converted from a private limited company to a public limited company
+on July 23, 2024, and subsequently listed its shares on the National Stock
+Exchange of India Limited ("NSE") and the BSE Limited ("BSE") on October
+16, 2025 .
+
+(c)
+
+Rubicon is engaged in the business of undertaking scientific, technical, and
+clinical research in pharmaceuticals and healthcare, manufacturing of
+formulations, medicinal preparations, chemicals, intermediates, and dealing in
+medicinal plants and extracts.
+
+Kia Health Tech Private Limited ("Kia / Transferor Company")
+(a)
+
+Kia (CIN: U24239MH2021PTC364174), a private limited company,
+incorporated on July 19, 2021, under the provisions of the Companies Act,
+2013. The registered office of Kia is situated at Plot No. B-75, Medone House
+Wagle Estate, MIDC Rd No. 33, Thane, Maharashtra, India, 400604. The
+Transferor Company, prior to January 2022, was known as KIA Biopharma
+Technologies Private Limited.
+
+(b)
+
+The Transferor Company 1s a wholly owned subsidiary of the Transferee
+Company.
+As per the Memorandum of Association of Kia, Kia shall inter alia engage in
+the business of developing, licensing, acquiring; distributing, repacking,
+manufacturing, and trading of pharmaceutical products both prescription and
+OTC, consumer healthcare, wellness and hygiene products, healthcare
+technology, and data analytics. Pursuant to the above, the Transferor Company
+Page 2 of24
+
+
+is setting up its manufacturing plant at Chhatrapati Sambhaji Nagar,
+Maharashtra.
+
+C.
+
+RA TI ONALE
+
+1.
+
+This Scheme (defined in Part I below) is proposed with a view to achieve the following:
+(a)
+
+The Transferor Company is a wholly owned subsidiary of the Transferee
+Company engaged in similar activities. The proposed amalgamation of the
+Transferor Company with the Transferee Company would result in business
+synergy and pooling of their resources into a single entity which would
+facilitate in exploiting the significant potential for growth.
+
+(b)
+
+The proposed Amalgamation (defined in Part I below) would result in
+optimising and leveraging existing resources of these companies for the most
+beneficial utilization of these factors in the combined entity. It would be
+advantageous to combine the activities and operations of the Transferor
+Company and the Transferee Company in a single entity and building strong
+capability to effectively meet future challenges in a competitive business
+environment.
+
+(c)
+
+The proposed Scheme will result in usual economies of a centralized and a
+large company, including elimination of duplicate work, reduction in
+overheads, better and more productive utilization of financial, human and other
+resources and enhancement of overall business efficiency. The proposed
+Scheme will enable the companies to combine their managerial and operating
+strength, to build a wider capital and financial base and to promote and secure
+overall growth.
+
+(d)
+
+The Amalgamation will result in significant reduction in multiplicity of legal
+and regulatory compliances which at present is required to be made separately
+by the Transferor Company and the Transferee Company.
+
+(e)
+
+Greater efficiency in cash management of the Transferee Company and
+unfettered access to cash flow generated by the combined business which can
+be deployed more efficiently to fund organic and inorganic growth
+opportunities.
+
+(f)
+
+The Amalgamation will augment and diversify the manufacturing footprint and
+capabilities of Rubicon, by increasing the scale of manufacturing operations
+and bettering capacity utilisation of Rubicon, thereby helping in rationalising
+the number of vendors, aggregating the purchase quantity and managing the
+procurement supply chain more effectively and efficiently.
+Thus, this Scheme, as envisaged, is in the interest of the shareholders, creditors,
+Page 3 of24
+
+
+employees, and other stakeholders in each of the companies by pursuing a
+focused business approach under a single entity, thereby resulting in overall
+maximization of value creation of all the stakeholders involved.
+2.
+
+The respective Board of Directors (defined in Part I below) of Kia and Rubicon after
+detailed deliberation and consideration, have propounded this Scheme and have
+approved the Amalgamation (defined in Part I below) by way of the Scheme in the
+sequence as provided hereinafter.
+
+D.
+
+GENERAL
+
+3.
+
+This Scheme is divided into the following parts:
+(a)
+
+Part I provides for the definitions and interpretations;
+
+(b)
+
+Part II provides for the capital structure of the Transferor Company and
+Transferee Company;
+
+(c)
+
+Part III provides for the amalgamation of the Transferor Company with the
+Transferee Company; and
+
+(d)
+
+Part IV deals with other general terms and conditions as applicable to the
+Scheme.
+
+I
+..
+
+Page 4 of24
+
+
+PART I-DEFINITIONS AND INTERPRETATIONS
+1.
+
+DEFINITIONS AND INTERPRETATIONS
+In this Scheme, unless repugnant to the meaning or context thereof, the following terms
+and expressions shall have the meanings given against them:
+"Act" means the Companies Act, 2013 and the rules and regulations made thereunder,
+and includes any alterations, modifications, amendments made thereto and/or any reenactment thereof;
+"Amalgamation" means the amalgamation of the Transferor Company with the
+Transferee Company in accordance with Section 2(6) of the Income Tax Act, 2025, in
+terms of Part III of the Scheme as approved by the Regional Director or any other
+competent authority, as the case may be;
+"Applicable Laws" shall mean any statute, notification, bye-laws, rules, regulations,
+guidelines, rule of common law, policy, code, directives, ordinance, orders or
+instructions having the force of law enacted or issued by any Appropriate Authority,
+including any statutory modification or re-enactment thereof for the time being in force;
+"Appointed Date" means April 1, 2026, or such other date as the Regional Director
+may decide/ approve, being the date with effect from which Parts III and IV of the
+Scheme shall take place and/or be deemed to have taken place, in the same sequential
+order as stated herein;
+"Appropriate Authority" means any governmental body (central, state or local
+Government), legislative body, statutory body, departmental or public body or
+regulatory or administrative authority, judicial or arbitral body or other organization
+operating under the force of law including the Income Tax authorities and other
+applicable authorities to the extent that the rules, regulations, standards, requirements,
+procedures or orders of such authority, body, or other organization have the force of
+law as may be relevant in the context;
+"Board of Directors" or "Board" in relation to the Transferor Company and the
+Transferee Company as the case may be, means the board of directors of such company,
+I and shall include a committee duly constituted and authorised for the purposes of
+matters pertaining to the Scheme and/or any other matter relating thereto;
+• "Central Government" or the "Regional Director" means the Regional Director, as
+notified vide notification dated December 19, 2016 (F. No. 2/31/CAA/2013-CL-V)
+S.O. 4090(E) for the purpose of Section 233 of the Act or such other section prescribed
+rein, as the case may be and for this Scheme shall mean Regional Director, Western
+Directorate II;
+Page 5 of24
+
+
+"CIN" means Corporate Identity Number issued by the Registrar of Companies;
+"Effective Date" means the date on which the certified copy of the Order passed by
+the Regional Director, sanctioning the Scheme, is filed with the concerned Registrar of
+Companies, Ministry of Corporate Affairs. References in this Scheme to date of 'upon
+this Scheme becoming effective' or 'upon this Scheme coming into effect' shall mean
+the Effective Date;
+"Encumbrance" means any options, pledge, mortgage, lien, security, interest, claim,
+charge, pre-emptive right, easement, limitation, attachment, restraint or any other
+encumbrance of any kind or nature whatsoever, and the term "Encumbered" shall be
+construed accordingly;
+"Income Tax Act" means the Income Tax Act, 2025, including any amendments made
+therein or statutory modifications or re-enactments thereof for the time being in force
+and rules and regulations, circulars, and notifications issued thereunder, each as
+amended from time to time and to extent in force;
+"IND AS" means the Indian Accounting Standards prescribed under Section 133 of the
+Act as notified under the Companies (Indian Accounting Standard) Rules, 2015;
+"Intellectual Property Rights" means, whether registered or not, in the name of or
+recognized under Applicable Laws as being intellectual property of the Transferor
+Company, or in the nature of common law rights of the Transferor Company, all
+domestic and foreign (a) trademarks, service marks, brand names, internet domain
+names, websites, online web portals, trade names, logos, uniforms and all applications
+and registration for the foregoing and all goodwill associated with the foregoing and
+symbolized by the foregoing; (b) confidential and proprietary information and trade
+secrets; (c) published and unpublished works of authorship and copyrights therein, and
+registrations and applications therefor, and all renewals, extensions, restorations and
+reversions thereof; (d) computer software, programs (including source code, object
+code, firmware, operating systems and specifications) and processes; (e) designs,
+drawings, sketches; (f) tools, databases, frameworks, customer data, proprietary
+information, knowledge, any other technology or know-how, licenses, software
+licenses and formulas; (g) ideas and all other intellectual property or proprietary rights;
+and (h) all rights in all of the foregoing provided by Applicable Laws.
+"Legal Proceedings" means proceedings of whatsoever nature, civil or criminal,
+including any notices, disputes, suits, actions, appeals, arbitrations, execution
+proceedings, revisions, writ petitions, suits and taxation proceedings, pending before
+any statutory or quasi-judicial authority or tribunal or any proceedings of whatsoever
+nature;
+~E=:~ "Liabilities" means all present and future liabilities including contingent liabilities,
+.¢
+
+..,
+
+U;red and unsecured debts (whether in Indian rupees or foreign currency), duties and
+
+L
+
+Page 6 of24
+
+
+obligations or obligations of every kind, nature and description whatsoever and
+howsoever arising, raised or incurred or utilised for its business activities and operations
+along with any Encumbrance, including any bank guarantees thereon;
+"Registrar of Companies" means the Registrar of Companies, at Mumbai (ROC
+Mumbai II);
+"Sanction Order / Order" means the order of the Regional Director sanctioning this
+Scheme under Section 233 of the Act and other applicable provisions of the Act and the
+Companies (Compromises, Arrangements and Amalgamations) Rules, 2016, including
+any alteration, modification, amendment made thereto and supplementary
+orders/directions in relation thereto;
+"Scheme" or "the Scheme" or "this Scheme" means this Scheme of Amalgamation
+pursuant to Section 233 of the Act, the Companies (Compromises, Arrangements and
+Amalgamations) Rules, 2016, Section 2(6) of the Income Tax Act, 2025, and other
+applicable provisions, if any, in its present form submitted to the Regional Director or
+any other Appropriate Authority with any modification(s) thereto as the Regional
+Director or any other Appropriate Authority may require, direct or approve;
+"SEBI" means the Securities and Exchange Board of India; and
+"Stock Exchange(s)" refers to the Indian stock exchanges, National Stock Exchange
+of India Limited (NSE) and/or BSE Limited (BSE).
+
+1.1.
+
+All tenns and words used but not defined in this Scheme shall, unless repugnant or
+contrary to the context or meaning thereof, have the same meaning ascribed to them
+under the Act, as applicable, the Income Tax Act and other Applicable Laws, rules,
+directions, guidelines, regulations, bye-laws, as the case may be or any statutory
+modification or re-enactment(s) thereof for the time being in force.
+
+1.2.
+
+In this Scheme, unless the context otherwise requires:
+(a)
+
+words denoting singular shall include plural and vice versa;
+
+(b)
+
+headings and bold typeface are only for convenience and shall be ignored for
+the purposes of interpretation;
+
+(c)
+
+references to the word "include" or "including" shall be construed without
+limitation;
+
+(d)
+
+a reference to an article, clause, section or paragraph is, unless indicated to the
+contrary, a reference to an article, clause, section or paragraph of this Scheme;
+
+•( e)
+
+unless otherwise defined, the reference to the word "days" shall mean calendar
+Page 7 of24
+
+
+days;
+(f)
+
+references to dates and times shall be construed to be references to Indian dates
+and times;
+
+(g)
+
+reference to a document includes an amendment or supplement to, or
+replacement or novation of, that document;
+
+(h)
+
+references to a person include any individual, firm, body corporate (whether
+incorporated or not), government, state or agency of a state or any joint venture,
+association, partnership, works councillor employee representatives body
+(whether or not having separate legal personality);
+
+(i)
+
+references to any of the terms taxes, duty, levy, cess in the Scheme shall be
+construed as reference to all of them whether jointly or severally;
+
+G)
+
+word(s) and expression(s) elsewhere defined in the Scheme will have the
+meaning(s) respectively ascribed to them;
+
+(k)
+
+any reference to any statute or statutory provision shall include:
+1.
+
+all subordinate legislations made from time to time under that provision
+(whether or not amended, modified, re-enacted or consolidated from time
+to time) and any retrospective amendment; and
+
+11.
+
+such provision as from time to time amended, modified, re-enacted or
+consolidated (whether before or after the filing of this Scheme) to the
+extent such amendment, modification, re-enactment or consolidation
+applies or is capable of applying to the matters contemplated under this
+Scheme and (to the extent liability there under may exist or can arise) shall
+include any past statutory provision (as amended, modified, re-enacted or
+consolidated from time to time) which the provision referred to has directly
+or indirectly replaced.
+
+Page 8 of24
+
+
+PART II -SHARE CAPITAL
+2.
+
+SHARE CAPITAL
+
+2.1 .
+
+Rubicon Research Limited*
+The capital structure of the Transferee Company as on April 1, 2026, is as under:
+
+A. Authorised Share Capital
+
+Amount (in lakhs)
+
+23,89,90,000 Equity Shares of Re. 1 each
+Total
+
+B. Issued, subscribed and paid-up Share Capital
+Issued and subscribed
+16,50,92,124 of Re. 1 each
+Total
+
+2389.90
+2389.90
+
+Amount (in lakhs)
+
+1650.92
+1650.92
+
+The capital structure of the Transferee Company as on June 30, 2026, is as under:
+
+A. Authorised Share Capital
+
+Amount (in lakhs)
+
+23,89,90,000 Equity Shares of Re. 1 each
+Total
+
+B. Issued, subscribed and paid-up Share Capital
+Issued and subscribed
+16,53,82,750 of Re. 1 each
+Total
+
+2389.90
+2389.90
+
+Amount (in lakhs)
+
+1653.82
+1653 .82
+
+*For complete disclosure offacts, the data in relation to issued, subscribed and paid up share capital of the Transferee Company is provided as on the Appointed Date, i.e. ,
+April I, 2026, as well as on June 30, 2026. The increase in the issued, subscribed and
+paid-up capital was pursuant to exercise of employee stock options under the Rubicon
+Research Limited- Employee Stock Option Scheme 2022, of the Transferee Company.
+Kia Health Tech Private Limited
+The capital structure of the Transferor Company as on the April 1, 2026 as well as
+on date of filing of this Scheme is as under:
+
+A. Authorised Share Capital
+
+Amount (in lakhs)
+Page 9 of24
+
+
+1,68,00,000 Equity Shares of Rs. 10 each.
+Total
+
+B. Issued, subscribed and paid-up Share Capital
+88,00,000 Equity Shares of Rs. 10 each.
+Total
+
+1680.00
+1680.00
+
+Amount (in lakhs)
+880.00
+880.00
+
+The Transferor Company is a wholly owned subsidiary of the Transferee Company.
+
+Page 10 of24
+
+
+PART III -Al"\L\LGAM.A.TION OF THE TRANSFEROR COMPANY WITH THE
+TRANSFEREE COMPANY
+
+3.
+
+TRANSFER AND VESTING
+TRANSFEREE COMPANY
+
+3.1.
+
+Upon the Scheme becoming effective and with effect from the Appointed Date and
+subject to the provisions of this Scheme and pursuant to Section 233 of the Act and
+other applicable provisions of the Act and the Companies • (Compromises,
+Arrangements and Amalgamations) Rules, 2016, and in accordance with Section 2(6)
+of the Income Tax Act, the Transferor Company shall, without any further act,
+instrument or deed, stand transferred to and vested in or be deemed to have been
+transferred and vested in the Transferee Company, so as to become as and from the
+Appointed Date, the assets, liabilities, contracts, arrangements, employees, permits,
+licences, records, approvals, etc, as a going concern "as-is-where-basis" of the
+Transferee Company, by virtue of and in manner as provided in the Part III and Part IV
+of this Scheme.
+
+OF
+
+TRANSFEROR
+
+3.2.
+
+COMPANY
+
+INTO
+
+For the avoidance of doubt and without prejudice to the generality of the foregoing, it
+is clarified that upon the Scheme becoming effective with effect from the Appointed
+Date, and in accordance with the provisions of all Applicable Laws and the Act, all the
+consents, permissions, licenses, certificates, authorities (including for the operation of
+bank accounts), powers of attorneys given by, issued to or executed in favour of the
+Transferor Company, and the rights and benefits under the same shall, insofar as they
+relate to the Transferor Company and all quality certifications and approvals,
+trademarks, patents and domain names, copyrights, industrial designs, trade secrets,
+product registrations and other Intellectual Property and all other interests relating to
+the goods, services or any other assets being directly and exclusively dealt with by the
+Transferor Company (as applicable), be transferred to and vested in the Transferee
+Company. In respect of all the movable assets and the other assets of Transferor
+Company which are otherwise capable of transfer to the Transferee Company, shall be
+deemed to have been physically handed over by physical delivery or by endorsement
+and delivery, as the case may be, to the Transferee Company to the end and intent that
+the property and benefit therein passes to the Transferee Company with effect from the
+Appointed Date without requiring any deed or instrument of conveyance for transfer of
+the same. In respect of any intangible moveable assets of Transferor Company, other
+than those mentioned hereinabove, and actionable claims, sundry debtors, outstanding
+loans, advances recoverable in cash or kind or for value to be received and deposits
+with any Appropriate Authority and customers, the same (as applicable) shall on and
+from the Appointed Date stand transferred to and vested in the Transferee Company.
+All immovable properties of the Transferor Company, including land together with the
+buildings and structures standing thereon and rights and interests in immovable
+properties of the Transferor Company, whether freehold or leasehold or otherwise, and
+Jd~~ l documents of title, rights and easements in relation thereto shall be vested in and/or
+~ eemed to have been vested in the Transferee Company, without any further act or
+,c.
+
+~
+
+Page 11 of24
+
+
+deed done or being required to be done by the Transferor Company and/or the
+Transferee Company. The Transferee Company shall be entitled to exercise all rights
+and privileges attached to such immovable properties and shall be liable to pay the
+related expenses including any taxes and fulfil all obligations in relation to or applicable
+to such immovable properties. The mutation or substitution of the title to the immovable
+properties shall, upon this Scheme becoming effective, be made and duly recorded in
+the name of the Transferee Company by the appropriate authorities pursuant to the
+sanction of this Scheme by the Regional Director or any other Appropriate Authority
+and upon the coming into effect of this Scheme in accordance with the terms hereof.
+The Transferee Company may, issue notices in such form as may deem fit and proper
+stating that pursuant to the Regional Director having sanctioned this Scheme, the
+relevant debt, loan, advance or other asset, be paid or made good or held on account of
+the Transferee Company, as the person entitled thereto, to the end and intent that the
+right of Transferor Company to recover or realize the same stands transferred to the
+Transferee Company and that appropriate entries shall be passed in their respective
+books to record the aforesaid changes.
+3.3 .
+
+Upon coming into effect of this Scheme and with effect from the Appointed Date, all
+the various incentives, service tax benefits, good and services tax benefits, all tax
+holiday, deductions under the Income Tax Act, subsidies (including applications for
+subsidies), grants, special status and other benefits or privileges enjoyed, granted by
+any governmental body, local authority or by any other person, or availed of by the
+Transferor Company are concerned, the same shall, without any further act or deed, vest
+with and be available to the Transferee Company on the same terms and conditions. All
+intangible assets including various business or commercial rights, etc., if any, belonging
+to but not recorded in books of Transferor Company, shall be transferred to and vested
+with the Transferee Company.
+
+3.4.
+
+All the Liabilities of the Transferor Company as on the Appointed Date shall also stand
+transferred to and vested in or be deemed to have been transferred to and vested in the
+Transferee Company on a going concern basis, without any further act or deed, so as to
+become the Liabilities of the Transferee Company on the same terms and conditions as
+were applicable to the Transferor Company respectively. All Liabilities owed by the
+Transferor Company to the Transferor Company shall be net-off and cancelled and
+entries in the books of accounts of the Transferee Company shall be accordingly
+, adjusted as per Applicable Laws.
+Where any of the Liabilities and obligations of the Transferor Company as on the
+Appointed Date deemed to be transferred to the Transferee Company have been
+discharged by the Transferor Company after the Appointed Date and prior to the
+Effective Date, such discharge shall be deemed to have been for and on account of the
+Transferee Company.
+The transfer and vesting of the assets shall be subject to the Encumbrances, if any,
+affecting the same as hereinafter provided:
+Page 12 of24
+
+
+(a)
+
+The Encumbrances or those, if any, in terms of this Scheme, over the assets
+comprised in the Transferor Company, or any part thereof transferred to the
+Transferee Company, shall after the Effective Date continue to relate and attach
+to such assets or any part thereof to which they are related or attached to, prior
+to the Effective Date and such Encumbrances shall not relate to or attach to any
+of the other assets of the Transferee Company.
+
+(b)
+
+Without prejudice to the provisions of the foregoing clauses, upon the Scheme
+becoming effective, the Transferor Company and the Transferee Company shall
+execute appropriate deeds of confirmations, all instruments or documents or do
+all the acts and deeds as may be required, with any party to any contract or
+arrangement in relation to the Transferor Company, including the filing of
+necessary particulars and/or modifications of charge with the Registrar of
+Companies, to give formal effect to the above provisions, if required. The
+Transferee Company shall, under the provisions hereof, be deemed to be
+authorised to execute any such writings in the name of and on behalf of the
+Transferor Company and to carry out or perform all such formalities or
+compliances referred to above on the part of the Transferor Company inter alia
+in its capacity as the successor-in-interest of the Transferor Company.
+
+3. 7.
+
+All cheques and other negotiable instruments, payment orders received or presented for
+encashment which are in the name of the Transferor Company after the Effective Date
+shall be accepted by the bankers of the Transferee Company and credited to the account
+of the Transferee Company, if presented by the Transferee Company. Similarly, the
+banker of the Transferee Company shall honour all cheques issued by the Transferor
+Company respectively for payment after the Effective Date. If required, the Transferor
+Company shall allow maintaining of bank accounts in its name by the Transferee
+Company for such time as may be determined to be necessary by the Transferor
+Company and the Transferee Company for presentation and deposition of cheques and
+pay orders that have been issued in the name of the Transferor Company.
+
+3.8.
+
+All necessary records, files, papers, technical and process information, all product and
+service pricing, costing, commercial and business related information, computer
+program, drawings and designs, procedure and other manuals, training materials,
+prospect lists, data, catalogues, quotations, sales and advertising materials, financing
+and serving related forms, lists and all details of present and former customers and
+suppliers, customer credit information, customer pricing information and other records
+whether in physical or electronic form in connection with or relating to the Transferor
+Company shall be transferred to the Transferee Company.
+LEGAL PROCEEDINGS
+
+All proceedings of whatsoever nature (legal and others, including any suits, appeals,
+arbitrations, execution proceedings, revisions, writ petitions, if any) by or against the
+Page 13 of24
+
+

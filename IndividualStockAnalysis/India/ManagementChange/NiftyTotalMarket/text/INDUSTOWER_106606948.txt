@@ -1,0 +1,50 @@
+--- SEOutcomeDirector_CIM_WebXMLFile_20260501_171935733_1.xml (the exchange's structured disclosure) ---
+NSESymbol: INDUSTOWER ; Name Of The Company: Indus Towers Limited ; Scrip Code: 534816 ; MSEISymbol: NOTLISTED ; ISIN: INE121J01017 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-04-30 ; Start Time Of Board Meeting: 15:05:00 ; End Time Of Board Meeting: 19:25:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 3 ; Date Of Report: 2026-05-01 ; Type Of Change: Appointment ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Randeep Singh Sekhon ; Effective Date Of Reason Of Change: 2026-05-01 ; Term Of Appointment In Months: 99 ; Brief Profile: Mr. Randeep Singh Sekhon is Chief Technology Officer for Airtel India and South Asia. Headquartered in New Delhi, India, the company ranks amongst the top 3 mobile service providers globally in terms of subscribers. In India, the company's product offerings include 2G, 3G ,4G & 5G wireless services, mobile commerce, fixed line services, high speed home broadband, DTH, enterprise services including national & international longdistance services to carriers. Mr. Sekhon is responsible for driving technology Strategy and Innovation, Digitization, Network operations, Rollout, Planning and quality. Prior to this, Mr. Sekhon was CEO of Hutchison Tri Indonesia based out of Jakarta. He successfully drove customer centricity and digitization led efficiency and business transformation for 3 in Indonesia. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Not Applicable ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Gopal Vittal ; Name Of Designated Person: Jagdish Saksena Deepak ; Salutation: Mr. ; Name Of The Person: Gopal Vittal ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-04-30 ; Effective Date Of Resignation: 2026-05-01 ; Reason Of Resignation In Brief: Resignation due to professional pre-occupations ; Name Of The Person: Jagdish Saksena Deepak ; Reason Of Resignation In Brief: Resignation due to certain professional reasons
+
+--- ResignationDirectors30042026_2.pdf ---
+Annexure B
+
+April 30, 2026
+To,
+The Board of Directors
+Indus Towers Limited
+Building No. 10, Tower A
+4th Floor, DLF Cyber City
+Gurugram -122002, Haryana, India
+Sub: Resignation as a Non-Executive Director from the Board of Indus Towers Limited
+Dear Colleagues,
+I hereby tender my resignation, from the Board of the Company with immediate effect, due to
+professional pre-occupations. Kindly take this letter on record and relieve me from my duties so forth.
+I hereby confirm that there are no other material reasons for my resignation other than as mentioned
+above.
+I take this opportunity to thank my fellow colleagues and management team for their support during my
+tenure. I would like to convey my best wishes to the Company for its future endeavours.
+With best regards,
+
+_________________
+Gopal Vittal
+Non-Executive Director
+DIN: 02291778
+
+
+April 30, 2026
+To,
+The Board of Directors
+Indus Towers Limited
+Gurugram
+Sub: Resignation as a ~~on-eAecutive Director of Indus iuw~r~ Limited
+
+Dear All,
+Due to certain professional reasons, I am submitting my resignation as a Non-Executive Director of the
+Board and member of the Board Committee of the Company with immediate effect.
+I urge you to take this on record and request the company to complete the necessary formalities.
+I further take this opportunity to express my sincere gratitude to the Company and other directors for
+all the support extended to me during my tenure as the Director of the Company.
+With best regards,
+
+Jagdish Saksena Deepak
+Non-Executive Director
+
+DIN:02194470
+
+

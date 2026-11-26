@@ -1,0 +1,62 @@
+ 
+ 
+investorrelations@aubank.in  Ref. No. : AUSFB/SEC/202 6-27/287  
+Date: November 02, 2026  
+ 
+To, 
+ 
+National Stock Exchange of India Ltd.  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex,  
+Bandra (East), Mumbai 400051,  
+Maharashtra.  
+NSE Symbol: AUBANK  BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai 400001,  
+Maharashtra.  
+Scrip Code: 540611  
+ 
+Dear Sir/Madam,  
+ 
+Sub: Reply to clarificatio n sought by Stock Exchanges  
+ 
+This is with reference to the clarification sought by the Stock Exchanges dated November 02, 
+2026 in relation to the media report titled “AU Bank probes potential data leak”.  
+  
+In this regard, we wish to clarify that the Bank became aware (on October 29, 2026) about a 
+potential data leakage incident involving a third -party Software -as-a-Service (“SAAS”) platform. 
+This platform, which is hosted and managed by a reputed global third -party vendor , is used for 
+onboarding Bank’s vehicle loan customers and contains customers’ information obtained at the 
+time of loan onboarding.  
+  
+Based on the preliminary findings so far, the incident may have resulted in data leakage of some 
+of the Bank’s vehicle loan customers. The Bank is undertaking a detailed internal and external 
+forensic investigation, with the help of leading cyber security firms, to ascertain the nature and 
+extent of potential data leakage (there are ~28.5 lacs vehicle loan customers onboarded through 
+this platform).  
+  
+The Bank’s other systems remain unaffected, and all services are operating normally. The 
+incident does not have any impact on the Bank’s business operations, financial performance or 
+business continuity . We hereby reaffirm to all stakeholders that customer protection continues 
+to be our highest priority . 
+  
+The matter has been reported to regulatory authorities including the Reserve Bank of India and 
+CERT -In in accordance with applicable regulatory requirements.  
+  
+The Bank continues to closely monitor the situation and will make further disclosures, if required, 
+in accordance with applicable regulatory requirements.  
+  
+This is for your information and records.  
+ 
+Thanking You,  
+ 
+Yours faithfully,   
+For AU SMALL FINANCE BANK LIMITED  
+ 
+ 
+ 
+ 
+Manmohan Parnami  
+Company Secretary and Compliance Officer  
+Membership No.: F9999  

@@ -1,0 +1,479 @@
+ 
+ 
+ 
+ 
+Tech Mahindra Limited  
+Sharda Centre, Off Karve Road, 
+Pune - 411004, Maharashtra,  India 
+Tel.  +91 20 6601 8100 
+ 
+techmahindra.com  
+connect@techmahindra.com  
+ 
+CIN L64200MH1986PLCO41370   
+ 
+ 
+ 
+ 
+ 23
+rd June, 2025  
+  
+To,  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai -  400 001  
+Scrip Code : 532755  National Stock Exchange of India Limited  
+Exchange Plaza, 5th floor,  
+Plot No. - C/1, G Block,  
+Bandra -Kurla Complex, Bandra (East),  
+Mumbai -  400 051  
+NSE Symbol : TECHM  
+ 
+  
+Subject:  Business Responsibility and Sustainability Report for the financial year 2024- 25 - 
+Regulation 34(2)(f) of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 ("SEBI Listing Regulations") .  
+ 
+Dear Sir/Madam,  
+ In compliance with Regulation 34(2)(f) of the SEBI Listing Regulations, please find enclosed herewith 
+the Business Responsibility and Sustainability Report (“BRSR”) of the Company for the financial year 
+2024- 25
+ along with the External Assurance Report on  BRSR Core, which also forms part of the Integrated 
+Annual Report for the financial year  2024- 25. 
+ 
+This intimation is also available on the website of the Company  at www.techmahindra.com   
+ 
+You are requested to kindly take note of the same.  
+ 
+Thanking you,  
+ For Tech Mahindra Limited  
+ 
+ 
+Ruchie Khanna  
+Company Secretary  
+ 
+Enclosure : As above  
+315
+STATUTORY REPORTSBusiness Responsibility & Sustainability 
+Reporting
+SECTION A: GENERAL DISCLOSURES
+I. Details of the Listed Entity
+1 Corporate Identity Number (CIN) of the Listed 
+EntityL64200MH1986PLC041370
+2 Name of the Listed Entity Tech Mahindra Limited
+3 Year of incorporation 1986
+4 Registered office address Gateway Building, Apollo Bunder,  
+Mumbai – 400 001. Tel: +91 22-6897 5500
+5 Corporate address Plot No 01, Rajiv Gandhi Infotech Park, Phase III, 
+Hinjewadi, MIDC, SEZ, Pune Maharashtra, 411057
+Tel: +91 20-4225 0000
+6 E-mail investor.relations@techmahindra.com  
+CorporateSustainability@techmahindra.com
+7 Telephone +91 20-6601 8100
+8 Website www.techmahindra.com
+9 Financial year for which reporting is being done FY 2024-25 (01st April 2024 - 31st March 2025)
+10 Name of the Stock Exchange(s) where shares 
+are listedNational Stock Exchange of India Limited (“NSE”) 
+BSE Limited (“BSE”)
+11 Paid-up Capital ( `) 4,895 Mn
+12 Name and contact details of the person who 
+may be contacted in case of any queries on the 
+BRSR reportName: Sandeep Chandna
+Designation: Chief Sustainability Officer
+Chief Sustainability Officer
+Phone: +91-9810314114,
+E-mail id: sandeepch@techmahindra.com ; 
+CorporateSustainability@techmahindra.com
+13 Reporting boundary Consolidated*
+14 Name of assessment or assurance provider DNV Business Assurance India Private Limited 
+(“DNV”).
+15 Type of assessment or assurance obtained BRSR core indicators – Reasonable Assurance  
+Select BRSR indicators – Limited Assurance  
+Please refer to pages 81 to 84 and 353 to 356 
+for the assurance statement
+*Tech Mahindra and its integrated companies, whose operations have been completely merged with the company, and on 
+operational control basis, as applicable.
+II. Products/Services
+16. Details of business activities (accounting for 90% of the turnover):
+S.
+No.Description of Main Activity Description of Business Activity % of Turnover of 
+the entity
+1 Information Technology – Software 
+and ServicesIT consulting, Software application 
+development and maintenance100
+17. Products/Services sold by the entity (accounting for 90% of the turnover):
+S.
+No.Product/Service NIC Code % of total 
+turnover 
+contributed
+1 IT consulting, Software application development and maintenance 62099 85.9
+2 Business Process Services and Operations 82200 14.1
+316
+INTEGRATED ANNUAL REPORT 2024-25III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of offices
+National 71
+International 223
+19. Markets served by the entity:
+ a. Number of locations- Tech Mahindra + Portfolio companies
+Location Number of offices
+National 11
+International 84
+ b. What is the contribution of exports as a percentage of the total turnover of the entity?
+  The contribution of exports as a percentage of the total turnover of the Company is 93.3%
+ c. A brief on types of customers:
+  The Company caters to customers across the sectors of Communication, Media and 
+Entertainment, Manufacturing, Technology, BFSI, Retail, Transport and Logistics, Healthcare 
+and Life Sciences.
+  Please refer to page(s) 9-15 for more details.
+IV Employees
+20. Details as of 31st March 2025:
+ a. Employees and workers* (including differently abled):
+Employees (including differently abled)*
+Particulars Total
+(A)Male Female Neutral Undeclared
+No. (B) %(B/A) No. (C) %(C/A) No. (F) %(F/A) No. (G) %(G/A)
+Permanent (D) 131,444 86,535 65.83 44,902 34.16 4 0.00 3 0.00
+Other than Permanent (E)** 7827 4,719 60.29 3,098 39.58 9 0.11 1 0.01
+Total employees (D + E) 139,271 91,254 65.52 48,000 34.47 13 0.01 4 0.00
+  *The Company’s workforce is categorized as ‘Employees’, and none as ‘Workers’.
+  ** ‘Other than permanent employees include contractors
+ b. Differently abled Employees***
+  Declaring disability status is entirely voluntary for employees. The number of differently 
+abled employees shown here includes only those who have opted to declare their disability. 
+Consequently, this data represents a subset of the total differently abled employees working 
+with the Company as of March 31, 2025.
+Particulars Total
+(A)Male Female
+No. (B) % (B/A) No. (C) %  
+(C/A)
+Permanent (D) 347 278 80.12 69 19.88
+Other than Permanent (E) 12 9 75 3 25
+Total differently- abled 
+employees (D + E)359 287 79.94 72 20.06
+  ***Employees who have voluntarily disclosed their disabilities
+317
+STATUTORY REPORTS21. Participation/Inclusion/Representation of Women
+Particulars Total (A) No. and percentage of Females
+No. (B) % (B/A)
+Board of Directors 10 4 40
+Key Managerial Personnel* 3 1                33
+  *Key Managerial Personnel includes the Managing Director & CEO (who is also a Board Member), the Chief Financial 
+Officer and the Company Secretary
+22. Turnover rate for permanent employees
+FY 2024-25 FY 2023-24 FY 2022-23
+Male   Female Other Total Male   Female Other Total Male   Female Other Total
+Permanent 
+Employees%*12.3 10.8 011.8 10.1 9.6 0 10 15 14.4 014.8
+ *Voluntary attrition for IT services
+V  Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+  All companies that have completely integrated into the Company as of 31st March 2025 have 
+participated in the BRSR initiatives.
+  Please refer to Annexure I on page(s) 655 to 662 for details regarding the Company’s holdings, 
+subsidiaries, and associate companies (including Joint ventures).
+VI CSR Details*
+24. (i) Whether CSR is applicable as per section 135 of the Companies Act, 2013: Yes
+ (ii) Turnover (in `): 446,172 Mn
+ (iii) Net worth (in `): 221,397 Mn
+ *Based on standalone financial statements
+VII Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National 
+Guidelines on Responsible Business Conduct:
+Stakeholder group 
+from whom complaint 
+is receivedGrievance Redressal 
+Mechanism in Place 
+(Yes/No) (If Yes, then 
+provide web-link for 
+grievance redress 
+policy)FY 2024-25 FY 2023-24
+Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities
+Yes
+https://insights.
+techmahindra.
+com/investors/
+WhistleBlower_Policy.
+pdf0 0 NA 0 0 NA
+Investors (other than 
+shareholders)0 0 NA 0 0 NA
+Shareholders 0 0 NA 0 0 NA
+Employees 85 1 * 83 3 Closed
+Customers 2 0 NA 2 0 NA
+Value Chain Partners 12 0 NA 4 0 NA
+Social media connects 0 0 NA 1 0 NA
+ *Will be closed within mandatory timelines
+318
+INTEGRATED ANNUAL REPORT 2024-2526.  Overview of the entity’s material responsible business conduct issues
+S 
+NoMaterial Issue 
+IdentifiedIndicate 
+whether 
+risk or 
+opportunity 
+R/ORationale for identifying the 
+risk/opportunityIn case of risk, approach to 
+adapt or mitigateFinancial Implications 
+of risk or opportunity 
+(identify negative or 
+positive implications)
+1 Cyber 
+Security & 
+Data PrivacyRisk & 
+Opportunity  Global cyber security is a 
+rising risk with increasing 
+data breaches. As a 
+global IT service provider, 
+the company handles 
+sensitive client data and a 
+cyberattack or data breach 
+could severely damage 
+trust, lead to regulatory 
+penalties and result in 
+financial loss.
+   Similarly, the increasing 
+importance of data 
+protection provides 
+the Company with an 
+opportunity to differentiate 
+itself by offering secure, 
+compliant and resilient 
+digital services to its client- 
+enhancing brand value and 
+competitiveness in market  Robust Information 
+security processes 
+supported by data 
+privacy and protection 
+policy for cybersecurity, 
+information security 
+and data privacy
+   Regular audits and 
+testing
+   Data encryption, multi-
+factor authentication 
+and zero-trust 
+architecture for data 
+access and transmission
+   Incident response plans 
+to contain and mitigate 
+the impact of any 
+breach swiftly.Positive:  Investments 
+in security reduces 
+incidents and attracts 
+privacy-conscious 
+customers thereby 
+supporting revenue 
+growth and long-term 
+client loyalty.
+Negative:  Potential 
+losses from breaches 
+and legal fines
+2 Ethics & 
+ComplianceRisk & 
+Opportunity   Non-compliance with ethical 
+standards or regulatory 
+requirements can exposure 
+company to legal penalties, 
+reputation damage and 
+operational disruptions 
+eroding business continuity
+   By fostering a culture 
+of ethical behaviour, the 
+Company builds trust 
+with its stakeholders and 
+protects its brand from 
+potential legal issues. Its 
+commitment to compliance 
+not only mitigates legal 
+and operational risks but 
+also enhances financial 
+performance by avoiding 
+fines and attracting 
+investor confidence.  Robust Code of 
+Conduct enforced 
+across all levels of the 
+organization
+   Mandatory training 
+programs on ethics, 
+anti-bribery and 
+compliance regulations.
+   Whistle blower 
+mechanisms to detect 
+and address violations 
+early
+   Global leadership in 
+ethics and compliance 
+yielding improved legal 
+adherence reduced 
+risk of fines and legal 
+expenses and a tangible 
+positive impact on 
+financial resilience.Positive:  Avoidance of 
+fines, improved bottom 
+line and enhanced brand 
+reputation leading to 
+increased investor and 
+customer loyalty which 
+in turn boosts sales and 
+market value.
+Negative:  Failure to 
+manage ethics and 
+compliance risks can 
+lead to regulatory 
+fines, loss of business 
+licenses, and increased 
+cost of capital
+3 Climate 
+ChangeRisk & 
+Opportunity  Climate change can pose 
+both physical and transition 
+risks to the business 
+by disrupting customer 
+behaviour, operations, and 
+the supply chain.
+  It also offers opportunities 
+to develop and deliver 
+green IT solutions that 
+help clients meet their 
+sustainability goals, 
+creating new revenue 
+streams and positioning 
+the company as a leader in 
+sustainable technology.   Investment in carbon 
+offset projects and 
+renewable energy, 
+as well as aiding 
+customers in achieving 
+sustainability goals.
+   Ensures resilience by 
+securing both physical 
+and technological 
+infrastructure.Positive: Investing in 
+sustainable technology 
+and renewable energy 
+creates significant new 
+business opportunities.
+Negative:  Increased 
+costs due to compliance 
+measures like carbon 
+taxes, and climate-
+related losses.
+319
+STATUTORY REPORTSS 
+NoMaterial Issue 
+IdentifiedIndicate 
+whether 
+risk or 
+opportunity 
+R/ORationale for identifying the 
+risk/opportunityIn case of risk, approach to 
+adapt or mitigateFinancial Implications 
+of risk or opportunity 
+(identify negative or 
+positive implications)
+4 Human Rights Risk & 
+Opportunity  The Company operates in 
+regions with varying labour 
+standards, and any violation 
+of human rights within its 
+operations or supply chain 
+can lead to legal liabilities, 
+loss of reputation and 
+stakeholder backlash.
+  Similarly, by embedding 
+human rights such as non-
+discrimination, fair wages, 
+safe working conditions 
+and freedom of expression 
+into its people practice, the 
+Company strengthens its 
+employee value proposition, 
+attracts diverse talents 
+in competitive markets, 
+improves retention and 
+enhances workforce 
+productivity.   Laid down 
+comprehensive 
+policies on Human 
+Rights, CEBC, POSH, 
+and Anticorruption 
+to ensure legal 
+compliance.
+   Provides training and 
+awareness programs 
+to ensure that its 
+employees understand 
+and can implement 
+these policies 
+effectively.
+   Conducts human rights 
+assessments to identify 
+potential human rights 
+risks and opportunities.
+  Integration of human 
+rights due diligence 
+into procurement and 
+onboarding process.
+   Stakeholder 
+engagement to 
+understand the 
+concerns and 
+expectations regarding 
+human rights, and 
+to ensure that the 
+Company practices 
+align with their values 
+and standards.Positive:  Respecting 
+human rights enhances 
+brand reputation, 
+employee engagement, 
+and consumer trust
+Negative:  Increased 
+legal costs, and loss of 
+investor confidence if 
+violations occur.
+5 Stakeholders 
+RelationshipsOpportunity    Strong stakeholder 
+engagement help the 
+Company identify emerging 
+trends, co-create innovative 
+solutions and address 
+issues proactively – 
+reducing risks and driving 
+business growth.
+   Meaningful dialogue 
+with stakeholders such 
+as investors, customers, 
+suppliers, employees, and 
+local communities leads to 
+higher satisfaction, trust, 
+and long-term resilience 
+supporting the Company’s 
+sustainability goals and 
+market leadership.------- Positive: Builds 
+resilience, fosters 
+long-term support 
+from communities and 
+investors, and improves 
+access to capital and 
+licenses to operate.
+ For further details on the Company’s key material issues, please refer to the “Double Materiality 
+Assessment” section on page(s) 40 and for comprehensive overview of ESG-related risks and 
+opportunities, kindly refer to the “Risk management” section on page(s) 54. 

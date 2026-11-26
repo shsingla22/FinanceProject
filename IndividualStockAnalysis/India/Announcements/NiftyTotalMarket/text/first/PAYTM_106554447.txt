@@ -1,0 +1,135 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ March 11, 2026 
+ 
+BSE Limited  
+Department of Corporate Services 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001 
+ 
+Scrip Code: 543396 National Stock Exchange of India Limited  
+The Listing Department  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Mumbai - 400 051 
+ 
+Symbol: PAYTM 
+ 
+Sub.: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - NPCI Circular: Revision in TPAP and Payer PSP Fees for RuPay Credit Card on UPI 
+Transactions. This circular lowers consumer UPI app revenue and has no impact on merchant acquiring 
+revenue; overall no material impact for the Company as Paytm leads in merchant payments. 
+Dear Sir / Ma’am, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, we 
+would like to inform you that NPCI (National Payments Corporation of India), vide its circular dated March 10, 
+2026, has revised the TPAP (Third Party Application Provider) and Payer PSP (Payment Service Provider) fees 
+applicable on RuPay Credit Card on UPI transactions, effective April 1, 2026. This circular relates to revenue made 
+by consumer UPI apps and has no impact on revenue earned from merchants on the acquiring side, such as UPI 
+merchant QR revenue. 
+Vast majority of payments revenue come from merchant payments, where the Company maintains a strong 
+leadership position and remains focused on monetisation through payment services to merchants. The circular 
+does not have any impact on merchant MDR (Merchant Discount Rate), as it is priced by the Company for the 
+merchants it acquires. The payment processing margin for our overall payments business is comfortably above 4 
+basis points, and we continue to see an increase in payment processing margin through the adoption of high 
+margin payment products by its merchants, such as Paytm Postpaid, EMI and RuPay Credit Card on UPI, where the 
+Company earns the MDR from merchants. 
+As per the circular, the TPAP fee for consumer payments through RuPay credit cards on UPI has been reduced from 
+8 basis points to 6 basis points for the Non Industry category and from 4 basis points to 3 basis points for the 
+Industry category. This fee is earned by the consumer UPI app for processing consumer transactions as TPAP , and 
+the financial impact of this revision is immaterial for the Company. 
+A copy of the NPCI circular is annexed to this disclosure.  
+ 
+This disclosure will also be hosted on the Company's website viz. https://ir.paytm.com/.  
+ 
+Kindly take the same on record.  
+ 
+Thanking you,  
+ 
+Yours Sincerely,  
+For One 97 Communications Limited  
+ 
+ 
+Sunil Kumar Bansal  
+Company Secretary and Compliance Officer 
+FCS: 4810  
+One 97 Communications Limited  
+ 
+compliance.officer@paytm.com   
+ 
+www.paytm.com  Corporate Office - One Skymark, Tower-D, Plot No. H-10B, Sector-98, Noida-201304 
+ 
+T: +91120 4770770     F: +91120 4770771  CIN: L72200DL2000PLC108985 
+ 
+Registered Office - 136, First Floor, Devika Tower, Nehru Place, New Delhi-110019 
+ 
+ 
+• -~ PaYtm 
+NPCl/2025-26/RuPay/046 
+To, 
+All Members -RuPay and UPI NF'C/1 ~ ~ :J:'TffT-7 f;rrr,:r 
+NATIONAL PAYMENTS CORPORATION OF IND/A 
+Sub: Revision in Payer PSP and App -Fees for RuPay Credit Cards (RCC) on UPI 
+transactions 
+Background 
+As an action from the UPI and RuPay Steering Committees on 
+25th and 27th November 2025, there is a revision in Payer PSP 
+and App fees. 
+Purpose 
+Members are requested to note the revision in Payer PSP and 
+App fees as per the below mentioned rates. 
+A Applicable program -All domestic transactions through 
+RuPay Credit Cards on UPI 
+Program Payable to Payer PSP & APP Payable from 
+Non- 12 basis points (6 basis points 
+Industry each to Payer PSP & App, 
+respectively) Issuer 
+Industry 6 basis points (3 basis points interchange 
+each to Payer PSP & App, 
+respectively) 
+Merchant category of Industry and Non-Industry programs shall be 
+applicable as defined in the latest RuPay interchange circular change 
+from time to time. 
+B. The above revision shall not apply to Small Offline Merchants 
+Category where the transaction amount is less than and equal 
+to INR 2,000, EMI (during transactions),AutoPay and Reserve 
+Pay where the fees shall remain as specified in Circular 
+NPCl/2022-23/RuPay/019-A 
+Expectations /Actionable from Ecosystem: Members are advised 
+to ensure that the contents of this Circular are promptly cascaded to 
+their respective sub-members and other concerned entities for 
+necessary compliance. 
+Yours Sincerely, 
+'°' \& 
+Kunal Kalawatia 
+Chief Products and Marketing Category: 
+Mandatory Circular 
+Product / Brand: 
+RuPay 
+Category: 
+RuPay Credit Card on UPI 
+Members: 
+Issuer, PSP and UPI Apps 
+Region: 
+Domestic 
+Impacted Systems: 
+RuPay CC on UP! 
+Published date: 
+10th March 2026 
+Effective date: 
+1st April 2026 
+Reference: 
+NPCl/2022-23/RuPay/019-A 
+NPCl/2024-25/RuPa y/032 
+1 
+1001A, The Capital. 8 Wing, 10th Floor. 
+Together .♦• ........ We Build ♦..'!11 
+•·!" -Bandra Kurla Complex. Bandra CE), Mumbai 400 051-
+T: +91 22 40009100 F: +91 22 40009101 
+contact@npci.org.in www.npci.org.in 
+CIN: U74990MH2008NPL189067 

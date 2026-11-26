@@ -1,0 +1,714 @@
+
+=== page 1 ===
+ 
+   
+IDAL/2025-26/SE/73                                                                                        January 30, 2026  
+National Stock Exchange of India Ltd                                    Scrip Symbol - INTELLECT 
+BSE Ltd.              Scrip Code – 538835 
+ 
+Dear Sir/Madam, 
+ 
+Sub:  Analysts / Institutional Investors Presentation 
+ 
+We enclosed herewith the presentation prepared for the analysts and institutional investors on 
+Unaudited Financial Results of the Company for the quarter ended December 31, 2025. 
+ 
+Kindly take the above information on record. 
+Yours truly, 
+For Intellect Design Arena Limited 
+ 
+ 
+ 
+Prakash Bharadwaj 
+Company Secretary and Compliance Officer 
+ACS-37214 
+ 
+=== page 2 ===
+The World’s only Open Finance, Composable and 
+Contextual Financial Technology Company 
+Q3FY26 
+Earnings Announcement
+=== page 3 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+2
+Certain statements inthisrelease concerning ourfuture prospects areforward -looking statements .Forward -looking statements by
+their nature involve anumber ofrisks and uncertainties that could cause actual results todiffer materially from market
+expectations .These risks and uncertainties include, butarenotlimited toourability tomanage growth, intense competition
+among Indian and overseas ITProducts companies, various factors which may affect ourcost advantage, such aswage
+increases oranappreciating Rupee, ourability toattract andretain highly skilled professionals, time andcost overruns onfixed -
+price, fixed -time frame contracts, client concentration, restrictions onimmigration, ourability tomanage ourinternational
+operations, reduced demand fortechnology inourkeyfocus areas, disruptions intelecommunication networks, ourability to
+successfully complete and integrate potential acquisitions, liability fordamages onourservice contracts, thesuccess ofthe
+companies inwhich Intellect Design Arena hasmade strategic investments, withdrawal ofgovernmental fiscal incentives, political
+instability, legal restrictions onraising capital oracquiring companies outside India, unauthorised useofourintellectual property
+andgeneral economic conditions affecting ourindustry .
+Intellect Design Arena may, from time totime, make additional written andoralforward -looking statements, including ourreports
+toshareholders .These forward -looking statements represent only theCompany’s current intentions, beliefs orexpectations, and
+anyforward -looking statement speaks only asofthedate onwhich itwasmade .TheCompany assumes noobligation torevise or
+update anyforward -looking statements .Safe Harbour Statement
+=== page 4 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+3
+Our Promise
+To drive measurable business impact for 
+financial institutions by combining AI -First 
+architectures with enhanced operational 
+efficiency, implementation certainty, and 
+up to 30% lower total cost of ownership 
+(TCO)
+Core of what we do
+We provide AI -First, enterprise -grade financial 
+technology that helps banks reduce complexity 
+by embedding intelligence across architecture, 
+operations, and decision -making .61
+Countries3
+Decades of Domain
+Expertise in FinTech.
+Established 19936,500+
+Associates across 
+36 nationalities500+
+Customers
+Worldwide
+8012World's First Transformation
+Design Centre for Financial
+Technology
+Impacting the Business Outcome
+Transforming Enterprise, Experience and 
+OperationsDesign Centers
+New York (AI/ML), Toronto 
+(Cloud), Chennai & Mumbai
+(User Experience & Domain)
+AI-First eMACH Platforms
+Wholesale
+BankingConsumer
+Banking
+Central
+BankingWealth
+Al ProductsDigital Technology
+for Connected
+CommerceThe World’s only Open Finance, Composable and Contextual Financial Technology Company Intellect: A Global Fintech Product Company
+=== page 5 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+4
+A decade long 
+AI journey 
+grounded in 
+real customer 
+challenges
+We are now into wave 6
+Wave 6 : The AI -native enterprise5 waves have brought us to today
+Wave 1 : Data and AI as experiments
+Wave 2 : Data and AI as a solution
+Wave 3 : Data and AI as products
+Wave 4 : Data and AI as a platform
+Wave 5 : Intelligence as an ecosystemAI First Transformation Design
+=== page 6 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+5
+Data to knowledge
+Knowledge to Intelligence
+AI to Enterprise Connected 
+IntelligenceThe Future is AI -First, Composable and Connected
+Source: IDEO
+=== page 7 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+6
+●Architected for accuracy, security and governance at scale, 
+delivering 95%+ accuracy in regulated environments
+●Extends existing AI investments while reducing LLM costs, 
+with clear cost benefit visibility
+●No lock ins, no black box, offering full deployment flexibility 
+and global standards compliance
+●4 tech stacks and 18 layer runtime architecture, purpose 
+built for mission critical enterprise use
+●Low code no code Digital Experts, enabling faster build and 
+simpler management of AI agents
+●Live in production across 45+ countries, enabling real 
+business impact for financial institutionsPurple Fabric: Enterprise AI Built for Business Impact
+
+=== page 8 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+Performance Overview
+=== page 9 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+8
+Growth Momentum Accelerates Across All Financial Metrics
+Robust Top -line Growth
+Intellect delivered a strong Q3 FY26 with Last 
+Twelve Months  Total Income crossing 
+INR 3000 Cr, reflecting 23% year on year 
+top-line growth.Over the last twelve months, LLR reached 
+INR 1595 Cr, marking a 37% YoY increase, 
+validating the long -term compounding nature of 
+Intellect’s platform subscriptions and licenses.Sustained Growth in 
+License -Linked RevenueRobust Top -line Growth in Last 
+Twelve Months
+Cash and cash equivalents rose to INR 1198 Cr 
+in Q3 FY26, up from INR 804 Cr in Q3FY25, 
+reinforcing Intellect’s financial stability, 
+operational resilience, and superior working -
+capital efficiency.Strengthened Cash Position
+DSO stood at 118 days in Q3 FY26, 
+improving to 102 days excluding GeM, 
+reflecting tighter collections and disciplined 
+working capital management.Working Capital Efficiency
+Last Twelve Months PBT grew 34% YoY 
+driven by operating leverage and Intellect’s 
+scalable platform -led model.Accelerating Profit Growth
+Robust Top -line Growth
+Intellect secured 53 new deal wins and enabled 
+82 digital transformations in the last twelve 
+months across leading global banks and insurers, 
+powered by eMACH.ai and Purple Fabric.Accelerated Market Adoption 
+and Global MomentumBuilding a Strong Leadership Pipeline
+Twenty seven senior leaders at SVP level and 
+above joined Intellect in the last twelve months, 
+with 7 leadership hires in Q3 FY26.Robust Top -line Growth
+EBITDA increased from INR 534 Cr in LTM Q3 
+FY25 to INR 709 Cr in LTM Q3 FY26, 
+reflecting the scalability and strong operating 
+leverage of Intellect’s platform led model.Strong EBITDA Growth
+=== page 10 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+9
+●₹3,000 Cr LTM revenue, anchored on three scaled business engines
+○Wholesale Banking: Around ₹1,400 Cr (scale engine initiated in 2015)
+○Consumer Banking: Around ₹1,000 Cr (next growth focus from 2018)
+○IntellectAI (Wealth, Insurance & AI): Around ₹500 Cr (third engine established from 
+2021 onward)
+●Purple Fabric (Business Impact AI) positioned as the fourth growth engine, initiated from 2024 
+onward
+●A repeatable growth algorithm: deliberate -Concept → Validation → Scale execution in 3 -year 
+cycles
+●Portfolio resilience by design: scaled engines fund future engines while sustaining long -term 
+growthAlgorithm of Scale
+=== page 11 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+Financial Highlights
+=== page 12 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+11
+PAT*INR CrLast Twelve Months -Financial Highlights
+3025 Cr
+709 Cr1732 Cr
+512 Cr
+384 Cr 1198 CrTotal Income
+EBITDA % -23%Gross Margin % -57% 
+PBT
+PAT*23% YoY Growth Gross Margin 
+34% YoY Growth
+EBITDA
+Cash And Cash 
+Equivalent2964 Cr
+Collections 33% YoY Growth1595 Cr
+540 Cr
+559 Cr1118 Cr
+497 CrLicence Linked Revenue
+(License + Platform + AMC 
+Revenues)
+License 
+16% YoY GrowthAnnual Recurring 
+Revenue (ARR)
+(On Annualised Basis)
+128% YoY Growth 17% YoY Growth
+Platform Revenue
+AMC 53
+82
+Digital
+Transformations 
+Leaders (SVP and 
+above category) 
+joined Intellect in the 
+last 12 months27Deal Wins
+=== page 13 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+12
+PAT*Q3FY26 -Financial Highlights
+9
+29
+Digital 
+Transformations 
+Leaders (SVP and 
+above category) 
+joined Intellect in 
+Q3FY267Deal Wins753 Cr
+122 Cr400 Cr
+69 Cr391 Cr
+93 Cr
+143 Cr1118 Cr
+155 Cr
+52 Cr 1198 CrTotal Income Gross Margin % -54% 
+PBTLicence Linked Revenue 
+(License + Platform + AMC 
+Revenues)
+AMCAnnual Recurring 
+Revenue (ARR)
+(On Annualised Basis)
+Platform Revenue21% YoY Growth Gross Margin 
+License 34% YoY Growth EBITDA
+EBITDA % -16%
+Cash And Cash 
+EquivalentPAT*913 Cr
+Collections 
+Excluding GeM Total102 118DSO (as at 31st December 2025) 
+excluding Contractually Not DueINR Cr
+=== page 14 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+13
+Q3 FY 25 Q2 FY 26
+TOTAL INCOME 621 789
+EBITDA 134 184
+LLR 292 423
+PBT 93 136
+DSO 
+(Excl. GeM and 
+Contractually Not Due)122 122Q3 FY 26
+753
+122
+391
+69
+102INR CrFinancial Highlights
+Growth YoY
+21%
+(17%)
+34%
+(35%)
+=== page 15 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+14
+USD 43%EURO 6%OTHERS 9%
+INR 16%GBP 13%
+CAD 13%Revenue Mix: Currency Wise Q3FY26
+
+=== page 16 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+15
+ Note: Exceptional item comprises of a) MAT credit write -off of INR 12.51 Cr in Q4 FY24 | b) Gratuity Provision of INR 30.84 Cr a nd the resultant deferred tax of 7.76 Cr in Q3 FY26 (due to new labour codes)
+*Excluding GeM Revenue during the contracted period till FY24 ParticularsQuarter  Ended
+Dec 31, 2025                                                                                  
+(Q3FY26)Sept 30, 2025
+(Q2FY26)Dec 31, 2024                                                                                              
+(Q3FY25)
+INCOME
+Revenue from Operations 733.52 757.02 607.45
+Other Income 19.47 31.91 13.15
+Total Income 752.99 788.93 620.60
+Like-to-Like Total Income* 752.99 788.93 620.60
+EXPENDITURE
+Software Development 
+Expenses345.55 340.47 263.61
+Gross Margin 407.44 448.46 356.99
+SG & A Expenses 224.17 206.48 171.34
+R & E Expenses 61.41 57.66 51.72
+Total Expenditure 631.13 604.61 486.67
+EBITDA 121.86 184.32 133.93
+Depreciation & Amortisation (53.22) (48.82) (39.64)
+Others 0.20 0.61 (1.18)
+Profit / (Loss) Before Tax 68.84 136.11 93.11
+Provision For Taxation (17.32) (38.84) (22.92)
+Profit / (Loss)  After Tax 51.53 102.27 70.19
+PAT after exceptional items 28.45 102.27 70.19Full Year Ended
+Mar 31, 2025                                                                                              
+(FY25)Mar 31, 2024                                                                                              
+(FY24)
+2,495.50 2,513.13
+81.53 52.28
+2,577.03 2,565.41
+2,577.03 2,321.06
+1,070.18 1,108.80
+1,506.85 1,456.61
+691.38 657.64
+207.90 198.16
+1,969.46 1,964.60
+607.57 600.81
+(156.41) (137.22)
+(9.10) (3.93)
+442.07 459.67
+(109.29) (125.97)
+332.77 333.69
+332.77 321.18Last Twelve Months Ended
+Dec 31, 2025                                                                                              
+(LTM Q3FY26)Dec 31, 2024                                                                                              
+(LTM Q3FY25)
+2,918.67 2,380.29
+106.16 77.20
+3,024.83 2,457.49
+3,024.83 2,457.49
+1,292.72 1,041.72
+1,732.11 1,415.78
+796.27 676.50
+226.77 205.12
+2,315.77 1,923.34
+709.07 534.16
+(191.62) (150.24)
+(5.40) (0.89)
+512.05 383.04
+(128.44) (100.11)
+383.61 282.93
+360.53 270.42INR CrUnaudited Financial Results for the Third Quarter Ended -December 31, 2025
+Additional Information on function -wise classification of the statement of Profit and Loss of the Group
+=== page 17 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+16
+Q3FY26The current funnel of Intellect 
+Destiny
+DealsQ2FY26 Q3FY25
+# Of Deals
+Avg Deal 
+Size
+INR Cr 
+As % of 
+total Out of INR 12,003 
+Cr funnel value,        
+INR 10,222 Cr is 
+accounted by 234 
+OpportunitiesOut of INR 9,996 Cr 
+funnel value,        
+INR 7,757 Cr is 
+accounted by 213 
+OpportunitiesINR 12,003 Cr
+INR 9,996 Cr
+Q3FY26 Q2FY26 Q3FY2597
+63
+75%91
+65%5498
+73%66
+Out of INR 12,038 
+Cr funnel value, 
+INR 10,550 Cr is 
+accounted by 243 
+OpportunitiesINR 12,038 Cr
+Q3FY26 Q2FY26 Q3FY25Funnel Progression
+=== page 18 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+17
+Total High Value 
+Active PursuitsINR 30 Cr -
+INR 50 Cr
+INR 20 Cr -
+INR 30 Cr373427
+9732
+3827● 1 Won
+● 1 Lost
+● 25 from previous qtr
+● 2 added
+● 1 Won
+● 2 Lost
+● 35 from previous qtr
+● 2 added● 2 Won
+● 1 Lost
+● 29 from previous qtr
+● 5 added
+● 4 Won
+● 4 Lost
+● 89 from previous qtr
+● 9 addedQ3FY25 Q2FY26 Q3FY26 
+989130
+3625> INR 50 CrDestiny Deals 
+=== page 19 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+18
+Board Announcement
+The Board ofDirectors hasapproved theappointment ofMr.D.Shivakumar asanAdditional Director,
+designated asanIndependent Director, ontherecommendation oftheNomination, Remuneration and
+Compensation Committee (NRCC) .Hisappointment isforaterm offiveyears, subject totheapproval ofthe
+shareholders through apostal ballot bywayofaSpecial Resolution .
+Mr.D.Shivakumar isaseasoned business leader withextensive experience across Indian andmultinational
+organisations .Heiscurrently anOperating Partner atAdvent International, aglobal private equity firm.
+Previously, heserved asGroup Executive President –Corporate Strategy attheAditya Birla Group,
+Chairperson andCEO ofPepsiCo India, andCEO forEmerging Markets atNokia, where heplayed akey
+role inbuilding thebrand intoone ofIndia’s most trusted names .Mr.Shivakumar isanalumnus ofIIT
+Madras, IIMCalcutta, andTheWharton School ofBusiness, andhasheld several board andadvisory roles
+across leading institutions
+Appointment ofMr.D.Shivakumar asAdditional Director (Independent Director)
+=== page 20 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+Deal Wins: Accelerating Growth with eMACH.ai 
+& Purple Fabric
+=== page 21 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+20
+Accelerating growth with eMACH.ai and Purple Fabric
+Intellect recorded 9 new deals in Q3FY26 including 4 destiny deals
+AUS based specialised mutual
+insurance company that provides
+property and business interruption
+insurance tothe nuclear energy
+industry, willleverage Purple Fabric
+powered Magic Submission,
+Xponent Underwriting Workbench,
+Risk Analyst, Xponent, Claims
+Workbench, Xponent Data
+Warehouse solutions for their
+insurance operations .Avalued customer ofIntellect
+Custody since 2008 ,has chosen to
+upgrade their legacy Custody
+platform toeMACH .aiCustody to
+modernise operations .The solution
+combines the robust eMACH .ai
+Custody base product with the
+customisations built over thelast17
+years intheir legacy system,
+seamlessly integrated along with
+additional customisations aspertheir
+business priorities and client
+servicing needs .This ensures
+business continuity while equipping
+them with amodern, scalable, and
+future -ready Custody platform .
+eMACH .aiCustody will also be
+deployed inAWS incloud native
+model utilising thebest services of
+AWS tobring inscalability and
+resilience .One ofSriLanka’s leading banks,
+has selected eMACH .ai Cash
+Management and Supply Chain
+Finance tomodernise itswholesale
+banking operations and deliver a
+unified digital experience for its
+corporate andSME clientele .As Intellect furthers its global
+expansion bybringing the world’s
+only AI-firstpayments platform tothe
+USmarket, atop3Nordic bank has
+selected eMACH .aiPayments to
+modernise payments processing and
+enhance digital payments capabilities
+across itsUKbanking operations .
+=== page 22 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+21
+Accelerating growth with eMACH.ai and Purple Fabric
+Other significant deal wins
+Aleading financial institution inthe
+Middle East with over 50years of
+banking expertise has selected
+eMACH .aiTreasury tomodernise its
+treasury infrastructure .The solution
+willdrive operational excellence by
+unifying liquidity views, enabling real-
+time decision -making, and
+streamlining cross -border treasury
+functions .Atop-10bank inthe GCC has
+selected eMACH .aiTrade &Supply
+Chain Finance to modernise
+transaction banking and introduce
+new digital trade/SCF capabilities .Aleading technology solution provider has
+selected theeMACH .aiCore Banking asits
+preferred core banking solution tosupport
+the digital transformation initiatives ofits
+banking customers .This partnership
+strengthens Intellect’s partner -led growth
+strategy and expands the reach of
+eMACH .aiCore Banking across new client
+engagements andmarkets .The world's leading Islamic Bank,
+headquartered inDubai selected
+eMACH .aiLending toenhance its
+digital lending capabilities and
+incorporate Shariah principles across
+allpractices intheUAE.The fastest growing bank aswellas
+one ofthe most profitable banks
+within theSultanate ofOman has
+selected eMACH .aiLending to
+expand and extend their credit
+experiences .
+=== page 23 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+Growth Catalysts: Platform & 
+Ecosystem Expansion
+=== page 24 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+23
+As part of the US market expansion, Intellect launches the world’s only AI -first payments platform, architected from first princ iples 
+for business impact. As a purpose -built low -code/no -code composable framework, the platform enables  institutions to move 
+beyond incremental upgrades and design payments systems that deliver speed, resilience, and competitive advantage at scale. I t 
+allows them to rapidly deploy new payment rails and scale real -time payment capabilities with speed and operational certainty. 
+AI First Unified Orchestration Across US Payment Rails
+● Single AI -powered orchestration layer across TCH RTP, FedNow, ACH, Fedwire and SWIFT
+● Purple Fabric AI operates before, during and after transactions for real -time validation, anomaly detection and exception 
+handling
+● Built on eMACH.ai and Pay9 architecture, enabling modernisation without core replacement
+Strengthening Intellect’s US Market Commitment
+● Expanded US footprint with New York headquarters, Atlanta operations centre and Austin AI hub
+● 2 million annual R&D hours across New York and Toronto
+● Strategic acquisition of Central 1 digital banking operations and growing US partnerships reinforce long -term commitment 
+to the US wholesale banking marketLaunching the World’s Only AI -First Payments Platform 
+to US Market 
+=== page 25 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+24
+Purple Fabric Ecosystem Expands with 14 Value Discovery Partners
+Intellect has onboarded 14 Value Discovery Partners across India, Africa, Europe, the UK, APAC and Canada to 
+accelerate AI First value discovery and enterprise adoption of Purple Fabric, its Business Impact AI platform. These 
+partners work closely with customer leadership to identify high value AI use cases, prioritise measurable outcomes, and 
+co create governed, production ready AI solutions on Purple Fabric.
+Partner Framework
+● Co Build: Develop AI agents and industry workflows
+● Co Exist: Integrate Digital Experts into existing core and legacy systems
+● Build: Create differentiated IP on Purple Fabric
+Engagement Models
+● Sell With: Joint customer delivery with Intellect support
+● Sell To: Internal adoption using pre built Digital Experts
+● Sell Through: Partner hosted or Intellect managed Purple Fabric Cloud deployments
+=== page 26 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+25
+Intellect has partnered with Fintel, a listed 
+and leading provider of fintech and support 
+services to the UK retail financial services 
+sector. A 50:50 joint venture in the United 
+Kingdom will be formed to develop and 
+commercialise an AI led Financial Advisory 
+platform for the UK market.Fintel currently serves over 80% of the UK 
+financial advisory market either directly or 
+through its institutional clients. The initial focus 
+will be on deploying UK ready or near ready 
+use cases, followed by the development of 
+bespoke agents and components powered by 
+eMACH.ai, aligned to UK regulations, advice 
+protocols, processes and product structures.Fintel Joint Ventures to Commercialise AI -led Financial 
+Advisory Platform
+=== page 27 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+Market Validation & Leadership Recognition
+=== page 28 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+27
+Time Magazine recognises Intellect CMD Arun Jain as 
+"Growth Architect" 
+The recognition ofArun Jain, Chairman
+and Managing Director ofIntellect
+Design Arena, byTime Magazine marks
+adefinitive transition from digital scale
+tomeasurable business outcomes,
+positioning thecompany asa"Growth
+Architect" thatbuilds forlong-term value
+rather than quarterly cycles .The article
+spotlights Purple Fabric astheworld’s
+first open business -impact AIplatform,
+specifically engineered tomove AIfrom
+experimental pilots into high-stakes
+production .
+
+=== page 29 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+28
+Intellect Won Gold Medal in Datos Impact Awards 
+for Banking Innovation
+eMACH.ai Transaction Limits Management (TLM) solution has 
+been awarded the Gold medal for Best Innovation in 
+Operational Efficiency in the Datos Insights Impact Awards in 
+Commercial Banking & Payments.
+Datos Insights recognised Intellect for our TLM platform’s 
+capacity to transform how banks process high -value and 
+instant payments across complex corporate structuresIntellect has been recognised by Euromoney as the World’s 
+Best Transaction Banking Software Provider 2025, winning a 
+landmark triple win that also includes Best in Cash 
+Management and Best Corporate Channels. This global 
+recognition affirms Intellect’s position as the world’s leading 
+technology partner for wholesale banking.Intellect Named World’s Best Transaction Banking 
+Software Provider 2025 by EuromoneyCelebrating Recognition and Industry Excellence
+=== page 30 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+29
+IDC
+● Intellect's Corporate Loan Life Cycle Management system is identified in the "LEADERS" category in IDC MarketScape : 
+Worldwide Corporate Loan Lifecycle Management 2025 Vendor Assessment 
+● eMACH.ai Core Banking was acknowledged as a representative vendor in the Gartner Critical Capabilities Report for Retail Core
+Banking Systems, Europe, and also acknowledged as a Visionary in the Gartner Magic Quadrant for Retail Core Banking 
+Systems, Europe.GartnerLeadership Position Endorsed byMarket Leading Analyst
+Chartis
+● In the Chartis RiskTech ALM Solutions 2025 Report, Intellect received multiple recognitions across its Treasury portfolio. Hedging 
+and Risk Management Solutions were rated Best of Breed, LRM and FPA were recognised as Category Leaders, FTP and 
+Balance Sheet and Capital Optimisation were positioned as Enterprise Solutions, while ALM Solutions were acknowledged as 
+Point Solutions.
+● Separately, in the Chartis RiskTech Regulatory Reporting Solutions 2025 Quadrants, Intellect was recognised as a Leader for its 
+Regulatory Reporting solutions.
+=== page 31 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+30
+Market Cap ₹ 13,541.50 Cr
+52 Week (High / Low) ₹ 1,255 / ₹ 577
+NSE / BSE -Symbol INTELLECT / 538835
+No. of Shares Outstanding 13,93,15,462Stock Data (As on 31st December 2025)
+Stock Price ₹ 972Shareholding Pattern 
+(As on 31st December 2025)
+Mutual FundsFPIPromoters
+Others 
+6.33%
+Average Daily Volume (3 Months) -NSE 5.64 LakhsStock Information 
+=== page 32 ===
+© 2024, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.
+31
+Vasudha Subramaniam
+Chief Financial Officer
+vasudha.s@intellectdesign.comPraveen Malik
+Investor Relations
++91 89397 82837
+praveen.malik@intellectdesign.comNachu Nagappan
+Corporate Communication
++91 89396 19676
+nachu.nagappan@intellectdesign.comContacts
+=== page 33 ===
+© 2026, Intellect Design Arena Limited.
+All rights reserved. These materials are confidential and proprietary to Intellect and no part of these materials should be r eproduced, published in any form by any means, electronic or mechanical 
+including photocopy or any information storage or retrieval system nor should the materials be disclosed to third parties wit hout the express written authorization of Intellect Design Arena Limited.

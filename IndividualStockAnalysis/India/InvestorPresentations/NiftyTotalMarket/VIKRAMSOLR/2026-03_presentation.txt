@@ -1,0 +1,814 @@
+
+=== page 1 ===
+  
+ March 26, 2026                                                                                                                   VSL/CS/299/2026 dated 26.03.2026   
+                                                                                                                                
+ 
+BSE  Ltd.  
+Department of Corporate Services  
+P. J. Towers, Dalal Street, Mumbai – 400 001 . 
+ 
+(Scrip  Code:  Equity  - 544488)  National  Stock  Exchange  of India  Ltd.  
+Listing Department  
+Exchange Plaza, Bandra -Kurla Complex, Bandra (E), 
+Mumbai – 400 051  
+(Symbol: VIKRAMSOLR, Series EQ)  
+ 
+Dear  Sir/Madam,  
+ 
+Sub:  Investor’s  Presentation  pursuant  to Regulation  30 of the SEBI  (Listing  Obligations and  
+Disclosure Requirements) Regulations, 2015  
+ 
+Further to our intimation regarding the Analysts/Institutional Investors Meeting held on T uesday , March  24, 
+2026  at Mumbai  and  pursuant  to Regulation  30 of the of the Securities  and  Exchange  Board of  India  (Listing  
+Obligations  and  Disclosure  Requirements)  Regulations,  2015  (''Listing  Regulations"), we enclose herewith 
+a copy of the Investor Presentation which was presented in the “ Analyst Meet ”. 
+ 
+The same  has also been  uploaded  on the Company’s  website  which  may be viewed  at 
+www.vikramsolar.com/ . 
+ 
+You  are requested  to take  the above  information  on records.  
+ 
+Thanking You,  
+ 
+For and on behalf of  
+VIKRAM SOLAR LIMITED  
+ 
+ 
+ 
+Sudipta Bhowal  
+Company Secretary &  
+Compliance Officer  
+ 
+Encl. As Above  
+Sudipta 
+BhowalDigitally signed by 
+Sudipta Bhowal Date: 2026.03.26 21:22:28 +05'30'
+=== page 2 ===
+V i k r a m  S o l a r  L i m i t e dV I K R A M  S O L A R
+Analysts and Investors Day
+24th March 2026
+Powering India's Energy Transition
+BSE: 544390  |  NSE: VIKRAMSOL
+
+=== page 3 ===
+V i k r a m  S o l a r  L i m i t e dSpeaker Profiles
+Mr. Gyanesh Chaudhary
+Chairman & Managing DirectorMr. Ranjan Jindal 
+Chief Financial Officer Ms. Neha Agrawal
+Whole -Time Director and Senior Vice 
+President - Corporate StrategyMr. Sumit Kumar 
+Vice President -Operations 
+(Manufacturing) & Technology
+Mr. Ashwini Agarwal
+Capex Project Director (Interim)Dr. Vaithianathan  
+Veeramuthu
+Senior General Manager, Cell Technology, 
+Plant OperationsMr. Arun Mittal
+Chief Executive Officer,
+VSL PowerHive
+=== page 4 ===
+V i k r a m  S o l a r  L i m i t e dSetting the Context
+301ENERGY SECURITY & INDIA'S ROLE
+Energy security cannot be built on imports. It has to be 
+manufactured at home.
+02AI WILL NOT MOVE WITHOUT RENEWABLE ENERGY
+The next wave of AI infrastructure runs on clean power. There 
+is no other option.
+03INDIA — THE WORLD'S SECOND SUPPLY CHAIN
+The world cannot de -risk from China without India. There is 
+no third option at scale.
+04INDIA'S APPETITE FOR RENEWABLE IS ONLY GROWING
+India is not at peak demand. It is at the beginning of a multi -
+decade build.$137bn
+India's annual crude import bill (FY25)88%
+Of oil imported — structural 
+vulnerability520 GW → 1,121 
+GW
+India's installed capacity today → 
+target by 2035 -36 (CEA, Mar 2026)
+2x
+Global data centre electricity demand 
+by 2030 (IEA)9 GW
+India data centre capacity by 2030 — 
+up from 1.4 GW today321 GWh
+BESS India needs by 2035 -36 for RE 
+grid integration — data centres a key 
+driver (CEA, Mar 2026)
+#2
+Largest solar module producer 
+outside China — ahead of SE Asia173 GW
+India's module manufacturing 
+capacity (Mar’2026)509 GW
+Solar target 2035 -36 — ~4x current 
+base of 140 GW (CEA, Mar 2026)
+786 GW
+Non -fossil capacity by 2035 -36 — 
+70% of India's total power mix (CEA, 
+Mar 2026)155 GW
+Wind target 2035 -36 — 3x current 
+base of 55 GW (CEA, Mar 2026)$2.2tn
+Investment India needs in the power 
+sector over the next two decades
+Industry data
+=== page 5 ===
+V i k r a m  S o l a r  L i m i t e dWhat's Ahead  →  Capacity, Integration & New Platforms
+DELIVERING TODAY BUILDING TOMORROW GROWING BEYOND
+Scale, Execution & Earnings
+•9.5 GW module capacity live
+•Falta (WB), Oragadam  & Vallam (TN)Integration, Technology & Cell Sovereignty
+•9 GW cell plant FY27; 70% backward integration
+•3 GW XBC cell ordered; to be commissioned  by FY28
+•12 GW wafer -ingot; to be commissioned by FY29 -30New Platforms, Global Markets & Strategic Reach
+•15 GWh BESS - India's largest by FY30
+•Fully integrated ingot -to-module by FY29
+•Export markets: EU / MENA compliance
+INT EGRAT IO N ROA DMA P
+FY27
+9 GW cell → 70% backward integrationFY28
+3 GW XBC cell plant – 
+90% backward integrationFY29
+Phase - I 6 GW wafer -ingotFY30
+Phase - II 6 GW wafer -ingot
+100% Backward Integration - Increasing Value Share
+One of the few companies with a complete integration plan from ingot to module
+Module
+15.5 GW Cell
+12 GW · FY27 -28Wafer & Ingot
+12 GW · FY29 -30
+Doubling Down on XBC - Tech Differentiation
+•3 GW back -contact (XBC) cell plant ordered – COD in FY28
+•First XBC cell plant in India - technology announcement already done
+•Creating clear technology moat vs. PERC -only peersBESS - New Growth Engine
+15 GWh
+Target by FY30 - one of India’s largest integrated BESS facility
+FY27 5 GWh Phase 1
+Equipment ordered
+FY30Scaling to 15 GWh - 3× expansion
+Aligned with India’s 321 GWh national target
+VISIONSolar + Storage = Complete Platform
+Natural complement capturing full energy transition valueOne of the few companies with a 100% backward integration plan  · First XBC cell plant in India  · 15 GWh BESS by FY30
+4
+=== page 6 ===
+V i k r a m  S o l a r  L i m i t e dThree pillars. One thesis. The complete Vikram Solar story.
+5P I L L A R  O N E
+Delivering Today:
+Scale, Execution
+& Earnings
+"A business performing at scale — with discipline"P I L L A R  T W O
+Building Tomorrow:
+Integration, Technology
+& Cell Sovereignty
+"Not buying yesterday's cells. Building tomorrow's."P I L L A R  T H R E E
+Growing Beyond:
+New Platforms, Global
+Markets & Strategic Reach
+"Extending an integrated platform into high -value 
+adjacencies"
+=== page 7 ===
+V i k r a m  S o l a r  L i m i t e dConsistent Growth at Scale
+Strong growth fueled by domestic demand, product innovation
+Revenue (9MFY26)
+₹ 3,350 Cr
+↑ 50% YoY
+EBITDA (9MFY26)
+₹ 682 Cr 
+↑ 154% YoY
+Capacity Operational
+9.5 GW
+Adding another 6 GW by Q1FY27
+Net Worth
+₹ 2,950 CrO R D E R  B O O K  A R C H I T E C T U R E
+84% Domestic  ·  16% Export
+55%IPP — Independent Power Producers
+Baseload visibility & scale economics
+21%C&I Segment
+Surged from 4% → 21% in 12 months
+24%Distribution, Govt & EPC
+41 → 102 distribution outlets in 12 months
+16%Global Export
+EU / MENA · Non -Chinese cell origin compliance
+610.6 GW
+As of September 2025
+=== page 8 ===
+V i k r a m  S o l a r  L i m i t e d
+Estimated Annual Demand of Modules – ~75 GWDC
+  UTILITY
+Peak  Execution
+106 GW
+FY25 installed
+181 GW
+FY30 target
+~26 GW
+DCR tenders
+104 GW
+NDCR backlog (as 
+on Sep’25)
+  C&I
+Steady 8 –10 GW/yr
+8.0 GW
+FY27P demand
+10 GW
+FY30P demand
+~1.4 - 1.6x
+Tariff advantages 
+vs Grid
+9 GW
+Data centres  (by 
+2030)
+  KUSUM
+Policy -Backed  DCR  Demand
+34.8 GW
+Target
+KUSUM 2.0
+Agrivoltaics now in 
+focus
+  ROOFTOP
+9–10 GW/yr Additions
+~9.6 GW
+Installed (Mar'26)
+9 GW
+FY27P additions
+11 GW
+FY28P additions
+PMSGY
+SchemeKey Thesis:  Policy continuity (DCR mandates, KUSUM, PMSGY) will accelerate execution across Utility, C&I, KUSUM & Rooftop create a multi -year, broad -based demand tailwind  — positioning 
+Vikram Solar for sustained high -volume offtake through FY27 and beyond.
+(DCR / NDCR) (DCR / NDCR) (DCR / NDCR) (DCR / NDCR)
+FY27 DCR Estimate FY27 NDCR EstimateStructural demand from various segments; Well -Positioned across 
+every segment for FY27 & Beyond
+7Industry data, Company estimates~9.1 GW
+Component A 
+pending₹ 34,422 Cr
+CFA
+=== page 9 ===
+V i k r a m  S o l a r  L i m i t e dPockets of overcapacity, entire value chain to be underserved 
+until FY2030
+MODULE (ALMM -I)
+FY26 (Today) FY28 (Ahead)
+Supply ~173 GW
+ALMM -I listedSupply 200+ GW
+Expanding
+Demand ~75 GW
+Annual (DC)Demand ~75 GW
+Annual (DC)
+OVERCAPACITY: YES
+Supply ~2.3x demand. Spreads rationalizeCELL (ALMM -II)
+FY26 (Today) FY28 (Ahead)
+Supply ~26 GW
+ALMM -II listedSupplyAnnounced 
+capacities 
+~100 GW+
+Demand 10 GW
+DCR todayDemand ~75 GW
+Post ALMM -II
+UNDERCAPACITY: YES, TODAY
+*FY28 announced capacity will take longer to fully 
+commissionFULL VALUE CHAIN
+Post -ALMM III: Module + Cell + Wafer
+✓ALMM -I: 173 GW module listed
+✓ALMM -II: 26 GW cell listed (Jun 2026)
+✓ALMM -III: Nil as at today (Jun 2028)
+Bottleneck moves upstream
+POCKETS OF UNDERCAPACITY
+ALMM always creates scarcity until FY30
+THE REAL PICTURE
+•Module overcapacity is real (173 GW supply vs 75 GW demand) 
+•Cell overcapacity premature — supplies for cell increase in FY27 and FY28 but demand too rises post full implementation of ALMM -2; supply projections today 
+are too aggressive; 
+•Capital -rich, execution -proven players gain a structural moat.
+8 Industry data, Company estimates
+=== page 10 ===
+P I L L A R  O N E
+Module Value Chain
+Delivering Today: Scale, Execution & Earnings
+=== page 11 ===
+V i k r a m  S o l a r  L i m i t e d
+740w
+MAXIMUM EFFICIENCY
+23.82
+G12R/G12
+N-TYPE/ HJT
+Solar Cells Bifacial Half Cut
+96/132 Cell Module
+WATTPEAK UPTO
+735w
+MAXIMUM EFFICIENCY
+23.66
+M10R/G12R/G12
+N-TYPE/ HJT
+Solar Cells Bifacial Half Cut
+144/132 Cell Module
+WATTPEAK UPTO
+715w
+MAXIMUM EFFICIENCY
+23.02
+M10/M10R/G12
+PERC/N -TYPE
+Solar Cells Bifacial Half Cut
+144/132 Cell Module
+N-TYPE
+Monofacial  Full Cell 
+With Smart JB
+Solar Cells Bifacial HC
+108/120/144/156  Cell 
+Module
+WATTPEAK UPTO6VSL Product Landscape
+Product Evolution
+99.95%
+Sustained BORM Yield
+FY25 Vs FY248 times
+KIWA PVEL Top Performer 
+10
+=== page 12 ===
+V i k r a m  S o l a r  L i m i t e dThe Competitive Edge 
+Product Innovation
+NEXT -GEN TECHNOLOGY  INTEGRATION
+CELL TECH
+▪Zero Busbar Cells
+▪Perovskite Cells
+▪Tandem Cells (Perovskite + Silicon)
+ADVANCE MATERIALS
+ 2
+▪Light Capturing Ribbons (LCR)
+▪Ultra High Transmittance Glass
+▪Advanced FilmsPRODUCT INNOVATION
+ZERO BUSBAR 
+CELL
+PEROVSKITE 
+CELL
+LIGHT
+CAPTURING 
+COMPONEN
+T
+SMART 
+MONITORING
+ADVANCED MODULE DESIGNOPTIMIZING MODULE DESIGN
+1
+▪Integrating smart junction boxes
+▪Anti -Dust Coating 
+PERFORMANCE OPTIMIZATION
+2
+▪CTM loss minimization
+▪High -level automation
+▪MES (Manufacturing Execution System)TANDEM CELL
+1
+1
+1
+=== page 13 ===
+V i k r a m  S o l a r  L i m i t e dFuture -Proof: Our Lines Evolve — No Replacement, Just Upgrades
+1
+2Seamless Manufacturing Integration
+◈ S T R I N G E R  /  B U S B A R Minor tooling upgradeHigh -precision alignment with new 
+Stringer
+◆ C E L L  T H I C K N E S S Parameter -only adjustmentAutomated paper placement to
+prevents scratches on rear contacts
+◎ S O L D E R I N G Existing stations, parameter tuning Optimized low -temp profiles
+◉ E N C A P S U L A T I O NLamination recipe optimized via
+ DOENew equipment
+X B C  F U T U R E  R E A D I N E S S : Zero -BB architecture emerging as xBC future  ·  All transitions require NO new production halt — only targeted equipment additio ns
+E S T A B L I S H E D NOW
+TOPCon23–24%
+efficiency→
+I N  T R A N S I T I O N CAPABLE
+HJT23–24%
+efficiency→
+W A Y  F O R W A R D PLANNED
+XBC24% -25%
+efficiency
+=== page 14 ===
+P I L L A R  T W O
+Solar Cells – Moving up the value chain
+Building Tomorrow: Integration, Technology & Cell Sovereignty
+=== page 15 ===
+V i k r a m  S o l a r  L i m i t e dStarting Right, Built to Evolve — N-Type First, Future -Proof by 
+Design
+Technology Roadmap
+3 GW
+INDIA -READY · NOW Industry standard
+TOPCon
+★★★★★
+Readiness for India
+Efficiency
+24.7 – 25.0%
+Complexity  6/10
+Finer grid lines; copper -assisted metallisation  to 
+reduce silver cost
+NEAR -TERM UPGRADE VSL Now
+TOPCon+
+★★★★☆
+Readiness for India
+In Progress
+Efficiency
+25.5 –26.0%
+Complexity  7/10
+Selective etching of rear passivation; advanced laser & 
+edge processing tools
+CELL 2 · 4Q 2028 3 GW PLANNED
+XBC
+★☆☆☆☆
+Readiness for India
+Niche / Premium
+Efficiency
+25.7 –26.2%
+Complexity  9/10
+Multiple masking steps; advanced laser 
+for interdigitated patterningIndustry Standard
+14
+=== page 16 ===
+V i k r a m  S o l a r  L i m i t e d
+Cell Plant Execution Roadmap
+Equipment Journey to commissioning
+~120 –150 days
+~45–60 days
+~120 –180 daysAContract
+Signed
+BBuild | FAT
+Dispatch
+CArrival
+I&C
+D COD1. Equipment Journey — Contract To COD
+PHASE 1 Installation & SAT
+OEMsEquipment move -in, installation, 
+individual tool SATCRITICAL
+PHASE 2 Commissioning & Ramp -Up 50+
+OEMs
+Line integration, process optimization, 
+yield ramp -upHIGH PRIORITY
+PHASE 3 Stabilization & Post -SAT 35+
+OEMsKnowledge transfer, local team 
+training, steady -state support STABILIZE
+PHASE 4 Remote Support>12 
+months
+OEMs
+Critical process/equipment support 
+onlySUSTAIN100+
+2,200+
+Peak Own Headcount2 Yrs
+Total Support Locked2. 24 months of OEM Support
+Dec 2026
+15
+=== page 17 ===
+V i k r a m  S o l a r  L i m i t e dVSL — Yield Stabilization Strategy
+Y I E L D  G U A R D R A I L S
+100% check - Lifetime, Resistivity, ThicknessIncoming Wafer QC
+PL imaging is added at all critical process stepsIn-Process Control
+100% EL imaging; LID sampling; Reliability testingFinal Audit
+Q U A L I T Y  
+1Water, Chemicals & Gases
+Contamination Control
+Optimized Quantity2
+3T E C H  S U P P O R T
+124 months warranty
+12 months OEM stay at site; Post -SAT 2
+3Process Window Control
+Annealing temp uniformity · Tunnel Oxide thickness control
+✓ 97%+ yield vs. 95% industry std.
+LID Mitigation
+Pre-stab light soaking + Optimized firing profiles
+✓ <1.2% UV degradation vs. 2.2%
+Interface Engineering
+H₂ passivation during firing · Real -time PL/EL monitoring
+✓ iVoc improvement 5 –10 mVP R O C E S S  C O N T R O L
+16
+=== page 18 ===
+V i k r a m  S o l a r  L i m i t e dThe Execution Triad
+Experience & Leadership
+70+ Combined Years of Global PV Manufacturing Mastery — Purpose -built to take VSL from commissioning to steady -state yield witho ut a learning curve.
+Technology & Operations
+Dr. C.V. Kannan
+22+ YearsPh.D. Materials Science · 
+Ex-Adani & Moser Baer
+F O C U S
+Full PV Value Chain & Large -Scale 
+TOPCon Scale -ups
+Plant Setup & Execution
+Mr. Uma Maheswara 
+Rao Gundapu
+Greenfield Ramp -up 
+SpecialistF O C U S
+Greenfield Cleanroom Engineering 
+& Multi -GW CAPEX Alignment
+Technology & Integration
+Dr. Vaithianathan 
+Veeramuthu
+22+ YearsPh.D. Materials Science · 
+Global Scale -ups
+F O C U S
+Full PV Value Chain Large Scale Mfg.
+Technology, Process Integration30+ Years
+17
+=== page 19 ===
+P I L L A R  T W O
+Project Execution
+How we are developing our Gangaikondan site as one of the biggest solar value 
+chain locations
+=== page 20 ===
+V i k r a m  S o l a r  L i m i t e dFive Dimensions That Trip Up Cell Projects — All Green at VSL
+The  Execution  Pentagon
+1
+Site &
+Infrastructure
+✓ ON TRACK
+2
+Regulatory
+& Utilities
+✓ ON TRACK
+3
+Critical Path
+Timeline
+4
+Procurement
+Scorecard
+5
+Risk
+Mitigation
+19
+=== page 21 ===
+V i k r a m  S o l a r  L i m i t e dGangaikondan  Campus — Full Integrated Manufacturing 
+Footprint
+MODULE PLANT
+6 GW | FAB V
+FMO: Jun'26
+CELL PLANT Ph -I
+9 GW | FAB VI
+FCO: Dec'26
+CELL Ph -II + WAFER and 
+INGOT
+3 GW + ~12 GW
+FY28 –30
+Why Single -Campus Integration Matters
+Zero transport cost
+Cell output feeds
+directly into module lines
+Shared utilities
+Power, water, gas, waste
+treatment across all units
+Compressed timeline
+Adjacent construction
+reduces integration risk
+Module building: civil completed · PEB erection completed · Critical utility equipment delivered on site · Module equipment d elivery starts next month
+20
+=== page 22 ===
+V i k r a m  S o l a r  L i m i t e dFront -Loaded Approvals — Zero Pending on Critical Path
+Where most Indian cell projects lose 12 –18 months, we’ve front -loaded every approval
+Water Allocation
+✓ SECURED
+Power Utilities
+Transformer already manufactured for 
+cell (earlier than scheduled)
+✓ SECURED
+Environmental
+Clearance
+Fully secured
+✓ SECURED
+Strategy: deliberately front -loaded so no approval is on the critical path when equipment arrives
+21Fully secured
+=== page 23 ===
+V i k r a m  S o l a r  L i m i t e dKey challenges
+22
+Regulatory
+Approvals
+INDUSTRY
+Years of delays
+for clearances
+✓ OUR PROGRESS
+Approvals secured
+Vendor
+Ecosystem
+INDUSTRY
+Immature base
+Skill gaps
+✓ OUR PROGRESS
+Vendors appointed and 1,100 
+workers on site today
+Ramp -Up
+Risk
+INDUSTRY
+Yield failures
+Revenue delays
+✓ OUR PROGRESS
+Phased targets
+70yr team exp
+Where others are still scrambling, we’ve already de -risked all  challenges
+Lead Time
+of Machines
+INDUSTRY
+12-18 month
+OEM delivery
+Equipment orders placed and 
+delivery on track
+✓ OUR PROGRESS
+=== page 24 ===
+P I L L A R  T H R E E
+BESS
+Growing Beyond: New Platforms, Global Markets & Strategic Reach
+=== page 25 ===
+V i k r a m  S o l a r  L i m i t e d
+Renewable  Integration
+Global  solar  & wind  capacity  is projected  to triple  by 
+2030  (IEA),  requiring  10x more  storage  to manage  
+intermittency
+EV & Electrification
+Global  EV fleet  projected  to reach  250M+ vehicles  
+by 2030  (BNEF),  driving  both  traction  & grid-
+balancing  demand .
+Grid  modernization  & Energy  Security
+800+ GW new  transmission  needed  globally  by 
+2030 . BESS  as cost-effective  alternative  where  grid 
+upgrades  are delayed .Three mega -trends are converging to create an unprecedented storage opportunityGlobal Battery Market Landscape
+24
+
+=== page 26 ===
+V i k r a m  S o l a r  L i m i t e dIndia’s BESS Market — Large, Policy -backed & 
+Underpenetrated
+25321 GWh
+Expected Li -ion market in India by FY3540+ GWh
+Already incentivized via VGF₹18,000 Cr
+INR $2.1 Bn planned PLI Support35-40%
+EV penetration in India expected by FY30
+INDIA BESS MARKET — THE SCALE OF OPPORTUNITY
+Domestic Manufacturing (DCR) Mandates
+Mandatory localization targets — 60%
+domestic value addition within 5 years
+PLI Scheme (1 & 2)
+40 GWh already incentivized under
+Advanced Chemistry Cell PLI schemeISTS Transmission Waiver
+National grid access for BESS
+without inter -state transmission chargesMandatory Storage Requirements
+Storage obligations tied to new
+renewable energy projects and tenders
+Solar + Storage Colocation
+ISTS transmission waivers enabling
+cost-effective co -located BESS deploymentViability Gap Funding (VGF)
+Government bridges economics gap —
+₹18,000 Cr ($2.1 Bn) planned spend
+
+=== page 27 ===
+V i k r a m  S o l a r  L i m i t e dCapacity Expansion Roadmap
+26•Chemistry Choice: LFP — proven for safety, long cycle life & stationary storage
+•Product Fit: Aligned with utility, hybrid, and standalone BESS applications
+•Market Readiness: Active participation across FDRE/RTC, Solar + BESS, and standalone BESS
+7.5 GWh
+FY28 -2915 GWh
+7.5 GWh Integrated Cell & BESS 
+Manufacturing30 GWh
+Scaling of 15 GWh to 
+30 GWh
+5 GWh BESS Facility
+5 GWh Assembly
+FY26 -27
+Scaling of 7.5 GWh to 
+15 GWh
+Ultimate Ambition:  30 GWh  of fully integrated BESS manufacturing capacityPhased, capital -efficient scale -up from BESS assembly to fully integrated cell manufacturing
+=== page 28 ===
+V i k r a m  S o l a r  L i m i t e dProduct Portfolio → Full Stack, India made
+From residential inverter batteries to utility -scale BESS — powered by VION LFP chemistry
+RESIDENTIAL C&I AND UTILITY E-MOBILITY
+Home UPS Battery
+1.28 – 15.36 kWh range
+VION LFP 12160 / LFP 12320
+60-Month Warranty | Made in India
+E-Rickshaw Battery Pack
+5 – 7.5 kWh | LFP Chemistry
+High cycle life | IP67
+36-Month Warranty
+5MWh 20 ft container
+Liquid Cooled | Stacked to MWh
+~1330 Vdc system voltageBESS Cabinet (C&I/Utility)
+52.2 – 104.4 kWh modules
+Liquid Cooled | IP67
+~165 Vdc system voltageOur Upcoming Advanced -Chemistry Cell Manufacturing CELL & PACK
+27
+=== page 29 ===
+V i k r a m  S o l a r  L i m i t e dHow we capitalize on this opportunity
+VSL's right to win. Anchored in execution capability, not speculative positioning
+RESIDENTIAL
+01
+Technical Leadership
+•Leadership with prior LFP cell -line and battery manufacturing 
+exposure.
+02
+Solar Adjacency & Market Access
+•Established solar presence with strong relationships across IPPs, 
+PSUs, EPC, C&I clients. 
+•Direct market access to BESS buyers without cold -start sales cycle.
+03
+Phased Capital Efficiency
+•Assembly -first approach minimizes upfront capex. 
+•Each phase funded from revenue and demand visibility. 
+04
+Technology Edge
+•Evaluating multiple technology choices with various equipment 
+partners 
+•Faster capability build -up. 
+•Reduced time -to-market for cell manufacturing phase.
+28
+=== page 30 ===
+P I L L A R  T H R E E
+Exports
+Tapping Key Markets Strategically
+=== page 31 ===
+V i k r a m  S o l a r  L i m i t e dOur Vision for Exports
+Building a credible, diversified international identity
+KEY METRICS
+3
+Primary Global
+Markets
+39+
+International Location of
+Business Presence
+China
++1
+Procurement
+Compliance Shift
+Non -
+Chinese
+Origin
+Advantage
+S T R A T E G I C  P I L L A R S
+Global Repositioning
+Evolving from India's leading manufacturer to a 
+globally trusted, compliance -first solar partner — 
+recognised in US, EU and APAC markets
+Diversified Revenue Model
+From India -centric to balanced multi -region 
+revenues: USA, Europe & APAC as primary 
+international markets
+Trusted Non -Chinese Alternative
+Compliance, traceability and geopolitical China+1 
+sentiment drive demand — Vikram positioned as 
+the credible choice
+Scale, Credibility & Partnerships
+Anchored in manufacturing scale, supply -chain 
+transparency, quality differentiation and long -term 
+customer partnerships
+“Vikram Solar's export vision is to become the world's most trusted, compliance -first solar manufacturer — 
+delivering quality, traceability and lasting value across every market we serve”
+=== page 32 ===
+V i k r a m  S o l a r  L i m i t e dKey Markets : US | Europe | APAC
+USA
+Deep channel penetration + compliance readiness
+Partnerships
+Strong traction with US distributors, IPPs, C&I 
+buyers + utility project developers
+FEOC / Non -PFE
+Fully traceable, non -PFE and FEOC compliant 
+supply chain — key US procurement criterion
+Certifications
+UL + PVEL certifications actively being 
+executed for US market acceptance
+EUROPE
+Regulatory tailwinds: CBAM + Net Zero Industry Act
+CBAM
+Carbon -intensity benchmarks under CBAM 
+favour  Vikram's clean, documented supply chain
+Net Zero Act
+EU Net Zero Industry Act creates preferential 
+treatment for non -Chinese supply chains
+Validated Docs
+Supply chain documentation + ESG audit 
+compliance fully in place for EU buyers
+APAC
+High -compliance, high -quality markets 
+Australia
+Strong rooftop + utility demand; premium 
+pricing; high compliance expectations
+Japan
+Long -term, stable DG market with stringent 
+quality and documentation standards
+SE Asia
+Markets transitioning to utility -scale 
+procurement — early mover advantage
+✓  Non -PFE + FEOC Compliant Supply Chain ✓  ESG Audited + CBAM Ready ✓  Initial conversations with customersPositioned as the credible, compliant, Non -Chinese alternative across every priority market
+3
+150 GW 70 GW 14 GW
+=== page 33 ===
+F I N A N C I A L  C L O S E
+Closing remarks by CFO
+Financial Synthesis & The Re -Rating Case — Tying all three pillars through a financial lens
+<1.0x
+D:E at Peak+154%
+EBITDA Growth (9M FY26)
+=== page 34 ===
+V i k r a m  S o l a r  L i m i t e d9.515.5 15.5 15.5 15.5912 12 126127.515
+FY26 FY27 FY28 FY29 FY30Module Cell Wafer / Ingot BESSCapacity Expansion Roadmap
+Backward Integration Strategy  ·  Module → Cell → Wafer → Ingot
+15.5 GW
+Module Capacity Target
+FY27 onwards — fully integrated
+4 Layers
+Backward Integration
+Module · Cell · Wafer/Ingot · BESS
+FY30
+Cell, Wafer/Ingot, BESS Online
+Three new segments commissioned
+15.5 + 12 + 12 + 15 GW 
+Total Integrated Capacity
+FY30 cumulative across segments
+33
+=== page 35 ===
+V i k r a m  S o l a r  L i m i t e dThank You
+V I K R A M  S O L A R
+www.vikramsolar.com
+BSE: 544390  |  NSE: VIKRAMSOL

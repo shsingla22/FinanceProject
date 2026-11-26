@@ -1,0 +1,192 @@
+  
+ 
+Ref. No. - OIL/CO/SE/2025-26/44                                                                                         September 26, 2025 
+ 
+Listing Department  Listing Department  
+BSE Limited  National Stock Exchange of India Ltd  
+Floor 25, P J Towers  Exchange Plaza, C -1 Block G 
+Dalal Street  Bandra Kurla Complex, Bandra (E)  
+Mumbai- 400 001 Mumbai – 400 051 
+ 
+Scrip Code:   530135 
+ Symbol: OPTIEMUS  
+Subject: Corrigendum to the Annual Report of the Company for the Financial Year 2024-25 
+Dear Sir/Ma’am, 
+This is with reference to our earlier intimation dated September 05, 2025 bearing Reference No. OIL/CO/SE/2025-
+26/37, wherein the Company has submitted its Annual Report for the financial year 2024-25 along with the Notice 
+of the 32nd Annual General Meeting (“AGM”), scheduled to be held on Tuesday, September 30, 2025 at 03:00 
+P.M. (IST) through Video Conferencing (“VC”) / Other Audio-Visual Means (“OAVM”). 
+In this regard, this is to inform you due to an inadvertent clerical error, few figures were incorrectly disclosed at 
+Page No. 209 of the 32nd Annual Report of the Company under the section titled “ Cash Flows from Operating 
+activities” in the Statement of Consolidated Cash Flows. 
+Please note that the errors are presentation in nature only and do not impact Cash and Cash Equivalents, Profit 
+and Loss Account, Balance Sheet or any other items of the Consolidated Financial Statements for the year ended 
+31st March, 2025. 
+The updated Annual Report of the Company for the Financial Year 2024-25 is enclosed herewith and the same 
+is also available on the website of the Company at https://www.optiemus.com/annualreport.html. 
+Kindly take the same on your records. 
+Thanking You, 
+Yours truly, 
+For Optiemus Infracom Limited 
+ 
+ 
+ 
+Vikas Chandra 
+Company Secretary & Compliance Officer  
+ 
+Encl.: As above 
+  
+
+CORPORATE INFORMATION
+BOARD OF DIRECTORS  
+Mr. Ashok Gupta
+Executive Chairman
+Mr. Neetesh Gupta
+Non-Executive Director 
+Mr. Gauri Shankar
+Independent Director 
+Mr. Naresh Kumar Jain
+Independent Director
+Mr. Rakesh Kumar Srivastava 
+Independent Director
+Ms. Ritu Goyal 
+Independent DirectorCOMMITTEES OF BOARD
+Audit Committee
+Nomination and Remuneration Committee
+Stakeholders Relationship Committee
+Risk Management Committee
+Corporate Social Responsibility Committee 
+Operations & Administration Committee
+Preferential Allotment Committee
+KEY MANAGERIAL PERSONNEL
+Mr. Ashok Gupta
+Executive Chairman (Whole-time Director)
+Mr. Parveen Sharma 
+Chief Financial Officer
+Mr. Vikas Chandra 
+Company Secretary & Compliance OfficerSECRETARIAL AUDITORS
+M/s. S.K. Batra & Associates
+Company Secretaries
+New Delhi
+STATUTORY AUDITORS  
+M/s. Mukesh Raj & Co.
+Chartered Accountants
+New Delhi INTERNAL AUDITORS
+M/s. Rohit Kishan Garg & Co.
+Chartered Accountants
+New Delhi
+REGISTERED OFFICE  
+K-20, 2nd Floor, Lajpat Nagar-II,
+New Delhi-110024
+Ph. No.: 011-29840906/07 
+Website: www.optiemus.com  
+E-mail: info@optiemus.com
+CIN: L64200DL1993PLC054086CORPORATE OFFICE  
+D-348, Sector-63, Noida, 
+Uttar Pradesh-201307 
+Ph. No.: 0120-2406450/52
+REGISTRAR & SHARE TRANSFER AGENT
+Beetal Financial & Computer Services Pvt. Ltd.
+Beetal House, 3rd Floor, 99 Madangir, Behind Local 
+Shopping Centre, Near Dada Harsukhdas Mandir, 
+New Delhi- 110062
+Ph. No.: 011-29961281/83
+E-mail: beetal@beetalfinancial.comLISTED AT
+BSE Ltd.
+National Stock Exchange of India Ltd.OPTIEMUS 
+INFRACOM 
+LIMITED
+CONTENTS
+Chairman’s Message  ............................................................................................................. 1
+Board of Directors  ................................................................................................................. 3
+Financial Highlights  ............................................................................................................... 5
+Directors’ Report  ................................................................................................................... 6
+Management Discussion and Analysis Report  .................................................................... 46
+Business Responsibility and Sustainability Report .............................................................. 56
+Corporate Governance Report  ............................................................................................ 94
+Standalone Financial Statements ...................................................................................... 125
+Consolidated Financial Statements  ................................................................................... 196
+Notice of Annual General Meeting ..................................................................................... 270OPTIEMUS 
+INFRACOM 
+LIMITED
+OPTIEMUS 
+INFRACOM 
+LIMITED
+32nd Annual Report 2024-251CHAIRMAN’S MESSAGE
+Dear Stakeholders,
+I am honoured to present the 32nd Annual Report of Optiemus Infracom 
+Limited for the financial year 2024-25. As India’s role in the global economy 
+continues to rise, its voice on the world stage has become more influential 
+than ever. At Optiemus, we are proud to be a part of this transformation, not 
+just keeping pace with the future, but building it in real time.
+Despite the persistent global headwinds wherein the economy has been 
+facing persistent inflationary pressures, geopolitical uncertainties and 
+evolving trade dynamics, India continued to stand out as one of the fastest-
+growing economies. Backed by strong long-term fundamentals, supported 
+by large-scale infrastructure projects, a rapidly expanding digital economy, 
+and progressive policy reforms, India is poised to become a major global 
+economic powerhouse.We strive 
+to turn 
+challenges into 
+opportunities 
+for sustainable 
+growth of our 
+stakeholders.
+Amid a dynamic environment of geopolitical volatility, climate-related challenges and disruptions in global 
+supply chains, I am pleased to report that the Company has delivered another year of significant growth. 
+Financial Performance
+On a Consolidated basis, the Company has recorded revenue from operations of Rs. 1,88,999.68 Lakhs 
+in F.Y. 2024-25 as compared to Rs. 1,52,772.28 Lakhs in previous F.Y. 2023-24, thereby marking a 
+significant growth of 23.71%. Net profit rose by 11.58%, rising from Rs. 5,675.96 Lakhs in F.Y. 2023-24 to 
+Rs. 6,333.01 Lakhs in F.Y. 2024-25.
+Our manufacturing and trading segments, focused on telecommunication & allied products and electronic 
+products, have continued to thrive, driven by strategic partnerships and a commitment to deliver top-
+notch solutions to our customers.
+Strategic Initiatives and Achievements 
+“WHERE TIME ACCELERATES AND ACCURACY MATTERS, WE’RE NOT JUST KEEPING PACE 
+WITH THE FUTURE — WE’RE BUILDING IT IN REAL TIME.”
+•	In June, 2024, the Company has incorporated Optiemus Unmanned Systems Private Limited 
+(“OUS”)  as its Wholly Owned Subsidiary. OUS has launched technologically-sophisticated, high-
+performance drones  in agriculture and mapping category with plans to expand into other sectors 
+such as defense, mining, solar, oil & gas, railways and highways.
+ OUS has also formed partnerships with leading domestic and international companies specializing in 
+advanced drone technologies, including spectrum analyzers and a wide range of drone models.
+ As per leading Industry Chamber FICCI estimates, the drone manufacturing protentional in India 
+could be worth US$ 4.2bn by 2025, growing to US$ 23bn by 2030 making India a drone manufacturing 
+power.
+•	During the year, the Company and Corning Incorporated (USA), held ground breaking ceremony on 
+the facility of Bharat Innovative Glass Technologies Private Limited (“BIGTech”) , Joint Venture and 
+Subsidiary Company, located at SIPCOT Pillaipakkam Industrial Park, Kanchipuram, Tamil Nadu. 
+ BIGTech will be the first facility in India to manufacture high-quality finished cover-glass 
+parts  for mobile consumer electronics - enhancing domestic supply chains and creating significant 
+employment opportunities.
+OPTIEMUS 
+INFRACOM 
+LIMITED
+32nd Annual Report 2024-252•	Optiemus Electronics Limited ( “OEL” ), Wholly Owned Subsidiary, has entered into strategic 
+partnership with TP-Link , a global leader in networking and smart home devices. This strategic move 
+aligns with the Hon’ble Prime Minister’s vision of Atmanirbhar Bharat,  promoting indigenous design 
+and production of telecom equipment in India. 
+•	The Group is looking for the Government’s Electronic Components Manufacturing Scheme and are 
+in discussions for new partnerships across key verticals - including display, camera modules, and 
+mechanical components - to build an even more robust domestic supply chain.
+These achievements reflect the dedication of our personnel, the trust of our customers and the support 
+of our stakeholders.
+With a sound business model and well-charted strategy, we are well poised to seize these opportunities, 
+driving growth and contributing to the nation’s economic development. We are ready to enter the future 
+tech-driven world, equipped with one of the most modern infrastructure and technology. As we are aspiring 
+for a bigger tomorrow, we will continue, push and expand our boundaries and create new opportunities 
+in the future. 
+We continue to focus on optimizing our operations and expanding our market reach, ensuring a solid 
+foundation for future growth. Backed by the trust and support of our clients and stakeholders, we remain 
+determined to build for tomorrow and solidify our foothold as a key player in overall ecosystem of the 
+electronic industry.
+Gratitude
+None of the growth and achievements we witnessed through the year would have been possible without 
+the valuable contribution of our Board of Directors, Management, dedicated employees, esteemed 
+customers, suppliers and valued shareholders. Your continued belief in our vision inspires us to aim 
+higher and build stronger.
+I thank you all for your consistent support and confidence.
+Sincerely,
+Ashok Gupta
+Executive Chairman

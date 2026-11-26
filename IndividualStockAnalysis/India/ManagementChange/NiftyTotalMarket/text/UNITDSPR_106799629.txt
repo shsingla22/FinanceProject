@@ -1,0 +1,110 @@
+--- CIM_1989_WebXMLFile_20260929_114142857_2.xml (the exchange's structured disclosure) ---
+NSESymbol: UNITDSPR ; Name Of The Company: United Spirits Limited ; Scrip Code: 532432 ; MSEISymbol: NOTLISTED ; ISIN: INE854D01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-29 ; Time Of Occurrence Of Event Or Information: 10:16:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-29 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Executive Vice President and Financial Controller ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Nimish Shah ; Effective Date Of Reason Of Change: 2026-10-12 ; Salutation: Mr. ; Name Of The Person: Nimish Shah ; Designation Of Person: Executive Vice President and Financial Controller ; Date On Which The Resignation Letter Was Received: 2026-09-29 ; Effective Date Of Resignation: 2026-10-12 ; Reason Of Resignation In Brief: To pursue opportunity outside of the Company.
+
+--- CIMG_532432_29092026114050_1.pdf ---
+United Spirits Limited
+Registered Office:
+UB Tower
+#24, Vittal Mallya Road,
+Bengaluru 560 001
+Tel: +91 80 2221 0705
+Fax: +91 80 2224 5253
+www.diageoindia.com
+
+29th September 2026
+BSE Limited
+Listing Department
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai – 400 001
+Scrip Code: 532432
+
+The National Stock Exchange of India Limited
+Exchange Plaza, C-1 Block G,
+Bandra Kurla Complex,
+Bandra East, Mumbai – 400 051
+Scrip Code: UNITDSPR
+
+Dear Sirs,
+Sub:
+
+Resignation by Senior Management Personnel (“SMP”) – Disclosure under Regulation 30
+of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“SEBI Listing Regulations”)
+
+This is to inform that Mr. Nimish Shah, Executive Vice President and Financial Controller, one of the
+SMPs of the Company, has tendered resignation from the services of the Company with effect from
+12th October 2026, and shall consequently cease to be an SMP of the Company, effective the aforesaid
+date.
+Details required under Regulation 30 of SEBI Listing Regulations are provided in Annexure A.
+Further, pursuant to provisions of Regulation 30 r/w sub-para 7C of Para A of Part A of Schedule III of
+SEBI Listing Regulations, copy of resignation letter is enclosed as Annexure B.
+This is for your information and records.
+Thank you,
+For United Spirits Limited
+
+Pragya Kaul
+
+Digitally signed by Pragya
+Kaul
+Date: 2026.09.29 11:25:17
++05'30'
+
+Pragya Kaul
+Company Secretary and Compliance Officer
+
+Corporate Identity Number: L01551KA1999PLC024991
+
+contactus.india@diageo.com
+
+
+Continuation Sheet
+
+ANNEXURE A
+#
+
+Disclosure Requirement
+
+Details
+
+1
+
+Name of Senior
+Personnel (SMP)
+
+2
+
+Reason for change viz., appointment, Resignation as Executive Vice President and Financial
+re-appointment, resignation, removal, Controller, to pursue opportunity outside of the Company.
+death or otherwise
+
+3
+
+Date of appointment/ re-appointment/
+cessation (as applicable) & term of
+appointment/re-appointment
+
+Ceases to be an SMP effective from close of business
+hours of 12th October 2026.
+
+4
+
+Brief Profile (In case of appointment)
+
+Not applicable.
+
+5
+
+Disclosure of relationship between Not applicable.
+Directors (In case of appointment of a
+Director)
+
+Management Mr. Nimish Shah
+
+*****
+
+Corporate Identity Number: L01551KA1999PLC024991
+
+contactus.india@diageo.com
+
+
+

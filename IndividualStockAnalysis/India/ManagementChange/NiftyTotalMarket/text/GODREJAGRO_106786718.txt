@@ -1,0 +1,28 @@
+--- CIM_15534_WebXMLFile_20260921_211958800_2.xml (the exchange's structured disclosure) ---
+NSESymbol: GODREJAGRO ; Name Of The Company: Godrej Agrovet Limited ; Scrip Code: 540743 ; MSEISymbol: NOTLISTED ; ISIN: INE850D01014 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-21 ; Time Of Occurrence Of Event Or Information: 12:37:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-09-21 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Executive Officer - Crop Care Business ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Rajavelu N.K. ; Effective Date Of Reason Of Change: 2026-11-25 ; Type Of Change: Additional charge of office along with current designation ; Previous Designation Of Designated Person: Head - Strategy & Business Development ; Name Of Designated Person: Sivaram Yadavalli ; Salutation: Mr. ; Name Of The Person: Rajavelu N.K. ; Designation Of Person: Chief Executive Officer - Crop Care Business ; Date On Which The Resignation Letter Was Received: 2026-09-21 ; Effective Date Of Resignation: 2026-11-25 ; Reason Of Resignation In Brief: To pursue an opportunity outside the Company
+
+--- Resignation_Letter_1.pdf ---
+Annexure-A
+Outlook
+Resignation from the Position of CEO - Crop Care Business, Godrej Agrovet Ltd.
+
+From: Rajavelu N.K <rajavelu.nk@godrejagrovet.com>
+Sent: Monday, 21 September 2026 12:37:24
+To: Sunil Kataria <sunil.kataria@godrejagrovet.com>
+Subject: Resignation from the Position of CEO - Crop Care Business, Godrej Agrovet Ltd.
+
+Dear Sunil,
+I am writing to formally resign from my position as Chief Executive Officer of the Crop Care
+business as I have accepted an external opportunity. As discussed, 24th November 2026, will
+be my last working day.
+I want to express my sincere gratitude for the trust, guidance, and support extended to me
+during my tenure. It has been a privilege to be part of this organization's journey, and I am
+proud of what we have achieved together.
+I am committed to ensuring a smooth transition and will work closely with the team over the
+coming weeks to hand over my responsibilities effectively.
+Thank you once again for the opportunity and the memorable experience.
+Warm regards,
+Rajavelu N. K
+CEO - Crop Care Busi ness, Godrej Agrovet
+
+

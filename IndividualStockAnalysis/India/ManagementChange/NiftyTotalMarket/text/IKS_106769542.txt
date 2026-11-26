@@ -1,0 +1,27 @@
+--- CIM_24260_WebXMLFile_20260904_124318369_2.xml (the exchange's structured disclosure) ---
+NSESymbol: IKS ; Name Of The Company: INVENTURUS KNOWLEDGE SOLUTIONS LIMITED ; Scrip Code: 544309 ; MSEISymbol: NOTLISTED ; ISIN: INE115Q01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-04 ; Time Of Occurrence Of Event Or Information: 06:32:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-04 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Human Resource Officer ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Manisha Kadagathur ; Effective Date Of Reason Of Change: 2026-09-04 ; Salutation: Ms. ; Name Of The Person: Manisha Kadagathur ; Designation Of Person: Chief Human Resource Officer ; Date On Which The Resignation Letter Was Received: 2026-09-04 ; Effective Date Of Resignation: 2026-09-04 ; Reason Of Resignation In Brief: Due to personal reasons
+
+--- Resignation_Letter_1.pdf ---
+Annexure - B
+
+September 4, 2026
+lnventurus Knowledge Solutions Limited,
+Building No. 5 & 6, Unit No. 801,
+8th Floor, Mindspace SEZ, Thane Belapur Road, Airoli,
+Navi Mumbai, Maharashtra-400 708, India.
+
+Dear Sachin,
+Subject: Resignation from the position of Chief Human Resources Officer (Senior Management
+Personnel) of the Company.
+
+I hereby resign from the position of Chief Human Resources Officer (Senior Management Personnel) of
+lnventurus Knowledge Solutions Limited (the "Company"), with effect from the close of business hours on
+September 4, 2026, due to personal reasons.
+Accordingly, I shall cease to hold the position of Chief Human Resources Officer and cease to be a Senior
+Management Personnel of the Company with effect from the close of business hours on September 4,
+2026. I will, however, continue in the employment of the Company in such capacity and role as may be
+determined by the Company from time to time, until the close of the business hours on November 17,
+2026, on which date my employment with the Company shall cease.
+I wish the Company continued success and extend my best wishes for all its future endeavors.
+
+

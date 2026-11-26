@@ -1,0 +1,121 @@
+--- CIM_25945_WebXMLFile_20260821_160927212_2.xml (the exchange's structured disclosure) ---
+NSESymbol: CANHLIFE ; Name Of The Company: CANARA HSBC LIFE INSURANCE COMPANY LIMITED ; Scrip Code: 544583 ; MSEISymbol: NOTLISTED ; ISIN: INE01TY01017 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-21 ; Time Of Occurrence Of Event Or Information: 09:57:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-21 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Edward Charles Lawrence Moncreiffe ; Effective Date Of Reason Of Change: 2026-08-21 ; Salutation: Mr. ; Name Of The Person: Edward Charles Lawrence Moncreiffe ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-08-21 ; Effective Date Of Resignation: 2026-08-21 ; Reason Of Resignation In Brief: Consequent upon due to resignation from HSBC Group
+
+--- CIMG_544583_21082026160914_1.pdf ---
+Date: 21st August 2026
+To,
+National Stock Exchange of India Limited
+(“NSE”)
+Listing Department
+Exchange Plaza, C-1 Block G, Bandra Kurla
+Complex Bandra [East], Mumbai – 400051
+NSE Symbol: CANHLIFE
+ISIN: INE01TY01017 (Equity)
+INE01TY08012 (Non-Convertible Debentures)
+
+To,
+BSE Limited (“BSE”)
+Listing Department
+Corporate Relationship Department
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort, Mumbai - 400001
+BSE Security Code: 544583
+ISIN: INE01TY01017 (Equity)
+
+Sub: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 - Resignation of Director
+Dear Sir/ Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, we wish to inform you that Mr Edward Charles Lawrence Moncreiffe,
+Non-Executive Director of the Company has tendered his resignation with effect from close
+of business hours of 21st August 2026, consequent upon his resignation from the HSBC
+Group.
+The details as required under SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 read with relevant SEBI Circular, are attached herewith as "AnnexureA". The resignation letter is attached for your reference as "Annexure-B".
+Kindly take the same on record.
+For Canara HSBC Life Insurance Company Limited
+VATSALA
+SAMEER
+
+Digitally signed by VATSALA
+SAMEER
+Date: 2026.08.21 15:18:24
++05'30'
+
+Vatsala Sameer
+Company Secretary and Compliance Officer
+Mem. No.: A14813
+Encl.: As above
+
+Canara HSBC Life Insurance Company Limited (IRDAI Regn No. 136)
+35th Floor, IFC, (M3M) Golf Course Ext Rd, Badshahpur, Sector 66, Gurugram, Haryana 122101
+T +91-124-4506700 | F +910124-4535099 | www.canarahsbclife.com
+Corporate Identity No.: L66010DL2007PLC248825 | E-mail: customerservice@canarahsbclife.in
+Registered Office: 8 th Floor, Unit No. 808-814, Ambadeep Building, Plot No. 14, Kasturba Gandhi Marg, New Delhi-110001 (India) | T +91 11-49512300
+
+
+Annexure-A
+The details required under Regulation 30 of SEBI (LODR) Regulations, 2015 read
+along with relevant SEBI Circular
+Resignation of Mr Edward Charles Lawrence Moncreiffe (DIN: 10637615) as NonExecutive Director
+S. No Particulars
+1
+reason
+for
+change
+viz.
+appointment,
+re-appointment,
+resignation, removal, death or
+otherwise;
+
+Description
+Resignation of Mr Edward Charles
+Lawrence Moncreiffe as Non-Executive
+Director of the Company with effect from
+close of business hours of 21st August
+2026, consequent upon his resignation
+from the HSBC Group.
+
+2
+
+Cessation from close of business hours of
+21st August 2026.
+
+3
+4
+
+date
+of
+appointment/reappointment/cessation
+(as
+applicable)
+&
+term
+of
+appointment/re-appointment;
+brief
+profile
+(in
+case
+of
+appointment);
+disclosure
+of
+relationships
+between directors (in case of
+appointment of a director).
+
+Not Applicable
+Not Applicable
+
+Canara HSBC Life Insurance Company Limited (IRDAI Regn No. 136)
+35th Floor, IFC, (M3M) Golf Course Ext Rd, Badshahpur, Sector 66, Gurugram, Haryana 122101
+T +91-124-4506700 | F +910124-4535099 | www.canarahsbclife.com
+Corporate Identity No.: L66010DL2007PLC248825 | E-mail: customerservice@canarahsbclife.in
+Registered Office: 8th Floor, Unit No. 808-814, Ambadeep Building, Plot No. 14, Kasturba Gandhi Marg, New Delhi-110001 (India) | T +91 11-49512300
+
+
+Annexure B
+
+

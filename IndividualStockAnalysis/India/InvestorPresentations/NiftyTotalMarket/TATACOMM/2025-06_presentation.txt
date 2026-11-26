@@ -1,0 +1,1320 @@
+
+=== page 1 ===
+10thJune 2025INSTITUTIONAL INVESTORS 
+& ANALYSTS MEET 2025
+=== page 2 ===
+SAFE HARBOUR
+Certain words and statements in today’s presentations concerning Tata Communications and its prospects, and 
+other statements, including those relating to Tata Communications expected financial position, business 
+strategy, the future development of Tata Communications’ operations, are forward -looking statements. 
+Such statements involve known and unknown risks, uncertainties and other factors, including financial, 
+regulatory and environmental, as well as those relating to industry growth and trend projections.
+These risks may cause actual results and performance of Tata Communications, or industry results, to differ 
+materially from those expressed or implied by the forward -looking statements
+These risk factors are disclosed in detail in the Annual reports available on Tata Communications Limited official 
+website www.tatacommunications.com
+Tata Communications is under no obligation to update or alter its forward -looking statements. 
+=== page 3 ===
+Managing Director & CEOAMUR S. LAKSHMINARAYANAN
+Tata Communications
+KEYNOTE ADDRESS
+=== page 4 ===
+PERFORMANCE SNAPSHOT
+FY21 -FY25
+=== page 5 ===
+OUR GROWTH MOMENTUM CONTINUES
+17,100 16,72517,83820,78523,109
+12,599 12,77914,09617,16119,513
+FY21 FY22 FY23 FY24 FY25CAGR: Total  Revenue 7.8% , Data 11.6%
+Total 
+revenue
+Data 
+revenue Data revenue mix
+29%
+71%
+FY21
+FY25
+47%
+53%
+Core 
+connectivityDigital 
+Platform25% 25% 24%21% 20% 24% 25%28%
+19%16%
+FY21 FY22 FY23 FY24 FY25 FY21 FY22 FY23 FY24 FY25
+EBITDA % ROCE %Inorganic investments
+All figures in INR Crores
+=== page 6 ===
+WE HAVE BEEN ADDRESSING HEADWINDS SEAMLESSLY
+Technology disruption:
+Global SIP decline
+Global SIP connect contribution 
+to digital platforms ~30%  in 
+FY21 , and today is at 7%
+Global SIP connect
+FY25 revenue 
+Halved
+from FY21 levelsIndustry structure driven 
+price decline
+Annual price decline in 
+connectivity services
+10-15%
+Value migration: 
+MPLS moving to Internet
+Disruption: MPLS
+Value capture: Internet
+Arrested MPLS decline by adding
+100+ 
+customers in FY25
+
+=== page 7 ===
+GLOBALLY, B2B PLAYERS HAVE BEEN FACING HEADWINDS; WE FARED BETTER
+Network
+Collaboration 
+and CISCloud and 
+securityIoT 
+fabricMediaCore 
+connectivityNext gen 
+connectivity
+4%
+ 19%
+ 25%
+ 19%
+ 49%
+ 38%
+INR~7,000 CrTATA COMMUNICATIONS
+Data revenues added FY21 -FY25Revenue CAGR FY21 - FY25
+Global B2B players 
+3-year revenue has
+Degrown
+Remained 
+flator
+Vodafone
+VerizonNTT LumenAT & T BT
+Core Connectivity incremental:  INR 1,499 Cr. 
+Digital Platform incremental    :  INR 5,415 Cr.  
+=== page 8 ===
+OUR RELEVANCE WITH CUSTOMERS IS INCREASING
+Mn-dollar customer added (#)
+Rising customer relevance
+Top reasons for choosing TCOM Technical competence Service excellence Global coverage
+FY21
+FY25Total
+212
+29010 Mn +
+14
+301 - 5 Mn
+172
+2255 - 10 Mn 
+26
+35
+Net promoter score 
+82 Remain in the top quartileExperience center engagement
+150+CXO and decision makers visits (#) 
+Annualized
++16
+FY25
+
+=== page 9 ===
+Empowering enterprises 
+with our Digital Fabric
+=== page 10 ===
+THOUGHT LEADERSHIP AROUND HYPERCONNECTED ECOSYSTEMS
+Low 
+latencyHigh 
+bandwidth High 
+availabilityAgentic AI within/ 
+outside 
+organizationHuman to human
+Things to things
+Human to thingsReal timeAlways ON –
+ anywhere ONSeamlessly 
+collaborativeIntelligent & 
+always learning
+=== page 11 ===
+OUR RESPONSE TO THE HYPERCONNECTED ECOSYSTEM IS THE DIGITAL FABRIC
+Characteristics of a hyperconnected ecosystem
+Real time
+Always ON –
+ anywhere ON
+Seamlessly 
+collaborative
+Intelligent & 
+always learningDigital Fabric enabling customer needs such as
+Digital Fabric 
+increasing 
+relevance with 
+customers
+Borderless growth
+Superior experiences 
+& innovation
+Productivity & 
+efficiency
+Business agility
+Managing risks
+
+=== page 12 ===
+CAPABILITY EVOLUTION: INFRASTRUCTURE TO INTEGRATED SOLUTIONS
+Infra + software + services
+•Digital Fabric Tool – E2E 
+orchestration
+•TCX - customer self 
+service portal 
+•SDWAN as a service
+•Global managed servicesInfrastructure only
+Core
+infrastructure
+•Core network
+•Channel gateways
+•Cloud voice
+•GPU as a service
+•Virtual machines
+•Mobile core and c ellular access
+•Signalling and voice infrastructure 
+Network services
+Collaboration & 
+CIS
+Cloud and 
+security
+IoT
+AI Embedded
+Infrastructure + software
+•IZOTM multi cloud connect
+•IZOTM multi cloud network
+•Managed Wi -Fi and LAN
+•Kaleyra.ai
+•AI studio
+•CDN + DDoS
+•MOVETM & IoT platform
+•SOTA assure
+•Video analytics
+Services & 
+orchestration 
+Core
+infrastructure
+Infrastructure 
+software
+Infrastructure 
+software
+Core 
+infrastructure
+=== page 13 ===
+ENHANCING DIGITAL FABRIC THROUGH NEW LAUNCHES AND INNOVATION
+Foundational, software -driven layer unifying enterprise digital infrastructure
+Customer’s suite of applications
+Digital FabricAPIs
+DIGITAL FABRIC TOOL  : E2E orchestration
+Discoverability Maneageablity Security
+Network fabric Cloud fabric Interaction fabric IoT fabricNew launches
+Unified cloud network
+IZOTM MCC
+IZOTM MCNVAYUTM cloud 2.0
+AI cloud
+AI studioKaleyra.aiDevice and  connectivity 
+management platform
+Security embedded
+
+=== page 14 ===
+Digital Fabric Tool
+What do we solve for?
+Our annualized  
+revenueCurrent  
+Whitespace Market CAGR
+(FY25 -FY30)
+SASE
+CIS: Non –SMS 
+channels + Kaleyra.ai
+Unified cloud 
+network
+AI cloud
+$10 Mn+
+MCC launched FY23;
+ MCN yet to be 
+launched$3.5 Bn 30%
+$10 Bn 15%$30 Mn
+16% annual growth Fragmented 
+dataDisjointed
+customer journey
+$50 Mn+
+growing at 15%+$16 Bn 17%
+Performance Security Resilient & 
+compliant 
+$1 Bn 
+(India)82%Recently 
+launched Performance Cost Complexity 
+management
+$10Bn 15%Recently 
+Launched
+Multi-regions Multi-cloud Complex 
+networkSOME OF OUR STRATEGIC BETS ARE GAINING TRACTION, WITH ROOM TO SCALE
+Discoverability
+ Manageability
+ Security
+
+=== page 15 ===
+OUR SERVICES ARE WELL -DIVERSIFIED ACROSS INDUSTRIES
+Top domains and 
+contribution to Enterprise 
+revenues in FY25
+BFSI
+20%
+Media
+8%
+IT & ITeS
+19%
+Automobiles & Manufacturing
+13%
+OTT
+15%
+
+=== page 16 ===
+CASE IN POINT : DRIVING TRANSFORMATION IN THE BFSI SECTOR
+Growth across regions
+BFSI customers added to the 
+10 Mn club FY21 -FY25+8
+~70% ~200% ~180%
+India + APAC Americas Europe~25%of Mn dollar club customers 
+accounted by BFSIBFSI revenue in the last 4 years
+ 1.9X
+=== page 17 ===
+CASE IN POINT: DRIVING TRANSFORMATION IN MEDIA
+Digital transformation of the largest 
+South American DTH operatorProduction capability:
+Recorded at THE SWITCH @VICTORY STUDIOS
+
+=== page 18 ===
+and Execution
+ Ambition
+
+=== page 19 ===
+RELENTLESS FOCUS ON EXECUTION
+Product, marketing & 
+sales excellence
+Product excellence
+•Innovation and scaling: Stage 0 -1-3 
+•TCX : single pane of glass
+•AI embedding in digital fabric
+Marketing & sales excellence 
+•Deeper with fewer
+•New logos to Million $ Customers
+•Drive top quartile NPSStrategic projects
+Bring the Digital Fabric alive 
+• Digital Fabric tooling 
+Simplification project – Lean2Leap
+•To improve efficiency, customer 
+experience
+Leveraging AI in operations
+•AI powered productivity tool
+•Agentic AI pilotsCulture
+Shifting behaviors
+Leadershi p weave
+•Change management program
+
+=== page 20 ===
+HEADWINDS AND TAILWINDS IN OPERATIONS
+Tailwinds Headwinds
+Rebalancing of trade and reconfiguration 
+of supply chain
+Investment hesitation & slower expansion
+Uncertainty in managing costs
+Regulatory complexity
+Legacy of regional network procurement
+Network as the last bastion of changeAI, machine learning & data analytics 
+driving higher bandwidth demand
+Surge in data centres → demand for DC to 
+DC connectivity
+Data localisation impetus to private cloud
+Cybersecurity & data privacy demands
+Explosion of omnichannel 
+customer engagement 
+Rise of hyper -personalisation, need for 
+curated customer journeys
+=== page 21 ===
+AMBITIONS POWERED BY DUAL GROWTH ENGINES -EXISTING AND NEW SERVICES
+Our ambition remains intact, pushed out by a few quarters19,513
+FY23FY25FY28
+Existing services
+•Strategic  bets
+•Capability Shift
+14,096FY27
+Data revenues 
+(INR Crores)
+Growth break -up
+28,000 One-third of 
+incremental 
+revenue
+
+=== page 22 ===
+PROJECT NANNEEROUR FOCUS ON PEOPLE, PLANET AND COMMUNITY CONTINUES 
+Marching towards our goal of 
+carbon net neutral by FY30 and 
+net zero by FY35ESG: Highlights in FY25
+7% reduction in scope 1 & scope 2 
+GHG emissions
+Added 21 Mn units of 
+renewable energy
+3.4 Mn tonnes of GHG emissions 
+avoided for customers
+81,000 volunteering hours 
+by employees
+Reviving Hope:  One Lake, Thousand Lives at a time
+=== page 23 ===
+CHIEF SALES AND MARKETING OFFICERSUMEET WALIA
+Tata Communications
+
+=== page 24 ===
+OUR IMPACT ACROSS REVENUE, RELEVANCE & REPUTATION
+Reputation -Customer and Market PerceptionRevenue –Quality of Revenue
+Relevance -Quality of Growth
+DPS Growth: - 
+25% CAGR over 
+4 years
+Incremental Rev: 
+7,000 Cr in 4 
+years 
+10 Mn+ 
+Customers: 14% 
+Rev CAGR
+NPS: 1.5X growth 
+in 6 years
+Doubled Leadership 
+position in  flagship 
+analyst reports to 20
+57% of OB from 
+multi year deals
+2x growth in Large 
+Deals
+53% (155/290) 
+of MDC customers 
+with 50%+ digital 
+revenue
+70% customers in 
+$5 Mn+ band have 
+3+ fabrics
+
+=== page 25 ===
+THESE MEGA TRENDS ARE SHAPING ENTERPRISE PRIORITIES
+•Create an AI approach
+•AI readiness•AI-assisted threats
+•Data sovereignty 
+requirements•Traditional & new SCM are reshaped
+•Manufacturing & beyond
+•GCCs shaping tech supply chains
+AI Impact & InnovationRisk & Security 
+ManagementSupply Chain Reconfiguration
+
+=== page 26 ===
+NetworkFabric
+CloudFabricInteractionFabric
+SecurityFabricIoTFabricOUR FABRIC HELPS ENTERPRISES DELIVER THEIR BUSINESS IMPERATIVES
+Productivity&
+EfficiencyManaging
+RisksBorderless
+Growth
+Agility
+Superior
+Experience
+5 key imperatives 
+faced by enterprises
+Components of digital fabric 
+address these imperatives
+While the entry could be from any of 
+the fabrics, the engagement always 
+expands to other fabrics
+
+=== page 27 ===
+CUSTOMER CASE STUDIES DEMONSTRATING THE POWER OF DIGITAL FABRIC
+Elevated the starting 
+engagement to strategic 
+transformation partner
+Multi-fabric engagement 
+across Network, Security, 
+Cloud & IoT FabricsLarge Asian Health Care 
+Company
+Starting with a small win, 
+how Network Fabric now delivers 
+strategic value to customer 
+Positioned as Manager of 
+Managers for the entire Network 
+estate – WAN, LAN, SDWAN, 
+Network SecurityLargest & Fastest Growing Indian 
+Private Bank
+Started with 
+Interaction Fabric and expanded to 
+other fabrics 
+Gradual expansion into full -stack 
+N/W & infra transformation 
+partner, IoT , Cloud to enhance 
+global operationsLargest Global Logistics Player
+
+=== page 28 ===
+VICE PRESIDENT, GLOBAL HEAD - MARKETINGGURVINDERJIT SAMRA
+Tata Communications
+=== page 29 ===
+FICUS BENGHALENSIS
+=== page 30 ===
+FICUS BENGHALENSIS
+=== page 31 ===
+FICUS BENGHALENSIS
+Fabric depth
+Deep network legacy enable us to build 
+strong roots and create large customersMulti -fabric 
+Wide portfolio empower us to stitch 
+complex large dealsWhat is visible is the strength across business, 
+financial and customer metrics
+Fabric width
+Expanding portfolio & capabilities allow 
+us to explore newer areas
+=== page 32 ===
+Key challenges observed by us ContextCASE STUDY 1: FABRIC DEPTH –LARGEST & FASTEST GROWING INDIAN PVT. BANK
+Growing network of branches 
+and sites
+Digital ecosystem, 
+digital transactions, UPI
+Customer Experience
+Secure, Compliant and 
+Scalable infrastructure$ 35Bn+ revenues
+~30k employees
+Branches: ~7K
+ATMs & cash recycling machines: 
+16k+
+API ecosystem: Total APIs - over 4,600
+Retail banking APIs: 2,600
+Corporate banking APIs: Over 2000 
+Bank 
+Overview
+
+=== page 33 ===
+CASE STUDY 1: FABRIC DEPTH -SCALING FROM POINT SOLUTIONS TO A 
+TRUSTED NETWORK PARTNER
+Network fabric, now being used by 8 of the top 10 banks in the countryRevenue $ Mn Phase 1: Connecting
+•Integrated 800 branches
+•ILL/ MPLS/ Private Lines
+•Cust. KPIs: CSAT ~50/100, D  Txn -50M+/day, 
+Phase 2: Optimising
+•SDWAN/SASE phase, reduced cost by 30%
+•SASE/ Wi -fi deployment across branches
+•Major upgrade to connect new DC architecture  
+Phase 3: Scaling
+•Managing all 7K+ branches, 5+1DC, NOC & strategic connectivity
+•Manager of Managers – All Network Services
+•40% faster roll -out of new branches
+•Cust. KPIs: CSAT 70/100, DTxn-180 Mn+/day FY21 FY22 FY23 FY24 FY25ConnectingOptimisingScaling
+X1.3X1.7X2.1X2.7X
+=== page 34 ===
+FABRIC DEPTH –FUTURE WHITESPACES WITHIN NETWORK FABRIC
+Managed Infrastructure Services
+(Governance, Network Automation, AI/ ML) 
+Core Network & Connectivity Quantum Security + SASE 2.0
+3 X
+0.5 X
+0.2 X
+0.3 X
+XMCC + Dynamic DC
+Branch LAN + Wi -Fi 6 LAN Mgmt.
+$ 4X Mn
+$ X Mn
+Unrestricted 
+Wallet Share
+Restricted 
+Wallet Share
+=== page 35 ===
+CASE STUDY 2: -FABRIC WIDTH –ONE OF THE WORLDS LARGEST LOGISTICS 
+PLAYERS
+~700
+container vessels deployed
+4.5 Mn
+intermodal volumes (FFE) 
+handled
+ 7.1 Mn
+sq. meters warehousing 
+capacity worldwide – 452 sites
+Trains & Trucks on land
+of all containers 
+moved in the world16%
+130+
+Countries on all 
+continents with 406 ports
+own controlled capacity and global 
+network of scheduled flightsAir Cargo
+ ~ 100,000
+employees in 130+ 
+countries 
+Every 6 minutes
+one port call somewhere in 
+the world
+59
+terminals across 
+31 countries
+100,000+
+Large & small 
+customers $ 55 Bn+
+Global 
+revenues
+•Complex & siloed infra
+•Low CSAT 
+•Multiple vendors, inconsistent SLAs
+•High OpexKey Challenges
+
+=== page 36 ===
+CASE STUDY 2: FABRIC WIDTH –STARTING WITH INTERACTION FABRIC MOVING 
+TO NETWORK AND FUTURE IOT EXPANSION
+160% revenue increase  for customers with 3+ Fabrics in 4 years Phase 1: Interaction Fabric
+•Deployed global cloud contact centre
+•15K agents in 122 countries, 760K monthly calls
+•Reduced Opex  by 50% & faults/ vendor tickets by 88% 
+•CSAT improved by 2.5x to ~80%
+Phase 2: Network Fabric
+•Enabled a large multi -geogra phy M&A Integration
+•Migrated 2000+ devices in 14 countries with live cockpit
+•Improved operational efficiency by 80% with zero downtime 
+Next Phase: IoT Fabric
+•Piloting smart supply chain solution  
+•Private 5G and IoT solutions for warehouses & terminals
+•Proposed 20% improved productivityRevenue $ Mn
+Y1 Y2 Y3Interaction 
+Fabric
+X 1.4X5.5X
+Y4 Y5Network 
+Fabric
+27.5X66.3X
+=== page 37 ===
+FABRIC WIDTH CASE IN POINT –JLR FROM IOT TO END TO END NETWORK 
+•Cost of Inaction - Cost 
+Savings with faster 
+transformation
+•Modernisation to enable 
+future business
+•Complete Network, 
+Security & IOT partnerDemonstrated Benefits 
+for JLR
+SECURITY 
+FABRIC -
+ZTNA
+FY23 FY25 FY21IOT 
+FABRIC -
+eSIM
+FY22 FY24NETWORK 
+FABRIC -
+COMPLETE 
+NETWORK Tx
+FutureConnected 
+Customers
+Interaction 
+Layer
+LAN-WAN IOT FABRIC -
+EXPANSION
+MOVE 
+PLATFORM
+8.8x
+x14.8x40x
+23.4x
+3.4x
+
+=== page 38 ===
+CASE STUDY 3: CROSS FABRIC SUCCESS
+New logo Strong incumbency Limited market access RFI/ RFP
+>USD 20 Bn
+17 markets
+12K employees
+One of the largest 
+healthcare services 
+provider in AsiaPharmaceutical  distribution
+Digital &  data solutions
+Vaccines  & specialty services
+Strategic Partnerships
+22K
+Hospitals55K
+Clinics53K
+Pharmacies81
+Warehouses
+
+=== page 39 ===
+CASE STUDY 3: FACING MULTIPLE CHALLENGES AND OPPORTUNITIES
+Network Investments 
+•eZRx+ platform for B2B 
+commerce
+•eZtracker  for blockchain 
+based traceability
+Automation & Technology 
+•5G’s potential for warehouse 
+automation, inventory mgmt.
+•Cold chain expansionInnovation
+•$50 Mn for next 5 years for 
+health solutions innovation 
+center
+Cloud Investments 
+•Cloud migration 65 TB from 
+on-prem to Azure & AWS
+•Data analytics ZIP platform 
+for real time insights
+Technology 
+Investments
+
+=== page 40 ===
+DIGITAL FABRIC ELEVATED SIMPLE NETWORK ASK TO A TRANSFORMATION STORY
+Interaction Fabric
+•eZRx platform for B2B
+•ZIP platform for real time 
+insights
+IoT Fabric
+•Cold chain expansion, 
+warehouse automationNetwork Fabric
+•Network modernization
+•Expansion of markets
+•Blockchain traceability
+Cloud and Security 
+fabric 
+•Cloud migration
+•Security across platforms
+Digital 
+Fabric
+Technology 
+Investments
+
+=== page 41 ===
+WE DELIVERED SIMPLIFICATION AT SCALE WITH SERVICES
+Network fabric Cloud & Security fabric Interaction fabric IoT fabric Managed servicesService layer/
+AI Ops
+DC/
+Compute layer
+Infra-overlay
+Infra-underlayAs-is
+DIY 
+firewallsSD-WAN 1.0Disempowered 
+on-site support, & 
+remote deskDisparate service 
+layer – self & 
+provider managed
+P2P MPLSLocal
+broadbandTraditional DC, Azure 
+Traditional 
+VPNDC to cloud 
+connectivityTo-be
+Managed 
+securitySDWAN 2.0 
+(SASE)On-site & 
+remote Multi -
+service deskFully managed 
+network, single 
+vendor SASE & 
+Security TCX
+Multi-cloud architecture
+MaaS BYONIZOTM 
+internet 
+WAN (IW)Disaggregated Network
+Siloed Architecture
+Multiple Vendors
+Expansion Challenges
+Cost AccelerationSingle Unified Vendor 
+Experience
+Cost Transformation
+Cloud First Network
+Scalable Infrastructure
+=== page 42 ===
+GOING AHEAD THE OPPORTUNITY TO SCALE TO OTHER FABRICS IS BEING 
+PURSUED
+Network fabric Cloud & security fabric Interaction fabric IoT fabric Managed servicesExpansion
+eZRx  B2B 
+platform
+Warehousing
+Cold chainFuture Whitespaces
+Use cases for 5G, IoT , warehouse automation & inventoryAdditional scope 
+(Wi-Fi, MSS)Geographic 
+expansion (AUS)
+Supply chain efficiency, temperature sensors, analytics & insightsNotifications, authentication, programmable voice, Campaigns & 
+CX through Kaleyra  solutions70% of our upcoming large 
+deals are multi -fabric and 
+will increase further in future
+=== page 43 ===
+What does this mean for 
+our growth potential?
+=== page 44 ===
+OUR DEEPENING DIGITAL FABRIC CAPABILITY IS INCREASING OUR ADDRESSABLE 
+WALLET
+Source: Global Data and Customer Engagement
+Communications
+10%
+Management  
+13%
+End-user computing  
+11%
+Service desk
+6%
+Network
+21%
+Data centre
+19%
+Applications  
+20%$1Bn+
+Typical Large Enterprise ICT Spend
+$170 Mn+
+SSE, SDWAN
+15 MMessaging (SMS, 
+WhatsApp, RCS, 
+Email)  18 MTelephony, 
+Contact Centre, 
+UCC18 M
+SOC+Security  
+Sol+ Mgmt
+25 MPublic Cloud Infra
+20 M
+Management 
+(Cloud, Branch,
+NOC ) 50 M
+Network Services 
+(ILL,MPLS, 
+Broadband) 25 M
+Our Expanded SAM
+=== page 45 ===
+WHAT THIS MEANS FOR GROWTH POTENTIAL 
+Overall $10 Mn + $5-10 Mn $1-5 Mn
+FY21
+FY25
+Growth212 14 26 172
+290 30 35 225
+1.4X 2.1X 1.3X 1.3X
+Coupled with top quartile best in industry NPS
+Revenue Growth mirrors strong NPS growth reflecting 
+customer confidence
+Annually we add 15-20 new MDC 
+customers
+Each MDC has potential to grow to
+$10-50Mn
+For the new logos that become MDC it 
+takes ~18 months 
+=== page 46 ===
+WHAT LIMITS THE PACE
+Network -fragmented 
+& regional 
+(Often procured regionally 
+lacking global optimisation)
+Live-wire Mindset
+(Don’t fix if not broken)
+Customer -side 
+complexity
+(Different fabrics target 
+different outcomes & CXOs, 
+Budget silos)
+Data Here Operational Readiness
+(Capex dependence, Internal 
+tech. debts) 
+Limiting 
+factors
+=== page 47 ===
+TO ACCELERATE AND DEMONSTRATE VALUE, WE ARE PRIORITIZING 5
+STRATEGIC PRODUCT BETS ACROSS FABRICS 
+Vayu AI  Cloud Cloud fabric
+IZOTM Unified 
+Cloud NetworkNetwork fabric
+Kaleyra.aiInteraction fabric
+SASESecurity fabric
+Digital Fabric 
+Tool
+=== page 48 ===
+VICE PRESIDENT, GLOBAL NETWORK SERVICESRAJAT GOPAL
+Tata Communications
+
+=== page 49 ===
+EMERGENCE OF DISTRIBUTED ENTERPRISES REQUIRES A NEW NETWORKING 
+PARADIGM
+Decentralized 
+IT
+Decentralized 
+Workforce
+Data 
+explosionMulti Cloud 
+Adoption
+Hybrid 
+Work
+IoT 
+proliferation
+Cost/Perf
+Optimization
+On Demand & 
+Ephemeral 
+Multi -cloud 
+(Public/Private) 
+Uniform  End -
+end Security
+User 
+Experience…to address challenges like …and be tailored for
+Performance 
+bottlenecks
+Inconsistent 
+experience
+Unpredictable 
+cost
+Distributed
+EnterpriseEnterprise Networks MUST structurally evolve …
+=== page 50 ===
+EVOLUTION IN ENTERPRISE NETWORKING
+•Dedicated network appliances
+•Proprietary OSs, Vendor -locked hardware
+Pre-2010
+Hardware -Centric
+=== page 51 ===
+EVOLUTION IN ENTERPRISE NETWORKING
+•Dedicated network appliances
+•Proprietary OSs, Vendor -locked hardware
+Pre-2010
+Hardware -Centric•Decoupling of control plane from data plane
+•Centralized orchestration
+2010+
+Software -Defined
+=== page 52 ===
+EVOLUTION IN ENTERPRISE NETWORKING
+•Network functions run as VMs on commodity 
+servers
+•Deep interplay with SDN
+2013+
+Network Function Virtualization
+•Decoupling of control plane from data plane
+•Centralized orchestration
+•Dedicated network appliances
+•Proprietary OSs, Vendor -locked hardware
+Pre-2010
+Hardware -Centric
+2010+
+Software -Defined
+=== page 53 ===
+EVOLUTION IN ENTERPRISE NETWORKING
+•Network is just another layer of software, 
+provisioned dynamically
+•Focus to ephemeral workloads; Multi -cloud
+2020+
+Cloud-Native (Software -Only)
+•Dedicated network appliances
+•Proprietary OSs, Vendor -locked hardwarePre-2010
+Hardware -Centric•Network functions run as VMs on commodity 
+servers
+•Deep interplay with SDN
+•Decoupling of control plane from data plane
+•Centralized orchestration
+2013+
+Network Function Virtualization
+2010+
+Software -Defined
+=== page 54 ===
+EVOLUTION IN ENTERPRISE NETWORKING
+•Network is intelligent 
+•Self Driving and Self healing
+•Dedicated network appliances
+•Proprietary OSs, Vendor -locked hardwarePre-2010
+Hardware -Centric•Network is just another layer of software, 
+provisioned dynamically
+•Focus to ephemeral workloads; Multi -cloud
+•Network functions run as VMs on commodity 
+servers
+•Deep interplay with SDN
+•Decoupling of control plane from data plane
+•Centralized orchestration
+2020+
+Cloud-Native (Software -Only)
+2013+
+Network Function Virtualization
+2010+
+Software -Defined2025
+Tata Communications Focus ‘Software Is Eating the Network’ | ‘AI is eating Software’
+=== page 55 ===
+UNIFIED CLOUD NETWORK -REMOVING MILES FROM NETWORKING
+Zero distance: Low latency and 
+consistent performance
+To the clouds
+Zero time: Instant conversion of 
+intent to operational network
+Within & across clouds
+Total Addressable Market: $8B by FY’30 @ 30% CAGR
+Data 
+sovereignty 
+and 
+localizationKubernetes 
+inter-cluster 
+networkingCost 
+optimization 
+and traffic 
+mgmtMulti-cloud 
+security and 
+complianceHybrid cloud 
+integrationGlobal load 
+balancingDisaster 
+recovery 
+and high 
+availabilityCross -cloud 
+application 
+connectivity
+Use Cases
+=== page 56 ===
+UNIFIED CLOUD NETWORK KEY CHARACTERISTICS
+Innovation pillars
+AI/ML 
+Enabled
+Intent 
+based networking
+Full Stack (L3 -L7) 
+networkAutomatic 
+topology 
+generationNetwork
+ as code
+User Centric Design
+1AbstractEphemral
+Secure
+Authenticate
+2
+Discover  
+ 3
+Capture  
+Intent
+4
+Provision
+5
+Operate 
+6
+Optimize
+7Cost EfficientFaster to establish 
+new connection
+9x
+Reduced 
+error rate
+20x
+>30%
+=== page 57 ===
+VICE PRESIDENT, CISRAJESH CHANDRAN
+Tata Communications
+
+=== page 58 ===
+KALEYRA.AI
+Built for outcome -based customer interactions 
+PERSONALISED. AUTOMATED. INSIGHTFUL. SCALABLE. 
+Unified Agent 
+Experience/ CX 
+Integration
+Campaign 
+Automation/ 
+Journey 
+OrchestrationDeep Insights & 
+Analytics
+Gain data driven insights, measure campaign success and 
+leverage Gen -AI for informed decision -makingHyper -personalised  interactions for omni -channel 
+experience with intelligent workflows
+Kaleyra.aiWhere AI meets 
+Enterprise -grade CX
+=== page 59 ===
+WHAT MAKES KALEYRA.AI UNIQUE
+Kaleyra  AI powering customer interactions across 
+sales, marketing & supportIntegration with Customers’ CX ecosystem and 
+customization of use casesTier 1 carrier connectivity / industry leading 
+support & services
+Innovation with Vayu AI 
+Cloud
+AI Voice, CxO Gen-AI 
+Assistant, Agentic Customer 
+JourneysInteraction Fabric CX 
+Ecosystem
+Genesys, NICE, AWS 
+Marketplace, Amazon 
+Connect, CiscoDomain Expertise
+Intelligent Care, 
+Conversational 
+CommerceIndustry Verticals
+Banking, Ecommerce & 
+Retail, Travel  & 
+Logistics
+Juniper
+CCaas  & CPaaS  2025Gartner
+Magic Quadrant CPaas  2024
+Addressing $20 Bn Market by FY30
+=== page 60 ===
+In Summary
+=== page 61 ===
+OUR AMBITION
+19,513
+FY23FY25FY28
+14,096FY27
+28,000 
+=== page 62 ===
+COLOUR OF OUR AMBITION
+REVENUEShare of Digital in total 
+data revenue
+REPUTATIONPositioning in 
+International Market
+RELEVANCEMDC customers to have 
+3+ Fabrics
+>65%
+ 80%
+Established
+Challenger
+=== page 63 ===
+CHIEF FINANCIAL OFFICERKABIR AHMED SHAKIR
+Tata Communications
+
+=== page 64 ===
+Ranked # 1 
+ “Total shareholder returns” generated over a 
+5-year period
+Source: BCG report published in Feb 2025; Strategies to boost value creation in Telcos | BCG  
+
+=== page 65 ===
+FINANCIAL FITNESS MODEL EMPOWERING SCALABLE GROWTH
+Fit to compete Fit to grow
+Sustained profits and 
+cashflows
+(Re) Invest in infrastructure 
+and innovation
+Drive profitable growth
+Tata 
+Communications 
+growth 
+framework
+
+=== page 66 ===
+FIT TO GROW FRAMEWORK IN APPLICATION
+Cumulative FY21 -FY25
+All figures in INR Crore
+EBITDA
+21,000+Robust value 
+creation
+FCF generated 
+7,200+Reinvested to 
+compound returns
+Cash CAPEX
+M&A: ~3000
+Switch, Kaleyra , Oasis8,700+Creating long term 
+shareholder value
+Total shareholder returns
+6X
+=== page 67 ===
+67
+What will enable 
+future growth?
+=== page 68 ===
+THE ABILITY TO CREATE CAPACITY ACROSS DIMENSIONS
+Financial Innovation Strategic
+
+=== page 69 ===
+Actions taken
+ Positive outcomes delivered 
+DRIVING FINANCIAL CAPACITY : FOCUS ON ASSET OPTIMIZATION
+•Reposition assets to drive value creation•Increasing investments:  
+oFY25 Cash CapEx  = 1.3x FY20 Cash CapEx
+•Continuous evaluation of non -core business
+oMonetization of payment business
+oSale of real -estate•Raised INR 1400 Cr + via non -core monetization
+oPayment business monetization: Raised cash of INR 
+431 cr.
+oRaised INR 1000 Cr.+ over the last 5 years via real 
+estate
+•Evaluation of core business for value creation
+oDilution in Netfoundry
+oExit from loss making contracts in TCTS•Arresting loses: Netfoundry  PAT loss at INR105 Cr in 
+FY25
+•TCTS EBITDA margin : from breakeven to double digit
+=== page 70 ===
+BUILDING INNOVATION VELOCITY VIA 1 -3-30 PROGRAM
+Discovery & design phase Scaling & growth
+•Scaling strategic bets
+•Performance focus 
+•Organization readinesss
+•Partnerships•Experimentation
+•Testing new pricing and 
+bundling models
+•Exploring white spaces 
+•eSIM/Born connected
+•Intelligent interaction
+•Video analytics for industrial IoT•Unified Cloud Network: 10Mn+ launched FY23*
+•SASE: growing at 15%+
+•Dilution in NetfoundryExploration amplified with sharper focus
+FY25
+$30 MnStage 0-1-3 
+ARR
+* IZO MCC launched in FY23; IZO MCN yet to be launched
+=== page 71 ===
+Actions taken
+ Positive outcomes delivered 
+CREATING STRATEGIC CAPACITY : PREPARING FOR TOMORROW
+•Future M&A capability
+oNew acquisition vehicle through TC UK, TC NL
+oIntegration of Kaleyra , Switch•Realignment of corporate structure to be future ready 
+for acquisitions
+•Redomiciling to Switzerland and ramping up net operating 
+losses utilization
+•Large scale M&A playbook created
+•New capability added to the Digital Fabric
+oE2E software platforms built
+oMedia value chain capture
+oAI integrations 
+•Cable investments•Increasing capability stack 
+oSoftware platforms like Unified Cloud Network
+oOpening new segments 
+➢OTT and Broadcasters 
+➢Victory Studio for live shows
+oKaleyra.ai
+•Margin protection for core business/ retain and grow 
+market share
+=== page 72 ===
+WHY FOCUS ON CAPITAL PRODUCTIVITY?
+Tata
+Communications
+Route to ROCE is through a 
+dynamic mix of 
+EBITDA margin
+ 
+Capital productivity
+EBITDA Margin 
+>25%
+ROCE: 
+<10% 
+China Telecom
+BT Verizon LumenAT & T Turkcell
+Orange Vodafone
+SK Telecom
+=== page 73 ===
+CAPITAL ALLOCATION ENABLING CAPACITY
+Key investments
+Guided by our M&A framework of 
+driving product -market fit and 
+value creationInorganic investments
+Bespoke  investments which 
+can be leveraged across dealsCustomer success based
+Maintenance CAPEX, capped 
+and reviewed closelySustenance
+Scaling, new markets and adding 
+new capabilities, platformizationStrategic CapEx
+Kaleyra , 
+Switch, 
+Oasis 
+acquisitions 
+in FY24 Cable 
+capacity 
+expansion on 
+key routes
+TGN-IA2Digital 
+Fabric tool
+AI cloud: 
+GPUs
+DC to DC 
+connectivity 
+capacity
+Kaleyra.ai
+=== page 74 ===
+Capacity creation will drive
+Margin Expansion
+ Earnings Power
+
+=== page 75 ===
+EARNING POWER -ON A RISE 
+Higher share of wallet
+ Large deal wins
+ Operating efficiency 
+through cloud delivery & 
+AI 
+Improving NPS
+Wider portfolio, 
+Increased SAM
+Platformisation
+# of $10 Mn and $5 Mn 
+customers increasing
+Addressing local 
+champions
+Value led growth through 
+multi fabric deals
+Relevance 
+strategyTransformation 
+engineNew market & new 
+opportunities
+
+=== page 76 ===
+EXPANDING DATA REVENUES, DATA EBITDA IN FOCUS
+FY21
+Data Non data
+74%
+26%
+Data Non dataFY25
+84%
+16%Total revenues
+=== page 77 ===
+DATA EBITDA MARGIN DRIVERS
+FY25 DATA 
+EBITDA margin: 
+18.7%
+FY25 EBITDA : 
+INR 3,652  Cr. •Margin protection
+oCost management programs
+oDeal qualification - focus on high 
+margin deals
+•Lifecycle management services monetization•Revenue momentum  and operating 
+leverage
+•Cost synergy programs for Kaleyra  and 
+Switch
+•Rigor to 1 -3-30 program
+Core 
+connectivityDigital platforms
+FY25 EBITDA margins43.6%
+FY25 EBITDA margins-9.7%
+FY25 EBITDA: INR 4,538 Cr. FY25 EBITDA: INR -886 Cr. 
+
+=== page 78 ===
+DIGITAL PORTFOLIO EBITDA MARGIN JOURNEY
+Destination 
+Double  digit 
+margins
+FY25
+EBITDA: INR: -886 Crores
+EBITDA margin: -9.7%
+Milestone 1
+EBITDA breakeven
+Milestone 2
+Low single digit: 
+4%-6%
+DIGITAL EBITDA 
+>1,500 Cr ores
+On the journey to add 2,300 Crores+ in EBITDA 
+
+=== page 79 ===
+OUR ASSETS CONTINUE TO OUTWEIGH OUR LIABILITIES
+Other contingent liabilities
+Contingent AGR liability
+Monetization of net operating 
+losses
+Investments in data center
+Value unlocking in real estate
+
+=== page 80 ===
+CASE IN POINT: EMBEDDED VALUE IN DATA CENTER
+Embedded value
+26% stake in STT GDC India
+STT GDC India, currently at 
+28% market share in India by revenues, 
+has ambitious growth plans
+TailwindsCloud services 
+adoptionData explosion
+& consumptionGenerative 
+AIData 
+localisation
+Indian data center industry
+1.3 GW
+2024>4.5 GW
+2030
+CAGR: 28%
+Source: https://www.sttelemediagdc.com/in -en/newsroom/stt -gdc -reinforces -commitment -to-digital -india -invests -3.2billion -usd -adding -550mw -data -centre -capacity ;DC Center capacity India - https://www.communicationstoday.co.in/indias -data -
+center -capacity -to-exceed -4500 -mw -by-2030/
+=== page 81 ===
+WE REMAIN STEADFAST IN OUR AMBITION
+EBITDA margin: 23 – 25% ROCE: >25%
+Data revenues 
+(INR Crores)
+19,513
+FY23FY25FY28
+Existing services
+•Strategic  bets
+•Capability Shift
+14,096FY27
+Growth break -up
+28,000 One-third of 
+incremental 
+revenue
+
+=== page 82 ===
+THANK YOU
+=== page 83 ===
+Q & A
+“Inquiry is the Genesis of creation”  -KA Chinery

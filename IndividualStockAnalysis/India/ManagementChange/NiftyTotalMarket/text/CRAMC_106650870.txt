@@ -1,0 +1,27 @@
+--- Cessation01062026_ROID_WebXMLFile_20260601_125326916_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CRAMC ; Name Of The Company: Canara Robeco Asset Management Company Limited ; Scrip Code: 544580 ; MSEISymbol: NOTLISTED ; ISIN: INE218I01013 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-05-31 ; Time Of Occurrence Of Event Or Information: 18:30:00 ; Reasons For Non Disclosures For Resignation Of Person Was Filed In The General Utility: We are getting the following error while submitting general utility: The event selected for the Resignation in the utility and uploading module are not matching. ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-06-01 ; Salutation: Ms. ; Name Of The Person: Hilde Faber ; Designation Of Person: Senior Management Personnel ; Date On Which The Resignation Letter Was Received: 2026-05-27 ; Effective Date Of Resignation: 2026-05-31 ; Reason Of Resignation In Brief: To pursue new career opportunities
+
+--- Resignation_letter_Hilde_Faber_2.pdf ---
+MGMT Internal
+
+Date: May 27, 2026
+To,
+Canara Robeco Asset Management Company Limited
+Construction House, 4th Floor,
+5 Walchand Hirachand Marg, Ballard Estate,
+Mumbai - 400001
+Dear Rajnish,
+Please accept this as my formal letter of resignation from my position as Chief Operating
+Officer ("COO") (in the category of Senior Management) at Canara Robeco Asset Management
+Company Limited ("CRAMC").
+After careful consideration, I have decided to pursue new career opportunities and therefore
+will be stepping down from my role effective from May 31, 2026. I would like to express my
+gratitude for the support and opportunities provided to me during my time at the Company.
+It has been an honour to work with you.
+I wish CRAMC and my colleagues continued success and growth in the future.
+
+Chief Operating Officer
+
+MGMT Interna l
+
+

@@ -1,0 +1,279 @@
+  
+ 
+HGIEL/HO/COMPLIANCE/2024-25/442      26.03.2025 
+ 
+BSE Limited      National Stock Exchange of India Limited 
+Phiroze Jeejeebhoy Towers    Exchange Plaza, C-1, Block G 
+Dalal Street      Bandra Kurla Complex, Bandra (East)  
+Mumbai- 400 001     Mumbai- 400 051 
+ 
+Scrip Code- 541019            Scrip Symbol- HGINFRA 
+ 
+Dear Sir/Madam, 
+ 
+Sub: Voting Results of Postal Ballot through remote e-voting process and the Scrutinizer’ Report  
+ 
+This is further to our letter dated February 24, 2025, submitting the Notice of Postal Ballot along with the 
+explanatory statement, seeking consent of the Members of the Company by way of a Special Resolution 
+through remote e-voting process on the following resolution: 
+ 
+Sr. No.  Resolution  
+1.  To consider and approve the appointment of Dr. Sunil Kumar Chaudhary (DIN:00515672) as 
+an Independent Director of the Company for a term of three consecutive years. 
+ 
+In this regard, the remote e-voting process concluded today i.e., Wednesday, March 26, 2025, at 5:00 p.m. 
+(IST). Based on the Scrutinizer’s Report on the Postal Ballot conducted through remote e-voting, we 
+hereby inform that the Members of the Company have duly passed the Resolution with the requisite 
+majority. 
+ 
+Accordingly, please find enclosed:  
+a) Voting results of the said Postal Ballot through remote e-voting, in relation to the aforesaid businesses, 
+as required under Regulation 44 of the SEBI (Listing Obligations & Disclosure Requirements) 
+Regulations, 2015 (Annexure - 1) .  
+ 
+b) The Scrutinizer's Report dated March 26, 2025, pursuant to Sections 108 and 110 of the Companies 
+Act, 2013 read with Rules 20 and 22 of the Companies (Management and Administration) Rules, 2014 
+(Annexure - 2).  
+ 
+The Voting Results and the Scrutinizer's Report are also available on the Company’s website at 
+www.hginfra.com  and the website of MUFG Intime India Private Limited at https://in.mpms.mufg.com/ . 
+ 
+ 
+Yours Sincerely 
+ 
+For H.G. Infra Engineering Limited 
+ 
+ 
+ 
+Ankita Mehra 
+Company Secretary & Compliance Officer 
+ACS No. – 33288 
+ 
+Encl: As above 
+[1] [2][3]={[2]/[1]}*100 [4] [5][6]={[4]/[2]}*100 [7]={[5]/[2]}*100
+E-Voting 46779476 99.9985 46779476 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0.0000 0.0000
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000
+Total 46779476 99.9985 46779476 0 100.0000 0.0000
+E-Voting 8701036 89.6791 8701036 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0.0000 0.0000
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000
+Total 8701036 89.6791 8701036 0 100.0000 0.0000
+E-Voting 7831 0.0901 6879 952 87.8432 12.1568
+Poll 0 0.0000 0 0 0.0000 0.0000
+Postal Ballot 0 0.0000 0 0 0.0000 0.0000
+Total 7831 0.0901 6879 952 87.8432 12.1568
+Total 65171111 55488343 85.1425 55487391 952 99.9983 0.0017Voting ResultsANNEXURE-1
+H.G. Infra Engineering Limited
+Resolution Required :Special1 - To consider and approve the appointment of Dr. Sunil Kumar Chaudhary (DIN:00515672) as an 
+Independent Director of the Company for a term of three consecutive years.
+Whether promoter/ promoter group are interested in the 
+agenda/resolution?NO
+No. of 
+Votes – in 
+favourNo. of 
+Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledCategoryMode of 
+VotingNo. of shares 
+heldNo. of 
+votes 
+polled% of Votes Polled 
+on outstanding 
+shares
+Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions46780176
+9702408
+8688527
+ Deepak Arora & Associates 
+                                                 Practicing Company Secretaries 
+23 Ka- 4 Jyoti Nagar, Near Vidhan Sabha,Jaipur- 302005 
+(Rajasthan) 
+  Ph. : 0141- 2740960, 9351788834, 9829188834 
+               Email : cs@csdeepakarora.com        
+www.csdeepakarora.com 
+ 
+1 
+ANNEXURE-2 
+ 
+ 
+REPORT OF SCRUTINIZER 
+ 
+[Pursuant to Section 110 and 108 of the Companies Act, 2013 and rule 20 and 22 of the Companies 
+(Management and Administration) Rules, 2014] 
+ 
+ 
+To,  
+The Chairperson 
+H.G. Infra Engineering Limited (“the Company”) 
+14, PANCHWATI COLONYRATANADA, JODHPUR,  
+RAJASTHAN, INDIA, 342001 
+ 
+Dear Sir, 
+ 
+Subject: Scrutinizer's Report on Remote e-Voting of Postal Ballot process in respect of 
+passing of resolution set-out in the notice dated February 05, 2025. 
+ 
+I, Heena Lakhani, Partner of M/s. Deepak Arora & Associates, a Practicing Company 
+Secretaries Firm, Jaipur, having its office at 23 ka 4, Jyoti Nagar, Near Vidhan Sabha, Jaipur, 
+Rajasthan-302005, was appointed as a scrutinizer by the Board of Directors of the Company for 
+the purpose of scrutinizing the Postal ballot voting only by way of remote e-voting process (e-
+voting), in a fair and transparent manner, pursuant to Section 110 and 108 of the Companies 
+Act, 2013 read with Rule 20 & 22 of the Companies (Management and Administration) Rules, 
+2014 as amended up to date, in respect of the Resolution contained in the Notice of the Postal 
+Ballot dated February 05, 2025. 
+ 
+ 
+Management's Responsibility 
+ 
+The Management of the Company is responsible to ensure compliance with the requirements of 
+the relevant provisions of (i) the Companies Act, 2013 and the Rules made there under and (ii) 
+the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (LODR), (iii) 
+General Circular issued by the Ministry of Corporate Affairs, Government of India (the "MCA 
+Circulars"), Secretarial Standard on General Meetings issued by the Institute of Company 
+Secretaries of India and any other applicable law, rules and regulations (including any statutory 
+modification(s) or re-enactment(s) thereof, for the time being in force) in respect of postal ballot 
+process on the Resolution contained in the Notice of the Postal Ballot dated February 05, 2025. 
+   
+ 
+2 
+  
+ 
+Scrutinizer's Responsibility 
+ 
+My responsibility as a scrutinizer for the postal ballot process is restricted to scrutinize the e-
+voting process, in a fair and transparent manner and to prepares a Scrutinizer's Report of the 
+votes cast by the members “in Favor” or “Against”  on the Resolution as stated in the Postal 
+Ballot Notice. My report is based on the reports generated from the E-voting system provided 
+by MUFG Intime India Private Limited (“MUFG”) (formally known as Link Intime India 
+Private Limited) ("E-voting facility provider/RTA/ MUFG"), engaged by the Company to 
+provide e-voting facility to its Members. 
+ 
+The Company had availed the e-voting facility offered by MUFG for conducting e-voting by 
+electronic means.  
+ 
+I submit my report as under 
+ 
+1. The MUFG Intime India Private Limited (formally known as Link Intime India Private 
+Limited) (MUFG), Registrar and Share Transfer Agent (“RTA”) of the Company, 
+completed the dispatch of Notice of the Postal Ballot by electronic mode to shareholders 
+who had already registered their email addresses with the Company / Depositories, in 
+compliance with the Circulars issued by the Ministry of the Corporate Affairs (“MCA”) 
+and Securities and Exchange Board of India (“SEBI”) and applicable provisions of the 
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, and the 
+Secretarial Standard on General Meetings issued by the Institute of Company Secretaries 
+of India. Pursuant to MCA circulars, the hard copy of Notice, Postal Ballot Form  and 
+pre- paid business envelope were not sent to the Members. Accordingly, the 
+communication of the assent or dissent of the Members has taken place through e-voting 
+facility/system only.   
+ 
+2. In accordance with the Notice of the Postal Ballot sent to the shareholders on February 
+24, 2025 and the ‘Advertisement’  published pursuant to Rule 20(4) (v) of the Companies 
+(Management and Administration) Rules, 2014 (Amendment Rules 2015) on February 
+25, 2025, the voting period for remote e-voting commenced at 9:00 A.M. on Tuesday, 
+February 25, 2025 and closed at 5:00 P.M. on Wednesday, March 26, 2025. The e-Voting 
+module was disabled by MUFG for voting thereafter.   
+ 
+3. The Shareholders holding shares as on the “cut off” date i.e. Friday, February 14, 2025, 
+were entitled to vote on the resolutions as set out in the Notice of the Postal Ballot.   
+ 
+4. After the closure of remote e-Voting time and period, We have download the votes cast 
+through remote E−voting on Wednesday, March 26, 2025 at 05:26 PM (IST)  in the 
+presence of Mr. Vijay Gupta and Ms. Neha Sharma who are not in the employment of 
+the Company. Thereafter, the details containing, inter−alia the list of members who 
+voted “For” or “Against” the resolutions were derived from the report generated from 
+   
+ 
+3 
+ the evoting website of MUFG https://instavote.linkintime.co.in  and were reconciled 
+with the records maintained by the Registrar and Transfer Agent of the Company. 
+ 
+     5.  A summary of the results of the scrutiny of the above postal ballot voting by electronic     
+          means in respect of the passing of Resolution contained in the Postal Ballot Notice, is as   
+          under : 
+ 
+ 
+SPECIAL BUSINESS 
+ 
+Item No. 1 (as an Special Resolution): To consider and approve the appointment of Dr. Sunil 
+Kumar Chaudhary (DIN:00515672) as an Independent Director of the Company for a term of 
+three consecutive years : 
+ 
+(i) Voted in favour of resolution: 
+ 
+Postal Ballot 
+Voting Number of members 
+voted Number of 
+valid votes cast 
+by them % of total number 
+of valid votes cast  
+E-Voting 220* 55487391 99.9983 
+ 
+ 
+(ii) Voted against the resolution: 
+ 
+ 
+Postal Ballot 
+Voting Number of members 
+voted Number of 
+valid votes cast 
+by them % of total number 
+of valid votes cast  
+E-Voting 12* 952 0.0017 
+ 
+ 
+(iii) Invalid votes: 
+ 
+ 
+Postal Ballot 
+Voting Number of members 
+voted Number of 
+valid votes cast 
+by them % of total number 
+of valid votes cast  
+E-Voting 0 0 0 
+ 
+* Out of the aforesaid equity shareholders who voted for the resolution and against 
+the resolution, respectively, 1 equity shareholder has partially voted for the resolution 
+and partially against the resolution. Therefore, for the purpose of numbers the said 1 
+   
+ 
+4 
+ equity shareholder has been considered as two separate votes. However, 231 equity 
+shareholders in number voted during the remote e−voting. 
+ 
+Based on the aforesaid result I report that aforesaid resolution as set out in item no 1 of the 
+Notice have been  Passed with Requisite Majority . 
+ 
+All electronic data, relevant records, Register and all other papers relating to electronic voting 
+shall remain in our safe custody until the Chairman considers, approves and signs the Minutes 
+of the aforesaid Resolutions passed by way of Postal Ballot and the same will be handed over to 
+the Company Secretary of the Company for safe keeping 
+Thanking you   
+ 
+Yours faithfully,  
+ 
+for Deepak Arora and Associates   Countersigned by: 
+Company Secretaries            for H.G. INFRA ENGINEERING LIMITED 
+ICSI Unique Code: I2001RJ191000 
+ 
+ 
+ 
+ 
+ 
+Heena Lakhani  (Partner)    Harendar Singh 
+ACS No.: 53279 , CP No.: 24299              Chairperson and Managing Director  
+UDIN NO.: A053279F004159854                             DIN: 00402458  
+ 
+ 
+ 
+ 
+Place: Jaipur  
+Date: March 26, 2025 
+ 
+ 
+  

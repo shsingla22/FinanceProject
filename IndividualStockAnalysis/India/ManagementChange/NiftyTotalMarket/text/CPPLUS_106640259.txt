@@ -1,0 +1,27 @@
+--- CIMG_CPPLUS_25052026_CIM_WebXMLFile_20260525_211018407_2.xml (the exchange's structured disclosure) ---
+NSESymbol: CPPLUS ; Name Of The Company: ADITYA INFOTECH LIMITED ; Scrip Code: 544466 ; MSEISymbol: NOTLISTED ; ISIN: INE819V01029 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-05-25 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-05-25 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: ATUL B.LALL ; Effective Date Of Reason Of Change: 2026-05-25 ; Salutation: Mr. ; Name Of The Person: ATUL B.LALL ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-05-25 ; Effective Date Of Resignation: 2026-05-25 ; Reason Of Resignation In Brief: Mr. Atul B. Lall (DIN: 00781436) has tendered his resignation as Non-Executive Non-Independent Director, being the representative of Dixon Technologies (India) Limited) (“DTIL”) on the Board of the Company, due to cessation of DTIL’s nomination rights in accordance with provision of Article No. 102A of the Articles of Association of the Company. Pursuant to the Articles of Association, DTIL is entitled to nominate one Director on the Board so long as it holds at least 4% of the paid-up share capital of the Company. However, following the sale of 44,95,880 equity shares on February 25, 2026, DTIL’s shareholding reduced from 6.20% to 2.38% of the paid-up equity share capital of the Company, hence DTIL ceases its right to appoint a Director and therefore Mr. Lall stepped down from the Board of the Company.
+
+--- Atul_Lall_resignation_letter_1.pdf ---
+Date: 25.05.2026
+To,
+The Board of Directors,
+Aditya lnfotech Limited
+A-12 Sector-4, Noida,
+Uttar Pradesh, India, 201301
+Sub: Resignation from the position of Non-Executive Director ("DTIL Nominee Director") of
+the Aditya lnfotech Limited ("Company").
+
+Dear Sir(s),
+Pursuant to the divestment of shareholding by Dixon Technologies (India) Limited ("DTIL") and
+the consequent cessation of the nomination rights of DTIL on the Board of the Company, I, Atul
+B. Lall, hereby tender my resignation from the position of Non-Executive Director ("DTIL
+Nominee Director"lof the Company, with immediate effect.
+I request you to kindly acknowledge receipt of this resignation letter and take the necessary steps
+to formalize the above, including making the requisite regulatory and corporate filings with the
+Registrar of Companies and intimating the Stock Exchanges, as applicable.
+nking You,
+
+Atul B. Lall
+DIN: 00781436
+
+

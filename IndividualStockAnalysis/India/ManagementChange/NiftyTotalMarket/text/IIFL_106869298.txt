@@ -1,0 +1,107 @@
+--- CIM_2281_WebXMLFile_20261123_202024697_1.xml (the exchange's structured disclosure) ---
+NSESymbol: IIFL ; Name Of The Company: IIFL Finance Limited ; Scrip Code: 532636 ; MSEISymbol: NOTLISTED ; ISIN: INE530B01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-23 ; Time Of Occurrence Of Event Or Information: 18:24:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-23 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Gopalakrishnan Soundarajan ; Effective Date Of Reason Of Change: 2026-11-23 ; Salutation: Mr. ; Name Of The Person: Gopalakrishnan Soundarajan ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-11-23 ; Effective Date Of Resignation: 2026-11-23 ; Reason Of Resignation In Brief: Pre-existing professional engagements
+
+--- CIMG_532636_23112026201957_2.pdf ---
+November 23, 2026
+The Manager,
+Listing Department,
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai 400 001
+BSE Scrip Code: 532636
+
+The Manager,
+Listing Department,
+The National Stock Exchange of India Limited,
+Exchange Plaza, 5th Floor, Plot C/1, G Block,
+Bandra - Kurla Complex, Bandra (E),
+Mumbai 400 051
+NSE Symbol: IIFL
+
+Subject: Intimation under Regulation 30 and 51 of Securities and Exchange Board of India (Listing
+Obligations and Disclosure Requirements) Regulations, 2015
+Dear Sir/Madam,
+Pursuant to Regulations 30 and 51 of the Securities and Exchange Board of India (“SEBI”) (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), we wish to inform
+you that Mr. Gopalakrishnan Soundarajan (DIN: 05242795) has resigned as Non-Executive NonIndependent Director of IIFL Finance Limited (the “Company”) w.e.f. November 23, 2026, close of
+business hours.
+The Board of Directors and the Management of the Company place on record their appreciation for
+the contributions made by Mr. Gopalakrishnan Soundarajan during his association with the Company
+and for his active participation in the decision-making processes of the Board.
+The details as required under the Regulation 30 of the SEBI Listing Regulations read with SEBI Master
+Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, along with letter
+received from Mr. Gopalakrishnan Soundarajan, is enclosed herewith as Annexure A.
+Kindly take the same on record and oblige.
+Thanking You,
+For IIFL Finance Limited
+
+signed by
+SAMRAT Digitally
+SAMRAT SANYAL
+2026.11.23
+SANYAL Date:
+19:58:19 +05'30'
+____________________
+
+Samrat Sanyal
+Company Secretary & Compliance Officer
+ACS- 13863
+Email Id: csteam@iifl.com
+Place: Mumbai
+Encl: as above
+CC:
+India International Exchange (IFSC) Limited
+1st Floor, Unit No. 101, The Signature,
+Building No. 13B, Road 1C, Zone 1, GIFT SEZ,
+GIFT City, Gandhinagar, Gujarat - 382050
+
+NSE IFSC Limited
+Unit- 1201, 12th Floor, Brigade International
+Financial Centre, Block-14, Road 1C, Zone-1, GIFT
+SEZ, GIFT City, Gandhinagar, Gujarat - 382050
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hubtown Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000, Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604
+Tel: (91-22) 41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+Annexure A
+Details as per Regulation 30 read with Schedule III of the Listing Regulations and SEBI Master
+Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+Resignation of Mr. Gopalakrishnan Soundarajan as Non-Executive Non-Independent Director
+Sr. No. Particulars
+a.
+
+b.
+c.
+d.
+
+Details
+Mr. Gopalakrishnan Soundarajan has resigned
+Reason for change viz. appointment,
+from the Company as Non-Executive Nonresignation, re-appointment, removal,
+Independent Director due to certain pre-existing
+death or otherwise;
+professional engagements.
+Date of appointment/ re-appointment/
+cessation (as applicable) & term of November 23, 2026
+appointment/ re-appointment
+Brief profile (in case of appointment)
+Not Applicable
+Disclosure of relationships between
+directors (in case of appointment of a Not Applicable
+director)
+
+IIFL Finance Limited
+CIN No.: L67100MH1995PLC093797
+Corporate Office – 802, 8th Floor, Hubtown Solaris, N.S. Phadke Marg, Vijay Nagar, Andheri East, Mumbai 400069
+Tel: (91-22) 6788 1000, Fax: (91-22) 6788 1010
+Regd. Office – IIFL House, Sun Infotech Park, Road No. 16V, Plot No. B-23, Thane Industrial Area, Wagle Estate, Thane – 400604
+Tel: (91-22) 41035000. Fax: (91-22) 25806654 E-mail: csteam@iifl.com Website: www.iifl.com
+
+
+

@@ -1,0 +1,619 @@
+
+=== page 1 ===
+                                                                    
+Newgen Software Technologies Limited  
+CIN: L 72200DL 1992PLC049074, Registered Office: E-44/13, Okhla Phase II, New Delhi 110020, India  
+Tel: +91 11 46533200, 26384060, 26384146   Fax:+91 11 26383963  
+ 
+                                                                  
+ 
+Date:  30th April 2026  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  
+ National Stock Exchange of India Limited  
+Exchange Plaza, Plot No. C/1, G Block,  
+Bandra - Kurla Complex  
+Bandra (E), Mumbai – 400051  
+ 
+Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+Scrip Code – 540900  Ref.: Newgen Software Technologies Limited  
+(NEWGEN/INE619B01017)  
+ 
+ 
+   Sub. : Investor Presentation on Financial Results for the 4th quarter and year  ended  31st March 
+2026 
+ 
+Dear Sir/ Ma'am,  
+ 
+Pursuant to the above -mentioned subject, we are hereby enclosing the Investor Presentation  on Financial 
+Results for the 4th quarter and year ended 31st March 202 6. 
+ 
+This is for your kind information and record.  
+ 
+Thanking you.  
+ 
+For Newgen Software Technologies Limited  
+ 
+ 
+ 
+Aman Mourya  
+Company Secretary  & Head -Legal  
+ 
+ 
+  Encl. : a/a 
+ 
+=== page 2 ===
+Copyright 2025, Newgen Software 
+Newgen 
+Software 
+Technologies 
+Ltd.
+Full Year and Q4 FY’26 
+Investor Presentation 
+
+=== page 3 ===
+Newgen–Key Highlights (FY’26)
+34 years 
+of Innovation, Passion,
+and Excellence 
+Direct presence 
+in 8 countries
+47 New Logo 
+additions
+67 patent filings till date, 
+12 patents filed and 2
+granted in the year 
+Consistently recognized by 
+Gartner and ForresterGreat Place to Work certified 
+Second time in a row
+17 verticals 
+Major Verticals including~4,300 Personnel
+Banking & FS, Insurance, Government
+101customers over Rs 50mn billing
+All Figures as of March 31, 2026
+
+=== page 4 ===
+Newgen –Financial Snapshot (FY’26)
+Rs 15,744 Million 
+Revenue
+(6% YoY Growth) 
+Rs 3,343 Million
+PAT (excl. Exceptional items)**
+(6.0% YoY Growth)Rs 3,691 Million
+US Geography Revenue
+(17% YoY Growth)
+Rs 4,058 Million
+EBITDA
+(7.9% YoY Growth)Rs 9,684 Million
+Annuity Revenues*
+(62% of Revenues) 
+•Annuity revenues comprise of ATS/AMC and Cloud/ Subscription License revenue streams and Support revenues
+** Excludes Exceptional items, Net of tax adjustment
+All Figures as of March 31, 2026Rs 2,318 Million
+Net Cash Flow from Operations
+=== page 5 ===
+Digitize
+Deliver contextual content for 
+smarter decision making and 
+improved collaborationContextual Content 
+Services (ECM) 
+OmniDocsProcess & Adapt
+Create smarter processes, 
+empower knowledge workers 
+and build responsive businessLow Code Process 
+Automation (BPM)
+iBPSCommunicate
+Create, personalize and deliver 
+interactive communication to 
+enhance customer experienceOmnichannel Customer 
+Engagement (CCM)
+OmniOMS
+•Content Management
+•Content Intelligence
+•Enterprise-wide Collaboration
+•Workflow Management
+•Records Management
+•Compliance and Audits•Low Code Development
+•Omnichannel UX Design
+•Business Rules Management
+•Process Intelligence
+•Dynamic Case Management
+•RPA•Communication Designer
+•Personalized Communication
+•Omnichannel Communication
+•Communication-enablement of 
+Biz Applications
+•Social Sensing & Sentiment AINewgen: Enterprise- wide unified Low Code digital transformation platform
+Data Science
+Rapidly experiment, build, 
+validate, deploy and operate 
+Machine Learning models.Artificial Intelligence/ 
+Machine Learning
+•In Memory Distributed, Big 
+Data Platform
+•Low Code
+•Machine Learning
+•Automated Data Science
+•Streamlining data to insights 
+development
+IDP
+Automatethe extraction, 
+understanding, and processing 
+of information from various 
+types of documents.Intelligent Document 
+Processing (IDP Studio)
+•Low Code
+•Data exploration & correction
+•Modelling 
+•Inference
+•Collaboration Hub
+•Productionisation
+•Model Deployment as an API
+=== page 6 ===
+NewgenONE-AI-first Low-code Digital Transformation Platform
+Enterprise Content Management (ECM) Business Process Management (BPM) Customer Communication Management (CCM)Integrated 
+Data Science Intelligent 
+Document 
+Processing (IDP)
+AI Hub 
+(Gen AI)NewgenONE AI Agents
+AI Trust Layer
+AI Components
+Agentic 
+ShieldTrusted 
+AIDesignTime Run Time
+Responsible AI
+- Workflow 
+Generation
+- UI Generation
+- Data Object 
+Generation
+- Report 
+Generation-Q&A on WI & Content 
+-Content 
+Summarization
+-Auto-classification
+-Call Data Analysis
+-Improvement 
+Recommendations
+-Intelligent 
+Prospectin
+g
+-Sales 
+conversion 
+Analytics 
+BRMS, Service Flow, Workflow Orchestration
+
+=== page 7 ===
+NewgenONE –To Solve the Disconnected Application Ecosystem
+Disconnected Back 
+Office Disconnected Front Office 
+Back Office Point Solution
+Self-service, Calls, 
+EmailsMulti-ChannelData Processing and 
+Communications Tools
+Data and Document 
+Management Tools
+By simplifying the complex information flow between front, middle, and back office
+Customer
+Financial 
+InstitutionsFront Office Middle Office Back Office
+Non-Financial 
+Institutions
+•Sales and Marketing 
+•Surveyor Mobile Apps•First Notice of loss
+•Agent mobile apps•Onboarding Portals
+•Direct walk-ins
+Branch, Calls, 
+EmailsMulti-Channel•Approval & Verifications
+•Client Reporting
+•Compliance•Service Fulfilment•Underwriting
+•Claim 
+Processing 
+•Onboarding Execution
+Data Processing and 
+Communications Tools
+•Document Archival
+•Policy 
+Administrations•Receipt 
+generations
+•Finance Processing •Policy 
+Distribution
+•Human Resources
+•Record Management
+Data and Document 
+Management Tools
+Touchpoints
+Business RulesBusiness Workflows
+Documents
+Collaboration
+Integrations
+Governance
+Communication
+By simplifying the complex information flow between front, middle, and back office
+=== page 8 ===
+Trusted by Leading Analysts
+Source: https://newgensoft.com/company/recognition/
+e
+e
+e
+A “Leader” in The Forrester Wave
+ : Content Platforms, Q1 2025
+A“Strong Performer”in The Forrester Wave
+ : Digital Process 
+Automation Software, Q3 2025
+Recognized in Forrester’s The Accounts Payable Invoice Automation 
+Software Landscape, Q4 2025
+Recognized in The Forrester Wave
+ : Insurance Agency 
+Management Systems, Q4 2025
+Recognized in Forrester’s The Insurance Agency Management 
+Systems Landscape, Q3 2025
+Recognized in Forrester’s Digital Process Automation Software 
+Landscape, Q2 2025
+Recognized inForrester’s The Low-Code Platforms For Professional 
+Developers Landscape, Q4 2024
+Recognized in Forrester’s The Content Platforms Landscape, 2024 
+Recognized in Forrester’s The Task-Centric Automation Software 
+Landscape, Q3 2024
+Recognized in Forrester’s P&C Claims Management Systems 
+Landscape on 21st February 2024
+A “Strong Performer” in The Forrester Wave
+ : Robotic Process 
+Automation, Q1 2023 Report
+Recognized in Forrester’s ‘The Master Data Management Solutions nt
+ A “Niche Player” in Gartner® Magic Quadrant
+ for Enterprise Low-
+Code Application Platforms, October 2024.
+A “Niche Player” in Gartner® Magic Quadrant
+ for Business 
+Orchestration and Automation Technologies , October 2025
+Recognized as a “Representative Vendor ” in Gartner® Market Guide 
+for Government Grant Management Solutions, January 2026
+Recognized as a “Representative Vendor ” in Gartner® Market Guide 
+for Government Grant Management Solutions, January 2026
+Recognized as a “Representative Vendor ” in Gartner® Market Guide 
+for Commercial Loan Origination Solutions, December 2025.
+Recognized in the Gartner® Market Guide for Commercial Banking 
+Trade Finance on 13thOct 2025
+Recognized as a representative vendor in Gartner® Market Guide for 
+Commercial Banking Cash Management, on August 12th2025
+Recognized as a sample vendor in Gartner® Hype Cycle for Bank 
+Lending, 2025
+Recognized in theGartner®Market Guide for U.S. Healthcare Payers’ 
+Provider Network Management Applications, June 16th2025
+Recognized in theGartner®Hype Cycle for U.S. Healthcare Payers, 
+2025, Published on June 16th, 2025
+Recognized in the Gartner® Market Guide for U.S. Healthcare Provider 
+=== page 9 ===
+Resilient Business Model in Place
+(1) Annuity comprises ATS/AMC, Cloud/ Subscription License and Support revenuesSale of Services Sale of Products62% 16% 22%
+Annuity Revenues(1) Large annuity revenues streams
+Mission critical solutions across  key verticalsFY26 Revenue Split by Segment
+USA India31% 29%23%
+EMEA17%
+APAC Diversification across geographies
+FY26 Revenue Split by GeographyInsurance & Healthcare Govt.68% 8% 16%
+Banking & FS9%
+Others
+FY26 Revenue Split by Segment
+=== page 10 ===
+Newgen’s vertical specific use-cases
+
+=== page 11 ===
+7,790
+9,740
+12,438
+14,869
+15,744
+FY'22 FY'23 FY'24 FY'25 FY'26
+4,565
+5,945
+7,498
+8,337
+9,684
+FY'22FY'23 FY'24FY'25FY'26Strong Acceleration in Revenues and Profits
+Revenues (INR Mn)Revenues (INR Mn)
+(INRm)Annuity Revenues (INR Mn)Annuity Revenues (INR Mn)
+(INRm)
+(1) Annuity Revenues comprise of ATS/AMC, Cloud/ Subscription fee for License and Support revenue streams
+(2) Excludes Exceptional Items, Net of tax adjustment. Post considering the impact of LabourCodes and Provision for legal claim, the Profit after Tax is Rs 106 crfor Q4 FY’26 and Rs 301 crfor FY’26, Basic EPS is Rs 7.56 for Q4 FY26 
+and Rs 21.38 for FY’26. 21% CAGR 
+Growth19% CAGR 
+Growth
+1,642
+1,763
+2,516
+3,152
+3,343
+FY'22 FY'23 FY'24 FY'25 FY'26Profit after Tax (INR Mn) (Excl. 
+Exceptional items)*Profit after Tax (INR Mn) (Excl. 
+Exceptional items)*
+(INRm)
+19% CAGR 
+Growth
+=== page 12 ===
+Growing Large Customer Base
+65 51
+FY’23 FY’24Increasing base of customers with over 
+Rs 50Mn billing Increasing base of customers with over 
+Rs 50Mn billing Client ConcentrationClient Concentration
+17%26%35%
+19%29%39%
+16%24%34%
+12%20%29%
+0%10%20%30%40%50%
+Top 5 Top 10 Top 20
+FY'23 FY'24 FY'25 FY'26FY’2587
+FY’26101
+=== page 13 ===
+Board of Directors
+Saurabh Srivastava
+Independent 
+DirectorSubramaniam 
+Ramnath Iyer
+Independent Director
+Padmaja Krishnan
+Independent
+Director
+Diwakar Nigam
+Chairman and 
+Managing Director
+T.S. Varadarajan
+Whole 
+Time Director
+Priyadarshini Nigam
+Whole 
+Time Director
+Sudhir Sethi
+Independent Director
+Shubhi Nigam
+Non-Executive Director
+
+=== page 14 ===
+Leadership Team
+Diwakar Nigam
+Chairman and Managing Director
+Tarun Nandwani
+Chief Operating Officer
+Anand Raman
+EVP & COO -Newgen Software Inc. 
+Rajvinder Singh Kohli
+Sr. VP –Global GSI Sales
+Virender Jeet
+Chief Executive Officer
+Dr. S.J. Raj
+EVP –Global Business Strategy and HR
+Arun Kumar Gupta
+Chief Financial Officer
+Sunil Pandita
+Sr. VP –Sales (India & South Asia)
+Vivek Bhatnagar
+Sr. VP –Sales (MEA)
+
+=== page 15 ===
+Leadership Team
+R. Krishna Kumar
+VP –Sales 
+(Australia)
+Pramod Kumar
+VP –Sales (APAC)
+Anurag Kumar Shah
+VP –Product & 
+Solutions 
+(Americas)Arpan Bansal
+VP –Marketing 
+(Govt. & GSI 
+Initiatives)
+Nikhil Sawhney
+VP –Customer 
+Relations 
+(EMEA, APAC)
+Prashant Sahai
+VP –Sales  
+(Middle East)
+Atin Kumar
+VP-Global 
+Delivery
+Sandeep Hinduja 
+VP –Sales 
+(Americas)
+Nitin Gupta
+VP –Customer 
+Success (Americas)
+Ritesh Varma
+VP –Product & 
+Solutions (India, 
+EMEA, APAC) 
+Shikha Bhatt
+VP –Delivery 
+(India)
+Sanjay Pandey
+VP –Product 
+EngineeringVarun Goswami
+VP –Product 
+Management
+RunkiGoswami
+VP –Marketing
+PurushotamSavlani
+VP -Sales  (KSA)
+Rajnish Kumar
+VP –HR (Talent 
+Management & DEI)
+Deepika Kapoor
+VP –Product
+Dinesh Kumar 
+Parikh
+VP –Product
+Kaushal Verma
+VP –New 
+Solutions Group 
+(Banking)
+AnagatPareek
+VP –Cloud and 
+Cyber Security
+Saras Agarwal
+VP –Healthcare 
+COE and Strategic 
+Accounts (US)
+Jagadish Yarlagadda 
+VP –Sales 
+(Americas)
+Kashish Daya Kapoor
+CHRO
+
+=== page 16 ===
+FY’26 and Q4 FY’26 Results
+=== page 17 ===
+Financial Summary (Consolidated)
+YoY 
+GrowthFY'25 FY’26 YoY 
+GrowthQ4FY25 Q4FY26 Particulars 
+5.9% 14,869 15,744 5.3% 4,299 4,527 Revenue from operationsRevenue 
+(INR Mn) 5.4% 636 670 -69.2% 141 43 Other Income
+5.9% 15,505 16,414 2.9% 4,440 4,570 Total Income
+7.9% 3,762 4,058 10.9% 1,372 1,521 EBITDAProfits 
+(INR Mn) 6.0% 3,152 3,343 4.0% 1,083 1,127 Profit after tax (excl. 
+Exceptional items)*
+25.3% 25.8% 31.9% 33.6% EBITDAMargin (%) 21.2% 21.2% 25.2% 24.9%Profit after tax (excl. 
+Exceptional items)* (on 
+revenue)
+5.5% 22.53 23.77 3.6% 7.73 8.01 Basic*EPS 
+(INR) 7.9% 21.89 23.62 5.0% 7.58 7.96 Diluted**
+FY’26v/sFY’25
+Revenueswitnessedgrowthof6%YoY.Annuityrevenueswitnessed16%YoYgrowthandcontributed62%torevenues.
+Profitaftertax(excl.Exceptionalitems)witnessedgrowthof6%
+** Excluding Exceptional items, net of tax adjustment
+=== page 18 ===
+Revenues Across Verticals and Geographies
+Q4 FY’26 Revenue Split by VerticalQ4 FY’26 Revenue Split by Vertical Q4 FY’26 Revenue Split by GeographyQ4 FY’26 Revenue Split by Geography Q4 FY’26 Revenue Split by SegmentQ4 FY’26 Revenue Split by Segment
+Banking
+65%Govt.
+8%Insurance & 
+Healthcare
+19%Others
+8% India
+28%
+EMEA
+30%USA
+23%APAC (Ex-India)
+19%Sale of 
+Products
+19%
+SaaS
+13%
+ATS/AMC
+19%Support
+26%Implementation 
+& other services
+23%
+=== page 19 ===
+Key Business Highlights
+Revenues in US geography witnessed a growth of 17% YoY , followed by revenues in APAC 
+geography which witnessed a growth of 14% YoY
+Increasing base of customers with over Rs 50Mn billing  from 87 in FY’25 to 101 in FY’26
+47 new logos onboarded during the year , reinforcing the trust and preference global 
+enterprises place in our platform
+Certified
+  by Great Place To Work® , for the second consecutive year
+Overall, 67 patents filed by Newgen in India and US till date , 12 patents filed and 2 granted 
+during the year.
+TotalBookings upby13%YoY
+=== page 20 ===
+Key Wins
+•Providing Retail Loan Origination Solution to a leading Bank in Malaysia. The aggregate order value is 
+RM 6,750,000 
+•Entered into an agreement with a leading Insurance company in Illinois, USfor Policy Binding 
+Solution, with an order value of US 1.6Mn 
+•Executed an agreement with a leading bank in Kuwait for Corporate Finance Origination Solution 
+(Islamic), Retail Finance Origination Solution (Islamic), and Customer Communication Management 
+System. The aggregate value of the order is USD 2.22 Mn
+•Working with an insurance company in the Caribbean region for supply, installation & 
+implementation of the NewgenONEDigital Transformation Platform . The aggregate value of the 
+Agreement is US 1.5Mn
+•Working with a large reputed Government Organisationbased in UAE for building an Automatic 
+Exchange of Information -Pillar 2 tax compliance system . The aggregate value of the agreement is 
+AED 5.3Mn
+=== page 21 ===
+Debtors Days
+Debtor Days (Based on Net Debtors)
+Note: The business is seasonal in nature with proportionately higher revenues and debtor days in the year end period (March)131145
+130138164
+020406080100120140160180
+Mar-22 Mar-23 Mar-24 Mar-25 Mar-26
+=== page 22 ===
+Disclaimer
+This presentation may contain certain forward-looking 
+statements concerning Newgen Software Technologies’ 
+future business prospects and business profitability, which 
+are subject to several risks and uncertainties and the actual 
+results could materially differ from those in such 
+forward-looking statements. 
+The risks and uncertainties relating to these statements 
+include, but are not limited to, risks and uncertainties 
+regarding fluctuations in earnings, our ability to manage 
+growth and new business opportunities, competition (both 
+domestic and international), economic growth in India and 
+the target countries for business, ability to attract and retain 
+highly skilled professionals, time and cost over runs on 
+projects, our ability to manage our international operations, 
+government policies, interest and other fiscal costs generally 
+prevailing in the economy and general economic conditions 
+affecting the industry. Past performance may not be
+indicative of future performance. 
+The company does not undertake to make any 
+announcement in case any of these forward-looking 
+statements become materially incorrect in future or update 
+any forward-looking statements made from time to time by
+or on behalf of the company. For any investor queries, please contact:
+Deepti Mehra Chugh
+Head –Investor Relations
+Phone: +91 1146 533 200
+Mail : deepti.chugh@newgensoft.com     www.newgensoft.comFor any investor queries, please contact:
+Deepti Mehra Chugh
+Head –Investor Relations
+Phone: +91 1146 533 200
+Mail : deepti.chugh@newgensoft.com     www.newgensoft.com
+India Offices include Mumbai, Chennai, Bengaluru, Kolkata, Hyderabad, Noida, New Delhi!
+Mississauga, ON
+Tampa, FL
+McLean, VALondon, UK
+Dubai, AENew Delhi, IN
+Mumbai, IN
+Bengaluru, INChennai, IN
+Singapore, SGSydney, AU
+Global Offices
+San Francisco, CANew York, NYRiyadh, KSA
+Saudi Arabia
+=== page 23 ===
+P&L Statement
+FY 2025 FY 2026 Q4 FY 2025 Q3 FY 2026 Q4 FY 2026(All amounts in INR Mn, except per share data and 
+unless otherwise stated) 
+Revenue 
+14,868.8 15,744.0 4,298.9 4,002.8 4,526.7 Revenue from operations 
+635.8 670.1 141.2 200.5 43.5 Other income 
+15,504.6 16,414.0 4,440.1 4,203.3 4,570.2 Total revenue 
+Expenses 
+7,410.4 7,422.7 1,940.9 1,893.6 1,828.0 Employee benefits 
+47.7 54.7 14.1 20.8 9.9 Finance costs 
+330.4 365.9 86.5 90.6 93.7 Depreciation and amortization 
+3,696.3 4,263.5 985.9 1,046.8 1,177.4 Other expenses 
+11,484.9 12,106.8 3,027.4 3,051.8 3,109.0 Total expenses 
+4,019.7 4,307.2 1,412.7 1,151.5 1,461.2 Profit before tax 
+- 434.3 351.0 83.3 Exceptional Items
+Tax expenses 
+987.2 1,085.0 332.3 272.1 392.8 Current tax / Tax expense for earlier years
+-119.9 -217.9 -3.0 -99.7 -77.9 Deferred tax (credit)/charge
+3,152.4 3,005.8 1,083.4 628.1 1,063.0 Profit after tax for the year 
+35.4 274.5 19.3 52.7 123.9 Other comprehensive income/(loss) for the year, net of income tax
+3,187.9 3,280.3 1,102.7 680.8 1,186.8 Total comprehensive income for the year
+Earnings per equity share (face value of Rs. 10 per share) 
+22.53 21.38 7.73 4.46 7.56 Basic earning per share 
+21.89 21.24 7.58 4.37 7.51 Diluted earning per share 
+=== page 24 ===
+Your Trusted Digital Transformation Partner
+info@newgensoft.com www.newgensoft.com

@@ -1,0 +1,75 @@
+^
+Date: October 27, 2026
+The BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai-400001National Stock Exchange of India Ltd.
+Exchange Plaza, Plot no. C/l, G Block,
+Bandra-Kurla Complex, Bandra (East)
+Mumbai-400051
+Scrip Code: 530117 Scrip Code: PRIVISCL
+Sub:neclaration of Voting Results of the business transacted at the Shareholders Meeting Convened
+pursuant to the order dated September 07, 2026, of the Hon'ble National Company Law Tribunal,
+Mumbai Bench ("NCLT")
+Dear Sir,
+Pursuant to Regulation 44(3) of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 as amended, please find enclosed the details of combined
+Voting Results (through remote e-voting prior to AGM and e-voting during the AGM) of the business
+transacted at the Shareholders Meeting Convened pursuant to the order dated September 07, 2026,
+of the Hon'ble National Company Law Tribunal, Mumbai Bench ("NCLT") held on Tuesday, October 27,
+2026. Voting Result is being uploaded in XBRL mode as well.
+The Voting Results is also available on the website of the Company at www.privi.com and on the
+website of MUFG Intime India Private Limited (https: //instavote.linkintime.co.in/)
+Further, please note that the resolution set out in the Notice of the said meeting have been duly
+passed with requisite majority.
+Kindly take the above on record.
+Thanking You,
+Yours Sincerely,
+For PRIVI SPECIALITY CHEMICALS LIMITED
+ASHWINISAUMILSHAH
+COMPANY SECRETARY & COMPLIANCE OFFICER
+ACS:58378^:'.:s7 •CPREGD.5 •=;, a7 \ OFFICE'. *'^^^s<~.t^^Wbai
+End: As above
+1809001:2015
+ISO 14001-.2015
+18045001:2018
+BUREAU VER1TAS
+CertificationPRIVI SPECIALITi' CHEMICALS LIMITED
+Knowledge Centre & Regd. Office : Privi House, A-71, HC, Thane Belapur Road, Near Kopar Khairane Railway Station,
+Navi Mumbai - 400 710. India | Tel. : +91 22 68713200 / 33043500 / 33043600 / 27783040 / 27783041 / 27783045
+Fax: +91 2227783049/68713232 | Email: enquiry@privi.co.in | Web: www.privi.com | GIN: L15140MH1985PLC286828
+[1] [2] [3]={[2]/[1]}*100 [4] [5] [6]={[4]/[2]}*100 [7]={[5]/[2]}*100 [8]
+E-Voting        2,18,80,254                       92.43        2,18,80,254                      -                       100.00                              -                -   
+Poll                         -                                -                           -                        -                                -                                -                -   
+Postal Ballot                         -                                -                           -                        -                                -                                -                -   
+Total        2,18,80,254                       92.43        2,18,80,254                      -                       100.00                              -                -   
+E-Voting           36,83,055                       84.56             6,31,074        30,51,981                       17.13                       82.87              -   
+Poll                         -                                -                           -                        -                                -                                -                -   
+Postal Ballot                         -                                -                           -                        -                                -                                -                -   
+Total           36,83,055                       84.56             6,31,074        30,51,981                       17.13                       82.87              -   
+E-Voting           41,37,569                       37.49           41,35,762               1,807                       99.96                         0.04              -   
+Poll                          1                              -                            1                      -                       100.00                              -                -   
+Postal Ballot                         -                                -                           -                        -                                -                                -                -   
+Total           41,37,570                       37.49           41,35,763               1,807                       99.96                         0.04              -   
+Total    3,90,62,706        2,97,00,879                       76.03        2,66,47,091        30,53,788                       89.72                       10.28              -   Promoter and Promoter 
+Group
+Public Institutions
+Public Non Institutions   2,36,71,974 
+      43,55,627 
+   1,10,35,105 No. of Votes – 
+in favourNo. of Votes 
+–Against% of Votes in 
+favour on votes 
+polled% of Votes against 
+on votes polledNo. of 
+votes 
+InvalidCategoryMode of 
+VotingNo. of shares 
+heldNo. of votes 
+polled% of Votes Polled 
+on outstanding 
+sharesResolution Required :Ordinary1 - To Approve the proposed Scheme of Amalgamation of Privi Fine Sciences Private Limited (Transferor Company 1), Privi 
+Biotechnologies Private Limited  (Transferor Company 2) with Privi Speciality Chemicals Limited (Transferee Company) and their 
+respecve Shareholders under Secon 230 to 232 and other applicable provisions of Companies Act, 2013 Ordinary
+Whether promoter/ promoter group are interested in the 
+agenda/resolution?YesPrivi Speciality Chemicals Limited

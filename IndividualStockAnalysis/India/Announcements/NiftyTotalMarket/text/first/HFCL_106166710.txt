@@ -1,0 +1,151 @@
+                      
+ 
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan -173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902  
+Corporate Identity Number: L64200HP1987PLC007466 
+HFCL/SEC/ 24-25        
+March  06, 202 5 
+ 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort 
+Mumbai – 400001  
+corp.relations@bseindia.com  
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+ 
+ 
+Subject:  Press Release:  HFCL  offers seamless connectivity & security solutions At Mahakumbh 2025, 
+along with telecom operators and infrastructure providers  
+ 
+Dear Sir(s)/ Madam,  
+ We are pleased to announce to all our stakeholders that the Company has successfully enabled robust 
+connectivity at the Maha Kumbh Mela 2025 in Prayagraj, supporting one of the world’s largest religious events, 
+with over 660 million pilgrims attending in 45 days.  The solution was conceptualized and offered in partnership 
+with one of the leading operators who front -ended this mega requirement at the world’s largest congregation 
+of devotees.  
+ 
+The Company has also offered top -of-the- line security  infrastructure solutions in partnership with a leading 
+infrastructure provider. These deployments showcase Company’s  expertise in leveraging indigenous 
+technology to deliver high -performance network solutions at scale.  
+ 
+We are enclosing  herewith  a Press Release in this regard . 
+ We request to take the above information on  your record s and disseminate the same on your respective 
+websites.  
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For HFCL Limited    
+ 
+ 
+ 
+ (Manoj Baid)  
+President & Company Secretary  
+ 
+Encl.: Press Release.  
+ 
+Press Release  
+For immediate Release  
+ 
+ 
+HFCL OFFERS SEAMLESS CONNECTIVITY &  SECURITY SOLUTIONS AT MAHAKUMBH  2025, ALONG WITH 
+TELECOM OPERATORS AND INFRASTRUCTURE PROVIDERS  
+ 
+• HFCL ’s cutting -edge product portfolio enabled uninterrupted connectivity across the 2025 Prayag 
+Maha Kumbh Mela, handling unprecedented volume s of data ever seen in a single spot in a day . 
+ 
+• The network supported lakhs of concurrent users, ensuring high- speed access even during peak 
+demand.  
+ 
+• HFCL integ rated cutting -edge surveillance systems, ensuring real -time monitoring and enhanced 
+safety across the sprawling event area.  
+ 
+New Delhi, March  06, 2025: HFCL Limited (HFCL), a leading technology enterprise and provider of integrated 
+next -gen communication solutions  successfully enabled robust  connectivity at the Maha Kumbh Mela  2025 in 
+Prayagraj,  supporting one of the world ’s largest religious events , with  over 660 million pilgrims attending in 45 
+days . The solution was conceptualized and offered in partner ship with one of the leading operators  who front -
+ended this mega requirement  at the world ’s largest congregation of devotees .  
+ 
+Additionally, HFCL also offered top -of-the-line security infrastructure solutions in partnership with a leading 
+infrastructure provider. These deployment s showcase HFCL ’s expertise in leveraging indigenous technology to 
+deliver high -performance network sol utions at scale.  
+ 
+The sheer scale of the Kumbh Mela presented signi�icant challenges  for telecom operators and  infrastructure 
+providers , including network congestion in high- density zones, need for real -time video monitoring and 
+reliable backhaul infrastructure to support millions of connected devices.  
+ 
+HFCL ’s fully homegrown  solutions successfully addressed these  challenge s by deploying a comprehensive 
+network and surveillance system ensuring reliable connectivity, ef�icient crowd management, and enhanced 
+public security.  Through the strategic deployment of Wi- Fi Access Points, High Capacity Backhaul  Radios, L2 
+Switches for the surveillance backbone, and a Video Management System, HFCL created a secure and connected 
+environment for this large -scale  event.  
+ The network  infrastructure successfully handled unprecedented peak data traf�ic ever seen at a single spot per 
+day, signi �icantly of�loading strain on cellular networks , and facilitating seamless digital access for  over lakh s of 
+unique users  daily . 
+ To enhance  connectivity, HFCL strategically  deployed around 360 Wi-Fi hotspots, designed, developed and 
+manufactured  entirely in India, reaf�irming its commitment to “Make in India ”. This infrastructure upgrade 
+enable d pilgrims and event personnel s to access real -time information and communicate effortlessly.  
+Complementing this setup HFCL's High Capacity Backhaul  Radio s, provided critical backhaul support , ef�iciently 
+transferring data from mobile networks (4G/5G) to the core  infrastructure. This  ensured high -speed internet 
+access for users and connected devices, including Wi -Fi hotspots, CCTV cameras, and mobile phones, even 
+during peak usage periods.  
+  
+ 
+Security was a critical aspect of the event, and HFCL ’s comprehensive surveillance infrastruct ure played a 
+vital role in maintaining safe and secure environment. The backbone of L2 Switches (8 -port and 24- port)  
+deployed  ensured seamless data transmission between CCTV cameras and monitoring systems, while HFCL ’s 
+advanced Video Management System (VMS)  enabled real -time video monitoring  for better crowd control and 
+security management. This ensured high- quality video streaming and recording, allowing authorities to 
+respond proactively to potential safety concerns.  
+ 
+Speaking about HFCL ’s contribution to the event, Mahendra Nahata, Managing Director, HFCL,  said, “The 
+Maha Kumbh 2025 tested the resilience of digital infrastructure like never before and we are proud that HFCL’ s 
+indigenously developed solutions were not only able to meet but exceed expectations.  This deployment underscores 
+our expertise in deploying large- scale, high -density network solutions which was able to handle terabytes of data 
+traf�ic seamlessly while ensuring uninterrupted, high -speed connectivity  and real time surveillance.  More 
+importantly, this is a testament to India ’s growing capability to develop world class technology solutions under the 
+‘Make in India ’ vision. This achievement sets a new benchmark for HFCL in managing digital infrastructure at such 
+mega -events. ” 
+ 
+Abou t HFCL  
+ 
+HFCL is a leading technology company specialising in creating digital networks for telcos, enterprises and 
+governments. Over the years, HFCL has emerged as a trusted partner offering sustainable high -tech  solutions 
+with a commitment to provide the latest technology products to its customers. Our strong R&D expertise 
+coupled with our global system integration services and decades of experience in �iber optics enable us to 
+deliver innovative digital network solutions required for the most advanced networks.  
+ 
+The Company ’s in-house R&D Centers located at Gurgaon, Bengaluru and Hyderabad along with invested R&D 
+houses and other R&D collaborators at different locations in India and abroad, innovate a futuristic range of technology products and solutions. HFCL has developed capabilities to provide premium quality Optical Fiber 
+and Optical Fiber Cables, state-  of-the-art telecom products including 5G Radio Access Network (RAN) products, 
+5G Transport Products, Wi -Fi Systems (Wi -Fi 6, Wi- Fi 7), High Capacity Backhaul  Radios, Switches, Routers and 
+Defence electronics products viz. Thermal Weapon Sights, Electronic Fuzes, High -Capacity  Radio Relay and 
+Surveillance Radars.  
+ The Company has state- of-the- art Optical Fiber and Optical Fiber Cable manufacturing plants at Hyderabad, 
+Optical Fiber Cable manufacturing plant in Goa and in its subsidiary HTL Limited at Chennai. The Company ’s 
+recently set -up plant in Manesar is focused on telecom equipment production, with products  that qualify under 
+the Government of India ’s Production -Linked Incentive (PLI) Scheme.  
+ 
+HFCL is a partner of choice for its customers across India, Europe, Asia Paci�ic, Middle East, Africa and USA. HFCL ’s commitment to quality and environmental sustainab ility inspires it to innovate solutions for the ever-
+evolving customer needs.  
+ 
+Visit www.hfcl.com for more information.  
+ 
+HFCL Limited  
+Manoj Baid | Amit Agarwal | Alok Chander  
+ 
+Email: manoj.baid@hfcl.com   
+amit.agarwal@hfcl.com   
+alok@hfcl.com   
+ 
+Contact: +91 11 35209400  Kommune PR  
+Ruby Sinha | Saurabh Gupta | Saurav  
+ 
+Email: hfcl@kommune.in 
+ 
+Contact: +91 98180 75578, +91 96542 44050  
+ 

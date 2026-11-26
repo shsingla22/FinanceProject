@@ -1,0 +1,179 @@
+ 
+  
+August 30, 2025  
+ 
+To  
+National Stock Exchange of India Ltd  
+Exchange Plaza, 5th Floor, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E), Mumbai 400051  
+NSE Symbol: ATHERENERG   
+ To  
+BSE Limited  
+1st Floor, Phiroze  Jeejeebhoy Towers  
+Dalal Street Mumbai – 400001  
+Scrip Code: 544397   
+ 
+Dear Sir/ Madam,  
+ 
+Sub: Press Release  
+ 
+Please find enclosed press release t itled “Ather Energy unveils EL, its next -generation scooter platform built for 
+versatility, scalability, and cost optimisation, at Ather Community Day 2025 .” 
+ 
+Kindly take the above -said information on record . 
+ 
+Thank you  
+ 
+For Ather Energy Limited  
+ 
+ 
+ 
+Puja Aggarwal  
+Company Secretary and Compliance officer  
+Membership no : A49310  
+ 
+ 
+Ather Energy unveils EL, its next -generation scooter platform built for versatility, 
+scalability, and cost optimisation, at Ather Community Day 2025  
+ 
+~ All-new EL platform will drive the next phase of growth for Ather Energy  
+~ AtherStackTM 7.0 will introduce voice as a new medium of interaction with its scooters, along with a 
+host of new features  
+~ Launched next generation of fast chargers delivering double the charging  speed  
+~ Launched Infinite CruiseTM, its advanced cruise control system designed specifically for Indian riding 
+conditions  
+~ Rizta, Ather’s family scooter will now get a touchscreen dashboard, a new colour, and a new riding 
+mode  
+ 
+National, 30th August 2025: Ather Energy, India’s leading electric two -wheeler manufacturer, today 
+announced a series of significant product and technology developments at the third edition of Ather 
+Community Day 2025. Ather unveiled its highly anticipated all -new EL platform, its fi rst vehicle 
+architecture since the 450. Built for versatility, scalability, and cost optimisation,  the EL platform sets 
+the stage for an entirely new generation of Ather scooters across multiple segments, redefining what 
+perfor mance, choice, and innovation mean for Indian riders.  
+Ather also introduced AtherStackTM 7.0, featuring voice as a new medium of interaction with scooters, 
+along with a host of new features designed to make tech more intuitive and easy to use. In addition, 
+Ather announced its next -generation fast charger, enabling quicker charging for EV owne rs, along with 
+updates to its existing product lineup.  
+Tarun Mehta, Co -founder & CEO, Ather Energy, said, “With the EL platform, we are laying the 
+foundation for Ather’s next phase of growth. Just as the 450 defined our first chapter, EL will define 
+the next, enabling us to develop multiple types of scooters at scale far more efficiently. This platform -
+first a pproach enables faster innovation and improved efficiency, serviceability, and rider experience. 
+EL reflects years of learning, deep R&D, and engineering. Our new factory at Chhatrapati 
+Sambhajinagar  will scale with EL platform products to meet growing demand effectively.”  
+EL Platform  
+Ather’s next -generation  EL platform is designed to meet the evolving and diverse needs of electric 
+scooter buyers in India. The EL platform offers the flexibility to build a wide variety of form factors by 
+utilising a common set of key components. It has been designed on the bac k of 26 Lakh kms of field 
+data and features a new chassis, powertrain, and fully redesigned electronics stack. The versatility it 
+offers enables Ather to cater to different consumer segments, use cases, and markets while being 
+more cost -effective. The simp ler architecture and reduced component count enable 15% faster 
+assembly. This also allows up to 2X faster periodic services, increasing the service interval up to 10,000 
+km. 
+The EL platform also introduces significant advancements to safety and convenience. Safety is 
+improved through the Advanced Electronic Braking System (AEBS), which enhances braking 
+performance by reducing stopping distance and minimizing rear -wheel lockups . Convenience is 
+elevated via the Ather Charge Drive Controller, which integrates an onboard charger with a motor 
+controller, removing the need for customers to carry their portable chargers.  
+ 
+ 
+ 
+Redux  
+Ather also showcased Redux, a concept moto -scooter that offers a glimpse into the future of 
+performance. Designed with an ‘inside out’ approach, Redux redefines how intuitive a vehicle can be, 
+masterfully combining the nimbleness of a scooter with the dyna mics of a motorcycle. The vehicle 
+feels like a natural extension of your body and is built around responsiveness and adaptability. It 
+features a lightweight aluminium frame, a 3D -printed lattice mesh seat, and body panels crafted from 
+future -ready material s like AmplyTex.  
+It introduces experiences such as adaptive ride dynamics, posture -based transformation from scooter 
+to sport bike, and Morph -UI, a next -gen HMI that transforms based on riding context to truly adapt to 
+the rider’s intent. It also builds a new, thrilling ex perience called "Take off", designed to launch your 
+vehicle forward with ultra -fast acceleration. Redux is a collection of all these mechanical and digital 
+explorations, showcasing Ather’s vision for the future of intelligence and performance.  
+AtherstackTM 7.0 
+Ather will also release AtherStackTM 7.0, the biggest upgrade to its proprietary technology stack that 
+powers all magical experiences on Ather scooters. AtherStackTM 7.0 is designed to make technology 
+more mainstream and intuitive for riders by introducing a new medium of interaction with the scooter 
+via voice. Unlike traditional voice assistants, it uses natural language capabilities, enabling seamless 
+conversations.  AtherStackTM 7.0 can proactively alert riders to share live location, update them on tyre 
+pressure, and other important information.  
+Swapnil Jain, Co -founder & CTO at Ather Energy,  said, “At Ather, we have always focused on 
+simplifying technology and making it mainstream for riders. With AtherStackTM 7.0, we’re bringing AI 
+into everyday riding through an LLM ( Large Language Model)  trained for our use cases and tuned to 
+Indian dialects. Voice is the first step in that journey, an interface beyond buttons that makes rides 
+smarter, safer, and more intuitive. It also makes our existing suite of AtherStackTM 7.0 features more 
+accessible and mainstream for everyday use.”  
+Rider safety features like Pothole Alerts and Crash Alerts have also been introduced to enhance rider 
+safety. Leveraging data from lakhs of Ather scooters nationwide, Pothole Alerts warn riders of a bad 
+patch of road or potential potholes and suggest bette r routes, complemented by proactive voice 
+notifications when approaching rough patches. Crash Alerts distinguish between minor and severe 
+accidents, and automatically notify emergency contacts with live location, while also displaying critical 
+rider detail s on the dashboard.  
+Ather has also strengthened vehicle security by expanding its theft -safety suite with the introduction 
+of ParkSafeTM and LockSafeTM features. ParkSafeTM builds on the theft and tow alerts feature launched 
+in 2021, using fleet intelligence to notify owners about potentially unsafe parking zones. LockSafe adds 
+the ability to remotely immobilize the scooter directly from the app. In addition, new remote -control 
+features allow owners to start or stop charging or even shut down the vehicle from anywhere.  
+AtherSt ack™ 7.0 will roll out as an over -the-air (OTA) update in the coming months, and will be 
+backward compatible with the Rizta Z and the Ather 450X up to Gen 3 scooters.  
+Complementing the software upgrade, Ather has unveiled updates to the Ather HALOTM smart helmet. 
+This includes new colours, emergency pull -out padding, a pinlock compatible anti -fog visor, and USB -
+C charging. HALO’s premium sound with noise reduction ensures a seamless integration with the 
+scooter’s voice capabilities.  
+ 
+ 
+ 
+Infinite Cruise  
+Ather has also updated the 2025 Ather 450 Apex with Infinite CruiseTM, its own advanced cruise control 
+system designed specifically for Indian riding conditions. Infinite Cruise delivers three distinct 
+experiences tailored for varied scenarios - CityCruiseTM, Hill Control, and Crawl Control. CityCruiseTM 
+works across speeds, from slow city rides to 90 km/h on highways, without disengaging when the 
+rider brakes or changes speed, adapting seamlessly to the new pace. Hill Control manages inclines 
+with ease, precisely delivering torque for uphill climbs. It u ses the Magic Brakin g Algorithm (which 
+powers Magic TwistTM) for downhill descents, maintaining a consistent speed through regenerative 
+braking without manual intervention. Crawl Control ensures smooth low -speed navigation on rough or 
+uneven roads at speeds as low as 10 km/h. Crawl Control is enhanced with Multimo de Traction Control 
+for stability on wet or slippery surfaces. Infinite CruiseTM will also roll out on the 2025 Ather 450 Apex 
+in the coming months.  
+Rizta  
+Ather announced a major upgrade for the Rizta  Z, where every existing customer will now receive an 
+OTA update that activates full touchscreen functionality, made possible by the advanced hardware 
+already built into the scooter. Existing owners will receive an OTA update that activates touchscreen 
+functionality and Eco Mode in the next few weeks. The Rizta Z is now available in a new Terracotta 
+Red colour with a super -matte, dual -tone finish, adding a distinctive option to the lineup. The update 
+also introduces a refreshed user interface and a new Eco Mode, giving riders the ability to balance 
+performance with range.  
+Next Generation Faster Charging  
+Ather also unveiled its next -generation fast charging experience, designed to enhance convenience 
+with faster charging. The new 6 kW charger is half the size of the current Ather fast charger and delivers 
+double the speed in select Ather variants, adding u p to 30 km of range in just 10 minutes. Select Ather 
+fast chargers also feature a built -in tyre inflator to tackle low pressure and increase range. With the 
+LECCS standard now adopted by 10 partners including OEMs such as Hero Vida, Matter and charge 
+point  operators like Bolt, Kazam, EVamp, interoperability across the industry is stronger than ever.  
+ 
+About Ather Energy Limited  
+Ather Energy Limited (ATHERENERG | 544397 | INE0LEZ01016) is a pioneer in the Indian electric two -wheeler 
+(“E2W”) market (CRISIL Report). Founded in 2013 by Tarun Mehta and Swapnil Jain, Ather designs and 
+manufactures high -performance electric scooters. Th e company launched its first electric scooter in 2018. Its 
+current E2W portfolio consists of two distinct product lines: the Ather 450 series, focused on performance -
+oriented customers, and the Ather Rizta, a convenience -first family scooter line launched in 2024. Together, these 
+product lines offer a total of 8 variants. Ather was the first two -wheeler OEM in India to establish a dedicated fast 
+charging network, the Ather Grid, which is designed and built in India. Today, Ather operates the widest 2W fast 
+charging network in the country. As of June 30, 2025, Ather has installed 4,032 Fast chargers and Neighbourhood 
+chargers globally, including 3,997 across India and 35 across Nepal and Sri Lanka. With a strong emphasis on 
+R&D and innovation, as of June 30, 2025, the company holds 318 registered trademarks, 204 registered designs, 
+and 48 registered patents, along with pending applications for 88 trademarks, 27 designs, and 383 patents 
+globally.  
+ 
+ 
+ 
+For more information:  
+Ather Energy Limited  
+Murali Sashidharan - murali.sashidharan@atherenergy.com     
+Karthisree - karthi.sree@atherenergy.com     
+ 
+Adfactors PR  
+ather@adfactorspr.com    
+ 
+ 
+ 

@@ -1,0 +1,65 @@
+I3SE The Power of Vibrance 
+Registered Oﬃce: BSE Limited, Floor 25, P J Towers, Dalal Street, Mumbai - 400 001, India. T:+91 22 2272 1234/33 | E:corp.comm@bseindia.com
+www.bseindia.com | Corporate Identity Number: L67120MH2005PLC155188
+BSE - PUBLICMay 27, 2025
+To,
+The Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, 5thFloor, Plot No. C/1
+G Block, Bandra-Kurla Complex, Bandra (E)
+Mumbai – 400 051
+Symbol: BSE ISIN: INE118H01025
+Subject: Trading Member level Throttle Limit/ Messages Per Second (MPS) in Equity Derivatives
+segment
+Dear Madam/Sir,
+Please find attached herewith the notice issued by the Exchange with reference to revision in
+Trading Member level Message Per Second (MPS) Limit Charge Structure.
+This intimation is also being made available on the website of the Company at www.bseindia.com
+This is for your information and records.
+Yours faithfully,
+For BSE Limited
+Vishal Bhat
+Company Secretary and Compliance Officer
+
+NOTICES 
+Notice No. 20250527-65  Notice Date  27 May 2025 
+Category Trading  Segment  Derivatives 
+Subject  Trading Member level Throttle Limit/ Messages Per Second (MPS) in Equity Derivatives segment 
+Attachments  Annexure 1.zip 
+Content 
+In continuation to Exchange notice 20240930-65 dated September 30, 2024, and notice no. 20250306-55 dated March
+06, 2025, on the above subject, following changes are proposed to be implemented with effect from Monday, 30 June,
+2025.
+Revision in Trading Member level Message Per Second (MPS) Limit Charge Structure: Trading Member level MPS
+and the corresponding annual charges would be revised as under:1.
+  
+Note: Trading Members desirous of having additional MPS may apply in multiples of 1000 subject to maximum of 1,00,000
+MPS.
+Trading Members may note that the existing charge structure would continue to be applicable till June 27, 2025. 
+The revised charge structure would be effective from June 30, 2025, and the first billing month would be from June 30,
+2025, to July 31, 2025, and thereafter billing cycle would be on monthly basis.
+  2. Message Per Second (MPS) Limit Monitoring Mechanism:
+With the objective of enhancing trading efficiency, Exchange will review and if required, optimise the subscribed MPS limits
+across all Trading Members of the Exchange on a Monthly basis..●
+Additionally, Exchange would continuously monitor the aggregate MPS utilisation across all Trading Members on Intraday
+basis. In the scenario of utilisation exceeding pre-determined threshold at Exchange level, the limits would be revised and/or
+restored on intraday basis, as applicable●
+Detailed process for the above is mentioned in Annexure 1.●
+Trading Members, empanelled trading application vendors and the back-office vendors may kindly take note of the above
+changes and carry out necessary changes to their applications, if need be.
+To facilitate smooth transition to new structure, Trading Members and their software providers are advised to undertake
+necessary testing of the software in the mock session to be scheduled on Saturday, 28 June 2025.
+In case of any queries, Trading Members may kindly get in touch with us as per following contact details
+Queries Email ID   Telephone No. 
+Functional queries  iml.info@bseindia.com    022-2272 8705/ 8885 
+Technical queries  bse.tech@bseindia.com 022-2272 8053 
+ 
+For & On Behalf of BSE Ltd, 
+ 
+ 
+ 
+Ketan Jantre Vivek Garg 
+Head - Trading Operations Head - Trading Development 
+ 
+ 
+ 

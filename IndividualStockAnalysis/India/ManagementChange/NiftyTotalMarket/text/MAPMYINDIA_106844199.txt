@@ -1,0 +1,2440 @@
+MAPP LS®
+November 04, 2026
+The Listing Department
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street
+Mumbai 400 001
+BSE SCRIP Code: 543425
+
+The Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza
+Bandra Kurla Complex, Bandra (East)
+Mumbai 400 051
+NSE Symbol: MAPMYINDIA
+
+Subject: Outcome of the Board Meeting held on November 04, 2026 of C.E. Info
+Systems Limited (hereinafter referred to as “the Company”) under Regulation
+30 of SEBI (Listing and Obligations and Disclosure Requirements) Regulations,
+2015.
+Dear Sir / Madam,
+This is with reference to our earlier intimation dated October 28, 2026, we wish to
+inform you that the Board of Directors of the Company (the “Board”), at its meeting
+held today, i.e. November 04, 2026, commenced at 10:00 AM and concluded at 2:30
+PM, has inter-alia approved the following agenda items among other items:
+1. The Board discussed and approved Un-Audited Standalone and Consolidated
+Financial Results of the company alongwith the Limited Review Report issued by the
+Statutory Auditors of the Company for the quarter & half year ended 30th September,
+2026 as reviewed and recommended by the Audit Committee. The Copy of the said
+Un-audited Standalone & Consolidated Financial results alongwith the Limited
+Review Report for the quarter & half year ended 30th September, 2026 are attached as
+Annexure-A.
+2. Mr. Abhit Kalasotra was appointed as Chief Technology Officer (CTO), Software
+Engineering of the Company under the category of Senior Management Personnel
+(SMP). The details required pursuant the Regulation 30 of SEBI (Listing Obligation
+and Disclosure Requirements) Regulations, 2015, read with SEBI Circular
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026, dated 30th January, 2026 is annexed
+as Annexure-B
+3. The designation of Mrs. Rashmi Verma was changed from Chief Technology Officer
+(CTO) & Chief Human Resource Officer (CHRO) to Chief Innovation Officer (CIO)
+under the category of Senior Management Personnel (SMP). The details required
+pursuant the Regulation 30 of SEBI (Listing Obligation and Disclosure Requirements)
+Regulations, 2015, read with SEBI Circular HO/49/14/14(7)2025-CFDPOD2/I/3762/2026, dated 30th January, 2026 is annexed as Annexure-C
+4. Mr. Nitin Sagar was appointed as Chief Product Technology Officer (CPTO), Mappls
+AI of the Company under the category of Senior Management Personnel (SMP). The
+details required pursuant the Regulation 30 of SEBI (Listing Obligation and
+Disclosure Requirements) Regulations, 2015, read with SEBI Circular
+C.E. INFO SYSTEMS LIMITED
+(Previously known as C.E. Info Systems Pvt Ltd)
+
+237, Okhla Industrial Estate, Phase-Ill, New Delhi-110020, Mappls Pin: mappls.com/mmi000, e-Mail: contact@mapmyindia.com / contact@mappls.com
+Website:www.mapmyindia.com / www.mappls.com, Phone: +91-011-4600 9900, CIN: L74899DL1995PLC065551, A CMMl-3 & ISO Certified Company
+
+
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026, dated 30th January, 2026 is annexed as
+Annexure-D
+5. Mr. Anuj Kumar Jain, Chief Financial Officer (CFO) of the Company, was also
+assigned additional role as Chief Operating Officer (COO) of Gtropy Systems Private
+Limited, Material Subsidiary of the Company, with effect from 4th November, 2026.
+6. Mr. Vishal Pandey was appointed as Chief Business Officer (CBO) of Gtropy
+Systems Private Limited, Material Subsidiary of the Company, with effect from 4th
+November, 2026.
+7. The Board considered & approved the allotment of 2334 equity shares of Rs. 2/- each
+at an issue price of Rs. 12.15/- per share to the ESOP holder, who have exercised his
+vested options as per ESOP Policy of 2008 of C.E. Info Systems Limited as
+recommended by the Nomination & Remuneration Committee of the Company.
+Kindly acknowledge the receipt of the same.
+Thanking you.
+Yours faithfully,
+For C.E. Info Systems Limited
+
+SAURABH
+SURENDRA
+SOMANI
+
+Digitally signed by
+SAURABH SURENDRA
+SOMANI
+Date: 2026.11.04
+14:31:31 +05'30'
+
+Saurabh Surendra Somani
+Company Secretary & Compliance Officer
+Enclosed as above
+
+
+Annexure A
+
+MSKA & Associates LLP
+(Formerly known as MS KA & Associates)
+Chartered Accountants
+
+Magnum Global Park
+Unit No-2101-2115A & B, Floor 21
+Sector-58, Arch View Drive
+Gurugram 122011, INDIA •
+
+Independent Auditor's Review Report on consolidated unaudited financial results of C.E. Info Systems
+Limited for the quarter and year to date ended September 30, 2026 pursuant to the Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+
+To the Board of Directors of C. E. Info Systems Limited
+
+1.
+
+We have reviewed the accompanying Statement of consolidated unaudited financial results of C. E. Info
+Systems Limited (hereinafter referred to as 'the Holding Company') which includes its subsidiaries, (the
+Holding Company and its subsidiaries together referred to as the 'Group') and its share of the net
+profit/(loss) after tax and total comprehensive income /(loss) of its associates and joint venture for the
+quarter ended September 30, 2026 and the year to date results for the period from April 1, 2026 to
+September 30, 2026 ('the Statement') attached herewith, being submitted by the Holding Company pursuant
+to the requirements of Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended ('the Regulations').
+
+2.
+
+This Statement, which is the responsibility of the Holding Company's Management and approved by the
+Holding Company's Board of Directors, has been prepared in accordance with the recognition and
+measurement principles laid down in Indian Accounting Standard 34 'Interim Financial Reporting' prescribed
+under Section 133 of the Companies Act, 2013 ('the Act') read with relevant rules issued thereunder (' Ind AS
+34') and other recognised accounting principles generally accepted in India and is in compliance with the
+Regulations. Our responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410, 'Review of Interim Financial Information Performed by the Independent Auditor of the Entity' issued by
+the Institute of Chartered Accountants of India. A review of interim financial information consists of making
+inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and
+other review procedures. A review is substantially less in scope than an audit conducted in accordance with
+Standards on Auditing specified under section 143(10) of the Act and consequently does not enable us to
+obtain assurance that we would become aware of all significant matters that might be identified in an audit.
+Accordingly, we do not express an audit opinion .
+We also performed procedures in accordance with the circular issued by the Securities and Exchange Board of
+India under Regulation 33 (8) of the Regulations, to the extent applicable.
+
+4.
+
+This Statement includes the results of the Holding Company and the following entities:
+Sr. No
+
+Name of the Entity
+
+Gtropy Systems Private Limited
+
+Ahmedabad
+
+Relationship with the Holding
+Company
+
+Subsidiary
+
+2
+
+Mappls DT Private Limited
+
+Wholly Owned Subsidiary
+
+3
+
+C. E. Info Systems International Inc. USA
+
+Wholly Owned Subsidiary
+
+4
+
+Kogo Tech Labs Private Limited
+
+Associate
+
+5
+
+M/S Prashant Advanced Survey LLP
+
+Associate
+
+6
+
+PT Terra Link Technologies, Indonesia
+
+I
+
+Joint Venture
+
+ed Office: 602, Raheja Titanium, Western Express Highway, Goregaon (East), Mumbai-400063, Maharashtra, India
+Tel: +9 1 22 6974 0200 I LLPIN: ACT-3789
+Bengaluru I Chandigarh I Chennai I Coimbatore I Goa I Hyderabad I Kochi I Kolkata I Mumbai I Pune www.mska.in
+
+
+MSKA & Associates LLP
+(Formerly known as MS KA ft Associates)
+Cha rtered Accountants
+
+5.
+
+Based on our review conducted and procedures performed as stated in paragraph 3 above and based on the
+consideration of the review reports of the other auditor referred to in paragraph 6 below, nothing has come
+to our attention that causes us to believe that the accompanying Statement prepared in accordance with the
+recognition and measurement principles laid down in Ind AS 34 and other recognised accounting principles
+generally accepted in India has not disclosed the information required to be disclosed in terms of the
+Regulations, including the manner in which it is to be disclosed, or that it contains any material
+misstatement.
+
+6.
+
+The Statement includes the Group's share of net loss after tax of Rs. 19.49 lacs and Rs. 56.47 lacs and total
+comprehensive loss of Rs. 19.49 lacs and Rs. 56.47 lacs for the quarter ended September 30, 2026 and for the
+period from April 1, 2026 to September 30, 2026 respectively as considered in the unaudited consolidated
+financial results, in respect of 2 associates, whose interim financial information have not been reviewed by
+us . These interim financial information have been reviewed by other auditors whose reports have been
+furnished to us by the Management and our conclusion on the Statement, in so far as it relates to the
+amounts and disclosures included in respect of these associates, is based solely on the report of the other
+auditors and the procedures performed by us as stated in paragraph 3 above.
+Our conclusion is not modified in respect of the above matter with respect to our reliance on the work done
+by and report of the other auditors.
+
+7.
+
+The Statement includes the interim financial information of 1 subsidiary which is not subject to review,
+whose interim financial information reflects total assets of Rs. 990. 17 lacs as at September 30, 2026 and total
+revenue of Rs. 0.50 lacs and Rs. 0.50 lacs, total net loss after tax of Rs. 13 .00 lacs and Rs. 24.39 lacs and
+total comprehensive loss of Rs. 13.00 lacs and Rs. 24.39 lacs for the quarter ended September 30, 2026 and
+for the period from April 1, 2026 to September 30, 2026 respectively, as considered in the Statement. The
+Statement also includes the Group's share of net loss after tax of Rs. 207.85 lacs and Rs. 234.96 lacs and total
+comprehensive loss of Rs. 207.85 lacs and Rs. 234. 96 lacs for the quarter ended September 30, 2026 and for
+the period from April 1, 2026 to September 30, 2026 respectively, as considered in the Statement, in respect
+of joint venture, based on their interim financial information which has not been reviewed by their auditors.
+These interim financial information have been furnished to us by the Management and our conclusion on the
+Statement in so far as it relates to the amounts and disclosures included in respect of this subsidiary and joint
+venture is based solely on such management prepared unaudited interim financial information. According to
+the information and explanations given to us by the Management, these interim financial information are not
+material to the Group.
+Our conclusion is not modified in respect of the above matter with respect to our reliance on the financial
+result certified by the management.
+
+For M S KA & Associates LLP (Formerly known as M S KA & Associates)
+Chartered Accountants
+ICAI Firm Registration No.105047W /W101187
+
+~
+Nishit Jain • ~
+Partner
+Membership No .: 409461
+UDIN: 2--b~O,~.C/ O~A--U 11,0
+Place: New Delhi
+Date: November 4, 2026
+
+Ahmedabad
+
+I
+
+Registered Office: 602, Raheja Titanium, Western Express Highway, Goregaon (East), Mumbai-400063 , Maharashtra, India
+Tel: +91 22 6974 0200 I LLPIN: ACT-3789
+Bengaluru I Chandigarh I Chennai I Coimbatore I Goa I Gurugram I Hyderabad I Kochi I Kolkat a I Pune www.mska.in
+
+
+MAPP LS
+C. E. Info Systems Limited
+Registered and Corporate Office: First, Second & Third Floor, Plot. No. ZJ7, Okhla Industrial Estate, Phase- Ill , New Delhi 11 O 020, India
+CIN : L74899DL1995PLC065551 ;Website: www.mapmyindia.com ; E-mail: cs@mapmyindia.com; Telephone: +91 11 4600 9900.
+Statement of unaudited Consolidated Assets and Liabilities as at September 30, 2026
+(Rupees in lakhs unless otherwise stated)
+As at
+As at
+Particulars
+
+31.03.2026
+(Audited)
+
+30.09 . 2026
+(Unaudited)
+
+I. ASSETS
+( 1) Non-current assets
+(a) Property , plant and equipment
+(b) Capital work in progress
+(c) Right of use assets
+(d) Goodwill
+(e) Intangible assets
+(f) Intangible assets under development
+(g) Financial assets
+
+(i) Investments
+(ii) Other financial assets
+(h) Deferred tax assets (net)
+(i) Other non current assets
+Total
+(2) Current assets
+(a) Inventories
+(b) Project work in progress
+(c) Financial assets
+(i) Investments
+(ii) Trade receivables
+
+3,948
+
+4,459
+1,790
+
+3,465
+9
+666
+422
+5,217
+761
+
+18,858
+8,806
+1,742
+471
+
+26,828
+7,630
+1,753
+182
+
+40,980
+
+46,933
+
+1,233
+
+1,721
+24
+
+68
+416
+422
+
+58
+39,736
+18,655
+3,986
+609
+2,782
+2,434
+1,012
+
+24,866
+17,641
+
+70,505
+
+56,671
+
+1, 11,485
+
+1,03,604
+
+1,096
+95,876
+
+1,Q95
+89,400
+
+96,972
+40
+97,012
+
+90,495
+28
+90, 523
+
+Ill. LIABILITIES
+(1) Non current liabilities
+(a) Financial liabilities
+Lease liabilities
+(b) Provisions
+
+261
+1,761
+
+1,355
+
+Total
+
+2,022
+
+1,552
+
+180
+
+507
+
+(iii) Cash and cash equivalents
+(iv) Bank balance other than cash and cash equivalents
+(v) Other financials assets
+(d ) Contract assets
+(e) Other current assets
+Total
+TOTAL ASSETS
+II. EQUITY
+(a) Equity share capital
+(b) Other equity
+Equity attributable to shareholders of the Company
+Non-controlling interests
+
+Total
+
+(2) Current liabilities
+(a) Financial liabilities
+(i) Lease liabilities
+(ii) Trade payables
+-total outstanding dues of micro and small enterprises
+-total outstanding dues of creditors other than micro and small
+enterprises
+(iii) Other financial liabilities
+(b) Contract liabilities
+(c) Other current liabilities
+(d) Provisions
+
+(e) Current tax liabilities (net)
+Total
+TOTAL EQUITY AND LIABILITIES
+
+6, 110
+2,274
+1,218
+1,986
+831
+
+197
+
+1,063
+
+1,939
+
+3,987
+
+4,307
+
+946
+
+841
+
+2,373
+1,045
+
+2,086
+616
+
+73
+2,784
+
+1,185
+
+12,451
+
+11,529
+
+1, 11,485
+
+1,03,604
+
+48
+
+For and on behalf of the Board of Directors of
+C. E. Info Systems Limited
+
+Rakesh Kumar Verma
+Managing Direc tor
+DIN : 01542842
+Place: New Delhi
+Date: November 4, 2026
+
+
+MAPPLS
+
+y
+
+C. E. Info Systems Limited
+Registered and Corporate Office: First, Second&: Third Floor, Plot. No. 237, Okhla Industrial Estate, Phase- 111, New Delhi 110 020, India
+
+CIN: L74899DL 1995PLC065551; Website: www.mapmyindia.com ; E·mail: cs@mapmyindia.com ; Telephone: +91 11 4600 9900.
+Statement of Unaudited Consolidated Financial Results for the quarter and half year ended September 30 , 2026
+
+(Rupees in lakhs unless otherwise stated)
+Particulars
+
+For the quarter ended
+30.09.2026
+
+(Unaudited)
+
+30.06.2026
+(Unaudited)
+
+30.09.2025
+(Unaudited)
+
+For the half year ended
+30.09.2026
+30.09 . 2025
+(Unaudited)
+(Unaudited)
+
+For the year ended
+
+31 .03.2026
+(Audited)
+
+I Revenue
+13,174
+1,613
+14,787
+
+13 ,972
+1,965
+15,937
+
+11,377
+1,045
+12,422
+
+27,146
+3,578
+
+23,538
+2,412
+
+47,410
+5,240
+
+30,724
+
+25,950
+
+52,650
+
+1,483
+704
+(20)
+2,556
+1,325
+18
+915
+2,312
+
+1,239
+
+Other expenses
+
+2,020
+716
+(7)
+2,536
+1,453
+13
+933
+1,958
+
+234
+107
+1,926
+3,258
+41
+794
+1,801
+
+3,503
+1,420
+(27)
+5,092
+2,778
+31
+1,848
+4,270
+
+1,713
+880
+76
+4,535
+4,390
+123
+1,482
+3,545
+
+9 ,400
+
+18,915
+
+16,744
+
+3,295
+2,828
+(90)
+9,079
+7,541
+178
+3,042
+7,206
+33,079
+
+Total expenses
+
+9,622
+
+9,293
+
+Ill Profit before tax
+
+5,165
+
+6,644
+
+3,022
+
+11,809
+
+9,206
+
+19,571
+
+1,251
+162
+
+1,699
+(93)
+
+792
+203
+
+2,950
+69
+
+2,421
+20
+
+6,774
+(1,653)
+374
+
+Total tax expense
+
+1,413
+
+1,606
+
+995
+
+3,019
+
+2,441
+
+5,495
+
+V Net profit after tax
+
+3,752
+
+5,038
+
+2,027
+
+8,790
+
+6,765
+
+14,076
+
+Total share of profiU (loss) of associates and joint venture
+
+(19)
+(208)
+(227)
+
+(37)
+(27)
+(64)
+
+44
+(219)
+(175)
+
+(56)
+(235)
+(291)
+
+24
+(356)
+(332)
+
+(19)
+(655)
+(674)
+
+VII Net Profit after tax includins share of profit/ (loss) of associates and Joint
+
+3,525
+
+4,974
+
+1,852
+
+8,499
+
+6,433
+
+13,402
+
+(219 )
+55
+
+(12)
+3
+
+(231)
+58
+(173)
+8,326
+
+99
+(25)
+74
+6,507
+
+281
+(71)
+210
+13,612
+
+Revenue from operations
+Other income
+
+Total income
+II Expenses
+Cost of materials consumed
+Purchase of stock in trade
+
+Changes in inventories of finished goods
+Employee benefits expense
+
+Technical services outsource and project software
+Finance cost
+
+Depreciation and amortisation expense
+
+IV Tax expense:
+Current tax
+Deferred tax charge / (benefit)
+Taxation related to earlier years
+
+VI Share of profiU (loss) of associates and joint venture accounted using the
+equity method (after tax)
+Share of profit/(loss) of associates
+Share of profit/(loss) of joint venture
+
+venture
+VIII Other comprehensive income , net of taxes
+
+Items that will not be reclassified to profit and loss
+
+IX Total other comprehensive income, net of taxes
+
+(164)
+
+(9)
+
+X Total comprehensive income
+
+3,361
+
+4,965
+
+90
+(23)
+67
+1,919
+
+3,511
+14
+
+4,977
+(3)
+
+1,851
+1
+
+8,488
+11
+
+6,462
+(29)
+
+3,525
+
+4,974
+
+1,852
+
+8,499
+
+6,433
+
+13,416
+(14)
+13 ,402
+
+(164)
+0
+
+(9)
+
+(0)
+
+(164)
+
+(9)
+
+67
+0
+67
+
+(173 )
+(0)
+(173)
+
+74
+0
+74
+
+209
+1
+210
+
+3,347
+14
+
+4,968
+
+(3)
+
+1,918
+1
+
+8,315
+11
+
+13,625
+(13)
+
+3,361
+
+4,965
+
+1,919
+
+8,326
+
+6,536
+(29)
+6, 507
+
+13,612
+
+1,096
+
+1,095
+
+1,094
+
+1,096
+
+1,094
+
+1,095
+
+Remeasurements gain/ (loss) on the defined benefit plans
+
+Income tax effect
+
+Net profit after tax for the period attributable to:
+Owners of the Company
+Non •controlling interests
+Other comprehensive income attributable to:
+
+Owners of the Company
+Non·controlling interests
+Total comprehensive income attributable to:
+
+Owners of the Company
+Non ·controlling interests
+
+Paid-up equity share capital (face value of each equity share- Rs .2, fully paid up)
+
+89,400
+
+Other equity attributable to owners of the Company
+Earnings per equity share (in Rs .) (for the interim periods are not annualised)
+·Basic
+·Diluted
+
+6.41
+6.38
+
+9.09
+9.05
+
+3.32
+3.30
+
+15 .48
+15.43
+
+11.75
+11.69
+
+For and on behalf of the Board of Directors of
+
+C. E. Info Systems Limited
+
+Rakesh Kumar Verma
+Managing Director
+
+DIN: 01542842
+Place: New Delhi
+
+Date: November 4, 2026
+
+24.56
+24.46
+
+
+MAPPLS
+C. E. Info Systems Limited
+Registered and Corporate Office: First, Second , 6: Third Floor, Plot. No. 237, Okhla Industrial Estate, Phase· 111, New Delhi 110 020, India
+CIN: L74899DL1995PLC065551 ;Website: www.mapmyindia.com; E-mail: cs@mapmyindia.com; Telephone: +91 1146009900.
+Statement of unaudited Consolidated cashflow for the half year ended September 30, 2026
+(Rupees in lakhs unless otherwise stated)
+For the half year e nded
+
+Particulars
+
+30 .09. 2026
+(Unaudited)
+
+A.
+
+30 .0 9.2025
+(Unaudited)
+
+Cash flows from operating activities
+Profit before tax
+
+11,809
+
+9,206
+
+1,848
+
+1,482
+
+Adjustments for:
+
+Depreciation and amortisation
+Employee stock option expense
+Provision for doubtful receivables and advances
+Provision for inventory obsolescence
+Gain on sale of investments
+Dividend income
+Interest income
+Interest income on unwinding of security deposits
+Interest expense
+Provision/liability wri tten back
+Fair value gain on investments
+Rental income
+Profit/ (loss ) on sale of Property, plant and equipment and Investment properties
+
+56
+
+56
+
+235
+
+312
+
+28
+(565 )
+(9)
+
+(386)
+(12)
+
+(1,3 34)
+(5)
+
+(1,275)
+111
+
+26
+(316)
+
+(141)
+
+(1,288)
+
+(511)
+
+6
+10,491
+
+(13 )
+
+(5)
+
+8,824
+
+Adjustments for working capital changes
+(Increase) / decrease in inventories
+(Increase) / decrease in trade receivables
+(Increase) / decrease in other financial assets and other assets
+Increase / (Decrease) in trade payables
+Increase/ (Dec rease ) in other financial liabilities, provisions and other liabilities
+Cuh flows 11enerated from operations
+Less: Income tax paid (net)
+Net cash flows generated from operating activities
+B.
+
+C.
+
+460
+
+532
+
+(636)
+(1,066)
+
+(4,456)
+(1,711)
+
+(1,111)
+
+Cash flows from investin1 activities
+Purchase of property, plant and equipment and intangible assets
+Proceeds from sale of Property, plant and equipment and Investment properties
+Purchase of non controlling interest in subsidiary
+Purchase of current investment (net)
+Interest received
+Dividend received
+Rental income
+Gain on sale of investments
+Investment in fixed deposits with banks (net)
+Net cash flows used In tnvestln1 activities
+Cash flows from financin1 activities
+Proceeds from issue of share
+Proceeds/(repayment) from/(of) borrowings
+Dividend paid
+Payment of lease liabilities
+Interest paid
+Net cash flows used in financing activities
+
+2,183
+693
+
+1,022
+9,160
+(1,351)
+
+6,065
+(1,554)
+
+7,809
+
+4,511
+
+(2,831)
+
+(1,740)
+
+14
+
+746
+(2,500)
+
+(5,904)
+
+(1,484)
+
+867
+
+1,648
+
+9
+
+12
+
+565
+
+5
+386
+
+(101)
+
+(777)
+
+(7,381)
+
+(3,704)
+
+6
+
+36
+(2,762)
+
+(1,917)
+(289)
+
+(1,905)
+(289)
+
+(2,200)
+
+(4,990)
+
+Net increase/ (decrease) in cash and cash equivalents {A+B+C)
+Effect of exchanRe rate chan~es on cash &. cash equivalents
+Net incruse/ (decrease) in cash and cash equivalents
+
+(1,772)
+
+(4,18 3)
+
+17
+(1,755)
+
+32
+(4,151)
+
+Cash and cash equivalents at the beginning of the year, prior to adjustment for the initial
+application of the amendments to IND AS 109
+Adjustment on the initial application of IND AS 109 amended on April 01, 2026
+Cash and cash eauivalents at the end of the pl!'riod
+
+6, 110
+
+6,737
+
+(70)
+
+(369)
+3,9 86
+
+2,586
+
+Notes:
+1
+
+The co nsolidated cash flow statement has been prepared in accordance with 'Indirect method' as set out in the Ind AS 7 on 'Cash Flow
+Statement', specified under Section 133 of t he Companies Act, 2013, as applicable.
+
+2
+
+Cash and cash equivalents
+
+For the half year ended
+30. 09 . 2026
+
+Cash on hand
+On current accounts
+Tot.I
+)
+
+30 .09 . 2025
+0
+3,986
+
+2,586
+
+l,9B6
+
+2,586
+
+Fisures in brackets indicate cash outflow.
+For and on behalf of the Board of Directors of
+C.E. Info Systems Limited
+
+Rakesh Kumar Verma
+Managing Director
+DIN: 01542842
+
+Place: New Delhi
+Date: November 4, ZOZ6
+
+
+MAPP LS
+Notes to Statement of Unaudited Consolidated Financial Results for the quarter and half year ended September 30, 2026
+1. The figures of revenue from opera t ions consist of Sale of hardware and Sale of Map data and services including royalty, annuity, subscription , software and projects called Map As A Service
+(MAAS) , Platform As A Service (PAAS ), Software As A Service (SAAS ) and total cost of material including purchase of traded goods and change of inventory co nsists of hardware material and
+software material including si m rentals . 6reakup of the same is as below(Rupees in lakhs unless otherwise stated)
+
+Revenue from operations
+
+Particulars
+
+For half year ended
+
+For the quarter ended
+
+Sale of devices
+
+3,306
+
+Sate of 1\-\ap data and services including royalty, annuity,
+subscription , software and projects called MAAS, PAAS , SAAS
+
+9,868
+
+30. 06. 2026
+2,311
+11,661
+
+13, 17◄
+
+13 ,972
+
+30. 09 .2026
+
+Total
+Total cost of material
+Particulars
+
+30.09.2025
+1,390
+9, 987
+
+30. 09 . 2026
+5,617
+
+11,377
+
+30. 06 . 2026
+
+30.09.2026
+
+Software material including SIM rental
+
+2,097
+632
+
+Total
+
+2,729
+
+31 .03.2026
+5,468
+
+21,529
+
+27 ,1 46
+
+23 ,538
+
+◄ 7 , 410
+
+41 ,942
+
+·(Rupees in lakhs unless otherwise stated)
+For half year ended
+For the year ended
+
+For the quarter ended
+
+Hardware material
+
+For the year ended
+
+30. 09.2025
+2,150
+21,388
+
+860
+720
+
+3,621
+1,275
+
+30. 09. 2025
+1,361
+1, 308
+
+1,580
+
+◄ ,896
+
+2,669
+
+30.09 . 2025
+
+1, 524
+643
+2,167
+
+30. 09 . 2026
+
+31 .03 . 2026
+
+3,401
+2,632
+6,033
+
+2.The above statement of unaudited consolidated financial results of C.E. Info Systems Limited {"the Company" ), which have been prepared in accordance with the Indian Accounti ng Standards
+(' Ind AS') prescribed under Section 133 of the Companies Act, 2013 ("the Act") read with releva nt rules issued thereunder, other accounting principles generally accepted in India and suidelines
+issue d by the Securities and Excha nse Board of India ("S EBI" ), were reviewed and recommended by the Aud it Committee and approved by the Board of Directors in their meeting held on November
+3, 2026 and November 4, 2026 respectively. The statutory auditors have car ried out a limited review on the unaudited conso lidated fi nancia l results and issued an unmodified report t hereo n.
+
+3. The above unaudited Consolidated Financials Results of C. E. Info Systems Limited (t he "Company") are available on Company's website www.mapmyindia.com and also on the website of SSE
+(www. bseindia. com ) and NSE (www.nseindia.com) , where the shares of the Company are listed.
+4. As the Group's busi ness activities fall within a single primary business segment viz. "Map data and Map data related services and devices (GPS navigation, location-ba sed services and loTf', the
+disclosure requirements of Ind AS 108 ~Operating segmenC prescribed under Section 133 of the Compan ies Act , 2013 read with relevant rules issued thereunder , are not applicable.
+
+5. The previous periods /year's figures have been regrouped/ rearranged wherever necessary to conform to t he current period·s presentation.
+0
+
+For and on behalf of the Board of Directors of
+C. E. Info Systems Limited
+
+~~-J-.;JRakesh Kumar Verma
+Managing Director
+
+DIN : 01542842
+Place: New Delh i
+Date: November 4, 2026
+
+
+MSK-A & Associates LLP
+(Formerly known as MS KA & Associates)
+Chartered Accountants
+
+Magnum Global Park
+Unit No-21O1 -2115A & B, Floor 21
+Sector-58, Arch View Drive
+Gurugram 122011, INDIA
+
+Independent Auditor's Review Report on Standalone unaudited financial results of C.E. Info Systems Limited
+for the quarter and year to date ended September 30, 2026 pursuant to the Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended
+
+To The Board of Directors of C.E. Info Systems Limited
+
+1.
+
+We have reviewed the accompanying statement of standalone unaudited financial results of C.E. Info
+Systems Limited (hereinafter referred to as 'the Company'), for the quarter ended September 30, 2026 and
+the year to date results for the period from April 1, 2026 to September 30, 2026 ('the Statement') attached
+herewith, being submitted by the Company pursuant to the requirements of Regulation 33 of the Securities
+and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as
+amended ('the Regulations') .
+
+2.
+
+This Statement, which is the responsibility of the Company's Management and approved by the Company's
+Board of Directors, has been prepared in accordance with the recognition and measurement principles laid
+down in Indian Accounting Standard 34 'Interim Financial Reporting', prescribed under Section 133 of the
+Companies Act, 2013 ('the Act') read with relevant rules issued thereunder ('Ind AS 34') and other
+recognised accounting principles generally accepted in India and is in compliance with the Regulations . Our
+responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410, "Review of Interim Financial Information Performed by the Independent Auditor of the Entity" issued
+by the Institute of Chartered Accountants of India. A review of interim financial information consists of
+making inquiries, primarily of persons responsible for financial and accounting matters, and applying
+analytical and other review procedures. A review is substantially less in scope than an audit conducted in
+accordance with Standards on Auditing specified under section 143(10) of the Act and consequently does not
+enable us to obtain assurance that we would become aware of all significant matters that might be
+identified in an audit. Accordingly, we do not express an audit opinion.
+
+4.
+
+Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that
+causes us to believe that the accompanying Statement prepared in accordance with the recognition and
+measurement principles laid down in Ind AS 34 and other recognised accounting principles generally
+accepted in India has not disclosed the information required to be disclosed in terms of the Regulations,
+including the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+For MS KA & Associates LLP (Formerly known as MS KA & Associates)
+Chartered Accountants
+ICAI Firm Registration No.105047W /W101187
+
+NishitJr
+Partner
+Membership No.: 409461
+
+Place: New Delhi
+Date: November 4, 2026
+
+Ahmedabad
+
+I
+
+Registered Office: 602, Raheja Titanium, Western Express Highway, Goregaon (East), Mumbai-400063, Maharashtra, India
+Tel: +91 22 6974 0200 I LLP IN: ACT-3789
+Bengaluru I Chandigarh I Chennai I Coimbatore I Goa I Hyderabad I Kochi I Kolkata I Mumbai I Pune
+
+www.mska .in
+
+
+MAPP LS
+C. E. Info Systems Limited
+Registered and Corporate Office: First, Second & Third Floor, Plot. No. 237, Okhla Industrial Estate, Phase· Ill, New Delhi 110
+CIN: L74899DL 1995PLC065551 ;Website: www.mapmyindia.com; E-mail: cs@mapmyindia.com; Telephone: +91 11 4600 9900.
+Statement of unaudited Standalone Assets and Liabilities as at September 30, 2026
+
+(Rupees in lakhs unless otherwise stated)
+Particulars
+
+As at
+
+As at
+
+30.09.2026
+
+31.03.2026
+
+(Unaudited)
+
+(Audited)
+
+I. ASSETS
+(1) Non-current assets
+
+1,380
+
+(a) Property, plant and equipment
+(b) Capital work-in progress
+(c) Right-of-use assets
+(d) Intangible assets
+(e) Intangible assets under development
+(f) Financial assets
+(i) Investments
+(ii) Loan to subsidiaries
+(iii) Other financial assets
+(g) Deferred tax assets (net)
+
+1,497
+
+68
+
+416
+3,970
+1,737
+
+665
+4,615
+708
+
+37,795
+
+762
+457
+
+32,410
+6,500
+7,075
+938
+148
+
+62,828
+
+54,556
+
+o
+
+23
+
+8,000
+8,243
+
+(h) Other non-current assets
+
+Total
+(2) Current assets
+(a) Inventories
+(b) Project work in progress
+(c) Financial assets
+(i) Investments
+(ii) Trade receivables
+(iii) Cash and cash equivalents
+
+51
+
+(e) Other current assets
+
+26,445
+16,902
+3,315
+609
+5,545
+2,231
+232
+
+24,603
+14,902
+5,313
+2,266
+1,444
+1,665
+895
+
+Total
+
+55,330
+
+51,111
+
+1, 18,158
+
+1,05,667
+
+1,096
+98,736
+
+1,095
+92,027
+93,122
+
+(iv) Bank balance other than cash and cash equivalents
+
+(v) Other financial assets
+(d) Contract assets
+
+TOTAL ASSETS
+II. EQUITY
+(a) Equity share capital
+(b) Other equity
+Total
+
+99,832
+
+Ill. LIABILITIES
+(1) Non current liabilities
+(a) Financial liabilities
+Lease liabilities
+(b) Provisions
+Total
+(2) Current liabilities
+(a) Financial liabilities
+(i) Lease liabilities
+(ii) Trade payables
+-total outstanding dues of micro and small enterprises
+-total outstanding dues of creditors other than micro and small
+
+197
+679
+
+261
+952
+1,213
+
+876
+
+180
+
+507
+
+6,113
+4,921
+
+5,933
+1,516
+
+656
+
+1,957
+
+471
+1,797
+
+728
+
+435
+
+13
+2,545
+17, 113
+
+999
+11 ,669
+
+1, 18,158
+
+1,05 ,667
+
+enterprises
+
+(iii) Others financial liabilities
+(b) Contract liabilities
+(c) Other current liabilities
+(d) Provisions
+(e ) Current tax liabilities (net)
+Total
+TOTAL EQUITY AND LIABILITIES
+
+11
+
+For and on behalf of the Board of Directors of
+C. E. Info Systems Limited
+
+~~~
+Rakesh Kumar Verma
+Managing Director
+
+DIN : 01542842
+Place: New Delhi
+Date: November 4, 2026
+
+
+MAPPLS
+C. E. Info Systems Limited
+Registered and Corporate Office: First, Second&. Third Floor, Plot . No. 237, Okhla Industrial Estate, Phase - Ill, New Delhi 110 020, India
+CJN: L74899 DL 1995PLC065 551 ; Website: www .mapmyindia.com; E-maiL cs@mapmyin dia.com; Telepho ne: +91 11 4600 9900.
+Statement of Unaudited Standalone Financial Results for the quarter and half year ended September 30, 2026
+
+Particulars
+
+{Rupees in lakhs unless otherwise stated)
+for the year ended
+Fo r the half year ended
+
+For the quarter ended
+
+30. 09 .2026
+
+30.06 . 2026
+(Unaudite d)
+
+(Unaudited)
+
+30 . 09 . 2025
+
+30 . 09 . 2026
+
+30. 09 . 2025
+
+(Unaudited)
+
+(U naudited )
+
+(Unaudited )
+
+23 ,664
+3,668
+27,332
+
+18,814
+2, 603
+
+40 ,074
+5,708
+
+21 ,417
+
+45,782
+
+1,489
+(6)
+
+7
+3, 892
+(9)
+
+2,362
+5,142
+49
+
+12,048
+104
+
+31.03 . 2026
+(Audited)
+
+I Revenue
+
+Revenue from operations
+
+11,216
+
+Ot her income
+
+1,830
+13 ,046
+
+Total income
+
+12,448
+1,8 38
+
+8, 549
+1,175
+
+14 ,286
+
+9,724
+
+2,11 8
+(118)
+
+1,027
+
+JI Expenses
+
+Cost of mate rials co nsumed
+Purchase of stock in t rade
+
+Chan ges in inven tories of fin ished goods
+
+(3)
+
+(3)
+
+2,713
+142
+1,342
+3,034
+
+(21 I
+801
+3, 58 5
+26
+
+Other expenses
+Tota l expenses
+
+11
+527
+962
+
+1,3 53
+1,98 1
+17
+544
+1,084
+
+432
+1,108
+
+8,728
+
+6,979
+
+Ill Profit before tax
+
+4,318
+
+7, 307
+
+1,055
+137
+
+1,692
+
+Total tax ex pense
+V Net profit after tax
+
+Employee benefits expense
+Technical services outsource and project software
+Fin ance cost
+Depreciation and amortisation expe nse
+
+4,8 31
+24
+2,695
+5, 01 5
+28
+1,071
+
+4,619
+
+6,958
+
+2,046
+15, 707
+
+861
+2,176
+12,073
+
+26,650
+
+2,766
+
+11,6 25
+
+9,344
+
+19,132
+
+73
+
+811
+106
+
+2, 747
+210
+
+2,4 20
+40
+
+6,1 10
+(1,134)
+
+1,192
+
+1,765
+
+917
+
+2,957
+
+2,4 60
+
+5,339
+
+3,126
+
+5,542
+
+1,849
+
+8,668
+
+6,884
+
+13 , 793
+
+(127)
+
+(11)
+3
+
+66
+(16 )
+
+(138)
+
+32
+
+77
+(19)
+
+220
+(55)
+
+1, 73 7
+4,252
+
+JV Tax expense:
+Curre nt tax
+Deferred tax charge / (bene fit )
+Taxation re lated to earlier years
+
+363
+
+VI Other comprehensive income, net of taxes
+Items t hat will not be reclassified to profit and loss
+Re measurements gain / (loss) on t he defined be nefit plans
+Income t ax effect
+
+(95)
+
+(8)
+
+50
+
+35
+(103)
+
+58
+
+165
+
+VIII Total comprehensive i ncome
+
+3,031
+
+5,534
+
+1,899
+
+8,565
+
+6,942
+
+13 ,958
+
+Paid -up equity share capital (face value of each equity share · Rs .2, fully paid up)
+
+1,096
+
+1,095
+
+1,09 4
+
+1,096
+
+1,094
+
+VII Total other comprehensi ve income, net of taxes
+
+Earn ings pe r equity share (in Rs .) (for the interi m pe ri ods are not annualised)
+-Basic
+-Diluted
+
+1,095
+92,027
+
+Other equity
+
+5.70
+5.68
+
+10.12
+10.08
+
+3.38
+3.36
+
+15.81
+15.76
+
+12.58
+12. 52
+
+For and on behalf of the Board of Directors of
+C.E. Info Systems Limi t ed
+
+~~_,___,_~
+Rakesh Kumar Verma
+Managin g Dire ctor
+
+DIN: 01 542842
+Place : New Delhi
+
+Date : Nove mber 4, 2026
+
+25 .25
+25.15
+
+
+MAPP LS
+C. E. Info Systems Limited
+Registered and Corporate Office: First, Second, & Third Floor, Plot. No. 237, Okhla Industrial Estate, Phase- lll, New Delhi 110 020, India
+CIN: L74899DL 1995PLC065551 ;Website: www.mapmyindia.com; E-mail: cs@maprnyindia.com; Telephone : +91 11 4600 9900.
+
+Statement of unaudited Standalone cashflow for the half year ended September 30 , 2026
+{Rupees in lakhs unless otherwise stated)
+For the half year ended
+
+Particulars
+
+30 .09 .2 026
+
+30.09 . 2025
+(Unaudited)
+
+(Unaudited)
+A. Cash flows from operating activities
+Profit before t ax
+Adjustments for :
+Depreciation and amortisation
+Employee stock opt ion expense
+Provision for doubtful receivables and advances
+
+Provision for inve ntory obsolescence
+Provision/ liability written back
+Gain on sale of investments
+Dividend income
+Interest income
+Interest income on un windi ng of security deposits
+Interest expense
+Fair value gain on investments
+Loss/ (Profit) on sale of Property, plant and equipment and Investment properties
+Rental inco me
+
+11,625
+
+9,344
+
+1,071
+56
+157
+2
+
+861
+56
+175
+(10)
+(386 )
+(12)
+(1,389 )
+
+(563 )
+(9)
+(1, 596 )
+(5)
+26
+(1,288 )
+
+40
+
+(511 )
+(13)
+(108)
+8,047
+
+6
+9,482
+
+Adjustments for worki ng capital changes
+(Increase) / decrease in inventories
+(Increase) / decrease in trade receivables
+(Increase) / decrease in other financial assets and othe r assets
+Increase / (Decrease) in trade payables
+Increase/ (Decrease) in other financial liabilities, provisions and other liabili ties
+Cash flows generated from operati ons
+Less: Income tax paid {net )
+Net cash flows generated from operating activities
+
+21
+
+(6)
+
+(1,557)
+
+(3 ,562)
+(521 )
+5,353
+
+(2 ,655)
+
+3,355
+
+8 . Cash flows from investing activities
+Purchase of property, ptant and eq uipment and intangible assets
+
+77◄
+
+(956)
+
+9 , ◄ 20
+
+8,355
+
+(1,201)
+
+(1,302)
+
+8,219
+
+7,053
+
+(1, 593)
+
+(1, 229 )
+
+14
+
+7◄ 6
+
+(5,938 )
+
+(2,500)
+(1 ,276)
+
+Proceeds from sa le of Property, pla nt and equipment and Investment properties
+Purchase of non co ntrolling interest in subsidiary
+Invest ment in Mfs, Bonds & other financial Instruments (net)
+Redemption/(investment in) fixed deposits with banks
+
+( 76 ◄ )
+
+(BB )
+(1,500)
+BBS
+
+Loan given to subsidiaries
+Interest received
+Dividend received
+Rental income
+Gain on sale of investments
+Net cash flows used in i nv&Sti ng activities
+
+(6,500)
+1,69 ◄
+
+563
+
+12
+108
+386
+
+(7 , 6 ◄ 8)
+
+(9,323)
+
+9
+
+C. cash flows from financing activities
+Proceeds from issue of share
+Dividend paid
+Payment of lease liabilities
+Net cash flows used in financing activities
+Net decrease l n cash and cash equivalents (A+B +C)
+Cash and cash eq uiva lents at the beginning of the yea r, prior to adjustment for t he initial
+application of the amendments to IND AS 109
+
+6
+
+36
+
+(1,917)
+
+(1,905)
+
+(289 )
+
+(2,200)
+
+(289)
+(2, 158)
+
+(1,629)
+
+1◄ , ◄ 28)
+
+5,313
+
+6,257
+
+(369)
+
+Adjustment on the initial applicatio n of IND AS 109 amended on April 01, 2026
+cash and cash equivalents closing balance
+
+3,315
+
+1,829
+
+Notes:
+1 The standalone cash flow statement has been prepared in accordance with 'Indirect method' as set out in the Ind AS 7 on 'Cash Flow Statement',
+specified under Section 1JJ of the Companies Act , 201 3, as applicable.
+For the half year ended
+2 Cash and cash equivalents
+
+30. 09 . 2026
+
+Cash on hand
+On current accounts
+Total
+
+30 . 09 . 2025
+
+0
+3315
+
+1829
+
+3,315
+
+1,829
+
+l Figures in brackets indicate cash outflow.
+For and on behalf of the Board of Directors of
+C. E. Info Systems Limited
+
+Rakesh Kumar Verma
+Managing Director
+
+DIN: 015428 ◄ 2
+Place: New De lhi
+Date: November 4, 2026
+
+
+MAPPLS
+Notes to Statement of Unaudited Standalone financial Results for the quarter and half year ended September 30, 2026
+
+1. The figures of reve nue from operations consist of Sale of hardware and Sale of Map data and services including royalty, annuity, subscription, software and projects called Map
+As A Service (MAAS), Platform As A Service (PAAS), Software As A Service (SAAS) and Total cost of material including purchase of traded goods and change of inventory consists of
+
+hardwa re material and software material including sim rentals. Breakup of the same is as below(Rupees in lakhs unless otherwise stated)
+
+Revenue from Operations
+
+Particulars
+Sale of Devices
+
+Sale of Map data and services including royalty, annuity,
+subscription , software and projects called MAAS, PAAS, SAAS
+Total
+
+Total cost of material
+Particulars
+
+Hardware material
+Software material including SIM rental
+Total
+
+For the quarter ended
+
+30.09. 2026
+2,847
+8,369
+
+30 .06 .2026
+1,983
+10,465
+
+11,216
+
+12,448
+
+30.09, 2025
+890
+7,659
+
+8,549
+
+For the quarter ended
+
+30.09 .2026
+2,730
+121
+2,851
+
+30.06, 2026
+1,884 I
+116 I
+2,000 I
+
+30.09.2025
+885
+121
+1,006
+
+For the half year ended
+30.09, 2025
+30.09 .2026
+4,830
+1,352
+18,834
+17,462
+
+23,664
+
+For the year ended
+
+31 .03.2026
+3,642
+36,432
+
+18,814
+
+40,074
+
+(Rupees in lakhs unless otherwise stated)
+For the half year ended
+For the year ended
+30.09, 2025
+30.09.2026
+31.03 . 2026
+4,614
+1,328
+3,415
+237
+155
+475
+4,851
+1,483
+3,890
+
+2.The above statement of unaudited standalone financial results of C.E . Info Systems Limited ("the Company"), which have been prepared in accordance with the Indian
+Accounting Standards ('Ind AS') prescribed under Section 133 of the Companies Act, 2013 ("the Act") read with relevant rules issued thereunder, other accounting principles
+generally accepted in India and guidelines issued by the Securities and Exchange Board of India ("SEBI"), were reviewed and recommended by the Audit Committee and approved
+by the Board of Directors in their meeting held on November 3, 2026 and November 4, 2026 respectively. The statutory auditors have carried out a limited review on the
+unaudited standalone financial results and issued an unmodified report thereon .
+3. The above unaudited Standalone Financials Results of C.E. Info Systems Limited (the "Company") are available on Company's website www.mapmyindia.com and also on the
+website of SSE (www.bseindia.com) and NSE (www.nseindia .com), 'Mhere the shares of the Company are listed .
+
+4. As the Company's business activities fall within a single primary business segment viz. "Map data and Map data related services and devices (GPS navigation, location-based
+services and loT) \ the disclosure requirements of Ind AS 108 "Operating segment" prescribed under Section 133 of the Companies Act, 2013 read with relevant rules issued
+thereunder 1 are not applicable.
+5. The previous periods'/year's figures have been regrouped/ rearranged 'Mherever necessary to conform to the current period's presentation.
+For and on behalf of the Board of Directors of
+C.E. Info Systems Limited
+
+Rakesh Kumar Verma
+
+Managing Director
+DIN : 01542842
+Place : New Delhi
+Date : November 4, 2026
+
+
+Annexure-B
+The details required pursuant the Regulation 30 of SEBI (Listing Obligation and
+Disclosure Requirements) Regulations, 2015, read with SEBI Circular
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026, dated 30th January, 2026:
+S. No
+1
+
+Details of the events
+Appointment of CTO
+The reason for change viz.
+appointment, resignation, removal, Mr. Abhit Kalasotra was appointed as Chief
+death or otherwise
+Technology Officer (CTO), Software Engineering
+of the Company to focus on software engineering
+and also in supporting the Group Companies
+
+2
+3
+
+Date of appointment
+Brief
+Profile
+(in
+appointment)
+
+case
+
+4th November, 2026
+of Mr. Abhit has over 22 years of technical
+experience, including 12 years building
+technology companies from the ground up.
+Abhit has also spent a decade as an individual
+contributor at leading technology companies,
+including Microsoft, Nokia, Emuzed, LG, and
+Motorola, gaining extensive experience in
+technology development and engineering.
+
+4
+
+The disclosure of relationships
+between director (in case
+appointment of a director
+
+of
+
+He holds a B.E. (Hons.) in Computer Science
+from BITS Pilani, graduating in 2004.
+NA
+
+Annexure-C
+The details required pursuant the Regulation 30 of SEBI (Listing Obligation and
+Disclosure Requirements) Regulations, 2015, read with SEBI Circular
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026, dated 30th January, 2026:
+S. No
+1
+
+Details of the events
+Change in designation of SMP’s
+The reason for change viz.
+appointment, resignation, removal, Mrs. Rashmi Verma was re-designated as the
+death or otherwise
+Chief Innovation Officer (CIO) to drive
+innovation, accelerate the adoption of Artificial
+Intelligence (AI) and emerging technologies.
+
+2
+3
+
+Date of re-designation
+Brief
+Profile
+(in
+case
+appointment)
+The disclosure of relationships
+between director (in case
+appointment of a director
+
+4
+
+4th November, 2026
+of NA
+of
+
+NA
+
+
+Annexure-D
+The details required pursuant the Regulation 30 of SEBI (Listing Obligation and
+Disclosure Requirements) Regulations, 2015, read with SEBI Circular
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026, dated 30th January, 2026:
+S. No
+1
+
+Details of the events
+The reason for change viz.
+appointment, resignation, removal,
+death or otherwise
+
+2
+3
+
+Date of appointment
+Brief
+Profile
+(in
+appointment)
+
+case
+
+Appointment of CPTO
+Mr. Nitin Sagar was appointed as Chief Product
+Technology Officer (CPTO), Mappls AI of the
+Company to lead the development of AI-native
+maps and location intelligence platforms.
+
+4th November, 2026
+of Mr. Nitin Sagar is a seasoned product and
+technology leader with over 17 years of
+experience across location intelligence, digital
+payments and global travel.
+He was previously associated with MapmyIndia
+from 2009 to 2015, leading product and platform
+development and integrations with leading
+automotive manufacturers. He has also held
+leadership roles at Pitney Bowes, Paytm and
+Expedia Group, driving large-scale product
+innovation and technology transformation.
+
+4
+
+The disclosure of relationships
+between director (in case
+appointment of a director
+
+of
+
+Mr. Nitin holds a B.Tech. in Computer Science
+and Engineering from IIT Delhi and brings
+extensive expertise in building scalable
+technology platforms and high-performing teams,
+with a focus on advancing AI-driven mapping
+and location intelligence solutions.
+NA
+
+

@@ -1,0 +1,157 @@
+                      
+ 
+Regd. Office & Works : 8, Electronics Complex, Chambaghat, Solan- 173213 (H.P.)  Tel: (01792) 230644, 230645, 230647 Fax: (01792) 231902 
+Corporate Identity Number: L64200HP1987PLC007466  
+HFCL/SEC/24- 25        
+August  21, 2024  
+ 
+The BSE Ltd.  
+1st Floor, New Trading Wing, Rotunda Building  
+Phiroze Jeejeebhoy Towers, Dalal Street, Fort  
+Mumbai – 400001  
+corp.relations@bseindia.com 
+Security Code No.: 500183  The National Stock Exchange of India Ltd.  
+Exchange Plaza, 5th Floor, C – 1, Block G  
+Bandra – Kurla Complex, Bandra (E)  
+Mumbai – 400051  
+cmlist@nse.co.in  
+Security Code No.: HFCL  
+ 
+ 
+Subject:  Press Release:   HFCL debuts new ribbon and micro  cable solutions at ISE EXPO 2024  
+ 
+Dear Sir(s)/ Madam,  
+ 
+We are pleased to announce to  all our stakeholders that the Company has successfully introduced  its suite of 
+new high -performance cable solutions at ISE EXPO 2024 in Dallas, Texas, USA today . With the introduction  of 
+these innovative cables, as a prominent global manufacturer of optical fibers and optical fiber  cables, the 
+Company will play a significant role in building robust networks that speed up fiberization across North 
+America, the world’s fastest growing data centre hub.  
+ 
+As part of our mission to continue building  a sustainable global digital economy, HFCL integrates eco -friendly 
+manufacturing practices to minimise its  carbon footprint while adhering to international quality standards . 
+ We are  enclosing  herewith  a Press Release in this regard . 
+ 
+We request to take t he above information on  your  record s and disseminate the same on your respective 
+websites.  
+ Thanking you.  
+ 
+Yours faithfully,  
+For HFCL Limited    
+  
+ 
+ (Manoj Baid)  
+President & Company Secretary  
+ 
+Encl.: Press Release.  
+ 
+ 
+Press Release  
+For immediate Release  
+ 
+ 
+HFCL debuts  new ribbon and microcable solutions at ISE EXPO 2024; redefining  
+network infrastructure  for North America’s connectivity needs  
+ 
+Dallas, Texas, August 21, 2024:  HFCL Limited (HFCL), a leading technology enterprise and integrated 
+provider of next -gen communications products and solution s, today introduced a suite of  new high -
+performance c able solutions at ISE EXPO 2024 in Dallas, Texas, USA. First, HFCL introduced  a product line 
+of high -density single -jacket single -armor Intermittently Bonded Ribbon (IBR) cables with 144 -1728 
+fibers, a development which was recognized with the presentation of an ISE Innovators Award.  Second, 
+HFCL expanded its award -winning Nano Th in product line of loose tube microcables to add a 10.6mm 
+diameter 864 fiber cable.    
+ 
+As one of the leading  global suppliers of optical fiber cables, HFCL will cater to changing demand s for 
+network deployment driven by growth in data centers, metro netwo rks and FTTx in North America  with 
+these  innovative cable solutions .  
+ 
+In order to address the connectivity needs and bandwidth challenges faced by telcos and enterprises in the 
+fast- evolving digital landscape, HFCL showcased its new family of 144 -1728F Si ngle -Jacket Single -Armor 
+IBR Cables, the smallest, lightest and highest -density general purpose armored ribbon cables available in 
+the North American market. The rugged armored design makes these cables ideal for lashed aerial, direct buried and duct deplo yments, with a wide range of fiber counts available to support OSP trunk and 
+distribution applications.  
+ This patent -pending cable family features a tubeless design for simplified core access, and supports quick, 
+direct access to the core with a guide notch for slitting tools.  These craft- friendly features facilitate  faster 
+splicing in the field during both installation and restoration. Use of fiberglass -composite strength members 
+instead of steel wire improves safety while supporting lower cable bend radius, enabling use of smaller 
+handholes and pedestals to reduce  both material consumption and system cost. Compared to competing 
+armored IBR cable solutions, the  cables themselves are more sustainable, with diameter reductions up to 
+24% and weight reductions ranging from 18 to 48%.   
+ 
+HFCL has also extended its sust ainable Nano Thin microcable product line to include a 10.6mm  diameter 
+864 fiber cable. This innovative cable maximize s fiber capacity in 14m m diameter microducts to support 
+increased traffic driven by AI and data centers. This 864  fiber cable uses cost -effective, backward -
+compatible ITU G.657.A1 optical fiber, and its fiber packing density of 9.8 fibers/mm
+2 is a world record for 
+cables with th is fiber type.  The cable has a fill factor of 0.75 in 14mm diameter microduct, smaller than 
+that of competing cables.  This ideal fill factor enables fast installation by jetting, as demonstrated by a trial by HFCL in which 2000m of cable was installed in  duct on an industry -standard  route in only 16 minutes, 
+an astonishing speed of 125 m/minute.    
+ Speaking on the launch of the se cable s, Mr. Harsh Pagay, Executive President, OF & OFC, HFCL , said, “ For 
+us, the North American market holds huge potential due  to network deployment s supporting rapid expansion 
+in data center, mobile and FTTH  capacities. As a prominent global manufacturer of optical fibers and optical 
+fiber cables, we are confident that we will play a significant role in building robust networks that speed up 
+fiberiz ation across North America with the launch of these innovative  cables. With our established team, office 
+and warehousing facility in the USA, we are dedicated to enhance connectivity throughout North America. ” 
+  
+ 
+Dr. Peter Weimann, Chief Technology Officer, OF & OFC, HFCL,  said, “ At HFCL, we design our optica l 
+cable solutions to directly address customer pain points.  These innovative,  next -gen high density  cables  will 
+deliver  high performance, installer friendly solutions to North America, the world’s fastest growing data centre 
+hub. The armored IBR cable family and the new 864 -fiber microcable target different parts of the network, 
+but both support increasing dema nd for high -speed connectivity,  5G expansion and linking hyperscale d ata 
+centers to end users. These smaller, high -density cables will empower our customers to achieve faster 
+installation and exceptional network performance  while minimizing raw materials consumption . As part of 
+our mission to continue to build a sustainable  global digital economy , HFCL also integrates eco -friendly 
+manufacturing practices to minimise the carbon footprint while adhering to international quality standards.”  
+ 
+The United States, the single largest region for connectivity and cloud in the world, houses more than 5300 
+data centre clusters across the country. In the US, North America  has continued to maintain its lead in the 
+market, boasting the most data centres and accounting for 69% of investments as of April 2024. Similarly, 
+data by Synergy Research Group  proves that the country accounts for 51% of data centre capacity 
+worldwide, a figure which is expected to double in the next four years with businesses migrating  to the 
+cloud and technology giants racing towards AI. In order to keep up with the pace, existing data centers are 
+being expanded both horizontally and vertically. Upgradation in existing power and network infrastructure is now becoming imperative.  
+ 
+Compa red to improvements in previous optical fiber cables, IBR Cables are a revolutionary product that 
+combines small diameters with the high fiber packing densities and supports mass fusion splicing. These 
+cables are also compliant to  the relevant parts of  various global cable performance standards, including IEC 
+60794, Telcordia GR -20, and ICEA -S-122- 744.   
+ 
+About HFCL  
+ 
+HFCL is a leading technology company specializing in creating digital networks for telcos, enterprises, and 
+governments. Over the years, H FCL has emerged as a trusted partner offering sustainable high -tech 
+solutions with a commitment to providing the latest technology products to its customers. HFCL’s strong R&D expertise coupled with its global system integration services and decades of experience in fiber optics 
+enable it to deliver innovative digital network solutions required for the most advanced networks.  
+ 
+The Company’s in -house R&D Centers  located at Gurgaon , Bengaluru and Hyderabad along with invested 
+R&D houses and other R&D collaborators at different locations in India and abroad, innovate a futuristic range of technology products and solutions. HFCL has developed capabilities to provide premium quality 
+Optical Fiber and Optical Fiber Cables, state - of-the-art telecom products includ ing 5G Radio Access 
+Network (RAN) products, 5G Transport Products, Wi- Fi Systems (Wi -Fi 6, Wi -Fi 7), Unlicensed Band 
+Radios, Switches, Routers and Defence electronics products.  
+ 
+The Company has state -of-the-art Optical Fiber and Optical Fiber Cable manuf acturing plants in Hyderabad, 
+and Optical Fiber Cable manufacturing plants in Goa and at its subsidiary HTL Limited in Chennai.  
+ 
+HFCL is a partner of choice for its customers across India, Europe, Asia Pacific, the Middle East, Africa, and North America . HFCL’s commitment to quality and environmental sustainability inspires it to innovate 
+solutions for the ever - evolving customer needs.  
+ 
+ 
+Visit www.hfcl.com  for more information .  
+For further details, please contact:  
+  
+HFCL  Limited  
+Manoj  Baid  | Amit  Agarwal | Alok  Chander  
+ 
+Email:  manoj.baid@hfcl.com  
+amit.agarwal@hfcl.com  
+alok@hfcl.com  
+ 
+Contact:  011  35209400  Adfactors  PR 
+Snigdha  Nair  | Vasundhra  Sethi  | Akshataa Acharya  
+ 
+Email:  snigdha.nair@adfactorspr.com  
+vasundhra.sethi@adfactorspr.com  
+akshataa.acharya@adfactorspr.com  
+ 
+Contact:  9920481191  | 7428508927  | 9148730795  

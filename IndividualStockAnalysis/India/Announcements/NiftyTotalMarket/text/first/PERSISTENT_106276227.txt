@@ -1,0 +1,536 @@
+ 
+ 
+ 
+Persistent Systems Limited, Bhageerath, 402 Senapati Bapat Road, Pune 411 016, Maharashtra, India   
+CIN - L72300PN1990PLC 056696 
+Tel:  +91 (20) 670 35555 | Fax  - +91 (20) 6703 6003 | E-mail - info@persistent.com | Website  - www.persistent.com  
+ 
+NSE & BSE / 202 5-26 / 075  
+ 
+June 2 3, 2025  
+ 
+The Manager  
+Corporate Services,  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex,  
+Bandra (E), Mumbai 400 051  
+ 
+Ref: Symbol: PERSISTENT  The Manager  
+Corporate Services,  
+BSE Limited  
+P J Towers, Dalal Street,  
+Mumbai 400 001  
+Ref: Scrip Code: 533179  
+ 
+Dear Sir/Madam,  
+ 
+Sub:    Submission of Business Responsibility and Sustainability Report for FY  2024 -25 
+ 
+Pursuant to Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, and all other applicable regulations, if any, we are enclos ing herewith a copy  of  
+the Business Responsibility and Sustainability Report ( ‘BRSR ’) for the FY 2024 -25, which also forms part of the 
+Annual Report for FY 2024 -25 is available on the website of the Company at Annual Report FY 2024- 25 
+ We request you to take the same on your records.  
+ Please acknowledge the receipt.  
+ Thanking you,  
+Yours Sincerely,  
+For Persistent Systems Limited  
+    Amit Atre 
+Company Secretary  
+ICSI Membership No.: A20507 
+ Encl.: As above  
+All Rights Reserved © 2025.2 1
+Business Responsibility and Sustainability ReportBusiness  
+Responsibility  
+and Sustainability Report  
+FY2024-25
+All Rights Reserved © 2025.4 3
+Business Responsibility and Sustainability ReportII. Products / Services
+ 16. Details of business activities (accounting for 90% of the turnover): 
+   Persistent Systems Limited is a trusted Digital Engineering and Enterprise Modernization partner, combining deep 
+technical expertise and industry experience to help our clients anticipate what’s next, and answer questions before 
+they’re asked. Our offerings and proven solutions create a unique competitive advantage for our clients by giving 
+them the power to see beyond and rise above.  
+Please refer to the  Financial Performance  Section in the Annual report . 
+S. No. Description of Main Activity Description of Business Activity % of Turnover of the entity
+1 Software and IT consulting  
+(GICS classification – Information 
+Technology – Software and Services)Software enabled product engineering 
+and designing and R&D services95%
+2 IP products (IP LED Services) AMC, Royality, License sale (Owned & 
+Third party), any customization work on 
+owned products, etc.5%
+ 17. Products / Services sold by the entity (accounting for 90% of the entity’s Turnover) 
+   Click for more details  https:/ /www.persistent.com/services/
+S. No. Products / Services NIC Code% of total Turnover 
+contribute
+1 Software enabled product engineering and designing and R&D services 620 95%
+2 IP products 620 5%
+IIl.  Operations
+ 18. Number of locations where plants and / or operations / offices of the entity are situated:
+Location Number of plants Number of offices Total
+National Not applicable 23 23
+International Not applicable 46 46
+  19. Markets served by the entity:
+a. Number of locations 
+Locations Number
+National (No. of States) 12
+International (No. of Countries) 18
+ b.  What is the contribution of exports as a percentage of the total turnover of the entity?
+   91%
+  c.  A brief on types of customers
+    Persistent Systems Limited (BSE Script Code: 533179, NSE Symbol: 533179) is a global services and solutions 
+Company delivering Digital Engineering and Enterprise Modernization to businesses across industries. With over 
+24,594 employees located in 18 countries, the Company is committed to innovation and client success. Persistent 
+Systems Limited serves enterprise customers across various domains, including Healthcare & Life Sciences 
+(HLS), Banking, Financial Services & Insurance (BFSI), Communications, Media & Technology (CMT), and more. 
+The Company offers a comprehensive suite of services, including AI-enabled software engineering, product 
+development, data and analytics, CX transformation, cloud computing, and intelligent automation. Please refer to 
+details provided in the customer segments of the Annua l Report.  Click here for more details.Business Responsibility and Sustainability Report FY 2024-25
+Section A: General Disclosures
+I. Details of the listed entity
+ 1. Corporate Identity Number (CIN) of the Listed Entity: L72300PN1990PLC056696 
+ 2. Name of the Listed Entity: Persistent Systems Limited
+ 3. Year of incorporation: 1990
+ 4. Registered office address: ‘Bhageerath’, 402 Senapati Bapat Road, Pune, Maharashtra 411 016
+ 5. Corporate address: ‘Bhageerath’, 402 Senapati Bapat Road, Pune, Maharashtra 411 016
+ 6. E-mail: corpsec@persistent.com
+ 7. Telephone: +91 (20) 6703 5555
+ 8. Website: www.persistent.com
+ 9. Financial year for which reporting is being done: FY 2024-25 i.e, April 1, 2024, to March 31, 2025
+ 10. Name of the Stock Exchange(s) where shares are listed:  
+  BSE Limited (BSE) | National Stock Exchange of India Limited (NSE)
+ 11. Paid-up Capital as on March 31, 2025 is INR 77,92,50,000 
+  The Paid-up equity share capital as on March 31, 2025 is INR 77,92,50,000 comprising 155,850,000 Equity Shares   
+  of face value of INR 5 each 
+ 12.  Name and contact details (telephone, email address) of the person who may be contacted in case of any queries on 
+the BRSR report 
+Name: Mr. Amit Atre, Company Secretary & Ms. Chitra Byregowda, Head ESG  
+Telephone: +91 (20) 6703 5555  
+E-mail: investors@persistent.com or companysecretary@persistent.com
+ 13.  Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e., only for the entity) or on 
+a consolidated basis (i.e., for the entity and all the entities which form a part of its consolidated financial statements, 
+taken together). 
+The BRSR report is prepared on a consolidated basis unless otherwise specified in the respective indicator. ESG 
+indicators are disclosed based on the operational control approach, as specified in the boundaries, and in accordance 
+with SEBI BRSR Annexure 1 and Annexure 2 guidelines.  
+ 14. Name of assurance provider: DNV Business Assurance India Private Limited (‘DNV’).
+ 15.  Type of assurance obtained
+• Reasonable Level of assurance for BRSR 9 Core Attributes (Ref: Annexure I of SEBI circular)
+• Limited Level of assurance for BRSR Comprehensive indicators (Ref: Annexure II of SEBI circular)
+  Refer to the Independent Assurance Statement
+All Rights Reserved © 2025.6 5
+Business Responsibility and Sustainability ReportIV. Employees
+ 20. Details as at the end of Financial Year:
+a.  Employees and workers (including differently abled):
+Employees and workers
+Employees
+ S. No. Particulars Male Female
+Total (A) No. (B) % (B / A) No. (C) % (C / A)
+1 Permanent (D) 22,205 15,482 69.7% 6,723 30.3%
+2 Other than Permanent (E) 2,389 1,771 74.1% 618 25.9%
+3 Total employees (D + E) 24,594 17,253 70.2% 7,341 29.8%
+Workers - Not Applicable
+Total employee count includes full-time employees (FTE), contractors, and consultants. We categorize the entire 
+workforce under “Employees” and none as “workers.” Therefore, any information required in sections pertaining to the 
+“Workers” category is not applicable to us.  
+Gender disclosure is voluntary, based on self-declaration by employees.   
+b. Differently abled Employees and workers:
+Differently Abled Employees
+ S. No. Particulars Male Female
+Total (A) No. (B) % (B / A) No. (C) % (C / A)
+1 Permanent (D) 51 39 76.5% 12 23.5%
+2 Other than Permanent (E) 0 0 0% 0 0%
+3 Total employees (D + E) 51 39 76.5% 12 23.5%
+Differently Abled Workers - Not Applicable
+The numbers above are based on employees’ voluntary disclosures.
+ 21. Participation / Inclusion / Representation of women
+No. and percentage of Females
+Total (A) No. (B) % (B / A)
+Board of Directors 9 * 2 22.22%
+Key Managerial Personnel 4 0 0%
+   Key Managerial Personnel (KMP) includes Chairman, Chief Executive Officer (CEO), Chief Financial Officer (CFO) and 
+Company Secretary (CS).
+  * Sunil Sapre served as CFO until May 15, 2024. Vinit Teredesai was appointed as CFO on May 15, 2024.
+ 22. Turnover rate for permanent employees and workers
+ FY 2024-25 FY 2023-24 FY 2022-23
+Male Female Total Male Female Total Male Female Total
+Permanent Employees
+13.3% 12.10% 12.9% 11.6% 11.4% 11.5% 20.7% 19.06% 19.76%
+Turnover rate for permanent employees includes voluntary attrition.V. Holding, Subsidiary and Associate Companies (including joint ventures)
+ 23. Names of holding / subsidiary / associate companies / joint ventures
+ S. 
+No.Name of the holding / subsidiary / associate 
+companies / joint ventures (A)Indicate whether 
+holding/ Subsidiary 
+/ Associate / Joint 
+Venture% of 
+shares 
+held by 
+listed 
+entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes / No)
+1 Persistent India Foundation, India Subsidiary Company 100% Yes
+2 Capiot Software Private Limited, India Subsidiary Company 100% Yes
+3 MediaAgility India Private Limited, India Subsidiary Company 100% Yes
+4 Persistent Systems UK Limited, UK Subsidiary Company 100% Yes
+5 Arrka Infosec Private Limited, India Subsidiary Company 100% Yes
+6 Persistent Systems Malaysia Sdn. Bhd., Malaysia Subsidiary Company 100% Yes
+7 Persistent Systems Pte. Ltd., Singapore Subsidiary Company 100% Yes
+8 Persistent Systems France S.A.S., France Subsidiary Company 100% Yes
+9 Persistent Systems Germany GmbH, Germany Subsidiary Company 100% Yes
+10 Persistent Systems Switzerland AG, Switzerland^ Subsidiary Company^ 100% Yes
+11 Persistent Systems Costa Rica Limitada^ Subsidiary Company^ 100% Yes
+12 Persistent Systems S.r.l., Romania^ Subsidiary Company 100% Yes
+13 Persistent Systems Inc.,z USA Subsidiary Company 100% Yes
+14 Aepona Group Limited, Ireland* Subsidiary Company* 100% Yes
+15 Persistent Systems Lanka (Private) Limited, Sri Lanka~ Subsidiary Company~ 100% Yes
+16 Persistent Systems Poland spolka z.o.o., Poland* Subsidiary Company* 100% Yes
+17 Starfish Associates, LLC, USA* Subsidiary Company* 100% Yes
+18 Persistent Systems Israel Ltd., Israel* Subsidiary Company* 100% Yes
+19 Persistent Systems Mexico S.A. de C.V., Mexico* Subsidiary Company* 100% Yes
+20 Persistent Systems Australia Pty. Ltd., Australia* Subsidiary Company* 100% Yes
+21 Persistent Telecom Solutions Inc., USA* Subsidiary Company* 100% Yes
+22 MediaAgility Inc., USA* Subsidiary Company* 100% Yes
+23 MediaAgility Pte. Ltd., Singapore** Subsidiary Company** 100% Yes
+24 MediaAgility UK Ltd., UK** Subsidiary Company** 100% Yes
+25 Digitalagility S de RL de CV, Mexico** Subsidiary Company** 100% Yes
+ (*) Subsidiary of Persistent Systems, Inc. and Step-down subsidiary of Persistent Systems Limited, India.
+ (^) Subsidiary of Persistent Systems Germany GmbH, Germany and Step-down subsidiary of Persistent Systems    
+Limited, India.
+ (~) Subsidiary of Aepona Group Limited, Ireland and Step-down subsidiary of Persistent Systems Limited, India.
+ (**) A subsidiary of MediaAgility Inc. USA, Step down subsidiary of Persistent Systems Inc., and Ultimate Parent    
+Company being Persistent Systems Limited.
+  Refer to  https:/ /www.persistent.com/investors/corporate-governance/subsidiaries/
+VI. CSR Details
+   24. i. Whether CSR is applicable as per section 135 of Companies Act, 2013:  
+    Yes 
+   ii. Turnover in INR 117,280.21 Million
+   iii. Net worth in INR 59,740.08 Million
+All Rights Reserved © 2025.8 7
+Business Responsibility and Sustainability ReportVII. Transparency and Disclosures Compliances
+ 25.  Complaints / Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on Responsible 
+Business Conduct:
+  FY 2024-25 FY 2023-24 
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place 
+(Yes / No) (If yes, then 
+provide web-link for 
+grievance redress policy)Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+year RemarksNumber of 
+complaints 
+filed 
+during the 
+yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+year Remarks
+Communities Yes, The Company has 
+a strong  
+Whistleblower Policy 
+in place and has also 
+established a Toll-
+free Whistleblower 
+Helpline Numbers: 
+India: 18002100165 
+USA: 18336058476 
+Online Complaints 
+may be sent to 
+the Whistleblower 
+Administrator on 
+the following E-mail 
+ID: whistleblower@
+persistent.com. 
+The Whistleblower 
+policy is available at: 
+Whistleblower  Policy | 
+Persistent Systems.
+The CSR team 
+also engages 
+with beneficiaries 
+through stakeholder 
+mechanisms to 
+address issues on an 
+ongoing basis.0 0 None 0 0 All 
+stakeholders 
+of the 
+Company are 
+encouraged to 
+report either 
+orally or in 
+writing to the 
+Whistleblower 
+Administrator, 
+evidence(s) 
+the Company, 
+departments 
+or Employee(s) 
+that may 
+constitute 
+Improper 
+Activities 
+affecting the 
+business or 
+reputation of 
+the Company. 
+Corporate 
+Governance 
+Report 
+contains 
+details of 
+Investor 
+Complaints. 
+Please refer to 
+the ‘Investors’ 
+Grievances’ 
+section of the 
+Corporate 
+Governance 
+ReportInvestors 
+(other than 
+shareholders) Yes, Investors  can 
+raise grievances 
+through the 
+whistleblower system 
+mentioned above  and 
+write to investor@
+persistent.com0 0 0 0
+Shareholders* Yes, Shareholders 
+can raise grievances 
+through the 
+whistleblower system 
+mentioned above2 0 1 0  FY 2024-25 FY 2023-24 
+Stakeholder 
+group from 
+whom 
+complaint is 
+receivedGrievance Redressal 
+Mechanism in Place 
+(Yes /  
+No) (If yes, then provide 
+web-link for grievance 
+redress policy)Number of 
+complaints filed 
+during the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+year RemarksNumber of 
+complaints filed 
+during the yearNumber of 
+complaints 
+pending 
+resolution at 
+close of the 
+year Remarks
+Employees 
+and workersYes, Employees can 
+raise grievances 
+internally through the 
+Global Help Desk, as 
+well as through the 
+whistleblower system 
+mentioned above37 0 33** 0
+Customers Yes, Customers can 
+raise grievances 
+through the 
+whistleblower system 
+mentioned above0 0 0 0
+Value Chain 
+PartnersYes, Value Chain 
+partners can raise 
+grievances through 
+the whistleblower 
+system mentioned 
+above5 0 0 0
+Other 
+(please 
+specify)Not applicable Not applicable Not applicable Not applicable
+*During FY 2024-25, we received a total of 91 other requests from shareholders, while during FY 2023-24,  
+we received a total of 67 other requests. All the requests were resolved. Refer to the  Corporate Governance section  
+of Annual Report.
+** Revising FY 2023-24 numbers due to previous year’s reporting error.
+All Rights Reserved © 2025.10 9
+Business Responsibility and Sustainability Report 26. Overview of the entity’s material responsible business conduct issues 
+  We have integrated our materiality assessment into the Enterprise Risk Management (ERM) process to identify,   
+  assess, and mitigate ESG-related risks and opportunities. This strengthens our commitment to sustainable and   
+  responsible business practices.
+S. 
+No.Material 
+issue 
+identifiedRationale for 
+identifying the risk / 
+opportunityIndicate 
+whether 
+risk or 
+opportunity 
+(R / O) In case of risk, approach to adapt or mitigateFinancial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+1. Cyber-Attack 
+and Hacking 
+Risk•  External 
+attacks, 
+malware, 
+compromised 
+credentials, 
+Business email 
+compromise 
+via. phishing 
+and other 
+cyber security 
+risks may result 
+in data loss 
+and loss of 
+reputationRisk •  Robust Information Security Management 
+System (ISMS) centered around 
+comprehensive Information Security policies 
+based on industry best practices and leading 
+security frameworks, with a continuous 
+reinforcement of security controls to ensure 
+the confidentiality, integrity, and availability of 
+information assets
+•  Multi-layered governance process with 
+executive and Board oversight
+•  Certifications such as ISO 27001, ISO 27017, 
+ISO 27018, ISO 27701, and SOC 2 Type II 
+attestations to demonstrate our commitment 
+to cybersecurity
+•  Continued investment and deployment of 
+state-of-the-art technologies such as Zero 
+Trust, Advanced endpoint protection solution, 
+Dark / Deep web monitoring, etc., to secure 
+corporate infra, data & applications
+•  Access controls including Multi Factor 
+Authentication for secure access to enterprise 
+applications / network, special handling of 
+privileged administrator accounts, rigorous 
+access management on all cloud deployments
+•  Mandatory training and adequate awareness 
+measures across employee life cycle ensure a 
+strong human firewall
+•  Implementation of enhanced Data Leakage 
+prevention platform to protect critical data
+•   Encryption of data, data back-up and recovery 
+mechanisms for ensuring business continuity 
+aligned to ISO 22301:2019
+•  Established threat intelligence, security 
+monitoring and incident response processes 
+to detect and respond to cybersecurity threats 
+and incidents coordinated through a 24x7 
+Security Operations Center
+•  Internal and external audits and red teaming to 
+validate effectiveness of controlsNegativeS. 
+No.Material issue 
+identifiedRationale for 
+identifying the risk / 
+opportunityIndicate 
+whether 
+risk or 
+opportunity 
+(R / O) In case of risk, approach to adapt or mitigateFinancial 
+implications 
+of the risk or 
+opportunity 
+(Indicate positive 
+or negative 
+implications)
+2. Data Privacy 
+Risk•  Persistent 
+Systems 
+Limited 
+operates 
+globally, hence 
+needs to be 
+compliant 
+with the 
+data privacy 
+laws across 
+countries 
+where we 
+operate
+•  Unauthorized 
+use or 
+disclosure of 
+employee or 
+Company or 
+customer data 
+may lead to 
+either breach 
+of customer 
+contract or 
+fines / penalties 
+from regulators  
+and / or 
+damage to the 
+company’s 
+reputation Risk •  Robust Privacy Information Management 
+System (PIMS) to safeguard personal data 
+and ensure compliance with applicable 
+legal, regulatory, and contractual obligations 
+pertaining to data privacy and protection
+•  Global privacy policy covering all geographies, 
+all areas of operations, and stakeholders
+•  Data Loss Protection (DLP), Data Classification 
+and Data Encryption technologies are 
+deployed to protect personal information
+•  Access controls including Multi Factor 
+Authentication, Privileged administrator 
+account management tools are deployed.  
+All access provisioning is on a need-to-know 
+basis and access reviews are performed on a 
+regular basis
+•  Dedicated Data Protection Officer and  
+Privacy Team
+•  Continuous strengthening of global privacy 
+program through monitoring of regulatory 
+mandates, revalidation of existing frameworks, 
+policies and processes and ensuring 
+applicability to customer contracts
+•  Technical and organization measures such  
+as PII Inventories, Privacy Impact  
+Assessment, Incident Management 
+Procedures and Systems, Breach Notification 
+Management, Data Subject Rights Request 
+Management, etc. 
+•  Development of products & applications, 
+including change in processing of personal 
+data go through appropriate privacy 
+assessments and approval
+•  Vendors and third parties subjected to  
+due diligence, contracted with appropriate 
+privacy obligations
+•  Mandatory training on data protection,  
+Privacy by Design, and global privacy 
+regulations. Continuous awareness campaigns 
+through blog posts, email broadcasts, and 
+online events
+•  Periodic reviews and audits by an  
+independent audit firm to verify compliance  
+to obligations in addition to internal audits 
+across the ecosystem
+•  Certified under ISO 27701:2019 – Privacy 
+Information Management System, ISO 
+27018:2014 – Securing Personal Data in Cloud 
+and SOC 2 Type 2 AttestationNegative

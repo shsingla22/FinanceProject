@@ -1,0 +1,325 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One 97 Communications Limited  
+ 
+compliance.officer@paytm.com   
+ 
+www.paytm.com  Corporate Office - One Skymark, Tower -D, Plot No. H -10B, Sector -98, Noida -201304  
+ 
+T: +91120 4770770     F: +91120 4770771  CIN: L72200DL2000PLC108985  
+ 
+Registered Office -  136, First Floor, Devika Tower, Nehru Place, New Delhi -110019 
+ 
+ 
+ 
+August 21, 2026  
+ 
+ BSE Limited  
+ Department of Corporate Services,  
+ Phiroze Jeejeebhoy Towers,  
+ Dalal Street, Fort,  
+ Mumbai - 400 001  
+ 
+ Scrip Code: 543396      National Stock Exchange of India Limited  
+The Listing Department,  
+Exchange Plaza,  
+Bandra Kurla Complex,  
+Mumbai - 400 051  
+ 
+Symbol: PAYTM  
+  
+Sub: Disclosure under Regulation 34 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 -  Business Responsibility and Sustainability Report of the Company for the financial year 
+2025- 26 
+ Dear Sir/ Ma’am,   
+Pursuant to Regulation 34 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+Please find enclosed Business Responsibility and Sustainability Report of the Company for the financial year 
+2025- 26, along with Independent Assurance St atement, issued by SGS India Private Limited, which forms 
+part of Annual Report.  
+ 
+This disclosure will also be hosted on the Company's website viz. https://ir.paytm.com/ . 
+ Kindly take the same on record.  
+ Thanking you,  
+Yours Sincerely,  
+ For One 97 Communications Limited  
+  Sunil Kumar Bansal  Company Secretary and Compliance Officer  
+FCS: 4810  
+ 
+Encl.: As above  
+I. Details of the listed entity
+1Corporate Identity Number (CIN) of the Listed Entity L72200DL2000PLC108985
+2Name of the Listed Entity One 97 Communications Limited
+3Year of incorporation 2000
+4Registered office address 136, First Floor, Devika Tower Nehru Place, New 
+Delhi, India-110019
+5Corporate address One Skymark, Tower-D, Plot No. H-10B, Sector-98, 
+Noida, Uttar Pradesh, India-201304
+6E-mail compliance.officer@paytm.com
+7Telephone +91-120-4770770
+8Website https://paytm.com/
+9Financial year for which reporting is being done FY 2025-26
+10Name of the Stock Exchange(s) where shares are listed The Equity shares of OCL are listed and traded on 
+National Stock Exchange of India Limited (NSE) and 
+Bombay Stock Exchange Limited (BSE).
+11Paid-up Capital H 64,00,45,681
+12Name and contact details (telephone, email address) 
+of the person who may be contacted in case of any 
+queries on the BRSR reportName: Sunil Kumar Bansal 
+Company Secretary and Compliance Officer
+Telephone Number: +91-120-4770770
+Email: compliance.officer@paytm.com
+13 Reporting boundary For FY 2025–26, the reporting boundary has been 
+expanded to include One 97 Communications 
+Limited (OCL) and its wholly owned material 
+subsidiary, Paytm Payments Services Limited (PPSL) 
+— collectively referred to as “Paytm or Company.”
+This is due to the transfer of offline merchant 
+payments business from OCL to PPSL effective from 
+midnight of November 30, 2025. This expanded 
+reporting boundary provides stakeholders with a 
+more comprehensive view of Paytm’s core payments 
+business, including key digital solutions such as 
+Soundbox and POS machines.
+For FY 2024-25, the data is presented for OCL on 
+a standalone basis. The data disclosed for FY 2025 
+- 26 is not directly comparable with FY 2024 - 25 
+data due to change in reporting boundary, year-on-
+year comparisons should be interpreted with due 
+consideration of the change in reporting scope.
+Key Performance Indicators (KPIs) associated with 
+the Environment & Social pillars across the report are 
+presented on a combined basis for OCL and PPSL, 
+unless otherwise specified. In order to maintain data 
+accuracy and transparency for stakeholders, few 
+of the Governance and Financial disclosures are 
+disclosed separately for OCL and PPSL in distinct 
+tables wherever applicable. Furthermore, Financial 
+figures have been restated for FY 2024 - 25 to 
+reflect the change in reporting from Millions to 
+Crores.Business Responsibility & Sustainability Reporting
+SECTION A: GENERAL DISCLOSURES
+Statutory Reports
+1
+Business Responsibility & Sustainability ReportingAnnual Report  
+2026
+14Name of assurance provider SGS India Private Limited
+15Type of assurance obtained Reasonable Assurance for BRSR Core Indicators, 
+Limited Assurance for BRSR Non-Core (Essential & 
+Leadership) Indicators.
+II. Products/services 
+16. Details of business activities (accounting for 90% of the turnover):
+ For OCL
+S. 
+NoDescription of 
+Main ActivityDescription of Business Activity% of Turnover 
+of the entity
+1Payment and 
+Financial ServicesPayment Services for consumers and merchants, which enable them to 
+send and receive payments both online and in-store.
+Financial Services include distribution of digital gold and digital 
+distribution of credit.85.19%
+2Marketing Services Marketing Services include ticketing for travel, deals and gift vouchers. 
+It also includes advertising and credit card distribution for merchants.14.81%
+ For PPSL
+S. 
+NoDescription of 
+Main ActivityDescription of Business Activity% of Turnover 
+of the entity1
+1Payment Payment Services for merchants, which enable them to receive 
+payments offline, online and in-store.100.00%
+  1Note: The reported figures are based on restated financials of PPSL that incorporate eight months of revenue from the offline merchant 
+payments business under the holding company i.e OCL. Although the offline merchant payments business was transferred from OCL to PPSL 
+effective from midnight of November 30, 2025, the financial figures have been restated for PPSL as per the applicable accounting standards 
+requiring the disclosure of a full year of operations.
+17 . Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. 
+NoProduct/ServiceNIC 
+Code% of total 
+Turnover 
+contributed
+1Key services offered by OCL (including its subsidiaries such as Paytm Insurance Broking 
+Private Limited, Paytm Money Limited and Paytm Payments Services Limited) include 
+mobile recharge, bill payments such as utility bills, education and money transfers on 
+the app, online payment gateways as well as offline payment solutions to merchants 
+either through QR codes, Soundbox or Card Machines. Apart from this, it also offers 
+digital distribution of credit, insurance, mutual funds and equity broking. Other services 
+include ticketing, deals and gift vouchers and advertising services for merchants as well 
+as distribution of credit cards.63999 100.00%
+Statutory Reports
+2
+Business Responsibility & Sustainability ReportingAnnual Report 
+2026
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+LocationNumber of 
+plantsNumber of 
+officesTotal
+National10 90 90
+International20 20 20
+1Note: National locations represent Corporate offices, Sales offices and Fleet hubs. 
+2Note: International locations represent the number of registered offices of the subsidiaries of OCL.
+19. Markets served by the entity:
+a. Number of locations
+Locations Number 
+National (No. of States) 28 States and 8 Union Territories1
+International (No. of Countries) 132
+1 Note: Paytm provides its Payment, Financial and Marketing services across all States and Union Territories of India.
+2 Note: International locations in terms of market served represent the number of countries that generated recorded revenue from the export service 
+provided during the FY 2025-26, either by OCL, or by its subsidiaries.
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+ For OCL, total export is less than 1% of total revenue from operations during FY 2025-26.
+  For PPSL, there is no contribution from export services as a percentage of the total turnover.
+c. A brief on types of customers
+ Customers: Leverage Paytm app and website for payment services such as seamless money transfers, merchant 
+payments, bill payments and e-commerce transactions. The Company offers payments, marketing and financial 
+services to over 7.55 Crore transacting users (average of FY 2025-26) who benefit from our aforesaid diverse range 
+of services. These services are available on a pan India basis to individuals spanning across various age groups. The 
+Company has a customer centric approach as their active engagement drives innovation in areas of payment and 
+financial services. 
+ Merchants: Our merchants leverage our innovative payment solution services through our QR codes, Soundbox 
+and POS Machines for seamless payment acceptance and to enhance overall customer experience. Our merchant 
+network has grown substantially, reaching 4.90 Crore merchants as of March 2026.
+IV. Employees
+20. Details as at the end of Financial Year: 
+a. Employees and workers (including differently abled):
+S. 
+No.ParticularsTotal 
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+EMPLOYEES
+1. Permanent (D)110,587 9,545 90.16% 1,042 9.84%
+2. Other (E) NIL NIL NIL NIL NIL
+3. Total employees (D + E) 10,587 9,545 90.16% 1,042 9.84%
+WORKERS2
+4.Permanent (F) NIL NIL NIL NIL NIL
+5.Other than Permanent (G) NIL NIL NIL NIL NIL
+6.Total workers (F + G) NIL NIL NIL NIL NIL
+1Note: Permanent Employees include Full Time Sales and Non-Sales employees. 
+2Note: All of Paytm’s workforce is categorized as ‘Employees’ and it does not have any ‘Workers’. Hence in all the sections, details sought for the 
+‘Workers’ category are not applicable.
+Statutory Reports
+3
+Business Responsibility & Sustainability ReportingAnnual Report  
+2026
+b. Differently abled Employees and workers:
+S. 
+No.ParticularsTotal 
+(A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+DIFFERENTLY ABLED EMPLOYEES
+1.Permanent (D)1 10  10  100.00% NIL NIL
+2.Other (E) NIL NIL NIL NIL NIL
+3.Total employees (D + E)  10  10 100.00% NIL NIL
+DIFFERENTLY ABLED WORKERS
+4.Permanent (F) NIL NIL NIL NIL NIL
+5.Other than Permanent (G) NIL NIL NIL NIL NIL
+6.Total workers (F + G) NIL NIL NIL NIL NIL
+1Note: The data presented above encompasses individuals who have self-identified as disabled and have provided their disability certificates.
+21. Participation/Inclusion/Representation of women
+OCL
+Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 7 2 28.57%
+Key Management Personnel14 1 25.00%
+PPSL
+Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 6 1 16.67%
+Key Management Personnel14 1 25.00%
+ Note: Above table represents Paytm’s Board of Directors and Key Management Personnel as of March 31, 2026.
+ 1 Note: Key Managerial Personnel (KMP) comprise the Managing Director (MD) & Chief Executive Officer (CEO), Chief Financial Officer (CFO), Company 
+ Secretary (CS), and Whole-Time Director, in accordance with the provisions of the Companies Act.
+22. Turnover rate for permanent employees and workers 
+(Disclose trends for the past 3 years)
+FY 2025 - 26 
+Current Financial YearFY 2024 - 25  
+Previous Financial YearFY 2023 - 24 Prior to 
+Previous Financial Year
+Male Female Total Male Female Total Male Female Total
+Permanent Employees150.09% 44.99% 49.67% 99.85% 66.32% 97.47% 86.30% 37.93% 82.58%
+Permanent Workers NIL NIL NIL NIL NIL NIL NIL NIL NIL
+1Note: Turnover rate for permanent employees includes confirmed Sales and Non-Sales employees (Entity transfers from the Company to other 
+group entities are not included in attrition). Sales and Non-Sales employees on probation are not included since they are yet to be confirmed. The 
+majority of attrition is attributable to the field sales workforce. During  FY 2025–26, the turnover rate decreased as new field sales employees were 
+onboarded under a different entity.
+Statutory Reports
+4
+Business Responsibility & Sustainability ReportingAnnual Report 
+2026
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+S.
+No.Name of the holding / subsidiary / associate companies / joint 
+ventures (A)Indicate 
+whether 
+holding/
+Subsidiary/
+Associate/ 
+Joint Venture% of 
+shares 
+held by 
+listed 
+entityDoes the entity 
+indicated at 
+column A, 
+participate in 
+the Business 
+Responsibility 
+initiatives of the 
+listed entity? 
+(Yes/No)
+1Paytm Payments Services Limited Subsidiary 100.00% Yes
+2OCL Tech Platforms Limited
+(formerly known as One 97 Communications India Limited)Subsidiary 100.00% No
+3Paytm Cloud Technologies Limited ('PCTL')  
+(formerly known as Paytm Entertainment Limited)Subsidiary 100.00% No
+4Paytm Money Limited Subsidiary 100.00% No
+5Mobiquest Mobile Technologies Private Limited # Subsidiary 100.00% No
+6Urja Money Private Limited ('Urja') ## Subsidiary 100.00% No
+7Paytm Services Private Limited Subsidiary 100.00% No
+8Paytm Insurance Broking Private Limited Subsidiary 100.00% No
+9Foster Payment Networks Private Limited  
+(w.e.f. October 10, 2025)*Subsidiary 100.00% No
+10Paytm Intelligence Limited  
+(formerly known as Paytm Emerging Tech Limited and earlier 
+Paytm General Insurance Limited) (w.e.f. October 30, 2025)*Subsidiary 100.00% No
+11Paytm Assure Tech Limited  
+(formerly known as Paytm Life Insurance Limited)  
+(w.e.f. October 30, 2025)*Subsidiary 100.00% No
+12Paytm Insuretech Private Limited  
+(w.e.f. November 28, 2025)*Subsidiary 100.00% No
+13Paytm Financial Services Limited ('PFSL')  
+(w.e.f. November 28, 2025)*Subsidiary 100.00% No
+14Admirable Software Limited  
+(w.e.f. December 31, 2025)*Subsidiary 100.00% No
+15Fincollect Services Private Limited  
+(w.e.f. January 13, 2026)*Subsidiary 100.00% No
+16Paytm Singapore Private Limited  
+(subsidiary of PCTL, w.e.f. June 03, 2025)Subsidiary 100.00% No
+17Paytm Company (subsidiary of PCTL, w.e.f. July 17, 2025) Subsidiary 100.00% No
+18Paytm Europe Payments S.A.  
+(subsidiary of PCTL, w.e.f. January 12, 2026)Subsidiary 100.00% No
+19One97 Communications Nigeria Limited Subsidiary 100.00% No
+20One97 Communications FZ-LLC Subsidiary 100.00% No
+21One97 Communications Singapore Private Limited ('OCSPL') ### Subsidiary 100.00% No
+22One97 USA Inc. Subsidiary 100.00% No
+23One97 Communications Rwanda Private Limited  
+(subsidiary of OCSPL)Subsidiary 100.00% No
+24One97 Communications Tanzania Private Limited  
+(subsidiary of OCSPL)Subsidiary 100.00% No
+25One97 Uganda Limited (subsidiary of OCSPL) Subsidiary 100.00% No
+26One97 Ivory Coast SA (subsidiary of OCSPL) Subsidiary 100.00% No
+27One97 Benin SA (subsidiary of OCSPL) Subsidiary 100.00% No
+28Paytm Labs Inc. (subsidiary of OCSPL) Subsidiary 100.00% No
+29One97 Communications Malaysia Sdn. Bhd. 
+(subsidiary of OCSPL)Subsidiary 100.00% No
+Statutory Reports
+5
+Business Responsibility & Sustainability ReportingAnnual Report  
+2026

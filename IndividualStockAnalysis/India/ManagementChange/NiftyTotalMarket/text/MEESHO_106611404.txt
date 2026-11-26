@@ -1,0 +1,962 @@
+MEESHO LIMITED
+(Formerly known as “Meesho Private Limited” and “Fashnear Technologies Private Limited”)
+
+CIN: L74900KA2015PLC082263
+Registered Office: 3rd Floor, Wing-E, Helios Business Park, Kadubeesanahalli Village,
+Varthur Hobli, Outer Ring Road, Bengaluru, Karnataka 560103
+T: +91 9108021923 | E: cs@meesho.com | W: www.meesho.com
+
+May 06, 2026
+To,
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (East), Mumbai - 400 051
+Symbol: MEESHO
+
+To,
+Department of Corporate Services
+BSE Limited
+Phiroze Jeejeebhoy Towers, Dalal Street,
+Mumbai - 400 001
+Scrip Code: 544632
+
+Dear Sir / Madam,
+Subject: Shareholders’ Letter dated May 06, 2026
+Ref.: Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations
+and Disclosure Requirements) Regulations, 2015 as amended (“SEBI Listing Regulations”)
+Pursuant to Regulation 30 of SEBI Listing Regulations, please find enclosed Shareholders’ Letter for Q4 FY
+2025-26 dated May 06, 2026.
+This information will also be made available on the Company’s website at: www.meesho.com
+You are requested to take the above information on record.
+Thanking you,
+For Meesho Limited
+(Formerly known as Meesho Private Limited and Fashnear Technologies Private Limited)
+Digitally signed by
+
+RAHUL
+RAHUL BHARDWAJ
+2026.05.06
+BHARDWAJ Date:
+17:10:17 +05'30'
+
+Rahul Bhardwaj
+Company Secretary and Compliance Officer
+Membership No.: A41649
+Encl.: As above
+
+
+0
+
+
+Disclaimer
+This shareholder letter (“Letter”) has been prepared by Meesho Limited (the “Company”) solely for informational purposes of general public.
+This Letter does not constitute or form part of and should not be construed as a prospectus, offering circular or offering memorandum, or
+an offer to sell or issue or invitation or solicitation to subscribe to or purchase any securities of the Company or any of its subsidiaries or
+affiliates in any jurisdiction or as an inducement to enter into investment activity. No part of this document, nor the fact of its distribution,
+shall form the basis of or be relied upon in connection with, any contract or binding commitment or investment decision whatsoever. Any
+offering of securities of the Company will be made only by means of a statutory offering document containing detailed information about the
+Company and its securities. This document is not financial, legal, tax or other product advice.
+This Letter has been prepared by the Company based on information and data which the Company considers reliable. However, the
+Company makes no representation, warranty or undertaking, express or implied, as to the truth, accuracy, completeness, fairness,
+reasonableness or correctness of the information or the opinions contained in this Letter. No reliance should be placed on its contents by
+members of the public or an investor or shareholder. This Letter may not be all-inclusive and may not contain all information that a
+prospective investor may consider material. None of the Company or any of its affiliates, advisors or representatives shall have any liability
+whatsoever (in negligence or otherwise) for any loss howsoever arising from any use of this Letter or its contents or otherwise arising in
+connection with the Letter.
+The Company may alter, modify or otherwise change in any manner the contents of this Letter, without obligation to notify any person of
+such revision or changes. By accessing this Letter, you acknowledge that you will be solely responsible for your own assessment of the
+market and the market position of the Company and that you will conduct your own analysis and be solely responsible for forming your own
+view of the potential future performance of the business of the Company.
+This Letter has not been and will not be reviewed or approved by a regulatory authority in India or by any stock exchange in India. This
+document and its contents should not be forwarded, delivered or transmitted in any manner to any other person other than its intended
+recipient and should not be reproduced in any manner whatsoever.
+
+Forward-looking Statements
+This Letter contains certain “forward-looking statements” within the meaning of applicable securities laws and regulations. These forwardlooking statements can be identified by the use of words such as “aim”, “may,” “will,” “seek to”, “should,” “goal”, “expect,” “anticipate,”
+“project,” “estimate,” “intend,” “should”, “ will continue”, “will pursue”, “likely to”, “objective”, “predicts”, “plans” or “believe” or other words or
+phrases of similar import. These statements include, but are not limited to, those relating to the Company’s business strategy, growth
+prospects, future financial performance and market opportunities.
+Actual results may differ materially from such expectations, projections etc., whether directly or indirectly, expressed or implied. These
+forward-looking statements are based on various assumptions, expectations and other factors which are not limited to, known and unknown
+risks and uncertainties, including, regulatory changes pertaining to the industry in which our Company has businesses and our ability to
+respond to them, our ability to successfully implement our strategy, our growth and expansion, technological changes, our exposure to
+market risks, general economic and political conditions in India and globally which have an impact on our business activities or investments,
+the monetary and fiscal policies of India, inflation, deflation, unanticipated turbulence in interest rates, foreign exchange rates, equity prices
+or other rates or prices, the performance of the financial markets in India and globally, incidence of any natural calamities and/or acts of
+violence, changes in laws, regulations and taxes and changes in competition in our industry. These factors may affect our ability to
+successfully implement our business strategy.
+The Company cannot, therefore, guarantee that the ‘forward-looking’ statements made herein shall be realized. The Company, may alter,
+amend, modify or make necessary corrective changes in any manner to any such forward-looking statement contained herein or make
+written or oral forward-looking statements as may be required from time to time on the basis of subsequent developments and events.
+
+1
+
+
+To Our Shareholders
+When people ask me what kind of company Meesho is, whether we are an e-commerce company, a logistics company, or a
+retailer, I find the honest answer is simpler. We are a technology company that starts with the user and builds whatever
+it takes to reach our mission. That is how we have always operated. Every market we unlocked came from sitting with a
+user and observing something that nobody else had noticed. The shopkeeper selling through WhatsApp. The homemaker
+who was running a boutique out of her living room. The small manufacturer who had excellent products but not an efficient
+national distribution channel. The consumers who wanted the products they usually buy, at affordable prices, on a platform
+they could actually use.
+This pattern has held for a decade: the market expands in proportion to the barriers we remove. In China, Southeast Asia,
+and Latin America, more than 80% of smartphone users shop online. In India, it is c.30%. That gap exists because nobody
+built e-commerce that works for mass India, at their price point, in their language, for the products they actually buy, in the
+way they naturally shop. The question was never whether this gap would close; it was always when.
+We are now at that moment, and it is accelerating. Advances in AI is collapsing the barriers that kept several hundred million
+Indians from participating in internet commerce: language, digital literacy, and operational complexity. Capturing this moment
+depends on how fast we can build, which is where I will start.
+
+From Idea to Live, Faster
+This year we have made a deliberate bet on AI as the operating system for how we build. Over 70% of our code is now AIgenerated, and we are releasing products faster and with greater reliability than at any point in our history.
+We have embedded AI across our Software Development Lifecycle (“SDLC”): code and test case generation, code reviews,
+production monitoring and deployment fixes. What once took weeks now takes days. Platform experiments in Q4 FY26 were
+up 2.0x versus the same quarter last year, and the compounding gains are showing up in platform reliability and quality.
+We are now investing in autonomous SDLC. The ambition is a multi-fold improvement in engineering productivity. AI agents
+will own the SDLC loop end-to-end across solutioning, coding, testing, review, and deployment. Our engineers step into the
+one above it, setting direction, making the architectural calls that shape the platform, and solving the genuinely novel problems
+agents cannot. For our shareholders, this means our ability to build and iterate will keep accelerating, and every system we
+ship at this pace removes another barrier between millions of Indians and e-commerce.
+
+From Keywords to Intent
+Most consumers on Meesho do not arrive with a specific product in mind. They browse and discover, much like walking
+through a ‘bazaar’. Legacy e-commerce was built around the search bar, which works when shoppers can type what they
+want. For a large part of India, that assumption breaks down.
+‘PRISM’ (Personalised Ranking and Intent Signal Module), our recommendation system, is built for this reality. It delivers
+hyper-personalised discovery-led feeds by processing millions of behavioral and contextual signals in real-time.
+
+2
+
+
+PRISM orchestrates billions of data points across 100+ AI ranking models with up to 300M parameters, trained on 400 trillion+
+input signals, executing 6 trillion+ inferences per day, each within milliseconds. The number that matters: 75%+ of orders on
+Meesho come from AI-driven personalized feeds. The consumer does not need to articulate what she is looking for because
+PRISM infers it.
+PRISM reads long-term user profiles alongside fine-grained, in-session behavior to capture rapid shifts in purchase intent.
+‘Trendpulse’, our pro-active discovery engine within PRISM, deploys LLMs to bridge the ‘intent gap’ by transforming early
+regional search spikes into actionable cultural trends. ‘Trendpulse’ surfaces relevant products before customers even realize
+their specific needs, letting us capture transient demand.
+In the last year, advances in PRISM have improved conversion by c.15% by making it easier for users to find relevant products.
+On the seller side, PRISM has reduced time-to-traction for new product listings by c.27%, reducing the "cold-start" friction for
+fresh inventory.
+
+Speaking the User's Language
+We believe Vaani, our voice AI shopping agent, is the future interface of online shopping in India. We launched it last quarter,
+and the early signals point to a structural shift in how India will shop online.
+The next several hundred million internet users in India are voice-first, comfortable making phone calls and sending voice
+notes, but not typing search queries, especially in vernacular languages. Vaani lets consumers describe what they are looking
+for in their own language, ask questions, and complete the entire purchase through a natural conversation. Under the hood,
+Vaani orchestrates multiple agentic systems in a single conversation: understanding consumer intent, searching millions of
+listings, surfacing reviews when the consumer hesitates, and guiding them through payment and confirmation. Speech
+processing runs at the edge on the consumer's device, keeping the experience fluid even on low-bandwidth networks. 1.5 Mn
+consumers engaged in the first month. Conversion improved 22% for those who adopted, and 79% told us voice made
+shopping easier. Consumers who had previously abandoned without placing a single order are now completing purchases,
+because the interface finally speaks their language.
+The best shopping experience anyone has ever had is with a regular shopkeeper, one who remembers what they bought,
+knows their taste and budget, and recommends what they will need next without being asked. Replicating that relationship
+online is a different kind of problem from anything e-commerce has solved so far. Inferring intent across the population is one
+half of the problem. The other half is genuine memory of an individual consumer, built over years of conversations. That is
+what we are building Vaani towards: a voice AI shopping agent with episodic memory, where every conversation becomes a
+structured episode and episodes link through cause and effect. Over time the system builds genuine reasoning about each
+consumer. Every interaction makes the next one sharper.
+We believe voice and conversation will be the dominant interface of Indian e-commerce for the next several hundred million
+users who come online. A meaningful share of India will only ever shop this way. We intend to be the platform where it
+happens.
+
+3
+
+
+Efficiency Engineered at Population Scale
+▪
+
+Geo-India LLM, our proprietary AI model trained on millions of real delivery traces across thousands of pin codes,
+encodes neighborhood connectivity the way a local delivery person understands it. For millions of first-time e-commerce
+users in India, addresses are landmarks, local references, and vernacular descriptions that conventional geocoding
+systems cannot parse. GeoIndia converts vernacular, landmark-based addresses into precise coordinates. Every
+corrected address feeds back into the model, compounding accuracy over time. In the last year, GeoIndia LLM improved
+geocoding accuracy by 20 percentage points and reduced misroute-related costs by 5 percent. Our research on GeoIndia
+LLM was published at CIKM 2025, where it outperformed industry standard commercial geo-coding systems across all
+evaluation metrics.
+
+▪
+
+TrustMesh, our deep learning integrity model, reasons across user behavior, their shared identities and their network
+relationships to detect abuse, predict return-to-origin before dispatch, and flag quality issues across 166 Mn active listings
+in real time. At population scale with billions of product impressions, maintaining integrity through manual review is not
+economically viable. In FY2026, TrustMesh blocked c.9 Mn high-risk transactions, and restricted c.2 Mn consumers and
+c.62K sellers. Since deployment, TrustMesh has reduced RTO by >10%. Our research on large scale deployment of
+TrustMesh was published at AAAI 2026.
+
+▪
+
+Network Intelligence System (NIS), our ML-powered route planning system, optimizes truck allocation, route
+sequencing, and delivery timing simultaneously. NIS reduces cost per delivery by optimizing packet routing, continuously
+learns as network conditions evolve, and improves logistics efficiency as delivery volume grows.
+
+▪
+
+Chorus, our voice and chat customer AI agentic system, resolves 62% of consumer queries in multiple languages without
+human intervention. This is the first time it has been economically viable to hand-hold first-time ecommerce users through
+their shopping journey at population scale. In FY26, our Voice consumer agents resolved 19 Mn calls without any human
+intervention while delivering human-like experience with better Customer Effort Score. Customer support costs were
+reduced by 23% in FY26. Voice seller agents currently handle upto 300K calls per day; guiding sellers through ad creation
+and participating in promotional events. Ad adoption rate saw a daily average peak of 80k and seller participation in sale
+events improved meaningfully.
+
+These are a few of the many systems we have built across our operations. The underlying objective is the same: every
+paisa of cost we engineer out of the system is a paisa that makes a previously unviable transaction possible online.
+The infrastructure powering all of this is BharatMLStack, our in-house ML platform. When you are serving hundreds of millions
+of users, processing 6.4 trillion model inferences at peak, and need every ₹250 transaction to be economically viable, using
+managed cloud services is not an option. Over four years, we evolved BharatMLStack and it now runs at 60%-70% lower
+inference and AI workload costs than equivalent cloud services. As our contribution to the Indian technology ecosystem, we
+open-sourced BharatMLStack on GitHub because building efficient AI infrastructure at population scale should be a starting
+point, not a barrier.
+
+The Compounding Advantage
+Every browse, every product view, every voice interaction, every order placed, every address resolved, every rating, every
+return processed becomes a training example for the next version of PRISM, Vaani, GeoIndia LLM, TrustMesh. The systems
+we ship next quarter are better because of the data the systems shipped this quarter generated. These systems can only be
+trained on data that captures how millions of Indians actually shop, in their languages, with their addresses, across the
+products they actually buy. This data flywheel is built by being the platform Indians shop on, every day, at scale, for years:
+
+4
+
+
+▪
+
+Most engaged consumer base of any shopping app in India: 263 Mn MAU, 153 Mn app opens per day, 17 Bn product
+views per day, 1,592 Mn ratings, 505 Mn reviews, 106 Mn pieces of user-generated content, 4 Mn pieces of creatorgenerated content, 84 Mn support interactions per year, India’s most-used shopping app by time spent.
+
+▪
+
+Largest transacting consumer base: 264Mn Annual Transacting Users, transacting at 10.1 orders per user per year.
+88% of these users are from non-top-8 cities. Every cohort, every income band, every region is represented in our data.
+
+▪
+
+Most parcels in the country: We ship more parcels than any other e-commerce platform in India. Every shipment is a
+labelled training example.
+
+▪
+
+Largest multi-stakeholder graph in Indian e-commerce: 961k transacting sellers, c.166Mn active listings, an open
+Valmo network of 18k logistics providers and 120k last-mile agents, and a creator ecosystem powering content commerce
+with 4 Mn pieces of creator-generated content. The relationship data across users × sellers × listings × creators × logistics
+partners is unique to Meesho, because no other platform in India has this graph.
+
+The output of all this is a set of systems that are demonstrably better for Bharat: a recommendation engine that infers intent,
+a voice agentic platform that works in multiple languages, an address model that outperforms commercial geocoding systems
+on Indian addresses, an integrity system that scales to millions of consumers, sellers, logistics footprint and listings, all running
+on an efficient ML platform built to make small ticket transactions economically viable at scale. Compounding continuously as
+it scales.
+Most of it does not show up directly in a quarterly earnings table, but it is what makes the gap between Meesho and any
+external alternative widen with every passing quarter.
+
+Looking ahead
+FY2026 has strengthened our long-term belief: the Indian e-commerce market has far more depth than most people assume.
+264 Mn Indians transacted on Meesho in the last twelve months; up 33% YoY. 961k sellers sold a product on our platform;
+up 87% YoY. We are now at an inflection point where the rate at which we can remove accessibility barriers is fundamentally
+faster than it has ever been, and that directly translates into how fast the market opens up. That is what excites us most at the
+moment.
+India’s consumption economy is overwhelmingly domestic, powered by over 60 Mn MSMEs producing everyday goods for
+c.20% of world’s population. Against rising global volatility, India’s domestic consumption story remains one of the most
+durable growth opportunities in the world. We exist to bring more of it online. The gap in e-commerce adoption between India
+and other emerging markets will close. When it does, it will be because someone made e-commerce work for the domestic
+manufacturers, small sellers, and first-time e-commerce buyers who make up the bulk of this economy. We are building the
+technology infrastructure to make sure we are the ones closing it.
+Sincerely,
+Vidit Aatrey | Founder and CEO
+
+5
+
+
+Progress towards our Mission – Q4 and Full Year FY 2026
+Metrics
+
+Q4 FY2025
+
+Q4 FY2026
+
+FY 2025
+
+FY 2026
+
+Annual
+Transacting
+Users
+
+199 Mn
+
+264 Mn
+
+199 Mn
+
+264 Mn
+
+YoY 28%
+
+YoY 33%
+
+YoY 28%
+
+YoY 33%
+
+501 Mn
+
+717 Mn
+
+1,834 Mn
+
+2,668 Mn
+
+YoY 43%
+
+YoY 43%
+
+YoY 37%
+
+YoY 45%
+
+₹7,972 Cr
+
+₹11,371 Cr
+
+₹29,988 Cr
+
+₹41,560 Cr
+
+YoY 33%
+
+YoY 43%
+
+YoY 29%
+
+YoY 39%
+
+4.3%
+
+4.0%
+
+4.9%
+
+3.5%
+
+Adjusted EBITDA
+Marketplace as %
+of NMV
+
+(1.3%)
+
+(1.7%)
+
+(0.4%)
+
+(2.8%)
+
+LTM Free Cash
+Flow
+
+₹591 Cr
+
+(₹633 Cr)
+
+₹591 Cr
+
+(₹633 Cr)
+
+LTM Free Cash
+Flow
+to Equity
+
+₹1,032 Cr
+
+(₹264 Cr)
+
+₹1,032 Cr
+
+(₹264 Cr)
+
+Cash balance
+
+₹6,593 Cr
+
+₹6,750 Cr
+
+₹6,593 Cr
+
+₹6,750 Cr
+
+Placed Orders
+
+Net Merchandise
+Value
+
+Contribution
+Margin
+as % of NMV
+
+6
+
+
+Key takeaways
+▪
+
+Meesho remained the most downloaded shopping app in India for FY26, and the largest e-commerce platform in India
+by Annual Transacting Users and Placed Orders
+
+▪
+
+Annual Transacting Users grew 33% YoY to 264 million; Placed Orders grew 45% YoY to 2.67 billion for FY26; Frequency
+improved to 10.1 as earlier cohorts deepened engagement. NMV reached ₹41,560 crores (+39% YoY) accelerating from
+29% YoY growth in FY25.
+
+▪
+
+Annual Transacting Sellers grew by 87% YoY to 961k sellers through seller growth initiatives across faster onboarding,
+discovery and accessibility initiatives like AI powered cataloguing, demand intelligence, and Gen AI voice agents handholding sellers in local languages.
+
+▪
+
+In Q4 FY26, NMV was 11,371 Cr (+43% YoY). Placed order for the quarter was 717 million (+ 43% YoY) driven by
+continuous new user onboarding while earlier users transacted more on the platform. Normalized NMV growth for Q4
+FY26 is at 39%*; adjusting for earlier Meesho Blockbuster Sale ramp-up in Q4 FY26 vs Q4 FY25.
+
+▪
+
+Contribution Margin recovered sharply to 4.0% in Q4 FY26 post normalization of temporary cost pressures in Q2 and Q3
+FY26 and other structural cost reduction drivers. Q4 FY26 Adjusted EBITDA Marketplace Q4 FY26 was at -1.7% of NMV
+(₹198 Crores), back to where we were in Q1 FY26, before the logistics disruptions in Q2 and Q3 hit margins temporarily.
+
+▪
+
+LTM Free Cash Flow stood at (₹633) crores and LTM Free Cash Flow to Equity stood at (₹264) crores; with cash balance
+of ₹6,750 crores.
+
+*Note: The Meesho Mega Blockbuster Sale was held from 7–15 March in 2026, and from 16–23 March in 2025.
+
+7
+
+
+Our assessment of the quarter and the financial year
+Net Merchandise Value – Marketplace
+UoM
+
+Q4 FY’25
+
+Q1 FY’26
+
+Q2 FY’26
+
+Q3 FY’26
+
+Q4 FY’26
+
+FY 2025
+
+FY 2026
+
+ATUs
+
+# million
+
+199
+
+213
+
+234
+
+251
+
+264
+
+199
+
+264
+
+LTM Frequency
+
+#
+
+9.23
+
+9.49
+
+9.70
+
+9.78
+
+10.10
+
+9.23
+
+10.10
+
+Placed Orders
+
+# million
+
+501
+
+562
+
+699
+
+690
+
+717
+
+1,834
+
+2,668
+
+43%
+
+50%
+
+55%
+
+36%
+
+43%
+
+37%
+
+45%
+
+YoY Growth%
+GMV –
+Marketplace
+
+₹ crores
+
+13,750
+
+15,134
+
+18,349
+
+18,285
+
+18,941
+
+50,312
+
+70,710
+
+NMV –
+Marketplace
+
+₹ crores
+
+7,972
+
+8,679
+
+10,515
+
+10,995
+
+11,371
+
+29,988
+
+41,560
+
+33%
+
+36%
+
+51%
+
+26%
+
+43%
+
+29%
+
+39%
+
+YoY Growth%
+
+More consumers buying more often:
+▪
+
+FY26 closed with a strong Q4. NMV grew 43% YoY to ₹11,371 Cr, capping the year with broad-based growth across
+new-user addition, habit formation and frequency. Placed Orders grew 43% on a YoY basis for the quarter. For FY '26,
+NMV closed at ₹41,560 Cr, 39% YoY growth.
+
+▪
+
+We continue to expand India's E-commerce market, with LTM Annual Transacting Users (ATUs) reaching 264 million and
+frequency climbing to 10.1 transactions per consumer annually. Indian consumers are on their way to becoming habitual
+E-commerce users, with prepaid increasingly becoming the default mode of transaction. Prepaid orders share as a
+percentage of shipped orders reached c.34% in Q4 FY’26 driven by increasing consumer maturity, trust in the platform,
+and product initiatives such as shareable UPI, on-app UPI plug-in and Pay before Delivery.
+
+Technological leaps towards improving accessibility
+▪
+
+In FY2026, PRISM’ (Personalised Ranking and Intent Signal Module), our recommendation system, continued to widen
+the accessibility moat through deeper feeds, intent-aware ranking and ‘Trendpulse’ our LLM-powered proactive discovery
+engine to identify regional and upcoming cultural trends.
+
+▪
+
+A full stack investment across accessibility, trust and transactability drove higher conversion for new consumers, enabling
+us to accelerate our ATU growth. Vaani, our AI shopping agent launched in Q4’FY26, extends Meesho into agentic, voiceled conversational commerce for vernacular cohorts and first-time E-commerce consumers. Vaani crossed 1.5M users in
+the first month and delivered a 22% conversion lift for users who adopted.
+
+8
+
+
+▪
+
+Chorus, our voice agents, deployed to guide sellers through Meesho promotional and sale events, have driven higher
+adoption and created fresh growth opportunities for sellers on our platform. GenAI seller voice agents currently handle
+300k calls per day, autonomously guiding sellers through their participation on the platform. The result is stronger seller
+adoption, higher event participation, and new growth GTMs unlocked across the platform.
+
+Expanding Use Cases
+▪
+
+In Q4 FY2026, Meesho Mall NMV grew approximately 82% year on year, with leading FMCG companies meaningfully
+expanding SKU portfolios they list with us, and a long tail of challenger brands have chosen Meesho as their primary
+online distribution channel for Bharat. Top brands scaled their business more than 6X on the platform, and FMCG category
+led by Beauty and Personal Care grew 86% YoY in Q4 FY26, largely from customers who don't transact on any other
+online channel. The number of consumers transacted in Meesho Mall for Q4 FY26 increased by 55% vs same quarter
+last year. Meesho Mall opens up a new value commerce channel for Indian brands beyond modern trade and quick
+commerce in cities. It exists for the Bharat consumers that want a trusted aspirational brand, at an everyday price that fits
+their budget.
+
+▪
+
+Content Commerce NMV grew 105% in Q4 FY2026 YoY with 1.4 million active order generating content pieces. We
+launched the next generation of Meesho Creator Club, our platform that helps creators produce shopping content and
+earn through Meesho, supported by GenAI-powered tooling and content-evaluator agents.
+
+Contribution Margin – Marketplace
+ontri ution
+
+M
+
+35
+Q4FY 25 FY 26
+4.0%
+4.4%
+
+4.3%
+
+3.3%
+2.3%
+45
+
+34
+
+3 4
+
+34
+251
+
+Q4 FY25
+
+Q1 FY26
+
+Q2 FY26
+
+9
+
+Q3 FY26
+
+Q4 FY26
+
+
+▪
+
+Contribution margin recovered sharply in Q4 FY26 to 4.0% of NMV (+175 bps QoQ), driven by the following levers.
+o
+
+Revenue Growth: Q4 FY26 Revenue from Operations came in at ₹3,531 crores, a 47% YoY increase over Q4 FY25,
+ahead of NMV growth of 43% for the same period.
+
+o
+
+Logistics Costs Normalization: Temporary cost inefficiencies from the 3PL industry consolidation in Q2 and Q3
+FY'26 are on the path of normalization. Interim nodes built for disruption absorption were decommissioned, VALMO
+partner allocation optimized, network and route optimization executed and throughput density was lifted in existing
+nodes.
+
+o
+
+Routing intelligence & Address quality: AI Led route planning and enhancements in ‘Geo-India’ LLM, reduced
+last-mile misroutes by more than 50% and re-attempts across the network.
+
+LTM Free Cash Flow
+UoM
+
+Q4FY’25
+
+Q1FY’26
+
+Q2 FY’26
+
+Q3 FY’26
+
+Q4 FY’26
+
+FY 2025
+
+FY 2026
+
+Contribution Margin –
+Marketplace
+
+₹ crores
+
+340
+
+384
+
+349
+
+251
+
+459
+
+1,484
+
+1,443
+
+Contribution Margin –
+Marketplace %
+
+%
+
+4.3%
+
+4.4%
+
+3.3%
+
+2.3%
+
+4.0%
+
+4.9%
+
+3.5%
+
+Adjusted EBITDA –
+Marketplace
+
+₹ crores
+
+(102)
+
+(148)
+
+(371)
+
+(460)
+
+(198)
+
+(117)
+
+(1,178)
+
+Adjusted EBITDA –
+Marketplace %
+
+%
+
+(1.3%)
+
+(1.7%)
+
+(3.5%)
+
+(4.2%)
+
+(1.7%)
+
+(0.4%)
+
+(2.8%)
+
+Adjusted EBITDA –
+New Initiatives
+
+₹ crores
+
+(10)
+
+(17)
+
+(13)
+
+(19)
+
+(21)
+
+(93)
+
+(70)
+
+LTM FCF
+
+₹ crores
+
+591
+
+229
+
+581
+
+56
+
+(633)
+
+591
+
+(633)
+
+10
+
+
+11
+
+
+Adjusted EBITDA Marketplace
+Adjusted EBITDA – Marketplace for Q4 FY26 was at (1.7%) of NMV, which is a 240 bps improvement versus Q3 FY26 and a
+return to Q1 FY26 levels. This was driven by improvement in Contribution margin by 175 bps, more efficient user growth
+spends and reduced server cost QoQ.
+
+Cost not directly attributable to Placed Orders improved by 70 bps as % of NMV sequentially in
+Q4 FY26 driven by:
+▪
+
+Growth Spends (Advertisement and Sales Promotion) reduced from 2.3% of NMV in Q3 FY26 to 2.1% of NMV due to
+FCF threshold driven optimization and operating leverage. Disciplined investment continued into new-user acquisition
+where payback period thresholds were met.
+
+▪
+
+Server and Software tools reduced from 2.0% of NMV in Q3 FY26 to 1.8% of NMV in Q4 FY26, reflecting operating
+leverage and commercial benefits of entering a new contract cycle with our Cloud vendor.
+
+Full year FY26 an investment year
+▪
+
+FY26 Adjusted EBITDA – Marketplace closed at (₹1,178) Cr or (2.8%) of NMV, against (₹117) Cr or (0.4%) of NMV in
+FY25, a 240 bps YoY decline. This reflects four distinct elements:
+
+▪
+
+One-time logistics headwinds (145 bps): Contribution Margin compressed 145 bps YoY largely driven by 3PL industry
+consolidation headwinds in Q2 and Q3 FY26 now substantially recovered, as reflected in the Q4 exit rate of 4.0%.
+
+▪
+
+Deliberate step-up in new-user acquisition investment (80 bps): Growth spends not directly attributable to placed
+orders increased to ₹990 Cr from ₹489 cr, lifting spend% from 1.6% to 2.4% of NMV. This investment across awareness
+building, traffic acquisition and new consumer incentives met our long-term FCF return thresholds. We are continuously
+witnessing better year 1 and subsequent frequencies of our new cohorts of customers being acquired, leading to
+accelerated investments and thereby NMV growth.
+
+▪
+
+Technology infrastructure investment (15 bps): Server & Software tools not directly attributable to placed orders rose
+from 1.8% to 1.9% of NMV as we built AI infrastructure including training multiple deep learning models, investments in
+LLM and agentic platforms that we expect to operate with significant leverage as NMV scales.
+
+▪
+
+Technology talent investment: We increased investments in AI/ML and engineering talent in FY26. People Costs not
+directly attributable to placed orders as % of NMV remained rangebound despite an increase in absolute employee cost
+of 33%. We expect operating leverage to be realized from our talent investment in the coming quarters.
+
+Reading our Adjusted EBITDA with the platform lens
+▪
+
+The headline Adjusted EBITDA flattens two very different stories into a single number. We are a platform business with
+limited capex, no working-capital drag, and no asset base. Every rupee of growth investment we make, whether in
+acquiring new users to the platform or building technology infrastructure, shows up in the P&L in the quarter it is spent
+even though the economic returns accrue over many years. This is not capitalized, amortized or deferred.
+
+12
+
+
+▪
+
+INR (1,178) Cr Adjusted EBITDA outflow for FY26 is overwhelmingly driven by investment in new users that will deliver
+NMV in future years. Almost the entirety of our indirect Advertising & Sales Promotion spends; which grew 103% YoY to
+₹990 Cr, is directed at acquiring and activating new users, specifically new to E-commerce users.
+
+▪
+
+Traditional retailers or an inventory e-commerce business capitalizes growth investments to open new stores and
+warehouses and depreciate them over multiple years. As a platform, our primary growth investment is user acquisition,
+which is expensed immediately, even though the returns accrue over many years.
+
+▪
+
+Adjusted EBITDA of our older cohorts contributing to c.75% of NMV is already positive or close to break even in Q4 FY26.
+As cohorts mature, profitability improves through a compounding mix of higher delivery success, stronger conversion,
+lower serving costs and operating leverage. The consolidated P&L looks the way it does because we are continuously
+layering new cohorts on top and we are expanding cohort size aggressively while payback periods remain attractive.
+Across FY26, every successive cohort matured faster than the one before it, which is the single most important leading
+indicator in our business.
+
+Cohort-wise Adjusted EBITDA Marketplace
+
+NMV Contribution
+(Q4 FY’26)
+
+Q4 FY’26
+
+FY24 and before
+
+57.5%
+
+0.4%
+
+FY25
+
+17.1%
+
+(0.4%)
+
+FY26
+
+25.4%
+
+(7.5%)
+
+LTM FCF of (633) Crores (-1.5%) of NMV; a direct reflection of the Adjusted EBITDA investment cycle
+discussed above
+▪
+
+LTM FCF for FY26 was (₹633) Crores (−1.5% of NMV), reflecting growth in investments and temporary logistics costs
+headwinds in Q2 and Q3 FY26, partially funded by the Working Capital flow.
+
+▪
+
+Meesho's asset-light model continues to generate structural tailwinds: capital expenditure remains low at ₹101 Crores in
+FY26, and the working capital float increases as the platform scales.
+
+▪
+
+Cash balance as of 31st March 2026 stood at ₹6,750 Crores.
+
+Adjusted EBITDA – New Initiatives
+Adjusted EBITDA for new initiatives, including Financial Services and Low-Cost Logistics Network, for Q4 FY26 remained
+range bound and was (₹21) crores. For the full year, Adjusted EBITDA – New Initiatives was (₹70) crores versus (₹93) crores
+in FY25. Given our asset-light approach, the major investment here is in technology and people. These are akin to technology
+startups that work within Meesho giving the option value on potential new business or the ability to accelerate our existing
+ones at the right time.
+
+13
+
+

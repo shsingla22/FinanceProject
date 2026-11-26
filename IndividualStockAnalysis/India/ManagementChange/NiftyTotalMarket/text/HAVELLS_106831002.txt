@@ -1,0 +1,26 @@
+--- CIM_1931_WebXMLFile_20261027_194632609_1.xml (the exchange's structured disclosure) ---
+NSESymbol: HAVELLS ; Name Of The Company: HAVELLS INDIA LIMITED ; Scrip Code: 517354 ; MSEISymbol: NOTLISTED ; ISIN: INE176B01034 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-27 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-10-27 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: President ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sameer Kirit Anjaria ; Effective Date Of Reason Of Change: 2026-10-27 ; Salutation: Mr. ; Name Of The Person: Sameer Kirit Anjaria ; Designation Of Person: President ; Date On Which The Resignation Letter Was Received: 2026-07-28 ; Effective Date Of Resignation: 2026-10-27 ; Reason Of Resignation In Brief: Personal Reasons
+
+--- Resignation_Mr_Sameer_Anjaria_2.pdf ---
+From: Sameer Anjaria
+Sent: 28 July 2026 13:55
+To: AnilRai Gupta <AnilRai.Gupta@havells.com>
+Cc: MC HO <mc-ho@havells.com>
+Subject: Resignation
+Dear Anilji
+After extensive deliberations and thought, I wish to tender my resignation as President &
+SBU Head.
+This decision is driven entirely by personal reasons.
+I would request to kindly relieve me at close of business hours on Tuesday October 27th
+2026. I will be resigning on the system approx. a month before the exit date. (will discuss
+this). I will be available in the intervening period for handing over of responsibilities.
+Wishing the organisation success in its every endeavour!
+Best Regards,
+
+Sameer Anjaria
+President & SBU Head
+QRG Towers, Sec 126, Expressway,
+Noida – 201304, Uttar Pradesh, India.
++91-120-3331000
+
+

@@ -1,0 +1,27 @@
+--- ROID_15823_WebXMLFile_20261104_184057732_1.xml (the exchange's structured disclosure) ---
+NSESymbol: GMMPFAUDLR ; Name Of The Company: GMM PFAUDLER LIMITED ; Scrip Code: 505255 ; MSEISymbol: NOTLISTED ; ISIN: INE541A01023 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-11-03 ; Time Of Occurrence Of Event Or Information: 18:55:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-11-04 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 2026/Nov/521821/5084 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-04 ; Salutation: Mr. ; Name Of The Person: Alexander Poempner ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-11-03 ; Effective Date Of Resignation: 2026-11-03 ; Reason Of Resignation In Brief: Due to personal reasons, Mr. Alexander requested to relieve him of his responsiblities as Group CFO and KMP w.e.f closue of business hours on November 3, 2026.
+
+--- AP_Resignation_ocred_2.pdf ---
+From: Alexander Poempner |G
+Sent: Tuesday, 03 November 2026 18:55:10
+
+To: Tarak Pate! |
+
+Ce: Mittal Mehta |
+
+Subject: Handover and resignation
+Dear Tarak,
+This is with reference to my resignation letter dated September 15, 2026, my resignation as Class A Manager of GMM International Sarl as of October 30, 2026
+and our discussions.
+As agreed, owing to personal reasons, | am unable to attend the Q2 FY27 Board Meeting as planned. Accordingly, | request the Board to relieve me of my
+responsibilities as Group CFO and KMP with immediate effect, i.e., at the close of business hours on Movember
+3, 2026.
+Ankit has performed exceedingly well, and the transition has been successfully completed. He is ready to assume the responsibilities of Group CFO. I will
+continue to be available until December 31, 2026, to provide the necessary support.
+Best regards,
+Alex
+
+Alexander Pompner
+Group Chief Financial Officer
+
+

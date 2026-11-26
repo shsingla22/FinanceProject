@@ -1,0 +1,907 @@
+CIN : L99999MH1946PLC004768Larsen & Toubro Limited  
+Secretarial Department  
+L&T House, Ballard Estate  
+Narottam Morarjee Marg  
+Mumbai - 400 001, INDIA  
+Tel: +91 22 6752 5656    
+Fax: +91 22 6752 5858   
+www.Larsentoubro.com  
+Email: igrc@larsentoubro.com  
+SEC/202 5 January 30 , 202 5 
+BSE Limited  
+Phiroze Jejeebhoy Towers,  
+Dalal Street,  
+MUMBAI - 400 001  
+STOCK CODE: 500510  National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor  
+Plot No.C/1, G Block  
+Bandra -Kurla Complex  
+Bandra (E), Mumbai - 400 051  
+STOCK CODE: LT  
+Dear Sir/Madam,  
+Sub: Integrated Filing (Financial)  for the quarter and nine months ended 
+December 31, 2024  
+Pursuant to SEBI Circular  No. SEBI/HO/CFD/CFD -PoD-2/CIR/P/2024/185  dated 
+December 31, 2024, please find enclose d the Integrated Filing (Financial) for the 
+quarter and nine months ended December 31, 2024.  
+Kindly take the same on record.  
+Yours faithfully,  
+For LARSEN & TOUBRO LIMITED  
+SIVARAM NAIR A  
+COMPANY SECRETARY  & 
+COM PLIANCE OFFICER  
+(M.NO – F3939)  8 LARSEN & TOUBRO 
+<9 LARSEN & TOUBRO LIMITED 
+Registered Office: L&T House, Ballard Estate, Mumbai 400 001 
+CIN: L99999MH1946PLC004768 
+STATEMENT OF CONSOLIDATED UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2024 
+� Crore 
+Quarter ended Nine months ended Year ended 
+Particulars December 31, September 30, December 31, December 31, December 31, March 31, 
+2024 2024 2023 2024 2023 2024 
+[Reviewed] [Reviewed] [Reviewed] [Reviewed] [Reviewed] [Audited] 
+1 Income: 
+a) Revenue from operations 64667.78 61554.58 55127.82 181342.18 154034.23 221112.91 
+b) Other income (net) 967.87 1101.27 837.75 2989.78 3116.29 4158.03 
+Total Income 65635.65 62655.85 55965.57 184331.96 157150.52 225270.94 
+2 Expenses: 
+a) Manufacturing, construction and operating expenses: 
+i) Cost of raw materials and components consumed 7286.39 6204.75 4835.59 18682.63 13894.82 19442.25 
+ii) Construction materials consumed 15073.41 17032.66 12922.28 44566.10 35627.89 54813.97 
+iii) Purchase of stock-in-trade 455.68 331.86 285.15 1139.17 949.02 1063.77 
+iv) Stores, spares and tools consumed 1262.26 1047.51 1140.69 3254.90 3325.68 4432.02 
+v) Sub-contracting charges 11126.06 9070.31 9101.32 29433.35 24208.71 35054.35 
+vi) Changes in inventories of finished goods, stock-in-trade and work-in-progress (20.93) (477.33) (2.08) (654.58) (36.21) 1021.07 
+vii) Other manufacturing, construction and operating expenses 6789.05 6247.76 6946.46 19183.90 17717.77 24486.49 
+b) Finance cost of financial services business and finance lease activity 1643.29 1555.01 1439.65 4628.83 4295.84 5714.90 
+c) Employee benefits expense 11912.19 11455.65 10253.27 34411.36 30441.50 41171.02 
+d) Sales, administration and other expenses 2885.51 2724.36 2446.49 8464.33 7349.56 10419.42 
+e) Finance costs 842.71 884.38 904.17 2588.44 2619.54 3545.85 
+f) Depreciation, amortisation, impairment and obsolescence 1047.00 1023.84 920.75 3068.76 2661.13 3682.33 
+Total Expenses 60302.62 57100.76 51193.74 168767.19 143055.25 204847.44 
+3 Profit before exceptional items and tax (1-2) 5333.03 5555.09 4771.83 15564.77 14095.27 20423.50 
+4 Exceptional items: 
+a) Exceptional items before tax (net) [gain/(loss)] 114.44 
+b) Current tax expense - 20.83 
+C) Exceptional items (net of tax) (a-b) - 93.61 
+5 Profrt before tax (3+4) 5333.03 5555.09 4771.83 15564.77 14095.27 20517.11 
+6 Tax expense: 
+a) Current tax 1520.47 1493.18 1190.58 4349.12 3528.17 5127.70 
+b) Deferred tax (188.47) (50.90) (13.26) (338.30) 0.92 (180.31) 
+Total tax expense 1332.00 1442.28 1177.32 4010.82 3529.09 4947.39 
+7 Net profit after tax (5-6) 4001.03 4112.81 3594.51 11553.95 10566.18 15569.72 
+8 Share in profit/(loss) after tax of joint ventures/associates (net) (27.05) (13.97) (1.67) (36.44) (32.25) (22.62) 
+9 Net profit after tax and share in profit/(loss) of joint ventures/associates (7+8) 3973.98 4098.84 3592.84 11517.51 10533.93 15547.10 
+Attributable to: Owners of the Company 3358.84 3395.29 2947.36 9539.85 8662.99 13059.11 
+Non-controlling interests 615.14 703.55 645.48 1977.66 1870.94 2487.99 
+10 Other comprehensive income (OCI) 
+a) i) Items that will not be reclassified to profit and loss (31.38) (61.43) 28.96 (146.29) 26.44 29.09 
+ii) Income tax relating to items that will not be reclassified to profit and loss 8.10 13.74 (5.94) 35.82 (7.33) (8.61) 
+b) i) Items that will be reclassified to profit and loss (1460.12) 450.16 591.77 (708.57) 493.44 533.55 
+ii) Income tax relating to items that will be reclassified to profit and loss 207.34 (44.16) (122.23) 97.41 (111.77) (146.62) 
+Other comprehensive income [net of tax] (a+b) (1276.06) 358.31 492.56 (721.63) 400.78 407.41 
+Attributable to: Owners of the Company (1165.34) 422.98 468.99 (594.51) 277.08 235.70 
+Non-controlling interests (110.72) (64.67) 23.57 (127.12) 123.70 171.71 
+11 Total comprehensive income (9+10) 2697.92 4457.15 4085A0 10795.88 10934.71 15954.51 
+Attributable to: Owners of the Company 2193.50 3818.27 3416.35 8945.34 8940.07 13294.81 
+Non-controlling interests 504.42 638.88 669.05 1850.54 1994.64 2659.70 
+12 Paid-up equity share capital (face value of share: � 2 each) 275.03 275.00 274.91 275.03 274.91 274.93 
+13 Other equity attributable to owners of the Company 86084.31 
+14 Earnings per share (EPS) (not annualised): 
+(a) Basic EPS (�) 24.43 24.69 21.44 69.38 62.11 93.96 
+(b) Diluted EPS (�) 24.41 24.68 21.42 69.33 62.05 93.88 
+Notes: 
+(i) During the quarter, the Company has allotted 1,35,735 equity shares of� 2 each fully paid-up, on exercise of stock options by employees in accordance with the Company's stock option schemes. 
+(ii) The Company has entered into an Investment Agreement dated November 05, 2024 to acquire 21% equity stake in E2E Networks Limited, a listed entity on National Stock Exchange (NSE) through a 
+combination of preferential allotment and secondary acquisition. Pursuant to the Investment Agreement, the Company acquired 15% equity shareholding through preferential allotment on December 04, 
+2024 and recognised it there from as an investment in an Associate of the Company as per applicable accounting standards. A.  FINANCIAL RESULTS 
+I I I 
+- -
+- --
+----
+I 
+(iii) Additional disclosures as per Regulation 52(4) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015: 
+Sr. Quarter ended Nine months ended Year ended 
+No. Particulars December 31, September 30, December 31, December 31, December 31, March 31, 
+2024 2024 2023 2024 2023 2024 
+1 Debt equity ratio 1.18 1.17 1.23 1.18 1.23 1.11 
+2 Debt service coverage ratio (DSCR) 2.23 2.86 5.15 2.00 1.84 2.39 
+3 Interest service coverage ratio (ISCR) 6.21 6.11 5.26 5.84 5.38 5.79 
+4 Current ratio 1.16 1.17 1.24 1:16 1.24 1.23 
+5 Long term debt to working capital ratio 1.28 1.25 1.25 1.28 1.25 1.23 
+6 Bad debts to accounts receivable ratio 0.00 0.00 0.00 0.01 0.01 0.01 
+7 Current liability ratio 0.79 0.78 0.73 0.79 0.73 0.74 
+8 Total debt to total assets rafo 0.35 0.35 0.37 0.35 0.37 0.34 
+9 Debtors turnover ratio 4.29 4.17 3.88 4.29 3.88 4.07 
+10 Operating margin (%) 9.67% 10.34% 10.45% 10.05% 10.56% 10.63% 
+11 Net profit margin (%) 6.15% 6.66% 6.52% 6.35% 6.84% 7.03% 
+12 Inventory turnover ratio (refer note below) NA NA NA NA NA NA 
+13 Capital Redemption Reserve/Debenture Redemption Reserve [t Crore) 338.23 338.23 339.08 338.23 339.08 338.23 
+14 Net worth [t Crore) (As per section 2/57) of Companies Act, 2013) 90505.53 87178.56 80428.33 90505.53 80428.33 84932.39 
+Notes: 
+(a) The ratios are to be read and interpreted considering that the Group has diversified nature of businesses. 
+{b) Formulae for computation of above ratios are as follows: 
+Sr. 
+No. Particulars Formulae 
+1 Debt equity ratio Total borrowings 
+Total equity 
+Profit before interest, tax and exceetional itemsA 
+2 Debt service coverage ratio (DSCR) Finance costsA -1-Principal repayments (net of refinancing) made during the period for long term 
+borrowingsA 
+(A Exduding Financial Services and Finance lease model business) 
+Profit before interest. tax and exceetional items' 
+3 Interest service coverage ratio (ISCR) Finance costs• 
+(• Exduding Financial Services and Finance lease model business) 
+4 Current ratio Current assets 
+Current liabilities 
+5 Long term debt to working capital ratio Long term borrowings (including current maturities of long term borrowings) 
+Current assets (-) Current liabilities [excluding current maturities of long term borrowings] 
+Bad debts' 
+6 Bad debts to accounts receivable ratio Average gross trade receivables' 
+(A Excluding Financial Services) 
+7 Currentliability ratio Current liabilities 
+Total liabilities 
+8 Total debt to total assets ratio Total borrowings 
+Total assets 
+Revenue from operations for trailing 12 months' 
+9 Debtors turnover ratio Average gross trade receivablesA 
+(' Excluding Financial Services) 
+Profit before depreciation, interest•, tax and exceptional items 
+10 Operating margin(%) (-l Other income 
+Revenue from operations 
+(A Excluding Finance cost of Financial Services and Finance lease model business) 
+11 Net profit margin (%) Net profit after tax and share in profit/(loss) of joint ventures/associates 
+Revenue from operations 
+12 Inventory turnover ratio Nol material considering the size and the nature of operations of the Group 
+(iv) The Company reports its consolidated financial results on a quarterly basis. The standalone financial results are available on the Company's website viz. www.larsentoubro.com and on the websites of 
+BSE (www.bseindia.com) and NSE (www.nseindia.com). The specified items of the standalone financial results of the Cofl'l)any for the quarter and nine months ended December 31, 2024 are given 
+below: 
+( c,ore 
+Quarter ended Nine months ended Year ended 
+December 31, September 30, December 31, December 31, December 31, March 31, 
+Particulars 2024 2024 2023 2024 2023 2024 
+[Reviewed] (Reviewed] [Reviewed] (Reviewed] (Reviewe<I] [Audited] 
+-----·· 
+a1 Revenue from operations 34984.28 34918.36 31600.92 100181.39 86682.58 126235,85 
+b) Profit before exceptional items and tax 3061.46 2699.98 2616.36 9146.81 7579.26 10868.32 
+c) Profit before tax 3061.46 2699,98 2616.36 9146.81 7977.23 11316.31 
+d) Net profit after tax 2419.38 1993.11 2136.18 7373.83 6638.26 9304.33 
+(v) Figures for the previous periods have been regrouped/redassified to conform to the classification of the current periods. 
+(vi) The abOve consolidated financial results of the Parent Company including its Subsidairies, Associates & Joint VentLXes have been prepared in accordance with the recognition and measureme nt 
+principles laid down in the Indian Accounting Standards (Ind AS) as prese<ibed under section 133 of the Companies Act, 2013 read wilh the relevant rules issued thereunder and the other accounting 
+principles generally accepted in India. These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on January 30, 2025. The same have also 
+been subjected to Limited Review by the Joint Statutory Auditors. 
+for LARSEN & TOUBRO LIMITED 
+Mumbai J•cl~u~~ 
+January 30, 2025 Chairman & Managing Director 
+Conso;idated unaudited Segment-wise Revenue, Result, Total assets and Total liabilities: 
+? Crore 
+Quarter ended Nine months ended Yeuended 
+December 31, September 30, December 31, December 31, December 31, March 31, Particulars 2024 2024 2023 2024 2023 2024 
+[Reviewed] [Reviewed I {Reviewed] [Reviewed] (Reviewed I [Audited] 
+Gl'oss segment revenue 
+1 lnfrastructu re Projects 32407.98 32352.30 28266.43 91939.73 75638.82 114008.21 
+2 Energy Projects 11055.35 8879.84 7870.30 28435.56 21354.97 29570.90 
+3 Hi-Tech Manufacturing 2589.08 2175.94 2184.70 6684.74 6194.11 8765.29 
+4 IT & Technology Services 12218.92 11960.56 11325.97 35736.22 33533.61 44916.31 
+5 Financial Services 3881.26 3836.58 3406.66 11381.87 9510.38 13108.62 
+6 Development Projects 1434.56 1382.92 1219.87 4144.80 4369,39 5628.01 
+7 Others 1887.41 1792.51 1741.80 5177.41 5977.02 8492.89 
+Total 65474.56 62380.65 56015.73 183500.33 156578.30 224490.23 
+Less: Inter-segment revenue 806.78 826.07 887.91 2158.15 2544.07 3377.32 
+Net segment revenue 64667.78 61554.58 55127.82 181342.18 154034.23 221112.91 
+Segment result 
+1 Infrastructure Projects 1414.76 1550.19 1205.41 4165.04 3091.13 5720.93 
+2 Energy Projects 838.64 709.12 695.21 2216.91 1840.01 2700.63 
+3 Hi-Tech Manufacturing 388.60 209.69 294.78 865.20 782.98 1139.77 
+4 IT & Technology Services 1833.80 2079.82 1970.83 5825.08 5789.47 7658.79 
+5 Financial Services 823.92 939.53 823.96 2685.77 2334.40 3028.41 
+6 Development Projects 148.80 135.81 118.43 431.89 875.51 1014.73 
+7 Others 424.46 383.74 345.28 1098.92 1026.09 1507.70 
+Total 5872.98 6007.90 5453.90 17288.81 15739.59 22770.96 
+Less: Inter-segment margins on capital jobs 28.39 40.27 112.19 78.10 191.60 248.61 
+Less: Finance costs 842.71 884.38 904.17 2588.44 2619.54 3545.85 
+Add: Unallocable corporate income net of expenditure 331.15 471.84 334.29 942.50 1166.82 1447.00 
+Profit before exceptional items and tax 5333.03 5555.09 4771.83 15564.77 14095.27 20423.50 
+Add: Exceptional items (net of tax) - - - - . 93.61 
+Profit before tax 5333.03 5555.09 4771.83 15564.77 14095.27 20517.11 
+Segment assets 
+1 Infrastructure Projects 100230,63 93223.01 96899.29 
+2 Energy Projects 28384.82 23230.35 24564.66 
+3 Hi-Tech Manufacturing 12674.45 10784.53 10228.88 
+4 IT & Technology Services 47082.61 40926.71 43582.80 
+5 Financial Services 112071.94 99600.99 100863.03 
+6 Development Projects 24897.55 26470,08 26212.32 
+7 Others 16210.94 15331.74 15214.32 
+Total segment assets 341552,94 309567.41 317565.30 
+Less.· Inter-segment assets 4622.09 4513.59 5084.77 
+Arid: Unallocable corporate assets 30070.25 23198.98 27146.71 
+Total assets 367001.10 328252.80 339627,24 
+Segment liabilities 
+1 lnfrastructu re Projects 69957.42 64070.48 72851.28 
+2 Energy Projects 25081,73 18082.23 18772.84 
+3 Hi-Tech Manufacturing 10597.13 6849.78 8875.58 
+4 IT & Technology Services 11185,83 9525,74 10548.67 
+5 Financial Services 88931.60 78363.16 79165,68 
+6 Development Projects 6918.30 7224.46 7020.30 
+7 Others 8050.35 7309.27 7239.09 
+Total segment liabilities 220722.36 191425.12 204473.44 
+Less· Inter-segment liabilities 4622.09 4513.59 5084.77 
+AdrJ: Unallocable corporate liabiltlies 42419.08 43888.67 37688.91 
+Total liabilities 258519.35 230800.20 237077.58 
+Notes: 
+(I) The Group has reported segment information as per Ind AS me "Operating Segments". The identification of operating segments is consistent with performance assessment and resource 
+allocation by the management. 
+(\I) The Segment composition: Infrastructure Projects segment comprises engineering and construction of (a) building and factories. (b) transportation infrastructure. (c} heaV}I civil 
+infrastructure, (d) power transmission & distribution, (e) renewable , (f) water & effluent treatment and {g) minerals and metals. Energy Projects segment comprises of (a) Hydrocarbon 
+business covering EPC solutions in oi\ & gas, refineries, petrochemicals & offshore wind energy sectors. from front-end design through detailed engineering, modular fabrication, 
+procurement. project management construction, installatlon and commissioning. (b) Carbonlite Solutions business covering EPC soluUons for power generation plants induding power 
+generation equipment with associated systems and/or carbon capture utilisation & utility packages and (c) EPC solutions in green energy space. Hi-Tech Manufacturing segment 
+comprises design, manufacture/construct, supply and revamp/retrofit of (a) custom designed, engineered critical equipment & systems to the process plant, nuclear energy and green 
+hydrogen sectors (b) marine and land plattorms including related equipment & systems: aerospace products & systems: precision and electronic products & systems for the defence, 
+security, space and \ndustrial sectors and (c) eledrolysers. ,1 & Tectinology Services segment comprises (a) information technology and integrated engineering services (induding smart 
+infrastructure & communication projects}, (b) e-commerce/digital platforms, cloud services & data centres and (c) semiconductor ctiip design. Financial Services segment primarily 
+comprises retail finance. Development Projects segment comprises (a} development. operation and maintenance cf metro project, including transit oriented development. (b) toll roads 
+(upto the date of divestment) and (c) power generation & development -(i) thermal power and (ii) green energy. Others segment includes (a) realty. (b) manufacture and sale of industrial 
+valves. (c) manufacture {upto the date of sale), marketing and servicing of construction equipment, fTllning machinery and parts thereof, (d) manufacture and sale of components of 
+construction equipment and (e) manufacture and sale of rubber processing machinery. 
+(Ill) Segment revenue comprises sales and operational income allocable specifically to a segment and includes in the case of Development Projects and Realty business {grouped ~•Nici• 
+''Others" segment) profits on sale of business undertaking/stake in the subsidiary and/or joint venture companies in those segments. Segment result represents profit before in!.er9s! a1~d lax. 
+Unallocable corporate income includes majorly Lnterest income, dividends and profit on sale or investments. Unallocable expenditure includes major1y corporate expenses not atiuc.ate-d to 
+segments. 
+Unallocable corporate assets comprise majcrly investments. Investment in jotnt ventures and associates fdentified with a particu1ar segment are reported as part of ttle segment assets of 
+those respective segments. Unallocable corporate liabilities comprise majo~y borrowings. In respect of (a) Financial Services segment and (b) Developmen t Projects segment relating to a 
+power generation asset given on finance lease. segment liabilities include borrowings as finance costs on the borrowings are accounted as segment expense. 
+(IV) In respect of segments of the Group, revenue and margin do not accrue uniforrrly during the year. 
+(V) Figures for the previous periods ti ave been regrouped/reciassified to conform to ttle classification of the current periods. 
+for LARSEN & TOUBRO LIMITED 
+Mumbai S~:~~ 
+January 30, 2025 Chairman & Managing Director 
+Ms KA & Associates 
+Chartered Accountants 
+602, Floor 6, Raheja Titanium 
+Western Express Highway, Geetanjali 
+Railway Colony, Ram Nagar, 
+Goregaon ( East) 
+Mumbai -400063, India Deloitte Haskins & Sells LLP 
+Chartered Accountants 
+Tower 3, 31st Floor, 
+One International Center, 
+Senapati Bapat Marg, 
+Elphinstone (West) 
+Mumbai -400013, India 
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM CONSOLIDATED 
+FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF LARSEN & TOUBRO LIMITED 
+1. We have reviewed the accompanying Statement of Consolidated Unaudited Financial Results of 
+LARSEN & TOUBRO LIMITED (the "Parent") and its subsidiaries (the Parent and its subsidiaries 
+together referred to as the "Group"), and its share of the net profit/{loss) after tax and total 
+comprehensive profit/(loss) of its associates and joint ventures for the quarter and nine months ended 
+December 31, 2024 (the "Statement"), which includes 33 Joint Operations of the Group consolidated 
+on a proportionate basis, being submitted by the Parent pursuant to the requirement of Regulation 33 
+and Regulation 52 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+as amended (the "Listing Regulations"). 
+2. This Statement, which is the responsibility of the Parent's Management and approved by the Parent's 
+Board of Directors, has been prepared in accordance with the recognition and measurement principles 
+laid down in the Indian Accounting Standard 34 "Interim Financial Reporting" ("Ind AS 34"), prescribed 
+under Section 133 of the Companies Act, 2013 read with relevant rules issued thereunder and other 
+accounting principles generally accepted in India and in compliance with Regulation 33 and Regulation 
+52 of the Listing Regulations. Our responsibility is to express a conclusion on the Statement based on 
+our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+(SRE) 2410 "Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity", issued by the Institute of Chartered Accountants of India ("ICAI"). A review of interim financial 
+information consists of making inquiries, primarily of Parent's personnel responsible for financial and 
+accounting matters, and applying analytical and other review procedures. A review is substantially 
+less in scope than an audit conducted in accordance with Standards on Auditing specified under Section 
+143(10) of the Companies Act, 2013 and consequently does not enable us to obtain assurance that we 
+would become aware of all significant matters that might be identified in an audit. Accordingly, we do 
+not express an audit opinion. 
+We have also performed procedures in accordance with the circular issued by the SEBI under 
+Regulation 33(8) of the Listing Regulations, to the extent applicable. 
+4. The Statement includes the interim financial information of the entities listed in Attachment A. 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based 
+on the consideration of the review reports of the other auditors referred to in paragraph 6 below, 
+nothing has come to our attention that causes us to believe that the accompanying Statement, 
+prepared in accordance with the recognition and measurement principles laid down in Ind AS 34 and 
+other accounting principles generally accepted in India, has not disclosed the information required to 
+be disclosed in terms of Regulation 33 and Regulation 52 of the Listing regulations, including the 
+manner in which it is to be disclosed, or that it contains any material misstatement. 
+6. We did not review the interim financial information of 5 joint operations included in the respective 
+standalone unaudited interim financial information of the entities included in the Group, whose interim 
+financial information reflects total revenues of t262.65 crore and H,638.20 crore, total loss after tax 
+(net) of t366.67 crore and ~469.38 crore, total comprehensive loss (net) of ~366.67 crore and f469.38 
+crore for the quarter and nine months ended December 31, 2024 respectively, as considered in the 
+respective standalone unaudited interim financial information of the entities included in the Group. The 
+interim financial information of these joint operations has been reviewed by other auditors whose 
+reports have been furnished to us by the Parent's Management, and our conclusion in so far as it 
+relates to the amounts and disclosures included in respect of these joint operations, is based solely on 
+the report of such other auditors and the procedures performed by us as stated in paragraph 3 above. 
+We did not review the interim financial information of 23 subsidiaries included in the consolidated 
+unaudited financial results, whose standalone unaudited interim financial information reflects total 
+revenues of f19,053.74 crore and fS0,395.45 crore, total profit after tax (net) of ~939.71 crore and 
+~2,860.73 crore and total comprehensive income (net) of t317.48 crore and t2,456.56 crore for the 
+quarter and nine months ended December 31, 2024 respectively, as considered in the Statement. The 
+consolidated unaudited financial results also includes the Group's share of total loss after tax (net) of 
+t12.11 crore and ~29.12 crore and total comprehensive loss (net) of ns.ao crore and ~32.04 crore 
+for the quarter and nine months ended December 31, 2024 respectively, as considered in the 
+Statement, in respect of 2 joint ventures, whose interim financial information has not been reviewed 
+by us. This interim financial information has been reviewed by other auditors whose reports have been 
+furnished to us by the Parent's Management and our conclusion on the Statement, in so far as it relates 
+to the amounts and disclosures included in respect of these subsidiaries and joint ventures, is based 
+solely on the reports of the other auditors and the procedures performed by us as stated in paragraph 
+3 above. 
+The unaudited interim consolidated financial results of a subsidiary included in the consolidated 
+unaudited financial results of the Group, whose unaudited consolidated interim financial results reflects 
+total revenues of H0,345.55 crore and f30,076.04 crore, total profit after tax (net) of ~1,085.25 crore 
+and ~3,473.71 crore, total comprehensive income (net) of ~796.21 crore and f3,131.B0 crore for the 
+quarter and nine months ended December 31, 2024 respectively, as considered in the Statement, has 
+been reviewed by one of the joint auditors, whose report has been furnished to us by the Parent's 
+Management and our conclusion on the Statement, in so far as it relates to the amounts and disclosures 
+included in respect of this subsidiary, is based solely on the report of the other Joint auditor and the 
+procedures performed by us as stated in paragraph 3 above. 
+The unaudited interim financial results/information of 3 subsidiaries included in the consolidated 
+unaudited financial results of the Group, whose unaudited interim financial results/information reflects 
+total revenues of f2,747.60 crore and ~~917.50 crore, total profit after tax {net) of ~327.58 crore and 
+f962.34 crore, total comprehensive income (net) of ~274.93 crore and t895.84 crore for the quarter 
+and nine months ended December 31, 2024 respectively, as considered in the Statement, has been 
+reviewed by one of the joint auditors, whose report has been furnished to us by the Parent's 
+Management and our conclusion on the Statement, in so far as it relates to the amounts and disclosures 
+included in respect of these subsidiaries, is based solely on the report of the other joint auditor and 
+the procedures performed by us as stated in paragraph 3 above. 
+Our conclusion on the Statement is not modified in respect of the above matters with respect to our 
+reliance on the work done and the reports of the other auditors/joint auditor. 
+7. The consolidated unaudited financial results includes the interim financial information of 28 joint 
+operations included in the respective standalone unaudited interim financial information of the entities 
+included in the Group, whose interim financial information reflects total revenues of H18.58 crore and 
+~546.04 crore, total profit after tax (net) of f0.92 crore and ~20.56 crore and total comprehensive 
+me (net) of t0.92 crore and f20.56 crore for the quarter and nine months ended December 3 
+, respectively, as considered in the respective standalone unaudited interim financial infor ~~ 
+entities included in the Group. The interim financial information of these joint operations 7> ot ~ 
+eviewed by their respective auditors and whose interim financial information has been f &/ lfeuttered : ·o Ace t l , 
+"c.:> ,. 
+0 o 
+* ,:::7 
+to us by the Parent's Management. According to the information and explanations given to us by the 
+Parent's Management, the interim financial information of these entities are not material to the Group. 
+The consolidated unaudited financial results also includes the interim financial information of 40 
+subsidiaries which have not been reviewed by their respective auditors, whose interim financial 
+information reflects total revenues of H54.20 crore and t588.97 crore, total loss after tax (net) of 
+~59.95 crore and t30.15 crore and total comprehensive loss (net) fi9.95 crore and f30.15 crore for 
+the quarter and nine months ended December 31, 2024 respectively, as considered in the Statement. 
+The consolidated unaudited financial results also includes the Group's share of total (loss) after tax 
+(net) of ~14.94 crore and t7.32 crore and total comprehensive loss (net) of t14.20 crore and ~6.19 
+crore for the quarter and nine months ended December 31, 2024, as considered in the Statement, in 
+respect of 7 associates and 9 joint ventures, based on their interim financial information which has not 
+been reviewed by their respective auditors and whose interim financial information has been furnished 
+to us by the Parent's Management. According to the information and explanations given to us by the 
+Management, the interim financial information of these entities are not material to the Group. 
+Our conclusion on the Statement is not modified in respect of our reliance on the interim financial 
+information furnished to us by the Parent's Management and certified by the Management of the 
+respective entities. 
+8. The consolidated unaudited financial results for the quarter and nine months ended December 31, 
+2023, included in the Statement, were reviewed by Deloitte Haskins & Sells LLP, one of the joint 
+auditors of the Parent, whose reports dated January 30, 2024 expressed an unmodified conclusion on 
+those consolidated unaudited financial results. 
+The consolidated audited financial results for the year ended March 31, 2024, included in the Statement 
+were audited by Deloitte Haskins & Sells LLP, one of the joint auditors of the Parent, whose report 
+dated May 8, 2024, expressed an unmodified opinion on those consolidated audited financial results. 
+Our conclusion on the Statement is not modified in respect of the above matters. 
+For M S K A & Associates 
+Chartered Accountants 
+(Firm's Regn. No. 105047W) 
+~~~ 
+Vishal Vilas Divadkar 
+Partner 
+(Membership No. 118247) 
+UDIN: 25,1.1-82,41..BMOX.'v\l132ie-3 
+Place: Mumbai 
+Date: January 30, 2025 For Deloitte Haskins & Sells LLP 
+Chartered Accountants 
+(Firm's Regn. No. 117366W/W-100018) 
+Rupen K. Bhatt 
+Partner 
+(Membership No. 046930) 
+UDIN: 25046'930BMOMA-96U 
+Place: Mumbai 
+Date: January 30, 2025 
+Attachment A 
+Sr. Name of Entities No 
+Parent 
+Larsen & Toubro Limited 
+Subsidiaries 
+1 Hi-Tech Rock Products and Aggregates Limited 
+2 L&T Geostructure Private Limited 
+3 Larsen & Toubro (East Asia) Sdn. Bhd. 
+4 Larsen & Toubro CIS Foreign Enterprise LLcc 
+5 Larsen & Toubro (Oman) LLC 
+6 Larsen & Toubro Qatar LLCa 
+7 Larsen & Toubro Kuwait Construction General Contracting Co., W.L.L. 
+8 Larsen & Toubro Saudi Arabia LLC 
+9 Larsen and Toubro T&D SA Proprietary Limited 
+10 PT Larsen and Toubro 
+11 L&T Construction Equipment Limited 
+12 L&T Energy Hydrocarbon Engineering Limited 
+13 L&T Hydrocarbon Saudi Company 
+14 L&T Modular Fabrication Yard LLC 
+15 L&T Offshore Private Limited 
+16 Larsen & Toubro Electromech LLC 
+17 Larsen & Toubro Heavy Engineering LLC 
+18 Larsen Toubro Arabia LLC 
+19 L& T Energy Green Tech Limited 
+20 L&T Electrolysers Limited 
+21 L TIMindtree Limited 
+22 L TIMindtree (Thailand) Limited 
+23 L TIMindtree Canada Limited 
+24 LTIMindtree Consulting Brazil Ltdad 
+25 L TIM i ndtree Financial Services Tech no log ies Inc. 
+26 LTIMindtree GMBH 
+27 LTIMindtree Information Technology Services (Shanghai) Co. Ltd. 
+28 LTIMindtree LLCm 
+29 LTIMindtree Middle East FZ-LLC 
+30 L TIMindtree Norge AS 
+31 LTIMindtree PSF S.A. 
+32 L TIMindtree South Africa (Pty) Limited • L ....__._.. -#.v.\n.-:~ 
+33 LTIMindtree Spain SL ~~ ~~ r.. ~;,--:z ~ 1 
+34 LTIMindtree Switzerland AG ~ .. r ..,J ,~ t I ~ ( :na~:'.:~.}-;; 1) • 
+35 LTIMindtree UK Limited ~~~ ~~:J ~ (~"-/{;), 
+36 LTIMindtree USA Inc, ~*.--# 
+37 LTIMindtree, Sociedad De Responsibilidad Limitada D~"'Capital Variable )wJ 
+Sr. Name of Entities No 
+38 LTIMindtree S.A. 
+39 Nielsen&Partner Pty Ltdi 
+40 Nielsen+Partner Pte. Ltd. 
+41 Nielsen+Partner Unternehmensberater GmbHh 
+42 Syncordis Limited, UK 
+43 Syncordis SARL, Francek 
+44 L&T Technology Services Limited 
+45 Graphene Solutions SDN.BHD. 
+46 Graphene Solutions Taiwan Limited 
+47 L&T Thales Technology Services Private Limited 
+48 L& T Technology Services (Canada) Limited 
+49 L&T Technology Services (Shanghai) Co. Ltd. 
+so L&T Technology Services LLC 
+51 L&T Technology Services Poland sp6tka z ograniczonq odpowiedzialnosciq 
+52 L&T Technology Services Pte. Ltd. 
+53 L&T Semiconductor Technologies Limited 
+54 Siliconch Systems ·Private Limitede 
+55 L&T Finance Limited 
+56 L&T Financial Consultants Limited 
+57 L&T Infra Investment Partners Fund 
+58 L&T Infra Investment Partners Advisory Private Limited 
+59 L&T Infra Investment Partners Trustee Private Limited 
+60 L&T Metro Rail (Hyderabad) Limited 
+61 L&T Power Development Limited 
+62 L&T Himachal Hydropower Limited 
+63 Nabha Power Limited 
+64 Avenue Techpark (Bangalore) Private Limitedi 
+65 Bangalore Fortune Techpark Private Limited1 
+66 Bangalore Galaxy Techpark Private Limited 
+67 Bangalore Spectrum Techpark Private Limited1 
+68 Business Park (Powai) Private Limited 
+69 Chennai Nova Techpark Private Limited 
+70 Chennai Vision Developers Private Limited 
+71 Corporate Park (Powai) Private Limited 
+72 Elevated Avenue Realty LLP (Formerly known as L&T Avenue Realty LLP) 
+73 Elante Properties Private Limited (Formerly known as L&T Parel Project Private Limited) 
+74 L&T Realty Developers Limited 
+75 L&T Realty Properties Limited (Formerly known as L&T Seawoods Limited) -
+76 L& T Westend Project LLP .......... g-.,,'f-insA 
+77 LH Residential Housing Private Limited .IJ-•As.~ ''Z ~-o~, '-fl),... .. ~ 
+78 LH Uttarayan Premium Realty Private Limited ~ "~ ~-1/ ,i' ~ 1 ·9: \Acc;unla~t} ~ I 
+79 Millennium Techpark (Chennai) Private Limited ◄ • -rv' JE ~ ~ 0 '-../ ?> J .<:! . . 
+~.~~ ,......_ ~ .,,.., ~,• . -"-"cco~t-'• . ...,..,..,.. ... 
+Sr. Name of Entities No 
+80 Prime Techpark (Chennai) Limited 
+81 L&T Valves Arabia Manufacturing LLC 
+82 L&T Valves Limited 
+83 L&T Valves USA LLC 
+84 Bhilai Power Supply Company Limited 
+85 L&T Aviation Services Private Limited 
+86 L&T Capital Company Limited 
+87 L&T Global Holdings Limited 
+88 Larsen & Toubro International FZE 
+89 L&T Network Services Private Limited 
+Associates 
+1 Gujarat Leather Industries Limiteda 
+2 L&T Camp Facilities LLCa 
+3 Larsen & Toubro Qatar & HBK Contracting Co. WLLa 
+4 Magtorq Private Limited 
+5 Magtorq Engineering Solutions Private Limitedf 
+6 Indian Foundation For Quality Management9 
+7 E2E Networks Limited1 
+Joint Ventures 
+1 L&T-MHI Power Boilers Private Limited 
+2 L&T-MHI Power Turbine Generators Private Limited 
+3 L&T Howden Private Limited 
+4 L&T-Sargent & Lundy Limited 
+5 L&T Sapura Shipping Private Limited 
+6 L&T Special Steels and Heavy Forgings Private Limited 
+7 L&T MBDA Missile Systems Limited 
+8 Epic Concesiones 3 Limited (Formerly known as L&T Infrastructure Development Projects 
+Limited? 
+9 GH4India Private Limited 
+10 Raykal Aluminium Company Private Limited 
+11 Indiran Engineering Projects and Systems Kish PJSC 
+12 Hydrocarbon Arabia Limited Company 
+Joint Operations 
+1 Aktor-Larsen & Toubro-Yapi Merkezi-STFA-AI Jaber Engineering Joint Venture 
+2 Al Balagh Trading & Contracting Co W.L.L-L&T Joint Venture 
+3 Besix -Larsen & Toubro Joint Venture .. P_.,;n~ ~ 
+-fl.~~u2.~ 4 Civil Works Joint Venture .~.~- . 
+5 DAEWOO and L&T Joint Venture ' r1;7 "'°I'\_~ I :::· { Chartered,) ::::: 1 I . ·;;:; • (.f) 
+6 Desbuild L&T Joint Venture : ,il ' J; ► (°°b'C Jt-1. I\ . 
+~~~~· ~*/ <tt-7 HCC -L&T Purulia Joint Venture -. . 
+Sr. Name of Entities No 
+8 International Metro Civil Contractors Joint Venture 
+9 L&T -AM Tapovan Joint Venture 
+10 L&T -Hochtief Seabird Joint Venture 
+11 L&T -PCIPL JV 
+12 L&T -Powerchina JV 
+13 L&T -Tecton JV 
+14 L&T-Inabensa Consortium 
+15 L&T-ISDPL (JV) 
+16 L&T-AL-Sraiya LRDP 6 Joint Venture 
+17 L&T-Delma Mafraq Joint Venture 
+18 L&T-IHI Consortium 
+19 L&T-Shanghai Urban Construction (Group) Corporation Joint Venture 
+20 L&T-Shanghai Urban Construction (Group) Corporation Joint Venture CC27 Delhi 
+21 L&T-STEC JV Mumbai 
+22 Larsen & Toubro Limited & NCC Limited Joint Venture 
+23 Larsen & Toubro Ltd -Passavant Energy & Environment JV 
+24 Larsen and Toubro Limited-Scomi Engineering BHD Consortium-O&M Joint Venture 
+25 Larsen and Toubro Limited-Scomi Engineering BHD Consortium-Residual Joint Works Joint 
+Venture 
+26 Larsen and Toubro Limited-Shapoorji Pallonji & Co. Ltd. Joint Venture 
+27 LNT -Shriram EPC Tanzania UJV 
+28 LTH Milcom Private Limited 
+29 Metro Tunneling Chennai-L&T Shanghai Urban Construction (Group) Corporation Joint 
+Venture 
+30 Metro Tunneling Delhi-L&T Shanghai Urban Construction (Group) Corporation Joint Venture 
+31 Metro Tunneling Group 
+32 Bauer -L&T Geo Joint Venture 
+33 Larsen Toubro Arabia LLC -Subsea Seven Saudi Company Ltd. 
+Symbol Explanation to Symbol 
+a The entities are in the process of liquidation 
+b Divested w.e.f April 10, 2024 
+C Incorporated on July 10, 2024 
+d Incorporated on September 26, 2024 
+e Acquired as on August 9, 2024 
+f Ceased to be an associate of the entity w .e .f September 27, 2024 
+g Acquired as on September 19, 2024 
+h Merged with LTIMindtree GMBH w.e.f. October 2, 2024 
+i Struck off from the register of companies -
+j Dissolved w.e.f. October 23, 2024 ............ #"..>-~~ ~ ----------...... ....... 
+k Dissolved w.e.f November 29, 2024 ,r/~~ ,-s-~•. j ~ ( Charterei ~i I 
+I Acquired as on December 4, 2024 ◄ i ( vv/ ); ► 1 9,)~ccounta 1 ,-
+,\ ~-[~ m Dissolved w.e.f. January 21, 2025 • ~~'-.../"~A ;: ~--;--" -~••w•I•"~ --......... 
+s LARSEN & TOUBRO LIMITED 
+Registered Office: L& T House, Ballard Estate, Mumbai 400 001 
+CIN : L99999MH1946PLC004768 
+STATEMENT OF STANDALONE UNAUDITED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2024 
+rcrore 
+Quarter ended Nine months ended Year ended 
+Particulars December 31, September 30, December 31, December 31, December 31, March 31, 
+2024 2024 2023 2024 2023 2024 
+[Reviewed] [Reviewed] [Reviewed) [Reviewed] [Reviewed] [Audited] 
+1 Income: 
+a) Revenue from operations 34984.28 34918.36 31600.92 100181.39 86682.58 126235.85 
+b) Other income(net) 1197.38 833.38 1225.60 4479.28 4320.11 5340.60 
+Total Income 36181.66 35751.74 32826.52 104660.67 91002.69 131576.45 
+2 Expenses: 
+a) Manufacturing , construction and operating expenses: 
+i) Cost of raw materials and components consumed 4335.46 3661.90 2858.60 10403.37 8317.67 11621.48 
+ii) Construction materials consumed 10516.00 12316.08 10684.57 32741.70 28636.90 43031.68 
+iii) Purchases of stock-in-trade 455.74 328.40 292.56 1153.86 956.28 1078.54 
+iv) Stores, spares and tools consumed 843.10 762.73 896.01 2299.72 2733.36 3613.78 
+v) Sub-contracting charges 8709.60 8345.37 8067.17 25215.83 21658.72 30750.87 
+vi) Changes in inventories of finished goods, stock-in-trade and work-in-progress 247.97 (255.35) 175.39 58.58 (376.19) 411.83 
+vii) Other manufacturing , construction and operating expenses 3575.86 3431.17 3194.21 10409.16 9563.50 13724.86 
+b) Employee benefits expense 2577.11 2514.61 2205.46 7544.68 6477.97 8864.41 
+c) Sales, administration and other expenses 828.89 858.87 767.90 2520.55 2461.26 3453.84 
+d) Finance costs 542.51 583.12 629.84 1692.81 1761.37 2405.83 
+e) Depreciation, amortisation , impairment and obsolescence 487.96 504.86 438.45 1473.60 1232.59 1751.01 
+Total Expenses 33120.20 33051.76 30210.16 95513.86 83423.43 120708.13 
+3 Profit before exceptional items and tax (1-2) 3061.46 2699.98 2616.36 9146.81 7579.26 10868.32 
+4 Exceptional items: 
+a) Exceptional items before tax (net) [gain/(loss)] - - - 515.62 586.47 
+Current tax - - 20.83 
+Deferred tax - - - 117.65 117.65 
+b) Total tax expense - - 117.65 138.48 
+c) Exceptional items (net of tax) (a-b) - - - 397.97 447.99 
+5 Profit before tax (3+4) 3061.46 2699.98 2616.36 9146.81 7977,23 11316.31 
+6 Tax expense : 
+a) Current tax 733.10 617.78 478.26 1818.17 1413.52 2205.00 
+b) Deferred tax (91.02) 89.09 1.92 (45.19) (74.55) (193.02) 
+Total tax expense 642.08 706.87 480.18 1772.98 1338.97 2011.98 
+7 Net profit after tax (5-6) 2419.38 1993.11 2136.18 7373.83 6638,26 9304.33 
+8 Other comprehensive Income (OCI) 
+a) i) Items that will not be redassified to profit and loss (28.56) (51.95) 25.29 (138.71) 9.80 13.94 
+ii) Income tax relating to items that will not be reclassified to profit and loss 7.19 13.07 (6.36) 34.91 (2.47) (3.51) 
+b) i) Items that will be redassified to profit and loss (423.09) 508.29 366.14 169.38 73.52 (69.31) 
+ii) Income tax relating to items that will be reclassified to profit and loss 103.22 (124.30) (113.86) (39.59) (28.10) 12.63 
+Other comprehensive income [net of tax) (a+b) (341.24) 345.11 271.21 25.99 52.75 (46.25) 
+9 Total comprehensive income (7+8) 2078,14 2338.22 2407.39 7399.82 6691.01 9258,08 
+10 Paid-up equity share capital (face value of share: t 2 each) 275.03 275.00 274.91 275.03 274.91 274.93 
+11 Other equity 64141.11 
+12 Earnings per equity share (EPS) (not annualised): 
+(a) Basic EPS (t) 17.59 14.50 15.54 53.63 47.59 66.95 
+(b) Diluted EPS (<) 17.58 14.49 15.53 53.59 47.55 66.89 
+Notes: 
+(i) During the quarter, the Company has allotted 1,35,735 equity shares of<' 2 each fully paid-up, on exercise of stock options by employees in accordance with the Company's stock option 
+schemes. 
+(ii) The Company has entered into an Investment Agreement dated November 05, 2024 to acquire 21% equity stake in E2E Networks Limited, a listed entity on National Stock Exchange (NSE) 
+through a combination of preferential allotment and secondary acquisition. Pursuant to lhe Investment Agreement, the Company acquired 15% equity shareholding through preferential 
+allotment on December 04, 2024 and recognised it there from as an investment in an Associate of lhe Company as per applicable accounting standards. 
+(Iii) Additional disclosures as per Regulation 52(4) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015: 
+Quarter ended Nine months ended Year ended 
+Sr. No. Particulars December 31, September 30, December 31, December 31, December 311 March 31, 
+2024 2024 2023 2024 2023 2024 
+1 Debt equity ratio 0.38 0.35 0.47 0.38 0.47 0.35 
+2 Debt service coverage ratio (DSCR) 1.76 2.07 4.93 1.63 1.40 1.83 
+3 Interest service coverage ratio (ISCR) 6.64 5.63 5.15 6.40 5.30 5.52 
+4 Current ratio 1.18 1.21 1.24 1.18 1.24 1.26 
+5 Long term debt to working capital ratio 0.49 0.48 0.61 0.49 0.61 0.57 
+6 Bad debts to accounts receivable ratio 0.00 0.00 0.00 0.01 0.01 0.02 
+7 Current liability ratio 0.95 0.93 0.88 0.95 0.88 0.88 
+8 Total debt to total assets ratio 0.14 0.13 0.17 0.14 0.17 0.13 
+9 Debtors turnover ratio 3.35 3.44 3.16 3.35 3.16 3.23 
+10 Operating margin (%) 8.27% 8.46% 7.78% 7.82% 7.21% 7.67% 
+11 Net profit margin (%) 6.92% 5.71% 6.76% 7.36% 7.66% 7.37% 
+12 Inventory turnover ratio (refer note below) NA NA NA NA NA NA 
+13 Capital Redemption Reserve/Debenture Redemption Reserve [ ~ Crore] 266.25 266.25 266.25 266.25 266.25 266.25 
+14 Net worth [ t Crore] (As per section 2(57) of Companies Act, 2013) 67894.70 65477.90 61685.98 67894.70 61685.98 64393.75 
+15 The Company has not issued any secured listed non-convertible debt 
+securities. 
+Note: 
+Formulae for computation of ratios are as follows: 
+Sr. No. Particulars Fonmulae 
+1 Debt equity ratio Total borrowings 
+Total equity 
+2 Debt service coverage ratio (DSCR) Profit before interest tax and excegtional items 
+Finance cost + Principal repayments (net of refinancing) made during the period for long term borrowings 
+3 Interest service coverage ratio (ISCR) Profit before interest tax and excegtional items 
+Finance cost 
+4 Current ratio Current assets 
+Current liabilities 
+5 Long term debt to working capital ratio Lon2 term borrowings (includin9 current maturities of lon2 term borrowin9s) 
+Current assets(-) Current liabilities [excluding current matulities of long term borrowings] 
+6 Bad debts to accounts receivable ratio Bad debts 
+Average gross trade receivables 
+7 Current liability ratio Current liabilities 
+Total liabilities 
+8 Total debt to total assets ratio Total borrowings 
+Total assets 
+9 Debtors turnover ratio Revenue from ogerations for trailing 12 months 
+Average gross trade receivables 
+10 Operating margin(%) Profit before depreciation, interest, tax and exceptional items 
+(-) Other income 
+Revenue from operations 
+11 Net profit margin (%) Net grofit after tax 
+Revenue from operations 
+12 Inventory turnover ratio Not matelial considering the size and the nature of operations of the Company 
+(iv) Figures for the previous periods have been regrouped/reclassified to conform to the classification of the current periods. 
+(v) The above financial results of the Company have been prepared in accordance with the recognition and measurement principles laid down in the Indian Accounting Standards 
+(Ind AS) as prescribed under section 133 of the Companies Act, 2013 read with the relevant rules issued thereunder and the other accounting principles generally accepted in 
+India. These results have been reviewed by the Audit Committee and approved by the Board of Directors at its meeting held on January 30, 2025. The same have also been 
+subjected to Limited Review by the Joint Statutory Auditors. 
+for LARSEN & TOUBRO LIMITED 
+Mumbai t ~-' ~:"'..-
+January 30, 2025 Chairman & Managing Director 
+Standalone unaudited Segment-wise Revenue, Result, Total Assets and Total Liabilities: 
+rcrore 
+Quarter ended Nine months ended Year ended 
+Particulars December 31, September 30, December 31, December 31, December 31, March 31, 
+2024 2024 2023 2024 2023 2024 
+[Reviewed] [Reviewed] [Reviewed] [Reviewed] [Reviewed] [Audited] 
+Gross segment revenue 
+1 Infrastructure Projects 25015.12 25914.77 23882.06 74112.31 64404.31 95585.62 
+2 Energy Projects 6521.19 5911.91 4855.82 17144.56 14168.59 19383.39 
+3 Hi-Tech Manufacturing 2575.87 2175.94 2184.70 6671.53 6194.11 8765.31 
+4 Others 1157.05 1318.05 1147.46 3240.05 3285.56 4263.71 
+Total 35269.23 35320.67 32070.04 101168.45 88052.57 127998.03 
+Less: Inter-segment revenue 284.95 402.31 469.12 987.06 1369.99 1762.18 
+Net segment revenue 34984.28 34918.36 31600.92 100181.39 86682.58 126235.85 
+Segment results 
+1 Infrastructure Projects 971.89 1026.39 971.67 3012.83 2616.98 4456.02 
+2 Energy Projects 993.87 827.24 579.46 2129.91 1465.25 2240.67 
+3 Hi-Tech Manufacturing 398.24 219.69 315.45 891.56 803.65 1169.50 
+4 Others 199.82 465.08 168.77 722.00 417.31 511.64 
+Total 2563.82 2538.40 2035.35 6756.30 5303.19 8377.83 
+Less: Inter-segment margins on capital jobs 13.55 12.52 38.90 31.40 86.76 108.53 
+Less: Finance costs 542.51 583.12 629.84 1692.81 1761.37 2405.83 
+Add: Unallocable corporate income net of expenditure 1053.70 757.22 1249.75 4114.72 4124.20 5004.85 
+Profit before exceptional items and tax 3061.46 2699.98 2616.36 9146.81 7579.26 10868.32 
+Add: Exceptional items(net of tax) - - - - 397.97 447.99 
+Profit before tax 3061.46 2699.98 2616.36 9146.81 7977.23 11316.31 
+Segment assets 
+1 Infrastructure Projects 84442.62 83504.91 83848.63 
+2 Energy Projects 17764.33 16387.05 16265.77 
+3 Hi-Tech Manufacturing 12397.59 10609.64 10071.97 
+4 Others 9176.31 8215.36 8331.41 
+Total segment assets 123780.85 118716.96 118517.78 
+Less: Inter-segment assets 1104.43 1082.75 1215.72 
+Add: Unallocable corporate assets 61201.22 54013.47 57980.63 
+Total assets 183877.64 171647.68 175282.69 
+Segment liabilities 
+1 Infrastructure Projects 57389.22 56755.01 62203.70 
+2 Energy Projects 15018.96 12258.46 11482.13 
+3 Hi-Tech Manufacturing 10538.66 6814.39 8865.36 
+4 Others 4193.31 3832.80 3959.41 
+Total segment liabilities 87140.15 79660.66 86510.60 
+Less : Inter-segment liabilities 1104.43 1082.75 1215.72 
+Add : Unallocable corporate liabilities 29795.37 31252.51 25571.77 
+Total liabilities 115831.09 109830.42 110866.65 
+Notes: 
+(I) The Company has reported segment information as per Ind AS 108 "Operating Segments". The identification of operating segments is consistent with performance assessment and 
+resource allocation by the management. 
+(II) Segment composition: Infrastructure Projects segment comprises engineering and construction of (a) building and factories, (b) transportation infrastructure, (c) heavy civil 
+infrastructure, (d) power transmission & distribution, (e) renewable, (f) water & effluent treatment and (g) minerals and metals. Energy Projects segment comprises of (a) 
+Hydrocarbon business covering EPC solutions in oil & gas, refineries, petrochemicals & offshore wind energy sectors, from front-end design through detailed engineering, modular 
+fabrication, procurement, project management, construction, installation and commissioning, (b) CarbonLite Solutions business covering EPC solutions for power generation plants 
+including power generation equipment with associated systems and/or carbon capture utilisation & utility packages and (c) EPC solutions in green energy space. Hi-Tech 
+Manufacturing segment comprises design, manufacture/construct, supply and revamp/retrofit of (a) custom designed, engineered critical equipment & systems to the process plant, 
+nuclear energy and green hydrogen sectors (b) marine and land platforms including related equipment & systems; aerospace products & systems; precision and electronic products & 
+systems for the defence, security, space and industrial sectors. Othen; segment includes (a) realty, (b) smart infrastructure & communication projects, (c) marketing and servicing of 
+construction equipment, mining machinery and parts thereof, (d) manufacture and sale of rubber processing machinery and (e) e-commerce/digital platforms & data centres. 
+(Ill) Unallocable corporate income includes majorly interest income, dividends and investment related gains. Unallocable expenditure includes majorly corporate expenses not allocated to 
+segments. Unallocable corporate assets comprise majorly investments. Corporate liabilities comprise majorly borrowings. 
+(IV) In respect of segments of the Company, revenue and margin do not accrue uniformly during the year. 
+(V) Figures for the previous periods have been regrouped/reclassified to conform to the classification of the current periods. 
+for LARSEN & TOUBRO LIMITED 
+Mumbai _(.~.~~ 
+Januarv 30, 2025 Chairman & Managing Director 
+MS KA & Associates 
+Chartered Accountants 
+602, Floor 6, Raheja Titanium 
+Western Express Highway, Geetanjali 
+Railway Colony, Ram Nagar, 
+Goregaon (East) 
+Mumbai -400063, India Deloitte Haskins & Sells LLP 
+Chartered Accountants 
+Tower 3, 31st Floor, 
+One International Center, 
+Senapati Bapat Marg, 
+Elphinstone (West) 
+Mumbai -400013, India 
+INDEPENDENT AUDITOR'S REVIEW REPORT ON REVIEW OF INTERIM STANDALONE 
+FINANCIAL RESULTS 
+TO THE BOARD OF DIRECTORS OF LARSEN & TOUBRO LIMITED 
+1. We have reviewed the accompanying Statement of Standalone Unaudited Financial Results of 
+LARSEN & TOUBRO LIMITED (the "Company"), which includes the interim financial information of 
+31 joint operations consolidated on a proportionate basis for the quarter and nine months ended 
+December 31, 2024 (the "Statement"), being submitted by the Company pursuant to the requirement 
+of Regulation 33 and Regulation 52 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended (the "Listing Regulations"). 
+2. This Statement, which is the responsibility of the Company's Management and approved by the 
+Company's Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in the Indian Accounting Standard 34 "Interim Financial Reporting" 
+("Ind AS 34"), prescribed under Section 133 of the Companies Act, 2013 read with relevant rules 
+issued thereunder and other accounting principles generally accepted in India and in compliance with 
+Regulation 33 and Regulation 52 of the Listing Regulations. Our responsibility is to express a 
+conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements 
+{"SRE") 2410 'Review of Interim Financial Information Performed by the Independent Auditor of the 
+Entity', issued by the Institute of Chartered Accountants of India (''ICAI"). A review of interim 
+financial information consists of making inquiries, primarily of the Company's personnel responsible 
+for financial and accounting matters, and applying analytical and other review procedures. A review 
+is substantially less in scope than an audit conducted in accordance with Standards on Auditing 
+specified under section 143(10) of the Companies Act, 2013 and consequently does not enable us to 
+obtain assurance that we would become aware of all significant matters that might be identified in 
+an audit. Accordingly, we do not express an audit opinion. 
+We have also performed procedures in accordance with the circular issued by the SEBI under 
+Regulation 33 (8) of the Listing regulations, to the extent applicable. 
+4. The Statement includes the interim financial information of the joint operations listed in Attachment 
+A. 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based 
+on the consideration of the review reports of other auditors as referred in paragraph 6 below, nothing 
+has come to our attention that causes us to believe that the accompanying Statement, prepared in 
+accordance with the recognition and measurement principles laid down in Ind AS 34 and other 
+accounting principles generally accepted in India, has not disclosed the information required to be 
+disclosed in terms of Regulation 33 and Regulation 52 of the Listing regulations, including the manner 
+in which it is to be disclosed, or that it contains any material misstatement. 
+6. We did not review the interim financial information of 4 joint operations included in the Statement 
+whose interim financial information reflects total revenues of ~262.65 crore and ~1,638.20 crore, 
+total loss a~er tax (net) of ~366,67 crore and ~469.38 crore, total comprehensive loss (net) of 
+t366.67 crore and ~469.38 crore for the quarter and nine months ended December 31, 2024 
+respectively, as considered in this Statement. The interim financial information of these joint 
+operations has been reviewed by other auditors whose reports have been furnished to us by the 
+Management of the Company, and our conclusion in so far as it relates to the amounts and disclosures 
+included in respect of these joint operations, is based solely on the reports of such other auditors 
+and the procedures performed by us as stated in paragraph 3 above. 
+Our conclusion on the Statement is not modified in respect of the above matter with respect to our 
+reliance on the work done and the reports of the other auditors, 
+7. We did not review the interim financial information of 27 joint operations included in the Statement 
+whose interim financial information reflects total revenues of H18.57 crore and ~544.04 crore, total 
+profit after tax (net) of H.77 crore and ~20.81 crore and total comprehensive income (net) of H.77 
+crore and ~20.81 crore for the quarter and nine months ended December 31, 2024 respectively, as 
+considered in this Statement. The interim financial information of these joint operations has not been 
+reviewed by other auditors and whose interim financial information have been furnished to us by the 
+Management of the Company, and our conclusion in so far as it relates to the amounts and disclosures 
+included in respect of these joint operations, is based solely on such interim financial information 
+certified by the Management of the respective entities. According to the information and explanations 
+given to us by the Management, the interim financial information of these entities are not material 
+to the Company. 
+Our conclusion on the Statement is not modified in respect of our reliance on the interim financial 
+information certified by the Management of the respective entities. 
+8. The standalone unaudited financial results for the quarter and nine months ended December 31, 
+2023, included in the Statement, were reviewed by Deloitte Haskins & Sells LLP, one of the joint 
+auditors of the Company, whose reports dated January 30, 2024 expressed an unmodified conclusion 
+on those standalone unaudited financial results. 
+The standalone audited financial results for the year ended March 31, 2024, included in the Statement 
+were audited by Deloitte Haskins & Sells LLP, one of the joint auditors of the Company, whose report 
+dated May 8, 2024 expressed an unmodified opinion on those standalone audited financial results. 
+Our conclusion on the Statement is not modified in respect of above matters, 
+For M S K A & Associates 
+ered Accountants 
+Fir 's Regn. ~~5047W) 
+-~ \~~~ 
+Partner 
+(Membership No. 118247) 
+UDIN: ~8 2,4-1.B MOX V\/ HJ_ 9.i9 
+Place: Mumbai 
+Date: January 30, 2025 
+vJ For Deloitte Haskins & Sells LLP 
+Chartered Accountants 
+(Firm's Regn. No. 117366W/W-100018) 
+Rupen K. Bhatt 
+Partner 
+(Membership No. 046930) 
+UDIN: 2S0-4-69305fV]ODPZ7C('62, 
+Place: Mumbai 
+Date: January 30, 2025 
+ef 
+Attachment A; Ust ot Jojnt operatjpns 
+Sr. No. Name of Joint Operations 
+1 Aktor-Larsen & Toubro-Yapi Merkezi-STFA-AI Jaber Engineering Joint Venture 
+2 Al Balagh Trading & Contracting Co W.L.L-L&T Joint Venture 
+3 Besix -Larsen & Toubro Joint Venture 
+4 Civil Works Joint Venture 
+5 DAEWOO and L&T Joint Venture 
+6 Desbuild L&T Joint Venture 
+7 HCC -L&T Purulia Joint Venture 
+8 International Metro Civil Contractors Joint Venture 
+9 L&T -AM Tapovan Joint Venture 
+10 L&T -Hochtief Seabird Joint Venture 
+11 L&T -PCIPL JV 
+12 L&T -Powerchina JV 
+13 L&T -Tecton JV 
+14 L&T-Inabensa Consortium 
+15 L&T-ISDPL (JV) 
+16 L&T-AL-Sraiya LRDP 6 Joint Venture 
+17 L&T-Delma Mafraq Joint Venture 
+18 L&T-IHI Consortium 
+19 L&T-Shanghai Urban Construction (Group) Corporation Joint Venture 
+20 L&T-Shanghai Urban Construction (Group) Corporation Joint Venture CC27 Delhi 
+21 L&T-STEC JV Mumbai 
+22 Larsen & Toubro limited & NCC Limited Joint Venture 
+23 Larsen & Toubro Ltd -Passavant Energy & Environment JV 
+24 Larsen and Toubro Limited-Scomi Engineering BHD Consortium-O&M Joint Venture 
+25 Larsen and Toubro Limited-Scomi Engineering BHD Consortium-Residual Joint Works Joint 
+Venture 
+26 Larsen and Toubro Limited-Shapoorji Pallonji & Co. Ltd. Joint Venture 
+27 LNT -Shriram EPC Tanzania UJV 
+28 LTH Milcom Private Limited 
+29 Metro Tunneling Chennai-L&T Shanghai Urban Construction (Group) Corporation Joint 
+Venture 
+30 Metro Tunneling Delhi-L&T Shanghai Urban Construction (Group) Corporation Joint Venture 
+31 Metro Tunneling Group 
+ 
+ 
+B. STATEMENT ON DEVIATION OR VARIATION FOR PROCEEDS OF 
+PUBLIC ISSUE, RIGHTS ISSUE, PREFERENTIAL ISSUE, QUALIFIED 
+INSTITUTIONS PLACEMENT , ETC - Not Applicable  
+ 
+C. FORMAT FOR DISCLOSING OUTSTANDING DEFAULT ON LOANS AND 
+DEBT SECURITIES  - Not Applicable  
+ 
+D. FORMAT FOR DISCLOSURE OF RELATED PARTY TRANSACTIONS  
+(applicable only for half -yearly filings  i.e., 2nd and 4th quarter)  – Not 
+Applicable  
+ 
+E. STATEMENTON IMPACT OF AUDIT QUALIFICATIONS (FOR AUDIT 
+REPORT WITH MODIFIED OPINION) SUBMITTED ALONG -WITH ANNUAL 
+AUDITED FINANCIAL RESULTS  (Standalone and Consolidated 
+separately)  (applicable only for Annual Filing  i.e., 4th quarter)  - Not 
+Applicable  
+ 

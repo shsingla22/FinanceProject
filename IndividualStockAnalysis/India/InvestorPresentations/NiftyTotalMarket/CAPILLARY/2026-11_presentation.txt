@@ -1,0 +1,587 @@
+
+=== page 1 ===
+  
+www.capillarytech.com  
+ 
+Capillary Technologies India Limited   
+CIN- L72200KA2012PLC063060  
+Regd. Office - 360, bearing PID No: 101, 360, 15th Cross Rd, Sector 4,  
+HSR Layout, Bengaluru, Karnataka 560102  
+Email: secretarial@capillarytech.com  
+Website: www.capillarytech.com  
+Tel:  080-41225179  
+ Date: November  02, 2026  
+ 
+To,  
+BSE Limited  
+Listing Department  
+Phiroze JeeJeebhoy Towers, Dalal 
+Street Fort, Mumbai -400001    
+Scrip Code:  544614  
+                                      To, 
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza , Bandra Kurla Complex  
+Bandra (East), Mumbai -4000051  
+Symbol: CAPILLARY  
+Dear Sir/Madam , 
+ 
+Subject : Investor Presentation under Regulation 30 of SEBI (List ing Obligations and 
+Disclosure Requirements) Regulations 2015 . 
+ 
+In continuatio n of our intimation dated October  26, 2026 regarding Analyst/I nstitutional 
+call scheduled on November  02, 2026 at 04:0 0 PM . We are enclosing herewit h Investor 
+Presentation for the quarter and half year ended on  September  30, 2026 . 
+ 
+This intimation will also be made available on the website of the Company and can be 
+accessed using the below link : https://www.capillarytech.com/investors/   
+ 
+We request you to take the above information on records.  
+ 
+Yours faithfully,  
+ 
+For Capillary Technologies India Limited  
+ 
+ 
+ 
+Gireddy Bhargavi Reddy  
+Company Secretary and Compliance Officer  
+Membership No. A17091  
+Place: Bengaluru  
+Encl: As above  
+=== page 2 ===
+Copyright © 2026 Capillary Technologies India Limited
+Investor Presentation
+Q2 FY 27
+November 2, 2026
+=== page 3 ===
+Today’s Presenters
+Aneesh Reddy  
+Boddu
+Founder, Managing Director 
+and CEO
+Anant 
+Choubey
+Whole-time Director, 
+CFO and COO
+
+=== page 4 ===
+Safe Harbour & Disclaimer
+Specific forward-looking topics covered in this document include, but are not 
+limited to: revenue projections, EBITDA forecasts, Net Revenue Retention 
+(NRR) trends, gross margin trajectories, migration timelines for acquired 
+entities, acquisition integration milestones, market growth assumptions, 
+product roadmaps (including AI/AIRA platform developments), competitive 
+positioning, customer retention rates, regulatory compliance status, cash 
+flow expectations, working capital dynamics, and capital allocation plans.
+These statements are based on current beliefs, plans, and expectations and are 
+subject to inherent risks and uncertainties. Actual results may differ materially 
+from those expressed or implied due to factors including changes in client 
+demand, competitive landscape, technology shifts, and regulatory environments. 
+The Company assumes no obligation to update these statements to reflect 
+subsequent events or circumstances.Forward-Looking Statements
+This presentation contains forward-looking statements relating to the business, 
+financial performance, strategy, and results of Capillary Technologies India 
+Limited ("the Company"). These statements are identified by words such as "aim," 
+"anticipate," "believe," "expect," "estimate," "intend," "will," "project," "plan," "seek," 
+and similar expressions.
+Non-GAAP Financial Measures
+This presentation includes certain non-GAAP financial measures, but are not 
+limited to Adjusted EBITDA, Annual Recurring Revenue (ARR), and Net Revenue 
+Retention (NRR). These measures are supplemental and not defined under Ind 
+AS, IFRS, or U.S. GAAP. They should not be considered in isolation or as 
+alternatives to financial measures prepared in accordance with applicable 
+accounting standards. The Company believes these non-GAAP measures provide 
+useful information to investors regarding operating performance and liquidity, 
+aligned with how management evaluates the business.
+Data Accuracy & Rounding
+Certain data contained in this presentation, including market size and 
+competitive position, has been obtained from third-party sources and reports 
+(e.g., Zinnov, Forrester). While the Company believes these sources to be reliable, 
+it has not independently verified such data. Financial figures have been rounded 
+to the nearest decimal or integer for presentation purposes; consequently, sums 
+of figures may not exactly match the totals presented.
+Presentation & Offering Information
+This presentation is for information purposes only and does not constitute an 
+offer, solicitation, or invitation to sell or issue any securities. No part of this 
+presentation shall form the basis of, or be relied upon in connection with, any 
+contract or investment decision. Recipients should conduct their own 
+independent investigation and analysis of the Company. This document does not 
+constitute a prospectus or offer document under the Companies Act, 2013, or 
+SEBI ICDR Regulations.
+
+=== page 5 ===
+Global Market Leader in Loyalty and Engagement Management 
+1.  Capillary was named a leader in the Forrester Wave (
+ ):
+Loyalty Platforms, Q4 2025
+DallasUK
+Saudi Arabia United Arab Emirates
+Bengaluru (HQ)Malaysia
+Singapore
+IndonesiaThailand
+PhilippinesGermany
+Minneapolis
+Vietnam
+Hong Kong
+Canada
+Mumbai
+462+
+BrandsGlobal reach tapping into the unique needs and preferences across regions
+Awards & Recognitions
+752
+Employees Worldwide2.9 Billion+
+Consumer Profiles
+on the Platform
+19
+Global Offices
+55
+Countries
+Select Countries and 
+Cities with Offices or 
+Customer Presence
+99.998%
+Product Uptime
+Australia
+New Zealand
+Offering AI-powered 
+Cloud-native Products and Solutions to 
+Large Enterprise Customers Globally 
+monetized through long term 
+subscription contracts.
+* As of September 30, 2026Czechia
+
+=== page 6 ===
+Independent Recognition – Forrester Wave
+Capillary has extensive genAI capabilities, including its aiRA (AI 
+assistant) and Nudge Framework, to help marketers build and 
+optimize promotions conversationally
+Capillary Technologies named a 
+Leader in Loyalty Platforms
+— The Forrester Wave(
+ ): Loyalty Platforms, 
+Q4 2025
+* Highest among all vendors in both Current 
+Offering and Strategy
+* 5/5 Score in 22 out of 27 Criteria
+AI-First Platform Approach
+Supports Complex Program
+Customer FeedbackThe Forrester wave (
+ ): Loyalty Platforms, Q4 2025 
+Capillary excels across most capabilities including program 
+flexibility, UX, and AI-driven insights. Its platform supports 
+complex programs, including coalition, subscription, and 
+gamified formats.
+Customers praise Capillary’s usability, AI enablement, and 
+promotion flexibility.While some customers aren’t ready to take on 
+full genAI features today, they appreciate Capillary’s forward-leaning 
+approach to innovation.Forrester does not endorse any company, product, brand, or service included in its research publications 
+and does not advise any person to select the products or services of any company or brand based on the 
+ratings included in such publications. Information is based on the best available resources. Opinions 
+reflect judgment at the time and are subject to change. For more information, read about Forrester’s 
+objectivity hereࣟWhat We Think Got Us Here:
+=== page 7 ===
+Our Product Suite that helps brands stay consumer ready!
+Capillary Platform with aiRA[AI-powered Research Assistant]
+Capillary’s AI/ML-powered platform captures data and creates a customer single view — from loyal & other customers — for information, 
+insights, engagement and personalised experiences
+Build a
+Relationship
+Loyalty +
+Increase Customer
+Retention EfficientlyKeep Them
+Engaged
+Engage +
+Personalized Customer
+CommunicationUnderstand
+Them
+Insights +
+In-depth Analysis With
+Automated ReportsReward &
+Incentivise
+Rewards +
+Extensive Global
+Rewards NetworkGamify &
+Delight
+Experience +
+Gamified Loyalty
+Campaigns in Days
+Example
+Data Sources
+Transactional
+Product Led
+Mobile App
+Social Media
+Third-party data
+Search & click data
+Simplified Bulk & API
+Integration using
+Connect+Platform feature
+extensibility using
+NeoCustom UIs using
+VulcanCapillary Web SDK
+& Mobile SDKCampaign integration
+with paid media
+Capillary Platform
+=== page 8 ===
+aiRA: The AI Growth Agent For Enterprise Brands
+Connects to all of a brand's customer data, finds the growth, and does the work across the customer lifecycle.
+Understands
+Every customer signal
+Capillary
+ Salesforce
+Snowflake
+ Databricks
+Google Ads
+ Meta
++ any other source, via connectorsDoes the work
+In their tools, with a person approving
+Engage+
+ Braze
+Adobe
+ WhatsApp
+Slack
+ Power BI
++ any other tool, via connectorsDecides
+Where the growth is
+ACROSS THE CUSTOMER LIFECYCLE
+Acquire
+Builds lookalike audiences and 
+shifts ad spend to what works.Convert
+Turns sign-ups into members, 
+and first buys into repeat.Retain
+Spots members drifting before 
+they lapse.Reactivate
+Wins back lapsed customers, 
+inside the margin.
+FOR EVERY TEAM THAT DRIVES GROWTH
+CRM
+ Marketing
+ Growth
+ E-commerce
+ Digital
+ Data & BI
+ Rewards
+ Partnerships
+=== page 9 ===
+Our Growth levers
+1. NRR Expansion
+FY27 Q2 Organic NRR at 116%(CC 109%) from our three levers of expanding existing customer revenue, 
+viz.,: 
+●platform usage overages and inflationary increases,
+●product upgrades and service upsells, and
+●new brands, geographies and business units
+NRR expansion is further supported by customers from our earlier acquisitions that have now fully 
+migrated to our platform, opening up expansion opportunities across our product suite.
+2. New Customer wins
+Accelerating momentum with targeted enterprise wins and larger deal sizes across global markets.
+FY 27 Q2 TTM New ACV grew by 79% YoY (excl. 1 large healthcare customer*) largely driven by new wins, the 
+majority of which are anchored on our AI stack - aiRA.
+3. M&A
+The SessionMacquisition, completed on May 1st, is performing as planned and has achieved break-even for Q2/H1 . 
+Integration remains on track, and we continue to build on SessionMenterprise relationships across North America, 
+LATAM and APAC.
+* The TTM Q2 FY26 base excludes an exceptional new contract value from our first entry into the healthcare vertical.
+=== page 10 ===
+Our Profitability levers
+1. NRR-linked margin expansion
+Incremental revenue from existing customers comes at higher gross margin, improving profitability. Expansions 
+leverage hosting and customer support capacity already in place, with these costs not scaling in proportion to 
+incremental revenue. 
+Subscription GM% is at a stable 67% in FY27 H1 (67% in FY27 Q2) led by NRR-linked expansion at higher margins;this 
+is despiteSessionMrevenues addedat lower GMs.
+2. Leverage on non-COGS
+~60% of our costs are linked to non-COGS - technology, S&M, Corporate functions, which do not grow linearly with 
+revenues.
+YoY Non-COGS costs increased in FY27 H1 by only 34% compared to the 47% increase in revenue from operations.. 
+Further a  large majority of the Non-COGS cost growth came from the SessionMacquisition.
+3. Upgrade of Customers from M&A
+Post upgrade to our platform customers move from a ~30% gross margin to a ~65% margin, leading to better 
+profitability and cash flow generation, making our M&A a 4-5 yearcash pay back engine.
+In FY27 Q2 we completed our first customer migration leveraging our AI-powered migration capabilities, laying the 
+groundwork for a growing number of migrations in the quarters ahead.
+=== page 11 ===
+43% YoY CC 51% YoY 
+Headline results
+Revenue from Operations
+₹ 2,713.5 Mn
+Adjusted EBITDA
+₹ 448.6 Mn
+Profit After Tax (PAT)
+₹ 219.2 Mn
+₹ 5,280.0 Mn₹ 888.8 MnQ2 FY 27
+H1 FY 27
+* Includes ₹ 333.9 Mn. of exceptional loss on cyber fraud incident (provided for by the Company pending potential insurance settlement)₹ 123.7* Mn
+38% YoY CC 47% YoY 
+17% margins 103% YoY 
+17% margins 116% YoY 
+8% margins 7505% YoY 
+2% margins 1097% YoY 
+
+=== page 12 ===
+Revenue and profitability growth
+Revenue growth ₹ in Mn. Adjusted EBITDA growth ₹ in Mn.
+●Consolidated revenue grew 47% YoY to ₹5,280 Mn. in H1 FY27, with Organic revenue up 23% YoY (15% YoY CC) 
+to ₹3,180 Mn. This reflects consistent performance of our organic and inorganic growth engines.
+●
+●Adjusted EBITDA more than doubled, growing 116% YoY to ₹889 Mn in H1 FY27 at a 17% margin (H1 FY26: 11%), 
+signalling improving unit economics and operating leverage at scale. This results from our improved margins 
+through NRR expansion, operating leverages on non-COGS costs and from M&A synergies.
+=== page 13 ===
+ARR and New ACV trend
+Annual Recurring Revenue (ARR) ₹ in Mn.
+ New ACV
+●TTM New ACV (excl. 1 large healthcare customer*) grew 79% YoY to ₹933 Mn. further supplementing our growth 
+and efficiencies. The new ACV growth reflects a higher win rate as our AI capabilities increasingly 
+differentiate us in enterprise evaluations
+●Q2 FY27 ends with an ARRof₹10,854 Mn. at a YoY growth of 51% with strong contribution from the SessionM 
+acquisition, NRR and New ACV, establishing a significantly larger recurring revenue base.₹ in Mn.
+* The TTM Q2 FY26 base excludes an exceptional new contract value from our first entry into the healthcare vertical.
+=== page 14 ===
+Profitability metrics
+●Our H1 FY27 Adj. EBITDA grew YoY at 116% to ₹889 Mn. at 17% margins.
+●The 3M Adj. EBITDA at 103% YoY growth closed at ₹449 Mn. at 17% margins.
+●PAT increased to ₹ 219 Mn. in Q2 FY27 at YoY growth of 7505% and to ₹ 124 Mn.* in H1 FY27 at YoY growth of 1097%
+●These increases reflect higher-margin revenue from existing customers, operating leverage on non-COGS costs, and 
+margin uplift as acquired customers move to our platform.
+Q2 FY27 Performance
+ H1 FY27 Performance₹ in Mn.
+ ₹ in Mn.
+0.2%
+* H1 FY27 includes ₹ 333.9 Mn. of exceptional loss on cyber fraud incident (provided for by the Company pending potential insurance settlement) recorded in 
+Q1 FY27.
+=== page 15 ===
+Drivers of margin expansion
+Organic business incl. the contribution from migrated customers contribute more than 90% of the margin growth
+Migrated to organic - H1 FY 26 →H1 FY 27
+From migration of customers from Persuade, Brierley and 
+Rewards, an incremental ₹ 226 Mn. margins are generated in the 
+last year.Consolidated Adj. EBITDA: H1 FY 26 → H1 FY 27 ₹ in Mn.
+Contribution margins (‘CM’) do not include CAC, R&D and G&A expenses; consolidated costs of these are included in the pure 
+organic businessInorganic - H1 FY 26 →H1 FY 27
+Turnaround of ₹ 25 Mn. comes primarily from low margins on 
+new SessionM and Kognitiv revenuesPure organic business - H1 FY 26 →H1 FY 27
+₹ 227 Mn. reflects a sharp rise in Adj. EBITDA along with 
+significant expansion in margins led by our operational 
+efficiencies.
+44%
+H1 FY 27Every ₹ 100of new organic revenue has 
+generated ₹ 44of Adj. EBITDA due to our 
+operating leverage
+
+=== page 16 ===
+Cash and conversion efficiency
+H1 FY 27 FCF *** / PAT 506%H1 FY 27 OCF / Adj. EBITDA 128%Net cash generated by operating activities (H1 FY 27 OCF) **₹1,133.4Mn. 30th September, 2026 cash and bank * ₹5,738.2 Mn. 
+OCF = Net cash generated/(used in) by operating activities in H1 FY 27
+* Includes cash and cash equivalents, bank and demand deposits and short term investments
+** H1 FY 27 OCF computed as OCF plus exceptional loss of ₹ 333.9 Mn in Q1 FY 27
+*** H1 FY 27 FCF computed as OCF minus Capital expenditures
+# Return on Capital Employed computed as EBIT divided by Capital Employed, where EBIT = Profit before exceptional items and tax plus Finance costs and Capital Employed = 
+Total Equity plus Borrowings. ROCE is computed on returns in trailing twelve months ended September 30, 2026.
+## Cash Return on Invested Capital computed as Adj. EBITDA divided by average Invested Capital (average of invested capital as of September 30, 2026 and September 30, 
+2025), where Invested Capital = Capital Employed minus cash and cash equivalents, bank and demand deposits and investments. CROIC is computed on cash returns in trailing 
+twelve months ended September 30, 2026.CROIC## 29%ROCE # 7%30th September, 2026 borrowings ₹447.2 Mn. 
+=== page 17 ===
+●High amortisationreflects recent acquisitions(Rewards, Brierley, Kognitiv, SessionM).
+●Exceptional loss in Q1 FY27 reflects a loss on cyber fraud incident provided for by the Company pending potentialinsurance settlement.PAT to Adj. EBITDA reconciliation
+₹ Mn.
+H1 FY 26 H1 FY 27 Q2 FY 26 Q1 FY 27 Q2 FY 27 Particulars
+10.3 123.7 2.9 (95.5) 219.2 Profit/(loss) after tax
+0.3% 2% 0.2% -4% 8% PAT margin
+- 333.9 - 333.9 - Exceptional loss / (income)
+(5.2) (10.1) (3.2) 9.6 (19.7) Total tax expense/(credit)
+363.7 445.0 191.0 200.4 244.5 Depreciation and amortisation expenses
+29.4 23.0 17.7 11.7 11.4 Finance costs
+398.2 915.4 208.3 460.1 455.4 EBITDA
+11% 17% 12% 18% 17% EBITDA margin
+34.3 87.2 22.9 36.9 50.3 ESOP expenses
+(21.9) (113.9) (10.4) (56.8) (57.0) Finance income, asset disposal profits, fair valuation and 
+foreign exchange gains
+410.6 888.8 220.8 440.2 448.6 Adjusted EBITDA
+11% 17% 12% 17% 17% Adjusted EBITDA margin
+=== page 18 ===
+Copyright © 2026 Capillary Technologies India Limited
+Frequently Asked Questions
+Management answers to investor questions on performance, growth 
+drivers, margin trajectory, M&A integration, and corporate governance.
+Growth & 
+Performance
+Margins & 
+Profitability
+M&A & 
+Integration
+Governance & 
+ESG
+Geo & Vertical 
+Mix
+=== page 19 ===
+Q1How has overall business growth and profitability performance 
+been?
+• Business growth momentum remains robust with 47% YoY revenue growth in H1 FY27.
+• This is driven by a combination of NRR (116% organic, 111% overall) and strategic acquisitions:
+◦The organic growth is a result of our:
+▪NRR growth through three levers of expansion - (i) platform usage overages and cost of living adjustments, (ii) product and service upsells and cross-
+sells, and (iii) expansion through new geographies, brands or business units of customers;
+▪this is supplemented by revenue contribution from new logo acquisitions in travel, automobile & hospitality and food & beverages verticals.
+◦The inorganic growth comes from the Kognitiv & SessionM acquisitions.
+• This dual engine of growth has expanded our Annual Recurring Revenue (ARR) to ₹10,854 Mn , up 51% YoY over Q2 FY26. 
+•Adjusted EBITDA has expanded significantly, growing 116% YoY to ₹889 Mn. in H1 FY27 . The company has achieved 
+substantial improvement driven by scale and integration synergies across inorganically acquired businesses led by early 
+optimisation in functions below gross margin. This is resulting in revenue growth outpacing operating expenses with the 
+latter growing YoY at 38% in H1 FY27 against the 47% revenue growth.
+The business is on track to deliver our earlier FY27 guidance: ₹10,650 Mn. revenue and ₹1,720 Mn. Adjusted EBITDA
+H1 FY 27 Revenue Growth
+47%
+▲ YoY vs H1 FY26
+ARR Expansion
+₹10,854 Mn
+▲ 51% YoY vs Q2 FY26
+Organic NRR
+116%
+✓Best-in-class Retention
+=== page 20 ===
+Q2What is the NRR for H1 FY27 and what does the Organic vs Inorganic 
+breakdown show?
+NRR Breakdown: H1 FY27 Actuals
+Trailing 12 Months Ending September 30, 2026
+The majority of our business is from organic revenue.
+Performance Divergence
+Organic NRR of 116% (CC 109%) remains strong, reflecting healthy expansion 
+within our existing customer base and deepening adoption of the core Capillary 
+product suite.
+Customer cohorts from our most recent acquisitions (Kognitiv, SessionM) can be 
+expected to deliver retention metrics comparable to the organic business only 
+once their respective platform upgrades conclude.
+This makes Organic NRR, which measures revenue retention of customers already 
+on the Capillary platform, the clearest retention metric for how our NRR expansion 
+levers are performing.
+Inorganic NRR (94%) reflects expected migration dynamics from inorganically 
+acquired customers which result in NRR below 100%.
+Across past acquisitions, ~70% of revenue has been retained post-migration, with 
+margins on the retained base improving from loss-making or break-even to ~40%.
+Total NRR (Blended)
+111%Organic
+116%Inorganic
+94%
+*Definitions: Organic = All revenue from customers on Capillary platform; Inorganic = Acquired assets not yet 
+migrated or in the process of migration; TTM = Trailing Twelve Months.
+
+=== page 21 ===
+Q3What is the subscription revenue performance in H1 FY27 vs H1 
+FY26?
+H1 Performance (6 Months)
+₹3,211 Mn H1 FY26 Subscription Revenue
+₹4,977 Mn H1 FY27 Subscription Revenue
++₹1,766 Mn Absolute Growth
++55% YoY Growth %
+Performance
+TREND % OF TOTAL H1 FY27 REVENUE REVENUE STREAM
+Increased mix 94.3% ₹4,976.7 Mn Subscription Revenue
+Seasonal fluctuation5.6% ₹299.1 Mn Other Services (Installation)
+Reducing0.1% ₹4.2 Mn Campaign Services
+Subscription revenue grew 55% YoY to ₹4,977 Mn in H1 FY27. The 94.3%share of total revenue also increases from 89.4% in H1 FY26 led by higher 
+recurring revenue mix in new annual contract values.
+Key Drivers of Change
+Organic Expansion: Core platform adoption driving recurring revenue.
+Migration Success: Converting legacy service contracts to subscription models.
+Mix Improvement: Deliberate shift away from one-time service revenue.
+=== page 22 ===
+Q4What is Top-10 client concentration and how do you mitigate risk?
+Trend Data
+The percentage decline occurred alongside absolute growth in Top 5 revenue from ₹1,386 Mn in H1 FY26 to ₹1,957 Mn in H1 FY27
+and in Top 10 revenue from ₹2,001 Mn in H1 FY26 to ₹2,553 Mn in H1 FY27 . This reflects reduced concentration driven by faster 
+growth in the broader portfolio .
+Risk Mitigation: We will continue reducing concentration risk by widening our logo base and expanding into new verticals while 
+deepening relationships with key accounts.
+
+=== page 23 ===
+Q5What is our employee strength and functional mix?
+Total Headcount (Sep 30, 2026)
+752-1% QoQOngoing operational efficiencies continue to streamline our headcount
+Functional Breakdown
+Composition
+Strategic Hiring Focus
+AI & R&D Expansion: Scaling engineering teams for AIRA platform 
+development and GenAI capabilities.
+Sales Scaling: Adding enterprise sales leaders in US/EU to drive Fortune 
+500 penetration.
+Operational Strategy
+Delivery Strengthening: Ramping up implementation teams to 
+accelerate migration of acquired customers.
+
+=== page 24 ===
+Q6What are the Basic & Diluted EPS and other profitability metrics for 
+H1 FY27?
+H1 FY26 H1 FY27 FINANCIAL METRIC
+₹0.14 ₹1.56 Basic EPS (₹ per share)
+₹0.14 ₹1.54 Diluted EPS (₹ per share)
+FY25 FY26 H1 TTM FY27 FINANCIAL METRIC
+3.0% 7.4% 8.6% RONW (Return on Net Worth)
+₹6,683.4 Mn ₹10,682.2 Mn ₹11,040.4 Mn Capital Employed
+2.8% 3.0% 6.8% ROCE(Return on Capital Employed)
+₹4,318.5 Mn ₹5,494.0 Mn ₹5,181.8 Mn Invested Capital
+3.2% 4.8% 10.4% ROIC(Return on average Invested Capital)
+17.4% 21.8% 28.5%CROIC(Cash Return on average Invested 
+Capital)
+Performance
+Basic and Diluted EPS improved to ₹1.56and₹1.54respectively in H1 FY27 (versus ₹0.14 in H1 FY26), notwithstanding the one-time exceptional expense in
+Q1 FY27, while RONW increased to 8.6%in H1 TTM FY27 from 7.4% in FY26. Excluding exceptional items, Basic and Diluted EPS stands at ₹5.75and₹5.70
+respectively in H1 FY27 and RONW at 9.7%in H1 TTM FY27. Capital Employed increased to ₹11,040.4 Mn versus ₹10,682.2 Mn in FY26. Underlying
+profitability trends remain healthy — ROCE improved to 6.8%from 3.0%, and ROIC advanced to 10.4%from 4.8%. CROIC strengthened further to 28.5%
+from 21.8%, reflecting healthier cash conversion relative to invested capital.
+=== page 25 ===
+Q7What is the status on migrations of acquisition accounts?
+All customers from previous acquisitions ( Persuade, Brierley, Rewards+ ) have successfully migrated to the Capillary 
+stack, with no continuing customers from these acquisitions remaining off the Capillary platform.
+Migration of the first cohort of Kognitiv customers has been successfully aligned and commenced with the first 
+customer’s migration successfully completed in this quarter.
+Our first customer migration using our AI-powered migration capabilities was completed just prior to September 30, 
+2026, with a substantial pipeline scheduled for the coming quarters.
+=== page 26 ===
+Summary Financials: YoY and Sequential
+YoY H1 FY 26 H1 FY 27 QoQ Q1 FY 27 YoY Q2 FY 26 Q2 FY 27Consolidated Summary Statement of
+Profit and Loss
+47% 3,592.2 5,280.0 6% 2,566.4 51% 1,793.3 2,713.5 Revenue from operations
+38% 3,193.1 4,395.0 7% 2,126.5 43% 1,583.9 2,268.5 Total expenses
+-66% 11.5 3.9 1100% 0.3 11.5 3.6 Other operating income
+38% 3,181.6 4,391.2 7% 2,126.3 44% 1,572.4 2,264.9 Total operating expense
+116% 410.6 888.8 2% 440.2 103% 220.8 448.6 Adj. EBITDA
+11% 17% 17% 12% 17% Adj. EBITDA %
+154% 34.3 87.2 36% 36.9 120% 22.9 50.3 ESOP expenses
+420% 21.9 113.9 0% 56.8 448% 10.4 57.0Finance income, asset disposal profits, fair valuation 
+and foreign exchange gains
+130% 398.2 915.4 -1% 460.1 119% 208.3 455.4 EBITDA
+11% 17% 18% 12% 17% EBITDA %
+22% 363.7 445.0 22% 200.4 28% 191.0 244.5 Depreciation and amortisation expenses
+-22% 29.4 23.0 -3% 11.7 -36% 17.7 11.4 Finance costs
+8504% 5.2 447.4 -20% 248.0 (0.4) 199.4 Profit/(loss) before tax and exceptional items
+94% (5.2) (10.1) 9.6 516% (3.2) (19.7) Tax expenses (net)
+- 333.9 333.9 - - Exceptional loss / (income)
+1097% 10.3 123.7 (95.5) 7505% 2.9 219.2 Profit/(loss) after tax from continuing operations
+=== page 27 ===
+Glossary
+Definition Non GAAP Metrics
+Revenue from retainership Subscription Revenue
+Revenue generated by our company which is recurring in nature from sources such as subscriptions, including committed revenue from signed contracts 
+and directly reflects the health of the core businessAnnual Recurring Revenue
+Revenue from Operations for the trailing twelve month period from all customers existing at the start of the trailing twelve month period divided by Revenue 
+from Operations generated from the same customers in the previous trailing twelve month period multiplied by 100Net Revenue Retention
+Business from all customers on the Capillary platform Organic Business
+Business from all customers who have not yet migrated to Capillary platform Inorganic Business
+Subscription Revenue minus server hosting costs, software subscription costs and customer support costs divided by Subscription Revenue Subscription Gross Margin
+Profit after tax from continuing operations plustotal tax Expense / (credit) plusdepreciation and amortisation expenses plusfinance costs minus exceptional 
+gains / (losses)EBITDA
+EBITDA plusESOP expenses minusfinance income, asset disposal profits / (losses),  fair valuation gains / (losses) and foreign exchange gains. Adjusted EBITDA
+Professional and consultancy expenses plussoftware and server charges plusemployee benefit expense (ex. ESOP expenses) plusother operating expenses Operating Expense
+Other income minusfinance income, asset disposal profits / (losses) and fair valuation gains / (losses) Other Operating Income
+Total Equity plusNon-current and Current Borrowings Capital Employed
+EBIT divided by Capital Employed as of the end of the respective fiscal, where EBIT equals Profit before Exceptional Items and Tax plus Finance Costs Return on Capital Employed
+Capital Employed minus Cash and Cash Equivalents, Bank and Demand Deposits and Investments Invested Capital
+Net Operating Profit after Tax divided by average Invested Capital, where Net Operating Profit after Tax equals EBIT multiplied by (1 - effective tax rate), and 
+where average Invested Capital equals the average of Invested Capital as of the beginning and as of the end of the respective fiscalReturn on Invested Capital
+Adjusted EBITDA divided by average Invested Capital Cash Return on Invested Capital
+=== page 28 ===
+Copyright © 2026 Capillary Technologies India Limited
+Thank You
+For any  queries, please reach out to 
+investorrelations@capillarytech.com

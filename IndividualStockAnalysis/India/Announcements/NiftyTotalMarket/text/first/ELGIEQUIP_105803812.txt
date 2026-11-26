@@ -1,0 +1,58 @@
+ 
+ 
+ 
+April  2, 202 4                                                        
+National Stock Exchange of lndia Ltd.  
+Exchange Plaza,  
+C-1, Block G Bandra Kurla Complex  
+Bandra (E)  
+Mumbai - 400 051 
+ BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+Through : NEAPS  Through : BSE Listing Centre  
+ 
+Dear Sir/Madam,     
+          
+Subject: Intimation of Loss of Share Certificates and Stop Transfer  
+ NSE Scrip Code: ELGIEQUIP / BSE Scrip Code: 522074  
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+this is to inform you that the Company has received an intimation from the Registrar and Share Transfer 
+Agent (RTA) – Link Intime India  Private Limited, regarding loss of share certificate received from a 
+Shareholder  Mr. Mohan Chandra Kapoor  and stop transfer in this regard . The stop transfer register dated 
+April  2, 202 4, containing the details of lost share certificate s, as received  from the RTA is  enclosed .  
+ 
+The duplicate share certificate will be issued only after compliance of required formalities.  
+ 
+Kindly take into your record s. 
+ 
+Thanking you,  
+Yours Faithfully,  
+For Elgi Equipments Limited  
+ 
+ 
+ 
+ 
+Vaishnavi PM  
+Compliance Officer  
+Encl.:  a/a 
+FROM TO
+02-04-2024 119769 STOP TRAN 
+NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   Elgi Equipments Limited
+STOP TRANSFER REGISTER AS ON 02/04/2024
+From: 02/04/2024 To: 02/04/2024
+---------------------------------------------------------------------------------------------------------------------------
+DISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+---------------------------------------------------------------------------------------------------------------------------
+ST3209 M002179 MOHAN CHANDRA 
+KAPOOR119769 166641127 166641462 336 Duplicate cum 
+Transmission 
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 336 
+---------------------------------------------------------------------------------------------------------------------------

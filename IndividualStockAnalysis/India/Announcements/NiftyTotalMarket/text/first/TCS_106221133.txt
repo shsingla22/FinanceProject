@@ -1,0 +1,142 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 09/2025-26 
+ 
+May 6, 2025  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled “ TCS Launches GenAI and 
+Agentic AI -Powered TCS MasterCraft ™ to Help Enterprises Swiftly Modernize 
+Legacy Systems ” which will be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ 
+Encl: As above  
+ 
+ 
+ 
+Page 1 of 2 
+ 
+TCS Launches GenAI and Agentic AI -Powered TCS MasterCraft ™ to 
+Help Enterprises Swiftly Modernize Legacy Systems  
+ 
+The Gen AI and Agentic AI powered TCS MasterCraft ™ reduces modernization cost by over 
+70% and achieve results twice as fast as traditional interventions  
+LONDON | MUMBAI, May 06, 2025: Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading 
+global IT services, consulting, and business solutions organization, has released the latest version of TCS 
+MasterCraft ™ augmented with GenAI and Agentic AI. This solution automates the process of modernizing 
+legacy applications, thereby significantly reducing the cost and time required for manual conversions. The 
+GenAI and Agentic AI enhancement will allow organizations to  mine business logic faster and more 
+accurately. The automation driven by the latest version of TCS MasterCraft can save over 70% in costs and 
+achieve results twice as fast as traditional interventions.  
+ 
+Enterprises that are on a digital transformation journey have a pressing need to overcome the challenge of 
+large legacy applications and data, including growing technology debt , high maintenance costs, lack of subject 
+matter experts and limited documentation. Most modernization solutions focus on legacy conversions and 
+are expensive for delivering complex programs. In addition, converting an old application to a new technology 
+could result in another outdated system and result in poor maintainability. A sol ution like TCS MasterCraft ™ 
+powered by GenAI and Agentic -AI reduces the risk of obsolescence and ensures sustainable success in the 
+market.  
+ 
+One of North America’s largest banks  have used the GenAI -powered TCS MasterCraft to transform its 
+mainframe applications. TCS delivered 2X productivity savings during modernization and 3X faster delivery 
+than traditional approaches. A central knowledge repository was also created with 90% ef fort savings. TCS is 
+also using the latest Gen AI and Agentic AI -powered TCS MasterCraft to migrate over 50 million lines of legacy 
+COBOL code to Java, a modern language, for a global financial services major  in the US. Projects like these 
+help enterprises accelerate their modernization efforts, while creating a centralized, re -usable knowledge 
+base of their applications. In yet another instance,  
+ 
+Zachariah Chirayil, Practice Director, Everest Group , a market research firm, said, "As businesses undergo 
+digital transformation, enterprises are reassessing their heritage environments, prioritizing integration with 
+cloud platforms, and modernizing legacy applications. TCS’ comprehensive AI and automation suite, TCS 
+MasterCraft, supports enterprises in modernizing mainframe applications, facilitating monolithic application 
+rearchitecting to microservices, and optimizing mainframe workload s. The company's extensive partnership 
+network and deep understanding of business requirements around mainframes enable the delivery of hyper -
+personalized, industry -specific solutions. TCS' location -agnostic operating model and organizational change 
+manage ment approach ensures smooth transitions during mainframe modernization, while clients appreciate 
+its proficiency in both mainframe and cloud technologies.”  
+ 
+Ashvini Saxena, VP and Head, TCS Components Engineering Group and Digital Software and Solutions  said, 
+“Enterprises have large applications in multiple technologies and architectures over decades. We’ve 
+successfully delivered hundreds of complex modernization programs using intelligent automation -driven 
+technology conversion for years. Solutions comm ercially available to the enterprises currently make it 
+expensive to deliver such modernization programs. We have leveraged GenAI and Agentic AI capabilities fo r 
+extraction of business knowledge and conversion to augment this capability to deliver maintainable 
+applications and data with powerful design repository.”   
+ 
+ 
+Page 2 of 2 
+ 
+ 
+Since 2012, TCS MasterCraft has been helping customers transform their legacy systems into modern, 
+scalable, and cloud -native applications, ensuring that they can continuously evolve and keep up with 
+changing business needs. Over the last decade, the offer ing has adapted to new technological advances and 
+incorporated disruptive tech to offer the best -in-class solutions to enterprises across industries. Now, a layer 
+of artificial intelligence boosts this automation -driven modernization solution. The Agentic AI augmentation 
+brings together the vast TCS knowledge base, best practices and purposive agents to solve challenges that 
+are unique to different types of complex modernization programs.   
+ 
+This enhanced version will ensure that new systems are resilient to future upgrades and changes. The new 
+version of TCS MasterCraft is part of TCS’ broader focus on enabling AI -led solutions that can simplify and 
+optimize complex business processes. Furthe rmore, TCS MasterCraft’s intelligent automation allows human -
+in-the-loop decision -making throughout the process. An integrated DevSecOps pipeline ensures continuous 
+delivery of end -to-end modernization.  TCS is committed to adapting to the changes that are  shaping the 
+industry and artificial intelligence is already driving a significant number of business engagements. In Q4FY25 
+TCS had around 580 business engagements centered on AI. Further to that, TCS is prioritizing investment in 
+Agentic AI and has devel oped over 150 specialized solutions tailored to sectors such as financial services, 
+accounting, and supply chain management.   
+ 
+ 
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner of choice for 
+industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of 
+innovation, engineering excellence and customer service.  
+ 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its 
+employees, and the community at large. With a highly skilled workforce of 607,979 consultants in 55 countries and 180 
+service delivery centers across the world, the company has been recognized as a top employer in six continents. With 
+the ability to rapidly apply and scale new technologies, the company has built long term partnerships with its clients – 
+helping them emerge as perpetually adaptive enterprises. Many of these relationships have endured into decades and 
+navigated every technology cycle, from mainframes in the 1970s to Artificial Intelligence today.  
+ 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New York City 
+Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, sustainability, and 
+community empowerment.  
+ 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025.  For more 
+information, visit  www.tcs.com  
+ 
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+TCS media contacts:  
+Corporate Communications & 
+India  Email: corporate.communications@tcs.com  
+Email:  saxena.kritika@tcs.com | Phone: +91 22 6778 9999  
+Email:  kimberly.solomon@tcs.com  | Phone: +91 22 67789098  
+UK Email: priyanka.mehta@tcs.com  | Phone  +44 7921493382  
+ 

@@ -1,0 +1,132 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                      www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      8, Balajl Estate, Third Floor, Guru Ravi Das Marg  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                Kalkaji, New Delhi -110019, India                                         CIN: L72100DL19 92PLC048753  
+T: +91 120 4592300 |  F: +91 120 4592 301                                         T: +91 11 41029 297| F: +91 11 2641 4900  
+ 
+ 
+     May 16, 2024  
+  
+ 
+The Manager,  
+Department of Corporate Services  
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai –  400 001  
+BSE Scrip code – [532541]  
+Equity ISIN INE591G01017 
+Non-Convertible Bond ISIN INE591G08012  
+  
+The General Manager,  
+Department of Corporate Services  
+The National Stock Exchange of India Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex,  
+Bandra, Mumbai – 400 051  
+NSE Scrip code – [COFORGE]  
+ 
+ 
+Dear Sir/Madam,  
+  
+Subject: Press release : Coforge in partnership with Fiorano introduces ISO 20022 Compliance as a 
+Service (ICaaS)  
+ 
+ 
+In pursuant to applicable provision of SEBI (Listing Obligations & Disclosure Requirements) Regulations, 
+2015, please find enclosed the copy of Press Release issued by the Company Announcing that Coforge in 
+partnership with Fiorano introduces ISO 20022 Compliance as a Service (ICaaS)  
+ 
+You are requested to take note of the same.  
+  
+ 
+For Coforge Limited  
+  
+  
+  
+Barkha Sharma  
+Company Secretary  
+ACS: 24060  
+  
+ 
+Encl as above:  
+   
+ 
+       
+ 
+ 
+ 
+ 
+Coforge in partnership with Fiorano  introduces  ISO 20022 
+Compliance as a Service ( ICaaS )  
+ 
+Greater Noida, India , May 16, 2024  – Coforge Limited  (NSE: COFORGE), a global 
+digital services and solutions provider  announced a strategic partnership with Fiorano  to 
+introduce  ISO 20022  Compliance as a Service (ICaaS). As of March 2023, ISO 20022 has been 
+live on the SWIFT cross -border payments network . Multiple domestic  market infrastructures 
+are also making substantial progress toward s the complete adoption of this new payments  
+message standard  by the end of 2025 . The migration is not just a step towards enhanced 
+efficiency  but a foundational pillar in the burgeoning world of digital currencies . However , 
+migrating to ISO 20022 ’s unique requirements can be complex. The ICaaS offering  from 
+Coforge & Fiorano is a comprehensive solution designed to streamline the migration process 
+to ISO 20022 compliance, providing those organizations impacted , with a seamless and cost -
+effective transition.  
+ 
+The comprehensive, end -to-end ISO 20022 Compliance as a Service ( ICaaS) solution covers 
+crucial elements including ISO 20022 Process Consulting, Translation, Structured Data, Data 
+Truncation  Management , and Quality Assurance, ensuring a seamless and cost -effective 
+transition for financial institutions at any stage of their migration journey . The service s offered 
+by ICaaS include  specialized SWIFT -focused consulting, advanced migration tools, ISO 20022 
+data products, and robust end -to-end testing services, tailored to meet the unique needs of 
+each institution.  
+ 
+Gautam Samanta, President and Global Leader, Banking and Financial Services, 
+Coforge , said, “ We believe the implications of ISO 20022 go beyond mere cross -border and 
+high-value payments; it permeates critical financial domains, influencing Securities and Trade 
+Finance. The ICaaS solution developed by Coforge and Fiorano is not just a service; it's a 
+commitment to empowering financial institutions with the knowledge and tools necessary for 
+informed decision -making in the realm of structured payments.”  
+ Biju Suresh Babu, Managing Director Banking & Financial Services , Fiorano , said 
+“ICaaS stands as a distinctive solution poised to expedite the adoption of ISO 20022 in the 
+financial ecosystem by bringing together tools, infrastructure and expertise into a single, easily 
+accessible platform . Leveraging Coforge's extensive experience with central and commercial 
+banks, coupled with Fiorano’s expertise in cloud native integration, payments orchestration 
+and ISO 20022  data, our primary focus is to guide financial institutions through a seamless 
+transition, minimizing disruptions to their systems.”  
+ ICaaS is being made available at a point when g lobal central banks and regulators are 
+increasingly seeking  the use of structured  data (including structured  postal addresses ) to align 
+with standardization and payment  harmonization efforts, including the G20 cross -border 
+payments roadmap.  
+ 
+ 
+Edward Davies , Senior Vice President, Coforge  said, “While ISO 20022 brings a lot of 
+value in terms of enhanced data quality, efficiency and overall customer experience, the 
+regulatory compliance deadline of 2025 & 2026 will force a lot of banks to go for quick -fix 
+measures. At the start of 2023 we committed to our banking customers and have invested a 
+lot in coming out with a packaged solution to fast -track this journey in a much more 
+economical and robust manner. Fioran o’s ISO 20022 SWIFT  certified accelerator sits at the 
+heart of it. We are thrilled with t his partnership and much look forward to supporting  our joint 
+customers across the globe. ” 
+ Coforge in partnership with Fiorano has adopted a transformative approach to scale and 
+expand. To reduce the overall complexity, Coforge has developed a comprehensive ISO 20022 
+testing scenario repository improving efficiency up to 50% , and reducing the time taken to 
+scale capabilities across markets and channels.  
+ 
+About Fiorano:  
+Fiorano is a cloud -native event -driven integration and microservices platform that combines integration, 
+low-code, and eiPaaS capabilities to enable organisations to rapidly build and deploy global hybrid multi-
+cloud applications.   By making business processes event driven, Fiorano helps enterprises achieve 
+massive scalability, responsiveness, and increased productivity.  With Fiorano, companies can respond 
+better in volatile m arkets and deliver exceptional customer and employee experiences.   
+ 
+About Coforge:  
+Coforge is a global digital services and solutions provider, that leverages emerging technologies and 
+deep domain expertise to deliver real -world business impact for its clients. A focus on very select 
+industries, a detailed understanding of the underlying  processes of those industries and partnerships 
+with leading platforms provides us a distinct perspective. Coforge leads with its product engineering 
+approach and leverages Cloud, Data, Integration and Automation technologies to transform client 
+businesses into intelligent, high growth enterprises. Coforge’s proprietary platforms power critical 
+business processes across its core verticals. The firm has a presence in 21 countries with 26 delivery 
+centers across nine countries.  Learn more at  https://www.coforge.com/    
+ 
+For media queries please contact - Santanu Bhattacharya | santanu.b@coforge.com  
+  

@@ -1,0 +1,193 @@
+ 
+ 
+ 
+      
+Date : January  29, 202 5 
+ 
+To,      To, 
+Department of Corporate Services,   Listing Department,  
+BSE Limited      National Stock Exchange of India Limited  
+Phiroze Jeejeebhoy Towers,    Exchange plaza, Plot No. C/1, G Block  
+Dalal Street      Bandra Kurla Complex, Bandra East,  
+Mumbai - 400001     Mumbai – 400051  
+Scrip Code:  543333     Scrip Symbol:  CARTRADE  
+ISIN:  INE290S01011  
+ 
+Dear  Sir/Madam,  
+ 
+Sub:  Outcome of Board Meeting of CarTrade Tech Limited  (the “Company”)  
+ 
+Reference: Regulation 30 and 33 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015   
+ 
+Pursuant to the provisions of Regulation 30 and 33 of the Securities and Exchange Board of India 
+(Listing Obligations  and Disclosure Requirements) Regulations, 2015 (“ SEBI Listing Regulations ”), 
+as amended, and in  continuation to our intimation dated January 24, 2025  ,this is to inform you that the 
+Board of Directors at  of the Company at their meeting held today i.e. on January  29, 202 5 which 
+commenced at 10.30 a.m. (IST) and concluded at 11.34 a.m. (IST) have approved the unaudited 
+Standalone and Consolidated Financial Results of the Company for the third quarter and nine months  
+ended on December 31 , 2024.  
+ 
+The financial  results along with the copy of limited review report duly signed by the Statutory Auditors 
+of the Company for the  third quarter and nine months  ended on December 31, 2024 is enclosed herewith.  
+ 
+The above information along with the relevant documents shall also be made available on the  
+Company's website https://www.cartradetech.com/  
+    
+You are requested to kindly take the above information on your records.  
+ 
+Yours faithfully  
+For CarTrade Tech Limited  
+ 
+ 
+_____________________________________  
+Lalbahadur Pal  
+Company Secretary and Compliance officer  
+Mem. No. A40812  
+ 
+Enclosed: a/a  
+
+
+(Rs. In Lakhs)
+Year ended
+December 31, 2024 September 30, 2024 December 31, 2023 December 31, 2024 December 31, 2023 March 31, 2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited) 
+Income
+  Revenue from operations 17,621.54                   15,420.94                 13,858.81                   47,160.26                 34,466.91                 48,994.62                 
+  Other income 1,672.68                     1,801.94                    1,327.00                     4,993.22                    4,994.48                    6,528.07                    
+Total income 19,294.22                   17,222.88                 15,185.81                   52,153.48                 39,461.39                 55,522.69                 
+Expenses
+  Employees benefit expense 7,305.42                     6,992.75                    6,756.46                     21,360.24                 17,927.48                 24,606.16                 
+  Finance cost 290.52                        293.98                        229.34                        839.06                        668.91                        924.66                        
+  Depreciation and amortization expense 1,051.14                     1,063.75                    957.18                        3,121.69                    2,702.44                    3,739.31                    
+  Other expenses 5,308.33                     5,158.08                    4,567.19                     15,363.74                 11,331.91                 16,448.92                 
+Total expenses 13,955.41                   13,508.56                 12,510.17                   40,684.73                 32,630.74                 45,719.05                 
+Profit before tax from Continuing Operations 5,338.81                     3,714.32                    2,675.64                     11,468.75                 6,830.65                    9,803.64                    
+Tax expenses 
+  Current tax 195.55                        369.12                        192.54                        649.20                        1,256.23                    1,526.75                    
+  Deferred tax expenses/(credit) 589.88                        272.57                        287.10                        937.77                        (297.72)                      63.75                          
+Total Tax expenses 785.43                        641.69                        479.64                        1,586.97                    958.51                        1,590.50                    
+Profit from Continuing Operations 4,553.38                     3,072.63                    2,196.00                     9,881.78                    5,872.14                    8,213.14                    
+Profit / (Loss) from Discontinued Operations (net of tax) 
+(Refer note 4)-                               -                              (4,551.07)                    34.09                          (6,371.21)                   (6,215.35)                   
+Profit / (Loss) for the period / year                      4,553.38                     3,072.63                    (2,355.07)                     9,915.87                       (499.07)                     1,997.79 
+Other Comprehensive Income / (loss)
+Continuing Operations
+Items that will not be reclassified to profit or loss 
+  Remeasurement of the defined benefit plan (299.27)                       (4.21)                           19.61                           (381.50)                      (28.70)                        (9.88)                           
+  Income tax related to the above 77.73                           (0.31)                           1.54                             92.19                          21.52                          14.57                          
+Total Other comprehensive Income / (loss) from Continuing 
+Operations(221.54)                       (4.52)                           21.15                          (289.31)                      (7.18)                           4.69                            
+Discontinued Operations
+Items that will not be reclassified to profit or loss 
+  Remeasurement of the defined benefits plan -                               -                              -                               -                              -                              -                              
+  Income tax related to the above -                               -                              -                               -                              -                              -                              
+Total Other comprehensive Income / (loss) from 
+Discontinued Operations-                               -                              -                               -                              -                              -                              
+Total Other comprehensive Income / (loss) (221.54)                       (4.52)                           21.15                          (289.31)                      (7.18)                           4.69                             
+Total comprehensive income / (loss) for the period / year 4,331.84                     3,068.11                    (2,333.92)                    9,626.56                    (506.25)                      2,002.48                    
+Profit / (Loss)for the period / year attributable to 
+Equity holders of the parent 4,269.32                     2,787.89                    (2,423.03)                    9,283.00                    (821.68)                      1,430.29                    
+Non-controlling interest 284.06                        284.74                        67.96                           632.87                        322.61                        567.50                        
+Equity holders of the parent (112.55)                       (3.67)                           23.74                           (184.25)                      1.72                            10.39                          
+Non-controlling interest (108.99)                       (0.85)                           (2.59)                           (105.06)                      (8.90)                           (5.70)                           
+Equity holders of the parent 4,156.77                     2,784.22                    (2,399.29)                    9,098.75                    (819.96)                      1,440.68                    
+Non-controlling interest 175.07                        283.89                        65.37                           527.81                        313.71                        561.80                        
+4,736.71                     4,730.01                    4,685.09                     4,736.71                    4,685.09                    4,688.79                    
+Other equity (excluding revaluation reserves) 2,02,310.70              
+Earnings Per Equity Share (face value of Rs. 10/- each) (not 
+annualised for the quarter /nine months)
+Continuing Operations
+Basic (in Rs.) 8.95                             5.90                            4.54                             19.58                          11.85                          16.32                          
+Diluted (in Rs.) 8.29                             5.45                            4.17                             18.14                          10.88                          15.00                          
+Discontinued Operations
+Basic (in Rs.) -                               -                              (9.71)                           0.07                            (13.60)                        (13.27)                        
+Diluted (in Rs.) -                               -                              (9.71)                           0.07                            (13.60)                        (13.27)                        
+Continuing and Discontinued Operations
+Basic (in Rs.) 8.95                             5.90                            (5.17)                           19.65                          (1.75)                           3.05                            
+Diluted (in Rs.) 8.29                             5.45                            (5.17)                           18.21                          (1.75)                           2.81                            CarTrade Tech Limited
+Corporate Identity Number: L74900MH2000PLC126237
+Statement of Unaudited Consolidated Financial Results For The Quarter and Nine Months Ended December 31, 2024
+Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+website: www.cartradetech.com, Email: investor@cartrade.com
+Total Other comprehensive income / (loss) for the period / 
+year attributable to
+See accompanying notes to financial resultsQuarter ended
+Total comprehensive income / (loss) for the period / year 
+attributable toNine months ended 
+Particulars
+1
+2
+3
+4
+(Rs. In Lakhs)
+Year ended 
+December 31, 2024 September 30, 2024 December 31, 2023 December 31, 2024 December 31, 2023 March 31, 2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited) 
+Revenue                                -                                     -   7,268.47                38.49                                     26,701.22                                     26,967.77 
+Cost                                -                                     -   11,819.54              4.40                                       33,072.43                                     33,183.12 
+Profit / (Loss)                                -                                     -                  (4,551.07)                                     34.09                      (6,371.21)                 (6,215.35)
+5
+(Rs. In Lakhs)
+Year ended 
+December 31, 2024 September 30, 2024 December 31, 2023 December 31, 2024 December 31, 2023 March 31, 2024
+(Unaudited) (Unaudited) (Unaudited) (Unaudited) (Unaudited) (Audited) 
+Segment Revenue
+Consumer 6,799.12                    5,562.29                       4,941.75                17,407.67                            13,754.44                      18,667.74               
+Remarketing 5,857.88                    5,104.65                       4,599.86                15,368.97                            14,123.35                      19,400.03               
+Classifieds 4,977.34                    4,762.49                       4,309.62                14,407.96                            6,604.04                        10,945.89               
+Total Segment Revenue 17,634.34                 15,429.43                    13,851.23              47,184.60                            34,481.83                      49,013.66               
+Less: Intersegment eliminations (12.80)                        (8.49)                            7.58                        (24.34)                                   (14.92)                            (19.04)                      
+Revenue from operation 17,621.54                15,420.94                   13,858.81             47,160.26                            34,466.91                     48,994.62              
+Segment Results 
+Consumer 2,651.08                    1,401.34                       1,149.64                5,052.04                              2,112.53                        3,366.82                 
+Remarketing 1,339.87                    1,203.41                       781.94                     3,176.57                              2,612.35                        3,795.42                 
+Classifieds 1,346.42                    1,178.31                       1,046.84                3,651.76                              1,842.22                        2,779.90                 
+Less: Intersegment eliminations 6.91                            96.18                            13.11                      105.38                                  1.36                               3.40                          
+Total Segment results 5,344.28                   3,879.24                      2,991.53               11,985.75                            6,568.46                       9,945.54                
+Add: Other income 1,672.68                   1,801.94                      1,327.00                4,993.22                              4,994.48                       6,528.07                 
+Less: Finance Cost (290.52)                     (293.98)                        (229.34)                   (839.06)                                (668.91)                         (924.66)                    
+Less: Depreciation and  Amortisation expenses (1,051.14)                 (1,063.75)                     (957.18)                   (3,121.69)                             (2,702.44)                      (3,739.31)               
+Less: Share based expenses (336.49)                     (609.13)                        (456.37)                   (1,549.47)                             (1,360.94)                      (2,006.00)               
+Profit before Tax from continuing operations 5,338.81                   3,714.32                      2,675.64               11,468.75                            6,830.65                       9,803.64                Nine months endedThe statement of unaudited Consolidated Financial Results for the quarter and nine months ended December 31, 2024, as reviewed by the Audit Committee, were approved and
+taken on recordbytheBoardofDirectorsattheirmeetingheldon January29,2025.TheStatutoryAuditorshaveconducted areview oftheseresultspursuanttotherequirements of
+Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended.
+TheunauditedConsolidatedFinancialResultsof theGrouphavebeenpreparedinaccordancewiththeIndian AccountingStandardsnotified underSection 133of theCompaniesAct,
+The Nomination & Remuneration Committee of CarTrade Tech Limited ("Holding Company") vide resolution dated July 30, 2024 has granted 1,00,000 EmployeeStock Option(ESOP)
+to eligible employees under the existing schemes. The exercise price is the market price as on the date of grant,as mentioned in thegrant letter,which isthe averageof theopening
+price and closing price of the equity shares of the Holding Company on the date of grant on a recognised stock exchange.
+Consolidated Segmentwise revenue and results for the quarter and nine months ended December 31, 2024 and segment wise assets and liabilities as at December 31, 2024:
+ParticularsQuarter endedParticularsQuarter endedOn October25,2023,theBoard ofDirectorsofSobekAuto IndiaPrivateLimited ("Sobek"),awhollyownedsubsidiary("WOS") ofCarTradeTech Limitedmade astrategic decision to
+closeitsC2B operationsi.e.auto transaction businesssegment considering thechallengesfaced with itsuniteconomics.Sobek,therefore,decided to reducehuman
+resources and other administrative costs of the said business. Sobek will continue to focus and grow its Classified business (Olx.in - which includes both auto and non-auto verticals). 
+The financial results of Discontinued Operations which includes Revenue from Operations and Cost, are as follows:                              
+Nine months endedNotes to the Unaudited Consolidated Financial ResultsCarTrade Tech Limited
+Corporate Identity Number: L74900MH2000PLC126237
+Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+website: www.cartradetech.com, Email: investor@cartrade.com
+CarTrade Tech Limited
+Corporate Identity Number: L74900MH2000PLC126237
+Registered & Corporate Office: 12th Floor Vishwaroop IT Park, Sector 30A, Vashi, Navi Mumbai 400705.
+website: www.cartradetech.com, Email: investor@cartrade.com
+5,338.81                   3,714.32                      2,675.64               11,468.75                            6,830.65                       9,803.64                
+(Rs. In Lakhs)
+December 31, 2024 September 30, 2024 December 31, 2023 March 31, 2024
+(Unaudited) (Unaudited) (Unaudited) (Audited) 
+Segment Assets 
+Consumer 93,518.75              92,841.91                             92,586.48                      92,767.34               
+Remarketing 31,862.50              31,340.37                             32,515.12                      32,465.44               
+Classifieds 48,877.12              49,431.95                             49,613.98                      50,587.67               
+Unallocated assets* 88,545.67              83,280.84                             72,212.25                      75,157.88               
+Total Assets 2,62,804.04          2,56,895.07                         2,46,927.83                 2,50,978.33           
+Segment liabilities 
+Consumer 4,284.41                4,411.65                               3,609.93                        3,999.08                 
+Remarketing 31,621.50              30,177.29                             27,917.48                      29,646.91               
+Classifieds 7,277.00                7,247.09                               8,249.07                        7,624.98                 
+Unallocated Liabilities* 2,077.54                2,190.21                               3,379.31                        2,707.87                 
+Total Liabilities 45,260.45              44,026.24                             43,155.79                      43,978.84               
+For and on behalf of the board of directors of
+CarTrade Tech Limited
+Vinay Vinod Sanghi
+Place: Mumbai Chairman and Managing director
+Date : January 29, 2025 DIN: 00309085As at
+*Unallocated assets and liabilities as at December 31, 2024 includes assets and liabilities pertaining to discontinued operation.Particulars

@@ -1,0 +1,96 @@
+--- CIMG_532525_2472026165757_CIM_WebXMLFile_20260724_165802366_2.xml (the exchange's structured disclosure) ---
+NSESymbol: MAHABANK ; Name Of The Company: BANK OF MAHARASHTRA ; Scrip Code: 532525 ; MSEISymbol: NOTLISTED ; ISIN: INE457A01014 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-07-23 ; Time Of Occurrence Of Event Or Information: 19:51:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-07-24 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Compliance Officer ; Salutation Of Designated Person: Mrs. ; Name Of Designated Person: Uma Vedula ; Effective Date Of Reason Of Change: 2026-07-23 ; Salutation: Mrs. ; Name Of The Person: Uma Vedula ; Designation Of Person: Chief Compliance Officer ; Date On Which The Resignation Letter Was Received: 2026-06-24 ; Effective Date Of Resignation: 2026-07-23 ; Reason Of Resignation In Brief: Personal reasons
+
+--- CIMG_532525_24072026165757_1.pdf ---
+Investor Services Department
+Corporate Ofﬁce: Montclaire, 134/1, Baner- Pashan Link Road,
+Pashan, Pune- 411021
+E-mail: investor_services@bankofmaharashtra.bank.in
+Phone nos - 020-71658139 www.bankofmaharashtra.bank.in
+
+AX1/ISD/STEX/48/2026-27
+The Vice President
+BSE Ltd.,
+P.J Towers,
+Dalal Street, Fort,
+Mumbai-400 001
+BSE Scrip Code: 532525
+
+Date: 24th July, 2026
+The Vice President
+National Stock Exchange of India Ltd.,
+Exchange Plaza,
+Bandra Kurla Complex,
+Bandra (East), Mumbai-400 051
+NSE Scrip Code: MAHABANK
+
+Dear Sir/ Madam,
+Sub: Change in Senior Management
+As per RBI Guidelines, Chief Compliance Officer (CCO) should be appointed at senior level,
+preferably not below two levels from the CEO. In view of the same, Bank is in the process
+of appointing CCO at the rank of Chief General Manager (CGM) from existing pool of CGMs
+of the Bank.
+The existing CCO i.e, Smt. Uma Vedula has tendered her resignation for personal reasons.
+Copy of the same is enclosed. She is relieved from the duties w.e.f. close of business hours
+on 23.07.2026.
+The requisite disclosure as per Regulation 30 read with clause 7B of Part A of Schedule Ill
+of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and SEBI
+Circular No.SEBI/HO/CFD/CFD-PoD-2/CIR/P/2024/185 dated 31st December, 2024 is
+annexed as Annexure - I.
+This is for your information.
+Yours faithfully,
+For Bank of Maharashtra
+
+VISHAL
+SETHIA
+
+Digitally signed
+by VISHAL SETHIA
+Date: 2026.07.24
+16:44:43 +05'30'
+
+(Vishal Sethia)
+Company Secretary
+Encl: As above
+
+Restricted
+
+
+Investor Services Department
+Corporate Ofﬁce: Montclaire, 134/1, Baner- Pashan Link Road,
+Pashan, Pune- 411021
+E-mail: investor_services@bankofmaharashtra.bank.in
+Phone nos - 020-71658139 www.bankofmaharashtra.bank.in
+
+Annexure I
+Sr.
+No.
+1
+
+2
+
+Disclosure Requirement
+
+Details
+
+Reason for change viz. appointment, Resignation
+re-appointment, resignation, removal, death or
+otherwise;
+Date of appointment/re-appointment/cessation 23.07.2026
+(as applicable) & term of appointment/reappointment;
+
+3
+
+Brief Profile (In case of appointment);
+
+4
+
+Disclosure of relationships between directors (in Not Applicable
+case of appointment of a director).
+
+Restricted
+
+Not Applicable
+
+
+

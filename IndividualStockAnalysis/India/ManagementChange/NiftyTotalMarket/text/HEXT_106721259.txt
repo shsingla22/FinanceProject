@@ -1,0 +1,204 @@
+--- ROID_24447_WebXMLFile_20260802_165952637_1.xml (the exchange's structured disclosure) ---
+NSESymbol: HEXT ; Name Of The Company: Hexaware Technologies Limited ; Scrip Code: 544362 ; MSEISymbol: NOTLISTED ; ISIN: INE093A01041 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Date Of Occurrence Of Event Or Information: 2026-06-18 ; Time Of Occurrence Of Event Or Information: 22:00:00 ; Date Of Filing Of Announcement For Resignation Of Person: 2026-05-31 ; Number Of Acknowledgment Or Application Of Filing Of Announcement For Resignation Of Person: 13183219 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-02 ; Salutation: Mr. ; Name Of The Person: Amrinder Singh ; Designation Of Person: Senior Management Personnel ; Date On Which The Resignation Letter Was Received: 2026-05-29 ; Effective Date Of Resignation: 2026-06-18 ; Reason Of Resignation In Brief: Pursue Other Career Opportunities
+
+--- RID_544362_02082026165611_2.pdf ---
+HEXT/SE/2026/56
+Date: May 31, 2026
+To,
+Listing Department
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra-Kurla Complex,
+Bandra (East), Mumbai - 400 051
+Symbol: HEXT
+
+To,
+Department of Corporate Services
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai - 400 001
+Scrip Code: 544362
+
+Dear Sir,
+Sub: Disclosure of material event pursuant to Regulation 30 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 – Change in Senior
+Management Personnel
+Please find below details of change in Senior Management Personnel:
+1. Mr. Parameshwaran Iyer, Sr. Vice President, UK has been elevated as Executive Vice
+President, Head - UK and Europe, Senior Management Personnel w.e.f May 31, 2026.
+2. Mr. Vijay Raghavan, Vice President, Business Development - Europe has been elevated as
+Sr. Vice President, Head - Asia Pacific and Middle East, Senior Management Personnel
+w.e.f May 31, 2026.
+3. Mr. Amrinder Singh, President & Head - Europe & APAC Operations, Senior Management
+Personnel, has tendered his resignation which is effective from the closure of business
+hours on June 18, 2026, to pursue other career opportunities.
+With respect to above, please find appended Annexure A for information pursuant to SEBI Circular
+No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026.
+This information will also be hosted on the Company’s website at www.hexaware.com.
+Kindly take the same on record.
+Yours faithfully,
+For HEXAWARE TECHNOLOGIES LIMITED
+Digitally signed by
+
+GUNJAN
+GUNJAN SUMIT METHI
+2026.05.31
+SUMIT METHI Date:
+21:14:41 +05'30'
+
+Gunjan Methi
+Company Secretary & Compliance Officer
+Encl.: as above.
+HEXAWARE TECHNOLOGIES LIMITED
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1 Private Limited, Plot No.Gen-4/1,TTC Industrial Area,
+Ghansoli, Navi Mumbai-400710, Maharashtra, India | Tel: +91 022 3326 8585 | Email: investori@hexaware.com
+CIN: L72900MH1992PLC069662 | URL: www.hexaware.com
+
+
+Annexure A
+1. Mr. Parameshwaran Iyer as Head of UK and Europe
+Sr.no. Particular
+(a)
+Reason for change viz. appointment,
+reappointment, resignation, removal,
+death or otherwise
+(b)
+Date of appointment/reappointment/
+Cessation (as applicable) & term of
+appointment/re-appointment
+(c)
+Brief profile (in case of appointment)
+
+(d)
+
+disclosure of relationships between
+directors (in case of appointment of a
+director).
+
+Details of Change
+Mr. Parameshwaran Iyer has been elevated
+as Executive Vice President, Head - UK and
+Europe.
+May 31, 2026.
+Parameshwaran Iyer (Param) has been a
+Hexaware veteran of 22 years with an
+overall industry experience of 28 years.
+Following his Bachelors degree in
+Engineering and Masters in Marketing from
+University of Mumbai, Param has worked in
+the Technology services industry growing
+through the ranks playing multiple roles
+across Growth, Solution, Delivery and
+Architecture. Param lives in UK since 2011
+and under his watch Hexaware has achieved
+the Top Ranked status for Customer Delight
+in UK along with rapid and sustained growth
+in UK and Europe. He brings a wealth of
+experience and a proven leadership track
+record across the region. His entrepreneurial
+mindset
+fostering creativity
+and
+accountability has enabled an empowered,
+enthusiastic and high-performance team.
+Not Applicable.
+
+HEXAWARE TECHNOLOGIES LIMITED
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1 Private Limited, Plot No.Gen-4/1,TTC Industrial Area,
+Ghansoli, Navi Mumbai-400710, Maharashtra, India | Tel: +91 022 3326 8585 | Email: investori@hexaware.com
+CIN: L72900MH1992PLC069662 | URL: www.hexaware.com
+
+
+2. Mr. Vijay Raghavan as Head of Asia Pacific and Middle East
+Sr.no. Particular
+(a)
+Reason for change viz. appointment,
+reappointment, resignation, removal,
+death or otherwise
+(b)
+Date of appointment/reappointment/
+Cessation (as applicable) & term of
+appointment/re-appointment
+(c)
+Brief profile (in case of appointment)
+
+(d)
+
+disclosure of relationships between
+directors (in case of appointment of a
+director).
+
+Details of Change
+Mr. Vijay Raghavan has been elevated as
+Sr. Vice President, Head – Asia Pacific and
+Middle East.
+May 31, 2026.
+Vijay Raghavan is a seasoned business and
+technology leader with more than 20 years
+of
+experience
+driving
+growth,
+transformation, and market expansion
+across international markets. Since joining
+Hexaware in 2016, he has consistently
+delivered strategic growth, led complex
+transformation programs, developed key
+ecosystem partnerships, and built highperforming teams that have contributed
+significantly to the company's success.
+Known for combining commercial leadership
+with deep expertise in AI, cloud, data, and
+digital transformation, Vijay is a trusted
+advisor to clients and a recognized voice
+within the technology industry. Vijay holds a
+Post Graduate Diploma in Business
+Management from the Indian Institute of
+Management Calcutta and a Bachelor's
+degree in Electronics and Communication
+Engineering from the University of Mumbai.
+Not Applicable.
+
+HEXAWARE TECHNOLOGIES LIMITED
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1 Private Limited, Plot No.Gen-4/1,TTC Industrial Area,
+Ghansoli, Navi Mumbai-400710, Maharashtra, India | Tel: +91 022 3326 8585 | Email: investori@hexaware.com
+CIN: L72900MH1992PLC069662 | URL: www.hexaware.com
+
+
+3. Resignation of Mr. Amrinder Singh
+Sr.no. Particular
+(a)
+Reason for change viz. appointment,
+reappointment, resignation, removal,
+death or otherwise
+(b)
+Date of appointment/reappointment/
+Cessation (as applicable) & term of
+appointment/re-appointment
+
+(c)
+(d)
+
+Brief profile (in case of appointment)
+disclosure of relationships between
+directors (in case of appointment of a
+director).
+
+Details of Change
+Resignation of Mr. Amrinder Singh,
+President & Head - Europe & APAC
+Operations.
+Mr. Amrinder Singh ceases to act as
+President & Head - Europe & APAC
+operations, with effect from close of
+business hours on June 18, 2026. A copy of
+the resignation dated May 29, 2026
+submitted by him is enclosed.
+Not Applicable.
+Not Applicable.
+
+HEXAWARE TECHNOLOGIES LIMITED
+Regd. Office: 8th Floor, 13th Level,Q1, Loma Co-Developers1 Private Limited, Plot No.Gen-4/1,TTC Industrial Area,
+Ghansoli, Navi Mumbai-400710, Maharashtra, India | Tel: +91 022 3326 8585 | Email: investori@hexaware.com
+CIN: L72900MH1992PLC069662 | URL: www.hexaware.com
+
+
+

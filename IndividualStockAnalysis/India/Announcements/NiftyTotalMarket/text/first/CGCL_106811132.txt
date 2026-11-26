@@ -1,0 +1,62 @@
+October08,2026
+TheSecretary
+BSELimited
+Pheeroze Jeejeebhoy
+Towers, Dalal Street,
+Fort,Mumbai400001
+ScripCode:531595TheSecretary
+NationalStockExchange
+ofIndiaLimited
+ExchangePlaza,5thFloor,
+PlotNo.-‘C’Block,G
+BlockBandra-Kurla
+Complex,Bandra(East),
+Mumbai–400051
+ScripCode:CGCLTheSecretary
+IndiaInternational
+Exchange(IFSC)Limited
+1stFloor,UnitNo.101,
+TheSignature,Building
+no.13B,Road 1C,Zone1,
+GIFTSEZ,GIFTCity,
+Gandhinagar,Gujarat–
+382355TheSecretary
+NSEIFSCLimited
+Unit-1201,12thFloor,
+BrigadeInternational
+FinancialCentre,Block-
+14,Road1C,Zone1,
+GIFTSEZ,GIFTCity,
+Gandhinagar,Gujarat–
+382355
+SecurityCodeNo.: 976901
+Sub: CertificateforPaymentofInterest
+DearSir/Ma’am,
+Pursuant to Regulation 57 of the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, we hereby certify that, the Company has made payment of Interest on the
+duedateandinaccordancewiththetermsofissueforNon-ConvertibleDebentures(NCDs)issuedunderPrivate
+Placement bytheCompany.
+Wehereby submitthefollowinginthisregard:
+1. Whether Interestpaymentmade(yes/no):Yes
+2. Detailsofinterestpayment:
+Sr.No. Particulars Details
+1 ISIN INE180C07163
+2 Issuesize(Rs.inlakhs) 10,000.00
+3 InterestAmount tobepaidonduedate(Rs.inlakhs) Rs.76.0274Lacs
+4 Frequency-quarterly/monthly/yearly Monthly
+5 Changeinfrequencyofpayment(ifany) No
+6 Detailsofsuchchange NA
+7 Interestpaymentrecorddate 23/09/2026
+8 Duedateforinterestpayment(DD/MM/YYYY) 08/10/2026
+9 Actualdateforinterestpayment(DD/MM/YYYY) 08/10/2026
+10 Amountofinterestpaid(Rs.inlakhs) Rs.76.0274Lacs
+11 Dateoflastinterestpayment 08/09/2026
+12 Reasonfornon-payment/delayinpayment NA
+Requestyoutopleasetaketheaboveonrecord.
+TheaforesaidintimationwillbemadeavailableontheCompany’swebsiteatwww.capriloans.in .
+Thankingyou,
+Yoursfaithfully
+ForCapriGlobalCapitalLimited
+YasheshBhatt
+CompanySecretary&ComplianceOfficer
+MembershipNo.20491

@@ -1,0 +1,189 @@
+ 
+HCL Technologies Ltd.   
+Technology Hub, Special Economic Zone  
+Plot No. 3A, Sector 126, NOIDA – 201304, UP, India  
+t: +91 0120 6120 25000  f: +91 120 4680330  Corporate Identity Number:  L74140DL1991 PLC046369  
+Registered Office:    
+806 Siddharth, 96, Nehru Place, New Delhi -110009, India  
+ 
+ 
+ 
+ 
+January 22, 2025  
+ 
+ 
+The General Manager  
+BSE Limited  
+Corporate Relationship Department  
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  
+ 
+ 
+BSE Scrip Code: 532281  The Manager  
+National Stock Exchange of India Limited  
+Listing Department  
+Exchange Plaza  
+5th Floor, Plot No. C-1, Block -G 
+Bandra -Kurla Complex, Bandra(E)  
+Mumbai -400 051  
+ 
+NSE Scrip Code: HCLTECH  
+ 
+ 
+Subject: Release: “ HCLTech  and MIT Technology Review Insights report emphasizes 
+urgency for enterprises to implement Responsible AI Principles ” 
+  
+  
+Dear Sir/ Madam,  
+ 
+Enclosed please find a Release issued by the Company on the above subject.  
+ 
+ 
+This is for your information and records.  
+ 
+Thanking you,  
+ 
+Yours faithfully,  
+For HCL Technologies Limited  
+ 
+ 
+ 
+Manish Anand  
+Company Secretary  
+ 
+Encl:a/a  
+ 
+1 
+ 
+HCLTech  and MIT Technology Review Insights report emphasizes urgency for 
+enterprises to implement Responsible AI Principles  
+ 
+Study reveals  while 87% believe  responsible AI practices  are critical to adopt,  85% 
+of all business executives polled are not well prepared to adopt  them  
+ 
+NEW YORK and NOIDA, India,  Jan 22, 202 5—A study by  HCLTech , a leading global 
+technology company,  and MIT Technology Review Insights  has revealed  that while 
+87% of business executives believe that responsible AI principles are critical to 
+adopt, 85%  of all the executives  say they  are not well prepared  to implement them.  
+ 
+The findings reveal that  despite  the recognized importance of responsible AI, a 
+significant gap exists between  the acknowledgment  of its importance  and the 
+ability to implement it effectively.  
+ 
+The challenges attributed to the adoption vs preparedness gap include:  
+• Complexity of implementation  
+• Lack of expertise  
+• Difficulties in managing operational risks  
+• Regulatory compliance challenges  
+• Inadequate resource allocation  
+ 
+On a  more optimistic  note,  the study  revealed that  business  executives  plan to  
+increase investments in building responsible AI in the next twelve  months.  
+ 
+The report — Implementing Responsible AI in the  Generative  AI Age  — was released 
+at the  sidelines of the  World Economic Forum’s Annual Meeting in Davos. It  outlines 
+the key challenges faced by enterprises as they integrate responsible AI, with major 
+concerns including bias and fairness, data privacy and security, compliance with 
+regulations, operational disruptions and user adoption.  The report  also details how 
+organizations can integrate responsible AI effectively and sustainably following 
+best practices to enhance readiness.  
+ 
+The quantitative study is based on a survey of  senior business  leaders across 
+multiple industries globally.  
+ 
+ 
+2 
+ 
+Some of the key  report findings :  
+• GenAI  and AI -driven transformation are progressing from proof of concept 
+to wider adoption, with executives acknowledging AI's potential to drive 
+productivity and innovation in key business functions like customer service, 
+software development and marketing.  
+• Responsible AI can provide competitive advantage. Most executives say their 
+business will increase investments in building responsible AI in the next 
+twelve  months.  
+• Agentic AI, which operates autonomously with minimal human involvement, 
+is being adopted and gaining traction in lower -risk areas, such as IT 
+operations, where it can work alongside humans.  
+ 
+While half of respondents are confident in managing operational risks, less than a 
+quarter feel prepared to handle issues related to user adoption, change 
+management and bias.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+3 
+ 
+ 
+Steven Hall, President of Europe and Chief AI Officer of ISG, whose advisory firm 
+covers the AI space and who was interviewed for the report, said that although we 
+all know AI is the most influential change in technology today, there is still a huge 
+disconnect on how to embrace it.  “Everybody understands how transformative AI is 
+going to be and wants strong governance, but the operating model and the funding 
+allocated to responsible AI are well below where they need to be given its criticality 
+to the organization .” Hall said.  
+ 
+According to Vijay Guntur, CTO & Head of Ecosystems,  HCLTech , “AI can be a  
+tremendous  force of positive change in  businesses and society at large, but its full 
+potential can  only  be realized when it can be  trusted .” 
+ 
+Guntur continued that t o support responsible AI adoption , the ethical use of 
+technology and to close the "readiness gap" to widespread adoption and 
+implementation, HCLTech has several key recommendations . 
+ 
+First, companies should architect a robust responsible AI set of enterprise -guiding 
+frameworks and capabilities that provide guardrails for trustworthiness, ethics, 
+responsibility, safety and security, sustainability , regulatory compliance , change 
+management and user empowerment.  
+ 
+Second, organizations should lean into their tech partner ecosystems to pilot, test 
+and learn to bring the  most appropriate  technologies and best practices together 
+to move at pace.  
+ 
+Third, establish ing a dedicated team (or Center of Excellence ) is advisable to act  in 
+a cross -functional driving role across the organization.  
+ 
+HCLTech  recently  established an Office of Responsible AI and Governance led by 
+SMEs with experience on NIST frameworks, the Europe AI Act, ISO, risk and 
+compliance, ethics and bias mitigation. This office drives co -innovation and the 
+development of consulting capabilities and intellectual property solutions, with a 
+focus on Responsible AI and partnerships.  
+ 
+ 
+4 
+ 
+For more information and to access the full report, please visit : 
+https://www.hcltech.com/white -papers/implementing -responsible -ai-
+generative -age 
+ 
+About HCLTech  
+HCLTech  is a global technology company, home to more than 220,000 people 
+across 60 countries, delivering industry -leading capabilities centered around 
+digital, engineering, cloud and AI, powered by a broad portfolio of technology 
+services and products. We work wit h clients across all major verticals, providing 
+industry solutions for Financial Services, Manufacturing, Life Sciences and 
+Healthcare, Technology and Services, Telecom and Media, Retail and CPG and 
+Public Services. Consolidated revenues as of 12 months en ding December 2024 
+totaled $13.8 billion. To learn how we can supercharge progress for you, visit  
+hcltech.com . 
+ 
+For further details, please contact:  
+  
+Meredith Bucaro, Americas  
+meredith -bucaro@hcltech.com  
+ 
+Elka Ghudial, EMEA  
+elka.ghudial@hcltech.com   
+ 
+James Galvin, ANZ  
+james.galvin@hcltech.com  
+ 
+Nitin Shukla, India  
+nitin -shukla@hcltech.com  
+ 

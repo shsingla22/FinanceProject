@@ -1,0 +1,60 @@
+  
+Classified as Public  
+Angel One Limited  
+CIN:  L67120MH1996PLC101709,  
+SEBI Registration No Stock Broker:INZ000161534,  
+CDSL: IN -DP-384 -2018, PMS:INP000001546,  
+Research Analyst: INH000000164, Investment Advisor: INA000008172, 
+AMFI Regn. No. ARN –77404, PFRDA, Regn. No. -19092018.  Corporate & Regd Ofﬁce:  
+601, 6th Floor, Ackruti Star, Central Road, MIDC, 
+Andheri (E), Mumbai - 400093.  
+T: (022) 4000 3600  
+F: (022) 4000 3609  
+E: support@angelone.in  
+www.angelone.in  
+Classified as Internal  To, 
+Listing Department  
+National Stock Exchange of India Limited                      Department of Corporate Service  
+                    BSE Limited  
+Exchange Plaza, C -1, G Block, Bandra Kurla Complex, 
+Bandra (East),  
+Mumbai - 400 051.                      Phiroze Jeejeebhoy Towers,  
+                    Dalal Street,  
+                    Mumbai - 400 001.  
+Symbol: ANGELONE                       Scrip Code: 543235  
+ 
+Sub: Disclosure under Regulation 30 of the SEBI (Listing Obligation and Disclosure Requirements) Regulations, 2015  
+ 
+Dear Sir / Ma ’am, 
+ 
+The Company received certain data leakage post’ alerts via email from its dark -web monitoring partner on February 27, 
+2025, informing of unauthorised access of our clients’ data. After analysing the post, it was ascertained that some of 
+Angel One’s AWS resources were compromised.  
+  
+In order to contain the impact, the Company has immediately changed all related credentials of its AWS cloud and other 
+applications.  
+ 
+We value the data privacy of our clients and as an immediate measure, we have engaged an external forensic partner to 
+validate and investigate the impact of this incident and its thorough root cause analysis. We have verified that this 
+breach does not have  any impact on clients securities, funds and credentials; and all our client accounts remain secure.  
+ 
+We continue to investigate this further to assess its potential impact, if any, and are making this disclosure as a matter 
+of good governance.  
+ 
+We will take utmost care to handle concerns of our clients and take actions to safeguard their interest.  
+ 
+This is for your information.  
+ 
+Thanking you,  
+ 
+For Angel One Limited  
+ 
+ 
+ 
+Naheed Patel  
+Company Secretary and Compliance Officer  
+ 
+Date: February 28, 2025   
+Place: Mumbai  
+ 
+ 

@@ -1,0 +1,211 @@
+--- CIM_25082_WebXMLFile_20261001_184349718_1.xml (the exchange's structured disclosure) ---
+NSESymbol: LOTUSDEV ; Name Of The Company: Sri Lotus Developers and Realty Limited ; Scrip Code: 544469 ; MSEISymbol: NOTLISTED ; ISIN: INE0V9Q01010 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-01 ; Time Of Occurrence Of Event Or Information: 15:52:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-01-10 ; Type Of Change: Appointment ; Category For Change: Director ; Designation Of Designated Person: Executive Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Paarth Deepak Chheda ; Effective Date Of Reason Of Change: 2026-10-01 ; Term Of Appointment In Months: 60 ; Brief Profile: Paarth Chheda, graduated as an architect from the Illinois Institute of Technology, Chicago. Since joining Lotus Developers, for almost a decade now, he has been a driving force in bringing new technology, value addition and contemporary design to Lotus’ already impressive portfolio. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Son-in-law of Mr. Anand Pandit MD and Chairman of the Company and Mrs. Roopa Pandit, and spouse of Ms. Ashka Pandit, Executive Director of the Company ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Salutation Of Designated Person: Mrs. ; Name Of Designated Person: Roopa Ananad Pandit ; Salutation: Mrs. ; Name Of The Person: Roopa Ananad Pandit ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-01 ; Effective Date Of Resignation: 2026-10-01 ; Reason Of Resignation In Brief: Due to pre-occupation and other personal commitments.
+
+--- CIMG_544469_01102026184327_2.pdf ---
+Date: October 01, 2026
+To,
+The Compliance Manager
+Listing Department
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400001
+Scrip Code: 544469
+
+To,
+The Manager
+Listing and Compliance Department
+National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G
+Bandra-Kurla Complex, Bandra (East),
+Mumbai - 400051
+Scrip Symbol: LOTUSDEV
+
+ISIN: INE0V9Q01010
+Subject: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations.
+2015 [SEBI (LODR) Regulations. 2015)- Appointment and Resignation of Directors
+Dear Sir/ Madam,
+Pursuant to Regulation 30 read with Part A of Schedule III and other applicable provisions of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), if any, we wish to inform the
+following:
+1.
+
+In continuation to the Outcome of Board Meeting dated September 01, 2026, appointment of Mr. Paarth
+Deepak Chheda (DIN: 06430713) has been approved by the shareholders at the 12th Annual General Meeting
+(‘AGM’) of the Company, held on Tuesday, September 29, 2026, through video conferencing / other audiovisual means as Executive Director of the Company, liable to retire by rotation, for a period of 5 years
+commencing from October 01, 2026 till September 30, 2031:
+
+2.
+
+Mrs. Roopa Anand Pandit (DIN: 01565535) has resigned from the post of Non-Executive Non-Independent
+Director of the Company with effect from October 01, 2026, due to pre occupation and personal
+commitments. Consequently, she shall also cease to be a member of the Nomination and remuneration
+Committee.
+
+Further, the details as required in terms of the Listing Regulations read with SEBI Master Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026, is enclosed as Annexure I and copy of the letter
+of resignation received from Mrs. Roopa Anand Pandit is enclosed herewith.
+We request you to kindly take the same on record.
+Thanking you.
+Yours faithfully,
+For Sri Lotus Developers and Realty Limited
+(Formerly known as AKP Holdings Limited)
+Digitally signed by
+
+ANKIT KUMAR ANKIT KUMAR TATER
+Date: 2026.10.01
+TATER
+15:10:43 +05'30'
+
+Ankit Kumar Tater
+Company Secretary and Compliance Officer
+Membership No.: A57623
+Encl. A/a
+
+Sri Lotus Developers and Realty Limited (Formerly known as “AKP Holdings Limited”) CIN: L68200MH2015PLC262020
+Regd. Office: 5th & 6th Floor, Lotus Tower, 1 Jai Hind Soc., N S Road No. 12/A, JVPD Scheme, Juhu, Mumbai 400049, MH, India
+Corporate Office: 5th & 6th Floor, Lotus Tower, 1 Jai Hind Soc., N S Road No. 12/A, JVPD Scheme, Juhu, Mumbai 400049, MH, India
+
+Tel: +91-7506283400 Email: contact@lotusdevelopers.com Website: www.lotusdevelopers.com
+
+
+Annexure I
+Disclosure of information pursuant to Regulation 30 of the Listing Regulations read with SEBI Master Circular
+No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+S.No.
+
+Particulars
+
+Details
+
+1. Name
+
+Mr. Paarth Deepak Chheda
+
+Mrs. Roopa Anand Pandit
+
+2. Category
+
+Executive Director
+
+Non-Executive
+Director
+
+3. Reason
+for
+change
+viz.
+appointment,
+reappointment,
+resignation, removal, death or
+otherwise.
+
+Appointed as an Executive
+Director
+
+Resignation of Mrs. Roopa Anand
+Pandit, (DIN: 01565535) NonExecutive
+Non-Independent
+Director of the Company with
+effect from October 01, 2026 due
+to pre occupation and personal
+commitments.
+
+4. Date of appointment/
+reappointment/cessation & term of
+appointment/re-appointment.
+
+Appointed for a term for a
+period of 5 years commencing
+from October 01, 2026 till
+September 30, 2031
+Paarth Chheda, graduated as
+an architect from the Illinois
+Institute
+of
+Technology,
+Chicago. Since joining Lotus
+Developers, for almost a
+decade now, he has been a
+driving force in bringing new
+technology, value addition and
+contemporary design to Lotus’
+already impressive portfolio.
+Son-in-law of Mr. Anand Pandit
+MD and Chairman of the
+Company and Mrs. Roopa
+Pandit, and spouse of Ms.
+Ashka
+Pandit,
+Executive
+Director of the Company
+
+Cessation with effect from October
+01, 2026.
+
+5. Brief Profile
+appointment)
+
+(in
+
+case
+
+of
+
+6. Disclosure
+of
+relationships
+between Directors (in case of reappointment of a director).
+
+Non-Independent
+
+Not Applicable.
+
+Mrs. Roopa Anand Pandit is the
+wife of Anand Kamalnayan Pandit
+Executive
+Director-Chairperson
+related to Promoter-MD
+
+Sri Lotus Developers and Realty Limited (Formerly known as “AKP Holdings Limited”) CIN: L68200MH2015PLC262020
+Regd. Office: 5th & 6th Floor, Lotus Tower, 1 Jai Hind Soc., N S Road No. 12/A, JVPD Scheme, Juhu, Mumbai 400049, MH, India
+Corporate Office: 5th & 6th Floor, Lotus Tower, 1 Jai Hind Soc., N S Road No. 12/A, JVPD Scheme, Juhu, Mumbai 400049, MH, India
+
+Tel: +91-7506283400 Email: contact@lotusdevelopers.com Website: www.lotusdevelopers.com
+
+
+Date: October 01, 2026
+To,
+The Board of Directors,
+Sri Lotus Developers and Realty Limited
+5th & 6th Floor, Lotus Tower,
+1 Jai Hind Society, N S Road No. 12/A, JVPD Scheme,
+Juhu, Mumbai, MH – 400049
+Subject: Resignation from the position of Non-Executive Non-Independent Director
+I hereby tender my resignation from the position of Non – Executive Non – Independent Director of
+Sri Lotus Developers and Realty Limited with effect from October 01, 2026.
+Due to my pre-occupation and other personal commitments, I am unable to continue to effectively
+contribute to the affairs of the Company. Accordingly, I request the Board to kindly take note of and
+accept my resignation.
+I confirm that there are no material reasons for my resignation other than as stated above.
+I take this opportunity to express my sincere appreciation to the Board of Directors and the
+management for the support and cooperation extended to me during my tenure with the Company.
+I request the Company to kindly complete all necessary formalities, including filing of requisite forms
+and intimating the concerned statutory authorities.
+Thanking you,
+Sincerely
+Roopa
+Anand
+Pandit
+
+Digitally signed
+by Roopa Anand
+Pandit
+Date: 2026.10.01
+13:52:07 +05'30'
+
+Roopa Anand Pandit
+Director
+DIN:01565535
+
+

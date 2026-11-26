@@ -1,0 +1,201 @@
+ 
+ 
+ 
+ 
+Registered Office:  
+Unit 4, Plot No 105 , Halol Vadodara Road 
+Village Nurpura , Taluka Halol,  
+Panch amahal, Panch Mahals, Gujarat 
+389 350  
+Tel: 2676 - 227600 / 227700  
+Corporate Office:  
+Polycab India Limited  
+CIN: L31300GJ1996PLC114183  
+#29, The Ruby, 21 st Floor, Senapati Bapat Marg,  
+Tulsi Pipe Road , Dadar (West), Mumbai 400 028  
+Tel: +91 22 6735 1400  
+  Email:  shares@polycab.com   
+Web:  www.polycab.com  
+ 
+  Date: 22nd January  2025 
+ 
+To 
+Department of Corporate Services  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Mumbai, MH - 400001  To 
+Listing Department  
+National Stock Exchange of India Limited  
+C-1, G-Block, Bandra -Kurla Complex  
+Bandra (E), Mumbai, MH - 400051  
+ 
+Scrip Code: 542652 Scrip Symbol: Polycab  
+ISIN: INE455K01017  
+Dear Sir(s) / Madam(s)  
+ 
+Subject: Unaudited Interim Condensed (Standalone and Consolidated) Financial Statements for the 
+quarter and nine months ended 3 1st December  2024  
+With reference to the captioned subject, please find enclosed herewith the unaudited Interim Condensed 
+(Standalone and Consolidated) Financial Statements of the Company, along with Review Re ports for the 
+quarter and nine months ended 3 1st December  2024  as approved by the Board of Directors at  its meeting 
+held today i.e.  22nd January 2025.  
+ 
+ 
+Kindly take the same on your record.  
+Thanking you  
+ 
+Yours Faithfully  
+For Polycab India Limited  
+ 
+ 
+ 
+_________________________  
+Manita Carmen A. Gonsalves  
+Vice President -Legal & Company Secretary  
+Membership No.: A18321  
+Address:  #29, The Ruby, 21st Floor, Senapati Bapat Marg,  
+Tulsi Pipe Road, Dadar (West), Mumbai, MH -400028  
+ 
+Encl: as above  
+ 
+Unaudited Interim  
+Condensed Consolidated  
+Financial Statement s 
+Q3FY25 
+Page No.
+Auditors' Review Report 1
+Balance Sheet 3
+Statement of Profit and Loss 4
+Statement of Changes in Equity 5
+Statement of Cash Flows 6
+Overview and notes to the financial statements
+A Overview
+1 Corporate Information 8
+2A Basis of preparation 8
+2B Use of estimates and judgements 8
+2C Changes in material accounting policy information 8
+2D Recent Indian Accounting Standards (Ind AS) issued not yet effective 8
+B Notes to financial statements
+3Property, plant and equipment 9
+4Right of use assets 10
+5Other intangible assets 10
+6Investment 11
+7Cash and cash equivalents 11
+8Inventories 11
+9Borrowings 12
+10 Acceptances 12
+11 Trade payables 12
+12 Revenue from operations 13
+13 Other income 13
+14 Finance cost 14
+15 Other expenses 14
+16 Earnings per share 14
+17 Contingent liabilities and commitments 15
+18 Related party disclosure 16
+19 Segment Reporting 17
+20 Financial Instruments and Fair Value Measurement 20
+21 Financial Risk Management Objectives And Policies 21
+22 Hedging activity and derivatives 25
+23 Events after the reporting period 27
+24 Income Tax 27
+25 Dividend 27
+26 Others 27Polycab India Limited
+Unaudited Interim Condensed Consolidated Financial Statements for the three months and nine months ended 31 December 2024
+Index
+
+1
+2
+Polycab India Limited
+Unaudited Interim Condensed Consolidated Balance Sheet as at 31 December 2024
+(₹ million)
+ As at  As at 
+ 31 Dec 24  31 Mar 24 
+(Unaudited) (Audited)
+ASSETS
+Non-current assets
+Property, plant and equipment 3 25,853.60                      21,677.57                 
+Capital work-in-progress 3 7,885.33                        5,784.46                   
+Investment Property under Construction 764.10                           762.98                      
+Right of use assets 4 881.18                           728.26                      
+Goodwill 46.22                             46.22                        
+Other intangible assets 5 113.99                           160.17                      
+Investments accounted for using the equity method 6A -                                -                           
+Financial assets
+(a)Trade receivables 2,420.98                        1,190.70                   
+(b)Other financial assets 357.85                           311.34                      
+Non-current tax assets (net) 529.23                           297.08                      
+Deferred tax assets (net) 193.78                           128.69                      
+Other non-current assets 3,255.27                        2,561.76                   
+42,301.53                      33,649.23                 
+Current assets
+Inventories 8 43,783.96                      36,751.14                 
+Financial assets
+(a)Investments 6B 11,743.56                      18,224.17                 
+(b)Trade receivables 23,616.55                      20,471.17                 
+(c)Cash and cash equivalents 7 1,116.79                        3,070.31                   
+(d)Bank balance other than cash and cash equivalents 5,494.81                        953.27                      
+(e)Loans 107.89                           106.26                      
+(f)Other financial assets 1,322.68                        335.52                      
+Other current assets 6,226.36                        7,227.77                   
+93,412.60                      87,139.61                 
+Total assets 1,35,714.13                   1,20,788.84              
+EQUITY AND LIABILITIES
+Equity
+(a)Equity share capital 1,504.20                        1,502.36                   
+(b)Other equity 89,249.54                      80,368.98                 
+90,753.74                      81,871.34                 
+Non-controlling interests 740.65                           562.07                      
+91,494.39                      82,433.41                 
+Liabilities
+Non-current liabilities
+Financial liabilities
+(a)Borrowings 9A 315.17                           226.04                      
+(b)Lease liabilities 619.48                           244.96                      
+(c)Other financial liabilities 546.46                           537.66                      
+Provisions 667.47                       601.25                  
+Deferred tax liabilities (net) 857.01                           543.71                      
+Other non-current liabilities 935.97                           422.86                      
+3,941.56                        2,576.48                   
+Current liabilities
+Financial liabilities
+(a)Borrowings 9B 1,009.94                        671.70                      
+(b)Lease liabilities 243.19                           468.23                      
+(c)Acceptances 10 19,880.37                      18,619.66                 
+(d)Trade payables 11
+Total outstanding dues of micro enterprises and small enterprises 1,347.38                        748.27                      
+11,811.16                      9,265.32                   
+(e)Other financial liabilities 1,906.53                        2,420.84                   
+Other current liabilities 3,622.46                        3,145.03                   
+Provisions 342.23                       314.46                  
+Current tax liabilities (net) 114.92                           125.44                      
+40,278.18                      35,778.95                 
+Total equity and liabilities 1,35,714.13                   1,20,788.84              
+Corporate information and summary of material accounting policy information 1 & 2
+Contingent liabilities and commitments 17
+Other notes to accounts 18 to 26
+The accompanying notes are an integral part of the unaudited interim condensed consolidated financial statements.
+As per our report of even date 
+For B S R & Co. LLP 
+Chartered Accountants 
+ICAI Firm Registration No. 101248W/W-100022
+ sd/-
+Sreeja Marar
+Partner
+Membership No. 111410
+Place: Mumbai
+Date: 22 January 2025Notes
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+For and on behalf of the Board of Directors of
+Polycab India Limited
+CIN : L31300GJ1996PLC114183
+sd/- sd/- sd/-
+Inder T. Jaisinghani 
+Chairman & Managing Director
+DIN : 00309108
+sd/- sd/-
+Gandharv Tongia Place:  Mumbai Manita Gonsalves
+Executive Director & CFO Date: 22 January 2025 Company Secretary
+DIN : 09038711 Membership No. A18321Nikhil R. Jaisinghani Bharat A. Jaisinghani 
+Whole Time Director Whole Time Director
+DIN : 00742771 DIN : 00742995
+3

@@ -1,0 +1,67 @@
+check,symbol,note
+E5,ABFRL,"Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
+E5,GRASIM,"Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
+E5,RAYMOND,"Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
+E5,UNOMINDA,"Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
+E5,WIPRO,"Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
+E5,AFFLE,"Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
+E5,PRSMJOHNSN,"Read 2026-11-26: the seat is of a division, business or region (Pantaloons, Birla Opus Paints, Defence, a domain, a market unit, North America), not the company's chief executive."
+E5,APARINDS,Read 2026-11-26: the filing text reads Chief Executive Officer of the Cable Solutions business; the exchange headline drops the division.
+E5,ASHAPURMIN,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,BAJAJELEC,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,BERGEPAINT,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,CRISIL,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,FORTIS,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,HDFCLIFE,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,MANYAVAR,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,OSWALPUMPS,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,SAFARI,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,SOBHA,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,STLTECH,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,V2RETAIL,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,VGUARD,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,RKFORGE,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,PARADEEP,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,RATEGAIN,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,JUBLPHARMA,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,BLS,"Read 2026-11-26: the same person re-appointed for a further term; the exchange headline says ""Appointment""."
+E5,CAMS,"Read 2026-11-26: a press release about MF Central, a joint venture — not the company's own seat."
+E5,KFINTECH,"Read 2026-11-26: a press release about MF Central, a joint venture — not the company's own seat."
+E5,EICHERMOT,"Read 2026-11-26: the seat is at VE Commercial Vehicles, a joint venture."
+E5,LATENTVIEW,Read 2026-11-26: the CFO withdrew his resignation and continues; no change.
+E5,LICI,"Read 2026-11-26: one of several Managing Directors serving under the chief executive (LIC's CEO & MD, SBI's Chairman)."
+E5,SBIN,"Read 2026-11-26: one of several Managing Directors serving under the chief executive (LIC's CEO & MD, SBI's Chairman)."
+E5,LTTS,Read 2026-11-26: the CFO was made Executive Director & CFO; he already held the CFO seat.
+E5,PRICOLLTD,Read 2026-11-26: the Managing Director became Chairman & Managing Director; he already held the MD seat.
+E5,PURVA,Read 2026-11-26: two headlines: (1) re-appointment of the same Managing Director; (2) the headline says Chief Financial Officer but the filing text appoints Mr. Amit Narain Ahuja as Chief Risk Officer — the exchange headline is wrong.
+E5,RCF,Read 2026-11-26: the Director (Finance) & CFO continues in the seat; a formal re-appointment.
+E5,SANOFI,Read 2026-11-26: the filing only reports government approval for an appointment that took effect before the window.
+E5,WELENT,Read 2026-11-26: the same Managing Director given an added interim role; the other seats named are divisions.
+E4,ACC,"Read 2026-11-26: the cement-business CFO moved on 22 November 2025 (Orient Cement filing of 21 November 2025), four days before the window opens; the filings in the window only list the successor."
+E4,AMBUJACEM,"Read 2026-11-26: the cement-business CFO moved on 22 November 2025 (Orient Cement filing of 21 November 2025), four days before the window opens; the filings in the window only list the successor."
+E4,AVALON,"Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
+E4,AXISCADES,"Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
+E4,PARADEEP,"Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
+E4,SUBROS,"Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
+E4,UCOBANK,"Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
+E4,TEGA,"Read 2026-11-26: the transcript prints the same person differently or the participants block is garbled; no change of holder (Tega's CFO changes are reported, its CEO is unchanged)."
+E4,EXIDEIND,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,FORTIS,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,NH,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,KIMS,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,PPLPHARMA,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,LODHA,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,TRIVENI,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,REDINGTON,"Read 2026-11-26: the later call lists heads of a subsidiary, a hospital unit, a division or a region alongside the company's own chief executive, who continues."
+E4,IDEA,"Read 2026-11-26: the CEO changed on 19 August 2025 (filing of 14 August 2025), before the window."
+E4,INOXGREEN,"Read 2026-11-26: the roster read ""InoxGFL Group"" as a name; the same group CFO continues."
+E4,INOXWIND,"Read 2026-11-26: the roster read ""InoxGFL Group"" as a name; the same group CFO continues."
+E4,LEMONTREE,Read 2026-11-26: Kapil Sharma signs as Executive Director & CFO in filings of September to November 2026; the roster picked another person.
+E4,LOTUSDEV,Read 2026-11-26: Rakesh Gupta is named CFO in press releases through October 2026; Sanjay Kumar Jain is the CEO.
+E4,PRAJIND,Read 2026-11-26: the CFO was made Joint Managing Director & CFO; the Managing Director continues.
+E4,SBIN,Read 2026-11-26: one of several Managing Directors under the Chairman.
+E4,SONATSOFTW,Read 2026-11-26: the earlier call's roster put the CEO / MD in the CFO seat; the CFO named in the later call is the CFO in the filings throughout.
+E4,SUPRIYA,Read 2026-11-26: the earlier call's roster put the CEO / MD in the CFO seat; the CFO named in the later call is the CFO in the filings throughout.
+E4,SUNPHARMA,Read 2026-11-26: no filing in the window or the lead-in states a change of Managing Director; the hand-over predates the documents read. Not confirmed from a filing.
+E4,TBOTEK,"Read 2026-11-26: two joint Managing Directors, both continuing; the calls list one or the other."
+E4,DELHIVERY,"Read 2026-11-26: announced 5 November 2025, effective 1 January 2026 — a real change the first runs missed because the announcement predates the window; the lead-in filings are now read."

@@ -1,0 +1,986 @@
+February 17, 2026
+National Stock Exchange of India Limited
+Listing Compliance Department
+Exchange Plaza
+Bandra – Kurla Complex
+Bandra East, Mumbai – 400 051
+NSE Symbol: ARE&M
+
+BSE Limited
+Corporate Relations Department
+Phiroze Jeejeebhoy Towers
+Dalal Street, Fort
+Mumbai – 400 001
+BSE scrip code: 500008
+
+Dear Sir / Madam,
+Sub: Submission of Trust Deed of Amara Raja Energy & Mobility ESOS Trust (Trust)
+Pursuant to Regulation 3(3) of the SEBI (Share Based Employee Benefits and Sweat Equity)
+Regulations, 2021, please find enclosed a copy of the Registered Trust Deed executed between
+Amara Raja Energy & Mobility Limited and Qapita EquityTech Limited (formerly known as KP
+Corporate Solutions Limited) (Trustee) for the Trust set up, inter-alia, for the purpose of
+administration and implementation of Amara Raja Energy & Mobility Limited Employee Stock
+Option Scheme 2025.
+This is for your information and record.
+With regards,
+For Amara Raja Energy & Mobility Limited
+(Formerly known as Amara Raja Batteries Limited)
+
+VIKAS
+SABHAR
+WAL
+
+Digitally signed by VIKAS SABHARWAL
+DN: c=IN, o=Personal, title=4371,
+pseudonym=05e6f56c78ec4e84abaa72f
+d6e44c16e,
+2.5.4.20=c38864386b6167929ceebbb00
+7819fbf5d5a5c88a9e1fd4a246d4286443
+fb175, postalCode=110052, st=Delhi,
+serialNumber=1ebf4de41885feeb8db31
+6d4a0f7d2aa5d9d19b58eba0a43f597b8
+c78e577a3a, cn=VIKAS SABHARWAL
+Date: 2026.02.17 18:10:32 +05'30'
+
+Vikas Sabharwal
+Company Secretary &
+Vice President - Legal
+Encl: a/a
+
+
+AMARA RAJA
+ENERGY
+AND
+S/O G Srinivasulu Naidu
+I
+MOBILITY
+6-~, Pantapalli
+LTD
+Polavaram Chitto or
+5:H'7124 India
+
+ADDRESS:2-37, vadlapalli, pulicherla,
+undefined Chitto or, 517113, India,
+MOBILE:8333824428
+
+TRUST DEED
+
+n·ns Deed of Trust ("Trust Deed" or "Deed") is made at Karakambadi, Andhra Pradesh on
+this 16 th day of February, 2026 (hereinafter referred to as the "Effective Date")
+~
+
+BY and BETWEEN
+Amara Raja Energy & Mobility Limited (Formerly known as Amara Raja Batteries
+Li'fJIited) a company limited by shares, incorporated under the Companies Act, 1956 (now
+2013)
+having
+Corporate
+Identification
+Number
+(CIN)
+Companies
+Act,
+L~1402AP 1985PLC005305 and its registered office at Renigunta, Cuddapah Road,
+Karakambadi, Tirupati; Andhra Pradesh - 517520 acting through its duly authorized
+representative Mr. Vikas Sabharwal (Company Secretary) authorized vide its Board resolution
+dated November 6, 2025 (hereinafter referred to as the "Settlor" or "Company", which
+expression shall unless it be repugnant to the context or meaning thereof, be deemed to mean
+and include its successors-in-interests & assigns) of the ONE PART;
+
+1
+
+
+AND
+Qapita EquityTech Limited (formerly known as KP Corporate Solutions Limited),
+incorporated under the Companies Act, 1956 (now Companies Act, 2013) having CIN:
+U72200MH1997PLC107907 and with registered office at lndiQube The Kode, 7th Floor, S.
+No.134, Hissa No. 1/38, Baner Pashan Link Road, Pune, Maharashtra - 411045, represented
+through Mr. Ketan Navlihalkar (Principal Consultant) being authorised representative of the
+Trustee authorised vide Board Resolution dated November 6, 2025 (hereinafter referred to as
+the "Trustee" which expression shall, unless it be repugnant to the context or meaning thereof,
+include its survivors and the legal representatives and executors, administrators and successors
+of the last of the survivor of the Trustee) of the OTHER PART.
+WHEREAS:
+A. The Company/Settlor is a technology-led energy and mobility solutions provider and
+one of India's largest manufacturers of lead-acid and lithium battery technologies. The
+equity shares of the Settlor are listed on BSE Limited (BSE) and the National Stock
+Exchange ofIndia Limited (NSE) (collectively, referred as the "Stock Exchanges").
+B. The Settlor is desirous of implementing the Amara Raja Energy & Mobility Limited
+Employee Stock Option Scheme 2025 (Scheme) for the welfare of the employees as a
+part of its talent attraction/retention strategy and its long-term incentive framework,
+through an irrevocable employee welfare trust.
+C. With a view to effectuate the same, the Board of Settlor has accorded its consent vide
+its resolution dated November 6,2025 to set-up and bring into existence an irrevocable
+trust, namely Amara Raja Energy & Mobility ESOS Trust ("Trust") in due compliance
+with the SBEB Regulations (defined hereafter), and provisions of the Applicable Laws
+including the Indian Trusts Act, 1882, with a view to administer Scheme through the
+Trust, with respect to Options exercisable into Shares (as defined below), to the extent
+as set out under the terms of the Scheme.
+D. Upon the proposal of the Settlor, the Trustee, being a body corporate, through its
+authorized representatives, has consented to act as the first Trustee of the Trust and to
+accept the Trust under these presents being testified by execution hereof through its
+authorised representative.
+E. The Company intends to, from time to time, offer to the present and future Eligible
+Employees as per the Scheme of the Company (and other applicable entities) an
+opportunity to participate in the growth and prosperity of the Company through
+participation in the 'Amara Raja Energy & Mobility Limited Stock Option Scheme,
+2025' ("Scheme") and any other future Schemes as may be approved by the Board and
+shareholders from time to time, by grant of stock Options (as defined below) under the
+Scheme exercisable in terms thereof;
+
+
+G. The Committee (as defined below) shall have powers as mentioned in the Scheme and
+under applicable laws and/or delegated by the Board of Directors of the Company.
+H. Upon creation of Trust, the Settlor will transfer a sum of Rs. 1,00,000/- (Rupees one
+lakh) to the Trustee. The Trustee shall admit and acknowledge the receipt of the amount
+as initial corpus ("Initial Corpus") of the Trust hereby constituted for carrying out the
+objective of the Trust.
+1.
+
+The Settlor and the Trustee have agreed to execute this deed to record herein the nature
+and scope of their respective rights, duties and entitlements with respect to the Trust.
+
+NOW THIS TRUST DEED WITNESSETH AS FOLLOWS:
+1. DEFINITIONS AND INTERPRETATION
+1.1.
+Definitions:
+In these presents, unless there is anything repugnant to the context or meaning thereof:
+a)
+
+"Applicable Laws" shall mean all applicable statutes, enactments, acts of legislature or
+parliament, laws, ordinances, rules, by-laws, regulations, notifications, guidelines,
+policies, directions, directives and orders of any governmental authority, tribunal, board,
+court or recognised stock exchange and includes, without limitation, the Securities and
+Exchange Board ofIndia (Share Based Employee Benefits and Sweat Equity) Regulations,
+2021 and the Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirement) Regulations, 2015, the legal requirements relating to employee trusts
+including, without limitation to, the Indian Trust Act, 1982, the Companies Act, 2013 read
+with rules thereunder, all relevant circulars, direction, order guideline, notifications, rules
+and regulations issued thereunder and all relevant tax, securities, exchange control,
+Reserve Bank of India or corporate laws of India or of any stock exchange on which the
+Shares are listed or quoted, and or notification issued by Government of India or any
+regulatory authority in India.
+
+b)
+
+"Beneficiaries" shall mean the Optionee or Grantee and such other persons as mentioned
+in this Deed, having such rights and obligations conferred under the Scheme and this Deed
+as are lawfully available under the provisions of the Applicable Laws and includes, where
+the context so requires: the legal heirs, executors/nominees and administrators of a
+Beneficiary.
+
+c)
+
+"Board" shall mean the Board of Directors of the Company/Settlor.
+
+d)
+
+"Board of Trustees" means all Trustee(s) existing at any point in time during the Trust
+Period.
+
+
+Sheet Endorsement
+CS No I Year: 111 2026
+
+Book No: 4
+
+led by: Sheet 3-42
+tnnmara Balaj;
+Loco/)
+ENIGUNTA
+Reasun:endorsetnetltSigll
+Dote:Mon Feb '616:37:15,
+
+Doct No I Year: 111 2026
+
+Sub-Registrar, RENIGUNTA
+
+o
+
+o
+
+TD
+
+RF
+
+1000
+
+o
+
+o
+
+o
+
+o
+
+1000
+
+UC
+
+1000
+
+o
+
+o
+
+o
+
+o
+
+1000
+
+TOT
+
+3000
+
+100
+
+o
+
+o
+
+o
+
+3100
+
+NOTE: TD:Transfer Duty, SD:Stamp Duty, RF:Registration Fee ,UC:=User Charges, TOT:Total,
+Desc:Description
+
+Rs. 1000/- towards Stamp Duty including T.D under Section 41 of I.S. Act, 1899 and Rs. 1000/- towards
+Registration Fees on the chargeable value of Rs. 0/- was paid by the party through ONLINE No ,
+91365109462025, 91365127992025, 91365202862025 dated ,16-FEB-26,16-FEB-26,16-FEB-26
+
+Digit;tlllYled by:
+Nom
+
+l1mmam Ba/aji
+
+Locah
+ENIGUNTA
+Reo.mn:elld,lt'sementSigll
+Dole:MolI Feb 16/6: 37:15 j
+
+Date:
+
+Sub-Registrar, RENIGUNTA
+
+16th day of February, 2026
+
+Digil;;Aall
+,ed by:
+Y
+
+Naill
+
+/lmmara Baloji
+
+Local
+ENTGUNTA
+ReosOlI:elldorselllentSigll
+Date:MolI Feb}6 16:37:15,
+
+.-.
+
+Generated On:16/02/202612:52:04
+
+
+f)
+
+"Deed" or Trust Deed means this trust deed and deems to include any deed, documents,
+legally effective variation, modification, amendment, and substitution thereof.
+
+g)
+
+"Director" means a member of the Board of the Settlor.
+
+h)
+
+"Effective Date" means the date on which this Deed is executed with effect from which
+the Trust has come into force.
+
+i)
+
+"Eligible Employee" means such employees as defined under the Scheme, as amended
+from time to time.
+
+j)
+
+"Option" means an employee stock option granted to a Beneficiary, which gives such
+Beneficiary the right, but not an obligation, to acquire at a future date, the Shares
+underlying the Option at a pre-determined price.
+
+k)
+
+"Option Grantee" shall have the same meaning as defined in the Scheme, as amended from
+time to time.
+
+1)
+
+"Scheme" means and includes any Share-based employee benefit scheme of the Settlor,
+introduced from time to time intended to be administered through the Trust, including the
+'Amara Raja Energy & Mobility Limited Employee Stock Option Scheme, 2025' or its
+amendments. Any such scheme upon becoming subject matter of the Trust shall be deemed
+to be an integral part of the Trust.
+
+m) "SBEB Regulations" means the Securities and Exchange Board of India (Share Based
+Employee benefits and Sweat Equity) Regulations, 2021, as amended and reenacted from
+time to time, and include all circulars, notifications, guidelines, interpretation letters and
+clarifications issued thereunder.
+n)
+
+"Secondary Acquisition" means acquisition of existing Shares of the Company by the Trust
+on the platform of a recognized Stock Exchange for cash consideration.
+
+0)
+
+"Settlor" means 'Amara Raja Energy & Mobility Limited', a company incorporated under
+the provisions of the Companies Act, 1956 (now Companies Act, 2013)
+
+p)
+
+"Shares" means fully paid up equity shares of the Settlor with a face value ofRs. 1/- (Rupee
+One only) each.
+Explanation: In the event of consolidation of Shares into shares of a larger denomination
+or any other alteration, the face value of the Share stands increased or changed accordingly,
+as the case may be, any reference to the face value in this Deed shall have reference to the
+then prevailing face value of Share.
+
+q)
+
+"Stock Exchange" means National Stock Exchange Limited or BSE Limited or any
+recognized other stock exchange in India on which the Company's Shares are listed.
+
+
+s)
+
+"Trust" means this irrevocable trust namely Amara Raja Energy & Mobility ESOS Trust
+settled through this Deed.
+
+t)
+
+"Trustee" means any person whether a natural Individual or a corporate entity being
+appointed as a trustee in this Deed.
+
+u)
+
+"Trust Fund" means the aggregate of the Initial Corpus as referred to in Recital H above,
+including any contributions, loans and advances lawfully received by the Trust from time
+to time and any other earnings or income accruing to the Trust.
+
+v)
+
+"Trust Period" means the period beginning from the Effective Date of Trust Deed and
+enduring till the earlier of winding up of the Settlor or extinction of the Trust, or if prior
+thereto the Trustee(s) are of unanimous opinion in due compliance with provisions of
+Applicable Laws and of this Deed that it is expedient to advance the date, then the date
+which the Trustee(s) may with the consent of the Settler specify in writing.
+
+w) "Trust Property" shall include the aggregate of the Trust Fund and all the Shares held by
+
+the TTlIst from tim~ to tim~ finn ,<;hflll hflv~ th~ sflm~ m~flnine flS fI,<;r,rih~n in r,lml<;f', R nfthi,<;
+Trust Deed.
+1.2.
+
+Interpretation
+
+Unless otherwise provided or unless the subject or context otherwise requires, in this Deed:
+(a) The words and expressions used in capitalized form and not defined in this Deed but
+defined in the Scheme and in the relevant provisions of the Applicable Laws, shall have
+the meanings respectively assigned to them first in the Scheme and then in the Applicable
+.
+Laws, as the context requires.
+(b) Any reference to the provisions of any statute shall be deemed to include reference to the
+same as in force (including any amendment or re-enactment) (whether before or after the
+date of this deed) at the time the matter relating thereto occurs and to all statutory
+instruments or orders made pursuant to such statutory provision.
+(c) Clause headings are inserted for ease of reference only and shall not affect the
+Interpretation of this Deed.
+(d) Words and expressions defined in the Companies Act, 2013 shall bear the same meanings
+herein;
+(e) Words denoting one gender include all genders; words denoting company include body
+corporate, corporations and trusts and vice versa;
+(f) The words used in this Deed in singular form shall refer to its plural form and vice versa
+as the context requires. For instance, the terms "Trustee" or "Trustees" shall be read and
+construed in the context of a sole corporate Trustee or more than one Trustee.
+(g) Reference in this Deed to any document, security or agreement includes reference to such
+document, security or agreement as amended, novated, supplemented, varied or replaced
+from time to time;
+(h) References to "this Deed" mean this Deed together with its recitals and Scheme referred
+to herein; and
+(i) The words "including", "include" and "in particular" shall be construed as being by way
+of illustration only and shall not be construed as limiting t
+lity of the preceding
+u ty e
+o~~
+. ..~
+~~ r9J1 <f~
+Ill'
+
+~
+
+(~
+~
+~
+
+.
+
+0\
+
+80.:
+
+.~ Pune
+~
+
+-.
+
+-;;:
+
+~
+
+PQ'~'
+
+5
+
+0
+
+3"
+
+:::;.,.
+nO
+
+*
+
+'"
+
+
+G) The term hereof, herein, hereby, hereto and derivative or similar words refers to this entire
+deed or specified clause of this Deed as the case may be.
+(k) A reference to a Schedule includes a reference to any part of that schedule which is
+incorporated by reference.
+2.
+
+SETTLEMENT OF TRUST AND INITIAL CORPUS
+
+2.1.
+
+The Settler hereby settles upon the Trust the Initial Corpus and thereby establishes the
+Tmst llnoAT thA mimI": of I Am~n=' R fljfl Fnf.'rgy & Mobility ESOS TmEt' for the b@n@fit of
+the Beneficiaries and for the purposes and objects set out in this Deed. The Trust shall
+be irrevocable in nature.
+
+2.2.
+
+For effectuating the said desire and in consideration of this Deed, the Settler hereby
+declares that it will upon the execution of these presents transfer to the Trustee(s) the
+Trust Property including the Initial Corpus and all the estate, right, title, interest,
+property, claim and demand whatsoever at law and in equity. The Trustee shall
+acknowledge the receipt of the Initial Corpus and confirm that it shall be applied and
+governed by the terms and conditions of this Deed and the Scheme. The Trustee also
+acknowledges that the Initial Corpus shall be held by the Tmstee and be subject to the
+powers, declarations, directions, conditions and provisions herein contained, for the
+benefit ofthe Beneficiaries and for the purposes and objects set out in this Deed.
+
+2.3.
+
+The Trustee(s) shall henceforth hold and stand possessed of the Trust Property upon
+trust and be subject to the power, provisions, agreements and declarations hereinafter
+declared, and contained concerning the same. .
+
+2.4.
+
+The Trust shall be irrevocable for all the times and the Company does hereby release,
+relinquish, disclaim, surrender and determine all its rights, title, interest or powers in
+the Trust Property, subject to the provisions of this Deed.
+
+3.
+
+NAME AND PRINCIPAL OFFICE OF THE TRUST
+
+3.1.
+
+The Trust hereby established shall be called' Amara Raja Energy & Mobility ESOS
+Trust' or such other name as the Trustee in consultation with the Board ICommittee of
+the Settler.
+
+3.2.
+
+The principal office of the Trust shall be at: Renigunta, Cuddapah Road, Karakambadi,
+Tirupati, Andhra Pradesh - 517520 'or at such other place in India as the Trustees may
+from time to time decide.
+
+4.
+
+OBJECTS OF THE TRUST
+
+The objects of the Trust shall include inter alia:
+4.1.
+administering, managing, funding and implementing the Scheme introduced by the
+Settlor from time to time and in accordance with the terms of such Scheme;
+4.2.
+
+To hold the Trust Property for the benefit of Beneficiaries and administer the same;
+
+6
+
+
+4.3.
+
+acquiring of Shares by purchasing through Secondary Acquisition, as per the Scheme
+and in accordance with the Applicable Laws;
+
+4.4.
+
+To transfer Shares to the Beneficiaries at such stages and upon such terms and
+conditions in accordance with the terms of the Scheme;
+
+4.5 .
+
+To sell the Trust Property, deal in cash and other assets in accordance with the terms of
+the Scheme, provisions of this Deed and Applicable Laws; and
+
+4.6.
+
+To accept from the Company or from any other person or persons, further contributions,
+loans and/or advances for the benefit of the Beneficiaries to facilitate the
+implementation, of the Scheme and to apply/refund and/or repay the same from time to
+time.
+
+4.7.
+
+To perform such other acts, deeds or things either independently or in conjunction with
+other matters or objects, as are, in the opinion ofthe Trustee(s), incidental or conducive
+to the welfare of the Beneficiaries or the attainment of anyone or more of the objects
+of the Trust, in consllltation with the r:nmpany/r:nmmitt~~.
+
+5.
+
+DETAILS OF THE AMARA RAJA ENERGY & MOBILITY LIMITED
+EMPLOYEE STOCK OPTION SCHEME 2025 (SCHEME)
+A copy of the Scheme is attached herewith in Schedule 1.
+
+6.
+
+OBLIGATIONS OF THE COMPANY
+
+6.1.
+
+The Company shall transfer the initial contribution to the Trust, on establishment of the
+Trust.
+
+6.2.
+
+The Company shall provide financial assistance including in form of loan, advance or
+reimbursement etc. ,to the Trust from time to time for the purchase of the Shares, in
+consultation with the Committee, for the purposes of implementation of the Scheme
+from time to time on the basis of grant of Option.
+
+6.3 .
+
+The Company shall supply to the Trustee all such information as the Trustee may
+reasonably require for the purposes of this Trust Deed.
+
+6.4.
+
+The Company shall indemnify the Trustee and keep them indemnified against all claims
+and demands whatsoever that may arise out of or in connection with the performance
+of their duties under this Trust Deed, subject to Applicable Laws.
+
+7.
+
+TRUST FUND AND ITS APPLICATION
+
+
+7.2.
+
+The Trustee shall hold, pay, apply and deal with the Trust Fund in all respects for the
+. purposes of the Scheme and as therein directed and generally to carry out the provisions
+of the Scheme.
+
+7.3.
+
+The Trustee shall permit the Trust Fund to remain in cash or deposit the same or any
+part thereof with any commercial scheduled bank in India or invest in one or more of
+the ways consistent with the Indian Trusts Act, 1882, or may acquire therefrom or from
+borrowings, Shares of the Settlor through secondary acquisition and other sources as
+permitted under the Scheme and Applicable Laws.
+
+7.4.
+
+The Trustee shall ensure that the Trust shall not enter into any derivatives contract or
+purchase or sell or deal in any derivatives product either directly or through any broker
+or any agent in any part of the world.
+
+7.5.
+
+Without detracting in any way from the generality ofthe foregoing, the Trust Fund will
+be applied for the purpose of acquiring the shares of the Settlor to fulfil the required
+obligations under the Scheme or refund to the Settlor, in such proportion and manner
+in all respects as the Trustee may deem fit subject to the instructions of the Settlor.
+
+8.
+
+TRUST PROPERTY
+
+8.1 .
+
+The Trustee shall henceforth hold and stand possessed of the Trust Property (which
+expression shall, unless repugnant to the subject or context, also include any other sum
+of money, property and investments of any kind whatever into which the same or any
+part thereof may be converted, invested or varied from time to time and those which
+may be acquired by the Trustee(s) or come to their hands by virtue of this presents or
+by operation of law or otherwise howsoever in relation to these presents including all
+donations, gifts, bequests and legacies either in cash or other properties movable or
+immovable or otherwise, howsoever which may be received by the Trust or Trustee(s)
+from time to time for the purpose of this presents) and all accretions thereto and income
+including capital gains and dividend arising therefrom or related thereto settled upon
+the Trust and subject to the powers, provisions, agreements and declarations hereinafter
+declared and contained concerning the same.
+
+8.2.
+
+The Trustee shall hold the Trust Property for the exclusive purpose of the Scheme.
+
+9.
+
+CREATION AND OPERATION OF AN DEMAT ESCROW ACCOUNT AND
+BROKERAGE ACCOUNT
+
+9.1.
+
+The Trustee shall be entitled from time to time to open, operate 'and maintain a
+dematerialized (de-mat) account or accounts (to hold the equity shares/securities in the,
+de-mat form) (hereinafter referred to as "Escrow Account") in the name of the Trust
+or in the names of the Trustee at such depository or depositories as they may from time
+to time decide to hold Shares of the Company through such account or accounts and/or
+transfer the same in accordance with the terms of the Scheme subject to Applicable
+Law.
+
+
+9.3.
+
+The written instructions to the depository shall clearly mention the number of Shares to
+be sold/transferred etc. duly signed by the Trustee.
+The Trust is not permitted to sell, transfer or otherwise dispose of the same, except in
+compliance with a direction or permission of the Company, as per terms of the Scheme,
+and in due compliance with the prevailing SBEB Regulations.
+
+9.4.
+
+9.5.
+
+The Trustee shall be entitled from time to time to open, operate and maintain a
+brokerage account or accounts (to carry out secondary market purchase of equity
+shares/securities in the demat form) in the name of the Trust or in the names of the
+Trustee at such brokerage house or houses as they may from time to time decide and/or
+transfer the shares purchased to demat account in accordance with the terms of the
+Scheme subject to Applicable Law.
+
+9.6.
+
+The Trustee shall ensure that on exercising the right by the Beneficiary(ies}, the shares
+are transferred in the demat of the respective Beneficiary(ies).
+
+9.7.
+
+The Trustee shall provide all the information and documents as reqllireci hy the
+Company.
+
+9.8.
+
+The Trustee shall be responsible for ensuring compliance with Applicable Laws, rules
+and regulations including but not limited to the Companies Act, direct or indirect tax
+laws, tax deductions and ensure timely tax filings of the Trust and shall be empowered
+to make representations, file documents and do all other acts which may be required in
+order to comply with the Applicable Law.
+
+10. BENEFICIARIES
+10.1.
+
+Beneficiaries under this Trust shall mean such persons as defined in sub-clause 1(1 )(b)
+of this Deed.' Subject to the provisions of the Scheme, in the event of any Option
+Grantee ceasing to be an employee, he shall ipso facto cease to be a Beneficiary of the
+Trust, except to the extent of benefits accrued to him (or to his legal heir/ nominees) as
+on the date of separation as per specific terms and conditions of the Scheme. Subject to
+the terms of the Scheme and the advice of the Compensation Committee, the Trustee(s)
+shall be entitled from time to time to add to the list of Beneficiaries of this Trust, the
+name of any person who is an employee under the Scheme.
+
+10.2.
+
+Subject to Applicable Law, the Trust Fund shall not be liable for any debt of any
+Beneficiary or be subject of any judgement rendered against any Beneficiary or to the
+process of any Court in aid of execution of any judgement so rendered.
+
+a) Rights of Beneficiaries:
+1.
+
+11.
+
+Right to information: Beneficiaries, on demand, shall have the right to be provided
+enough information about the Trust and its administration to know how to enforce
+their rights.
+Right to accounting: Beneficiaries, on demand, are entitled to Trust accounts which
+is a report of all income, expenses, and distributions from the Trust.
+
+--~;.~ JI ~IID/..,./VI/r
+......
+
+~nerg.Jt
+
+4'
+
+9
+
+
+b) Obligation of Beneficiaries: Each Beneficiary in his or her own interest may have a
+general understanding of the working of the trust mechanism and the terms of the
+Scheme.
+
+11. EMBARGO ON SALE OF SHARES
+In the event the Trust! Trustee is possessed of Shares of the Settlor, it is permitted to sell,
+transfer or otherwise dispose of the same, only in compliance with a direction or
+permission of the Settlor, as per terms of the Scheme, and in due compliance with the
+prevailing SBEB Regulations.
+
+12. TRUSTEE(S)
+12.1.
+
+The number of Trustees of the Trust where individuals are appointed as Trustees, there
+shall be a minimum of two such Trustees, and in case one person companies or a
+corporate entity, as defined under the Companies Act, 2013, is appointed as a Trustee,
+then it may be the sole Trustee.
+
+12.2.
+
+The maximum number of Trustees shall not exceed five or such other number as the
+Settlor may decide from time to time.
+
+12.3.
+
+The continuance of a Trustee in such capacity shall be at the discretion of the Settler
+and his!it's appointment as a Trustee shall forthwith be cancelled and his office vacated
+on receipt of written intimation from the Settlor to this effect to the Trustee concerned
+and other continuing Trustee( s), if any.
+
+12.4.
+
+If the office of a Trustee is vacated, either by death, insanity, resignation, insolvency,
+refusal or neglect to act as Trustee or on removal of Trustee by Settlor or on his
+otherwise becoming incapable or unable to act in the Trust of these presents, the Settlor
+shall be under no obligation to fill the vacancy occasioned in respect of any Trustee(s)
+so removed or any other vacancy in the number of Trustee(s) until it thinks fit and so
+long as the number of Trustee(s) shall not be as defined above and pending the fillingin of any vacancy, the continuing Trustee(s) shall have power to act.
+
+12.5.
+
+Upon any appointment or re-appointment of a new or additional Trustee, the Trust
+Property shall if and so far as may be necessary or be required, be deemed to be
+transferred so that. the same may be vested in all the Trustees for the time being
+(including the re-appointed, new or additional Trustee), and such re-appointed, new or
+additional Trustee shall have the same powers authorities and discretion as if he had
+been originally appointed a Trustee of this Deed.
+
+If the Trustee(s) hereby appointed or any of them or any future Trustee(s) shall die or
+be out ofIndia for more than one year continuously or become bankrupt or insolvent or
+desire to be discharged or refuse to, or become unfit or incapable to act, then, and in
+every such case, it shall be lawful for the surviving or continuing Trustee(s) for the time
+being with the approval of the Settler, to appoint a new Trustee and upon every such
+appointment the Trust Property shall (if and so far the nature of the funds or other
+circumstances shall require or admit) be transferred so that the same shall be vested in
+-""""""",--Trustees for the time being .
+.... /~nergl,~
+.'~\'l>
+" cf
+
+12.6.
+
+~ V\'
+
+10
+
+
+12.7.
+
+In case the corporate trustee become unfit or incapable to act, due to insolvency,
+liquidation process or any prohibitor ban by regulatory authority, it shall be lawful for
+the Settler to appoint a new Trustee and upon every such appointment the Trust Property
+shall (if and so far the nature of the funds or other circumstances shall require or admit)
+be transferred, so that the same shall be vested in such Trustee for the time being.
+
+12.8.
+
+Without prejudice to relevant provisions of Applicable Laws and subject to cognizance
+of Settlor, a Trustee shall stand discharged from his office on tendering resignation in
+writing or on the happening of any ofthe disqualifying events mentioned in this Clause.
+
+12.9.
+
+If the Settlor or any company/ entity into which the Settlor is ceases to exist on account
+of winding up or dissolution or becomes bankrupt/insolvent or otherwise, then and in
+such event, the Trustee( s) of the Trust shall step into the place of the Settlor and such
+Trustee(s) shall jointly exercise or fulfil as the case may be the rights and obligations
+cast upon the Settlor in these presents and in accordance with the Scheme.
+
+13. FORMATION OF RULES AND REGULATIONS BY TRUSTEE(S)
+It shall be lawful for the Trustee(s) from time to time to frame such rules and regulations,
+
+in compliance with the Scheme, object of the Trust and Applicable Laws, for the
+management and administration of the Trust after consultation and prior approval from the
+Settlor to add, alter, amend, substitute or vary the same and to make new rules and
+regulations provided that such rules and regulations shall not be inconsistent with the
+objects and interests of the Trust.
+However, the Trustee(s) shall not have any power under this clause to vary the Scheme
+nor this Deed and the said power shall rest with the Settlor.
+14. MEETINGS OF TRUSTEE(S)
+14.1.
+
+Trustees shall form and regulate their own procedure relating to meetings of the Board
+of Trustees. In case of a sole corporate Trustee, the quorum of any meeting ofthe Board
+of Trustees shall be one vis-a-vis in case of two or more individual Trustees, the quorum
+shall be two Trustees present in person. In case the requisite quorum is not present
+within half an hour of the meeting, it shall stand adjourned till decided again by the
+Trustees. The Trustees shall, except with reference to the requirement of quorum, be
+entitled from time to time to alter or change their procedure as framed or regulated.
+
+14.2.
+
+The Board of Trustees may call such number of meetings as thought fit in a financial
+year. The meetings can be held through video conferencing or other audio-visual means
+which can record and recognize the participation of Trustees.
+
+14.3.
+
+A meeting of the Trustees for the time being at which a quorum is present shall be
+competent to exercise all or any of the powers, authorities and discretions by or under
+the trust vested in the Trustees or otherwise exercisable by them.
+
+11
+
+
+14.4.
+
+Notwithstanding anything contained to the contrary elsewhere in this Deed, the
+Trustee(s) shall comply with and carry out all such directions and recommendations as
+may be given by the Board or Committee from time to time in relation to any matter
+with respect to which the Company has power under this Deed, under the Scheme, or
+under Applicable Laws to direct, determine or decide. For removal of doubts, it is
+clarified that the Board or Committee are empowered and entitled without any further
+formalities or approvals to give directions and recommendations on behalf of the
+Company under this clause.
+
+14.5.
+
+The decision of the majority ofthe Trustee shall be a decision of the Trustee and shall
+be final and binding accordingly. All decisions of the Trustee shall be passed by way
+of written notice.
+
+14.6.
+
+Trustees having difference of opinion arising among them in all matters wherein the
+Trustees shall have a discretionary power, the votes of the majority of the Trustees, for
+the time being in the matter shall prevail and shall be binding on all the Trustees
+including the Trustees who may not have voted provided however that if as a result of
+one Trustee not having voted, or the Trustees shall be equally divided in opinion the
+matters shall be decided according to the casting vote of the Chairman of the Board of
+Trustees or the Chairman of the meeting as the case may be.
+
+14.7.
+
+The Trustees shall meet together as may be necessary for the purpose of this Trust and
+all decisions relating thereto taken by a majority of the Trustees present at any meeting
+of the Trustees of which due notice has been given to all the Trustees shall be as
+effective for all purposes as if such decisions had been the unanimous, decision of all
+the Trustees. A written minute of decision of Trustees taken in a meeting held in any
+recognized manner shall if signed by the Chairman of the Board of Trustees or
+Chairman of the meeting be as effective for all purposes as if such decision had been
+reached in a duly convened meeting of all the Trustees.
+
+14.8.
+
+The Trustees may appoint such committee or committees of the Trustees along with
+another or others for such purpose or purposes and with such powers and authorities
+always within the powers and authorities of the Trustees themselves and upon such
+terms and conditions including in particular the removal of members of any such
+committee or committees and the appointment of other members in their place as the
+Trustees shall from time to time decide.
+
+15. DUTIES OF THE TRUSTEE(S)
+The Trustee shall administer the Scheme and shall subject to Applicable Laws, always act
+in accordance with the instructions/directions of the Board or Committee of the Company,
+the terms/objects of the Scheme/Trust and provisions of the Applicable Laws. The Trustee
+shall, in discharge of their obligations hereunder, carry on all the activities and including
+but not limited to the following activities necessary for the implementation of the objects
+of the Trust as set out hereinabove:
+III
+
+this Deed, the Trust and the
+
+
+b) the guidelines of the Compensation Committee, the Settlor and code of conduct on
+Insider Trading and other regulatory aspects, existing or framed in future;
+c) provisions of SBEB Regulations;
+d) the terms & conditions of the Scheme; and
+e) Any other Applicable Laws.
+15.2.
+
+The Trustee(s) shall act in the interest of the Beneficiaries of the Trust being governed
+under SBEB Regulations and shall not act in any manner or include any provision in
+this deed that would be detrimental to the interests of the Beneficiaries.
+
+15.3.
+
+The Trustees shall facilitate the Beneficiaries to fund for funding for Exercise of
+Options, as permitted under the Applicable Laws.
+
+15.4.
+
+The Trustees shall at all times maintain the highest standard of confidentiality as regards
+to the Trust Fund, Scheme and such other matter connected with it, and shall not
+disclose any confidential information to any other person, unless such information is
+required to be disclosed to some regulatory authority or under any judicial or statutory
+order to any other person under any law in force in India. If the Trustees are required
+by any Applicable Law to provide information regarding the Trust Fund and/ or the
+Beneficiaries and the Trustees, it shall comply with such request in good faith to the
+extent required, after providing prior intimation to the Settlor, whether or not it was in
+fact enforceable and the Trustees shall not be liable to the Beneficiaries or any of them
+or to any other party as a result of such compliance or in connection with such
+compliance.
+
+15.5.
+
+The Trustees shall ensure that all investments are made in accordance with the objects
+of Trust Fund, and all Applicable Laws.
+
+15.6.
+
+The Trustees shall ensure the availability of funds for the purchase of shares. The
+Trustees shall ensure that the execution of trades shall be within the statutory timelines
+as prescribed under the Securities and Exchange Board of India (Prohibition of Insider
+Trading) Regulations, 2015.
+
+15.7.
+
+The Trustees shall ensure that all the shares purchased under the scheme shall be in the
+demat account of the Trust.
+
+15.8.
+
+The Trustees shall ensure that on exercising the right by the Beneficiary(ies}, the shares
+are transferred in the demat ofthe respective Beneficiary(ies).
+
+15.9.
+
+The Trustees shall provide all the information and doc~ments as required by the Settler.
+
+15.10. The Trustees shall be responsible for ensuring compliance with Applicable Laws, rules
+and regulations including but not limited to the Companies Act, direct or indirect tax
+laws tax deductions, and ensure timely tax filings of the Trust and shall be empowered
+to make representations, file documents and do all other acts which may be required in
+order to comply with the Applicable Law.
+15.11.
+
+13
+
+I
+
+

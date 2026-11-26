@@ -1,0 +1,481 @@
+Siemens  Limited  
+Management: Sunil Mathur  Dr Annie Besant Rd.  
+400030 Mumbai  
+INDIA  Tel.: +91 22 6251 2191  
+www.siemens.com  
+Registered Office: Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai – 400030; Corporate Identity number: L28920MH1957PLC010839; 
+Tel.: +91 22 6251 7000; Fax: +91 22 2436 2404; Contact / Email: www.siemens.co.in/contact; Website: w ww.siemens.co.in.  
+Sales Offices: Ahmedabad, Bengaluru, Chennai, Gurugram, Hyderabad, Kolkata, Mumbai, Nagpur, Kalwa, Puducherry, Pune, Vadodara .  
+11th August  2026 
+National S tock Exchange of I ndia Limited 
+BSE Limited 
+Scrip Code – 
+National S tock Exchange of I ndia Limited: S IEMENS E Q 
+BSE Li mited: 500550 
+Sub: Information pur suant to t he S EBI (Listi ng Obligations and D isclosure R equirements) 
+Regulations, 201 5 (“Listing R egulations”) 
+Dear S ir / Madam, 
+Pursuant to Regulations 30, 33 and other applicable Regulations of the Listing Regulations, this is to 
+inform you that, the Board of Directors of the Company, at its Meeting held today, i.e.   
+11th August  2026,  inter-alia, approved the Un- audited Financial Results (Standalone and 
+Consolidated) (with limited review) for the first quarter  ended 30th June 2026 (copy enclosed).  
+Please also find enclosed a Press Releas e issued by the Company.   
+The Board Meeting commenced at 11.40 a. m. (IST) and concluded at 2.15 p.m. (IST).  
+Kindly t ake the same on record. 
+Yours f aithfully,  
+For Siemens Limited 
+Ketan Thaker 
+Company Secretary 
+Encl.: a. a. 
+SIEMENS 
+Price Waterhouse Chartered Accountants LLP 
+Review Report 
+To 
+The Board of Directors 
+Siemens Limited, 
+Birla Aurora, Level 21, Plot No. 1080, 
+Dr. Annie Besant Road, Worli, 
+Mumbai -400030 
+1. We have reviewed the standalone unaudited financial results of Siemens Limited (the 
+"Company") for the quarter ended June 30, 2026, which are included in the accompanying 
+'Statement of standalone unaudited financial results for the quarter ended 30 June 2026' 
+together with notes thereon (the "Statement"). The Statement has been prepared by the 
+Company pursuant to the requirement of Regulation 33 of the Securities and Exchange 
+Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, as 
+amended (the "Listing Regulations, 2015"), which has been initialled by us for 
+identification purposes. 
+2. This Statement, which is the responsibility of the Company's Management and approved 
+by the Board of Directors, has been prepared in accordance with the recognition and 
+measurement principles laid down in Indian Accounting Standard 34 "Interim Financial 
+Reporting" ("Ind AS 34"), prescribed under Section 133 of the Companies Act, 2013, and 
+other accounting principles generally accepted in India. Our responsibility is to express a 
+conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, "Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity" issued by the Institute of Chartered Accountants of 
+India. This Standard requires that we plan and perform the review to obtain moderate 
+assurance as to whether the Statement is free of material misstatement. A review of interim 
+financial information consists of maldng inquiries, primarily of persons responsible for 
+financial and accounting matters, and applying analytical and other review procedures. A 
+review is substantially less in scope than an audit conducted in accordance with Standards 
+on Auditing and consequently does not enable us to obtain assurance that we would 
+become aware of all significant matters that might be identified in an audit. Accordingly, 
+we do not express an audit opinion. 
+4. Based on our review conducted as above, nothing has come to our attention that causes us 
+to believe that the Statement has not been prepared in all material respects in accordance 
+with the recognition and measurement principles laid down in the aforesaid Indian 
+Accounting Standard and other accounting principles generally accepted in India and has 
+not disclosed the information required to be disclosed in terms of Regulation 33 of the 
+Listing Regulations, 2015 including the manner in which it is to be disclosed, or that it 
+contains any material misstatement . 
+For Price Waterhouse Chartered Accountants LLP 
+Firm istration Number: 012754N/N500016 
+Nitin Khatri 
+Partner 
+Membership Number: 110282 
+UDIN: 26110282APEIOY3231 
+Place: Mumbai 
+Date: August 11, 2026 
+Price Waterhouse Chartered Accountants LLP, 7th & 8th Floor, Nesco IT Park, Building No 3, Western Express Highway 
+Goregaon East, Mumbai -400 063 
+T: +91 (22) 61197810 
+Registered office and Head office: 11-A, Vishnu Dig amber Marg, Such eta Bhawan, New Deihl -110002 
+Price Waterhouse (a Partnership Firm) converted into Price Waterhouse Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN AAC-5001) 
+with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI registration number is 012754N/N500016 (ICAI registration 
+number before conversion was 012754N) 
+SIEMENS LIMITED 
+Statement of standalone unaudited financial results for the quarter ended 30 June 2026 
+No. Particulars 
+1 
+2 
+3 
+4 Continuing operations 
+Revenue from operations 
+Other income 
+Total income (1+2) 
+Expenses 
+a) Cost of materials consumed 
+b) Purchases of stock-in-trade 
+c) Changes in inventories of finished goods, work-in-progress and 
+stock-in-trade 
+d) Other direct costs 
+e) Employee benefits expense 
+f) Finance costs 
+g) Depreciation and amortisation expense 
+h) Other expenses 
+Total expenses 
+5 Profit before exceptional item and tax for the period from continuing 
+operations (3-4) 
+6 Exceptional item -Impact of New Labour Codes 
+7 Profit before tax from continuing operations (5-6) 
+8 Tax expense 
+a) Current tax 
+b) Deferred tax expense 
+Total tax expense 
+9 Profit for the period from continuing operations (7-8) 
+10 
+11 Discontinued operations (refer notes 1 and 2) 
+Profit before tax from discontinued operations 
+Gain from sale of discontinued operations 
+Less: Tax expense of discontinued operations 
+Profit for the period from discontinued operations 
+Profit for the period (9+10) 
+12 i) Other comprehensive income / (loss) from continuing operations 
+13 
+14 
+15 
+16 a) Items that will not be reclassified to profit or loss 
+Re-measurement gains/ (losses) on defined benefit plans, net 
+Income tax effect credit/ (expense) 
+b) Items that will be reclassified to profit or loss 
+Fair value changes on derivatives designated as cash flow hedge, net 
+Income tax effect credit/ (expense) 
+ii) Other comprehensive income I (loss) from discontinued operations 
+a) Items that will not be reclassified to profit or loss 
+Re-measurement gains/ (losses) on defined benefit plans, net 
+Income tax effect credit/ (expense) 
+b) Items that will be reclassified to profit or loss 
+Fair value changes on derivatives designated as cash flow hedge, net 
+Income tax effect credit/ (expense) 
+Total other comprehensive income I (loss) for the period 
+Total comprehensive income [(including other comprehensive 
+income/ (loss)] for the period (11+12) 
+Paid-up equity share capital 
+(Face Value of equity shares: Rs. 2 each fully paid up) 
+Other Equity 
+Earnings Per Share (EPS) of Rs. 2 each (in Rupees) .. 
+-Basic and diluted EPS from continuing operations 
+-Basic and diluted EPS from discontinued operations 
+-Basic and diluted EPS from continuing and discontinued operations 
+.. not annualised -
+• denotes figures less than a million 30 June 
+2026 
+(Unaudited) 
+41,951 
+1,048 
+42,999 
+16,780 
+9,810 
+833 
+2,584 
+4,036 
+55 
+477 
+4,081 
+38,656 
+4,343 
+4,343 
+1,064 
+54 
+1,118 
+3,225 
+88 
+20,990 
+3,081 
+17,997 
+21,222 
+(142) 
+35 
+25 
+(6) 
+(3) 
+1 
+(90) 
+21,132 
+712 
+9.06 
+50.53 
+59.59 Quarter ended 
+31 March 30 June 
+2026 2025 
+(refer note 4) (Unaudited) 
+41,087 
+906 
+41,993 
+15,691 
+14,012 
+(1,730) 
+2,538 
+3,839 
+111 
+452 
+3,170 
+38,083 
+3,910 
+3,910 
+738 
+210 
+948 
+2,962 
+206 
+54 
+152 
+3,114 
+(457) 
+116 
+6 
+(1) 
+(335) 
+2,779 
+712 
+8.31 
+0.43 
+8.74 (refer note 2) 
+36,287 
+1,138 
+37,425 
+14,831 
+7,853 
+326 
+2,548 
+3,551 
+22 
+402 
+2,936 
+32,469 
+4,956 
+4,956 
+1,225 
+51 
+1,276 
+3,680 
+15 
+4 
+11 
+3,691 
+(69) 
+17 
+(167) 
+42 
+(2) 
+1 
+(178) 
+3,513 
+712 
+10.34 
+0.03 
+10.37 (Rs. in million) 
+Eighteen 
+months period 
+ended 
+31 March 
+2026 
+(Audited) 
+220,254 
+8,439 
+228,693 
+86,586 
+59,170 
+(2,656) 
+13,670 
+22,427 
+259 
+2,498 
+18,736 
+200,690 
+28,003 
+628 
+27,375 
+6,313 
+323 
+6,636 
+20,739 
+6,316 
+1,595 
+4,721 
+25,460 
+(117) 
+29 
+(344) 
+87 
+(42) 
+11 
+258 
+(65) 
+(183) 
+25,277 
+712 
+134,543 
+58.23 
+13.26 
+71.49 
+SIEMENS LIMITED 
+Segmentwise revenue, results, assets and liabilities for the quarter ended 30 June 2026 
+(Rs. in million) 
+Standalone 
+Quarter ended Eighteen 
+months period 
+ended 
+30 June 31 March 30 June 31 March 
+2026 2026 2025 2026 
+(Unaudited) (refer note 4) (Unaudited) (Audited) 
+(refer note 2) 
+1. Segment Revenue 
+Smart Infrastructure 21,591 21,380 19,502 114,681 
+Mobility 8,831 7,786 7,755 47,230 
+Digital Industries 11,440 11,749 9,156 58,722 
+Others 542 613 460 2,784 
+42,404 41,528 36,873 223,417 
+Less : Inter segment revenue 453 441 586 3,163 
+Total revenue from continuing operations 41,951 41,087 36,287 220,254 
+Energy• Discontinued operations (refer note 1) . - - 25,746 
+Low Voltage Motors (LVM) • Discontinued operations (refer note 2) 1,920 3,042 2,394 15,308 
+Less : Inter segment revenue -Energy - - - 138 
+Less: Inter segment revenue -LVM 4 6 3 96 
+Total revenue from discontinued operations (refer notes 1 and 2) 1,916 3,036 2,391 40,820 
+2. Segment Results 
+Smart Infrastructure 1,971 2,445 2,688 15,045 
+Mobility 807 404 170 2,608 
+Digital Industries 589 273 986 3,042 
+Others 14 45 32 220 
+Profit from operations 3,381 3,167 3,876 20,915 
+Add: 
+a) Other Income ... 1,048 906 1,138 8,439 
+Less: 
+a) Finance costs 55 111 22 259 
+b) Demerger related expenses 31 52 36 1,092 
+c) Exceptional item -Impact of New Labour Codes** - - - 628 
+Profit before tax for the period from continuing operations 4,343 3,910 4,956 27,375 
+Profit before tax for the period from Energy -Discontinued operations (refer note 1) . . . 5,599 
+Profit before tax for the period from LVM -Discontinued operations (refer note 2) 21,078 206 15 717 
+3. Segment Assets 
+Smart Infrastructure 66,237 62,466 58,110 62,466 
+Mobility 35,991 37,132 28,678 37,132 
+Digital Industries 16,891 18,030 12,420 18,030 
+Others 2,681 3,060 1,919 3,060 
+Total Segment Assets 121,800 120,688 101,127 120,688 
+Unallocated (including cash and bank balances) 94,516 74,708 79,839 74,708 
+LVM -Assets classified as held for sale* - 2,500 2,364 2,500 
+Total Assets 216,316 197,896 183,330 197,896 
+4. Segment Liabilities 
+Smart Infrastructur e 25,122 22,615 21,379 22,615 
+Mobility 12,819 12,097 11,390 12,097 
+Digital Industries 8,929 12,116 6,352 12,116 
+Others 1,767 2,060 1,131 2,060 
+Total Segment Liabilities 48,637 48,888 40,252 48,888 
+Unallocated 11,522 10,381 14,131 10,381 
+LVM -Liabilities relating to assets classified as held for sale* - 3,372 2,923 3,372 
+Total Liabilities 60,159 62,641 57,306 62,641 
+• Up to 31 March 2026, the assets and liabilities relating to assets classified as held for sale pertain to "LVM" segment (refer note 2). 
+•• Statutory impact of new labour codes of Rs. 628 million for the eighteen months period ended 31 March 2026 has not been allocated in the results of the respective segments. 
+-Other income includes dividend received from subsidiaries during the eighteen months period ended 31 March 2026, amounting to Rs. 878 pertaining to Smart Infrastructure segment (C&S Electric Limited) 
+and Rs. 545 pertaining to Mobility segment (Siemens Rail Automation Private Limited). The underlying investment in susbidiaries are allocated to the respective segments. 
+Notes: 
+1 During the eighteen months period ended 31 March 2026, after receipt of requisite approvals, the Company has demerged its Energy business 
+basis the scheme of arrangement amongst the Company, Siemens Energy India Limited ("SEIL") and their respective shareholders and 
+creditors (the "Scheme'). The appointed date of the Scheme was 1 March 2025 and the effective date was 25 March 2025. 
+Upon the Scheme becoming effective, the assets and liabilities pertaining to the Energy business were transferred to SEIL and derecognized 
+from the Company's books of account. The net assets transferred amounting to Rs. 37,846 million (including Rs. 25,478 million of cash and 
+cash equivalents being transferred as an integral part of the Scheme) were adjusted against retained earnings in accordance with the Scheme, 
+along with consequential adjustments to applicable reserves within equity. 
+Pursuant to the requirements of Ind AS 105 "Non Current Assets held for Sale and Discontinued Operations", the results of the Company's 
+Energy business up to the appointed date were presented as discontinued operations . The results of the Company's Energy business included 
+in the above standalone unaudited financial results and segment results are as follows: 
+(Rs. in million) 
+Eighteen 
+Particulars months period 
+ended 
+31 March 
+2026* 
+Revenue from operations 25,608 
+Other income 24 
+Total income 25,632 
+Total expenses 20,033 
+Profit before tax for the period 5,599 
+Less: Tax expense 1,414 
+Profit for the period from discontinued operations 4,185 
+• Considering the impact of the Scheme, the above numbers are up to 1 March 2025. 
+2 During the quarter ended 30 June 2026, basis the approval granted by the Board of Directors of the Company at its meeting held on 8 
+December 2025, the Company has on 1 June 2026 sold and transferred its "Low Voltage Motors" ("LVM") business to lnnomotics India Private 
+Limited (the "Buye~") as a going concern by way of a slump sale as per the terms of the slump sale agreement entered into by the Company 
+inter alia with the Buyer for a cash consideration (enterprise value) of Rs. 22,000 million on a cash free, debt free basis and subject to mutually 
+agreed adjustments . Basis the preliminary sale consideration , a provisional gain of Rs. 20,990 million has been recognized during the quarter 
+ended 30 June 2026. 
+Pursuant to the requirements of Ind AS 105 "Non Current Assets held for Sale and Discontinued Operations", the results of the Company's LVM 
+business up to 1 June 2026 have been disclosed as discontinued operations; accordingly , the previous period figures have been re-presented . 
+The results of the Company's LVM business included in the above standalone unaudited financial results and segment results are as follows: 
+(Rs. in million) 
+Eighteen 
+Particulars Quarter ended months period 
+ended 
+30 June 31 March 30 June 31 March 
+2026* 2026 2025 2026 
+Revenue from operations 1,916 3,036 2,391 15,212 
+Other income 16 2 2 21 
+Total income 1,932 3,038 2,393 15,233 
+Total expenses 1,844 2,832 2,378 14,516 
+Profit before tax for the period 88 206 15 717 
+Gain from sale of discontinued operations 20,990 - - -
+Profit before tax from discontinued operations 21,078 206 15 717 
+Less: Tax expense 3,081 54 4 181 
+Profit for the period from discontinued operations 17,997 152 11 536 
+•consrdermg the effectrve date of sale and transfer, the above numbers are up to 31 May 2026. 
+3 The Board of Directors of the Company at its meeting held on 26 May 2026, based on the recommendations of the Committee of Directors and 
+the Audit Committee, approved the Scheme 6f Amalgamation of Siemens Rail Automation Private Limited ("SRAPL"), a wholly owned 
+subsidiary of the Company , with the Company and their respective shareholders under Sections 230 to 232 and other applicable provisions of 
+the Companies Act, 2013. The Scheme of Amalgamation is, inter alia, subject to receipt of requisite approvals from shareholders and creditors 
+of SRAPL and the Company, as applicable, and other requisite regulatory authorities including the National Company Law Tribunal. 
+4 The figures for the quarter ended 31 March 2026 are the balancing figures between the audited figures in respect of the eighteen months period 
+ended 31 March 2026 and the published unaudited figures in respect of fifteen months period ended 31 December 2025 as reported by the 
+Company . 
+5 The above standalone unaudited financial results were reviewed and approved by the Audit Committee and Board of Directors at their meetings 
+held on 11 August 2026. 
+Place : Mumbai 
+Date 11 August 2026 
+Siemens Limited 
+Registered office : Birla Aurora, Level 21, Plot No. 1080, Dr. Annie Besant Road, Worli, Mumbai -400030 
+Corporate Identity Number: L28920MH1957PLC010839 
+Tel.: +91 22 6251 7000; Fax: +91 22 2436 2404 
+Email/ Contact: Corporate-Secretariat.in@siemens .com I www.siemens.co.in/contact 
+Website: www.siemens.co.in Sunil Mathur 
+Managing Director and 
+Chief Executive Officer 
+Price Waterhouse Chartered Accountants LLP 
+Review Report 
+To 
+The Board of Directors 
+Siemens Limited, 
+Birla Aurora, Level 21, Plot No. 1080, 
+Dr. Annie Besant Road, Worli, 
+Mumbai- 400030 
+1. We have reviewed the consolidated unaudited financial results of Siemens Limited (the 
+"Holding Company") and its subsidiaries (the Holding company and its subsidiaries 
+hereinafter referred to as the "Group") (refer paragraph 4 below) for the quarter ended 
+June 30, 2026, which are included in the accompanying 'Statement of consolidated 
+unaudited financial results for the quarter ended 30 June 2026' together with notes 
+thereon (the "Statement"). The Statement is being submitted by the Holding Company 
+pursuant to the requirement of Regulation 33 of the Securities and Exchange Board of 
+India ("SEBI") (Listing Obligations and Disclosure Requirements) Regulations, 2015, as 
+amended (the "Listing Regulations, 2015"), which has been initialled by us for 
+identification purposes. 
+2. This Statement, which is the responsibility of the Holding Company's Management and 
+has been approved by the Holding Company's Board of Directors, has been prepared in 
+accordance with the recognition and measurement principles laid down in Indian 
+Accounting Standard 34 "Interim Financial Reporting " ("Ind AS 34"), prescribed under 
+Section 133 of the Companies Act, 2013, and other accounting principles generally 
+accepted in India. Our responsibility is to express a conclusion on the Statement based on 
+our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review 
+Engagements (SRE) 2410, "Review of Interim Financial Information Performed by the 
+Independent Auditor of the Entity" issued by the Institute of Chartered Accountants of 
+India. This Standard requires that we plan and perform the review to obtain moderate 
+assurance as to whether the Statement is free of material misstatement. A review of interim 
+financial information consists of making inquiries, primarily of persons responsible for 
+financial and accounting matters, and applying analytical and other review procedures. A 
+review is substantially less in scope than an audit conducted in accordance with Standards 
+on Auditing and consequently does not enable us to obtain assurance that we would 
+become aware of all significant matters that might be identified in an audit. Accordingly, 
+we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the SEBI under 
+Regulation 33 (8) of the Listing Regulations, 2015, to the extent applicable. 
+4. The Statement includes the results of Holding Company and the following entities: 
+Subsidiaries: 
+C&S Electric Limited 
+Siemens Rail Automation Private Limited 
+Price Waterhouse Chartered Accountants LLP, 7th & 8th Floor, Nesco IT Park, Building No 3, Western Express Highway 
+Goregaon East, Mumbai -400 063 
+T: +91 (22) 61197810 
+Registered office and Head office: 11-A, Vishnu Dlgamber Marg, Sucheta Bhawan, New Deihl -110002 
+Price Waterhouse (a Partnership Firm) converted into Price Waterhou se Chartered Accountants LLP (a Limited Liability Partnership with LLP identity no: LLPIN AAC-5001) 
+with effect from July 25, 2014. Post its conversion to Price Waterhouse Chartered Accountants LLP, its ICAI registration number is 012754N/N500016 (ICAI registration 
+number before conversion was 012754N) 

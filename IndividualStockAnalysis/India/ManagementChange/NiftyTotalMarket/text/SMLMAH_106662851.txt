@@ -1,0 +1,188 @@
+--- CIMG_505192_1062026212445_CIM_WebXMLFile_20260613_233106703_1.xml (the exchange's structured disclosure) ---
+NSESymbol: SMLMAH ; Name Of The Company: SML MAHINDRA LIMITED ; Scrip Code: 505192 ; MSEISymbol: NOTLISTED ; ISIN: INE294B01019 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-06-10 ; Start Time Of Board Meeting: 19:45:00 ; End Time Of Board Meeting: 19:55:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 3 ; Date Of Report: 2026-06-10 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Others ; Description Of Other Designation: Executive Diretor & CEO ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: CEO ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Dr. Venkataraman Srinivas ; Effective Date Of Reason Of Change: 2026-06-30 ; Description Of Other Designation: WTD ; Position Of Director In Board Three: WTD ; Category For Change: Key Managerial Personnel ; Description Of Other Designation: KMP ; Salutation: Mr. ; Name Of The Person: Dr. Venkataraman Srinivas ; Designation Of Person: Others ; Description Of Other Designation Person: Executive Diretor & CEO ; Date On Which The Resignation Letter Was Received: 2026-06-10 ; Effective Date Of Resignation: 2026-06-30 ; Reason Of Resignation In Brief: Pursuant to the recommendation of the Nomination and Remuneration Committee, the Board of Directors of the Company at its Meeting held on 10th June, 2026 considered and approved the cessation of Dr. Venkataraman Srinivas (DIN - 11163042) as Executive Director & Chief Executive Officer of the Company with effect from the close of 30th June, 2026, on account of his transition to a new role within the Mahindra Group. ; Description Of Other Designation Person: WTD ; Description Of Other Designation Person: KMP
+
+--- CIMG_505192_10062026212446_2.pdf ---
+SML Mahindra Limited
+Trucks & Buses
+Regd. Office & Works:
+Village Asron, Distt. Shahid Bhagat Singh
+Nagar (Nawanshahr) Punjab – 144533
+Tel +91 1881 270155
+
+SML/SEC/2026-27-023
+10th June, 2026
+Dy. General ManagerCorporate Relationship Department
+BSE Limited
+P.J Towers,
+Dalal Street Fort,
+Mumbai-400 001
+Scrip Code: 505192
+
+The Secretary,
+National Stock Exchange of India Ltd.
+Exchange Plaza, 5th Floor,
+Plot no. C/1, G Block
+Bandra- Kurla Complex
+Bandra (E), Mumbai – 400 051
+Scrip Code: SMLMAH
+
+Sub: Outcome of Board Meeting - Intimation under Regulation 30 read with Schedule III of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”)
+Dear Sir(s),
+With reference to the captioned subject, we wish to inform you that the Board of Directors of the Company at
+its Meeting held today i.e. 10th June, 2026 (Wednesday), basis the recommendation of the Nomination and
+Remuneration Committee, considered and approved:
+a)
+
+Cessation of Dr. Venkataraman Srinivas (DIN: 11163042) as Executive Director & Chief Executive
+Officer of the Company with effect from the close of 30th June, 2026 on account of his transition to a new
+role within the Mahindra Group. Consequently, he will cease to be a Director and Key Managerial
+Personnel of the Company under the Companies Act, 2013 and the SEBI Listing Regulations with effect
+from the said date.
+
+b)
+
+That Mr. Vinod Kumar Sahay (DIN: 07884268), Executive Chairman, shall take on additional
+responsibilities effective from 1st July 2026 till the new CEO is appointed.
+
+Details as per SEBI Master Circular No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated 30th January
+2026 are enclosed as Annexure A. The letter received from Dr. Venkataraman Srinivas in this regard is
+enclosed as Annexure B.
+The Board meeting commenced at 7:45 P.M. and concluded at 7:55 P.M.
+This intimation is also being uploaded on the Company’s website at https://smlmahindra.com/ .
+The above is for your information and records.
+Yours faithfully,
+For SML MAHINDRA LIMITED
+(Formerly SML ISUZU Limited)
+
+PARVESH
+MADAN
+
+Digitally signed by PARVESH MADAN
+DN: c=IN, st=Chandigarh,
+2.5.4.20=0e1a77d54a096206e1348eb1252e92e878facec34c
+819ffbdaf66cf4ac5b8323, postalCode=160047, street=SO
+Bansi Lal Madan House Number458 Sector44 A Burail,
+pseudonym=0a0313048c9c47e09b4bb46c28602686,
+title=0319,
+serialNumber=321aa9bc0f98ab0fac7ef996a6599ddb077684
+33b09197dd51fd989c5a852da3, o=Personal, cn=PARVESH
+MADAN
+Date: 2026.06.10 19:59:31 +05'30'
+
+(PARVESH MADAN)
+Company Secretary & Compliance Officer
+pmadan@smlmahindra.com
+ACS-31266
+SML Mahindra Limited (Formerly SML Isuzu Limited)
+Corporate Office: 1st Floor, T-7 Tech Park, C-119, Industrial Area Phase-7,
+SAS Nagar (Mohali) – 160055 (Punjab), Telephone 0172 - 2647700-02
+CIN No. L50101PB1983PLC005516
+Website: www.smlmahindra.com
+
+
+SML Mahindra Limited
+Trucks & Buses
+Regd. Office & Works:
+Village Asron, Distt. Shahid Bhagat Singh
+Nagar (Nawanshahr) Punjab – 144533
+Tel +91 1881 270155
+
+Annexure A
+Sr.
+No.
+a.
+
+Details of Events that need
+to be provided
+Reason for change viz.
+appointment, re-appointment,
+resignation, removal, death
+or otherwise
+
+Information of such events(s)
+
+b.
+
+Date of appointment/ reappointment/ cessation (as
+applicable) & term of
+appointment/re-appointment
+
+Date of cessation - With effect from the close of
+30th June, 2026.
+
+c.
+
+brief profile (in case of
+appointment)
+
+Not Applicable
+
+d.
+
+disclosure of relationships
+between directors (in case of
+appointment of a director);
+
+Not Applicable
+
+e.
+
+Information as required
+pursuant to BSE Circular with
+ref. no. LIST/ COMP/
+14/2018- 19 and NSE
+Circular with ref. no. NSE/
+CML/2018/24, dated 20th
+June, 2018.
+
+Not Applicable
+
+Pursuant to the recommendation of the Nomination and
+Remuneration Committee, the Board of Directors of the
+Company at its Meeting held on 10th June, 2026 considered
+and approved the cessation of Dr. Venkataraman Srinivas
+(DIN - 11163042) as Executive Director & Chief Executive
+Officer of the Company with effect from the close of
+30th June, 2026, on account of his transition to a new role
+within the Mahindra Group. Consequently, he will cease to be
+a Director and Key Managerial Personnel of the Company
+under the Companies Act, 2013 and the SEBI Listing
+Regulations with effect from the said date.
+
+SML Mahindra Limited (Formerly SML Isuzu Limited)
+Corporate Office: 1st Floor, T-7 Tech Park, C-119, Industrial Area Phase-7,
+SAS Nagar (Mohali) – 160055 (Punjab), Telephone 0172 - 2647700-02
+CIN No. L50101PB1983PLC005516
+Website: www.smlmahindra.com
+
+
+Annexure B
+
+Date: 1Oth June 2026
+
+To,
+The Board of Directors
+SML Mahindra Limited
+
+Dear Sirs/ Ma'am,
+Sub: Resignation
+I shall be stepping down from the position of Executive Director and Chief Executive
+Officer (CEO) of SML Mahindra Limited ("the Company") with effect from the close of 301h
+June 2026 on account of my transition to a new role within Mahindra Group.
+It has been a sheer delight to interact with the Board Members of the Company, and I take
+this opportunity to convey my sincere thanks to the Board and management of the
+Company for the support extended to me during my tenure with the Company. I am sure
+the Company will continue to grow and create shareholder value.
+Best wishes,
+
+V, ~:~
+
+r
+
+f'O b / i o 2-b
+Name : Dr. Venkataraman Srinivas
+Designation : Executive Director and Chief Executive Officer
+DIN: 11163042
+
+

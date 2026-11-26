@@ -1,0 +1,173 @@
+ 
+CIN: L27320WB1997PLC084819  
+Registered Office: Poddar Point, 10th Floor, 113 Park Street, Kolkata  700016 , India  
+Corporate Office: Titagarh Towers, 756 Anandapur, E.M Bypass, Kolkata 700107, India  
+Phone:+91 33 40190800  Fax: +91 33 40190823 Email: corp@titagarh.in ; Web: www.titagarh.in  
+ 
+ 
+17th April, 202 4 
+BSE Limited (BSE)  
+The Department of Corporate Services  
+Phiroze Jeejeebhoy Towers  
+Dalal Street,  
+Mumbai – 400 001  
+Scrip Code: 532966  National Stock Exchange of India Limited (NSE)  
+The Listing Compliance Department  
+Exchange Plaza Bandra -Kurla Complex  
+Bandra (E), Mumbai – 400 051  
+Scrip Code: TITAGARH  
+ 
+Dear Sir/Madam,  
+Sub: Intimation under Regulation 39(3) of the SEBI (Listing Obligations  and Disclosure Requirements) 
+Regulations, 2015 (“SEBI Listing Regulations, 2015”)  
+ 
+Pursuant to Regulation 39(3) of the SEBI Listing Regulations, 2015, this is to inform you that the Company has 
+received intimation on  15th April, 2024 and 17th April, 2024 from our Registrar and Share Transfer Agent viz., 
+Maheshwari Datamatics Private Limited for loss of shares/ issue of duplicate shares certificate from shareholder s 
+as per details given below:  
+Sr. 
+No Name of the 
+Shareholder(s)  Reason  No. of 
+Shares  Folio 
+No. Share 
+Certificate 
+No. Distinctive Nos.  
+From            To 
+1. PRABHU DAS  
+AGRAWAL  Loss of Share 
+Certificates  1 0034013  138062  119312905  119312905  
+2. USHA KRISHNA  
+SWAMY  
+Jh: B H 
+KRISHNA SWAMY  Loss of Share 
+Certificates  2 0044021  145995  119324496  119324497  
+3. OM PRAKASH KAKAN I Loss of Share 
+Certificates  10 003292 3 12888 7 11924856 5 11924857 4 
+4. MANISHA   KOTHAR I Loss of Share 
+Certificates  21 002996 3 13265 9 11929447 8 11929449 8 
+5. MOHAMED CASSAM 
+ASHRAFF & 
+FATEMABIBI EBRAHIM 
+BHAM  Issue of 
+Duplicate  Share  
+certificates  54 0030805  154125  119294082  119294135  
+6. FATEMABIBI IBRAHIM 
+BHAM & MOHAMED 
+CASSAM ASHRAFF  Issue of 
+Duplicate  Share  
+certificates  54 0045938  154126  119294136  119294189  
+7. JOANNA ROSA VAZ  Issue of 
+Duplicate  Share  
+certificates  3 0045939  154127  119235357  119235359  
+8. MANAS MANDAL  Issue of 
+Duplicate  Share  
+certificates   5 0011606  154128  000129286  000129290  
+Thanking you,  
+yours faithfully,  
+ For Titagarh Rail Systems Limited,  
+(Formerly Titagarh Wagons Limited)  
+  
+ 
+Dinesh Arya  
+Company Secretary & Chief Compliance Officer  
+M. No. FCS 3665  
+General Information
+Name of the Company* TITAGARH RAIL  SYSTEMS LIMITED
+NSE Symbol* TITAGARH
+BSE Scrip Code* 532966
+MSEI Symbol* NOTLISTED
+ISIN* INE615H01020
+Type of Announcement* New
+Type of Event* Loss of share certificates
+Details of other event
+Date of original announcement
+Remarks (website dissemination)
+Remarks for Exchange (not for Website Dissemination)
+Date of Report 17-04-2024
+Loss of Shar e Certificate
+Number of shareholders for whom intimation regarding loss of share certificate has been received* 4
+Details of Shareholders for whom intimation regarding loss of share certificate has been received
+Date of receipt of intimation/information of
+loss of share certificate*Name*Folio
+NumberNumber of
+SharesCertificate
+NumberDistinctive NumberNon-Compliance
+trigger
+From To From To
+15-04-2024PRABHU DAS
+AGRA WAL0034013 1 138062 138062 119312905 119312905
+17-04-2024USHA
+KRISHNASW AMY0044021 2 145995 145995 119324496 119324497
+17-04-2024OM PRAKASH
+KAKANI0032923 10 128887 128887 119248565 119248574
+17-04-2024 MANISHA  KOTHARI 0029963 21 132659 132659 119294478 119294498
+Name of Registrar and Transfer Agent (R TA) of the Company*MAHESHW ARI DA TAMA TICS PRIV ATE
+LIMITED.
+Name of other R TA
+Whether the Company has complied with Regulation 39 of SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015*Yes
+If No, specify the reason
+Any other disclosure w .r.t. compliance of any SEBI Act, Regulation, Circular or provision
+Any other information
+Remarks (website dissemination)
+Remarks for Exchange (not for Website dissemination)
+General Information
+Name of the Company* TITAGARH RAIL  SYSTEMS LIMITED
+NSE Symbol* TITAGARH
+BSE Scrip Code* 532966
+MSEI Symbol* NOTLISTED
+ISIN* INE615H01020
+Type of Announcement* New
+Type of Event* Issue of duplicate share certificates/Letter of Confirmation
+Details of other event
+Date of original announcement
+Remarks (website dissemination)
+Remarks for Exchange (not for Website Dissemination)
+Date of Report 17-04-2024
+Issue of Duplicate Shar e Certificates/Letter  of Confirmation
+Number of shareholders to whom duplicate share certificate/Letter of Confirmation has
+been issued*4
+Details of Shareholders to whom duplicate share certificate/Letter of Confirmation has been issued
+Date of receipt of
+information for issue
+of duplicate share
+certificate/Letter of
+Confirmation*Name*Folio
+NumberNumber
+of
+SharesOld
+Certificate
+NumberNew
+Certificate/Letter
+of Confirmation
+NumberDistinctive NumberReason for issue of
+duplicate share
+certificate/Letter of
+ConfirmationNon-
+Compliance
+trigger
+From ToFrom To From To
+15-04-2024MOHAMED
+CASSAM
+ASHRAFF &
+FATEMABIBI
+EBRAHIM
+BHAM0030805 54 NA NA 154125 154125 119294082 119294135 Duplicate Issue
+15-04-2024FATEMABIBI
+IBRAHIM BHAM
+& MOHAMED
+CASSAM
+ASHRAFF0045938 54 NA NA 154126 154126 119294136 119294189 Duplicate Issue
+15-04-2024JOANNA  ROSA
+VAZ0045939 3 NA NA 154127 154127 119235357 119235359 Duplicate Issue
+15-04-2024MANAS
+MANDAL0011606 5 NA NA 154128 154128 000129286 000129290 Duplicate Issue
+Name of Registrar and Transfer Agent (R TA) of the Company* MAHESHW ARI DA TAMA TICS PRIV ATE LIMITED.
+Name of other R TA
+Whether the Company has complied with Regulation 39 of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015*Yes
+If No, specify the reason
+Any other disclosure w .r.t. compliance of any SEBI Act, Regulation, Circular or provision
+Any other information
+Remarks (website dissemination)
+Remarks for Exchange (not for Website dissemination)

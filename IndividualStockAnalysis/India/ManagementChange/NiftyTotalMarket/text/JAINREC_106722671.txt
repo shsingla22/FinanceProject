@@ -1,0 +1,46 @@
+--- CIM_25795_WebXMLFile_20260803_190726659_2.xml (the exchange's structured disclosure) ---
+NSESymbol: JAINREC ; Name Of The Company: Jain Resource Recycling Limited ; Scrip Code: 544537 ; MSEISymbol: NOTLISTED ; ISIN: INE0YD401026 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-08-03 ; Start Time Of Board Meeting: 15:30:00 ; End Time Of Board Meeting: 16:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-03 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Kandaswamy Parmasivan ; Effective Date Of Reason Of Change: 2026-08-03 ; Salutation: Mr. ; Name Of The Person: Kandaswamy Parmasivan ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-08-03 ; Effective Date Of Resignation: 2026-08-03 ; Reason Of Resignation In Brief: Resigned on account of personal reasons ; Company Remarks: Resigned on account of personal reasons ; Name Of Director: Kandaswamy Parmasivan ; Name Of The Company In Which Holding Directorship: Nil ; Category Of Directorship: Nil ; Membership Of Board Committee: Nil
+
+--- Letter_of_Resignation_1.pdf ---
+Kandaswamy Paramasivan
+Adjunct Faculty/Guest Faculty
+Formerly Director General of
+Police /Director, Vigilance and
+Anti-Corruption, Chennai
+kandy@zmail.iitm.ac.in
+drkandy@alumni.iitm.ac.in
+
+Department of Data Science and
+Artificial Intelligence
+Department of Management
+Studies,
+Indian Institute of Technology,
+Sardar Patel Road,
+Chennai-600 036.
+044-2257 4589
+
+___________________________________________________________________________
+Dear Sir,
+August 3, 2026
+Sub: Resignation from the Office of Independent Director, Jain Resource
+Recycling Limited
+I hereby tender my resignation from the Board of Jain Resource Recycling Limited as an
+Independent Director, with effect from 3 August 2026 Forenoon. This decision is on
+account of personal reasons.
+I request that this be placed before the Board and disclosed as required under Section 168 of
+the Companies Act, 2013.
+
+With best wishes to the Company,
+Yours sincerely,
+
+(Kandaswamy Paramasivan)
+Independent Director
+DIN: 10918218
+To
+The Chairman, Board of Directors
+Jain Resource Recycling Limited
+The Lattice, Old No. 7/1, New No. 20, 4th Floor,
+Bishop Ezra Sargunam Road, Kilpauk,
+Chennai 600 010, Tamil Nadu, India
+
+

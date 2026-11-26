@@ -1,0 +1,229 @@
+ 
+ 
+ 
+ 
+ 
+April 21 , 202 5 CS&G/STX/ JQ202 5/11 
+1) National Stock Exchange of India Limited  
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+Scrip Symbol: KFINTECH  2) BSE Limited  
+Phiroze Jeejeebhoy Towers , 
+Dalal  Street,  
+Mumbai – 400 001  
+Scrip Code: 543720  
+ 
+Sub.  : Transcript  of Conference Call  
+Dear Sir / Madam,  
+Further to our previous intimation bearing reference no. CS&G/STX/JQ202 5/07 dated April  16, 202 5, 
+please find enclosed herewith the transcript of the Conference Call held on April  16, 202 5, in respect 
+of Acquisition of Ascent Fund Services (Singapore) Pte. Ltd. by the Company . 
+The transcript can also be accessed on the Company’s  website at the following link:  
+https://investor.kfintech.com/wp -content/uploads/2025/04/KFintech -Update -on-Ascent -Concall -
+Transcript.pdf   
+This is for your information and records.  
+Thanking you,  
+Yours faithfully,  
+For KFin Technologies Limited  
+Alpana Kundu  
+Company Secretary and Compliance Officer  
+ICSI Membership No.: F10191  
+Encl.: a/a  
+ 
+  Page 1 of 22 
+  
+ 
+  
+“KFin Technologies Limited 
+Update Conference Call”  
+April 16, 2025 
+ 
+ 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT : MR. SREEKANTH NADELLA – MD AND CEO 
+ M R. VIVEK MATHUR – CFO 
+ M R. AMIT MURARKA – HEAD IR 
+ 
+ 
+ 
+ 
+ 
+
+        KFin Technologies Limited 
+  April 16, 2025 
+Page 2 of 22 
+ 
+Moderator: Ladies and gentlemen, good day, and welcome to the Update Conference Call of KFin 
+Technologies Limited, hosted by IIFL Securities Limited. As a reminder, all participant lines 
+will be in the listen-only mode and there will be an opportunity for you to ask questions after 
+the presentation concludes. Should you need assistance during the conference call, please signal 
+an operator by pressing star, then zero on your touchtone phone. Please note that this conference 
+is being recorded. 
+ I now hand the conference over to Mr. Amit Murarka. Thank you, and over to you, sir. 
+Amit Murarka: Thank you. Good day all. Thanks for joining this call at a very short notice. We have the 
+management team of KFintech, Mr. Sreekanth Nadella, who is the MD and CEO; Mr. Vivek 
+Mathur, who is the CFO; and me, Amit Murarka - Head IR. The purpose of this call is to give 
+an update in terms of the transaction that KFin has just signed with Ascent Fund Services. 
+ I'll hand over the mic to Mr. Sreekanth to take you through the transaction and the deal. Over to 
+you, Sreekanth. 
+Sreekanth Nadella: Thank you, Amit. Very good evening, good morning, good afternoon, depending upon which 
+part of the geography you are in. Once again, my sincere thanks for joining on a very short 
+notice. My team would have circulated some content around it. 
+ Today marks a very important day, very important moment and a milestone day, if I may, in the 
+overall journey line of KFintech. As we have been articulating for a while now, our North Star, 
+our vision had been and will continue to be the first large global fund administrator domiciled 
+in India. 
+ In that context, today, we have a very important announcement to make, an announcement that 
+we firmly believe is fully aligned, complements and supplements our vision to be one of the 
+world's leading fund administrator over a period of time, delivering significant value to the fund 
+managers, to the entire intermediary ecosystem, delivering through frugal engineering and 
+highly innovative solutions and a workforce whilst strategic. 
+ Today, we have signed an agreement with Ascent Fund Services, which is based out of 
+Singapore. And I will, over the next 20, 25 minutes, walk you through some of the deal dynamics 
+and the rationale as to why we have chosen Ascent and why they too have chosen KFintech in 
+this journey line, and we'll leave the floor open for questions subsequent to that. 
+ Ascent Fund Services as an organization is 5 years in the making, but probably one of the fastest-
+growing fund administrators across the Asian region and probably even the world in terms of 
+the impressive growth percentages they've clocked. 
+ As an organization, it's currently present or rather the client are present across 18 different 
+countries spreading across the continents of Asia, Europe, Americas and even part of Africa as 
+well. The organization has its financial year starting in the month of July. So it's not necessarily 
+aligned with that of India. 
+        KFin Technologies Limited 
+  April 16, 2025 
+Page 3 of 22 
+ 
+ But if you were to take the 6 months ending '25, the total revenue that has been clocked is roughly 
+about $13.5 million. And with a current run rate of roughly about $1.5 million, it is continuing 
+to grow over 35% year-on- year. And a fund size, total funds that are being supported by the 
+organization are a little over 576 funds. 
+ As an organization, they are a full-stack provider. They render transfer agency services, fund 
+accounting services, corporate services and solutions, which I will double down a little bit more 
+or double-click a little bit more in a little while from now in terms of what does that entail. 
+ It's also a fintech company providing fit-for-purpose services in the capital market infrastructure 
+space, much like KFintech does today, providing value-added solutions services through its 
+technology as a component, whether it is data lake solutions, mobility, analytics, cloud solutions, 
+what have you. 
+ The overall transaction allows KFintech an immediate control stake of about 51% and with a 
+very definitive path to gain 100% ownership over the next 5 years. From our overall investment 
+corpus spend standpoint, we are committed to infuse about close to $30 million as a secondary 
+and $5 million as primary, making the organization valued at $63 million pre-money and about 
+$68 million post money. 
+ And as I said, this $34.7 million gives KFintech a 51% control as and when the infusion of cash 
+happens. The transaction itself will take anywhere between 3 to 4 months in our opinion, given 
+this is a highly regulated business. Both the entities, Ascent and KFintech has to take approvals 
+from the relevant regulators. 
+ So if it is KFintech, it is from SEBI, PFRDA, what have you. And if it is Ascent from the 
+regulator's office from Singapore, from Hong Kong and other parts of the world where they are 
+currently domiciled delivering the services at this point in time. 
+ Post the investment, it will have the three founders of Ascent and KFintech to be the principal 
+shareholders. I will explain to you in a little while from now in terms of the current -- the 
+shareholding structure of this entity. The remaining 49%, KFintech is poised to acquire from the 
+year FY '28, '29 and '30 in the tranches of 16.3% each, that gets us to 49%, and we would get 
+51% at the time of infusement of cash. And hence, we get to total 100% by end of fiscal year 
+FY '30. 
+ The valuation for the outer years is contingent and dependent on the performance by the 
+organization, business performance in terms of margins, EBITDA to be more specific. And 
+overall, we believe that the transaction is highly accretive for our organization and definitely to 
+add significant value to the entire ecosystem. 
+ We are looking at closing the transaction sometime between July and August 2025. As I said, 
+post the signatures, which have happened today, we will immediately be proceeding with the 
+downstream steps in terms of reaching out to the regulators on to the next steps. 
+ I will, over the next few minutes, give a quick glance in terms of Ascent Fund Services as an 
+organization. As I said, it's headquartered in Singapore, started in 2019 Fund Solutions and 
+        KFin Technologies Limited 
+  April 16, 2025 
+Page 4 of 22 
+ 
+services, which is basically a fund administrator job, primarily that of what KFintech does today, 
+houses really about 92% of the total revenue. 
+ Corporate Solutions is largely solutions in terms of whether it is financial statements preparation, 
+items around data, items around certain advisory services, which are at a corporate level, data 
+stack, all of that basically adds about another 8.5% to the total revenue book, that's the corporate 
+solutions. Fintech Solutions, pretty small at this point in time, probably about 0.5%, but holds a 
+significant amount of promise into the coming years. I would explain to you in terms of what 
+exactly falls within that. 
+ Primarily, it could be a fit-for-purpose services, whether it is just rendering KYC solutions or 
+anti-money laundering screening solutions to analytics, so on and so forth. These Fintech 
+solutions unlike in India, are largely decoupled in the rest of the world from the RTA services 
+and hence, offers us a great opportunity to look at various other fund houses who may not 
+necessarily be our clients at this point in time, but are very happy to extend immediately Fintech 
+type of activities from a scope of servicing standpoint. 
+ As an organization, Ascent is globally spread out, 23 offices cutting across 13 different countries 
+with a fair bit of delivery happening between India and Malaysia. And of course, you have sales 
+and account management functions residing in the local offices in the various other 23 or other 
+13 countries that I'm talking about. 
+ It is also very exciting to note that they have six licenses across Middle East, whether it is DIFC 
+or with ADGM, definitely, of course, in Singapore and in Hong Kong and IFSC within the GIFT 
+City and looking to expand into other geographies as we speak. 
+ Totally, 576 funds live at this point in time, managing the total assets under administration to 
+the tune of $24 billion. These numbers are all as of H1 of fiscal '25 for the client -- sorry, for the 
+Ascent Fund Services. From a fund domiciliation also, it's a very nicely spread out in terms of 
+our own corporate objectives in terms of how we intend to scale up our global fund 
+administration business. 
+ Singapore continues to be the single largest base as they are headquartered there. Cayman Islands 
+has another 25% of the total number of funds domiciled in that part of region and serviced 
+through a combination of onshore and offshore locations. Saudi Arabia, BVI structures occupy 
+the remaining 20-odd percent of the geography spread out, if I may. 
+ And just as well as the geographical spread out is also the spread out of asset mix. The private 
+equity, the VC, the RE, high-frequency funds, they occupy roughly about 40% of the total asset 
+mix and another a little over a third of that being occupied by the hedge funds and the rest of 25-
+odd percent through digital funds, which is a combination of whether it is tokenized solutions or 
+whether it is unitized partial REITs, InvITs, what have you, including crypto. So that's a very, 
+very interesting mix of asset classes. 
+ And if you see, it spectacularly complements that KFin's solutions. As you all know, KFin is 
+largely a mutual fund player, largely public market funds and largely an RTA player. And what 
+Ascent offers is exact diagrammatically opposite, but a complementing mix of both the type of 
+        KFin Technologies Limited 
+  April 16, 2025 
+Page 5 of 22 
+ 
+assets, the type of business services and the geographies where they are currently servicing, 
+right? 
+ As I said, from a revenue standpoint for the fiscal year FY '24, they ended with about $13-plus 
+million in revenue. And the current run rate is roughly about $1.5 million, which means that we 
+have a line of sight even based on just the current run rate to be over $18 million of revenue on 
+an annualized basis. 
+ The recurring nature of the revenue is a very, very important facet of our business. Again, much 
+like KFintech, 92%, 93% of the total revenues are recurring in nature. And the gross margins, 
+which are healthy in the context of how nascent this organization is just 5 years into it, already 
+getting to about 52% plus. Gross margins is a very healthy indicator in terms of the scale and 
+the productivity the organization is able to deliver. Purely on the margin standpoint, continue to 
+clock losses, but at velocity, which is decreasing quite dramatically. 
+ For the fiscal year FY '24, it ended with pretty much a marginal loss at an EBITDA level of 0.7 
+million, but has turned positive in the first half of FY '25. So that clearly is a path from 30-odd 
+percent negative EBITDA already turning positive. And with a whole lot of synergies and the 
+scale benefits that will start to accrue from here on, we expect a quicker turnaround in terms of 
+the margins as well. 
+ As an organization, it's largely in terms of the relationship, it's at a business class level, every 
+type of asset, every business process, whether it is fund administration, transfer agency. In fact, 
+Ascent offers some more additional solutions and services even when compared to KFintech, 
+especially on the advisory services in the upstream activities, fund setup, right, which is a very, 
+very important aspect of it, whereas KFin today, as you know, broadly starts once the fund setup 
+happens largely from an operation standpoint. 
+ So purely from a value chain as well, it is one step beyond what we currently add. And hence, 
+it's a hugely complementary item, one that obviously we intend to leverage for our expansion 
+from a KFintech standpoint as well. And a very, very good, strong broader market connectivity 
+the organization has, which is important, obviously. 
+ Like us, it's very, very important to be able to have a large-scale integrations with most number 
+of custodians and being regulated by so many different entities of different countries, while it 
+comes with its own cost, but definitely adds a whole lot of confidence to every single client as 
+they understand and realize that as an organization, we have been delivering spectacular job in 
+terms of being compliant with every single transaction, every single scheme, fund, house level 
+and at every geography level broadly, right? So the 13 countries, we will publish probably a 
+little bit more detailed note. 
+ But broadly, as I said, much of that is today between Southeast Asia and Cayman Islands. Middle 
+East is a very, very promising geography in terms of, obviously, the potential that it has and 
+more importantly, being one of the early mover advantage that we have as an organization. It is 
+a full-stack service and solutions. The overall leadership itself, while the organization is just 

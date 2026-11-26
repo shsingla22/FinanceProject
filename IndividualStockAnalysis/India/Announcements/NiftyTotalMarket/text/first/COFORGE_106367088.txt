@@ -1,0 +1,151 @@
+ 
+Coforge Limited                                                                                    Registered office:                                                                www.coforge.com  
+Special Economic Zone, Plot No. TZ -2& 2A                                      Plot No. 13, Udyog Vihar, Phase -IV, Sector -18,      Secretarial@coforge.com  
+Sector - Tech Zone, Greater Noida (UP) - 201308, India                 Palam Road, Gurugram - 122015, Haryana, India                                     
+T: +91 120 4592300 | F: +91 120 4592 301                                         T: +91 124 6642800                 CIN: L72100HR1992PLC128382  September 0 7, 2025 
+ 
+The Manager,  
+Department of Corporate Services 
+BSE Limited  
+Floor 25, P.J. Towers,  
+Dalal Street, Mumbai – 400 001 
+BSE Scrip  code:  532541 
+Equity ISIN:  INE591G01025 
+ The General  Manager,  
+Department  of Corporate Services  
+National Stock  Exchange  of India  Limited  
+Exchange Plaza,  
+Plot No. C/1, G Block, Bandra Kurla Complex, Bandra, Mumbai – 400 051 
+NSE  Scrip  code:  COFORGE  
+ 
+Dear Sir/Madam,  
+ Subject: Sustainability Report for FY 2024-25 
+ 
+Please find enclosed herewith the Company’s  Sustainability Report for the financial year 2024-25.  
+ 
+Thanking you, 
+ 
+Yours faithfully , 
+ For Coforge Limited  
+ 
+ 
+Barkha Sharma  
+Company Secreta ry & Compliance Officer  
+ Encl.: As above 
+  
+ 
+  
+ 
+
+
+Coforge Limited  |  2 
+Growth with purpose
+At Coforge, growth is not just about numbers; it is more about creating an impact that lasts. While profitability remains a priority, we 
+see it as part of a larger journey, one that advances environmental stewardship, social responsibility and sound governance.
+Our strategy reflects this belief. Sustainability is embedded at every step, championed by our leadership, shaped through active en -
+gagement with our stakeholders and strengthened by robust governance. By aligning our financial success with tangible social and 
+environmental outcomes, we aim to create shared prosperity.
+A clear conviction continues to guide us: every business milestone must contribute to a more inclusive and equitable future. With 
+innovation, transparency and accountability at the heart of our actions, we are driving growth with a greater purpose – delivering 
+enduring value to our customers, employees, investors and the communities we serve.
+Image
+
+Coforge Limited  |  3 
+Sustainability Report 2024-25Contents
+About the report 4
+Highlights 8
+Message from the CEO 14
+About Coforge 
+- Expanding horizons 
+- Our ESG strategy16
+21
+22
+Stakeholder engagement 27
+Materiality assessment 30
+Environment 
+- Climate strategy 
+- Emissions and energy 
+- Water and waste41
+42
+44
+48
+Social 
+- Workforce overview and employee engagement 
+- People and belongingness 
+- Learning and development 
+- Employee health, safety and well-being 
+- Talent acquisition and retention 
+- Employee feedback mechanisms 52
+54
+55
+61
+64
+68
+71
+Our CSR commitment 72
+Governance 
+- Ethics and compliance 
+- Tax strategy 
+- A diverse Board 
+- Information, cybersecurity and data privacy 
+- Supplier engagement and due diligence76
+77
+81
+84
+89
+93
+Assurance statement 99
+GRI index 106
+Coforge Limited  |  4 
+About the report
+Our commitment to transparent communication
+This is Coforge’s Sustainability Report for the fiscal year 2024-25 (FY25), which highlights our performance and commitment towards 
+sustainable development, covering a range of environmental, social and governance (ESG) aspects. This report provides an overview 
+of our sustainability practices, goals and achievements, offering stakeholders an in-depth insight into the progress we have made 
+towards building a more sustainable future.
+Reporting period
+The information, performance indicators and achievements detailed in this report pertain to the fiscal year from April 1, 2024, to March 31, 2025. We have 
+included relevant comparisons with the previous years to provide a comprehensive understanding of our performance trends and progress.
+Reporting principles and standards
+This report has been prepared following globally recognised sustainability reporting frameworks and standards, including the Global Reporting Initiative 
+(GRI) Standards 2021, which provide the foundation for disclosing material ESG issues. In preparing the report, we have adhered to the Reporting Principles 
+as outlined by the GRI and have considered the Universal Standards, Topic Standards and the Integrated Reporting Framework.
+As part of our commitment to enhancing transparency and accountability, we aim to align our sustainability reporting with the IFRS S2: Climate-related 
+Disclosures, in the future.
+Coforge Limited  |  5 
+Sustainability Report 2024-25Alignment with the UN SDGs
+SDG Action 
+SDG 1 No poverty • Community development:  Our partnership with BAIF created an integrated livelihood approach to enhance the income and food security of 
+over 10,000 villagers affected by fluoride contamination, including marginalised and underserved communities.
+SDG 2 Zero hunger • Agricultural support: We supported commercial cultivation in fluoride-affected areas and promoted organic farming. These efforts helped 
+improve food security and sustainable agricultural practices.
+SDG 3  Good health and 
+well-being  • Healthcare initiatives:  We implemented various healthrelated projects, which included providing healthcare support to specially  
+abled children and their families. Also, we organised health camps for screening and evaluation. 
+• Employee well-being:  To safeguard the health and well-being of our employees, we extended comprehensive health and accident insurance 
+and complemented this with wellness programmes, including the establishment of an employee welfare trust.  
+SDG 4  Quality education • Public library:  Our flagship CSR initiative, The Coforge Public Library, provided individuals from all walks of life with the opportunity to access 
+knowledge, learn and grow. 
+• Educational support: 
+• We set up STEM labs, offered higher -education sponsorships and established the Coforge Data & AI Lab at IIT-BHU, Varanasi, to enable 
+students and researchers to learn the best models of AI and apply them to solve pressing social problems.
+• We supported Vidya & Child to provide educational support to marginalised children. 
+• We sponsored Udayan ITVT Centres to provide high-quality vocational training to underserved adolescents                                                                        
+SDG 5  Gender equality  • Educational support: 
+• We supported the Udayan Shalini Programme to provide educational and holistic support to adolescent girls. 
+• We sponsored female students for an AI-related Data Science Course at the Women in Technology (WIT) Roundtable 2024. 
+• Women entrepreneurship:  We sponsored programmes run by CYDA for women entrepreneurs from marginalised backgrounds to  
+start their small-scale businesses.
+SDG 6  Clean water and 
+sanitation  • Clean water:  Our partnership with BAIF focused on widening access to clean water and fostering economic empowerment. 
+• Training: We trained 5,000 sanitation workers across our operational locations and provided safety gear. 
+SDG 7  Affordable and 
+clean energy  • Increasing RE share:  We transitioned our Greater Noida campus to 100% green energy and recorded onsite solar power generation of 53,280 
+kWh in FY25. 100% of our fleet runs on CNG. 
+SDG 8  Decent work and 
+economic growth  • Employment and skill development:  Coforge's digital skilling interventions, entrepreneurship training and formal education programmes for 
+students helped create decent work opportunities and fostered economic growth. 
+• We follow ethical business practices by ensuring fair wages and remuneration and provided a safe, healthy working environment that 
+supported sustainable growth. These commitments were upheld through our Code of Conduct, Supplier Code of Conduct and Human Rights 
+policies. 
+• Several of our CSR initiatives supported vocational training and created livelihood opportunities for underserved communities. 

@@ -1,0 +1,75 @@
+--- CIM_780_WebXMLFile_20260812_165712331_1.xml (the exchange's structured disclosure) ---
+NSESymbol: ELECTCAST ; Name Of The Company: ELECTROSTEEL CASTINGS LIMITED ; Scrip Code: 500128 ; MSEISymbol: NA ; ISIN: INE086A01029 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-12 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-12 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: President – Growth, Business Control and Coal ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Manoj Kumar Thakur ; Effective Date Of Reason Of Change: 2026-08-12 ; Salutation: Mr. ; Name Of The Person: Manoj Kumar Thakur ; Designation Of Person: President – Growth, Business Control and Coal ; Date On Which The Resignation Letter Was Received: 2026-07-14 ; Effective Date Of Resignation: 2026-08-12 ; Reason Of Resignation In Brief: Personal Reasons
+
+--- CIMG_500128_12082026165701_2.pdf ---
+12 August, 2026
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Fort,
+Mumbai – 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra Kurla Complex,
+Bandra (E),
+Mumbai – 400 051
+
+Scrip Code: 500128
+
+Symbol: ELECTCAST
+
+Dear Sir/Madam,
+Sub: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015, we would like to inform that Mr. Manoj Kumar Thakur, President – Growth, Business Control and
+Coal of the Company, have resigned from the services of the Company due to personal reasons, with
+effect from closing hours of 12 August, 2026 and shall cease to be Senior Management Personnel of the
+Company with effect from the aforesaid date.
+Further, as per the requirements of Regulation 30 read with Schedule III, Para A, Clause (7C) of SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, the copy of the resignation letter
+submitted by Mr. Manoj Kumar Thakur confirming that, there are no material reasons for his resignation
+other than those mentioned by him is enclosed herewith.
+The requisite details as prescribed under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, read with SEBI Master Circular No. HO/49/14/14(7)2025CFDPOD2/I/3762/2026 dated 30 January 2026, are enclosed herewith.
+Disclosure Requirements
+Name of Senior Managerial Personnel
+Reason for change
+
+Date of cessation, as applicable
+Brief Profile
+Disclosure of relationships between directors
+Information as required under BSE circular no.
+LIST/COM/14/ 2018-19 and NSE circular no.
+NSE/CML/2018/24 both dated June 20, 2018.
+This is for your information and records.
+Thanking you.
+Yours faithfully,
+For Electrosteel Castings Limited
+
+INDRANIL
+MITRA
+
+Digitally signed by
+INDRANIL MITRA
+Date: 2026.08.12 16:29:02
++05'30'
+
+Indranil Mitra
+Company Secretary
+ICSI: A20387
+Encl: as above
+
+Details
+Mr. Manoj Kumar Thakur
+Resignation due to personal reasons w.e.f. 12
+August, 2026.
+He has confirmed that there is no other reason for
+his resignation apart from those stated in his
+resignation letter.
+12 August, 2026
+Not Applicable
+Not Applicable
+Not Applicable
+
+
+

@@ -1,0 +1,80 @@
+--- CIM_19166_WebXMLFile_20261013_174635902_2.xml (the exchange's structured disclosure) ---
+NSESymbol: NAZARA ; Name Of The Company: NAZARA TECHNOLOGIES LIMITED ; Scrip Code: 543280 ; MSEISymbol: NOTLISTED ; ISIN: INE418L01047 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-12 ; Start Time Of Board Meeting: 16:15:00 ; End Time Of Board Meeting: 16:40:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 5 ; Date Of Report: 2026-10-13 ; Type Of Change: Change in designation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Previous Designation Of Designated Person: Managing Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Nitish Mittersain ; Effective Date Of Reason Of Change: 2026-10-13 ; Designation Of Designated Person: Executive Director ; Previous Designation Of Designated Person: Non-Executive Director ; Name Of Designated Person: Mithun Padam Sacheti ; Effective Date Of Reason Of Change: 2026-10-12 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Rohit Sharma ; Effective Date Of Reason Of Change: 2027-01-12 ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Name Of Designated Person: Rakesh Shah ; Effective Date Of Reason Of Change: 2026-10-16 ; Type Of Change: Appointment ; Name Of Designated Person: Arun Agarwal ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Arun Agarwal is a Chartered Accountant, who brings over two decades of rich experience in finance and business strategy across global organizations. Before joining us, Arun has served as Global CFO at Ness Digital Engineering, a Global PE owned organization and at Mastek Limited, listed on an Indian stock exchange, where he played a pivotal role in driving financial growth and transforming finance into a strategic enabler for business transformation. His expertise in structuring complex financial deals, optimizing business profitability, and ensuring operational efficiency has significantly contributed to scaling the company and achieving long-term business success. Earlier, Arun held leadership roles at Firstsource Solutions, General Electric, Wipro, and Tata Motors. Arun comes with a strong foundation in Corporate Planning, Business Analytics, Controllership, Treasury, International Taxation, M&A and Investor Relations. ; Salutation: Mr. ; Name Of The Person: Rohit Sharma ; Designation Of Person: Executive Director ; Date On Which The Resignation Letter Was Received: 2026-10-12 ; Effective Date Of Resignation: 2027-01-12 ; Reason Of Resignation In Brief: to pursue Entrepreneurial opportunities ; Name Of The Person: Rakesh Shah ; Designation Of Person: Chief Financial Officer ; Effective Date Of Resignation: 2026-10-16 ; Reason Of Resignation In Brief: to pursue a career opportunity outside the Company
+
+--- Resignation_letter_1.pdf ---
+Annexure A
+
+Date: 12/10/2026
+To
+
+The Board of Directors
+Nazara Technologies Limited
+
+Sub: Resignation from the Offi ce of Whole-time D irector
+Dear Members of the Board,
+I hereby submit my resignation from the office of Whole-time Director of Nazara Technologies
+Limited.
+I wish to inform yo u that I have decided to pursue Entrepreneurial opportunities and therefore I
+will be unable to devote the time and attention req uired as the Whole ti111e Director and have
+decided to step down from my positio n.
+In accordance with the terms of my appointment, I shall serve the applicable n o tice period of three
+(3) months from the date of this letter. Accordingly, my resignation s hall become effective from
+the dose of business hours on 11/01/ 2027 being upon completion of the notke period, or such
+other date as may be mutually agreed by the Company and me.
+I would like to express my sincere gratitude to the Board, m anagement team and employees of the
+Company for theiI support and cooperation during my tenure. It has been a privilege to be
+associa ted with the Company and contribute to its growth and development.
+I req uest the Board to kindly take note of my resignation and take all necessary s teps to give effect
+to the sam e, including making the requisite r egulatory filings and disclosures.
+I confirm tha t there are no material reasons fo r m y resignation other than those stated above.
+Thank you .
+Yours sincerely,
+
+\
+
+Roh it Shanna
+Whole-time Director
+DIN: 01738942
+
+•
+
+*
+
+•
+
+~za
+
+~
+
+
+Annexure C
+
+October 12, 2026
+To
+
+The Board of Directors
+Nazara Technologies Limited
+Subject: Resignation from the position of Chief Financial Officer
+
+Dear Members of the Board,
+I hereby resign from the position of Chief Financial Officer and Key Managerial Personnel of Naza ra
+Technologies Limited, with effect from the close of business hours on October 15, 2026.
+
+This decision has been made to ena ble me to pursue a career opportunity outside the Company. My
+journey at Nazara has been immense ly enriching and rewarding. I am grateful for the trust,
+responsibility, and support that I have received throughout my tenure.
+I would like to express my sincere gratitude to the Board and the Audit Committee for their guidance,
+encouragement, and confidence in me.
+I shall continue to be available to the Compa ny for a period of 90 days from the effective date of my
+resignation for t he purpose of facilitating transition of responsibilities and providing such assistance as
+may be required .
+I take this opportunity to wish t he Company and its stakeholders contin ued success in all future
+endeavours.
+I confirm that there are no material reasons for my resignation other than those stated above .
+Thank you.
+
+Yours sincerely,
+
+Rakesh Shah
+
+

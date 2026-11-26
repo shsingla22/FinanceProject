@@ -1,0 +1,166 @@
+ 
+  
+Aurionpro Solutions Limited  Synergia IT Park,  
+Plot No. R-270, T.T.C. Industrial Estate Rabale,  
+Navi Mumbai -400 701 Maharashtra - INDIA    +91-22-4040 7070  
+  +91-22-4040 7080  
+  info@aurionpro.com  
+  www.aurionpro.com  
+ 
+ 
+July 27, 2026 
+To, 
+BSE Limited 
+PJ. Towers, Dalal Street  
+Mumbai-400001 
+Script Code: 532668 To, 
+National Stock Exchange of India Ltd, 
+Exchange Plaza, Bandra Kurla Complex, 
+Bandra (East), Mumbai -400051 
+Symbol: AURIONPRO 
+ 
+Sub: Press Release 
+Dear Sir/Madam, 
+Kindly find enclosed herewith a press release relating to announcement of unaudited financial 
+results of the Company for the quarter ended 30th June, 2026.  
+This is for your kind information and record. 
+Thanking You, 
+Yours faithfully, 
+ 
+ 
+For Aurionpro Solutions Limited  
+ 
+ 
+ 
+ 
+ 
+Ninad Kelkar 
+Company Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Press Release        
+ 
+Aurionpro Reports Q1 Revenue of ₹358 Crore; Adds 23 New Customer Logos Amid Continued Deal 
+Momentum  
+ 
+Revenue grew 6.3% year -on-year despite external disruptions, reflecting business resilience . 
+  
+Mumbai, July  27th, 2026 : Aurionpro  Solutions Limited  (BSE: 532668)  (NSE: AURIONPRO),  a global 
+enterprise technology leader pioneering intuitive -tech through domain led  IPs and scalable products, 
+announced  its unaudited financial results for the f irst quarter ended 30thJune, 2026.  
+ 
+Financial Highlights  
+Particulars (INR Cr)*  Q1 FY27 Q4 FY26 QoQ Q1 FY 26 YoY 
+Revenue  358 346 3.6%  337 6.3%  
+EBITDA  61 67 (8.0%) 68 (9.08%) 
+EBITDA %  17.2% 19.3% (210 bps)  20.2% (300 bps)  
+PAT 45 61 (27.6%)  51 (12.6%) 
+PAT %  12.6% 18.0% (540 bps)  15.3% (270 bps)  
+ 
+*All numbers  have  been  rounded  off 
+ 
+Results Highlights:  
+Q1 FY27: 
+• Revenue  for the quarter  stood  at Rs. 358 Cr, a growth  of 6.3% on a YoY basis.  
+o Banking  and Fintech  segment  reported  a growth  of 4.7%, reaching  Rs.201 Cr. 
+o Technology  Innovation  Group  recorded  a growth  of 8.4%, amounting  to Rs. 157 Cr. 
+• EBITDA  for Q1FY27  stood  at Rs. 61 Cr and margins for the quarter stood at 17%. 
+• PAT stood  at Rs. 45 Cr, with  PAT margins  at 13% 
+ 
+Operational Highlights:  
+Banking & Fintech : 
+• Aurionpro secured its largest -ever U.S. order win, signing a three -year contract worth over USD 33 
+million with a leading digital insurance payments platform. The engagement spans platform 
+enhancement, cloud, AI and data engineering services, further deepe ning a longstanding client 
+relationship.  
+ 
+• Aurionpro secured a six -year contract from Ujjivan Small Finance Bank for the implementation of its 
+flagship iCashpro+ integrated transaction banking platform.  
+ 
+• Fenixys , an Aurionpro Company , secured strategic trea sury transformation engagements with Ajman 
+Bank, to verify and validate the Bank’s Islamic Treasury Management System built on the Murex MX.3 
+platform, marking a critical phase in the bank’s ongoing efforts to reinforce the integrity, control, and 
+resilien ce of its treasury operations.  
+ 
+  
+• Aurionpro secured a five -year contract from Honda Finance India Pvt. Ltd. for the implementation of its 
+Integro Lending Suite, covering Retail & Dealer Finance, Dealer Portal, and FOS App, along with its AI 
+module, Arya.  
+ 
+Technology Innovation Group : 
+• Aurionpro secured a prestigious contract for the Design and installation of the Automatic Fare 
+Collection (AFC) System for Mumbai Metro Line 4 and Extension Corridor (4A) undertaken by MMRDA  
+for a deal value of INR 50 crores.  
+ 
+• Aurionpro received a variation order for the design and installation of the Automatic Fare Collection 
+(AFC) System for Phase I, Phase II & Phase III metro network of DMRC.  
+ 
+ 
+• Aurionpro, through its subsidiary Aurotoshi , in partnership with Hitachi , secured a contract from 
+Bangalore Metro Rail Corporation Limited (BMRCL)  for the supply of automated gate systems.  
+ 
+Commenting on the performance , Ashish Rai, Group CEO of Aurionpro Solutions , said : 
+Q1 was a quarter of disciplined execution amid good deal closures and accelerating project revenue 
+conversion. Revenue conversion improved from Q4, and sequential growth was stronger than typically seen 
+in Q1 in recent years, but conversion remains modestl y below our normal trajectory. This reflects transient 
+factors: seasonality, raising input costs due to supply chain disruptions, timing shifts in a few projects, and 
+geopolitical disruption in MEA. We expect these effects to normalise over the next one to  two quarters. 
+Importantly, we enter the year with a strong order book across Banking and TIG and improving execution 
+momentum.  
+Demand across our businesses remains robust. We secured a significant Transaction Banking mandate 
+from a leading Indian bank and  added strategic wins across Transit as well Data Centre solutions. 
+Transaction Banking continues to see substantial opportunities in South Asia and MEA, with pipeline 
+traction building from our expansion into Southeast Asia and Europe. Enterprise AI offer ings from Arya.ai 
+are seeing strong demand across banking and insurance as customers move towards deployment. Transit 
+is becoming increasingly global, supported by a materially expanded pipeline. As Data Centre delivery 
+capacity comes online and execution scales, we expect growth to move above its recent 40 –50% trajectory 
+into a higher band.  The momentum across the transit and data center segments remains robust, reinforcing 
+their positions as high growth businesses . 
+We are entering a platform shift in banking software. As AI diffuses across business processes, software 
+will evolve from systems that record and automate to systems that reason, learn and act, with deep domain 
+and operational context. This gives Aurionpro an opportunity to reimagine softwar e that services mission -
+critical workflows and allow us to deepen wallet share and expand market share. We are completing key 
+build -outs across our AI -native banking stack; as they mature, we will redeploy capacity towards customer 
+implementations, acceler ating revenue conversion through the year. We will invest with conviction while 
+calibrating R&D to sustain healthy margins.  
+The true test of an enterprise is not whether conditions remain predictable, but whether it can adapt when 
+they do not and keep adva ncing its mission. The last couple of quarters and the geopolitical disruptions 
+tested us; our teams responded splendidly by broadening demand generation towards the US, Southeast 
+ 
+ Asia and Europe while executing with focus. With a strong order book, health y pipeline and improving 
+project momentum, we expect growth to build through the year and accelerate meaningfully in the second 
+half. Our long -term trajectory remains firmly intact, and our conviction in the opportunity ahead has never 
+been stronger.  
+Earni ngs Conference Call  
+Tuesday , July  28, 2026 at 4:00 PM IST 
+Following the announcement of Q 1FY27 results on July 27, 2026, the management of Aurionpro Solutions 
+Ltd will host a conference call on Tuesday, July 28, 2026 at 4:00 PM IST during which the management will 
+discuss the performance and answer questions from the participants. Details of the call are given below:  
+Conference Call Registration Link  
+Aurionpro Solutions Ltd Q1FY27 Conference Call - Link  
+ 
+About Aurionpro Solutions Limited  
+Aurionpro Solutions Ltd. is a global enterprise technology leader pioneering intuitive -tech through deep -
+tech IPs and scalable products. With a strong presence across Banking, Payments, Mobility, Insurance, 
+Transit, Data Centers, and Government Sectors, Aurionpro is setting new benchmarks for AI innovation and 
+impact. It’s B2E (Business -to-Ecosystem) approach empowers entire ecosy stems - driving growth, 
+transformation, and scale across interconnected value chains. Backed by 3,000+ experts and a global -first 
+mindset, Aurionpro is built to lead the next. For more information visit us at  
+ 
+A u r i o n p r o  S o l u t i o n s  L i m i t e d  ( B S E :  5 3 2 6 6 8 ,  N S E :  A U R I O N P R O )  
+F o r  f u r t h e r  i n f o r m a t i o n  o n  t h e  c o m p a n y,  p l e a s e  v i s i t   
+www.aurionpro.com  
+  
+ 
+Contact Information  Corporate Office  
+Aurionpro Solutions Limited  
+investorrelation@aurionpro. com Synergia IT Park, Plot No -R-270, T.T.C. Industrial 
+Estate, Near Rabale Police Station, Rabale, Navi 
+Mumbai - 400701, Maharashtra, India  
+  
+ 

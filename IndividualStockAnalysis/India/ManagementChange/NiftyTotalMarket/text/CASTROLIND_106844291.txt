@@ -1,0 +1,86 @@
+--- CIM_8975_WebXMLFile_20261104_152651578_1.xml (the exchange's structured disclosure) ---
+NSESymbol: CASTROLIND ; Name Of The Company: CASTROL INDIA LIMITED ; Scrip Code: 500870 ; MSEISymbol: NOTLISTED ; ISIN: INE172A01027 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-04 ; Time Of Occurrence Of Event Or Information: 14:28:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-11-04 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: NA ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Jyoti Prakash ; Effective Date Of Reason Of Change: 2026-01-14 ; Salutation: Mr. ; Name Of The Person: Jyoti Prakash ; Designation Of Person: NA ; Date On Which The Resignation Letter Was Received: 2026-11-04 ; Effective Date Of Resignation: 2026-01-14 ; Reason Of Resignation In Brief: To pursue opportunities outside the organization
+
+--- SE_Intimation_JP_Resignation_4_Nov_2026_2.pdf ---
+(castrol
+
+castrol.co.in
+
+4 November 2026
+The BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra Kurla Complex,
+Bandra East,
+Mumbai – 400 051
+
+Scrip Code: 500870
+
+Scrip Symbol: CASTROLIND
+
+Dear Sir/Madam,
+Sub.: Intimation under Regulation 30 of the Securities and Exchange Board of India
+(Listing Obligations and Disclosure Requirements) Regulations, 2015 - Resignation
+of Senior Management Personnel of the Company
+
+Pursuant to the provisions of Regulation 30 read with sub-para 7C of Para A of Part A of
+Schedule III of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“Listing Regulations”), we inform you of the
+resignation of Mr. Jyoti Prakash as Vice President & Head – Supply Chain of the Company
+(Senior Management Personnel position) to pursue opportunities outside the organization.
+He will cease to hold office with effect from close of business hours of 14 January 2027.
+Please find enclosed the resignation letter of Mr. Jyoti Prakash.
+Kindly take the above information on your record.
+Thank you.
+Yours sincerely,
+For Castrol India Limited
+Digitally signed by
+
+Hemangi
+Hemangi Yateen Ghag
+2026.11.04
+Yateen Ghag Date:
+14:42:42 +05'30'
+
+Hemangi Ghag
+Company Secretary & Compliance Officer
+Encl.: a/a
+
+Registered address:
+Castrol India Limited
+CIN: L23200MH1979PLC021359
+Technopolis Knowledge Park, Mahakali Caves Road, Andheri (East), Mumbai – 400093
+Tel: +91 22 7177 7111/ Fax: +91 22 6698 4101
+Customer Service Toll Free No: 1800222100 / 18002098100
+
+
+4 November 2026
+
+To,
+Saugata Basuray
+Managing Director
+Castrol India Limited
+
+Technopolis Knowledge Park,
+Mahakali Caves Road, Chakala,
+Andheri (East), Mumbai - 400 093
+Dear Saugata,
+Sub.: Resignation from the services of the Company
+
+I hereby tender my resignation as Vice President & Head - Supply Chain of Castrol India
+Limited to pursue opportunities outside the organization. I will continue in the role till 14
+January 2027 (close of business hours) to facilitate management of change.
+It has been an incredibly fulfilling journey for me, and I am grateful to the organization and
+the management for their unwavering support throughout my tenure.
+Thank you,
+Yours sincerely,
+
+Jyoti Prakash
+4
+
+Confidential
+
+

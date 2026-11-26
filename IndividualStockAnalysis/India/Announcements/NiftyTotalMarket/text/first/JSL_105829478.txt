@@ -1,0 +1,133 @@
+ 
+ 
+ 
+ 
+ 
+  
+  30th April, 2024 
+BSE Limited  
+ 
+Corporate Relationship Department,                                                            
+1st Floor, New Trading Ring,                                                                         
+Rotunda Building, P J Towers,                                                                     
+Dalal Street, Fort, Mumbai – 400 001  
+Ph. 022 - 2272 3121, 2037, 2041   
+Email: corp.relations@bseindia.com   National Stock Exchange of India Ltd.  
+ 
+Exchange Plaza, 5th Floor,                                                                    
+Plot no. C/1, G Block Bandra-Kurla Complex, Bandra (E), 
+Mumbai-400051 
+Ph. 022 -2659 8237, 8238, 8347, 8348 Email: cmlist@nse.co.in  
+Security Code No.: 532508  Security Code No. : JSL 
+ 
+Subject :  Disclosure in terms of the Chapter XIV - Centralized Database for corporate bonds/ 
+debentures of SEBI Operational Circular No. SEBI/HO/DDHS/P/CIR/2021/613 dated August 
+10, 2021 (updated as on April 13, 2022) (“SEBI Operational Circular”) 
+ 
+Dear Sir/Madam,  
+ 
+Pursu ant to Chapter XIV of the SEBI O perational Circular dated August 10, 2021 as amended, 
+for Centralized Database for corporate bonds/ debentures, please find enclosed herewith 
+‘Annexure XIV -B’ containing details for financial year ended March 31, 2024 as prescribed in 
+the SEBI Op erational Circular. 
+ 
+This is for your kind information and record. 
+Thanking You. 
+For Jindal Stainless Limited  
+ 
+Navneet Raghuvanshi 
+Head Legal & Company Secretary   
+Enclosed as above  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Annex  - XIV-B 
+ 
+List of data  fields  to be submitted  by issuer to stock  exchanges  on a periodical basis (once a 
+year) and/or ‘ as and when’ basis (event based)  
+ 
+1. Listing  Details:  
+ 
+Sl. 
+No. ISIN  Allotment  
+date Listing  
+date Listing  
+quantity  First  issue/  
+further  
+issue  Exchange  
+1. INE220
+G07119  24.02.2022  25.02.2022  3750  First issue  Bombay Stock 
+Exchange  
+2. INE220
+G08034  28.09.2022  03.10.2022  990 First issue  Bombay Stock 
+Exchange  
+(In case of restructuring of ISIN, the old ISIN may be marked as ‘restructured’ or the restructured  
+ISIN  may suitably  be flagged  for easy identification.  Furthermore, in case of  partly paid non-
+convertible debentures as and when  ISIN  has been  changed due to increase in face value, it should 
+be updated regularly in the centralised data base. Reissuances  or further issuance  under same ISIN  
+nomenclature with specific amount for the said reissuance or further issuance should be reflected 
+separately.)  
+ 
+2. A hyperlink of ‘Listing  Notification  by stock  exchange’  [final  approval]  hyperlink 
+(downloadable):  
+ 
+Sl. 
+No. ISIN  Listing  
+date Hyperlink  
+1. INE220G07119  25.02.2022  https://www.bseindia.com/markets/MarketInfo/
+DispNewNoticesCirculars.aspx?page=20220225
+-42 
+ 
+Link for listing notification of new ISIN which 
+was restructured post  creation of security over the 
+NCDs : 
+ 
+https://www.bseindia.com/markets/MarketInfo/
+DispNewNoticesCirculars.aspx?page=20230427
+-38 
+ 
+2. INE220G08034  03.10.2022  https://www.bseindia.com/markets/MarketInfo/
+DispNewNoticesCirculars.aspx?page=20221003
+-28 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+3. Details of record  date: The details of record date fixed by the Company during the f inancial year 
+2023 -24 towards payment of interest on NCDs has already been intimated to the stock exchanges 
+pursuant to Regulation 60 of SEBI (Listing Obligations and Disclosure Requirements) Reg ulations, 
+2015. Accordingly, the same has not been provided here again . 
+4. Details of  credit  rating : Details have been already provided on occurrence of events during f inancial 
+year 2023 -24. 
+5. Payment  Status:  The Company has made timely payment of interest duri ng the financial year                 
+2023 -24. The details of payment of interest on NCDs during the financial year 2023 -24 has already 
+been intimated to the stock exchanges pursuant to Regulation 57 of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015. Accordingly, the same has not been provided here again.  
+ 
+6. Default  history  information: Have  there  been  any defaults  / delays  in servicing  any other debt 
+security issued by the issuer? If yes, details thereof:   
+ 
+Nature 
+of the 
+issue  Issue 
+size Due date of 
+interest  / 
+redemption  Actual 
+payment  
+date details  Default 
+details  Verification status 
+of debenture 
+trustee (yes/ no)  Date of 
+verifica tio
+n 
+Not Applicable , the Company has not defaulted  / made any delay in servicing debt securities  
+ 

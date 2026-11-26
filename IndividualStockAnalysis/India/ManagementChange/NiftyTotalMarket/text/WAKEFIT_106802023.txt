@@ -1,0 +1,184 @@
+--- CIM_26417_WebXMLFile_20260930_125905325_1.xml (the exchange's structured disclosure) ---
+NSESymbol: WAKEFIT ; Name Of The Company: Wakefit Innovations Limited ; Scrip Code: 544642 ; MSEISymbol: NOTLISTED ; ISIN: INE0E7301029 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-30 ; Time Of Occurrence Of Event Or Information: 11:53:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-09-30 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Head -Human Resource ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Umanath Nayak ; Effective Date Of Reason Of Change: 2026-09-30 ; Type Of Change: Appointment ; Designation Of Designated Person: Chief Human Resource Officer ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Suman Yadav ; Effective Date Of Reason Of Change: 2026-10-01 ; Term Of Appointment In Months: 0 ; Brief Profile: Suman Yadav is a global human resources leader with over two decades of experience spanning technology, e-commerce, business process management, and the defence services. An alumna of IIM Bangalore (Certificate Programme in Business Management) and Symbiosis, Pune (PGDBA, Human Resource Management), and a Certified Independent Director registered with the Indian Institute of Corporate Affairs, she has a demonstrated track record of scaling organisations, building leadership pipelines, and designing people systems in high-growth environments. Previously, she served as Director, Human Resources at Amazon for close to thirteen years, leading global early career talent strategy across 40+ countries and 300+ universities, and earlier leading people strategy for Amazon's India technology organisation through its growth from approximately 150 to over 5,000 employees. She also founded NeonRay Consulting, advising boards and chief executives on people strategy, organisation design, and workforce transformation, and has earlier worked with Infosys BPM as a senior HR leader across multiple delivery centres. She began her career as a commissioned officer in the Indian Army, serving in the Corps of Electronics and Mechanical Engineers in the rank of Captain. ; Salutation: Mr. ; Name Of The Person: Umanath Nayak ; Designation Of Person: Head -Human Resource ; Date On Which The Resignation Letter Was Received: 2026-06-01 ; Effective Date Of Resignation: 2026-09-30 ; Reason Of Resignation In Brief: To pursue his personal goals and the next phase of his career
+
+--- CIMG_544642_30092026125718_2.pdf ---
+&wakefit
+Date: September 30, 2026
+BSE Limited,
+Phiroze Jeejeebhoy Towers,
+Dalal Street, Mumbai- 400001,
+Maharashtra, India
+
+National Stock Exchange of India Limited,
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex, Bandra (E),
+Mumbai – 400 051
+
+BSE Scrip Code: 544642
+
+NSE Scrip Symbol: WAKEFIT
+
+Subject: Change in Senior Management Personnel of Wakefit Innovations Limited(“Company”)
+Dear Sir/ Madam,
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (“SEBI Listing Regulations”), please be informed that
+Mr. Umanath Nayak, Head – Human Resource and Senior Management Personnel of the Company,
+has decided to pursue his personal goals and consequently has resigned from the services of the
+Company, with effect from close of business hours on September 30, 2026. A copy of his resignation
+letter along with the reasons is enclosed as ‘Annexure III’.
+Further, based on the recommendation of the Nomination and Remuneration Committee, the Board of
+Directors of the Company vide their Circular Resolution passed today i.e., September 30, 2026, have
+approved the appointment of Ms. Suman Yadav as the Chief Human Resource Officer (‘CHRO’)
+categorized as Senior Management Personnel (SMP) of the Company with effect from October 01,
+2026.
+The details of change in SMP as required under the SEBI Master Circular No. HO/49/14/14(7)2025CFD-POD2/I/3762/2026 dated January 30, 2026, are enclosed as ‘Annexure I’ & ‘Annexure – II’.
+You are requested to kindly take the same on record.
+Thanking you,
+Yours faithfully,
+For Wakefit Innovations Limited
+(formerly known as Wakefit Innovations Private Limited)
+signed by
+SURBHI Digitally
+SURBHI SHARMA
+Date: 2026.09.30
+SHARMA 12:41:33 +05'30'
+
+Surbhi Sharma
+Company Secretary and Compliance Officer
+Membership Number: A57349
+
+Wakefit Innovations Limited (formerly known as Wakefit Innovations Private Limited),
+
+Registered Office: Umiya Emporium, 97-99, 2nd and 4th Floor, Adugodi, Tavarekere, Opp. Forum Mall, Hosur Road, Bengaluru,
+Karnataka-56OO29, India. CIN: L5259OKA2O16PLCO86582, E: support@wakefit.co I W: wakefit.co I M: +91 98833 33123
+
+
+&wakefit
+Annexure-I
+Disclosure under sub‐para (7) of Para A of Part A of Schedule III of SEBI (Listing Obligations
+and disclosure Requirements) Regulations, 2015 read with SEBI Master Circular No. SEBI Master Circular no. SEBI/HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026.
+Sl.
+No
+1
+2
+3
+4
+5
+
+Particulars
+Name of SMP
+Reason for change viz. appointment, re-appointment, resignation, removal, death or otherwise
+Date of appointment/re-appointment/cessation (as applicable) & term of appointment/re-appointment
+
+Details
+Umanath Nayak
+Resignation
+
+Effective from close of
+business hours on September
+30, 2026
+Brief profile (in case of appointment)
+Not Applicable
+Disclosure of relationships between directors (in case of Not Applicable
+appointment of a director)
+
+Wakefit Innovations Limited (formerly known as Wakefit Innovations Private Limited),
+
+Registered Office: Umiya Emporium, 97-99, 2nd and 4th Floor, Adugodi, Tavarekere, Opp. Forum Mall, Hosur Road, Bengaluru,
+Karnataka-56OO29, India. CIN: L5259OKA2O16PLCO86582, E: support@wakefit.co I W: wakefit.co I M: +91 98833 33123
+
+
+&wakefit
+Annexure II
+Disclosure under sub‐para (7) of Para A of Part A of Schedule III of SEBI (Listing Obligations
+and disclosure Requirements) Regulations, 2015 read with SEBI Master Circular No. SEBI Master Circular no. SEBI/HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026
+Sl.
+No
+1
+2
+
+3
+4
+
+5
+
+Particulars
+
+Details
+
+Name of SMP
+Reason for change viz. appointment, reappointment, resignation,
+removal, death or otherwise
+
+Suman Yadav
+Based on the recommendation of the Nomination and
+Remuneration Committee, the Board of Directors of
+the Company vide their Circular Resolution passed
+today i.e., September 30, 2026, have approved the
+appointment of Ms. Suman Yadav as the Chief
+Human Resource Officer (‘CHRO’) categorized as
+Senior Management Personnel (SMP) of the
+Company with effect from October 01, 2026.
+Date and term of appointment
+Date of appointment :- October 1, 2026
+Term:- Full time employment.
+Brief profile (in case of appoint- Suman Yadav is a global human resources leader with
+ment)
+over two decades of experience spanning technology,
+e-commerce, business process management, and the
+defence services.
+An alumna of IIM Bangalore (Certificate Programme
+in Business Management) and Symbiosis, Pune
+(PGDBA, Human Resource Management), and a
+Certified Independent Director registered with the
+Indian Institute of Corporate Affairs, she has a
+demonstrated track record of scaling organisations,
+building leadership pipelines, and designing people
+systems in high-growth environments.
+Previously, she served as Director, Human Resources
+at Amazon for close to thirteen years, leading global
+early career talent strategy across 40+ countries and
+300+ universities, and earlier leading people strategy
+for Amazon's India technology organisation through
+its growth from approximately 150 to over 5,000
+employees.
+She also founded NeonRay Consulting, advising
+boards and chief executives on people strategy,
+organisation design, and workforce transformation,
+and has earlier worked with Infosys BPM as a senior
+HR leader across multiple delivery centres.
+She began her career as a commissioned officer in the
+Indian Army, serving in the Corps of Electronics and
+Mechanical Engineers in the rank of Captain.
+Disclosure of relationships be- Not Applicable
+tween directors (in case of appointment of a director)
+
+Wakefit Innovations Limited (formerly known as Wakefit Innovations Private Limited),
+
+Registered Office: Umiya Emporium, 97-99, 2nd and 4th Floor, Adugodi, Tavarekere, Opp. Forum Mall, Hosur Road, Bengaluru,
+Karnataka-56OO29, India. CIN: L5259OKA2O16PLCO86582, E: support@wakefit.co I W: wakefit.co I M: +91 98833 33123
+
+
+Annexure-III
+
+Date: - 01/06/2026
+To,
+Executive Director
+Wakefit Innovations Limited
+Bangalore
+Sub: - Resignation from the position of Head - HR
+
+Dear Sir,
+I hereby tender my resignation from the position of Head - HR of Wakefit Innovations Limited, to
+pursue my personal goals and the next phase of my career, effective September 30, 2026.
+Kindly process my resignation and relieve me from my duties effective close of business hours on
+September 30, 2026.
+I would like to thank the Management for providing me with the opportunity to be a part of Wakefit
+Innovations Limited. I wish the Company continued success in all its future endeavors
+Thanking you,
+
+~
+
+Umanath Nayak
+
+

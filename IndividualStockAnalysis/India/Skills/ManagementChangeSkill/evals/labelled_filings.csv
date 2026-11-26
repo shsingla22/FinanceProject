@@ -1,0 +1,49 @@
+ann_id,symbol,date,category,is_seat_change,group,note
+106715206,ADANIENT,2026-07-29,Appointment,no,,director appointed; past CEO role in profile
+106743407,AMBER,2026-08-14,Appointment,no,,CFO of a subsidiary
+106605929,AUROPHARMA,2026-04-30,Retirement,no,,chief business officer retired
+106812595,BATAINDIA,2026-10-09,Resignation of Director/KMP/SMP,no,,vice president resigned
+106621289,BHARTIARTL,2026-05-13,Appointment,no,,re-appointment of directors
+106673784,BPCL,2026-06-25,Change in Management,no,,senior management left to become Director (Finance) of another company
+106584856,CANBK,2026-04-09,Change in Director(s),no,,additional charge of MD & CEO extended (same interim holder)
+106484464,CANFINHOME,2025-12-31,Resignation,no,,nominee director resigned on retiring as MD of the parent bank
+106783577,CONCOR,2026-09-17,Change in Management,no,,group general manager appointed
+106847129,DABUR,2026-11-05,Resignation of Director/KMP/SMP,no,,CEO joins the board as executive director; seat unchanged
+106493886,DMART,2026-01-10,Change in Management,yes,CEO/MD,MD & CEO term ends; CEO designate appointed
+106845279,GMMPFAUDLR,2026-11-04,Resignation of Director/KMP/SMP,yes,CFO,Group CFO resigned
+106481535,GNFC,2025-12-29,Appointment,yes,CEO/MD,new MD nominated by the state government
+106803016,GNFC,2026-09-30,Cessation,no,,independent director tenure completed
+106665708,GRASIM,2026-06-17,Resignation of Director/KMP/SMP,no,,CEO of the textiles business (division)
+106556628,GREAVESCOT,2026-03-13,Appointment,yes,CFO,CFO resigned; new Group CFO
+106688626,HINDPETRO,2026-07-07,Change in Management,yes,CFO,Director (Finance) appointed CFO
+106513912,IIFL,2026-01-30,Change in Management,no,,head of construction and real estate (senior management)
+106605733,INDUSINDBK,2026-04-30,Change in Management,no,,senior management list
+106513242,INTELLECT,2026-01-30,Appointment,no,,executive director appointed; related to the CMD
+106837545,IREDA,2026-10-30,Change in Director(s),yes,CEO/MD,new CMD assumed charge
+106712256,JKPAPER,2026-07-27,Appointment,no,,director appointed; MD of another company
+106633192,JSWCEMENT,2026-05-21,Change in Management,no,,whole-time director & CEO re-appointed
+106733172,JSWENERGY,2026-08-08,Change in Director(s),no,,director profile
+106851097,JUBLFOOD,2026-11-06,Resignation of Director/KMP/SMP,no,,company secretary resigned
+106472357,KAJARIACER,2025-12-19,Resignation,no,,chief operating officer resigned
+106520359,LLOYDSENGG,2026-02-04,Change in Management,no,,director appointed; past roles in profile
+106766933,MANYAVAR,2026-09-02,Change in Director(s),no,,independent directors appointed; past roles in profiles
+106619194,MFSL,2026-05-12,Cessation,no,,director profile
+106624420,NAVA,2026-05-15,Change in Director(s),no,,former MD continues as non-executive director
+106624441,NAVA,2026-05-15,Change in Director(s),no,,former MD continues as non-executive director
+106487494,OFSS,2026-01-05,Resignation,no,,non-executive director resigned
+106730094,PFOCUS,2026-08-06,Change in Director(s),no,,auditor change
+106748308,POWERGRID,2026-08-18,Appointment,yes,CFO,Director (Finance) assumed charge
+106729210,PREMIERENE,2026-08-06,Change in Director(s),no,,managing director re-appointed
+106830079,RADICO,2026-10-27,Appointment,no,,"CFO made whole-time director, keeps the CFO seat"
+106723783,SAFARI,2026-08-04,Change in Management,yes,CFO,new CFO appointed (redesignation)
+106740147,SANSERA,2026-08-12,Change in Management,no,,executive director & CEO of a division
+106470238,SBIN,2025-12-17,Change in Director(s),no,,tenure of a managing director extended (re-appointment)
+106579636,SUNPHARMA,2026-04-04,Appointment,no,,independent director appointed
+106528926,TATACOMM,2026-02-10,Change in Management,yes,CFO,CFO appointed
+106546728,TBOTEK,2026-02-27,Cessation,no,,list of senior management
+106595743,TI,2026-04-21,Resignation of Director/KMP/SMP,no,,chief of internal audit resigned
+106798987,TRIDENT,2026-09-28,Resignation,yes,CEO/MD,Group CEO resigned
+106836885,VMM,2026-10-30,Change in Director(s),no,,director profile
+106606082,WELSPUNLIV,2026-04-30,Resignation of Director/KMP/SMP,no,,director – manufacturing (senior management) resigned
+106608514,WOCKPHARMA,2026-05-04,Change in Management,no,,senior management appointed; past MD role in profile
+106579463,ZAGGLE,2026-04-03,Change in Management,yes,CFO,"CFO resigned, interim CFO appointed"

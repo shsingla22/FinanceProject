@@ -1,0 +1,43 @@
+stage,detail,at
+nse,"2024-03-31→2024-03-31: 120 filings, 0 restructuring rows for the universe",2026-11-16T13:08:55+00:00
+nse,"2024-04-01→2024-04-30: 13200 filings, 0 restructuring rows for the universe",2026-11-16T13:08:59+00:00
+nse,"2024-05-01→2024-05-31: 22121 filings, 2 restructuring rows for the universe",2026-11-16T13:09:03+00:00
+nse,"2024-06-01→2024-06-30: 11970 filings, 7 restructuring rows for the universe",2026-11-16T13:09:08+00:00
+nse,"2024-07-01→2024-07-31: 16384 filings, 4 restructuring rows for the universe",2026-11-16T13:09:12+00:00
+nse,"2024-08-01→2024-08-31: 21792 filings, 0 restructuring rows for the universe",2026-11-16T13:09:16+00:00
+nse,"2024-09-01→2024-09-30: 16107 filings, 0 restructuring rows for the universe",2026-11-16T13:09:20+00:00
+nse,"2024-10-01→2024-10-31: 14437 filings, 0 restructuring rows for the universe",2026-11-16T13:09:24+00:00
+nse,"2024-11-01→2024-11-30: 15904 filings, 1 restructuring rows for the universe",2026-11-16T13:09:28+00:00
+nse,"2024-12-01→2024-12-31: 10282 filings, 1 restructuring rows for the universe",2026-11-16T13:09:33+00:00
+nse,"2025-01-01→2025-01-31: 13503 filings, 0 restructuring rows for the universe",2026-11-16T13:09:36+00:00
+nse,"2025-02-01→2025-02-28: 16946 filings, 1 restructuring rows for the universe",2026-11-16T13:09:40+00:00
+nse,"2025-03-01→2025-03-31: 10697 filings, 1 restructuring rows for the universe",2026-11-16T13:09:46+00:00
+nse,"2025-04-01→2025-04-30: 11105 filings, 1 restructuring rows for the universe",2026-11-16T13:10:06+00:00
+nse,"2025-05-01→2025-05-31: 20159 filings, 2 restructuring rows for the universe",2026-11-16T13:10:10+00:00
+nse,"2025-06-01→2025-06-30: 12316 filings, 0 restructuring rows for the universe",2026-11-16T13:10:14+00:00
+nse,"2025-07-01→2025-07-31: 16214 filings, 0 restructuring rows for the universe",2026-11-16T13:10:18+00:00
+nse,"2025-08-01→2025-08-31: 20395 filings, 0 restructuring rows for the universe",2026-11-16T13:10:22+00:00
+nse,"2025-09-01→2025-09-30: 16323 filings, 0 restructuring rows for the universe",2026-11-16T13:10:26+00:00
+nse,"2025-10-01→2025-10-31: 11392 filings, 0 restructuring rows for the universe",2026-11-16T13:10:29+00:00
+nse,"2025-11-01→2025-11-30: 16577 filings, 0 restructuring rows for the universe",2026-11-16T13:10:33+00:00
+nse,"2025-12-01→2025-12-31: 10353 filings, 1 restructuring rows for the universe",2026-11-16T13:10:36+00:00
+nse,"2026-01-01→2026-01-31: 12719 filings, 1 restructuring rows for the universe",2026-11-16T13:10:40+00:00
+nse,"2026-02-01→2026-02-28: 16386 filings, 0 restructuring rows for the universe",2026-11-16T13:10:45+00:00
+nse,"2026-03-01→2026-03-31: 11051 filings, 0 restructuring rows for the universe",2026-11-16T13:10:48+00:00
+nse,"2026-04-01→2026-04-30: 12531 filings, 0 restructuring rows for the universe",2026-11-16T13:10:52+00:00
+nse,"2026-05-01→2026-05-31: 20748 filings, 0 restructuring rows for the universe",2026-11-16T13:10:57+00:00
+nse,"2026-06-01→2026-06-30: 14580 filings, 1 restructuring rows for the universe",2026-11-16T13:11:02+00:00
+nse,"2026-07-01→2026-07-31: 16973 filings, 1 restructuring rows for the universe",2026-11-16T13:11:06+00:00
+nse,"2026-08-01→2026-08-31: 21035 filings, 0 restructuring rows for the universe",2026-11-16T13:11:10+00:00
+nse,"2026-09-01→2026-09-30: 17153 filings, 1 restructuring rows for the universe",2026-11-16T13:11:14+00:00
+nse,"2026-10-01→2026-10-31: 14049 filings, 1 restructuring rows for the universe",2026-11-16T13:11:18+00:00
+nse,"2026-11-01→2026-11-16: 11301 filings, 1 restructuring rows for the universe",2026-11-16T13:11:22+00:00
+nse,"total 486823 filings read, 27 kept",2026-11-16T13:11:22+00:00
+nse-bm,"58894 board-meeting intimations read, 0 restructuring purposes kept",2026-11-16T13:12:21+00:00
+deep,"store 218224 filings (700 new); 370 to read (first 6 pages, ≤8 MB)",2026-11-16T13:12:23+00:00
+deep,"done: 95708 filings read, 9240 carry a restructuring tag",2026-11-16T13:14:04+00:00
+deep,9213 filings join from the first-pages read; 9240 NSE rows carry a restructuring tag,2026-11-16T13:14:04+00:00
+register,6 demerger record dates from NSE's register join as filings,2026-11-16T13:14:04+00:00
+deep,"store reconciled: 0 rows re-tagged, 0 stale rows dropped",2026-11-16T13:14:04+00:00
+text,fetching text for 79 attachments,2026-11-16T13:14:04+00:00
+text,9577 attachments with text on file,2026-11-16T13:15:50+00:00

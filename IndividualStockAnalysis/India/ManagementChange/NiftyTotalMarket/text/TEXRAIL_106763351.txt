@@ -1,0 +1,51 @@
+--- CIM_4128_WebXMLFile_20260831_230230225_1.xml (the exchange's structured disclosure) ---
+NSESymbol: TEXRAIL ; Name Of The Company: TEXMACO RAIL & ENGINEERING LIMITED ; Scrip Code: 533326 ; MSEISymbol: NOTLISTED ; ISIN: INE621L01012 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-31 ; Time Of Occurrence Of Event Or Information: 18:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-08-31 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Kishor Kumar Rajgaria ; Effective Date Of Reason Of Change: 2026-08-31 ; Salutation: Mr. ; Name Of The Person: Kishor Kumar Rajgaria ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-08-14 ; Effective Date Of Resignation: 2026-08-31 ; Reason Of Resignation In Brief: Mr. Kishor Kumar Rajgaria has tendered his resignation due to personal reasons.
+
+--- CIMG_533326_31082026230117_2.pdf ---
+31st August, 2026
+National Stock Exchange of India Ltd.
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex,
+Bandra (E), Mumbai – 400051
+Symbol - TEXRAIL
+
+BSE Limited
+P. J. Towers,
+Dalal Street,
+Mumbai – 400001
+Scrip Code - 533326
+
+Sub: Intimation regarding Cessation of Chief Financial Officer of the Company – Disclosure
+under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015
+Dear Sirs,
+In furtherance to our earlier intimation dated 14th July 2026 regarding the resignation of Shri Kishor
+Kumar Rajgaria, Chief Financial Officer of the Company, we wish to inform you that Shri Kishor
+Kumar Rajgaria has been relieved from the services of the Company with effect from close of
+business hours on Monday, 31st August, 2026.
+Accordingly, with reference to the details provided in Annexure I to our earlier intimation dated
+14th July 2026, the effective date of cessation of Shri Kishor Kumar Rajgaria as the Chief Financial
+Officer of the Company is Monday, 31st August, 2026.
+The details as required under the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 read with SEBI Circular No. HO/49/14/14(7)2025-CFD-POD2/1/3762/2026 dated
+30th January, 2026, were already disclosed to the Stock Exchanges vide our aforesaid intimation dated
+14th July 2026.
+This is for your information and record.
+Thanking you,
+Yours faithfully,
+For Texmaco Rail & Engineering Limited
+SANDEEP
+KUMAR
+SULTANIA
+
+Digitally signed by
+SANDEEP KUMAR
+SULTANIA
+Date: 2026.08.31
+22:23:11 +05'30'
+
+Sandeep Kumar Sultania
+Company Secretary &
+Compliance Officer
+
+

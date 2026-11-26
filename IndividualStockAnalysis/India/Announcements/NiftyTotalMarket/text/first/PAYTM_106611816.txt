@@ -1,0 +1,182 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+One 97 Communications Limited  
+ 
+compliance.officer@paytm.com   
+ 
+www.paytm.com  Corporate Office - One Skymark, Tower -D, Plot No. H -10B, Sector -98, Noida -201304  
+ 
+T: +91120 4770770     F: +91120 4770771  CIN: L72200DL2000PLC108985  
+ 
+Registered Office -  136, First Floor, Devika Tower, Nehru Place, New Delhi -110019 
+ 
+ 
+May 06, 2026  
+BSE Limited  
+Department of Corporate Services, 
+Phiroze Jeejeebhoy Towers,  
+Dalal Street, Fort,  
+Mumbai - 400 001  
+ 
+Scrip Code: 543396  National Stock Exchange of India Limited  
+The Listing Department, Exchange 
+Plaza,  
+Bandra Kurla Complex, Mumbai -400 051 
+ 
+Symbol: PAYTM  
+Sub:   Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015 - Earnings Release  
+Dear Sir/ Ma’am,  
+In continuation to our earlier letter dated April 28, 2026, and pursuant to Regulation 30 of SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015 read with applicable circulars issued in this regard from time to time, please find enclos ed copy of Earnings Release for the quarter and 
+financial year ended March 31, 2026.  
+The Earnings Release will also be hosted on the Company's website viz.  
+https://ir.paytm.com/financial- results . 
+Kindly take the same on record.  
+Thanking you  
+Yours Sincerely,  
+ For One 97 Communications Limited  
+  
+Sunil Kumar Bansal  
+Company Secretary & Compliance Officer  
+FCS: 4810  
+ 
+Encl:. as Above  
+ 
+ 
+ 
+Q 4 F Y 2 0 2 6 · E A R N I N G S R E L E A S E
+FOR THE QUARTER AND YEAR ENDING MARCH 2026
+Powered
+by AI.
+Built for India .
+Earnings Release Date
+6 May 2026  Earnings Call
+7 May 2026 , 8:00 AM IST  
+*Note: FY 2025 PAT includes a one -time gain of ₹1,345 Cr on sale of the entertainment business and a one -time charge of ₹522 Cr towards 
+acceleration of ESOP expense and other impairments. FY 2026 PAT includes a one -time charge for full impairment of ₹190 Cr loan t o our JV, First 
+Games Technology Pvt. Ltd.Earnings Release  | Q4 FY 2026
+EBITDA improved from ₹(1,506) Cr in FY25 to ₹502 Cr in FY 2026. PAT stood at ₹552 Cr versus ₹(663) Cr a 
+year ago, a ₹1,215 Cr improvement, or ₹2,228 Cr excluding one -time items* in both years .FY 2026
+A Year Of Disciplined Compounding; 
+First Full Year Of Profit
+A ₹2,008 Cr EBITDA swing, in twelve months
+REVENUE
+₹8,437 Cr
++22%  YoYEBITDA
+₹502 Cr
++₹2,008 Cr YoY |6% marginPAT
+₹552 Cr
++₹1,215 Cr  YoY
+1.Market share gains on both merchant and consumer payments
+Consumer UPI GTV growth at 2.2x industry levels. Merchant GMV increased 27% YoY. This was 
+driven by continued product innovation and disciplined execution
+2.Payment processing margin expanded to >4 bps
+Improvement from previous guidance of >3 bps a year ago, driven by pricing discipline and 
+higher growth of profitable MDR bearing instruments including credit cards on UPI and 
+affordability offerings such as EMI
+3.Distribution of Financial services revenue scaled to ₹2,593 Cr
+Revenue grew 52% YoY, translating to a ₹890 Cr increase YoY, reflecting a high -growth, 
+high-margin engine
+4.AI-led operating leverage reflected in cost optimization 
+Revenue growth, increase in contribution margin, discipline on cost and using AI across the 
+organization. Strong operating leverage embedded in our business model
+Q 4  FY 2026
+Strong Growth In Revenue And 
+ProfitabilityEarnings Release  | Q4 FY 2026
+Note: The above -mentioned YoY trends indicate movement on a “Reported basis | Comparable basis”EBITDA stood at ₹132 Cr, representing an improvement of ₹330 Cr on a
+comparable basis
+Reported numbers are impacted by the discontinuation of the PIDF scheme, and FY 2026 UPI incentive is yet to 
+be finalised . We were able to achieve our guidance of 30 -40% offset of PIDF impact in Q4 FY 2026. 
+Our organic growth and profitability is improving substantially, reflected in robust EBITDA growth QoQ (comparable basis), 
+despite Q4 being a seasonally weaker quarter following the strong festive period. Performance is presented on both reported 
+and comparable (excluding UPI and PIDF incentive) basis.Summary P&L (Q4 FY 2026, reported and comparable)
+(Quarter ending, in ₹ Cr) Mar'25 Dec'25 Mar'26 QoQ YoY Commentary
+Operating Revenue (Reported) (A) 1,911 2,194 2,264 3% 18%
+Revenue momentum continues,
+led by market share gains in
+both merchant and consumer
+payments, and growth in 
+distribution of financial servicesLess: PIDF Incentive (B) 50 88 10 (89%) (80%)
+Less: UPI Incentive (C) 70 0 0 NA NA
+Operating Revenue (Comparable) (A -B-C) 1,791 2,106 2,254 7% 26%
+Contribution Profit (Reported) (D) 1,071 1,249 1,254 0% 17%Improvement in contribution
+margin (comparable) on account 
+of increase in payment 
+processing margin and rising 
+share of high margin distribution 
+of financial servicesContribution Margin % 56% 57% 55% (2 p.p) (1 p.p)
+Contribution Profit (Comparable) (D -B-C) 951 1,161 1,244 7% 31%
+Contribution Margin % 53% 55% 55% - 2 p.p
+EBITDA (Reported) (E) (88) 156 132 (15%) nmRobust improvement in organic 
+EBITDA and EBITDA margin 
+(comparable)
+As guided, we have offset 30 -
+40% of PIDF impact in Q4 FY 
+2026 and will target further offset 
+over timeEBITDA Margin % (5%) 7% 6% (1 p.p) 11 p.p
+EBITDA (Comparable) (E -B-C) (208) 68 122 79% nm
+EBITDA Margin % (12%) 3% 5% 2 p.p 17 p.p
+Note: p.p-Percentage PointsREVENUE
+₹2,264  Cr
++18% YoY |+26% YoYCONTRIBUTION PROFIT
+₹1,254  Cr
++17% YoY |+31% YoYEBITDA
+₹132 Cr
++₹220 Cr YoY | +330 Cr 
+YoY improvement
+Earnings Release  |Q4 FY 2026
+L O O K I N G  F O R W A R D  T O  F Y  2 0 2 7  
+Built the business with a strong foundation, reflecting industry -leading 
+customer monetisation and cost disciplineGrowth Acceleration Accompanied 
+By Margin Expansion
+Revenue growth is expected to accelerate with further EBITDA margin expansion, 
+driven by four compounding engines that are already in motion
+1. Expansion of merchant payments
+Sustained GMV and revenue growth, supported by market share gains and expanding payment 
+processing margins
+2. Structural growth in high -margin merchant loans distribution business
+Supported by expanding lender participation, growing device merchant base, and rising penetration 
+3. Consumer lifecycle monetization
+Investments in AI -led product innovation are reflecting in market share gains and monetization. 
+Momentum seen in payments, loan distribution and wealth, with full -year benefit expected in FY 2027
+4. Continued use of AI across the organisation and AI -led operating leverage
+Revenue and contribution profit are expected to grow meaningfully faster than indirect expenses led by 
+AI applications across our businesses, supporting further EBITDA margin expansion
+0 1  /  M E R C H A N T  P A Y M E N T S  
+The Core Acquisition EngineEarnings Release  | Q4 FY 2026
+Paytm is increasingly embedded in merchants’ day -to-day operations, making us a 
+core partner in their growth journey
+MERCHANT GMV
+Q4 FY 2026
+₹6.5 L Cr
++27% YoYMERCHANT SUBSCRIPTIONS 
+Q4 FY 2026
+1.51 Cr
++27 Lakh YoYNET PAYMENT REVENUE
+Q4 FY 2026
+₹583Cr
++25% YoY (Comparable)PAYMENT MARGIN
+Q4 FY 2026
+>4bps
+from >3bps a year agoConsistent growth in Payments GMV, expansion in Payment Processing Margin and increase in 
+Device Subscriptions
+1. Acceleration in merchant GMV growth
+From 24% YoY in Q3 to 27% YoY in Q4, due to investments in products, distribution and service. 
+Long runway ahead due to market expansion and market share gains 
+2. Higher growth of profitable MDR bearing instruments 
+Payment processing margins expanded to comfortably above 4 bps, marking a structural and 
+sustained improvement 
+3. Subscription merchants reached 1.51 Cr
+We added 27 lakh net devices YoY. With increase in lifetime value, we have passed on some of the 
+benefits of reduction in device cost to our most engaged device merchants. This strengthens retention 
+and market share, while driving higher overall monetisation
+4. The Soundbox is increasingly becoming indispensable
+Soundbox is no longer a payment confirmation device alone, but a small business operating 
+system, deployed at 1.51 Cr storefronts across India

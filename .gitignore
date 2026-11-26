@@ -1,2 +1,11 @@
 __pycache__/
 *.pyc
+
+# large source PDFs are kept on disk, re-fetched on demand; their text and indexes are committed
+IndividualStockAnalysis/India/InvestorPresentations/NiftyTotalMarket/**/*.pdf
+IndividualStockAnalysis/India/AnnualReports/NiftyTotalMarket/**/*.pdf
+IndividualStockAnalysis/India/Announcements/_bhav_bundles/
+
+# derived caches of the ManagementChangeSkill (rebuilt on demand)
+IndividualStockAnalysis/India/ManagementChange/NiftyTotalMarket/_scan_cache.json.gz
+IndividualStockAnalysis/India/ConferenceCalls/NiftyTotalMarket/.text_cache/

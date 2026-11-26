@@ -1,0 +1,398 @@
+
+=== page 1 ===
+ 
+Ref No: RML/202 5-26/627 
+ 
+Date: November 4, 2025  
+ To,  
+BSE Limited        National Stock Exchange of India Limited  
+Scrip Code: 543228       Symbol: ROUTE  
+ 
+Dear Sir/Madam,   
+ Sub:  Investor Presentation  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations 2015, we 
+are enclosing herewith the Investor Presentation, that will be presented on  Tuesday, November 4, 2025 to the 
+Analysts in connection with the Unaudited Financial Results  (Standalone and Consolidated)  of the Company for 
+the quarter  and half year  ended  September  30, 2025. 
+ 
+The same is also available on the Company’s website at www.routemobile.com
+ 
+ 
+You are requested to take the above information on record.  
+ Thanking you  
+ Yours truly, For Route Mobile Limited  
+  
+ 
+Tejas Shah  
+Company Secretary & Compliance Officer  
+ICSI Membership No.: A34829  
+ 
+Encl : as above  Registered & Corporate Office: 
+Route Mobile Limited 
+San Raj Corporate Park -4th Dimension, 3rd floor, 
+Mind Space, Malad (West), Mumbai -400 064, India 
++97 22 4033 7676/77-99 I Fax: +97 22 4033 7650 
+info@routemobile.com I www.routemobile .com 
+CIN No: L72900MH2004PLC746323 
+=== page 2 ===
+Earnings Update
+H1 FY 25 -26
+Investor Presentation
+November 3, 2025
+A Company
+=== page 3 ===
+2
+Certain statements mentioned inthis presentation concerning our future growth prospects are forward looking statements (the“Forward
+Statements”) and arebased onreasonable expectations ofthe management, which involves anumber ofrisks, and uncertainties that could cause
+actual results todiffer materially from those insuch Forward Statements .The risks and uncertainties relating tothese Forward Statements include,
+but arenot limited to,risks and uncertainties regarding fluctuations inour earnings, fluctuations inforeign exchange rates, revenue and profits, our
+ability togenerate and manage growth, competition inCPaaS globally, wage increases inIndia, our ability toattract and retain highly skilled
+professionals, time and cost overruns onfixed -price and fixed time frame contracts, industry segment concentration, our ability tomanage our
+international operations, our revenues being highly dependent onclients inthe United States ofAmerica, reduced demand fortechnology inour
+key focus areas, disruptions intelecommunication networks orsystem failures, our ability tosuccessfully complete and integrate potential
+acquisitions, liability fordamages onourservice contracts, withdrawal offiscal governmental incentives, political instability, adverse impact ofglobal
+pandemics (including COVID -19impact), war, legal restrictions onraising capital oracquiring companies, unauthorized use ofour intellectual
+property(ies) and general economic conditions affecting our businesses and industry .We may, from time totime, make additional written and oral
+Forward Statements .We donot undertake toupdate any Forward Statements that may bemade from time totime byusoronour behalf, unless
+required under thelaw.Safe Harbor
+••• 
+routemobile 
+communication simplified 
+=== page 4 ===
+3Route Mobile -Industry Leading 
+Global CPaaS Platform
+RML offers a scalable and flexible 
+Omnichannel CPaaS platform to enterprises 
+across industry verticals, globally
+280+ direct MNO connects, overall  access to 
+900+ MNOs (Super Network)
+Global footprint across 20+ locations ;
+2,500+ active billable clients
+Infrastructure comprising 20+ data centers
+and 6 SMSCs globally
+ESG leader, rated“A” by a reputed ESG 
+rating agency   
+Visionary in Magic Quadrant for CPaaS 2025 –Gartner
+Key Vendor in four Hype Cycle Reports –Gartner
+“Top Tier 1 A2P SMS vendor” –Rocco₹45,290 mn Revenue for LTM ended 30 Sept 2025
+₹5,024 mn EBITDA for LTM ended 30 Sept 2025
+84.4 bn Billable transactions processed in H1 25-26
+Board recomm ended ₹3per share interim 
+dividend
+82% CFO / EBITDA conversion in H1 FY25 -26
+₹ 10,470 mn Cash as on 30 Sept 2025••• 
+• 
+• 
+• 
+• 
+• 
+• • 
+• 
+• 
+• 
+• 
+• 
+=== page 5 ===
+4
+Global Diaspora -Footprint & Super Network
+20+ virtualized Data Centers15 Firewalls deployed
+18 Hubs
+791 Employees
+280+ Super Network
+Widespread global 
+distribution & reach 
+Data as on September 30, 2025 
+Americas
+Direct MNO 53
+Employees 199
+Middle East
+Direct MNO 15
+Employees 26
+India
+Direct MNO 6
+Employees 531
+APAC
+Direct MNO 36
+Employees 2
+Europe
+Direct MNO 110
+Employees 31
+Africa
+Direct MNO 64
+Employees 2
+••• 
+* 
+* ------ --* --* ------
+* 
+• f) 
+A V 
+• 
+• 
+=== page 6 ===
+Key Developments
+=== page 7 ===
+6Key Developments inQ2 25-26
+Empowered one of South 
+Asia’s leading eCommerce 
+giants to process over 170+ 
+million email messages within 
+a 24 hour window through our 
+scalable, enterprise grade 
+Email Communication 
+PlatformLeveraged partnership with 
+Tech Mahindra to onboard one 
+of the Largest Global Logistics 
+Provider as a customer for our 
+A2P SMS services across 
+multiple geographies.Enabled one of the globe’s 
+Largest Hyperscalers to unlock 
+premium RCS messaging 
+services and drive next 
+generation customer 
+engagement across India
+••• 
+routemobile 
+communication simplified 
+=== page 8 ===
+7Strong Traction for New Products
+New Products Revenue
+(in ₹ mn) 
+775 830 939
+Q2 24-25 Q1 25-26 Q2 25-26Seamless Bus Ticket Booking 
+on WhatsApp with Shohoz
+•Bangladesh’s leading online ticketing platform now 
+simplifies travel through WhatsApp 
+•Users can scan a QR or send “Hi” to start booking 
+instantly within the chat 
+•Enables seat selection, boarding, and payment —all 
+in one conversation 
+•Powered by robust integrations with Shohoz’s
+backend and custom automation logic
+••• 
+routemobile 
+communication simplified {9whatsApp 
+20:25 (9 I! TOI II "' • 
+~ sh0tioz Shohoz 0 
+Hi 13:04 ✓/ 
+sh· hoz 
+Hello! Thank you for messaging 
+Shohoz. I'm here to help you book 
+your bus ticket in just a few steps! 
+fi Buy Bus Tickets 
+fi Chat with Agents 
+Shohoz 0 13:04 
+Q Hello! Thank you for messaging 
+Shohoz. I'm here to help you book 
+your bus ticket in just a few steps! 
+Buy Bus Tickets 
+@ ~essage 13:05 ✓/ • • • / 
+' 2Q:3Q IJ TOI TOI ~ CD • 
+~ sh0tioz Shohoz 0 
+Please find below the Bus Seat available 
+for bookings : 
+UA4 UA5 UA6 
+UB4 UBS UB6 
+UC4 ucs UC6 
+UD4 UDS UD6 
+UE4 UES UE 6 
+Green: Available seat 
+Red: Unavailable 
+White: Corridor/pathway 
+Please provide seat number in 
+comma-separated format. 
+e.g.UA4,UB4,UC4 
+Note: More than 4 seats are not allowed. 
+_ Seat selection time: Max 4 minutes. 
+(9 Seat Hold/Reserve time: 15 minutes 
+from Payment Gateway. 
+: If you want to go back, click the 
+button below. 
+@ ~essage 
+<J D 19:48 • • • 
+-'I growth 
+21.20/o '(-o -Q growth 
+1?,.10/0 Q.-0 ➔ 
+=== page 9 ===
+Key Business Metrics
+=== page 10 ===
+9Social/ Internet; Edtech and Technology companies
+Increasing use of communication APIs to drive 
+customer engagementDigital communication solutions for Banking,
+Insurance and Payment gateways 
+Social/ Internet; Edtech and Technology companies
+MNOs and telecom OEMs
+Increasing use of communication APIs to
+drive customer engagement Top tier 1 CPaaS partners across the globe15%Diverse Customer Base
+Revenue contribution from select industries in H1 25 -26
+EcommerceFinServ
+Digital native
+Telecom & allied Services
+Retail, Travel & HospitalityTier 1 CPaaS partners11%
+10%
+9%
+4%
+2%Revenue for Top 50 
+countries by termination(1)
+Revenue by customer HQ 
+continent(2)
+(1) Top 50 countries contribute c. 91% of  H1 25-26 revenue from operations  
+(2) Top 150 customers -contribute c. 90% of  H1 25-26 revenue from operations48%
+14% 12% 10% 9% 8%
+India Asia excl.
+IndiaEurope Americas Middle
+EastAfrica
+42%
+34%
+12%
+2%
+Americas Asia Europe Africa••• 
+r r r r 
+T 
+routemobile 
+communication simplified 
+=== page 11 ===
+10Customer Cohort Analysis
+Clients by Account Size Client Concentration
+38%
+32%33%36%48%
+44% 48% 45%78%75% 76% 76%
+FY 22 -23 FY 23 -24 FY24 -25 H1 25 -26Top 5Top 10Top 50
+FY 24 -258
+9
+18
+705
+7
+20
+70
+H1 25 -26 (1)>$15mn
+>$10mn
+>$5mn
+>$1mn
+(1) 6M FY25 -26 Annualized••• 
+routemobile 
+communication simplified 
+=== page 12 ===
+Financial Highlights
+=== page 13 ===
+12Analysis of Q2 FY 25 -26 Performance
+Gross Profit (In ₹ mn) & Gross Profit Margin (%)
+2,349 2,251 2,471 21.1%21.4%22.1%
+Q2 24-25 Q1 25-26 Q2 25-2611,134 10,508 11,19440.5 39.3 45.2
+Q2 24-25 Q1 25-26 Q2 25-26Q2 25 -26 revenue performance
+•Revenue increased by 0.5% Y -o-Y, and 6.5% Q -o-Q
+•International business, ILDO business expansion, and domestic volume growth (offset 
+partially by lower realizations) combined with routing synergies, driving overall revenue 
+growth
+•New gen product revenues grew at 13% Q -o-Q vs. 6.5% growth in total revenue from 
+operations –driven by rapid adoption of our IP based messaging and Email solutions by 
+enterprises
+Trends in Gross Profit
+•Gross Profit increased by 5.2% Y -o-Y and 9.8% Q -o-Q
+•Gross Profit Margin expanded to 22.1% in Q2 25 -26 vs. 21.4 % in Q1 25 -26
+•Gross Profit Margin expansion reflects the focus on retention of higher margin 
+traffic and better routing strategy.Revenue (in ₹ mn) & Billable Transactions (# bn) ••• 
+o------ ~o~------ o 
+=== page 14 ===
+13Analysis of Q2 FY 25 -26 Performance (continued)
+Adj. PAT (In ₹ mn) & Adj. PAT Margin (%)Adj. EBITDA(1)(In ₹ mn) & Adj. EBITDA Margin (%)
+Adj. EBITDA analysis
+•Adj. EBITDA increased by 15.5% Q -o-Q  and by 0.7% Y -o-Y
+•The increase in Gross Profit flowed through to Adj. EBITDA
+•Increase in operating cost, adjusted for non -core items(2), by +10% Y -o-Ydue to salary 
+increments and certain trade receivables written off
+•One time severance cost of INR 18.9 mn incurred in Q2 25 -26
+Adj. PAT analysis
+•Adj. PAT increased by 70.7% Q -o-Q  and declined by 0.4% Y -o-Y.
+•The increase in EBITDA flowed through to PAT
+•Adj. PAT excludes exceptional item sand includes Forex gain of INR 176 mn in Q2 25 -26 and 
+forex loss of INR 247mn in Q1 25 -26. Refer Slide 15 for calculation of Adj. PAT
+•Exceptional items include the write -off of advances to two vendors -a major mobile 
+network operator and an SMS aggregator. Excluding these impacts, operating performance 
+has improved sequentially1,324 1,154 1,333 11.9%11.0%11.9%
+Q2 24-25 Q1 25-26 Q2 25-26
+1,007 588 1,003 9.0%
+5.6%9.0%
+Q2 24-25 Q1 25-26 Q2 25-26
+1. Refer Slide 15 for calculation of EBITDA (Non GaaP)
+2. Non core items include sEmployee stock option expense and Net loss on foreign currency transactions and translation••• 
+(),,,, 
+=== page 15 ===
+14H1 FY 25 -26 Performance
+22,168 21,703 77.784.4 
+H1 24-25 H1 25-26Revenue (in ₹ mn) & Billable Transactions (# bn) Gross Profit (In ₹ mn) & Gross Profit Margin (%)
+4,746 4,722 21.4% 21.8%
+H1 24-25 H1 25-26
+Adj. EBITDA(1)(In ₹ mn) & Adj. EBITDA Margin (%)
+2,703 2,487 12.2%11.5%
+H1 24-25 H1 25-26Adj. PAT(2)(In ₹ mn) & Adj. PAT Margin (%)
+1,819 1,591 8.2% 7.3%
+H1 24-25 H1 25-26
+1. Refer Slide 15 for calculation of EBITDA (Non GaaP )
+2. Refer Slide 15 for calculation of Adj. PAT••• 
+=== page 16 ===
+15Adjusted EBITDA/ PAT
+Management uses the non -GAAP financial information, collectively, to evaluate its ongoing operations and for internal planning a nd forecasting purposes. Non -GAAP financial information is presented for supplemental informational 
+purposes only, should not be considered a substitute for financial information presented in accordance with Indian Accounting Standard (Ind AS), and may be different from similarly titled non -GAAP measures used by other companies. (1) EBITDA = Profit before exceptional item minus ( -)  Other income plus (+) Finance cost and depreciation.. (In ₹ mn) Quarter Ended Half year
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024
+EBITDA 1,359.6 938.9 1,352.3 2,476.1 2,709.1
+(+) Employee stock option expense (non cash) 5.8 5.7 8.9 11.5 21
+(+) Net loss on foreign currency transactions and translation - 247.3 - 70.1 -
+(-) Intangible assets under development 32.9 38.0 37.7 70.9 66.4
+(+) Non -cash impact related to refundable security deposit provided to MNO - - - - 38.8
+Adjusted EBITDA (Non -GAAP) 1,332.5 1,153.9 1,323.5 2,486.8 2,702.5
+EBITDA margin % on a Non -GAAP basis 11.9% 11.0% 11.9% 11.5% 12.2%
+(In ₹ mn) Quarter Ended Half year
+30.09.2025 30.06.2025 30.09.2024 30.09.2025 30.09.2024
+Reported PAT (188.3) 587.8 1,070.3 399.5 1,881.9
+(+) Exceptional Item 1,358.7 - (62.8) 1,358.7 (62.8)
+(-) Tax Impact on above 166.9 - - 166.9 -
+Adjusted PAT 1,003.6 587.8 1,007.5 1,591.3 1,819.1••• 
+routemobile 
+communication simplified 
+=== page 17 ===
+16Cash Flow Conversion
+Cash flow (in ₹ million) H1 FY 25 -26
+Profit before tax (Ind AS) 785.7
+Adjustments for non -cash and non operating items 1,837.8
+Adjustments for working capital
+(Increase) in trade receivables (440.6)
+Decrease in financial assets and other assets 2,310.1
+(Decrease) in trade payables, provisions and other liabilities (1,737.8)
+Direct taxes paid (net) (726.3)
+Net Cash generated from Operation Activities (Ind AS) 2,028.8
+EBITDA 2,486.8
+CFO/EBITDA 82%••• 
+routemobile 
+communication simplified 
+=== page 18 ===
+17Working Capital Trend
+Trade Receivables as on Sep 30, 2025 ₹ 9,685 mn Trade Payables as on Sep 30, 2025: ₹ 5,953 mn Working Capital Trend
+80 80 80 66 68 69 
+FY 23-24 FY 24-25 H1 25-26
+Days Sales Outstanding Days Payable
+Trade Receivables as on Mar 31, 2025 ₹ 9,327 mn Trade Payables as on Mar 31, 2025 ₹ 6,844 mn••• 
+■ ■ 
+=== page 19 ===
+18Human Resource Capital
+Location wise break -up Function wise break -up
+36New Employees joined in Q2 FY25 -26 
+49Employees left in Q2 FY25 -26 329
+26028936417
+Tech & Tech Support
+Sales & Marketing
+Firewall & other operator solutions
+General & Admin
+Strategy, Accounts & Finance
+Corporate-Business Heads508283
+India International791 791
+As on Sept 30, 2025, Employee information excludes Call2Connect••• 
+■ ■ ■ 
+■ 
+■ 
+■ 
+■ 
+■ 
+=== page 20 ===
+www.routemobile.comThank You
+A Company

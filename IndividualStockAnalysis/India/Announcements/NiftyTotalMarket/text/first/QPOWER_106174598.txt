@@ -1,0 +1,312 @@
+  
+ 
+ 
+ 
+ 
+  18th March, 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   ISIN: INE0SII01026 
+ 
+ 
+Subject: Intimation under Regulation 8(2) of the Securities and Exchange Board of India 
+(Prohibition of Insider Trading), Regulations 2015 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 8(2) of the Securities Exchange Board of India (Prohibition of Insider Trading) 
+Regulations, 2015 (‘SEBI PIT Regulations’), please find attached herewith the ‘Code of Practices and 
+Procedures for Fair Disclosure of Unpublished Price Sensitive Information’ (‘Code of Fair Disclosure ’) 
+framed under Regulation 8 (1) of SEBI PIT Regulations, as approved by the Board of Directors of the 
+Company at its meeting held on March 15, 2025. 
+ 
+The said code is also uploaded on the official website of the company i.e. www.qualitypower.com   
+ 
+This is submitted for your information & records.  
+ 
+ 
+Thanking You, 
+ 
+For Quality Power Electrical Equipments Limited 
+ 
+ 
+ 
+ 
+________________________ 
+Deepak Suryavanshi 
+Company Secretary & Compliance Officer 
+ICSI Membership No.: A27641 
+ 
+Encl.: As above To, 
+National Stock Exchange of India Limited, 
+Exchange Plaza, Plot No. C/1, G Block, 
+Bandra-Kurla Complex, Bandra (East), 
+Mumbai – 400051 
+ 
+NSE Symbol:  QPOWER  To, 
+BSE Limited 
+Phiroze Jeejeebhoy 
+Towers,  Dalal Street, 
+Fort, Mumbai – 400001 
+ 
+BSE Scrip Code: 544367  
+  
+ 
+ 
+1 
+ 
+ 
+CODE OF PRACTICES AND PROCEDURES FOR FAIR DISCLOSURE OF UNPUBLISHED PRICE 
+SENSITIVE INFORMATION 
+ 
+(UNDER REGULATION 8 (1) OF SECURITIES AND EXCHANGE BOARD OF INDIA (PROHIBITION OF 
+INSIDER TRADING) REGULATIONS, 2015)  
+ 
+Contents 
+ 
+Sr. 
+No. Particulars  Page no. 
+1. Introduction  2 
+2. Applicability 2 
+3. Definitions  2 
+4. Sharing of UPSI for legitimate purpose 5 
+5. Functions of the Chief Investor Relations Officer  7 
+6. Principles of fair disclosure adopted by Quality Power 7 
+7. Third party dealings  8 
+8. Rumours – Verification of market rumours and response to queries  8 
+9. Authority to make alternations/amendments  9 
+10. General 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+2 
+ 
+ 
+1. INTRODUCTION  
+ 
+The Securities and Exchange Board of India (SEBI), in its endeavor to protect the interests of 
+the investors in general, has formulated the SEBI (Prohibition of Insider Trading) Regulations, 
+2015 (‘PIT Regulations’) under the powers conferred on it under the SEBI Act, 1992. These 
+regulations were notified on 15th January, 2015 and came into force with effect from                       
+15th May, 2015 and are, inter alia, applicable to all listed companies on the Indian Stock 
+Exchanges. These PIT Regulations have been amended from time to time. 
+ 
+This document forms the Code of Practices and Procedures for Fair Disclosure of Unpublished 
+Price Sensitive Information adopted by Quality Power Electrical Equipments Limited 
+(hereinafter referred to as “ QP”/“Company ”). This code is consistent with the Securities and 
+Exchange Board of India (Prohibition of Insider Trading) Regulations, 2015 (“ Regulations ”). 
+As per Regulation 8 read with Schedule A of the Regulations, every listed company must 
+frame a Code of Practices and Procedures for Fair Disclosure of Unpublished Price Sensitive 
+Information (hereinafter referred to as the “ Code”) to adhere to each of the principles set 
+out in Schedule A of the Regulations. The Regulations intends to require companies to 
+disseminate ‘Unpublished Price Sensitive Information’ (hereinafter referred to as “ UPSI”) 
+universally and not selectively. This Code is intended to lay down procedures and practices 
+to be followed by the Company pertaining to universal disclosure of UPSI considering 
+principles laid down under the Regulations. 
+ 
+The Company intends to follow best practices, duly compliant with the Applicable Law (as 
+defined hereinafter), in the matter of disclosure of UPSI. Accordingly, the following Code was 
+adopted by the board of directors of the Company (“ Board of Directors ” or “Board”), at its 
+meeting held on March 15, 2025, and has been reviewed and revised by the Board from time 
+to time. 
+ 
+2. APPLICABILITY  
+ 
+This Code shall apply in relation to uniform disclosure by the Company of Unpublished Price 
+Sensitive Information. The exceptions as given in Applicable Law shall be applicable for the 
+purpose of this Code as well. 
+ 
+3. DEFINITIONS  
+ 
+3.1 “Applicable Law” means the SEBI (Prohibition of Insider Trading) Regulations, 2015, SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, or any statute, law, 
+listing agreement, regulation, ordinance, rule, judgment, order, decree, bye-law, 
+clearance, directive, guideline, policy, notifications and clarifications, circulars or other 
+governmental instruction and/or mandatory standards and or guidance notes as may be 
+applicable in the matter of Trading by an Insider, and as may be amended, restated or 
+substituted from time to time. 
+ 
+3.2 “Company” means Quality Power Electrical Equipments Limited 
+  
+ 
+ 
+3 
+ 
+3.3 “Connected Persons” means any person who: 
+ 
+a) is or has been, during the six months prior to the concerned act, associated with a 
+company, in any capacity, directly or indirectly, including by reason of frequent 
+communication with its officers or by being in any contractual, fiduciary or 
+employment relationship or by being a director, officer or an employee of the 
+company or holds any position including a professional or business relationship, 
+whether temporary or permanent, with the company, that allows such a person, 
+directly or indirectly, access to unpublished price sensitive information or is 
+reasonably expected to allow such access; or  
+ 
+b) Without prejudice to the generality of the foregoing, the persons falling within the 
+following categories shall be deemed to be Connected Persons unless the contrary is 
+established – 
+ 
+i. a Relative of Connected Persons specified in clause (a) above; or 
+ii. a holding company or associate company or subsidiary company; or 
+iii. an intermediary as specified in section 12 of the Securities Exchange 
+Board of India Act, 1992 or an employee or director thereof; or 
+iv. an investment company, trustee company, asset management company 
+or an employee or director thereof; or 
+v. an official of a stock exchange or of clearing house or corporation; or 
+vi. a member of board of trustees of a mutual fund or a member of the board 
+of directors of the asset management company of a mutual fund or is an 
+employee thereof; or 
+vii. a member of the board of directors or an employee, of a public financial 
+institution as defined in section 2 (72) of the Companies Act, 2013; or 
+viii. an official or an employee of a self-regulatory organization recognised or 
+authorized by SEBI; or 
+ix. a banker of the company; or 
+x. a concern, firm, trust, Hindu undivided family, company or association of 
+persons wherein a director of a company or his relative or banker of the 
+company, has more than ten per cent. of the holding or interest. 
+xi. a firm or its partner or its employee in which a connected person specified 
+in sub-clause (a) of clause (3.3) is also a partner; or 
+xii. a person sharing household or residence with a connected person 
+specified in sub-clause (a) of clause (3.3) 
+ 
+3.4 “Chief Investor Relations Officer (CIRO)”  means the Chief Financial Officer or such senior 
+officer of the Company designated by the Board of Directors, for the purposes of 
+Schedule A of the Regulation, to deal with dissemination of information and disclosure 
+of UPSI in a fair and unbiased manner. 
+ 
+3.5 “Designated Persons ” shall cover the following: 
+ 
+i. All promoters of the Company and its material subsidiary(ies); 
+  
+ 
+ 
+4 
+ii. All directors of the Company, whether executive, non-executive or 
+independent 
+iii. Key Managerial Personnel (KMP) i.e. Managing Director (MD), Whole-
+time Director (WTD), Chief Executive Officer (CEO), Chief Financial Officer 
+(CFO) and Company Secretary (CS) of the Company and its material 
+subsidiary(ies) and associate company(ies); 
+iv. All employees of the Company in the rank of Vice President and above; 
+v. Executive Assistants to KMPs; 
+vi. Employees of Secretarial, Compliance, Investor Relations Accounts- CAG, 
+Treasury- Core and Financial Planning and Management departments as 
+designated by Chief Financial Officer on the basis of their functional role 
+or access to Unpublished Price Sensitive Information in the organization; 
+vii. Such employees of the material subsidiaries designated on the basis of 
+their functional role or access to Unpublished Price Sensitive Information 
+in the organization; 
+viii. KMP or any other person of the Holding Company (wherever applicable) 
+who approves key decision/ functions of the Company; 
+ix. Any shareholder whose affirmative vote or sanction is pre-requisite for 
+key actions of the Company; 
+x. CEO and employees upto 2 levels below CEO of material subsidiaries 
+irrespective of their functional role in the company or ability to have 
+access to UPSI; 
+xi. Any support staff such as IT staff who have access to UPSI. 
+xii. any trust set up by the Company for the purposes of implementing any 
+share-based employee benefit schemes of the Company. 
+xiii. such connected person as identified by the Compliance Officer from time 
+to time. 
+ 
+3.6 “Generally available information ” means information that is accessible to the public on 
+a non-discriminatory basis and shall not include unverified event or information reported 
+in print or electronic media. 
+ 
+3.7 “Immediate Relative”  means a spouse of a person, and includes parent, sibling, and child 
+of such person or of the spouse, any of whom is either dependent financially on such 
+person, or consults such person in taking decisions relating to Trading in securities; 
+ 
+3.8 “Insider” means any person who is: 
+a. a Connected Person; 
+b. or in possession of or having access to Unpublished Price Sensitive 
+Information; Further, any person in receipt of Unpublished Price 
+sensitive Information pursuant to Legitimate Purpose shall be 
+considered as “Insider” for the purpose of this Code. 
+ 
+3.9 “Legitimate Purpose” includes sharing of UPSI in the ordinary course of business by an 
+Insider with partners, collaborators, lenders, customers, suppliers, merchant bankers, 
+legal advisors, auditors, insolvency professionals, or other advisors or consultants, or 
+regulatory bodies, courts, quasi-judicial bodies on the basis of any order issued by them, 
+  
+ 
+ 
+5 
+provided that such sharing has not been carried out to evade or circumvent the 
+prohibitions of Regulations. 
+ 
+3.10 “Relative” shall mean the following 
+ 
+a. spouse of the person; 
+b. parent of the person and parent of its spouse; 
+c. sibling of the person and sibling of its spouse; 
+d. child of the person and child of its spouse; 
+e. spouse of the person listed at sub-clause (c); and 
+f. spouse of the person listed at sub-clause (d) 
+ 
+3.11 “SEBI” means the Securities and Exchange Board of India, 1992  
+ 
+3.12 “Selected Group of Persons” includes securities analysts or selected institutional 
+investors, brokers and dealers or their associated persons, investment advisers and 
+institutional managers, investment companies, hedge funds or any other person.  
+ 
+3.13 “Securities” shall have the meaning assigned to it under the Securities Contracts 
+(Regulation) Act, 1956 (42 of 1956) or any modification thereof.  
+ 
+3.14 “Trading” means and includes subscribing, redeeming, switching, buying, selling, dealing 
+or agreeing to subscribe, redeem, switch, buy, sell, deal in any securities, and "trade" 
+shall be construed accordingly.  
+ 
+3.15 “Trading day” means a day on which BSE Limited and/or National Stock Exchange of India 
+Limited are open for trading.  
+ 
+3.16 “Unpublished Price Sensitive Information” or “UPSI” means any information, relating to 
+the Company or its securities, directly or indirectly, that is not generally available which 
+upon becoming generally available, is likely to materially affect the price of the securities 
+and shall, ordinarily including but not restricted to, information relating to the following: 
+–  
+a. financial results; 
+b. dividends; 
+c. change in capital structure; 
+d. mergers, de-mergers, acquisitions, delisting, disposals and 
+expansion of business and such other transactions; and 
+e. changes in key managerial personnel 
+ 
+All the other terms used in this Code shall have the same meaning as assigned to them under the 
+Regulations. 
+ 
+4. SHARING OF UPSI FOR LEGITIMATE PURPOSE:  
+ 
+4.1 Till the UPSI becomes Generally Available Information, UPSI can be shared only on a 
+need-to-know basis and for Legitimate Purpose as provided hereunder and not to evade 

@@ -1,0 +1,176 @@
+--- CIM_19891_WebXMLFile_20260824_225226603_1.xml (the exchange's structured disclosure) ---
+NSESymbol: RATEGAIN ; Name Of The Company: RATEGAIN TRAVEL TECHNOLOGIES LIMITED ; Scrip Code: 543417 ; MSEISymbol: NOTLISTED ; ISIN: INE0CLI01024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-08-24 ; Time Of Occurrence Of Event Or Information: 15:38:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-08-24 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Human Resource Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Sahil Sharma ; Effective Date Of Reason Of Change: 2026-08-24 ; Type Of Change: Appointment ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Shobana Vinodh Kailash ; Effective Date Of Reason Of Change: 2026-08-25 ; Brief Profile: Ms. Shobana Kailash is an accomplished HR leader with over 25 years of experience in building and transforming people functions across global organisations. She has worked across diverse sectors, including technology, SaaS, financial services and life sciences, and has held leadership positions at organisations such as Hubilo, Freshworks, Amazon, Fidelity Investments and IQVIA. Her experience spans HR strategy, organisational transformation, talent management, leadership development, rewards, M&A integration and digital HR. Shobana holds an Executive MBA from IIM Calcutta and brings extensive experience of partnering with boards and senior leadership teams across international markets. ; Salutation: Mr. ; Name Of The Person: Sahil Sharma ; Designation Of Person: Chief Human Resource Officer ; Date On Which The Resignation Letter Was Received: 2026-08-24 ; Effective Date Of Resignation: 2026-08-24 ; Reason Of Resignation In Brief: As per resignation email
+
+--- CIMG_543417_24082026225217_2.pdf ---
+August 24, 2026
+To,
+National Stock Exchange of India Limited
+(NSE: RATEGAIN)
+Sub:
+
+BSE Limited
+(BSE: 543417)
+
+Intimation of change in Chief Human Resource Officer (SMP) under Regulation 30
+of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“SEBI LODR”)
+
+Dear Sir / Ma’am,
+Pursuant to Regulation 30 read with Schedule Ill of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (‘SEBI Listing Regulations’), we hereby inform you that the
+Board of Directors of the Company vide circular resolution passed dated August 24, 2026, based
+on the recommendation of the Nomination and Remuneration Committee approved the
+appointment of Ms. Shobana Vinodh Kailash as Chief Human Resources Officer (CHRO) and Senior
+Management Personnel (SMP) of the Company w.e.f., August 25, 2026.
+We further wish to inform you that the Board, vide the aforesaid circular resolution, has taken
+note of the Resignation of Mr. Sahil Sharma, from the position of Chief Human Resources Officer
+(CHRO) and Senior Management Personnel (SMP) of the Company, w.e.f. close of business hours
+of August 24, 2026. Mr. Sahil will continue to associate with the Company till October 08, 2026,
+for a smooth and thoughtful transition. A copy of his resignation email, along with detailed
+reasons, is enclosed as Annexure A.
+The details for aforesaid changes as required under SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 read with SEBI Circular No. SEBI/HO/CFD/CFDPoD1/CIR/2023/123 dated July 13, 2023, is enclosed herewith as Annexure B.
+We request you to kindly take the above information on record.
+Yours faithfully,
+For RateGain Travel Technologies Limited
+signed
+Mukesh Digitally
+by Mukesh Kumar
+2026.08.24
+Kumar Date:
+20:27:37 +05'30'
+
+Mukesh Kumar
+General Counsel,
+Company Secretary & Compliance Officer
+Membership No.: A17925
+Encl. a/a
+
+Corporate Office: Club 125, Plot No. A - 3,4,5, Tower A, 4th Floor,
+Sector-125, Noida - 201301, UP, India | Tel: +91 120 5057000
+Registered Office: M-140, Greater Kailash, Part-Il, New Delhi - 110048
+
+CIN No.: L72900DL2012PLC244966
+Website: www.RateGain.com
+E-Mail: help@rategain.com
+
+
+
+With immense gratitude,
+Sahil Sharma
+Group Chief Human Resources Officer
+RateGain Travel Technologies Limited
+
+2
+
+
+Annexure B
+Details under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations,
+2015
+read
+along
+with
+SEBI
+Master
+Circular
+No.
+SEBI/HO/CFD/PoD2/CIR/P/0155 dated November 11, 2024, read with SEBI Circular No.
+SEBI/HO/CFD/CFD-PoD-2/CIR/P/2024/185 dated December 31, 2024
+Mr. Sahil Sharma
+
+Ms. Shobana Vinodh Kailash
+
+Reason for change viz.
+appointment, reappointment,
+resignation, removal, death or
+otherwise
+
+Resignation
+
+Appointment
+
+2.
+
+Date
+of
+appointment/
+reappointment/ cessation (as
+applicable) & term of
+appointment/ reappointment
+
+From
+Close
+of
+business
+hours
+August 24, 2026
+
+August 25, 2026
+
+3.
+
+Brief profile (in case of
+appointment)
+
+N/A
+
+Ms. Shobana Kailash is an
+accomplished HR leader with over
+25 years of experience in building
+and transforming people functions
+across global organisations. She has
+worked across diverse sectors,
+including technology, SaaS, financial
+services and life sciences, and has
+held leadership positions at
+organisations such as Hubilo,
+Freshworks, Amazon,
+Fidelity
+Investments and IQVIA. Her
+experience spans HR strategy,
+organisational
+transformation,
+talent management, leadership
+development,
+rewards,
+M&A
+integration and digital HR. Shobana
+holds an Executive MBA from IIM
+Calcutta and brings extensive
+experience of partnering with
+boards and senior leadership teams
+across international markets
+
+4.
+
+Disclosure of Relationship
+between Directors (in case of
+appointment of a director)
+
+N/A
+
+N/A
+
+S.
+No.
+
+Name
+of
+Management
+(SMP)
+
+1.
+
+Senior
+Personnel
+
+Corporate Office: Club 125, Plot No. A - 3,4,5, Tower A, 4th Floor,
+Sector-125, Noida - 201301, UP, India | Tel: +91 120 5057000
+Registered Office: M-140, Greater Kailash, Part-Il, New Delhi - 110048
+
+CIN No.: L72900DL2012PLC244966
+Website: www.RateGain.com
+E-Mail: help@rategain.com
+
+

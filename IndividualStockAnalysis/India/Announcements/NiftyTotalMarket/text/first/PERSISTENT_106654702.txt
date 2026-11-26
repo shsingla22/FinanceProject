@@ -1,0 +1,186 @@
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411  016, Maharashtra, India    
+CIN - L72300PN1990PLC 056696  
+Tel:  +91 (20) 6703  5555  | Fax  - +91 (20) 6703 6003 | E-mail - info@persistent.com  | Website  - www.persistent.com   
+   
+    
+ 
+NSE & BSE / 2026-27 / 045 
+ 
+      June 4, 2026  
+ 
+The Manager,   
+Corporate  Services,  
+National Stock Exchange of India Limited          
+Exchange Plaza, Bandra Kurla Complex,  Bandra  (E),  
+Mumbai 400  051 
+ 
+Ref: Symbol:  PERSISTENT  The Manager , 
+Corporate Services,  
+BSE Limited  
+P J Towers, Dalal Street,  
+Mumbai 400 001  
+ 
+  Ref: Scrip  Code:  533179  
+ 
+Dear  Sir/Madam,  
+ 
+Sub: Press Release titled ‘Persistent Strengthens Enterprise AI Engineering Talent Pipeline 
+Through Collaboration with Databricks and Milwaukee School of Engineering ’ 
+ 
+We wish to inform you that Persistent Systems Limited ( the ‘Company ’) has made a press release  
+dated June 4, 2026 , titled ‘Persistent Strengthens Enterprise AI Engineering Talent Pipeline Through 
+Collaboration with Databricks and Milwaukee School of Engineering ’. 
+ 
+A copy of the Press Release is enclosed for your reference.  
+ 
+This is for your information and records.  
+ 
+Please acknowledge the receipt.  
+ 
+Thanking you,  
+ 
+Yours Sincerely,  
+For Persistent Systems Limited  
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.: A CS 20507  
+ 
+Encl.: As above  
+ 
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  1  
+ 
+ 
+ 
+Persistent Strengthens Enterprise AI 
+Engineering Talent Pipeline Through 
+Collaboration  with Databricks and M ilwaukee 
+School of Engineering   
+Advancing AI -first execution through hands -on exposure to 
+governed systems, scalable workflows and production -grade 
+enterprise architectures  
+June 4, 2026 
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE: 533179 and NSE: PERSISTENT) , a global Digital Engineering and 
+Enterprise Modernization leader, collaborated on  an AI engineering talent initiative  with 
+Databricks  and the Milwaukee School of Engineering  (MSOE) to help strengthen the next 
+generation of enterprise -ready AI talent . 
+ 
+Developed in collaboration with the MSOE AI Club, Persistent anchored a Databricks -powered 
+AI Hackathon to scale AI delivery capabilities through deeper collaboration across academia, 
+technology ecosystems and industry practitioners. The program  provide d students with the 
+opportunity to work with AI professionals,  bridg ing the gap between academic AI learning and 
+real-world implementation . 
+ 
+Using  the Databricks Data Intelligence Platform and supported by  the Databricks University 
+Alliance , the initiative gave  students hands -on exposure to advanced  data and AI  engineering 
+environments  used in modern analytics , Generative AI  and operational AI deployments . It also 
+emphasized  on operational scalability, governance, reliability and engineering discipline. 
+Participants worked across the AI lifecycle using  technologies including Delta Lake, Unity 
+Catalog, Agent Bricks, and Databricks Workflows , gaining practical experience in scalable AI 
+pipelines, governed data environments, AI orchestration and production -ready AI architectures.  
+ 
+
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  2 
+Persistent’s senior architects and project leads  worked directly with participants to bring 
+architectural thinking, governance frameworks  and enterprise deployment considerations  into 
+the learning experience, helping students better understand how AI systems are built  and 
+scaled in business  environments.  
+ 
+The collaboration also strengthens Persistent’s engagement with MSOE, a leading institution in 
+applied AI and engineering education. Through its work  with the MSOE AI Club, the Company  is 
+contribut ing to an academic ecosystem focused on AI, robotics, data science and next-
+generation engineering innovation while deepening engagement with emerging talent.  
+ 
+The initiative is part of Persistent’s broader collaboration with Databricks. As a  Global Systems 
+Integrator partner, the Company  brings strong Databricks capabilities, including over 1,300 
+Databricks experts, 950+ certifications and proprietary accelerators  such as the iAURA  suite, 
+helping enterprises modernize data foundations and scale analytics, Generative AI and 
+enterprise AI adoption across the business . 
+ 
+Together, Persistent, Databricks and MSOE are establish ing a model that integrat es enterprise 
+platforms, practitioner expertise  and academic innovation to accelerate workforce readiness  for 
+an AI -driven economy.   
+ 
+Key Highlights  
+\ Enterprise AI engineering initiative designed to strengthen workforce readiness for 
+production -scale AI deployments  
+\ Hands -on exposure to enterprise -grade AI engineering workflows, governed data 
+environments and operational AI systems  
+\ Participants worked with Delta Lake, Unity Catalog, Agent Bricks and Databricks Workflows  
+\ Focused on scalable AI pipelines, AI governance, AI orchestration and production -grade 
+enterprise AI architectures  
+Sameer Dixit, Corporate Vice President and Head of Data, AI and Integration, Persistent   
+“The AI market is shifting from isolated pilots to enterprise -wide operationalization , demanding 
+engineers fluent in governed data, scalable platforms and production -grade execution. Our 
+exclusive AI Hackathon with Databricks and MSOE equips students with real -world platform 
+experience and engineering discipline from day one. This approach  is rooted in Persistent's 
+hackathon DNA.  ‘Semicolon s’ - our flagship global  annual  hackathon, has consistently turned 
+ideas into enterprise -grade solutions and we are now extending that proven model into 
+academia. Strengthening this connection between aca demia and industry is key to sustaining 
+innovation in the years ahead. ” 
+John Young, Global Managing Director – Partner Solution Architects , Databricks  
+“AI is only as powerful as the data foundations behind it and organizations today are 
+standardizing on platforms that bring data, analytics and AI together. Preparing talent to work in 
+these unified environments is becoming critical. Collaborations like thi s with Persistent and 
+ 
+© 2026  Persistent Systems Ltd. All rights reserved.  3 
+MSOE help students build that foundation early, so they can contribute meaningfully from day 
+one in enterprise settings. Strengthening this connection between academia and industry is key 
+to sustaining innovation in the years ahead. ” 
+Derek Riley, PhD, Professor, Program Director of Computer Science , Milwaukee School of Engineering  
+“The support from Persistent and Databricks has been transformative for the MSOE AI Club and 
+our members. The hackathon brought valuable motivation, perspective, and experience into the 
+classroom and challenged students to think beyond the academic lessons  of their classwork. 
+These experiences play an important role in how we prepare graduates to navigate a rapidly 
+evolving AI landscape and deliver value for their future employers.”  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Persistent  
+Persistent Systems (BSE:  533179 and NSE: PERSISTENT) is a global services and solutions company delivering AI -led, platform -driven 
+Digital Engineering and Enterprise Modernization to businesses across industries. With over 2 7,500 employees located in 21 countries, the 
+Company is committed to innovation and client success. Persistent offers a comprehensive suite of services, including softwar e 
+engineering, product development, data and analytics, CX transformation, cloud computing, and intelligent automat ion. The Company is 
+part of the MSCI India Index and is included in key indices of the National Stock Exchange of India, including the Nifty Midcap 50, N ifty IT, 
+and Nifty MidCap Liquid 15, as well as several on the BSE such as the S&P BSE 100 and S&P BSE SENSEX Next 50. Persistent i s also a 
+constituent of the Dow Jones Best-in-Class  World Index. The Company has achieved carbon neutrality, reinforcing its commitment to 
+sustainability and responsible business practices. Persistent has also been named one of America’s Greatest Workplace s for Inclusion & 
+Diversity 2025 by Newsweek and Plant A Insights Group. As a participant of the United Nations Global Compact, the Company is 
+committed to aligning strategies and operations with universal principles on human rights, labor, environment, an d anti -corruption, as well 
+as take actions that advance societal goals. With 468% growth in brand value since 2020, Persistent is the fastest -growing IT services 
+brand in ‘Brand Finance India 100’ 2025 Report.  
+www.persistent.com  
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+For Media Queries: media@persistent.com  
+ 
+ 

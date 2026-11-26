@@ -1,0 +1,44 @@
+ 
+CSB Bank Limited Regd. Office: CSB Bhavan, St. Mary's College Road, Thrissur – 680020, Kerala, India.  
+Tel: +91 487 –2333020 | Fax: +91 487 –2338764 | Website : www.csb.co.in  | E-mail : secretarial @csb.co.in  |CIN: L65191KL1920PLC000175  
+ 
+ 
+SEC/ 113/202 5                                                                                                                            May 5, 202 5   
+  
+BSE Limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai 400001.  
+Scrip code: 542867  
+ National Stock Exchange of India Ltd.,  
+Exchange Plaza, 5th Floor,  
+Bandra -Kurla Complex,  
+Bandra (E), Mumbai 400051.  
+Symbol: CSBBANK  
+Dear Sir/Madam,  
+Upgradation of Core Banking System  of CSB Bank Limited (the “Bank”)  
+----------------------------------------------------------------------------------------------------------------------------- -----------  
+Pursuant to Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 (“ SEBI Listing Regulations ”), we w ish to inform 
+that the Bank is migrating its Core Banking System  (“CBS”) to a new platform  viz. ‘Oracle 
+Flexcube' . The migration  activity is scheduled between 9 .00 P .M. (IST) on May 9, 2025 , and 
+10.00 A.M. (IST) on May 11, 2025 . During this period, all our banking services , including ATM, 
+Net Banking, Mobile Banking, Card s, and UPI services will  not be available.  The Bank has sent  
+appropriate communications to all its customers about the downtime through various channels 
+so that customers  may plan their transactions in advance to avoid any inconvenience.  
+ 
+Kindly take the same on your records.  
+This intimation is also made available on the website of the Bank at www.csb.co.in .  
+ 
+Thanking You,  
+Yours faithfully,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sijo Varghese   
+Company Secretary   
+ 

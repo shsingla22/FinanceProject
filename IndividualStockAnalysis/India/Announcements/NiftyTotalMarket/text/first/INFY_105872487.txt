@@ -1,0 +1,196 @@
+ 
+ 
+ TO ALL STOCK EXCHANGES  BSE LIMITED NATIONAL STOCK EXCHANGE OF INDIA LIMITED NEW YORK STOCK EXCHANGE June 3, 2024 Dear Sir/ Madam, Sub: Notice of the 43rd Annual General Meeting (AGM) and Integrated Annual Report 2023-24 In compliance with the Companies Act 2013, rules framed thereunder and SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, as amended from time to time, please find enclosed Notice convening the 43rd AGM of shareholders and the Integrated Annual Report 2023-24 which will be sent to the shareholders through electronic mode. The 43rd AGM will be held on Wednesday, June 26, 2024, at 4.00 p.m. IST through video conference and other audio-visual means (VC).  The following reports will be made available on the Company’s website :  Name of the report Website link 43rd AGM Notice and Integrated Annual Report 2023-24 (including Business Responsibility and Sustainability Report).  https://www.infosys.com/investors/reports-filings/annual-report/annual-reports/ar-2023-24.html  Infosys Foundation’s Annual Report 2023-24 https://www.infosys.com/infosys-foundation/about/reports/documents/infosys-foundation-report-2023-24.pdf   Information at glance:  Particulars Details Time and date of AGM 4:00 p.m. IST, Wednesday, June 26, 2024 Mode Video conference and other audio-visual means Participation through video-conferencing https://agm.onwingspan.com/InfosysAGM  Helpline number for VC participation +91-80-4156 5555 / +91-80-4156 5777 Webcast and transcripts https://www.infosys.com/Investors/ Final dividend and Special dividend record date Friday, May 31, 2024 Final dividend and Special dividend payment date Monday, July 1, 2024 Information of tax on Final dividend and Special dividend https://www.infosys.com/investors/shareholder-services/dividend-tax.html Cut-off date for e-voting Wednesday, June 19, 2024 E-voting start time and date 9:00 a.m. IST, Friday, June 21, 2024 E-voting end time and date 5:00 p.m. IST, Tuesday, June 25, 2024 E-voting website of NSDL https://www.evoting.nsdl.com/ This is for your information and records.  For Infosys Limited    A.G.S. Manikantha Company Secretary 
+Generative AI and You
+Integrated Annual Report 2023-24
+Infosys Integrated Annual Report 2023-243
+We barely saw it happen. AI walking into our lives. Through 
+the ads that follow us on social media. The personalized 
+pick of movies and shows. Our cars. The maps helping us 
+navigate. Right there in our hands – our super-powerful 
+phones. And now, it’s happening again. This time with 
+generative AI. In the form of handy tools – like ChatGPT, 
+MetaAI and Stable Diffusion – that pique our imagination, 
+and stoke our curiosity.
+Generative AI technology’s path into enterprises too has 
+been just as accelerated and enthusiastic, supported by 
+an exponential increase in investments. While almost 
+every enterprise has started working with generative 
+AI, their struggles with data readiness and concerns 
+around regulatory compliance are just as real. A common 
+acknowledgment is that very few of the gen AI pilots, when 
+considered at scale, promise to deliver tangible business 
+value. In the months to follow, we believe, some ongoing 
+AI pilots will scale to strategic AI programs that will then 
+help pave the way for AI-led business transformations.
+Our clients, across industries, are looking to solve tough 
+business challenges with generative AI in ways that 
+produce measurable outcomes for them. For example, 
+supporting and personalizing customer interactions, 
+bringing greater efficiencies to marketing and sales, improving the quality of code, and even enhancing 
+personal and organizational productivity. They also clearly 
+see that the advent of generative AI, with potential for 
+more pervasive automation, will accelerate the pace of 
+workforce transformation. Talent, across functions, will 
+need support to imbibe new skills, and some will even prep 
+for entirely new jobs that didn’t exist before. Generative AI, 
+if embraced responsibly, could drive productivity growth 
+and support a more sustainable, inclusive world.
+Embracing AI responsibly also means keeping track of 
+emerging AI regulations across countries and jurisdictions 
+while ensuring compliance. Existing processes, policies, 
+guidelines, and tooling will need to be continuously 
+reviewed and enhanced to cover model assurance, model 
+security, bias, fairness, explainability, reproducibility, 
+training data privacy, safety and alignment, IP/contractual 
+risks and sustainability impact too. We are factoring 
+it all in as we engineer enterprise-scale generative AI 
+developments for our clients. You’ll come across some 
+examples right here in this Integrated Annual Report. But 
+what we hope you also won’t miss is to see how you too 
+can navigate your next as generative AI paves the path 
+forward for us all, and how Infosys can be the trusted 
+partner on that journey into the future.Gen AI: Ushering in the next era of business
+Would you like to see yourself on the Infosys Annual report cover? You can do 
+this now by creating a personalized cover page using our gen AI platform at 
+Infosys Annual Reports (annualreportai.com)
+The cover and theme pages images have been created using gen AI tools.
+
+Infosys Integrated Annual Report 2023-245
+Infosys Integrated Annual Report 2023-24Microsoft Corporation is a technology company that 
+aspires to empower every person and every organization 
+on the planet to achieve more.
+As a vocal advocate for the game-changing potential 
+of artificial intelligence, Microsoft was eager to harness 
+the power of AI, especially generative AI, to heighten 
+their operational agility. This meant reengineering their 
+operations analytics platform for better quality, faster 
+response, and support. The platform is a trusted resource 
+for several thousand users at Microsoft, offering insights 
+and transactions support to manage their business 
+operations across commercial, OEM, and partner channels. 
+To amplify and transform the platform with generative AI, 
+Microsoft teamed up with Infosys.
+Infosys brought the capabilities of Azure OpenAI Service 
+and GitHub Copilot to help solve this challenging problem. 
+They also brought best practices for leveraging generative 
+AI technologies for code generation and development 
+support. Infosys used these techniques and started to 
+reengineer the platform, factoring in user feedback while simultaneously addressing pitfalls preemptively 
+and making efficiency projections. The aim was to 
+transform the platform to meet changing user needs at 
+a revolutionary rate. The outcome was a whopping 35% 
+reduction in development effort and a 24% reduction in 
+test-case generation and code review time. In fact, the 
+platform was ready to deliver on Microsoft’s operational 
+aspirations six months ahead of schedule!
+The renewed operations platform delivers never-before-
+seen on-time, on-demand intelligence for users with 
+hugely reduced data latency and cost across the 150+ 
+reports of operational insights that the business counts 
+on. The new generative AI-powered knowledge repository 
+enables the platform’s support team to provide quicker 
+responses to queries, resulting in an 18% reduction in 
+support ticket volume. This newfound agility, along 
+with the self-service capabilities added to the platform, 
+has resulted in a sharp increase in internal customer 
+satisfaction.Microsoft Corporation: Transforming platform engineering. 
+Transforming operations
+“Successful operations are all about effective support for the business, firmly 
+grounding the core technology to make that possible, and being able to pivot with 
+agility to meet changing market needs. Generative AI, Azure OpenAI Service, and 
+GitHub Copilot, in the hands of capable Infosys engineers, helped us to transform and 
+modernize our operations analytics platform to be able to meet the demands of our 
+business while saving time, money, and delighting users with the experience. ” 
+– Jonathan Chromy, Principal SWE Manager, Microsoft
+4
+Infosys Integrated Annual Report 2023-247
+Danske Bank is a Nordic bank, the largest retail bank in 
+Denmark, with over 5 million retail customers. 
+In the summer of 2023, the Bank announced its Forward 
+’28 strategy to strengthen the organization and create a 
+more focused business trajectory to exceed its financial 
+targets. With the maturing of generative AI, Danske Bank 
+was quick to see its potential to revolutionize their industry 
+and transform the way their own company operated, to 
+increase efficiency and productivity, reduce costs, and 
+open up new opportunities for growth. They were keen 
+to start to explore a custom GPT indexed with their own 
+business content to automate repetitive tasks and provide 
+instant responses to tactical pursuits, freeing up human 
+staff to focus on more strategic objectives.
+Infosys responded with a plan to help Danske Bank 
+set up an A-team and the appropriate generative AI 
+technology to build a secure, ethical-by-design chat-
+based assistant – DanskeGPT. The intent was to prototype 
+and scale a solution to accelerate personal productivity, 
+first in a sandboxed environment for experimentation, while maintaining an abundance of caution that provides 
+the guardrails to manage ethical and practical safeguards 
+for issues like AI hallucinations. Microsoft’s Open AI services 
+in Azure provided the foundation. From start to pilot, the 
+solution was ready in about six weeks, and soon scaled for 
+ethical and safe use for about 3,000 users. 
+Today, Danske Bank’s entire employee base is harnessing 
+DanskeGPT’s capabilities to assist them in their everyday 
+activities – already seeing a 10-15% boost in productivity 
+in some areas. Team Infosys continues to work, enhancing 
+DanskeGPT with internal data, to deliver for Danske Bank 
+new content, and enable new process improvements 
+through effective ways of employing this flexible assistant. 
+The team is also helping the Bank to quickly identify the 
+parts of their business where the technology could have 
+the most immediate impact. The effort also includes 
+strategic moves to assemble a cross-functional team, 
+including data science practitioners, legal experts, and 
+business leaders, to scale the continued AI-powered 
+transformation of Danske Bank.Danske Bank: Scaling assistive technology organization-wide
+“We are rapidly building capability to tackle hundreds of AI-powered ideas to 
+drive productivity across our business units. From better insights and reporting to 
+identifying risks and vulnerabilities, while improving our customer and company 
+outcomes, we are prioritizing and delivering services into the bank with support 
+from Infosys. ’’ 
+– Jan den Boer, Head Strategic Sourcing, Senior Vice President, Danske Bank
+Infosys Integrated Annual Report 2023-24 6
+Infosys Integrated Annual Report 2023-24 Infosys Integrated Annual Report 2023-248 9
+Currys is an international omnichannel retailer of 
+technology products and services, operating online and 
+across 720 stores in six countries, helping customers enjoy 
+amazing technology, however they choose to shop. 
+As the cost-of-living pressures escalated in the UK, 
+Currys wanted to optimize its sales and service process 
+for greater efficacy, so it was better able to deliver more 
+value to its customers. Currys also clearly saw the need 
+to be as efficient as possible through these efforts so it 
+could sustain the program, increase productivity, and 
+share the savings made with its customers. It was quick to 
+see the advantage to be gained from using AI to execute 
+on its pricing, personalization, e-commerce and service 
+strategies. 
+Currys partnered with Infosys to build an ML- and AI-based 
+price recommendation engine, co-developing decision-
+support capabilities and internal tooling, yielding strong 
+predictive pricing performance. These recommendations 
+are driving sustained profitable sales for Currys through better-adapted and optimized omnichannel pricing. With 
+e-commerce bringing in 45% of Currys UK&I revenues, 
+Infosys also simultaneously worked with Currys to develop 
+an ML- and AI-powered online conversion analytics engine 
+to unearth insights into customer journeys that impact 
+conversion.
+Currys is now advancing its exploration into the realm of 
+generative AI. In tandem with Infosys, Currys is undertaking 
+multiple programs to test and learn:
+• Gen AI-powered tools to query and summarize lengthy 
+product documentation to support internal teams on 
+their information needs
+• A smart repairs and services assistant to guide on simple 
+fixes, with the potential to reduce false returns and call 
+volumes
+• Sentiment analysis and summarization based on 
+customer feedback from surveys, to guide identification 
+of opportunities to improve customer service 
+experience.Currys: Driving step-change evolution of sales ROI
+“We exist to help everyone enjoy amazing technology. As a tech retailer, it’s in our DNA 
+to embrace and harness new tech to improve the customer experience and help them 
+choose, afford and enjoy new tech. With the combination of shared values, a love of 
+technology and deep expertise in G(AI), Infosys is a natural partner for Currys. ”
+– Ian Dawson, Global Business Solutions Director, Currys

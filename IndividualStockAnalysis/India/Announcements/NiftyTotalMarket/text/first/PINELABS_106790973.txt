@@ -1,0 +1,145 @@
+ 
+ 
+Date: September  24, 2026  
+ 
+To, 
+ 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606    
+National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+ 
+Dear Sir/Ma’am,  
+ 
+Subject: Press Release - Pine Labs and Google Cloud Collaborate to Advance Agentic Commerce in 
+India . 
+ 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith press release  titled  “Pine Labs and Google Cloud Collaborate to Advance 
+Agentic Commerce in India .” 
+ 
+The above information will also be available on the website of the Company 
+at https://www.pinelabs.com/investor -relations . 
+  
+You are requested to take the same on record.  
+  
+Thank You.  
+ 
+For Pine Labs Limited  
+ 
+  
+ 
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+ 
+Encl:  a/a 
+ 
+ 
+ 
+ 
+Pine Labs and Google Cloud Collaborate to Advance Agentic Commerce in India  
+ 
+Bengaluru — September 24, 2026: Pine Labs today announced a strategic collaboration with 
+Google Cloud to ensure that every Indian merchant, from established enterprises to the new 
+generation of merchants  who are tech -first, fast -growing, and ready to compete on any surface,  
+is a full participant in agentic commerce.  
+ 
+Agentic AI to Enable Merchants Across the Value Chain  
+ 
+AI agents are already here. They discover products, compare options, and complete purchases 
+on behalf of consumers, without the consumer ever visiting a website or opening an app. The 
+merchants who benefit first are the ones whose products are structured a nd readable by AI 
+systems, whose inventory is live and accessible, and whose checkout can be completed 
+automatically. That often describes a large enterprise. It does not yet describe the new generation 
+of Indian SMBs which is tech -first, fast -growing, and  competing on ambition rather than access 
+to infrastructure.  
+ 
+“Without the right platform, agentic commerce repeats a pattern India has seen before: new 
+technology reaches the top of the market first, and small businesses wait.  Pine Labs is creating 
+the next generation of agentic commerce products so that does not happen,” said B. Amrish Rau, 
+CEO, Pine Labs.  
+ 
+By putting Gemini -powered AI agents to work, Pine Labs will be creating a unified ecosystem that 
+bridges merchant operations, engagement, and payments infrastructure. For India’s SMBs, a 
+newly developed AI ads agent democratizes marketing by creating and p lacing high -quality ads 
+across surfaces such as Search, YouTube, Pine Labs' POS devices, delivering enterprise -level 
+reach to businesses. Simultaneously, Pine Labs Issuing is building ‘Jarvis’, a multi -agent platform 
+built on Gemini Enterprise. Jarvis stre amlines operations by assisting merchants with program 
+creation, system diagnostics, and customer support across the Woohoo platform. The result is a 
+singular, comprehensive Pine Labs experience where AI fuels both day -to-day efficiency and 
+scalable top -line growth.  
+ 
+The collaboration between Pine Labs and Google Cloud further addresses three specific barriers 
+that SMBs seeking to participate fully in agentic commerce, face:  
+ 
+1. Discoverability and scalability : If an AI agent cannot read a merchant’s catalog, it cannot 
+recommend them. But discoverability is only the first step. Pine Labs will offer India’s 
+SMBs the full customer acquisition stack that is built on Google Cloud's AI and data 
+infrastructure, as we ll as AI -powered campaign management, digital presence tools, and 
+customer targeting capabilities that work across the surfaces where their customers 
+already spend time.  
+ 
+ 
+2. Receiving payment:  Pine Labs’ P3P is the payment layer that makes a transaction inside 
+an agentic flow real -time, compliant, and settled. Starting on UPI and expanding across 
+payment rails, P3P means a merchant does not need to rebuild their payment setup every 
+time a new A I surface emerges.  
+3. Governance : Agentic commerce at scale requires infrastructure that banks and regulators 
+can rely on. Grantex ensures every transaction  that flows through this infrastructure is 
+auditable and meets India’s financial regulatory requirements.  
+ 
+To power this next -generation agentic commerce solution, Pine Labs will use Gemini Enterprise 
+Agent Platform for catalog enrichment, search, and the rapid build and deployment of custom 
+commerce agents. The Pine Labs platform will also offer native integra tion support for the 
+Universal Commerce Protocol (UCP) and Agent -to-Agent (A2A) frameworks, which will enable 
+seamless, cross -platform transactions.  
+ 
+Building an open ecosystem  
+ 
+“The shift to AI -driven buying is already underway. The question is whether India’s 60 million small 
+businesses  get to be part of it from the start, or wait for infrastructure that was built for someone 
+else first,” Rau added.  “With Google Cloud, we’re building the infrastructure layer that makes this 
+real for every merchant in India - from established enterprises to the new generation of merchants 
+who are tech -first, fast -growing, and ready to compete on any surface. We’re tal king about the 
+same rails, the same AI agents and the same access to credit, one commerce operating layer for 
+every merchant.”  
+ 
+Amit Kumar, Managing Director, Digital Natives Business, Google Cloud India, remarked, 
+“Addressing the intricate requirements of this market demands a platform capable of deep, 
+extensive scale, such as Pine Labs. By grounding Pine Labs’ commerce layers in Google Cloud’s 
+secure, real -time AI and analytics infrastructure, we are empo wering merchants throughout India 
+with the tools needed to be discoverable, trusted, and fully active participants in agentic 
+commerce.”  
+About Pine Labs Limited  
+Pine Labs  Limited is a technology company digitising commerce, through digital payments and 
+issuing solutions in India and across the globe. We have built an advanced technology 
+infrastructure to help accelerate the digitisation journey of merchants, consumer brands, 
+enterprises, and financial ins titutions. We operate in India and a growing number of international 
+markets including Malaysia, Philippines, UAE, Singapore, Australia, USA, and Africa.  
+Our digital payments business represents a one -stop software solution across channels, 
+including online payments designed to deliver secure and smooth online payment experiences to 
+the end user, powered by a tech stack. We also provide integrated affordabi lity solutions for 
+merchants, consumer brands, enterprises, and Fintech infrastructure solutions for financial 
+ 
+institutions.  
+Our issuing business offers a full -stack, end -to-end technology service solution in physical 
+prepaid instruments, gift cards, and sales/ distribution space, with a presence in multiple 
+countries and with brands and customers from the retail, hospitality an d travel industries. We 
+offer prepaid instruments primarily in India, Middle East, Southeast Asia, Australia and the United 
+States and we presently offer Credit+ in India, Sri Lanka, Middle East, Africa, and Southeast Asia . 
+To know more, please visit www.pinelabs.com  
+ 
+About Google Cloud  
+Google Cloud offers a powerful, optimized AI stack —including AI infrastructure, leading models 
+like Gemini, data management capabilities, multicloud security solutions, developer tools and 
+platform, as well as agents and applications —that enables organizat ions to transform their 
+business for the Agentic Era. Customers in more than 200 countries and territories turn to Google 
+Cloud as their trusted technology partner.  
+ 

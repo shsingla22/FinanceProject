@@ -1,0 +1,229 @@
+--- CIM_408_WebXMLFile_20261117_155025332_2.xml (the exchange's structured disclosure) ---
+NSESymbol: HCC ; Name Of The Company: HINDUSTAN CONSTRUCTION COMPANY LIMITED ; Scrip Code: 500185 ; MSEISymbol: NOTLISTED ; ISIN: INE549A01026 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-11-17 ; Time Of Occurrence Of Event Or Information: 15:30:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-11-17 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Human Resources Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Vivek Kumar Dubey ; Effective Date Of Reason Of Change: 2026-12-08 ; Term Of Appointment In Months: 0 ; Brief Profile: Vivek brings with him over 26 years of rich experience in Human Resource Management and Leadership, having held senior HR leadership positions across diverse industries, including Infrastructure, Engineering, Manufacturing, Water and Power. Prior to joining HCC, he was associated with Vishvaraj Group as Group Chief Human Resource Officer, where he was responsible for driving the HR strategy and building a high-performance culture across the organisation. He played a key role in organisational transformation, leadership development, capability building, performance management and strengthening HR practices to support the Group's growth and expansion. Over the years, he has also held senior HR leadership positions with reputed organisations including Jindal Water Infrastructure Limited, Larsen & Toubro Limited, Shristi Group of Companies, Synefra Engineering & Construction Ltd. and Abhijeet Group of Industries, where he contributed to various HR transformation, organisational development and talent management initiatives. Vivek holds a PGDBA in Marketing & HR from K. J. Somaiya Institute of Management Studies and Research, Mumbai, and a Bachelor's degree in Electronics & Telecommunication Engineering. He is also a certified Leadership Coach and Six Sigma Black Belt. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Jyotirmoy Banerjee ; Effective Date Of Reason Of Change: 2026-11-17 ; Salutation: Mr. ; Name Of The Person: Jyotirmoy Banerjee ; Designation Of Person: Chief Human Resources Officer ; Date On Which The Resignation Letter Was Received: 2026-11-17 ; Effective Date Of Resignation: 2026-11-17 ; Reason Of Resignation In Brief: in order to pursue new challenges and opportunities that align more closely with his long-term career goals
+
+--- CIMG_500185_17112026155001_1.pdf ---
+HI: I:
+HCC/SEC/INT/2026
+BSE Limited
+The Corporate Relationship Dept,
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai-400 001
+Scrip Code : 500185
+
+November 17, 2026
+National Stock Exchange of India Ltd.
+Exchange Plaza,
+Bandra-Kurla Complex,
+Sandra (East),
+Mumbai-400 051
+Symbol: HCC
+
+Dear Sir I Madam,
+Sub : Disclosure under Regulation 30 read with Schedule Ill of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations. 2015 - Change in Senior Management
+Personnel ("SMP")
+
+Pursuant to Regulation 30 read with Schedule Ill of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, we wish to inform you the following changes in the SMP of the
+Company:
+1. appointment of Mr. Vivek Kumar Dubey as Chief Human Resources Officer of the Company
+(SMP), with effect from December 8, 2026, pursuant to a Circular Resolution passed by the
+Board of Directors of the Company on November 17, 2026, based on the recommendation of
+the Nomination and Remuneration Comm ittee .
+2. resignation of Mr. Jyotirmoy Banerjee from position of Chief Human Resources Officer of the
+Company (SMP), with effect from November 17, 2026 in order to pursue new challenges and
+opportunities that align more closely with his long-term career goals.
+The disclosures requi red pursuant to SEBI Master Circular No. H0/49/ 14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026, with respect to above along with resignation letter of
+Mr. Jyotirmoy Banerjee is annexed.
+The aforesaid disclosure is also being made avai lable on the website of the Company.
+We request you to kindly take the above on record.
+Yours sincerely,
+For Hindustan Construction Company Ltd.
+
+RAHUL
+SHUKLA
+
+Digitally signed by RAHUL SHUKLA
+DN: c=IN, o=PERSONAL, title=7303,
+2.5.4.20=d6ddc73437046c769fbb10aee2
+667eff962ac2e6427ec60874d1b08febd7
+97b8, postalCode=400078,
+st=Maharashtra,
+serialNumber=ea1b21208b143a25b430d
+fbf15bcf6eb17ed85dcf319b77d6dabb5a
+e100b61a3, cn=RAHUL SHUKLA
+Date: 2026.11.17 15:33:49 +05'30'
+
+Rahul Shukla
+Chief Financial Officer
+
+Encl.: As above
+
+Hindustan Construction Co l td
+H1ncon House,
+LBS Marg, Vikhroli (West).
+Mumba1 - 400 083, lnd1a
+Tel: +91 22 2575 1000 Fax: +91 22 2577 7568
+CIN L45200MH1926PLC00122B
+
+www .hccindia .com
+
+
+Disclosure pursuant to SEBI Master
+POD2/I/3762/2026 dated January 30, 2026
+
+Circular
+
+No.
+
+H0/49/14/14(7)2025-CFD-
+
+A. Mr. Vivek Kumar Dubey
+1.
+
+Reason
+for
+change
+viz. Appointment
+appointment , re-appointment,
+resignation , removal, death or
+otherwise
+
+2.
+
+Date of appointment I re- Date: December 8, 2026
+appointment /cessation (as
+applicable)
+&
+term
+of Term : Not Applicable
+appointment I re-appointment
+
+3.
+
+Brief profile
+appointment)
+
+(in
+
+case
+
+of
+
+Vivek brings with him over 26 years of rich
+experience in Human Resource Management and
+Leadership, having held senior HR leadership
+positions across diverse industries, including
+Infrastructure, Engineering, Manufacturing, Water
+and Powe r.
+Prior to joining HCC, he was associated with
+Vishvaraj Group as Group Chief Human Resource
+Officer, where he was responsible for driving the HR
+strategy and bu ilding a high-performance culture
+across the organisation. He played a key role in
+organisational
+tran sformation,
+leadership
+development, capability building , performance
+management and strengthening HR practices to
+support the Group's growth and expansion.
+Over the years, he has also held senior HR
+leadership positions with reputed orga nisations
+including Jindal Water Infrastructure Lim ited, Larsen
+& Toubro Limited, Shristi Group of Companies,
+Synefra Engineering & Construction Ltd . and
+Abhijeet Group of Industries, w here he contributed
+to various HR transformation, organisational
+development and talent management initiatives.
+Vivek holds a PGDBA in Marketing & HR from K. J.
+Somaiya Institute of Management Stud ies and
+Research, Mumbai, and a Bachelor's degree in
+Electroni cs & Telecommunication Engineering. He
+is also a certified Leadership Coach and Six Sigma
+Black Belt.
+
+www .hccindia.com
+
+
+Not Applicable
+
+4.
+
+Disclosure of relationsh ips
+between directors (in case of
+appointm ent of a director)
+
+Sr.
+No.
+
+Particulars
+
+1.
+
+Reaso n
+for
+change
+viz.
+appointment, re-appointment,
+resignation, rem oval, death or
+otherwise
+
+2.
+
+Date of appointment I re- Date: November 17, 2026
+appointment /cessation (as
+term
+of Term : Not Applicable
+applicable)
+&
+appointment I re-appointment
+
+3.
+
+Brief profile
+appointment)
+
+4.
+
+Disclosure of
+relationships Not Applicable
+between directors (in case of
+appointment of a Director)
+
+B. Mr. Jyotirmoy Banerjee
+Details
+
+(in
+
+case
+
+Resignation
+
+of Not Applicable
+
+www .hccindia.com
+
+
+To,
+The Vice Chairman and Managing Director,
+Hindustan Construction Company Ltd
+HINCON House , LBS Marg, Vikhroli (West), Mumbai- 83
+
+Dear Sir,
+This has reference to my resignation in order to pursue new challenges and opportunities that
+align more closely with his long-term career goals and subsequent discussions that we had in
+the interim.
+Request you to kindly treat 17th November 2026 as my last working day in HCC. I am grateful
+to the leadership team for the support extended throughout my tenure.
+I wish HCC a glorious future ahead.
+
+Regards,
+
+Jyotirmoy Banerjee
+Chief Human Resource Officer
+Hindustan Construction Co. Ltd
+
+17th Nov 2026
+
+

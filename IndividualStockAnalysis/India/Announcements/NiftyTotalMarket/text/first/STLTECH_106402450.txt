@@ -1,0 +1,49 @@
+ 
+ 
+  
+   
+ 
+www.stl.tech  
+ 
+Sterlite Technologies Limited  
+Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra - 411 001, India .                                 
+CIN - L31300PN2000PLC202408   
+October  9, 2025  
+ 
+National Stock Exchange of India Limited  
+Exchange Plaza, 5th Floor,  
+Plot No. C -1, G Block,  
+Bandra Kurla Complex, Bandra (East)  
+Mumbai – 4000517  
+ 
+Scrip ID -  STLTECH  BSE Limited  
+Phirozee Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai – 400001  
+  Scrip Code -  532374  
+ 
+Sub: - Press Release –  STL and QNu announce collaboration to advance research in leveraging 
+quantum communications over optical fibre  
+ Dear Sir/Madam,  
+ 
+Sterlite Technologies  Limited (‘STL’) today signed an MoU with QuNu Labs Pvt. Ltd., to strengthen R&D 
+capabilities in  Quantum Communications over Optical Fibre transmission.  A copy of press release in 
+this regard is enclosed herewith.  
+Kindly take the above on record.  
+ 
+Thanking yo u. 
+ Yours faithfully,  
+For Sterlite Technologies Limited  
+   Mrunal Asawadekar  
+Company Secretary (ACS 24346) 
+ Enclosure: As above  
+ 
+   
+       
+ 
+www.stl.tech  
+Sterlite Technologies Limited Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                 CIN - L31300PN2000PLC202408   PRESS RELEASE                                              STL and QNu announce collaboration to advance research in leveraging quantum communications over optical fibre New Delhi, 09/October/2025: STL [NSE: STLTECH], an advanced connectivity solutions company for digital infrastructure, today signed an MoU with QuNu Labs Pvt. Ltd., to strengthen R&D capabilities in Quantum Communications over Optical Fibre transmission.  QNu Labs, incubated at IIT Madras Research Park in 2016 and backed by the National Quantum Mission (DST, Govt. of India), is India’s pioneering end-to-end quantum cybersecurity company with global presence to secure the world’s digital infrastructure against quantum threats with a vision to make India a leader in quantum-secure communications.  India’s quantum-communication sector is forecasted to grow to ~USD $139.8 million by 2030 — a compound annual growth rate of ~34.6%. Quantum communications is rapidly becoming a strategic imperative for India — driven by both security demands and technological opportunity. Under the National Quantum Mission, with an outlay of ~₹6,000 crore, India is driven to build real quantum-secure systems by 2031. India’s efforts have put us on a path to build and develop quantum-secure networks for India and the world. STL is among the first companies to demonstrate on-field deployments of Multi-Core Fibre (MCF) technology, an enabler for Quantum Communications, with a complete ecosystem of fibres, cables, and termination solutions. MCF leverages Space Division Multiplexing in 7 and 4-core fibre to achieve ultra-high transmission capacity per fibre within the same diameter. STL’s MCF solution is a major leap forward, specially designed to meet the critical demands of hyperscale Data Centres, 5G, and quantum applications in the era of Gen AI, online gaming, and ultra-high bandwidth 8K-12K video streaming. STL’s MCF cabling technology was deployed in India’s Department of Telecommunications (DoT)-sponsored Advanced Optical Communications (AOC) Test Bed at IIT-Madras, complying with Essential Requirements (ER) led by TEC standards. In this collaboration, QNu Labs has successfully demonstrated its Quantum Key Distribution (QKD) system over STL’s 4-core Multi-Core Fiber (MCF), achieving secure key exchange across 170 km alongside 800 Gbps of classical data transmission, and over 150 km with 1.8 Tbps of classical traffic — marking a significant milestone in integrating quantum security with high-capacity optical networks.  Through this collaboration, STL will further accelerate its research in quantum-secure communication, combining its advanced optical fibre transmission technologies with QNu’s expertise in QKD, hybrid quantum cybersecurity and quantum cryptography solutions. Together, the two companies aim to develop scalable, future-ready architectures that will enable India’s leadership in global quantum networks. Also, by coming together, the best of the breed technologies from both leaders will be available for India and the global markets. Both organisations will explore, evaluate, demonstrate and prepare deployments of quantum-safe communication networks and fibre connectivity solutions in India. 
+       
+ 
+www.stl.tech  
+Sterlite Technologies Limited Registered office: 4th Floor, Godrej Millennium, Koregaon Road 9, STS 12/1, Pune, Maharashtra- 411 001, India.                                 CIN - L31300PN2000PLC202408  “We are not just protecting digital assets – we are working towards making India a quantum-safe nation and fortifying our digital sovereignty,” said Sunil Gupta, CEO, QNu Labs. “Our partnership with STL will bring together their expertise in advanced optical fibre networks and our quantum security solutions, enabling the development of next-generation, secure communication infrastructure that can scale for India and beyond.” Commenting on this partnership, Dr Badri Gomatam, CTO, STL, said, “STL has always pushed the boundaries of what’s possible with optical fibre, and teaming up with QNu Labs adds a whole new dimension - STL’s global leadership in optical fibre transmission and QNu’s pioneering quantum security expertise. Together, we can build secure, future-ready networks that not only serve India’s needs but also set new benchmarks globally.”  About QNu Labs:  QNu Labs, incubated at IIT Madras Research Park in 2016 and backed by India’s National Quantum Mission, is the country’s pioneering quantum cybersecurity company. Its flagship platform, QShield™, delivers full-stack, end-to-end integrated, indigenous, quantum-safe security for governments, defence, and enterprises. With global patents, partners, and deployments, QNu is advancing  QKD networks, satellite/free-space QKD, crypto agility, post-quantum cryptography solutions, and quantum-safe communications worldwide.  Read More | Contact Us | Whitepaper | Blogs | YouTube | LinkedIn About STL - Sterlite Technologies Ltd: STL is a global leader in advanced connectivity solutions, providing end-to-end solutions for building AI-ready infrastructure, FTTx, Rural, Enterprise and Data Centre networks. With manufacturing facilities in North America, Europe and Asia, we deliver our solutions in more than 100 countries. Data Centre & Cloud companies, Telecom operators, Internet service providers and Large enterprises collaborate with STL to build their future-ready digital infrastructure. STL’s business goals are driven by customer-centricity, R&D and sustainability. Read more, Contact us, stl.tech | Twitter | LinkedIn| YouTube    For more information, contact:  Media Relations Investor Relations Shaily Rai Sinha Rahul Darak Phone: +91 22 30450450 Phone: +91 22 30514000 stl.communications@stl.tech investor@stl.tech   

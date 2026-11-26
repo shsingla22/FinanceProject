@@ -1,0 +1,115 @@
+ 
+Bharti Airtel Limited  
+(a Bharti Enterprise)  
+Regd. Office:  Airtel Center, Plot No. 16, U dyog Vihar, Phase- IV, Gurugram -  122015, India  
+Corporate Office:  Bharti Crescent, 1, Nelson Mandela Road, Vasant Kunj, Phase II, New Delhi - 110070, India  
+T.: +91 -124-4222222, F.: +91 -124-4248063, Email : compliance.officer@bharti.in,  Website:  www.airtel.in   
+CIN: L74899HR1995PLC095967  
+ 
+ 
+   
+ 
+March  01, 2026  
+  
+National Stock Exchange of India Limited 
+Exchange Plaza, C -1 Block G  
+Bandra Kurla Complex, Bandra (E)  
+Mumbai – 400051, India  
+Symbol: BHARTIARTL/ AIRTELPP  
+ 
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street , Mumbai – 400001, India  
+Scrip Code: 532454/ 890157  
+ Sub: Press Release  
+ Dear Sir/ Ma’am,  
+ We are enclosing herewith a press release dated March  01, 2026  titled  ‘Airtel and 
+Google Collaborate to Advance Spam Protection in India With Secure RCS  Messaging ’ 
+being issued by the Company.  
+ 
+Kindly take the same on record.   
+ Thanking you,  
+Sincerely y ours,  
+ For Bharti Airtel Limited 
+ 
+  Rohit Krishan Puri  
+Company Secretary & Compliance Officer  
+       
+ 
+ 
+  
+   
+             
+Airtel and Google Collaborate to Advance Spam Protection in India With Secure RCS 
+Messaging  
+Roll-out of an AI-powered, safer rich messaging experience in India  
+March 1, 2026, New Delhi (India):  Bharti Airtel, one of India’s leading telecommunications service 
+providers, and Google have announced a collaboration to offer a secure and engaging messaging experience 
+for millions of users in India. By combining Airtel’s network intelligence with Google’s Rich 
+Communications Services (RCS) platform and spam filtering, users get to experience RCS messaging with 
+high-quality photo/video and interactive elements like message reactions, all while benefiting from enhanced 
+protections that significantly reduce mobile spam and digital fraud.  
+Over the last 1.5 years, Airtel has led India’s fight against spam and digital fraud through a series of industry-
+first, AI-powered initiatives aimed at protecting customers across calls and messages. Proving a track record 
+in protecting customers, Airtel has, to date, through all its innovative spam fighting initiatives, blocked a 
+staggering 71 billion spam calls and 2.9 billion spam SMSes that has led to a huge 68.7% decrease in the 
+value of financial losses on its network.  
+A critical protection gap however continues to exist within the digital ecosystem. While traditional mobile 
+networks that offer messaging operate under safety standards and telco-grade safeguards, many other non-
+telco communication platforms and standalone apps lack these safeguards. These channels have therefore 
+increasingly been exploited by sophisticated bad actors, becoming common tools for financial fraud and 
+invasive spam.  
+This innovative partnership between Airtel and Google is designed to bridge that gap, extending the 
+accountability of telecom-grade safeguards to the modern messaging experience. By integrating Airtel’s 
+intelligence into the RCS platform and Google’s existing spam protections, the companies are setting a new 
+benchmark for a secure carrier-backed messaging service. 
+Gopal Vittal, Executive Vice Chairman – Bharti Airtel , said, “At Airtel, we are obsessed with customer 
+protection and continue to be at the forefront to lead India’s fight against spam. We do this by harnessing 
+data, intelligent networks and relentless innovations so our customers are protected end-to-end. In a 
+pioneering initiative, we have now partnered with Google to extend customer protection beyond the telco 
+domain and made the rich messaging platform safer and more secure. We now call on the broader OTT 
+communication platforms to work with us and make sure that customers are protected from the spam and 
+financial fraud menace.” 
+Sameer Samat, President, Android Ecosystem at Google, said, “This pioneering partnership in India with 
+Airtel helps ensure that mobile users can communicate with confidence. We are committed to continuing to 
+work with the broader ecosystem of carriers to standardize messaging security and create a consistent and 
+trusted messaging experience for all RCS messaging users around the world.” 
+Brands leveraging the messaging service for enterprise communications will be able to foster trust amongst 
+their customers by enabling them to easily distinguish legitimate business messages from spam and stay 
+  
+   
+             
+protected from potential risks that may emerge in other messaging platforms without these stringent checks. 
+The solution will enable brands to build deeper engagement with their customers who will feel safer and in 
+more control. This will, in turn, lead to enduring customer relationships which are imperative for business 
+growth and success. 
+The platform will offer stringent real-time checks to:   
+1. Validate message sender’s identity  using telco-backed business identity checks.   
+2. Respect users’ DND preferences  by categorising communications as promotional or transactional 
+and imposing restrictions, accordingly.   
+3. Block spam business messages  from landing on customers’ devices.  
+4. Filter malicious domains  through a multitiered threat detection layer.  
+5. Help keep users safe  by throttling messages from individual senders who have been jointly flagged 
+by Google and Airtel's AI-powered spam filters. 
+The messages sent through the RCS messaging service platform can be directly viewed in Google Messages, 
+available on most Android phones.  
+Airtel and Google’s collaboration represents a world-first example of how telecom service providers (TSPs) 
+and global technology platforms can work together to apply analogous safety, verification, and accountability 
+measures to OTT messaging — measures that have long existed in telecom networks.  
+This joint initiative by Airtel and Google serves as a blueprint for the industry, demonstrating how deeper 
+collaboration can significantly enhance customer protection. By combining telco-grade verification with 
+platform-level intelligence, the messaging service platform enables shared, AI- driven checks across sender 
+authentication, customer consent and real-time threat detection to create safer digital networks in India.  
+*** 
+About Bharti Airtel  
+Headquartered in India, Airtel is a global communications solutions provider with over 600 million customers in 15 countries 
+across India and Africa. The company also has its presence in Bangladesh and Sri Lanka through its associate entities. The company 
+ranks amongst the top three mobile operators globally and its networks cover over two billion people. Airtel is India’s largest 
+integrated communications solutions provider and the second largest mobile operator in Africa. Airtel’s retail portfolio includes 
+high-speed 4G/5G mobile, Wi-Fi (FTTH+ FWA) that promises speeds up to 1 Gbps with convergence across linear and on-demand 
+entertainment, video streaming services, digital payments and financial services. For enterprise customers, Airtel offers a gamut 
+of solutions that includes secure connectivity, cloud and data centre services, cyber security, IoT, and cloud-based communication. 
+Airtel’s digital arm – Xtelify, empowers telcos globally to leverage the power of AI, data and technology to accelerate their digital 
+transformation and drive growth. Xtelify also offers Airtel Cloud in India enabling enterprises with a sovereign, telco-grade cloud 
+platform that guarantees secure migration, effortless scaling, lower costs and no vendor lock-ins. Within its diversified portfolio, 
+Airtel also offers passive infrastructure services through its subsidiary Indus Tower Ltd. For more details visit www.airtel.com  

@@ -1,0 +1,289 @@
+[ 
+  
+Intellect/SEC/2024-25                                                                 January 24, 2025 
+ 
+1. National Stock Exchange of India Limited,  
+Exchange Plaza, 5th Floor, Plot No. C/1, G Block,  
+Bandra Kurla Complex, Bandra (E), Mumbai – 400 051. 
+ Scrip Symbol : 
+INTELLECT 
+2. BSE Limited,  
+1st Floor, New Trade Ring, Rotunda Building, PJ Towers, 
+Dalal Street, Fort, Mumbai – 400 001. 
+ Scrip Code : 
+538835 
+Dear Sir/Madam, 
+  
+Sub: Integrated Filing (Financial) for the Quarter and nine months ended on December 31, 2024   
+ 
+Pursuant to SEBI Circular No. SEBI/HO/CFD/CFD-PoD-2/CIR/P/2024/185 dated December 31, 2024, 
+read with BSE Circular No. 20250102-4 and NSE Circular No. NSE/CML/2025/02 dated January 2, 
+2025, please find enclosed herewith the Integrated Filing (Financial) for the quarter and nine months 
+ended December 31, 2024.  
+ 
+ 
+The above information is also available at the website of the Company viz., www.intellectdesign.com  
+and on the website of the respective Stock Exchanges. 
+ 
+Kindly take the above information on record and confirm compliance. 
+ 
+Thanking you, 
+ 
+For Intellect Design Arena Limited,  
+ 
+ 
+ 
+V V Naresh 
+Company Secretary and Compliance Officer 
+ 
+Encl: As above 
+ 
+CA) 4 f\McJ' cl 
+INTELLECT DESIGN ARENA LIMITED 
+CIN : L72900TN 2011PLC0801 83 
+Regd Office: Carex Centre, 244 (Old no. 713) Anna Salal, Chennal 600 006, Ph:+91-44-6700 8000, Fax:+91-44-6700 8874 
+UNAUDITED STANDALONE AND CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2024 
+(Rs. In mllllon} 
+Standalone Consolldated 
+Quarter ended Quarter ended Quarter ended Nine months Nine months Vear ended Quarter ended Quarter ended Quarter ended Nine months Nine months Vear ended ended ended ended ended PARTICULARS December 31, September 30, December 31, March 31, December 31, Sept~mber 30, December 31, March 31, 
+2024 2024 2023 December 31, December 31, 2024 2024 2024 2023 December 31, December 31, 2024 2024 2023 2024 2023 
+Unaudited Unaudited Unaudited Unaudited Un;;1udlted Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+Income 
+Revenue from operations 3,867.00 3,341.60 4,206.03 11,062.10 12,521.78 16,789.41 6,096.26 5,581.29 6,343.46 17,740.98 18,927.76 25,064.43 
+Other income 121.60 294.56 252.78 419.50 463.03 563.12 151.74 285.40 198.32 543.99 419.65 589.68 
+Total income 3,988.60 3,636.16 4,458.81 11,481.60 12,984.81 17,352.53 6,248.00 5,866.69 6,541.78 18,284.97 19,347.41 25,654.11 
+Expenditure 
+Employee benefits expense (Refer note 2) 2,356.30 2,367.43 2,129.34 7,029.36 6,107.76 8,395.43 3,745.60 3,722.26 3,388.08 11,120.21 9,836.42 13,403.83 
+Depreciation and amortisation expenses 265.02 253.65 229.03 754.27 667.99 892.54 396.42 387.99 342.52 1,149.71 1,019.58 1,372.23 
+Finance cost 5.71 6.92 1.96 17.97 6.54 8.25 10.23 11.64 6.47 32.00 19.23 26.19 
+Other expenses 896.84 676.89 1,382.49 2,283.79 4,186.63 5,405.22 1,163.08 1,049.19 1,646.10 3,357.64 5,062.37 6,267.16 
+Total expenses 3,523.87 3,304.89 3,742.82 10,085.39 10,968.92 14,701.44 5,315.33 5,171.08 5,383.17 15,659.56 15,937.60 21,069.41 
+Profit before share of profit of associates and tax 464.73 331.27 715.99 1,396.21 2,015.89 2,651.09 932.67 695.61 1,158.61 2,625.41 3,409.81 4,584.70 
+Share of profit/ (loss) of associates (net of tax) 4.50 2.04 (1.57) (9.79) (22.18) 27.14 
+Profit before tax 464.73 331.27 715.99 1,396.21 2,015.89 2,651.09 937.17 697.65 1,157.04 2,615.62 3,387.63 4,611.84 
+Income tax expense 
+Current tax (a) 121.94 56.39 248.31 320.27 630.97 1,032.42 227.84 139.21 327.46 590.17 883.38 1,407.30 
+Deferred tax (b) 1.10 33.48 (19.24) 41.91 10.73 (162.39) 1.35 33.72 (19.22) 45.29 10.71 (147.58) 
+Exceptional item 
+Net tax expense on account of adoption of new tax regime rate 
+(refer Note 3) (c) 125.05 125.05 
+Total tax expenses la) +(bl+ (c) 123.04 89.87 229.07 362.18 641.70 995.08 229.19 172.93 308.24 635.46 894.09 1,384.77 
+Profit after tax 341.69 241.40 486.92 1,034.03 1,374.19 1,656.01 707.98 524.72 848.80 1,980.16 2,493.54 3,227.07 
+Profit for the year/ period attributable to 
+Owners of the Company 341.69 241.40 486.92 1,034.03 1,374.19 1,656.01 701.91 528.06 843.09 1,974.56 2,482.17 3,211.88 
+Non controlling interest 6.07 (3.34} 5.71 5.60 11.37 15.19 
+Other Compreh ensive Income (net of tax) 
+Items that wlll be reclassified subsequently to profit or loss 
+Net movement on cash flow hedges (175.64} (107.24) 29.25 (285.04) 237.30 296.09 (175.64) (107.24) 29.25 (285.04) 237.30 296.09 
+Exchange d1tterences on translation at tore1gn operation s (159.47) 339.30 218.31 166.55 217.87 134.06 
+Items that will not be reclassified subsequently to profit or loss 
+Re-measurement (losses)/ gains on defined benefit plans (2.50} (5.75) 1.43 0.38 29.80 16.66 (2.54} (5.77) 1.33 0.40 29.96 16.77 
+Other Comprehensive (Loss)/ Income for the year/ period (net of tax) (178.14) (112.99} 30.68 (284.66) 267,10 312.75 (337.65) 226.29 248.89 (118,09) 485.13 446,92 
+Total Comprehensive Income for the year/ period 163.55 128.41 517.60 749,37 1,641.29 1,968.76 370,33 751,01 1,097.69 1,862.07 2,978.67 3,673.99 
+Total Comprehensive Income for the year/ period attributable to 
+Owners of the Company 163.55 128.41 517.60 749.37 1,641.29 1,968.76 362.72 756.13 1,090.36 1,863.77 2,968.74 3,660.25 
+Non controlling interest 7.61 (5.12} 7.33 (l.70} 9.93 13.74 
+Paid-up Equity share Capital 
+Equity shares of Rs. 5 each 693.21 690.90 683.48 693.21 683.48 684.12 693.21 690.90 683.48 693.21 683.48 684.12 
+Other equity 16,890.15 23,704.41 
+Earning Per Share (EPS) # 
+Basic 
+.J~ll._ 2.49 1.76 3.59 7.56 10.16 12.23 5.11 3.86 6.22 14.44 18.35 23.72 
+Diluted 2.40 1.70 3.47 7.26 9.83 11.78 4.94 3.73 6.00 13.87 17.75 22.85 
+II Not Annualised for the interim periods 
+~ (}ft}, ~! ~ ---
+INTELLECT DESIGN ARENA LIMITED 
+CIN : L72900TN2011PLC080183 
+Regd Office: Care• Centre, 244 (Old no. 713) Anna Sala!, Chennai 600 006, Ph:+91-44-6700 8000, Fax:+91-44-6700 8874 
+UNAUDITED STANDALONE AND CONSOLIDATED FINANCIAL RESULTS FOR THE QUARTER AND NINE MONTHS ENDED DECEMBER 31, 2024 
+NOTES: 
+1) The Standalone and Consolidated financial results for the quarter ended December 31, 2024 were recommended by Audit Commltee at lts meeting held on January 23, 2025 and approved by the Board of Directors at its meeting held on January 24, 2025 which was subject 
+to limited review by Statutory Auditors. These financial results are prepared In accordance with the recognition and measurement principles laid down under lndlan Accounting Standard (Ind AS) 34 on 'Interim Financial Reporting, prescribed under Section 133 of the 
+Companies Act. 2013, as amended, read with relevant rules thereunder and in terms of Regulation 33 of the Securities and Exchange Board of India (listing Obligations and Dlsclosure Requirements) Regulations 2015, as amended . 
+2) The Consolidated financial results Includes the flnanclal results of the Company,lts subsidiaries (together 11the Group") and its Associates . 
+3) The Company's step down subsidiary, Intellect Design Arena Inc., Canada (Intellect), has signed an acreement on January 23, 2025 with Central 1 Credit Union (Central 1), in which ln1ellect wlll assume responslblllty of Central l's dlgltal banking operations . Under the 
+agreement, Central l's Forge, Member Direct, public website, and mobile applications and products, along with digital banklna engineering and service teams, will be transferred to Intellect. 
+4) Employee benefits expense Includes employee stock based compensation of Rs. 101.56 milllon for the quarter ended December 31, 2024 in the standalone and consolidated financial results (for the quitrter ended September 30, 2024 and December 31, 2023 was 
+Rs. 133.83 milllon and Rs. 112 million, respective ly and for the year ended March 31,2024 was Rs. 474 mllllon). During the quarter, the Company has allotted 462,034 equity shares of 5 each fully paid-up, on exercise of stock options by employees In accordance with the 
+Company's slack option scheme. 
+5) During the year ended March 31, 2024, the Company (being a domestic company), opted to pay corporate income tax rate at 22% plus applicable surcharge and cess ('New tax rate'} with effect from Aprll l, 2024. As a consequence, the tax expense for the year ended 
+March 31, 2024 in the standalone/ consolidated financlal results included a reduction in deferred tax charge arising out of the re-measurement of deferred ta.x liabllity that was e.xpected to reverse In future after migrating to new tax regime. Under the New Tax Regime, the 
+provisions of Section llSJB-Mln lmum Alternate Tax (MAT) would no longer be applicable and hence the MAT credit balance amounting to Rs. 125.05 million, for periods up to March 31, 2024, was written off. Net Impact due to this change was considered as an exceptional 
+tax expense in the year ended March 31, 2024. 
+6) Based on the "Management Approach' ' as defined under Ind AS 108 Operating Segments, the Company's performance is evaluated and resources are allocated based on an analysis of various performance indicators by a single business segment I.e. 'Software Product 
+License & related services'. 
+7) Figures of the earlier periods, wherever necessary, have been regrouped to conform with those of the current periods. 
+Place: (henna! 
+Date: January 24, 2025 For Intellect Design Arena Limited ~ 
+Arun Jain 
+Chairman and Managing Director 
+DIN: 00580919 ~~ 
+Vasudha s 
+Chief Financial Officer 
+MSKC & Associates LLP 
+(Formerly known as MS KC & Associates) 
+Chartered Accountants HO 
+Floor 2, 101-106 Congress Bu1lcl111gs 
+573 Mount Road 
+Chennai 600006, INDIA 
+Tel: +91442434 9866, •91 44 2434 9867 
+Independent Auditor's Review Report on Standalone unaudited financial results of Intellect Design Arena Limited 
+for the quarter and nine months ended December 31, 2024 pursuant to the Regulation 33 of the SEBI (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015, as amended. 
+To The Board of Directors of Intellect Design Arena Limited 
+1. We have reviewed the accompanying statement of standalone unaudited financial results of Intellect Design Arena 
+Limited (hereinafter referred to as 'the Company') for the quarter and nine months ended December 31, 2024 
+('the Statement') attached herewith , being submitted by the Company pursuant to the requirements of 
+Regulation 33 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, as amended ('the Regulations'). 
+2. This Statement, which is the responsibility of the Company 's Management and has been approved by the 
+Company's Board of Directors, has been prepared in accordance with the recognition and measurement principles 
+laid down in Indian Accounting Standard 34 'Interim Financial Reporting', prescribed under Section 133 of the 
+Companies Act, 2013 ('the Act') read with relevant rules issued thereunder ('Ind AS 34') and other recognized 
+accounting principles generally accepted in India and is in compliance with the Regulations. Our responsibility is 
+to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410, 
+"Review of Interim Financial Information Performed by the Independent Auditor of the Entity" issued by the 
+Institute of Chartered Accountants of India. A review of interim financial information consists of making inquiries, 
+primarily of persons responsible for financial and accounting matters, and applying analytical and other review 
+procedures . A review is substantially less in scope than an audit conducted in accordance with Standards on 
+Auditing specified under section 143(10) of the Act and consequently does not enable us to obtain assurance that 
+we would become aware of all significant matters that might be identified in an audit. 
+Accordingly , we do not express an audit opinion. 
+4. Based on our review conducted as stated in paragraph 3 above, nothing has come to our attention that causes us 
+to believe that the accompanying Statement prepared in accordance with the recognition and measurement 
+principles laid down in Ind AS 34 and other recognized accounting principles generally accepted in India has not 
+disclosed the information required to be disclosed in terms of the Regulations , including the manner in which it 
+is to be disclosed , or that it contains any material misstatement. 
+5. The Statement of the Company for the quarter and nine months ended December 31, 2023 and year ended March 
+31, 2024 was reviewed/audited by predecessor auditor who issued an unmodified conclusion/opinion on these 
+results on January 25, 2024 and May 09, 2024 respectively . 
+Our conclusion is not modified in respect of the above matter. 
+For MS KC & Associates LLP (formerly known as MS KC & Associates) 
+Chartered Accountants 
+!CAI Firm Registration Number: 001595S/S000168 
+Geetha Jeyakumar 
+Membership No.: 029409 
+UDIN: 2502. '1+DC)f?,M fvl ,ITW4246 
+Place: Chennai 
+Date: January 24, 2025 
+Head Office: Floor 2, 101-106 Congress Buildings, 573 Mount Road, Chennai 600006, INDIA 
+Tel: +914424349866 , +91 44 2434 9867 I LLPIN: ACK-7004 
+Bengaluru I Chennai I Gurugram I Hyderabad I Kolkata I Mumbai I Pune 
+MSKC & Associates LLP 
+(Formerly known as M 5 KC & Associates) 
+Chartered Accountants HO 
+Floor 2. 101-106 Cong, ess Burld111gs 
+573 Mount Road 
+Chennai 600006, INDIA 
+Tel: •91 44 2434 9866, •91 44 2434 9867 
+Independent Auditor's Review Report on consolidated unaudited financial results of Intellect Design Arena 
+Limited for the quarter and nine months ended December 31, 2024 pursuant to the Regulation 33 of the SEBI 
+(Listing Obligations and Disclosure Requirements) Regulations , 2015, as amended 
+To the Board of Directors of Intellect Design Arena Limited 
+1. We have reviewed the accompanying Statement of consolidated unaudited financial results of Intellect Design 
+Arena Limited (hereinafter referred to as 'the Holding Company') , its subsidiaries , (the Holding Company and its 
+subsidiaries together referred to as the 'Group') and its share of the net profit after tax and total comprehensive 
+loss of its associates for the quarter and nine months ended December 31, 2024 ('the Statement') attached 
+herewith , being submitted by the Holding Company pursuant to the requirements of Regulation 33 of the Securities 
+and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations , 2015, as amended 
+('the Regulations'). 
+2. This Statement , which is the responsibility of the Holding Company 's Management and approved by the Holding 
+Company's Board of Directors , has been prepared in accordance with the recognition and measurement principles 
+laid down in Indian Accounting Standard 34 'Interim Financial Reporting' prescribed under Section 133 of the 
+Companies Act, 2013 ('the Act') read with relevant rules issued thereunder ('Ind AS 34') and other recognised 
+accounting principles generally accepted in India and is in compliance with the Regulations . Our responsibility is 
+to express a conclusion on the Statement based on our review. 
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410, 
+'Review of Interim Financial Information Performed by the Independent Auditor of the Entity' issued by the 
+Institute of Chartered Accountants of India. A review of interim financial information consists of making inquiries, 
+primarily of persons responsible for financial and accounting matters, and applying analytical and other review 
+procedures. A review is substantially less in scope than an audit conducted in accordance with Standards on 
+Auditing specified under section 143(10) of the Act and consequently does not enable us to obtain assurance that 
+we would become aware of all significant matters that might be identified in an audit. 
+Accordingly , we do not express an audit opinion. 
+We also performed procedures in accordance with the circular issued by the Securities and Exchange Board of 
+India under Regulation 33 (8) of the Regulations , to the extent applicable . 
+4. This Statement includes the results of the Holding Company and the following entities 
+Sr. No Name of the Entity Relationship with the HoldinR Company 
+1 . Intellect Arena Pte Limited, Singapore Subsidiary Company 
+2. Intellect Design Arena Limited, United Kingdom Subsidiary Company 
+3. Intellect Design Arena SA, Switzerland Subsidiary Company 
+4. Intellect Design Arena FZ-LLC Subsidiary Company 
+5. Intellect Commerce Limited, India Subsidiary Company 
+6. Intellect Design Arena Chile Limitada, Chile Subsidiary Company 
+7. Intellect Design Arena Inc., USA Subsidiary Company 
+8. Intellect APX Private Limited, India Subsidiary Company 
+9. Intellect Design Arena Co. Ltd, Vietnam Subsidiary Company 
+10. Intellect Design Arena Philippines, Inc Subsidiary Company 
+11. Sonali Intellect Limited, Bangladesh Subsidiary Company 
+12. Intellect Design Arena, PT Indonesia Subsidiary Company 
+13. Intellect Design Arena Inc., Canada Subsidiary Company 
+14. Intellect Design Arena Limited, Thailand Subsidiary Company 
+15. Intellect Design Arena Limited, SON BHD, Malaysia Subsidiary Company 
+16. Intellect Design Arena Pty Ltd., Australia Subsidiary Company 
+-............ 17. Intellect Payments Limited, India Subsidiary Company 
+f;;ssoct?- 18. Intellect India Limited Subsidiary Company 
+v d>,, 19. Intellect Design Arena Limited, Kenya Subsidiary Company 
+~ fJf I',-,. :. I-o► Head Office: Floor 2, 101-106 Congress Buildings, 573 Mount Road, Chennai 600006. INDIA * •• Tel: +91 44 2434 9866, +91 44 2434 9867 I LLPIN: ACK-7004 
+~ ,.e, 
+~"'" Bengaluru I Chennai I Gurugram I Hyderabad I Kolkata I Mumbai I Pune 
+_ erJAc,;,O~<:< 
+MSKC & Associates LLP 
+(Formerly known as MS KC & Associates) 
+Chartered Accountants 
+Sr. No Name of the Entity 
+20. Intellect Design Arena Limited GmbH, Germany 
+21. Intellect Design Arena (Mauritius) Limited, Mauritius 
+22. Intellect Polaris Design LLC, USA 
+23. Intellect Design Arena Hungary, LLC 
+24. Intellect Design Arena Arabia Limited, Saudi Arabia 
+25. Intellect Design Arena, South Africa 
+26. NMS Works Software Private Limited, India 
+27. Adrenaline -Systems Limited, India Relationship with the HoldinR Company 
+Subsidiary Company 
+Subsidiary Company 
+Subsidiary Company 
+Subsidiary Company 
+Subsidiary Company 
+Subsidiary Company 
+Associate Company 
+Associate Company 
+5. Based on our review conducted and procedures performed as stated in paragraph 3 above and based on the 
+consideration of the review reports of the other auditors referred to in Paragraph 6 below , nothing has come to 
+our attention that causes us to believe that the accompanying Statement prepared in accordance with the 
+recognition and measurement principles laid down in Ind AS 34 and other recognised accounting principles 
+generally accepted in India has not disclosed the information required to be disclosed in terms of the Regulations , 
+including the manner in which it is to be disclosed , or that it contains any material misstatement. 
+6. The accompanying statement includes the unaudited interim Ind AS financial results and other unaudited financial 
+information in respect of: 
+a. 25 subsidiaries , whose interim financial results include total revenues of INR 4,175.68 Mn and INR 
+12,141.45 Mn, total net profit after tax of INR 369.27 Mn and INR 949.31 Mn, total comprehensive income 
+of INR 204.03 Mn and INR 1,099.71 Mn for the quarter and the nine months ended December 31, 2024, 
+respectively as considered in the Statement which have been reviewed by another auditor. 
+b. 2 Associates , whose interim financial results include Group's share of loss after tax and Group's share of 
+total comprehensive income/(loss) of INR 4.50 Mn and INR (9.79) Mn for the quarter and the nine months 
+ended December 31, 2024 respectively , as considered in the Statement whose financial results have been 
+reviewed by another auditor. 
+The independent auditor's report on Interim Ind AS financial results of these entities has been furnished to us by 
+the management and our conclusion on the Statement , in so far as it relates to the amounts and disclosures in 
+respect of these subsidiaries and associates, is based solely on the report of such auditors and procedures 
+performed by us as stated in paragraph 3 above. 
+Our conclusion on the Statement in respect of matters stated in para 6 is not modified with respect to our reliance 
+on work done and the reports of the other auditors. 
+7. The Statement of the Company for the quarter and nine months ended December 31, 2023 and year ended March 
+31, 2024 was reviewed /audited by predecessor auditor who issued an unmodified conclusion/opinion on these 
+results on January 25, 2024 and May 09, 2024 respectively. 
+Our conclusion is not modified in respect of the above matter. 
+For MS KC ft Associates LLP (formerly known as MS KC ft Associates) 
+Chartered Accountants 
+ICAI Firm Registration Number: 001595S/S000168 
+Geetha Jeyakumar 
+Partner 
+Membership No.: 029409 
+UDIN: 2~02q 4-o'I 2,MM TIX 37 37 
+Place: Chennai 
+Date: January 24, 2025 
+Head Office: Floor 2, 101-106 Congress Buildings, 573 Mount Road, Chennai 600006, INDIA 
+Tel: +91 44 2434 9866, +91 44 2434 9867 I LLPIN: ACK-7004 
+Bengaluru I Chennai I Gurugram I Hyderabad I Kolkata I Mumbai I Pune 

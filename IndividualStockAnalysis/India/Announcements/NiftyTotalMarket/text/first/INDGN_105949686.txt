@@ -1,0 +1,96 @@
+
+
+
+
+INDEGENE LIMITED (formerly Indegene Private Limited)
+CIN No. U73100KA1998PLC102040
+Statement of Consolidated Financial Results for the quarter ended 30 June 2024
+(All amounts in ₹ millions, except share data and where otherwise stated)
+Sl. No. Particulars Year ended
+30 June 31 March 30 June 31 March 
+2024 2024 2023 2024
+Unaudited Audited 
+(Refer note 3)Unaudited Audited 
+1Income 
+(a) Revenue from operations 6,765                  6,730                         6,075               25,896             
+(b) Other income (net) 225                     232                            285                   763                   
+Total income 6,990                  6,962                         6,360               26,659             
+2Expenses
+(a) Employee benefits expense                   4,443 4,284                                         4,047               16,516 
+(b) Finance costs                      117                             123                    126                    494 
+(c) Depreciation and amortisation expense                      201                             185                    202                    761 
+(d) Other expenses                   1,033                          1,059                 1,060                 4,326 
+Total expenses 5,794                  5,651                         5,435               22,097             
+3Profit before exceptional item and tax (1-2) 1,196                  1,311                         925                   4,562               
+4Exceptional items (net) (refer note 7)                        -   24                              -                                         24 
+5Profit before tax (3+4)                   1,196                          1,335                    925                 4,586 
+6Tax expense
+ - Current tax                      352 131                            175                   1,255               
+ - Deferred tax                      (33) 256                            66                     (36)                    
+Total Tax Expense 319                     387                            241                   1,219               
+7Profit for the period / year (5-6) 877                     948                            684                   3,367               
+8Other Comprehensive Income (OCI), net of taxes
+Items that will not be reclassified subsequently to the statement of profit or loss:
+Remeasurement of defined benefit obligation                        15 (2)                               1                       ^
+Income tax impact                        (4) 1                                ^ ^
+Items that will be reclassified subsequently to profit or loss:
+Exchange differences on translating the financial statements of foreign operations                      (19) 19                              (20)                    79                     
+Total Other Comprehensive (Loss)/Income for the period/year (net of tax) (8)                        18                              (19)                    79                     
+9Total comprehensive income for the period / year (7+8) 869                     966                            665                   3,446               
+Profit for the period / year attributable to:
+Owners of the Parent 877                     948                            684                   3,367               
+Other Comprehensive (Loss)/Income for the period / year attributable to:    
+Owners of the Parent                        (8)                               18                    (19)                      79 
+Total comprehensive income for the period / year attributable to
+Owners of the Parent 869                     966                            665                   3,446               
+10Paid-up equity share capital (Face value of ₹ 2 each)                      479 444                            443                   444                   
+11Other equity 13,847             
+12Earnings per equity share (face value of ₹ 2 each)*
+  (a) Basic (in ₹)                     3.79                            4.27                   3.09 15.19               
+  (b) Diluted (in ₹)                     3.76                            4.24                   3.07 15.07               
+*Earnings per share is not annualised for quarter ended.
+See accompanying notes to the Consolidated Financial Results Quarter ended
+INDEGENE LIMITED (formerly Indegene Private Limited)
+CIN No. U73100KA1998PLC102040
+Notes to the Statement of Consolidated Financial Results for quarter ended 30 June 2024
+(All amounts in ₹ millions, except share data and where otherwise stated)
+1.
+2.
+3.
+4.
+5.
+6.
+7.The above Consolidated Financial Results of the Group have been prepared in accordance with Indian Accounting Standards ("Ind AS") 34 -
+Interim Financial Reporting, recognition and measurement principles of Indian Accounting Standards ("Ind AS") prescribed under Section
+133 of the Companies Act, 2013, as amended, read with the relevant rules issued thereunder and in terms of Regulation 33 of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015. ("the regulations"). Due to rounding off, the numbers presented
+throughout may not add up precisely to the totals. "^" in the financial information denote amounts less than ₹ 0.50 million.
+During the quarter ended 30 June 2024, the Companyhas completed Initial Public Offer (IPO)of 40,766,550 equity shares of facevalue of ₹2
+each at an issue price of ₹452 per share, comprising fresh issue of 16,833,818 shares aggregating to ₹7,600 and offer for sale of 23,932,732
+shares by selling shareholders aggregating to ₹10,818. The Equity shares of the Company were listed on National Stock Exchange of India
+Limited (NSE) and BSE Limited (BSE) on 13 May2024. The Company was not mandatorilyrequired to prepare and publish quarterlyresults
+for the quarter ended 30 June 2023 in accordance with the regulations.The Consolidated Financial Results for the quarter ended 30 June 2024, are available on the National Stock Exchange of India Limited (URL:
+www.nseindia.com), theBSE Limited website(URL: www.bseindia.com)and on the Company's website (URL:www.indegene.com/investor-
+relations).The above results have been reviewed by the Audit Committee and approved bytheBoard of Directors at its meetingheld on 01 August 2024.
+The statutory auditors have performed an limited review of the Consolidated Financial Results for the quarter ended 30 June 2024 and have
+issued an unmodified review report on the same.
+The Consolidated Financial Results include the results for the quarter ended 31 March 2024 being the balancing figure between the audited
+figure in respect of the full financial year and audited the year to date figure up to 31 December 2023.
+Exceptional items:On 22 March 2024, the Group had obtained control of Trilogy Writing & Consulting GmbH (‘Trilogy GmbH’), by acquiring 100% of its
+shares. The acquisition was consummated for a consideration of ₹1,457 which includes earnout payment of ₹489. The contingent
+consideration is based on the performance of Trilogy GmbH during the fiscal year beginning 01 April 2024 and ending 31 March 2025 and
+range of contingent consideration payable is between Nil to ₹ 1,268. The Group has concluded that the acquired set is a business.
+The purchase price allocation for Trilogy GmbH is provisional and will be finalized within the measurement period, but in no event later than
+oneyearfollowingthedateof acquisition. TheGroup is in theprocess of makinga finaldetermination of the fairvalue of assets and liabilities,
+contingent consideration and useful lives of certain identified intangibles. 
+On 12 October 2022, the Group had obtained control of Cult Health LLC by acquiring 100% interest to enhance the Group's
+commercialization portfolio adding market development and brand strategy competencies along with patient engagement platforms. The
+acquisition was consummated for a consideration of ₹ 5,347. The contingent consideration is based on the performance of Cult during the
+fiscal year beginning 01 April 2023 and ending 31 March 2026 and range of contingent consideration payable is between ₹ Nil to ₹ 3,040.
+Cult Health LLC is part of Omnichannel Activation segment. 
+The Group carried out remeasurement of the change in fair value of contingent consideration towards earnout payout, which was measured at
+its fair value on acquisition and recognised a resultant gain of ₹935. Change in fair value movement of contingent consideration has been
+recognized as an exceptional item during the quarter and year ended 31 March 2024. Further, the Group also carried out the assessment of
+recoverable value of the investments made in Cult Health LLC owing to reduction in revenues from certain customers and its impact on the
+future cash flows. The recoverable amount of this CGU estimated to be lower than carrying value, resulting into an impairment charge of
+₹911. The impairment charge had been recognized as an exceptional item during the quarter and year ended 31 March 2024.

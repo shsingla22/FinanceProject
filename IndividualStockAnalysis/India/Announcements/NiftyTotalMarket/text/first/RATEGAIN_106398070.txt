@@ -1,0 +1,318 @@
+ 
+ 
+Corporate Office:  Club 125, Plot No. A - 3,4,5, Tower A, 4th Floor,  
+Sector-125, Noida - 201301, UP, India | Tel: +91 120 5057000 
+Registered Office:  M-140, Greater Kailash, Part-Il, New Delhi - 110048 CIN No.: L72900DL2012PLC244966  
+Website: www.RateGain.com  
+E-Mail: help@rategain.com October 06, 2025 
+ 
+To, 
+National Stock Exchange of India Limited 
+(NSE: RATEGAIN)  
+BSE Limited 
+(BSE: 543417) 
+ 
+Sub: Transcript of Thirteenth (13th) Annual General Meeting held through 
+VC/OAVM on September 29, 2025 
+ 
+Dear Sir / Ma’am, 
+ 
+Please find enclosed the transcript of the Thirteenth (13th) Annual General Meeting of the 
+Company held through VC/OAVM on September 29, 2025.  
+ 
+The Transcript shall also be made available on the ‘Investors’ Section of the Company’s 
+website at www.rategain.com . 
+ 
+Please take the above information on record. 
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For RateGain Travel Technologies Limited 
+ 
+ 
+ 
+Mukesh Kumar 
+General Counsel,  
+Company Secretary & Compliance Officer 
+Membership No.: A17925  
+ 
+Encl.:  As above  
+ 
+ 
+ 
+ 
+ 
+ 
+Transcript of the 13th Annual General Meeting of RateGain Travel Technologies 
+Limited 
+ 
+Company Secretary:  Good morning, Dear Members. I am Mukesh Kumar, Company 
+Secretary and Compliance Officer of the company. It gives me immense pleasure to welcome 
+you all to the 13th Annual General Meeting of RateGain Travel Technologies Limited. The 
+members may note that this meeting is being held through video conferencing in compliance 
+with the requisite circulars of MCA and the requisite quorum being present. 
+  
+I request our Chairman and Managing Director, Mr. Bhanu Chopra, to call the meeting to order. 
+And I now hand over the proceedings to Mr Bhanu Chopra.  
+  
+Bhanu Chopra (Chairman and Managing Director):  Thank you, Mukesh. Good morning, 
+dear shareholders. I, Bhanu Chopra, Chairman and Managing Director of RateGain Travel 
+Technologies Limited, welcome you all to the 13th Annual General Meeting of the company. 
+I trust you're all well, and I extend my heartfelt gratitude for your virtual attendance. 
+  
+As the requisite quorum is present, I call the meeting to order. Before we begin the proceedings, 
+I would like to take this opportunity to introduce the esteemed members of the board, and the 
+key managerial personnel of the company present here today. Joining us through video 
+conferencing for today's meeting are: 
+ 
+1. Mr. Girish Vanvari, Independent Director and Chairperson of the Audit Committee, 
+Nomination and Remuneration Committee, and Risk Management Committee 
+ 
+2. Ms. Aditi Gupta, Independent Director and Chairperson of the Stakeholders Relationship 
+Committee 
+ 
+3. Mr. Aakrit Vaish, Independent Director 
+ 
+4. Mr. Rohan Mittal, Chief Financial Officer 
+ 
+5. Mr Mukesh Kumar, General Counsel, Company Secretary and Compliance Officer.  
+ 
+And apart from directors and KMPs, we also have with us present through video conferencing 
+Mr. Rajesh Agarwal and Mr. Sumit Mangal, representing Deloitte Haskins, the statutory 
+auditors; Mr. Manish Gupta and Ms. Ritu Khandelwal, representing RMG & Associates, the 
+secretarial auditors of the company, and Mr. Devesh Kumar Vasisht, Managing Director of 
+DPV & Associates LLP, practicing company secretaries as the scrutinizer of the meeting. We 
+are privileged to have their presence and valuable guidance during today's meeting. I thank all 
+the members, colleagues on the board, auditors and the management team for joining this 
+meeting. I now call upon Mukesh to brief the shareholders on the meeting formalities. 
+  
+Company Secretary:  Thank you, Sir. I would now like to take the members through some of 
+the key points with respect to the participation at this meeting. Your company has taken all the 
+steps to ensure participation and voting at the meeting by the shareholders in a seamless 
+manner. In this regard, the company has availed the services of NSDL and the facility for 
+participating in this meeting has been made available on a first-come, first-served basis. The 
+instructions for joining this meeting and for voting during the meeting have been set out in the 
+notice of 13th AGM sent to the shareholders, which is also available on the website of the 
+company. As per the requirements of the Provisions of Companies Act 2013 and safety 
+regulations, the company has provided a remote key voting facility through NSDL and voting 
+lines were open from 9 a.m. on Thursday, 25th September 2025, till 5 p.m. on Sunday, 28th 
+September 2025. Further, your company has also provided the facility of e-voting during the 
+meeting. Members who have already cast their vote through remote e-voting shall not be 
+eligible to cast their vote through the e-voting facility at the AGM. However, the members who 
+have so far not exercised their vote through remote e-voting can cast their vote during the 
+meeting. 
+  
+The combined results of e-voting and voting at the AGM will be available on the company's 
+and the stock exchanges' websites. In this regard, Mr. Devesh Vasisht, Managing Partner of 
+DPV Associates LLP, Practicing Company Secretary, has been appointed as scrutinizer for 
+monitoring the e-voting process. Members participating in the meeting can post questions and 
+feedback through the question box option. These questions would be taken up toward the end 
+of the meeting.  
+ 
+The statutory registers and records as required to be placed at the AGM, have been made 
+available and kept open during the continuation of this meeting for inspection of members 
+electronically. Any member who wants to inspect the same can send their request to the email 
+ID mentioned in the AGM notice. In case, during the meeting, you face technical difficulties, 
+then please reach out to the help desk at the numbers mentioned in the notice of the AGM. 
+Since the meeting is being held through video conferencing, the facility of appointing a proxy 
+has been dispensed with. I would now call upon Mr. Bhanu Chopra to address the members. 
+  
+Bhanu Chopra (Chairman and Managing Director):  Thanks, Mukesh. FY25 was a 
+significant year for RateGain, one where we sharpened our strategy, doubled down on being 
+AI-first, and laid the foundation for sustained growth in the years ahead. The travel industry 
+continues to grow, but the way revenue is generated is undergoing a fundamental 
+shift. Customers are demanding speed, predictability, and measurable outcomes. To meet this, 
+we made a deliberate change to become an AI-first company. This is not about adding features; 
+it's about making AI the foundation of how we build, how we go to market, and how we serve 
+our customers. The shift is now visible across the business. Our innovation has been focused 
+on the toughest challenges in travel, pricing, distribution, and demand generation. We are 
+building products that integrate seamlessly into existing stacks, simplify workflows, and 
+deliver measurable outcomes in revenue, margin, and efficiency. 
+  
+We're not experimenting with the AI; we're operationalizing it at scale. Over the year, we 
+strengthened our GTM engine across the Americas, Europe, Asia Pacific, and the Middle East. 
+We expanded our presence on the ground, built deeper pipelines, and converted that into 
+healthy momentum in new contractments in Q1 of this year. 
+  
+We continue to make strategic investments in product, talent, and distribution to drive the next 
+leg of growth for the company. We delivered steady financial and operational performance in 
+FY25, further consolidating our position as the leading travel tech company focused on 
+delivering excellence to our customers, and now our focus is on building for scale. We started 
+investing in scaling up our presence in key high-growth regions, and for instance, have 
+expanded our GTM headcount in Asia Pacific and the Middle East from 15 to 55 in just nine 
+months. We also reinforced our leadership team with individuals who bring great experience 
+and are fully aligned with our AI-first vision. This positions us well to capture opportunities 
+and deepen our presence across key regions.  
+ 
+Talent is the multiplier, and our approach has remained consistent. Hire right, retain right, and 
+nurture right. We are investing in AI literacy across functions so that every team, whether in 
+engineering, sales, or support, can move faster and focus on higher value work. This shows up 
+in stronger execution, quicker product cycles, and better customer experience. Our culture 
+underpins everything. RateGain was once again recognized by Great Place to Work India, 
+reflecting the inclusive and performance-oriented environment we are building. We also 
+received industry awards for product innovation and marketing excellence. All these 
+recognitions show that our teams are not only delivering outcomes, but also building a company 
+designed to sustain and scale. 
+ Our thought leadership continues to resonate with the industry. This year, we published the 
+second edition of the State of Distribution Report with New York University and Hedna. The 
+findings are clear. The industry is moving towards leaner operations, tighter technology stacks, 
+and sharper ROI measurement. These insights guide how we shape our roadmap and validate 
+the choices we have made in building offerings such as the following.  
+ 
+UnoSuite which unifies our offering across different segments into an integrated tech stack for 
+hotels. As part of this, Viva, our AI-powered voice agent, is helping hotels convert more 
+reservations without adding front desk load. Smart ARI, which reduces redundant updates 
+while protecting bookings. RG Insights, which gives real-time visibility into partner 
+performance. In our MarTech business, Adara continues to strengthen our position as it is 
+helping us deliver stronger demand generation for our customers.  
+ 
+As we step into the new fiscal year, our priorities are clear. We'll continue to make AI the 
+default way we build and support. We will scale our products across the portfolio, focusing on 
+speed and interoperability. We will deepen our ecosystem of partnerships, so adoption is faster 
+and outcomes are predictable. And we will maintain our edge across geographies with a 
+focused go-to-market approach supported by the right leadership and talent. 
+  
+Sustainability and responsible growth continue to be at the forefront of our agenda. We have 
+taken steps to reduce our carbon footprint through efficiencies in our data centres and by 
+promoting sustainable travel practices across our ecosystem. Our CSR programs are also 
+creating a positive impact in communities, particularly in education and skill development. Our 
+people remain at the core of our success. We achieved an all-time low attrition rate of 10.5%, 
+reflecting the inclusive and performance-driven culture we are building. We will continue to 
+invest in nurturing talent and creating an environment where growth and high performance go 
+hand in hand. 
+  
+The fundamentals of our business are strong, our strategy is clear, and our teams are aligned 
+and energized. To our customers and partners, thank you for your continued trust. To the 
+RateGain team, thank you for your speed, ownership, and discipline. I will now request Mr 
+Rohan Mittal to give an update on the financial performance of the company.  
+ 
+Rohan Mittal (CFO):  Thank you, Bhanu, and good morning, everyone. FY 2024-25 was 
+another year of consistent growth for RateGain, demonstrating the resilience of our model and 
+the impact of the investments we have made. We closed the year with operating revenue of 
+INR 10.8 billion, which is up 12.5% year-on-year. Our EBITDA grew 22.3% to INR 2.3 
+billion, with margins expanding to 21.6%, the highest we have achieved as a company. Profit 
+after tax increased 43.7% to INR 2.1 billion, with PAT margins at 19.4%. We continued to 
+deliver a healthy operating metric with our revenue per employee coming in at INR 13.1 
+million, and our LTV to CAC ratio stood at 13.6x. Our GRR and NRR held steady last year at 
+90% and 105% respectively, reflecting the strength of our customer relationships and the value 
+we are delivering to them.  
+ 
+Across products, Martek grew at the fastest pace last year with healthy performance from our 
+ADARA vertical, validating the value proposition we are delivering to our customers and 
+strong execution from the team. Our DAS vertical continued to scale well with continued 
+traction across key accounts and with the addition of new logos. 
+  
+While distribution delivered steady performance supported by the adoption of the UnoSuite. 
+From a geographic perspective, the Americas and Europe remain our largest regions, anchored 
+by renewals and expansions with key accounts. APAC and the Middle East were the fastest 
+growing regions with revenue up 24% year on year, validating our decision to expand presence 
+and leadership in these markets. 
+  
+Profitability was supported by disciplined cost management and AI-driven productivity 
+improvements. We automated more processes across functions and embedded AI deeper into 
+workflows, helping us achieve more with the same resources while delivering stronger 
+customer outcomes. We further strengthened our financial position during the year and 
+continue to have a strong debt-free balance sheet and cash position of INR 1,267 crores as of 
+31st March 2025 and a net worth of INR 1,682 crores. 
+  
+As we move into FY 2526, we remain committed to strategic investments across GTM and 
+product to deepen our presence across key regions and customer base, driving deeper adoption 
+of our AI-first offerings and maintaining profitability through disciplined execution. FY 2024-
+25 was a year that validated our strategy with revenue growth, margin expansion, strong cash 
+generation and a stronger foundation for the future. With an AI-first culture, a clear strategy 
+and disciplined execution, we are confident of continuing to deliver long-term value for all our 
+stakeholders. 
+  
+Thank you. I'd like to hand over back to Mr Mukesh.  
+ 
+Company Secretary:  Thanks, Rohan. Notice of the 13th Annual General Meeting and Annual 
+Report containing audited financial statements, including consolidated financial statements for 
+the financial year ended March 31, 2025 and board and auditors' report thereon were circulated 
+through electronic means to all the members whose email addresses are registered with the 
+company or depositories. With respect to the financial year ended March 31, 2025, the statutory 
+auditors and secretarial auditors have expressed an unqualified opinion in their respective 
+reports. There are no qualifications, observations or adverse remarks on the financial 
+statements and matters which may have a material bearing on the company. 
+  
+For the e-voting instructions, please refer to the notice of the meeting. The e-voting facility is 
+open during the course of the meeting and shall continue to remain available for 30 minutes 
+after the close of the meeting. As directed by the chair, we now take up the resolutions as set 
+forth in the notice. 
+  
+The notice includes four agenda items, which the board deems necessary to be put forth in the 
+meeting. Items number one and two are listed as ordinary business. Items number three and 
+four are listed as special business. 
+  
+1. Agenda item number one is for the adoption of financial statements.  
+ 
+ 
+2. Agenda item number two is for approving the appointment of Mr. Nishant Kanuru Rao as 
+Director liable to retire by rotation.  
+ 
+ 
+3. Agenda item number three is for approving appointment of Mr. Aakrit Ajay Kumar Vaish 
+as an Independent Director of the company. 
+  
+4. Agenda item number four is for approving the appointment of Ms. RMG and Associates, 
+company secretaries as secretarial auditors of the company.  
+ 
+Members can refer to the resolutions and detailed explanatory statements as set out in the 
+notice, and the same may be taken as read. It's time to take up the questions received from the 
+members.So the questions are: 
+ 
+ 
+The first question is growth guidance for this year is in 6 to 8% band, which is lower than 
+previous years. How do you see this panning out for the year and going forward? Rohan, you 
+may kindly respond.  
+ 
+Rohan Mittal (CFO):  Sure, sure. Well, thank you for the question, Mukesh Ji. So I think it's 
+very clear we've grown at an exceptional pace over the last few years, especially post the IPO, 
+right? And we've done various token acquisitions. We've grown organically as well. FY25-26 
+is a build-out phase for us, where we will invest, and we are already doing that. We are 
+investing in our GTM rollout. We are investing in people. We are investing in product and 
+innovation. So in order for that build-out phase to really pan out, the growth that is likely to 
+accrue this year is lower than what we have done in the past. But this build-out phase is 
+necessary in order to get back to a double-digit organic growth over the next few years. So we 
+are extremely optimistic and bullish as far as our three-year and five-year projections are 
+concerned, on the basis of the build-out phase panning out. 
+  
+Thank you.  
+ 
+Company Secretary:  Thank you, Rohan Ji. Next question, with the incremental investment, 
+what is the expected impact on the margins?  
+ 
+Rohan Mittal (CFO):  Yeah, so if you look at our GTM investment strategy and our product 
+innovation strategy, we have basically committed to invest 4% of our FY25 revenue back into 
+the business in order to seed growth levers for the future. Our guidance for this year is that we 
+should be in the range of 16.5% to 17.5% EBITDA margin, and post these investments pan 
+out, our ability to scale up EBITDA margin will be back again. So that's the range that we're 
+looking at.  
+ 
+Company Secretary: Thank you, Rohanji. The next question: Inorganic initiatives that we 
+have planned for the financial year 25.  
+ 
+Rohan Mittal (CFO): Yeah, see, inorganic execution is not only about maintaining a strong 
+deal pipeline, but also making sure that we're tapping the right opportunity at our terms and our 
+valuation expectations. As of today, our in-house Cogdev team tracks more than 500 companies 
+across the globe in the travel tech space, and we remain in conversations at different stages. We 
+are it's been two years since we last did an acquisition. We're conscious of that, and the balance 
+sheet is strong enough to absorb the next acquisition. We are sitting on a sizable cash for that, 
+for executing that. We are confident of consummating a transaction over the next few quarters, 
+hopefully.   
+ 
+Company Secretary: Thank you. The next question is, can you share more about the new AI-
+first products launched this year, and the areas where RateGain is focusing on AI investments?  
+ 
+Rohan Mittal (CFO):  Sure, see, in the past year, we've been talking about moving from adding 
+AI features to building an AI-first company. This shift is now visible across our product 
+pipeline, people, and processes. In FY25, this approach actually came to life with several 
+important launches, including UnoViva, which is our CRS-integrated AI voice agent that can 
+manage reservation calls by quoting live rates, confirming bookings, handling upsells, and is 
+available in 30-plus languages. Then we have launched Smart ARI, the industry's first AI-
+powered ARI engine, which reduces redundant updates, protects bookings, and lowers 
+costs. We have also launched RG Insights, which has seen tremendous positive customer 
+feedback. RG Insights basically provides real-time visibility into partner performance, so teams 
+can act faster with clarity. We also have AI-powered Digest for Air, which simplifies complex 
+airline pricing data into actionable intelligence. 
+  

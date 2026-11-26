@@ -1,0 +1,163 @@
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411  016, Maharashtra, India    
+CIN - L72300PN1990PLC 056696  
+Tel:  +91 (20) 670 3 5555  | Fax  - +91 (20) 6703 6003 | E-mail - info@persistent.com  | Website  - www.persistent.com   
+   
+    
+NSE & BSE / 2024 -25 / 219 
+ 
+      January 9, 2025  
+ 
+The Manager,   
+Corporate  Services,  
+National Stock Exchange of India Limited          
+Exchange Plaza, Bandra Kurla Complex,  Bandra  (E),  
+Mumbai 400  051 
+ 
+Ref: Symbol:  PERSISTENT  The Manager  
+Corporate Services,  
+BSE Limited  
+14th Floor, P J Towers, Dalal Street,  
+Mumbai 400 001  
+ 
+  Ref: Scrip  Code:  533179  
+ 
+Dear  Sir/Madam,  
+ 
+Sub.:  Press Release titled ‘ Persistent Introduces Pi -OmniKG with Google Cloud ’ 
+  
+We wish to inform you that the Company has made a press release dated January 9 ,2025 titled   
+‘Persistent Introduces Pi -OmniKG with Google Cloud ’. 
+ 
+A copy of the Press Release is enclosed for your reference.   
+ 
+This is for your information and records.  
+ 
+Please acknowledge the receipt.   
+ 
+Thanking  you, 
+ 
+Yours sincerely,  
+For Persistent  Systems  Limited  
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.:  ACS 20507  
+ 
+Encl.:  As above  
+ 
+ 
+© 2025  Persistent Systems Ltd. All rights reserved.  1  
+Persistent Introduces Pi -OmniKG with Google 
+Cloud  
+Accelerating biomedical research with AI -driven solutions  
+ 
+January  9, 202 5 
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE: 533179 and NSE: PERSISTENT) , a global leader in Digital 
+Engineering and Enterprise Modernization, today announced the launch of Pi-OmniKG , an 
+advanced AI -driven knowledge graph solution developed with Google Cloud technology.  
+“Omni” signifies the ability to universally handle diverse data, and “KG” stands for Knowledge 
+Graphs powered by GenAI. This innovative solution empowers healthcare a nd life sciences 
+(HCLS) organizations to accelerate biomedical research, streamline data mining processes, and 
+deliver insights with greater speed and accuracy.  
+Biomedical research is often hindered by time -consuming and labor -intensive data mining 
+workflows. Legacy systems struggle to incorporate and analyze diverse datasets effectively, 
+delaying the generation of actionable insights critical for HCLS enterprises . Pi-OmniKG 
+addresses these challenges by modernizing data integration processes, creating a holistic 
+knowledge base to decipher complex relationships, allowing researchers to make faster, 
+evidence -based decisions by unlocking hidden insights. Furthermore,  Pi-OmniKG enables direct 
+querying of structured and unstructured internal data assets, alone or in combination with 
+external data.  
+Key benefits of the solution include:  
+\ Reducing hypothesis generation time, empowering researchers to make faster, evidence -
+based decisions.  
+\ Speeding up data processing, leading to improved  research efficiency.  
+
+ 
+© 2025  Persistent Systems Ltd. All rights reserved.  2 
+\ Seamlessly integrating diverse data types, files, and sources from public and private 
+datasets, creating a unified knowledge base.  
+\ Incorporating reusable components with built -in flexibility to meet specific client needs for 
+smart decision support.  
+Pi-OmniKG is built using Google Cloud’s advanced technologies — including the Vertex AI 
+platform, BigQuery, and Cloud SQL — leverag ing GenAI capabilities to streamline workflows, 
+standardize data, and enable seamless integration of structured and unstructured datasets. Its 
+intuitive interface allows researchers to query and visualize data, uncovering novel relationships 
+and delivering hi gh-quality insights backed by authentic citations.   
+Persistent has been working with Google Cloud’s cutting -edge AI and cloud technologies for 
+over a decade to deliver transformative solutions that address complex industry challenges. The 
+launch of Pi -OmniKG builds on the Strategic Partnership Agreement  Persistent announced in 
+June 2024 , which strengthens the collaboration between the two organizations to support 
+Persistent’s development of AI -driven solutions across industries. It exemplifies Persistent’s 
+vision of providing a smarter, faster, and more accessible way for HCLS organizati ons to 
+process biomedical data and drive innovation.  
+Ganesh Nathella, Senior Vice President and General Manager – HCLS Business, Persistent   
+“In an era where data -driven insights are vital to accelerating drug discovery, clinical research, 
+and patient -centric care, the challenges of managing vast and complex datasets often impede 
+progress in biomedical R&D. At the intersection of technology and life sciences, our 
+collaboration  with Google Cloud enables us to deliver transformative solutions tailored to this 
+industry's unique needs with a data -first approach. Pi -OmniKG enables life sciences 
+organizations to streamline workflows, leverage data, an d drive breakthroughs with precision. 
+Together, we are advancing the capabilities of researchers and research organizations to 
+address critical challenges and accelerate progress across the healthcare and life sciences 
+ecosystem.”  
+Shweta Maniar, Global Leader, Healthcare & Life Sciences Solutions & Strategy, Google Cloud  
+“As the volume and complexity of biomedical data continue to grow, researchers need smarter 
+tools that unlock the true potential of this data. Pi -OmniKG, powered by Google Cloud’s GenAI 
+capabilities, showcases how AI can empower organizations to drive faster disco veries, bring 
+therapies to market sooner, and advance global healthcare innovation. This collaboration with 
+Persistent underscores our shared commitment to enabling breakthroughs in life sciences .” 
+ 
+ 
+ 
+ 
+ 
+© 2025  Persistent Systems Ltd. All rights reserved.  3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About Persistent  
+Persistent Systems (BSE & NSE: PERSISTENT) is a global services and solutions company delivering Digital Engineering and 
+Enterprise Modernization to businesses across industries. With over 23,200 employees located in 19 countries, the Company is 
+committed to innovation and client success. Persistent offers a comprehensive suite of services, including AI -enabled software 
+engineering, product development, data and analytics, CX transformation, cloud computing, and intelligent automation. The Com pany 
+has been recognized as the “Most Promising Company” of the Year by CNBC -TV18 at the 2023 India Business Leader Awards. 
+Persistent has achieved carbon neutrality, reinforcing its commitment to sustainability and responsible business practices. A s a 
+participant of th e United Nations Global Compact, the Company is committed to aligning strategies and operations with universal 
+principles on human rights, labor, environment, and anti -corruption, as well as take actions that advance societal goals. With 327% 
+growth in bra nd value since 2020, Persistent is the fastest -growing IT services brand in the 2024 Brand Finance India 100 Report.  
+www.persistent.com   
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+Media Contacts  
+Aarti Somaiya  Emma Handler  
+Persistent Systems (Global)  Persistent Systems (Global)  
++91 93237 42377  +1 617 633 1635  
+aarti_somaiya@persistent.com   emma_handler@persistent.com  

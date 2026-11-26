@@ -1,0 +1,238 @@
+--- Management_CIM_WebXMLFile_20260428_181022013_2.xml (the exchange's structured disclosure) ---
+NSESymbol: MSUMI ; Name Of The Company: MOTHERSON SUMI WIRING INDIA LIMITED ; Scrip Code: 543498 ; MSEISymbol: NOTLISTED ; ISIN: INE0FS801015 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-04-28 ; Start Time Of Board Meeting: 13:30:00 ; End Time Of Board Meeting: 15:20:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-04-28 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Non -Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: YUICHI SHIMIZU ; Effective Date Of Reason Of Change: 2026-04-28 ; Type Of Change: Appointment ; Name Of Designated Person: RYUJI SAKAI ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Ryuji Sakai holds a Bachelors Degree from Hitotsubashi University (Tokyo, Japan). He has over 30 years of extensive experience in sales and international business operations through diverse roles since his joining in Sumitomo Electric Industries, Ltd. (SEI) and Sumitomo Wiring Systems, Ltd. (SWS). During his working tenure he has more than 10 years of experience of working in Thailand and UK where he developed expertise in international business and multicultural communication along with his sales skills. He has managed a wide range of client relationships and business activities for major automotive customers, including order strategy, price negotiation, and profit and loss management. He has shown strong leadership in improving competitiveness in quality, cost, delivery, and development (QCDD), while building deep customer relationships and significantly contributing to global expansion. ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: Mr. Ryuji Sakai is not related to any of the Directors of the Company. He is a nominee Director of Sumitomo Wiring Systems Limited. ; Salutation: Mr. ; Name Of The Person: YUICHI SHIMIZU ; Designation Of Person: Non - Executive Non -Independent Director ; Date On Which The Resignation Letter Was Received: 2026-04-28 ; Effective Date Of Resignation: 2026-04-28 ; Reason Of Resignation In Brief: Change in nomination from Sumitomo Wiring Systems Limited, Japan
+
+--- Changeindirectorship_1.pdf ---
+April 28, 2026
+National Stock Exchange of India Limited
+Exchange Plaza, 5th Floor
+Plot No. C/1, G-Block
+Bandra-Kurla Complex
+Bandra (E)
+MUMBAI – 400051, India
+
+BSE Limited
+1st Floor, New Trading Ring
+Rotunda Building
+P.J. Towers, Dalal Street
+Fort
+MUMBAI – 400001, India
+
+Scrip Code : MSUMI
+
+Scrip Code : 543498
+
+Subject:
+
+Change in Directorate-Disclosure under Regulation 30 of SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015
+
+Dear Sir/ Madam,
+This is to inform that the Board of Directors of the Company in its meeting held today i.e. April 28,
+2026 has inter-alia, considered and approved the following changes in the Board of directors of the
+Company:
+S. No
+1.
+
+Name of Director
+Mr. Yuichi Shimizu
+(DIN No. 10059731)
+
+2.
+
+Mr. Ryuji Sakai
+(DIN No. 11657219)
+
+Particulars of Change
+Nominee director of Sumitomo Wiring
+Systems Limited, Japan has resigned from
+the Board of the Company effective from April
+28, 2026. The details of disclosure, as
+required under the SEBI (Listing Obligations
+and Disclosure Requirements) Regulations,
+2015 read with SEBI Master Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026
+dated January 30, 2026 along with a copy of
+his resignation letter as required is attached
+as Annexure A.
+Nominee Director of Sumitomo Wiring
+Systems Limited, Japan appointed as an
+Additional Director effective from April 28,
+2026. The details of appointment, as required
+under the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015
+read with SEBI Master Circular no.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026
+dated January 30, 2026 are enclosed as
+Annexure B.
+
+The Board Meeting of the Company commenced at 1330 Hours and concluded at 1520 hours.
+Regd. Office:
+Motherson Sumi Wiring India Limited
+Unit – 705, C Wing, ONE BKC, G Block Bandra Kurla Complex,
+Bandra East Mumbai – 400051, Maharashtra (India)
+Tel: 022-61354800, Fax: 022-61354801
+CIN No.: L29306MH2020PLC341326
+E-mail: investorrelations@mswil.motherson.com
+Website:www.mswil.motherson.com
+
+
+The above disclosure is submitted pursuant to Regulation 30 of SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 for your kind information and records.
+
+Thanking you,
+Yours truly,
+For Motherson Sumi Wiring India Limited
+signed
+POOJA Digitally
+by POOJA MEHRA
+Date: 2026.04.28
+MEHRA 16:48:19 +05'30'
+
+Pooja Mehra
+Company Secretary
+
+Regd. Office:
+Motherson Sumi Wiring India Limited
+Unit – 705, C Wing, ONE BKC, G Block Bandra Kurla Complex,
+Bandra East Mumbai – 400051, Maharashtra (India)
+Tel: 022-61354800, Fax: 022-61354801
+CIN No.: L29306MH2020PLC341326
+E-mail: investorrelations@mswil.motherson.com
+Website:www.mswil.motherson.com
+
+
+Annexure- A
+The details as required under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 read with SEBI Master Circular no. HO/49/14/14(7)2025-CFD
+POD2/I/3762/2026 dated January 30, 2026 for resignation of Mr. Yuichi Shimizu is given below:
+S. No.
+1.
+
+2.
+
+Particulars
+
+Details
+
+Reason for change viz. appointment, Pursuant to change of nomination by Sumitomo
+re-appointment, resignation, removal, Wiring Systems Limited, Japan, Mr. Ryuji Sakai
+has been appointed as an Additional Director
+death or otherwise
+effective from April 28, 2026 and Mr. Yuichi
+Shimizu has resigned as Director w.e.f April 28,
+2026.
+Date of appointment/reApril 28, 2026
+appointment/cessation (as applicable)
+Term of appointment/re-appointment
+
+Not Applicable
+
+3.
+
+Brief Profile (in case of appointment)
+
+Not Applicable
+
+4.
+
+Disclosure of Relationships between Not Applicable
+Directors (in case of appointment of a
+director)
+
+Regd. Office:
+Motherson Sumi Wiring India Limited
+Unit – 705, C Wing, ONE BKC, G Block Bandra Kurla Complex,
+Bandra East Mumbai – 400051, Maharashtra (India)
+Tel: 022-61354800, Fax: 022-61354801
+CIN No.: L29306MH2020PLC341326
+E-mail: investorrelations@mswil.motherson.com
+Website:www.mswil.motherson.com
+
+
+
+Annexure- B
+The details as required under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 read with SEBI Master Circular no. HO/49/14/14(7)2025-CFD
+POD2/I/3762/2026 dated January 30, 2026 for appointment of Mr. Ryuji Sakai is given below:
+S. No.
+1.
+
+2.
+
+Particulars
+
+Details
+
+Reason for change viz. appointment/re- Pursuant to nomination by Sumitomo Wiring
+appointment, resignation, removal, death Systems Limited, Japan, Mr. Ryuji Sakai has
+been appointed as an Additional Director
+or otherwise
+effective from April 28, 2026 and Mr. Yuichi
+Shimizu has resigned as Director w.e.f April 28,
+2026.
+Date of appointment/reAppointed as Additional Director effective from
+April 28, 2026.
+appointment/cessation (as applicable)
+Term of appointment
+
+The said appointment as Director would be
+taken up in the ensuing Annual General
+Meeting (liable to retire by rotation).
+As per Annexure B1
+
+3.
+
+Brief Profile (in case of appointment)
+
+4.
+
+Disclosure of Relationships between Mr. Ryuji Sakai is not related to any of the
+Directors (in case of appointment of a Directors of the Company. He is a nominee
+Director of Sumitomo Wiring Systems Limited.
+director)
+
+5.
+
+Information as required pursuant to BSE Mr. Ryuji Sakai is not debarred from holding the
+Circular
+with
+ref.
+no. office of Director by virtue of any SEBI Order or
+LIST/COMP/14/2018- 19 and the any other such Authority.
+National Stock Exchange of India Ltd
+with ref. no. NSE/CML/2018/24, dated
+June 20, 2018.
+
+Regd. Office:
+Motherson Sumi Wiring India Limited
+Unit – 705, C Wing, ONE BKC, G Block Bandra Kurla Complex,
+Bandra East Mumbai – 400051, Maharashtra (India)
+Tel: 022-61354800, Fax: 022-61354801
+CIN No.: L29306MH2020PLC341326
+E-mail: investorrelations@mswil.motherson.com
+Website:www.mswil.motherson.com
+
+
+Annexure B1
+
+Mr. Ryuji Sakai holds a Bachelors Degree from Hitotsubashi University (Tokyo, Japan).
+He has over 30 years of extensive experience in sales and international business operations
+through diverse roles since his joining in Sumitomo Electric Industries, Ltd. (SEI) and Sumitomo
+Wiring Systems, Ltd. (SWS). During his working tenure he has more than 10 years of experience
+of working in Thailand and UK where he developed expertise in international business and
+multicultural communication along with his sales skills. He has managed a wide range of client
+relationships and business activities for major automotive customers, including order strategy,
+price negotiation, and profit and loss management. He has shown strong leadership in improving
+competitiveness in quality, cost, delivery, and development (QCDD), while building deep
+customer relationships and significantly contributing to global expansion.
+
+Regd. Office:
+Motherson Sumi Wiring India Limited
+Unit – 705, C Wing, ONE BKC, G Block Bandra Kurla Complex,
+Bandra East Mumbai – 400051, Maharashtra (India)
+Tel: 022-61354800, Fax: 022-61354801
+CIN No.: L29306MH2020PLC341326
+E-mail: investorrelations@mswil.motherson.com
+Website:www.mswil.motherson.com
+
+

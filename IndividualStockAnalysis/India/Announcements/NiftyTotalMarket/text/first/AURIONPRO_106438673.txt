@@ -1,0 +1,125 @@
+ 
+  
+Aurionpro Solutions Limited  Synergia IT 
+Park,  
+Plot No. R -270, T.T.C. Industrial Estate 
+Rabale,  
+Navi Mumbai -400 701 Maharashtra - INDIA    +91-22-4040 7070  
+  +91-22-4040 7080  
+  info@aurionpro.com  
+  www.aurionpro.com  
+ 
+November 12 , 2025  
+ 
+Sub: Press Release  
+Dear Sir/Madam,  
+Please find attached  Press Release titled  “Lexsi  Labs unveils Orion -MSP, a new state -of-the-art 
+Tabular Foundation Model transforming how Enterpises harness AI for Structured Data .” 
+ 
+Kindly take this on your record.  
+Thanking you,  
+Yours faithfully  
+For Aurionpro Solutions Limited  
+ 
+ 
+Ninad Kelkar  
+Company Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ To, 
+National Stock Exchange of India Limited  
+Exchange Plaza’. C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai - 400 051.  
+NSE SYMBOL: AURIONPRO  To,                                         
+The BSE Limited,                     
+25th Floor, P. J. Towers,                   
+Fort, Mumbai: 400 001.  
+SCRIP CODE: 532668  
+                  
+Lexsi Lab s unveils  Orion -MSP , a new state -of-the-art Tabular Foundation 
+Model transforming how Enterpises harness AI for Structured Data  
+Poised to deliver  enterprise -scale accuracy for organizations to make tabular predictions at a 
+level that existing LLMs simply can ’t match . 
+Mumbai, Paris, London — 12th November 2025  — Lexsi Lab s, by Aurionpro (formerly 
+AryaXAI Alignment Labs), the research lab dedicated to frontier research in AI Alignment and 
+Interpretability , today announced two major developments accelerating enterprise -scale 
+capabilities for structured /tabular  data into mainstream  AI. 
+1. Launch of Orion -MSP : Lexsi Lab s launches  new state-of-the-art (SOTA) foundation 
+models to deliver enterprise -grade accuracy and scalable deployment  for any tabular 
+predictive task .  
+2. Release of TabTune Open -Source Library:   A first-of-its-kind open -source tool that 
+standardizes fine-tuning and in ferencing for leading tabular foundation models , 
+including Orion -MSP .  
+The launch of Orion -MSP  and TabTune marks a significant step in Lexsi Labs ' mission to build 
+“Safe Super Intelligence ” systems that are transparent, aligned, and trustworthy for enterprise 
+use. Enterprises such as banks, insurers, and healthcare organizations generate large volumes 
+of structured, table -based data from transactions, customer records, insurance claims, hea lth 
+records, sensor telemetry, and ledgers. Lexsi Labs’ latest models allow organizations to predict 
+any task in zero -shot, on such enterprise data, using a single model through an API or improve 
+it further through fine -tuning to achieve the best performan ce in just a few lines of code . This 
+transforms the current data  science from multi -pipeline process es into a zero -shot or few -
+step deploymen t.  
+ “All current AI research is primarily aiming to predict the world in 
+‘zero-shot’ . We are seeing this achieved by modality -specific SOTA 
+models like LLMs for text, LRM s for reasoning tasks, and LVMs for 
+vision tasks. We want to make this possible  as well for tabular 
+predictive tasks  with Orion -MSP class of models . Orion -MSP  is the 
+state-of-the-art model, with top mean -rank accuracy across various 
+benchmarks compared to other TFMs , including classic M achine 
+Learning models ,” says Vinay Kumar , Founder & CEO of 
+Arya.ai and Founder of Lexsi Labs . “We are also launching 
+TabTune, which is the perfect tool for any practi tioner or enterprise to infer or fine -tune TFMs . 
+With advance d components like  fairness and conformity index, this is purpose -built for 
+enterprise s. We are releasing the se class es of models  under  the MIT license, making both the 
+models and the tool fully usable without constraints. ”  
+About Orion -MSP:  The inaugural Orion -MSP  model deploys multi-scale processing, block-
+sparse row -wise attention, and Perceiver -style latent memory —delivering efficient modeling 
+of wide, heterogeneous tables while reducing computational complexity. Early results show 
+competitive performance on large feature sets and real -world datasets, outperforming the 
+current TFMs on several global benchmarks.   
+
+                  
+ 
+Quick access: Orion -MSP is available on Hugging  Face  from today, with full research details 
+published on arXiv .  
+About TabTune:   TabTune is a novel open -source tool that offers data science teams a single, 
+easy-to-use tool for adapting, evaluating, and deploying powerful tabular foundational models. 
+With TabTune , we introduce multiple fine -tuning methods for TFMs such as Meta -learning, 
+SFT, and PEFT, making it heavily utility -focused. This will allow teams to rapidly compare 
+inference -only vs. tuned strategies, weigh memory/latency trade -offs, and audit calibrati on and 
+fairness without rewriting pipelines for every large tabular model (LTM).   
+Quick access:  It is available on GitHub; the technical paper  is on arXiv. 
+About Lexsi Lab s: 
+Lexsi Lab s' mission is to advance safe, interpretable AI that learns responsibly and aligns with 
+human values. Lexsi integrates  alignment theory , interpretability science , and agentic 
+autonomy  into a unified rese arch stack —openly contributing to projects such as DLBacktrace 
+(deep learning interpretability) and XAI_Evals (explanation benchmarking). Lexsi Lab s now 
+operates in Mumbai, Paris, and London.  
+About Aurionpro Solutions:  
+Aurionpro Solutions Ltd. (BSE: 532668 | NSE: AURIONPRO) is a global enterprise 
+technology leader pioneering intuitive -tech through deep -tech IPs and scalable products. With 
+a strong presence across Banking, Payments, Mobility, Insurance, Transit, Data Cent ers, and 
+Government Sectors, Aurionpro is setting new benchmarks for AI innovation and impact. Its 
+B2E (Business -to-Ecosystem) approach empowers entire ecosystems – driving growth, 
+transformation, and scale across interconnected value chains. Backed by 3,0 00+ experts and a 
+global -first mindset, Aurionpro is built to lead the next. For more information, visit us at 
+www.aurionpro.com  
+For further information, please contact:   
+ 
+Adfactors PR Ltd   
+Mr. Himanshu Gonsola   
+Tel No: 9971155343  
+E-mail: himanshu.gonsola@adfactorspr.com  
+ 
+Aurionpro Solutions Ltd    
+Mr. Ninad Kelkar   
+investor@aurionpro.com   
+www.aurionpro.com  

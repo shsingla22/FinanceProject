@@ -1,0 +1,127 @@
+--- CIM_1962_WebXMLFile_20260928_205053143_2.xml (the exchange's structured disclosure) ---
+NSESymbol: TRIDENT ; Name Of The Company: Trident Limited ; Scrip Code: 521064 ; MSEISymbol: NOTLISTED ; ISIN: INE064C01022 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-09-28 ; Time Of Occurrence Of Event Or Information: 19:35:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-09-28 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Executive Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Samir Prabodhchandra Joshipura ; Effective Date Of Reason Of Change: 2026-09-30 ; Salutation: Mr. ; Name Of The Person: Samir Prabodhchandra Joshipura ; Designation Of Person: Chief Executive Officer ; Date On Which The Resignation Letter Was Received: 2026-09-28 ; Effective Date Of Resignation: 2026-09-30 ; Reason Of Resignation In Brief: Personal Reason
+
+--- Intimation_Letter_STX_1.pdf ---
+TRIDENT/CS/2026
+September 28, 2026
+National Stock Exchange of India Limited
+Exchange Plaza, Plot No. C/1, G Block
+Bandra Kurla Complex, Bandra (E), Mumbai – 400 051
+Scrip Code: TRIDENT
+BSE Limited
+Phiroze Jeejeebhoy Towers
+Dalal Street, Mumbai – 400 001
+Scrip Code: 521064
+Sub: Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015
+Dear Sir/ Madam,
+In terms of Regulation 30 read with Schedule III and other applicable provisions of the SEBI
+(Listing Obligations and Disclosure Requirements) Regulations, 2015, we hereby inform you
+that Mr. Samir Prabodhchandra Joshipura, Group Chief Executive Officer (Key Managerial
+Personnel & Senior Management Personnel) has tendered resignation from his position due to
+reasons as stated in resignation letter dated September 28, 2026, which is attached herewith.
+The resignation has been duly accepted and he will be relieved from the official duties w.e.f.
+closing hours of September 30, 2026.
+The detail(s) as required under Para A of Part A of Schedule III of the SEBI (Listing Obligations
+and Disclosure Requirements) Regulations, 2015 read with SEBI Master Circular No.
+HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 (as amended) is provided
+in Annexure ‘A’.
+Thanking you
+Yours faithfully,
+For Trident Limited
+signed by
+SUSHIL Digitally
+SUSHIL SHARMA
+2026.09.28
+SHARMA Date:
+20:22:09 +05'30'
+
+(Sushil Sharma)
+Company Secretary
+ICSI Membership No. F6535
+Encl: as above
+
+Disclaimer :- The details of the authorised signatories are uploaded on the official website of the Company. You
+may authenticate the authority of the signatory before relying upon the contents of this communication by visiting
+https://www.tridentindia.com/authority-matrix/ or may write to us on corp@tridentindia.com.
+
+28/09/2026
+
+TL/2026/075171
+
+
+Annexure A
+Sr. No.
+
+Particulars
+
+Details
+
+1
+
+Reason for change viz. appointment, reappointment, resignation, removal, death or
+otherwise;
+
+Mr. Samir Prabodhchandra Joshipura, Group
+Chief Executive Officer(Key Managerial
+Personnel & Senior Management Personnel)
+has resigned from his position due to reasons
+stated in resignation letter attached herewith.
+
+2
+
+Date of appointment/re-appointment/cessation
+(as applicable) & term of appointment/reappointment;
+
+Resignation is effective w.e.f. closing hours of
+September 30, 2026.
+
+3
+
+Brief profile (in case of appointment);
+
+Not Applicable
+
+4
+
+Disclosure of relationships between directors (in
+case of appointment of a director)
+
+Not Applicable
+
+Disclaimer :- The details of the authorised signatories are uploaded on the official website of the Company. You
+may authenticate the authority of the signatory before relying upon the contents of this communication by visiting
+https://www.tridentindia.com/authority-matrix/ or may write to us on corp@tridentindia.com.
+
+28/09/2026
+
+TL/2026/075171
+
+
+To
+
+Deepak Nanda
+Managing Director
+Trident Limited
+
+Subject: Resignation from the post of Group CEO
+
+Dear Deepak,
+
+As discussed in detail, due to personal reasons, | would like to resign from the post of
+
+Group CEO of Trident Limited. As | need to keep attending certain personal priorities,
+30-Sep-2026 shall be my last date.
+I would like to place on record my sincere gratitude towards the Directors, Senior
+Management and entire Trident team. | wish the best for Trident.
+
+Thanks & Regards
+
+|e
+
+Samir Prabodhchandra Joshipura
+Employee No: 41015066
+28-Sep-2026
+Ludhiana
+
+

@@ -1,0 +1,1175 @@
+
+=== page 1 ===
+ Energy Limited  
+Regd. Office : JSW Centre  
+Bandra Kurla Complex  
+Bandra (East), Mumbai - 400 051  
+ 
+CIN: L74999MH1994PLC077041  
+Phone: 022 – 4286 1000  
+Fax: 022 – 4286 3000  
+Website:  www.jsw.in  
+ 
+                                                                                                                                                                  
+ 
+ Part of O.  P. Jindal Group                          
+ 
+SEC / JSWEL  
+19th July, 202 4 
+ 
+BSE Limited   
+Phiroze Jeejeebhoy Towers  
+Dalal Street  
+Mumbai - 400 001  National Stock Exchange of India Limited  
+“Exchange Plaza”  
+Bandra - Kurla Complex, Bandra (E)  
+Mumbai - 400 051  
+Scrip Code: 533148  Scrip Code: JSWENERGY - EQ 
+ 
+Subject:  Results Presentation in connection with the unaudited Standalone and 
+Consolidated Financial Results of the Company for the quarter ended  30th June , 
+2024 
+ 
+Regulation 30  of the Securities and Exchange Board of India (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015  
+ 
+Dear Madam / Sirs, 
+ 
+Further to our letter dated 19th July, 202 4, please find attached the Results Presentation in 
+connection with the unaudited Standalone and Consolidated Financial Results of the Company 
+for the quarter  ended 30th June , 202 4.  
+ 
+Yours faithfully,  
+ 
+For JSW Energy Limited  
+ 
+ 
+ 
+Monica Chopra   
+Company Secretary  
+=== page 2 ===
+Q1 FY25
+Results Presentation
+July 19 , 2024
+=== page 3 ===
+2
+ JSW Energy Q1 FY25 Results PresentationForward Looking and Cautionary Statement
+This presentation has been prepared byJSW Energy Limited (the “Company”) based upon information available inthe public domain solely forinformation purposes without regard toany
+specific objectives, financial situations orinformational needs ofany particular person .This presentation should notbeconstrued aslegal, tax, investment orother advice .This presentation is
+strictly confidential, being given solely foryour information and foryour use, and may notbecopied, distributed ordisseminated, directly orindirectly, inany manner .Furthermore, noperson is
+authorized togive any information ormake any representation which isnot contained in,orisinconsistent with, this presentation .Any such extraneous orinconsistent information or
+representation, ifgiven ormade, should notberelied upon ashaving been authorized byoronbehalf oftheCompany .
+This presentation contains statements that constitute forward -looking statements .These statements include descriptions regarding theintent, belief orcurrent expectations oftheCompany or
+itsdirectors and officers with respect totheresults ofoperations and financial condition oftheCompany .These statements can berecognized bytheuseofwords such as“expects,” “plans,”
+“will,” “estimates,” “projects,” orother words ofsimilar meaning .Such forward -looking statements arenot guarantees offuture performance and involve risks and uncertainties, and actual
+results may differ from those specified insuch forward -looking statements asaresult ofvarious factors and assumptions .The risks and uncertainties relating tothese statements include, butare
+not limited to,(i)fluctuations inearnings, (ii)theCompany’s ability tomanage growth, (iii)competition, (iv)government policies and regulations, and (v)political, economic, legal and social
+conditions inIndia .The Company does notundertake any obligation torevise orupdate any forward -looking statement that may bemade from time totime byoronbehalf oftheCompany .
+Given these risks, uncertainties and other factors, viewers ofthis presentation arecautioned nottoplace undue reliance onthese forward -looking statements .
+The information contained inthis presentation isonly current asofitsdate and hasnotbeen independently verified .The Company may alter, modify orotherwise change inany manner the
+contents ofthis presentation, without obligation tonotify any person ofsuch revision orchanges .Norepresentation, warranty, guarantee orundertaking, express orimplied, isorwillbemade
+asto,and noreliance should beplaced on,theaccuracy, completeness, correctness orfairness oftheinformation, estimates, projections and opinions contained inthis presentation .None of
+theCompany orany ofitsaffiliates, advisers orrepresentatives accept any liability whatsoever forany loss howsoever arising from any information presented orcontained inthis presentation .
+Please note that thepast performance oftheCompany isnot, and should notbeconsidered as,indicative offuture results .Potential investors must make their own assessment oftherelevance,
+accuracy and adequacy oftheinformation contained inthis presentation and must make such independent investigation asthey may consider necessary orappropriate forsuch purpose .Such
+information and opinions areinallevents notcurrent after thedate ofthis presentation .
+The Potential investors shall beincompliance with theapplicable Insider Trading Regulations, with respect totheCompany inreference totheinformation provided under this presentation .
+=== page 4 ===
+3
+ JSW Energy Q1 FY25 Results Presentation
+Agenda
+Safety & SustainabilityOperational & Financial Performance
+AppendixBusiness Environment
+Vijayanagar 225MW Solar Power Plant
+Q1 FY25 Highlights
+Segment Wise Performance
+=== page 5 ===
+4
+ JSW Energy Q1 FY25 Results PresentationThermalOperational 
+Performance•Net Generation: Up by 18% YoY at 7.9 BUs driven by higher generation at hydro, wind capacity additions and 
+higher thermal generation
+•Total RE generation is up by 44% YoY at 3.2 BUs driven by 61% YoY increase in Hydro generation; Total thermal 
+generation is up by 4% YoY at 4.6 BUs
+•Long Term PPA Generation: Up by 16% YoYQ1 FY25 Highlights (1/2)
+ST: Short Term; LT: Long Term
+Impacted by lower generation at Barmer TPP which is recoupableQ1 FY25 |Generation (MUs)
+Renewables
+Up 44% YoY Up 4% YoY
+Up 18% YoY*
+=== page 6 ===
+5
+ JSW Energy Q1 FY25 Results PresentationConsolidated 
+Financial 
+Performance•PAT grew by 80% YoY to ₹ 522 Cr while cash PAT during the quarter increased 29% YoY to ₹ 958 Cr
+•EBITDA increased 21% YoY to ₹1,581 Cr primarily on account of higher generation
+•Best in class Balance Sheet: N et Debt to Equity at 0.9x, Net Debt to EBITDA1at 3.8x, Net Debt to EBITDA1
+(excl. CWIP) at 2.2x
+•Receivables on DSO basis improved to 65 days; Cash & Cash Equivalents2stood at ₹ 6,118 Cr
+•Successful completion of ₹ 5,000 Cr Qualified Institutional Placement with over 3.2x subscription receiving 
+an overwhelming response from high quality blue -chip global and domestic institutional investors
+Growth
+ProjectsGeneration (Total locked -in capacity of 15.5 GW)
+•Capacity addition of 291 MW during the quarter (including acquisition of wind assets of 45 MW)
+•Signed PPA of 2,025 MW of RE capacity, which includes 1 GW from both solar and wind sources
+•Won RE bids having a cumulative capacity of 900 MW (600 MW Hybrid Project each and 300 MW Solar) 
+•Group captive: Necessary board approvals have been taken for 1.3 GW of RE projects including storage;
+PPAs will be signed soon .
+Products and Services
+•BESS: Commenced construction of 1.0 GWh SECI project with expected commissioning by June 2025
+•Green Hydrogen: Work started for 3,800 TPA project for JSW Steel; expected commissioning by Q4 FY25Q1 FY25 Highlights (2/2)
+1. TTM EBITDA 2.  Includes unencumbered bank balances, FDs, and liquid mutual funds
+
+=== page 7 ===
+Operational & Financial Performance
+Ratnagiri Power Plant 
+=== page 8 ===
+7
+ JSW Energy Q1 FY25 Results Presentation3,013 3,043
+Q1 FY24 Q1 FY25
+743958
+Q1 FY24 Q1 FY251,3071,581
+Q1 FY24 Q1 FY25Consolidated Performance
+* Computed as PAT+ Depreciation+ Deferred Taxes +/( -) Exceptional items for operational assets. EBITDA ( ₹Cr) and Margins (%) Cash Profit After Tax* ( ₹Cr)Total Revenue ( ₹Cr)
+Strong EBITDA and Cashflow generation from Long -term portfolioNet Generation ( MUs ) Operational Highlights
+•Net Generation :Upby18%YoY at7.9BUs
+driven byhigher generation athydro plants,
+wind capacity additions and higher thermal
+generation .LTPPA generation isup16%YoY
+•REgeneration isupby44%YoY at3.2BUs
+driven bystrong hydro generation and wind
+capacity additions while Thermal generation
+isupby4%YoYat4.6BUs
+Financial Highlights
+•Total Revenue was flattish YoY at₹3,043 Cr
+onaccount oflower fuel costs (pass through
+innature)
+•EBITDA grew by21%YoY to₹1,581 Cr
+supported byhigher generation
+•PAT increased by80%YoY to₹522 Crwhile
+Cash Profit forthe quarter was ₹958 Cr,up
+29%YoY18% 1%
+21%
+43%52%29%88%
+5,86886%
+6,7806,6997,881
+Q1 FY24 Q1 FY25Short Term
+Long Term
+=== page 9 ===
+8
+ JSW Energy Q1 FY25 Results PresentationEBITDA Bridge 
+Particulars in ₹ CrQ1 FY25
+Thermal
+ Renewables
++21%YoY
+=== page 10 ===
+9
+ JSW Energy Q1 FY25 Results PresentationConsolidated Financial Results
+1 -Computed as PAT+ Depreciation+ Deferred Taxes+ Exceptional items; 2 -Not AnnualizedParticulars in ₹ Crore Q1 FY25 Q1 FY24
+Total Revenue 3,043 3,013
+EBITDA 1,581 1,307
+EBITDA Margin(%) 52% 43%
+Depreciation 375 398
+Finance Cost 511 486
+Profit Before Tax 694 424
+Profit After Tax 522 290
+Cash Profit After Tax 1958 743
+Diluted EPS2  (₹) 3.00 1.76
+=== page 11 ===
+10
+ JSW Energy Q1 FY25 Results PresentationNet Debt Movement
+* Includes unencumbered bank balances, FDs, and liquid mutual funds. # ND/TTM EBITDA excluding debt on under -construction projec tsParticulars in ₹ Cr
+Sustainable Normalised Net Debt / EBITDA is well below the guided range of 3.5x -4.0xND/EBITDA#
+(excl. CWIP) at 2.2x16,795
+13,1649,841821 51,652
+1,043 1,427
+10,175
+Net Debt as on
+Mar 31,2024New Debt Taken Forex
+restatementRepayment Movement in
+short term
+borrowingsChange in Cash
+& Cash Eq.*Net Debt as on
+Jun 30,202423,33926,636Operational ProjectsCapital Work -in-Progress (CWIP)
+=== page 12 ===
+11
+ JSW Energy Q1 FY25 Results Presentation7.54 0.350.640.14 0.630.24 0.30 105.654.8820 20
+Current
+OperationalInd-Barath SECI IX
+WindSECI X
+WindGroup
+Captive
+WindKutehr SECI XII
+WindOperational
+by FY25Pipeline
+ProjectsMoU with
+JSW SteelTotal FY2030
+Target1.32 1.32
+4.33Robust Growth Pipeline
+Pipeline Projects -LoA/LoIreceivedGeneration (GW)
+Under -construction (2.3 GW)
+Strategy 2.0 –Generation Capacity 20 GW & Energy Storage of 40 GWh before 2030Secured 1.32 
+GW out of 
+MoU of 6.2 GW
+Locked -inGroup 
+Captive MoU
+=== page 13 ===
+12
+ JSW Energy Q1 FY25 Results Presentation
+Pipeline Projects -5,650 MW
+Project Type
+SJVN
+GUVNL
+SECI XIII
+NTPC
+Total Solar
+SECI XVI
+Total Wind
+SECI Hybrid VIII
+Solar / Wind
+SJVN Hybrid -II
+Solar / Wind
+Total Hybrid (Contracted/Installation)
+Total PipelineCapacity (MW)
+700
+300
+700
+700
+2,700
+1,025
+1,025
+300
+220 / 100
+300
+220 / 100
+1,925/1,965
+5,650LoA/LoI
+2,700
+1,025
+1,925/1,965
+5,650PPA Signed
+(CoD in 18 -24 months)
+(CoD in 18 -24 months)
+1,000
+(CoD in 18 -24 months)
+1,025
+2,025
+Group Captive 1,325
+KREDL 300
+
+=== page 14 ===
+13
+ JSW Energy Q1 FY25 Results PresentationSuperior Financial Risk Profile
+* Net Worth is impacted by change in value of listed equity investments through Other Comprehensive Income ** Adjusted for va lueof investments (net of taxes) 
+# ND/TTM EBITDA excluding debt on under -construction projects; FY24 EBITDA on proforma basis as two SPVs were acquired during Q1 FY24Robust balance sheet & best -in-class financial metricsNet Debt (₹ Cr ) Net Worth (₹ Cr)*  & Cash Returns (%)
+Leverage Ratios Wt. Average Cost of Debt
+#22,180 22,90424,26026,286 26,636
+23,339
+Mar-23 Jun-23 Sep-23 Dec-23 Mar-24 Jun-2414,177 14,06114,859 15,336 15,50120,97218,629 19,11119,87720,976 20,83226,929
+18%18%20% 20% 21%
+16%
+Mar-23 Jun-23 Sep-23 Dec-23 Mar-24 Jun-24
+Adjusted Net Worth (₹ Cr) ** Net Worth (₹ Cr) Cash Return on Adj. Net Worth (%)
+4.44.7 4.6 4.6 4.5
+3.8
+3.7 3.83.53.22.9
+2.2
+1.2 1.2 1.2 1.3 1.30.9
+Mar-23 Jun-23 Sep-23 Dec-23 Mar-24 Jun-24ND/TTM Proforma EBITDA ND/EBITDA ND/Equity
+8.36%8.68%
+8.51%8.58%8.64%8.75%
+Mar-23 Jun-23 Sep-23 Dec-23 Mar-24 Jun-24
+=== page 15 ===
+14
+ JSW Energy Q1 FY25 Results Presentation2,132 2,266
+Jun 30, 2023 Jun 30, 2024Healthy Trade Receivables
+*Includes Unbilled Revenue. Operational Highlights
+•Receivables (incl .acquired REPortfolio) increased by6%YoY ,
+however, receivables inDSO terms improved YoYto65days
+•Allplants placed favourably inStates’ Merit Order Dispatch .
+oFurther, Hydro plants under ‘Must -run status’ with no
+scheduling risk
+•Nohistory ofany bad debts from routine long term trade
+receivables
+•Payment security mechanism inforce forpower tied under
+long term PPA with discoms
+•Recovery oflate payment surcharge incase ofdelayed
+payments from discomsReceivable Days 73 65Trade Receivables* (₹ Cr )
+=== page 16 ===
+Segment Wise Performance
+Vijayanagar Thermal  Power Plant -Control Room
+=== page 17 ===
+16
+ JSW Energy Q1 FY25 Results PresentationThermal Assets | Q1 FY25 Highlights
+Offtaker Profile Operational Assets
+Rajasthan ,
+28%
+MSDECL ,
+8%
+Group Captive , 30%Open , 
+34%
+3,858
+MW
+~72% of Current Installed Thermal Capacity of 3,508 MW is tied -up under Long -Term PPANet Generation (MUs)
+PLF/(Deemed PLF)LTTotalLT
+TotalPPA tiedInstalled Capacity
+Fuel Type
+*Including 18 MW TPP at NandyalRatnagiri Barmer Vijayanagar Utkal (formerly Ind -Barath )
+1,105MW 1,080 MW 338 MW Merchant1,200 MW 1,080 MW 860 MW700 MW
+Unit 1 (350 MW) operational
+Imported Coal Lignite Imported Coal Domestic Coal
+74%/(86%) 66%/(68%) 94%/(97%)2,117 MUs (9% YoY) 1,388 MUs ( -2% YoY) 745 MUs ( -31% YoY) 366 MUs1,629 MUs ( -2% YoY) 1,388 MUs ( -2% YoY) 600 MUs (13% YoY) -
+88%/(99%) 66%/(88%) 43%/(44%)-
+52%/(55%)
+=== page 18 ===
+17
+ JSW Energy Q1 FY25 Results Presentation1 Thermal Assets exclude JPTL and foreign assetsThermal Assets| Q1 FY25 Highlights (2/2)
+Net Generation (MUs) Thermal : PLF –long term
+EBITDA Excl. Other Income (₹ Cr) and Margins (%) Segmental Revenue from Operations1(₹ Cr)Operational Highlights
+•Total Net Generation up4%YoY at4.6BUs,
+driven bycapacity addition atUtkal and
+higher STgeneration atRatnagiri
+•Short Term generation at1,000 MUs was up
+22%YoYvs820 MUs inQ1FY24
+•Long Term generation was up1%YoY inthe
+quarter .LTPLFremains healthy at73%
+Financial Highlights
+•Total operating thermal revenue declined by
+8%to₹1,915 Crdue tolower realization on
+account oflower fuel cost (which ispass
+through innature)
+•EBITDA excl other income increased 19%to
+₹625 Crdriven bystrong merchant volumes4%
+524625
+Q1 FY24 Q1 FY258%
+25%33%19%73%86%
+73%80%
+PLF Deemed PLF
+Q1 FY24 Q1 FY25
+2,0831,915
+Q1 FY24 Q1 FY2582% , 
+3,62078% , 
+3,6394,4404,638
+Q1 FY24 Q1 FY25Short Term
+Long Term
+=== page 19 ===
+18
+SECI 33%
+PTC 9%
+Group Captive 20%Others 2%GJ3%TS4%AP3%HP2%Raj2%HR2%KA4%Open Capacity
+1%SJVN 9%NTPC 6%
+11,632
+MW
+All under construction projects are tied -up with long term PPAOfftaker Profile Pipeline –5,650 MWRenewable Assets | Presence across all modes of generation
+Hydro (1,631 MW) Wind (3,676 MW) Solar (675 MW)
+Net Generation 
+(MUs) TotalLT
+PLF
+TotalLT▪Kutehr (240) ▪SECI IX  (643)
+▪SECI X (138)
+▪Captive JSW Steel (634)
+▪SECI XII (300)▪Acquired Wind (1,331)
+▪SECI X  (316)
+▪SECI IX  (167)
+▪Captive JSW Steel (103)
+▪Vashpet (45)▪Vijayanagar Captive (225)
+▪Acquired Solar (422)
+▪Others (28)▪Karcham Wangtoo (1,091)
+▪Baspa (300)Operational Operational Operational
+Under construction Under construction
+SJVN 700 
+SECI XIII 700 
+GUVNL 300 
+NTPC 700 
+Pavagada 300
+SECI XVI 1,025 Solar
+WindProject Capacity (MW)
+1,047 MUs (40% YoY)
+26%26%1,840 MUs (61% YoY)1,739 MUs (53% YoY)
+356 MUs356 MUs
+63%62%
+24%24%1,047 MUs (40% YoY)
+Hybrid SECI VIII 300
+Solar/Wind 220/100
+SJVN II 300
+Solar/Wind 220/100
+Group Captive 1,325
+=== page 20 ===
+19
+ JSW Energy Q1 FY25 Results Presentation3,5094,028
+Q1 FY24 Q1 FY25Renewable Assets | Q1 FY25 Highlights
+Installed Green Capacity (MW) Net Generation (MUs)
+EBITDA Excl. Other Income1(₹ Cr) Segmental Revenue from Operations1(₹ Cr)
+* Includes proforma generation of 2 SPVs of Acquired RE portfolio, which were consolidated during the quarter; 1Includes consolidation adjustments
+For additional details refer appendix sectionOperational Highlights
+•Hydro generation increased 61%
+YoYonaccount ofbetter hydrology
+•Total wind generation increased
+40%YoYdue tocapacity additions
+•Total net renewable generation
+increases by44%YoY
+Financial Highlights
+•Total operating RE revenue
+increased 17%YoYto₹910 Cr
+•Operating EBITDA grew 15%YoYto
+₹776 Crdriven bywind capacity
+additions44%
+*
+17%15%
+780910
+Q1 FY24 Q1 FY25676776
+Q1 FY24 Q1 FY2515%100% , 
+2,24897% , 
+3,1422,2593,242
+Q1 FY24 Q1 FY25Short Term
+Long Term
+=== page 21 ===
+Safety & Sustainability
+JSW Energy, Barmer
+=== page 22 ===
+21
+ JSW Energy Q1 FY25 Results PresentationContinued Focus on Health & Safety Excellence
+Contractor Safety Management
+Wind Projects: PQA assessment at four wind projects
+✓Hand holding for safety system implementation by contractors
+✓93 contractors evaluated in Pre -Qualification Assessment (PGA)
+Safety Performance
+LTIFR of Zero considering all operational plants of JSW Energy
+Review, analysis and ‘Corrective and Preventive Action’ of Safety 
+Observations
+✓All safety incidents & nearmiss have been analysed and ‘corrective and preventive action’ for these 
+are being implemented.
+✓Regular Trainings and Mock Drills at Hydro, Thermal and Wind projects
+✓Strengthening of SOP’s at all WTG locations, through review, revision, external vetting
+Worker Training at Project sites
+✓Emergency response, mock drills and regular trainings across wind project sites, hydro and 
+Ind-Barath thermal power plant.Awards & 
+Recognitions
+LDO Tank fire Mock Drill
+Landslide & Flood Rescue Mockdrill
+All Figures are for Q1 FY25
+=== page 23 ===
+22
+ JSW Energy Q1 FY25 Results Presentation17 Focus Areas with 2030 Targets from 2020 as Base Year
+Aligned to 
+National &
+International 
+Frameworks
+Governance & Oversight by 
+Sustainability Committee
+Ms. Rupa Devi Singh
+ESG Data bookMr. Sharad MahendraIndependent
+Directors
+Executive
+Director
+ESG Ratings –best amongst peers
+Integrated Reporting since FY19Committed to keep global 
+warming to 1.5 °C in line with 
+Paris Agreement -UN Climate 
+Change ConferenceCarbon Neutrality by 2050CDP* : A-(Leadership Level)
+FTSE4Good Index constituentSustainalytics: 23.2 (Medium Risk) Climate Change :
+Committed to being carbon 
+neutral by 2050
+Reduce our carbon emissions 
+by more than 50% 
+Renewable Power :
+Enhance the renewable power 
+to 2/3rd of our Total Installed 
+Capacity
+Biodiversity: 
+No Net Loss for Biodiversity
+Waste Water :
+Zero Liquid Discharge
+Waste :
+100% Ash (Waste) utilization
+Water Resources: 
+Reduce our water consumption 
+per unit of energy produced by 
+50%
+Human Rights
+Energy
+Indigenous 
+People
+Cultural Heritage
+Local 
+Considerations
+Business Ethics
+Social 
+Sustainability
+Air Emissions
+Employee 
+Wellbeing
+Supply Chain 
+SustainabilityResources
+2
+1
+FY19 FY20 FY21 FY22 FY23 FY24
+Sustainability: Framework and Policies
+Operational 
+Health & Safety
+*based on CDP climate change rating 2023.  CDP water security rating 2023 is B (Management). 
+S & P Global ( DJSI) : 71/100 Mr. Sunil Goyal
+
+=== page 24 ===
+23
+ JSW Energy Q1 FY25 Results PresentationSustainability: Targets and Strategy
+▪Integrated Strategy towards efficient waste management –Ash Management , 
+recycling of waste water , handling hazardous waste through authorized recycler. 
+▪Utilisation of low ash coal in Ratnagiri and Vijayanagar
+▪Re-utilisation of  pond ash as well as Bottom ash in Boiler 
+▪45,000 MT Capacity Ash Silo constructed in Ratnagiti to export the Fly Ash through sea 
+route. About 19,300 MT of Fly Ash exported through sea route in FY24.
+▪Ensuring ESP (Electrostatic Precipitator) Fields availability 
+▪Optimising Lime dozing system efficiency 
+▪Process efficiency improvements
+▪Implementation of Bodiversity Assessment plan at our operating plants in a phasewise 
+manner  to achieve No Net Loss of Biodiversity by 2030. 
+▪Increased green cover across operations
+▪Barmer Plant won Prestigious CII -ITC Sustainability Award for Excellence in Biodiversity
+▪Implementation of Biodiversity Management plan at Barmer Plant. ▪TCFD –Identified associated short tem , medium term and Long term risks
+▪Supply Chain Sustainability –development of Digital Platform for value chain 
+partners under progress.
+▪Increased share of RE for decarbonization -Total RE operational capacity increased 
+from  3,509 MW (Q1 FY24) to 4,028 MW (Q1 FY25)
+▪Maintaining zero liquid discharge across operations
+▪Optimising utilisation of rain water harvesting system
+▪Installation of technology for operating cooling towers with higher Cycles of 
+Concentration with modified chemical regime
+▪Reuse of treated effluent of Sewage Treatment Plan for horticulture
+Waste▪Specific Waste (Ash) 
+Generation (t/MWh) 
+▪Waste Recycled -Ash 
+(%)
+Air 
+EmissionsSpecific process 
+emissions( Kg/MWh)
+▪PM
+▪SOx
+▪NOx
+Biodiversity▪Biodiversity at our 
+operating sitesClimate 
+Change▪GHG Emissions
+tCO2e/ MWh
+▪Specific fresh water 
+intake ( m3/MWh)Water 
+SecurityImprovement
+(FY20 to FY30)
+46% 
+67%
+61%
+63%71%
+54% 
+-
+0.16
+1.78
+1.01
+-0.76
+1.10
+0.070
+100SD TargetsFY20
+Actuals
+0.053
+0.683
+0.373
+Achieve
+‘no net loss’
+of 
+biodiversity0.215 
+0.591 
+0.032 
+100FY30
+TargetsStrategic Initiatives and Approach
+=== page 25 ===
+24
+ JSW Energy Q1 FY25 Results PresentationSustainability: Q1 FY25 Performance
+FY 2024 figures include generation from Ind-Barath Thermal Power Plant for part of the yearPerformance
+Waste
+Air 
+Emissions
+Biodiversi
+tyClimate 
+Change
+Water
+Security
+Key Highlights
+Waste
+Air 
+Emissions
+BiodiversityWater
+Security
+•Increased share of renewable energy for deep decarbonisation
+•Addition of 291 MW (Q1 FY25) renewable portfolio mix to reduce the GHG 
+emission, a step towards our “ Net Zero” commitment by 2050 or earlier. 
+•Continuous focus on process improvements to reduce GHG emission
+•Reutilising pond ash as well as bottom ash in Boiler.
+•Continue 100% Ash utilization initiatives at all plants through tie -ups with 
+cement factories & similar businesses •Maintained zero liquid discharge across operations
+•Optimizing utilization of rain water harvesting system
+•Reuse of treated effluent of Sewage Treatment Plant for horticulture
+•Dry cleaning adopted instead of wet module cleaning resulted in significant 
+saving of ground water
+•Ensuring ESP (Electrostatic Precipitator) Fields availability  
+•Process efficiency improvements being done in all plant locations
+•Lime Dozing system availability and parameters optimization at Barmer to 
+reduced air emissions
+•Biodiversity Assessment –Phase 2 is completed for Ratnagiri Plant  
+•Increase in green cover at all operations to achieve ‘No Net Loss’ of Biodiversity by 
+2030.
+•Plantation is continuous activity in all our operating plants0.69 0.655 0.615 0.58
+FY23 FY24 Q1 FY25 FY25
+TargetNOx  Emissions (kg/MWh)
+1.231.19
+1.051.00
+FY23 FY24 Q1 FY25 FY25
+TargetSOx  Emissions (kg/MWh)0.1220.1070.095 0.095
+FY23 FY24 Q1 FY25 FY25
+TargetPM Emissions (kg/MWh)
+0.68
+0.63
+0.5500.59
+FY23 FY24 Q1 FY25 FY25
+TargetCO2 intensity (tCO2e/MWh)100% 100% 100% 100%
+FY23 FY24 Q1 FY25 FY25
+TargetAsh Utilisation (%)
+=== page 26 ===
+25
+ JSW Energy Q1 FY25 Results Presentation
+Sustainability: Empowering Our Communities
+Ratanagiri
+=== page 27 ===
+26
+ JSW Energy Corporate Presentation -May‘24
+Sustainability: Empowering Our Communities
+• English speaking course in 12 schools of 
+Barmer, supporting 1,288 students to 
+hone their skills
+• International Yoga Day celebrated with 
+students in schools• Access of doorstep healthcare services 
+has been provided through medical 
+health units (MHU) and health camps
+• 16,410 consultation were carried out 
+through MHU and health campsHealth and Nutrition
+Education
+• Project Shikhar for high altitude boxing 
+has been training 91 sports talents with 
+the support of 5 coaches at 4 training 
+centers and so far fetched 408 medals 
+including national and international 
+level.Sports Promotion
+Health & Nutrition
+ Water & 
+Environment
+Waste 
+Management
+Agri -livelihoods
+ Education
+ Women’s BPO & 
+Livelihoods
+Skill Enhancement
+ Art, Culture & 
+Heritage
+Sports
+• 15 Integrated Livelihood Development 
+Centre (ILDC) has been established at 
+Ratnagiri to benefit 6,000 farmers
+• Over 900 artisans have been             
+supported through livelihood 
+initiatives, especially in handicraftsSkills and Livelihood
+
+=== page 28 ===
+27
+Investor Relations Contact:
+ir.jswenergy@jsw.in
+ESG Data Profile: Link
+JSW Energy, Ratnagiri
+
+=== page 29 ===
+Business Environment
+JSW Barmer
+=== page 30 ===
+29
+ JSW Energy Q1 FY25 Results PresentationIndian Economy
+Source: Reserve Bank of India (RBI) , Monetary Policy Committee (MPC), IMF, Press Information Bureau India•India continues toseeresilient growth
+oReal GDP growth stood at7.8%inQ4FY24and 8.2%for
+FY24
+oPMI:Manufacturing (Jun-24:58.3)and Services (Jun-24:
+60.5)
+oGST collection forJun-24isapproximately ₹1.74lakh
+crore, a7.7%YoYgrowth
+•Inflation
+oThe CPIinflation rose toafour month high of5.08%in
+Jun-24,however, itremains within the RBI’s tolerance
+mark
+oOnthe other hand, growth inthe Index ofIndustrial
+Production (IIP) expanded to5.9%inMay -24GST Collection ( ₹Lakh Cr) PMI –Manufacturing & Services Real GDP Growth (%)
+303540455055606570
+Dec-21
+Mar-22
+Jun-22
+Sep-22
+Dec-22
+Mar-23
+Jun-23
+Sep-23
+Dec-23
+Mar-24
+Jun-24PMI Manufacturing PMI Service
+0.81.01.21.41.61.82.02.2
+Sep-21
+Dec-21
+Mar-22
+Jun-22
+Sep-22
+Dec-22
+Mar-23
+Jun-23
+Sep-23
+Dec-23
+Mar-24
+Jun-243.3 2.9
+-23.1-5.81.8 3.322.6
+9.9
+5.5 4.512.8
+5.5 4.36.28.2 8.1 8.4 7.8Dec-19
+Mar-20
+Jun-20
+Sep-20
+Dec-20
+Mar-21
+Jun-21
+Sep-21
+Dec-21
+Mar-22
+Jun-22
+Sep-22
+Dec-22
+Mar-23
+Jun-23
+Sep-23
+Dec-23
+Mar-24
+=== page 31 ===
+30
+ JSW Energy Q1 FY25 Results PresentationSource: Central Electricity Authority (CEA) 95105115125135145155165
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+Q1 Q2 Q3 Q4Power Demand in BUs
+FY 2025 FY 2024 FY 2023Power Demand increased by 11% in Q1 FY25
+•AllIndia demand during Q1FY25of452
+BUs increased by 11%YoY due to
+increase inuse ofcooling appliances
+with surge intemperature, particularly
+prevalent inNorth India inJune .
+•Demand inNorth (143 BUs) increased
+by22%YoYfollowed bydemand inWes t
+(139 BUs) increasing by8%YoY inQ1
+FY25.
+•Total demand met during Q1FY25stood
+at451 BUs, up11%YoY inQ1FY25
+•Peak demand of250 GW was witnessed
+during Q1FY25inMay ’24.-10%0%10%20%30%40%
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+Q1 Q2 Q3 Q4Power Demand Growth (% YoY)
+FY 2025 FY 2024
+Power Demand by Region in BU
+120140160180200220240260
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+Q1 Q2 Q3 Q4Peak Demand in GW
+4 year range FY 2025 FY 2024 FY 2023117 1431291391051095662408452
+Q1 FY24 Q1 FY254455424434322021141152
+Jun-23 Jun-24East & NE
+South
+West
+North
+India
+=== page 32 ===
+31
+ JSW Energy Q1 FY25 Results PresentationSource: Central Electricity Authority (CEA), National Power PortalOverall Generation Increased by 11% YoY in Q1 FY25
+•Overall generation during Q1FY25
+stood at484 Bus, increasing by
+10.5%YoY.
+•Share of thermal in overall
+generation increased to77%inQ1
+FY25vs76%inQ1FY24with net
+generation of372 BUs, up12%YoY
+resulting inPLFs of76%inQ1FY25.
+•Generation from Renewables
+(excluding large hydro) increased
+by5.7%YoY inQ1FY25,strongly
+supported bysolar with increase of
+generation by15.4%YoYinQ1FY2595115135155175
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+Q1 Q2 Q3 Q4Power Generation in BUs
+FY 2025 FY 2024 FY 2023
+Power Generation by Source in BU-10%0%10%20%30%
+Apr May Jun Jul Aug Sep Oct Nov Dec Jan Feb Mar
+Q1 Q2 Q3 Q4Power Generation Growth (% YoY)
+FY 2025 FY 2024
+76% 77%8% 7%14% 13%438 484
+Q1 FY2024 Q1 FY202573% 75%10% 9%15% 14%150 161
+Jun-23 Jun-24Others
+Renewables
+Hydro
+Thermal
+India
+=== page 33 ===
+32
+ JSW Energy Q1 FY25 Results Presentation1.10.8 0.60.23.33.7
+2.3
+1.24.5 4.4
+2.9
+1.4
+Q1 FY2024 Q1 FY2025 Jun-23 Jun-24
+Wind Solar Other RES Total RES0.7-0.20.74.5
+4.4 2.9
+1.40.7
+0.75.8
+4.2 4.2
+1.4
+Q1 FY2024 Q1 FY2025 Jun-23 Jun-24
+Thermal Renewables Hydro Nuclear Total85 47 16 148 
+Other RES
+Wind
+Solar
+54%2%
+11%
+33%Thermal
+Nuclear
+Hydro
+Renewables446 GW24%
+52%23%
+State
+Private
+Central446 GWIndia’s installed capacity stands at 446 GW as on Jun 24
+Source: Central Electricity Authority (CEA) Sector -wise Installed Capacity Segment -wise Installed Capacity Renewable Capacity Breakdown
+Overall segment wise net capacity additions (GW) Renewable Capacity Additions (excl. Hydro) GW
+=== page 34 ===
+33
+ JSW Energy Q1 FY25 Results PresentationMerchant Power –Day Ahead Market
+Source: Indian Energy Exchange (Day -Ahead Market); *Cleared  Total Volume includes DAM, TAM and RTM for conventional power1.03.05.07.09.011.0
+Jun-10
+Jun-11
+Jun-12
+Jun-13
+Jun-14
+Jun-15
+Jun-16
+Jun-17
+Jun-18
+Jun-19
+Jun-20
+Jun-21
+Jun-22
+Jun-23
+Jun-24Linear Trend -Monthly Avg Price ( ₹/kwh)
+24681012
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+MarMonthly Average Merchant Tariff (₹/unit)
+FY 2025 FY 2024 FY 2023
+25003000350040004500500055006000
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+MarDAM Market Cleared Volume (MUs)
+FY 2025 FY 2024 FY 20235500650075008500950010500
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+MarTotal Cleared Volume (MUs)
+FY 2025 FY 2024 FY 2023Q1FY25
+•DAM prices were up2%YoY asthe
+average tariff recorded for Q1FY25
+was ₹5.27/KWh vs₹5.17/KWh inthe
+corresponding period lastyear
+•The cleared volume inDAM was
+13.34BUs,increasing by6.7%YoY
+and total cleared volumes stood at
+27.69BUs,up17%YoY
+=== page 35 ===
+Appendix
+Barmer Thermal Power Plant
+=== page 36 ===
+35
+ JSW Energy Q1 FY25 Results PresentationOperational Performance –Thermal
+LT : Long Term; ST: Short Term, NM : Not meaningful,  *  denotes Deemed PLF 
+Figures rounded off to nearest units digit Net Generation (MUs) PLF/CUF (%)
+Location (Current Capacity) Capacity (%) Q1 FY25 Q1 FY24 Change YoY Q1 FY25 Q1 FY24
+Ratnagiri (1,200 MW)LT 91% 1,629 1,663 -2% 74 (*86) 77 (*99)
+Total 100% 2,117 1,939 9% 88 (*99) 81 (*100)
+Barmer (1,080 MW) LT 100% 1,388 1,418 -2% 66 (*68) 67 (*71)
+Vijayanagar (860 MW)LT 37% 600 530 13% 94 (*97) 85 (*87)
+Total 100% 745 1,074 -31% 43 (*44) 62 (*63)
+Utkal (350 MW) Total 100% 366 NA NA 52 (*55) NA
+Nandyal (18 MW) LT 100% 22 10 123% 64 (*100) 28 (*100)
+Total Thermal (3,508 MW)LT 72% 3,639 3,620 1% 73 (*80) 73 (*86)
+Total 100% 4,638 4,440 4% 67 (*72) 71 (*80)
+=== page 37 ===
+36
+ JSW Energy Q1 FY25 Results PresentationOperational Performance –Renewables
+LT : Long Term; ST: Short Term, NM : Not meaningful,
+Figures rounded off to nearest units digit Net Generation (MUs) PLF/CUF (%)
+Location (Current Capacity) Capacity (%) Q1 FY25 Q1 FY24 Change YoY Q1 FY25 Q1 FY24
+Hydro (1,345 MW)*LT 97% 1,739 1,133 53% 62 40
+Total 100% 1,840 1,144 61% 63 39
+Solar (675 MW) LT 100% 356 366 -3% 24 25
+Wind (1,847 MW) LT 100% 1,047 748 40% 26 24
+Total Renewables (3,867 MW)LT 99% 3,142 2,247 40% NA NA
+Total 100% 3,242 2,258 44% NA NA
+=== page 38 ===
+37
+ JSW Energy Q1 FY25 Results PresentationFinancial Results –Major Entities
+* After inter -company adjustments and eliminationsEntity -wise Revenue from Operations
+Particulars in ₹ Crore Q1 FY25 Q1 FY24
+Standalone 1,050 1,485
+JSW Energy (Barmer) 639 640
+JSW Energy (Utkal) 265 4
+JSW Hydro Energy 320 298
+Acquired RE Portfolio 432 418
+JSW Renewable Energy (Vijayanagar) 63 50
+JSW Renew Energy (SECI IX) 30 0
+JSW Renew Energy Two (SECI X) 53 12
+JPTL 17 17
+Consolidated* 2,879 2,928
+Entity -wise EBITDA (Including Other Income)
+Particulars in ₹ Crore Q1 FY25 Q1 FY24
+Standalone 492 425
+JSW Energy (Barmer) 187 204
+JSW Energy (Utkal) 108 1
+JSW Hydro Energy 307 282
+Acquired RE Portfolio 385 374
+JSW Renewable Energy (Vijayanagar) 59 47
+JSW Renew Energy (SECI IX) 32 1
+JSW Renew Energy Two (SECI X) 51 12
+JPTL 17 17
+Consolidated* 1,581 1,307
+=== page 39 ===
+38
+ JSW Energy Q1 FY25 Results PresentationCash Returns on Adjusted Net Worth
+* ₹144 Cr for Sep -23 represents after -tax effects of Hydro True -up ** Adjustment in net worth by excluding the value of shares o f JSW SteelQuarter ended Sep-22 Dec-22 Mar -23 Jun-23 Sep-23 Dec-23 Mar -24 Jun-24
+Reported PAT 466 180 272 290 850 231 351 522
+Add: Depreciation 294 295 291 398 409 400 427 375
+Add/(less): Deferred Taxes 42 14 24 55 89 (4) (92) 61
+(Less): Dividend Received (122) - - - (24) - - -
+Add/(less): One -offs* 0 - - - (144) - - -
+Cash PAT 681 489 587 743 1,180 628 686 958
+Cash PAT (TTM) 2,767 2,625 2,570 2,500 2,999 3,138 3,237 3,452
+Adjusted Net Worth** 13,491 13,446 14,177 14,061 14,859 15,336 15,501 20,972
+Cash Returns on Net Worth (%) 21% 20% 18% 18% 20% 20% 21% 16%₹ Cr (Unless mentioned otherwise)
+Strong Cash Generation of > ₹3,400 Crore
+=== page 40 ===
+39
+JSW Energy –Presence Across the Value Chain
+Well placed to achieve 10 GW of generation capacity ahead of stated timeline of 2025 with foray into New Age Businesses
+Thermal ,
+3.9 GW,  
+25%
+Solar , 
+3.4 GW, 
+22%Hydro ,
+1.6 GW, 
+11%Wind , 
+4.7 GW , 
+30%Hybrid , 
+1.9 GW, 12%
+Power Generation Energy Storage
+3.7 GWh of locked in capacityEnergy Products & Services
+Solar Module & Green H2
+Battery Storage 
+1.3 GWh
+Hydro Pump Storage
+2.4 GWhSolar Module 
+manufacturing
+1.0 GWGreen Hydrogen
+& Derivatives
+3,800 TPA
+Wind Turbine 
+Manufacturing –
+Technology licensing 
+agreement with SANY 
+Renewable Energy 
+15.5 GW
+=== page 41 ===
+40
+PCKL
+64%SECI
+16%JSW Steel
+9%Open 
+Capacity
+11%Capacity Breakdown
+Installed 7,536 MW
+Hydro PSP
+2.4 GWh 
+LoI receivedDiversified Offtakers
+Under -construction
+2,305 MW
+Wind 1,715 MW
+Thermal 350 MW
+Hydro 240 MWCurrent Exposure 
+to Group Captive 
+-20%Generation 15,490 MW
+Storage 3.4 GWh locked in
+BESS
+1.3 GWh
+Signed BESPA Thermal 3,508 MW
+Wind 1,962 MW
+Hydro 1,391 MW
+Solar 675 MW
+3.7 GWh 65%35%Well Diversified Portfolio –Focused on Maximising Cash Returns
+15,490 MW
+3.7 GWhOpen Installed 
+capacity –14%Pipeline 5,650 MW
+Solar 2,700 MW
+Wind 1,025 MW
+Hybrid 1,925 MW
+* LoA/LoI received for this capacity and PPA to be signed49%
+15%36%Group Captive , 22%
+SECI , 25%
+Rajasthan , 9%PTC, 6%SJVN , 6%NTPC , 4%TS, 3%KA, 3%AP, 2%MH, 2%HP, 2%GJ, 2%Others , 4%Open Capacity , 
+9%
+15,490 MW
+=== page 42 ===
+41
+Company Overview
+ JSW Energy  –Broad Corporate Structure
+Vijayanagar Solar Power Plant
+All subsidiaries shown are wholly owned subsidiaries except RE captive power plantsJSW Energy (Kutehr) 
+Limited (240 MW) JSW Hydro Energy 
+Limited (1,391 MW)
+( Karcham & Baspa )JSW Neo Energy
+11,632 MW
+JSW Renewable Energy 
+(Vijayanagar)
+Limited 
+(866 MW Captive)JSW Renewable Energy 
+(Dolvi) Limited
+(96 MW Captive)JSW Renew Energy 
+Limited
+(810 MW SECI -IX) JSW Renew Energy 
+Two Limited
+(454 MW SECI -X)JSW Energy Limited
+14,165 MW
+Acquired RE portfolio
+(1,753 MW -Acquired)JSW Renew Energy 
+Three Limited 
+SECI XII 300 MWRatnagiri –1,200 MW
+Vijayanagar –860 MW
+Nandyal –18 MW
+Solar –10MW
+Total –2,088 MW
+PSP
+•LoI for 2.4 GWh 
+•MOUs signed for 
+80 GWhBESS –SECI Pilot
+(500MW/1000MWh)Advanced high 
+efficiency solar 
+module (Awarded 
+capacity under PLI)Green Hydrogen 
+(3,800 TPA) & Its 
+DerivativesEnergy Generation Portfolio
+Products & ServicesHydro Entities
+Solar/Wind Entities
+Products & Services
+JSWEBL –1,080 MW
+Utkal –700 MW
+JSW Renew Energy 
+Thirteen Limited
+(700 MW NTPC)JSW Renew Energy 
+(Raj) Limited
+(700 MW SJVN)JSW Renew Energy 
+Eight Limited; and
+JSW Renew Energy 
+Nine Limited
+(1,025 MW SECI -XVI) JSW Renew Energy 
+Eleven Limited
+(700 MW SECI -XIII)JSW Renew Energy Ten 
+Limited
+(300 MW GUVNL)JSW Renewable Energy 
+(Coated) Limited
+(45 MW -Acquired)
+=== page 43 ===
+42
+ JSW Energy Q1 FY25 Results PresentationHydro Assets include: Karcham -Wangtoo and Baspa .Net Generation (MUs)JSW Hydro -Q1 FY25 Highlights
+Hydro : PAF and PLF
+EBITDA (₹ Cr) Segmental Revenue from Operations (₹ Cr)Operational Highlights
+•Net generation at Hydro Assets
+(Karcham and Baspa )forthe quarter
+was up 61%YoY due to better
+hydrology
+•Plant Availability Factor remains above
+thenormative PAF forQ1FY25(102%)
+Financial Highlights
+•Revenue forQ1FY24was up7%YoY to
+₹320 Cr,while EBITDA at₹307 Crwas
+up9%YoY61%
+7%9%108%
+39%102%
+63%
+PAF PLF
+Q1 FY24 Q1 FY25
+298320
+Q1 FY24 Q1 FY25282307
+Q1 FY24 Q1 FY2599% , 
+1,13395% , 
+1,7391,1441,840
+Q1 FY24 Q1 FY25Short Term
+Long Term
+=== page 44 ===
+43
+ JSW Energy Q1 FY25 Results Presentation
+Under Construction Projects
+JSW SECI X
+=== page 45 ===
+44
+ JSW Energy Q1 FY25 Results PresentationJSW Neo -Under construction Wind Power Projects –1.7 GW
+▪SECI IX (810MW)  : 168 MW Commisioned till date
+▪SECI X  (454 MW) : 316 MW Commisioned till date
+▪Group Captive (737 MW) : 103 MW Commisioned till date
+▪Approx 1.7 GW is under construction and will be commissioned in FY25Wind Projects (SECI IX, X, XII and Group Captive)
+
+=== page 46 ===
+45
+ JSW Energy Q1 FY25 Results PresentationPowe r-House worksJSW Neo -Kutehr Hydro Power Plant –240 MW
+•Completed tunneling work ~100%Tunneling & Concreting•Unit 1 –Erection work and box up activity completed
+•Unit 2 –Turbine erection and stator rotor building work in progress
+•Unit 3 –Generator barrel concreting in progress
+•GIS –Installation work in progress
+•Transmission line –Tower foundation works in progressBarrage & Intake
+•Barrage concreting completed 90%
+•Intake service gates & bulkhead gates erection in progress
+
+=== page 47 ===
+46
+ JSW Energy Q1 FY25 Results PresentationJSW Energy –Utkal Unit 2 (350 MW)
+Revival works in Progress
+Unit 2 (350 MW)
+•Boiler mock light -up done
+•Boiler steam blowing completed
+•Turbine final box -up done
+•Switchgear commissioning in progressUnit 1 (350 MW)
+•Synchronised with grid on 13thJan 24
+•Locomotive procurement done
+•Railway track laying at advance stageOthers

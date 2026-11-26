@@ -1,0 +1,122 @@
+ 
+ 
+Persistent Systems Limited,  Bhageerath, 402 Senapati Bapat Road, Pune 411  016, Maharashtra, India   
+CIN - L72300PN1990PLC 056696  
+Tel:  +91 (20) 670 30000  | Fax  - +91 (20) 6703 000 8 | E-mail - info@persistent.com | Website  - www.persistent.com   
+ 
+ 
+NSE & BSE / 202 4-25 / 036 
+ 
+May 7, 202 4 
+ 
+The Manager        The Manager  
+Corporate Services       Corporate Services  
+National Stock Exchange of India Limited    BSE Limited  
+Exchange Plaza, Bandra Kurla Complex,    14th Floor, P J Towers,  
+Bandra (E), Mumbai 400 051      Dalal Street, Mumbai 400 001  
+ 
+Ref: Symbol: PERSISTENT      Ref: Scrip Code: 533179  
+ 
+Dear Sir/Madam,  
+  
+Sub:  Press Release  titled  ‘Persistent Transforms Enterprise Data Management with iAURA, 
+a Portfolio of AI -Powered Data Solutions ’ 
+ 
+We wish to inform you that the Company has made a press release dated May 7, 2024, titled  
+‘Persistent Transforms Enterprise Data Management with iAURA, a Portfolio of AI -Powered Data 
+Solutions ’. 
+ 
+A copy of the Press Release is enclosed for your reference . 
+  
+This is for your information and records.  
+ 
+Please acknowledge the receipt.  
+ 
+Thanking you,  
+ 
+Yours Sincerely,  
+For Persistent Systems Limited  
+ 
+ 
+ 
+ 
+Amit Atre  
+Company Secretary  
+ICSI Membership No.: A20507  
+Encl.: As above  
+ 
+© 2024  Persistent Systems Ltd. All rights reserved.  1  
+Persistent Transforms Enterprise Data 
+Management with iAURA , a Portfolio of AI-
+Powered Data  Solutions  
+ 
+May 7, 2024  
+Santa Clara, CA and Pune, India  
+News Summary  
+Persistent Systems  (BSE and NSE: PERSISTENT), a global Digital Engineering and Enterprise 
+Modernization leade r, announced the launch of iAURA , a suite  of AI -powered data solutions 
+engineered to catalyze business growth . iAURA empowers businesses with seamless 
+deployment and precision in addressi ng data challenges for AI implementations.  The solutions  
+harness AI and ML to uncover hidden patterns, enabling data -driven decision -making, 
+enhanced business intelligence, and automated data quality assurance and reconciliation.  
+In today's data -driven wor ld, businesses face challenges in handling large amounts of data 
+while ensuring quality, governance, and cost control, often requiring  specialized technical 
+expertise . These challenges hinder strategic decision -making and impede growth, especially 
+with the  rise of AI , which requires  access and integration of large amount s of high-quality  data. 
+As businesses aim to utilize  AI, they face obstacles in utilizing data , including extracting 
+actionable insights, ensuring quality, and automating migration processes. iAURA offers tailored 
+solutions, expediting the transition to AI -driven enterprises, providing a comprehensive 
+approach from data ingestion to insights using analytics and accelerators.  
+The AI-first solutions for complete enterprise data management in the iAURA portfolio include :  
+• iAURA Insights empowers teams to talk to their data in natural language and get 
+relevant business insights.  
+• iAURA Migrate automates and accelerates migration and modernization of data 
+technologies using GenAI -enabled tools. It is a comprehensive suite of solutions that 
+spans across Business Intelligence, ETL, Data Warehouse, among others.  
+ 
+
+ 
+© 2024  Persistent Systems Ltd. All rights reserved.  2 
+• iAURA  Data Ops ensures AI -driven data quality, data reconciliation, and data freshness.  
+• iAURA Platforms aid clients in managing tool choice, governance, security, and cost 
+through data and AI platform services.  
+In initial engagements , the benefits  of iAURA  have been substantial. With iAURA Insights, 
+Persistent developed virtual agents driven  by GenAI  to seamlessly guide user s on a step-by-
+step journey from business requirements to proposals. This enabled  a leading pharmaceutical 
+company to accelerate proposal r esponse time by 90%.  
+iAURA is compatible  with all major hyperscaler platforms  and all leading LLM providers , giving 
+clients the flexibility to deploy on their preferred choice  of technolog ies. By combining advanced 
+software solutions , robust platform  capability , and deep implementation expertise,  iAURA 
+provides clients with unparalleled agility in deployment models. It integrates Persistent’s  IP as 
+accelerators and APIs, ensuring seamless integration and optimal performance.  
+Bidish Sarkar, S enior Vice President – Data and Analytics, Persistent : 
+“We’re excited to introduce iAURA, a cutting -edge suite of AI -powered data solutions 
+engineered to propel business growth. iAURA optimizes  enterprise  data management, 
+accelerating the transformation from data ingestion to actionable insights. This enhancement 
+empowers enterprises to expedite their decision -making , time to market , and accelerates the 
+journey to scale GenAI use cases .”  
+Nandini Tare, Ass ociate Practice Lead, Digital Engineering, HFS Research : 
+“Data plays a critical role in GenAI solutions, accessing enterprise data and driving insights from 
+it is one of the challenges that organizations face in today’s fast paced technology landscape. 
+Persistent’s iAURA , unlocks the true potential of data. It drives growth by empowering 
+organizations to make informed data driven decisions. Its seamless integration and compatibility 
+with all hyperscalers bring flexibility of infrastructure and the ability t o contextualize  and visualize 
+data accelerates insights for better decision making. The iAURA suite of solutions truly brings a 
+strong proposition that transforms enterprise data into valuable outcomes .”  
+ 
+About Persistent  
+With over 23,800 employees  located in 21 countries , Persistent Systems (BSE & NSE: PERSISTENT) is a global services and solutions 
+company delivering Digital Engineering and Enterprise Modernization. As a participant of the United Nations Global Compact, Persistent 
+is commi tted to aligning strategies and operations with universal principles on human rights, labor, environment, and anti -corruption, as 
+well as take actions that advance societal goals.  With 268% growth since 2020 , Persistent is the fastest -growing Indian IT Ser vices 
+brand according to  Brand Finance .  
+www.persistent.com  
+ 
+Forward -looking and Cautionary Statements  
+For risks and uncertainties relating to forward -looking statements, please visit persistent.com/flcs  
+ 
+Media Contacts  
+Aarti Somaiya  Emma Handler  
+Persistent Systems (Global)  Persistent Systems (Global)  
++91 93237 42377  +1 617 633 1635  
+aarti_somaiya@persistent.com   emma_handler@persistent.com  

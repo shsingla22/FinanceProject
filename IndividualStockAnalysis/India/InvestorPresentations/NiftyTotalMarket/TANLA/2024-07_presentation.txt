@@ -1,0 +1,820 @@
+
+=== page 1 ===
+ 
+ 
+Date: July 18, 2024 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Madam/Sir, 
+ 
+Sub: Investor Updates for the quarter ended June 30, 2024. 
+ 
+With reference to the above cited subject, we are enclosing herewith the Investor Updates for  the 
+quarter ended June 30, 2024.  
+ 
+Request you to take the same on record and oblige. 
+ 
+Thanking you 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited  
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS-15519 
+ SESHANURA
+DHA CHAVADigitally signed by 
+SESHANURADHA CHAVA 
+Date: 2024.07.18 20:05:36 
++05'30'
+=== page 2 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is stri ctly prohibited
+Investor Update
+Q1 FY25
+July 18, 2024 
+Durgam  cheruvu  overlooking Tanla Innovation Center, Hyderabad, India
+
+=== page 3 ===
+Investor Update Q1 FY252Safe Harbor and Other Information 
+The CPaaS business is evolving at a fast pace in India with very li ttle information available in the public domain on the overa ll market. The financial community has always sought a response o n 
+the total market size, key drivers of the industry and the com petitive landscape in this space. In order to provide more tr ansparency and to help understand our business better, we are 
+providing indicative data around the market size and our rel ative share (assuming the indicative data). This indicativ e data has been arrived at basis our detailed internal analysis. This i s being 
+done with an intent to provide an indicative picture of the in dustry and address queries about the CPaaS space. This must n ot be seen as a positioning statement of the company, and one 
+should not rely on the company’s disclosure for their assess ment of the market size or the relevant share of any participa nts in the market.
+This presentation contains statements that include inform ation concerning our possible or assumed strategy, future o perations, financing pla ns, operating model, financial position, future 
+revenues, projected costs, competitive position, industr y environment, potential growth opportunities, potential  market oppor tunities, plans and objectives of management, as well as assump -
+tions relating to the foregoing that involve substantial ri sks and uncertainties. All statements other than statement s of historical fact could be deemed forward-looking in nature. Such 
+statements are inherently subject to risks and uncertainti es, some of which cannot be predicted or quantified. In some c ases, although not all forward -looking statements contain these 
+identifying words, you can identify forward-looking state ments by terminology such as “expect,” “anticipate,” “shou ld,” “believe,” “hope,” “target,” “project,” “plan,” “PROP OSED,” “goals,” “es -
+timate,” “potential,” “predict,” “may,” “will,” “might,”  “could,” “intend,” “shall,” and variations of these terms o r the negative of these terms and similar or derivate express ions. The forward-
+looking statements involve known and unknown risks, uncert ainties and other factors that may cause our actual results,  perfor man ce or achievements to be materially different from any futur e 
+results, performance or achievements, expressed or implie d by the forward-looking statements. It is advisable not to p lace excessive reliance on any of the forward-looking state ments. 
+Forward -looking statements should not be read as a guarantee of futu re performance or results and will not necessarily be accura te indications of the times at, or by, which such performanc e 
+or results will be achieved, if at all. Additionally, these f orward-looking statements, involve risk, uncertainties a nd assumptions based on information available to us as of 15/ 07/24, including 
+those related to the continued impacts of COVID-19 on our busi ness, future financial performance and global economic con ditions. Many of these assumptions relate to matters that ar e 
+beyond our control and changing rapidly, including, but not  limited to, the timeframes for and severity of social distan cing and other mitigation requirements, the timing of headwinds fro m 
+COVID-19, the availability of vaccinations, the continued i mpact of COVID-19 on new or existing customers, business deci sions and the length of our sales cycles, renewal timing or bi llings 
+terms, particularly for customers in certain industries hi ghly affected by COVID- 19.
+If the risks or uncertainties ever materialize or the assump tions prove incorrect, our results may differ materially fr om those expressed or implied by such forward-looking state ments. We 
+assume no obligation and do not intend to update these forwar d-looking statements or to conform these statements to actu al results or to changes in our expectations, except as requi red by 
+law.
+This presentation contains sta tistical data, estimates and forecasts that are based on independ ent industry publications or other publicly available info rmation wherever possible, as well as 
+other information based on our internal sources. This infor mation involves many assumptions and limitations, and you a re cautioned not to place excessive weightage to these estim ates. We 
+have not independently verified the accuracy or completene ss of the data contained in these industry publications and o ther publicly available information, wherever referred. C ertain 
+statements that might or might not be forward-looking state ments represent our management’s beliefs and assumptions o nly as of the date of this presentation. Accordingly, we make  no 
+representati ons as to the accuracy or completeness of that data nor do we un dertake to update such data after the date of this presenta tion. 
+By receiving this presentation you acknowledge that you wil l be solely responsible for your own assessment of the market  and our market position and that you will conduct your own ana lysis 
+and be solely responsible for forming your own view of the pot ential future performance of our business. Any logos or trad emarks other than Tanla, Karix, ValueFirst, Gamooga, Trubl oq & Wisely 
+included herein are the property of the owners thereof and ar e used for reference purposes only.
+=== page 4 ===
+Investor Update Q1 FY253Q1 FY25 Results – Snapshot 
+10,022  Mn
+10.0 % Growth Revenue Gross Profit
+2,694 Mn
+11.7% Growth 1,886  Mn
+3.5% Growth EBITDA FCF
+744 Mn
+53% of PAT
+PAT
+1,412 Mn
+4.3% Growth 10.50
+4.3% Growth EPS Cash(1)
+7,572 Mn
+Increased by INR 763 Mn 
+QoQ
+Note: All growth numbers are over Q1FY24, i.e., YoY growth
+1. Cash balance includes fixed deposits with maturity greater  than twelve months classified under Non-Current AssetsAll numbers are INR, unless otherwise stated  
+=== page 5 ===
+Investor Update Q1 FY254Tanla  has track record of Strong Performance
+Sustained Value Creation Best-in-class Execution World Class Culture
+Visionary in 
+CPaaS Magic 
+Quadrant Growth 
+partner of the 
+yearEnterprise 
+Communication Leading Mid-
+corporate of 
+India‘Industry mover’ and 
+Member of sustainability 
+yearbook‘Global HR excellence 
+award’Listed in indices Awards Recognitions6,596 Mn
+Cash returned to 
+shareholders
+15%
+PAT growth1 5+
+Patents4
+323
+Customers with >10 MN 
+INR Revenue p.a.19,749
+Training hours
+25%
+Women in leadership19%
+Revenue growth1
+19%
+EBITDA growth1100+
+Innovations3
+100+
+Partners51000+
+Employees in India and 
+beyond
+68/100
+S&P Global ESG 
+Score69%+
+Increase in stock 
+price22,000+
+Customers across 
+segments
+50%
+Rev. from 50 / top 100 
+cust., retained for > 5 yr.100%
+Return-to-Work 
+Rate from Parental 
+leaveZero
+POSH and human 
+rights complaints22%
+Gross profit1All numbers are IN R, unless otherwise stated
+1. CAGR growth over four years starting from FY21 to FY24
+2. INR 524 on 31st  Mar 2023 vs 942  on 30th June 2024;  3. Including enhancements:4. patents granted f or Wisely; 4 provisional patents for ATP and Trubloq 2.0  5. In cludes all 3rd party contractors
+Source: Team analysis
+
+=== page 6 ===
+Investor Update Q1 FY255Today, Tanla  focuses on two synergistic businesses  - Digital Platforms  & Enterprise 
+Communications
+Deeply embedded
+NRR of 125%Undisputed market 
+leadership
+~35% market share in India
+E2E omnichannel
+presence
+SMS, Voice, OTT (WhatsApp, 
+TrueCaller ), other advanced 
+messaging channels, chatbot etc.
+Agility & rapid customer 
+service
+10k+  APIs deployed across 
+enterprises to enable full suite of 
+omni -channel communicationMonetizable at scale
+100%  of revenue from SaaS  
+business modelsPredictable growth 
+26%+ growth in gross profit for 
+FY24
+Digital 
+Platforms
+(Innovation Engine)Enterprise 
+Communications
+(Scale with enterprise)
+Innovation at Scale
+The data indicated on market size has been arrived at basis ou r internal analysis. This is our assessment and merely indic ative in nature.
+
+=== page 7 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is stri ctly prohibited
+Business 
+Outcomes
+Karix  office, Mumbai, IndiaInvestor Update Q1 FY256
+=== page 8 ===
+Investor Update Q1 FY257Customer cohorts: Expansion of Customer Relationships 
+>INR 500 Mn >INR 100 Mn - < INR 500 Mn >INR 10 Mn - <INR 100 Mn
+Count of customers  Q1 FY24
+1614119221
+64
+25217333
+Q4 FY24
+60
+25019329
+ Q1 FY25Customers contributing > 
+INR 10 Mn annualized 
+revenue grew by  3% on 
+YoY basis
+12 out of top 20 customers 
+of last year continue to be 
+in top 20329 customers contributing > 
+INR 10 Mn annual revenue, count 
+up by  49% on YoY basis
+1.  Customer segments are arrived at on a quarterly annualized bas is (quarter revenue multiplied by four)
+2. Customer segments on YoY basis are not comparable since ValueFirst  was one of the large customers before the acquisition. 
+=== page 9 ===
+Investor Update Q1 FY258Customer cohorts: Increase in Product Penetration
+ Q1 FY24
+1,32
+02,2165,4989,034
+3,63
+9
+2,1273,7059,471
+Q4 FY24
+3,115
+2,1634,0489,326
+ Q1 FY25Product penetration improved 
+to 2.37  from 2.17 in Q1 FY25 
+on a larger customer base, 
+driven by growing adoption of 
+WhatsApp and other newer 
+channels
+Top 20 customers are 
+contributing to 43%  of 
+revenue (INR 4,294 Mn)  in Q1 
+FY25
+Customers contributing > INR 
+500 Mn annual revenue grew by 
+9% on QoQ basis>INR500 Mn >INR100 Mn - < INR500 Mn >INR10 Mn - <INR100 Mn
+1. Customer segments are arrived at on a quarterly annualized basis  (quarter revenue multiplied by four)
+2. Customer segments on YoY basis are not comparable since ValueFirst  was one of the large customers before the acquisition. Revenue from customer in (INR Mn) 
+=== page 10 ===
+Investor Update Q1 FY259Customer Concentration
+5,621
+Q1 FY24 Q1 FY254,29412
+out of 20 customers of 
+last year continue to be in 
+Top 2062% 43%
+In Q1 FY24, ValueFirst was one of 
+our top customers. Post acquisition 
+it ceases to be our top customer 
+and its impact can be seen in 
+customer concentration mixRevenue from top 
+20 customers (INR 
+Mn)
+=== page 11 ===
+Investor Update Q1 FY2510Winning New Logos
+1. New customers include every unique contracting entity added duri ng the yearRevenue from new 
+customers (INR Mn)
+83
+Q1 FY24 Q1 FY255419%Count of customers 
+New Customers 
+added on WA80
+121
+=== page 12 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is stri ctly prohibited
+Financial 
+Outcomes
+Investor Update Q1 FY2511
+=== page 13 ===
+Investor Update Q1 FY2512Revenue: Flat growth sequentially in a seasonally weak quar ter
+Q1 FY24 Q2 FY24 Q4 FY24 Q3 FY24 Q1 FY2514% 19% 15%21%10%Y-o-Y growth (INR  Mn)Revenue grew by 10.0% YoY to 
+INR 10,022 Mn , driven by 
+Enterprise Communications
+Enterprise revenue grew by 
+11.2% YoY to INR 9,154 Mn
+OTT contribution to overall 
+revenue was 19.9% in Q1 FY25 
+as against 7.9% in Q1 FY24 9,11110,08610,02610,05510,022
+=== page 14 ===
+Investor Update Q1 FY2513Q1 FY25 – Digital Platforms & Enterprise Communications Re venue  (INR Mn)Digital Platforms Enterprise Communications
+Q1 FY24 Q1 FY25De-grew by 1.2% 
+YoY 31% YoY growth excluding Vi impact
+Q1 FY25 Q1 FY2411.2% Growth
+YoY
+879 8688,2329,154
+=== page 15 ===
+Investor Update Q1 FY2514Gross profit: YoY growth of 11.7%
+Q3 FY24 Q1 FY24 Q1 FY25 Q2 FY24 Q4 FY24Margin%  (INR Mn)26.5%26.9%27.4%
+26.7%26.9%Gross profit grew by 11.7% YoY. 
+Gross margin was at 26.9% in Q1 
+FY25 improved by 40 bps 
+Enterprise communications gross 
+profit grew by 17.7% YoY Digital Platform gross profit grew 
+by 0.7% YoY and de-grew 3.1% 
+sequentially due to Vi impact. If 
+adjusted for the above the gross 
+profit would grow by 30% YoY
+On sequential basis, gross 
+margin % increased by 17 bps2,4132,7622,699 2,686 2,694
+=== page 16 ===
+Investor Update Q1 FY2515Gross margin profile
+Enterprise 
+businessOverall marginPlatform 
+businessB
+CA
+26.5% 27.4% 26.9% 26.9% 26.7%
+35% 34% 35% 33% 32%Contribution by platformAIncrease in gross 
+margin by 40 bps 
+YoY, and 17 bps QoQ 
+BDigital Platform gross 
+margin contribution 
+to total at 32%
+Enterprise  
+communications 
+gross margin at 
+20.1% in Q1CQ1
+FY24Q2
+FY24Q3
+FY24Q4
+FY24Q1
+FY25
+19.0% 20.0% 19.5% 20.1% 19.7%96.8% 97.7% 97.5% 98.7% 98.2%
+Q1
+FY24Q2
+FY24Q3
+FY24Q4
+FY24Q1
+FY25
+Q1
+FY24Q2
+FY24Q3
+FY24Q4
+FY24Q1
+FY25
+=== page 17 ===
+Investor Update Q1 FY2516Efficiency Metrics
+76%70%
+EBITDA Gross Profit EBITDA to Gross Profit conversionQ1 FY24 Q1 FY25 (INR Mn)EBITDA was at INR 1,886 Mn, YoY 
+growth of 3.5% and sequenti al 
+growth of 0.4%1. The YoY 
+growth in EBITDA is post 
+consolidation of ValueFirst India 
+business
+EBITDA margin increased  by 141 
+basis points sequentially and 
+declined by 119 basis points 
+YoY
+Indirect cost was at 8.1% of 
+revenue in Q1 FY25 as against 
+6.5% in Q1 FY24 (prior to 
+ValueFirst acquisition)1,8222,413
+1,8862,694
+1 We have considered adjusted EBITDA . Please refer slide no 29 fo r reconciliation between reported number to adjusted number  
+=== page 18 ===
+Investor Update Q1 FY2517Indirect cost walk YoY
+Employee cost increased due 
+to ValueFirst acquisition, net 
+additions and partly offset by 
+lower RSU cost 
+Cloud and hosting charges 
+increased due to ValueFirst 
+acquisition 
+Other expense increased due 
+to incremental spends on 
+marketing and other general 
+expenses  (INR Mn)5901383249 809
+Q1 FY24 Employee 
+costQ1 FY25 Cloud and 
+hosting Other 
+expenses
+=== page 19 ===
+Investor Update Q1 FY2518Operating Income
+Q1 FY24 Q2 FY24 Q3 FY24 Q1 FY25 Q4 FY24Q1 FY24 Q2 FY24 Q3 FY24 Q1 FY25 Q4 FY24
+EBITEBITDA
+ (INR Mn)  (INR Mn)1,658 1,742 1,694 1,64911,658EBITDA was at INR 1,886 Mn, 
+YoY growth of 3.5% and 
+sequential growth of 0.4%1. 
+Depreciation was at INR 
+227 Mn in Q1 FY25 , as 
+against INR165  Mn in 
+Q1FY24
+EBIT was at INR 1,658 Mn in 
+Q1 and EBIT margin at 
+16.5%1,8221,968 1,9281,87711,886
+1 We have considered adjusted EBITDA and EBIT. Please refer slid e no 29 for reconciliation between reported number to adjusted num ber  
+=== page 20 ===
+Investor Update Q1 FY2519
+ (INR Mn)
+Q1 FY24Digital Platforms
+Q1 FY2567.3%Enterprise Communications
+Q1 FY25609 584
+Q1 FY241,049 1,074 EBIT%  EBIT%11.7%EBIT Profile
+=== page 21 ===
+Investor Update Q1 FY2520Cash Flow Generation
+Q1 FY24 Q2 FY24 Q3 FY24 Q4 FY24 Q1 FY25 (INR Mn)In Q1, we generated INR 744 
+Mn as free cash flow. Our cash 
+collections were spilled over in 
+July  impacting DSO days and 
+free cash flow
+8691,310
+6401,492
+744
+=== page 22 ===
+Investor Update Q1 FY2521Profit After Tax & EPS
+EPSProfit After Tax (PAT) (INR Mn)  (INR)Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q1FY241,425 1,401 1,36111,412 1,354
+Q2FY24 Q3FY24 Q4FY24 Q1FY25 Q1FY2410.60 10.429.69 10.50 10.07EPS was at INR 10.50, grew 
+by 4.3% YoY, led by profit 
+expansion PAT was at INR 1,412 Mn in Q1. 
+PAT grew by 3.8% 
+sequentially (adjusted PAT) 
+and 4.3% YoY
+Effective tax rate for Q1 FY25 
+is at 18.8%
+1 We have considered adjusted PAT. Please refer slide no 29 for re conciliation between reported number to adjusted number  
+=== page 23 ===
+Investor Update Q1 FY2522Return on Capital Employed
+47%1
+excluding CCE as against 72% 
+last year
+Q1 FY24 Q2 FY24 Q3 FY24 Q1 FY25 Q4 FY2434%38%
+35%
+31%34%
+ROCE - Return on capital employed; CCE- Cash & cash equivalents
+1. ROCE is not comparable to previous year as it is impacted by Valu eFirst acquisition 
+
+=== page 24 ===
+Investor Update Q1 FY2523Strong Balance Sheet
+20,822 Mn
+Strong Equity and Reserves7,572 Mn
+Cash & cash equivalents 47%
+ROCE (excluding cash & cash 
+equivalents)
+Debt Free
+Team Tanla at an internal event hosted at Tanla Innovation an d Experience Center, HyderabadAll numbers are INR, unless otherwise stated  
+=== page 25 ===
+Investor Update Q1 FY2524
+Annexures 
+Investor Update Q1 FY2524
+=== page 26 ===
+Investor Update Q1 FY2525Profit & Loss 
+Q1 FY25
+Q4 FY24 Q1 FY24 Q1 FY25 In INR  Mn, unless otherwise stated
+10,055 10 9,111 10,022 Revenue from operations (net)
+(7,369) 9 (6,698) (7,328) Cost of services
+2,686 12 2413 2,694 Gross Profit
+(1,081) 37 (591) (808) Operating Expenses
+1,605 4 1,822 1,886 EBITDA
+(229) 39 (164) (228) Depreciation and Amortization
+1,376 0 1,658 1,658 EBIT
+(17) 50 (10) (15) Finance Cost
+260 85 52 96 Other income
+1,619 2 1700 1,739 Profit before taxes
+(317) (5) (346) (327) Tax expenses (including differed taxes)
+1,302 4 1354 1,412 Profit after taxes
+9.69 4 10.07 10.50 Earnings per share
+134.5 134.4 134.4 Weighted average shares outstanding∆%
+=== page 27 ===
+Investor Update Q1 FY2526Balance Sheet June 30, 2024
+In INR Mn, unless otherwise statedAudited Mar 
+31, 2024 In INR Mn, unless otherwise statedUnaudited 
+June 30, 2024Audited Mar 
+31, 2024Unaudited June 
+30, 2024
+Assets
+Non-current assets
+Property, plant and equipment 
+Internally developed - Platforms
+Customer Relationships
+Trade name
+Technology
+Non Compete
+Intangible assets under development
+Goodwill
+Right -of-use assets
+Deferred tax assets (net)
+Other non-current assets
+Capital work- in-progress
+Financial assets
+Software
+Investment Property
+Total Non-Current Assets
+Trade receivables
+Cash and cash equivalents
+Bank balances other than cash and cash equivalents
+Other financial assets
+Other current assets
+Total current assets
+TOTAL ASSETS2,093
+917
+289
+30
+99
+18
+942
+2,646
+623
+405
+1,627
+158
+526
+230
+17
+10,620
+9,782
+7,191
+44
+5,260
+509
+22,785
+33,4052,058
+988
+308
+34
+107
+19
+777
+2,646
+656
+393
+938
+234
+333
+200
+17
+9,708
+8,424
+5,436
+1,235
+5,030
+257
+20,382
+30,090Equity  & Liabilities
+Equity share capital
+Other equity
+Total equity
+Financial liabilities
+Lease liabilities
+Other financial liabilities
+Provisions
+Other non-current liabilities
+Total non-current Liabilities
+Current liabilities
+Trade payables
+Lease liabilities
+Other financial liabilities
+Other current liabilities
+Provisions
+Current tax liabilities (net)
+Total current liabilities
+Total Equity & Liabilities20,688
+20,822
+-   
+555
+-   
+17
+8
+580
+7,397
+168
+2,549
+254
+80
+1,555
+12,003
+33,40519,284
+19,418
+-   
+590
+-   
+16
+8
+614
+6,923
+160
+2,638
+170
+81
+87
+10,058
+30,090134 134
+=== page 28 ===
+Investor Update Q1 FY2527Q4 FY24 In INR Mn, unless otherwise stated
+Cash flow before changes in working capital
+Changes in working capital
+Cash generated from operations 
+Taxes
+Cash flow from operating activities
+Net investments in tangible and intangible assets
+Interest and other income 
+Movement in Bank Balances
+Proceeds from sale of Property, Plant and Equipment
+Borrowings
+Dividend paid
+Interest paid on lease liabilities 
+Cash flow from financing activities
+Cash flow for the period
+Cash and cash equivalents at the beginning of period
+Forex Fluctuations 
+Cash Acquired on ValueFirst  Acquisition
+Fixed Deposits maturity more than 12months(1) Condensed 
+Cash flow Q1 
+FY25
+Buy Back of shares
+1. Cash balance includes fixed deposits with maturity 
+greater than twelve months classified under Non-Current 
+Asset
+2. Opening cash balance excludes fixed deposits with 
+maturity greater than twelve months classified under Non-
+Current AssetsCash flow from investing activitiessQ1 FY25
+Cash and cash equivalents closing balance
+1,684
+500
+2,184
+(262)
+1,921
+(429)
+40
+0
+(31)
+(1)
+(807)
+(9)
+(848)
+685
+6,162
+(37)
+0
+-0(389)1,901
+(1,302)
+599
+299
+898
+(154)
+66
+(199)
+(287)
+-
+-
+-
+-
+(42)
+(42)
+568
+6,6712
+(5)
+338
+      7,572-
+6,8101
+=== page 29 ===
+Investor Update Q1 FY2528In INR Mn, unless 
+otherwise stated Q4 FY24 Q1 FY25 Q1 FY24∆ %
+Operating cash flow 1,921 898 1,294 31
+Capital expenditure (429) (154) (425) 64
+Free cash flow 1492 744 869 14
+Free cash flow in percent of 
+total revenue15% 7% 10% -
+Free cash flow as % of PAT 53% 64% - 115%Free  
+Cash Flow 
+
+=== page 30 ===
+Investor Update Q1 FY2529In INR Mn, unless 
+otherwise stated Q1 FY25 Q1 FY24
+Reported EBITDA 1,886 1,822
+One -time expense- MWC - -
+Adjusted EBITDA 1,886 1,822
+Adjusted EBIT 1,658 1,658
+Adjusted PAT 1,412 1,353
+1. Adjusted PAT is normalized for the post tax impact for 2 items – (i) o ne-time expenditure of INR 273 MN incurred for Mobile World 
+Congress 2024 and (ii) Gain of Rs. 210 MN in Other Income pertaining to  write back of liability 1,604
+273
+1,877
+1,649
+1,361Reconciliation
+Q4 FY24
+=== page 31 ===
+CONFIDENTIAL AND PROPRIETARY
+Any use of this material without specific permission is stri ctly prohibited
+About Us
+Karix  Office, MumbaiInvestor Update Q1 FY2530
+=== page 32 ===
+Investor Update Q1 FY2531Tanla embeds Gen AI across all its platforms 
+Wise AlbertOur intelligent core underlying all our products, revolutionizing digital interactions through Gen Al 
+capabilities
+Audience.ai 
+(whom to send)Channel & Partner.ai (how 
+to send)Content.ai 
+(what to send)
+Scam identification and 
+prevention in <50 ms through 
+AI-ML led enginesTrubloq
+Registration.ai
+DigiAssets.ai
+•100% compliance with 
+all regulatory guidelinesWisely
+•90%+ time saving in 
+the registration process
+•1 single dashboard for 
+digital asset analyticsATP
+CTA engineSemantics engine
+Sender reputationSingle API-led intelligent platform for omni-channel digital 
+interactions to deliver distinctive impact for enterprises and 
+their users
+Single 
+API 
+Partner 
+marketplace End-to- End 
+encryption 
+SSOT enabled 
+by blockchain Smart 
+routing 
+Integrated 
+plugins Performance 
+analytics 
+Core 
+stack GenAI to elevate Trubloq’s 
+signature experience
+=== page 33 ===
+Investor Update Q1 FY2532We have also successfully addressed several Greenfield opp ortunities
+Trubloq
+With world’s 1st blockchain-enabled communication 
+stack. It works with a consortium of telecom  players 
+and other stakeholders to maintain the leadership 
+position
+100% Compliance to address all legal 
+challengesRegulatoryUser 1Bn+ Users touched
+60–80% Reduction in complaints per Mn 
+SMS from telemarketers
+Business
+100%
+ Market share in UAE
+50k+ Enterprise partners3/4 Indian telcos served
+ATP
+First of its kind anti-smishing platform. 
+Identification Prevention Elimination
+A. Govt &  its 
+institutions
+B. 
+EnterprisesC. 
+Telcos
+=== page 34 ===
+Investor Update Q1 FY2533Our Customers love us in India and beyond
+~35% 
+CPaaS market share 
+of total revenues contributed by 
+50 of our top 100 customers, 
+retained for more than 5 years50%+
+2000+       
+Customers across segmentsPlayer of choice 
+in India across industries 
+leaders… and serve global giants in 4 
+regionsWe are the player of choice in India…
+7/10 top insurance9/10 top banks  served
+8/10top financial 
+services
+7/10 top social media
+marquee govt. projects
+This indicative data on market size has been arrived at basis our i nternal analysis. This is our assessment and merely indicative  in nature and should not be relied uponUSA & 
+Europe
+SEA
+Middle 
+East
+Global Tech 
+giants
+=== page 35 ===
+Investor Update Q1 FY2534Our Market Leadership in Enterprise Communication (1/2)
+Undisputed market leadership High Customer Stickiness
+Unmatched scale with 35% CPaaS market share
+5% increase post ValueFirst acquisition 
+~45% share in SMS NLD market50 of Top 100 accounts > 5 years 
+Double digit growth in every customer cohort 
+since inception
+100+ API’s integrations within a single 
+enterprises  across different ecosystems
+Customized to serve enterprise needs
+Deeply integrated , with all major CRM systems 
+across verticals to enable omnichannel 
+communication
+10,000  customized APIs to integrate with 
+customers
+1000+ bank -specific use cases supportedLargest government partner
+Multiple  campaigns supportedPlayer of choice across industry
+2000+ customers across industries
+8 of Top 10 brands served across banking, 
+Insurance, Retail, E-Comm, Travel & Digital Natives
+This indicative data on market size has been arrived at basis our i nternal analysis. This is our assessment and merely indicative  in nature and should not be relied upon
+=== page 36 ===
+Investor Update Q1 FY2535Our Market Leadership in Enterprise Communication (1/2)
+Tech. backed use cases Newer Channels
+AI/ML based solutions developed for a 
+leading bank
+Impact: 
+2X increase in loyalty (offers availed) for 
+the bank
+Context
+Automated  relevant promotional 
+messages based on user card swipe 
+activity
+In house  ML capabilities leveraged to 
+trigger targeted offer to users basis 
+transaction amount, location, and card 
+typeTurbo charging our growth 
+~3X  YoY growth in Q1 from WhatsApp
+Serving enterprise curated needs 
+Commerce on WhatsApp : Enabled  cab 
+booking over WhatsApp for a seamless 
+consumer journey
+=== page 37 ===
+Great Financial 
+Track Record
+We continue to 
+deliver over the 
+last five yearsAll figures in INR Mn
+10,040
+Revenues  201939,278
+Revenues  2024~4x
+967
+EBITDA  20197,322
+EBITDA  2024~8x
+298
+PAT 20195,483
+PAT 2024~18x
+36
+Investor Update Q1 FY2536
+=== page 38 ===
+Thank You
+Follow us at:

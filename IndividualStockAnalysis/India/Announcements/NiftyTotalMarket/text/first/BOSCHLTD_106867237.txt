@@ -1,0 +1,745 @@
+8 BOSCH 
+Corporate Relationship Department 
+SSE Limited 
+1st Floor, New Trading Ring 
+Rotunda Building 
+Phiroze Jeejeebhoy Towers 
+Dalal Street, Fort 
+Mumbai -400 001 
+Scrip code:500530 
+Dear Sir/Madam, The Manager 
+Listing Department 
+National Stock Exchange of India Ltd. 
+Exchange Plaza, C-1, Block G 
+Sandra-Kurla Complex 
+Sandra (E) 
+Mumbai -400 051 
+Scrip code: BOSCHL TD 
+Sub.: Update/ Clarification on Machine Readable Form/ Legible copy of Financial Results 
+Ref: NSE email dated November 19, 2026 Bosch Limited 
+Post Box No:3000 
+Hosur Road, Adugodi 
+Bangalore -560030 
+Karnataka, India 
+Tel +91 9262106162 
+www.bosch.in 
+CIN:L8511 OKA 1951 PLC000761 
+Secretarial.Corp@in.bosch.com 
+20.11.2026 
+With reference to the above-mentioned email and NS E Circular No. NS E/CML/2018/02 dated January 16, 2018, 
+we wish to inform you that the financial results of Bosch Limited ("the Company'') for the quarter and half year 
+ended September 30, 2026, submitted to the Stock Exchanges on November 06, 2026, were provided in a 
+machine-readable and searchable format. 
+However, it has been brought to our notice that financial results for the period ended September 30, 2026, were 
+not in a machine-readable/legible copy. Accordingly , the pages concerned have now been converted into a 
+machine-readable/searchable format and are enclosed. 
+We further confirm that there is no change in the financial results as previously submitted. 
+This is for your information and records 
+Thanking you. 
+Yours Sincerely, 
+for Bosch Limited, 
+Venkatarama e~~i~:~'!r:i!'ae:1s~i~ivasan 
+n Srinivasan ~~~7~i.026.11.20,1: 11:23 
+V Srinivasan 
+Company Secretary 
+& Compliance Officer 
+Registered Office: Bosch Limited, Hosur Road, Bangalore -560030, Karnataka, India 
+Managing Director: Soumitra Bhattacharya, Joint Managing Director: Guruprasad Mudlapur 
+Bosch Limited 
+Registered office : Hosur Road, Adugodi, Bengaluru-560 030 
+Website: www.bosch.in, e-mail ID: secretarial.corp@in.bosch.com, Tel: +91 80 67523878 
+CIN: L85110KA 1951PLC0007 61 
+Statement of Unaudited Consolidated Financial Results for the quarter and six months ended September 30, 2026 
+[Rs. In MIiiions {Mio INR)] 
+Particulars 
+1 Income 
+(a) Revenue from operations 
+(b) Other Income 
+Total Income (a+b) 
+2 Expenses 
+(a) Cost of raw material and components 
+consumed 
+(b) Purchase of traded goods 
+(c) (Increase) / decrease in inventories of 
+finished goods, work-in-progress and traded 
+goods 
+(d) Employee benefits expense 
+(e) Finance costs 
+{fl Depreciation and amortisation expense 
+(g) Other expenses 
+Total expenses 
+3 Profit before exceptional Items and tax 
+(1 -2) 
+4 Exceptional items (refer note 5.a, 5.b) 
+5 Profit before tax (3 + 4) 
+6 Current tax expense/ (credit) 
+(i) for the period/ year 
+(ii) relating to earlier years 
+Deferred tax charge/ (credit) 
+Total tax expense/ (credit) 
+7 Net Profit for the period/ year (5 -6) 
+Share of net profit/{loss) of associates and 
+8 Jointly controlled entity accounted for using 
+equity method (net of tax) 
+Net profit after taxes and share of profit/ 
+9 (loss) of Associates and Jointly 
+controlled entity (7 + 8) 
+10 Other comprehensive Income 
+Items that will not be reclassified to 
+Statement of Profit and Loss 
+Changes in fair value of equity instruments 
+Income tax effect 
+Remeasur ement gains/ (losses) on defined 
+benefit plans 
+Income tax effect 
+Other comprehensive Income/ (loss) (Net 
+of tax) 
+11 Total comprehensive Income for the 
+period/ year (net of tax) (9 + 10) 
+12 Paid-up equity share capital (Face value of 
+Rs 10/-each) 
+13 Other equity as per balance sheet 
+14 Earnings per share (of Rs 10/-each) 
+(weighted average) (not annualised) 
+(a) Basic 
+(b) Diluted 
+'Restated (Refer Note 5.c) Current 
+three months 
+ended 
+September 30, 
+2026 
+(Unaudited) 
+76,551 
+966 
+77,517 
+24,795 
+27,014 
+(1,482) 
+4,479 
+77 
+1,344 
+11,374 
+67,601 
+9,916 
+1,304 
+11,220 
+3,045 
+0 
+(219) 
+2,826 
+8,394 
+11 
+8,405 
+(1,211) 
+101 
+(1,110) 
+7,295 
+295 
+284.97 
+284.97 Preceding 
+three months 
+ended 
+June 30, 2026 
+(Unaudited) ' 
+71,667 
+2,344 
+74,011 
+22,846 
+27,059 
+(2,241) 
+3,841 
+61 
+1,215 
+10,374 
+63,155 
+10,856 
+10,856 
+4,996 
+13 
+(2,277) 
+2,732 
+8,124 
+12 
+8,136 
+1,222 
+(117) 
+1,105 
+9,241 
+295 
+275.85 
+275.85 Corresponding 
+three months 
+ended 
+September 30, 
+2025 
+(Unaudited)' 
+59,694 
+2,242 
+61,936 
+17,162 
+21,118 
+(113) 
+4,257 
+43 
+1,237 
+8,854 
+52,558 
+9,378 
+9,378 
+2,180 
+53 
+65 
+2,298 
+7,080 
+4 
+7,084 
+(799) 
+119 
+(680) 
+6,404 
+295 
+240.17 
+240.17 Year to date 
+figures for the 
+current period 
+ended 
+September 30, 
+2026 
+(Unaudited) 
+148,218 
+3,310 
+151,528 
+47,591 
+54,123 
+(3,723) 
+8,320 
+138 
+2,559 
+21,748 
+130,756 
+20,772 
+1,304 
+22,076 
+8,041 
+13 
+(2,496) 
+5,558 
+16,518 
+23 
+16,541 
+11 
+(16) 
+(5) 
+16,536 
+295 
+560.84 
+560.84 Year to date 
+figures for the 
+current period 
+ended 
+September 30, 
+2025 
+(Unaudited)' 
+118,562 
+5,344 
+123,906 
+34,018 
+41,437 
+(920) 
+8,229 
+94 
+3,171 
+19,084 
+105,113 
+18,793 
+5,560 
+24,353 
+5,236 
+53 
+60 
+5,349 
+19,004 
+12 
+19,016 
+485 
+(55) 
+430 
+19,446 
+295 
+644.73 
+644.73 Year ended 
+March 31, 
+2026 
+{Audited)' 
+249,058 
+9,114 
+258,172 
+73,886 
+85,649 
+(1,606) 
+17,960 
+289 
+5,991 
+37,573 
+219,742 
+38,430 
+5,608 
+44,038 
+10,149 
+225 
+380 
+10,754 
+33,284 
+32 
+33,316 
+(2,531) 
+(0) 
+294 
+(74) 
+(2,311) 
+31,005 
+295 
+68,306 
+1,129.60 
+1,129.60 
+Bosch Limited 
+Registered office : Hosur Road, Adugodi, Bengaluru- 560 030 
+Website: www.bosch.in, e-mail ID: secretarial.corp@in.bosch.com, Tel: +91 80 67523878 
+CIN:L85110KA1951PLC000761 
+Notes to unaudited consolidated financial results for the quarter and six months ended September 30, 2026 
+Note 1-Statement of Assets and Liabilities 
+[Rs. in Millions (Mio INR)J 
+A Assets 
+1. Non-current assets 
+Property, plant and equipment 
+Capital work-in progress 
+Investment properties 
+Right-of use assets 
+Investments accounted for using the equity method 
+Financial assets 
+(i) Investments 
+(ii) Trade receivables 
+(iii) Loans 
+(iv) Other financial assets 
+Income tax assets (net) 
+Deferred tax assets (net) 
+Other non-current assets 
+Total non-current assets 
+2. Current assets 
+Inventories 
+Financial assets 
+(i) Investments 
+(ii) Trade receivables 
+(iii) Cash and cash equivalents 
+(iv) Bank balances other than (iii) above 
+(v) Loans 
+(vi) Other financial assets 
+Other current assets 
+Total current assets 
+Total assets (1+2) 
+B Equity and Liabilities 
+1. Equity 
+Equity share capital 
+Other eauitv 
+Total equity 
+2. Liabilities 
+Non-current liabilities 
+Financial liabilities 
+(i) Lease liabilities 
+(ii) Other financial liabilities 
+Provisions 
+Total non-current liabilities 
+Current liabilities 
+Financial liabilities 
+(i) Lease liabilities 
+(ii) Trade payables 
+total outstanding dues to micro enterprises and small enterprises 
+total outstanding dues of creditors other than micro enterprises and small enterprises 
+(iii) Other financial liabilities 
+Other current liabilities 
+Provisions 
+Income tax liabilities (net) 
+Total current liabilities 
+Total liabilities 
+Total equity and liabilities (1+2) 
+'Restated (Refer note 5.c} Asal 
+September 30, 2026 
+(Unaudited) 
+11,436 
+6,158 
+5,303 
+2,881 
+411 
+12,051 
+353 
+164 
+3,550 
+1,557 
+3,757 
+1,626 
+49,247 
+32,254 
+11,316 
+41,753 
+2,887 
+68 
+5,077 
+20,417 
+11,381 
+125,153 
+174,400 
+295 
+76,376 
+76,671 
+1,804 
+41 
+569 
+2,414 
+251 
+2,884 
+51,331 
+7,415 
+9,392 
+21,535 
+2,507 
+95,315 
+97,729 
+174,400 Asal 
+March 31, 2026 
+(Audited)• 
+11,007 
+4,791 
+5,386 
+2,100 
+388 
+58,021 
+485 
+131 
+5,748 
+2,144 
+1,278 
+1,510 
+92,989 
+27,111 
+25,919 
+35,326 
+4,695 
+94 
+9,617 
+38,851 
+6,700 
+148,313 
+241,302 
+295 
+68,306 
+68,601 
+1,136 
+40 
+1,679 
+2,855 
+110 
+2,708 
+41,925 
+97,957 
+7,535 
+19,611 
+169,846 
+172,701 
+241,302 
+Bosch Limited 
+Registered office: Hosur Road, Adugodi, Bengaluru -560 030 
+Website: www.bosch.in, e-mail ID: secretarial.corp@in .bosch.com, Tel: +91 80 67523878 
+CIN: L85110KA1951PLC000761 
+Notes to unaudited consolidated financial results for the quarter and six months ended September 30, 2026 
+Note 2 -Statement of Consolidated Cashflows 
+A. Cash flow from operating activities 
+B. Profit before income tax (after exceptional item) including share of profits of associates 
+and jointly controlled entity 
+Adjustments for : 
+Exceptional items (refer note 5.a., 5.b.) 
+Depreciation and amortisation expense 
+Unrealised exchange (gain)/ loss (net) 
+(Gain)/ loss on disposal of property, plant and equipment (net) 
+Expected credit loss allowance (written back) 
+Bad debts written off 
+Provision/ liabilities no longer required (written back) 
+Dividend income 
+Interest income 
+Net loss/ (gain) on financial assets measured at FVTPL 
+Amortisation of deferred income 
+Provision for warranty 
+Finance costs 
+Share of profits of associates and jointly controlled entity 
+Operating profit before working capital changes 
+Changes in working capital: 
+(Increase)/ decrease in inventories 
+(Increase)/ decrease in trade receivables 
+(Increase)/ decrease in other financial assets 
+(Increase)/ decrease in other assets 
+Increase I (decrease) in trade payables 
+Increase/ (decrease) in provisions and other financial liabilities 
+Increase/ (decrease) in other current liabilities 
+Net cash generated from/ (used in) operations 
+Income taxes paid (net of refunds) 
+Net cash generated from/ (used in) operating activities 
+Cash flow from investing activities 
+Purchase of property, plant and equipments 
+Purchase of investment properties 
+Investment in subsidiaries, associates and jointly controlled entity (refer note 5.c) 
+Proceeds from disposal of property, plant and equipment 
+Purchase of investments 
+Proceeds from sale of investments 
+Loan to related parties 
+Repayment of loans by related parties 
+Net Investment in/ (maturity) of deposit accounts (original maturity of more than 
+3 months) 
+Dividend received 
+Proceeds from sale of specified business (refer note 5.a) 
+Interest received 
+Net cash generated from/ (used in) investing activities For the period ended 
+September 30, 2026 
+(Unaudited) 
+22,099 
+(1,304) 
+2,559 
+(216) 
+14 
+24 
+2 
+(65) 
+(188) 
+(1,586) 
+(1,502) 
+-
+-
+138 
+(23) 
+19,952 
+(6,831) 
+(4,118) 
+(55) 
+(2,971) 
+10,058 
+(1,521) 
+2,143 
+16,657 
+(4,981) 
+11,676 
+(3,546) 
+(228) 
+(90,151) 
+7 
+(154,490) 
+216,576 
+-
+4,500 
+20,275 
+188 
+-
+2,055 
+(4,814) [Rs. in Millions (Mio INR)] 
+For the period ended 
+September 30, 2025 
+(Unaudited)* 
+24,365 
+(5,560) 
+3,171 
+145 
+(3) 
+(140) 
+23 
+-
+(191) 
+(2,444) 
+(2,695) 
+1 
+145 
+94 
+(12) 
+16,899 
+(2,426) 
+(1,040) 
+(39) 
+640 
+2,569 
+(1,417) 
+755 
+15,941 
+(5,039) 
+10,902 
+(1,086) 
+-
+-
+30 
+(67,739) 
+69,401 
+(1,500) 
+2,501 
+772 
+191 
+1,526 
+2,489 
+6,585 
+Bosch Limited 
+Registered office : Hosur Road, Adugodi, Bengaluru- 560 030 
+Website: www.bosch.in, e-mail ID: secretarial.corp@in .bosch.com , Tel: +91 80 67523878 
+GIN: L85110KA1951PLC000761 
+Notes to unaudited consolidated financial results for the quarter and six months ended September 30, 2026 
+Note 2 -Statement of Consolidated Cashflows 
+[Rs. in Millions (Mio INR)] 
+For the period ended For the period ended 
+September 30, 2026 September 30, 2025 
+(Unaudited) (Unaudited)* 
+C. Cash flow from financing activities 
+Dividends paid (refer note 6) (8,459) (20,095) 
+Payment of principal portion of lease liabilities (108) (107) 
+Payment of interest portion of lease liabilities (57) (43) 
+Interest paid (67) (28) 
+Net cash generated from/ (used in) financing activities (8,691) (20,273) 
+Net increase/ (decrease) in cash and cash eauivalents (A+B+C) (1,829) (2,786) 
+Effects of foreign exchange on cash and cash equivalents (3) 20 
+Cash and cash equivalents at the beginning of the year 4,719 4,429 
+Cash and cash eauivalents at the end of the period 2,887 1,663 
+For the period ended For the period ended 
+Cash and cash equivalents comprise of the following September 30, 2026 September 30, 2025 
+(Unaudited) (Unaudited)* 
+Balances with banks 
+-on current accounts 267 901 
+-on Exchange Earner's Foreign Currency ("EEFC") accounts 817 457 
+-deposit accounts with original maturity of less than 3 months 1,803 305 
+Cash on hand 0 0 
+Total 2,887 1,663 
+*Restated (Refer note 5.c) 
+Bosch Limited 
+Registered office: Hosur Road, Adugodi, Bengaluru-560 030 
+Website: www.bosch .in, e-mail ID: secretaria l.corp@in.bosch .com, Tel: +91 80 67523878 
+GIN: L85110KA1951 PLC0007 61 
+Notes to unaudited consolidated financial results for the quarter and six months ended September 30, 2026 
+Note 3 -Consolidated Segment wise Revenue, Results, Assets and Liabilities 
+[Rs. in Millions (Mio INR)] 
+Particulars 
+Segment revenue 
+-Automotive products 
+-Consumer goods 
+-Others 
+Total segment revenue 
+Less: Inter segment revenue 
+Net income from operations 
+Segment results 
+-Automotive products 
+-Consumer goods 
+-Others 
+Total segment results 
+Less: Finance costs 
+Less: Unallocable corporate expendit ure 
+Add: Exceptional items (refer note 5.a., 5.b.) 
+Add: Unallocable income 
+Total Profit before tax 
+Segment assets 
+-Automotive products 
+-Consumer goods 
+-Others 
+-Unallocable assets 
+Total assets 
+Segment Liabilities 
+-Automotive products 
+-Consumer goods 
+-Others 
+-Unallocable liabilities 
+Total liabilities 
+'Restated (Refer note 5.c) Current 
+three months 
+ended 
+September 30, 
+2026 
+(Unaudited) 
+70,007 
+5,113 
+1,517 
+76,637 
+86 
+76,551 
+9,685 
+754 
+254 
+10,693 
+77 
+1,642 
+1,304 
+942 
+11,220 
+95,555 
+5,541 
+7,718 
+108,814 
+65,586 
+174,400 
+84,538 
+4,835 
+1,405 
+90,778 
+6,951 
+97,729 Preceding Corresponding 
+three months three months 
+ended ended 
+June 30, 2026 September 30, 
+2025 
+(Unaudited)* (Unaudited)' 
+65,592 54,450 
+5,209 4,368 
+883 974 
+71,684 59,792 
+17 98 
+71,667 59,694 
+8,821 8,438 
+568 127 
+260 219 
+9,649 8,784 
+61 42 
+1,061 1,460 
+2,329 2,096 
+10,856 9,378 
+86,728 74,192 
+5,910 5,926 
+7,088 6,493 
+99,726 86,611 
+83,288 140,207 
+183,014 226,818 
+81,277 66,294 
+4,551 4,081 
+1,069 688 
+86,897 71,063 
+18,776 94,013 
+105,673 165,076 Year to date Year to date 
+figures for the figures for the Year ended current period previous period 
+ended ended 
+September 30, September 30, March 31, 
+2026 2025 2026 
+(Unaudited) (Unaudited)* (Audited)* 
+135,599 107,895 226,785 
+10,322 8,676 18,360 
+2,400 2,120 4,285 
+148,321 118,691 249,430 
+103 129 372 
+148,218 118,562 249,058 
+18,505 15,284 32,626 
+1,322 494 1,216 
+514 504 1,139 
+20,341 16,282 34,981 
+138 94 289 
+2,703 2,726 5,322 
+1,304 5,560 5,608 
+3,272 5,331 9,060 
+22,076 24,353 44,038 
+95,555 74,192 79,165 
+5,541 5,926 6,488 
+7,718 6,493 6,355 
+108,814 86,611 92,008 
+65,586 140,207 149,294 
+174,400 226,818 241,302 
+84,538 66,294 73,909 
+4,835 4,081 4,231 
+1,405 688 868 
+90,778 71,063 79,008 
+6,951 94,013 93,693 
+97,729 165,076 172,701 

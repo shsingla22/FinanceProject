@@ -1,0 +1,127 @@
+ 
+ 
+Date: August 07, 2025 
+ 
+To, 
+BSE Limited 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, 
+Mumbai - 400 001 
+Scrip Code: 532790  National Stock Exchange of India Ltd. 
+“Exchange Plaza”  
+Bandra-Kurla Complex, Bandra (East),  
+Mumbai - 400 051 
+Symbol: TANLA  
+ 
+Dear Sir / Madam, 
+ 
+Subject:  Press Release - “Tanla Partners with Indosat to Protect Nearly a Hundred Million users from 
+Spam and Scam Using its AI Native Platform Built on NVIDIA GPUs ”  
+ 
+Pursuant to the announcement made on July 23, 2025 under Regulation 30 of the SEBI (Listing Obligations 
+and Disclosure Requirements) Regulations, 2015, please find enclosed the Press Release titled - “Tanla 
+Partners with Indosat to Protect Nearly a Hundred Million users from Spam and Sc am Using its AI 
+Native Platform Built on NVIDIA GPUs ”. This strategic partnership is a key milestone in Tanla’s global 
+expansion, extending its market-proven AI capabilities from India to Southeast Asia. 
+ 
+The above information is also available on the website of the Company: www.tanla.com . 
+ 
+Request you to take the same on record. 
+ 
+Thanking you 
+ 
+Yours faithfully, 
+For Tanla Platforms Limited  
+ 
+ 
+ 
+Seshanuradha Chava 
+General Counsel and Company Secretary 
+ACS-15519  
+ 
+ 
+Encl: As above 
+ 
+1 
+ 
+Tanla Partners with Indosat to Protect Nearly a Hundred Million  Users  from Spam 
+and Scam Using its AI Native Platform  Built on NVIDIA GPUs  
+HYDERABAD, INDIA – August 7, 2025: Tanla Platforms Limited (NSE: TANLA; BSE: 532790), India’s leading 
+communications  solutions  provider, today announced the deployment  of its anti-spam and anti-scam  solution built 
+on its AI-native platform, Wisely.ai, in partnership with Indonesia’s telecom provider, Indosat Ooredoo Hutchison 
+(Indosat or IOH). This multi -year agreement  will protect Indosat users in Indonesia from spam and scam 
+communications.   
+Tanla is proud to partner with Indosat to protect users from r ising digital fraud threats, advancing its mission to 
+empower Indonesia and make AI inclusive  for all . The strategic partnership is a key milestone in Tanla’s global 
+expansion, extending its market -proven AI capabilities from India to Southeast Asia  and is s tructured as a 
+subscription  based  SaaS model  that delivers measurable business outcomes.  
+Wisely.ai is a scalable AI -native platform built across three layers  – Data, Infrastructure and Network, Core AI Engines, 
+and Applications  layers . The Data, Infrastructure, and Network layer processes massive volumes of  real -time Big Data 
+on the critical path with millisecond latency, fully compliant with local data sovereignt y and regulatory requirements . 
+The Core AI Engines layer leverages both classic Machine Learning and Gen  AI models, built on  the latest Nvidia GPU 
+infrastructure. The Applications layer builds on the foundation of the two layers to deliver various applications for 
+Mobile users, Telcos, and Enterprises.  
+The anti -spam and anti -scam solution is one such application , that is deployed on Wisley.ai in a telco ecosystem,  
+enabling real -time threat detection across SMS, Voice, and VoIP channe ls, for both A2P (Application -to-Person) and 
+P2P (Person -to-Person) communications. It integrates deeply with SIM cards and all types of handsets  across Android 
+and iOS , enabling proactive detection and alerting of fraudulent activity  at a network and app level through a n SDK, 
+enabling the widest coverage of telecom subscriber s. 
+Uday  Reddy, Founder Chairman & CEO of Tanla said, “The deployment of Wisely. ai with Indosat is a proud 
+milestone for Tanla and a major telco -grade rollout in the Southeast Asian market. This partnership reflec ts a shared 
+commitment to securing digital interactions through real -time spam and fraud detection across SMS, Voice, and 
+VoIP. It is a strong validation of our global relevance and AI leadership. Indonesia provides a r emarkable and 
+expansive stage to demonstrate this impact .” 
+Vikram Sinha,  President  Director and CEO of Indos at Ooredoo Hutchison added : “At Indosat, we believe digital 
+protection is a fundamental right for every Indonesian. Our partners hip with Tanla to deploy the AI -powered 
+anti-spam and anti -scam solution shows how technology can safeguard daily dig ital lives. Built on Indosat’s sovereign 
+AI factory with state -of-the-art NVIDIA Blackwell GPUs, this solution strengthens Indonesia’s capabili ty to fight spam 
+and scam in real time, reinforcing the nation’s digital resilienc e and public trust .” 
+Key Highlights: 
+• AI at Core: Wisely. ai is built with four key pillars: AI Native, Agentic AI, Self -Learning, and Autonomous, making it a 
+one of a kind AI platform globally.  
+• Patented Technol ogy: The platform's core technologies have multiple filed and approved patent s, including 
+patents awarded by the U.S. Patent & Trademark Office (USPTO).  
+• Cloud-Agn ostic & Scalable: Built on a robust, flexible, and cloud -agnostic infrastructure.  
+• Telco-Grade & Global Ready: Designed for regulatory compliance and global -scale resilience.  
+This collaboration reaffirms Tanla’s position as a trusted techno logy partner to the global telecom ecosystem and 
+strengthens its long -term revenue profile through high -impact, recurring SaaS solutions.  
+ 
+2 
+ 
+Abou t Tanla 
+Founded in 1999, Tanla Platforms Limited has revolutionized digital interactions by empowering users and enabling 
+enterprises through its innovation -led SaaS business. With a unique enterprise and user -centric approach, Tanla has 
+emerged as a leader in the  CPaaS industry dominating data security, privacy, sp am, and scam protection. 
+Headquartered in Hyderabad (India), Tanla is the preferred partner for over 2,500 enterprises across various 
+industries, including global tech giants like Google, Meta, and Truec aller. Tanla is recognized as a 'Visionary' in the 
+2025 Gartner® Magic Quadrant ™ for CPaaS and is ranked among the “1000 High -Growth Companies in Asia Pacific” 
+by the Financial Times. Tanla is publicly traded on the NSE and BSE (NSE: TANLA; BSE: 532790) and is included in 
+prestigious indices such as the Nifty 500, BSE 500, Nifty Digital I ndex, FTSE Russell, and MSCI.  
+Abou t Indosat Ooredoo Hutchison 
+Indosat Ooredoo Hutchison (Indosat, IDX: ISAT) has the vision to become t he most preferred digital 
+telecommunications company in Indonesia. Together with its subsidiaries and affiliates, Indosat provides cell ular 
+services, ICT solutions, data centers, Fibe r to the Home (FTTH), electronic payment services, financ ial services, and 
+other digital services. Indosat has a larger purpose of empowering Indonesia, and with the spir it of Gotong Royong, 
+Indosat wants to be the main collaborator in realizing it and cre ating meaningful change.  
+Safe Harbor 
+This information contains “forward -looking” statements, and these statements involve substantial risk s and uncertainties. All 
+statements other than statements of historical fact coul d be deemed forward -looking, including, but not limited to, expectations 
+of future operating results or financial performance, market si ze and growth opportunities, the calculation of certain  of our key 
+financial and operating metrics, plans for future operation s, competitive position, technological capabilities , and strategic  
+relationships, as well as assumptions relating to the foregoing.  
+Forward -looking statements are inherently subject to risks and uncertaintie s, some of which cannot be predicted or quantified. In 
+some cases, you can identify forward -looking statements by terminology such as “expect,” “anticipate,” “ should,” “believe,” 
+“hope,” “target,” “project,” “plan,” “goals,” “estimate,” “pot ential,” “predict,” “may,” “will,” “might,” “could,” “ intend,” “s hall,” and 
+variations of these terms or the negative of these te rms and similar expressions. You should not put undu e reliance on a ny 
+forward -looking statements. Forward -looking statements should not be read as a guarantee of future pe rformance or results and 
+will not necessarily be accurate indications of the times at, or by, which such performance or results wi ll be achieved, if a t all. 
+Forward -looking statements are subject to several risks and uncertainties, m any of which involve factors or circumstances that 
+are beyond our control. Our actual results could differ mat erially from those stated or implied in forward -looking statements due  
+to several factors. If the risks or uncertainties ever m aterialize or the assumptions prove incorrect, our resu lts may differ  materially 
+from those expressed or implied by such forward -looking statements. We assume no obligation and do not intend to upda te 
+these forward -looking statements or to conform these statements to actual res ults or to changes in our expectations, except as 
+required by law.  
+This information involves many assumptions and limitations, and yo u are cautioned not to give undue weight to these estimates . 
+We have not independently verified the accuracy or c ompleteness of the data contained in these industry  publications and othe r 
+publicly available information. Accordingly, we make no represe ntations as to the accuracy or completeness of that data nor  do 
+we undertake to update such data after the date of t his document.  

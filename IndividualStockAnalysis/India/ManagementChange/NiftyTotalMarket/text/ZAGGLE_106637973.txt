@@ -1,0 +1,98 @@
+--- CIMG_543985_2352026171447_CIM_WebXMLFile_20260523_171452677_1.xml (the exchange's structured disclosure) ---
+NSESymbol: ZAGGLE ; Name Of The Company: Zaggle Prepaid Ocean Services Limited ; Scrip Code: 543985 ; MSEISymbol: NOTLISTED ; ISIN: INE07K301024 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-05-22 ; Time Of Occurrence Of Event Or Information: 20:10:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-05-23 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Technology Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Srikanth Gaddam ; Effective Date Of Reason Of Change: 2026-05-27 ; Salutation: Mr. ; Name Of The Person: Srikanth Gaddam ; Designation Of Person: Chief Technology Officer ; Date On Which The Resignation Letter Was Received: 2026-05-22 ; Effective Date Of Resignation: 2026-05-27 ; Reason Of Resignation In Brief: Resignation due to Personal Reasons
+
+--- CIMG_543985_23052026171447_2.pdf ---
+ZAGGLE/26-27/32
+May 23, 2026
+To
+Listing Department
+NATIONAL STOCK EXCHANGE OF INDIA LIMITED
+Exchange Plaza, Plot No C/1, G Block
+Bandra Kurla Complex, Bandra (East)
+Mumbai -400 051, Maharashtra
+
+To
+The Corporate Relations Department
+BSE LIMITED
+Phiroz Jeejeebhoy Towers
+25th Floor, Dalal Street
+Mumbai -400 001, Maharashtra
+
+Company Symbol: ZAGGLE
+
+Company Scrip Code: 543985
+
+Dear Sir / Madam,
+Sub: Resignation of Chief Technology Oﬃcer (Senior Management) of Zaggle Prepaid Ocean Services
+Limited (Company)
+Pursuant to Regulation 30 of Securities and Exchange Board of India (Listing Obligations and Disclosure
+Requirements) Regulations, 2015, this is to inform you that, Mr. Srikanth Gaddam, Chief Technology
+Oﬃcer of the Company (Senior Management) has tendered his resignation on May 22, 2026, due to
+personal reasons. His last working day with the Company shall be May 27, 2026, upon closure of
+business hours.
+In this regard, we hereby enclose the necessary details in Annexure-A as required under the Securities
+and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015, read
+with SEBI Master Circular Ho/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 along
+with a copy of his resignation letter.
+Please take the information on records.
+Thanking you
+Yours faithfully,
+For Zaggle Prepaid Ocean Services Limited
+
+Hari
+Priya
+
+Digitally signed
+by Hari Priya
+Date: 2026.05.23
+14:09:48 +05'30'
+
+Hari Priya
+Company Secretary and Compliance Oﬃcer
+Encl.: As above
+
+
+Annexure-A
+Particulars
+Name
+Reason for change viz. appointment, resignation, removal,
+death or otherwise
+Date of appointment/ cessation & term of appointment
+Brief proﬁle (in case of appointment)
+
+Hari
+Priya
+
+Digitally signed
+by Hari Priya
+Date: 2026.05.23
+14:10:18 +05'30'
+
+Details
+Mr. Srikanth Gaddam
+Resignation
+Resignation w.e.f May 27, 2026,
+upon closure of business hours
+Not Applicable
+
+
+Date: 22 May 2026
+
+Dear Avinash,
+Subject: Resignation Letter
+
+Further to our conversations, please accept my formal resignation from the position of
+Chief Technology Officer at Zaggle Prepaid Ocean Services Limited due to personal
+reasons.
+As agreed, my last working date at Zaggle would be 27 May 2026. I sincerely thank the
+company for the opportunity. Request you to initiate exit formalities.
+
+Thank you.
+Yours sincerely,
+Mr. Srikanth Gaddam
+
+Employee ID: ZPOS 5991
+
+Signature:
+
+

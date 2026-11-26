@@ -1,0 +1,297 @@
+ 
+  
+ 
+ 
+ 
+  Date: 30th December, 2025 
+ 
+To, 
+Manager - Listing Compliance 
+National Stock Exchange of India 
+Limited ‘Exchange Plaza’. C-1, Block 
+G, 
+Bandra Kurla Complex, Bandra (E),  
+Mumbai - 400 051 
+SYMBOL: JSLL To, 
+Head of the Department, 
+Department of Listing Operation, 
+BSE Limited  
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Mumbai 400001 
+SCRIP Code: 544476 
+ 
+Subject: Intimation under Regulation 30 of SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015 – Publication of Case studies and Case Report. 
+ 
+Dear Sir/Madam, 
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, we wish to inform you that following academic publications, namely case studies and a case 
+report, have been published in the International Journal of Ayurveda and Herbal Research and the 
+Journal of Applied Science and Education . These publications have been authored by medical 
+professionals associated with Jeena Sikho Lifecare Limited , including our Managing Director, senior 
+consultants, and Ayurvedic experts. 
+ 
+These publications reflect the Company’s continued commitment towards advancement of Ayurvedic 
+research and promotion of evidence-based clinical practices. The details of the publications are as under: 
+   
+S. No. Type Name 
+1.         Case 
+Study A CASE STUDY ON HEALING KIDNEYS: AN APPROACH TO MANAGE 
+CHRONIC KIDNEY DISEASE 
+ 
+2.       
+ 
+ 
+   Case 
+Study IMPACT OF AYURVEDIC THERAPIES ON CHRONIC KIDNEY DISEASE: 
+A CASE STUDY OF IMPROVED RENAL FUNCTION AND SYMPTOMS 
+3.         Case 
+Report EFFECT OF CLASSICAL AYURVEDIC TREATMENT IN CHRONIC 
+KIDNEY DISEASE: A CASE REPORT 
+ 
+The above-mentioned case studies and Case Report have been co-authored by Acharya Manish 
+Grover Ji (Managing Director ) along with the following medical professionals associated with the 
+Company: 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Dr. Gitika Chaudhary, Dr. Richa, Dr Shivani Dhiman, Dr. Tanu Rani, Dr. Priyanka Biswas, Dr. 
+Suyash Pratap Singh, Dr. Shubham Badhan  
+ 
+ 
+Copies of the articles are enclosed as Annexures A to C for your records. 
+ 
+This is for your kind information and record. 
+ 
+Thanking you, 
+Yours faithfully, 
+ 
+For Jeena Sikho Lifecare Limited 
+ 
+ 
+ 
+Manish Grover 
+Managing Director 
+DIN: 07557886 
+ 
+Place: Zirakpur, Punjab 
+Date: 30.12.2025  
+ 
+ 
+ 
+       International Journal of Ayurveda and Herbal Research , 2025,  
+      Vol. 0 3, Iss. 0 3, S. No. 123, pp. 1 -15 
+       ISSN (Online): 258 4-0002    
+ 
+  
+ 
+ISSN (Online) : 2584 -0002 1 International Journal of Ayureda and Herbal Reasearch  
+(IJAHR ) 
+A2Z Journals   
+ 
+ 
+ 
+A CASE STUDY ON HEALING KIDNEYS: AN 
+APPROACH TO MANAGE CHRONIC KIDNEY 
+DISEASE  
+Acharya Manish1, *Dr. Gitika Chaudhary2, Dr. Richa3, Dr Shivani Dhiman4, Dr. Tanu Rani5  
+1Director, Meditation Guru, Jeena Sikho Lifecare  Limited, India   
+*2Senior Consultant, General Surgeon, BAMS, PGDIP, PGDGS, MS (Ayurveda), Jeena Sikho Lifecare Limited, India    
+3Senior Research officer, BAMS, PGDIP, CICR, CAIM, CMW, Jeena Sikho Lifecare Limited, India  
+4Consultant, BAMS, PGDIP, Jeena Sikho Lifecare Limited Hospital, Prashant Vihar, Delhi, India  
+5Research Associate, BAMS, Jeena Sikho Lifecare Limited, India  
+shuddhi.research@jeenasikho.co.in  
+ 
+ Abstract  
+Chronic Kidney Disease (CKD), known in Ayurveda as Vrikka Roga, is a progressive decline in kidney function often associated 
+with Type 2 Diabetes Mellitus (T2DM), hypertension, and Coronary Artery Disease (CAD). These conditions contribute to toxin 
+accumulation, electrolyte imbalances, and cardiovascular complications, necessitating an integrative treatment approach. 
+This study evaluates the impact of Ayurvedic therapies in conjunction with conventional treatments on a 56 -year -old male 
+patient with CKD stag e V at Jeena Sikho Lifecare Limited Hospital, Prashant Vihar, Delhi, India. Post -treatment outcomes 
+demonstrated significant improvement, including a reduction in blood pressure, serum urea (230.86 mg/dL to 117.39 mg/dL), 
+serum creatinine (6.32 mg/dL to 5.17 mg/dL), uric acid (7.80 mg/dL to 6.36 mg/dL), and fasting blood sugar (130 mg/dL to 90 
+mg/dL). The patient experienced symptomatic relief, indicating enhanced kidney function and overall well -being. This case 
+highlights the potential of Ayurveda as a co mplementary approach to CKD management; however, further randomized con-
+trolled trials are required to establish standardized treatment guidelines for integrating Ayurvedic therapies with conventio n-
+al care.  
+ 
+Keywords  
+Ayurveda, Chronic Kidney Disease (CKD), Hridroga, Hypertension, Madhumeh, Type II Diabetes Mellitus, Vataj pandu, Vrikka 
+Roga .  
+*Corresponding Author  How to Cite this Article  To browse  
+Annexure-A
+Author , Author  
+ 
+ 
+ISSN (Online) : 2584 -0002 2 International Journal of Ayur veda and Herbal Reasearch  
+(IJAHR ) 
+A2Z Journals   
+ 
+ 
+ 
+1. Introduction  
+Vrikka Roga , an Ayurvedic  term for kidney diseases, encompasses conditions such as Chronic Kidney Disease (CKD), a pro-
+gressive decline in kidney function [1]. The kidneys ( Vrikka ) are responsible for filtering waste and excess fluids from the 
+blood. When impaired, this leads to severe complications [2]. CKD has multiple causes, including diabetes mellitus, which pro-
+gressively damages the kidneys, hypertension, which affects renal blood vessels, recurrent urinary tract infections, kidney 
+obstructions such as stones, and autoimmune disorders like lupus [3]. Symptoms vary in severity and may include fluid reten-
+tion, fatigue, nausea, loss of appetite, changes in urination patterns, hematuria, and hypertension [4]. 
+    Vrikka  Roga , Type 2 Diabetes Mellitus (T2DM), hypertension, and Coronary Artery Disease (CAD) are interrelated condi-
+tions with significant global health impacts. Vrikka Roga  leads to toxin accumulation, electrolyte imbalances, and systemic 
+complications. End -Stage Renal Disease (ESRD) occurs when kidney function declines below 15%, necessitating dialysis or 
+transplantation [5,6,7]. Studies indicate that patients with both T2DM and CKD face a 77.2% higher cardiovascular risk than 
+those with a single condition. Hypertension affects 89% of CKD patients with CAD, further exacerbating complications [8]. 
+Management strategies, including antihypertensives and glucose -lowering therapies, have shown efficacy in slowing disease 
+progression [9,10]. The optimal approach to managing CAD in CKD patients remains debated, with conflicting evidence on ag-
+gressive revascularization versus conservative treatment [11]. 
+    The management of kidney diseases in modern medicine includes pharmacological and procedural interventions. Medi-
+cations such as ACE inhibitors, ARBs, SGLT2 inhibitors, and statins play a crucial role in CKD management and cardiovascular 
+risk reduction. ESRD patients require renal replacement therapy, with kidney transplantation being the definitive treatment 
+[11]. Given the complexity of CKD and its comorbidities, a multidisciplinary approach is necessary for optimal patient out-
+comes.  
+    Ayurveda  associates Vrikka Roga  with an imbalance of the Vata  and Kapha  doshas , leading to impaired kidney function. 
+Treatment focuses on restoring doshic  balance through, Ayurvedic  management for kidney health encompasses a combina-
+tion of Ayurvedic  medicines, dietary modifications, detoxification therapies, and lifestyle changes. Ayurvedic  formulations 
+such as Punarnava, Gokshur , and Varuna  are well -known for their nephroprotective properties and are commonly used to 
+support kidney health [4,12]. The Samprapti Ghatak  is mentioned in Table 1 [13]. 
+ Dr. Gitika Chaudhary ,  Senior Consultant, General 
+Surgeon, BAMS, PGDIP, PGDGS, MS (Ayurveda), Jeena 
+Sikho Lifecare Limited, India . Dr. Gitika Chaudhary  A CASE STUDY ON HEALING KIDNEYS: AN 
+APPROACH TO MANAGE CHRONIC KIDNEY DISEASE A Successful Case 
+Study.  Int. J. Ayurveda Herbal Res . 202 5;1(1):23 -29.  
+DOI: https://doi.org/10.54060/ijahr.2023.123  
+ 
+Received  
+2023-06-01 Accepted  
+2025-08-01 Online First  
+2025-10-25 Published  
+2025-10-25 
+Funding  
+Nil Ethical Approval  
+ Nil  
+ 
+ Copyright © 202 5 The Author(s). This work is licensed under the Creative Commons Attribution Interna-
+tional License (CC BY 4.0).  http://creativecommons.org/licenses/by/4.0/   
+Open Access
+Author , Author  
+ 
+ 
+ISSN (Online) : 2584 -0002 3 International Journal of Ayur veda and Herbal Reasearch  
+(IJAHR ) 
+A2Z Journals   
+ 
+Table 1.  The Samprapti Ghatak  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alongside Ayurvedic  support, dietary adjustments play a crucial role, with a low -salt and low -protein diet being recommend-
+ed to reduce the metabolic burden on the kidneys. Panchakarma  therapies, particularly Basti  (medicated enema) and 
+Virechana  (purgation), are advocated for their role in systemic detoxification and enhancing renal function [14,15,16]. Lifestyle 
+modifications, including regular exercise, stress management, and adequate hydration, further contribute to maintaining 
+kidney health. Additionally, considering the close link between renal and cardiovascular health, Ayurvedic  interventions such 
+as Virechana  and Basti  assist in detoxification, while herbs like Arjun , Guggulu , and Punarnava  are known to support heart 
+function, lower cholesterol levels, and help prevent arterial blockages [17]. An Ayurvedic approach may enhance patient out-
+comes by addressing both symptomatic relief and root causes. While Ayurvedic  therapies show promise in managing kidney 
+diseases, further clinical research is needed to validate their efficacy as complementary therapeutic options.  
+2. Objective   
+This study aims to assess the impact of Ayurvedic interventions for Vrikka Roga with a history of hypertension, T2DM and 
+CAD in a 56 -year -old male patient.  
+3. Materials a nd Methods  
+3.1. Case Report    
+
+Author , Author  
+ 
+ 
+ISSN (Online) : 2584 -0002 4 International Journal of Ayur veda and Herbal Reasearch  
+(IJAHR ) 
+A2Z Journals   
+ 
+A 56 -year -old male who had a history of Chronic Kidney Disease (CKD) stage V for 1 year, hypertension for 9 years, Type 2 
+diabetes mellitus for 9 years and Coronary artery disease (CAD) for 1 year visited Jeena Sikho Lifecare Limited Hospital in 
+Prashant Vihar, North Delhi, India on January 11, 2025. A comprehensive medical history, family history, physical examination  
+and diagnostic evaluations were all part of the methodical and thorough examination. He experienced intermittent pedal 
+oedema and general weakness. The initial assessment along with Ashta -Vidh Pariksha  during the visits are detailed in Table 2 . 
+The laboratory investigation reports during the treatment is mentioned in Table 3.  
+Table 2.  The initial assessment along with Ashta -Vidh Pariksha during the visits  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 3.  The laboratory investigations during the treatment period (Fig 1)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Treatment Plan   
+A personalized Ayurvedic  and Disciplined Intelligent Person’s (DIP) Diet was provided to the patient to complement the 
+Ayurvedic treatments administered for CKD [18,19]. Dietary Guidelines from Jeena Sikho Lifecare Limited Hospital:  
+ 
+ 
+Parameter
+Date 11-01-2025 22-02-2025
+Blood Pressure 180/100 mm of Hg 150/70 mm of Hg
+Sugar F-130 mg/dl F-90 mg/dl
+Weight 60.6 Kg 61.3 Kg
+Naadi (Pulse) Pittaj Vataj Pittaj Vataj
+Mala (Stool) Avikrit (Normal) Avikrit (Normal)
+Mutra (Urine) Avikrit (Normal) Avikrit (Normal)
+Jiwha (Tongue) Saam (Coated) Saam (Mild coated)
+Shabda (Voice) Spashta (Clear) Spashta (Clear)
+Sparsha (Touch) Anushna sheet (Normal) Anushna sheet (Normal)
+Drik (Eye) Avikrit (Normal) Avikrit (Normal)
+Akriti (Physique) Madhyam Madhyam Findings
+Parameter
+Date 02-01-2025 04-02-2025
+Blood urea 230.86 mg/dL 117.39 mg/dL
+Serum creatinine 6.32 mg/dL 5.17 mg/dL
+Uric acid 7.80 mg/dL 6.36 mg/dL
+BUN 107.81 mg/dL 54.82 mg/dL
+Sodium 133.0 mEq/L 134 mEq/L
+Potassium 4.8 mEq/L 4.88 mEq/L
+Phosphorus 8.52 mEq/L 4.0 mEq/L
+Chloride 97.40 mEq/L 102 mEq/L
+Calcium 8.70 mEq/L 8.40 mEq/LFindings

@@ -1,0 +1,153 @@
+  
+ 
+Ref. No. - OIL/CO/SE/2024-25/52                                                                                          September 30, 2024 
+ 
+Sub: Submission of Voting Results pursuant to Regulation 44(3) of SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015 along with Scrutinizer’s Report 
+Dear Sir(s),  
+In furtherance to the proceedings of 31st Annual General Meeting (‘AGM’) of the Company held on Monday, 
+September 30, 2024 at 11:00 a.m. through Video Conferencing/Other Audio Visual Means, submitted by the 
+Company, please find enclosed herewith the following: 
+1. Voting Results pursuant to Regulation 44(3) of the Securities and Exchange Board of India (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015; and 
+2. Consolidated Scrutinizer’s Report on remove e-voting & e-voting at AGM pursuant to Section 108 of the 
+Companies Act, 2013 read with the Companies (Management and Administration) Rules, 2014.  
+ 
+Kindly note that all the resolutions as set out in the Notice of 31st Annual General Meeting stand passed with 
+requisite majority. 
+You are requested to take note of the same on your records.  
+Thanking You, 
+ 
+Yours Faithfully, 
+For Optiemus Infracom Limited  
+ 
+ 
+ 
+     
+Vikas Chandra  
+Company Secretary & Compliance Officer 
+ 
+ 
+Enclosure: As above  
+ 
+ Listing Department  Listing Department  
+BSE Limited,  National Stock Exchange of India Ltd  
+Floor 25, P J Towers,  Exchange Plaza,  C-1 Block G 
+Dalal Street,  Bandra Kurla Complex, Bandra (E)  
+Mumbai- 400 001 Mumbai – 400 051 
+ 
+Scrip Code: 530135  
+Symbol: OPTIEMUS 
+ 
+Scrip code 530135
+NSE Symbol OPTIEMUS
+MSEI Symbol  NOTLISTED
+ISIN INE350C01017
+Name of the company Optiemus Infracom Limited
+Type of meeting AGM
+Date of the meeting / last day of receipt of 
+postal ballot forms (in case of Postal Ballot)30-09-2024
+Start time of the meeting 11:01 AM
+End time of the meeting 11:40 AMGeneral information about companyHome Validate
+ Import  XML
+Name of the Scrutinizer  INE350C01017
+Firms Name  S.K. BATRA & ASSOCIATES
+Qualification CS
+Membership Number F7714
+Date of Board Meeting in which appointed 31-08-2024
+Date of Issuance of Report to the company 30-09-2024Scrutinizer DetailsHome Validate
+
+Record date 23-09-2024
+Total number of shareholders on record date 35048
+a) Promoters and Promoter group 0
+b) Public 0
+a) Promoters and Promoter group 6
+b) Public 60
+No. of resolution passed in the meeting 2
+Disclosure of notes on voting resultsVoting results
+No. of shareholders present in the meeting either in person or through proxy
+No. of shareholders attended the meeting through video conferencingHome Validate
+Add Notes
+
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 64300541 100.0000 64300541 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 64300541 64300541 100.0000 64300541 0 100.0000 0.0000
+E-Voting 72616 9.5451 26908 45708 37.0552 62.9448
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 760771 72616 9.5451 26908 45708 37.0552 62.9448
+E-Voting 3716193 17.8699 3715333 860 99.9769 0.0231
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 20795879 3716193 17.8699 3715333 860 99.9769 0.0231
+Total Total 85857191 68089350 79.3054 68042782 46568 99.9316 0.0684
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions20795879Resolution (1)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? No
+Description of resolution considered Adoption of Audited Standalone and Consolidated Financial Statements of the Company for the 
+financial year ended 31st March, 2024 and the Reports of Board of Directors and Auditors thereon
+Promoter and 
+Promoter Group64300541
+Public- 
+Institutions760771
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes
+Category Mode of voting No. of shares held                 No. of votes 
+polled               % of Votes polled 
+on outstanding 
+shares No. of votes – in 
+favourNo. of votes – 
+against% of votes in 
+favour on votes 
+polled % of Votes against 
+on votes polled 
+(1) (2) (3)=[(2)/(1)]*100 (4) (5) (6)=[(4)/(2)]*100 (7)=[(5)/(2)]*100
+E-Voting 64300541 100.0000 64300541 0 100.0000 0.0000
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 64300541 64300541 100.0000 64300541 0 100.0000 0.0000
+E-Voting 72616 9.5451 45708 26908 62.9448 37.0552
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 760771 72616 9.5451 45708 26908 62.9448 37.0552
+E-Voting 3716193 17.8699 3715332 861 99.9768 0.0232
+Poll 0 0.0000 0 0 0 0
+Postal Ballot (if applicable) 0 0.0000 0 0 0 0
+Total 20795879 3716193 17.8699 3715332 861 99.9768 0.0232
+Total Total 85857191 68089350 79.3054 68061581 27769 99.9592 0.0408
+* this fields are optional
+No. of VotesPublic- Non 
+Institutions20795879Resolution (2)
+Resolution required: (Ordinary / Special) Ordinary
+Whether promoter/promoter group are interested in the agenda/resolution? Yes
+Description of resolution consideredTo appoint a director in place of Mr. Neetesh Gupta (DIN: 00030782) who retires by rotation and 
+being eligible, offers himself for re-appointment
+Promoter and 
+Promoter Group64300541
+Public- 
+Institutions760771
+Promoter and Promoter Group
+Public Insitutions
+Public - Non InsitutionsWhether resolution is Pass or Not. Yes
+Disclosure of notes on resolution
+Details of Invalid Votes
+CategoryHome Validate
+Add Notes

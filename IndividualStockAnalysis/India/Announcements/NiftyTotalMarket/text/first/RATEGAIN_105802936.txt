@@ -1,0 +1,142 @@
+ 
+ 
+April 02, 2024 
+ 
+To, 
+National Stock Exchange of India Limited 
+(NSE: RATEGAIN)  
+BSE Limited 
+(BSE: 543417) 
+ 
+Sub: Press Release on ‘RateGain is Now Available on Oracle Cloud Marketplace ’ 
+ 
+Dear Sir / Ma’am, 
+ 
+In accordance with Regulation 30 read with Schedule III of the SEBI (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed the press release on ‘RateGain 
+is Now Available on Oracle Cloud Marketplace ’. 
+ 
+Please take the above information on record. 
+ 
+Thanking you. 
+ 
+Yours faithfully, 
+For RateGain Travel Technologies Limited 
+ 
+ 
+ 
+(Thomas P. Joshua) 
+Vice President – Legal & Company Secretary 
+Memb. No.: F9839 
+  
+
+ 
+ 
+RateGain is Now Available on Oracle Cloud Marketplace   
+  
+Dallas, 2nd April 2024: RateGain Travel Technologies Limited, a global provider of SaaS 
+solutions for travel and hospitality and a member of Oracle Partner Network (OPN), today 
+announced that its connectivity platform is available on the Oracle Cloud Marketplace  and can be 
+deployed on Oracle Cloud Infrastructure (OCI) and integrated with the Oracle OPERA Cloud via 
+the Oracle Hospitality Integration Platform (OHIP). Oracle Cloud Marketplace is a centralized 
+repository of enterprise applications offered by Oracle and Oracle partners.  
+ 
+The RateGain Connectivity platform  with OPERA Cloud will offer OCI customers these additional 
+benefits:  
+ Access to Global Demand:  Convenient access to new regional opportunities for revenue 
+growth while leveraging OCI’s global footprint.  
+ Increased Online Revenue: Opportunities to boost online revenue  through a single platform 
+that manages third-party and direct distribution on Metas and GDS.  
+ On-Demand Scalability and Faster Time-to-Value:  OPERA Cloud and RateGain Enterprise 
+Connectivity integration can be scaled on-demand and can typically be deployed and live 
+within one to two days, delivering accelerated time-to-value.  
+ Reliable and Affordable Services:  A cost-efficient, flat-fee subscription model provides 
+access to products with high uptime.   
+ 
+Oracle Cloud Marketplace is a one-stop shop for Oracle customers seeking trusted business 
+applications and services offering unique solutions, including ones that extend Oracle Fusion 
+Cloud Applications. OCI is a deep and broad platform of cloud infrastructure services that enables 
+customers to build and run a wide range of applications in a scalable, secure, highly available, and 
+high-performance environment. From application development and business analytics to data 
+management, integration, security, AI, and infrastructure services including Kubernetes and 
+VMware, OCI delivers comprehensive security, performance, and cost savings. In addition, with 
+multicloud, hybrid cloud, public cloud, and dedicated cloud options, OCI’s distributed cloud offers 
+customers the benefits of cloud with greater control over data residency, locality, and authority, 
+even across multiple clouds. As a result, customers can bring enterprise workloads to the cloud 
+quickly and efficiently while meeting the strictest regulatory compliance requirements.  
+ 
+"This integration with RateGain demonstrates our commitment to providing innovative, forward-
+looking technology solutions for hotels and hospitality companies around the world,” said 
+Fabricio Titiro, Director of Product Management Partnerships, Oracle Hospitality . “Oracle 
+OPERA Cloud is a reliable way to employ new technologies as quickly as possible.”   
+  
+“This collaboration with OHIP marks a significant milestone in broadening the reach for OPERA 
+users around the world, offering our clients a near seamless experience and a faster time to value 
+with RateGain Enterprise Connectivity,” said Peter Strebel, President of Americas, RateGain. 
+“RateGain’s participation in Oracle Cloud Marketplace further extends our commitment to the 
+Oracle community and enables customers to easily reap the benefits of RateGain’s vast demand 
+ 
+ 
+network and dependable infrastructure. We look forward to leveraging the power of OCI to help 
+us achieve our business goals.”  
+ 
+About Oracle PartnerNetwork   
+ 
+Oracle PartnerNetwork (OPN) is Oracle’s partner program designed to enable partners to 
+accelerate the transition to cloud and drive superior customer business outcomes. The OPN 
+program allows partners to engage with Oracle through track(s) aligned to how they go to 
+market: Cloud Build for partners that provide products or services built on or integrated with 
+Oracle Cloud; Cloud Sell for partners that resell Oracle Cloud technology; Cloud Service for 
+partners that implement, deploy and manage Oracle Cloud Services; Oracle Industry Healthcare 
+for partners that provide commercially available products and/or services built with Oracle 
+Cloud and Oracle Health technologies; and License & Hardware for partners that build, service or 
+sell Oracle software licenses or hardware products. Customers can expedite their business 
+objectives with OPN partners who have achieved Expertise in a product family or cloud 
+service.  To learn more visit: http://www.oracle.com/partnernetwork     
+ 
+About RateGain   
+ 
+RateGain Travel Technologies Limited is a global provider of AI-powered SaaS solutions for travel 
+and hospitality that works with 3,200+ customers and 700+ partners in 100+ countries helping 
+them accelerate revenue generation through acquisition, retention, and wallet share expansion.   
+RateGain today is one of the world’s largest processors of electronic transactions, price points, 
+and travel intent data helping revenue management, distribution and marketing teams across 
+hotels, airlines, meta-search companies, package providers, car rentals, travel management 
+companies, cruises and ferries drive better outcomes for their business. Founded in 2004 and 
+headquartered in India, today RateGain works with 26 of the Top 30 Hotel Chains, 25 of the Top 
+30 Online Travel Agents, 4 of the Top 5 Airlines, and all the top car rentals, including 16 Global 
+Fortune 500 companies in unlocking new revenue every day.  For more information, please visit 
+www.rategain.com .  
+ 
+Forward-looking Statements   
+ 
+Certain statements in this release are forward-looking statements, which involve some risks, 
+uncertainties, assumptions and other factors that could cause actual results to differ materially 
+from those in such forward-looking statements. All statements, other than statements of 
+historical fact are statements that could be deemed forward-looking statements, including but 
+not limited to the statements containing the words ‘planned,’ ‘expects,’ ‘believes’, ‘strategy,’ 
+‘opportunity,’ ‘anticipates,’ ‘hopes’, or other similar words. The risks and uncertainties relating to 
+these statements include, but are not limited to, risks and uncertainties regarding impact of 
+pending regulatory proceedings, fluctuations in earnings, our ability to manage growth, intense 
+competition in IT services, data services, and consulting services including those factors which 
+may affect our cost advantage, wage increases in India, customer acceptance of our services, 
+products and fee structures, our ability to attract and retain highly skilled professionals, our 
+ 
+ 
+ability to integrate acquired assets in a cost-effective and timely manner, time and cost overruns 
+on fixed-price, fixed-timeframe contracts, client concentration, restrictions on immigration, our 
+ability to manage our international operations, reduced demand for technology in our key focus 
+areas, disruptions in telecommunication networks, our ability to successfully complete and 
+integrate potential acquisitions, the success of our brand development efforts, liability for 
+damages.  
+ 
+Media Contact   
+Ankit Chaturvedi 
+ ankit.chaturvedi@rategain.com   
+Global Head-Marketing  
+  
+Trademark   
+Oracle, Java, MySQL and NetSuite are registered trademarks of Oracle Corporation. NetSuite was 
+the first cloud company—ushering in the new era of cloud computing.   
+  
+ 

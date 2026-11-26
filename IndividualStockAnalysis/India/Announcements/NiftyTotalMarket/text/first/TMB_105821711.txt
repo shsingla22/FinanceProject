@@ -1,0 +1,84 @@
+Secretarial Section  
+Head Office, 57 - V.E. Road,  
+Thoothukudi – 628 002.  
+☏: 0461 -2325136  
+e-mail  : secretarial@tmbank.in  
+CIN: L65110TN1921PLC001908   
+ 
+Ref.No.TMB.SE. 19/2024-25            
+                               22.04.2024   
+The Manager,  
+National Stock Exchange of India Ltd,  
+Exchange Plaza, 5th Floor, Plot No. C/1,  
+'G' Block, Bandra - Kurla Complex,  
+Bandra (East), Mumbai - 400 051.  The Manager,  
+Bombay Stock Exchange limited,  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street.  
+Mumbai – 400 001.  
+ 
+Ref: Symbol: TMB / Scrip Code: 543596  
+ 
+Dear Sir/Madam,  
+Sub: Intimat ion regarding loss of share certificate s 
+ 
+Pursuant to Regulation 39(3) of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 
+2015, this is to inform you that, our Bank has received intimation from our Registrar and Share 
+Transfer Agent (“RTA”), M/s.  Link Intime  India Private Limited (enclosed herewith) on  22.04.2024 , 
+regardi ng loss of share certificate/s from our shareholder/s , for issue of duplicate share certificate(s) 
+in lieu thereof . The details  are given below:  
+ 
+Name of the Shareholder  Folio 
+No. Certificate  
+No. No of 
+Shares  Distinctive Nos.  
+From  To 
+ARUMUGA NAINAR.P.  9538  54092  500 25998955  25999454  
+PALANIAPPAN.S.  18820  22441  1 39030  39030  
+58907  500 32489955  32490454  
+MAHENDIRAN.A.  24174  27806  2 35778  35779  
+61689  1000  36406955  36407954  
+ 
+The claim for issue of duplicate share certificate will be considered by the  Committee of Executives, 
+subject to receipt of requisite  documents from the shareholder, which needs to be in order and only 
+after compliance of all the regulatory  formalities.   
+ 
+Kindly take the same on record .  
+ 
+Yours faithfully,  
+For Tamilnad  Mercantile Bank Limited  
+ 
+Swapnil Yelgaonkar        
+Compliance Officer  
+Membership No: ACS 21877  
+
+FROM TO
+22/04/2024 54092 
+22/04/2024 22441 
+22/04/2024 58907 
+22/04/2024 27806 
+22/04/2024 61689 Tamilnad Mercantile Bank Limited
+STOP TRANSFER REGISTER AS ON 22/04/2024
+From: 22/04/2024 To: 22/04/2024
+---------------------------------------------------------------------------------------------------------------------------
+STOP TRAN 
+NO.TRANSFER 
+DATE.FOLIO  
+NO.SHAREHOLDER'S NAME CERTIFICATE NO.   
+Duplicate cum 
+TransmissionDISTINCTIVE NO. NO. OF 
+SHARESREASON
+FROM TO
+1 Lost By 
+Holder---------------------------------------------------------------------------------------------------------------------------
+ST801471 9538 ARUMUGA NAINAR.P. 54092 25998955 25999454 500 
+ST801473 18820 PALANIAPPAN.S. 22441 39030 39030 
+ST801474 18820 PALANIAPPAN.S. 58907 32489955 32490454 500 Lost By 
+Holder
+ST801475 24174 MAHENDIRAN.A. 27806 35778 35779 2 Lost By 
+Holder
+ST801476 24174 MAHENDIRAN.A. 61689 36406955 36407954 1000 Lost By 
+Holder
+---------------------------------------------------------------------------------------------------------------------------
+GRAND TOTAL 2003 
+---------------------------------------------------------------------------------------------------------------------------

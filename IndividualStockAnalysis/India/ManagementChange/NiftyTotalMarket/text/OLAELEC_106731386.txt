@@ -1,0 +1,1033 @@
+OLA ELECTRIC MOBILITY LIMITED
+CIN - L74999KA2017PLC099619
+(Formerly known as Ola Electric Mobility Private Limited)
+
+August 7, 2026
+To,
+National Stock Exchange of India Limited
+Address: Exchange Plaza, C-1, Block G, Bandra
+Kurla Complex, Bandra (E), Mumbai-400051,
+Maharashtra, India.
+NSE Scrip Symbol: OLAELEC
+
+To,
+BSE Limited
+Address: Phiroze Jeejeebhoy Towers
+Dalal Street Mumbai- 400001,
+Maharashtra, India.
+BSE Scrip Code: 544225
+
+Subject: Submission of Shareholders’ Letter for Q1 FY2026-27 of Ola Electric Mobility Limited.
+Dear Sir/ Madam,
+With reference to the captioned subject, please find enclosed herewith the Shareholders’ Letter of Ola
+Electric Mobility Limited (“the Company”) for the first quarter ended June 30, 2026.
+The above intimation will also be hosted on the website of the Company i.e., www.olaelectric.com.
+We request you to take the above on your record.
+Thanking you,
+For Ola Electric Mobility Limited
+
+ABHISHEK
+JAIN
+
+Digitally signed by ABHISHEK JAIN
+Date: 2026.08.07 16:25:21 +05'30'
+
+Abhishek Jain
+Company Secretary and Compliance Officer
+Membership No.: A62027
+Place: Bengaluru
+Encl: As above
+
+Registered Address: Wing C, Prestige RMZ Startech, Hosur Road, Municipal Ward No.67, Municipal No. 140, Industrial Layout, Koramangala,
+Bengaluru – 560095, Karnataka, India | Landline: 080-35440050 | companysecretary@olaelectric.com | www.olaelectric.com
+
+
+`
+
+1
+
+
+Q1 FY27 Key Highlights
+
+​
+
+​
+
+Q1FY27: From reset to disciplined scale
+FY26 was a year of reset for Ola Electric. We streamlined the operations, tightened execution and rebuilt
+the business on a more efficient operating base. Q1 FY27 was the first full quarter after that reset - and the
+first real test of whether these changes would translate into stronger performance.
+Ola registrations grew 97% quarter-on-quarter, significantly outpacing the broader E2W market, which
+grew 17%. Our market share increased from 5.1% in Q4 FY26 to 8.4% in Q1 FY27, while Auto revenue rose
+72% quarter-on-quarter. This was more than a sequential step up: it showed a leaner, sharper Ola
+converting hard-won operating discipline into faster growth, renewed market share momentum and a
+stronger competitive position.
+Equally important was the operating discipline behind this growth. The scale up came on a materially more
+streamlined operating base, with costs remaining broadly controlled even as volumes increased. Despite a
+difficult commodity environment, Auto gross margin sustained at 30.5%, sustaining our industry-leading
+gross margins. At the same time, the FY26 reset has materially lowered our operating cost base, giving us
+a structurally stronger foundation from which to scale. AI is now being embedded across sales, registration
+and fulfilment, removing friction from high-volume workflows and tightening execution at every step. The
+result is a robust operating model - built to scale faster, act with greater precision and convert every
+increment of growth utilising our operating leverage.
+While execution drove our outperformance, the external environment continued to strengthen the
+structural case for electric mobility. The conflict in West Asia contributed to volatility in fuel availability and
+prices, sharpening the cost-of-ownership advantage of EVs. Against this backdrop, India’s E2W penetration
+crossed 10% for the first time in June, a significant milestone in the category’s journey towards the
+mainstream.
+The policy landscape is becoming vibrant with strong central and state government support as well.
+Delhi’s pathway towards fully electric new two-wheeler registrations, Maharashtra’s EV policy and
+Haryana’s 100% motor-vehicle-tax concession for eligible EVs all point in the same direction. Odisha offers
+a compelling proof point: supported by sustained purchase incentives, govt. push and tax waivers, E2W
+penetration in the state has surged from 10% in Feb 2026 to 20%+ in June 2026. Together, these
+developments show that the transition to electric mobility is broadening and accelerating across key
+markets.
+The next phase is to compound this progress: deepen execution, continue expanding market share,
+increase productivity through technology and translate higher scale into stronger operating leverage. Our
+focus is not growth at any cost, but durable growth—built on discipline, technology and an EV market
+whose structural foundations continue to strengthen
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+2
+
+
+Financial commentary
+Q1 FY27 marked a strong scale up in our Automotive business, supported by improving demand
+momentum. Orders increased to approximately 44K units, up 96% QoQ, while deliveries grew to
+approximately 39.2K units, up 94% QoQ. As a result, Automotive revenue from operations increased to
+approximately ₹455 crore, up 72% QoQ, while gross profit improved to ₹139 crore.
+Despite a challenging commodity environment, Ola sustained a gross margin of 30.5%, reflecting the
+strength of our product economics and maintaining our position among the industry’s leading E2W
+gross-margin profiles.
+Ola vs E2W peer Gross margin:
+
+During the quarter, industry commodity costs increased by approximately 11%, driven by higher copper and
+aluminium prices, lithium supply constraints in China, and elevated plastics and polymer costs following
+crude oil supply disruptions.
+Commodity cost for E2W has significantly increased
+
+​
+Source: SIAM, Bloomberg, HSBC E2W commodity index
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+3
+
+
+We also continued to execute on our cost optimisation initiatives, with consolidated operating expenses*
+reducing 22% QoQ to ₹333 crore. We remain focused on achieving a lower steady-state operating cost
+base of approximately ₹300 crore per quarter. As monthly deliveries continue to scale towards our
+previously communicated operating breakeven range, we expect operating leverage and continued cost
+efficiencies to drive further expansion in adjusted operating EBITDA margins.
+Consolidated Operating expenses (₹ crore)*:
+
+During the quarter, we successfully completed a ₹780 crore Qualified Institutional Placement. Strong
+institutional demand resulted in an 56% oversubscription of the offering, reinforcing investor confidence in
+our strategy and long-term opportunity. The capital raised strengthens our balance sheet and provides
+additional financial flexibility to support disciplined growth.
+Further, we received a one-time benefit to our cost base from PLI-related levies, supported by a favourable
+government stance towards our Cell business. This reinforces the strategic importance of domestic cell
+manufacturing and aligns with the Government’s broader priorities around localisation, self-reliance and
+building a strong indigenous battery ecosystem.
+
+Auto Business: Growth broad-based across markets
+Sales growth and market share gains
+Orders increased from 22,522 in Q4 FY26 to 44,071 in Q1 FY27, while deliveries nearly doubled from
+20,256 to 39,192. This broad-based step-up in volumes marked a clear return of momentum across the
+Auto business and created the foundation for meaningful share gains during the quarter.
+This execution translated into growth materially ahead of the category. While the broader electric
+two-wheeler market grew 17% quarter-on-quarter, Ola registrations increased 97%, driving market share
+from 5.1% in Q4 FY26 to 8.4% in Q1 FY27. The improvement reflects not just a growing category, but Ola’s
+ability to significantly outpace the market and regain share.
+​
+​
+*Operating expenses inclusive of lease expense
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+4
+
+
+This momentum was also broad-based across regions. Sales increased across every region, with the West
+growing approximately 61% quarter-on-quarter, the North and South each growing approximately 54%, and
+the East growing approximately 34%.
+The West was led by Gujarat and Maharashtra, while growth in the North was supported by Uttar Pradesh,
+Rajasthan and the broader regional cluster. Karnataka and Andhra Pradesh–Telangana drove the
+acceleration in the South, with Tamil Nadu also improving sequentially. In the East, momentum
+strengthened across Bihar, Jharkhand, Odisha, West Bengal and the North-East.
+The improvement was not concentrated in one state or one part of the country. It was supported by
+multiple markets, customer pools and regional teams - giving us a broader and more resilient base from
+which to sustain volumes and rebuild national market share.
+Regional sales growth:
+
+Priority markets and scale-up opportunities
+The regional performance in Q1 also gives us a clear roadmap for the next phase of growth. The North and
+East have emerged as our strongest share pools. Uttar Pradesh, Uttarakhand, Punjab, West Bengal, Bihar,
+Jharkhand and Assam operated at attractive market-share levels through the quarter. These markets are
+important proof points: they demonstrate the share Ola can build when strong demand is matched by
+consistent local execution and fulfilment.
+At the same time, the strong sequential improvement across Gujarat, Maharashtra, Karnataka and Tamil
+Nadu provides a meaningful scale-up opportunity in the South and West. As execution deepens in these
+markets, they can become a larger contributor to both volumes and national share.
+Our growth agenda is therefore balanced. In the North and East, the opportunity is to consolidate and
+deepen our market share. In the South and West, the opportunity is to replicate that execution playbook
+and convert sequential improvement into sustained scale.
+This creates two complementary engines for growth: stronger penetration in markets where Ola is already
+performing well, and meaningful expansion in markets where the runway remains significant. The result is a
+sales momentum that is not dependent on any single geography and a clearer, more diversified path
+towards national scale.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+5
+
+
+Market share in key states:
+
+Roadster: Building beyond scooters
+Roadster continues to strengthen Ola’s entry into the electric motorcycle category, expanding our
+addressable market beyond scooters and creating a second growth engine within the Auto business. Bike
+deliveries increased by 67% QoQ in Q1FY27, with the ramp strengthening through the quarter.
+The scale-up was led by the North and West, which represent some of India’s largest motorcycle markets,
+with strong contributions from Uttar Pradesh, Madhya Pradesh, Rajasthan, Maharashtra and Bihar. As we
+expand product availability, fulfillment and dealer-led reach, the South and East remain meaningful
+opportunities for further growth. Roadster allows us to participate more deeply in India’s larger two-wheeler
+market while leveraging our existing technology, manufacturing and distribution capabilities.
+​
+Lifecycle monetisation
+As Ola’s installed base of more than 1 million customers matures, service can evolve from primarily a
+customer-support function into a meaningful recurring and high-margin revenue stream beyond the initial
+vehicle sale. We are building the operating foundation for post-warranty monetisation through better parts
+availability, higher technician productivity, digital service workflows and improved repair economics.
+As a growing proportion of our installed base moves outside warranty, we expect to expand recurring
+revenue from parts, repairs and other lifecycle services. Based on our current roadmap, service revenue is
+targeted to grow from ~₹130 crore in FY26 to ₹400–500 crore by FY28, with an expected gross-margin
+profile of approximately 65%. This can deepen customer monetisation, increase customer lifetime value
+and create an additional high-margin earnings stream that contributes meaningfully to EBITDA as the
+installed base grows.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+6
+
+
+Product- cost leverage through LFP integration
+Vertical integration is increasingly translating from a technology capability into a strategic product and cost
+advantage for the Auto business. With our in-house NMC cell already deployed and the 46100 LFP cell now
+BIS-certified and vehicle-ready, we are building the ability to move new chemistries from cell development
+into vehicles on a much shorter cycle, with tighter control over cost, supply and product architecture.
+This gives us a differentiated two-chemistry strategy across the portfolio: NMC for performance-led
+products and LFP for high-volume, cost-sensitive applications. Chemistry selection becomes an active
+product-design lever rather than an external procurement constraint. We can increasingly match battery
+architecture to the economics and performance requirements of each product segment.
+As this scales, the lower battery BOM of LFP can become an important cost lever for mass-market
+products, giving us greater flexibility on product economics, price points and accessibility. Owning the cell
+roadmap allows us to respond faster to shifts in commodity prices, customer requirements and product
+positioning, while reducing dependence on external suppliers’ technology and development cycles. Over
+time, this should shorten product-development timelines, improve supply resilience and enable a more
+differentiated portfolio across price and performance segments.
+In that sense, LFP integration is not just a chemistry transition. It is an example of how deeper vertical
+integration can compound across speed, cost, supply security and product flexibility, strengthening both
+our margin structure and our ability to compete across a broader part of the two-wheeler market.
+Distribution expansion:
+Building on our pan-India footprint, we are expanding distribution through Dealer Partners to take Ola
+deeper into India’s next wave of EV adoption. The next phase of EV adoption will increasingly be driven by
+Tier 2 towns, smaller cities and rural markets. Our product slate is already engineered for this expansion
+with our motorcycle range which is the mainstay of personal mobility in India’s rural hinterland.
+A stronger local footprint will help us bring our products closer to these customers and accelerate EV
+penetration across the nation. Our existing strength across several North Indian states gives us a strong
+base to build from.
+The early response has been overwhelming with 1,200+ indications of interest received from potential
+Dealer Partners over the past 24 hours. As the network scales, it will complement our company-owned
+footprint, broaden customer access and strengthen our sales and service presence across these markets.
+With a well-engineered support infrastructure we are confident of attaining a leadership position in the
+quality and delivery of post-sales consumer experience as well.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+7
+
+
+AI : Driving the next phase of growth
+AI is being embedded across Ola’s operating cycle, from lead engagement and sales conversion to
+registration, fulfillment, service and Cell R&D to build a leaner, more scalable operating model with faster
+execution, better visibility and more consistent decision-making.
+In sales, customer engagement has now transitioned fully to AI-led calling. The shift is already translating
+into stronger outcomes: AI-led calling has delivered ~47% higher appointment conversion and ~17% higher
+sales conversion on connected calls versus manual inside-sales calling, enabling Ola to scale engagement
+while improving conversion efficiency.
+Across registration and fulfilment, AI enables order-level tracking from booking through registration and
+delivery readiness, while automated case follow-ups help surface exceptions and accelerate action.
+Registration, payments processing and reconciliation workflows are also being automated to improve
+consistency and reduce bottlenecks from order to delivery.
+In service, the AI-led warranty agent automates warranty claim assessment, reducing manual review and
+improving decision speed and consistency. This has supported faster case closure and driven lower
+service TAT and warranty costs.
+In Cell R&D, AI is accelerating technical decision-making across the development cycle. It supports design
+of experiments, reduces physical iterations, predicts electrochemical performance, degradation and cycle
+life, and analyses large volumes of testing data to identify patterns and support root-cause analysis.
+Together, these deployments are making AI a common operating layer across Ola: from customer
+acquisition to cell development.
+
+Cell Business: Scaling own-cell integration
+The Cell business is now entering a more commercial phase. We have moved from developing and
+validating our cell technology to deploying it in our vehicles, broadening the chemistry roadmap and
+building demand beyond Auto. The Gigafactory will be operational at 6 GWh by September.
+This capacity will support deeper own-cell integration across the vehicle portfolio while enabling us to
+serve external demand across energy storage and specialised applications. The focus is now on putting
+this manufacturing capacity to work across multiple demand pools.
+Own-cell integration: NMC for performance, LFP for scale
+Our own-cell integration is scaling across a clear two-track roadmap. The 4680 NMC Bharat Cell is
+commercially deployed across our performance two-wheeler portfolio and has demonstrated strong field
+performance and overwhelmingly positive customer feedback since its integration into our vehicles.
+The 46100 LFP cell has now received BIS certification and is vehicle-ready. We will progressively
+integrate LFP into vehicles below 4 kWh, where its lower battery BOM will support improved affordability
+across the mass-market scooter portfolio.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+8
+
+
+Together, NMC and LFP allow us to address the portfolio across distinct product requirements: NMC for
+performance and LFP for scale.
+Shakti and Mahashakti: Building across the energy-storage spectrum
+Energy storage is emerging as the next major demand engine for our Cell business. Shakti addresses
+home and commercial energy storage, including residential power backup and applications across small
+businesses and commercial establishments. Mahashakti expands this platform into commercial, industrial
+and utility-scale storage.
+We will launch Mahashakti on 15 August. Designed and manufactured in India, the platform will address
+applications across renewable-energy integration, industrial power, grid infrastructure and data centres.
+This positions us to participate in a market where storage is becoming essential to the continued scale-up
+of renewable energy and the reliability of the power grid.
+India is expected to require more than 400 GWh of energy storage by 2032, creating a significant
+long-term opportunity for domestically manufactured storage solutions. We recently signed an MoU with
+Axis Energy for the potential deployment of up to 20 GWh of battery storage by 2032. This is one of the
+largest announced domestic deployments of indigenous battery-storage technology and gives Mahashakti
+a clear pathway into utility- and industrial-scale projects. The agreement connects our storage platform with
+Axis Energy’s renewable-generation pipeline and establishes a significant external demand anchor for the
+Cell business.
+The significance extends beyond the size of the opportunity. The Axis Energy partnership moves
+Mahashakti from product development into large-scale commercial deployment. From Shakti in distributed
+storage to Mahashakti at utility scale, we are building a storage portfolio capable of serving demand across
+the energy system. ​
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+9
+
+
+New cell demand pools beyond EVs and energy storage
+Beyond Auto and energy storage, we are leveraging new demand pools for Ola cells through MoUs across
+defence and UAV applications, near-space constellation platforms and IPP-led Mahashakti applications.
+Defence and UAV applications require high energy density, reliability, safety and domestic supply security.
+Near-space constellation platforms expand the relevance of our cells into advanced aerospace
+applications. These are strategically important sectors where domestic capability in critical battery
+technology supports the broader objective of Atmanirbhar Bharat and greater self-reliance.
+These MoUs broaden the application base for Ola cells beyond electric two-wheelers and conventional
+energy storage. They demonstrate the relevance of our in-house cell platform across advanced mobility,
+defence-adjacent applications, aerospace and energy infrastructure, creating an additional demand layer
+for the Cell business.
+
+Closing Remarks
+The next phase for Ola is about converting the capabilities built over the last year into durable business
+outcomes. Our priorities are clear: continue becoming leaner, scale volumes without rebuilding the earlier
+cost structure, deepen vertical integration and translate these advantages into margin expansion and lower
+cash burn.
+In Auto, we will focus on broadening distribution through dealer partners, scaling Roadster and building a
+stronger lifecycle relationship with our installed base. In parallel, AI will continue to improve the speed,
+consistency and scalability of execution across customer acquisition, fulfillment, service, procurement and
+Cell R&D.
+In Cell, the launch of Mahashakti and the MoUs signed across utility-scale storage, defence drones and
+near-space platforms broaden the relevance of our in-house technology beyond mobility. These initiatives
+strengthen Ola’s position as a vertically integrated technology and energy company.
+Our path forward is grounded in disciplined execution: a lower steady-state cost base, stronger operating
+leverage, broader distribution and deeper ownership of the technologies that define our products.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+10
+
+
+Key Financial Metrics (Unaudited)
+Key Operating Metrics
+
+Q1 FY26
+
+Q2 FY26
+
+Q3 FY26
+
+Q4 FY26
+
+Q1 FY27
+
+Orders (units)
+
+22,522
+
+44,071
+
+Registrations (units)
+
+22,088
+
+43,921
+
+Deliveries (units)
+
+20,256
+
+39,192
+
+Q1 FY26
+
+Q2 FY26
+
+Q3 FY26
+
+Q4 FY26
+
+Q1 FY27
+
+Revenue from Operations
+
+828
+
+690
+
+470
+
+265
+
+455
+
+Gross Margin
+
+214
+
+213
+
+161
+
+102
+
+139
+
+25.8%
+
+30.9%
+
+34.3%
+
+38.5%
+
+30.5%
+
+Consolidated (in ₹cr)
+
+Gross Margin (%)
+Operating Expenses*
+
+512
+
+472
+
+486
+
+428
+
+333
+
+Operating EBITDA
+
+-237
+
+-203
+
+-271
+
+-281
+
+-165
+
+Adj. Operating EBITDA
+
+-296
+
+-258
+
+-323
+
+-326
+
+-195
+
+Adj. Operating EBITDA Margin (%)**
+
+-35.7%
+
+-37.4%
+
+-68.7%
+
+-123.0%
+
+-42.8%
+
+PAT
+
+-428
+
+-418
+
+-487
+
+-500
+
+-336
+
+CFO
+
+-143
+
+-200
+
+-523
+
+91
+
+-215
+
+-282
+
+-350
+
+-729
+
+-131
+
+-351
+
+Q1 FY26
+
+Q2 FY26
+
+Q3 FY26
+
+Q4 FY26
+
+Q1 FY27
+
+Revenue from Operations
+
+826
+
+688
+
+467
+
+264
+
+455
+
+Gross Margin
+
+212
+
+211
+
+158
+
+101
+
+139
+
+FCF
+Automotive Segment (in ₹cr)
+
+Gross Margin (%)
+
+25.6%
+
+30.7%
+
+33.8%
+
+38.3%
+
+30.5%
+
+Operating Expenses*
+
+367
+
+313
+
+324
+
+313
+
+280
+
+Operating EBITDA
+
+-96
+
+-47
+
+-115
+
+-169
+
+-112
+
+Adj. Operating EBITDA
+
+-155
+
+-102
+
+-167
+
+-213
+
+-141
+
+Adj. Operating EBITDA Margin (%)**
+
+-18.8%
+
+-14.8%
+
+-35.8%
+
+-80.7%
+
+-31.0%
+
+PAT
+
+-261
+
+-233
+
+-289
+
+-341
+
+-233
+
+CFO
+
+-86
+
+-95
+
+-444
+
+213
+
+-120
+
+FCF
+Cell Segment (in ₹cr)
+
+-166
+
+-163
+
+-505
+
+173
+
+-123
+
+Q1 FY26
+
+Q2 FY26
+
+Q3 FY26
+
+Q4 FY26
+
+Q1 FY27
+
+Revenue from Operations
+
+3
+
+4
+
+9
+
+4
+
+5
+
+Gross Margin
+
+2
+
+2
+
+4
+
+-3
+
+1
+
+Gross Margin (%)
+
+65.2%
+
+50.0%
+
+42.3%
+
+-75.0%
+
+20.0%
+
+Operating Expenses*
+
+47
+
+54
+
+58
+
+39
+
+-21
+
+Operating EBITDA
+
+-43
+
+-50
+
+-47
+
+-36
+
+28
+
+Adj. Operating EBITDA
+
+-44
+
+-51
+
+-53
+
+-42
+
+22
+
+Adj. Operating EBITDA Margin (%)**
+
+-1,625.8%
+
+-1,193.2%
+
+-594.7%
+
+-1,135.4%
+
+431.3%
+
+PAT
+
+-69
+
+-79
+
+-89
+
+-82
+
+-28
+
+CFO
+
+-32
+
+-62
+
+-46
+
+-39
+
+-8
+
+FCF
+
+-91
+
+-143
+
+-192
+
+-221
+
+-143
+
+​
+
+11
+
+​
+*Operating expenses is inclusive of lease expenses
+**Adj. Operating EBITDA refers to Operating EBITDA (excluding other income) including the lease expenses.
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+
+Key Graphs
+All numbers in ₹ Cr unless otherwise stated
+
+Graph 1: Industry E2W volumes and EV Penetration
+
+Graph 2: Average Selling Price (ASP) per unit in ₹
+
+​
+Graph 3: Consolidated GM per unit in ₹
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+12
+
+
+Graph 4: Consolidated Gross Margin and Gross Margin excluding PLI
+
+Graph 5: Consolidated Adjusted Operating EBITDA & Adjusted Operating EBITDA Margin* for Q1 FY27:
+
+* Consolidated Adjusted Operating EBITDA represents consolidated operating EBITDA (viz. Excluding other income) adjusted for lease expenses.​
+
+Graph 6: Consolidated Adjusted Operating EBITDA to CFO to FCF walk
+
+*Consolidated Adj. Operating EBITDA Margin refers to Operating EBITDA (excluding other income) including the lease expenses
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+13
+
+
+Graph 7: Segment to Consolidated CFO walk
+
+Graph 8: Auto FCF to consolidated FCF walk
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+
+14
+
+

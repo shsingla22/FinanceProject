@@ -1,0 +1,249 @@
+ 
+ 
+ 
+Date:  February 0 3, 202 6 
+ 
+To,  
+Listing Department  
+National Stock Exchange of India Limited  
+Exchange Plaza, C -1, G Block,  Bandra Kurla Complex, Bandra 
+(East), Mumbai - 400 051.  
+Symbol: SYRMA   
+Department of Corporate Service  
+BSE Limited  
+Phiroze  Jeejeebhoy Towers,  
+Dalal Street, Mumbai - 400 001.  
+Scrip Code: 543573  
+ 
+Subject:  Earnings Call transcript  of the Investor Conference held for the un audited  Financial 
+Results (Consolidated and Standalone) of the Company for the quarter and nine months  ended 
+December  31, 2025 . 
+__________________________________________________________________________________________________________________ ________  
+ 
+Dear Sir/ Madam,  
+ 
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements)  Regulations, 
+2015 , please find attached the Transcript in respect to the Earning Conference Call on  the unaudited 
+Financial Results (Consolidated and Standalone) of the Company for the quarter and nine months ended 
+December  31, 2025, held on Friday , January 30 , 202 6, at 10:30 AM (IST) .  
+ 
+The transcript of the conference call will also be accessed at the website of the Company at  
+https://www.syrmasgs.com/investor -relations/    
+ 
+We request you to take the same on your record . 
+For Syrma SGS Technology Limited  
+ 
+ 
+ 
+ 
+Bhabagrahi  Pradhan  
+Company  Secretary & Compliance Officer  
+Membership  No: F4921  
+Place : Gurgaon   
+ 
+ 
+ENCL: as above.  
+ 
+Page 1 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+“Syrma SGS Technology Limited 
+Q3 FY '26 Earnings Conference Call” 
+January 30, 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANAGEMENT : MR. J. S. GUJRAL – MANAGING DIRECTOR – SYRMA 
+SGS TECHNOLOGY LIMITED 
+ M R. JAYESH DOSHI – DIRECTOR – SYRMA SGS 
+TECHNOLOGY LIMITED 
+ M R. SATENDRA SINGH – CHIEF EXECUTIVE OFFICER – 
+SYRMA SGS TECHNOLOGY LIMITED 
+ M R. BIJAY AGRAWAL – CHIEF FINANCIAL OFFICER – 
+SYRMA SGS TECHNOLOGY LIMITED 
+ M R. NIKHIL GUPTA – HEAD INVESTOR RELATIONS – 
+SYRMA SGS TECHNOLOGY LIMITED 
+MODERATOR : MR. NIKHIL KANDOI -- AXIS CAPITAL LIMITED  
+ 
+ 
+ 
+
+  Syrma SGS Technology Limited  
+  January 30, 2026 
+ 
+Page 2 of 17 
+ 
+Moderator: Ladies and gentlemen, good day, and welcome to Syrma SGS Q3 FY '26 Earnings Conference 
+Call hosted by Axis Capital Limited. As a reminder, all participant lines will be in the listen-
+only mode, and there will be an opportunity for you to ask questions after the presentation 
+concludes. Should you need assistance during the conference call, please signal an operator by 
+pressing star then zero on your touchtone phone. Please note that this conference is being 
+recorded. 
+I now hand the conference over to Mr. Nikhil Kandoi from Axis Capital Limited. Thank you, 
+and over to you, sir. 
+Nikhil Kandoi: Thank you, Iqra. Good morning, everyone. On behalf of Axis, I welcome you all to Q3 FY '26 
+earnings con call of Syrma SGS Technology Limited. We have with us the entire management 
+of the company. 
+At this time, I will hand over the floor to Mr. Nikhil Gupta, Head of Investor Relations of 
+Syrma to take the proceeding forward. Thank you. 
+Nikhil Gupta: Yes. Thank you, Nikhil. A very good morning to everyone. Welcome to Syrma SGS Third 
+Quarter Financial Year 2026 Earnings Call. We have with us today, Mr. J. S. Gujral, Managing 
+Director; Mr. Jayesh Doshi, Director; Mr. Satendra Singh, Chief Executive Officer; and Mr. 
+Bijay Agrawal, Chief Financial Officer, Syrma SGS to discuss the performance of the company 
+during the third quarter of the financial year 2026 followed by detailed question and answer 
+session. 
+ Kindly note during this call, certain statements that we make are forward-looking, which 
+involve several risks, uncertainties, assumptions and other factors that can cause results to 
+differ materially from those in such forward-looking statements. We request you to kindly refer 
+to the disclaimer statements as presented in the earnings release for the same. 
+ With this, I now hand over the call to Mr. J.S. Gujral, Managing Director, for his opening 
+remarks on the performance. Thank you. 
+J.S. Gujral: Thank you, Nikhil. Ladies and gentlemen, a very good morning, and welcome to Syrma SGS 
+Q3 FY '26 Earnings Call. The last 3 months have been good and exciting. And I'm happy to 
+share that the company has posted robust performance on all parameters. 
+ If we look at the sales, my Q3 sales have gone up by 45% compared to last Q3 of FY '25. 
+EBITDA has shown a very healthy growth of 101%, up from INR79 crores to INR159 crores. 
+PBT and PAT have also registered corresponding good growth of about 108%. One of the 
+important features of this quarter was a 66% growth in my exports, up from INR202 crores to 
+INR335 crores between Q3 FY '25 and Q3 FY '26. 
+ So, if I sort of scan the 9-month performance, again, we find that the performance is in line 
+with what we had guided and in fact, better on some of the parameters. We have achieved in 9 
+months revenue of about INR3,350-odd crores with operating EBITDA of INR370 crores, up 
+from INR208 crores; a PBT of INR295 crores, up from INR146 crores; a PAT of INR227 
+crores, up from INR113 crores; and export up by 45% from INR576 crores to INR837 crores. 
+  Syrma SGS Technology Limited  
+  January 30, 2026 
+ 
+Page 3 of 17 
+ 
+ Going into some of our bit granular detail, what is satisfying and gives us confidence of 
+maintaining this tempo of performance is almost a secular growth across all verticals -- all the 
+sort of 4 cylinders of firing, the auto has grown by a robust margin of growth of 30%, med-
+tech by 31%, industrial by 29%, IT/railways because the base was very low, it has shown a 
+robust performance of 70% growth. 
+ So, this gives us the confidence that going forward, we would be able to achieve the guided 
+figures and maybe exceed on the margin front. When we started off this year, we had guided a 
+margin of 8%, EBITDA margin of 8%, which was revised to 9%. 
+ And now we are confident that we should be able to deliver INR500 crores plus of EBITDA, 
+up from INR324 crores of last year, which would translate into a 55%, 57% growth against a 
+targeted growth of 30%, which we had guided. 
+ Going forward, in the coming year, we believe that we are well poised to take sort of capitalize 
+on the emerging opportunities and grow healthy growth rate across all verticals, such that we 
+would be able to deliver a 30% growth rate in the coming year also. 
+ One of factors which we should keep in mind is that this performance has been under sort of 
+the so-called cloud of tariff uncertainties from USA. We have been hoping for the last quarter 
+on 4, 5 months that it would settle. We are still very hopeful that in this quarter, this sort of 
+thing that the tariff uncertainty should be out of our way. When I say over, it also applies to 
+the entire industry. 
+ One very positive thing which has happened a couple of days back is the signing of the EU -- 
+FTA with the EU Union. And this -- in the long run, not in the short run, not maybe in '26, '27, 
+but in the long run, I think it bodes very well for the electronic industry in 2 ways.  Some of 
+the end equipment’s, which were attracting duties, have been rationalized or brought down to 
+zero or very low duties, which would enable export of end products from India, automobile as 
+a case. 
+ Now if automobiles are exported, the electronics which go into the automobiles, we are there 
+to service that. And for us, it creates a broad ecosystem and an environment, a positive 
+environment that going forward, the trade with EU would see a uprise. 
+ We are very strong in EU. We have been exporting for the last 30 years. We have a plant in 
+Germany. So, I believe that in the long run, this thing, the FTA would help us in sustaining the 
+growth of our exports, which, as I just shared, have grown by 45% over 9 months. And I expect 
+that we should be able to cross the INR1,000 crores, maybe close to INR1,100 crores in the 
+coming year. We're already sitting at INR837 crores of exports. 
+ On the domestic front, we -- the industries which we service are seeing robust growth, and I 
+expect the growth to continue in the coming year also. As far as the new verticals of projects 
+are concerned, our PCB project is on track. 
+ The construction has started, and we expect the construction to be completed by about June, 
+July. Parallelly, the equipment’s are being ordered, and we are on track to start the trial 
+  Syrma SGS Technology Limited  
+  January 30, 2026 
+ 
+Page 4 of 17 
+ 
+production by December 26, January, March '27 quarter so that we have a first 1 year of sales 
+from the capacity which we are creating this year. 
+ Further capacities will be created based on the demand, which we believe would be very good 
+and  we believe that the additional capacities which we have planned should come in sooner 
+than later. We are sort of expanding our footprint in Pune, expansion of capacity in Pune. 
+ We have acquired Elcome. The deal has been closed, and we expect that, going forward, the 
+defence vertical would contribute to the bottom line more and to the top line as a proportionate 
+figure, a little lower because it will be about 5%, 6% of overall revenue. 
+ On a whole, I think it's been a very satisfying 9 months on the financial parameters, 
+performance, delivery, everything. One soft thing which we believe is of a very great 
+significance for our company and the country is that we have got the gold rating from EcoVadis 
+which is the ESG compliance, and we are now rated among the top 5% companies globally. 
+ Last year, it was a bronze rating. So, we have qualified from bronze to gold. Some of those 
+customers are in platinum. So, I think the journey is on, and we'll endeavour to do that. 
+ With that, I hand over to Bijay to run you through with the detailed number crunching. But 
+overall, I think the team has done very well, and we are happy that we are on track and are 
+delivering what we have guided this year. Thank you. 
+Bijay Agrawal: Thank you, sir. Good morning, everyone. I'll now take you through our brief financial 
+performance for the quarter and 9 months ended December 2025. I can start with the update 
+on Elcome first. During the quarter, we consummated the deal, sometime around mid of 
+December.  
+ So, for about 15-16 days, we have been able to include ELcome P&L performance into our 
+consolidated financials for the quarter. Considering the same, our overall total consolidated 
+revenue for the quarter is INR1,274 crores as against INR891 crores corresponding quarter 
+previously last year, registering a 43% growth year-on-year basis. 
+ Our total revenue for the 9 months is approximately INR3380 crores, which is again 17% 
+growth on a year-on-year basis. The robust growth for the period is contributed by higher 
+growth in auto, industrial, healthcare and mainly export business. The consumer sector 
+business for the quarter is approximately 31%, which is in line with our previous guidance. 
+Our export revenue for the quarter is approximately INR335 crores, highest ever per quarter, 
+which has grown by 65% on a year-on-year basis. 
+ And for the 9 months, it is around INR837 crores, which is again 45% growth year-on-year 
+basis. Overall export business mix is approximately 25% for the entire 9-month period, which 
+was about 22.5% for last financial year. So, we can see overall export has improved by almost 
+250 bps in the overall revenues. Our ODM revenue for the quarter is approximately 16%. 
+ Coming to gross margin. Gross margin for the quarter is 27.4% as against 26% for Q3 of last 
+year. The margin improvement is mainly led by our export, higher export mix, higher ODM, 
+  Syrma SGS Technology Limited  
+  January 30, 2026 
+ 
+Page 5 of 17 
+ 
+higher industrial and healthcare business and also lower consumer and IT, which is a relatively 
+lower gross margin business. We  continue to focus our efforts on our operational efficiency 
+improvement further to improve margins. 
+ Our operating EBITDA for the quarter stood at healthy INR159 crores with a year-on-year 
+growth of 101% and an operating EBITDA margin of 12.6%. The current quarter consolidated 
+EBITDA also includes INR12 crore from Elcome consolidation. So, excluding Elcome and 
+apple-to-apple basis increased INR147 crores. 
+ Our 9-month operating EBITDA is approximately INR370 crores, which has grown by 78% 
+year-on-year basis, and 9-month operating EBITDA margin is approximately 11%. PBT for 
+the quarter is INR138 crores. And for the 9 months, it is INR295 crores, which has grown again 
+by 105% on a year-on-year basis. PBT margin for the 9-month period is 8.7%. 
+ Coming to PAT performance. PAT for the quarter is INR110 crores, which has again grown 
+by 108% year-on-year. PAT margin was 8.7% for the quarter. Similarly, for the 9-month 
+period, PAT is INR227 crores with INR100 growth on a Y-o-Y basis. 
+ Overall, net working capital days investment as of December end, we are running the business 
+at around 76 days of net working capital days investments. These numbers also include 
+consolidation of Elcome. So, if we remove it to make it apple-to-apple, net working capital 
+investment is 68 days, which is 5 days lower than the previous quarter. 
+ So that much of efficiency we were able to bring in during the quarter. And considering the 
+same overall operating cash flow for the entire 9-month period is now positive for the company. 
+We again continue to focus on reduction of net working capital days by another maybe 3 to 5 
+days over the next 2 to 3 quarters. 
+ Moving to our debt position. We have a total gross debt of INR529 crores as on December 
+end. And as again saying, we are carrying a healthy treasury balance of INR933 crores. With 
+this, we have a net cash position of INR404 crores as on December 8. Turning to capex spend. 
+It is all on track. We have been able to spend around INR55 crores during the quarter. And for 
+the entire 9 months, it is approximately INR115. 
+ Coming to ROCE performance, ROCE for the quarter is approximately 16% on an adjusted 
+basis when we adjusted for the goodwill and unutilized IPO money. We expect this to improve 
+further up for the year when we are able to pay the full P&L benefit -- full period related full 
+benefit of Elcome because as of now, Elcome has already included into the capital employed, 
+but returns should also include it for that going forward. 
+ Our order book visibility as of December end is approximately INR6,400 crores, which 
+includes auto sector related approximately 31%; consumer business, about 25%; industrial 
+business, 27%; and balance in healthcare, IT/railways. Just an update on the merger. We have 
+already concluded the merger. Syrma SGS merger is all done, and now we are reporting only 
+SGS is already merged in Syrma, so there is nothing pending on that side. 
+ Once again, we continue to focus on high-margin verticals, operational efficiency 

@@ -1,0 +1,115 @@
+Date: January 26, 2026  
+To, 
+BSE Limited,  
+20th Floor, P.J. Towers,  
+Dalal Street,  
+Mumbai - 400001.  
+BSE Scrip Code: 544606  National Stock Exchange of India Limited , 
+Exchange Plaza, C -1, Block G,  
+Bandra Kurla Complex, Bandra (E),  
+Mumbai – 400 051  
+NSE Scrip Symbol: PINELABS  
+Dear Sir/Ma’am,  
+Subject: Press Release - UAE's Wio Bank inks partnership with global fintech Pine Labs to modernise  
+Merchant Acquiring Infrastructure . 
+Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, 
+please find enclosed herewith press release  in respect of  partnership of  UAE's Wio  Bank with global fintech 
+Pine Labs to modernise Merchant Acquiring Infrastructure . 
+The above information will also be available on the website of the Company 
+at https://www.pinelabs.com/investor -relations . 
+You are requested to take the same on record.  
+Thank You.  
+For Pine Labs Limited  
+Neerav Mehta  
+Company Secretary and Compliance Officer  
+Membership Number: A20949  
+Encl:A/a  
+      
+ 
+ 
+ 
+UAE's Wio Bank inks partnership with global fintech Pine Labs to modernise  Merchant 
+Acquiring Infrastructure  
+ 
+Sitting (Left to Right): B Amrish Rau , CEO, Pine Labs; Jayesh Patel, CEO, Wio Bank  
+Standing (Left to Right): Prakash Sunkara , CFO, Wio  Bank ; Sumit Mittal , MD - MEA , Pine Labs; Amina Taher , CMO , Wio Bank; 
+Prateek Vahie , CCO , Wio Bank; Yatin Parab , CPO , Wio Bank  
+ 
+Dubai, UAE - January 26, 202 6 – Pine Labs, a global fintech platform transforming how businesses accept 
+and manage payments, today announced a strategic partnership with Wio Bank, the Middle East’s leading 
+digital  financial platform . The collaboration is going to build a modern acquiring infrastructure  for Wio 
+Bank with no legacy tech dependency , enabling faster merchant onboarding, real -time settlement 
+capabilities, and seamless multi -mode payment acceptance at scale.  
+As part of the partnership, Wio Bank will deploy Credit+ , Pine Labs’ modular, API -first acquiring platform, 
+to power its core acquiring operations. Built for speed, scale, and configurability, Credit+ enables 
+intelligent rule -based workflows, data -driven decisioning, and optimisation of payment acceptance 
+rates —while managing the full merchant acquisition and lifecycle journey through a developer -friendly, 
+tech -first architecture.  
+
+      
+ 
+ 
+Designed on a cloud -native, microservices -based framework, Credit+ allows Wio Bank to efficiently scale 
+acquiring volumes with high availability, enterprise -grade security, and regulatory compliance. The 
+platform supports rapid feature rollouts, real -time insights, and operational resilience —critical for digital -
+first banks operating in high -growth markets.  
+Commenting on the announcement , B Amrish Rau , CEO, Pine Labs,  said “Our partnership with Wio Bank 
+brings a modern  acquiring processing platform to one of the most innovative digital banks in the region. 
+Credit+ is built to deliver high transaction throughput, rapid feature deployment, and seamless scalability 
+through its API -driven, microservices architecture. This c ollaboration reflects how a modular acquiring 
+stack can help banks move faster, iterate smarter, and scale reliably in a digital -first payments ecosystem .” 
+Jayesh Patel, CEO of Wio Bank PJSC , said “At Wio, our focus is on building a banking platform that 
+supports how businesses operate and grow. This partnership with Pine Labs strengthens our ability to 
+deliver simpler, more efficient payment capabilities, from faster onboarding and settlements to easier 
+acceptance across channels. It allows us to continue evolving our infrastructure while building the next 
+generation of payment s and value -added services around customer needs, so they can stay focused on 
+running and growing their business.”  
+Pine Labs partners with leading banks and enterprises globally to modernise legacy financial infrastructure 
+through modular, cloud -native platforms. As the UAE accelerates toward a cashless economy, 
+collaborations between digital -first banks like Wio Bank and global fintechs with strong local presence are 
+playing a pivotal role in shaping the future of payments.  
+ 
+About Wio Bank PJSC  
+ 
+Wio Bank PJSC, the Middle East's leading digital financial platform, is disrupting banking  for individuals 
+and businesses. Headquartered in Abu Dhabi and backed by strategic  investors including ADQ, Alpha 
+Dhabi, e&, and First Abu Dhabi Bank (FAB), Wio unifies  digital banking through a simple to use, in -one-
+place, customer -centric platform, helping  achieve financial goals.  
+ 
+For personal banking, Wio offers smart tools and insights that help users take control of  their finances, 
+enabling them to save, spend, and invest with ease. For businesses, Wio  goes beyond traditional banking, 
+providing a comprehensive digital platform designed to  scale with them and simplify financial 
+management.  
+ 
+As the region's leading digital financial platform, Wio delivers innovative Banking -as-a- Service (BaaS) and 
+embedded finance solutions that empower people, businesses, and  communities to achieve their financial 
+goals.  
+ 
+For more information, visit www.wio.io   
+ 
+ 
+About Pine Labs  Limited  
+ 
+Pine Labs  Limited is a technology company digitising commerce, through digital payments and issuing 
+solutions in India and across the globe. We have built an advanced technology infrastructure to help 
+accelerate the digitisation journey of merchants, consumer brand s, enterprises, and financial institutions. 
+      
+ 
+ 
+We operate in India and a growing number of international markets including Malaysia, Philippines, UAE, 
+Singapore, Australia, USA, and Africa.  
+ 
+Our digital payments business represents a one -stop software solution across channels, including online 
+payments designed to deliver secure and smooth online payment experiences to the end user, powered 
+by a tech stack. We also provide integrated affordabi lity solutions for merchants and consumer brands 
+and enterprises, and Fintech infrastructure solutions for financial institutions.  
+ 
+Our issuing business offers a full -stack, end -to-end technology service solution in physical prepaid 
+instruments, gift cards, and sales/ distribution space, with a presence in multiple countries and with 
+brands and customers from the retail, hospitality an d travel industries. We offer prepaid instruments 
+primarily in India, Middle East, Southeast Asia, Australia and the United States and we presently offer 
+Credit+ in India, Sri Lanka, Middle East, Africa, and Southeast Asia.  
+ 
+To know more, please visit www.pinelabs.com  
+ 
+ 

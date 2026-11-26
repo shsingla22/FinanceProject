@@ -1,0 +1,298 @@
+ 
+ SEC/48/2017 -63 April  22, 2024  
+ 
+The Manager  
+Compliance  Department  
+BSE Limited  
+Phiroze  Jeejeebhoy  Tower 
+Dalal Street  
+Mumbai – 400 001 The Manager  
+Compliance  Department  
+The National  Stock  Exchange  of India  Ltd. 
+Exchange Plaza  
+Bandra  – Kurla  Complex,  Bandra  (East) 
+Mumbai – 400 051  
+Scrip  Code/Symbol:  540678/COCHINSHIP  
+ 
+Dear  Sir/ Madam , 
+Subject:  Intimation of amendment to the CSL Insider Trading Code  
+1. Pursuant to the Securities and Exchange Board of India (Prohibition of Insider 
+Trading) Regulations, 2015, as amended (“ Regulations ”), please find attached herewith the 
+amended Code of Internal Procedures and Conduct for prohibition of insider trading in 
+dealing with the securities of Cochin Shipyard Limited (CSL) (“ CSL Insider Trading Code ”), 
+approved by t he Board of Directors of the Company at their  Meeting held today i.e., April 22, 
+2024. The amended Code will be effective from May 01, 2024  and will also be hosted on the 
+website of the Company www.cochinshipyard.in .   
+ 
+2. The above  is for your information  and record  please . 
+ 
+For Cochin  Shipyard  Limite d 
+ 
+ 
+CSL Insider Trading Code  Page 1 of 19 
+ 
+ THE CODE OF INTERNAL PROCEDURES AND CONDUCT FOR PROHIBITION  OF INSIDER 
+TRADING IN DEALING WITH THE SECURITIES OF C OCHIN SHIPYARD LIMITED  (CSL)  
+ 
+CHAPTER  – I 
+PRELIMINARY  
+ 
+1. (a) This code shall be called “ The Code of Internal Procedures and Conduct  for 
+prohibition of insider trading in dealing with the securities of Cochin Shipyard Limited  
+(“CSL”)”. 
+ 
+(b) It shall be effective  from April 01, 2019 . 
+ 
+2. Definitions:  
+ 
+2.1 “Act” means the Securities and Exchange Board of India Act, 1992 (15 of 1992) , as 
+amended . 
+ 
+2.2 “Board ” means the Securities and Exchange Board of India . 
+ 
+2.3 “Regulations ” means the Securities and Exchange Board of India (Prohibition of 
+Insider Trading) Regulations, 2015 and any amendments thereto.  
+ 
+2.4 “Compliance Officer ” means  Company Secretary of CSL unless  any senior officer, 
+designated so and reporting to the board of directors, who is financiall y literate  (in 
+terms of the Regulations)  and is capable of appreciating requirements for legal and 
+regulatory compliance under the  Regulations and who shall be responsible for 
+compliance of policies, procedures, maintenance of records, monitoring adherence  to 
+the rules for the preservation of unpublished price sensitive information, monitoring of 
+trades and the implementation of the codes specified in the  Regulations under the 
+overall supervision of the board of directors of CSL.  
+Explanation – “financially literate ” shall mean a person who has the ability to read and 
+understand basic financial statements i.e. balance sheet, profit and loss account, and 
+statement of cash flows.  
+ 
+2.5 "connected person " means,  
+(i) any person who is or has during the six months prior to  the concerned act been 
+associated with CSL, directly or indirectly, in any capacity including by reason of 
+frequent communication with its officers or by being in any contractual, fiduciary or 
+employment relationship or by being a director, officer or an employee of CSL or 
+holds any position including a professional or business relationship between 
+himself and CSL whether temporary or permanent, that allows such person,  
+directly or indirectly, access to Unpublished Price Sensitive Information (UPSI) or 
+is reasonably expected to allow such access.  
+ 
+(ii) Without prejudice to the generality of the foregoing, the persons falling within  the 
+following categories shall be deemed to be connected persons unless the  contrary 
+is established . 
+(a) an immediate relative of connected persons specified in Clause (i); or  
+(b) a holding company or associate company or subsidiary company; or  
+ 
+ 
+CSL Insider Trading Code  Page 2 of 19 
+ 
+ (c) an intermediary as specified in section 12 of the Act or an employee or 
+director  thereof; or  
+(d) an investment company, trus tee company, asset management company or 
+an employee or director thereof; or  
+(e) an official of a stock exchange or of clearing house or corporation; or  
+(f) a member of board of trustees of a mutual fund or a member of the board  of 
+directors of the asset managemen t company of a mutual fund or is an  
+employee thereof; or  
+(g) a member of the board of directors or an employee, of a public financial  
+institution as defined in section 2(72) of the Companies Act, 2013; or  
+(h) an official or an employee of a self -regulatory organization recognised or  
+authorized by the Board; or  
+(i) a banker  of CSL; or  
+(j) a concern, firm, trust, Hindu undivided family, company or association of  
+persons wherein a director of CSL or his /her immediate relative or  banker of 
+CSL, has more than ten percent  of the holding or  interest . 
+ 
+2.6 “Designated Persons ” shall include  
+(i) All members of the Board of Directors, all executives of  CSL of the level of 
+General Managers and above and Unit heads ; 
+(ii) All Key Executives, not covered in ( i) above, as identified by the Chairman & 
+Managing Director of the Company from time to time ;  
+(iii) All Officers of the Offices of Chairman & Managing Director  & all the functional 
+Directors of  CSL; 
+(iv) All employees up to two levels below the Managing Director of the Company and 
+its material su bsidiaries irrespective of their functional role in the Company or 
+ability to have access to unpublished price sensitive information;  
+(v) Employees of material subsidiaries of the Company designated on the basis of 
+their functional role or access to unpublish ed price sensitive information in the 
+organization;  
+(vi) Any support staff of the Company such as IT staff or secretarial staff who have 
+access to unpublished price sensitive information ;  
+(vii) All Officers of Central Accounts and other Officers of AGM and above in Finance 
+Design, Planning & Project Management, Materials , Officers  of Public Relations, 
+Corporate  Communications, Business Development and Marketing, Ship Repair 
+Commercial , Legal  and all personnel of the Office of the Company Secretary ; and  
+(viii) Any other employee of CSL to be notified by the Compliance Officer, from time to 
+time, with the approval of the Chairman & Managing Director . 
+ 
+2.7 “Generally available information ” means information that is accessible to the  public 
+on a non -discriminatory basis;  
+ 
+2.8 “Immediate relative ” shall have the same meaning as defined in Regulation 2(1)(f) of 
+the Regulations (refer Appendix  – I).  
+ 
+ 
+ 
+CSL Insider Trading Code  Page 3 of 19 
+ 
+ 2.9 “Insider ” shall  have the same meaning as defined in Regulation 2(1)(g) of the 
+Regulations  (refer Appendix  – I). 
+ 
+2.10 “Legitimate Purpose ” shall include sharing of unpublished price sensitive information  
+in ordinary course of business by an Insider with partners, collaborators/lenders, 
+customers, suppliers, merchant bankers, legal advisors, auditors, insolvency 
+professiona ls or other advisors or consultants provided that such sharing has not been 
+carried out to evade or circumvent the prohibitions of the Regulations . 
+ 
+2.11 “Material financial relationship ” means a relationship in which one person is a 
+recipient of any kind of pa yment such as by way of a loan or gift during the 
+immediately preceding twelve months, equivalent to at least 25% of such payer’s 
+annual income but shall exclude relationships in which the payment is based on arm’s 
+length transactions.  
+ 
+2.12 “Material Subsidiary”  shall mean a subsidiary, whose income or net worth exceeds 
+ten percent of the consolidated income or net worth respectively, of the Company and 
+its subsidiaries in the immediately preceding accounting year or such other company 
+determined by th e Company as material as per its policy on determining material 
+subsidiaries .  
+ 
+2.13 “Promoter ” shall have the meaning assigned to it under the Securities and Exchange 
+Board of India (Issue of Capital and Disclosure Requirements) Regulations, 20 18 or 
+any modifi cation thereof.  
+ 
+2.14 “Securities ” shall have the meaning assigned to it under the Securities Contracts 
+(Regulation) Act, 1956 (42 of 1956) or any modification thereof except units of a 
+mutual fund . 
+ 
+2.15 “Takeover  regulations ” means  the Securities and Exchange Board of India  
+(Substantial Acquisition of Shares and Takeovers) Regulations, 2011 and any 
+amendments  thereto . 
+ 
+2.16 "Trading ” means  and includes subscribing, buying, selling, dealing, or agreeing to 
+subscribe, buy, sell, deal in securities of  CSL, and “trade ” shall be construed 
+accordingly . 
+ 
+2.17 “Trading day ” means a day on which the recognized stock exchange s are open for 
+trading . 
+ 
+2.18 “Unpublished Price Sensitive Information ” means any information, relating to CSL 
+or its securities, directly or indirectly, that is not generally available which upon 
+becoming generally available, is likely to materially affect the price of the securities 
+and shall, ordinarily including but not re stricted to, information relating to the following:  
+(i) Financial results;  
+(ii) Dividends;  
+(iii) Change in capital structure;  
+(iv) Mergers, de -mergers, acquisitions, delisting, disposals and expansion of  business 
+and such other transactions;  and  
+(v) Changes in Key Managerial Pe rsonnel .  
+ 
+ 
+CSL Insider Trading Code  Page 4 of 19 
+ 
+ CHAPTER – II 
+APPLICABILITY  
+3. This “ Code of Internal Procedures and Conduct for prohibition of insider trading in 
+dealing with the securities of Cochin Shipyard Limited  (CSL) ” shall apply to all 
+“insiders” defined at  Clause  2.9 of this Code , including  Connected Person s and 
+Designated Persons  and their immediate relatives . 
+ 
+CHAPTER – III  
+RESTRICTIONS ON COMMUNICATION AND TRADING BY INSIDERS  
+4. Communication or procurement of Unpublished Price Sensitive information  
+ 
+(i) No insider shall communicate, provide, or allow access to any Unpublished Price 
+Sensitive Information, relating to CSL or securities of CSL or securities proposed 
+to be listed by  CSL, to any person including other insiders, except  where such 
+communication is in furtherance of legitimate purposes, performance of duties or 
+discharge of legal obligations.  
+ 
+(ii) No person shall procure from or cause the communication by any insider of 
+Unpublished Price Sensitive Information, relating to CSL or securities of CSL or 
+securities proposed to be listed by  CSL, except in furtherance of legitimate 
+purposes , performance of duties or discharge of legal obligations.  It is clarified 
+that any person in receipt of UPSI pursuant to a “legitimate purpose” shall be 
+considered an “insider” for the purposes of the Regulations and this Code, and 
+the Company shall serve due notice on such person to maintain strict 
+confidentiality of such U PSI in compliance with the  Regulations  and this Code . 
+Further, such persons shall keep the UPSI s o received strictly confidential and the 
+Company may also require such parties with whom s uch UPSI is shared , to 
+contract confidentiality and non -disclosure obligations in order to ensure that such 
+parties shall keep UPSI  so received  strictly  confidentia l.  
+ 
+(iii) Notwithstanding anything contained in this Code, Unpublished Price Sensitive 
+Information may be communicated, provided, allowed access to or procured, in 
+terms of the provisions of Regulation 3(3)  and 3(4)  of the Regulations .  
+ 
+(iv) A structured digital database shall be maintained containing the names of such 
+persons or entities as the case may be with whom information is shared under 
+Regulation  3 of the Regulations  along with the Permanent Account Number or 
+any other identifier autho rized by law where Permanent Account Number is not 
+available. Such databases shall be maintained with adequate internal controls 
+and checks such as time stamping and audit trails to ensure non -tampering of the 
+database.  
+ 
+(v) No Insider shall trade in securitie s of the Company that are listed or proposed to 
+be listed while in possession of UPSI, except as provided under the Regulations. 
+When a person who has traded in such securities has been in possession of 
+UPSI, his trades would be presumed to have been motiv ated by the knowledge 
+and awareness of such information in his possession, unless the insider proves 
+his innocence by demonstrating the circumstances including the circumstances 
+enumerated under the Regulations.  
+ 
+(vi) To prevent the misuse of UPSI, the Company adopts a ‘Chinese Wall’ policy 
+thereby  separating those areas or departments of the Company which routinely 
+have access to confidential information, considered as ‘inside areas’ from other  
+areas  or departments , considered as ‘public areas’.  
+ 
+ 
+CSL Insider Trading Code  Page 5 of 19 
+ 
+ (vii) Subject to the provisions of the Regulations, the employees in the inside areas 
+shall not communicate any UPSI to any one in public area and may be physically 
+segregated  from employees in the pubic area.  
+ 
+(viii) In exceptional circumstances i.e. , in furtherance o f legitimate purposes, 
+performance  of duties or discharge of legal obligations, any Designated Person 
+may be permitted to ‘cross the wall’ and give UPSI to any person on a ‘need to 
+know’ basis.  
+ 
+5. Trading by insiders including promoters, non -individual insiders when  in possession of  
+Unpublished Price Sensitive Information shall be governed by Regulation 4 of the 
+Regulations.  
+ 
+6. Trading Plans  
+ 
+6.1 An insider shall be entitled to formulate a trading plan and present it to the 
+Compliance Officer for approval and public disclosure pursuant to which trades may 
+be carried out on his behalf in accordance with such plan.  
+ 
+6.2 Such trading plan shall: – 
+(i) not entail commencement of trading on behalf of the insider earlier than six 
+months from the public disclosure of the plan;  
+(ii) not entail trading for the period between the twentieth trading day prior to the last 
+day of any  financial period for which results are required to be announced by CSL 
+and the second trading day after the disclosure of such financial results;   
+(iii) entail  trading for a period of not less than twelve months;  
+(iv) not entail  overlap of any period for which another trading plan is already in  
+existence;  
+(v) set out either the value of trades to be effected or the number of securities to be 
+traded  along with the nature of th e trade and the intervals at, or dates on which 
+such trades  shall be effected; and  
+(vi) not entail trading in securities for market abuse.  
+ 
+6.3 The Compliance Officer shall review the trading plan to assess whether the plan 
+would have an y potential for violation of  this Code and Regulations and shall be 
+entitled to seek such express undertakings as may be necessary to enable such 
+assessment and to approve and monitor the implementation of the plan.  
+ 
+6.4 The trading plan once approved shall be irrevocable and the insider shall mandatorily 
+have  to implement  the plan, without being entitled to either deviate from it or to 
+execute any trade  in the securities outside the scope of the trading plan. Provided tha t 
+the implementation of the trading plan shall not be commenced if any Unpublished 
+Price Sensitive Information in possession of the insider at the time of formulation of 
+the plan has not become generally available at the time of the commencement of 
+impleme ntation and in such event the Compliance Officer shall confirm that the 
+commencement ought to be deferred until such Unpublished Price  Sensitive 
+Information becomes generally available i nformation so as to avoid a violation of this 
+Code or Regulations.  It is hereby clarified that in case of Employee Stock Option 
+Plans (“ESOP’s”), exercise of option shall be allowed during the period when the 
+trading window is closed, however, sale of shares allotted on exercise of ESOPs shall 
+not be allowed when trading win dow is closed.  

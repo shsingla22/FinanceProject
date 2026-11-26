@@ -1,0 +1,41 @@
+--- CIM_15745_WebXMLFile_20261017_182405448_1.xml (the exchange's structured disclosure) ---
+NSESymbol: AMBER ; Name Of The Company: AMBER ENTERPRISES INDIA LIMITED ; Scrip Code: 540902 ; MSEISymbol: NOTLISTED ; ISIN: INE371P01015 ; Whether Disclosure Filed For Listed Entity: false ; Name Of Entity For Which The Disclosure Is Filed: IL JIN ELECTRONICS (INDIA) LIMITED ; Relationship With The Listed Entity: Material Subsidiary ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-16 ; Time Of Occurrence Of Event Or Information: 19:00:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-10-17 ; Type Of Change: Appointment ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Others ; Description Of Other Designation: Chief Executive Officer and Whole Time Director ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: SATENDRA SINGH ; Effective Date Of Reason Of Change: 2026-10-16 ; Term Of Appointment In Months: 60 ; Brief Profile: Age 55 years Qualification BTech in Electronics Engineering from Kamla Nehru Institute of Technology Sultanpur MS in Manufacturing Management from BITS Pilani Advanced Management program IIM Bangalore Mr Satendra Singh is a seasoned business leader with over 35 years of experience in global supply chain and electronics manufacturing across consumer industrial and telecommunication and EMS industries He began his career in 1989 as an engineer in Tektronix and grew thru multiple engineering and quality roles at organisations including CDOT Samsung and APC by Schneider Electric He holds a BTech in Electronics Engineering from Kamla Nehru Institute of Technology Sultanpur and an MS in Manufacturing Management from BITS Pilani and has completed leadership programmes at Harvard Business and the Indian Institute of Management Bangalore Prior to joining IL JIN Mr Singh served as Chief Executive Officer of Syrma SGS Technology Limited, a listed Electronics Manufacturing Services company where he led the newly merged and listed entity and drove significant revenue growth and improvement in profitability by shifting the portfolio towards higher-margin segments such as automotive industrial and railways Earlier Mr Singh spent 15 years in global leadership roles at Nokia across manufacturing strategy and supply chain including building and scaling Indias largest telecom infrastructure manufacturing facility in Chennai into a billion euro global supply hub serving more than 35 countries He subsequently held global roles in strategy business operations and hardware service delivery with his last role based in Finland overseeing global hardware services across more than 50 countries He also spent several years at Flex International where he built and scaled its mobile manufacturing business in India across Chennai Bangalore and Pondicherry with full P and L responsibility He brings extensive experience in business transformation manufacturing excellence, supply chain management and organisational leadership ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Description Of Other Designation: Whole Time director ; Name Of Designated Person: SANJAY KUMAR ARORA ; Salutation: Mr. ; Name Of The Person: SANJAY KUMAR ARORA ; Designation Of Person: Others ; Description Of Other Designation Person: Whole Time director ; Date On Which The Resignation Letter Was Received: 2026-10-16 ; Effective Date Of Resignation: 2026-10-16 ; Reason Of Resignation In Brief: Mr Sanjay Kumar Arora has ceased to hold the office of Whole Time Director of IL JIN with effect from close of business hours on 16th October 2026 pursuant to an Inter-Group Transfer resulting in a change in his role and responsibilities within the Group in alignment with the Groups longterm objectives He will continue to be associated with the Group and provide strategic guidance and mentorship to the management team
+
+--- CIMG_540902_17102026182349_2.pdf ---
+Annexure - B1
+
+Date: 16th October 2026
+To
+The Board of Directors
+IL JIN Electronics (India) Limited
+(Formerly known as IL JIN Electronics (India) Private Limited)
+Registered Address: Gat No. 161/2 Pimple Jagtap Road, Koregaon Bhima, Haveli,
+Pune- 412216, Maharashtra, India
+Subject: Resignation from the Office of Whole Time Director - IL JIN Electronics (India) Limited
+(Formerly known as IL JIN Electronics (India) Private Limited)
+
+Dear Members of the Board,
+I, Sanjay Kumar Arora, residing at 2163, Banyan Parx Laureate, Sector 108, Noida, Uttar Pradesh201304, hereby tender my formal resignation from the office of Director of IL JIN Electronics (India)
+Limited (formerly known as IL JIN Electronics (India) Private Limited) (the "Company"), effective
+from the close of business hours on 16 th October 2026. My resignation is solely on account of an
+inter-group transfer, resulting in a change in my role and responsibilities within the Group, in
+alignment with the Group's long-term objectives, and there are no other material reasons for my
+resignation.
+I request the Board of Directors to kindly take note of my resignation and acknowledge the same.
+I further request the Company to undertake all necessary statutory and regulatory compliances,
+including filing of e-Form DIR-12 with the Registrar of Companies and completing all other requisite
+formalities with the concerned authorities, to give full legal effect to my cessation from the office
+of Director.
+I take this opportunity to place on record my sincere appreciation for the cooperation, support,
+and professionalism extended to me by the Board, during my association with the Company.
+I wish the Company continued success in all its future endeavours.
+Thanking you,
+Yours faithfully,
+
+(Sanjay Kumar Arora)
+DIN: 02924307
+
+Address: 2163, Banyan Parx Laureate, Sector 108
+. Naida, Uttar Pradesh-201304
+
+

@@ -1,0 +1,769 @@
+ 
+ 
+Cyient Ltd.        4th Floor, ‘A’ Wing, Plot no. 11                      CIN: L72200TG1991PLC013134 
+                           Software Units Layout, Madhapur               www.cyient.com 
+                           Hyderabad -500 081                                       Company.secretary@cyient.com 
+                           India                                                                   T +91 40 6764 1000  
+                                                                                                       F +91 40 2311 0352 
+ 16 October 2025 
+ 
+BSE Limited                                                                            National Stock Exchange of India Ltd                                                                                         
+PJ Towers, 25th Floor              Exchange Plaza                                                                                                                                  
+Dalal Street                Bandra-Kurla Complex, Bandra(E)                                                                                                                              
+Mumbai 400001              Mumbai-400 051  
+Scrip Code: 532175                                         Scrip Code: CYIENT 
+ 
+ 
+Dear Sir/ Madam, 
+ 
+Sub: Outcome of Board Meeting  
+ 
+This is to inform that the Board of Directors of the company at their meeting held today inter-alia has 
+approved the following: 
+ 
+1. Un-audited financial results and statement of assets and liabilities of the company as at the end 
+quarter and half year ended 30 September 2025 along with limited review report.  – Annexure A  
+2. Declared Interim Dividend of Rs. 16/- per equity share (i.e. 320%) on par value of Rs. 5/- per share 
+and fixed record date for this purpose.  
+3. Resignation of Mr. Vivek Gour(DIN:00254383) as Independent Director of the Company.  
+4. Reconstitution of Audit Committee, Risk Management Committee and  Leadership, Nomination 
+and Remuneration Committee – Annexure B  
+ 
+The meeting of Board of Directors of the company commenced at 10.30 a.m. and concluded at 4.00 
+p.m. 
+ 
+This is for your information and records. 
+ 
+ 
+Thanking you 
+For Cyient Limited 
+ 
+ 
+ 
+Sudheendhra Putty 
+Company Secretary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+fXLI ~ A 
+CYIENT LIMITED 
+[CIN No.: L72200TG1991PLC013134) 
+Regd oftlce: 4th Floor, "A" Wing. Plot No. 11. Software U111ts Layout, lnfocity, Madhapu r, Hyderabad -500 081. India 
+Statement of Unaudited Consolidated and Standalone Financial Results for the Quarter and Half Year Ended September 30, 2025 
+(fin Millions) 
+Consolidated results Standalone results 
+SI. No Particulars Quarter Ended Half Year Ended Year Ended Quarter Ended Half Year Ended Year Ended 
+30-Sep-25 30-\un-25 30-Seo-24 30-Sep-25 30-Seo-24 31-Mar-25 30-Seo-25 30-Jun-25 30-Seo-24 30-Seo-25 30-Seo-24 31-Mar-25 
+Unaudited Unaudited Unaudited Unaudited Unaudited Audited Unaudited Unaudited Unaudited Unaudited Unaudited Audited 
+1 Income 
+(a) Revenue from contracts with cuslumer!> 17,810 17,118 18,491 34,928 35,248 73,604 5,957 5,485 6,233 11.442 11,929 24,136 
+[bl Other rncome (refe1· note 3] 500 697 511 1.197 722 966 282 587 448 869 589 805 
+Total income 18,310 17,815 19,002 36,125 35,970 74,570 6,239 6,072 6,681 12,311 12,518 24,941 
+2 Expenses 
+fa) Employee benefits expense 10,057 9,633 9,022 19,690 17,968 36,899 3,217 3,206 3,523 6,423 6,898 13,781 
+(bl Cost of materials consumed 1,872 1.618 2,893 3,490 5,142 11.357 
+(c) Changes in inventor ies of finished goods, stock-111-trade and work-in-progress 6 70 256 76 (26) 11 
+[d] Finance costs 159 163 275 322 532 928 30 29 45 59 93 170 
+(e) Deprec1at1on and amort1sat1on expense 722 680 660 1,402 1.318 2,672 201 202 227 403 455 891 
+(fl Other expenses 3,687 3,490 3,353 7,177 6,547 13,882 1.088 1.025 1.076 2,113 2,185 4,656 
+Total expenses 16,503 15,654 16,459 32,157 31,481 65,771 4,536 4,462 4,871 8,998 9,631 19,498 
+3 Profit before share of profit/(loss) from a joint venture , an associate , exceptional items and tax (1 · 
+2] 1.807 2,161 2,543 3,968 4,489 8,799 1,703 1,610 1,810 3,313 2,887 5,443 
+4 Share of loss from a joint venture and an associate (48) (25) (73) (49) 
+5 Profit before exceptional items and tax (3+4) 1,759 2,136 2,543 3,895 4,489 8,750 1,703 1,610 1,810 3,313 2,887 5,443 
+6 Exceptional items (refer note 41 207 207 207 7,831 207 7,831 7,831 
+7 Profit before tax [5+6) 1,966 2,136 2,543 4,102 4,489 8,750 1,910 J,610 9,641 3,520 10,718 13,274 
+8 Tax expense 
+{a) Current tax 887 587 702 1,474 1.304 2,518 469 423 1.076 892 1.364 2,034 
+(b) Deferred tax [3501 [251 (25) [375) [157) (251) 7 24 7 15 (61 
+Total tax expense 537 562 677 1,099 1,147 2,267 476 423 1,100 899 1,379 2,028 
+9 Net Profit for the period/year [7-8) 1,429 1.574 1,866 3,003 3,342 6,483 1,434 1,187 8,541 2,621 9,339 11.246 
+Attributable to: 
+Shareho lders of the Company 1,275 1,538 1,791 2,813 3,230 6,157 1,434 1,187 8,541 2,621 9,339 11,246 
+Non-controlling interests 154 36 75 190 112 326 
+10 Other comprehensive income 
+(a) Other comprehensive income not to be reclassified to profit or loss in subsequent periods: 
+[i) Re-measuremen t gain/(lossl on defined benefit plans 6 (7) (l) (!) (3) 12 2 (BJ II (6) 9 (12) 
+Income tax effect on above (1) l l 2 (3) (I) 2 (3) I (2) 3 
+tliJ Fair value change on financial instruments (38) (38) (271) 77 
+Income tax effect on above (21) (19) 
+(b) Other comprehens ive income to be reclassified to profit or loss in subsequent periods: 
+(1) Exchange differences in translating the financial statements of foreign operations 527 828 735 1.355 700 597 
+(ii) Etfect1ve portion of gain/( loss) on designated portion of hedging instruments in a cash flow hedge [129) [124) (138) [253) (104) (20] (126) (124) (138) [250) (104) (20) 
+Income tax effect on above 32 31 35 63 26 5 32 3 I 35 63 26 5 
+397 729 632 1,126 621 299 [93) [99 [95) (1921 f71l 34 
+Artnbutable to: 
+Shareholders of the Company 392 729 632 1,121 620 455 [93) (99) [95) [192) [71) 34 
+Non-controlling interests 5 5 I (156) 
+11 Total comprehensive income (9+10) 1,826 2,303 2,498 4,129 3,963 6,782 1,341 1,088 8,446 2,429 9,268 11.280 
+Attributable to: 
+Shareholder s of the Company 1,667 2,267 2,423 3,934 3,850 6,612 1,341 1,088 8,446 2,429 9,268 11,280 
+Non·controlling interests 159 36 75 195 113 170 
+12 Paid up equity share capital [Face Value off 5 per share] 555 555 
+13 Other equity 52,540 37,114 
+14 Earnings Per Sha,·e [Face Value of t 5 per share)• 
+(a) Basic (111 t) 11.55 13.95 16.28 25.51 29.37 55.95 12.99 10.77 77.63 23.76 84.92 102.20 
+(b) Diluted [int) - 11.48 13.86 16.14 25.34 29.12 55.51 12.91 10.70 76.9B 23.61 84.20 101.39 
+• EPS for the quarterly and half yearly periods are not annualised. ~D~' L/1,~ (Page 1 ofb) 
+~ /' 
+lo 6),(~ 
+* * 
+/y~DERA~"?-'v 
+Balance sheet: 
+Consolidat ed 
+Particulars As at 
+30-Sep-2025 31-Mar-2025 
+Unaudited Audited 
+ASSETS 
+Non-current assets 
+Property, plant and equipment 4,742 4,745 
+Right-of-use assets 2,523 2,824 
+Capital work-in-progress 76 75 
+Goodwill 19,128 18,040 
+Other intangible assets 4,237 3,678 
+Intangible assets under development 714 
+Investment accounted for using the equity method 490 563 
+Financial assets 
+[a] Investments 2,928 2,798 
+[bl Loans 
+[c] Other financial assets 326 318 
+Deferred tax assets [net] 1,294 861 
+Income tax assets ( net] 669 707 
+Other non-current assets 359 168 
+Total non-current assets 36,772 35,491 
+Current assets 
+Inventories 5,968 5,766 
+Contract assets 5,128 3,918 
+Financial assets 
+fa) Investments 1,666 1,654 
+fb) Trade receivables 11,712 14,067 
+f c) Cash and cash equivalents 11.883 10,706 
+fd) Bank balances other than cash and cash equivalents 2,379 2,436 
+[e)Loans 443 
+[f) Other financial assets 172 427 
+Other current assets 3,098 2,481 
+Total current assets 42,449 41,455 
+TOTAL ASSETS 79 221 76 946 
+EQUITY AND LIABILITIES 
+Equity 
+Equity share capital 555 555 
+Other equity 55,087 52,540 
+Equity attributable to shareholders of the Company 55,642 53,095 
+Non-controlling interests 4,685 4,509 
+Total equity 60,327 57,604 
+LIABILITIES 
+Non-current liabilities 
+Financial liabilities 
+(a) Borrowings 929 982 
+[b) Lease liabilities 1,798 2,072 
+[c) Other financial liabilities 183 107 
+Provisions 1.840 1,746 
+Deferred tax liabilities [net) 635 734 
+Total non-current liabilities 5,385 5,641 
+Current liabilities 
+Financial liabilities 
+(a) Borrowings 732 1.156 
+[bl Lease liabilities 899 924 
+( c) Trade payables 
+[i) Total outstanding dues of micro enterprises and small enterprises 103 84 
+(ii) Total outstanding dues of creditors other than micro enterprises and small 3,938 3,850 enterprises 
+[d) Other financial liabilities 3,093 3,040 
+Income tax liabilities [net) 851 523 
+Provisions 1,326 1,355 
+Other current liabilities 2,567 2,769 
+Total current liabilities 13,509 13,701 
+Total liabilities 18,894 19,342 
+TOTAL EQUITY AND LIABILITIES 79 221 76 946 (l in Millions) 
+Standalone 
+As at 
+30-Sep-2025 31-Mar-2025 
+Unaudited Audited 
+2,301 2,332 
+701 926 
+32 16 
+110 110 
+494 534 
+17,022 14,426 
+1,016 
+169 169 
+379 322 
+377 375 
+10 18 
+21,595 20,244 
+2,538 1,610 
+1,666 1,654 
+7,179 9,848 
+7,960 6,526 
+2 2 
+1,275 1,285 
+152 306 
+1.454 1,335 
+22,226 22,566 
+43 821 42 810 
+555 555 
+38,151 37,114 
+38,706 37,669 
+38,706 37,669 
+321 538 
+1 
+1.401 1,368 
+1,722 1,907 
+357 383 
+80 41 
+1,162 1.101 
+996 842 
+155 22 
+386 373 
+257 472 
+3,393 3,234 
+5,115 5,141 
+43 821 42 810 
+(Page 2 of 6] 
+t~ 
+c:... 
+*· 
+... ,~­.~ .. ~ 
+7 SEGMENT REPORTING· 
+Particulars 
+Segment revenue 
+Digital. Engineering & Technology (DET) 
+Design Led Manufacturing (OLM) 
+Semiconductors 
+Others 
+Total 
+Less : Inter segment revenue 
+Revenue from contracts with customers 
+Segment results 
+Digital. Engineering & Technology [DET] 
+Design Led Manufacturing (OLM) 
+Semiconductors 
+Others 
+Total 
+Less: 
+Finance costs 
+Add: 
+Exceptional items 
+Other unallocable income/ (expense] (net) 
+Share of loss from an associate* 
+Profit before tax 
+Tax expense 
+Profit for the period/year 
+Capital employed (Segment assets -Segment liabilities) 
+Segment assets 
+Digital. Engineering & Technology (DET) 
+Design Led Manufacturing (OLM) 
+Semiconductors 
+Others 
+Unallocable 
+Total segment assets 
+Segment liabilities 
+Digital. Engineering & Technology [DET) 
+Design Led Manufacturing (OLM) 
+Semiconductors 
+Others 
+Unallocable 
+Total segment liabilities 
+* Pertains to Semiconductors segment. 
+Notes: 30-Sep-25 
+Unaudited 
+14,385 
+3,107 
+542 
+86 
+18,120 
+310 
+17,810 
+1.538 
+403 
+(235) 
+(9) 
+1,697 
+159 
+207 
+269 
+(48) 
+1,966 
+537 
+1,429 Quarter Ended 
+30-Jun-25 30-Sep-24 
+Unaudited Unaudited 
+13,925 13,766 
+2,784 3,894 
+472 730 
+74 101 
+17,255 18,491 
+137 
+17,118 18,491 
+1.672 1.963 
+152 259 
+(182) 95 
+(8) (12) 
+1,634 2,305 
+163 275 
+690 513 
+(25) 
+2,136 2,543 
+562 677 
+1,574 1,866 
+30-Sep-25 
+Unaudited 
+38,578 
+15,691 
+3,515 
+619 
+20,818 
+79,221 
+8,331 
+3,956 
+433 
+28 
+6,146 
+18,894 
+Segment information is presented in accordance with Ind AS 108 "Operating Segments" for the consolidated financial results. (i!' in Millions) 
+Half Year Ended Year Ended 
+30-Sep-25 30-Sep-24 31-Mar-25 
+Unaudited Unaudited Audited 
+28.310 27,209 55,150 
+5,891 6,473 15,196 
+1.014 1.431 3,008 
+160 160 360 
+35,375 35,273 73,714 
+447 25 110 
+34,928 35,248 73,604 
+3,210 3.675 7.397 
+555 400 1,058 
+(417) 235 468 
+(17] [30) [77) 
+3,331 4,280 8,846 
+322 532 928 
+207 
+959 741 881 
+(73) (49) 
+4,102 4,489 8,750 
+1,099 1,147 2,267 
+3,003 3,342 6,483 
+As at 
+30-Jun-25 31-Mar-25 30-Sep-24 
+Unaudited Audited Unaudited 
+38.652 37.340 38,113 
+15,050 16,015 14,057 
+3.438 3,576 2,973 
+581 620 661 
+22,231 19,395 19,707 
+79,952 76,946 75,511 
+8,613 8,699 8,116 
+3.574 3.697 3,343 
+370 418 251 
+33 16 43 
+7.416 6,512 7,902 
+20,006 19,342 19,655 
+Effective April 01, 2025, the Group has reorganised its business structure by restructuring its global semiconductor business under Cyient Semiconductors Private Limited, 
+its subsidiaries and an associate . Consequent to such change, the global semiconductors business which was hitherto reported under the Digital, Engineering & Technology 
+(DET) segment has been presented as a separate reportable segment, consistent with the manner in which the Chief Operating Decision Maker (CODM) reviews the business. 
+The CODM reviews the business across four operating segments: 
+Digital, Engineering & Technology (DET) segment consists of Group's business of engineering solutions across multiple industries including Transportation & Mobility 
+(such as Aerospace, Rail & Automotive], Networks & Infrastru cture (such as Connectivity and Utilities] and Strategic units [such as Mining & Minerals, Energy, Healthcare & 
+Lifesciences ). 
+Design Led Manufacturing (DLM) segment consists of Group's business of Electronics Manufact uring Services. 
+Semiconductors segment consists of Group's business of design, development and supply chain management of semiconductor chips. 
+Others segment consists of Group's other business operations which includes Aerospace Tooling division. 
+The Company has re-presented the informati on relating to all comparative periods in line with this revised segmentri l cl.:1ssif1catio11. 
+8 Current quarter/ period numbers may not he strictly comparable with comparativr numhrrs dur to thr acquisitions in the year ended March 31, 2025. 
+Place : Hyderabad 
+Date: October 16, 2025 Executive Vi 
+[Page 4 of 6] 
+Consolidated statement of cash flows· 
+Particulars 
+A. OPERATING ACTIVIT IES 
+Profit for the period 
+Adi11'>tm cnts to reconcile nrofit to net cash flow-s· 
+Tax expense 
+Share of loss of an associate 
+Depreciation and amortisation expense 
+(Profit)/Loss on disposal of property. plant and equipment (net] 
+Ga111 on termination of leases {net) 
+Finance costs 
+Interest income 
+Profit on sale of mutual funds 
+(Gain)/1.oss on fair valuation of financial assets and financial liahilities 
+Share-based payments to employees 
+Provision for expected credit loss ( net of writc-of0 
+Unrealised forex gain (net) 
+Operating profit before working capital changes 
+Working capital adi111tme11t,: 
+dd.111 .. tme.nL-. [ol· [inc.l·e.as:gl t..d.e.£nu1.i:.e iu 012e.n1.til1a assets· 
+Tracie receivables 
+Other financial assets 
+Inventories 
+Contract asset-. 
+Other assets 
+tJdjw;tmeuts [or i11p·ease L (decreasel in 012.erating liabilities: 
+Trade payables 
+Other financial liabilities 
+Other liabilities 
+Provisions 
+Cash generated from operations 
+Net income taxes paid 
+Net cash flows from operating activities (A) 
+B. INVESTING ACTIVITIES 
+Payment towards purchase of property, plant and equipment and inl"angible assets 
+Proceeds from disposal of property, plant and equipment 
+Investments in 
+-mutual funds 
+-commercial paper 
+-others 
+Proceeds from sale ofinvestrnent.s in 
+-mutual funds 
+-bonds 
+-commercial paper 
+Interest received 
+Loan given 
+Payment towards acquisition of business including prior year acquisitions 
+Investment in other bank balances 
+Proceeds from other bank balances 
+Net cash flows (used in)/ generated from investing activities (BJ 
+C. FINANCING ACTIVITIES 
+Proceeds from shares issued on exercise of associate stock options (includes share 
+application money) 
+Proceeds from sale/issue of shares to Non-controlling interests 
+Transaction cost on issue of shares to Non-controlling interest$ 
+Income tax paid on proceeds from sale of shares to Non-controlling interests 
+Repayments of factoring arrangements [on behalf of banks) 
+I ntcrcst paid 
+Repayment of non-current borrowings 
+Movement in current borrowings (net) 
+Payment of principal portion of lease liabilities 
+Payment of interest portion of lease liabilities 
+Repayment. of sale and leaseback of assets 
+Dividends paid to equity share holders of the Parent (includes transfer to investor education 
+and protection fund) 
+Net cash flows fused in)/ eenerated from financine activities [Cl 
+Net increase in cash and cash equivalents (A+B+C) 
+Cash and cash equivalents at the beginning of the period 
+Effect of exchange differences on translation of foreign currency cash and cash equivalents 
+Cash and cash equivalents at the end of the period (Refer note below) 
+Note: 
+Cash and cash equivalents comprises of 
+Balances with banks 
+-in current accounts 
+-in deposits with banks (Original maturities less than 3 months) 
+Unpaid dividend accounts 
+Total cash and cash equivalents 
+Bank overdrafts account balances 
+Net cash and cash eouivalents For the half year ended 
+September 30, 2025 
+llnaudited 
+3.003 
+1.099 
+73 
+1.402 
+13 
+3 
+322 
+(421) 
+(49) 
+(196) 
+107 
+290 
+(384) 
+5,262 
+2.612 
+28 
+(165] 
+(951) 
+(479) 
+(334) 
+6 
+(379) 
+(44) 
+5,556 
+(1,188] 
+4,368 
+(642) 
+4 
+(6.153) 
+(94] 
+5.767 
+4S3 
+493 
+(443) 
+84 
+(1.435) 
+1,550 
+[4161 
+8 
+(6) 
+(243) 
+(577) 
+(518] 
+(95) 
+(7] 
+(I.534) 
+[2,972) 
+980 
+10.706 
+197 
+11,883 
+3.138 
+8.701 
+44 
+11,883 
+11,883 Annexure l(A) 
+(tin Millions) 
+For the half year ended 
+September 30, 2024 
+Unaudited 
+3.342 
+1.147 
+1.318 
+(3] 
+(26] 
+532 
+(348) 
+(14) 
+30 
+147 
+30 
+(356] 
+5,799 
+(787) 
+143 
+(628] 
+189 
+45 
+(1.281) 
+24 
+(488) 
+(9) 
+3,007 
+(I.188) 
+1,819 
+(544) 
+9 
+(440) 
+(245) 
+424 
+43 
+490 
+467 
+(1.565) 
+(2,177) 
+4,980 
+1,442 
+23 
+8,739 
+(3) 
+(288) 
+(2) 
+(423] 
+(3.949] 
+1.713 
+(49 I] 
+(110) 
+(6) 
+( 1.973) 
+3,230 
+6,491 
+4.730 
+78 
+11,299 
+5.214 
+6.390 
+37 
+11,641 
+(342) 
+11,299 
+(Page 5 of6) 
+Standalone statement or cash nows· 
+Particulars 
+A. OPERATING ACTIVITIES 
+Profit for the period 
+tJrliw,tme.at,,., to r_ecoacife_ pcoflt co net cn,h llnw5· 
+Tax expense 
+Depreciation and amortis-ition expense 
+Loss/[Profit] on disposal of property, plant and equipment [net] 
+Gain on termination of leases (net) 
+Finance costs 
+Interest income 
+Profit on sale of mutual funds 
+Gain on fair valuation of financial assets 
+Share-based payments to employees 
+Reversal of expected credit loss ( net of write-off] 
+Gain on sale of equity investment 
+Unrealised forex gain [net] 
+Operating profit before working capital changes 
+Working canital arli11,tmPnt,. .. 
+L]djustments [or. Ciar.cea~elLJJ.ecrease in 012.erating as5eL(i: 
+Trade receivables 
+Other financial assets 
+Contract assets 
+Other assets 
+Adiustments loc increasel.[deccegse! in ocrnrntiua liahilitir.s: 
+Trade payables 
+Other financial liabilities 
+Other liabilities 
+Provisions 
+Cash generated from operations 
+Net income taxes paid 
+Net cash nows from operating activities [Al 
+8. INVESTING ACTIVITIES 
+Payment towards purchase of property, plant and equipment and intangible 
+assets 
+Proceeds from disposal or property, plant and equipment 
+Investments in 
+-subsidia ries 
+-mutual funds 
+-commerc ial paper 
+Proceeds from sale of investments in 
+-mutual funds 
+-bonds 
+-commercial paper 
+Proceeds from transfer of business to subsidiary 
+Proceeds from sale of equity instrument 
+Income tax paid on gain on sale of investment 
+Loans given to subsidiari es 
+Loans repaid by subsidiaries 
+Interest received 
+Net cash nows (used in)/ generated from investing activities (BJ 
+C. FINANCING ACTIVITIES 
+Proceeds from shares issued on exercise of associate stock options (includes share 
+application money) 
+Proceed!> frorn focto1·ing ar-rangcmcnt.s (on behalf of banks) 
+Interest paid 
+Payment of principal portion of lease liabilities 
+Payment of interest portion orlease liabilities 
+Repayment or sale and leaseback of assets 
+Dividends paid to equity shareholders (includes transfer to investor education 
+and protection fund) 
+Net cash nows used in financin!! activities fCl 
+Net increase in cash and cash equivalents (A+B+C) 
+Cash and cash equivalents at the beginning of the period 
+Effect of exchange differences on translation of foreign currency cash and cash 
+equivalents 
+Cash and cash eauivalents at the end or the oeriod frerer note below) 
+Note: 
+Cash and cash equivalents comprises or 
+Balances with banks 
+-in current accounts 
+-in deposits with banks [Original maturities less than 3 months] 
+Unpaid dividend accounts 
+Total cash and cash eauivalents For the hair year ended 
+September 30, 2025 
+Unaudited 
+2,621 
+899 
+403 
+8 
+59 
+[290] 
+[49] 
+(3] 
+125 
+[18] 
+[246] 
+3,509 
+2,166 
+90 
+[972] 
+[112] 
+157 
+[SO] 
+[205] 
+86 
+4,669 
+(761] 
+3,908 
+[149] 
+4 
+[2,571] 
+[6,153) 
+5,767 
+453 
+629 
+[161] 
+1,299 
+241 
+(6411 
+8 
+(23] 
+(232] 
+(36] 
+[7] 
+(1,534) 
+fl,8241 
+1,443 
+6,526 
+(9) 
+7,960 
+1,399 
+6,517 
+44 
+7,960 Annexure 1(8) 
+(l in Millions) 
+For the hair year ended 
+September 30, 2024 
+Unaudited 
+9,339 
+1,379 
+455 
+[SJ 
+[7] 
+93 
+(174] 
+(14] 
+93 
+[140] 
+[7,831] 
+[342_] 
+2,842 
+[228] 
+101 
+200 
+[53] 
+[1,502] 
+(99] 
+(195] 
+69 
+1,134 
+(697] 
+437 
+[167] 
+8 
+[468] 
+(440) 
+[245] 
+334 
+43 
+490 
+8,739 
+[288] 
+[2,094] 
+462 
+434 
+6,808 
+23 
+91 
+(41] 
+(211] 
+(53] 
+(6] 
+(1,973) 
+(2,170) 
+5,075 
+1,881 
+23 
+6,979 
+552 
+6,390 
+37 
+6,979 
+(Page 6 of 6] 

@@ -1,0 +1,330 @@
+--- 21062026_CIM_WebXMLFile_20260621_175059481_1.xml (the exchange's structured disclosure) ---
+NSESymbol: AAVAS ; Name Of The Company: Aavas Financiers Limited ; Scrip Code: 541988 ; MSEISymbol: NOTLISTED ; ISIN: INE216P01012 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-06-21 ; Start Time Of Board Meeting: 14:15:00 ; End Time Of Board Meeting: 14:32:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 4 ; Remarks For Website Dissemination: This is to inform you that, the Board of Directors of the Company at its meeting held on June 21, 2026, has considered the following: 1. Based on the recommendation of the Nomination and Remuneration Committee, approved the appointment of Mr. Ghanshyam Gupta as the Interim Chief Financial Officer, Key Managerial Personnel (“KMP”) of the Company, with effect from June 22, 2026. 2. Based on the recommendation of the Nomination and Remuneration Committee, approved the appointment of Mr. Punit Purushottam Agarwal as the Interim Chief Risk Officer, Senior Management Personnel (“SMP”) of the Company for a period of one year, with effect from June 22, 2026. 3. Taken note of, and accepted, the Resignation of Mr. Ghanshyam Rawat, President and Chief Financial Officer and Mr. Ashutosh Atre, President and Chief Risk Officer from their respective positions, with effect from September 21, 2026. ; Date Of Report: 2026-06-21 ; Type Of Change: Appointment ; Category For Change: Key Managerial Personnel ; Designation Of Designated Person: Chief Financial Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Ghanshyam Gupta ; Effective Date Of Reason Of Change: 2026-06-22 ; Brief Profile: Mr. Ghanshyam Gupta is a qualified Chartered Accountant with 18+ years of experience, including 9+ years at Aavas. Expertise in financial planning & strategy, budgeting, MIS, investor relations, and business growth initiatives. Strategic partner to leadership, driving profitability and performance improvement. He has been associated with Aavas, since 2017. Prior to Aavas he was associated with Vaibhav Global, Tata Technologies Limited and Capgemini India Private Limited. ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Interim Chief Risk Officer ; Name Of Designated Person: Punit Purushottam Agarwal ; Term Of Appointment In Months: 12 ; Brief Profile: Mr. Punit Purushottam Agarwal is a qualified Chartered Accountant with 13 years of experience, including 9 years at Aavas. Experience across credit risk, market risk, sales, and risk management in retail lending—home loans, construction loans, and LAP. Known for balancing business growth with strong risk frameworks and governance. Prior to Aavas he was associated with Aditya Birla Capital, HDFC Bank and ICICI Bank. ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Name Of Designated Person: Ghanshyam Rawat ; Effective Date Of Reason Of Change: 2026-09-21 ; Designation Of Designated Person: Others ; Description Of Other Designation: President and Chief Risk Officer ; Name Of Designated Person: Ashutosh Atre ; Salutation: Mr. ; Name Of The Person: Ghanshyam Rawat ; Designation Of Person: Chief Financial Officer ; Date On Which The Resignation Letter Was Received: 2026-06-21 ; Effective Date Of Resignation: 2026-09-21 ; Reason Of Resignation In Brief: Due to Personal and Professional Commitments ; Name Of The Person: Ashutosh Atre ; Designation Of Person: Others ; Description Of Other Designation Person: President and Chief Risk Officer
+
+--- Outcome_2.pdf ---
+Ref. No. AAVAS/SEC/2026-27/2817
+Date: June 21, 2026
+To,
+The National Stock Exchange of India Limited
+Exchange Plaza, C-1, Block G,
+Bandra Kurla Complex,
+Mumbai - 400051
+
+To,
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai - 400001
+
+Scrip Symbol: AAVAS
+
+Scrip Code: 541988
+
+Dear Sir / Madam,
+Subject: Disclosure under Regulation 30 and 51 of the SEBI (Listing Obligations and Disclosure
+Requirements) Regulations, 2015 (“SEBI LODR”)
+Pursuant to the provisions of Regulation 30 and 51 of SEBI LODR, this is to inform you that, the Board of
+Directors of the Company at its meeting held on June 21,2026, has considered the following:
+1.
+
+Based on the recommendation of the Nomination and Remuneration Committee, approved the
+appointment of Mr. Ghanshyam Gupta as the Interim Chief Financial Officer, Key Managerial Personnel
+(“KMP”) of the Company, with effect from June 22, 2026.
+
+2.
+
+Based on the recommendation of the Nomination and Remuneration Committee, approved the
+appointment of Mr. Punit Purushottam Agarwal as the Interim Chief Risk Officer, Senior Management
+Personnel (“SMP”) of the Company for a period of one year, with effect from June 22, 2026.
+
+3.
+
+Taken note of, and accepted, the Resignation of Mr. Ghanshyam Rawat, President and Chief Financial
+Officer and Mr. Ashutosh Atre, President and Chief Risk Officer from their respective positions, with
+effect from September 21,2026.
+
+The details as required under Regulation 30 of SEBI LODR, read with Schedule III of the SEBI LODR and
+SEBI Master Circular having reference HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30,
+2026, are set out in the enclosed Annexures.
+The above information will also be made available on the website of the Company and can be accessed at
+https://www.aavas.in/.
+Please note that the Board Meeting commenced at 02:15 P.M. and concluded at 02:32 P.M.
+You are requested to take the above on record.
+Thanking You,
+For AAVAS FINANCIERS LIMITED
+signed by
+SAURABH Digitally
+SAURABH SHARMA
+2026.06.21
+SHARMA Date:
+15:38:16 +05'30'
+
+SAURABHSHARMA
+COMPANY SECRETARY & COMPLIANCE OFFICER
+(ACS-60350)
+
+AAVAS FINANCIERS LIM ITED
+C IN N O .: L65922RJ2011 PLC034297
+Regd. & Corp. Office: 201-202, 2nd Floor, Southend Square,
+Mansarover Industrial Area, Jaipur - 102020
+Tel: +91 141 001 8888 I E-Mail: into@aavas.in, Website: www.aavas.in
+
+
+Annexure A
+Appointment of Mr. Ghanshyam Gupta as the Interim Chief Financial Officer.
+Sr.
+No.
+
+Particulars
+
+Description
+
+1.
+
+Reason for change viz. appointment, re-
+
+Appointment as Interim Chief Financial Officer, Key
+Managerial Personnel (“KMP”)
+
+or otherwise
+2.
+
+Date
+
+of appointment / re-appointment /
+
+with effect from June 22, 2026
+
+appointment / re-appointment
+3.
+
+4.
+
+Brief Profile (in case of appointment)
+
+Mr. Ghanshyam Gupta is a qualified Chartered Accountant
+with 18+ years of experience, including 9+ years at Aavas.
+Expertise in financial planning & strategy, budgeting, MIS,
+investor relations, and business growth initiatives. Strategic
+partner to leadership, driving profitability and performance
+improvement. He has been associated with Aavas, since
+2017.
+Prior to Aavas he was associated with Vaibhav Global, Tata
+Technologies Limited and Capgemini India Private Limited.
+Not applicable
+
+Disclosure of relationships between
+directors (in case of appointment of a
+director).
+
+Annexure B
+Appointment of Mr. Punit Purushottam Agarwal as the Interim Chief Risk Officer.
+Sr.
+No.
+
+Particulars
+
+Description
+
+1.
+
+Reason for change viz. appointment, re-
+
+Appointment as Interim Chief Risk Officer,
+Management Personnel (“SMP”)
+
+Senior
+
+or otherwise
+2.
+
+Date
+
+of
+
+appointment / re-appointment /
+
+with effect from June 22, 2026, for a period of one year
+
+appointment / re-appointment
+3.
+
+4.
+
+Brief Profile (in case of appointment)
+
+Disclosure of relationships between
+directors (in case of appointment of a
+director).
+
+Mr. Punit Purushottam Agarwal is a qualified Chartered
+Accountant with 13 years of experience, including 9 years
+at Aavas. Experience across credit risk, market risk, sales,
+and risk management in retail lending—home loans,
+construction loans, and LAP. Known for balancing business
+growth with strong risk frameworks and governance.
+Prior to Aavas he was associated with Aditya Birla Capital,
+HDFC Bank and ICICI Bank.
+Not applicable
+
+AAVAS FINANCIERS LIM ITED
+C IN N O .: L65922RJ2011 PLC034297
+Regd. & Corp. Office: 201-202, 2nd Floor, Southend Square,
+Mansarover Industrial Area, Jaipur - 102020
+Tel: +91 141 661 8888 I E-Mail: info@aavas.in, Website: www.aavas.in
+
+
+ANNEXURE C
+Resignation by Ghanshyam Rawat as President and Chief Financial Officer
+Sr.
+No.
+
+Particulars
+
+Description
+
+1.
+
+Reason for change viz. appointment, reappointment,— resignation, removal,— death—or
+otherwise
+
+Resignation from the position of President and Chief
+Financial Officer
+
+2.
+
+Date
+of
+appointment / re-appointment /
+cessation (as applicable) & term of appointment /
+re-appointment
+
+with effect from September 21, 2026
+
+3.
+
+Brief Profile (in case of appointment)
+
+Not applicable.
+
+4.
+
+Disclosure of relationships between directors (in
+case of appointment of a director).
+
+Not applicable.
+
+Annexure D
+Resignation by Mr. Ashutosh Atre as President and Chief Risk Officer
+Sr.
+No.
+
+Particulars
+
+Description
+
+1.
+
+Reason for
+appointment,
+otherwise
+
+2.
+
+Date
+of
+appointment /- re-appointment /
+cessation (as applicable) & term of appointment /
+re-appointment
+
+with effect from September 21, 2026
+
+3.
+
+Brief Profile (in case of appointment)
+
+Not applicable.
+
+4.
+
+Disclosure of relationships between directors (in
+case of appointment of a director).
+
+Not applicable.
+
+change viz. appointment,— reresignation, removal,— death—or
+
+Resignation from the position of President and Chief
+Risk Officer
+
+AAVAS FINANCIERS LIM ITED
+C IN N O .: L65922RJ2011 PLC034297
+Regd. & Corp. Office: 201-202, 2nd Floor, Southend Square,
+Mansarover Industrial Area, Jaipur - 102020
+Tel: +91 141 661 8888 I E-Mail: info@aavas.in, Website: www.aavas.in
+
+
+CONFIDENTIAL
+
+Annexure-E
+
+d
+
+**■ .
+
+2±[jLj2&L
+
+To,
+
+The Board of Directors
+Aavas Financiers Limited
+201-202, 2nd Floor, Southend Square,
+Mansarovar Industrial Area,
+Jaipur, Rajasthan, 302020
+
+Subject: Resignation from the Position of President and Chief Financial Officer
+Dear Sir / Madam,
+After consideration of my personal and professional commitments, I, Mr. Ghanshyam Rawat, would like to
+transition from my current role as the President and Chief Financial Officer of Aavas Financiers Limited (the
+“Company"), with effect from the close of business hours on September 21,2026.
+Accordingly, I hereby tender my resignation from the position of President and Chief Financial Officer of the
+Company, with effect from the close of business hours on September 21, 2026. I shall be on garden leave
+from June 21, 2026, to September 21, 2026.
+It has been a privilege to lead the Company and contribute to its growth and transformation over the years.
+Thanking You,
+Yours faithfully,
+
+Mr. Ghanshyam Rawat
+
+
+CONFIDENTIAL
+
+Annexure-F
+
+Date:
+
+I fo & l
+
+To,
+
+The Board of Directors
+Aavas Financiers Limited
+201-202, 2nd Floor, Southend Square,
+Mansarovar Industrial Area,
+Jaipur, Rajasthan, 302020
+
+Subject: Resignation from the Position of President and Chief Risk Officer
+Dear Sir / Madam,
+After consideration of my personal and professional commitments, I, Mr. Ashutosh Atre, would like to
+transition from my current role as the President and Chief Risk Officer of Aavas Financiers Limited (the
+“Company"), with effect from the close of business hours on September 21,2026.
+Accordingly, I hereby tender my resignation from the position of President and Chief Risk Officer of the
+Company, with effect from the close of business hours on September 21, 2026. I shall be on garden leave
+from June 21, 2026, to September 21, 2026.
+It has been a privilege to lead the Company and contribute to its growth and transformation over the years.
+Thanking You,
+Yours faithfully,
+
+Mr. Ashutosh Atre
+
+

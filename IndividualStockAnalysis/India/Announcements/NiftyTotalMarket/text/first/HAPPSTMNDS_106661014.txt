@@ -1,0 +1,155 @@
+Happiest Minds Technologies Limited  
+Regd. Office:  #53/1 -4, Hosur Main Road, Madivala,  
+Bengaluru -560068, Karnataka, India  
+CIN of the Co.  L72900KA2011PLC057931  
+P: +91 80 6196 0300, F: +91 80 6196 0700  
+Website:  www.happiestminds.com  
+Email:  investors@happiestminds.com
+ June  11, 202 6 
+Listing Compliance & Legal Regulatory   
+BSE Limited  
+Phiroze Jeejeebhoy Towers  Dalal Street,  
+Mumbai 400  001 
+Stock  Code:  543227  & 975101  Listing  & Compliance  
+National Stock Exchange of India Limited  
+Exchange Plaza, Bandra Kurla Complex  
+Bandra  East,  Mumbai  400 051 
+Stock  Code:  HAPPSTMNDS  
+Dear  Sir/Madam,  
+Sub:  Press Release - Happiest Minds Launches Rel(AI)Build, an Agentic AI Platform to Transform 
+Enterprise Software Delivery   
+      Pursuant to Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations,      
+ 2015, enclosed herewith is a Press Release  issued by the Company on the captioned subject,     
+ the content of which is  self‐explanatory.  
+This is for your information and records.   
+Thanking  you,  
+Yours  faithfully,  
+For Happiest  Minds  Technologies  Limited  
+Praveen  Kumar  Darshankar  
+Company  Secretary  & Compliance  Officer  
+Membership  No. F6706  
+
+ 
+ 
+    
+ 
+1 
+ PRESS RELEASE  
+Happiest Minds  Launches  Rel(AI)Build , an Agentic AI Platform to 
+Transform Enterprise Software Delivery    
+Bengaluru, Seattle, and London,  June  11, 2026 ,  Happiest Minds Technologies Limited 
+(NSE:HAPPSTMNDS), an AI First, customer -centric digital engineering company,  today announced 
+the launch of  Rel(AI)Build , its proprietary Agentic AI development platform, along with the Agentic 
+Development Lifecycle (ADLC) , a structured, governed methodology designed to integrate AI across 
+the entire software development lifecycle.  
+.Rel(AI)Build : A Unified Agentic Platform   
+ 
+Rel(AI)Build is an enterprise -grade, agentic platform designed to transform how organizations build, 
+modernize, and operate software systems. The platform brings together AI -driven automation, 
+governance, and human oversight into a single, unified software delivery fra mework.  
+Built on an Agentic Development Lifecycle (ADLC), Rel(AI)Build orchestrates specialized, context -aware 
+AI agents across a structured lifecycle , from planning through operations. This enables parallel 
+execution, intelligent task routing, and continuous learning through shared contextual memory, 
+significantly improving delivery speed and consistency.  
+At the core of Rel (AI)Build is a composable, registry -driven Agent Core that integrates seamlessly with 
+existing enterprise ecosystems. The platform is designed with governance by default, embedding 
+policy controls, auditability, and human -in-the-loop mechanisms to ensure responsible  and 
+transparent AI adoption. A key differentiator of Rel(AI)Build is its token -sensitive architecture, which 
+optimizes how AI models are invoked and utilized across workflows. By intelligently managing token 
+consumption, contex t usage, and model interactions, the platform helps enterprises control costs, 
+improve efficiency, and ensure predictable performance , which is critical for scaling AI adoption in 
+
+ 
+ 
+    
+ 
+2 
+ PRESS RELEASE  
+production environments.  
+Rel(AI)Build supports a wide range of enterprise transformation initiatives, including application 
+modernization, platform engineering, quality engineering, data engineering, and infrastructure and 
+cybersecurity operations. By embedding AI agents across code analysis, infrastructure provisioning, 
+testing, data pipelines, and system operations, the platform enables organizations to scale innovation 
+while maintaining control and compliance.  
+Early implementations of Rel(AI)Build have demonstrated significant business impact, including up to 
+40–60% faster modernization timelines, a threefold increase in engineering productivity, and 30 –50% 
+reduction in support costs. Organizations also benefit from improved software quality, enhanc ed 
+system reliability, and greater operational resilience.  
+With Rel(AI)Build , Happiest Minds continues to advance its AI -led strategy, helping enterprises unlock 
+productivity, agility, and long -term value through intelligent, scalable, and cost -efficient software 
+delivery.  
+ 
+
+ 
+ 
+    
+ 
+3 
+ PRESS RELEASE  
+ 
+ 
+ Sridhar Mantha, CEO: GenAI business services, Happiest 
+Minds Technologies , said, "Software engineering is entering a 
+new era where AI actively participates in the delivery process. With 
+Rel(AI)Build and our Agentic Development Lifecycle, we are 
+enabling enterprises to accelerate innovation, improve agility, and 
+achieve measurable busin ess outcomes while maintaining 
+governance and quality at scale."  
+ Ritesh Gupta, Chief Technology Officer, Happiest Minds 
+Technologies , remarked , “Rel(AI)Build is an enterprise -grade 
+agentic platform designed to bring intelligence, automation, and 
+governance across the software delivery lifecycle. By combining 
+specialized AI agents, contextual awareness, and built -in 
+guardrails, we help organizations  accelerate development, 
+improve quality, and scale AI adoption efficiently.”  
+ Preeti  Menon, Chief Operating Officer, PDES , Happiest Minds 
+Technologies, added : 
+"What excites our clients most about Rel( AI)Build is its ability to 
+translate AI potential into tangible business outcomes. By bringing AI 
+agents into engineering workflows, organizations can improve 
+productivity, accelerate modernization initiatives, increase testing 
+coverage, and reduce operati onal costs. This allows teams to focus 
+on innovation while achieving faster delivery and higher quality."  
+ 
+ 
+Rel(AI)Build  marks a shift from AI -assisted development to truly agent -driven software delivery , where 
+speed, quality, and governance are built in by design.  With this launch, Happiest Minds is redefining 
+how modern software is built , enabling enterprises to scale AI with confidence, control, and 
+measurable impact.   
+Learn more about  Rel(AI)Build  and experience the full platform capability here:      
+https://www.happiestminds.com/solutions/rel -ai-build/   
+
+ 
+ 
+    
+ 
+4 
+ PRESS RELEASE  
+ 
+ About Happiest Minds Technologies:   
+Happiest Minds Technologies Limited  (BSE, NSE: HAPPSTMNDS) is an AI First, customer -centric digital 
+engineering company committed to delivering  ‘Happiest  People .  Happiest Customers’ . With an 
+integrated approach that spans from chip to cloud, Happiest Minds delivers secure and scalable 
+solutions across product engineering, cybersecurity,  analytics ,  and automation platforms. Happiest 
+Minds brings purpose and precision to every engagem ent, helping enterprises solve complex business 
+challenges and fast -track their digital evolution across industry sectors 
+such as Banking,Financial  Services  & Insurance (BFSI),   EdTech , Healthcare & Life Sciences , Hi-
+Tech  and Media & Entertainment , Industrial,  Manufacturing , Energy & Utilities , and  Retail , CPG & 
+Logistics.   
+Happiest Minds’ innovation -led strategy is powered by deep expertise in disruptive tech including  Gen 
+AI and strategic partnerships with global technology leaders like Microsoft and AWS, along with a 
+growing portfolio of proprietary platforms including  Arttha , a unified digital payments suite designed 
+to enable seamless and inclusive financial   experiences,  Insurance in a Box , a modular digital insurance 
+platform powered by  InsuranceGPT  to help insurers build, automate, and scale AI -driven products 
+and workflows., and  FuzionX  Gaming Studio , a game development hub focused on building high -
+performance gaming experiences that integrate creativity with advanced technology.   
+Happiest Minds has been honored by both the Golden Peacock Awards and the Institute of Company 
+Secretaries of India (ICSI) for its exemplary Corporate Governance practices. Guided by its 
+mission  of  ‘Happiest  People .  Happiest Customers’   and consistently recognized as  a great place  to 
+work, Happiest Minds is headquartered in Bengaluru, India, with a global presence across the 
+Americas, UK, Europe, Australia, the Middle East, Africa, and Asia.   
+As of May 2026, Happiest Minds generates annualized revenues  of  $260 million, has a  people 
+strength  of  6,500 across 43 global offices, and serves 300+ customers, including 90+ billion -dollar 
+corporations.  
+Media Contact:  media@happiestminds.com   
+ 

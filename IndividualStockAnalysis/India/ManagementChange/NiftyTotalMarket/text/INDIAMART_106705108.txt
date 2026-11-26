@@ -1,0 +1,1673 @@
+July 21, 2026
+To,
+BSE Limited
+(BSE: 542726)
+
+Subject:
+
+National Stock Exchange of India Limited
+(NSE: INDIAMART)
+
+Audited Consolidated and Standalone Financial Statements for the quarter
+ended June 30, 2026
+
+Dear Sir/Ma’am,
+Please find enclosed herewith the copy of Audited Consolidated and Standalone Financial
+Statements of the Company along with the Auditor's Report thereon for the quarter ended June
+30, 2026.
+The Financial Statements along with the Auditor's Report are also being disseminated on the
+Company’s website at https://investor.indiamart.com/FinancialResultsStatements.aspx.
+The meeting commenced at 11:00 a.m. and concluded at 15:15 p.m.
+Please take the above information on record.
+
+Yours faithfully,
+For IndiaMART InterMESH Limited
+signed
+Vasudh Digitally
+by Vasudha Bagri
+2026.07.21
+a Bagri Date:
+15:51:22 +05'30'
+
+(Vasudha Bagri)
+Compliance Officer
+Membership No: A28500
+Encl: As above
+
+
+B S R & Co. LLP
+Chartered Accountants
+
+Building No. 10, 12th Floor, Tower-C
+DLF Cyber City, Phase - II
+Gurugram - 122 002, India
+Tel: +91 124 719 1000
+Fax: +91 124 719 8613
+
+Independent Auditor’s Report
+To the Board of Directors of IndiaMART InterMESH Limited
+Report on the Audit of the Condensed Consolidated Interim Financial Statements
+Opinion
+We have audited the condensed consolidated interim financial statements of IndiaMART InterMESH
+Limited (hereinafter referred to as the “Holding Company”) and its subsidiaries (Holding Company and its
+subsidiaries together referred to as “the Group”), and its associates, which comprise the condensed
+consolidated interim Balance Sheet as at 30 June 2026, and the condensed consolidated interim statement
+of Profit and Loss (including other comprehensive income), the condensed consolidated interim statement
+of changes in equity and the condensed consolidated interim statement of cash flows for period then ended,
+and notes to the condensed consolidated interim financial statements, including material accounting
+policies and other explanatory information as required by Indian Accounting Standard (Ind AS) 34 “Interim
+Financial Reporting” and other accounting principles generally accepted in India (hereinafter referred to as
+“the condensed consolidated interim financial statements”).
+In our opinion and to the best of our information and according to the explanations given to us, the aforesaid
+condensed consolidated interim financial statements are prepared, in all material respects, in accordance with
+Ind AS 34 and other accounting principles generally accepted in India.
+
+Basis for Opinion
+We conducted our audit in accordance with the Standards on Auditing (SAs) specified under section 143(10)
+of the Companies Act, 2013 (“Act”). Our responsibilities under those Standards are further described in the
+Auditor’s Responsibilities for the Audit of the Condensed Consolidated Interim Financial Statements section
+of our report. We are independent of the Group, and its associates in accordance with the ethical requirements
+that are relevant to our audit of the condensed consolidated interim financial statements in terms of the Code
+of Ethics issued by the Institute of Chartered Accountants of India and the relevant provisions of the Act, and
+we have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the
+audit evidence obtained by us along with the consideration of reports of other auditors referred to in paragraph
+(a) of the “Other Matters” section below, is sufficient and appropriate to provide a basis for our opinion on
+the condensed consolidated interim financial statements.
+
+Registered Office:
+B S R & Co. (a partnership firm with Registration No. BA61223) converted into B S R & Co. LLP
+(a Limited Liability Partnership with LLP Registration No. AAB-8181) with effect from October 14,
+2013
+
+14th Floor, Central B Wing and North C Wing,
+Nesco IT Park 4, Nesco Center, Western Express
+Highway, Goregaon (East), Mumbai - 400063
+
+
+B S R & Co. LLP
+Management’s and Board of Directors’ Responsibilities for the Condensed Consolidated
+Interim Financial Statements
+The Holding Company’s Management and Board of Directors are responsible for the preparation and
+presentation of these condensed consolidated interim financial statements in accordance with Ind AS 34
+prescribed under section 133 of the Act and other accounting principles generally accepted in India. The
+respective Management and Board of Directors of the companies included in the Group and of its associates
+are responsible for maintenance of adequate accounting records in accordance with the provisions of the Act
+for safeguarding of the assets of each company and for preventing and detecting frauds and other irregularities;
+the selection and application of appropriate accounting policies; making judgments and estimates that are
+reasonable and prudent; and the design, implementation and maintenance of adequate internal financial
+controls, that were operating effectively for ensuring accuracy and completeness of the accounting records,
+relevant to the preparation and presentation of the condensed consolidated interim financial statements that are
+free from material misstatement, whether due to fraud or error, which have been used for the purpose of
+preparation of the condensed consolidated interim financial statements by the Management and Board of
+Directors of the Holding Company, as aforesaid.
+In preparing the condensed consolidated interim financial statements, the respective Management and Board
+of Directors of the companies included in the Group and of its associates, are responsible for assessing the
+ability of each company to continue as a going concern, disclosing, as applicable, matters related to going
+concern and using the going concern basis of accounting unless the respective Board of Directors either intends
+to liquidate the Company or to cease operations, or has no realistic alternative but to do so.
+The respective Board of Directors of the companies included in the Group and of its associates are responsible
+for overseeing the financial reporting process of each company.
+Auditor’s Responsibilities for the Audit of the Condensed Consolidated Interim Financial Statements
+Our objectives are to obtain reasonable assurance about whether the condensed consolidated interim financial
+statements as a whole are free from material misstatement, whether due to fraud or error, and to issue an
+auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but is not a
+guarantee that an audit conducted in accordance with SAs will always detect a material misstatement when it
+exists. Misstatements can arise from fraud or error and are considered material if, individually or in the
+aggregate, they could reasonably be expected to influence the economic decisions of users taken on the basis
+of these condensed consolidated interim financial statements.
+As part of an audit in accordance with SAs, we exercise professional judgment and maintain professional
+skepticism throughout the audit. We also:
+
+• Identify and assess the risks of material misstatement of the condensed consolidated interim financial
+
+statements, whether due to fraud or error, design and perform audit procedures responsive to those risks,
+and obtain audit evidence that is sufficient and appropriate to provide a basis for our opinion. The risk of
+not detecting a material misstatement resulting from fraud is higher than for one resulting from error, as
+fraud may involve collusion, forgery, intentional omissions, misrepresentations, or the override of internal
+control.
+
+• Obtain an understanding of internal control relevant to the audit in order to design audit procedures that
+are appropriate in the circumstances, but not for the purpose of expressing opinion on the effectiveness of
+the Group’s internal control.
+
+• Evaluate the appropriateness of accounting policies used and the reasonableness of accounting estimates
+and related disclosures made by the Management and Board of Directors.
+
+
+B S R & Co. LLP
+
+• Conclude on the appropriateness of the Management and Board of Directors use of the going concern basis
+
+of accounting in preparation of condensed consolidated interim financial statements and, based on the
+audit evidence obtained, whether a material uncertainty exists related to events or conditions that may cast
+significant doubt on appropriateness of this assumption. If we conclude that a material uncertainty exists,
+we are required to draw attention in our auditor’s report to the related disclosures in the condensed
+consolidated interim financial statements or, if such disclosures are inadequate, to modify our opinion. Our
+conclusions are based on the audit evidence obtained up to the date of our auditor’s report. However, future
+events or conditions may cause the Group and its associates to cease to continue as a going concern.
+
+• Evaluate the overall presentation, structure and content of the condensed consolidated interim financial
+
+statements, including the disclosures, and whether the condensed consolidated interim financial statements
+represent the underlying transactions and events in a manner that is in accordance with Ind AS 34.
+
+• Obtain sufficient appropriate audit evidence regarding the condensed consolidated interim financial
+
+statements of such entities or business activities within the Group and its associates to express an opinion
+on the condensed consolidated interim financial statements. We are responsible for the direction,
+supervision and performance of the audit of condensed consolidated interim financial statements of such
+entities included in the condensed consolidated interim financial statements of which we are the
+independent auditors. For the other entities included in the condensed consolidated interim financial
+statements, which have been audited by other auditors, such other auditors remain responsible for the
+direction, supervision and performance of the audits carried out by them. We remain solely responsible
+for our audit opinion. Our responsibilities in this regard are further described in para (a) of the section
+titled ‘Other Matters’ in this audit report.
+
+We communicate with those charged with governance of the Holding Company regarding, among other
+matters, the planned scope and timing of the audit and significant audit findings, including any significant
+deficiencies in internal control that we identify during our audit.
+We also provide those charged with governance with a statement that we have complied with relevant ethical
+requirements regarding independence, and to communicate with them all relationships and other matters that
+may reasonably be thought to bear on our independence, and where applicable, related safeguards.
+Other Matters
+1. (a)
+
+We did not audit the condensed interim financial statements of four subsidiaries, whose condensed
+interim financial statements reflect total assets (before consolidation adjustments) of Rs. 1,848.64
+million as at 30 June 2026, total revenues (before consolidation adjustments) of Rs. 27.25 million
+and net cash inflows (before consolidation adjustments) amounting to Rs. 2.84 million for the quarter
+ended 30 June 2026, as considered in the condensed consolidated interim financial statements. These
+condensed interim financial statements have been audited by other auditors whose reports have been
+furnished to us by the Management and our opinion on the condensed consolidated interim financial
+statements, in so far as it relates to the amounts and disclosures included in respect of these
+subsidiaries is based solely on the reports of the other auditors.
+
+(b)
+
+The condensed consolidated interim financial statements also include the Group’s share of net loss
+of Rs. 127.84 million for the quarter ended 30 June 2026, as considered in the condensed
+consolidated interim financial statements, in respect of seven associates, whose condensed interim
+financial information have not been audited either by us or by other auditors. The consolidated
+financial statements also include the Group’s share of net loss of Rs. 17.69 million for the period 1
+April 2026 to 29 May 2026 , as considered in consolidated financial statements in respect of one
+associate, whose financial information has not been audited either by us or other auditors. These
+unaudited condensed interim financial information have been furnished to us by the Management
+and our opinion on the condensed consolidated interim financial statements, in so far as it relates to
+the amounts and disclosures included in respect of these associates, is based solely on such unaudited
+condensed interim financial information. In our opinion and according to the information and
+explanations given to us by the Management, these unaudited condensed interim financial
+
+
+B S R & Co. LLP
+information are not material to the Group.
+
+Our opinion on the condensed consolidated interim financial statements is not modified in respect of the
+above matters with respect to our reliance on the work done and the reports of the other auditors and the
+condensed interim financial information certified by the Management.
+
+For B S R & Co. LLP
+Chartered Accountants
+Firm's Registration No. 101248W/W-100022
+
+Place: Bali
+Date: 21 July 2026
+
+David Jones
+Partner
+Membership No. 098113
+UDIN: 26098113MJBLYA1005
+
+
+lndiaMART lnterMESH Limited
+Condensed Consolidated Interim Balance Sheet as at 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+Notes
+Assets
+Non-current assets
+Property, plant and equipment
+Right-of-use assets
+Goodwill
+Other intangible assets
+Investment in associates
+Financial assets
+(i) Investments
+(ii) Loans
+(iii) Other financial assets
+Deferred tax assets (net)
+Non-current tax assets (net)
+Other non-current assets
+Total Non-current assets
+
+As at
+31 March 2026
+
+Asat
+30 June 2026
+
+5A
+5B
+6A
+6B
+7
+
+44.15
+154.26
+4,542.72
+146.65
+2,746.89
+
+50.48
+163.87
+4,542.72
+183.27
+3,550.24
+
+8
+8
+8
+26
+18
+9
+
+4,665.38
+911.97
+764.18
+90.09
+172.12
+14,238.41
+
+4,079.05
+897.05
+736.95
+0.65
+78.21
+27.69
+14,310.18
+
+33,434.47
+53.35
+368.11
+87.20
+7.15
+104.88
+330.59
+34,385.75
+
+30,294.05
+54.95
+804.13
+107.86
+6.28
+262.58
+406.00
+31,935.85
+
+48,624.16
+
+46,246.03
+
+12
+13
+
+601.35
+21,594.63
+22,195.98
+
+600.84
+23,402.91
+24,003.75
+
+15 (a)
+17
+16
+26
+
+111.05
+7,898.87
+469.68
+719.11
+9,198.71
+
+130.90
+7,450.84
+458.22
+552.60
+8,592.56
+
+15 (a)
+14
+
+105.23
+
+100.12
+
+0.53
+
+1.30
+
+331.98
+3,434.89
+12,244.47
+675 .17
+156.43
+280.77
+17,229.47
+
+318.51
+246.61
+12,201.76
+514.27
+148.24
+118.91
+13,649.72
+
+Total Liabilities
+
+26,428.18
+
+22,242.28
+
+Total Equity and Liabilities
+
+48,624.16
+
+46,246.03
+
+Current assets
+Financial assets
+(i) Investments
+(ii) Trade receivables
+(iii) Cash and cash equivalents
+(iv) Bank balances other than (iii) above
+(v) Loans
+(vi) Other financial assets
+Other current assets
+Total current assets
+
+8
+10
+
+11
+11
+8
+8
+9
+
+Total Assets
+Equity and Liabilities
+Equity
+Share capital
+Other equity
+Total Equity
+Liabilities
+Non-current liabilities
+Financial liabilities
+(i) Lease liabilities
+Contract liabilities
+Provisions
+Deferred tax liabilities (net)
+Total Non-current liabilities
+Current liabilities
+Financial liabilities
+(i) Lease liabilities
+(ii) Trade payables
+(a) total outstanding dues of micro enterprises and small enterprises
+(b) total outstanding dues of creditors other than micro enterprises and small
+enterprises
+(iii) Other financial liabilities
+Contract liabilities
+Other current liabilities
+Provisions
+Current tax liabilities (net)
+Total Current liabilities
+
+15 (b)
+17
+17
+16
+18
+
+2
+
+Material accounting policies
+
+The accompanying notes are an integral part of the condensed consolidated interim financial statements.
+As per our report of even date attached
+ForBSR& Co. LLP
+Chartered Accountants
+ICAI Firm Registration No. 101248W/W-100022
+Olgltally slgnedby
+
+DAVID JULIAN DAVID JULIAN JONES
+JONES
+Date: 2026.01.21
+14:24:11 +o5'30'
+
+David Jones
+Partner
+Membership No : 098113
+Place: Bali
+Date: 21 July 2026
+
+For and on behalf of the Board of Directors of
+lndiaMART InterMESH Limited
+
+Dinesh
+Chandra
+Agarwal
+
+Digitally signed by
+Dinesh Chandra
+Agarwal
+Date: 2026.07.21
+12:16:09+-05'30'
+
+Dinesh Chandra Agarwal
+(Managing Director and CEO)
+DIN:00191800
+
+Brijesh Kumar Agrawal
+(Whole-time director)
+DIN:00191760
+
+JITIN
+
+DIWAN ~;:~;=;~2:0~:3~~
+
+Manoj ~:;;:!
+Bhargava ~;~;;2:0~;!~
+
+Jilin Diwan
+(ChiefFinancial Officer)
+
+Manoj Bhargava
+\ Company :SecretaryJ
+
+Digitally signed
+byJmNDIWAN
+
+Place: Naida
+Date: 21 July 2026
+
+Digitally signed
+
+
+IndiaMART InterMESH Limited
+Condensed Consolidated Interim Statement of Profit and Loss for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+Notes
+For the quarter ended
+30 June 2026
+
+For the quarter ended
+30 June 2025
+
+Income:
+Revenue from operations
+Other income
+Total income
+
+19
+20
+
+4,143.70
+1,067.07
+5,210.77
+
+3,720.80
+924.59
+4,645.39
+
+Expenses:
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Other expenses
+Total expenses
+
+21
+22
+23
+24
+
+1,740.10
+5.59
+63.58
+939.06
+2,748.33
+
+1,609.31
+10.36
+69.27
+776.20
+2,465.14
+
+2,462.44
+(145.53)
+2,316.91
+
+2,180.25
+(141.15)
+2,039.10
+
+429.52
+165.01
+594.53
+
+389.27
+114.42
+503.69
+
+1,722.38
+
+1,535.41
+
+8.53
+(2.15)
+6.38
+
+(29.44)
+7.41
+(22.03)
+
+1,728.76
+
+1,513.38
+
+28.66
+28.56
+
+25.59
+25.52
+
+Net profit before share of loss in associates and tax
+Share in net loss of associates
+Profit before tax
+Income tax expense
+Current tax
+Deferred tax
+Total tax expense
+
+26
+26
+
+Net profit for the period
+Other comprehensive income
+Items that will not be reclassified to profit or loss
+Re-measurement loss on defined benefit plans
+Income tax effect
+Other comprehensive (loss)/ income for the period, net of tax
+
+26
+
+Total comprehensive income for the period
+Earnings per equity share:
+Basic earnings per equity share (INR) - face value ofINR 10 each
+Diluted earnings per equity share (INR)- face value oflNR 10 each
+
+25
+
+Material accounting policies
+
+2
+
+The accompanying notes are an integral part of the condensed consolidated interim fmancial statements.
+As per our report of even date attached
+For B S R & Co. LLP
+Chartered Accountants
+!CAI Firm Registration No. 101248W/W-100022
+DAVID JULIAN g~~~';i~;~~~ES
+JONES
+0a,ec2026.0121
+14:41:08+o5"30'
+
+David Jones
+Partner
+Membership No.: 098113
+Place: Bali
+Date: 21 July 2026
+
+Dinesh
+Chandra
+Agarwal
+
+Digitally signed by
+Dinesh Chandra
+Agarwal
+Date: 2026.07.21
+12:17:06 +05'30'
+
+Dinesh Chandra Agarwal
+(Managing Director and CEO)
+DIN:00191800
+
+Jitin
+Diwan
+
+Digitally signed
+by Jilin Diwan
+Date: 2026.07.21
+12:26:16 +05'30'
+
+JitinDiwan
+(ChiefFinancial Officer)
+Place: Noida
+Date: 21 July 2026
+
+Brijesh Kumar Agrawal
+(Whole-time director)
+DIN:00191760
+
+Manoj Dig;tallysigned
+byManoj
+Bhargav Bhargava
+
+a
+
+Date: 2026.07.21
+
+,2,01,s3 +os•30•
+
+Manoj Bhargava
+(Company Secretary)
+
+
+lndiaMART InterMESH Limited
+Condensed Consolidated Interim Statement of Cash Flows for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+For the quarter ended
+30 June 2026
+
+Notes
+Cash flow from operating activities
+Profit before tax for the period
+Adjustments for:
+
+Depreciation and amortisation expense
+Interest, dividend and other income
+Gain on de-recognition of Right-of-use assets
+Liabilities and provisions no longer required written back
+Fair value gain/(loss) (net) on measurement, interest and income from sale of mutual funds,
+exchange traded funds, bonds, debentures, units of investtnent trust and alternative investtnent
+
+23
+20
+20
+20
+20
+
+Fair value loss on measurement oflnvesttnent in other entities
+Net gain on disposal of property, plant and equipment
+Finance costs
+Share-based payment expense
+Share of net loss of associates
+Operating profit before working capital changes
+
+20
+20
+22
+21
+
+Net changes in:
+Trade receivables
+Other financial assets
+Other assets
+Other financial liabilities
+Trade payables
+Contract liabilities
+Provisions and other liabilities
+Cash generated from operations
+Income tax paid (net)
+Net cash generated from operating activities
+Cash flow from investing activities
+Proceeds from sale of property, plant and equipment
+Purchase of property, plant and equipment, other intangible assets, intangible assets under
+develelopment, capital work in progress and capital advances
+Purchase of current investtnents
+Inter-corporate deposits placed with financials institutions and body corporates
+Redemption of inter-corporate deposits placed with financials institutions and body corporates
+Proceeds from sale of current investtnents
+
+2,316.91
+
+2,039.10
+
+63.58
+(33.18)
+(15.38)
+(1,086.72)
+
+69.27
+(9.17)
+(0 .01)
+(39 .75)
+(875.53)
+
+71.49
+(3.19)
+5.59
+70.97
+145.53
+1,535.60
+
+(0 .07)
+10.36
+69.67
+141.15
+1,405.02
+
+1.60
+157.50
+(69.02)
+(48.38)
+12.70
+490.74
+(166.89)
+1,913.85
+(279.54)
+1,634.31
+
+(23.07)
+185.83
+(91.55)
+(74.23)
+44.46
+577.52
+(179.20)
+1,844.78
+(235 .14)
+1,609.64
+
+3.88
+(0.91)
+
+0.14
+(29.67)
+
+(6,619.29)
+
+(4,034.79)
+(853 .97)
+67.51
+
+4,536.89
+
+6,795.96
+28.87
+(302 .98)
+19.35
+(410 .75)
+1,279.66
+
+31.66
+
+Interest, dividend and income from investtnent units
+Investtnent in bank deposits
+Redemption of bank deposits
+Investtnent in associates and other entities
+Net cash (used in)/from investing activities
+Cash flow from financing activities
+Repayment oflease liabilities (including interest)
+Payment of deferred consideration
+Dividend paid
+Proceeds from issue of equity shares on exercise of share based awards
+Net cash used in fmancing activities
+
+For the quarter ended
+30 June 2025
+
+7.64
+(2,040.13)
+
+(30.79)
+
+(33 .77)
+(267 .74)
+(3,000.49)
+
+15
+
+Net increase/(decrease) in cash and cash equivalents
+Cash and cash equivalents at the beginning of the period
+Cash and cash equivalents at the end of the period
+
+II
+11
+
+Material accounting policies
+
+2
+
+0.59
+(30.20)
+
+(3,302.00)
+
+(436.02)
+804.13
+368.11
+
+(412.70)
+734.84
+322.14
+
+The accompanying notes are an integral part of the condensed consolidated interim financial statements.
+As per our report of even date attached
+ForB SR & Co. LLP
+Chartered Accountants
+!CAI Firm Registration No. 101248W/W-100022
+
+g::=~ES
+
+DAVID JULIAN
+JONES
+~2020..,;;
+
+David Jones
+Partner
+Membership No.: 098113
+Place: Bali
+
+Date: 21 July 2026
+
+For and on behalf of the Board of Directors of
+lndiaMART lnterMESH Limited
+
+Di nesh
+Chandra
+
+g:~=~~~;~;~.
+
+Agarwal
+
+~~\i~1!;~:~~
+
+by
+
+Agaowal
+
+Dinesh Chandra Agarwal
+(Managing Director and CEO)
+DIN:00191800
+
+JITIN
+DIWAN
+
+Digitally signed by
+JmNDIWAN
+Date: 2026.07.21
+12:13:49 +05'30'
+
+Jilin Diwan
+(Chief Financial Officer)
+
+Place: Noida
+Date: 21 July 2026
+
+Brijesh
+Kumar
+Agrawal
+
+Digitally signed by
+Brijesh Kumar
+Agrawal
+
+Date: 2026.07.21
+12:20:50 t-05'30'
+
+Brijesh Kumar Agrawal
+(Whole-time director)
+DIN:00191760
+Olglta llyslgned
+
+~;:!
+
+Manoj
+Bhargava Date: 2026.07.21
+12:08:18 +05'30'
+
+Manoj Bhargava
+(Company Secretary)
+
+
+IndiaMART InterMESH Limited
+Condensed Consolidated Interim Statement of changes in equity for the Period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+
+(a) Equity share capital (Refer Note 12)
+Equity shares oflNR 10 each issued , subscribed and fully paid up
+Equity share capital at the beginning of the period
+
+Equity shares issued to Indiamart Employee Benefit Trust during the period
+Equity share capital at the end of the period
+Equity shares held by lndiarnart Employee Benefit Trust as at period end (refer note 12)
+Equity share capital at the end of the period net of elimination on account of shares
+held by Indiamart Employee Benefit Trust
+
+30June 2026
+600.88
+0.56
+601.44
+(0.09)
+
+30June 2025
+600.33
+
+601.35
+
+600.12
+
+-
+
+600.33
+(0.21)
+
+(b) Other equity (Refer Note 13)
+
+Particulars
+
+Securities premium
+
+Attributable to the eouitv holders of oarent
+Reserves and surplus
+Employee share based Capital Redemption
+payment reserve
+Reserve
+
+Retained earnings
+
+Balance as at 1 April 2025
+Profit for the period
+Other comprehensive loss for the period
+Total comorehensive income
+Employee share based payment expense (Refer Note 21)
+Issue of equity shares on exercise of share based awards during the period
+Final dividend paid (INR 50/- per share for financial year ended 31 March 2025)
+Balance as at 30 June 2025
+
+9,355.01
+
+9,372.84
+
+422.25
+
+12.50
+
+Balance as at 1 April 2026
+Profit for the period
+Other comorehensive loss for the oeriod
+Total comorehensive income
+Employee share based payment expense (Refer Note 21)
+Issue of equity shares on exercise of share based awards during the period
+Final dividend oaid /INR 50/- oer share for financial vear ended 31 March 2025)
+Balance as at 30 June 2026
+
+9,603.88
+
+487.74
+
+12.50
+
+17.83
+-
+
+124.06
+-
+
+9,727.94
+
+370.41
+
+12.50
+
+-
+
+-
+
+69.67
+{17.83)
+
+-
+
+-
+
+-
+
+434.65
+
+12.50
+
+70.97
+{124.06)
+
+Total other equity
+
+11,514.93
+1,535.41
+(22.03'
+1 513.38
+
+21,252.85
+1,535.41
+(22.03'
+1,513.38
+69.67
+
+(3,000.49'
+10027.82
+
+(3,000.49)
+19,835.41
+
+13,298.79
+1,722.38
+6.38
+1 728.76
+
+23,402.91
+1,722.38
+6.38
+1,728.76
+70.97
+
+(3,608.01
+11 419.54
+
+(3,608.01)
+21,594.63
+
+-
+
+-
+
+-
+
+-
+
+Gain of INR 6.38 and loss of INR 22.03 on remeasurement of defined employee benefit plans(net of tax) is recognised as a part of retained earnings for the period ended 30 June 2026 and 30 June 2025 respectively.
+
+The accompanying notes are an integral part of the condensed consolidated interim financial statements.
+
+As per our report of even date attached
+For B S R & Co. LLP
+Chartered Accountants
+!CAI Firm Registration No. 101248W/W-100022
+
+DAVID JULIAN
+
+JONES
+
+David Jones
+Partner
+Membership No : 098113
+Place: Bali
+Date: 21 July 2026
+
+For and on behalf of the Board of Directors of
+IndiaMART InterMESH Limited
+
+Dinesh
+Chandra
+Agarwal
+
+Digitally signed by
+DineshChandra
+Agarwal
+
+Date: 2026.07.21
+12:18:05 +05'30'
+
+Dinesh Chandra Agarwal
+(Managing Director and CEO)
+DIN:00191800
+Digitally signed
+JITIN byJITINDIWAN
+Date: 2026.07.21
+DIWAN 12:14:06 +05'30'
+
+Jitin Diwan
+(ChiefFinancial Officer)
+
+Place: Noida
+Date: 21 July 2026
+
+Brijesh
+Kumar
+Agrawal
+
+Dlgltally signed by
+
+Brijesh Kumar
+Agrawal
+Date: 2026.0721
+12:21:11 +05'30'
+
+Brijesh Kumar Agrawal
+(Whole-time director)
+DIN:00191760
+signed
+Manoj Digitally
+byManoJ
+Bhargava
+Bharga Date:
+
+va
+
+2026.07.21
+12:08:38+05'30'
+
+Manoj Bhargava
+(Company Secretary)
+
+
+IndiaMART Intermesh Limited
+Notes to condensed consolidated interim financial statements for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+1. Corporate Information
+The condensed consolidated interim financial statements comprise the condensed interim financial statements of
+IndiaMART lntermesh Limited (''the Company") and its subsidiaries (collectively referred to as ''the Group") and its
+associates.
+The Company is a public company domiciled in India and was incorporated on 13 September 1999 under the provisions
+of the Companies Act applicable in India. The equity shares of the Company are listed on BSE Limited and National Stock
+Exchange of India. The Company provides an online B2B marketplace for business products and services. It provides an
+online B2B marketplace for business products and services. It provides a platform to discover products and services and
+connect with the suppliers of such products and services . The registered office of the Company is located at 1st Floor, 29Daryagang, Netaji Subash Marg New Delhi-110002, India.
+The condensed consolidated interim financial statements were authorised for issue in accordance with a resolution passed
+by Board of Directors on 21 July 2026.
+2. Material Accounting Policies
+(a) Statement of compliance
+The condensed consolidated interim financial statements for the period ended 30 June 2026 have been prepared in
+accordance with Indian Accounting Standard (referred to as "Ind AS") 34, Interim Financial Reporting and other Ind AS s
+notified under the Companies (Indian Accounting Standards) Rules, 2015 (as amended from time to time) and other
+relevant provisions of the Companies Act, 2013 (''the Act") (as amended from time to time). These condensed consolidated
+interim financial statements must be read in conjunction with the consolidated financial statements for the year ended 31
+March 2026. They do not include all the information required for a complete set of Ind AS financial statements. However,
+selected explanatory notes are included to explain events and transactions that management believes are significant to an
+understanding of the changes in the Group's financial position and performance since the last annual consolidated financial
+statements.
+All amounts disclosed in the condensed consolidated interim financial statements have been rounded off to the nearest INR
+million as per the requirement of Schedule III to the Companies Act, 2013, unless otherwise stated.
+(b) Basis of Preparation
+The condensed consolidated interim financial statements have been prepared on the historical cost basis, except for certain
+financial assets and liabilities measured at fair value or amortised cost at the end of each reporting period.
+All assets and liabilities have been classified as current and non-current as per the Group's normal operating cycle. Based
+on the nature of services rendered to customers and time elapsed between deployment of resources and the realisation in
+cash and cash equivalents of the consideration for such services rendered, the Group has considered an operating cycle of
+12 months.
+The statement of cash flows has been prepared under the indirect method. The preparation of these condensed consolidated
+interim financial statements requires the use of certain critical accounting estimates and judgements. It also requires the
+management to exercise judgement in the process of applying the Group's accounting policies. The areas where estimates
+are significant to the condensed consolidated interim financial statements, or areas involving a higher degree of judgement
+or complexity, are disclosed in Note 3.
+(c) Basis of consolidation
+The Company consolidates all entities which are controlled by it. The Company establishes control when; it has power
+over the entity, is exposed, or has rights, to variable returns from its involvement with the entity and has the ability to affect
+the entity's returns by using its power over relevant activities of the en tity.
+Entities controlled by the Company are consolidated from the date control commences until the date control ceases. All
+inter-company transactions, balances, income and expenses are eliminated in full on consolidation.
+
+
+IndiaMART Intermesh Limited
+Notes to condensed consolidated interim financial statements for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+Changes in the Company's interests in subsidiaries that do not result in a loss of control are accounted for as equity
+transactions.
+An associate is an entity over which the Group has significant influence, but not control or joint control over financial and
+operating policies. Investments in associates are accounted for using the equity method of accounting, after initially being
+recognized at cost. The aggregate of the Group's share of profit and loss of an associate is shown on the face of the
+condensed consolidated interim statement of profit and loss.
+(d) Revenue from contracts with customers and other income
+Revenue from contracts with customers
+The Group is primarily engaged in providing web related services and accounting software services. Revenue from
+contracts with customers is recognised when control of the services is transferred to the customer at an amount that reflects
+the consideration to which the Group expects to be entitled in exchange for those services and excluding taxes or duties
+collected on behalf of the government.
+The disclosures of significant accounting judgements, estimates and assumptions relating to revenue from contracts with
+customers are provided in Note 3.
+The specific recognition criteria described below must also be met before revenue is recognised.
+Rendering of services
+Revenue from web services is recognised based on output method i.e. pro-rata over the period of the contract as and when
+the Group satisfies performance obligations by transferring the promised services to its customers. Revenues from lead
+based services is recognised based on output method i.e. as and when leads are consumed by the customer or on the expiry
+of contract whichever is earlier. Activation revenue is amortised over the estimated customer relationship period.
+Revenue from term license software for accounting software services is recognized at a point in time when control is
+transferred to the end user. Control is transferred when the end user activates the license procured from the Company. In
+case of renewals of proprietary term licenses with existing customers, revenue from term license is recognized at a point
+in time when the renewal is activated by the end user. Revenue from support and subscription (S&S) is recognized over
+the contract term on a straight-line basis as the Company is providing a service of standing ready to provide support, whenand-if needed, and is providing unspecified software upgrades on a when-and-if available basis over the contract term. In
+case softwares are bundled with support and subscription for term based license, such support and subscription contracts
+are generally priced as a percentage of the net fees paid by the customer to purchase the license and are generally recognized
+as revenues rateably over the contractual period that the support services are provided.
+Revenue from sale of services is based on the fixed price agreed with the customers, net of discounts.
+Advertising revenue is derived from displaying web based banner ads and sale of online advertisements. Revenue from
+banner advertisement is recognised pro rata over the period of display of advertisement as per contract. Revenue from sale
+of online advertisements is recognised based on output method and the Group applies the practical expedient to recognize
+advertising revenue in the amount to which the Group has a right to invoice.
+Contract balances
+Trade receivables
+
+A receivable represents the Group's right to an amount of consideration that is unconditional (i.e., only the passage of time
+is required before payment of the consideration is due). Refer to accounting policies of financial assets in section o)
+Financial instruments.
+Contract liabilities
+A contract liability is the obligation to transfer goods or services to a customer for which the Group has received
+consideration (or an amount of consideration is due) from the customer. If a customer pays consideration before the Group
+transfers services to the customer, a contract liability is recognised. The Group recognises contract liability for
+consideration received in respect of unsatisfied performance obligations and reports these amounts as deferred revenue and
+advances from customers in the balance sheet. The unaccrued amounts are not recognised as revenue till all related
+
+
+IndiaMART Intermesh Limited
+Notes to condensed consolidated interim financial statements for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+performance obligations are fulfilled. The Group generally receives transaction price in advance for contracts with
+customers that run up for more than one year. The transaction price received in advance does not have any significant
+financing component as the difference between the promised consideration and the cash selling price of the service arises
+for reasons other than the provision of finance.
+Other income
+Interest income
+For all financial assets measured at amortised cost, interest income is recorded using the effective interest rate (EIR). EIR
+is the rate that exactly discounts the estimated future cash payments or receipts over the expected life of the financial
+instrument or a shorter period, where appropriate, to the net carrying amount of the financial asset or to the amortised cost
+of a financial liability. When calculating EIR, the Group estimates the expected cash flows by considering all the
+contractual terms of the financial instrument but does not consider the expected credit losses. Interest income is included
+in other income in the statement of profit and loss.
+Dividends
+Dividend is recognised when the Group's right to receive the payment is established, which is generally when shareholders
+approve the dividend.
+(e) Business combinations, goodwill and Intangibles
+Business combinations are accounted for using the acquisition method. The cost of an acquisition is the aggregate of the
+consideration transferred which is measured at fair value at the acquisition date and the amount of any non-controlling
+interest in the acquiree. For each business combination, the Group measures the non-controlling interest in the acquiree at
+fair value. Acquisition related costs are expensed as incurred. Any contingent consideration to be transferred by the acquirer
+is recognized at fair value at the acquisition date. Contingent consideration classified as financial liability is measured at
+fair value with changes in fair value recognized in the statement of profit and loss.
+Goodwill is initially measured at cost, being the excess of the aggregate of the consideration transferred and the amount
+recognized for non-controlling interest, and any previous interest held, over the net identifiable assets acquired and
+liabilities assumed. If the fair value of the net assets acquired is in excess of the aggregate consideration transferred, the
+excess is recognized as capital reserve after reassessing the fair values of the net assets.
+Intangible assets acquired in a business combination are measured at their fair value at the date of acquisition.
+Goodwill is tested annually on annually on interim dates, for impairment, or sooner whenever there is an indication that
+goodwill may be impaired, relying on a number of factors including operating results, business plans and future cash flows.
+
+For the purpose of impairment testing, goodwill acquired in a business combination is allocated to the Group's cash
+generating units (CGU) expected to benefit from the synergies arising from the business combination. A CGU is the
+smallest identifiable group of assets that generates cash inflows that are largely independent of the cash inflows from other
+assets or group of assets.
+Impairment occurs when the carrying amount of a CGU including the goodwill, exceeds the estimated recoverable amount
+of the CGU. The recoverable amount of a CGU is the higher of its fair value less cost to sell and its value-in-use. Valuein-use is the present value of future cash flows expected to be derived from the CGU. Total impairment loss of a CGU is
+allocated first to reduce the carrying amount of goodwill allocated to the CGU and then to the other assets of the CGU,
+pro-rata on the basis of the carrying amount of each asset in the CGU. An impairment loss on goodwill recognized in the
+statement of profit and loss is not reversed in the subsequent period.
+3. Significant accounting estimates and assumptions
+The preparation of condensed consolidated interim financial statements in conformity with Ind AS requires the
+management to make judgments, estimates and assumptions that affect the reported amounts of revenues, expenses, assets
+and liabilities and the disclosure of contingent liabilities, at the end of the reporting period. The significant judgements
+
+
+IndiaMART Intermesh Limited
+Notes to condensed consolidated interim financial statements for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+made by management in applying the Group 's accounting policies and key sources of estimation and uncertainty were the
+same as those described in the last annual consolidated financial statements for the year ended 31 March 2026.
+Measurement of fair values
+The Group records certain financial assets and liabilities at fair value on a recurring basis. The Group determines fair values
+based on the price it would receive to sell an asset or pay to transfer a liability in an orderly transaction between market
+participants at the measurement date in the principal or most advantageous market for that asset or liability.
+
+The Group's management determines the policies and procedures for recurring fair value measurement, such as investment
+in equity instruments and preference instruments, investments in mutual funds, exchange traded funds, bonds, debentures,
+government securities, units of investment trust and units of alternative investment funds measured at fair value.
+The Group uses valuation techniques that are appropriate in the circumstances and for which sufficient data are available
+to measure fair value, maximising the use of relevant observable inputs and minimising the use of unobservable inputs.
+All assets and liabilities for which fair value is measured or disclosed in the condensed consolidated interim financial
+statements are categorised within the fair value hierarchy, described as follows, based on the degree to which the inputs to
+the fair value measurements are observable and the significance of the inputs to the fair value measurement in its entirety:
+Quoted (unadjusted) market prices in active markets for identical assets or liabilities
+(i)
+Level 1
+inputs, other than quoted prices included within Level 1, that are observable for the asset or
+(ii)
+Level 2
+liability, either directly or indirectly; and
+Unobservable inputs for the asset or liability reflecting Group's assumptions about pricing by
+(iii)
+Level 3
+market participants
+For assets and liabilities that are recognised in the condensed consolidated interim financial statements on fair value on a
+recurring basis, the Group determines whether transfers have occurred between Levels in the hierarchy by re-assessing
+categorisation (based on the lowest level input that is significant to the fair value measurement as a whole) at the end of
+each reporting period.
+When applicable, further information about the assumptions made in determining fair values is disclosed in the notes
+specific to that asset or liability.
+4. Segment Information
+Operating segments are defined as components of an enterprise for which discrete financial information is available that is
+evaluated regularly by the chief operating decision maker, in deciding how to allocate resources and assessing performance.
+The Group has identified two business segments namely "Web and related Services" and "Accounting Software Services"
+as reportable segments based on the nature of the products, the risks and returns, the organization structure and the internal
+financial reporting systems.
+Web and related services pertain to online B2B marketplace for business products and services. It provides a platform to
+discover products and services and connect with the suppliers of such products and services. Accounting software services
+include business of development, system analysis, designing and marketing of integrated business accounting software to
+help and manage businesses with increased efficiency.
+The accounting principles used in the preparation of the condensed consolidated interim financial statements are
+consistently applied to record revenue and expenditure in individual segments and are as set out in Note 2 on material
+accounting policies. The accounting policies in relation to segment accounting are as under:
+(a) Segment revenue and expenses
+Segment revenue is directly attributable to the segment and segment expenses have been allocated to various segments on
+the basis of specific identification. However, segment revenue does not include other income.
+(b) Segment assets and liabilities
+Assets and liabilities directly attributable or allocable to segments are disclosed under each reportable segment.
+
+
+IndiaMART InterMESH Limited
+Notes to Condensed Consolidated Interim Financial Statements for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+SA Property, plant and equipment
+Computers
+
+Office equipments
+
+Gross carrying amount
+As at 01 April 2025
+Additions for the year
+Disposals for the year
+As at 31 March 2026
+Additions for the period
+Disposals for the period
+As at 30 June 2026
+
+389.59
+11.95
+(5.14)
+396.40
+0.53
+(28.08)
+368.85
+
+52.09
+4.88
+(2.72)
+54.25
+0.35
+(0.61)
+53.99
+
+Accumulated depreciation and impairment
+As at 01 April 2025
+Charge for the year•
+Disposals during the year
+As at 31 March 2026
+Charge for the period
+Disposals during the period
+As at 30 June 2026
+
+331.22
+39.40
+(4.86)
+365.76
+4.73
+(27.40)
+343.09
+
+44.82
+4.70
+(2.66)
+46.86
+0.86
+(0.60)
+47.12
+
+Net Carrying value
+As at 1 April 2025
+As at 31 March 2026
+As at 30 June 2026
+
+58.37
+30.64
+25.76
+
+7.27
+7.39
+6.87
+
+Leasehold
+
+Furniture and
+fixtures
+
+Motor vehicles
+
+3.87
+2.49
+
+7.27
+
+11.50
+
+6.36
+0.03
+
+7.27
+
+11.50
+
+6.39
+
+7.27
+
+11.50
+
+1.67
+1.04
+
+4.77
+0.77
+
+2.11
+2.32
+
+2.71
+0.25
+
+5.54
+0.13
+
+4.43
+0.58
+
+2.96
+
+5.67
+
+5.01
+
+384.59
+48.23
+(7.52)
+425.30
+6.55
+(28.00)
+403.85
+
+2.20
+3.65
+3.43
+
+2.50
+1.73
+1.60
+
+9.39
+7.07
+6.49
+
+79.73
+50.48
+44.15
+
+Improvement
+
+• Capital work in progress incurred towards construction of boundary wall on leasehold land (refer note 5B for details related to leasehold land).
+
+Total Property, plant
+and equipment
+
+Capital work in
+progress•
+
+464.32
+19.32
+(7.86)
+475.78
+0.91
+(28.69)
+448.00
+
+1.77
+
+1.77
+
+1.77
+
+1.77
+
+1.77
+
+1.77
+
+
+IndiaMART lnterMESH Limited
+Notes to Condensed Consolidated Interim Financial Statements for the period ended 30 June 2026
+(Amounts in INR million, unless otherwise stated)
+5B Right-of-use asset
+Leasehold land
+(refer note 1 below)
+
+Buildings
+
+37.12
+
+849.48
+6.58
+(5.84)
+850.22
+10.80
+861.02
+
+886.60
+6.58
+(5.84)
+887.34
+10.80
+898.14
+
+Accumulated depreciation and amortisation and impairment _ _ _ _ _ _ _ __
+37.12
+As at 01 April 2025
+Charge for the year
+Disposals for the year (refer note 2 below)
+37.12
+As at 31 March 2026
+Charge for the period
+37.12
+As at 30 June 2026
+
+597.65
+93.78
+(5.08)
+686.35
+20.41
+706.76
+
+634.77
+93.78
+(5.08)
+723.47
+20.41
+743.88
+
+Net Carrying value
+As at 01 April 2025
+As at 31 March 2026
+As at 30 June 2026
+
+251.83
+163.87
+154.26
+
+251.83
+163.87
+154.26
+
+As at 01 April 2025
+Additions for the year
+Disposals for the year (refer note 2 below)
+As at 31 March 2026
+Additions for the period
+As at 30 June 2026
+
+37.12
+
+Total
+
+37.12
+
+1. The Company had received a letter issued by the authorities during the year ended 31 March 2024 which includes reference of order cancelling the land lease deed as per the
+terms of the lease arrangement. An appeal against the order has been filed for restoration of the cancelled lease which is currently pending before the appropriate authority.
+However, pursuant to limited visibility on potential outcome of the appeal, the Right to Use asset recognised in respect of such leasehold land and Capital work in progress related
+to this lease was fully provided in March' 2024.
+During the pendency of the appeal, the Company had filed a writ petition before the Allahabad High Court for directions to Infrastructure & Industrial Development (IID) to grant
+early hearing for the pending appeal, the Hon'ble High Court directed the 11D to hear and dispose off the appeal at the earliest and also directed N oida authority to not to take any
+adverse action till disposal of such appeal.
+2. Disposal includes adjustment on account of lease modifications.
+6A Goodwill
+As at 30 June 2026
+
+Acquistions through business combinations
+
+As at 31 March 2026
+
+4 542.72
+
+4 542.72
+
+The following table presents the changes in the carrying value of goodwill based on identified CGUs:
+
+Closing balance as at 01 April 2025
+Changes during the year
+Closing balance as at 31 March 2026
+Changes during the period
+Closing balance as at 30 June 2026
+
+Busy Infotech Private
+Limited
+4,122.34
+
+4,122.34
+-
+
+4,122.34
+
+Livekeeping Technologies
+Private Limited
+420.38
+
+420.38
+-
+
+420.38
+
+Total
+4,542.72
+
+-
+
+4,542.72
+4,542.72
+
+The Group tests goodwill for impairment annually on interim dates, or more frequently when there is indication for impairment. For the purpose of impairment
+testing, goodwill is allocated to a CGU representing the lowest level within the Group at which goodwill is monitored for internal management purposes, and
+which is not larger than the Group's operating segment.
+
+

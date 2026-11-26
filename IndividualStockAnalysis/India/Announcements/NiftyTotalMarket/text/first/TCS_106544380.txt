@@ -1,0 +1,138 @@
+ 
+ 
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+ 
+TCS/PR/SE/ 71/2025-26 
+ 
+February 25, 2026  
+ 
+National Stock Exchange of India Limited               BSE Limited  
+Exchange Plaza, C -1, Block G,                P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)    Dalal Street,  
+Mumbai - 400051         Mumbai - 400001  
+Symbol - TCS                   Scrip Code No. - 532540  
+  
+ 
+Dear Sirs,  
+ 
+Sub: Press Release  
+ 
+We are sending herewith copy of the Press Release titled  “TCS and GitLab partner to 
+bring AI‑powered orchestration to accelerate software innovation at scale ” which will 
+be disseminated shortly.  
+ 
+The Press release is self -explanatory.   
+ 
+Thanking you,  
+  
+Yours faithfully,  
+For Tata Consultancy Services Limited   
+ 
+ 
+ 
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+ 
+Encl: as above  
+ 
+ 
+Page 1 of 3 
+ 
+TCS and GitLab partner to bring AI‑powered orchestration to 
+accelerate software innovation at scale       
+ 
+Global collaboration to accelerate enterprise innovation through intelligent orchestration and agentic AI 
+automation across the DevSecOps lifecycle  
+ 
+SAN FRANCISCO| MUMBAI, February 25, 2026:  Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS), a 
+global leader in IT services, consulting, and business solutions , has partnered with GitLab Inc., the intelligent 
+orchestration platform for DevSecOps , to use intelligent orchestration and agentic AI automation to help 
+enterprises accelerate innovation velocity at scale .  
+This collaboration combines TCS’ expertise in AI -led enterprise transformation capabilities with GitLab's pre -
+built AI agents and intelligent  orchestration for software development. Together, TCS and GitLab will enable 
+customers to accelerate software delivery, enhance security, and orchestrate AI agents across the entire 
+software development lifecycle (SDLC) within their organization's full con text, standards, and guardrails.  
+Alex Picker, VP of Global Ecosystems, GitLab,  said, “TCS brings extensive industry experience and global scale 
+that enterprises need to maximize the value of GitLab Duo Agent Platform at scale. Together, we're enabling 
+joint customers to transform how they build and deliver software, orchestrating AI agents  across the entire 
+software development lifecycle with the governance, security, and support that enterprises require.”  
+Ashok Krish , Head - AI Practice, TCS said , “Transformation in the AI era requires not just modern tools, but a 
+fundamental reimagining of how software is built, secured, and delivered. Our strategic partnership with 
+GitLab is aimed at making AI real for enterprises. It enables us to bring AI -Native  DevSecOps capabilities to 
+our clients. This is particularly crucial as enterprises navigate the imperative of AI -led rapid software 
+development while maintaining reliability, security and compliance.”   
+The cornerstone of this partnership is helping customers implement GitLab Duo Agent Platform, which 
+enables organizations to orchestrate agentic AI automation across the software lifecycle. The platform 
+provides comprehensive agentic AI capabilities across  the software lifecycle, including Agentic chat, 
+Foundational agents prebuilt by GitLab experts, Custom agents to help automate complex development 
+tasks, External agent Integration with the very best AI tools, including Claude Code from Anthropic and Codex 
+CLI from OpenAI , and governance and security control. TCS will develop industry -specific AI workflow 
+templates and pre -built agents that address common use cases, enabling customers to adopt AI -powered 
+development practices to accelerate time -to-value.  
+The partnership will also focus on modernizing legacy software development practices and implementing 
+GitLab's comprehensive platform to create seamless, automated workflows from planning to production. TCS 
+will leverage GitLab's unified platform to help e nterprises consolidate fragmented tool chains, reducing 
+complexity while improving visibility, security, and compliance across the SDLC. TCS’ proven methodologies 
+and GitLab’s scalable architecture will support large -scale migrations and transformations fo r global 
+enterprises with complex, multi -team development environments.  
+The association will benefit enterprises across sectors , modernize operations , and build efficient workflows. 
+For instance, it will help meet the demands of leading telecommunications providers and media companies 
+that need to accelerate 5G service rollouts, modernize content delivery platforms, and implement AI -driven 
+ 
+Page 2 of 3 
+ 
+customer experiences at scale . Additionally, GitLab’s Intelligent Orchestration Platform  and TCS’ expertise in 
+the financial sector can enable faster innovation without compromising compliance to modernize core 
+banking systems. Strong traction is also emerging through retail, manufacturing, healthcare, and public 
+sector organizations.  
+It will also address critical enterprise challenges in DevSecOps transformation and AI -enabled software 
+delivery. TCS will combine its industry expertise with GitLab's unified DevSecOps platform to deliver 
+comprehensive transformation services, including i nitial assessments, migration roadmaps, custom agent 
+development, industry -specific accelerators, and managed platform services. TCS Centers of Excellence will 
+provide ongoing enablement, change management, and enterprise support.  
+About GitLab  
+GitLab is the intelligent orchestration platform for DevSecOps . GitLab enables organizations to increase 
+developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate 
+digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust 
+GitLab to ship better, more secure software faster.  
+      
+*Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on 
+GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in 
+June 2025. Fortune and Fortune Media IP Limite d are not affiliated with, and do not endorse products or 
+services of GitLab.  
+About Tata Consultancy Services Ltd (TCS)  
+Tata Consultancy Services (BSE: 532540, NSE: TCS) is the technology partner of choice for industry -leading 
+organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service . 
+It has set an aspiration to become the world's largest AI -led technology services company and is enabling its 
+clients to transform themselves across the full AI stack, from infrastructure to intelligence.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce spread across 55 
+countries and 202 service delivery centers acro ss the world, the company has been recognized as a top 
+employer in six continents. With the ability to rapidly apply and scale new technologies, the company has 
+built long term partnerships with its clients – helping them emerge as perpetually adaptive ent erprises. Many 
+of these relationships have endured into decades and navigated every technology cycle, from mainframes in 
+the 1970s to artificial intelligence today.  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025.  For 
+more information, visit  www.tcs.com  
+Follow TCS on  LinkedIn | Instagram  | YouTube | X 
+ 
+Page 3 of 3 
+ 
+      
+TCS Media Contacts:  
+Corporate 
+Communication 
+& India   Email:  corporate.communications@tcs.com  
+Email:  santosh.castelino@tcs.com  | Phone: +91 22 6778 9999  
+ 
+USA   Email:  andrew.corcione@tcs.com  | Phone: +1  646 617 8221  
+ 
+### 

@@ -1,0 +1,67 @@
+ 
+ 
+ 
+The Federal Bank Ltd. Registered Office: Federal Towers, P O Box No.103, Aluva, Ernakulam, Kerala, India 683 101  
+E-mail: secretarial@federalbank.co.in| Phone: 0484-2622263 CIN:  L65191KL1931PLC000368,  
+website: www.federalbank.co.in 
+ 
+Secretarial Department 
+  
+ SEC/LODR/223/2024-25                                                                                     September 19, 2024 
+                                                                                                                                          
+National Stock Exchange of India Limited  
+Listing Department 
+Exchange Plaza, Bandra-Kurla Complex, 
+Bandra (E), 
+Mumbai – 400 051  BSE Limited 
+Department of Corporate Services- Listing 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street, Fort, 
+Mumbai – 400 001  
+ 
+Re: Scrip Symbol: FEDERALBNK/ Scrip Code: 500469 
+ 
+Dear Madam/ Sir,  
+ 
+Sub: Reg 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 - 
+Clarification on False Data Breach Allegations 
+ 
+We wish to address recent social media posts and claims made on the X platform (formerly Twitter) and a 
+Telegram channel, alleging a breach of the Bank’s database. These claims have been thoroughly 
+investigated and found to be false. 
+ 
+Summary of Findings:  
+ 
+Nature of the Claim  : A threat actor has posted data purportedly taken from Federal Bank's systems. Upon 
+analysis, the data is identical to a set that was exposed during a ransomware incident involving FedFina, 
+a subsidiary of Federal Bank, in July 2022.  
+ 
+The Bank further clarifies that the data posted on social media is a duplicate of information associated with 
+the resolved FedFina incident of July 2022  and has no connection to Federal Bank’s current operations. 
+ 
+Please note, FedFina has filed a separate announcement addressing this matter.  
+ 
+The Bank has taken a series of proactive measures such as: 
+o The Security Operations Center  (SOC) continues to monitor network activity to detect any suspicious 
+or malicious behavior. 
+o Threat intelligence partners  have been alerted to monitor dark web discussions related to Federal 
+Bank. 
+o The Database Monitoring and Application Monitoring  teams are on high alert for any irregularities, 
+ensuring that critical systems remain secure. 
+o FedFina  remains vigilant in light of the recycled data. 
+ 
+We reiterate its commitment to ensuring the safety and integrity of its systems and the protection of its 
+customers' data. We assure our stakeholders that our systems remain secure, and there has been no 
+breach of Federal Bank’s database 
+ 
+Kindly take the same on record. 
+ 
+Thanking you, 
+ 
+Yours faithfully, 
+ 
+For The Federal Bank Limited 
+ 
+ 
+Samir P Rajdev  
+Company Secretary 

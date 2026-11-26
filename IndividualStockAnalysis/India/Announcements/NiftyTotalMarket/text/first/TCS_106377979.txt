@@ -1,0 +1,142 @@
+9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Tel 91 22 6778 9595 Fax 91 22 6630 3672  e-mail corporate.office@tcs.com  website www.tcs.com  
+Registered Office 9th Floor Nirmal Building Nariman Point Mumbai 400 021  
+Corporate Identity No. (CIN): L22210MH1995PLC084781  
+TCS/PR/SE/ 39/2025-26 
+September 19, 2025  
+National Stock Exchange of India Limited     BSE Limited  
+Exchange Plaza, C -1, Block G,  P. J. Towers,  
+Bandra Kurla Complex, Bandra (East)  Dalal Street,  
+Mumbai - 400051  Mumbai - 400001  
+Symbol - TCS   Scrip Code No. - 532540  
+Dear Sirs,  
+Sub: Press Release  
+We are sending herewith copy of the Press Release titled “ TCS to Power Retailers with 
+NVIDIA Accelerated Computin g” which will be disseminated shortly.  
+The Press release is self -explanatory.  
+Thanking you,  
+Yours faithfully,  
+For Tata Consultancy Services Limited  
+Yashaswin Sheth  
+Company Secretary  
+ACS 15388  
+Encl: as above  
+ 
+Page 1 of 3 
+ 
+ 
+ 
+TCS to Power Retailers with NVIDIA Accelerated Computing   
+Tata Consultancy Services bolsters its innovative AI platforms and solutions with NVIDIA accelerated 
+computing to help retailers drive operational efficiencies, innovation, and growth  
+ 
+SANTA CLARA, CA  | MUMBAI,  September  19, 2025 : Tata Consultancy Services  (TCS) (BSE: 532540, NSE: TCS) 
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a global leader in IT services, consulting, and 
+business solutions , is integrating NVIDIA accelerated computing to help global retailers rapidly and efficiently 
+adopt next -generation AI capabilities at lower costs. TCS has embedded NVIDIA  AI Enterprise  software into 
+its bouquet of retail products and solutions to drive innovation, differentiation, and growth for retailers 
+worldwide. Through the partnership, TCS is infusing NVIDIA’s advanced AI, computer vision, and digital twin 
+capabilities into its ret ail offerings.  
+Leveraging the latest technology, multimodal data, domain -specific accelerators and TCS’ deep retail industry 
+experience, this partnership will allow retailers to derive actionable insights, attain precision and agility, build 
+intelligent automation, and d rive more proactive and evidence -based decisions that will give them a 
+competitive edge. A strategic business and technology partner to the world’s top 10 retailers and many more, 
+TCS and its retail industry experts leverage proprietary AI -powered platform s (TCS Optumera ™ and TCS 
+Omnistore ™) to deliver transformation, end to end.  
+Krishnan Ramanujam, President, Consumer Business Group, TCS, said, “At TCS, we help retailers gain a 
+competitive advantage and unlock new sources of growth by combining our deep domain experience with 
+next -generation technology at speed and scale. Together with NVIDIA, we are setting a new standard for AI 
+excellence, superior store operations, and dynamic supply chain management i n an industry that demands 
+constant innovation and agility.”  
+Based on deep industry knowledge and past projects that have leveraged various existing technologies in the 
+market, TCS estimates that retailers who use its solutions on an NVIDIA technology stack , stand to potentially 
+save up to 75% cost in executing the same operations as compared to other similar solutions. TCS has 
+developed several specialized solutions for retailers spanning generative AI for hyper personalized content 
+creation, video analytics  for intelligent inventory management, AI -powered real -time  insights on competitor 
+pricing, and many more.  
+Some examples of the TCS retail solutions on NVIDIA and their impact include:  
+● Scalable Enterprise Generative AI Adoption Powered by TCS AI WisdomNext ™: GenAI aggregator 
+platform TCS AI WisdomNext ™ is now acceler ated with NVIDIA AI Enterprise . This allows retailers to 
+experiment with GenAI solutions in real time, allowing faster AI adoption, lower cost, and higher 
+productivity for retailers. Leveraging NVIDIA  NIM and NeMo microservices  , its capabilities span 
+across enterprise -grade AI assistants, accelerated product onboarding, dynamic marketing creatives, 
+and retail -specific hyper -personalized content generat ion.   
+● Stores of the Future Powered by Video Analytics:  This computer vision -based solution uses 
+predictive AI to transform traditional stores into leaner and more intelligent spaces, helping reduce 
+theft and checkout time, while improving stock availability and productivity. Drawing inferences from 
+store data, it  suggests the next best actions proactively to improve operational efficiency.  It leverages 
+domain -specific AI models and TCS’ Image and Video Analytics Toolkit, built on NVIDIA Metropolis , a 
+ 
+Page 2 of 3 
+ 
+ 
+ 
+computer vision capability, for accurate and interactive video analytics and training.  
+TCS has already leveraged  the video analytics capability for a global retailer using the NVIDIA 
+technology stack. Further, TCS solutions have delivered measurable outcomes, including reductions 
+in inventory loss at self -check -out terminals by up to 15%, up to 20% lower customer wa it times 
+through queue management, curbed out -of-stock scenarios through shelf -monitoring and 
+replenishment by up to 20%, and improvement in in -store productivity through staffing forecasting 
+by up to 10%.  
+● AI Competitor DataBureau:  With this solution, retailers can achieve near -real-time intelligence on 
+competitor strategies across pricing, promotions, assortments, content, and marketing. This solution 
+helps retailers react to evolving scenarios and seize opportunities to increase m arket share and 
+revenue. Its deep attribute matching engine built using NVIDIA NeMo  enables product matching 
+across competitor catalogs with over 96% accuracy. Key business outcomes include a 3 -5% uplift in 
+revenue through dynamic price and assortment adjustments and faster time -to-action from weeks 
+to a few hours. In addition, retailers  can expect this partnership to bring additional capabilities that 
+address their pressing issues, such as making better, faster decisions on complex challenges in store 
+and at warehouses.  
+● Retail Simulation -as-a-Service : Using TCS’ retail -centric proprietary pricing, promotion, assortment, 
+and space intelligence platform, TCS Optumera ™— and NVIDIA  Omniverse  libraries, the two 
+companies are working to empower retailers to simulate complex ‘what -if’ scenarios before 
+executing decisions in the real world. Transformative use cases include planning, visualizing, and 
+optimizing the entire store layout; unified cat egory planning, optimization, and execution in stores; 
+and optimizing planograms — saving retailers money and time. Based on TCS’ estimate, simulation -
+as-a-service has potential to create collaborative planning and execution with productivity 
+improvements of 20% or more.  
+Azita Martin, Vice President and General Manager, Retail & CPG, NVIDIA, said,  “Retailers are turning to AI 
+— from agentic assistants and in -store computer vision to advanced data science and digital twins — to drive 
+transformation across every step of their value chain . By integrating NVIDIA’s technologies into their 
+platforms, TCS is able to help retailers automate operations, deliver personalized experiences, and simulate 
+business and operation scenarios with faster performance. Together, we’re taking these innovations directly 
+to customers, helping retail organizations achieve greater agility and tangible value at scale.”  
+TCS has a dedicated NVIDIA business unit that integrates NVIDIA's technology capabilities with TCS’ 
+contextual expertise to accelerate AI adoption for customers. There are 12 major solution offerings across 
+industries and nine centers of excellence driving innovation.  At the NVIDIA GTC 2025, TCS was recognized as 
+the Rising  Star for AI innovation and its industry -specific AI -led solutions. TCS is also leveraging NVIDIA’s AI 
+foundation training to skill its workforce in key areas, such as  NVIDIA Omniverse  libraries, large language 
+models, and AI -driven sales strategies.  
+  
+Tata  Consultancy  Services  Ltd (TCS)  
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner 
+of choice for industry -leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest 
+ 
+Page 3 of 3 
+ 
+ 
+ 
+standards of innovation, engineering excellence and customer service.  
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its 
+investors, its employees, and the community at large. With a highly skilled workforce of over 600,000 
+employee s in 55 countries and 202 service delivery centers across the world, the company has been 
+recognized as a top employer in six continents. With the ability to rapidly apply and scale new technologies, 
+the company has built long term partnerships with its cl ients – helping them emerge as perpetual ly adaptive 
+enterprises. Many of these relationships have endured into decades and navigated every technology cycle, 
+from mainframes in the 1970s to Artificial Intelligence today.  
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New 
+York City Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, 
+sustainability, and community empowerment.  
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025. For 
+more information, visit www.tcs.com Follow TCS on  LinkedIn | Instagram  | YouTube |  
+TCS media contacts:  
+Corporate Communications & 
+India  Email: corporate.communications@tcs.com  
+Email:  saxena.kritika@tcs.com | Phone: +91 22 6778 9999  
+Email:  santosh.castelino @tcs.com  | Phone: +91 22 67789098  
+ 
+ 
+### 
+ 
+ 
+ 

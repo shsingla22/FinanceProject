@@ -1,0 +1,241 @@
+ 
+ 
+ 
+  Ref.: SEC/ 423/2026 -27                          June 3, 202 6 
+ 
+The Secretary, Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers,  
+Dalal Street,  
+Mumbai - 400 001.  
+Maharashtra, India.  
+Scrip Code : 500470  The Manager, Listing Department  
+ National Stock Exchange of India Limited  
+ Exchange Plaza, 5th Floor, Plot No. C/1, 
+ G Block, Bandra -Kurla Complex,  
+ Mumbai - 400 051.  
+ Maharashtra, India.  
+ Symbol : TATASTEEL  
+ 
+Dear Madam, Sirs,  
+ 
+Sub: Business Responsibility and S ustainability Report for FY 2025 -26 
+ 
+Please find enclosed herewith the Business Responsibility and Sustainability Report of Tata 
+Steel  Limited (‘Company’) for FY 2025 -26 along with Independent Reasonable Assurance 
+Report on the BRSR Core Indicators (o n Standalone basis) provided by  Price  Waterhouse 
+& Co Chartered Accountants  LLP (collectively called ‘BRSR’) . The BR SR forms part of the 
+Company’s 1 1th Integrated Report & 11 9th Annual Accounts for the FY 2025 -26 (‘Integrated 
+Report’).  
+ 
+The BRSR  is available on the website of the Company at : 
+https://www.tatasteel.com/media/25901/brsr.pdf  
+ 
+The Integrated Report is available on the website of the Company at : 
+https://www.tatasteel.com/media/25902/tatasteel -iar-2025 -26.pdf  
+ 
+This is submitted pursuant to Regulation 34(2) and other applicable provisions of the 
+Securities and Exchange Board of India  (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, read with applicable SEBI Circulars, if any.  
+ 
+This is for your information and records.  
+ 
+Thanking you.  
+ 
+Yours faithfully,  
+Tata Steel  Limited  
+ 
+ 
+Parvatheesam Kanchinadham  
+Company Secretary and Chief Legal Officer  
+ 
+Encl.: BRSR  
+ 
+BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT  
+Financial Year 2025-26
+Index
+SECTION A: GENERAL DISCLOSURES 139
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES 150
+SECTION C: PRINCIPLE WISE PERFORMANCE DISCLOSURES 154
+ Principle 1: Businesses should conduct and govern themselves with integrity, and in a manner that is 
+ethical, transparent and accountable154
+ Principle 2: Businesses should provide goods and services in a manner that is sustainable and safe 157
+ Principle 3: Businesses should respect and promote the well-being of all employees, including those in 
+their value chains161
+ Principle 4: Businesses should respect the interests of and be responsive to all its stakeholders 173
+ Principle 5: Businesses should respect and promote human rights 175
+ Principle 6: Businesses should respect and make efforts to protect and restore the environment 181
+ Principle 7: Businesses, when engaging in influencing public and regulatory policy, should do so in  
+a manner that is responsible and transparent 191
+ Principle 8: Businesses should promote inclusive growth and equitable development 193
+ Principle 9: Businesses should engage with and provide value to their consumers in a responsible manner 196
+138
+
+139139
+119th Year  |  Integrated Report & Annual Accounts 2025-26Statutory Reports
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+S.  
+No.Particulars Company Details
+1 Corporate Identity Number (CIN) of the Listed Entity L27100MH1907PLC000260
+2 Name of the Listed Entity Tata Steel Limited
+3 Year of incorporation 1907
+4 Registered office address
+Bombay House, 24, Homi Mody Street, Fort, Mumbai – 400001
+5 Corporate address
+6 E-mail cosec@tatasteel.com
+7 Telephone +91 22 6665 8282
+8 Website www.tatasteel.com
+9 Financial year for which reporting is being done April 1, 2025 – March 31, 2026
+10 Name of the Stock Exchange(s) where shares are listed a. BSE Limited
+b. National Stock Exchange of India Limited
+11 Paid-up Capital (H in Crore) 1,248.60
+12 Name and contact details of the person who may be contacted 
+in case of any queries on the BRSR reportMr. Parvatheesam Kanchinadham  
+Company Secretary and Chief Legal Officer  
+Bombay House, 24, Homi Mody Street, Fort, Mumbai – 400 001  
+Tel.: +91 22 6665 7279 | E-mail: cosec@tatasteel.com
+13.  Reporting boundary - Are the disclosures under this report made on a standalone basis (i.e., only for the entity) 
+or on a consolidated basis (i.e., for the entity and all the entities which form a part of its consolidated financial 
+statements, taken together)?
+  The environmental, social and governance disclosures made in this report are disclosed both on a standalone and on a 
+consolidated basis for Tata Steel Limited. The consolidated disclosures of Tata Steel Limited include the performance of  
+Tata Steel Limited and its 9 key subsidiary companies, as listed below:
+Region Entity
+India (Parent Company) 1. Tata Steel Limited (‘ TSL’ )
+Subsidiaries in India 1. Tata Steel Downstream Products Limited (‘TSDPL’)
+2. Tata Steel Utilities and Infrastructure Services Limited (‘TSUISL’)
+3. Neelachal Ispat Nigam Limited (‘NINL’)
+4. Tata Steel Support Services Limited (‘TSSSL’)
+5. Tata Steel Technical Services Limited (‘TSTSL’ )
+Subsidiaries outside India 1. Tata Steel Nederland BV (‘TSN’)
+2. Tata Steel UK Limited (‘TSUK’)
+3. Tata Steel (Thailand) PLC (‘TSTH’)
+4. Tata Steel Minerals Canada Limited (‘TSMC’)
+  These companies constitute 99% of Tata Steel’s consolidated revenues, 95% employee base and 99% emission footprint.
+ Throughout this report, the following phrases have been used:
+ 1. Tata Steel Limited or Tata Steel Standalone: The boundary is only the standalone entity ‘Tata Steel Limited’.
+ 2. Tata Steel Indian Entities: The boundary is TSL, TSDPL, TSUISL, NINL, TSSSL and TSTSL.
+ 3.  Tata Steel Consolidated: The boundary is Tata Steel Indian entities, TSN, TSUK, TSTH, TSMC.
+140140Basis for reporting:
+1.  All the indicators have been computed without any adjustments on account of non-controlling interest, within the  
+reporting boundary.
+2.  Greenhouse Gas (GHG) emissions reported using the Greenhouse Gas protocol [Corporate Accounting & Reporting Standard 
+and Corporate Value Chain (Scope 3) Standard], consolidated based on operational control for key subsidiaries.
+3.  Inter-company adjustments have been undertaken (revenue, GHG emissions, and energy consumption), wherever 
+applicable.
+4.  The reported revenue, Capital Expenditure ('CAPEX '), Research & Development (' R&D ') expenditure and  Related Party 
+Transactions (' RPT ') have been disclosed on a consolidated basis (unless mentioned otherwise) and are aligned with the 
+consolidated financial statements of Tata Steel Limited for FY2025-26.
+5.  Energy consumption has been reported based on secondary and primary energy consumption, including feedstocks.
+6.  The reporting period for various indicators ranges from 1 - 3 years and is aligned with the prescribed format under the 
+Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 [ ‘SEBI Listing 
+Regulations’ ].
+Statement of Assurance
+14. Name of Assurance Provider
+  The Board of Directors ( ‘the Board’ ) of Tata Steel Limited has appointed Price Waterhouse & Co Chartered Accountants 
+LLP ( ‘PW & Co CA LLP’ ) for assurance on BRSR Core indicators and select indicators in the Integrated Report and Annual 
+Accounts FY2025-26.
+15. Type of Assurance Obtained
+  PW & Co CA LLP has undertaken reasonable assurance of the BRSR Core indicators on a standalone basis for FY2025-26. 
+Additionally, Tata Steel has opted to voluntarily disclose the BRSR Core indicators on a consolidated basis for the select 
+entities as mentioned above. 
+  In addition, PW & Co CA LLP has also undertaken the reasonable and limited assurance on a standalone basis or steel making 
+sites, of select Environmental, Social and Governance (' ESG ') indicators, which are part of the ESG factsheet published in 
+the Company’s Integrated Report.
+  Reasonable Assurance Report on BRSR Core indicators & select indicators in ESG factsheet and Limited Assurance Report 
+on select indicators in ESG factsheet issued by PW & Co CA LLP is annexed to Tata Steel’s Integrated Report for FY2025-26 
+and is accessible at: https://www.tatasteel.com/investors/integrated-reportannual-report/
+  It is to be noted that Tata Steel’s subsidiary companies - TSN and TSUK, are in the middle of significant restructuring due 
+to the planned transition to low emission steelmaking. As a result, while Tata Steel Limited has undergone assurance on a 
+standalone basis, it has also adopted a pathway to undertake assurance on a consolidated basis subsequent to transition.
+II. Products/services
+16. Details of business activities
+S.  
+No.Main Activity  
+Group CodeDescription of  
+Main Activity GroupBusiness Activity CodeDescription of  
+Business Activity% of Turnover  
+of the Company
+1 C Manufacturing C7 Metal and metal products 94.46
+ Note: The details of business activities as given in MGT- 7 for Tata Steel Limited.
+141141
+119th Year  |  Integrated Report & Annual Accounts 2025-26Statutory Reports
+17. Products/Services sold by the entity:
+S.
+No.Name of Product/Service NICTata Steel Consolidated Tata Steel Standalone
+Turnover ( J cr.) 
+FY2025-26% of Turnover  
+of the entityTurnover ( J cr.) 
+FY2025-26% of Turnover  
+of the entity
+1 Sale of Steel Products 2410 2,19,940.86 95 1,31,980.71 95
+2 Sale of Non-Steel Products - 8,209.13 3 4,464.54 3
+3 Sale of Power and Water 3510, 3600 1,955.95 1 1,517.78 1
+4 Income from Services - 187.53 - - -
+5 Others - 1,846.47 1 1,757.19 1
+Total 2,32,139.94 100 1,39,720.22 100
+ Note 1:   Above split is based on Tata Steel consolidated and standalone turnover as reported in Company’s Integrated Report FY2025-26.
+ Note 2: Others include income from export incentive schemes and other incentive schemes.
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants Number of offices Total
+India 78 46* 124
+Outside India 41 25 66
+ *Offices established and maintained by Tata Steel
+19. Markets served by the entity:
+a. Number of locations
+Locations Number
+National (No. of States) 28 States and 8 Union Territories
+International (No. of Countries) 88
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+  Tata Steel has a global export presence, serving international customers through strategically located subsidiaries.  
+It transparently reports sales across domestic and international markets, including direct exports by Tata Steel Limited  
+from India.
+Revenue - Tata Steel (Consolidated) Amt in J Crore
+Particulars FY2025-26 FY2024-25
+India 1,30,808.88 1,26,360.05
+Outside India 1,01,331.06 92,182.46
+Total 2,32,139.94 2,18,542.51
+  Note:  Sales outside India includes export revenue from India. The above split is based on Tata Steel Consolidated turnover as reported in the Company’s Integrated Report for 
+FY2025-26.
+142142Revenue - Tata Steel (Standalone) Amt in J Crore
+Particulars FY2025-26 FY2024-25
+Exports Revenue 10,670.67 7,700.45
+Total Revenue 1,39,720.22 1,32,516.66
+% of exports in total revenue 8% 6%
+c. A brief on types of customers
+  Tata Steel categorises its customers based on market segment, geography, and diverse route to market. Its key market 
+segments include, but are not limited to, Automotive, large-scale Construction and Infrastructure projects, General 
+Engineering applications, Packaging solutions, and Retail (such as Individual Housebuilders). While our strong India-based 
+operations primarily serve the domestic market, our extensive international footprint enables us to effectively support 
+customers across Europe, the United Kingdom, and Thailand, ensuring our products are precisely tailored to the unique 
+requirements of each region.
+ Customer accounts are grouped under the following Five categories:
+ 1.   Business-to-Business (B2B):  Major Original Equipment Manufacturers ( ‘OEMs’ ) in the automotive, large fabricators,  
+Engineering, Procurement, and Construction ( ‘EPC’ ), institutional buyers.
+ 2. Business-to-Emerging Corporate Accounts (B2ECA):  SMEs & emerging corporate accounts, often via channel partners.
+ 3.  Business-to-Consumers (B2C):  Individual house builders, retail buyers.
+ 4.   Business-to-Government (B2G):  Central or State government bodies, Public Sector Undertakings ( ‘PSUs’ ),  
+tender-driven procurement.
+ 5.  Business-to-Exports (B2E):  International OEMs, traders, project buyers.
+IV. Employees
+20. Details as at the end of Financial Year
+a. Employees and workers (including differently abled):
+S.  
+No.Particulars Total (A)Tata Steel Consolidated
+Male Female Others
+No. (B) % (B/A) No. (C) % (C/A) No. (D) % (D/A)
+Employees
+1 Permanent (E) 71,037 64,211 90.4 6,720 9.5 106 0.1
+2 Other than Permanent (F) 2,178 1,157 53.1 1,021 46.9 - -
+3 Total Employees (E+ F) 73,215 65,368 89.3 7,741 10.6 106 0.1
+Workers
+4 Permanent (G) 41,225 38,353 93.0 2,766 6.7 106 0.3
+5 Other than Permanent (H) 1,46,772  1,37,768  93.9  9,000  6.1 4 -
+6 Total workers (G + H) 1,87,997  1,76,121  93.7  11,766  6.2 110 0.1
+  Note 1:  ‘Permanent Employees’ (E) includes ‘Permanent Workers’ (G). ‘Permanent employees’ includes all personnel on rolls of the Company excluding those on fixed-
+term contracts, who are covered under ‘Other than Permanent employees’ (F). ‘Permanent workers’ (G) are on rolls of the Company but do not perform a managerial or 
+administrative role.
+ Note 2: ‘Other than Permanent Workers’ (H) include workforce hired through third party job contracts. A sizable number is engaged in carrying out expansion projects.
+ Note 3: ‘Others’ includes transgender personnel.

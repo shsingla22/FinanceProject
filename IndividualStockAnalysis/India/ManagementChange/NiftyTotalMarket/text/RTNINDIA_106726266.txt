@@ -1,0 +1,1177 @@
+August 05, 2026
+BSE Limited
+Phiroze Jeejeebhoy Towers,
+Dalal Street,
+Mumbai – 400 001
+
+National Stock Exchange of India Limited
+Exchange Plaza, Bandra Kurla Complex
+Bandra (East),
+Mumbai-400 051
+
+Scrip Code- 534597
+
+RTNINDIA
+
+Sub: Submission of Un-audited (Standalone and Consolidated) Financial Results of
+RattanIndia Enterprises Limited for the quarter ended June 30, 2026 and the Limited
+Review Report thereon.
+Dear Sir/Madam,
+Pursuant to Regulation 33 read with Schedule III to the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, we enclose hereto, for your information and
+records:
+(i)
+
+the Un-audited (Standalone and Consolidated) Financial Results of RattanIndia
+Enterprises Limited (“the Company”) for the quarter ended June 30, 2026, duly
+approved by the Board of Directors of the Company at its meeting held today, i.e. on
+August 05, 2026 (which commenced at 02:15 P.M. (IST) and concluded at 02:35 P.M.
+(IST).
+
+(ii)
+
+Limited Review Report dated August 05, 2026, issued by the Statutory Auditors of
+the Company, M/s Walker Chandiok & Co. LLP, on the aforesaid Un-audited
+(Standalone and Consolidated) Financial Results of the Company.
+
+Thanking you,
+Yours faithfully,
+For RattanIndia Enterprises Limited
+RAJESH
+KUMAR
+ARORA
+
+Digitally signed by RAJESH
+KUMAR ARORA
+DN: cn=RAJESH KUMAR ARORA,
+c=IN, st=Haryana, o=Personal,
+title=7316,
+serialNumber=a4f328096cb59a1f09
+70e94b33e59725b36b2ecaed30bb
+9e196259ccb324f2e1
+Date: 2026.08.05 14:54:26 +05'30'
+
+Rajesh Arora
+Company Secretary
+Encl : as above
+
+RattanIndia Enterprises Limited
+CIN: L74110DL2010PLC210263
+Registered Office: H. No. 51, Village Hauz Khas, Delhi – 110016
+Website: www.rattanindia.com, E-mail: rel@rattanindia.com
+
+
+RattanIndia
+----ENTERPRISES
+
+RattanIndia Enterprises Limited
+Statement of Consolidated Unaudited Financial Results for the Quarter Ended 30 June 2026
+
+Particulars
+1
+
+2
+3
+
+Revenue from operations
+(a) Interest income
+(b) Rental income
+(c) Fees and commission income
+(d) Net gain on fair value changes (refer note 4)
+(e) Sale of products/ services
+Total revenue from operations
+Other income
+Total income
+Expenses
+(a) Finance costs
+(b) Fees and commission expense*
+(c) Net loss on fair value changes (refer note 4)
+(d) Impairment of financial instruments
+(e) Cost of raw materials consumed
+(f) Purchase of stock-in-trade
+(g) Changes in inventories
+(h) Employee benefits expense
+(i) Depreciation and amortisation expense
+
+(j) Other expenses
+Total expenses
+4 Profit / (Loss) before share of profit in associate (1+2-3)
+5 Share of profit in associate (refer note 4)
+6 Profit I (Loss) before tax (4+5)
+7 Tax expenses
+(a) Current tax
+(b) Adjustment related to earlier years
+(c) Deferred tax (refer note 4)
+Total tax expenses
+8 Profit/ (Loss) for the period (6-7)
+9 Other comprehensive income
+(a) Items that will not be reclassified to profit or loss
+Income tax relating to items that will not be reclassified to profit or loss
+(b) Items that will be reclassified to profit or loss
+Income tax relating to items that will be reclassified to profit or loss
+Other comprehensive income (net of tax)
+10 Total comprehensive income/ (loss) for the period (8+9)
+11 Profit/ (loss) for the period attributable to:
+Equity holders of the Company
+Non-controlling interest
+Other comprehensive income attributable to
+Equity holders of the Company
+Non-controlling interest
+Total comprehensive (loss)/ income for the period attributable to:
+Equity holders of the Company
+Non-controlling interest
+12 Paid-up equity share capital (face value of Rs.2 per equity share)
+13 Other equity
+14 Earnings per share (EPS) (face value of Rs. 2 per equity share)
+*EPS for the quarter ended are not annualised
+-Basic (Rs.)
+-Diluted (Rs.)
+(See accompanying notes to the consolidated financial results)
+
+30.06.2026
+(Unaudited)
+
+Quarter ended
+31.03.2026
+(Audited)
+Refer Note 10
+
+(Rs. Million)
+Year ended
+31.03.2026
+(Audited)
+
+30.06.2025
+(Unaudited)
+
+16.75
+-
+
+19.66
+-
+
+19.68
+-
+
+78.56
+-
+
+16.78
+6.35
+
+13.52
+2.67
+
+7.89
+6,101.42
+
+39.05
+16.12
+
+18,664.88
+18,704.76
+8.11
+18,712.87
+
+16,930.42
+
+17,002.76
+
+75,171.41
+
+16,966.27
+9.30
+16,975.57
+
+23,131.75
+35.51
+23,167.26
+
+75,305.14
+64.72
+75,369.86
+
+194.71
+3,018.67
+1,351.23
+312.22
+12,163.91
+421.53
+331.46
+32.55
+391.05
+18,217.33
+(1,241.76)
+15.46
+(1,226.30)
+
+170.94
+3,257.50
+
+740.99
+13,093.48
+1,723.62
+1.22
+1,193.19
+58,914.87
+(1,741.11)
+1,542.14
+
+187.72
+3,310.11
+0.49
+230.95
+16,485.34
+(2,453.93)
+401.70
+31.75
+
+2.04
+249.69
+14,938.05
+(2,038.32)
+381.89
+33.63
+
+5,919.19
+
+138.69
+1,404.54
+77,011.63
+(1,641.77)
+15.46
+(1,626.31)
+
+117.26
+(242.56)
+(125.30)
+(1,101.00)
+
+25.30
+870.69
+895.99
+5,023.20
+
+352.48
+10.54
+(325.86)
+37.16
+(1,663.47)
+
+2.71
+150.06
+
+14.51
+(2.62)
+14.22
+26.11
+(1,074.89)
+
+1.95
+(0.28)
+0.16
+1.83
+5,025.03
+
+13.67
+(1.60)
+15.86
+27.93
+(1,635.54)
+
+151.01
+(3.66)
+147.35
+
+(1,102.81)
+1.81
+(1,101.00)
+
+5,027.23
+(4.03)
+5,023.20
+
+(1,654.19)
+(9.28)
+(1,663.47)
+
+2.71
+2.71
+
+26.05
+0.06
+26.11
+
+1.83
+1.83
+
+27.92
+0.01
+27.93
+
+153.72
+(3.66)
+150.06
+2,764.54
+
+(1,076.76)
+1.87
+(1,074.89)
+2,764.54
+
+5,029.06
+(4.03)
+5,025.03
+2,764.54
+
+(1,626.27)
+(9.27)
+(1,635.54)
+2,764.54
+4,920.16
+
+0.11*
+0.11*
+
+(0.80)*
+(0.80)*
+
+3.64*
+3.64*
+
+(1.20)
+(1.20)
+
+329.46
+18,523.59
+189.28
+91.71
+280.99
+136.82
+(3.18)
+133.64
+147.35
+3.17
+(0.39)
+(0.07)
+
+252.65
+17,248.07
+5,919.19
+
+* Includes platform selling fee
+
+to rp
+
+ai
+11
+
+r-
+
+9
+
+
+Notes to the Consolidated Financial Results:
+1
+
+Rattanlndia Enterprises Limited ("REL" or "the Holding Company"), its subsidiaries and associate are together referred to as "the Group" in the
+following notes.
+
+2
+
+The above consolidated financial results of the Group for the quarter ended 30 June 2026, have been reviewed by the Audit Committee on 5 August
+2026 and subsequently approved at the meeting of the Board of Directors ("the Board") held on 5 August 2026. The consolidated financial results
+have been reviewed by the statutory auditors of the Holding Company. The consolidated financial results have been prepared in accordance with the
+recognition and measurement principles of Indian Accounting Standards as notified under the Companies (Indian Accounting Standards) Rules, 2015
+(as amended) as specified in Section 133 of the Companies Act, 2013.
+
+3
+
+The Group is primarily engaged in the business of investing in technology focused new age businesses including retail e-commerce, electric vehicles,
+drones and others, through its subsidiary companies. The Holding Company qualifies to be an "Unregistered Core Investment Company" ('CIC') in
+terms of "Master Direction — Core Investment Companies (Reserve Bank) Directions, 2016" and consequently, is eligible to carry on business
+activities permissible to CIC, without obtaining registration from Reserve Bank of India under section 45-IA of the Reserve Bank of India Act, 1934.
+Therefore, the consolidated financial results have been prepared and presented in the format prescribed in the Division I I I of Schedule III to the
+Companies Act, 2013. The Company, therefore, presents "Investments" as a separate business segment, in terms of the requirements of Ind AS 108.
+Consolidated segment information:
+
+S.No.
+0)
+
+(ii)
+
+(iii)
+
+(iv)
+
+Particulars
+Segment Income
+(a) Retail- E-commerce business
+(b) EV (E-Motorcycles)
+(c) Investment (refer note 4)
+(d) Others
+Sub-Total
+Less: Inter segment revenue
+Total
+Segment Results
+(a) Retail- E-commerce business
+(b) EV (E-Motorcycles)
+(c) Investment (refer note 4)
+(d) Others
+Sub-Total
+Less: Inter segment eliminations
+Less: Finance cost
+Less: Depreciation expense
+Add: Other income
+Profit/ (loss) before tax
+Segment Assets
+(a) Retail- E-commerce business
+(b) EV (E-Motorcycles)
+(c) Investment
+(d) Others
+Unallocated
+Sub-Total
+Less: Inter segment eliminations
+Total Assets
+Segment Liabilities
+(a) Retail- E-commerce business
+(b) EV (E-Motorcycles)
+(c) Investment
+(d) Others
+Unallocated
+Sub-Total
+Less: Inter segment eliminations
+Total Liabilities
+
+30.06.2026
+(Unaudited)
+
+Quarter ended
+31.03.2026
+(Audited)
+Refer Note 10
+
+30.06.2025
+(Unaudited)
+
+Year ended
+31.03.2026
+(Audited)
+
+18,401.92
+269.14
+
+16,499.86
+333.09
+184.24
+17,017.19
+50.92
+16,966.27
+
+16,673.28
+333.98
+6,096.49
+71.06
+23,174.81
+43.06
+23,131.75
+
+73,684.02
+1,359.77
+442.14
+75,485.93
+180.79
+75,305.14
+
+99.20
+18,770.26
+65.50
+18,704.76
+528.16
+(86.56)
+91.71
+(40.48)
+492.83
+0.48
+187.72
+31.75
+8.11
+280.99
+
+409.74
+(62.32)
+(1,335.76)
+(19.37)
+(1,007.71)
+0.63
+194.71
+32.55
+9.30
+(1,226.30)
+
+97.59
+(64.42)
+6,096.49
+(40.70)
+6,088.96
+0.71
+170.94
+33.63
+35.51
+5,919.19
+
+1,327.50
+(292.59)
+(1,708.15)
+(136.04)
+(809.28)
+2.07
+740.99
+138.69
+64.72
+(1,626.31)
+
+17,982.43
+2,930.02
+8,883.08
+2,714.86
+183.27
+32,693.66
+2,152.97
+30,540.69
+
+17,845.54
+2,828.83
+8,791.37
+2,791.41
+175.53
+32,432.68
+4,723.80
+27,708.88
+
+14,145.04
+2,794.69
+16,512.66
+1,700.61
+105.30
+35,258.30
+1,287.97
+33,970.33
+
+17,845.54
+2,828.83
+8,791.37
+2,791.41
+175.53
+32,432.68
+4,723.80
+27,708.88
+
+11,524.90
+4,432.13
+151.58
+1,978.59
+6,745.53
+24,832.73
+2,152.97
+22,679.76
+
+11,746.60
+4,170.56
+138.43
+1,932.18
+6,748.38
+24,736.15
+4,723.80
+20,012.35
+
+8,850.49
+3,691.28
+1,254.40
+324.28
+6,858.53
+20,978.98
+1,287.97
+19,691.01
+
+11,746.60
+4,170.56
+138.43
+1,932.18
+6,748.38
+24,736.15
+4,723.80
+20,012.35
+
+v t.e rp
+O
+
+r-
+
+*
+
+
+4
+
+During the year ended 31 March 2026, up to 24 March 2026, the Group's investment in RattanIndia Power Limited ("RPL") was accounted for as a
+financial asset in accordance with Ind AS 109 and was measured at fair value through profit or loss. Accordingly. unrealised fair value losses
+recognised in the consolidated financial results for the year primarily pertain to the period up to the date on which significant influence was obtained.
+Effective 25 March 2026, upon obtaining significant influence, RPL has been classified as an associate and accounted for using the equity method in
+accordance with Ind AS 28, and share of profit/(loss) thereafter has been recognised under 'Share of profit in associate'. Therefore, subsequent
+changes in the market value of RPL are no longer recognised through profit or loss and the consolidated financial results reflect only the Group's
+share of profit/(loss) of RPL under the equity method.During the quarter ended 30 June, 2026, the Group recognised share of profit from RPL
+amounting to Rs. 91.71 million.
+Accordingly, the consolidated financial results include an unrealised fair value loss of Rs.1,723.62 million for the year ended 31 March 2026 (including
+Rs. 1,351.23 million for the quarter ended 31 March 2026) and an unrealised fair value gain of Rs. 6,096.49 million for the quarter ended 30 June
+2025 relating to RPL. The related tax impact had also been recognised in these consolidated financial results.
+
+5
+
+During the previous year ended 31 March 2026 the Holding company entered into Share Purchase Agreement with Neobrands for transfer of shares
+of its wholly owned subsidiary Company, Cocoblu Retail Limited ("Cocoblu") and received advance consideration in lieu of the same. Effective 9 April
+2026, the Holding Company has transferred its entire shareholding in Cocoblu to Neobrands, another wholly owned subsidiary of the Holding
+Company. Consequent to said transfer, there is no change in ultimate ownership or control of Cocoblu and it continues to remain a wholly owned step
+down subsidiary of the Holding Company. The transaction represents an internal reorganisation within the Group and, therefore, does not have any
+impact on the consolidated assets, liabilities, equity, revenue, expenses, profit/(loss) or cash flows of the Group.
+
+6
+
+Minority Shareholders of Throttle Aerospace Systems Private Limited ("TAS"), step down subsidiary of the Holding Company, have alleged certain
+matters against the Holding Company and others and have filed Petitions before the Bangalore NCLT Bench ('NCLT Bangalore') and had obtained
+stay order to maintain status quo with regard to the shareholding pattern of TAS, which upon application moved by TAS has been vacated. The
+matter is sub judice as on date. The Holding Company holds 60% shareholding in TAS through its subsidiary, Neosky India Limited (NEL). Neosky
+and TAS had jointly filed a petition before the High Court of Delhi under Section 9 of the Arbitration & Conciliation Act, 1996 against the minority
+shareholders of TAS. The Hon'ble Court has disposed of the petition and has appointed an Arbitrator to adjudicate the dispute. The arbitration
+proceedings are yet to commence. The Group management believes that the aforesaid matters do not impact the Group's consolidated financial
+results and the Group is fully committed to grow the Unmanned Aerial Vehicle (Drone) business.
+
+7
+
+During the earlier year ended 31 March 2025, Canara Bank had filed an application under Section 7 of the Insolvency and Bankruptcy Code, 2016
+before the National Company Law Tribunal (NCLT), New Delhi Bench — Court II, alleging default by Sinnar Thermal Power Limited (an erstwhile
+subsidiary of Rattanlndia Power Limited) and seeking initiation of Corporate Insolvency Resolution Process (CIRP) against the Holding Company in
+its capacity as a Corporate Guarantor. The said application has been disposed of in favour of the Holding Company by the Hon'ble NCLT vide order
+dated 09 December 2025 holding that no financial debt was established against the Holding Company.
+Canara Bank has filed an appeal against the said order of the NCLT before National Company Law Appellate Tribunal ("NCLAT "), New Delhi and
+notice of the appeal has been issued to the parties.
+The Holding Company's management based upon inputs from legal experts, is of the view that Canara Bank does not have a valid case and that the
+appeal filed is not maintainable under applicable laws and believes that the matter is not expected to have any material impact on these financial
+results and/or on the operations and functioning of the Holding Company.
+
+8
+
+The Ministry of Environment, Forest and Climate Change issued the Environment Protection (End-of-Life Vehicles) Rules, 2025 (ELV rules), effective
+from 01 April 2025. In accordance with ELV rules, Extended Producer Responsibility (EPR) obligations are imposed on producers ("vehicle
+manufacturers") for the scrapping of End-of-Life Vehicles. The obligations require acquiring EPR certificates from registered Vehicle Scrapping
+Facilities via a Centralised Online Portal (Portal), which is partially operational. However, the pricing mechanism for EPR certificates, and
+measurement framework for determining financial obligations are not yet made available.
+Further, the Ministry of Environment, Forest and Climate Change notified the Battery Waste Management Rules, 2022 on 24 February 2025 (as
+amended from time to time), applicable to producers (manufacturers and importers included), dealers, consumers, and entities involved in the
+collection, segregation, transportation, refurbishment, and recycling of all types of waste batteries. As a producer of batteries, the Company is subject
+to these obligations, however, sufficient guidance on waste collection mechanisms and associated costs are not yet made available.
+Consequently, the group is currently unable to reliably estimate a range of possible outcomes and the financial implications of the above rules and will
+be evaluated once the implementation framework for determining the reliable estimate is established.
+
+9
+
+All amounts disclosed in financial results and notes have been rounded off to the nearest million as per the requirement of Schedule III, unless
+otherwise indicated. The transaction and balances with values below the rounding off norms adopted by the Holding Company have been reflected as
+"0.00" in the relevant notes to these financial results (represents amount less than Rs. 0.005 million due to rounding off).
+
+10 The Figures for the quarter ended 31 March 2026 represent the balancing figures between audited figures in respect of full financial year ended 31
+March 2026 and the published year to date figures upto the third quarter of the respective financial year which was subjected to limited review by the
+auditors.
+
+rpri,
+'0kr)
+
+'3e/ *
+
+(2)
+
+
+Rattanlndia
+____._-ENTERPRISES
+Rattanindia Enterprises Limited
+Statement of Standalone Unaudited Financial Results for the Quarter Ended 30 June 2026
+
+Particulars
+Revenue from operations
+(a) Interest income
+(b) Rental income
+(c) Fees and commission income
+(d) Net gain on fair value changes (refer note 3)
+(e) Sale of services
+Total revenue from operations
+2 Other income
+Total income
+3 Expenses
+(a) Finance costs
+(b) Net loss on fair value changes (refer note 3)
+(c) Impairment of financial instruments
+(d) Employee benefits expense
+(e) Depreciation and amortisation expense
+(f) Other expenses
+Total expenses
+4 (Loss)/ profit before tax (1+2-3)
+5 Tax expenses
+(a) Current tax
+(b) Deferred tax (refer note 3)
+Total tax expenses
+6 (Loss)/ profit for the period (4-5)
+7 Other comprehensive income
+Items that will not be reclassified to profit or loss
+Income tax relating to items that will not be reclassified to profit or loss
+Other comprehensive income (net of tax)
+8 Total comprehensive (loss)/ income for the period (6+7)
+9 Paid-up equity share capital (face value of Rs.2 per equity share)
+10 Other equity
+11 Earnings per share (EPS) (face value of Rs. 2 per equity share)
+*EPS for the quarter ended are not annualised
+-Basic (Rs.)
+-Diluted (Rs.)
+(See accompanying notes to the standalone financial results)
+
+30.06.2026
+
+Quarter ended
+31.03.2026
+
+30.06.2025
+
+Year ended
+31.03.2026
+(Audited)
+
+(Unaudited)
+
+(Audited)
+Refer Note 08
+
+(Unaudited)
+
+31.98
+0.01
+12.97
+0.66
+11.85
+57.47
+0.08
+57.55
+
+15.55
+0.01
+12.56
+0.53
+13.69
+42.34
+0.56
+42.90
+
+21.77
+
+116.45
+17.94
+4.61
+4.77
+143.77
+(86.22)
+
+98.15
+1,351.23
+23.75
+4.54
+6.36
+1,484.03
+(1,441.13)
+
+22.54
+4.60
+4.08
+129.59
+6,013.09
+
+90.08
+18.47
+19.97
+2,246.99
+(2,065.42)
+
+0.03
+0.03
+(86.25)
+
+(193.56)
+(193.56)
+(1,247.57)
+
+872.60
+872.60
+5,140.49
+
+(245.58)
+(245.58)
+(1,819.84)
+
+1
+
+-
+
+12.80
+6,096.75
+11.19
+6,142.51
+0.17
+6,142.68
+98.37
+
+(86.25)
+2,764.54
+
+0.96
+0.96
+(1,246.61)
+2,764.54
+
+5,140.49
+2,764.54
+
+(0.06)*
+(0.06)*
+
+(0.90)*
+(0.90)*
+
+3.72*
+3.72*
+
+to rprI
+
+9
+
+76.70
+0.02
+51.36
+1.27
+51.25
+180.60
+0.97
+181.57
+394.85
+1,723.62
+-
+
+0.54
+0.54
+(1,819.30)
+2,764.54
+6,005.79
+
+(1.32)
+(1.32)
+
+
+Notes to the Standalone Financial Results:
+1 The standalone financial results of Rattanlndia Enterprises Limited ("REL" or " the Company") for the quarter ended 30 June 2026, have been
+reviewed by the Audit Committee on 5 August 2026 and subsequently approved at the meeting of the Board of Directors ("the Board") held on 5
+August 2026. The standalone financial results have been reviewed by the statutory auditors of the Company. The financial results have been
+prepared in accordance with the recognition and measurement principles of Indian Accounting Standards as notified under the Companies (Indian
+Accounting Standards) Rules, 2015 (as amended) as specified in Section 133 of the Companies Act, 2013.
+2
+
+The Company is primarily engaged in the business of investing in technology focused new age businesses including retail e-commerce, electric
+vehicles, drones and others, through its subsidiary companies. The Company qualifies to be an "Unregistered Core Investment Company" ('CIC') in
+terms of "Master Direction — Core Investment Companies (Reserve Bank) Directions, 2016" and consequently, is eligible to carry on business
+activities permissible to CIC, without obtaining registration from Reserve Bank of India under section 45-IA of the Reserve Bank of India Act, 1934.
+Therefore, the standalone financial results have been prepared and presented in the format prescribed in the Division III of Schedule III to the
+Companies Act, 2013.
+
+3
+
+During the year ended 31 March 2026, up to 24 March 2026, the Company's investment in Rattanlndia Power Limited ("RPL") was accounted for as a
+financial asset in accordance with Ind AS 109 and was measured at fair value through profit or loss. Accordingly, unrealised fair value losses
+recognised in the standalone financial results for the year primarily pertain to the period up to the date on which significant influence was obtained.
+Effective 25 March 2026, upon obtaining significant influence, RPL has been classified as an associate. Therefore, subsequent changes in the market
+value of RPL are no longer recognised through profit or loss.
+Accordingly, the standalone financial results include an unrealised fair value loss of Rs. 1,723.62 million for the year ended 31 March 2026 (including
+Rs. 1,351.23 million for the quarter ended 31 March 2026) and an unrealised fair value gain of Rs. 6,096.49 million for the quarter ended 30 June
+2025 relating to RPL. The related tax impact had also been recognised in these standalone financial results.
+
+4
+
+During the year ended 31 March 2026 the Company entered into Share Purchase Agreement with Neobrands for transfer of shares of its wholly
+owned subsidiary company, Cocoblu Retail Limited ("Cocoblu") and received advance consideration in lieu of the same. Effective 9 April 2026, the
+Company has transferred its entire shareholding in Cocoblu to Neobrands another wholly owned subsidiary of the Company. Consequent to said
+transfer, there is no change in ultimate ownership or control of Cocoblu and it continues to remain a wholly owned step-down subsidiary of the
+Company. The transaction represents an internal reorganisation within the Group and, therefore, does not have any impact on the standalone
+financial results of the Company, except for the reclassification of the investment within the Group.
+
+5
+
+Minority Shareholders of Throttle Aerospace Systems Private Limited ("TAS"), step down subsidiary of the Company, have alleged certain matters
+against the Company and others and have filed Petitions before the Bangalore NCLT Bench ('NCLT Bangalore') and had obtained stay order to
+maintain status quo with regard to the shareholding pattern of TAS, which upon application moved by TAS has been vacated. The matter is sub judice
+as on date. The Company holds 60% shareholding in TAS through its subsidiary, Neosky India Limited (NEL). Neosky and TAS had jointly filed a
+petition before the High Court of Delhi under Section 9 of the Arbitration & Conciliation Act, 1996 against the minority shareholders of TAS. The
+Hon'ble Court has disposed of the petition and has appointed an Arbitrator to adjudicate the dispute. The arbitration proceedings are yet to
+commence. The Company management believes that the aforesaid matters do not impact the Standalone financial results and the Company is fully
+committed to grow the Unmanned Aerial Vehicle (Drone) business.
+
+6
+
+During the earlier year ended 31 March 2025, Canara Bank had filed an application under Section 7 of the Insolvency and Bankruptcy Code, 2016
+before the National Company Law Tribunal (NCLT), New Delhi Bench — Court II, alleging default by Sinnar Thermal Power Limited (an erstwhile
+subsidiary of Rattanlndia Power Limited) and seeking initiation of Corporate Insolvency Resolution Process (CIRP) against the Company in its
+capacity as a Corporate Guarantor. The said application has been disposed of in favour of the Company by the Hon'ble NCLT vide order dated 09
+December 2025 holding that no financial debt was established against the Company.
+Canara Bank has filed an appeal against the said order of the NCLT before National Company Law Appellate Tribunal ("NCLAT "), New Delhi and
+notice of the appeal has been issued to the parties.
+The Company's management based upon inputs from legal experts, is of the view that Canara Bank does not have a valid case and that the appeal
+filed is not maintainable under applicable laws and believes that the matter is not expected to have any material impact on these financial results
+and/or on the operations and functioning of the Company.
+
+7
+
+All amounts disclosed in financial results and notes have been rounded off to the nearest million as per the requirement of Schedule III, unless
+otherwise indicated. The transaction and balances with values below the rounding off norms adopted by the Company have been reflected as "0.00"
+in the relevant notes to these financial results (represents amount less than Rs. 0.005 million due to rounding off).
+
+8
+
+The Figures for the quarter ended 31 March 2026 represents the balancing figures between audited figures in respect of full financial year and the
+published year to date figures up to the third quarter of the respective financial year which was subjected to limited review by the auditors.
+
+9
+
+As per Ind AS 108 "Operating Segments", if a financial report contains both consolidated financial results and the separate financial results of the
+Parent Company, segment information may be presented on the basis of the consolidated financial results. Thus, disclosure required by regulation 33
+of the SEBI (Listing Obligations 8- Disclosure Requirements) Regulations, 2015 on segment information has been furnished in consolidated financial
+results.
+
+Registered Office : H.No. 51, Village Hauz Khas, Delhi-110016
+CIN: L74110DL2010PLC210263
+
+For and on behalf of Board of Directors
+Rattanlndia Enterprises Limited
+
+v te rpr,
+r-
+
+C
+Place : New Delhi
+Date : 05 August 2026
+
+Rajesh Kumar
+Whole Time director
+
+9
+
+
+Walker Chandiok &Co LLP
+
+Walker Chandiok & Co LLP
+Unit No. 02, Second Floor,
+BPTP Capital City,
+Plot No — 2B, Sector-94, Noida,
+Gautam Buddha Nagar - 201301
+Uttar Pradesh, India
+T +91 120 485 5999
+F +91 120 485 5902
+
+Independent Auditor's Review Report on Consolidated Unaudited Quarterly Financial Results of the
+Company pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (as amended)
+To the Board of Directors of Rattanlndia Enterprises Limited
+1. We have reviewed the accompanying statement of unaudited consolidated financial results ('the Statement')
+of Rattanlndia Enterprises Limited ('the Holding Company') and its subsidiaries (the Holding Company and
+its subsidiaries together referred to as 'the Group'), and its associate (refer Annexure 1 for the list of
+subsidiaries and associate included in the Statement) for the quarter ended 30 June 2026, being submitted
+by the Holding Company pursuant to the requirements of Regulation 33 of the SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015 (as amended) ('Listing Regulations').
+2. This Statement, which is the responsibility of the Holding Company's management and approved by the
+Holding Company's Board of Directors, has been prepared in accordance with the recognition and
+measurement principles laid down in Indian Accounting Standard 34, Interim Financial Reporting ('Ind AS
+34'), prescribed under section 133 of the Companies Act, 2013 ('the Act'), and other accounting principles
+generally accepted in India and is in compliance with the presentation and disclosure requirements of
+Regulation 33 of the Listing Regulations. Our responsibility is to express a conclusion on the Statement
+based on our review.
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410, Review of Interim Financial Information Performed by the Independent Auditor of the Entity, issued by
+the Institute of Chartered Accountants of India. A review of interim financial information consists of making
+inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and
+other review procedures. A review is substantially less in scope than an audit conducted in accordance with
+the Standards on Auditing specified under section 143(10) of the Act, and consequently, does not enable us
+to obtain assurance that we would become aware of all significant matters that might be identified in an audit.
+Accordingly, we do not express an audit opinion.
+We also performed procedures in accordance with the circular issued by the SEBI under Regulation 33 (8)
+of the Listing Regulations, to the extent applicable.
+
+4. Based on our review conducted and procedures performed as stated in paragraph 3 above and upon
+consideration of the review reports of the other auditors referred to in paragraph 5 below, nothing has come
+to our attention that causes us to believe that the accompanying Statement, prepared in accordance with the
+recognition and measurement principles laid down in Ind AS 34, prescribed under section 133 of the Act, and
+other accounting principles generally accepted in India, has not disclosed the information required to be
+disclosed in accordance with the requirements of Regulation 33 of the Listing Regulations, including the
+manner in which it is to be disclosed, or that it contains any material misstatement.
+
+Chartered Accountants
+Offices in Ahmedabad, Bengaluru, Bhubaneswar, Chandigarh, Chennai, Dehradun, Goa, Gurugram, Guwahati, Hyderabad, Indore,
+Kochi, Kolkata, Mumbai, New Delhi, Noida and Pune
+
+Walker Chandiok & Co LLP is registered with limited
+liability with identification number AAC-2085 and has its
+registered office at L-41, Connaught Circus, Outer Circle,
+New Delhi, 110001, India
+
+
+Walker Chandiok 8(Co LLP
+5. We did not review the interim financial information of Rattanlndia Enterprises Limited Employee Welfare
+Trust (the trust') included in the unaudited interim standalone financial results of the Holding Company
+included in the Group, whose interim financial information reflects total revenues of ₹ Nil, total net loss after
+tax of ₹ 0.01 million, and total comprehensive loss of ₹ 0.01 million, for the quarter ended on 30 June 2026,
+as considered in the standalone interim unaudited financial results of the Holding Company included in the
+Group. These interim financial information has been reviewed by the other auditors, whose report has been
+furnished to us by the management, and our conclusion, in so far as it relates to the amounts and disclosures
+included in respect of this Trust, is based solely on the review report of such other auditors and the
+procedures performed by us as stated in paragraph 3 above.
+We did not review the interim financial results of 10 subsidiaries included in the Statement, whose financial
+information reflects total revenues of ₹ 419.47 million and total net loss after tax of ₹ 67.43 million total
+comprehensive loss of ₹ 67.52 million, for the quarter ended on 30 June 2026, as considered in the
+Statement. These interim financial results have been reviewed by other auditors whose review reports have
+been furnished to us by the management, and our conclusion in so far as it relates to the amounts and
+disclosures included in respect of these subsidiaries is based solely on the review reports of such other
+auditors and the procedures performed by us as stated in paragraph 3 above.
+Further, of these subsidiaries, 2 subsidiaries, are located outside India, whose interim financial information
+have been prepared in accordance with accounting principles generally accepted in their respective countries
+and which have been reviewed by other auditors under International Financial Reporting Standards (IFRS)
+applicable in their respective countries. The Holding Company's management has converted the financial
+information of such subsidiaries from accounting principles generally accepted in their respective countries
+to accounting principles generally accepted in India. We have reviewed these conversion adjustments made
+by the Holding Company's management. Our conclusion, in so far as it relates to the balances and affairs of
+these subsidiaries, is based on the review report of other auditors and the conversion adjustments prepared
+by the management of the Holding Company and reviewed by us.
+Our conclusion is not modified in respect of these matters with respect to our reliance on the work done by
+and the reports of the other auditors.
+
+For Walker Chandiok & Co LLP
+Chartered Accountants
+Firm Registration No: 001076N/N500013
+
+L
+umar
+Partner
+Membership No. 095256
+UDIN:260qSnCK\11-1P61T 35q3
+Place: New Delhi
+Date: 5 August 2026
+
+
+Walker Chandiok &Co LLP
+Annexure 1
+List of entities included in the Statement
+Holding Company
+1. Rattanlndia Enterprises Limited
+Subsidiaries
+1. Cocoblu Retail Limited (India) (Step down subsidiary)
+2. Revolt Intellicorp Private Limited (India)
+3. Neotec Enterprises Limited (India)
+4. Rattanlndia Investment Manager Private Limited (India)
+5. Neosky India Limited (India)
+6. Neotec Insurance Brokers Limited (India)
+7. Neobrands Limited (India)
+8. Neorise Technologies-FZCO (UAE)
+9. Cocoblu Quick Commerce Limited (formerly known as Neofirst Limited) (India)
+10. Revolt CoCo Limited (formerly known as NeoSeller Limited) (India) (Step down subsidiary)
+11. Throttle Aerospace Systems Private Limited (India) (Step down subsidiary)
+12. Neorise Global Trading L.L.C.S.O.C (UAE) (Step down subsidiary)
+Associate
+1. Rattanlndia Power Limited
+Trust
+1. Rattanlndia Enterprises Limited Employee Welfare Trust (India) (included in the standalone unaudited
+financial results of the Holding Company)
+
+
+Walker Chandiok 8(Co LLP
+
+Walker Chandiok & Co LLP
+Unit No. 02, Second Floor,
+BPTP Capital City,
+Plot No — 2B, Sector-94, Noida,
+Gautam Buddha Nagar - 201301
+Uttar Pradesh, India
+T +91 120 485 5999
+F +91 120 485 5902
+
+Independent Auditor's Review Report on Standalone Unaudited Quarterly Financial Results of the
+Company pursuant to Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (as amended)
+To the Board of Directors of Rattanlndia Enterprises Limited
+1. We have reviewed the accompanying statement of standalone unaudited financial results ('the Statement')
+of Rattanlndia Enterprises Limited ('the Company') which includes Rattanlndia Enterprises Limited Employee
+Welfare Trust ("Trust") for the quarter ended 30 June 2026, being submitted by the Company pursuant to the
+requirements of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015 (as amended) (listing Regulations')
+2.
+
+The Statement, which is the responsibility of the Company's management and approved by the Company's
+Board of Directors, has been prepared in accordance with the recognition and measurement principles laid
+down in Indian Accounting Standard 34, Interim Financial Reporting ('Ind AS 34'), prescribed under section
+133 of the Companies Act, 2013 ('the Act'), and other accounting principles generally accepted in India and
+is in compliance with the presentation and disclosure requirements of Regulation 33 of the Listing
+Regulations. Our responsibility is to express a conclusion on the Statement based on our review.
+
+3. We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE)
+2410, Review of Interim Financial Information Performed by the Independent Auditor of the Entity, issued by
+the Institute of Chartered Accountants of India. A review of interim financial information consists of making
+inquiries, primarily of persons responsible for financial and accounting matters, and applying analytical and
+other review procedures. A review is substantially less in scope than an audit conducted in accordance with
+the Standards on Auditing specified under section 143(10) of the Act, and consequently, does not enable us
+to obtain assurance that we would become aware of all significant matters that might be identified in an audit.
+Accordingly, we do not express an audit opinion.
+4.
+
+Based on our review conducted as above and the consideration of the review reports of the other auditors
+referred to in paragraph 5 below nothing has come to our attention that causes us to believe that the
+accompanying Statement, prepared in accordance with the recognition and measurement principles laid
+down in Ind AS 34, prescribed under section 133 of the Act, and other accounting principles generally
+accepted in India, has not disclosed the information required to be disclosed in accordance with the
+requirements of Regulation 33 of the Listing Regulations, including the manner in which it is to be disclosed,
+or that it contains any material misstatement.
+
+Chartered Accountants
+Offices in Ahmedabad, Bengaluru, Bhubaneswar, Chandigarh, Chennai, Dehradun, Goa, Gurugram, Guwahati, Hyderabad, Indore,
+Kochi, Kolkata, Mumbai, New Delhi, Noida and Pune
+
+Walker Chandiok & Co LLP is registered with limited liability
+with identification number AAC-2085 and has its registered
+office at L-41, Connaught Circus, Outer Circle, New Delhi,
+110001, India
+
+
+Walker Chandiok &Co LLP
+5.
+
+We did not review the interim financial information of (1) one Trust included in the Statement, where such
+interim financial information reflects total revenues of ₹ Nil, total net loss after tax of ₹ 0.01million, and total
+comprehensive loss of ₹ 0.01 million, for the quarter ended on 30 June 2026, as considered in the Statement.
+These interim financial information has been reviewed by the other auditors, whose report has been furnished
+to us by the management, and our conclusion, in so far as it relates to the amounts and disclosures included
+in respect of this Trust, is based solely on the review report of such auditors and the procedures performed
+by us as stated in paragraph 4 above.
+Our conclusion is not modified in respect of this matter with respect to our reliance on the work done by and
+the reports of the other auditors.
+For Walker Chandiok & Co LLP
+Chartered Accountants
+Firm Registration No: 001076N/N500013
+
+L
+umar
+Partner
+Membership No. 095256
+UDIN: 260q 52561KRTL71q Sg
+Place: New Delhi
+Date: 5 August 2026
+
+

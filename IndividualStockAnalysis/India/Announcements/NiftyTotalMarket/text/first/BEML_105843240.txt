@@ -1,0 +1,68 @@
+
+Name of The Company BEML Ltd
+BSE Scrip Code 500048
+NSE Symbol BEML
+MSE Symbol NOTLISTED
+Date of Start of Financial Year 01 04 2023
+Date of End of Financial Year 31 03 2024
+Reporting Period Second half yearly
+Date of Start of Reporting Period 01 10 2023
+Date of End of Reporting Period 31 03 2024
+Level of rounding to be used in disclosing 
+related party transactionsLakhs
+Whether the company has any related 
+party?Yes
+Whether the company has entered into any 
+Related Party transaction during the selected 
+half year for which it wants to submit 
+disclosure?Yes
+NA
+NA
+No  (III)    Whether the company is a ‘high value debt listed entity’ according to regulation 15 (1A)?
+        (a)     If answer to above question is Yes, whether complying with proviso to regulation 23 (9), i.e., submitting RPT 
+disclosures on the day of results publication? 
+        (b)     If answer to above question is No, please explain the reason for not complying. (II)     We declare that the scheduled commercial bank, as per RBI circular RBI/DBR/2015-16/19 dated March 03, 2016, has 
+allowed additional interest of one per cent per annum, over and above the rate of interest mentioned in the schedule of 
+interest rates on savings or a term deposits of bank’s staff and their exclusive associations as well as on deposits of 
+Chairman, Chairman & Managing Director, Executive Director or such other Executives appointed for a fixed tenure.General information about company
+ (I)      We declare that the acceptance of fixed deposits by the bans/Non-Banking Finance Company are at       the terms 
+uniformly applicable/offered to all shareholders/publicHome Validate
+Related party transactions
+Name PAN Name PANRelationship of the 
+counterparty with the listed 
+entity or its subsidiaryOpening balance Closing balanceNature of indebtedness (loan/ 
+issuance of debt/ any other 
+etc.)Details of other indebtedness Cost TenureNature (loan/ advance/ 
+intercorporate deposit/ 
+investment )Interest Rate (%) Tenure Secured/ unsecuredPurpose for which the funds will be 
+utilised by the ultimate recipient of 
+funds (endusage)
+1BEML Limited AAACB8433D Vignyan Industries Limited AAACV9658A Subsidiary Loan Not Applicable 48.62 1297.22 1345.84 Loan 8.10% 0Secured Administrative Purpose
+2BEML Limited AAACB8433D Vignyan Industries Limited AAACV9658A Subsidiary Investment Not Applicable 0.00 252.60 252.60 Investment 0.00% 0Unsecured NA
+3BEML Limited AAACB8433D MAMC Industries Limited AAHCM0373L Subsidiary Advance Not Applicable 0.66 604.35 605.01 Advance 0.00% 0Unsecured Administrative Purpose
+4BEML Limited AAACB8433D MAMC Industries Limited AAHCM0373L Subsidiary Investment Not Applicable 0.00 5.00 5.00 Investment 0.00% 0Unsecured NA
+5BEML Limited AAACB8433D BEML Midwest Limited AADCB1381K Joint Venture Advance Not Applicable 94.49 94.49 0.00 Advance 0.00% 0Unsecured Administrative Purpose
+6BEML Limited AAACB8433D BEML Midwest Limited AADCB1381K Joint Venture Investment Not Applicable 0.00 542.25 542.25 Investment 0.00% 0Unsecured NA
+7BEML Limited AAACB8433D Shri.Shantanu Roy ABAPR6995AChairman and Managing 
+Director Remuneration Not Applicable 41.27 0.00 0.00
+8BEML Limited AAACB8433D Shri. Ajit Kumar Srivastav AJQPS8137D Director Remuneration Not Applicable 28.60 0.00 0.00
+9BEML Limited AAACB8433D Shri. Anil Jerath AADPJ4114B Director Remuneration Not Applicable 26.83 0.00 0.00
+10BEML Limited AAACB8433D Shri.G Jawahar AAHPJ3355L Director Remuneration Not Applicable 5.41 0.00 0.00
+11BEML Limited AAACB8433D Shri. Jai Gopal Mahajan ACFPM1741B Company Secretary Remuneration Not Applicable 30.61 0.00 0.00In case monies are due to either party as a result of 
+the transactionAdditional disclosure of related party transactions - applicable only in case the related party transaction relates to loans, inter-corporate deposits, advances or investments made or given by the listed entity/subsidiary. These details need to be disclosed only once, during the reporting period 
+when such transaction was undertaken.
+In case any financial indebtedness is incurred to make or give loans, inter-corporate deposits, advances or 
+investmentsDetails of the counterparty
+Details of  other related 
+party transactionRemarks on approval by 
+audit committeeDetails of the loans, inter-corporate deposits, advances or investments
+NotesDetails of the party (listed entity /subsidiary) entering into the 
+transaction
+Sr No.Type of related party 
+transactionValue of the related 
+party transaction as 
+approved by the audit 
+committeeValue of transaction 
+during the reporting 
+period
+Add Delete

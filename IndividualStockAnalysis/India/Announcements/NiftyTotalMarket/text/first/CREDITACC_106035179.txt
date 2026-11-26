@@ -1,0 +1,217 @@
+ 
+ 
+Ref: CAGL/EQ/202 4-25/110 
+ 
+October 25 , 2024 
+ 
+To 
+BSE Limited  
+Phiroze Jeejeebhoy  Towers  
+Dalal  Street  
+Mumbai  - 400001  
+Scrip code: 541770   
+National Stock Exchange of India Limited  
+Exchange Plaza , C-1, Block G  
+Bandra Kurla  Complex , Bandra (East)   
+Mumbai  - 400051  
+Symbol : CREDITACC  
+ 
+Dear Sir/Madam,  
+ 
+Sub.: Code of Conduct and Fair Disclosure for prohibition of Insider Trading  
+ 
+Pursuant to provision s of Regulation 8(2) of the SEBI ( Prohibition of Insider Trading) Regulations, 
+2015 , please find enclosed a copy of the amended Code of Conduct and Fair Disclosure for 
+prohibition of Insider Trading , approved by the Board of Directors at its meeting held today i.e. Friday, 
+October 25 , 2024.  
+ 
+Please take this intimation on record.  
+ 
+Thanking you,  
+ 
+For CreditAccess Grameen Limited  
+ 
+ 
+M. J. Mahadev Prakash  
+Company Secretary  & Chief Compliance Officer  
+ 
+Encl.: As above   
+CREDITACCESS  GRAMEEN  LIMITED  
+CODE  OF CONDUCT  AND  FAIR  DISCLOSURE  FOR 
+PROHIBITION  OF INSIDER  TRADING  
+
+Page 2 of 20 Contents  
+1.INTRODUCTION  ................................ ................................ ................................ ................................ ...........................  3 
+2.DEFINITIONS:  ................................ ................................ ................................ ................................ ................................  3 
+3.IDENTIFICATION  OF DESIGNATED  PERSONS:  ................................ ................................ ................................ .. 6 
+4.RESTRICTION  ON COMMUNICATIONS  AND  TRADING  ................................ ................................ ...............  6 
+5.ROLE  OF THE COMPLIANCE  OFFICER  ................................ ................................ ................................ ..................  7 
+6.TRADING  PLANS  ................................ ................................ ................................ ................................ ..........................  8 
+7.DISCLOSURE  OF TRADING  BY INSIDERS  ................................ ................................ ................................ ............  9 
+8.PROHIBITION ON DEALING, COMMUNICATING OR  COUNSELING  ON MATTERS RELATING
+TO INSIDER  TRADING ................................ ................................ ................................ ................................ ..............  11 
+9.TRADING  RESTRICTIONS:  ................................ ................................ ................................ ................................ ....... 11 
+10. PRE-CLEARANCE  OF TRADES:  ................................ ................................ ................................ ..........................  12 
+11. CODE  OF FAIR DISCLOSURE  AND  CONDUCT:  ................................ ................................ ...........................  14 
+12. CONTACTS  WITH  FINANCIAL  ANALYSTS,  INVESTORS  AND  THE MEDIA:  ................................ ....... 17 
+13. MARKET  RUMOURS  ................................ ................................ ................................ ................................ .............  18 
+14. REVIEW  OF ANALYST  REPORTS  ................................ ................................ ................................ .......................  18 
+15. MAINTENANCE  OF DISCLOSURE  RECORDS:  ................................ ................................ ..............................  18 
+16. AMENDMENTS  AND  MODIFICATION  ................................ ................................ ................................ ...........  18 
+17. PROCEDURE  FOR INQUIRY  IN CASE  OF CONTRAVENTION  OF THIS CODE  ................................ .. 19 
+18. AMENDMENT:  ................................ ................................ ................................ ................................ ........................  19 
+19. CONCLUSION  ................................ ................................ ................................ ................................ .........................  19 
+ 
+Page 3 of 20  1. INTRODUCTION:  
+ 
+The Securities and Exchange Board of India (SEBI), in its endeavor to protect the interests of  
+investors in general, has formulated the SEBI (Prohibition of Insider Trading) Regulations, 2015  
+[hereinafter referred to as the ‘Regulations’] under the powers conferred on it under section 30  read 
+with clause (g) of sub -section (2) of section 11 and clause (d) and clause (e) of section 12A  of the 
+Securities  and Exchange  Board  of India  Act, 1992  (15 of 1992).These  Regulations  are made  applicable  
+to all companies  whose  shares  are listed  on Indian  Stock  Exchange(s).  
+ 
+The Board of Directors of the Company has adopted this Insider Trading Policy (the “Policy”) on  
+December 1, 2017, and subsequently amended  on March 27, 2019, to comply with the SEBI  
+(Prohibition of Insider Trading) Regulations, 2015 (“SEBI Regulation”) as amended from time to  time.  
+ 
+The SEBI Regulates an Insider from Trading in the securities of a company listed on any stock  
+exchange on the basis of any unpublished price sensitive information (UPSI). This policy also  
+provides  for Practices  and Procedures  for Fair Disclosure  of Unpublished  Price  Sensitive  Information  
+(the “ Code ”) that would be followed by CreditAccess Grameen Limited, for the consistent,  
+transparent, regular and timely public disclosure and dissemination of Unpublished Price Sensitive  
+information.  
+ 
+This Code of Conduct may be modified by the Board of Directors from time to time to adopt best  
+practices  and to comply  with the SEBI Regulation.  
+ 
+To achieve the objectives as stated in SEBI (Prohibition of Insider Trading) Regulations, 2015 the  
+Company  hereby  notifies  that the “CODE  OF CONDUCT  AND  FAIR DISCLOSURE  FORPROHIBITION  
+OF INSIDER TRADING” shall become effective and operational with immediate effect. This Code  
+shall be applicable  and binding  on all Designated  Persons,  immediate  relatives  of Designated  Persons  
+and those  persons  authorized  to speak  on behalf  of the Company.  
+ 
+The Company  is committed  to factual,  timely  and accurate  disclosure  based  on applicable  legal  and 
+regulatory  requirements.  
+ 
+2. DEFINITIONS:  
+ 
+For the purpose of this code, the words and expressions given below shall carry the meaning as  
+stated  hereinafter:  - 
+ 
+a) “Company”  means  CreditAccess  Grameen  Limited.  
+ 
+b) “Compliance officer” means any senior officer, designated so and reporting to the board of  
+directors, who is financially literate and is capable of appreciating requirements for legal and  
+regulatory compliance under the Regulations and who shall be responsible for compliance of  
+policies, procedures, maintenance of records, monitoring adherence to the rules for the  
+preservation  of unpublished  price  sensitive  information,  monitoring  of trades  and the 
+implementation of the codes specified in the Regu lations under the overall supervision of the  
+Board  of Directors  of the  Company.  
+ 
+c) “Connected  person”  means - any person  who is or has during  the six months  prior  to the 
+concerned  act been  associated  with a company,  directly  or indirectly,  in any capacity  including  
+ 
+Page 4 of 20  by reason  of frequent  communication  with its officers  or by being  in any contractual,  
+fiduciary  or employment  relationship  or by being  a director,  officer  or an employee  of the 
+company  or holds  any position  including a professional or business relationship between 
+himself and the company whether  temporary  or permanent,  that allows  such person,  directly  or 
+indirectly,  access  to unpublished  price  sensitive  information  or is reasonably  expected  to allow  
+such access.  
+ 
+Without  prejudice  to the generality  of the foregoing,  the persons  falling  within  the following  
+categories  shall be deemed  to be connected  persons  unless  the contrary  is established  - 
+ 
+i. an immediate  relative  of connected  persons  specified  in clause  (i); or  
+ii. a holding  company  or associate  company  or subsidiary  company;  or 
+iii. an intermediary  as specified  in section  12 of the Act or an employee  or director  thereof;  or 
+iv. an investment  company,  trustee  company,  asset  management  company  or an employee  
+or director  thereof;  or 
+v. an official  of a stock  exchange  or of clearing house  or corporation;  or 
+vi. a member  of board  of trustees  of a mutual  fund or a member  of the board  of directors  of 
+the asset management  company of  a mutual fund  or is an employee  thereof;  or 
+vii. a member  of the board  of directors  or an employee,  of a public  financial  institution  
+as defined  in section  2(72)  of the Companies Act,  2013;  or 
+viii. an official  or an employee  of a self-regulatory  organization  recognised  or authorized  by 
+the Board;  or 
+ix. a banker  of the company;  or 
+x. a concern,  firm, trust,  Hindu  undivided  family,  company  or association  of persons  wherein  a 
+director of a company or his immediate relative or banker of the company, has more  than 
+ten per cent.  of the holding  or interest.  
+ 
+d) “Designated  Persons”  Shall  include  – 
+i. Promoters  
+ii. Directors  
+iii. Key Managerial  Personnel  
+iv. All employees  in the cadre  of Vice President and above  
+v. Employees  of material  subsidiaries  designated  on the basis  of their functional  role or access  
+to unpublished  price  sensitive  information  in the organization  by their board  of directors  
+vi. Employees  in the Finance,  Accounts,  Planning  & MIS, IT department,  Secretarial  
+Department and  as may be determined  by norms  mentioned  in this Code  
+vii. Immediate  relative  (as defined  in SEBI Regulation)  of (i) to (v)above;  and 
+viii. Employees  designated  by the Board  of Directors  from  time to time.  
+ 
+e) “Fiduciary” means professional firms such as auditors, accountancy firms, law firms, analysts,  
+insolvency  professional  entities,  consultants,  banks  etc., assisting  or advising  Company  shall be 
+collectively referred  to as  fiduciaries.  
+ 
+f) “Generally available information” means information that is accessible to the public on a non - 
+discriminatory  basis  and shall not include unverified event or information reported in print or 
+electronic media . 
+ 
+ 
+g) “Immediate relative” means a spouse of a person, and includes parent, sibling, and child of  
+such person or of the spouse, any of whom is either dependent financially on such person, or  
+consults  such person  in taking  decisions  relating to  trading  in securit ies; 
+ 
+Page 5 of 20   
+h) “Insider”  means  any person  who is: 
+i. a connected  person;  or 
+ii. in possession  of or having  access  to unpublished  price sensitive  information.  
+ 
+i) “Intermediaries” shall include such persons as defined in Section 12 of the Securities and  
+Exchange Board of India Act, 1992 viz., Stock Brokers, Sub -brokers, Share Transfer Agents,  
+Banker  to an Issue,  Trustee  of a Trust  Deed,  Registrar  to an Issue,  Merchant  Banker,  
+Underwriter, Portfolio Manager, Investment Adviser and such other persons associated with  
+Securiti es Market  and registered  with SEBI.  
+ 
+j) “Key Managerial  Person”  means  person  as defined  in Section  2(51)  of the Companies  Act, 2013.  
+ 
+k) “Securities”  shall have  the meaning  assigned  to it under  the Securities  Contracts  (Regulation)  Act, 
+1956  (42 of 1956)  or any modification  thereof  except  units  of a mutual  fund.  
+ 
+l) “trading” means and includes subscribing, buying, selling, dealing or agreeing to subscribe,  
+buy, sell, deal in  any securities, and “trade”  shall be construed accordingly.  
+ 
+m) “Unpublished price sensitive information” (UPSI) means any information, relating to the  
+Company or its securities, directly or indirectly, that is not generally available which upon  
+becoming generally available, is likely to materially affect the price of the securities and shall,  
+ordinarily  including  but not restricted  to, information  relating to  the following:  – 
+i. financial  results;  
+ii. dividends;  
+iii. change  in capital  structure;  
+iv. mergers,  de-mergers,  acquisitions,  de-listings,  disposals  and expansion  of business  and 
+such other transactions;  and 
+v. changes  in key managerial  personnel.  
+ 
+n) Material  Information  
+ 
+Material  information  means  any information  relating  to the business  or affairs  of the Company  
+that results  in or would  reasonably  be expected  to result  in a significant change  in the market  
+price or value of the securities of the Company or that would reasonably be expected to have  
+a significant  influence  on any reasonable  investor’s  investment  decisions.  Material  Information  
+includes, without  limitation,  information regarding:  
+ 
+i. Change  in general  character  of business  of the Company.  
+ii. Material  disruption  of operations  due to natural  calamity.  
+iii. Un-audited  or audited  [stand  alone  and consolidated]  financial  results  of the Company.  
+iv. Proposed  issue  of bonus/  rights  shares  or issue  of securities  on a private  placement  
+basis.  
+v. Corporate  action  relating  to dividend,  split, consolidation  of securities.  
+vi. Action  pursuant  to regulatory/  statutory  amendments  that is material  to the operations  
+of the Company.  
+vii. Changes  in rating  of securities  issued  by the Company.  
+viii. Changes  in the Board  of Directors  or Key Managerial  Personnel.  
+ix. Details  of litigation/  dispute/  regulatory  action  having  a material  impact  on the present  
+or future  operations  of the Company.  
+x. Any material  acquisition,  merger, de -merger, amalgamation,  restructuring,  scheme  of 

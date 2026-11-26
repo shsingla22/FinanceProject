@@ -1,0 +1,26 @@
+--- CIM_23448_WebXMLFile_20261103_200814037_1.xml (the exchange's structured disclosure) ---
+NSESymbol: TRANSRAILL ; Name Of The Company: TRANSRAIL LIGHTING LIMITED ; Scrip Code: 544317 ; MSEISymbol: NOTLISTED ; ISIN: INE454P01035 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-11-03 ; Start Time Of Board Meeting: 15:35:00 ; End Time Of Board Meeting: 17:32:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 5 ; Remarks For Website Dissemination: Please note that the field "Term of Appointment (in months)" is not applicable to Senior Managerial Personnel. However, since the system does not permit entering "Not Applicable" in the said field, "0" month has been mentioned solely for the purpose of complying with the system requirement. ; Date Of Report: 2026-11-03 ; Type Of Change: Appointment ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Vice President (Civil Business) ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Harsh Narang ; Effective Date Of Reason Of Change: 2026-11-03 ; Term Of Appointment In Months: 0 ; Brief Profile: Mr. Harsh Narang is having over 29 years of rich experience in EPC Infrastructure projects including Jetties, Port Backup, Island Breakwater, Marine Bridges, Elevated Metro Rail and Substations. Previously he was associated with Afcons Infrastructure Ltd, PMC Projects (Adani Group), Crompton Greaves Ltd., Skanska Cementation etc. He pursued Post Graduate Diploma in Project Management, ICFAI University and holds Bachelor’s Degree in Civil Engineering, Govt. Engineering College, Jabalpur ; Designation Of Designated Person: Senior Vice President (Poles & Lighting Business) ; Name Of Designated Person: Prashant Thorat ; Brief Profile: Mr. Prashant Thorat is having over 28 years of deep expertise in consumer channel management, brand strategy, product portfolio development, GTM execution, building and scaling distribution networks, and leading large cross-functional teams. Previously he was associated with Bajaj Electricals Ltd, Panasonic Life Solutions India Pvt. Ltd, Crompton Greaves Consumer Electricals Ltd etc. He pursued Master of Business Administration MBA– Marketing, Nagpur University, Nagpur and Bachelor of Engineering - Electronics & Power, Govt. College of Engineering, Shivaji University, Karad ; Designation Of Designated Person: Senior Vice President (Supply Chain Management) ; Name Of Designated Person: Unmesh Nerkar ; Brief Profile: Mr. Unmesh Nerkar has over 35 years of experience in Supply Chain Management. Previously he was associated with Tata Projects Limited, Gabriel India Limited, Ispat Industries Ltd., Indian Seamless Metal Tubes, ArcelorMittal Steel in various international locations (Kazakhstan, Ukraine, Trinidad, and Romania), Essar Projects Limited and Tata Steel Limited. He is an Engineer from V.J.T.I, Mumbai with Post Graduate Diploma Materials Management from IIMM, Chennai. ; Type Of Change: Cessation ; Category Of Cessation: Superannuation or retirement ; Designation Of Designated Person: President (Civil Business) ; Name Of Designated Person: Anant Kadiwal ; Category Of Cessation: Resignation ; Designation Of Designated Person: Vice President (Poles & Lighting Business) ; Name Of Designated Person: Ashok Rawat ; Salutation: Mr. ; Name Of The Person: Ashok Rawat ; Designation Of Person: Vice President (Poles & Lighting Business) ; Date On Which The Resignation Letter Was Received: 2026-08-26 ; Effective Date Of Resignation: 2026-11-03 ; Reason Of Resignation In Brief: Due to personal reasons
+
+--- ResignationEmailAshokRawat_2.pdf ---
+From: Ashok Rawat <ashok.rawat@transraillighting.com>
+Sent: 26 August 2026 11:10
+To: Randeep Narang <randeep.narang@transraillighting.com>
+Cc: Sonal Raj <sonal.raj@transraillighting.com>
+Subject: Resignation
+
+Dera Sir,
+
+This is to inform you that I am resigning form my position of Business Head , Poles and lighting BU
+and would liked to be relived as per company policy due to some personal reasons.
+The tenure in Transrail has been one of learning and joy and I am immensely grateful to the
+management for the support given to me during my stay at Transrail.
+I wish Transrail continued growth and wish all the best to the organization and all the members of
+the Transrail family.
+
+Thanking you once again for all the guidance and learning given to me.
+
+Regards,
+
+Ashok Rawat
+
+

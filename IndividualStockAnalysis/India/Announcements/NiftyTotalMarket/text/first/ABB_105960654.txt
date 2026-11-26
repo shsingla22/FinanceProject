@@ -1,0 +1,124 @@
+ 
+ 
+ 
+ABB India Limited  
+Registered and Corporate Office   
+Disha - 3rd Floor,  Plot No. 5 & 6, 2nd Stage  
+Peenya Industrial Area IV  
+Peenya, Bengaluru – 560 058  
+Karnataka , India  CIN: L32202KA1949PLC032923  
+GST: 29AAACA3834B1Z4  
+ 
+Phone: +91 80 2294  9150 – 54 
+Fax: +91 80 2294 9148  
+ Email: investor.helpdesk@in.abb.com   
+ 
+ 
+www.abb.com/in   REF: INABB:STATUT:LODR:PRESS REL:    August 21, 202 4 
+ 
+ 
+BSE Limited   
+P.J. Towers  
+Dalal Street  
+Mumbai 400 001       
+(Attn : DCS CRD)      
+ 
+ 
+National Stock Exchange of India Ltd  
+Exchange Plaza, 5th Floor  
+Plot No. C/1, G Block  
+Bandra -Kurla Complex, Bandra (E)     
+Mumbai 400 051      
+ 
+Dear Sirs  
+ 
+Sub: Press Release titled “ ABB surpasses 10GW milestone in delivering automation 
+solutions for renewable energy plants in India ” 
+ 
+Please find enclosed Press Release being issued by the Company on the captioned subject. 
+Kindly take note of the same . 
+ 
+Thanking you , 
+ 
+Yours faithfully , 
+ 
+For ABB India Limited  
+ 
+ 
+ 
+ 
+T K Sridhar  
+Chief Financial Officer  
+PAN:  ANIPS7791R  
+ 
+Encl: as above  
+ 
+ 
+  1/2  
+—  
+BENGALURU, INDIA, AUGUST 21, 2024  
+ABB surpasses 10GW milestone in 
+delivering automation solutions for 
+renewable energy plants in India  
+• ABB’s programmable logic controller -based automation solutions are 
+catering to renewable energy plants, including solar, wind and battery 
+energy storage systems (BESS)  
+• This milestone further strengthens ABB’s footprint in the renewable 
+energy industry and supports India’s push for transitioning to clean 
+energy sources  
+• ABB’s control and automation solutions are helping maximize the 
+effective use of renewable energy  
+ABB has surpassed a 10 -gigawatt (GW) milestone in delivering its automation solution for renewable 
+energy plants in India. Starting with a 100 -MW project about seven years ago, ABB has strengthened its 
+footprint in the renewable energy industry with this m ilestone, which is a result of over 300 renewable 
+energy projects across India utilizing ABB’s IoT -based PLC solution.  
+ABB’s PLC -based SCADA (supervisory control and data acquisition) system  is an automation control 
+solution, which helps  gather and analyze real -time data to run the plant optimally and enable low 
+maintenance. With this, operators  are also  able to easily monitor and analyze key parameters of the 
+plant  and get complete visibility of plant operations . Delivered as part of ABB’s Drive Products offering, 
+the u tility -scale SCADA solution helps reduce the cost and risk of investment in operating renewable 
+energy pl ants.  
+As energy demand continues to grow in India, the country is rapidly increasing its share of renewable 
+energy to reduce reliance on fossil fuels in line with its target of achieving net -zero carbon emissions by 
+2070. The country aims to reach 500 GW of installed electricity capacity from non -fossil fuel sources by 
+2030 . As r enewable energy plants can achieve carbon reduction of over 24 million tons per year on an 
+average, the ABB solution is playing a key role in catalyzing the country’s energy transition wi th 
+renewables, in line with its purpose to enable low -carbon societies.  
+  
+   
+ABB SURPASSES 10GW MILESTONE IN DELIVERING AUTOMATION SOLUTIONS FOR RENEWABLE ENERGY 
+PLANTS IN INDIA   2/2 “We are proud to support the country’s push towards clean energy transition. As India accelerates its 
+transition to a clean energy mix, technology is playing a crucial role in optimizing the capture of 
+renewable energy and ensuring the seamless operation of renewable energy plants . Our solution 
+remains at the center of this, helping enable efficient operations of hybrid plants, including solar, wind 
+and battery energy storage system (BESS),” said A R Madhusudan, President, Drive Products, ABB India . 
+“Our jou rney to the 10 -GW milestone also supports India's ambitious goals of a sustainable and resilient 
+energy ecosystem .” 
+Renewable applications often require complex safety calculations driven by the need to process vast 
+amounts of information to safely supervise the permissible range for temperature, pressure, and more. 
+BESS plays a critical role in balancing the intermittent availability of renewable energy  with the required 
+power demand via power storage, ensuring consistent power supply. Simultaneously, there is a need to 
+safely monitor and control these complex renewable processes . ABB’s cybersecure SCADA system 
+utilizes its powerful AC500 PLC to monitor key parameters and regulate plant operations in compliance with Indian grid code guidelines. It also helps generate customized reports with required analytics, 
+catering to the diverse needs of renewable energy plants, including hybrid plants consisting of wind, 
+solar and BESS.  
+The solar and wind sector s remain key driver s of new capacity addition in the Indian renewable energy 
+industry. As of July 31, 202 4, the total installed capacity of solar power stood at  about  87 G W, while the 
+total wind power capacity was  about  47 G W, according to data from the Union Ministry of New and 
+Renewable Energy. ABB has a strong footprint in the solar segment and has partnered with major EPC firms that are building projects across India . 
+ABB Motion, a global leader in motors and drives,  is at the core of accelerating a more productive and 
+sustainable future. We innovate and push the boundaries of technology to contribute to energy efficient, 
+decarbonizing and circular solutions for customers, industries and societies.  With our digitally enabled 
+drives, motors and services we support our  customers and partners to achieve better performance, 
+safety and reliability. We deliver motor driven solutions for a wide range of applications in all industrial segments. Building on over 140 years of domain expertise in electric  powertrains, our more than 22,000 
+employees across 100 countries learn and improve every day.  go.abb/motion  
+ABB is a technology leader in electrification and automation, enabling a more sustainable and resource-efficient future. The company’s solutions connect engineering know -how and software to optimize how 
+things are manufactured, moved, powered and operated.  Building on over 140 years of excellence, ABB’s 
+more than 105,000 employees are committed to driving innovations that accelerate industrial 
+transformation.  www.abb.com    
+— 
+For more information please contact:  
+Sohini Mookherjea  
+Phone: +91 9632726608 
+Email: sohini.mookherjea@in.abb.com     
+ 

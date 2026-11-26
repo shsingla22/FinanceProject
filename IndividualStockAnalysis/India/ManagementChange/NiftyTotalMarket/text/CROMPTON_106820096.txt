@@ -1,0 +1,136 @@
+--- CIM_13786_WebXMLFile_20261016_151746295_2.xml (the exchange's structured disclosure) ---
+NSESymbol: CROMPTON ; Name Of The Company: CROMPTON GREAVES CONSUMER ELECTRICALS LIMITED ; Scrip Code: 539876 ; MSEISymbol: NOTLISTED ; ISIN: INE299U01018 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-10-16 ; Time Of Occurrence Of Event Or Information: 10:50:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-10-16 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Compliance Officer ; Salutation Of Designated Person: Ms. ; Name Of Designated Person: Yesha Gandani ; Effective Date Of Reason Of Change: 2026-10-16 ; Salutation: Ms. ; Name Of The Person: Yesha Gandani ; Designation Of Person: Compliance Officer ; Date On Which The Resignation Letter Was Received: 2026-10-16 ; Effective Date Of Resignation: 2026-10-16 ; Reason Of Resignation In Brief: Personal Reasons
+
+--- ChangesinSMP_1.pdf ---
+Date: October 16, 2026
+To,
+BSE Limited (“BSE”),
+Corporate Relationship Department,
+2nd Floor, New Trading Ring,
+P.J. Towers, Dalal Street,
+Mumbai – 400 001.
+BSE Scrip Code: 539876
+ISIN: INE299U01018
+Our Reference: 100/2026-27
+
+To,
+National Stock Exchange of India Limited
+(“NSE”),
+“Exchange Plaza”, 5th Floor,
+Plot No. C/1, G Block,
+Bandra- Kurla Complex Bandra (East),
+Mumbai – 400 051.
+NSE Symbol: CROMPTON
+ISIN: INE299U01018
+Our Reference: 100/2026-27
+
+Dear Sir/Madam,
+Sub: Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+(“Listing Regulations”) – Change in Senior Management Personnel
+Pursuant to Regulation 30 of the Listing Regulations, we would like to inform that Ms. Yesha Gandani,
+Compliance Officer of the Company, designated as Senior Management Personnel, has tendered her resignation
+from the said role due to personal reasons.
+The Company has accepted her resignation, and she shall be relieved from her duties as Compliance Officer
+w.e.f. closure of business hours of October 16, 2026.
+Requisite disclosure as required under Regulation 30 of the Listing Regulations read with SEBI Master Circular
+No. HO/49/14/14(7)2025-CFD-POD2/I/3762/2026 dated January 30, 2026 is enclosed herewith as
+Annexure-A and the Resignation Letter of Ms. Yesha Gandani is enclosed as Annexure B.
+You are requested to take the above information on your record.
+Thanking you,
+For Crompton Greaves Consumer Electricals Limited
+Kaleeswaran
+Arunachalam
+
+Digitally signed by Kaleeswaran
+Arunachalam
+DN: cn=Kaleeswaran Arunachalam
+c=IN o=Personal
+Reason: Personal
+Location:
+Date: 2026-10-16 13:09+05:30
+
+Kaleeswaran Arunachalam
+Chief Financial Officer
+Encl: A/a
+
+
+Annexure-A
+Details as required under Regulation 30 of the Listing Regulations read with SEBI Master Circular No.
+SEBI/HO/CFD/PoD2/CIR/P/0155 dated November 11, 2024
+Sr. No
+1.
+2.
+3.
+4.
+5.
+6.
+
+Particulars
+Name and Designation
+Reason for change viz., appointment,
+resignation, removal, death or otherwise
+Date of appointment /cessation (as
+applicable) & terms of appointment
+Brief profile (in case of appointment)
+Disclosure of relationships between
+Directors (in case of appointment of a
+Director)
+Letter / E-mail of Resignation
+
+Details
+Ms. Yesha Gandani, Compliance Officer
+Resignation
+October 16, 2026
+Not Applicable
+Not Applicable
+Enclosed as Annexure B
+
+
+From:
+
+Promeet Ghosh
+
+Sent:
+
+16 October 2026 10:50
+
+To:
+
+Yesha Gandani
+
+Cc:
+
+Kaleeswaran Arunachalam
+
+Subject: Re: Resignation as Compliance Officer of the Company
+
+As mentioned in your mail the last date of your position as Compliance Officer would be
+16th Oct EOD.
+Regards
+
+Public
+
+From: Promeet Ghosh
+Sent: Friday, 16 October 2026 10:13:24
+To: Yesha Gandani
+Cc: Kaleeswaran Arunachalam
+Subject: Re: Resignation as Compliance Officer of the Company
+
+Approved. Thanks for your services as Compliance Officer Yesha.
+
+From: Yesha Gandani
+Sent: Friday, 16 October 2026 10:05:46
+To: Promeet Ghosh
+Cc: Kaleeswaran Arunachalam
+Subject: Resignation as Compliance Officer of the Company
+Dear Sir,
+This is to inform that I hereby tender my resignation as the Compliance Officer of the Company with
+effect from the close of business hours on October 16, 2026, due to personal reasons.
+I would like to express my sincere gratitude for the support, guidance and co-operation extended to
+me during my tenure in this role.
+Request to take the same on record and accord your acceptance.
+
+Thanks and Regards,
+Yesha Gandani
+
+

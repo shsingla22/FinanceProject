@@ -1,0 +1,29 @@
+--- CIM_1025_WebXMLFile_20261029_164925852_2.xml (the exchange's structured disclosure) ---
+NSESymbol: PRAJIND ; Name Of The Company: PRAJ INDUSTRIES LIMITED ; Scrip Code: 522205 ; MSEISymbol: NOTLISTED ; ISIN: INE074A01025 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: true ; Date Of Board Meeting: 2026-10-29 ; Start Time Of Board Meeting: 11:00:00 ; End Time Of Board Meeting: 15:45:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 2 ; Date Of Report: 2026-10-29 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Director ; Designation Of Designated Person: Non - Executive Independent Director ; Position Of Director In Board Two: Not Applicable ; Position Of Director In Board Three: Not Applicable ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Shridhar Shukla ; Effective Date Of Reason Of Change: 2026-10-29 ; Type Of Change: Appointment ; Name Of Designated Person: Vijay Ratnaparkhe ; Term Of Appointment In Months: 60 ; Brief Profile: Mr. Ratnaparkhe was the president of Bosch in Southeast Asia and OCEANIA as well as the Managing Director of Bosch in Singapore since January 2023 till December 2025. He was responsible for the strategy, growth, and steering of the company’s business in the region. Up until 2023, Vijay was Chief Information Officer (CIO) and president of the Global Information Systems and Services at Robert Bosch GmbH since September 2019. He was additionally heading the technology center of the company’s Information Systems and Services from January 2022. He was responsible for strategy and innovation; quality management and methodology; product excellence, service framework, and customer service; infrastructure;digital-workplace implementation; as well as technology excellence within these service areas of the company. Vijay holds a Master of Technology from Indian Institute of Technology (IIT) Bombay, Mumbai, and an Undergraduate degree in Chemical Engineering from Mumbai University (ICT). ; Disclosure Of Relationships Between Directors In Case Of Appointment Of Director: None ; Salutation: Mr. ; Name Of The Person: Shridhar Shukla ; Designation Of Person: Non - Executive Independent Director ; Date On Which The Resignation Letter Was Received: 2026-10-29 ; Effective Date Of Resignation: 2026-10-29 ; Reason Of Resignation In Brief: Personal and other professional commitments ; Name Of Director: Shridhar Shukla ; Name Of The Company In Which Holding Directorship: KPOINT Technologies Pvt. Ltd. ; Category Of Directorship: Director ; Membership Of Board Committee: NIL ; Name Of The Company In Which Holding Directorship: AVM Technologies India Pvt. Ltd.
+
+--- CIMG_522205_29102026164635_1.pdf ---
+Date: 29th October, 2026
+To,
+The Board of Directors
+Praj Industri es Limited
+S ub.: Resignation from th e positi on o f Inde pend ent Director of the Com pany
+
+Dear Sir/Madam,
+l, Dr. Sh ridhar Shukla (DI N: 00007607), hereby tender my resignation from the position of
+Independent Director of Praj Industries Limited with effect from the close of business hours on
+29th October, 2026, due to personal and other pro fessional comm itments.
+I futiher confirm that there are no material reasons for my resignation other than those stated
+above.
+
+I take this opportunity to express my sincere gratitude to the Board of Directors of the Company
+fo r their support and cooperation extended Lo me during my tenure with the Company.
+You are requested Lo kindly take the same on record and complete the necessary statutory
+formalities in this regard.
+Thanking you,
+Yours faithfu lly.
+
+Dr. Shridhar Shukla
+Independent Di rector
+DIN : 00007607
+
+

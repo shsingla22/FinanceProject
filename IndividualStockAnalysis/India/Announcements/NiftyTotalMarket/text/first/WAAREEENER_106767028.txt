@@ -1,0 +1,474 @@
+ 
+WAAREE Energies Ltd. 
+Registered Office: 
+602, Western Edge – 1, Western Express Highway, Borivali (E), Mumbai – 400 066, INDIA. 
+Tel: +91-22-6644 4444. Fax: +91-22-6644 4400.  
+Email: waaree@waaree.com.Website:www.waaree.com  
+Corporate Identity Number:L29248MH1990PLC059463 
+ 
+ 
+September 02, 2026 
+ 
+To  
+The Manager,  
+Listing Department  
+BSE Limited  
+Phiroze Jeejeebhoy Towers  
+Dalal Street,  
+Mumbai - 400 001 
+Scrip Code:  544277 
+   
+To 
+The Manager,  
+Listing Department  
+National Stock Exchange of India Limited 
+Exchange Plaza, C-1 Block G,  
+Bandra - Kurla Complex, Bandra (East)  
+Mumbai - 400 051 
+Trading Symbol: WAAREEENER 
+Dear Sir/Ma’am, 
+ 
+Sub: Business Responsibility and Sustainability Report for the Financial Year 2025-26.  
+ 
+Pursuant to Regulation 34(2)(f) of the Securities Exchange Board of India (Listing Obligations and 
+Disclosure Requirements) Regulations, 2015, please find enclosed the Business Responsibility 
+and Sustainability Report for the Financial Year 2025-26, along with Independent Reasonable 
+and Limited Assurance Report provided by Bureau Veritas (India) Private Limited. 
+ 
+The BRSR forms an integral part of the Integrated Annual Report of the Company for the Financial 
+Year 2025-26. 
+ 
+The BRSR is also available at the website of the Company at www.waaree.com .  
+ 
+Please take the same on your records.  
+ 
+Thanking you,  
+ 
+Yours faithfully , 
+ 
+For Waaree Energies Limited  
+ 
+ 
+ 
+Rajesh Ghanshyam Gaur  
+Company Secretary & Compliance Officer 
+M.No. A34629  
+ 
+ 
+ 
+ 
+Annexure 1
+Business Responsibility and Sustainability Report Core
+Sr.
+No.Attribute BRSR Core 
+ParameterMeasurement Unit FY 2025-26 Reference
+1 Green-house gas 
+(GHG) footprintTotal Scope 1 
+emissionsTotal Scope 1 emissions Metric Tons of 
+CO2e339.74 Principle 6, 
+Question 7 
+of Essential 
+Indicators
+Total Scope 2 
+emissionsTotal Scope 2 emissions Metric Tons of 
+CO2e2,47,886.65 Principle 6, 
+Question 7 
+of Essential 
+Indicators
+GHG Emission 
+Intensity (Scope-1+2)Total Scope 1 and Scope 2 GHG 
+emissions per revenue from the 
+operationsMetric Tons of 
+CO2e per Million 
+of Turnover1.182 Principle 6, 
+Question 7 
+of Essential 
+Indicators
+GHG Emission 
+Intensity (Scope-1+2)Total Scope 1 and Scope 2 GHG 
+emissions per Wp of Products 
+produced.Metric Tons of 
+CO2e per Wp of 
+Product0.00002523 Principle 6, 
+Question 7 
+of Essential 
+Indicators
+2 Water footprint Total Water 
+ConsumptionWater Withdrawal by Source Kiloliters (KL) Principle 6, 
+Question 3 
+of Essential 
+IndicatorsSurface Water Kiloliters (KL) 0
+Ground Water Kiloliters (KL) 22,73,145
+Third Party Water Kiloliters (KL) 5,612
+Seawater / Desalinated Water Kiloliters (KL) 0
+Other Kiloliters (KL) 0
+Total Volume of Water 
+Withdrawal (i+ii+iii+iv+v)Kiloliters (KL) 22,78,757
+Total volume of water 
+consumptionKiloliters (KL) 22,78,757 Principle 6, 
+Question 3 
+of Essential 
+Indicators
+Water Consumption 
+intensityWater intensity per rupee of 
+TurnoverKiloliters (KL) per 
+Million Rupee10.856 Principle 6, 
+Question 3 
+of Essential 
+IndicatorsWater intensity per Wp of 
+ProductionKiloliters (KL) per 
+Wp0.0002316
+Water discharge 
+by destination and 
+levels of treatment(i) Into Surface water Principle 6, 
+Question 3 
+of Essential 
+Indicators-No treatment Kiloliters (KL) 0
+-With treatment – please 
+specify level of treatmentKiloliters (KL) 0
+(ii) Into Groundwater
+-No treatment Kiloliters (KL) 0
+-With treatment – please 
+specify level of treatmentKiloliters (KL) 0
+Business Responsibility And Sustainability Report1
+
+Sr.
+No.Attribute BRSR Core 
+ParameterMeasurement Unit FY 2025-26 Reference
+(iii) Into Seawater
+-No treatment Kiloliters (KL) 0
+-With treatment – please 
+specify level of treatmentKiloliters (KL) 0
+(iv) Sent to third-parties
+-No treatment Kiloliters (KL) 53,526.20
+-With treatment – please 
+specify level of treatmentKiloliters (KL) 0
+(v) Others
+-No treatment Kiloliters (KL) 0
+-With treatment – please 
+specify level of treatmentKiloliters (KL) 0
+Total water discharged Kiloliters (KL) 0
+3 Energy Footprint % of energy 
+consumed from 
+renewable sourcesEnergy Consumed through 
+renewable sources / Total 
+Energy Consumed.% 5.34% Principle 6, 
+Question 1 
+of Essential 
+Indicators
+Total Energy 
+ConsumedFrom Renewable sources Megajoule [MJ] Principle 6, 
+Question 1 
+of Essential 
+IndicatorsTotal electricity consumption (A) Megajoule [MJ] 7,09,25,489.00
+Total fuel consumption (B) Megajoule [MJ] 0
+Energy consumption through 
+other sources (C)Megajoule [MJ] 0
+Total Energy Consumed 
+[A+B+C]Megajoule [MJ] 7,09,25,489.00
+From non-renewable sources Megajoule [MJ]
+Total electricity consumption (D) Megajoule [MJ] 1,25,68,90,063.00
+Total fuel consumption (E) Megajoule [MJ] 68,91,197.20
+Energy consumption through 
+other sources (F)Megajoule [MJ] 0
+Total non-renewable energy 
+consumption (D+E+F)Megajoule [MJ] 1,263,781,260.20
+Total energy consumed 
+(A+B+C+D+E+F)Megajoule [MJ] 1,334,706,749.20
+Energy Intensity Energy intensity per rupee of 
+turnover 
+(Total energy consumed / 
+Revenue from operations)Megajoule 
+[MJ] per Million 
+Rupee turnover6,358.619 Principle 6, 
+Question 1 
+of Essential 
+Indicators
+Energy intensity in terms of 
+physical output
+(Total energy consumed / Wp of 
+Production)Megajoule [MJ] 
+per Wp0.1356 Principle 6, 
+Question 1 
+of Essential 
+Indicators
+2
+Waaree Energies Limited  | Integrated Annual Report 2025-26
+Sr.
+No.Attribute BRSR Core 
+ParameterMeasurement Unit FY 2025-26 Reference
+4 Embracing 
+circularity - details 
+related to waste 
+management by 
+the entityPlastic waste (A) Kg / MT Metric Tons 1,681 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+E-waste (B) Kg / MT Metric Tons 209.5 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Bio-medical waste 
+(C)Kg / MT Metric Tons 0.0166 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Construction and 
+demolition waste (D)Kg / MT Metric Tons 0Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Battery waste (E) Kg / MT Metric Tons 0Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Radioactive waste 
+(F)Kg / MT Metric Tons 0Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Other Hazardous 
+waste. Please specify, 
+if any. (G) (Spent Oil, 
+ETP Sludge)Kg / MT Metric Tons 4804.49 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Other Non-
+hazardous waste 
+generated (H). 
+Please specify, if any. 
+Aluminium – 230, 
+Copper – 28
+Glass – 1533, Wood – 
+39382,
+Paper – 13886, 
+Rubber-46, 
+MS Drum-1619, 
+BackSheet-1677Kg / MT Metric Tons 58,401 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Total waste 
+generated ((A+B + C 
++ D + E + F + G + H)Kg / MT Metric Tons 65,096.01 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Waste Intensity Waste intensity per rupee of 
+turnover
+(Total waste generated / 
+Revenue from operations)Metric Tons per 
+Million of Rupee 
+Turnover0.3101 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Waste intensity in terms of 
+physical output (MT/Wp)Metric Tons per 
+Wp0.00000661 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Each category of 
+waste generated, 
+total waste 
+recovered through 
+recycling, re-using 
+or other recovery 
+operations(i) Recycled Metric Tons 0Principle 6, 
+Question 9 
+of Essential 
+Indicators
+Business Responsibility And Sustainability Report3
+
+Sr.
+No.Attribute BRSR Core 
+ParameterMeasurement Unit FY 2025-26 Reference
+(ii) Re-used (Pallet reuse in 
+operations)Metric Tons 1039.71 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+(iii) Other recovery operations 
+(Refining & Filtration through 
+third party)Metric Tons 0Principle 6, 
+Question 9 
+of Essential 
+Indicators
+For each category 
+of waste generated, 
+total waste disposed 
+by nature of disposal 
+method(i) Incineration Metric Tons 0Principle 6, 
+Question 9 
+of Essential 
+Indicators
+(ii) Landfilling Metric Tons 0Principle 6, 
+Question 9 
+of Essential 
+Indicators
+(iii) Other disposal operations
+(Supply as Fuel for Cement 
+Plant)Metric Tons 163.97 Principle 6, 
+Question 9 
+of Essential 
+Indicators
+5 Enhancing 
+Employee 
+Wellbeing and 
+SafetySpending on 
+measures towards 
+well-being of 
+employees and 
+workers – cost 
+incurred as a % of 
+total revenue of the 
+companyIn % terms % 0.047% Principle 3, 
+Question 11 
+of Essential 
+Indicators
+Details of safety 
+related incidents 
+for employees and 
+workers (including 
+contract-workforce 
+e.g. workers in 
+the company's 
+construction sites)Number of Permanent 
+DisabilitiesNumber 0Principle 3, 
+Question 11 
+of Essential 
+Indicators
+Lost Time Injury Frequency Rate 
+(LTIFR) (per one MillionNumber 0Principle 3, 
+Question 11 
+of Essential 
+Indicators
+Number of Fatalities Number 0Principle 3, 
+Question 11 
+of Essential 
+Indicators
+6 Enabling Gender 
+Diversity in 
+BusinessGross wages paid 
+to females as % of 
+wages paidIn % terms % 5.36% Principle 5, 
+Question 
+3(b) of 
+Essential 
+Indicators
+Complaints on POSH Total Complaints on Sexual 
+Harassment (POSH) reportedNumber 0Principle 5, 
+Question 7 
+of Essential 
+Indicators
+Complaints on POSH as a % of 
+female employees / workers% 0Principle 5, 
+Question 7 
+of Essential 
+Indicators
+Complaints on POSH upheld Number 0Principle 5, 
+Question 7 
+of Essential 
+Indicators
+4
+Waaree Energies Limited  | Integrated Annual Report 2025-26
+Sr.
+No.Attribute BRSR Core 
+ParameterMeasurement Unit FY 2025-26 Reference
+7 Enabling Inclusive 
+DevelopmentInput material 
+sourced from 
+following sources as 
+% of total purchases 
+–
+Directly sourced 
+from MSMEs/ small 
+producers and from 
+within IndiaIn % term - As % of total 
+purchases by value% 0.1% Principle 8, 
+Question 4 
+of Essential 
+Indicators
+Job creation in 
+smaller towns – 
+Wages paid to 
+persons employed 
+in smaller towns 
+(permanent or 
+non-permanent /
+on contract) as % of 
+total wage costIn % term - As % of total wage 
+cost% 51.70% Principle 8, 
+Question 5 
+of Essential 
+Indicators
+8 Fairness in 
+Engaging with 
+Customers and 
+SuppliersInstances involving 
+loss / breach of data 
+of customers as a 
+percentage of total 
+data breaches or 
+cyber security eventsIn % terms % 0% Principle 9, 
+Question 7 
+of Essential 
+Indicators
+Number of days of 
+accounts payable(Accounts payable *365) / Cost 
+of goods/services procuredDays 49 Principle 1, 
+Question 8 
+of Essential 
+Indicators
+9 Open-ness of 
+businessConcentration of 
+purchases & sales 
+done with trading 
+houses, dealers, and 
+related parties
+Loans and advances 
+& investments with 
+related partiesPurchases from trading houses 
+as % of total purchases% 0% Principle 1, 
+Question 9 
+of Essential 
+Indicators
+Number of trading houses where 
+purchases are made fromNumber 0Principle 1, 
+Question 9 
+of Essential 
+Indicators
+Purchases from top 10 trading 
+houses as % of total purchases 
+from trading houses% 0% Principle 1, 
+Question 9 
+of Essential 
+Indicators
+Sales to dealers / distributors as 
+% of total sales% 24.89% Principle 1, 
+Question 9 
+of Essential 
+Indicators
+Number of dealers / distributors 
+to whom sales are madeNumber 538 Principle 1, 
+Question 9 
+of Essential 
+Indicators
+Sales to top 10 dealers / 
+distributors as % of total sales to 
+dealers / distributors% 15% Principle 1, 
+Question 9 
+of Essential 
+Indicators
+Share of RPTs (as respective 
+%age)Principle 1, 
+Question 9 
+of Essential 
+IndicatorsPurchases % 8%
+Sales % 7%
+Loans & advances % 100%
+Investments % 100%
+Business Responsibility And Sustainability Report5

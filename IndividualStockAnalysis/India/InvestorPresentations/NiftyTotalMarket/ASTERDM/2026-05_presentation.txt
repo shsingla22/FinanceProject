@@ -1,0 +1,2926 @@
+
+=== page 1 ===
+  
+ 
+ April 30, 202 6 
+To 
+The Secretary , 
+Listing Department,  
+BSE Limited,  
+1st Floor, Phiroze Jeejeebhoy Towers , 
+Dalal Street, Mumbai 400001 . 
+ 
+Scrip Code:  540975  To 
+The Manager,  
+Listing Department,  
+The National Stock Exchange of India Ltd , 
+Exchange Plaza, Bandra Kurla Complex , 
+Bandra (East), Mumbai 400051 . 
+ 
+Scrip Symbol:  ASTERDM  
+ 
+Dear Sir/Madam,  
+Sub: Investor Presentation for the quarter and year ended March 31, 202 6 
+ 
+Ref: Our letter dated April 27, 2026,  and Regulation 30 read- w i t h  S c h e d u l e  I I I  o f  t h e  S E B I  (Listing 
+Obligations and Disclosure Requirements) Regulations, 2015  
+With reference to the captioned subject, please ﬁnd enclosed the Management’s Presentation for the 
+Earnings Conference Call with analysts/ Investors  scheduled for May 1, 2026, in relation to the audited 
+ﬁnancial results for the quarter and year ended March 31, 2026.  
+Kindly take the above- said information on record.  
+Thank you 
+For Aster DM Healthcare Limited  
+ 
+___________________  
+Hemish Purushottam  
+Company Secretary and Compliance Oﬃcer  
+M. No. A24331  
+ 
+ 
+ 
+=== page 2 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+1
+For the quarter and full year ending March 31, 2026Earnings Presentation
+
+=== page 3 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+2
+Disclaimer
+•This presentation  has been  prepared  by Aster  DM Healthcare  Limited  (the "Company"),  content  of which  was compiled  from sources  believed  to be reliable  for 
+informational  purposes  only and are based  on information  regarding  the Company  and the economic,  regulatory,  market  and other  conditions  as in effect  on the date 
+hereof . Subsequent  developments  may impact  the information  contained  in this presentation,  which  neither  the Company  nor its advisors  or representatives  are under  
+an obligation  to update,  revise  or affirm . Contents  in the Presentation  do not constitute  or form part of an offer or invitation  for sale or subscription  of or solicitation  or 
+invitation  of any offer to buy or subscribe  for any securities,  nor shall it or any part of it form the basis  of or be relied  on in connection  with any contract,  commitment  or 
+investment  decision  in relation  thereto  in India,  the United  States  or any other  jurisdiction .
+•Prospective  and existing  investors  should  make  their own evaluation  of the Company  as the information  provided  here does  not purport  to be all inclusive  or to contain  
+all of the information  a prospective  or existing  investor  may desire . Interested  parties  shall conduct  their own due diligence  and investigation  on the information,  before  
+relying  and acting  thereon . Company  makes  no representation  or warranty  as to the accuracy  or completeness  of this information  and shall not have  any liability  for any 
+representations  (expressed  or implied)  regarding  information  contained  in, or for any omissions  from,  this information  or any other  written  or oral communications  
+transmitted  to the recipient  in the course  of its evaluation  of the Company .
+•This presentation  may contain  certain  "forward  looking  statements",  which  are based  on certain  assumptions  and expectations  of future  events . Actual  future  
+performance,  outcomes  and results  may differ  materially  from those  expressed  in forward‐looking  statements  as a result  of a number  of risks,  uncertainties  and 
+assumptions . Though  such forward‐looking  statements  are based  on reasonable  assumptions,  it can give no assurance  that such expectations  will be met. Neither  the 
+Company  nor any of its advisors  or representatives  assumes  any responsibility  to update  forward -looking  statements  or to adapt  them  to future  events  or developments .
+•Note - QCIL  Numbers  are Indicative  and subject  to statutory  audit  adjustments . Proforma  numbers  for combined  entity  are also subject  to finalization  and 
+audit  of the merged  accounts . Actual  amounts,  losses  or impact  on net profit  could  materially  differ  from  those  that have  been  estimated . In addition,  other  
+factors  that could  cause  actual  results  to differ  materially  from  those  estimated  include  harmonization  of accounting  policies  and practices .  
+=== page 4 ===
+Aster + QCIL : Combined 
+PerformanceAster 
+We'll Treat You Well 
+=== page 5 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+4
+20.7%21.9%
+Q4FY25 Q4FY26Combined Proforma ( Aster+QCIL ): Performance Highlights for Q4FY26
+The Combined Entity demonstrates Strong YoY Revenue Growth aided by steady Patient Volume growth 
+▪The combined entity1 (on a proforma basis) delivered an 18% YoY growth in Revenue, reaching INR 2,361 crores in Q4FY26 
+▪T otal Patient Volumes grew by 12% YoY reaching 1.93 Mn with occupancy increasing 210 bps to 61% in Q4FY26
+▪ARPP IP grew by 8% YoY reaching 129,779  in Q4FY26. Improved CONGO Mix (by over 200 bps) as well as Payor Mix (Cash & Insuran ce at 83%) for the year.
+Robust EBITDA Growth Reflecting Operational leverage and Effective Cost Management; Improvement in RoCE Reflecting better ass et utilisation
+▪The merged entity1 delivered robust 25% YoY EBITDA2 growth (27% ex. Kasargod) to INR 517 crores in Q4FY26
+▪The EBITDA2 margins at 21.9% (22.4% ex. Kasargod) in Q4FY26 as compared with 20.7% in Q4FY25
+▪RoCE3 increased by ~290 bps reaching 21.1% in Q4FY26 from 18.2% in Q4FY25
+Merger Update 
+1. Proforma Basis. 
+2. Combined Operating EBITDA is Post INDAS EBITDA adjusted for one off expenses, ESOP cost, movement in fair value of continge nt consideration and variable O&M fee
+3. RoCE is computed on average capital employed excl. revaluation reserves and CWIP and IntangiblesAdded 373 beds during the last year taking bed capacity to 10,623 as on Mar 31, 2026 
+Revenue from Operations (INR Cr)
+▪The merger proposal received overwhelming shareholder approval, with 96.68% of total votes cast in favor
+▪The merger is expected to be completed in Q1 FY271.731.93
+Q4FY25 Q4FY26414517
+Q4FY25 Q4FY262,0022,361
+Q4FY25 Q4FY26Operating EBITDA2(INR Cr) Operating EBITDA Margin2 (%) Total Patient Volume (mn)
+=== page 6 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Combined Proforma Numbers for Q4FY26
+Financial Metrics
+Aster
+ QCIL
+ Merged Entity * 
+ =
+ +
+(Figures for Q4FY26)
+1. QCIL numbers are indicative and subject to statutory audit adjustments, if any
+2. Combined Operating EBITDA is Post INDAS EBITDA adjusted for one off expenses, ESOP cost, movement in fair value of contingent  consideration and variable O&M fee
+3. RoCE is computed on average capital employed excl. revaluation reserves and CWIP and Intangibles* Proforma financials for combined entity are subject to finalization and audit of the merged accounts. Actual amounts, losse s or impact on net profit could materially differ from those that have been estimated. In addition, other factors that could cau se actual results to 
+differ materially from those estimated include harmonization of accounting policies and practices. YoY Growth
+Revenue (INR Cr)
+ 1,182
+ 1,1781
+2,361 18%
+Operating EBITDA2 (INR Cr)
+ 244
+ 272
+ 517 25%
+5
+Net Debt (INR Cr)
+ (626)
+ 763
+ 1,388
+Op EBITDA Margin %
+ 20.7%
+ 23.1%
+ 21.9% 118 bps
+ROCE3 (%) 
+ 21.3%
+ 21.0%
+ 21.1% 293 bps
+
+=== page 7 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Combined Proforma Numbers for Q4FY26
+Financial Metrics
+Aster
+ QCIL
+ Merged Entity * 
+ =
+ +
+(Figures for Q4FY26)
+Operational Metrics
+No. of Hospitals (Nos)
+ 201
+16
+5,449
+1,25,234
+0.98
+39
+28
+10,623
+1,29,779
+1.93YoY Growth
+4%
+8%
+12%
+City Presence (Nos)
+Beds Capacity3 (Nos)
+ARPP IP (INR)
+Total Patient Volume (Mn)
+1. Includes WIMS
+2. Includes Nagercoil facility (Tamil Nadu) which was operationalized in Oct ’24
+3. Refers to total capacity beds as of  Mar ’26* Proforma numbers for combined entity are subject to finalization and audit of the merged accounts. Actual amounts, losses o r impact on net profit could materially differ from those that have been estimated. In addition, other factors that could cause actual results to 
+differ materially from those estimated include harmonization of accounting policies and practices. 
+Occupancy (%)
+ 59%
+192 
+14
+5,174
+1,34,733
+0.95
+64%
+ 61%
+6210 bps
+
+=== page 8 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+7
+Combined Proforma (Aster + QCIL) : Performance Highlights for FY 26Operational
+RoCE3FinancialFY26 : 21.1%
+FY25 : 18.2%293 bps
+Revenue
+FY26 : INR 9,273 Cr
+FY25  : INR 8,105 Cr14%
+FY26  : INR 2,013 Cr
+FY25  : INR 1,665 Cr21%Operating EBITDA2
+ Op. EBITDA Margin
+FY26 : 21.7%
+FY25 : 20.5%116 bps
+ARPP IP Capacity Beds
+FY26 : 10,623 FY26  :1,27,074
+FY25 : 1,16,162 FY25 : 10,250373
+ALOS (Days)
+FY26 : 3.5 days
+FY25 : 3.6 days-3% 9%
+71. Proforma Basis. 
+2. Combined Operating EBITDA is Post INDAS EBITDA adjusted for one off expenses, ESOP cost, movement in fair value of continge nt consideration and variable O&M fee
+3. RoCE is computed on average capital employed excl. revaluation reserves and CWIP and Intangibles
+Total Patient
+FY26 : 7.71 mn
+FY25 : 7.05 mn9%FY26 (Ex-Kasargod ) > Up 22% YoY to INR 2,035 Cr Up  145+ bps to 22.0% Up 355+ bps to 21.7%
+* Proforma financials for combined entity are subject to finalization and audit of the merged accounts. Actual amounts, losse s or impact on net profit could materially differ from those that have been estimated. In addition, other factors that could cau se actual results to differ materially from 
+those estimated include harmonization of accounting policies and practices. 
+=== page 9 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Merger Implementation: Progress Update
+Expected timeline for the completion of the Merger: Q 1FY27Transaction 
+Announcement
+In Nov’24, Company announced:
+Merger of Quality Care with the Company (“ Merger ”) and 
+Preferential allotment of ~3.6% stake to Blackstone and TPG in the Company in lieu of initial acquisition of 5.0% stake in Qu ality 
+Care by the Company (“ Share Swap ”)
+Share Swap
+Company has received shareholders' approval, CCI approval and stock exchange approval
+Post receipt of the statutory approvals, company has completed the Share Swap, thereby owning 5.0% stake in Quality Care 
+and the shares issued by Aster to Blackstone and TPG are now listed on the stock exchanges
+The merger proposal received overwhelming shareholder approval, with 96.68 % of total votes cast in favorCCI Approval
+Company has received the CCI approval for the Share Swap and the Merger
+Shareholders’ 
+ApprovalLatest in Q 4Company has received CCI approval for the Share Swap and the Merger
+NCLT Approval Company had filed the application to NCLT on  December 11, 2025
+NCLT to review the application and once approved, Merger will be made effective and new shares of the company will be issued.Stock Exchange 
+Approval
+Company has received no -objection letter with no adverse observations from the Stock Exchanges/ SEBI 
+=== page 10 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+9
+Aster + QCIL Hospitals: Pipeline Projects
+56% Beds in Existing FacilitiesTotal Addition of 4,445 beds, bringing the total bed capacity to 15,068 beds
+Current1 Projected
+44% Beds in New facilities
+1. Total bed capacity as of March 202610,6238781,3051,462800
+FY27: 878 beds FY29: 1,462 beds15,068
+FY28: 1,305 beds
+Share of Brownfield Beds in the expansion plan increased to 56% in Q 4 FY26 from 54% in Q 3 FY26FY30 and beyond: 
+800 beds
+=== page 11 ===
+Aster DM -
+Performance HighlightsAster 
+We'll Treat You Well 
+=== page 12 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Aster: Key Highlights for Q4FY26 
+Strong double -digit YoY growth in Revenue and Operating EBITDA led by robust performance across Core Hospital & Clinics as well as Labs businesses, 
+despite macro headwinds 
+Added 290 beds during the last year taking bed capacity to 5,449 as on March 31, 2026, (largely driven by 263 beds added in M IMS Kasargod)26% YoY ( 31% ex -Kasargod) Operating EBITDA growth in Q 4FY26 driven by improved performance across businesses as well as clusters18% YoY ( 17% YoY ex -Kasargod) overall revenue growth in Q 4FY26 on back of stronger growth in Patient volumes
+▪Core Hospital & Clinics revenue grew by 18% YoY (ex -Kasargod grew by 17%) in Q4FY26
+▪T otal patient volume grew by 15% Y oY in Q4FY26 
+▪ARPP IP rose by 9% YoY in Q4 FY26
+▪Kerala revenue grew by 21% Y oY in Q4 FY26
+▪Karnataka & Maharashtra revenue grew by 1 1% Y oY in Q4 FY26
+▪Andhra & T elangana revenue grew by 30% YoY in Q4FY26
+▪Labs’ revenue grew by 18% YoY in Q4FY26
+▪Significant growth in MVT revenue by 41% YoY in Q4FY26, led by 51% YoY growth in Kerala MVT revenue
+▪Overall Operating EBITDA margins at 20.7% (21.7% ex -Kasargod) in Q4FY26 as compared with 19.3% in Q4FY25 
+▪Core hospitals & clinics Operating EBITDA grew 32% YoY (36% ex -Kasargod) in Q4FY26; Op EBITDA Margin at 23.1% (24.3% ex -Kasargod ) from 20.8% in Q4 FY25
+▪Kerala Cluster Operating EBITDA grew by 27% YoY (35% ex -Kasargod) with margins at 23.5% (25.6% ex. Kasargod) in Q4FY26 from 22.3 % in Q4FY25
+▪Karnataka & Maharashtra Operating EBITDA grew by 25% with margin at 24.5% in Q4 FY26 vs. 21.8% in Q4 FY25
+▪Andhra & Telangana cluster Operating EBITDA grew more than double with margins at 18.3% in Q4FY26 vs 11.2% in Q4FY25
+▪Labs’ Operating EBITDA grew by 181% YoY in Q4 FY26 with margins improved to 14.7% in Q4 FY26 from 6.2% in Q4 FY25
+Healthy growth in Cardiac revenue by 25% increasing the contribution from 14% to 15%. Oncology revenue increased by 23% YoY; contribution at 11%
+1175 beds at Aster Ramesh Ongole, and 159 beds at Aster Whitefield, Bengaluru, got Operationalised in April' 26
+=== page 13 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+12
+Aster: Performance Financial Highlights for Q4FY26 
+ARPP IP Capacity Beds
+Q4FY26 : 5,449 Q4FY26  : 1,25,234
+Q4FY25 : 1,14,624Operational
+Q4FY25 : 5,159290
+In Patients ALOS (Days)
+Q4FY26 : 3.1 days Q4FY26 : 68,231
+Q4FY25 : 64,011 Q4FY25 : 3.1 days-2% 7%
+Out-Patient
+Q4FY26 : 0.91 mn
+Q4FY25 : 0.79 mn9% 15%
+1. Revenue, Operating EBITDA and EBITDA excludes other income.
+2. Operating EBITDA for the period Q 4 FY26 excludes the ESOP Cost of Rs. 1.7 Cr [Q 4 FY25: 0.7 Cr], Movement in fair value of contingent consideration payable of Rs. Nil Cr [Q 4 FY25 : -7.4 Cr] , Variable O&M fee amounting to Rs. 10.1 Cr [Q 4 FY25 : 7.6 Cr]. 
+[Our Operating & Management (O&M) agreements, encompasses both fixed and variable component. While the fixed component of the  O&M fee is delineated into depreciation and finance costs as per Ind AS 116, whereas the variable component falls outside 
+the scope of IndAS  116, leading to an incomplete reflection of the standard's impact in EBITDA]
+3. The Normalised PAT for Q 4 FY26 excludes exceptional income of ₹ 53.9 Cr [Q 4 FY25: Nil Cr] arising from minimum wage reversal and other reversals, as well as exceptional expenses of ₹ 53.6 Cr (Q 4 FY25: ₹26.4 Cr), which includes merger related costs, 
+CSR expenses related to profits from the sale of the GCC business and Other provisions. 
+4. ROCE = EBIT/Average Capital Employed; [Capital employed excludes CWIP, Land Revaluation reserve and Investment in QCIL]
+The CWIP for ongoing projects (including ROU, Capital Advances, and Capital Creditors) amounts to ₹ 1,173 Cr for Q 4 FY26[Q4 FY25 : ₹ 979 Cr]
+Revenue1 Operating EBITDA1,2FinancialQ4FY26 : INR 1,182 Cr Q4FY26 : INR 244 Cr
+Q4FY25 : INR 193 Cr Q4FY25 : INR 1,000 Cr18% 26%
+Op EBITDA Margin1,2
+Q4FY26 : 20.7%
+Q4FY25 : 19.3%134 bps
+Normalised PAT3
+Q4FY26 : INR 140 Cr
+Q4FY25 : INR 106 Cr32%(Post -NCI)
+RoCE4
+Q4FY26 : 21.3%
+Q4FY25 : 19.5%180 bps
+Q4 FY26 (Ex-Kasargod ) > Up 31% YoY to INR 253 Cr Up  235+ bps to 21.7% Up 45% YoY to INR 153 Cr Up 325+ bps to 22.8%
+=== page 14 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+13
+Other 
+Business 
+Highlights 
+1. Surgery counts are for FY26    2. Over 7 Years   Capex▪Adding 2,728 beds to reach 8,177 capacity — 688 beds in FY27, 76 0 beds  in FY28, 1,280 beds beyond FY28
+▪FY27 and FY28  Expansion – Aster Capital, Trivandrum | Aster Sarjapur, Bengaluru | Aster Hyderabad
+▪FY29 and FY30  Expansion –  Aster CMI, & Aster Yeswanthpur , Bengaluru | Aster Medcity, Kochi | MIMS Calicut, & MIMS Kannur, Kerala
+13Clinical 
+Highlights
+(FY26)▪Neurosciences department at Aster Whitefield hospital has successfully completed 2,000 Brain and Spine Surgeries in less than  2 years
+▪Kerala’s 1st transcatheter Fontan procedure performed at Aster Medcity , Kochi
+▪Parenchyma -preserving bronchus intermedius sleeve resection milestone achieved at MIMS Kannur
+▪District’s 1st robotic cancer surgery in the private sector performed at MIMS Kottakkal
+▪Karnataka’s 1st robotic -assisted revision knee replacement using CORI system at Aster RV, Bengaluru
+▪1st TMVR (Transcutaneous Mitral Valve Replacement ) successfully performed at Aster Whitefield, Bengaluru
+▪Lymph venous Anastomosis at Aster Whitefield, Bengaluru  – Likely firsttime in India​​
+2,045 +
+Cardio -vascular 
+surgeries
+3,805 +
+Joint 
+Replacements
+5,580+
+Neuro 
+surgeries2,695+
+Robotic 
+surgeries
+12,040 +
+Urology 
+procedures45,335+
+CIG/PTCA (Angiogram & 
+Angioplasty)
+4,990 +
+Gastro -intestinal 
+surgeries575+
+Transplants
+Transforming Lives 
+Through Clinical 
+Excellence1Aster: Other Highlights for Q4FY26
+▪Matured hospital2 Operating EBITDA margins stood at 26.2% in Q4FY26 ( 22.9% in Q4FY25)
+▪Aster Medcity  revenue grew by 16% YoY and Op. EBITDA grew by 26% YoY in Q4FY26; Margin at 32.5% up by 238 bps YoY
+▪Aster MIMS Calicut revenue grew by 21% YoY and Op. EBITDA grew by 41% YoY in Q4FY26; Margin at 23.8% up by 329 bps Y oY
+▪Aster Whitefield revenue grew by 15% YoY in Q4FY26 with 38% YoY growth in Op. EBITDA
+▪Ramesh Hospitals revenue grew by 32% YoY in Q4FY26 with 118% Y oY growth in Op. EBITDA
+=== page 15 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+14
+Aster: Other Highlights for FY26
+ESG
+Highlights▪15 Mobile Medical Unit operationalised  taking the India fleet to 49
+▪Over 9,400 new trees planted and diverted 1.2 tonnes  of E-waste from landfills.
+▪12.39 lakh lives impacted through community initiatives in India, including 7.5 lakh underserved beneficiaries via mobile medical services
+▪Received 2 Gold ESG & 2 CSR awards - Rotary Bengaluru (Healthcare Impact) and Fortune Leadership (Volunteer Engagement)
+Recognition▪Padmashree Dr. Azad Moopen, Founder Chairman and Managing Director 
+•Honored with the “Lifetime Achievement Award” by Mount Judi Ventures
+•Recognised as “Visionary Leader in Healthcare” at 17th Elet Healthcare Innovation Summit & Awards
+•Awarded “Legend in the Healthcare Industry”  at FICCI Heal 2025
+•Featured among “Top 5 Healthcare Leaders 2025” by Forbes Middle East
+▪Ms. Alisha Moopen, Deputy Managing Director
+•Recognized as ‘Most Influential Women 2026’ among BW Healthcare World 
+•Awarded ‘Global Expansion Entrepreneur of the Year’ at Entrepreneur Asia Awards 2026
+•Featured in “Trailblazing Women in Healthcare 2026”  by Reuters
+•Recognized among the Times 100 Health – “100 Most Influential Leaders”
+▪Aster Hospitals
+Times All India Multispecialty Rankings 2026
+❑National Rankings
+•Aster Medcity , Kochi – 2nd
+•Aster CMI, Bangalore – 5th
+▪The Newsweek – World’s Best Hospital Rankings recognized  Aster CMI at 12th and Aster Medcity  at 28th position in India.
+▪Aster DM Healthcare recognised among India’s Top 500 Value Creators by Dun & Bradstreet.
+▪Gold for Excellence in Integrated Annual Report 2024 –25, T op 100 at League of American Communications Professionals.❑South India Rankings
+•Aster Medcity , Kochi – 1st 
+•Aster CMI, Bangalore – 2nd ❑Bengaluru City Rankings
+•Aster CMI - 1st 
+❑Kochi City Rankings
+•Aster Medcity  - 1st Top Emerging Hospitals – 
+Bengaluru
+Aster Whitefield Hospital
+
+=== page 16 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+15
+193244
+Q4FY25 Q4FY26106140
+Q4FY25 Q4FY26
+106153
+Q4FY25 Q4FY26127185
+Q4FY25 Q4FY261,0001,166
+Q4FY25 Q4FY26Revenue from Operations1Operating EBITDA and Margin1,2PBT and Margin Normalised PAT and Margin3 
+(Post NCI)Revenue and Profitability Snapshot: Q4FY26
+1,0001,182
+Q4FY25 Q4FY2620.7% 19.3%127172
+Q4FY25 Q4FY2612.7% 14.5% 10.6% 11.8%
+1. Revenue, Operating EBITDA and EBITDA excludes other income
+2. Operating EBITDA for the period Q4 FY26 excludes the ESOP Cost of Rs. 1.7 Cr [Q4 FY25: 0.7 Cr], Movement in fair value of con tingent consideration payable of Rs. Nil Cr [Q4 FY25 : -  -7.4 Cr] , Variable O&M fee amounting to Rs.10.1 Cr [Q4 FY25 : 7.6 Cr]. [O ur 
+Operating & Management (O&M) agreements, encompasses both fixed and variable component. While the fixed component of the O&M fee is delineated into depreciation and finance costs as per Ind AS 116, whereas the variable component falls outside the scope o f IndAS  
+116, leading to an incomplete reflection of the standard's impact in EBITDA]
+3. The Normalised PAT for Q4 FY26 excludes exceptional income of ₹53.9 Cr [Q4 FY25: Nil Cr] arising from minimum wage reversal a nd other reversals, as well as exceptional expenses of ₹53.6 Cr (Q4 FY25: ₹26.4 Cr), which includes merger related costs, CSR ex penses 
+related to profits from the sale of the GCC business and Other provisions. Margin
+193253
+Q4FY25 Q4FY2621.7% 19.3% 12.7% 15.8% 10.6% 13.1% MarginPerformance for the quarter (Ex -Kasargod)Performance for the quarter
+Revenue from Operations1Operating EBITDA and Margin1,2PBT and Margin Normalised  PAT and Margin3 
+(Post NCI)(INR Cr)
+(INR Cr)
+=== page 17 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+16
+806947
+FY25 FY26357421
+FY25 FY26Revenue from Operations1Operating EBITDA and Margin1,2PBT and Margin Normalised PAT and Margin3 
+(Post NCI)Revenue and Profitability Snapshot: FY26
+4,1384,643
+FY25 FY2620.4% 19.5%540639
+FY25 FY2613.1% 13.8% 8.6% 9.1% Margin
+MarginPerformance for the year (Ex -Kasargod)Performance for the year
+Revenue from Operations1Operating EBITDA and Margin1,2PBT and Margin Normalised PAT and Margin3 
+(Post NCI)
+1. Revenue, Operating EBITDA and EBITDA excludes other income.
+2. Operating EBITDA for the period FY26 excludes the ESOP Cost of Rs. 8.3 Cr [FY25: 8.4 Cr], Movement in fair value of contin gent consideration payable of Rs. Nil Cr [FY25 : 0.8 Cr] , Variable O&M fee amounting to Rs.37.3 Cr [FY25 : 31.8 Cr]. [Our Opera ting & Management 
+(O&M) agreements, encompasses both fixed and variable component. While the fixed component of the O&M fee is delineated into depreciation and finance costs as per Ind AS 116, whereas the variable component falls outside the scope of IndAS  116, leading to an incomplete 
+reflection of the standard's impact in EBITDA]
+3. The Normalised PAT  for FY26 excludes exceptional income of ₹38.4 Cr [FY25: Nil Cr] arising from minimum wage reversal, as we ll as exceptional expenses of ₹71.1 Cr [FY25: 50.1 Cr], which includes merger related costs , CSR expenses related to profits from the sale of the GCC 
+business and Other provisions.(INR Cr)
+4,1384,617
+FY25 FY26540670
+FY25 FY2613.1% 14.5%806969
+FY25 FY2621.0% 19.5%357451
+FY25 FY268.6% 9.8%(INR Cr)
+=== page 18 ===
+QCIL Performance Highlights Aster 
+We'll Treat You Well 
+=== page 19 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+18
+QCIL: Key Highlights for FY 26 
+Strong  17% YoY revenue growth forthebusiness driven byrobust performance across clusters
+▪Growth driven by higher IP volumes, favorable payor mix shift toward cash and insurance,  clinical hirings and increased share of complex procedures
+▪Mature Units (~59% of revenue) registered a revenue growth of 14% on a FY basis.
+▪Revenue in Emerging Units (~7% of revenue) grew 70% YoY, full year -impact of Nagercoil compared to half year in FY25 
+▪Focused Units (~29% of revenue) noted a 14% revenue growth YoY
+Overall operating EBITDA grew by24%YoYlargely driven byhigher topline growth, operational excellence andbetter leverage
+▪Initiatives around procurement centralization, F&B in -sourcing, and clinical talent are showing continued success
+▪Procurement synergies across QCIL entities delivered ~INR 85crore+ of EBITDA uplift in FY26
+▪Nagercoil unit launched inOct’24 has ramped to an EBITDA margin of 28.5% within 6 quarters
+Strengthened clinical teams byonboarding 100+doctors across theQCIL hospital network
+Augmented management team byfurther adding 11senior leaders over the last18months
+CARE andKIMSHealth recognized forclinical leadership, nursing excellence, andresearch focus byFICCI ,NABH, andMedical DialoguesALOS hasimproved by3.4%YoYto3.9days inFY26,reflecting better clinical protocols
+Deeper clinical mixandbetter payor mixdrove 10%YoYgrowth inIPARPP , reaching ~INR 134k inFY26 (~INR 122kinFY25)
+▪Payor mix shift led by  275bps increase in share of cash and TPA business on a YoY basis
+▪ARPP growth supported byimproved specialty mix–CONGO -Tshare increased by270bpsto 58.7%inFY26
+=== page 20 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+19
+QCIL: Performance Highlights for Q4 FY26
+ARPP IP Capacity Beds
+Q4FY26  : 5,174 Q4FY26  : 1,34,733
+Q4FY25  : 1,25,462Operational
+Q4FY25 : 5,09183
+In-Patients ALOS (Days)
+Q4FY26 : 3.9 days Q4FY26 : 62,598
+Q4FY25 : 56,853 Q4FY25 : 4.0 days-2% 10%
+Out-Patients
+Q4FY26 : 0.88 mn
+Q4FY25 : 0.82 mn7% 9%
+RoCE3FinancialQ4FY26 : 21.0%
+Q4FY25 : 17.2%376 bps(Pre-Tax)
+Revenue
+Q4FY26  : INR 1,178 Cr
+Q4FY25 : INR 1,001 Cr18%
+Q4FY26  : INR 272 Cr
+Q4FY25 : INR 221 Cr23%Operating EBITDA1
+ Op. EBITDA Margin
+Q4FY26 : 23.1%
+Q4FY25 : 22.1%103 bps
+1. Operating EBITDA is post -IndAS  EBITDA adjusted for one -off expenses; 2. QCIL numbers are unaudited and subject to audit adjustments; 3. RoCE is computed on av erage capital employed excl. revaluation reserves and CWIP and Intangibles
+=== page 21 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+20
+QCIL: Performance Highlights for FY26
+ARPP IP Capacity Beds
+FY26  : 5,174 FY26 : 1,33,734
+FY25  : 1,22,112Operational
+FY25 : 5,09183
+In-Patients ALOS (Days)
+FY26 : 3.9 days FY26 : 2,53,310
+FY25 : 2,37,698 FY25 : 4.0 days-3% 7%
+Out-Patients
+FY26 : 3.5 mn
+FY25 : 3.23 mn10% 10%
+RoCE3FinancialFY26 : 21.0%
+FY25 : 17.2%376 bps(Pre-Tax)
+Revenue
+FY26  : INR 4,630 Cr
+FY25  : INR 3,967 Cr17%
+FY26  : INR 1,066 Cr
+FY25 : INR 859 Cr24%Operating EBITDA1
+ Op. EBITDA Margin
+FY26 : 23.0%
+FY25 : 21.7%136 bps
+1. Operating EBITDA is post -IndAS  EBITDA adjusted for one -off expenses; 2. QCIL numbers are unaudited and subject to audit adjustments; 3. RoCE is computed on av erage capital employed excl. revaluation reserves and CWIP and Intangibles
+=== page 22 ===
+Aster DM -
+Detailed PerformanceAster 
+We'll Treat You Well 
+=== page 23 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+22
+Aster Financial Summary: Profitability Statement
+Particulars Q4FY26 Q4FY25 YoY % 
+Revenue from Operations 1,182 1,000 18%
+Material Cost2 263 225
+Doctors Cost 265 230
+Employee Cost 220 183
+Other Cost 190 169
+Operating EBITDA  244 193 26%
+Employee Stock Option Expenses 2 1
+Movement in FV of contingent consideration payable 0 -7
+Variable operation and management fees 10 8
+EBITDA Post INDAS 233 192 21%
+Depreciation 67 64
+Finance Cost 30 32
+Other Income 36 31
+Profit Before Tax 172 127 35%
+Tax 10 5
+Profit After Tax (Before exceptional item) 162 122 32%
+Exceptional Item 0 -26
+Profit After Tax3 162 96 69%
+Share of Profit/(Loss) of Associates -9 -10
+NCI 13 7
+Profit After Tax  (Post Non -Controlling Interest) 140 79 77%
+Normalised PAT3,4 140 106 32%
+1. Above numbers are in INR crore.
+2. Material Cost % (Ex.Wholesale pharmacy) for Q4 FY26 is 21.1% and Q4 FY25 is 21.2%, Material Cost % (Ex.Wholesale pharmacy) fo r FY26 is 21.4% and FY25 is 20.9%, 
+3. Normalised PAT for Q4 FY26 excludes exceptional income of ₹53.9 Cr [Q4 FY25: Nil Cr]arising from minimum wage reversal and other reversals, as well as e xceptional expenses of ₹53.6 Cr (Q4 FY25: ₹26.4 Cr), which includes merger related costs, 
+CSR expenses related to profits from the sale of the GCC business and Other provisions. 
+4. Normalised PAT for FY26 excludes exceptional income of ₹38.4 Cr [FY25: Nil Cr] arising from minimum wage reversal, as well as exceptional expens es of ₹71.1 Cr [FY25: 50.1 Cr], which includes merger related costs, CSR expenses related to 
+profits from the sale of the GCC business and Other provisions. EBITDA Pre INDAS 202 166 22%FY26 FY25 YoY % 
+4,643 4,138 12%
+1,049 938
+1,032 921
+848 760
+768 713
+947 806 17%
+8 8
+0 1
+37 32
+901 765 18%
+264 249
+123 124
+126 148
+639 540 18%
+143 134
+497 406 22%
+-33 -50
+464 356 30%
+-37 -19
+39 30
+388 307 26%
+421 357 18%
+788 673 17%
+=== page 24 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+23
+Aster Financial Summary: Balance Sheet
+Particulars (INR Cr) As at Mar 31, 2026 As at Mar 31, 2025 As at Mar 31, 2024
+LIABILITIES
+Shareholders’ Equity 518 500 500
+Minority Interest 258 224 158
+Other Reserves 3,598 2,469 2,353
+Land Revaluation Reserve 460 460 460
+Gross Debt 701 642 669
+Lease Liabilities - INDAS116 1,518 1,376 714
+Other non -current liabilities 252 246 429
+Other current liabilities 806 690 581
+Total Liabilities 8,112 6,607 5,865
+ASSETS
+Property, Plant and  Equipment (including CWIP) 3,058 2,694 2,474
+Investments (including Goodwill) 1,429 508 278
+Right to Use Assets - INDAS116 1,340 1,255 608
+Inventories 92 93 111
+Cash, Bank Balance and Current Investments 1,327 1,381 1,570
+Other non -current assets 336 247 285
+Other current assets 531 429 541
+Total Assets 8,112 6,607 5,865
+Key financial ratios As at Mar 31, 2026 As at Mar 31, 2025 As at Mar 31, 2024
+Net Debt and Lease Liabilities/Equity ratio (x times) (Ex. Affinity) 0.2 0.2 0.6
+Net Debt and Lease Liabilities/EBITDA ratio (x times) 1.0 0.8 2.2
+Net Debt (Net Cash) /EBITDA (Pre INDAS) ratio (x times) (0.8) (1.1) 1.1
+ROCE - Pre-Tax (%) (EBIT / Average Capital Employed) 21.3% 19.5% 16.4%
+23
+=== page 25 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+24
+Kerala
+53% [53%]
+Karnataka & 
+Maharashtra
+35% [35%]Andhra & Telangana
+12% [12%]
+Contribution from Oncology increased to 11% in FY26 from 10% in FY25
+1. Geographical Revenue Mix refers to the revenue from hospitals only
+2. MVT: Medical Value Travel
+3. Govt. Health Schemes include : ESI/ECHS/CGHS (5.2%) and State/Central Scheme (1.5%)
+4. Walk In include: Others (1%)
+5. Numbers in brackets are for corresponding quarter prior yearGeographical Revenue Mix1 FY26 Speciality -wise Revenue Mix FY26
+Payor Revenue Mix FY26Aster Multi Speciality , 
+17% [18%]
+Aster Cardiac Sciences , 
+14% [14%]
+OP Pharmacy, 
+Anaestheolgy & 
+Others , 
+14% [13%]
+Aster Neuro Sciences , 
+11% [11%]Aster Oncology , 
+11% [10%]Aster Gastroenterology 
+And Integrated Liver 
+Care , 
+8% [8%]Aster Nephrology And 
+Urology , 
+7% [7%]Aster Orthopaedics , 
+7% [7%]Aster Women's Health , 
+6% [6%]Aster Child And 
+Adolescent Health , 
+5% [6%]Hospitals & Clinics Revenue Mix
+No single specialty accounts for more than 15% of total revenue. Walk In
+55% [58%]
+Corporate & 
+Insurance
+34% [33%]Government 
+Health 
+Schemes3
+7% [5%]MVT
+4% [4%]
+CONGO Mix increased to 51% in FY26 from 50% in FY25
+=== page 26 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+25
+Maturity Wise Hospital Performance: Q4FY26
+Maturity Hospitals3 Revenue4 
+(INR in Cr)Operational Beds5
+(Census)Key Performance indicators
+Operating 
+EBITDA4
+(INR  Cr)Operating
+EBITDA %4ROCE
+Over 7 
+Years
+3-7 Years2
+0-3 Years111 ₹231
+4 ₹2378%
+₹87976%
+2,984
+10% 
+₹11512%
+458
+193 ₹1,134 3,939 ₹265 23.3% 26.7%
+1. 0-3 Years Hospitals include: Aster Whitefield Hospital, Aster G Madegowda , Aster PMF, MIMS Kasargod
+2. 3-7 Years Hospitals include: Aster Mother Hospital Areekode , Aster Narayanadri , Ramesh (IB), Aster RV
+3. All numbers highlighted above exclude Wayanad Institute of Medical Sciences (WIMS) 
+4. Revenue and Operating EBITDA shown above excludes revenue from clinics as well as other income 
+5. Operational Beds (Census) are beds as on 31st Mar, 2026.4 ₹1112% 
+₹13913%
+49726.2% 
+20.4%
+7.7%36.5%
+23.8%
+0.0%
+* 0-3 Years (ex -Kasargod) : Revenue is INR 123 Cr, Operating EBITDA is INR 19 Cr, Operating EBITDA Margin stood at 15.9%, and RO CE is 4.3% 
+=== page 27 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+26
+Hospital and other New Business Performance: Q4FY26
+Labs
+Margins
+1. Wholesale Pharmacy Revenue  
+2. Aster India overall numbers are after eliminations of INR 24 Cr (Q4FY25: 27 Cr.) of intercompany revenue and INR 27 Cr. (Q 4FY25: INR 10 Cr.) of unallocated expenses.
+3. Operating EBITDA for the period Q4 FY26 excludes the ESOP Cost of Rs. 1.7 Cr [Q4 FY25: 0.7 Cr], Movement in fair value of con tingent consideration payable of Rs. Nil Cr [Q4 FY25 : -7.4 Cr] , Variable O&M fee amounting to Rs.10.1 Cr [Q4 FY25 : 7.6 
+Cr]. [Our Operating & Management (O&M) agreements, encompasses both fixed and variable component. While the fixed component o f the O&M fee is delineated into depreciation and finance costs as per Ind AS 116, whereas the variable component falls 
+outside the scope of IndAS  116, leading to an incomplete reflection of the standard's impact in EBITDA]** Strategically exited a loss -making unit under the wholesale Pharmacy business impacting its revenue growth*Hospitals and ClinicsRevenue Operating EBITDA3
+INR 6 CrINR 1,149 Cr INR 266 Cr
+INR 38 Cr18%
+YoY Revenue Growth
+18%23.1%
+14.7%
+YoY Revenue Growth
+            INR 1,182 Cr INR 244 Cr
+20.7%Margins
+Margins
+Margins95%
+3%
+18%
+YoY Revenue Growth100%% of Revenue
+India Overall2**Pharmacies1
+YoY Revenue Growth-23%INR 20 Cr INR -0.5 Cr
+-2.4%
+Margins2%Labs95%
+* Hospital and clinics (ex -Kasargod) : Revenue is INR 1,132 Cr, Operating EBITDA is INR 275 Cr, and Operating EBITDA Margin stoo d at 24.3% 
+=== page 28 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+27
+Revenue Contribution1
+2,921 Total Capacity BedsKerala Cluster: Hospitals and Bed Capacity
+MIMS Calicut
+Kozhikode, Kerala
+2013, Owned
+MIMS Kottakkal
+Kottakkal , Kerala
+2013, Owned
+Aster Medcity
+Kochi, Kerala
+2014, Owned
+MIMS Kannur
+Kannur, Kerala
+2019, Owned
+Aster Mother Hospital
+Areekode , Kerala
+2022, O&M Asset Light
+Aster PMF
+Kollam, Kerala
+2023, O&M Asset LightPlanned Expansion
+834 Beds Planned for Expansion
+454 Greenfield Beds
+380 Brownfield Beds
+•Kerala to have nearly 3,755  beds 
+•Aster Medcity  on its way to become a 976 
+bedded hospital
+Aster Capital 
+Trivandrum
+454 beds
+Aster 
+ Medcity
+Kerala
+100 beds 
+ (Expansion)53%
+1. Hospital Revenue Contribution 
+         Capacity Beds
+MIMS Kasargod, Kerala
+2025, Owned263876 695 359 424
+164140
+Newly Operationalised
+Aster MIMS 
+Calicut
+150 beds 
+ (Expansion)
+Aster MIMS 
+Kannur
+130 beds 
+ (Expansion)
+=== page 29 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+28
+22.3% 23.5%
+Q4FY25 Q4FY26111142
+Q4FY25 Q4FY26499604
+Q4FY25 Q4FY26
+14.2%13.2%19.4%21.0% 21.4%23.4%24.6%
+FY20 FY21 FY22 FY23 FY24 FY25 FY26875 9351,3181,6902,0072,1082,405
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+124 124255356430493592
+FY20 FY21 FY22 FY23 FY24 FY25 FY26Revenue
+(In INR Cr)
+Operating EBITDA1
+(In INR Cr)
+Operating EBITDA Margin1
+(In %)
+1. 1. From FY19 to FY22 is reported as EBITDA and FY23 onwards it is operating EBITDAFinancial  Metrics Q4FY26 Q4FY25 YoY 
+Revenue (INR Cr) 604 499 21%
+Revenue Ex -Kasargod (INR Cr) 587 499 18%
+Op. EBITDA (INR Cr) 142 111 27%
+Op. EBITDA Ex-Kasargod (INR Cr) 150 111 35%
+Op. EBITDA Margin 23.5% 22.3% 114 bps
+Op. EBITDA Margin Ex-Kasargod 25.6% 22.3% 330 bpsKerala Cluster: Performance
+Highlights:
+•Kerala cluster achieved strong revenue growth of 21% YoY in Q4FY26 driven by growth in 
+volume, MVT and contribution from the newly operationalized Kasargod hospital , 
+despite temporary minor impact due to Nurses' Strike.
+oTotal patient volume increased 20% YoY (Inpatient by 11%, Outpatient by 20%)
+oMVT business revenue steadily increased by 51% YoY despite macro economic 
+headwinds
+oARPP (IP) grew 5% YoY, supported by an improved case mix 
+•Operating EBITDA grew significantly by 27% YoY (35% YoY ex -Kasargod) with margin at 
+23.5% (25.6% ex. Kasargod) in Q4FY26, led by cost efficiencies and operating leverage in 
+manpower and overhead costs. Ex-Kasargod Revenue: 
+INR 587 Cr up by 18%
+Ex-Kasargod Op. EBITDA: 
+INR 150 Cr up by 35%
+Ex-Kasargod Op. EBITDA 
+Margin: 25.6%
+=== page 30 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+29
+Revenue Contribution1
+1,481 Total Capacity BedsKarnataka & Maharashtra Cluster: Hospitals and Bed Capacity
+29Planned Expansion
+34%
+1,519 Beds Planned for Expansion
+1,010 Greenfield Beds
+509 Brownfield Beds
+•Strengthening leadership position in Bangalore by adding 460 
+beds at Sarjapur and 550 beds at Yeshwanthpur  taking bed 
+capacity to 3,000 beds in K&M cluster
+1. Hospital Revenue Contribution 
+         Capacity Beds
+Aster 
+Sarjapur 
+Bengaluru
+460 beds
+Aster 
+Yeshwanthpur
+  
+Bengaluru
+550 beds
+Aster 
+CMI
+Bengaluru
+350 beds
+(Expansion)
+Aster 
+Whitefield
+Bengaluru
+159 beds
+(Expansion)
+Aster CMI
+Bengaluru, Karnataka
+2014, O&M
+Aster Whitefield 
+Bengaluru, Karnataka
+2021, Leased
+Aster RV
+Bengaluru,  Karnataka
+2019, O&M
+Aster Aadhar
+Kolhapur, Maharashtra
+2008, Owned
+Aster G Madegowda
+Mandya , Karnataka
+2023, O&M Asset Light377 252
+250 100502
+Operationalised  in April’26
+=== page 31 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+30
+355394
+Q4FY25 Q4FY26
+9.5%7.6%12.6%18.4%19.7%22.8% 23.5%
+FY20 FY21 FY22 FY23 FY24 FY25 FY267797
+Q4FY25 Q4FY26
+21.8%24.5%
+Q4FY25 Q4FY26442 433655817110014081553
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+42 3383150217321366
+FY20 FY21 FY22 FY23 FY24 FY25 FY26Karnataka & Maharashtra Cluster: Performance
+Revenue
+(In INR Cr)
+Operating EBITDA1
+(In INR Cr)
+Operating EBITDA Margin1
+1. From FY19 to FY22 is reported as EBITDA and FY23 onwards it is operating EBITDA
+Operating EBITDA Margin excluding Whitefield is 26.4% in Q4 FY26 as compared to 24.0% in Q4 FY25, Operating EBITDA Margin exc luding Whitefield is 25.3% in FY26 as compared to 25.1% in FY25Financial Metrics Q4FY26 Q4FY25 YoY 
+Revenue (INR Cr) 394 355 11%
+Op. EBITDA (INR Cr) 97 77 25%
+Op. EBITDA Margin 24.5% 21.8% 267 bps
+Highlights:
+▪Revenue grew 11% YoY supported by strong growth in ARPP (IP) improvement
+oARPOB grew by 13% YoY driven by 
+oHigher complex procedures in Cardiology, Neurosciences and Ortho, 
+particularly Robotic surgeries and DBS cases
+oIncrease in MVT business (revenue by 16%)  
+oDe-empanelment of a low -yielding scheme at Aster Aadhar
+▪Op EBITDA grew by 25% YoY with margins at 24.5% in Q4 FY26 (267 bps YoY)
+▪Karnataka
+oAster Whitefield revenue grew by 15% YoY in Q4FY26 supported by strong growth in 
+IP Volumes
+oOverall IP volume delivered a growth of 3% YoY in Karnataka 
+oAs stated earlier, executed on hiring and retention strategies for a few doctor 
+positions. Cluster is well positioned for accelerated growth in coming quarters
+▪Maharashtra
+oAster Aadhar revenue grew by 14% on account of improvement in ARPP IP due to 
+rationalisation  of scheme business (in line with our stated strategy)(In %)
+=== page 32 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+31
+Revenue Contribution1
+1,047 Total Capacity BedsAndhra & Telangana Cluster: Hospitals and Bed Capacity
+Planned Expansion
+13%
+Aster Ramesh 
+Ongole
+75 Beds
+(Expansion)
+Aster Hyderabad
+300 Beds
+375 Beds Planned for Expansion
+300 Greenfield Beds
+75 Brownfield Beds
+•Andhra & T elangana cluster to reach 1,422 beds
+•Aster hospital at Hyderabad is expected to be commissioned in 
+FY28 with 300 bed capacity
+Ramesh Guntur
+Guntur, AP
+2016, Leased
+Prime Hospitals – Ameerpet
+Hyderabad, Telangana
+2014, Leased
+Ramesh Sanghamitra
+Ongole, AP
+2018, Owned
+Aster Narayanadri  
+Tirupati, AP 
+2023,  O&M Asset Light
+Ramesh Main Centre
+Vijayawada, AP
+2016, Leased
+Ramesh Labbipet
+Vijayawada, AP
+2016, Leased
+Ramesh Adiran (IB) 
+Vijayawada, AP
+2023, Leased
+1. Hospital Revenue Contribution 
+         Capacity Beds
+150 150
+135 5450350
+158
+Operationalised  in April’26
+=== page 33 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+32
+116151
+Q4FY25 Q4FY26
+1328
+Q4FY25 Q4FY26
+14.8%16.2%18.7%
+9.3% 10.0%12.7%13.5%
+FY20 FY21 FY22 FY23 FY24 FY25 FY26Andhra & Telangana: Performance
+Revenue
+(In INR Cr)
+Operating EBITDA1
+(In INR Cr)
+Operating EBITDA Margin1
+(In %)314279370
+344412473542
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+47 4569
+32416073
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+1. From FY19 to FY22 is reported as EBITDA and FY23 onwards it is operating EBITDA  11.2%18.3%
+Q4FY25 Q4FY26Highlights:
+▪A&T Revenue grew 30% YoY led by growth in IP volume and ARPP (IP)
+oRamesh Hospitals revenue grew by 32% YoY in Q4 FY26
+oTotal patient volume increased by 20% YoY (Inpatient by 17%, Outpatient by 21%)
+oARPP IP remained healthy with 13% YoY growth supported by 200 bps 
+improvement in CONGO Mix
+▪A&T cluster Operating EBITDA doubled with the growth of 113% YoY 
+oMargins exhibited significant increase reaching 18.3% in Q4 FY26 from 11.2% in 
+Q4FY25Financial Metrics Q4FY26 Q4FY25 YoY 
+Revenue (INR Cr) 151 116 30%
+Op. EBITDA (INR Cr) 28 13 113%
+Op. EBITDA Margin 18.3% 11.2% 709 bpsHighlights: narrative pending
+=== page 34 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+33
+75159454300460 100 1001501305502508,177
+5,449
+Leased Leased Owned Leased Leased O&M Owned Owned Owned Leased O&MCurrentProjectedFY27 : 
+688 bedsFY28 :
+ 760 bedsFurther a ddition of 2,728  beds,  bringing the total bed capacity to  8,177 beds .
+ 
+FY29 : 
+480 bedsAster Hospitals: Pipeline Projects
+Proje cts Current Status : 
+*Aster Capital, Aster W&C Hyderabad and Aster Sarjapur are in co nstruction phase  
+** Aster CMI, Aster Medcity  (PMR block), MIMS Calicut, MIMS Kannur and Aster Yeshwanthpur  are in design phase. 
+      Brownfield: - 964 beds;         Greenfield: - 1,764 beds.Aster
+Ramesh 
+OngoleAster
+Whitefield 
+Block DAster 
+Capital* 
+TrivandrumAster 
+Hyderabad*Aster 
+Sarjapur*Aster CMI**
+Phase IAster 
+Medcity**MIMS 
+Calicut **MIMS 
+Kannur **Aster** 
+YeshwanthpurAster CMI**
+Phase II6,8308,177
+ 
+FY30 and 
+Beyond: 
+800 bedsOperationalised  in 
+April’2026
+=== page 35 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+34
+Key Greenfield Expansion
+Aster Capital, Trivandrum
+Multispecialty | 454 Beds
+Construction start date :  July 2024
+Floors : G+7 Floors 
+6.5 Acre Land – Owned
+6.2 lakh sq.ft Built up Area incl. MLCP 
+area
+Expected Timeline : H2FY27
+Civil works completed. MEP work in 
+progress on site.
+Aster Hyderabad
+Mother and Child Care | 300 Beds
+Construction start date :  June 2025
+Floors : A block G+11 Floors and B 
+block G+5 Floors, 3B common
+2 Acre Land – Leased
+3.23 lakhs sq.ft Built up Area
+Expected Timeline : H1FY28
+Construction started. Civil work in 
+progress
+Aster 
+ Yeshwanthpur
+ , Bengaluru
+Multispecialty | 550 Beds
+30 year long term Lease
+5 lakhs sq.ft Built up Area
+Total Investment: INR 580 Cr
+Expected Timeline: FY30
+Architectural and design phase.
+Aster Sarjapur, Bengaluru
+Multispecialty | 460 Beds
+Design Phase
+30 year long term Lease
+4.2 lakhs sq.ft Built up Area
+Expected Timeline: FY28
+Architectural and design phase.
+Note: Image used for representation purposes only; actual appearance may vary.
+Aster Yeshwanthpur  – Planned Bed Capacity increased to 550 beds from 500 beds | Aster Sarjapur – Planned Bed Capacity increased to 460 bed s from 430 beds
+=== page 36 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+35
+Key Brownfield Expansion
+Aster MIMS, Calicut
+Bed Expansion : 350 Beds
+Multispecialty | Current : 502 Beds
+Ownership: Leased (O&M)
+Expected Timeline : 100 beds in 
+H1FY29 | 250 beds in H1FY30
+Architectural and design phase.
+Ongoing expansions at key hospitals to result in large -format facilities: Medcity  – 950+ beds, CMI – 850+ beds, and Whitefield – 530+ beds, 
+strengthening our ability to meet growing regional demandBed Expansion : 150 Beds
+Multispecialty | Current : 695 Beds 
+Ownership : Owned
+Expected Timeline : FY29
+Architectural and design phase.
+Aster CMI
+Bed Expansion :   130 Beds
+Multispecialty | Current :  424 Beds
+Ownership: Owned
+Expected Timeline : FY29
+Architectural and design phase.
+Aster MIMS, Kannur
+Bed Expansion : 100 Beds 
+Multispecialty | Current : 876 Beds
+Ownership: Owned
+Expected Timeline : H1FY29
+Waiting for statutory approvals. All 
+design and other pre -construction 
+activities completed
+Aster Medcity
+
+=== page 37 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+36
+‘Women & Children’ Facility - Aster Whitefield, Bengaluru
+36
+Investment & Scale
+Rs. 96 Cr investment
+T otal Capacity  expanded from 
+377 to 536 beds
+159-bed specialized facility 
+addedComprehensive Care Offering
+•End-to-end maternity care •Level 3 NICU
+•Water birthing •PICU & HDU
+•Advanced laparoscopic 
+gynaec surgery•Neonatal & paediatric 
+surgical services
+•Foetal medicine •Fertility center
+•Aesthetic & Cosmetic 
+center•Child development centerKey HighlightsExpansion aligned with rising demand for high -quality maternal & pediatric care
+A state -of-the-art facility delivering compassionate care and clinical excellence for healthier mothers and happier children.
+Commissioning
+Women  & Child unit (Block D) 
+successfully inaugurated 
+in April’26 
+In Presence of
+Inaugurated in the presence of 
+Shri Dinesh Gundu Rao , 
+Hon’ble Minister of Health & 
+Family Welfare, Govt. of 
+Karnataka, 
+and Shri U.T . Khader , Hon’ble 
+Speaker, Karnataka Legislative 
+Assembly.
+12+ YEARS 
+OF CARE IN BENGALURU
+
+=== page 38 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+37
+✓Leveraging technology & digital medium for superior patient outcomes and 
+reachGrowth Strategy✓Focusing more on niche specialties to drive better ARPOB
+✓Optimizing existing facilities – Payor mix & high -end procedures 
+✓Enhancing  efficiency and lower operational expenses, thereby improving 
+EBITDA margins
+✓Creating 360 -degree ecosystem by gradually establishing labs and pharmacies✓Investing prudently in both brownfield (expanding existing units) and greenfield 
+projects across clusters and opportunistically exploring inorganic opportunities 
+Focus AreasOur Strategic Priorities
+E
+D
+C
+A
+B
+✓Obtained multiple key approvals and seeking remaining regulatory approvals  to 
+complete the merger transaction
+FCapital 
+Investment
+Operational 
+Efficiency
+Cost 
+Optimisation  
+Initiatives
+Continuity of 
+Care
+Technology & 
+Digital
+✓Making  progress  across  multiple  key areas  of Integration Planning
+ GMerger 
+Implementation
+Merger 
+Integration
+=== page 39 ===
+AppendixAster 
+We'll Treat You Well 
+=== page 40 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+39
+Aster at a Glance
+1. Presence and Operational metrics are as on March 31, 2026
+2. Count includes 4 O&M Asset Light hospital beds with a capacity of 554 beds
+3. Pharmacies in India operated by ARPPL under brand license from Aster
+4. Operating EBITDA Margin has been rounded off
+5. Three Year Revenue & Operating EBITDA CAGR and 3 Year Capex are till the year ending FY26
+6. Kerala hospital and bed count excludes WIMS
+PECs: Patient Experience Centers  ; ALOS: Average Length of Stay;  ARPOB: Average revenue per occupied bedAndhra & Telangana
+Andhra Pradesh
+Hospital: 6, Beds: 889
+Telangana
+Hospital: 1, Beds: 158
+Kerala
+Hospital6: 7, Beds: 2,921Karnataka & Maharashtra
+Maharashtra
+Hospital: 1, Beds: 250Karnataka
+Hospital: 4,  Beds: 1,231
+Financial metrics (FY26)Our Presence/Strength1
+Operational metrics (FY26)
+202 
+Hospitals
+16 Cities and
+5 States
+5,449
+Capacity beds
+Op. EBITDA 
+Margin: 20.4%4 
+26%
+3 Year CAGR5
+Revenue
+INR 4,643 Cr
+16%
+3 Year CAGR5 
+Capex
+INR 546 Cr
+~INR 1,280 Cr
+3 Year Capex5
+61%
+Occupancy
+INR 51,800
+ARPOB
+3.1 days
+ALOS
+203
+Pharmacies3
+304
+Labs and PECs Clinics
+10
+=== page 41 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Aster: Performance Financial Highlights for FY26 
+ARPP IP Capacity Beds
+FY26  : 5,449 FY26  : 1,21,016
+FY25  : 1,10,948Operational
+FY25 : 5,159290
+In Patients ALOS (Days)
+FY26 : 3.1 days FY26 : 279 K
+FY25 : 273 K FY25 : 3.2 days-4% 2%
+Out-Patient
+FY26 : 3.62 mn
+FY25 : 3.30 mn9% 10%
+1. Revenue, Operating EBITDA and EBITDA excludes other income
+2. Operating EBITDA for the period FY26 excludes the ESOP Cost of Rs. 8.3 Cr [FY25: 8.4 Cr], Movement in fair value of contingen t consideration payable of Rs. Nil Cr [FY25 : 0.8 Cr] , Variable O&M fee amounting to Rs.37.3 Cr [FY25 : 31.8 Cr]. [Our Operatin g & Management 
+(O&M) agreements, encompasses both fixed and variable component. While the fixed component of the O&M fee is delineated into depreciation and finance costs as per Ind AS 116, whereas the variable component falls outside the scope of IndAS  116, leading to an incomplete 
+reflection of the standard's impact in EBITDA] 
+3. The Normalised PAT for FY26 excludes exceptional income of ₹38.4 Cr [FY25: Nil Cr] arising from minimum wage reversal, as wel l as exceptional expenses of ₹71.1 Cr [FY25: 50.1 Cr], which includes merger related costs, CSR expenses related to profits from  the sale of the 
+GCC business and Other provisions. 
+4. ROCE = EBIT/Average Capital Employed; [Capital employed excludes CWIP, Land Revaluation reserve and Investment in QCIL] Th e CWIP for ongoing projects (including ROU, Capital Advances, and Capital Creditors) amounts to ₹ 1,173 Cr for Q4 FY26[Q4 FY25 :  ₹ 979 Cr]
+Revenue1 Operating EBITDA1,2Op EBITDA Margin1,2FinancialFY26 : INR 4,643 Cr FY26 : INR 947 Cr
+FY25 : INR 806 Cr FY25 : INR 4,138 Cr12%FY26 : 20.4%
+FY25 : 19.5%17%
+Normalised PAT3 
+FY26 : INR 421 Cr
+FY25 : INR 357 Cr18% 92 bps(Post -NCI)
+RoCE4
+FY26 : 21.3%
+FY25 : 19.5%180 bps
+40FY26 (Ex-Kasargod ) > Up 20% YoY to INR 969 Cr Up 150+ bps to 21.0% Up 26% YoY to INR 451 Cr Up 325+ bps to 22.8%
+=== page 42 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Maturity Wise Hospital Performance: FY26
+Maturity Hospitals3 Revenue4 
+(INR in Cr)Operational Beds5
+(Census)Key Performance indicators
+Operating 
+EBITDA4
+(INR  Cr)Operating
+EBITDA %4ROCE
+Over 7 
+Years
+3-7 Years2
+0-3 Years111 ₹882
+4 ₹9178%
+₹3,47476%
+2,984
+10% 
+₹44212%
+458
+193 ₹4,440 3,939 ₹1,028 23.2% 26.7%
+1. 0-3 Years Hospitals include: Aster Whitefield Hospital, Aster G Madegowda , Aster PMF, MIMS Kasargod
+2. 3-7 Years Hospitals include: Aster Mother Hospital Areekode , Aster Narayanadri , Ramesh (IB), Aster RV
+3. All numbers highlighted above exclude Wayanad Institute of Medical Sciences (WIMS) 
+4. Revenue and Operating EBITDA shown above excludes revenue from clinics as well as other income 
+5. Operational Beds (Census) are beds as on 31st Mar, 2026.4 ₹5512% 
+₹52313%
+49725.4% 
+20.6%
+10.5%36.5%
+23.8%
+0.0%
+41* 0-3 Years (ex -Kasargod) : Revenue is INR 496 Cr, Operating EBITDA is INR 77 Cr, Operating EBITDA Margin stood at 15.5% and ROC E is 4.3% 
+=== page 43 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Hospital and other New Business Performance: FY26
+Labs
+Margins
+** Strategically exited a loss -making unit under the wholesale Pharmacy business impacting its revenue growth
+42*Hospitals and ClinicsRevenue Operating EBITDA3
+INR 20 CrINR 4,500 Cr INR 1,031 Cr
+INR 153 Cr13%
+YoY Revenue Growth
+16%22.9%
+12.8%
+YoY Revenue Growth
+            INR 4,643 Cr INR 947 Cr
+20.4%Margins
+Margins
+Margins95%
+3%
+12%
+YoY Revenue Growth100%% of Revenue
+India Overall2**Pharmacies1
+YoY Revenue Growth-19%INR 108 Cr INR 1 Cr
+1.0%
+Margins2%Labs95%
+1. Wholesale Pharmacy Revenue  
+2. Aster India overall numbers are after eliminations of INR 119 Cr (FY25: 117 Cr.) of intercompany revenue and INR 105 Cr. ( FY25: INR 77 Cr.) of unallocated expenses.
+3. Operating EBITDA for the period FY26 excludes the ESOP Cost of Rs. 8.3 Cr [FY25: 8.4 Cr], Movement in fair value of contingen t consideration payable of Rs. Nil Cr [FY25 : 0.8 Cr] , Variable O&M fee amounting to Rs.37.3 Cr [FY25 : 31.8 Cr]. [Our 
+Operating & Management (O&M) agreements, encompasses both fixed and variable component. While the fixed component of the O&M fee is delineated into depreciation and finance costs as per Ind AS 116, whereas the variable component falls outside 
+the scope of IndAS  116, leading to an incomplete reflection of the standard's impact in EBITDA]* Hospital and clinics (ex -Kasargod) : Revenue is INR 4,473 Cr, Operating EBITDA is INR 1,053 Cr, and Operating EBITDA Margin st ood at 23.5% 
+=== page 44 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+43
+Geography wise Business: Snapshot for Q4FY26
+KERALAKARNATAKA  & 
+MAHARASHTRAANDHRA & 
+TELANGANATOTAL
+Q4FY26 Q4FY25 Q4FY26 Q4FY25 Q4FY26 Q4FY25 Q4FY26 Q4FY25
+2,921 2,633 1,481 1,479 1,047 1,047 5,449 5,159 
+2,108 1,974 1,028 1,014 803 781 3,939 3,769 
+730 584 389 361 170 192 1,289 1,137 
+83 75 64 104 74 74 221 253 
+2.8 3.0 3.2 3.0 3.8 3.8 3.1 3.1 
+60% 62% 57% 59% 58% 51% 59% 59%
+0.61 0.50 0.20 0.20 0.11 0.09 0.91 0.79 
+41,006 36,890 16,313 17,794 10,912 9,327 68,231 64,011 
+52,000 44,400 74,500 65,700 35,300 31,500 54,300 47,800 
+106,129 100,698 189,747 157,118 100,587 88,633 125,234 114,624 Total Capacity Beds 
+Operational Beds (Census)
+Operational Beds (Non -Census)
+Available Capacity Beds
+ALOS (Days)
+Occupancy1
+Outpatient  Visits ( mn)
+In-patient  visits
+ARPOB  (INR)
+ARPP IP (INR)
+1. Occupancy is calculated based on Operational Beds (Census).       2. Above details are for hospitals and does not relate t o clinics        3. Data excludes WIMS Operational
+=== page 45 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+44
+Geography wise Business: Snapshot for FY26
+KERALAKARNATAKA  & 
+MAHARASHTRAANDHRA & 
+TELANGANATOTAL
+FY26 FY25 FY26 FY25 FY26 FY25 FY26 FY25
+2,921 2,633 1,481 1,479 1,047 1,047 5,449 5,159 
+2,108 1,974 1,028 1,014 803 781 3,939 3,769 
+730 584 389 361 170 192 1,289 1,137 
+83 75 64 104 74 74 221 253 
+2.9 3.1 3.2 3.1 3.7 3.9 3.1 3.2 
+65% 71% 58% 62% 54% 54% 61% 65%
+2.39 2.15 0.80 0.78 0.42 0.37 3.62 3.30 
+168,280 159,327 67,742 73,907 42,493 39,701 278,515 272,935 
+49,000 42,300 71,800 61,300 33,300 29,900 51,800 45,000 
+104,090 99,003 181,792 150,964 91,161 84,393 121,016 110,948 Total Capacity Beds 
+Operational Beds (Census)
+Operational Beds (Non -Census)
+Available Capacity Beds
+ALOS (Days)
+Occupancy1
+Outpatient  Visits ( mn)
+In-patient  visits
+ARPOB  (INR)
+ARPP IP (INR)
+1. Occupancy is calculated based on Operational Beds (Census).       2. Above details are for hospitals and does not relate t o clinics        3. Data excludes WIMS Operational
+=== page 46 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+45
+8% 8%9%12%
+Q1FY26 Q2FY26 Q3FY26 Q4FY26Aster + QCIL: Consistently Delivering Robust Performance
+Consistent and Robust Revenue Growth at combined entity level 
+▪The combined entity1 (on a proforma basis) has consistently seen 
+improved revenue growth aided by ARPP IP growth and improving 
+patient volumes.
+▪Patient volumes continue to build steadily, with accelerating trends.
+Robust Operating EBITDA3 Growth Reflecting Operational leverage 
+and Effective Cost Management 
+▪The combined entity1 exhibited robust Operating EBITDA3 growth 
+across the quarters in FY26 demonstrating continued cost efficiencies.
+▪Margins remain resilient and healthy above 20%, despite capacity 
+expansions and business seasonality
+Expansion Momentum – Building One of India’s Largest Hospital 
+Networks12%13%15%18%
+Q1FY26 Q2FY26 Q3FY26 Q4FY26YoY Revenue Growth (%) YoY Total Patient Volume Growth (%)
+20%
+17%22%25%
+Q1FY26 Q2FY26 Q3FY26 Q4FY26YoY Operating EBITDA Growth3 (%)17% YoY Revenue Growth Ex. Kasargod in 
+Q4FY26
+27% YoY EBITDA Growth Ex. Kasargod in 
+Q4FY26▪4,445 beds to be added in coming years taking the total bed capacity to 
+15,068 beds
+▪Out of planned expansion across 18 cities2, majority will be brownfield 
+expansion
+1. Proforma Basis       2. Including Dhaka and Chattogram  3. Combined Operating EBITDA is Post INDAS EBITDA adjusted for one off   expenses, ESOP cost, movement in fair value of contingent consideration and variable O&M fee 20.5%23.0%21.3% 21.9%
+Q1FY26 Q2FY26 Q3FY26 Q4FY26YoY Operating EBITDA Margin3 (%)
+22.4% EBITDA Margin Ex. Kasargod in 
+Q4FY26
+=== page 47 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Combined Proforma Numbers for FY26
+Financial Metrics
+Aster
+ QCIL
+ Merged Entity * 
+ =
+ +
+(Figures for FY26)
+1. QCIL numbers are indicative and subject to statutory audit adjustments, if any
+2. Combined Operating EBITDA is Post INDAS EBITDA adjusted for one off expenses, ESOP cost, movement in fair value of contingent  consideration and variable O&M fee
+3. RoCE is computed on average capital employed excl. revaluation reserves and CWIP and Intangibles* Proforma financials for merged entity are subject to finalization and audit of the merged accounts. Actual amounts, losses or impact on net profit could materially differ from those that have been estimated. In addition, other factors that could cause  actual results to 
+differ materially from those estimated include harmonization of accounting policies and practices. YoY Growth
+Revenue (INR Cr)
+ 4,643
+ 4,6301
+9,273 14%
+Operating EBITDA2 (INR Cr)
+ 947
+ 1,066
+ 2,01321%
+46
+Net Debt (INR Cr)
+ (626)
+ 763
+ 1,388
+Op EBITDA Margin %
+ 20.4%
+ 23.0%
+ 21.7% 116 bps
+ROCE3 (%) 
+ 21.3%
+ 21.0%
+ 21.1% 293bps
+
+=== page 48 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+Combined Proforma Numbers for FY26
+Financial Metrics
+Aster
+ QCIL
+ Merged Entity * 
+ =
+ +
+(Figures for FY26)
+Operational Metrics
+No. of Hospitals (Nos)
+ 201
+16
+5,449
+1,21,016
+3.90
+39
+28
+10,623
+1,27,074
+7.71YoY Growth
+4%
+9%
+9%
+City Presence (Nos)
+Beds Capacity3 (Nos)
+ARPP IP (INR)
+Total Patient Volume (Mn)
+1. Includes WIMS
+2. Includes Nagercoil facility (Tamil Nadu) which was operationalized in Oct’24
+3. Refers to total capacity beds as of  Mar ‘26* Proforma numbers for merged entity are subject to finalization and audit of the merged accounts. Actual amounts, losses or impact on net profit could materially differ from those that have been estimated. In addition, other factors that could cause ac tual results to 
+differ materially from those estimated include harmonization of accounting policies and practices. 
+Occupancy (%)
+ 61%
+192 
+14
+5,174
+1,33,734
+3.81
+63%
+ 62%
+47
+=== page 49 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+48
+Revenue
+Synergies
+Supply
+ChainIntegrated
+Doctor Model
+Lower
+Overheads
+Identified synergies to have a near -term EBITDA upside potential of 10 -15%1✓Adopt best marketing practices across Aster and QCIL to maximize patient outreach and conversion
+✓Strengthened initiatives to attract international patients
+✓Expanded coverage by insurance companies with integrated operations
+✓Rationalization of spends on procurement of drugs, consumables & other expenses through centralization 
+✓Leveraging scale to negotiate, streamline vendors and enhance formulary compliance✓Broader base of star senior specialists and exchange of learnings
+✓Greater ability to attract and retain medical talent with state -of-the-art medical facilities
+✓Optimization of corporate functions
+✓Leverage best practices, technology and channel mix optimization
+Additional 
+Synergies within 
+QCIL✓Increased revenue potential from international patients, optimized RCM, and better realization
+✓Cost savings including improvement in material margin, manpower optimization, corporate overheads, and other 
+indirect expensesExpected Synergies Post -Merger
+1. As % of FY24 Pro -forma EBITDA of the merged entity
+=== page 50 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+49
+Dr. Zeba Azad Moopen
+ Sunil Theckath  
+Vasudeva
+Maniedath  Madhavan
+ Nambiar
+James Mathew
+Chenayappillil  John 
+George
+Purana Housdurgamvijaya  
+Deepti
+Shamsudheen  Bin 
+Mohideen Mammu  Haji
+Non-Executive Director
+T. J. WilsonBoard of Directors
+Alisha Moopen
+Independent Director Independent Director Non-Executive DirectorIndependent Director Independent Director Independent DirectorNon-Executive Director Deputy Managing Director
+Dr. Azad Moopen
+Founder Chairman
+
+=== page 51 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+50
+Leadership Team
+.
+Dr. Azad Moopen
+Founder Chairman
+Alisha Moopen
+Deputy Managing Director
+T.J. Wilson
+Group Head - Governance & 
+Corporate Affairs
+Ramesh Kumar S
+Chief Operating Officer
+Dr Somashekhar S P
+Chairman -Medical 
+Advisory Board & Director 
+– Aster International 
+Institute of Oncology
+Sunil Kumar M R
+Chief Financial Officer
+Hitesh Dhaddha
+Chief Investor Relations & 
+M&A officer
+Dr. Prashanth N
+Chief Executive Officer – 
+Karnataka Cluster
+Durga Prasanna
+Head - HR
+Vineesh Kumar Ghei
+Country Head – Sales,
+Marketing & RCM
+Sudeep Dey
+Chief – Information Officer & 
+Information Security Officer
+Hari Prasad V K
+Head – Internal Audit, Risk 
+& Compliance
+Dr. Anup Warrier
+Chief – Medical Affairs 
+& Quality
+Hemish Purushottam
+Company Secretary
+Hemakumar Nemmali
+Country Head – SCM &
+Central ProcurementThis slide not required, will ask Hitesh 
+again
+=== page 52 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+51
+Awards and Recognition
+Padmashree Dr. Azad Moopen  and Pravasi 
+Bharatiya Samman awardee
+Founder, Chairman and MDMs. Alisha Moopen
+Deputy Managing Director
+•Honoured  with
+‘Lifetime Achievement Award’  
+by Mount Judi Ventures
+•
+Recognised  as 
+•‘Legend in the Healthcare Industry’ at the 19th Edition of 
+FICCI Heal 2025
+•Awarded the 
+•‘Healthcare Icon of the Year’
+at the Economic Times Healthcare Awards 2025
+•Honoured with
+•‘Visionary Leader in Healthcare’
+•at Elets  India Healthcare Awards 2025
+•Honoured with 
+•‘Lifetime Achievement Award’  
+by Entrepreneur India 2025 and Association of Kerala Medical 
+Graduates (AKMG) MARAAYA 2025 Convention
+•Honoured with the 
+•‘Healthcare Leader of the Year’   
+•award by Financial Express Healthcare Awards 2025
+•Named among Top 5 in Forbes Middle East’s Top 
+Healthcare Leaders 2025 (Founders and Shareholders)
+•Dr. Azad Moopen honoured among 
+•Forbes Middle East Sustainability Leaders 2025 for leading 
+Aster’s journey towards a greener, more equitable healthcare 
+future.•Recognized as 
+•‘Most Influential Women 2026’ 
+•among BW Healthcare World 
+•Awarded
+‘Global Expansion Entrepreneur of the Year’
+at Entrepreneur Asia Awards 2026
+•Featured in 
+•‘Trailblazing Women in Healthcare 2026’ 
+•by Reuters
+•Recognized among the
+•‘The 100 Most Influtential  Leaders in Healthcare’
+•By TIMES 100 Health 
+•Received the 
+‘Dynamic Entrepreneur of the Year’ award at the 
+Entrepreneur India Awards 2025
+•Featured in the
+‘Fortune India 100 Most Powerful Women’ 
+in Business 2025
+•Named among Top 5 in Forbes Middle East’s Top 
+Healthcare Leaders 2025 (Founders and Shareholders)
+•Honoured  as ‘Healthcare Visionary Leader of the Year’  at 
+the Economic Times Healthcare Leaders Awards 2025(ME)
+
+=== page 53 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+52
+Awards, Recognition and Rankings
+Aster recognised among India's Top 500 
+Value Creators
+Aster Digital Health  
+won 
+‘Most Impactful Digital 
+Transformation in Healthcare’ 
+at the Elets Technomedia  Healthcare 
+Innovation Awards 2025. Gold for Excellence in 
+Integrated Annual Report 2024 –25
+Aster earns Gold at the League of American 
+Communications Professionals Spotlight 
+Awards, ranking among the global top 100 
+companies.
+Sustainability & People Excellence
+Gold Award – T errestrial 
+Biodiversity Conservation & 
+Afforestation Initiatives
+Aster India Platinum Award – 
+Water Conservation InitiativesGlobal ESG Awards and Gulf 
+Sustainability Awards 2025
+Aster DM Healthcare 
+won the Gold Award 
+for the CSR Health 
+System  
+Strengthening 
+Project at the 9th 
+CSR Health Impact 
+Awards
+Aster Volunteers 
+team won the CSR 
+Times Award 2025  
+for their continuous 
+outreach 
+programmes  
+in the underserving 
+communities
+Fortune 
+Leadership 
+Award 
+2025 for 
+Best 
+Volunteer 
+Engagement
+Recognition across digital innovation, ESG leadership, and workplace excellence.
+Best Hospital Chain of the Year 2025
+Aster DM Healthcare has been awarded 
+Excellence in Mergers & Acquisitions by 
+Business World
+=== page 54 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+53
+Awards, Recognition and Rankings
+Aster RV won ‘Best Multispecialty’  
+Aster Whitefield Hospital won ‘Best in 
+Cardiology, Pulmonology and Urology’
+Technology Transformation Initiative of the Year
+Aster Whitefield Hospital won Technology Transformation Initiative of the Year 
+award at FICCI Heal 2025
+Best Multispecialty Hospital 
+India 2025
+Best Multispecialty Hospital 
+Ranking 2025
+Times All India Critical Care 
+Ranking 2025
+Times All India 
+Multispecialty Ranking 2026
+The COEs of Aster Medcity , 
+Aster CMI and Aster MIMS are 
+ranked under  Top 10
+Aster CMI:
+Excellence in Integrated Liver Care 
+and Excellence in Medical 
+Gastroenterology
+Aster Whitefield:
+Excellence in multi -speciality 
+Hospital with Healthcare Innovation
+Aster CMI, 
+Bengaluru
+Word’s Best Hospitals 2026
+Aster Medcity , 
+Kochi
+Aster MIMS, 
+Calicut
+Aster Medcity
+Aster CMI  
+(Emerging)
+Aster Medcity, 
+Kochi  
+All India Best 
+Multispeciality
+Aster CMI
+All India Best 
+Multispecialty
+Aster Medcity, 
+Kochi
+South Best 
+Multispeciality
+Aster CMI
+South Best 
+Multispecialty
+Specialty Ranking
+Aster Medcity, Kochi
+3 Golds (Emergency & 
+Critical Care, 
+Neurosciences, Robotic 
+Surgery) 
+1 Silver (Organ Transplant)
+Aster Whitefield  
+Silver (Oncology, 
+Neurosciences) 
+Bronze (Multi -Specialty 
+Care)
+Aster CMI
+Bronze in Multi -Specialty 
+Care.Aster Medcity, Kochi  
+Aster CMI, Bengaluru
+Aster MIMS, Calicut
+Aster Medcity, Kochi
+Aster CMI, Bengaluru
+Aster MIMS, Calicut
+Aster CMI
+Aster Medcity
+Aster Whitefield Hospital
+Top Emerging Hospitals - 
+Bengaluru
+National Rankings
+South India Rankings
+Bengaluru City Rankings
+Kochi City RankingsHospital of the Year
+ET Healthcare Awards
+Aster Medcity National for Organ Transplantation
+Aster CMI Oncology (South)
+Aster Whitefield Critical Care, Reconstructive Surgery
+Aster RV Organ Transplantation
+Hospital of the Year
+Aster CMI (South)
+Times Health Excellence 
+2025
+
+=== page 55 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+54
+Best -in-class Medical Technology
+31
+Cathlabs
+7
+LINACs
+17
+MRI Machine
+10
+Robots
+Digital PET - CT
+The uMi 550 is an 80 -slice digital PET/CT 
+system delivering combined functional and 
+anatomical imaging.Cuvis  Joint is a robotic system for orthopaedic 
+surgeries, specializing in knee and hip 
+replacementsA cost-effective robotic surgical system by 
+Intuitive Surgical, designed to help hospitals 
+adopt or expand robotic surgery programsSurgical Robot, SSI Mantra 
+3.0Ortho Robot, ROSA Recon 
+Surgical Robot, Da Vinci XIPhilips Excimer Laser
+India’s first indigenous surgical robot. Cost 
+effective with advanced features including 
+telesurgery and tele -proctoring capabilitiesA robotic surgical system, specifically a stereotaxic 
+instrumentation system, designed to assist 
+surgeons in performing total/partial knee 
+arthroplasty & THA Aster CMI becomes the first in Karnataka to 
+install the advanced Philips Excimer Laser 
+Atherectomy System for coronary and 
+peripheral vascular procedures.
+Brain Lab, Loop XA surgical imaging system that provides 
+intraoperative 2D and 3D imaging during spine, 
+orthopaedic , and trauma surgeries. It acts as 
+an intraoperative CT scannerO-arm
+Ortho Robot, Cuvis
+Mobile intraoperative imaging robot allowing 
+neurosurgeons to obtain large, real -time field 
+view of the patient during surgery
+Rosa One (Zimmer Biomet)
+A robotic guidance system that enables 
+surgeons to plan and perform highly precise 
+brain surgeries with enhanced accuracy and 
+safety.
+Autoguide  System 
+(Medtronic)
+An advanced, image -guided virtual 
+bronchoscopy platform used for minimally 
+invasive diagnosis of peripheral lung nodules, 
+especially those located beyond the airways.
+=== page 56 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+55
+Digital Initiatives
+Aster Digital India received “Innovation – New Initiatives Award”  at 24th Data Center Summit and Awards by UBS Forum
+24/7 Teleradiology Business Model
+Diversified Revenue
+Optimized Expertise
+Global ScalabilityCentralized remote interpretation for MRI, CT, and X -ray 
+scans via a digital "hub -and-spoke" network.
+Serves as a third -party provider for external hospitals and 
+international clients
+Increases efficiency and reduces costs by utilizing a centralized 
+pool of radiologists to provide around -the-clock coverage.
+Leverages time -zone differences for international 
+reporting and "pre -read" services.
+Clinical Re -activation
+Proven Model
+Conversion Success
+ScalabilityLeverages proprietary algorithms to analyze health records 
+and re -engage patients based on clinical.
+Successfully pioneered in Aster UAE, showing tremendous 
+success before being adapted for the Indian market.
+8% reactivation rate from dormant patients in initial pilot 
+phases, successfully winning back 6,500+ patients who had 
+not visited in over a year.
+Following a successful Proof of Concept in 2 hospitals , the 
+roadmap includes expansion to 11+ facilities in FY27.
+Proof of Concept underway with Aster Retail Labs
+“Aster Health App”  crosses 500K+  downloads. Also 
+available in Malayalam.
+Hospital Lab Reports, Radiology Reports and Images  
+now live on the App
+51K+ Unique Patients
+33K MAU (Monthly Active 
+Signed)
+64K+ Appointments
+Live Across 10 Hospitals
+Building a Scalable Phygital 
+Healthcare Ecosystem
+Driving Growth & Patient Retention
+=== page 57 ===
+218 219 221206 231 2540 180 141
+0 72 57
+74 144 228
+148 176 200129 129 12922 77 146
+A8:A3:
+A4:
+A5:
+A6:A2:A1:
+A7:Excel color schemePage title 24 pt
+22 77 146
+Page subtitle 20pt non bold
+22 77 146
+Heading
+Font color – 22 77 146
+Line: 22 77 146
+For CS
+0 180 141 A3:For client
+22 77 146 A1:
+Highlight in tables
+218 219 221
+188 208 222 H2:H1:
+56
+ESG Milestones *
+E
+S
+G  Waste reduction is achieved 
+in FY25,, i.e. 18% from the 
+previous yearReduction in Water 
+consumption in FY25 i.e.~ 
+0.6% from previous yearEnergy Consumption 
+sourced from renewable 
+(solar & wind) 
+energy at Aster CMI and RV, 
+Bangalore INR 3.3 Mn ~8,681 tCO2e 16,100+
+Worth of reduction in Annual 
+Paper Usage across all 
+Aster facilities, i.e. 2.4% 
+from the previous yearTrees Planted in FY25
+51
+No. of People of 
+determination in workforce 
+in India6,022
+Free Medical camps 
+conducted through the 
+network of Aster Volunteers 
+Mobile Medical Services 
+(AVMMS)7,047
+Patients from economical 
+poor background benefitted 
+through Free/discounted 
+surgeries worth of INR 5.74 
+crore7,23,642
+Beneficiaries of the Aster 
+Volunteers Community 
+engagement initiatives 
+during FY25
+25% 15
+Women representation in 
+Board of DirectorsPolicies  supporting 
+Governance framework 
+including ESG Policy, CSR 
+policy, Business 
+Responsibility policy, etcEmployees participated for 
+cyber security awareness 
+program through a game -
+based learning methodology3,200+Mobile Medical services in 
+India offering free health 
+screening services in the 
+regions where healthcare is 
+least accessible 34 5~577 ton 97%+ ~7,414 KL
+Reduction in Carbon 
+emission in FY25 through 
+renewable energy resources
+100%
+Resolution of reported 
+whistleblowing casesStandalone T ele Medicine 
+Centers (AVCMS) in 
+Rajastha n, J&K, Karnataka 
+and Gujarat
+50%
+of the Board of Directors 
+comprises Independent 
+Directors 2,732
+Employees participated in a 
+week -long training program 
+under a new initiative for 
+adhering to our code of 
+conduct*All numbers are based on FY25
+=== page 58 ===
+Thank You
+Investor Relations:
+investors@asterdmhealthcare.inAster 
+We'll Treat You Well 

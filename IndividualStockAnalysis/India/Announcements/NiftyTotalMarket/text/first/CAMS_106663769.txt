@@ -1,0 +1,301 @@
+ 
+ 
+15th June 2026 
+ 
+BSE Limited, 
+Phiroze Jeejeebhoy Towers, 
+Dalal Street 
+Mumbai 400 001 
+ 
+Scrip Code: 543232 National Stock Exchange of India Limited 
+Exchange Plaza, 5th floor, Plot No. C/1, 
+G Block, Bandra Kurla Complex, Bandra 
+(East), Mumbai 400 051 
+ 
+Trading Symbol: CAMS 
+ 
+Dear Sir / Madam, 
+ 
+Sub: Disclosure of Business Responsibility and Sustainability Report for the financial 
+year 2025-2026  
+Pursuant to provisions of Regulation 34(2)(f) of the SEBI (Listing Obligations and Disclosure 
+Requirements) Regulations, 2015, we are enclosing the Business Responsibility and 
+Sustainability Report (“BRSR”) for the financial year 2025-2026 including Limited assurance 
+report on BRSR Core indicators from S G S India Private Limited for the financial year 2025-
+26. Additionally, the business responsibility and sustainability report along with the said 
+Limited assurance report is also being uploaded on the website of the Company at 
+www.camsonline.com  
+Kindly take the above on record. 
+Thanking you, 
+ 
+Yours faithfully,  
+For Computer Age Management Services Limited 
+  
+ 
+ 
+ 
+G Manikandan 
+Company Secretary and Compliance Officer  
+ 
+ 
+Business Responsibility and  
+Sustainability Report
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed ent ity
+1. Corporate Identity Number (C IN) of the Listed Entity L65910TN1988PLC015757
+2.
+ Name of the Listed Entity Computer 
+Age Management Services Limited
+3.
+ Y
+ear of incorporation 1988 (May 25)
+4.
+ Registered o
+ffice address Computer Age Management Services Limited,  
+New No.10, Old No 178, M.G.R. Salai, Nungambakkam, Chennai (Madras), Tamil Nadu, 600034
+5.
+ Corporate ad
+dress Computer Age Management Services Limited, No.158, Rayala Towers, Tower - I, 3
+rd Floor, Anna Salai 
+Chennai 600002
+6.
+ E-mail secretarial@camsonline.com
+7.
+ T
+elephone 044-61092992
+8.
+ W
+ebsite www.camsonline.com
+9.
+ Financial yea
+r for which reporting is being done FY 2025-26
+10.
+ Name of the Stock Exchange
+(s) where shares are listed BSE Limited (BSE) and the National Stock Exchange of 
+India (NSE)
+11.
+ Paid-up Cap
+ital ` 49,59,68,996 (As on March 31,2026)
+12.
+  Name and co
+ntact details (telephone, email address) of 
+the person who may be contacted in case of any queries on the BRSR reportMr. Manikandan Gopalakrishnansecretarial@camsonline.com
+13.
+  Reporting bo
+undary - Are the disclosures under this 
+report made on a standalone basis (i.e., only for the entity) or on a consolidated basis (i.e., for the entity and all the entities which form a part of its consolidated financial statements, taken together)Consolidated
+14.
+ Name of assessment or assurance provider SGS India Private Limited
+15.
+ T
+ype of assurance obtained Limited Assurance on BRSR Core attributes
+II. Products/services
+ 16. Details of b usiness activities (accounting for 90% of the turnover):
+S. No.Description of Main Activity Description
+ o f Business Activity % of Turnover of 
+the entity
+1 Registrar and transfer agent 
+(RTA) for mutual funds (MFs)Technology-driven financial infrastructure and services provider to Asset Management Companies, Alternate Investment Funds, Insurance Companies and Central Record keeping Agency for NPS Client Digital on-boarding, e-KYC, fund reports and other digital solutions for AIF and PMS .86%
+2 Service provider for insurance 
+companies, Payment Aggregator services, KYC Registration Agency and other activitiesInsurance Repository ServicesPayment Aggregator & Account Aggregator services. Central Record keeping Agency for NPS., 14%
+164
+38th Annual Report 2025-26 Computer Age Management Services Limited
+ 17.  Products/Services sold by the entity (accounting fo r 90% of the entity’s Turnover):
+S. 
+No.Product/Service NIC Code % of total Turnover contributed
+1 Service Partner to Asset Management Company 62099 86%
+III. Operations
+ 18.  Number of locations where plants and/or operation s/offices of the entity are situated:
+Location Number of plants Number of offices Total
+National Not Applicable 11 Back offices 285 Service Centres 
+PAN India 3 Data centers299
+International Not Applicable Not Applicable Not Applicable
+ 19.
+ Marke
+ts served by the entity:
+ 
+ a.
+ Number of locations
+Locations Number
+National (No. of States) 25 States and 5 UTs
+International (No. of Countries) Not Applicable
+ 
+ b.
+ What is the contribution of exports as a percentage of the total turnover of the entity?
+ 
+  0.09%
+  
+c.
+ A
+ brief on types of customers
+ 
+   CAMS 
+is a Registrar and Transfer Agent (RTA) for mutual funds (MFs) and Alternate Investment Funds with a 
+widespread customer base of more than 400. CAMS is a B2B service partner offering technology-driven financial 
+infrastructure solutions to Mutual funds, Alternate Investment funds, and Insurance companies. The company is a market leader serving 68% (approx.) of average assets under management as of March 31,2026. Further, the company also serves customers through variety of touch points such as the PAN-INDIA network of service center, mobile apps and chatbots.
+MF & Alternate investment 
+FundsInsurance vertical Account Aggregator Payments Business
+Asset Management Companies, Alternate investment funds Insurance companies Banks and financial 
+market intermediariesAsset Management 
+Companies, NBFCs
+IV. Employees
+ 20.  Details as of the end of Financial Year:
+ 
+ a.
+ Employees and workers (including differently abled):
+S. NoParticulars Total (A) Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+EMPLOYEES
+1. Permanent (D) 8410 5747 68.00 2663 32.00
+2. Other than Permanent (E) 92 64 70.00 28 30.00
+3. Total employees (D + E) 8502 5811 68.00 2691 32.00
+WORKERS
+4. Permanent (F) 0 0 0.00 0 0.00
+5. Other than Permanent (G) 0 0 0.00 0 0.00
+6. Total workers (F + G) 0 0 0.00 0 0.00
+165
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL STATEMENTS
+  b.  Differently abled Employees and workers:
+S. 
+NoParticulars Total (A) Male Female
+No. (B) % (B/A) No. (C) % (C/A)
+DIFFERENTLY ABLED EMPLOYEES
+1. Permanent (D) 18 17 94.00 1 6.00
+2. Other than Permanent (E) 2 1 50.00 1 50.00
+3. Total differently abled employees (D + E) 20 18 90.00 2 10.00
+DIFFERENTLY ABLED WORKERS
+4. Permanent (F) 0 0 0.00 0 0.00
+5. Other than Permanent (G) 0 0 0.00 0 0.00
+6. Total differently abled workers (F + G) 0 0 0.00 0 0.00
+ 21.
+ Participation/Inclusion/Representation of women
+Total
+(A)No. and percentage of 
+Females
+No. (B) % (B / A)
+Board of Directors 6 1 17
+Key Management Personnel 3 NIL 0
+ 22.
+ T
+urnover rate for permanent employees and workers
+FY 2025-26 (Turnover rate 
+in current FY) [values in %]FY 2024-25 Turnover rate in 
+previous FY) [values in %]FY 2023-24 (Turnover rate in 
+the year prior to the previous 
+FY) [values in %]
+Male Female Total Male Female Total Male Female Total
+Permanent Employees* 24 31 26 24 38 31 28 39 34
+Permanent Workers Not Applicable
+V. Holding, S ubsidiary and Associate Companies (including joint ventures)
+ 23.  Name s of holding / subsidiary / associate companies / joint ventures
+S.No.Name of the holding/ subsidiary/ associate companies/ joint ventures (A)Indicate whether holding/ Subsidiary/ Associate/ Joint Venture% of shares held by listed entityDoes the entity indicated at column A, participate in the Business Responsibility initiatives of the listed entity? (Yes/No)
+1 CAMS Insurance Repository Services Limited Subsidiary 100 Yes
+2 CAMS Investor Services Private Limited Subsidiary 100 Yes
+3 Sterling Software Private Limited Subsidiary 100 Yes
+4 CAMS Financial Information Services  
+Private LimitedSubsidiary 100 Yes
+5 CAMS Payment Services Private Limited Subsidiary 100 Yes
+6 Fintuple Technologies Private Limited Subsidiary  79 Yes
+7 Think Analytics India Private Limited Subsidiary 55 Yes
+8 Think Analytics Consultancy Services Private LimitedStep Down 
+Subsidiary55 Yes
+9 THINK360 AI, INC Step Down 
+Subsidiary55 Yes
+10 MFC Technologies Private Limited Associate 50 Yes
+166
+38th Annual Report 2025-26 Computer Age Management Services Limited
+VI. CSR Details
+ 24. i.  Whether CSR is applicable as per section 135 of Compan ies Act, 2013: (Yes/No) -YES
+ 
+ ii.
+ T
+urnover (in `) – 151,624.90 Lakhs
+ 
+ iii.
+ Net worth (in 
+`) - 132,091.47 Lakhs
+VII. T ransparency and Disclosures Compliances
+ 2 5.   Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder 
+group from whom complaint is receivedGrievance Redressal Mechanism in Place (Yes/No) if Yes, then provide web-link for grievance redress policyFY 2025-26 FY 2024-25 If NA, 
+then 
+provide 
+the 
+reasonNumber of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks Number of 
+complaints 
+filed during 
+the yearNumber of 
+complaints 
+pending 
+resolution 
+at close of 
+the yearRemarks
+Communities 1Yes 0 0 None 0 0 None
+Investors (other than shareholders) 
+2Yes 124 2 None 217 1 None  
+Shareholders 3Yes 4 0 None  9 0 None  
+Employees and workers 
+4 Yes 0 0 None 0 0 None  
+Customers 5Yes 0 0 None 0 0 None  
+V
+alue Chain 
+Partners 6Yes 0 0 None 0 0 None  
+Note:
+1
+. 
+ The
+ company undertakes various CSR initiatives in the areas of education and health and also manage effective 
+grievance redressal of the communities, if any. The company’s nature of operation does not have any negative 
+externalities to the community.
+2.
+  The 
+grievance redressal process for investors are enlisted at: https://www.camsonline.com/Investors/Support/
+Query&Complaint-Form
+3.
+ https://www
+.camsonline.com/about-cams/shareholder-relations/shareholder-support
+4.
+  There 
+is a grievance redressal policy for employees and it is available on the intranet of the company which is 
+accessible to all its employees.
+ 
+ The 
+company conducts regular employee engagement programmes and any grievances raised by employees 
+are addressed periodically. No grievances were received through grievance boxes and other HR records. For more details, refer to Corporate Governance section in Page 87-88.
+5.
+ 
+ A
+ dedicated customer relation manager for each customer interacts on a regular basis and addresses the 
+grievance of the customers.
+6. 
+ T
+he grievance redressal mechanism for value chain partners has been enlisted at: https://www.camsonline.com/
+Distributors/Support/Grievances
+In addition to the above mechanisms, the company has in place whistle blower policy which is available on the website of the company. Web-link of the policy: CAMS- Whistle blower policy
+167
+CORPORATE OVERVIEW STATUTORY REPORTS FINANCIAL STATEMENTS
+ 26.  Overview of the entity’ s material responsible business conduct issues
+Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach to 
+adapt or mitigate the risk along-with its financial implications, as per the following format
+S. 
+No.Material issue identifiedIndicate whether risk or opportunity (R/O)Rationale for identifying the risk/ opportunityIn case of risk, approach to adapt or mitigateFinancial implications of the risk or opportunity (Indicate positive or negative implications)
+1. Cyber 
+security riskR The company relies heavily on its technology and infrastructure. As majority of transactions are processed digitally, it increases cyber security risk.The company has a robust IT committee- governing cyber security policy which is regulated by internal and external teams including external specialist firms. The company has a dedicated Chief Information Security officer who proactively monitors the threats.Negative
+2. Compliance 
+riskR The frequent regulatory changes make it difficult for the company to stay compliant and any default could result in fines and penalties. To mitigate this risk, the company has internal compliance monitoring tools and specific set of individuals for tracking compliance.Negative
+3. Operational 
+riskR The company faces risks relating to error or omissions in the operations which could significantly impact the monetary and reputational losses.The company mitigates the risk by critical incident reporting tracker and proactive monitoring of the potential risks.Negative
+4. Customer 
+satisfactionR The company has been actively diversifying into new business lines and the client servicing has become increasingly complex and dynamic. To mitigate this risk, client satisfaction surveys are conducted by the company.Negative
+168
+38th Annual Report 2025-26 Computer Age Management Services Limited

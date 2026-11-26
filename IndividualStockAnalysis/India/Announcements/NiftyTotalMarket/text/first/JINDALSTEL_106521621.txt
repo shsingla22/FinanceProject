@@ -1,0 +1,226 @@
+ 
+February 5, 2026  
+ 
+BSE Limited  
+Corporate Relationship Department,                                                            
+1st Floor, New Trading Ring,                                                                         
+Rotunda Building, P J Towers,                                                                     
+Dalal Street, Fort, Mumbai – 400 001  
+corp.relations@bseindia.com   
+Scrip Code: 532286   National Stock Exchange of India Limited                            
+Exchange Plaza, 5th Floor,                                                 
+Plot No. C/1, G Block  
+Bandra -Kurla Complex, Bandra (E),  
+Mumbai -400051  
+cmlist@nse.co.in   
+Symbol: JINDALSTEL  
+ Dear Sir / Madam,    
+ 
+SUBJECT:   TRANSCRIPT OF EARNINGS CONFERENCE CALL HELD ON JANUARY 
+31, 2026  
+ 
+This is in furtherance to our letter dated January 28, 2026, w.r.t the Earnings Call intimation for the financial results with the Institutional investors/ analysts.  
+ In terms of Regulation 30 read with Schedule III of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015, the transcript of the earning s conference call is 
+enclosed herewith and has also been uploaded on the website of the Company at www.jindalsteel.in . 
+ 
+You are requested to take the above information on record.  
+ 
+Thanking you.  
+ Yours faithfully,  
+For Jindal Steel Limited  
+(Formerly known as Jindal Steel & Power Limited)  
+ 
+ 
+ 
+Damodar Mittal  
+Wholetime Director  
+ 
+Encl.: as above  
+ 
+ Page 1 of 21  
+ 
+ 
+“Jindal Steel  Limited Q3 FY26 Earnings Conference 
+Call”  
+ 
+‘January 31, 2026’ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+MANAGEMENT : MR. GAUTAM MALHOTRA – CHIEF EXECUTIVE 
+OFFICER  
+MR. SABYASACHI BANDYOPADHYAY – WHOLE -TIME 
+DIRECTOR  
+MR. PANKAJ MALHAN – EXECUTIVE DIRECTOR  
+(ANGUL ) 
+MR. DAMODAR MITTAL – WHOLE -TIME DIRECTOR  
+MR. SUNIL AGRAWAL – CHIEF FINANCIAL OFFICER  
+MR. SUSHIL PRADHAN – EVP  (HEAD OF FLAT 
+PRODUCTS ) 
+MR. VISHAL CHANDAK – HEAD  (INVESTOR RELATIONS 
+AND STRATEGIC FINANCE ) 
+MODERATOR : MR. PRATEEK SINGH – IIFL  CAPITAL  SERVICE 
+LIMITED  
+
+ Jindal Steel  Limited  
+January 31, 2026  
+ 
+ Page 2 of 21 
+Moderator : Ladies and gentlemen, good day and welcome to the Jindal Steel L imited  Q3FY26 Earnings  
+Conference Call hosted by IIFL Capital Service L imited . 
+As a reminder, all participant s’ lines will be in listen -only mode and there will be an opportunity 
+for you to ask questions after the presentation concludes. Should you need assistance during this 
+conference call, please signal an operator by pressing ‘*’, then ‘0’ on your touchtone phone.  
+Please note that this conference is being recorded.  
+I now hand over the conference to Mr. Prateek Singh from IIFL Capital. Thank you and over to 
+you, sir.  
+Prateek Singh : Thank you . Good afternoon  everyone and welcome to the Q3 FY26 Earnings Call of Jindal Steel 
+Limite d. 
+Without further ado, I will now hand over the call to Mr. Vishal Chandak  – Head , Investor 
+Relations and Strategic Finance, to introduce the Management attendees and take it forward. 
+Over to you, Vishal.  
+Vishal Chandak : Hi, Prateek. Thank you very much. Thank you very much, ladies and gentlemen, and I appreciate 
+you coming over the weekend.  I once again welcome you to the Q3 FY26 Earnings Briefing of 
+Jindal Steel.  
+We have with us senior management of the Company , Mr. Gautam Malhotra  – CEO ; Mr. 
+Sabyasachi Band yopadhyay  - Whole -Time Director ; Mr. Pankaj Malhan  - Executive Director, 
+Angul ; Mr. Sunil Ag rawal - CFO, Mr. Damodar Mittal  - Whole -Time Director  and Mr. Sushil 
+Pradhan  - Head, Flat Products.  
+I request all the participants to ask questions which are strategic in nature and for any factual 
+related queries, we are always there to help you out.  
+Without much ado, I will hand over the floor to our CEO, Mr. Gautam  Malhotra . Over to you, 
+Gautam sir.  
+Gautam Malhotra : Thank you, Vishal. Good afternoon, ladies and gentlem en. Welcome to Jindal Steel's Third 
+Quarter  FY26 Earnings Briefing.  I appreciate it is a Saturday afternoon, so sincere thank you for 
+finding the time to join us.  
+From a macro perspective, let me start by touching upon the supply -demand imbalance in the 
+Chinese steel industry, which clearly has an impact on global markets, including India. The 
+downtrend in Chinese steel demand continues to outpace the decline in dom estic steel 
+production, resulting in record exports of 119 million tons in calendar year 2025.  This level of 
+ Jindal Steel  Limited  
+January 31, 2026  
+ 
+ Page 3 of 21 
+low-price exports has prompted several countries to impose tariff and non -tariff barriers to curb 
+the impact of Chinese steel imports on the local markets.  
+Focusing on India's performance during the quarter : 
+Crude steel production rose 2% quarter -on-quarter to 42.5 million tons in Q3 FY26, whilst 
+demand increased only by 0.5% quarter -on-quarter to 40.7 million tons. Trade dynamics 
+improved materially, exports increased 30% to 2.5 million tons and imports reduced by 36% to 
+1.6 million tons sequentially. Consequently, India turned a net st eel exporter again in Q3 FY26 
+for the first time after 6 quarters, with net exports of 0.8 million tons. On trade measures, 
+following the DGTR's recommendation, the Ministry of Finance has notified a definitive 
+safeguard duty on select steel imports for a period of 3 years on ad valorem basis, with step -
+down rates of 12% in year 1, 11.5% in year 2 and 11% in year 3, ending on 20th April 2028. 
+During the quarter, domestic steel prices in India corrected on the back of weak demand.  HRC 
+prices remained under pressure due to weak Chinese steel prices, whilst TMT prices reflected 
+subdued construction activities. However, prices have recovered since mid -December 2025 after 
+prolonged correction and we further expect support in Q4 with imp roving overall demand 
+dynamics.  
+Coming to Jindal  Steel  business update : 
+On projects, we operationali zed SBPP Module 1 of 525 MW during the third quarter  of FY26. 
+We are happy to report that we have also synchroni zed SBPP Module 2 of 525 MW again with 
+a grid in Jan uary’ 26. With this, we have achieved yet another major milestone of turning around 
+1,050 MW power plant th at we have acquired under the IB C. We are also pleased to report that 
+we have commissioned CCL1 with a capacity of 0.2 million tons per annum in January’ 26. This 
+broadens our product portfolio and supports further margin enhancement going forward. We 
+have opened the Utkal B1 mine and overburden removal is currently underway.  The 3 million 
+tons per annum basic oxygen furnace 3 at Angu l remains on trac k for commissioning by 
+Q4FY26. And upon commissioning, we will reach 15.6 million tons of steelmaking capacity. 
+All other projects are progressing as planned and remain on track for commissioning within the 
+scheduled timelines.  
+Coming to the financial results : 
+Total production in Q3 FY26 increased 25% quarter -on-quarter to 2.51 million tons. This was 
+supported by two factors. Firstly, the ramp -up of the BF2 and BOF2 facilities at Angu l. 
+Second ly, our newly commissioned Bhagav ati Subhadr ika Blast Furnace -II achieved capacity 
+utilization of 48% in Q3 FY26 with an exit run rate of 58% utilization. Sales  volume rose 22% 
+quarter -on-quarter to 2.28 million tons driven by higher production. Consolidated Q3 FY26 gross 
+revenue increased 12% quarter -on-quarter to INR 15,172 crores driven by higher sales volume , 
+but partly offset by weaker steel prices.  Consolidated adjusted EBITDA for the quarter was Rs. 
+1,593 crores translating to a margin of 10.5% and EBITDA per ton of Rs. 6,981.  However, this 
+ Jindal Steel  Limited  
+January 31, 2026  
+ 
+ Page 4 of 21 
+includes the one -time BF2 start -up cost of INR 350 crores and if we take this non -recurring 
+expense out, the underlying business EBITDA for the quarter is higher by Rs. 1 ,535 per ton , 
+taking the EBITDA per ton to Rs. 8,516 for the quarter.  
+Consolidated PAT for the quarter post the one -time start -up cost was INR 189 crores. Our 
+blended steel NSR was down by about Rs. 3,000 per ton on a sequential basis as the incremental 
+volumes were skewed toward HRC which carried the lowest realizations and margins in our 
+product basket.  Within HRC, our sales emphasis was on high -throughput, productivity -driven 
+segments and sizes rather than lower -volume value -added trades. The shift in product mix 
+further compressed the ASP. In addition, our by -produc t revenues did not g row in line with our 
+steel revenue as the coke oven plant was commissioned towards the mid of Q3 FY26. Further, 
+the lower by -product sales and other operating income also contributed to the drop in ASP on a 
+quarter -on-quarter basis due to the increased captive consumption. On the cost front, during the 
+Q2 Earnings Call , we guided for an increase of $ 3-$5 per ton in coking coal for Q3.  Our actual 
+coal consumption cost duri ng the quarter increased by $ 2 per ton. During the quarter, BF2 ramp -
+up was executed using higher -cost bought -out coke at a higher coke rate resulting in higher 
+operating costs.  
+With the commissioning of an additional coke oven battery in November ’25, coke costs are 
+expected to normalize and the BF2 coke rate has already begun to stabilize. Supported by 
+improving steel realizations, we expect a meaningful improvement in performance in Q4 
+compared to Q3. On the CAPEX  front, we invested Rs.  2,076 crores during the quarter. With 
+this, a cumulative CAPEX  under the current expansion program up to 31st December 2025 is 
+Rs. 32,925 crores as against a total announced CAPEX  of Rs.  47,043 c rores. We are investing 
+in our long -term growth, creating assets that will support India's infrastructure build -out. Our 
+investments are not limited to adding new capacity , but also include strengthening our existing 
+portfolio of assets.  This will ensure best -in-class capacity utilization, improved asset reliability 
+and higher profitability in times to come. This financial year marks an inflection point in our 
+transformational journey to build world -class assets.  
+Coming to the debt profile : 
+Consolidated net debt as on 31st December 2025 was Rs.  15,443 crores up Rs. 1,287 crores 
+sequentially. Accordingly, net debt to EBITDA was at 1.72 x times at the end of Q3 FY26. This 
+is primarily a reflectio n of lower EBITDA and our CAPEX commitments on the commissioning 
+of several facilities. We are excited about the ramping up of production and the incremental 
+revenues and cash flows are expected to lower our net debt to EBITDA to sub -1.5x levels. At 
+Jindal  Steel, AI and digitalization are core to our operations, driving productivity, efficiency and 
+resilience at scale.  We are executing a multi -year enterprise -wide AI transformation focused on 
+throughput improvement, cost efficiency, faster decision -making a nd margin expansion . 
+ 
+ Jindal Steel  Limited  
+January 31, 2026  
+ 
+ Page 5 of 21 
+Moving beyond pilots to scale deployments now : 
+AI-led enterprise intelligence is embedded across sales, dispatch, logistics and CXO decision 
+support, delivering real -time visibility and actionable insights.  Sustainability is at the core o f 
+what we do each day at Jindal  Steel. With that in mind, I am pleased to share that in our first 
+year of ESG assessment and disclosure,  Jindal  Steel has been included in the S&P Global 
+Sustainability Yearbook 2026. Out of nearly 8,500 companies assessed, we are among a select 
+group recognized for this prestigious inclu sion, an endorsement of our disciplined ESG 
+execution, which remains central to our strategy.  
+We have also been awarded an India -Sweden Industry Transition Partnership Feasibility Project 
+to evaluate a CO2 -neutral steel production facility, reinforcing expertise in decarbonization and 
+commitment to sustainable growth. These sustainability acknowled gements and digitalization 
+efforts are the culmination of all the dedicated work being done by the Jindal  Steel team across 
+India, and this is something that we are very proud of and keen to build on going forward. For 
+Q4FY26, we expect coal consumption  costs to rise by $18-$20 per ton sequentially . Iron ore 
+costs increase d further in Jan. Domestic steel prices are currently higher by about Rs. 3,000 -Rs. 
+3,500 per ton as compared to December ’25. And we expect prices to remain supported in 
+Q4FY26 on the back of strong demand and strong tailwinds.  
+With that, I will open the floor for Q&A. Thank you.  
+Moderator:  Thank you very much. We will now begin the question -and-answer session. The first question 
+is from the line of Vikas h Singh from ICICI Securities.  Please go ahead.  
+Vikash Singh : Good afternoon, sir, and thank you for the opportunity. Si r, my first question is  towards the 
+realization impact, which you are talking about only Rs. 3,000. But if we just calculate on the 
+average side, the drop is much higher, almost Rs. 5,500 -Rs. 6,000.  So, how much is because of 
+the product deterioration and what else we are missing in here?  
+Gautam Malhotra : So, as I mentioned in my opening statement, we did ramp up our capacities with low margin 
+products, and it was mainly skewed towards HRC. And as we are actually ramping up, when we 
+were on a lower output on a hot strip mill, we were actually producing low prod uctivity, thinner 
+grades, and with very high value add, and the margins were higher at that time. As we are 
+ramping up, actually, thickness levels are increasing, our productivity is increasing.  So, the 
+realization per ton over there i s lower, although we are producing much more. Also, roughly 
+about Rs. 3,000 is on account of NSR . The by -product sales were lower.  We have actually 
+increase d the captive  consumption of most of our by -products as our steel production is 
+increasing, and the balance is coming from that. As our capacities ramp up , we do expect that 
+all our by -products will be consumed completely internally. Thank you.  
+Vikash Singh : So, effectively, on an average, our blended  realization would increase lower than what the 
+market is because of the byproduct credit would not be available.  Is that assumption correct?  

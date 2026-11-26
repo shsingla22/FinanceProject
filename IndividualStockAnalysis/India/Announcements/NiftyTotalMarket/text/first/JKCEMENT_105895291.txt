@@ -1,0 +1,639 @@
+JK Cement Ltd. 
+CIN: L17229UP1994PLCO17199 
+Registered Office 
+# Kamla Tower, Kanpur-208001, U.P., India 
+© +91-512-2371478 to 85 ® +91-512-2399854 
+@ shambhu.singh@jkeement.com 
+@ www.jkcement.com 
+JKCL/35/SE/2024-25 27" June, 2024 
+BSE Ltd., National Stock Exchange of India Ltd., 
+Corporate Relationship Department, Exchange Plaza, Bandra Kurla Complex, 
+1% Floor, New Trading Ring, Bandra (East), Mumbai — 400 051 
+Rotunda Building, Phiroze Jeejeebhoy Towers, Script Code: JKCEMENT 
+Dalal Street, Fort, Mumbai — 400 001 ISIN-INE823G01014 
+Script Code: 532644: ISIN- INE823G01014 Through : NEAPS 
+Through BSE Listing Centre 
+Sub: Business Responsibility and Sustainability Report for FY 2023-24 
+Dear Sir/Madam, 
+Pursuant to Regulation 34(2)(f) of SEBI (Listing Obligations and Disclosure Requirements) 
+Regulations, 2015, we enclose herewith the Business Responsibility and Sustainability Report 
+for Financial Year 2023-24, which also forms part of the Annual Report for FY 2023-24. 
+BRSR is also available on the website of the Company at ww.ikcement.com. 
+Kindly take the same on record. 
+Thanking you, 
+Your Sincerely, 
+For JK Cement Limited 
+Phowse Q“KY' 
+Shambhu Singh 
+Vice President and Company Secretary 
+Encl: as above 
+Corporate Office JK SGPER JKSGPER  seome Y i 
+© Prism Tower, Ninaniya Estate, Gwal Pahari, CEMENT STRONG WhiteMeax 
+Gurugram, Haryana-122102 BUILD SAFE BUILD SAFE 
+© +0124-6919000 Manufacturing Units at 
+@ prismtower@jkcement.com Nimbahera, Mangrol, Gotan (Rajasthan) | Muddapur (Karnataka) 
+Jharli (Haryana) | Panna, Ujjain, Katni (M.P.) | Balasinor (Gujarat) @ www.jkcement.com Aligarh, Hamirpur, Prayagraj (U.P.)
+   
+ 
+ 
+ 
+DNV Headquarters, Veritasveien 1, P.O.Box 300, 1322 Høvik, Norway. Tel: +47 67 57 99 00. www.dnv.com  
+DNV Business Assurance India Pvt. Ltd.   DNV -2024 -ASR-699474  
+ 
+ 
+ 
+ 
+Introduction  
+ 
+DNV Business Assurance India Private Limited (‘DNV’), has been commissioned by J.K. Cement Limited (Corporate Identity 
+Number  L17229UP1994PLC017199 , hereafter referred to as ‘ JKCL ’ or ‘the Company ’) to  undertake an independent 
+assurance of the Company’s sustainability/non -financial  disclosures in  its Integrated Report (hereafter referred as ‘ Report ’).  
+The disclosures have been prepared by  JKCL : 
+ 
+• “in accordance ” to requirements of Global Reporting Initiative (GRI) sustainability reporting standards 2021  
+• Integrated Reporting (<IR>) framework of the International Integrated Reporting Council (IIRC)  
+• United Nations Sustainable Development Goals (SDGs)  
+• GCCA, The Cement CO 2 and Energy Protocol, Version 3  (previously identified as WBCSD CSI V3.1 protocol)  
+• Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard.  
+ 
+DNV carried out assurance engagement in accordance with DNV’s VeriSustainTM protocol, V6.0, which is based on our 
+professional experience and international assurance practice, and the international standard in Assurance Engagements, 
+ISAE 3000 (revised) - Assurance Engagements other than Audits . DNV’s VerisustainTM Protocol has been developed in 
+accordance with the most widely accepted reporting and assurance standards.  
+Apart from DNV’s Veri SustainTM protocol, DNV team has also followed ISO 14064 -3 - Specification with guidance for the 
+verification and validation of greenhouse gas statements ; ISO 14046 - Environmental management - Water footprint - 
+Principles, requirements, and guidelines  and  GCCA, The Cement CO 2 and Energy Protocol, Version 3  to evaluate indicators 
+wrt. Greenhouse gases and water disclosures respectively.  
+  
+The intended user of this assurance statement is the Management of J.K. Cement Limited (‘the Management’).  
+ 
+As per agreed scope of work, DNV performed limited level of assurance of GRI disclosure in IR. Details of Scope are 
+mentioned in the section ‘Scope, Boundary and Limitations’. We have not performed any work, and do not express any 
+conclusion, on any other information that may be published outside of the Report and/or on Company’s website for the 
+current reporting period.  
+ 
+Responsibilities of the Management of JKCL  and of the Assurance Provider  
+ 
+The Management of  JKCL  has the sole responsibility for the preparation of the Report and is responsible for all information 
+disclosed in the Report. The company is responsible for maintaining processes and procedures for collecting, analyzing and 
+reporting the information and a lso, ensuring the quality and consistency of the information presented in the Report. JKCL  is 
+also responsible for ensuring the maintenance and integrity of its website and any referenced disclosures on their website.  
+In performing this assurance work, DNV’s responsibility is to the Management of the Company; however, this statement 
+represents our independent opinion and is intended to inform the outcome of the assurance to the stakeholders of the 
+Company.  
+ 
+Scope, Boundary and Limitations  
+ 
+The agreed scope of work included information on non - financial performance which were disclosed in the Report prepared 
+by JKCL  based on GRI General disclosures and Topic -specific Standards for the identified material topics for the activities 
+undertaken by the Company during the reporting period 01/04/2023 to 31/03/2024 . The reported topic boundaries of non -
+financial performance is based on the internal and external  materiality assessment covering Company’s operations as brought 
+out in the section ‘ Reporting boundary and period ’ of the report .  
+ 
+While the scope of work as agreed is Limited assurance of the GRI disclosures indicators in the IR report, a reasonable level  
+of assurance was carried out for the indicators of GRI 302: Energy 2016 – 302- 1, 302 -3; GRI 303: Water and Effluents 2018 – 
+303- 3, 303- 4, 303 -5; GRI 305: Emissions 2016 – 305- 1, 305- 2, 305 -4; GRI 306: Waste 2020 – 306-3; 306 -4; 306 -5 disclosures 
+as a part of the BRSR Core assessment while Limited Level of assurance of assurance was done for rest GRI disclosures as 
+mentioned in Annexu re I. 
+ 
+ 
+Page 2 of 6   
+ 
+ 
+ 
+DNV Business Assurance India Pvt. Ltd.                                      DNV -2024 -ASR-699474  
+  
+Boundary covers the performance of JKCL operations in India that fall under the direct operational control of the Company’s 
+Legal structure. Based on the agreed scope with the Company, the boundary covers the operations of JKCL across all 
+locations in India  (12 manufacturing plants and 51 offices) . The boundary for GHG footprint, water footprint, energy footprint , 
+air emissions and waste management related disclosures is limited to the 11 manufacturing units  (6 integrated cement plants 
+and 5 grinding units)  located in India.  
+ 
+Inherent Limitation(s):  
+DNV’s assurance engagements are based on the assumption  that the data and information provided by the Company to us 
+as part of our review have been provided in good faith, are true, and is free from material misstatements. Because of the 
+selected nature (sampling) and other inherent limitation of both procedur es and systems of internal control, there remains 
+the unavoidable risk that errors or irregularities, possibly significant, may not have been detected.  
+The assurance scope has the following limitations:  
+• The assurance engagement considers an uncertainty of ±5% based on materiality threshold for estimation/measurement errors and  
+omissions.  
+• DNV has not been involved in evaluation or assessment of any financial data/performance of the company. DNV opinion on financial 
+disclosures  relies on the third party audited financial reports of the Company. DNV does not take any responsibility of the financial dat a 
+reported in the audited financial reports of the Company.  
+• The assessment is limited to data and information within the defined Reporting Period. Any data outside this period is not co nsidered within 
+the scope of assurance.  
+• Data outside the operations specified in the assurance boundary is excluded from the assurance, unless explicitly mentioned o therwise in 
+this statement.  
+• The assurance does not cover the Company's statements that express opinions, claims, beliefs, aspirations, expectations, aims , or future 
+intentions. Additionally, assertions related to Intellectual Property Rights and other competitive issues are beyond th e scope of this assurance.  
+• The assessment does not include a review of the Company's strategy or other related linkages expressed in the Report. These a spects are 
+not within the scope of the assurance engagement.  
+• The assurance does not extend to mapping the Report with reporting frameworks other than those specifically mentioned. Any as sessments 
+or comparisons with frameworks beyond the specified ones are not considered in this engagement.  
+• Aspects of the Report that fall outside the mentioned scope and boundary are not subject to assurance. The assessment is limi ted to the 
+defined parameters.  
+• The assurance engagement does not include a review of legal compliances. Compliance with legal requirements is not within the  scope of 
+this assurance, and the Company is responsible for ensuring adherence to relevant laws.  
+DNV expressly disclaims any liability or co -responsibility for any decision a person or an entity may make based on this 
+Independent Assurance Statement.  
+ 
+Assurance process  
+ 
+As part of the assurance process, a multi -disciplinary team of assurance specialists performed assurance work for selected 
+sites of JKCL . We adopted a risk -based approach, that is, we concentrated our assurance efforts on the issues of high material 
+relevance to the Company’s business and its key stakeholders. We carried out the following activities:  
+ 
+1. Reviewed the disclosures in the report . Our focus included general disclosures, management processes, principle wise performance (essential 
+indicators, and leadership indicators) and any other key metrics specified under the reporting framework.  
+2. Understanding the key systems, processes and controls for collecting, managing and reporting the non -financial disclosures in report.  
+3. Walk -through of key data sets. Understand and test, on a sample basis, the processes used to adhere to and evaluate adherence to t he reporting 
+principles.  
+4. Collect and evaluate documentary evidence and management representations supporting adherence to the reporting principles.  
+5. Interviews with the senior managers responsible for management of disclosures. We were free to choose interviewees and interv iewed those with 
+overall responsibility of monitoring, data collation and reporting the selected GRI disclosures . 
+6. DNV audit team conducted on -site audits  for corporate offices and sites  (mentioned in Annexure II) . Sample based assessment of site -specific data 
+disclosures was carried out. We were free to choose sites for conducting our assessment.  
+7. Reviewed the process of reporting as defined in the assessment criteria.  
+ 
+ 
+Conclusion  
+ 
+Limited Level of Assurance  
+On the basis of  the assessment undertaken, for GRI disclosures  as mentioned in Annexure I, nothing has come to our attention 
+to suggest that the disclosures are not fairly stated and are not prepared, in all material aspects, in accordance with the 
+reporting criteria.  
+ 
+ 
+JK Cement Ltd.  |  Integrated Report 2023-24136 137
+Annexures
+ 
+Page 3 of 6   
+ 
+ 
+ 
+DNV Business Assurance India Pvt. Ltd.                                      DNV -2024 -ASR-699474  
+  
+1. Materiality  
+The process of determining the issues that are most relevant to an organization and its stakeholders.  
+The Report explains out the materiality assessment process carried out by the Company which has considered concerns of 
+internal and external stakeholders, and inputs from peers and the industry, as well as issues of relevance in terms of impact  
+for JKCL ’s business. The list of topics has been prioritized, reviewed and validated, and the Company has indicated that there 
+is no significant change in material topics from the previous reporting period.  
+Nothing has come to our attention to suggest that the Report does not meet the requirements related to the Principle of 
+Materiality . 
+ 
+2. Responsiveness  
+The extent to which an organization responds to stakeholder issues.  
+The Report adequately brings out the Company’s policies, strategies, management systems and governance mechanisms in 
+place to respond to topics identified as material and significant concerns of key stakeholder groups. Nothing has come to 
+our attention to suggest that the Report does not meet the requirements related to the Principle of Responsiv eness.  
+Nothing has come to our attention to believe that the Report does not meet the requirements related to the Principle of 
+Responsiveness.  
+  
+3. Reliability/Accuracy  
+The accuracy and comparability of information presented in the report, as well as the quality of underlying data management 
+systems.  
+The Report brings out the systems and processes that the Company has set in place to capture and report its performance 
+related to identified material topics across its reporting boundary. The majority of information mapped with data verified 
+through our a ssessments with JKCL ’s management teams and process owners at the Corporate Office and sampled sites 
+within the boundary of the Report were found to be fairly accurate and reliable. Some of the data inaccuracies identified in 
+the report during the verifica tion process were found to be attributable to transcription, interpretation, and aggregation 
+errors. These data inaccuracies have been communicated for correction and the related disclosures were reviewed post 
+correction.  
+Nothing has come to our attention to believe that the Report does not meet the principle of Reliability and Accuracy.  
+ 
+4. Completeness  
+How much of all the information that has been identified as material to the organization and its stakeholders is reported?  
+The Report brings out the Company’s performance, strategies and approaches related to the environmental, social and 
+governance issues that it has identified as material for its operational locations coming under the boundary of the report, for 
+the chosen reporting period while applying and considering the requirements of Principle of Completeness.  
+Nothing has come to our attention to suggest that the Report does not meet the Principle of Completeness with respect to 
+scope, boundary and time.  
+ 
+5. Neutrality/Balance 
+The extent to which a report provides a balanced account of an organization’s performance, delivered in a neutral tone.  
+The Report brings out the disclosures related to JKCL ’s performance during the reporting period in a neutral tone in terms of 
+content and presentation, while considering the overall macroeconomic and industry environment.  
+Nothing has come to our attention to suggest that the Report does not meet the requirements related to the Principle of 
+Neutrality.  
+ 
+Statement of Competence and Independence  
+DNV applies its own management standards and compliance policies for quality control, which are based on the principles 
+enclosed within ISO IEC 17029:2019 – Conformity assessment – General principles are requirements for validation and 
+verification bodies , and accordingly maintains a comprehensive system of quality control including documented policies and 
+procedures regarding compliance with ethical requirements, professional standards, and applicable legal and regulatory 
+requirements.   
+ 
+Page 4 of 6   
+ 
+ 
+ 
+DNV Business Assurance India Pvt. Ltd.                                      DNV -2024 -ASR-699474  
+  
+We have complied with the DNV Code of Conduct1 during the assurance engagement . DNV’s established policies and 
+procedures are designed to ensure that DNV, its personnel and, where applicable, others are subject to independence 
+requirements (including personnel of other entities of DNV) and maintain independence where required by relev ant ethical 
+requirements . This engagement work was carried out by an independent team of sustainability assurance professionals. DNV 
+was not involved in the preparation of any statements or data included in the Report except for this Assurance Statement for 
+internal use of J.K. Cement Limited . 
+ 
+Purpose and Restriction on Distribution and Use  
+This assurance statement, including our conclusion has been prepared solely for the Company in accordance with the 
+agreement between us. To the fullest extent permitted by law, we do not accept or assume responsibility to anyone other 
+than the Management of the Company for our work or this report.  
+ 
+For DNV Business Assurance India Private Limited  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Ankita Parab  
+Lead Verifier,  
+Sustainability Services,  
+DNV Business Assurance India Private Limited, India.  Kakaraparthi  Venkata Raman  
+Assurance Reviewer,  
+Sustainability Services,  
+DNV Business Assurance  India Private Limited, India.  
+Assurance Team:  
+Anjana Sharma, Himanshu Babbar , Varsha Bohiya   
+   14/06/2024 , Mumbai,  India.  
+----------------------------------------------------------------------------------------------------------------------------- ------  
+DNV Business Assurance India Private Limited is part of DNV – Business Assurance, a global provider of certification, verification, assessment and training 
+services, helping customers to build sustainable business performance. www.dnv.com  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 DNV Corporate Governance & Code of Conduct - https://www.dnv.com/about/in -brief/corporate -governance.html  Parab, 
+AnkitaDigitally signed 
+by Parab, Ankita 
+Date: 2024.06.14 
+18:36:19 +05'30'Kakarapart
+hi, Venkata 
+RamanDigitally signed by 
+Kakaraparthi, 
+Venkata Raman 
+Date: 2024.06.15 
+08:12:07 +05'30'
+JK Cement Ltd.  |  Integrated Report 2023-24138 139
+Annexures
+ 
+Page 5 of 6   
+ 
+ 
+ 
+DNV Business Assurance India Pvt. Ltd.                                      DNV -2024 -ASR-699474  
+  
+Annex I  
+ 
+ 
+GRI d isclosures assured  for Reasonable level of assurance  as a part of the BRSR  Core assessment : 
+• GRI 302: Energy 2016 – 302- 1, 302 -3; 
+• GRI 303: Water and Effluents 2018 – 303- 3, 303- 4, 303 -5; 
+• GRI 305: Emissions 2016 * – 305-1, 305 -2; 
+• GRI 306: Waste 2020 – 306- 3; 306 -4; 306 -5  
+ 
+GRI d isclosures assured  for Limited level of assurance:  
+• GRI 2: General Disclosures 2021 – 2-7, 2-8 
+• GRI 203: Indirect economic impact 2016 – 203-1, 203 -2; 
+• GRI 205: Anti -corruption 2016 – 205- 1, 205 -2, 205- 3; 
+• GRI 206: Anti -competitive Behavior 2016 – 206-1; 
+• GRI 204: Procurement Practices 2016 - 204- 1; 
+• GRI 301: Materials 2016 – 301- 1, 301 -2, 301 -3; 
+• GRI 302: Energy 2016 – 302- 4, 302 -5; 
+• GRI 305: Emissions 2016 –305- 3**, 305- 4, 305-5, 305 -6, 305 -7; 
+• GRI 306: Waste 2020 – 306- 1, 306 -2; 
+• GRI 401: Employment 2016 – 401- 1; 
+• GRI 402: Labor/Management Relations 2016 – 402- 1; 
+• GRI 403: Occupational Health & Safety 2018 – 403- 1, 403 -2, 403 -3, 403 -4, 403 -5, 403 -6, 403- 7, 403- 8, 403- 9 
+• GRI 404: Training and Education 2016 – 404- 1, 404 -2, 404 -3; 
+• GRI 405: Diversity and Equal Opportunity 2016 – 405- 1, 405 -2; 
+• GRI 406: Non -discrimination 2016 – 406- 1; 
+• GRI 407: Freedom of Association and Collective Bargaining 2016 – 407- 1; 
+• GRI 408: Child Labor 2016 - 408-1; 
+• GRI 409: Forced or Compulsory Labor 2016 – 409- 1; 
+• GRI 413: Local Communities 2016 – 413- 1, 413 -2; 
+• GRI 414: Supplier Social Assessment 2016 - 414-1, 414 -2. 
+ 
+* GHG emissions are calculated as per GCCA, The Cement CO2 and Energy Protocol, Version 3  (previously identified as WBCSD CSI V3.1 protocol)  
+** In Scope 3 GHG emissions is calculated for Category 1, 2, 3, 4, 5, 6, 7 and 9 as per GHG Protocol  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 6   
+ 
+ 
+ 
+DNV Business Assurance India Pvt. Ltd.                                      DNV -2024 -ASR-699474  
+  
+Annex II  
+ 
+Sites selected for On-site audits  
+ 
+Sr. no. Site Location  
+1. Corporate office  Gurugram, Haryana  
+2. Manufacturing plants - on-site Grinding Unit, Aligarh, Uttar Pradesh  
+Grinding Unit, Jharli, Haryana  
+Integrated Cement Plant, Mangrol  
+Integrated Cement Plant, Nimbahera  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JK Cement Ltd.  |  Integrated Report 2023-24140 141
+Annexures
+SECTION A: GENERAL DISCLOSURES
+I. Details of the listed entity
+1. Corporate Identity Number (CIN) of the Listed Entity L17229UP1994PLC017199
+2. Name of the Listed Entity JK Cement Limited (JKCL)
+3. Y ear of incorporation 24-Nov-1994
+4. Registered office address Kamla T ower, Kanpur – 208001,
+Uttar Pradesh, India
+5. Corporate address Prism T ower, Ninaniya Estate,
+Gwal Pahari, Gurugram - 122102, Haryana
+6. E-mail shambhu.singh@jkcement.com
+7. T elephone 0124-6919000
+8. Website https://www.jkcement.com/
+9. Financial year for which reporting is being done FY 2023-24
+10. Name of the Stock Exchange(s) where shares are listed 1. Bombay Stock Exchange Limited (BSE)
+2. National Stock Exchange of India Limited (NSE)
+11. Paid-up Capital ₹ 77.27 Cr
+12. Name and contact details (telephone, email address) of the 
+person who may be contacted in case of any queries on the 
+BRSR reportMr. Shambhu Singh  
+Company Secretary 
++91-512-2371478-81  
+shambhu.singh@jkcement.com
+13. Reporting boundary - Are the disclosures under this report made 
+on a standalone basis (i.e. only for the entity) or on a consolidated 
+basis (i.e. for the entity and all the entities which form a part of its 
+consolidated financial statements, taken together).Disclosures under this report are made on standalone 
+basis for JK Cement Limited
+14. Name of assurance provider DNV Business Assurance India Private Limited
+15. Type of assurance obtained Reasonable Assurance on BRSR core Indicators, while 
+Limited Assurance on remaining BRSR indicators
+II. Products/services
+16. Details of business activities (accounting for 90% of the turnover):
+S. No. Description of Main Activity Description of Business Activity % of Turnover of the entity
+1 Manufacturing Cement and cement related products 100
+17. Products/Services sold by the entity (accounting for 90% of the entity’s Turnover):
+S. No. Product/Service NIC Code% of total Turnover 
+contributed
+1 Grey Cement 3242 81
+2 White Cement & Wall Putty (including VAP) 3242, 3244, 23949 19
+III. Operations
+18. Number of locations where plants and/or operations/offices of the entity are situated:
+Location Number of plants  Number of offices Total
+National 12 51 63
+19. Markets served by the entity:
+a. Number of locations
+Locations Number
+National (No. of States)- Grey Cement 24
+National (No. of States)- White Cement Pan Indiab. What is the contribution of exports as a percentage of the total turnover of the entity?
+ Negligible
+c. A brief on types of customers
+  JKCL caters to the demands and needs of various institutional/commercial customers, individual house builders, 
+government bodies for infrastructure projects.
+IV. Employees
+20. Details as at the end of Financial Year (FY 2023-24):
+a. Employees and workers (including differently abled):
+S. No. Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+EMPLOYEES
+1. Permanent (D) 4097 3957 97 140 3
+2. Other than Permanent (E) 2109 2074 98 35 2
+3. T otal Employees (D+E) 6206 6031 97 175 3
+WORKERS
+4. Permanent (F) 99 99 100 0 0
+5. Other than Permanent (G) 4479 4445 99 34 1
+6. T otal workers (F+G) 4578 4544 99 34 1
+  Total workforce (10,784) has been divided into two categories as per BRSR i.e. employees (6206) & workers 
+(4578).
+b. Differently abled Employees and workers:
+S. No. Particulars Total (A)Male Female
+No. (B) % (B / A) No. (C) % (C / A)
+DIFFERENTL Y ABLED 
+EMPLOYEES
+1. Permanent (D) 2 2 100 0 0
+2. Other than Permanent (E) 0 0 0 0 0
+3. T otal differently abled 
+employees (D+E)2 2 100 0 0
+DIFFERENTL Y ABLED WORKERS
+4. Permanent (F) 0 0 0 0 0
+5. Other than permanent (G) 0 0 0 0 0
+6. T otal differently abled 
+workers (F + G)0 0 0 0 0
+21. Participation/Inclusion/Representation of women
+Total (A)No. and percentage of Females
+No. (B) % (B / A)
+Board of Directors 14 3 21.4
+Key Management Personnel 4 0 0Business Responsibility & Sustainability ReportANNEXURE-D
+JK Cement Ltd.  |  Integrated Report 2023-24
+164 165
+Statutory Reports
+22. Turnover rate for permanent employees and workers  
+ (Disclose trends for the past 3 years)
+FY 2023-24
+(Turnover rate in current FY )FY 2022-23
+(Turnover rate in previous FY)FY 2021-22 (Turnover rate in the 
+year prior to the previous FY)
+Male Female Total Male Female Total Male Female Total
+Permanent 
+Employees21.5% 26% 21.63% 19.2% 0.8% 20% 15.3% 0.7% 16%
+Permanent Workers 11% NA 11% 9% 0 9% 8% 0 8
+Note: No female in permanent workers for FY23-24.
+V. Holding, Subsidiary and Associate Companies (including joint ventures)
+23. (a) Names of holding / subsidiary / associate companies / joint ventures
+S. 
+No.Name of the holding /
+subsidiary / associate companies / 
+joint ventures (A)Indicate whether holding/ 
+Subsidiary/ Associate/ Joint 
+Venture% of shares held by  
+listed entityDoes the entity indicated 
+at column A, participate in 
+the Business Responsibility 
+initiatives of the listed 
+entity? (Yes/No)
+1 JK Cement (Fujairah) FZC Wholly Owned Subsidiary 100 No
+2 J.K. Cement Works (Fujairah) FZC Step-Down Subsidiary 90 No
+3 JK White Cement (Africa) Limited Step-Down Subsidiary 100 No
+4 JK Maxx Paints Limited (formerly 
+known as JK Paints and Coatings 
+Limited)Wholly Owned Subsidiary 100 No
+5 Acro Paints Limited Step-Down Subsidiary 100 No
+6 T oshali Cements Pvt. Limited Wholly Owned Subsidiary 100 No
+7 T oshali Logistics Pvt. Ltd. Step-Down Subsidiary 100 No
+  Note: In FY 2022-23, Panna (IU) and Hamirpur (GU) were under operational control of Jaykaycem (subsidiary). 
+However, Jaykaycem (Central) Limited stands dissolved without being wound up and amalgamated with J.K. 
+Cement Limited w.e.f. 01.08.2023.
+VI. CSR Details
+24. (i) Whether CSR is applicable as per section 135 of Companies Act, 2013: (Yes/No) Yes
+ (i) Turnover (in I) (FY 23-24) ₹ 10918 Cr.
+ (ii) Net worth (in I) (FY 23-24) ₹ 5353.39 Cr.
+VII. Transparency and Disclosures Compliances
+25.  Complaints/Grievances on any of the principles (Principles 1 to 9) under the National Guidelines on 
+Responsible Business Conduct:
+Stakeholder group 
+from whom complaint is 
+receivedGrievance 
+Redressal 
+Mechanism 
+in Place (Yes/
+No) (If Yes, then 
+provide web-link 
+for grievance 
+redress policy)FY 2023-24 (Current Financial Year) FY 2022-23 (Previous Financial Year)
+No. of 
+complaints 
+filed during 
+the yearNo. of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarksNo. of 
+complaints 
+filed during 
+the yearNo. of 
+complaints 
+pending 
+resolution at 
+close of the 
+yearRemarks
+Communities Ye s 0 0 NA 2 0 _
+Investors (other than 
+shareholders)Ye s 0 0 NA 0 0 _
+Shareholders Ye s 10 0 NA 14 0 _
+Employees and 
+workersYe s 0 0 NA 5 0 _
+Customers Ye s
+1369 27NA 1296 20 _
+Value Chain Partners Ye s NA 0 0 _
+Other (please specify) _ NA NA NA NA NA _26. Overview of the entity’s material responsible business conduct issues
+  Please indicate material responsible business conduct and sustainability issues pertaining to environmental and 
+social matters that present a risk or an opportunity to your business, rationale for identifying the same, approach 
+to adapt or mitigate the risk along-with its financial implications, as per the following format
+S. No.Material issue 
+identifiedIndicate 
+whether risk or 
+opportunity (R/O)Rationale for identifying the risk / 
+opportunityIn case of risk, approach 
+to adapt or mitigateFinancial implications of 
+the risk or opportunity 
+(Indicate positive or 
+negative implications)
+1 Emissions 
+ManagementRisk Emerging climate-related 
+regulations such as carbon pricing 
+mechanisms and ETS (Emission 
+Trading Scheme) may impact 
+JKCL’s business in the long-run.Developed and 
+implemented 
+decarbonization 
+strategies, 
+implemented internal 
+carbon pricing and 
+got the SBTi targets 
+validated.Negative
+2 Alternative Fuel 
+ResourcesOpportunity Use of AFR reduces GHG emissions 
+and utilises waste from other 
+industries, thereby embedding 
+circular economy within our 
+operations.- Positive
+3 Water 
+managementOpportunity Reusing, recycling and rainwater 
+harvesting, reduces our 
+dependency on water withdrawals 
+leading to increased availability of 
+water resource. Implementation of 
+water efficient technologies reduce 
+dependency on shared water 
+resources.- Positive
+4 Occupational 
+Health & SafetyRisk Poses potential harm to workers 
+and can result in accidents, injuries, 
+or long-term health issues if not 
+properly managed and mitigated.Implemented 
+health and safety 
+management system 
+across all JKCL plants.Negative
+SECTION B: MANAGEMENT AND PROCESS DISCLOSURES
+This section is aimed at helping businesses demonstrate the structures, policies and processes put in place towards 
+adopting the NGRBC Principles and Core Elements.
+Disclosure Questions P1 P2 P3 P4 P5 P6 P7 P8 P9
+Policy and management processes
+1. a.  Whether your entity’s policy/policies 
+cover each principle and its core 
+elements of the NGRBCs. (Y es/No)Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s
+ b.  Has the policy been approved by the 
+Board? (Y es/No)Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s
+ c. Web Link of the Policies, if available https://www.jkcement.com/policies/
+2.  Whether the entity has translated the policy 
+into procedures. (Y es / No)Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s
+3.  Do the enlisted policies extend to your value 
+chain partners? (Y es/No)Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s Ye s
+4.  Name of the national and international codes/
+certifications/labels/standards (e.g. Forest 
+Stewardship Council, Fairtrade, Rainforest 
+Alliance, Trustee) standards (e.g. SA 8000, 
+OHSAS, ISO, BIS) adopted by your entity and 
+mapped to each principle.The policies are formulated in accordance with established principles and align with 
+internationally recognised standards such as ISO 9001:2015, ISO 14001:2015, ISO 
+45001:2018, ISO 50001:2015, UNGC Guidelines, UN-SDGs, GRI Standards, CDP 
+Climate & Water, SBTi, TCFD, IIRC, BIS Standards, ILO Principles, WBCSD, IGBC 
+GreenPro, and GreenCo.
+5.  Specific commitments, goals and targets set 
+by the entity with defined timelines, if any.Absolute Gross GHG Scope-1 & 2 T arget 2030: 532 kg CO2/t cementitious material 
+(SBTi)
+Net GHG Scope-1 T arget 2030: 465 kg CO2/t cementitious material (GCCA)
+Green Power Mix T arget 2030: 75%
+Water positivity: 5X (Times) by 2030
+Diversity and inclusion: 5% women by 2030  
+Training: 20 hours training per employee by 2030  
+For further details, refer Integrated Annual Report 2024Business Responsibility & Sustainability Report
+JK Cement Ltd.  |  Integrated Report 2023-24
+166 167
+Statutory Reports

@@ -1,0 +1,2892 @@
+REF: SWIGGY/SE/2026-27/55
+October 22, 2026
+To,
+The Deputy Manager
+Department of Corporate Services
+BSE Limited
+PJ Towers, Dalal Street
+Mumbai -400001
+Scrip Code: 544285
+
+The Manager
+National Stock Exchange of India Limited
+Exchange Plaza, Plot No. C/1, G Block BandraKurla Complex, Bandra (E),
+Mumbai 400051
+Symbol: SWIGGY
+
+Dear Sir/ Madam,
+Sub: Outcome of Board Meeting – Financial Results
+We wish to inform that, upon recommendation of Audit Committee, the Board of Directors of the
+Company at its meeting held today, i.e., Thursday, October 22, 2026, has approved the unaudited
+financial results (consolidated and standalone) for the quarter and half year ended September 30, 2026.
+The Limited Review Report issued by the Statutory Auditors of the Company on the above- mentioned
+results is also attached herewith.
+The meeting commenced at IST 3:00 p.m. and concluded at IST 3:40 p.m.
+We request you to take the above on record.
+The aforesaid information is also
+https://www.swiggy.com/corporate/
+
+being placed on the website of the Company at
+
+Thanking you,
+Yours faithfully,
+For Swiggy Limited
+signed
+Cauveri Digitally
+by Cauveri Sriram
+Date: 2026.10.22
+Sriram
+15:40:40 +05'30'
+___________________
+
+Cauveri Sriram
+Company Secretary & Compliance Officer
+
+SWIGGY LIMITED
+CIN: L74110KA2013PLC096530 | www.swiggy.com | support@swiggy.in | T: 080-68422422
+Registered & Corporate Office: Sumadhura Capitol Towers, 3rd- 6th Floor – Tower 1, Sy. No. 14 & 158, Pattanduru Agrahara, K R Puram Hobli, Bengaluru
+East Taluk, Bengaluru, Karnataka – 560066
+
+
+Walker Chandiok &.Co LLP
+
+Walker Chandiok & Co LLP
+5th Floor, No.65/2, Block "A",
+Bagmane Tridib,
+Bagmane Tech Park,
+CV Raman Nagar,
+Bengaluru - 560093
+Karnataka, India
+T +91 804 243 0701
+F +91 804 126 1228
+
+Independent Auditor's Review Report on the Consolidated Unaudited Quarterly Financial Results and Year to Date Financial
+Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (as amended)
+
+To the Board of Directors of Swiggy Limited
+We have reviewed the accompanying statement of the consolidated unaudited financial results ('the Statement') of Swiggy Limited
+('the Holding Company') and its subsidiaries (the Holding Company which includes the Swiggy Employee Stock Option Trust
+('the Trust') and its subsidiaries together referred to as 'the Group') and its associate (refer Annexure 1 for the list of subsidiaries and
+associate included in the Statement) for the quarter ended 30 September 2026 and the consolidated year to date results for the period
+01 April 2026 to 30 September 2026, being submitted by the Holding Company pursuant to the requirements of Regulation 33 of the
+SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as amended) ('Listing Regulations').
+2.
+
+This Statement, which is the responsibility of the Holding Company's management and approved by the Holding Company's Board of
+Directors, has been prepared in accordance with the recognition and measurement principles laid down in Indian Accounting
+Standard 34, Interim Financial Reporting ('Ind AS 34'), prescribed under Section 133 of the Companies Act, 2013 ('the Act'), and other
+accounting principles generally accepted in India and is in compliance with the presentation and disclosure requirements of
+Regulation 33 of the Listing Regulations. Our responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410, Review of Interim
+Financial Information Performed by the Independent Auditor of the Entity, issued by the Institute of Chartered Accountants of India. A
+review of interim financial information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope than an audit conducted in
+accordance with the Standards on Auditing specified under Section 143( 10) of the Act, and consequently, does not enable us to obtain
+assurance that we would become aware of all significant matters that might be identified in an audit. Accordingly, we do not express
+an audit opinion.
+VVe also pertormed procedures in accordance with the circular issued by the 81=1:ll under Regulation 33 (8) ot the L1st1ng Regulations,
+to the extent applicable.
+
+4.
+
+Based on our review conducted and procedures performed as stated in paragraph 3 above, nothing has come to our attention that
+causes us to believe that the accompanying Statement, prepared in accordance with the recognition and measurement principles laid
+down in Ind AS 34, prescribed under Section 133 of the Act, and other accounting principles generally accepted in India, has not
+disclosed the information required to be disclosed in accordance with the requirements of Regulation 33 of the Listing Regulations,
+including the manner in which it is to be disclosed, or that it contains any material misstatement.
+
+Offices in Ahmadabad, Bengaluru, Bhubaneswar, Chandigarh, Chennai, Dehradun, Goa, Gurugram, Guwahati, Hyderabad,
+Indore, Kochi, Kolkata, Mumbai, New Delhi, Noida and Pune
+
+Walker Chandiok & Co LLP is registered
+with limited liability with identification
+number AAC-2085 and its registered
+office at L-41 Connaught Circus, Outer
+
+Circle, New Delhi, 110001, India
+
+
+Walker Chandiok &_Co LLP
+Swiggy Limited
+Independent Auditor's Review Report on the Consolidated Unaudited Quarterly Financial Results and Year to Date Financial
+Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (as amended) (Cont'd)
+
+5.
+
+The Statement includes the Group's share of net loss after tax of ~ 2 crores and ~ 3 crores, and total comprehensive loss of
+~ 2 crores and ~ 3 crores for the quarter ended 30 September 2026 and for the period from 01 April 2026 to 30 September 2026
+respectively, in respect of one associate, based on its interim financial information, which has not been reviewed by its auditor, and
+has been furnished to us by the Holding Company's management. Our conclusion on the Statement, in so far as it relates to the
+amounts and disclosures included in respect of this associate is based solely on such unreviewed interim financial information.
+According to the information and explanations given to us by the management, this interim financial information is not material to the
+Group.
+Our conclusion is not modified in respect of this matter with respect to our reliance on the financial information certified by the
+management of the Holding Company
+
+Chennai
+22 October 2026
+
+Chartered Accountants
+
+
+Walker Chandiok &_Co LLP
+Swiggy Limited
+Annexure 1 referred to in paragraph 1 of the Independent Auditor's Review Report on the Consolidated Unaudited Quarterly
+Financial Results and Year to Date Financial Results of the Company pursuant to the Regulation 33 of the SEBI (Listing
+Obligations and Disclosure Requirements) Regulations, 2015 (as amended)
+
+List of subsidiaries and associate included in the Statement:
+Sr. No.
+
+Name of the Company
+
+Country of Incorporation
+
+Relationship
+
+1
+
+Swiggy Employee Stock Option Trust
+
+India
+
+Trust
+
+2
+
+Swiggy Networks Limited
+(formerly known as Swiggy Networks Private Limited, Scootsy Logistics
+Private Limited)
+
+India
+
+Subsidiary
+
+3
+
+Swiggy Retail Limited
+(formerly known as Supr lnfotech Solutions Limited, Supr lnfotech
+Solutions Private Limited)
+
+India
+
+Subsidiary
+
+4
+
+Lynks Logistics Limited (till 15 September 2026)
+
+India
+
+Subsidiary
+
+5
+
+Swiggy Neocap Private Limited
+(formerly known as Swiggy Sports Private Limited)
+
+India
+
+Subsidiary
+
+6
+
+Swiggy lnstamart Private Limited
+
+India
+
+Subsidiary
+
+7
+
+Swiggy Commerce Private Limited
+
+India
+
+Subsidiary
+
+8
+
+Loyal Hospitality Private Limited
+
+India
+
+Associate
+
+Chartered Accountants
+
+
+0 Swiggy
+
+Swiggy limited
+CIN: L74110KA2013PLC096530
+
+Registered Office: Survey No.14, No. 158, 3rd- 6th Floor, Tower 1, Sumadhura Capitol Towers, Pattanduru Agrahara Village, K.R.Puram Hobli, Bangalore East Taluk,
+Bengaluru - 560066, Karnataka, India
+Tel: 080-68422422 / Email ID: ir@swiggy.in / Web site: www.swiggy.com
+Statement of consolidated financial results for the quarter and half-year ended September 30, 2026
+(~ Crare)
+Half-year ended
+
+Quarter ended
+SI. No , Particulars
+
+Year ended
+
+Sep 30, 2026 Jun 30, 2026
+
+Sep 30, 2025 Sep 30, 2026 Sep 30, 2025 Mar 31, 2026
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+7,571
+
+6,812
+
+5,561
+
+14,383
+
+10,522
+
+212
+
+211
+
+59
+
+423
+
+146
+
+508
+
+7,783
+
+7,023
+
+5,620
+
+14,806
+
+10,668
+
+23,561
+
+26
+
+45
+
+Purchases of stock-in-trade
+
+3,607
+
+2,978
+
+2,330
+
+6,585
+
+4,388
+
+10,044
+
+Changes in inventories of stock-in-trade
+
+(164)
+
+(3)
+
+(1)
+
+(167)
+
+(8)
+
+(22)
+
+Employee benefits expense
+
+676
+
+662
+
+690
+
+1,338
+
+1,376
+
+2,716
+
+Audited
+
+Income
+
+I
+
+Revenue from operations
+Other income
+Total income
+
+II
+
+23,053
+
+Expenses
+Cost of materials consumed
+
+13
+
+Finance costs
+
+54
+
+53
+
+48
+
+107
+
+89
+
+200
+
+Depreciation and amortisation expense
+
+308
+
+298
+
+304
+
+606
+
+592
+
+1,217
+
+Advertising and sales promotion
+
+1,298
+
+1,160
+
+1,039
+
+2,458
+
+2,075
+
+4,207
+
+Delivery and related charges
+
+1,895
+
+1,750
+
+1,426
+
+3,645
+
+2,739
+
+5,849
+
+Others
+
+1,029
+
+915
+
+862
+
+1,944
+
+1,678
+
+3,445
+
+Total expenses
+
+8,703
+
+7,813
+
+6,711
+
+16,516
+
+12,955
+
+27,701
+
+Ill
+
+Loss before share of loss of an associate, exceptional items and tax (1-11)
+
+(920)
+
+{790)
+
+(1,091)
+
+(1,710)
+
+(2,287)
+
+(4,140)
+
+IV
+
+Share of loss of an associate
+
+(2)
+
+(1)
+
+(1)
+
+(3)
+
+(2)
+
+(4)
+
+V
+
+Loss before exceptional items and tax (lll+IV)
+
+(922)
+
+{791)
+
+(1,092)
+
+(1,713)
+
+(2,289)
+
+(4,144)
+
+VI
+
+Exceptional items (Refer note 3)
+
+VII
+
+Loss before tax (V+VI)
+
+VIII
+
+Tax expense
+
+Other expenses
+
+(10)
+{922)
+
+(791)
+
+(1,092)
+
+(1,713)
+
+(2,289)
+
+(4,154)
+
+(1,713)
+
+(2,289)
+
+(4,154)
+
+1,350
+
+1,350
+
+(i) Current tax
+(ii) Deferred tax
+
+-
+
+Total tax expense (i+ii)
+IX
+
+Loss for the period/ year (VII - VIII)
+
+X
+
+Other comprehensive income/ (loss), net of tax
+
+(922)
+
+{791)
+
+(1,092)
+
+Items that will not be reclassified subsequently to profit or loss:
+- Changes in fair value of equity instruments carried at fair value through other
+
+1,350
+
+comprehensive income ('FVTOCI') (Refer note 9)
+- Re-measurement gain/ (loss) on defined benefit plans
+
+2
+
+(1)
+
+(1)
+
+1
+
+(3)
+
+(4)
+
+Other comprehensive income/ (loss) for the period/ year
+
+2
+
+(1)
+
+1,349
+
+1
+
+1,347
+
+1,346
+
+{920)
+
+(792)
+
+257
+
+(1,712)
+
+(942)
+
+(2,808)
+
+(922)
+
+(791)
+
+(1,092)
+
+(1,713)
+
+(2,289)
+
+(4,154)
+
+2
+
+(1)
+
+1,349
+
+1
+
+1,347
+
+1,346
+
+(920)
+
+(792)
+
+257
+
+(1,712)
+
+(942)
+
+(2,808)
+
+262
+
+262
+
+232
+
+262
+
+232
+
+261
+
+XI
+
+Total comprehensive income/ (loss) for the period/ year, net of tax (IX+X)
+
+XII
+
+Loss for the period/ year attributable to:
+Owners of the Company
+
+XIII
+
+Other comprehensive income/ (loss) for the period/ year attributable to:
+Owners of the Company
+
+XIV
+
+Total comprehensive income/ (loss) for the period/ year attributable to:
+Owners of the Company
+
+xv
+
+Paid-up share capital (face value of 0: 1 per share)
+
+XVI
+
+Other equity
+
+XVII
+
+Earnings/ (loss) per equity share (face value of,,: 1 each)(>:)*
+
+18,053
+
+(i) Basic
+
+(345)
+
+(2.96)
+
+(4.59)
+
+(6.41)
+
+(ii) Diluted
+
+(3.45)
+
+(2.96)
+
+(4.59)
+
+(6.41)
+
+~~
+'e,'(\l~V/(<\)~
+
+* EPS i
+
+"" ""'~~~' and ,,,1,e,, ended September SO, '"' and September SO,,O,s and '"'""' ended '""" SO, ,o,e
+
+b
+
+~
+
+I~
+
+G . U, L'" I
+
+%,r,,
+
+;j,;.
+
+~·
+
+Ji'QJAC.
+
+--
+
+IS~'
+?Y'
+.
+
+(9.63)
+
+(16.87)
+
+f~,
+~g
+
+(....,
+
+(9.63)
+
+(16.87)
+
+~
+
+~-/"'Y *
+
+
+Q s*issy
+
+Swiggy Limited
+Statement of consolidated balance sheet
+
+(1 Crore)
+
+5l.No. Particulars
+
+Non-current assets
+Property, plant and equipment
+
+As at
+
+As at
+
+Sep 3Q 2026
+
+Mar3L,2025
+
+Unaudited
+
+Audited
+
+1,319
+
+1,304
+
+7,364
+
+2,344
+
+Goodwill
+Other intangible assets
+
+315
+
+595
+
+L76
+
+lnvestment in an associate
+
+51
+
+274
+s4
+
+3,080
+
+2,7tr
+
+274
+
+1,315
+
+lncome tax assets
+
+74
+
+151
+
+Other assets
+Total non-current assets
+
+2r2
+
+111
+
+7,805
+
+8,910
+
+228
+
+76
+
+3,269
+4,048
+
+Right-of-use assets
+
+Financial assets
+
+lnvestments
+Other financial assets
+
+Current assets
+lnventories
+Financial assets
+
+lnvestments
+
+2,943
+
+Trade receivables
+
+5,r24
+
+Cash and cash equivalents
+
+2,736
+
+Bank balances other than cash and cash equivalents
+
+Other financial assets
+Other assets
+Total current assets
+assets
+
+435
+
+5,476
+590
+
+2,747
+L,296
+4,394
+497
+
+17.633
+
+L5,327
+
+25,84
+
+25,237
+
+EQUITY AND LIABITITIES
+
+262
+
+26r
+
+Other equity
+
+16.708
+
+18,053
+
+equity
+
+L6,970
+
+t8,3t4
+
+7,952
+
+t,947
+
+27
+
+25
+
+Equity share capital
+
+il
+Non-current liabilities
+Financial liabilities
+Lease liabilities
+Other financial liabilities
+Contract liabilities
+Provisions
+
+Total non-current liabilities
+
+L7
+
+t2
+
+66
+
+58
+
+2,056
+
+2,046
+
+562
+
+510
+
+Current liabilities
+Financial liabilities
+100
+
+Bor r uwlnB,s
+
+Lease liabilities
+
+Trade payables
+
+Total outstanding dues of micro enterprises and small enterprises; and
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+Other financial liabilities
+Contract liabilitles
+Other liabilities
+Provisions
+
+Total current liabilities
+
+liabilities
+and liabilities
+
+242
+
+!78
+
+3,315
+
+2,100
+
+r,807
+
+1,538
+
+36
+
+28
+
+328
+
+304
+
+r21
+
+119
+
+6,412
+
+4,877
+
+8,468
+
+6,923
+
+25,434
+
+25,237
+
+
+Cl t*ttt
+
+Swigty Limited
+Statement of consolidated cash flows
+
+ended
+Particulars
+
+?o,2026
+unaudited
+
+2025
+Unaudited
+
+flow from operating activities
+before tax
+Adiustments to reconcile the loss before tax to net cash flows:
+
+12,28el
+
+Depreciation and amortisation expense
+lncome on investments carried atfair value through profit or loss
+lnterest income on security deposits carried at amortised cost
+lnterest expense on liabilities measured at amortised cost
+Gain on termination of leases
+Reversal of lmpairment loss recognised in money market instruments
+Share based payment expense
+
+506
+
+592
+
+157],
+
+(12)
+
+(8)
+
+(8)
+
+3
+
+2
+
+t3)
+(s)
+
+(3)
+
+367
+
+518
+
+Profit on disposal of property, plant and equipment (net)
+
+0
+
+0
+
+lmpairment allowances for doubtful debts and receivables
+lmpairment allowances for doubtful advances
+lnterest on borrowings
+
+11
+
+35
+
+5
+
+2
+
+lnterest on lease liabilities
+lnterest income
+
+99
+
+85
+
+0
+
+(34s)
+
+Share of loss of an associate
+
+3
+
+Provision/liability no longer required written back
+lnterest income on income tax refund
+Operating loss before working capital adjustments
+
+(1,041)
+
+Movements in working capital :
+(lncrease)/decrease in inventories
+(lncrease)/ decrease in trade receivables
+(lncrease)/ decrease in other financial assets
+(lncrease)/ decrease in other assets
+
+(12)
+(4671
+722
+(201)
+
+lncrease/ (decrease) in trade payables
+lncrease/ (decrease) in other financial liabilities
+lncrease/ (decrease) in other liabilities
+lncrease/ (decrease) in contract liabilities
+lncrease/ (decrease) in provisions
+
+I,282
+
+67
+
+302
+
+80
+
+24
+
+95
+
+7
+
+9
+10
+(1,4e51
+
+Cash used in operating activities
+
+lncome tax refund/ (paid) (net of TDS)
+Net cash used in operating activities
+
+I
+
+91
+
+lL,s22l
+
+flow from investing activities
+Purchase of investments
+
+(12,37s)
+
+19,8221'
+
+Proceeds from sale/maturity of investments
+
+13,001
+
+9,79L
+
+(3s6)
+
+(s08)
+
+Purchase of property, plant and equipment and other intangible assets
+Proceeds from disposal of property, plant and equipment and other intangible assets
+
+Redemption of/ (investment in) bank deposits, net
+lnterest received
+Net cash generated from investing activities
+
+ilt
+
+2
+
+L
+
+984
+
+2,O45
+
+173
+
+t25
+t,632
+
+1,389
+
+Cash flow from financint activities
+
+Proceeds from exercise of employee stock options
+
+1
+
+3
+
+Payment of principal portion of lease liabilities
+Payment of interest portion of lease liabilities
+
+(257\
+
+(185)
+
+(ee)
+
+(8s)
+
+Proceeds from current borrowings
+
+185
+
+155
+
+Repayment of current borrowings
+lnterest paid
+
+(285)
+
+(s6)
+
+cash used in financing activities
+
+tv
+
+lLTLl
+
+Net decrease in cash and cash equivalents {l+ll+llll
+
+(61)
+
+Cash and Cash equivalents transferred as part of Business divestment
+Cash and cash equivalents at the beginning of the period
+
+V
+
+Cash and cash
+
+1,23r
+
+2,747
+
+at the end of the
+
+170
+
+l./
+F
+(.f\
+
+tw *
+
+E7
+
+
+Q s*iesy
+
+Swi8gy Limited
+Notes to the consolidated financial results
+
+1 The above consolidated results were reviewed and recommended by the Audit Committee and approved by the Board of Directors at their meeting held on October 22,
+The Statutory Auditors have conducted a limited review ofthese unaudited consolidated financial results and issued an unmodified review reportthereon.
+
+2 These consolidated financial results have been prepared in accordance with lndian Accounting Standards ('lnd AS') prescribed under Section 133 of the Companies Act,
+along with the relevant rules issued thereunder and other accounting principles generally accepted in lndia and in terms of Regulation 33 of the SEBl (Listing Obligations
+Disclosure Requirements) Regulations, 2015, as amended ('Listing Regulations").
+
+3 Exceptional items includes:
+Half-year ended
+
+Quarter ended
+Particulars
+
+sep 30, 2025
+
+Jun 30, 2025
+
+Sep 30, 2025
+
+SeD 30, 2026
+
+5ep 30, 2025
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Statutorv imoact of new Labour Code(')
+Total
+
+Year ended
+Mar 31, 2025
+Audited
+10
+10
+
+(i) Pertains to the one-time impact arising from the implementation of the New Labour Codes, effective Novemb er 2L, 2025. Based on actuarial valuation, the Company had
+impact.
+
+4 Segment information
+Maker ("CODM"), in deciding how to allocate resources and in assessing performance. The Group's chief operating decision maker is the Managing Director and Chief Executive
+Officer.
+The operating segments comprises of:
+website.
+(ii) Out-of-home consumption : offers restaurant dining solutions (that we provide through DineOut) and access to curated outdoor events through Scenes.
+
+(iii) Quick commerce : offer on-demand grocery and a growing array of household items to users through lnstamart.
+(iv) Supply chain and distribution: offer comprehensive supply chain services to wholesalers, retailers, and fast-moving consumer goods {"FMCG") brands, leveraging ou
+warehousing capabilities. We streamline the value-chain and ensure reliable, fast, and cost-effective order fulfilment for wholesalers, retailers and FMCG companies.
+(v) Platform lnnovations : consists of set of incubators for new service offerings to create more frequent and meaningful touchpoints for our users, this segment
+business verticals such as Swiggy-Minis, Swiggy Sports, Snacc, Toing, Crew, Jus+ etc.
+Summary of segment inlormotion as below:
+Quarter ended
+Particulars
+
+Half-year ended
+
+Sep 30, 2025
+
+Jun 30, 2026
+
+Sep 30, 2025
+
+Sep 30, 2025
+
+Sep 30, 2025
+
+Unaudited
+
+Una udited
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Year ended
+Mar 31, 2026
+Audited
+
+7,839
+
+a. Revenue from operations (total segment revenuel
+Food Delivery
+
+r,923
+
+4,546
+
+3,723
+
+88
+
+257
+
+165
+
+375
+
+1,306
+
+2,204
+126
+1,232
+
+980
+
+2,538
+
+7,786
+
+3,859
+
+3,690
+
+3,195
+
+2,560
+
+6,885
+
+4,819
+
+10,935
+
+106
+
+51
+
+T2
+
+t57
+
+7,S7t
+
+6,AL2
+
+5,563
+
+14383
+
+10,525
+
+23,060
+
+2,338
+
+Out of home consumption
+
+131
+
+Quick-commerce
+Supply chain and distribution
+Platform lnnovations
+
+52
+
+b. Less: revenue from operations {inter-segment)
+Food Delivery
+
+(2)
+
+(3)
+
+(71
+
+(7)
+
+(1)
+
+(71
+
+7,832
+
+c. Revenue from operations {a-b)
+
+2,208
+126
+
+t,92t
+
+4,546
+
+3,720
+
+131
+
+88
+
+257
+
+165
+
+375
+
+Quick-commerce
+
+1,305
+
+t,232
+
+980
+
+2,53a
+
+3,859
+
+Supply chain and distribution
+
+3,690
+
+3,195
+
+2,560
+
+6,885
+
+7,7a5
+4,819
+
+10,935
+
+106
+
+51
+
+12
+
+157
+
+7.57t
+
+6.A12
+
+5.561
+
+14,383
+
+LO.S22
+
+23.053
+I,O4L
+
+Food Delivery
+
+2,338
+
+Out of home consumption
+
+Platform lnnovations
+
+s2
+
+Segment results
+Food Delivery
+
+349
+
+299
+
+257
+
+648
+
+453
+
+Out of home consumption
+
+8
+
+14
+
+6
+
+22
+
+11
+
+29
+
+Quick-commerce
+SupplV chain and distribution
+Platform lnnovations
+
+-764)
+
+(6s1)
+
+(73s)
+
+(1,41s)
+
+1,s36)
+
+{3,063)
+
+{8)
+(131)
+
+(18)
+
+(1s )
+
+(6s)
+
+(771
+
+162)
+
+(4s)
+
+t293)
+
+(s7l
+
+(19s)
+
+(s75)
+
+(477],
+
+{s4sl
+
+(1,0s3)
+
+(t,2341
+
+12,2651
+
+212
+
+ztr
+
+59
+
+423
+
+].46
+
+508
+
+(1e4)
+
+(173)
+
+(367)
+
+(s18)
+
+(e56)
+
+(71
+{
+
+Add: Other income
+Less: Share based payment expense
+
+{
+
+Less: Finance costs
+
+(s4)
+
+(s3)
+
+{2s3)
+(48)
+
+(107)
+
+(8e)
+
+(2oo)
+
+Less: Depreciation and amortisation expense
+
+{308)
+
+(2e8)
+
+(304)
+
+(606)
+
+(se2)
+
+(r,2771
+
+(2\
+
+(1
+
+(1)
+
+(3)
+
+(2\
+
+{4)
+
+(7911
+
+{1.0921
+
+t1.7131
+
+Q.2891
+
+{4.154}
+
+Less: Exceptional items
+
+(10)
+-::,._.
+
+Less: Share of loss of an associate
+
+,
+
+../
+
+;
+
+!
+
+\'!
+
+.'- ;,,, ", -l-:1;l-r\
+
+Losgbd@lats..
+
+i1
+
+i
+ir
+
+*'
+
+,^ry
+
+*
+
+
+5 DuringthequarterendedSeptember30,2025,theSwiggyEmployeeStockOptionTrust("Trust")hastransferred23,49,653equitysharesof{leachpursuanttotheexercise
+stock options by employees under various Employee Stock Option Schemes.
+
+5 On September 7,2026, SwiegJ Networks Limited ("SNL"), a wholly owned subsidiary of Swiggy Limited, entered into an aBreement to transfer its B2B authorised distribution
+business, which is part ofthe supply chain and distribution segment, to its wholly owned subsidiary, Lynks Logistics Limited ("Lynks"), by way of a Business Transfer
+effective September t5, 2026, and to sell its entire shareholding in Lynks to Trustroot lnternet Private Limited ("TlPt") for a consideration of I 500 crore through
+Aquisition Agreement, settled by the issue of 1,66,534 Series R compulsorily convertible preference shares of TIPL. Consequently, Lynks ceased to be a subsidiary of SNL and a
+step-down subsidiary of Swiggy Limited, and has been deconsolidated with effect from September L5,2026.
+7 During the year ended March 37,2026, the Com pany incorporated Swiggy lnstamart Private Limited as a wholly owned subsidiary of Swiggy Networks Limited (formerly known
+as Swiggy Networks Private Limited and Scootsy Logistics Private Limited), a step-down subsidiary of the Company, to facilitate the transfer of the Company's lnstamart
+
+by way of a slump sale on a going-concern basis. The transfer became effective on Ap(l f,2025.
+
+8 During the quarter ended Septembe( 30,2025, Swiggy Limited incorporated a wholly owned subsidiary, Swiggy Commerce Private Limited, which has not yet comm
+business operations.
+
+9 During the year ended March 31, 2026, the Company completed the sale of its entire investment in Roppen Transportation Services Private Limited (Rapido) for a
+of { 2,399 crore, pursuant to requisite Board and shareholder approvals. A gain of < 1,350 crore was recognised in Other Comprehensive lncome.
+
+10 During the year ended March 31, 2025, the Company allotted 25,55,55,553 equity shares of face value { 1 each to eligible Qualified lnstitutional Buyers (QlB} at an issue price
+
+{ 375 per equity share (including premium of I 374 per equity share) aggregating to I 10,000 crore pursuant to Qualified lnstitutions Placement (QlP) in accordance with
+provisions of Securities and Exchange Board of lndia (lssue of Capital and Disclosure Requirements) Regulations (the "5EBl ICDR Regulations").
+
+11 During the year ended March 31, 2025, the Group received { 31 crore under its Employee Dishonesty lnsurance Policy (Crime policy), against a claim of I 33 crore, in respect
+an embezzlement incident reported during the financial year ended March 31, 2O24- The amount received has been recognised as Other lncome in the Statement
+Consolidated Financial Results.
+12 Changes in Board and Senior Management
+During the quarter ended June 30, 2025, Mr. Lakshmi Nandan Reddy Obul (DlN: 05585145), Whole-Time Director - Head of lnnovation, and Mr. Roger Clark Rabalais
+07304038), Nominee Director, resigned with effect from April 10, 2026. Mr. Renan De Castro Alves Pinto (DlN: 03118947) was appointed as Non-Executive, N
+Nominee Director with effect from April 11,2026.
+During the quarter ended September 30,2026, Mr. Amitesh Kumar lha resigned as the CEO lnstamart and ceased to be a Senior Management Personnel ("SMP") of
+Company with effect from iuly 28, 2025. Ms. Nandita Sinha was appointed as the CEO - lnstamart and categorised as SMP with effect from August 3, 2026.
+
+-
+
+13 Amounts which are less than half a crore are appearing as "0".
+14 The consolidated financial results for the quarter and half-year ended September 30, 2026 arc also being made available on the Stock Exchange websites www.bseindia.com
+and www.nseindia.com and on the Company's website: www.swiggy.com.
+
+L I,
+
+for ond on beholl of the Boord of Diectors
+Swiggy Limited
+
+$ kr
+
+Bengaluru
+
+Date: October
+
+2026
+
+*
+
+Sriharsha Maiety
+Managing Director & Group Chief Executive Officer
+DIN:05580073
+
+U
+
+*
+
+
+Walker Chandiok &.Co LLP
+
+Walker Chandiok & Co LLP
+5th Floor, No.65/2, Block "A",
+Bagmane Tridib,
+Bagmane Tech Park,
+C V Raman Nagar,
+Bengaluru - 560093
+Karnataka, India
+T +91 804 243 0701
+F +91804126 1228
+
+Independent Auditor's Review Report on the Standalone Unaudited Quarterly Financial Results and Year to Date Financial
+Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (as amended)
+
+To the Board of Directors of Swiggy Limited
+1.
+
+We have reviewed the accompanying statement of the standalone unaudited financial results ('the Statement') of Swiggy Limited ('the
+Company') which includes the Swiggy Employee Stock Option Trust ('the Trust') for the quarter ended 30 September 2026 and the
+year to date results for the period 01 April 2026 to 30 September 2026, being submitted by the Company pursuant to the requirements
+of Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (as amended) ('Listing
+Regulations').
+
+2.
+
+The Statement, which is the responsibility of the Company's management and approved by the Company's Board of Directors, has
+been prepared in accordance with the recognition and measurement principles laid down in Indian Accounting Standard 34, Interim
+Financial Reporting ('Ind AS 34'), prescribed under Section 133 of the Companies Act, 2013 ('the Act'), and other accounting principles
+generally accepted in India and is in compliance with the presentation and disclosure requirements of Regulation 33 of the Listing
+Regulations. Our responsibility is to express a conclusion on the Statement based on our review.
+
+3.
+
+We conducted our review of the Statement in accordance with the Standard on Review Engagements (SRE) 2410, Review of Interim
+Financial Information Performed by the Independent Auditor of the Entity, issued by the Institute of Chartered Accountants of India. A
+review of interim financial information consists of making inquiries, primarily of persons responsible for financial and accounting
+matters, and applying analytical and other review procedures. A review is substantially less in scope than an audit conducted in
+accordance with the Standards on Auditing specified under Section 143(10) of the Act, and consequently, does not enable us to obtain
+assurance that we would become aware of all significant matters that might be identified in an audit. Accordingly, we do not express
+an audit opinion.
+
+Chartered Accountants
+Offices in Ahmedabad, Bengaluru, Bhubaneswar, Chandigarh, Chennai, Oehradun, Goa, Gurugram, Guwahati, Hyderabad,
+Indore, Kochi, Kolkata, Mumbai, New Delhi, Naida and Puna
+
+Walker Chandiok & Co LLP is registered
+with limited liability with identification
+number AAC-2085 and its registered
+office at L-41 Connaught Circus, Outer
+
+Circle, New Delhi, 110001, India
+
+
+Walker Chandiok &..Co LLP
+Swiggy Limited
+Independent Auditor's Review Report on the Standalone Unaudited Quarterly Financial Results and Year to Date Financial
+Results of the Company pursuant to the Regulation 33 of the SEBI (Listing Obligations and Disclosure Requirements)
+Regulations, 2015 (as amended) (Cont'd)
+
+4.
+
+Based on our review conducted as above nothing has come to our attention that causes us to believe that the accompanying
+Statement, prepared in accordance with the recognition and measurement principles laid down in Ind AS 34, prescribed under
+Section 133 of the Act, and other accounting principles generally accepted in India, has not disclosed the information required to be
+disclosed in accordance with the requirements of Regulation 33 of the Listing Regulations, including the manner in which it is to be
+disclosed, or that it contains any material misstatement.
+
+For Walk ~ Chandiok & Co LLP
+Charter d 4',ccountants
+F
+gis'tration No: 001
+
+Chennai
+22 October 2026
+
+Chartered Accountants
+
+
+D
+
+Swiggy Limited
+
+Swiggy
+
+CIN: L7411DKA2013PLC096530
+Registered office: Survey No.14, No. 158, 3rd - 6th Floor, Tower 1, Sumadhura Capitol Towers, Pattanduru Agrahara Village, K.R.Puram Hobli, Bangalore East Taluk, Bengaluru 560066, Karnataka, India
+Tel: 080-68422422 / Email ID: ir@swiggy.in / Web site: www.swiggy.com
+Statement of standalone financial results for the quarter and half-year ended September 30, 2026
+('{ Crore)
+Quarter ended
+SI.No.
+
+Particulars
+
+Half-year ended
+
+Year ended
+
+Sep 30, 2026 Jun 30, 2026
+
+Sep 30, 2025
+
+Sep 30, 2026
+
+Sep 30, 2025
+
+Mar 31, 2026
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Unaudited
+
+Audited
+
+2,646
+
+2,462
+
+2,022
+
+5,108
+
+3,912
+
+8,258
+
+335
+
+367
+
+99
+
+702
+
+2,981
+
+2,829
+
+2,121
+
+5,810
+
+220
+4,132
+
+8,887
+
+26
+
+45
+
+428
+
+481
+
+838
+
+972
+
+1,882
+
+5
+
+410
+5
+
+4
+
+10
+
+8
+
+21
+
+113
+
+92
+
+23
+
+205
+
+47
+
+142
+
+710
+
+593
+
+436
+
+1,303
+
+848
+
+1,757
+
+1,205
+
+1,146
+
+934
+
+2,351
+
+1,810
+
+3,843
+
+Continuing operations
+Income
+Revenue from operations
+Other income
+Total income
+
+629
+
+Expenses
+Cost of materials consumed
+
+13
+
+Employee benefits expense
+Finance costs
+Depreciation and amortisation expense
+Other expenses
+Advertising and sales promotion
+Delivery and related charges
+Others
+
+233
+
+233
+
+193
+
+466
+
+378
+
+761
+
+Total expenses
+
+2,694
+
+2,479
+
+2,084
+
+5,173
+
+4,089
+
+8,451
+
+287
+
+350
+
+37
+
+637
+
+43
+
+436
+
+Ill
+
+Profit before exceptional items and tax (1-11)
+
+IV
+
+Exceptional items (Refer note 3)
+
+V
+
+Profit from continuing operations before tax (lll+IV)
+
+VI
+
+Tax expense
+
+(20)
+
+287
+
+350
+
+37
+
+637
+
+43
+
+416
+
+287
+
+350
+
+37
+
+637
+
+43
+
+416
+
+(918)
+
+(1,915)
+
+(3,835)
+
+(918)
+
+(1,915)
+
+(3,835)
+
+(1,872)
+
+(3,419)
+
+1,350
+
+1,350
+
+0
+
+(3)
+
+(4)
+
+O
+
+1,347
+
+(i) Current tax
+(ii) Deferred tax
+Total tax expense from continuing operations (i+ii)
+VII
+
+Profit for the period/ year from continuing operations (V - VI)
+
+VIII
+
+Loss from discontinued operations before tax (Refer note 7)
+
+IX
+
+Tax expense of discontinued operations
+
+X
+
+Loss for the period/ year from discontinued operations (VIII - IX)
+
+XI
+
+Profit/(loss) for the period/year (VII + X)
+
+XII
+
+Other comprehensive income/ (loss), net of tax
+
+287
+
+350
+
+(881)
+
+637
+
+Items that will not be reclassified subsequently to profit or loss:
+- Changes in fair value of equity instruments carried at fair value through
+
+1,350
+
+other comprehensive income ("FVTOCI") (Refer note 10)
+- Re-measurement gain/(loss) on defined benefit plans
+
+0
+
+Other comprehensive income/(loss) for the period/ year
+
+O
+
+(0)
+
+(1)
+
+(0)
+
+1,349
+
+XIII
+
+Total comprehensive income/(loss) for the period/ year, net of tax (XI + XII) >----2_8_7-+-
+
+3_5_0-+-
+
+46_8-+
+
+63_7-+--~(~5_
+25~)+-
+
+XIV
+
+Paid-up share capital (face value of" 1 per share)
+
+262
+
+232
+
+262
+
+XV
+
+Other equity
+
+XVI
+
+Earnings/(loss) per equity share (face value of" 1 each)(")*
+
+262
+
+232
+
+1,346
+(~2~
+,0_7_3-'-'
+)
+261
+20,578
+
+For continuing operations
+(i) Basic
+
+1.07
+
+1.31
+
+0.16
+
+2.38
+
+0.18
+
+1.69
+
+(ii) Diluted
+
+1.07
+
+1.31
+
+0.15
+
+2.38
+
+0.18
+
+1.68
+
+For discontinued operations
+(i) Basic
+
+(3.86)
+
+(8.06)
+
+(15.57)
+
+(ii) Diluted
+
+(3.82)
+
+(8.02)
+
+(15.52)
+
+For continuing and discontinued operations
+(i) Basic
+(ii) Djy.JJ!lQ""'-
+
+,,. ,...,--·- :-:-:::.,.._
+
+,,f(..,'{ ~i /j/~
+
+1.07
+
+1.31
+
+(3.70)
+
+2.38
+
+(7.88)
+
+(13.88)
+
+1.07
+
+1.31
+
+(3.67)
+
+2.38
+
+(7.84)
+
+(13.84)
+
+
+Cl "*t-
+
+Swiggy l-imited
+Statement of standalone balance sheet
+
+Crore)
+
+Sl. No. Particulars
+
+Non-current assets
+Property, plant and equipment
+Right-of-use assets
+
+As at
+
+As at
+
+sep 30, 2025
+
+Mar 31, 2025
+
+Unaudited
+
+Audited
+
+885
+
+872
+
+r82
+
+L79
+
+315
+
+315
+
+t73
+
+183
+
+lnvestments
+
+11,955
+
+Loans
+
+2,254
+
+7,261
+2,254
+
+Goodwill
+Other intangible assets
+Financial assets
+
+Other financial assets
+lncome tax assets
+Other assets
+Total non-current assets
+
+9
+
+1,057
+
+45
+
+94
+
+202
+L6,024
+
+12,2a7
+
+58
+
+Current assets
+Financial assets
+
+lnvestments
+Trade receivables
+
+2,002
+288
+
+Cash and cash equivalents
+
+1,098
+
+2L3
+L,832
+
+Bank balances other than cash and cash equivalents
+
+285
+
+t,268
+
+Loans
+
+r47
+
+156
+
+4,060
+
+4,t77
+
+Other financial assets
+Other assets
+Total current assets
+
+3,034
+
+502
+
+305
+
+8,383
+
+10,985
+
+24,407
+
+24,Otg
+
+262
+
+Assets held for sale
+
+747
+
+Total assets
+EqutTYAND UAB[.tTtES
+
+il
+
+Equity
+Other equity
+
+Equity share capital
+
+2r,582
+
+equity
+
+2t,u4
+
+25L
+20,578
+20,839
+
+I7I
+
+170
+
+27
+
+25
+
+Non-current liabilities
+Financial liabilities
+Lease liabilities
+
+Other fi nancial liabilities
+Contract liabilities
+Provisions
+Total non-current liabilities
+Current liabilities
+Financlal liabilities
+Lease liabilities
+Trade payables
+Total outstanding dues of micro enterprises and small enterprises; and
+Total outstanding dues of creditors other than micro enterprises and small enterprises
+Other financial liabilities
+Contract liabilities
+Other liabilities
+Provisions
+
+Total current liabilities
+Liabilities associated with assets held for sale
+Total liabilities
+and liabilities
+
+*
+
+,'1
+
+t!
+
+T2
+
+42
+
+49
+
+25t
+
+256
+
+20
+
+15
+
+T6
+
+LL
+
+805
+
+534
+
+1,091
+
+1,342
+
+16
+
+15
+
+290
+
+28t
+
+73
+
+83
+
+2,3t2
+
+2,242
+
+2,563
+
+642
+3,180
+
+24,4O7
+
+24,019
+
+
+Swiggy Limited
+Statement of standalone cash flows
+
+Cl.*"",
+(< Crore)
+
+Half-year ended
+Sl. No. Particulars
+
+Sep 30, 2025
+
+Sep 30, 2025
+
+Unaudited
+
+Unaudited
+
+Cash flow from operating activities
+
+Profit before tax from continuing operations
+
+617
+
+43
+(1.9151
+
+637
+
+lt,872l
+
+205
+
+47
+
+l47l
+
+(e)
+
+lnterest income on security deposits carried at amortised cost
+
+(0)
+
+(1)
+
+Gain on termination of leases
+
+(0)
+
+0
+
+Share based payment expense
+
+269
+
+498
+
+lnterest expense on liabilities measured at amortised cost
+Profit on disposal/write off of property, plant and equipment (net)
+
+1
+
+2
+
+lmpairment allowances for doubtful debts and advances
+Transaction cost on borrowing facilities
+lnterest on lease liabilities
+
+2
+
+Loss before tax from discontinued operations
+
+before tax for the period
+Adjustments to reconcile the profit/(loss) before tax to net cash flows:
+Depreciation and amortisation expense
+lncome on investments carried at fair value through profit or loss
+
+lnterest income
+lnterest income on income tax refund
+
+(0)
+(1,s071
+
+277
+
+(164)
+
+(3)
+
+(lncrease)/ decrease in other financial assets
+(lncrease)/ decrease in other assets
+
+(680)
+
+727
+
+(213)
+
+(10s)
+
+lncrease/ (decrease) in trade payables
+lncrease/ (decrease) in other financial liabilities
+lncrease/ (decrease) in other liabilities
+lncrease/ (decrease) in contract liabilities
+lncrease/ (decrease) in provisions
+Cash used in operating activities
+
+(2s1)
+
+(247],
+
+(304)
+
+83
+
+9
+
+99
+
+(13)
+(s3)
+
+10
+
+(s87)
+
+8
+(1,6991
+
+49
+
+(12)
+
+ls38l
+
+lt,Tttl
+
+Purchase of investments
+
+(s,307)
+
+(5,523)
+
+Proceeds from sale/maturity of investments
+
+6,627
+(25s)
+
+5,859
+
+1
+
+0
+
+Cash flow from investing activities
+
+Proceeds from repayment of loans
+
+51
+
+Redemption of bank deposits, net
+lnvestment in subsidiaries
+lnterest received
+
+(4,73o1
+
+Net cash generated from/(used inl investing activities
+
+v
+
+5
+(2os)
+
+Movements in working capital :
+(lncrease)/ decrease in inventories
+(lncrease)/ decrease in trade receivables
+
+Proceeds from disposal of property, plant and equipment and other intangible assets
+
+tv
+
+8
+(3es)
+681
+
+Purchase of property, plant and equipment and other intangible assets
+
+ilt
+
+31
+
+L
+
+Operating profit/(loss) before working capital adjustments
+
+lncome tax (paid)/ refund (net of tax deducted at source)
+Net cash used in operating activities
+
+I
+
+0
+
+3,2t5
+
+(24)
+
+1,599
+(6os)
+
+228
+
+162
+
+lLTel
+
+1,468
+
+Cash tlow lrom tlnanclng actlvlrles
+
+Proceeds from exercise of employee stock options
+
+7
+
+3
+
+Payment of principal portion of lease liabilities
+
+(e)
+
+(15)
+
+Payment of interest portion of lease liabilities
+Transaction cost on borrowing facilities
+Net cash used in financint activities
+
+(8)
+
+(6)
+
+lLTl
+
+(lel
+
+Net decrease in cash and cash equivalents (l+ll+llll
+
+1734]l
+
+1262
+
+Cash and cash equivalents at the beginning of the period
+
+7,832
+
+1,083
+
+Cash and cash equivalents at the end of the period
+
+1,098
+
+821
+
+(1)
+
+
+$f s*iesy
+
+Swiggy Limited
+Notes to the standalone financial results
+
+1 The above standalone results were reviewed and recommended by the Audit Committee and approved by the Board of Directors at their meeting held on October 22, 2026.
+The Statutory Auditors have conducted a limited review of these unaudited standalone financial results and issued an unmodified review report thereon.
+
+2 These standalone financial results have been prepared in accordance with lndian AccountinB Standards ('lnd A5') prescribed under Section 133 of the Companies Act, 2013
+along with the relevant rules issued thereunder and other accounting principles generally accepted in lndia and in terms of Regulation 33 ofthe SEBI (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended {"Listing Regulations"}.
+
+3 Exceptional items includes:
+Ouarter ended
+
+Particulars
+
+Half vear ended
+SeD 30- 2025
+
+Seo 30. 2025
+
+June 30, 2026
+
+Seo ?O- 2O25
+
+Seo 3O. 2O25
+
+unaudited
+
+Unaudited
+
+Unaudited
+
+Una udited
+
+Unaudited
+
+Year ended
+
+Met 11.2fl26,
+Audited
+
+lmpairment of investments {i)
+stairtnrv imnaat df new I ahorrr Codcq{ii)
+Total
+
+7
+20
+
+(i) Pertains to impairment of investment in associate reflecting the Company's share of accumulated losses since acquisition.
+
+(ii) Pertains to the one-time impact arising from the implementation of the New Labour Codes, effective November 21, 2025. Based on actuarial valuation, the Company
+recognised the incremental employee benefit liability arising primarily due to the change in wage definition as an exceptional item, considering the non-recurring nature
+
+the impact.
+
+4 TheCompanypublishesthesefinancial resultsalongwiththeconsolidatedfinancial
+
+results. lnaccordancewithlndASl0S,'OperatingSegments',theCompanyhas
+
+the segment information in the consolidated financial results.
+
+5 DuringthequarterendedSeptember30,2026,theSwiggyEmployeeStockOptionTrust("Trust")hastransferred2S,49,65Sequitysharesof{leachpursuanttothe
+of stock options by employees under various Employee Stock Option Schemes.
+
+6 During the quarter ended September 30, 2026, Swiggy Limited incorporated a wholly owned subsidiary, Swiggy Commerce Private Limited, which has not yet
+business operations.
+
+7 Consequent to the Board approval on September 23,2025, and the subsequent approval by the shareholders on November 0L,2025, the Company has presented its
+Commerce business ("lnstamart") as "Discontinued Operations" for all comparative periods in its standalone financial results in accordance with lnd AS 105, following
+transfer of the lnstamart business, on a going-concern basis, by way of a slump sale to Swiggy lnstamart Private Limited, a wholly owned step-down subsidiary of
+Company. This transfer became effective on April 01,2026.
+
+8 DuringtheyearendedMarch3l,2026,theCompanyhadoptedfortheconversionofinter-corporatedeposits(lCDs)aggregatingto{l,l30Croregiventoits
+subsidiary, Swiggy Retail Limited (formerly known as Supr lnfotech Solutions Limited, Supr lnfotech Solutions Private Limited), into 0.001% Compulsorily
+Debentures (CCDs), resulting in full settlement of the lCDs, with no financial impact in the Standalone Statement of Profit and Loss.
+Subsequent to the quarter ended September 30, 2026, the Company has opted for the conversion of inter-corporate deposits {lCDs) aggregating to { 2,406 Crore (
+accrued interest) given to its wholly-owned subsidiary, Swiggy Networks Limited (formerly known as Swiggy Networks Private Limited, Scootsy Logistics Private Limited),
+Loss.
+
+9 During the quarter ended June 30,2026, the Company acquired certain Property, Plant and Equipment from its wholly-owned subsidiary, "Swiggy Networks Limited"
+(formerly known as Swiggy Networks Private Limited, Scootsy Logistics Private Limited), for { 49 Crore (March 31, 2026: < 818 Crore) at book value, being fair value, to align
+asset ownership within the Group.
+
+10 During the year ended March 37, 2026, the Company completed the sale of its entire investment in Roppen Transportation Services Private Limited (Rapido) for a
+consideration of { 2,399 Crore, pursuant to requisite Board and shareholder approvals. Accordingly, a gain of { 1,350 Crore was recognised in Other Comprehensive lncome.
+of { 375 per equity share (including premium of < 374 per equity share) aggregating to { 10,000 Crore pursuant to Qualified lnstitutions Placement (QlP) in accordance with
+
+the provisions of Securities and Exchange Board of lndia (lssue of Capital and Disclosure Requirements) Regulations (the "SEBI ICDR Regulations").
+12 Changes in Board and Senior Management
+During the quarter ended June 30, 2026, Mr. Lakshmi Nandan Reddy Obul (DlN: 05586145), Whole-Time Director - Head of lnnovation, and Mr. Roger Clark Rabalais (DlN:
+07304038), Nominee Director, resigned with effect from April 10, 2026. Mr. Renan De Castro Alves Pinto (DlN: 03118947) was appointed as Non-Executive, NonNominee Director with effect from April 1I,2026.
+During the quarter ended September 30,2026, Mr. Amitesh Kumar Jha resigned as the CEO - lnstamart and ceased to be a Senior Management Personnel ("5MP") of the
+Company with effectfrom luly 28,2026. Ms. Nandita Sinha was appointed as the CEO- lnstamart and categorised as SMP with effectfrom August 3,2026.
+
+13 Amountswhich are less than half a crore are appearing as "0".
+14 The standalone financial results for the quarter and half-year ended September 30, 2026 are also being made available on the Stock Exchange websites www.bsei
+and www.nseindia.com and on the Company's website: www.swiggy.com
+
+il,
+
+*
+Location: Bengaluru
+Date: October 22, 2025
+
+for and on beholf oJ the Boord of Directors ol
+
+t?
+
+Swiggy Limited
+
+*
+
+h,\"1'n
+
+Sriharsha Maiety
+Managing Director & Group Chief Executive Officer
+DIN:06680073
+
+

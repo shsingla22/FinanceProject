@@ -1,0 +1,105 @@
+--- CIMG_544014_952026223848_CIM_WebXMLFile_20260509_223856647_2.xml (the exchange's structured disclosure) ---
+NSESymbol: HONASA ; Name Of The Company: Honasa Consumer Limited ; Scrip Code: 544014 ; MSEISymbol: NOTLISTED ; ISIN: INE0J5401028 ; Whether Disclosure Filed For Listed Entity: true ; Relationship With The Listed Entity: Listed Entity (self) ; Whether Event Or Information Is An Outcome Of Board Meeting: false ; Date Of Occurrence Of Event Or Information: 2026-05-09 ; Time Of Occurrence Of Event Or Information: 13:05:00 ; Number Of Persons Or Entities For Whom Change Is Being Reported: 1 ; Date Of Report: 2026-05-09 ; Type Of Change: Cessation ; Category Of Cessation: Resignation ; Category For Change: Senior Management Personnel ; Designation Of Designated Person: Chief Business Officer ; Salutation Of Designated Person: Mr. ; Name Of Designated Person: Yatish Bhargava ; Effective Date Of Reason Of Change: 2026-05-16 ; Salutation: Mr. ; Name Of The Person: Yatish Bhargava ; Designation Of Person: Chief Business Officer ; Date On Which The Resignation Letter Was Received: 2026-05-09 ; Effective Date Of Resignation: 2026-05-16 ; Reason Of Resignation In Brief: Mr. Yatish Bhargava, Chief Business Officer has tendered his resignation solely due to personal circumstances requiring his immediate attention.
+
+--- CIMG_544014_09052026223848_1.pdf ---
+May 09, 2026
+Listing Department
+National Stock Exchange of India Limited
+Symbol: HONASA
+
+Listing Department
+BSE Limited
+Scrip Code: 544014
+
+Sub.: Change in Senior Management
+__________________________________________________________________________________
+Dear Sir/Madam,
+Pursuant to Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations,
+2015 (“SEBI Listing Regulations”), this is to inform that Mr. Yatish Bhargava, Chief Business Officer has
+tendered his resignation due to personal circumstances and will cease to be part of Senior
+Management of the Company with effect from close of business hours on May 15, 2026.
+The details as required under Regulation 30 of the SEBI Listing Regulations read with SEBI Master
+Circular No. HO/49/14/14(7)2025-CFDPOD2/I/3762/2026 dated January 30, 2026, along with a copy
+of the resignation letter is enclosed herewith as Annexure.
+Kindly take the same on record. This disclosure will also be hosted on the Company's website viz.
+www.honasa.in.
+Thanking you,
+Yours truly,
+For Honasa Consumer Limited
+
+Gaurav
+Pandit
+
+Digitally signed by
+Gaurav Pandit
+Date: 2026.05.09
+22:25:07 +05'30'
+
+Gaurav Pandit
+Company Secretary and Compliance Officer
+
+Encl.: As above
+
+Honasa Consumer Limited
+Registered Office: Unit No - 404, 4th Floor, City Centre, Plot No 05, Sector-12, Dwarka, New Delhi - 110075
+Corporate Office: 10th & 11th Floor, Capital Cyberscape, Sector-59, Gurugram, Haryana - 122102
+Email: info@mamaearth.in; Phone: 011 - 44123544 | Website: www.honasa.in
+| CIN: L74999DL2016PLC306016 |
+
+
+Annexure
+Disclosure as required under Regulation 30 of the SEBI Listing Regulations
+S
+No.
+
+Particulars
+
+Details
+
+1.
+
+Reason for change
+
+2.
+
+Date of cessation
+
+Resignation by Mr. Yatish Bhargava as Chief
+Business Officer
+Effective from close of business hours on May
+15, 2026
+
+3.
+4.
+
+Brief Profile (in case of appointment)
+Disclosure of relationships between
+directors (in case of appointment of a
+director)
+
+Not applicable
+
+Honasa Consumer Limited
+Registered Office: Unit No - 404, 4th Floor, City Centre, Plot No 05, Sector-12, Dwarka, New Delhi - 110075
+Corporate Office: 10th & 11th Floor, Capital Cyberscape, Sector-59, Gurugram, Haryana - 122102
+Email: info@mamaearth.in; Phone: 011 - 44123544 | Website: www.honasa.in
+| CIN: L74999DL2016PLC306016 |
+
+
+Resignation Letter
+
+From: Yatish Bhargava
+Date: Sat, 9 May 2026 at 11:27 AM
+Subject: Resignation
+To: Varun Alagh
+Cc: Karan Veer Singh Bajwa
+Dear Varun,
+I am writing to formally tender my resignation from the position of Chief Business Officer,
+effective 15th May 2026.
+This decision stems solely from personal circumstances requiring my immediate attention.
+I am sincerely grateful for the opportunity and the trust extended to me during my tenure.
+Thank you for your support.
+Best regards,
+Yatish
+
+

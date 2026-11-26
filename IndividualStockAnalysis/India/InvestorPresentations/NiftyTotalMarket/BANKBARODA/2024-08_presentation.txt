@@ -1,0 +1,772 @@
+
+=== page 1 ===
+Performance Analysis
+Q1FY25
+=== page 2 ===
+2Key Highlights
+=== page 3 ===
+3
+4,070 4,886 
+4,458 
+Q1FY24 Q4FY24 Q1FY25Net Profit (INR crore)
+9.5% YoYKey Highlights   
+Key Performance DriversBusiness Details (INR crore)
+Jun 30, 2023 Jun 30, 2024 YoY (%) 
+Domestic Deposits 10,50,306 11,05,460 5.3
+International Deposits 1,49,602 2,01,534 34.7
+Global Deposits 11,99,908 13,06,994 8.9
+Retail Advances * 1,84,091 2,22,494 20.9
+Domestic Gross Advances 8,12,626 8,81,785 8.5
+International Advances 1,78,362 1,89,896 6.5
+Global Advances 9,90,988 10,71,681 8.1
+Total Business 21,90,896 23,78,675 8.6
+*organic growth, excluding pool purchase
+Financial Performance (INR crore)
+Q1FY24 Q1FY25 YoY (%)
+Net Interest Income 10,997 11,600 5.5
+Fee based Income 1,507 1,479 -1.9
+Operating Profit 7,824 7,161 -8.5
+Profit before Tax 5,878 6,151 4.6
+Net Profit 4,070 4,458 9.5
+GNPA Ratio (%) 3.51 2.88 (63 bps)
+NNPA Ratio (%) 0.78 0.69 (9 bps)
+Capital Adequacy Ratio 
+(Standalone) (%)15.84% 16.82% 98 bps
+3.27 3.273.18
+Q1FY24 Q4FY24 Q1FY25Net Interest Margin (%)  
+9 bps YoY
+1.111.25
+1.13
+Q1FY24 Q4FY24 Q1FY25Return on Assets
+2 bps YoY
+20.0320.83
+17.45
+Q1FY24 Q4FY24 Q1FY25Return on Equity
+258 bps YoY
+=== page 4 ===
+4Financial  Performance
+=== page 5 ===
+5Key Ratios 
+3.27% 3.27% 3.18% 3.18% 3.18%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25
+3.41% 3.45%3.30% 3.32% 3.30%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25
+1.92% 1.95%2.23%
+1.97%2.23%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25Domestic
+International
+GlobalNet Interest Margin 
+8.40% 8.75% 8.55% 8.53% 8.55%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25
+8.91% 9.25% 8.99% 9.01% 8.99%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25
+6.06%6.43% 6.52% 6.34% 6.52%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25Domestic
+International
+GlobalYield on Advances
+4.68%5.06% 5.06% 4.92% 5.06%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25
+4.74%5.11% 5.13% 4.97% 5.13%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25
+4.25%4.77% 4.66% 4.57% 4.66%
+Q1FY24 Q4FY24 Q1FY25 FY24 Q1FY25Domestic
+International
+GlobalCost of Deposits  
+=== page 6 ===
+6Operating Performance  
+Particulars
+(INR crore)Q1 FY24 Q4 FY24 Q1 FY25 YoY (%)
+Interest on advances 19,813 22,760 22,660 14.4
+Interest on investments 6,028 6,307 6,438 6.8
+Other Interest income 715 516 530 -25.8
+Total Interest Income 26,556 29,583 29,629 11.6
+Interest on Deposits 13,691 15,809 16,318 19.2
+Interest on borrowings 1,293 1,286 1,015 -21.5
+Other Interest paid 576 696 696 20.8
+Total Interest Expenses 15,559 17,791 18,029 15.9
+Net Interest Income (NII) 10,997 11,793 11,600 5.5
+Fee based Income 1,507 1,915 1,479 -1.9
+Treasury Income 1,152 753 295 -74.4
+Other Non -Interest Income 663 1,523 714 7.7
+Non- Interest Income 3,322 4,191 2,487 -25.1
+Operating Income 14,319 15,984 14,087 -1.6
+Operating Expenses 6,495 7,878 6,926 6.6
+Operating Profit 7,824 8,106 7,161 -8.5
+Cost to Income Ratio (%) 45.36 49.29 49.17 381 bps
+=== page 7 ===
+7Non-Interest Income
+Particulars
+(INR crore)Q1 FY24 Q4 FY24 Q1 FY25 YoY (%)
+Commission, Exchange, Brokerage 745 1,030 719 -3.5
+Incidental Charges 389 360 317 -18.5
+Forex Income 46 61 60 30.4
+Other Miscellaneous Income 327 464 383 17.1
+Fee based Income 1,507 1,915 1,479 -1.9
+Trading Gains – Profit from Sale of Investments 331 537 164 -50.5
+Revaluation of Investment 625 -18 -76 --
+Profit on Exchange Transactions 196 234 207 5.6
+Treasury Income 1,152 753 295 -74.4
+Dividend Income 0   8 160 --
+Recovery from TWO 663 1,202 554 -16.4
+Other Income 0   313 0   --
+Other Non -Interest Income 663 1,523 714 7.7
+Total Non -Interest  Income 3,322 4,191 2,487 -25.1
+=== page 8 ===
+8Operating Expenses
+Particulars
+(INR crore)Q1 FY24 Q4 FY24 Q1 FY25 YoY (%)
+Employee Cost 3,754 4,547 4,014 6.9
+of which:  Salaries 2,980 2,875 3,207 7.6
+Provisions for employees 774 1,672 807 4.3
+Other Operating Expenses 2,740 3,331 2,912 6.2
+of which :
+Rent, Taxes and Lighting329 505 334 1.5
+Printing and Stationery 38 51 40 5.3
+Depreciation 378 426 321 -15.1
+Law charges 49 114 72 46.7
+Repairs and Maintenance 237 332 240 1.3
+Insurance 403 473 494 22.6
+NFS charges/Fees 116 115 111 -4.4
+Other Expenditure 1,190 1,314 1,300 9.2
+Operating Expenses 6,495 7,878 6,926 6.6
+=== page 9 ===
+9Profit Position
+Particulars
+(INR crore)Q1 FY24 Q4 FY24 Q1 FY25 YoY (%)
+Operating Profit 7,824 8,106 7,161 -8.5
+Total Provisions 1,946 1,302 1,011 -48.1
+of which:
+Provision for NPA & Bad Debts Written -off1,693 1,485 1,269 -25.0
+Provision for Non Performing Investment -11 -151 -136 --
+Provision for Standard Advances 144 -56 -192 --
+Other Provisions 120 24 70 -41.7
+Profit  before  Tax 5,878 6,804 6,150 4.6
+Tax Provisions 1,807 1,918 1,692 -6.4
+Net Profit 4,070 4,886 4,458 9.5
+=== page 10 ===
+10Business  Performance
+=== page 11 ===
+11Deposits 
+Savings 
+Deposits
+35%
+Current 
+Deposits
+6%Term 
+Deposits
+59%% share in Domestic Deposits in  Jun’24
+% share in Domestic Deposits in  Jun’23
+Savings 
+Deposits
+34%
+Current 
+Deposits
+6%Term 
+Deposits
+60%Particulars
+(INR crore)Jun’23 Jun’24 YoY (%) Mar’24 Jun’24 QoQ  (%)
+Domestic CASA Deposits 4,23,600 4,49,019 6.0 4,66,401 4,49,019 -3.7
+Domestic Saving 
+Deposits3,60,722 3,82,354 6.0 3,90,014 3,82,354 -2.0
+Domestic Current 
+Deposits62,878 66,665 6.0 76,386 66,665 -12.7
+Term Deposits 6,26,706 6,56,441 4.7 6,62,113 6,56,441 -0.9
+Retail Term Deposits 4,16,033 4,55,626 9.5 4,37,358 4,55,626 4.2
+Bulk Deposits 
+(including CD)^2,10,673 2,00,815 -4.7 2,24,755 2,00,815 -10.7
+Domestic Deposits 10,50,306 11,05,460 5.3 11,28,514 11,05,460 -2.0
+International Deposits 1,49,602 2,01,534 34.7 1,98,444 2,01,534 1.6
+Total Deposits 11,99,908 13,06,994 8.9 13,26,958 13,06,994 -1.5
+Domestic CASA(%) 40.33% 40.62% 29 bps 41.33% 40.62% (71 bps)
+^Bulk deposits considered for June’24 is as per latest guideline (INR 3 crore and above)
+=== page 12 ===
+12Particulars
+(INR crore)Jun’23 Jun’24 YoY (%) Mar’24 Jun’24 QoQ  (%)
+Retail* 1,84,091 2,22,494 20.9 2,14,942 2,22,494 3.5
+Home Loans* 99,976 1,14,711 14.7 1,11,791 1,14,711 2.6
+Auto Loans* 32,171 40,242 25.1 38,697 40,242 4.0
+Mortgages Loans* 17,100 18,988 11.0 18,715 18,988 1.5
+Education Loans 8,400 9,981 18.8 9,800 9,981 1.8
+Personal Loans 22,042 30,691 39.2 29,784 30,691 3.0
+Gold Loans 2,660 6,288 136.4 4,546 6,288 38.3
+Others 1,742 1,594 -8.5 1,608 1,594 -0.9
+Agriculture 1,27,583 1,39,160 9.1 1,38,640 1,39,160 0.4
+Gold Loans 37,992 42,621 12.2 42,926 42,621 -0.7
+MSME* 1,09,220 1,19,940 9.8 1,19,415 1,19,940 0.4
+Corporate 3,46,822 3,55,375 2.5 3,79,747 3,55,375 -6.4
+Others 44,910 44,816 -0.2 45,372 44,816 -1.2
+Gross Domestic Advances 8,12,626 8,81,785 8.5 8,98,116 8,81,785 -1.8
+International Gross Advances 1,78,362 1,89,896 6.5 1,92,390 1,89,896 -1.3
+Global Gross Advances 9,90,988 10,71,681 8.1 10,90,506 10,71,681 -1.7Advances 
+% share in Gross Domestic Credit in Jun’24
+% share in Gross Domestic Credit in Jun’23
+Corporate 
+40.3%
+MSME
+14.3%Retail^
+29.6%Agriculture
+15.8%
+^ Retail including Pool, Staff, LABOD & Others*ex-pool purchase. Retail including pool stands at INR 2,30,887 crore. MSME including pool at INR 1,26,079 crore as on Jun 30, 2 024
+Corporate 
+42.7%
+MSME
+14.3%Retail^
+27.3%Agriculture
+15.7%
+=== page 13 ===
+13*External Rating Distribution of Domestic Advances above 
+INR 50 CroreParticulars  (INR crore)Jun’23 Jun’24
+Outstanding Share (%) Outstanding Share (%)
+Infrastructure of which 1,05,956 13.0 1,10,524 12.5
+1. Power  49,564 6.1 56,306 6.4
+2. Telecom 8,921 1.1 8,033 0.9
+3. Roads & Ports 35,621 4.4 34,337 3.9
+4. Other Infrastructure 11,850 1.5 11,849 1.3
+Basic Metals & Metal Industry 13,425 1.7 17,888 2.0
+of which 
+Iron & Steel 11,035 1.4 12,857 1.5
+Textiles 16,338 2.0 15,651 1.8
+Petroleum 10,394 1.3 7,145 0.8
+All Engineering 7,097 0.9 8,096 0.9
+Food Processing 16,696 2.1 13,094 1.5
+Chemicals and Chemical Products 11,913 1.5 13,251 1.5
+NBFC 1,11,926 13.8 1,20,304 13.6
+Other Industries / Sectors 1,97,733 24.3 2,05,786 23.3
+Retail Loans 1,93,566 23.8 2,30,887 26.2
+Agriculture 1,27,583 15.7 1,39,160 15.8
+Gross Domestic Advances 8,12,626 100.0 8,81,785 1003% 2%3%2%7%4%87%92%
+Jun'23 Jun'24
+A & Above BBB Below BBB UnratedIndustry -wise Outstanding
+Rating Profile  
+=== page 14 ===
+14Segment wise breakup & Ratings of NBFC Standard 
+Outstanding
+Rating Profile of NBFCs Standard  Outstanding*
+Particulars Mar’24 Jun’24
+Outstanding 
+(INR crore)% ShareOutstanding 
+(INR crore)% Share
+AAA 1,00,849 67.33 1,02,873 68.84
+AA 35,198 23.50 34,160 22.86
+A 10,600 7.08 10,001 6.69
+BBB 2,063 1.38 1,397 0.94
+BB & below 1,079 0.72 997 0.67
+Total 1,49,788 100 1,49,428 10030% 28%13% 19%45% 40%11% 14%
+Jun'23 Jun'24Pvt others
+Backed by Large
+Private
+Institutions
+Backed by PSUs
+Central & State
+PSUs
+*Includes advances and investments in Domestic & International BranchesNBFC Portfolio by Ownership
+=== page 15 ===
+15Treasury Operations
+Yield on Investment
+Particulars Jun ’23 Mar’24 Jun’24
+Domestic 6.96% 7.02% 7.12%
+International 3.53% 4.04% 5.37%
+Global 6.84% 6.91% 7.07%•Domestic  investment  book  comprises  of 74.62% in HTM ; 21.67% 
+in AFS; 2.11% in FVTPL ; 0.26% IN FVTPL -HFT and 1.34% in 
+Subsidiaries  / Joint  Ventures  and RRB’S
+•The percentage  of Investments  in SLR Securities  to NDTL  as of  
+Jun 30, 2024  was at 26.28%.  
+Modified Duration
+Particulars Jun’23 Mar’24 Jun’24
+AFS 2.07 1.92 3.22 
+HTM 4.84 4.74 4.24 
+FVTPL -- -- 2.43 
+FVTPL -HFT 3.96 3.99 0.81 
+Total Investment -- -- 4.00 Particulars (INR crore) Jun’23 Mar’24 Jun’24
+Domestic Investments 3,47,562 3,56,820 3,59,677
+of which  
+2,89,630 3,00,810 3,00,896
+SLR
+Non SLR 57,932 56,010 58,781
+Held To Maturity (HTM) 2,34,459 2,58,563 2,68,381
+Available For Sale (AFS) 1,12,549 97,433 77,940
+Fair Value Through Profit and 
+Loss (FVTPL)-- -- 7,602
+Fair Value Through Profit and 
+Loss -Held For trading 
+(FVTPL -HFT)554 824 924
+Subsidiaries/Joint Ventures/ 
+RRB’s (Domestic)-- -- 4,830
+International Investments 15,865 17,514 16,768
+Global Investments 3,63,427 3,74,334 3,76,445
+=== page 16 ===
+16Financial Inclusion 
+35,23838,168 38,956
+Q1FY24 Q4FY24 Q1FY25Transactions – By Amount (in INR crore)681700705
+Jun'23 Mar'24 Jun'24Total Financial Inclusion Accounts
+ (in  Lakh)
+741800 805
+Q1FY24 Q4FY24 Q1FY25No of Transactions Through Business 
+Correspondents (in lakhs)5.20%4.98% 4.98%
+Jun'23 Mar'24 Jun'24Zero Balance Accounts (%)
+15.28% 15.20% 15.18%
+Jun'23 Mar'24 Jun'24Market Share* of BOB in PMJDY Accounts (%)
+17.39%17.69% 17.73%
+Jun'23 Mar'24 Jun'24Market Share* of BOB in PMJDY Deposits (%)32,54938,500 37,618
+4,783 5,503 5,336
+Jun'23 Mar'24 Jun'24Balance / Avg Balance in FI accounts
+Balance in Financial Inclusion Accounts (in INR Crore) Average Balance (in INR)
+*amongst PSBsIn Q1FY25, Bank’s 85 FLC centres across the country conducted  2,253 meetings/camps to educate 92,350  people. 
+Further, our 65 RSETIs have trained 16,321 youth through 540 training programmes.
+=== page 17 ===
+17Asset Quality
+=== page 18 ===
+18Movement of NPAs 
+* Technical Write off accounts Particulars
+(INR crore)Q1 FY24 Q4 FY24 Q1 FY25
+A. Opening Balance 36,764 32,318 31,834
+B. Additions 2,761 3,200 3,018
+Out of which, Fresh Slippages 2,452 2,855 2,787
+C. Reductions 4,693 3,683 3,979
+Recovery 986 1,130 1,005
+Upgradation 951 880 652
+Cash Recovery + Upgradation 1,937 2,010 1,657
+Write -Offs 2,730 1,662 2,314
+Other Adju/ Exchange difference 26 11 8
+Closing Balance (Gross NPA) 34,832 31,834 30,873
+Net NPA 7,482 7,213 7,232
+Recovery in TWO* 663 1,202 554
+Total Recovery (NPA + TWO) 2,600 3,212 2,211
+Slippage Ratio (%) 1.05 1.12 1.05
+Credit cost (%) 0.70 0.57 0.47
+Gross NPA Ratio (%) 3.51 2.92 2.88
+Net NPA Ratio (%) 0.78 0.68 0.69
+Provision Coverage  Ratio (Including TWO) (%) 93.23 93.30 93.32
+Provision Coverage  Ratio (Excluding TWO) (%) 78.52 77.34 76.58
+=== page 19 ===
+19Sectoral & Industry wise Contribution of NPAs
+Sector -wise NPA
+Particulars (INR crore) Q1 FY24 Q4 FY24 Q1 FY25
+Corporate 1,519 2,371 2,045
+MSME 11,177 10,956 10,893
+Retail 3,385 3,295 3,811
+Agriculture 8,396 7,081 7,396
+Others 146 83 93
+Total Domestic 24,624 23,786 24,238
+International 10,208 8,048 6,635
+Global 34,832 31,834 30,873Industry -wise NPA
+Particulars (INR crore) Q1 FY24 Q4 FY24 Q1 FY25
+Infrastructure of which 287 328 145
+1. Power  65 3 3
+2. Telecom 2 2 2
+3. Roads & Ports 51 186 123
+4. Other Infrastructure 169 137 17
+Basic Metals & Metal Industry 365 401 405
+of which 
+Iron & Steel 235 267 257
+Textiles 1,281 859 756
+Petroleum & Petrochemicals 1 1 1
+All Engineering 474 440 398
+Food Processing 1,100 608 646
+Chemicals and Chemical 
+Products202 164 151
+=== page 20 ===
+20Asset Quality : Sectoral  Fresh Slippages 
+SMA1 and SMA2 as a per cent of Standard advances 
+(Accounts with outstanding above INR 5 crore CRILC data.) 
+Collection  efficiency  (excluding  Agriculture)  stands  
+at 98.98% as of June  2024 . The GNPA ratio for Housing loans (ex -pool) is 1.14%, Auto loans (ex -pool) is 1.48%; 
+Personal loans is 2.54% ; Retail Gold loan is 0.62% as of June 20240.48
+0.150.18
+Jun-23 Mar-24 Jun-24CRILC o/s SMA1 and SMA 2 (%)
+Fresh Slippages
+Particulars (INR crore) Q1 FY24 Q4 FY24 Q1 FY25
+Corporate 177 176 48
+MSME 1,143 1,138 1,206
+Retail 612 600 842
+Agriculture 436 917 644
+Others 9 10 18
+Total Domestic 2,378 2,841 2,758
+International 74 14 29
+Global 2,452 2,855 2,787
+=== page 21 ===
+21Exposure to NCLT Accounts   
+2,320 4,641 6,321 33,276 46,558 
+RBI List 1 RBI List 2 ACCOUNT
+FILED BY BOBACCOUNT
+FILED BY
+OTHERSTOTAL
+Exposure in INR Crore100% 100% 100% 99% 99%
+RBI 1 List RBI 2 List Accounts
+filed by BOB
+at NCLTAccounts
+filed by
+others at
+NCLTTotal
+Provision Coverage (%)
+Provision Coverage Ratio under NCLT accounts is 99%
+=== page 22 ===
+22Capital Adequacy
+=== page 23 ===
+23Capital Adequacy  
+Particulars (INR crore) Jun ’23 Mar’24 Jun’24 Jun’24  (Consolidated)
+Common Equity Tier I Capital (CET 1) 85,677 99,650 1,02,478 1,10,114
+Tier I Capital 97,887 1,11,765 1,14,743 1,22,379
+Tier II Capital 15,763 17,832 17,010 17,169
+Total Capital 1,13,650 1,29,597 1,31,754 1,39,54811.94% 11.57% 11.11%12.54% 13.08% 13.57%1.70%1.62%1.56%1.53%1.57%1.51%2.20%2.11%2.05%2.24%2.17%2.12%
+Jun'23 Sep'23 Dec'23 Mar'24 Jun'24 Consol Jun'24Tier II
+AT-1
+CET-115.84%15.30% 14.72%16.31%16.82%17.20%
+➢Healthy LCR of 138% (approx.)
+➢Adjusted for Q1FY25 Profits, CET-1 would have been 13.53 % and CRAR 17.27 %
+=== page 24 ===
+24Sustainability Initiatives
+=== page 25 ===
+25Sustainability Initiatives….1/3 
+Bank  has executed  an MOU  with KFW,  a multilateral  
+finance  agency,  under  the programme  known  as 
+"Solar  Partnership  - Promotion  of Solar  / PV in 
+India"  ("Programme ") to re-finance  certain  
+investments  in the field of solar  energy  at a 
+competitive  rate of interest  
+Bank  has entered  into an MOU  with IREDA   for 
+collaboration  in areas  of Co-Lending/Co -
+origination  for Renewable  Energy  Projects  as well as 
+Loan  Syndication  and Underwriting .
+Bank  has an outstanding  of INR 15,908 crore  for 
+financing  renewable  energy  projects  under  
+Corporate  Credit  segment  
+Efficiency & Green Initiatives
+Sustainable & Social Loans
+All boundary  lights  in the Corporate  Office  
+Building,  Mumbai  are powered  through  Solar  
+Energy,  with the help of a Solar  Tree,  thereby  
+adopting  renewable  energy  sources
+All  domestic  branches  have  LED lights  installed  
+in the premises  for energy  conservationBank  has set up rain water  harvesting  system  in 
+some  of their Administrative  Buildings . 
+Waterless  Urinals  are installed  in several  
+Administrative  Buildings . Saving  approx . 30 lakh Litres  
+of water  a year
+Recycled  water  is being  used  in washrooms  of 
+Corporate  Office  Building
+Bio-Gas plant  (capacity  of 500Kg wet waste)  is 
+installed  at Bank’s  building  at BKC,  Mumbai  which  
+produces  cooking  gas that is used  in Bank’s  canteen  and 
+organic  manure  is used  in garden/lawns .-178- branches  (1.3 MW in total)  in rural/semi  urban  
+areas  are being  run on Solar  Energy . Approx . 4000  
+Tons  of Carbon  Dioxide  Emission  reduced  as a 
+result  of using  Green/Renewable/Solar  Energy . 
+60 Bank’s  owned  Buildings  have  Solar  Panels  
+installed  in their  premises  (total  capacity  of 1.26 MW) .
+More  than 900 water  efficient  taps have  been  installed  
+towards  commitment  of reduction  in water  wastage  
+Implementation  of No SUP (Single  Use Plastic)  
+usage  at Bank’s  offices  PAN India .As per continuation  of Special  Campaign  3.0, 
+Cleanliness  activity  and scrap disposal  of approx. 
+Rupees  5 Lakhs  were  carried  out. Bank  has schemes  for financing  solar  powered  
+pumps,  compressed  Bio gas plants,  installation  of 
+Solar  Pumps  and grid connected  solar  and other  
+renewable  power  plants  for farmers . Also,  more  
+loans  are encouraged  for micro  irrigation  for efficient  
+use of water
+As on June  2024 , Bank  has extended  loans  to -
+3,84,010- SHGs  with total  outstanding  amount  of 
+INR 12,221 crores . 
+Governance Frameworks
+➢Bank  has a ‘Code  of Ethics’  which  is a landmark  
+initiative  for a Public  Sector  Bank . It follows  a 
+stakeholder  centric  approach  and reaffirms  the 
+Bank’s  commitment  to each  of our stakeholders . It also 
+underlines  the Bank’s  responsibility  to protect  the 
+environment  and play a part in transition  towards  a low 
+carbon  and resource  efficient  economy .➢In order  to embed  the sustainability  culture  across  the 
+organisation , the Bank  has constituted  an independent  
+CSR  & Sustainability  Committee  of the Board  to oversee  
+implementation  of CSR  initiatives,  sustainable  strategies,  
+policies  and practices .
+=== page 26 ===
+26Sustainability Initiatives….2/3
+➢Implemented  Green  Finance  Framework  in 
+March  2024  for:
+▪Raising  of the Green  Deposits  and Enabling  
+Flow  of Credit  for the Green  Activities .
+▪Defining  of criteria(s)  for Channelization  of 
+Credit  to the Green  Activities .
+▪Specifies  09 Eligible  Sectors  for financing  of 
+proceeds  raised  through  the Green  Deposits .
+➢ESG  Risk rating  of the Bank  by Sustainalytics  
+has improved  from High Risk to Medium  Risk.
+➢Bank  is Ranked  at 357 out of 1052  Peer  Banks  
+(as updated  on July 13, 2024 ).
+ESG Rating
+Renewable  Energy
+Energy  Efficiency
+Clean  Transportation
+Climate  Change  Adaptation
+Sustainable  Water  and Waste  
+Management
+Pollution  Prevention  and Control
+Green  Buildings
+Sustainable  Management  of Living  
+Natural  Resources  and Land  Use
+Terrestrial  and Aquatic  Biodiversity  
+Conservation09 Eligible Sectors
+Green Initiatives for 117th Foundation Day (July 
+20, 2024) Celebrations of the Bank 
+➢Launched  'Environment  Pledge’  for the 
+Barodians .
+➢Launched  E-course  on ‘Climate  Risk 
+Management’  for the Barodians .
+=== page 27 ===
+27Sustainability Initiatives  …3/3
+Baroda  Anubhuti  Program
+➢Under  the aegis  of Baroda  Anubhuti  Program  which  is designed  to foster  the 
+spirit  of team  bonding  and collaboration,  camaraderie  and creating  a happy  
+and fun workplace,  various  initiatives  like employee  of the month,  spot 
+recognition –capturing  ‘WoW’  moments,  fun hour at all branches/offices  were  
+conducted .
+➢Apart  from above  activities,  world  environment  day was celebrated  with tree 
+plantation  on 5th June  2024  in few Branches/  offices
+➢Bank  celebrated  International  Day of Yoga  on 21st June  2024  by, organizing  
+mass  Yoga  sessions  at all Administrative  Offices,  Holding  sessions  at suitable  
+centres  under  Yoga  experts'  supervision,  Displaying  banners  or posters  at all 
+Branches/Offices . Yoga Day
+Employee Engagement
+=== page 28 ===
+28Digital Milestones
+=== page 29 ===
+29Digital Milestones….1/2 
+UPI Remittance 
+Success Rate92%
+Credit Card 
+sourced digitally79% 2nd  
+Rank in Debit Card 
+Issuance
+Source: RBIJune’24Rank in UPI 
+remittance3rd  
+Transactions done 
+digitally95%
+New SHG Acquisition 
+(Digitally)99%
+New SA acquisition 
+(Digitally)94%
+New CA acquisition 
+(Digitally)
+ 95%Source: NPCI
+Rank in IMPS 
+Beneficiary3rd  
+Source: NPCI May’ 24June’ 24 Source: NPCI
+All figure are as on Q1FY25 June’24June’  24New FD
+(through Digital)16%
+New RDs 
+(through Digital)35%
+=== page 30 ===
+30Digital Milestones…2/2 
+Daily Txns   on 
+bob World
+(Fin & Non -Fin)5.20 Million   
+% IMPS txns through 
+bob world85%   
+%FDs/RDs opened 
+through bob world15%   
+% Billpay  txns 
+through bob World71%   
+UPI handle 
+generated through 
+bob World1.4 Lakhs Digital Passbook 
+accessed through 
+bob world84%   
+Average 
+Engagement Ratio in 
+bob World4.3  
+All figure are as on Q1FY25 June’24PPF Account 
+Opening through 
+bob world28%   
+UPI handle 
+generated through 
+bob World UPI2.2 Lakhs  
+=== page 31 ===
+31Consolidated Financials 
+=== page 32 ===
+32Subsidiaries and JVs Performance
+Baroda BNP Paribas Asset 
+Management India Pvt. Ltd.
+(Subsidiary Holding – 50.1%)IndiaFirst  Life Insurance Co. Ltd. 
+(Subsidiary Holding - 65%) BOBCARD Limited 
+(Subsidiary Holding – 100%) 
+Note: APE stands for Annualised  Premium Equivalent, where single premium is considered at 10%
+❑IndiaFirst  Life recorded  YoY growth  of 4.8% on Gross  
+premium  income  with INR 1,401.47 crore  for Q1 
+FY25.
+❑IndiaFirst Life recorded YoY decline  of 6.8% on New 
+Business  GWP  for Q1 FY25.
+❑IndiaFirst  Life ranked  11th in Q1FY25 on New 
+Business  Gross  Written  Premium  as compared  to 9th 
+in Q1 FY24 among  private  peers .
+❑Market  share  amongst  Private  Insurers  stands  at 
+1.2% for Q1 FY25 (Individual  NB APE terms) .
+❑AUM  as of June  30, 2024  stands  at INR 28,743.85 
+crore  a growth  of 24.1% YoY.
+❑Net profit  in Q1 FY25 increased  14 times  YoY to INR 
+36.51 crore  (Q1 FY 24 – INR 2.52 Crs).❑Overall  AUM  for Q1FY25 grew  by 40% YoY stands  at 
+INR 41,222 crore,  this includes  the offshore  advisory  
+AUM  of INR 2,705 crore .. 
+❑Gross  Revenue  for Q1FY25 grew  by 34% YoY stood  
+at INR 38.90 crore
+❑Net profit  after tax for Q1FY25 stands  at INR 3.53 
+crore .❑Number  of Cards  (Card  base)  as of Jun,2024  stood  at 
+25.85 lakhs  with 29% YoY growth .
+❑1.94 lakh new Credit  Cards  were  issued  in Q1 FY’25
+❑Spends  in Q1 FY’25grew  by 45% compared  to Q1 
+FY’24 (from  INR 5,721 crore  to INR 8,280 crore)
+❑Net Profit  for Q1 FY’25 increased  by 748% YoY growth  
+stands  at INR 20.43 crore  (Q1 FY24 - Rs 2.41 Crs)
+❑Credit  rating  of A1+ (Short  Term  Rating)
+❑CRAR  as of Jun 30, 2024 , is at 15.05%.
+=== page 33 ===
+33Subsidiaries and JVs Performance
+Baroda Global Shared Services Limited
+(Subsidiary Holding – 100%)BOB Capital Markets Limited
+(Subsidiary Holding – 100%)
+India Infradebt  Limited
+(Joint Venture of 40.99%)
+❑The gross  revenue  for Q1FY25 grew  by 45% YOY  stood  
+at INR 12.41 crores .
+❑Income  from Investment  Banking  Division  has increased  
+by 7X stood  at INR 4.36 crores .
+❑Retail  Broking  revenue  increased  by 81% YoY stood  at 
+INR 2.64 crores  for Q1FY25  and Retail  client  base  
+increased  by 79% stood  at 2,25,613 
+❑Company  had launched  new BOB  World  eTrade  
+platform  on May 31. 2024  & all retail  clients  have  been  
+successfully  migrated  to new platform .
+ 
+❑Institutional  Equity  Broking  revenue  increased  by 21% 
+stood  at INR 2.55 crores .
+❑Debt  Resolution  division  booked  revenue  of INR 0.50 
+crore  in Q1FY25 & Debt  Syndication  division  has signed  
+syndication  mandate  for debt amount  of INR 800 crore  
+and booked  revenue  of INR 0.07 crore  in Q1FY25.❑BGSSL  total income  grew  by 21.37% YoY in Q1 FY25 
+stood  at INR 107.74 crore .
+❑Revenue  from operations  grew  by 21.17% YoY in Q1 
+FY25 and stood  at INR 107.29 crore .
+❑Profit  Before  Tax (PBT)for  Q1 FY25 stands  at INR 4.73 
+crore .
+❑Profit  After  tax (PAT)for  Q1 FY25 stands  at INR 3.43 
+crore .❑India  Infradebt  Limited  focused  on disbursement  in 
+renewable  energy  and other  sectors  during  Q1 FY25.
+❑Total  Income   (NII + Other  Income)  during  Q1 FY25 
+increased  by 13.60% YoY to INR 171.8 crore .
+❑Net profit  in Q1 FY25 increased  by 26.86% YoY to INR 
+153.42 crore .
+=== page 34 ===
+34Overseas Subsidiaries Performance  
+Bank of Baroda (Kenya) Ltd.
+(Subsidiary Holding – 86.7%)Bank of Baroda (Uganda) Ltd.
+(Subsidiary Holding – 80%)
+Financial year end for Uganda and Kenya is December. Bank of Baroda (Botswana) Ltd.
+(Subsidiary Holding – 100%)
+❑Total  Deposits  stands  at INR 1,711.44 crore  as 
+at the end of Q1FY25 registering  a growth  of 
+28.39% YoY.
+❑The net advances  grew  by 4.13% on a YoY 
+basis  to INR 1,189.16 crore  at the end of 
+Q1FY25.
+❑Net profit  increased  by 16.56% YoY to INR 
+18.81 crore  for Q1FY25.
+❑The RONW  for Q1FY25 stands  at 20.06%. 
+❑The GNPA  ratio as at the end of Q1FY 25 is at 
+1.62%.❑Total  Deposits  stands  at INR 4,389.13 crore  as 
+at the end of Q1FY25 registering  a growth  of 
+12.12% YoY.
+❑The net advances  grew  by 17.02% on a YoY 
+basis  to INR 2,802.40 crore  at the end of 
+Q1FY25.
+❑Net profit  increased  by 119.34% YoY to INR 
+84.68 crore  for Q1 FY 25 as per IGAAP/  
+INDAS  guidelines  applicable  in India . However,  
+as per Uganda  Financial  Reporting  Standards  
+(UFRS)  prevailing  in the country,  the subsidiary  
+has booked  a Net profit  of INR 86.23 crore .
+❑The RONW  for Q1 FY25 stands  at 21.39%.
+❑The GNPA  ratio as at the end of Q1FY 25 is at 
+0.18%.❑Total  Deposits  stands  at INR 10,237.49 crore  
+as at the end of Q1FY 25.
+❑The net advances  grew  by 6.30% on a YoY 
+basis  and stood  at INR 3,971.97 crore  at the 
+end of Q1FY 25.
+❑Net profit  decreased  by 37.05% YoY to INR 
+38.83 crore  for Q1FY 25 as per IGAAP  / INDAS  
+guidelines  applicable  in India . However,  as per 
+Kenya  Financial  Reporting  Standards  (KFRS)  
+prevailing  in the country,  the subsidiary  has 
+booked  a Net profit  of INR 68.51 crore .
+❑The RONW  for Q1FY25 stands  at 8.70%. 
+❑The GNPA  ratio as at the end of Q1FY25 is at 
+14.08%.
+=== page 35 ===
+35Balance Sheet and PL – Consolidated 
+Particulars
+(INR crore)Jun’23 Mar ’24 Jun ’24
+CAPITAL & LIABILITIES
+Capital 1,036 1,036 1,036
+Share Application Money Pending 
+Allotment0 0 0
+Reserves & Surplus 1,08,466 1,18,677 1,27,276
+Minority Interest 994 1,018 1,081
+Deposits 12,29,429 13,51,802 13,30,634
+Borrowings 1,23,303 1,01,959 1,02,266
+Other Liabilities & Provisions 78,486 80,287 87,446
+T O T A L 15,41,714 16,54,779 16,49,739
+ASSETS
+Cash and Balances with RBI 57,938 56,720 57,558
+Balances with Banks 43,688 43,570 46,663
+Investments 3,93,619 4,07,136 4,14,653
+Loans & Advances 9,85,529 10,88,983 10,71,916
+Fixed Assets 8,715 8,148 7,968
+Other Assets 51,314 49,311 50,070
+Goodwill on Consolidation 911 911 911
+T O T A L 15,41,714 16,54,779 16,49,739Particulars
+(INR crore)Q1FY24 Q1FY25 YOY (%)
+Net Interest Income 11,942 12,561 5.2
+Non-Interest Income 5,316 4,658 -12.4
+Total Income 17,258 17,219 -0.2
+Operating Expenses 7,763 8,438 8.7
+Operating Profit 9,495 8,781 -7.5
+Provisions 3,278 2,442 -25.5
+Profit before Tax 6,217 6,339 2.0
+Tax 1,914 1,759 -8.1
+Minority Interest 16 36 --
+Share of Earning in Associates 165 184 11.5
+Profit after Tax 4,452 4,728 6.2
+EPS (INR) 8.61 9.14 6.2
+=== page 36 ===
+Disclaimer
+The information  contained  in this presentation  is provided  by Bank  of Baroda  (the “Bank ”) to you solely  for your information . This document  is highly  confidential  and being  given  solely  for your use and may 
+not be retained  by you and neither  this presentation  nor any part thereof  may be (i) used  or relied  upon  by any other  party  or for any other  purpose ; (ii) copied,  photocopied,  duplicated  or otherwise  reproduced  
+in any form or by any means ; or (iii) re-circulated,  redistributed,  passed  on, published  in any media,  website  or otherwise  disseminated,  to any other  person,  in any form or manner,  in part or as a whole,  
+without  the prior written  consent  of the Bank . Any unauthorized  use, disclosure  or public  dissemination  of information  contained  herein  is prohibited . This presentation  does  not purport  to be a complete  
+description  of the markets’  conditions  or developments  referred  to in the material .
+This presentation  is for private  circulation  only and does  not constitute  and should  not be construed  as an offer or invitation  or inducement  to sell or issue,  or any solicitation  of any offer to purchase  or 
+subscribe  for, any securities  of the Bank,  nor shall it or any part of it or the fact of its distribution  form the basis  of, or be relied  on in connection  with, any contract  or commitment  therefor . This presentation  is 
+for general  information  purposes  only, without  regard  to any specific  objectives,  financial  situations  or informational  needs  of any particular  person .
+No representation,  warranty,  guarantee  or undertaking,  express  or implied,  is or will be made  or any assurance  given  as to, and no reliance  should  be placed  on, the fairness,  accuracy,  completeness  or 
+correctness  of any information,  estimates,  projections  or opinions  contained  herein . Potential  investors  must  make  their own assessment  of the relevance,  accuracy  and adequacy  of the information  contained  
+in this presentation  and must  make  such  independent  investigation  as they may consider  necessary  or appropriate  for such  purpose . The statements  contained  in this presentation  speak  only as at the date as 
+of which  they are made,  and the Bank  expressly  disclaims  any obligation  or undertaking  to supplement,  amend  or disseminate  any updates  or revisions  to any statements  contained  herein  to reflect  any 
+change  in events,  conditions  or circumstances  on which  any such  statements  are based . Neither  the Bank  nor any of its respective  affiliates,  its board  of directors,  its management,  advisers  or representatives,  
+including  any lead managers  and their affiliates,  or any other  persons  that may participate  in any offering  of securities  of the Bank,  shall have  any responsibility  or liability  whatsoever  (in negligence  or 
+otherwise)  for any loss howsoever  arising  from any use of this presentation  or its contents  or otherwise  arising  in connection  with this presentation .
+The Bank  may alter,  modify  or otherwise  change  in any manner  the contents  of this presentation,  without  obligation  to notify  any person  of such  revision  or changes . Certain  statements  made  in this 
+presentation  may be “forward  looking  statements”  for purposes  of laws and regulations  of India  and other  than India . These  statements  include  descriptions  regarding  the intent,  belief  or current  expectations  
+of the Bank  or its directors  and officers  with respect  to the results  of operations  and financial  condition,  general  business  plans  and strategy,  the industry  in which  the Bank  operates  and the competitive  and 
+regulatory  environment  of the Bank . These  statements  can be recognized  by the use of words  such  as “expects,”  “plans,”  “will,”  “estimates,”  “projects,”  or other  words  of similar  meaning . Such  forward -looking  
+statements  are not guarantees  of future  performance  and involve  risks and uncertainties,  and actual  results  may differ  from those  in such  forward -looking  statements  as a result  of various  factors  and 
+assumptions,  including  future  changes  or developments  in the Bank’s  business,  its competitive  environment,  information  technology  and political,  economic,  legal,  regulatory  and social  conditions  in India,  
+which  the Bank  believes  to be reasonable  in light of its operating  experience  in recent  years . The Bank  does  not undertake  to revise  any forward -looking  statement  that may be made  from time to time by or on 
+behalf  of the Bank .
+This presentation  is not an offer to sell or a solicitation  of any offer to buy the securities  of the Bank  in the United  States  or in any other  jurisdiction  where  such  offer or sale would  be unlawful . Securities  may 
+not be offered,  sold,  resold,  pledged,  delivered,  distributed  or transferred,  directly  or indirectly,  in to or within  the United  States  absent  registration  under  the United  States  Securities  Act of 1933 , as amended  
+(the “Securities  Act”),  except  pursuant  to an exemption  from,  or in a transaction  not subject  to, the registration  requirements  of the Securities  Act and in compliance  with any applicable  securities  laws of any 
+state  or other  jurisdiction  of the United  States . The Banks’s  securities  have  not been  and will not be registered  under  the Securities  Act.
+Neither  this document  nor any part or copy  of it may be distributed,  directly  or indirectly,  in the United  States . The distribution  of this document  in certain  jurisdictions  may be restricted  by law and persons  in to 
+whose  possession  this presentation  comes  should  inform  themselves  about  and observe  any such  restrictions . By reviewing  this presentation,  you agree  to be bound  by the foregoing  limitations . You further  
+represent  and agree  that you are located  outside  the United  States  and you are permitted  under  the laws of your jurisdiction  to receive  this presentation .
+The financial  figures  and ratios,  are based  on the audited  financials  or limited  review  financials  or based  on management  estimates . 
+=== page 37 ===

@@ -1,0 +1,132 @@
+ 
+CIN:L55101WB1949PLC017981  
+CORPORATE OFFICE:  7 SHAM NATH MARG, DELHI -110054 , INDIA / TELEPHONE: +91 -11-23890505/ WEBSITE: WWW.EIHLTD.COM   
+email: isdho@oberoigroup.com  
+ 
+ REGISTERED OFFICE : N-806-A, 8th Floor, Diamond Heritage Building, 16, Strand Road, Fairley Place, Kolkata - 700001  
+                      04th May 2024     
+The National Stock Exchange of India 
+Limited  
+Exchange Plaza, 5th Floor  
+Plot No..C/1, G Block  
+Bandra Kurla Complex  
+Bandra(E)  
+Mumbai –  400 051. 
+Code: EIHOTEL  The BSE Limited  
+Corporate Relationship Dept.  
+1st Floor,New Trading Ring  
+Rotunda Building  
+Phiroze Jeejeebhoy Towers  
+Dalal Street,Fort  
+Mumbai -400001  
+Code:500840  
+  
+SUB: INTIMATION REGARDING ISSUE OF DUPLICATE SHARE CERTIFICATE S 
+UNDER REGULATION 39(3) OF SEBI (LISTING OBLIGATION S AND DISCLOSURE 
+REQUIREMENT S) REGULATION S, 2015  
+  
+Dear Sirs / Madam,  
+ 
+Intimation is given pursuant to Regulation 39(3) of SEBI (Listing Obligation s and Disclosure 
+Requirement s) Regulation s, 2015 (Listing Regulations), regarding issue of duplicate share 
+certificate by issuing  Letter of Confirm ation as per SEBI circular No. 
+SEBI/HO/MIRSD/MIRSD_RTAMB/P/CIR/2022/8 dated January 25, 2022 to shareholders  as per 
+the details given in Annexure.  
+ 
+The above may please be taken on record.  
+ 
+Thanking you,  
+ 
+Yours faithfully  
+For EIH Limited  
+ 
+ 
+Lalit Kumar Sharma  
+Company Secretary  
+ 
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN600579TO: TN600575FROM:EIH Ltd
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+TN600575 124355
+BIRENDRA NARAYAN BASAK
+SHIB NARAYAN BASAK03/05/2024
+DUP 2.00OLD 45  47264010  47263966  45  1359762  1359762 
+ 2.00OLD 22  285597533  285597512  22  1390222  1390222 
+ 67 ---------------
+ 2.00NEW 45  47264010  47263966  45  1430671  1430671 
+ 2.00NEW 22  285597533  285597512  22  1430671  1430671 
+ 67 ---------------
+TN600576 151443
+BIRENDRA NARAYAN BASAK
+SHIB NARAYAN BASAK03/05/2024
+DUP 2.00OLD 65  48723265  48723201  65  1363912  1363912 
+ 2.00OLD 32  286326633  286326602  32  1394372  1394372 
+ 97 ---------------
+ 2.00NEW 65  48723265  48723201  65  1430672  1430672 
+ 2.00NEW 32  286326633  286326602  32  1430672  1430672 
+ 97 ---------------
+TN600577 182050
+ARUN D VARANGAONKAR 03/05/2024
+DUP 2.00OLD 250  287938905  287938656  250  1398858  1398858 
+ 250 ---------------
+ 2.00NEW 250  287938905  287938656  250  1430673  1430673 
+ 250 ---------------
+TN600578 203363
+SHARAD VISHNU HANDE 03/05/2024
+DUP 2.00OLD 630  52943700  52943071  630  1371732  1371732 
+ 2.00OLD 315  288434884  288434570  315  1402192  1402192 
+ 945 ---------------
+04/05/2024 1 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+STUS PAID SHARES  TO  FROM TO FROM SHAREHOLDER'S 
+NAMEFOLIO NO. SR NO.TN600579TO: TN600575FROM:EIH Ltd
+REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DenoCert
+Type
+MICR 
+FromMICR 
+To
+ 2.00NEW 630  52943700  52943071  630  1430674  1430674 
+ 2.00NEW 315  288434884  288434570  315  1430674  1430674 
+ 945 ---------------
+TN600579 035504
+DEBA PRASAD HALDAR 03/05/2024
+DUP 2.00OLD 315  38810885  38810571  315  1347472  1347472 
+ 2.00OLD 157  281373686  281373530  157  1377932  1377932 
+ 472 ---------------
+ 2.00NEW 315  38810885  38810571  315  1430675  1430675 
+ 2.00NEW 157  281373686  281373530  157  1430675  1430675 
+ 472 ---------------
+04/05/2024 2 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
+************************ BATCH CONTROLS****************************
+1. TOTAL NO.OF REQUESTS                                                        5 
+2. TOTAL NO.OF OLD CERTIFICATES                     
+3. TOTAL NO.OF NEW CERTIFICATES                     
+4. TOTAL NO.OF PAGES                                3 
+******************** CERTIFICATE (S)CONTROLS***********************
+5. TOTAL NO.OF DUPLICATED CERTIFICATE      
+6. TOTAL NO.OF DUPLICATED SHARES                 1831 
+7. TOTAL NO.OFSUB DIVIDED CERTIFICATE        
+8. TOTAL NO.OFSUB DIVIDED SHARES                 
+10.TOTAL NO.OF CONSOLIDATED SHARES          9. TOTAL NO.OF CONSOLIDATED CERTIFICATE   TN600579TO: TN600575 FROM:
+ 0 
+ 0 REGISTER OF NEW SHARE CERTIFICATES ISSUED ON DUPLICATION  
+:
+:
+:
+:
+:
+:
+:
+:::EIH Ltd
+ 9 
+ 0 
+ 0  9 
+ 9 
+04/05/2024 3 PRINTED DATE: PAGE NO.------------------------------------------------------------------------------------------------------------
